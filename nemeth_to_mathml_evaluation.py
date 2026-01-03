@@ -43,16 +43,16 @@ MIN_MATHML_LENGTH = 20
 MAX_MATHML_LENGTH = 200
 
 # Sampling parameters
-NUM_FEW_SHOT_EXAMPLES = 10
+NUM_FEW_SHOT_EXAMPLES = 40
 NUM_TEST_PAIRS = 20
 
 # Model configuration
-MODEL_NAME = "o3-mini"
-REASONING_EFFORT = "low"  # Options: "low", "medium", "high"
+MODEL_NAME = "o3"
+REASONING_EFFORT = "high"
 MAX_COMPLETION_TOKENS = 10_000
 
 # Output
-OUTPUT_CSV = BASE_DIR / "nemeth_mathml_evaluation_results.csv"
+OUTPUT_CSV_TEMPLATE = "nemeth_mathml_evaluation_results_{timestamp}.csv"
 CHECKPOINT_INTERVAL = 10  # Save checkpoint every N pairs
 
 # Random seed for reproducibility
@@ -188,12 +188,65 @@ def build_system_prompt() -> str:
     """Build the system instruction for the model."""
     return """You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
 
+NEMETH BRAILLE ENCODING RULES:
+
+Numbers and Digits:
+- ⠼ = Number indicator (starts a numeric sequence)
+- After ⠼, the following symbols represent digits:
+  ⠁=1, ⠆=2, ⠒=3, ⠲=4, ⠢=5, ⠖=6, ⠶=7, ⠦=8, ⠔=9, ⠴=0
+- Number sequences terminate at: space, letter (variable), or operation symbol
+- Example: ⠼⠁⠆ = "12" (number 12)
+- Example: ⠼⠆⠁ = "2a" (2 times variable a, NOT 21)
+
+Decimal Points:
+- ⠨ before/within digits = decimal point
+- Example: ⠼⠁⠨⠆ = "1.2"
+- Example: ⠼⠴⠨⠴⠦ = "0.08"
+- IMPORTANT: ⠨ in number context is ALWAYS a decimal point, never a comma
+
+Operators and Relations:
+- ⠨⠅ = equals sign (=)
+- ⠐⠅ = less than (<)
+- ⠐⠅⠱ = less than or equal to (≤)
+- ⠨⠂ = greater than or equal to (≥)
+- ⠬ = plus (+)
+- ⠤ = minus (−)
+- ⠈⠡ = times (×)
+
+Superscripts and Subscripts:
+- ⠘ = superscript start
+- ⠸ = superscript end (when multi-character or before continuing)
+- ⠰ = subscript start
+- Example: ⠭⠘⠆ = x² (x squared)
+- Example: ⠭⠘⠒⠸⠬⠁ = x³+a (superscript ends before the +)
+- Example: ⠭⠰⠂ = x₁ (x subscript 1)
+
+Fractions:
+- ⠹ = fraction start
+- ⠌ = fraction bar (separates numerator from denominator)
+- ⠼ = fraction end
+- Example: ⠹⠁⠌⠆⠼ = 1/2 (one half)
+- Example: ⠹⠒⠌⠲⠼ = 3/4 (three quarters)
+
+Grouping Symbols:
+- ⠷ = open parenthesis (
+- ⠾ = close parenthesis )
+- ⠨⠷ = open bracket [
+- ⠨⠾ = close bracket ]
+
+Variables and Letters:
+- Letters use standard braille codes
+- When NOT preceded by ⠼, braille letters represent variables
+- Example: ⠭ = x, ⠁ = a (as variable), ⠃ = b, etc.
+
 IMPORTANT INSTRUCTIONS:
 - Provide ONLY the MathML output
 - Do NOT include explanations, comments, or any text besides the MathML
 - Ensure the output is valid, well-formed XML
 - Include the proper xmlns namespace in the <math> tag
-- Preserve mathematical meaning and structure accurately"""
+- Preserve mathematical meaning and structure accurately
+- Pay special attention to number indicators (⠼) and decimal points (⠨)
+- When you see ⠨ within a number context, it is ALWAYS a decimal point"""
 
 
 def format_few_shot_examples(examples: List[Dict[str, Any]]) -> str:
@@ -345,6 +398,7 @@ async def process_single_pair(client: AsyncOpenAI,
         'ground_truth_mathml': test_pair['mathml'],
         'ground_truth_length': len(test_pair['mathml']),
         'predicted_mathml': predicted_mathml,
+        'prompt': prompt,
         'model_name': api_result['model_name'],
         'timestamp': datetime.now(UTC).isoformat(),
         'prompt_tokens': api_result['prompt_tokens'],
@@ -407,6 +461,7 @@ def write_results_csv(results: List[Dict[str, Any]], output_path: Path):
         'nemeth_braille', 'nemeth_length',
         'ground_truth_mathml', 'ground_truth_length',
         'predicted_mathml',
+        'prompt',
         'model_name', 'timestamp',
         'prompt_tokens', 'completion_tokens', 'total_tokens', 'reasoning_tokens', 'reasoning_effort',
         'response_time_seconds',
@@ -442,6 +497,7 @@ async def main():
     print("=" * 80)
     print()
 
+    output_csv = BASE_DIR / OUTPUT_CSV_TEMPLATE.format(timestamp=datetime.now(UTC).strftime("%Y%m%d_%H%M%S"))
     client = AsyncOpenAI(api_key=(os.getenv("OPENAI_API_KEY")))
     all_pairs = load_all_highschool_pairs()
     test_pairs = random.sample(all_pairs, NUM_TEST_PAIRS)
@@ -449,7 +505,7 @@ async def main():
     print("Running evaluation...")
     results = await run_evaluation(client, test_pairs, all_pairs)
 
-    write_results_csv(results, OUTPUT_CSV)
+    write_results_csv(results, output_csv)
 
     # 6. Summary statistics
     print("SUMMARY")
@@ -474,7 +530,7 @@ async def main():
         print(f"\nPerformance:")
         print(f"  Average response time: {avg_response_time:.2f}s")
 
-    print(f"\nOutput file: {OUTPUT_CSV}")
+    print(f"\nOutput file: {output_csv}")
     print("=" * 80)
 
 
