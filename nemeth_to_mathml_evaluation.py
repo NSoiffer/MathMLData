@@ -37,6 +37,7 @@ from openai import AsyncOpenAI
 BASE_DIR = Path(__file__).parent
 BRAILLE_DIR = BASE_DIR / "BrailleData" / "Braille" / "Nemeth" / "highschool"
 MATHML_DIR = BASE_DIR / "SimpleSpeakData" / "highschool"
+RESULTS_DIR = BASE_DIR / "results"
 
 # Filter parameters
 MIN_MATHML_LENGTH = 20
@@ -497,7 +498,11 @@ async def main():
     print("=" * 80)
     print()
 
-    output_csv = BASE_DIR / OUTPUT_CSV_TEMPLATE.format(timestamp=datetime.now(UTC).strftime("%Y%m%d_%H%M%S"))
+    # Create results directory if it doesn't exist
+    RESULTS_DIR.mkdir(exist_ok=True)
+
+    # Generate output CSV path in results folder
+    output_csv = RESULTS_DIR / OUTPUT_CSV_TEMPLATE.format(timestamp=datetime.now(UTC).strftime("%Y%m%d_%H%M%S"))
     client = AsyncOpenAI(api_key=(os.getenv("OPENAI_API_KEY")))
     all_pairs = load_all_highschool_pairs()
     test_pairs = random.sample(all_pairs, NUM_TEST_PAIRS)
