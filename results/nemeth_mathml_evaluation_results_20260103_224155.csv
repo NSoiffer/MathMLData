@@ -1,0 +1,1235 @@
+id,source_file,line_number,nemeth_braille,nemeth_length,ground_truth_mathml,predicted_mathml,ground_truth_length,prompt,model_name,timestamp,prompt_tokens,completion_tokens,total_tokens,reasoning_tokens,reasoning_effort,response_time_seconds,few_shot_example_indices,error
+1,Intermediate Algebra 2e-no-dups.brls,783,⠋⠷⠭⠾⠀⠨⠅⠀⠤⠭⠘⠒⠸⠲,14,<math><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mtext>−</mtext><msup><mi>x</mi><mn>3</mn></msup><mo>.</mo></mrow></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <mrow>
+    <mi>f</mi>
+    <mo stretchy=""false"">(</mo>
+    <mi>x</mi>
+    <mo stretchy=""false"">)</mo>
+    <mo>=</mo>
+    <mrow>
+      <mo>−</mo>
+      <msup>
+        <mi>x</mi>
+        <mn>34</mn>
+      </msup>
+    </mrow>
+  </mrow>
+</math>",148,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠹⠵⠂⠌⠵⠆⠼
+Output (MathML): <math><mfrac><msub><mi>z</mi><mn>1</mn></msub><msub><mi>z</mi><mn>2</mn></msub></mfrac></math>
+
+Example 2:
+Input (Nemeth Braille): ⠼⠂⠸⠹⠶⠌⠂⠆⠸⠼
+Output (MathML): <math><mrow><mn>1</mn><mfrac><mn>7</mn><mn>12</mn></mfrac></mrow></math>
+
+Example 3:
+Input (Nemeth Braille): ⠋⠷⠭⠾
+Output (MathML): <math><mrow><mi>f</mi><mo stretchy=""false"">(</mo><mi>x</mi><mo stretchy=""false"">)</mo></mrow></math>
+
+Example 4:
+Input (Nemeth Braille): ⠷⠆⠃⠤⠂⠾⠷⠒⠃⠤⠢⠾
+Output (MathML): <math><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mi>b</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mi>b</mi><mo>−</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></math>
+
+Example 5:
+Input (Nemeth Braille): ⠹⠉⠌⠤⠒⠼⠀⠨⠅⠀⠤⠼⠂⠆
+Output (MathML): <math><mrow><mfrac><mrow><mspace width=""0.4em"">&lt;mspace width=""0.4em""/&gt;</mspace><mi>c</mi></mrow><mn>−3</mn></mfrac><mo>=</mo><mn>−12</mn></mrow></math>
+
+Example 6:
+Input (Nemeth Braille): ⠠⠎⠀⠿⠀⠨⠅⠀⠹⠢⠌⠔⠼
+Output (MathML): <math><mrow><mspace width=""1em"">&lt;mspace width=""1em""/&gt;</mspace><msub><mi>S</mi><mrow/></msub><mo>=</mo><mfrac><mn>5</mn><mn>9</mn></mfrac></mrow></math>
+
+Example 7:
+Input (Nemeth Braille): ⠹⠦⠂⠭⠘⠲⠐⠽⠘⠦⠐⠌⠵⠘⠲⠐⠼
+Output (MathML): <math><mfrac><mrow><mn>81</mn><msup><mi>x</mi><mn>4</mn></msup><msup><mi>y</mi><mn>8</mn></msup></mrow><msup><mi>z</mi><mn>4</mn></msup></mfrac></math>
+
+Example 8:
+Input (Nemeth Braille): ⠝⠘⠆⠐⠤⠖⠝⠬⠦⠀⠨⠅⠀⠼⠴⠸⠲
+Output (MathML): <math><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>n</mi><mo>+</mo><mn>8</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></math>
+
+Example 9:
+Input (Nemeth Braille): ⠓⠘⠹⠂⠌⠢⠼
+Output (MathML): <math><msup><mi>h</mi><mfrac><mn>1</mn><mn>5</mn></mfrac></msup></math>
+
+Example 10:
+Input (Nemeth Braille): ⠬⠤⠜⠂⠆⠻
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mstyle displaystyle=""true"" scriptlevel=""0""><mo>±</mo><msqrt><mn>12</mn></msqrt></mstyle></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠋⠷⠭⠾⠀⠨⠅⠀⠤⠭⠘⠒⠸⠲
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:06.248319+00:00,1244,1538,2782,,low,10.56,"[""PreCalculus 2e-no-dups.brls:7024"", ""Elementary Algebra 2e-no-dups.brls:9778"", ""Beginning Algebra Made Useful-no-dups.brls:118"", ""Elementary Algebra 2e-no-dups.brls:3062"", ""PreAlgebra 2e-no-dups.brls:633"", ""Intermediate Algebra 2e-no-dups.brls:14260"", ""Intermediate Algebra 2e-no-dups.brls:2484"", ""Intermediate Algebra 2e-no-dups.brls:11454"", ""Elementary Algebra 2e-no-dups.brls:294"", ""Elementary Algebra-no-dups.brls:2560""]",
+2,Algebra and Trigonometry 2e-no-dups.brls,12599,⠭⠆⠠,3,"<math><mrow><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo></mrow></math>","<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <msup>
+    <mi>x</mi>
+    <mn>2</mn>
+  </msup>
+</math>",69,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠹⠂⠢⠌⠂⠂⠂⠼
+Output (MathML): <math><mfrac><mn>15</mn><mn>111</mn></mfrac></math>
+
+Example 2:
+Input (Nemeth Braille): ⠼⠢⠨⠲⠦⠈⠡⠂⠴⠘⠒
+Output (MathML): <math><mrow><mn>5.48</mn><mo>×</mo><msup><mn>10</mn><mn>3</mn></msup></mrow></math>
+
+Example 3:
+Input (Nemeth Braille): ⠷⠺⠬⠢⠾⠷⠺⠬⠶⠾
+Output (MathML): <math><mrow><mo stretchy=""false"">(</mo><mi>w</mi><mo>+</mo><mn>5</mn><mo stretchy=""false"">)</mo><mo stretchy=""false"">(</mo><mi>w</mi><mo>+</mo><mn>7</mn><mo stretchy=""false"">)</mo></mrow></math>
+
+Example 4:
+Input (Nemeth Braille): ⠷⠹⠒⠌⠆⠼⠾⠘⠢
+Output (MathML): <math><msup><mrow><mo>(</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>)</mo></mrow><mn>5</mn></msup></math>
+
+Example 5:
+Input (Nemeth Braille): ⠹⠂⠌⠝⠼⠸⠲
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mstyle displaystyle=""true"" scriptlevel=""0""><mfrac><mn>1</mn><mi>n</mi></mfrac></mstyle><mtext>.</mtext></math>
+
+Example 6:
+Input (Nemeth Braille): ⠈⠷⠤⠹⠒⠌⠂⠲⠼⠠⠀⠠⠿⠾
+Output (MathML): <math><mrow><mo>[</mo><mrow><mo>−</mo><mfrac><mn>3</mn><mn>14</mn></mfrac><mo>,</mo><mi>∞</mi></mrow><mo>)</mo></mrow></math>
+
+Example 7:
+Input (Nemeth Braille): ⠷⠏⠤⠢⠾⠘⠆⠐⠬⠒⠀⠨⠅⠀⠼⠂⠔
+Output (MathML): <math><mrow><msup><mrow><mo>(</mo><mrow><mi>p</mi><mo>−</mo><mn>5</mn></mrow><mo>)</mo></mrow><mn>2</mn></msup><mo>+</mo><mn>3</mn><mo>=</mo><mn>19</mn></mrow></math>
+
+Example 8:
+Input (Nemeth Braille): ⠼⠲⠭⠘⠆⠐⠬⠆⠤⠶⠭
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mtext> </mtext><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mo>−</mo><mn>7</mn><mi>x</mi><mtext> </mtext></math>
+
+Example 9:
+Input (Nemeth Braille): ⠷⠆⠠⠀⠂⠾
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mo stretchy=""false"">(</mo><mn>2</mn><mo>,</mo><mn>1</mn><mo stretchy=""false"">)</mo></math>
+
+Example 10:
+Input (Nemeth Braille): ⠼⠢⠖⠭⠘⠢⠐⠨⠌⠶⠭⠘⠆⠸⠲
+Output (MathML): <math><mrow><mrow><mn>56</mn><msup><mi>x</mi><mn>5</mn></msup><mo>÷</mo><mn>7</mn><msup><mi>x</mi><mn>2</mn></msup></mrow><mo>.</mo></mrow></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠭⠆⠠
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:02.850533+00:00,1237,1212,2449,,low,6.98,"[""PreAlgebra 2e-no-dups.brls:3701"", ""Contemporary Mathematics-no-dups.brls:3056"", ""Elementary Algebra 2e-no-dups.brls:7431"", ""PreAlgebra 2e-no-dups.brls:12378"", ""Intermediate Algebra_50_ Functions and Graphs-no-dups.brls:1229"", ""College Algebra 2e with Corequisite Support-no-dups.brls:5719"", ""Intermediate Algebra 2e-no-dups.brls:10952"", ""Elementary Algebra-no-dups.brls:3386"", ""Modeling, Functions, and Graphs-no-dups.brls:10286"", ""PreAlgebra 2e-no-dups.brls:12315""]",
+3,Intermediate Algebra_50_ Functions and Graphs-no-dups.brls,5289,⠼⠆⠁,3,"<math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>2</mn><mi>a</mi></math>","<math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>21</mn></math>",76,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠠⠈⠷⠼⠆⠴⠀⠼⠂⠴⠆⠀⣍⠆⠦⠀⠼⠆⠦⠠⠈⠾
+Output (MathML): <math><mrow><mo>[</mo><mtable><mtr><mtd><mn>20</mn></mtd><mtd><mn>102</mn></mtd></mtr><mtr><mtd><mn>28</mn></mtd><mtd><mn>28</mn></mtd></mtr></mtable><mo>]</mo></mrow></math>
+
+Example 2:
+Input (Nemeth Braille): ⠼⠒⠆⠠⠶⠖⠦
+Output (MathML): <math><mn>32,768</mn></math>
+
+Example 3:
+Input (Nemeth Braille): ⠷⠆⠨⠦⠠⠀⠒⠨⠶⠢⠾⠠
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mo stretchy=""false"">(</mo><mn>2.8</mn><mo>,</mo><mn>3.75</mn><mo stretchy=""false"">)</mo><mtext>,</mtext></math>
+
+Example 4:
+Input (Nemeth Braille): ⠷⠹⠔⠌⠖⠼⠞⠤⠲⠾⠆
+Output (MathML): <math><mrow><mrow><mo>(</mo><mrow><mfrac><mn>9</mn><mn>6</mn></mfrac><mi>t</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mn>2</mn></mrow></math>
+
+Example 5:
+Input (Nemeth Braille): ⠊⠘⠒
+Output (MathML): <math><msup><mi>i</mi><mn>3</mn></msup></math>
+
+Example 6:
+Input (Nemeth Braille): ⠗⠀⠨⠅⠀⠼⠂⠸⠲
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mi>r</mi><mo>=</mo><mn>1</mn><mtext>.</mtext></math>
+
+Example 7:
+Input (Nemeth Braille): ⠐⠨⠠⠎⠩⠅⠀⠨⠅⠀⠼⠂⠣⠂⠶⠻⠅⠘⠆
+Output (MathML): <math><mrow><munderover><mo>∑</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mn>17</mn></munderover><msup><mi>k</mi><mn>2</mn></msup></mrow></math>
+
+Example 8:
+Input (Nemeth Braille): ⠰⠊⠸⠒
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mi>i</mi><mtext>:</mtext></math>
+
+Example 9:
+Input (Nemeth Braille): ⠭⠀⠨⠂⠱⠀⠼⠴⠨⠢
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mi>x</mi><mo>≥</mo><mn>0.5</mn></math>
+
+Example 10:
+Input (Nemeth Braille): ⠼⠲⠬⠒⠡⠶
+Output (MathML): <math><mrow><mn>4</mn><mo>+</mo><mn>3</mn><mo>·</mo><mn>7</mn></mrow></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠼⠆⠁
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:01.784866+00:00,1090,1000,2090,,low,5.91,"[""College Algebra 2e with Corequisite Support-no-dups.brls:4961"", ""PreAlgebra 2e-no-dups.brls:2998"", ""Modeling, Functions, and Graphs-no-dups.brls:9519"", ""Algebra and Trigonometry 2e-no-dups.brls:10688"", ""Algebra and Trigonometry 2e-no-dups.brls:8805"", ""Trigonometry-no-dups.brls:1364"", ""Algebra and Trigonometry 2e-no-dups.brls:9541"", ""Modeling, Functions, and Graphs-no-dups.brls:14007"", ""Modeling, Functions, and Graphs-no-dups.brls:10947"", ""Elementary Algebra 2e-no-dups.brls:10062""]",
+4,PreAlgebra 2e-no-dups.brls,11810,⠭⠀⠨⠅⠀⠼⠂⠆,8,"<math><mrow><mspace width=""0.2em"">&lt;mspace width=""0.2em""/&gt;</mspace><mi>x</mi><mo>=</mo><mn>12</mn></mrow></math>","<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <mrow>
+    <mi>x</mi>
+    <mo>=</mo>
+    <mn>16</mn>
+  </mrow>
+</math>",117,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠹⠂⠌⠭⠘⠲⠐⠼
+Output (MathML): <math><mfrac><mn>1</mn><msup><mi>x</mi><mn>4</mn></msup></mfrac></math>
+
+Example 2:
+Input (Nemeth Braille): ⠠⠉⠷⠞⠾⠠
+Output (MathML): <math><mrow><mi>C</mi><mo stretchy=""false"">(</mo><mi>t</mi><mo stretchy=""false"">)</mo><mtext>,</mtext></mrow></math>
+
+Example 3:
+Input (Nemeth Braille): ⠠⠭⠰⠎⠉⠇⠀⠨⠅⠀⠼⠂
+Output (MathML): <math><mrow><msub><mi>X</mi><mrow><mi>s</mi><mi>c</mi><mi>l</mi></mrow></msub><mo>=</mo><mn>1</mn></mrow></math>
+
+Example 4:
+Input (Nemeth Braille): ⠼⠂⠒⠬⠆⠶⠀⠨⠅⠀⠼⠲⠴
+Output (MathML): <math><mrow><mn>13</mn><mo>+</mo><mn>27</mn><mo>=</mo><mn>40</mn></mrow></math>
+
+Example 5:
+Input (Nemeth Braille): ⠠⠑⠷⠞⠾⠀⠨⠅⠀⠼⠒⠴⠴⠴⠤⠶⠴⠞⠸⠲
+Output (MathML): <math><mrow><mi>E</mi><mo stretchy=""false"">(</mo><mi>t</mi><mo stretchy=""false"">)</mo><mo>=</mo><mn>3000</mn><mo>−</mo><mn>70</mn><mi>t</mi><mo>.</mo></mrow></math>
+
+Example 6:
+Input (Nemeth Braille): ⠼⠆⠤⠢⠊
+Output (MathML): <math><mrow><mn>2</mn><mn>−5</mn><mi>i</mi></mrow></math>
+
+Example 7:
+Input (Nemeth Braille): ⠏⠟⠀⠨⠅⠀⠤⠼⠂⠴⠀⠠
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mtext> </mtext><mi>p</mi><mi>q</mi><mo>=</mo><mo>−</mo><mn>10</mn><mtext> </mtext><mtext>,</mtext></math>
+
+Example 8:
+Input (Nemeth Braille): ⠭⠷⠞⠾⠸⠲
+Output (MathML): <math><mrow><mi>x</mi><mo stretchy=""false"">(</mo><mi>t</mi><mo stretchy=""false"">)</mo><mo>.</mo></mrow></math>
+
+Example 9:
+Input (Nemeth Braille): ⠍⠀⠨⠅⠀⠹⠢⠌⠦⠼
+Output (MathML): <math><mrow><mi>m</mi><mo>=</mo><mfrac><mn>5</mn><mn>8</mn></mfrac></mrow></math>
+
+Example 10:
+Input (Nemeth Braille): ⠼⠴⠨⠦⠲⠢
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>0.845</mn></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠭⠀⠨⠅⠀⠼⠂⠆
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:41:58.281664+00:00,1050,195,1245,,low,2.39,"[""PreAlgebra 2e-no-dups.brls:10194"", ""Active Prelude to Calculus-no-dups.brls:2602"", ""Introductory Statistics 2e-no-dups.brls:548"", ""Contemporary Mathematics-no-dups.brls:4808"", ""PreCalculus 2e-no-dups.brls:13383"", ""Algebra and Trigonometry 2e-no-dups.brls:15188"", ""Trigonometry-no-dups.brls:887"", ""Algebra and Trigonometry 2e-no-dups.brls:5939"", ""Elementary Algebra 2e-no-dups.brls:1417"", ""Modeling, Functions, and Graphs-no-dups.brls:380""]",
+5,PreAlgebra 2e-no-dups.brls,7287,⠹⠆⠖⠌⠴⠼,6,<math><mfrac><mn>26</mn><mn>0</mn></mfrac></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML""><mrow><mfrac><mn>26</mn><mn>0</mn></mfrac></mrow></math>",49,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠁⠀⠨⠅⠀⠹⠂⠌⠒⠼⠠⠀⠃⠀⠨⠅⠀⠼⠴
+Output (MathML): <math><mrow><mi>a</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>,</mo><mi>b</mi><mo>=</mo><mn>0</mn></mrow></math>
+
+Example 2:
+Input (Nemeth Braille): ⠅⠀⠨⠅⠀⠹⠢⠌⠆⠼
+Output (MathML): <math><mrow><mi>k</mi><mo>=</mo><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow></math>
+
+Example 3:
+Input (Nemeth Braille): ⠠⠽⠍⠁⠭⠲
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mtext>Ymax</mtext><mo>.</mo></math>
+
+Example 4:
+Input (Nemeth Braille): ⠹⠁⠌⠃⠼⠀⠨⠅⠀⠹⠁⠡⠉⠌⠃⠡⠉⠼
+Output (MathML): <math><mrow><mfrac><mi>a</mi><mi>b</mi></mfrac><mo>=</mo><mfrac><mrow><mi>a</mi><mo>·</mo><mi>c</mi></mrow><mrow><mi>b</mi><mo>·</mo><mi>c</mi></mrow></mfrac></mrow></math>
+
+Example 5:
+Input (Nemeth Braille): ⠈⠷⠦⠴⠠⠀⠠⠿⠾⠸⠲
+Output (MathML): <math><mrow><mo stretchy=""false"">[</mo><mn>80</mn><mo>,</mo><mi>∞</mi><mo stretchy=""false"">)</mo><mo>.</mo></mrow></math>
+
+Example 6:
+Input (Nemeth Braille): ⠭⠀⠨⠅⠀⠼⠆⠿⠭⠀⠨⠅⠀⠤⠼⠆
+Output (MathML): <math><mrow><mi>x</mi><mo>=</mo><mn>2</mn><mspace width=""1.5em"">&lt;mspace width=""1.5em""/&gt;</mspace><mi>x</mi><mo>=</mo><mn>−2</mn></mrow></math>
+
+Example 7:
+Input (Nemeth Braille): ⠋⠷⠭⠬⠲⠾⠤⠂
+Output (MathML): <math><mrow><mi>f</mi><mo stretchy=""false"">(</mo><mi>x</mi><mo>+</mo><mn>4</mn><mo stretchy=""false"">)</mo><mo>−</mo><mn>1</mn></mrow></math>
+
+Example 8:
+Input (Nemeth Braille): ⠧⠴
+Output (MathML): <math><msub><mi>v</mi><mn>0</mn></msub></math>
+
+Example 9:
+Input (Nemeth Braille): ⠷⠴⠠⠀⠁⠾
+Output (MathML): <math><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mi>a</mi></mrow><mo>)</mo></mrow></math>
+
+Example 10:
+Input (Nemeth Braille): ⠹⠂⠂⠌⠆⠲⠼⠸⠲
+Output (MathML): <math><mrow><mfrac><mn>11</mn><mn>24</mn></mfrac><mo>.</mo></mrow></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠹⠆⠖⠌⠴⠼
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:06.819609+00:00,1097,1594,2691,,low,10.91,"[""Elementary Algebra 2e-no-dups.brls:14071"", ""Elementary Algebra 2e-no-dups.brls:12538"", ""Modeling, Functions, and Graphs-no-dups.brls:14646"", ""Elementary Algebra 2e-no-dups.brls:5543"", ""College Algebra 2e with Corequisite Support-no-dups.brls:12396"", ""Intermediate Algebra 2e-no-dups.brls:12096"", ""Algebra and Trigonometry 2e-no-dups.brls:4149"", ""Active Prelude to Calculus-no-dups.brls:3016"", ""Intermediate Algebra 2e-no-dups.brls:4472"", ""PreAlgebra 2e-no-dups.brls:4776""]",
+6,PreAlgebra 2e-no-dups.brls,4112,⠼⠆⠲⠆,4,<math><mn>242</mn></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>242</mn></math>",25,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠹⠂⠢⠌⠒⠖⠼
+Output (MathML): <math><mfrac><mn>15</mn><mn>36</mn></mfrac></math>
+
+Example 2:
+Input (Nemeth Braille): ⠷⠲⠠⠀⠼⠆⠾⠸⠲
+Output (MathML): <math><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mtext>2</mtext></mrow><mo>)</mo></mrow><mo>.</mo></mrow></math>
+
+Example 3:
+Input (Nemeth Braille): ⠷⠁⠠⠀⠴⠾
+Output (MathML): <math><mrow><mo>(</mo><mi>a</mi><mo>,</mo><mn>0</mn><mo>)</mo></mrow></math>
+
+Example 4:
+Input (Nemeth Braille): ⠹⠲⠌⠂⠂⠼⠀⠨⠅⠀⠼⠴⠨⠒⠖⠒⠖⠒⠖⠒⠖⠀⠄⠄⠄⠀⠨⠅⠀⠼⠴⠨⠐⠒⠖⠣⠱⠻
+Output (MathML): <math><mrow><mfrac><mn>4</mn><mn>11</mn></mfrac><mo>=</mo><mn>0.36363636</mn><mo>…</mo><mo>=</mo><mn>0.</mn><mover accent=""true""><mn>36</mn><mo stretchy=""true"">¯</mo></mover></mrow></math>
+
+Example 5:
+Input (Nemeth Braille): ⠼⠦⠢⠘⠨⠡
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><msup><mn>85</mn><mrow data-mjx-texclass=""ORD""><mo>∘</mo></mrow></msup></math>
+
+Example 6:
+Input (Nemeth Braille): ⠹⠆⠽⠘⠖⠐⠌⠒⠭⠘⠲⠐⠼
+Output (MathML): <math><mfrac><mrow><mn>2</mn><msup><mi>y</mi><mn>6</mn></msup></mrow><mrow><mn>3</mn><msup><mi>x</mi><mn>4</mn></msup></mrow></mfrac></math>
+
+Example 7:
+Input (Nemeth Braille): ⠼⠆⠝⠬⠒⠍
+Output (MathML): <math><mrow><mn>2</mn><mi>n</mi><mo>+</mo><mn>3</mn><mi>m</mi></mrow></math>
+
+Example 8:
+Input (Nemeth Braille): ⠑⠀⠈⠱⠈⠱⠀⠼⠆⠨⠶⠂⠦⠆⠦⠂⠦⠆⠶
+Output (MathML): <math><mrow><mi>e</mi><mo>≈</mo><mn>2.718281827</mn></mrow></math>
+
+Example 9:
+Input (Nemeth Braille): ⠟⠀⠨⠅⠀⠥⠅⠲
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mi>q</mi><mo>=</mo><mi>u</mi><mi>k</mi><mtext>.</mtext></math>
+
+Example 10:
+Input (Nemeth Braille): ⠷⠓⠬⠤⠉⠠⠀⠅⠾⠠
+Output (MathML): <math><mrow><mrow><mo>(</mo><mrow><mi>h</mi><mo>±</mo><mi>c</mi><mo>,</mo><mi>k</mi></mrow><mo>)</mo></mrow><mo>,</mo></mrow></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠼⠆⠲⠆
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:04.656925+00:00,1167,1128,2295,,low,8.74,"[""Business Statistics 2e-no-dups.brls:1205"", ""Algebra and Trigonometry 2e-no-dups.brls:6157"", ""PreAlgebra 2e-no-dups.brls:5473"", ""Algebra and Trigonometry 2e-no-dups.brls:10454"", ""Trigonometry-no-dups.brls:1406"", ""PreAlgebra 2e-no-dups.brls:12338"", ""Contemporary Mathematics-no-dups.brls:3787"", ""Intermediate Algebra 2e-no-dups.brls:227"", ""Modeling, Functions, and Graphs-no-dups.brls:15376"", ""College Algebra 2e with Corequisite Support-no-dups.brls:6281""]",
+7,College Algebra 2e with Corequisite Support-no-dups.brls,1736,⠤⠼⠲⠀⠐⠅⠀⠼⠒⠭⠬⠆⠀⠐⠅⠱⠀⠼⠂⠦,20,<math><mrow><mn>−4</mn><mo>&lt;</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mo>≤</mo><mn>18</mn></mrow></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <mrow>
+    <mo>−</mo>
+    <mn>4</mn>
+    <mo>&lt;</mo>
+    <mrow>
+      <mn>3</mn>
+      <mi>x</mi>
+      <mo>+</mo>
+      <mn>2</mn>
+    </mrow>
+    <mo>≤</mo>
+    <mn>8</mn>
+  </mrow>
+</math>",111,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠼⠆⠂⠒⠶⠴⠡⠂⠨⠴⠖⠢⠘⠞
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>21370</mn><mo>⋅</mo><msup><mn>1.065</mn><mrow data-mjx-texclass=""ORD""><mi>t</mi></mrow></msup></math>
+
+Example 2:
+Input (Nemeth Braille): ⠽⠀⠨⠂⠱⠀⠼⠆⠭⠬⠢⠴
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mstyle displaystyle=""true"" scriptlevel=""0""><mi>y</mi><mo>≥</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>50</mn></mstyle></math>
+
+Example 3:
+Input (Nemeth Braille): ⠤⠼⠂⠶⠤⠔
+Output (MathML): <math><mrow><mn>−17</mn><mo>−</mo><mn>9</mn></mrow></math>
+
+Example 4:
+Input (Nemeth Braille): ⠜⠤⠂⠖⠻
+Output (MathML): <math><msqrt><mn>−16</mn></msqrt></math>
+
+Example 5:
+Input (Nemeth Braille): ⠼⠲⠬⠖⠬⠆⠬⠒⠬⠆⠬⠔
+Output (MathML): <math><mrow><mn>4</mn><mo>+</mo><mn>6</mn><mo>+</mo><mn>2</mn><mo>+</mo><mn>3</mn><mo>+</mo><mn>2</mn><mo>+</mo><mn>9</mn></mrow></math>
+
+Example 6:
+Input (Nemeth Braille): ⠣⠒⠜⠲⠭⠤⠂⠻⠀⠨⠅⠀⠼⠒
+Output (MathML): <math><mrow><mroot><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mn>3</mn></mroot><mo>=</mo><mn>3</mn></mrow></math>
+
+Example 7:
+Input (Nemeth Braille): ⠷⠶⠉⠾⠘⠹⠂⠌⠒⠼
+Output (MathML): <math><msup><mrow><mo>(</mo><mrow><mn>7</mn><mi>c</mi></mrow><mo>)</mo></mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></msup></math>
+
+Example 8:
+Input (Nemeth Braille): ⠼⠒⠖⠭⠘⠆⠐⠬⠦⠲⠭⠬⠲⠔
+Output (MathML): <math><mrow><mn>36</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>84</mn><mi>x</mi><mo>+</mo><mn>49</mn></mrow></math>
+
+Example 9:
+Input (Nemeth Braille): ⠼⠦⠘⠹⠆⠌⠒⠼
+Output (MathML): <math><msup><mn>8</mn><mfrac><mn>2</mn><mn>3</mn></mfrac></msup></math>
+
+Example 10:
+Input (Nemeth Braille): ⠼⠲⠈⠡⠂⠠⠴⠴⠴
+Output (MathML): <math><mrow><mn>4</mn><mspace width=""0.2em"">&lt;mspace width=""0.2em""/&gt;</mspace><mo>×</mo><mspace width=""0.2em"">&lt;mspace width=""0.2em""/&gt;</mspace><mn>1,000</mn></mrow></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠤⠼⠲⠀⠐⠅⠀⠼⠒⠭⠬⠆⠀⠐⠅⠱⠀⠼⠂⠦
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:08.907710+00:00,1216,2365,3581,,low,12.98,"[""Modeling, Functions, and Graphs-no-dups.brls:16787"", ""Modeling, Functions, and Graphs-no-dups.brls:13167"", ""PreAlgebra 2e-no-dups.brls:2178"", ""Intermediate Algebra 2e-no-dups.brls:6196"", ""PreAlgebra 2e-no-dups.brls:10568"", ""Intermediate Algebra 2e-no-dups.brls:11542"", ""Intermediate Algebra 2e-no-dups.brls:8475"", ""Intermediate Algebra 2e-no-dups.brls:2206"", ""Algebra and Trigonometry 2e-no-dups.brls:4495"", ""Elementary Algebra 2e-no-dups.brls:10933""]",
+8,Statistics-no-dups.brls,513,⠠⠏⠷⠭⠀⠨⠂⠱⠀⠧⠁⠇⠥⠑⠾,15,"<math><mrow><mi>P</mi><mo stretchy=""false"">(</mo><mi>x</mi><mo>≥</mo><mi>v</mi><mi>a</mi><mi>l</mi><mi>u</mi><mi>e</mi><mo stretchy=""false"">)</mo></mrow></math>","<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <mrow>
+    <mi>P</mi>
+    <mrow>
+      <mo>(</mo>
+      <mi>x</mi>
+      <mo>→</mo>
+      <mi>value</mi>
+      <mo>)</mo>
+    </mrow>
+  </mrow>
+</math>",160,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠋⠷⠭⠾⠀⠨⠅⠀⠤⠼⠆⠭⠘⠆⠐⠤⠦⠭⠤⠒
+Output (MathML): <math><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow></math>
+
+Example 2:
+Input (Nemeth Braille): ⠨⠷⠂⠠⠀⠆⠠⠀⠒⠠⠀⠲⠠⠀⠢⠠⠀⠖⠨⠾⠸⠲
+Output (MathML): <math><mrow><mrow><mo>{</mo><mrow><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>5</mn><mo>,</mo><mn>6</mn></mrow><mo>}</mo></mrow><mo>.</mo></mrow></math>
+
+Example 3:
+Input (Nemeth Braille): ⠽⠀⠨⠅⠀⠼⠆⠠
+Output (MathML): <math><mrow><mi>y</mi><mo>=</mo><mn>2</mn><mo>,</mo></mrow></math>
+
+Example 4:
+Input (Nemeth Braille): ⠹⠂⠖⠌⠢⠴⠼
+Output (MathML): <math><mfrac><mn>16</mn><mn>50</mn></mfrac></math>
+
+Example 5:
+Input (Nemeth Braille): ⠼⠂⠠⠴⠴⠴⠈⠡⠦
+Output (MathML): <math><mrow><mn>1,000</mn><mspace width=""0.2em"">&lt;mspace width=""0.2em""/&gt;</mspace><mo>×</mo><mspace width=""0.2em"">&lt;mspace width=""0.2em""/&gt;</mspace><mn>8</mn></mrow></math>
+
+Example 6:
+Input (Nemeth Braille): ⠹⠨⠹⠘⠒⠐⠌⠨⠹⠘⠂⠴⠐⠼
+Output (MathML): <math><mfrac><msup><mi>θ</mi><mn>3</mn></msup><msup><mi>θ</mi><mn>10</mn></msup></mfrac></math>
+
+Example 7:
+Input (Nemeth Braille): ⠷⠖⠠⠀⠆⠾
+Output (MathML): <math><mrow><mo stretchy=""false"">(</mo><mn>6</mn><mo>,</mo><mn>2</mn><mo stretchy=""false"">)</mo></mrow></math>
+
+Example 8:
+Input (Nemeth Braille): ⠨⠹⠀⠨⠅⠀⠼⠒⠭⠤⠴⠨⠢
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mi>θ</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>0.5</mn></math>
+
+Example 9:
+Input (Nemeth Braille): ⠼⠒⠆⠈⠴
+Output (MathML): <math><mtext>32%</mtext></math>
+
+Example 10:
+Input (Nemeth Braille): ⠿⠢
+Output (MathML): <math><mrow><mspace width=""3.65em"">&lt;mspace width=""3.65em""/&gt;</mspace><mn>5</mn></mrow></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠠⠏⠷⠭⠀⠨⠂⠱⠀⠧⠁⠇⠥⠑⠾
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:06.694310+00:00,1166,1571,2737,,low,10.76,"[""Intermediate Algebra 2e-no-dups.brls:113"", ""College Algebra 2e with Corequisite Support-no-dups.brls:8199"", ""PreCalculus 2e-no-dups.brls:12987"", ""Introductory Statistics 2e-no-dups.brls:449"", ""PreAlgebra 2e-no-dups.brls:7276"", ""College Algebra 2e with Corequisite Support-no-dups.brls:6446"", ""Contemporary Mathematics-no-dups.brls:5340"", ""Trigonometry-no-dups.brls:1211"", ""PreAlgebra 2e-no-dups.brls:11046"", ""Intermediate Algebra 2e-no-dups.brls:861""]",
+9,Algebra and Trigonometry 2e-no-dups.brls,10733,⠼⠖⠈⠡⠖⠠,6,"<math><mrow><mn>6</mn><mo>×</mo><mn>6</mn><mo>,</mo></mrow></math>","<math xmlns=""http://www.w3.org/1998/Math/MathML""><mrow><mn>6.6</mn><mtext>,</mtext></mrow></math>",66,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠷⠹⠋⠌⠛⠼⠾⠷⠒⠾
+Output (MathML): <math><mrow><mo>(</mo><mfrac><mi>f</mi><mi>g</mi></mfrac><mo>)</mo><mo>(</mo><mn>3</mn><mo>)</mo></mrow></math>
+
+Example 2:
+Input (Nemeth Braille): ⠷⠏⠤⠹⠂⠌⠒⠼⠾⠘⠆⠀⠨⠅⠀⠹⠶⠌⠔⠼
+Output (MathML): <math><mrow><msup><mrow><mo>(</mo><mrow><mi>p</mi><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><mfrac><mn>7</mn><mn>9</mn></mfrac></mrow></math>
+
+Example 3:
+Input (Nemeth Braille): ⠼⠂⠨⠒⠒⠒⠀⠄⠄⠄
+Output (MathML): <math><mrow><mn>1.333</mn><mo>…</mo></mrow></math>
+
+Example 4:
+Input (Nemeth Braille): ⠓⠷⠖⠾⠀⠨⠅⠀⠼⠆⠣⠒⠜⠲⠻
+Output (MathML): <math><mrow><mi>h</mi><mo stretchy=""false"">(</mo><mn>6</mn><mo stretchy=""false"">)</mo><mo>=</mo><mn>2</mn><mroot><mn>4</mn><mn>3</mn></mroot></mrow></math>
+
+Example 5:
+Input (Nemeth Braille): ⠭⠀⠨⠅⠀⠽⠘⠆
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mi>x</mi><mo>=</mo><msup><mi>y</mi><mn>2</mn></msup></math>
+
+Example 6:
+Input (Nemeth Braille): ⠼⠆⠴⠭⠘⠆
+Output (MathML): <math><mrow><mn>20</mn><msup><mi>x</mi><mn>2</mn></msup></mrow></math>
+
+Example 7:
+Input (Nemeth Braille): ⠹⠂⠌⠒⠼⠬⠹⠂⠌⠦⠼
+Output (MathML): <math><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow></math>
+
+Example 8:
+Input (Nemeth Braille): ⠭⠀⠨⠅⠀⠤⠼⠂⠠
+Output (MathML): <math><mrow><mi>x</mi><mo>=</mo><mo>−</mo><mn>1</mn><mtext>,</mtext></mrow></math>
+
+Example 9:
+Input (Nemeth Braille): ⠤⠼⠖⠸⠲
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mo>−</mo><mn>6</mn><mtext>.</mtext></math>
+
+Example 10:
+Input (Nemeth Braille): ⠫⠪⠀⠠⠁⠠⠃⠠⠕
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mi mathvariant=""normal"">∠</mi><mi>A</mi><mi>B</mi><mi>O</mi></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠼⠖⠈⠡⠖⠠
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:05.222780+00:00,1113,1335,2448,,low,9.29,"[""Intermediate Algebra 2e-no-dups.brls:9253"", ""Elementary Algebra 2e-no-dups.brls:2305"", ""PreAlgebra 2e-no-dups.brls:3577"", ""Intermediate Algebra 2e-no-dups.brls:8618"", ""Modeling, Functions, and Graphs-no-dups.brls:6581"", ""Algebra and Trigonometry 2e-no-dups.brls:1580"", ""PreAlgebra 2e-no-dups.brls:4943"", ""Active Prelude to Calculus-no-dups.brls:596"", ""Modeling, Functions, and Graphs-no-dups.brls:4744"", ""Trigonometry-no-dups.brls:7281""]",
+10,Intermediate Algebra 2e-no-dups.brls,7406,⠭⠘⠲⠐⠤⠖⠭⠘⠆⠐⠤⠶,12,<math><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn></mrow></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <mrow>
+    <msup>
+      <mi>x</mi>
+      <mn>4</mn>
+    </msup>
+    <mo>−</mo>
+    <mn>6</mn>
+    <msup>
+      <mi>x</mi>
+      <mn>2</mn>
+    </msup>
+    <mo>−</mo>
+    <mn>8</mn>
+  </mrow>
+</math>",132,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠤⠼⠢⠘⠤⠆
+Output (MathML): <math><mrow><mspace width=""0.2em"">&lt;mspace width=""0.2em""/&gt;</mspace><mrow><mo>−</mo><msup><mn>5</mn><mn>−2</mn></msup></mrow></mrow></math>
+
+Example 2:
+Input (Nemeth Braille): ⠽⠀⠨⠅⠀⠉
+Output (MathML): <math><mrow><mi>y</mi><mo>=</mo><mi>c</mi></mrow></math>
+
+Example 3:
+Input (Nemeth Braille): ⠼⠒⠬⠲⠀⠿
+Output (MathML): <math><mrow><mn>3</mn><mo>+</mo><mn>4</mn><mo>?</mo></mrow></math>
+
+Example 4:
+Input (Nemeth Braille): ⠣⠒⠜⠆⠘⠒⠐⠭⠘⠖⠐⠡⠒⠭⠻
+Output (MathML): <math><mroot><mrow><msup><mn>2</mn><mn>3</mn></msup><msup><mi>x</mi><mn>6</mn></msup><mo>·</mo><mn>3</mn><mi>x</mi></mrow><mn>3</mn></mroot></math>
+
+Example 5:
+Input (Nemeth Braille): ⠭⠬⠢⠽⠀⠐⠅⠀⠤⠼⠢⠸⠲
+Output (MathML): <math><mrow><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi><mo>&lt;</mo><mo>−</mo><mn>5</mn><mo>.</mo></mrow></math>
+
+Example 6:
+Input (Nemeth Braille): ⠼⠂⠨⠢⠆⠒⠲
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>1.5234</mn></math>
+
+Example 7:
+Input (Nemeth Braille): ⠼⠦⠤⠒
+Output (MathML): <math><mrow><mn>8</mn><mo>−</mo><mn>3</mn></mrow></math>
+
+Example 8:
+Input (Nemeth Braille): ⠤⠼⠴⠨⠔
+Output (MathML): <math><mn>−0.9</mn></math>
+
+Example 9:
+Input (Nemeth Braille): ⠠⠇⠀⠨⠅⠀⠼⠦
+Output (MathML): <math><mrow><mi>L</mi><mo>=</mo><mn>8</mn></mrow></math>
+
+Example 10:
+Input (Nemeth Braille): ⠼⠂⠴⠆⠘⠨⠡⠠
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><msup><mn>102</mn><mrow data-mjx-texclass=""ORD""><mo>∘</mo></mrow></msup><mtext>,</mtext></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠭⠘⠲⠐⠤⠖⠭⠘⠆⠐⠤⠶
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:08.000605+00:00,973,1791,2764,,low,12.06,"[""PreAlgebra 2e-no-dups.brls:10670"", ""Algebra and Trigonometry 2e-no-dups.brls:3489"", ""PreAlgebra 2e-no-dups.brls:2397"", ""Elementary Algebra 2e-no-dups.brls:3934"", ""Intermediate Algebra 2e-no-dups.brls:14704"", ""Modeling, Functions, and Graphs-no-dups.brls:4634"", ""PreAlgebra 2e-no-dups.brls:2632"", ""Intermediate Algebra 2e-no-dups.brls:3451"", ""PreCalculus 2e-no-dups.brls:5803"", ""Trigonometry-no-dups.brls:5565""]",
+11,Statistics-no-dups.brls,1289,⠹⠒⠴⠌⠂⠂⠦⠼⠐⠅⠍⠞⠑⠭⠞⠸⠌⠨⠂,19,<math><mrow><mfrac><mn>30</mn><mn>118</mn></mfrac><mtext>&lt;mtext/&gt;</mtext></mrow></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <mrow>
+    <mfrac>
+      <mn>30</mn>
+      <mn>118</mn>
+    </mfrac>
+    <mi>kmtext</mi>
+    <mo>&gt;</mo>
+    <mn>1</mn>
+  </mrow>
+</math>",93,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠹⠭⠬⠒⠌⠭⠬⠲⠼
+Output (MathML): <math><mfrac><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfrac></math>
+
+Example 2:
+Input (Nemeth Braille): ⠷⠹⠆⠭⠘⠲⠐⠌⠃⠘⠶⠐⠼⠾⠘⠒
+Output (MathML): <math><msup><mrow><mo>(</mo><mfrac><mrow><mn>2</mn><msup><mi>x</mi><mn>4</mn></msup></mrow><msup><mi>b</mi><mn>7</mn></msup></mfrac><mo>)</mo></mrow><mn>3</mn></msup></math>
+
+Example 3:
+Input (Nemeth Braille): ⠹⠂⠆⠃⠬⠢⠌⠒⠃⠤⠂⠼
+Output (MathML): <math><mfrac><mrow><mn>12</mn><mi>b</mi><mo>+</mo><mn>5</mn></mrow><mrow><mn>3</mn><mi>b</mi><mn>−1</mn></mrow></mfrac></math>
+
+Example 4:
+Input (Nemeth Braille): ⠤⠹⠂⠌⠒⠟⠼
+Output (MathML): <math><mrow><mspace width=""0.2em"">&lt;mspace width=""0.2em""/&gt;</mspace><mo>−</mo><mfrac><mn>1</mn><mrow><mn>3</mn><mi>q</mi></mrow></mfrac></mrow></math>
+
+Example 5:
+Input (Nemeth Braille): ⠹⠂⠌⠆⠼⠭⠬⠂⠀⠨⠂⠀⠹⠂⠌⠆⠼⠭⠤⠢
+Output (MathML): <math><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>+</mo><mn>1</mn><mo>&gt;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>5</mn></mrow></math>
+
+Example 6:
+Input (Nemeth Braille): ⠼⠆⠬⠷⠤⠦⠾⠬⠖
+Output (MathML): <math><mrow><mn>2</mn><mo>+</mo><mo stretchy=""false"">(</mo><mn>−8</mn><mo stretchy=""false"">)</mo><mo>+</mo><mn>6</mn></mrow></math>
+
+Example 7:
+Input (Nemeth Braille): ⠼⠂⠦⠭⠘⠆⠐⠤⠒⠭⠤⠂⠴
+Output (MathML): <math><mrow><mn>18</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>10</mn></mrow></math>
+
+Example 8:
+Input (Nemeth Braille): ⠷⠹⠒⠌⠆⠼⠠⠀⠠⠿⠾
+Output (MathML): <math><mrow><mo>(</mo><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>,</mo><mi>∞</mi></mrow><mo>)</mo></mrow></math>
+
+Example 9:
+Input (Nemeth Braille): ⠈⠎⠆⠸⠲⠼⠢⠆
+Output (MathML): <math><mtext>$2.52</mtext></math>
+
+Example 10:
+Input (Nemeth Braille): ⠹⠭⠤⠢⠌⠭⠤⠂⠼
+Output (MathML): <math><mfrac><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mfrac></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠹⠒⠴⠌⠂⠂⠦⠼⠐⠅⠍⠞⠑⠭⠞⠸⠌⠨⠂
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:18.598386+00:00,1299,3168,4467,,low,22.65,"[""Intermediate Algebra 2e-no-dups.brls:1340"", ""Contemporary Mathematics-no-dups.brls:4718"", ""College Algebra 2e with Corequisite Support-no-dups.brls:2334"", ""PreAlgebra 2e-no-dups.brls:10241"", ""College Algebra 2e with Corequisite Support-no-dups.brls:1749"", ""PreAlgebra 2e-no-dups.brls:7524"", ""Elementary Algebra 2e-no-dups.brls:3081"", ""PreCalculus 2e-no-dups.brls:13928"", ""PreAlgebra 2e-no-dups.brls:9940"", ""Elementary Algebra 2e-no-dups.brls:6673""]",
+12,Elementary Algebra 2e-no-dups.brls,350,⠷⠂⠴⠴⠾⠘⠤⠹⠂⠌⠆⠼,12,<math><msup><mrow><mo>(</mo><mn>100</mn><mo>)</mo></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML""><msup><mrow><mo>(</mo><mn>100</mn><mo>)</mo></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></math>",129,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠼⠦⠤⠆⠜⠶⠻
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>8</mn><mo>−</mo><mn>2</mn><msqrt><mn>7</mn></msqrt></math>
+
+Example 2:
+Input (Nemeth Braille): ⠽⠀⠨⠅⠀⠼⠔
+Output (MathML): <math><mrow><mi>y</mi><mo>=</mo><mn>9</mn></mrow></math>
+
+Example 3:
+Input (Nemeth Braille): ⠼⠒⠆⠘⠨⠡
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><msup><mn>32</mn><mrow data-mjx-texclass=""ORD""><mo>∘</mo></mrow></msup></math>
+
+Example 4:
+Input (Nemeth Braille): ⠼⠂⠨⠖⠖
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>1.66</mn></math>
+
+Example 5:
+Input (Nemeth Braille): ⠹⠢⠌⠶⠼⠠⠀⠼⠴⠨⠐⠶⠂⠲⠆⠦⠢⠣⠸⠤⠤⠸⠤⠤⠸⠤⠤⠻⠀⠈⠱⠈⠱⠀⠼⠴⠨⠶⠂⠲
+Output (MathML): <math><mrow><mfrac><mn>5</mn><mn>7</mn></mfrac><mo>,</mo><mn>0</mn><mo>.</mo><mover accent=""true""><mn>714285</mn><mtext>———</mtext></mover><mo>≈</mo><mn>0.714</mn></mrow></math>
+
+Example 6:
+Input (Nemeth Braille): ⠼⠦⠦
+Output (MathML): <math><mtext>88</mtext></math>
+
+Example 7:
+Input (Nemeth Braille): ⠠⠏⠲⠀⠨⠅⠀⠷⠔⠠⠀⠤⠲⠾
+Output (MathML): <math><mrow><msub><mi>P</mi><mn>4</mn></msub><mo>=</mo><mrow><mo>(</mo><mrow><mn>9</mn><mo>,</mo><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></math>
+
+Example 8:
+Input (Nemeth Braille): ⠤⠜⠤⠲⠻⠤⠲⠜⠤⠆⠢⠻
+Output (MathML): <math><mrow><mo>−</mo><msqrt><mrow><mo>−</mo><mn>4</mn></mrow></msqrt><mo>−</mo><mn>4</mn><msqrt><mrow><mo>−</mo><mn>25</mn></mrow></msqrt></mrow></math>
+
+Example 9:
+Input (Nemeth Braille): ⠼⠲⠎⠊⠝⠀⠷⠆⠨⠹⠾⠉⠕⠎⠀⠷⠖⠨⠹⠾
+Output (MathML): <math><mrow><mn>4</mn><mi>sin</mi><mrow><mo>(</mo><mrow><mn>2</mn><mi>θ</mi></mrow><mo>)</mo></mrow><mi>cos</mi><mrow><mo>(</mo><mrow><mn>6</mn><mi>θ</mi></mrow><mo>)</mo></mrow></mrow></math>
+
+Example 10:
+Input (Nemeth Braille): ⠠⠁⠠⠧⠰⠈⠷⠆⠪⠒⠈⠾⠠
+Output (MathML): <math><mrow><mi>A</mi><msub><mi>V</mi><mrow data-mjx-texclass=""ORD""><mo stretchy=""false"">[</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo stretchy=""false"">]</mo></mrow></msub><mtext>,</mtext></mrow></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠷⠂⠴⠴⠾⠘⠤⠹⠂⠌⠆⠼
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:12.690792+00:00,1288,3228,4516,,low,16.74,"[""Elementary Algebra-no-dups.brls:4929"", ""Elementary Algebra 2e-no-dups.brls:6531"", ""Trigonometry-no-dups.brls:6848"", ""Modeling, Functions, and Graphs-no-dups.brls:14734"", ""PreAlgebra 2e-no-dups.brls:3535"", ""College Algebra 2e with Corequisite Support-no-dups.brls:1533"", ""PreCalculus 2e-no-dups.brls:7849"", ""PreCalculus 2e-no-dups.brls:4575"", ""Algebra and Trigonometry 2e-no-dups.brls:8441"", ""Active Prelude to Calculus-no-dups.brls:3256""]",
+13,Algebra and Trigonometry 2e-no-dups.brls,7669,⠬⠤⠹⠂⠌⠆⠼⠸⠲,9,<math><mrow><mo>±</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>.</mo></mrow></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <mrow>
+    <mo>−</mo>
+    <mfrac>
+      <mn>1</mn>
+      <mn>2</mn>
+    </mfrac>
+    <mo>=</mo>
+    <mn>80</mn>
+  </mrow>
+</math>",81,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠛⠷⠭⠾⠀⠨⠅⠀⠼⠒⠷⠆⠾⠘⠭
+Output (MathML): <math><mrow><mi>g</mi><mo stretchy=""false"">(</mo><mi>x</mi><mo stretchy=""false"">)</mo><mo>=</mo><mn>3</mn><msup><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mi>x</mi></msup></mrow></math>
+
+Example 2:
+Input (Nemeth Braille): ⠽⠘⠆⠐⠤⠭⠘⠆⠀⠨⠅⠀⠼⠂⠠⠀⠨⠹⠀⠨⠅⠀⠼⠲⠢⠘⠨⠡
+Output (MathML): <math><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn><mo>,</mo><mi>θ</mi><mo>=</mo><msup><mn>45</mn><mo>∘</mo></msup></mrow></math>
+
+Example 3:
+Input (Nemeth Braille): ⠽⠀⠨⠅⠀⠹⠂⠌⠆⠼⠭⠬⠆
+Output (MathML): <math><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>+</mo><mn>2</mn></mrow></math>
+
+Example 4:
+Input (Nemeth Braille): ⠧⠬⠂⠴
+Output (MathML): <math><mrow><mi>v</mi><mo>+</mo><mn>10</mn></mrow></math>
+
+Example 5:
+Input (Nemeth Braille): ⠼⠢⠷⠟⠬⠒⠾⠷⠟⠤⠖⠾
+Output (MathML): <math><mrow><mn>5</mn><mrow><mo>(</mo><mrow><mi>q</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mi>q</mi><mo>−</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></math>
+
+Example 6:
+Input (Nemeth Braille): ⠿⠤⠂⠆⠞⠿
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mtext> </mtext><mtext> </mtext><mo>−</mo><mn>12</mn><mi>t</mi><mtext> </mtext><mtext> </mtext></math>
+
+Example 7:
+Input (Nemeth Braille): ⠷⠤⠂⠴⠠⠀⠒⠾
+Output (MathML): <math><mrow><mo>(</mo><mrow><mn>−10</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></math>
+
+Example 8:
+Input (Nemeth Braille): ⠼⠲⠔⠭⠘⠆⠐⠬⠂⠖⠽⠘⠆⠀⠨⠅⠀⠼⠶⠦⠲⠨
+Output (MathML): <math><mrow><mn>49</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>16</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>784.</mn></mrow></math>
+
+Example 9:
+Input (Nemeth Braille): ⠼⠂⠨⠲⠦⠆⠂
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mstyle displaystyle=""true"" scriptlevel=""0""><mn>1.4821</mn></mstyle></math>
+
+Example 10:
+Input (Nemeth Braille): ⠭⠀⠨⠅⠀⠼⠒⠆
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mi>x</mi><mo>=</mo><mn>32</mn></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠬⠤⠹⠂⠌⠆⠼⠸⠲
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:18.593984+00:00,1298,3422,4720,,low,22.63,"[""Algebra and Trigonometry 2e-no-dups.brls:12216"", ""College Algebra 2e with Corequisite Support-no-dups.brls:4400"", ""Elementary Algebra 2e-no-dups.brls:13886"", ""College Algebra 2e with Corequisite Support-no-dups.brls:5768"", ""Intermediate Algebra 2e-no-dups.brls:8047"", ""Elementary Algebra-no-dups.brls:3277"", ""Elementary Algebra 2e-no-dups.brls:8702"", ""Algebra and Trigonometry 2e-no-dups.brls:2921"", ""Trigonometry-no-dups.brls:2397"", ""Trigonometry-no-dups.brls:1662""]",
+14,Elementary Algebra 2e-no-dups.brls,7759,⠷⠴⠨⠴⠦⠾⠷⠢⠆⠨⠲⠢⠾,13,<math><mrow><mrow><mo>(</mo><mn>0.08</mn><mo>)</mo></mrow><mrow><mo>(</mo><mn>52.45</mn><mo>)</mo></mrow></mrow></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <mrow>
+    <mo>(</mo>
+    <mn>0</mn>
+    <mo>,</mo>
+    <mn>8</mn>
+    <mo>)</mo>
+    <mo>(</mo>
+    <mn>52</mn>
+    <mo>,</mo>
+    <mn>95</mn>
+    <mo>)</mo>
+  </mrow>
+</math>",119,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠹⠂⠌⠲⠼⠜⠔⠦⠻⠤⠹⠂⠌⠒⠼⠜⠂⠆⠦⠻
+Output (MathML): <math><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><msqrt><mn>98</mn></msqrt><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><msqrt><mn>128</mn></msqrt></mrow></math>
+
+Example 2:
+Input (Nemeth Braille): ⠼⠆⠎⠬⠂⠴⠀⠨⠅⠀⠼⠆⠲
+Output (MathML): <math><mrow><mn>2</mn><mi>s</mi><mo>+</mo><mn>10</mn><mo>=</mo><mn>24</mn></mrow></math>
+
+Example 3:
+Input (Nemeth Braille): ⠭⠀⠨⠅⠀⠃
+Output (MathML): <math><mrow><mi>x</mi><mo>=</mo><mi>b</mi></mrow></math>
+
+Example 4:
+Input (Nemeth Braille): ⠏⠀⠨⠅⠀⠹⠆⠌⠒⠼
+Output (MathML): <math><mrow><mi>p</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></math>
+
+Example 5:
+Input (Nemeth Braille): ⠭⠀⠨⠅⠀⠤⠹⠶⠌⠲⠼
+Output (MathML): <math><mrow><mi>x</mi><mo>=</mo><mo>−</mo><mspace width=""0.2em"">&lt;mspace width=""0.2em""/&gt;</mspace><mfrac><mn>7</mn><mn>4</mn></mfrac></mrow></math>
+
+Example 6:
+Input (Nemeth Braille): ⠷⠴⠠⠀⠒⠾
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mo stretchy=""false"">(</mo><mn>0</mn><mo>,</mo><mn>3</mn><mo stretchy=""false"">)</mo></math>
+
+Example 7:
+Input (Nemeth Braille): ⠷⠴⠠⠀⠤⠢⠾
+Output (MathML): <math><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></math>
+
+Example 8:
+Input (Nemeth Braille): ⠤⠼⠆⠲⠴⠸⠲
+Output (MathML): <math><mrow><mn>−240</mn><mo>.</mo></mrow></math>
+
+Example 9:
+Input (Nemeth Braille): ⠽⠀⠨⠅⠀⠹⠅⠌⠭⠼
+Output (MathML): <math><mrow><mi>y</mi><mo>=</mo><mfrac><mi>k</mi><mi>x</mi></mfrac></mrow></math>
+
+Example 10:
+Input (Nemeth Braille): ⠹⠂⠌⠭⠼
+Output (MathML): <math><mfrac><mn>1</mn><mi>x</mi></mfrac></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠷⠴⠨⠴⠦⠾⠷⠢⠆⠨⠲⠢⠾
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:15.479283+00:00,1037,3000,4037,,low,19.51,"[""Elementary Algebra 2e-no-dups.brls:8516"", ""Contemporary Mathematics-no-dups.brls:6386"", ""PreCalculus 2e-no-dups.brls:11984"", ""PreAlgebra 2e-no-dups.brls:8203"", ""Elementary Algebra 2e-no-dups.brls:1598"", ""Intermediate Algebra_50_ Functions and Graphs-no-dups.brls:2277"", ""Intermediate Algebra 2e-no-dups.brls:8011"", ""Intermediate Algebra 2e-no-dups.brls:15294"", ""Algebra and Trigonometry 2e-no-dups.brls:13157"", ""Intermediate Algebra 2e-no-dups.brls:8228""]",
+15,Elementary Algebra-no-dups.brls,3228,⠠⠕⠏⠞⠊⠕⠝⠁⠇⠀⠠⠑⠭⠞⠑⠝⠎⠊⠕⠝⠒⠀⠠⠞⠓⠑⠀⠠⠃⠕⠭⠀⠠⠍⠑⠞⠓⠕⠙,39,"<math xmlns=""http://www.w3.org/1998/Math/MathML""><mstyle mathcolor=""blue""><mrow data-mjx-texclass=""ORD""><mtext>Optional Extension: The Box Method</mtext></mrow></mstyle></math>","<math xmlns=""http://www.w3.org/1998/Math/MathML""><mtext>OPERATIONAL EXTENSION: THE BOX METHOD</mtext></math>",176,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠽⠀⠨⠅⠀⠼⠲⠎⠊⠝⠀⠷⠨⠏⠾⠀⠨⠅⠀⠼⠴
+Output (MathML): <math><mrow><mi>y</mi><mo>=</mo><mn>4</mn><mi>sin</mi><mrow><mo>(</mo><mi>π</mi><mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow></math>
+
+Example 2:
+Input (Nemeth Braille): ⠼⠆⠂⠠⠒⠢⠶⠬⠦⠖⠂⠬⠦⠠⠢⠔⠖⠸⠲
+Output (MathML): <math><mrow><mn>21,357</mn><mo>+</mo><mn>861</mn><mo>+</mo><mn>8,596</mn><mo>.</mo></mrow></math>
+
+Example 3:
+Input (Nemeth Braille): ⠳⠦⠤⠭⠳⠀⠨⠅⠀⠳⠲⠤⠒⠭⠳
+Output (MathML): <math><mrow><mrow><mo>|</mo><mrow><mn>8</mn><mo>−</mo><mi>x</mi></mrow><mo>|</mo></mrow><mo>=</mo><mrow><mo>|</mo><mrow><mn>4</mn><mo>−</mo><mn>3</mn><mi>x</mi></mrow><mo>|</mo></mrow></mrow></math>
+
+Example 4:
+Input (Nemeth Braille): ⠋⠷⠭⠾⠀⠨⠅⠀⠼⠴
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mi>f</mi><mo stretchy=""false"">(</mo><mi>x</mi><mo stretchy=""false"">)</mo><mo>=</mo><mn>0</mn></math>
+
+Example 5:
+Input (Nemeth Braille): ⠰⠠⠝⠠
+Output (MathML): <math><mrow><mi>N</mi><mo>,</mo></mrow></math>
+
+Example 6:
+Input (Nemeth Braille): ⠿⠀⠘⠆
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><msup><mi/><mn>2</mn></msup></math>
+
+Example 7:
+Input (Nemeth Braille): ⠼⠴⠯⠀⠨⠅⠀⠼⠂
+Output (MathML): <math><mrow><mn>0</mn><mo>!</mo><mo>=</mo><mn>1</mn></mrow></math>
+
+Example 8:
+Input (Nemeth Braille): ⠼⠖⠘⠹⠂⠌⠆⠼⠀⠨⠅⠀⠜⠖⠻⠸⠲
+Output (MathML): <math><mrow><msup><mn>6</mn><mfrac><mn>1</mn><mn>2</mn></mfrac></msup><mo>=</mo><msqrt><mn>6</mn></msqrt><mo>.</mo></mrow></math>
+
+Example 9:
+Input (Nemeth Braille): ⠷⠆⠭⠤⠂⠾⠷⠭⠬⠒⠾
+Output (MathML): <math><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></math>
+
+Example 10:
+Input (Nemeth Braille): ⠁⠭⠘⠆⠐⠬⠃⠭⠬⠉⠀⠨⠅⠀⠼⠴
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mi>a</mi><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>b</mi><mi>x</mi><mo>+</mo><mi>c</mi><mo>=</mo><mn>0</mn></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠠⠕⠏⠞⠊⠕⠝⠁⠇⠀⠠⠑⠭⠞⠑⠝⠎⠊⠕⠝⠒⠀⠠⠞⠓⠑⠀⠠⠃⠕⠭⠀⠠⠍⠑⠞⠓⠕⠙
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:00.000436+00:00,1351,561,1912,,low,4.03,"[""PreCalculus 2e-no-dups.brls:13489"", ""PreAlgebra 2e-no-dups.brls:10539"", ""Intermediate Algebra 2e-no-dups.brls:1014"", ""Modeling, Functions, and Graphs-no-dups.brls:10267"", ""Algebra and Trigonometry 2e-no-dups.brls:12644"", ""Modeling, Functions, and Graphs-no-dups.brls:429"", ""Contemporary Mathematics-no-dups.brls:530"", ""College Algebra 2e with Corequisite Support-no-dups.brls:5509"", ""Contemporary Mathematics-no-dups.brls:3834"", ""Intermediate Algebra_50_ Functions and Graphs-no-dups.brls:614""]",
+16,Active Prelude to Calculus-no-dups.brls,542,⠼⠆⠢⠲⠨⠲⠶,7,<math><mn>254.47</mn></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <mrow>
+    <mn>254</mn>
+    <mo>=</mo>
+    <mn>7</mn>
+  </mrow>
+</math>",28,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠼⠶⠽⠬⠂⠲⠀⠨⠅⠀⠼⠶⠷⠽⠬⠆⠾⠸⠲
+Output (MathML): <math><mrow><mn>7</mn><mi>y</mi><mo>+</mo><mn>14</mn><mo>=</mo><mn>7</mn><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></math>
+
+Example 2:
+Input (Nemeth Braille): ⠋⠷⠓⠾
+Output (MathML): <math><mrow><mi>f</mi><mo stretchy=""false"">(</mo><mi>h</mi><mo stretchy=""false"">)</mo></mrow></math>
+
+Example 3:
+Input (Nemeth Braille): ⠍⠀⠨⠅⠀⠹⠒⠌⠒⠼
+Output (MathML): <math><mrow><mi>m</mi><mo>=</mo><mfrac><mn>3</mn><mn>3</mn></mfrac></mrow></math>
+
+Example 4:
+Input (Nemeth Braille): ⠷⠆⠠⠀⠂⠾
+Output (MathML): <math><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></math>
+
+Example 5:
+Input (Nemeth Braille): ⠠⠏⠷⠞⠾⠠
+Output (MathML): <math><mrow><mi>P</mi><mo stretchy=""false"">(</mo><mi>t</mi><mo stretchy=""false"">)</mo><mo>,</mo></mrow></math>
+
+Example 6:
+Input (Nemeth Braille): ⠠⠁⠠⠃⠠⠉
+Output (MathML): <math><mrow><mi>A</mi><mi>B</mi><mi>C</mi></mrow></math>
+
+Example 7:
+Input (Nemeth Braille): ⠼⠒⠘⠆⠭⠬⠂⠀⠨⠅⠀⠼⠶⠘⠭⠤⠆
+Output (MathML): <math><mrow><msup><mn>3</mn><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></msup><mo>=</mo><msup><mn>7</mn><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow></msup></mrow></math>
+
+Example 8:
+Input (Nemeth Braille): ⠼⠶⠁⠘⠆⠐⠤⠲⠦⠁⠃⠤⠼⠶⠃⠘⠆
+Output (MathML): <math><mrow><mn>7</mn><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>48</mn><mi>a</mi><mi>b</mi><mo>−</mo><mn>7</mn><msup><mi>b</mi><mn>2</mn></msup></mrow></math>
+
+Example 9:
+Input (Nemeth Braille): ⠿⠂⠿
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mtext> </mtext><mtext> </mtext><mn>1</mn><mtext> </mtext><mtext> </mtext></math>
+
+Example 10:
+Input (Nemeth Braille): ⠹⠂⠌⠆⠼
+Output (MathML): <math><mfrac><mn>1</mn><mn>2</mn></mfrac></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠼⠆⠢⠲⠨⠲⠶
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:10.650625+00:00,1122,2884,4006,,low,14.68,"[""Intermediate Algebra 2e-no-dups.brls:15555"", ""Intermediate Algebra 2e-no-dups.brls:15120"", ""PreAlgebra 2e-no-dups.brls:10037"", ""PreCalculus 2e-no-dups.brls:6097"", ""College Algebra 2e with Corequisite Support-no-dups.brls:9471"", ""PreCalculus 2e-no-dups.brls:7510"", ""Algebra and Trigonometry 2e-no-dups.brls:11595"", ""Elementary Algebra 2e-no-dups.brls:13566"", ""Modeling, Functions, and Graphs-no-dups.brls:1346"", ""Intermediate Algebra 2e-no-dups.brls:717""]",
+17,Active Prelude to Calculus-no-dups.brls,181,⠷⠎⠨⠡⠛⠾⠷⠂⠨⠢⠾,11,"<math><mrow><mo stretchy=""false"">(</mo><mi>s</mi><mo>∘</mo><mi>g</mi><mo stretchy=""false"">)</mo><mo stretchy=""false"">(</mo><mn>1.5</mn><mo stretchy=""false"">)</mo></mrow></math>","<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <mrow>
+    <mo stretchy=""false"">(</mo>
+    <msub>
+      <mi>s</mi>
+      <mi>g</mi>
+    </msub>
+    <mo stretchy=""false"">)</mo>
+    <mo stretchy=""false"">(</mo>
+    <msub>
+      <mn>1</mn>
+      <mn>2</mn>
+    </msub>
+    <mo stretchy=""false"">)</mo>
+  </mrow>
+</math>",176,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠠⠃⠠⠁⠠⠙⠠
+Output (MathML): <math><mrow><mi>B</mi><mi>A</mi><mi>D</mi><mo>,</mo></mrow></math>
+
+Example 2:
+Input (Nemeth Braille): ⠷⠖⠾⠘⠤⠆⠐⠷⠅⠘⠒⠐⠾⠘⠤⠆
+Output (MathML): <math><mrow><msup><mrow><mo>(</mo><mn>6</mn><mo>)</mo></mrow><mn>−2</mn></msup><msup><mrow><mo>(</mo><msup><mi>k</mi><mn>3</mn></msup><mo>)</mo></mrow><mn>−2</mn></msup></mrow></math>
+
+Example 3:
+Input (Nemeth Braille): ⠤⠹⠂⠌⠒⠼⠟⠀⠨⠅⠀⠤⠹⠢⠌⠖⠼
+Output (MathML): <math><mrow><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mspace width=""0.1em"">&lt;mspace width=""0.1em""/&gt;</mspace><mi>q</mi><mo>=</mo><mo>−</mo><mfrac><mn>5</mn><mn>6</mn></mfrac></mrow></math>
+
+Example 4:
+Input (Nemeth Braille): ⠭⠀⠨⠅⠀⠽⠘⠆⠠⠀⠨⠹⠀⠨⠅⠀⠼⠲⠢⠘⠨⠡
+Output (MathML): <math><mrow><mi>x</mi><mo>=</mo><msup><mi>y</mi><mn>2</mn></msup><mo>,</mo><mi>θ</mi><mo>=</mo><msup><mn>45</mn><mo>∘</mo></msup></mrow></math>
+
+Example 5:
+Input (Nemeth Braille): ⠷⠒⠠⠀⠤⠆⠾
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mo stretchy=""false"">(</mo><mn>3</mn><mo>,</mo><mo>−</mo><mn>2</mn><mo stretchy=""false"">)</mo></math>
+
+Example 6:
+Input (Nemeth Braille): ⠼⠖⠨⠒⠡⠂⠴⠘⠤⠒
+Output (MathML): <math><mrow><mn>6.3</mn><mo>⋅</mo><msup><mn>10</mn><mrow><mo>−</mo><mn>3</mn></mrow></msup></mrow></math>
+
+Example 7:
+Input (Nemeth Braille): ⠭⠀⠨⠂⠀⠼⠴⠠⠀⠃⠀⠨⠂⠀⠼⠴⠠⠀⠃⠀⠌⠨⠅⠀⠼⠂⠠
+Output (MathML): <math><mrow><mi>x</mi><mo>&gt;</mo><mn>0</mn><mo>,</mo><mi>b</mi><mo>&gt;</mo><mn>0</mn><mo>,</mo><mi>b</mi><mo>≠</mo><mn>1</mn><mo>,</mo></mrow></math>
+
+Example 8:
+Input (Nemeth Braille): ⠨⠷⠆⠠⠀⠒⠠⠀⠢⠨⠾
+Output (MathML): <math><mrow><mo>{</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mn>5</mn><mo>}</mo></mrow></math>
+
+Example 9:
+Input (Nemeth Braille): ⠼⠢
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>5</mn></math>
+
+Example 10:
+Input (Nemeth Braille): ⠉⠬⠒⠂⠤⠂⠴⠀⠨⠅⠀⠼⠲⠖
+Output (MathML): <math><mrow><mi>c</mi><mo>+</mo><mn>31</mn><mo>−</mo><mn>10</mn><mo>=</mo><mn>46</mn></mrow></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠷⠎⠨⠡⠛⠾⠷⠂⠨⠢⠾
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:11.029497+00:00,1303,2952,4255,,low,15.05,"[""PreCalculus 2e-no-dups.brls:7508"", ""Elementary Algebra 2e-no-dups.brls:10910"", ""PreAlgebra 2e-no-dups.brls:643"", ""College Algebra 2e with Corequisite Support-no-dups.brls:4397"", ""Algebra Toolkit-no-dups.brls:301"", ""College Algebra 2e with Corequisite Support-no-dups.brls:6082"", ""PreCalculus 2e-no-dups.brls:14033"", ""PreCalculus 2e-no-dups.brls:12321"", ""Intermediate Algebra_50_ Functions and Graphs-no-dups.brls:77"", ""Elementary Algebra 2e-no-dups.brls:9358""]",
+18,Algebra and Trigonometry 2e-no-dups.brls,8993,⠷⠁⠠⠀⠃⠈⠾,7,"<math><mrow><mo>(</mo><mrow><mi>a</mi><mo>,</mo><mi>b</mi></mrow><mo>]</mo></mrow></math>","<math xmlns=""http://www.w3.org/1998/Math/MathML""><mo stretchy=""false"">(</mo><msup><mi>a</mi><mi>b</mi></msup><mo stretchy=""false"">)</mo></math>",89,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠭⠘⠒⠀⠨⠅⠀⠼⠖⠸⠲
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><msup><mi>x</mi><mn>3</mn></msup><mo>=</mo><mn>6</mn><mtext>.</mtext></math>
+
+Example 2:
+Input (Nemeth Braille): ⠼⠆⠁⠀⠨⠅⠀⠼⠖⠴⠨
+Output (MathML): <math><mrow><mn>2</mn><mi>a</mi><mo>=</mo><mn>60.</mn></mrow></math>
+
+Example 3:
+Input (Nemeth Braille): ⠼⠆⠆⠘⠨⠡⠠
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><msup><mn>22</mn><mrow><mo>∘</mo></mrow></msup><mtext>,</mtext></math>
+
+Example 4:
+Input (Nemeth Braille): ⠍⠀⠨⠅⠀⠹⠂⠌⠆⠼
+Output (MathML): <math><mrow><mi>m</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math>
+
+Example 5:
+Input (Nemeth Braille): ⠼⠒⠖⠸⠲
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>36</mn><mtext>.</mtext></math>
+
+Example 6:
+Input (Nemeth Braille): ⠷⠤⠆⠠⠀⠦⠾⠸⠲
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mo stretchy=""false"">(</mo><mo>−</mo><mn>2</mn><mo>,</mo><mn>8</mn><mo stretchy=""false"">)</mo><mtext>.</mtext></math>
+
+Example 7:
+Input (Nemeth Braille): ⠼⠴⠨⠆⠢⠭⠬⠴⠨⠂⠴⠷⠭⠬⠲⠾⠀⠨⠅⠀⠼⠆⠨⠢
+Output (MathML): <math><mrow><mn>0.25</mn><mi>x</mi><mo>+</mo><mn>0.10</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>2.5</mn></mrow></math>
+
+Example 8:
+Input (Nemeth Braille): ⠋⠷⠭⠾⠀⠫⠕⠀⠠⠿
+Output (MathML): <math><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo stretchy=""false"">→</mo><mi>∞</mi></mrow></math>
+
+Example 9:
+Input (Nemeth Braille): ⠼⠒⠸⠹⠲⠌⠦⠸⠼⠀⠐⠨⠅⠣⠸⠦⠻⠀⠼⠒⠸⠹⠂⠌⠆⠸⠼
+Output (MathML): <math><mrow><mn>3</mn><mfrac><mn>4</mn><mn>8</mn></mfrac><mover><mo>=</mo><mo>?</mo></mover><mn>3</mn><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math>
+
+Example 10:
+Input (Nemeth Braille): ⠣⠲⠜⠹⠽⠘⠂⠶⠐⠌⠽⠘⠢⠐⠼⠻
+Output (MathML): <math><mroot><mfrac><msup><mi>y</mi><mn>17</mn></msup><msup><mi>y</mi><mn>5</mn></msup></mfrac><mn>4</mn></mroot></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠷⠁⠠⠀⠃⠈⠾
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:00.612566+00:00,1236,578,1814,,low,4.63,"[""Modeling, Functions, and Graphs-no-dups.brls:6513"", ""PreCalculus 2e-no-dups.brls:3526"", ""Intermediate Algebra_50_ Functions and Graphs-no-dups.brls:3982"", ""Algebra and Trigonometry 2e-no-dups.brls:12691"", ""Modeling, Functions, and Graphs-no-dups.brls:14994"", ""Modeling, Functions, and Graphs-no-dups.brls:3044"", ""PreAlgebra 2e-no-dups.brls:6424"", ""Algebra and Trigonometry 2e-no-dups.brls:1966"", ""PreAlgebra 2e-no-dups.brls:6632"", ""Elementary Algebra 2e-no-dups.brls:3961""]",
+19,PreAlgebra 2e-no-dups.brls,3436,⠗⠤⠂⠨⠆⠢⠀⠨⠅⠀⠤⠼⠆⠨⠶,15,<math><mrow><mi>r</mi><mo>−</mo><mn>1.25</mn><mo>=</mo><mn>−2.7</mn></mrow></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <mrow>
+    <mi>r</mi>
+    <mo>−</mo>
+    <mn>1.26</mn>
+    <mo>=</mo>
+    <mo>−</mo>
+    <mn>2.6</mn>
+  </mrow>
+</math>",82,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠽⠀⠨⠅⠀⠤⠷⠒⠾⠬⠒⠀⠨⠅⠀⠼⠴
+Output (MathML): <math><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mo stretchy=""false"">(</mo><mn>3</mn><mo stretchy=""false"">)</mo><mo>+</mo><mn>3</mn><mo>=</mo><mn>0</mn></mrow></math>
+
+Example 2:
+Input (Nemeth Braille): ⠷⠔⠠⠀⠂⠾⠸⠲
+Output (MathML): <math><mrow><mrow><mo>(</mo><mrow><mn>9</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></math>
+
+Example 3:
+Input (Nemeth Braille): ⠰⠠⠕
+Output (MathML): <math><mi>O</mi></math>
+
+Example 4:
+Input (Nemeth Braille): ⠭⠀⠨⠅⠀⠤⠼⠆⠨
+Output (MathML): <math><mrow><mi>x</mi><mo>=</mo><mo>−</mo><mn>2.</mn></mrow></math>
+
+Example 5:
+Input (Nemeth Braille): ⠷⠤⠠⠿⠠⠀⠢⠾
+Output (MathML): <math><mrow><mo stretchy=""false"">(</mo><mo>−</mo><mi>∞</mi><mo>,</mo><mn>5</mn><mo stretchy=""false"">)</mo></mrow></math>
+
+Example 6:
+Input (Nemeth Braille): ⠇⠕⠛⠰⠦⠀⠷⠖⠢⠭⠽⠾
+Output (MathML): <math><mrow><msub><mtext>log</mtext><mn>8</mn></msub><mrow><mo>(</mo><mrow><mn>65</mn><mi>x</mi><mi>y</mi></mrow><mo>)</mo></mrow></mrow></math>
+
+Example 7:
+Input (Nemeth Braille): ⠼⠴⠀⠨⠅⠀⠼⠴⠨
+Output (MathML): <math><mrow><mn>0</mn><mo>=</mo><mn>0.</mn></mrow></math>
+
+Example 8:
+Input (Nemeth Braille): ⠹⠆⠌⠒⠼
+Output (MathML): <math><mfrac><mn>2</mn><mn>3</mn></mfrac></math>
+
+Example 9:
+Input (Nemeth Braille): ⠁⠭⠘⠆⠐⠬⠃⠭⠬⠉⠸⠲
+Output (MathML): <math><mrow><mi>a</mi><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>b</mi><mi>x</mi><mo>+</mo><mi>c</mi><mo>.</mo></mrow></math>
+
+Example 10:
+Input (Nemeth Braille): ⠎⠊⠝⠘⠲⠀⠭
+Output (MathML): <math><mrow><msup><mi>sin</mi><mn>4</mn></msup><mi>x</mi></mrow></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠗⠤⠂⠨⠆⠢⠀⠨⠅⠀⠤⠼⠆⠨⠶
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:09.025660+00:00,1023,1761,2784,,low,13.04,"[""Algebra and Trigonometry 2e-no-dups.brls:5932"", ""Algebra and Trigonometry 2e-no-dups.brls:7314"", ""Introductory Statistics 2e-no-dups.brls:945"", ""PreCalculus 2e-no-dups.brls:3095"", ""Algebra and Trigonometry 2e-no-dups.brls:4037"", ""PreCalculus 2e-no-dups.brls:12742"", ""Algebra and Trigonometry 2e-no-dups.brls:15323"", ""Math in Society__58__ Mathematics for liberal arts majors-no-dups.brls:120"", ""Intermediate Algebra 2e-no-dups.brls:4213"", ""PreCalculus 2e-no-dups.brls:774""]",
+20,PreAlgebra 2e-no-dups.brls,5455,⠼⠖⠴⠈⠴,5,<math><mtext>60%</mtext></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <msup>
+    <mn>64</mn>
+    <mn>4</mn>
+  </msup>
+</math>",31,"You are an expert in Nemeth Braille mathematics notation. Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+
+IMPORTANT INSTRUCTIONS:
+- Provide ONLY the MathML output
+- Do NOT include explanations, comments, or any text besides the MathML
+- Ensure the output is valid, well-formed XML
+- Include the proper xmlns namespace in the <math> tag
+- Preserve mathematical meaning and structure accurately
+
+EXAMPLES:
+
+Example 1:
+Input (Nemeth Braille): ⠜⠆⠍⠬⠂⠻⠬⠲⠀⠨⠅⠀⠼⠴
+Output (MathML): <math><mrow><msqrt><mrow><mn>2</mn><mi>m</mi><mo>+</mo><mn>1</mn></mrow></msqrt><mo>+</mo><mn>4</mn><mo>=</mo><mn>0</mn></mrow></math>
+
+Example 2:
+Input (Nemeth Braille): ⠷⠤⠠⠿⠠⠀⠼⠴⠈⠾
+Output (MathML): <math><mrow><mrow><mo>(</mo><mrow><mo>−</mo><mi>∞</mi></mrow></mrow><mo>,</mo><mrow><mn>0</mn><mo>]</mo></mrow></mrow></math>
+
+Example 3:
+Input (Nemeth Braille): ⠹⠂⠌⠥⠘⠒⠐⠧⠘⠢⠐⠼
+Output (MathML): <math><mfrac><mn>1</mn><mrow><msup><mi>u</mi><mn>3</mn></msup><msup><mi>v</mi><mn>5</mn></msup></mrow></mfrac></math>
+
+Example 4:
+Input (Nemeth Braille): ⠁⠀⠨⠅⠀⠼⠆⠨⠒⠠⠀⠉⠀⠨⠅⠀⠼⠂⠨⠦⠠⠀⠨⠛⠀⠨⠅⠀⠼⠆⠦⠨⠡
+Output (MathML): <math><mrow><mi>a</mi><mo>=</mo><mn>2.3</mn><mo>,</mo><mi>c</mi><mo>=</mo><mn>1.8</mn><mo>,</mo><mi>γ</mi><mo>=</mo><mn>28°</mn></mrow></math>
+
+Example 5:
+Input (Nemeth Braille): ⠼⠖⠷⠭⠘⠆⠐⠬⠂⠖⠾
+Output (MathML): <math><mrow><mn>6</mn><mrow><mo>(</mo><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>16</mn></mrow><mo>)</mo></mrow></mrow></math>
+
+Example 6:
+Input (Nemeth Braille): ⠼⠆⠲⠭⠘⠆⠐⠤⠂⠦⠭
+Output (MathML): <math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>24</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>18</mn><mi>x</mi></math>
+
+Example 7:
+Input (Nemeth Braille): ⠼⠦⠂⠴
+Output (MathML): <math><mn>810</mn></math>
+
+Example 8:
+Input (Nemeth Braille): ⠼⠂⠴⠘⠦⠤⠲⠀⠨⠅⠀⠼⠂⠴⠘⠲⠀⠨⠅⠀⠼⠂⠴⠠⠴⠴⠴
+Output (MathML): <math><mrow><msup><mn>10</mn><mrow><mn>8</mn><mo>−</mo><mn>4</mn></mrow></msup><mo>=</mo><msup><mn>10</mn><mn>4</mn></msup><mo>=</mo><mn>10,000</mn></mrow></math>
+
+Example 9:
+Input (Nemeth Braille): ⠠⠏⠷⠠⠁⠾⠀⠨⠅⠀⠼⠴⠨⠆⠢
+Output (MathML): <math><mrow><mi>P</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo> </mo><mo>=</mo><mo> </mo><mn>0</mn><mo>.</mo><mn>25</mn></mrow></math>
+
+Example 10:
+Input (Nemeth Braille): ⠓⠷⠭⠾⠀⠨⠅⠀⠣⠒⠜⠭⠘⠆⠐⠤⠲⠻⠠
+Output (MathML): <math><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn></mrow><mn>3</mn></mroot><mo>,</mo></mrow></math>
+
+NOW TRANSLATE THE FOLLOWING:
+
+Input (Nemeth Braille): ⠼⠖⠴⠈⠴
+Output (MathML):",o3-mini-2025-01-31,2026-01-03T22:42:01.128097+00:00,1389,765,2154,,low,5.13,"[""Elementary Algebra 2e-no-dups.brls:1060"", ""College Algebra 2e with Corequisite Support-no-dups.brls:6909"", ""PreAlgebra 2e-no-dups.brls:10265"", ""PreCalculus 2e-no-dups.brls:11682"", ""Elementary Algebra 2e-no-dups.brls:10576"", ""Elementary Algebra-no-dups.brls:3510"", ""PreAlgebra 2e-no-dups.brls:2512"", ""PreCalculus 2e-no-dups.brls:14021"", ""Introductory Statistics 2e-no-dups.brls:576"", ""Intermediate Algebra 2e-no-dups.brls:9538""]",

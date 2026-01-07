@@ -1,0 +1,101 @@
+id,source_file,line_number,nemeth_braille,nemeth_length,ground_truth_mathml,predicted_mathml,ground_truth_length,model_name,timestamp,prompt_tokens,completion_tokens,total_tokens,reasoning_tokens,reasoning_effort,response_time_seconds,few_shot_example_indices,error
+1,Intermediate Algebra 2e-no-dups.brls,783,⠋⠷⠭⠾⠀⠨⠅⠀⠤⠭⠘⠒⠸⠲,14,<math><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mtext>−</mtext><msup><mi>x</mi><mn>3</mn></msup><mo>.</mo></mrow></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <mrow>
+    <mi>f</mi>
+    <mo stretchy=""false"">(</mo>
+    <mi>x</mi>
+    <mo stretchy=""false"">)</mo>
+    <mo>=</mo>
+    <mo>−</mo>
+    <mn>4</mn>
+    <msup>
+      <mi>x</mi>
+      <mn>3</mn>
+    </msup>
+  </mrow>
+</math>",148,o3-mini-2025-01-31,2026-01-03T22:32:50.084189+00:00,1244,2944,4188,,low,19.47,"[""PreCalculus 2e-no-dups.brls:7024"", ""Elementary Algebra 2e-no-dups.brls:9778"", ""Beginning Algebra Made Useful-no-dups.brls:118"", ""Elementary Algebra 2e-no-dups.brls:3062"", ""PreAlgebra 2e-no-dups.brls:633"", ""Intermediate Algebra 2e-no-dups.brls:14260"", ""Intermediate Algebra 2e-no-dups.brls:2484"", ""Intermediate Algebra 2e-no-dups.brls:11454"", ""Elementary Algebra 2e-no-dups.brls:294"", ""Elementary Algebra-no-dups.brls:2560""]",
+2,Algebra and Trigonometry 2e-no-dups.brls,12599,⠭⠆⠠,3,"<math><mrow><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo></mrow></math>","<math xmlns=""http://www.w3.org/1998/Math/MathML""><msup><mi>x</mi><mn>2</mn></msup></math>",69,o3-mini-2025-01-31,2026-01-03T22:32:34.853528+00:00,1237,435,1672,,low,4.01,"[""PreAlgebra 2e-no-dups.brls:3701"", ""Contemporary Mathematics-no-dups.brls:3056"", ""Elementary Algebra 2e-no-dups.brls:7431"", ""PreAlgebra 2e-no-dups.brls:12378"", ""Intermediate Algebra_50_ Functions and Graphs-no-dups.brls:1229"", ""College Algebra 2e with Corequisite Support-no-dups.brls:5719"", ""Intermediate Algebra 2e-no-dups.brls:10952"", ""Elementary Algebra-no-dups.brls:3386"", ""Modeling, Functions, and Graphs-no-dups.brls:10286"", ""PreAlgebra 2e-no-dups.brls:12315""]",
+3,Intermediate Algebra_50_ Functions and Graphs-no-dups.brls,5289,⠼⠆⠁,3,"<math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>2</mn><mi>a</mi></math>","<math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>21</mn></math>",76,o3-mini-2025-01-31,2026-01-03T22:32:39.043904+00:00,1090,1129,2219,,low,8.19,"[""College Algebra 2e with Corequisite Support-no-dups.brls:4961"", ""PreAlgebra 2e-no-dups.brls:2998"", ""Modeling, Functions, and Graphs-no-dups.brls:9519"", ""Algebra and Trigonometry 2e-no-dups.brls:10688"", ""Algebra and Trigonometry 2e-no-dups.brls:8805"", ""Trigonometry-no-dups.brls:1364"", ""Algebra and Trigonometry 2e-no-dups.brls:9541"", ""Modeling, Functions, and Graphs-no-dups.brls:14007"", ""Modeling, Functions, and Graphs-no-dups.brls:10947"", ""Elementary Algebra 2e-no-dups.brls:10062""]",
+4,PreAlgebra 2e-no-dups.brls,11810,⠭⠀⠨⠅⠀⠼⠂⠆,8,"<math><mrow><mspace width=""0.2em"">&lt;mspace width=""0.2em""/&gt;</mspace><mi>x</mi><mo>=</mo><mn>12</mn></mrow></math>","<math xmlns=""http://www.w3.org/1998/Math/MathML""><mrow><mi>x</mi><mo>=</mo><mn>12</mn></mrow></math>",117,o3-mini-2025-01-31,2026-01-03T22:32:37.202740+00:00,1050,952,2002,,low,6.35,"[""PreAlgebra 2e-no-dups.brls:10194"", ""Active Prelude to Calculus-no-dups.brls:2602"", ""Introductory Statistics 2e-no-dups.brls:548"", ""Contemporary Mathematics-no-dups.brls:4808"", ""PreCalculus 2e-no-dups.brls:13383"", ""Algebra and Trigonometry 2e-no-dups.brls:15188"", ""Trigonometry-no-dups.brls:887"", ""Algebra and Trigonometry 2e-no-dups.brls:5939"", ""Elementary Algebra 2e-no-dups.brls:1417"", ""Modeling, Functions, and Graphs-no-dups.brls:380""]",
+5,PreAlgebra 2e-no-dups.brls,7287,⠹⠆⠖⠌⠴⠼,6,<math><mfrac><mn>26</mn><mn>0</mn></mfrac></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML""><mrow><mfrac><mn>26</mn><mn>0</mn></mfrac></mrow></math>",49,o3-mini-2025-01-31,2026-01-03T22:32:45.591641+00:00,1097,2235,3332,,low,14.73,"[""Elementary Algebra 2e-no-dups.brls:14071"", ""Elementary Algebra 2e-no-dups.brls:12538"", ""Modeling, Functions, and Graphs-no-dups.brls:14646"", ""Elementary Algebra 2e-no-dups.brls:5543"", ""College Algebra 2e with Corequisite Support-no-dups.brls:12396"", ""Intermediate Algebra 2e-no-dups.brls:12096"", ""Algebra and Trigonometry 2e-no-dups.brls:4149"", ""Active Prelude to Calculus-no-dups.brls:3016"", ""Intermediate Algebra 2e-no-dups.brls:4472"", ""PreAlgebra 2e-no-dups.brls:4776""]",
+6,PreAlgebra 2e-no-dups.brls,4112,⠼⠆⠲⠆,4,<math><mn>242</mn></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>2.2</mn></math>",25,o3-mini-2025-01-31,2026-01-03T22:32:33.040156+00:00,1167,234,1401,,low,2.17,"[""Business Statistics 2e-no-dups.brls:1205"", ""Algebra and Trigonometry 2e-no-dups.brls:6157"", ""PreAlgebra 2e-no-dups.brls:5473"", ""Algebra and Trigonometry 2e-no-dups.brls:10454"", ""Trigonometry-no-dups.brls:1406"", ""PreAlgebra 2e-no-dups.brls:12338"", ""Contemporary Mathematics-no-dups.brls:3787"", ""Intermediate Algebra 2e-no-dups.brls:227"", ""Modeling, Functions, and Graphs-no-dups.brls:15376"", ""College Algebra 2e with Corequisite Support-no-dups.brls:6281""]",
+7,College Algebra 2e with Corequisite Support-no-dups.brls,1736,⠤⠼⠲⠀⠐⠅⠀⠼⠒⠭⠬⠆⠀⠐⠅⠱⠀⠼⠂⠦,20,<math><mrow><mn>−4</mn><mo>&lt;</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mo>≤</mo><mn>18</mn></mrow></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <mrow>
+    <mn>-2</mn>
+    <mo>≤</mo>
+    <mrow>
+      <mn>3</mn>
+      <mi>x</mi>
+      <mo>+</mo>
+      <mn>2</mn>
+    </mrow>
+    <mo>≤</mo>
+    <mn>16</mn>
+  </mrow>
+</math>",111,o3-mini-2025-01-31,2026-01-03T22:32:50.131319+00:00,1216,3573,4789,,low,19.25,"[""Modeling, Functions, and Graphs-no-dups.brls:16787"", ""Modeling, Functions, and Graphs-no-dups.brls:13167"", ""PreAlgebra 2e-no-dups.brls:2178"", ""Intermediate Algebra 2e-no-dups.brls:6196"", ""PreAlgebra 2e-no-dups.brls:10568"", ""Intermediate Algebra 2e-no-dups.brls:11542"", ""Intermediate Algebra 2e-no-dups.brls:8475"", ""Intermediate Algebra 2e-no-dups.brls:2206"", ""Algebra and Trigonometry 2e-no-dups.brls:4495"", ""Elementary Algebra 2e-no-dups.brls:10933""]",
+8,Statistics-no-dups.brls,513,⠠⠏⠷⠭⠀⠨⠂⠱⠀⠧⠁⠇⠥⠑⠾,15,"<math><mrow><mi>P</mi><mo stretchy=""false"">(</mo><mi>x</mi><mo>≥</mo><mi>v</mi><mi>a</mi><mi>l</mi><mi>u</mi><mi>e</mi><mo stretchy=""false"">)</mo></mrow></math>","<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <mrow>
+    <mi>P</mi>
+    <mrow>
+      <mo>(</mo>
+      <mi>x</mi>
+      <mo>)</mo>
+    </mrow>
+    <mo>=</mo>
+    <mtext>value</mtext>
+  </mrow>
+</math>",160,o3-mini-2025-01-31,2026-01-03T22:32:35.934446+00:00,1166,740,1906,,low,5.04,"[""Intermediate Algebra 2e-no-dups.brls:113"", ""College Algebra 2e with Corequisite Support-no-dups.brls:8199"", ""PreCalculus 2e-no-dups.brls:12987"", ""Introductory Statistics 2e-no-dups.brls:449"", ""PreAlgebra 2e-no-dups.brls:7276"", ""College Algebra 2e with Corequisite Support-no-dups.brls:6446"", ""Contemporary Mathematics-no-dups.brls:5340"", ""Trigonometry-no-dups.brls:1211"", ""PreAlgebra 2e-no-dups.brls:11046"", ""Intermediate Algebra 2e-no-dups.brls:861""]",
+9,Algebra and Trigonometry 2e-no-dups.brls,10733,⠼⠖⠈⠡⠖⠠,6,"<math><mrow><mn>6</mn><mo>×</mo><mn>6</mn><mo>,</mo></mrow></math>","<math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>6.6</mn></math>",66,o3-mini-2025-01-31,2026-01-03T22:32:40.173586+00:00,1113,1322,2435,,low,9.27,"[""Intermediate Algebra 2e-no-dups.brls:9253"", ""Elementary Algebra 2e-no-dups.brls:2305"", ""PreAlgebra 2e-no-dups.brls:3577"", ""Intermediate Algebra 2e-no-dups.brls:8618"", ""Modeling, Functions, and Graphs-no-dups.brls:6581"", ""Algebra and Trigonometry 2e-no-dups.brls:1580"", ""PreAlgebra 2e-no-dups.brls:4943"", ""Active Prelude to Calculus-no-dups.brls:596"", ""Modeling, Functions, and Graphs-no-dups.brls:4744"", ""Trigonometry-no-dups.brls:7281""]",
+10,Intermediate Algebra 2e-no-dups.brls,7406,⠭⠘⠲⠐⠤⠖⠭⠘⠆⠐⠤⠶,12,<math><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn></mrow></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML""><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><mn>9</mn></mrow></math>",132,o3-mini-2025-01-31,2026-01-03T22:32:41.806924+00:00,973,1760,2733,,low,10.9,"[""PreAlgebra 2e-no-dups.brls:10670"", ""Algebra and Trigonometry 2e-no-dups.brls:3489"", ""PreAlgebra 2e-no-dups.brls:2397"", ""Elementary Algebra 2e-no-dups.brls:3934"", ""Intermediate Algebra 2e-no-dups.brls:14704"", ""Modeling, Functions, and Graphs-no-dups.brls:4634"", ""PreAlgebra 2e-no-dups.brls:2632"", ""Intermediate Algebra 2e-no-dups.brls:3451"", ""PreCalculus 2e-no-dups.brls:5803"", ""Trigonometry-no-dups.brls:5565""]",
+11,Statistics-no-dups.brls,1289,⠹⠒⠴⠌⠂⠂⠦⠼⠐⠅⠍⠞⠑⠭⠞⠸⠌⠨⠂,19,<math><mrow><mfrac><mn>30</mn><mn>118</mn></mfrac><mtext>&lt;mtext/&gt;</mtext></mrow></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <mrow>
+    <mfrac>
+      <mn>30</mn>
+      <mn>118</mn>
+    </mfrac>
+    <mi>Kmrext</mi>
+    <mo>÷</mo>
+    <mn>1</mn>
+  </mrow>
+</math>",93,o3-mini-2025-01-31,2026-01-03T22:32:50.717612+00:00,1299,3615,4914,,low,19.8,"[""Intermediate Algebra 2e-no-dups.brls:1340"", ""Contemporary Mathematics-no-dups.brls:4718"", ""College Algebra 2e with Corequisite Support-no-dups.brls:2334"", ""PreAlgebra 2e-no-dups.brls:10241"", ""College Algebra 2e with Corequisite Support-no-dups.brls:1749"", ""PreAlgebra 2e-no-dups.brls:7524"", ""Elementary Algebra 2e-no-dups.brls:3081"", ""PreCalculus 2e-no-dups.brls:13928"", ""PreAlgebra 2e-no-dups.brls:9940"", ""Elementary Algebra 2e-no-dups.brls:6673""]",
+12,Elementary Algebra 2e-no-dups.brls,350,⠷⠂⠴⠴⠾⠘⠤⠹⠂⠌⠆⠼,12,<math><msup><mrow><mo>(</mo><mn>100</mn><mo>)</mo></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML""><msup><mrow><mo>(</mo><mn>100</mn><mo>)</mo></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></math>",129,o3-mini-2025-01-31,2026-01-03T22:32:46.009948+00:00,1288,2332,3620,,low,15.09,"[""Elementary Algebra-no-dups.brls:4929"", ""Elementary Algebra 2e-no-dups.brls:6531"", ""Trigonometry-no-dups.brls:6848"", ""Modeling, Functions, and Graphs-no-dups.brls:14734"", ""PreAlgebra 2e-no-dups.brls:3535"", ""College Algebra 2e with Corequisite Support-no-dups.brls:1533"", ""PreCalculus 2e-no-dups.brls:7849"", ""PreCalculus 2e-no-dups.brls:4575"", ""Algebra and Trigonometry 2e-no-dups.brls:8441"", ""Active Prelude to Calculus-no-dups.brls:3256""]",
+13,Algebra and Trigonometry 2e-no-dups.brls,7669,⠬⠤⠹⠂⠌⠆⠼⠸⠲,9,<math><mrow><mo>±</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>.</mo></mrow></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <mrow>
+    <mo>−</mo>
+    <mfrac>
+      <mi>θ</mi>
+      <mn>2</mn>
+    </mfrac>
+    <mo>=</mo>
+    <mn>52</mn>
+  </mrow>
+</math>",81,o3-mini-2025-01-31,2026-01-03T22:32:49.900299+00:00,1298,3486,4784,,low,18.98,"[""Algebra and Trigonometry 2e-no-dups.brls:12216"", ""College Algebra 2e with Corequisite Support-no-dups.brls:4400"", ""Elementary Algebra 2e-no-dups.brls:13886"", ""College Algebra 2e with Corequisite Support-no-dups.brls:5768"", ""Intermediate Algebra 2e-no-dups.brls:8047"", ""Elementary Algebra-no-dups.brls:3277"", ""Elementary Algebra 2e-no-dups.brls:8702"", ""Algebra and Trigonometry 2e-no-dups.brls:2921"", ""Trigonometry-no-dups.brls:2397"", ""Trigonometry-no-dups.brls:1662""]",
+14,Elementary Algebra 2e-no-dups.brls,7759,⠷⠴⠨⠴⠦⠾⠷⠢⠆⠨⠲⠢⠾,13,<math><mrow><mrow><mo>(</mo><mn>0.08</mn><mo>)</mo></mrow><mrow><mo>(</mo><mn>52.45</mn><mo>)</mo></mrow></mrow></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <mrow>
+    <mo>(</mo>
+    <mn>0</mn>
+    <mo>,</mo>
+    <mn>7</mn>
+    <mo>)</mo>
+    <mo>(</mo>
+    <mn>52</mn>
+    <mo>,</mo>
+    <mn>45</mn>
+    <mo>)</mo>
+  </mrow>
+</math>",119,o3-mini-2025-01-31,2026-01-03T22:32:45.496844+00:00,1037,2615,3652,,low,14.57,"[""Elementary Algebra 2e-no-dups.brls:8516"", ""Contemporary Mathematics-no-dups.brls:6386"", ""PreCalculus 2e-no-dups.brls:11984"", ""PreAlgebra 2e-no-dups.brls:8203"", ""Elementary Algebra 2e-no-dups.brls:1598"", ""Intermediate Algebra_50_ Functions and Graphs-no-dups.brls:2277"", ""Intermediate Algebra 2e-no-dups.brls:8011"", ""Intermediate Algebra 2e-no-dups.brls:15294"", ""Algebra and Trigonometry 2e-no-dups.brls:13157"", ""Intermediate Algebra 2e-no-dups.brls:8228""]",
+15,Elementary Algebra-no-dups.brls,3228,⠠⠕⠏⠞⠊⠕⠝⠁⠇⠀⠠⠑⠭⠞⠑⠝⠎⠊⠕⠝⠒⠀⠠⠞⠓⠑⠀⠠⠃⠕⠭⠀⠠⠍⠑⠞⠓⠕⠙,39,"<math xmlns=""http://www.w3.org/1998/Math/MathML""><mstyle mathcolor=""blue""><mrow data-mjx-texclass=""ORD""><mtext>Optional Extension: The Box Method</mtext></mrow></mstyle></math>","<math xmlns=""http://www.w3.org/1998/Math/MathML""><mrow><mtext>OPERATIONAL EXTENSION: THE BOX METHOD</mtext></mrow></math>",176,o3-mini-2025-01-31,2026-01-03T22:32:37.596836+00:00,1351,888,2239,,low,6.66,"[""PreCalculus 2e-no-dups.brls:13489"", ""PreAlgebra 2e-no-dups.brls:10539"", ""Intermediate Algebra 2e-no-dups.brls:1014"", ""Modeling, Functions, and Graphs-no-dups.brls:10267"", ""Algebra and Trigonometry 2e-no-dups.brls:12644"", ""Modeling, Functions, and Graphs-no-dups.brls:429"", ""Contemporary Mathematics-no-dups.brls:530"", ""College Algebra 2e with Corequisite Support-no-dups.brls:5509"", ""Contemporary Mathematics-no-dups.brls:3834"", ""Intermediate Algebra_50_ Functions and Graphs-no-dups.brls:614""]",
+16,Active Prelude to Calculus-no-dups.brls,542,⠼⠆⠢⠲⠨⠲⠶,7,<math><mn>254.47</mn></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML""><mrow><mn>26</mn><mo>=</mo><mn>47</mn></mrow></math>",28,o3-mini-2025-01-31,2026-01-03T22:32:51.259397+00:00,1122,3065,4187,,low,20.32,"[""Intermediate Algebra 2e-no-dups.brls:15555"", ""Intermediate Algebra 2e-no-dups.brls:15120"", ""PreAlgebra 2e-no-dups.brls:10037"", ""PreCalculus 2e-no-dups.brls:6097"", ""College Algebra 2e with Corequisite Support-no-dups.brls:9471"", ""PreCalculus 2e-no-dups.brls:7510"", ""Algebra and Trigonometry 2e-no-dups.brls:11595"", ""Elementary Algebra 2e-no-dups.brls:13566"", ""Modeling, Functions, and Graphs-no-dups.brls:1346"", ""Intermediate Algebra 2e-no-dups.brls:717""]",
+17,Active Prelude to Calculus-no-dups.brls,181,⠷⠎⠨⠡⠛⠾⠷⠂⠨⠢⠾,11,"<math><mrow><mo stretchy=""false"">(</mo><mi>s</mi><mo>∘</mo><mi>g</mi><mo stretchy=""false"">)</mo><mo stretchy=""false"">(</mo><mn>1.5</mn><mo stretchy=""false"">)</mo></mrow></math>","<math xmlns=""http://www.w3.org/1998/Math/MathML""><mrow><mo stretchy=""false"">(</mo><mi>s</mi><mi>ϕ</mi><mi>g</mi><mo stretchy=""false"">)</mo><mo stretchy=""false"">(</mo><mn>1</mn><mi>χ</mi><mo stretchy=""false"">)</mo></mrow></math>",176,o3-mini-2025-01-31,2026-01-03T22:32:43.843730+00:00,1303,1894,3197,,low,12.9,"[""PreCalculus 2e-no-dups.brls:7508"", ""Elementary Algebra 2e-no-dups.brls:10910"", ""PreAlgebra 2e-no-dups.brls:643"", ""College Algebra 2e with Corequisite Support-no-dups.brls:4397"", ""Algebra Toolkit-no-dups.brls:301"", ""College Algebra 2e with Corequisite Support-no-dups.brls:6082"", ""PreCalculus 2e-no-dups.brls:14033"", ""PreCalculus 2e-no-dups.brls:12321"", ""Intermediate Algebra_50_ Functions and Graphs-no-dups.brls:77"", ""Elementary Algebra 2e-no-dups.brls:9358""]",
+18,Algebra and Trigonometry 2e-no-dups.brls,8993,⠷⠁⠠⠀⠃⠈⠾,7,"<math><mrow><mo>(</mo><mrow><mi>a</mi><mo>,</mo><mi>b</mi></mrow><mo>]</mo></mrow></math>","<math xmlns=""http://www.w3.org/1998/Math/MathML""><mo stretchy=""false"">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy=""false"">)</mo><mtext>.</mtext></math>",89,o3-mini-2025-01-31,2026-01-03T22:32:38.734356+00:00,1236,1095,2331,,low,7.79,"[""Modeling, Functions, and Graphs-no-dups.brls:6513"", ""PreCalculus 2e-no-dups.brls:3526"", ""Intermediate Algebra_50_ Functions and Graphs-no-dups.brls:3982"", ""Algebra and Trigonometry 2e-no-dups.brls:12691"", ""Modeling, Functions, and Graphs-no-dups.brls:14994"", ""Modeling, Functions, and Graphs-no-dups.brls:3044"", ""PreAlgebra 2e-no-dups.brls:6424"", ""Algebra and Trigonometry 2e-no-dups.brls:1966"", ""PreAlgebra 2e-no-dups.brls:6632"", ""Elementary Algebra 2e-no-dups.brls:3961""]",
+19,PreAlgebra 2e-no-dups.brls,3436,⠗⠤⠂⠨⠆⠢⠀⠨⠅⠀⠤⠼⠆⠨⠶,15,<math><mrow><mi>r</mi><mo>−</mo><mn>1.25</mn><mo>=</mo><mn>−2.7</mn></mrow></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML"">
+  <mrow>
+    <mi>r</mi>
+    <mo>−</mo>
+    <mn>2.65</mn>
+    <mo>=</mo>
+    <mo>−</mo>
+    <mn>2.6</mn>
+  </mrow>
+</math>",82,o3-mini-2025-01-31,2026-01-03T22:32:48.469257+00:00,1023,2979,4002,,low,17.52,"[""Algebra and Trigonometry 2e-no-dups.brls:5932"", ""Algebra and Trigonometry 2e-no-dups.brls:7314"", ""Introductory Statistics 2e-no-dups.brls:945"", ""PreCalculus 2e-no-dups.brls:3095"", ""Algebra and Trigonometry 2e-no-dups.brls:4037"", ""PreCalculus 2e-no-dups.brls:12742"", ""Algebra and Trigonometry 2e-no-dups.brls:15323"", ""Math in Society__58__ Mathematics for liberal arts majors-no-dups.brls:120"", ""Intermediate Algebra 2e-no-dups.brls:4213"", ""PreCalculus 2e-no-dups.brls:774""]",
+20,PreAlgebra 2e-no-dups.brls,5455,⠼⠖⠴⠈⠴,5,<math><mtext>60%</mtext></math>,"<math xmlns=""http://www.w3.org/1998/Math/MathML""><mn>64.4</mn></math>",31,o3-mini-2025-01-31,2026-01-03T22:32:36.486153+00:00,1389,938,2327,,low,5.53,"[""Elementary Algebra 2e-no-dups.brls:1060"", ""College Algebra 2e with Corequisite Support-no-dups.brls:6909"", ""PreAlgebra 2e-no-dups.brls:10265"", ""PreCalculus 2e-no-dups.brls:11682"", ""Elementary Algebra 2e-no-dups.brls:10576"", ""Elementary Algebra-no-dups.brls:3510"", ""PreAlgebra 2e-no-dups.brls:2512"", ""PreCalculus 2e-no-dups.brls:14021"", ""Introductory Statistics 2e-no-dups.brls:576"", ""Intermediate Algebra 2e-no-dups.brls:9538""]",
