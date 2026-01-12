@@ -8,38 +8,41 @@ import re
 from pathlib import Path
 import libmathcat_py as libmathcat
 
-def setMathCATPreferences(braille_code):
-	try:
-		libmathcat.SetRulesDir("C:/Users/neils/MathCAT/Rules")
-	except Exception as e:
-		sys.exit(f"problem with finding the MathCAT rules: {e}")
+sys.stdout.reconfigure(encoding='utf-8')  # in case print statements are used for debugging
 
-	try:
-		libmathcat.SetPreference("BrailleNavHighlight", "Off")
-		libmathcat.SetPreference("BrailleCode", braille_code)
-	except Exception as e:
-		sys.exit(f"problem with setting a preference: {e}")
+
+def setMathCATPreferences(braille_code):
+    try:
+        libmathcat.SetRulesDir("C:/Users/neils/MathCAT/Rules")
+    except Exception as e:
+        sys.exit(f"problem with finding the MathCAT rules: {e}")
+
+    try:
+        # libmathcat.SetPreference("BrailleNavHighlight", "Off")
+        libmathcat.SetPreference("BrailleCode", braille_code)
+    except Exception as e:
+        sys.exit(f"problem with setting a preference: {e}")
 
 
 def setMathMLForMathCAT(mathml: str):
-	try:
-		libmathcat.SetMathML(mathml)
-	except Exception as e:
-		raise
+    try:
+        libmathcat.SetMathML(mathml)
+    except Exception as e:
+        raise e
 
 
 def getSpeech():
-	try:
-		return libmathcat.GetSpokenText()
-	except Exception as e:
-		raise
+    try:
+        return libmathcat.GetSpokenText()
+    except Exception as e:
+        raise
 
 
 def getBraille():
-	try:
-		return libmathcat.GetBraille("")
-	except Exception as e:
-		raise
+    try:
+        return libmathcat.GetBraille("")
+    except Exception as e:
+        raise
 
 
 # Configure logging
@@ -64,12 +67,16 @@ def ProcessFile(file_path: str, dest_folder:str, config: dict[str, str]) -> str:
     try:
         with open(file_path, 'r', encoding='utf8') as in_stream:
             with open(output_path, 'w', encoding='utf8') as out_stream:
+                print(f"Processing type {type(file_path)}: {file_path}")
+                if file_path != Path(r"../SimpleSpeakData/college/Combinatorics Through Guided Discovery-no-dups.mmls"):
+                    return
                 for line in in_stream.readlines():
                     try:
                         fixed = FIX_MSPACE.sub(r'<mspace \1="\2\3">', line)
                         fixed = FIX_MSPACE_NAMEDSPACE.sub(r'<mspace \1="\2">', fixed)
                         fixed = (fixed.replace(r"<mspace>&lt;mspace/&gt;</mspace>", r"<mspace></mspace>")
                                       .replace(r"<none>&lt;none/&gt;</none>", r"<none></none>"))
+                        print(f'Generating braille for "{fixed}"')
                         setMathMLForMathCAT(fixed)
                         braille = getBraille()
                         out_stream.write(braille)
@@ -90,7 +97,7 @@ def main():
     
     # Extra settings to pass to workers
     settings = {"BrailleCode": "Nemeth"}
-    max_workers = 24   # set 24 for core 9 ultra
+    max_workers = 1   # set 24 for core 9 ultra
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -98,7 +105,7 @@ def main():
     file_paths: list[str] = []
     for root, dirs, files in os.walk(f"{source_dir}/{source_subdir}"):
         # Add the files list to the all_files list
-        file_paths.extend( [f"{root}/{f}" for f in files if f.endswith('no-dups.mmls')] )	
+        file_paths.extend( [f"{root}/{f}" for f in files if f.endswith('no-dups.mmls')] )
 
     with ProcessPoolExecutor(max_workers=max_workers) as executor:
         # Pass extra arguments inside executor.submit
