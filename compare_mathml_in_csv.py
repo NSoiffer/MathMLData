@@ -17,11 +17,6 @@ import os
 import libmathcat_py as libmathcat
 from bs4 import BeautifulSoup   # pip install BeautifulSoup4
 
-# There is a bug in some MathML data; this attempts to fix it. Should clean the data and remove this
-import re
-FIX_MSPACE = re.compile(r"<mspace (.+?)=[\"\'](\d*?\.?\d*?)(.+?)[\"\']>&lt;mspace .+?=[\"\'].+?[\"\']/&gt;")
-FIX_MSPACE_NAMEDSPACE = re.compile(r'<mspace (.+?)=[\"\']([a-z]+?space)[\"\']>&lt;mspace width=[\"\']([a-z]+?space)[\"\']/&gt;')
-
 # Attributes to ignore during comparison (might need a few more)
 IGNORE_ATTRS = ['id',
                 'data-id-added', 'data-changed', 'data-previous-space-width', 'data-following-space-width'
@@ -51,12 +46,7 @@ def setMathMLForMathCAT(mathml: str):
     Sets the MathML and returns a canonical form.
     """
     try:
-        # Remove these after fixing the input data
-        fixed = FIX_MSPACE.sub(r'<mspace \1="\2\3">', mathml)
-        fixed = FIX_MSPACE_NAMEDSPACE.sub(r'<mspace \1="\2">', fixed)
-        fixed = (fixed.replace(r"<mspace>&lt;mspace/&gt;</mspace>", r"<mspace></mspace>")
-                      .replace(r"<none>&lt;none/&gt;</none>", r"<none></none>"))
-        canonicalMathML = libmathcat.SetMathML(fixed)
+        canonicalMathML = libmathcat.SetMathML(mathml)
         return strip_mathml_attributes(canonicalMathML, IGNORE_ATTRS)
     except Exception as e:
         raise e

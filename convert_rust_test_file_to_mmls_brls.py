@@ -28,7 +28,7 @@ def extract_from_files(file_list, mathml_output, braille_output):
         content = "".join([line.split('//')[0] for line in lines])
 
         matches = re.findall(combined_pattern, content, re.DOTALL)
-        
+
         file_mathml = []
         file_braille = []
 
@@ -36,7 +36,7 @@ def extract_from_files(file_list, mathml_output, braille_output):
             total_matches += 1
             mathml_raw = raw_m if raw_m else std_m
             clean_mathml = " ".join(mathml_raw.split()).strip()
-            
+
             if clean_mathml.startswith("<math") and clean_mathml.endswith("</math>"):
                 file_mathml.append(clean_mathml)
                 file_braille.append(braille)
@@ -46,17 +46,20 @@ def extract_from_files(file_list, mathml_output, braille_output):
 
         # Append this file's results to the master lists
         with open(mathml_output, 'a', encoding='utf-8') as f:
-            for item in file_mathml: f.write(f"{item}\n")
-        
+            for item in file_mathml:
+                f.write(f"{item}\n")
+
         with open(braille_output, 'a', encoding='utf-8') as f:
-            for item in file_braille: f.write(f"{item}\n")
+            for item in file_braille:
+                f.write(f"{item}\n")
 
         print(f"Processed {filename}: Found {len(matches)} tests.")
 
-    print(f"\n--- Final Batch Summary ---")
+    print("\n--- Final Batch Summary ---")
     print(f"Files scanned: {len(file_list)}")
     print(f"Total tests identified: {total_matches}")
     print(f"Total tests validated and saved: {total_validated}")
+
 
 if __name__ == "__main__":
     # Define your list of files here
@@ -65,7 +68,7 @@ if __name__ == "__main__":
         'C:/Users/neils/MathCAT/tests/braille/Nemeth/other.rs',
         'C:/Users/neils/MathCAT/tests/braille/Nemeth/chemistry.rs'
     ]
-    
+
     extract_from_files(my_files, 'all_mathml.txt', 'all_braille.txt')
 
 # if __name__ == "__main__":
