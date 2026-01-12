@@ -48,7 +48,7 @@ MAX_MATHML_LENGTH = 300
 
 # Sampling parameters
 NUM_FEW_SHOT_EXAMPLES = 200
-NUM_TEST_PAIRS = 10
+NUM_TEST_PAIRS = 200
 
 # Model configuration
 MODEL_NAME = "gpt-5.2-2025-12-11"
