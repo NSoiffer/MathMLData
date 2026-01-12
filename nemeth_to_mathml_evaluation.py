@@ -37,19 +37,22 @@ from openai import AsyncOpenAI
 BASE_DIR = Path(__file__).parent
 BRAILLE_DIR = BASE_DIR / "BrailleData" / "Braille" / "Nemeth" / "highschool"
 MATHML_DIR = BASE_DIR / "SimpleSpeakData" / "highschool"
+RUST_TEST_DATA_DIR = BASE_DIR / "RustTestData"
+RUST_NEMETH_BRLS = RUST_TEST_DATA_DIR / "Nemeth.brls"
+RUST_NEMETH_MMLS = RUST_TEST_DATA_DIR / "Nemeth.mmls"
 RESULTS_DIR = BASE_DIR / "results"
 
 # Filter parameters
 MIN_MATHML_LENGTH = 20
-MAX_MATHML_LENGTH = 200
+MAX_MATHML_LENGTH = 300
 
 # Sampling parameters
-NUM_FEW_SHOT_EXAMPLES = 40
-NUM_TEST_PAIRS = 20
+NUM_FEW_SHOT_EXAMPLES = 200
+NUM_TEST_PAIRS = 10
 
 # Model configuration
-MODEL_NAME = "o3"
-REASONING_EFFORT = "high"
+MODEL_NAME = "gpt-5.2-2025-12-11"
+REASONING_EFFORT = "high"  # Only used for o-series models
 MAX_COMPLETION_TOKENS = 10_000
 
 # Output
@@ -145,6 +148,56 @@ def load_all_highschool_pairs() -> List[Dict[str, Any]]:
 
     print(f"\nTotal filtered pairs: {len(all_pairs)}")
     return all_pairs
+
+
+def load_rust_test_data_pairs(max_pairs: int = 200) -> List[Dict[str, Any]]:
+    """
+    Load paired Nemeth Braille and MathML expressions from RustTestData directory.
+
+    Args:
+        max_pairs: Maximum number of pairs to load (default: 200)
+
+    Returns:
+        List of dicts with keys: nemeth, mathml, source_file, line_number
+    """
+    pairs = []
+
+    print(f"Loading RustTestData pairs from {RUST_NEMETH_BRLS.name}...")
+
+    with open(RUST_NEMETH_BRLS, 'r', encoding='utf-8') as bf, \
+         open(RUST_NEMETH_MMLS, 'r', encoding='utf-8') as mf:
+
+        braille_lines = bf.readlines()
+        mathml_lines = mf.readlines()
+
+        # Ensure matching line counts
+        if len(braille_lines) != len(mathml_lines):
+            print(f"Warning: Line count mismatch in RustTestData")
+            min_lines = min(len(braille_lines), len(mathml_lines))
+            braille_lines = braille_lines[:min_lines]
+            mathml_lines = mathml_lines[:min_lines]
+
+        for line_num, (braille, mathml) in enumerate(zip(braille_lines, mathml_lines), 1):
+            nemeth = braille.strip()
+            mathml_content = mathml.strip()
+
+            # Skip empty lines
+            if not nemeth or not mathml_content:
+                continue
+
+            pairs.append({
+                'nemeth': nemeth,
+                'mathml': mathml_content,
+                'source_file': RUST_NEMETH_BRLS.name,
+                'line_number': line_num
+            })
+
+            # Stop if we've reached max_pairs
+            if len(pairs) >= max_pairs:
+                break
+
+    print(f"Loaded {len(pairs)} pairs from RustTestData")
+    return pairs
 
 
 # ============================================================================
@@ -492,8 +545,8 @@ async def main():
     print("=" * 80)
     print(f"Model: {MODEL_NAME}")
     print(f"Filter: MathML length {MIN_MATHML_LENGTH}-{MAX_MATHML_LENGTH} characters")
-    print(f"Few-shot examples: {NUM_FEW_SHOT_EXAMPLES}")
-    print(f"Test pairs: {NUM_TEST_PAIRS}")
+    print(f"Few-shot examples: {NUM_FEW_SHOT_EXAMPLES} (from RustTestData)")
+    print(f"Test pairs: {NUM_TEST_PAIRS} (from highschool directory)")
     print(f"Random seed: {RANDOM_SEED}")
     print("=" * 80)
     print()
@@ -504,11 +557,16 @@ async def main():
     # Generate output CSV path in results folder
     output_csv = RESULTS_DIR / OUTPUT_CSV_TEMPLATE.format(timestamp=datetime.now(UTC).strftime("%Y%m%d_%H%M%S"))
     client = AsyncOpenAI(api_key=(os.getenv("OPENAI_API_KEY")))
-    all_pairs = load_all_highschool_pairs()
-    test_pairs = random.sample(all_pairs, NUM_TEST_PAIRS)
+
+    # Load few-shot examples from RustTestData
+    few_shot_pool = load_rust_test_data_pairs(NUM_FEW_SHOT_EXAMPLES)
+
+    # Load test pairs from highschool directory
+    all_highschool_pairs = load_all_highschool_pairs()
+    test_pairs = random.sample(all_highschool_pairs, NUM_TEST_PAIRS)
 
     print("Running evaluation...")
-    results = await run_evaluation(client, test_pairs, all_pairs)
+    results = await run_evaluation(client, test_pairs, few_shot_pool)
 
     write_results_csv(results, output_csv)
 
