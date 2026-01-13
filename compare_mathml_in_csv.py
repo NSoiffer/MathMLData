@@ -18,10 +18,14 @@ import libmathcat_py as libmathcat
 from bs4 import BeautifulSoup   # pip install BeautifulSoup4
 
 # Attributes to ignore during comparison (might need a few more)
-IGNORE_ATTRS = ['id',
-                'data-id-added', 'data-changed', 'data-previous-space-width', 'data-following-space-width'
+IGNORE_ATTRS = ['id', 'displaystyle', 'scriptlevel', 'xmlns',
+                'data-id-added', 'data-added', 'data-changed',
+                'data-previous-space-width', 'data-following-space-width',
+                'data-empty-in-2d', 'data-width', 'data-function-guess',
                 'stretchy',
-                'mathcolor', 'mathbackground', 'mathsize',]
+                'columnspacing', 'rowspacing', 'rowlines', 'columnlines','minlabelspacing',
+                'columnalign', 'rowalign', 'equalcolumns', 'equalrows',
+                'mathcolor', 'mathbackground', 'mathsize', 'mathvariant']
 
 
 def setMathCATPreferences(prefs: dict[str, str]):
