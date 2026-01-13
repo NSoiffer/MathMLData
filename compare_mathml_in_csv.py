@@ -80,31 +80,26 @@ def strip_mathml_attributes(mathml_string: str, attributes_to_remove: list[str])
 failure_count: int = 0  # Global counter for match failures
 
 
-def areCanonicallyEqual(original: str, predicted: str) -> bool:
+def areCanonicallyEqual(original: str, computed: str) -> bool:
     """
     Placeholder for your canonical comparison logic.
     Returns True if the MathML strings are equivalent, False otherwise.
     """
     global failure_count
-    if type(predicted) is not str:
+    if type(computed) is not str:
         failure_count += 1
         return False
 
     # Remove these after fixing the input data
-    fixed = FIX_MSPACE.sub(r'<mspace \1="\2\3">', original)
-    fixed = FIX_MSPACE_NAMEDSPACE.sub(r'<mspace \1="\2">', fixed)
-    fixed = (fixed.replace(r"<mspace>&lt;mspace/&gt;</mspace>", r"<mspace></mspace>")
-                  .replace(r"<none>&lt;none/&gt;</none>", r"<none></none>"))
-
-    cannonicalOriginal: str = libmathcat.SetMathML(fixed)
+    cannonicalOriginal: str = libmathcat.SetMathML(original)
     cannonicalOriginal = strip_mathml_attributes(cannonicalOriginal, IGNORE_ATTRS)
-    cannonicalpredicted: str = libmathcat.SetMathML(predicted)
-    cannonicalpredicted = strip_mathml_attributes(cannonicalpredicted, IGNORE_ATTRS)
-    result = cannonicalOriginal.strip() == cannonicalpredicted.strip()
+    canonicalComputed: str = libmathcat.SetMathML(computed)
+    canonicalComputed = strip_mathml_attributes(canonicalComputed, IGNORE_ATTRS)
+    result = cannonicalOriginal.strip() == canonicalComputed.strip()
     if not result:
         failure_count += 1
         print(f"\nNot the same:\nOriginal: {cannonicalOriginal}")
-        print(f"Predicted: {cannonicalpredicted}")
+        print(f"Predicted: {canonicalComputed}")
     return result
 
 
@@ -163,7 +158,7 @@ def process_mathml_csv(input_file: str) -> None:
 if __name__ == "__main__":
     # Check if exactly one filename argument was provided
     if len(sys.argv) != 2:
-        print("Usage: python script_name.py <filename.csv>")
+        print("Usage: python compare_mathML_files.py <filename.csv>")
     else:
         file_path: str = sys.argv[1]
         process_mathml_csv(file_path)
