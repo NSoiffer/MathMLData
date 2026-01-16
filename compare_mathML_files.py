@@ -28,10 +28,14 @@ def compare_files(file_paths: List[str]) -> None:
 
             for line1, line2 in zip(f1, f2):
                 total_lines += 1
-                if areCanonicallyEqual(line1, line2):
-                    match_count += 1
-                else:
-                    print(f"Line {total_lines}: Different")
+                try:
+                    if areCanonicallyEqual(line1, line2):
+                        match_count += 1
+                    else:
+                        print(f"Line {total_lines}: Different")
+                except Exception as e:
+                    print(f"Error comparing lines: {e}")
+                    continue
 
         # Calculate and display statistics
         if total_lines > 0:
