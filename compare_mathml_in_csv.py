@@ -16,6 +16,8 @@ import sys
 import os
 import libmathcat_py as libmathcat
 from bs4 import BeautifulSoup   # pip install BeautifulSoup4
+sys.stdout.reconfigure(encoding='utf-8')  # in case print statements are used for debugging
+
 
 # Attributes to ignore during comparison (might need a few more)
 IGNORE_ATTRS = ['id', 'displaystyle', 'scriptlevel', 'xmlns',
@@ -84,7 +86,7 @@ def strip_mathml_attributes(mathml_string: str, attributes_to_remove: list[str])
 failure_count: int = 0  # Global counter for match failures
 
 
-def areCanonicallyEqual(original: str, computed: str) -> bool:
+def areCanonicallyEqual(original: str, computed: str, error_text="") -> bool:
     """
     Placeholder for your canonical comparison logic.
     Returns True if the MathML strings are equivalent, False otherwise.
@@ -96,14 +98,15 @@ def areCanonicallyEqual(original: str, computed: str) -> bool:
 
     # Remove these after fixing the input data
     cannonicalOriginal: str = libmathcat.SetMathML(original)
-    cannonicalOriginal = strip_mathml_attributes(cannonicalOriginal, IGNORE_ATTRS)
+    cannonicalOriginal = strip_mathml_attributes(cannonicalOriginal, IGNORE_ATTRS).replace('<mtext', '<mi').replace('</mtext>', '</mi>').strip()
     canonicalComputed: str = libmathcat.SetMathML(computed)
-    canonicalComputed = strip_mathml_attributes(canonicalComputed, IGNORE_ATTRS)
-    result = cannonicalOriginal.strip() == canonicalComputed.strip()
+    canonicalComputed = strip_mathml_attributes(canonicalComputed, IGNORE_ATTRS).replace('<mtext', '<mi').replace('</mtext>', '</mi>').strip()
+    result = cannonicalOriginal == canonicalComputed
     if not result:
         failure_count += 1
-        print(f"\nNot the same:\nOriginal: {cannonicalOriginal}")
-        print(f"Predicted: {canonicalComputed}")
+        print(f"\n{error_text}:")
+        print(f"Original: {cannonicalOriginal}")
+        print(f"Computed: {canonicalComputed}")
     return result
 
 
@@ -134,18 +137,18 @@ def process_mathml_csv(input_file: str) -> None:
         print(f"Error: CSV must contain columns: {required_cols}")
         return
 
+    # Insert new column 'is_equal' before 'predicted_mathml'
+    insert_index: int = df.columns.get_loc('predicted_mathml')
+    df.insert(insert_index, 'is_equal', False)
+
     # Apply the comparison function to each row
     # results is a pandas Series of booleans
-    results: pd.Series = df.apply(
-        lambda row: areCanonicallyEqual(row['ground_truth_mathml'], row['predicted_mathml']),
-        axis=1
-    )
-
-    # Find the index of 'ground_truth_mathml' to insert before it
-    gt_index: int = df.columns.get_loc('ground_truth_mathml')
-
-    # Insert the result column (is_equal) at the specific index
-    df.insert(loc=gt_index, column='is_equal', value=results)
+    for i in range(len(df)):
+        try:
+            df.at[i, 'is_equal'] = areCanonicallyEqual(df.at[i, 'ground_truth_mathml'], df.at[i, 'predicted_mathml'], f"Not the same: row {i+1}")
+        except Exception as e:
+            print(f"Error comparing row {i}: {e}")
+            df.at[i, 'is_equal'] = False
 
     # Generate output filename
     base: str
