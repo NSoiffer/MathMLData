@@ -6,12 +6,12 @@ import os
 import logging
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from tqdm import tqdm
+import libmathcat_py as libmathcat
 
 import sys
 from pathlib import Path
 parent_dir = str(Path(__file__).resolve().parent.parent)
 sys.path.append(parent_dir)
-import libmathcat_py as libmathcat
 
 sys.stdout.reconfigure(encoding='utf-8')  # in case print statements are used for debugging
 
@@ -52,7 +52,6 @@ def getBraille():
 
 # Configure logging
 logging.basicConfig(filename='batch_process.log', level=logging.ERROR)
-
 
 
 def ProcessFile(file_path: str, dest_folder: str, config: dict[str, str]) -> str:
