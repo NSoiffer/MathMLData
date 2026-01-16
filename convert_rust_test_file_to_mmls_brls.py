@@ -1,5 +1,7 @@
 import re
 import os
+import sys
+sys.stdout.reconfigure(encoding='utf-8')  # in case print statements are used for debugging
 
 
 def extract_from_files(file_list, mathml_output, braille_output):
@@ -73,4 +75,5 @@ if __name__ == "__main__":
 
 # if __name__ == "__main__":
 #     # Replace 'tests.rs' with your actual filename
-#     extract_rust_tests('C:/Users/neils/MathCAT/tests/braille/Nemeth/chemistry.rs', 'RustTestData/mathml.txt', 'RustTestData/braille.txt')
+#     extract_rust_tests('C:/Users/neils/MathCAT/tests/braille/Nemeth/chemistry.rs',
+#                       'RustTestData/mathml.txt', 'RustTestData/braille.txt')
