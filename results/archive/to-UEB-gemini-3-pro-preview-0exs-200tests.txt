@@ -1,0 +1,97 @@
+# Configuration:
+#   Braille Code: UEB
+#   Generate Braille: True
+#   Model: gemini-3-pro-preview
+#   API Key: GEMINI_PAID_API_KEY
+#   Batch Size: 80
+#   Number of Examples: 0
+#   Example Braille File: RustTestData/UEB.brls
+#   Example MathML File: RustTestData/UEB.mmls
+#   Input Braille Dir: test_data/UEB
+#   Input MathML Dir: test_data/MathML
+#   Instructions (preview): You are an expert braille translator specializing in UEB braille. The user will provide a python list of strings, where each string is composed of represents math encoded in MathML (e.g., <math><mi>f<...
+#
+# 80 items. Usage info: prompt=4780, candidates=3244, total=27289, time=26567ms, TPS=8189.580764488286.2f
+#
+# Match | Test Input | Expected | Computed
+✗ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mi>a</mi><msup><mi>b</mi><mi>t</mi></msup></mrow></math> | ⠋⠐⠣⠞⠐⠜⠀⠐⠶⠀⠁⠃⠰⠔⠞ | ⠋⠐⠣⠞⠐⠜⠀⠐⠶⠀⠁⠃⠔⠞
+✗ | <math><mrow><mi>g</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mi>a</mi><msup><mi>b</mi><mi>t</mi></msup><mo>+</mo><mi>c</mi></mrow></math> | ⠛⠐⠣⠞⠐⠜⠀⠐⠶⠀⠁⠃⠰⠔⠞⠐⠖⠉ | ⠛⠐⠣⠞⠐⠜⠀⠐⠶⠀⠁⠃⠔⠞⠐⠖⠉
+✓ | <math><mn>10</mn></math> | ⠼⠁⠚ | ⠼⠁⠚
+✓ | <math><mrow><mn>2</mn><mo>+</mo><mn>3</mn><mo>=</mo><mn>5</mn><mtext>:</mtext></mrow></math> | ⠼⠃⠐⠖⠼⠉⠀⠐⠶⠀⠼⠑⠒ | ⠼⠃⠐⠖⠼⠉⠀⠐⠶⠀⠼⠑⠒
+✓ | <math><mn>2</mn></math> | ⠼⠃ | ⠼⠃
+✗ | <math><mrow><mn>2</mn><mo>⋅</mo><mn>3</mn><mo>=</mo><mn>6</mn><mtext>.</mtext></mrow></math> | ⠼⠃⠐⠲⠼⠉⠀⠐⠶⠀⠼⠋⠲ | ⠼⠃⠐⠡⠼⠉⠀⠐⠶⠀⠼⠋⠲
+✗ | <math><mrow><mi>f</mi><mo>:</mo><mi>B</mi><mo accent="false" stretchy="false">→</mo><mi>C</mi><mtext>,</mtext></mrow></math> | ⠰⠰⠰⠋⠒⠀⠠⠃⠀⠳⠕⠀⠠⠉⠂⠀⠰⠄ | ⠰⠋⠒⠀⠠⠃⠀⠳⠕⠀⠠⠉⠂
+✓ | <math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>∘</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mi>f</mi><mo stretchy="false">(</mo><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | ⠐⠣⠋⠐⠴⠛⠐⠜⠐⠣⠭⠐⠜⠀⠐⠶⠀⠋⠐⠣⠛⠐⠣⠭⠐⠜⠐⠜⠲ | ⠐⠣⠋⠐⠴⠛⠐⠜⠐⠣⠭⠐⠜⠀⠐⠶⠀⠋⠐⠣⠛⠐⠣⠭⠐⠜⠐⠜⠲
+✓ | <math><mi>g</mi></math> | ⠰⠛ | ⠰⠛
+✓ | <math><mi>f</mi></math> | ⠰⠋ | ⠰⠋
+✓ | <math><mi>q</mi></math> | ⠰⠟ | ⠰⠟
+✗ | <math><mrow><mi>q</mi><mtext>,</mtext></mrow></math> | ⠰⠟⠂⠀ | ⠰⠟⠂
+✓ | <math><mrow><mi>p</mi><mtext>.</mtext></mrow></math> | ⠰⠏⠲ | ⠰⠏⠲
+✓ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></math> | ⠋⠐⠣⠭⠐⠜ | ⠋⠐⠣⠭⠐⠜
+✓ | <math><mrow><mi>g</mi><mtext>.</mtext></mrow></math> | ⠰⠛⠲ | ⠰⠛⠲
+✓ | <math><mrow><mi>h</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>+</mo><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | ⠓⠐⠣⠭⠐⠜⠀⠐⠶⠀⠋⠐⠣⠭⠐⠜⠐⠖⠛⠐⠣⠭⠐⠜⠲ | ⠓⠐⠣⠭⠐⠜⠀⠐⠶⠀⠋⠐⠣⠭⠐⠜⠐⠖⠛⠐⠣⠭⠐⠜⠲
+✓ | <math><mrow><mi>r</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mi>p</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>−</mo><mi>q</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | ⠗⠐⠣⠭⠐⠜⠀⠐⠶⠀⠏⠐⠣⠭⠐⠜⠐⠤⠟⠐⠣⠭⠐⠜⠲ | ⠗⠐⠣⠭⠐⠜⠀⠐⠶⠀⠏⠐⠣⠭⠐⠜⠐⠤⠟⠐⠣⠭⠐⠜⠲
+✓ | <math><mrow><mi>r</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn><mtext>?</mtext></mrow></math> | ⠗⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠚⠦ | ⠗⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠚⠦
+✓ | <math><mrow><mi>k</mi><mo stretchy="false">(</mo><mn>0</mn><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | ⠅⠐⠣⠼⠚⠐⠜⠲ | ⠅⠐⠣⠼⠚⠐⠜⠲
+✓ | <math><mrow><mi>s</mi><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></math> | ⠎⠐⠣⠼⠁⠐⠜ | ⠎⠐⠣⠼⠁⠐⠜
+✓ | <math><mrow><mi>s</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></math> | ⠎⠐⠣⠭⠐⠜ | ⠎⠐⠣⠭⠐⠜
+✓ | <math><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>7</mn><mtext>?</mtext></mrow></math> | ⠼⠉⠭⠐⠤⠼⠙⠽⠀⠐⠶⠀⠼⠛⠦ | ⠼⠉⠭⠐⠤⠼⠙⠽⠀⠐⠶⠀⠼⠛⠦
+✗ | <math><mrow><mi>x</mi><mo>=</mo><mo>−</mo><mn>2</mn><mtext>?</mtext></mrow></math> | ⠰⠭⠀⠐⠶⠀⠐⠤⠼⠃⠦ | ⠭⠀⠐⠶⠀⠐⠤⠼⠃⠦
+✓ | <math><mrow><mi>q</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mo>−</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>7</mn></mrow></math> | ⠟⠐⠣⠭⠐⠜⠀⠐⠶⠀⠐⠤⠼⠉⠭⠔⠼⠃⠐⠖⠼⠑⠭⠐⠤⠼⠛ | ⠟⠐⠣⠭⠐⠜⠀⠐⠶⠀⠐⠤⠼⠉⠭⠔⠼⠃⠐⠖⠼⠑⠭⠐⠤⠼⠛
+✓ | <math><mrow><mi>s</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>5</mn><mi>x</mi></mrow></math> | ⠎⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠑⠭ | ⠎⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠑⠭
+✗ | <math><mrow><mi>m</mi><mo>=</mo><mn>5</mn><mtext>,</mtext></mrow></math> | ⠰⠍⠀⠐⠶⠀⠼⠑⠂⠀ | ⠰⠍⠀⠐⠶⠀⠼⠑⠂
+✗ | <math><mrow><mi>c</mi><mtext>,</mtext></mrow></math> | ⠰⠉⠂⠀ | ⠰⠉⠂
+✓ | <math><mi>w</mi></math> | ⠰⠺ | ⠰⠺
+✓ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn></mrow></math> | ⠋⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠉⠭⠔⠼⠃⠐⠖⠼⠙ | ⠋⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠉⠭⠔⠼⠃⠐⠖⠼⠙
+✓ | <math><mrow><mi>f</mi><mo>+</mo><mi>g</mi></mrow></math> | ⠋⠐⠖⠛ | ⠋⠐⠖⠛
+✓ | <math><mrow><mi>f</mi><mo>−</mo><mi>g</mi></mrow></math> | ⠋⠐⠤⠛ | ⠋⠐⠤⠛
+✗ | <math><mrow><mi>f</mi><mo>⋅</mo><mi>g</mi></mrow></math> | ⠋⠐⠲⠛ | ⠋⠐⠡⠛
+✗ | <math><mfrac><mi>f</mi><mi>g</mi></mfrac></math> | ⠰⠰⠷⠋⠨⠌⠛⠾ | ⠐⠹⠋⠐⠌⠛⠐⠼
+✗ | <math><mrow><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>≠</mo><mn>0</mn><mtext>.</mtext></mrow></math> | ⠛⠐⠣⠭⠐⠜⠀⠐⠶⠈⠱⠀⠼⠚⠲ | ⠛⠐⠣⠭⠐⠜⠀⠐⠶⠂⠀⠼⠚⠲
+✓ | <math><mrow><mo stretchy="false">(</mo><mn>3</mn><mo>,</mo><mo>−</mo><mn>0.5</mn><mo stretchy="false">)</mo></mrow></math> | ⠐⠣⠼⠉⠂⠀⠐⠤⠼⠚⠲⠑⠐⠜ | ⠐⠣⠼⠉⠂⠀⠐⠤⠼⠚⠲⠑⠐⠜
+✓ | <math><mrow><mo stretchy="false">(</mo><mo>−</mo><mn>1</mn><mo>,</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></math> | ⠐⠣⠐⠤⠼⠁⠂⠀⠼⠉⠐⠜ | ⠐⠣⠐⠤⠼⠁⠂⠀⠼⠉⠐⠜
+✓ | <math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>+</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>0</mn><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | ⠐⠣⠋⠐⠖⠛⠐⠜⠐⠣⠼⠚⠐⠜⠲ | ⠐⠣⠋⠐⠖⠛⠐⠜⠐⠣⠼⠚⠐⠜⠲
+✗ | <math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>⋅</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | ⠐⠣⠋⠐⠲⠛⠐⠜⠐⠣⠐⠤⠼⠁⠐⠜⠲ | ⠐⠣⠋⠐⠡⠛⠐⠜⠐⠣⠐⠤⠼⠁⠐⠜⠲
+✗ | <math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>⋅</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn><mtext>?</mtext></mrow></math> | ⠐⠣⠋⠐⠲⠛⠐⠜⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠚⠦ | ⠐⠣⠋⠐⠡⠛⠐⠜⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠚⠦
+✓ | <math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></math> | ⠠⠏⠐⠣⠞⠐⠜ | ⠠⠏⠐⠣⠞⠐⠜
+✗ | <math><mrow><mi>A</mi><msub><mi>V</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">[</mo><mn>5</mn><mo>,</mo><mn>11</mn><mo stretchy="false">]</mo></mrow></msub><mtext>,</mtext></mrow></math> | ⠠⠠⠁⠧⠰⠢⠨⠣⠼⠑⠂⠀⠼⠁⠁⠨⠜⠂⠀ | ⠠⠠⠁⠧⠔⠨⠣⠼⠑⠂⠀⠼⠁⠁⠨⠜⠂
+✓ | <math><mrow><mn>11</mn><mtext>.</mtext></mrow></math> | ⠼⠁⠁⠲ | ⠼⠁⠁⠲
+✗ | <math><mrow><mi>t</mi><mtext>,</mtext></mrow></math> | ⠰⠞⠂⠀ | ⠰⠞⠂
+✓ | <math><mrow><mi>S</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></math> | ⠠⠎⠐⠣⠞⠐⠜ | ⠠⠎⠐⠣⠞⠐⠜
+✗ | <math><mrow><mi>V</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math> | ⠠⠧⠐⠣⠞⠐⠜⠂⠀ | ⠠⠧⠐⠣⠞⠐⠜⠂
+✗ | <math><mrow><mi>V</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mi>N</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>⋅</mo><mi>S</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | ⠠⠧⠐⠣⠞⠐⠜⠀⠐⠶⠀⠠⠝⠐⠣⠞⠐⠜⠐⠲⠠⠎⠐⠣⠞⠐⠜⠲ | ⠠⠧⠐⠣⠞⠐⠜⠀⠐⠶⠀⠠⠝⠐⠣⠞⠐⠜⠐⠡⠠⠎⠐⠣⠞⠐⠜⠲
+✓ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>v</mi><mo stretchy="false">)</mo></mrow></math> | ⠋⠐⠣⠧⠐⠜ | ⠋⠐⠣⠧⠐⠜
+✓ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mn>60</mn><mo stretchy="false">)</mo><mo>=</mo><mn>0.04</mn></mrow></math> | ⠋⠐⠣⠼⠋⠚⠐⠜⠀⠐⠶⠀⠼⠚⠲⠚⠙ | ⠋⠐⠣⠼⠋⠚⠐⠜⠀⠐⠶⠀⠼⠚⠲⠚⠙
+✓ | <math><mrow><mi>g</mi><mo stretchy="false">(</mo><mn>60</mn><mo stretchy="false">)</mo><mtext>?</mtext></mrow></math> | ⠛⠐⠣⠼⠋⠚⠐⠜⠦ | ⠛⠐⠣⠼⠋⠚⠐⠜⠦
+✗ | <math><mrow><mi>h</mi><mo stretchy="false">(</mo><mi>v</mi><mo stretchy="false">)</mo><mo>=</mo><mi>v</mi><mo>⋅</mo><mi>f</mi><mo stretchy="false">(</mo><mi>v</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | ⠓⠐⠣⠧⠐⠜⠀⠐⠶⠀⠧⠐⠲⠋⠐⠣⠧⠐⠜⠲ | ⠓⠐⠣⠧⠐⠜⠀⠐⠶⠀⠧⠐⠡⠋⠐⠣⠧⠐⠜⠲
+✗ | <math><mrow><mi>h</mi><mtext>?</mtext></mrow></math> | ⠓⠰⠦ | ⠰⠓⠦
+✗ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mn>60</mn><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math> | ⠋⠐⠣⠼⠋⠚⠐⠜⠂⠀ | ⠋⠐⠣⠼⠋⠚⠐⠜⠂
+✓ | <math><mrow><mi>h</mi><mo stretchy="false">(</mo><mn>60</mn><mo stretchy="false">)</mo></mrow></math> | ⠓⠐⠣⠼⠋⠚⠐⠜ | ⠓⠐⠣⠼⠋⠚⠐⠜
+✓ | <math><mrow><mo stretchy="false">[</mo><mn>60</mn><mo>,</mo><mn>70</mn><mo stretchy="false">]</mo><mtext>.</mtext></mrow></math> | ⠨⠣⠼⠋⠚⠂⠀⠼⠛⠚⠨⠜⠲ | ⠨⠣⠼⠋⠚⠂⠀⠼⠛⠚⠨⠜⠲
+✗ | <math><mrow><mi>A</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">|</mo><mi>x</mi><mo stretchy="false">|</mo><mtext>.</mtext></mrow></math> | ⠠⠁⠐⠣⠭⠐⠜⠀⠐⠶⠀⠸⠳⠭⠸⠳⠲ | ⠠⠁⠐⠣⠭⠐⠜⠀⠐⠶⠀⠳⠭⠳⠲
+✗ | <math><mrow><mo stretchy="false">|</mo><mi>x</mi><mo stretchy="false">|</mo><mo>=</mo><mi>x</mi><mtext>,</mtext></mrow></math> | ⠸⠳⠭⠸⠳⠀⠐⠶⠀⠰⠭⠂⠀ | ⠳⠭⠳⠀⠐⠶⠀⠭⠂
+✗ | <math><mrow><mo stretchy="false">|</mo><mi>x</mi><mo stretchy="false">|</mo><mo>=</mo><mo>−</mo><mi>x</mi><mtext>.</mtext></mrow></math> | ⠸⠳⠭⠸⠳⠀⠐⠶⠀⠐⠤⠭⠲ | ⠳⠭⠳⠀⠐⠶⠀⠐⠤⠭⠲
+✗ | <math><mrow><mi>A</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">{</mo><mtable columnalign="left left" columnspacing="1em" rowspacing=".2em"><mtr><mtd><mrow><mo>−</mo><mi>x</mi><mo>,</mo></mrow></mtd><mtd><mrow><mi>x</mi><mo>&lt;</mo><mn>0</mn></mrow></mtd></mtr><mtr><mtd><mrow><mi>x</mi><mo>,</mo></mrow></mtd><mtd><mrow><mi>x</mi><mo>≥</mo><mn>0</mn></mrow></mtd></mtr></mtable><mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true">&lt;mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"/&gt;</mo></mrow></mrow></math> | ⠰⠰⠰⠠⠁⠐⠣⠭⠐⠜⠀⠐⠶⠀⠸⠣⠠⠐⠤⠭⠂⠀⠭⠀⠈⠣⠀⠼⠚⠠⠠⠭⠂⠀⠭⠀⠸⠈⠜⠀⠼⠚⠠⠈⠣⠍⠕⠀⠙⠁⠞⠁⠐⠤⠍⠚⠭⠐⠤⠞⠑⠭⠉⠇⠁⠎⠎⠐⠶⠠⠶⠠⠠⠉⠇⠕⠎⠑⠠⠶⠀⠋⠑⠝⠉⠑⠐⠶⠠⠶⠞⠗⠥⠑⠠⠶⠀⠎⠞⠗⠑⠞⠉⠓⠽⠐⠶⠠⠶⠞⠗⠥⠑⠠⠶⠀⠎⠽⠍⠍⠑⠞⠗⠊⠉⠐⠶⠠⠶⠞⠗⠥⠑⠠⠶⠸⠌⠈⠜⠰⠄ | ⠠⠁⠐⠣⠭⠐⠜⠀⠐⠶⠀⠸⠫⠐⠤⠭⠂⠀⠭⠀⠐⠅⠀⠼⠚⠀⠭⠂⠀⠭⠀⠐⠔⠐⠶⠀⠼⠚⠸⠻
+✗ | <math><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mi>x</mi></mrow></math> | ⠰⠽⠀⠐⠶⠀⠐⠤⠭ | ⠽⠀⠐⠶⠀⠐⠤⠭
+✗ | <math><mrow><mi>p</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">{</mo><mtable columnalign="left left" columnspacing="1em" rowspacing=".2em"><mtr><mtd><mrow><mo>−</mo><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mn>2</mn><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><mn>2</mn><mo>,</mo></mrow></mtd><mtd><mrow><mi>x</mi><mo>&lt;</mo><mn>0</mn></mrow></mtd></mtr><mtr><mtd><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mn>2</mn><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><mn>1</mn><mo>,</mo></mrow></mtd><mtd><mrow><mi>x</mi><mo>≥</mo><mn>0</mn></mrow></mtd></mtr></mtable><mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true">&lt;mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"/&gt;</mo></mrow></mrow></math> | ⠰⠰⠰⠏⠐⠣⠭⠐⠜⠀⠐⠶⠀⠸⠣⠠⠐⠤⠐⠣⠭⠐⠖⠼⠃⠐⠜⠔⠼⠃⠐⠖⠼⠃⠂⠀⠭⠀⠈⠣⠀⠼⠚⠠⠠⠼⠁⠌⠃⠐⠣⠭⠐⠤⠼⠃⠐⠜⠔⠼⠃⠐⠖⠼⠁⠂⠀⠭⠀⠸⠈⠜⠀⠼⠚⠠⠈⠣⠍⠕⠀⠙⠁⠞⠁⠐⠤⠍⠚⠭⠐⠤⠞⠑⠭⠉⠇⠁⠎⠎⠐⠶⠠⠶⠠⠠⠉⠇⠕⠎⠑⠠⠶⠀⠋⠑⠝⠉⠑⠐⠶⠠⠶⠞⠗⠥⠑⠠⠶⠀⠎⠞⠗⠑⠞⠉⠓⠽⠐⠶⠠⠶⠞⠗⠥⠑⠠⠶⠀⠎⠽⠍⠍⠑⠞⠗⠊⠉⠐⠶⠠⠶⠞⠗⠥⠑⠠⠶⠸⠌⠈⠜⠰⠄ | ⠏⠐⠣⠭⠐⠜⠀⠐⠶⠀⠸⠫⠐⠤⠐⠣⠭⠐⠖⠼⠃⠐⠜⠔⠼⠃⠐⠖⠼⠃⠂⠀⠭⠀⠐⠅⠀⠼⠚⠀⠐⠹⠼⠁⠐⠌⠼⠃⠐⠼⠐⠣⠭⠐⠤⠼⠃⠐⠜⠔⠼⠃⠐⠖⠼⠁⠂⠀⠭⠀⠐⠔⠐⠶⠀⠼⠚⠸⠻
+✗ | <math><mrow><mi>p</mi><mo stretchy="false">(</mo><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math> | ⠏⠐⠣⠐⠤⠼⠃⠐⠜⠂⠀ | ⠏⠐⠣⠐⠤⠼⠃⠐⠜⠂
+✗ | <math><mrow><mi>p</mi><mo stretchy="false">(</mo><mn>2</mn><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math> | ⠏⠐⠣⠼⠃⠐⠜⠂⠀ | ⠏⠐⠣⠼⠃⠐⠜⠂
+✗ | <math><mrow><mi>x</mi><mo>&lt;</mo><mn>0</mn><mtext>?</mtext></mrow></math> | ⠰⠭⠀⠈⠣⠀⠼⠚⠦ | ⠭⠀⠐⠅⠀⠼⠚⠦
+✓ | <math><mrow><mi>p</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn><mtext>?</mtext></mrow></math> | ⠏⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠚⠦ | ⠏⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠚⠦
+✗ | <math><mrow><mi>p</mi><mtext>?</mtext></mrow></math> | ⠏⠰⠦ | ⠰⠏⠦
+✗ | <math><mrow><mi>y</mi><mo>=</mo><mi>p</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | ⠰⠽⠀⠐⠶⠀⠏⠐⠣⠭⠐⠜⠲ | ⠽⠀⠐⠶⠀⠏⠐⠣⠭⠐⠜⠲
+✗ | <math><mrow><mi>p</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi>f</mi><mo>⋅</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>⋅</mo><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | ⠏⠐⠣⠭⠐⠜⠀⠐⠶⠀⠐⠣⠋⠐⠲⠛⠐⠜⠐⠣⠭⠐⠜⠀⠐⠶⠀⠋⠐⠣⠭⠐⠜⠐⠲⠛⠐⠣⠭⠐⠜⠲ | ⠏⠐⠣⠭⠐⠜⠀⠐⠶⠀⠐⠣⠋⠐⠡⠛⠐⠜⠐⠣⠭⠐⠜⠀⠐⠶⠀⠋⠐⠣⠭⠐⠜⠐⠡⠛⠐⠣⠭⠐⠜⠲
+✗ | <math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">{</mo><mtable columnalign="left left" columnspacing="1em" rowspacing=".2em"><mtr><mtd><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>,</mo></mrow></mtd><mtd><mrow><mi>x</mi><mo>&lt;</mo><mi>a</mi></mrow></mtd></mtr><mtr><mtd><mrow><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>,</mo></mrow></mtd><mtd><mrow><mi>x</mi><mo>≥</mo><mi>a</mi></mrow></mtd></mtr></mtable><mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true">&lt;mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"/&gt;</mo></mrow></mrow></math> | ⠰⠰⠰⠠⠏⠐⠣⠭⠐⠜⠀⠐⠶⠀⠸⠣⠠⠋⠐⠣⠭⠐⠜⠂⠀⠭⠀⠈⠣⠀⠁⠠⠠⠛⠐⠣⠭⠐⠜⠂⠀⠭⠀⠸⠈⠜⠀⠁⠠⠈⠣⠍⠕⠀⠙⠁⠞⠁⠐⠤⠍⠚⠭⠐⠤⠞⠑⠭⠉⠇⠁⠎⠎⠐⠶⠠⠶⠠⠠⠉⠇⠕⠎⠑⠠⠶⠀⠋⠑⠝⠉⠑⠐⠶⠠⠶⠞⠗⠥⠑⠠⠶⠀⠎⠞⠗⠑⠞⠉⠓⠽⠐⠶⠠⠶⠞⠗⠥⠑⠠⠶⠀⠎⠽⠍⠍⠑⠞⠗⠊⠉⠐⠶⠠⠶⠞⠗⠥⠑⠠⠶⠸⠌⠈⠜⠰⠄ | ⠠⠏⠐⠣⠭⠐⠜⠀⠐⠶⠀⠸⠫⠋⠐⠣⠭⠐⠜⠂⠀⠭⠀⠐⠅⠀⠁⠀⠛⠐⠣⠭⠐⠜⠂⠀⠭⠀⠐⠔⠐⠶⠀⠁⠸⠻
+✓ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>4</mn></mrow></math> | ⠋⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠃⠭⠐⠖⠼⠙ | ⠋⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠃⠭⠐⠖⠼⠙
+✓ | <math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>−</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo></mrow></math> | ⠐⠣⠋⠐⠤⠛⠐⠜⠐⠣⠭⠐⠜⠀⠐⠶ | ⠐⠣⠋⠐⠤⠛⠐⠜⠐⠣⠭⠐⠜⠀⠐⠶
+✓ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mi>t</mi><mo>−</mo><mn>2</mn></mrow></math> | ⠋⠐⠣⠞⠐⠜⠀⠐⠶⠀⠞⠐⠤⠼⠃ | ⠋⠐⠣⠞⠐⠜⠀⠐⠶⠀⠞⠐⠤⠼⠃
+✗ | <math><mrow><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mfrac><mi>f</mi><mi>g</mi></mfrac><mo data-mjx-texclass="CLOSE">)</mo></mrow><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo></mrow></math> | ⠰⠰⠐⠣⠷⠋⠨⠌⠛⠾⠐⠜⠐⠣⠞⠐⠜⠀⠐⠶ | ⠐⠣⠐⠹⠋⠐⠌⠛⠐⠼⠐⠜⠐⠣⠞⠐⠜⠀⠐⠶
+✓ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>2</mn><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></math> | ⠋⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠃⠐⠖⠭⠔⠼⠃ | ⠋⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠃⠐⠖⠭⠔⠼⠃
+✗ | <math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>⋅</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo></mrow></math> | ⠐⠣⠋⠐⠲⠛⠐⠜⠐⠣⠭⠐⠜⠀⠐⠶ | ⠐⠣⠋⠐⠡⠛⠐⠜⠐⠣⠭⠐⠜⠀⠐⠶
+✓ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math> | ⠋⠐⠣⠼⠉⠐⠜⠀⠐⠶ | ⠋⠐⠣⠼⠉⠐⠜⠀⠐⠶
+✓ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>+</mo><mi>g</mi><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math> | ⠋⠐⠣⠼⠉⠐⠜⠐⠖⠛⠐⠣⠼⠉⠐⠜⠀⠐⠶ | ⠋⠐⠣⠼⠉⠐⠜⠐⠖⠛⠐⠣⠼⠉⠐⠜⠀⠐⠶
+✓ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math> | ⠋⠐⠣⠐⠤⠼⠃⠐⠜⠀⠐⠶ | ⠋⠐⠣⠐⠤⠼⠃⠐⠜⠀⠐⠶
+✓ | <math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>+</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math> | ⠐⠣⠋⠐⠖⠛⠐⠜⠐⠣⠐⠤⠼⠃⠐⠜⠀⠐⠶ | ⠐⠣⠋⠐⠖⠛⠐⠜⠐⠣⠐⠤⠼⠃⠐⠜⠀⠐⠶
+✓ | <math><mn>1</mn></math> | ⠼⠁ | ⠼⠁
+✓ | <math><mn>3</mn></math> | ⠼⠉ | ⠼⠉
+# Matches: 45 out of 80: 56%.
