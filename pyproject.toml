@@ -8,6 +8,7 @@ dependencies = [
     "jupyter>=1.1.1",
     "matplotlib>=3.7.5",
     "openai>=1.0.0",
+    "pandas>=2.0.0",
     "polars>=1.8.2",
     "pyarrow>=17.0.0",
     "seaborn>=0.13.2",
