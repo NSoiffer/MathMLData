@@ -107,20 +107,20 @@ def _generate_with_retry_common(
     client: Any,
     model: str,
     instructions: str,
-    examples: str,
-    content: list[str],
+    examples: list[dict[str, Any]],
+    tests: list[str],
     run_info: str,
     max_retries: int,
     depth: int,
-    create_stream_func: Callable[[Any, str, str, str, str], Iterator[Any]],
+    create_stream_func: Callable[[Any, str, str, list[dict[str, Any]] | str, str], Iterator[Any]],
     process_chunk_func: Callable[[Any, list[str]], tuple[str | None, Any | None, str | None] | None],
-    get_fallback_usage_func: Callable[[Any, str, str, str, str], tuple[Any | None, str | None] | None] | None,
+    get_fallback_usage_func: Callable[[Any, str, str, list[dict[str, Any]] | str, str], tuple[Any | None, str | None] | None] | None,
     is_max_tokens_func: Callable[[str | None], bool],
     is_success_finish_func: Callable[[str | None], bool],
     handle_retry_exception_func: Callable[[Exception, int, int, str, str], tuple[bool, str | None]],
     sum_usage_func: Callable[[Any, Any], Any],
     default_error_usage: Any,
-    recursive_call_func: Callable[[Any, str, str, str, list[str], str, int, int], tuple[str, Any, float]]
+    recursive_call_func: Callable[[Any, str, str, list[dict[str, Any]] | str, list[str], str, int, int], tuple[str, Any, float]]
 ) -> tuple[str, Any, float]:
     """Common retry logic shared between Gemini and ChatGPT."""
     indent = "  " * depth
@@ -132,8 +132,9 @@ def _generate_with_retry_common(
 
     for attempt in range(1, max_retries + 1):
         try:
-            payload_text = "\n".join(content)
-            response_stream = create_stream_func(client, model, instructions, examples, payload_text)
+            # Add line numbers to content
+            numbered_tests = "\n".join(f"{i}) {s}" for i, s in enumerate(tests, 1))
+            response_stream = create_stream_func(client, model, instructions, examples, numbered_tests)
 
             full_text_list = []
             first_token_received = False
@@ -158,7 +159,7 @@ def _generate_with_retry_common(
 
             # Try to get usage from fallback if not available (ChatGPT only)
             if get_fallback_usage_func and hasattr(final_usage, 'total_token_count') and final_usage.total_token_count == 0:
-                fallback_result = get_fallback_usage_func(client, model, instructions, examples, payload_text)
+                fallback_result = get_fallback_usage_func(client, model, instructions, examples, numbered_tests)
                 if fallback_result:
                     fallback_usage, fallback_reason = fallback_result
                     if fallback_usage is not None:
@@ -183,15 +184,15 @@ def _generate_with_retry_common(
             if str(e) != "MAX_TOKENS":
                 raise e
 
-            print(f"{indent}[!] In {run_info}: MAX_TOKENS hit on {len(content)} lines.")
+            print(f"{indent}[!] In {run_info}: MAX_TOKENS hit on {len(tests)} lines.")
 
-            if len(content) <= 1:
+            if len(tests) <= 1:
                 print(f"{indent}[X] Critical in {run_info}: Single input line is too large.")
                 raise e
 
-            mid = len(content) // 2
-            left_part = content[:mid]
-            right_part = content[mid:]
+            mid = len(tests) // 2
+            left_part = tests[:mid]
+            right_part = tests[mid:]
 
             print(f"{indent}    -> Splitting: {len(left_part)} lines | {len(right_part)} lines")
 
@@ -236,8 +237,8 @@ def generate_with_retry_gemini(
     client: genai.Client,
     model: str,
     instructions: str,
-    examples: str,
-    content: list[str],
+    examples: list[dict[str, Any]],
+    tests: list[str],
     run_info: str,
     max_retries: int = 3,
     depth: int = 0
@@ -247,10 +248,13 @@ def generate_with_retry_gemini(
         client: genai.Client,
         model: str,
         instructions: str,
-        examples: str,
-        payload_text: str
+        examples: list[dict[str, Any]],
+        numbered_tests: str
     ) -> Iterator[Any]:
-        full_instructions = instructions + examples
+        test_content = types.Content(
+            role="user",
+            parts=[types.Part.from_text(text=numbered_tests)]
+        )
         return client.models.generate_content_stream(
             model=model,
             config=types.GenerateContentConfig(
@@ -260,10 +264,10 @@ def generate_with_retry_gemini(
                         threshold="BLOCK_NONE",
                     )
                 ],
-                system_instruction=full_instructions,
+                system_instruction=instructions,
                 temperature=0.1,
             ),
-            contents=payload_text,
+            contents=examples + [test_content],
         )
 
     def process_chunk(chunk: Any, full_text_list: list[str]) -> tuple[str | None, Any | None, str | None] | None:
@@ -294,7 +298,7 @@ def generate_with_retry_gemini(
         model=model,
         instructions=instructions,
         examples=examples,
-        content=content,
+        tests=tests,
         run_info=run_info,
         max_retries=max_retries,
         depth=depth,
@@ -314,8 +318,8 @@ def generate_with_retry_chatgpt(
     client: OpenAI,
     model: str,
     instructions: str,
-    examples: str,
-    content: list[str],
+    examples: list[dict[str, Any]],
+    tests: list[str],
     run_info: str,
     max_retries: int = 3,
     depth: int = 0
@@ -323,13 +327,21 @@ def generate_with_retry_chatgpt(
     """Generate with retry logic for ChatGPT API."""
     messages_cache: list[dict[str, str]] | None = None
 
-    def create_stream(client: OpenAI, model: str, instructions: str, examples: str, payload_text: str) -> Iterator[Any]:
+    def create_stream(
+        client: OpenAI,
+        model: str,
+        instructions: str,
+        examples: list[dict[str, Any]],
+        numbered_tests: str
+    ) -> Iterator[Any]:
         nonlocal messages_cache
-        messages_cache = [
-            {"role": "system", "content": instructions},
-            {"role": "user", "content": examples},
-            {"role": "assistant", "content": payload_text}
-        ]
+        # Build messages array: system message, then examples (if list), then user/assistant for payload
+        messages_cache = [{"role": "system", "content": instructions}]
+        # Insert example messages into the array
+        messages_cache.extend(examples)
+        messages_cache.extend([
+            {"role": "user", "content": numbered_tests}
+        ])
         return call_openai_model(
             client=client,
             model=model,
@@ -365,7 +377,7 @@ def generate_with_retry_chatgpt(
         client: OpenAI,
         model: str,
         instructions: str,
-        examples: str,
+        examples: list[dict[str, Any]],
         payload_text: str
     ) -> tuple[ChatGPTUsageMetadata | None, str | None] | None:
         try:
@@ -414,7 +426,7 @@ def generate_with_retry_chatgpt(
         model=model,
         instructions=instructions,
         examples=examples,
-        content=content,
+        tests=tests,
         run_info=run_info,
         max_retries=max_retries,
         depth=depth,
@@ -463,7 +475,6 @@ def call_openai_model(
     model: str,
     messages: list[dict[str, str]],
     stream: bool = True,
-    temperature: float = 0.1
 ) -> Any:
     """
     Call OpenAI model with the given messages.
@@ -473,7 +484,6 @@ def call_openai_model(
         model: Model name to use
         messages: List of message dicts with 'role' and 'content'
         stream: Whether to stream the response
-        temperature: Temperature setting for generation
 
     Returns:
         If stream=True: Returns a stream object that can be iterated
@@ -482,7 +492,6 @@ def call_openai_model(
     params: dict[str, Any] = {
         "model": model,
         "messages": messages,
-        "temperature": temperature,
         "stream": stream,
     }
     return client.chat.completions.create(**params)
@@ -490,7 +499,7 @@ def call_openai_model(
 
 def convert_input_with_model(
     instructions: str,
-    examples: str,
+    examples: list[dict[str, Any]],
     tests: list[str],
     model: str,
     apiKeyName: str,
@@ -574,7 +583,6 @@ def convert_input_with_model(
     # look at tests to see if we are generating MathML or braille
     # trim the start and end, then split the string at '|next-item|' and return a list of strings
     text = all_results
-    print(f"Results for {run_info} :\n{text[:300]}\n")
     if tests[0].find("<math") == -1:
         i_start = text.find("<math")
         i_end = text.rfind("</math>") + len("</math>")
@@ -701,32 +709,67 @@ def readMatchingFiles(braille_path: str, mathml_path: str) -> tuple[list[str], l
     return braille_lines, mathml_lines
 
 
-def generate_examples(braille_path: str, mathml_path: str) -> str:
+def generate_examples(
+    model: str,
+    mathml_path: str,
+    braille_path: str,
+) -> list[dict[str, Any]]:
     """
-    Zips lines from two files or directories and returns a string of the form "braille | mathml\n".
-    If directories are provided, matches files by base name (without extension) and combines all pairs.
+    Reads MathML and Braille files to create a few-shot history.
+
+    Args:
+        model: The model identifier string (e.g., 'gemini-2.5-pro' or 'gpt-5-mini').
+        mathml_path: Path to file with MathML strings (one per line).
+        braille_path: Path to file with Braille strings (one per line).
     """
+    history: list[dict[str, Any]] = []
+    is_gemini: bool = "gemini" in model.lower()
     try:
-        braille_lines, mathml_lines = readMatchingFiles(braille_path, mathml_path)
+        with open(mathml_path, 'r', encoding='utf-8') as mathml_file, \
+             open(braille_path, 'r', encoding='utf-8') as braille_file:
 
-        # Zip and format
-        result = ""
-        for brl, mml in zip(braille_lines, mathml_lines):
-            # .strip() removes the trailing newline character for cleaner output
-            quoted_mml = mml.strip().replace('"', '\\"')
-            result += f'"{brl.strip()} | {quoted_mml}\\n"\n'
+            # Use zip to pair mathml lines with their corresponding braille lines
+            for math_line, braille_line in zip(mathml_file, braille_file):
+                math_content = math_line.strip()
+                braille_content = braille_line.strip()
 
-        return result
+                if not math_content or not braille_content:
+                    continue
 
+                # Using '1)' for all shots reinforces the Input=Output numbering pattern
+                shot_num = "1)"
+
+                if is_gemini:
+                    # Format for Google Generative AI SDK (Gemini)
+                    history.append(types.Content(
+                        role="user",
+                        parts=[types.Part.from_text(text=f"{shot_num} {math_line.strip()}")]
+                    ))
+                    history.append(types.Content(
+                        role="model",
+                        parts=[types.Part.from_text(text=f"{shot_num} {braille_line.strip()}")]
+                    ))
+                else:
+                    # Format for OpenAI SDK (ChatGPT)
+                    history.append({
+                        "role": "user",
+                        "content": f"{shot_num} {math_content}"
+                    })
+                    history.append({
+                        "role": "assistant",
+                        "content": f"{shot_num} {braille_content}"
+                    })
+
+        return history
     except FileNotFoundError as e:
         print(f"Error: Could not find file - {e.filename}")
-        return ""
+        raise e
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
-        return ""
+        raise e
 
 
-def getInstructionsProlog(gen_braille: bool, braille_code: str) -> str:
+def get_instructions(gen_braille: bool, braille_code: str) -> str:
     """
     Returns the instructions prolog based on whether generating braille or MathML.
 
@@ -739,13 +782,12 @@ def getInstructionsProlog(gen_braille: bool, braille_code: str) -> str:
     """
     if gen_braille:
         return (
-            f"You are an expert braille translator specializing in {braille_code} braille. "
-            "The user will provide input, one per line, "
-            "where each line represents math encoded in MathML to be translated into {braille_code} braille "
-            "(e.g., here is one line of MathML: "
-            "<math><mi>f</mi><mrow><mo>(</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>)</mo></mrow></math>). "
-            f"Your task is to translate each MathML expression into valid {braille_code} braille "
-            "using only Unicode braille characters. "
+            f"You are an expert braille translator specializing in {braille_code} braille for mathematics and chemistry notation. "
+            "The user will number the input and follow it with math encoded in MathML to be translated into {braille_code} braille. "
+            f"Your task is to translate each MathML expression into valid {braille_code} braille."
+            "The output should only contain Unicode braille characters. "
+            "Remember that the MathML starts with a '<math>' tag and ends with a '</math>' tag. "
+            "The MathML is numbered, so you should output the braille for the corresponding number. "
             "For each MathML input, output ONLY the raw Unicode braille characters. (e.g., "
             f"{'⠹⠭⠬⠂⠌⠆⠼⠀⠐⠅⠀⠁⠬⠂' if braille_code == 'Nemeth' else '⠰⠷⠭⠐⠖⠼⠁⠨⠌⠼⠃⠾⠀⠈⠣⠀⠁⠐⠖⠼⠁'}). "
             "It is important to pay attention to generating Unicode braille spaces when needed in the braille. "
@@ -753,30 +795,21 @@ def getInstructionsProlog(gen_braille: bool, braille_code: str) -> str:
             f"{'the number sign indicator ⠼ and the English letter indicator' if braille_code == 'Nemeth' else
                'grade 1 indicators ⠰, grade 1 word indicators ⠰⠰, and grade 1 passage indicators ⠰⠰⠰ when appropriate. '
                'These are very common at the start of the translation.'}"
-            f"You should follow all the rules for {braille_code} braille encoding for math and chemistry notation "
-            "as demonstrated in the examples below. "
             "Do not include markdown formatting, explanations, or any other text."
             "Add '|next-item|' between each braille output. "
-            "Below are some examples of braille/MathML pairs separated by '|' that should be considered the ground truth"
-            f"You should follow all the rules for {braille_code} braille encoding for math and chemistry notation "
-            "as demonstrated in the examples below. \n"
         )
     else:
         return (
-            f"You are an expert braille translator specializing in {braille_code} braille. "
-            "The user will provide input, one per line, "
-            f"where each line is Unicode {braille_code} braille characters to translate into MathML "
-            f"(e.g., here is one line of Unicode {braille_code} braille: "
-            f"{'⠹⠭⠬⠂⠌⠆⠼⠀⠐⠅⠀⠁⠬⠂' if braille_code == 'Nemeth' else '⠰⠷⠭⠐⠖⠼⠁⠨⠌⠼⠃⠾⠀⠈⠣⠀⠁⠐⠖⠼⠁'}). "
-            "Your task is to translate each {braille_code} braille sequence of characters into valid MathML code. "
+            f"You are an expert braille translator specializing in {braille_code} braille for mathematics and chemistry notation. "
+            "The user will number the input and follow it with {braille_code} braille to be translated into MathML. "
+            f"Your task is to translate each sequence of {braille_code} braille characters into valid MathML code. "
+            "Remember that the MathML starts with a '<math>' tag and ends with a '</math>' tag. "
             "For each braille input, output ONLY the raw MathML string starting with <math> and ending with </math>. "
             "Every element in the MathML must be properly closed and nested. "
             "Do not include markdown formatting, explanations, or any other text. "
             "Do not include any newlines or carriage returns. "
             "Do not include any braille unicode characters in the MathML output. "
             "Add '|next-item|' between each MathML output. "
-            "Below are some examples of braille/MathML pairs separated by '|' "
-            "that should be considered the ground truth:\n"
         )
 
 
@@ -789,7 +822,7 @@ def prepare_conversion_config(
     ai_provider: str,
     model: str,
     apiKeyName: str
-) -> tuple[RunConfig, str, str, list[str], list[str], str, str]:
+) -> tuple[RunConfig, str, list[dict[str, Any]], list[str], list[str], str, str]:
     """
     Prepare configuration and data for a conversion run.
 
@@ -799,30 +832,37 @@ def prepare_conversion_config(
     ai_provider = ai_provider.lower()
 
     # Get instructions prolog based on output type
-    instructions = getInstructionsProlog(gen_braille, braille_code)
+    instructions = get_instructions(gen_braille, braille_code)
 
     # File paths for examples
     example_braille_file = f"RustTestData/{braille_code}.brls"
     example_mathml_file = f"RustTestData/{braille_code}.mmls"
 
     if n_examples == 0:
-        examples = ""
+        examples = []
     else:
-        examples = generate_examples(example_braille_file, example_mathml_file)
-        n_initial_examples = examples.count('\n')
+        examples = generate_examples(
+            model,
+            example_braille_file,
+            example_mathml_file
+        )
+        n_initial_examples = len(examples) // 2   # each example is a pair of braille and mathml
         if n_examples is None:
-            n_examples = examples.count('\n')
+            n_examples = n_initial_examples
         if n_examples <= n_initial_examples:
-            examples = "\n".join(examples.splitlines()[:n_examples])
+            examples = examples[:2*n_examples]
         else:
-            examples = "\n".join(examples.splitlines())
             additional_examples = generate_examples(
+                model,
                 f"example_data/{braille_code.lower()}.brls",
                 "example_data/mathml.mmls"
             )
-            additional_examples = "\n".join(additional_examples.splitlines()[: n_examples - n_initial_examples])
-            examples += "\n" + additional_examples
+            additional_examples = additional_examples[: 2*(n_examples - n_initial_examples)]
+            examples.extend(additional_examples)
+            n_examples = len(examples) // 2   # each example is a pair of braille and mathml
 
+    # print(f"Examples len = {len(str(examples))}")
+    # print(examples)
     test_mathml_dir = "test_data/MathML"
     test_braille_dir = f"test_data/{braille_code}"
 
@@ -861,7 +901,7 @@ def prepare_conversion_config(
 def run_conversion(
     config: RunConfig,
     instructions: str,
-    examples: str,
+    examples: list[dict[str, Any]],
     test_input: list[str],
     expected: list[str],
     model: str,
@@ -875,8 +915,8 @@ def run_conversion(
     Args:
         config: Pre-configured RunConfig object
         instructions: Instructions string for the model (without examples)
-        examples: Examples string for the model
-        test_input: List of input strings to process
+        examples: Examples (shots) for the model
+        test_input: List of input strings to process (unnumbered)
         expected: List of expected output strings
         model: Model name to use
         apiKeyName: API key environment variable name
@@ -886,7 +926,7 @@ def run_conversion(
     print(f"Using API key: {apiKeyName}")
     print(f"Generating {'braille' if config.gen_braille else 'MathML'} with {config.n_examples} examples, "
           f"{len(test_input)} tests with {model} for {config.braille_code}.")
-    print(f"Instructions len = {len(instructions)}, Examples len = {len(examples)}, "
+    print(f"Instructions len = {len(instructions)}, Examples len = ~{len(str(examples))}, "
           f"test len = {len('\n'.join(test_input))}\n")
 
     try:
@@ -953,7 +993,7 @@ Note:
 
     # Set model and API key based on provider
     if ai_provider == "gemini":
-        model = "gemini-2.5-flash"   # for quick testing
+        # model = "gemini-2.5-flash"   # for quick testing
         model = "gemini-2.5-pro"
         model = "gemini-3-pro-preview"
         apiKeyName = "GEMINI_API_KEY"
@@ -961,7 +1001,7 @@ Note:
     elif ai_provider == "chatgpt":
         model = "gpt-5-mini"
         # model = "gpt-5-nano"  # nano doesn't seem to understand braille instructions
-        # model = "gpt-5.2"
+        model = "gpt-5.2"
         apiKeyName = "OPENAI_API_KEY"
     else:
         raise ValueError(f"Unknown AI provider: {ai_provider}")
