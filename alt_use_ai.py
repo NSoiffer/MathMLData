@@ -1,5 +1,6 @@
 from __future__ import annotations
-import concurrent.futures
+from concurrent.futures import ThreadPoolExecutor, TimeoutError as FuturesTimeoutError
+from typing import Any
 import math
 import json
 import re
@@ -25,6 +26,10 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s"
 )
+logging.getLogger("openai").setLevel(logging.WARNING)
+logging.getLogger("httpx").setLevel(logging.WARNING)
+logging.getLogger("httpcore").setLevel(logging.WARNING)
+logging.basicConfig(level=logging.WARNING)
 
 # ============================================================
 # Core Data Structures
@@ -632,40 +637,47 @@ def build_fallback_prompt(
 # ============================================================
 # GPT Call
 # ============================================================
+# One shared pool for all GPT calls
+_GPT_POOL = ThreadPoolExecutor(max_workers=8)
+
+
+def _do_gpt_call(
+    client: Any,
+    messages: list[dict[str, str]],
+    model: str,
+    temperature: float,
+) -> tuple[str, int, int, int]:
+    resp = client.responses.create(
+        model=model,
+        input=messages,
+        temperature=temperature,
+    )
+    text = resp.output_text
+    usage = resp.usage
+    return text, usage.input_tokens, usage.output_tokens, usage.total_tokens
+
+
 def call_gpt_with_retry(
-    client: any,
+    client: Any,
     messages: list[dict[str, str]],
     model: str = "gpt-5.2",
     temperature: float = 0.0,
     max_retries: int = 5,
-    retry_delay: float = 1.0
+    retry_delay: float = 1.0,
+    timeout: float = 30.0,
 ) -> tuple[str, int, int, int]:
-    """
-    Returns:
-        (output_text, input_tokens, output_tokens, total_tokens)
-    """
     for attempt in range(max_retries):
+        future = _GPT_POOL.submit(_do_gpt_call, client, messages, model, temperature)
         try:
-            resp = client.responses.create(
-                model=model,
-                input=messages,
-                temperature=temperature,
-            )
+            return future.result(timeout=timeout)
+        except FuturesTimeoutError:
+            print("GPT call timed out")
+        except Exception as e:
+            print(f"GPT call failed: {e}")
 
-            text: str = resp.output_text
-            usage = resp.usage
-
-            return (
-                text,
-                usage.input_tokens,
-                usage.output_tokens,
-                usage.total_tokens
-            )
-
-        except Exception:
-            if attempt == max_retries - 1:
-                raise
-            time.sleep(retry_delay)
+        if attempt == max_retries - 1:
+            raise
+        time.sleep(retry_delay)
 
 
 # ============================================================
@@ -739,7 +751,7 @@ def translate(
             structural_block,
             generate_braille
         )
-        return call_gpt_with_retry(prompt)
+        return call_gpt_with_retry(client,prompt)
 
     logging.info(
         "Primary fallback triggered (code=%s, direction=%s, sim=%.3f)",
@@ -769,17 +781,7 @@ def translate(
             structural_block,
             generate_braille
         )
-        print("Fallback: calling GPT")
-        print("Fallback messages length:", {len(prompt_fb)}, f'{prompt_fb[:200]}...')
-        fb_output = call_gpt_with_retry(prompt_fb)
-        # with concurrent.futures.ThreadPoolExecutor() as pool:
-        #     future = pool.submit(call_gpt_with_retry, client, prompt_fb)
-        #     try:
-        #         fb_output = future.result(timeout=30)
-        #     except concurrent.futures.TimeoutError:
-        #         print("GPT call timed out in fallback")
-        #         raise
-        print(f"Fallback: GPT returned '{fb_output[0]}'")
+        fb_output = call_gpt_with_retry(client,prompt_fb)
         if fb_output:
             logging.info(
                 "Fallback retrieval succeeded (code=%s, direction=%s)",
@@ -802,7 +804,7 @@ def translate(
         structural_block,
         generate_braille
     )
-    return call_gpt_with_retry(final_prompt)
+    return call_gpt_with_retry(client,final_prompt)
 
 
 # ============================================================
@@ -990,6 +992,8 @@ def write_results_to_file(mode: str,
     """
     Write the results out after comparing the computed and expected MathML outputs.
     If show_normalized = True, computed_output and expected_output should both be MathML (=> input is braille)
+    Write the results out after comparing the computed and expected MathML outputs.
+    If show_normalized = True, computed_output and expected_output should both be MathML (=> input is braille)
     """
     usage_info = str(info)[1:-1].replace("'", "").replace(": ", "=")
     print(f"Generated {len(computed_output)} outputs. Stats: {usage_info}ms")
@@ -1015,13 +1019,22 @@ def write_results_to_file(mode: str,
             f.write("\n# NOT Normalized MathML\n")
         f.write("# Match | Test Input | Expected | Computed\n")
         for tests, computed, expected in zip(inputs, computed_output, expected_output):
-            match = "✓" if computed == expected else "✗"
+            try:
+                if is_mathml_output:
+                    checked = areCanonicallyEqual(expected, computed)
+                else:
+                    checked = CanonicalResults(expected.strip() == computed.strip(), "", "")
+                if checked.isEqual:
+                    match_count += 1
+            except Exception:
+                checked = CanonicalResults(False, "", "")
+            match = "✓" if checked.isEqual else "✗"
             f.write(f"{match} | {tests} | {expected} | {computed}\n")
         if is_mathml_output:
             f.write("\n#===========\n")
             f.write("\n# Normalized MathML\n")
             f.write("Match | Test Input | Expected | Computed\n")
-            for tests, computed, expected in zip(input, computed_output, expected_output):
+            for tests, computed, expected in zip(inputs, computed_output, expected_output):
                 try:
                     checked = areCanonicallyEqual(expected, computed)
                 except Exception as e:
@@ -1031,8 +1044,7 @@ def write_results_to_file(mode: str,
                 match = "✓" if checked.isEqual else "✗"
                 f.write(f"{match} | {tests} | {checked.canonicalOriginal} | {checked.canonicalComputed}\n")
 
-        f.write(f"# Matches: {match_count} out of {len(computed_output)}: "
-                f"{(match_count/len(computed_output)*100):.0f}%.")
+        f.write(f"# Matches: {match_count} out of {len(computed_output)}: {(match_count/len(computed_output)*100):.0f}%.")
         print(f"Matches: {match_count} out of {len(computed_output)}: {(match_count/len(computed_output)*100):.0f}%. "
               f"Results written to {output_file}. ")
 
@@ -1233,6 +1245,7 @@ def run_tests(modes: set[str], n_tests: int | None, test_start: int | None) -> N
                 )
             )
 
+            outputs = [line.replace("\n", "").replace(" ", "") for line in outputs]
             results[config["result_var"]] = outputs
             totals_by_mode[mode] = totals
             write_results_to_file(
