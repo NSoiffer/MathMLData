@@ -144,7 +144,8 @@ def extract_symbols_from_mathml(mathml: str) -> set[str]:
     symbols: set[str] = set()
     for elem in root.iter():
         tag = elem.tag.split("}")[-1]
-        if tag in {"mo", "mi", "mn"} and elem.text:
+        if tag in {"mo", "mi", "mn", "mtext"} and elem.text:
+            # if elem.text and not elem.text.strip().isalnum():
             symbols.update(elem.text)
     return symbols
 
@@ -159,16 +160,26 @@ def extract_structural_context(mathml: str) -> list[str]:
     for elem in root.iter():
         tag = elem.tag.split("}")[-1]
         if tag == "mn" and elem.text:
-            if "," in elem.text:
+            if "," in elem.text or "." in elem.text:
                 notes.append("Comma inside <mn> → numeric comma.")
-            if "-" in elem.text:
-                notes.append("Minus inside <mn> → unary or numeric.")
         if tag == "mo" and elem.text:
-            if elem.text == ",":
+            if elem.text == "," or elem.text == ".":
                 notes.append("Comma as <mo> → argument separator.")
-            if elem.text == "-":
-                notes.append("Minus as <mo> → binary subtraction.")
     return sorted(set(notes))
+
+
+def count_complicated_elements(mathml: str) -> int:
+    root = ET.fromstring(mathml)
+    count = 0
+    for elem in root.iter():
+        tag = elem.tag.split("}")[-1]
+        if tag in {"msub", "msup", "msubsup", "mmultiscripts",
+                   "msqrt", "mroot",
+                   "mfrac", "menclose",
+                   "munder", "mover", "munderover",
+                   "mtr", "mlabeledtr", "mtd", "mtable"}:
+            count += 1
+    return count
 
 
 # ============================================================
@@ -353,26 +364,15 @@ def build_symbol_block(
 def build_context_rules_block(used: set[str], code: BrailleCode) -> str:
     lines = []
     if code is BrailleCode.NEMETH:
-        if any(ch.isdigit() for ch in used) or "," in used or "." in used:
-            lines.append("Nemeth numeric mode rules:")
-            lines.append("- Numeric mode begins with ⠼.")
-            lines.append("- Inside numeric mode, digits use standard Nemeth digits.")
-            if "," in used:
-                lines.append("- ',' inside numeric mode → ⠐⠂.")
-            if "." in used:
-                lines.append("- '.' inside numeric mode → ⠨.")
-            lines.append("- Numeric mode ends when a non-digit appears.\n")
-        if "-" in used:
-            lines.append("Nemeth minus rules:")
-            lines.append("- '-' between numbers → binary subtraction.")
-            lines.append("- '-' before a variable → unary minus.\n")
+        if "," in used:
+            lines.append("- ',' inside a number → ⠐⠂.")
+        if "." in used:
+            lines.append("- '.' inside a number → ⠨.")
     else:
         if any(ch.isdigit() for ch in used):
             lines.append("UEB numeric rules:")
-            lines.append("- Numeric mode begins with ⠼ and continues through digits.\n")
-        if "-" in used:
-            lines.append("UEB minus rules:")
-            lines.append("- '-' is ⠤.\n")
+            lines.append("- Numeric mode begins with ⠼ and continues until letters 'k' - 'z', "
+                         "a space, or the grade 1 indicator ⠰.\n")
     return "\n".join(lines) + ("\n" if lines else "")
 
 
@@ -541,13 +541,13 @@ def estimate_expression_complexity(used: set[str], notes: list[str]) -> str:
     return "simple"
 
 
-def choose_k_values(used: set[str], notes: list[str]) -> tuple[int, int]:
-    c = estimate_expression_complexity(used, notes)
-    if c == "simple":
-        return 6, 15
-    if c == "medium":
-        return 10, 25
-    return 16, 35
+def choose_k_values(used: set[str], query_length: int) -> tuple[int, int]:
+    complexity = len(used) + query_length   # number of distinct symbols along with a lenght component
+    if complexity < 5:
+        return 10, 20
+    if complexity < 10:
+        return 20, 40
+    return 40, 80
 
 
 # ============================================================
@@ -568,34 +568,63 @@ def build_prompt(
     if generate_braille:
         header = (
             "You are an expert MathML to {code.value.upper()} Braille translator.\n"
-            f"Use the examples to infer the correct mapping from MathML to {code.value.upper()} Braille.\n\n"
+            f"Use the pairs of examples to infer the correct mapping from MathML to {code.value.upper()} Braille.\n\n"
         )
-        examples_text = "".join(
-            f"MathML:\n{examples[i].mathml}\n"
-            f"Braille ({code.value}):\n{examples[i].braille}\n\n"
-            for i in example_indices
-        )
+        if len(examples) == 0:
+            examples_text = ""
+        else:
+            examples_text = "".join(
+                f"MathML:\n{examples[i].mathml}\n"
+                f"Braille ({code.value}):\n{examples[i].braille}\n\n"
+                for i in example_indices
+            )
         query_block = (
             f"Now translate the following MathML into {code.value.upper()} Braille.\n"
             f"MathML:\n{query_input}\n\n"
-            "Return ONLY the braille characters."
+            "Return ONLY Unicode braille characters. "
+            "It is important to pay attention to generating Unicode braille spaces when needed in the braille. "
+            "Relational operators such as <, >, ≤, ≥, =, ≠ almost always need to have spaces on the left and right.\n"
         )
+        if code == BrailleCode.NEMETH:
+            query_block += ("Some things to remember about Nemeth Braille: \n"
+                            "- the number sign indicator ⠼ that precedes digits is ONLY needed in these two cases: \n"
+                            "  1. at the start of a line, after a space, or after punctuation. \n"
+                            "  2. if a digit follows a minus sign that is at "
+                            " the start of a line, after a space, or after punctuation.\n"
+                            "- the English letter indicator ⠰ that precedes Roman letters is ONLY needed "
+                            "in these two cases: \n"
+                            "  1. at the start of a line, after punctuation, or after whitespace.\n"
+                            "  2. if a letter follows a minus sign that is at the start of a line, after a space, "
+                            "or after punctuation on the left and right of the letter, ignoring any intervening open "
+                            "or close characters.\n"
+                            "- the English letter indicator ⠰ is never needed between two Roman letters.\n"
+                            "- a letter with an integer subscript should NOT use a subscript indicator "
+                            "if the subscript is not inside of a subscript or superscript.")
+        else:
+            query_block += ("Remember that the grade 1 indicators ⠰, grade 1 word indicators ⠰⠰, "
+                            "and grade 1 passage indicators ⠰⠰⠰ are often needed at the start of a line, ")
     else:
         header = (
             f"You are a expert {code.value.upper()} Braille to MathML translator.\n"
-            f"Use the examples to infer the correct mapping from {code.value.upper()} Braille to MathML.\n"
-            "Make sure every example is valid and well-formed MathML.\n\n"
+            f"Use the pairs of examples to infer the correct mapping from {code.value.upper()} Braille to MathML.\n\n"
         )
-        examples_text = "".join(
-            f"Braille ({code.value}):\n{examples[i].braille}\n"
-            f"MathML:\n{examples[i].mathml}\n\n"
-            for i in example_indices
-        )
+        if len(examples) == 0:
+            examples_text = ""
+        else:
+            examples_text = "".join(
+                f"Braille ({code.value}):\n{examples[i].braille}\n"
+                f"MathML:\n{examples[i].mathml}\n\n"
+                for i in example_indices
+            )
         query_block = (
             f"Now translate the following {code.value.upper()} Braille into MathML.\n"
             f"Braille:\n{query_input}\n\n"
             "Return ONLY valid MathML markup."
         )
+
+    with open("debug.log", "a", encoding="utf-8") as f:
+        f.write(f"examples_text: {examples_text}\n")
+        f.write(f"query_block: {query_block}\n\n\n\n")
 
     return (
         header
@@ -605,33 +634,6 @@ def build_prompt(
         + structural_block
         + query_block
     )
-
-
-def build_fallback_prompt(
-    query_input: str,
-    code: BrailleCode,
-    symbol_block: str,
-    context_rules_block: str,
-    structural_block: str,
-    generate_braille: bool
-) -> str:
-
-    if generate_braille:
-        header = (
-            "You are a MathML→Braille translator.\n"
-            f"Translate the MathML into {code.value.upper()} Braille.\n"
-            "Use standard rules for that code.\n\n"
-        )
-        body = f"MathML:\n{query_input}\n\nReturn ONLY the braille characters."
-    else:
-        header = (
-            "You are a Braille→MathML translator.\n"
-            f"Translate the {code.value.upper()} Braille into MathML.\n"
-            "Use standard rules for that code.\n\n"
-        )
-        body = f"Braille:\n{query_input}\n\nReturn ONLY the MathML markup."
-
-    return header + symbol_block + context_rules_block + structural_block + body
 
 
 # ============================================================
@@ -650,7 +652,7 @@ def _do_gpt_call(
     resp = client.responses.create(
         model=model,
         input=messages,
-        temperature=temperature,
+        reasoning={"effort": "none"},   # none, low, medium, high
     )
     text = resp.output_text
     usage = resp.usage
@@ -664,16 +666,16 @@ def call_gpt_with_retry(
     temperature: float = 0.0,
     max_retries: int = 5,
     retry_delay: float = 1.0,
-    timeout: float = 30.0,
+    timeout: float = 100.0,
 ) -> tuple[str, int, int, int]:
     for attempt in range(max_retries):
         future = _GPT_POOL.submit(_do_gpt_call, client, messages, model, temperature)
         try:
             return future.result(timeout=timeout)
         except FuturesTimeoutError:
-            print("GPT call timed out")
+            print(f"GPT call timed out (attempt {attempt+1}/{max_retries})")
         except Exception as e:
-            print(f"GPT call failed: {e}")
+            print(f"GPT call failed (attempt {attempt+1}/{max_retries}): {e}")
 
         if attempt == max_retries - 1:
             raise
@@ -696,7 +698,10 @@ def translate(
     generate_braille: bool,
     k_primary: int,
     k_fallback: int,
-    similarity_threshold: float
+    similarity_threshold: float,
+    primary_temperature: float = 0.0,
+    fallback_temperature: float = 0.0,
+    final_temperature: float = 0.0,
 ) -> tuple[str, int, int, int]:
     """
     Full translation pipeline:
@@ -708,11 +713,13 @@ def translate(
     """
     if generate_braille:
         used_symbols = extract_symbols_from_mathml(query_input)
+        query_length = 2 * count_complicated_elements(query_input)    # these typically add two braille cells or more
         structural_notes = extract_structural_context(query_input)
         all_embeddings = mathml_embeddings
         overlap_mode: Literal["mathml", "braille", "none"] = "mathml"
     else:
-        used_symbols = extract_symbols_from_braille(query_input)
+        used_symbols = {}     # braille is only 64 symbols, so doesn't really reflect complexity
+        query_length = len(query_input)
         structural_notes = []
         all_embeddings = braille_embeddings
         overlap_mode = "braille"
@@ -721,7 +728,11 @@ def translate(
     context_rules_block = build_context_rules_block(used_symbols, code) if generate_braille else ""
     structural_block = build_structural_context_block(structural_notes) if generate_braille else ""
 
-    k_primary, k_fallback = choose_k_values(used_symbols, structural_notes)
+    k_primary, k_fallback = choose_k_values(used_symbols, query_length)
+    with open("debug.log", "a", encoding="utf-8") as f:
+        f.write(f"In '{query_input}\n== used_symbols: {len(used_symbols)}, query_length: {query_length},"
+                f" examples to use: k_primary/fallback: {k_primary}/{k_fallback}\n"
+                f"char mappings:\n{symbol_block}\n")
     # k_primary = min(k_primary, base_k_primary)
     # k_fallback = min(k_fallback, base_k_fallback)
 
@@ -751,7 +762,7 @@ def translate(
             structural_block,
             generate_braille
         )
-        return call_gpt_with_retry(client,prompt)
+        return call_gpt_with_retry(client, prompt, temperature=primary_temperature)
 
     logging.info(
         "Primary fallback triggered (code=%s, direction=%s, sim=%.3f)",
@@ -781,7 +792,7 @@ def translate(
             structural_block,
             generate_braille
         )
-        fb_output = call_gpt_with_retry(client,prompt_fb)
+        fb_output = call_gpt_with_retry(client, prompt_fb, temperature=fallback_temperature)
         if fb_output:
             logging.info(
                 "Fallback retrieval succeeded (code=%s, direction=%s)",
@@ -796,15 +807,17 @@ def translate(
         "MathML→Braille" if generate_braille else "Braille→MathML"
     )
 
-    final_prompt = build_fallback_prompt(
+    final_prompt = build_prompt(
         query_input,
+        [],
+        [],
         code,
         symbol_block,
         context_rules_block,
         structural_block,
         generate_braille
     )
-    return call_gpt_with_retry(client,final_prompt)
+    return call_gpt_with_retry(client, final_prompt, temperature=final_temperature)
 
 
 # ============================================================
@@ -823,6 +836,9 @@ async def translate_single_async(
     k_primary: int,
     k_fallback: int,
     similarity_threshold: float,
+    primary_temperature: float = 0.0,
+    fallback_temperature: float = 0.1,
+    final_temperature: float = 0.0,
     timeout: float = 30.0,
 ) -> tuple[str, int, int, int]:
 
@@ -845,6 +861,9 @@ async def translate_single_async(
                 k_primary,
                 k_fallback,
                 similarity_threshold,
+                primary_temperature,
+                fallback_temperature,
+                final_temperature,
             ),
         ),
         timeout=timeout,
@@ -921,7 +940,10 @@ async def parallel_batch_translate(
                 generate_braille,
                 k_primary,
                 k_fallback,
-                similarity_threshold
+                similarity_threshold,
+                primary_temperature=0.0,
+                fallback_temperature=0.1,
+                final_temperature=0.0,
             )
 
             # Store result + accumulate totals
@@ -985,6 +1007,7 @@ def write_results_to_file(mode: str,
                           inputs: list[str],
                           computed_output: list[str],
                           expected_output: list[str],
+                          n_examples: int,
                           first_test_index: int,
                           last_test_index: int,
                           info: dict[str, int],  # time is in ms
@@ -1011,7 +1034,7 @@ def write_results_to_file(mode: str,
     with open(output_file, "w", encoding="utf-8") as f:
         # Write variable values from main() at the start
         f.write(f"# {mode}: "
-                f"Using tests {first_test_index}-{last_test_index} of {len(inputs)} tests.\n")
+                f"Using {n_examples} examples and tests {first_test_index}-{last_test_index} of {len(inputs)} tests.\n")
 
         match_count = 0
         f.write(f"# {len(computed_output)} items. Usage info: {usage_info}ms\n#\n")
@@ -1044,7 +1067,8 @@ def write_results_to_file(mode: str,
                 match = "✓" if checked.isEqual else "✗"
                 f.write(f"{match} | {tests} | {checked.canonicalOriginal} | {checked.canonicalComputed}\n")
 
-        f.write(f"# Matches: {match_count} out of {len(computed_output)}: {(match_count/len(computed_output)*100):.0f}%.")
+        f.write(f"# Matches: {match_count} out of {len(computed_output)}: "
+                f"{(match_count/len(computed_output)*100):.0f}%.")
         print(f"Matches: {match_count} out of {len(computed_output)}: {(match_count/len(computed_output)*100):.0f}%. "
               f"Results written to {output_file}. ")
 
@@ -1074,10 +1098,17 @@ def parse_cli_args() -> tuple[set[str], int | None, int | None]:
     )
 
     parser.add_argument(
+        "-e", "--examples",
+        type=int,
+        default=10,
+        help="Number of examples to use"
+    )
+
+    parser.add_argument(
         "-t", "--tests",
         type=int,
         default=None,
-        help="Run only the first NUM tests"
+        help="Number of tests to run"
     )
 
     parser.add_argument(
@@ -1097,10 +1128,10 @@ def parse_cli_args() -> tuple[set[str], int | None, int | None]:
     if invalid:
         raise ValueError(f"Invalid mode(s): {invalid}")
 
-    return modes, args.tests, args.start
+    return modes, args.examples, args.tests, args.start
 
 
-def run_tests(modes: set[str], n_tests: int | None, test_start: int | None) -> None:
+def run_tests(modes: set[str], n_examples: int, n_tests: int | None, test_start: int | None) -> None:
     # ---------------------------------------------------------
     # Load examples and tests
     # ---------------------------------------------------------
@@ -1162,8 +1193,8 @@ def run_tests(modes: set[str], n_tests: int | None, test_start: int | None) -> N
             cache_path="test_data/gpt_mathml_embeddings.json",
             use_mathml=False
         )
-
-    output_path_suffix = f"gpt-5.2-{test_start}-{test_start+n_tests}-tests.txt"
+    one_based_test_start = test_start + 1 if test_start == 0 else test_start
+    output_path_suffix = f"gpt-5.2-{one_based_test_start}-{one_based_test_start+n_tests-1}-tests.txt"
 
     # ---------------------------------------------------------
     # Translation configurations
@@ -1175,7 +1206,7 @@ def run_tests(modes: set[str], n_tests: int | None, test_start: int | None) -> N
             "expected_outputs": test_nemeth,
             "code": BrailleCode.NEMETH,
             "generate_braille": True,
-            "output_path": f"to_nemeth_gpt-{output_path_suffix}",
+            "output_path": f"to_nemeth-{output_path_suffix}",
             "evaluate_label": "MathML → Nemeth",
             "result_var": "to_nemeth_results",
         },
@@ -1185,7 +1216,7 @@ def run_tests(modes: set[str], n_tests: int | None, test_start: int | None) -> N
             "expected_outputs": test_ueb,
             "code": BrailleCode.UEB,
             "generate_braille": True,
-            "output_path": f"to_ueb_gpt-{output_path_suffix}",
+            "output_path": f"to_ueb_{output_path_suffix}",
             "evaluate_label": "MathML → UEB",
             "result_var": "to_ueb_results",
         },
@@ -1195,7 +1226,7 @@ def run_tests(modes: set[str], n_tests: int | None, test_start: int | None) -> N
             "expected_outputs": test_mathml,
             "code": BrailleCode.NEMETH,
             "generate_braille": False,
-            "output_path": f"from_nemeth_gpt-{output_path_suffix}",
+            "output_path": f"from_nemeth_{output_path_suffix}",
             "evaluate_label": "Nemeth → MathML",
             "result_var": "from_nemeth_results",
         },
@@ -1205,7 +1236,7 @@ def run_tests(modes: set[str], n_tests: int | None, test_start: int | None) -> N
             "expected_outputs": test_mathml,
             "code": BrailleCode.UEB,
             "generate_braille": False,
-            "output_path": f"from_ueb_gpt-{output_path_suffix}",
+            "output_path": f"from_ueb_{output_path_suffix}",
             "evaluate_label": "UEB → MathML",
             "result_var": "from_ueb_results",
         },
@@ -1241,7 +1272,7 @@ def run_tests(modes: set[str], n_tests: int | None, test_start: int | None) -> N
                     k_primary=5,
                     k_fallback=10,
                     similarity_threshold=0.75,
-                    num_workers=8
+                    num_workers=5
                 )
             )
 
@@ -1253,6 +1284,7 @@ def run_tests(modes: set[str], n_tests: int | None, test_start: int | None) -> N
                 config["inputs"],
                 outputs,
                 config["expected_outputs"],
+                n_examples,
                 test_start,
                 test_start + n_tests,
                 totals,
@@ -1319,8 +1351,8 @@ def run_tests(modes: set[str], n_tests: int | None, test_start: int | None) -> N
 
 
 def main() -> None:
-    modes, test_limit, test_start = parse_cli_args()
-    run_tests(modes, test_limit, test_start)
+    modes, examples, test_limit, test_start = parse_cli_args()
+    run_tests(modes, examples, test_limit, test_start)
 
 
 if __name__ == "__main__":
