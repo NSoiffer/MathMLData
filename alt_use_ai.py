@@ -15,12 +15,13 @@ from enum import StrEnum
 from typing import Literal
 from compare_mathml_in_csv import setMathCATPreferences, areCanonicallyEqual, CanonicalResults
 from tqdm import tqdm
-from openai import OpenAI
+from ai_config import build_config_from_cli, ModelConfig
+from openai import OpenAI, AzureOpenAI
+import google.genai as genai
 import argparse
+import os
 import sys
-sys.stdout.reconfigure(encoding='utf-8')   # Ensure UTF-8 output for Unicode Braille
-
-client = OpenAI()
+sys.stdout.reconfigure(encoding="utf-8")  # type: ignore[attr-defined]
 
 logging.basicConfig(
     level=logging.INFO,
@@ -121,15 +122,15 @@ def math_examples_from_data(
                          f"ueb has {len(ueb)} items")
 
     examples: list[MathExample] = []
-    for mml, nemeth, ueb in zip(mathml, nemeth, ueb):
+    for mml_str, nemeth_str, ueb_str in zip(mathml, nemeth, ueb):
         examples.append(MathExample(
-            mathml=mml,
-            braille=nemeth,
+            mathml=mml_str,
+            braille=nemeth_str,
             code=BrailleCode.NEMETH
         ))
         examples.append(MathExample(
-            mathml=mml,
-            braille=ueb,
+            mathml=mml_str,
+            braille=ueb_str,
             code=BrailleCode.UEB
         ))
 
@@ -185,13 +186,13 @@ def count_complicated_elements(mathml: str) -> int:
 # ============================================================
 # Symbol Mapping Blocks
 # ============================================================
-def _extract_first_t(obj: any) -> str | None:
+def _extract_first_t(obj: Any) -> str | None:
     if isinstance(obj, dict):
         if "t" in obj:
             return obj["t"]
 
         if "test" in obj:
-            tb: dict[str, any] = obj["test"]
+            tb: dict[str, Any] = obj["test"]
 
             for key in ("then", "then_test"):
                 if key in tb:
@@ -368,11 +369,6 @@ def build_context_rules_block(used: set[str], code: BrailleCode) -> str:
             lines.append("- ',' inside a number → ⠐⠂.")
         if "." in used:
             lines.append("- '.' inside a number → ⠨.")
-    else:
-        if any(ch.isdigit() for ch in used):
-            lines.append("UEB numeric rules:")
-            lines.append("- Numeric mode begins with ⠼ and continues until letters 'k' - 'z', "
-                         "a space, or the grade 1 indicator ⠰.\n")
     return "\n".join(lines) + ("\n" if lines else "")
 
 
@@ -416,8 +412,8 @@ def load_embeddings(path: str) -> tuple[str, list[list[float]]]:
 
 
 def compute_embeddings(
+    ai_config: ModelConfig,
     items: list[str],
-    model: str = "text-embedding-3-large",
     chunk_size: int = 1000
 ) -> list[list[float]]:
     """
@@ -425,14 +421,17 @@ def compute_embeddings(
     Returns embeddings in the same order as `items`.
     """
 
+    if ai_config.provider == "gemini":
+        raise RuntimeError("Gemini does not support embeddings.")
+
     all_embeddings: list[list[float]] = []
 
     for start in range(0, len(items), chunk_size):
         end = start + chunk_size
         chunk = items[start:end]
 
-        resp = client.embeddings.create(
-            model=model,
+        resp = ai_config.client.embeddings.create(
+            model=ai_config.embedding_model,
             input=chunk
         )
 
@@ -443,26 +442,74 @@ def compute_embeddings(
     return all_embeddings
 
 
-def get_or_compute_embeddings(
-    examples: list[MathExample],
+def embedding_cache_filename(
+    ai_config: ModelConfig,
+    cache_dir_path: str,
     cache_path: str,
     use_mathml: bool
+) -> str:
+    """
+    Build a deterministic cache filename inside `cache_dir_path`.
+
+    Components:
+      - provider (openai / azure / gemini)
+      - embedding model (normalized)
+      - direction (mathml / braille)
+      - original cache_path (normalized)
+    """
+    direction = "mathml" if use_mathml else "braille"
+
+    # Normalize the embedding model for filesystem safety
+    model_safe = ai_config.embedding_model.replace("/", "_") or "no-embeddings"
+
+    # Normalize the user-provided cache_path (strip dirs, replace slashes)
+    base = os.path.basename(cache_path).replace("/", "_")
+
+    # Build deterministic filename
+    filename = f"embeddings_{ai_config.provider}_{model_safe}_{direction}_{base}"
+
+    # Ensure directory exists
+    os.makedirs(cache_dir_path, exist_ok=True)
+
+    return os.path.join(cache_dir_path, filename)
+
+
+def get_or_compute_embeddings(
+    ai_config: ModelConfig,
+    examples: list[MathExample],
+    cache_dir_path: str,
+    use_mathml: bool
 ) -> list[list[float]]:
+
+    # Gemini: no embeddings → return empty list
+    if ai_config.provider == "gemini":
+        return []
+
+    # Build deterministic provider/model/direction-aware cache file
+    cache_file = embedding_cache_filename(
+        ai_config=ai_config,
+        cache_dir_path=cache_dir_path,
+        cache_path="embeddings.json",   # original name preserved in filename
+        use_mathml=use_mathml
+    )
+
     current_hash = hash_examples(examples)
 
     try:
-        stored_hash, stored_embeddings = load_embeddings(cache_path)
+        stored_hash, stored_embeddings = load_embeddings(cache_file)
         if stored_hash == current_hash:
-            logging.info(f"Loaded cached embeddings: {cache_path}")
+            logging.info(f"Loaded cached embeddings: {cache_file}")
             return stored_embeddings
         else:
-            logging.info(f"Embedding cache invalid: {cache_path}")
+            logging.info(f"Embedding cache invalid: {cache_file}")
     except FileNotFoundError:
-        logging.info(f"No embedding cache found: {cache_path}")
+        logging.info(f"No embedding cache found: {cache_file}")
 
+    # Compute fresh embeddings
     texts = [ex.mathml if use_mathml else ex.braille for ex in examples]
-    embeddings = compute_embeddings(items=texts)
-    save_embeddings(cache_path, embeddings, current_hash)
+    embeddings = compute_embeddings(ai_config, items=texts)
+
+    save_embeddings(cache_file, embeddings, current_hash)
     return embeddings
 
 
@@ -583,7 +630,9 @@ def build_prompt(
             f"MathML:\n{query_input}\n\n"
             "Return ONLY Unicode braille characters. "
             "It is important to pay attention to generating Unicode braille spaces when needed in the braille. "
-            "Relational operators such as <, >, ≤, ≥, =, ≠ almost always need to have spaces on the left and right.\n"
+            "Relational operators such as <, >, ≤, ≥, =, ≠ almost always need to have spaces on the left and right "
+            "unless they are in a script position.\n"
+
         )
         if code == BrailleCode.NEMETH:
             query_block += ("Some things to remember about Nemeth Braille: \n"
@@ -600,14 +649,35 @@ def build_prompt(
                             "- the English letter indicator ⠰ is never needed between two Roman letters.\n"
                             "- a letter with an integer subscript should NOT use a subscript indicator "
                             "if the subscript is not inside of a subscript or superscript.")
-        else:
-            query_block += ("Remember that the grade 1 indicators ⠰, grade 1 word indicators ⠰⠰, "
-                            "and grade 1 passage indicators ⠰⠰⠰ are often needed at the start of a line, ")
+        else:  # UEB
+            query_block += ("Some things to remember about UEB Braille: \n"
+                            " - grade 1 indicators ⠰, grade 1 word indicators ⠰⠰, and grade 1 passage indicators ⠰⠰⠰ "
+                            "are often needed at the start of a line. \n"
+                            " - in general, you want to minimize the use of grade 1 indicators, "
+                            "(each ⠰ counts as an instance of a grade 1 indicator). "
+                            "Choose word or passage indicators when they result in few grade 1 indicators. "
+                            "If there are more than two braille spaces (⠀), use the grade 1 passage indicators.\n"
+                            "- A letter or unbroken sequence of letters is 'standing alone' if the "
+                            "symbols before and after the letter or sequence are spaces, hyphens, dashes "
+                            "or any combination thereof, including some common punctuation. "
+                            "An opening bracking character before a sequence or closing bracking character after a sequence "
+                            "should be included in the above definition of 'standing alone'. "
+                            "A single letter (excluding a, i and o) is considered 'standing alone' if it is preceded by a space.\n"
+                            "- A grade 1 indicator ⠰ is needed before a standing alone letter or sequence of letters.\n"
+                            "- the number sign indicator ⠼ is ONLY needed before digits and starts numeric mode.\n"
+                            "- All fraction, root, subscript, superscript, etc., indicators MUST use grade 1 mode.\n"
+                            "- Numeric mode includes the digits and the fraction line (⠌) for simple numeric fractions. "
+                            "It also includes ',', '.', and spaces when they appear inside of MathML mn elements.\n"
+                            "- if the letters a-j follow a digit, a grade 1 indicator ⠰ is needed before the letter.\n"
+                            "- numeric fraction do not use start or end fraction indicators, but all other fractions "
+                            "start with ⠷, end with ⠾, and use ⠨⠌ as the fraction bar.\n"
+                            "- all subscripts MUST start with the subscript indicator ⠢.\n"
+                            )
     else:
         header = (
             f"You are a expert {code.value.upper()} Braille to MathML translator.\n"
             f"Use the pairs of examples to infer the correct mapping from {code.value.upper()} Braille to MathML.\n\n"
-        )
+        )   
         if len(examples) == 0:
             examples_text = ""
         else:
@@ -644,32 +714,60 @@ _GPT_POOL = ThreadPoolExecutor(max_workers=8)
 
 
 def _do_gpt_call(
-    client: Any,
-    messages: list[dict[str, str]],
-    model: str,
+    ai_config: ModelConfig,
+    prompt: str,
     temperature: float,
 ) -> tuple[str, int, int, int]:
-    resp = client.responses.create(
-        model=model,
-        input=messages,
-        reasoning={"effort": "none"},   # none, low, medium, high
-    )
-    text = resp.output_text
-    usage = resp.usage
-    return text, usage.input_tokens, usage.output_tokens, usage.total_tokens
+    """
+    Execute a single GPT call for OpenAI, Azure OpenAI, or Gemini.
+
+    Returns:
+        (text, input_tokens, output_tokens, total_tokens)
+    """
+
+    # ------------------------------------------------------------
+    # OpenAI + Azure OpenAI (same API shape)
+    # ------------------------------------------------------------
+    if isinstance(ai_config.client, OpenAI) or isinstance(ai_config.client, AzureOpenAI):
+        resp = ai_config.client.responses.create(
+            model=ai_config.model,
+            input=prompt,
+            temperature=temperature,
+            service_tier=ai_config.service_tier,
+        )
+        text = resp.output_text or ""   # narrow str | None → str
+        usage = resp.usage
+        return (
+            text,
+            usage.input_tokens,
+            usage.output_tokens,
+            usage.total_tokens,
+        )
+
+    # Gemini (google.genai)
+    if isinstance(ai_config.client, genai.Client):
+        resp = ai_config.client.models.generate_content(
+            model=ai_config.model,
+            contents=prompt,
+            config={"temperature": temperature},
+        )
+        text = resp.text or ""   # narrow str | None → str
+        return text, 0, 0, 0
+
+    # Unknown provider
+    raise ValueError(f"Unsupported client type: {type(ai_config.client)}")
 
 
 def call_gpt_with_retry(
-    client: Any,
-    messages: list[dict[str, str]],
-    model: str = "gpt-5.2",
+    ai_config: ModelConfig,
+    messages: str,
     temperature: float = 0.0,
     max_retries: int = 5,
-    retry_delay: float = 1.0,
-    timeout: float = 100.0,
+    retry_delay: float = 10.0,
 ) -> tuple[str, int, int, int]:
+    timeout = 200.0 if ai_config.service_tier == "auto" else 500.0
     for attempt in range(max_retries):
-        future = _GPT_POOL.submit(_do_gpt_call, client, messages, model, temperature)
+        future = _GPT_POOL.submit(_do_gpt_call, ai_config, messages, temperature)
         try:
             return future.result(timeout=timeout)
         except FuturesTimeoutError:
@@ -678,8 +776,11 @@ def call_gpt_with_retry(
             print(f"GPT call failed (attempt {attempt+1}/{max_retries}): {e}")
 
         if attempt == max_retries - 1:
-            raise
+            raise RuntimeError("All retry attempts failed")
         time.sleep(retry_delay)
+
+    # This should never be reached, but satisfies type checker
+    raise RuntimeError("Unexpected exit from retry loop")
 
 
 # ============================================================
@@ -687,7 +788,7 @@ def call_gpt_with_retry(
 # ============================================================
 
 def translate(
-    client: any,
+    ai_config: ModelConfig,
     query_input: str,
     query_embedding: list[float],
     examples: list[MathExample],
@@ -718,7 +819,7 @@ def translate(
         all_embeddings = mathml_embeddings
         overlap_mode: Literal["mathml", "braille", "none"] = "mathml"
     else:
-        used_symbols = {}     # braille is only 64 symbols, so doesn't really reflect complexity
+        used_symbols: set[str] = set()     # braille is only 64 symbols, so doesn't really reflect complexity
         query_length = len(query_input)
         structural_notes = []
         all_embeddings = braille_embeddings
@@ -762,7 +863,7 @@ def translate(
             structural_block,
             generate_braille
         )
-        return call_gpt_with_retry(client, prompt, temperature=primary_temperature)
+        return call_gpt_with_retry(ai_config, prompt, temperature=primary_temperature)
 
     logging.info(
         "Primary fallback triggered (code=%s, direction=%s, sim=%.3f)",
@@ -792,7 +893,7 @@ def translate(
             structural_block,
             generate_braille
         )
-        fb_output = call_gpt_with_retry(client, prompt_fb, temperature=fallback_temperature)
+        fb_output = call_gpt_with_retry(ai_config, prompt_fb, temperature=fallback_temperature)
         if fb_output:
             logging.info(
                 "Fallback retrieval succeeded (code=%s, direction=%s)",
@@ -817,14 +918,14 @@ def translate(
         structural_block,
         generate_braille
     )
-    return call_gpt_with_retry(client, final_prompt, temperature=final_temperature)
+    return call_gpt_with_retry(ai_config, final_prompt, temperature=final_temperature)
 
 
 # ============================================================
 # Async wrappers + unified parallel batch
 # ============================================================
 async def translate_single_async(
-    client: any,
+    ai_config: ModelConfig,
     query_input: str,
     query_embedding: list[float],
     examples: list[MathExample],
@@ -849,7 +950,7 @@ async def translate_single_async(
         loop.run_in_executor(
             None,
             lambda: translate(
-                client,
+                ai_config,
                 query_input,
                 query_embedding,
                 examples,
@@ -871,7 +972,7 @@ async def translate_single_async(
 
 
 async def parallel_batch_translate(
-    client: any,
+    ai_config: ModelConfig,
     query_inputs: list[str],
     query_embeddings: list[list[float]],
     examples: list[MathExample],
@@ -908,8 +1009,13 @@ async def parallel_batch_translate(
     # -----------------------------
     # Populate queue
     # -----------------------------
-    for i, (q, emb) in enumerate(zip(query_inputs, query_embeddings)):
-        queue.put_nowait((i, q, emb))
+    if not query_embeddings:
+        # Gemini or embedding-free mode
+        for i, q in enumerate(query_inputs):
+            queue.put_nowait((i, q, []))
+    else:
+        for i, (q, emb) in enumerate(zip(query_inputs, query_embeddings)):
+            queue.put_nowait((i, q, emb))
 
     # Add sentinel None for each worker
     for _ in range(num_workers):
@@ -929,7 +1035,7 @@ async def parallel_batch_translate(
 
             # Run translation in thread pool
             text, in_tok, out_tok, tot_tok = await translate_single_async(
-                client,
+                ai_config,
                 q_input,
                 q_emb,
                 examples,
@@ -1021,6 +1127,9 @@ def write_results_to_file(mode: str,
     usage_info = str(info)[1:-1].replace("'", "").replace(": ", "=")
     print(f"Generated {len(computed_output)} outputs. Stats: {usage_info}ms")
     is_mathml_output = expected_output[0].startswith('<math')
+    if len(computed_output) == 0:
+        print("!!!No computed outputs to write.")
+        return
     if is_mathml_output and not computed_output[0].startswith('<math'):
         print("Computed output does not appear to be MathML--first 5 lines:\n", computed_output[:5])
         return
@@ -1086,7 +1195,9 @@ VALID_MODES = {
 }
 
 
-def parse_cli_args() -> tuple[set[str], int | None, int | None]:
+def parse_cli_args() -> tuple[
+    set[str], int | None, int | None, str, Literal["auto", "default", "flex", "scale", "priority"]
+]:
     parser = argparse.ArgumentParser(
         description="MathML ↔ Braille translation test runner"
     )
@@ -1095,13 +1206,6 @@ def parse_cli_args() -> tuple[set[str], int | None, int | None]:
         "modes",
         nargs="+",
         help="One or more of: to-nemeth, to-ueb, from-nemeth, from-ueb, all",
-    )
-
-    parser.add_argument(
-        "-e", "--examples",
-        type=int,
-        default=10,
-        help="Number of examples to use"
     )
 
     parser.add_argument(
@@ -1118,7 +1222,23 @@ def parse_cli_args() -> tuple[set[str], int | None, int | None]:
         help="Skip the first NUM tests before running"
     )
 
+    parser.add_argument(
+        "-ai", "--ai_provider",
+        type=str,
+        choices=["openai", "azure", "gemini"],
+        default="openai",
+        help="Which LLM provider to use",
+    )
+
+    parser.add_argument(
+        "--service-tier",
+        choices=["auto", "flex"],
+        default="auto",
+        help="OpenAI service tier (auto or flex). Default: auto."
+    )
+
     args = parser.parse_args()
+
     modes = {m.lower() for m in args.modes}
 
     if "all" in modes:
@@ -1128,10 +1248,25 @@ def parse_cli_args() -> tuple[set[str], int | None, int | None]:
     if invalid:
         raise ValueError(f"Invalid mode(s): {invalid}")
 
-    return modes, args.examples, args.tests, args.start
+    service_tier: Literal[
+        "auto", "default", "flex", "scale", "priority"
+    ] = args.service_tier.lower()  # type: ignore[assignment]
+
+    return (
+        modes,
+        args.tests,
+        args.start,
+        args.ai_provider,
+        service_tier,
+    )
 
 
-def run_tests(modes: set[str], n_examples: int, n_tests: int | None, test_start: int | None) -> None:
+def run_tests(
+    modes: set[str],
+    n_tests: int | None,
+    test_start: int | None,
+    ai_config: ModelConfig,
+) -> None:
     # ---------------------------------------------------------
     # Load examples and tests
     # ---------------------------------------------------------
@@ -1169,28 +1304,33 @@ def run_tests(modes: set[str], n_examples: int, n_tests: int | None, test_start:
     symbol_mappings = load_symbol_mappings("Nemeth_charmap.yaml", "UEB_charmap.yaml")
 
     mathml_embeddings = get_or_compute_embeddings(
+        ai_config,
         examples,
-        cache_path="example_data/gpt_mathml_embeddings.json",
+        cache_dir_path="example_data",
         use_mathml=True
     )
     braille_embeddings = get_or_compute_embeddings(
+        ai_config,
         examples,
-        cache_path="example_data/gpt_braille_embeddings.json",
+        cache_dir_path="example_data",
         use_mathml=False
     )
 
     test_examples = math_examples_from_data(test_mathml, test_nemeth, test_ueb)
+    n_examples = len(test_examples)
 
     if 'to-nemeth' in modes or 'to-ueb' in modes:
         test_mathml_embeddings = get_or_compute_embeddings(
+            ai_config,
             test_examples,
-            cache_path="test_data/gpt_braille_embeddings.json",
+            cache_dir_path="test_data",
             use_mathml=True
         )
     if 'from-nemeth' in modes or 'from-ueb' in modes:
         test_braille_embeddings = get_or_compute_embeddings(
+            ai_config,
             test_examples,
-            cache_path="test_data/gpt_mathml_embeddings.json",
+            cache_dir_path="test_data",
             use_mathml=False
         )
     one_based_test_start = test_start + 1 if test_start == 0 else test_start
@@ -1257,7 +1397,7 @@ def run_tests(modes: set[str], n_examples: int, n_tests: int | None, test_start:
         if mode in modes:
             outputs, totals = asyncio.run(
                 parallel_batch_translate(
-                    client=client,
+                    ai_config=ai_config,
                     query_inputs=config["inputs"],
                     query_embeddings=(
                         test_mathml_embeddings if mode in ['to-nemeth', 'to-ueb']
@@ -1327,7 +1467,7 @@ def run_tests(modes: set[str], n_examples: int, n_tests: int | None, test_start:
         if forward_results is not None and forward_mode in modes:
             rt_reverse, rt_totals = asyncio.run(
                 parallel_batch_translate(
-                    client=client,
+                    ai_config=ai_config,
                     query_inputs=forward_results,
                     query_embeddings=(
                         test_mathml_embeddings if forward_mode in ['to-nemeth', 'to-ueb']
@@ -1350,9 +1490,23 @@ def run_tests(modes: set[str], n_examples: int, n_tests: int | None, test_start:
             print(f"Round-trip consistency ({rt_config['label']}): {rt_score:.2%}")
 
 
-def main() -> None:
-    modes, examples, test_limit, test_start = parse_cli_args()
-    run_tests(modes, examples, test_limit, test_start)
+def main():
+    (
+        modes,
+        num_tests,
+        start_index,
+        provider,
+        service_tier,
+    ) = parse_cli_args()
+
+    ai_config = build_config_from_cli(provider, service_tier)
+
+    run_tests(
+        modes,
+        num_tests,
+        start_index,
+        ai_config,
+    )
 
 
 if __name__ == "__main__":
