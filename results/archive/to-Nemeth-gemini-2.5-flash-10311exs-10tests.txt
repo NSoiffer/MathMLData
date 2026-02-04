@@ -14,5 +14,5 @@
 # 1 items. Usage info: prompt=286935, candidates=243, total=288558, time=399ms, TPS=1641.9753086419753.2f
 #
 # Match | Test Input | Expected | Computed
-✗ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mi>a</mi><msup><mi>b</mi><mi>t</mi></msup></mrow></math> | ⠋⠷⠞⠾⠀⠨⠅⠀⠁⠃⠘⠞ | ⠋⠷⠞⠾⠀⠨⠅⠀⠁⠃⠘⠞|⠛⠷⠞⠾⠀⠨⠅⠀⠁⠃⠘⠞⠬⠉|⠼⠂⠴|⠼⠆⠬⠒⠀⠨⠅⠀⠼⠢⠸⠒|⠼⠆|⠼⠆⠈⠡⠒⠀⠨⠅⠀⠼⠖⠸⠲|⠋⠸⠒⠠⠃⠀⠫⠕⠀⠠⠉⠠|⠷⠋⠨⠡⠛⠾⠷⠭⠾⠀⠨⠅⠀⠋⠷⠛⠷⠭⠾⠾⠸⠲|⠛
+✗ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mi>a</mi><msup><mi>b</mi><mi>t</mi></msup></mrow></math> | ⠋⠷⠞⠾⠀⠨⠅⠀⠁⠃⠘⠞ | ⠋⠷⠞⠾⠀⠨⠅⠀⠁⠃⠘⠞|⠛⠷⠞⠾⠀⠨⠅⠀⠁⠃⠘⠞⠬⠉|⠼⠂⠴|⠼⠆⠬⠒⠀⠨⠅⠀⠼⠢⠸⠒|⠼⠆|⠼⠆⠈⠡⠒⠀⠨⠅⠀⠼⠖⠸⠲|⠋⠸⠒⠠⠃⠀⠫⠕⠀⠠⠉⠠ | ⠷⠋⠨⠡⠛⠾⠷⠭⠾⠀⠨⠅⠀⠋⠷⠛⠷⠭⠾⠾⠸⠲ | ⠛
 # Matches: 0 out of 1: 0%.

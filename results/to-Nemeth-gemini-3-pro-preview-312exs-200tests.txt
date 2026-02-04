@@ -448,7 +448,7 @@
 ✓ | <math><mn>64.19</mn></math> | ⠼⠖⠲⠨⠂⠔ | ⠼⠖⠲⠨⠂⠔
 ✗ | <math><mrow><mfrac><mn>18</mn><mn>11</mn></mfrac><mtext>.</mtext></mrow></math> | ⠹⠂⠦⠌⠂⠂⠼⠸⠲ | ⠹⠼⠂⠦⠌⠼⠂⠂⠼⠸⠲
 ✗ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mn>2</mn><mo stretchy="false">(</mo><mn>1.25</mn><msup><mo stretchy="false">)</mo><mi>t</mi></msup></mrow></math> | ⠋⠷⠞⠾⠀⠨⠅⠀⠼⠆⠷⠂⠨⠆⠢⠾⠘⠞ | ⠋⠷⠞⠾⠀⠨⠅⠀⠼⠆⠷⠼⠂⠨⠆⠢⠾⠘⠞
-✗ | <math><mrow><mi>h</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo></mrow></math> | ⠓⠷⠭⠾⠀⠨⠅ | ⠓⠷⠭⠾⠀⠨⠅⠀
+✓ | <math><mrow><mi>h</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo></mrow></math> | ⠓⠷⠭⠾⠀⠨⠅ | ⠓⠷⠭⠾⠀⠨⠅⠀
 ✗ | <math><mrow><mo stretchy="false">[</mo><mn>3</mn><mo>,</mo><mn>5</mn><mo stretchy="false">]</mo><mtext>,</mtext></mrow></math> | ⠈⠷⠒⠠⠀⠢⠈⠾⠠ | ⠈⠷⠼⠒⠠⠼⠢⠈⠾⠠
 ✗ | <math><mrow><mi>ln</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><msup><mi>a</mi><mi>n</mi></msup><mo stretchy="false">)</mo><mo>=</mo><mi>n</mi><mi>ln</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>a</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | ⠇⠝⠀⠷⠁⠘⠝⠐⠾⠀⠨⠅⠀⠝⠇⠝⠀⠷⠁⠾⠸⠲ | ⠇⠝⠀⠷⠁⠘⠝⠾⠀⠨⠅⠀⠝⠀⠇⠝⠀⠷⠁⠾⠸⠲
 ✗ | <math><mrow><mi>x</mi><mo>=</mo><msup><mi>e</mi><mn>100</mn></msup><mtext>,</mtext></mrow></math> | ⠭⠀⠨⠅⠀⠑⠘⠂⠴⠴⠠ | ⠭⠀⠨⠅⠀⠑⠘⠼⠂⠴⠴⠠
@@ -463,7 +463,7 @@
 ✗ | <math><mrow><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><msup><mi>c</mi><mn>2</mn></msup><mo>−</mo><msup><mi>a</mi><mn>2</mn></msup><mo>.</mo></mrow></math> | ⠃⠘⠆⠀⠨⠅⠀⠉⠘⠆⠐⠤⠁⠘⠆⠸⠲ | ⠃⠘⠆⠀⠨⠅⠀⠉⠘⠆⠤⠁⠘⠆⠸⠲
 ✗ | <math><mtable columnalign="right"><mtr columnalign="right"><mtd columnalign="right"><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mi>y</mi><mo>=</mo><mn>1</mn></mrow></mtd></mtr><mtr columnalign="right"><mtd columnalign="right"><mrow><mo>−</mo><mn>10</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mo>−</mo><mn>2</mn></mrow></mtd></mtr></mtable></math> | ⠼⠢⠭⠤⠽⠀⠨⠅⠀⠼⠂⠀⣍⠤⠂⠴⠭⠬⠆⠽⠀⠨⠅⠀⠤⠼⠆ | ⠠⠳⠼⠢⠭⠤⠽⠀⠨⠅⠀⠼⠂⠀⣍⠤⠼⠂⠴⠭⠬⠼⠆⠽⠀⠨⠅⠀⠤⠼⠆⠠⠳
 ✓ | <math><mn>17</mn></math> | ⠼⠂⠶ | ⠼⠂⠶
-✗ | <math><mrow><mi>Y</mi><mo>=</mo></mrow></math> | ⠠⠽⠀⠨⠅ | ⠠⠽⠀⠨⠅⠀
+✓ | <math><mrow><mi>Y</mi><mo>=</mo></mrow></math> | ⠠⠽⠀⠨⠅ | ⠠⠽⠀⠨⠅⠀
 ✗ | <math><mrow><msub><mi>v</mi><mn>0</mn></msub><mo>.</mo></mrow></math> | ⠧⠴⠸⠲ | ⠧⠰⠴⠸⠲
 ✗ | <math><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>g</mi><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mrow><mo>(</mo><mrow><msub><mi>v</mi><mn>0</mn></msub><mi>sin</mi><mspace width="0.3em"></mspace><mi>θ</mi></mrow><mo>)</mo></mrow><mi>t</mi><mo>+</mo><mi>h</mi><mo>.</mo></mrow></math> | ⠽⠀⠨⠅⠀⠤⠹⠂⠌⠆⠼⠛⠞⠘⠆⠐⠬⠷⠧⠴⠎⠊⠝⠀⠨⠹⠾⠞⠬⠓⠸⠲ | ⠽⠀⠨⠅⠀⠤⠹⠼⠂⠌⠼⠆⠼⠛⠞⠘⠆⠬⠷⠧⠰⠴⠐⠎⠊⠝⠀⠨⠹⠾⠞⠬⠓⠸⠲
 ✓ | <math><mrow><mi>a</mi><mo>=</mo><mn>2</mn><mo>,</mo><mi>b</mi><mo>=</mo><mn>5</mn></mrow></math> | ⠁⠀⠨⠅⠀⠼⠆⠠⠀⠃⠀⠨⠅⠀⠼⠢ | ⠁⠀⠨⠅⠀⠼⠆⠠⠀⠃⠀⠨⠅⠀⠼⠢
@@ -534,4 +534,4 @@
 ✗ | <math><mrow><mo stretchy="false">(</mo><mn>−2</mn><mo>,</mo><mn>−6</mn><mo stretchy="false">)</mo><mo>,</mo><mo stretchy="false">(</mo><mn>1</mn><mo>,</mo><mtext>−12</mtext><mo stretchy="false">)</mo><mo>,</mo><mo stretchy="false">(</mo><mn>5</mn><mo>,</mo><mn>−20</mn><mo stretchy="false">)</mo><mo>,</mo><mo stretchy="false">(</mo><mn>6</mn><mo>,</mo><mtext>−22</mtext><mo stretchy="false">)</mo><mo>,</mo><mo stretchy="false">(</mo><mn>9</mn><mo>,</mo><mtext>−28</mtext><mo stretchy="false">)</mo><mo>;</mo></mrow></math> | ⠷⠤⠆⠠⠀⠤⠖⠾⠠⠀⠷⠂⠠⠀⠤⠼⠂⠆⠾⠠⠀⠷⠢⠠⠀⠤⠆⠴⠾⠠⠀⠷⠖⠠⠀⠤⠼⠆⠆⠾⠠⠀⠷⠔⠠⠀⠤⠼⠆⠦⠾⠸⠆ | ⠷⠤⠆⠠⠀⠤⠖⠾⠠⠀⠷⠂⠠⠀⠤⠂⠆⠾⠠⠀⠷⠢⠠⠀⠤⠆⠴⠾⠠⠀⠷⠖⠠⠀⠤⠆⠆⠾⠠⠀⠷⠔⠠⠀⠤⠆⠦⠾⠸⠆
 ✗ | <math><mtable columnalign="left"><mtr columnalign="left"><mtd columnalign="left"><mrow><msub><mi>S</mi><mi>n</mi></msub><mo>=</mo><mfrac><mrow><msub><mi>a</mi><mn>1</mn></msub><mrow><mo>(</mo><mrow><mn>1</mn><mo>−</mo><msup><mi>r</mi><mi>n</mi></msup></mrow><mo>)</mo></mrow></mrow><mrow><mn>1</mn><mo>−</mo><mi>r</mi></mrow></mfrac></mrow></mtd></mtr><mtr columnalign="left"><mtd columnalign="left"><mrow><msub><mi>S</mi><mn>11</mn></msub><mo>=</mo><mfrac><mrow><mn>8</mn><mrow><mo>(</mo><mrow><mn>1</mn><mo>−</mo><msup><mrow><mo>(</mo><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow><mn>11</mn></msup></mrow><mo>)</mo></mrow></mrow><mrow><mn>1</mn><mo>−</mo><mrow><mo>(</mo><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow></mrow></mfrac><mo>≈</mo><mn>5.336</mn></mrow></mtd></mtr></mtable></math> | ⠠⠎⠰⠝⠀⠨⠅⠀⠹⠁⠂⠷⠂⠤⠗⠘⠝⠐⠾⠌⠂⠤⠗⠼⠀⣍⠠⠎⠂⠂⠀⠨⠅⠀⠠⠹⠦⠷⠂⠤⠷⠤⠹⠂⠌⠆⠼⠾⠘⠂⠂⠐⠾⠠⠌⠂⠤⠷⠤⠹⠂⠌⠆⠼⠾⠠⠼⠀⠈⠱⠈⠱⠀⠼⠢⠨⠒⠒⠖ | ⠠⠎⠰⠝⠀⠨⠅⠀⠹⠁⠰⠂⠷⠂⠤⠗⠘⠝⠾⠌⠂⠤⠗⠼⠀⠠⠎⠰⠂⠂⠀⠨⠅⠀⠹⠼⠦⠷⠂⠤⠷⠤⠹⠂⠌⠆⠼⠾⠘⠂⠂⠾⠌⠂⠤⠷⠤⠹⠂⠌⠆⠼⠾⠼⠀⠘⠨⠅⠀⠼⠢⠨⠒⠒⠖
 ✗ | <math><mrow><mi>z</mi><mo>=</mo><mn>0</mn><mo>+</mo><mn>4</mn><mi>i</mi></mrow></math> | ⠵⠀⠨⠅⠀⠼⠴⠬⠲⠊ | ⠵⠀⠨⠅⠀⠼⠴⠬⠼⠲⠊
-# Matches: 64 out of 200: 32%.
+# Matches: 66 out of 200: 33%.

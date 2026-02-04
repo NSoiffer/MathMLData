@@ -215,9 +215,9 @@
 #
 # Match | Test Input | Expected | Computed
 ✓ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></math> | ⠋⠐⠣⠭⠐⠜ | ⠋⠐⠣⠭⠐⠜
-✗ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mn>60</mn><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math> | ⠋⠐⠣⠼⠋⠚⠐⠜⠂⠀ | ⠋⠐⠣⠼⠋⠚⠐⠜⠂
+✓ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mn>60</mn><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math> | ⠋⠐⠣⠼⠋⠚⠐⠜⠂⠀ | ⠋⠐⠣⠼⠋⠚⠐⠜⠂
 ✓ | <math><mrow><mi>A</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">|</mo><mi>x</mi><mo stretchy="false">|</mo><mtext>.</mtext></mrow></math> | ⠠⠁⠐⠣⠭⠐⠜⠀⠐⠶⠀⠸⠳⠭⠸⠳⠲ | ⠠⠁⠐⠣⠭⠐⠜⠀⠐⠶⠀⠸⠳⠭⠸⠳⠲
-✗ | <math><mrow><mi>p</mi><mo stretchy="false">(</mo><mn>2</mn><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math> | ⠏⠐⠣⠼⠃⠐⠜⠂⠀ | ⠏⠐⠣⠼⠃⠐⠜⠂
+✓ | <math><mrow><mi>p</mi><mo stretchy="false">(</mo><mn>2</mn><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math> | ⠏⠐⠣⠼⠃⠐⠜⠂⠀ | ⠏⠐⠣⠼⠃⠐⠜⠂
 ✗ | <math><mrow><mi>y</mi><mo>=</mo><mi>p</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | ⠰⠽⠀⠐⠶⠀⠏⠐⠣⠭⠐⠜⠲ | ⠽⠀⠐⠶⠀⠏⠐⠣⠭⠐⠜⠲
 ✗ | <math><mrow><mi>x</mi><mtext>.</mtext></mrow></math> | ⠰⠭⠲ | ⠭⠲
 ✓ | <math><mn>2.5</mn></math> | ⠼⠃⠲⠑ | ⠼⠃⠲⠑
@@ -240,7 +240,7 @@
 ✓ | <math><mn>3.0</mn></math> | ⠼⠉⠲⠚ | ⠼⠉⠲⠚
 ✓ | <math><mn>7.0</mn></math> | ⠼⠛⠲⠚ | ⠼⠛⠲⠚
 ✗ | <math><mrow><mi>cos</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>β</mi><mo stretchy="false">)</mo><mtext>?</mtext></mrow></math> | ⠰⠰⠉⠕⠎⠐⠣⠨⠃⠐⠜⠦ | ⠉⠕⠎⠐⠣⠨⠃⠐⠜⠦
-✗ | <math><mrow><mi>g</mi><mo stretchy="false">(</mo><mn>2</mn><mo stretchy="false">)</mo><mo>=</mo><mn>4</mn><mtext>,</mtext></mrow></math> | ⠛⠐⠣⠼⠃⠐⠜⠀⠐⠶⠀⠼⠙⠂⠀ | ⠛⠐⠣⠼⠃⠐⠜⠀⠐⠶⠀⠼⠙⠂
+✓ | <math><mrow><mi>g</mi><mo stretchy="false">(</mo><mn>2</mn><mo stretchy="false">)</mo><mo>=</mo><mn>4</mn><mtext>,</mtext></mrow></math> | ⠛⠐⠣⠼⠃⠐⠜⠀⠐⠶⠀⠼⠙⠂⠀ | ⠛⠐⠣⠼⠃⠐⠜⠀⠐⠶⠀⠼⠙⠂
 ✓ | <math><mrow><mi>t</mi><mo>−</mo><mn>1</mn><mo>=</mo><msqrt><mo>−</mo><mn>5</mn><mo stretchy="false">(</mo><mi>y</mi><mo>−</mo><mn>3</mn><mo stretchy="false">)</mo></msqrt><mtext> </mtext><mtext> or </mtext><mtext> </mtext><mi>t</mi><mo>−</mo><mn>1</mn><mo>=</mo><mo>−</mo><msqrt><mo>−</mo><mn>5</mn><mo stretchy="false">(</mo><mi>y</mi><mo>−</mo><mn>3</mn><mo stretchy="false">)</mo></msqrt><mtext>.</mtext></mrow></math> | ⠰⠰⠰⠞⠐⠤⠼⠁⠀⠐⠶⠀⠩⠐⠤⠼⠑⠐⠣⠽⠐⠤⠼⠉⠐⠜⠬⠀⠕⠗⠀⠞⠐⠤⠼⠁⠀⠐⠶⠀⠐⠤⠩⠐⠤⠼⠑⠐⠣⠽⠐⠤⠼⠉⠐⠜⠬⠲⠰⠄ | ⠰⠰⠰⠞⠐⠤⠼⠁⠀⠐⠶⠀⠩⠐⠤⠼⠑⠐⠣⠽⠐⠤⠼⠉⠐⠜⠬⠀⠕⠗⠀⠞⠐⠤⠼⠁⠀⠐⠶⠀⠐⠤⠩⠐⠤⠼⠑⠐⠣⠽⠐⠤⠼⠉⠐⠜⠬⠲⠰⠄
 ✗ | <math><mrow><msup><mi>g</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mo stretchy="false">(</mo><mi>C</mi><mo stretchy="false">)</mo><mo>=</mo></mrow></math> | ⠰⠰⠛⠔⠣⠐⠤⠼⠁⠜⠐⠣⠠⠉⠐⠜⠀⠐⠶ | ⠛⠔⠣⠐⠤⠼⠁⠜⠐⠣⠠⠉⠐⠜⠀⠐⠶
 ✗ | <math><mrow><mi>r</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>h</mi><mtext>,</mtext></mrow></math> | ⠰⠗⠀⠐⠶⠀⠼⠁⠌⠃⠰⠓⠂⠀ | ⠗⠀⠐⠶⠀⠼⠁⠌⠃⠀⠓⠂
@@ -254,7 +254,7 @@
 ✗ | <math><mrow><mi>V</mi><mo>=</mo><mfrac><mi>π</mi><mn>12</mn></mfrac><msup><mi>h</mi><mn>3</mn></msup><mtext>,</mtext></mrow></math> | ⠰⠰⠰⠠⠧⠀⠐⠶⠀⠷⠨⠏⠨⠌⠼⠁⠃⠾⠓⠔⠼⠉⠂⠀⠰⠄ | ⠰⠰⠰⠠⠧⠀⠐⠶⠀⠷⠨⠏⠨⠌⠼⠁⠃⠾⠓⠔⠼⠉⠂⠰⠄
 ✗ | <math><mrow><msup><mi>h</mi><mn>3</mn></msup><mo>=</mo><mfrac><mn>12</mn><mi>π</mi></mfrac><mi>V</mi><mtext>,</mtext></mrow></math> | ⠰⠰⠰⠓⠔⠼⠉⠀⠐⠶⠀⠷⠼⠁⠃⠨⠌⠨⠏⠾⠠⠧⠂⠀⠰⠄ | ⠰⠰⠰⠓⠔⠼⠉⠀⠐⠶⠀⠷⠼⠁⠃⠨⠌⠨⠏⠾⠠⠧⠂⠰⠄
 ✗ | <math><mrow><mn>0.01</mn><mo>≤</mo><mi>M</mi><mo>≤</mo><mn>10</mn><mtext>;</mtext></mrow></math> | ⠼⠚⠲⠚⠁⠀⠸⠈⠣⠀⠰⠠⠍⠀⠸⠈⠣⠀⠼⠁⠚⠆ | ⠼⠚⠲⠚⠁⠀⠸⠈⠣⠀⠠⠍⠀⠸⠈⠣⠀⠼⠁⠚⠆
-✗ | <math><mrow><mo stretchy="false">[</mo><mn>0</mn><mo>,</mo><mn>2</mn><mo stretchy="false">]</mo><mtext>,</mtext></mrow></math> | ⠨⠣⠼⠚⠂⠀⠼⠃⠨⠜⠂⠀ | ⠨⠣⠼⠚⠂⠀⠼⠃⠨⠜⠂
+✓ | <math><mrow><mo stretchy="false">[</mo><mn>0</mn><mo>,</mo><mn>2</mn><mo stretchy="false">]</mo><mtext>,</mtext></mrow></math> | ⠨⠣⠼⠚⠂⠀⠼⠃⠨⠜⠂⠀ | ⠨⠣⠼⠚⠂⠀⠼⠃⠨⠜⠂
 ✗ | <math><mrow><mi>N</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mi>L</mi><mrow><mn>1</mn><mo>+</mo><mi>A</mi><msup><mi>b</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mi>k</mi><mi>t</mi></mrow></msup></mrow></mfrac><mtext>.</mtext></mrow></math> | ⠠⠝⠐⠣⠞⠐⠜⠀⠐⠶⠀⠰⠰⠷⠠⠇⠨⠌⠼⠁⠐⠖⠠⠁⠃⠔⠣⠐⠤⠅⠞⠜⠾⠲ | ⠰⠰⠰⠠⠝⠐⠣⠞⠐⠜⠀⠐⠶⠀⠷⠠⠇⠨⠌⠼⠁⠐⠖⠠⠁⠃⠔⠣⠐⠤⠅⠞⠜⠾⠲⠰⠄
 ✗ | <math><mrow><mi>A</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mi>a</mi><msup><mi>e</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mi>k</mi><mi>t</mi></mrow></msup><mo>+</mo><mi>c</mi></mrow></math> | ⠠⠁⠐⠣⠞⠐⠜⠀⠐⠶⠀⠰⠰⠁⠑⠔⠣⠐⠤⠅⠞⠜⠐⠖⠉ | ⠠⠁⠐⠣⠞⠐⠜⠀⠐⠶⠀⠁⠑⠔⠣⠐⠤⠅⠞⠜⠐⠖⠉
 ✗ | <math><mrow><mi>y</mi><mo>=</mo><mi>p</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow></math> | ⠰⠽⠀⠐⠶⠀⠏⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠉⠭⠐⠤⠼⠙ | ⠽⠀⠐⠶⠀⠏⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠉⠭⠐⠤⠼⠙
@@ -313,7 +313,7 @@
 ✗ | <math><mrow><mn>1</mn><mo>&lt;</mo><mi>a</mi><mo>&lt;</mo><mi>b</mi><mtext>,</mtext></mrow></math> | ⠼⠁⠀⠈⠣⠀⠁⠀⠈⠣⠀⠰⠃⠂⠀ | ⠼⠁⠀⠈⠣⠀⠰⠁⠀⠈⠣⠀⠰⠃⠂
 ✗ | <math><mrow><mo stretchy="false">(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>10000</mn><mo stretchy="false">)</mo><mtext>?</mtext></mrow></math> | ⠰⠰⠐⠣⠭⠔⠼⠃⠐⠖⠼⠁⠚⠚⠚⠚⠐⠜⠦ | ⠐⠣⠭⠔⠼⠃⠐⠖⠼⠁⠚⠚⠚⠚⠐⠜⠦
 ✗ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mn>5</mn><mo>−</mo><mn>6</mn><mi>x</mi><mo data-mjx-texclass="CLOSE">)</mo></mrow><mspace width="-0.167em"></mspace><msup><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>4</mn><mo data-mjx-texclass="CLOSE">)</mo></mrow><mn>2</mn></msup><mtext>.</mtext></mrow></math> | ⠋⠐⠣⠭⠐⠜⠀⠐⠶⠀⠐⠣⠼⠑⠐⠤⠼⠋⠭⠐⠜⠐⠣⠼⠃⠭⠐⠤⠼⠙⠐⠜⠔⠼⠃⠲ | ⠰⠰⠰⠋⠐⠣⠭⠐⠜⠀⠐⠶⠀⠐⠣⠼⠑⠐⠤⠼⠋⠭⠐⠜⠐⠣⠼⠃⠭⠐⠤⠼⠙⠐⠜⠔⠼⠃⠲⠰⠄
-✗ | <math><mrow><mn>0.25</mn><mtext>,</mtext></mrow></math> | ⠼⠚⠲⠃⠑⠂⠀ | ⠼⠚⠲⠃⠑⠂
+✓ | <math><mrow><mn>0.25</mn><mtext>,</mtext></mrow></math> | ⠼⠚⠲⠃⠑⠂⠀ | ⠼⠚⠲⠃⠑⠂
 ✗ | <math><mrow><mi>q</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>0.25</mn><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mn>2</mn><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><mn>2.5</mn><mtext>.</mtext></mrow></math> | ⠟⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠚⠲⠃⠑⠐⠣⠭⠐⠤⠼⠃⠐⠜⠔⠼⠃⠐⠖⠼⠃⠲⠑⠲ | ⠰⠰⠰⠟⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠚⠲⠃⠑⠐⠣⠭⠐⠤⠼⠃⠐⠜⠔⠼⠃⠐⠖⠼⠃⠲⠑⠲⠰⠄
 ✗ | <math><mrow><mi>h</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mo>−</mo><mn>16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><msub><mi>v</mi><mn>0</mn></msub><mi>t</mi><mo>+</mo><msub><mi>s</mi><mn>0</mn></msub></mrow></math> | ⠓⠐⠣⠞⠐⠜⠀⠐⠶⠀⠐⠤⠼⠁⠋⠞⠔⠼⠃⠐⠖⠧⠢⠼⠚⠞⠐⠖⠎⠢⠼⠚ | ⠰⠰⠰⠓⠐⠣⠞⠐⠜⠀⠐⠶⠀⠐⠤⠼⠁⠋⠞⠔⠼⠃⠐⠖⠧⠢⠼⠚⠞⠐⠖⠎⠢⠼⠚⠰⠄
 ✗ | <math><mrow><mi>A</mi><msub><mi>V</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">[</mo><mn>3</mn><mo>,</mo><mn>4</mn><mo stretchy="false">]</mo></mrow></msub><mo>=</mo><mo>−</mo><mn>15</mn></mrow></math> | ⠠⠠⠁⠧⠰⠢⠨⠣⠼⠉⠂⠀⠼⠙⠨⠜⠀⠐⠶⠀⠐⠤⠼⠁⠑ | ⠠⠠⠁⠧⠢⠨⠣⠼⠉⠂⠼⠙⠨⠜⠀⠐⠶⠀⠐⠤⠼⠁⠑
@@ -350,7 +350,7 @@
 ✗ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><msup><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mn>2</mn></msup><mo>,</mo><mspace width="0.5em"></mspace><mi>x</mi><mo>≥</mo><mn>4</mn></mrow></math> | ⠋⠐⠣⠭⠐⠜⠀⠐⠶⠀⠐⠣⠭⠐⠤⠼⠙⠐⠜⠔⠼⠃⠂⠀⠰⠭⠀⠸⠈⠜⠀⠼⠙ | ⠰⠋⠐⠣⠭⠐⠜⠀⠐⠶⠀⠐⠣⠭⠐⠤⠼⠙⠐⠜⠔⠼⠃⠂⠀⠭⠀⠸⠈⠜⠀⠼⠙
 ✗ | <math><mrow><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>c</mi></mrow></math> | ⠰⠰⠰⠁⠂⠀⠃⠂⠀⠉⠰⠄ | ⠰⠁⠂⠀⠰⠃⠂⠀⠰⠉
 ✗ | <math><mrow><mo stretchy="false">(</mo><mn>3</mn><mi>x</mi><mi>y</mi><mo stretchy="false">)</mo><mo>(</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>15</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>7</mn><mo>)</mo></mrow></math> | ⠐⠣⠼⠉⠭⠽⠐⠜⠐⠣⠼⠃⠭⠔⠼⠃⠽⠔⠼⠃⠐⠖⠼⠁⠑⠭⠽⠐⠖⠼⠛⠐⠜ | ⠐⠣⠼⠉⠭⠰⠽⠐⠜⠐⠣⠼⠃⠭⠔⠼⠃⠰⠽⠔⠼⠃⠐⠖⠼⠁⠑⠭⠰⠽⠐⠖⠼⠛⠐⠜
-✗ | <math><mrow><mi>q</mi><mo>,</mo></mrow></math> | ⠰⠟⠂⠀ | ⠰⠟⠂
+✓ | <math><mrow><mi>q</mi><mo>,</mo></mrow></math> | ⠰⠟⠂⠀ | ⠰⠟⠂
 ✓ | <math><mn>−14</mn></math> | ⠐⠤⠼⠁⠙ | ⠐⠤⠼⠁⠙
 ✗ | <math><mtable columnalign="left"><mtr columnalign="left"><mtd columnalign="left"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>&lt;</mo><mn>1</mn></mrow></mtd></mtr><mtr columnalign="left"><mtd columnalign="left"><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>&lt;</mo><mi>x</mi></mrow></mtd></mtr></mtable></math> | ⠠⠭⠰⠔⠼⠃⠐⠖⠽⠔⠼⠃⠀⠈⠣⠀⠼⠁⠠⠠⠽⠔⠼⠃⠀⠈⠣⠀⠭⠠ | ⠭⠔⠼⠃⠐⠖⠰⠽⠔⠼⠃⠀⠈⠣⠀⠼⠁⠰⠂⠀⠰⠽⠔⠼⠃⠀⠈⠣⠀⠭
 ✗ | <math><mrow><mi>h</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></math> | ⠓⠐⠣⠭⠐⠜ | ⠰⠓⠐⠣⠭⠐⠜
@@ -373,7 +373,7 @@
 ✗ | <math><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>csc</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></math> | ⠋⠐⠣⠭⠐⠜⠀⠐⠶⠀⠐⠤⠼⠁⠌⠙⠰⠉⠎⠉⠐⠣⠭⠐⠜ | ⠰⠰⠰⠋⠐⠣⠭⠐⠜⠀⠐⠶⠀⠐⠤⠷⠼⠁⠨⠌⠼⠙⠾⠉⠎⠉⠐⠣⠭⠐⠜⠰⠄
 ✗ | <math><mrow><mi>h</mi><mo stretchy="false">(</mo><mn>2</mn><mo stretchy="false">)</mo><mo>=</mo><mn>6</mn></mrow></math> | ⠓⠐⠣⠼⠃⠐⠜⠀⠐⠶⠀⠼⠋ | ⠰⠓⠐⠣⠼⠃⠐⠜⠀⠐⠶⠀⠼⠋
 ✗ | <math><mfrac><mrow><mo>−</mo><mn>1</mn></mrow><mrow><mn>13</mn><mrow><mo>(</mo><mrow><mn>13</mn><mo>+</mo><mi>h</mi></mrow><mo>)</mo></mrow></mrow></mfrac></math> | ⠰⠷⠐⠤⠼⠁⠨⠌⠼⠁⠉⠐⠣⠼⠁⠉⠐⠖⠓⠐⠜⠾ | ⠰⠰⠷⠐⠤⠼⠁⠨⠌⠼⠁⠉⠐⠣⠼⠁⠉⠐⠖⠓⠐⠜⠾
-✗ | <math><mrow><mo stretchy="false">(</mo><mn>3</mn><mo>,</mo><mo>−</mo><mn>22</mn><mo stretchy="false">)</mo><mo>,</mo></mrow></math> | ⠐⠣⠼⠉⠂⠀⠐⠤⠼⠃⠃⠐⠜⠂⠀ | ⠐⠣⠼⠉⠂⠀⠐⠤⠼⠃⠃⠐⠜⠂|
+✗ | <math><mrow><mo stretchy="false">(</mo><mn>3</mn><mo>,</mo><mo>−</mo><mn>22</mn><mo stretchy="false">)</mo><mo>,</mo></mrow></math> | ⠐⠣⠼⠉⠂⠀⠐⠤⠼⠃⠃⠐⠜⠂⠀ | ⠐⠣⠼⠉⠂⠀⠐⠤⠼⠃⠃⠐⠜⠂ | 
 ✗ | <math><mrow><mrow><mo>(</mo><mfrac><mi>f</mi><mi>g</mi></mfrac><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi></mrow><mrow><mn>6</mn><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac><mo>,</mo></mrow></math> | ⠰⠰⠰⠐⠣⠷⠋⠨⠌⠛⠾⠐⠜⠐⠣⠭⠐⠜⠀⠐⠶⠀⠷⠭⠔⠼⠃⠐⠖⠼⠃⠭⠨⠌⠼⠋⠐⠤⠭⠔⠼⠃⠾⠂⠀⠰⠄ | ⠰⠰⠐⠣⠋⠨⠌⠛⠐⠜⠐⠣⠭⠐⠜⠀⠐⠶⠀⠷⠭⠔⠼⠃⠐⠖⠼⠃⠭⠨⠌⠼⠋⠐⠤⠭⠔⠼⠃⠾⠂
 ✗ | <math><mrow><mn>3</mn><mi>x</mi><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mi>b</mi></mrow><mo>)</mo></mrow><mo>=</mo><mi>c</mi></mrow></math> | ⠼⠉⠭⠐⠣⠭⠐⠤⠃⠐⠜⠀⠐⠶⠀⠰⠉ | ⠼⠉⠭⠐⠣⠭⠐⠤⠃⠐⠜⠀⠐⠶⠀⠉
 ✓ | <math><mrow><mrow><mo>|</mo><mrow><mn>6</mn><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mo>|</mo></mrow><mo>=</mo><mn>8</mn></mrow></math> | ⠸⠳⠼⠋⠭⠐⠖⠼⠙⠸⠳⠀⠐⠶⠀⠼⠓ | ⠸⠳⠼⠋⠭⠐⠖⠼⠙⠸⠳⠀⠐⠶⠀⠼⠓
@@ -414,4 +414,4 @@
 ✗ | <math><mrow><mo stretchy="false">(</mo><mn>−2</mn><mo>,</mo><mn>−6</mn><mo stretchy="false">)</mo><mo>,</mo><mo stretchy="false">(</mo><mn>1</mn><mo>,</mo><mtext>−12</mtext><mo stretchy="false">)</mo><mo>,</mo><mo stretchy="false">(</mo><mn>5</mn><mo>,</mo><mn>−20</mn><mo stretchy="false">)</mo><mo>,</mo><mo stretchy="false">(</mo><mn>6</mn><mo>,</mo><mtext>−22</mtext><mo stretchy="false">)</mo><mo>,</mo><mo stretchy="false">(</mo><mn>9</mn><mo>,</mo><mtext>−28</mtext><mo stretchy="false">)</mo><mo>;</mo></mrow></math> | ⠐⠣⠐⠤⠼⠃⠂⠀⠐⠤⠼⠋⠐⠜⠂⠀⠐⠣⠼⠁⠂⠀⠐⠤⠼⠁⠃⠐⠜⠂⠀⠐⠣⠼⠑⠂⠀⠐⠤⠼⠃⠚⠐⠜⠂⠀⠐⠣⠼⠋⠂⠀⠐⠤⠼⠃⠃⠐⠜⠂⠀⠐⠣⠼⠊⠂⠀⠐⠤⠼⠃⠓⠐⠜⠆ | ⠐⠣⠐⠤⠼⠃⠂⠐⠤⠼⠋⠐⠜⠂⠐⠣⠼⠁⠂⠐⠤⠼⠁⠃⠐⠜⠂⠐⠣⠼⠑⠂⠐⠤⠼⠃⠚⠐⠜⠂⠐⠣⠼⠋⠂⠐⠤⠼⠃⠃⠐⠜⠂⠐⠣⠼⠊⠂⠐⠤⠼⠃⠓⠐⠜⠆
 ✗ | <math><mtable columnalign="left"><mtr columnalign="left"><mtd columnalign="left"><mrow><msub><mi>S</mi><mi>n</mi></msub><mo>=</mo><mfrac><mrow><msub><mi>a</mi><mn>1</mn></msub><mrow><mo>(</mo><mrow><mn>1</mn><mo>−</mo><msup><mi>r</mi><mi>n</mi></msup></mrow><mo>)</mo></mrow></mrow><mrow><mn>1</mn><mo>−</mo><mi>r</mi></mrow></mfrac></mrow></mtd></mtr><mtr columnalign="left"><mtd columnalign="left"><mrow><msub><mi>S</mi><mn>11</mn></msub><mo>=</mo><mfrac><mrow><mn>8</mn><mrow><mo>(</mo><mrow><mn>1</mn><mo>−</mo><msup><mrow><mo>(</mo><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow><mn>11</mn></msup></mrow><mo>)</mo></mrow></mrow><mrow><mn>1</mn><mo>−</mo><mrow><mo>(</mo><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow></mrow></mfrac><mo>≈</mo><mn>5.336</mn></mrow></mtd></mtr></mtable></math> | ⠰⠰⠰⠠⠠⠎⠢⠝⠀⠐⠶⠀⠷⠁⠢⠼⠁⠐⠣⠼⠁⠐⠤⠗⠔⠝⠐⠜⠨⠌⠼⠁⠐⠤⠗⠾⠠⠠⠠⠎⠢⠼⠁⠁⠀⠐⠶⠀⠷⠼⠓⠐⠣⠼⠁⠐⠤⠐⠣⠐⠤⠼⠁⠌⠃⠐⠜⠔⠼⠁⠁⠐⠜⠨⠌⠼⠁⠐⠤⠐⠣⠐⠤⠼⠁⠌⠃⠐⠜⠾⠀⠘⠔⠀⠼⠑⠲⠉⠉⠋⠠⠰⠄ | ⠰⠰⠠⠎⠢⠼⠁⠁⠀⠐⠶⠀⠷⠼⠓⠐⠣⠼⠁⠐⠤⠐⠣⠐⠤⠼⠁⠌⠃⠐⠜⠔⠼⠁⠁⠐⠜⠨⠌⠼⠁⠐⠤⠐⠣⠐⠤⠼⠁⠌⠃⠐⠜⠾⠀⠸⠔⠀⠼⠑⠲⠉⠉⠋
 ✗ | <math><mrow><mi>z</mi><mo>=</mo><mn>0</mn><mo>+</mo><mn>4</mn><mi>i</mi></mrow></math> | ⠰⠵⠀⠐⠶⠀⠼⠚⠐⠖⠼⠙⠰⠊ | ⠵⠀⠐⠶⠀⠼⠚⠐⠖⠼⠙⠊
-# Matches: 56 out of 200: 28%.
+# Matches: 62 out of 200: 31%.

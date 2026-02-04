@@ -105,7 +105,7 @@
 ✗ | <math><mrow><mi>y</mi><mo>=</mo><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></math> | ⠰⠽⠀⠐⠶⠀⠛⠐⠣⠭⠐⠜ | ⠽ ⠨⠅ ⠛⠷⠭⠾
 ✗ | <math><mrow><mo stretchy="false">(</mo><mi>s</mi><mo>⋅</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></math> | ⠐⠣⠎⠐⠲⠛⠐⠜⠐⠣⠼⠁⠐⠜ | ⠷⠎⠐⠛⠾⠷⠼⠁⠾
 ✗ | <math><mrow><mo stretchy="false">(</mo><mi>s</mi><mo>∘</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>1.5</mn><mo stretchy="false">)</mo></mrow></math> | ⠐⠣⠎⠐⠴⠛⠐⠜⠐⠣⠼⠁⠲⠑⠐⠜ | ⠷⠎ ⠘⠚ ⠛⠾⠷⠼⠁⠲⠑⠾
-✗ | <math><mrow><mi>d</mi><mtext>,</mtext></mrow></math> | ⠰⠙⠂⠀ | ⠰⠙⠂
+✓ | <math><mrow><mi>d</mi><mtext>,</mtext></mrow></math> | ⠰⠙⠂⠀ | ⠰⠙⠂
 ✓ | <math><mn>2.4</mn></math> | ⠼⠃⠲⠙ | ⠼⠃⠲⠙
 ✓ | <math><mn>26.2</mn></math> | ⠼⠃⠋⠲⠃ | ⠼⠃⠋⠲⠃
 ✓ | <math><mn>0.05</mn></math> | ⠼⠚⠲⠚⠑ | ⠼⠚⠲⠚⠑
@@ -123,8 +123,8 @@
 ✓ | <math><mrow><mi>θ</mi><mtext>.</mtext></mrow></math> | ⠨⠹⠲ | ⠨⠹⠲
 ✓ | <math><mi>α</mi></math> | ⠨⠁ | ⠨⠁
 ✗ | <math><mrow><mi>csc</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>α</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>5</mn><mn>3</mn></mfrac><mtext>,</mtext></mrow></math> | ⠉⠎⠉⠐⠣⠨⠁⠐⠜⠀⠐⠶⠀⠼⠑⠌⠉⠂⠀ | ⠉⠎⠉⠷⠨⠁⠾ ⠨⠅ ⠹⠼⠑⠌⠼⠉⠼⠂
-✗ | <math><mrow><mn>5</mn><mtext>,</mtext></mrow></math> | ⠼⠑⠂⠀ | ⠼⠑⠂
-✗ | <math><mrow><mn>4</mn><mtext>,</mtext></mrow></math> | ⠼⠙⠂⠀ | ⠼⠙⠂
+✓ | <math><mrow><mn>5</mn><mtext>,</mtext></mrow></math> | ⠼⠑⠂⠀ | ⠼⠑⠂
+✓ | <math><mrow><mn>4</mn><mtext>,</mtext></mrow></math> | ⠼⠙⠂⠀ | ⠼⠙⠂
 ✗ | <math><mrow><mi>sin</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>α</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>3</mn><mn>5</mn></mfrac></mrow></math> | ⠎⠔⠐⠣⠨⠁⠐⠜⠀⠐⠶⠀⠼⠉⠌⠑ | ⠎⠊⠝⠷⠨⠁⠾ ⠨⠅ ⠹⠼⠉⠌⠼⠑⠼
 ✗ | <math><mrow><mfrac><mn>3</mn><mn>5</mn></mfrac><mtext>.</mtext></mrow></math> | ⠼⠉⠌⠑⠲ | ⠹⠼⠉⠌⠼⠑⠼⠲
 ✗ | <math><mrow><mfrac><msqrt><mn>2</mn></msqrt><mn>2</mn></mfrac><mtext>,</mtext></mrow></math> | ⠰⠰⠷⠩⠼⠃⠬⠨⠌⠼⠃⠾⠂⠀ | ⠹⠜⠼⠃⠜⠌⠼⠃⠼⠂
@@ -214,4 +214,4 @@
 ✗ | <math><mrow><mtext>Example: </mtext><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow></mfrac></mrow></math> | ⠰⠰⠰⠠⠑⠭⠁⠍⠏⠇⠑⠒⠀⠋⠐⠣⠭⠐⠜⠀⠐⠶⠀⠷⠼⠉⠭⠔⠼⠃⠐⠖⠼⠃⠨⠌⠭⠔⠼⠃⠐⠖⠼⠙⠭⠐⠤⠼⠑⠾⠰⠄ | ⠠⠑⠭⠁⠍⠏⠇⠑⠒⠀⠋⠷⠭⠾⠀⠨⠅⠀⠹⠼⠒⠭⠘⠆⠐⠬⠼⠃⠌⠭⠘⠆⠐⠬⠼⠙⠭⠤⠼⠢⠼
 ✗ | <math><mrow><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>3</mn><mo>,</mo></mrow></math> | ⠛⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠉⠂⠀ | ⠛⠷⠭⠾⠀⠨⠅⠀⠼⠒⠂
 ✗ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mi>p</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow><mrow><mi>q</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></mfrac><mo>,</mo><mspace width="0.5em"></mspace><mi>q</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>≠</mo><mn>0</mn><mspace width="0.5em"></mspace><mtext>where degree of </mtext><mi>p</mi><mo>=</mo><mtext>degree of </mtext><mi>q</mi><mo>.</mo></mrow></math> | ⠰⠰⠰⠋⠐⠣⠭⠐⠜⠀⠐⠶⠀⠷⠏⠐⠣⠭⠐⠜⠨⠌⠟⠐⠣⠭⠐⠜⠾⠂⠀⠟⠐⠣⠭⠐⠜⠀⠐⠶⠈⠱⠀⠼⠚⠀⠺⠓⠑⠗⠑⠀⠙⠑⠛⠗⠑⠑⠀⠕⠋⠀⠏⠀⠐⠶⠀⠙⠑⠛⠗⠑⠑⠀⠕⠋⠀⠟⠲⠰⠄ | ⠋⠷⠭⠾⠀⠨⠅⠀⠹⠏⠷⠭⠾⠌⠟⠷⠭⠾⠼⠂⠀⠟⠷⠭⠾⠀⠨⠌⠅⠀⠼⠚⠀⠱⠻⠑⠀⠙⠑⠛⠗⠑⠑⠀⠷⠀⠏⠀⠨⠅⠀⠙⠑⠛⠗⠑⠑⠀⠷⠀⠟⠲
-# Matches: 18 out of 200: 9%.
+# Matches: 21 out of 200: 10%.

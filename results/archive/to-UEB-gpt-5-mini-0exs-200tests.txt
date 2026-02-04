@@ -25,7 +25,7 @@
 ✓ | <math><mi>g</mi></math> | ⠰⠛ | ⠰⠛
 ✓ | <math><mi>f</mi></math> | ⠰⠋ | ⠰⠋
 ✓ | <math><mi>q</mi></math> | ⠰⠟ | ⠰⠟
-✗ | <math><mrow><mi>q</mi><mtext>,</mtext></mrow></math> | ⠰⠟⠂⠀ | ⠰⠟⠂
+✓ | <math><mrow><mi>q</mi><mtext>,</mtext></mrow></math> | ⠰⠟⠂⠀ | ⠰⠟⠂
 ✓ | <math><mrow><mi>p</mi><mtext>.</mtext></mrow></math> | ⠰⠏⠲ | ⠰⠏⠲
 ✗ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></math> | ⠋⠐⠣⠭⠐⠜ | ⠰⠋⠷⠭⠾
 ✓ | <math><mrow><mi>g</mi><mtext>.</mtext></mrow></math> | ⠰⠛⠲ | ⠰⠛⠲
@@ -40,7 +40,7 @@
 ✗ | <math><mrow><mi>q</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mo>−</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>7</mn></mrow></math> | ⠟⠐⠣⠭⠐⠜⠀⠐⠶⠀⠐⠤⠼⠉⠭⠔⠼⠃⠐⠖⠼⠑⠭⠐⠤⠼⠛ | ⠰⠟⠷⠭⠾⠶⠤⠼⠉⠭⠐⠖⠼⠃⠖⠼⠑⠭⠤⠼⠛
 ✗ | <math><mrow><mi>s</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>5</mn><mi>x</mi></mrow></math> | ⠎⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠑⠭ | ⠰⠎⠷⠭⠾⠶⠼⠑⠭
 ✗ | <math><mrow><mi>m</mi><mo>=</mo><mn>5</mn><mtext>,</mtext></mrow></math> | ⠰⠍⠀⠐⠶⠀⠼⠑⠂⠀ | ⠰⠍⠶⠼⠑⠂
-✗ | <math><mrow><mi>c</mi><mtext>,</mtext></mrow></math> | ⠰⠉⠂⠀ | ⠰⠉⠂
+✓ | <math><mrow><mi>c</mi><mtext>,</mtext></mrow></math> | ⠰⠉⠂⠀ | ⠰⠉⠂
 ✓ | <math><mi>w</mi></math> | ⠰⠺ | ⠰⠺
 ✗ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn></mrow></math> | ⠋⠐⠣⠭⠐⠜⠀⠐⠶⠀⠼⠉⠭⠔⠼⠃⠐⠖⠼⠙ | ⠰⠋⠷⠭⠾⠶⠼⠉⠭⠐⠖⠼⠃⠖⠼⠙
 ✗ | <math><mrow><mi>f</mi><mo>+</mo><mi>g</mi></mrow></math> | ⠋⠐⠖⠛ | ⠰⠋⠖⠛
@@ -176,4 +176,4 @@
 ✗ | <math><mrow><mtext>As </mtext><mi>x</mi><mo stretchy="false">→</mo><msup><mn>0</mn><mo>+</mo></msup><mo>,</mo><mo> </mo><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">→</mo><mi>∞</mi><mo>.</mo></mrow></math> | ⠰⠰⠰⠠⠁⠎⠀⠭⠀⠳⠕⠀⠼⠚⠔⠐⠖⠂⠀⠋⠐⠣⠭⠐⠜⠀⠳⠕⠀⠼⠿⠲⠰⠄ | ⠰⠑⠭⠁⠍⠏⠇⠑⠒⠀⠋⠷⠭⠾⠶⠼⠉⠭⠘⠼⠃⠖⠼⠁⠌⠭⠘⠼⠃⠖⠼⠙⠭⠤⠼⠑
 ✗ | <math><mrow><mtext>As </mtext><mi>x</mi><mo stretchy="false">→</mo><msup><mi>a</mi><mo>–</mo></msup><mo>,</mo><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">→</mo><mo>±</mo><mi>∞</mi><mtext> or </mtext><mi>x</mi><mo stretchy="false">→</mo><msup><mi>a</mi><mo>+</mo></msup><mo>,</mo><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">→</mo><mo>±</mo><mi>∞</mi><mo>.</mo></mrow></math> | ⠰⠰⠰⠠⠁⠎⠀⠭⠀⠳⠕⠀⠁⠔⠠⠤⠂⠀⠋⠐⠣⠭⠐⠜⠀⠳⠕⠀⠸⠖⠼⠿⠀⠕⠗⠀⠭⠀⠳⠕⠀⠁⠔⠐⠖⠂⠀⠋⠐⠣⠭⠐⠜⠀⠳⠕⠀⠸⠖⠼⠿⠲⠰⠄ | ⠰⠛⠷⠭⠾⠶⠼⠉⠂
 ✗ | <math><mrow><mi>y</mi><mo>=</mo><mn>0.</mn></mrow></math> | ⠰⠽⠀⠐⠶⠀⠼⠚⠲ | ⠰⠋⠷⠭⠾⠶⠏⠷⠭⠾⠌⠟⠷⠭⠾⠂⠀⠟⠷⠭⠾⠐⠜⠼⠚⠀⠺⠓⠑⠗⠑⠀⠙⠑⠛⠗⠑⠑⠀⠕⠋⠀⠏⠶⠀⠙⠑⠛⠗⠑⠑⠀⠕⠋⠀⠟⠲
-# Matches: 6 out of 162: 4%.
+# Matches: 8 out of 162: 5%.

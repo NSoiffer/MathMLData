@@ -655,7 +655,7 @@
 ✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext> </mtext><mtext> </mtext><mtext> </mtext><mtext> </mtext></math> | ⠿ | ⠀
 ✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><msub><mi>log</mi><mn>6</mn></msub><mo>⁡</mo><mi>x</mi></math> | ⠋⠷⠭⠾⠀⠨⠅⠀⠇⠕⠛⠖⠀⠭ | ⠋⠷⠭⠾⠀⠨⠅⠀⠇⠕⠛⠰⠖⠀⠭
 ✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext> </mtext><mi>f</mi><mrow><mo>(</mo><msup><mi>f</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup><mo stretchy="false">(</mo><mn>4</mn><mo stretchy="false">)</mo><mo>)</mo></mrow></math> | ⠋⠷⠋⠘⠤⠂⠐⠷⠲⠾⠾ | ⠀⠋⠷⠋⠘⠤⠼⠂⠐⠷⠼⠲⠾⠾
-✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext> </mtext><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mtext> </mtext><mtext>,</mtext></math> | ⠋⠷⠭⠾⠀⠠ | ⠀⠋⠷⠭⠾⠀⠠
+✓ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext> </mtext><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mtext> </mtext><mtext>,</mtext></math> | ⠋⠷⠭⠾⠀⠠ | ⠀⠋⠷⠭⠾⠀⠠
 ✓ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><msup><mn>3</mn><mi>x</mi></msup></mstyle></math> | ⠋⠷⠭⠾⠀⠨⠅⠀⠼⠒⠘⠭ | ⠋⠷⠭⠾⠀⠨⠅⠀⠼⠒⠘⠭
 ✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>m</mi><mo>=</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mrow><msub><mi>y</mi><mn>2</mn></msub><mo>−</mo><msub><mi>y</mi><mn>1</mn></msub></mrow><mrow><msub><mi>x</mi><mn>2</mn></msub><mo>−</mo><msub><mi>x</mi><mn>1</mn></msub></mrow></mfrac></mstyle></math> | ⠍⠀⠨⠅⠀⠹⠽⠆⠤⠽⠂⠌⠭⠆⠤⠭⠂⠼ | ⠍⠀⠨⠅⠀⠹⠽⠰⠆⠤⠽⠰⠂⠌⠭⠰⠆⠤⠭⠰⠂⠼
 ✓ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn></math> | ⠼⠂ | ⠼⠂
@@ -763,9 +763,9 @@
 ✓ | <math><mrow><mi>a</mi><mo>=</mo><mn>1</mn><mtext>.</mtext></mrow></math> | ⠁⠀⠨⠅⠀⠼⠂⠸⠲ | ⠁⠀⠨⠅⠀⠼⠂⠸⠲
 ✗ | <math><mrow><mi>p</mi><mtext>,</mtext></mrow></math> | ⠰⠏⠠ | ⠏⠸⠠
 ✓ | <math><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | ⠷⠭⠠⠀⠽⠾⠸⠲ | ⠷⠭⠠⠀⠽⠾⠸⠲
-✗ | <math><mrow><mi>y</mi><mo>=</mo><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo></mrow></math> | ⠽⠀⠨⠅⠀⠋⠷⠭⠾⠀⠨⠅ | ⠽⠀⠨⠅⠀⠋⠷⠭⠾⠀⠨⠅⠀
-✗ | <math><mrow><mi>y</mi><mo>=</mo><mi>h</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo></mrow></math> | ⠽⠀⠨⠅⠀⠓⠷⠭⠾⠀⠨⠅ | ⠽⠀⠨⠅⠀⠓⠷⠭⠾⠀⠨⠅⠀
-✗ | <math><mrow><mi>y</mi><mo>=</mo></mrow></math> | ⠽⠀⠨⠅ | ⠽⠀⠨⠅⠀
+✓ | <math><mrow><mi>y</mi><mo>=</mo><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo></mrow></math> | ⠽⠀⠨⠅⠀⠋⠷⠭⠾⠀⠨⠅ | ⠽⠀⠨⠅⠀⠋⠷⠭⠾⠀⠨⠅⠀
+✓ | <math><mrow><mi>y</mi><mo>=</mo><mi>h</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo></mrow></math> | ⠽⠀⠨⠅⠀⠓⠷⠭⠾⠀⠨⠅ | ⠽⠀⠨⠅⠀⠓⠷⠭⠾⠀⠨⠅⠀
+✓ | <math><mrow><mi>y</mi><mo>=</mo></mrow></math> | ⠽⠀⠨⠅ | ⠽⠀⠨⠅⠀
 ✓ | <math><mrow><mo stretchy="false">(</mo><mi>h</mi><mo>,</mo><mi>k</mi><mo stretchy="false">)</mo></mrow></math> | ⠷⠓⠠⠀⠅⠾ | ⠷⠓⠠⠀⠅⠾
 ✗ | <math><mrow><mi>y</mi><mo>=</mo><mn>2</mn><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></math> | ⠽⠀⠨⠅⠀⠼⠆⠷⠭⠾⠷⠭⠤⠂⠾ | ⠽⠀⠨⠅⠀⠼⠆⠷⠭⠾⠷⠭⠤⠼⠂⠾
 ✗ | <math><mrow><mi>y</mi><mo>=</mo><mo stretchy="false">(</mo><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mn>5</mn><mo stretchy="false">)</mo></mrow></math> | ⠽⠀⠨⠅⠀⠷⠤⠂⠾⠷⠭⠬⠒⠾⠷⠭⠤⠢⠾ | ⠽⠀⠨⠅⠀⠷⠤⠼⠂⠾⠷⠭⠬⠼⠒⠾⠷⠭⠤⠼⠢⠾
@@ -786,10 +786,10 @@
 ✗ | <math><mi>F</mi></math> | ⠰⠠⠋ | ⠠⠋
 ✗ | <math><mrow><mi>D</mi><mtext>,</mtext></mrow></math> | ⠰⠠⠙⠠ | ⠠⠙⠸⠠
 ✗ | <math><mi>D</mi></math> | ⠰⠠⠙ | ⠠⠙
-✗ | <math><mrow><mi>B</mi><mo stretchy="false">(</mo><mi>D</mi><mo stretchy="false">)</mo><mo>=</mo></mrow></math> | ⠠⠃⠷⠠⠙⠾⠀⠨⠅ | ⠠⠃⠷⠠⠙⠾⠀⠨⠅⠀
+✓ | <math><mrow><mi>B</mi><mo stretchy="false">(</mo><mi>D</mi><mo stretchy="false">)</mo><mo>=</mo></mrow></math> | ⠠⠃⠷⠠⠙⠾⠀⠨⠅ | ⠠⠃⠷⠠⠙⠾⠀⠨⠅⠀
 ✗ | <math><mi>T</mi></math> | ⠰⠠⠞ | ⠠⠞
 ✗ | <math><mi>M</mi></math> | ⠰⠠⠍ | ⠠⠍
-✗ | <math><mrow><mi>E</mi><mo>=</mo></mrow></math> | ⠠⠑⠀⠨⠅ | ⠠⠑⠀⠨⠅⠀
+✓ | <math><mrow><mi>E</mi><mo>=</mo></mrow></math> | ⠠⠑⠀⠨⠅ | ⠠⠑⠀⠨⠅⠀
 ✓ | <math><mn>5</mn></math> | ⠼⠢ | ⠼⠢
 ✓ | <math><mn>8.50</mn></math> | ⠼⠦⠨⠢⠴ | ⠼⠦⠨⠢⠴
 ✓ | <math><mn>15</mn></math> | ⠼⠂⠢ | ⠼⠂⠢
@@ -2343,7 +2343,7 @@
 ✗ | <math><mfrac><mrow><mtext>number of outcomes in</mtext><mspace width="0.25em"></mspace><mi>B</mi></mrow><mrow><mtext>number of outcomes in</mtext><mspace width="0.25em"></mspace><mi>S</mi></mrow></mfrac></math> | ⠹⠝⠥⠍⠃⠑⠗⠀⠕⠋⠀⠕⠥⠞⠉⠕⠍⠑⠎⠀⠊⠝⠠⠃⠌⠝⠥⠍⠃⠑⠗⠀⠕⠋⠀⠕⠥⠞⠉⠕⠍⠑⠎⠀⠊⠝⠠⠎⠼ | ⠹⠝⠥⠍⠃⠑⠗⠀⠕⠋⠀⠕⠥⠞⠉⠕⠍⠑⠎⠀⠊⠝⠀⠠⠃⠌⠝⠥⠍⠃⠑⠗⠀⠕⠋⠀⠕⠥⠞⠉⠕⠍⠑⠎⠀⠊⠝⠀⠠⠎⠼
 ✓ | <math><mrow><mfrac><mn>3</mn><mn>19</mn></mfrac><mtext>,</mtext></mrow></math> | ⠹⠒⠌⠂⠔⠼⠠ | ⠹⠒⠌⠂⠔⠼⠠
 ✓ | <math><mfrac><mn>10</mn><mn>19</mn></mfrac></math> | ⠹⠂⠴⠌⠂⠔⠼ | ⠹⠂⠴⠌⠂⠔⠼
-✗ | <math><mrow><mspace width="0.25em"></mspace><mo>=</mo><mspace width="0.25em"></mspace><mfrac><mfrac><mn>3</mn><mn>19</mn></mfrac><mfrac><mn>6</mn><mn>19</mn></mfrac></mfrac></mrow></math> | ⠨⠅⠀⠠⠹⠹⠒⠌⠂⠔⠼⠠⠌⠹⠖⠌⠂⠔⠼⠠⠼ | ⠀⠨⠅⠀⠠⠹⠹⠒⠌⠂⠔⠼⠠⠌⠹⠖⠌⠂⠔⠼⠠⠼
+✓ | <math><mrow><mspace width="0.25em"></mspace><mo>=</mo><mspace width="0.25em"></mspace><mfrac><mfrac><mn>3</mn><mn>19</mn></mfrac><mfrac><mn>6</mn><mn>19</mn></mfrac></mfrac></mrow></math> | ⠨⠅⠀⠠⠹⠹⠒⠌⠂⠔⠼⠠⠌⠹⠖⠌⠂⠔⠼⠠⠼ | ⠀⠨⠅⠀⠠⠹⠹⠒⠌⠂⠔⠼⠠⠌⠹⠖⠌⠂⠔⠼⠠⠼
 ✓ | <math><mfrac><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>A</mi><mtext>AND</mtext><mi>B</mi><mo stretchy="false">)</mo></mrow><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>A</mi><mo stretchy="false">)</mo></mrow></mfrac></math> | ⠹⠠⠏⠷⠠⠁⠠⠠⠁⠝⠙⠠⠃⠾⠌⠠⠏⠷⠠⠁⠾⠼ | ⠹⠠⠏⠷⠠⠁⠠⠠⠁⠝⠙⠠⠃⠾⠌⠠⠏⠷⠠⠁⠾⠼
 ✗ | <math><mfrac><mrow><mtext>number of outcomes in</mtext><mspace width="0.25em"></mspace><mi>T</mi></mrow><mrow><mtext>number of outcomes in</mtext><mspace width="0.25em"></mspace><mi>S</mi></mrow></mfrac></math> | ⠹⠝⠥⠍⠃⠑⠗⠀⠕⠋⠀⠕⠥⠞⠉⠕⠍⠑⠎⠀⠊⠝⠠⠞⠌⠝⠥⠍⠃⠑⠗⠀⠕⠋⠀⠕⠥⠞⠉⠕⠍⠑⠎⠀⠊⠝⠠⠎⠼ | ⠹⠝⠥⠍⠃⠑⠗⠀⠕⠋⠀⠕⠥⠞⠉⠕⠍⠑⠎⠀⠊⠝⠀⠠⠞⠌⠝⠥⠍⠃⠑⠗⠀⠕⠋⠀⠕⠥⠞⠉⠕⠍⠑⠎⠀⠊⠝⠀⠠⠎⠼
 ✓ | <math><mfrac><mn>5</mn><mn>6</mn></mfrac></math> | ⠹⠢⠌⠖⠼ | ⠹⠢⠌⠖⠼
@@ -2486,4 +2486,4 @@
 ✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>C</mi></math> | ⠰⠠⠉ | ⠠⠉
 ✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>D</mi><mtext>.</mtext></math> | ⠰⠠⠙⠸⠲ | ⠠⠙⠸⠲
 ✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mi mathvariant="normal">△</mi><mi>A</mi><mi>B</mi><mi>F</mi></math> | ⠫⠞⠀⠠⠁⠠⠃⠠⠋ | ⠫⠞⠠⠁⠠⠃⠠⠋
-# Matches: 909 out of 2160: 42%.
+# Matches: 916 out of 2160: 42%.
