@@ -76,7 +76,7 @@ UEB_REPLACEMENT_CHARS: CharMapping = {
     "𝟙": "⠰⠰",
     "L": "",
     "D": "⠈",
-    "G": "",
+    "G": "⠨",
     "V": "⠨⠈",
     "C": "⠠",
     "𝐶": "⠠",
