@@ -1,0 +1,144 @@
+# Configuration:
+#   Braille Code: Nemeth
+#   Generate Braille: False
+#   Model: gpt-5-mini
+#   API Key: OPENAI_API_KEY
+#   Batch Size: 20
+#   Number of Examples: 0
+#   Example Braille File: RustTestData/Nemeth.brls
+#   Example MathML File: RustTestData/Nemeth.mmls
+#   Input Braille Dir: test_data/Nemeth
+#   Input MathML Dir: test_data/MathML
+#   Instructions: You are an expert braille translator specializing in Nemeth braille for mathematics and chemistry notation. The user will number the input and follow it with {braille_code} braille to be translated into MathML. Your task is to translate each sequence of Nemeth braille characters into valid MathML code. Remember that the MathML starts with a '<math>' tag and ends with a '</math>' tag. For each braille input, output ONLY the raw MathML string starting with <math> and ending with </math>. Every element in the MathML must be properly closed and nested. Do not include markdown formatting, explanations, or any other text. Do not include any newlines or carriage returns. Do not include any braille unicode characters in the MathML output. Add '|next-item|' between each MathML output. 
+#
+# 45 items. Usage info: prompt=10471, candidates=63617, total=74088, time=741403ms, TPS=11654.164767279186.2f
+#
+
+# NOT Normalized MathML
+# Match | Test Input | Expected | Computed
+✗ | ⠋⠷⠞⠾⠀⠨⠅⠀⠁⠃⠘⠞ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mi>a</mi><msup><mi>b</mi><mi>t</mi></msup></mrow></math> | <math><mi>s</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>
+✗ | ⠛⠷⠞⠾⠀⠨⠅⠀⠁⠃⠘⠞⠐⠬⠉ | <math><mrow><mi>g</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mi>a</mi><msup><mi>b</mi><mi>t</mi></msup><mo>+</mo><mi>c</mi></mrow></math> | <math><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>6</mn></math>
+✗ | ⠼⠂⠴ | <math><mn>10</mn></math> | <math><mi>x</mi><mo>=</mo><mo>-</mo><mn>6</mn></math>
+✗ | ⠼⠆⠬⠒⠀⠨⠅⠀⠼⠢⠸⠒ | <math><mrow><mn>2</mn><mo>+</mo><mn>3</mn><mo>=</mo><mn>5</mn><mtext>:</mtext></mrow></math> | <math><mi>q</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mo>-</mo><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mfrac><mn>4</mn><mi>x</mi></mfrac><mo>-</mo><mn>6</mn></math>
+✗ | ⠼⠆ | <math><mn>2</mn></math> | <math><mi>s</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mn>2</mn><mi>x</mi></math>
+✗ | ⠼⠆⠡⠒⠀⠨⠅⠀⠼⠖⠸⠲ | <math><mrow><mn>2</mn><mo>⋅</mo><mn>3</mn><mo>=</mo><mn>6</mn><mtext>.</mtext></mrow></math> | <math><mi>m</mi><mo>=</mo><mn>2</mn></math>
+✗ | ⠰⠋⠸⠒⠀⠠⠃⠀⠫⠕⠀⠠⠉⠠ | <math><mrow><mi>f</mi><mo>:</mo><mi>B</mi><mo accent="false" stretchy="false">→</mo><mi>C</mi><mtext>,</mtext></mrow></math> | <math><mi>C</mi></math>
+✗ | ⠷⠋⠨⠡⠛⠾⠷⠭⠾⠀⠨⠅⠀⠋⠷⠛⠷⠭⠾⠾⠸⠲ | <math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>∘</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mi>f</mi><mo stretchy="false">(</mo><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | <math><mi>W</mi></math>
+✗ | ⠰⠛ | <math><mi>g</mi></math> | <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup></math>
+✗ | ⠰⠋ | <math><mi>f</mi></math> | <math><mi>f</mi><mo>∘</mo><mi>g</mi></math>
+✗ | ⠰⠟ | <math><mi>q</mi></math> | <math><mi>f</mi><mo>-</mo><mi>g</mi></math>
+✗ | ⠰⠟⠠ | <math><mrow><mi>q</mi><mtext>,</mtext></mrow></math> | <math><mi>f</mi><mo>⋅</mo><mi>g</mi></math>
+✗ | ⠰⠏⠸⠲ | <math><mrow><mi>p</mi><mtext>.</mtext></mrow></math> | <math><msup><mi>f</mi><mn>-1</mn></msup><mo>/</mo><mi>g</mi></math>
+✗ | ⠋⠷⠭⠾ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></math> | <math><mi>g</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mn>4</mn></math>
+✗ | ⠰⠛⠸⠲ | <math><mrow><mi>g</mi><mtext>.</mtext></mrow></math> | <math><mo>(</mo><mn>2</mn><mo>)</mo><mo>-</mo><mn>4</mn></math>
+✗ | ⠓⠷⠭⠾⠀⠨⠅⠀⠋⠷⠭⠾⠬⠛⠷⠭⠾⠸⠲ | <math><mrow><mi>h</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>+</mo><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | <math><mo>(</mo><mo>-</mo><mn>1</mn><mo>)</mo><mo>⋅</mo><mn>2</mn></math>
+✗ | ⠗⠷⠭⠾⠀⠨⠅⠀⠏⠷⠭⠾⠤⠟⠷⠭⠾⠸⠲ | <math><mrow><mi>r</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mi>p</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>−</mo><mi>q</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | <math><mo>(</mo><mi>f</mi><mo>⋅</mo><mi>g</mi><mo>)</mo><mo>+</mo><mn>4</mn></math>
+✗ | ⠗⠷⠭⠾⠀⠨⠅⠀⠼⠴⠀⠿ | <math><mrow><mi>r</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn><mtext>?</mtext></mrow></math> | <math><mo>(</mo><mi>f</mi><mo>⋅</mo><mi>g</mi><mo>)</mo><mo>-</mo><mo>(</mo><mo>-</mo><mn>1</mn><mo>)</mo></math>
+✗ | ⠅⠷⠴⠾⠸⠲ | <math><mrow><mi>k</mi><mo stretchy="false">(</mo><mn>0</mn><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | <math><mo>(</mo><mi>f</mi><mo>⋅</mo><mi>g</mi><mo>)</mo><mo>=</mo><mn>4</mn></math>
+✗ | ⠎⠷⠂⠾ | <math><mrow><mi>s</mi><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></math> | <math><mi>P</mi><mo>(</mo><mi>r</mi><mo>)</mo></math>
+✗ | ⠎⠷⠭⠾ | <math><mrow><mi>s</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></math> | I can’t reliably decode the Nemeth braille from those Unicode braille characters as given. Could you (choose one): 1) confirm these are Nemeth (not UEB) and that no formatting was lost when copying, or 2) provide the math in ASCII/LaTeX/plain text, or 3) provide an image/PDF of the original braille? Once I have a clear encoding I will translate each item to MathML.
+✗ | ⠼⠒⠭⠤⠲⠽⠀⠨⠅⠀⠼⠶⠀⠿ | <math><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>7</mn><mtext>?</mtext></mrow></math> | I can't reliably translate these Nemeth braille sequences without confirming the braille-to-symbol mapping you expect (Nemeth has many context-dependent indicators). Could you confirm:
+- Are these standard Nemeth braille sequences (not literary Braille)?
+- Do you want inline MathML for each item individually?
+- If possible, provide a key for any nonstandard indicators you used (e.g., which cells denote parentheses, equals, superscript indicator, number format), or supply the ASCII Nemeth transcription.
+
+Once you confirm, I'll produce the required MathML outputs exactly as requested.
+✗ | ⠭⠀⠨⠅⠀⠤⠼⠆⠀⠿ | <math><mrow><mi>x</mi><mo>=</mo><mo>−</mo><mn>2</mn><mtext>?</mtext></mrow></math> | I can translate these, but I need one clarification before proceeding: several Nemeth punctuation/indicator cells in your input can be interpreted in more than one way (e.g., ⠼, ⠹, ⠼ as number/fraction indicators; ⠨⠅ as “=”; ⠡ or ⠨⠡ as composition or multiplication; ⠰ as dot/derivative; the braille cells used for digits inside parentheses such as ⠂, ⠲, ⠒, etc.). Please confirm or correct the intended mapping for the following tokens (or give a short legend of your encoding):
+
+- ⠷ = left parenthesis, ⠾ = right parenthesis (confirm)
+- ⠹ = fraction start, ⠌ = fraction slash, ⠼ = fraction end (confirm)
+- ⠨⠅ = equals sign “=” (confirm)
+- ⠡ (or ⠨⠡) = function composition “∘” (or should it be multiplication “·”?) — which do you intend?
+- ⠰ before a letter = dot over the letter (time derivative), e.g., ⠰⠎ = ṡ (confirm)
+- How are digits encoded (give mapping of the braille cells you used to the digits 0–9). Example: does ⠂ represent “1”, ⠲ represent “2”, ⠒ represent “3”, etc., or should I treat numbers as conventional Nemeth (⠼ + a–j = 1–0)?
+- Any other special symbols (⠸, ⠢, ⠨⠢, etc.) used in your inputs that should map to superscripts, degree symbol, decimal point, or punctuation?
+
+If you confirm these mappings (or provide a legend), I will produce the 20 MathML outputs exactly as requested.
+✗ | ⠟⠷⠭⠾⠀⠨⠅⠀⠤⠼⠒⠭⠘⠆⠐⠬⠢⠭⠤⠶ | <math><mrow><mi>q</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mo>−</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>7</mn></mrow></math> | I can translate these, but I need clarification on several Nemeth-specific symbols used in your input (so I map them correctly to MathML). Which Math meaning do you intend for each of these braille symbols (give the math symbol or a short description for each): ⠹, ⠨ (when used before a letter), ⠸, ⠲, ⠠, ⠂, ⠜, ⠆, ⠻ ? Also confirm that ⠷ = '(' , ⠾ = ')' , ⠌ = fraction bar and ⠼ introduces numbers.
+✗ | ⠎⠷⠭⠾⠀⠨⠅⠀⠼⠢⠭ | <math><mrow><mi>s</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>5</mn><mi>x</mi></mrow></math> | I can translate these, but I need one clarification first: in your inputs is the braille Greek indicator ⠰ meant to produce the corresponding Greek letter (e.g., ⠰⠁ → α, ⠰⠃ → β, ⠰⠝ → ν)? Also confirm that ⠨⠅ should be translated as the equals sign (=). Once you confirm those mappings I will produce the MathML outputs for all 20 items.
+✗ | ⠍⠀⠨⠅⠀⠼⠢⠠ | <math><mrow><mi>m</mi><mo>=</mo><mn>5</mn><mtext>,</mtext></mrow></math> | <math><mi>x</mi><mo>-</mo><mi>k</mi><mo>.</mo></math>
+✗ | ⠰⠉⠠ | <math><mrow><mi>c</mi><mtext>,</mtext></mrow></math> | <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>
+✗ | ⠰⠺ | <math><mi>w</mi></math> | <math><mo>(</mo><mi>x</mi><mo>-</mo><mi>k</mi><mo>)</mo></math>
+✗ | ⠋⠷⠭⠾⠀⠨⠅⠀⠼⠒⠭⠘⠆⠐⠬⠲ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn></mrow></math> | <math><mo>(</mo><mi>x</mi><mo>-</mo><mi>c</mi><mo>)</mo></math>
+✗ | ⠋⠬⠛ | <math><mrow><mi>f</mi><mo>+</mo><mi>g</mi></mrow></math> | <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mfrac><mn>1</mn><mi>x</mi></mfrac></math>
+✗ | ⠋⠤⠛ | <math><mrow><mi>f</mi><mo>−</mo><mi>g</mi></mrow></math> | <math><mi>x</mi><mo>=</mo><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><mo>&#x2026;</mo><msub><mi>x</mi><mi>n</mi></msub></math>
+✗ | ⠋⠡⠛ | <math><mrow><mi>f</mi><mo>⋅</mo><mi>g</mi></mrow></math> | <math><msub><mi>x</mi><mi>i</mi></msub><mo>=</mo><mi>any</mi><msub><mi>v</mi><mi>j</mi></msub></math>
+✗ | ⠹⠋⠌⠛⠼ | <math><mfrac><mi>f</mi><mi>g</mi></mfrac></math> | <math><msup><mi>f</mi><mn>-1</mn></msup></math>
+✗ | ⠛⠷⠭⠾⠀⠌⠨⠅⠀⠼⠴⠸⠲ | <math><mrow><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>≠</mo><mn>0</mn><mtext>.</mtext></mrow></math> | <math><mrow><mo>_</mo><mi>f</mi></mrow></math>
+✗ | ⠷⠒⠠⠀⠤⠴⠨⠢⠾ | <math><mrow><mo stretchy="false">(</mo><mn>3</mn><mo>,</mo><mo>−</mo><mn>0.5</mn><mo stretchy="false">)</mo></mrow></math> | <math><msub><mi>a</mi><mi>x</mi></msub></math>
+✗ | ⠷⠤⠂⠠⠀⠒⠾ | <math><mrow><mo stretchy="false">(</mo><mo>−</mo><mn>1</mn><mo>,</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></math> | <math><msub><mi>a</mi><mi>x</mi></msub></math>
+✗ | ⠷⠋⠬⠛⠾⠷⠴⠾⠸⠲ | <math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>+</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>0</mn><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mrow><mo>(</mo><mi>...</mi><mo>)</mo></mrow></math>
+✗ | ⠷⠋⠡⠛⠾⠷⠤⠂⠾⠸⠲ | <math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>⋅</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | <math><mo>(</mo><mi>y</mi><mo>)</mo><mo>=</mo><mn>4</mn><mo>,</mo><mi>a</mi><mi>s</mi><mi>x</mi><mi>o</mi><mo>--</mo><mo>∴</mo><mo>.</mo></math>
+✗ | ⠷⠋⠡⠛⠾⠷⠭⠾⠀⠨⠅⠀⠼⠴⠀⠿ | <math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>⋅</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn><mtext>?</mtext></mrow></math> | <math><mo>(</mo><mi>y</mi><mo>)</mo><mo>=</mo><mn>4</mn><mo>,</mo><mi>a</mi><mi>s</mi><mi>x</mi><mi>o</mi><mo>-</mo><mo>∴</mo><mo>.</mo></math>
+✗ | ⠠⠏⠷⠞⠾ | <math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></math> | <math><msup><mi>x</mi><mi>k</mi></msup><mi>a</mi></math>
+✗ | ⠠⠁⠠⠧⠰⠈⠷⠢⠪⠂⠂⠈⠾⠠ | <math><mrow><mi>A</mi><msub><mi>V</mi><mrow data-mjx-texclass="ORD"><mo stretchy="false">[</mo><mn>5</mn><mo>,</mo><mn>11</mn><mo stretchy="false">]</mo></mrow></msub><mtext>,</mtext></mrow></math> | <math><mi>x</mi><mo>=</mo><mi>a</mi></math>
+✗ | ⠼⠂⠂⠸⠲ | <math><mrow><mn>11</mn><mtext>.</mtext></mrow></math> | <math><mi>x</mi><mi>of</mi><mo>--</mo><mo>∴</mo></math>
+✗ | ⠰⠞⠠ | <math><mrow><mi>t</mi><mtext>,</mtext></mrow></math> | <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mi>of</mi><mo>--</mo><mo>∴</mo></math>
+✗ | ⠠⠎⠷⠞⠾ | <math><mrow><mi>S</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></math> | <math><mi>x</mi><mo>=</mo><mn>4.6</mn></math>
+✗ | ⠠⠧⠷⠞⠾⠠ | <math><mrow><mi>V</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math> | <math><mi>As</mi><mi>x</mi><mi>of</mi><mn>4</mn><mo>,</mo><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mi>of</mi><mo>∴</mo></math>
+
+#===========
+
+# Normalized MathML
+Match | Test Input | Expected | Computed
+✗ | ⠋⠷⠞⠾⠀⠨⠅⠀⠁⠃⠘⠞ | <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>b</mi> <mi>t</mi> </msup> </mrow> </mrow> </math> | <math> <mrow> <mi>s</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </math>
+✗ | ⠛⠷⠞⠾⠀⠨⠅⠀⠁⠃⠘⠞⠐⠬⠉ | <math> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>b</mi> <mi>t</mi> </msup> </mrow> <mo>+</mo> <mi>c</mi> </mrow> </mrow> </math> | <math> <mrow> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>6</mn> </mrow> </math>
+✗ | ⠼⠂⠴ | <math> <mn>10</mn> </math> | <math> <mrow> <mi>x</mi> <mo>=</mo> <mrow> <mo>-</mo> <mn>6</mn> </mrow> </mrow> </math>
+✗ | ⠼⠆⠬⠒⠀⠨⠅⠀⠼⠢⠸⠒ | <math> <mrow> <mrow> <mrow> <mn>2</mn> <mo>+</mo> <mn>3</mn> </mrow> <mo>=</mo> <mn>5</mn> </mrow> <mo>:</mo> </mrow> </math> | <math> <mrow> <mrow> <mi>q</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mo>⁢</mo> <msup> <mi>x</mi> <mn>3</mn> </msup> </mrow> <mo>+</mo> <mfrac> <mn>4</mn> <mi>x</mi> </mfrac> <mo>-</mo> <mn>6</mn> </mrow> </mrow> </math>
+✗ | ⠼⠆ | <math> <mn>2</mn> </math> | <math> <mrow> <mrow> <mi>s</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </math>
+✗ | ⠼⠆⠡⠒⠀⠨⠅⠀⠼⠖⠸⠲ | <math> <mrow> <mrow> <mrow> <mn>2</mn> <mo>⋅</mo> <mn>3</mn> </mrow> <mo>=</mo> <mn>6</mn> </mrow> <mo>.</mo> </mrow> </math> | <math> <mrow> <mi>m</mi> <mo>=</mo> <mn>2</mn> </mrow> </math>
+✗ | ⠰⠋⠸⠒⠀⠠⠃⠀⠫⠕⠀⠠⠉⠠ | <math> <mrow> <mrow> <mi>f</mi> <mo>:</mo> <mrow> <mi>B</mi> <mo>→</mo> <mi>C</mi> </mrow> </mrow> <mo>,</mo> </mrow> </math> | <math> <mi>C</mi> </math>
+✗ | ⠷⠋⠨⠡⠛⠾⠷⠭⠾⠀⠨⠅⠀⠋⠷⠛⠷⠭⠾⠾⠸⠲ | <math> <mrow> <mrow> <mrow> <mrow> <mo>(</mo> <mrow> <mi>f</mi> <mo>∘</mo> <mi>g</mi> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> <mo>.</mo> </mrow> </math> | <math> <mi>W</mi> </math>
+✗ | ⠰⠛ | <math> <mi>g</mi> </math> | <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>3</mn> </msup> </mrow> </mrow> </math>
+✗ | ⠰⠋ | <math> <mi>f</mi> </math> | <math> <mrow> <mi>f</mi> <mo>∘</mo> <mi>g</mi> </mrow> </math>
+✗ | ⠰⠟ | <math> <mi>q</mi> </math> | <math> <mrow> <mi>f</mi> <mo>-</mo> <mi>g</mi> </mrow> </math>
+✗ | ⠰⠟⠠ | <math> <mrow> <mi>q</mi> <mo>,</mo> </mrow> </math> | <math> <mrow> <mi>f</mi> <mo>⋅</mo> <mi>g</mi> </mrow> </math>
+✗ | ⠰⠏⠸⠲ | <math> <mrow> <mi>p</mi> <mo>.</mo> </mrow> </math> | <math> <mrow> <msup> <mi>f</mi> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </msup> <mo>/</mo> <mi>g</mi> </mrow> </math>
+✗ | ⠋⠷⠭⠾ | <math> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </math> | <math> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mn>4</mn> </mrow> </math>
+✗ | ⠰⠛⠸⠲ | <math> <mrow> <mi>g</mi> <mo>.</mo> </mrow> </math> | <math> <mrow> <mrow> <mo>(</mo> <mn>2</mn> <mo>)</mo> </mrow> <mo>-</mo> <mn>4</mn> </mrow> </math>
+✗ | ⠓⠷⠭⠾⠀⠨⠅⠀⠋⠷⠭⠾⠬⠛⠷⠭⠾⠸⠲ | <math> <mrow> <mrow> <mrow> <mi>h</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>+</mo> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </mrow> </mrow> <mo>.</mo> </mrow> </math> | <math> <mrow> <mrow> <mo>(</mo> <mrow> <mo>-</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> <mo>⋅</mo> <mn>2</mn> </mrow> </math>
+✗ | ⠗⠷⠭⠾⠀⠨⠅⠀⠏⠷⠭⠾⠤⠟⠷⠭⠾⠸⠲ | <math> <mrow> <mrow> <mrow> <mi>r</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mi>p</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>-</mo> <mrow> <mi>q</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </mrow> </mrow> <mo>.</mo> </mrow> </math> | <math> <mrow> <mrow> <mo>(</mo> <mrow> <mi>f</mi> <mo>⋅</mo> <mi>g</mi> </mrow> <mo>)</mo> </mrow> <mo>+</mo> <mn>4</mn> </mrow> </math>
+✗ | ⠗⠷⠭⠾⠀⠨⠅⠀⠼⠴⠀⠿ | <math> <mrow> <mrow> <mrow> <mi>r</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mn>0</mn> </mrow> <mo>?</mo> </mrow> </math> | <math> <mrow> <mrow> <mo>(</mo> <mrow> <mi>f</mi> <mo>⋅</mo> <mi>g</mi> </mrow> <mo>)</mo> </mrow> <mo>-</mo> <mrow> <mo>(</mo> <mrow> <mo>-</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> </math>
+✗ | ⠅⠷⠴⠾⠸⠲ | <math> <mrow> <mrow> <mi>k</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mn>0</mn> <mo>)</mo> </mrow> </mrow> <mo>.</mo> </mrow> </math> | <math> <mrow> <mrow> <mo>(</mo> <mrow> <mi>f</mi> <mo>⋅</mo> <mi>g</mi> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mn>4</mn> </mrow> </math>
+✗ | ⠎⠷⠂⠾ | <math> <mrow> <mi>s</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mn>1</mn> <mo>)</mo> </mrow> </mrow> </math> | <math> <mrow> <mi>P</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>r</mi> <mo>)</mo> </mrow> </mrow> </math>
+✗ | ⠎⠷⠭⠾ | <math><mrow><mi>s</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></math> | <--bad MathML-->I can’t reliably decode the Nemeth braille from those Unicode braille characters as given. Could you (choose one): 1) confirm these are Nemeth (not UEB) and that no formatting was lost when copying, or 2) provide the math in ASCII/LaTeX/plain text, or 3) provide an image/PDF of the original braille? Once I have a clear encoding I will translate each item to MathML.
+✗ | ⠼⠒⠭⠤⠲⠽⠀⠨⠅⠀⠼⠶⠀⠿ | <math><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>7</mn><mtext>?</mtext></mrow></math> | <--bad MathML-->I can't reliably translate these Nemeth braille sequences without confirming the braille-to-symbol mapping you expect (Nemeth has many context-dependent indicators). Could you confirm:
+- Are these standard Nemeth braille sequences (not literary Braille)?
+- Do you want inline MathML for each item individually?
+- If possible, provide a key for any nonstandard indicators you used (e.g., which cells denote parentheses, equals, superscript indicator, number format), or supply the ASCII Nemeth transcription.
+
+Once you confirm, I'll produce the required MathML outputs exactly as requested.
+✗ | ⠭⠀⠨⠅⠀⠤⠼⠆⠀⠿ | <math><mrow><mi>x</mi><mo>=</mo><mo>−</mo><mn>2</mn><mtext>?</mtext></mrow></math> | <--bad MathML-->I can translate these, but I need one clarification before proceeding: several Nemeth punctuation/indicator cells in your input can be interpreted in more than one way (e.g., ⠼, ⠹, ⠼ as number/fraction indicators; ⠨⠅ as “=”; ⠡ or ⠨⠡ as composition or multiplication; ⠰ as dot/derivative; the braille cells used for digits inside parentheses such as ⠂, ⠲, ⠒, etc.). Please confirm or correct the intended mapping for the following tokens (or give a short legend of your encoding):
+
+- ⠷ = left parenthesis, ⠾ = right parenthesis (confirm)
+- ⠹ = fraction start, ⠌ = fraction slash, ⠼ = fraction end (confirm)
+- ⠨⠅ = equals sign “=” (confirm)
+- ⠡ (or ⠨⠡) = function composition “∘” (or should it be multiplication “·”?) — which do you intend?
+- ⠰ before a letter = dot over the letter (time derivative), e.g., ⠰⠎ = ṡ (confirm)
+- How are digits encoded (give mapping of the braille cells you used to the digits 0–9). Example: does ⠂ represent “1”, ⠲ represent “2”, ⠒ represent “3”, etc., or should I treat numbers as conventional Nemeth (⠼ + a–j = 1–0)?
+- Any other special symbols (⠸, ⠢, ⠨⠢, etc.) used in your inputs that should map to superscripts, degree symbol, decimal point, or punctuation?
+
+If you confirm these mappings (or provide a legend), I will produce the 20 MathML outputs exactly as requested.
+✗ | ⠟⠷⠭⠾⠀⠨⠅⠀⠤⠼⠒⠭⠘⠆⠐⠬⠢⠭⠤⠶ | <math><mrow><mi>q</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mo>−</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>7</mn></mrow></math> | <--bad MathML-->I can translate these, but I need clarification on several Nemeth-specific symbols used in your input (so I map them correctly to MathML). Which Math meaning do you intend for each of these braille symbols (give the math symbol or a short description for each): ⠹, ⠨ (when used before a letter), ⠸, ⠲, ⠠, ⠂, ⠜, ⠆, ⠻ ? Also confirm that ⠷ = '(' , ⠾ = ')' , ⠌ = fraction bar and ⠼ introduces numbers.
+✗ | ⠎⠷⠭⠾⠀⠨⠅⠀⠼⠢⠭ | <math><mrow><mi>s</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>5</mn><mi>x</mi></mrow></math> | <--bad MathML-->I can translate these, but I need one clarification first: in your inputs is the braille Greek indicator ⠰ meant to produce the corresponding Greek letter (e.g., ⠰⠁ → α, ⠰⠃ → β, ⠰⠝ → ν)? Also confirm that ⠨⠅ should be translated as the equals sign (=). Once you confirm those mappings I will produce the MathML outputs for all 20 items.
+✗ | ⠍⠀⠨⠅⠀⠼⠢⠠ | <math> <mrow> <mrow> <mi>m</mi> <mo>=</mo> <mn>5</mn> </mrow> <mo>,</mo> </mrow> </math> | <math> <mrow> <mrow> <mi>x</mi> <mo>-</mo> <mi>k</mi> </mrow> <mo>.</mo> </mrow> </math>
+✗ | ⠰⠉⠠ | <math> <mrow> <mi>c</mi> <mo>,</mo> </mrow> </math> | <math> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </math>
+✗ | ⠰⠺ | <math> <mi>w</mi> </math> | <math> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mi>k</mi> </mrow> <mo>)</mo> </mrow> </math>
+✗ | ⠋⠷⠭⠾⠀⠨⠅⠀⠼⠒⠭⠘⠆⠐⠬⠲ | <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mn>4</mn> </mrow> </mrow> </math> | <math> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mi>c</mi> </mrow> <mo>)</mo> </mrow> </math>
+✗ | ⠋⠬⠛ | <math> <mrow> <mi>f</mi> <mo>+</mo> <mi>g</mi> </mrow> </math> | <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mfrac> <mn>1</mn> <mi>x</mi> </mfrac> </mrow> </math>
+✗ | ⠋⠤⠛ | <math> <mrow> <mi>f</mi> <mo>-</mo> <mi>g</mi> </mrow> </math> | <math> <mrow> <mrow> <mi>x</mi> <mo>=</mo> <msub> <mi>x</mi> <mn>1</mn> </msub> </mrow> <mo>,</mo> <msub> <mi>x</mi> <mn>2</mn> </msub> <mo>,</mo> <mrow> <mi>…</mi> <mo>⁢</mo> <msub> <mi>x</mi> <mi>n</mi> </msub> </mrow> </mrow> </math>
+✗ | ⠋⠡⠛ | <math> <mrow> <mi>f</mi> <mo>⋅</mo> <mi>g</mi> </mrow> </math> | <math> <mrow> <msub> <mi>x</mi> <mi>i</mi> </msub> <mo>=</mo> <mrow> <mi>any</mi> <mo>⁢</mo> <msub> <mi>v</mi> <mi>j</mi> </msub> </mrow> </mrow> </math>
+✗ | ⠹⠋⠌⠛⠼ | <math> <mfrac> <mi>f</mi> <mi>g</mi> </mfrac> </math> | <math> <msup> <mi>f</mi> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </msup> </math>
+✗ | ⠛⠷⠭⠾⠀⠌⠨⠅⠀⠼⠴⠸⠲ | <math> <mrow> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>≠</mo> <mn>0</mn> </mrow> <mo>.</mo> </mrow> </math> | <math> <mrow> <mo>_</mo> <mi>f</mi> </mrow> </math>
+✗ | ⠷⠒⠠⠀⠤⠴⠨⠢⠾ | <math> <mrow> <mo>(</mo> <mrow> <mn>3</mn> <mo>,</mo> <mrow> <mo>-</mo> <mn>0.5</mn> </mrow> </mrow> <mo>)</mo> </mrow> </math> | <math> <msub> <mi>a</mi> <mi>x</mi> </msub> </math>
+✗ | ⠷⠤⠂⠠⠀⠒⠾ | <math> <mrow> <mo>(</mo> <mrow> <mrow> <mo>-</mo> <mn>1</mn> </mrow> <mo>,</mo> <mn>3</mn> </mrow> <mo>)</mo> </mrow> </math> | <math> <msub> <mi>a</mi> <mi>x</mi> </msub> </math>
+✗ | ⠷⠋⠬⠛⠾⠷⠴⠾⠸⠲ | <math> <mrow> <mrow> <mrow> <mo>(</mo> <mrow> <mi>f</mi> <mo>+</mo> <mi>g</mi> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mn>0</mn> <mo>)</mo> </mrow> </mrow> <mo>.</mo> </mrow> </math> | <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mo>(</mo> <mi>…</mi> <mo>)</mo> </mrow> </mrow> </math>
+✗ | ⠷⠋⠡⠛⠾⠷⠤⠂⠾⠸⠲ | <math> <mrow> <mrow> <mrow> <mo>(</mo> <mrow> <mi>f</mi> <mo>⋅</mo> <mi>g</mi> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mo>-</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mo>.</mo> </mrow> </math> | <math> <mrow> <mrow> <mrow> <mo>(</mo> <mi>y</mi> <mo>)</mo> </mrow> <mo>=</mo> <mn>4</mn> </mrow> <mo>,</mo> <mrow> <mrow> <mi>asxo</mi> <mo>--</mo> </mrow> <mo>∴</mo> <mo>.</mo> </mrow> </mrow> </math>
+✗ | ⠷⠋⠡⠛⠾⠷⠭⠾⠀⠨⠅⠀⠼⠴⠀⠿ | <math> <mrow> <mrow> <mrow> <mrow> <mo>(</mo> <mrow> <mi>f</mi> <mo>⋅</mo> <mi>g</mi> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mn>0</mn> </mrow> <mo>?</mo> </mrow> </math> | <math> <mrow> <mrow> <mrow> <mo>(</mo> <mi>y</mi> <mo>)</mo> </mrow> <mo>=</mo> <mn>4</mn> </mrow> <mo>,</mo> <mrow> <mrow> <mi>asxo</mi> <mo>-</mo> </mrow> <mo>∴</mo> <mo>.</mo> </mrow> </mrow> </math>
+✗ | ⠠⠏⠷⠞⠾ | <math> <mrow> <mi>P</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> </math> | <math> <mrow> <msup> <mi>x</mi> <mi>k</mi> </msup> <mo>⁢</mo> <mi>a</mi> </mrow> </math>
+✗ | ⠠⠁⠠⠧⠰⠈⠷⠢⠪⠂⠂⠈⠾⠠ | <math> <mrow> <mrow> <mi>A</mi> <mo>⁢</mo> <msub> <mi>V</mi> <mrow> <mo>[</mo> <mrow> <mn>5</mn> <mo>,</mo> <mn>11</mn> </mrow> <mo>]</mo> </mrow> </msub> </mrow> <mo>,</mo> </mrow> </math> | <math> <mrow> <mi>x</mi> <mo>=</mo> <mi>a</mi> </mrow> </math>
+✗ | ⠼⠂⠂⠸⠲ | <math> <mrow> <mn>11</mn> <mo>.</mo> </mrow> </math> | <math> <mrow> <mrow> <mi>x</mi> <mo>⁢</mo> <mrow> <mi>of</mi> <mo>--</mo> </mrow> </mrow> <mo>∴</mo> </mrow> </math>
+✗ | ⠰⠞⠠ | <math> <mrow> <mi>t</mi> <mo>,</mo> </mrow> </math> | <math> <mrow> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>⁢</mo> <mrow> <mi>of</mi> <mo>--</mo> </mrow> </mrow> <mo>∴</mo> </mrow> </math>
+✗ | ⠠⠎⠷⠞⠾ | <math> <mrow> <mi>S</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> </math> | <math> <mrow> <mi>x</mi> <mo>=</mo> <mn>4.6</mn> </mrow> </math>
+✗ | ⠠⠧⠷⠞⠾⠠ | <math> <mrow> <mrow> <mi>V</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>,</mo> </mrow> </math> | <math> <mrow> <mrow> <mi>As</mi> <mo>⁢</mo> <mi>x</mi> <mo>⁢</mo> <mi>of</mi> <mo>⁢</mo> <mn>4</mn> </mrow> <mo>,</mo> <mrow> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>⁢</mo> <mi>of</mi> </mrow> <mo>∴</mo> </mrow> </mrow> </math>
+# Matches: 0 out of 45: 0%.
