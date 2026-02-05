@@ -576,7 +576,7 @@
   match:
   - "count(*) = count(*[1]/*) and "
   - "not( */*/*[not(self::m:mn and .= 0)]"
-  - "          [count(../preceding-sibling::*)!=count(../../preceding-sibling::*) or not(self::m:mn and .=1)]"
+  - "          [count(../preceding-sibling::*)!=count(../../preceding-sibling::*) or .!= 1]"
   - "    )"
   replace:
   - T: "die"      # phrase('the' 1 by 2 matrix M)

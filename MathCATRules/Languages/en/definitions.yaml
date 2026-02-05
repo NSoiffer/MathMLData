@@ -1,25 +1,13 @@
 ---
 - include: "../../definitions.yaml"
 
-# "IntentMappings" can be used as a default quick method for specifying speech for simple speech -- any rules will be used first
-# The method can handle speech for different fixities (prefix, infix, postfix, function), and different verbosity levels (terse, medium, verbose).
 # If an "intent" is used, the 'terse:medium:verbose' speech for the intent name is given here for a prefix||infix||postfix||function fixity
-#
-# One or more fixities can be given. There are multiple fixities, they are separated by "||"
-#   For a fixity, the form is 'fixity= speech', where 'fixity' is one of "silent", "prefix", "infix", "postfix", or "function"
-# The "speech" part can have up to three parts, separated by ":"s, for 'terse:medium:verbose' speech.
-#   If there is no ":", the same speech is used for all verbosity levels
-#   If there is 1 ":", the first part is used for 'terse', and the second part is used for 'medium' and 'verbose'
-#   If there are 2 ":"s, the first part is used for 'terse', the second for 'medium', and the third for 'verbose'
-# For speech, the word is used according to the fixity as follows:
-#   silent=     no speech is produced
-#   prefix=     'speech' is said before the argument(s)
-#   infix=     'speech' is said between the arguments
-#   postfix=   'speech' is said after the argument(s)
-#   function=  'speech' is said before the argument(s), with "of" added as appropriate
-# If bracketing words make sense, they are separated with ";"s. See "binomial" below for an example.
-#
-# For readability, spaces can be used around any of the delimiter characters
+# If only one ":" is used, the first part is used for 'terse' and the second part is used for 'medium' and 'verbose'
+# If no ":"s are used, the same speech is used for all forms
+# If bracketing words make sense, they are separated with ";"s
+# Intent mappings must specify whether they are "prefix", "infix", "postfix", or "function" with an "=" sign
+# If there are multiple fixities (e.g., see transpose), they are separated with "||"
+#   for readability, spaces can be used around any of the delimiter characters
 # Note: if there are multiple fixities, the first one is used if the fixity is not given in the intent
 - IntentMappings: {
     "indexed-by": "infix= ; sub; end sub: end sub: end subscript",

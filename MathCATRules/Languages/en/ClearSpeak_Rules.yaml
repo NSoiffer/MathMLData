@@ -688,9 +688,11 @@
     - else_if: "not(contains(@data-intent-property, ':continued-row:'))"
       then: [pause: medium]
   - test:
-      if: "self::m:mlabeledtr"
-      then: [x: "*[position()>1]"]
-      else: [x: "*"]
+      if: "*"   # check for content
+      then_test:
+          if: "self::m:mlabeledtr"
+          then: [x: "*[position()>1]"]
+          else: [x: "*"]
 
 - name: ClearSpeak_Functions_None
   tag: mo
