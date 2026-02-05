@@ -13,12 +13,10 @@
 <math><mrow><mi>h</mi><mo>∈</mo><mi>H</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>G</mi><mtext>,</mtext></mrow></math>
 <math><mrow><mi>H</mi><mi>K</mi><mo>:=</mo><mo fence="false" stretchy="false">{</mo><mi>h</mi><mi>k</mi><mo>∣</mo><mi>h</mi><mo>∈</mo><mi>H</mi><mo>,</mo><mi>k</mi><mo>∈</mo><mi>K</mi><mo fence="false" stretchy="false">}</mo></mrow></math>
-<math><mrow><mi>G</mi><mo>,</mo></mrow></math>
 <math><mrow><mi>H</mi><mi>K</mi></mrow></math>
 <math><mrow><mi>K</mi><mi>H</mi></mrow></math>
 <math><mrow><msub><mi>N</mi><mi>G</mi></msub><mo stretchy="false">(</mo><mi>K</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
 <math><mrow><mi>H</mi><mi>K</mi><mo>=</mo><mi>K</mi><mi>H</mi></mrow></math>
-<math><mrow><mi>K</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>h</mi><mo>∈</mo><mi>H</mi><mo>,</mo><mi>k</mi><mo>∈</mo><mi>K</mi><mtext>,</mtext></mrow></math>
 <math><mrow><msup><mi>h</mi><mi data-mjx-alternate="1">′</mi></msup><mo>∈</mo><mi>H</mi><mo>,</mo><msup><mi>k</mi><mi data-mjx-alternate="1">′</mi></msup><mo>∈</mo><mi>K</mi></mrow></math>
 <math><mrow><mi>h</mi><mi>k</mi><mo>=</mo><msup><mi>k</mi><mi data-mjx-alternate="1">′</mi></msup><msup><mi>h</mi><mi data-mjx-alternate="1">′</mi></msup><mo>.</mo></mrow></math>
@@ -47,7 +45,6 @@
 <math><mi>I</mi></math>
 <math><mrow><mi>J</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mi>I</mi><mo>+</mo><mi>J</mi></mrow></math>
-<math><mrow><mi>J</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>I</mi><mi>J</mi><mtext>,</mtext></mrow></math>
 <math><mrow><mi>i</mi><mi>j</mi></mrow></math>
 <math><mrow><mi>i</mi><mo>∈</mo><mi>I</mi></mrow></math>
@@ -162,7 +159,6 @@
 <math><mrow><mi>M</mi><mo>∣</mo><mi>N</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mo stretchy="false">|</mo><mi>σ</mi><mo stretchy="false">|</mo><mo>=</mo><mi>M</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mi>σ</mi><mo>=</mo><msub><mi>σ</mi><mn>1</mn></msub><mo>⋯</mo><msub><mi>σ</mi><mi>r</mi></msub><mtext>,</mtext></mrow></math>
-<math><mrow><mi>n</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>σ</mi><mo>=</mo><msub><mi>σ</mi><mn>1</mn></msub><mo>⋯</mo><msub><mi>σ</mi><mi>r</mi></msub></mrow></math>
 <math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>≥</mo><mo>⋯</mo><mo>≥</mo><msub><mi>a</mi><mi>r</mi></msub><mo>≥</mo><mn>1</mn><mtext>,</mtext></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><msub><mi>a</mi><mn>1</mn></msub><mo>,</mo><mo>…</mo><mo>,</mo><msub><mi>a</mi><mi>r</mi></msub><mo stretchy="false">)</mo></mrow></math>
@@ -172,7 +168,6 @@
 <math><mrow><mi>ℓ</mi><mo>=</mo><mi>σ</mi><mo stretchy="false">(</mo><msub><mi>a</mi><mi>i</mi></msub><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>i</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mi>k</mi><mtext>,</mtext></mrow></math>
-<math><mrow><mi>σ</mi><mi>τ</mi><msup><mi>σ</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mo>=</mo><mo stretchy="false">(</mo><mi>σ</mi><mo stretchy="false">(</mo><msub><mi>a</mi><mn>1</mn></msub><mo stretchy="false">)</mo><mspace width="0.167em"></mspace><mi>σ</mi><mo stretchy="false">(</mo><msub><mi>a</mi><mn>2</mn></msub><mo stretchy="false">)</mo><mspace width="0.167em"></mspace><mo>⋯</mo><mspace width="0.167em"></mspace><mi>σ</mi><mo stretchy="false">(</mo><msub><mi>a</mi><mi>k</mi></msub><mo stretchy="false">)</mo><mo stretchy="false">)</mo><mo>,</mo></mrow></math>
 <math><mrow><mi>σ</mi><mi>τ</mi><msup><mi>σ</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup></mrow></math>
 <math><mrow><mi>ℓ</mi><mo>≠</mo><mi>σ</mi><mo stretchy="false">(</mo><msub><mi>a</mi><mi>i</mi></msub><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><msup><mi>σ</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mo stretchy="false">(</mo><mi>ℓ</mi><mo stretchy="false">)</mo><mo>≠</mo><msub><mi>a</mi><mi>i</mi></msub></mrow></math>
@@ -183,7 +178,6 @@
 <math><mrow><mi>τ</mi><mo>,</mo><msup><mi>τ</mi><mo data-mjx-alternate="1">′</mo></msup><mo>∈</mo><msub><mi>S</mi><mi>n</mi></msub></mrow></math>
 <math><mrow><mi>k</mi><mo>.</mo></mrow></math>
 <math><mrow><msup><mi>τ</mi><mo data-mjx-alternate="1">′</mo></msup><mo>=</mo><mi>σ</mi><mi>τ</mi><msup><mi>σ</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mo>.</mo></mrow></math>
-<math><mrow><mi>τ</mi><mo>=</mo><mo stretchy="false">(</mo><msub><mi>a</mi><mn>1</mn></msub><mspace width="0.167em"></mspace><msub><mi>a</mi><mn>2</mn></msub><mspace width="0.167em"></mspace><mo>⋯</mo><mspace width="0.167em"></mspace><msub><mi>a</mi><mi>k</mi></msub><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>μ</mi><mo>=</mo><mo stretchy="false">(</mo><msub><mi>b</mi><mn>1</mn></msub><mspace width="0.167em"></mspace><msub><mi>b</mi><mn>2</mn></msub><mspace width="0.167em"></mspace><mo>⋯</mo><mspace width="0.167em"></mspace><msub><mi>b</mi><mi>k</mi></msub><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math>
 <math><mrow><msub><mi>a</mi><mi>i</mi></msub><mo stretchy="false">↦</mo><msub><mi>b</mi><mi>i</mi></msub></mrow></math>
 <math><mrow><mi>σ</mi><mo>=</mo><msub><mi>σ</mi><mn>1</mn></msub><mo>⋯</mo><msub><mi>σ</mi><mi>r</mi></msub><mtext> with </mtext><msub><mi>m</mi><mi>i</mi></msub><mo>=</mo><mo stretchy="false">|</mo><msub><mi>σ</mi><mi>i</mi></msub><mo stretchy="false">|</mo><mo>.</mo></mrow></math>
@@ -262,7 +256,6 @@
 <math><mrow><mi mathvariant="double-struck">Q</mi><mo stretchy="false">(</mo><msqrt><mn>2</mn></msqrt><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi mathvariant="double-struck">Q</mi><mo stretchy="false">(</mo><mroot><mn>10</mn><mn>7</mn></mroot><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
 <math><mrow><mi>p</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><msup><mi>x</mi><mn>7</mn></msup><mo>+</mo><mn>12</mn><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow></math>
-<math><mrow><mi mathvariant="double-struck">Q</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mtext>,</mtext></mrow></math>
 <math><mrow><mi mathvariant="double-struck">Q</mi><mo stretchy="false">(</mo><mi>α</mi><mo stretchy="false">)</mo><mo>,</mo></mrow></math>
 <math><mi>α</mi></math>
 <math><mrow><mi>F</mi><mo stretchy="false">[</mo><mi>α</mi><mo stretchy="false">]</mo></mrow></math>
@@ -307,7 +300,6 @@
 <math><mrow><msub><mi>n</mi><mi>p</mi></msub><mo>≡</mo><mn>1</mn><mspace width="0.444em"></mspace><mo stretchy="false">(</mo><mi>mod</mi><mspace width="0.333em"></mspace><mi>p</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><msub><mi>n</mi><mi>p</mi></msub><mo>∣</mo><msub><mi>n</mi><mn>0</mn></msub><mo>=</mo><mo stretchy="false">|</mo><mi>G</mi><mo stretchy="false">|</mo><mo>/</mo><msup><mi>p</mi><mi>k</mi></msup><mtext>.</mtext></mrow></math>
 <math><mrow><mo stretchy="false">|</mo><mi>G</mi><mo stretchy="false">|</mo><mtext>,</mtext></mrow></math>
-<math><mrow><mi>G</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>P</mi><mo>∈</mo><mi>X</mi><mtext>,</mtext></mrow></math>
 <math><mrow><mi>x</mi><mo stretchy="false">↦</mo><mi>g</mi><mi>x</mi><msup><mi>g</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup></mrow></math>
 <math><mrow><mi>g</mi><mi>P</mi><msup><mi>g</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup></mrow></math>
@@ -315,7 +307,6 @@
 <math><mrow><mi>X</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>P</mi><mo>∈</mo><mi>X</mi></mrow></math>
 <math><mrow><mi>G</mi><mo>⋅</mo><mi>P</mi><mo>=</mo><mi>X</mi><mtext>;</mtext></mrow></math>
-<math><mrow><mi>X</mi><mtext>.</mtext></mrow></math>
 <math><mrow><msub><mi>n</mi><mi>p</mi></msub><mo>=</mo><mo stretchy="false">|</mo><mi>X</mi><mo stretchy="false">|</mo><mo>=</mo><mo stretchy="false">|</mo><mi>G</mi><mo>⋅</mo><mi>P</mi><mo stretchy="false">|</mo><mo>=</mo><mo stretchy="false">[</mo><mi>G</mi><mo>:</mo><msub><mi>N</mi><mi>G</mi></msub><mo stretchy="false">(</mo><mi>P</mi><mo stretchy="false">)</mo><mo stretchy="false">]</mo><mtext>,</mtext></mrow></math>
 <math><mrow><mi>P</mi><mo>≤</mo><msub><mi>N</mi><mi>G</mi></msub><mo stretchy="false">(</mo><mi>P</mi><mo stretchy="false">)</mo><mo>≤</mo><mi>G</mi></mrow></math>
 <math><mrow><msub><mi>n</mi><mn>0</mn></msub><mo>=</mo><mfrac><mrow><mo stretchy="false">|</mo><mi>G</mi><mo stretchy="false">|</mo></mrow><mrow><mo stretchy="false">|</mo><mi>P</mi><mo stretchy="false">|</mo></mrow></mfrac><mo>=</mo><mo stretchy="false">[</mo><mi>G</mi><mo>:</mo><mi>P</mi><mo stretchy="false">]</mo><mo>=</mo><mo stretchy="false">[</mo><mi>G</mi><mo>:</mo><msub><mi>N</mi><mi>G</mi></msub><mo stretchy="false">(</mo><mi>P</mi><mo stretchy="false">)</mo><mo stretchy="false">]</mo><mo stretchy="false">[</mo><msub><mi>N</mi><mi>G</mi></msub><mo stretchy="false">(</mo><mi>P</mi><mo stretchy="false">)</mo><mo>:</mo><mi>P</mi><mo stretchy="false">]</mo><mo>=</mo><msub><mi>n</mi><mi>p</mi></msub><mo stretchy="false">[</mo><msub><mi>N</mi><mi>G</mi></msub><mo stretchy="false">(</mo><mi>P</mi><mo stretchy="false">)</mo><mo>:</mo><mi>P</mi><mo stretchy="false">]</mo><mtext>.</mtext></mrow></math>
@@ -350,7 +341,6 @@
 <math><mrow><mi>h</mi><mi>k</mi><mo>=</mo><mi>k</mi><mi>h</mi><mspace width="0.278em"></mspace><mo stretchy="false">⟺</mo><mspace width="0.278em"></mspace><msup><mi>h</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><msup><mi>k</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mi>h</mi><mi>k</mi><mo>=</mo><mi>e</mi><mo>,</mo></mrow></math>
 <math><mtable displaystyle="true" columnalign="right left" columnspacing="0em" rowspacing="3pt" minlabelspacing=".8em"><mtr><mtd><mrow><msup><mi>h</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><msup><mi>k</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mi>h</mi><mi>k</mi></mrow></mtd><mtd><mrow><mi>&lt;mi/&gt;</mi><mo>=</mo><mo stretchy="false">(</mo><msup><mi>h</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><msup><mi>k</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mi>h</mi><mo stretchy="false">)</mo><mi>k</mi><mo>∈</mo><mi>K</mi></mrow></mtd></mtr><mtr><mtd><mrow><msup><mi>h</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><msup><mi>k</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mi>h</mi><mi>k</mi></mrow></mtd><mtd><mrow><mi>&lt;mi/&gt;</mi><mo>=</mo><msup><mi>h</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mo stretchy="false">(</mo><msup><mi>k</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mi>h</mi><mi>k</mi><mo stretchy="false">)</mo><mo>∈</mo><mi>H</mi></mrow></mtd></mtr></mtable></math>
 <math><msub><mi>Z</mi><mi>n</mi></msub></math>
-<math><mrow><mi>n</mi><mo>,</mo></mrow></math>
 <math><mrow><msub><mi>Z</mi><mi>n</mi></msub><mo>≅</mo><mi mathvariant="double-struck">Z</mi><mo>/</mo><mi>n</mi><mi mathvariant="double-struck">Z</mi><mtext>.</mtext></mrow></math>
 <math><mrow><msub><mi>Z</mi><mi>m</mi></msub><mo>×</mo><msub><mi>Z</mi><mi>n</mi></msub><mo>≅</mo><msub><mi>Z</mi><mrow data-mjx-texclass="ORD"><mi>m</mi><mi>n</mi></mrow></msub><mtext> iff </mtext><mo data-mjx-texclass="OP" movablelimits="true">gcd</mo><mo stretchy="false">(</mo><mi>m</mi><mo>,</mo><mi>n</mi><mo stretchy="false">)</mo><mo>=</mo><mn>1.</mn></mrow></math>
 <math><mrow><mi>d</mi><mo>=</mo><mo data-mjx-texclass="OP" movablelimits="true">gcd</mo><mo stretchy="false">(</mo><mi>m</mi><mo>,</mo><mi>n</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
@@ -505,7 +495,6 @@
 <math><mrow><mi>q</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mi>p</mi><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mi>a</mi><mo stretchy="false">)</mo><mo>.</mo></mrow></math>
 <math><mrow><mi>q</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>q</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><msub><mi>c</mi><mn>0</mn></msub><mo>+</mo><msub><mi>c</mi><mn>1</mn></msub><mi>x</mi><mo>+</mo><mo>⋯</mo><mo>+</mo><msub><mi>c</mi><mi>n</mi></msub><msup><mi>x</mi><mi>n</mi></msup><mo>,</mo></mrow></math>
-<math><mrow><msub><mi>c</mi><mi>i</mi></msub><mo>∈</mo><mi>A</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>p</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mi>q</mi><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mi>a</mi><mo stretchy="false">)</mo><mo>=</mo><msub><mi>c</mi><mn>0</mn></msub><mo>+</mo><msub><mi>c</mi><mn>1</mn></msub><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mi>a</mi><mo stretchy="false">)</mo><mo>+</mo><mo>⋯</mo><mo>+</mo><msub><mi>c</mi><mi>n</mi></msub><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mi>a</mi><msup><mo stretchy="false">)</mo><mi>n</mi></msup><mo>.</mo></mrow></math>
 <math><mrow><mi>e</mi><msub><mi>v</mi><mi>a</mi></msub><mo>:</mo><mi>A</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo accent="false" stretchy="false">→</mo><mi>A</mi></mrow></math>
 <math><mrow><mi>p</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">↦</mo><mi>p</mi><mo stretchy="false">(</mo><mi>a</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math>
@@ -542,7 +531,6 @@
 <math><mrow><mi>n</mi><mo>∈</mo><mi mathvariant="double-struck">Z</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>I</mi><mo>=</mo><mi>n</mi><mi mathvariant="double-struck">Z</mi></mrow></math>
 <math><mrow><mi mathvariant="double-struck">Z</mi><mo>.</mo></mrow></math>
-<math><mrow><mi>n</mi><mo>∈</mo><mi mathvariant="double-struck">Z</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mi>I</mi><mo>=</mo><mo stretchy="false">(</mo><mi>n</mi><mo>,</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>n</mi><mo>≠</mo><mo>±</mo><mn>1.</mn></mrow></math>
 <math><mrow><mi>n</mi><mo>=</mo><mo>±</mo><mn>1</mn><mo>,</mo></mrow></math>
@@ -629,7 +617,6 @@
 <math><mrow><mi>a</mi><mo>∈</mo><mi>R</mi><mtext>,</mtext></mrow></math>
 <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>∈</mo><mi>R</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mi>R</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo>/</mo><mo stretchy="false">(</mo><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>,</mo><mi>a</mi><mo stretchy="false">)</mo><mo>≅</mo><mo stretchy="false">(</mo><mi>R</mi><mo>/</mo><mo stretchy="false">(</mo><mi>a</mi><mo stretchy="false">)</mo><mo stretchy="false">)</mo><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo>/</mo><mo stretchy="false">(</mo><mover><mi>f</mi><mo accent="true">―</mo></mover><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">)</mo><mo>.</mo></mrow></math>
-<math><mrow><mi>I</mi><mo>=</mo><mo stretchy="false">(</mo><mi>f</mi><mo>,</mo><mi>g</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi>f</mi><mo>,</mo><mn>7</mn><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mi mathvariant="double-struck">Z</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo>/</mo><mi>I</mi><mo>=</mo><mi mathvariant="double-struck">Z</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo>/</mo><mo stretchy="false">(</mo><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>,</mo><mn>7</mn><mo stretchy="false">)</mo><mo>≅</mo><mo stretchy="false">(</mo><mi mathvariant="double-struck">Z</mi><mo>/</mo><mn>7</mn><mi mathvariant="double-struck">Z</mi><mo stretchy="false">)</mo><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo>/</mo><mo stretchy="false">(</mo><mover><mi>f</mi><mo accent="true">―</mo></mover><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi mathvariant="double-struck">Z</mi><mo>/</mo><mn>7</mn><mi mathvariant="double-struck">Z</mi><mo stretchy="false">)</mo><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo>/</mo><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mover><mn>3</mn><mo accent="true">―</mo></mover><mo stretchy="false">)</mo><mo>≅</mo><mi mathvariant="double-struck">Z</mi><mo>/</mo><mn>7</mn><mi mathvariant="double-struck">Z</mi></mrow></math>
 <math><mrow><mi mathvariant="double-struck">Z</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo>/</mo><mi>I</mi></mrow></math>
 <math><mrow><mi>φ</mi><mtext>:</mtext></mrow></math>
@@ -681,7 +668,6 @@
 <math><mrow><mi>a</mi><mo>,</mo><mi>b</mi></mrow></math>
 <math><mrow><mi>a</mi><mo>=</mo><mi>u</mi><mi>b</mi><mi>v</mi></mrow></math>
 <math><mrow><mi>u</mi><mo>,</mo><mi>v</mi></mrow></math>
-<math><mrow><mi>R</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mi>a</mi><mo>=</mo><mi>b</mi><mi>v</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>R</mi><mo>⊆</mo><mi>X</mi><mo>×</mo><mi>X</mi><mtext>,</mtext></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo stretchy="false">)</mo><mo>∈</mo><mi>R</mi><mtext>,</mtext></mrow></math>
@@ -721,7 +707,6 @@
 <math><mrow><msup><mi>d</mi><mo data-mjx-alternate="1">′</mo></msup><mo>∣</mo><mi>d</mi><mtext>,</mtext></mrow></math>
 <math><mrow><mi>d</mi><mtext>,</mtext></mrow></math>
 <math><mrow><mi>I</mi><mo>⊆</mo><mi>R</mi></mrow></math>
-<math><mrow><mi>R</mi><mtext>,</mtext></mrow></math>
 <math><mrow><mi>R</mi><mo>⋅</mo><mi>I</mi><mo>⊆</mo><mi>I</mi></mrow></math>
 <math><mrow><mi>I</mi><mo>⋅</mo><mi>R</mi><mo>⊂</mo><mi>I</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>R</mi><mo>/</mo><mi>I</mi></mrow></math>
@@ -780,7 +765,6 @@
 <math><mrow><mi>p</mi><mo>=</mo><mi>c</mi><mo stretchy="false">(</mo><mi>p</mi><mo stretchy="false">)</mo><msub><mi>p</mi><mn>0</mn></msub></mrow></math>
 <math><msub><mi>p</mi><mn>0</mn></msub></math>
 <math><mrow><mi>c</mi><mo stretchy="false">(</mo><mi>p</mi><mo stretchy="false">)</mo><mo>∈</mo><mi>R</mi></mrow></math>
-<math><mrow><mi>p</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mo>+</mo><mtext>,</mtext></mrow></math>
 <math><mo>×</mo></math>
 <math><mrow><mo stretchy="false">(</mo><mi>R</mi><mo>,</mo><mo>+</mo><mo stretchy="false">)</mo></mrow></math>
@@ -826,7 +810,6 @@
 <math><mrow><mi>b</mi><mi>a</mi><mo>=</mo><mn>0</mn><mtext>.</mtext></mrow></math>
 <math><mrow><mi>G</mi><mo>=</mo><mi>G</mi><msub><mi>L</mi><mi>n</mi></msub><mo stretchy="false">(</mo><mi>F</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
 <math><mrow><mi>R</mi><mo>=</mo><msub><mi>M</mi><mi>n</mi></msub><mo stretchy="false">(</mo><mi>F</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mi>F</mi><mo>,</mo></mrow></math>
 <math><mrow><mi>G</mi><mo>=</mo><msup><mi>R</mi><mo>×</mo></msup><mtext>,</mtext></mrow></math>
 <math><mrow><mi>K</mi><mo>=</mo><mi>S</mi><msub><mi>L</mi><mi>n</mi></msub><mo stretchy="false">(</mo><mi>F</mi><mo stretchy="false">)</mo><mo>,</mo></mrow></math>
 <math><mrow><mi>k</mi><mo>∈</mo><mi>K</mi><mo>.</mo></mrow></math>
@@ -858,7 +841,6 @@
 <math><mrow><mi>h</mi><mi>k</mi><mi>K</mi><mo>=</mo><mi>h</mi><mi>K</mi><mo>,</mo></mrow></math>
 <math><mrow><mi>φ</mi><mo stretchy="false">(</mo><mi>h</mi><mo stretchy="false">)</mo><mo>=</mo><mi>h</mi><mi>K</mi><mo>=</mo><mi>K</mi></mrow></math>
 <math><mrow><mi>h</mi><mo>∈</mo><mi>H</mi><mo>∩</mo><mi>K</mi><mo>,</mo></mrow></math>
-<math><mrow><mi>K</mi><mo>=</mo><mi>S</mi><msub><mi>L</mi><mi>n</mi></msub><mo stretchy="false">(</mo><mi>F</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
 <math><mrow><mi>H</mi><mo>=</mo><msub><mi>D</mi><mi>n</mi></msub><mo stretchy="false">(</mo><mi>F</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><msup><mi>P</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mi>A</mi><mi>P</mi><mo>=</mo><mi>D</mi></mrow></math>
 <math><mrow><mi>P</mi><mi>D</mi><msup><mi>P</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mo>=</mo><mi>A</mi></mrow></math>
@@ -939,11 +921,9 @@
 <math><mrow><mi>R</mi><mo>/</mo><mi>I</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>x</mi><mo>+</mo><mi>I</mi></mrow></math>
 <math><mrow><mi>I</mi><mo>+</mo><mi>x</mi></mrow></math>
-<math><mrow><mi>x</mi><mo>∈</mo><mi>G</mi><mo>.</mo></mrow></math>
 <math><mtable displaystyle="true" columnalign="right left" columnspacing="0em" rowspacing="3pt" minlabelspacing=".8em"><mtr><mtd><mrow><mi>x</mi><mi>H</mi></mrow></mtd><mtd><mrow><mi>&lt;mi/&gt;</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>y</mi><mo>∈</mo><mi>G</mi><mo>∣</mo><mi>y</mi><mo>=</mo><mi>x</mi><mi>h</mi><mtext> for some </mtext><mi>h</mi><mo>∈</mo><mi>H</mi><mo fence="false" stretchy="false">}</mo><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>x</mi><mi>h</mi><mo>∣</mo><mi>h</mi><mo>∈</mo><mi>H</mi><mo fence="false" stretchy="false">}</mo></mrow></mtd></mtr><mtr><mtd><mrow><mi>x</mi><mo>+</mo><mi>H</mi></mrow></mtd><mtd><mrow><mi>&lt;mi/&gt;</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>y</mi><mo>∈</mo><mi>G</mi><mo>∣</mo><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mi>h</mi><mtext> for some </mtext><mi>h</mi><mo>∈</mo><mi>H</mi><mo fence="false" stretchy="false">}</mo><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>x</mi><mo>+</mo><mi>h</mi><mo>∣</mo><mi>h</mi><mo>∈</mo><mi>H</mi><mo fence="false" stretchy="false">}</mo></mrow></mtd></mtr></mtable></math>
 <math><mrow><mi>G</mi><mo>/</mo><mi>H</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>x</mi><mi>H</mi><mo>∣</mo><mi>x</mi><mo>∈</mo><mi>G</mi><mo fence="false" stretchy="false">}</mo><mtext> or </mtext><mo fence="false" stretchy="false">{</mo><mi>x</mi><mo>+</mo><mi>H</mi><mo>∣</mo><mi>x</mi><mo>∈</mo><mi>G</mi><mo fence="false" stretchy="false">}</mo></mrow></math>
 <math><mrow><mi>e</mi><mtext>,</mtext></mrow></math>
-<math><mrow><mi>H</mi><mo>,</mo></mrow></math>
 <math><mrow><mi>x</mi><mo>∈</mo><mi>G</mi></mrow></math>
 <math><mrow><mi>x</mi><mo>=</mo><mi>x</mi><mi>e</mi><mo>∈</mo><mi>x</mi><mi>H</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>G</mi><mo>=</mo><munder><mo data-mjx-texclass="OP">⋃</mo><mrow data-mjx-texclass="ORD"><mi>x</mi><mo>∈</mo><mi>G</mi></mrow></munder><mi>x</mi><mi>H</mi><mo>,</mo></mrow></math>
@@ -986,7 +966,6 @@
 <math><mrow><mi>x</mi><mo>=</mo><mi>y</mi><mo>+</mo><mi>h</mi></mrow></math>
 <math><mrow><mo>−</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>∈</mo><mi>H</mi></mrow></math>
 <math><mrow><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mi>h</mi></mrow></math>
-<math><mrow><mi>g</mi><mo>∈</mo><mi>G</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mi>g</mi><mi>H</mi><msup><mi>g</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mo>⊆</mo><mi>H</mi><mtext>;</mtext></mrow></math>
 <math><mrow><mi>H</mi><mo>⊆</mo><mi>g</mi><mi>H</mi><msup><mi>g</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mtext>.</mtext></mrow></math>
 <math><mrow><mi>x</mi><mi>H</mi><msup><mi>x</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mo>⊆</mo><mi>H</mi></mrow></math>
@@ -1016,17 +995,14 @@
 <math><mrow><mi>s</mi><mo>,</mo><mi>t</mi><mo>∈</mo><mi>S</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>R</mi><mo>⋅</mo><mi>S</mi><mo>⊆</mo><mi>S</mi><mtext> and </mtext><mi>S</mi><mo>⋅</mo><mi>R</mi><mo>⊆</mo><mi>S</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>G</mi><mo>/</mo><mi>H</mi><mo>?</mo></mrow></math>
-<math><mrow><mi mathvariant="double-struck">Z</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mi>n</mi><mo>&gt;</mo><mn>1</mn></mrow></math>
 <math><mrow><mo>−</mo><mn>1</mn><mo>,</mo></mrow></math>
 <math><mrow><mi>n</mi><mo>&lt;</mo><mo>−</mo><mn>1</mn><mtext>?</mtext></mrow></math>
 <math><mrow><mi>p</mi><mo>≥</mo><mn>2</mn></mrow></math>
 <math><mrow><mo>±</mo><mn>1</mn><mtext>,</mtext></mrow></math>
 <math><mrow><mn>6</mn><mo>=</mo><mn>2</mn><mo>⋅</mo><mn>3</mn><mo>=</mo><mn>3</mn><mo>⋅</mo><mn>2</mn><mo>⋅</mo><mn>1</mn><mo>=</mo><mo stretchy="false">(</mo><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo><mo>⋅</mo><mo stretchy="false">(</mo><mo>−</mo><mn>3</mn><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math>
-<math><mrow><mi mathvariant="double-struck">Z</mi><mo>,</mo></mrow></math>
 <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>2</mn><mi>x</mi></mrow></math>
 <math><mrow><mn>2</mn><mi>x</mi><mo>=</mo><mn>2</mn><mo>⋅</mo><mi>x</mi><mo>=</mo><mo stretchy="false">(</mo><mn>2</mn><mo>/</mo><mn>3</mn><mo stretchy="false">)</mo><mo>⋅</mo><mo stretchy="false">(</mo><mn>3</mn><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mo>⋯</mo><mtext>.</mtext></mrow></math>
-<math><mrow><mi mathvariant="double-struck">Z</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo>,</mo></mrow></math>
 <math><mrow><mn>2</mn><mi>x</mi></mrow></math>
 <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>2</mn><mi>x</mi><mo>=</mo><mn>2</mn><mo>⋅</mo><mi>x</mi></mrow></math>
 <math><mrow><mi>a</mi><mo>=</mo><msub><mi>a</mi><mn>1</mn></msub><msub><mi>b</mi><mn>1</mn></msub></mrow></math>
@@ -1086,12 +1062,10 @@
 <math><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><mn>2</mn></mrow></math>
 <math><mrow><mi>a</mi><mo>,</mo><mi>b</mi><mo>∈</mo><mi mathvariant="double-struck">Z</mi><mo>,</mo></mrow></math>
 <math><mn>2</mn></math>
-<math><mrow><mi mathvariant="double-struck">Z</mi><mo stretchy="false">[</mo><msqrt><mo>−</mo><mn>5</mn></msqrt><mo stretchy="false">]</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mn>2</mn><mo>∣</mo><mo stretchy="false">(</mo><mn>1</mn><mo>+</mo><msqrt><mo>−</mo><mn>5</mn></msqrt><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>1</mn><mo>−</mo><msqrt><mo>−</mo><mn>5</mn></msqrt><mo stretchy="false">)</mo><mo>.</mo></mrow></math>
 <math><mrow><mn>1</mn><mo>+</mo><msqrt><mo>−</mo><mn>5</mn></msqrt></mrow></math>
 <math><mrow><msub><mi>π</mi><mn>1</mn></msub><mo>∣</mo><msub><mi>π</mi><mn>2</mn></msub></mrow></math>
 <math><msub><mi>π</mi><mi>i</mi></msub></math>
-<math><mrow><mo>±</mo><mn>1</mn><mo>,</mo></mrow></math>
 <math><mrow><mi>a</mi><mo>=</mo><msub><mi>π</mi><mn>1</mn></msub><mo>⋯</mo><msub><mi>π</mi><mi>r</mi></msub><mo>=</mo><msubsup><mi>π</mi><mn>1</mn><mo data-mjx-alternate="1">′</mo></msubsup><mo>⋯</mo><msubsup><mi>π</mi><mi>s</mi><mo data-mjx-alternate="1">′</mo></msubsup></mrow></math>
 <math><mrow><mi>r</mi><mo>=</mo><mi>s</mi><mtext>,</mtext></mrow></math>
 <math><msub><mi>π</mi><mi>j</mi></msub></math>
@@ -1121,7 +1095,6 @@
 <math><mrow><mo stretchy="false">|</mo><mi>H</mi><mi>K</mi><mo stretchy="false">|</mo><mo>=</mo><mfrac><mrow><mo stretchy="false">|</mo><mi>H</mi><mo stretchy="false">|</mo><mo stretchy="false">|</mo><mi>K</mi><mo stretchy="false">|</mo></mrow><mrow><mo stretchy="false">|</mo><mi>H</mi><mo>∩</mo><mi>K</mi><mo stretchy="false">|</mo></mrow></mfrac><mo>.</mo></mrow></math>
 <math><mrow><mi>H</mi><mi>K</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>h</mi><mi>k</mi><mo>∣</mo><mi>h</mi><mo>∈</mo><mi>H</mi><mo>,</mo><mi>k</mi><mo>∈</mo><mi>K</mi><mo fence="false" stretchy="false">}</mo><mo>=</mo><munder><mo data-mjx-texclass="OP">⋃</mo><mrow data-mjx-texclass="ORD"><mi>h</mi><mo>∈</mo><mi>H</mi></mrow></munder><mi>h</mi><mi>K</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>h</mi><mi>K</mi></mrow></math>
-<math><mrow><mi>K</mi><mo>,</mo></mrow></math>
 <math><mrow><mo stretchy="false">|</mo><mi>H</mi><mi>K</mi><mo stretchy="false">|</mo><mo>=</mo><mo stretchy="false">|</mo><mi>K</mi><mo stretchy="false">|</mo><mo>⋅</mo><mtext>number of distinct cosets</mtext><mo>.</mo></mrow></math>
 <math><mrow><msub><mi>h</mi><mn>1</mn></msub><mo>,</mo><msub><mi>h</mi><mn>2</mn></msub><mo>∈</mo><mi>H</mi><mtext>,</mtext></mrow></math>
 <math><mrow><msub><mi>h</mi><mn>1</mn></msub><mi>K</mi><mo>=</mo><msub><mi>h</mi><mn>2</mn></msub><mi>K</mi><mspace width="0.278em"></mspace><mo stretchy="false">⟺</mo><mspace width="0.278em"></mspace><msubsup><mi>h</mi><mn>2</mn><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msubsup><msub><mi>h</mi><mn>1</mn></msub><mo>∈</mo><mi>K</mi><mspace width="0.278em"></mspace><mo stretchy="false">⟺</mo><mspace width="0.278em"></mspace><msubsup><mi>h</mi><mn>2</mn><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msubsup><msub><mi>h</mi><mn>1</mn></msub><mo>∈</mo><mi>H</mi><mo>∩</mo><mi>K</mi><mspace width="0.278em"></mspace><mo stretchy="false">⟺</mo><mspace width="0.278em"></mspace><msub><mi>h</mi><mn>1</mn></msub><mi>H</mi><mo>∩</mo><mi>K</mi><mo>=</mo><msub><mi>h</mi><mn>2</mn></msub><mi>H</mi><mo>∩</mo><mi>K</mi><mo>.</mo></mrow></math>
@@ -1151,14 +1124,12 @@
 <math><mrow><mi>a</mi><mo>=</mo><mi>π</mi><msub><mi>a</mi><mn>0</mn></msub><mo>.</mo></mrow></math>
 <math><mrow><mi>π</mi><mo>=</mo><mi>a</mi><mi>b</mi><mo>=</mo><mi>π</mi><msub><mi>a</mi><mn>0</mn></msub><mi>b</mi><mtext>,</mtext></mrow></math>
 <math><mrow><mi>π</mi><mo stretchy="false">(</mo><msub><mi>a</mi><mn>0</mn></msub><mi>b</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mo>=</mo><mn>0.</mn></mrow></math>
-<math><mrow><mi>π</mi><mo>≠</mo><mn>0</mn><mo>,</mo></mrow></math>
 <math><mrow><msub><mi>a</mi><mn>0</mn></msub><mi>b</mi><mo>=</mo><mn>1</mn></mrow></math>
 <math><mrow><mi>b</mi><mo>∈</mo><msup><mi>R</mi><mo>×</mo></msup><mo>.</mo></mrow></math>
 <math><mrow><mi>π</mi><mo>∣</mo><mi>a</mi><mi>b</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mi>a</mi><mi>b</mi><mo>=</mo><mn>0</mn><mo>,</mo></mrow></math>
 <math><mrow><mi>π</mi><mo>∣</mo><mn>0</mn></mrow></math>
 <math><mrow><mi>a</mi><mi>b</mi><mo>≠</mo><mn>0.</mn></mrow></math>
-<math><mrow><mi>π</mi><mo>∣</mo><mi>a</mi><mi>b</mi><mo>,</mo></mrow></math>
 <math><mrow><mi>a</mi><mi>b</mi></mrow></math>
 <math><mrow><mi>a</mi><mi>b</mi><mo>=</mo><msub><mi>π</mi><mn>1</mn></msub><mo>⋯</mo><msub><mi>π</mi><mi>r</mi></msub><mo>⋅</mo><msubsup><mi>π</mi><mn>1</mn><mo data-mjx-alternate="1">′</mo></msubsup><mo>⋯</mo><msubsup><mi>π</mi><mi>s</mi><mo data-mjx-alternate="1">′</mo></msubsup></mrow></math>
 <math><mrow><msub><mi>π</mi><mi>i</mi></msub><mo>∣</mo><mi>a</mi><mo>,</mo></mrow></math>
@@ -1177,7 +1148,6 @@
 <math><mrow><mi>a</mi><mi>b</mi><mo>=</mo><mi>π</mi><mi>c</mi></mrow></math>
 <math><mrow><mi>c</mi><mo>∈</mo><mi>R</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>b</mi><mtext>.</mtext></mrow></math>
-<math><mrow><mi>π</mi><mo>∣</mo><mi>a</mi><mi>b</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>P</mi><mo>=</mo><mo stretchy="false">(</mo><mi>π</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
 <math><mrow><mi>I</mi><mo>≠</mo><mo stretchy="false">(</mo><mn>0</mn><mo stretchy="false">)</mo><mo>.</mo></mrow></math>
 <math><mrow><mi>b</mi><mo>∈</mo><mi>I</mi></mrow></math>
@@ -1189,7 +1159,6 @@
 <math><mrow><mi>a</mi><mo>∈</mo><mo stretchy="false">(</mo><mi>b</mi><mo stretchy="false">)</mo><mo>.</mo></mrow></math>
 <math><mrow><mi>I</mi><mo>=</mo><mo stretchy="false">(</mo><mi>b</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
 <math><mrow><mi>R</mi><mo>=</mo><mi mathvariant="double-struck">Z</mi><mo stretchy="false">[</mo><mfrac><mrow><mn>1</mn><mo>+</mo><msqrt><mo>−</mo><mi>d</mi></msqrt></mrow><mn>2</mn></mfrac><mo stretchy="false">]</mo><mtext> where </mtext><mi>d</mi><mo>=</mo><mn>19</mn><mo>,</mo><mn>43</mn><mo>,</mo><mn>67</mn><mo>,</mo><mn>163</mn></mrow></math>
-<math><mrow><mi>A</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mi>A</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo>/</mo><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>≅</mo><mi>A</mi><mo>,</mo></mrow></math>
 <math><mrow><mi>A</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo>/</mo><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>≅</mo><mi>A</mi></mrow></math>
 <math><mrow><mi>K</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo></mrow></math>
@@ -1222,12 +1191,9 @@
 <math><mrow><mo stretchy="false">(</mo><mi>d</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
 <math><mrow><mi>a</mi><mo>,</mo><mi>b</mi><mo>.</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi>d</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
-<math><mrow><mi>a</mi><mo>,</mo><mi>b</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="false">)</mo><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>a</mi><mi>x</mi><mo>+</mo><mi>b</mi><mi>y</mi><mo>∣</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo>∈</mo><mi>R</mi><mo fence="false" stretchy="false">}</mo><mtext>,</mtext></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mi>d</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="false">)</mo><mo>,</mo></mrow></math>
 <math><mrow><mi>d</mi><mo>=</mo><mi>a</mi><msub><mi>x</mi><mn>0</mn></msub><mo>+</mo><mi>b</mi><msub><mi>y</mi><mn>0</mn></msub></mrow></math>
 <math><mrow><msub><mi>x</mi><mn>0</mn></msub><mo>,</mo><msub><mi>y</mi><mn>0</mn></msub><mo>∈</mo><mi>R</mi><mtext>.</mtext></mrow></math>
-<math><mrow><mi>b</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>R</mi><mo stretchy="false">[</mo><mi>x</mi><msup><mo stretchy="false">]</mo><mo>×</mo></msup><mo>=</mo><msup><mi>R</mi><mo>×</mo></msup></mrow></math>
 <math><mrow><mi>F</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mi>a</mi><mo stretchy="false">)</mo><mo>∣</mo><mi>p</mi></mrow></math>
@@ -1246,7 +1212,6 @@
 <math><mtable displaystyle="true" columnalign="right left" columnspacing="0em" rowspacing="3pt" minlabelspacing=".8em"><mtr><mtd><mrow><msub><mi>a</mi><mi>n</mi></msub><msup><mi>r</mi><mi>n</mi></msup><mo>=</mo></mrow></mtd><mtd><mrow><mi>&lt;mi/&gt;</mi><mo>−</mo><mo stretchy="false">(</mo><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>n</mi><mo>−</mo><mn>1</mn></mrow></msub><msup><mi>r</mi><mrow data-mjx-texclass="ORD"><mi>n</mi><mo>−</mo><mn>1</mn></mrow></msup><mi>s</mi><mo>+</mo><mo>⋯</mo><mo>+</mo><msub><mi>a</mi><mn>1</mn></msub><mi>r</mi><msup><mi>s</mi><mrow data-mjx-texclass="ORD"><mi>n</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>+</mo><msub><mi>a</mi><mn>0</mn></msub><msup><mi>s</mi><mi>n</mi></msup><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd><mrow><msub><mi>a</mi><mn>0</mn></msub><msup><mi>s</mi><mi>n</mi></msup><mo>=</mo></mrow></mtd><mtd><mrow><mi>&lt;mi/&gt;</mi><mo>−</mo><mo stretchy="false">(</mo><msub><mi>a</mi><mi>n</mi></msub><msup><mi>r</mi><mi>n</mi></msup><mo>+</mo><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>n</mi><mo>−</mo><mn>1</mn></mrow></msub><msup><mi>r</mi><mrow data-mjx-texclass="ORD"><mi>n</mi><mo>−</mo><mn>1</mn></mrow></msup><mi>s</mi><mo>+</mo><mo>⋯</mo><mo>+</mo><msub><mi>a</mi><mn>1</mn></msub><mi>r</mi><msup><mi>s</mi><mrow data-mjx-texclass="ORD"><mi>n</mi><mo>−</mo><mn>1</mn></mrow></msup><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable></math>
 <math><mrow><mi>s</mi><mo>∣</mo><msub><mi>a</mi><mi>n</mi></msub><msup><mi>r</mi><mi>n</mi></msup><mtext> and </mtext><mi>r</mi><mo>∣</mo><msub><mi>a</mi><mn>0</mn></msub><msup><mi>s</mi><mi>n</mi></msup><mo>.</mo></mrow></math>
 <math><mrow><mo data-mjx-texclass="OP" movablelimits="true">gcd</mo><mo stretchy="false">(</mo><mi>r</mi><mo>,</mo><mi>s</mi><mo stretchy="false">)</mo><mo>=</mo><mn>1</mn><mtext>,</mtext></mrow></math>
-<math><mrow><mi>s</mi><mo>∣</mo><msub><mi>a</mi><mi>n</mi></msub><mo>.</mo></mrow></math>
 <math><mrow><mi>K</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mtext>,</mtext></mrow></math>
 <math><mrow><mo data-mjx-texclass="OP" movablelimits="true">gcd</mo><mo stretchy="false">(</mo><msub><mi>a</mi><mn>0</mn></msub><mo>,</mo><mo>…</mo><mo>,</mo><msub><mi>a</mi><mi>n</mi></msub><mo stretchy="false">)</mo><mo>=</mo><mn>1</mn><mo>,</mo></mrow></math>
 <math><mrow><mi>p</mi><mo>=</mo><mi>C</mi><mo stretchy="false">(</mo><mi>p</mi><mo stretchy="false">)</mo><msub><mi>p</mi><mn>0</mn></msub></mrow></math>
@@ -1259,10 +1224,7 @@
 <math><mrow><mi>f</mi><mo>=</mo><mi>α</mi><mi>F</mi><mo>∈</mo><mi>R</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo>,</mo><mi>g</mi><mo>=</mo><mi>β</mi><mi>G</mi><mo>∈</mo><mi>R</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo>,</mo><mtext> and </mtext><mi>p</mi><mo>=</mo><mi>f</mi><mi>g</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>p</mi><mo>,</mo><mi>q</mi><mo>∈</mo><mi>R</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mtext>,</mtext></mrow></math>
 <math><mrow><mi>C</mi><mo stretchy="false">(</mo><mi>p</mi><mi>q</mi><mo stretchy="false">)</mo><mo>=</mo><mi>C</mi><mo stretchy="false">(</mo><mi>p</mi><mo stretchy="false">)</mo><mi>C</mi><mo stretchy="false">(</mo><mi>q</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
-<math><mrow><mi>K</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mi>p</mi><mo>∈</mo><mi>R</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo>.</mo></mrow></math>
-<math><mrow><mi>R</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mtext>,</mtext></mrow></math>
-<math><mrow><mi>K</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo>,</mo></mrow></math>
 <math><mrow><mi>p</mi><mo>=</mo><mi>F</mi><mi>G</mi></mrow></math>
 <math><mrow><mi>deg</mi><mo data-mjx-texclass="NONE">⁡</mo><mi>f</mi><mo>,</mo><mi>deg</mi><mo data-mjx-texclass="NONE">⁡</mo><mi>g</mi><mo>≥</mo><mn>1</mn><mo>,</mo></mrow></math>
 <math><mrow><mi>p</mi><mo>=</mo><mi>f</mi><mi>g</mi></mrow></math>
@@ -1274,7 +1236,6 @@
 <math><mrow><mi>R</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo accent="false" stretchy="false">→</mo><mo stretchy="false">(</mo><mi>R</mi><mo>/</mo><mi>I</mi><mo stretchy="false">)</mo><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mtext>,</mtext></mrow></math>
 <math><mrow><mi>p</mi><mo stretchy="false">↦</mo><mover><mi>p</mi><mo accent="true">―</mo></mover><mo>.</mo></mrow></math>
 <math><mover><mi>p</mi><mo accent="true">―</mo></mover></math>
-<math><mrow><mi>R</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo>.</mo></mrow></math>
 <math><mrow><mi>p</mi><mo>=</mo><mi>f</mi><mi>g</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>f</mi><mo>,</mo><mi>g</mi></mrow></math>
 <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><msub><mi>a</mi><mi>m</mi></msub><msup><mi>x</mi><mi>m</mi></msup><mo>+</mo><mo>⋯</mo><mo>+</mo><msub><mi>a</mi><mn>0</mn></msub><mtext> and </mtext><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><msub><mi>b</mi><mi>n</mi></msub><msup><mi>x</mi><mi>n</mi></msup><mo>+</mo><mo>⋯</mo><mo>+</mo><msub><mi>b</mi><mn>0</mn></msub><mo>.</mo></mrow></math>
@@ -1343,7 +1304,6 @@
 <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo>±</mo><mi>a</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>1</mn><mo>+</mo><mi>x</mi><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mo>⋯</mo><mo>+</mo><msup><mi>x</mi><mrow data-mjx-texclass="ORD"><mi>p</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>=</mo><mfrac><mrow><msup><mi>x</mi><mi>p</mi></msup><mo>−</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mfrac></mrow></math>
-<math><mrow><mi mathvariant="double-struck">Z</mi><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math>
 <math><mtable displaystyle="true" columnalign="right left" columnspacing="0em" rowspacing="3pt" minlabelspacing=".8em"><mtr><mtd><mrow><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo></mrow></mtd><mtd><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mn>1</mn><msup><mo stretchy="false">)</mo><mi>p</mi></msup><mo>−</mo><mn>1</mn></mrow><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo><mo>−</mo><mn>1</mn></mrow></mfrac></mrow></mtd></mtr><mtr><mtd><mo>=</mo></mtd><mtd><mfrac><mrow><msup><mi>x</mi><mi>p</mi></msup><mo>+</mo><mrow data-mjx-texclass="ORD"><mo minsize="1.2em" maxsize="1.2em">(</mo><mfrac linethickness="0"><mi>p</mi><mn>1</mn></mfrac><mo minsize="1.2em" maxsize="1.2em">)</mo></mrow><msup><mi>x</mi><mrow data-mjx-texclass="ORD"><mi>p</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>+</mo><mo>⋯</mo><mo>+</mo><mrow data-mjx-texclass="ORD"><mo minsize="1.2em" maxsize="1.2em">(</mo><mfrac linethickness="0"><mi>p</mi><mrow><mi>p</mi><mo>−</mo><mn>1</mn></mrow></mfrac><mo minsize="1.2em" maxsize="1.2em">)</mo></mrow><mi>x</mi><mo>+</mo><mn>1</mn><mo>−</mo><mn>1</mn></mrow><mi>x</mi></mfrac></mtd></mtr><mtr><mtd><mo>=</mo></mtd><mtd><mrow><msup><mi>x</mi><mrow data-mjx-texclass="ORD"><mi>p</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>+</mo><mrow data-mjx-texclass="ORD"><mo minsize="2.047em" maxsize="2.047em">(</mo><mfrac linethickness="0"><mi>p</mi><mn>1</mn></mfrac><mo minsize="2.047em" maxsize="2.047em">)</mo></mrow><msup><mi>x</mi><mrow data-mjx-texclass="ORD"><mi>p</mi><mo>−</mo><mn>2</mn></mrow></msup><mo>+</mo><mo>⋯</mo><mo>+</mo><mrow data-mjx-texclass="ORD"><mo minsize="2.047em" maxsize="2.047em">(</mo><mfrac linethickness="0"><mi>p</mi><mrow><mi>p</mi><mo>−</mo><mn>1</mn></mrow></mfrac><mo minsize="2.047em" maxsize="2.047em">)</mo></mrow></mrow></mtd></mtr></mtable></math>
 <math><mrow><mi>p</mi><mo>∣</mo><mrow data-mjx-texclass="ORD"><mo minsize="1.2em" maxsize="1.2em">(</mo><mfrac linethickness="0"><mi>p</mi><mi>k</mi></mfrac><mo minsize="1.2em" maxsize="1.2em">)</mo></mrow></mrow></math>
@@ -1355,7 +1315,6 @@
 <math><mi>e</mi></math>
 <math><mrow><msub><mi>g</mi><mn>1</mn></msub><mo>⋅</mo><mo stretchy="false">(</mo><msub><mi>g</mi><mn>2</mn></msub><mo>⋅</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><msub><mi>g</mi><mn>1</mn></msub><msub><mi>g</mi><mn>2</mn></msub><mo stretchy="false">)</mo><mo>⋅</mo><mi>x</mi></mrow></math>
 <math><mrow><msub><mi>g</mi><mn>1</mn></msub><mo>,</mo><msub><mi>g</mi><mn>2</mn></msub><mo>∈</mo><mi>G</mi></mrow></math>
-<math><mrow><mi>x</mi><mo>∈</mo><mi>X</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>X</mi><mo>=</mo><mi>G</mi></mrow></math>
 <math><mrow><mi>G</mi><mo>×</mo><mi>G</mi><mo accent="false" stretchy="false">→</mo><mi>G</mi></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mi>g</mi><mo>,</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">↦</mo><mi>g</mi><mi>x</mi><msup><mi>g</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mo>.</mo></mrow></math>
@@ -1365,7 +1324,6 @@
 <math><mrow><msup><mi>p</mi><mi>m</mi></msup><mo>∣</mo><mo stretchy="false">|</mo><mi>G</mi><mo stretchy="false">|</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mi>X</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>H</mi><mo>≤</mo><mi>G</mi><mo>∣</mo><mo stretchy="false">|</mo><mi>H</mi><mo stretchy="false">|</mo><mo>=</mo><msup><mi>p</mi><mi>m</mi></msup><mo fence="false" stretchy="false">}</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mi>g</mi><mo>,</mo><mi>H</mi><mo stretchy="false">)</mo><mo stretchy="false">↦</mo><mi>g</mi><mi>H</mi><msup><mi>g</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mo>.</mo></mrow></math>
-<math><mrow><mi>g</mi><mo>∈</mo><mi>G</mi><mtext>,</mtext></mrow></math>
 <math><mrow><msub><mi>φ</mi><mi>g</mi></msub><mo>:</mo><mi>G</mi><mo accent="false" stretchy="false">→</mo><mi>G</mi></mrow></math>
 <math><mrow><msub><mi>φ</mi><mi>g</mi></msub><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mi>g</mi><mi>x</mi><msup><mi>g</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup></mrow></math>
 <math><mrow><mi>g</mi><mi>H</mi><msup><mi>g</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mo>=</mo><msub><mi>φ</mi><mi>g</mi></msub><mo stretchy="false">(</mo><mi>H</mi><mo stretchy="false">)</mo></mrow></math>
@@ -1398,7 +1356,6 @@
 <math><msub><mi>G</mi><mi>x</mi></msub></math>
 <math><mrow><mi>G</mi><mi>x</mi></mrow></math>
 <math><mrow><mi>G</mi><mi>x</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>g</mi><mi>x</mi><msup><mi>g</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mo>∣</mo><mi>g</mi><mo>∈</mo><mi>G</mi><mo fence="false" stretchy="false">}</mo></mrow></math>
-<math><mrow><mi>x</mi><mtext>,</mtext></mrow></math>
 <math><mrow><msub><mi>G</mi><mi>x</mi></msub><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>g</mi><mo>∈</mo><mi>G</mi><mo>∣</mo><mi>g</mi><mi>x</mi><msup><mi>g</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mo>=</mo><mi>x</mi><mo fence="false" stretchy="false">}</mo></mrow></math>
 <math><mrow><mi>x</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>X</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>H</mi><mo>≤</mo><mi>G</mi><mo fence="false" stretchy="false">}</mo></mrow></math>
@@ -1463,7 +1420,6 @@
 <math><mrow><mo stretchy="false">[</mo><mi>H</mi><mo>:</mo><mi>K</mi><mo stretchy="false">]</mo><mo>∣</mo><mo stretchy="false">(</mo><mi>p</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mo>!</mo><mo>.</mo></mrow></math>
 <math><mrow><mo stretchy="false">[</mo><mi>H</mi><mo>:</mo><mi>K</mi><mo stretchy="false">]</mo><mo>∣</mo><mo stretchy="false">|</mo><mi>H</mi><mo stretchy="false">|</mo><mo>∣</mo><mo stretchy="false">|</mo><mi>G</mi><mo stretchy="false">|</mo><mo>,</mo></mrow></math>
 <math><mrow><mo stretchy="false">[</mo><mi>H</mi><mo>:</mo><mi>K</mi><mo stretchy="false">]</mo><mo>∣</mo><mo data-mjx-texclass="OP" movablelimits="true">gcd</mo><mo stretchy="false">(</mo><mo stretchy="false">|</mo><mi>G</mi><mo stretchy="false">|</mo><mo>,</mo><mo stretchy="false">(</mo><mi>p</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mo>!</mo><mo stretchy="false">)</mo><mo>=</mo><mn>1</mn></mrow></math>
-<math><mrow><mo stretchy="false">|</mo><mi>G</mi><mo stretchy="false">|</mo><mo>.</mo></mrow></math>
 <math><mrow><mo stretchy="false">[</mo><mi>H</mi><mo>:</mo><mi>K</mi><mo stretchy="false">]</mo><mo>=</mo><mn>1</mn><mo>,</mo></mrow></math>
 <math><msup><mi>p</mi><mn>2</mn></msup></math>
 <math><mrow><mi>z</mi><mo>∈</mo><mi>G</mi></mrow></math>
@@ -1503,9 +1459,7 @@
 <math><mrow><mo stretchy="false">|</mo><mi>Z</mi><mo stretchy="false">(</mo><mi>G</mi><mo stretchy="false">)</mo><mo stretchy="false">|</mo><mo>=</mo><msup><mi>p</mi><mn>2</mn></msup><mtext>,</mtext></mrow></math>
 <math><mrow><mi>G</mi><mo>=</mo><mi>Z</mi><mo stretchy="false">(</mo><mi>G</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
 <math><mrow><mi>Z</mi><mo stretchy="false">(</mo><mi>G</mi><mo stretchy="false">)</mo><mo>⊴</mo><mi>G</mi><mtext>,</mtext></mrow></math>
-<math><mrow><mi>X</mi><mo>,</mo></mrow></math>
 <math><mo>∼</mo></math>
-<math><mrow><mi>x</mi><mo>∈</mo><mi>X</mi><mo>,</mo></mrow></math>
 <math><mrow><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>y</mi><mo>∈</mo><mi>X</mi><mo>∣</mo><mi>y</mi><mo>∼</mo><mi>x</mi><mo fence="false" stretchy="false">}</mo><mo>.</mo></mrow></math>
 <math><mrow><mi>x</mi><mo>∈</mo><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mtext>,</mtext></mrow></math>
 <math><mrow><mi>P</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mo stretchy="false">[</mo><mi>x</mi><mo stretchy="false">]</mo><mo>∣</mo><mi>x</mi><mo>∈</mo><mi>X</mi><mo fence="false" stretchy="false">}</mo></mrow></math>

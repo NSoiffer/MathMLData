@@ -708,7 +708,6 @@
 <math><mrow><msub><mi>d</mi><mn>12</mn></msub><mtext>,</mtext></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><msub><mi>d</mi><mn>1</mn></msub><mo>,</mo><msub><mi>d</mi><mn>2</mn></msub><mo>,</mo><mo>…</mo><mo>,</mo><msub><mi>d</mi><mi>k</mi></msub><mo stretchy="false">)</mo><mo>⋅</mo><mo stretchy="false">(</mo><msub><mi>w</mi><mn>1</mn></msub><mo>,</mo><msub><mi>w</mi><mn>2</mn></msub><mo>,</mo><mo>…</mo><mo>,</mo><msub><mi>w</mi><mi>k</mi></msub><mo stretchy="false">)</mo><mo>≡</mo><mn>0</mn><mspace width="1em"></mspace><mo stretchy="false">(</mo><mi>mod</mi><mspace width="0.333em"></mspace><mi>n</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><msub><mi>d</mi><mn>1</mn></msub><msub><mi>w</mi><mn>1</mn></msub><mo>+</mo><msub><mi>d</mi><mn>2</mn></msub><msub><mi>w</mi><mn>2</mn></msub><mo>+</mo><mo>⋯</mo><mo>+</mo><msub><mi>d</mi><mi>k</mi></msub><msub><mi>w</mi><mi>k</mi></msub><mo>≡</mo><mn>0</mn><mspace width="1em"></mspace><mo stretchy="false">(</mo><mi>mod</mi><mspace width="0.333em"></mspace><mi>n</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><msub><mi>d</mi><mn>1</mn></msub><mo>,</mo><msub><mi>d</mi><mn>2</mn></msub><mo>,</mo><mo>…</mo><mo>,</mo><msub><mi>d</mi><mi>k</mi></msub><mo stretchy="false">)</mo><mo>⋅</mo><mo stretchy="false">(</mo><msub><mi>w</mi><mn>1</mn></msub><mo>,</mo><msub><mi>w</mi><mn>2</mn></msub><mo>,</mo><mo>…</mo><mo>,</mo><msub><mi>w</mi><mi>k</mi></msub><mo stretchy="false">)</mo><mo>≡</mo><mn>0</mn><mspace width="0.444em"></mspace><mo stretchy="false">(</mo><mi>mod</mi><mspace width="0.333em"></mspace><mi>n</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><msub><mi>d</mi><mn>1</mn></msub><msub><mi>d</mi><mn>2</mn></msub><mo>⋯</mo><msub><mi>d</mi><mi>k</mi></msub><mtext>,</mtext></mrow></math>
 <math><mrow><mn>0</mn><mo>≤</mo><msub><mi>d</mi><mi>i</mi></msub><mo>&lt;</mo><mi>n</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mo data-mjx-texclass="OP" movablelimits="true">gcd</mo><mo stretchy="false">(</mo><msub><mi>w</mi><mi>i</mi></msub><mo>,</mo><mi>n</mi><mo stretchy="false">)</mo><mo>=</mo><mn>1</mn></mrow></math>
@@ -3530,7 +3529,6 @@
 <math><mrow><mi>α</mi><mo>&gt;</mo><mi>β</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mi>α</mi><mo>−</mo><mi>β</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mi>β</mi><mo>&gt;</mo><mn>1</mn></mrow></math>
-<math><mrow><mi mathvariant="normal">△</mi><mi>A</mi><mi>B</mi><mi>C</mi></mrow></math>
 <math><mrow><mi mathvariant="normal">△</mi><mi>A</mi><mi>D</mi><mi>E</mi></mrow></math>
 <math><mrow><mi>α</mi><mo>/</mo><mn>1</mn><mo>=</mo><mi>x</mi><mo>/</mo><mi>β</mi><mtext>,</mtext></mrow></math>
 <math><mrow><mi>α</mi><mi>β</mi><mtext>.</mtext></mrow></math>
@@ -3854,7 +3852,6 @@
 <math><mrow><mi>a</mi><mi>r</mi><mo>+</mo><mi>n</mi><mi>s</mi><mo>=</mo><mn>1</mn><mtext>.</mtext></mrow></math>
 <math><mrow><mi>n</mi><mi>s</mi><mo>=</mo><mn>1</mn><mo>−</mo><mi>a</mi><mi>r</mi><mtext>,</mtext></mrow></math>
 <math><mrow><mi>a</mi><mi>r</mi><mo>≡</mo><mn>1</mn><mspace width="0.444em"></mspace><mo stretchy="false">(</mo><mi>mod</mi><mspace width="0.333em"></mspace><mi>n</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math>
-<math><mrow><mi>a</mi><mi>b</mi><mo>≡</mo><mn>1</mn><mspace width="0.444em"></mspace><mo stretchy="false">(</mo><mi>mod</mi><mspace width="0.333em"></mspace><mi>n</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mi>a</mi><mi>b</mi><mo>−</mo><mn>1</mn><mtext>,</mtext></mrow></math>
 <math><mrow><mi>a</mi><mi>b</mi><mo>−</mo><mi>n</mi><mi>k</mi><mo>=</mo><mn>1</mn><mtext>.</mtext></mrow></math>
 <math><mrow><mi>d</mi><mo>=</mo><mo data-mjx-texclass="OP" movablelimits="true">gcd</mo><mo stretchy="false">(</mo><mi>a</mi><mo>,</mo><mi>n</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math>

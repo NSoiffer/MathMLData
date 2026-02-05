@@ -237,8 +237,6 @@
 <math><mrow><mi>r</mi><mo>=</mo><mn>0.89</mn></mrow></math>
 <math><mrow><mi>r</mi><mo>=</mo><mo>-</mo><mn>0.66</mn></mrow></math>
 <math><mrow><mi>r</mi><mo>=</mo><mo>-</mo><mn>0.04</mn></mrow></math>
-<math><mrow><mi>y</mi><mn>1</mn></mrow></math>
-<math><mrow><mi>y</mi><mn>4</mn></mrow></math>
 <math><mi>m</mi></math>
 <math><mrow><mo stretchy="false">(</mo><msub><mi>x</mi><mn>0</mn></msub><mo>,</mo><msub><mi>y</mi><mn>0</mn></msub><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>y</mi><mo>=</mo><mi>m</mi><mo stretchy="false">(</mo><mi>x</mi><mo>-</mo><msub><mi>x</mi><mn>0</mn></msub><mo stretchy="false">)</mo><mo>+</mo><msub><mi>y</mi><mn>0</mn></msub></mrow></math>
@@ -284,9 +282,6 @@
 <math><mrow><mi>p</mi><mo>→</mo><mo>~</mo><mi>q</mi></mrow></math>
 <math><mrow><mo>~</mo><mi>q</mi></mrow></math>
 <math><mrow><mo>~</mo><mi>p</mi></mrow></math>
-<math><mrow><mi>p</mi><mo stretchy="false">→</mo><mi>q</mi></mrow></math>
-<math><mrow><mi>p</mi><mo stretchy="false">→</mo><mtext>~</mtext><mi>q</mi></mrow></math>
-<math><mrow><mtext>~</mtext><mi>p</mi><mo stretchy="false">→</mo><mi>q</mi></mrow></math>
 <math><mrow><mi>p</mi><mo>∧</mo><mi>q</mi><mo>→</mo><mo>~</mo><mi>q</mi></mrow></math>
 <math><mrow><mi>p</mi><mo>→</mo><mo>~</mo><mi>p</mi><mo>∨</mo><mi>q</mi></mrow></math>
 <math><mrow><mi>p</mi><mo>∧</mo><mi>q</mi><mo>→</mo><mtext>&lt;mtext/&gt;</mtext><mo>~</mo><mi>q</mi></mrow></math>
@@ -311,7 +306,6 @@
 <math><mrow><mo>~</mo><mi>p</mi><mo>↔</mo><mtext>&lt;mtext/&gt;</mtext><mo>~</mo><mi>q</mi></mrow></math>
 <math><mrow><mi>p</mi><mtext>:</mtext></mrow></math>
 <math><mrow><mi>q</mi><mtext>:</mtext></mrow></math>
-<math><mrow><mi>p</mi><mo stretchy="false">↔</mo><mi>q</mi></mrow></math>
 <math><mrow><mi>p</mi><mo stretchy="false">↔</mo><mtext>~</mtext><mi>q</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mi>p</mi><mo stretchy="false">↔</mo><mi>q</mi></mrow></math>
 <math><mrow><mi>p</mi><mo>∧</mo><mi>q</mi><mo>↔</mo><mi>p</mi><mo>∧</mo><mo>~</mo><mi>q</mi></mrow></math>
@@ -347,14 +341,9 @@
 <math><mrow><mtext>~</mtext><mi>p</mi><mo stretchy="false">↔</mo><mi>q</mi><mo>∧</mo><mi>p</mi></mrow></math>
 <math><mrow><mi>p</mi><mo stretchy="false">→</mo><mi>q</mi><mo stretchy="false">↔</mo><mtext> </mtext><mtext>~</mtext><mi>p</mi><mo>∨</mo><mi>q</mi></mrow></math>
 <math><mrow><mi>p</mi><mo>∧</mo><mi>q</mi><mo stretchy="false">→</mo><mi>r</mi><mtext> </mtext><mo stretchy="false">↔</mo><mtext> </mtext><mtext>~</mtext><mi>p</mi><mo>∨</mo><mtext>~</mtext><mi>q</mi><mo>∨</mo><mi>r</mi></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mi>p</mi><mo stretchy="false">→</mo><mi>q</mi><mo stretchy="false">)</mo><mo>∧</mo><mrow><mo>(</mo><mrow><mi>q</mi><mo stretchy="false">→</mo><mi>p</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></math>
-<math><mrow><mtext>~</mtext><mi>p</mi></mrow></math>
-<math><mrow><mtext>~</mtext><mi>q</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mi>p</mi><mo>∧</mo><mi>q</mi></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mtext>~</mtext><mi>p</mi><mo>∧</mo><mi>q</mi><mo stretchy="false">)</mo><mo stretchy="false">→</mo><mi>r</mi></mrow></math>
-<math><mrow><mtext>~</mtext><mi>r</mi></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mtext>~</mtext><mi>p</mi><mo>∧</mo><mi>q</mi><mo stretchy="false">)</mo><mo stretchy="false">→</mo><mtext>~</mtext><mi>r</mi></mrow></math>
-<math><mrow><mtext>~</mtext><mi>p</mi><mo>∨</mo><mi>q</mi></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mtext>~</mtext><mi>p</mi><mo>∨</mo><mi>q</mi><mo stretchy="false">)</mo><mo stretchy="false">↔</mo><mtext>~</mtext><mi>r</mi></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mtext>~</mtext><mi>p</mi><mo>∧</mo><mi>q</mi><mo stretchy="false">)</mo><mo stretchy="false">↔</mo><mtext>~</mtext><mi>r</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mi>p</mi><mo>∨</mo><mi>r</mi></mrow></math>
@@ -408,7 +397,6 @@
 <math><mrow><mi>p</mi><mo>→</mo><mi>q</mi><mo lspace="0">:</mo></mrow></math>
 <math><mrow><mi>p</mi><mo lspace="0">:</mo></mrow></math>
 <math><mrow><mi>q</mi><mo lspace="0">:</mo></mrow></math>
-<math><mrow><mi>q</mi><malignmark/><mo lspace="0">:</mo></mrow></math>
 <math><mrow><mo>~</mo><mi>q</mi><mo>→</mo><mtext>&lt;mtext/&gt;</mtext><mo>~</mo><mi>p</mi><mo>.</mo></mrow></math>
 <math><mrow><mrow><mo>(</mo><mrow><mrow><mo>(</mo><mrow><mi>p</mi><mo>→</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>∧</mo><mo>~</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>→</mo><mtext>&lt;mtext/&gt;</mtext><mo>~</mo><mi>p</mi></mrow></math>
 <math><mrow><mo>∴</mo><mtext>&lt;mtext/&gt;</mtext><mo>~</mo><mi>p</mi></mrow></math>
@@ -428,18 +416,15 @@
 <math><mrow><mrow><mo>(</mo><mrow><mi>p</mi><mo>→</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>∧</mo><mrow><mo>(</mo><mrow><mi>p</mi><mo>→</mo><mi>r</mi></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mi>p</mi><mo>→</mo><mi>r</mi></mrow></math>
 <math><mrow><mi>q</mi><mo>→</mo><mi>r</mi><mo lspace="0">:</mo></mrow></math>
-<math><mrow><mi>q</mi><mo stretchy="false">→</mo><mi>r</mi></mrow></math>
 <math><mrow><mo>∴</mo><mi>p</mi><mo stretchy="false">→</mo><mi>r</mi><mo>.</mo><mspace width="thinmathspace"></mspace></mrow></math>
 <math><mrow><mi>p</mi><mo>.</mo></mrow></math>
 <math><mrow><mo>∴</mo><mtext> </mtext><mi>q</mi><mo>.</mo><mspace width="thinmathspace"></mspace></mrow></math>
-<math><mrow><mtext>~</mtext><mi>q</mi><mo>.</mo></mrow></math>
 <math><mrow><mo>∴</mo><mtext> </mtext><mtext>~</mtext><mi>p</mi><mo>.</mo><mspace width="thinmathspace"></mspace></mrow></math>
 <math><mrow><mtext>~</mtext><mi>p</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>q</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>q</mi><mo stretchy="false">→</mo><mtext>~</mtext><mi>r</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>r</mi><mo stretchy="false">→</mo><mtext>~</mtext><mi>q</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mi>q</mi><mo stretchy="false">→</mo><mtext>~</mtext><mi>p</mi><mo>.</mo></mrow></math>
-<math><mrow><mi>p</mi><mo stretchy="false">→</mo><mi>q</mi><mo>.</mo></mrow></math>
 <math><mrow><mtext>~</mtext><mi>r</mi><mo stretchy="false">→</mo><mi>p</mi></mrow></math>
 <math><mrow><mi>p</mi><mo>∧</mo><mi>q</mi><mo stretchy="false">→</mo><mi>r</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mi>r</mi><mo>.</mo></mrow></math>
@@ -568,7 +553,6 @@
 <math><mrow><mo>~</mo><mo stretchy="false">(</mo><mi>p</mi><mo>∨</mo><mi>q</mi><mo stretchy="false">)</mo><mtext>&lt;mtext/&gt;</mtext><mo>≡</mo><mtext>&lt;mtext/&gt;</mtext><mo>~</mo><mi>p</mi><mtext>&lt;mtext/&gt;</mtext><mo>∧</mo><mo>~</mo><mi>q</mi><mo>.</mo></mrow></math>
 <math><mrow><mo>~</mo><mo stretchy="false">(</mo><mi>p</mi><mo>→</mo><mi>q</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>p</mi><mtext>&lt;mtext/&gt;</mtext><mo>∧</mo><mo>~</mo><mi>q</mi><mo>.</mo></mrow></math>
-<math><mrow><mo>~</mo><mrow><mo>(</mo><mrow><mi>p</mi><mo>→</mo><mi>q</mi></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mi>p</mi><mo>∧</mo><mo>~</mo><mi>q</mi><mo>,</mo></mrow></math>
 <math><mrow><mi>p</mi><mi>&lt;mi/&gt;</mi><mo>∧</mo><mo>~</mo><mi>q</mi></mrow></math>
 <math><mrow><mo>~</mo><mrow><mo>(</mo><mrow><mi>p</mi><mo>→</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>↔</mo><mrow><mo>(</mo><mrow><mi>p</mi><mi>&lt;mi/&gt;</mi><mo>∧</mo><mo>~</mo><mi>q</mi></mrow><mo>)</mo></mrow></mrow></math>
@@ -598,22 +582,17 @@
 <math><mrow><mo>~</mo><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mi>q</mi></mrow><mo>)</mo></mrow><mtext>&lt;mtext/&gt;</mtext><mo>↔</mo><mtext>&lt;mtext/&gt;</mtext><mo>~</mo><mi>p</mi><mtext>&lt;mtext/&gt;</mtext><mo>∨</mo><mo>~</mo><mi>q</mi><mo>.</mo></mrow></math>
 <math><mrow><mo>~</mo><mo stretchy="false">(</mo><mi>p</mi><mo>∧</mo><mi>q</mi><mo stretchy="false">)</mo><mo>,</mo></mrow></math>
 <math><mrow><mo>~</mo><mi>p</mi><mtext>&lt;mtext/&gt;</mtext><mo>∨</mo><mo>~</mo><mi>q</mi><mo>,</mo></mrow></math>
-<math><mrow><mo>~</mo><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mi>q</mi></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mo>~</mo><mi>p</mi><mi>&lt;mi/&gt;</mi><mo>∨</mo><mo>~</mo><mi>q</mi></mrow></math>
 <math><mrow><mo>~</mo><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>↔</mo><mrow><mo>(</mo><mrow><mo>~</mo><mi>p</mi><mi>&lt;mi/&gt;</mi><mo>∨</mo><mo>~</mo><mi>q</mi></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mtext>~</mtext><mrow><mo>(</mo><mrow><mi>p</mi><mo>∨</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>≡</mo><mtext>~</mtext><mi>p</mi><mo>∧</mo><mtext>~</mtext><mi>q</mi></mrow></math>
-<math><mrow><mtext>~</mtext><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mi>q</mi></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mtext>~</mtext><mrow><mo>(</mo><mrow><mi>p</mi><mo>∨</mo><mi>q</mi></mrow><mo>)</mo></mrow></mrow></math>
-<math><mrow><mtext>~</mtext><mrow><mo>(</mo><mrow><mi>p</mi><mo stretchy="false">→</mo><mi>q</mi></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mtext>~</mtext><mrow><mo>(</mo><mrow><mtext>~</mtext><mrow><mo>(</mo><mrow><mi>p</mi><mo stretchy="false">→</mo><mi>q</mi></mrow><mo>)</mo></mrow></mrow><mo>)</mo></mrow><mo>≡</mo><mi>p</mi><mo stretchy="false">→</mo><mi>q</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mtext>~</mtext><mi>q</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></math>
 <math><mrow><mtext>~</mtext><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mtext>~</mtext><mi>q</mi></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mi>p</mi><mo stretchy="false">→</mo><mi>q</mi><mo>≡</mo><mtext>~</mtext><mi>p</mi><mo>∨</mo><mi>q</mi><mo>.</mo></mrow></math>
 <math><mrow><mtext>~</mtext><mo stretchy="false">(</mo><mtext>~</mtext><mi>p</mi><mo>∨</mo><mi>q</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mtext>~</mtext><mrow><mo>(</mo><mrow><mtext>~</mtext><mi>p</mi><mo>∧</mo><mtext>~</mtext><mi>q</mi></mrow><mo>)</mo></mrow></mrow></math>
-<math><mrow><mtext>~</mtext><mo stretchy="false">(</mo><mi>p</mi><mo>∧</mo><mtext>~</mtext><mi>q</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mtext>~</mtext><mrow><mo>(</mo><mrow><mtext>~</mtext><mi>p</mi><mo>∨</mo><mtext>~</mtext><mi>q</mi></mrow><mo>)</mo></mrow></mrow></math>
-<math><mrow><mtext>~</mtext><mo stretchy="false">(</mo><mi>p</mi><mo stretchy="false">→</mo><mi>q</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mtext>~</mtext><mo stretchy="false">(</mo><mi>p</mi><mo stretchy="false">→</mo><mtext>~</mtext><mi>q</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mtext>~</mtext><mo stretchy="false">(</mo><mtext>~</mtext><mi>p</mi><mo stretchy="false">→</mo><mi>q</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mtext>~</mtext><mo stretchy="false">(</mo><mtext>~</mtext><mi>p</mi><mo stretchy="false">→</mo><mtext>~</mtext><mi>q</mi><mo stretchy="false">)</mo></mrow></math>
@@ -641,14 +620,12 @@
 <math><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></math>
 <math><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow></math>
 <math><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></math>
-<math><mrow><mi>f</mi><mrow><mo>(</mo><mrow><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mi>f</mi><mrow><mo>(</mo><mi>a</mi><mo>)</mo></mrow></mrow></math>
 <math><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>f</mi><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>2</mn><msup><mrow><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo></mrow><mn>2</mn></msup><mo>+</mo><mn>3</mn><mo>⋅</mo><mn>3</mn><mo>−</mo><mn>1</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>f</mi><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>2</mn><mo>⋅</mo><mn>9</mn><mo>+</mo><mn>3</mn><mo>⋅</mo><mn>3</mn><mo>−</mo><mn>1</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>f</mi><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>18</mn><mo>+</mo><mn>9</mn><mo>−</mo><mn>1</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>f</mi><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>26</mn></mtd></mtr></mtable></math>
 <math><mrow><mo mathvariant="bold">−</mo><mn mathvariant="bold">2</mn></mrow></math>
 <math><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>f</mi><mo stretchy="false">(</mo><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>2</mn><msup><mrow><mo>(</mo><mrow><mo mathvariant="bold">−</mo><mn mathvariant="bold">2</mn></mrow><mo>)</mo></mrow><mn>2</mn></msup><mo>+</mo><mn>3</mn><mo stretchy="false">(</mo><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo><mo>−</mo><mn>1</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>f</mi><mo stretchy="false">(</mo><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>2</mn><mo>⋅</mo><mn>4</mn><mo>+</mo><mo stretchy="false">(</mo><mo>−</mo><mn>6</mn><mo stretchy="false">)</mo><mo>−</mo><mn>1</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>f</mi><mo stretchy="false">(</mo><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>8</mn><mo>+</mo><mo stretchy="false">(</mo><mo>−</mo><mn>6</mn><mo stretchy="false">)</mo><mo>−</mo><mn>1</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>f</mi><mo stretchy="false">(</mo><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>1</mn></mtd></mtr></mtable></math>
 <math><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>f</mi><mrow><mo>(</mo><mi>a</mi><mo>)</mo></mrow></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>2</mn><msup><mrow><mo>(</mo><mi>a</mi><mo>)</mo></mrow><mn>2</mn></msup><mo>+</mo><mn>3</mn><mo>⋅</mo><mi>a</mi><mo>−</mo><mn>1</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>f</mi><mrow><mo>(</mo><mi>a</mi><mo>)</mo></mrow></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>2</mn><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>a</mi><mo>−</mo><mn>1</mn></mrow></mtd></mtr></mtable></math>
 <math><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></math>
-<math><mrow><mi>f</mi><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mi>f</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow></mrow></math>
 <math><mrow><mi>N</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>75</mn><mo>+</mo><mn>10</mn><mi>t</mi></mrow></math>
 <math><mi>N</mi></math>
@@ -699,7 +676,6 @@
 <math><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow></math>
 <math><mrow><mo>{</mo><mrow><mn>15</mn><mo>,</mo><mn>25</mn><mo>,</mo><mn>35</mn><mo>,</mo><mn>45</mn></mrow><mo>}</mo></mrow></math>
 <math><mrow><mi>f</mi><mrow><mo>(</mo><mrow><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mi>f</mi><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>,</mo><mi>f</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow><mo>,</mo></mrow></math>
-<math><mrow><mi>f</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow></mrow></math>
 <math><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>4</mn><mo>−</mo><mn>2</mn><mi>x</mi></mrow></math>
 <math><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>8</mn><mo>−</mo><mn>3</mn><mi>x</mi></mrow></math>
 <math><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>8</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></math>
@@ -717,7 +693,6 @@
 <math><mrow><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>y</mi><mo>=</mo><mn>14</mn></mrow></math>
 <math><mrow><mn>2</mn><mi>x</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>6</mn></mrow></math>
 <math><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>40</mn><mi>x</mi></mrow></math>
-<math><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mo>−</mo><mn>3</mn><mo>,</mo><mn>9</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mo>−</mo><mn>2</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>9</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow></math>
 <math><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mo>−</mo><mn>9</mn><mo>,</mo><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mo>−</mo><mn>4</mn><mo>,</mo><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn><mo>,</mo><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>9</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow></math>
 <math><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mo>−</mo><mn>3</mn><mo>,</mo><mn>27</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mo>−</mo><mn>2</mn><mo>,</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>27</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow></math>
 <math><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mo>−</mo><mn>3</mn><mo>,</mo><mo>−</mo><mn>27</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mo>−</mo><mn>2</mn><mo>,</mo><mo>−</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn><mo>,</mo><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>27</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow></math>
@@ -792,7 +767,6 @@
 <math><mrow><mfrac><mrow><mn>2</mn><mi>π</mi></mrow><mn>3</mn></mfrac><mrow><mo>(</mo><mfrac><mn>180</mn><mi>π</mi></mfrac><mo>)</mo></mrow><mo>=</mo><msup><mn>120</mn><mo>∘</mo></msup><mo>.</mo></mrow></math>
 <math><msup><mn>30</mn><mo>∘</mo></msup></math>
 <math><mrow><msup><mn>30</mn><mo>∘</mo></msup><mrow><mo>(</mo><mfrac><mi>π</mi><mn>180</mn></mfrac><mo>)</mo></mrow><mo>=</mo><mfrac><mi>π</mi><mn>6</mn></mfrac></mrow></math>
-<math><mrow><mfrac><mi>π</mi><mn>180</mn></mfrac><mtext>.</mtext></mrow></math>
 <math><msup><mn>180</mn><mo>∘</mo></msup></math>
 <math><mrow><msup><mn>90</mn><mo>∘</mo></msup><mo>;</mo></mrow></math>
 <math><msup><mn>90</mn><mo>∘</mo></msup></math>
@@ -871,7 +845,6 @@
 <math><mrow><mi>m</mi><mo>∡</mo><mn>7</mn><mo>=</mo><mi>m</mi><mo>∡</mo><mn>2</mn><mo>=</mo><msup><mn>23</mn><mo>∘</mo></msup></mrow></math>
 <math><mrow><mi>m</mi><mo>∡</mo><mn>6</mn><mo>=</mo><mi>m</mi><mo>∡</mo><mn>7</mn><mo>=</mo><msup><mn>23</mn><mo>∘</mo></msup></mrow></math>
 <math><mrow><mi>m</mi><mi>∡</mi><mn>2</mn><mo>=</mo><msup><mn>48</mn><mo>∘</mo></msup></mrow></math>
-<math><mrow><mi>m</mi><mi>∡</mi><mn>1</mn></mrow></math>
 <math><mrow><mi>m</mi><mi>∡</mi><mn>5.</mn></mrow></math>
 <math><msub><mi>l</mi><mn>1</mn></msub></math>
 <math><msub><mi>l</mi><mn>2</mn></msub></math>
@@ -888,9 +861,6 @@
 <math><mrow><mi>m</mi><mi>∡</mi><mo>=</mo><msup><mn>176</mn><mo>∘</mo></msup></mrow></math>
 <math><mrow><mi>m</mi><mi>∡</mi><mo>=</mo><msup><mn>90</mn><mo>∘</mo></msup></mrow></math>
 <math><mrow><mi>m</mi><mi>∡</mi><mo>=</mo><msup><mn>37</mn><mo>∘</mo></msup></mrow></math>
-<math><mrow><mi>∡</mi><mn>1</mn></mrow></math>
-<math><mrow><mi>∡</mi><mn>3</mn></mrow></math>
-<math><mrow><mi>∡</mi><mn>5</mn></mrow></math>
 <math><mrow><mi>m</mi><mi>∡</mi><mo>=</mo><msup><mn>32</mn><mo>∘</mo></msup></mrow></math>
 <math><mrow><mi>m</mi><mi>∡</mi><mo>=</mo><msup><mn>120</mn><mo>∘</mo></msup></mrow></math>
 <math><mrow><mi>m</mi><mi>∡</mi><mo>=</mo><msup><mn>110</mn><mo>∘</mo></msup></mrow></math>
@@ -1049,7 +1019,6 @@
 <math><mrow><mi>n</mi><mo stretchy="false">(</mo><mi>A</mi><mo>∪</mo><mi>B</mi><mo stretchy="false">)</mo><mo>=</mo><mi>n</mi><mo stretchy="false">(</mo><mi>A</mi><mo stretchy="false">)</mo><mo>+</mo><mi>n</mi><mo stretchy="false">(</mo><mi>B</mi><mo stretchy="false">)</mo><mo>−</mo><mi>n</mi><mo stretchy="false">(</mo><mi>A</mi><mo>∩</mo><mi>B</mi><mo stretchy="false">)</mo><mo>=</mo><mn>10</mn><mo>+</mo><mn>20</mn><mo>−</mo><mn>4</mn><mo>=</mo><mn>26.</mn></mrow></math>
 <math><mrow><mi>n</mi><mo stretchy="false">(</mo><mi>A</mi><mo stretchy="false">)</mo><mo>=</mo><mn>23</mn><mo>,</mo><mi>n</mi><mo stretchy="false">(</mo><mi>B</mi><mo stretchy="false">)</mo><mo>=</mo><mn>17</mn><mo>,</mo></mrow></math>
 <math><mrow><mi>n</mi><mo stretchy="false">(</mo><mi>A</mi><mo>∩</mo><mi>B</mi><mo stretchy="false">)</mo><mo>=</mo><mn>7</mn><mo>,</mo></mrow></math>
-<math><mrow><mi>n</mi><mo stretchy="false">(</mo><mi>A</mi><mo>∪</mo><mi>B</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>n</mi><mo stretchy="false">(</mo><mi>A</mi><mo>∪</mo><mi>B</mi><mo stretchy="false">)</mo><mo>=</mo><mi>n</mi><mo stretchy="false">(</mo><mi>A</mi><mo stretchy="false">)</mo><mo>+</mo><mi>n</mi><mo stretchy="false">(</mo><mi>B</mi><mo stretchy="false">)</mo><mo>−</mo><mi>n</mi><mo stretchy="false">(</mo><mi>A</mi><mo>∩</mo><mi>B</mi><mo stretchy="false">)</mo><mo>.</mo></mrow></math>
 <math><mrow><mi>n</mi><mo stretchy="false">(</mo><mi>A</mi><mo>∩</mo><mi>B</mi><mo stretchy="false">)</mo><mo>=</mo><mi>n</mi><mo stretchy="false">(</mo><mo>∅</mo><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn></mrow></math>
 <math><mrow><mi>n</mi><mo stretchy="false">(</mo><mi>A</mi><mo>∪</mo><mi>B</mi><mo stretchy="false">)</mo><mo>=</mo><mn>37</mn><mo>+</mo><mn>43</mn><mo>−</mo><mn>0</mn><mo>=</mo><mn>80.</mn></mrow></math>
@@ -1083,12 +1052,10 @@
 <math><mrow><mn>42</mn><mo>=</mo><mn>50</mn><mo>−</mo><mi>n</mi><mo stretchy="false">(</mo><mtext>cake and ice cream)</mtext><mtext>.</mtext></mrow></math>
 <math><mrow><mi>n</mi><mo stretchy="false">(</mo><mtext>cake and ice cream)</mtext><mo>=</mo><mn>50</mn><mo>−</mo><mn>42</mn><mo>=</mo><mn>8.</mn></mrow></math>
 <math><mrow><mi>A</mi><mo>.</mo></mrow></math>
-<math><msup><mi>B</mi><mo>′</mo></msup></math>
 <math><mrow><mi>n</mi><mo stretchy="false">(</mo><msup><mi>B</mi><mo>′</mo></msup><mo stretchy="false">)</mo><mo>.</mo></mrow></math>
 <math><mrow><mi>A</mi><mo>∪</mo><mi>B</mi><mo>=</mo><mo>{</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>5</mn><mo>,</mo><mn>6</mn><mo>,</mo><mn>7</mn><mo>,</mo><mn>8</mn><mo>}</mo><mo>,</mo></mrow></math>
 <math><mrow><msup><mi>B</mi><mo>′</mo></msup><mo>=</mo><mo>{</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>3</mn><mo>,</mo><mn>5</mn><mo>,</mo><mn>7</mn><mo>,</mo><mn>9</mn><mo>}</mo><mo>.</mo></mrow></math>
 <math><mrow><msup><mi>B</mi><mo>′</mo></msup><mo>,</mo><mspace width="0.28em"></mspace><mtext>is</mtext><mspace width="0.28em"></mspace><mi>n</mi><mo stretchy="false">(</mo><msup><mi>B</mi><mo>′</mo></msup><mo stretchy="false">)</mo><mo>=</mo><mn>6.</mn></mrow></math>
-<math><mrow><mi>A</mi><mo>∩</mo><msup><mi>B</mi><mo>′</mo></msup></mrow></math>
 <math><mrow><mi>n</mi><mo stretchy="false">(</mo><mi>A</mi><mo>∩</mo><msup><mi>B</mi><mo>′</mo></msup><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>n</mi><mo stretchy="false">(</mo><mi>A</mi><mspace width="0.28em"></mspace><mtext>or</mtext><mspace width="0.28em"></mspace><mi>B</mi><mo stretchy="false">)</mo><mo>.</mo></mrow></math>
 <math><mrow><mi>n</mi><mo stretchy="false">(</mo><mi>A</mi><mspace width="0.28em"></mspace><mtext>and</mtext><mspace width="0.28em"></mspace><mi>B</mi><mo stretchy="false">)</mo><mo>.</mo></mrow></math>
@@ -1257,7 +1224,6 @@
 <math><mrow><mfrac><mn>608</mn><mrow><mn>6</mn><mo>-</mo><mn>1</mn></mrow></mfrac><mo>=</mo><mn>121.6</mn></mrow></math>
 <math><mrow><msqrt><mn>121.6</mn></msqrt><mo>≈</mo><mn>11.027</mn></mrow></math>
 <math><mrow><mi>s</mi><mo>≈</mo><mn>11.027</mn></mrow></math>
-<math><mrow><mi>p</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mo>~</mo><mrow><mo>(</mo><mrow><mo>~</mo><mi>p</mi></mrow><mo>)</mo></mrow><mo>=</mo><mi>p</mi><mo>.</mo></mrow></math>
 <math><mrow><mo>~</mo><mo stretchy="false">(</mo><mo>~</mo><mi>q</mi><mo stretchy="false">)</mo><mo>=</mo><mi>q</mi><mo>.</mo></mrow></math>
 <math><mrow><mn>1</mn><mo>+</mo><mn>2</mn><mo>=</mo><mn>3</mn><mo>,</mo></mrow></math>
@@ -1274,13 +1240,11 @@
 <math><mrow><mi>A</mi><mo>∩</mo><mi>B</mi><mo>≠</mo><mo>∅</mo><mo>.</mo></mrow></math>
 <math><mi>s</mi></math>
 <math><mrow><mo>~</mo><mi>s</mi></mrow></math>
-<math><mrow><mtext>~</mtext><mi>s</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mo stretchy="false">(</mo><mtext>~</mtext><mi>p</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mn>8</mn><mo>−</mo><mn>3</mn><mo>=</mo><mn>5</mn></mrow></math>
 <math><mrow><mn>7</mn><mo>+</mo><mn>3</mn><mo>=</mo><mn>11</mn></mrow></math>
 <math><mrow><mtext>~</mtext><mi>u</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mi>v</mi></mrow></math>
-<math><mrow><mtext>~</mtext><mtext>(</mtext><mtext>~</mtext><mi>p</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mtext>~</mtext><mtext>(</mtext><mtext>~</mtext><mi>r</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mtext>~</mtext><mi>t</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mtext>(</mtext><mtext>~</mtext><mi>t</mi><mo stretchy="false">)</mo></mrow></math>
@@ -1407,8 +1371,6 @@
 <math><mrow><mn>17,500,000</mn><mo rspace="0.28em">⁢</mo><mi mathvariant="normal">g</mi><mo>÷</mo><mn>1,000</mn><mo>=</mo><mn>17,500</mn><mo rspace="0.28em">⁢</mo><mi>kg</mi></mrow></math>
 <math><mrow><mn>17,500</mn><mo rspace="0.28em">⁢</mo><mi>kg</mi><mo>÷</mo><mn>12</mn><mo rspace="0.28em">⁢</mo><mi>kg</mi><mo>≈</mo><mn>1,458</mn></mrow></math>
 <math><mi>z</mi></math>
-<math><mi mathvariant="italic">x</mi></math>
-<math><mi mathvariant="italic">y</mi></math>
 <math><mrow><mo>{</mo><mtable columnalign="left"><mtr><mtd><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>7</mn></mrow></mtd></mtr><mtr><mtd><mrow><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>6</mn></mrow></mtd></mtr></mtable></mrow></math>
 <math><mrow><mo>{</mo><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mrow><mi>x</mi><mo>−</mo><mi>y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mo>−</mo><mn>1</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mi>y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mo>−</mo><mn>5</mn></mrow></mtd></mtr></mtable></mrow></math>
 <math><mrow><mo>(</mo><mrow><mo>−</mo><mn>2</mn><mo>,</mo><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></math>
@@ -1432,9 +1394,7 @@
 <math><mrow><mo>{</mo><mtable columnalign="left" rowspacing="4pt" columnspacing="1em"><mtr><mtd><mrow><mspace width="1em"></mspace><mspace width="1em"></mspace><mspace width="1em"></mspace><mspace width="thinmathspace"></mspace><mspace width="thinmathspace"></mspace><mspace width="thinmathspace"></mspace><mi>y</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mtd></mtr><mtr><mtd><mrow><mo>−</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>5</mn></mrow></mtd></mtr></mtable><mo fence="true" stretchy="true" symmetric="true">&lt;mo fence="true" stretchy="true" symmetric="true"/&gt;</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mn>3</mn><mo>,</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mo>−</mo><mn>3</mn><mo>,</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mo>{</mo><mtable columnalign="right"><mtr><mtd><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>7</mn></mrow></mtd></mtr><mtr><mtd><mrow><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>6</mn></mrow></mtd></mtr></mtable></mrow></math>
 <math><mtable columnalign="center"><mtr><mtd><mrow><mspace width="1em"></mspace><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mrow><mn>2</mn><mi mathvariant="bold-italic">x</mi><mo>+</mo><mi mathvariant="bold-italic">y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>7</mn></mtd></mtr><mtr><mtd columnalign="right"><mi>y</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mo>-</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>7</mn></mrow></mtd></mtr></mtable></mrow></mtd></mtr><mtr><mtd><mrow><mi>m</mi><mo>=</mo><mo>-</mo><mn>2</mn><mspace width="2em"></mspace><mi>b</mi><mo>=</mo><mn>7</mn></mrow></mtd></mtr></mtable></math>
-<math><mrow><mo>{</mo><mtable columnalign="left"><mtr><mtd><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>7</mn></mrow></mtd></mtr><mtr><mtd><mrow><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>6</mn></mrow></mtd></mtr></mtable></mrow></math>
 <math><mtable columnalign="center"><mtr><mtd><mrow><mi mathvariant="bold-italic">x</mi><mo>-</mo><mn>2</mn><mi mathvariant="bold-italic">y</mi><mo>=</mo><mn>6</mn></mrow></mtd></mtr><mtr><mtd><mrow><mo stretchy="false">(</mo><mn>0</mn><mo>,</mo><mo>-</mo><mn>3</mn><mo stretchy="false">)</mo><mspace width="1em"></mspace><mo stretchy="false">(</mo><mn>6</mn><mo>,</mo><mn>0</mn><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable></math>
 <math><mrow><mo stretchy="false">(</mo><mn>4</mn><mo>,</mo><mo>-</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>7</mn></mtd></mtr><mtr><mtd columnalign="right"><mrow><mn>2</mn><mo stretchy="false">(</mo><mn>4</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mo>-</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="center"><mover><mo>=</mo><mo>?</mo></mover></mtd><mtd columnalign="left"><mn>7</mn></mtd></mtr><mtr><mtd columnalign="right"><mrow><mn>8</mn><mo>-</mo><mn>1</mn></mrow></mtd><mtd columnalign="center"><mover><mo>=</mo><mo>?</mo></mover></mtd><mtd columnalign="left"><mn>7</mn></mtd></mtr><mtr><mtd columnalign="right"><mn>7</mn></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>7</mn><mo>✓</mo></mrow></mtd></mtr><mtr><mtd/><mtd/><mtd/></mtr><mtr><mtd columnalign="right"><mrow><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>6</mn></mtd></mtr><mtr><mtd columnalign="right"><mrow><mn>4</mn><mo>-</mo><mn>2</mn><mo stretchy="false">(</mo><mo>-</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="center"><mover><mo>=</mo><mo>?</mo></mover></mtd><mtd columnalign="left"><mn>6</mn></mtd></mtr><mtr><mtd columnalign="right"><mn>6</mn></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>6</mn><mo>✓</mo></mrow></mtd></mtr></mtable></math>
@@ -1445,7 +1405,6 @@
 <math><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mrow><mi>x</mi><mo>-</mo><mn>2</mn><mo stretchy="false">(</mo><mn>7</mn><mo>-</mo><mn>2</mn><mi>x</mi><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>6</mn></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>x</mi><mo>-</mo><mn>14</mn><mo>+</mo><mn>4</mn><mi>x</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>6</mn></mtd></mtr><mtr><mtd columnalign="right"><mrow><mn>5</mn><mi>x</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>20</mn></mtd></mtr><mtr><mtd columnalign="right"><mi>x</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn mathvariant="bold">4</mn></mtd></mtr></mtable></math>
 <math><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>7</mn></mtd></mtr><mtr><mtd columnalign="right"><mrow><mn>2</mn><mo stretchy="false">(</mo><mn mathvariant="bold">4</mn><mo stretchy="false">)</mo><mo>+</mo><mi>y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>7</mn></mtd></mtr><mtr><mtd columnalign="right"><mrow><mn>8</mn><mo>+</mo><mi>y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>7</mn></mtd></mtr><mtr><mtd columnalign="right"><mi>y</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mo>-</mo><mn>1</mn></mrow></mtd></mtr></mtable></math>
 <math><mrow><mi>x</mi><mo>=</mo><mn>4</mn></mrow></math>
-<math><mrow><mi>y</mi><mo>=</mo><mo>-</mo><mn>1</mn></mrow></math>
 <math><mtable><mtr><mtd><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>7</mn></mtd></mtr><mtr><mtd columnalign="right"><mrow><mn>2</mn><mo stretchy="false">(</mo><mn>4</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mo>-</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="center"><mover><mo>=</mo><mo>?</mo></mover></mtd><mtd columnalign="left"><mn>7</mn></mtd></mtr><mtr><mtd columnalign="right"><mn>7</mn></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>7</mn><mo>✓</mo></mrow></mtd></mtr></mtable></mtd><mtd><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mrow><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>6</mn></mtd></mtr><mtr><mtd columnalign="right"><mrow><mn>4</mn><mo>-</mo><mn>2</mn><mo stretchy="false">(</mo><mo>-</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="center"><mover><mo>=</mo><mo>?</mo></mover></mtd><mtd columnalign="left"><mn>6</mn></mtd></mtr><mtr><mtd columnalign="right"><mn>6</mn></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>6</mn><mo>✓</mo></mrow></mtd></mtr></mtable></mtd></mtr></mtable></math>
 <math><mrow><mo>{</mo><mtable rowspacing="3pt" columnspacing="1em" displaystyle="true"><mtr><mtd><mrow><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>=</mo><mo>−</mo><mn>3</mn></mrow></mtd></mtr><mtr><mtd><mrow><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>5</mn></mrow></mtd></mtr></mtable><mo fence="true" stretchy="true" symmetric="true">&lt;mo fence="true" stretchy="true" symmetric="true"/&gt;</mo></mrow></math>
 <math><mi>d</mi></math>
@@ -1458,13 +1417,11 @@
 <math><mrow><mo>{</mo><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mrow><mo mathvariant="bold">−</mo><mn mathvariant="bold">2</mn><mi>x</mi><mo>−</mo><mn mathvariant="bold">8</mn><mi>y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn mathvariant="bold">4</mn></mtd></mtr><mtr><mtd columnalign="right"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mo>−</mo><mn>2</mn></mrow></mtd></mtr></mtable></mrow></math>
 <math><mtable columnalign="right"><mtr><mtd><mrow><mo>{</mo><mtable columnalign="right"><mtr><mtd><mrow><mo mathvariant="bold">−</mo><mn mathvariant="bold">2</mn><mi>x</mi><mo>−</mo><mn mathvariant="bold">8</mn><mi>y</mi><mo>=</mo><mn mathvariant="bold">4</mn></mrow></mtd></mtr><mtr><mtd><munder accentunder="true"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi><mo>=</mo><mo>−</mo><mn>2</mn><mspace width="0.1em"></mspace></mrow><mo stretchy="true">_</mo></munder></mtd></mtr></mtable></mrow></mtd></mtr><mtr><mtd><mrow><mo>−</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>2</mn><mspace width="0.28em"></mspace></mrow></mtd></mtr></mtable></math>
 <math><mrow><mi>A</mi><mi>x</mi><mo>+</mo><mi>B</mi><mi>y</mi><mo>=</mo><mi>C</mi></mrow></math>
-<math><mrow><mo>{</mo><mtable columnalign="right"><mtr><mtd><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>7</mn></mrow></mtd></mtr><mtr><mtd><mrow><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>6</mn></mrow></mtd></mtr></mtable></mrow></math>
 <math><mrow><mo>{</mo><mtable columnalign="right"><mtr><mtd><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi mathvariant="bold-italic">y</mi><mo>=</mo><mn>7</mn></mrow></mtd></mtr><mtr><mtd><mrow><mi>x</mi><mo>-</mo><mn mathvariant="bold">2</mn><mi mathvariant="bold-italic">y</mi><mo>=</mo><mn>6</mn></mrow></mtd></mtr></mtable></mrow></math>
 <math><mrow><mo>{</mo><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mrow><mn mathvariant="bold">2</mn><mo stretchy="false">(</mo><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn mathvariant="bold">2</mn><mo stretchy="false">(</mo><mn>7</mn><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>6</mn></mtd></mtr></mtable></mrow></math>
 <math><mtable columnalign="right"><mtr><mtd><mrow><mo>{</mo><mtable columnalign="right"><mtr><mtd><mrow><mn mathvariant="bold">4</mn><mi>x</mi><mo>+</mo><mn mathvariant="bold">2</mn><mi>y</mi><mo>=</mo><mn mathvariant="bold">14</mn></mrow></mtd></mtr><mtr><mtd><munder accentunder="true"><mrow><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>6</mn><mspace width="0.6em"></mspace></mrow><mo stretchy="true">_</mo></munder></mtd></mtr></mtable></mrow></mtd></mtr><mtr><mtd><mrow><mn>5</mn><mi>x</mi><mspace width="2.2em"></mspace><mo>=</mo><mn>20</mn><mspace width="0.28em"></mspace></mrow></mtd></mtr></mtable></math>
 <math><mrow><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>6</mn></mrow></math>
 <math><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mrow><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>6</mn></mtd></mtr><mtr><mtd columnalign="right"><mrow><mn mathvariant="bold">4</mn><mo>-</mo><mn>2</mn><mi>y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>6</mn></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>-</mo><mn>2</mn><mi>y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>2</mn></mtd></mtr><mtr><mtd columnalign="right"><mi>y</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mo>-</mo><mn>1</mn></mrow></mtd></mtr></mtable></math>
-<math><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mtable><mtr><mtd><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>7</mn></mtd></mtr><mtr><mtd columnalign="right"><mrow><mn>2</mn><mo stretchy="false">(</mo><mn mathvariant="bold">4</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mo mathvariant="bold">-</mo><mn mathvariant="bold">1</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="center"><mover><mo>=</mo><mo>?</mo></mover></mtd><mtd columnalign="left"><mn>7</mn></mtd></mtr><mtr><mtd columnalign="right"><mn>7</mn></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>7</mn><mo>✓</mo></mrow></mtd></mtr></mtable></mtd><mtd><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mrow><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>6</mn></mtd></mtr><mtr><mtd columnalign="right"><mrow><mn mathvariant="bold">4</mn><mo>-</mo><mn>2</mn><mo stretchy="false">(</mo><mo mathvariant="bold">-</mo><mn mathvariant="bold">1</mn><mo stretchy="false">)</mo></mrow></mtd><mtd columnalign="center"><mover><mo>=</mo><mo>?</mo></mover></mtd><mtd columnalign="left"><mn>6</mn></mtd></mtr><mtr><mtd columnalign="right"><mn>6</mn></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>6</mn><mo>✓</mo></mrow></mtd></mtr></mtable></mtd></mtr></mtable></math>
 <math><mrow><mo>{</mo><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mi>y</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>4</mn></mtd></mtr></mtable></mrow></math>
 <math><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mi mathvariant="bold-italic">y</mi></mtd><mtd columnalign="center"><mo mathvariant="bold">=</mo></mtd><mtd columnalign="left"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mi mathvariant="bold-italic">x</mi><mo>−</mo><mn>3</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>m</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mfrac><mn>1</mn><mn>2</mn></mfrac></mtd></mtr><mtr><mtd columnalign="right"><mi>b</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mo>−</mo><mn>3</mn></mrow></mtd></mtr></mtable></math>
@@ -1487,7 +1444,6 @@
 <math><mrow><mrow><mo>|</mo><msub><mi>D</mi><mi>x</mi></msub><mo>|</mo></mrow><mo>=</mo><mrow><mo>|</mo><mtable><mtr><mtd><mn>7</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>6</mn></mtd><mtd><mrow><mo>−</mo><mn>2</mn></mrow></mtd></mtr></mtable><mo>|</mo></mrow><mo>=</mo><mo>−</mo><mn>14</mn><mo>−</mo><mn>6</mn><mo>=</mo><mo>−</mo><mn>20</mn></mrow></math>
 <math><mrow><mi>x</mi><mo>=</mo><mfrac><mrow><mo>|</mo><msub><mi>D</mi><mi>x</mi></msub><mo>|</mo></mrow><mrow><mo>|</mo><mi>D</mi><mo>|</mo></mrow></mfrac><mo>,</mo><mi>y</mi><mo>=</mo><mfrac><mrow><mo>|</mo><msub><mi>D</mi><mi>y</mi></msub><mo>|</mo></mrow><mrow><mo>|</mo><mi>D</mi><mo>|</mo></mrow></mfrac></mrow></math>
 <math><mrow><mi>x</mi><mo>=</mo><mfrac><mrow><mo>−</mo><mn>20</mn></mrow><mrow><mo>−</mo><mn>5</mn></mrow></mfrac><mo>=</mo><mn>4</mn><mo>;</mo><mi>y</mi><mo>=</mo><mfrac><mn>5</mn><mrow><mo>−</mo><mn>5</mn></mrow></mfrac><mo>=</mo><mo>−</mo><mn>1.</mn></mrow></math>
-<math><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mi>s</mi><mo>=</mo><mtext>Heather’s salary</mtext></mrow></math>
 <math><mrow><mi>n</mi><mo>=</mo><mtext>the number of training sessions</mtext></mrow></math>
 <math><mrow><mi>s</mi><mo>=</mo><mn>25,000</mn><mo>+</mo><mn>15</mn><mi>n</mi></mrow></math>
@@ -1668,7 +1624,6 @@
 <math><mover><mrow><mi>A</mi><mi>B</mi></mrow><mo accent="false">¯</mo></mover></math>
 <math><mover><mrow><mi>B</mi><mi>A</mi></mrow><mo>←</mo></mover></math>
 <math><mover><mrow><mi>A</mi><mi>D</mi></mrow><mo>↔</mo></mover></math>
-<math><mover accent="true"><mrow><mi>A</mi><mi>B</mi></mrow><mo stretchy="true">¯</mo></mover></math>
 <math><mrow><mover accent="true"><mrow><mi>B</mi><mi>C</mi></mrow><mo stretchy="true">¯</mo></mover><mo>,</mo></mrow></math>
 <math><mover accent="true"><mrow><mi>C</mi><mi>D</mi></mrow><mo stretchy="true">¯</mo></mover></math>
 <math><mover accent="true"><mrow><mi>H</mi><mi>I</mi></mrow><mo stretchy="true">¯</mo></mover></math>
@@ -1715,14 +1670,12 @@
 <math><mrow><mover accent="true"><mrow><mi>A</mi><mi>D</mi></mrow><mo stretchy="true">↔</mo></mover><mo>∪</mo><mover accent="true"><mrow><mi>B</mi><mi>C</mi></mrow><mo stretchy="true">¯</mo></mover></mrow></math>
 <math><mrow><mover accent="true"><mrow><mi>A</mi><mi>D</mi></mrow><mo stretchy="true">↔</mo></mover><mo>∩</mo><mover accent="true"><mrow><mi>B</mi><mi>C</mi></mrow><mo stretchy="true">¯</mo></mover></mrow></math>
 <math><mrow><mover accent="true"><mrow><mi>B</mi><mi>A</mi></mrow><mo stretchy="true">←</mo></mover><mo>∩</mo><mover accent="true"><mrow><mi>C</mi><mi>D</mi></mrow><mo stretchy="true">¯</mo></mover></mrow></math>
-<math><mover accent="true"><mrow><mi>B</mi><mi>D</mi></mrow><mo stretchy="true">→</mo></mover></math>
 <math><mrow><mover accent="true"><mrow><mi>C</mi><mi>A</mi></mrow><mo stretchy="true">←</mo></mover><mo>.</mo></mrow></math>
 <math><mover accent="true"><mrow><mi>B</mi><mi>C</mi></mrow><mo stretchy="true">¯</mo></mover></math>
 <math><mrow><mover accent="true"><mrow><mi>B</mi><mi>D</mi></mrow><mo stretchy="true">→</mo></mover><mo>∩</mo><mover accent="true"><mrow><mi>C</mi><mi>A</mi></mrow><mo stretchy="true">←</mo></mover><mo>=</mo><mover accent="true"><mrow><mi>B</mi><mi>C</mi></mrow><mo stretchy="true">¯</mo></mover><mo>.</mo></mrow></math>
 <math><mrow><mover accent="true"><mrow><mi>A</mi><mi>D</mi></mrow><mo stretchy="true">¯</mo></mover><mo>.</mo></mrow></math>
 <math><mover accent="true"><mrow><mi>A</mi><mi>D</mi></mrow><mo stretchy="true">¯</mo></mover></math>
 <math><mrow><mover accent="true"><mrow><mi>A</mi><mi>B</mi></mrow><mo stretchy="true">¯</mo></mover><mo>∪</mo><mover accent="true"><mrow><mi>A</mi><mi>D</mi></mrow><mo stretchy="true">¯</mo></mover><mo>=</mo><mover accent="true"><mrow><mi>A</mi><mi>D</mi></mrow><mo stretchy="true">¯</mo></mover><mo>.</mo></mrow></math>
-<math><mover accent="true"><mrow><mi>A</mi><mi>D</mi></mrow><mo stretchy="true">↔</mo></mover></math>
 <math><mrow><mover accent="true"><mrow><mi>A</mi><mi>D</mi></mrow><mo stretchy="true">↔</mo></mover><mo>,</mo></mrow></math>
 <math><mrow><mover accent="true"><mrow><mi>B</mi><mi>C</mi></mrow><mo stretchy="true">¯</mo></mover><mo>.</mo></mrow></math>
 <math><mrow><mover accent="true"><mrow><mi>A</mi><mi>B</mi></mrow><mo stretchy="true">←</mo></mover><mo>∩</mo><mover accent="true"><mrow><mi>C</mi><mi>D</mi></mrow><mo stretchy="true">¯</mo></mover></mrow></math>
@@ -1934,7 +1887,6 @@
 <math><mrow><mo stretchy="false">(</mo><mn>5</mn><mo>,</mo><mn>5</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mover><mrow><mi>A</mi><mi>B</mi></mrow><mo>↔</mo></mover></math>
 <math><mover><mrow><mi>E</mi><mi>F</mi></mrow><mo>→</mo></mover></math>
-<math><mover><mrow><mi>C</mi><mi>D</mi></mrow><mo accent="false">¯</mo></mover></math>
 <math><mrow><mi>M</mi><mi>N</mi><mi>O</mi><mi>P</mi></mrow></math>
 <math><mrow><mi>O</mi><mi>P</mi><mi>Q</mi><mi>R</mi></mrow></math>
 <math><mrow><mi>Q</mi><mi>R</mi><mi>S</mi><mi>T</mi></mrow></math>
@@ -2021,11 +1973,9 @@
 <math><mrow><mi>c</mi><mo>=</mo><mn>8.06</mn></mrow></math>
 <math><msup><mn>11.9</mn><mo>∘</mo></msup></math>
 <math><mover><mrow><mi>D</mi><mi>A</mi></mrow><mo accent="false">¯</mo></mover></math>
-<math><mover><mrow><mi>A</mi><mi>D</mi></mrow><mo accent="false">¯</mo></mover></math>
 <math><mrow><mover><mrow><mi>A</mi><mi>B</mi></mrow><mo accent="false">¯</mo></mover><mo>∪</mo><mover><mrow><mi>B</mi><mi>D</mi></mrow><mo accent="false">¯</mo></mover><mo>=</mo><mover><mrow><mi>A</mi><mi>D</mi></mrow><mo accent="false">¯</mo></mover></mrow></math>
 <math><mover><mrow><mi>B</mi><mi>D</mi></mrow><mo accent="false">¯</mo></mover></math>
 <math><mrow><mover><mrow><mi>B</mi><mi>D</mi></mrow><mo>→</mo></mover><mo>∩</mo><mover><mrow><mi>B</mi><mi>C</mi></mrow><mo accent="false">¯</mo></mover><mo>=</mo><mover><mrow><mi>B</mi><mi>C</mi></mrow><mo accent="false">¯</mo></mover></mrow></math>
-<math><mover><mrow><mi>B</mi><mi>C</mi></mrow><mo accent="false">¯</mo></mover></math>
 <math><mrow><mover><mrow><mi>B</mi><mi>A</mi></mrow><mo>→</mo></mover><mo>∪</mo><mover><mrow><mi>B</mi><mi>D</mi></mrow><mo>→</mo></mover><mo>=</mo><mover><mrow><mi>A</mi><mi>D</mi></mrow><mo>↔</mo></mover></mrow></math>
 <math><mrow><mi>m</mi><mi>∡</mi><mn>1</mn><mo>=</mo><msup><mn>149</mn><mo>∘</mo></msup></mrow></math>
 <math><mrow><mi>∡</mi><msup><mn>31</mn><mo>∘</mo></msup><mo>.</mo></mrow></math>
@@ -2152,7 +2102,6 @@
 <math><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mspace width="thinmathspace"></mspace><msup><mi>x</mi><mn>2</mn></msup></mrow></math>
 <math><mrow><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>4</mn></mrow></math>
 <math><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>4</mn><mo>=</mo><mn>0</mn></mrow></math>
-<math><mrow><mi>x</mi><mo>=</mo><mo>-</mo><mn>4</mn></mrow></math>
 <math><mrow><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>−</mo><mn>6</mn></mrow></math>
 <math><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>-</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>0</mn></mrow></math>
 <math><mtable columnalign="center"><mtr><mtd><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo>-</mo><mn>4</mn><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn></mrow></mtd></mtr><mtr><mtd><mrow><mi>x</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn><mspace width="1em"></mspace><mtext>or</mtext><mspace width="1em"></mspace><mi>x</mi><mo>-</mo><mn>4</mn><mo>=</mo><mn>0</mn></mrow></mtd></mtr></mtable></math>
@@ -2162,7 +2111,6 @@
 <math><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mn>5</mn><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn></mrow></math>
 <math><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>8</mn><mo>=</mo><mn>0</mn></mrow></math>
 <math><mrow><msup><mi mathvariant="italic">ax</mi><mn>2</mn></msup><mo>+</mo><mi mathvariant="italic">bx</mi><mo>+</mo><mi>c</mi><mo>=</mo><mn>0</mn></mrow></math>
-<math><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>8</mn><mo>=</mo><mn>0</mn></mrow></math>
 <math><mtable columnalign="left"><mtr><mtd><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>8</mn></mrow></mtd></mtr><mtr><mtd><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mn>4</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo>-</mo><mn>2</mn><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable></math>
 <math><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mn>4</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo>-</mo><mn>2</mn><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn></mrow></math>
 <math><mrow><mi>x</mi><mo>+</mo><mn>4</mn><mo>=</mo><mn>0</mn><mspace width="1em"></mspace><mtext>or</mtext><mspace width="1em"></mspace><mi>x</mi><mo>-</mo><mn>2</mn><mo>=</mo><mn>0</mn></mrow></math>
@@ -2394,7 +2342,6 @@
 <math><mrow><mi>p</mi><mo>≡</mo><mi>q</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>q</mi><mo>→</mo><mi>p</mi></mrow></math>
 <math><mrow><mo>~</mo><mi>p</mi><mo>→</mo><mo>~</mo><mi>q</mi></mrow></math>
-<math><mrow><mo>~</mo><mo stretchy="false">(</mo><mi>p</mi><mo>∨</mo><mi>q</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo>~</mo><mi>p</mi><mo>∧</mo><mo>~</mo><mi>q</mi><mo>.</mo></mrow></math>
 <math><mrow><mo>~</mo><mo stretchy="false">(</mo><mi>p</mi><mo>∧</mo><mi>q</mi><mo stretchy="false">)</mo><mo>≡</mo><mo>~</mo><mi>p</mi><mo>∨</mo><mo>~</mo><mi>q</mi><mo>.</mo></mrow></math>
 <math><mrow><mo>∴</mo><mi mathvariant="normal">&lt;mi mathvariant="normal"/&gt;</mi><mi>q</mi></mrow></math>
@@ -2407,7 +2354,6 @@
 <math><mrow><mi>q</mi><mo>:</mo><mi mathvariant="normal">&lt;mi mathvariant="normal"/&gt;</mi><mn>11</mn><mo>-</mo><mn>3</mn><mo>=</mo><mn>7</mn><mo>,</mo></mrow></math>
 <math><mrow><mi>r</mi><mo>:</mo><mi mathvariant="normal">&lt;mi mathvariant="normal"/&gt;</mi><mn>7</mn><mo>×</mo><mn>11</mn><mo>=</mo><mn>77</mn><mo>,</mo></mrow></math>
 <math><mrow><mo>~</mo><mi>q</mi><mo>∧</mo><mi>r</mi></mrow></math>
-<math><mrow><mo>~</mo><mi>p</mi><mo>∧</mo><mi>q</mi></mrow></math>
 <math><mrow><mi>q</mi><mo>∧</mo><mi>r</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mi>r</mi><mo>∧</mo><mi>p</mi></mrow></math>
 <math><mrow><mo>~</mo><mi>q</mi><mo>∨</mo><mi>r</mi></mrow></math>
@@ -2433,8 +2379,6 @@
 <math><mrow><mo>~</mo><mo stretchy="false">(</mo><mi>p</mi><mo>∧</mo><mi>r</mi><mo stretchy="false">)</mo><mo>∨</mo><mi>q</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>p</mi><mo>∧</mo><mi>r</mi></mrow></math>
 <math><mrow><mo>~</mo><mo stretchy="false">(</mo><mi>p</mi><mo>∧</mo><mi>r</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mo>~</mo><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mi>r</mi></mrow><mo>)</mo></mrow></mrow></math>
-<math><mrow><mo>~</mo><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mi>r</mi></mrow><mo>)</mo></mrow><mo>∨</mo><mi>q</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mi>q</mi><mo>∧</mo><mi>p</mi><mo>∨</mo><mi>r</mi></mrow></math>
 <math><mrow><mi>p</mi><mo>∨</mo><mi>q</mi><mo>∧</mo><mtext>~</mtext><mi>r</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mo stretchy="false">(</mo><mi>p</mi><mo>∧</mo><mi>r</mi><mo stretchy="false">)</mo><mo>∧</mo><mi>q</mi></mrow></math>
@@ -2445,11 +2389,8 @@
 <math><mrow><mo stretchy="false">(</mo><mi>p</mi><mi mathvariant="normal">&lt;mi mathvariant="normal"/&gt;</mi><mo>∨</mo><mo>~</mo><mi>q</mi><mo stretchy="false">)</mo><mo>∧</mo><mi>r</mi></mrow></math>
 <math><mrow><mi>p</mi><mo>∨</mo><mo>~</mo><mi>q</mi><mo>.</mo></mrow></math>
 <math><mrow><mi>p</mi><mi mathvariant="normal">&lt;mi mathvariant="normal"/&gt;</mi><mo>∨</mo><mo>~</mo><mi>q</mi></mrow></math>
-<math><mrow><mrow><mo>(</mo><mrow><mi>p</mi><mi mathvariant="normal">&lt;mi mathvariant="normal"/&gt;</mi><mo>∨</mo><mo>~</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>∧</mo><mi>r</mi></mrow></math>
 <math><mrow><mi>p</mi><mi mathvariant="normal">&lt;mi mathvariant="normal"/&gt;</mi><mo>∨</mo><mo>~</mo><mi>q</mi><mo>.</mo></mrow></math>
 <math><mrow><mrow><mo>(</mo><mrow><mi>p</mi><mo>∨</mo><mo>~</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>∧</mo><mi>r</mi></mrow></math>
-<math><mrow><mi>p</mi><mo>∧</mo><mtext>~</mtext><mi>q</mi></mrow></math>
-<math><mrow><mtext>~</mtext><mo stretchy="false">(</mo><mi>p</mi><mo>∨</mo><mi>q</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mi>p</mi><mo>∧</mo><mtext>~</mtext><mi>q</mi><mo stretchy="false">)</mo><mo>∨</mo><mi>r</mi></mrow></math>
 <math><mrow><mo>~</mo><mo stretchy="false">(</mo><mi>p</mi><mo>∧</mo><mo>~</mo><mi>p</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo>~</mo><mi>p</mi><mo>∧</mo><mi>q</mi><mo>.</mo></mrow></math>
@@ -2462,10 +2403,8 @@
 <math><mrow><mn>7</mn><mo>×</mo><mn>3</mn><mo>=</mo><mn>21</mn></mrow></math>
 <math><mrow><mn>9.81</mn><mspace width="thinmathspace"></mspace></mrow></math>
 <math><mrow><mtext>~</mtext><mrow><mtext>(</mtext><mtext>~</mtext><mi>s</mi><mo stretchy="false">)</mo></mrow></mrow></math>
-<math><mrow><mtext>~</mtext><mrow><mtext>(</mtext><mtext>~</mtext><mi>t</mi><mo stretchy="false">)</mo></mrow></mrow></math>
 <math><mrow><mi>q</mi><mo>∧</mo><mtext>~</mtext><mi>r</mi></mrow></math>
 <math><mrow><mi>q</mi><mo>∨</mo><mtext>~</mtext><mi>r</mi></mrow></math>
-<math><mrow><mtext>~</mtext><mo stretchy="false">(</mo><mi>p</mi><mo>∧</mo><mi>r</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>p</mi><mo>∨</mo><mi>q</mi><mo>∧</mo><mi>r</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mi>p</mi><mo>∨</mo><mo stretchy="false">(</mo><mi>q</mi><mo>∧</mo><mi>r</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mtext>~</mtext><mo stretchy="false">(</mo><mi>q</mi><mo>∧</mo><mi>r</mi><mo stretchy="false">)</mo><mo>∨</mo><mtext>~</mtext><mi>p</mi></mrow></math>
@@ -2475,12 +2414,8 @@
 <math><mrow><mo stretchy="false">(</mo><mtext>~</mtext><mi>p</mi><mo>∧</mo><mi>q</mi><mo stretchy="false">)</mo><mo>∧</mo><mi>r</mi></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mtext>~</mtext><mi>p</mi><mo>∧</mo><mi>q</mi><mo stretchy="false">)</mo><mo>∨</mo><mtext>~</mtext><mi>r</mi></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mtext>~</mtext><mi>p</mi><mo>∨</mo><mi>q</mi><mo stretchy="false">)</mo><mo>∨</mo><mtext>~</mtext><mi>r</mi></mrow></math>
-<math><mrow><mi>p</mi><mo>:</mo></mrow></math>
-<math><mrow><mi>q</mi><mo>:</mo></mrow></math>
-<math><mrow><mi>r</mi><mo>:</mo></mrow></math>
 <math><mrow><mtext>~</mtext><mi>r</mi><mo>∧</mo><mi>q</mi><mo>∧</mo><mi>p</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mo stretchy="false">(</mo><mi>q</mi><mo>∧</mo><mi>p</mi><mo stretchy="false">)</mo><mo>∨</mo><mi>r</mi></mrow></math>
-<math><mrow><mtext>~</mtext><mi>p</mi><mo>∨</mo><mi>q</mi><mo>∧</mo><mi>r</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mi>p</mi><mo>∨</mo><mtext>~</mtext><mi>q</mi><mo>∨</mo><mi>r</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mi>q</mi><mo>∧</mo><mi>q</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mi>p</mi><mo>∧</mo><mtext>~</mtext><mi>q</mi></mrow></math>
@@ -2488,7 +2423,6 @@
 <math><mrow><mtext>~</mtext><mi>q</mi><mo>∨</mo><mi>q</mi></mrow></math>
 <math><mrow><mi>p</mi><mo>∧</mo><mi>q</mi><mo>∨</mo><mtext>~</mtext><mi>p</mi></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mi>p</mi><mo>∧</mo><mi>q</mi><mo stretchy="false">)</mo><mo>∨</mo><mo stretchy="false">(</mo><mtext>~</mtext><mi>p</mi><mo>∧</mo><mtext>~</mtext><mi>q</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow></math>
 <math><mrow><mi>n</mi><mo>=</mo><mn>10</mn></mrow></math>
 <math><mrow><mo>$</mo><mn>100</mn><mo>+</mo><mo>$</mo><mn>120</mn><mo>+</mo><mo>$</mo><mn>150</mn><mo>+</mo><mo>$</mo><mn>160</mn><mo>+</mo><mo>$</mo><mn>170</mn><mo>=</mo><mo>$</mo><mn>700</mn></mrow></math>
 <math><mrow><mn>1</mn><mo>+</mo><mn>1</mn><mo>=</mo><mn>2</mn></mrow></math>
@@ -2520,7 +2454,6 @@
 <math><mrow><mn>4</mn><mo>+</mo><mn>3</mn><mo>=</mo><mn>8.</mn></mrow></math>
 <math><mrow><mtext>~</mtext><mi>p</mi><mo>:</mo></mrow></math>
 <math><mrow><mtext>~</mtext><mi>r</mi><mo>:</mo></mrow></math>
-<math><mrow><mi>s</mi><mo>:</mo></mrow></math>
 <math><mrow><mi>t</mi><mo>:</mo></mrow></math>
 <math><mrow><mtext>~</mtext><mi>q</mi><mo>∨</mo><mi>p</mi><mo stretchy="false">→</mo><mtext>~</mtext><mi>s</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mo stretchy="false">(</mo><mi>p</mi><mo>∧</mo><mtext>~</mtext><mi>s</mi><mo stretchy="false">)</mo><mo stretchy="false">↔</mo><mi>q</mi><mo stretchy="false">→</mo><mi>r</mi></mrow></math>
@@ -2535,7 +2468,6 @@
 <math><mrow><mtext>~</mtext><mo stretchy="false">(</mo><mi>p</mi><mo stretchy="false">→</mo><mi>q</mi><mo stretchy="false">)</mo><mo stretchy="false">↔</mo><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mtext>~</mtext><mi>q</mi></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mtext>~</mtext><mi>p</mi><mo>∨</mo><mi>q</mi><mtext> </mtext><mo stretchy="false">↔</mo><mtext> </mtext><mtext>~</mtext><mi>q</mi><mo stretchy="false">→</mo><mtext> </mtext><mtext>~</mtext><mi>p</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mi>p</mi><mo stretchy="false">→</mo><mtext>~</mtext><mi>q</mi><mo>.</mo></mrow></math>
-<math><mrow><mi>p</mi><mo stretchy="false">→</mo><mi>q</mi><mo>:</mo></mrow></math>
 <math><mrow><mtext>~</mtext><mo stretchy="false">(</mo><mi>p</mi><mo>∨</mo><mi>q</mi><mo stretchy="false">)</mo><mo>≡</mo></mrow></math>
 <math><mrow><mo>≡</mo><mtext> </mtext><mtext>~</mtext><mi>p</mi><mtext> </mtext><mo>∨</mo><mtext>~</mtext><mi>q</mi><mo>.</mo></mrow></math>
 <math><mrow><mtext>~</mtext><mrow><mo>(</mo><mrow><mtext>~</mtext><mi>p</mi><mo>∧</mo><mi>q</mi></mrow><mo>)</mo></mrow></mrow></math>
@@ -2550,7 +2482,6 @@
 <math><mrow><mn>2</mn><mo>×</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>×</mo><mi mathvariant="normal">$</mi><mn>400</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>2</mn><mo>×</mo><mrow><mo>(</mo><mrow><mi mathvariant="normal">$</mi><mn>400</mn></mrow><mo>)</mo></mrow><mo>=</mo><mi mathvariant="normal">$</mi><mn>800</mn></mrow></math>
 <math><mrow><mn>2</mn><mo>×</mo><mn>2</mn><mo>×</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>×</mo><mi mathvariant="normal">$</mi><mn>400</mn></mrow><mo>)</mo></mrow><mo>=</mo><mi mathvariant="normal">$</mi><mn>1,600</mn></mrow></math>
 <math><mrow><mo>{</mo><mrow><mn>3</mn><mo>,</mo><mn>6</mn><mo>,</mo><mn>12</mn><mo>,</mo><mn>24</mn><mo>,</mo><mn>48</mn><mo>,</mo><mn>96</mn><mo>,</mo><mn>192</mn><mo>,</mo><mn>384</mn><mo>,</mo><mn>728</mn><mo>,</mo><mn>1456</mn></mrow><mo>}</mo></mrow></math>
-<math><mrow><mo>{</mo><mn>3</mn><mo>,</mo><mn>6</mn><mo>,</mo><mn>12</mn><mo>,</mo><mn>24</mn><mo>,</mo><mn>48</mn><mo>,</mo><mn>96</mn><mo>,</mo><mn>192</mn><mo>,</mo><mn>384</mn><mo>,</mo><mn>728</mn><mo>,</mo><mn>1456</mn><mo>}</mo></mrow></math>
 <math><mrow><mo>{</mo><mn>5</mn><mo>,</mo><mn>15</mn><mo>,</mo><mn>45</mn><mo>,</mo><mn>135</mn><mo>,</mo><mn>405</mn><mo>,</mo><mn>2025...</mn><mo>}</mo></mrow></math>
 <math><mrow><mo>{</mo><mn>2</mn><mo>,</mo><mo>−</mo><mn>6</mn><mo>,</mo><mn>18</mn><mo>,</mo><mo>−</mo><mn>54</mn><mo>,</mo><mn>162</mn><mo>,</mo><mo>−</mo><mn>486</mn><mo>,</mo><mn>1458...</mn><mo>}</mo></mrow></math>
 <math><mrow><mo>{</mo><mrow><mn>9</mn><mo>,</mo><mn>3</mn><mo>,</mo><mn>1</mn><mo>,</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>9</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>27</mn></mfrac><mn>...</mn></mrow><mo>}</mo></mrow></math>
@@ -2560,7 +2491,6 @@
 <math><mrow><mo>{</mo><mo>−</mo><mn>3</mn><mo>,</mo><mn>6</mn><mo>,</mo><mo>−</mo><mn>12</mn><mo>,</mo><mn>24</mn><mo>,</mo><mn>11</mn><mo>,</mo><mn>33</mn><mo>}</mo></mrow></math>
 <math><mrow><mo>{</mo><mrow><mn>4</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>1</mn><mo>,</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>8</mn></mfrac><mo>,</mo><mn>...</mn></mrow><mo>}</mo></mrow></math>
 <math><mrow><mo>{</mo><mrow><mo>−</mo><mn>1</mn><mo>,</mo><mo>−</mo><mn>5</mn><mo>,</mo><mo>−</mo><mn>25</mn><mo>,</mo><mo>−</mo><mn>125</mn><mo>,</mo><mo>−</mo><mn>625</mn><mo>,</mo><mo>−</mo><mn>3125</mn><mo>,</mo><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo></mrow><mo>}</mo></mrow></math>
-<math><mrow><mo>{</mo><mrow><mo>−</mo><mn>3</mn><mo>,</mo><mn>6</mn><mo>,</mo><mo>−</mo><mn>12</mn><mo>,</mo><mn>24</mn><mo>,</mo><mn>11</mn><mo>,</mo><mn>33</mn></mrow><mo>}</mo></mrow></math>
 <math><mrow><mo>{</mo><mrow><mo>−</mo><mn>500</mn><mo>,</mo><mn>50</mn><mo>,</mo><mo>−</mo><mn>5</mn><mo>,</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mo>−</mo><mfrac><mn>1</mn><mn>20</mn></mfrac><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo></mrow><mo>}</mo></mrow></math>
 <math><msub><mi>a</mi><mn>1</mn></msub></math>
 <math><mrow><mi>n</mi><mtext>th</mtext></mrow></math>
@@ -2680,7 +2610,6 @@
 <math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>300</mn></mrow></math>
 <math><msub><mi>s</mi><mn>10</mn></msub></math>
 <math><mrow><mi>r</mi><mo>=</mo><mo>−</mo><mn>4</mn></mrow></math>
-<math><mrow><mi>A</mi><mo>=</mo><mi>P</mi><msup><mrow><mo>(</mo><mrow><mn>1</mn><mo>+</mo><mi>r</mi></mrow><mo>)</mo></mrow><mi>t</mi></msup></mrow></math>
 <math><mrow><mi>A</mi><mo>=</mo><mi>P</mi><msup><mrow><mo>(</mo><mrow><mn>1</mn><mo>+</mo><mfrac><mi>r</mi><mn>12</mn></mfrac></mrow><mo>)</mo></mrow><mrow><mn>12</mn><mi>t</mi></mrow></msup></mrow></math>
 <math><mo>=</mo></math>
 <math><mo>&lt;</mo></math>
@@ -2805,7 +2734,6 @@
 <math><mrow><mtext>~</mtext><mrow><mo>(</mo><mrow><mtext>~</mtext><mi>r</mi><mo>∨</mo><mtext>~</mtext><mi>s</mi></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mtext>~</mtext><mi>p</mi><mo stretchy="false">→</mo><mi>q</mi><mo stretchy="false">↔</mo><mi>r</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo stretchy="false">↔</mo><mtext> </mtext><mtext>~</mtext><mi>p</mi><mo>∨</mo><mtext>~</mtext><mi>q</mi></mrow></math>
-<math><mrow><mi>p</mi><mtext> </mtext><mo>∨</mo><mtext>~</mtext><mi>q</mi></mrow></math>
 <math><mrow><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo stretchy="false">↔</mo><mrow><mo>(</mo><mrow><mi>p</mi><mtext> </mtext><mo>∨</mo><mtext>~</mtext><mi>q</mi></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><msup><mi>c</mi><mn>2</mn></msup><mo>,</mo></mrow></math>
 <math><mrow><mo>&gt;</mo><mi>c</mi></mrow></math>
@@ -2907,7 +2835,6 @@
 <math><mrow><mfrac><mi>a</mi><mi>c</mi></mfrac><mo>±</mo><mfrac><mi>b</mi><mi>c</mi></mfrac><mo>=</mo><mfrac><mrow><mi>a</mi><mo>±</mo><mi>b</mi></mrow><mi>c</mi></mfrac></mrow></math>
 <math><mrow><mfrac><mi>a</mi><mi>b</mi></mfrac><mo>×</mo><mfrac><mi>c</mi><mi>d</mi></mfrac><mo>=</mo><mfrac><mrow><mi>a</mi><mo>×</mo><mi>c</mi></mrow><mrow><mi>b</mi><mo>×</mo><mi>d</mi></mrow></mfrac></mrow></math>
 <math><mrow><mfrac><mi>a</mi><mi>b</mi></mfrac><mo>×</mo><mfrac><mi>c</mi><mi>d</mi></mfrac><mo>=</mo><mfrac><mrow><mi>a</mi><mo>×</mo><mi>c</mi></mrow><mrow><mi>b</mi><mo>×</mo><mi>d</mi></mrow></mfrac><mfrac><mi>a</mi><mi>b</mi></mfrac><mo>÷</mo><mfrac><mi>c</mi><mi>d</mi></mfrac><mo>=</mo><mfrac><mi>a</mi><mi>d</mi></mfrac><mo>×</mo><mfrac><mi>d</mi><mi>c</mi></mfrac><mo>=</mo><mfrac><mrow><mi>a</mi><mo>×</mo><mi>d</mi></mrow><mrow><mi>b</mi><mo>×</mo><mi>c</mi></mrow></mfrac></mrow></math>
-<math><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><mrow><mo>(</mo><mrow><mi>a</mi><mo>−</mo><mi>b</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mi>a</mi><mo>×</mo><mrow><mo>(</mo><mrow><mi>b</mi><mo>+</mo><mi>c</mi></mrow><mo>)</mo></mrow><mo>=</mo><mi>a</mi><mo>×</mo><mi>b</mi><mo>+</mo><mi>a</mi><mo>×</mo><mi>c</mi></mrow></math>
 <math><mrow><mi>a</mi><mo>+</mo><mi>b</mi><mo>=</mo><mi>b</mi><mo>+</mo><mi>a</mi></mrow></math>
 <math><mrow><mi>a</mi><mo>×</mo><mi>b</mi><mo>=</mo><mi>b</mi><mo>×</mo><mi>a</mi></mrow></math>
@@ -3031,7 +2958,6 @@
 <math><mfrac><mn>34</mn><mn>100</mn></mfrac></math>
 <math><mrow><mn>3</mn><mfrac><mn>11</mn><mn>12</mn></mfrac></mrow></math>
 <math><mfrac><mn>7</mn><mn>33</mn></mfrac></math>
-<math><mrow><mspace width="thinmathspace"></mspace><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></math>
 <math><mfrac><mn>307</mn><mn>336</mn></mfrac></math>
 <math><mfrac><mn>23</mn><mn>7</mn></mfrac></math>
 <math><mrow><mn>10</mn><msqrt><mn>5</mn></msqrt></mrow></math>
@@ -3119,7 +3045,6 @@
 <math><mrow><mi>B</mi><mo>=</mo><mo>{</mo><mn>3</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>5</mn><mo>,</mo><mn>6</mn><mo>}</mo><mo>.</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mi>A</mi><mo>∪</mo><mi>B</mi><msup><mo stretchy="false">)</mo><mo>′</mo></msup><mo>=</mo><msup><mi>A</mi><mo>′</mo></msup><mo>∩</mo><msup><mi>B</mi><mo>′</mo></msup><mo>.</mo></mrow></math>
 <math><mrow><mi>A</mi><mo>∪</mo><mi>B</mi><mo>=</mo><mo>{</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>5</mn><mo>,</mo><mn>6</mn><mo>}</mo><mo>.</mo></mrow></math>
-<math><msup><mrow><mo>(</mo><mrow><mi>A</mi><mo>∪</mo><mi>B</mi></mrow><mo>)</mo></mrow><mo>′</mo></msup></math>
 <math><mrow><mo>{</mo><mn>1</mn><mo>,</mo><mn>7</mn><mo>}</mo><mo>.</mo></mrow></math>
 <math><mrow><msup><mi>A</mi><mo>′</mo></msup><mo>∩</mo><msup><mi>B</mi><mo>′</mo></msup><mo>.</mo></mrow></math>
 <math><mrow><msup><mi>A</mi><mo>′</mo></msup><mo>=</mo><mo>{</mo><mn>1</mn><mo>,</mo><mn>5</mn><mo>,</mo><mn>6</mn><mo>,</mo><mn>7</mn><mo>}</mo><mo>.</mo></mrow></math>
@@ -3128,8 +3053,6 @@
 <math><mrow><msup><mi>B</mi><mo>′</mo></msup><mo>.</mo></mrow></math>
 <math><mrow><msup><mi>A</mi><mo>′</mo></msup><mo>∩</mo><msup><mi>B</mi><mo>′</mo></msup><mo>=</mo><mo>{</mo><mn>1</mn><mo>,</mo><mn>7</mn><mo>}</mo><mo>.</mo></mrow></math>
 <math><mrow><mo>{</mo><mn>1</mn><mo>,</mo><mn>7</mn><mo>}</mo><mo>=</mo><mo>{</mo><mn>1</mn><mo>,</mo><mn>7</mn><mo>}</mo></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mi>A</mi><mo>∪</mo><mi>B</mi><msup><mo stretchy="false">)</mo><mo>′</mo></msup></mrow></math>
-<math><mrow><msup><mi>A</mi><mo>′</mo></msup><mo>∩</mo><mi>B</mi><mo>'</mo></mrow></math>
 <math><mrow><mrow><mo stretchy="false">(</mo><mi>A</mi><mo>∩</mo><mi>B</mi><msup><mo stretchy="false">)</mo><mi mathvariant="normal">′</mi></msup></mrow><mo>=</mo><msup><mi>A</mi><mi mathvariant="normal">′</mi></msup><mo>∪</mo><msup><mi>B</mi><mi mathvariant="normal">′</mi></msup></mrow></math>
 <math><mrow><mi mathvariant="normal">C</mi><mi mathvariant="normal">a</mi><mi mathvariant="normal">r</mi><msup><mi mathvariant="normal">d</mi><mo>′</mo></msup></mrow></math>
 <math><msup><mtext>AB</mtext><mo>+</mo></msup></math>
@@ -3277,7 +3200,6 @@
 <math><mrow><mover accent="true"><mrow><mi>A</mi><mi>C</mi></mrow><mo stretchy="true">¯</mo></mover><mo>,</mo></mrow></math>
 <math><mrow><mo>&lt;</mo><msup><mn>90</mn><mo>∘</mo></msup><mo>.</mo></mrow></math>
 <math><mrow><msup><mn>90</mn><mo>∘</mo></msup><mo>,</mo></mrow></math>
-<math><mover accent="true"><mrow><mi>A</mi><mi>B</mi></mrow><mo stretchy="true">↔</mo></mover></math>
 <math><mrow><mi>m</mi><mo>∡</mo><mn>2</mn><mo>=</mo><mi>m</mi><mo>∢</mo><mn>1</mn><mspace width="1em"></mspace><mtext>and</mtext><mspace width="1em"></mspace><mi>m</mi><mo>∡</mo><mn>3</mn><mo>=</mo><mi>m</mi><mo>∡</mo><mn>4.</mn></mrow></math>
 <math><mrow><mi>m</mi><mo>∡</mo><mn>2</mn><mo>+</mo><mi>m</mi><mo>∡</mo><mn>5</mn><mo>+</mo><mi>m</mi><mo>∡</mo><mn>4</mn><mo>=</mo><msup><mn>180</mn><mo>∘</mo></msup></mrow></math>
 <math><mrow><mi>m</mi><mo>∡</mo><mn>1</mn><mo>=</mo><mi>m</mi><mo>∡</mo><mn>2</mn><mo>,</mo></mrow></math>
@@ -3382,7 +3304,6 @@
 <math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>M</mi><mo stretchy="false">|</mo><mi>K</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>M</mi><mo stretchy="false">|</mo><mi>L</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>A</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>4</mn><mn>8</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math>
-<math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>A</mi><mo stretchy="false">|</mo><mi>H</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>A</mi><mo stretchy="false">|</mo><mi>H</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></math>
 <math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>A</mi><mo stretchy="false">|</mo><mi>T</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></math>
 <math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>F</mi><mo stretchy="false">|</mo><mi>A</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>3</mn><mn>9</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></math>
@@ -3658,7 +3579,6 @@
 <math><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></math>
 <math><mi mathvariant="italic">ab</mi></math>
 <math><mi mathvariant="italic">ba</mi></math>
-<math><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></math>
 <math><mrow><mn>3</mn><mi>x</mi><mi>y</mi></mrow></math>
 <math><mrow><mn>3</mn><mo>×</mo><mi>y</mi></mrow></math>
 <math><mrow><mn>3</mn><mo>•</mo><mi>x</mi><mo>•</mo><mi>y</mi></mrow></math>
@@ -3865,7 +3785,6 @@
 <math><menclose notation="box"><mo>×</mo></menclose></math>
 <math><menclose notation="box"><mo>\</mo></menclose></math>
 <math><mrow><mn>95</mn><mo>+</mo><mn>90</mn><mo>=</mo><mn>185</mn></mrow></math>
-<math><menclose notation="box"><mtext>\</mtext></menclose></math>
 <math><mrow><mi>n</mi><mo>-</mo><mn>2</mn></mrow></math>
 <math><mrow><mn>0.72</mn><mo stretchy="false">(</mo><mn>16</mn><mo>,</mo><mn>415</mn><mo stretchy="false">)</mo><mo>=</mo><mn>11</mn><mo>,</mo><mn>819</mn></mrow></math>
 <math><mrow><mn>0.28</mn><mo stretchy="false">(</mo><mn>16</mn><mo>,</mo><mn>415</mn><mo stretchy="false">)</mo><mo>=</mo><mn>4</mn><mo>,</mo><mn>596</mn></mrow></math>
@@ -3881,7 +3800,6 @@
 <math><mrow><mo stretchy="false">(</mo><mn>3</mn><mo>-</mo><mn>3</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>45</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>3</mn><mo>-</mo><mn>2</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>15</mn><mo stretchy="false">)</mo><mo>+</mo><mo stretchy="false">(</mo><mn>3</mn><mo>-</mo><mn>1</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>40</mn><mo stretchy="false">)</mo><mo>=</mo><mn>95</mn></mrow></math>
 <math><mrow><mover><mrow><mi>B</mi><mi>C</mi></mrow><mo>→</mo></mover><mo>∪</mo><mover><mrow><mi>C</mi><mi>D</mi></mrow><mo>→</mo></mover></mrow></math>
 <math><mrow><mover><mrow><mi>A</mi><mi>C</mi></mrow><mo accent="false">¯</mo></mover><mo>∩</mo><mover><mrow><mi>B</mi><mi>C</mi></mrow><mo accent="false">¯</mo></mover></mrow></math>
-<math><mrow><mover><mrow><mi>B</mi><mi>D</mi></mrow><mo>→</mo></mover><mo>∩</mo><mover><mrow><mi>C</mi><mi>A</mi></mrow><mo>←</mo></mover></mrow></math>
 <math><msup><mn>79</mn><mo>∘</mo></msup></math>
 <math><mrow><mn>24</mn><msup><mtext> cm</mtext><mn>2</mn></msup></mrow></math>
 <math><mrow><mfrac><mn>45</mn><mn>2</mn></mfrac><msup><mtext> cm</mtext><mn>2</mn></msup></mrow></math>
@@ -3907,7 +3825,6 @@
 <math><mrow><mn>6</mn><mo>÷</mo><mn>237</mn><mo>=</mo><mn>0.0253</mn><mo>=</mo><mn>2.53</mn><mi mathvariant="normal">%</mi></mrow></math>
 <math><mrow><mn>69</mn><mo>÷</mo><mn>889</mn><mo>≈</mo><mn>0.0776</mn><mo>=</mo><mn>7.76</mn><mi mathvariant="normal">%</mi></mrow></math>
 <math><mrow><mn>18</mn><mo>÷</mo><mn>674</mn><mo>≈</mo><mn>0.0267</mn><mo>=</mo><mn>2.67</mn><mi mathvariant="normal">%</mi></mrow></math>
-<math><mrow><mtext>population growth rate</mtext><mo>=</mo><mfrac><mrow><mtext>current population size</mtext><mo>−</mo><mtext>previous population size</mtext></mrow><mtext>previous population size</mtext></mfrac></mrow></math>
 <math><mrow><mn>39</mn><mo>+</mo><mn>51</mn><mo>=</mo><mn>90</mn></mrow></math>
 <math><mrow><mn>40</mn><mo>+</mo><mn>50</mn><mo>+</mo><mn>8</mn><mo>=</mo><mn>98</mn></mrow></math>
 <math><mrow><mtext>Original Standard Divisor</mtext><mo>≈</mo><mfrac><mrow><mn>75</mn><mo>,</mo><mn>030</mn><mo>,</mo><mn>000</mn></mrow><mn>386</mn></mfrac><mo>≈</mo><mn>194</mn><mo>,</mo><mn>400</mn></mrow></math>
@@ -3924,10 +3841,6 @@
 <math><mrow><mi>q</mi><mi mathvariant="normal">%</mi></mrow></math>
 <math><mrow><mi>r</mi><mi mathvariant="normal">%</mi></mrow></math>
 <math><mrow><mi>s</mi><mi mathvariant="normal">%</mi></mrow></math>
-<math><mi mathvariant="-tex-mathit">h</mi></math>
-<math><mi mathvariant="-tex-mathit">r</mi></math>
-<math><mi mathvariant="-tex-mathit">m</mi></math>
-<math><mi mathvariant="-tex-mathit">w</mi></math>
 <math><mfrac><mi>n</mi><mn>1</mn></mfrac></math>
 <math><mfrac><mn>3</mn><mn>12</mn></mfrac></math>
 <math><mfrac><mn>1</mn><mn>8</mn></mfrac></math>
@@ -4144,7 +4057,6 @@
 <math><mrow><mfrac><mi>a</mi><mi>b</mi></mfrac><mo>×</mo><mn>100</mn><mo>%</mo></mrow></math>
 <math><mrow><mn>0.70</mn><mo>×</mo><mn>400</mn><mo>=</mo><mn>280</mn></mrow></math>
 <math><mrow><mfrac><mn>126</mn><mn>328.2</mn></mfrac><mo>=</mo><mn>0.384</mn></mrow></math>
-<math><mfrac><mrow><mn>100</mn><mspace width="0.28em"></mspace><mo>×</mo><mspace width="0.28em"></mspace><mi>x</mi></mrow><mi>n</mi></mfrac></math>
 <math><mrow><mi>x</mi><mo>=</mo><mn>219</mn></mrow></math>
 <math><mrow><mi>n</mi><mo>=</mo><mn>73</mn></mrow></math>
 <math><mrow><mfrac><mrow><mn>100</mn><mspace width="0.28em"></mspace><mo>×</mo><mspace width="0.28em"></mspace><mn>219</mn></mrow><mn>73</mn></mfrac><mo>=</mo><mn>300</mn></mrow></math>
@@ -4206,7 +4118,6 @@
 <math><mrow><mn>7</mn><mo>⋅</mo><mn>6</mn><mo>⋅</mo><mn>5</mn><mo>⋅</mo><mn>4</mn><mo>⋅</mo><mn>3</mn><mo>⋅</mo><mn>2</mn><mo>⋅</mo><mn>1</mn></mrow></math>
 <math><mrow><mn>11</mn><mo>⋅</mo><mn>10</mn><mo>⋅</mo><mn>9</mn><mo>⋅</mo><mn>8</mn><mo>⋅</mo><mn>7</mn><mo>⋅</mo><mn>6</mn><mo>⋅</mo><mn>5</mn><mo>⋅</mo><mn>4</mn><mo>⋅</mo><mn>3</mn><mo>⋅</mo><mn>2</mn><mo>⋅</mo><mn>1</mn></mrow></math>
 <math><mrow><mn>7</mn><mo>!</mo></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mi>n</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mo>!</mo></mrow></math>
 <math><mrow><mi>n</mi><mo>!</mo><mo>=</mo><mn>4</mn><mo>!</mo><mo>=</mo><mn>4</mn><mo>⋅</mo><mn>3</mn><mo>⋅</mo><mn>2</mn><mo>⋅</mo><mn>1</mn><mo>=</mo><mn>24</mn></mrow></math>
 <math><mrow><mrow><mo>(</mo><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>!</mo><mo>=</mo><mo stretchy="false">(</mo><mn>4</mn><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mo>!</mo><mo>=</mo><mn>3</mn><mo>!</mo><mo>=</mo><mn>3</mn><mo>⋅</mo><mn>2</mn><mo>⋅</mo><mn>1</mn><mo>=</mo><mn>6</mn></mrow></math>
 <math><mrow><mn>4</mn><mo>!</mo><mo>=</mo><mn>4</mn><mo>⋅</mo><mn>3</mn><mo>⋅</mo><mn>2</mn><mo>⋅</mo><mn>1</mn><mo>=</mo><mn>24</mn></mrow></math>
@@ -4328,15 +4239,11 @@
 <math><mrow><mtext>T</mtext><mo>≥</mo><mn>1</mn></mrow></math>
 <math><mrow><mtext>T</mtext><mo>&lt;</mo><mn>1</mn></mrow></math>
 <math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>E</mi><mo stretchy="false">)</mo><mo>=</mo><mn>1</mn><mo>−</mo><mi>P</mi><mo stretchy="false">(</mo><mi>E</mi><mo>′</mo><mo stretchy="false">)</mo><mo>=</mo><mn>1</mn><mo>−</mo><mfrac><mn>1</mn><mn>8</mn></mfrac><mo>=</mo><mfrac><mn>7</mn><mn>8</mn></mfrac></mrow></math>
-<math><msup><mi>E</mi><mi mathvariant="normal">′</mi></msup></math>
-<math><mrow><mi>P</mi><mo stretchy="false">(</mo><msup><mi>E</mi><mi mathvariant="normal">′</mi></msup><mo stretchy="false">)</mo></mrow></math>
 <math><mfrac><mn>21</mn><mn>216</mn></mfrac></math>
 <math><mfrac><mn>1</mn><mn>15</mn></mfrac></math>
 <math><mo>∼</mo></math>
-<math><mo stretchy="false">↔</mo></math>
 <math><mrow><mi>q</mi><mo>∧</mo><mtext>~</mtext><mi>p</mi></mrow></math>
 <math><mrow><mi>q</mi><mo stretchy="false">↔</mo><mi>p</mi></mrow></math>
-<math><mrow><mi>p</mi><mo>∨</mo><mtext>~</mtext><mi>q</mi></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mo stretchy="false">(</mo><mi>p</mi><mo>∨</mo><mi>q</mi><mo stretchy="false">)</mo><mo>∧</mo><mo stretchy="false">(</mo><mtext>~</mtext><mi>r</mi><mo stretchy="false">)</mo><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mo stretchy="false">(</mo><mtext>~</mtext><mi>p</mi><mo stretchy="false">)</mo><mo stretchy="false">→</mo><mo stretchy="false">(</mo><mi>q</mi><mo>∨</mo><mi>r</mi><mo stretchy="false">)</mo><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mo stretchy="false">(</mo><mtext>~</mtext><mi>p</mi><mo stretchy="false">)</mo><mo>∨</mo><mo stretchy="false">(</mo><mtext>~</mtext><mi>q</mi><mo stretchy="false">)</mo><mo stretchy="false">)</mo><mo stretchy="false">↔</mo><mo stretchy="false">(</mo><mtext>~</mtext><mo stretchy="false">(</mo><mi>p</mi><mo>∧</mo><mi>q</mi><mo stretchy="false">)</mo><mo stretchy="false">)</mo></mrow></math>
@@ -4345,9 +4252,6 @@
 <math><mrow><mo stretchy="false">(</mo><mtext>~</mtext><mi>q</mi><mo>∧</mo><mi>p</mi><mo stretchy="false">)</mo><mo>∨</mo><mi>r</mi></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mi>p</mi><mo>∨</mo><mi>q</mi><mo stretchy="false">)</mo><mo>∧</mo><mo stretchy="false">(</mo><mtext>~</mtext><mi>r</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mi>p</mi><mo>∧</mo><mi>r</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mi>p</mi><mspace width="thinmathspace"></mspace><mo>∧</mo><mtext>~</mtext><mi>q</mi></mrow></math>
-<math><mrow><mtext>~</mtext><mi>p</mi><mo>∨</mo><mtext> </mtext><mi>q</mi></mrow></math>
-<math><mrow><mtext>~</mtext><mi>p</mi><mo stretchy="false">→</mo><mtext>~</mtext><mi>q</mi></mrow></math>
 <math><mrow><mi>q</mi><mo stretchy="false">→</mo><mrow><mo>(</mo><mrow><mtext>~</mtext><mi>p</mi><mo>∨</mo><mi>q</mi></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mi>q</mi><mo>∧</mo><mi>p</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mi>p</mi><mo stretchy="false">→</mo><mrow><mo>(</mo><mrow><mi>q</mi><mo>∧</mo><mi>p</mi></mrow><mo>)</mo></mrow></mrow></math>
@@ -4356,10 +4260,7 @@
 <math><mrow><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo stretchy="false">→</mo><mi>r</mi></mrow></math>
 <math><mrow><mrow><mo>(</mo><mrow><mrow><mtext>~</mtext><mi>p</mi></mrow><mo>∨</mo><mrow><mtext>~</mtext><mi>q</mi></mrow></mrow><mo>)</mo></mrow><mo>∨</mo><mi>r</mi></mrow></math>
 <math><mrow><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mi>q</mi><mo stretchy="false">→</mo><mi>r</mi></mrow><mo>)</mo></mrow><mo stretchy="false">↔</mo><mrow><mo>(</mo><mrow><mrow><mtext>~</mtext><mi>p</mi></mrow><mo>∨</mo><mrow><mtext>~</mtext><mi>q</mi></mrow><mo>∨</mo><mi>r</mi></mrow><mo>)</mo></mrow></mrow></math>
-<math><mrow><mtext>~</mtext><mi>q</mi><mo stretchy="false">→</mo><mtext>~</mtext><mi>p</mi></mrow></math>
 <math><mrow><mrow><mo>(</mo><mi>p</mi><mo stretchy="false">→</mo><mi>q</mi><mo>)</mo></mrow><mo stretchy="false">↔</mo><mrow><mo>(</mo><mrow><mtext>~</mtext><mi>q</mi><mo stretchy="false">→</mo><mtext>~</mtext><mi>p</mi></mrow><mo>)</mo></mrow></mrow></math>
-<math><mrow><mi>p</mi><mo>∨</mo><mtext>~</mtext><mi>q</mi><mo>.</mo></mrow></math>
-<math><mrow><mi>p</mi><mo>∨</mo><mtext>~</mtext><mi mathvariant="normal">q</mi></mrow></math>
 <math><mrow><mrow><mo>(</mo><mrow><mi>p</mi><mo stretchy="false">→</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo stretchy="false">↔</mo><mrow><mo>(</mo><mrow><mi>p</mi><mrow/><mo>∨</mo><mtext>~</mtext><mi>q</mi></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mspace width="thinmathspace"></mspace><mo stretchy="false">)</mo></mrow></math>
 <math><msup><mtext>m</mtext><mn>2</mn></msup></math>
@@ -4481,7 +4382,6 @@
 <math><mrow><mtext>mean</mtext><mo>+</mo><mn>1</mn><mo>×</mo><mtext>SD</mtext></mrow></math>
 <math><mrow><mtext>mean</mtext><mo>+</mo><mn>2</mn><mo>×</mo><mtext>SD</mtext></mrow></math>
 <math><mrow><mtext>mean</mtext><mo>+</mo><mn>3</mn><mo>×</mo><mtext>SD</mtext></mrow></math>
-<math><mrow><mtext>mean</mtext><mo>−</mo><mn>1</mn><mo>×</mo><mtext>SD</mtext></mrow></math>
 <math><mrow><mn>100</mn><mo>-</mo><mn>1</mn><mo>×</mo><mn>20</mn><mo>=</mo><mn>80</mn></mrow></math>
 <math><mrow><mn>100</mn><mo>+</mo><mn>1</mn><mo>×</mo><mn>20</mn><mo>=</mo><mn>120</mn></mrow></math>
 <math><mrow><mn>0</mn><mo>-</mo><mn>2</mn><mo>×</mo><mn>15</mn><mo>=</mo><mo>-</mo><mn>30</mn></mrow></math>
@@ -4542,21 +4442,13 @@
 <math><mrow><mrow><mo>(</mo><mrow><mi>p</mi><mo>→</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>↔</mo><mrow><mo>(</mo><mrow><mo>~</mo><mi>p</mi><mo>→</mo><mtext>&lt;mtext/&gt;</mtext><mo>~</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></math>
 <math><mrow><mrow><mo>(</mo><mrow><mi>p</mi><mo>→</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>↔</mo><mrow><mo>(</mo><mrow><mo>~</mo><mi>p</mi><mo>→</mo><mtext>&lt;mtext/&gt;</mtext><mo>~</mo><mi>q</mi></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mrow><mo>(</mo><mrow><mi>p</mi><mo>→</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>↔</mo><mrow><mo>(</mo><mrow><mo>~</mo><mi>p</mi><mo>∨</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></math>
-<math><mrow><mrow><mo>(</mo><mrow><mi>p</mi><mo>→</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>↔</mo><mrow><mo>(</mo><mrow><mo>~</mo><mi>p</mi><mo>∨</mo><mi>q</mi></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mi>p</mi><mo>→</mo><mi>q</mi><mtext>&lt;mtext/&gt;</mtext><mo>≡</mo><mtext>&lt;mtext/&gt;</mtext><mo>~</mo><mi>p</mi><mo>∨</mo><mi>q</mi><mo>.</mo></mrow></math>
-<math><mrow><mi>p</mi><mo stretchy="false">→</mo><mi>q</mi><mo>;</mo></mrow></math>
 <math><mrow><mtext> </mtext><mi>q</mi><mo stretchy="false">→</mo><mtext>~</mtext><mi>p</mi></mrow></math>
-<math><mrow><mi>p</mi><mo stretchy="false">→</mo><mi>q</mi><mo>;</mo><mspace width="thinmathspace"></mspace></mrow></math>
 <math><mrow><mo>~</mo><mi>q</mi><mo>→</mo><mtext>&lt;mtext/&gt;</mtext><mo>~</mo><mi>p</mi></mrow></math>
-<math><mrow><mi>q</mi><mo stretchy="false">→</mo><mi>p</mi></mrow></math>
-<math><mrow><mtext>~</mtext><mi>p</mi><mo stretchy="false">→</mo><mrow/><mtext>~</mtext><mi>q</mi></mrow></math>
-<math><mrow><mtext>~</mtext><mi>q</mi><mo stretchy="false">→</mo><mrow/><mtext>~</mtext><mi>p</mi></mrow></math>
 <math><mrow><mi>q</mi><mo>→</mo><mi>p</mi><mo>,</mo></mrow></math>
 <math><mrow><mo>~</mo><mi>p</mi><mo>→</mo><mtext>&lt;mtext/&gt;</mtext><mo>~</mo><mi>q</mi><mo>.</mo></mrow></math>
-<math><mrow><mtext>~</mtext><mo stretchy="false">(</mo><mi>p</mi><mo>∧</mo><mi>q</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>p</mi><mo>∧</mo><mo stretchy="false">(</mo><mi>q</mi><mo>∨</mo><mi>r</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>∨</mo><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mi>r</mi></mrow><mo>)</mo></mrow></mrow></math>
-<math><mrow><mi>p</mi><mo>∧</mo><mrow><mo>(</mo><mrow><mi>q</mi><mo>∨</mo><mi>r</mi></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>∨</mo><mi>r</mi></mrow></math>
 <math><mrow><mtext>$</mtext><mn>3,000</mn><mo>+</mo><mtext>$</mtext><mn>1,250</mn><mo>+</mo><mtext>$</mtext><mn>4,200</mn><mo>=</mo><mtext>$</mtext><mn>8,450</mn></mrow></math>
 <math><mrow><mtext>$</mtext><mn>58,400</mn><mo>−</mo><mtext>$</mtext><mn>8,450</mn><mo>=</mo><mtext>$</mtext><mn>57,950</mn></mrow></math>
@@ -4624,7 +4516,6 @@
 <math><msup><mn>3</mn><mn>6</mn></msup></math>
 <math><mrow><msup><mrow><mo>(</mo><msup><mn>3</mn><mn>6</mn></msup><mo>)</mo></mrow><mn>4</mn></msup><mo>=</mo><msup><mn>3</mn><mn>6</mn></msup><mo>×</mo><msup><mn>3</mn><mn>6</mn></msup><mo>×</mo><msup><mn>3</mn><mn>6</mn></msup><mo>×</mo><msup><mn>3</mn><mn>6</mn></msup></mrow></math>
 <math><mrow><msup><mn>3</mn><mrow><mo stretchy="false">(</mo><mn>6</mn><mo>+</mo><mn>6</mn><mo>+</mo><mn>6</mn><mo>+</mo><mn>6</mn><mo stretchy="false">)</mo></mrow></msup><mo>=</mo><msup><mn>3</mn><mn>24</mn></msup></mrow></math>
-<math><mrow><msup><mrow><mo>(</mo><msup><mi>a</mi><mi>n</mi></msup><mo>)</mo></mrow><mi>m</mi></msup><mo>=</mo><msup><mi>a</mi><mrow><mo>(</mo><mrow><mi>n</mi><mo>×</mo><mi>m</mi></mrow><mo>)</mo></mrow></msup></mrow></math>
 <math><msup><mrow><mo>(</mo><msup><mn>6</mn><mn>7</mn></msup><mo>)</mo></mrow><mn>3</mn></msup></math>
 <math><msup><mrow><mo>(</mo><msup><mi>b</mi><mn>12</mn></msup><mo>)</mo></mrow><mn>4</mn></msup></math>
 <math><mrow><msup><mrow><mo>(</mo><msup><mn>6</mn><mn>7</mn></msup><mo>)</mo></mrow><mn>3</mn></msup><mo>=</mo><msup><mn>6</mn><mrow><mo stretchy="false">(</mo><mn>7</mn><mo>×</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></msup><mo>=</mo><msup><mn>6</mn><mn>21</mn></msup></mrow></math>
@@ -4664,7 +4555,6 @@
 <math><mfrac><msup><mn>6</mn><mn>3</mn></msup><msup><mn>13</mn><mn>8</mn></msup></mfrac></math>
 <math><mfrac><msup><mi>c</mi><mn>5</mn></msup><msup><mn>2</mn><mn>9</mn></msup></mfrac></math>
 <math><mrow><msup><mn>8</mn><mn>2</mn></msup><mo>×</mo><msup><mn>8</mn><mn>5</mn></msup><mo>=</mo><msup><mn>8</mn><mn>7</mn></msup></mrow></math>
-<math><mrow><mfrac><msup><mi>a</mi><mi>n</mi></msup><msup><mi>a</mi><mi>m</mi></msup></mfrac><mo>=</mo><msup><mi>a</mi><mrow><mo>(</mo><mrow><mi>n</mi><mo>−</mo><mi>m</mi></mrow><mo>)</mo></mrow></msup></mrow></math>
 <math><mrow><mfrac><msup><mn>11</mn><mn>14</mn></msup><msup><mn>11</mn><mn>12</mn></msup></mfrac><mo>=</mo><msup><mn>11</mn><mn>12</mn></msup></mrow></math>
 <math><mrow><mi>a</mi><mo>≠</mo><mn>1</mn></mrow></math>
 <math><mrow><msup><mn>412</mn><mn>0</mn></msup><mo>=</mo><mn>1</mn></mrow></math>
@@ -4782,17 +4672,13 @@
 <math><mfrac><mn>1</mn><mn>20</mn></mfrac></math>
 <math><mrow><mspace width="1em"></mspace><mo>−</mo><mn>4</mn><mspace width="1em"></mspace><mn>13.863</mn><mspace width="1em"></mspace><mn>15</mn><mspace width="1em"></mspace><mn>871</mn><mspace width="1em"></mspace><mn>5</mn><msqrt><mn>7</mn></msqrt><mspace width="1em"></mspace><mtext>−3</mtext><mi>π</mi></mrow></math>
 <math><mrow><mn>4</mn><mo>×</mo><mn>13</mn><mo>×</mo><mn>25</mn></mrow></math>
-<math><mrow><mi>a</mi><mo>×</mo><mo stretchy="false">(</mo><mi>b</mi><mo>+</mo><mi>c</mi><mo stretchy="false">)</mo><mo>=</mo><mi>a</mi><mo>×</mo><mi>b</mi><mo>+</mo><mi>a</mi><mo>×</mo><mi>c</mi></mrow></math>
 <math><mrow><mn>5</mn><mo>×</mo><mo stretchy="false">(</mo><mn>3</mn><mo>+</mo><mn>4</mn><mo stretchy="false">)</mo><mo>=</mo><mn>5</mn><mo>×</mo><mn>3</mn><mo>+</mo><mn>5</mn><mo>×</mo><mn>4</mn></mrow></math>
 <math><mrow><mn>3</mn><mo>+</mo><mn>7</mn><mo>=</mo><mn>7</mn><mo>+</mo><mn>3</mn></mrow></math>
 <math><mrow><mn>10</mn><mo>×</mo><mn>4</mn><mo>=</mo><mn>4</mn><mo>×</mo><mn>10</mn></mrow></math>
-<math><mrow><mi>a</mi><mo>+</mo><mo stretchy="false">(</mo><mi>b</mi><mo>+</mo><mi>c</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo stretchy="false">)</mo><mo>+</mo><mi>c</mi></mrow></math>
 <math><mrow><mn>4</mn><mo>+</mo><mo stretchy="false">(</mo><mn>3</mn><mo>+</mo><mn>8</mn><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mn>4</mn><mo>+</mo><mn>3</mn><mo stretchy="false">)</mo><mo>+</mo><mn>8</mn></mrow></math>
-<math><mrow><mi>a</mi><mo>×</mo><mo stretchy="false">(</mo><mi>b</mi><mo>×</mo><mi>c</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi>a</mi><mo>×</mo><mi>b</mi><mo stretchy="false">)</mo><mo>×</mo><mi>c</mi></mrow></math>
 <math><mrow><mn>2</mn><mo>×</mo><mo stretchy="false">(</mo><mn>5</mn><mo>×</mo><mn>7</mn><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mn>2</mn><mo>×</mo><mn>5</mn><mo stretchy="false">)</mo><mo>×</mo><mn>7</mn></mrow></math>
 <math><mrow><mn>17</mn><mo>+</mo><mn>0</mn><mo>=</mo><mn>17</mn></mrow></math>
 <math><mrow><mn>21</mn><mo>×</mo><mn>1</mn><mo>=</mo><mn>21</mn></mrow></math>
-<math><mrow><mi>a</mi><mo>+</mo><mo stretchy="false">(</mo><mo>−</mo><mi>a</mi><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn></mrow></math>
 <math><mrow><mn>14</mn><mo>+</mo><mo stretchy="false">(</mo><mo>−</mo><mn>14</mn><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn></mrow></math>
 <math><mrow><mn>3</mn><mo>×</mo><mrow><mo>(</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>)</mo></mrow><mo>=</mo><mn>1</mn></mrow></math>
 <math><mrow><mn>4</mn><mo>+</mo><mo stretchy="false">(</mo><mn>8</mn><mo>+</mo><mn>13</mn><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mn>4</mn><mo>+</mo><mn>8</mn><mo stretchy="false">)</mo><mo>+</mo><mn>13</mn></mrow></math>
@@ -4807,14 +4693,12 @@
 <math><mrow><mn>2</mn><mo>×</mo><mn>13</mn><mo>×</mo><mn>50</mn><mo>=</mo><mn>2</mn><mo>×</mo><mn>50</mn><mo>×</mo><mn>13</mn><mo>=</mo><mn>100</mn><mo>×</mo><mn>13</mn><mo>=</mo><mn>1,300</mn></mrow></math>
 <math><mrow><mn>13</mn><mo>+</mo><mn>27</mn><mo>=</mo><mn>40</mn></mrow></math>
 <math><mrow><mn>13</mn><mo>+</mo><mn>84</mn><mo>+</mo><mn>27</mn><mo>=</mo><mn>13</mn><mo>+</mo><mn>27</mn><mo>+</mo><mn>84</mn><mo>=</mo><mn>40</mn><mo>+</mo><mn>84</mn><mo>=</mo><mn>124</mn></mrow></math>
-<math><mrow><mn>9</mn><mo>×</mo><mn>11</mn><mo>=</mo><mn>99</mn></mrow></math>
 <math><mrow><mn>99</mn><mo>×</mo><mn>16</mn></mrow></math>
 <math><mrow><mn>99</mn><mo>×</mo><mn>16</mn><mo>=</mo><mo stretchy="false">(</mo><mn>100</mn><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mo>×</mo><mn>16</mn><mo>=</mo><mn>100</mn><mo>×</mo><mn>16</mn><mo>−</mo><mn>1</mn><mo>×</mo><mn>16</mn><mo>=</mo><mn>1,600</mn><mo>−</mo><mn>16</mn></mrow></math>
 <math><mrow><mn>9</mn><mo>×</mo><mn>8</mn><mo>×</mo><mn>11</mn></mrow></math>
 <math><mrow><mn>4</mn><mo>+</mo><mi>i</mi><mo>,</mo><mspace width="thinmathspace"></mspace><msqrt><mn>77</mn><mo>,</mo></msqrt><mspace width="thinmathspace"></mspace><mspace width="thinmathspace"></mspace><mtext>−19</mtext><mo>,</mo><mspace width="thinmathspace"></mspace><mn>38.902</mn></mrow></math>
 <math><mi mathvariant="double-struck">Q</mi></math>
 <math><mi mathvariant="double-struck">R</mi></math>
-<math><mi mathvariant="double-struck">N</mi></math>
 <math><mi mathvariant="double-struck">Z</mi></math>
 <math><mrow><mn>3</mn><mo>×</mo><mn>6</mn><mo>+</mo><mn>3</mn><mo>×</mo><mn>15</mn><mo>=</mo><mn>3</mn><mo>×</mo><mo stretchy="false">(</mo><mn>6</mn><mo>+</mo><mn>15</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mn>16</mn></math>
@@ -4853,7 +4737,6 @@
 <math><mrow><mn>15</mn><mo>×</mo><mn>39</mn></mrow></math>
 <math><mrow><mn>43</mn><mo>×</mo><mn>101</mn></mrow></math>
 <math><mrow><mn>16</mn><mo>×</mo><mn>999</mn></mrow></math>
-<math><mrow><mi>C</mi><mo>=</mo><mfrac><mn>5</mn><mn>9</mn></mfrac><mo stretchy="false">(</mo><mi>F</mi><mo>−</mo><mn>32</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mi>C</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mfrac><mn>5</mn><mn>9</mn></mfrac><mo stretchy="false">(</mo><mi>F</mi><mo>−</mo><mn>32</mn><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>C</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mfrac><mn>5</mn><mn>9</mn></mfrac><mo stretchy="false">(</mo><mn>392</mn><mo>−</mo><mn>32</mn><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>C</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mfrac><mn>5</mn><mn>9</mn></mfrac><mo stretchy="false">(</mo><mn>360</mn><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>C</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>200</mn></mtd></mtr></mtable></math>
 <math><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mi>F</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mfrac><mn>9</mn><mn>5</mn></mfrac><mi>C</mi><mo>+</mo><mn>32</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>F</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mfrac><mn>9</mn><mn>5</mn></mfrac><mo stretchy="false">(</mo><mn>20</mn><mo stretchy="false">)</mo><mo>+</mo><mn>32</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>F</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>36</mn><mo>+</mo><mn>32</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>F</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>68</mn></mtd></mtr></mtable></math>
 <math><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mi>F</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mfrac><mn>9</mn><mn>5</mn></mfrac><mi>C</mi><mo>+</mo><mn>32</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>F</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mfrac><mn>9</mn><mn>5</mn></mfrac><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>+</mo><mn>32</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>F</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>5.4</mn><mo>+</mo><mn>32</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mi>F</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mn>37.4</mn></mtd></mtr></mtable></math>
@@ -4886,7 +4769,6 @@
 <math><mrow><mi>E</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>e</mi><mo>,</mo><mi>l</mi><mo>,</mo><mi>m</mi><mo fence="false" stretchy="false">}</mo></mrow></math>
 <math><mrow><mi>U</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mo>…</mo><mo fence="false" stretchy="false">}</mo></mrow></math>
 <math><mrow><mi>V</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mn>18</mn><mo>,</mo><mn>19</mn><mo>,</mo><mn>20</mn><mo>,</mo><mo>…</mo><mo fence="false" stretchy="false">}</mo></mrow></math>
-<math><msup><mi>A</mi><mi mathvariant="normal">′</mi></msup></math>
 <math><mrow><mi>S</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>s</mi><mo>,</mo><mi>c</mi><mo>,</mo><mi>r</mi><mo>,</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>l</mi><mo>,</mo><mi>e</mi><mo fence="false" stretchy="false">}</mo></mrow></math>
 <math><mrow><mi>B</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>b</mi><mo>,</mo><mi>r</mi><mo>,</mo><mi>a</mi><mo>,</mo><mi>c</mi><mo>,</mo><mi>e</mi><mo fence="false" stretchy="false">}</mo></mrow></math>
 <math><mrow><mi>C</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>c</mi><mo>,</mo><mi>r</mi><mo>,</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo fence="false" stretchy="false">}</mo></mrow></math>
@@ -4928,16 +4810,13 @@
 <math><mrow><mi>q</mi><mo>∧</mo><mi>p</mi><mo>.</mo></mrow></math>
 <math><mrow><mo>~</mo><mi>q</mi><mo>↔</mo><mi mathvariant="normal">&lt;mi mathvariant="normal"/&gt;</mi><mo>~</mo><mi>p</mi><mo>.</mo></mrow></math>
 <math><mrow><mo>~</mo><mi>q</mi><mo>∨</mo><mi>p</mi><mo>.</mo></mrow></math>
-<math><mrow><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>→</mo><mi>r</mi></mrow></math>
 <math><mrow><mi>r</mi><mo>.</mo></mrow></math>
 <math><mrow><mo>~</mo><mo stretchy="false">(</mo><mi>p</mi><mo>∧</mo><mi>q</mi><mo stretchy="false">)</mo><mo>→</mo><mi mathvariant="normal">&lt;mi mathvariant="normal"/&gt;</mi><mo>~</mo><mi>r</mi></mrow></math>
-<math><mrow><mo>~</mo><mi>r</mi><mo>.</mo></mrow></math>
 <math><mrow><mo>~</mo><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>→</mo><mi mathvariant="normal">&lt;mi mathvariant="normal"/&gt;</mi><mo>~</mo><mi>r</mi></mrow></math>
 <math><mrow><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mi>q</mi></mrow><mo>)</mo></mrow><mo>→</mo><mrow><mo>(</mo><mrow><mi>r</mi><mo>∨</mo><mi>s</mi></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mo>~</mo><mrow><mo>(</mo><mrow><mi>r</mi><mo>∨</mo><mi>s</mi></mrow><mo>)</mo></mrow><mi mathvariant="normal">&lt;mi mathvariant="normal"/&gt;</mi><mo>↔</mo><mi mathvariant="normal">&lt;mi mathvariant="normal"/&gt;</mi><mo>~</mo><mrow><mo>(</mo><mrow><mi>p</mi><mo>∧</mo><mi>q</mi></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mo>~</mo><mo stretchy="false">(</mo><mi>r</mi><mo>∨</mo><mi>s</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mtext>~</mtext><mi>r</mi><mo stretchy="false">→</mo><mo stretchy="false">(</mo><mi>p</mi><mo>∨</mo><mi>q</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mi>p</mi><mo>∧</mo><mi>q</mi><mo stretchy="false">)</mo><mo stretchy="false">→</mo><mi>r</mi></mrow></math>
 <math><mrow><mtext>~</mtext><mo stretchy="false">(</mo><mi>p</mi><mo>∨</mo><mi>r</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mn>1</mn><mo>+</mo><mn>3</mn><mo>×</mo><mn>2</mn></mrow></math>
 <math><mrow><mn>1</mn><mo>+</mo><mrow><mo>(</mo><mrow><mn>3</mn><mo>×</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></math>
@@ -5106,7 +4985,6 @@
 <math><mrow><mi>P</mi><mi>V</mi><mo>=</mo><mfrac><mrow><mi>F</mi><mi>V</mi></mrow><mrow><mo stretchy="false">(</mo><mn>1</mn><mo lspace="0.28em" rspace="0.28em">+</mo><mi>r</mi><mi>t</mi><mo stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><mn>250,000</mn><mrow><mo stretchy="false">(</mo><mn>1</mn><mo lspace="0.28em" rspace="0.28em">+</mo><mo stretchy="false">(</mo><mn>0.0475</mn><mo stretchy="false">)</mo><mo lspace="0.28em" rspace="0.28em">×</mo><mo stretchy="false">(</mo><mn>40.5</mn><mo stretchy="false">)</mo><mo stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><mn>150,000</mn><mrow><mo stretchy="false">(</mo><mn>1</mn><mo lspace="0.28em" rspace="0.28em">+</mo><mn>1.92375</mn><mo stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><mn>150,000</mn><mrow><mo stretchy="false">(</mo><mn>2.92375</mn><mo stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mn>129,954.5159</mn></mrow></math>
 <math><mrow><mi>P</mi><mi>V</mi><mo>=</mo><mfrac><mrow><mi>F</mi><mi>V</mi></mrow><mrow><mo stretchy="false">(</mo><mn>1</mn><mo lspace="0.28em" rspace="0.28em">+</mo><mi>r</mi><mi>t</mi><mo stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><mn>300,000</mn><mrow><mo stretchy="false">(</mo><mn>1</mn><mo lspace="0.28em" rspace="0.28em">+</mo><mo stretchy="false">(</mo><mn>0.0399</mn><mo stretchy="false">)</mo><mo lspace="0.28em" rspace="0.28em">×</mo><mo stretchy="false">(</mo><mn>30</mn><mo stretchy="false">)</mo><mo stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><mn>300,000</mn><mrow><mo stretchy="false">(</mo><mn>1</mn><mo lspace="0.28em" rspace="0.28em">+</mo><mn>1.197</mn><mo stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><mn>300,000</mn><mrow><mo stretchy="false">(</mo><mn>2.197</mn><mo stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mn>136,549.8407</mn></mrow></math>
 <math><mrow><mtext>Cost of Financing </mtext><mo>=</mo><mtext> Total of payments </mtext><mo>+</mo><mtext> fees </mtext><mo>−</mo><mtext> principal</mtext><mo>.</mo></mrow></math>
-<math><mrow><mo>(</mo><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mi>x</mi><mo>+</mo><mi>s</mi></mrow></math>
 <math><mrow><mi>x</mi><mo>–</mo><mi>s</mi></mrow></math>
 <math><mrow><mi mathvariant="normal">GCF</mi><mo>(</mo><mi>n</mi><mo>,</mo><mi>s</mi><mo>)</mo><mo>=</mo><mn>1</mn></mrow></math>
@@ -5259,7 +5137,6 @@
 <math><mrow><mo stretchy="false">(</mo><mn>6</mn><mo>,</mo><mo>−</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo>{</mo><mtable columnalign="left"><mtr><mtd><mrow><mi>y</mi><mo>≥</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mtd></mtr><mtr><mtd><mrow><mi>y</mi><mo>&lt;</mo><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mtd></mtr></mtable></mrow></math>
 <math><mrow><mo>(</mo><mrow><mo>−</mo><mn>1</mn><mo>,</mo><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></math>
-<math><mrow><mo>(</mo><mrow><mrow><mo>-</mo><mn>1</mn></mrow><mo>,</mo><mrow><mo>-</mo><mn>1</mn></mrow></mrow><mo>)</mo></mrow></math>
 <math><mrow><mi>y</mi><mo>≥</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>?</mo></mrow></math>
 <math><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mrow><mo>-</mo><mn>1</mn></mrow></mtd><mtd columnalign="center"><mover><mo>≥</mo><mo>?</mo></mover></mtd><mtd columnalign="left"><mrow><mn>2</mn><mrow><mo>(</mo><mrow><mo>-</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>1</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>−</mo><mn>1</mn></mrow></mtd><mtd columnalign="center"><mo>≥</mo></mtd><mtd columnalign="left"><mrow><mo>−</mo><mn>3</mn><mspace width="0.28em"></mspace><mtext>true</mtext></mrow></mtd></mtr></mtable></math>
 <math><mrow><mi>y</mi><mo>&lt;</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>?</mo></mrow></math>
@@ -5268,7 +5145,6 @@
 <math><mrow><mo>{</mo><mtable columnalign="left"><mtr><mtd><mrow><mi>x</mi><mo>−</mo><mi>y</mi><mo>&gt;</mo><mn>3</mn></mrow></mtd></mtr><mtr><mtd><mrow><mi>y</mi><mo>&lt;</mo><mo>−</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mtd></mtr></mtable></mrow></math>
 <math><mrow><mi>x</mi><mo>−</mo><mi>y</mi><mo>&gt;</mo><mn>3</mn></mrow></math>
 <math><mrow><mi>x</mi><mo>−</mo><mi>y</mi><mo>=</mo><mn>3</mn></mrow></math>
-<math><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mi>y</mi><mo>&lt;</mo><mo>−</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mi>x</mi><mo>+</mo><mn>4</mn></mrow></math>
 <math><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mi>x</mi><mo>+</mo><mn>4</mn></mrow></math>
 <math><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></math>
@@ -5332,7 +5208,6 @@
 <math><mrow><mo>{</mo><mtable columnalign="left" rowspacing="4pt" columnspacing="1em"><mtr><mtd><mrow><mn>7</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>&gt;</mo><mn>14</mn></mrow></mtd></mtr><mtr><mtd><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mi>y</mi><mo>≤</mo><mn>8</mn></mrow></mtd></mtr></mtable><mo fence="true" stretchy="true" symmetric="true">&lt;mo fence="true" stretchy="true" symmetric="true"/&gt;</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mn>7</mn><mo>,</mo><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mn>6</mn><mo>,</mo><mo>–</mo><mn>8</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mn>2</mn><mo>,</mo><mo>–</mo><mn>4</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mn>2</mn><mo>,</mo><mn>2</mn><mo stretchy="false">)</mo></mrow></math>
@@ -5375,7 +5250,6 @@
 <math><mrow><mtext>ROI</mtext><mo>=</mo><mfrac><mn>660</mn><mn>3000</mn></mfrac><mo>=</mo><mn>0.22</mn></mrow></math>
 <math><mrow><mtext>annual return</mtext><mo>=</mo><msup><mrow><mo>(</mo><mfrac><mrow><mi>F</mi><mi>V</mi></mrow><mi>P</mi></mfrac><mo>)</mo></mrow><mrow><mo>(</mo><mfrac><mn>1</mn><mi>t</mi></mfrac><mo>)</mo></mrow></msup><mo>-</mo><mn>1</mn></mrow></math>
 <math><mrow><mtext>annual return</mtext><mo>=</mo><msup><mrow><mo>(</mo><mfrac><mrow><mi>F</mi><mi>V</mi></mrow><mi>P</mi></mfrac><mo>)</mo></mrow><mrow><mo>(</mo><mfrac><mn>1</mn><mi>t</mi></mfrac><mo>)</mo></mrow></msup><mo>-</mo><mn>1</mn><mo>=</mo><msup><mrow><mo>(</mo><mfrac><mrow><mtext>$</mtext><mn>3,660</mn></mrow><mrow><mtext>$</mtext><mn>3,000</mn></mrow></mfrac><mo>)</mo></mrow><mrow><mo>(</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>)</mo></mrow></msup><mo>-</mo><mn>1</mn><mo>=</mo><msup><mn>1.22</mn><mfrac><mn>1</mn><mn>4</mn></mfrac></msup><mo>-</mo><mn>1</mn><mo>=</mo><mn>1.050969</mn><mo>=</mo><mn>0.050969</mn></mrow></math>
-<math><mrow><mtext>ROI</mtext><mo>=</mo><mfrac><mrow><mi>F</mi><mi>V</mi><mo>-</mo><mi>P</mi></mrow><mi>P</mi></mfrac></mrow></math>
 <math><mrow><mtext>ROI</mtext><mo>=</mo><mfrac><mrow><mi>F</mi><mi>V</mi><mo>-</mo><mi>P</mi></mrow><mi>P</mi></mfrac><mo>=</mo><mfrac><mrow><mtext>$</mtext><mn>132,293.49</mn><mo>-</mo><mtext>$</mtext><mn>13,000</mn></mrow><mrow><mtext>$</mtext><mn>13,000</mn></mrow></mfrac><mo>=</mo><mn>9.176422</mn></mrow></math>
 <math><mrow><mtext>annual return</mtext><mo>=</mo><msup><mrow><mo>(</mo><mfrac><mrow><mi>F</mi><mi>V</mi></mrow><mi>P</mi></mfrac><mo>)</mo></mrow><mrow><mo>(</mo><mfrac><mn>1</mn><mi>t</mi></mfrac><mo>)</mo></mrow></msup><mo>-</mo><mn>1</mn><mo>=</mo><msup><mrow><mo>(</mo><mfrac><mrow><mtext>$</mtext><mn>132,293.49</mn></mrow><mrow><mtext>$</mtext><mn>13,000</mn></mrow></mfrac><mo>)</mo></mrow><mrow><mo>(</mo><mfrac><mn>1</mn><mn>20</mn></mfrac><mo>)</mo></mrow></msup><mo>-</mo><mn>1</mn><mo>=</mo><mn>0.1230</mn></mrow></math>
 <math><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mrow><mi>p</mi><mi>m</mi><mi>t</mi></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mfrac><mrow><mi>F</mi><mi>V</mi><mo lspace="0.28em" rspace="0.28em">×</mo><mo stretchy="false">(</mo><mi>r</mi><mo>/</mo><mi>n</mi><mo stretchy="false">)</mo></mrow><mrow><msup><mrow><mo stretchy="false">(</mo><mn>1</mn><mo lspace="0.28em" rspace="0.28em">+</mo><mi>r</mi><mo>/</mo><mi>n</mi><mo stretchy="false">)</mo></mrow><mrow><mi>n</mi><mo lspace="0.28em" rspace="0.28em">×</mo><mi>t</mi></mrow></msup><mo>-</mo><mn>1</mn></mrow></mfrac></mtd></mtr><mtr><mtd columnalign="right"/><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mfrac><mrow><mtext>$</mtext><mn>37,500</mn><mo lspace="0.28em" rspace="0.28em">×</mo><mo stretchy="false">(</mo><mn>0.12</mn><mo>/</mo><mn>1</mn><mo stretchy="false">)</mo></mrow><mrow><msup><mrow><mo stretchy="false">(</mo><mn>1</mn><mo lspace="0.28em" rspace="0.28em">+</mo><mn>0.12</mn><mo>/</mo><mn>1</mn><mo stretchy="false">)</mo></mrow><mrow><mn>1</mn><mo lspace="0.28em" rspace="0.28em">×</mo><mn>10</mn></mrow></msup><mo>-</mo><mn>1</mn></mrow></mfrac></mtd></mtr><mtr><mtd columnalign="right"/><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mfrac><mrow><mtext>$</mtext><mn>4,500</mn></mrow><mrow><msup><mrow><mo stretchy="false">(</mo><mn>1.12</mn><mo stretchy="false">)</mo></mrow><mn>10</mn></msup><mo>-</mo><mn>1</mn></mrow></mfrac></mtd></mtr><mtr><mtd columnalign="right"/><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mfrac><mrow><mtext>$</mtext><mn>4,500</mn></mrow><mn>2.10584820834</mn></mfrac></mtd></mtr><mtr><mtd columnalign="right"/><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mtext>$</mtext><mn>2,136.91</mn></mrow></mtd></mtr></mtable></math>
@@ -5395,7 +5269,6 @@
 <math><mrow><msub><mn>49</mn><mn>14</mn></msub><mo>×</mo><msub><mn>9</mn><mn>14</mn></msub><mo>=</mo><mn>2</mn><mtext>D</mtext><msub><mtext>B</mtext><mn>14</mn></msub></mrow></math>
 <math><mrow><mn>4</mn><mo>×</mo><msup><mn>10</mn><mn>4</mn></msup><mo>+</mo><mn>5</mn><mo>×</mo><msup><mn>10</mn><mn>3</mn></msup><mo>+</mo><mn>2</mn><mo>×</mo><msup><mn>10</mn><mn>2</mn></msup><mo>+</mo><mn>0</mn><mo>×</mo><msup><mn>10</mn><mn>1</mn></msup><mo>+</mo><mn>9</mn><mo>×</mo><msup><mn>10</mn><mn>0</mn></msup></mrow></math>
 <math><mi>,</mi></math>
-<math><mrow><mi>a</mi><mo>−</mo><mi>c</mi><mo>&gt;</mo><mi>b</mi><mo>−</mo><mi>c</mi></mrow></math>
 <math><mrow><mo>(</mo><mi>m</mi><mo>)</mo></mrow></math>
 <math><mrow><mi>m</mi><mo>=</mo><mfrac><mrow><mi>r</mi><mi>i</mi><mi>s</mi><mi>e</mi></mrow><mrow><mi>r</mi><mi>u</mi><mi>n</mi></mrow></mfrac></mrow></math>
 <math><mrow><mo>(</mo><mrow><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>y</mi><mn>1</mn></msub></mrow><mo>)</mo></mrow></math>
@@ -5558,7 +5431,6 @@
 <math><mrow><msup><mi>C</mi><mo>′</mo></msup><mo>,</mo></mrow></math>
 <math><mrow><msup><mi>D</mi><mo>′</mo></msup><mo>,</mo></mrow></math>
 <math><mrow><msup><mi>E</mi><mo>′</mo></msup><mo>,</mo></mrow></math>
-<math><msup><mi>F</mi><mo>′</mo></msup></math>
 <math><mrow><mtext>Δ</mtext><mi>A</mi></mrow></math>
 <math><mrow><mtext>Δ</mtext><msup><mi>A</mi><mo>′</mo></msup></mrow></math>
 <math><mrow><msup><mn>60</mn><mo>∘</mo></msup><mo>,</mo></mrow></math>
@@ -5566,7 +5438,6 @@
 <math><msup><mn>75</mn><mo>°</mo></msup></math>
 <math><msup><mn>105</mn><mo>°</mo></msup></math>
 <math><mrow><msup><mn>105</mn><mo>°</mo></msup><mo>+</mo><msup><mn>75</mn><mo>°</mo></msup><mo>+</mo><msup><mn>75</mn><mo>°</mo></msup><mo>+</mo><msup><mn>105</mn><mo>°</mo></msup><mo>=</mo><msup><mn>360</mn><mo>°</mo></msup></mrow></math>
-<math><msup><mn>360</mn><mo>°</mo></msup></math>
 <math><mrow><mn>10</mn><mo>+</mo><mn>2</mn><mo>+</mo><mn>11</mn><mo>+</mo><mn>13</mn><mo>=</mo><mn>36</mn></mrow></math>
 <math><mrow><mn>10</mn><mo>+</mo><mn>2</mn><mo>+</mo><mn>11</mn><mo>+</mo><mn>8</mn><mo>=</mo><mn>31</mn></mrow></math>
 <math><mrow><mn>10</mn><mo>+</mo><mn>2</mn><mo>+</mo><mn>15</mn><mo>+</mo><mn>1</mn><mo>=</mo><mn>28</mn></mrow></math>
@@ -5600,7 +5471,6 @@
 <math><msub><mi>V</mi><mi>n</mi></msub></math>
 <math><mrow><msub><mi>V</mi><mn>1</mn></msub><mo>→</mo><msub><mi>V</mi><mn>2</mn></msub><mo>→</mo><mo>⋯</mo><mo>→</mo><msub><mi>V</mi><mi>n</mi></msub><mo>→</mo><msub><mi>V</mi><mn>1</mn></msub></mrow></math>
 <math><mrow><mn>85</mn><mspace width="0.28em"></mspace><mi>min</mi><mo>+</mo><mn>70</mn><mspace width="0.28em"></mspace><mi>min</mi><mo>+</mo><mn>75</mn><mspace width="0.28em"></mspace><mi>min</mi><mo>+</mo><mn>100</mn><mspace width="0.28em"></mspace><mi>min</mi><mo>+</mo><mn>95</mn><mspace width="0.28em"></mspace><mi>min</mi><mo>+</mo><mn>90</mn><mspace width="0.28em"></mspace><mi>min</mi><mo>=</mo><mn>515</mn><mspace width="0.28em"></mspace><mi>min</mi><mi>or</mi><mspace width="0.28em"></mspace><mn>8</mn><mspace width="0.28em"></mspace><mi>hrs</mi><mspace width="0.28em"></mspace><mn>35</mn><mspace width="0.28em"></mspace><mi>min</mi></mrow></math>
-<math><mi>xy</mi></math>
 <math><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mo>(</mo><mrow><mo>−</mo><mn>2</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></math>
@@ -5632,19 +5502,15 @@
 <math><mtable><mtr><mtd><mrow><mtext>A:</mtext><mspace width="0.28em"></mspace><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mo>–</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mtd><mtd><mrow><mtext>B:</mtext><mspace width="0.28em"></mspace><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mtd><mtd><mrow><mtext>C:</mtext><mspace width="0.28em"></mspace><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mo>–</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mtd><mtd><mrow><mtext>D:</mtext><mspace width="0.28em"></mspace><mrow><mo>(</mo><mrow><mo>–</mo><mn>1</mn><mo>,</mo><mo>–</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></mtd></mtr></mtable></math>
 <math><mrow><mtable columnalign="center"><mtr><mtd><mrow><mi mathvariant="normal">A</mi><mo lspace="0">:</mo><mo stretchy="false">(</mo><mn>0</mn><mo>,</mo><mo>−</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mi>y</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>−</mo><mn>3</mn></mrow></mtd><mtd columnalign="center"><mover><mo>=</mo><mo>?</mo></mover></mtd><mtd columnalign="left"><mrow><mn>2</mn><mo stretchy="false">(</mo><mn>0</mn><mo stretchy="false">)</mo><mo>−</mo><mn>3</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>−</mo><mn>3</mn></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mo>−</mo><mn>3</mn><mo>✓</mo></mrow></mtd></mtr></mtable></mtd></mtr><mtr><mtd><mrow><mo stretchy="false">(</mo><mn>0</mn><mo>,</mo><mo>−</mo><mn>3</mn><mo stretchy="false">)</mo><mspace width="0.28em"></mspace><mtext>is a solution.</mtext></mrow></mtd></mtr></mtable><mspace width="0.28em"></mspace><mtable columnalign="center"><mtr><mtd><mrow><mi mathvariant="normal">B</mi><mo lspace="0">:</mo><mo stretchy="false">(</mo><mn>3</mn><mo>,</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mi>y</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mn>3</mn></mtd><mtd columnalign="center"><mover><mo>=</mo><mo>?</mo></mover></mtd><mtd columnalign="left"><mrow><mn>2</mn><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>−</mo><mn>3</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mn>3</mn></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>3</mn><mo>✓</mo></mrow></mtd></mtr></mtable></mtd></mtr><mtr><mtd><mrow><mo stretchy="false">(</mo><mn>3</mn><mo>,</mo><mn>3</mn><mo stretchy="false">)</mo><mspace width="0.28em"></mspace><mtext>is a solution.</mtext></mrow></mtd></mtr></mtable><mspace width="0.28em"></mspace><mtable columnalign="center"><mtr><mtd><mrow><mi mathvariant="normal">C</mi><mo lspace="0">:</mo><mo stretchy="false">(</mo><mn>2</mn><mo>,</mo><mo>−</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mi>y</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>−</mo><mn>3</mn></mrow></mtd><mtd columnalign="center"><mover><mo>=</mo><mo>?</mo></mover></mtd><mtd columnalign="left"><mrow><mn>2</mn><mo stretchy="false">(</mo><mn>2</mn><mo stretchy="false">)</mo><mo>−</mo><mn>3</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>−</mo><mn>3</mn></mrow></mtd><mtd columnalign="center"><mo>≠</mo></mtd><mtd columnalign="left"><mn>1</mn></mtd></mtr></mtable></mtd></mtr><mtr><mtd><mrow><mo stretchy="false">(</mo><mn>2</mn><mo>,</mo><mo>−</mo><mn>3</mn><mo stretchy="false">)</mo><mspace width="0.28em"></mspace><mtext>is not a solution.</mtext></mrow></mtd></mtr></mtable><mspace width="0.28em"></mspace><mtable columnalign="center"><mtr><mtd><mrow><mi mathvariant="normal">D</mi><mo lspace="0">:</mo><mo stretchy="false">(</mo><mo>−</mo><mn>1</mn><mo>,</mo><mo>−</mo><mn>5</mn><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mi>y</mi></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>−</mo><mn>5</mn></mrow></mtd><mtd columnalign="center"><mover><mo>=</mo><mo>?</mo></mover></mtd><mtd columnalign="left"><mrow><mn>2</mn><mo stretchy="false">(</mo><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mo>−</mo><mn>3</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mrow><mo>−</mo><mn>5</mn></mrow></mtd><mtd columnalign="center"><mo>=</mo></mtd><mtd columnalign="left"><mrow><mo>−</mo><mn>5</mn><mo>✓</mo></mrow></mtd></mtr></mtable></mtd></mtr><mtr><mtd><mrow><mo stretchy="false">(</mo><mo>−</mo><mn>1</mn><mo>,</mo><mo>−</mo><mn>5</mn><mo stretchy="false">)</mo><mspace width="0.28em"></mspace><mtext>is a solution.</mtext></mrow></mtd></mtr></mtable></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mn>0</mn><mo>,</mo><mo>-</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mn>2</mn><mo>,</mo><mo>-</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mo>-</mo><mn>1</mn><mo>,</mo><mo>-</mo><mn>5</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mn>0</mn><mo>,</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mn>3</mn><mo>,</mo><mo>-</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mo>−</mo><mn>1</mn><mo>,</mo><mo>−</mo><mn>5</mn><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mn>2</mn><mo>,</mo><mo>−</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>2</mn></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mn>0</mn><mo>,</mo><mn>2</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mo>–</mo><mn>3</mn><mo>,</mo><mo>–</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>+</mo><mn>3</mn></mrow></math>
 <math><mtable columnalign="left"><mtr columnalign="left"><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>0</mn></mrow></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>=</mo><mn>4</mn></mrow></mtd></mtr><mtr columnalign="left"><mtd columnalign="left"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mtd><mtd columnalign="left"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mtd><mtd columnalign="left"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mtd></mtr><mtr columnalign="left"><mtd columnalign="left"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo stretchy="false">(</mo><mn>0</mn><mo stretchy="false">)</mo><mo>+</mo><mn>3</mn></mrow></mtd><mtd columnalign="left"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo stretchy="false">(</mo><mn>2</mn><mo stretchy="false">)</mo><mo>+</mo><mn>3</mn></mrow></mtd><mtd columnalign="left"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo stretchy="false">(</mo><mn>4</mn><mo stretchy="false">)</mo><mo>+</mo><mn>3</mn></mrow></mtd></mtr><mtr columnalign="left"><mtd columnalign="left"><mrow><mi>y</mi><mo>=</mo><mn>0</mn><mo>+</mo><mn>3</mn></mrow></mtd><mtd columnalign="left"><mrow><mi>y</mi><mo>=</mo><mn>1</mn><mo>+</mo><mn>3</mn></mrow></mtd><mtd columnalign="left"><mrow><mi>y</mi><mo>=</mo><mn>2</mn><mo>+</mo><mn>3</mn></mrow></mtd></mtr><mtr columnalign="left"><mtd columnalign="left"><mrow><mi>y</mi><mo>=</mo><mn>3</mn></mrow></mtd><mtd columnalign="left"><mrow><mi>y</mi><mo>=</mo><mn>4</mn></mrow></mtd><mtd columnalign="left"><mrow><mi>y</mi><mo>=</mo><mn>5</mn></mrow></mtd></mtr></mtable></math>
-<math><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow></math>
@@ -5671,9 +5537,7 @@
 <math><mrow><mo stretchy="false">(</mo><mo>−</mo><mn>2</mn><mo>,</mo><mo>−</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>4</mn></mrow></math>
 <math><mrow><mi>y</mi><mo>&lt;</mo><mi>x</mi><mo>+</mo><mn>4</mn></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mo>−</mo><mn>8</mn><mo>,</mo><mn>12</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mo>−</mo><mn>5</mn><mo>,</mo><mo>−</mo><mn>15</mn><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mn>2</mn><mo>,</mo><mn>6</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mn>6</mn><mo>=</mo><mn>2</mn><mo>+</mo><mn>4</mn></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mn>0</mn><mo>,</mo><mn>10</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mtable columnspacing="0.3em"><mtr><mtd columnalign="right"><mi>y</mi></mtd><mtd columnalign="center"><mo>&gt;</mo></mtd><mtd columnalign="left"><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mn>10</mn></mtd><mtd columnalign="center"><mover><mo>&gt;</mo><mo>?</mo></mover></mtd><mtd columnalign="left"><mrow><mn>0</mn><mo>+</mo><mn>4</mn></mrow></mtd></mtr><mtr><mtd columnalign="right"><mn>10</mn></mtd><mtd columnalign="center"><mo>&gt;</mo></mtd><mtd columnalign="left"><mrow><mn>4</mn><mo>✓</mo></mrow></mtd></mtr></mtable></math>
@@ -5716,21 +5580,13 @@
 <math><mrow><mi>y</mi><mo>≥</mo><mo>−</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></math>
 <math><mrow><mi>y</mi><mo>&lt;</mo><mo>−</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mo>−</mo><mn>3</mn><mo>,</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mo>−</mo><mn>2</mn><mo>,</mo><mn>0</mn><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mo>−</mo><mn>4</mn><mo>,</mo><mo>−</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mn>1</mn><mo>,</mo><mfrac><mn>14</mn><mn>5</mn></mfrac><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn></mrow></math>
-<math><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></math>
-<math><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mo>(</mo><mrow><mo>−</mo><mn>2</mn><mo>,</mo><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mi>y</mi><mo>=</mo><mi>x</mi><mo>−</mo><mn>4</mn></mrow></math>
 <math><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow></math>
-<math><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></math>
-<math><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mo>−</mo><mn>5</mn></mrow><mo>)</mo></mrow></math>
-<math><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></math>
-<math><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mo>(</mo><mrow><mo>−</mo><mn>3</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mo>(</mo><mrow><mo>−</mo><mn>6</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mi>x</mi><mo>−</mo><mn>3</mn></mrow></math>
@@ -5883,7 +5739,6 @@
 <math><mrow><mn>75,025</mn><mo>/</mo><mn>46,368</mn><mo>=</mo><mn>1.618</mn></mrow></math>
 <math><mo mathvariant="-tex-mathit">ϕ</mo></math>
 <math><mrow><mn>1</mn><mspace width="thinmathspace"></mspace><mrow><mi mathvariant="normal">k</mi><mi mathvariant="normal">W</mi></mrow><mo>=</mo><mn>1,000</mn><mspace width="thinmathspace"></mspace><mrow><mi mathvariant="normal">w</mi><mi mathvariant="normal">a</mi><mi mathvariant="normal">t</mi><mi mathvariant="normal">t</mi><mi mathvariant="normal">s</mi></mrow></mrow></math>
-<math><mrow><mi>n</mi><mrow><mo>(</mo><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>/</mo><mn>2</mn></mrow></math>
 <math><mfrac><mn>18</mn><mn>100</mn></mfrac></math>
 <math><mfrac><mn>84</mn><mn>100</mn></mfrac></math>
 <math><mfrac><mn>38.7</mn><mn>100</mn></mfrac></math>
@@ -5976,7 +5831,6 @@
 <math><mrow><mi>y</mi><mtext>-intercept</mtext></mrow></math>
 <math><mrow><mi>x</mi><mtext>-intercept</mtext></mrow></math>
 <math><mrow><mo>{</mo><mtable columnalign="left" rowspacing="4pt" columnspacing="1em"><mtr><mtd><mrow><mn>240</mn><mi>h</mi><mo>+</mo><mn>160</mn><mi>C</mi><mo>≥</mo><mn>800</mn></mrow></mtd></mtr><mtr><mtd><mrow><mn>1.40</mn><mi>h</mi><mo>+</mo><mn>0.50</mn><mi>C</mi><mo>≤</mo><mn>5</mn></mrow></mtd></mtr><mtr><mtd><mrow><mi>h</mi><mo>≥</mo><mn>0</mn></mrow></mtd></mtr><mtr><mtd><mrow><mi>C</mi><mo>≥</mo><mn>0</mn></mrow></mtd></mtr></mtable><mo fence="true" stretchy="true" symmetric="true">&lt;mo fence="true" stretchy="true" symmetric="true"/&gt;</mo></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mn>2</mn><mo>,</mo><mn>4</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>a</mi><mo>=</mo></mrow></math>
 <math><mrow><mi>P</mi><mo>=</mo><mn>4</mn><mi>a</mi><mo>+</mo><mn>6</mn><mi>b</mi></mrow></math>
 <math><mrow><mi>T</mi><mo>=</mo><mn>20</mn><mi>x</mi><mo>+</mo><mn>28</mn><mi>y</mi></mrow></math>
@@ -5995,7 +5849,6 @@
 <math><mrow><mi>C</mi><mo>=</mo><mi>K</mi><mo>–</mo><mn>273</mn></mrow></math>
 <math><mrow><mi>K</mi><mo>=</mo><mfrac><mn>5</mn><mn>9</mn></mfrac><mrow><mo>(</mo><mrow><mi>F</mi><mo>−</mo><mn>32</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>273</mn></mrow></math>
 <math><mrow><mi>R</mi><mo>=</mo><mfrac><mn>9</mn><mn>5</mn></mfrac><mi>C</mi><mo>+</mo><mn>492</mn></mrow></math>
-<math><mrow><mo>(</mo><mrow><mo>−</mo><mi mathvariant="normal">∞</mi><mo>,</mo><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></math>
 <math><mn>499.5</mn></math>
 <math><mrow><mo>$</mo><mn>40.66</mn></mrow></math>
 <math><mrow><mi>x</mi><mo>=</mo><mfrac><mn>5</mn><mn>2</mn></mfrac><mo>±</mo><mfrac><msqrt><mn>5</mn></msqrt><mn>2</mn></mfrac></mrow></math>
@@ -6004,7 +5857,6 @@
 <math><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mi>b</mi></mrow><mo>)</mo></mrow></math>
 <math><mrow><mi>x</mi><mtext>-axis</mtext></mrow></math>
 <math><mrow><mi>y</mi><mtext>-axis</mtext></mrow></math>
-<math><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></math>
@@ -6030,7 +5882,6 @@
 <math><msub><mi>y</mi><mn>3</mn></msub></math>
 <math><msub><mi>x</mi><mn>4</mn></msub></math>
 <math><msub><mi>y</mi><mn>4</mn></msub></math>
-<math><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mo>(</mo><mrow><mn>7</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mi>m</mi><mo>=</mo><mfrac><mi mathvariant="italic">rise</mi><mi mathvariant="italic">run</mi></mfrac><mo>=</mo><mfrac><mrow><mn>6</mn><mo>−</mo><mn>3</mn></mrow><mrow><mn>7</mn><mo>−</mo><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mn>3</mn><mn>5</mn></mfrac></mrow></math>
 <math><mrow><mi>m</mi><mo>=</mo><mfrac><mrow><msub><mi>y</mi><mn>2</mn></msub><mo>−</mo><msub><mi>y</mi><mn>1</mn></msub></mrow><mrow><msub><mi>x</mi><mn>2</mn></msub><mo>−</mo><msub><mi>x</mi><mn>1</mn></msub></mrow></mfrac></mrow></math>
@@ -6054,15 +5905,12 @@
 <math><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mi>x</mi><mo>+</mo><mn>4</mn><mtext>.</mtext></mrow></math>
 <math><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mn>1</mn></mrow></math>
 <math><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mn>1</mn><mo>=</mo><mfrac><mrow><mo>−</mo><mn>1</mn></mrow><mn>1</mn></mfrac></mrow></math>
-<math><mrow><mo>(</mo><mrow><mo>−</mo><mn>3</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></math>
-<math><mrow><mo>(</mo><mrow><mo>−</mo><mn>3</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mi>m</mi><mo>=</mo><mfrac><mi mathvariant="italic">rise</mi><mi mathvariant="italic">run</mi></mfrac><mo>=</mo><mfrac><mn>2</mn><mn>0</mn></mfrac></mrow></math>
 <math><mrow><mi>x</mi><mo>=</mo><mi>a</mi></mrow></math>
 <math><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mi>m</mi><mo>=</mo><mfrac><mi mathvariant="italic">rise</mi><mi mathvariant="italic">run</mi></mfrac><mo>=</mo><mfrac><mn>0</mn><mn>2</mn></mfrac><mo>=</mo><mn>0</mn></mrow></math>
 <math><mrow><mi>y</mi><mo>=</mo><mi>b</mi></mrow></math>
 <math><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></math>
-<math><mrow><mo>(</mo><mrow><mo>−</mo><mn>3</mn><mo>,</mo><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></math>
 <math><mrow><mo>−</mo><mfrac><mn>4</mn><mn>15</mn></mfrac><mo>,</mo></mrow></math>
 <math><mrow><mi>C</mi><mo>=</mo><mn>0</mn></mrow></math>
 <math><mrow><mi>F</mi><mo>=</mo><mfrac><mn>9</mn><mn>5</mn></mfrac><mo stretchy="false">(</mo><mn>0</mn><mo stretchy="false">)</mo><mo>+</mo><mn>32</mn></mrow></math>
@@ -6164,7 +6012,6 @@
 <math><mrow><mi>E</mi><mo>=</mo><mo>{</mo><mn>2</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>6</mn><mo>,</mo><mo>…</mo><mo>,</mo><mn>100</mn></mrow></math>
 <math><mrow><mi>E</mi><mo>=</mo><mrow><mo>{</mo><mrow><mn>2</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>6</mn><mo>,</mo><mo>…</mo><mo>,</mo><mn>100</mn></mrow><mo>}</mo></mrow></mrow></math>
 <math><mrow><mi mathvariant="normal">ℤ</mi><mo>,</mo></mrow></math>
-<math><mi mathvariant="normal">ℤ</mi></math>
 <math><mrow><mi mathvariant="normal">ℤ</mi><mo>=</mo><mo>{</mo><mo>…</mo><mo>,</mo><mo>−</mo><mn>2</mn><mo>,</mo><mo>−</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mo>…</mo><mo>}</mo><mo>.</mo></mrow></math>
 <math><mrow><mi>A</mi><mo>=</mo><mrow><mo>{</mo><mrow><mi>x</mi><mo>|</mo><mi>x</mi><mspace width="0.28em"></mspace><mi mathvariant="normal">is a lowercase letter of the English alphabet.</mi></mrow><mo lspace="0">}</mo></mrow></mrow></math>
 <math><mrow><mi>B</mi><mo>=</mo><mrow><mo>{</mo><mrow><mi>b</mi><mo>|</mo><mi>b</mi><mspace width="0.28em"></mspace><mtext>is a ball</mtext><mo>.</mo></mrow><mo lspace="0">}</mo></mrow></mrow></math>
@@ -6177,8 +6024,6 @@
 <math><mrow><mi>A</mi><mo>=</mo><mo>{</mo><mi mathvariant="normal">a</mi><mo>,</mo><mi mathvariant="normal">b</mi><mo>,</mo><mi mathvariant="normal">c</mi><mo>,</mo><mo>…</mo><mo>,</mo><mi mathvariant="normal">z</mi><mo>}</mo></mrow></math>
 <math><mrow><mi mathvariant="normal">ℚ</mi><mo>=</mo><mrow><mo>{</mo><mrow><mfrac><mi>p</mi><mi>q</mi></mfrac><mo>|</mo><mi>p</mi><mspace width="0.28em"></mspace><mi mathvariant="normal">and</mi><mspace width="0.28em"></mspace><mi>q</mi><mspace width="0.28em"></mspace><mi mathvariant="normal">are</mi><mspace width="0.28em"></mspace><mi mathvariant="normal">integers</mi><mspace width="0.28em"></mspace><mi mathvariant="normal">and</mi><mspace width="0.28em"></mspace><mi>q</mi><mo>≠</mo><mn>0</mn></mrow><mo>}</mo></mrow></mrow></math>
 <math><mrow><mi>n</mi><mrow><mo>(</mo><mi>E</mi><mo>)</mo></mrow><mo>=</mo><mn>5</mn></mrow></math>
-<math><mrow><mi>n</mi><mrow><mo>(</mo><mi>A</mi><mo>)</mo></mrow><mo>=</mo><mn>26</mn></mrow></math>
-<math><mi mathvariant="normal">ℚ</mi></math>
 <math><mrow><mi>B</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>b</mi><mo>,</mo><mi>a</mi><mo>,</mo><mi>k</mi><mo>,</mo><mi>e</mi><mo fence="false" stretchy="false">}</mo></mrow></math>
 <math><mrow><mi mathvariant="double-struck">R</mi><mo>=</mo><mrow><mo>{</mo><mrow><mi>x</mi><mo stretchy="false">|</mo><mi>x</mi><mtext> </mtext><mtext>is a real number</mtext></mrow><mo>}</mo></mrow></mrow></math>
 <math><mrow><mi>A</mi><mo>=</mo><mi>B</mi></mrow></math>
@@ -6398,7 +6243,6 @@
 <math><mrow><mi>h</mi><mo>=</mo><mn>54</mn><mspace width="thinmathspace"></mspace><mi>t</mi><mo>+</mo><mrow><mo>(</mo><mn>1</mn><mo>/</mo><mn>2</mn><mo>)</mo></mrow><mi>a</mi></mrow></math>
 <math><mrow><mn>180</mn><mtext> </mtext><mo>=</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo>+</mo><mi>c</mi></mrow></math>
 <math><mrow><mi>A</mi><mo>=</mo><mtext> </mtext><mrow><mo>(</mo><mn>1</mn><mo>/</mo><mn>2</mn><mo>)</mo></mrow><mi>p</mi><mi>l</mi><mo>+</mo><mi>B</mi></mrow></math>
-<math><mrow><mi>P</mi><mo>=</mo><mn>2</mn><mspace width="thinmathspace"></mspace><mi>L</mi><mo>+</mo><mn>2</mn><mspace width="thinmathspace"></mspace><mi>W</mi></mrow></math>
 <math><mrow><mtext>discount</mtext><mo>=</mo><mtext>percent discount</mtext><mo>×</mo><mtext>original price</mtext></mrow></math>
 <math><mrow><mtext>sale price</mtext><mo>=</mo><mtext>original price</mtext><mo>-</mo><mtext>discount</mtext></mrow></math>
 <math><mrow><mtext>sale price</mtext><mo>=</mo><mtext>original price</mtext><mo>-</mo><mtext>percent discount</mtext><mo>×</mo><mtext>original price</mtext><mo>=</mo><mtext>original price</mtext><mo>×</mo><mtext>(1</mtext><mo>-</mo><mtext>percent discount)</mtext></mrow></math>
@@ -6571,7 +6415,6 @@
 <math><mrow><mo>{</mo><mrow><mn>14</mn><mo>,</mo><mn>16</mn><mo>,</mo><mn>18</mn><mo>,</mo><mn>22</mn><mo>,</mo><mn>28</mn><mo>,</mo><mn>40</mn><mo>,</mo><mn>32</mn><mo>,</mo><mn>0</mn></mrow><mo>}</mo></mrow></math>
 <math><mrow><mo>{</mo><mrow><mn>14</mn><mo>,</mo><mn>20</mn><mo>,</mo><mn>26</mn><mo>,</mo><mn>32</mn><mo>,</mo><mn>38</mn><mo>,</mo><mn>44</mn><mo>,</mo><mn>50</mn><mo>,</mo><mn>56</mn><mo>,</mo><mn>62</mn><mo>,</mo><mn>68</mn><mo>,</mo><mn>74</mn><mo>,</mo><mn>80</mn><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo></mrow><mo>}</mo></mrow></math>
 <math><mrow><mi>i</mi><mtext>th</mtext></mrow></math>
-<math><mrow><msub><mi>a</mi><mi>i</mi></msub><mo>=</mo><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mi>d</mi><mo>×</mo><mo stretchy="false">(</mo><mi>i</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></math>
 <math><msup><mi>i</mi><mrow><mi>t</mi><mi>h</mi></mrow></msup></math>
 <math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mn>3</mn><mo>×</mo><mo stretchy="false">(</mo><mi>i</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mn>4</mn><mo>+</mo><mn>3</mn><mo>×</mo><mn>0</mn></mrow></math>
@@ -6592,7 +6435,6 @@
 <math><mrow><mo>{</mo><mrow><mn>4.5</mn><mo>,</mo><mn>8.1</mn><mo>,</mo><mn>11.7</mn><mo>,</mo><mn>15.3</mn><mo>,</mo><mn>18.9</mn><mo>,</mo><mn>22.5</mn><mo>,</mo><mn>26.1</mn><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo></mrow><mo>}</mo></mrow></math>
 <math><mi>j</mi></math>
 <math><msub><mi>a</mi><mi>j</mi></msub></math>
-<math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><msub><mi>a</mi><mi>i</mi></msub><mo>−</mo><mi>d</mi><mo stretchy="false">(</mo><mi>i</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><msub><mi>a</mi><mn>7</mn></msub><mo>=</mo><mn>56</mn></mrow></math>
 <math><mrow><msub><mi>a</mi><mn>19</mn></msub><mo>=</mo><mn>104</mn></mrow></math>
 <math><mrow><mn>50</mn><mtext>th</mtext></mrow></math>
@@ -6707,7 +6549,6 @@
 <math><mrow><mi>R</mi><mo>=</mo><mi mathvariant="normal">Rectangles</mi></mrow></math>
 <math><mrow><mi>A</mi><mo>⊂</mo><mi>U</mi></mrow></math>
 <math><mrow><mi>U</mi><mo>=</mo><mi mathvariant="normal">Things with Wheels</mi></mrow></math>
-<math><mrow><mi>A</mi><mo>'</mo></mrow></math>
 <math><mrow><mi>A</mi><mo>'</mo><mo>=</mo><mo>{</mo><mi>x</mi><mo>∈</mo><mi>U</mi><mo>|</mo><mi>x</mi><mo>∉</mo><mi>A</mi><mo>}</mo><mo>.</mo></mrow></math>
 <math><mo>∉</mo></math>
 <math><mrow><mi>U</mi><mo>=</mo><mo>{</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>5</mn><mo>,</mo><mn>6</mn><mo>,</mo><mn>7</mn><mo>,</mo><mn>8</mn><mo>,</mo><mn>9</mn><mo>}</mo><mo>.</mo></mrow></math>
@@ -6718,9 +6559,7 @@
 <math><mrow><mi>A</mi><mo>'</mo><mo>.</mo></mrow></math>
 <math><mrow><mi>U</mi><mo>=</mo><mo>{</mo><mi mathvariant="normal">d|d is a dog</mi><mo>}</mo></mrow></math>
 <math><mrow><mi>B</mi><mo>=</mo><mo>{</mo><mi mathvariant="normal">b ∈ U|b is a beagle</mi><mo>}</mo></mrow></math>
-<math><mrow><mi>B</mi><mo>'</mo><mo>.</mo></mrow></math>
 <math><mrow><mi>A</mi><mo>'</mo><mo>=</mo><mo>{</mo><mi mathvariant="normal">Billie Eilish, Adele</mi><mo>}</mo></mrow></math>
-<math><mrow><mi>B</mi><mo>′</mo></mrow></math>
 <math><mrow><mi>B</mi><mo>′</mo><mo>=</mo><mo>{</mo><mi mathvariant="normal">All dogs that are not beagles</mi><mi mathvariant="normal">.}</mi></mrow></math>
 <math><mrow><mi>B</mi><mo>′</mo><mo>=</mo><mo>{</mo><mi>d</mi><mo>∈</mo><mi>U</mi><mo>|</mo><mi>d</mi><mspace width="0.28em"></mspace><mi mathvariant="normal">is not a beagle</mi><mi mathvariant="normal">.}</mi></mrow></math>
 <math><mrow><mi>B</mi><mo>′</mo><mo>=</mo><mo>{</mo><mi>d</mi><mo>∈</mo><mi>U</mi><mo>|</mo><mi>d</mi><mo>∉</mo><mi>B</mi><mi mathvariant="normal">}</mi><mi mathvariant="normal">.</mi></mrow></math>
@@ -6792,9 +6631,6 @@
 <math><mrow><mn>410</mn><mo rspace="0.28em">⁢</mo><mi>mg</mi><mo>×</mo><mn>2</mn><mo>=</mo><mn>820</mn><mo rspace="0.28em">⁢</mo><mi>mg</mi></mrow></math>
 <math><mrow><mfrac><mrow><mn>820</mn><mo rspace="0.28em">⁢</mo><mi>mg</mi></mrow><mn>1,000</mn></mfrac><mo>=</mo><mn>0.82</mn><mo rspace="0.28em">⁢</mo><mi mathvariant="normal">g</mi></mrow></math>
 <math><mrow><mn>0.6</mn><mo>−</mo><mn>0.52</mn></mrow></math>
-<math><mrow><mi>S</mi><mo>=</mo><mrow><mo>(</mo><mrow><mi>n</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><msup><mn>180</mn><mo>∘</mo></msup><mo>.</mo></mrow></math>
-<math><mrow><mi>a</mi><mo>=</mo><mfrac><mrow><mrow><mo>(</mo><mrow><mi>n</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><msup><mn>180</mn><mo>∘</mo></msup></mrow><mi>n</mi></mfrac><mo>.</mo></mrow></math>
-<math><mrow><mi>b</mi><mo>=</mo><mfrac><msup><mn>360</mn><mo>∘</mo></msup><mi>n</mi></mfrac><mo>.</mo></mrow></math>
 <math><mrow><mi>A</mi><mo>=</mo><mi>l</mi><mi>w</mi><mo>,</mo></mrow></math>
 <math><mi>l</mi></math>
 <math><mrow><mi>A</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>h</mi><mrow><mo>(</mo><mrow><msub><mi>b</mi><mn>1</mn></msub><mo>+</mo><msub><mi>b</mi><mn>2</mn></msub></mrow><mo>)</mo></mrow><mo>,</mo></mrow></math>

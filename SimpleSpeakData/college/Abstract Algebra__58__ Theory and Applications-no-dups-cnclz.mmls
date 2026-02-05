@@ -708,7 +708,6 @@
 <math> <mrow> <msub> <mi>d</mi> <mn>12</mn> </msub> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mo>(</mo> <mrow> <msub> <mi>d</mi> <mn>1</mn> </msub> <mo>,</mo> <msub> <mi>d</mi> <mn>2</mn> </msub> <mo>,</mo> <mi>…</mi> <mo>,</mo> <msub> <mi>d</mi> <mi>k</mi> </msub> </mrow> <mo>)</mo> </mrow> <mo>⋅</mo> <mrow> <mo>(</mo> <mrow> <msub> <mi>w</mi> <mn>1</mn> </msub> <mo>,</mo> <msub> <mi>w</mi> <mn>2</mn> </msub> <mo>,</mo> <mi>…</mi> <mo>,</mo> <msub> <mi>w</mi> <mi>k</mi> </msub> </mrow> <mo>)</mo> </mrow> </mrow> <mo>≡</mo> <mrow> <mn>0</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mo>mod</mo> <mi>n</mi> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mrow> <msub> <mi>d</mi> <mn>1</mn> </msub> <mo>⁢</mo> <msub> <mi>w</mi> <mn>1</mn> </msub> </mrow> <mo>+</mo> <mrow> <msub> <mi>d</mi> <mn>2</mn> </msub> <mo>⁢</mo> <msub> <mi>w</mi> <mn>2</mn> </msub> </mrow> <mo>+</mo> <mi>⋯</mi> <mo>+</mo> <mrow> <msub> <mi>d</mi> <mi>k</mi> </msub> <mo>⁢</mo> <msub> <mi>w</mi> <mi>k</mi> </msub> </mrow> </mrow> <mo>≡</mo> <mrow> <mn>0</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mo>mod</mo> <mi>n</mi> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mrow> <mrow> <mo>(</mo> <mrow> <msub> <mi>d</mi> <mn>1</mn> </msub> <mo>,</mo> <msub> <mi>d</mi> <mn>2</mn> </msub> <mo>,</mo> <mi>…</mi> <mo>,</mo> <msub> <mi>d</mi> <mi>k</mi> </msub> </mrow> <mo>)</mo> </mrow> <mo>⋅</mo> <mrow> <mo>(</mo> <mrow> <msub> <mi>w</mi> <mn>1</mn> </msub> <mo>,</mo> <msub> <mi>w</mi> <mn>2</mn> </msub> <mo>,</mo> <mi>…</mi> <mo>,</mo> <msub> <mi>w</mi> <mi>k</mi> </msub> </mrow> <mo>)</mo> </mrow> </mrow> <mo>≡</mo> <mrow> <mn>0</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mo>mod</mo> <mi>n</mi> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <msub> <mi>d</mi> <mn>1</mn> </msub> <mo>⁢</mo> <msub> <mi>d</mi> <mn>2</mn> </msub> <mo>⁢</mo> <mi>⋯</mi> <mo>⁢</mo> <msub> <mi>d</mi> <mi>k</mi> </msub> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mn>0</mn> <mo>≤</mo> <mrow> <msub> <mi>d</mi> <mi>i</mi> </msub> <mo>&lt;</mo> <mi>n</mi> </mrow> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi movablelimits="true">gcd</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <msub> <mi>w</mi> <mi>i</mi> </msub> <mo>,</mo> <mi>n</mi> </mrow> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mn>1</mn> </mrow> </math>
@@ -3530,7 +3529,6 @@
 <math> <mrow> <mrow> <mi>α</mi> <mo>&gt;</mo> <mi>β</mi> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>α</mi> <mo>-</mo> <mi>β</mi> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>β</mi> <mo>&gt;</mo> <mn>1</mn> </mrow> </math>
-<math> <mrow> <mi>△</mi> <mo>⁡</mo> <mrow> <mi>A</mi> <mo>⁣</mo> <mi>B</mi> <mo>⁣</mo> <mi>C</mi> </mrow> </mrow> </math>
 <math> <mrow> <mi>△</mi> <mo>⁡</mo> <mrow> <mi>A</mi> <mo>⁣</mo> <mi>D</mi> <mo>⁣</mo> <mi>E</mi> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mi>α</mi> <mo>/</mo> <mn>1</mn> </mrow> <mo>=</mo> <mrow> <mi>x</mi> <mo>/</mo> <mi>β</mi> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>α</mi> <mo>⁢</mo> <mi>β</mi> </mrow> <mo>.</mo> </mrow> </math>
@@ -3854,7 +3852,6 @@
 <math> <mrow> <mrow> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <mi>r</mi> </mrow> <mo>+</mo> <mrow> <mi>n</mi> <mo>⁢</mo> <mi>s</mi> </mrow> </mrow> <mo>=</mo> <mn>1</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mi>n</mi> <mo>⁢</mo> <mi>s</mi> </mrow> <mo>=</mo> <mrow> <mn>1</mn> <mo>-</mo> <mrow> <mi>a</mi> <mo>⁢</mo> <mi>r</mi> </mrow> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <mi>r</mi> </mrow> <mo>≡</mo> <mrow> <mn>1</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mo>mod</mo> <mi>n</mi> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <mi>b</mi> </mrow> <mo>≡</mo> <mrow> <mn>1</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mo>mod</mo> <mi>n</mi> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <mi>b</mi> </mrow> <mo>-</mo> <mn>1</mn> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <mi>b</mi> </mrow> <mo>-</mo> <mrow> <mi>n</mi> <mo>⁢</mo> <mi>k</mi> </mrow> </mrow> <mo>=</mo> <mn>1</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>d</mi> <mo>=</mo> <mrow> <mi movablelimits="true">gcd</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mi>a</mi> <mo>,</mo> <mi>n</mi> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> <mo>.</mo> </mrow> </math>

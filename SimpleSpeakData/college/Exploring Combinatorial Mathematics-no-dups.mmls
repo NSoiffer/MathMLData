@@ -4,7 +4,6 @@
 <math><mrow><mo stretchy="false">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mi>m</mi><mo>,</mo><mi>n</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>m</mi><mo>,</mo><mi>n</mi><mo>∈</mo><mi mathvariant="double-struck">Z</mi><mtext>.</mtext></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mi>x</mi><mo>+</mo><mn>4</mn></mrow></math>
 <math><mrow><mi>y</mi><mo>=</mo><mn>10</mn><mo>−</mo><mi>x</mi></mrow></math>
 <math><mrow><msup><mn>2</mn><mi>n</mi></msup><mo>=</mo><mrow><mo maxsize="1.2em" minsize="1.2em">(</mo><mfrac linethickness="0"><mi>n</mi><mn>0</mn></mfrac><mo maxsize="1.2em" minsize="1.2em">)</mo></mrow><mo>+</mo><mrow><mo maxsize="1.2em" minsize="1.2em">(</mo><mfrac linethickness="0"><mi>n</mi><mn>1</mn></mfrac><mo maxsize="1.2em" minsize="1.2em">)</mo></mrow><mo>+</mo><mo>…</mo><mo>+</mo><mrow><mo maxsize="1.2em" minsize="1.2em">(</mo><mfrac linethickness="0"><mi>n</mi><mi>n</mi></mfrac><mo maxsize="1.2em" minsize="1.2em">)</mo></mrow></mrow></math>
@@ -1009,9 +1008,7 @@
 <math><mrow><mn>8</mn><mo>−</mo><mn>12</mn><mo>+</mo><mn>6</mn><mo>=</mo><mn>2</mn><mtext>,</mtext></mrow></math>
 <math><mrow><mi>n</mi><mo>≥</mo><mn>6</mn><mtext>.</mtext></mrow></math>
 <math><mrow><mi>A</mi><mo>∪</mo><mi>B</mi></mrow></math>
-<math><mrow><mo stretchy="false">|</mo><mi>A</mi><mo stretchy="false">|</mo></mrow></math>
 <math><mrow><mi>A</mi><mtext>,</mtext></mrow></math>
-<math><mrow><mo stretchy="false">|</mo><mi>B</mi><mo stretchy="false">|</mo></mrow></math>
 <math><mrow><mo stretchy="false">|</mo><mi>A</mi><mo>∩</mo><mi>B</mi><mo stretchy="false">|</mo></mrow></math>
 <math><mrow><mi>A</mi><mo>∩</mo><mi>B</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mi>U</mi><mtext>,</mtext></mrow></math>
@@ -1479,7 +1476,6 @@
 <math><mrow><mi>m</mi><mo>,</mo><mi>n</mi><mo>≥</mo><mn>0</mn><mtext>.</mtext></mrow></math>
 <math><mrow><mi>P</mi><mo stretchy="false">(</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>A</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo fence="false" stretchy="false">}</mo><mtext>.</mtext></mrow></math>
-<math><mrow><mo fence="false" stretchy="false">{</mo><mo>,</mo><mtext> </mtext><mtext> </mtext><mo fence="false" stretchy="false">}</mo></mrow></math>
 <math><mrow><mi>a</mi><mo>∈</mo><mo fence="false" stretchy="false">{</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo fence="false" stretchy="false">}</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mi>c</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mi>d</mi><mo>∉</mo><mo fence="false" stretchy="false">{</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo fence="false" stretchy="false">}</mo><mtext>.</mtext></mrow></math>
@@ -1504,33 +1500,22 @@
 <math><mrow><mo fence="false" stretchy="false">{</mo><mi>x</mi><mo>:</mo><mi>x</mi><mo>∈</mo><mi mathvariant="double-struck">N</mi><mo>∧</mo><mo>−</mo><mi>x</mi><mo>∈</mo><mi mathvariant="double-struck">N</mi><mo fence="false" stretchy="false">}</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mi>A</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>x</mi><mo>∈</mo><mi mathvariant="double-struck">Z</mi><mo>:</mo><msup><mi>x</mi><mn>2</mn></msup><mo>∈</mo><mi mathvariant="double-struck">N</mi><mo fence="false" stretchy="false">}</mo></mrow></math>
 <math><mrow><mi>B</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><msup><mi>x</mi><mn>2</mn></msup><mo>:</mo><mi>x</mi><mo>∈</mo><mi mathvariant="double-struck">N</mi><mo fence="false" stretchy="false">}</mo></mrow></math>
-<math><mi mathvariant="bold">∅</mi></math>
 <math><mi mathvariant="bold-script">U</mi></math>
 <math><mrow><mi mathvariant="double-struck">N</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>…</mo><mo fence="false" stretchy="false">}</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mi mathvariant="double-struck">Z</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mo>…</mo><mo>,</mo><mo>−</mo><mn>2</mn><mo>,</mo><mo>−</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mo>…</mo><mo fence="false" stretchy="false">}</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mi mathvariant="bold-script">P</mi><mo mathvariant="bold" stretchy="false">(</mo><mi mathvariant="bold-italic">A</mi><mo mathvariant="bold" stretchy="false">)</mo></mrow></math>
-<math><mrow><mo mathvariant="bold" fence="false" stretchy="false">{</mo><mo mathvariant="bold">,</mo><mo mathvariant="bold" fence="false" stretchy="false">}</mo></mrow></math>
 <math><mrow><mo fence="false" stretchy="false">{</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo fence="false" stretchy="false">}</mo></mrow></math>
-<math><mo mathvariant="bold">:</mo></math>
 <math><mrow><mo fence="false" stretchy="false">{</mo><mi>x</mi><mo>:</mo><mi>x</mi><mo>&gt;</mo><mn>2</mn><mo fence="false" stretchy="false">}</mo></mrow></math>
-<math><mo mathvariant="bold">∈</mo></math>
 <math><mrow><mn>2</mn><mo>∈</mo><mo fence="false" stretchy="false">{</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo fence="false" stretchy="false">}</mo></mrow></math>
 <math><mo mathvariant="bold">∉</mo></math>
 <math><mrow><mn>4</mn><mo>∉</mo><mo fence="false" stretchy="false">{</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo fence="false" stretchy="false">}</mo></mrow></math>
-<math><mo mathvariant="bold">⊆</mo></math>
 <math><mrow><mi>A</mi><mo>⊆</mo><mi>B</mi></mrow></math>
-<math><mo mathvariant="bold">⊂</mo></math>
 <math><mrow><mi>A</mi><mo>⊂</mo><mi>B</mi></mrow></math>
 <math><mrow><mi>A</mi><mo>≠</mo><mi>B</mi><mtext>.</mtext></mrow></math>
-<math><mo mathvariant="bold">∩</mo></math>
 <math><mrow><mi>A</mi><mo>∩</mo><mi>B</mi></mrow></math>
-<math><mo mathvariant="bold">∪</mo></math>
-<math><mo mathvariant="bold">×</mo></math>
 <math><mrow><mi>a</mi><mo>∈</mo><mi>A</mi></mrow></math>
 <math><mrow><mi>b</mi><mo>∈</mo><mi>B</mi><mtext>.</mtext></mrow></math>
-<math><mo mathvariant="bold">∖</mo></math>
 <math><mrow><mi>A</mi><mo>∖</mo><mi>B</mi></mrow></math>
-<math><mover><mi mathvariant="bold-italic">A</mi><mo mathvariant="bold" stretchy="false">¯</mo></mover></math>
 <math><mrow><mo>|</mo><mi mathvariant="bold-italic">A</mi><mo>|</mo></mrow></math>
 <math><mrow><mi>A</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mn>3</mn><mo>,</mo><mn>4</mn><mo>,</mo><mo>…</mo><mo>,</mo><mn>15</mn><mo fence="false" stretchy="false">}</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mi>B</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>n</mi><mo>∈</mo><mi mathvariant="double-struck">N</mi><mo>:</mo><mn>2</mn><mo>&lt;</mo><mi>n</mi><mo>≤</mo><mn>200</mn><mo fence="false" stretchy="false">}</mo><mtext>.</mtext></mrow></math>
@@ -1755,7 +1740,6 @@
 <math><mrow><mo stretchy="false">(</mo><mn>4</mn><mo>,</mo><mn>7</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mn>7</mn><mo>,</mo><mn>4</mn><mo stretchy="false">)</mo><mtext>?</mtext></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mn>7</mn><mo>,</mo><mn>8</mn><mo stretchy="false">)</mo><mtext>?</mtext></mrow></math>
-<math><mrow><mrow><mo>|</mo><mi>A</mi><mo>∪</mo><mi>B</mi><mo>|</mo></mrow><mo>=</mo><mrow><mo>|</mo><mi>A</mi><mo>|</mo></mrow><mo>+</mo><mrow><mo>|</mo><mi>B</mi><mo>|</mo></mrow><mo>−</mo><mrow><mo>|</mo><mi>A</mi><mo>∩</mo><mi>B</mi><mo>|</mo></mrow><mo>.</mo></mrow></math>
 <math><mrow><mi>k</mi><mo>≤</mo><mi>n</mi><mtext>,</mtext></mrow></math>
 <math><mrow><mi>k</mi><mo>&gt;</mo><mi>n</mi><mtext>?</mtext></mrow></math>
 <math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>n</mi><mo>,</mo><mi>k</mi><mo stretchy="false">)</mo><mo>=</mo><mi>n</mi><mo>⋅</mo><mo stretchy="false">(</mo><mi>n</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mo>⋅</mo><mo stretchy="false">(</mo><mi>n</mi><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo><mo>⋅</mo><mo>⋯</mo><mo>⋅</mo><mo stretchy="false">(</mo><mi>n</mi><mo>−</mo><mi>k</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mi>n</mi><mo>!</mo></mrow><mrow><mo stretchy="false">(</mo><mi>n</mi><mo>−</mo><mi>k</mi><mo stretchy="false">)</mo><mo>!</mo></mrow></mfrac><mo>.</mo></mrow></math>
@@ -1857,7 +1841,6 @@
 <math><mrow><mi>v</mi><mo>−</mo><mi>e</mi><mo>+</mo><mi>f</mi><mtext>?</mtext></mrow></math>
 <math><mrow><mi>v</mi><mo>−</mo><mi>e</mi><mo>+</mo><mi>f</mi></mrow></math>
 <math><mi>M</mi></math>
-<math><mrow><mrow><mo>|</mo><mi>A</mi><mo>|</mo></mrow><mo>=</mo><mrow><mo>|</mo><mi>B</mi><mo>|</mo></mrow><mtext>,</mtext></mrow></math>
 <math><mrow><mi>b</mi><mo>∈</mo><mi>B</mi></mrow></math>
 <math><mrow><mi>b</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mi>A</mi><mtext>:</mtext></mrow></math>
@@ -1869,7 +1852,6 @@
 <math><msup><mi>A</mi><mo>′</mo></msup></math>
 <math><mrow><mi>S</mi><mo>=</mo><msup><mi>A</mi><mo>′</mo></msup><mo>∪</mo><mo fence="false" stretchy="false">{</mo><mi>a</mi><mo fence="false" stretchy="false">}</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mo>|</mo><mi>V</mi><mo>|</mo></mrow></math>
-<math><mrow><mrow><mo>|</mo><mi>N</mi><mo stretchy="false">(</mo><mi>S</mi><mo stretchy="false">)</mo><mo>|</mo></mrow><mo>≥</mo><mrow><mo>|</mo><mi>S</mi><mo>|</mo></mrow></mrow></math>
 <math><mrow><mi>S</mi><mo>⊆</mo><mi>V</mi><mtext>,</mtext></mrow></math>
 <math><mrow><mn>6</mn><mo>×</mo><mn>6</mn></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math>

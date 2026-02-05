@@ -80,7 +80,6 @@
 <math> <mn>54</mn> </math>
 <math> <mn>76</mn> </math>
 <math> <mn>16</mn> </math>
-<math> <mrow> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mi>k</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mi>n</mi> </msup> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <msup> <mn>2</mn> <mi>n</mi> </msup> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>c</mi> <mo>,</mo> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <msub> <mi>y</mi> <mtext>new</mtext> </msub> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mi>k</mi> <mo>⁢</mo> <msup> <mrow> <mo>(</mo> <mrow> <mi>c</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>)</mo> </mrow> <mi>n</mi> </msup> </mrow> </mrow> </mtd> </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <msup> <mi>c</mi> <mi>n</mi> </msup> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>k</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mi>n</mi> </msup> </mrow> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <msup> <mi>c</mi> <mi>n</mi> </msup> <mo>⁡</mo> <mrow> <mo>(</mo> <msub> <mi>y</mi> <mtext>old</mtext> </msub> <mo>)</mo> </mrow> </mrow> </mrow> </mtd> </mtr> </mtable> </math>
@@ -134,7 +133,6 @@
 <math> <mn>1.82</mn> </math>
 <math> <mn>0.78</mn> </math>
 <math> <mrow> <mtext>Tax</mtext> <mo>/</mo> <mtext>Price</mtext> </mrow> </math>
-<math> <mtext> </mtext> </math>
 <math> <mrow> <mi>T</mi> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mi>p</mi> <mo>,</mo> </mrow> </math>
 <math> <mtext>Time (seconds)</mtext> </math>
@@ -149,7 +147,6 @@
 <math> <mn>100</mn> </math>
 <math> <mn>200</mn> </math>
 <math> <mn>400</mn> </math>
-<math> <mtext> </mtext> </math>
 <math> <mi>d</mi> </math>
 <math> <mn>500</mn> </math>
 <math> <mn>1000</mn> </math>
@@ -174,15 +171,11 @@
 <math> <mrow> <mi>W</mi> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mi>v</mi> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mn>5</mn> <mo>-</mo> <mn>8</mn> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mn>5</mn> </math>
-<math> <mn>8</mn> </math>
 <math> <mrow> <mo>-</mo> <mn>3</mn> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mi>a</mi> <mo>=</mo> <mrow> <mn>5</mn> <mo>-</mo> <mn>8</mn> </mrow> </mrow> </mtd> </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mo>→</mo> <mrow> <mo>-</mo> <mn>3</mn> </mrow> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mrow> <mrow> <mo>-</mo> <mn>5</mn> </mrow> <mo>+</mo> <mn>8</mn> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mn>5</mn> </math>
 <math> <mrow> <mi>π</mi> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>π</mi> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mn>2</mn> </math>
 <math> <menclose notation="box"> <mi>π</mi> </menclose> </math>
 <math> <mrow> <mn>2</mn> <mo>⁢</mo> <menclose notation="box"> <mi>π</mi> </menclose> </mrow> </math>
 <math> <mn>6.2831853071796</mn> </math>
@@ -247,7 +240,6 @@
 <math> <mrow> <mrow> <mi>F</mi> <mo>=</mo> <mrow> <mi>k</mi> <mo>⁢</mo> <msup> <mi>d</mi> <mi>p</mi> </msup> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mi>p</mi> </math>
 <math> <mrow> <mrow> <mi>P</mi> <mo>=</mo> <mfrac> <mi>F</mi> <mi>A</mi> </mfrac> </mrow> <mo>,</mo> <mrow> <mi>A</mi> <mo>=</mo> <mrow> <mi>π</mi> <mo>⁢</mo> <msup> <mi>d</mi> <mn>2</mn> </msup> </mrow> </mrow> <mo>,</mo> </mrow> </math>
-<math> <mrow> <mrow> <mi>F</mi> <mo>=</mo> <mrow> <mi>k</mi> <mo>⁢</mo> <msup> <mi>d</mi> <mi>p</mi> </msup> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mi>d</mi> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>P</mi> <mo>=</mo> <mrow> <mn>211</mn> <mo>⁢</mo> <msup> <mi>d</mi> <mrow> <mo>-</mo> <mn>0.7</mn> </mrow> </msup> </mrow> </mrow> </math>
 <math> <mrow> <mi>d</mi> <mo>?</mo> </mrow> </math>
@@ -369,10 +361,7 @@
 <math> <mrow> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <msup> <mi>y</mi> <mn>2</mn> </msup> </mrow> </mrow> <mo>=</mo> <mn>36</mn> </mrow> </math>
 <math> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>=</mo> <mrow> <mn>36</mn> <mo>-</mo> <mrow> <mn>9</mn> <mo>⁢</mo> <msup> <mi>y</mi> <mn>2</mn> </msup> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <msup> <mi>y</mi> <mn>2</mn> </msup> </mrow> <mo>=</mo> <mrow> <mn>30</mn> <mo>-</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </mrow> </math>
-<math> <mtext> </mtext> </math>
 <math> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </math>
-<math> <mtext> </mtext> </math>
-<math> <mtext> </mtext> </math>
 <math> <mrow> <mo>-</mo> <mn>4</mn> </mrow> </math>
 <math> <mrow> <mrow> <msup> <mi>y</mi> <mn>2</mn> </msup> <mo>=</mo> <mrow> <mn>4</mn> <mo>-</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> <mo>;</mo> <mrow> <mi>x</mi> <mo>=</mo> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <msup> <mi>y</mi> <mn>2</mn> </msup> <mo>=</mo> <mrow> <mn>6</mn> <mo>-</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </mrow> <mo>;</mo> <mrow> <mi>y</mi> <mo>=</mo> <mn>2</mn> </mrow> </mrow> </math>
@@ -632,7 +621,6 @@
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mn>0</mn> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>-</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mn>12</mn> </mrow> </mrow> </math>
 <math> <mrow> <mn>0</mn> <mo>=</mo> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mi>c</mi> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mi>c</mi> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>x</mi> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>+</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mn>2</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>4</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mn>15</mn> </mrow> </math>
 <math> <mrow> <mrow> <mo>-</mo> <mn>1</mn> </mrow> <mo>;</mo> </mrow> </math>
@@ -703,7 +691,6 @@
 <math> <mrow> <mrow> <mi>x</mi> <mo>+</mo> <mi>y</mi> </mrow> <mo>=</mo> <mn>200</mn> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mi>x</mi> <mo>+</mo> <mn>6</mn> </mrow> </mrow> </math>
 <math> <mrow> <mi>x</mi> <mo>+</mo> <mn>6</mn> </mrow> </math>
-<math> <mrow> <mi>x</mi> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mo>(</mo> <mrow> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mo>,</mo> <mn>4</mn> </mrow> <mo>)</mo> </mrow> </math>
 <math> <mrow> <mrow> <mo>(</mo> <mrow> <mn>3</mn> <mo>,</mo> <mn>9</mn> </mrow> <mo>)</mo> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>P</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>,</mo> </mrow> </math>
@@ -770,15 +757,12 @@
 <math> <mn>0.996</mn> </math>
 <math> <mn>0.096</mn> </math>
 <math> <mi>Q</mi> </math>
-<math> <mtext> </mtext> </math>
 <math> <mi>N</mi> </math>
 <math> <mn>120</mn> </math>
 <math> <mn>96</mn> </math>
 <math> <mn>266.2</mn> </math>
 <math> <mrow> <mrow> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mi>c</mi> </mrow> <mo>=</mo> <mn>0</mn> </mrow> <mo>,</mo> <mrow> <mo>(</mo> <mrow> <mi>a</mi> <mo>≠</mo> <mn>0</mn> </mrow> <mo>)</mo> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mi>c</mi> </mrow> <mo>=</mo> <mn>0</mn> </mrow> <mo>,</mo> <mrow> <mo>(</mo> <mrow> <mi>a</mi> <mo>≠</mo> <mn>0</mn> </mrow> <mo>)</mo> </mrow> </mrow> </math>
 <math> <mrow> <mi>x</mi> <mo>=</mo> <mfrac> <mrow> <mrow> <mo>-</mo> <mi>b</mi> </mrow> <mo>±</mo> <msqrt> <mrow> <msup> <mi>b</mi> <mn>2</mn> </msup> <mo>-</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>a</mi> <mo>⁢</mo> <mi>c</mi> </mrow> </mrow> </msqrt> </mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>a</mi> </mrow> </mfrac> </mrow> </math>
-<math> <mrow> <mi>a</mi> <mo>,</mo> <mi>b</mi> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mi>c</mi> <mo>.</mo> </mrow> </math>
 <math> <mo>±</mo> </math>
 <math> <mrow> <mi>x</mi> <mo>=</mo> <mrow> <mfrac> <mrow> <mrow> <mo>-</mo> <mi>b</mi> </mrow> <mo>+</mo> <msqrt> <mrow> <msup> <mi>b</mi> <mn>2</mn> </msup> <mo>-</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>a</mi> <mo>⁢</mo> <mi>c</mi> </mrow> </mrow> </msqrt> </mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>a</mi> </mrow> </mfrac> <mo>⁢</mo> <mtext>and</mtext> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>=</mo> <mfrac> <mrow> <mrow> <mo>-</mo> <mi>b</mi> </mrow> <mo>-</mo> <msqrt> <mrow> <msup> <mi>b</mi> <mn>2</mn> </msup> <mo>-</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>a</mi> <mo>⁢</mo> <mi>c</mi> </mrow> </mrow> </msqrt> </mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>a</mi> </mrow> </mfrac> </mrow> </math>
@@ -828,7 +812,6 @@
 <math> <mfrac> <mrow> <mn>4</mn> <mo>+</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <msqrt> <mrow> <mn>4</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mn>16</mn> <mo>)</mo> </mrow> </mrow> </msqrt> </mrow> </mrow> <mn>4</mn> </mfrac> </math>
 <math> <mfrac> <mrow> <mn>6</mn> <mo>+</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <msqrt> <mrow> <mn>36</mn> <mo>-</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mn>3</mn> <mo>)</mo> </mrow> </mrow> </mrow> </msqrt> </mrow> </mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mn>3</mn> <mo>)</mo> </mrow> </mrow> </mfrac> </math>
 <math> <mfrac> <mrow> <msqrt> <mrow> <msup> <mn>10</mn> <mn>2</mn> </msup> <mo>+</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mn>11</mn> <mo>)</mo> </mrow> </mrow> </mrow> </msqrt> <mo>-</mo> <msqrt> <mrow> <mn>9</mn> <mo>+</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mn>6</mn> <mo>)</mo> </mrow> </mrow> </mrow> </msqrt> </mrow> <mrow> <mn>12</mn> <mo>-</mo> <msqrt> <mrow> <mn>1</mn> <mo>+</mo> <mrow> <mn>5</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mn>16</mn> <mo>)</mo> </mrow> </mrow> </mrow> </msqrt> </mrow> </mfrac> </math>
-<math> <mi>w</mi> </math>
 <math> <mrow> <mi>w</mi> <mo>-</mo> <mn>3</mn> </mrow> </math>
 <math> <mrow> <mn>160</mn> <mo>-</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>w</mi> </mrow> </mrow> </math>
 <math> <mrow> <mn>0</mn> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mi>x</mi> <mo>-</mo> <mn>1</mn> </mrow> </mrow> </math>
@@ -928,7 +911,6 @@
 <math> <mrow> <mi>x</mi> <mo>&lt;</mo> <msub> <mi>r</mi> <mn>1</mn> </msub> </mrow> </math>
 <math> <mrow> <mrow> <mi>x</mi> <mo>&gt;</mo> <msub> <mi>r</mi> <mn>2</mn> </msub> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mi>c</mi> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mi>c</mi> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mn>36</mn> <mo>+</mo> <mrow> <mn>6</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>≤</mo> <mn>20</mn> </mrow> </math>
 <math> <mrow> <mi>x</mi> <mo>≤</mo> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>x</mi> <mo>≤</mo> <mn>8</mn> </mrow> <mo>.</mo> </mrow> </math>
@@ -939,7 +921,6 @@
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mn>1</mn> </mrow> </mrow> </math>
 <math> <mrow> <mn>0</mn> <mo>≤</mo> <mrow> <mi>x</mi> <mo>&lt;</mo> <mn>4</mn> </mrow> </mrow> </math>
 <math> <mrow> <mn>8</mn> <mo>&gt;</mo> <mi>x</mi> <mo>&gt;</mo> <mn>5</mn> </mrow> </math>
-<math> <mrow> <mi>x</mi> <mo>≤</mo> <mn>1</mn> </mrow> </math>
 <math> <mrow> <mi>x</mi> <mo>≥</mo> <mn>3</mn> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>-</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mn>3</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>y</mi> <mo>&gt;</mo> <mn>0</mn> </mrow> <mo>.</mo> </mrow> </math>
@@ -986,7 +967,6 @@
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mo>-</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mi>c</mi> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mo>±</mo> <msqrt> <mn>17</mn> </msqrt> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mrow> <mo>-</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mi>c</mi> </mrow> <mo>≥</mo> <mn>0</mn> </mrow> <mo>?</mo> </mrow> </math>
-<math> <mn>2</mn> </math>
 <math> <mrow> <mo>-</mo> <mn>6</mn> </mrow> </math>
 <math> <msqrt> <mn>17</mn> </msqrt> </math>
 <math> <mrow> <mn>2</mn> <mo>⁢</mo> <msqrt> <mn>17</mn> </msqrt> </mrow> </math>
@@ -1063,7 +1043,6 @@
 <math> <mfrac> <mn>1</mn> <mn>8</mn> </mfrac> </math>
 <math> <mfrac> <mn>1</mn> <mn>4</mn> </mfrac> </math>
 <math> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </math>
-<math> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </math>
 <math> <mrow> <mrow> <mrow> <mi>𝒇</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>𝒙</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>𝒂</mi> <mo>⁢</mo> <msup> <mi>𝒃</mi> <mi>𝒙</mi> </msup> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mi>𝒂</mi> <mo>&gt;</mo> <mn>𝟎</mn> </mrow> </math>
 <math> <mrow> <mrow> <mo>(</mo> <mrow> <mn>0</mn> <mo>,</mo> <mi>a</mi> </mrow> <mo>)</mo> </mrow> <mo>.</mo> </mrow> </math>
@@ -1072,7 +1051,6 @@
 <math> <mrow> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mn>4</mn> <mi>x</mi> </msup> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mi>h</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>h</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mi>p</mi> </msup> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>b</mi> <mi>x</mi> </msup> </mrow> </mrow> <mo>,</mo> </mrow> </math>
-<math> <mtext> </mtext> </math>
 <math> <mrow> <mrow> <mi>h</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>k</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mi>p</mi> </msup> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>b</mi> <mi>x</mi> </msup> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>h</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>3</mn> </msup> </mrow> </mrow> </math>
@@ -1134,7 +1112,6 @@
 <math> <mrow> <mrow> <mi>h</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <msup> <mrow> <mo>(</mo> <mn>0.3</mn> <mo>)</mo> </mrow> <mi>t</mi> </msup> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>D</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mn>6</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mrow> <mn>1</mn> <mo>/</mo> <mn>2</mn> </mrow> </msup> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>E</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <msup> <mi>x</mi> <mn>4</mn> </msup> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mn>3</mn> <mi>x</mi> </msup> </mrow> </math>
 <math> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mrow> <mo>(</mo> <mfrac> <mn>1</mn> <mn>3</mn> </mfrac> <mo>)</mo> </mrow> <mi>x</mi> </msup> </mrow> </math>
 <math> <mrow> <mrow> <mi>h</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mn>4</mn> <mrow> <mo>-</mo> <mi>t</mi> </mrow> </msup> </mrow> </math>
 <math> <mrow> <mrow> <mi>q</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <msup> <mn>4</mn> <mi>t</mi> </msup> </mrow> </mrow> </math>
@@ -1224,13 +1201,10 @@
 <math> <mi>𝒃</mi> </math>
 <math> <mrow> <mrow> <msup> <mi>s</mi> <mi>n</mi> </msup> <mo>=</mo> <mi>b</mi> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>n</mi> <mo>≥</mo> <mn>2</mn> </mrow> </math>
-<math> <mrow> <mrow> <mi>a</mi> <mo>≥</mo> <mn>0</mn> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <msup> <mi>a</mi> <mrow> <mn>1</mn> <mo>/</mo> <mi>n</mi> </mrow> </msup> <mo>=</mo> <mroot> <mi>a</mi> <mi>n</mi> </mroot> </mrow> </math>
 <math> <mrow> <mfrac> <mn>1</mn> <mi>n</mi> </mfrac> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <msup> <mi>a</mi> <mrow> <mi>m</mi> <mo>/</mo> <mi>n</mi> </mrow> </msup> <mo>=</mo> <msup> <mrow> <mo>(</mo> <msup> <mi>a</mi> <mrow> <mn>1</mn> <mo>/</mo> <mi>n</mi> </mrow> </msup> <mo>)</mo> </mrow> <mi>m</mi> </msup> <mo>=</mo> <msup> <mrow> <mo>(</mo> <msup> <mi>a</mi> <mi>m</mi> </msup> <mo>)</mo> </mrow> <mrow> <mn>1</mn> <mo>/</mo> <mi>n</mi> </mrow> </msup> </mrow> <mo>,</mo> <mrow> <mi>a</mi> <mo>&gt;</mo> <mn>0</mn> </mrow> <mo>,</mo> <mrow> <mi>n</mi> <mo>≠</mo> <mn>0</mn> </mrow> </mrow> </math>
 <math> <mrow> <msup> <mi>a</mi> <mrow> <mi>m</mi> <mo>/</mo> <mi>n</mi> </mrow> </msup> <mo>=</mo> <mroot> <msup> <mi>a</mi> <mi>m</mi> </msup> <mi>n</mi> </mroot> <mo>=</mo> <msup> <mrow> <mo>(</mo> <mroot> <mi>a</mi> <mi>n</mi> </mroot> <mo>)</mo> </mrow> <mi>m</mi> </msup> </mrow> </math>
-<math> <mrow> <mrow> <mroot> <mrow> <mi>a</mi> <mo>⁢</mo> <mi>b</mi> </mrow> <mi>n</mi> </mroot> <mo>=</mo> <mrow> <mroot> <mi>a</mi> <mi>n</mi> </mroot> <mo>⁢</mo> <mroot> <mi>b</mi> <mi>n</mi> </mroot> <mo>⁢</mo> <mtext>, </mtext> <mo>⁢</mo> <mtext>for </mtext> <mo>⁢</mo> <mi>a</mi> </mrow> </mrow> <mo>,</mo> <mrow> <mi>b</mi> <mo>≥</mo> <mn>0</mn> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mroot> <mfrac> <mi>a</mi> <mi>b</mi> </mfrac> <mi>n</mi> </mroot> <mo>=</mo> <mrow> <mrow> <mfrac> <mroot> <mi>a</mi> <mi>n</mi> </mroot> <mroot> <mi>b</mi> <mi>n</mi> </mroot> </mfrac> <mo>⁢</mo> <mtext>, </mtext> <mo>⁢</mo> <mtext>for </mtext> <mo>⁢</mo> <mi>a</mi> </mrow> <mo>≥</mo> <mn>0</mn> </mrow> </mrow> <mo>,</mo> <mrow> <mi>b</mi> <mo>&gt;</mo> <mn>0</mn> </mrow> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mroot> <msup> <mi>a</mi> <mi>n</mi> </msup> <mi>n</mi> </mroot> </mtd> <mtd> <mrow> <mo>=</mo> <mi>a</mi> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mtext>If</mtext> <mo>⁢</mo> <mi>n</mi> <mo>⁢</mo> <mtext>is odd.</mtext> </mrow> </mtd> </mtr> <mtr> <mtd> <mroot> <msup> <mi>a</mi> <mi>n</mi> </msup> <mi>n</mi> </mroot> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mo>|</mo> <mi>a</mi> <mo>|</mo> </mrow> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mtext>If</mtext> <mo>⁢</mo> <mi>n</mi> <mo>⁢</mo> <mtext>is even.</mtext> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <msup> <mrow> <mo>(</mo> <mrow> <mo>-</mo> <mn>3</mn> </mrow> <mo>)</mo> </mrow> <mrow> <mo>-</mo> <mn>4</mn> </mrow> </msup> </math>
 <math> <msup> <mn>4</mn> <mrow> <mo>-</mo> <mn>3</mn> </mrow> </msup> </math>
@@ -1421,10 +1395,8 @@
 <math> <mrow> <mi>P</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>,</mo> <mi>y</mi> </mrow> <mo>)</mo> </mrow> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <msqrt> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>0</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>+</mo> <msup> <mrow> <mo>(</mo> <mrow> <mi>y</mi> <mo>-</mo> <mn>0</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> </msqrt> <mo>=</mo> <mi>r</mi> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>0</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>+</mo> <msup> <mrow> <mo>(</mo> <mrow> <mi>y</mi> <mo>-</mo> <mn>0</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> <mo>=</mo> <msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> </mtd> </mtr> </mtable> </math>
-<math> <mtable> <mtr> <mtd> <mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <msup> <mi>y</mi> <mn>2</mn> </msup> </mrow> <mo>=</mo> <msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mrow> <mo>(</mo> <mrow> <mi>h</mi> <mo>,</mo> <mi>k</mi> </mrow> <mo>)</mo> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mo>(</mo> <mrow> <mi>h</mi> <mo>,</mo> <mi>k</mi> </mrow> <mo>)</mo> </mrow> <mo>,</mo> </mrow> </math>
-<math> <mtable> <mtr> <mtd> <mrow> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mi>h</mi> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>+</mo> <msup> <mrow> <mo>(</mo> <mrow> <mi>y</mi> <mo>-</mo> <mi>k</mi> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> <mo>=</mo> <msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mi>h</mi> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>+</mo> <msup> <mrow> <mo>(</mo> <mrow> <mi>y</mi> <mo>-</mo> <mi>k</mi> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> <mo>=</mo> <msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> </math>
 <math> <mrow> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>+</mo> <msup> <mrow> <mo>(</mo> <mrow> <mi>y</mi> <mo>+</mo> <mn>3</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> <mo>=</mo> <mn>16</mn> </mrow> </math>
 <math> <mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <msup> <mrow> <mo>(</mo> <mrow> <mi>y</mi> <mo>-</mo> <mn>4</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> <mo>=</mo> <mn>7</mn> </mrow> </math>
@@ -1482,7 +1454,6 @@
 <math> <mrow> <mrow> <mo>(</mo> <mrow> <mrow> <mo>-</mo> <mn>3</mn> </mrow> <mo>,</mo> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </mrow> <mo>)</mo> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mo>,</mo> <mn>3</mn> </mrow> <mo>)</mo> </mrow> <mo>,</mo> <mrow> <mo>(</mo> <mrow> <mn>3</mn> <mo>,</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mo>(</mo> <mrow> <mrow> <mo>-</mo> <mn>4</mn> </mrow> <mo>,</mo> <mrow> <mo>-</mo> <mn>5</mn> </mrow> </mrow> <mo>)</mo> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mi>a</mi> <mo>,</mo> <mi>b</mi> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <msup> <mi>y</mi> <mn>2</mn> </msup> <mo>+</mo> <mrow> <mi>a</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>+</mo> <mi>c</mi> </mrow> <mo>=</mo> <mn>0</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <msup> <mi>𝒂</mi> <mrow> <mi>𝒎</mi> <mo>/</mo> <mi>𝒏</mi> </mrow> </msup> </math>
 <math> <mrow> <msup> <mi>a</mi> <mrow> <mn>1</mn> <mo>/</mo> <mi>n</mi> </mrow> </msup> <mo>,</mo> </mrow> </math>
@@ -1496,7 +1467,6 @@
 <math> <mrow> <msup> <mrow> <mo>(</mo> <msup> <mi>x</mi> <mrow> <mn>1</mn> <mo>/</mo> <mn>2</mn> </mrow> </msup> <mo>)</mo> </mrow> <mn>3</mn> </msup> <mo>=</mo> <msup> <mi>x</mi> <msup> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>/</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> <mn>3</mn> </msup> </msup> <mo>=</mo> <msup> <mi>x</mi> <mrow> <mn>3</mn> <mo>/</mo> <mn>2</mn> </mrow> </msup> </mrow> </math>
 <math> <msup> <mi>x</mi> <mrow> <mn>3</mn> <mo>/</mo> <mn>2</mn> </mrow> </msup> </math>
 <math> <mtable> <mtr> <mtd> <msup> <mn>100</mn> <mrow> <mn>3</mn> <mo>/</mo> <mn>2</mn> </mrow> </msup> </mtd> <mtd> <mrow> <mo>=</mo> <msup> <mrow> <mo>(</mo> <msup> <mn>𝟏𝟎𝟎</mn> <mrow> <mn>𝟏</mn> <mo>/</mo> <mn>𝟐</mn> </mrow> </msup> <mo>)</mo> </mrow> <mn>3</mn> </msup> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mtext>Take the square root of 100.</mtext> </mtd> </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mo>=</mo> <msup> <mn>𝟏𝟎</mn> <mn>𝟑</mn> </msup> <mo>=</mo> <mn>1000</mn> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mtext>Cube the result.</mtext> </mtd> </mtr> </mtable> </math>
-<math> <mrow> <mrow> <msup> <mi>a</mi> <mrow> <mi>m</mi> <mo>/</mo> <mi>n</mi> </mrow> </msup> <mo>=</mo> <msup> <mrow> <mo>(</mo> <msup> <mi>a</mi> <mrow> <mn>1</mn> <mo>/</mo> <mi>n</mi> </mrow> </msup> <mo>)</mo> </mrow> <mi>m</mi> </msup> <mo>=</mo> <msup> <mrow> <mo>(</mo> <msup> <mi>a</mi> <mi>m</mi> </msup> <mo>)</mo> </mrow> <mrow> <mn>1</mn> <mo>/</mo> <mi>n</mi> </mrow> </msup> </mrow> <mo>,</mo> <mrow> <mi>a</mi> <mo>&gt;</mo> <mn>0</mn> </mrow> <mo>,</mo> <mrow> <mi>n</mi> <mo>≠</mo> <mn>0</mn> </mrow> </mrow> </math>
 <math> <mrow> <msup> <mi>a</mi> <mrow> <mi>m</mi> <mo>/</mo> <mi>n</mi> </mrow> </msup> <mo>,</mo> </mrow> </math>
 <math> <mrow> <msup> <mn>8</mn> <mrow> <mn>2</mn> <mo>/</mo> <mn>3</mn> </mrow> </msup> <mo>=</mo> <msup> <mrow> <mo>(</mo> <msup> <mn>8</mn> <mrow> <mn>1</mn> <mo>/</mo> <mn>3</mn> </mrow> </msup> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>=</mo> <msup> <mn>2</mn> <mn>2</mn> </msup> <mo>=</mo> <mn>4</mn> </mrow> </math>
 <math> <mrow> <msup> <mn>8</mn> <mrow> <mn>2</mn> <mo>/</mo> <mn>3</mn> </mrow> </msup> <mo>=</mo> <msup> <mrow> <mo>(</mo> <msup> <mn>8</mn> <mn>2</mn> </msup> <mo>)</mo> </mrow> <mrow> <mn>1</mn> <mo>/</mo> <mn>3</mn> </mrow> </msup> <mo>=</mo> <msup> <mn>64</mn> <mrow> <mn>1</mn> <mo>/</mo> <mn>3</mn> </mrow> </msup> <mo>=</mo> <mn>4</mn> </mrow> </math>
@@ -1517,7 +1487,6 @@
 <math> <mn>3500</mn> </math>
 <math> <mrow> <mrow> <mn>0</mn> <mo>&lt;</mo> <mrow> <mi>m</mi> <mo>≤</mo> <mn>400</mn> </mrow> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <msup> <mi>a</mi> <mrow> <mn>1</mn> <mo>/</mo> <mi>n</mi> </mrow> </msup> <mo>=</mo> <mroot> <mi>a</mi> <mi>n</mi> </mroot> </mrow> <mo>,</mo> </mrow> </math>
-<math> <mrow> <msup> <mi>a</mi> <mrow> <mi>m</mi> <mo>/</mo> <mi>n</mi> </mrow> </msup> <mo>=</mo> <mroot> <msup> <mi>a</mi> <mi>m</mi> </msup> <mi>n</mi> </mroot> <mo>=</mo> <msup> <mrow> <mo>(</mo> <mroot> <mi>a</mi> <mi>n</mi> </mroot> <mo>)</mo> </mrow> <mi>m</mi> </msup> </mrow> </math>
 <math> <mrow> <msup> <mn>125</mn> <mrow> <mn>4</mn> <mo>/</mo> <mn>3</mn> </mrow> </msup> <mo>=</mo> <mrow> <mroot> <msup> <mn>125</mn> <mn>4</mn> </msup> <mn>3</mn> </mroot> <mo>⁢</mo> <mtext> or </mtext> <mo>⁢</mo> <msup> <mrow> <mo>(</mo> <mroot> <mn>125</mn> <mn>3</mn> </mroot> <mo>)</mo> </mrow> <mn>4</mn> </msup> </mrow> </mrow> </math>
 <math> <mrow> <msup> <mi>x</mi> <mn>0.4</mn> </msup> <mo>=</mo> <msup> <mi>x</mi> <mrow> <mn>2</mn> <mo>/</mo> <mn>5</mn> </mrow> </msup> <mo>=</mo> <mroot> <msup> <mi>x</mi> <mn>2</mn> </msup> <mn>5</mn> </mroot> </mrow> </math>
 <math> <mrow> <mrow> <mn>6</mn> <mo>⁢</mo> <msup> <mi>w</mi> <mrow> <mrow> <mo>-</mo> <mn>3</mn> </mrow> <mo>/</mo> <mn>4</mn> </mrow> </msup> </mrow> <mo>=</mo> <mfrac> <mn>6</mn> <mroot> <msup> <mi>w</mi> <mn>3</mn> </msup> <mn>4</mn> </mroot> </mfrac> </mrow> </math>
@@ -1553,7 +1522,6 @@
 <math> <mrow> <mo>-</mo> <mroot> <mrow> <mn>81</mn> <mo>⁢</mo> <msup> <mi>a</mi> <mn>8</mn> </msup> <mo>⁢</mo> <msup> <mi>b</mi> <mn>12</mn> </msup> </mrow> <mn>4</mn> </mroot> </mrow> </math>
 <math> <mroot> <mrow> <mn>64</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>6</mn> </msup> <mo>⁢</mo> <msup> <mi>y</mi> <mn>18</mn> </msup> </mrow> <mn>3</mn> </mroot> </math>
 <math> <mrow> <mo>-</mo> <mroot> <mrow> <mn>32</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>25</mn> </msup> <mo>⁢</mo> <msup> <mi>y</mi> <mn>5</mn> </msup> </mrow> <mn>5</mn> </mroot> </mrow> </math>
-<math> <msup> <mn>81</mn> <mrow> <mn>3</mn> <mo>/</mo> <mn>4</mn> </mrow> </msup> </math>
 <math> <msup> <mn>125</mn> <mrow> <mn>2</mn> <mo>/</mo> <mn>3</mn> </mrow> </msup> </math>
 <math> <msup> <mn>625</mn> <mn>0.75</mn> </msup> </math>
 <math> <msup> <mn>16</mn> <mrow> <mrow> <mo>-</mo> <mn>3</mn> </mrow> <mo>/</mo> <mn>2</mn> </mrow> </msup> </math>
@@ -1597,7 +1565,6 @@
 <math> <mrow> <mrow> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>b</mi> </mrow> <mo>-</mo> <mn>6</mn> <mo>+</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <msup> <mi>b</mi> <mrow> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mo>/</mo> <mn>3</mn> </mrow> </msup> </mrow> </mrow> <mo>=</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mrow> <msup> <mi>b</mi> <mrow> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mo>/</mo> <mn>3</mn> </mrow> </msup> <mo>⁡</mo> <mrow> <mo>(</mo> <mo>?</mo> <mo>)</mo> </mrow> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>y</mi> <mo>=</mo> <mi>x</mi> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mi>x</mi> <mrow> <mn>4</mn> <mo>/</mo> <mn>3</mn> </mrow> </msup> </mrow> <mo>,</mo> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mi>x</mi> <mrow> <mn>3</mn> <mo>/</mo> <mn>2</mn> </mrow> </msup> </mrow> </mrow> </math>
-<math> <mtext> </mtext> </math>
 <math> <mtable> <mtr> <mtd> <mtext>Xmin</mtext> </mtd> <mtd> <mrow> <mo>=</mo> <mn>0</mn> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mtext>Xmax</mtext> <mo>=</mo> <mn>6</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mtext>Ymin</mtext> </mtd> <mtd> <mrow> <mo>=</mo> <mn>0</mn> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mtext>Ymax</mtext> <mo>=</mo> <mn>10</mn> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mi>x</mi> <mrow> <mn>3</mn> <mo>/</mo> <mn>4</mn> </mrow> </msup> </mrow> <mo>,</mo> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mi>x</mi> <mrow> <mn>2</mn> <mo>/</mo> <mn>3</mn> </mrow> </msup> </mrow> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mtext>Xmin</mtext> </mtd> <mtd> <mrow> <mo>=</mo> <mn>0</mn> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mtext>Xmax</mtext> <mo>=</mo> <mn>10</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mtext>Ymin</mtext> </mtd> <mtd> <mrow> <mo>=</mo> <mn>0</mn> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mtext>Ymax</mtext> <mo>=</mo> <mn>4</mn> </mrow> </mtd> </mtr> </mtable> </math>
@@ -1613,7 +1580,6 @@
 <math> <mrow> <mi>S</mi> <mo>=</mo> <mrow> <mn>15.1</mn> <mo>⁢</mo> <msup> <mi>A</mi> <mn>0.22</mn> </msup> </mrow> </mrow> </math>
 <math> <mi>S</mi> </math>
 <math> <mn>10,000</mn> </math>
-<math> <mtext> </mtext> </math>
 <math> <mrow> <mrow> <mn>0</mn> <mo>&lt;</mo> <mrow> <mi>A</mi> <mo>≤</mo> <mn>10,000</mn> </mrow> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>M</mi> <mo>=</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>R</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mn>433.8</mn> <mo>⁢</mo> <msup> <mi>R</mi> <mrow> <mo>-</mo> <mn>0.742</mn> </mrow> </msup> </mrow> </mrow> </math>
 <math> <msup> <mn>30</mn> <mo>°</mo> </msup> </math>
@@ -1647,9 +1613,7 @@
 <math> <mtable> <mtr> <mtd> <mrow> <mtext>Xmin</mtext> <mo>=</mo> <mrow> <mrow> <mo>-</mo> <mn>6</mn> </mrow> <mo>⁢</mo> <mtext>Ymin</mtext> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>6</mn> </mrow> </mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <mtext>Xmax</mtext> <mo>=</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mtext>Ymax</mtext> </mrow> <mo>=</mo> <mn>10</mn> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mrow> <msub> <mi>x</mi> <mi>v</mi> </msub> <mo>=</mo> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mi>c</mi> </mrow> <mo>=</mo> <mn>0</mn> </mrow> <mo>,</mo> </mrow> </math>
-<math> <mrow> <msub> <mi>x</mi> <mi>v</mi> </msub> <mo>=</mo> <mfrac> <mrow> <mo>-</mo> <mi>b</mi> </mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>a</mi> </mrow> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mi>x</mi> <mo>+</mo> <mn>1</mn> </mrow> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mn>1</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>A</mi> <mo>=</mo> <mrow> <mi>l</mi> <mo>⁢</mo> <mi>w</mi> </mrow> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mtext>Revenue</mtext> <mo>=</mo> <mrow> <mtext>(price of one item)</mtext> <mo>×</mo> <mtext>(number of items sold)</mtext> </mrow> </mrow> </math>
 <math> <mrow> <mn>600</mn> <mo>-</mo> <mrow> <mn>15</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </math>
@@ -1700,7 +1664,6 @@
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>4</mn> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>+</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mo>-</mo> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mi>x</mi> <mo>-</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </math>
-<math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>-</mo> <mn>4</mn> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mo>-</mo> <mn>0.5</mn> </mrow> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </math>
 <math> <mn>22</mn> </math>
 <math> <mn>57</mn> </math>
@@ -1711,19 +1674,15 @@
 <math> <mrow> <mi>t</mi> <mo>=</mo> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <msup> <mi>w</mi> <mn>2</mn> </msup> </mrow> <mo>-</mo> <mrow> <mn>20</mn> <mo>⁢</mo> <mi>w</mi> </mrow> <mo>+</mo> <mn>54</mn> </mrow> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <msub> <mi>Y</mi> <mn>1</mn> </msub> </mtd> <mtd> <mrow> <mo>=</mo> <mi>x</mi> <mo>+</mo> <mn>2</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <msub> <mi>Y</mi> <mn>2</mn> </msub> </mtd> <mtd> <mrow> <mo>=</mo> <mn>4</mn> <mo>-</mo> <mi>x</mi> </mrow> </mtd> </mtr> <mtr> <mtd> <msub> <mi>Y</mi> <mn>3</mn> </msub> </mtd> <mtd> <mrow> <mo>=</mo> <mo>(</mo> <mi>x</mi> <mo>+</mo> <mn>2</mn> <mo>)</mo> <mo>(</mo> <mn>4</mn> <mo>-</mo> <mi>x</mi> <mo>)</mo> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mtable> <mtr> <mtd> <msub> <mi>Y</mi> <mn>1</mn> </msub> </mtd> <mtd> <mrow> <mo>=</mo> <mi>x</mi> <mo>+</mo> <mn>4</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <msub> <mi>Y</mi> <mn>2</mn> </msub> </mtd> <mtd> <mrow> <mo>=</mo> <mi>x</mi> <mo>-</mo> <mn>2</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <msub> <mi>Y</mi> <mn>3</mn> </msub> </mtd> <mtd> <mrow> <mo>=</mo> <mo>(</mo> <mi>x</mi> <mo>+</mo> <mn>4</mn> <mo>)</mo> <mo>(</mo> <mi>x</mi> <mo>-</mo> <mn>2</mn> <mo>)</mo> </mrow> </mtd> </mtr> </mtable> </math>
-<math> <mtext> </mtext> </math>
 <math> <mrow> <mi>x</mi> <mo>&lt;</mo> <mrow> <mo>-</mo> <mn>4</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mo>-</mo> <mn>4</mn> </mrow> <mo>&lt;</mo> <mi>x</mi> <mo>&lt;</mo> <mn>2</mn> </mrow> </math>
 <math> <mrow> <mi>x</mi> <mo>&gt;</mo> <mn>2</mn> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mi>P</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <msub> <mi>P</mi> <mn>0</mn> </msub> <mo>⁢</mo> <msup> <mi>b</mi> <mi>t</mi> </msup> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>P</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <msub> <mi>P</mi> <mn>0</mn> </msub> <mo>⁢</mo> <msup> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <mi>r</mi> </mrow> <mo>)</mo> </mrow> <mi>t</mi> </msup> </mrow> </mrow> </math>
-<math> <mrow> <mi>B</mi> <mo>=</mo> <mrow> <mi>P</mi> <mo>⁢</mo> <msup> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <mi>r</mi> </mrow> <mo>)</mo> </mrow> <mi>t</mi> </msup> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>b</mi> <mi>x</mi> </msup> </mrow> </mrow> <mo>,</mo> <mrow> <mrow> <mtext> where </mtext> <mo>⁢</mo> <mi>b</mi> </mrow> <mo>&gt;</mo> <mrow> <mrow> <mn>0</mn> <mo>⁢</mo> <mtext> and </mtext> <mo>⁢</mo> <mi>b</mi> </mrow> <mo>≠</mo> <mrow> <mn>1</mn> <mo>⁢</mo> <mtext>, </mtext> <mo>⁢</mo> <mi>a</mi> </mrow> <mo>≠</mo> <mn>0</mn> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>L</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>a</mi> <mo>+</mo> <mrow> <mi>m</mi> <mo>⁢</mo> <mi>t</mi> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>E</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>b</mi> <mi>t</mi> </msup> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>b</mi> <mo>&gt;</mo> <mn>1</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mo>±</mo> <mn>1</mn> </mrow> </math>
-<math> <mrow> <mrow> <mi>b</mi> <mo>&gt;</mo> <mn>0</mn> </mrow> <mo>,</mo> <mrow> <mi>b</mi> <mo>≠</mo> <mn>1</mn> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mi>x</mi> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>b</mi> <mo>&gt;</mo> <mn>0</mn> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>b</mi> <mo>≠</mo> <mn>1</mn> </mrow> <mo>,</mo> </mrow> </math>
@@ -1731,7 +1690,6 @@
 <math> <mrow> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mi>x</mi> </mrow> </mrow> <mo>⁢</mo> <mtext> if and only if </mtext> <mo>⁢</mo> <mrow> <mi>x</mi> <mo>=</mo> <msup> <mi>b</mi> <mi>y</mi> </msup> </mrow> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mi>b</mi> </mrow> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mn>1</mn> <mo>⁢</mo> <mtext> because </mtext> <mo>⁢</mo> <msup> <mi>b</mi> <mn>1</mn> </msup> </mrow> <mo>=</mo> <mi>b</mi> </mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mn>1</mn> </mrow> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mn>0</mn> <mo>⁢</mo> <mtext> because </mtext> <mo>⁢</mo> <msup> <mi>b</mi> <mn>0</mn> </msup> </mrow> <mo>=</mo> <mn>1</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <msup> <mi>b</mi> <mi>x</mi> </msup> </mrow> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mi>x</mi> <mo>⁢</mo> <mtext> because </mtext> <mo>⁢</mo> <msup> <mi>b</mi> <mi>x</mi> </msup> </mrow> <mo>=</mo> <msup> <mi>b</mi> <mi>x</mi> </msup> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mi>x</mi> <mo>,</mo> <mi>y</mi> <mo>,</mo> </mrow> </math>
-<math> <mrow> <mrow> <mi>b</mi> <mo>&gt;</mo> <mn>0</mn> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mrow> <mi>x</mi> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mi>x</mi> </mrow> <mo>+</mo> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mi>y</mi> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mfrac> <mi>x</mi> <mi>y</mi> </mfrac> </mrow> <mo>=</mo> <mrow> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mi>x</mi> </mrow> <mo>-</mo> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mi>y</mi> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <msup> <mi>x</mi> <mi>k</mi> </msup> </mrow> <mo>=</mo> <mrow> <mi>k</mi> <mo>⁢</mo> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mi>x</mi> </mrow> </mrow> </mrow> </math>
@@ -1790,13 +1748,7 @@
 <math> <mrow> <mrow> <mrow> <mrow> <mn>4</mn> <mo>⁢</mo> <msup> <mrow> <mo>(</mo> <mrow> <mo>-</mo> <mn>𝟐</mn> </mrow> <mo>)</mo> </mrow> <mn>3</mn> </msup> </mrow> <mo>+</mo> <mrow> <mn>5</mn> <mo>⁢</mo> <msup> <mrow> <mo>(</mo> <mrow> <mo>-</mo> <mn>𝟐</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> <mo>-</mo> <mrow> <mn>8</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mo>-</mo> <mn>𝟐</mn> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mo>+</mo> <mn>20</mn> <mo>+</mo> <mn>16</mn> </mrow> <mo>=</mo> <mn>4</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mn>5</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mo>-</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mrow> <mo>(</mo> <mrow> <mn>6</mn> <mo>-</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mn>5</mn> <mo>-</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> <mo>:</mo> </mrow> </math>
-<math> <mn>0</mn> </math>
-<math> <mn>1</mn> </math>
-<math> <mn>2</mn> </math>
-<math> <mn>3</mn> </math>
-<math> <mn>4</mn> </math>
 <math> <mrow> <mn>5</mn> <mo>-</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mrow> <mn>5</mn> <mo>-</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> <mo>&lt;</mo> <mn>2</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>5</mn> <mo>-</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> <mo>&lt;</mo> <mn>2</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <mrow> <mrow> <mrow> <mo>-</mo> <mn>3</mn> </mrow> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>24</mn> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mi>y</mi> <mo>,</mo> </mrow> </math>
@@ -1841,7 +1793,6 @@
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mfrac> <mn>3</mn> <mn>4</mn> </mfrac> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </math>
 <math> <mrow> <mo>(</mo> <mrow> <mn>8</mn> <mo>,</mo> <mn>6</mn> </mrow> <mo>)</mo> </mrow> </math>
 <math> <mrow> <mo>(</mo> <mrow> <mn>12</mn> <mo>,</mo> <mn>16</mn> </mrow> <mo>)</mo> </mrow> </math>
-<math> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mo>,</mo> <mn>3</mn> </mrow> <mo>)</mo> </mrow> </math>
 <math> <mrow> <mo>(</mo> <mrow> <mn>6</mn> <mo>,</mo> <mfrac> <mn>9</mn> <mn>2</mn> </mfrac> </mrow> <mo>)</mo> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mfrac> <mi>x</mi> <mn>2.5</mn> </mfrac> </mrow> </math>
 <math> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>,</mo> <mn>2.5</mn> </mrow> <mo>)</mo> </mrow> </math>
@@ -1928,7 +1879,6 @@
 <math> <mrow> <mi>Δ</mi> <mo>⁢</mo> <mi>y</mi> <mo>⁢</mo> <mtext> is</mtext> <mo>⁢</mo> <mrow> <mo>{</mo> <mtable> <mtr> <mtd> <mrow> <mtext>positive if </mtext> <mo>⁢</mo> <mi>y</mi> <mo>⁢</mo> <mtext> increases</mtext> </mrow> </mtd> <mtd> <mtext>(we move up)</mtext> </mtd> </mtr> <mtr> <mtd> <mrow> <mtext>negative if </mtext> <mo>⁢</mo> <mi>y</mi> <mo>⁢</mo> <mtext> decreases</mtext> </mrow> </mtd> <mtd> <mtext>(we move down)</mtext> </mtd> </mtr> </mtable> </mrow> </mrow> </math>
 <math> <mrow> <mi>x</mi> <mo>:</mo> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <mi>m</mi> <mo>=</mo> <mfrac> <mrow> <mi>Δ</mi> <mo>⁢</mo> <mi>y</mi> </mrow> <mrow> <mi>Δ</mi> <mo>⁢</mo> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mfrac> <mn>2</mn> <mn>1</mn> </mfrac> <mo>=</mo> <mn>2</mn> </mrow> </mtd> </mtr> </mtable> </math>
-<math> <mfrac> <mn>3</mn> <mn>2</mn> </mfrac> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <mi>m</mi> <mo>=</mo> <mfrac> <mrow> <mi>Δ</mi> <mo>⁢</mo> <mi>y</mi> </mrow> <mrow> <mi>Δ</mi> <mo>⁢</mo> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mfrac> <mn>3</mn> <mn>2</mn> </mfrac> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <mi>m</mi> <mo>=</mo> <mfrac> <mrow> <mi>Δ</mi> <mo>⁢</mo> <mi>y</mi> </mrow> <mrow> <mi>Δ</mi> <mo>⁢</mo> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mn>1</mn> </mfrac> <mo>=</mo> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mi>Δ</mi> <mo>⁢</mo> <mi>y</mi> </mrow> </math>
@@ -1945,7 +1895,6 @@
 <math> <mrow> <mi>m</mi> <mo>=</mo> <mfrac> <mrow> <mi>Δ</mi> <mo>⁢</mo> <mi>y</mi> </mrow> <mrow> <mi>Δ</mi> <mo>⁢</mo> <mi>x</mi> </mrow> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mi>Δ</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>Δ</mi> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mo>-</mo> <mn>6</mn> </mrow> </math>
 <math> <mrow> <mo>(</mo> <mrow> <mn>0</mn> <mo>,</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>Δ</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>?</mo> </mrow> </math>
 <math> <mrow> <mo>(</mo> <mrow> <mn>0</mn> <mo>,</mo> <mrow> <mo>-</mo> <mn>6</mn> </mrow> </mrow> <mo>)</mo> </mrow> </math>
@@ -1958,8 +1907,6 @@
 <math> <mrow> <mrow> <mi>Δ</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>=</mo> <mn>12</mn> </mrow> </math>
 <math> <mrow> <mrow> <mi>Δ</mi> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>6</mn> </mrow> </mrow> </math>
 <math> <mn>27</mn> </math>
-<math> <mi>t</mi> </math>
-<math> <mi>P</mi> </math>
 <math> <mtable> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mtext>change in population</mtext> <mo>=</mo> <mi>Δ</mi> <mi>P</mi> <mo>=</mo> </mrow> </mtd> </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mtext>time elapsed</mtext> <mo>=</mo> <mi>Δ</mi> <mi>t</mi> <mo>=</mo> </mrow> </mtd> </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mtext>rate of growth</mtext> <mo>=</mo> <mfrac> <mrow> <mi>Δ</mi> <mi>P</mi> </mrow> <mrow> <mi>Δ</mi> <mi>t</mi> </mrow> </mfrac> <mo>=</mo> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mi>Δ</mi> <mo>⁢</mo> <mi>P</mi> </mrow> </math>
 <math> <mn>11.5</mn> </math>
@@ -2153,13 +2100,11 @@
 <math> <mrow> <mrow> <mn>1000</mn> <mo>⁢</mo> <mi>e</mi> </mrow> <mo>.</mo> </mrow> </math>
 <math> <msup> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <mfrac> <mn>1</mn> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mi>n</mi> </msup> </math>
 <math> <mn>100,000</mn> </math>
-<math> <msup> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <mfrac> <mn>1</mn> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mi>n</mi> </msup> </math>
 <math> <mrow> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>a</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mi>b</mi> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>,</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </mrow> <mo>)</mo> </mrow> </math>
 <math> <mrow> <mi>b</mi> <mo>=</mo> <mrow> <mroot> <mi>a</mi> <mn>3</mn> </mroot> <mo>⁢</mo> <mtext>if</mtext> <mo>⁢</mo> <msup> <mi>b</mi> <mn>3</mn> </msup> </mrow> <mo>=</mo> <mi>a</mi> </mrow> </math>
 <math> <mrow> <mrow> <mo>|</mo> <mi>x</mi> <mo>|</mo> </mrow> <mo>=</mo> <mrow> <mo>{</mo> <mtable> <mtr> <mtd> <mi>x</mi> </mtd> <mtd> <mrow> <mrow> <mtext>if </mtext> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>≥</mo> <mn>0</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <mo>-</mo> <mi>x</mi> </mrow> </mtd> <mtd> <mrow> <mrow> <mtext>if </mtext> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>&lt;</mo> <mn>0</mn> </mrow> </mtd> </mtr> </mtable> </mrow> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>x</mi> <mo>⁢</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mo>|</mo> <mi>x</mi> <mo>|</mo> </mrow> <mo>⁢</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </mrow> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>⁢</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </mrow> <mo>=</mo> <msup> <mi>x</mi> <mn>3</mn> </msup> </mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <msqrt> <mi>x</mi> </msqrt> <mo>⁢</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </mrow> <mo>=</mo> <mrow> <mroot> <mi>x</mi> <mn>3</mn> </mroot> <mo>⁢</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </mrow> <mo>=</mo> <mrow> <mfrac> <mn>1</mn> <mi>x</mi> </mfrac> <mo>⁢</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </mrow> <mo>=</mo> <mfrac> <mn>1</mn> <msup> <mi>x</mi> <mn>2</mn> </msup> </mfrac> </mrow> </mtd> </mtr> </mtable> </math>
-<math> <mfrac> <mi>y</mi> <msup> <mi>x</mi> <mi>n</mi> </msup> </mfrac> </math>
 <math> <mi>q</mi> </math>
 <math> <mn>118</mn> </math>
 <math> <mn>649</mn> </math>
@@ -2307,12 +2252,10 @@
 <math> <mrow> <mi>C</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mrow> <mo>-</mo> <mn>4</mn> </mrow> <mo>,</mo> <mn>4</mn> </mrow> <mo>)</mo> </mrow> </mrow> </math>
 <math> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>,</mo> <mn>4</mn> </mrow> <mo>)</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>6</mn> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mtext width="2em"> </mtext> </math>
 <math> <mrow> <mrow> <mrow> <mn>5</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>0</mn> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mfrac> <mn>1</mn> <mn>3</mn> </mfrac> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mrow> <mfrac> <mn>3</mn> <mn>4</mn> </mfrac> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>0.8</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mrow> <mn>0.004</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>0.24</mn> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mn>12</mn> <mo>=</mo> <mn>0</mn> </mrow> </math>
-<math> <mfrac> <mn>2</mn> <mn>3</mn> </mfrac> </math>
 <math> <mfrac> <mrow> <mo>-</mo> <mn>3</mn> </mrow> <mn>2</mn> </mfrac> </math>
 <math> <mrow> <mrow> <mfrac> <mn>2</mn> <mn>3</mn> </mfrac> <mo>⁢</mo> <mrow> <mo>(</mo> <mfrac> <mrow> <mo>-</mo> <mn>3</mn> </mrow> <mn>2</mn> </mfrac> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </mrow> </math>
 <math> <mfrac> <mrow> <mo>-</mo> <mn>5</mn> </mrow> <mn>2</mn> </mfrac> </math>
@@ -2350,7 +2293,6 @@
 <math> <mrow> <mrow> <mi>S</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mn>4</mn> <mo>,</mo> <mrow> <mo>-</mo> <mn>3</mn> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>-</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> <mo>=</mo> <mn>5</mn> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>-</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> <mo>=</mo> <mn>5</mn> </mrow> <mo>?</mo> </mrow> </math>
-<math> <mrow> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>-</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> <mo>=</mo> <mn>5</mn> </mrow> </math>
 <math> <mrow> <mrow> <mo>(</mo> <mrow> <mrow> <mo>-</mo> <mn>3</mn> </mrow> <mo>,</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>,</mo> <mn>4</mn> </mrow> <mo>)</mo> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>A</mi> <mo>⁣</mo> <mi>B</mi> <mo>⁣</mo> <mi>C</mi> <mo>⁣</mo> <mi>D</mi> </mrow> </math>
@@ -2362,7 +2304,6 @@
 <math> <mrow> <mrow> <mi>B</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mn>4</mn> <mo>,</mo> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>C</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mrow> <mo>-</mo> <mn>1</mn> </mrow> <mo>,</mo> <mn>6</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mover> <mrow> <mi>A</mi> <mo>⁣</mo> <mi>C</mi> </mrow> <mo>¯</mo> </mover> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mover> <mrow> <mi>A</mi> <mo>⁣</mo> <mi>C</mi> </mrow> <mo>¯</mo> </mover> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>C</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mo>,</mo> <mn>4</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mi>P</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mrow> <mo>-</mo> <mn>1</mn> </mrow> <mo>,</mo> <mn>6</mn> </mrow> <mo>)</mo> </mrow> </mrow> </math>
 <math> <mrow> <mi>A</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mn>0</mn> <mo>,</mo> <mrow> <mo>-</mo> <mn>3</mn> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> </math>
@@ -2370,9 +2311,6 @@
 <math> <mrow> <mrow> <mi>C</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mrow> <mo>-</mo> <mn>6</mn> </mrow> <mo>,</mo> <mrow> <mo>-</mo> <mn>10</mn> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>i</mi> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>i</mi> <mo>=</mo> <msqrt> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </msqrt> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mrow> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mi>c</mi> </mrow> <mo>=</mo> <mn>0</mn> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mi>D</mi> <mo>=</mo> <mrow> <msup> <mi>b</mi> <mn>2</mn> </msup> <mo>-</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>a</mi> <mo>⁢</mo> <mi>c</mi> </mrow> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mi>c</mi> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <msub> <mi>x</mi> <mi>v</mi> </msub> </math>
 <math> <mrow> <mo>(</mo> <mrow> <mi>∞</mi> <mo>,</mo> <mi>a</mi> </mrow> <mo>]</mo> </mrow> </math>
 <math> <mrow> <mi>𝒚</mi> <mo>=</mo> <mrow> <mrow> <mi>𝒂</mi> <mo>⁢</mo> <msup> <mi>𝒙</mi> <mn>𝟐</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>𝒃</mi> <mo>⁢</mo> <mi>𝒙</mi> </mrow> <mo>+</mo> <mi>𝒄</mi> </mrow> </mrow> </math>
@@ -2402,7 +2340,6 @@
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mo>⁢</mo> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mn>5</mn> </mrow> </mrow> </math>
 <math> <mrow> <mi>P</mi> <mo>=</mo> <mrow> <mrow> <mrow> <mo>-</mo> <mn>0.4</mn> </mrow> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mn>36</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mn>1200</mn> <mo>-</mo> <mrow> <mn>80</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </math>
-<math> <mrow> <mi>a</mi> <mo>,</mo> <mi>b</mi> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mo>(</mo> <mrow> <mrow> <mo>-</mo> <mn>1</mn> </mrow> <mo>,</mo> <mrow> <mo>-</mo> <mn>4</mn> </mrow> </mrow> <mo>)</mo> </mrow> <mo>,</mo> <mrow> <mo>(</mo> <mrow> <mn>0</mn> <mo>,</mo> <mrow> <mo>-</mo> <mn>6</mn> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> </math>
 <math> <mrow> <mo>-</mo> <mn>14</mn> </mrow> </math>
 <math> <mn>0.4</mn> </math>
@@ -2532,7 +2469,6 @@
 <math> <mrow> <msub> <mi>log</mi> <mn>4</mn> </msub> <mo>⁡</mo> <mn>4</mn> </mrow> </math>
 <math> <mrow> <msub> <mi>log</mi> <mn>6</mn> </msub> <mo>⁡</mo> <mn>1</mn> </mrow> </math>
 <math> <mrow> <msub> <mi>log</mi> <mn>3</mn> </msub> <mo>⁡</mo> <msqrt> <mn>3</mn> </msqrt> </mrow> </math>
-<math> <mrow> <msub> <mi>log</mi> <mn>3</mn> </msub> <mo>⁡</mo> <mfrac> <mn>1</mn> <mn>3</mn> </mfrac> </mrow> </math>
 <math> <mrow> <msub> <mi>log</mi> <mn>9</mn> </msub> <mo>⁡</mo> <msup> <mn>9</mn> <mrow> <mo>-</mo> <mn>6</mn> </mrow> </msup> </mrow> </math>
 <math> <mrow> <msub> <mi>log</mi> <mn>8</mn> </msub> <mo>⁡</mo> <msup> <mn>8</mn> <mn>5</mn> </msup> </mrow> </math>
 <math> <mrow> <msub> <mi>log</mi> <mn>10</mn> </msub> <mo>⁡</mo> <mn>0.1</mn> </mrow> </math>
@@ -2680,7 +2616,6 @@
 <math> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mo>-</mo> <mn>𝟏𝟐</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>=</mo> <mn>144</mn> </mrow> </math>
 <math> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>p</mi> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <msup> <mi>p</mi> <mn>2</mn> </msup> <mo>,</mo> </mrow> </math>
-<math> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>-</mo> <mrow> <mn>16</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mrow> <mn>𝟐</mn> <mo>⁢</mo> <mi>𝒑</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <msup> <mi>p</mi> <mn>2</mn> </msup> </mrow> </mtd> <mtd> <mrow> <mo>=</mo> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>+</mo> <mi>p</mi> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>-</mo> <mrow> <mn>𝟏𝟔</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mo>?</mo> </mrow> </mtd> <mtd> <mrow> <mo>=</mo> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>+</mo> <mo>?</mo> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>p</mi> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>16</mn> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mi>p</mi> <mo>=</mo> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mo>-</mo> <mn>16</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mo>-</mo> <mn>𝟖</mn> </mrow> <mo>⁢</mo> <mtext>and</mtext> <mo>⁢</mo> <msup> <mi>p</mi> <mn>2</mn> </msup> </mrow> <mo>=</mo> <msup> <mrow> <mo>(</mo> <mrow> <mo>-</mo> <mn>8</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>=</mo> <mn>𝟔𝟒</mn> </mrow> </math>
@@ -2737,7 +2672,6 @@
 <math> <mrow> <mn>4</mn> <mo>⁤</mo> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </mrow> </math>
 <math> <mrow> <mn>8</mn> <mo>⁤</mo> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </mrow> </math>
 <math> <mrow> <mn>2</mn> <mo>⁤</mo> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </mrow> </math>
-<math> <mi>c</mi> </math>
 <math> <mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mi>c</mi> </mrow> <mo>=</mo> <mn>0</mn> </mrow> </math>
 <math> <mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mn>4</mn> </mrow> <mo>=</mo> <mn>0</mn> </mrow> </math>
 <math> <mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mi>c</mi> </mrow> <mo>=</mo> <mn>0</mn> </mrow> </math>
@@ -2750,7 +2684,6 @@
 <math> <mrow> <mrow> <mrow> <mrow> <mn>4</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>-</mo> <mrow> <mn>9</mn> <mo>⁢</mo> <msup> <mi>y</mi> <mn>2</mn> </msup> </mrow> </mrow> <mo>=</mo> <mn>36</mn> </mrow> <mo>,</mo> <mrow> <mtext>for</mtext> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> </math>
 <math> <mrow> <mi>t</mi> <mo>=</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mfrac> <mn>60</mn> <mrow> <mn>15</mn> <mo>-</mo> <mi>x</mi> </mrow> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mi>t</mi> <mo>=</mo> <mn>9</mn> </mrow> <mo>,</mo> </mrow> </math>
-<math> <mrow> <mfrac> <mn>60</mn> <mrow> <mn>15</mn> <mo>-</mo> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mn>9</mn> </mrow> </math>
 <math> <mrow> <mfrac> <mn>60</mn> <mrow> <mn>15</mn> <mo>-</mo> <mi>x</mi> </mrow> </mfrac> <mo>=</mo> <mn>9</mn> </mrow> </math>
 <math> <mrow> <mfrac> <mn>3</mn> <mn>4</mn> </mfrac> <mo>=</mo> <mrow> <mn>8</mn> <mo>-</mo> <mfrac> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mn>11</mn> </mrow> <mrow> <mi>x</mi> <mo>-</mo> <mn>5</mn> </mrow> </mfrac> </mrow> </mrow> </math>
 <math> <mrow> <mfrac> <mn>7</mn> <mn>5</mn> </mfrac> <mo>=</mo> <mfrac> <mi>x</mi> <mn>6</mn> </mfrac> </mrow> </math>
@@ -2804,7 +2737,6 @@
 <math> <mrow> <mrow> <mrow> <mi>S</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mn>6</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mn>49</mn> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mfrac> <mn>3</mn> <mn>8</mn> </mfrac> </math>
 <math> <mrow> <mn>1</mn> <mo>⁤</mo> <mfrac> <mn>11</mn> <mn>16</mn> </mfrac> </mrow> </math>
-<math> <mrow> <mi>A</mi> <mo>⁣</mo> <mi>B</mi> <mo>⁣</mo> <mi>C</mi> <mo>⁣</mo> <mi>D</mi> </mrow> </math>
 <math> <mrow> <mrow> <mi>C</mi> <mo>⁣</mo> <mi>D</mi> <mo>⁣</mo> <mi>E</mi> <mo>⁣</mo> <mi>F</mi> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>C</mi> <mo>⁣</mo> <mi>D</mi> <mo>⁣</mo> <mi>E</mi> <mo>⁣</mo> <mi>F</mi> </mrow> </math>
 <math> <mrow> <mrow> <mi>A</mi> <mo>⁣</mo> <mi>B</mi> </mrow> <mo>=</mo> <mn>1</mn> </mrow> </math>
@@ -2891,13 +2823,8 @@
 <math> <mn>0.64</mn> </math>
 <math> <mn>0.512</mn> </math>
 <math> <mn>0.4096</mn> </math>
-<math> <mi>x</mi> </math>
 <math> <mn>0.0125</mn> </math>
 <math> <mn>2.7</mn> </math>
-<math> <mn>5</mn> </math>
-<math> <mn>6</mn> </math>
-<math> <mn>7</mn> </math>
-<math> <mn>8</mn> </math>
 <math> <mn>86</mn> </math>
 <math> <mn>104</mn> </math>
 <math> <mn>124</mn> </math>
@@ -2980,9 +2907,7 @@
 <math> <mrow> <mrow> <mo>-</mo> <mn>0.1</mn> </mrow> <mo>≤</mo> <mrow> <mo>|</mo> <mrow> <mn>9</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>p</mi> <mo>+</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mo>|</mo> </mrow> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <mi>y</mi> <mo>=</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mo>-</mo> <mn>3</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>=</mo> <mrow> <mrow> <mo>(</mo> <mrow> <mo>-</mo> <mn>3</mn> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mo>-</mo> <mn>3</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mn>9</mn> </mrow> <mo>,</mo> <mrow> <mrow> <mtext>but</mtext> <mo>-</mo> <msup> <mn>3</mn> <mn>2</mn> </msup> </mrow> <mo>=</mo> <mrow> <mrow> <mo>-</mo> <mn>3</mn> </mrow> <mo>⋅</mo> <mn>3</mn> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>9</mn> </mrow> </mrow> </mrow> </math>
-<math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>-</mo> <mn>4</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>-</mo> <mn>4</mn> </mrow> <mo>=</mo> <mn>5</mn> </mrow> </math>
-<math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>-</mo> <mn>4</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>y</mi> <mo>=</mo> <mn>5</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mn>5</mn> </mrow> </math>
 <math> <mrow> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>=</mo> <mn>9</mn> </mrow> <mo>.</mo> </mrow> </math>
@@ -2994,7 +2919,6 @@
 <math> <mrow> <mrow> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mi>c</mi> </mrow> <mo>=</mo> <mn>0</mn> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>h</mi> <mo>=</mo> <mrow> <mn>20</mn> <mo>-</mo> <mrow> <mn>16</mn> <mo>⁢</mo> <msup> <mi>t</mi> <mn>2</mn> </msup> </mrow> </mrow> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>V</mi> <mo>=</mo> <mrow> <mfrac> <mn>1</mn> <mn>3</mn> </mfrac> <mo>⁢</mo> <mi>π</mi> <mo>⁢</mo> <msup> <mi>r</mi> <mn>2</mn> </msup> <mo>⁢</mo> <mi>h</mi> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mi>p</mi> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> <mo>=</mo> <mi>q</mi> </mrow> </math>
 <math> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mi>p</mi> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> <mo>=</mo> <mn>48</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mi>A</mi> </mtd> <mtd> <mrow> <mo>=</mo> <mi>P</mi> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <mi>r</mi> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> </mtd> </mtr> <mtr> <mtd> <mn>100</mn> </mtd> <mtd> <mrow> <mo>=</mo> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <mn>0.04</mn> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>=</mo> <mn>108.16</mn> </mrow> </mtd> </mtr> </mtable> </math>
@@ -3011,10 +2935,6 @@
 <math> <mrow> <mrow> <mn>4</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>=</mo> <mn>25</mn> </mrow> </math>
 <math> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>=</mo> <mn>15</mn> </mrow> </math>
 <math> <mrow> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>-</mo> <mn>5</mn> </mrow> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mo>-</mo> <mn>3</mn> </mrow> </math>
-<math> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </math>
-<math> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </math>
-<math> <mi>y</mi> </math>
 <math> <mrow> <mrow> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>-</mo> <mn>5</mn> </mrow> <mo>=</mo> <mn>7</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>-</mo> <mn>5</mn> </mrow> <mo>=</mo> <mn>7</mn> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>-</mo> <mn>9</mn> </mrow> <mo>=</mo> <mn>0</mn> </mrow> </math>
@@ -3022,7 +2942,6 @@
 <math> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>=</mo> <mn>16</mn> </mrow> </math>
 <math> <mrow> <mrow> <mn>4</mn> <mo>⁢</mo> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> <mo>=</mo> <mn>12</mn> </mrow> </math>
 <math> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mfrac> <mn>2</mn> <mn>3</mn> </mfrac> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>=</mo> <mfrac> <mn>5</mn> <mn>9</mn> </mfrac> </mrow> </math>
-<math> <mrow> <mrow> <mn>81</mn> <mo>⁢</mo> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>+</mo> <mfrac> <mn>1</mn> <mn>3</mn> </mfrac> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> <mo>=</mo> <mn>1</mn> </mrow> </math>
 <math> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <msup> <mrow> <mo>(</mo> <mrow> <mrow> <mn>5</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mn>12</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> <mo>=</mo> <mn>48</mn> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>5</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>-</mo> <mn>97</mn> </mrow> <mo>=</mo> <mrow> <mrow> <mn>3.2</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>-</mo> <mn>38</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mn>17</mn> <mo>-</mo> <mfrac> <msup> <mi>x</mi> <mn>2</mn> </msup> <mn>4</mn> </mfrac> </mrow> <mo>=</mo> <mrow> <mn>43</mn> <mo>-</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </math>
@@ -3036,11 +2955,8 @@
 <math> <mrow> <mrow> <mi>S</mi> <mo>=</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>π</mi> <mo>⁢</mo> <msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>L</mi> <mo>=</mo> <mrow> <mfrac> <mn>8</mn> <msup> <mi>π</mi> <mn>2</mn> </msup> </mfrac> <mo>⁢</mo> <msup> <mi>T</mi> <mn>2</mn> </msup> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>s</mi> <mo>=</mo> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>⁢</mo> <mi>g</mi> <mo>⁢</mo> <msup> <mi>t</mi> <mn>2</mn> </msup> </mrow> </mrow> <mo>,</mo> </mrow> </math>
-<math> <mi>r</mi> </math>
 <math> <mn>0.08</mn> </math>
-<math> <mi>A</mi> </math>
 <math> <mrow> <mi>V</mi> <mo>=</mo> <mrow> <mn>10</mn> <mo>⁢</mo> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>20</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> </mrow> </math>
-<math> <mi>V</mi> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <mi>A</mi> <mo>=</mo> <mi>π</mi> <msup> <mi>R</mi> <mn>2</mn> </msup> <mo>-</mo> <mi>π</mi> <msup> <mi>r</mi> <mn>2</mn> </msup> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mi>r</mi> <mo>=</mo> <mn>4</mn> </mrow> </math>
 <math> <mrow> <mrow> <mi>r</mi> <mo>=</mo> <mn>4</mn> </mrow> <mo>,</mo> </mrow> </math>
@@ -3106,13 +3022,11 @@
 <math> <mfrac> <mrow> <mrow> <mrow> <mo>-</mo> <msup> <mi>a</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mn>3</mn> </mrow> <mo>)</mo> </mrow> <mrow> <msup> <mi>a</mi> <mn>2</mn> </msup> <mo>+</mo> <mn>3</mn> </mrow> </mfrac> </math>
 <math> <mfrac> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mn>3</mn> </mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mfrac> </math>
 <math> <mfrac> <mrow> <mi>x</mi> <mo>+</mo> <mn>3</mn> </mrow> <mi>x</mi> </mfrac> </math>
-<math> <mn>3</mn> </math>
 <math> <mfrac> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>a</mi> </mrow> <mo>+</mo> <msup> <mi>a</mi> <mn>2</mn> </msup> </mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>a</mi> </mrow> </mfrac> </math>
 <math> <msup> <mi>a</mi> <mn>2</mn> </msup> </math>
 <math> <mfrac> <mrow> <mn>3</mn> <mo>+</mo> <mi>a</mi> </mrow> <mn>3</mn> </mfrac> </math>
 <math> <mfrac> <mrow> <mi>y</mi> <mo>+</mo> <mn>3</mn> </mrow> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <msup> <mi>y</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mn>6</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> </mfrac> </math>
 <math> <mfrac> <mn>1</mn> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mfrac> </math>
-<math> <mi>y</mi> </math>
 <math> <mfrac> <msup> <mi>a</mi> <mn>3</mn> </msup> <mrow> <msup> <mi>a</mi> <mn>4</mn> </msup> <mo>-</mo> <msup> <mi>a</mi> <mn>3</mn> </msup> </mrow> </mfrac> </math>
 <math> <mfrac> <mn>1</mn> <mrow> <mi>a</mi> <mo>-</mo> <mn>1</mn> </mrow> </mfrac> </math>
 <math> <mfrac> <mn>1</mn> <msup> <mi>a</mi> <mn>4</mn> </msup> </mfrac> </math>
@@ -3134,7 +3048,6 @@
 <math> <mfrac> <mrow> <mrow> <mn>8</mn> <mo>⁢</mo> <msup> <mi>z</mi> <mn>3</mn> </msup> </mrow> <mo>-</mo> <mn>27</mn> </mrow> <mrow> <mrow> <mn>4</mn> <mo>⁢</mo> <msup> <mi>z</mi> <mn>2</mn> </msup> </mrow> <mo>-</mo> <mn>9</mn> </mrow> </mfrac> </math>
 <math> <mfrac> <mrow> <mn>6</mn> <mo>-</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>v</mi> </mrow> </mrow> <mrow> <msup> <mi>v</mi> <mn>3</mn> </msup> <mo>-</mo> <mn>27</mn> </mrow> </mfrac> </math>
 <math> <mrow> <mi>t</mi> <mo>=</mo> <mfrac> <mn>300</mn> <mrow> <mn>10</mn> <mo>-</mo> <mi>v</mi> </mrow> </mfrac> </mrow> </math>
-<math> <mtext> </mtext> </math>
 <math> <mrow> <mrow> <mi>t</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>v</mi> <mo>)</mo> </mrow> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>C</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>p</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mfrac> <mrow> <mn>360</mn> <mo>⁢</mo> <mi>p</mi> </mrow> <mrow> <mn>100</mn> <mo>-</mo> <mi>p</mi> </mrow> </mfrac> </mrow> </math>
 <math> <mrow> <mi>C</mi> <mo>?</mo> </mrow> </math>
@@ -3156,7 +3069,6 @@
 <math> <mrow> <mo>-</mo> <mn>75</mn> </mrow> </math>
 <math> <mrow> <mo>-</mo> <mn>50</mn> </mrow> </math>
 <math> <mrow> <mn>553.</mn> <mo>⁢</mo> <mover> <mn>3</mn> <mo>¯</mo> </mover> </mrow> </math>
-<math> <mrow> <mi>e</mi> <mo>≈</mo> <mn>2.71828182845</mn> </mrow> </math>
 <math> <msup> <mi>e</mi> <mi>x</mi> </msup> </math>
 <math> <menclose notation="box"> <msup> <mi>e</mi> <mi>x</mi> </msup> </menclose> </math>
 <math> <msup> <mi>e</mi> <mn>1</mn> </msup> </math>
@@ -3186,12 +3098,9 @@
 <math> <mrow> <mrow> <mi>ln</mi> <mo>⁡</mo> <mn>10</mn> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <msup> <mi>e</mi> <mi>y</mi> </msup> <mo>=</mo> <mn>10</mn> </mrow> </math>
 <math> <mrow> <msup> <mi>e</mi> <mn>𝟐.𝟑</mn> </msup> <mo>≈</mo> <mrow> <mn>10</mn> <mo>⁢</mo> <mtext> or </mtext> <mo>⁢</mo> <mrow> <mi>ln</mi> <mo>⁡</mo> <mn>10</mn> </mrow> </mrow> <mo>≈</mo> <mn>𝟐.𝟑</mn> </mrow> </math>
-<math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mi>ln</mi> <mo>⁡</mo> <mi>x</mi> </mrow> <mo>⁢</mo> <mtext>if and only if</mtext> <mo>⁢</mo> <msup> <mi>e</mi> <mi>y</mi> </msup> </mrow> <mo>=</mo> <mi>x</mi> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <mi>ln</mi> <mo>⁡</mo> <mi>e</mi> </mrow> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mn>1</mn> <mo>⁢</mo> <mtext> because </mtext> <mo>⁢</mo> <msup> <mi>e</mi> <mn>1</mn> </msup> </mrow> <mo>=</mo> <mi>e</mi> </mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <mi>ln</mi> <mo>⁡</mo> <mn>1</mn> </mrow> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mn>0</mn> <mo>⁢</mo> <mtext> because </mtext> <mo>⁢</mo> <msup> <mi>e</mi> <mn>0</mn> </msup> </mrow> <mo>=</mo> <mn>1</mn> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mi>e</mi> <mi>x</mi> </msup> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>ln</mi> <mo>⁡</mo> <mi>x</mi> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mi>ln</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mi>ln</mi> <mo>⁡</mo> <mi>x</mi> </mrow> <mo>+</mo> <mrow> <mi>ln</mi> <mo>⁡</mo> <mi>y</mi> </mrow> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mi>ln</mi> <mo>⁡</mo> <mfrac> <mi>x</mi> <mi>y</mi> </mfrac> </mrow> <mo>=</mo> <mrow> <mrow> <mi>ln</mi> <mo>⁡</mo> <mi>x</mi> </mrow> <mo>-</mo> <mrow> <mi>ln</mi> <mo>⁡</mo> <mi>y</mi> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>ln</mi> <mo>⁡</mo> <msup> <mi>x</mi> <mi>n</mi> </msup> </mrow> <mo>=</mo> <mrow> <mi>n</mi> <mo>⁢</mo> <mrow> <mi>ln</mi> <mo>⁡</mo> <mi>x</mi> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>x</mi> <mo>≤</mo> <mn>0</mn> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mi>ln</mi> <mo>⁡</mo> <mi>x</mi> </mrow> </math>
@@ -3254,7 +3163,6 @@
 <math> <mrow> <mrow> <mi>P</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mn>0.8</mn> <mo>⁢</mo> <msup> <mi>e</mi> <mrow> <mn>1.3</mn> <mo>⁢</mo> <mi>t</mi> </mrow> </msup> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>P</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mn>6500</mn> <mo>⁢</mo> <msup> <mi>e</mi> <mrow> <mrow> <mo>-</mo> <mn>2.5</mn> </mrow> <mo>⁢</mo> <mi>t</mi> </mrow> </msup> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>P</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mn>1.7</mn> <mo>⁢</mo> <msup> <mi>e</mi> <mrow> <mrow> <mo>-</mo> <mn>0.02</mn> </mrow> <mo>⁢</mo> <mi>t</mi> </mrow> </msup> </mrow> </mrow> </math>
-<math> <mtext> </mtext> </math>
 <math> <mn>0.6931</mn> </math>
 <math> <mn>1.3863</mn> </math>
 <math> <mn>2.0794</mn> </math>
@@ -3326,11 +3234,6 @@
 <math> <mrow> <mrow> <mrow> <mi>G</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <msub> <mi>G</mi> <mn>0</mn> </msub> <mo>⁢</mo> <msup> <mi>e</mi> <mrow> <mi>k</mi> <mo>⁢</mo> <mi>t</mi> </mrow> </msup> </mrow> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mn>112</mn> </math>
 <math> <mn>71</mn> </math>
-<math> <mtable> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mi>a</mi> <mo>+</mo> <mi>b</mi> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>=</mo> <mrow> <mrow> <mo>(</mo> <mrow> <mi>a</mi> <mo>+</mo> <mi>b</mi> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>a</mi> <mo>+</mo> <mi>b</mi> </mrow> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <msup> <mi>a</mi> <mn>2</mn> </msup> <mo>+</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>a</mi> <mo>⁢</mo> <mi>b</mi> </mrow> <mo>+</mo> <msup> <mi>b</mi> <mn>2</mn> </msup> </mrow> </mrow> </mtd> </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mi>a</mi> <mo>-</mo> <mi>b</mi> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>=</mo> <mrow> <mrow> <mo>(</mo> <mrow> <mi>a</mi> <mo>-</mo> <mi>b</mi> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>a</mi> <mo>-</mo> <mi>b</mi> </mrow> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <msup> <mi>a</mi> <mn>2</mn> </msup> <mo>-</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>a</mi> <mo>⁢</mo> <mi>b</mi> </mrow> <mo>+</mo> <msup> <mi>b</mi> <mn>2</mn> </msup> </mrow> </mrow> </mtd> </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mrow> <mrow> <mo>(</mo> <mrow> <mi>a</mi> <mo>+</mo> <mi>b</mi> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>a</mi> <mo>-</mo> <mi>b</mi> </mrow> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <msup> <mi>a</mi> <mn>2</mn> </msup> <mo>-</mo> <msup> <mi>b</mi> <mn>2</mn> </msup> </mrow> </mrow> </mtd> </mtr> </mtable> </math>
-<math> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>+</mo> <mi>y</mi> </mrow> <mo>)</mo> </mrow> <mn>3</mn> </msup> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>3</mn> </msup> <mo>+</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>+</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>x</mi> <mo>⁢</mo> <msup> <mi>y</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <msup> <mi>y</mi> <mn>3</mn> </msup> </mrow> </mrow> </math>
-<math> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mi>y</mi> </mrow> <mo>)</mo> </mrow> <mn>3</mn> </msup> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>3</mn> </msup> <mo>-</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>+</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>x</mi> <mo>⁢</mo> <msup> <mi>y</mi> <mn>2</mn> </msup> </mrow> <mo>-</mo> <msup> <mi>y</mi> <mn>3</mn> </msup> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <msup> <mi>x</mi> <mn>3</mn> </msup> <mo>+</mo> <msup> <mi>y</mi> <mn>3</mn> </msup> </mrow> <mo>=</mo> <mrow> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>+</mo> <mi>y</mi> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>-</mo> <mrow> <mi>x</mi> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>+</mo> <msup> <mi>y</mi> <mn>2</mn> </msup> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <msup> <mi>x</mi> <mn>3</mn> </msup> <mo>-</mo> <msup> <mi>y</mi> <mn>3</mn> </msup> </mrow> <mo>=</mo> <mrow> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mi>y</mi> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mrow> <mi>x</mi> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>+</mo> <msup> <mi>y</mi> <mn>2</mn> </msup> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mfrac> <mrow> <mi>a</mi> <mo>⋅</mo> <mi>c</mi> </mrow> <mrow> <mi>b</mi> <mo>⋅</mo> <mi>c</mi> </mrow> </mfrac> <mo>=</mo> <mrow> <mfrac> <mi>a</mi> <mi>b</mi> </mfrac> <mo>⁢</mo> <mtext>if</mtext> <mo>⁢</mo> <mi>b</mi> </mrow> </mrow> <mo>,</mo> <mrow> <mi>c</mi> <mo>≠</mo> <mn>0</mn> </mrow> </mrow> </math>
 <math> <mrow> <mi>b</mi> <mo>,</mo> <mrow> <mi>d</mi> <mo>≠</mo> <mn>0</mn> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mfrac> <mi>a</mi> <mi>b</mi> </mfrac> <mo>⋅</mo> <mfrac> <mi>c</mi> <mi>d</mi> </mfrac> </mrow> <mo>=</mo> <mfrac> <mrow> <mi>a</mi> <mo>⁢</mo> <mi>c</mi> </mrow> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>d</mi> </mrow> </mfrac> </mrow> </math>
@@ -3393,9 +3296,6 @@
 <math> <mfrac> <mrow> <msup> <mi>x</mi> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </msup> <mo>+</mo> <msup> <mi>y</mi> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </msup> </mrow> <msup> <mi>x</mi> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </msup> </mfrac> </math>
 <math> <mfrac> <mrow> <msup> <mi>x</mi> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </msup> <mo>-</mo> <msup> <mi>y</mi> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </msup> </mrow> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mi>y</mi> </mrow> <mo>)</mo> </mrow> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </msup> </mfrac> </math>
 <math> <mfrac> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>)</mo> </mrow> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </msup> <mrow> <msup> <mi>x</mi> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </msup> <mo>-</mo> <msup> <mi>y</mi> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </msup> </mrow> </mfrac> </math>
-<math> <mrow> <mrow> <msup> <mi>a</mi> <mi>m</mi> </msup> <mo>⋅</mo> <msup> <mi>a</mi> <mi>n</mi> </msup> </mrow> <mo>=</mo> <msup> <mi>a</mi> <mrow> <mi>m</mi> <mo>+</mo> <mi>n</mi> </mrow> </msup> </mrow> </math>
-<math> <mrow> <mfrac> <msup> <mi>a</mi> <mi>m</mi> </msup> <msup> <mi>a</mi> <mi>n</mi> </msup> </mfrac> <mo>=</mo> <msup> <mi>a</mi> <mrow> <mi>m</mi> <mo>-</mo> <mi>n</mi> </mrow> </msup> </mrow> </math>
-<math> <mrow> <msup> <mrow> <mo>(</mo> <msup> <mi>a</mi> <mi>m</mi> </msup> <mo>)</mo> </mrow> <mi>n</mi> </msup> <mo>=</mo> <msup> <mi>a</mi> <mrow> <mi>m</mi> <mo>⁢</mo> <mi>n</mi> </mrow> </msup> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <mn>32</mn> </mrow> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mn>4</mn> <mo>⋅</mo> <mn>8</mn> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <mn>4</mn> </mrow> <mo>+</mo> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <mn>8</mn> </mrow> </mrow> </mrow> </mtd> <mtd> <mrow> <mtext> because </mtext> <mo>⁢</mo> <msup> <mn>2</mn> <mn>𝟓</mn> </msup> </mrow> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <msup> <mn>2</mn> <mn>𝟐</mn> </msup> <mo>⋅</mo> <msup> <mn>2</mn> <mn>𝟑</mn> </msup> </mrow> </mrow> </mtd> </mtr> <mtr> <mtd> <mn>𝟓</mn> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mn>𝟐</mn> <mo>+</mo> <mn>𝟑</mn> </mrow> </mrow> </mtd> <mtd> <mn>32</mn> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mn>4</mn> <mo>⋅</mo> <mn>8</mn> </mrow> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <mn>8</mn> </mrow> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <mfrac> <mn>16</mn> <mn>2</mn> </mfrac> </mrow> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <mn>16</mn> </mrow> <mo>-</mo> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <mn>2</mn> </mrow> </mrow> </mrow> </mtd> <mtd> <mrow> <mtext> because </mtext> <mo>⁢</mo> <msup> <mn>2</mn> <mn>𝟑</mn> </msup> </mrow> </mtd> <mtd> <mrow> <mo>=</mo> <mfrac> <msup> <mn>2</mn> <mn>𝟒</mn> </msup> <msup> <mn>2</mn> <mn>𝟏</mn> </msup> </mfrac> </mrow> </mtd> </mtr> <mtr> <mtd> <mn>𝟑</mn> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mn>𝟒</mn> <mo>-</mo> <mn>𝟏</mn> </mrow> </mrow> </mtd> <mtd> <mn>8</mn> </mtd> <mtd> <mrow> <mo>=</mo> <mfrac> <mn>16</mn> <mn>2</mn> </mfrac> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <mn>64</mn> </mrow> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <msup> <mrow> <mo>(</mo> <mn>4</mn> <mo>)</mo> </mrow> <mn>3</mn> </msup> </mrow> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <mn>4</mn> </mrow> </mrow> </mrow> </mtd> <mtd> <mrow> <mtext> because </mtext> <mo>⁢</mo> <msup> <mrow> <mo>(</mo> <msup> <mn>2</mn> <mn>𝟐</mn> </msup> <mo>)</mo> </mrow> <mn>𝟑</mn> </msup> </mrow> </mtd> <mtd> <mrow> <mo>=</mo> <msup> <mn>2</mn> <mn>𝟔</mn> </msup> </mrow> </mtd> </mtr> <mtr> <mtd> <mn>𝟔</mn> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mn>𝟑</mn> <mo>⋅</mo> <mn>𝟐</mn> </mrow> </mrow> </mtd> <mtd> <msup> <mrow> <mo>(</mo> <mn>4</mn> <mo>)</mo> </mrow> <mn>𝟑</mn> </msup> </mtd> <mtd> <mrow> <mo>=</mo> <mn>64</mn> </mrow> </mtd> </mtr> </mtable> </math>
@@ -3480,7 +3380,6 @@
 <math> <mrow> <mrow> <mi>log</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <msup> <mi>t</mi> <mn>2</mn> </msup> <mo>-</mo> <mn>16</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mo>-</mo> <mrow> <mi>log</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mi>t</mi> <mo>+</mo> <mn>4</mn> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>log</mi> <mo>⁡</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>log</mi> <mo>⁡</mo> <msup> <mi>x</mi> <mn>3</mn> </msup> </mrow> <mo>-</mo> <mrow> <mn>5</mn> <mo>⁢</mo> <mrow> <mi>log</mi> <mo>⁡</mo> <mi>x</mi> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>log</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>-</mo> <mi>x</mi> </mrow> <mo>)</mo> </mrow> </mrow> <mo>-</mo> <mrow> <mi>log</mi> <mo>⁡</mo> <msqrt> <msup> <mi>x</mi> <mn>3</mn> </msup> </msqrt> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <msub> <mi>log</mi> <mn>5</mn> </msub> <mo>⁡</mo> <mi>y</mi> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mn>625</mn> </mrow> <mo>=</mo> <mn>4</mn> </mrow> </math>
 <math> <mrow> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mn>10</mn> </mrow> <mo>=</mo> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <msub> <mi>log</mi> <mn>5</mn> </msub> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mn>9</mn> <mo>-</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mn>3</mn> </mrow> </math>
@@ -3621,7 +3520,6 @@
 <math> <msup> <mi>𝒏</mi> <mtext>th</mtext> </msup> </math>
 <math> <mrow> <mrow> <msup> <mi>s</mi> <mn>2</mn> </msup> <mo>=</mo> <mi>b</mi> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <msup> <mi>s</mi> <mn>3</mn> </msup> <mo>=</mo> <mi>b</mi> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mrow> <msup> <mi>s</mi> <mi>n</mi> </msup> <mo>=</mo> <mi>b</mi> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mroot> <mi>b</mi> <mi>n</mi> </mroot> </math>
 <math> <mrow> <mroot> <mn>81</mn> <mn>4</mn> </mroot> <mo>=</mo> <mn>3</mn> </mrow> </math>
 <math> <mrow> <msup> <mn>3</mn> <mn>4</mn> </msup> <mo>=</mo> <mn>81</mn> </mrow> </math>
@@ -3649,7 +3547,6 @@
 <math> <msup> <mn>8</mn> <mrow> <mn>1</mn> <mo>/</mo> <mn>3</mn> </mrow> </msup> </math>
 <math> <mrow> <mn>8</mn> <mo>,</mo> </mrow> </math>
 <math> <mrow> <msup> <mrow> <mo>(</mo> <msup> <mn>8</mn> <mrow> <mn>1</mn> <mo>/</mo> <mn>3</mn> </mrow> </msup> <mo>)</mo> </mrow> <mn>3</mn> </msup> <mo>=</mo> <msup> <mn>8</mn> <mrow> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>/</mo> <mn>3</mn> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mn>3</mn> <mo>)</mo> </mrow> </mrow> </msup> <mo>=</mo> <msup> <mn>8</mn> <mn>1</mn> </msup> <mo>=</mo> <mn>8</mn> </mrow> </math>
-<math> <mrow> <msup> <mi>a</mi> <mrow> <mn>1</mn> <mo>/</mo> <mi>n</mi> </mrow> </msup> <mo>=</mo> <mroot> <mi>a</mi> <mi>n</mi> </mroot> </mrow> </math>
 <math> <mrow> <msup> <mn>81</mn> <mrow> <mn>1</mn> <mo>/</mo> <mn>4</mn> </mrow> </msup> <mo>=</mo> <mroot> <mn>81</mn> <mn>4</mn> </mroot> <mo>=</mo> <mn>3</mn> </mrow> </math>
 <math> <mrow> <msup> <mn>125</mn> <mrow> <mn>1</mn> <mo>/</mo> <mn>3</mn> </mrow> </msup> <mo>=</mo> <mroot> <mn>125</mn> <mn>3</mn> </mroot> <mo>=</mo> <mn>5</mn> </mrow> </math>
 <math> <mrow> <msup> <mn>25</mn> <mrow> <mn>1</mn> <mo>/</mo> <mn>2</mn> </mrow> </msup> <mo>≠</mo> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>⁢</mo> <mrow> <mo>(</mo> <mn>25</mn> <mo>)</mo> </mrow> <mo>⁢</mo> <mtext> and </mtext> <mo>⁢</mo> <msup> <mn>125</mn> <mrow> <mn>1</mn> <mo>/</mo> <mn>3</mn> </mrow> </msup> </mrow> <mo>≠</mo> <mrow> <mfrac> <mn>1</mn> <mn>3</mn> </mfrac> <mo>⁢</mo> <mrow> <mo>(</mo> <mn>125</mn> <mo>)</mo> </mrow> </mrow> </mrow> </math>
@@ -3670,7 +3567,6 @@
 <math> <mrow> <mo>(</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>)</mo> </mrow> </math>
 <math> <mrow> <mn>2</mn> <mo>⁢</mo> <msup> <mi>y</mi> <mrow> <mn>1</mn> <mo>/</mo> <mn>4</mn> </mrow> </msup> </mrow> </math>
 <math> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mroot> <mi>y</mi> <mn>4</mn> </mroot> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <msup> <mn>5</mn> <mrow> <mn>1</mn> <mo>/</mo> <mn>2</mn> </mrow> </msup> <mo>=</mo> <msqrt> <mn>5</mn> </msqrt> </mrow> </math>
 <math> <mrow> <msup> <mi>x</mi> <mn>0.2</mn> </msup> <mo>=</mo> <mroot> <mi>x</mi> <mn>5</mn> </mroot> </mrow> </math>
 <math> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mrow> <mn>1</mn> <mo>/</mo> <mn>3</mn> </mrow> </msup> </mrow> <mo>=</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mroot> <mi>x</mi> <mn>3</mn> </mroot> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mn>8</mn> <mo>⁢</mo> <msup> <mi>a</mi> <mrow> <mrow> <mo>-</mo> <mn>1</mn> </mrow> <mo>/</mo> <mn>4</mn> </mrow> </msup> </mrow> <mo>=</mo> <mfrac> <mn>8</mn> <mroot> <mi>a</mi> <mn>4</mn> </mroot> </mfrac> </mrow> </math>
@@ -3685,7 +3581,6 @@
 <math> <mrow> <mn>4</mn> <mo>×</mo> <msup> <mn>10</mn> <mn>26</mn> </msup> </mrow> </math>
 <math> <mrow> <mn>2</mn> <mo>×</mo> <msup> <mn>10</mn> <mn>30</mn> </msup> </mrow> </math>
 <math> <mrow> <mi>D</mi> <mo>=</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>w</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>k</mi> <mo>⁢</mo> <msup> <mi>w</mi> <mrow> <mn>1</mn> <mo>/</mo> <mn>3</mn> </mrow> </msup> </mrow> </mrow> </math>
-<math> <mi>D</mi> </math>
 <math> <mrow> <mrow> <mi>D</mi> <mo>=</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>w</mi> <mo>)</mo> </mrow> </mrow> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>w</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mn>6.4</mn> <mo>⁢</mo> <msup> <mi>w</mi> <mrow> <mn>1</mn> <mo>/</mo> <mn>3</mn> </mrow> </msup> <mo>⁢</mo> <mtext> or </mtext> <mo>⁢</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>w</mi> <mo>)</mo> </mrow> </mrow> </mrow> <mo>=</mo> <mrow> <mn>6.4</mn> <mo>⁢</mo> <msup> <mi>w</mi> <mrow> <mn>0.3</mn> <mo>⁢</mo> <mover> <mn>3</mn> <mo>¯</mo> </mover> </mrow> </msup> <mo>⁢</mo> <mtext> or</mtext> <mo>⁢</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>w</mi> <mo>)</mo> </mrow> </mrow> </mrow> <mo>=</mo> <mrow> <mn>6.4</mn> <mo>⁢</mo> <mroot> <mi>w</mi> <mn>3</mn> </mroot> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mn>5</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mrow> <mn>1</mn> <mo>/</mo> <mn>3</mn> </mrow> </msup> </mrow> <mo>=</mo> <mn>32</mn> </mrow> </math>
@@ -3720,7 +3615,6 @@
 <math> <mroot> <mn>100,000</mn> <mn>5</mn> </mroot> </math>
 <math> <mroot> <mn>1296</mn> <mn>4</mn> </mroot> </math>
 <math> <mroot> <mn>343</mn> <mn>3</mn> </mroot> </math>
-<math> <msup> <mn>9</mn> <mrow> <mn>1</mn> <mo>/</mo> <mn>2</mn> </mrow> </msup> </math>
 <math> <msup> <mn>81</mn> <mrow> <mn>1</mn> <mo>/</mo> <mn>4</mn> </mrow> </msup> </math>
 <math> <msup> <mn>64</mn> <mrow> <mn>1</mn> <mo>/</mo> <mn>6</mn> </mrow> </msup> </math>
 <math> <msup> <mn>32</mn> <mn>0.2</mn> </msup> </math>
@@ -3780,7 +3674,6 @@
 <math> <mrow> <mi>R</mi> <mo>=</mo> <mroot> <mfrac> <mrow> <mn>8</mn> <mo>⁢</mo> <mi>L</mi> <mo>⁢</mo> <mi>v</mi> <mo>⁢</mo> <mi>f</mi> </mrow> <mrow> <mi>π</mi> <mo>⁢</mo> <mi>p</mi> </mrow> </mfrac> <mn>4</mn> </mroot> </mrow> </math>
 <math> <mrow> <mi>T</mi> <mo>=</mo> <mroot> <mfrac> <mi>E</mi> <mrow> <mi>S</mi> <mo>⁣</mo> <mi>A</mi> </mrow> </mfrac> <mn>4</mn> </mroot> </mrow> </math>
 <math> <mrow> <mi>r</mi> <mo>=</mo> <mroot> <mfrac> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>V</mi> </mrow> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>π</mi> </mrow> </mfrac> <mn>3</mn> </mroot> </mrow> </math>
-<math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </math>
 <math> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mi>x</mi> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </msup> </mrow> </math>
 <math> <mrow> <mrow> <mi>h</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mi>x</mi> <mrow> <mn>1</mn> <mo>/</mo> <mn>2</mn> </mrow> </msup> </mrow> </math>
 <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mi>x</mi> <mrow> <mrow> <mo>-</mo> <mn>1</mn> </mrow> <mo>/</mo> <mn>2</mn> </mrow> </msup> </mrow> </math>
@@ -3867,21 +3760,15 @@
 <math> <mrow> <mfrac> <mrow> <mi>log</mi> <mo>⁡</mo> <mi>a</mi> </mrow> <mrow> <mi>log</mi> <mo>⁡</mo> <mi>b</mi> </mrow> </mfrac> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>M</mi> <mo>.</mo> </mrow> </math>
 <math> <mrow> <msup> <mn>10</mn> <mn>2</mn> </msup> <mo>,</mo> </mrow> </math>
-<math> <mn>8</mn> </math>
 <math> <mn>137</mn> </math>
-<math> <mn>0.2</mn> </math>
 <math> <mn>1,234,567</mn> </math>
 <math> <mn>97</mn> </math>
-<math> <mn>0.05</mn> </math>
 <math> <mn>1.83</mn> </math>
 <math> <mn>26,125</mn> </math>
 <math> <mrow> <mrow> <msub> <mi>log</mi> <mn>10</mn> </msub> <mo>⁡</mo> <mi>n</mi> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mn>3.6</mn> </math>
-<math> <mn>0.7</mn> </math>
 <math> <mrow> <mo>-</mo> <mn>3.1</mn> </mrow> </math>
 <math> <mrow> <mo>-</mo> <mn>0.4</mn> </mrow> </math>
-<math> <mn>1.5</mn> </math>
-<math> <mn>5.2</mn> </math>
 <math> <mn>0.18</mn> </math>
 <math> <mrow> <mo>-</mo> <mn>2.5</mn> </mrow> </math>
 <math> <mn>0.075</mn> </math>
@@ -3928,7 +3815,6 @@
 <math> <mrow> <mrow> <mi>g</mi> <mo>=</mo> <mrow> <mn>20</mn> <mo>-</mo> <mrow> <mfrac> <mn>1</mn> <mn>12</mn> </mfrac> <mo>⁢</mo> <mi>d</mi> </mrow> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mi>C</mi> <mo>=</mo> <mn>5</mn> <mo>+</mo> <mn>3</mn> <mi>t</mi> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mtext> can be written equivalently as </mtext> </mtd> <mtd> <mrow> <mo>-</mo> <mn>3</mn> <mi>t</mi> <mo>+</mo> <mi>C</mi> <mo>=</mo> <mn>5</mn> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mtable> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mi>g</mi> <mo>=</mo> <mrow> <mn>20</mn> <mo>-</mo> <mrow> <mfrac> <mn>1</mn> <mn>12</mn> </mfrac> <mo>⁢</mo> <mi>d</mi> </mrow> </mrow> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mtext> can be written as </mtext> </mtd> <mtd> <mrow> <mrow> <mrow> <mfrac> <mn>1</mn> <mn>12</mn> </mfrac> <mo>⁢</mo> <mi>d</mi> </mrow> <mo>+</mo> <mi>g</mi> </mrow> <mo>=</mo> <mn>20</mn> </mrow> </mtd> </mtr> </mtable> </math>
-<math> <mtable> <mtr> <mtd> <mrow> <mi>A</mi> <mi>x</mi> <mo>+</mo> <mi>B</mi> <mi>y</mi> <mo>=</mo> <mi>C</mi> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mrow> <mrow> <mrow> <mn>150</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mrow> <mn>50</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>3000</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mo>(</mo> <mtext>starting value</mtext> <mo>)</mo> </mrow> <mo>+</mo> <mrow> <mrow> <mo>(</mo> <mtext>rate</mtext> <mo>)</mo> </mrow> <mo>×</mo> <mi>t</mi> </mrow> </mrow> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mrow> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>6</mn> </mrow> </math>
@@ -3953,23 +3839,12 @@
 <math> <mrow> <mrow> <mo>(</mo> <mrow> <mi>v</mi> <mo>,</mo> <mn>0</mn> </mrow> <mo>)</mo> </mrow> <mo>,</mo> <mrow> <mo>(</mo> <mrow> <mn>0</mn> <mo>,</mo> <mrow> <mo>-</mo> <mi>w</mi> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mo>(</mo> <mrow> <mfrac> <mn>1</mn> <mi>H</mi> </mfrac> <mo>,</mo> <mn>0</mn> </mrow> <mo>)</mo> </mrow> <mo>,</mo> <mrow> <mo>(</mo> <mrow> <mn>0</mn> <mo>,</mo> <mfrac> <mn>1</mn> <mi>T</mi> </mfrac> </mrow> <mo>)</mo> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mi>m</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mi>b</mi> </mrow> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mrow> <mrow> <mrow> <mi>A</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mrow> <mi>B</mi> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mi>C</mi> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mo>(</mo> <mtext>starting value</mtext> <mo>)</mo> </mrow> <mo>+</mo> <mrow> <mrow> <mo>(</mo> <mtext>rate</mtext> <mo>)</mo> </mrow> <mo>×</mo> <mi>x</mi> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mfrac> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mn>3</mn> </mfrac> <mo>+</mo> <mfrac> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>y</mi> </mrow> <mn>11</mn> </mfrac> </mrow> <mo>=</mo> <mn>1</mn> </mrow> </math>
 <math> <mrow> <mrow> <mfrac> <mrow> <mn>8</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mn>7</mn> </mfrac> <mo>+</mo> <mfrac> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>y</mi> </mrow> <mn>7</mn> </mfrac> </mrow> <mo>=</mo> <mn>1</mn> </mrow> </math>
 <math> <mrow> <mrow> <mn>0.4</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>=</mo> <mrow> <mn>4.8</mn> <mo>-</mo> <mrow> <mn>1.2</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mo>-</mo> <mn>0.8</mn> </mrow> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>=</mo> <mrow> <mn>12.8</mn> <mo>-</mo> <mrow> <mn>3.2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mo>-</mo> <mn>400</mn> </mrow> </math>
-<math> <mn>0</mn> </math>
-<math> <mn>5</mn> </math>
-<math> <mn>10</mn> </math>
-<math> <mn>15</mn> </math>
-<math> <mn>20</mn> </math>
-<math> <mi>t</mi> </math>
-<math> <mi>h</mi> </math>
-<math> <mn>50</mn> </math>
-<math> <mi>x</mi> </math>
-<math> <mi>y</mi> </math>
 <math> <mrow> <mo>(</mo> <mrow> <mn>288</mn> <mo>,</mo> <mn>100</mn> </mrow> <mo>)</mo> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mi>y</mi> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mrow> <mo>(</mo> <mtext>starting value</mtext> <mo>)</mo> </mrow> <mo>+</mo> <mrow> <mrow> <mo>(</mo> <mtext>rate</mtext> <mo>)</mo> </mrow> <mo>⋅</mo> <mi>x</mi> </mrow> </mrow> </mrow> </mtd> </mtr> <mtr> <mtd> <mi>y</mi> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mi>b</mi> <mo>+</mo> <mrow> <mi>m</mi> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mi>𝒚</mi> </math>
@@ -4013,10 +3888,8 @@
 <math> <mrow> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>1</mn> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mrow> <mfrac> <mn>3</mn> <mn>2</mn> </mfrac> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>3</mn> </mrow> </math>
 <math> <mrow> <mrow> <mn>4.2</mn> <mo>-</mo> <mrow> <mn>0.3</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>6.6</mn> </mrow> </math>
-<math> <mrow> <mrow> <mrow> <mn>5</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>0</mn> </mrow> </math>
 <math> <mrow> <mi>m</mi> <mo>=</mo> <mfrac> <mrow> <mo>-</mo> <mn>5</mn> </mrow> <mn>3</mn> </mfrac> </mrow> </math>
 <math> <mrow> <mi>b</mi> <mo>=</mo> <mrow> <mo>-</mo> <mn>6</mn> </mrow> </mrow> </math>
-<math> <mrow> <mi>m</mi> <mo>=</mo> <mfrac> <mn>3</mn> <mn>4</mn> </mfrac> </mrow> </math>
 <math> <mrow> <mi>b</mi> <mo>=</mo> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>m</mi> <mo>&lt;</mo> <mn>0</mn> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mi>b</mi> <mo>&gt;</mo> <mn>0</mn> </mrow> </math>
@@ -4140,8 +4013,6 @@
 <math> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mn>0.04</mn> <mo>)</mo> </mrow> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>r</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mn>874.80</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>F</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mfrac> <mrow> <mn>1</mn> <mo>-</mo> <mi>x</mi> </mrow> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mn>3</mn> </mrow> </mfrac> </mrow> </math>
-<math> <mrow> <mi>F</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mn>0</mn> <mo>)</mo> </mrow> </mrow> </math>
-<math> <mrow> <mi>F</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mo>-</mo> <mn>3</mn> </mrow> <mo>)</mo> </mrow> </mrow> </math>
 <math> <mrow> <mi>F</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mfrac> <mn>5</mn> <mn>2</mn> </mfrac> <mo>)</mo> </mrow> </mrow> </math>
 <math> <mrow> <mi>F</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mn>9.8</mn> <mo>)</mo> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>E</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msqrt> <mrow> <mi>t</mi> <mo>-</mo> <mn>4</mn> </mrow> </msqrt> </mrow> </math>
@@ -4157,7 +4028,6 @@
 <math> <mn>33.3</mn> </math>
 <math> <mn>15.0</mn> </math>
 <math> <mn>7.5</mn> </math>
-<math> <msup> <mn>34</mn> <mo>°</mo> </msup> </math>
 <math> <mrow> <mn>42</mn> <mo>%</mo> </mrow> </math>
 <math> <msup> <mn>36</mn> <mo>°</mo> </msup> </math>
 <math> <mrow> <mn>44</mn> <mo>%</mo> </mrow> </math>
@@ -4181,7 +4051,6 @@
 <math> <mrow> <mn>5.8</mn> <mo>%</mo> </mrow> </math>
 <math> <mrow> <mn>6.7</mn> <mo>%</mo> </mrow> </math>
 <math> <mrow> <mn>6.8</mn> <mo>%</mo> </mrow> </math>
-<math> <mrow> <mn>6.7</mn> <mo>%</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>v</mi> <mo>=</mo> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>p</mi> <mo>)</mo> </mrow> </mrow> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mn>25</mn> <mo>)</mo> </mrow> </mrow> </math>
 <math> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mn>40</mn> <mo>)</mo> </mrow> </mrow> </math>
@@ -4270,15 +4139,12 @@
 <math> <mn>34.9</mn> </math>
 <math> <mrow> <mi>b</mi> <mo>≠</mo> <mn>0</mn> </mrow> </math>
 <math> <mrow> <mrow> <mi>d</mi> <mo>≠</mo> <mn>0</mn> </mrow> <mo>,</mo> </mrow> </math>
-<math> <mrow> <mrow> <mfrac> <mi>a</mi> <mi>b</mi> </mfrac> <mo>⋅</mo> <mfrac> <mi>c</mi> <mi>d</mi> </mfrac> </mrow> <mo>=</mo> <mfrac> <mrow> <mi>a</mi> <mo>⁢</mo> <mi>c</mi> </mrow> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>d</mi> </mrow> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mfrac> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>a</mi> </mrow> <mn>4</mn> </mfrac> <mo>⋅</mo> <mfrac> <mn>5</mn> <mrow> <mn>6</mn> <mo>⁢</mo> <msup> <mi>a</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> <mo>=</mo> <mrow> <mfrac> <mrow> <menclose notation="updiagonalstrike"> <mn>3</mn> </menclose> <mo>⋅</mo> <menclose notation="updiagonalstrike"> <mi>a</mi> </menclose> </mrow> <mn>4</mn> </mfrac> <mo>⋅</mo> <mfrac> <mn>5</mn> <mrow> <menclose notation="updiagonalstrike"> <mn>3</mn> </menclose> <mo>⋅</mo> <mn>2</mn> <mo>⋅</mo> <menclose notation="updiagonalstrike"> <mi>a</mi> </menclose> <mo>⋅</mo> <mi>a</mi> </mrow> </mfrac> </mrow> <mo>=</mo> <mfrac> <mn>5</mn> <mrow> <mn>8</mn> <mo>⁢</mo> <mi>a</mi> </mrow> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mfrac> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>a</mi> </mrow> <mn>4</mn> </mfrac> <mo>⋅</mo> <mfrac> <mn>5</mn> <mrow> <mn>6</mn> <mo>⁢</mo> <msup> <mi>a</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> <mo>=</mo> <mfrac> <mrow> <mn>15</mn> <mo>⁢</mo> <mi>a</mi> </mrow> <mrow> <mn>24</mn> <mo>⁢</mo> <msup> <mi>a</mi> <mn>2</mn> </msup> </mrow> </mfrac> <mo>=</mo> <mfrac> <mrow> <menclose notation="updiagonalstrike"> <mn>3</mn> </menclose> <mo>⋅</mo> <mn>5</mn> <mo>⋅</mo> <menclose notation="updiagonalstrike"> <mi>a</mi> </menclose> </mrow> <mrow> <menclose notation="updiagonalstrike"> <mn>3</mn> </menclose> <mo>⋅</mo> <mn>8</mn> <mo>⋅</mo> <menclose notation="updiagonalstrike"> <mi>a</mi> </menclose> <mo>⋅</mo> <mi>a</mi> </mrow> </mfrac> <mo>=</mo> <mfrac> <mn>5</mn> <mrow> <mn>8</mn> <mo>⁢</mo> <mi>a</mi> </mrow> </mfrac> </mrow> </math>
 <math> <mrow> <mfrac> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mn>4</mn> </mrow> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mn>6</mn> </mrow> </mfrac> <mo>⋅</mo> <mfrac> <mrow> <mrow> <mn>6</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mn>9</mn> </mrow> <mrow> <mi>x</mi> <mo>-</mo> <mn>2</mn> </mrow> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mfrac> <mn>2</mn> <mn>3</mn> </mfrac> <mo>⋅</mo> <mn>𝟒</mn> </mrow> <mo>=</mo> <mrow> <mfrac> <mn>2</mn> <mn>3</mn> </mfrac> <mo>⋅</mo> <mfrac> <mn>𝟒</mn> <mn>𝟏</mn> </mfrac> </mrow> <mo>=</mo> <mfrac> <mn>8</mn> <mn>3</mn> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>𝟔</mn> <mo>⁢</mo> <mi>𝒙</mi> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mfrac> <mn>2</mn> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>-</mo> <mi>x</mi> </mrow> </mfrac> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mfrac> <mrow> <mn>𝟔</mn> <mo>⁢</mo> <mi>𝒙</mi> </mrow> <mn>𝟏</mn> </mfrac> <mo>⋅</mo> <mfrac> <mn>2</mn> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>-</mo> <mi>x</mi> </mrow> </mfrac> </mrow> <mo>=</mo> <mrow> <mfrac> <mrow> <mn>6</mn> <mo>⁢</mo> <menclose notation="updiagonalstrike"> <mi>x</mi> </menclose> </mrow> <mn>1</mn> </mfrac> <mo>⋅</mo> <mfrac> <mn>2</mn> <mrow> <menclose notation="updiagonalstrike"> <mi>x</mi> </menclose> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> </mfrac> </mrow> <mo>=</mo> <mfrac> <mn>12</mn> <mrow> <mi>x</mi> <mo>-</mo> <mn>1</mn> </mrow> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mfrac> <mi>m</mi> <mn>2</mn> </mfrac> <mo>÷</mo> <mfrac> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>p</mi> </mrow> <mn>3</mn> </mfrac> </mrow> <mo>=</mo> <mrow> <mfrac> <mi>m</mi> <mn>2</mn> </mfrac> <mo>⋅</mo> <mfrac> <mn>3</mn> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>p</mi> </mrow> </mfrac> </mrow> <mo>=</mo> <mfrac> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>m</mi> </mrow> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>p</mi> </mrow> </mfrac> </mrow> </math>
-<math> <mrow> <mi>b</mi> <mo>,</mo> <mi>c</mi> <mo>,</mo> <mrow> <mi>d</mi> <mo>≠</mo> <mn>0</mn> </mrow> <mo>,</mo> </mrow> </math>
-<math> <mrow> <mrow> <mfrac> <mi>a</mi> <mi>b</mi> </mfrac> <mo>÷</mo> <mfrac> <mi>c</mi> <mi>d</mi> </mfrac> </mrow> <mo>=</mo> <mrow> <mfrac> <mi>a</mi> <mi>b</mi> </mfrac> <mo>⋅</mo> <mfrac> <mi>d</mi> <mi>c</mi> </mfrac> </mrow> </mrow> </math>
 <math> <mrow> <mfrac> <mrow> <mi>a</mi> <mo>-</mo> <mn>2</mn> </mrow> <mrow> <mn>6</mn> <mo>⁢</mo> <msup> <mi>a</mi> <mn>2</mn> </msup> </mrow> </mfrac> <mo>÷</mo> <mfrac> <mrow> <mn>4</mn> <mo>-</mo> <msup> <mi>a</mi> <mn>2</mn> </msup> </mrow> <mrow> <mrow> <mn>4</mn> <mo>⁢</mo> <msup> <mi>a</mi> <mn>2</mn> </msup> </mrow> <mo>-</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>a</mi> </mrow> </mrow> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mfrac> <mn>5</mn> <mn>8</mn> </mfrac> <mo>⁢</mo> <mtext>and</mtext> <mo>⁢</mo> <mfrac> <mn>9</mn> <mn>8</mn> </mfrac> </mrow> <mo>,</mo> <mrow> <mfrac> <mn>4</mn> <mrow> <mn>5</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mfrac> <mo>⁢</mo> <mtext>and</mtext> <mo>⁢</mo> <mfrac> <mn>3</mn> <mrow> <mn>5</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mfrac> </mrow> <mo>,</mo> <mrow> <mfrac> <mn>1</mn> <mrow> <mi>a</mi> <mo>-</mo> <mn>2</mn> </mrow> </mfrac> <mo>⁢</mo> <mtext>and</mtext> <mo>⁢</mo> <mfrac> <mi>a</mi> <mrow> <mi>a</mi> <mo>-</mo> <mn>2</mn> </mrow> </mfrac> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mfrac> <mn>2</mn> <mn>3</mn> </mfrac> <mo>⁢</mo> <mtext>and</mtext> <mo>⁢</mo> <mfrac> <mn>2</mn> <mn>5</mn> </mfrac> </mrow> <mo>,</mo> <mrow> <mfrac> <mn>5</mn> <mrow> <mi>x</mi> <mo>+</mo> <mn>1</mn> </mrow> </mfrac> <mo>⁢</mo> <mtext>and</mtext> <mo>⁢</mo> <mfrac> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mrow> <mi>x</mi> <mo>-</mo> <mn>1</mn> </mrow> </mfrac> </mrow> </mrow> </math>
@@ -4405,41 +4271,29 @@
 <math> <mrow> <mfrac> <mrow> <mn>1</mn> <mo>+</mo> <mn>3</mn> </mrow> <mn>2</mn> </mfrac> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mfrac> <mn>1</mn> <mrow> <mn>2</mn> <mo>⋅</mo> <mn>3</mn> </mrow> </mfrac> <mo>.</mo> </mrow> </math>
-<math> <mn>1</mn> </math>
 <math> <mfrac> <mn>1</mn> <mn>6</mn> </mfrac> </math>
 <math> <mo>≈</mo> </math>
 <math> <mn>0.1666666666667</mn> </math>
 <math> <mrow> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>⋅</mo> <mn>3</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <msup> <mn>57</mn> <mn>2</mn> </msup> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mn>57</mn> <mo>,</mo> </mrow> </math>
-<math> <mn>2</mn> </math>
 <math> <mn>3249</mn> </math>
 <math> <mrow> <msup> <mn>2</mn> <mn>10</mn> </msup> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mn>2</mn> <mo>,</mo> </mrow> </math>
 <math> <mn>1024</mn> </math>
 <math> <mrow> <msup> <mn>10</mn> <mn>7</mn> </msup> <mo>,</mo> </mrow> </math>
-<math> <mrow> <mn>8</mn> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mfrac> <msup> <mn>8</mn> <mn>2</mn> </msup> <mn>3</mn> </mfrac> <mo>.</mo> </mrow> </math>
 <math> <mfrac> <mn>64</mn> <mn>3</mn> </mfrac> </math>
 <math> <mrow> <msqrt> <mn>2</mn> </msqrt> <mo>.</mo> </mrow> </math>
-<math> <mn>2</mn> </math>
 <math> <mn>1.414213562</mn> </math>
 <math> <mrow> <msqrt> <mrow> <mn>9</mn> <mo>+</mo> <mn>16</mn> </mrow> </msqrt> <mo>,</mo> </mrow> </math>
 <math> <mrow> <msqrt> <mrow> <mn>9</mn> <mo>+</mo> <mn>16</mn> </mrow> </msqrt> <mo>.</mo> </mrow> </math>
-<math> <mn>9</mn> </math>
-<math> <mn>16</mn> </math>
 <math> <mrow> <mrow> <msqrt> <mn>9</mn> </msqrt> <mo>+</mo> <mn>16</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mroot> <mn>1728</mn> <mn>3</mn> </mroot> <mo>.</mo> </mrow> </math>
 <math> <mn>1728</mn> </math>
 <math> <mrow> <mroot> <mrow> <mn>2</mn> <mo>⋅</mo> <mn>512</mn> </mrow> <mn>10</mn> </mroot> <mo>.</mo> </mrow> </math>
-<math> <mn>10</mn> </math>
 <math> <mn>512</mn> </math>
 <math> <mrow> <mrow> <mo>|</mo> <mrow> <mrow> <mn>21</mn> <mo>⋅</mo> <mn>54</mn> </mrow> <mo>-</mo> <mn>81</mn> </mrow> <mo>|</mo> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mfrac> <mrow> <mo>|</mo> <mrow> <mrow> <mn>21</mn> <mo>⋅</mo> <mn>54</mn> </mrow> <mo>-</mo> <mn>81</mn> </mrow> <mo>|</mo> </mrow> <mrow> <mo>-</mo> <mn>9</mn> </mrow> </mfrac> <mo>.</mo> </mrow> </math>
-<math> <mn>21</mn> </math>
-<math> <mn>54</mn> </math>
-<math> <mn>81</mn> </math>
-<math> <mrow> <mo>-</mo> <mn>9</mn> </mrow> </math>
 <math> <mrow> <mo>-</mo> <mn>117</mn> </mrow> </math>
 <math> <mrow> <mrow> <mn>123</mn> <mo>,</mo> <mn>456</mn> <mo>,</mo> <msup> <mn>789</mn> <mn>2</mn> </msup> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mn>123456789</mn> </math>
@@ -4457,14 +4311,8 @@
 <math> <mn>25,000</mn> </math>
 <math> <mrow> <mo>=</mo> <munder> <mtext width="7.272727272727272em"> </mtext> <mo>¯</mo> </munder> </mrow> </math>
 <math> <munder> <mtext width="2.727272727272727em"> </mtext> <mo>¯</mo> </munder> </math>
-<math> <mtable> <mtr> <mtd> <mrow> <mi>y</mi> <mo>=</mo> <mi>b</mi> </mrow> </mtd> </mtr> </mtable> </math>
-<math> <mtable> <mtr> <mtd> <mrow> <mi>x</mi> <mo>=</mo> <mi>a</mi> </mrow> </mtd> </mtr> </mtable> </math>
-<math> <mtable> <mtr> <mtd> <mrow> <msub> <mi>m</mi> <mn>1</mn> </msub> <mo>=</mo> <msub> <mi>m</mi> <mn>2</mn> </msub> </mrow> </mtd> </mtr> </mtable> </math>
-<math> <mtable> <mtr> <mtd> <mrow> <mrow> <msub> <mi>m</mi> <mn>1</mn> </msub> <mo>⁢</mo> <msub> <mi>m</mi> <mn>2</mn> </msub> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </mrow> </mtd> </mtr> </mtable> </math>
-<math> <mtable> <mtr> <mtd> <mrow> <mi>d</mi> <mo>=</mo> <msqrt> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <msub> <mi>x</mi> <mn>2</mn> </msub> <mo>-</mo> <msub> <mi>x</mi> <mn>1</mn> </msub> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>+</mo> <msup> <mrow> <mo>(</mo> <mrow> <msub> <mi>y</mi> <mn>2</mn> </msub> <mo>-</mo> <msub> <mi>y</mi> <mn>1</mn> </msub> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> </msqrt> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mi>M</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mover> <mi>x</mi> <mo>¯</mo> </mover> <mo>,</mo> <mover> <mi>y</mi> <mo>¯</mo> </mover> </mrow> <mo>)</mo> </mrow> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <mover> <mi>x</mi> <mo>¯</mo> </mover> <mo>=</mo> <mrow> <mfrac> <mrow> <msub> <mi>x</mi> <mn>1</mn> </msub> <mo>+</mo> <msub> <mi>x</mi> <mn>2</mn> </msub> </mrow> <mn>2</mn> </mfrac> <mo>⁢</mo> <mtext> and </mtext> <mo>⁢</mo> <mover> <mi>y</mi> <mo>¯</mo> </mover> </mrow> <mo>=</mo> <mfrac> <mrow> <msub> <mi>y</mi> <mn>1</mn> </msub> <mo>+</mo> <msub> <mi>y</mi> <mn>2</mn> </msub> </mrow> <mn>2</mn> </mfrac> </mrow> </mtd> </mtr> </mtable> </math>
-<math> <mtable> <mtr> <mtd> <mrow> <mrow> <mfrac> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mi>h</mi> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <msup> <mi>a</mi> <mn>2</mn> </msup> </mfrac> <mo>+</mo> <mfrac> <msup> <mrow> <mo>(</mo> <mrow> <mi>y</mi> <mo>-</mo> <mi>k</mi> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <msup> <mi>b</mi> <mn>2</mn> </msup> </mfrac> </mrow> <mo>=</mo> <mn>1</mn> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <mrow> <mfrac> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mi>h</mi> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <msup> <mi>a</mi> <mn>2</mn> </msup> </mfrac> <mo>-</mo> <mfrac> <msup> <mrow> <mo>(</mo> <mrow> <mi>y</mi> <mo>-</mo> <mi>k</mi> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <msup> <mi>b</mi> <mn>2</mn> </msup> </mfrac> </mrow> <mo>=</mo> <mn>1</mn> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <mrow> <mfrac> <msup> <mrow> <mo>(</mo> <mrow> <mi>y</mi> <mo>-</mo> <mi>k</mi> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <msup> <mi>b</mi> <mn>2</mn> </msup> </mfrac> <mo>-</mo> <mfrac> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mi>h</mi> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <msup> <mi>a</mi> <mn>2</mn> </msup> </mfrac> </mrow> <mo>=</mo> <mn>1</mn> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mrow> <mrow> <mi>A</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>C</mi> <mo>⁢</mo> <msup> <mi>y</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>D</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mrow> <mi>E</mi> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>+</mo> <mi>F</mi> </mrow> <mo>=</mo> <mn>0</mn> </mrow> </math>
@@ -4478,7 +4326,6 @@
 <math> <mrow> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>6</mn> </mrow> </math>
 <math> <mrow> <mi>A</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mn>3</mn> <mo>,</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>B</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mn>7</mn> <mo>,</mo> <mrow> <mo>-</mo> <mn>4</mn> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mover> <mrow> <mi>B</mi> <mo>⁣</mo> <mi>C</mi> </mrow> <mo>¯</mo> </mover> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>P</mi> <mo>⁣</mo> <mi>Q</mi> <mo>⁣</mo> <mi>R</mi> </mrow> </math>
 <math> <mrow> <mi>P</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mrow> <mo>-</mo> <mn>8</mn> </mrow> <mo>,</mo> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>Q</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mo>,</mo> <mrow> <mo>-</mo> <mn>5</mn> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> <mo>.</mo> </mrow> </math>
@@ -4492,7 +4339,6 @@
 <math> <mrow> <mrow> <mfrac> <msup> <mi>x</mi> <mn>2</mn> </msup> <mn>4</mn> </mfrac> <mo>+</mo> <mfrac> <msup> <mi>y</mi> <mn>2</mn> </msup> <mn>9</mn> </mfrac> </mrow> <mo>=</mo> <mn>1</mn> </mrow> </math>
 <math> <mrow> <mrow> <mfrac> <msup> <mi>y</mi> <mn>2</mn> </msup> <mn>6</mn> </mfrac> <mo>-</mo> <mfrac> <msup> <mi>x</mi> <mn>2</mn> </msup> <mn>8</mn> </mfrac> </mrow> <mo>=</mo> <mn>1</mn> </mrow> </math>
 <math> <mrow> <mrow> <mn>4</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>y</mi> <mo>-</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>+</mo> <mn>3</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> </math>
-<math> <mrow> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>+</mo> <msup> <mrow> <mo>(</mo> <mrow> <mi>y</mi> <mo>+</mo> <mn>3</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> <mo>=</mo> <mn>16</mn> </mrow> </math>
 <math> <mrow> <mrow> <mfrac> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mn>4</mn> </mfrac> <mo>+</mo> <mfrac> <msup> <mrow> <mo>(</mo> <mrow> <mi>y</mi> <mo>+</mo> <mn>3</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mn>9</mn> </mfrac> </mrow> <mo>=</mo> <mn>1</mn> </mrow> </math>
 <math> <mrow> <mrow> <mfrac> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>+</mo> <mn>4</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mn>12</mn> </mfrac> <mo>+</mo> <mfrac> <msup> <mrow> <mo>(</mo> <mrow> <mi>y</mi> <mo>-</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mn>6</mn> </mfrac> </mrow> <mo>=</mo> <mn>1</mn> </mrow> </math>
 <math> <mrow> <mrow> <msup> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> <mo>+</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>4</mn> </mrow> </math>
@@ -4560,12 +4406,10 @@
 <math> <mn>62</mn> </math>
 <math> <mrow> <mrow> <mi>N</mi> <mo>=</mo> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mi>c</mi> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>E</mi> <mo>=</mo> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>n</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>n</mi> </mrow> <mo>+</mo> <mi>c</mi> </mrow> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mn>81</mn> </math>
 <math> <mn>148</mn> </math>
 <math> <mn>210</mn> </math>
 <math> <mn>267</mn> </math>
 <math> <mn>94</mn> </math>
-<math> <mn>97</mn> </math>
 <math> <mn>00</mn> </math>
 <math> <mn>01</mn> </math>
 <math> <mn>02</mn> </math>
@@ -4594,16 +4438,13 @@
 <math> <mrow> <mi>x</mi> <mo>=</mo> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>⁢</mo> <mrow> <mo>[</mo> <mrow> <mn>0</mn> <mo>+</mo> <mrow> <mo>(</mo> <mrow> <mo>-</mo> <mn>4</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mo>]</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mi>y</mi> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <msup> <mrow> <mo>(</mo> <mrow> <mo>-</mo> <mn>𝟐</mn> </mrow> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mn>8</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mo>-</mo> <mn>𝟐</mn> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </mrow> </mtd> </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mn>8</mn> <mo>-</mo> <mn>16</mn> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>8</mn> </mrow> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mrow> <mo>(</mo> <mrow> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mo>,</mo> <mrow> <mo>-</mo> <mn>8</mn> </mrow> </mrow> <mo>)</mo> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mn>0</mn> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mtext>Factor.</mtext> </mtd> </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mi>x</mi> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mi>b</mi> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mtext>Set each factor equal to zero.</mtext> </mtd> </mtr> <mtr> <mtd> <mi>x</mi> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mrow> <mn>0</mn> <mo>⁢</mo> <mtext>or</mtext> <mo>⁢</mo> <mi>a</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mi>b</mi> </mrow> <mo>=</mo> <mn>0</mn> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mrow> <mtext>Solve for</mtext> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>.</mo> </mrow> </mtd> </mtr> <mtr> <mtd> <mi>x</mi> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mn>0</mn> <mo>⁢</mo> <mtext>or</mtext> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>=</mo> <mfrac> <mrow> <mo>-</mo> <mi>b</mi> </mrow> <mi>a</mi> </mfrac> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mo>(</mo> <mrow> <mn>0</mn> <mo>,</mo> <mn>0</mn> </mrow> <mo>)</mo> </mrow> </math>
 <math> <mrow> <mrow> <mo>(</mo> <mrow> <mfrac> <mrow> <mo>-</mo> <mi>b</mi> </mrow> <mi>a</mi> </mfrac> <mo>,</mo> <mn>0</mn> </mrow> <mo>)</mo> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>x</mi> <mo>=</mo> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>⁢</mo> <mrow> <mo>[</mo> <mrow> <mn>0</mn> <mo>+</mo> <mrow> <mo>(</mo> <mfrac> <mrow> <mo>-</mo> <mi>b</mi> </mrow> <mi>a</mi> </mfrac> <mo>)</mo> </mrow> </mrow> <mo>]</mo> </mrow> </mrow> <mo>=</mo> <mfrac> <mrow> <mo>-</mo> <mi>b</mi> </mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>a</mi> </mrow> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>b</mi> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </mrow> <mo>,</mo> </mrow> </math>
-<math> <mrow> <msub> <mi>x</mi> <mi>v</mi> </msub> <mo>=</mo> <mfrac> <mrow> <mo>-</mo> <mi>b</mi> </mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>a</mi> </mrow> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mrow> <mo>-</mo> <mn>1.8</mn> </mrow> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>-</mo> <mrow> <mn>16.2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>2</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>-</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mn>1</mn> </mrow> <mo>,</mo> </mrow> </math>
-<math> <mrow> <mi>x</mi> <mo>=</mo> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mn>3</mn> <mo>+</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mi>x</mi> <mo>=</mo> <mrow> <mo>-</mo> <mn>3</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>-</mo> <mn>15</mn> </mrow> <mo>=</mo> <mn>0</mn> </mrow> </math>
@@ -4621,8 +4462,6 @@
 <math> <mrow> <mrow> <mi>k</mi> <mo>&gt;</mo> <mn>0</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mi>k</mi> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mrow> <mi>k</mi> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </mrow> </math>
-<math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mi>k</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </math>
-<math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mi>k</mi> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mi>x</mi> <mo>+</mo> <mi>k</mi> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>-</mo> <mi>k</mi> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mo>-</mo> <mi>k</mi> </mrow> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </math>
@@ -4631,7 +4470,6 @@
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mi>x</mi> <mo>-</mo> <mi>k</mi> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mi>k</mi> <mo>-</mo> <mi>x</mi> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>-</mo> <mrow> <mi>k</mi> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </mrow> </math>
-<math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mo>-</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mn>2</mn> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>-</mo> <mn>9</mn> </mrow> </mrow> </math>
@@ -4647,14 +4485,11 @@
 <math> <mrow> <mi>d</mi> <mo>=</mo> <mrow> <mrow> <mi>v</mi> <mo>⁢</mo> <mi>T</mi> </mrow> <mo>+</mo> <mfrac> <msup> <mi>v</mi> <mn>2</mn> </msup> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>a</mi> </mrow> </mfrac> </mrow> </mrow> </math>
 <math> <mrow> <mi>T</mi> <mo>=</mo> <mn>0.5</mn> </mrow> </math>
 <math> <mrow> <mi>a</mi> <mo>=</mo> <mn>12</mn> </mrow> </math>
-<math> <mrow> <mi>y</mi> <mo>=</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </math>
-<math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mfrac> <mn>1</mn> <mn>4</mn> </mfrac> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mn>1</mn> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mn>3</mn> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>-</mo> <mn>6</mn> </mrow> </mrow> </math>
-<math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>-</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <mo>-</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>-</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </mrow> </math>
@@ -4667,13 +4502,11 @@
 <math> <mrow> <mrow> <mi>y</mi> <mo>=</mo> <mi>x</mi> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mfrac> <mrow> <mo>-</mo> <mn>1</mn> </mrow> <mn>2</mn> </mfrac> </math>
 <math> <mfrac> <mrow> <mo>-</mo> <mn>1</mn> </mrow> <mn>8</mn> </mfrac> </math>
-<math> <mfrac> <mn>1</mn> <mn>8</mn> </mfrac> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mroot> <mi>x</mi> <mn>3</mn> </mroot> <mo>⁢</mo> <mtext>if and only if</mtext> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>=</mo> <msup> <mi>y</mi> <mn>3</mn> </msup> </mrow> </math>
 <math> <mrow> <mrow> <mi>y</mi> <mo>=</mo> <msup> <mi>x</mi> <mn>3</mn> </msup> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>x</mi> <mo>=</mo> <msup> <mi>y</mi> <mn>3</mn> </msup> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>y</mi> <mo>=</mo> <mroot> <mi>x</mi> <mn>3</mn> </mroot> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mi>x</mi> </mrow> <mo>⁢</mo> <mtext>if and only if</mtext> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>=</mo> <msup> <mi>b</mi> <mi>y</mi> </msup> </mrow> </math>
-<math> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mi>x</mi> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <mi>x</mi> </mrow> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>x</mi> <mo>=</mo> <mrow> <mn>𝟑</mn> <mo>→</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mn>3</mn> <mo>)</mo> </mrow> </mrow> </mrow> <mo>=</mo> <msup> <mn>2</mn> <mn>3</mn> </msup> <mo>=</mo> <mrow> <mn>8</mn> <mo>→</mo> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mn>8</mn> <mo>)</mo> </mrow> </mrow> </mrow> <mo>=</mo> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <mn>8</mn> </mrow> <mo>=</mo> <mn>𝟑</mn> </mrow> </math>
 <math> <mrow> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <mrow> <mo>(</mo> <msup> <mn>2</mn> <mn>𝟑</mn> </msup> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mn>𝟑</mn> </mrow> </math>
@@ -4704,7 +4537,6 @@
 <math> <mrow> <mrow> <mrow> <mrow> <msub> <mi>log</mi> <mn>10</mn> </msub> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>+</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mo>+</mo> <mrow> <msub> <mi>log</mi> <mn>10</mn> </msub> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> <mo>=</mo> <mn>1</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <msub> <mi>log</mi> <mn>9</mn> </msub> <mo>⁡</mo> <mn>729</mn> </mrow> <mo>=</mo> <mi>y</mi> </mrow> </math>
 <math> <mrow> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mn>8</mn> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>3</mn> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <msub> <mi>log</mi> <mn>10</mn> </msub> <mo>⁡</mo> <mi>C</mi> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>4.5</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <msub> <mi>log</mi> <mi>m</mi> </msub> <mo>⁡</mo> <mi>n</mi> </mrow> <mo>=</mo> <mi>p</mi> </mrow> </math>
 <math> <mrow> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>⁢</mo> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mn>16</mn> </mrow> </mrow> <mo>+</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mn>2</mn> </mrow> <mo>-</mo> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mn>8</mn> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mrow> <msub> <mi>log</mi> <mn>5</mn> </msub> <mo>⁡</mo> <mn>6</mn> </mrow> <mo>+</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mrow> <msub> <mi>log</mi> <mn>5</mn> </msub> <mo>⁡</mo> <mn>4</mn> </mrow> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> <mo>-</mo> <mrow> <msub> <mi>log</mi> <mn>5</mn> </msub> <mo>⁡</mo> <mn>2</mn> </mrow> </mrow> </math>
@@ -4728,11 +4560,9 @@
 <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mn>0.52</mn> </mrow> </math>
 <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mn>0.8</mn> </mrow> </math>
 <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>1.3</mn> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <mi>y</mi> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <msub> <mi>log</mi> <mi>b</mi> </msub> <mo>⁡</mo> <mn>0.1</mn> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <msub> <mi>log</mi> <mn>7</mn> </msub> <mo>⁡</mo> <mi>x</mi> </mrow> <mo>)</mo> </mrow> </mrow> <mo>+</mo> <mn>5</mn> </mrow> <mo>=</mo> <mn>7</mn> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>5</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <mi>x</mi> </mrow> <mo>)</mo> </mrow> </mrow> <mo>+</mo> <mn>6</mn> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>14</mn> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <msub> <mi>log</mi> <mn>3</mn> </msub> <mo>⁡</mo> <mi>x</mi> </mrow> </mrow> </math>
 <math> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mn>4</mn> <mo>)</mo> </mrow> </mrow> </math>
 <math> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>[</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mn>4</mn> <mo>)</mo> </mrow> </mrow> <mo>]</mo> </mrow> </mrow> </math>
 <math> <mrow> <msub> <mi>log</mi> <mn>3</mn> </msub> <mo>⁡</mo> <msup> <mn>3</mn> <mn>1.8</mn> </msup> </mrow> </math>
@@ -4741,10 +4571,7 @@
 <math> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>[</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mn>32</mn> <mo>)</mo> </mrow> </mrow> <mo>]</mo> </mrow> </mrow> </math>
 <math> <msup> <mn>2</mn> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <mn>6</mn> </mrow> </msup> </math>
 <math> <msup> <mn>2</mn> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <mi>Q</mi> </mrow> </msup> </math>
-<math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mn>2</mn> <mi>x</mi> </msup> </mrow> </math>
 <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mfrac> <mn>2</mn> <mi>x</mi> </mfrac> </mrow> </math>
-<math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msqrt> <mi>x</mi> </msqrt> </mrow> </math>
-<math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <msub> <mi>log</mi> <mn>2</mn> </msub> <mo>⁡</mo> <mi>x</mi> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mrow> <mo>(</mo> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>)</mo> </mrow> <mi>x</mi> </msup> </mrow> </math>
 <math> <mrow> <mi>l</mi> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msub> <mi>log</mi> <mn>10</mn> </msub> <mo>⁡</mo> <mi>x</mi> </mrow> </mrow> </math>
@@ -4789,17 +4616,14 @@
 <math> <mrow> <mrow> <mi>A</mi> <mo>=</mo> <mrow> <mo>(</mo> <mrow> <mn>10</mn> <mo>,</mo> <mn>12</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mtext>fitline</mtext> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mo fence="false">{</mo> <mrow> <mi>A</mi> <mo>,</mo> <mi>B</mi> <mo>,</mo> <mi>C</mi> <mo>,</mo> <mi>D</mi> <mo>,</mo> <mi>E</mi> </mrow> <mo fence="false">}</mo> </mrow> <mo>)</mo> </mrow> </mrow> </math>
 <math> <mrow> <mn>4</mn> <mo>⁢</mo> <msup> <mi>a</mi> <mn>3</mn> </msup> <mo>⁢</mo> <msup> <mi>b</mi> <mn>2</mn> </msup> <mo>⁢</mo> <mtext> means </mtext> <mo>⁢</mo> <mn>4</mn> <mo>⁢</mo> <mi>aaabb</mi> </mrow> </math>
-<math> <mtext> </mtext> </math>
 <math> <mrow> <mrow> <msup> <mn>2</mn> <mn>1</mn> </msup> <mo>=</mo> <mn>2</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <msup> <mn>2</mn> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </msup> <mo>=</mo> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> <mo>=</mo> <mrow> <mfrac> <mn>1</mn> <msup> <mn>2</mn> <mn>1</mn> </msup> </mfrac> <mo>⁢</mo> <mtext> and </mtext> <mo>⁢</mo> <msup> <mn>2</mn> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </msup> </mrow> <mo>=</mo> <mfrac> <mn>1</mn> <mn>4</mn> </mfrac> <mo>=</mo> <mfrac> <mn>1</mn> <msup> <mn>2</mn> <mn>2</mn> </msup> </mfrac> </mrow> </math>
-<math> <mtable> <mtr> <mtd> <msup> <mi>a</mi> <mrow> <mo>-</mo> <mi>n</mi> </mrow> </msup> </mtd> <mtd> <mrow> <mo>=</mo> <mfrac> <mn>1</mn> <msup> <mi>a</mi> <mi>n</mi> </msup> </mfrac> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mo>(</mo> <mrow> <mi>a</mi> <mo>≠</mo> <mn>0</mn> </mrow> <mo>)</mo> </mrow> </mtd> </mtr> <mtr> <mtd> <msup> <mi>a</mi> <mn>0</mn> </msup> </mtd> <mtd> <mrow> <mo>=</mo> <mn>1</mn> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mo>(</mo> <mrow> <mi>a</mi> <mo>≠</mo> <mn>0</mn> </mrow> <mo>)</mo> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <msup> <mn>2</mn> <mrow> <mo>-</mo> <mn>3</mn> </mrow> </msup> <mo>=</mo> <mfrac> <mn>1</mn> <msup> <mn>2</mn> <mn>3</mn> </msup> </mfrac> <mo>=</mo> <mfrac> <mn>1</mn> <mn>8</mn> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mn>9</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </msup> </mrow> <mo>=</mo> <mrow> <mn>9</mn> <mo>⋅</mo> <mfrac> <mn>1</mn> <msup> <mi>x</mi> <mn>2</mn> </msup> </mfrac> </mrow> <mo>=</mo> <mfrac> <mn>9</mn> <msup> <mi>x</mi> <mn>2</mn> </msup> </mfrac> </mrow> </math>
 <math> <mrow> <msup> <mn>2</mn> <mrow> <mo>-</mo> <mn>3</mn> </mrow> </msup> <mo>≠</mo> <mrow> <mo>-</mo> <msup> <mn>2</mn> <mn>3</mn> </msup> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mn>9</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </msup> </mrow> <mo>≠</mo> <mfrac> <mn>1</mn> <mrow> <mn>9</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mtext>BMI</mtext> <mo>=</mo> <mrow> <mi>w</mi> <mo>⁢</mo> <msup> <mi>h</mi> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </msup> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>k</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mi>p</mi> </msup> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>V</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>r</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mfrac> <mn>4</mn> <mn>3</mn> </mfrac> <mo>⁢</mo> <mi>π</mi> <mo>⁢</mo> <msup> <mi>r</mi> <mn>3</mn> </msup> <mo>⁢</mo> <mtext> and </mtext> <mo>⁢</mo> <mrow> <mi>L</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>T</mi> <mo>)</mo> </mrow> </mrow> </mrow> <mo>=</mo> <mrow> <mn>0.8125</mn> <mo>⁢</mo> <msup> <mi>T</mi> <mn>2</mn> </msup> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mfrac> <mn>1</mn> <mi>x</mi> </mfrac> <mo>⁢</mo> <mtext> and </mtext> <mo>⁢</mo> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </mrow> <mo>=</mo> <mfrac> <mn>1</mn> <msup> <mi>x</mi> <mn>2</mn> </msup> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </msup> <mo>⁢</mo> <mtext> and </mtext> <mo>⁢</mo> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </mrow> <mo>=</mo> <msup> <mi>x</mi> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </msup> </mrow> </math>
@@ -4827,7 +4651,6 @@
 <math> <mn>478,000</mn> </math>
 <math> <mn>0.00032</mn> </math>
 <math> <mn>123,456,789</mn> </math>
-<math> <mn>123456789</mn> </math>
 <math> <mrow> <mn>1.524157875</mn> <mo>⁢</mo> <mtext>E</mtext> <mo>⁢</mo> <mn>16</mn> </mrow> </math>
 <math> <mrow> <mrow> <mn>1.524157875</mn> <mo>×</mo> <msup> <mn>10</mn> <mn>16</mn> </msup> </mrow> <mo>.</mo> </mrow> </math>
 <math> <msup> <mn>10</mn> <mn>16</mn> </msup> </math>
@@ -4910,7 +4733,6 @@
 <math> <mrow> <mfrac> <mrow> <mo>-</mo> <mn>1</mn> </mrow> <mn>2</mn> </mfrac> <mo>⁢</mo> <msup> <mi>z</mi> <mrow> <mo>-</mo> <mn>3</mn> </mrow> </msup> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mrow> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mo>⁢</mo> <msup> <mi>z</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>z</mi> </mrow> <mo>-</mo> <mn>4</mn> </mrow> <mo>)</mo> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>4</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mn>16</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </msup> </mrow> </mrow> <mo>=</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mrow> <msup> <mi>x</mi> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </msup> <mo>⁡</mo> <mrow> <mo>(</mo> <mo>?</mo> <mo>)</mo> </mrow> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <msup> <mi>a</mi> <mrow> <mo>-</mo> <mn>3</mn> </mrow> </msup> </mrow> <mo>-</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>a</mi> </mrow> <mo>+</mo> <msup> <mi>a</mi> <mn>3</mn> </msup> </mrow> <mo>=</mo> <mrow> <msup> <mi>a</mi> <mrow> <mo>-</mo> <mn>3</mn> </mrow> </msup> <mo>⁡</mo> <mrow> <mo>(</mo> <mo>?</mo> <mo>)</mo> </mrow> </mrow> </mrow> </math>
-<math> <mn>285</mn> </math>
 <math> <mn>8,372,000</mn> </math>
 <math> <mn>0.024</mn> </math>
 <math> <mn>0.000523</mn> </math>
@@ -4925,7 +4747,6 @@
 <math> <mrow> <mn>0</mn> <mo>?</mo> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mtext>Xmin</mtext> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>5</mn> </mrow> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mtext>Xmax</mtext> <mo>=</mo> <mn>5</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mtext>Ymin</mtext> </mtd> <mtd> <mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mtext>Ymax</mtext> <mo>=</mo> <mn>10</mn> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mi>x</mi> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </msup> </mrow> </math>
-<math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mfrac> <mn>1</mn> <msup> <mi>x</mi> <mn>2</mn> </msup> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mrow> <mo>(</mo> <mfrac> <mn>1</mn> <mi>x</mi> </mfrac> <mo>)</mo> </mrow> <mn>2</mn> </msup> </mrow> </math>
 <math> <mn>355</mn> </math>
 <math> <mn>2840</mn> </math>
@@ -5112,7 +4933,6 @@
 <math> <mtable> <mtr> <mtd> <mrow> <mi>x</mi> <mo>-</mo> <mi>y</mi> <mo>-</mo> <mn>2</mn> </mrow> </mtd> <mtd> <mrow> <mo>≤</mo> <mn>0</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <mi>x</mi> <mo>+</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>-</mo> <mn>6</mn> </mrow> </mtd> <mtd> <mrow> <mo>≤</mo> <mn>0</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <mrow> <mi>x</mi> <mo>≥</mo> <mn>0</mn> </mrow> <mo>,</mo> <mi>y</mi> </mrow> </mtd> <mtd> <mrow> <mo>≤</mo> <mn>0</mn> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mrow> <mi>x</mi> <mo>+</mo> <mi>y</mi> </mrow> <mo>=</mo> <mn>10,000</mn> </mrow> </math>
 <math> <mrow> <mrow> <mi>x</mi> <mo>+</mo> <mi>y</mi> </mrow> <mo>&gt;</mo> <mn>10,000</mn> </mrow> </math>
-<math> <mrow> <mrow> <mrow> <mi>x</mi> <mo>+</mo> <mi>y</mi> </mrow> <mo>≥</mo> <mn>10,000</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mi>y</mi> </mrow> <mo>≥</mo> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </mrow> </mtd> </mtr> </mtable> </math>
 <math> <mrow> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mi>y</mi> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </mrow> </math>
 <math> <mrow> <mi>b</mi> <mo>=</mo> </mrow> </math>
@@ -5234,9 +5054,6 @@
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mi>b</mi> <mo>+</mo> <mrow> <mi>m</mi> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <msub> <mi>y</mi> <mn>1</mn> </msub> <mo>+</mo> <mrow> <mi>m</mi> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <msub> <mi>x</mi> <mn>1</mn> </msub> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </mrow> </math>
 <math> <mn>1500</mn> </math>
-<math> <mn>15</mn> </math>
-<math> <mn>20</mn> </math>
-<math> <mn>25</mn> </math>
 <math> <mrow> <mrow> <mfrac> <mi>x</mi> <mn>6</mn> </mfrac> <mo>-</mo> <mfrac> <mi>y</mi> <mn>12</mn> </mfrac> </mrow> <mo>=</mo> <mn>1</mn> </mrow> </math>
 <math> <mrow> <mrow> <mn>50</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>=</mo> <mrow> <mrow> <mn>40</mn> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>-</mo> <mn>20,000</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>1.4</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mrow> <mn>2.1</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>8.4</mn> </mrow> </math>
@@ -5275,7 +5092,6 @@
 <math> <mrow> <msup> <mn>3.6</mn> <mo>°</mo> </msup> <mo>⁢</mo> <mtext>F</mtext> </mrow> </math>
 <math> <mrow> <mrow> <msup> <mn>62</mn> <mo>°</mo> </msup> <mo>⁢</mo> <mtext>F</mtext> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mo>(</mo> <mrow> <mn>3</mn> <mo>,</mo> <mrow> <mo>-</mo> <mn>5</mn> </mrow> </mrow> <mo>)</mo> </mrow> <mo>,</mo> </mrow> </math>
-<math> <mrow> <mo>(</mo> <mrow> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mo>,</mo> <mn>4</mn> </mrow> <mo>)</mo> </mrow> </math>
 <math> <mrow> <mrow> <mo>(</mo> <mrow> <mn>0</mn> <mo>,</mo> <mn>8</mn> </mrow> <mo>)</mo> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mo>(</mo> <mrow> <mn>4</mn> <mo>,</mo> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </mrow> <mo>)</mo> </mrow> </math>
 <math> <mrow> <mrow> <mo>(</mo> <mrow> <mn>0</mn> <mo>,</mo> <mn>3</mn> </mrow> <mo>)</mo> </mrow> <mo>?</mo> </mrow> </math>
@@ -5300,7 +5116,6 @@
 <math> <mrow> <mrow> <msup> <mi>y</mi> <mn>2</mn> </msup> <mo>-</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>-</mo> <mrow> <mn>8</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mn>9</mn> </mrow> <mo>=</mo> <mn>0</mn> </mrow> </math>
 <math> <mrow> <mi>F</mi> <mo>.</mo> </mrow> </math>
 <math> <mtable> <mtr> <mtd> <mrow> <mi>A</mi> <msup> <mi>x</mi> <mn>2</mn> </msup> <mo>+</mo> <mi>C</mi> <msup> <mi>y</mi> <mn>2</mn> </msup> <mo>+</mo> <mi>D</mi> <mi>x</mi> <mo>+</mo> <mi>E</mi> <mi>y</mi> <mo>+</mo> <mi>F</mi> <mo>=</mo> <mn>0</mn> </mrow> </mtd> </mtr> </mtable> </math>
-<math> <mrow> <mrow> <mrow> <mi>A</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>C</mi> <mo>⁢</mo> <msup> <mi>y</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mi>D</mi> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mrow> <mi>E</mi> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>+</mo> <mi>F</mi> </mrow> <mo>=</mo> <mn>0</mn> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <msup> <mi>y</mi> <mn>2</mn> </msup> </mrow> <mo>-</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>y</mi> </mrow> <mo>-</mo> <mn>6</mn> </mrow> <mo>=</mo> <mn>0</mn> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>4</mn> <mo>⁢</mo> <msup> <mi>y</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mn>8</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>-</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>0</mn> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mn>4</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>-</mo> <mrow> <mn>6</mn> <mo>⁢</mo> <msup> <mi>y</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mi>x</mi> <mo>-</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>0</mn> </mrow> </math>
@@ -5383,7 +5198,6 @@
 <math> <mrow> <mrow> <mo>|</mo> <mn>3</mn> <mo>|</mo> </mrow> <mo>-</mo> <mrow> <mo>|</mo> <mn>8</mn> <mo>|</mo> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mi>x</mi> <mn>3</mn> </msup> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mtext> </mtext> </math>
 <math> <mrow> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mroot> <mi>x</mi> <mn>3</mn> </mroot> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mfrac> <mn>1</mn> <msup> <mi>x</mi> <mn>2</mn> </msup> </mfrac> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mi>x</mi> </mrow> </math>
@@ -5430,20 +5244,16 @@
 <math> <mrow> <mrow> <mfrac> <mn>1</mn> <mi>x</mi> </mfrac> <mo>≤</mo> <mn>2</mn> </mrow> <mo>.</mo> </mrow> </math>
 <math> <mrow> <mi>y</mi> <mo>=</mo> <mrow> <mo>|</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>2</mn> </mrow> <mo>|</mo> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mrow> <mo>|</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>2</mn> </mrow> <mo>|</mo> </mrow> <mo>&gt;</mo> <mn>1</mn> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msup> <mi>x</mi> <mn>3</mn> </msup> </mrow> </math>
 <math> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>3</mn> </msup> <mo>-</mo> <mn>2</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>h</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <msup> <mi>x</mi> <mn>3</mn> </msup> <mo>+</mo> <mn>1</mn> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mo>|</mo> <mi>x</mi> <mo>|</mo> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mo>|</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>2</mn> </mrow> <mo>|</mo> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>h</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mo>|</mo> <mrow> <mi>x</mi> <mo>+</mo> <mn>1</mn> </mrow> <mo>|</mo> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mfrac> <mn>1</mn> <mi>x</mi> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mfrac> <mn>1</mn> <mrow> <mi>x</mi> <mo>+</mo> <mn>1.5</mn> </mrow> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mi>h</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mfrac> <mn>1</mn> <mrow> <mi>x</mi> <mo>-</mo> <mn>1</mn> </mrow> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mfrac> <mn>1</mn> <msup> <mi>x</mi> <mn>2</mn> </msup> </mfrac> <mo>+</mo> <mn>2</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>h</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mfrac> <mn>1</mn> <msup> <mi>x</mi> <mn>2</mn> </msup> </mfrac> <mo>-</mo> <mn>1</mn> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <msqrt> <mi>x</mi> </msqrt> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>h</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <msqrt> <mrow> <mo>-</mo> <mi>x</mi> </mrow> </msqrt> </mrow> </math>
-<math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mroot> <mi>x</mi> <mn>3</mn> </mroot> </mrow> </math>
 <math> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mroot> <mi>x</mi> <mn>3</mn> </mroot> </mrow> </mrow> </math>
 <math> <mrow> <mrow> <mi>h</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mroot> <mrow> <mo>-</mo> <mi>x</mi> </mrow> <mn>3</mn> </mroot> </mrow> </math>
 <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <msqrt> <mi>x</mi> </msqrt> </mrow> </mrow> </math>

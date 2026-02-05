@@ -14,7 +14,6 @@
 <math><mrow><msub><mi>d</mi><mi>H</mi></msub><mo stretchy="false">(</mo><mi>p</mi><mo>,</mo><mi>q</mi><mo stretchy="false">)</mo><mo>=</mo><msub><mi>d</mi><mi>H</mi></msub><mo stretchy="false">(</mo><mi>T</mi><mo stretchy="false">(</mo><mi>p</mi><mo stretchy="false">)</mo><mo>,</mo><mi>T</mi><mo stretchy="false">(</mo><mi>q</mi><mo stretchy="false">)</mo><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi mathvariant="double-struck">D</mi><mtext>,</mtext></mrow></math>
 <math><mi>T</mi></math>
-<math><mrow><mi mathvariant="script">H</mi><mtext>.</mtext></mrow></math>
 <math><mi>z</mi></math>
 <math><mrow><mi>x</mi><mo>=</mo><mo stretchy="false">|</mo><mi>z</mi><mo stretchy="false">|</mo></mrow></math>
 <math><mi>L</mi></math>
@@ -115,7 +114,6 @@
 <math><mrow><mn>1</mn><mo>−</mo><mo stretchy="false">|</mo><mi mathvariant="bold-italic">r</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><msup><mo stretchy="false">|</mo><mn>2</mn></msup><mtext>,</mtext></mrow></math>
 <math><mrow><mi mathvariant="bold-italic">r</mi><mo>:</mo><mo stretchy="false">[</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="false">]</mo><mo stretchy="false">→</mo><mi mathvariant="double-struck">D</mi></mrow></math>
 <math><mrow><mi mathvariant="script">L</mi><mo stretchy="false">(</mo><mi mathvariant="bold-italic">r</mi><mo stretchy="false">)</mo><mo>=</mo><msubsup><mo>∫</mo><mi>a</mi><mi>b</mi></msubsup><mfrac><mn>2</mn><mrow><mn>1</mn><mo>−</mo><mo stretchy="false">|</mo><mi mathvariant="bold-italic">r</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><msup><mo stretchy="false">|</mo><mn>2</mn></msup></mrow></mfrac><mtext> </mtext><mo stretchy="false">|</mo><msup><mi mathvariant="bold-italic">r</mi><mi mathvariant="normal">′</mi></msup><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo stretchy="false">|</mo><mi>d</mi><mi>t</mi><mtext>.</mtext></mrow></math>
-<math><mrow><mi mathvariant="script">H</mi><mtext mathvariant="script">,</mtext></mrow></math>
 <math><mrow><mi mathvariant="script">L</mi><mo stretchy="false">(</mo><mi mathvariant="bold-italic">r</mi><mo stretchy="false">)</mo><mo>=</mo><mi mathvariant="script">L</mi><mo stretchy="false">(</mo><mi>T</mi><mo stretchy="false">(</mo><mi mathvariant="bold-italic">r</mi><mo stretchy="false">)</mo><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mi mathvariant="double-struck">D</mi><mo>,</mo><mi mathvariant="script">H</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mi>c</mi></math>
@@ -165,7 +163,6 @@
 <math><mrow><mn>0</mn><mo stretchy="false">↦</mo><mi>p</mi></mrow></math>
 <math><mrow><mi mathvariant="normal">∞</mi><mo stretchy="false">↦</mo><mi>q</mi></mrow></math>
 <math><mrow><mi>p</mi><mo>,</mo><mi>q</mi><mo>≠</mo><mi mathvariant="normal">∞</mi></mrow></math>
-<math><mi mathvariant="bold">∞</mi></math>
 <math><mrow><mi>T</mi><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi>a</mi><mi>z</mi><mo>+</mo><mi>b</mi><mo stretchy="false">)</mo><mo>/</mo><mo stretchy="false">(</mo><mi>c</mi><mi>z</mi><mo>+</mo><mi>d</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>T</mi><mo stretchy="false">(</mo><mn>0</mn><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn><mtext>,</mtext></mrow></math>
 <math><mrow><mi>b</mi><mo>=</mo><mn>0</mn><mtext>.</mtext></mrow></math>
@@ -629,7 +626,6 @@
 <math><mrow><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>b</mi><mtext>,</mtext></mrow></math>
 <math><mrow><mi>m</mi><mo>≠</mo><mn>0</mn><mtext>.</mtext></mrow></math>
 <math><mrow><mi>S</mi><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo><mo>=</mo><mi>k</mi><mi>z</mi></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><msup><mi mathvariant="double-struck">P</mi><mn>2</mn></msup><mo>,</mo><mi mathvariant="script">S</mi><mo mathvariant="script" stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mi mathvariant="double-struck">D</mi><mo>,</mo><mi mathvariant="script">H</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
 <math><mrow><msup><mi>&lt;mi/&gt;</mi><mo>∘</mo></msup><mtext>,</mtext></mrow></math>
 <math><mrow><mi>π</mi><msup><mi>r</mi><mn>2</mn></msup></mrow></math>
@@ -737,7 +733,6 @@
 <math><mrow><mi>M</mi><mtext>:</mtext></mrow></math>
 <math><mrow><msup><mi>T</mi><mn>2</mn></msup><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo><mo>=</mo><mi>T</mi><mo stretchy="false">(</mo><mi>T</mi><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mi>T</mi><mtext>,</mtext></mrow></math>
-<math><mrow><mi mathvariant="script">H</mi><mtext mathvariant="script">:</mtext></mrow></math>
 <math><mi mathvariant="bold-script">H</mi></math>
 <math><mrow><mi>T</mi><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo><mo>=</mo><msup><mi>e</mi><mrow><mi>i</mi><mi>θ</mi></mrow></msup><mfrac><mrow><mi>z</mi><mo>−</mo><msub><mi>z</mi><mn>0</mn></msub></mrow><mrow><mn>1</mn><mo>−</mo><msub><mover><mi>z</mi><mo accent="false">¯</mo></mover><mn>0</mn></msub><mi>z</mi></mrow></mfrac></mrow></math>
 <math><mrow><msub><mi>z</mi><mn>0</mn></msub><mo stretchy="false">↦</mo><mn>0</mn><mtext>,</mtext></mrow></math>
@@ -875,7 +870,6 @@
 <math><mrow><mn>0</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mi>s</mi><mo>,</mo></mrow></math>
 <math><mrow><mn>2</mn><mi>x</mi></mrow></math>
 <math><mrow><mn>2</mn><mi>π</mi><mi>r</mi></mrow></math>
-<math><mrow><mi>α</mi><mo>,</mo><mi>β</mi><mo>,</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><msub><mi mathvariant="double-struck">D</mi><mi>k</mi></msub><mo>,</mo><msub><mi mathvariant="script">H</mi><mi>k</mi></msub><mo stretchy="false">)</mo><mtext>:</mtext></mrow></math>
 <math><mrow><mi>cosh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>c</mi><mo>/</mo><mi>s</mi><mo stretchy="false">)</mo><mo>=</mo><mi>cosh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>a</mi><mo>/</mo><mi>s</mi><mo stretchy="false">)</mo><mi>cosh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>b</mi><mo>/</mo><mi>s</mi><mo stretchy="false">)</mo><mo>−</mo><mi>sinh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>a</mi><mo>/</mo><mi>s</mi><mo stretchy="false">)</mo><mi>sinh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>b</mi><mo>/</mo><mi>s</mi><mo stretchy="false">)</mo><mi>cos</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>γ</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mfrac><mrow><mi>sinh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>a</mi><mo>/</mo><mi>s</mi><mo stretchy="false">)</mo></mrow><mrow><mi>sin</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>α</mi><mo stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>sinh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>b</mi><mo>/</mo><mi>s</mi><mo stretchy="false">)</mo></mrow><mrow><mi>sin</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>β</mi><mo stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>sinh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>c</mi><mo>/</mo><mi>s</mi><mo stretchy="false">)</mo></mrow><mrow><mi>sin</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>γ</mi><mo stretchy="false">)</mo></mrow></mfrac><mtext>.</mtext></mrow></math>
@@ -906,7 +900,6 @@
 <math><mrow><mi>r</mi><mo stretchy="false">→</mo><msup><mn>0</mn><mo>+</mo></msup><mtext>,</mtext></mrow></math>
 <math><mrow><mn>1</mn><mo>/</mo><msup><mi>s</mi><mn>2</mn></msup><mtext>.</mtext></mrow></math>
 <math><mrow><mi>k</mi><mo>=</mo><mfrac><mn>1</mn><msup><mi>s</mi><mn>2</mn></msup></mfrac><mtext>.</mtext></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mi mathvariant="double-struck">D</mi><mo>,</mo><mi mathvariant="script">H</mi><mo mathvariant="script" stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>c</mi><mo>=</mo><mn>2</mn><mi>π</mi><mi>sinh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>r</mi><mo stretchy="false">)</mo><mo>.</mo></mrow></math>
 <math><mrow><mi>sinh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>r</mi><mo stretchy="false">)</mo><mo>=</mo><mi>r</mi><mo>+</mo><mfrac><msup><mi>r</mi><mn>3</mn></msup><mrow><mn>3</mn><mo>!</mo></mrow></mfrac><mo>+</mo><mfrac><msup><mi>r</mi><mn>5</mn></msup><mrow><mn>5</mn><mo>!</mo></mrow></mfrac><mo>+</mo><mo>⋯</mo><mtext>.</mtext></mrow></math>
 <math><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" minlabelspacing=".8em" displaystyle="true"><mtr><mtd><mi>k</mi></mtd><mtd><mrow><mi>&lt;mi/&gt;</mi><mo>=</mo><mo>−</mo><mn>3</mn><munder><mo movablelimits="true" form="prefix">lim</mo><mrow><mi>r</mi><mo stretchy="false">→</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mfrac><msup><mi>d</mi><mn>2</mn></msup><mrow><mi>d</mi><msup><mi>r</mi><mn>2</mn></msup></mrow></mfrac><mrow><mo>[</mo><mfrac><mrow><mn>2</mn><mi>π</mi><mi>sinh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>r</mi><mo stretchy="false">)</mo></mrow><mrow><mn>2</mn><mi>π</mi><mi>r</mi></mrow></mfrac><mo>]</mo></mrow></mrow></mtd></mtr><mtr><mtd/><mtd><mrow><mi>&lt;mi/&gt;</mi><mo>=</mo><mo>−</mo><mn>3</mn><munder><mo movablelimits="true" form="prefix">lim</mo><mrow><mi>r</mi><mo stretchy="false">→</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mfrac><msup><mi>d</mi><mn>2</mn></msup><mrow><mi>d</mi><msup><mi>r</mi><mn>2</mn></msup></mrow></mfrac><mrow><mo>[</mo><mn>1</mn><mo>+</mo><mfrac><msup><mi>r</mi><mn>2</mn></msup><mrow><mn>3</mn><mo>!</mo></mrow></mfrac><mo>+</mo><mfrac><msup><mi>r</mi><mn>4</mn></msup><mrow><mn>5</mn><mo>!</mo></mrow></mfrac><mo>+</mo><mo>⋯</mo><mo>]</mo></mrow></mrow></mtd></mtr><mtr><mtd/><mtd><mrow><mi>&lt;mi/&gt;</mi><mo>=</mo><mo>−</mo><mn>3</mn><munder><mo movablelimits="true" form="prefix">lim</mo><mrow><mi>r</mi><mo stretchy="false">→</mo><msup><mn>0</mn><mo>+</mo></msup></mrow></munder><mrow><mo>[</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>+</mo><mfrac><mrow><mn>12</mn><msup><mi>r</mi><mn>2</mn></msup></mrow><mrow><mn>5</mn><mo>!</mo></mrow></mfrac><mo>+</mo><mo>⋯</mo><mo>]</mo></mrow><mtext>.</mtext></mrow></mtd></mtr></mtable></math>
@@ -1061,7 +1054,6 @@
 <math><mrow><mi>T</mi><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo><mo>=</mo><msup><mi>e</mi><mrow><mi>i</mi><mi>θ</mi></mrow></msup><mfrac><mrow><mi>z</mi><mo>−</mo><msub><mi>z</mi><mn>0</mn></msub></mrow><mrow><mn>1</mn><mo>+</mo><msub><mover><mi>z</mi><mo accent="false">¯</mo></mover><mn>0</mn></msub><mi>z</mi></mrow></mfrac></mrow></math>
 <math><mrow><msub><mi>z</mi><mn>0</mn></msub><mo>∈</mo><msup><mi mathvariant="double-struck">C</mi><mo>+</mo></msup><mtext>,</mtext></mrow></math>
 <math><mrow><mi>T</mi><mo stretchy="false">(</mo><msub><mi>z</mi><mn>0</mn></msub><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn><mtext>,</mtext></mrow></math>
-<math><mrow><mi mathvariant="script">S</mi><mtext>.</mtext></mrow></math>
 <math><mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" minlabelspacing=".8em" displaystyle="true"><mlabeledtr><mtd><mrow><mtext>(transformation in </mtext><mi mathvariant="script">H</mi><mtext>)</mtext></mrow></mtd><mtd><mrow><mi>T</mi><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo></mrow></mtd><mtd><mrow><mi>&lt;mi/&gt;</mi><mo>=</mo><msup><mi>e</mi><mrow><mi>i</mi><mi>θ</mi></mrow></msup><mfrac><mrow><mi>z</mi><mo>−</mo><msub><mi>z</mi><mn>0</mn></msub></mrow><mrow><mn>1</mn><mo>−</mo><msub><mover><mi>z</mi><mo accent="false">¯</mo></mover><mn>0</mn></msub><mi>z</mi></mrow></mfrac><mtext>.</mtext></mrow></mtd></mlabeledtr></mtable></math>
 <math><mrow><mi>z</mi><mo>⋅</mo><mover><mi>w</mi><mo stretchy="false">¯</mo></mover><mo>=</mo><mn>1</mn></mrow></math>
 <math><mrow><mi>T</mi><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo><mo>⋅</mo><mover><mrow><mi>T</mi><mo stretchy="false">(</mo><mi>w</mi><mo stretchy="false">)</mo></mrow><mo accent="false">¯</mo></mover><mo>=</mo><mn>1</mn><mtext>.</mtext></mrow></math>
@@ -1235,7 +1227,6 @@
 <math><mrow><mn>0</mn><mo>&lt;</mo><mi>k</mi><mo>&lt;</mo><mn>1</mn></mrow></math>
 <math><mrow><mi>cosh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>a</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mn>1</mn><mo>+</mo><msup><mi>r</mi><mn>2</mn></msup></mrow><mrow><mn>1</mn><mo>−</mo><msup><mi>r</mi><mn>2</mn></msup></mrow></mfrac><mtext> </mtext><mtext> </mtext><mo>;</mo><mtext> </mtext><mtext> </mtext><mi>sinh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>a</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mn>2</mn><mi>r</mi></mrow><mrow><mn>1</mn><mo>−</mo><msup><mi>r</mi><mn>2</mn></msup></mrow></mfrac><mtext>;</mtext></mrow></math>
 <math><mrow><mi>cosh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>b</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mn>1</mn><mo>+</mo><msup><mi>k</mi><mn>2</mn></msup></mrow><mrow><mn>1</mn><mo>−</mo><msup><mi>k</mi><mn>2</mn></msup></mrow></mfrac><mtext> </mtext><mtext> </mtext><mo>;</mo><mtext> </mtext><mtext> </mtext><mi>sinh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>b</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mn>2</mn><mi>k</mi></mrow><mrow><mn>1</mn><mo>−</mo><msup><mi>k</mi><mn>2</mn></msup></mrow></mfrac><mtext>.</mtext></mrow></math>
-<math><mrow><mi>cosh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>c</mi><mo stretchy="false">)</mo><mo>=</mo><mi>cosh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>a</mi><mo stretchy="false">)</mo><mi>cosh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>b</mi><mo stretchy="false">)</mo><mo>−</mo><mi>sinh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>a</mi><mo stretchy="false">)</mo><mi>sinh</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>b</mi><mo stretchy="false">)</mo><mi>cos</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>γ</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math>
 <math><msub><mi>m</mi><mi>q</mi></msub></math>
 <math><mrow><mi>q</mi><msup><mi>q</mi><mo>∗</mo></msup></mrow></math>
 <math><msub><mi>m</mi><mi>p</mi></msub></math>
@@ -1302,7 +1293,6 @@
 <math><mrow><mi>e</mi><mo>,</mo><mi>i</mi><mo>,</mo><mi>π</mi><mo>,</mo><mn>1</mn><mo>,</mo></mrow></math>
 <math><mrow><mover><mi>z</mi><mo accent="false">¯</mo></mover><mo>=</mo><mi>r</mi><msup><mi>e</mi><mrow><mo>−</mo><mi>i</mi><mi>θ</mi></mrow></msup><mtext>.</mtext></mrow></math>
 <math><mrow><mo stretchy="false">|</mo><mi>z</mi><mo>−</mo><msub><mi>z</mi><mn>0</mn></msub><mo stretchy="false">|</mo><mo>=</mo><mi>r</mi><mtext>,</mtext></mrow></math>
-<math><mrow><mi mathvariant="normal">∞</mi><mo>.</mo></mrow></math>
 <math><mrow><msub><mi>i</mi><mi>C</mi></msub><mo>:</mo><msup><mi mathvariant="double-struck">C</mi><mo>+</mo></msup><mo stretchy="false">→</mo><msup><mi mathvariant="double-struck">C</mi><mo>+</mo></msup><mtext>,</mtext></mrow></math>
 <math><mrow><msub><mi>i</mi><mi>C</mi></msub><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>{</mo><mtable columnalign="left left" rowspacing=".2em" columnspacing="1em" displaystyle="false"><mtr><mtd><mrow><mfrac><msup><mi>r</mi><mn>2</mn></msup><mrow><mo stretchy="false">(</mo><mover><mrow><mi>z</mi><mo>−</mo><msub><mi>z</mi><mn>0</mn></msub></mrow><mo accent="false">¯</mo></mover><mo stretchy="false">)</mo></mrow></mfrac><mo>+</mo><msub><mi>z</mi><mn>0</mn></msub></mrow></mtd><mtd><mrow><mtext> if </mtext><mrow><mi>z</mi><mo>≠</mo><msub><mi>z</mi><mn>0</mn></msub><mo>,</mo><mi mathvariant="normal">∞</mi></mrow><mtext>; </mtext></mrow></mtd></mtr><mtr><mtd><mi mathvariant="normal">∞</mi></mtd><mtd><mrow><mtext> if </mtext><mrow><mi>z</mi><mo>=</mo><msub><mi>z</mi><mn>0</mn></msub></mrow><mtext>; </mtext></mrow></mtd></mtr><mtr><mtd><msub><mi>z</mi><mn>0</mn></msub></mtd><mtd><mrow><mtext> if </mtext><mrow><mi>z</mi><mo>=</mo><mi mathvariant="normal">∞</mi></mrow><mtext> </mtext></mrow></mtd></mtr></mtable><mo fence="true" stretchy="true" symmetric="true">&lt;mo fence="true" stretchy="true" symmetric="true"/&gt;</mo></mrow><mtext>.</mtext></mrow></math>
 <math><mrow><msup><mi mathvariant="double-struck">C</mi><mo>+</mo></msup><mtext>?</mtext></mrow></math>
@@ -1347,7 +1337,6 @@
 <math><mrow><mi>k</mi><mi>A</mi><mo>=</mo><mn>2</mn><mi>π</mi><mi>χ</mi><mo>.</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mi mathvariant="double-struck">C</mi><mo>,</mo><mi mathvariant="script">T</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">(</mo><mi mathvariant="double-struck">C</mi><mo>,</mo><mi mathvariant="script">E</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><msup><mi mathvariant="double-struck">C</mi><mo>+</mo></msup><mo>,</mo><mi mathvariant="script">M</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><msub><mi>X</mi><mn>1</mn></msub><mi mathvariant="normal">#</mi><msub><mi>X</mi><mn>2</mn></msub></mrow></math>
 <math><msup><mi mathvariant="double-struck">K</mi><mn>2</mn></msup></math>
 <math><mrow><mi>χ</mi><mo stretchy="false">(</mo><mi>S</mi><mo stretchy="false">)</mo></mrow></math>
@@ -1573,7 +1562,6 @@
 <math><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo>,</mo><mi>z</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
 <math><mrow><msup><mi mathvariant="double-struck">R</mi><mn>3</mn></msup><mtext>,</mtext></mrow></math>
 <math><mi mathvariant="bold-italic">v</mi></math>
-<math><mrow><msup><mi mathvariant="double-struck">R</mi><mn>3</mn></msup><mtext>.</mtext></mrow></math>
 <math><mrow><mi mathvariant="bold-italic">v</mi><mo>=</mo><mo stretchy="false">(</mo><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>y</mi><mn>1</mn></msub><mo>,</mo><msub><mi>z</mi><mn>1</mn></msub><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi mathvariant="bold-italic">w</mi><mo>=</mo><mo stretchy="false">(</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><msub><mi>y</mi><mn>2</mn></msub><mo>,</mo><msub><mi>z</mi><mn>2</mn></msub><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mo stretchy="false">|</mo><mi mathvariant="bold-italic">v</mi><mo>−</mo><mi mathvariant="bold-italic">w</mi><mo stretchy="false">|</mo><mo>=</mo><msqrt><mo stretchy="false">(</mo><msub><mi>x</mi><mn>1</mn></msub><mo>−</mo><msub><mi>x</mi><mn>2</mn></msub><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><mo stretchy="false">(</mo><msub><mi>y</mi><mn>1</mn></msub><mo>−</mo><msub><mi>y</mi><mn>2</mn></msub><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><mo stretchy="false">(</mo><msub><mi>z</mi><mn>1</mn></msub><mo>−</mo><msub><mi>z</mi><mn>2</mn></msub><msup><mo stretchy="false">)</mo><mn>2</mn></msup></msqrt><mtext>.</mtext></mrow></math>
@@ -1995,8 +1983,6 @@
 <math><mrow><msub><mi>T</mi><mi>w</mi></msub><mo stretchy="false">(</mo><mi>p</mi><mo stretchy="false">)</mo><mo>=</mo><mi>p</mi><mo>+</mo><mi>w</mi><mo>=</mo><mi>p</mi><mo>+</mo><mo stretchy="false">(</mo><mi>q</mi><mo>−</mo><mi>p</mi><mo stretchy="false">)</mo><mo>=</mo><mi>q</mi><mtext>.</mtext></mrow></math>
 <math><mrow><msub><mi>T</mi><mi>w</mi></msub><mo stretchy="false">(</mo><mi>p</mi><mo stretchy="false">)</mo><mo>=</mo><mi>q</mi></mrow></math>
 <math><mrow><mi>p</mi><mo>≅</mo><mi>q</mi><mtext>.</mtext></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mi mathvariant="double-struck">C</mi><mo>,</mo><mi mathvariant="script">T</mi><mo mathvariant="script" stretchy="false">)</mo></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mi mathvariant="double-struck">C</mi><mo>,</mo><mi mathvariant="script">E</mi><mo mathvariant="script" stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>d</mi><mo>:</mo><mi>S</mi><mo>×</mo><mi>S</mi><mo stretchy="false">→</mo><mi mathvariant="double-struck">R</mi></mrow></math>
 <math><mrow><mi>d</mi><mo stretchy="false">(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo stretchy="false">)</mo><mo>≥</mo><mn>0</mn></mrow></math>
 <math><mrow><mi>x</mi><mo>,</mo><mi>y</mi><mo>∈</mo><mi>S</mi></mrow></math>

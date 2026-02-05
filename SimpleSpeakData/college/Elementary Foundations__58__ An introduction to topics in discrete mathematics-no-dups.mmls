@@ -123,7 +123,6 @@
 <math><mrow><mi>p</mi><mo>∨</mo><mi mathvariant="normal">¬</mi><mi>p</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mi mathvariant="normal">¬</mi><mi>p</mi></mrow></math>
 <math><mrow><mi>p</mi><mo>∨</mo><mi mathvariant="normal">¬</mi><mi>p</mi></mrow></math>
-<math><mi mathvariant="normal">T</mi></math>
 <math><mi mathvariant="normal">F</mi></math>
 <math><mrow><mi mathvariant="normal">¬</mi><mo minsize="1.2em" maxsize="1.2em">(</mo><mi>p</mi><mo>∧</mo><mi mathvariant="normal">¬</mi><mi>p</mi><mo minsize="1.2em" maxsize="1.2em">)</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mi>p</mi><mo>∧</mo><mi mathvariant="normal">¬</mi><mi>p</mi></mrow></math>
@@ -375,15 +374,9 @@
 <math><mn>24</mn></math>
 <math><mn>25</mn></math>
 <math><mrow><mi>φ</mi><mo stretchy="false">(</mo><mi>σ</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mi mathvariant="normal">a</mi></math>
-<math><mi mathvariant="normal">b</mi></math>
 <math><mi mathvariant="normal">c</mi></math>
 <math><mi mathvariant="normal">d</mi></math>
-<math><mi mathvariant="normal">y</mi></math>
-<math><mi mathvariant="normal">z</mi></math>
 <math><mrow><mi>ψ</mi><mo stretchy="false">(</mo><mi>σ</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mi mathvariant="normal">m</mi></math>
-<math><mi mathvariant="normal">n</mi></math>
 <math><mrow><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mi data-mjx-alternate="1">∅</mi><mo data-mjx-texclass="CLOSE">|</mo></mrow><mo>=</mo><mn>0</mn><mtext>.</mtext></mrow></math>
 <math><mrow><mi data-mjx-alternate="1">∅</mi><mo accent="false" stretchy="false">→</mo><mi>X</mi></mrow></math>
 <math><mrow><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mi data-mjx-alternate="1">∅</mi><mo data-mjx-texclass="CLOSE">|</mo></mrow><mo>=</mo><mn>0</mn></mrow></math>
@@ -921,7 +914,6 @@
 <math><mrow><mn>30</mn><mtext>.</mtext></mrow></math>
 <math><mrow><mi>F</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mi>f</mi><mo data-mjx-texclass="PUNCT">:</mo><mi>F</mi><mo accent="false" stretchy="false">→</mo><mi data-mjx-variant="-tex-calligraphic" mathvariant="script">P</mi><mo stretchy="false">(</mo><mi>A</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mi>F</mi></math>
 <math><mrow><mi data-mjx-variant="-tex-calligraphic" mathvariant="script">P</mi><mo stretchy="false">(</mo><mi>A</mi><mo stretchy="false">)</mo><mtext>?</mtext></mrow></math>
 <math><msup><mo>⪯</mo><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup></math>
 <math><mrow><mi>A</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo>,</mo><mi>d</mi><mo>,</mo><mi>e</mi><mo fence="false" stretchy="false">}</mo><mtext>.</mtext></mrow></math>
@@ -977,7 +969,6 @@
 <math><mrow><msub><mi>a</mi><mi>k</mi></msub><mo>=</mo><mfrac><mi>k</mi><msup><mn>2</mn><mrow data-mjx-texclass="ORD"><mi>k</mi><mo>−</mo><mn>1</mn></mrow></msup></mfrac><mspace width="0.167em"></mspace><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mfrac><mi>k</mi><msup><mn>2</mn><mi>k</mi></msup></mfrac><mtext>.</mtext></mrow></math>
 <math><mrow><mi>A</mi><mo>,</mo><mi>B</mi></mrow></math>
 <math><mrow><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mi>B</mi><mo data-mjx-texclass="CLOSE">|</mo></mrow><mo>&lt;</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mi>A</mi><mo data-mjx-texclass="CLOSE">|</mo></mrow><mtext>,</mtext></mrow></math>
-<math><mrow><mi>A</mi><mo accent="false" stretchy="false">→</mo><mi>B</mi></mrow></math>
 <math><mrow><mi>m</mi><mo>&gt;</mo><mi>n</mi><mtext>,</mtext></mrow></math>
 <math><mrow><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mi>B</mi><mo data-mjx-texclass="CLOSE">|</mo></mrow><mo>=</mo><mi>n</mi><mo>&lt;</mo><mi>m</mi><mo>=</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mi>A</mi><mo data-mjx-texclass="CLOSE">|</mo></mrow><mtext>.</mtext></mrow></math>
 <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>a</mi><mo stretchy="false">)</mo><mo>=</mo><mi>b</mi></mrow></math>
@@ -1085,9 +1076,7 @@
 <math><mrow><msup><mi mathvariant="double-struck">R</mi><mn>3</mn></msup><mtext>.</mtext></mrow></math>
 <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo stretchy="false">)</mo><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></math>
 <math><mrow><mi mathvariant="normal">Δ</mi><mo stretchy="false">(</mo><mi>f</mi><mo stretchy="false">)</mo><mo>=</mo><mo fence="false" stretchy="false">{</mo><mo stretchy="false">(</mo><mn>1</mn><mo>,</mo><mi>d</mi><mo stretchy="false">)</mo><mo>,</mo><mo stretchy="false">(</mo><mn>2</mn><mo>,</mo><mi>a</mi><mo stretchy="false">)</mo><mo>,</mo><mo stretchy="false">(</mo><mn>3</mn><mo>,</mo><mi>d</mi><mo stretchy="false">)</mo><mo fence="false" stretchy="false">}</mo><mtext>.</mtext></mrow></math>
-<math><mi>d</mi></math>
 <math><mo>∙</mo></math>
-<math><mi>c</mi></math>
 <math><mi mathvariant="script">N</mi></math>
 <math><mrow><mi mathvariant="normal">Δ</mi><mo stretchy="false">(</mo><mi>S</mi><mo stretchy="false">)</mo></mrow></math>
 <math><mtable displaystyle="true" columnalign="right left right left" columnspacing="0em 2em 0em" rowspacing="3pt" minlabelspacing=".8em"><mtr><mtd><mrow><mi>S</mi><mo data-mjx-texclass="PUNCT">:</mo><mi mathvariant="normal">Λ</mi><mo>×</mo><mi mathvariant="normal">Λ</mi></mrow></mtd><mtd><mrow><mi>&lt;mi/&gt;</mi><mo accent="false" stretchy="false">→</mo><mi mathvariant="normal">Λ</mi><mo>,</mo></mrow></mtd><mtd><mrow><mi>S</mi><mo stretchy="false">(</mo><msub><mi>p</mi><mn>1</mn></msub><mo>,</mo><msub><mi>p</mi><mn>2</mn></msub><mo stretchy="false">)</mo></mrow></mtd><mtd><mrow><mi>&lt;mi/&gt;</mi><mo>=</mo><msub><mi>p</mi><mn>1</mn></msub><mo stretchy="false">→</mo><msub><mi>p</mi><mn>2</mn></msub><mo>,</mo></mrow></mtd></mtr></mtable></math>
@@ -1579,7 +1568,6 @@
 <math><mrow><mi>w</mi><mo>∈</mo><msup><mi mathvariant="normal">Σ</mi><mo>∗</mo></msup><mtext>,</mtext></mrow></math>
 <math><mrow><mi>w</mi><mo>∈</mo><msup><mi mathvariant="normal">Σ</mi><mo>∗</mo></msup></mrow></math>
 <math><mtable displaystyle="true" columnalign="right left right left" columnspacing="0em 2em 0em" rowspacing="3pt" minlabelspacing=".8em"><mtr><mtd><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mi data-mjx-auto-op="false">qwerty</mi><mo data-mjx-texclass="CLOSE">|</mo></mrow></mtd><mtd><mrow><mi>&lt;mi/&gt;</mi><mo>=</mo><mn>6</mn><mtext>,</mtext></mrow></mtd><mtd><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mi data-mjx-auto-op="false">aabab</mi><mo data-mjx-texclass="CLOSE">|</mo></mrow></mtd><mtd><mrow><mi>&lt;mi/&gt;</mi><mo>=</mo><mn>5</mn><mtext>.</mtext></mrow></mtd></mtr></mtable></math>
-<math><mi mathvariant="normal">∅</mi></math>
 <math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>⪯</mo><msub><mi>a</mi><mn>2</mn></msub></mrow></math>
 <math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>≤</mo><msub><mi>a</mi><mn>2</mn></msub></mrow></math>
 <math><mrow><mo fence="false" stretchy="false">{</mo><mn>1</mn><mo fence="false" stretchy="false">}</mo><mo>,</mo><mo fence="false" stretchy="false">{</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo fence="false" stretchy="false">}</mo></mrow></math>
@@ -1662,7 +1650,6 @@
 <math><mrow><mi>C</mi><mo stretchy="false">(</mo><mn>20</mn><mo>,</mo><mn>12</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>C</mi><mo stretchy="false">(</mo><mn>8</mn><mo>,</mo><mn>4</mn><mo stretchy="false">)</mo></mrow></math>
 <math><mrow><mi>C</mi><mo stretchy="false">(</mo><mn>20</mn><mo>,</mo><mn>12</mn><mo stretchy="false">)</mo><mo>⋅</mo><mi>C</mi><mo stretchy="false">(</mo><mn>12</mn><mo>,</mo><mn>4</mn><mo stretchy="false">)</mo><mo>⋅</mo><mi>C</mi><mo stretchy="false">(</mo><mn>8</mn><mo>,</mo><mn>4</mn><mo stretchy="false">)</mo><mo>=</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mfrac><mrow><mn>20</mn><mo>!</mo></mrow><mrow><menclose notation="updiagonalstrike"><mrow><mn>12</mn><mo>!</mo></mrow></menclose><mspace width="0.167em"></mspace><mn>8</mn><mo>!</mo></mrow></mfrac><mo data-mjx-texclass="CLOSE">)</mo></mrow><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mfrac><menclose notation="updiagonalstrike"><mrow><mn>12</mn><mo>!</mo></mrow></menclose><mrow><mn>4</mn><mo>!</mo><mspace width="0.167em"></mspace><menclose notation="downdiagonalstrike"><mrow><mn>8</mn><mo>!</mo></mrow></menclose></mrow></mfrac><mo data-mjx-texclass="CLOSE">)</mo></mrow><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mfrac><menclose notation="downdiagonalstrike"><mrow><mn>8</mn><mo>!</mo></mrow></menclose><mrow><mn>4</mn><mo>!</mo><mspace width="0.167em"></mspace><mn>4</mn><mo>!</mo></mrow></mfrac><mo data-mjx-texclass="CLOSE">)</mo></mrow><mo>=</mo><mfrac><mrow><mn>20</mn><mo>!</mo></mrow><mrow><mn>8</mn><mo>!</mo><mspace width="0.167em"></mspace><mo stretchy="false">(</mo><mn>4</mn><mo>!</mo><msup><mo stretchy="false">)</mo><mn>3</mn></msup></mrow></mfrac><mo>.</mo></mrow></math>
-<math><mrow><mfrac><mrow><mn>20</mn><mo>!</mo></mrow><mrow><mn>3</mn><mo>!</mo><mspace width="0.167em"></mspace><mn>8</mn><mo>!</mo><mspace width="0.167em"></mspace><mo stretchy="false">(</mo><mn>4</mn><mo>!</mo><msup><mo stretchy="false">)</mo><mn>3</mn></msup></mrow></mfrac><mo>.</mo></mrow></math>
 <math><msub><mi>v</mi><mn>0</mn></msub></math>
 <math><mrow><msubsup><mi>G</mi><mn>1</mn><mo data-mjx-alternate="1">′</mo></msubsup><mo>,</mo><mo>…</mo><mo>,</mo><msubsup><mi>G</mi><mi>ℓ</mi><mo data-mjx-alternate="1">′</mo></msubsup><mtext>.</mtext></mrow></math>
 <math><mrow><mi>n</mi><mo>=</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mi>V</mi><mo data-mjx-texclass="CLOSE">|</mo></mrow><mtext>,</mtext></mrow></math>
@@ -1960,7 +1947,6 @@
 <math><mrow><mi>U</mi><mo>=</mo><mi>A</mi><mo>⊔</mo><msup><mi>A</mi><mi mathvariant="normal">c</mi></msup></mrow></math>
 <math><mrow><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mi>A</mi><mo data-mjx-texclass="CLOSE">|</mo></mrow><mtext>.</mtext></mrow></math>
 <math><mrow><mi mathvariant="normal">a</mi><mtext>?</mtext></mrow></math>
-<math><mrow><mi mathvariant="normal">a</mi><mtext>,</mtext></mrow></math>
 <math><mn>26</mn></math>
 <math><mtable displaystyle="true" columnalign="right left" columnspacing="0em" rowspacing="3pt" minlabelspacing=".8em"><mtr><mtd><mrow><mi data-mjx-texclass="OP" mathvariant="normal">#</mi><mo fence="false" stretchy="false">{</mo><mn>2</mn><mtext>-letter words not beginning with </mtext><mi mathvariant="normal">a</mi><mo fence="false" stretchy="false">}</mo></mrow></mtd><mtd><mrow><mi>&lt;mi/&gt;</mi><mo>=</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><msubsup><mi mathvariant="normal">Σ</mi><mn>2</mn><mo>∗</mo></msubsup><mo data-mjx-texclass="CLOSE">|</mo></mrow><mo>−</mo><mi data-mjx-texclass="OP" mathvariant="normal">#</mi><mo fence="false" stretchy="false">{</mo><mn>2</mn><mtext>-letter words beginning with </mtext><mi mathvariant="normal">a</mi><mo fence="false" stretchy="false">}</mo></mrow></mtd></mtr><mtr><mtd/><mtd><mrow><mi>&lt;mi/&gt;</mi><mo>=</mo><msup><mn>26</mn><mn>2</mn></msup><mo>−</mo><mn>26</mn></mrow></mtd></mtr><mtr><mtd/><mtd><mrow><mi>&lt;mi/&gt;</mi><mo>=</mo><mn>26</mn><mo stretchy="false">(</mo><mn>26</mn><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></mtd></mtr><mtr><mtd/><mtd><mrow><mi>&lt;mi/&gt;</mi><mo>=</mo><mn>26</mn><mo>⋅</mo><mn>25</mn><mtext>.</mtext></mrow></mtd></mtr></mtable></math>
 <math><mrow><mi mathvariant="normal">Σ</mi><mo>=</mo><mo fence="false" stretchy="false">{</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo fence="false" stretchy="false">}</mo><mtext>:</mtext></mrow></math>
@@ -2052,7 +2038,6 @@
 <math><msup><mi>m</mi><mi data-mjx-auto-op="false">th</mi></msup></math>
 <math><mrow><msub><mi>b</mi><mi>k</mi></msub><mtext>,</mtext></mrow></math>
 <math><mrow><msub><mi>s</mi><mi>k</mi></msub><mtext>,</mtext></mrow></math>
-<math><mrow><mo fence="false" stretchy="false">{</mo><mo fence="false" stretchy="false">}</mo></mrow></math>
 <math><mrow><mo fence="false" stretchy="false">{</mo><msup><mi>k</mi><mn>2</mn></msup><mo fence="false" stretchy="false">}</mo></mrow></math>
 <math><mrow><mn>0</mn><mo>,</mo><mspace width="0.167em"></mspace><mn>1</mn><mo>,</mo><mspace width="0.167em"></mspace><mn>4</mn><mo>,</mo><mspace width="0.167em"></mspace><mn>9</mn><mo>,</mo><mspace width="0.167em"></mspace><mn>16</mn><mo>,</mo><mspace width="0.167em"></mspace><mn>25</mn><mo>,</mo><mspace width="0.167em"></mspace><mo>…</mo><mo>,</mo><mspace width="0.167em"></mspace><msup><mi>k</mi><mn>2</mn></msup><mo>,</mo><mspace width="0.167em"></mspace><mo>…</mo><mtext>.</mtext></mrow></math>
 <math><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">{</mo><mo stretchy="false">(</mo><mo>−</mo><mn>1</mn><msup><mo stretchy="false">)</mo><mi>k</mi></msup><msubsup><mo data-mjx-texclass="OP">∫</mo><mn>1</mn><mrow data-mjx-texclass="ORD"><mi>k</mi><mo>+</mo><mn>1</mn></mrow></msubsup><mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mi>x</mi></mfrac><mo data-mjx-texclass="CLOSE">}</mo></mrow></math>
@@ -2948,7 +2933,6 @@
 <math><mrow><mi data-mjx-variant="-tex-calligraphic" mathvariant="script">P</mi><mo stretchy="false">(</mo><mi>A</mi><mo stretchy="false">)</mo><mo>≠</mo><mi data-mjx-alternate="1">∅</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mi>A</mi><mo>=</mo><mi data-mjx-alternate="1">∅</mi><mtext>,</mtext></mrow></math>
 <math><mrow><mi data-mjx-variant="-tex-calligraphic" mathvariant="script">P</mi><mo stretchy="false">(</mo><mi data-mjx-alternate="1">∅</mi><mo stretchy="false">)</mo><mo>=</mo><mo fence="false" stretchy="false">{</mo><mi data-mjx-alternate="1">∅</mi><mo fence="false" stretchy="false">}</mo><mo>≠</mo><mi data-mjx-alternate="1">∅</mi><mtext>.</mtext></mrow></math>
-<math><mrow><mi data-mjx-variant="-tex-calligraphic" mathvariant="script">P</mi><mo stretchy="false">(</mo><mi>A</mi><mo stretchy="false">)</mo><mo>=</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">{</mo><mspace width="0.278em"></mspace><mi data-mjx-alternate="1">∅</mi><mo>,</mo><mspace width="0.278em"></mspace><mo fence="false" stretchy="false">{</mo><mi>a</mi><mo fence="false" stretchy="false">}</mo><mo>,</mo><mspace width="0.278em"></mspace><mo fence="false" stretchy="false">{</mo><mi>b</mi><mo fence="false" stretchy="false">}</mo><mo>,</mo><mspace width="0.278em"></mspace><mo fence="false" stretchy="false">{</mo><mi>c</mi><mo fence="false" stretchy="false">}</mo><mo>,</mo><mspace width="0.278em"></mspace><mo fence="false" stretchy="false">{</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo fence="false" stretchy="false">}</mo><mo>,</mo><mspace width="0.278em"></mspace><mo fence="false" stretchy="false">{</mo><mi>a</mi><mo>,</mo><mi>c</mi><mo fence="false" stretchy="false">}</mo><mo>,</mo><mspace width="0.278em"></mspace><mo fence="false" stretchy="false">{</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo fence="false" stretchy="false">}</mo><mo>,</mo><mspace width="0.278em"></mspace><mo fence="false" stretchy="false">{</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>c</mi><mo fence="false" stretchy="false">}</mo><mspace width="0.278em"></mspace><mo data-mjx-texclass="CLOSE">}</mo></mrow><mtext>.</mtext></mrow></math>
 <math><mrow><mi>X</mi><mo>⊆</mo><mi data-mjx-variant="-tex-calligraphic" mathvariant="script">P</mi><mo stretchy="false">(</mo><mi mathvariant="double-struck">N</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mi>R</mi><mo>=</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">{</mo><mrow data-mjx-texclass="REL"/><mtext>any set </mtext><mi>X</mi><mrow data-mjx-texclass="REL"/><mrow data-mjx-texclass="CLOSE"/><mo>|</mo><mrow data-mjx-texclass="OPEN"/><mrow data-mjx-texclass="REL"/><mi>X</mi><mtext> is not an element of itself.</mtext><mrow data-mjx-texclass="REL"/><mo data-mjx-texclass="CLOSE">}</mo></mrow><mtext>.</mtext></mrow></math>
 <math><mrow><mi>R</mi><mtext>;</mtext></mrow></math>
