@@ -16,15 +16,14 @@
 <math><mi>a</mi></math>
 <math><mrow><mo>{</mo><mn>18</mn><mo>,</mo><mspace width="0.5em"></mspace><mtext>&lt;mtext/&gt;</mtext><mn>16</mn><mo>,</mo><mspace width="0.5em"></mspace><mtext>&lt;mtext/&gt;</mtext><mn>14</mn><mo>,</mo><mspace width="0.5em"></mspace><mtext>&lt;mtext/&gt;</mtext><mn>12</mn><mo>,</mo><mspace width="0.5em"></mspace><mtext>&lt;mtext/&gt;</mtext><mn>10</mn><mo>,</mo><mo>…</mo><mo>}</mo></mrow></math>
 <math><mi>n</mi></math>
-<math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>17</mn></mrow></math>
-<math><mrow><mo>−</mo><mn>3</mn></mrow></math>
-<math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>1</mn></mrow></math>
-<math><mrow><mi>d</mi><mo>.</mo></mrow></math>
-<math><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mo stretchy="false">(</mo><mi>n</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mi>d</mi><mo>.</mo></mrow></math>
-<math><mrow><msub><mi>a</mi><mn>4</mn></msub><mo>=</mo><mn>14</mn></mrow></math>
-<math><mrow><mo>{</mo><mrow><mn>8</mn><mo>,</mo><mn>8</mn><mo>+</mo><mi>d</mi><mo>,</mo><mn>8</mn><mo>+</mo><mn>2</mn><mi>d</mi><mo>,</mo><mn>8</mn><mo>+</mo><mn>3</mn><mi>d</mi></mrow><mo>}</mo></mrow></math>
-<math><mtable columnalign="left"><mtr columnalign="left"><mtd columnalign="left"><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mo stretchy="false">(</mo><mi>n</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mi>d</mi></mrow></mtd><mtd columnalign="left"><mrow/></mtd></mtr><mtr columnalign="left"><mtd columnalign="left"><mrow><msub><mi>a</mi><mn>4</mn></msub><mo>=</mo><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mn>3</mn><mi>d</mi></mrow></mtd><mtd columnalign="left"><mrow/></mtd></mtr><mtr columnalign="left"><mtd columnalign="left"><mrow><msub><mi>a</mi><mn>4</mn></msub><mo>=</mo><mn>8</mn><mo>+</mo><mn>3</mn><mi>d</mi></mrow></mtd><mtd columnalign="left"><mrow><mtext>Write the fourth term of the sequence in terms of</mtext><mo> </mo><msub><mi>a</mi><mn>1</mn></msub><mo> </mo><mtext>and</mtext><mo> </mo><mi>d</mi><mo>.</mo></mrow></mtd></mtr><mtr columnalign="left"><mtd columnalign="left"><mrow><mn>14</mn><mo>=</mo><mn>8</mn><mo>+</mo><mn>3</mn><mi>d</mi></mrow></mtd><mtd columnalign="left"><mrow><mtext>Substitute</mtext><mo> </mo><mn>14</mn><mo> </mo><mtext>for</mtext><mo> </mo><msub><mi>a</mi><mn>4</mn></msub><mo>.</mo></mrow></mtd></mtr><mtr columnalign="left"><mtd columnalign="left"><mrow><mo> </mo><mspace width="0.5em"></mspace><mspace width="0.5em"></mspace><mi>d</mi><mo>=</mo><mn>2</mn></mrow></mtd><mtd columnalign="left"><mrow><mtext>Solve for the common difference</mtext><mo>.</mo></mrow></mtd></mtr></mtable></math>
-<math><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mrow><mo>(</mo><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mi>d</mi><mo>.</mo></mrow></math>
+<math><mrow><mi>d</mi><mo>=</mo><mo>−</mo><mn>3</mn></mrow></math>
+<math><mrow><mo>{</mo><mn>17</mn><mo>,</mo><mspace width="0.5em"></mspace><mn>14</mn><mo>,</mo><mspace width="0.5em"></mspace><mn>11</mn><mo>,</mo><mspace width="0.5em"></mspace><mn>8</mn><mo>,</mo><mspace width="0.5em"></mspace><mn>5</mn><mo>}</mo></mrow></math>
+<math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>,</mo><msub><mi>a</mi><mi>n</mi></msub><mo>,</mo><mi>n</mi></mrow></math>
+<math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>,</mo><mi>n</mi><mo>,</mo></mrow></math>
+<math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>8</mn></mrow></math>
+<math><msub><mi>a</mi><mn>5</mn></msub></math>
+<math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mn>3</mn><mi>d</mi><mo>=</mo><mn>8</mn><mo>+</mo><mn>3</mn><mi>d</mi></mrow></math>
+<math><mrow><msub><mi>a</mi><mn>5</mn></msub><mo>=</mo><msub><mi>a</mi><mn>4</mn></msub><mo>+</mo><mn>2</mn><mo>=</mo><mn>16</mn></mrow></math>
 <math><mrow><msub><mi>a</mi><mn>5</mn></msub><mo>=</mo><mn>17</mn></mrow></math>
 <math><mtable columnalign="left"><mtr columnalign="left"><mtd columnalign="left"><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msub><mi>a</mi><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow></msub><mo>+</mo><mi>d</mi></mrow></mtd><mtd columnalign="left"><mrow/></mtd><mtd columnalign="left"><mrow/></mtd><mtd columnalign="left"><mrow/></mtd><mtd columnalign="left"><mrow><mi>n</mi><mo>≥</mo><mn>2</mn></mrow></mtd></mtr></mtable></math>
 <math><mn>−18</mn></math>
@@ -118,3 +117,4 @@
 <math><mrow><mn>64</mn><msup><mi>q</mi><mn>3</mn></msup><mo>−</mo><mn>27</mn><msup><mi>p</mi><mn>3</mn></msup></mrow></math>
 <math><mrow><mn>3</mn><mi>p</mi><msup><mrow><mo>(</mo><mrow><mi>p</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></msup><mn>−8</mn><msup><mrow><mo>(</mo><mrow><mi>p</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mfrac><mn>4</mn><mn>3</mn></mfrac></msup></mrow></math>
 <math><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>−</mo><mn>12</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>16</mn></mrow></mfrac></math>
+<math><mrow><mfrac><mrow><mn>2</mn><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mi>a</mi><mo>−</mo><mn>3</mn></mrow><mrow><mn>2</mn><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>a</mi><mo>−</mo><mn>8</mn></mrow></mfrac><mo>⋅</mo><mfrac><mrow><mn>5</mn><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>19</mn><mi>a</mi><mo>−</mo><mn>4</mn></mrow><mrow><mn>10</mn><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>13</mn><mi>a</mi><mo>−</mo><mn>3</mn></mrow></mfrac></mrow></math>

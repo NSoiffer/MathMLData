@@ -62,19 +62,18 @@
 <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mi>Γ</mi><mo stretchy="false">(</mo><mfrac><mrow><mi>u</mi><mo>+</mo><mi>v</mi></mrow><mn>2</mn></mfrac><mo stretchy="false">)</mo></mrow><mrow><mi>Γ</mi><mo stretchy="false">(</mo><mfrac><mi>u</mi><mn>2</mn></mfrac><mo stretchy="false">)</mo><mi>Γ</mi><mo stretchy="false">(</mo><mfrac><mi>v</mi><mn>2</mn></mfrac><mo stretchy="false">)</mo></mrow></mfrac><msup><mrow><mo stretchy="false">(</mo><mfrac><mi>u</mi><mi>v</mi></mfrac><mo stretchy="false">)</mo></mrow><mfrac><mi>u</mi><mn>2</mn></mfrac></msup><msup><mi>x</mi><mrow><mo stretchy="false">(</mo><mfrac><mi>u</mi><mn>2</mn></mfrac><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></msup><mo stretchy="false">[</mo><mn>1</mn><mo>+</mo><mo stretchy="false">(</mo><mfrac><mi>u</mi><mi>v</mi></mfrac><mo stretchy="false">)</mo><msup><mi>x</mi><mrow><mo>−</mo><mn>0.5</mn><mo stretchy="false">(</mo><mi>u</mi><mo>+</mo><mi>v</mi><mo stretchy="false">)</mo></mrow></msup><mo stretchy="false">]</mo></mrow></math>
 <math><mi>Y</mi></math>
 <math><msqrt><mtable><mtr><mtd><mtext>  </mtext></mtd></mtr><mtr><mtd><mtext>      </mtext></mtd></mtr></mtable></msqrt></math>
-<math><mover><mi>x</mi><mo>¯</mo></mover></math>
-<math><msup><mi>s</mi><mn>2</mn></msup></math>
-<math><mi>σ</mi></math>
-<math><msup><mi>σ</mi><mn>2</mn></msup></math>
-<math><mi>Σ</mi></math>
-<math><mi>S</mi></math>
-<math><mrow><mi>P</mi><mrow><mo>(</mo><mi>A</mi><mo>)</mo></mrow></mrow></math>
-<math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>A</mi><mtext> OR </mtext><mi>B</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mi>λ</mi></math>
-<math><mrow><mi>&lt;mi/&gt;</mi><mo>≤</mo><mi>&lt;mi/&gt;</mi></mrow></math>
-<math><msub><mi>μ</mi><mover accent="true"><mi>x</mi><mo>¯</mo></mover></msub></math>
-<math><mrow><mi>Σ</mi><mi>X</mi></mrow></math>
-<math><msub><mi>t</mi><mfrac><mi>α</mi><mn>2</mn></mfrac></msub></math>
+<math><mi>μ</mi></math>
+<math><msubsup><mi>s</mi><mi>x</mi><mn>2</mn></msubsup></math>
+<math><msub><mi>σ</mi><mi>x</mi></msub></math>
+<math><msubsup><mi>σ</mi><mi>x</mi><mn>2</mn></msubsup></math>
+<math><mrow><mo>{</mo><mo>}</mo></mrow></math>
+<math><mi>A</mi></math>
+<math><mrow><mi>P</mi><mo stretchy="false">(</mo><mtext mathvariant="italic">A</mtext><mtext>|</mtext><mtext mathvariant="italic">B</mtext><mo stretchy="false">)</mo></mrow></math>
+<math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>A</mi><mtext> AND </mtext><mi>B</mi><mo stretchy="false">)</mo></mrow></math>
+<math><mrow><mi>&lt;mi/&gt;</mi><mo>≥</mo><mi>&lt;mi/&gt;</mi></mrow></math>
+<math><msub><mi>μ</mi><mi>x</mi></msub></math>
+<math><msub><mi>σ</mi><mover accent="true"><mi>x</mi><mo>¯</mo></mover></msub></math>
+<math><mrow><mi>Σ</mi><mi>x</mi></mrow></math>
 <math><mover><mi>p</mi><mo>^</mo></mover></math>
 <math><mover><mi>q</mi><mo>^</mo></mover></math>
 <math><msub><mi>H</mi><mi>a</mi></msub></math>
@@ -118,3 +117,4 @@
 <math><mrow><mo>(</mo><mrow><mn>0.</mn><mtext>90,8</mtext><mtext>.2,</mtext><mfrac><mn>1</mn><msqrt><mn>60</mn></msqrt></mfrac></mrow><mo>)</mo></mrow></math>
 <math><mrow><mfrac><mtext>36,648,561</mtext><mtext>4</mtext></mfrac><mtext> = 9,162,140</mtext></mrow></math>
 <math><mrow><mfrac><mtext>20,446,726</mtext><mtext>10</mtext></mfrac><mtext> = 2,044,672</mtext><mtext>.6</mtext></mrow></math>
+<math><mrow><msub><mi>s</mi><mover accent="true"><mi>x</mi><mo>¯</mo></mover></msub><msup><mrow/><mn>2</mn></msup></mrow></math>

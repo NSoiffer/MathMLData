@@ -3,7 +3,7 @@ import yaml
 from typing import Any
 import sys
 from pathlib import Path
-sys.stdout.reconfigure(encoding='utf-8')  # in case print statements are used for debugging
+sys.stdout.reconfigure(encoding="utf-8")  # type: ignore[attr-defined]
 
 # Python 3.12+ Type Alias
 type CharMapping = dict[str, str]

@@ -62,19 +62,18 @@
 <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mfrac> <mrow> <mi>Γ</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mfrac> <mrow> <mi>u</mi> <mo>+</mo> <mi>v</mi> </mrow> <mn>2</mn> </mfrac> <mo>)</mo> </mrow> </mrow> <mrow> <mrow> <mi>Γ</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mfrac> <mi>u</mi> <mn>2</mn> </mfrac> <mo>)</mo> </mrow> </mrow> <mo>⁢</mo> <mrow> <mi>Γ</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mfrac> <mi>v</mi> <mn>2</mn> </mfrac> <mo>)</mo> </mrow> </mrow> </mrow> </mfrac> <mo>⁢</mo> <msup> <mrow> <mo>(</mo> <mfrac> <mi>u</mi> <mi>v</mi> </mfrac> <mo>)</mo> </mrow> <mfrac> <mi>u</mi> <mn>2</mn> </mfrac> </msup> <mo>⁢</mo> <msup> <mi>x</mi> <mrow> <mo>(</mo> <mrow> <mfrac> <mi>u</mi> <mn>2</mn> </mfrac> <mo>-</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </msup> <mo>⁢</mo> <mrow> <mo>[</mo> <mrow> <mn>1</mn> <mo>+</mo> <mrow> <mrow> <mo>(</mo> <mfrac> <mi>u</mi> <mi>v</mi> </mfrac> <mo>)</mo> </mrow> <mo>⁢</mo> <msup> <mi>x</mi> <mrow> <mrow> <mo>-</mo> <mn>0.5</mn> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>u</mi> <mo>+</mo> <mi>v</mi> </mrow> <mo>)</mo> </mrow> </mrow> </msup> </mrow> </mrow> <mo>]</mo> </mrow> </mrow> </mrow> </math>
 <math> <mi>Y</mi> </math>
 <math> <msqrt> <mtable> <mtr> <mtd> <mtext> </mtext> </mtd> </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> </mtr> </mtable> </msqrt> </math>
-<math> <mover> <mi>x</mi> <mo>¯</mo> </mover> </math>
-<math> <msup> <mi>s</mi> <mn>2</mn> </msup> </math>
-<math> <mi>σ</mi> </math>
-<math> <msup> <mi>σ</mi> <mn>2</mn> </msup> </math>
-<math> <mi>Σ</mi> </math>
-<math> <mi>S</mi> </math>
-<math> <mrow> <mi>P</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>A</mi> <mo>)</mo> </mrow> </mrow> </math>
-<math> <mrow> <mi>P</mi> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>A</mi> <mo>⁢</mo> <mtext> OR </mtext> <mo>⁢</mo> <mi>B</mi> </mrow> <mo>)</mo> </mrow> </mrow> </math>
-<math> <mi>λ</mi> </math>
-<math> <mrow> <mi>&lt;mi/&gt;</mi> <mo>≤</mo> <mi>&lt;mi/&gt;</mi> </mrow> </math>
-<math> <msub> <mi>μ</mi> <mover> <mi>x</mi> <mo>¯</mo> </mover> </msub> </math>
-<math> <mrow> <mi>Σ</mi> <mo>⁢</mo> <mi>X</mi> </mrow> </math>
-<math> <msub> <mi>t</mi> <mfrac> <mi>α</mi> <mn>2</mn> </mfrac> </msub> </math>
+<math> <mi>μ</mi> </math>
+<math> <msubsup> <mi>s</mi> <mi>x</mi> <mn>2</mn> </msubsup> </math>
+<math> <msub> <mi>σ</mi> <mi>x</mi> </msub> </math>
+<math> <msubsup> <mi>σ</mi> <mi>x</mi> <mn>2</mn> </msubsup> </math>
+<math> <mrow> <mo>{</mo> <mo>}</mo> </mrow> </math>
+<math> <mi>A</mi> </math>
+<math> <mrow> <mi>P</mi> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mtext>A</mtext> <mo>|</mo> <mtext>B</mtext> </mrow> <mo>)</mo> </mrow> </mrow> </math>
+<math> <mrow> <mi>P</mi> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>A</mi> <mo>⁢</mo> <mtext> AND </mtext> <mo>⁢</mo> <mi>B</mi> </mrow> <mo>)</mo> </mrow> </mrow> </math>
+<math> <mrow> <mi>&lt;mi/&gt;</mi> <mo>≥</mo> <mi>&lt;mi/&gt;</mi> </mrow> </math>
+<math> <msub> <mi>μ</mi> <mi>x</mi> </msub> </math>
+<math> <msub> <mi>σ</mi> <mover> <mi>x</mi> <mo>¯</mo> </mover> </msub> </math>
+<math> <mrow> <mi>Σ</mi> <mo>⁢</mo> <mi>x</mi> </mrow> </math>
 <math> <mover> <mi>p</mi> <mo>^</mo> </mover> </math>
 <math> <mover> <mi>q</mi> <mo>^</mo> </mover> </math>
 <math> <msub> <mi>H</mi> <mi>a</mi> </msub> </math>
@@ -118,3 +117,4 @@
 <math> <mrow> <mo>(</mo> <mrow> <mn>0.</mn> <mo>⁢</mo> <mtext>90,8</mtext> <mo>⁢</mo> <mtext>.2,</mtext> <mo>⁢</mo> <mfrac> <mn>1</mn> <msqrt> <mn>60</mn> </msqrt> </mfrac> </mrow> <mo>)</mo> </mrow> </math>
 <math> <mrow> <mfrac> <mtext>36,648,561</mtext> <mtext>4</mtext> </mfrac> <mo>⁢</mo> <mtext> = 9,162,140</mtext> </mrow> </math>
 <math> <mrow> <mfrac> <mtext>20,446,726</mtext> <mtext>10</mtext> </mfrac> <mo>⁢</mo> <mtext> = 2,044,672</mtext> <mo>⁢</mo> <mtext>.6</mtext> </mrow> </math>
+<math> <mmultiscripts> <mi>s</mi> <mover> <mi>x</mi> <mo>¯</mo> </mover> <none></none> <none></none> <mn>2</mn> </mmultiscripts> </math>

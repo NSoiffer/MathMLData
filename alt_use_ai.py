@@ -137,6 +137,35 @@ def math_examples_from_data(
     return examples
 
 
+def math_examples_from_isolated_data(
+    mathml_path: str,
+    braille_path: str,
+    code: BrailleCode,
+) -> list[MathExample]:
+    """Build example objects from in-memory data by zipping mathml and braille lists."""
+    with open(mathml_path, "r", encoding="utf-8") as f_m:
+        mathml = [line.strip() for line in f_m]
+
+    with open(braille_path, "r", encoding="utf-8") as f_n:
+        braille = [line.strip() for line in f_n]
+
+    if len(mathml) != len(braille):
+        raise ValueError(f"Length mismatch: {mathml_path} has {len(mathml)} items !="
+                         f"{braille_path} has {len(braille)} items != {len(mathml)}"
+                         )
+
+    examples: list[MathExample] = []
+    for i in range(len(mathml)):
+        if mathml[i] != "" and braille[i] != "":
+            examples.append(MathExample(
+                mathml=mathml[i],
+                braille=braille[i],
+                code=code
+            ))
+
+    return examples
+
+
 # ============================================================
 # Symbol Extraction + Structural Context
 # ============================================================
@@ -650,34 +679,33 @@ def build_prompt(
                             "- a letter with an integer subscript should NOT use a subscript indicator "
                             "if the subscript is not inside of a subscript or superscript.")
         else:  # UEB
-            query_block += ("Some things to remember about UEB Braille: \n"
-                            " - grade 1 indicators ⠰, grade 1 word indicators ⠰⠰, and grade 1 passage indicators ⠰⠰⠰ "
-                            "are often needed at the start of a line. \n"
-                            " - in general, you want to minimize the use of grade 1 indicators, "
-                            "(each ⠰ counts as an instance of a grade 1 indicator). "
-                            "Choose word or passage indicators when they result in few grade 1 indicators. "
-                            "If there are more than two braille spaces (⠀), use the grade 1 passage indicators.\n"
-                            "- A letter or unbroken sequence of letters is 'standing alone' if the "
-                            "symbols before and after the letter or sequence are spaces, hyphens, dashes "
-                            "or any combination thereof, including some common punctuation. "
-                            "An opening bracking character before a sequence or closing bracking character after a sequence "
-                            "should be included in the above definition of 'standing alone'. "
-                            "A single letter (excluding a, i and o) is considered 'standing alone' if it is preceded by a space.\n"
-                            "- A grade 1 indicator ⠰ is needed before a standing alone letter or sequence of letters.\n"
-                            "- the number sign indicator ⠼ is ONLY needed before digits and starts numeric mode.\n"
-                            "- All fraction, root, subscript, superscript, etc., indicators MUST use grade 1 mode.\n"
-                            "- Numeric mode includes the digits and the fraction line (⠌) for simple numeric fractions. "
-                            "It also includes ',', '.', and spaces when they appear inside of MathML mn elements.\n"
-                            "- if the letters a-j follow a digit, a grade 1 indicator ⠰ is needed before the letter.\n"
-                            "- numeric fraction do not use start or end fraction indicators, but all other fractions "
-                            "start with ⠷, end with ⠾, and use ⠨⠌ as the fraction bar.\n"
-                            "- all subscripts MUST start with the subscript indicator ⠢.\n"
-                            )
+            query_block += (
+                "Some things to remember about UEB Braille:\n"
+                " - grade 1 indicators ⠰, grade 1 word indicators ⠰⠰, and grade 1 passage indicators ⠰⠰⠰ are "
+                "often needed at the start of a line.\n"
+                " - in general, you want to minimize the use of grade 1 indicators (each ⠰ counts as an instance of "
+                "a grade 1 indicator). Choose word or passage indicators when they result in fewer grade 1 "
+                "indicators. If there are more than two braille spaces (⠀), use the grade 1 passage indicators.\n"
+                "- A letter or unbroken sequence of letters is 'standing alone' if the symbols before and after the "
+                "letter or sequence are spaces, hyphens, dashes, or any combination thereof, including some common "
+                "punctuation. An opening bracketing character before a sequence or closing bracketing character after "
+                "a sequence should be included in the above definition of 'standing alone'. A single letter (excluding "
+                "a, i and o) is considered 'standing alone' if it is preceded by a space.\n"
+                "- A grade 1 indicator ⠰ is needed before a standing alone letter or sequence of letters.\n"
+                "- the number sign indicator ⠼ is ONLY needed before digits and starts numeric mode.\n"
+                "- All fraction, root, subscript, superscript, etc., indicators MUST use grade 1 mode.\n"
+                "- Numeric mode includes the digits and the fraction line (⠌) for simple numeric fractions. It also "
+                "includes ',', '.', and spaces when they appear inside of MathML mn elements.\n"
+                "- if the lowercase letters a-j follow a digit, you MUST use a grade 1 indicator ⠰ before the letter.\n"
+                "- numeric fraction do not use start or end fraction indicators, but all other fractions start with ⠷, "
+                "end with ⠾, and use ⠨⠌ as the fraction bar.\n"
+                "- all subscripts MUST start with the subscript indicator ⠢.\n"
+            )
     else:
         header = (
             f"You are a expert {code.value.upper()} Braille to MathML translator.\n"
             f"Use the pairs of examples to infer the correct mapping from {code.value.upper()} Braille to MathML.\n\n"
-        )   
+        )
         if len(examples) == 0:
             examples_text = ""
         else:
@@ -1117,7 +1145,8 @@ def write_results_to_file(mode: str,
                           first_test_index: int,
                           last_test_index: int,
                           info: dict[str, int],  # time is in ms
-                          output_file: str) -> None:
+                          output_file: str,
+                          ai_config: ModelConfig) -> None:
     """
     Write the results out after comparing the computed and expected MathML outputs.
     If show_normalized = True, computed_output and expected_output should both be MathML (=> input is braille)
@@ -1126,6 +1155,7 @@ def write_results_to_file(mode: str,
     """
     usage_info = str(info)[1:-1].replace("'", "").replace(": ", "=")
     print(f"Generated {len(computed_output)} outputs. Stats: {usage_info}ms")
+    print(f"AI provider: {ai_config.provider}, model: {ai_config.model}")
     is_mathml_output = expected_output[0].startswith('<math')
     if len(computed_output) == 0:
         print("!!!No computed outputs to write.")
@@ -1155,7 +1185,7 @@ def write_results_to_file(mode: str,
                 if is_mathml_output:
                     checked = areCanonicallyEqual(expected, computed)
                 else:
-                    checked = CanonicalResults(expected.strip() == computed.strip(), "", "")
+                    checked = CanonicalResults(expected.strip().strip(' ') == computed.strip().strip(' '), "", "")
                 if checked.isEqual:
                     match_count += 1
             except Exception:
@@ -1233,8 +1263,8 @@ def parse_cli_args() -> tuple[
     parser.add_argument(
         "--service-tier",
         choices=["auto", "flex"],
-        default="auto",
-        help="OpenAI service tier (auto or flex). Default: auto."
+        default="flex",   # saves money, but slower than auto
+        help="OpenAI service tier (auto or flex). Default: flex."
     )
 
     args = parser.parse_args()
@@ -1268,13 +1298,24 @@ def run_tests(
     ai_config: ModelConfig,
 ) -> None:
     # ---------------------------------------------------------
-    # Load examples and tests
+    # Load examples and tests starting with the RustTestData
     # ---------------------------------------------------------
-    examples = load_math_examples_triple(
+    examples = math_examples_from_isolated_data(
+        "RustTestData/Nemeth-cnclz.mmls",
+        "RustTestData/Nemeth.brls",
+        BrailleCode.NEMETH
+    )
+    examples.extend(math_examples_from_isolated_data(
+        mathml_path="RustTestData/UEB-cnclz.mmls",
+        braille_path="RustTestData/UEB.brls",
+        code=BrailleCode.UEB
+    ))
+
+    examples.extend(load_math_examples_triple(
         "example_data/canonical-mathml.mmls",
         "example_data/nemeth.brls",
         "example_data/ueb.brls",
-    )
+    ))
 
     test_mathml, test_nemeth, test_ueb = load_tests_triple(
         "test_data/canonical-mathml.mmls",
@@ -1428,7 +1469,8 @@ def run_tests(
                 test_start,
                 test_start + n_tests,
                 totals,
-                config["output_path"]
+                config["output_path"],
+                ai_config
             )
 
             # Evaluate accuracy

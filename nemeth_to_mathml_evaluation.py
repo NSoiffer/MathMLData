@@ -241,7 +241,7 @@ def sample_few_shot_examples(example_pool: List[Dict[str, Any]],
 def build_system_prompt() -> str:
     """Build the system instruction for the model."""
     return """You are an expert in Nemeth Braille mathematics notation.
-              Your task is to translate Nemeth Braille expressions into valid MathML (Mathematical Markup Language) XML format.
+              Your task is to translate Nemeth Braille expressions into valid MathML XML format.
 
 NEMETH BRAILLE ENCODING RULES:
 

@@ -66,10 +66,9 @@ def write_samples(output_dir, subfolder, source_name, extension, lines):
         f.writelines(lines)
 
 
-def split_aligned_data(nemeth_file, ueb_file, mathml_file, sample_size, duplicate_oversampling_factor=2):
+def split_aligned_data(nemeth_file, ueb_file, mathml_file, sample_size):
     """
     Sample two disjoint aligned sets from all three file types.
-    
     Returns:
         Dictionary with keys: test_nemeth, test_ueb, test_mathml,
         example_nemeth, example_ueb, example_mathml
@@ -103,7 +102,7 @@ def split_aligned_data(nemeth_file, ueb_file, mathml_file, sample_size, duplicat
             unique_lines.add(all_indices[i])
             unique_indices.append(random_indices[i])
     if len(unique_indices) < sample_size:
-        return split_aligned_data(nemeth_file, ueb_file, mathml_file, sample_size, 2*duplicate_oversampling_factor)
+        return split_aligned_data(nemeth_file, ueb_file, mathml_file, sample_size)
 
     unique_indices = unique_indices[:2*sample_size]
     unique_indices = sorted(unique_indices)
@@ -225,7 +224,7 @@ def process_source_files(
     sources: list[tuple[str, str, str]],
     excluded_sources: set[str],
     paths: dict[str, Path],
-    sample_size: int = 120
+    sample_size: int,
 ) -> dict[str, list[str]]:
     """
     Process all source files, sampling data and writing output files.
@@ -276,7 +275,7 @@ def process_source_files(
 
         # Sample disjoint aligned data
         samples_dict = split_aligned_data(
-            nemeth_file, ueb_file, mathml_file, sample_size=sample_size
+            nemeth_file, ueb_file, mathml_file, sample_size
         )
 
         # Write samples using loop

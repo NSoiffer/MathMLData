@@ -3,11 +3,11 @@ import logging
 import re
 import argparse
 import threading
-from typing import Any, NamedTuple, Protocol, Callable, Iterator
+from typing import Any, NamedTuple, Protocol, Callable, Iterator, cast
 from compare_mathml_in_csv import setMathCATPreferences, areCanonicallyEqual, CanonicalResults
 import os
 import sys
-sys.stdout.reconfigure(encoding='utf-8')   # Ensure UTF-8 output for Unicode Braille
+sys.stdout.reconfigure(encoding="utf-8")  # type: ignore[attr-defined]
 
 # Conditional imports based on AI provider
 try:
@@ -112,15 +112,21 @@ def _generate_with_retry_common(
     run_info: str,
     max_retries: int,
     depth: int,
-    create_stream_func: Callable[[Any, str, str, list[dict[str, Any]] | str, str], Iterator[Any]],
-    process_chunk_func: Callable[[Any, list[str]], tuple[str | None, Any | None, str | None] | None],
-    get_fallback_usage_func: Callable[[Any, str, str, list[dict[str, Any]] | str, str], tuple[Any | None, str | None] | None] | None,
+    create_stream_func: Callable[[genai.Client, str, str, list[dict[str, Any]], str], Iterator[Any]],
+    process_chunk_func: Callable[[genai.Client, list[str]], tuple[str | None, Any | None, str | None] | None],
+    get_fallback_usage_func: Callable[
+        [Any, str, str, list[dict[str, Any]], str],
+        tuple[Any | None, str | None] | None
+    ] | None,
     is_max_tokens_func: Callable[[str | None], bool],
     is_success_finish_func: Callable[[str | None], bool],
     handle_retry_exception_func: Callable[[Exception, int, int, str, str], tuple[bool, str | None]],
     sum_usage_func: Callable[[Any, Any], Any],
     default_error_usage: Any,
-    recursive_call_func: Callable[[Any, str, str, list[dict[str, Any]] | str, list[str], str, int, int], tuple[str, Any, float]]
+    recursive_call_func: Callable[
+        [Any, str, str, list[dict[str, Any]], list[str], str, int, int],
+        tuple[str, Any, float]
+    ]
 ) -> tuple[str, Any, float]:
     """Common retry logic shared between Gemini and ChatGPT."""
     indent = "  " * depth
@@ -158,7 +164,11 @@ def _generate_with_retry_common(
                         finish_reason = reason
 
             # Try to get usage from fallback if not available (ChatGPT only)
-            if get_fallback_usage_func and hasattr(final_usage, 'total_token_count') and final_usage.total_token_count == 0:
+            if (
+                get_fallback_usage_func
+                and hasattr(final_usage, 'total_token_count')
+                and final_usage.total_token_count == 0
+            ):
                 fallback_result = get_fallback_usage_func(client, model, instructions, examples, numbered_tests)
                 if fallback_result:
                     fallback_usage, fallback_reason = fallback_result
@@ -260,8 +270,8 @@ def generate_with_retry_gemini(
             config=types.GenerateContentConfig(
                 safety_settings=[
                     types.SafetySetting(
-                        category="HARM_CATEGORY_HARASSMENT",
-                        threshold="BLOCK_NONE",
+                        category=types.HarmCategory.HARM_CATEGORY_HARASSMENT,
+                        threshold=types.HarmBlockThreshold.BLOCK_NONE,
                     )
                 ],
                 system_instruction=instructions,
@@ -381,6 +391,8 @@ def generate_with_retry_chatgpt(
         payload_text: str
     ) -> tuple[ChatGPTUsageMetadata | None, str | None] | None:
         try:
+            if messages_cache is None:
+                return None
             response = call_openai_model(
                 client=client,
                 model=model,
@@ -543,7 +555,15 @@ def convert_input_with_model(
 
         # 3. Call helper (now returns duration too)
         try:
-            batch_text, batch_usage, batch_time = generate_func(client, model, instructions, examples, batch, run_info, 3)
+            batch_text, batch_usage, batch_time = generate_func(
+                cast(Any, client),
+                model,
+                instructions,
+                examples,
+                batch,
+                run_info,
+                3
+            )
         except retry_exceptions as e:
             if first_attempt:
                 # reestablish connection and try one more time
@@ -552,7 +572,15 @@ def convert_input_with_model(
                 else:
                     client = create_chatgpt_client(api_key)
                 first_attempt = False
-                batch_text, batch_usage, batch_time = generate_func(client, model, instructions, batch, run_info, 3)
+                batch_text, batch_usage, batch_time = generate_func(
+                    cast(Any, client),
+                    model,
+                    instructions,
+                    examples,
+                    batch,
+                    run_info,
+                    3
+                )
             else:
                 print(f"Exception raised twice during generation: {e}")
                 batch_text, batch_usage, batch_time = None, None, 0.0
@@ -671,7 +699,10 @@ def write_results_to_file(input: list[str],
                 match = "✓" if checked.isEqual else "✗"
                 f.write(f"{match} | {tests} | {checked.canonicalOriginal} | {checked.canonicalComputed}\n")
 
-        f.write(f"# Matches: {match_count} out of {len(computed_output)}: {(match_count/len(computed_output)*100):.0f}%.")
+        f.write(
+            f"# Matches: {match_count} out of {len(computed_output)}: "
+            f"{((match_count/len(computed_output))*100):.0f}%."
+        )
         print(f"Matches: {match_count} out of {len(computed_output)}: {(match_count/len(computed_output)*100):.0f}%. "
               f"Results written to {output_file}. ")
 
@@ -722,7 +753,7 @@ def generate_examples(
         mathml_path: Path to file with MathML strings (one per line).
         braille_path: Path to file with Braille strings (one per line).
     """
-    history: list[dict[str, Any]] = []
+    history: list[dict[str, Any] | Any] = []  # Can contain dict for ChatGPT or types.Content for Gemini
     is_gemini: bool = "gemini" in model.lower()
     try:
         with open(mathml_path, 'r', encoding='utf-8') as mathml_file, \
@@ -782,34 +813,40 @@ def get_instructions(gen_braille: bool, braille_code: str) -> str:
     """
     if gen_braille:
         return (
-            f"You are an expert braille translator specializing in {braille_code} braille for mathematics and chemistry notation. "
-            "The user will number the input and follow it with math encoded in MathML to be translated into {braille_code} braille. "
-            f"Your task is to translate each MathML expression into valid {braille_code} braille."
-            "The output should only contain Unicode braille characters. "
+            f"You are an expert braille translator specializing in {braille_code} braille for "
+            "mathematics and chemistry notation. The user will number the input and follow it "
+            "with math encoded in MathML to be translated into "
+            f"{braille_code} braille. Your task is to translate each MathML expression into valid "
+            f"{braille_code} braille. The output should only contain Unicode braille characters. "
             "Remember that the MathML starts with a '<math>' tag and ends with a '</math>' tag. "
-            "The MathML is numbered, so you should output the braille for the corresponding number. "
-            "For each MathML input, output ONLY the raw Unicode braille characters. (e.g., "
+            "The MathML is numbered, so you should output the braille for the corresponding "
+            "number. For each MathML input, output ONLY the raw Unicode braille characters. "
+            "(e.g., "
             f"{'⠹⠭⠬⠂⠌⠆⠼⠀⠐⠅⠀⠁⠬⠂' if braille_code == 'Nemeth' else '⠰⠷⠭⠐⠖⠼⠁⠨⠌⠼⠃⠾⠀⠈⠣⠀⠁⠐⠖⠼⠁'}). "
-            "It is important to pay attention to generating Unicode braille spaces when needed in the braille. "
-            "It is also important to pay attention when to generate "
-            f"{'the number sign indicator ⠼ and the English letter indicator' if braille_code == 'Nemeth' else
-               'grade 1 indicators ⠰, grade 1 word indicators ⠰⠰, and grade 1 passage indicators ⠰⠰⠰ when appropriate. '
-               'These are very common at the start of the translation.'}"
-            "Do not include markdown formatting, explanations, or any other text."
-            "Add '|next-item|' between each braille output. "
+            "It is important to pay attention to generating Unicode braille spaces when needed "
+            "in the braille. It is also important to pay attention when to generate "
+            f"{(
+                'the number sign indicator ⠼ and the English letter indicator ⠰'
+                if braille_code == 'Nemeth'
+                else
+                'grade 1 indicators ⠰, grade 1 word indicators ⠰⠰, and grade 1 passage '
+                'indicators ⠰⠰⠰ when appropriate. These are very common at the start of the '
+                'translation.'
+            )} "
+            "Do not include markdown formatting, explanations, or any other text. Add "
+            "'|next-item|' between each braille output. "
         )
     else:
         return (
-            f"You are an expert braille translator specializing in {braille_code} braille for mathematics and chemistry notation. "
-            "The user will number the input and follow it with {braille_code} braille to be translated into MathML. "
-            f"Your task is to translate each sequence of {braille_code} braille characters into valid MathML code. "
-            "Remember that the MathML starts with a '<math>' tag and ends with a '</math>' tag. "
-            "For each braille input, output ONLY the raw MathML string starting with <math> and ending with </math>. "
-            "Every element in the MathML must be properly closed and nested. "
-            "Do not include markdown formatting, explanations, or any other text. "
-            "Do not include any newlines or carriage returns. "
-            "Do not include any braille unicode characters in the MathML output. "
-            "Add '|next-item|' between each MathML output. "
+            f"You are an expert braille translator specializing in {braille_code} braille for mathematics and "
+            "chemistry notation. The user will number the input and follow it with {braille_code} braille to be "
+            f"translated into MathML. Your task is to translate each sequence of {braille_code} braille characters "
+            "into valid MathML code. Remember that the MathML starts with a '<math>' tag and ends with a '</math>' "
+            "tag. For each braille input, output ONLY the raw MathML string starting with <math> and ending with "
+            "</math>. Every element in the MathML must be properly closed and nested. Do not include markdown "
+            "formatting, explanations, or any other text. Do not include any newlines or carriage returns. Do not "
+            "include any braille unicode characters in the MathML output. Add '|next-item|' between each MathML "
+            "output. "
         )
 
 
@@ -1001,7 +1038,7 @@ Note:
     elif ai_provider == "chatgpt":
         model = "gpt-5-mini"
         # model = "gpt-5-nano"  # nano doesn't seem to understand braille instructions
-        model = "gpt-5.2"
+        # model = "gpt-5.2"
         apiKeyName = "OPENAI_API_KEY"
     else:
         raise ValueError(f"Unknown AI provider: {ai_provider}")

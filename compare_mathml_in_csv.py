@@ -17,7 +17,7 @@ import os
 from typing import NamedTuple
 import libmathcat_py as libmathcat
 from bs4 import BeautifulSoup   # pip install BeautifulSoup4
-sys.stdout.reconfigure(encoding='utf-8')  # in case print statements are used for debugging
+sys.stdout.reconfigure(encoding="utf-8")  # type: ignore[attr-defined]
 
 
 # Attributes to ignore during comparison (might need a few more)
@@ -31,13 +31,13 @@ IGNORE_ATTRS = ['id', 'class', 'displaystyle', 'scriptlevel', 'xmlns',
                 'mathcolor', 'mathbackground', 'mathsize', 'mathvariant']
 
 
-def setMathCATPreferences(prefs: dict[str, str]):
+def setMathCATPreferences(prefs: dict[str, str], dir: str = "."):
     """
     Initial MathCAT by setting the rules directory and any preferences.
     Do this once outside of a loop
     """
     try:
-        libmathcat.SetRulesDir("MathCATRules")
+        libmathcat.SetRulesDir(f"{dir}/MathCATRules")
     except Exception as e:
         sys.exit(f"problem with finding the MathCAT rules: {e}")
 
