@@ -1,0 +1,66 @@
+# Configuration:
+#   Braille Code: nemeth
+#   Generate Braille: True
+#   Model: gemini-2.5-pro
+#   API Key: GEMINI_API_KEY
+#   Batch Size: 70
+#   Number of Examples: 312
+#   Example Braille File: RustTestData/Nemeth.brls
+#   Example MathML File: RustTestData/Nemeth.mmls
+#   Input Braille Dir: test_data/Nemeth
+#   Input MathML Dir: test_data/MathML
+#
+# 50 items. Usage info: prompt=31665, candidates=1399, total=42393, time=8406ms, TPS=6008.577555396712.2f
+#
+# Match | Test Input | Expected | Computed
+✓ | <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>b</mi> <mi>t</mi> </msup> </mrow> </mrow> </math> | ⠋⠷⠞⠾⠀⠨⠅⠀⠁⠃⠘⠞ | ⠋⠷⠞⠾⠀⠨⠅⠀⠁⠃⠘⠞
+✗ | <math> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>b</mi> <mi>t</mi> </msup> </mrow> <mo>+</mo> <mi>c</mi> </mrow> </mrow> </math> | ⠛⠷⠞⠾⠀⠨⠅⠀⠁⠃⠘⠞⠐⠬⠉ | ⠛⠷⠞⠾⠀⠨⠅⠀⠁⠃⠘⠞⠬⠉
+✓ | <math> <mn>10</mn> </math> | ⠼⠂⠴ | ⠼⠂⠴
+✗ | <math> <mrow> <mrow> <mrow> <mn>2</mn> <mo>+</mo> <mn>3</mn> </mrow> <mo>=</mo> <mn>5</mn> </mrow> <mo>:</mo> </mrow> </math> | ⠼⠆⠬⠒⠀⠨⠅⠀⠼⠢⠸⠒ | ⠼⠆⠬⠒⠀⠨⠅⠀⠢⠸⠒
+✓ | <math> <mn>2</mn> </math> | ⠼⠆ | ⠼⠆
+✗ | <math> <mrow> <mrow> <mrow> <mn>2</mn> <mo>⋅</mo> <mn>3</mn> </mrow> <mo>=</mo> <mn>6</mn> </mrow> <mo>.</mo> </mrow> </math> | ⠼⠆⠡⠒⠀⠨⠅⠀⠼⠖⠸⠲ | ⠼⠆⠡⠒⠀⠨⠅⠀⠖⠸⠲
+✗ | <math> <mrow> <mrow> <mi>f</mi> <mo>:</mo> <mrow> <mi>B</mi> <mo>→</mo> <mi>C</mi> </mrow> </mrow> <mo>,</mo> </mrow> </math> | ⠰⠋⠸⠒⠀⠠⠃⠀⠫⠕⠀⠠⠉⠠ | ⠋⠸⠒⠠⠃⠀⠫⠒⠒⠕⠀⠠⠉⠠
+✓ | <math> <mrow> <mrow> <mrow> <mrow> <mo>(</mo> <mrow> <mi>f</mi> <mo>∘</mo> <mi>g</mi> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> <mo>.</mo> </mrow> </math> | ⠷⠋⠨⠡⠛⠾⠷⠭⠾⠀⠨⠅⠀⠋⠷⠛⠷⠭⠾⠾⠸⠲ | ⠷⠋⠨⠡⠛⠾⠷⠭⠾⠀⠨⠅⠀⠋⠷⠛⠷⠭⠾⠾⠸⠲
+✗ | <math> <mi>g</mi> </math> | ⠰⠛ | ⠛
+✗ | <math> <mi>f</mi> </math> | ⠰⠋ | ⠋
+✗ | <math> <mi>q</mi> </math> | ⠰⠟ | ⠟
+✗ | <math> <mrow> <mi>q</mi> <mo>,</mo> </mrow> </math> | ⠰⠟⠠ | ⠟⠠
+✗ | <math> <mrow> <mi>p</mi> <mo>.</mo> </mrow> </math> | ⠰⠏⠸⠲ | ⠏⠸⠲
+✓ | <math> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </math> | ⠋⠷⠭⠾ | ⠋⠷⠭⠾
+✗ | <math> <mrow> <mi>g</mi> <mo>.</mo> </mrow> </math> | ⠰⠛⠸⠲ | ⠛⠸⠲
+✓ | <math> <mrow> <mrow> <mrow> <mi>h</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>+</mo> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </mrow> </mrow> <mo>.</mo> </mrow> </math> | ⠓⠷⠭⠾⠀⠨⠅⠀⠋⠷⠭⠾⠬⠛⠷⠭⠾⠸⠲ | ⠓⠷⠭⠾⠀⠨⠅⠀⠋⠷⠭⠾⠬⠛⠷⠭⠾⠸⠲
+✓ | <math> <mrow> <mrow> <mrow> <mi>r</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mi>p</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>-</mo> <mrow> <mi>q</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </mrow> </mrow> <mo>.</mo> </mrow> </math> | ⠗⠷⠭⠾⠀⠨⠅⠀⠏⠷⠭⠾⠤⠟⠷⠭⠾⠸⠲ | ⠗⠷⠭⠾⠀⠨⠅⠀⠏⠷⠭⠾⠤⠟⠷⠭⠾⠸⠲
+✗ | <math> <mrow> <mrow> <mrow> <mi>r</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mn>0</mn> </mrow> <mo>?</mo> </mrow> </math> | ⠗⠷⠭⠾⠀⠨⠅⠀⠼⠴⠀⠿ | ⠗⠷⠭⠾⠀⠨⠅⠀⠴⠸⠦
+✓ | <math> <mrow> <mrow> <mi>k</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mn>0</mn> <mo>)</mo> </mrow> </mrow> <mo>.</mo> </mrow> </math> | ⠅⠷⠴⠾⠸⠲ | ⠅⠷⠴⠾⠸⠲
+✓ | <math> <mrow> <mi>s</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mn>1</mn> <mo>)</mo> </mrow> </mrow> </math> | ⠎⠷⠂⠾ | ⠎⠷⠂⠾
+✓ | <math> <mrow> <mi>s</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> </math> | ⠎⠷⠭⠾ | ⠎⠷⠭⠾
+✗ | <math> <mrow> <mrow> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mrow> <mn>4</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>7</mn> </mrow> <mo>?</mo> </mrow> </math> | ⠼⠒⠭⠤⠲⠽⠀⠨⠅⠀⠼⠶⠀⠿ | ⠼⠒⠭⠤⠲⠽⠀⠨⠅⠀⠶⠸⠦
+✗ | <math> <mrow> <mrow> <mi>x</mi> <mo>=</mo> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </mrow> <mo>?</mo> </mrow> </math> | ⠭⠀⠨⠅⠀⠤⠼⠆⠀⠿ | ⠭⠀⠨⠅⠀⠤⠼⠆⠸⠦
+✓ | <math> <mrow> <mrow> <mi>q</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mrow> <mo>-</mo> <mn>3</mn> </mrow> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mrow> <mn>5</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>-</mo> <mn>7</mn> </mrow> </mrow> </math> | ⠟⠷⠭⠾⠀⠨⠅⠀⠤⠼⠒⠭⠘⠆⠐⠬⠢⠭⠤⠶ | ⠟⠷⠭⠾⠀⠨⠅⠀⠤⠼⠒⠭⠘⠆⠐⠬⠢⠭⠤⠶
+✓ | <math> <mrow> <mrow> <mi>s</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mn>5</mn> <mo>⁢</mo> <mi>x</mi> </mrow> </mrow> </math> | ⠎⠷⠭⠾⠀⠨⠅⠀⠼⠢⠭ | ⠎⠷⠭⠾⠀⠨⠅⠀⠼⠢⠭
+✗ | <math> <mrow> <mrow> <mi>m</mi> <mo>=</mo> <mn>5</mn> </mrow> <mo>,</mo> </mrow> </math> | ⠍⠀⠨⠅⠀⠼⠢⠠ | ⠍⠀⠨⠅⠀⠢⠠
+✗ | <math> <mrow> <mi>c</mi> <mo>,</mo> </mrow> </math> | ⠰⠉⠠ | ⠉⠠
+✗ | <math> <mi>w</mi> </math> | ⠰⠺ | ⠺
+✓ | <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mn>3</mn> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> </mrow> <mo>+</mo> <mn>4</mn> </mrow> </mrow> </math> | ⠋⠷⠭⠾⠀⠨⠅⠀⠼⠒⠭⠘⠆⠐⠬⠲ | ⠋⠷⠭⠾⠀⠨⠅⠀⠼⠒⠭⠘⠆⠐⠬⠲
+✓ | <math> <mrow> <mi>f</mi> <mo>+</mo> <mi>g</mi> </mrow> </math> | ⠋⠬⠛ | ⠋⠬⠛
+✓ | <math> <mrow> <mi>f</mi> <mo>-</mo> <mi>g</mi> </mrow> </math> | ⠋⠤⠛ | ⠋⠤⠛
+✓ | <math> <mrow> <mi>f</mi> <mo>⋅</mo> <mi>g</mi> </mrow> </math> | ⠋⠡⠛ | ⠋⠡⠛
+✓ | <math> <mfrac> <mi>f</mi> <mi>g</mi> </mfrac> </math> | ⠹⠋⠌⠛⠼ | ⠹⠋⠌⠛⠼
+✗ | <math> <mrow> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>≠</mo> <mn>0</mn> </mrow> <mo>.</mo> </mrow> </math> | ⠛⠷⠭⠾⠀⠌⠨⠅⠀⠼⠴⠸⠲ | ⠛⠷⠭⠾⠀⠌⠨⠅⠀⠴⠸⠲
+✗ | <math> <mrow> <mo>(</mo> <mrow> <mn>3</mn> <mo>,</mo> <mrow> <mo>-</mo> <mn>0.5</mn> </mrow> </mrow> <mo>)</mo> </mrow> </math> | ⠷⠒⠠⠀⠤⠴⠨⠢⠾ | ⠷⠒⠠⠀⠤⠨⠢⠾
+✓ | <math> <mrow> <mo>(</mo> <mrow> <mrow> <mo>-</mo> <mn>1</mn> </mrow> <mo>,</mo> <mn>3</mn> </mrow> <mo>)</mo> </mrow> </math> | ⠷⠤⠂⠠⠀⠒⠾ | ⠷⠤⠂⠠⠀⠒⠾
+✓ | <math> <mrow> <mrow> <mrow> <mo>(</mo> <mrow> <mi>f</mi> <mo>+</mo> <mi>g</mi> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mn>0</mn> <mo>)</mo> </mrow> </mrow> <mo>.</mo> </mrow> </math> | ⠷⠋⠬⠛⠾⠷⠴⠾⠸⠲ | ⠷⠋⠬⠛⠾⠷⠴⠾⠸⠲
+✓ | <math> <mrow> <mrow> <mrow> <mo>(</mo> <mrow> <mi>f</mi> <mo>⋅</mo> <mi>g</mi> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mo>-</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mo>.</mo> </mrow> </math> | ⠷⠋⠡⠛⠾⠷⠤⠂⠾⠸⠲ | ⠷⠋⠡⠛⠾⠷⠤⠂⠾⠸⠲
+✗ | <math> <mrow> <mrow> <mrow> <mrow> <mo>(</mo> <mrow> <mi>f</mi> <mo>⋅</mo> <mi>g</mi> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mn>0</mn> </mrow> <mo>?</mo> </mrow> </math> | ⠷⠋⠡⠛⠾⠷⠭⠾⠀⠨⠅⠀⠼⠴⠀⠿ | ⠷⠋⠡⠛⠾⠷⠭⠾⠀⠨⠅⠀⠴⠸⠦
+✓ | <math> <mrow> <mi>P</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> </math> | ⠠⠏⠷⠞⠾ | ⠠⠏⠷⠞⠾
+✗ | <math> <mrow> <mrow> <mi>A</mi> <mo>⁢</mo> <msub> <mi>V</mi> <mrow> <mo>[</mo> <mrow> <mn>5</mn> <mo>,</mo> <mn>11</mn> </mrow> <mo>]</mo> </mrow> </msub> </mrow> <mo>,</mo> </mrow> </math> | ⠠⠁⠠⠧⠰⠈⠷⠢⠪⠂⠂⠈⠾⠠ | ⠠⠁⠠⠧⠰⠷⠈⠷⠢⠠⠂⠂⠈⠾⠾⠠
+✓ | <math> <mrow> <mn>11</mn> <mo>.</mo> </mrow> </math> | ⠼⠂⠂⠸⠲ | ⠼⠂⠂⠸⠲
+✗ | <math> <mrow> <mi>t</mi> <mo>,</mo> </mrow> </math> | ⠰⠞⠠ | ⠞⠠
+✓ | <math> <mrow> <mi>S</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> </math> | ⠠⠎⠷⠞⠾ | ⠠⠎⠷⠞⠾
+✓ | <math> <mrow> <mrow> <mi>V</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>,</mo> </mrow> </math> | ⠠⠧⠷⠞⠾⠠ | ⠠⠧⠷⠞⠾⠠
+✓ | <math> <mrow> <mrow> <mrow> <mi>V</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mi>N</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>⋅</mo> <mrow> <mi>S</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> </mrow> </mrow> <mo>.</mo> </mrow> </math> | ⠠⠧⠷⠞⠾⠀⠨⠅⠀⠠⠝⠷⠞⠾⠡⠠⠎⠷⠞⠾⠸⠲ | ⠠⠧⠷⠞⠾⠀⠨⠅⠀⠠⠝⠷⠞⠾⠡⠠⠎⠷⠞⠾⠸⠲
+✓ | <math> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>v</mi> <mo>)</mo> </mrow> </mrow> </math> | ⠋⠷⠧⠾ | ⠋⠷⠧⠾
+✓ | <math> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mn>60</mn> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mn>0.04</mn> </mrow> </math> | ⠋⠷⠖⠴⠾⠀⠨⠅⠀⠼⠴⠨⠴⠲ | ⠋⠷⠖⠴⠾⠀⠨⠅⠀⠼⠴⠨⠴⠲
+✗ | <math> <mrow> <mrow> <mi>g</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mn>60</mn> <mo>)</mo> </mrow> </mrow> <mo>?</mo> </mrow> </math> | ⠛⠷⠖⠴⠾⠀⠿ | ⠛⠷⠖⠴⠾⠸⠦
+✓ | <math> <mrow> <mrow> <mrow> <mi>h</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>v</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>v</mi> <mo>⋅</mo> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>v</mi> <mo>)</mo> </mrow> </mrow> </mrow> </mrow> <mo>.</mo> </mrow> </math> | ⠓⠷⠧⠾⠀⠨⠅⠀⠧⠡⠋⠷⠧⠾⠸⠲ | ⠓⠷⠧⠾⠀⠨⠅⠀⠧⠡⠋⠷⠧⠾⠸⠲
+# Matches: 28 out of 50: 56%.
