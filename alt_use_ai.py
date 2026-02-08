@@ -847,8 +847,8 @@ def translate(
         all_embeddings = mathml_embeddings
         overlap_mode: Literal["mathml", "braille", "none"] = "mathml"
     else:
-        used_symbols: set[str] = set()     # braille is only 64 symbols, so doesn't really reflect complexity
-        query_length = len(query_input)
+        used_symbols: set[str] = set(query_input)
+        query_length = len(query_input)  # braille is only 64 symbols, so doesn't really reflect complexity
         structural_notes = []
         all_embeddings = braille_embeddings
         overlap_mode = "braille"

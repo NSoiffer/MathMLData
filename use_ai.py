@@ -39,6 +39,8 @@ logging.getLogger("google_genai").setLevel(logging.WARNING)
 logging.getLogger("openai").setLevel(logging.WARNING)
 logging.getLogger("httpx").setLevel(logging.WARNING)
 
+BRAILLE_REGEX = re.compile(r'([\u2800-\u28ff]+)')
+MATHML_REGEX: re.Pattern[str] = re.compile(r'<math.*?</math>')
 # ============================================================
 # this comes from alt_use_ai.py
 # ============================================================
@@ -71,6 +73,7 @@ class RunConfig(NamedTuple):
     gen_braille: bool
     ai_provider: str
     model: str
+    service_tier: str
     apiKeyName: str
     batch_size: int
     n_examples: int
@@ -86,7 +89,7 @@ class RunConfig(NamedTuple):
         lines.append("\nConfiguration:")
         lines.append(f"  Braille Code: {self.braille_code}")
         lines.append(f"  Generate Braille: {self.gen_braille}")
-        lines.append(f"  Model: {self.model}")
+        lines.append(f"  Model: {self.model} {'(' + self.service_tier + ')' if self.ai_provider == 'openai' else ''}")
         lines.append(f"  API Key: {self.apiKeyName}")
         lines.append(f"  Batch Size: {self.batch_size}")
         lines.append(f"  Number of Examples: {self.n_examples}")
@@ -183,12 +186,12 @@ def build_instructions(
         test_prolog = (
             f"Now translate the following {config.braille_code.value.upper()} Braille into MathML.\n"
             "Return ONLY valid MathML markup. MathML must start with a <math> tag and end with a </math> tag. "
-            "Do NOT include the input line numbers (e.g., '1)').\n"
+            "Do NOT include the input line numbers (e.g., '1)', '2)', etc.).\n"
             "Add '|next-item|' between each MathML output."
         )
 
         symbols_text = (
-            "Here is a reminder of the mapping of some Unicode {config.braille_code.value.upper()}"
+            f"Here is a reminder of the mapping of some Unicode {config.braille_code.value.upper()}"
             f"braille characters and how they map to Unicode non-braille characters"
             f"that you may need to use:\n{symbol_block}\n\n"
         )
@@ -210,8 +213,8 @@ class UsageMetadata(Protocol):
     total_token_count: int
 
 
-class ChatGPTUsageMetadata:
-    """Simple class to hold token usage information for ChatGPT."""
+class OpenAIUsageMetadata:
+    """Simple class to hold token usage information for GPT."""
     def __init__(self, prompt_tokens: int = 0, completion_tokens: int = 0, total_tokens: int = 0):
         self.prompt_token_count = prompt_tokens
         self.candidates_token_count = completion_tokens
@@ -228,8 +231,8 @@ def create_gemini_client(api_key: str) -> genai.Client:
     return genai.Client(api_key=api_key, http_options={"timeout": 2400000})
 
 
-def create_chatgpt_client(api_key: str) -> OpenAI:
-    """Create and return a ChatGPT client."""
+def create_openai_client(api_key: str) -> OpenAI:
+    """Create and return a GPT client."""
     return OpenAI(api_key=api_key, timeout=2400.0)
 
 
@@ -258,7 +261,7 @@ def _generate_with_retry_common(
         tuple[str, Any, float]
     ]
 ) -> tuple[str, Any, float]:
-    """Common retry logic shared between Gemini and ChatGPT."""
+    """Common retry logic shared between Gemini and GPT."""
     indent = "  " * depth
     t0 = time.perf_counter()
     time_to_first_token = -1000.0
@@ -296,7 +299,7 @@ def _generate_with_retry_common(
                     if reason is not None:
                         finish_reason = reason
 
-            # Try to get usage from fallback if not available (ChatGPT only)
+            # Try to get usage from fallback if not available (GPT only)
             if (
                 get_fallback_usage_func
                 and hasattr(final_usage, 'total_token_count')
@@ -412,7 +415,7 @@ def generate_with_retry_gemini(
                     threshold=types.HarmBlockThreshold.BLOCK_NONE,
                 )
             ],
-            temperature=0.1,
+            temperature=0.0,
         )
         if gemini_cache_id:
             gemini_config.cached_content = gemini_cache_id
@@ -468,7 +471,7 @@ def generate_with_retry_gemini(
     )
 
 
-def generate_with_retry_chatgpt(
+def generate_with_retry_openai(
     client: OpenAI,
     config: RunConfig,
     examples: list[dict[str, Any]],
@@ -477,8 +480,8 @@ def generate_with_retry_chatgpt(
     gemini_cache_id: str,
     max_retries: int = 3,
     depth: int = 0
-) -> tuple[str, ChatGPTUsageMetadata, float]:
-    """Generate with retry logic for ChatGPT API."""
+) -> tuple[str, OpenAIUsageMetadata, float]:
+    """Generate with retry logic for "OpenAI" API."""
     messages_cache: list[dict[str, str]] | None = None
 
     def create_stream(
@@ -499,16 +502,16 @@ def generate_with_retry_chatgpt(
         ])
         return call_openai_model(
             client=client,
-            model=config.model,
+            config=config,
             messages=messages_cache,
             stream=True,
         )
 
     def process_chunk(
         chunk: Any, full_text_list: list[str]
-    ) -> tuple[str | None, ChatGPTUsageMetadata | None, str | None] | None:
+    ) -> tuple[str | None, OpenAIUsageMetadata | None, str | None] | None:
         text: str | None = None
-        usage: ChatGPTUsageMetadata | None = None
+        usage: OpenAIUsageMetadata | None = None
         reason: str | None = None
 
         if chunk.choices and len(chunk.choices) > 0:
@@ -520,7 +523,7 @@ def generate_with_retry_chatgpt(
                 reason = chunk.choices[0].finish_reason
 
         if chunk.usage:
-            usage = ChatGPTUsageMetadata(
+            usage = OpenAIUsageMetadata(
                 prompt_tokens=chunk.usage.prompt_tokens or 0,
                 completion_tokens=chunk.usage.completion_tokens or 0,
                 total_tokens=chunk.usage.total_tokens or 0
@@ -533,20 +536,20 @@ def generate_with_retry_chatgpt(
         config: RunConfig,
         examples: list[dict[str, Any]],
         payload_text: str
-    ) -> tuple[ChatGPTUsageMetadata | None, str | None] | None:
+    ) -> tuple[OpenAIUsageMetadata | None, str | None] | None:
         try:
             if messages_cache is None:
                 return None
             response = call_openai_model(
                 client=client,
-                model=config.model,
+                config=config,
                 messages=messages_cache,
                 stream=False
             )
             usage = None
             reason = None
             if response.usage:
-                usage = ChatGPTUsageMetadata(
+                usage = OpenAIUsageMetadata(
                     prompt_tokens=response.usage.prompt_tokens or 0,
                     completion_tokens=response.usage.completion_tokens or 0,
                     total_tokens=response.usage.total_tokens or 0
@@ -592,9 +595,9 @@ def generate_with_retry_chatgpt(
         is_max_tokens_func=is_max_tokens,
         is_success_finish_func=is_success_finish,
         handle_retry_exception_func=handle_retry_exception,
-        sum_usage_func=_sum_usage_chatgpt,
-        default_error_usage=ChatGPTUsageMetadata(),
-        recursive_call_func=generate_with_retry_chatgpt
+        sum_usage_func=_sum_usage_openai,
+        default_error_usage=OpenAIUsageMetadata(),
+        recursive_call_func=generate_with_retry_openai
     )
 
 
@@ -612,14 +615,14 @@ def _sum_usage_gemini(usage1: Any, usage2: Any) -> Any:
     )
 
 
-def _sum_usage_chatgpt(usage1: ChatGPTUsageMetadata, usage2: ChatGPTUsageMetadata) -> ChatGPTUsageMetadata:
-    """Helper to sum two ChatGPT UsageMetadata objects."""
+def _sum_usage_openai(usage1: OpenAIUsageMetadata, usage2: OpenAIUsageMetadata) -> OpenAIUsageMetadata:
+    """Helper to sum two GPT UsageMetadata objects."""
     if not usage1:
         return usage2
     if not usage2:
         return usage1
 
-    return ChatGPTUsageMetadata(
+    return OpenAIUsageMetadata(
         prompt_tokens=usage1.prompt_token_count + usage2.prompt_token_count,
         completion_tokens=usage1.candidates_token_count + usage2.candidates_token_count,
         total_tokens=usage1.total_token_count + usage2.total_token_count
@@ -628,7 +631,7 @@ def _sum_usage_chatgpt(usage1: ChatGPTUsageMetadata, usage2: ChatGPTUsageMetadat
 
 def call_openai_model(
     client: OpenAI,
-    model: str,
+    config: RunConfig,
     messages: list[dict[str, str]],
     stream: bool = True,
 ) -> Any:
@@ -646,9 +649,12 @@ def call_openai_model(
         If stream=False: Returns the full response object
     """
     params: dict[str, Any] = {
-        "model": model,
+        "model": config.model,
         "messages": messages,
         "stream": stream,
+        "service_tier": config.service_tier,
+        "temperature": 0.1,
+
     }
     return client.chat.completions.create(**params)
 
@@ -695,12 +701,12 @@ def convert_input_with_model(
         client = create_gemini_client(api_key)
         generate_func = generate_with_retry_gemini
         retry_exceptions = (google_exceptions.ServiceUnavailable, google_exceptions.ServerError)
-    elif ai_provider == "chatgpt":
-        client = create_chatgpt_client(api_key)
-        generate_func = generate_with_retry_chatgpt
+    elif ai_provider == "openai":
+        client = create_openai_client(api_key)
+        generate_func = generate_with_retry_openai
         retry_exceptions = (APIError, RateLimitError, APIConnectionError)
     else:
-        raise ValueError(f"Unknown AI provider: {ai_provider}. Must be 'gemini' or 'chatgpt'")
+        raise ValueError(f"Unknown AI provider: {ai_provider}. Must be 'gemini' or 'openai'")
 
     # 1. Initialize accumulators
     all_results = ""
@@ -712,7 +718,12 @@ def convert_input_with_model(
     paid_tier = False   # TODO: apparently fails if this is an unpaid teir
     if paid_tier and config.ai_provider == "gemini" and len(examples) > 300:
         used_symbols = set().union(*(extract_symbols_from_mathml(test) for test in tests))
-        batch_symbol_block = build_symbol_block(used_symbols, config.symbol_mappings, config.braille_code, config.gen_braille)
+        batch_symbol_block = build_symbol_block(
+            used_symbols,
+            config.symbol_mappings,
+            config.braille_code,
+            config.gen_braille
+        )
         cached_content = get_context_cache_id(cast(genai.Client, client), config, batch_symbol_block, examples)
         gemini_cache_id: str = cached_content.name if cached_content and cached_content.name else ""
     else:
@@ -732,7 +743,12 @@ def convert_input_with_model(
                 used_symbols = set().union(*(extract_symbols_from_mathml(test) for test in batch))
             else:
                 used_symbols = set().union(*(extract_symbols_from_braille(test) for test in batch))
-            symbol_block = build_symbol_block(used_symbols, config.symbol_mappings, config.braille_code, config.gen_braille)
+            symbol_block = build_symbol_block(
+                used_symbols,
+                config.symbol_mappings,
+                config.braille_code,
+                config.gen_braille
+            )
         else:
             symbol_block = ""
 
@@ -753,7 +769,7 @@ def convert_input_with_model(
                 if ai_provider == "gemini":
                     client = create_gemini_client(api_key)
                 else:
-                    client = create_chatgpt_client(api_key)
+                    client = create_openai_client(api_key)
                 first_attempt = False
                 try:
                     batch_text, batch_usage, batch_time = generate_func(
@@ -802,21 +818,29 @@ def convert_input_with_model(
     # look at tests to see if we are generating MathML or braille
     # trim the start and end, then split the string at '|next-item|' and return a list of strings
     text = all_results
-    if tests[0].find("<math") == -1:
+    if config.gen_braille:
+        matches = list(BRAILLE_REGEX.finditer(text))
+        if not matches:
+            print(f"\n\n[!] Could not find braille chars in the response\n: '{text}'\n\n")
+            return [], total_tokens, total_generation_time
+        i_start = matches[0].start()
+        i_end = matches[-1].end()
+        regex = BRAILLE_REGEX
+    else:
         i_start = text.find("<math")
         i_end = text.rfind("</math>") + len("</math>")
         if i_start == -1 or i_end == -1:
-            raise Exception("Could not find MathML tags in the response.")
-    else:
-        matches = list(re.finditer(r'[\u2800-\u28ff]', text))
-        if not matches:
-            raise Exception("Could not find braille chars in the response.")
-        i_start = matches[0].start()
-        i_end = matches[-1].end()
+            print(f"\n\n[!] Could not find braille chars in the response\n: '{text}'\n\n")
+        regex = MATHML_REGEX
+    # Return the substring including everything between the first and last Braille char/MathML start/end tags
+    as_list = []
+    for item in text[i_start:i_end].split("|next-item|"):
+        match = regex.search(item)
+        if match:
+            as_list.append(match.group(0).strip())
+        else:
+            as_list.append(item.strip())
 
-    # Return the substring including everything between the first and last Braille char
-    as_list = text[i_start:i_end].split("|next-item|")
-    as_list = [item.strip() for item in as_list if item.strip()]  # Clean up whitespace and remove empty strings
     return as_list, total_tokens, total_generation_time
 
 
@@ -1063,7 +1087,7 @@ def write_results_to_file(input: list[str],
     if is_mathml_output and not computed_output[0].startswith('<math'):
         print("Computed output does not appear to be MathML--first 5 lines:\n", computed_output[:5])
         return
-    if not is_mathml_output and not re.match('[\u2800-\u28ff]', computed_output[0][0]):
+    if not is_mathml_output and not BRAILLE_REGEX.match(computed_output[0][0]):
         print("Computed output does not appear to be MathML--last 5 lines:\n", computed_output[len(computed_output)-5:])
         return
 
@@ -1169,7 +1193,7 @@ def generate_examples(
         mathml_path: Path to file with MathML strings (one per line).
         braille_path: Path to file with Braille strings (one per line).
     """
-    history: list[dict[str, Any] | Any] = []  # Can contain dict for ChatGPT or types.Content for Gemini
+    history: list[dict[str, Any] | Any] = []  # Can contain dict for GPT or types.Content for Gemini
     is_gemini: bool = "gemini" in model.lower()
     try:
         with open(mathml_path, 'r', encoding='utf-8') as mathml_file, \
@@ -1197,7 +1221,7 @@ def generate_examples(
                         parts=[types.Part.from_text(text=f"{shot_num} {braille_line.strip()}")]
                     ))
                 else:
-                    # Format for OpenAI SDK (ChatGPT)
+                    # Format for OpenAI SDK (GPT)
                     history.append({
                         "role": "user",
                         "content": f"{shot_num} {math_content}"
@@ -1223,6 +1247,7 @@ def prepare_conversion_config(
     n_tests: int | None,
     batch_size: int,
     ai_provider: str,
+    service_tier: str,
     model: str,
     apiKeyName: str,
     symbol_mappings: list[SymbolMapping],
@@ -1264,8 +1289,10 @@ def prepare_conversion_config(
 
     # print(f"Examples len = {len(str(examples))}")
     # print(examples)
-    test_mathml_dir = "test_data/MathML"
-    test_braille_dir = f"test_data/{braille_code}"
+    # test_mathml_dir = "test_data/MathML"
+    # test_braille_dir = f"test_data/{braille_code}"
+    test_mathml_dir = "test_data/mathml.mmls"
+    test_braille_dir = f"test_data/{braille_code}.brls"
 
     # File paths for input - gather lines from directories
     braille, mathml = readMatchingFiles(test_braille_dir, test_mathml_dir)
@@ -1274,6 +1301,7 @@ def prepare_conversion_config(
         sys.exit(1)
 
     # Use n_tests parameter, default to len(mathml) if not provided
+    print(f"n_tests: {n_tests}, len(mathml): {len(mathml)}")
     n_tests_actual = min(n_tests, len(mathml)) if n_tests is not None else len(mathml)
     braille = braille[:n_tests_actual]
     mathml = mathml[:n_tests_actual]
@@ -1287,6 +1315,7 @@ def prepare_conversion_config(
         gen_braille=gen_braille,
         ai_provider=ai_provider,
         model=model,
+        service_tier=service_tier,
         apiKeyName=apiKeyName,
         batch_size=batch_size,
         n_examples=n_examples,
@@ -1318,7 +1347,7 @@ def run_conversion(
         model: Model name to use
         apiKeyName: API key environment variable name
         batch_size: Batch size for processing
-        ai_provider: AI provider name ("gemini" or "chatgpt")
+        ai_provider: AI provider name ("gemini" or "openai")
     """
     print(f"Using API key: {config.apiKeyName}")
     print(f"Generating {'braille' if config.gen_braille else 'MathML'} with {config.n_examples} examples, "
@@ -1343,28 +1372,28 @@ def run_conversion(
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description='Generate braille or MathML using AI API (Gemini or ChatGPT)',
+        description='Generate braille or MathML using AI API (Gemini or "OpenAI")',
         epilog='''
 Examples:
   # Generate MathML from Nemeth braille using Gemini, use 100 examples and 200 tests:
   python use_ai.py -ai gemini -e 100 -t 200 --config from-nemeth
 
-  # Generate braille from MathML using ChatGPT, use all examples and all tests:
-  python use_ai.py -ai chatgpt -e 9999 -t -1 --config to-ueb
+  # Generate braille from MathML using "OpenAI", use all examples and all tests:
+  python use_ai.py -ai gpt -e 9999 -t -1 --config to-ueb
 
   # Generate MathML from Nemeth braille using Gemini, use only rust examples and 50 tests:
   python use_ai.py -ai gemini -e -1 -t 50 -b 40 --config from-nemeth
 
 Note:
   For Gemini: Requires GEMINI_API_KEY or GEMINI_PAID_API_KEY environment variable.
-  For ChatGPT: Requires OPENAI_API_KEY environment variable.
-  Set OPENAI_MODEL environment variable to override ChatGPT default model (default: gpt-4o).
+  For "OpenAI": Requires OPENAI_API_KEY environment variable.
+  Set OPENAI_MODEL environment variable to override "OpenAI" default model (default: gpt-4o).
         ''',
         formatter_class=argparse.RawDescriptionHelpFormatter
     )
     parser.add_argument('-ai', '--ai-provider', type=str, required=True,
-                        choices=['gemini', 'chatgpt'],
-                        help='AI provider: "gemini" or "chatgpt" (case-insensitive)')
+                        choices=['gemini', 'openai'],
+                        help='AI provider: "gemini" or "openai" (case-insensitive)')
     parser.add_argument('-e', '--examples', type=int, required=True,
                         help=('Number of examples to use. A negative number means use all available examples.'))
     parser.add_argument('-t', '--tests', type=int, required=True,
@@ -1375,27 +1404,33 @@ Note:
                         help='Select configurations to run (case-insensitive). '
                              'Options: to-nemeth, to-ueb, from-nemeth, from-ueb. '
                              'If not specified, all configurations are run.')
+    parser.add_argument(
+        "--service-tier",
+        choices=["auto", "flex"],
+        default="flex",   # saves money, but slower than auto
+        help="OpenAI service tier (auto or flex). Default: flex."
+    )
 
     args = parser.parse_args()
 
     # Normalize AI provider
     ai_provider = args.ai_provider.lower()
-    if ai_provider not in ['gemini', 'chatgpt']:
+    if ai_provider not in ['gemini', 'openai']:
         print(f"Error: Invalid AI provider '{args.ai_provider}'. "
-              f"Must be 'gemini' or 'chatgpt'.")
+              f"Must be 'gemini' or 'openai'.")
         sys.exit(1)
 
     # Set model and API key based on provider
     if ai_provider == "gemini":
-        # model = "gemini-2.5-flash"   # for quick testing
+        # model = "gemini-2.5-flash"   # for quick testings
         model = "gemini-2.5-pro"
-        # model = "gemini-3-pro-preview"
+        model = "gemini-3-pro-preview"
         apiKeyName = "GEMINI_API_KEY"
-        # apiKeyName = "GEMINI_PAID_API_KEY"
-    elif ai_provider == "chatgpt":
+        apiKeyName = "GEMINI_PAID_API_KEY"
+    elif ai_provider == "openai":
         model = "gpt-5-mini"
         # model = "gpt-5-nano"  # nano doesn't seem to understand braille instructions
-        # model = "gpt-5.2"
+        model = "gpt-5.2"
         apiKeyName = "OPENAI_API_KEY"
     else:
         raise ValueError(f"Unknown AI provider: {ai_provider}")
@@ -1455,7 +1490,7 @@ Note:
     for gen_braille, braille_code in conversion_params:
         try:
             config_data = prepare_conversion_config(
-                gen_braille, braille_code, n_examples, n_tests, args.batch_size, ai_provider, model,
+                gen_braille, braille_code, n_examples, n_tests, args.batch_size, ai_provider, args.service_tier, model,
                 apiKeyName, symbol_mappings
             )
             configs_data.append(config_data)
