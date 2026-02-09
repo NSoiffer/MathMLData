@@ -1,0 +1,12686 @@
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+f
+(a, b)?
+(a, b)?
+f
+(a, b)?
+f
+L
+x
+a
+f(x)
+L
+x
+a.
+lim_(x->a)f(x) = L.
+f
+f(x) = 3-x.
+f(x) = 3-x.
+x
+-0.2
+-0.1
+0.0
+0.1
+0.2
+f(x)
+lim_(x->0)f(x)?
+f(x) = 3-x.
+g(x) = x/(|x|) .
+x = 0,
+g
+g(x) = x/(|x|) .
+x
+-0.1
+-0.01
+-0.001
+0.001
+0.01
+0.1
+g(x)
+lim_(x->0)g(x)?
+g(x) = x/(|x|) .
+f(x, y) = 3-x-2y.
+f(x, y) = 3-x-2y.
+x'\\x002216'y
+-1.0
+-0.1
+0.0
+0.1
+1.0
+-1.0
+4.2
+-0.1
+1.1
+0.0
+2.8
+0.1
+4.9
+1.0
+2.0
+lim_((x,y)->(0,0))f(x, y)?
+f(x, y) = 3-x-2y.
+g(x, y) = (2xy)/(x^2+y^2) ,
+(0, 0).
+g(x, y) = (2xy)/(x^2+y^2) .
+x'\\x002216'y
+-1.0
+-0.1
+0.0
+0.1
+1.0
+-1.0
+0.198
+-0.1
+-0.198
+0.0
+0.000
+0.1
+-0.198
+1.0
+0.000
+lim_((x,y)->(0,0))g(x, y)?
+g(x, y) = (2xy)/(x^2+y^2) .
+f = f(x, y),
+f
+L
+(x, y)
+(a, b)
+f(x, y)
+L
+(x, y)
+(a, b).
+lim_((x,y)->(a,b))f(x, y) = L.
+lim_(x->a)f(x),
+f
+x
+a
+lim_((x,y)->(a,b))f(x, y)
+f
+(x, y)
+(a, b)
+(x, y)
+(a, b).
+f,
+f(x, y) = y/(sqrt(x^2+y^2)) ,
+f(x, y) = y/(sqrt(x^2+y^2)) .
+f
+(0, 0)?
+f
+(0, 0)?
+f
+(0, 0)
+f.
+x'\\x002216'y
+-1.000
+-0.100
+0.000
+0.100
+1.000
+-1.000
+-0.707
+0.000
+0.707
+-0.100
+-0.707
+0.000
+0.707
+0.000
+-1.000
+-1.000
+1.000
+1.000
+0.100
+-0.707
+0.000
+0.707
+1.000
+-0.707
+0.000
+0.707
+f
+(0, 0)
+f
+x
+y = 0.
+f(x, 0)
+x -> 0?
+(0, 0)
+x
+f
+y = x
+x > 0;
+f(x, x)
+x > 0?
+(0, 0)
+y = x
+f(x, x)
+x -> 0^+
+lim_((x,y)->(0,0))f(x, y) = L,
+f(x, y)
+L
+(x, y)
+(0, 0),
+(x, y) -> (0, 0).
+lim_((x,y)->(0,0))f(x, y).
+f.
+f(x, y)
+(x, y)
+(0, 0)
+lim_((x,y)->(0,0))f(x, y)
+y = mx
+m.
+f(x, y) = y/(sqrt(x^2+y^2)) .
+(x, y)
+(a, b)
+f(x, y)
+lim_((x,y)->(a,b))f(x, y)
+g(x) = x//|x|
+lim_(x->0)g(x)
+x
+g(x) = x/(|x|) .
+f(x, y)
+(x, y)
+(a, b)
+lim_((x,y)->(a,b))f(x, y)
+f
+f
+g
+g(x, y) = (x^2 y)/(x^4+y^2)
+lim_((x,y)->(0,0))g(x, y).
+g
+x
+g(x, 0)
+g
+(x, y)
+(0, 0)
+x
+g
+y
+g(0, y)
+g
+(x, y)
+(0, 0)
+y
+g
+y = mx?
+g(x, mx)
+g
+(x, y)
+(0, 0)
+y = mx?
+lim_((x,y)->(0,0))g(x, y)
+g
+y = x^2?
+g(x, x^2)
+g
+(x, y)
+(0, 0)
+lim_((x,y)->(0,0))g(x, y)
+lim_((x,y)->(a,b))f(x, y)
+f
+f(x, y) = (x^2 y^2)/(x^2+y^2) .
+lim_((x,y)->(0,0))f(x, y)
+x
+y
+f(x, y) = 0.
+f
+(0, 0),
+lim_((x,y)->(0,0))f(x, y) = 0,
+f(x, y)
+0
+(x, y)
+(0, 0).
+x
+y
+0 <= x^2,
+y^2 <= x^2+y^2,
+(y^2)/(x^2+y^2) <= 1.
+x^2
+f(x, y) >= 0
+(x, y)
+0 <= f(x, y) = (x^2 y^2)/(x^2+y^2) = x^2( (y^2)/(x^2+y^2) ) <= x^2.
+0 <= f(x, y) <= x^2.
+x^2 -> 0
+x -> 0,
+f(x, y)
+0
+x
+0
+y
+lim_((x,y)->(0,0)) (x^2 y^2)/(x^2+y^2) = 0.
+f = f(x, y)
+g = g(x, y)
+lim_((x,y)->(a,b))f(x, y)
+lim_((x,y)->(a,b))g(x, y)
+lim_((x,y)->(a,b))x = a
+lim_((x,y)->(a,b))y = b
+lim_((x,y)->(a,b))cf(x, y) = c(lim_((x,y)->(a,b))f(x, y))
+c
+lim_((x,y)->(a,b))[f(x, y)+-g(x, y)] = lim_((x,y)->(a,b))f(x, y)+-lim_((x,y)->(a,b))g(x, y)
+lim_((x,y)->(a,b))[f(x, y)g(x, y)] = (lim_((x,y)->(a,b))f(x, y))(lim_((x,y)->(a,b))g(x, y))
+lim_((x,y)->(a,b)) (f(x,y))/(g(x,y)) = (lim_((x,y)->(a,b))f(x,y))/(lim_((x,y)->(a,b))g(x,y))
+lim_((x,y)->(a,b))g(x, y) != 0.
+f
+f(x, y) = 3x^2 y^3+2xy^2-3x+1
+(a, b)
+lim_((x,y)->(a,b))f(x, y) = f(a, b).
+f
+x
+x = a
+f(a)
+lim_(x->a)f(x)
+lim_(x->a)f(x) = f(a).
+f = f(x, y)
+(a, b)
+f
+(a, b),
+lim_((x,y)->(a,b))f(x, y)
+lim_((x,y)->(a,b))f(x, y) = f(a, b).
+f
+f(x, y) = 3x^2 y^3+2xy^2-3x+1
+f
+g
+(a, b).
+cf
+(a, b)
+c
+f+g
+(a, b)
+f-g
+(a, b)
+fg
+(a, b)
+f/g
+(a, b)
+g(a, b) != 0
+f
+g
+f(x, y) = x
+g(x, y) = y
+x
+y
+g(x, y) = x^2
+h(x, y) = y^3
+f(x, y) = x^2 y^3
+f = f(x, y)
+L
+(a, b)
+f(x, y)
+L
+(x, y)
+(a, b).
+(x, y)
+(x, y)
+(a, b)
+lim_((x,y)->(a,b))f(x, y)
+f = f(x, y)
+(a, b)
+f
+(a, b)
+f(a, b) = lim_((x,y)->(a,b))f(x, y).
+lim_((x,y)->(0,0)) (2x^2)/(4x^2+3y^2)
+x
+y
+y = mx
+f(x, y) = (2x-y^2)/(x+y^2)
+(x, y) -> (0, 0).
+(x, y) -> (0, 0)
+y = 4x^(1//2).
+underset((x,4x^(1//2))->(0,0))(lim) (2x-y^2)/(x+y^2) =
+(x, y) -> (0, 0)
+y = 5x^(1//2).
+underset((x,5x^(1//2))->(0,0))(lim) (2x-y^2)/(x+y^2) =
+f
+(x, y) -> (0, 0)
+(x, y) -> (0, 0)
+y = mx^(1//2),
+m.
+underset((x,mx^(1//2))->(0,0))(lim) (2x-y^2)/(x+y^2) =
+f
+(x, y) -> (0, 0).
+f(x, y) = (x^4 y)/(x^8+y^4) .
+(0, 0)
+f
+(x, y) -> (0, 0)
+y = x.
+underset(\_(y=x)^((x,y)->(0,0)))(lim)f(x, y) =
+f
+(x, y) -> (0, 0)
+y = x^4.
+underset(\_(y=x^4)^((x,y)->(0,0)))(lim)f(x, y) =
+f
+lim_((x,y)->(0,0)) (4x^2)/(4x^2+4y^2) =
+lim_((x,y)->(0,0)) ((x+19y)^2)/(x^2+19^2 y^2) =
+lim_((x,y)->(4,-5))e^(sqrt(4x^2+1y^2)) =
+lim_((x,y,z)->(0,0,0)) (5xy+4yz+xz)/(25x^2+16y^2+z^2) =
+lim_((x,y,z)->(1,2,3)) (3ze^(x^2+y^2))/(x^2+2y^2+3z^2) =
+lim_((x,y)->(0,0)) ((3x^2-8y^2))/(sqrt((3x^2-8y^2+1))-1)
+f(x, y) = 1//(7-x^2-y^2)
+x^2+y^2 = 7
+x^2+y^2 = 7,
+x^2+y^2 = 7
+x^2+y^2 = 7
+f
+f(x, y) = (xy)/(x^2+y^2+1) .
+f?
+f
+(0, 0)
+x = 0,
+y = 0,
+y = x,
+y = x^2.
+lim_((x,y)->(0,0))f(x, y)?
+f
+(0, 0)?
+f
+(0, 0).
+g
+g(x, y) = (xy)/(x^2+y^2) .
+g?
+g
+(0, 0)
+x = 0,
+y = x,
+y = 2x.
+lim_((x,y)->(0,0))g(x, y)?
+g
+(0, 0)?
+g
+(0, 0).
+h
+h(x, y) = (2x^2 y)/(x^4+y^2) .
+h?
+h
+(0, 0)
+lim_((x,y)->(0,0))h(x, y)?
+y = mx
+m.
+lim_((x,y)->(0,0))h(x, y)
+h
+(0, 0).
+lim_((x,y)->(0,0))h(x, y).
+p
+(0, 0),
+lim_((x,y)->(0,0))p(x, y)
+q
+(0, 0),
+y = mx
+x -> 0.
+r
+(0, 0),
+lim_((x,y)->(0,0))r(x, y)
+s
+lim_((x,x)->(0,0))s(x, x) = 3\ and\ lim_((x,2x)->(0,0))s(x, 2x) = 6,
+lim_((x,y)->(0,0))s(x, y)
+t
+(1, 1)
+lim_((x,y)->(1,1))t(x, y)
+f
+f(x, y) = (x+2y)/(x-y)
+g
+g(x, y) = (sin(x))/(1+e^y)
+h
+h(x, y) = {[ (xy)/(x^2+y^2) , "\if\ "(x,y)!=(0,0)], [0, "\if\ "(x,y)=(0,0)]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+k
+k(x, y) = {[ (x^2 y^4)/(x^2+y^2) , "\if\ "(x,y)!=(0,0)], [0, "\if\ "(x,y)=(0,0)]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+f = f(x, y)
+f
+[a, b]
+[a, b]
+int_a^b f(x)\ dx
+x
+[a, b].
+[a, b]
+R
+R = {(x, y):0 <= x <= 6, 2 <= y <= 4}
+[0, 6] xx[2, 4]
+R
+R,
+[0, 6]
+[2, 4];
+[0, 6]
+[2, 4]
+0 = x_0 < x_1 < x_2 < x_3 = 6
+[0, 6]
+Delta x
+[x_(i-1), x_i]
+i
+x_0,
+x_1,
+x_2,
+x_3.
+2 = y_0 < y_1 < y_2 = 4
+[2, 4]
+Delta y
+[y_(j-1), y_j]
+j
+y_0,
+y_1,
+y_2
+R_(ij)
+[x_(i-1), x_i] xx[y_(j-1), y_j].
+[0, 6]
+[2, 4]?
+Delta A
+[a, b].
+f = f(x, y)
+R = {(x, y):a <= x <= b, c <= y <= d}.
+R
+R
+[a, b]
+[c, d]
+R
+f(x, y) = 100-x^2-y^2
+R = [a, b] xx[c, d].
+[a, b]
+[c, d]
+a = x_0 < x_1 < x_2 < x_3 < x_4 = b
+[a, b]
+Delta x
+[x_(i-1), x_i]?
+a
+b.
+c = y_0 < y_1 < y_2 < y_3 = d
+[c, d]
+Delta y
+[y_(j-1), y_j]?
+c
+d.
+[a, b]
+[c, d]
+R
+R_(ij)
+[x_(i-1), x_i] xx[y_(j-1), y_j].
+Delta A
+[a, b] = [0, 8]
+[c, d] = [2, 6].
+(x_(11)^** , y_(11)^** )
+R_(11).
+f(x_(11)^** , y_(11)^** ) Delta A.
+i
+j,
+(x_(ij)^** , y_(ij)^** )
+R_(i,j).
+f(x_(ij)^** , y_(ij)^** ) Delta A
+f(x_(ij)^** , y_(ij)^** ) Delta A
+i
+j,
+f
+R?
+j
+f
+R = {(x, y):a <= x <= b, c <= y <= d}.
+f
+R
+[a, b]
+m
+Delta x = (b-a)/m.
+x_0,
+x_1,
+...,
+x_m
+a = x_0 < x_1 < x_2 < cdots < x_m = b.
+[c, d]
+n
+Delta y = (d-c)/n.
+y_0,
+y_1,
+...,
+y_n
+c = y_0 < y_1 < y_2 < cdots < y_n = d.
+R
+mn
+R_(ij)
+(x_(i-1), y_(j-1))
+(x_i, y_j)
+i
+1
+m
+j
+1
+n.
+Delta A = Delta x*Delta y.
+(x_(ij)^** , y_(ij)^** )
+R_(ij).
+f
+R
+sum_(j=1)^n sum_(i=1)^m f(x_(ij)^** , y_(ij)^** )*Delta A.
+f(x, y) >= 0
+R,
+f
+R,
+m
+n
+f
+R.
+R
+xy
+f
+R.
+f
+R
+'\\x00222c'_R f(x, y)dA = lim_(m,n->oo) sum_(j=1)^n sum_(i=1)^m f(x_(ij)^** , y_(ij)^** )*Delta A.
+int_R f(x, y)dA
+f(x, y)
+R,
+i
+j,
+f(x_(ij)^** , y_(ij)^** )*Delta A
+Delta A
+f(x_(ij)^** , y_(ij)^** ).
+f
+sum_(j=1)^n sum_(i=1)^m f(x_(ij)^** , y_(ij)^** )*Delta A
+xy
+'\\x00222c'_R f(x, y)dA
+'\\x00222c'_R f(x, y)dA
+f
+xy
+R
+f
+xy
+R.
+mn
+f(x_(ij)^** , y_(ij)^** )
+"Avg"_(mn) = 1/(mn) sum_(j=1)^n sum_(i=1)^m f(x_(ij)^** , y_(ij)^** ).
+m
+n
+f
+R,
+"\Avg\ "_(mn)
+Delta x = (b-a)/m\ "\and\ "\ Delta y = (d-c)/n.
+1/(mn) = (Delta x*Delta y)/((b-a)(d-c)) = (Delta A)/(A(R)) ,
+A(R)
+R.
+f
+R,
+f_("AVG"(R)),
+[f_("AVG"(R)), "<mi//>"=lim_(m,n->oo) 1/(mn) sum_(j=1)^n sum_(i=1)^m f(x_(ij)^** ,y_(ij)^** )], [\ , "<mi//>"=lim_(m,n->oo) 1/(A(R)) sum_(j=1)^n sum_(i=1)^m f(x_(ij)^** ,y_(ij)^** )*Delta A], [\ , "<mi//>"=1/(A(R)) '\\x00222c'_R f(x,y)dA.]
+f
+R
+R
+f
+R.
+f(x, y) >= 0
+R,
+f
+R
+R
+f
+R.
+f(x, y) = x+2y
+R = [0, 2] xx[1, 3].
+R.
+[0, 2]
+[1, 3]
+R
+i
+j,
+(x_(ij)^** , y_(ij)^** )
+R_(ij).
+(x_(ij)^** , y_(ij)^** ).
+R.
+sum_(j=1)^n sum_(i=1)^m f(x_(ij)^** , y_(ij)^** )*Delta A
+(x_(ij)^** , y_(ij)^** )
+R_(ij)
+i
+j,
+f(x, y) = sqrt(4-y^2)
+R = [1, 7] xx[-2, 2].
+[1, 7]
+[-2, 2]
+f
+R
+f
+-2
+-1
+0
+1
+2
+1
+0
+sqrt(3)
+2
+sqrt(3)
+0
+2
+0
+sqrt(3)
+2
+sqrt(3)
+0
+3
+0
+sqrt(3)
+2
+sqrt(3)
+0
+4
+0
+sqrt(3)
+2
+sqrt(3)
+0
+5
+0
+sqrt(3)
+2
+sqrt(3)
+0
+6
+0
+sqrt(3)
+2
+sqrt(3)
+0
+7
+0
+sqrt(3)
+2
+sqrt(3)
+0
+f(x, y) = sqrt(4-y^2).
+f(x, y) = sqrt(4-y^2)
+R.
+R
+R
+f
+'\\x00222c'_R f(x, y)dA
+f
+g
+R = {(x, y):a <= x <= b, c <= y <= d},
+k
+'\\x00222c'_R(f(x, y)+g(x, y))dA = '\\x00222c'_R f(x, y)dA+'\\x00222c'_R g(x, y)dA.
+'\\x00222c'_R kf(x, y)dA = k'\\x00222c'_R f(x, y)dA.
+f(x, y) >= g(x, y)
+R,
+'\\x00222c'_R f(x, y)dA >= '\\x00222c'_R g(x, y)dA.
+f
+R = {(x, y):a <= x <= b, c <= y <= d}.
+f
+R
+[a, b]
+m
+Delta x = (b-a)/m.
+x_0,
+x_1,
+...,
+x_m
+a = x_0 < x_1 < x_2 < cdots < x_m = b.
+[c, d]
+n
+Delta y = (d-c)/n.
+y_0,
+y_1,
+...,
+y_n
+c = y_0 < y_1 < y_2 < cdots < y_n = d.
+R
+mn
+R_(ij)
+(x_(i-1), y_(j-1))
+(x_i, y_j)
+i
+1
+m
+j
+1
+n.
+Delta A = Delta x*Delta y.
+(x_(ij)^** , y_(ij)^** )
+R_(ij).
+f
+R
+sum_(j=1)^n sum_(i=1)^m f(x_(ij)^** , y_(ij)^** )*Delta A.
+f
+R
+'\\x00222c'_R f(x, y)dA = lim_(m,n->oo) sum_(j=1)^n sum_(i=1)^m f(x_(ij)^** , y_(ij)^** )*Delta A.
+'\\x00222c'_R f(x, y)dA
+f
+xy
+R
+f
+xy
+R;
+f
+R
+R
+f
+R.
+f(x, y) >= 0
+R,
+f
+R
+R
+f
+R.
+f(x, y) = 1-x^2-y^2
+R
+'\\x00222c'_Rf(x, y)dA
+R,
+R
+xy
+R = [0, 1] xx[0, 1],
+z = 25-x^2+xy-4y^2.
+R
+R
+(0, 0),
+(4, 0),
+(4, 4),
+(0, 4)
+f(x, y) = sqrt(xy).
+int_R fdA
+R.
+int_R fdA
+R
+f
+int_R fdA ~~
+int_R fdA ~~
+int_R fdA ~~
+f(x, y) = 4+xy
+R
+0 <= x <= 2, \ 0 <= y <= 3.
+R = [0, 2] xx[0, 2],
+z = 49-x^2-4y^2.
+g(x, y)
+R,
+7 <= x <= 13
+4 <= y <= 10.
+Delta x = Delta y = 2,
+int_R g(x, y)dA.
+f(x, y)
+R
+1 <= x <= 1.6, 2 <= y <= 3.2.
+int_R f(x, y)da
+Delta x = 0.2
+Delta y = 0.4.
+[y'\\x002216'x, 1.1, 1.3, 1.5], [2.2, 8, 7, -3], [2.6, -4, 2, 0], [3.0, -4, 8, 10]
+int_R f(x, y)da ~~
+f(x, y)
+x = 3
+x = 3.2
+x = 3.4
+y = 4
+y = 4.4
+y = 4.8
+R
+3 <= x <= 3.4,
+4 <= y <= 4.8.
+int_R f(x, y)dA
+Delta x = 0.2
+Delta y = 0.4.
+xy
+T(x, y) = 100-4x^2-y^2,
+x
+y
+T
+R = [1, 5] xx[3, 6].
+'\\x00222c'_R T(x, y)dA
+(x_i^** , y_j^** )
+R.
+T_("AVG"(R)),
+R.
+f
+x
+y
+x
+y
+R.
+f
+R
+'\\x00222c'_R f(x, y)dA,
+f
+R
+f
+f
+R
+f
+f
+R
+f
+f
+R
+f
+w = w(v, T),
+v,
+T,
+[5, 35] xx[-20, 20]
+v
+T
+v'\\x002216'T
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+20
+5
+-34
+-28
+-22
+-16
+-11
+-5
+1
+7
+13
+10
+-41
+-35
+-28
+-22
+-16
+-10
+-4
+3
+9
+15
+-45
+-39
+-32
+-26
+-19
+-13
+-7
+0
+6
+20
+-48
+-42
+-35
+-29
+-22
+-15
+-9
+-2
+4
+25
+-51
+-44
+-37
+-31
+-24
+-17
+-11
+-4
+3
+30
+-53
+-46
+-39
+-33
+-26
+-19
+-12
+-5
+1
+35
+-55
+-48
+-41
+-34
+-27
+-21
+-14
+-7
+0
+R = [0, 4] xx[0, 3],
+z = p(x, y) = 20-2x-3y.
+'\\x00222c'_R p(x, y)dA
+x
+y
+(x_i^** , y_j^** )
+'\\x00222c'_R p(x, y)dA = 138.
+p
+R?
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb r(t) = '\\x0027e8'x(t), y(t), z(t)'\\x0027e9',
+z = f(x, y).
+x = x(s, t),
+y = y(s, t),
+z = z(s, t)
+s
+t,
+bb r(s, t) = x(s, t)bb i+y(s, t)bb j+z(s, t)bb k
+x = x(s, t),
+y = y(s, t),
+z = z(s, t)
+x(t) = cos(t)\ "\and\ "\ y(t) = sin(t),
+0 <= t <= 2 pi.
+RR^3
+(0, 0, 1)
+z = 1.
+(0, 0, -1)
+z = -1.
+(0, 0, 5)
+z = 5.
+x(s, t) = cos(t), \ y(s, t) = sin(t), \ "\and\ "\ z(s, t) = s,
+0 <= t <= 2 pi
+-5 <= s <= 5.
+z = 3.
+xy
+z
+y = g(x),
+'\\x0027e8't, g(t)'\\x0027e9'
+t
+g
+'\\x0027e8'cos(t), sin(t)'\\x0027e9',
+0 <= t <= 2 pi.
+z = f(x, y)
+'\\x0027e8'x(s, t), y(s, t), z(s, t)'\\x0027e9' = '\\x0027e8's, t, f(s, t)'\\x0027e9',
+(s, t)
+f.
+z = f(x, y)
+r
+(0, 0, z_0)
+z = z_0,
+bb r
+bb r(t) = rcos(t)bb i+rsin(t)bb j+z_0 bb k
+0 <= t <= 2 pi.
+(0, 0, z_0).
+a
+xz
+(b, 0),
+s,
+x(s) = b+acos(s)\ and\ z(s) = asin(s),
+0 <= s <= 2 pi.
+(x(s), 0, z(s))
+s.
+z
+(0, 0, z(s))
+x(s),
+t
+z
+bb r(s, t) = x(s)cos(t)bb i+x(s)sin(t)bb j+z(s)bb k.
+x(s)
+z(s)
+bb r(s, t) = (b+acos(s))cos(t)bb i+(b+acos(s))sin(t)bb j+asin(s)bb k.
+0 <= s <= 2 pi
+0 <= t <= 2 pi.
+R
+xz
+z
+s:
+x(s) = ...\ z(s) = ....
+s.
+z
+bb r(s, t)
+R.
+s
+t.
+z
+'\\x0027e8'x(s, t), y(s, t), z(s, t)'\\x0027e9'.
+bb r(s, t) = x(s, t)bb i+y(s, t)bb j+z(s, t)bb k
+a <= s <= b
+c <= t <= d.
+s
+t,
+bb r,
+[bb r_s(s,t), "<mi//>"=x_s(s,t)bb i+y_s(s,t)bb j+z_s(s,t)bb k], [bb r_t(s,t), "<mi//>"=x_t(s,t)bb i+y_t(s,t)bb j+z_t(s,t)bb k.]
+[a, b]
+m
+Delta s = (b-a)/n
+s_0,
+s_1,
+...,
+s_m
+a = s_0 < s_1 < s_2 < cdots < s_m = b.
+[c, d]
+n
+Delta t = (d-c)/n
+t_0,
+t_1,
+...,
+t_n
+c = t_0 < t_1 < t_2 < cdots < t_n = d.
+R = [a, b] xx[c, d]
+st
+mn
+R_(ij)
+(s_(i-1), t_(j-1))
+(s_i, t_j)
+i
+1
+m
+j
+1
+n.
+Delta A = Delta s*Delta t.
+s
+Delta s
+(s_(i-1), t_(j-1))
+bb r
+bb r_s(s_(i-1), t_(j-1)) Delta s.
+t
+Delta t
+(s_(i-1), t_(j-1)),
+bb r
+bb r_t(s_(i-1), t_(j-1)) Delta t.
+bb r
+st
+[s_(i-1), s_i] xx[t_(j-1), t_j]
+bb r_s(s_(i-1), t_(j-1)) Delta s
+bb r_t(s_(i-1), t_(j-1)) Delta t,
+S_(ij).
+bb u
+bb v,
+bb u
+bb v
+|bb u xx bb v|.
+S_(ij),
+bb r_s(s_(i-1), t_(j-1)) Delta s
+bb r_t(s_(i-1), t_(j-1)) Delta t
+[S_(ij), "<mi//>"=|(bb r_s(s_(i-1),t_(j-1)) Delta s) xx(bb r_t(s_(i-1),t_(j-1)) Delta t)|], ["(11.6.1)", \ , "<mi//>"=|bb r_s(s_(i-1),t_(j-1)) xx bb r_t(s_(i-1),t_(j-1))|Delta s Delta t,]
+S,
+S ~~ sum_(i=1)^m sum_(j=1)^n|bb r_s(s_(i-1), t_(j-1)) xx bb r_t(s_(i-1), t_(j-1))|Delta s Delta t.
+m, n -> oo
+bb r
+D
+bb r(s, t) = '\\x0027e8'x(s, t), y(s, t), z(s, t)'\\x0027e9'
+D.
+bb r
+D
+["(11.6.2)", S='\\x00222c'_D|bb r_s xx bb r_t|\ dA.]
+a
+h
+bb r(s, t) = acos(s)bb i+asin(s)bb j+tbb k
+0 <= s <= 2 pi
+0 <= t <= h,
+z = f(x, y)
+'\\x0027e8's, t, f(s, t)'\\x0027e9'.
+f = f(x, y)
+z = f(x, y)
+bb r(s, t) = '\\x0027e8's, t, f(s, t)'\\x0027e9'.
+D
+f.
+S,
+f
+D
+S = '\\x00222c'_D sqrt((f_x(x,y))^2+(f_y(x,y))^2+1)\ dA.
+f(x, y) = sqrt(4-x^2)
+D = [-2, 2] xx[0, 3].
+t,
+bb r(s, t) = '\\x0027e8'x(s, t), y(s, t), z(s, t)'\\x0027e9'
+D,
+S,
+S = '\\x00222c'_D|bb r_s xx bb r_t|\ dA.
+r = s
+theta = t.
+x(s, t) =
+y(s, t) =
+z(s, t) =
+<= s <=
+<= t <=
+(-3, 2, 1)
+'\\x0027e8'3, 2, 3'\\x0027e9'
+vec r(s, t) =
+s
+t
+z = 10sqrt(x-2), 2 <= x <= 4,
+z
+s
+t
+x(s, t) =
+y(s, t) =
+z(s, t) =
+<= s <=
+<= t <=
+s
+t
+x(s, t) =
+y(s, t) =
+z(s, t) =
+<= s <=
+<= t <=
+7x+8y+z = 8
+(x^2)/81+ (y^2)/64 = 1
+z = x^2+y^2
+x^2+y^2 = 16.
+4x+5y+z = 4
+x^2+y^2 = 1.
+z = y^8 cos^6 x
+int_a^b int_(f(y))^(g(y))sqrt(h(x,y))"dxdy"
+a =
+b =
+f(y) =
+g(y) =
+h(x, y) =
+r_0 = 3
+a_0 = 6
+s
+t.
+x(s, t) =
+y(s, t) =
+z(s, t) =
+<= s <=
+<= t <=
+(x^2)/16+ (y^2)/25+ (z^2)/9 = 1.
+S
+R
+x(r, s) = Rcos(s)cos(t), \ y(s, t) = Rcos(s)sin(t), \ "\and\ "\ z(s, t) = Rsin(s)
+-pi/2 <= s <= pi/2
+0 <= t <= 2 pi.
+(x, y, z)
+X = x/4,
+Y = y/5,
+Z = z/3.
+(X, Y, Z)
+S.
+S
+X,
+Y,
+Z
+s
+t.
+x,
+y,
+z
+s
+t.
+x,
+y,
+z
+R
+z = f(x, y) = 24-2x-3y
+D = [0, 2] xx[0, 3].
+bb r(s, t)
+D.
+f
+D.
+bb u = '\\x0027e8'2, 0, -4'\\x0027e9'
+(0, 0, 24)
+(2, 0, 20)
+f
+D.
+bb v
+bb u
+bb v
+f
+D,
+|bb u xx bb v|.
+a
+h
+z = h/a sqrt(x^2+y^2),
+a
+h
+z = h/a sqrt(x^2+y^2).
+h
+a.
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+D
+f(x, y) = e^(-x^2-y^2).
+f
+D,
+'\\x00222c'_D f(x, y)dA = int_(x=-1)^(x=1) int_(y=-sqrt(1-x^2))^(y=sqrt(1-x^2))e^(-x^2-y^2)dydx.
+P
+(x, y),
+x
+y
+P
+y
+x
+P.
+O = (0, 0),
+P
+x
+P
+x
+Q
+bar(OQ)
+pi/2
+x
+R
+bar(OR)
+(2 pi)/3
+x
+(x, y)
+r
+theta
+x
+(r, theta)
+(0, -1)
+(-2, 0)
+(-1, 1)
+(5, pi/4)
+(2, (5 pi)/6)
+(sqrt(3), (5 pi)/3)
+P
+(x, y),
+x
+P
+y
+y
+P
+x
+(r, theta),
+r
+P
+theta
+bar(OP)
+x
+(x, y)
+P,
+(r, theta)
+P
+r = sqrt(x^2+y^2)\ "\and\ "\ tan(theta) = y/x, "\assuming\ "x != 0.
+(r, theta)
+P,
+(x, y)
+P
+x = rcos(theta)\ "\and\ "\ y = rsin(theta).
+theta
+theta
+theta+2 pi
+tan(theta)
+theta
+theta
+theta
+r
+r = f(theta).
+r = 1
+theta
+r
+x
+y.
+theta = 1
+r
+theta,
+theta = 1
+r = theta,
+1 <= r <= 3
+theta
+1 <= r <= 3
+pi//4 <= theta <= pi//2
+r = sin(theta).
+theta
+r < 0.
+(r, theta)
+(|r|, theta+pi)
+r < 0,
+r = sin(theta)
+'\\x00222c'_D e^(x^2+y^2)dA,
+D
+'\\x00222c'_D f(x, y)dA
+int_a^b int_(g_1(x))^(g_2(x))f(x, y)dydx
+dA = dydx
+x
+y
+dA,
+dA
+dr
+d theta
+R,
+r
+r_i
+r_(i+1)
+theta
+theta_j
+theta_(j+1)
+Delta r = r_(i+1)-r_i
+Delta theta = theta_(j+1)-theta_j.
+Delta A
+Delta A
+Delta r Delta theta.
+Delta A
+r_i
+r_(i+1),
+r_i
+r_(i+1).
+R
+Delta A
+R
+theta_(i+1)-theta_i
+pi/4,
+(pi/4)/(2 pi) = 1/8
+Delta A?
+Delta A
+r_i,
+r_(i+1),
+theta_j,
+theta_(j+1).
+Delta A
+r_i,
+r_(i+1),
+Delta r,
+Delta theta,
+Delta r
+Delta theta
+Delta r
+dr,
+Delta theta
+d theta,
+Delta A
+dA,
+dA
+r,
+dr,
+d theta.
+x
+y
+r
+theta,
+dA = rdrd theta
+r
+r
+'\\x00222c'_D f(x, y)dA
+x
+rcos(theta),
+y
+rsin(theta)
+dA
+rdrd theta.
+D
+'\\x00222c'_D f(x, y)dA
+'\\x00222c'_D f(rcos(theta), rsin(theta))rdrd theta.
+f(x, y) = e^(x^2+y^2)
+D = {(x, y):x^2+y^2 <= 1}.
+'\\x00222c'_D f(x, y)dA.
+'\\x00222c'_D f(x, y)dA
+'\\x00222c'_D f(x, y)dA = int_(x=-1)^(x=1) int_(y=-sqrt(1-x^2))^(y=sqrt(1-x^2))e^(x^2+y^2)dydx.
+e^(x^2+y^2)
+x
+y.
+r^2 = x^2+y^2
+D
+x
+rcos(theta),
+y
+rsin(theta),
+dydx
+rdrd theta
+'\\x00222c'_D f(x, y)dA = '\\x00222c'_D e^(r^2)rdrd theta.
+D
+0 <= r <= 1
+0 <= theta <= 2 pi.
+'\\x00222c'_D e^(r^2)rdrd theta = int_(theta=0)^(theta=2 pi) int_(r=0)^(r=1)e^(r^2)rdrd theta.
+[int_(theta=0)^(theta=2 pi) int_(r=0)^(r=1)e^(r^2)rdrd theta, "<mi//>"=int_(theta=0)^(2 pi)(1/2 e^(r^2)|_(r=0)^(r=1))d theta], [\ , "<mi//>"=1/2 int_(theta=0)^(theta=2 pi)(e-1)d theta], [\ , "<mi//>"=1/2(e-1) int_(theta=0)^(theta=2 pi)d theta], [\ , "<mi//>"=1/2(e-1)[theta]|_(theta=0)^(theta=2 pi)], [\ , "<mi//>"=pi(e-1).]
+sqrt(x^2+y^2).
+f(x, y) = x+y
+D = {(x, y):x^2+y^2 <= 4}.
+D
+f
+D
+f
+D
+x^2+(y-1)^2 = 1
+y = x
+x^2+(y-1)^2 = 1,
+r = f(theta)
+x^2+(y-1)^2 = 1.
+r
+x = rcos(theta)
+y = rsin(theta).
+g(x, y) = sqrt(x^2+y^2)
+x^2+(y-1)^2 = 1.
+h(x, y) = x
+D,
+D
+y = x
+P
+(r, theta)
+r
+P
+theta
+P
+x
+r
+theta
+(x, y)
+r = sqrt(x^2+y^2)\ "\and\ "\ tan(theta) = y/x;
+x
+y
+(r, theta)
+x = rcos(theta)\ "\and\ "\ y = rsin(theta).
+dA
+dA = rdrd theta.
+'\\x00222c'_D f(x, y)dA
+rcos(theta)
+x,
+rsin(theta)
+y,
+rdrd theta
+dA
+'\\x00222c'_D f(rcos(theta), rsin(theta))rdrd theta.
+(-1, -sqrt(3)).
+(r, theta)
+r > 0
+0 <= theta < 2 pi.
+r =
+theta =
+(r, theta)
+r < 0
+0 <= theta < 2 pi.
+r =
+theta =
+(-2, 3).
+(r, theta)
+r > 0
+0 <= theta < 2 pi.
+r =
+theta =
+(r, theta)
+r < 0
+0 <= theta < 2 pi.
+r =
+theta =
+(1, pi//2)
+r > 0
+2 pi <= theta < 4 pi.
+r =
+theta =
+r < 0
+0 <= theta < 2 pi.
+r =
+theta =
+(-2, pi//4)
+r > 0
+2 pi <= theta < 4 pi.
+r =
+theta =
+r < 0
+-2 pi <= theta < 0.
+r =
+theta =
+(3, 2)
+r > 0
+2 pi <= theta < 4 pi.
+r =
+theta =
+r < 0
+0 <= theta < 2 pi.
+r =
+theta =
+(7, pi/3), (-7, (-pi)/3)
+(2, (51 pi)/4), (2, - (51 pi)/4)
+(0, 7 pi), (0, (6 pi)/4)
+(1, (117 pi)/4), (-1, pi/4)
+(17, (44 pi)/3), (-17, (-pi)/3)
+(7, 7 pi), (-7, 7 pi)
+r = 9/(8sin theta+25cos theta)
+y =
+x
+r = f(theta)
+x = -y^2.
+theta
+t
+theta
+r =
+'\\x00222c'_D(x^2+y^2)^(5//2)"dxdy"
+D
+x^2+y^2 <= 4.
+int_0^(sqrt(2)) int_(-x)^x dydx
+t
+theta
+a =
+b =
+c =
+d =
+int_0^(sqrt(2)) int_(-x)^x dydx = int_a^b int_c^d
+drdt
+= int_a^b
+dt
+=
+|_a^b
+=
+f(x, y)
+t
+theta
+a =
+b =
+c =
+d =
+int_a^b int_c^d
+d
+d
+a =
+b =
+c =
+d =
+int_a^b int_c^d
+d
+d
+r = 4
+x^2+y^2 =
+x^2+y^2 = 100
+x^2-10x+y^2 = 0.
+r = 1//(6cos theta)
+-pi//2 <= theta <= pi//2
+r = 1.
+r = 1
+r = 1//(6cos theta).
+t
+theta
+a =
+b =
+c =
+d =
+int_a^b int_c^d
+d
+d
+int int_R sin(x^2+y^2)dA
+9 <= x^2+y^2 <= 49.
+int_0^(pi//4) int_0^(6//cos(theta))f(r, theta)rdrd theta
+y = 0, x = sqrt(36-y^2), "\and\ "y = 6
+y = 0, y = x, "\and\ "x = 6
+y = 0, y = x, "\and\ "y = 6
+y = 0, y = sqrt(36-x^2), "\and\ "x = 6
+z = e^(-x^2-y^2)
+x^2+y^2 <= a^2,
+a > 0.
+theta.
+int_A^B int_C^D
+a.
+a -> oo?
+lim_(a->oo)V =
+I = int_(-3)^0 int_(-sqrt(9-y^2))^0 y/(x^2+y^2+1) dxdy.
+D
+D.
+f(x, y) = y
+D.
+D
+delta(x, y) = 1.
+z = 8-x^2-y^2
+D.
+int_ pi^(3 pi//2) int_0^3 r^3 drd theta
+int_0^2 int_(-sqrt(1-(x-1)^2))^(sqrt(1-(x-1)^2))sqrt(x^2+y^2)dydx
+int_0^(pi//2) int_0^(sin(theta))rsqrt(1-r^2)drd theta.
+int_0^(sqrt(2)//2) int_y^(sqrt(1-y^2))cos(x^2+y^2)dxdy.
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+f
+f
+f
+f
+f(x, y) = 30-x^2-1/2 y^2,
+f
+x
+y
+x
+y
+f
+f(x, y) = 30-x^2-1/2 y^2.
+x
+x
+(2, 1)?
+(2, 1)
+bb v = '\\x0027e8'3, 4'\\x0027e9',
+|bb v| = 5
+(2, 1)
+bb v = '\\x0027e8'3, 4'\\x0027e9'.
+x(t)
+x
+y(t)
+y
+(2, 1)
+t = 0.
+f
+x
+y,
+t.
+(df)/dt|_(t=0).
+z = f(x, y),
+f_x(x_0, y_0)
+f
+x
+f_y(x_0, y_0)
+f
+(x_0, y_0)
+y
+f_x(x_0, y_0)
+f
+x,
+f_y(x_0, y_0)
+f
+x
+y
+f
+|bb v| = 5
+f
+f
+bb u = '\\x0027e8'u_1, u_2'\\x0027e9'.
+h
+bb u
+(x_0, y_0),
+(x_0+u_1 h, y_0+u_2 h).
+(x_0, y_0)
+bb u
+(x_0, y_0)
+(x_0+u_1 h, y_0+u_2 h)
+["(10.6.1)", m_(sec)= (f(x_0+u_1 h,y_0+u_2 h)-f(x_0,y_0))/h.]
+f
+bb u = '\\x0027e8'u_1, u_2'\\x0027e9',
+h -> 0.
+f = f(x, y)
+f
+(x, y)
+bb u = '\\x0027e8'u_1, u_2'\\x0027e9'
+D_bb u f(x, y)
+["(10.6.2)", D_bb u f(x,y)=lim_(h->0) (f(x+u_1 h,y+u_2 h)-f(x,y))/h]
+x
+y
+D_bb u f(x, y)
+D_bb u f(x, y)
+(x_0, y_0),
+D_bb u f(x_0, y_0)
+f
+(x_0, y_0)
+bb u.
+D_bb u f(x_0, y_0)
+bb u
+(x_0, y_0, f(x_0, y_0)).
+f
+(x_0, y_0)
+bb u = '\\x0027e8'u_1, u_2'\\x0027e9',
+bb u
+x
+y
+x = x_0+u_1 t\ "\and\ "\ y = y_0+u_2 t.
+dx/dt = u_1
+dy/dt = u_2
+t.
+bb u
+f
+bb u.
+[D_bb u f(x_0,y_0), "<mi//>"=f_x(x_0,y_0) dx/dt|_((x_0,y_0))+f_y(x_0,y_0) dy/dt|_((x_0,y_0))], [\ , "<mi//>"=f_x(x_0,y_0)u_1+f_y(x_0,y_0)u_2.]
+f = f(x, y)
+bb u = '\\x0027e8'u_1, u_2'\\x0027e9',
+D_bb u f(x, y)
+["(10.6.3)", D_bb u f(x,y)=f_x(x,y)u_1+f_y(x,y)u_2.]
+bb u = '\\x0027e8'u_1, u_2'\\x0027e9'
+f(x, y) = 3xy-x^2 y^3.
+f_x(x, y)
+f_y(x, y).
+D_bb i f(x, y)
+D_bb j f(x, y).
+D_bb i f?
+D_bb j f?
+bb i
+x
+bb j
+y
+f
+bb v = '\\x0027e8'2, 3'\\x0027e9'
+(1, -1).
+f = f(x, y),
+bb u = '\\x0027e8'u_1, u_2'\\x0027e9'
+["(10.6.4)", D_bb u f(x_0,y_0)=f_x(x_0,y_0)u_1+f_y(x_0,y_0)u_2.]
+bb v = '\\x0027e8'v_1, v_2'\\x0027e9'
+bb u = '\\x0027e8'u_1, u_2'\\x0027e9'
+bb v*bb u = v_1 u_1+v_2 u_2,
+D_bb u f(x_0, y_0)
+'\\x0027e8'f_x(x_0, y_0), f_y(x_0, y_0)'\\x0027e9'
+bb u.
+f
+f
+grad f(x_0, y_0) = '\\x0027e8'f_x(x_0, y_0), f_y(x_0, y_0)'\\x0027e9'.
+grad f
+f,
+f
+f
+grad f
+f = f(x, y)
+bb u = '\\x0027e8'u_1, u_2'\\x0027e9',
+D_bb u f(x, y)
+["(10.6.5)", D_bb u f(x,y)=grad f(x,y)*bb u.]
+f.
+f
+f(x, y) = x^2-y^2.
+f(x, y) = x^2-y^2.
+grad f(x, y).
+(x_0, y_0),
+grad f(x_0, y_0)
+(x_0, y_0).
+(x_0, y_0) = (2, 0)
+(x_0, y_0) = (0, 2)
+(x_0, y_0) = (2, 2)
+(x_0, y_0) = (2, 1)
+(x_0, y_0) = (-3, 2)
+(x_0, y_0) = (-2, -4)
+(x_0, y_0) = (0, 0)
+(x_0, y_0)
+f
+grad f(x_0, y_0)?
+grad f(x_0, y_0)
+f
+(x_0, y_0).
+theta
+grad f(x_0, y_0)
+bb u
+bb u
+D_bb u f(x_0, y_0) = grad f(x_0, y_0)*bb u = |grad f(x_0, y_0)||bb u|cos(theta).
+theta
+D_bb u f(x_0, y_0) = 0,
+cos(theta) = 0.
+f
+bb u
+f
+(x_0, y_0).
+grad f(x_0, y_0)
+(x_0, y_0).
+D_bb u f(x_0, y_0)
+theta.
+theta
+cos(theta) > 0
+D_bb u f(x_0, y_0) = |grad f(x_0, y_0)||bb u|cos(theta),
+D_bb u f(x_0, y_0) > 0,
+f
+theta
+theta
+cos(theta) < 0
+D_bb u f(x_0, y_0) < 0,
+f
+theta
+f
+bb u
+theta
+grad f(x_0, y_0)
+bb u.
+["(10.6.6)", D_bb u f(x_0,y_0)=|'\\x0027e8'f_x(x_0,y_0),f_y(x_0,y_0)'\\x0027e9'|cos(theta).]
+(x_0, y_0),
+theta
+bb u
+theta = 0
+|'\\x0027e8'f_x(x_0, y_0), f_y(x_0, y_0)'\\x0027e9'|cos(theta)
+theta = 0,
+bb u
+grad f(x_0, y_0)?
+f
+(x_0, y_0)?
+grad f(x_0, y_0),
+f
+(x_0, y_0)?
+bb u
+bb v
+grad f(x_0, y_0)
+f
+(x_0, y_0).
+grad f(x_0, y_0)
+(x_0, y_0)
+bb u
+bb u = 1/(|grad f(x_0,y_0)|) grad f(x_0, y_0),
+grad f(x_0, y_0) != '\\y01d7ce'
+f
+(x_0, y_0),
+D_bb u f(x_0, y_0)
+bb u = 1/(|grad f(x_0,y_0)|) grad f(x_0, y_0).
+D_bb u f(x_0, y_0) = grad f(x_0, y_0)*(1/(|grad f(x_0,y_0)|) grad f(x_0, y_0)).
+bb w*(cbb v) = c(bb w*bb v)
+c,
+bb w*bb w = |bb w|^2.
+D_bb u f(x_0, y_0) = 1/(|grad f(x_0,y_0)|) (grad f(x_0, y_0)*grad f(x_0, y_0)) = 1/(|grad f(x_0,y_0)|) |grad f(x_0, y_0)|^2.
+grad f(x_0, y_0)
+|grad f(x_0, y_0)|
+D_bb u f(x_0, y_0) = |grad f(x_0, y_0)|.
+f
+(x_0, y_0)
+grad f(x_0, y_0) != '\\y01d7ce'.
+grad f(x_0, y_0)
+f
+(x_0, y_0),
+f
+bb u = 1/(|grad f(x_0,y_0)|) grad f(x_0, y_0),
+bb u
+f
+(x_0, y_0),
+D_bb u f(x_0, y_0) = |grad f(x_0, y_0)|.
+f
+f(x, y) = -x+2xy-y.
+grad f(1, 2)
+grad f(1, 2).
+bb z = '\\x0027e8'-1/(sqrt(2)) , -1/(sqrt(2)) '\\x0027e9'
+(1, 2).
+D_bb z f(1, 2).
+f
+bb z?
+bb v = '\\x0027e8'2, -1'\\x0027e9'
+bb v
+(1, 2).
+bb w
+bb v.
+D_bb w f(1, 2),
+D_bb w f(1, 2).
+bb u
+D_bb u f(1, 2)
+D_bb u f(1, 2)
+bb u
+D_bb u f(1, 2) = 0
+(3, 3).
+f
+f
+T
+T(x, y) = 100/(1+(x-5)^2+4(y-2.5)^2) ,
+(x, y)
+T(x, y)
+grad T
+T(x, y)
+grad T.
+(2, 4),
+T(x, y)
+grad T
+f
+(x_0, y_0).
+grad f(x_0, y_0)?
+f
+g
+(x_0, y_0).
+grad g(x_0, y_0)?
+g
+(x_0, y_0),
+g
+(x_0, y_0)?
+f
+(x, y)
+bb u = '\\x0027e8'u_1, u_2'\\x0027e9'
+D_bb u f(x, y) = lim_(h->0) (f(x+u_1 h,y+u_2 h)-f(x,y))/h
+x
+y
+D_bb u f(x, y)
+f
+bb u.
+D_bb u f(x_0, y_0)
+f
+bb u
+(x_0, y_0).
+f = f(x, y)
+(x_0, y_0)
+grad f(x_0, y_0) = '\\x0027e8'f_x(x_0, y_0), f_y(x_0, y_0)'\\x0027e9'.
+bb u
+D_bb u f(x_0, y_0) = grad f(x_0, y_0)*bb u.
+f
+f
+|grad f(x_0, y_0)|.
+f(x, y, z) = xy+yz^2+xz^3.
+f:
+'\\x0027e8'
+'\\x0027e9'
+f
+'\\x0027e8'
+'\\x0027e9'
+f
+bb u = '\\x0027e8'-2//sqrt(38), -5//sqrt(38), -3//sqrt(38)'\\x0027e9'.
+f(x, y) = -4x^2+2y^2,
+(-3, -4)
+theta = (2 pi)/1.
+f(x, y, z) = 2xy+z^2
+(-2, 1, 2)
+f.
+f_(<B><I>u<//B><//I>)(-2, 1, 2) = D_(<B><I>u<//B><//I>)f(-2, 1, 2) =
+T(x, y) = 130/(x^2+y^2+1) .
+T?
+(3, 3).
+(3, 3)?
+(3, 3).
+(3, 3)?
+T(x, y, z) = 200e^(-x^2-y^2//4-z^2//9),
+T
+'\\x0027e8'
+'\\x0027e9'
+T
+f(x, y, z) = 3zy^2,
+(3, 6, 6)
+grad f(3, 6, 6) =
+(x, y, z)
+F(x, y, z) = 3x^2+4y^4+2x^2 z^2
+\ 3.
+(1, 1, -1).
+7
+z = 393-0.09x^2-0.03y^2,
+'\\x0027e8'
+'\\x0027e9'
+vec u
+f_(vec u)(a, b)
+vec u
+grad f(a, b),
+f_(vec u)(a, b) = '\\x0027e8'0, 0'\\x0027e9'.
+f_x(a, b)
+f_y(a, b)
+f
+(a, b)
+f(x, y)
+f_x(a, b) = 0
+f_y(a, b) = 0
+(a, b),
+f
+grad f(a, b)
+f_(vec u)(a, b) = '\\x002016'grad f(a, b)'\\x002016'.
+grad f(a, b)
+f
+(a, b).
+f_(vec u)(a, b)
+vec u.
+E(x, y) = 100/(1+(x-5)^2+4(y-2.5)^2)
+(x, y).
+E,
+x,
+y
+E_x(x, y)
+E_y(x, y).
+bb u
+'\\x0027e8'-4, 3'\\x0027e9'.
+D_bb u E(3, 4).
+D_bb u E(3, 4)
+E
+(3, 4).
+E
+(3, 4).
+(3, 4),
+bb w
+E
+f(x, y) = ye^(-xy)
+(0, 2).
+f
+grad f = '\\x0027e8'sin(yz), xzcos(yz)+2y, xycos(yz)+5/z'\\x0027e9'.
+f(x, y) = x^2+3y^2.
+grad f(x, y)
+grad f(1, 2).
+f
+(1, 2).
+f
+f
+f(x, y) = x^2+3y^2.
+bb w
+f
+bb w
+T(x, y, z) = 100e^(-x^2-y^2-z^2)
+(1, 2, -1).
+bb v = '\\x0027e8'0, 1, 2'\\x0027e9'
+(1, 2, -1).
+bb v.
+(1, 2, -1)
+(1, 2, -1).
+grad f
+f = f(x, y).
+grad f.
+f
+grad
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+f
+f(x, y) = 6- (x^2)/2-y^2,
+f(x, y) = 6-x^2//2-y^2.
+(x_0, y_0) = (1, 1).
+f(x, y) = 6-x^2//2-y^2.
+f(x, y) = 6-x^2//2-y^2.
+(x_0, y_0, z_0)
+z = z_0+a(x-x_0)+b(y-y_0),
+a
+b
+f(x, y) = 6- (x^2)/2-y^2,
+(x_0, y_0) = (1, 1).
+f(x, y) = 6- (x^2)/2-y^2
+(x_0, y_0);
+f(1, 1),
+f_x(1, 1),
+f_y(1, 1).
+z
+z
+f(x, y) = 6- (x^2)/2-y^2
+(x_0, y_0).
+f
+(x_0, y_0, z_0).
+z_0
+z = z_0+a(x-x_0)+b(y-y_0).
+f(x, y) = 6- (x^2)/2-y^2
+y = y_0 = 1
+x = x_0 = 1
+f(x, y)
+y = y_0 = 1
+x = x_0 = 1.
+y = 1
+x
+x_0 = 1.
+f(x, y)
+f,
+a
+z = z_0+a(x-x_0)+b(y-y_0)?
+f_x(x_0, y_0)
+z_x(x_0, y_0)?
+x = 1
+y_0 = 1.
+b
+z = z_0+a(x-x_0)+b(y-y_0).
+f_y(x_0, y_0)
+z_y(x_0, y_0)?
+z = z_0+a(x-x_0)+b(y-y_0)
+f(x, y) = 6-x^2//2-y^2
+(x_0, y_0) = (1, 1).
+f = f(x, y),
+x_0,
+f
+x_0
+x_0.
+f(x) = |x|,
+f
+(x_0, y_0)
+f
+(x_0, y_0).
+f_x(a, b)
+f_y(a, b)
+f
+(a, b),
+f
+(a, b).
+f
+f(x, y) = x^(1//3)y^(1//3).
+f_x(0, 0)
+f_y(0, 0)
+f
+(0, 0)
+f
+x
+y
+f_x
+f_y
+(x_0, y_0),
+f
+(x_0, y_0).
+z = f(x, y)
+(x_0, y_0),
+(x_0, y_0).
+f(x, y)
+f
+(x_0, y_0, f(x_0, y_0))
+["(10.4.1)", z=f(x_0,y_0)+f_x(x_0,y_0)(x-x_0)+f_y(x_0,y_0)(y-y_0).]
+f_x(x_0, y_0)
+f_y(x_0, y_0)
+f,
+z = f(x_0, y_0)+f_x(x_0, y_0)(x-x_0)+f_y(x_0, y_0)(y-y_0)
+f
+(x_0, y_0)
+f
+(x_0, y_0)
+z = f(x_0, y_0)+f_x(x_0, y_0)(x-x_0)+f_y(x_0, y_0)(y-y_0).
+z = 7-2(x-3)+4(y+1).
+f_x(3, -1) = -2
+f_y(3, -1) = 4;
+f_x(3, -1) = -2
+f
+x
+(3, -1).
+f_y(3, -1) = 4
+f
+y
+(3, -1).
+f(x, y) = 2+4x-3y
+(1, 2).
+f(x, y) = x^2 y
+(1, 2).
+x_0,
+f
+x_0
+f
+x_0,
+f(x).
+L
+L(x) = f(x_0)+f'(x_0)(x-x_0)
+f(x) ~~ L(x)
+x_0.
+L
+f.
+z = f(x, y)
+(x_0, y_0)
+f(x, y)
+(x_0, y_0).
+L,
+L(x, y) = f(x_0, y_0)+f_x(x_0, y_0)(x-x_0)+f_y(x_0, y_0)(y-y_0).
+f(x, y) ~~ L(x, y)
+(x_0, y_0).
+f(x, y).
+L(x, y)
+g
+g(x, y) = x/(x^2+y^2)
+(1, 2).
+g(0.8, 2.3).
+w(v, T),
+v'\\x002216'T
+-30
+-25
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+20
+5
+-46
+-40
+-34
+-28
+-22
+-16
+-11
+-5
+1
+7
+13
+10
+-53
+-47
+-41
+-35
+-28
+-22
+-16
+-10
+-4
+3
+9
+15
+-58
+-51
+-45
+-39
+-32
+-26
+-19
+-13
+-7
+0
+6
+20
+-61
+-55
+-48
+-42
+-35
+-29
+-22
+-15
+-9
+-2
+4
+25
+-64
+-58
+-51
+-44
+-37
+-31
+-24
+-17
+-11
+-4
+3
+30
+-67
+-60
+-53
+-46
+-39
+-33
+-26
+-19
+-12
+-5
+1
+35
+-69
+-62
+-55
+-48
+-41
+-34
+-27
+-21
+-14
+-7
+0
+40
+-71
+-64
+-57
+-50
+-43
+-36
+-29
+-22
+-15
+-8
+-1
+L(v, T)
+(20, -10).
+w(10, -10),
+w(20, -12),
+w(18, -12).
+f.
+f(x, y).
+L(x, y)
+(2, 1),
+f(2.2, 1),
+f(2, 0.8),
+f(2.2, 0.8).
+L(x, y)
+f(x, y)
+(x, y)
+(x_0, y_0).
+f
+(x_0, y_0)
+(x, y).
+df
+f(x, y).
+(x_0, y_0),
+f(x_0, y_0)
+f
+(x_0, y_0).
+'\\x0027e8'Delta x, Delta y'\\x0027e9'
+(x, y) = (x_0+Delta x, y_0+Delta y),
+Delta f,
+Delta f = f(x, y)-f(x_0, y_0).
+Delta f
+df,
+L(x, y)
+(x_0, y_0)
+(x, y).
+[Delta f~~df, "<mi//>"=L(x,y)-f(x_0,y_0)], [\ , "<mi//>"=[f(x_0,y_0)+f_x(x_0,y_0)(x-x_0)+f_y(x_0,y_0)(y-y_0)]-f(x_0,y_0)], [\ , "<mi//>"=f_x(x_0,y_0) Delta x+f_y(x_0,y_0) Delta y.]
+dx = Delta x
+dy = Delta y,
+["(10.4.2)", Delta f~~df=f_x(x_0,y_0)\ dx+f_y(x_0,y_0)\ dy.]
+["(10.4.3)", df= (del f)/(del x) \ dx+ (del f)/(del y) \ dy.]
+dx,
+dy,
+df
+x,
+y,
+f.
+y
+x,
+dy = y'\ dx = dy/dx\ dx.
+x = 20
+y = 10
+dx = Delta x = 0.2
+dy = Delta y = 0.4
+A(x, y) = xy,
+A(20, 10) = 200
+Delta A ~~ dA = A_x(20, 10)\ dx+A_y(20, 10)\ dy.
+A_x = y
+A_y = x,
+Delta A ~~ dA = 10\ dx+20\ dy = 10*0.2+20*0.4 = 10.
+h,
+h(3, 1) = 4.35,
+h_x(3, 1) = 0.27,
+h_y(3, 1) = -0.19.
+x
+y
+(0, 0).
+(3, 1).
+0.2
+dx = Delta x = 0.2
+dy = Delta y = 0.2.
+P = P(T, V) = 8.31T//V,
+P
+V
+T
+w(v, T),
+25
+-15\circ
+2\circ
+3
+f
+(x_0, y_0)
+f
+(x_0, y_0).
+z = f(x_0, y_0)+f_x(x_0, y_0)(x-x_0)+f_y(x_0, y_0)(y-y_0).
+L(x, y) = f(x_0, y_0)+f_x(x_0, y_0)(x-x_0)+f_y(x_0, y_0)(y-y_0),
+f
+(x_0, y_0)
+f(x, y);
+f(x, y) ~~ L(x, y)
+(x, y)
+(x_0, y_0).
+f
+(x_0, y_0)
+f_x
+f_y
+(x_0, y_0).
+df
+f = f(x, y)
+dx
+dy
+df = f_x(x_0, y_0)dx+f_y(x_0, y_0)dy.
+f
+x
+y.
+L(x, y)
+f(x, y) = sqrt(52-16x^2-9y^2)
+(0, -2).
+L(x, y) =
+z = e^(4x//17)ln(2y)
+(-2, 2, 0.8659).
+z = x^2-y^3
+(x, y) = (5, 4).
+z = -39+2x(x-5)-(3y^2)(y-4).
+z =
+f(x, y) = e^x sin(y)
+x = -1, \ y = 2.5
+f
+x = -1.1, \ -1, \ -0.9
+y = 2.4, \ 2.5, \ 2.6.
+f
+x =
+y = 2.4
+y = 2.5
+y = 2.6
+x = -1.01, \ -1, \ -0.99
+y = 2.49, \ 2.5, \ 2.51,
+x =
+y = 2.49
+y = 2.5
+y = 2.51
+f(x, y) = e^x sin(y)
+(-1, 2.5):
+f(x, y) ~~
+f_x(x, y) = e^x sin(y)
+f_y(x, y) = e^x cos(y):
+f(x, y) ~~
+z
+x
+y
+x
+y
+-0.1
+x
+-0.3
+y
+z?
+z =
+z = 8
+x = 2
+y = 8,
+z
+x = 1.7
+y = 8?
+z =
+w = x^4 sin(y^7 z^7)
+dw =
+dx+
+dy+
+dz
+U
+V
+T
+dU
+dU = 840dV+27.32dT.
+T(x, y)
+(x, y).
+T(2, 1) = 110,
+T_x(2, 1) = 12,
+T_y(2, 1) = -14,
+(2.04, 0.95).
+T(2.04, 0.95) ~~
+f
+f(x, y) = 2x^2+3y^3.
+f
+(1, 2).
+f
+(1.1, 2.05)
+(1.3, 2.2).
+f(1.1, 2.05)
+f(1.3, 2.2).
+f
+f(x, y) = x^(1//3)y^(1//3),
+f(x, y) = x^(1//3)y^(1//3).
+lim_(h->0) (f(0+h,0)-f(0,0))/h.
+f_x(0, 0)?
+f(x, y) = f(y, x),
+f_x(0, 0) = f_y(0, 0).
+f
+(0, 0).
+f
+(0, 0)
+f
+(0, 0)?
+x = y
+f
+f
+(0, 0)?
+f
+f(x, y) = (x^2)/(y^2+1)
+(0, 0)?
+g
+(-2, 5)
+z = -7+4(x+2)-3(y-5).
+g(-2, 5),
+g_x(-2, 5),
+g_y(-2, 5).
+g(-1.8, 4.7).
+dx = -0.34
+dy = 0.21,
+g
+dg.
+h
+(-2, 5),
+(-2, 5)
+3x+2y-4z = 9.
+h(-2, 5),
+h_x(-2, 5),
+h_y(-2, 5),
+h(-1.8, 4.7).
+L(x, y)
+f
+f(x, y) = cos(x)(2e^(2y)+e^(-2y))
+(x_0, y_0) = (0, 0).
+f(0.1, 0.2).
+f(0.1, 0.2).
+I,
+T
+H
+I = I(T, H),
+darr'\\x002216'
+->
+70
+75
+80
+85
+90
+106
+109
+112
+115
+92
+112
+115
+119
+123
+94
+118
+122
+127
+132
+96
+125
+130
+135
+141
+I_T(94, 75) = 3.75
+I_H(94, 75) = 0.9.
+I(93.1, 77)
+(94, 75).
+h(x, y, z) = e^(2x)(y+z^2)
+(x_0, y_0, z_0) = (0, 1, -2).
+h(-0.1, 0.9, -1.8).
+f
+x
+y
+f
+f(x, y) = cos(x)sin(2y).
+(a, b) = (pi/4, pi/3)
+a
+0.01
+0.1
+f
+(pi/4-0.01, pi/3+0.1).
+R_1,
+R_2,
+R_3,
+R
+1/R = 1/(R_1) +1/(R_2) +1/(R_3) .
+R_1 = 25 Omega,
+R_2 = 40 Omega,
+R_3 = 50 Omega.
+R.
+R_1,
+R_2,
+R_3
+0.5
+R.
+f = f(x, y)
+f_x
+f_y
+(x_0, y_0),
+f
+(x_0, y_0).
+f
+(x_0, y_0),
+f
+(x_0, y_0).
+g
+g(x, y) = sqrt(|xy|).
+g
+[-1, 1] xx[-1, 1].
+g
+(0, 0).
+g_x(0, 0)
+g_y(0, 0)
+g
+(0, 0),
+L
+g
+(0, 0)?
+f = f(x)
+x = x_0,
+f'(x_0) = lim_(h->0) (f(x_0+h)-f(x_0))/h
+f'(x_0)
+f
+x = x_0.
+f
+L(x) = f(x_0)+f'(x_0)(x-x_0)
+x
+x_0.
+f(x)
+L(x)
+x
+x_0.
+L(x)
+f(x)
+E(x) = L(x)-f(x) = f(x_0)+f'(x_0)(x-x_0)-f(x).
+x
+x_0,
+E(x)
+f(x_0)+f'(x_0)(0)-f(x_0) = 0,
+L(x)
+f(x)
+x
+x_0.
+g(x, y) = sqrt(|xy|)
+(0, 0),
+E(x, y) = L(x, y)-g(x, y)
+(0, 0)
+0
+(x, y)
+(0, 0).
+0
+(x, y)
+(x_0, y_0),
+(x_0, y_0).
+0
+f = f(x)
+x = x_0+h,
+|h|
+x
+x_0,
+f(x_0+h)
+L(x_0+h)
+(E(x_0+h))/h.
+f = f(x)
+0
+h
+0.
+0
+f = f(x, y)
+(x_0, y_0),
+x = x_0+h
+y = y_0+k,
+(x, y)
+(x_0, y_0)
+sqrt(h^2+k^2).
+f = f(x, y)
+(x_0, y_0)
+L = L(x, y) = f(x_0, y_0)+m(x-x_0)+n(y-y_0)
+(E(x_0+h,y_0+k))/(sqrt(h^2+k^2)) ,
+0
+(h, k) = (0, 0),
+E(x, y) = f(x, y)-L(x, y),
+h = x-x_0,
+k = y-y_0.
+f
+L
+f
+(x_0, y_0).
+g(x, y) = sqrt(|xy|)
+(0, 0)
+(0, 0)
+(0, 0).
+f = f(x, y)
+(x_0, y_0).
+L = L(x, y) = f(x_0, y_0)+m(x-x_0)+n(y-y_0)
+m = f_x(x_0, y_0)
+n = f_y(x_0, y_0).
+h = 0
+k = 0.
+f
+x
+y
+(x_0, y_0)
+lim_((x,y)->(x_0,y_0))f(x, y) = f(x_0, y_0)
+x = x_0+h
+y = y_0+k,
+lim_((h,k)->(0,0))f(x_0+h, y+k) = f(x_0, y_0).
+f
+(x_0, y_0),
+f
+(x_0, y_0).
+lim_((h,k)->(0,0))sqrt(h^2+k^2).
+(x_0, y_0, z_0)
+A(x-x_0)+B(y-y_0)+C(z-z_0) = 0.
+C != 0,
+C(z-z_0) = -A(x-x_0)-B(y-y_0)
+[z, "<mi//>"=z_0-A/C(x-x_0)-B/C(y-y_0)], [\ , "<mi//>"=z_0+a(x-x_0)+b(y-y_0)]
+a = -A//C
+b = -B//C,
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+x
+x
+(x, y)
+(0, 0),
+(1, 1),
+(1, -1)
+(0, 0),
+(0, 0)
+(1, 1)
+(1, 1)
+(1, -1)
+(1, -1)
+'\\x0027e8'x, y'\\x0027e9'
+'\\x0027e8'x, y'\\x0027e9'
+x
+y
+(1, 1)
+'\\x0027e8'1, 1'\\x0027e9'.
+bb v_1 = '\\x0027e8'x, y'\\x0027e9'
+(1, 1)
+(1, -1)?
+(1, 1)
+(1, -1)?
+A = (2, 3),
+B = (-3, 1),
+C = (4, -2).
+A
+B
+vec(AB)
+vec(AB),
+vec(BC),
+vec(AC).
+vec(AB),
+vec(BC),
+vec(AC)?
+'\\x0027e8'x, y'\\x0027e9'.
+'\\x0027e8'3, 4'\\x0027e9',
+(3, 4),
+'\\x0027e8'3, 4'\\x0027e9'
+Q(1, 1).
+R(4, 5)
+Q
+R,
+vec(QR).
+Q
+R,
+'\\x0027e8'3, 4'\\x0027e9'
+Q
+R.
+vec(QR) = '\\x0027e8'3, 4'\\x0027e9'.
+vec(QR)
+Q = (q_1, q_2)
+R = (r_1, r_2)
+vec(QR) = '\\x0027e8'r_1-q_1, r_2-q_2'\\x0027e9'.
+bb v = '\\x0027e8'3, 4'\\x0027e9',
+'\\x0027e8'3, 4'\\x0027e9',
+x
+y
+'\\x0027e8'\ , '\\x0027e9'
+(\ , )
+P,
+vec(OP)
+O
+P.
+P = (3, 4),
+vec(OP) = '\\x0027e8'3, 4'\\x0027e9'
+P
+vec(OP)
+P.
+vec(OP)
+P.
+bb v
+n
+RR^n,
+n
+bb v = '\\x0027e8'v_1, v_2, v_3, ..., v_n'\\x0027e9'.
+O
+A = (9, -6, -1.5),
+B = (0, 1, 3),
+C = (-2, 20, -4),
+vec(OA)
+vec(OB)
+vec(OC)
+vec(AB)
+vec(AC)
+vec(BC)
+bb u
+bb v,
+bb u
+bb v
+bb u = '\\x0027e8'u_1, u_2'\\x0027e9'
+bb v = '\\x0027e8'v_1, v_2'\\x0027e9'
+RR^2
+u_1 = v_1
+u_2 = v_2.
+bb u = '\\x0027e8'u_1, u_2, ..., u_n'\\x0027e9'
+bb v = '\\x0027e8'v_1, v_2, ..., v_n'\\x0027e9'
+RR^n
+u_i = v_i
+i.
+bb u = '\\x0027e8'2, 3'\\x0027e9',
+bb v = '\\x0027e8'-1, 4'\\x0027e9'.
+bb u+bb v?
+bb a+bb b
+bb a = '\\x0027e8'a_1, a_2'\\x0027e9'
+bb b = '\\x0027e8'b_1, b_2'\\x0027e9'
+RR^2
+bb a+bb b
+bb a = '\\x0027e8'a_1, a_2, a_3'\\x0027e9'
+bb b = '\\x0027e8'b_1, b_2, b_3'\\x0027e9'
+RR^3
+bb v = '\\x0027e8'-1, 4'\\x0027e9'
+1/2 bb v?
+bb a = '\\x0027e8'a_1, a_2'\\x0027e9'
+RR^2
+c
+bb a = '\\x0027e8'a_1, a_2, a_3'\\x0027e9'
+RR^3
+c?
+bb v-bb u,
+bb v
+-1
+bb u,
+bb v-bb u = bb v+(-1)bb u.
+bb i = '\\x0027e8'1, 0'\\x0027e9'
+bb j = '\\x0027e8'0, 1'\\x0027e9'.
+'\\x0027e8'a, b'\\x0027e9'
+RR^2
+'\\x0027e8'a, b'\\x0027e9' = a'\\x0027e8'1, 0'\\x0027e9'+b'\\x0027e8'0, 1'\\x0027e9' = abb i+bbb j,
+'\\x0027e8'2, -3'\\x0027e9' = 2bb i-3bb j.
+RR^3,
+bb i = '\\x0027e8'1, 0, 0'\\x0027e9',
+bb j = '\\x0027e8'0, 1, 0'\\x0027e9',
+bb k = '\\x0027e8'0, 0, 1'\\x0027e9',
+'\\x0027e8'a, b, c'\\x0027e9'
+RR^3
+'\\x0027e8'a, b, c'\\x0027e9' = a'\\x0027e8'1, 0, 0'\\x0027e9'+b'\\x0027e8'0, 1, 0'\\x0027e9'+c'\\x0027e8'0, 0, 1'\\x0027e9' = abb i+bbb j+cbb k.
+bb i,
+bb j,
+bb k
+1+2
+2+1.
+bb v
+bb u
+bb v = '\\x0027e8'v_1, v_2'\\x0027e9'
+bb u = '\\x0027e8'u_1, u_2'\\x0027e9'.
+v_1,
+v_2,
+u_1,
+u_2
+[bb v+bb u=(, "<mi//>"'\\x0027e8'v_1,v_2'\\x0027e9'+'\\x0027e8'u_1,u_2'\\x0027e9'], [=(, "<mi//>"'\\x0027e8'v_1+u_1,v_2+u_2'\\x0027e9'], [=(, "<mi//>"'\\x0027e8'u_1+v_1,u_2+v_2'\\x0027e9'], [=(, "<mi//>"'\\x0027e8'u_1,u_2'\\x0027e9'+'\\x0027e8'v_1,v_2'\\x0027e9'], [=(, bb u+bb v.]
+bb v,
+bb u,
+bb w
+RR^n
+a
+b
+bb v+bb u = bb u+bb v
+(bb v+bb u)+bb w = bb v+(bb u+bb w)
+'\\y01d7ce' = '\\x0027e8'0, 0, ..., 0'\\x0027e9'
+bb v+'\\y01d7ce' = bb v.
+'\\y01d7ce'
+(-1)bb v+bb v = '\\y01d7ce'.
+(-1)bb v = -bb v
+bb v.
+(a+b)bb v = abb v+bbb v
+a(bb v+bb u) = abb v+abb u
+(ab)bb v = a(bbb v)
+1bb v = bb v.
+RR^2;
+RR^n.
+bb u = '\\x0027e8'4, 6'\\x0027e9'
+bb v = '\\x0027e8'3, -2'\\x0027e9'.
+bb w = bb u+bb v = '\\x0027e8'7, 4'\\x0027e9',
+bb u+bb v
+bb u
+bb v.
+bb v
+bb u,
+bb u
+bb v.
+bb u+bb v
+bb u
+bb v,
+bb u,
+bb v,
+bb w = bb u+bb v.
+bb v = bb w-bb u,
+bb w-bb u,
+bb u
+bb w.
+bb v = '\\x0027e8'2, 3'\\x0027e9',
+2bb v = '\\x0027e8'4, 6'\\x0027e9'.
+bb v
+bb v
+-2bb v = '\\x0027e8'-4, -6'\\x0027e9',
+bb v.
+bb u
+bb v
+bb u+bb v,
+bb v-bb u,
+2bb u,
+-2bb u,
+-3bb v.
+0bb v?
+-3bb v,
+-2bb v,
+-1bb v,
+2bb v,
+3bb v.
+tbb v
+t
+bb u-3bb v,
+bb u-2bb v,
+bb u-bb v,
+bb u+bb v,
+bb u+2bb v.
+bb u+tbb v
+t
+bb v
+bb v
+|bb v|.
+vec(AB).
+bb v.
+A = (2, 3)
+B = (4, 7),
+|vec(AB)|.
+bb v = '\\x0027e8'v_1, v_2'\\x0027e9'
+RR^2
+v_1
+v_2
+|bb v|.
+bb v = '\\x0027e8'v_1, v_2, v_3'\\x0027e9'
+RR^3.
+|bb v|.
+bb u = '\\x0027e8'2, 3'\\x0027e9'
+bb v = '\\x0027e8'-1, 2'\\x0027e9'.
+|bb u|,
+|bb v|,
+|bb u+bb v|.
+|bb u+bb v| = |bb u|+|bb v|?
+|bb u+bb v| = |bb u|+|bb v|?
+bb u,
+bb v,
+bb u+bb v
+bb u = '\\x0027e8'2, 3'\\x0027e9',
+2bb u,
+3bb u,
+-2bb u,
+t
+|tbb u|
+|bb u|?
+bb i,
+bb j,
+bb i+"\bb j ",
+bb v
+bb u = '\\x0027e8'2, 3'\\x0027e9'.
+bb u = '\\x0027e8'u_1, u_2, ..., u_n'\\x0027e9'
+bb v = '\\x0027e8'v_1, v_2, ..., v_n'\\x0027e9'
+RR^n,
+bb u+bb v = '\\x0027e8'u_1+v_1, u_2+v_2, ..., u_n+v_n'\\x0027e9'.
+bb u = '\\x0027e8'u_1, u_2, ..., u_n'\\x0027e9'
+RR^n
+c
+cbb u
+cbb u = '\\x0027e8'cu_1, cu_2, ..., cu_n'\\x0027e9'.
+bb v = '\\x0027e8'v_1, v_2, ..., v_n'\\x0027e9'
+RR^n
+|bb v| = sqrt(v_1^2+v_2^2+cdots+v_n^2).
+bb u
+|bb u| = 1.
+bb v
+bb v/(|bb v|)
+bb v.
+(-6 vec i-7 vec j-8 vec k)-(3 vec i+3 vec j+7 vec k) =
+(-7 vec i+2 vec j+10 vec k)-2(-5 vec i-5 vec j+7 vec k) =
+bb a
+'\\x0027e8'-6, 9, 6'\\x0027e9'
+4.
+bb a =
+bb a=<-1, 0, 5 >
+bb b=<-5, 1, 4 > .
+sbb a+tbb b=<-12, 3, -3 > .
+s =
+t =
+vec v
+3 pi//4
+x
+vec v =
+vec i
+vec j
+vec w
+yz
+pi//6
+y
+vec v =
+vec i
+vec j
+vec k
+vec v
+'\\x002016'vec v'\\x002016' = 17
+vec j
+vec v
+8 vec j.
+28 vec i+33 vec j,
+40 vec i,
+bb a = '\\x0027e8'4, -5, 1'\\x0027e9'
+bb b = '\\x0027e8'5, 1, 3'\\x0027e9'.
+bb a+bb b
+bb a-bb b
+2bb a
+3bb a+4bb b
+|bb a|
+5 vec i+2 vec j-5 vec k:
+1.2 vec i+0.4 vec j-1.2 vec k:
+vec a = vec j+2 vec k,
+vec b = -vec i-vec j+3 vec k,
+vec z = 2 vec i+5 vec j.
+5 vec a+5 vec b =
+6 vec a+4 vec b-3 vec z =
+a
+vec v = 3a vec i-2 vec j
+vec w = a^2 vec i+2 vec j.
+a =
+P = (1, 3)
+Q = (5, 6).
+vec u =
+vec v =
+50
+45
+vec d =
+bb v = '\\x0027e8'1, -2'\\x0027e9',
+bb u = '\\x0027e8'0, 4'\\x0027e9',
+bb w = '\\x0027e8'-5, 7'\\x0027e9'.
+bb u-bb v.
+2bb v-3bb u.
+bb v+2bb u-7bb w.
+a
+b
+abb v+bbb u = bb w.
+a
+b.
+bb u = '\\x0027e8'2, 1'\\x0027e9'
+bb v = '\\x0027e8'1, 2'\\x0027e9'.
+2bb u,
+1/2 bb u,
+(-1)bb u,
+(-3)bb u
+bb u+bb v,
+bb u+2bb v,
+bb u+3bb v
+bb u-bb v,
+bb u-2bb v,
+bb u-3bb v
+bb u-bb v = bb u+(-1)bb v.
+bb u,
+bb v,
+bb u+bb v,
+bb u-bb v
+bb u,
+bb v,
+bb u-bb v.
+bb v,
+|bb v|.
+bb v = '\\x0027e8'3, 4'\\x0027e9'
+RR^2.
+|bb v|,
+bb u = 1/(|bb v|) bb v.
+bb u?
+bb v?
+bb w = 3bb i-3bb j
+RR^2.
+bb u
+bb w.
+bb v = '\\x0027e8'2, 3, 5'\\x0027e9'
+RR^3.
+|bb v|,
+bb u = 1/(|bb v|) bb v.
+bb u?
+bb v?
+bb v
+RR^3.
+bb v.
+bb u
+bb v
+O.
+bb u
+O
+bb v
+O
+bb u
+60\circ
+O
+bb v
+45\circ
+O.
+bb u
+bb v
+O
+u_1
+u_2
+bb u = u_1 bb i+u_2 bb j.
+bb u,
+|bb u|
+v_1
+v_2
+bb v = v_1 bb i+v_2 bb j.
+|bb v|
+bb u+bb v.
+bb w
+bb u
+bb v.
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb F
+bb F
+bb F
+(1, 1).
+(1, 1)
+(-2, 1)
+xy
+RR^2
+(a, b)
+(a, b).
+(a, b).
+2h
+(a, b).
+(a, b)
+2h
+bb r_("top")(t) = '\\x0027e8'a-t, b+h'\\x0027e9'
+-h <= t <= h.
+t
+[bb r_("bottom")(t), "<mi//>"='\\x0027e8'a+t,b-h'\\x0027e9'], [bb r_("right")(t), "<mi//>"='\\x0027e8'a+h,b+t'\\x0027e9'], [bb r_("left")(t), "<mi//>"='\\x0027e8'a-h,b-t'\\x0027e9']
+bb F = '\\x0027e8'F_1, F_2'\\x0027e9'
+F_1.
+F_2,
+int_("top")bb F*dbb r = int_(-h)^h'\\x0027e8'F_1, F_2'\\x0027e9'*'\\x0027e8'-1, 0'\\x0027e9'dt = int_(-h)^h-F_1(a-t, b+h)dt
+["Total Circulation"=, "<mi//>" int_("Square")bb F*dbb r], [=, "<mi//>" int_(-h)^h-F_1(a-t,b+h)dt+int_(-h)^h-F_2(a-h,b-t)dt], [\ , "<mi//>"+int_(-h)^h F_1(a+t,b-h)dt+int_(-h)^h F_2(a+h,b+t)dt]
+t_("top")^** ,
+(a-h, a+h)
+int_(-h)^h-F_1(a-t, b+h)dt = -2h(F_1(t_("top")^** , b+h))
+["Total Circulation"=, "<mi//>" int_("Square")bb F*dbb r], [=, "<mi//>" int_(-h)^h-F_1(a-t,b+h)dt+int_(-h)^h-F_2(a-h,b-t)dt], [\ , "<mi//>"+int_(-h)^h F_1(a+t,b-h)dt+int_(-h)^h F_2(a+h,b+t)dt], [=, "<mi//>"-2hF_1(t_("top")^** ,b+h)-2hF_2(a-h,t_("left")^** )], [\ , "<mi//>"+2hF_1(t_("bottom")^** ,b-h)+2hF_2(a+h,t_("right")^** )]
+t_("top")^** , t_("bottom")^**in(a-h, a+h)
+t_("left")^** , t_("right")^**in(b-h, b+h).
+[2h(F_2(a+h,b_("right")^** )-F_2(a-h,b_("left")^** ))], [\ -2h(F_1(a_("top")^** ,b+h)-F_1(a_("bottom")^** ,b-h))]
+2h
+(a, b)
+"Circulation Density" = lim_(h->0) ("Total Circulation")/("Area of Square") .
+(2h)^2 = 4h^2,
+lim_(h->0) (F_2(a+h,t_("right")^** )-F_2(a-h,t_("left")^** ))/(2h) - (F_1(t_("top")^** ,b+h)-F_1(t_("bottom")^** ,b-h))/(2h) .
+h -> 0,
+t_("top")^** , t_("bottom")^**
+a
+t_("left")^** , t_("right")^**
+b.
+"Circulation Density at the point\ "(a, b) = (del F_2)/(del x) (a, b)- (del F_1)/(del y) (a, b)
+bb F = '\\x0027e8'F_1, F_2'\\x0027e9'
+(a, b)
+"Circulation Density at the point\ "(a, b) = (del F_2)/(del x) (a, b)- (del F_1)/(del y) (a, b).
+(a, b)
+'\\x0027e8'-y, x'\\x0027e9'
+'\\x0027e8'x, y'\\x0027e9'
+'\\x0027e8'1-x, xy'\\x0027e9'
+xy
+xy
+(a, b)
+xy
+xy
+bb k
+z = c.
+bb i
+x = a.
+x
+z
+xz
+y = b
+-bb j.
+bb i, bb j vk
+bb i xx bb j = bb k\ bb i xx bb k = -bb j\ bb j xx bb k = bb i
+bb v
+bb u
+bb v
+bb u.
+bb v
+bb u
+bb v
+bb u.
+bb i,
+bb j,
+bb k
+'\\x0027e8'a, b, c'\\x0027e9'
+RR^3
+abb i+bbb j+cbb k.
+'\\x0027e8'a, b, c'\\x0027e9',
+bb i,
+bb j,
+bb k.
+bb i,
+bb j,
+bb k,
+(u, v, w)
+bb k
+(u, v, w)
+z = w.
+bb i
+bb j
+x = u
+y = v,
+xy
+xz
+yz
+RR^3
+bb i,
+bb j,
+bb k.
+bb F = '\\x0027e8'F_1, F_2, F_3'\\x0027e9'
+bb F
+"curl"(bb F) = ( (del F_3)/(del y) - (del F_2)/(del z) )bb i-( (del F_3)/(del x) - (del F_1)/(del z) )bb j+( (del F_2)/(del x) - (del F_1)/(del y) )bb k.
+grad = '\\x0027e8' (del)/(del x) , (del)/(del y) , (del)/(del z) '\\x0027e9'.
+bb F,
+"curl"(bb F) = grad xx bb F.
+(u, v, w),
+x = u.
+y = v
+z = w,
+bb F = '\\x0027e8'0, x, 0'\\x0027e9'.
+"curl"(bb F) = '\\x0027e8' (del)/(del y) (0)- (del)/(del z) (x), -( (del)/(del x) (0)- (del)/(del z) (0)), (del)/(del x) (x)- (del)/(del y) (0)'\\x0027e9'
+"curl"(bb F) = '\\x0027e8'0, 0, 1'\\x0027e9'.
+bb F
+z
+bb F
+z = c.
+bb k
+bb G = '\\x0027e8'x, y, z'\\x0027e9'.
+"curl"(bb G) = '\\x0027e8' (del)/(del y) (z)- (del)/(del z) (y), -( (del)/(del x) (z)- (del)/(del z) (x)), (del)/(del x) (y)- (del)/(del y) (x)'\\x0027e9'
+"curl"(bb G) = '\\x0027e8'0, 0, 0'\\x0027e9'.
+bb G
+bb G,
+'\\x0027e8'a, b, c'\\x0027e9',
+bb i,
+bb j,
+bb k.
+bb H = '\\x0027e8'x-y, y+2z, x^2'\\x0027e9'.
+["curl"(bb H)=, '\\x0027e8' (del)/(del y) (x^2)- (del)/(del z) (y+2z),-( (del)/(del x) (x^2)- (del)/(del z) (x-y)),<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>], [\ , <mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//> (del)/(del x) (y+2z)- (del)/(del y) (x-y)'\\x0027e9']
+"curl"(bb H) = '\\x0027e8'0, 2x, -1'\\x0027e9'.
+bb H
+bb F
+(1, 1, -2)
+(1, 1, -2).
+(1, 1, -2)
+(1, 1, -2).
+(1, 1, -2)
+z = -2,
+bb F
+z = -2.
+bb F
+z = -2
+y = 1,
+y = 1.
+bb F
+y = 1
+bb F
+x = 1,
+x = 1.
+bb F
+x = 1
+(1, 1, -2)
+bb F = '\\x0027e8'x-y, y+2z, x^2'\\x0027e9'.
+"curl"(bb F)
+(1, 1, -2)?
+"curl"(bb F)
+"curl"(bb F)
+bb F
+P,
+"curl"(bb F)(P),
+"curl"(bb F)(P)
+"curl"(bb F)(P)
+P
+"curl"(bb F)(P).
+"curl"(bb F)
+bb F
+bb F
+bb v
+P = (a, b, c)
+("curl"(bb F)(a, b, c))*bb v.
+"curl"(bb F)(a, b, c)
+bb v
+bb v
+bb F = '\\x0027e8'x, y, z'\\x0027e9'.
+"curl"(bb F)(0, 0, 0)
+bb F
+"curl"('\\x0027e8'x, y, z'\\x0027e9') = '\\y01d7ce'.
+'\\x0027e8'x, y, z'\\x0027e9'
+bb F = '\\x0027e8'-y, x, 0'\\x0027e9',
+bb F
+bb F
+'\\x0027e8'-y, x, 0'\\x0027e9'
+"curl"(bb F)
+"curl"(bb F)
+2cos(theta),
+theta
+bb k
+'\\x0027e8'F_1, F_2, F_3'\\x0027e9'
+"curl"('\\x0027e8'x-z, x^2+z, x+sin(y)'\\x0027e9')
+(1, 2, -1).
+x
+bb F = '\\x0027e8'F_1, F_2'\\x0027e9'
+"Circulation Density at the point\ "(a, b) = (del F_2)/(del x) (a, b)- (del F_1)/(del y) (a, b).
+(a, b)
+bb F.
+bb F = '\\x0027e8'F_1, F_2, F_2'\\x0027e9'
+bb F
+"curl"(bb F) = ( (del F_3)/(del y) - (del F_2)/(del z) )bb i-( (del F_3)/(del x) - (del F_1)/(del z) )bb j+( (del F_2)/(del x) - (del F_1)/(del y) )bb k.
+bb F,
+"curl"(bb F)(a, b, c)
+(a, b, c).
+"curl"(bb F)(a, b, c)
+bb v
+("curl"(bb F)(a, b, c))*bb v
+vec F = 3z vec i+y vec j+4x vec k.
+vec F = '\\x0027e8'x^5, y^2, z^2'\\x0027e9'.
+"curl"(vec F(x, y, z))
+(-4, -5, -5)?
+"curl"(vec F(-4, -5, -5))
+F(x, y, z) = (7yz, 7xz, 2xy).
+F.
+div(F) = grad*F =
+"curl"(F) = grad xx F = (
+).
+F(x, y, z) = (7x^2, -9(x+y)^2, (x+y+z)^2).
+F.
+div(F) = grad*F =
+"curl"(F) = grad xx F = (
+).
+vec F = (-x-y) vec i+(-x) vec j
+xy
+x
+y
+vec F.
+"curl" vec F =
+xy
+z
+z.
+vec F = 2yz vec i+(2xz+z^2) vec j+(2xy+2yz) vec k:
+"curl\ " vec F =
+vec F
+vec G = (2xy+yz) vec i+(5x^2+z^2) vec j+5xz vec k:
+"curl\ " vec G =
+vec G
+vec H = (4xy+5x^3) vec i+(2x^2+z^2) vec j+(2yz-5z) vec k:
+"curl\ " vec H =
+vec H
+bb F = (4xy, 6y, 4z).
+bb F = (
+).
+f
+bb F = grad f?
+S_1, S_2,
+S_3,
+(1, 6, 4),
+xy
+yz
+xz
+z
+x
+y
+vec G
+S_1
+1.25,
+S_2
+-0.0125,
+S_3
+-0.75.
+vec G
+(1, 6, 4)
+"curl\ " vec G ~~
+x
+y
+x
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+RR^2?
+RR^3?
+bb r_0
+bb v,
+bb r(t) = bb r_0+tbb v.
+bb r(t)
+t,
+n
+n.
+RR^2,
+'\\x0027e8'cos(0), sin(0)'\\x0027e9',
+'\\x0027e8'cos(pi/2), sin(pi/2)'\\x0027e9',
+'\\x0027e8'cos(pi), sin(pi)'\\x0027e9',
+'\\x0027e8'cos( (3 pi)/2), sin( (3 pi)/2)'\\x0027e9'
+'\\x0027e8'cos(pi/4), sin(pi/4)'\\x0027e9',
+'\\x0027e8'cos( (3 pi)/4), sin( (3 pi)/4)'\\x0027e9',
+'\\x0027e8'cos( (5 pi)/4), sin( (5 pi)/4)'\\x0027e9',
+'\\x0027e8'cos( (7 pi)/4), sin( (7 pi)/4)'\\x0027e9'
+'\\x0027e8'cos(t), sin(t)'\\x0027e9',
+t
+2 pi.
+'\\x0027e8'cos(t), sin(t)'\\x0027e9',
+t
+pi.
+t
+4 pi?
+t,
+bb r
+t
+t.
+bb r
+x,
+y,
+z
+t,
+x = x(t), \ y = y(t), \ "\and\ "\ z = z(t),
+t
+x = x(t),
+y = y(t),
+z = z(t)
+bb r
+bb r(t) = '\\x0027e8'x(t), y(t), z(t)'\\x0027e9'.
+bb r
+t
+'\\x0027e8'x(t), y(t), z(t)'\\x0027e9'.
+t
+t.
+x = x(t), \ y = y(t), \ "\and\ "\ z = z(t)
+(x, y, z)
+RR^3.
+bb r(t) = '\\x0027e8'x(t), y(t), z(t)'\\x0027e9',
+RR^2,
+RR^4,
+x(t) = cos(t), \ y(t) = sin(t), \ "\and\ "\ z(t) = cos(t)sin(t).
+bb r,
+bb r(t) = '\\x0027e8'cos(t), sin(t), cos(t)sin(t)'\\x0027e9'.
+t
+0
+2 pi.
+bb r(t) = '\\x0027e8'sin(t), cos(t)'\\x0027e9'
+bb r(t) = '\\x0027e8'sin(2t), cos(2t)'\\x0027e9'
+bb r(t) = '\\x0027e8'cos(t+pi), sin(t+pi)'\\x0027e9'
+bb r(t) = '\\x0027e8'cos(t^2), sin(t^2)'\\x0027e9'
+t
+y
+x.
+y = f(x)
+x,
+f
+bb r(t) = '\\x0027e8't, f(t)'\\x0027e9',
+y
+x
+x
+y
+y = f(x)
+bb r(t) = '\\x0027e8't, f(t)'\\x0027e9'.
+f^(-1)
+'\\x0027e8'f(t), t'\\x0027e9'.
+bb r(t) = '\\x0027e8'tcos(t), tsin(t)'\\x0027e9'
+bb r(t) = '\\x0027e8'sin(t)cos(t), tsin(t)'\\x0027e9'
+bb r(t) = '\\x0027e8'sin(5t), sin(4t)'\\x0027e9'
+bb r(t) = '\\x0027e8't^2 sin(t)cos(t), 0.9tcos(t^2), sin(t)'\\x0027e9'
+x(t)
+y(t)
+t
+z = f(x, y) = cos(x^2+y^2),
+y = 1
+y = 1
+x
+t;
+'\\x0027e8't, 1, cos(t^2+1)'\\x0027e9'.
+f(x, y) = x^2+y^2.
+x = 2
+f.
+y = -1
+f.
+f(x, y) = 25.
+g
+g(x, y) = x^2-y^2?
+sec^2(t)-tan^2(t) = 1.
+t
+t.
+RR^2,
+x = x(t)
+y = y(t)
+(x, y)
+t.
+RR^3,
+x = x(t),
+y = y(t),
+z = z(t)
+(x, y, z)
+t.
+bb r(t) = '\\x0027e8'ln(16t), sqrt(t+4), 1/(sqrt(9-t)) '\\x0027e9'
+8
+(8, 0)
+t = 0.
+t
+x(t) =
+y(t) =
+8
+(8, 0)
+t = 0
+(0, -8)
+t = 1.
+vec r(t) =
+vec r(t)
+P = (-5, 4, -1)
+Q = (-6, -1, 1)
+t.
+vec r(0) = '\\x0027e8'-5, 4, -1'\\x0027e9'
+vec r(2) = '\\x0027e8'-6, -1, 1'\\x0027e9',
+vec r(t) =
+vec r(5) = P
+vec r(7) = Q,
+vec r(t) =
+P
+Q
+t = 0
+t = -2,
+vec r(t) =
+(0, 0)
+(8, -7)
+[x, =, a+bt], [y, =, c+dt]
+(0, 0)
+t = 0
+(8, -7)
+t = 1,
+a,
+b,
+c,
+d.
+a =
+b =
+c =
+d =
+x = -4z^2
+t
+x(t) =
+y(t) =
+z(t) =
+(3, 0, 8)
+(0, -2, 8)
+(0, 0, 8)
+z = 8.
+0 <= t <= pi//2.
+x(t) =
+y(t) =
+z(t) =
+y = ln(x)
+x > 0
+x = e^t, y = t
+-oo < t < oo.
+x = (3t+4)^2, y = 5(3t+4)^2-9,
+0 <= t <= 3
+x = 7, y = 5t, z = 6+t
+z = 7x^2+2y^2
+y = 4x^2.
+bb r(t) = '\\x0027e8't,
+'\\x0027e9'
+x = 21 theta-13sin(theta)
+y = 21-13cos(theta)
+'\\x0027e8'cos(t), sin(t)'\\x0027e9',
+0 <= t <= 2 pi.
+bb r
+t = 0
+( (sqrt(2))/2, (sqrt(2))/2)
+t
+bb r
+t = 0
+( (sqrt(2))/2, (sqrt(2))/2)
+t
+bb r
+t = 0
+(- (sqrt(2))/2, (sqrt(2))/2)
+t
+bb r
+t = 0
+(0, 1)
+[0, pi].
+a
+b
+((x-h)^2)/(a^2) + ((y-k)^2)/(b^2) = 1
+(h, k),
+2a
+2b.
+bb r
+bb r(t) = '\\x0027e8'acos(t), bsin(t)'\\x0027e9',
+0 <= t <= 2 pi
+(x^2)/(a^2) + (y^2)/(b^2) = 1.
+(x^2)/4+ (y^2)/16 = 1
+((x+3)^2)/4+ ((y-2)^2)/9 = 1.
+x
+y
+bb r(t) = '\\x0027e8'3+4sin(2t), 1+3cos(2t)'\\x0027e9'.
+z = f(x, y) = 3x^2+4y^2-2.
+bb r
+x = 2
+z = f(x, y).
+x = -2, -1, 0,
+1.
+bb r
+y = 2
+z = f(x, y).
+y = -2, -1, 0,
+1.
+bb r
+z = 2
+z = f(x, y).
+z = -2, -1, 0,
+1.
+z = f(x, y).
+bb r
+(-2, 1, 4)
+bb v = '\\x0027e8'3, 2, -5'\\x0027e9'.
+bb r
+x+2y-z = 4
+3x+y-2z = 1.
+x = 2+3t, \ y = 1-2t, \ z = 4t,
+x = 3+1s, \ y = 3-2s, \ z = 2s.
+bb r
+s
+t
+[0, 2 pi].
+bb r(t) = '\\x0027e8'cos(t), sin(t)+s'\\x0027e9'
+bb r(t) = '\\x0027e8'cos(t)-s, sin(t)'\\x0027e9'
+bb r(t) = '\\x0027e8'scos(t), sin(t)'\\x0027e9'
+bb r(t) = '\\x0027e8'scos(t), ssin(t)'\\x0027e9'
+bb r(t) = '\\x0027e8'cos(st), sin(st)'\\x0027e9'
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb F
+int_C bb F*dbb r
+P
+Q?
+bb F,
+f
+bb F = grad f?
+C_1
+C_2
+P
+Q
+int_(C_1)bb F*dbb r = int_(C_2)bb F*dbb r.
+P
+Q,
+C_1
+C_2
+P
+Q,
+int_(C_1)bb F*dbb r = int_(C_2)bb F*dbb r.
+bb F(x, y) = '\\x0027e8'y^2, 2xy+3'\\x0027e9'
+(-2, 5)
+(3, 30).
+bb F
+bb F(x, y) = '\\x0027e8'y^2, 2xy+3'\\x0027e9'
+bb F = grad f
+f(x, y) = xy^2+3y.
+f
+C_1
+C_2.
+f
+int_(C_1)bb F*dbb r
+C_3
+(1, 1)
+(3, 4).
+int_(C_3)bb F*dbb r
+f(3, 4)-f(1, 1).
+bb F
+D
+int_(C_1)bb F*dbb r = int_(C_2)bb F*dbb r
+C_1
+C_2
+D
+P
+Q.
+f:RR^3 -> RR
+grad f
+D.
+P
+Q
+D
+C
+P
+Q
+D.
+int_C grad f*dbb r
+bb r(t)
+C,
+a <= t <= b.
+x,
+y,
+z
+t,
+C,
+f
+grad f(bb r(t)) = '\\x0027e8'f_x(bb r(t)), f_y(bb r(t)), f_z(bb r(t))'\\x0027e9'.
+bb F = grad f
+C
+[int_C grad f*dbb r, "<mi//>"=int_a^b grad f(bb r(t))*bb r'(t)dt], [\ , "<mi//>"=int_a^b'\\x0027e8'f_x(bb r(t)),f_y(bb r(t)),f_z(bb r(t))'\\x0027e9'*bb r'(t)dt]
+bb r(t) = '\\x0027e8'x(t), y(t), z(t)'\\x0027e9',
+[\ , "<mi//>"='\\x0027e8'f_x(bb r(t)),f_y(bb r(t)),f_z(bb r(t))'\\x0027e9'*'\\x0027e8'x'(t),y'(t),z'(t)'\\x0027e9'], [\ , "<mi//>"=f_x(x(t),y(t),z(t))x'(t)+f_y(x(t),y(t),z(t))y'(t)], [\ , "<mi//>"=+f_z(x(t),y(t),z(t))z'(t).]
+grad f* (dbb r)/dt = (del f)/(del x) dx/dt+ (del f)/(del y) dy/dt+ (del f)/(del z) dz/dt = d/dt(f(bb r(t))).
+d/dt f(bb r(t))
+int_C grad f*dbb r = int_a^b d/dt f(bb r(t))dt = f(bb r(b))-f(bb r(a)) = f(Q)-f(P).
+C
+C
+int_a^b(df)/dx(x)dx = f(b)-f(a).
+f
+grad f
+D.
+P
+Q
+D
+C
+P
+Q
+D,
+int_C grad f*dbb r = f(Q)-f(P).
+bb F = '\\x0027e8'2xy-2, x^2+3e^y'\\x0027e9'
+(2, 0)
+(4, -2)
+(x-2)^2 = -y//2.
+f(x, y)
+grad f = '\\x0027e8'2xy-2, x^2+3e^y'\\x0027e9'.
+f
+f(x, y) = x^2 y-2x-3e^y+k,
+k
+f(4, -2)-f(2, 0) = (-32-8+3e^(-2)+k)-(0-4-3+k) = 3e^(-2)-41,
+k.
+int_C bb F*dbb r = f(4, -2)-f(2, 0) = 3e^(-2)-41
+(2, 0)
+(4, -2),
+3e^(-2)-41.
+C_1
+(1, -1)
+(-1, 4)
+f(-1, 4)-f(1, -1).
+C_1,
+[int_(C_1)bb F*dbb r, "<mi//>"=f(-1,4)-f(1,-1)], [\ , "<mi//>"=(4-(-2)+3e^4)-(-1-2+3e^(-1))], [\ , "<mi//>"=9+3(e^4+e^(-1)).]
+int_C grad f*dbb r
+f(x, y) = 3xy^2-sin(x)+e^y
+C
+(-1, 0)
+(1, 0).
+int_C grad g*dbb r
+g(x, y, z) = xz^2-5y^3 cos(z)+6
+C
+bb r(t) = '\\x0027e8'5cos(t), 5sin(t), 3t'\\x0027e9'
+(5, 0, 0)
+(0, 5, 9 pi//2).
+int_C grad h*dbb r
+h(x, y, z) = 3y^2 e^(y^3)-5xsin(x^3 z)+z^2
+C
+(0, 0, 0)
+(1, 1, 1),
+(1, 1, 1)
+(-1, 3, -2),
+(-1, 3, -2)
+(0, 0, 10).
+RR^2
+del F_1//del y != del F_2//del x.
+RR^3
+bb G(x, y, z) = '\\x0027e8'3e^(y^2)+zsin(x), 6xye^(y^2)-z, 3z^2-y-cos(x)'\\x0027e9'
+bb H(x, y, z) = '\\x0027e8'3x^2 y, x^3+2yz^3, xz+3y^2 z^2'\\x0027e9'.
+bb G
+bb H
+g
+h
+bb G = grad g
+bb H = grad h.
+g
+h
+g_y,
+g_z,
+h_x,
+h_y,
+h_z
+g_1(x, y, z) = 3xe^(y^2)+xyz-zsin(x).
+del g_1//del x.
+g_1
+bb G?
+g
+del g//del x = 3e^(y^2)+zsin(x).
+h
+del h//del x = 3x^2 y.
+C
+0
+x
+x,
+y,
+z,
+0
+g
+h
+x?
+del g//del y
+del h//del y
+g(x, y, z) = 3xe^(y^2)-zcos(x)-yz+m_1(z)
+h(x, y, z) = x^3 y+y^2 z^3+m_2(z)
+m_1
+m_2
+z.
+(del g)/(del z)
+(del h)/(del z)
+m_1
+m_2
+z
+z
+m_1^' (z)
+m_2^' (z).
+bb G
+bb H
+bb G.
+int_C bb F*dbb r
+bb F(x, y) = '\\x0027e8'2x, 2y'\\x0027e9'
+C
+(1, 2)
+(-1, 0).
+f(x, y)
+grad f = bb F.
+int_C bb G*dbb r
+bb G(x, y) = '\\x0027e8'4x^3-12ycos(xy), 9y^2-12xcos(xy)'\\x0027e9'
+C
+(0, -1)
+(0, 1).
+int_C bb H*dbb r
+bb H(x, y, z) = '\\x0027e8'H_1, H_2, H_3'\\x0027e9'
+[H_1(x,y,z), "<mi//>"=e^(z^2)+2xy^3 z+cos(x)-y^3 sin(x)], [H_2(x,y,z), "<mi//>"=2ye^(y^2)+3x^2 y^2 z+3y^2 z^2+3y^2 cos(x)], [H_3(x,y,z), "<mi//>"=x^2 y^3+2xze^(z^2)+2y^3 z-4z^3]
+C
+(1, 1, 1)
+(3, 0, 3),
+(3, 0, 3)
+(1, 5, -1),
+(1, 5, -1)
+(0, 0, 0).
+C
+(1, 1),
+(-1, 1),
+(-1, -1),
+(1, -1),
+oint
+C = C_1+C_2,
+int_C bb F*dbb r = int_(C_1)bb F*dbb r+int_(C_2)bb F*dbb r.
+bb F
+RR^2
+RR^3
+D.
+P
+Q
+D
+C_1
+C_2
+P
+Q.
+int_(C_1)bb F*dbb r
+int_(C_2)bb F*dbb r?
+C = C_1-C_2.
+C
+oint_C bb F*dbb r.
+bb F
+bb G
+D
+oint_C bb G*dbb r = 0
+C.
+P
+Q
+D.
+C_1
+C_2
+P
+Q.
+C = C_1-C_2?
+oint_C bb G*dbb r?
+int_(C_1)bb G*dbb r
+int_(C_2)bb G*dbb r?
+bb G
+bb F
+D.
+C
+D.
+bb F
+C,
+oint_C bb F*dbb r,
+bb F
+bb F
+bb G
+c
+f,
+A(x)
+A(c) = 0
+(dA)/dx(x) = f(x).
+A(x) = int_c^x f(t)dt
+D
+RR^2
+RR^3,
+D
+D,
+RR^2
+RR^3
+D.
+(x, y)
+RR^2
+x^2+y^2 < 1
+P
+x^2+y^2 <= 1,
+x^2+y^2 = 1
+x^2+y^2 > 1
+Q
+D
+D,
+D.
+{(x, y)|x^2+y^2 < 1}
+Q
+{(x, y)|x^2+y^2 <= 1}
+bb F = '\\x0027e8'F_1, F_2'\\x0027e9'
+D.
+D
+RR^2
+bb F
+RR^3.
+f
+D
+bb F
+f(x_0, y_0)
+f(x_0, y_0) = 0
+f(x_0, y_0)
+(x, y)
+D,
+f(x, y) = f(x_0, y_0)+int_C bb F*dbb r,
+C
+(x_0, y_0)
+(x, y).
+D
+bb F
+f
+(x_0, y_0)
+(x, y)
+f(x, y)
+f
+D
+(x, y)
+D,
+(a, b)
+D
+C_1
+(x_0, y_0)
+(a, b).
+C_y
+(a, b)
+(a, y)
+C_x
+(a, y)
+(x, y).
+f(x, y)
+f(x_0, y_0)
+C_1,
+C_y,
+C_x.
+(x_0, y_0)
+(x, y).
+C_y
+'\\x0027e8'a, t'\\x0027e9'
+b <= t <= y.
+C_x.
+int_(C_y)bb F*dbb r
+int_(C_x)bb F*dbb r
+bb F(x, y) = '\\x0027e8'F_1(x, y), F_2(x, y)'\\x0027e9'
+F_1
+F_2
+f(x, y)
+C_1
+f(x, y)
+x
+f_x(x, y).
+f_y(x, y),
+C_1
+(x_0, y_0)
+(a, b),
+L_x
+(a, b)
+(x, b)
+L_y
+(x, b)
+(y, b).
+f_x(x, y)
+f_y(x, y).
+grad f
+bb F?
+bb F
+bb F
+D,
+bb F
+D.
+P
+D
+f(P)
+Q
+D
+C
+P
+Q
+D,
+f(Q) = f(P)+int_C bb F*dbb r
+bb F.
+C
+(x_1, y_1)
+(x_2, y_2),
+int_C grad f*dbb r = f(x_2, y_2)-f(x_1, y_1)
+f
+0.
+bb F
+f
+grad f = bb F.
+bb F
+grad f = -10xe^(-x^2)sin(5y) vec i+25e^(-x^2)cos(5y) vec j.
+f
+(0, 0)
+(1, pi//2)
+int_C grad f*d vec r,
+C
+(0, 0)
+(1, pi//2).
+0 <= t <= 1,
+vec r(t) =
+vec i+
+vec j
+int_C grad f*d vec r = int_0^1
+dt
+int_C grad f*d vec r
+int_(C_1) grad f*d vec r+int_(C_2) grad f*d vec r,
+C_1
+(0, 0)
+(1, 0)
+C_2
+(1, 0)
+(1, pi//2).
+f.
+int_(C_1) grad f*d vec r =
+int_(C_2) grad f*d vec r =
+f = int_C grad f*vec r = int_(C_1) grad f*d vec r+int_(C_2) grad f*d vec r =
+f.
+f(x, y) =
+f(0, 0) =
+f(1, pi//2) =
+f
+bb F(x, y, z) = (4z+2y)bb i+(5z+2x)bb j+(5y+4x)bb k.
+f
+bb F = grad f
+f(0, 0, 0) = 0.
+f(x, y, z) =
+(0, 0, 0)
+(1, 1, 1).
+int_C bb F*dbb r.
+bb F = '\\x0027e8'yz, xz, y'\\x0027e9'
+bb r(t) = '\\x0027e8'3sin(t), 3cos(t), 4/pi t'\\x0027e9'
+-pi <= t <= pi.
+bb F = '\\x0027e8'sin(yz), xzcos(yz)-zsin(y), xycos(yz)+cos(y)'\\x0027e9'
+(0, pi, 3)
+(2, -1, 2 pi).
+int_C y^2 dx+2xydy
+C
+y = x^2
+(-1, 1)
+(4, 16).
+bb F = '\\x0027e8'F_1, F_2, F_3'\\x0027e9',
+F_1 = 3xy^2+z
+F_3 = yz^2+cos(z).
+F_2
+bb F
+F_2
+bb F
+int_C ye^z dx+xe^z dy+xye^z dz
+C
+'\\x0027e8't^2, t^3, t-1'\\x0027e9'
+1 <= t <= 2.
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+f(x, y)
+f(x, y)
+f(x, y)
+f,
+f
+f'
+y = f(x).
+z = f(x, y)
+(x_0, y_0),
+f
+f(x_0, y_0)
+f(x, y)
+(x, y)
+(x_0, y_0).
+f
+y = y_0
+f(x, y_0)
+x_0.
+f_x(x_0, y_0)?
+x = x_0
+y = y_0.
+f_y(x_0, y_0)?
+grad f(x_0, y_0)
+f
+grad f(x_0, y_0)?
+z = f(x, y)
+(x_0, y_0, f(x_0, y_0))?
+f(x, y) = 2x-x^2-(y+2)^2
+f
+x
+y.
+f
+(x_0, y_0)
+f(x, y) <= f(x_0, y_0)
+(x, y)
+(x_0, y_0).
+f(x_0, y_0)
+f
+(x_0, y_0)
+f(x, y) >= f(x_0, y_0)
+(x, y)
+(x_0, y_0).
+f(x_0, y_0)
+(x_0, y_0)
+f(x, y) <= f(x_0, y_0)
+(x, y)
+f.
+f
+f.
+f(x, y) >= f(x_0, y_0)
+(x, y)
+f.
+f
+f.
+(x_0, y_0)
+f
+f(x_0, y_0)
+(x_0, y_0) = (0, 0).
+f
+x
+f
+f'(x) = 0.
+f
+(x_0, y_0).
+f(x, y_0)
+x_0,
+x_0
+f(x, y_0).
+f_x(x_0, y_0)
+f_x(x_0, y_0) = 0.
+f_y(x_0, y_0)
+f_y(x_0, y_0) = 0.
+(x_0, y_0)
+f = f(x, y)
+f
+f_x(x_0, y_0) = 0
+f_y(x_0, y_0) = 0,
+f_x(x_0, y_0)
+f_y(x_0, y_0)
+f
+(x, y)
+[f_x(x,y), "<mi//>"=0], [f_y(x,y), "<mi//>"=0.]
+f(x, y) = 2+x^2+y^2
+f(x, y) = 2+x^2-y^2
+f(x, y) = 2x-x^2-1/4 y^2
+f(x, y) = |x|+|y|
+f(x, y) = 2xy-4x+2y-3.
+f
+f(x) = x^3
+x_0 = 0
+f'(x_0) = 0,
+x_0 = 0
+f.
+f
+f(x, y) = x^2-y^2
+grad f = '\\x0027e8'2x, -2y'\\x0027e9',
+(x_0, y_0) = (0, 0)
+y = 0,
+x = 0.
+x_0
+f
+f'(x_0) = 0
+f''(x_0)
+f''(x_0) < 0,
+x_0
+f''(x_0) > 0,
+x_0
+f''(x_0) = 0,
+f_1(x, y) = 4-x^2-y^2, \ f_2(x, y) = x^2+y^2, \ f_3(x, y) = x^2-y^2.
+(0, 0).
+z = 4-x^2-y^2
+z = x^2+y^2
+z = x^2-y^2
+D = f_(xx)f_(yy)-f_(xy)^2.
+D
+f_1,
+f_2,
+f_3.
+D
+D > 0.
+D > 0
+f_(xx)(0, 0).
+f_(xx)(0, 0)
+f
+f
+f_(yy)(0, 0)
+(x_0, y_0)
+f
+f_x(x_0, y_0) = 0
+f_y(x_0, y_0) = 0.
+D
+D = f_(xx)(x_0, y_0)f_(yy)(x_0, y_0)-f_(xy)(x_0,y_0)^2.
+D > 0
+f_(xx)(x_0, y_0) < 0,
+f
+(x_0, y_0).
+D > 0
+f_(xx)(x_0, y_0) > 0,
+f
+(x_0, y_0).
+D < 0,
+f
+(x_0, y_0).
+D = 0,
+(x_0, y_0).
+D
+f
+(x_0, y_0).
+f(x, y) = 3x^3+y^2-9x+4y
+f(x, y) = xy+2/x+4/y
+f(x, y) = x^3+y^3-3xy.
+p_1
+p_2.
+q_1
+q_2,
+["(10.7.1)", q_1, "<mi//>"=150-2p_1-p_2], ["(10.7.2)", q_2, "<mi//>"=200-p_1-3p_2.]
+p_1
+p_2
+R
+q_1
+p_1
+q_2
+p_2
+R = p_1 q_1+p_2 q_2.
+p_1
+p_2
+[R(p_1,p_2), "<mi//>"=p_1(150-2p_1-p_2)+p_2(200-p_1-3p_2)], [\ , "<mi//>"=150p_1+200p_2-2p_1 p_2-2p_1^2-3p_2^2.]
+R
+p_1
+p_2
+R.
+p_1
+p_2
+[a, b]
+x^2+y^2 <= 1
+x^2+y^2 < 1
+f = f(x, y)
+R.
+f
+R.
+R
+R.
+T
+x^2+y^2 <= 1
+T(x, y) = 2x^2+y^2-y.
+R = {(x, y):x^2+y^2 <= 1}
+T
+T
+R
+T(x, y) = 2x^2+y^2-y
+T_x = 4x = 0
+T_y = 2y-1 = 0.
+(x_0, y_0) = (0, 1//2),
+x(t) = cos(t), \ y(t) = sin(t),
+0 <= t <= 2 pi.
+T(x(t), y(t)) = 2cos^2(t)+sin^2(t)-sin(t).
+0 <= t <= 2 pi.
+[ (dT)/dt, "<mi//>"=-4cos(t)sin(t)+2cos(t)sin(t)-cos(t)], [\ , "<mi//>"=-2cos(t)sin(t)-cos(t)=cos(t)(-2sin(t)-1)], [\ , "<mi//>"=0.]
+cos(t) = 0
+sin(t) = -1//2.
+t = pi//2,
+3 pi//2,
+7 pi//6,
+11 pi//6.
+x(t) = cos(t)
+y(t) = sin(t),
+'\\x002219'\ (x, y) = (0, 1)
+t = pi/2,
+'\\x002219'\ (x, y) = ( (sqrt(3))/2, -1/2)
+t = (11 pi)/6.
+'\\x002219'\ (x, y) = (0, -1)
+t = (3 pi)/2,
+'\\x002219'\ (x, y) = (- (sqrt(3))/2, -1/2)
+t = (7 pi)/6.
+T
+'\\x002219'\ T(0, 1/2) = -1/4,
+'\\x002219'\ T(- (sqrt(3))/2, -1/2) = 9/4,
+'\\x002219'\ T(0, 1) = 0,
+'\\x002219'\ T(- (sqrt(3))/2, -1/2) = 9/4.
+'\\x002219'\ T(0, -1) = 2,
+T
+x^2+y^2 <= 1
+9/4,
+(+- (sqrt(3))/2, -1/2)
+T
+-1/4
+(0, 1/2)
+R.
+f(x, y) = x^2-3y^2-4x+6y
+R
+(0, 0),
+(4, 0),
+(0, 4).
+R
+f
+f(x, y) = x^2-3y^2-4x+6y
+f
+R.
+f
+f
+f
+f
+R.
+f = f(x, y),
+f
+f_x = 0
+f_y = 0.
+f
+f
+k(x, y) = e^(-y^2)cos(x)
+(0, 0).
+D
+D =
+f(x, y) = (4x-x^2)(6y-y^2).
+f.
+f_x =
+f_y =
+f_(xx) =
+f_(xy) =
+f_(yy) =
+(x, y)
+x
+x
+y
+x
+y
+f(x, y) = xy-ax-by.
+f
+bb R^2?
+f
+bb R^2?
+f
+bb R^2?
+f(x, y) = 2//x+3//y+4x+5y
+R
+x, y > 0.
+f
+R
+R
+f(x, y) = e^(-2x^2-y^2),
+f(x, y) = e^(2x^2-y^2),
+f(x, y) = 2x^2+y^2+3,
+f(x, y) = 2x^2+y+3,
+f(x, y) = 13-9x+10y
+(0, 0), (10, 0)
+(10, 11).
+f(x, y) = xy
+7x^2+y^2 = 5.
+A
+B
+f(x, y) = x^2+Ax+y^2+B
+(2, 0),
+z
+A =
+B =
+f
+(1, 3),
+(2, 1),
+(5, 7).
+(1, 3),
+f_x = f_y = 0
+f_(xx) = 0,
+f_(yy) = 0,
+f_(xy) > 0.
+(1, 3)?
+(2, 1),
+f_x = f_y = 0
+f_(xx) > 0,
+f_(yy) < 0,
+f_(xy) = 0.
+(2, 1)?
+(5, 7),
+f_x = f_y = 0
+f_(xx) < 0,
+f_(yy) > 0,
+f_(xy) = 0.
+(5, 7)?
+f.
+30"cm"^3.
+34"\cm"^3.
+xy+9x+z^2 = 73
+(x^2)/36+ (y^2)/49+ (z^2)/64 = 1
+x, y, z >= 0
+V = 8xyz.
+w,
+l,
+h
+522"\cm"^3
+2\ "cent"//"cm"^2
+3\ "cent"//"cm"^2.
+f(x, y) = sin(x)+cos(y).
+f.
+F
+x
+y,
+F_x(x, y) = x^2-y-4\ and\ F_y(x, y) = -x+y-2.
+F,
+T(x, y) = 48+3xy-x^2 y-xy^2
+g(x, y) = (x^2)/2+3y^3+9y^2-3xy+9y-9x
+z = f(x, y) = ye^(-x^2-2y^2).
+f(x, y) = 2+2x+2y-x^2-y^2
+x = 0,
+y = 0,
+y = 9-x.
+f(x, y) = 2+2x+2y-x^2-y^2
+(x, y)
+(x-1)^2+(y-1)^2 <= 1.
+z = 6-3x-2y
+f
+c_1
+c_2
+f
+f
+c_3,
+f
+f(x, y) = 4x^2 e^y-2x^4-e^(4y).
+f
+f
+f
+f
+f
+f
+f(x, y) = 3xe^y-x^3-e^(3y)
+f
+f
+f
+C
+C
+x,
+y,
+z
+x,
+y,
+z
+x+2y+3z = 6.
+x+2y+3z = 6,
+x
+y
+V(x, y).
+V.
+V,
+V.
+x
+y,
+V
+1/2 <= x <= 1, \ 1 <= y <= 2.
+x,
+y,
+z
+V = xyz,
+V = V(x, y)
+x
+y.
+V
+R
+V
+R.
+V
+R,
+R.
+22
+14
+9
+2772
+x
+y
+x
+y
+x
+y
+20.0
+88.6
+16.0
+71.6
+19.8
+93.3
+18.4
+84.3
+17.1
+80.6
+15.5
+75.2
+14.7
+69.7
+17.1
+82.0
+15.4
+69.4
+16.2
+83.3
+15.0
+79.6
+17.2
+82.6
+16.0
+80.6
+17.0
+83.5
+14.4
+76.3
+f
+f(x) = mx+b
+y
+y
+f.
+(x_1, y_1),
+(x_2, y_2),
+...,
+(x_n, y_n),
+y_i
+f(x_i)
+(f(x_i)-y_i)^2 = (mx_i+b-y_i)^2.
+S
+S(m, b) = sum_(i=1)^n(mx_i+b-y_i)^2.
+S_m
+S_b.
+S_m(m, b) = 0
+S_b(m, b) = 0
+[m, "<mi//>"= (n(sum_(i=1)^n x_i y_i)-(sum_(i=1)^n x_i)(sum_(i=1)^n y_i))/(n(sum_(i=1)^n x_i^2)-(sum_(i=1)^n x_i)^2) ], [b, "<mi//>"= ((sum_(i=1)^n y_i)(sum_(i=1)^n x_i^2)-(sum_(i=1)^n x_i)(sum_(i=1)^n x_i y_i))/(n(sum_(i=1)^n x_i^2)-(sum_(i=1)^n x_i)^2) .]
+S_m(m, b) = 0
+S_b(m, b) = 0
+m
+b.
+r = sum_(i=1)^n x_i^2,
+s = sum_(i=1)^n x_i,
+t = sum_(i=1)^n y_i,
+u = sum_(i=1)^n x_i y_i
+m
+b
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+RR^n
+bb u = '\\x0027e8'u_1, u_2'\\x0027e9'
+bb v = '\\x0027e8'v_1, v_2'\\x0027e9',
+bb u*bb v = u_1 v_1+u_2 v_2.
+bb u = '\\x0027e8'3, 4'\\x0027e9'
+bb v = '\\x0027e8'-2, 1'\\x0027e9',
+bb u*bb v.
+bb i*bb i
+bb i*bb j.
+bb u = '\\x0027e8'3, 4'\\x0027e9',
+bb u*bb u.
+|bb u|?
+bb u = '\\x0027e8'1, 3'\\x0027e9'
+bb v = '\\x0027e8'-3, 1'\\x0027e9'.
+bb u*bb v.
+bb u = '\\x0027e8'1, 3'\\x0027e9'.
+bb v,
+bb u*bb v.
+bb v = '\\x0027e8'3, 2'\\x0027e9'.
+bb v = '\\x0027e8'3, 0'\\x0027e9'.
+bb v = '\\x0027e8'3, -1'\\x0027e9'.
+bb v = '\\x0027e8'3, -2'\\x0027e9'.
+bb v = '\\x0027e8'3, -4'\\x0027e9'.
+RR^2
+RR^n.
+bb u = '\\x0027e8'u_1, u_2, ..., u_n'\\x0027e9'
+bb v = '\\x0027e8'v_1, v_2, ..., v_n'\\x0027e9'
+RR^n
+bb u*bb v = u_1 v_1+u_2 v_2+...+u_n v_n.
+'\\x0027e8'3, 0, 1'\\x0027e9'*'\\x0027e8'-2, 1, 4'\\x0027e9' = 3*(-2)+0*1+1*4 = -6+0+4 = -2.
+'\\x0027e8'1, 2, -3'\\x0027e9'*'\\x0027e8'4, -2, 0'\\x0027e9'.
+'\\x0027e8'0, 3, -2, 1'\\x0027e9'*'\\x0027e8'5, -6, 0, 4'\\x0027e9'
+bb u,
+bb v,
+bb w
+RR^n.
+bb u*bb v = bb v*bb u
+(bb u+bb v)*bb w = (bb u*bb w)+(bb v*bb w).
+c
+(cbb u)*bb w = c(bb u*bb w).
+bb u*bb u = '\\x0027e8'u_1, u_2, ..., u_n'\\x0027e9'*'\\x0027e8'u_1, u_2, ..., u_n'\\x0027e9' = u_1^2+u_2^2+...+u_n^2 = |bb u|^2.
+bb u*bb u = |bb u|^2.
+bb u
+bb v,
+theta,
+theta
+pi.
+bb u
+bb v.
+bb u,
+bb v,
+bb u-bb v.
+[|bb u-bb v|^2=(, "<mi//>"|bb u|^2+|bb v|^2-2|bb u||bb v|cos(theta)], [(bb u-bb v)*(bb u-bb v)=(, bb u*bb u+bb v*bb v-2|bb u||bb v|cos(theta)], [bb u*(bb u-bb v)-bb v*(bb u-bb v)=(, bb u*bb u+bb v*bb v-2|bb u||bb v|cos(theta)], [bb u*bb u-2bb u*bb v+bb v*bb v=(, bb u*bb u+bb v*bb v-2|bb u||bb v|cos(theta)], [-2bb u*bb v=(, "<mi//>"-2|bb u||bb v|cos(theta)], [bb u*bb v=(, "<mi//>"|bb u||bb v|cos(theta).]
+["(9.3.1)", bb u*bb v=u_1 v_1+u_2 v_2+...+u_n v_n=|bb u||bb v|cos(theta).]
+theta = cos^(-1)( (bb u*bb v)/(|bb u||bb v|) ).
+bb u = '\\x0027e8'1, 2, -3'\\x0027e9'
+bb u = '\\x0027e8'1, 2'\\x0027e9'
+bb v = '\\x0027e8'4, -1'\\x0027e9'
+bb y = '\\x0027e8'1, 2, -3'\\x0027e9'
+bb z = '\\x0027e8'-2, 1, 1'\\x0027e9'
+bb u
+bb v
+bb u*bb v = |bb u||bb v|cos(theta)
+bb u
+bb v
+pi//2
+bb u*bb v = |bb u||bb v|cos(theta)
+bb u
+bb v
+pi//2
+bb u*bb v = |bb u||bb v|cos(theta)
+RR^3
+bb u*bb v = |bb u||bb v|cos(pi//2) = 0,
+bb u
+bb v
+RR^n
+bb u*bb v = 0.
+[cos(theta)>0(, \ "\if\ " theta "\is an acute angle,"], [cos(theta)=0(, \ "\if\ " theta "\is a right angle, and"], [cos(theta)<0(, \ "\if\ " theta "\is an obtuse angle,"]
+bb u
+bb v,
+[bb u*bb v>0(, \ "\if\ " theta "\is an acute angle,"], [bb u*bb v=0(, \ "\if\ " theta "\is a right angle, and"], [bb u*bb v<0(, \ "\if\ " theta "\is an obtuse angle."]
+bb F
+A
+B.
+vec(AB).
+bb F
+W = bb F*vec(AB) = |bb F||vec(AB)|cos(theta).
+bb u
+bb v,
+bb u
+bb v
+bb v.
+30\circ
+60\circ?
+"proj"_bb v bb u.
+"proj"_bb v bb u
+theta > pi/2.
+bb u
+bb v
+bb u
+bb v
+["(9.3.2)", bb u="proj"_bb v bb u+"proj"_(_|_bb v)bb u,]
+"proj"_bb v bb u
+bb v
+"proj"_(_|_bb v)bb u
+bb v.
+"proj"_bb v bb u
+bb u
+bb v
+bb u
+bb v
+pi/2.
+"proj"_bb v bb u,
+bb v,
+[bb u*bb v=(, "<mi//>"("proj"_bb v bb u+"proj"_(_|_bb v)bb u)*bb v], [=(, "<mi//>"("proj"_bb v bb u)*bb v+("proj"_(_|_bb v)bb u)*bb v], [=(, "<mi//>"("proj"_bb v bb u)*bb v.]
+("proj"_(_|_bb v)bb u)*bb v = 0
+"proj"_(_|_bb v)bb u
+bb v.
+"proj"_bb v bb u
+bb v
+bb v,
+"proj"_bb v bb u = sbb v.
+bb u*bb v = ("proj"_bb v bb u)*bb v = sbb v*bb v,
+s = (bb u*bb v)/(bb v*bb v)
+"proj"_bb v bb u = (bb u*bb v)/(bb v*bb v) bb v = (bb u*bb v)/(|bb v|^2) bb v
+"proj"_bb v bb u
+bb v.
+bb u
+bb v
+"comp"_bb v bb u.
+"proj"_bb v bb u = (bb u*bb v)/(|bb v|^2) bb v = (bb u*bb v)/(|bb v|) bb v/(|bb v|) = "comp"_bb v bb u bb v/(|bb v|) ,
+"comp"_bb v bb u = (bb u*bb v)/(|bb v|) .
+bb u
+bb v
+RR^n.
+bb u
+bb v
+"comp"_bb v bb u = (bb u*bb v)/(|bb v|) ,
+bb u
+bb v
+"proj"_bb v bb u = (bb u*bb v)/(bb v*bb v) bb v.
+bb u = "proj"_bb v bb u+"proj"_(_|_bb v)bb u,
+"proj"_(_|_bb v)bb u = bb u-"proj"_bb v bb u.
+"proj"_bb v bb u,
+"proj"_(_|_bb v)bb u
+bb u = '\\x0027e8'2, 6'\\x0027e9'.
+bb v = '\\x0027e8'4, -8'\\x0027e9'.
+"comp"_bb v bb u,
+"proj"_bb v bb u
+"proj"_(_|_bb v)bb u,
+bb u
+bb v
+bb v.
+bb v = '\\x0027e8'-2, 4'\\x0027e9'.
+"proj"_bb v bb u.
+bb w
+bb z = '\\x0027e8'3, 4'\\x0027e9'
+"proj"_bb z bb w
+10.
+RR^n,
+bb u = '\\x0027e8'u_1, u_2, ..., u_n'\\x0027e9'
+bb v = '\\x0027e8'v_1, v_2, ..., v_n'\\x0027e9',
+bb u*bb v = u_1 v_1+u_2 v_2+cdots+u_n v_n.
+bb u*bb u = |bb u|^2.
+bb u*bb v = |bb u|\ |bb v|cos(theta),
+theta
+bb u
+bb v.
+pi//2.
+bb u
+bb v
+bb u*bb v = 0.
+bb u
+RR^n
+bb v
+RR^n
+"proj"_bb v bb u = (bb u*bb v)/(bb v*bb v) bb v.
+bb a*bb b
+bb a = '\\x0027e8'0, 5, -4'\\x0027e9'
+bb b = '\\x0027e8'-2, 0, 3'\\x0027e9'
+bb a*bb b =
+bb a = '\\x0027e8'2, 2, -5'\\x0027e9'
+bb b = '\\x0027e8'-6, -6, -24//5'\\x0027e9'
+bb a = '\\x0027e8'2, 2, -5'\\x0027e9'
+bb b = '\\x0027e8'-6, -6, 15'\\x0027e9'
+bb a = '\\x0027e8'2, 2, -5'\\x0027e9'
+bb b = '\\x0027e8'6, 6, -14'\\x0027e9'
+vec u = '\\x0027e8'3, -2, 5'\\x0027e9',
+vec v = '\\x0027e8'3, 0, 3'\\x0027e9',
+vec w = '\\x0027e8'-1, -2, -3'\\x0027e9'.
+vec u*vec w =
+(vec u*vec v) vec u =
+((vec w*vec w) vec u)*vec u =
+vec u*vec v+vec v*vec w =
+bb a*bb b
+|bb a|
+|bb b|
+bb a
+bb b
+-pi/3
+bb a*bb b
+bb a
+bb b
+bb a*bb b
+|bb a|
+|bb b|
+bb a
+bb b
+-pi/7
+bb a*bb b
+bb F = -6bb i+8bb j+3bb k
+(3, -2, 5)
+(5, 10, -3).
+bb v = '\\x0027e8'-2, 5'\\x0027e9'
+RR^2,
+bb y = '\\x0027e8'0, 3, -2'\\x0027e9'
+RR^3.
+'\\x0027e8'2, -1'\\x0027e9'
+bb v?
+bb u
+RR^2
+bb u
+bb v.
+'\\x0027e8'2, -1, -2'\\x0027e9'
+bb y?
+bb w
+RR^3
+bb w
+bb y.
+bb z = '\\x0027e8'2, 1, 0'\\x0027e9'.
+bb r
+RR^3
+bb r
+bb y
+bb z.
+RR^3
+P = (3, 2, -1),
+Q = (1, -2, 4),
+R = (4, 4, 0).
+0.01
+bb a
+bb b.
+"proj"_bb b bb a,
+"proj"_(_|_bb b)bb a.
+"proj"_(_|_bb b)bb a
+PQR.
+bb u
+bb v
+RR^5
+bb u*bb v = -1,
+|bb u| = 2,
+|bb v| = 3.
+bb u*2bb v
+bb v*bb v
+(bb u+bb v)*bb v
+(2bb u+4bb v)*(bb u-7bb v)
+|bb u||bb v|cos(theta),
+theta
+bb u
+bb v
+theta
+(bb u+bb v)*bb w = (bb u*bb w)+(bb v*bb w).
+bb u = '\\x0027e8'1, 2, -1'\\x0027e9',
+bb v = '\\x0027e8'4, -3, 6'\\x0027e9',
+bb w = '\\x0027e8'4, 7, 2'\\x0027e9'.
+bb u*(bb v+bb w)\ "\and\ "\ (bb u*bb v)+(bb u*bb w).
+bb x*(bb y+bb z) = (bb x*bb y)+(bb x*bb z)
+bb x,
+bb y,
+bb z
+RR^n.
+38\circ
+CH_4
+(1/2, 1/2, 1/2)
+(0, 0, 0),
+(1, 1, 0),
+(1, 0, 1),
+(0, 1, 1).
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+C
+int_C bb F*dbb r?
+C
+int_C bb F*dbb r?
+P
+Q
+bb F = '\\x0027e8'xy, y^2'\\x0027e9',
+C_1
+(1, 1)
+(4, 1),
+C_2
+(4, 1)
+(4, 3),
+C_3
+(1, 1)
+(4, 3).
+C = C_1+C_2.
+bb F
+C_1
+y = 1.
+C_1,
+bb F
+x.
+C_1,
+bb F(x, 1) = '\\x0027e8'x, 1'\\x0027e9'.
+C_2
+x
+bb F
+y
+C_2
+dbb r ~~ Delta bb r,
+C_1,
+Delta bb r = Delta xbb i ~~ dxbb i.
+dbb r = '\\x0027e8'dx, 0'\\x0027e9'.
+C_1,
+bb F = '\\x0027e8'x, 1'\\x0027e9'.
+bb F*dbb r
+C_1
+x
+C_1?
+int_(C_1)bb F*dbb r
+int_a^b f(x)dx
+int_(C_2)bb F*dbb r
+int_c^d g(y)dy
+int_C bb F*dbb r
+int_C bb F*dbb r
+int_(C_3)bb F*dbb r
+C_3
+(1, 1)
+(4, 3),
+2//3,
+y-1 = (2//3)(x-1)
+y = 2/3 x+1/3.
+C_3,
+bb F = '\\x0027e8'2/3 x^2+1/3 x, (2/3 x+1/3)^2'\\x0027e9'.
+C_3
+Delta y//Delta x,
+Delta y//Delta x = 2//3,
+Delta y = 2/3 Delta x.
+Delta bb r
+'\\x0027e8'Delta x, Delta y'\\x0027e9'.
+Delta x ~~ dx
+Delta y ~~ dy,
+Delta y = 2/3 Delta x
+dbb r = '\\x0027e8'dx, 2/3 dx'\\x0027e9' = '\\x0027e8'1, 2/3'\\x0027e9'dx.
+C_3,
+1 <= x <= 4,
+bb F
+x
+bb r
+dx,
+[int_(C_3)bb F*dbb r, "<mi//>"=int_1^4'\\x0027e8'2/3 x^2+1/3 x,(2/3 x+1/3)^2'\\x0027e9'*'\\x0027e8'1, 2/3'\\x0027e9'dx], [\ , "<mi//>"=int_1^4 2/3 x^2+1/3 x+2/3(2/3 x+1/3)^2 dx=151/6.]
+int_C bb F*dbb r
+C
+C_3
+(1, 1)
+(4, 3).
+bb F = '\\x0027e8'xy, y^2'\\x0027e9'
+f
+bb F = grad f?
+x
+y
+(x, y, z)
+C
+bb r(t) = '\\x0027e8'f(t), g(t)'\\x0027e9'
+t in[a, b]
+C
+RR^3.
+C
+bb r(t)
+a <= t <= b,
+bb F
+C.
+[a, b]
+n
+Delta t = (b-a)//n,
+t_i = a+i Delta t
+i = 0, 1, ..., n.
+[a, b]
+n
+t_i
+C
+n
+C_i
+bb r(t_i)
+bb r(t_(i-1))
+i = 1, ..., n.
+C
+P
+Q
+n
+t
+C_i
+Delta bb r_i = bb r(t_i)-bb r(t_(i-1))
+Delta bb r_i = bb r(t_i)-bb r(t_(i-1)) = bb r(t_i)-bb r(t_i-Delta t) = ( (bb r(t_i)-bb r(t_i-Delta t))/(Delta t) ) Delta t.
+C
+P
+Q
+n
+t
+Delta r_i
+int_C bb F*dbb r
+t
+x
+y
+bb F = '\\x0027e8'F_1(x, y), F_2(x, y)'\\x0027e9',
+bb r(t) = '\\x0027e8'f(t), g(t)'\\x0027e9'
+bb F
+t:
+bb F(t) = bb F(r(t)) = '\\x0027e8'F_1(f(t), g(t)), F_2(f(t), g(t))'\\x0027e9'
+[int_C bb F*dbb r, "<mi//>"=lim_(|Delta bb r_i|->0) sum_(i=1)^n bb F(bb r_i)*Delta bb r_i], [\ , "<mi//>"=lim_(Delta t->0) sum_(i=1)^n bb F(bb r(t_i))*( (bb r(t_i)-bb r(t_i-Delta t))/(Delta t) ) Delta t]
+Delta t -> 0,
+bb r'(t_i).
+int_C bb F*dbb r = int_a^b bb F(bb r(t))*bb r'(t)dt
+bb F(bb r(t))*bb r'(t)
+t.
+C
+bb r(t)
+a <= t <= b.
+bb F
+C,
+int_Cbb F*dbb r = int_a^b bb F(bb r(t))*bb r'(t)dt.
+bb F(x, y) = xbb i+y^2 bb j
+C
+3
+(0, 3)
+(3, 0).
+int_C bb F*dbb r = -int_(-C)bb F*dbb r,
+-C
+-C
+bb r(t) = '\\x0027e8'3cos(t), 3sin(t)'\\x0027e9'
+0 <= t <= pi//2.
+bb F = xbb i+y^2 bb j
+C
+int_(-C)bb F*dbb r
+bb F(bb r(t)) = '\\x0027e8'3cos(t), 9sin^2(t)'\\x0027e9'\ "\and\ "\ bb r'(t) = '\\x0027e8'-3sin(t), 3cos(t)'\\x0027e9'
+[int_C bb F*dbb r, "<mi//>"=-int_(-C)bb F*dbb r], [\ , "<mi//>"=-int_0^(pi//2)'\\x0027e8'3cos(t),9sin^2(t)'\\x0027e9'*'\\x0027e8'-3sin(t),3cos(t)'\\x0027e9'dt], [\ , "<mi//>"=-int_0^(pi//2)(-9sin(t)cos(t)+27sin^2(t)cos(t))dt], [\ , "<mi//>"=-int_0^1(-9u+27u^2)du=-[-9/2 u^2+9u^3]_0^1], [\ , "<mi//>"=-(-9/2+9)=-9/2.]
+u = sin(t)
+'\\x0027e8'3sin(t), 3cos(t)'\\x0027e9'
+0 <= t <= pi//2
+bb F(x, y, z) = 6x^2 zbb i+3y^2 bb j+xbb k
+(3, 0, 0)
+(3, 0, 6 pi)
+bb r(t) = '\\x0027e8'3cos(t), 3sin(t), t'\\x0027e9'.
+bb F(x, y) = '\\x0027e8'0, x'\\x0027e9'.
+C
+2
+x
+(2, 0)
+(-2, 0),
+bb F
+C.
+bb F(x, y) = '\\x0027e8'y^2, 2xy+3'\\x0027e9'.
+C_1
+y = 2x^3+3x^2-12x-15
+(-2, 5)
+(3, 30).
+int_(C_1)bb F*dbb r.
+C_2
+(-2, 5)
+(3, 30).
+int_(C_2)bb F*dbb r.
+C_3
+3
+oint_(C_3)bb F*dbb r.
+C_1
+C_2
+C_1-C_2?
+oint_(C_1-C_2)bb F*dbb r?
+bb F
+C_3
+bb F
+(3, 0)
+(-3, 0)
+3
+x,
+y,
+z
+bb F(x, y, z) = F_1(x, y, z)bb i+F_2(x, y, z)bb j+F_3(x, y, z)bb k,
+int_C bb F*dbb r = int_C'\\x0027e8'F_1, F_2, F_3'\\x0027e9'*'\\x0027e8'dx, dy, dz'\\x0027e9' = int_C F_1 dx+F_2 dy+F_3 dz.
+int_C F_1 dx+F_2 dy+F_3 dz
+bb F
+RR^2,
+F_3 dz
+bb F(x, y, z) = '\\x0027e8'x^2 y, z^3, xcos(z)'\\x0027e9'
+C
+RR^3,
+int_C bb F*dbb r = int_C x^2 ydx+z^3 dy+xcos(z)dz
+int_C F_1 dx+F_2 dy+F_3 dz
+int_C bb F*dbb r
+C
+bb F = xbb i.
+(0, 1)
+(3, 3).
+C
+(3, 1)
+(3, 3).
+C_3
+(0, 1)
+(3, 3).
+C
+C_1
+C_2
+C = C_1+C_2.
+bb F = xbb i
+bb F
+C_2,
+int_(C_2)bb F*dbb r = 0;
+int_C bb F*dbb r = int_(C_1)bb F*dbb r.
+C_1
+tbb i+bb j
+0 <= t <= 3
+t
+x
+int_(C_1)bb F*dbb r = int_0^3'\\x0027e8't, 0'\\x0027e9'*'\\x0027e8'1, 0'\\x0027e9'dt = int_0^3 tdt = 9/2.
+int_C bb F*dbb r = 9//2.
+int_(C_3)bb F*dbb r,
+C_3
+bb r(t) = '\\x0027e8'3sin(t), 1+2sin(t)'\\x0027e9'
+0 <= t <= pi/2.
+C_3.
+bb r'(t) = '\\x0027e8'3cos(t), 2cos(t)'\\x0027e9',
+[int_(C_3)bb F*dbb r, "<mi//>"=int_0^(pi//2)'\\x0027e8'3sin(t),0'\\x0027e9'*'\\x0027e8'3cos(t),2cos(t)'\\x0027e9'dt], [\ , "<mi//>"=int_0^(pi//2)9sin(t)cos(t)dt=9/2.]
+C_3
+int_C bb F*dbb r = int_(C_3)bb F*dbb r,
+(0, 1)
+(3, 3)
+C_3
+(0, 1)
+(3, 3)
+C_3
+bb r(t) = '\\x0027e8'3t, 1+2t'\\x0027e9'
+0 <= t <= 1.
+int_(C_3)bb F*dbb r
+bb F = xbb i
+int_C'\\x0027e8'(3xy+e^z), x^2, (4z+xe^z)'\\x0027e9'*dbb r
+C
+(1, 1, 1)
+(1, 1, 1)
+(0, 0, 2).
+int_(C')'\\x0027e8'3xy+e^z, x^2, 4z+xe^z'\\x0027e9'*dbb r
+C_3
+(0, 0, 0)
+(0, 0, 2).
+bb F
+int_C bb F*dbb r
+C
+t
+bb F(bb r(t))*bb r'(t)
+[a, b].
+C
+int_C bb F*dbb r
+int_a^b bb F(bb r(t))*bb r'(t)dt
+C_1
+C_2
+P
+Q,
+int_(C_1)bb F*dbb r
+int_(C_2)bb F*dbb r.
+vec F(x, y) = '\\x0027e8'e^x, e^y'\\x0027e9'
+C
+(0, 1)
+(6, 0)
+vec r(t)
+0 <= t <= pi//2.
+vec r(t) =
+vec F
+C.
+int_C vec F*d vec r = int_a^b vec F(vec r(t))*vec r\ '( t)dt = int_a^b
+dt
+a =
+b =
+vec F
+C.
+int_C bb F*dbb r,
+bb F(x, y, z) = 2xbb i+2ybb j+5zbb k
+bb r(t) = '\\x0027e8'sin t, cos t, t'\\x0027e9', \ 0 <= t <= 3 pi//2.
+int_cc C bb F*d\ bb r
+bb F = '\\x0027e8'-4sin x, 3cos y, xz'\\x0027e9'
+cc C
+bb r(t) = (2t^3, -t^2, 2t)
+0 <= t <= 1
+int_cc C bb F*d\ bb r =
+int_(C_1)bb F*dbb r
+bb F = '\\x0027e8'x^2, xy'\\x0027e9'
+C_1
+(0, 0)
+(2, 2).
+int_(C_2)bb F*dbb r
+bb F = '\\x0027e8'x^2, xy'\\x0027e9'
+C_2
+(2, 2)
+(0, 0).
+bb F = '\\x0027e8'y+z, z-x, -z'\\x0027e9'
+bb r(t) = '\\x0027e8'10sin(t), 10cos(t), (10-t)^2'\\x0027e9'
+0 <= t <= 4 pi.
+C_3
+7
+int_(C_3)'\\x0027e8'M, N'\\x0027e9'*dbb r
+'\\x0027e8'M, N'\\x0027e9' = '\\x0027e8'x, y'\\x0027e9'
+'\\x0027e8'M, N'\\x0027e9' = '\\x0027e8'-y, x'\\x0027e9'
+'\\x0027e8'M, N'\\x0027e9' = '\\x0027e8'3, x'\\x0027e9'
+C_4
+y = x^3-x
+z = xy
+x
+-1
+2.
+'\\x0027e8'x, z, x+y'\\x0027e9'?
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb u
+bb v
+RR^3.
+bb i,
+bb j,
+bb k
+bb i
+bb j,
+bb k.
+bb i,
+bb j,
+bb k.
+bb u
+bb v,
+bb u xx bb v.
+bb u xx bb v
+bb u
+bb v,
+bb u xx bb v.
+bb i,
+bb j,
+bb k.
+bb i,
+bb j,
+bb k
+bb i xx bb j
+bb k
+bb i xx bb j = bb k.
+bb i,
+bb k,
+-bb j
+bb i xx bb k
+-bb j
+bb i xx bb k = -bb j.
+bb i,
+bb j,
+bb k.
+bb i xx bb j = bb k
+bb i xx bb k = -bb j
+bb j xx bb k =
+bb j xx bb i =
+bb k xx bb i =
+bb k xx bb j =
+2*5 = 5*2.
+bb u
+bb v
+RR^3,
+bb u xx bb v = -bb v xx bb u.
+bb u = bb v,
+bb v xx bb v = -(bb v xx bb v).
+bb v xx bb v;
+-1?
+[(cbb u) xx bb v=(, c(bb u xx bb v)], [(bb u+bb v) xx bb w=(, "<mi//>"(bb u xx bb w)+(bb v xx bb w)]
+[(2bb i+bb j) xx bb k=(, "<mi//>"(2bb i xx bb k)+(bb j xx bb k)], [=(, 2(bb i xx bb k)+(bb j xx bb k)], [=(, "<mi//>"-2bb j+bb i.]
+bb u xx bb v
+bb u = 2bb i+3bb j
+bb v = -bb i+bb k.
+bb u xx bb v
+bb u
+bb v.
+bb u
+bb v
+xy
+xy
+bb u = |bb u|bb i
+bb v = |bb v|cos(theta)bb i+|bb v|sin(theta)bb j.
+|bb u xx bb v|.
+bb u xx bb v
+bb u
+bb v
+RR^3
+RR^3.
+bb i xx bb j = bb k
+bb j xx bb i = -bb k
+bb i xx bb k = -bb j
+bb k xx bb i = bb j
+bb j xx bb k = bb i
+bb k xx bb j = -bb i
+[bb u xx bb v=(, "<mi//>"(u_1 bb i+u_2 bb j+u_3 bb k) xx(v_1 bb i+v_2 bb j+v_3 bb k)], [=(, u_1 bb i xx(v_1 bb i+v_2 bb j+v_3 bb k)+u_2 bb j xx(v_1 bb i+v_2 bb j+v_3 bb k)], [(, "<mi//>"+u_3 bb k xx(v_1 bb i+v_2 bb j+v_3 bb k)], [=(, u_1 v_1 bb i xx bb i+u_1 v_2 bb i xx bb j+u_1 v_3 bb i xx bb k+u_2 v_1 bb j xx bb i+u_2 v_2 bb j xx bb j], [(, "<mi//>"+u_2 v_3 bb j xx bb k+u_3 v_1 bb k xx bb i+u_3 v_2 bb k xx bb j+u_3 v_3 bb k xx bb k], [=(, u_1 v_2 bb k-u_1 v_3 bb j-u_2 v_1 bb k+u_2 v_3 bb i+u_3 v_1 bb j-u_3 v_2 bb i], [=(, "<mi//>"(u_2 v_3-u_3 v_2)bb i-(u_1 v_3-u_3 v_1)bb j+(u_1 v_2-u_2 v_1)bb k.]
+RR^3
+bb u xx bb v
+bb u = u_1 bb i+u_2 bb j+u_3 bb k
+bb v = v_1 bb i+v_2 bb j+v_3 bb k
+RR^3
+["(9.4.1)", (u_2 v_3-u_3 v_2)bb i-(u_1 v_3-u_3 v_1)bb j+(u_1 v_2-u_2 v_1)bb k.]
+2 xx 2
+|[a, b], [c, d]| = ad-bc.
+bb u xx bb v = |[u_2, u_3], [v_2, v_3]|bb i-|[u_1, u_3], [v_1, v_3]|bb j+|[u_1, u_2], [v_1, v_2]|bb k.
+3 xx 3
+bb u xx bb v = |[bb i, bb j, bb k], [u_1, u_2, u_3], [v_1, v_2, v_3]|.
+bb u = '\\x0027e8'0, 1, 3'\\x0027e9'
+bb v = '\\x0027e8'2, -1, 0'\\x0027e9'.
+bb u xx bb v.
+bb u*(bb u xx bb v)
+bb v*(bb u xx bb v).
+bb u,
+bb v,
+bb u xx bb v?
+bb v xx bb i.
+(2*5)*3 = 2*(5*3).
+(bb u xx bb v) xx bb i = bb u xx(bb v xx bb i)?
+bb u xx bb u.
+bb u,
+bb v,
+bb w
+RR^3,
+c
+bb u xx bb v = -(bb v xx bb u)
+(bb u+bb v) xx bb w = (bb u xx bb w)+(bb v xx bb w)
+(cbb u) xx bb w = c(bb u xx bb w) = bb u xx(cbb w)
+bb u xx bb v = '\\y01d7ce'
+bb u
+bb v
+(bb u xx bb v) xx bb w != bb u xx(bb v xx bb w).
+bb u xx bb v
+bb u
+bb v.
+bb u xx bb v
+|bb u xx bb v|
+bb u
+bb v.
+|bb u xx bb v|^2
+theta
+bb u
+bb v,
+[|bb u xx bb v|^2=(, "<mi//>"(u_2 v_3-u_3 v_2)^2+(u_1 v_3-u_3 v_1)^2+(u_1 v_2-u_2 v_1)^2], [=(, u_2^2 v_3^2-2u_2 u_3 v_2 v_3+u_3^2 v_2^2+u_1^2 v_3^2-2u_1 u_3 v_1 v_3+u_3^2 v_1^2], [(, "<mi//>"+u_1^2 v_2^2-2u_1 u_2 v_1 v_2+u_2^2 v_1^2], [=(, u_1^2(v_2^2+v_3^2)+u_2^2(v_1^2+v_3^2)+u_3^2(v_1^2+v_2^2)], [(, "<mi//>"-2(u_1 u_2 v_1 v_2+u_1 u_3 v_1 v_3+u_2 u_3 v_2 v_3)], [=(, u_1^2(v_1^2+v_2^2+v_3^2)+u_2^2(v_1^2+v_2^2+v_3^2)+u_3^2(v_1^2+v_2^2+v_3^2)], [(, "<mi//>"-(u_1^2 v_1^2+u_2^2 v_2^2+u_3^2 v_3^2+2(u_1 u_2 v_1 v_2+u_1 u_3 v_1 v_3+u_2 u_3 v_2 v_3))], [=(, "<mi//>"(u_1^2+u_2^2+u_3^2)(v_1^2+v_2^2+v_3^2)-(u_1 v_1+u_2 v_2+u_3 v_3)^2], [=(, "<mi//>"|bb u|^2|bb v|^2-(bb u*bb v)^2], [=(, "<mi//>"|bb u|^2|bb v|^2(1-cos^2(theta))], [=(, "<mi//>"|bb u|^2|bb v|^2 sin^2(theta).]
+|bb u xx bb v|^2 = |bb u|^2|bb v|^2 sin^2(theta),
+["(9.4.2)", |bb u xx bb v|=|bb u||bb v|sin(theta).]
+bb u xx bb v = '\\y01d7ce'
+bb u
+bb v
+sin(theta) = 0
+bb u
+bb v
+bb u xx bb v = '\\y01d7ce'.
+bb u
+bb v,
+bb u
+bb v
+|bb u|
+|bb v|sin(theta).
+bb u
+bb v
+|bb u||bb v|sin(theta) = |bb u xx bb v|.
+|bb u xx bb v|,
+bb u
+bb v
+bb u
+bb v.
+bb u = u_1 bb i+u_2 bb j+0bb k
+bb v = v_1 bb i+v_2 bb j+0bb k
+xy
+bb u
+bb v
+|bb u xx bb v| = |u_1 v_2-u_2 v_1|
+2 xx 2
+|[u_1, u_2], [v_1, v_2]|.
+2 xx 2
+bb u = '\\x0027e8'1, 3, -2'\\x0027e9'
+bb v = '\\x0027e8'3, 0, 1'\\x0027e9'.
+RR^3
+(1, 0, 1),
+(0, 0, 1),
+(2, 1, 0),
+(1, 1, 0).
+bb u xx bb v
+bb u xx bb v,
+bb i,
+bb j,
+bb k
+bb u*(bb u xx bb v),
+[bb u*(bb u xx bb v)=(, u_1(u_2 v_3-u_3 v_2)-u_2(u_1 v_3-u_3 v_1)+u_3(u_1 v_2-u_2 v_1)], [=(, u_1 u_2 v_3-u_1 u_3 v_2-u_2 u_1 v_3+u_2 u_3 v_1+u_3 u_1 v_2-u_3 u_2 v_1], [=(, 0]
+bb u*(bb u xx bb v) = 0,
+bb u
+bb u xx bb v.
+bb v
+bb u xx bb v.
+bb u xx bb v
+bb u
+bb v,
+bb u xx bb v
+bb u
+bb v.
+bb u xx bb v
+bb u
+bb v,
+|bb u||bb v|sin(theta) = |bb u xx bb v|.,
+bb u xx bb v
+bb u
+bb v
+bb n
+bb u
+bb v
+bb u xx bb v = |bb u||bb v|sin(theta)\ bb n.
+bb u,
+bb v,
+bb w
+RR^3
+bb u,
+bb v,
+bb w
+A,
+h.
+|bb u xx bb v|.
+h = |bb w|cos(alpha)
+alpha
+bb w
+bb n,
+bb u
+bb v.
+bb n
+bb u xx bb v,
+bb w
+bb u xx bb v
+alpha.
+|(bb u xx bb v)*bb w| = |bb u xx bb v||bb w|cos(alpha) = Ah,
+bb u,
+bb v,
+bb w
+|(bb u xx bb v)*bb w|.
+(bb u xx bb v)*bb w
+bb u = '\\x0027e8'3, 5, -1'\\x0027e9'
+bb v = '\\x0027e8'2, -2, 1'\\x0027e9'.
+bb u
+bb v.
+bb u,
+bb v,
+bb w = '\\x0027e8'3, 3, 1'\\x0027e9'.
+(0, 1, 2),
+(4, 1, 0),
+(-2, 2, 2).
+bb u
+bb v
+bb u xx bb v
+bb v xx bb u.
+bb u
+bb v
+bb a = '\\x0027e8'1, 3, -2'\\x0027e9',
+bb b = '\\x0027e8'2, 1, -4'\\x0027e9',
+bb c = '\\x0027e8'0, 1, 0'\\x0027e9'
+bb F
+bb r
+tau,
+tau = bb F xx bb r.
+|tau| = |bb F xx bb r| = |bb F||bb r||sin(theta).
+|bb F|
+|bb r|,
+|bb r|
+bb u*bb v
+bb u xx bb v
+bb u*bb v = bb v*bb u,
+bb u xx bb v = -bb v xx bb u
+bb u*bb v = |bb u||bb v|cos(theta),
+|bb u xx bb v| = |bb u||bb v|sin(theta).
+bb u*bb v = 0
+bb u
+bb v
+bb u xx bb v = '\\y01d7ce'
+bb u
+bb v
+RR^3.
+bb u = u_1 bb i+u_2 bb j+u_3 bb k
+bb v = v_1 bb i+v_2 bb j+v_3 bb k
+RR^3
+bb u xx bb v = (u_2 v_3-u_3 v_2)bb i-(u_1 v_3-u_3 v_1)bb j+(u_1 v_2-u_2 v_1)bb k.
+bb u xx bb v = |bb u|\ |bb v|\ sin(theta)\ bb n,
+theta
+bb u
+bb v
+bb n
+bb u
+bb v
+bb u
+bb v
+bb u
+bb v.
+|bb u xx bb v|
+bb u
+bb v
+bb u
+bb v.
+|(bb u xx bb v)*bb w|
+bb u,
+bb v,
+bb w.
+bb a = bb i+bb j+4bb k
+bb b = bb i+bb j+4bb k
+bb a xx bb b.
+bb a xx bb b =
+bb i
+bb j
+bb k
+vec v*vec w = 7
+'\\x002016'vec v xx vec w'\\x002016' = 2,
+vec v
+vec w
+theta.
+tan theta =
+theta =
+bb u
+|bb u|
+bb v
+|bb v|
+bb u xx bb v
+|bb u xx bb v|
+bb a = bb i+10bb j+bb k
+bb b = bb i+15bb j+bb k,
+bb a
+bb b.
+bb i
+bb j
+bb k
+O, P = (0, 2, 2)
+Q = (4, 0, 7)
+A = (-3, 3, -2),
+B = (-4, -2, -3),
+P = (k, k, k).
+A
+B
+A
+P
+k
+bb a = '\\x0027e8'-2, -1, 3'\\x0027e9'
+bb b = '\\x0027e8'4, -2, 3'\\x0027e9'
+'\\x0027e8'
+'\\x0027e9'
+'\\x0027e8'
+'\\x0027e9'
+((vec i+vec j) xx vec i) xx vec j
+(vec j+vec k) xx(vec j xx vec k)
+2 vec i xx(vec i+vec j)
+(vec k+vec j) xx(vec k-vec j)
+(vec i xx vec j)*vec k = vec i*(vec j xx vec k).
+vec v
+vec w
+'\\x002016'vec v+vec w'\\x002016' = '\\x002016'vec v'\\x002016'+'\\x002016'vec w'\\x002016'.
+c
+vec v,
+'\\x002016'c vec v'\\x002016' = c'\\x002016'vec v'\\x002016'.
+vec v*(vec v xx vec w)
+pi//5
+bb u = 2bb i+bb j
+bb v = bb i+2bb j
+RR^3.
+bb u
+bb v.
+bb u xx bb v?
+bb i
+bb j,
+bb u xx bb v.
+bb u xx bb v.
+bb u
+bb v.
+bb x = '\\x0027e8'1, 1, 1'\\x0027e9'
+bb y = '\\x0027e8'0, 3, -2'\\x0027e9'.
+bb x
+bb y
+bb x
+bb y
+bb x
+bb y.
+bb y
+bb x,
+bb x.
+bb x
+bb y.
+RR^3
+P(3, 2, -1),
+Q(1, -2, 4),
+R(4, 4, 0).
+vec(PQ)
+vec(PR).
+/_\PQR
+vec(PQ)
+vec(PR).
+/_\PQR.
+P,
+Q,
+R.
+/_PQR.
+(bb u+bb v) xx bb w = (bb u xx bb w)+(bb v xx bb w).
+bb u = '\\x0027e8'1, 2, -1'\\x0027e9',
+bb v = '\\x0027e8'4, -3, 6'\\x0027e9',
+bb v = '\\x0027e8'4, 7, 2'\\x0027e9'.
+bb u xx(bb v+bb w)\ "\and\ "\ (bb u xx bb v)+(bb u xx bb w).
+bb x xx(bb y+bb z) = (bb x xx bb y)+(bb x xx bb z)
+bb x,
+bb y,
+bb z
+RR^3.
+bb u = '\\x0027e8'u_1, u_2, u_3'\\x0027e9',
+bb v = '\\x0027e8'v_1, v_2, v_3'\\x0027e9',
+bb w = '\\x0027e8'w_1, w_2, w_3'\\x0027e9'
+RR^3.
+(bb u xx bb v)*bb w.
+(bb u xx bb v)*bb w = |[u_1, u_2, u_3], [v_1, v_2, v_3], [w_1, w_2, w_3]|.
+|[u_1, u_2, u_3], [v_1, v_2, v_3], [w_1, w_2, w_3]| = -|[v_1, v_2, v_3], [u_1, u_2, u_3], [w_1, w_2, w_3]|.
+3 xx 3
+3 xx 3
+(bb u xx bb v)*bb w = (bb w xx bb u)*bb v = (bb v xx bb w)*bb u.
+bb u,
+bb v,
+bb w
+bb u,
+bb v,
+bb w
+(bb u xx bb v)*bb w?
+bb u,
+bb v,
+bb w
+(bb u xx bb v)*bb w
+bb u,
+bb v,
+bb w
+bb u,
+bb v,
+bb w
+(bb u xx bb v)*bb w = 0.
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+f = f(x, y)
+g(x, y) = k,
+k
+x
+y
+f(x, y) = x^2 y
+4x
+y
+4x+y = 108.
+4x+y = 108
+g
+g(x, y) = 4x+y.
+g,
+f
+g(x, y) = 108.
+g(x, y) = 108
+f.
+f
+g(x, y) = 108,
+f
+f
+A
+B
+f
+g(x, y) = 108.
+A
+B
+f
+C
+D
+f
+g(x, y) = 108.
+C
+D
+f
+f
+f
+g(x, y) = 108.
+g(x, y) = 108
+g,
+grad f
+grad g
+g
+g(x, y) = 4x+y.
+g,
+g(x, y) = c,
+c
+f
+g(x, y) = c,
+g(x, y) = c
+f.
+f
+f
+f,
+grad f
+f
+grad g
+g.
+grad g
+grad f
+lambda
+["(10.8.1)", grad f=lambda grad g.]
+lambda
+lambda
+grad f
+grad g.
+grad f = 2xybb i+x^2 bb j\ "\and\ "\ grad g = 4bb i+bb j,
+lambda
+2xybb i+x^2 bb j = lambda(4bb i+bb j).
+["(10.8.2)", 2xy, "<mi//>"=lambda(4)], ["(10.8.3)", x^2, "<mi//>"=lambda(1)], ["(10.8.4)", 4x+y, "<mi//>"=108]
+x,
+y,
+lambda.
+lambda = 0,
+x = 0.
+y = 108.
+(0, 108)
+lambda != 0
+x != 0
+lambda,
+[ (2y)/x, "<mi//>"=4,\ "so"], [y, "<mi//>"=2x.]
+4x+2x = 108
+x = 18.
+y = 2x = 36
+lambda = x^2 = 324
+f
+g
+f
+(0, 108)
+(18, 36).
+f
+f(18, 36) = 11664
+f(0, 108) = 0,
+f = f(x, y)
+g(x, y) = c
+grad f = lambda grad g
+g(x, y) = c
+x,
+y,
+lambda.
+f
+(x, y)
+f
+f
+g
+lambda
+f = f(x, y, z)
+g(x, y, z) = k,
+(x, y, z)
+S
+g(x, y, z) = k.
+f(x, y, z) = c
+S.
+f
+g
+f = f(x, y, z)
+g(x, y, z) = k
+(x, y, z)
+grad f = lambda grad g
+g(x, y, z) = k.
+f = f(x, y)
+g(x, y) = c
+f
+grad f = lambda grad g.
+grad f = lambda grad g
+g(x, y) = c,
+x,
+y,
+lambda.
+f
+(x, y)
+f(x, y) = 4x-y
+x^2+2y^2 = 66,
+f(x, y) = x^2 y+6y^2-y,
+x^2+y^2 <= 54.3333333333333
+f(x, y) = x^2+y^2
+x^4+y^4 = 1.
+f(x, y) = x^2-y^2
+x^2+y^2 = 16.
+(1, 2, 13)
+z = x^2+y^2.
+>= 3,
+lambda
+h(x, y) = x^2+y^2-lambda(4x+6y-19)
+m(lambda).
+m(lambda)
+m(lambda) =
+lambda
+lambda
+m(lambda)
+lambda =
+m(lambda) =
+f(x, y) = x^2+y^2
+4x+6y = 19
+lambda.
+f
+lambda =
+x+y+2z = 10
+z = x^2+y^2
+f(x, y, z) = x^2 y^2 z^2
+x^2+y^2+z^2 = 144.
+f(x, y, z, t) = x+y+z+t
+x^2+y^2+z^2+t^2 = 225.
+x != y
+x != z.
+sum_(i=1)^3 x_i = 5,
+x_1, x_2, x_3
+sum_(i=1)^3 x_i^2
+x_1, x_2, x_3 =
+sum_(i=1)^n x_i^2
+sum_(i=1)^n x_i = 5.
+f(x, y) = 50x^(0.4)y^(0.6),
+x
+y
+x-2y = 5
+(1, 3).
+f = f(x, y)
+(x, y)
+(1, 3).
+f(x, y)
+g(x, y) = c?
+grad f = lambda grad g
+(x, y)
+f(x, y) = (x-1)^2+(y-2)^2
+x^2+y^2 = 16.
+x^2+y^2+z^2 = 4
+(3, 1, -1).
+f(x, y, z) = x^2+y^2+z^2
+(x-3)^2+(y+2)^2+(z-5)^2 <= 16.
+f = f(x, y, z)
+g(x, y, z) = c
+h(x, y, z) = k.
+g(x, y, z) = c
+h(x, y, z) = k
+C.
+P = (x_0, y_0, z_0)
+C.
+C
+bb r = bb r(t).
+vec(OP) = bb r(t_0).
+f(bb r(t)),
+g(bb r(t)),
+h(bb r(t)),
+[grad f(x_0,y_0,z_0)*bb r'(t_0), "<mi//>"=0,], [grad g(x_0,y_0,z_0)*bb r'(t_0), "<mi//>"=0,"\and\ "], [grad h(x_0,y_0,z_0)*bb r'(t_0), "<mi//>"=0.]
+grad f(x_0, y_0, z_0),
+grad g(x_0, y_0, z_0),
+grad h(x_0, y_0, z_0)
+C
+P.
+grad f(x_0, y_0, z_0),
+grad g(x_0, y_0, z_0),
+grad h(x_0, y_0, z_0)
+grad g(x_0, y_0, z_0)
+grad h(x_0, y_0, z_0)
+grad g(x_0, y_0, z_0)
+grad h(x_0, y_0, z_0)
+s grad g(x_0, y_0, z_0)+t grad h(x_0, y_0, z_0)
+s
+t.
+lambda
+mu
+grad f(x_0, y_0, z_0) = lambda grad g(x_0, y_0, z_0)+mu grad h(x_0, y_0, z_0).
+f = f(x, y, z)
+g(x, y, z) = c
+h(x, y, z) = k
+[grad f(x,y,z), "<mi//>"=lambda grad g(x,y,z)+mu grad h(x,y,z),], [g(x,y,z), "<mi//>"=c,"\and\ "], [h(x,y,z), "<mi//>"=k.]
+x,
+y,
+z,
+lambda,
+mu.
+f(x, y, z) = x+2y
+y^2+z^2 = 8
+x+y+z = 10.
+lambda.
+f
+g(x, y) = c.
+(x_0, y_0)
+grad f = lambda grad g.
+c,
+x_0 = x_0(c)
+y_0 = y_0(c).
+f
+c
+f(x_0(c), y_0(c)).
+(df)/(dc) = (del f)/(del x_0) (dx_0)/(dc) + (del f)/(del y_0) (dy_0)/(dc) .
+grad f = lambda grad g
+(x_0, y_0)
+(df)/(dc) = lambda(dg)/(dc) .
+g(x, y) = c
+(df)/(dc) = lambda.
+lambda
+f
+c
+f
+c
+lambda = 324
+324
+f = f(x, y)
+g(x, y) = 100
+236.
+grad f = lambda grad g,
+lambda = 15
+f
+g(x, y) = 98.
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+int_0^2 2x(x^2+1)^3 dx,
+u = x^2+1.
+du = 2xdx,
+x = 0
+u = 1
+x = 2
+u = 5,
+x
+u.
+int_0^2 2x(x^2+1)^3 dx = int_1^5 u^3 du.
+["(11.9.1)", I='\\x00222c'_D x^2+y^2 dA,]
+D
+I
+I
+["(11.9.2)", x=rcos(theta)\ "\and\ "\ y=rsin(theta).]
+dA
+rdrd theta.
+[r_1, r_2] xx[theta_1, theta_2]
+P
+[1, 2] xx[pi/6, pi/4],
+r_1 = 1,
+r_2 = 2,
+theta_1 = pi/6,
+theta_2 = pi/4.
+P.
+r
+theta
+x
+y
+P.
+(r_1, theta_1)
+(x_1, y_1),
+(r_2, theta_1)
+(x_2, y_2),
+(r_1, theta_2)
+(x_3, y_3),
+(r_2, theta_2)
+(x_4, y_4).
+(x_1, y_1),
+(x_2, y_2),
+(x_3, y_3),
+(x_4, y_4)
+[r_1, r_2] xx[theta_1, theta_2]
+x = rcos(theta)\ "\and\ "\ y = rsin(theta).
+P
+P'
+r
+theta,
+P
+P'
+P
+T
+T(r, theta) = (rcos(theta), rsin(theta)).
+P
+P'.
+P = [r_1, r_2] xx[theta_1, theta_2],
+P'
+(r_2+r_1)/2 Delta r Delta theta.
+Delta r
+Delta theta
+dA = rdrd theta
+'\\x00222c'_D f(x, y)dA
+x = x(s, t)\ "\and\ "\ y = y(s, t)
+x
+y
+s
+t.
+xy
+st
+x = x(s, t)
+y = y(s, t)
+s
+t
+x
+y;
+s, t
+dA,
+x = s+2t\ "\and\ "\ y = 2s+sqrt(t).
+T = [0, 1] xx[1, 4]
+st
+T
+st
+st
+(0, 1)
+xy
+T:
+(0, 4),
+(1, 1),
+(1, 4).
+xy
+T',
+st
+T.
+T'?
+dA
+T'
+T'
+xy
+T'?
+st
+T = [a, b] xx[a+Delta s, b+Delta t]
+T'
+xy
+T'
+T;
+T
+T'.
+xy
+T'
+dA
+bb v
+bb w,
+bb v
+(x(a, b), y(a, b))
+(x(a+Delta s, b), y(a+Delta s, b)),
+bb w
+(x(a, b), y(a, b))
+(x(a, b+Delta t), y(a, b+Delta t)).
+T'
+xy
+T
+st
+bb v
+[bb v, "<mi//>"='\\x0027e8'x(a+Delta s,b)-x(a,b),y(a+Delta s,b)-y(a,b),0'\\x0027e9']
+bb w
+[bb w, "<mi//>"='\\x0027e8'x(a,b+Delta t)-x(a,b),y(a,b+Delta s)-y(a,b),0'\\x0027e9'.]
+bb v
+bb w,
+[bb v, "<mi//>"='\\x0027e8' (x(a+Delta s,b)-x(a,b))/(Delta s) , (y(a+Delta s,b)-y(a,b))/(Delta s) ,0'\\x0027e9'Delta s,\ and], [bb w, "<mi//>"='\\x0027e8' (x(a,b+Delta t)-x(a,b))/(Delta t) , (y(a,b+Delta s)-y(a,b))/(Delta t) ,0'\\x0027e9'Delta t.]
+Delta s
+Delta t,
+bb v ~~ '\\x0027e8' (del x)/(del s) (a, b), (del y)/(del s) (a, b), 0'\\x0027e9'Delta s\ "\and\ "\ bb w ~~ '\\x0027e8' (del x)/(del t) (a, b), (del y)/(del t) (a, b), 0'\\x0027e9'Delta t.
+bb v
+bb w
+|bb v xx bb w|.
+[bb v xx bb w, "<mi//>"~~'\\x0027e8' (del x)/(del s) (a,b), (del y)/(del s) (a,b),0'\\x0027e9'Delta s xx'\\x0027e8' (del x)/(del t) (a,b), (del y)/(del t) (a,b),0'\\x0027e9'Delta t], [\ , "<mi//>"='\\x0027e8'0,\ 0,\ (del x)/(del s) (a,b) (del y)/(del t) (a,b)- (del x)/(del t) (a,b) (del y)/(del s) (a,b)'\\x0027e9'Delta s Delta t.]
+[|bb v xx bb w|, "<mi//>"~~|'\\x0027e8'0,0, (del x)/(del s) (a,b) (del y)/(del t) (a,b)- (del x)/(del t) (a,b) (del y)/(del s) (a,b)'\\x0027e9'Delta s Delta t|], [\ , "<mi//>"=| (del x)/(del s) (a,b) (del y)/(del t) (a,b)- (del x)/(del t) (a,b) (del y)/(del s) (a,b)|Delta s Delta t.]
+Delta s
+Delta t
+["(11.9.3)", dA=| (del x)/(del s) (del y)/(del t) - (del x)/(del t) (del y)/(del s) |dsdt.]
+'\\x00222c'_T f(x, y)dydx = '\\x00222c'_(T')f(x(s, t), y(s, t))| (del x)/(del s) (del y)/(del t) - (del x)/(del t) (del y)/(del s) |dsdt.
+(del x)/(del s) (del y)/(del t) - (del x)/(del t) (del y)/(del s)
+(del(x,y))/(del(s,t)) = (del x)/(del s) (del y)/(del t) - (del x)/(del t) (del y)/(del s) .
+2 xx 2
+[[ (del x)/(del s) , (del x)/(del t) ], [ (del y)/(del s) , (del y)/(del t) ]].
+[[ (del x)/(del s) , (del x)/(del t) ], [ (del y)/(del s) , (del y)/(del t) ]]
+bb v
+bb w,
+dA
+xy
+| (del(x,y))/(del(s,t)) |dsdt
+st
+| (del(x,y))/(del(s,t)) |
+x = x(s, t)
+y = y(s, t)
+R
+st
+R'
+xy
+'\\x00222c'_(R')f(x, y)dA = '\\x00222c'_R f(x(s, t), y(s, t))| (del(x,y))/(del(s,t)) |dsdt.
+x = rcos(theta),
+y = rsin(theta),
+(del x)/(del r) (del y)/(del theta) - (del x)/(del theta) (del y)/(del r) .
+D'
+xy
+y = 0,
+x = 0,
+x+y = 1.
+["(11.9.4)", '\\x00222c'_(D')sqrt(x+y)(x-y)^2 dA]
+D'
+xy
+s = x+y
+t = x-y.
+s
+t.
+s = x+y
+t = x-y
+x
+y.
+x
+s
+t,
+y
+s
+t.
+st
+D
+xy
+D'.
+st
+xy
+x+y = 1?
+st
+xy
+x = 0?
+st
+xy
+y = 0?
+st
+D
+xy
+D'.
+s = x+y
+t = x-y
+st
+S'
+xyz
+RR^3,
+x = x(s, t, u),
+y = y(s, t, u),
+z = z(s, t, u)
+S'
+S
+stu
+f = f(x, y, z)
+S'
+f = f(x(s, t, u), y(s, y, u), z(s, t, u))
+stu
+S.
+dV
+xyz
+stu
+(del(x,y,z))/(del(s,t,u)) ,
+3 xx 3
+[[ (del x)/(del s) , (del x)/(del t) , (del x)/(del u) ], [ (del y)/(del s) , (del y)/(del t) , (del y)/(del u) ], [ (del z)/(del s) , (del z)/(del t) , (del z)/(del u) ]].
+(del(x,y,z))/(del(s,t,u))
+(del x)/(del s) [ (del y)/(del t) (del z)/(del u) - (del y)/(del u) (del z)/(del t) ]- (del x)/(del t) [ (del y)/(del s) (del z)/(del u) - (del y)/(del u) (del z)/(del s) ]+ (del x)/(del u) [ (del y)/(del s) (del z)/(del t) - (del y)/(del t) (del z)/(del s) ].
+x = x(s, t, u),
+y = y(s, t, u),
+z = z(s, t, u)
+S
+stu
+S'
+xyz
+'\\x00222d'_(S')f(x, y, z)dV
+'\\x00222d'_S f(x(s, t, u), y(s, t, u), z(s, t, u))\ | (del(x,y,z))/(del(s,t,u)) |dsdtdu.
+x = rcos(theta),
+y = rsin(theta),
+z = z,
+(del(x,y,z))/(del(r, theta,z)) .
+S'
+0 <= x <= 2,
+x/2 <= y <= x/2+1,
+0 <= z <= 6.
+s = x/2,
+t = (x-2y)/2,
+u = z/3.
+f(x, y, x) = x-2y+z.
+S'
+xyz
+S
+stu
+S'
+stu
+S.
+(del(x,y,z))/(del(s,t,u)) .
+'\\x00222d'_(S')f(x, y, z)dV
+'\\x00222d'_S f(x(s, t, u), y(s, t, u), z(s, t, u))\ | (del(x,y,z))/(del(s,t,u)) |dsdtdu.
+| (del(x,y))/(del(s,t)) |,
+x = 8s+2t, y = 3s+3t
+| (del(x,y))/(del(s,t)) | =
+(del(x,y,z))/(del(s,t,u)) ,
+x = 4t-5s+3u, y = u-(5s+t), z = 5t-4s-4u.
+(del(x,y,z))/(del(s,t,u)) =
+T:x = 12/37 u-35/37 v, \ y = 35/37 u+12/37 v
+(del(x,y))/(del(u,v)) =
+S:-37 <= u <= 37, -37 <= v <= 37
+T(S)
+T
+int int_(T(S))\ x^2+y^2\ dA
+s = y,
+t = y-x^2
+int int_R xdxdy
+R
+y = 0,
+y = 4,
+y = x^2,
+y = x^2-3.
+int int_R xdxdy =
+s = x+2y,
+t = y
+x^2+4xy+5y^2 <= 1.
+s = xy,
+t = xy^2
+int_R xy^2 dA,
+R
+xy = 2, \ xy = 5, \ xy^2 = 2, \ xy^2 = 5.
+int_R xy^2 dA =
+a
+b
+s = ax, t = by
+int int_R dxdy
+int int_T| (del(x,y))/(del(s,t)) |dsdt
+R,
+0 <= x <= 45,
+0 <= y <= 20
+T,
+0 <= s, t <= 1.
+a =
+b =
+| (del(x,y))/(del(s,t)) |
+| (del(x,y))/(del(s,t)) | =
+a
+s = x+ay, t = y
+int int_R dxdy
+R
+xy
+(0, 0),
+(24, 0),
+(-32, 5),
+(-8, 5)
+int int_T| (del(x,y))/(del(s,t)) |dsdt
+T
+st
+a =
+| (del(x,y))/(del(s,t)) |
+| (del(x,y))/(del(s,t)) | =
+x = 5s+t,
+y = s-2t
+int_R(x+y)dA,
+R
+(x, y) = (0, 0),
+(5, 1),
+(6, -1),
+(1, -2).
+| (del(x,y))/(del(s,t)) | =
+a =
+b =
+c =
+d =
+int_R(x+y)dA = int_a^b int_c^d(
+s+
+t+
+)dtds
+D'
+xy
+(3, 3),
+(4, 5),
+(5, 4),
+(6, 6).
+D'
+xy
+'\\x00222c'_(D')(x+y)dA.
+x = 2u+v,
+y = u+2v.
+u
+v
+x
+y.
+D,
+uv
+D',
+xy
+uv
+(3, 3)
+xy
+u
+v
+xy
+'\\x00222c'_(D')(x+y)dA.
+uv
+x(rho, theta, varphi) = rho sin(varphi)cos(theta)\ y(rho, theta, varphi) = rho sin(varphi)sin(theta)\ z(rho, theta, varphi) = rho cos(varphi),
+(x^2)/(a^2) + (y^2)/(b^2) + (z^2)/(c^2) = 1.
+x,
+y,
+z
+x = as,
+y = bt,
+z = cu
+s,
+t,
+u.
+x = rcos(theta)
+y = rsin(theta)
+T
+T(r, theta) = (rcos(theta), rsin(theta))
+T
+RR^2
+RR^2.
+xy
+r
+theta
+r theta
+xy
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+RR^2
+RR^3.
+RR^3,
+RR^2
+RR^3
+(r, theta, z)
+r
+theta
+(x, y)
+z
+z
+(-1, sqrt(3), 3).
+(2, (5 pi)/4, 1).
+RR^3
+rho
+theta,
+varphi
+rho
+theta
+varphi
+z
+RR^3
+rho >= 0,
+0 <= theta < 2 pi,
+0 <= varphi <= pi.
+P
+(-2, 2, sqrt(8)).
+P
+rho
+P.
+P
+xy
+theta
+P
+theta
+varphi
+rho
+z
+P?
+varphi,
+P.
+rho,
+theta,
+varphi
+P.
+(x, y, z)
+Q,
+rho,
+theta,
+varphi
+Q
+x,
+y,
+z?
+(r, theta, z),
+r
+theta
+(x, y),
+z
+z
+z
+RR^3
+(x, y, z)
+P,
+(r, theta, z)
+P
+x = rcos(theta)\ y = rsin(theta)\ "\and\ "\ z = z.
+(r, theta, z)
+P,
+(x, y, z)
+P
+r^2 = x^2+y^2\ tan(theta) = y/x\ "\and\ "\ z = z,
+x != 0.
+z
+x
+y
+z
+r
+theta.
+r = 2,
+0 <= theta <= 2 pi,
+0 <= z <= 2?
+theta
+0 <= theta <= pi?
+theta = 2,
+0 <= r <= 2,
+0 <= z <= 2?
+z = 2,
+0 <= theta <= 2 pi,
+0 <= r <= 2?
+z = r,
+0 <= theta <= 2 pi
+0 <= r <= 2.
+z = theta
+0 <= theta <= 4 pi.
+'\\x00222d'_S f(x, y, z)dV
+dV
+dzdydx
+dV
+B = {(r, theta, z):r_1 <= r <= r_2, theta_1 <= theta <= theta_2, z_1 <= z <= z_2},
+Delta r = r_2-r_1,
+Delta theta = theta_2-theta_1,
+Delta z = z_2-z_1.
+Delta V
+B
+Delta r,
+Delta theta,
+Delta z,
+r,
+theta,
+z.
+Delta r,
+Delta theta,
+Delta z
+Delta A
+B,
+xy
+Delta A
+r,
+Delta r,
+Delta theta.
+Delta A
+z
+z
+Delta V
+dV
+dV = rdzdrd theta,
+f = f(x, y, z)
+S
+RR^3,
+'\\x00222d'_S f(x, y, z)dV = '\\x00222d'_S f(rcos(theta), rsin(theta), z)rdzdrd theta.
+theta,
+r,
+z.
+S
+z = x^2+y^2
+z = 0
+xy
+S
+xy
+S
+S.
+r = 1-z,
+z >= 0,
+delta(r, theta, z) = z.
+xy
+r = 1-z
+xy
+z = sqrt(x^2+y^2)
+z = 4-sqrt(x^2+y^2).
+z = sqrt(x^2+y^2)
+z = 4-sqrt(x^2+y^2).
+(rho, theta, varphi),
+rho
+theta
+varphi
+z
+(x, y, z)
+P,
+(rho, theta, varphi)
+P
+rho = sqrt(x^2+y^2+z^2)\ tan(theta) = y/x\ "\and\ "\ cos(varphi) = z/rho,
+x != 0
+rho != 0.
+(rho, theta, varphi)
+P,
+(x, y, z)
+P
+x = rho sin(varphi)cos(theta)\ y = rho sin(varphi)sin(theta)\ "\and\ "\ z = rho cos(varphi).
+rho
+theta
+varphi;
+theta.
+rho
+theta
+varphi,
+rho = 1,
+0 <= theta <= 2 pi,
+0 <= varphi <= pi?
+varphi
+0 <= varphi <= pi/2?
+varphi = pi/3,
+0 <= rho <= 1,
+0 <= theta <= 2 pi?
+theta = pi/6,
+0 <= rho <= 1,
+0 <= varphi <= pi?
+rho = theta,
+0 <= varphi <= pi
+0 <= theta <= 2 pi.
+'\\x00222d'_S f(x, y, z)dV
+dV.
+dV
+rho_1 <= rho <= rho_2
+Delta rho = rho_2-rho_1),
+varphi_1 <= varphi <= varphi_2
+Delta varphi = varphi_2-varphi_1
+theta_1 <= theta <= theta_2
+Delta theta = theta_2-theta_1
+Delta V
+Delta V
+Delta V ~~ |PS|\ |overset(frown)(PR)|\ |overset(frown)(PQ)|,
+|overset(frown)(PR)|
+P
+R.
+|PS|
+rho?
+overset(frown)(PR)?
+overset(frown)(PR)
+rho_2,
+overset(frown)(PQ)?
+overset(frown)(PQ)
+Delta V
+Delta rho,
+Delta theta,
+Delta varphi
+dV = rho^2 sin(varphi)d rho d theta d varphi
+f = f(x, y, z)
+S
+RR^3,
+'\\x00222d'_S f(x, y, z)dV
+'\\x00222d'_S f(rho sin(varphi)cos(theta), rho sin(varphi)sin(theta), rho cos(varphi)) rho^2 sin(varphi)d rho d theta d varphi
+varphi,
+theta,
+rho.
+a
+rho = a.
+a.
+varphi = pi/4
+rho = 2
+delta
+(x, y, z)
+delta(x, y, z) = sqrt(x^2+y^2+z^2).
+rho = 2
+varphi = pi/4.
+P
+(r, theta, z)
+r
+P
+xy
+theta
+P
+xy
+x
+z
+P
+P
+xy
+P
+(x, y, z),
+r^2 = x^2+y^2, \ tan(theta) = y/x, \ z = z.
+P
+(r, theta, z),
+x = rcos(theta), \ y = rsin(theta), \ z = z.
+dV
+dV = rdzdrd theta.
+'\\x00222d'_S f(x, y, z)dA
+'\\x00222d'_S f(rcos(theta), rsin(theta), z)rdzdrd theta.
+P
+rho
+theta,
+varphi
+rho
+P
+theta
+P
+xy
+x
+varphi
+z
+P.
+P
+(x, y, z),
+rho^2 = x^2+y^2+z^2, \ tan(theta) = y/x, \ cos(varphi) = z/rho.
+P
+(rho, varphi, theta),
+x = rho sin(varphi)cos(theta), \ y = rho sin(varphi)sin(theta), \ z = rho cos(varphi).
+dV
+dV = rho^2 sin(varphi)d rho d theta d varphi.
+'\\x00222d'_S f(x, y, z)dA
+'\\x00222d'_S f(rho sin(varphi)cos(theta), rho sin(varphi)sin(theta), rho cos(varphi)) rho^2 sin(varphi)d rho d theta d varphi.
+(r = 6, \ theta = (5 pi)/9, \ z = 6)
+(3, -1/6 pi, -1/3 pi)
+x =
+y =
+z =
+(4, \ -5, \ (4 pi)/6)
+r
+theta
+z
+z = x^2+y^2
+rho,
+varphi
+theta,
+rho cos(varphi) = 4
+varphi = pi/3
+z = r^2
+rho = 2cos(varphi)
+r = 4
+theta = pi/3
+rho = 4
+r^2+z^2 = 16
+r = 2cos(theta)
+int int int_E\ z^2\ dV
+-2 <= z <= 2, \ 1 <= x^2+y^2 <= 2
+int int_D\ 1/(x^2+y^2) \ dA
+x^2+y^2 <= 4
+int int int_E\ z\ dV
+1 <= x <= 2, \ 3 <= y <= 4, \ 5 <= z <= 6
+int int int_E\ dV
+x^2+y^2+z^2 <= 4, \ x >= 0, \ y >= 0, \ z >= 0
+int_0^1 int_0^(y^2)\ 1/x\ dx\ dy
+int_0^3 int_(-sqrt(9-x^2))^(sqrt(9-x^2)) int_(-sqrt(9-x^2-z^2))^(sqrt(9-x^2-z^2)) 1/((x^2+y^2+z^2)^(1//2)) dydzdx
+int int int_bb E sqrt(x^2+y^2)dV,
+z = 4-1(x^2+y^2)
+xy
+int int int_bb E x^2+y^2+z^2 dV,
+x^2+y^2+z^2 <= 16.
+z = 4(x^2+y^2)
+z = 18-4(x^2+y^2).
+x^2+y^2+7z^2 = 25.
+delta,
+x^2+y^2 <= 16,
+0 <= z <= 5
+r,
+z
+delta = 3+r"\g"//"cm"^3.
+x, y, z
+f(x, y, z) = 1/(sqrt(x^2+y^2+z^2))
+W
+5.
+rho
+varphi
+theta
+'\\x00222d'_WfdV = int_A^B int_C^D int_E^F
+d rho d varphi d theta
+x^2+y^2+z^2 = 4
+z = 1,
+z
+x
+x,
+y,
+z
+delta(x, y, z) = 1/(1+x^2+y^2+z^2) .
+xy
+rho = 2,
+varphi = pi//3.
+z
+z = sqrt(sqrt(x^2+y^2)),
+x^2+y^2 = 4,
+xy
+x^2+y^2+z^2 = 1
+x^2+y^2+z^2 = 2z.
+int_0^1 int_0^(sqrt(1-x^2)) int_(sqrt(x^2+y^2))^(sqrt(2-x^2-y^2))xydzdydx
+int_0^(pi//2) int_0^ pi int_0^1 rho^2 sin(varphi)d rho d varphi d theta
+int_0^(2 pi) int_0^1 int_r^1 r^2 cos(theta)dzdrd theta
+S
+z = 16-x^2-y^2
+z = 3x^2+3y^2.
+RR^3
+x
+y,
+xy
+z
+S.
+z
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb F
+bb F
+R
+0.
+bb F = '\\x0027e8'2y, 3x^2 y'\\x0027e9',
+xy
+bb F
+C
+2,
+(0, 0),
+bb F
+bb F
+C.
+C
+bb F = '\\x0027e8'F_1(x, y), F_2(x, y)'\\x0027e9'
+"Circulation Density at the point\ "(a, b) = (del F_2)/(del x) (a, b)- (del F_1)/(del y) (a, b)
+bb F = '\\x0027e8'2y, 3x^2 y'\\x0027e9'?
+C
+C
+(del F_2)/(del x) - (del F_1)/(del y)
+C.
+theta
+r
+bb F
+C
+R
+C
+R
+R
+R
+R
+C_i
+R_i
+R_1
+R_2
+oint_(C_1)bb F*dbb r
+oint_(C_2)bb F*dbb r.
+oint_(C_1)bb F*dbb r+oint_(C_2)bb F*dbb r.
+oint_(C_1)bb F*dbb r+oint_(C_2)bb F*dbb r
+bb F
+R
+oint_C bb F*dbb r.
+R
+oint_C bb F*dbb r = sum_(R_i) oint_(C_i)bb F*dbb r
+C_i
+R_i.
+Delta R_i
+R_i
+C_i,
+[oint_C bb F*dbb r, "<mi//>"=lim_(Delta R_i->0) sum_(R_i) oint_(C_i)bb F*dbb r], [\ , "<mi//>"=lim_(Delta R_i->0) sum_(R_i)( (del F_2)/(del x) - (del F_1)/(del y) ) Delta R_i.]
+(del F_2)/(del x) - (del F_1)/(del y)
+R.
+C
+R
+C
+C
+R
+bb F = '\\x0027e8'F_1, F_2'\\x0027e9'
+R
+C.
+bb F
+C
+oint_C bb F*dbb r = '\\x00222c'_R( (del F_2)/(del x) - (del F_1)/(del y) )dA.
+1 <= x <= 4
+2 <= y <= 4,
+bb F = '\\x0027e8'x^2-xy, y^2-2x'\\x0027e9'
+C
+bb F = '\\x0027e8'x^2-xy, y^2-2x'\\x0027e9'
+-2+x,
+R.
+['\\x00222c'_R( (del F_2)/(del x) - (del F_1)/(del y) )dA, "<mi//>"=int_2^4 int_1^4(-2+x)dxdy], [\ , "<mi//>"=int_2^4[-2x+x^2//2]_(x=1)^(x=4)dy], [\ , "<mi//>"=int_2^4 3/2 dy], [\ , "<mi//>"=3]
+bb F
+[bb r_("bottom")(t), "<mi//>"='\\x0027e8'1+3t,2'\\x0027e9'], [bb r_("right")(t), "<mi//>"='\\x0027e8'4,2+2t'\\x0027e9'], [bb r_("top")(t), "<mi//>"='\\x0027e8'4-3t,4'\\x0027e9'], [bb r_("left")(t), "<mi//>"='\\x0027e8'1,4-2t'\\x0027e9']
+0 <= t <= 1.
+[int_("bottom")bb F*dbb r, "<mi//>"=int_0^1((1+3t)^2-(1+3t)(2))3dt=6], [int_("right")bb F*dbb r, "<mi//>"=int_0^1((2+2t)^2-(2)(4))2dt=8//3], [int_("top")bb F*dbb r, "<mi//>"=int_0^1((4-3t)^2-(4-3t)(4))(-3)dt=9], [int_("left")bb F*dbb r, "<mi//>"=int_0^1((4-2t)^2-(2)(1))(-2)dt=-44//3]
+oint_C bb F*dbb r = 3 = '\\x00222c'_R( (del F_2)/(del x) - (del F_1)/(del y) )dA
+C_1
+3
+(2, 1)
+bb F = '\\x0027e8'y^2, 5x+2xy'\\x0027e9'.
+C_2
+(0, 0),
+(3, 0),
+(3, 3)
+bb G = '\\x0027e8'y^2, 3xy'\\x0027e9'.
+'\\x0027e8'F_1, F_2'\\x0027e9'
+del F_2//del x-del F_1//del y
+R
+C
+R
+C.
+R
+bb F
+bb F = (-y)/(x^2+y^2) bb i+x/(x^2+y^2) bb j.
+bb F
+(0, 0).
+C
+(0, 0)
+(0, 0).
+bb F
+bb F
+C
+oint_C bb F*dbb r?
+bb F
+bb F
+C?
+bb G = x/(x^2+y^2) bb i+y/(x^2+y^2) bb j,
+bb G
+C
+oint_C bb G*dbb r.
+C
+C.
+int_C(5(x^2-y) vec i+7(y^2+x) vec j)*d vec r
+C
+(x-1)^2+(y-2)^2 = 25
+int_C(5(x^2-y) vec i+7(y^2+x) vec j)*d vec r =
+C
+(x-a)^2+(y-b)^2 = R^2
+xy
+int_C(5(x^2-y) vec i+7(y^2+x) vec j)*d vec r =
+vec F = 14xe^y vec i+7x^2 e^y vec j
+vec G = 14(x-y) vec i+7(x+y) vec j.
+C
+(0, 0)
+(6, 0)
+(6, 3)
+(0, 0).
+int_C vec F*d vec r =
+int_C vec G*d vec r =
+vec F(x, y) = (4x-2y) vec i+5x vec j
+C
+3
+pi//3.
+vec F
+C.
+vec F = (9x^2 y+3y^3+4e^x) vec i+(4e^(y^2)+324x) vec j.
+vec F
+a,
+a = 1.
+a
+a =
+vec F = 5y vec i+5x vec j,
+vec G = (2y)/(x^2+y^2) vec i+ (-2x)/(x^2+y^2) vec j,
+vec H = (4x)/(sqrt(x^2+y^2)) vec i+ (4y)/(sqrt(x^2+y^2)) vec j
+vec F,
+f(x, y) =
+vec G,
+g(x, y) =
+vec H,
+h(x, y) =
+vec F, vec G, vec H
+C
+xy
+int_C vec F*d vec r =
+int_C vec G*d vec r =
+int_C vec H*d vec r =
+R
+'\\x00222c'_R 1dA.
+bb F
+bb F
+1
+bb F = '\\x0027e8'F_1, F_2'\\x0027e9'
+del F_2//del x-del F_1//del y = 1.
+a, b,
+x^2//a^2+y^2//b^2 = 1
+bb r(t) = '\\x0027e8'acos(t), bsin(t)'\\x0027e9'
+0 <= t <= 2 pi.
+bb G
+1
+bb G
+1
+RR^2
+D
+RR^2
+D
+D
+D
+D.
+R
+C = C_1+C_2,
+C
+C,
+R
+bb F
+R
+C.
+oint_C bb F*dbb r
+R_1
+R_2.
+bb F = (-y)/(x^2+y^2) bb i+x/(x^2+y^2) bb j
+bb F
+2 pi.
+C
+oint_C bb F*dbb r = 2 pi.
+R
+C
+C_1.
+D
+A
+bar x = 1/A'\\x00222c'_D xdA\ and\ bar y = 1/A'\\x00222c'_D ydA.
+bb F
+bb G
+bar x = oint_C bb F*dbb r\ and\ bar y = oint_C bb G*dbb r,
+C
+D.
+(0, 0),
+(a, 0),
+(0, b)
+a, b > 0.
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+C,
+C
+int_C bb F*dbb r
+C.
+f
+x,
+y,
+z
+C,
+P
+Q.
+f
+C
+C
+P = bb r_0, bb r_1, ..., bb r_n-1, bb r_n = Q.
+C_i
+C
+bb r_(i-1)
+bb r_i
+Delta bb r_i
+bb r_(i-1)
+bb r_i
+bb r_i
+f
+C
+sum_(i=1)^n f(bb r_i^** )|bb r_i-bb r_(i-1)|,
+f(r_i^** )
+f
+bb r_i^**in C_i.
+|Delta bb r_i| -> 0
+f
+C.
+bb r_i^**
+f
+C_i
+f
+C.
+C
+P
+Q
+f
+x,
+y,
+z
+C.
+f
+C
+int_C fds = lim_(n->oo) sum_(i=1)^n f(bb r_i^** )|bb r_i-bb r_(i-1)|
+bb r_i
+P = bb r_0, bb r_1, ..., bb r_n-1, bb r_n = Q
+n -> oo
+bb r_(i-1)
+bb r_i
+int_C fds
+f
+C
+int_C fds
+f,
+ds
+s
+ds
+f
+x,
+y,
+z,
+|bb r_(i+1)-bb r_i|
+dA
+dA.
+dA = rdrd theta
+C
+y = x^2
+-1 <= x <= 2.
+RR^2.
+f(x, y) = x
+g(x, y) = -y
+h(x, y) = y-x^2
+C
+int_C fds.
+f
+C
+f
+C.
+C
+0 <= x <= 2
+f,
+-1 <= x <= 0,
+f.
+f
+f
+int_C fds
+f
+C
+f
+C
+x = 0
+x = 1
+int_C fds
+C_1,
+C_2,
+C_3,
+C = C_1+C_2+C_3.
+C_1
+C_2.
+C_1
+C_2
+f.
+int_(C_1)fds = -int_(C_2)fds
+[int_C fds, "<mi//>"=int_(C_1)fds+int_(C_2)fds+int_(C_3)fds], [\ , "<mi//>"=-int_(C_2)fds+int_(C_2)fds+int_(C_3)fds], [\ , "<mi//>"=int_(C_3)fds.]
+C
+f
+int_(C_1)fds = -int_(C_2)fds
+C_1
+C_2
+f
+int_C fds = int_(C_3)fds
+int_(C_3)fds
+f
+C_3,
+int_C fds = int_(C_3)fds > 0.
+int_C gds
+g
+C
+g(bb r_i^** )
+|bb r_i-bb r_(i-1)|
+int_C gds < 0.
+int_C hds
+h
+C.
+g(x, y) = y-x^2
+g
+C
+C,
+y
+x
+h(bb r_i^** )
+int_C hds = 0.
+f_1,
+f_2,
+f_3,
+f_4
+f_1(x, y, z) = y
+f_2(x, y, z) = z
+f_3(x, y, z) = x^2
+f_4(x, y, z) = x-y
+C_1
+xy
+y = -x;
+x^2+y^2 = 1
+z = x,
+y >= -x
+C_2
+x^2+y^2 = 1
+z = x
+y >= -x;
+x^2+y^2 = 1
+z = x,
+y >= -x
+C_3
+bb r(t) = '\\x0027e8'cos(t), sin(t), t/(2 pi) '\\x0027e9'
+t in[0, pi]
+f_1,
+f_2,
+f_3
+int_(C_1)f_i ds
+f_1,
+f_2,
+f_3,
+int_(C_2)f_i ds
+f_1,
+f_2,
+f_3,
+int_(C_3)f_i ds
+f_4,
+f_4.
+[int_(C_1)f_4 ds], [int_(C_2)f_4 ds], [int_(C_3)f_4 ds,]
+int_C fds
+t.
+C
+bb r(t) = '\\x0027e8'f(t), g(t), h(t)'\\x0027e9'
+t
+[a, b]
+C,
+[a, b]
+a = t_0, t_1, ..., t_n = b
+t_i = a+i(Delta t)
+Delta t = (b-a)/n.
+t,
+C
+r(t_i)
+C
+f(bb r_i^** ) = f(bb r(t_i^** )) = f(t_i^** )
+t_(i-1) <= t_i^** <= t_i.
+t,
+|Delta bb r_i|
+|bb r_i-bb r_(i-1)| = |bb r(t_i)-bb r(t_(i-1))| = (|bb r(t_i)-bb r(t_(i-1))|)/(Delta t) Delta t
+[int_C fds, "<mi//>"=lim_(n->oo) sum_(i=1)^n f(bb r_i^** )|bb r_i-bb r_(i-1)|], [\ , "<mi//>"=lim_(n->oo) sum_(i=1)^n f(t_i^** ) (|r(t_(i-1)+Delta t)-r(t_(i-1))|)/(Delta t) Delta t.]
+t,
+f(t)v(t)
+v(t) = |bb r'(t)|.
+v(t)
+bb r.
+C
+r(t)
+a <= t <= b.
+f(x, y, z)
+C,
+int_C fds = int_a^b f(bb r(t))|bb r'(t)|dt.
+C_1
+xy
+y = -x.
+f_1(x, y, z) = y.
+C_1
+bb r(t) = '\\x0027e8'cos(t), sin(t), 0'\\x0027e9'
+-pi/4 <= t <= (3 pi)/4.
+|bb r'(t)| = |'\\x0027e8'-sin(t), cos(t), 0'\\x0027e9'| = 1.
+f_1
+C_1
+f_1(x(t), y(t), z(t)) = f_1(cos(t), sin(t), 0) = sin(t).
+int_(C_1)f_1 ds = int_(-pi/4)^( (3 pi)/4)sin(t)(1)dt = -cos( (3 pi)/4)-(-cos(-pi/4))) = sqrt(2).
+f_1
+C_1
+C_1
+x
+f_1
+int_(C_1)f_1 ds
+f_1(x, y, z) = y
+f_1
+f_3(x, y, z) = x-y
+C_1
+xy
+y = -x.
+f_3(x, y, z) = x-y.
+C_1
+bb r(t) = '\\x0027e8'cos(t), sin(t), 0'\\x0027e9'
+-pi/4 <= t <= (3 pi)/4].
+|bb r'(t)| = |'\\x0027e8'-sin(t), cos(t), 0'\\x0027e9'| = 1.
+f_3
+C_1
+f_3(x(t), y(t), z(t)) = f_3(cos(t), sin(t), 0) = cos(t)-sin(t).
+[int_(C_1)f_3 ds, "<mi//>"=int_(-pi/4)^( (3 pi)/4)(cos(t)-sin(t))(1)dt], [\ , "<mi//>"=sin( (3 pi)/4)-cos( (3 pi)/4)-(sin(-pi/4)-cos(-pi/4))=0]
+f_3
+C_1
+f_3
+f_3
+C_1
+C_1
+C_2
+f(x, y) = x
+C_1
+C_2
+C_1
+C_2
+bb r_1(t)
+bb r_2(t).
+0 <= t <= 1
+int_(C_1)fds
+int_(C_2)fds.
+int_(C_1+C_2)fds = int_(C_1)fds+int_(C_2)fds.
+int_(C_1+C_2)fds.
+x
+x
+C_1
+C_2
+x
+C_1
+-1
+0
+x
+C_2
+0
+1,
+int_(C_1)xds
+int_(C_2)xds
+C_1
+C_2
+C_1
+C_2
+C_1
+P
+Q
+C_2
+Q
+R,
+C_1+C_2
+P
+R
+C_1
+Q
+C_2
+R.
+C
+-C
+k,
+f
+g,
+C,
+C_1,
+C_2,
+int_C(kf)ds = k int_C fds
+int_C(f+g)ds = int_C fds+int_C gds
+int_(-C)fds = int_C fds
+int_(C_1+C_2)fds = int_(C_1)fds+int_(C_2)fds
+int_C fds
+int_C(kf)ds = k int_C fds
+int_C(f+g)ds = int_C fds+int_C gds
+int_(-C)fds = int_C fds
+int_(C_1+C_2)fds = int_(C_1)fds+int_(C_2)fds
+f(x, y, z) = x-y
+f(x, y, z) = x-y
+f(x, y, z) = x-y
+int_C fds,
+f
+C.
+int_C(7x+8y)ds,
+C
+xy
+P = (2, 0)
+Q = (0, 4).
+vec r(t)
+C
+P
+Q
+t = 0
+t = 1,
+vec r(t) =
+int_C(7x+8y)ds = int_a^b
+dt
+a =
+b =
+int_C(7x+8y)ds =
+C
+(x/3)^2+(y/3)^2 = 1
+int_C(9x-2y)ds =
+int_C fds
+f(x, y) = (y^3)/(x^7)
+C
+y = 1/4 x^4
+1 <= x <= 2.
+C
+P
+Q
+C_1,
+C_2,
+C_3
+f
+int_C fds = 13,
+int_(C_1)fds = 5,
+int_(C_3)fds = 9.
+int_(-C_3)fds
+int_(C_2)fds
+int_(-C_1-C_3)fds
+C
+x = y
+-1 >= y >= 2:
+int_C(y^2-2x)ds
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb F
+C
+"curl"(bb F)
+C
+"curl"(bb F)
+RR^3,
+Y,
+B,
+M.
+Y+M
+Y-M
+-M
+Y
+B,
+Y,
+M.
+C_1 = M+B
+C_2 = Y-B.
+C_1+C_2.
+C_1+C_2
+C_1
+C_2.
+int_(C_1)bb F*dbb r,
+int_(C_2)bb F*dbb r,
+int_(C_1+C_2)bb F*dbb r.
+C
+C
+C.
+z
+'\\x0027e8'cos(t), sin(t), cos(2t)'\\x0027e9'
+0 <= t <= 2 pi.
+C_3 = Y+M.
+C_3
+C_3
+x^2-y^2 = z
+z = x^4-y^4
+z = 1-2y^2
+z = -cos(pi sqrt(x^2+y^2))(x^2-y^2)
+RR^3
+S
+RR^3
+bb n
+C.
+C
+C
+bb n,
+S.
+bb k.
+C
+S
+C
+bb n
+S
+C
+bb n.
+S
+C
+RR^2
+oint_C bb F*dbb r
+C
+S
+bb n.
+S.
+RR^3
+bb v,
+("curl"(bb F)(a, b, c))*bb v
+bb F
+(a, b, c)
+bb v.
+bb v
+S
+(a, b, c),
+bb F
+S
+(a, b, c).
+'\\x00222c'_D "curl"(bb F)*(bb r_s xx bb r_t)dA,
+bb r(s, t)
+D
+S.
+S
+RR^3
+C
+bb F
+S
+C.
+bb r(s, t)
+D
+S
+C
+C
+bb r_s xx bb r_t
+S.
+bb F
+C
+"curl"(bb F)
+S.
+oint_Cbb F*dbb r = '\\x00222c'_D("curl"(bb F))*(bb r_s xx bb r_t)dA.
+bb F = '\\x0027e8'z-x, y+z, xy'\\x0027e9'
+bb F = '\\x0027e8'z-x, y+z, xy'\\x0027e9'
+C
+bb r(t) = '\\x0027e8'cos(t), sin(t), cos(2t)'\\x0027e9'
+0 <= t <= 2 pi.
+bb r'(t) = '\\x0027e8'-sin(t), cos(t), -2sin(2t)'\\x0027e9'.
+[int_C bb F*dbb r=, "<mi//>" int_0^(2 pi)'\\x0027e8'cos(2t)-cos(t),sin(t)+cos(2t),cos(t)sin(t)'\\x0027e9'], [\ , \ *'\\x0027e8'-sin(t),cos(t),-2sin(2t)'\\x0027e9'dt]
+[int_C bb F*dbb r=, "<mi//>" int_0^(2 pi)2cos(t)sin(t)dt], [\ , "<mi//>"-int_0^(2 pi)cos(2t)sin(t)dt], [\ , "<mi//>"+int_0^(2 pi)cos(2t)cos(t)dt], [\ , "<mi//>"-int_0^(2 pi)2cos(t)sin(t)sin(2t)dt], [\ , "<mi//>"=0-0+0-pi=-pi]
+bb F
+C_3
+-pi.
+"curl"(bb F)
+C.
+z = 1-2y^2
+C
+bb r(s, t) = '\\x0027e8'scos(t), ssin(t), 1-2s^2 sin(t)^2'\\x0027e9'
+0 <= s <= 1
+0 <= t <= 2 pi.
+z = 1-2y^2
+C
+[bb r_s(s,t), "<mi//>"='\\x0027e8'cos(t),sin(t),-4ssin(t)^2'\\x0027e9'], [bb r_r(s,t), "<mi//>"='\\x0027e8'-ssin(t),scos(t),-4s^2 sin(t)cos(t)'\\x0027e9'], [bb w=bb r_s xx bb r_t, "<mi//>"='\\x0027e8'-4s^2 sin(t)^2 cos(t)+4s^2 sin(t)^2 cos(t),], [\ , \ 4s^2 cos(t)^2 sin(t)+4s^2 sin(t)^2 sin(t),scos(t)^2+ssin(t)^2'\\x0027e9'], [\ , "<mi//>"='\\x0027e8'0,4s^2 sin(t),s'\\x0027e9']
+bb r_s xx bb r_t dA = '\\x0027e8'0, 4ssin(t), 1'\\x0027e9'sdsdt.
+dA = sdsdt.
+bb r_s xx bb r_t
+z = f(x, y),
+bb r_s xx bb r_t dA
+'\\x0027e8'- (del f)/(del x) , - (del f)/(del y) , 1'\\x0027e9'dA.
+bb F.
+bb F = '\\x0027e8'z-x, y+z, xy'\\x0027e9',
+"curl"(bb F) = '\\x0027e8'x-1, 1-y, 0'\\x0027e9'
+s
+t
+"curl"(bb F)(s, t) = '\\x0027e8'scos(t)-1, 1-ssin(t), 0'\\x0027e9'.
+int_0^1 int_0^(2 pi)'\\x0027e8'scos(t)-1, 1-ssin(t), 0'\\x0027e9'*'\\x0027e8'0, 4ssin(t), 1'\\x0027e9'sdtds.
+int_0^1 int_0^(2 pi)-4s^3 sin(t)^2+4s^2 sin(t)dtds = -pi,
+C.
+C
+z = x^2-y^2,
+bb r(s, t) = '\\x0027e8'scos(t), ssin(t), s^2(cos(t)^2-sin(t)^2)'\\x0027e9'
+0 <= s <= 1
+0 <= t <= 2 pi.
+cos(2t) = cos(t)^2-sin(t)^2
+s^2 cos(2t).
+[bb r_s(s,t), "<mi//>"='\\x0027e8'cos(t),sin(t),2scos(2t)'\\x0027e9'], [bb r_r(s,t), "<mi//>"='\\x0027e8'-ssin(t),scos(t),-2s^2 sin(2t)'\\x0027e9'], [bb w=bb r_s xx bb r_t, "<mi//>"='\\x0027e8'-2s^2 sin(2t)sin(t)-2s^2 cos(2t)cos(t),], [\ , \ 2s^2 cos(t)sin(2t)-2s^2 sin(t)cos(2t),scos(t)^2+ssin(t)^2'\\x0027e9'], [\ , "<mi//>"='\\x0027e8'-2s^2 cos(t),2s^2 sin(t),s'\\x0027e9']
+int_0^1 int_0^(2 pi)'\\x0027e8'scos(t)-1, 1-ssin(t), 0'\\x0027e9'*'\\x0027e8'-2s^2 cos(t), 2s^2 sin(t), s'\\x0027e9'dtds
+[\ , "<mi//>" int_0^1 int_0^(2 pi)(-2s^2 cos(t))(scos(t)-1)+(2s^2 sin(t))(1-ssin(t))dtds], [=, "<mi//>" int_0^1 int_0^(2 pi)-2s^3 cos(t)^2+2s^2 cos(t)+2s^2 sin(t)-2s^3 sin(t)^2 dtds], [=, "<mi//>" int_0^1 int_0^(2 pi)-2s^3+2s^2 cos(t)+2s^2 sin(t)dtds.]
+0
+2 pi,
+2 pi int_0^1-2s^3 ds = -pi,
+bb F = '\\x0027e8'x^2, y^2, z^2'\\x0027e9'
+C_1
+bb r(t) = '\\x0027e8'sqrt(2)cos(t), sqrt(2)cos(t), 2sin(t)'\\x0027e9'
+0 <= t <= 2 pi.
+oint_(C_1)bb F*dbb r
+S_1
+2
+y <= x.
+"curl"(bb F)
+S_1.
+bb F
+bb G = xbb i+y^2 zbb j+x^2 bb k
+C_2,
+(1, 0, 0),
+(0, 1, 0),
+(0, 0, 1)
+bb G
+C_2
+C_2
+S_2
+x, y, z >= 0.
+"curl"(bb G)
+S_2.
+bb F = '\\x0027e8'3yz, xz, -xy'\\x0027e9'
+C
+1
+(0, -2, 0)
+y = -2
+(0, -2, 1)
+(1, -2, 0),
+(1, -2, 0)
+(1, 5, 0),
+1
+(0, 5, 0)
+y = 5
+(1, 5, 0)
+(0, 5, 1),
+(0, 5, 1)
+(0, -2, 1).
+bb G = 3z^2 bb i-z^2+2xbb j+zybb k
+xy
+3
+S
+"curl"(bb F)
+C.
+RR^3.
+S_1
+x^2+y^2+z^2 = 4
+z >= x.
+S_2
+x^2+y^2+z^2 = 4
+z >= 0.
+S_3
+z = x^2-y^2
+x^2+y^2 <= 1.
+(0, 0, 0)
+bb k.
+S_4
+x^2+y^2 = 4
+-2 <= z <= 2,
+C
+RR^3,
+S
+C
+S
+S
+C
+S.
+C
+(1, 0, 0),
+(0, 1, 0),
+(0, 0, 1)
+C
+bb r(t) = '\\x0027e8'sqrt(2)cos(t), sqrt(2)cos(t), 2sin(t)'\\x0027e9'
+0 <= t <= 2 pi.
+C
+C_1
+2
+xy
+(2, 0, 0)
+(0, 2, 0),
+C_2
+(0, 2, 0)
+(0, 2, 2),
+C_3
+2
+(0, 0, 2)
+z = 2
+(0, 2, 2)
+(2, 0, 2),
+C_4
+(2, 0, 2)
+(2, 0, 0).
+RR^3
+S_1
+S_2
+C
+C
+"curl"(bb F)
+S_1
+S_2
+bb F
+C.
+int_C vec F*d vec r
+C
+1
+x+y+z = 3,
+(4, 4, -5)
+vec F = 4y vec i-3x vec j+4(y-x) vec k
+int_C vec F*d vec r =
+int_C bb F*dbb r
+bb F(x, y, z) = xbb i+ybb j+8(x^2+y^2)bb k
+C
+z = 16-x^2-y^2
+C
+Psi(r, theta) = '\\x0027e8'rcos theta, rsin theta, theta'\\x0027e9'
+(r, theta)
+[0, 1] xx[0, pi//2],
+bb F
+bb F = '\\x0027e8'6z, 6x, 6y'\\x0027e9'.
+'\\x00222c'_M(grad xx bb F)*dbb S = int_a^b int_c^d f(r, theta)drd theta,
+a =
+b =
+c =
+d =
+f(r, theta) =
+(1, 0, 0)
+(0, 1, pi//2).
+int_C bb F*dbb r = int_a^b g(theta)d theta,
+a =
+b =
+g(theta) =
+bb F
+"curl"(bb G)
+bb G,
+bb G
+bb F,
+f
+bb F = grad(f)
+bb F.
+bb F
+"curl"(bb F) = '\\x0027e8'x-y^2, 4xy-y-4, -4xz'\\x0027e9'.
+int cos(x)dx = sin(x)+C.
+bb G
+bb F-bb G
+bb F-bb G
+x, y, z.
+bb F-bb G
+bb F, bb G
+bb H,
+bb F-bb G
+bb H
+bb F,
+div(bb H) = 0.
+< a, b, c > ,
+ijk
+vec F = 6x vec i+(2y-z^2) vec j+(x+8z) vec k
+vec F
+vec H,
+vec H =
+vec F = 6x vec i+(2y-z^2) vec j+(x-8z) vec k
+vec F
+vec H,
+vec H =
+z = x^4-y^4
+-pi
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+RR^2
+RR^3.
+bb r(t),
+RR^2
+RR^3.
+(x, y)
+RR^2
+(x, y, z)
+RR^3
+RR^2
+RR^3,
+(x, y)
+'\\x0027e8'y, x'\\x0027e9'.
+(1, -1),
+'\\x0027e8'-1, 1'\\x0027e9'.
+bb F,
+bb F(x, y) = '\\x0027e8'y, x'\\x0027e9'.
+(x, y)
+(2, 1)
+(0, 0)
+(-1, 2)
+(3, -1)
+(-2, -1)
+bb F(x, y)
+bb G(x, y) = -xbb j
+(x, y)
+(x, y)
+(-2, 0)
+(-1, 2)
+(0, -2)
+(2, 3)
+(3, 2)
+(-1, 0)
+(1, 3)
+bb G(x, y)
+bb F(2, 1) = '\\x0027e8'1, 2'\\x0027e9',
+(2, 1)
+'\\x0027e8'1, 2'\\x0027e9'.
+'\\x0027e8'1, 2'\\x0027e9'
+(2, 1).
+bb F(x, y)
+bb F(1, -1) = '\\x0027e8'-1, 1'\\x0027e9'
+bb G(x, y)
+bb F(x, y)
+bb G(x, y).
+bb F(x, y)
+bb F(x, y, z),
+(x, y)
+(x, y, z)
+2
+(x, y)
+2
+bb F(x, y).
+3
+bb F(x, y, z)
+(x, y, z)
+3
+bb F(x, y, z)
+bb i,
+bb j,
+bb k
+(x, y, z),
+bb F(x, y, z) = F_1(x, y, z)bb i+F_2(x, y, z)bb j+F_3(x, y, z)bb k
+bb F(x, y, z) = '\\x0027e8'x^2, xysin(z), y^3'\\x0027e9',
+bb F
+F_1(x, y, z) = x^2,
+F_2(x, y, z) = xysin(z),
+F_3(x, y, z) = y^3.
+bb F(x, y, z),
+F_1,
+F_2,
+F_3
+bb F(x, y)
+2
+F_1
+F_2,
+bb F(x, y) = '\\x0027e8'y, x'\\x0027e9'
+bb G(x, y) = '\\x0027e8'0, -x'\\x0027e9'.
+bb F(x, y) = ybb i+xbb j
+bb F(x, y) = ybb i+xbb j
+y = x
+y = -x.
+bb F(x, y) = ybb i-xbb j.
+ybb i-xbb j
+(2, 0),
+bb F.
+bb F(x, y)
+'\\x0027e8'x, y'\\x0027e9'.
+f(x, y) = x^2+y^2
+xbb i+ybb j.
+bb F(x, y)
+|bb F(x, y)|
+f
+f
+f
+grad f
+f,
+g,
+h,
+f
+g
+h
+bb F(x, y) = '\\x0027e8'6xy, 3x^2+9sqrt(y)'\\x0027e9'
+f
+grad f(x, y) = bb F(x, y).
+f
+bb F.
+f
+g
+grad g(x, y) = bb F(x, y)
+f != g?
+bb F(x, y) = 6xybb i+(2x+9sqrt(y))bb j
+2
+RR^2
+2
+3
+RR^3
+3
+bb F(x, y) = '\\x0027e8'f(x, y), g(x, y)'\\x0027e9' = f(x, y)bb i+g(x, y)bb j
+[bb F(x,y,z), "<mi//>"='\\x0027e8'f(x,y,z),g(x,y,z),h(x,y,z)'\\x0027e9'], [\ , "<mi//>"=f(x,y,z)bb i+g(x,y,z)bb j+h(x,y,z)bb k.]
+f
+f
+P = (0, 8, -8)
+Q = (2, 1, 0)
+bb F = '\\x0027e8'xy, z^2, x'\\x0027e9'.
+bb F(P) =
+bb F(Q) =
+vec F = '\\x0027e8'-2y, 2x'\\x0027e9'.
+vec F.
+vec F
+y = 1
+y = 0
+y = -1
+x = -1
+x = 0
+x = 1
+-2 <= x <= 2
+-2 <= y <= 2.
+bb F = '\\x0027e8'3x+3, y'\\x0027e9'
+lArr
+\
+lArr
+lArr
+\
+lArr
+a = 3
+x, y >= 0
+bb F_1 = y vec i.
+bb F_1
+x
+y
+bb F_2 = '\\x0027e8'y, 1'\\x0027e9'.
+bb F_2
+x
+y
+bb F_3 = (x+e^(1-y)) vec j.
+bb F_3
+x
+y
+bb F_4 = "grad"(y^4+e^(2x)).
+bb F_4
+x
+y
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+z
+y
+y
+x.
+x
+y,
+z.
+dz = dz/dy\ dy\ and\ dy = dy/dx\ dx.
+dz = dz/dy dy/dx\ dx = dz/dx\ dx
+dz/dx = dz/dy dy/dx.
+f
+z = f(x, y),
+x
+y
+t.
+t
+x
+y,
+z
+z
+t,
+xy
+bb r(t)
+t
+bb r(t) = '\\x0027e8'x(t), y(t)'\\x0027e9' = '\\x0027e8'2-t^2, t^3+1'\\x0027e9'.
+T(x, y) = 10-1/2 x^2-1/5 y^2,
+T
+(x(t), y(t))
+T(x, y)
+bb r
+x = x(t)
+y = y(t)
+t.
+x(t)
+x
+y(t)
+y
+T,
+T = T(x(t), y(t))
+t.
+T
+t
+(dT)/dt.
+T
+x
+y
+T
+Delta T ~~ T_x Delta x+T_y Delta y.
+T,
+["(10.5.1)", lim_(Delta t->0) (Delta T)/(Delta t) =lim_(Delta t->0) (T_x Delta x+T_y Delta y)/(Delta t) .]
+T
+t
+["(10.5.2)", (dT)/dt= (del T)/(del x) dx/dt+ (del T)/(del y) dy/dt.]
+T,
+x,
+y
+T_x
+T_y
+x
+y,
+x'
+y'
+t
+x,
+y,
+t.
+z = f(x, y),
+f
+x
+y,
+x
+y
+t.
+["(10.5.3)", dz/dt= (del z)/(del x) dx/dt+ (del z)/(del y) dy/dt.]
+z
+x
+y,
+z
+x
+y
+x = x(t)
+y = y(t)
+t,
+z
+x(t)
+y(t),
+z
+t,
+z
+t
+z
+x
+y
+["(10.5.4)", dz= (del z)/(del x) \ dx+ (del z)/(del y) \ dy.]
+x
+y
+t,
+["(10.5.5)", dx=dx/dt\ dt\ and\ dy=dy/dt\ dt.]
+dz = (del z)/(del x) dx/dt\ dt+ (del z)/(del y) dy/dt\ dt = dz/dt\ dt,
+z
+z(x, y) = x^2+xy^3.
+x
+y
+2
+x(t) = 2cos(t), \ "and\ "\ y(t) = 2sin(t).
+dz/dt.
+x(t)
+x
+y(t)
+y
+z
+z
+t
+dz/dt
+T
+T(x, y) = 100-(x^2+4y^2),
+x
+y
+T_x
+T_y.
+x
+(2, 0),
+dT//dt
+x = 6cos(t)
+y = 3sin(t),
+t
+(dT)/dt
+t = pi//6,
+t = pi//4,
+t = pi//3.
+f.
+xy
+(2, 1),
+bb v = '\\x0027e8'-1, 2'\\x0027e9'.
+f
+df//dt
+(2, 1).
+f.
+z
+x
+y,
+x
+y
+t.
+x
+y
+z
+z
+x
+y,
+x
+y
+t.
+dz/dt = (del z)/(del x) dx/dt+ (del z)/(del y) dy/dt.
+z
+w,
+x,
+y,
+w,
+x,
+y
+u
+v,
+u
+v
+t.
+dz/dt.
+z = x^2-2xy^2
+[x, "<mi//>"=rcos(theta)], [y, "<mi//>"=rsin(theta).]
+z
+x
+y
+x
+y
+r
+theta.
+(del z)/(del r) .
+r = 3
+theta = pi//6.
+x
+y
+r
+theta,
+(del z)/(del theta) |_((3, pi/6)).
+f(x, y)
+x(t)
+y(t)
+t,
+(df)/dt = (del f)/(del x) dx/dt+ (del f)/(del y) dy/dt.
+dz/dt,
+z = x^2 y+xy^2, \ x = 4-t^7, \ y = -4-t^5
+(del z)/(del x) =
+(del z)/(del y) =
+dx/dt =
+dy/dt =
+t
+dz/dt =
+(del z)/(del s)
+(del z)/(del t) ,
+z = e^(xy)tan y, x = 5s+1t, y = (2s)/(6t)
+(del z)/(del x) =
+(del z)/(del y) =
+(del x)/(del s) =
+(del x)/(del t) =
+(del y)/(del s) =
+(del y)/(del t) =
+(del z)/(del s) = (del z)/(del x) (del x)/(del s) + (del z)/(del y) (del y)/(del s)
+(del z)/(del t) = (del z)/(del x) (del x)/(del t) + (del z)/(del y) (del y)/(del t)
+w = x/y+y/z,
+x = e^t, \ y = 2+sin(5t),
+z = 2+cos(5t).
+(dw)/dt
+e^t
+(dw)/dt
+(dw)/dt
+t = 0.
+z = (x+y)e^y
+x = u^2+v^2
+y = u^2-v^2,
+u
+v.
+(del z)/(del u) =
+(del z)/(del v) =
+z = sin(x^2+y^2), \ x = vcos(u), \ y = vsin(u),
+del z//del u
+del z//del v.
+del z//del u =
+del z//del v =
+z = g(u, v, w)
+u(r, s, t), v(r, s, t), w(r, s, t).
+del z//del r?
+W(s, t) = F(u(s, t), v(s, t))
+u(1, 0) = -1, u_s(1, 0) = -7, u_t(1, 0) = -2
+v(1, 0) = -8, v_s(1, 0) = 6, v_t(1, 0) = -3
+F_u(-1, -8) = -2, F_v(-1, -8) = 2
+W_s(1, 0) =
+W_t(1, 0) =
+V = IR,
+z = x^2 sin y,
+x = 3s^2+2t^2,
+y = -2st.
+(del z)/(del s)
+(del z)/(del t)
+(del z)/(del s) =
+(del z)/(del t) =
+(del z)/(del s)
+(del z)/(del t)
+(s, t) = (-3, 3).
+(del z)/(del s) (-3, 3) =
+(del z)/(del t) (-3, 3) =
+(df)/dt,
+f(x, y) = 2x^2 y,
+x = cos(t),
+y = ln(t).
+(del f)/(del w) ,
+f(x, y) = 2x^2 y,
+x = w+z^2,
+y = (2z+1)/w
+(del f)/(del v) ,
+f(x, y, z) = 2x^2 y+z^3,
+x = u-v+2w,
+y = w2^v-u^3,
+z = u^2-v
+z = u^2-v^2
+[u, "<mi//>"=e^x cos(y)], [v, "<mi//>"=e^x sin(y)]
+u
+v
+x = 0
+y = 2 pi//3.
+(del z)/(del x) \ and\ (del z)/(del y)
+(del z)/(del x) |_((0, (2 pi)/3))
+(del z)/(del y) |_((0, (2 pi)/3)).
+T = x^2+y^2-2z
+[x, "<mi//>"=rho sin(varphi)cos(theta)], [y, "<mi//>"=rho sin(varphi)sin(theta)], [z, "<mi//>"=rho cos(varphi)]
+(del T)/(del rho) , (del T)/(del varphi) , \ and\ (del T)/(del theta) .\
+T
+T(x, y) = 100-(x^2+4y^2),
+x
+y
+(1, 4)
+(5, 6).
+(x(t), y(t))
+(1, 4)
+(5, 6).
+dx/dt
+dy/dt
+t?
+t
+(1, 4)
+(5, 6),
+x
+y.
+A(h, w) = 0.0072h^(0.725)w^(0.425),
+A
+h
+w
+h
+w
+h
+w
+t.
+60
+9
+h
+w
+5
+z = f(x, y) = 50-(x+1)^2-(y+3)^2
+z = h(x, y) = 24-2x-6y.
+z = f(x, y)
+f
+h.
+x(t) = 4cos(t)
+y(t) = 4sin(t)
+xy
+f
+h.
+t = 2 pi//3.
+V
+V = IR,
+I
+R
+R_1
+R_2
+R
+1/R = 1/(R_1) +1/(R_2) .
+I,
+R_1
+R_2,
+t.
+(dV)/dt.
+1/10
+R_1
+R_2
+0.5
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+f
+x
+y,
+f
+f_(xx),
+f_(yy),
+f_(xy),
+f_(yx)
+f
+f,
+f
+f''(x) = d/dx[f'(x)],
+f''(x) = lim_(h->0) (f'(x+h)-f'(x))/h.
+f
+f(x, y) = (x^2 sin(2y))/32
+x
+y.
+x = 150
+y = 0.6,
+x = 150
+y = 0.6.
+f_x.
+f_x
+x
+y,
+f_x.
+f_(xx) = (f_x)_x
+f_(xx)(150, 0.6) ~~ 0.058.
+f
+y = 0.6
+y = 0.6.
+f_y,
+f_(yy) = (f_y)_y.
+f_(yy)(150, 0.6).
+f(150, y)
+f_(yy)(150, 0.6)
+f_x
+f_y
+x
+y,
+f_(xx) = (f_x)_x,
+f_(xy) = (f_x)_y;
+f_(yy) = (f_y)_y,
+f_(yx) = (f_y)_x.
+f(x, y) = (x^2 sin(2y))/32,
+f_x
+f_y
+f_(xy)
+f_(yx).
+f
+x
+y
+f_x
+f_y.
+f_(xx) = (f_x)_x = (del)/(del x) ( (del f)/(del x) ) = (del^2 f)/(del x^2) ,
+f_(yy) = (f_y)_y = (del)/(del y) ( (del f)/(del y) ) = (del^2 f)/(del y^2) ,
+f_(xy) = (f_x)_y = (del)/(del y) ( (del f)/(del x) ) = (del^2 f)/(del y del x) ,
+f_(yx) = (f_y)_x = (del)/(del x) ( (del f)/(del y) ) = (del^2 f)/(del x del y) .
+(del^2 f)/(del y del x) = (del)/(del y) ( (del f)/(del x) )
+x
+y;
+f_(xy) = (f_x)_y.
+f_(yx) = (f_y)_x
+y
+x.
+(del^2 f)/(del y del x) = f_(xy), \ and\ (del^2 f)/(del x del y) = f_(yx).
+x
+y
+f(x, y) = x^2 y^3
+f(x, y) = ycos(x)
+g(s, t) = st^3+s^4
+h
+h(x, y, z) = 9x^9 z-xyz^9+9
+h_(xz)
+h_(zx)
+f
+f_(xy)
+f_(yx)
+(a, b).
+f_(xy)(a, b) = f_(yx)(a, b).
+x.
+f_(xx)
+y
+x,
+f_(xx)
+f
+y
+f_(xx)
+f(x, y) = sin(x)e^(-y).
+y = -1.5.
+x
+x
+f_x(x, y) = cos(x)e^(-y)
+f_(xx)(x, y) = -sin(x)e^(-y) < 0,
+e^(-y) > 0
+y,
+y = -1.5.
+f
+f(x, y) = sin(x)e^(-y).
+f(x, y) = sin(x)e^(-y)
+x
+x = 1.75.
+f
+y
+y
+y
+f_(yy)(x, y),
+f_(yy)(1.75, y).
+x
+y
+y.
+f_(xy).
+y
+f_x,
+x
+f_(xy).
+x
+x
+x
+(f_x)_y
+z = f(x, y) = sin(x)e^(-y)
+x = 1.75,
+y
+f_(xy)(1.75, -1.5)
+f_(xy)(x, y),
+f_(xy)(1.75, -1.5).
+f_(xx)(1.75, -1.5)
+y = -1.5
+f_(yy)(1.75, -1.5)
+x = 1.75
+f_(xy)(1.75, -1.5)
+y = -1.5,
+f_(yx)(x, -1.5)
+x,
+x = -1.5.
+f_(yx)(1.75, -1.5)
+f_(yx)(1.75, -1.5)
+w(v, T),
+v'\\x002216'T
+w_T(20, -15),
+w_T(20, -10),
+w_T(20, -5).
+w_(TT)(20, -10).
+w_(vv)(20, -10).
+w_T(20, -10),
+w_T(25, -10),
+w_T(15, -10),
+w_(Tv)(20, -10).
+w_(vT)(20, -10).
+w_(TT)(20, -10),
+w_(vv)(20, -10),
+w_(Tv)(20, -10)
+w(v, T).
+f_(xy)
+y
+x
+f_(yx)
+x.
+f_(xy) = f_(yx),
+f(x, y) = -xy,
+f_(xy) = -1.
+f(x, y) = -xy.
+f
+x
+y:
+f_(xx) = (f_x)_x, f_(xy) = (f_x)_y, f_(yx) = (f_y)_x, \ and\ f_(yy) = (f_y)_y.
+f_(xx)
+f_(yy),
+f_(xy)
+f_(yx),
+f
+f(x, y) = 4x^2 y+3xy^3.
+f_(xx)(x, y) =
+f_(xy)(x, y) =
+f_(yx)(x, y) =
+f_(yy)(x, y) =
+f(x, y) = 7sin(2x+y)+6cos(x-y).
+(del f)/(del x) = f_x =
+(del f)/(del y) = f_y =
+(del^2 f)/(del x^2) = f_x\ x=
+(del^2 f)/(del y^2) = f_y\ y=
+(del^2 f)/(del x del y) = f_y\ x=
+(del^2 f)/(del y del x) = f_x\ y=
+f(x, y) = xye^(9y)
+f_x(x, y) =
+f_y(x, y) =
+f_(xy)(x, y) =
+f_(yx)(x, y) =
+f(x, y) = sin( (2x)/y).
+f_(xx)(x, y) =
+f_(xy)(x, y) =
+f_(yx)(x, y) =
+f_(yy)(x, y) =
+F(r, s, t) = r(5t^3-6s^3),
+F_(rst) =
+f_(xy) = f_(yx).
+f(x, y) = e^(3xy)
+f_(xx) =
+f_(yy) =
+f_(xy) =
+f_(yx) =
+f(x, y) = (3x+2y)e^y.
+f_(xx)(x, y) =
+f_(xy)(x, y) =
+f_(yx)(x, y) =
+f_(yy)(x, y) =
+f(x, y) = (2x-y)^8.
+(del^2 f)/(del x del y)
+=
+(del^3 f)/(del x del y del x)
+=
+(del^3 f)/(del x^2 del y)
+=
+z_(xy) = 7y
+z
+z_(yx) =
+z_(xyx) =
+z_(xyy) =
+z = f(x)+yg(x),
+z_(yy)?
+z_(yy) = 0
+z_(yy) = z_(xx)
+z_(yy) = y
+z_(yy) = g(x)
+f
+f
+(2, 1)
+f(x, y).
+f_x(2, 1)
+f_y(2, 1).
+f_(xx)(2, 1)
+f_(yy)(2, 1)
+f_(xy)(2, 1)
+f_(yx)(2, 1)
+g
+x
+y
+g_x(2, 2) > 0
+g_(xx)(2, 2) < 0.
+(2, 2)
+g
+h.
+h
+x
+y
+h_x(2, 2) > 0
+h_(xy)(2, 2) < 0.
+(2, 2)
+I,
+T
+H
+I(T, H),
+darr'\\x002216'
+->
+I_(TT)(94, 75).
+I_(TT)(94, 75),
+I_(HH)(94, 75).
+I_(HH)(94, 75),
+I_(HT)(94, 75),
+xy
+C(x, y) = 25e^(-(x-1)^2-(y-1)^3).
+x
+y
+C_(xx)(x, y)
+C_(yy)(x, y).
+C_(xx)(1.1, 1.2).
+(1.1, 1.2)
+y = 1.2.
+C_(xx)(1.1, 1.2),
+C_(yy)(1.1, 1.2).
+(1.1, 1.2)
+x = 1.1.
+C_(yy)(1.1, 1.2),
+C_(xy)(x, y)
+C_(xy)(1.1, 1.2).
+f(x, y) = 8-x^2-y^2
+g(x, y) = 8-x^2+4xy-y^2.
+f_x,
+f_y,
+f_(xx),
+f_(yy),
+f_(xy),
+f_(yx).
+(0, 0).
+f
+(0, 0)?
+f
+g_x,
+g_y,
+g_(xx),
+g_(yy),
+g_(xy),
+g_(yx).
+(0, 0).
+g
+(0, 0)?
+g
+f
+g
+(0, 0)?
+f(x, y) = 1/2 xy^2
+x
+y
+(a, b)
+(4, 5)
+f.
+(del^2 f)/(del x^2)
+(a, b).
+(del^2 f)/(del y^2)
+(a, b).
+(del^2 f)/(del y del x)
+(a, b).
+(del^2 f)/(del x del y)
+(a, b).
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+f = f(x, y)
+R = [a, b] xx[c, d]
+'\\x00222c'_R f(x, y)dA = lim_(m,n->oo) sum_(j=1)^n sum_(i=1)^m f(x_(ij)^** , y_(ij)^** )*Delta A,
+'\\x00222c'_R f(x, y)dA
+f(x, y) = 25-x^2-y^2
+R = [-3, 3] xx[-4, 4].
+f
+x
+[-3, 3].
+A(x) = int_(-4)^4 f(x, y)dy.
+A(x)
+f.
+x,
+A(x)
+x.
+x
+Delta x.
+x,
+x_i^** ,
+A(x_i^** )\ Delta x?
+A(x_i^** ) Delta x
+f
+R,
+A = A(x)
+x
+[-3, 3].
+x
+[-3, 3]
+m
+x_i^**
+sum_(i=1)^m A(x_i^** )\ Delta x?
+int_(-3)^3 A(x)dx
+z = f(x, y)
+R.
+f
+R = [a, b] xx[c, d],
+A(x) = int_c^d f(x, y)dy.
+A = A(x)
+y
+x
+f
+xy
+x
+A.
+A
+x,
+A
+x.
+[a, b]
+int_a^b A(x)dx ~~ sum_(i=1)^m A(x_i^** ) Delta x,
+x_i^**
+[x_(i-1), x_i].
+A(x_i^** ) Delta x
+y
+Delta x
+x
+sum_(i=1)^m A(x_i^** ) Delta x
+f
+R.
+A(x)
+'\\x00222c'_R f(x, y)dA = lim_(m->oo) sum_(i=1)^m A(x_i^** ) Delta x = int_a^b A(x)dx = int_a^b(int_c^d f(x, y)dy)dx.
+f
+R
+f
+y
+[c, d],
+x
+x
+[a, b].
+int_a^b(int_c^d f(x, y)dy)dx = int_a^b int_c^d f(x, y)dydx
+y.
+x
+'\\x00222c'_R f(x, y)dA = int_c^d(int_a^b f(x, y)dx)dy = int_c^d int_a^b f(x, y)dxdy.
+f = f(x, y)
+R = [a, b] xx[c, d],
+'\\x00222c'_R f(x, y)dA = int_c^d int_a^b f(x, y)dxdy = int_a^b int_c^d f(x, y)dydx.
+f(x, y) = 25-x^2-y^2
+R = [-3, 3] xx[-4, 4].
+x
+A(x) = int_(-4)^4 f(x, y)dy.
+y,
+x
+x
+int_(-3)^3 A(x)dx.
+'\\x00222c'_R f(x, y)dA?
+f(x, y) = x+y^2
+R = [0, 2] xx[0, 3].
+'\\x00222c'_R f(x, y)dA
+x
+y.
+'\\x00222c'_R f(x, y)dA
+'\\x00222c'_R f(x, y)dA
+R = [a, b] xx[c, d]
+int_a^b(int_c^d f(x, y)dy)dx,
+int_c^d(int_a^b f(x, y)dx)dy.
+int_0^1 int_0^1 3x^2 y^3 "dxdy"
+int_1^2 int_3^4(2x+y)^(-2)"dydx"
+int_1^4 int_8^(14)(x+ln y)"dydx"
+int_2^3 int_1^6 xye^(x+y)"dydx"
+int int_bb R(6x+8y+48)dA
+bb R
+0 <= x <= 4, 0 <= y <= 3.
+int int_bb R xcos(2x+y)dA
+bb R
+0 <= x <= pi/6, 0 <= y <= pi/4
+R = [0, 2] xx[0, 2],
+z = 81-x^2-4y^2.
+int_3^6 f(x)dx = -2
+int_4^7 g(x)dx = 4,
+int int_D f(x)g(y)dA
+D
+3 <= x <= 6, \ 4 <= y <= 7?
+f(x, y) = 5x^2 y^3
+(-2, 0), (-2, 2), (2, 0), (2, 2).
+f(x, y) = 2e^y sqrt(x+e^y)
+R = [0, 6] xx[0, 8].
+int_1^3(int_2^5 xydy)dx
+int_0^(pi//4)(int_0^(pi//3)sin(x)cos(y)dx)dy
+int_0^1(int_0^1 e^(-2x-3y)dy)dx
+'\\x00222c'_R sqrt(2x+5y)dA,
+R = [0, 2] xx[0, 3].
+xy
+T(x, y) = 100-4x^2-y^2,
+x
+y
+T
+R = [1, 5] xx[3, 6].
+T
+R.
+R.
+T_("AVG"(R)),
+R.
+R = [1, 4] xx[2, 5],
+z = p(x, y) = 30-x-2y.
+p
+R.
+p
+R?
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+(x, y)
+f(x, y, z),
+S_1,
+f
+S_1
+bb r(s, t)
+a <= s <= b
+c <= t <= d.
+a <= s <= b
+n
+s_0, s_1, ..., s_n
+c <= t <= d
+m
+t_0, t_1, ..., t_m.
+D
+nm
+Delta s = (b-a)/n
+Delta t = (d-c)/m.
+D_(i,j).
+D_(i,j)
+st
+Delta s Delta t.
+D
+D_(i,j)
+S_1
+nm
+S_(i,j) = bb r(D_(i,j)).
+S_(i,j)
+SA_(i,j) = |(bb r_s xx bb r_t)(s_i, t_j)|Delta s Delta t.
+S_1
+SA_(i,j) = |(bb r_s xx bb r_t)(s_i, t_j)|Delta s Delta t
+m = n.
+A
+f(x, y, z)
+S_1,
+[A, "<mi//>"=sum_(i=1)^n sum_(i=1)^m f(x_(i,j)^** ,y_(i,j)^** ,z_(i,j)^** )SA_(i,j)], [\ , "<mi//>"=sum_(i=1)^n sum_(i=1)^m f(x(s_i^** ,t_j^** ),y(s_i^** ,t_j^** ),z(s_i^** ,t_j^** ))SA_(i,j)], [\ , "<mi//>"=sum_(i=1)^n sum_(i=1)^m f(s_i^** ,t_j^** ))|(bb r_s xx bb r_t)(s_i,t_j)|Delta s Delta t.]
+Delta s -> 0
+Delta t -> 0,
+s
+t
+f(x(s, t), y(s, t), z(s, t))|(bb r_s xx bb r_t)(s, t)|.
+S_1
+bb r(s, t)
+D,
+f
+S_1.
+f(x, y, z)
+S_1
+'\\x00222c'_(S_1)fdS
+f
+S_1
+f
+S_1
+'\\x00222c'_(S_1)fdS = '\\x00222c'_D f(s, t)|(bb r_s xx bb r_t)(s, t)|dA.
+S_1
+x^2+y^2 = z^2
+1 <= z <= 3.
+f(x, y, z) = x.
+'\\x00222c'_(S_1)fdS.
+S_1
+f.
+S_2
+S_1
+x >= 0
+S_3
+x < 0.
+f
+S_2
+S_3
+int_(S_2)fdS = -int_(S_3)fdS.
+S_1
+S_2
+x
+S_3
+x
+int_(S_1)fdS = int_(S_2)fdS+int_(S_3)fdS = int_(S_2)fdS-int_(S_2)fdS = 0.
+S_1
+bb r(s, t) = '\\x0027e8'scos(t), ssin(t), s'\\x0027e9'
+1 <= s <= 3
+0 <= t < 2 pi.
+bb w = bb r_s xx bb r_t = '\\x0027e8'-scos(t), -ssin(t), s'\\x0027e9'.
+|bb w| = sqrt(s^2(cos(t)^2+sin(t)^2)+s^2) = 2s.
+int_(S_1)fdS = int_1^3 int_0^(2 pi)(scos(t))2sdtds = 0.
+int_0^(2 pi)cos(t)dt = 0.
+f(x, y, z) = x
+S_2,
+bb r(s, t) = '\\x0027e8'scos(t), ssin(t), s'\\x0027e9'
+1 <= s <= 3
+-pi/2 <= t < pi/2.
+|bb w| = sqrt(s^2(cos(t)^2+sin(t)^2)+s^2) = 2s.
+[int_(S_2)fdS, "<mi//>"=int_1^3 int_(-pi/2)^(pi/2)(s cos(t))2sdtds], [\ , "<mi//>"=int_1^3 2s^2[sin(t)]_(|_(t=-pi/2)^(pi/2))ds], [\ , "<mi//>"=int_1^3 4s^2 ds], [\ , "<mi//>"=int_1^3 4s^2 ds=104//3.]
+int_(S_2)fdS
+S_2.
+S_1
+int_(S_1)z-x^2 dS.
+S_1
+g(x, y, z) = z-x^2
+s
+t
+g(s, t) = s-s^2 cos(t)^2.
+[int_(S_1)z-x^2 dS, "<mi//>"=int_1^3 int_0^(2 pi)(s-s^2 cos(t)^2)*2sdtds], [\ , "<mi//>"=int_1^3 2s^2[t-s( (2t+sin(2t))/4)]_(t=0)^(2 pi)ds], [\ , "<mi//>"=int_1^3 2s^2(-pi(s-2))ds=- (16 pi)/3]
+S_1
+z-x^2 = 0
+g(x, y, z) = z-x^2
+z
+x^2,
+g
+z
+x^2,
+g
+int_(S_1)z-x^2 dS
+g
+g.
+g
+S_1
+z-x^2 = 0
+S_1
+g
+z
+x^2,
+g
+S_1
+z >= 0
+'\\x00222c'_(S_1)xdS.
+S_2
+z <= 0
+'\\x00222c'_(S_2)zdS.
+S_3
+(1, 0, 0)
+x = 1,
+'\\x00222c'_(S_3)x+zdS.
+S_1
+'\\x00222c'_(S_1)x+zdS.
+S_1
+S_2
+S_1+S_2
+S_1
+S_2.
+S_1
+-S_1
+k,
+f
+g,
+S_1
+S_2,
+'\\x00222c'_(S_1)(kf)dS = k'\\x00222c'_(S_1)fdS
+'\\x00222c'_(S_1)(f+g)dS = '\\x00222c'_(S_1)fdS+'\\x00222c'_(S_1)gdS
+'\\x00222c'_(-S_1)fdS = '\\x00222c'_(S_1)fdS
+'\\x00222c'_(S_1+S_2)fdS = '\\x00222c'_(S_1)fdS+'\\x00222c'_(S_2)fdS
+S_1
+S_2.
+f
+g
+'\\x00222c'_(S_1)fdS
+'\\x00222c'_(S_1)(2f)dS = 2'\\x00222c'_(S_1)fdS
+'\\x00222c'_(S_2)(f+g)dS = '\\x00222c'_(S_2)fdS+'\\x00222c'_(S_2)gdS
+'\\x00222c'_(-S_2)fdS = '\\x00222c'_(S_2)fdS
+'\\x00222c'_(S_1+S_2)fdS = '\\x00222c'_(S_1)fdS+'\\x00222c'_(S_2)fdS
+'\\x00222c'_(S_1)xdS
+S_1
+z >= 0
+S_1.
+bb r(s, t) = '\\x0027e8'cos(s)sin(t), sin(s)sin(t), cos(t)'\\x0027e9'
+0 <= s <= 2 pi
+0 <= t <= pi//2,
+s = theta
+t = varphi
+rho = 1
+bb r
+s
+t,
+|bb r_s xx bb r_t|.
+[bb r_s, "<mi//>"='\\x0027e8'-sin(s)sin(t),cos(s)sin(t),0'\\x0027e9'], [bb r_t, "<mi//>"='\\x0027e8'cos(s)cos(t),sin(s)cos(t),-sin(t)'\\x0027e9'], [bb r_s xx bb r_t, "<mi//>"=-sin(t)'\\x0027e8'cos(s)sin(t),sin(s)sin(t),cos(t)'\\x0027e9']
+bb r_s xx bb r_t
+['\\x0027e8', "<mi//>"-(sin(t))^2 cos(s),-(sin(t))^2 sin(s),], [\ , "<mi//>"-(cos(s))^2 cos(t)sin(t)-(sin(s))^2 cos(t)sin(t)'\\x0027e9'.]
+bb r_s xx bb r_t = -sin(t)bb r(s, t),
+|bb r_s xx bb r_t| = sin(t)
+|bb r(s, t)| = 1
+s
+t
+sin(t) >= 0
+0 <= t <= pi//2.
+['\\x00222c'_(S_1)xdS, "<mi//>"=int_0^(pi//2) int_0^(2 pi)[cos(s)sin(t)](sin(t))dsdt], [\ , "<mi//>"=[sin(s)]_0^(2 pi) int_0^ pi(sin(t))^2 dt=0*int_0^ pi(sin(t))^2 dt=0.]
+f(x, y, z) = x
+x > 0
+x < 0.
+'\\x00222c'_(S_3)x+zdS
+S_3
+(1, 0, 0)
+x = 1.
+bb r(s, t)
+'\\x00222c'_D f(s, t)|bb r_s xx bb r_t|dA,
+D
+u
+v
+vec Phi(u, v).
+bb T_u
+bb T_v.
+vec n(u, v).
+Phi(u, v) = (9u+3, u-v, 17u+v)
+2x-y-z = 6.
+bb T_u
+bb T_v,
+bb n(u, v).
+cc S = Phi(cc D),
+cc D = (u, v):0 <= u <= 6, 0 <= v <= 6.
+f(x, y, z) = yz
+u
+v
+'\\x00222c'_cc S f(x, y, z)dcc S.
+bb T_u =
+bb T_v =
+bb n(u, v) =
+"Area"(S) =
+'\\x00222c'_cc S f(x, y, z)dcc S =
+'\\x00222c'_cc S f(x, y, z)dS
+y = 1-z^2, \ 0 <= x, z <= 9; \ f(x, y, z) = z
+'\\x00222c'_cc S f(x, y, z)dS =
+int int_S sqrt(1+x^2+y^2)dS
+S
+bb r(u, v) = ucos(v)bb i+usin(v)bb j+vbb k,
+0 <= u <= 2, 0 <= v <= 3 pi
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+f
+D
+'\\x00222c'_D f(x, y)dA
+f
+xy
+D
+xy
+D.
+1/(A(D)) '\\x00222c'_D f(x, y)dA
+f
+D.
+D
+delta
+(x, y)
+delta(x, y) = 10-2(x^2+y^2).
+R_(ij),
+1 <= i <= m
+1 <= j <= n,
+Delta A,
+(x_(ij)^** , y_(ij)^** )
+R_(ij)
+i
+j.
+delta(x_(ij)^** , y_(ij)^** ) Delta A?
+'\\x00222c'_D delta(x, y)dA
+delta(x, y)
+D,
+D
+'\\x00222c'_D delta(x, y)dA.
+D
+(x, y)
+delta(x, y) = x.
+delta(x, y) = 1
+D,
+delta
+'\\x00222c'_D 1dA
+D
+y = 1-x^2\ "\and\ "\ y = x-1.
+D
+D
+D
+'\\x00222c'_D 1dA.
+'\\x00222c'_D 1dA.
+y = 1-x^2
+y = x-1.
+D
+D,
+A(D),
+A(D) = '\\x00222c'_D 1dA.
+N
+m_1,
+m_2,
+...,
+m_N
+N
+(x, y).
+(x, y)
+(bar x, bar y)
+(bar x, bar y)
+x = bar x
+y = bar y
+(x_1, y_1)
+m_1,
+(x_2, y_2)
+m_2,
+x
+y
+(bar x, bar y)
+m_1
+y = bar y
+m_1 g(bar y-y_1),
+g
+m_2
+y = bar y
+m_2 g(bar y-y_2).
+m_k
+y = bar y
+m_k g(bar y-y_k).
+sum_(k=1)^N m_k g(bar y-y_k) = 0.
+bar y,
+bar y = (sum_(k=1)^N m_k y_k)/(sum_(k=1)^N m_k) .
+bar x = (sum_(k=1)^N m_k x_k)/(sum_(k=1)^N m_k) .
+M_x\ = \ sum_(k=1)^N m_k y_k
+x
+M_y\ = \ sum_(k=1)^N m_k x_k
+y
+M,
+(bar x, bar y) = ( (M_y)/M, (M_x)/M).
+delta(x, y).
+mn
+Delta A,
+(x_(ij)^** , y_(ij)^** )
+ij
+delta(x_(ij)^** , y_(ij)^** ) Delta A
+delta(x_(ij)^** , y_(ij)^** ) Delta A
+R_(ij).
+delta(x_(ij)^** , y_(ij)^** ) Delta A
+(x_(ij)^** , y_(ij)^** ).
+(bar x, bar y)
+mn
+bar x = (sum_(j=1)^n sum_(i=1)^m x_(ij)^**delta(x_(ij)^** ,y_(ij)^** ) Delta A)/(sum_(j=1)^n sum_(i=1)^m delta(x_(ij)^** ,y_(ij)^** ) Delta A) \ "\and\ "\ bar y = (sum_(j=1)^n sum_(i=1)^m y_(ij)^**delta(x_(ij)^** ,y_(ij)^** ) Delta A)/(sum_(j=1)^n sum_(i=1)^m delta(x_(ij)^** ,y_(ij)^** ) Delta A) .
+m
+n
+(bar x, bar y)
+(bar x, bar y)
+D
+delta = delta(x, y)
+bar x = ('\\x00222c'_D x delta(x,y)dA)/('\\x00222c'_D delta(x,y)dA) \ "\and\ "\ bar y = ('\\x00222c'_D y delta(x,y)dA)/('\\x00222c'_D delta(x,y)dA) .
+bar x
+bar y
+D
+delta = delta(x, y)
+y
+M_y = '\\x00222c'_D x delta(x, y)dA
+D
+x
+M_x = '\\x00222c'_D y delta(x, y)dA.
+M
+(bar x, bar y) = ( (M_y)/M, (M_x)/M).
+D
+x
+x = 1
+y = 2x
+(x, y)
+delta(x, y) = 6x+6y+6.
+x
+x = 1
+y = 2x
+D
+1/(100 pi) ,
+D
+D_3
+D_3
+D.
+D_3
+(9 pi)/(100 pi) = '\\x00222c'_(D_3) 1/(100 pi) dA.
+1/(100 pi) ,
+D
+f
+f(x, y) = Ke^(-(x^2+y^2))
+K.
+f
+'\\x00222c'_D f(x, y)dA = 1.
+f,
+D_1
+'\\x00222c'_(D_1)f(x, y)dA.
+R
+D
+'\\x00222c'_R f(x, y)dA.
+f,
+x
+y
+D
+f(x, y) >= 0
+x
+y
+D,
+x
+a
+b
+y
+c
+d
+int_a^b int_c^d f(x, y)dydx,
+(x, y)
+D
+["(11.4.1)", '\\x00222c'_D f(x,y)dA=1.]
+D
+f = f(x, y),
+(x, y)
+R
+D
+P((x, y) in R)
+P((x, y) in R) = '\\x00222c'_R f(x, y)dA.
+x
+y
+f
+f(x, y) = e^(-x)e^(-y).
+D
+f
+D
+(x, y)
+x >= 0
+y >= 0.
+f
+D
+int int_D f(x, y)dA = 1,
+int_0^ oo int_0^ oo f(x, y)dydx = 1.
+f
+f(x, y) = Ke^(-x)e^(-2y).
+K?
+D
+delta = delta(x, y)
+'\\x00222c'_D delta(x, y)dA.
+D
+D,
+D
+'\\x00222c'_D 1dA.
+(bar x, bar y),
+delta(x, y)
+bar x = ('\\x00222c'_D x delta(x,y)dA)/('\\x00222c'_D delta(x,y)dA) \ "\and\ "\ bar y = ('\\x00222c'_D y delta(x,y)dA)/('\\x00222c'_D delta(x,y)dA) .
+f
+x
+y
+D,
+R
+D,
+(x, y)
+R
+'\\x00222c'_R f(x, y)dA.
+m_i
+P_i.
+m_1 = 1,
+m_2 = 2,
+m_3 = 3.
+P_1 = (9, -4),
+P_2 = (-6, -8),
+P_3 = (5, 2).
+bar x
+bar y
+(bar x, bar y)
+(0, 0),
+(7, 0),
+(0, 4).
+bar x
+bar y
+0 <= x <= 2,
+0 <= y <= 2
+rho(x, y) = 2-y.
+rho(x, y) = x^2+y^2.
+x^2+y^2 = 12y
+x^2+y^2 = 36.
+e^(-r)
+ft^3
+ft^3
+p
+p(x, y) = 1/9 xy
+R,
+0 <= x <= 6, 0 <= y <= 1,
+p(x, y) = 0
+R.
+x+y <= 7
+f(t) = 1/2 e^(-t//2), t >= 0.
+p(x, y),
+p
+p(x, y) = 0
+R.
+p(x, y) = 1,
+R
+0 <= x <= 1, 2 <= y <= 2.5.
+p(x, y)
+p(x, y) = 2,
+R
+2 <= x <= 2.5, -1 <= y <= 3.
+p(x, y)
+R
+2 <= x <= 3, 0 <= y <= 2,
+p(x, y)
+p(x, y) =
+x
+y
+p(x, y) = {[2/3(x+2y)\ , "for\ "0<=x<=1,0<=y<=1,], [0, "otherwise."]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+x > 1//3:
+x < 1/3+y:
+y = 2x,
+y = 4x,
+y = 4.
+(x, y)
+delta(x, y) = 4xy^2+1,
+x
+y
+D
+(x, y)
+x.
+y
+x
+y
+x
+y
+f(x, y) = 1/8 e^(-x//4-y//2).
+K = 1/(pi(1-e^(-100))) ,
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+RR^3?
+RR^3?
+P
+A
+t
+A = Pe^(0.05t).
+P
+t
+A(P, t) = Pe^(0.05t).
+A(5000, 8).
+t
+(P, t)
+A(P, t).
+P
+t
+P
+t
+t
+P
+t
+P
+A = A(P, t)
+P
+t.
+f
+(x, y)
+D
+f(x, y).
+f(x, y, z) = x^2-2xz+cos(y)
+f
+x,
+y,
+z.
+n
+n
+(x_1, x_2, ..., x_n)
+D
+f
+xy
+f(x, y) = x^2+y^2
+f(x, y) = sqrt(x^2+y^2)
+Q(x, y) = (x+y)/(x^2-y^2)
+s(x, y) = 1/(sqrt(1-xy^2))
+x
+y
+x
+y
+f
+f
+x
+y,
+f
+f(x, y) = (x^2 sin(2y))/g,
+g
+g
+f,
+x
+y
+f(x, y)
+x
+y
+x
+y
+f(x, y) = (x^2 sin(2y))/g.
+x'\\x002216'y
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+f.
+f
+x,
+f
+(x, f(x)),
+x
+f.
+(x, y, f(x, y)),
+f
+f = f(x, y)
+(x, y, f(x, y)),
+(x, y)
+f.
+f
+f.
+(x, y, f(x, y))
+x
+y
+z
+z
+z.
+x
+y
+y
+x
+"<mi//>"\circ
+z
+y
+x
+"<mi//>"\circ
+x
+y
+z
+f(x, y) = (x^2 sin(2y))/g.
+f
+f
+RR^2
+RR^3
+RR^2,
+x = a
+y = b,
+a
+b
+(x, y, z)
+x = 2.
+(x, y, z)
+y = -1.
+(x, y, z)
+z = 0.
+xy
+z = 0,
+xz
+y = 0,
+yz
+x = 0
+RR^2
+RR^3,
+P = (x_0, y_0, z_0)
+Q = (x_1, y_1, z_1)
+RR^3.
+P
+Q
+RR^3.
+PRS
+x_0,
+y_0,
+x_1,
+y_1.
+PRQ
+P
+Q
+PR
+P
+Q,
+sqrt((x_1-x_0)^2+(y_1-y_0)^2+(z_1-z_0)^2).
+P = (x_0, y_0, z_0)
+Q = (x_1, y_1, z_1)
+|PQ|
+RR^3
+["(9.1.1)", |PQ|=sqrt((x_1-x_0)^2+(y_1-y_0)^2+(z_1-z_0)^2).]
+(x_0, y_0, z_0)
+r.
+(x, y, z)
+(x_0, y_0, z_0)
+r,
+(x, y, z)
+sqrt((x-x_0)^2+(y-y_0)^2+(z-z_0)^2) = r
+(x_0, y_0, z_0)
+r
+(x-x_0)^2+(y-y_0)^2+(z-z_0)^2 = r^2.
+r
+(x_0, y_0):
+(x-x_0)^2+(y-y_0)^2 = r^2.
+f
+f(x, y) = (x^2 sin(2y))/g
+x
+y
+g
+y = 0.6
+f
+f(x) = (x^2)/32 sin(2*0.6).
+y = 0.6,
+f
+x
+f(y) = (150^2 sin(2y))/32.
+x = 150,
+f
+y
+y = 0.6.
+x = 150.
+f
+x
+y
+x
+z = f(x, c),
+c
+f
+x
+y
+y
+z = f(c, y),
+c
+y = 0.6
+f
+f(x, y) = (x^2 sin(2y))/g
+x = 150
+g
+g(x, y) = x^2+y^2+1,
+x
+y
+y = -4,
+y = -2,
+y = 0,
+y = 2,
+y = 4
+g
+g(x, y) = x^2+y^2+1,
+y
+x
+x = -4,
+x = -2,
+x = 0,
+x = 2,
+x = 4
+g.
+f(x, y)
+(x, y),
+f(x, y) = k,
+k.
+f
+x
+y
+k = f(x, y),
+k
+f(x, y) = (x^2 sin(2y))/32
+xy
+f(x, y) = x^2+y^2.
+g(x, y) = sqrt(x^2+y^2).
+f(x, y) = x^2+y^2.
+f(x, y) = k
+k = 1,
+k = 2,
+k = 3,
+k = 4
+f
+g(x, y) = sqrt(x^2+y^2).
+g(x, y) = k
+k = 1,
+k = 2,
+k = 3,
+k = 4
+g
+f
+g.
+z = x^2+y^2
+z = 4-(x^2+y^2)
+z = sqrt(x^2+y^2)
+z = x^2-y^2
+z = sin(x)+sin(y)
+z = y^2-x^3+x
+z = xye^(-x^2-y^2)
+f
+RR^3,
+P = (x_0, y_0, z_0)
+Q = (x_1, y_1, z_1)
+|PQ|
+|PQ| = sqrt((x_1-x_0)^2+(y_1-y_0)^2+(z_1-z_0)^2).
+(x_0, y_0, z_0)
+r
+(x-x_0)^2+(y-y_0)^2+(z-z_0)^2 = r^2.
+f
+x
+y
+z = f(c, y)
+z = f(x, c),
+c
+f
+x
+y
+k = f(x, y),
+k
+f(x, y) = y+xy^5, (2, -3), (3, -1), (-5, -2)
+(2, -3):
+(3, -1):
+(-5, -2):
+z = x^2-5y^2
+z = x^2+2y^2
+z = y-3x^2
+z = -5x^2
+z = 2x^2+3y^2
+z = x^2+y^2
+z = 1/(x-1)
+z = sqrt((25-x^2-y^2))
+z = 2x+3y
+z = sqrt((x^2+y^2))
+z = xy
+f(x, y) = sqrt(x)+sqrt(y)
+(-6, -4, -3)
+x^2
+z = -2.
+(-2, 5, 3)
+(-2, 5, 3)
+(-2, 5, 3)
+C,
+d,
+m.
+C =
+C = f(d, m),
+f(4, 870) =
+y^2 = x^2+z^2
+x^2+z^2 = r^2
+x^2 = y^2+z^2
+x^2+y^2 = r^2
+y^2+z^2 = r^2
+z^2 = x^2+y^2
+z = 1-x^2-y^2
+z = x^2+y^2
+x+y+z = 5
+z = -sqrt(4-x^2-y^2)
+z = 1
+0 <= x <= 6
+t >= 0
+C = f(x, t) = 28te^(-(6-x)t)
+f(2, 3) =
+f(2, 3)
+P(a, b) =
+C,
+x,
+t,
+0 <= x <= 4
+t >= 0,
+C = f(x, t) = te^(-t(5-x)).
+f(2, t)
+f(x, 3.5)
+f(2, t)
+t =
+t =
+f(x, 3.5)
+x =
+x =
+z = 6x^2-2y^2+5
+xy
+(-4, 5, -12).
+yz
+(7, -2, -3).
+(2, 1, 3)
+(-1, 0, -1)
+(-3, 1, -5)
+(7, 9, -1).
+PV = RT,
+P,
+T,
+V,
+R = 8.314\ (J)/("\mol\ "K)
+V(P, T) = (8.314T)/P.
+V
+P = 1000
+V
+T = 5
+V = 0.5
+V
+P
+T
+P
+t
+r.
+M
+M(r, t) = (1500r)/(1-1/((1+r/12)^(12t)) ) .
+M
+r
+t
+M.
+M
+t
+M.
+M(r, t) = 200
+t
+t
+r.
+h
+h(x, y) = 8-sqrt(4-x^2-y^2).
+h?
+g(t) = sqrt(t)
+h?
+h
+x
+h.
+y
+h.
+h
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+RR^3
+RR^2?
+RR^3?
+RR^2
+RR^3.
+x
+x+y
+xy
+RR^2
+y = mx+b,
+m
+(0, b)
+y
+(2, -1)
+2/3
+(2, -1)
+2/3.
+x
+(2, -1).
+y
+x
+3?
+x
+(2, -1).
+y
+x
+-1.25?
+x
+3t
+(2, -1).
+y
+x
+2+3t?
+y
+x
+'\\x0027e8'3, 2'\\x0027e9',
+bb r(t),
+bb r(t) = '\\x0027e8'2, -1'\\x0027e9'+'\\x0027e8'3, 2'\\x0027e9't,
+(2, -1)
+2/3.
+RR^3
+cc L
+RR^3
+(1, 0, 2)
+'\\x0027e8'2, -1, 4'\\x0027e9'.
+cc L.
+bb r(t) = '\\x0027e8'x_0, y_0, z_0'\\x0027e9'+'\\x0027e8'a, b, c'\\x0027e9't
+cc L
+t.
+y = mx+b,
+m
+b.
+m
+(0, b)
+y
+y
+'\\x0027e8'1, m'\\x0027e9',
+P
+bb v,
+RR^n
+n.
+P
+bb v.
+bb v
+P
+bb v,
+bb v
+tbb v
+t.
+P
+bb v
+["(9.5.1)", vec(OP)+bb v t]
+t
+O
+vec(OP)
+tbb v
+vec(OP)
+bb v
+tbb v,
+vec(OP)+tbb v
+t
+bb r
+P
+bb v
+["(9.5.2)", bb r(t)=bb r_0+tbb v,]
+bb r_0
+vec(OP)
+P.
+y = mx+b.
+m
+bb v = '\\x0027e8'0, 1'\\x0027e9'.
+P_1 = (1, 2, -1)
+P_2 = (-2, 1, -2).
+cc L
+RR^3
+P_1
+P_2,
+cc L.
+cc L
+bb r(t) = bb r_0+tbb v.
+bb s(t) = '\\x0027e8'-5, 0, -3'\\x0027e9'+t'\\x0027e8'6, 2, 2'\\x0027e9'.
+bb s(t)?
+cc L?
+bb r(t)
+bb s(t)
+cc L?
+bb r(t) = bb r_0+tbb v
+bb r(t).
+bb r(t) = '\\x0027e8'x(t), y(t), z(t)'\\x0027e9', \ bb r_0 = '\\x0027e8'x_0, y_0, z_0'\\x0027e9', \ "\and\ "\ bb v = '\\x0027e8'a, b, c'\\x0027e9',
+bb r(t) = bb r_0+tbb v
+x(t) = x_0+at, \ y(t) = y_0+bt, \ "\and\ "\ z(t) = z_0+ct,
+t
+P = (x_0, y_0, z_0)
+bb v = '\\x0027e8'a, b, c'\\x0027e9'
+x(t) = x_0+at, \ y(t) = y_0+bt, \ z(t) = z_0+ct.
+P
+bb v
+t
+P_1 = (1, 2, -1)
+P_2 = (-2, 1, -2),
+cc L
+RR^3
+P_1
+P_2,
+cc L.
+(1, 2, 1)
+cc L?
+t
+cc K,
+x(s) = 11+4s, \ y(s) = 1-3s, \ z(s) = 3+2s.
+cc K?
+cc L
+cc K
+t
+s
+x,
+y,
+z
+x
+'\\x0027e8'1, 0, 0'\\x0027e9',
+y
+'\\x0027e8'0, 1, 0'\\x0027e9',
+z
+'\\x0027e8'0, 0, 1'\\x0027e9'.
+p
+P_0
+bb n,
+P_0
+p
+bb n
+bb n = '\\x0027e8'a, b, c'\\x0027e9',
+P_0 = (x_0, y_0, z_0),
+P = (x, y, z)
+vec(P_0 P)
+bb n.
+[0=(, bb n*vec(P_0 P)], [=(, bb n*('\\x0027e8'x,y,z'\\x0027e9'-'\\x0027e8'x_0,y_0,z_0'\\x0027e9')], [=(, bb n*'\\x0027e8'x-x_0,y-y_0,z-z_0'\\x0027e9'], [=(, a(x-x_0)+b(y-y_0)+c(z-z_0).]
+bb n
+bb n = '\\x0027e8'a, b, c'\\x0027e9'
+P_0 = (x_0, y_0, z_0)
+["(9.5.3)", a(x-x_0)+b(y-y_0)+c(z-z_0)=0.]
+bb n = '\\x0027e8'a, b, c'\\x0027e9'
+P_0 = (x_0, y_0, z_0)
+P = (x, y, z)
+["(9.5.4)", bb n*vec(P_0 P)=0.]
+a(x-x_0)+b(y-y_0)+c(z-z_0) = 0,
+ax+by+cz = ax_0+by_0+cz_0.
+ax+by+cz = d
+d = bb n*'\\x0027e8'x_0, y_0, z_0'\\x0027e9'.
+P_0 = (4, -2, 1)
+bb n = '\\x0027e8'1, 2, 1'\\x0027e9',
+'\\x0027e8'1, 2, 1'\\x0027e9'*'\\x0027e8'x, y, z'\\x0027e9' = '\\x0027e8'1, 2, 1'\\x0027e9'*'\\x0027e8'4, -2, 1'\\x0027e9'
+x+2y+z = 1.
+x,
+y,
+z
+-2x+y-3z = 4,
+bb n = '\\x0027e8'-2, 1, -3'\\x0027e9'
+p_1
+(0, 2, 4)
+bb n = '\\x0027e8'2, -1, 1'\\x0027e9'.
+(2, 0, 2)
+p_1?
+p_2
+p_1
+(3, 0, 4).
+l
+(2, 0, 2)
+p_3
+x+2y-2z = 7.
+l
+p_3.
+P_0,
+P_1,
+P_2
+P_0,
+P_1,
+P_2
+vec(P_0 P_1)
+vec(P_0 P_2)
+p.
+bb n = vec(P_0 P_1) xx vec(P_0 P_2),
+p.
+P
+p,
+vec(P_0 P)
+bb n,
+["(9.5.5)", bb n*vec(P_0 P)=0.]
+P_0 = (1, 2, -1),
+P_1 = (1, 0, -1),
+P_2 = (0, 1, 3)
+p
+P_0,
+P_1,
+P_2.
+vec(P_0 P_1)
+vec(P_0 P_2).
+bb n
+p.
+p.
+q,
+-3(x-1)+4(y+3)+2(z-5) = 0.
+q,
+bb m
+q.
+p
+q?
+RR^3
+RR^2
+bb r(t) = bb r_0+tbb v
+bb r
+bb r_0
+bb v,
+P_1,
+P_2,
+P_3
+vec(P_1 P_2)
+vec(P_1 P_3)
+bb n = vec(P_1 P_2) xx vec(P_1 P_3)
+P
+vec(PP_1)*bb n = 0.
+P = (x, y, z),
+bb n = '\\x0027e8'a, b, c'\\x0027e9'
+P_1 = (x_0, y_0, z_0),
+a(x-x_0)+b(y-y_0)+c(z-z_0) = 0.
+bb r(t) = (3+3t)bb i+(-5-3t)bb j+(-1+3t)bb k
+x(t) =
+y(t) =
+z(t) =
+0bb i-3bb j-3bb k.
+bb r = '\\x0027e8'
+'\\x0027e9'+t'\\x0027e8'
+'\\x0027e9'
+x = x(t) =
+y = y(t) =
+z = z(t) =
+x = 1+2t, y = 2+2t, z = 3+6t
+'\\x0027e8'-5, 5, 2'\\x0027e9'+t'\\x0027e8'5, -3, -3'\\x0027e9'
+-2x+4y+z = -18.
+x
+xy
+y = 2,
+xz
+z = 3.
+2x+z = 1
+-3y+z = 1.
+c,
+d,
+'\\x002216'
+P_1 = (1, 2, -1)
+P_2 = (-2, 1, -2),
+cc L
+RR^3
+P_1
+P_2
+t
+(x(t), y(t), z(t)) = P_1?
+t
+(x(t), y(t), z(t)) = P_2?
+t
+P_1
+P_2?
+(7, 4, 1)
+(-8, -1, -4)?
+R = (4, -2, 7)
+Q = (-11, 4, 27)
+t = 0
+Q,
+t = 2
+R.
+x(s) = 4-2s,
+y(s) = -2+s,
+z(s) = 1+3s,
+(-4, 2, 17)
+bb v = '\\x0027e8'-2, 1, 5'\\x0027e9'.
+t.
+s
+t
+4x-5y+z = -2,
+(1, 1, 1),
+(0, 1, -1),
+(4, 2, -1).
+p
+z = -4x+3y+4,
+Q = (4, -1, 8).
+Q
+p.
+bb n
+p.
+P
+p.
+vec(PQ).
+|"comp"_bb n vec(PQ)|
+Q
+p.
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb F
+bb v
+bb F*bb v.
+(0, 1)
+(4, 3)
+y
+(0, 3)
+(4, 3)
+C_1
+(0, 1)
+(4, 3)
+C_2
+(4, 3)
+(0, 1)
+C_3
+RR^2
+RR^3
+C_1,
+C_2,
+C_3
+P
+Q
+RR^3
+(0, 1, -2)
+(3, -1, 2).
+RR^3
+(3, -1, 2)
+(0, 1, -2).
+3
+RR^2
+(0, -3)
+RR^2,
+y^2 = x
+(4, 2)
+(1, -1).
+0
+1,
+cos(t)
+sin(t)
+2 pi
+r_1
+r_2
+t
+-t
+-t
+e^t
+bb r(t) = '\\x0027e8'r_1(t), r_2(t), r_3(t)'\\x0027e9'.
+r_3(t).
+bb F,
+C,
+P
+Q.
+C
+P
+Q
+bb F
+C
+bb F
+C.
+C.
+C
+P
+Q
+bb F,
+bb F
+C
+n
+C_i.
+C_i
+bb r_(i-1)
+bb r_i.
+C
+P
+Q
+n
+Delta bb r_i = bb r_i-bb r_(i-1)
+C_i.
+bb F
+C_i
+bb F(bb r_i)*Delta bb r_i.
+C_i
+C_i
+n,
+C
+C_i,
+bb F
+Delta bb r_i,
+C_i
+n
+n
+C
+sum_(i=1)^n bb F(bb r_i)*Delta bb r_i.
+bb F
+C
+C
+P
+Q
+n
+bb F
+C
+bb F
+C.
+bb F
+C
+int_C bb F*dbb r = lim_(|Delta bb r_i|->0) sum_(i=1)^n bb F(bb r_i)*Delta bb r_i,
+C
+C
+C
+bb F
+bb F
+2
+3
+C
+int_C bb F*dbb r
+bb F
+Delta bb r_i,
+C
+'\\x0027e8'P, Q, R'\\x0027e9'
+C
+int_C Pdx+Qdy+Rdz.
+int_C bb F*dbb r
+bb F(bb r_i)*Delta bb r_i
+Delta bb r_i
+bb r_(i-1)
+bb r_i.
+Delta bb r_i,
+bb F(bb r_i),
+bb F
+bb G
+bb F
+C_1
+C_2
+bb G
+C_3
+C_4
+int_(C_1)bb F*dbb r
+int_(C_2)bb F*dbb r
+int_(C_3)bb G*dbb r
+int_(C_4)bb G*dbb r
+C
+bb F(x, y) = '\\x0027e8'2, 1'\\x0027e9'.
+C
+(1, 1)
+(4, 1)
+(4, -2).
+bb F
+C,
+int_C bb F*dbb r.
+(1, 1)
+(4, -2)
+bb F.
+int_C bb F*dbb r,
+C,
+dbb r ~~ Delta bb r = Delta xbb i.
+C
+'\\x0027e8'2, 1'\\x0027e9'*(Delta xbb i) = 2 Delta x.
+C,
+x
+1
+4,
+int_1^4 2dx = 6.
+C,
+C.
+dbb r ~~ Delta bb r = Delta ybb j,
+bb F*dbb r ~~ 1 Delta y.
+int_1^(-2)1dy = -3.
+C.
+C
+bb F
+C.
+int_C bb F*dbb r = 6-3 = 3.
+C
+C_1
+C_2
+C_1
+C_2,
+bb F
+C
+bb F
+C_1
+C_2.
+c in[a, b],
+int_a^b f(x)dx = int_a^c f(x)dx+int_c^b f(x)dx.
+C_1
+C_2
+C_1
+P
+Q
+C_2
+Q
+R,
+C_1+C_2
+P
+R
+C_1
+Q
+C_2
+R.
+C_1
+-C_1
+C_1
+C_2
+C_1+C_2
+-C_1
+k,
+bb F
+bb G,
+C,
+C_1,
+C_2,
+int_C(kbb F)*dbb r = k int_C bb F*dbb r
+int_C(bb F+bb G)*dbb r = int_C bb F*dbb r+int_C bb G*dbb r
+int_(-C)bb F*dbb r = -int_C bb F*dbb r
+int_(C_1+C_2)bb F*dbb r = int_(C_1)bb F*dbb r+int_(C_2)bb F*dbb r.
+bb F
+bb F
+int_(C_6)bb F*dbb r
+C = C_1+C_2+C_3+C_4.
+int_C bb F*dbb r
+int_(C_1)bb F*dbb r\ int_(C_2)bb F*dbb r\ int_(C_3)bb F*dbb r\ int_(C_4)bb F*dbb r\ int_(C_5)bb F*dbb r
+C
+C
+bb F
+C
+bb F
+C.
+C
+oint_C bb F*dbb r
+int_C bb F*dbb r.
+bb r(t)
+bb r
+>
+bb F
+int_C bb F*dbb r
+bb F
+xbb i+ybb j:
+bb F
+-ybb i+xbb j:
+bb F
+ybb i-xbb j:
+bb F
+bb i+bb j:
+vec F
+C_1,
+C_2,
+C_3.
+int_(C_1) vec F*d vec r,
+int_(C_2) vec F*d vec r
+int_(C_3) vec F*d vec r
+<
+<
+C
+P
+Q
+C_1,
+C_2,
+C_3
+bb F
+int_C bb F*dbb r = 9,
+int_(C_1)bb F*dbb r = 6,
+int_(C_3)bb F*dbb r = 7.
+int_(-C_3) vec bb F*d vec bb r
+int_(C_2) vec bb F*d vec bb r
+int_(-C_1-C_3) vec bb F*d vec bb r
+bb F
+RR^2
+RR^3,
+bb r_i
+bb F(bb r),
+bb F(r_1, r_2),
+bb r = '\\x0027e8'r_1, r_2'\\x0027e9'.
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+f
+x
+y
+f
+x
+y,
+(del f)/(del x)
+(del f)/(del y)
+f?
+r
+t
+M(r, t) = (1500r)/(1-(1+r/12)^(-12t)) .
+3%
+r = 0.03,
+t = 4
+3%.
+M
+f
+t
+r = 0.03.
+f(t) = M(0.03, t).
+f
+f.
+f(t) = M(0.03, t).
+g(r) = M(r, 4).
+f'(4)
+f'(4)
+f'(4)
+M
+r
+t = 4.
+g(r) = M(r, 4).
+g
+g.
+g'(0.03)
+g'(0.03)
+g'(0.03)
+f
+f(x, y) = (x^2 sin(2y))/32,
+x
+y
+y = 0.6,
+f(x, 0.6)
+x
+z = (x^2 sin(2y))/32
+y = 0.6.
+y = 0.6,
+f(x, 0.6) = (sin(1.2))/32 x^2,
+d/dx[f(x, 0.6)] = (sin(1.2))/16 x.
+x = 150,
+d/dx[f(x, 0.6)]|_(x=150) = (sin(1.2))/16 150 ~~ 8.74\ "feet per feet per second",
+0.6
+y
+x,
+f
+x
+f_x,
+f_x(150, 0.6) = d/dx f(x, 0.6)|_(x=150) = lim_(h->0) (f(150+h,0.6)-f(150,0.6))/h.
+f_x(a, b) = lim_(h->0) (f(a+h,b)-f(a,b))/h,
+x = 150
+z = (x^2 sin(2y))/32
+x = 150.
+f(150, y) = (150^2)/32 sin(2y),
+d/dy[f(150, y)] = (150^2)/16 cos(2y).
+y = 0.6,
+d/dy[f(150, y)]|_(y=0.6) = (150^2)/16 cos(1.2) ~~ 509.5\ "feet per radian".
+y
+x
+y,
+f
+y
+f_y
+f_y(150, 0.6) = d/dy f(150, y)|_(y=0.6) = lim_(h->0) (f(150,0.6+h)-f(150,0.6))/h.
+x,
+(a, b).
+f
+x
+y
+(a, b)
+[f_x(a,b), "<mi//>"=lim_(h->0) (f(a+h,b)-f(a,b))/h,\ and], [f_y(a,b), "<mi//>"=lim_(h->0) (f(a,b+h)-f(a,b))/h,]
+f
+f(x, y) = (xy^2)/(x+1)
+(1, 2).
+f(x, 2)
+y = 2.
+y = 2
+x = 1,
+x = 1.
+f(x, y) = (xy^2)/(x+1) .
+f_x(1, 2)
+f(1, y)
+x = 1.
+x = 1
+y = 2.
+f_y(1, 2)
+(x, y),
+f'(x)
+x
+(del f)/(del x) (a, b) = f_x(a, b), \ and\ (del f)/(del y) (a, b) = f_y(a, b).
+f_x,
+y
+y
+(del)/(del x) (x) = 1\ and\ (del)/(del x) (y) = 0.
+d/dx[\ ]
+(del)/(del x) [\ ],
+[\ , d/dx[3x^2-2x+3]=3 d/dx[x^2]-2 d/dx[x]+d/dx[3]=3*2x-2,], [and\ , (del)/(del x) [x^2 y-xy+2y]=y(del)/(del x) [x^2]-y(del)/(del x) [x]+ (del)/(del x) [2y]=y*2x-y]
+f(x, y) = 3x^3-2x^2 y^5,
+f_x
+f_y.
+f(x, y) = (xy^2)/(x+1) ,
+f_x
+f_y.
+g(r, s) = rscos(r),
+g_r
+g_s.
+f(w, x, y) = (6w+1)cos(3x^2+4xy^3+y),
+f_w,
+f_x,
+f_y.
+q(x, t, z) = (x2^t z^3)/(1+x^2) .
+(f(a+h)-f(a))/h
+f
+x
+x = a
+f
+[a, a+h],
+f'(a)
+f
+x = a.
+C
+C = 1449.2+4.6T-0.055T^2+0.00029T^3+(1.34-0.01T)(S-35)+0.016D.
+C
+T
+S
+D
+C_T,
+C_S
+C_D,
+C_T,
+C_S
+C_D.
+T = 10,
+S = 35
+D = 100.
+C
+(10, 35, 100)?
+w,
+v,
+T,
+w
+w = w(v, T).
+v'\\x002216'T
+-30
+-25
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+20
+5
+-46
+-40
+-34
+-28
+-22
+-16
+-11
+-5
+1
+7
+13
+10
+-53
+-47
+-41
+-35
+-28
+-22
+-16
+-10
+-4
+3
+9
+15
+-58
+-51
+-45
+-39
+-32
+-26
+-19
+-13
+-7
+0
+6
+20
+-61
+-55
+-48
+-42
+-35
+-29
+-22
+-15
+-9
+-2
+4
+25
+-64
+-58
+-51
+-44
+-37
+-31
+-24
+-17
+-11
+-4
+3
+30
+-67
+-60
+-53
+-46
+-39
+-33
+-26
+-19
+-12
+-5
+1
+35
+-69
+-62
+-55
+-48
+-41
+-34
+-27
+-21
+-14
+-7
+0
+40
+-71
+-64
+-57
+-50
+-43
+-36
+-29
+-22
+-15
+-8
+-1
+w_v(20, -10).
+f
+(f(x+h)-f(x-h))/(2h)
+h.
+w_T(20, -10).
+w(18, -10).
+f
+x,
+f(x+h) ~~ f(x)+hf'(x).
+w(20, -12).
+w(18, -12).
+f.
+f.
+f_x(-2, -1).
+f
+f(-2+h)
+f(-2-h)
+f_y(-2, -1).
+f_x(-1, 2)
+f_y(-1, 2).
+(x, y)
+f_x(x, y) = 0.
+(x, y)
+f_x(x, y) < 0.
+(x, y)
+f_y(x, y) > 0.
+g,
+g(2, 2) = 4,
+g_x(2, 2) > 0,
+g_y(2, 2) > 0.
+g(x, y) = 4
+(2, 2)
+g(x, y) = 3
+g(x, y) = 5.
+g
+h.
+h,
+h(2, 2) = 4,
+h_x(2, 2) < 0,
+h_y(2, 2) > 0.
+h(x, y) = 4
+(2, 2)
+h(x, y) = 3
+h(x, y) = 5.
+f = f(x, y)
+f:
+f
+x,
+(del f)/(del x) (x, y) = f_x(x, y) = lim_(h->0) (f(x+h,y)-f(x,y))/h,
+f
+y,
+(del f)/(del y) (x, y) = f_y(x, y) = lim_(h->0) (f(x,y+h)-f(x,y))/h,
+(x, y)
+f_x(a, b)
+f
+x
+(x, y) = (a, b)
+y
+b.
+f_x(a, b)
+y = b
+f
+(a, b, f(a, b)).
+f_y(a, b)
+f
+y
+(x, y) = (a, b)
+x
+a.
+f_y(a, b)
+x = a
+f
+(a, b, f(a, b)).
+f(x, y) = (2x-2y)/(2x+2y)
+(x, y) = (3, 3).
+(del f)/(del x) (3, 3) =
+(del f)/(del y) (3, 3) =
+f(x, y) = sin(x-y)
+f_x(0, 0) =
+f_y(0, 0) =
+w = sqrt(6r^2+6s^2+5t^2)
+(del w)/(del r) =
+(del w)/(del s) =
+(del w)/(del t) =
+f(x, y)
+f_x(5, -5) = 5
+f_y(5, -5) = 3.
+f(5, -5) = 0,
+f(6, -4).
+f(5, -4)
+f(6, -5)
+f(6, -4)
+m
+T,
+P,
+V
+PV = mRT,
+R
+(del P)/(del V) =
+(del V)/(del T) =
+(del T)/(del P) =
+(del P)/(del V) (del V)/(del T) (del T)/(del P) =
+f(x, y, z) = z\ arctan(y/x)
+(del f)/(del x) (5, 5, 1) =
+(del f)/(del y) (5, 5, 1) =
+(del f)/(del z) (5, 5, 1) =
+f(x, y) = int_y^x cos(-8t^2-5t-6)dt
+f_x(x, y) =
+f_y(x, y) =
+f(x, y) = e^(-5x)sin(5y).
+Delta x = 0.1
+Delta y = 0.1,
+f_x(1, 1) ~~
+f_y(1, 1) ~~
+Delta x = 0.01
+Delta y = 0.01,
+f_x(1, 1) ~~
+f_y(1, 1) ~~
+f_x
+f_y
+f
+P
+x
+y
+Q
+T
+P,
+Q
+x
+y,
+P,
+f_x
+f_y
+Q,
+f_x
+f_y
+R,
+f_x
+f_y
+P = f(P_0, t, r),
+P_0
+t
+r
+del P//del t
+del P//del t
+del P//del r
+del P//del r
+P = f(t, c),
+c
+t
+t = 14
+t = 16
+t = 18
+t = 20
+t = 22
+t = 24
+c = 0
+c = 2
+c = 6
+c = 15
+f_t(20, 6):
+f_t(20, 6) ~~
+f_c(20, 6):
+f_c(20, 6) ~~
+H(T, w)
+T
+w
+H
+w
+0.1,
+0.2,
+0.3,
+0.4.
+H_T(10, 0.2):
+H_T(10, 0.2) ~~
+H(T, w)
+H_T(T, w)
+T = 10, w = 0.2
+H_T(T, w) ~~
+T = 20, w = 0.2
+H_T(T, w) ~~
+T = 10, w = 0.3
+H_T(T, w) ~~
+T = 20, w = 0.3
+H_T(T, w) ~~
+H_w(T, w)
+T = 10, w = 0.2
+H_w(T, w) ~~
+T = 20, w = 0.2
+H_w(T, w) ~~
+T = 10, w = 0.3
+H_w(T, w) ~~
+T = 20, w = 0.3
+H_w(T, w) ~~
+I,
+T
+H
+I = I(T, H),
+darr'\\x002216'
+->
+I_T(94, 75).
+I_T(94, 75),
+I_H(94, 75).
+I_H(94, 75),
+I_T(92, 80) = 3.75
+I_H(92, 80) = 0.8.
+I(91, 80)
+I(92, 78).
+f(x, y) = 1/2 xy^2
+x
+y
+(a, b)
+(4, 5)
+f.
+f_x(a, b).
+f_x(a, b) = lim_(h->0) (f(a+h,b)-f(a,b))/h
+f_y(a, b).
+f_y(a, b) = lim_(h->0) (f(a,b+h)-f(a,b))/h
+f_x(4, 5)
+f_y(4, 5)
+f(x, y) = 1/2 xy^2.
+xy
+C(x, y) = (25xy+25)/((x-1)^2+(y-1)^2+1) .
+x
+y
+C(x, y).
+(del C)/(del x) |_((x,y))
+(del C)/(del y) |_((x,y)).
+(2, 3),
+y
+y = 3
+x
+(1, 3)?
+(6, 3)
+(2, 0).
+f
+f(x, y) = 8-x^2-3y^2.
+f_x(x, y)
+f_y(x, y).
+RR^3
+f(x, 1)
+x = 2.
+RR^3
+f(2, y)
+y = 1.
+(2, 1, f(2, 1))
+z = 8-x^2-3y^2
+(2, 1).
+f
+f_x(x, y) = cos(y)e^x+2x+y^2,
+f_y(x, y) = -sin(y)e^x+2xy+3,
+f(0, 0) = 5.
+f
+x
+y
+f_x(x, y) = cos(y)e^x+2x+y^2.
+x
+y
+y
+f_y(x, y) = -sin(y)e^x+2xy+3
+f
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+RR^3?
+RR^3
+S_("top")
+S_("bottom")
+S_("mid")
+xy
+S_("top")
+S_("bottom")
+S_("top")
+S_("mid")
+S_("bottom")
+S_("mid")
+S_("top")
+15
+S_("bottom")
+-3,
+S_("top")
+S_("bottom")
+S_("top")
+15
+S_("mid")
+-20,
+S_("top")
+S_("mid")
+S_("bottom")
+S_("mid")
+S_("mid")
+S_("bottom")
+S
+Q
+S.
+bb F
+Q
+S,
+'\\x00222c'_S bb F*bb N dS = '\\x00222d'_Q div(bb F)dV
+S
+bb F = '\\x0027e8'xy-z, yz+e^x, z(x-y)'\\x0027e9'
+z = 1-x-y.
+S_1
+S_2
+S_3
+S_4
+[bb r_1(s,t), "<mi//>"='\\x0027e8'0,s,t'\\x0027e9'], [bb r_2(s,t), "<mi//>"='\\x0027e8's,0,t'\\x0027e9'], [bb r_3(s,t), "<mi//>"='\\x0027e8's,t,0'\\x0027e9'], [bb r_4(s,t), "<mi//>"='\\x0027e8's,t,1-s-t'\\x0027e9']
+0 <= s <= 1
+0 <= t <= 1-s.
+[bb n_1, "<mi//>"='\\x0027e8'1,0,0'\\x0027e9'], [bb n_2, "<mi//>"='\\x0027e8'0,-1,0'\\x0027e9'], [bb n_3, "<mi//>"='\\x0027e8'0,0,1'\\x0027e9'], [bb n_4, "<mi//>"='\\x0027e8'1,1,1'\\x0027e9']
+bb n_1
+bb n_3
+Q
+bb n_2
+bb n_4
+Q.
+Q
+Q
+[S_1, "<mi//>":int_0^1 int_0^(1-s)'\\x0027e8'(0)s-t,st-e^1,t(0-s)'\\x0027e9'*'\\x0027e8'1,0,0'\\x0027e9'dtds], [S_2, "<mi//>":int_0^1 int_0^(1-s)'\\x0027e8's(0)-t,0(t)-e^s,t(s-0)'\\x0027e9'*'\\x0027e8'0,-1,0'\\x0027e9'dtds], [S_3, "<mi//>":int_0^1 int_0^(1-s)'\\x0027e8'st-0,t(0)-e^s,0(s-t)'\\x0027e9'*'\\x0027e8'0,0,1'\\x0027e9'dtds], [S_4, "<mi//>":int_0^1 int_0^(1-s)'\\x0027e8'st-(1-s-t),t(1-s-t)+e^s,(1-s-t)(s-t)'\\x0027e9'], [\ , \ *'\\x0027e8'1,1,1'\\x0027e9'dtds]
+[S_1, "<mi//>":int_0^1 int_0^(1-s)-tdtds], [S_2, "<mi//>":int_0^1 int_0^(1-s)-e^s dtds], [S_3, "<mi//>":int_0^1 int_0^(1-s)0dtds], [S_4, "<mi//>":int_0^1 int_0^(1-s)-1+2s+t+e^s-s^2 dtds]
+[S_4-S_1+S_2-S_3:, \ int_0^1 int_0^(1-s)-1+2s+2t-s^2 dtds], [\ , "<mi//>" int_0^1(s-1)^2 sds]
+1/12.
+bb F = '\\x0027e8'xy-z, yz+e^x, z(x-y)'\\x0027e9',
+["div"(bb F), "<mi//>"= (del)/(del x) (xy-z)+ (del)/(del y) (yz-e^x)+ (del)/(del z) (z(x-y))], [\ , "<mi//>"=y+z+(x-y)=z+x]
+Q
+0 <= x <= 1,
+0 <= y <= 1-x,
+0 <= z <= 1-x-y.
+I
+[I, "<mi//>"=int_0^1 int_0^(1-x) int_0^(1-x-y)z+xdzdydx], [\ , "<mi//>"=int_0^1 int_0^(1-x)1//2(1-x-y)+x(1-x-y)dydx], [\ , "<mi//>"=int_0^1 1/12( (x^3)/3)dx]
+1/12,
+S
+S_("top")
+S_("sides")
+S_("bottom")
+Q
+S.
+2,
+1.
+bb F = '\\x0027e8'xy-2z, y^2-yz, 3x+z^2'\\x0027e9'.
+bb F
+S.
+bb F
+S
+bb F = '\\x0027e8'xy-2z, y^2-yz, 3x+z^2'\\x0027e9'
+Q
+S_("top"),
+S_("sides"),
+S_("bottom").
+Q.
+bb F
+S_("top"),
+S_("sides"),
+S_("bottom").
+bb F
+'\\x00222d'_Q div(bb F)dV
+'\\x00222d'_Q div(bb F)dV.
+bb F = '\\x0027e8'3x^2+y^5, 5+e^(z^3), z'\\x0027e9'
+Q
+RR^3
+-2 <= x <= 2,
+-2 <= y <= 2,
+-2 <= z <= 2.
+bb G = '\\x0027e8'x^3, y^3, z^3'\\x0027e9'
+3
+3
+xy
+bb F = '\\x0027e8'8x, 5z, 7y'\\x0027e9'
+x^2+y^2 <= 1,
+0 <= z <= 8
+'\\x00222c'_cc S bb F*dbb S =
+'\\x00222d'_cc R div(bb F)dV =
+vec F(x, y, z) = x^3 vec i+y^3 vec j+z^3 vec k
+S
+x^2+y^2 <= 25, \ 0 <= z <= 5.
+'\\x00222c'_S vec F*d vec A =
+bb F = (y^2+z^3, x^3+z^2, xz).
+'\\x00222c'_(del W)bb F*dbb S
+W:
+x^2+y^2 <= z <= 10
+x^2+y^2 <= z <= 10, \ x >= 0
+x^2+y^2 <= z <= 10, \ x <= 0
+int_S vec F*d vec A
+S
+x = 0, x = 3, y = 3, y = 6, z = 0, z = 2,
+vec F = 5x^2 vec i+2y^2 vec j+5z^2 vec k.
+int_S vec F*d vec A = int_a^b int_c^d int_p^q
+dzdydx =
+a =
+b =
+c =
+d =
+p =
+q =
+int_S vec F*d vec A =
+x = 3,
+int_S vec F*d vec A = int_a^b int_c^d
+dzdy
+a =
+b =
+c =
+d =
+x = 0,
+int_S vec F*d vec A = int_a^b int_c^d
+dzdy
+a =
+b =
+c =
+d =
+y = 6,
+int_S vec F*d vec A = int_a^b int_c^d
+dzdx
+a =
+b =
+c =
+d =
+y = 3,
+int_S vec F*d vec A = int_a^b int_c^d
+dzdx
+a =
+b =
+c =
+d =
+z = 2,
+int_S vec F*d vec A = int_a^b int_c^d
+dydx
+a =
+b =
+c =
+d =
+z = 0,
+int_S vec F*d vec A = int_a^b int_c^d
+dydx
+a =
+b =
+c =
+d =
+int_S vec F*d vec A =
+Q
+x = 0,
+x = 1,
+y = 0,
+y = 1,
+z = 0,
+z = 1.
+bb F = '\\x0027e8'z^2-xy, 4yz+cos(x//pi), e^(xyz)'\\x0027e9'
+Q
+0 <= z <= 3,
+1 <= r <= 2,
+0 <= theta < 2 pi.
+x,
+y,
+z
+Q
+Q
+0 <= rho <= 3,
+0 <= varphi <= pi//4,
+0 <= theta < 2 pi.
+Q
+bb F
+S
+bb F = '\\x0027e8'2x+3sin(yz), -4y+e^(x^2), 7z+arctan(y^5)
+S
+(0, 0, 0),
+(1, 0, 0),
+(0, 2, 0),
+(0, 0, 2).
+bb F = '\\x0027e8'xy^2, yz^2, zx^2'\\x0027e9'
+S,
+3
+x >= 0.
+S
+S'
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb r
+bb r(t).
+bb r(t)
+s
+s',
+s'(t) = lim_(h->0) (s(t+h)-s(t))/h,
+s
+t = a,
+s'(a)
+y = s(t)
+(a, s(a)).
+bb r(t) = cos(t)bb i+sin(2t)bb j
+t.
+bb r,
+t = pi.
+d/dx[f(x)+g(x)] = f'(x)+g'(x).
+bb i
+bb j
+bb r
+bb r'(t).
+bb r'(pi).
+bb r'(pi)
+bb r
+t = pi
+bb r'(pi)
+f',
+f
+f'(x) = lim_(h->0) (f(x+h)-f(x))/h,
+a,
+f'(a)
+f,
+y = f(x)
+(a, f(a)).
+bb r
+bb r'(t) = lim_(h->0) (bb r(t+h)-bb r(t))/h
+t
+(dbb r)/dt
+d/dt[bb r(t)]
+bb r'(t).
+bb r'(t).
+bb r
+h
+bb r(t)
+bb r(t+h)
+bb r(t+h)-bb r(t)
+(bb r(t+h)-bb r(t))/h
+(bb r(t+h)-bb r(t))/h
+h < 1
+bb r(t)
+(bb r(t+h)-bb r(t))/h
+(f(x+h)-f(x))/h
+(s(t+h)-s(t))/h
+(bb r(t+h)-bb r(t))/h
+h -> 0.
+lim_(h->0) (bb r(t+h)-bb r(t))/h.
+lim_(h->0) (f(x+h)-f(x))/h
+lim_(h->0) (s(t+h)-s(t))/h
+bb r(t)
+t,
+(bb r(t+h)-bb r(t))/h
+[t, t+h],
+bb r'(t) = lim_(h->0) (bb r(t+h)-bb r(t))/h
+bb r(t)
+t
+t
+bb r'(t) = bb v(t)
+t.
+bb r'(t)
+bb r
+t.
+bb v'(t) = bb r''(t) = lim_(h->0) (bb v(t+h)-bb v(t))/h
+t,
+t
+bb v'(t) = bb a(t)
+|bb v(t)|,
+t,
+bb r(t) = x(t)bb i+y(t)bb j+z(t)bb k,
+[bb r'(t)=(, "<mi//>"lim_(h->0) (bb r(t+h)-bb r(t))/h], [=(, "<mi//>"lim_(h->0) ([x(t+h)-x(t)]bb i+[y(t+h)-y(t)]bb j+[z(t+h)-z(t)]bb k)/h], [=(, (lim_(h->0) (x(t+h)-x(t))/h)bb i+(lim_(h->0) (y(t+h)-y(t))/h)bb j], [(, "<mi//>"+(lim_(h->0) (z(t+h)-z(t))/h)bb k], [(, "<mi//>"=x'(t)bb i+y'(t)bb j+z'(t)bb k.]
+bb r(t) = x(t)bb i+y(t)bb j+z(t)bb k,
+d/dt bb r(t) = x'(t)bb i+y'(t)bb j+z'(t)bb k
+t
+x,
+y,
+z
+bb r'(t).
+bb r(t) = '\\x0027e8'cos(t), tsin(t), ln(t)'\\x0027e9'.
+bb r(t) = '\\x0027e8't^2+3t, e^(-2t), t/(t^2+1) '\\x0027e9'.
+bb r(t) = '\\x0027e8'tan(t), cos(t^2), te^(-t)'\\x0027e9'.
+bb r(t) = '\\x0027e8'sqrt(t^4+4), sin(3t), cos(4t)'\\x0027e9'.
+d/dx[f(x)*g(x)] = f(x)*g'(x)+g(x)*f'(x).
+f
+t
+bb r
+bb s
+t.
+d/dt[bb r(t)+bb s(t)] = bb r'(t)+bb s'(t)
+d/dt[f(t)bb r(t)] = f(t)bb r'(t)+f'(t)bb r(t)
+d/dt[bb r(t)*bb s(t)] = bb r'(t)*bb s(t)+bb r(t)*bb s'(t)
+d/dt[bb r(t) xx bb s(t)] = bb r'(t) xx bb s(t)+bb r(t) xx bb s'(t)
+d/dt[bb r(f(t))] = f'(t)bb r'(f(t)).
+bb r(t)*bb s(t)
+bb r(t) xx bb s(t)
+bb r
+bb r(t) = '\\x0027e8'2t-1/2 t^2+1, t-1'\\x0027e9'.
+bb r(t) = '\\x0027e8'2t-1/2 t^2+1, t-1'\\x0027e9'
+bb v(t).
+bb a(t).
+t = 0, 2, 4.
+|bb v| = sqrt(bb v*bb v).
+t
+bb v
+bb a
+bb v
+bb a
+bb v*bb v
+d/dt(bb v*bb v)
+bb v
+bb a.
+bb v*bb a > 0
+bb v*bb a < 0.
+d/dt|bb v(t)| = "comp"_bb v bb a.
+bb L_0 = '\\x0027e8'x_0, y_0, z_0'\\x0027e9'
+bb u = '\\x0027e8'a, b, c'\\x0027e9'
+bb L(t) = bb L_0+tbb u.
+bb L
+x(t) = x_0+at, \ y(t) = y_0+bt, \ z(t) = z_0+ct.
+bb r(t) = cos(t)bb i-sin(t)bb j+tbb k.
+bb r(t)
+t = pi.
+bb r
+t = pi.
+bb r
+t = pi.
+bb r(t)
+t = pi.
+bb r'(pi).
+bb r'(pi)
+bb r,
+a
+["(9.7.1)", bb L(t)=bb r(a)+tbb r'(a).]
+bb r,
+t = a,
+bb r',
+t = a.
+bb L(t)
+y = f(x)
+x = a,
+y = L(x)
+L(x) = f(a)+f'(a)(x-a).
+bb L(t)
+bb r(t)
+["(9.7.2)", bb L(t)=bb r(a)+(t-a)bb r'(a).]
+bb L(0) = bb r(a),
+t = 0.
+bb L(a) = bb r(a),
+t = a.
+f
+x
+F
+F'(x) = f(x).
+int f(x)\ dx
+f.
+C
+bb r
+bb R
+bb R'(t) = bb r(t).
+int bb r(t)\ dt
+bb r
+bb r
+bb r.
+bb r(t) = x(t)bb i+y(t)bb j+z(t)bb k,
+bb r(t) = x(t)bb i+y(t)bb j+z(t)bb k,
+int bb r(t)\ dt = (int x(t)\ dt)bb i+(int y(t)\ dt)bb j+(int z(t)\ dt)bb k.
+v
+s(0).
+v
+v
+s.
+bb v(t) = (-2sin(2t))bb i+(2cos(t))bb j+(1-1/(1+t) )bb k.
+t
+[-0.5, 3]
+(1.5, -1, 0)
+t = 0.
+bb a(t),
+t.
+bb r(t),
+t.
+t = 1,
+bb L(t),
+t = 1.
+(x_0, y_0)
+theta
+x
+v_0 = |bb v(0)|,
+bb v(t)
+t.
+g
+y
+x
+'\\x0027e8'0, -g'\\x0027e9'.
+bb a(t) = '\\x0027e8'0, -g'\\x0027e9'.
+bb r(t)
+t.
+(x_0, y_0)
+v_0
+theta
+t
+bb r(t) = '\\x0027e8'v_0 cos(theta)t+x_0, -g/2 t^2+v_0 sin(theta)t+y_0'\\x0027e9'.
+g
+bb r
+bb r
+bb r'(t) = lim_(h->0) (bb r(t+h)-bb r(t))/h
+t
+bb r'(t) = x'(t)bb i+y'(t)bb j+z'(t)bb k
+t
+x,
+y,
+z
+bb r(t) = x(t)bb i+y(t)bb j+z(t)bb k.
+bb r'(t)
+bb r
+bb r
+t,
+bb r
+bb r(t),
+bb r(t)
+t.
+bb r
+bb R
+bb R'(t) = bb r(t).
+int bb r(t)\ dt
+bb r
+bb r
+bb r,
+bb r(t) = x(t)bb i+y(t)bb j+z(t)bb k,
+int bb r(t)\ dt = (int x(t)\ dt)bb i+(int y(t)\ dt)bb j+(int z(t)\ dt)bb k.
+(x_0, y_0)
+v_0
+theta
+t
+bb r(t) = '\\x0027e8'v_0 cos(theta)t+x_0, -g/2 t^2+v_0 sin(theta)t+y_0'\\x0027e9',
+g
+(x(t), y(t), z(t))
+'\\x0027e8'x(t), y(t), z(t)'\\x0027e9'.
+bb r(t) = cos(8t)bb i+sin(8t)bb j-2tbb k,
+bb v(t) =
+bb i+
+bb j+
+bb k
+bb a(t) =
+bb i+
+bb j+
+bb k
+t;
+bb a(t) = (-25cos(5t))bb i+(-25sin(5t))bb j+(-5t)bb k,
+bb v(0) = bb i+bb k,
+bb r(0) = bb i+bb j+bb k,
+bb v(t) =
+bb i+
+bb j+
+bb k
+bb r(t) =
+bb i+
+bb j+
+bb k
+int_0^1(tbb i+t^2 bb j+t^3 bb k)dt
+bb i+
+bb j+
+bb k.
+x = cos t, \ y = sin t, \ z = t
+(cos( (-3 pi)/6), sin( (-3 pi)/6), (-3 pi)/6)
+x(t)
+y(t)
+z(t)
+bb r(t) = cos(-2t)bb i+sin(-2t)bb j-10tbb k
+bb r'(t)
+bb i+
+bb j+
+bb k
+int bb r(t)dt
+bb i+
+bb j+
+bb k+bb C
+bb C
+bb r(t),
+bb r'(t)
+t
+"Let\ "bb r(t) = (cos 3t, sin 3t).
+bb r'(pi/4)
+"Let\ "bb r(t) = (t^2, t^3).
+bb r'(4)
+"Let\ "bb r(t) = e^(3t)bb i+e^(-4t)bb j+tbb k.
+bb r'(-1)
+bb i+
+bb j+
+bb k
+vec r(t) = cos(pi t)'\\y01d48a'+sin(pi t)'\\y01d48b'+4t'\\y01d48c'
+z
+t
+12?
+t =
+12?
+vec v =
+12,
+t
+L(t) =
+t
+x(t) = (2t-1)^3, \ y(t) = 9, \ z(t) = 48t^4-32t^3.
+t = 3.
+t
+t
+bb r(t) = tbb a xx(bb b+tbb c),
+bb a = '\\x0027e8'3, 2, 2'\\x0027e9',
+bb b = '\\x0027e8'-2, 4, -4'\\x0027e9',
+bb c = '\\x0027e8'-1, 1, 4'\\x0027e9'.
+bb r'(t) = '\\x0027e8'
+'\\x0027e9'
+bb c_1(t) = (e^(4t), sin(-2t), -4t^3),
+bb c_2(t) = (e^(-5t), cos(4t), 2t^3)
+d/dt[bb c_1(t)*bb c_2(t)] =
+d/dt[bb c_1(t) xx bb c_2(t)] =
+bb i\ +
+\
+bb j\ +
+\
+bb k
+g = 9.8m//sec^2
+x, y, z
+t
+x = 10cos t, \ y = 10sin t, \ z = 100-5t.
+t?
+t?
+\ ^2
+bb r(t) = sin(t)'\\x0027e8'2t, t^2, arctan(t)'\\x0027e9'
+bb s(t) = bb r(2^t),
+bb r(t) = '\\x0027e8't+2, ln(t), 1'\\x0027e9'.
+bb r(t) = '\\x0027e8'cos(t), sin(t), t'\\x0027e9'*'\\x0027e8'-sin(t), cos(t), 1'\\x0027e9'
+bb r(t) = '\\x0027e8'cos(t), sin(t), t'\\x0027e9'xx'\\x0027e8'-sin(t), cos(t), 1'\\x0027e9'
+bb r(t) = '\\x0027e8't+1, cos(pi/2 t), 1/(1+t) '\\x0027e9'
+bb w(s) = '\\x0027e8's^2, sin(pi/2 s), s'\\x0027e9'.
+bb r(t)
+bb w(s).
+a
+b
+bb r(a)
+bb w(b)
+a
+bb r(t)
+t = a.
+b
+bb w(s)
+s = b.
+z = f(x, y)
+bb r(t)
+bb w(s)
+f(x, y) = sqrt(x^2+y^2)
+(3, 4, 5).
+x = 3
+f.
+(3, 4, 5)?
+y = 4
+f.
+(3, 4, 5)?
+(3, 4, 5).
+f
+bb r,
+int bb r(t)\ dt.
+int_0^1 bb r(t)\ dt
+bb r.
+bb r(t) = '\\x0027e8'cos(t), 1/(t+1) , te^t'\\x0027e9'
+bb r(t) = '\\x0027e8'cos(3t), sin(2t), t'\\x0027e9'
+bb r(t) = '\\x0027e8't/(1+t^2) , te^(t^2), 1/(1+t^2) '\\x0027e9'
+|bb v_0|
+theta.
+bb a(t) = '\\x0027e8'0, -g'\\x0027e9'
+t.
+bb a.
+bb v_0,
+sin(theta)
+cos(theta).
+bb v
+|bb v_0|
+theta
+bb v(t)
+bb r(t)
+(x_0, y_0)
+bb r(t) = '\\x0027e8'|bb v_0|cos(theta)t+x_0, -g/2 t^2+|bb v_0|sin(theta)t+y_0'\\x0027e9'.
+bb F
+bb r.
+bb a
+bb r.
+m
+bb L = mbb r xx bb v.
+(dbb L)/dt = '\\y01d7ce'.
+bb L*bb r = 0.
+bb L.
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb F,
+bb G,
+bb H.
+bb F
+bb G
+bb H
+bb F,
+bb G,
+bb H
+P_1,
+P_2,
+P_3
+bb F,
+bb G,
+bb H
+P_1,
+P_2,
+P_3
+bb H,
+P_4,
+P_5,
+P_6?
+bb F(x, y) = '\\x0027e8'F_1(x, y), F_2(x, y), F_3(x, y)'\\x0027e9'
+div(bb F) = (del F_1)/(del x) + (del F_2)/(del y) + (del F_3)/(del z) .
+div(bb F) = grad*bb F.
+grad = '\\x0027e8' (del)/(del x) , (del)/(del y) , (del)/(del z) '\\x0027e9'
+(a, b),
+bb F = '\\x0027e8'x, y'\\x0027e9'.
+div(bb F) = (del)/(del x) (x)+ (del)/(del y) (y) = 1+1 = 2.
+div(bb F)
+bb F
+bb F = '\\x0027e8'x, y'\\x0027e9'
+(a, b)
+bb G = '\\x0027e8'y, -x'\\x0027e9'.
+div(bb G) = (del)/(del x) (y)+ (del)/(del y) (-x) = 0.
+div(bb G)
+bb G
+bb G = '\\x0027e8'y, -x'\\x0027e9'
+(a, b)
+bb H = '\\x0027e8'x^2-y, y^2-x'\\x0027e9',
+div(bb H) = (del)/(del x) (x^2-y)+ (del)/(del y) (y^2-x) = 2x+2y.
+bb H
+div(bb H)
+4
+(1, 1).
+(1, 1)
+bb H = '\\x0027e8'x^2-y, y^2-y'\\x0027e9'
+(a, b)
+bb H
+(-1, 1)
+(-1, 1)
+bb H
+(-2, 0)
+-4.
+(-2, 0)
+xy
+div(bb H).
+bb F
+bb F
+bb F
+bb F
+xy
+bb G
+bb G
+bb H
+bb H
+bb F(x, y) = '\\x0027e8'-x, -y'\\x0027e9'
+bb G(x, y) = '\\x0027e8'y, x'\\x0027e9'
+bb H(x, y) = '\\x0027e8'xy, 1-x'\\x0027e9'
+(a, b).
+bb F(x, y) = '\\x0027e8'F_1(x, y), F_2(x, y)'\\x0027e9'.
+(a, b)
+bb r_("top")(t) = '\\x0027e8'a+t, b+h'\\x0027e9'
+-h <= t <= h.
+[bb r_("bottom")(t), "<mi//>"='\\x0027e8'a+t,b-h'\\x0027e9'], [bb r_("right")(t), "<mi//>"='\\x0027e8'a+h,b+t'\\x0027e9'], [bb r_("left")(t), "<mi//>"='\\x0027e8'a-h,b+t'\\x0027e9']
+-h <= t <= h.
+bb F
+(a, b)
+F_2
+F_2
+bb F
+bb F
+F_1.
+N
+[N=int_(-h)^h, F_2(a+t,b+h)dt-int_(-h)^h F_2(a+t,b-h)dt], [\ , "<mi//>"+int_(-h)^h F_1(a+h,b+t)dt-int_(-h)^h F_1(a-h,b+t)dt.]
+F_2
+h,
+(a, b).
+[1/((2h)^2) , (int_(-h)^h F_2(a+t,b+h)dt-int_(-h)^h F_2(a+t,b-h)dt<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>], [\ , <mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>+int_(-h)^h F_1(a+h,b+t)dt-int_(-h)^h F_1(a-h,b+t)dt)]
+h
+f
+[a, b]
+f_("AVG"[a,b]) = 1/(b-a) *int_a^b f(t)dt.
+t^**
+[a, b]
+f(t^** )(b-a) = int_a^b f(t)dt
+f
+[a, b].
+[a, b]
+int_(-h)^h F_2(a+t, b+h)dt = (2h)F_2(t_1^** , b+h),
+t_1^**
+(a-h, a+h).
+N
+(2h)(F_2(t_1^** , b+h)-F_2(t_2^** , b-h)+F_1(a+h, t_3^** )-F_1(a-h, t_1^** )),
+t_1^**
+t_2^**
+(a-h, a+h)
+t_3^**
+t_4^**
+(b-h, b+h).
+h -> 0
+[\ , "Flow Density"(a,b)=lim_(h->0) ("net flow")/("area") ], [\ , "<mi//>"=lim_(h->0) ((2h)(F_2(t_1^** ,b+h)-F_2(t_2^** ,b-h)+F_1(a+h,t_3^** )-F_1(a-h,t_1^** )))/(4h^2) .]
+F_2
+F_1
+[\ , "Flow Density"(a,b)=], [\ , "<mi//>"lim_(h->0)[ (F_1(a+h,t_3^** )-F_1(a-h,t_1^** ))/(2h) + (F_2(t_1^** ,b+h)-F_2(t_2^** ,b-h))/(2h) ].]
+h -> 0,
+t_1^** , t_2^**
+a
+t_3^** , t_4^**
+b.
+"Flow Density"(a, b) = (del F_1)/(del x) (a, b)+ (del F_2)/(del y) (a, b).
+(a, b)
+bb F(x, y) = '\\x0027e8'F_1(x, y), F_2(x, y)'\\x0027e9'
+div(bb F) = (del F_1)/(del x) + (del F_2)/(del y)
+bb G(x, y) = '\\x0027e8'G_1(x, y, z), G_2(x, y, z), G_3(x, y, z)'\\x0027e9'
+div(bb G) = (del G_1)/(del x) + (del G_2)/(del y) + (del G_3)/(del z)
+div((3x^2-sin(xz))'\\y01d48a'+4'\\y01d48b'-sin(xz)'\\y01d48c') =
+div(x/((x^2+y^2+z^2)^(1.5)) '\\y01d48a'+y/((x^2+y^2+z^2)^(1.5)) '\\y01d48b'+z/((x^2+y^2+z^2)^(1.5)) '\\y01d48c') =
+div(3e^(xy)'\\y01d48a'+3cos(xy)'\\y01d48b'+2e^(ln(x^2+y^2+2))'\\y01d48c') =
+div( (-y vec i+x vec j)/((x^2+y^2)^3) ).
+div( (-y vec i+x vec j)/((x^2+y^2)^3) ) =
+f(x, y) = axy+ax^2 y+y^3.
+div("grad"(f)) =
+a
+div("grad"(f)) = 0
+x, y.
+a =
+bb F = '\\x0027e8'F_1, F_2, F_3'\\x0027e9'
+bb G = ( (del F_3)/(del y) - (del F_2)/(del z) )bb i-( (del F_3)/(del x) - (del F_1)/(del z) )bb j+( (del F_2)/(del x) - (del F_1)/(del y) )bb k
+div(bb G) = vec 0.
+bb F = '\\x0027e8'-y, z, x'\\x0027e9'
+bb F = '\\x0027e8'cos(yz), 3xe^(z-x), 6(x+y+z)^3'\\x0027e9'
+bb F = '\\x0027e8'4xyz, y^2 z, yz^2'\\x0027e9'
+bb F = grad f
+f
+x,
+y,
+z
+bb F_1 = '\\x0027e8'3(x-z)^2, 2cos(x)+3yz+y, -(z-1)^2+e^(xy)'\\x0027e9'.
+bb F_1
+div(bb F_1) = 0.
+bb F_1
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb r,
+bb r(t) = '\\x0027e8'x(t), y(t), z(t)'\\x0027e9' = '\\x0027e8'cos(t), sin(t), t'\\x0027e9'
+t
+[0, 2 pi].
+bb r
+[0, 2 pi]
+n
+0 = t_0 < t_1 < t_2 < cdots < t_n = b
+n.
+n = 3,
+n = 6,
+n = 9.
+i
+[t_(i-1), t_i].
+bb r(t)
+[0, 2 pi]?
+bb r
+bb r(t) = '\\x0027e8'x(t), y(t), z(t)'\\x0027e9'.
+bb r(t)
+t
+[a, b],
+[a, b]
+n
+Delta t,
+a = t_0 < t_1 < cdots < t_n = b
+t = t_(i-1)
+t = t_i
+(x(t_(i-1)), y(t_(i-1)), z(t_(i-1)))
+(x(t_i), y(t_i), z(t_i)),
+sqrt((x(t_i)-x(t_(i-1)))^2+(y(t_i)-y(t_(i-1)))^2+(z(t_i)-z(t_(i-1)))^2).
+L
+L ~~ sum_(i=1)^n sqrt((x(t_i)-x(t_(i-1)))^2+(y(t_i)-y(t_(i-1)))^2+(z(t_i)-z(t_(i-1)))^2).
+n
+Delta t
+(Delta t)/(Delta t) ,
+[L, "<mi//>"~~sum_(i=1)^n sqrt((x(t_i)-x(t_(i-1)))^2+(y(t_i)-y(t_(i-1)))^2+(z(t_i)-z(t_(i-1)))^2)], [\ , "<mi//>"=sum_(i=1)^n sqrt((x(t_i)-x(t_(i-1)))^2+(y(t_i)-y(t_(i-1)))^2+(z(t_i)-z(t_(i-1)))^2) (Delta t)/(Delta t) ], [\ , "<mi//>"=sum_(i=1)^n sqrt((x(t_i)-x(t_(i-1)))^2+(y(t_i)-y(t_(i-1)))^2+(z(t_i)-z(t_(i-1)))^2) (Delta t)/(sqrt((Delta t)^2)) ]
+[L, "<mi//>"~~sum_(i=1)^n sqrt([(x(t_i)-x(t_(i-1)))^2+(y(t_i)-y(t_(i-1)))^2+(z(t_i)-z(t_(i-1))^2] 1/((Delta t)^2) ) Delta t], [\ , "<mi//>"=sum_(i=1)^n sqrt(( (x(t_i)-x(t_(i-1)))/(Delta t) )^2+( (y(t_i)-y(t_(i-1)))/(Delta t) )^2+( (z(t_i)-z(t_(i-1)))/(Delta t) )^2) Delta t.]
+n -> oo
+Delta t -> 0.
+[x'(t), "<mi//>"=lim_(Delta t->0) (x(t_i)-x(t_(i-1)))/(Delta t) ,], [y'(t), "<mi//>"=lim_(Delta t->0) (y(t_i)-y(t_(i-1)))/(Delta t) ,\ "\and\ "], [z'(t), "<mi//>"lim_(Delta t->0) (z(t_i)-z(t_(i-1)))/(Delta t) ,]
+lim_(n->oo) sum_(i=1)^n sqrt(( (x(t_i)-x(t_(i-1)))/(Delta t) )^2+( (y(t_i)-y(t_(i-1)))/(Delta t) )^2+( (z(t_i)-z(t_(i-1)))/(Delta t) )^2) Delta t
+int_a^b sqrt((x'(t))^2+(y'(t))^2+(z'(t))^2)dt.
+|bb r'(t)| = sqrt((x'(t))^2+(y'(t))^2+(z'(t))^2),
+bb r(t)
+C
+[a, b],
+L
+C
+["(9.8.1)", L=int_a^b|bb r'(t)|dt.]
+bb r(t)
+bb r'(t)
+|bb r'(t)|
+r.
+bb r(t) = '\\x0027e8'cos(t), sin(t), t'\\x0027e9'
+[0, 2 pi].
+y
+x
+y = f(x)
+f
+[a, b]
+int_a^b sqrt(1+[f'(t)]^2)dt.
+y = x^2//2.
+bb r
+bb r(t) = '\\x0027e8't, t^2//2'\\x0027e9'
+t.
+s
+s.
+bb r(t)
+bb r.
+bb r = bb r(t)
+t
+[a, b].
+s
+s = L(t) = int_a^t sqrt((x'(w))^2+(y'(w))^2+(z'(w))^2)dw,
+bb r(a)
+bb r(t).
+["(9.8.2)", (ds)/dt=L'(t)=sqrt((x'(t))^2+(y'(t))^2+(z'(t))^2)=|bb r'(t)|]
+L(t) = int_a^t|d/(dw) bb r(w)|dw.
+bb r'(t)
+L'(t) > 0
+t
+s = L(t)
+s = L(t)
+t
+t = L^(-1)(s).
+bb r(t)
+t = L^(-1)(s)
+bb r(s).
+5
+bb r(t) = '\\x0027e8'5cos(t), 5sin(t)'\\x0027e9',
+t
+2 pi.
+bb r'(t) = '\\x0027e8'-5sin(t), 5cos(t)'\\x0027e9',
+|bb r'(t)| = 5.
+s = L(t) = int_0^t|bb r'(w)|\ dw = int_0^t 5\ dw = 5t.
+s = L(t) = 5t,
+t
+s
+t(s) = L^(-1)(s) = s//5.
+bb r(t(s)) = bb r(L^(-1)(s)) = '\\x0027e8'5cos(s/5), 5sin(s/5)'\\x0027e9'.
+a
+["(9.8.3)", '\\x0027e8'acos(s/a),asin(s/a)'\\x0027e9']
+(dbb r)/dt = (dbb r)/(ds) (ds)/dt = (dbb r)/(ds) |bb r'(t)|,
+| (dbb r)/(ds) | = |1/(|bb r'(t)|) (dbb r)/dt| = 1,
+|bb r'(s)| = 1.
+s
+L(s) = int_0^s|d/(ds) bb r(w)|\ dw = int_0^s 1\ dw = s.
+x(t) = x_0+at\ "\and\ "\ y(t) = y_0+bt.
+t
+s,
+s = L(t) = int_0^t sqrt((x'(w))^2+(y'(w))^2)dw
+t.
+s
+t
+t
+s.
+["(9.8.4)", x(s)=x_0+a/(sqrt(a^2+b^2)) s\ "\and\ "\ y(s)=y_0+b/(sqrt(a^2+b^2)) s.]
+bb r(t) = '\\x0027e8't^2, 8/3 t^(3//2), 4t'\\x0027e9'
+t >= 0
+t
+s
+s
+t:
+[s(t), "<mi//>"=int_0^t sqrt((x'(w))^2+(y'(w))^2+(z'(w))^2)dw], [\ , "<mi//>"=int_0^t sqrt((2w)^2+(4w^(1//2))^2+(4)^2)dw], [\ , "<mi//>"=int_0^t sqrt(4w^2+16w+16)dw], [\ , "<mi//>"=2 int_0^t sqrt((w+2)^2)dw], [\ , "<mi//>"=2 int_0^t w+2dw], [\ , "<mi//>"=(w^2+4w)|_0^t], [\ , "<mi//>"=t^2+4t.]
+t >= 0,
+s = t^2+4t
+t^2+4t-s = 0
+t
+t = (-4+sqrt(16+4s))/2 = -2+sqrt(4+s).
+bb r(s) = '\\x0027e8'(-2+sqrt(4+s))^2, 8/3(-2+sqrt(4+s))^(3//2), 4(-2+sqrt(4+s))'\\x0027e9'.
+varphi
+varphi
+varphi
+varphi
+bb r(s),
+bb r(s),
+bb T(s) = bb r'(s),
+|bb T(s)| = 1;
+bb T(s)
+bb T(s) = '\\x0027e8'cos(varphi(s)), sin(varphi(s))'\\x0027e9',
+(dbb T)/(ds) = '\\x0027e8'-sin(varphi(s)) (d varphi)/(ds) , \ cos(varphi(s)) (d varphi)/(ds) '\\x0027e9' = '\\x0027e8'-sin(varphi(s)), \ cos(varphi(s))'\\x0027e9' (d varphi)/(ds) .
+| (dbb T)/(ds) | = |'\\x0027e8'-sin(varphi(s)), \ cos(varphi(s))'\\x0027e9'|\ | (d varphi)/(ds) | = | (d varphi)/(ds) |
+C
+s
+C,
+kappa,
+C
+kappa = kappa(s) = | (dbb T)/(ds) |.
+kappa
+x(s) = x_0+a/(sqrt(a^2+b^2)) s\ "\and\ "\ y(s) = y_0+b/(sqrt(a^2+b^2)) s
+a
+bb r(s) = '\\x0027e8'acos(s/a), \ asin(s/a)'\\x0027e9'.
+1/a.
+bb r(t).
+bb T,
+bb r'(t)
+["(9.8.5)", bb T(t)= (bb r'(t))/(|bb r'(t)|) .]
+bb r
+[kappa, "<mi//>"=| (dbb T)/(ds) |], [\ , "<mi//>"=| (dbb T)/dt dt/(ds) |], [\ , "<mi//>"= (| (dbb T)/dt|)/(| (ds)/dt|) ], [\ , "<mi//>"= (|bb T'(t)|)/(|bb r'(t)|) .]
+bb r
+C,
+bb r'(t)
+bb r''(t)
+kappa
+C
+kappa = kappa(t) = (|bb T'(t)|)/(|bb r'(t)|)
+kappa = (|bb r'(t) xx bb r''(t)|)/(|bb r'(t)|^3) .
+kappa
+t
+(x^2)/(a^2) + (y^2)/(b^2) = 1
+bb r(t) = '\\x0027e8'acos(t), bsin(t)'\\x0027e9'.
+0 < b < a,
+bb r(t) = cos(t)bb i+sin(t)bb j+tbb k.
+a
+1//a,
+kappa
+1//kappa
+L
+bb r(t)
+[a, b]
+L = int_a^b|bb r'(t)|dt.
+kappa
+kappa = | (dbb T)/(ds) |.
+(x(t), y(t), z(t))
+'\\x0027e8'x(t), y(t), z(t)'\\x0027e9'.
+x = -(3+3t), \ y = -(1+4t), z = 4-4t,
+4 <= t <= 5.
+bb r = (e^(-2t)cos(6t), e^(-2t)sin(6t), e^(-2t)).
+s(t):
+t = 0
+bb r(t) = (3t, -4sin t, -4cos t)
+-1 <= t <= 1.
+y = sin(-3x)
+x = pi/4.
+bb r(t) = (14t, 7t^2, 7ln t)
+t > 0.
+(14, 7, 0)
+(70, 175, 7ln(5)).
+kappa(t)
+bb r(t) = (3sin t)bb i+(3sin t)bb j+(-1cos t)bb k
+bb r(t) = e^(20t)cos tbb i+e^(20t)sin tbb j+e^(20t)bb k
+bb T(pi//2) = '\\x0027e8'
+'\\x0027e9'
+bb r(t) = '\\x0027e8't, t^2, t^5'\\x0027e9'
+bb r'(t) = '\\x0027e8'
+'\\x0027e9'
+bb T(1) = '\\x0027e8'
+'\\x0027e9'
+bb r''(t) = '\\x0027e8'
+'\\x0027e9'
+bb r'(t) xx bb r''(t) = '\\x0027e8'
+'\\x0027e9'
+(-3, -4, -4),
+bb x(t) = (-3+t, -4+t, -4+t)
+bb y(s) = (
+)
+t
+bb r
+bb r(t) = 5tbb i+4sin(3t)bb j+4cos(3t)bb k.
+bb T(t),
+bb r(t)
+t.
+bb T(t)
+[0, pi//3].
+[0, pi//3].
+y = f(x)
+z
+bb r(t) = '\\x0027e8'x(t), y(t), z(t)'\\x0027e9'
+y = f(x)
+kappa = (|bb r'(t) xx bb r''(t)|)/(|bb r'(t)|^3)
+kappa = (|f''(x)|)/([1+(f'(x))^2]^(3//2)) .
+y = 4x^2-x^3.
+bb r(t) = '\\x0027e8'x(t), y(t)'\\x0027e9'
+y = 4x^2-x^3
+x = -3
+x = 3.
+x = -3
+x = 3.
+kappa(t),
+kappa(t)
+y = 4x^2-x^3.
+kappa(t)
+bb r(t) = cos(t)bb i+sin(t)bb j+tbb k.
+bb T(t),
+t
+bb T(t).
+|bb T(t)| = 1
+bb T
+bb T'
+t.
+bb T*bb T = |bb T|^2 = 1,
+d/dt[bb T*bb T].
+bb r
+bb T(t)
+bb N(t) = 1/(|bb T'(t)|) bb T'(t).
+bb N(t)
+bb T(t)?
+bb B(t) = bb T(t) xx bb N(t),
+bb B(t)
+bb B(t)
+bb T(t)
+bb N(t)?
+bb T(pi//2),
+bb N(pi//2),
+bb B(pi//2).
+kappa = (|bb r'(t) xx bb r''(t)|)/(|bb r'(t)|^3) .
+|bb r'(t)| = (ds)/dt.
+bb T(t) = (bb r'(t))/(|bb r'(t)|)
+|bb r'(t)| = (ds)/dt
+bb r'(t) = (ds)/dt bb T(t).
+bb r''(t) = (d^2 s)/(dt^2) bb T(t)+ (ds)/dt bb T'(t).
+bb r'(t) xx bb r''(t) = ( (ds)/dt)^2(bb T(t) xx bb T'(t)).
+|bb T(t)| = 1
+bb T(t)
+bb T'(t)
+t.
+|bb T(t) xx bb T'(t)|
+|bb r'(t) xx bb r''(t)| = ( (ds)/dt)^2|bb T'(t)|.
+kappa = (|bb T'(t)|)/(|bb r'(t)|)
+kappa = (|bb r'(t) xx bb r''(t)|)/(|bb r'(t)|^3) .
+f(x) = x^2.
+x(t) = t
+y(t) = t^2.
+bb T(t)
+f.
+bb T(s) = '\\x0027e8'cos(varphi(s)), sin(varphi(s))'\\x0027e9',
+varphi
+bb T* (dT)/(ds) = 0.
+(dT)/(ds)
+bb T.
+bb N
+(dT)/(ds) .
+bb N
+bb N
+bb T
+(1, 1)
+f.
+bb N
+bb N?
+P
+rho = 1/kappa
+P
+P.
+rho
+P.
+C
+P,
+O
+gamma
+vec(OC).
+f.
+rho
+bb N
+P
+C?
+gamma = bb r+rho bb N,
+bb r = vec(OP).
+f
+(1, 1).
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+f = f(x, y, z)
+f = f(x, y)
+R = [a, b] xx[c, d]
+g = g(x)
+[a, b].
+D.
+f
+D,
+f,
+f_("AVG"(D)),
+f_("AVG"(D)) = 1/(A(D)) '\\x00222c'_D f(x, y)dA,
+A(D)
+D.
+delta(x, y)
+D,
+M,
+M = '\\x00222c'_D delta(x, y)dA.
+B = {(x, y, z):0 <= x <= 4, 0 <= y <= 6, 0 <= z <= 8},
+delta(x, y, z)
+(x, y, z)
+x,
+y,
+z
+[0, 4]
+[0, 6]
+[0, 8]
+B
+0 = x_0 < x_1 < x_2 = 4
+[0, 4]
+0 = y_0 < y_1 < y_2 < y_3 = 6
+0 = z_0 < z_1 < z_2 = 8
+Delta x
+[x_(i-1), x_i]
+i
+Delta y?
+Delta z?
+[0, 4],
+[0, 6]
+[0, 8]
+B
+Delta V
+B_(ijk)
+[x_(i-1), x_i] xx[y_(j-1), y_j] xx[z_(k-1), z_k].
+(x_(ijk)^** , y_(ijk)^** , z_(ijk)^** )
+i, j, k
+i, j, k.
+delta(x_(ijk)^** , y_(ijk)^** , z_(ijk)^** )?
+delta(x_(ijk)^** , y_(ijk)^** , z_(ijk)^** ) Delta V
+z
+f = f(x, y, z)
+B = [a, b] xx[c, d] xx[r, s].
+f
+B
+[a, b]
+m
+Delta x = (b-a)/m.
+x_0,
+x_1,
+...,
+x_m
+a = x_0 < x_1 < x_2 < cdots < x_m = b.
+[c, d]
+n
+Delta y = (d-c)/n
+c = y_0 < y_1 < y_2 < cdots < y_n = d,
+[r, s]
+cc l
+Delta z = (s-r)/cc l
+r = z_0 < z_1 < z_2 < cdots < z_l = s.
+B_(ijk)
+B
+(x_(i-1), y_(j-1), z_(k-1))
+(x_i, y_j, z_k)
+i
+1
+m,
+j
+1
+n,
+k
+cc l.
+B_(ijk)
+Delta V = Delta x*Delta y*Delta z.
+(x_(ijk)^** , y_(ijk)^** , z_(ijk)^** )
+B_(ijk)
+i,
+j,
+k.
+f
+B
+sum_(i=1)^m sum_(j=1)^n sum_(k=1)^cc l f(x_(ijk)^** , y_(ijk)^** , z_(ijk)^** )*Delta V.
+f(x, y, z)
+B,
+B.
+m,
+n,
+cc l
+B.
+f
+B
+'\\x00222d'_B f(x, y, z)dV = lim_(m,n,cc l->oo) sum_(i=1)^m sum_(j=1)^n sum_(k=1)^cc l f(x_(ijk)^** , y_(ijk)^** , z_(ijk)^** )*Delta V.
+f(x, y, z)
+B
+(x, y, z),
+M = '\\x00222d'_B f(x, y, z)dV
+B.
+f
+B,
+f
+B,
+f_("AVG"(B)).
+S
+RR^3,
+B.
+V(S) = '\\x00222d'_S 1dV
+S
+f = f(x, y, x)
+S
+f_("AVG"(S)) = (1/(V(S)) )'\\x00222d'_S f(x, y, z)dV,
+V(S)
+S.
+S
+delta = delta(x, y, z)
+(bar x, bar y, bar z),
+[bar x, "<mi//>"= ('\\x00222d'_S x\ delta(x,y,z)dV)/M,], [bar y, "<mi//>"= ('\\x00222d'_S y\ delta(x,y,z)dV)/M,], [bar z, "<mi//>"= ('\\x00222d'_S z\ delta(x,y,z)dV)/M,]
+M = '\\x00222d'_S delta(x, y, z)dV
+S.
+dV
+dzdydx,
+f
+B = [a, b] xx[c, d] xx[r, s]
+'\\x00222d'_B f(x, y, z)dV = int_a^b int_c^d int_r^s f(x, y, z)dzdydx.
+S
+f(x, y, z) = x-y+2z
+B = [-2, 3] xx[1, 4] xx[0, 2].
+S
+z = sqrt(x^2+y^2)
+z = 3.
+S
+["(11.7.1)", int_(x=?)^(x=?) int_(y=?)^(y=?) int_(z=?)^(z=?) delta(x,y,z)dzdydx]
+S
+delta(x, y, z)
+S
+(x, y, z).
+xy
+RR^2
+z
+xy
+x
+x
+y
+x?
+z
+(x, y)
+z
+x
+y.
+S.
+'\\x00222d'_S f(x, y, z)dV
+S
+int_a^b int_(g_1(x))^(g_2(x)) int_(h_1(x,y))^(h_2(x,y))f(x, y, z)dzdydx
+int_r^s int_(p_1(z))^(p_2(z)) int_(q_1(x,z))^(q_2(x,z))f(x, y, z)dydxdz
+g_1,
+g_2,
+h_1,
+h_2,
+p_1,
+p_2,
+q_1,
+q_2
+x,
+y,
+z
+x+2y+3z = 6
+(x, y, z)
+delta(x, y, z) = x+y+z.
+M,
+M = '\\x00222d'_S delta(x, y, z)dV,
+S
+z
+x+2y+3z = 6;
+z
+z = 1/3(6-x-2y).
+xy
+z
+0 <= z <= 1/3(6-x-2y).
+x
+y
+xy
+z = 0
+z = 1/3(6-x-2y).
+x
+y
+x+2y = 6.
+xy
+y
+y
+x
+(6, 0)
+(0, 3)
+y = 3-1/2 x.
+y
+0 <= y <= 3-1/2 x.
+x
+["(11.7.2)", M=int_0^6 int_0^(3-(1//2)x) int_0^((1//3)(6-x-2y))x+y+zdzdydx.]
+[M, "<mi//>"=int_0^6 int_0^(3-(1//2)x) int_0^((1//3)(6-x-2y))x+y+zdzdydx], [\ , "<mi//>"=int_0^6 int_0^(3-(1//2)x)[xz+yz+z/2]|_0^((1//3)(6-x-2y))dydx], [\ , "<mi//>"=int_0^6 int_0^(3-(1//2)x) 4/3 x-5/18 x^2- (\ )/9 xy+2/3 y-4/9 y^2+2dydx], [\ , "<mi//>"=int_0^6[4/3 xy-5/18 x^2 y-7/18 xy^2+1/3 y^2-4/27 y^3+2y]|_0^(3-(1//2)x)dx], [\ , "<mi//>"=int_0^6 5+1/2 x-7/12 x^2+13/216 x^3 dx], [\ , "<mi//>"=[5x+1/4 x^2-7/36 x^3+13/864 x^4]|_0^6], [\ , "<mi//>"=33/2.]
+x,
+z,
+x,
+y
+y,
+z,
+x
+x,
+y,
+z
+S
+z = 0,
+-1 <= x <= 1,
+-1 <= y <= 1
+z = 2-x^2-y^2.
+z = 2-x^2-y^2.
+S
+S.
+S,
+(x, y, z)
+delta(x, y, z) = x^2+1.
+S
+f = f(x, y, z)
+B = [a, b] xx[c, d] xx[r, s].
+f
+B
+'\\x00222d'_B f(x, y, z)dV = lim_(Delta V->0) sum_(i=1)^m sum_(j=1)^n sum_(k=1)^l f(x_(ijk)^** , y_(ijk)^** , z_(ijk)^** )*Delta V,
+S.
+'\\x00222d'_S f(x, y, z)dV
+S
+f(x, y, z) = 1,
+S
+f
+S
+(x, y, z).
+f_("AVG"(S)) = 1/(V(S)) '\\x00222d'_S f(x, y, z)dV,
+f
+S.
+f(x, y, z) = x^4 cos(y+z)
+2 <= x <= 5,
+0 <= y <= pi,
+0 <= z <= pi.
+int int int_bb E xyzdV
+0 <= z <= 3, \ 0 <= y <= z, \ 0 <= x <= y.
+0 <= x <= 2, \ 0 <= y <= 1, \ 0 <= z <= 3,
+rho(x, y, z) = x.
+f(x, y, z) = ye^(-xy)
+0 <= x <= 3,
+0 <= y <= 5,
+0 <= z <= 1
+xy
+yz
+xz
+(x//4)+(y//2)+(z//8) = 1,
+delta(x, y, z) = x+4y.
+m
+W
+V
+I_x = m/V int_W(y^2+z^2)dV\ I_y = m/V int_W(x^2+z^2)dV\ I_z = m/V int_W(x^2+y^2)dV
+z
+120
+0 <= x <= 4,
+0 <= y <= 5,
+0 <= z <= 3.
+I_x =
+I_y =
+I_z =
+'\\x00222d'_E f(x, y, z)dV
+z = 0, x = 0, z = y-8x
+y = 24.
+int_a^b int_(g_1(x))^(g_2(x)) int_(h_1(x,y))^(h_2(x,y))f(x, y, z)"dzdydx"
+a =
+b =
+g_1(x) =
+g_2(x) =
+h_1(x, y) =
+h_2(x, y) =
+int_a^b int_(g_1(y))^(g_2(y)) int_(h_1(x,y))^(h_2(x,y))f(x, y, z)"dzdxdy"
+a =
+b =
+g_1(y) =
+g_2(y) =
+h_1(x, y) =
+h_2(x, y) =
+int_a^b int_(g_1(z))^(g_2(z)) int_(h_1(y,z))^(h_2(y,z))f(x, y, z)"dxdydz"
+a =
+b =
+g_1(z) =
+g_2(z) =
+h_1(y, z) =
+h_2(y, z) =
+int_a^b int_(g_1(y))^(g_2(y)) int_(h_1(y,z))^(h_2(y,z))f(x, y, z)"dxdzdy"
+a =
+b =
+g_1(y) =
+g_2(y) =
+h_1(y, z) =
+h_2(y, z) =
+int_a^b int_(g_1(x))^(g_2(x)) int_(h_1(x,z))^(h_2(x,z))f(x, y, z)"dydzdx"
+a =
+b =
+g_1(x) =
+g_2(x) =
+h_1(x, z) =
+h_2(x, z) =
+int_a^b int_(g_1(z))^(g_2(z)) int_(h_1(x,z))^(h_2(x,z))f(x, y, z)"dydxdz"
+a =
+b =
+g_1(z) =
+g_2(z) =
+h_1(x, z) =
+h_2(x, z) =
+z = x^2+2y^2
+R = [-1, 1] xx[-1, 1].
+rho(x, y, z)
+(x, y, z)
+W,
+(bar x, bar y, bar z)
+bar x = 1/m int_W x rho dV\ bar y = 1/m int_W y rho dV\ bar z = 1/m int_W z rho dV,
+x,
+y,
+z
+C
+z = sqrt(x^2+y^2)
+z = 1.
+C
+"<mi//>"^3,
+z
+C
+bar z =
+z = sqrt(x^2+y^2)
+z = 2.
+'\\x00222d'_W(z-2)dV
+'\\x00222d'_We^(-xyz)dV
+'\\x00222d'_W(z-sqrt(x^2+y^2))dV
+x//4+y//3+z//12 = 1,
+delta(x, y, z) = x+y.
+'\\x00222d'_Rf(x, y, z)dV = int_A^B int_C^D int_E^F
+dzdydx
+S
+y = x^2
+z = 0
+z = 1-y
+y = x^2
+z = 0
+z = 1-y.
+S
+delta(x, y, z) = z
+S.
+z,
+y,
+x.
+S
+xy
+S.
+y,
+z,
+x.
+S
+xz
+S.
+x,
+y,
+z.
+S
+yz
+S
+xy,
+xz,
+yz
+x,
+y,
+z
+y
+x
+2y,
+z
+x+y.
+f(x, y, z) = x+y+z
+z = 4-x-y^2
+x = 0,
+y = 0,
+z = 0.
+z = g(x, y) = x^2+y^2
+z = f(x, y) = 8-3x^2-3y^2.
+z,
+xy
+z,
+y,
+x.
+delta(x, y, z) = 1/(x^2+y^2+z^2+1) .
+delta(x, y, z) = 1/(x^2+y^2+z^2+1)
+delta(x, y, z) = 1/(x^2+y^2+z^2+1) .
+z = 4-x^2-y^2
+R
+xy
+y = -x
+x^2+y^2 = 4
+z = 9-x^2-y^2
+y = x,
+y = 2x,
+y = 1.
+(x, y, z)
+delta(x, y, z) = xyz+1,
+y = 0,
+y = 12+x//4,
+x = 0,
+x = 12,
+z = 16-x//6-y//3.
+(0, 0, 0)
+T(x, y, z) = 80/(1+ (x^2)/1000+ (y^2)/1000+ (z^2)/1000)
+x^2+y^2 = 9
+y+z = 5
+z = 1.
+delta(x, y, z) = sqrt(x^2+y^2),
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+f = f(x, y)
+R = [a, b] xx[c, d]
+'\\x00222c'_R f(x, y)dA = lim_(m,n->oo) sum_(j=1)^n sum_(i=1)^m f(x_(ij)^** , y_(ij)^** )*Delta A,
+'\\x00222c'_R f(x, y)dA
+R
+int_a^b int_c^d f(x, y)dydx\ "\or\ "\ int_c^d int_a^b f(x, y)dxdy.
+T
+(0, 0, 0),
+(1, 0, 0),
+(0, 1, 0),
+(0, 0, 1)
+bb a,
+bb b,
+bb c
+V
+["(11.3.1)", V=1/6|bb a*(bb b xx bb c)|.]
+T.
+T
+xy
+T.
+T.
+T
+z = 1-(x+y).
+int_(x=?)^(x=?) int_(y=?)^(y=?)1-(x+y)dydx.
+x,
+y,
+dA = dydx.
+xy
+0 <= y <= 1-x\ "\and\ "\ 0 <= x <= 1.
+int_(x=?)^(x=?) int_(y=?)^(y=?)1-(x+y)dydx = int_(x=0)^(x=1) int_(y=0)^(y=1-x)1-(x+y)dydx.
+int_(x=0)^(x=1) int_(y=0)^(y=1-x)1-(x+y)dydx
+'\\x00222c'_R f(x, y)dA
+f
+xy
+R
+f
+xy
+R;
+1/(A(R)) '\\x00222c'_R f(x, y)dA,
+A(R)
+R
+f
+R.
+f(x, y) >= 0
+R,
+f
+R
+R
+f
+R.
+f = f(x, y)
+f
+D.
+D
+D
+R
+f
+R
+f
+R
+D
+F = F(x, y)
+R
+F(x, y) = {[f(x,y),, "\if\ "(x,y) in D,], [0,, "\if\ "(x,y)!inD]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>.
+f
+D
+F
+R,
+'\\x00222c'_D f(x, y)dA = '\\x00222c'_R F(x, y)dA.
+R
+D,
+D
+D
+g_1(x) <= y <= g_2(x)
+a <= x <= b,
+g_1 = g_1(x)
+g_2 = g_2(x)
+x,
+'\\x00222c'_D f(x, y)dA = int_(x=a)^(x=b) int_(y=g_1(x))^(y=g_2(x))f(x, y)dydx.
+D
+h_1(y) <= x <= h_2(y)
+c <= y <= d,
+h_1 = h_1(y)
+h_2 = h_2(y)
+y,
+'\\x00222c'_D f(x, y)dA = int_(y=c)^(y=d) int_(x=h_1(y))^(x=h_2(y))f(x, y)dxdy.
+y,
+x
+f(x, y) = x^2 y
+D
+(0, 0),
+(2, 0),
+(2, 3)
+y
+x
+'\\x00222c'_D f(x, y)dA,
+D
+x
+y.
+y.
+'\\x00222c'_D x^2 ydA = int_(x=a)^(x=b) int_(y=g_1(x))^(y=g_2(x))x^2 ydydx,
+D
+g_1(x) <= y <= g_2(x)\ "\and\ "\ a <= x <= b.
+y
+'\\x00222c'_D x^2 ydA = int_(x=a)^(x=b)A(x)dx,
+A(x)
+y
+x
+x
+y
+y
+g_1(x) = 0;
+y = g_2(x),
+x.
+y = 3/2 x.
+y
+g_2(x) = 3/2 x.
+x = 0
+x = 2,
+a = 0
+b = 2.
+'\\x00222c'_D x^2 ydA = int_(x=0)^(x=2) int_(y=0)^(y=3/2 x)x^2 ydydx.
+[int_(x=0)^(x=2) int_(y=0)^(y=3/2 x)x^2 ydydx, "<mi//>"=int_(x=0)^(x=2)[x^2* (y^2)/2]|_(y=0)^(y=3/2 x)dx], [\ , "<mi//>"=int_(x=0)^(x=2) 9/8 x^4 dx], [\ , "<mi//>"=9/8(x^5)/5|_(x=0)^(x=2)], [\ , "<mi//>"=(9/8)(32/5)], [\ , "<mi//>"=36/5.]
+x.
+'\\x00222c'_D x^2 ydA = int_(y=c)^(y=d) int_(x=h_1(y))^(x=h_2(y))x^2 ydxdy
+D
+h_1(y) <= x <= h_2(y)\ "\and\ "\ c <= y <= d.
+x
+'\\x00222c'_D x^2 ydA = int_c^d A(y)dy,
+A(y)
+x
+y
+y
+x
+x
+h_2(y) = 2;
+h_1(y),
+y.
+y = 3/2 x
+x
+x = 2/3 y.
+h_1(y) = 2/3 y.
+y = 0
+y = 3,
+c = 0
+d = 3.
+'\\x00222c'_D x^2 ydA = int_(y=0)^(y=3) int_(x=(2//3)y)^(x=2)x^2 ydxdy.
+[int_(y=0)^(y=3) int_(x=2/3 y)^2 x^2 ydxdy, "<mi//>"=int_(y=0)^(y=3)[ (x^3)/3]|_(x=2/3 y)^(x=2)ydx], [\ , "<mi//>"=int_(y=0)^(y=3)[8/3 y-8/81 y^4]dy], [\ , "<mi//>"=[8/3(y^2)/2-8/81(y^5)/5]|_(y=0)^(y=3)], [\ , "<mi//>"=(8/3)(9/2)-(8/81)(243/5)], [\ , "<mi//>"=12-24/5], [\ , "<mi//>"=36/5.]
+D
+D,
+'\\x00222c'_D f(x, y)dA
+f
+xy
+D
+f
+xy
+D;
+1/(A(D)) '\\x00222c'_R f(x, y)dA,
+A(D)
+D
+f
+D.
+f(x, y) >= 0
+D,
+f
+D
+D
+D
+f
+D.
+'\\x00222c'_D(4-x-2y)dA,
+D
+'\\x00222c'_D(4-x-2y)dydx.
+D
+'\\x00222c'_D(4-x-2y)dxdy.
+D
+int_(x=0)^(x=1) int_(y=x)^(y=sqrt(x))(4x+10y)dydx.
+D,
+'\\x00222c'_D(4x+10y)dA = int_(x=0)^(x=1) int_(y=x)^(y=sqrt(x))(4x+10y)dydx.
+dxdy,
+dydx
+'\\x00222c'_D(4x+10y)dA = int_(y=?)^(y=?) int_(x=?)^(x=?)(4x+10y)dxdy.
+D,
+A(D).
+f(x, y) = 4x+10y
+D.
+int_(x=0)^(x=4) int_(y=x//2)^(y=2)e^(y^2)dydx.
+e^(y^2)
+y,
+int_(x=0)^(x=4) int_(y=x//2)^(y=2)e^(y^2)dydx
+'\\x00222c'_D e^(y^2)dA = int_(x=0)^(x=4) int_(y=x//2)^(y=2)e^(y^2)dydx,
+D.
+dA = dxdy.
+'\\x00222c'_D f(x, y)dA
+D,
+D
+R
+f
+F
+F(x, y) = 0
+R
+D
+F(x, y) = f(x, y)
+D.
+'\\x00222c'_D f(x, y)dA
+'\\x00222c'_R F(x, y)dA.
+int_(x=a)^(x=b) int_(y=g_1(x))^(y=g_2(x))f(x, y)dydx,
+g_1 = g_1(x)
+g_2 = g_2(x)
+x
+D
+g_1(x) <= y <= g_2(x)
+a <= x <= b
+int_(y=c)^(y=d) int_(x=h_1(y))^(x=h_2(y))f(x, y)dxdy,
+h_1 = h_1(y)
+h_2 = h_2(y)
+y
+D
+h_1(y) <= x <= h_2(y)
+c <= y <= d.
+I = int int_bb D xydA
+bb D
+(0, 0), (1, 0), (0, 4).
+I = int int_bb D xydA
+bb D
+(0, 0), (2, 0), (0, 2).
+int_0^1 int_(4y)^4 e^(x^2)"dxdy" =
+'\\x00222c'_B(y^3+y^5)dA
+'\\x00222c'_D(y^3+y^5)dA
+'\\x00222c'_L(y^3+y^5)dA
+'\\x00222c'_T(y^3+y^5)dA
+'\\x00222c'_R(y^3+y^5)dA
+W
+f(x, y) = 7e^(-(x-3)^2-y^2)
+x^2+y^2 <= 16
+xy
+f
+f(x, y) = 1
+W
+x = 3.
+int_a^b
+d
+a =
+b =
+W,
+int_a^b int_c^d
+d
+d
+a =
+b =
+c =
+d =
+f(x, y) = 33-x^2-y^2
+z = 8.
+int_A^B int_C^D
+int_0^8 int_0^(sqrt(64-y))f(x, y)"dxdy".
+int_a^b int_(g_1(x))^(g_2(x))f(x, y)"dydx"+int_c^d int_(g_3(x))^(g_4(x))f(x, y)"dydx"
+a =
+b =
+g_1(x) =
+g_2(x) =
+c =
+d =
+g_3(x) =
+g_4(x) =
+x^2+y^2 = 9-z
+0 <= z <= 9,
+x, y,
+z
+x^2+y^2 = 3
+x^2+y^2 = 9
+x+y = 9
+x+y = 3
+z = 7?
+x^2+y^2 = 49
+x^2+y^2 = 7
+x^2+y^2 = 2
+x^2+y^2 = sqrt(2)
+z = 7
+A(z),
+z?
+A(z) =
+int_(-1)^1 int_(-sqrt(1-x^2))^(sqrt(1-x^2))1-x^2-y^2 "dydx"
+int_0^2 int_(-2)^2 sqrt(4-y^2)"dydx"
+int_0^(1/(sqrt(3)) ) int_0^(1/2 sqrt(1-3y^2))sqrt(1-4x^2-3y^2)"dxdy"
+int_(-2)^2 int_4^(4+sqrt(4-x^2))4x+3y"dydx"
+int_0^1 int_(y^2)^(sqrt(y))4x^2+3y^2 "dxdy"
+int_(x=0)^(x=1) int_(y=x^2)^(y=x)xydydx
+int_(y=0)^(y=2) int_(x=-sqrt(4-y^2))^(x=0)xydxdy
+int_(x=0)^(x=1) int_(y=x^4)^(y=x^(1//4))x+ydydx
+int_(y=0)^(y=2) int_(x=y//2)^(x=2y)x+ydxdy
+xy
+T(x, y) = 100-4x^2-y^2,
+x
+y
+T
+D
+x = y^2
+x = 3-2y^2.
+D.
+'\\x00222c'_D T(x, y)dA,
+dA = "dxdy".
+'\\x00222c'_D T(x, y)dA,
+dA = "dydx".
+T_("AVG"(D)),
+D.
+D,
+z = p(x, y).
+D
+D
+p(x, y) = 16-x^2-y^2.
+D
+y = x+1
+y = x^2;
+p(x, y) = 10-x-2y.
+D
+(1, 1),
+(2, 2),
+(2, 3);
+p(x, y) = e^(-xy).
+D
+y
+y = 4
+x = sqrt(y);
+p(x, y) = sqrt(1+x^2+y^2).
+I = int_(x=0)^(x=4) int_(y=sqrt(x))^(y=2)cos(y^3)dydx.
+cos(y^3)
+D
+I.
+bb u xx bb v
+bb u xx bb v
+int_C bb F*dbb r
+RR^2
+z = f(x, y)?
+bb r(s, t) = '\\x0027e8'2cos(t)sin(s), 2sin(t)sin(s), 2cos(s)'\\x0027e9'
+0 <= t <= 2 pi
+0 <= s <= pi
+2
+bb r(s, t) = '\\x0027e8'f(s, t), g(s, t), h(s, t)'\\x0027e9'.
+s
+t
+t
+s
+bb r_s = (del bb r)/(del s) = '\\x0027e8'f_s, g_s, h_s'\\x0027e9'
+s
+bb r_t = (del bb r)/(del t) = '\\x0027e8'f_t, g_t, h_t'\\x0027e9'
+t
+bb r_s
+bb r_t,
+bb r_s xx bb r_t
+bb r_s
+bb r_t
+bb r(s, t)
+x
+0 <= x <= 3.
+x+2y+3z = 6.
+(s, t)
+(0, 0),
+(0, 1),
+(1, 0),
+(2, 3).
+bb r_s,
+bb r_t,
+bb r_s xx bb r_t.
+bb r_s,
+bb r_t,
+bb r_s xx bb r_t
+(s, t)
+(0, 0),
+(0, 1),
+(1, 0),
+(2, 3).
+bb r_s
+bb r_t
+bb r_s xx bb r_t
+bb r_s
+bb r_t
+bb r_s xx bb r_t
+bb r_s xx bb r_t,
+bb r_s xx bb r_t
+Q
+Q
+bb r(s, t)
+a <= s <= b
+c <= t <= d.
+bb r
+st
+D,
+bb r
+Q.
+a <= s <= b
+n
+s_0, s_1, ..., s_n
+c <= t <= d
+m
+t_0, t_1, ..., t_n.
+D
+nm
+Delta s = (b-a)/n
+Delta t = (d-c)/m.
+D_(i,j).
+D_(i,j)
+st
+Delta s Delta t.
+D
+D_(i,j)
+Q
+nm
+Q_(i,j) = bb r(D_(i,j)).
+Q_(i,j)
+S_(i,j) = |(bb r_s xx bb r_t)(s_i, t_j)|Delta s Delta t.
+bb F
+Q,
+Q_(i,j)
+bb F
+Q
+"Flux" = sum_(i=1)^n sum_(j=1)^m|bb F_(_|_Q_(i,j))|*S_(i,j),
+|bb F_(_|_Q_(i,j))|
+bb F
+Q_(i,j).
+Q_(i,j),
+Q
+Q
+S_(i,j).
+bb w_(i,j) = (bb r_s xx bb r_t)(s_i, t_j)
+Q
+i, j
+bb F_(_|_Q_(i,j)) = |"proj"_(bb w_(i,j))bb F(s_i, t_j)| = (bb F(s_i,t_j)*bb w_(i,j))/(|bb w_(i,j)|)
+Q_(i,j)
+["Flux through\ "Q_(i,j), "<mi//>"=|bb F_(_|_Q_(i,j))|*S_(i,j)=( (bb F_(i,j)*bb w_(i,j))/(|bb w_(i,j)|) )(|bb w_(i,j)|Delta s Delta t)], [\ , "<mi//>"=(bb F_(i,j)*(bb r_s xx bb r_t))(Delta s Delta t),]
+bb F_(i,j) = bb F(s_i, t_j).
+"Total Flux" = sum_(i=1)^n sum_(j=1)^m(bb F_(i,j)*bb w_(i,j))(Delta s Delta t).
+n, m -> oo
+bb w_(i,j) = (bb r_s xx bb r_t)(s_i, t_j)
+Q
+bb r(s, t)
+D.
+bb F
+Q
+'\\x00222c'_D bb F*(bb r_s xx bb r_t)dA.
+bb w(t, s) = bb r_s xx bb r_t
+bb F*(bb r_s xx bb r_t).
+'\\x00222c'_(S_1)bb F*(bb r_s xx bb r_t)dA = '\\x00222c'_(S_1)bb F*d vec A = '\\x00222c'_(S_1)bb F*d vec S
+(bb r_s xx bb r_t)dA = d vec A = d vec s.
+bb F = '\\x0027e8'xz-2, y+x, 1'\\x0027e9'
+x^2+y^2 = z^2
+1 <= z <= 3.
+bb w(t, s) = bb r_s xx bb r_t
+r = z
+r
+theta
+s
+t.
+bb r(s, t) = '\\x0027e8'scos(t), ssin(t), s'\\x0027e9'
+1 <= s <= 3
+0 <= t < 2 pi.
+s
+r
+z.
+bb r
+[bb r_s, "<mi//>"='\\x0027e8'cos(t),sin(t),1'\\x0027e9'], [bb r_t, "<mi//>"='\\x0027e8'-ssin(t),scos(t),0'\\x0027e9']
+bb r_s
+bb r_t,
+bb w:
+bb w = bb r_s xx bb r_t = '\\x0027e8'-scos(t), -ssin(t), s(cos(t)^2+sin(t)^2)'\\x0027e9'.
+bb w = '\\x0027e8'-scos(t), -ssin(t), s'\\x0027e9'.
+bb w
+bb r.
+bb r
+'\\x0027e8'x, y, z'\\x0027e9',
+bb w = '\\x0027e8'-x, -y, z'\\x0027e9'.
+bb r
+bb w
+bb w
+s
+t.
+bb F(s, t) = '\\x0027e8'(scos(t))(s)-2, ssin(t)+scos(t), 1'\\x0027e9'
+I = '\\x00222c'_D bb F*(bb r_s xx bb r_t)dA
+[I, "<mi//>"=int_0^(2 pi) int_1^3'\\x0027e8'(s cos(t))(s)-2,s sin(t)+s cos(t),1'\\x0027e9'*'\\x0027e8'-s cos(t),-s sin(t),s'\\x0027e9'dsdt], [\ , "<mi//>"=int_0^(2 pi) int_1^3((s cos(t))(s)-2)(-s cos(t))+(-s sin(t))(s sin(t)+s cos(t))+s], [\ , "<mi//>"=-62/3 pi.]
+bb F
+bb F = '\\x0027e8'y, z, 2+sin(x)'\\x0027e9'
+2
+3
+z
+bb F = '\\x0027e8'y, z, 2+sin(x)'\\x0027e9'
+bb F
+2,
+z
+0 <= z <= 3.
+bb r_s,
+bb r_t,
+bb r_s xx bb r_t.
+bb F
+s
+t.
+x
+bb r.
+bb F
+bb F = '\\x0027e8'y, z, 2+sin(x)'\\x0027e9'
+bb F = '\\x0027e8'y, z, 2+sin(x)'\\x0027e9'
+bb F = '\\x0027e8'y, z, cos(xy)+9/(z^2+6.2) '\\x0027e9'
+bb F = '\\x0027e8'y, -x, 3'\\x0027e9'
+z = f(x, y).
+S
+bb r_s xx bb r_t
+bb F,
+S,
+bb F
+S_1.
+S,
+bb r(s, t)
+D.
+bb F
+S
+'\\x00222c'_D bb F*(bb r_s xx bb r_t)dA.
+S_1
+z = f(x, y)
+D,
+bb F
+S_1
+'\\x00222c'_D bb F(x, y, f(x, y))*'\\x0027e8'- (del f)/(del x) , - (del f)/(del y) , 1'\\x0027e9'dA.
+vec v = -4 vec i-5 vec j-4 vec k
+a = 2
+b = 4.
+vec F(x, y, z) = 3y vec j
+7
+y = 6.
+y = 6.
+vec F(x, y, z) = z^2 vec k
+x^2+y^2+z^2 = 9,
+rho
+theta
+varphi
+int_A^B int_C^D
+d varphi d theta
+'\\x00222c'_S vec F*d vec A
+z = rho cos(varphi).
+vec F = 5x^2 y^2 z vec k
+S
+sqrt(x^2+y^2) = z,
+0 <= z <= R,
+theta
+x(r, theta) =
+y(r, theta) =
+z(r, theta) =
+<= r <=
+<= theta <=
+d vec A?
+d vec A
+vec F
+S.
+vec F = z vec i+6x vec j
+S
+0 <= s <= 3, \ 2 <= t <= 3,
+x = s^2, \ y = 2s+t^2, \ z = 5t.
+S_1
+S_2
+2'\\x00222c'_(S_1) vec F*d vec A = '\\x00222c'_(S_2) vec F*d vec A
+S
+vec F = x vec i+y vec j+z vec k = vec r,
+'\\x00222c'_S vec F*d vec A
+S
+'\\x00222c'_S vec F*d vec A
+vec F(x, y, z)
+vec r = '\\x0027e8'x, y, z'\\x0027e9'
+S.
+S
+'\\x00222c'_S vec F*d vec A
+vec F = vec 0.
+S
+vec F = '\\x0027e8'x, y, 0'\\x0027e9',
+vec F
+S
+S
+vec F = '\\x0027e8'3, -2, 6'\\x0027e9',
+vec F
+S
+S
+x = +-3,
+y = +-3,
+z = +-3,
+vec F = 2 vec i-vec k,
+vec F
+S
+cc S
+xy
+z
+'\\x00222c'_cc S bb F*dbb S
+bb F
+[bb F(A), ='\\x0027e8'5,8,3'\\x0027e9',, \ bb F(B), ='\\x0027e8'-6,6,-9'\\x0027e9'], [bb F(C), ='\\x0027e8'-4,-9,-6'\\x0027e9',, \ bb F(D), ='\\x0027e8'-1,2,-6'\\x0027e9']
+'\\x00222c'_cc S bb F*dbb S ~~
+x'\\y01d48a'+y'\\y01d48b'+5z'\\y01d48c'
+sigma
+z = sqrt(x^2+y^2)
+z = 5
+z = 10
+sigma:
+z = f(x, y)
+z = f(x, y)
+S
+z = f(x, y).
+bb r(s, t)
+S.
+s = x
+t = y.
+S
+bb r_s xx bb r_t = '\\x0027e8'- (del f)/(del x) , - (del f)/(del y) , 1'\\x0027e9'.
+bb r_s xx bb r_t,
+bb r_s xx bb r_t
+bb r_s xx bb r_t
+z = x^2+y^2
+x+2y+z = -4
+z = x^2-y^2
+D
+xy
+bb F = '\\x0027e8'x, y, z'\\x0027e9'
+D
+0 <= x, y <= 2
+bb F = '\\x0027e8'-y, x, 1'\\x0027e9'
+D
+xy
+(0, 0),
+(1, 0),
+(1, 1)
+bb F = '\\x0027e8'z, y-x, (y-x)^2-z^2'\\x0027e9'
+D
+0 <= x, y <= 2
+S_R
+R
+S_R
+bb r(s, t),
+s = theta
+t = varphi.
+S_R
+bb r_s xx bb r_t.
+bb r_s xx bb r_t
+bb r(s, t).
+bb r(s, t)
+S_2
+S_2
+bb F_1 = '\\x0027e8'x, y, z'\\x0027e9'
+bb F_2 = '\\x0027e8'-y, x, -1'\\x0027e9'
+bb F_3 = '\\x0027e8'x-y, y+x, z-1'\\x0027e9'
+S_2,

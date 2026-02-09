@@ -1,0 +1,1810 @@
+\mathbb R^p
+A = \begin{bmatrix} 1 & 0 & 0 & 3 \\ 0 & 0 & 1 & -1 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+B = \begin{bmatrix} 1 & 2 & 4 & 3 \\ 0 & 0 & 1 & -1 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+C = \begin{bmatrix} 0 & 0 & 0 & 0 \\ 1 & 2 & 0 & 3 \\ 0 & 0 & 1 & -1 \end{bmatrix}
+D = \begin{bmatrix} 1 & 0 & 2 & -3 \\ 0 & 3 & 3 & -3 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+E = \begin{bmatrix} 0 & 1 & 0 & 7 \\ 1 & 0 & 0 & 4 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+F = \begin{bmatrix} 1 & 0 & 0 & 4 \\ 0 & 1 & 0 & 7 \\ 0 & 0 & 1 & 0 \end{bmatrix}
+\begin{bmatrix} 2 & 4 & 6 & -1 \\ -3 & 1 & 5 & 0 \\ 1 & 3 & 5 & 1 \end{bmatrix} \sim \begin{bmatrix} 1 & 0 & -1 & 0 \\ 0 & 1 & 2 & 0 \\ 0 & 0 & 0 & 1 \end{bmatrix} .
+3 \times 5
+5 \times 3
+(i) \begin{bmatrix} 1 & 0 & 0 & 3 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & -2 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+(ii) \begin{bmatrix} 1 & 0 & 2 & 3 \\ 0 & 1 & -1 & 0 \\ 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+(iii) \begin{bmatrix} 1 & 0 & 2 & 0 \\ 0 & 1 & -1 & 0 \\ 0 & 0 & 0 & 1 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+3 \times 5
+3 \times 5
+\begin{bmatrix} 1 & 0 & 0 & 0 & -1 \\ 0 & 1 & 0 & 0 & 2 \\ 0 & 0 & 1 & 0 & 0 \\ 0 & 0 & 0 & 1 & -3 \end{bmatrix}
+(i) \begin{bmatrix} 1 & 0 & 0 & 3 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & -2 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+(ii) \begin{bmatrix} 1 & 0 & 2 & 3 \\ 0 & 1 & -1 & 0 \\ 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+(iii) \begin{bmatrix} 1 & 0 & 2 & 0 \\ 0 & 1 & -1 & 0 \\ 0 & 0 & 0 & 1 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+3 \times 5
+5 \times 3
+\mathbb R^p
+\mathbb R^p
+\mathbf v = \begin{bmatrix} 3 \\ 1 \end{bmatrix}, \mathbf w = \begin{bmatrix} -1 \\ 2 \end{bmatrix} .
+\mathbf v, & 2\mathbf v, & -\mathbf v, & -2\mathbf v, \\ \mathbf w, & 2\mathbf w, & -\mathbf w, & -2\mathbf w .
+xy
+\mathbf v = \begin{bmatrix} 3 \\ 1 \end{bmatrix}, \mathbf w = \begin{bmatrix} -1 \\ 2 \end{bmatrix} .
+\mathbf v, \mathbf w, \mathbf v +\mathbf w
+xy
+\mathbf v +a\mathbf w
+a
+a = -2, -1, 0, 1,
+2 .
+\mathbf v
+\mathbf w .
+\mathbf w
+\mathbf v .
+(0, 0)
+\mathbf v +\mathbf w .
+\mathbf v = \begin{bmatrix} 3 \\ 1 \end{bmatrix}, \mathbf w = \begin{bmatrix} -1 \\ 2 \end{bmatrix} .
+a
+b
+a\mathbf v +b\mathbf w
+\mathbf v
+\mathbf w .
+a = -2
+b =1 .
+\begin{bmatrix} -31 \\ 37 \end{bmatrix}
+\mathbf v
+\mathbf w ?
+\mathbf v = \begin{bmatrix} 2 \\ 1 \end{bmatrix}, \mathbf w = \begin{bmatrix} 1 \\ 2 \end{bmatrix}
+a
+b .
+b
+a
+b =0 ?
+\mathbf v
+\mathbf w
+a =1
+b = -2 ?
+b
+a
+\mathbf v
+\mathbf w .
+\mathbf w
+\mathbf v .
+(0, 0)
+\mathbf v +\mathbf w .
+\begin{bmatrix} 0 \\ 0 \end{bmatrix}
+\mathbf v
+\mathbf w ?
+a
+b ?
+\begin{bmatrix} 3 \\ 0 \end{bmatrix}
+\mathbf v
+\mathbf w ?
+a
+b ?
+a
+b
+\begin{bmatrix} 3 \\ 0 \end{bmatrix} .
+\begin{bmatrix} 1.3 \\ -1.7 \end{bmatrix}
+\mathbf v
+\mathbf w ?
+\begin{bmatrix} 15.2 \\ 7.1 \end{bmatrix} ?
+\mathbf v
+\mathbf w ?
+\mathbf v_1 = \begin{bmatrix} 4 \\ 0 \\ 2 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 1 \\ -3 \\ 3 \\ 1 \end{bmatrix}, \mathbf v_3 = \begin{bmatrix} -2 \\ 1 \\ 1 \\ 0 \end{bmatrix}, \mathbf b = \begin{bmatrix} 0 \\ 1 \\ 2 \\ -2 \end{bmatrix},
+\mathbf b
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3 .
+c_1,
+c_2,
+c_3
+3x_1 & \lt mi/> + & 2x_2 & \lt mi/> -x_3 & \lt mi/> = & 4 \\ x_1 & \~ & \~ & \lt mi/> +2x_3 & \lt mi/> = & 0 \\ -x_1 & \lt mi/> - & x_2 & \lt mi/> +3x_3 & \lt mi/> = & 1
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3,
+\mathbf b
+\mathbf b
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3 ?
+\mathbf v_1 = \begin{bmatrix} 0 \\ -2 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 1 \\ 1 \\ -1 \end{bmatrix}, \mathbf v_3 = \begin{bmatrix} 2 \\ 0 \\ -1 \end{bmatrix}, \mathbf b = \begin{bmatrix} -1 \\ 3 \\ -1 \end{bmatrix} .
+\mathbf b ?
+\mathbf b
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3
+\mathbf b
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3
+\mathbf b
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3 .
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3,
+\mathbf b
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3
+\mathbf b
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3
+\mathbf b
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3 .
+\begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \mathbf v_3 \end{bmatrix}
+\mathbf v_1 = \begin{bmatrix} 0 \\ -2 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 1 \\ 1 \\ -1 \end{bmatrix}, \mathbf v_3 = \begin{bmatrix} 1 \\ -1 \\ -2 \end{bmatrix}, \mathbf b = \begin{bmatrix} 0 \\ 8 \\ -4 \end{bmatrix} .
+\mathbf b ?
+\mathbf b
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3
+\mathbf b
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3
+\mathbf b
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3 .
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3
+\mathbf b
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3
+\mathbf b
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3
+\mathbf b
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3 .
+\begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \mathbf v_3 \end{bmatrix}
+\mathbb R^p
+P
+Q .
+P
+P
+Q .
+Q,
+Q
+P .
+P_k
+Q_k
+k .
+P
+P_k
+Q_k .
+P_{k +1} & \lt mi/> =0.8P_k +0.4Q_k \\ Q_{k +1} & \lt mi/> =0.2P_k +0.6Q_k .
+\mathbf x_k = \begin{bmatrix} P_k \\ Q_k \end{bmatrix}
+k,
+A
+\mathbf x_{k +1} =A\mathbf x_k .
+A .
+P .
+\mathbf x_0
+A .
+\mathbf x_k
+A .
+P,
+Q,
+R .
+P_k,
+Q_k,
+R_k
+k .
+P
+Q
+P_{k +1},
+Q_{k +1},
+R_{k +1}
+P_k,
+Q_k,
+R_k .
+\mathbf x_k = \begin{bmatrix} P_k \\ Q_k \\ R_k \end{bmatrix},
+A
+\mathbf x_{k +1} =A\mathbf x_k .
+A
+P,
+Q,
+R .
+\mathbf x_0
+\mathbf x_0
+\mathbf x_1,
+\mathbf x_1
+\mathbf x_k
+k .
+A
+A
+E_1
+\mathbb R^3 .
+\mathbf v = \begin{bmatrix} 1 \\ 2 \\ 2 \end{bmatrix}
+E_1 .
+E_1
+\mathbf v,
+E_1
+E_1 .
+\mathbf x_k
+A
+\mathbf q
+A\mathbf q =\mathbf q .
+A
+\mathbf x_k
+\mathbf x_k
+A = \begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix} .
+A
+A .
+A .
+\mathbf x_0 = \begin{bmatrix} 1 \\ 0 \end{bmatrix}
+\mathbf x_{k +1} =A\mathbf x_k .
+N
+A
+x0
+A ?
+B = \begin{bmatrix} 0.4 & 0.3 \\ 0.6 & 0.7 \end{bmatrix} .
+B
+B .
+\mathbf x_0 = \begin{bmatrix} 1 \\ 0 \end{bmatrix}
+\mathbf x_{k +1} =B\mathbf x_k .
+B ?
+A
+A
+A^k
+A
+\lambda_1 =1
+| \lambda_j | \lt 1
+j >1 .
+A
+\mathbf q
+A
+\mathbf q .
+C = \begin{bmatrix} 0 & 0.5 \\ 1 & 0.5 \end{bmatrix} .
+C
+C^k .
+C
+\mathbf x_0 = \begin{bmatrix} 1 \\ 0 \end{bmatrix}
+\mathbf x_k
+k
+\mathbf x_0 = \begin{bmatrix} 0.2 \\ 0.8 \end{bmatrix}
+\mathbf x_k
+k
+D = \begin{bmatrix} 0 & 0.5 & 0 \\ 1 & 0.5 & 0 \\ 0 & 0 & 1 \end{bmatrix}
+D
+D
+D
+D
+\mathbf x_0 = \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix} ?
+\mathbf x_0 = \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix} ?
+C
+D,
+C
+D
+C
+D
+C
+D .
+C
+D .
+\mathbb R^p
+\mathbf v_1 = \begin{bmatrix} 2 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 1 \\ 2 \end{bmatrix}
+\mathbb R^2 .
+\mathbf v_1 -2\mathbf v_2 .
+\begin{bmatrix} -3 \\ 0 \end{bmatrix}
+\mathbf v_1
+\mathbf v_2 .
+10\mathbf v_1 -13\mathbf v_2 .
+\begin{bmatrix} 16 \\ -4 \end{bmatrix}
+\mathbf v_1
+\mathbf v_2 .
+\mathbb R^2
+\mathbf v_1
+\mathbf v_2
+\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_n
+\mathbb R^m
+\mathbb R^m
+\mathbb R^m
+\mathbb R^n
+\mathbb R^2 \colon
+\mathbf v_1 = \begin{bmatrix} 2 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 1 \\ 2 \end{bmatrix} .
+\mathbb R^2 .
+\mathbb R^3
+\mathbf v_1 = \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 0 \\ 1 \\ -1 \end{bmatrix}, \mathbf v_3 = \begin{bmatrix} 1 \\ 0 \\ -1 \end{bmatrix} .
+\mathbb R^3 .
+\mathbf v_1 = \begin{bmatrix} -2 \\ 1 \\ 3 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 3 \\ 0 \\ -1 \end{bmatrix}, \mathbf v_3 = \begin{bmatrix} 1 \\ 1 \\ 0 \end{bmatrix}, \mathbf v_4 = \begin{bmatrix} 0 \\ 3 \\ -2 \end{bmatrix}
+\mathbb R^3 ?
+\mathbf e_1, \mathbf e_2, \mathbf e_3
+\mathbb R^3 .
+\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_n
+\mathbb R^m,
+\begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \ldots & \mathbf v_n \end{bmatrix} ?
+\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_n
+\mathbb R^{10},
+\{\mathbf v_1, \mathbf v_2, \mathbf v_3, \mathbf v_4 \}
+\mathbb R^4,
+[\mathbf v_1 \mathbf v_2 \mathbf v_3 \mathbf v_4]
+RREF[\vec{v}_1 \vec{v}_2 \vec{v}_3 \vec{v}_4] = \begin{bmatrix} ? & ? & ? & ? \\ ? & ? & ? & ? \\ ? & ? & ? & ? \\ ? & ? & ? & ? \end{bmatrix}
+A, B, C, D, E
+\mathbb R^4
+\mathbb R^4
+\mathbb R^4
+\mathbb R^4
+RREF
+A & \lt mi/> =\{ \begin{bmatrix} 1 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 1 \end{bmatrix} \} & B & \lt mi/> =\{ \begin{bmatrix} 2 \\ 3 \\ 0 \\ -1 \end{bmatrix}, \begin{bmatrix} 2 \\ 0 \\ 0 \\ 3 \end{bmatrix}, \begin{bmatrix} 4 \\ 3 \\ 0 \\ 2 \end{bmatrix}, \begin{bmatrix} -3 \\ 0 \\ 1 \\ 3 \end{bmatrix} \} \\ C & \lt mi/> =\{ \begin{bmatrix} 2 \\ 3 \\ 0 \\ -1 \end{bmatrix}, \begin{bmatrix} 2 \\ 0 \\ 0 \\ 3 \end{bmatrix}, \begin{bmatrix} 3 \\ 13 \\ 7 \\ 16 \end{bmatrix}, \begin{bmatrix} -1 \\ 10 \\ 7 \\ 14 \end{bmatrix}, \begin{bmatrix} 4 \\ 3 \\ 0 \\ 2 \end{bmatrix} \} & D & \lt mi/> =\{ \begin{bmatrix} 2 \\ 3 \\ 0 \\ -1 \end{bmatrix}, \begin{bmatrix} 4 \\ 3 \\ 0 \\ 2 \end{bmatrix}, \begin{bmatrix} -3 \\ 0 \\ 1 \\ 3 \end{bmatrix}, \begin{bmatrix} 3 \\ 6 \\ 1 \\ 5 \end{bmatrix} \} \\ E & \lt mi/> =\{ \begin{bmatrix} 5 \\ 3 \\ 0 \\ -1 \end{bmatrix}, \begin{bmatrix} -2 \\ 1 \\ 0 \\ 3 \end{bmatrix}, \begin{bmatrix} 4 \\ 5 \\ 1 \\ 3 \end{bmatrix} \}
+\mscrB =\{\mathbf v_1, \mathbf v_2 \}
+\mathbb R^2
+\mathbf v_1 = \begin{bmatrix} 3 \\ -2 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 2 \\ 1 \end{bmatrix} .
+\mathbf x
+\mscrB
+\{\mathbf x \}_\mscrB = \begin{bmatrix} -2 \\ 4 \end{bmatrix},
+\mathbf x ?
+\mathbf x = \begin{bmatrix} 3 \\ 5 \end{bmatrix},
+\mathbf x
+\mscrB;
+\{\mathbf x \}_\mscrB .
+A
+\mathbf x,
+\mathbf x =A\{\mathbf x \}_\mscrB .
+B
+\mathbf x,
+\{\mathbf x \}_\mscrB =B\mathbf x .
+\mathscr C =\{ \begin{bmatrix} 1 \\ 2 \end{bmatrix}, \begin{bmatrix} -2 \\ 1 \end{bmatrix} \} .
+M
+\mathscr C
+\mscrB
+\{\mathbf x \}_\mscrB =M\{\mathbf x \}_\mathscr C .
+\mathscr C
+\mscrB .
+\mscrE =\{\mathbf e_1, \mathbf e_2 \} .
+\mathbf x
+\{\mathbf x \}_\mscrE ?
+\mathbb R^p
+A\mathbf x =\mathbf b
+\begin{bmatrix} A & \mathbf b \end{bmatrix} .
+A
+A = \begin{bmatrix} 1 & 0 & -2 \\ -2 & 2 & 2 \\ 1 & 1 & -3 \end{bmatrix} .
+\mathbf b = \begin{bmatrix} 2 \\ 2 \\ 5 \end{bmatrix},
+A\mathbf x =\mathbf b
+\mathbf b = \begin{bmatrix} 2 \\ 2 \\ 6 \end{bmatrix},
+A\mathbf x =\mathbf b
+A .
+\mathbf b,
+A\mathbf x =\mathbf b
+A
+\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_n
+\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_n
+\mathbf b
+\begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \ldots & \mathbf v_n \end{bmatrix} \mathbf x =\mathbf b
+\mathbf v = \begin{bmatrix} 1 \\ 2 \end{bmatrix}, \mathbf w = \begin{bmatrix} -2 \\ -4 \end{bmatrix} .
+\mathbf v
+\mathbf w
+a =2
+b =0 ?
+a =1
+b =1 ?
+a =0
+b = -1 ?
+\begin{bmatrix} 2 \\ 4 \end{bmatrix}
+\mathbf v
+\mathbf w ?
+\begin{bmatrix} 2 \\ 4 \end{bmatrix}
+\mathbf v
+\mathbf w ?
+\begin{bmatrix} 3 \\ 0 \end{bmatrix}
+\mathbf v
+\mathbf w ?
+\begin{bmatrix} 3 \\ 0 \end{bmatrix}
+\mathbf v
+\mathbf w ?
+\mathbf v
+\mathbf w .
+\mathbf b
+\begin{bmatrix} 1 & -2 \\ 2 & -4 \end{bmatrix} \mathbf x =\mathbf b
+\mathbf v = \begin{bmatrix} 2 \\ 1 \end{bmatrix}, \mathbf w = \begin{bmatrix} 1 \\ 2 \end{bmatrix} .
+\mathbf v
+\mathbf w
+a =2
+b =0 ?
+a =1
+b =1 ?
+a =0
+b = -1 ?
+\begin{bmatrix} -2 \\ 2 \end{bmatrix}
+\mathbf v
+\mathbf w ?
+\begin{bmatrix} -2 \\ 2 \end{bmatrix}
+\mathbf v
+\mathbf w ?
+\begin{bmatrix} 3 \\ 0 \end{bmatrix}
+\mathbf v
+\mathbf w ?
+\begin{bmatrix} 3 \\ 0 \end{bmatrix}
+\mathbf v
+\mathbf w ?
+\mathbf v
+\mathbf w .
+\mathbf b
+\begin{bmatrix} 2 & 1 \\ 1 & 2 \end{bmatrix} \mathbf x =\mathbf b
+\mathbb R^3 .
+\mathbb R^3 .
+\mathbf v = \begin{bmatrix} 1 \\ 2 \\ 1 \end{bmatrix} .
+Span\{\mathbf v \}
+\mathbf e_1 = \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}, \mathbf e_2 = \begin{bmatrix} 0 \\ 1 \\ 0 \end{bmatrix} .
+Span\{\mathbf e_1, \mathbf e_2 \}
+\mathbf b = \begin{bmatrix} b_1 \\ b_2 \\ b_3 \end{bmatrix} .
+b_1,
+b_2,
+b_3
+\mathbf b
+Span\{\mathbf e_1, \mathbf e_2 \}
+\begin{bmatrix} \mathbf e_1 & \mathbf e_2 \end{bmatrix} \mathbf x =\mathbf b
+\begin{bmatrix} 1 & 0 \\ 0 & 1 \\ 0 & 0 \end{bmatrix} \mathbf x = \begin{bmatrix} b_1 \\ b_2 \\ b_3 \end{bmatrix} .
+Span\{\mathbf e_1, \mathbf e_2 \} .
+\mathbf v_1 = \begin{bmatrix} 1 \\ 1 \\ -1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 0 \\ 2 \\ 1 \end{bmatrix} .
+\mathbf b = \begin{bmatrix} 1 \\ -2 \\ 4 \end{bmatrix}
+Span\{\mathbf v_1, \mathbf v_2 \} ?
+\mathbf b = \begin{bmatrix} -2 \\ 0 \\ 3 \end{bmatrix}
+Span\{\mathbf v_1, \mathbf v_2 \} ?
+Span\{\mathbf v_1, \mathbf v_2 \} ?
+Span\{\mathbf v_1, \mathbf v_2 \}
+\mathbb R^2 .
+Span\{\mathbf v_1, \mathbf v_2 \}
+\mathbb R^3 .
+Span\{\mathbf v_1, \mathbf v_2 \}
+real^3 .
+Span\{\mathbf v_1, \mathbf v_2 \}
+real^3 .
+\mathbf v_1 = \begin{bmatrix} 1 \\ 1 \\ -1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 0 \\ 2 \\ 1 \end{bmatrix}, \mathbf v_3 = \begin{bmatrix} 1 \\ -2 \\ 4 \end{bmatrix} .
+\begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \mathbf v_3 \end{bmatrix}
+Span\{\mathbf v_1, \mathbf v_2, \mathbf v_3 \} ?
+Span\{\mathbf v_1, \mathbf v_2, \mathbf v_3 \} =Span\{\mathbf v_1, \mathbf v_2 \} .
+Span\{\mathbf v_1, \mathbf v_2, \mathbf v_3 \} =Span\{\mathbf v_2, \mathbf v_3 \} .
+Span\{\mathbf v_1, \mathbf v_2, \mathbf v_3 \} =Span\{\mathbf v_1 \} .
+Span\{\mathbf v_1, \mathbf v_2, \mathbf v_3 \} =\mathbb R^3 .
+\mathbb R^3 ?
+\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_n
+\mathbb R^3,
+\begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \ldots & \mathbf v_n \end{bmatrix} ?
+Span\{\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_n \} =\mathbb R^3 ?
+\begin{bmatrix} -1 \\ -6 \\ 1 \end{bmatrix}
+span\{ \begin{bmatrix} 1 \\ 0 \\ -3 \end{bmatrix}, \begin{bmatrix} -1 \\ -3 \\ 2 \end{bmatrix} \}
+x_1 \begin{bmatrix} 1 \\ 0 \\ -3 \end{bmatrix} +x_2 \begin{bmatrix} -1 \\ -3 \\ 2 \end{bmatrix} = \begin{bmatrix} -1 \\ -6 \\ 1 \end{bmatrix} .
+RREF
+\begin{bmatrix} -1 \\ -6 \\ 1 \end{bmatrix}
+span\{ \begin{bmatrix} 1 \\ 0 \\ -3 \end{bmatrix}, \begin{bmatrix} -1 \\ -3 \\ 2 \end{bmatrix} \} ?
+\begin{bmatrix} -1 \\ -9 \\ 0 \end{bmatrix}
+span\{ \begin{bmatrix} 1 \\ 0 \\ -3 \end{bmatrix}, \begin{bmatrix} -1 \\ -3 \\ 2 \end{bmatrix} \}
+\mathbb R^p
+x,
+y,
+z
+3 \times 5
+\mathbb R^p
+A
+\mathbf x
+A
+\mathbf x
+A
+m \times n
+\mathbf x
+n
+A\mathbf x
+m
+A = \begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \ldots & \mathbf v_n \end{bmatrix}, \mathbf x = \begin{bmatrix} c_1 \\ c_2 \\ \vdots \\ c_n \end{bmatrix},
+A\mathbf x =c_1 \mathbf v_1 +c_2 \mathbf v_2 +\ldots c_n \mathbf v_n .
+\begin{bmatrix} 1 & 2 & 0 & -1 \\ 2 & 4 & -3 & -2 \\ -1 & -2 & 6 & 1 \end{bmatrix} \begin{bmatrix} 3 \\ 1 \\ -1 \\ 1 \end{bmatrix} .
+A
+\begin{bmatrix} 3 & -1 & 0 \\ 0 & -2 & 4 \\ 2 & 1 & 5 \\ 1 & 0 & 3 \end{bmatrix} .
+A\mathbf x
+\mathbf x
+A\mathbf x ?
+\mathbf 0 .
+A
+A\mathbf 0 ?
+I = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}
+\mathbf x = \begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix} .
+I\mathbf x
+I
+A
+A = \begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \ldots & \mathbf v_n \end{bmatrix} .
+\mathbf e_1 = \begin{bmatrix} 1 \\ 0 \\ \vdots \\ 0 \end{bmatrix},
+A\mathbf e_1 ?
+A = \begin{bmatrix} 1 & 2 \\ -1 & 1 \end{bmatrix}, \mathbf b = \begin{bmatrix} 6 \\ 0 \end{bmatrix} .
+\mathbf x
+A\mathbf x =\mathbf b ?
+A\mathbf x =\mathbf b
+\mathbf x
+2x & \lt mi/> + & y & \lt mi/> - & 3z & \lt mi/> = & 4 \\ -x & \lt mi/> + & 2y & \lt mi/> + & z & \lt mi/> = & 3 \\ 3x & \lt mi/> - & y & \~ & \~ & \lt mi/> = & \lt mi/> -4 .
+A
+\mathbf b
+A\mathbf x =\mathbf b .
+A
+\mathbf b
+A\mathbf x =\mathbf b .
+A = \begin{bmatrix} 3 & -1 & 0 \\ -2 & 0 & 6 \end{bmatrix}, \mathbf b = \begin{bmatrix} -6 \\ 2 \end{bmatrix}
+\begin{bmatrix} 1 & 2 & 0 & -1 \\ 2 & 4 & -3 & -2 \\ -1 & -2 & 6 & 1 \end{bmatrix} \mathbf x = \begin{bmatrix} -1 \\ 1 \\ 5 \end{bmatrix} .
+A
+m \times n
+A\mathbf x =\mathbf 0 .
+A .
+A\mathbf x =\mathbf 0
+\mathbf x =\mathbf 0 .
+A .
+\mathbf 0,
+A = \begin{bmatrix} 1 & 3 & 2 \\ -3 & 4 & -1 \end{bmatrix}, B = \begin{bmatrix} 3 & 0 \\ 1 & 2 \\ -2 & -1 \end{bmatrix} .
+AB .
+AB .
+A
+B
+AB .
+BA ?
+BA .
+AB =BA ?
+A = \begin{bmatrix} 1 & 2 \\ 3 & -2 \end{bmatrix}, B = \begin{bmatrix} 0 & 4 \\ 2 & -1 \end{bmatrix}, C = \begin{bmatrix} -1 & 3 \\ 4 & 3 \end{bmatrix} .
+A(B +C)
+AB +AC .
+A(BC)
+(AB)C
+a \not= 0
+ab =ac,
+b =c .
+A = \begin{bmatrix} 1 & 2 \\ -2 & -4 \end{bmatrix}, B = \begin{bmatrix} 3 & 0 \\ 1 & 3 \end{bmatrix}, C = \begin{bmatrix} 1 & 2 \\ 2 & 2 \end{bmatrix} .
+AB
+AC .
+AB =AC,
+B =C ?
+ab =0,
+a =0
+b =0 .
+A = \begin{bmatrix} 1 & 2 \\ -2 & -4 \end{bmatrix}, B = \begin{bmatrix} 2 & -4 \\ -1 & 2 \end{bmatrix} .
+AB .
+AB =0,
+A =0
+B =0 ?
+\mathbb R^p
+-x_1 +2x_2 & \lt mi/> =5 \\ 2x_1 -4x_2 & \lt mi/> =6
+-x_1 +2x_2 & \lt mi/> = -3 \\ 2x_1 -4x_2 & \lt mi/> =6
+x_2 =a
+a
+x_1
+a .
+\{ \begin{bmatrix} ? \\ a \end{bmatrix} |a \in \mathbb R \}
+x_1 & + & 2x_2 & \~ & \~ & - & x_4 & = & 3 \\ \~ & \~ & \~ & \~ & x_3 & + & 4x_4 & = & \lt mi/> -2
+\{ \begin{bmatrix} ? \\ a \\ ? \\ b \end{bmatrix} |a, b \in \mathbb R \}
+x_2 =a
+x_4 =b,
+x_1
+x_3 .
+x
+y
+\begin{bmatrix} 1 & 0 & 3 \\ 0 & 1 & 0 \\ 0 & 0 & 0 \end{bmatrix} .
+x
+y
+\begin{bmatrix} 1 & 0 & 3 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix} .
+x & + & 2y & + & z & = & 3 \\ -x & - & y & + & z & = & 1 \\ 2x & + & 5y & + & 3z & = & 7
+2x & + & 5y & + & 3z & = & 7 \\ -x & - & y & + & z & = & 1 \\ x & + & 2y & + & z & = & 3
+x & \~ & \~ & - & z & = & 1 \\ \~ & \~ & y & + & 2z & = & 4 \\ \~ & \~ & y & + & z & = & 1
+x & + & 2y & + & z & = & 3 \\ \~ & \~ & y & + & 2z & = & 4 \\ 2x & + & 5y & + & 3z & = & 7
+x & \~ & \~ & - & z & = & 1 \\ \~ & \~ & y & + & z & = & 1 \\ \~ & \~ & \~ & \~ & z & = & 3
+x & + & 2y & + & z & = & 3 \\ \~ & \~ & y & + & 2z & = & 4 \\ \~ & \~ & y & + & z & = & 1
+\begin{bmatrix} 2 & 5 & 3 & 7 \\ -1 & -1 & 1 & 1 \\ 1 & 2 & 1 & 3 \end{bmatrix} & \lt mi/> \sim & \begin{bmatrix} \boxed{1} & 2 & 1 & 3 \\ -1 & -1 & 1 & 1 \\ 2 & 5 & 3 & 7 \end{bmatrix} & \lt mi/> \sim & \begin{bmatrix} \boxed{1} & 2 & 1 & 3 \\ 0 & 1 & 2 & 4 \\ 2 & 5 & 3 & 7 \end{bmatrix} \sim \\ \begin{bmatrix} \boxed{1} & 2 & 1 & 3 \\ 0 & \boxed{1} & 2 & 4 \\ 0 & 1 & 1 & 1 \end{bmatrix} & \lt mi/> \sim & \begin{bmatrix} \boxed{1} & 0 & -1 & 1 \\ 0 & \boxed{1} & 2 & 4 \\ 0 & 1 & 1 & 1 \end{bmatrix} & \lt mi/> \sim & \begin{bmatrix} \boxed{1} & 0 & -1 & 1 \\ 0 & \boxed{1} & 1 & 1 \\ 0 & 0 & -1 & -3 \end{bmatrix}
+\ast
+\begin{bmatrix} \ast & \ast & \ast & \ast & \ast & \ast \\ \ast & \ast & \ast & \ast & \ast & \ast \\ \ast & \ast & \ast & \ast & \ast & \ast \end{bmatrix} .
+\begin{bmatrix} 1 & 2 & 0 & 0 & 3 & 2 \\ 0 & 0 & 1 & 2 & -1 & -1 \\ 0 & 0 & 0 & 0 & 0 & 0 \end{bmatrix} .
+\begin{bmatrix} 2 & 6 & -1 & 6 \\ 1 & 3 & -1 & 2 \\ -1 & -3 & 2 & 0 \end{bmatrix} .
+R_2 +R_3 \to R_2
+R_3 +R_2 \to R_3
+R_1 \leftrightarrow R_2
+R_1 -2R_2 \to R_1
+\begin{bmatrix} \boxed{1} & 3 & -1 & 2 \\ 2 & 6 & -1 & 6 \\ -1 & -3 & 2 & 0 \end{bmatrix} .
+R_3 +R_1 \to R_3
+R_2 -2R_1 \to R_2
+R_3 +2R_2 \to R_3
+R_2 +2R_3 \to R_2
+\begin{bmatrix} \boxed{1} & 3 & -1 & 2 \\ 0 & 0 & 1 & 2 \\ 0 & 0 & 1 & 2 \end{bmatrix} .
+R_2 +R_1 \to R_2
+R_2 -R_3 \to R_2
+R_3 -R_2 \to R_3
+R_1 +R_2 \to R_1
+x & \lt mi/> + & y & \lt mi/> + & 2z & \lt mi/> = & 1 \\ 2x & \lt mi/> - & y & \lt mi/> - & 2z & \lt mi/> = & 2 \\ -x & \lt mi/> + & y & \lt mi/> + & z & \lt mi/> = & 0
+-x & \lt mi/> - & 2y & \lt mi/> + & 2z & \lt mi/> = & \lt mi/> -1 \\ 2x & \lt mi/> + & 4y & \lt mi/> - & z & \lt mi/> = & 5 \\ x & \lt mi/> + & 2y & \~ & \~ & \lt mi/> = & 3
+-x & \lt mi/> - & 2y & \lt mi/> + & 2z & \lt mi/> = & \lt mi/> -1 \\ 2x & \lt mi/> + & 4y & \lt mi/> - & z & \lt mi/> = & 5 \\ x & \lt mi/> + & 2y & \~ & \~ & \lt mi/> = & 2
+\begin{bmatrix} 2 & 1 & 0 \\ 1 & 0 & 0 \\ 3 & -1 & 1 \end{bmatrix} .
+A = \begin{bmatrix} 2 & 3 & 2 & 3 \\ -2 & 1 & 6 & 1 \\ -1 & -3 & -4 & 1 \end{bmatrix} .
+RREF(A) .
+A = \begin{bmatrix} 2 & 4 & 2 & -4 \\ -2 & -4 & 1 & 1 \\ 3 & 6 & -1 & -4 \end{bmatrix} .
+RREF(A) .
+\mathbb R^p
+\mathbb R^3 \colon
+\mathbf v_1 = \begin{bmatrix} 0 \\ -1 \\ 2 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 3 \\ 1 \\ -1 \end{bmatrix}, \mathbf v_3 = \begin{bmatrix} 2 \\ 0 \\ 1 \end{bmatrix} .
+Span\{\mathbf v_1, \mathbf v_2, \mathbf v_3 \} .
+\mathbf w_1 = \begin{bmatrix} 0 \\ -1 \\ 2 \end{bmatrix}, \mathbf w_2 = \begin{bmatrix} 3 \\ 1 \\ -1 \end{bmatrix}, \mathbf w_3 = \begin{bmatrix} 3 \\ 0 \\ 1 \end{bmatrix} .
+Span\{\mathbf w_1, \mathbf w_2, \mathbf w_3 \} .
+\mathbf w_3
+\mathbf w_1
+\mathbf w_2
+\mathbf w_3 =a\mathbf w_1 +b\mathbf w_2 .
+\mathbf w_1,
+\mathbf w_2,
+\mathbf w_3,
+c_1 \mathbf w_1 +c_2 \mathbf w_2 +c_3 \mathbf w_3
+\mathbf w_1
+\mathbf w_2 .
+Span\{\mathbf w_1, \mathbf w_2, \mathbf w_3 \} =Span\{\mathbf w_1, \mathbf w_2 \} .
+\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_n
+\{ \begin{bmatrix} -4 \\ 2 \\ 3 \\ 0 \\ -1 \end{bmatrix}, \begin{bmatrix} 1 \\ 2 \\ 0 \\ 0 \\ 3 \end{bmatrix}, \begin{bmatrix} 1 \\ 10 \\ 10 \\ 2 \\ 6 \end{bmatrix}, \begin{bmatrix} 3 \\ 4 \\ 7 \\ 2 \\ 1 \end{bmatrix} \}
+\mathbb R^4
+\begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \mathbf v_3 & \mathbf v_4 & \mathbf v_5 \end{bmatrix} \sim \begin{bmatrix} 1 & 0 & -1 & 0 & 2 \\ 0 & 1 & 2 & 0 & 3 \\ 0 & 0 & 0 & 1 & -1 \\ 0 & 0 & 0 & 0 & 0 \end{bmatrix} .
+\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_5
+\mathbb R^4
+\begin{bmatrix} \mathbf w_1 & \mathbf w_2 & \mathbf w_3 \end{bmatrix} \sim \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \\ 0 & 0 & 0 \end{bmatrix} .
+\mathbf w_1,
+\mathbf w_2,
+\mathbf w_3
+\mathbf 0,
+\mathbb R^{10}
+\mathbf v_1, \mathbf v_2, \mathbf v_3
+\mathbb R^n .
+3\mathbf v_1 -5\mathbf v_2 =\mathbf v_3,
+\{\mathbf v_1, \mathbf v_2, \mathbf v_3 \}
+x_1 \mathbf v_1 +x_2 \mathbf v_2 +x_3 \mathbf v_3 =\mathbf 0 ?
+A\mathbf x =\mathbf 0
+A .
+A = \begin{bmatrix} 3 & 2 & 0 \\ -1 & 0 & -2 \\ 2 & 1 & 1 \end{bmatrix}
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3 .
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3
+A\mathbf x =\mathbf 0 .
+\mathbf 0
+\mathbf 0 .
+c_1,
+c_2,
+c_3
+c_1 \mathbf v_1 +c_2 \mathbf v_2 +c_3 \mathbf v_3 =\mathbf 0 .
+\mathbb R^4
+3
+4
+5
+\mathbb R^p
+\mathbb R^n .
+4 \times 4
+\mathbb R^n
+\mathbb R^p
+\mathbb R^p
+\mathbb R^p
+\mathbb R^p
+A
+A = \begin{bmatrix} 2 & 1 \\ 1 & 2 \end{bmatrix} .
+T(\mathbf x) =A\mathbf x
+T( \begin{bmatrix} -2 \\ 3 \end{bmatrix}) =A \begin{bmatrix} -2 \\ 3 \end{bmatrix} = \begin{bmatrix} 2 & 1 \\ 1 & 2 \end{bmatrix} \begin{bmatrix} -2 \\ 3 \end{bmatrix} = \begin{bmatrix} -1 \\ 4 \end{bmatrix} .
+T
+\begin{bmatrix} -2 \\ 3 \end{bmatrix}
+\begin{bmatrix} -1 \\ 4 \end{bmatrix}
+T( \begin{bmatrix} 1 \\ -2 \end{bmatrix}) ?
+T( \begin{bmatrix} 1 \\ 0 \end{bmatrix}) ?
+T( \begin{bmatrix} 0 \\ 1 \end{bmatrix}) ?
+\mathbf x
+T(\mathbf x) = \begin{bmatrix} 3 \\ 0 \end{bmatrix} ?
+T(\mathbf x) =A\mathbf x
+A = \begin{bmatrix} 3 & 3 & -2 & 1 \\ 0 & 2 & 1 & -3 \\ -2 & 1 & 4 & -4 \end{bmatrix} .
+\mathbf x
+T ?
+T(\mathbf x) =A\mathbf x
+\mathbf x
+T(\mathbf x) =\mathbf 0 .
+A
+A = \begin{bmatrix} \mathbf v_1 & \mathbf v_2 \end{bmatrix},
+T( \begin{bmatrix} 0 \\ 1 \end{bmatrix})
+\mathbf v_1
+\mathbf v_2 ?
+A
+3 \times 2
+T(\mathbf x) =A\mathbf x .
+T( \begin{bmatrix} 1 \\ 0 \end{bmatrix}) = \begin{bmatrix} 3 \\ -1 \\ 1 \end{bmatrix}, T( \begin{bmatrix} 0 \\ 1 \end{bmatrix}) = \begin{bmatrix} 2 \\ 2 \\ -1 \end{bmatrix},
+A ?
+T \colon \mathbb R^3 \to \mathbb R^2
+T( \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}) = \begin{bmatrix} 2 \\ 1 \end{bmatrix}
+T( \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix}) = \begin{bmatrix} -3 \\ 2 \end{bmatrix} .
+T( \begin{bmatrix} 1 \\ 0 \\ 1 \end{bmatrix}) ?
+\begin{bmatrix} 2 \\ 1 \end{bmatrix}
+\begin{bmatrix} 3 \\ -1 \end{bmatrix}
+\begin{bmatrix} -1 \\ 3 \end{bmatrix}
+\begin{bmatrix} 5 \\ -8 \end{bmatrix}
+T \colon \mathbb R^3 \to \mathbb R^2
+T( \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}) = \begin{bmatrix} 2 \\ 1 \end{bmatrix}
+T( \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix}) = \begin{bmatrix} -3 \\ 2 \end{bmatrix} .
+T( \begin{bmatrix} 0 \\ 4 \\ -1 \end{bmatrix}) ?
+T( \begin{bmatrix} 0 \\ -4 \\ 0 \end{bmatrix}) .
+T( \begin{bmatrix} 0 \\ 1 \\ 0 \end{bmatrix}) .
+T( \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix}) .
+T \colon \mathbb R^4 \to \mathbb R^3
+T(\mathbf e_1) = \begin{bmatrix} 0 \\ 3 \\ -2 \end{bmatrix} T(\mathbf e_2) = \begin{bmatrix} -3 \\ 0 \\ 1 \end{bmatrix} T(\mathbf e_3) = \begin{bmatrix} 4 \\ -2 \\ 1 \end{bmatrix} T(\mathbf e_4) = \begin{bmatrix} 2 \\ 0 \\ 0 \end{bmatrix}
+[T(\mathbf e_1)\cdots T(\mathbf e_n)]
+T .
+A
+T .
+T \colon \mathbb R^3 \to \mathbb R^2
+T( \begin{bmatrix} x \\ y \\ z \end{bmatrix}) = \begin{bmatrix} x +3z \\ 2x -y -4z \end{bmatrix}
+T(\mathbf e_1),
+T(\mathbf e_2),
+T(\mathbf e_3) .
+T,
+T(\mathbf x) =A\mathbf x .
+x_1
+x_2
+C
+D ?
+E ?
+\mathbf x = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix} .
+\begin{bmatrix} C \\ D \\ E \end{bmatrix}
+C,
+D,
+E
+T(\mathbf x) = \begin{bmatrix} C \\ D \\ E \end{bmatrix}
+\begin{bmatrix} C \\ D \\ E \end{bmatrix}
+\mathbf x = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix} .
+T(\mathbf x) =A\mathbf x,
+A ?
+T( \begin{bmatrix} 1 \\ 0 \end{bmatrix})
+T( \begin{bmatrix} 0 \\ 1 \end{bmatrix})
+A .
+C
+D
+E
+F
+S ?
+B
+R( \begin{bmatrix} C \\ D \\ E \end{bmatrix}) = \begin{bmatrix} F \\ S \end{bmatrix} .
+P(\mathbf x) = \begin{bmatrix} F \\ S \end{bmatrix}
+x_1
+x_2
+P .
+P
+Q,
+P
+P .
+Q .
+Q
+Q
+P .
+\mathbf x = \begin{bmatrix} P \\ Q \end{bmatrix}
+P
+Q
+T(\mathbf x) = \begin{bmatrix} P' \\ Q' \end{bmatrix}
+P
+Q
+P
+Q .
+T( \begin{bmatrix} 1000 \\ 0 \end{bmatrix}) ?
+T( \begin{bmatrix} 1 \\ 0 \end{bmatrix}) ?
+Q
+P .
+T( \begin{bmatrix} 0 \\ 1000 \end{bmatrix}) ?
+A
+T(\mathbf x) =A\mathbf x .
+P
+Q
+P
+Q
+Q
+S
+\mathbf x
+S ?
+R
+\mathbf x
+R ?
+P .
+Q .
+P,
+Q .
+P,
+Q .
+\mathbb R^p
+A
+\mathbf x
+A\mathbf x =\mathbf 0 .
+A ?
+A
+A
+A
+\det A
+A\mathbf x =\mathbf 0 ?
+A
+A
+A
+A = \begin{bmatrix} 3 & -1 & 1 \\ 0 & 2 & 4 \\ 1 & 1 & 3 \end{bmatrix} .
+\det A .
+A\mathbf x =\mathbf 0 ?
+Nul(A) .
+(A -\lambda I)\mathbf v =\mathbf 0 .
+(A -\lambda I)\mathbf v =\mathbf 0,
+A -\lambda I ?
+A -\lambda I
+A -\lambda I
+A -\lambda I
+A .
+(A -\lambda I)\mathbf v =\mathbf 0,
+\det (A -\lambda I) ?
+A -\lambda I
+A -\lambda I
+A
+\lambda I .
+A = \begin{bmatrix} 1 & 2 \\ 2 & 1 \end{bmatrix}
+A -\lambda I = \begin{bmatrix} 1 & 2 \\ 2 & 1 \end{bmatrix} -\lambda \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix} = \begin{bmatrix} 1 -\lambda & 2 \\ 2 & 1 -\lambda \end{bmatrix} .
+\det (A -\lambda I) .
+\det (A -\lambda I) =0 ?
+\lambda
+\det (A -\lambda I) =0 .
+A
+A = \begin{bmatrix} 2 & 1 \\ 0 & 2 \end{bmatrix}
+\det (A -\lambda I) =0 .
+A = \begin{bmatrix} 0 & -1 \\ 1 & 0 \end{bmatrix}
+\det (A -\lambda I) =0 .
+\begin{bmatrix} 3 & -1 & 4 \\ 0 & -2 & 3 \\ 0 & 0 & 1 \end{bmatrix} .
+A .
+\lambda
+(A -\lambda I)\mathbf v =\mathbf 0
+A -\lambda I
+\det (A -\lambda I) =0
+A .
+A .
+A -\lambda I .
+A = \begin{bmatrix} 1 & 2 \\ 2 & 1 \end{bmatrix} .
+\lambda =3
+A -3I
+E_3 =Nul(A -3I) .
+\mathbf v,
+A\mathbf v =3\mathbf v .
+\lambda = -1
+A -( -1)I
+E_{ -1} .
+\mathbf v,
+A\mathbf v = -\mathbf v .
+\mathbb R^2
+A ?
+A = \begin{bmatrix} 3 & 0 \\ 0 & 3 \end{bmatrix} .
+A
+A .
+E_\lambda .
+\mathbb R^2
+A ?
+A = \begin{bmatrix} 2 & 1 \\ 0 & 2 \end{bmatrix} .
+A
+A .
+E_\lambda .
+\mathbb R^2
+A ?
+A = \begin{bmatrix} 4 & 0 \\ 0 & -1 \end{bmatrix} .
+A .
+A .
+A,
+E_\lambda
+Nul(A -\lambda I) .
+n \times n
+(2 -\lambda)^3 ( -3 -\lambda)^{10} (5 -\lambda) .
+\mathbb R^n
+A = \begin{bmatrix} 0 & -1 \\ 4 & -4 \end{bmatrix} .
+A
+\mathbb R^2
+A = \begin{bmatrix} -1 & 0 & 2 \\ -2 & -2 & -4 \\ 0 & 0 & -2 \end{bmatrix}
+( -2 -\lambda)^2 ( -1 -\lambda) =0 .
+\lambda,
+E_\lambda
+\mathbb R^3
+A ?
+A = \begin{bmatrix} -5 & -2 & -6 \\ -2 & -2 & -4 \\ 2 & 1 & 2 \end{bmatrix}
+( -2 -\lambda)^2 ( -1 -\lambda) =0 .
+\lambda,
+E_\lambda
+\mathbb R^3
+A ?
+A = \begin{bmatrix} -5 & -2 & -6 \\ 4 & 1 & 8 \\ 2 & 1 & 2 \end{bmatrix}
+( -2 -\lambda)(1 -\lambda)( -1 -\lambda) =0 .
+\lambda,
+E_\lambda
+\mathbb R^3
+A ?
+\mathbb R^p
+\mathbb R^p
+\mathbb R^p
+\mathbf v
+\mathbf w,
+\mathbf v \cdot \mathbf w
+\mathbf v \cdot \mathbf w = \begin{bmatrix} v_1 \\ v_2 \end{bmatrix} \cdot \begin{bmatrix} w_1 \\ w_2 \end{bmatrix} =v_1 w_1 +v_2 w_2 .
+n
+\mathbf v
+\mathbf w,
+\mathbf v \cdot \mathbf w
+\mathbf v \cdot \mathbf w =v_1 w_1 +v_2 w_2 +\cdots +v_n w_n .
+\mathbf v = \begin{bmatrix} 3 \\ 4 \end{bmatrix}
+\mathbf w = \begin{bmatrix} 2 \\ -2 \end{bmatrix} .
+\mathbf v \cdot \mathbf w .
+\mathbf v .
+\mathbf v .
+\mathbf v \cdot \mathbf v .
+\mathbf v ?
+\mathbf v,
+| \mathbf v |,
+| \mathbf v | =\sqrt{(v_1)^2 +(v_2)^2 +\cdots +(v_n)^2} .
+\mathbf v \cdot \mathbf v =| \mathbf v |^2 .
+\mathbf v
+\mathbf w
+\mathbf v \cdot \mathbf w =0 .
+\mathbf v = \begin{bmatrix} 3 \\ 2 \end{bmatrix}
+\mathbf w = \begin{bmatrix} -1 \\ 3 \end{bmatrix} .
+| \mathbf v |
+| \mathbf w |
+\mathbf v \cdot \mathbf w .
+\mathbf v
+\mathbf w
+\mathbf x = \begin{bmatrix} -2 \\ 3 \end{bmatrix} .
+\mathbf v \cdot \mathbf x .
+\mathbf v
+\mathbf x
+k
+\begin{bmatrix} 6 \\ k \end{bmatrix}
+\mathbf w ?
+\mathbf v = \begin{bmatrix} 2 \\ 0 \\ 3 \\ -2 \end{bmatrix}, \mathbf w = \begin{bmatrix} 1 \\ -3 \\ 4 \\ 1 \end{bmatrix} .
+| \mathbf v | .
+| \mathbf w | .
+\mathbf v \cdot \mathbf w .
+\mathbb R^p
+\mathbb R^p
+\mathbb R^p
+\mathbb R^p
+\mathbb R^n
+\mathbb R^p
+\mathbf v_1
+\mathbf v_2
+\mathbf v_1
+\mathbf v_2
+180\circ;
+180\circ .
+2 \times 2
+A
+\mathbf v_1
+\mathbf v_2 .
+A,
+\det A,
+\mathbf v_1
+\mathbf v_2 .
+\det A
+2 \times 2
+\begin{bmatrix} -\frac{1}{2} & 0 \\ 0 & 2 \end{bmatrix} .
+\begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix} .
+\begin{bmatrix} 2 & 1 \\ 0 & 1 \end{bmatrix} .
+\begin{bmatrix} 2 & k \\ 0 & 1 \end{bmatrix} ?
+\begin{bmatrix} 2 & 0 \\ 1 & 1 \end{bmatrix} .
+\begin{bmatrix} 1 & -1 \\ -2 & 2 \end{bmatrix} .
+A = \begin{bmatrix} 2 & 1 \\ 2 & -1 \end{bmatrix}, B = \begin{bmatrix} 1 & 0 \\ 0 & 2 \end{bmatrix} .
+A,
+B,
+AB .
+\det (AB)
+\det A
+\det B ?
+U_1 = \begin{bmatrix} 1 & -1 & 2 \\ 0 & 2 & 4 \\ 0 & 0 & -2 \end{bmatrix}, U_2 = \begin{bmatrix} 1 & -1 & 2 \\ 0 & 2 & 4 \\ 0 & 0 & 0 \end{bmatrix} .
+U_1
+U_2
+\det U_1
+\det U_2 .
+A = \begin{bmatrix} 1 & -1 & 2 \\ -2 & 2 & -6 \\ 3 & -1 & 10 \end{bmatrix}
+A = \begin{bmatrix} 1 & -1 & 2 \\ -2 & 2 & -6 \\ 3 & -1 & 10 \end{bmatrix} \sim \begin{bmatrix} 1 & -1 & 2 \\ 0 & 0 & -2 \\ 3 & -1 & 10 \end{bmatrix} =A_1 .
+\det A
+\det A_1 ?
+A_1 = \begin{bmatrix} 1 & -1 & 2 \\ 0 & 0 & -2 \\ 3 & -1 & 10 \end{bmatrix} \sim \begin{bmatrix} 1 & -1 & 2 \\ 0 & 0 & -2 \\ 0 & 2 & 4 \end{bmatrix} =A_2 .
+\det A
+\det A_2 ?
+A_2 = \begin{bmatrix} 1 & -1 & 2 \\ 0 & 0 & -2 \\ 0 & 2 & 4 \end{bmatrix} \sim \begin{bmatrix} 1 & -1 & 2 \\ 0 & 2 & 4 \\ 0 & 0 & -2 \end{bmatrix} =U
+U .
+\det A
+\det U ?
+U
+\det A .
+\det A ?
+A
+A = \begin{bmatrix} 1 & -1 & 3 \\ 0 & 2 & -2 \\ 2 & 1 & 3 \end{bmatrix} .
+U
+A .
+\det A .
+A
+A
+A' .
+\det A \not= 0
+\det A' \not= 0 .
+n \times n
+A
+\det A \not= 0 .
+A
+\det A = -3,
+\det A^{ -1} ?
+\det \begin{bmatrix} 2 & 0 & -1 \\ 3 & 1 & 2 \\ -2 & 4 & -3 \end{bmatrix} = -36 .
+\begin{bmatrix} -3 & 0 & 0 & 0 \\ 4 & 1 & 0 & 0 \\ -1 & 4 & -4 & 0 \\ 0 & 3 & 2 & 3 \end{bmatrix} .
+\begin{bmatrix} 2 & 1 & -2 & -3 \\ 3 & 0 & -1 & -2 \\ -3 & 4 & 1 & 2 \\ 1 & 3 & 3 & -1 \end{bmatrix} .
+\mathbb R^p
+\mathbf v = \begin{bmatrix} -1 \\ 2 \end{bmatrix} .
+\mathbf v
+\mathbf x
+\mathbf v,
+\mathbf v \cdot \mathbf x ?
+\mathbf x = \begin{bmatrix} x \\ y \end{bmatrix},
+\mathbf v
+x
+y .
+\mathbf v .
+Col(A)
+Nul(A)
+A .
+A
+\mathbf x
+A\mathbf x =\mathbf 0 .
+\mathbf x
+Nul(A)
+Col(A) ?
+A\mathbf x =\mathbf b
+\mathbf b
+Nul(A)
+Col(A) ?
+W
+\mathbb R^m,
+W
+\mathbb R^m
+W .
+W^\perp .
+W^\perp .
+\mathbf w_1 = \begin{bmatrix} 1 \\ 0 \\ -2 \end{bmatrix}
+\mathbf w_2 = \begin{bmatrix} 1 \\ 1 \\ -1 \end{bmatrix}
+W,
+\mathbb R^3 .
+\mathbf x
+\mathbf w_1 .
+\mathbf x = \begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix},
+\mathbf w_1 \cdot \mathbf x =0
+x_1,
+x_2,
+x_3 .
+\mathbf x
+\mathbf w_2 .
+x_1,
+x_2,
+x_3
+\mathbf w_2 \cdot \mathbf x =0 .
+\mathbf x
+\mathbf w_1
+\mathbf w_2,
+B\mathbf x =\mathbf 0
+B .
+B
+B\mathbf x =\mathbf 0 .
+\mathbf w_1 = \begin{bmatrix} 1 \\ 0 \\ -2 \end{bmatrix}
+\mathbf w_2 = \begin{bmatrix} 1 \\ 1 \\ -1 \end{bmatrix}
+W,
+\mathbb R^3 .
+\mathbf w_1
+\mathbf w_2
+W,
+\mathbf w
+W
+\mathbf w =c_1 \mathbf w_1 +c_2 \mathbf w_2 .
+\mathbf x
+\mathbf w_1
+\mathbf w_2,
+\mathbf x
+\mathbf w .
+W^\perp
+\dim W^\perp .
+(W^\perp)^\perp,
+W^\perp .
+m \times n
+A
+n \times m
+A^T
+A .
+B = \begin{bmatrix} 3 & 4 \\ -1 & 2 \\ 0 & -2 \end{bmatrix},
+B^T .
+A^T
+A .
+\mathbf v_1 = \begin{bmatrix} 2 \\ 0 \\ -2 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 1 \\ 1 \\ 2 \end{bmatrix}, \mathbf w = \begin{bmatrix} -2 \\ 2 \\ 3 \end{bmatrix} .
+\mathbf v_1 \cdot \mathbf w
+\mathbf v_2 \cdot \mathbf w .
+A = \begin{bmatrix} \mathbf v_1 & \mathbf v_2 \end{bmatrix}
+A^T .
+A^T \mathbf w
+\mathbf v_1 \cdot \mathbf w
+\mathbf v_2 \cdot \mathbf w .
+\mathbf x
+\mathbf v_1
+\mathbf v_2 .
+\mathbf v_1 \cdot \mathbf x
+\mathbf v_2 \cdot \mathbf x ?
+A^T \mathbf x ?
+A^T
+\mathbf x
+\mathbf v_1
+\mathbf v_2 .
+Nul(A^T),
+A^T,
+A^T \mathbf x =\mathbf 0 .
+\mathbf x
+Nul(A^T),
+\mathbf x
+\mathbf v_1
+\mathbf v_2 .
+Col(A),
+A,
+A .
+Col(A)
+c_1 \mathbf v_1 +c_2 \mathbf v_2 .
+\mathbf x
+Nul(A^T),
+\mathbf x
+Col(A) .
+A = \begin{bmatrix} 1 & 0 & -3 \\ 2 & -2 & 1 \end{bmatrix}, B = \begin{bmatrix} 3 & -4 & 1 \\ 0 & 1 & 2 \end{bmatrix}, C = \begin{bmatrix} 1 & 0 & -3 \\ 2 & -2 & 1 \\ 3 & 2 & 0 \end{bmatrix} .
+(A +B)^T
+A^T +B^T .
+(A^T)^T ?
+\det (C)
+\det (C^T) .
+AC
+(AC)^T .
+A^T C^T ?
+C^T A^T
+(AC)^T .
+I ?
+D
+D^T
+(D^T)^{ -1} =(D^{ -1})^T .
+W
+5
+\mathbb R^9
+A
+W;
+Col(A) =W .
+A ?
+A ?
+A^T ?
+A^T ?
+\dim Nul(A^T) ?
+\dim W^\perp ?
+W
+W^\perp
+W
+\mathbb R^4
+\mathbf w_1 = \begin{bmatrix} 1 \\ 0 \\ 2 \\ -1 \end{bmatrix}, \mathbf w_2 = \begin{bmatrix} -1 \\ 2 \\ -6 \\ 3 \end{bmatrix} .
+\dim W
+\dim W^\perp .
+W^\perp .
+Nul(A) .
+W^\perp
+W .
+\mathbb R^p
+4 \times 4
+2 \times 2
+4 \times 4
+A\mathbf v
+\mathbb R^p
+\mathbb R^n
+\mathbb R^3 .
+\mathbb R^p
+A = \begin{bmatrix} 1 & 0 & 2 \\ 2 & 2 & 1 \\ 1 & 1 & 1 \end{bmatrix}, B = \begin{bmatrix} 1 & 2 & -4 \\ -1 & -1 & 3 \\ 0 & -1 & 2 \end{bmatrix} .
+BA =I
+B =A^{ -1} .
+A\mathbf x = \begin{bmatrix} 4 \\ -1 \\ 4 \end{bmatrix}
+A^{ -1} .
+A
+B
+AB ?
+A
+n \times n
+A^{ -1} .
+A\mathbf x =\mathbf b
+\mathbf x =A^{ -1} \mathbf b .
+A
+A
+\mathbb R^3 .
+A
+n \times n
+A^{ -1} .
+A\mathbf x =\mathbf b
+\mathbf x =A^{ -1} \mathbf b .
+A ?
+A
+A
+A
+A
+4 \times 4
+A = \begin{bmatrix} 1 & 2 \\ 1 & 3 \end{bmatrix}
+A^{ -1} .
+B
+B =A^{ -1} .
+AB =I .
+B = \begin{bmatrix} \mathbf b_1 & \mathbf b_2 \end{bmatrix},
+AB = \begin{bmatrix} A\mathbf b_1 & A\mathbf b_2 \end{bmatrix} = \begin{bmatrix} \mathbf e_1 & \mathbf e_2 \end{bmatrix} =I .
+A\mathbf b_1 & \lt mi/> =\mathbf e_1 \\ A\mathbf b_2 & \lt mi/> =\mathbf e_2 .
+B .
+B ?
+AB =I
+BA =I .
+B,
+A\mathbf b_1 =\mathbf e_1
+A\mathbf b_2 =\mathbf e_2 .
+A
+\begin{bmatrix} A & \mathbf e_1 \end{bmatrix} & \~ \\ \begin{bmatrix} A & \mathbf e_2 \end{bmatrix} & \~
+\begin{bmatrix} A & \mathbf e_1 & \mathbf e_2 \end{bmatrix}
+A
+I
+\begin{bmatrix} A & I \end{bmatrix} .
+A^{ -1} .
+A
+\begin{bmatrix} A & I \end{bmatrix} \sim \begin{bmatrix} I & A^{ -1} \end{bmatrix} .
+A
+A = \begin{bmatrix} 1 & -2 & -1 \\ -1 & 5 & 6 \\ 5 & -4 & 6 \end{bmatrix} .
+\begin{bmatrix} -4 & 2 \\ -2 & 1 \end{bmatrix} ?
+n \times n
+C
+D
+(D^{ -1} C^{ -1})(CD) ?
+CD
+(CD)^{ -1} =D^{ -1} C^{ -1} .
+A \colon
+\begin{bmatrix} ? & ? & ? \\ ? & ? & ? \\ ? & ? & ? \end{bmatrix} \begin{bmatrix} 2 & 7 & -1 \\ 0 & 3 & 2 \\ 1 & 1 & -1 \end{bmatrix} = \begin{bmatrix} 2 & 7 & -1 \\ 0 & 3 & 2 \\ 2 & 2 & -2 \end{bmatrix}
+A \colon
+\begin{bmatrix} ? & ? & ? \\ ? & ? & ? \\ ? & ? & ? \end{bmatrix} \begin{bmatrix} 2 & 7 & -1 \\ 0 & 3 & 2 \\ 1 & 1 & -1 \end{bmatrix} = \begin{bmatrix} 2 & 7 & -1 \\ 1 & 1 & -1 \\ 0 & 3 & 2 \end{bmatrix}
+5
+A
+\begin{bmatrix} ? & ? & ? \\ ? & ? & ? \\ ? & ? & ? \end{bmatrix} \begin{bmatrix} 2 & 7 & -1 \\ 0 & 3 & 2 \\ 1 & 1 & -1 \end{bmatrix} = \begin{bmatrix} 2 +5(1) & 7 +5(1) & -1 +5( -1) \\ 0 & 3 & 2 \\ 1 & 1 & -1 \end{bmatrix}
+R_2 \leftrightarrow R_3
+R_1 +R_2 \to R_1
+A \sim B \colon
+A = \begin{bmatrix} -1 & 4 & 5 \\ 0 & 3 & -1 \\ 1 & 2 & 3 \end{bmatrix} & \lt mi/> \sim \begin{bmatrix} -1 & 4 & 5 \\ 1 & 2 & 3 \\ 0 & 3 & -1 \end{bmatrix} \\ \~ & \lt mi/> \sim \begin{bmatrix} -1 +1 & 4 +2 & 5 +3 \\ 1 & 2 & 3 \\ 0 & 3 & -1 \end{bmatrix} = \begin{bmatrix} 0 & 6 & 8 \\ 1 & 2 & 3 \\ 0 & 3 & -1 \end{bmatrix} =B
+B
+A \colon
+B = \begin{bmatrix} ? & ? & ? \\ ? & ? & ? \\ ? & ? & ? \end{bmatrix} \begin{bmatrix} ? & ? & ? \\ ? & ? & ? \\ ? & ? & ? \end{bmatrix} A
+A = \begin{bmatrix} 1 & 2 & 1 \\ 2 & 0 & -2 \\ -1 & 2 & -1 \end{bmatrix} .
+A,
+-2
+A_1 .
+A = \begin{bmatrix} 1 & 2 & 1 \\ 2 & 0 & -2 \\ -1 & 2 & -1 \end{bmatrix} \sim \begin{bmatrix} 1 & 2 & 1 \\ 0 & -4 & -4 \\ -1 & 2 & -1 \end{bmatrix} =A_1 .
+A
+L_1 = \begin{bmatrix} 1 & 0 & 0 \\ -2 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}
+L_1 A =A_1 .
+L_1
+L_1^{ -1} .
+L_1
+L_1^{ -1} .
+A
+U
+A = \begin{bmatrix} 1 & 2 & 1 \\ 2 & 0 & -2 \\ -1 & 2 & -1 \end{bmatrix} \sim \begin{bmatrix} 1 & 2 & 1 \\ 0 & -4 & -4 \\ 0 & 0 & -4 \end{bmatrix} =U .
+L_2
+L_3
+L_3 L_2 L_1 A =U .
+L_3 L_2 L_1
+A =LU .
+L
+L ?
+S = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 3 & 0 \\ 0 & 0 & 1 \end{bmatrix}, P = \begin{bmatrix} 0 & 0 & 1 \\ 0 & 1 & 0 \\ 1 & 0 & 0 \end{bmatrix} .
+A
+S
+P
+S
+P
+\mathbb R^p
+A
+T(\mathbf x) =A\mathbf x .
+A = \begin{bmatrix} 2 & 0 \\ 0 & 1 \end{bmatrix} .
+A = \begin{bmatrix} 2 & 0 \\ 0 & 2 \end{bmatrix} .
+A = \begin{bmatrix} 0 & -1 \\ 1 & 0 \end{bmatrix} .
+A = \begin{bmatrix} 1 & 1 \\ 0 & 1 \end{bmatrix} .
+A = \begin{bmatrix} -1 & 0 \\ 0 & 1 \end{bmatrix} .
+A = \begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix} .
+A = \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix} .
+A = \begin{bmatrix} 1 & -1 \\ -2 & 2 \end{bmatrix} .
+T \colon \mathbb R^2 \to \mathbb R^2 .
+T(\mathbf x) =\mathbf x .
+I .
+\mathbb R^2
+y =x .
+y =x
+T \colon \mathbb R^2 \to \mathbb R^2 .
+90\circ .
+90\circ
+y =x
+y =x
+90\circ .
+90\circ
+90\circ
+T
+90\circ,
+T \circ T \circ T \circ T .
+\theta
+\begin{bmatrix} \cos \theta & -\sin \theta \\ \sin \theta & \cos \theta \end{bmatrix} .
+\mathbb R^p
+A =PDP^{ -1}
+P = \begin{bmatrix} 1 & -1 \\ 1 & 2 \end{bmatrix}, D = \begin{bmatrix} 2 & 0 \\ 0 & -3 \end{bmatrix} .
+A
+\mscrB
+\mathbb R^2
+A
+\mathbf x = \begin{bmatrix} 1 \\ 4 \end{bmatrix}
+A\mathbf x
+\{\mathbf x \}_\mscrB,
+\mathbf x
+\mscrB ?
+\{A\mathbf x \}_\mscrB,
+A\mathbf x
+\mscrB ?
+\{A^4 \mathbf x \}_\mscrB,
+A^4 \mathbf x
+\mscrB ?
+R
+S
+R_0
+S_0;
+k
+R_k
+S_k .
+R_{k +1} & \lt mi/> =0.9R_k +0.8S_k \\ S_{k +1} & \lt mi/> =0.2R_k +0.9S_k .
+\mathbf x_k = \begin{bmatrix} R_k \\ S_k \end{bmatrix}
+\mathbf x_{k +1} =A\mathbf x_k
+A = \begin{bmatrix} 0.9 & 0.8 \\ 0.2 & 0.9 \end{bmatrix} .
+\mathbf v_1 = \begin{bmatrix} 2 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} -2 \\ 1 \end{bmatrix}
+A
+\mathbf x_0 = \begin{bmatrix} 2 \\ 3 \end{bmatrix} .
+\mathbf x_0
+\mathbf v_1
+\mathbf v_2 .
+\mathbf x_1,
+\mathbf x_2,
+\mathbf x_3
+\mathbf v_1
+\mathbf v_2 .
+k
+R_k /S_k ?
+R_{k +1} & \lt mi/> =0.9R_k +0.8S_k \\ S_{k +1} & \lt mi/> =0.2R_k +0.9S_k .
+\mathbf x_k = \begin{bmatrix} R_k \\ S_k \end{bmatrix}
+\mathbf x_{k +1} =A\mathbf x_k
+A = \begin{bmatrix} 0.9 & 0.8 \\ 0.2 & 0.9 \end{bmatrix} .
+\mathbf x_0 = \begin{bmatrix} 4 \\ 4 \end{bmatrix} .
+R_k /S_k
+k
+R_k /S_k
+k
+R
+S
+R
+S
+k
+\mathbf x_k = \begin{bmatrix} R_k \\ S_k \end{bmatrix}
+\mathbf x_{k +1} =A\mathbf x_k .
+2 \times 2
+\mathbf x_{k +1} =A\mathbf x_k,
+| \lambda_1 |, | \lambda_2 | \lt 1
+| \lambda_1 | >1
+| \lambda_2 | \lt 1
+E_{\lambda_1} .
+| \lambda_1 |, | \lambda_2 | >1
+A = \begin{bmatrix} 0.7 & 0 \\ 0 & 1.6 \end{bmatrix} .
+A = \begin{bmatrix} 0.7 & 0.3 \\ 0 & 1.6 \end{bmatrix} .
+S
+R .
+A = \begin{bmatrix} 0.7 & 0.5 \\ -0.4 & 1.6 \end{bmatrix} .
+A = \begin{bmatrix} 0.5 & 0.2 \\ -0.4 & 1.1 \end{bmatrix} .
+J_k,
+Y_k,
+A_k,
+k .
+J_{k +1} =0.4A_k .
+Y_{k +1}
+A_{k +1}
+J_k,
+Y_k,
+A_k .
+\mathbf x_k = \begin{bmatrix} J_k \\ Y_k \\ A_k \end{bmatrix} .
+A
+\mathbf x_{k +1} =A\mathbf x_k .
+A .
+A =PEP^{ -1}
+E
+P
+E & \lt mi/> = \begin{bmatrix} 1.058 & 0 & 0 \\ 0 & -0.128 & -0.506 \\ 0 & 0.506 & -0.128 \end{bmatrix}, \\ \~ \\ P & \lt mi/> = \begin{bmatrix} 1 & 1 & 0 \\ 0.756 & -0.378 & 1.486 \\ 2.644 & -0.322 & -1.264 \end{bmatrix} .
+\mathbf x_k .
+\mathbb R^p
+\mathbb R^2
+\mscrB =\{\mathbf v_1, \mathbf v_2 \} .
+\mscrB
+\mathbf v_1 = \begin{bmatrix} 1 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} -1 \\ 0 \end{bmatrix} .
+\mathbf x
+\mscrB
+\{\mathbf x \}_\mscrB = \begin{bmatrix} -3 \\ 2 \end{bmatrix} .
+\mathbf x = \begin{bmatrix} 4 \\ 5 \end{bmatrix}
+\{\mathbf x \}_\mscrB
+\mscrB .
+C_\mscrB = \begin{bmatrix} \mathbf v_1 & \mathbf v_2 \end{bmatrix}
+\{\mathbf x \}_\mscrB
+\mscrB
+\mathbf x ?
+\mathbf x
+\{\mathbf x \}_\mscrB ?
+A
+\mathbf v_1
+\mathbf v_2
+\lambda_1 =4
+\lambda_2 =2 .
+A( -3\mathbf v_1 +5\mathbf v_2)
+\mathbf v_1
+\mathbf v_2 .
+\{\mathbf x \}_\mscrB = \begin{bmatrix} -3 \\ 5 \end{bmatrix},
+\{A\mathbf x \}_\mscrB .
+A = \begin{bmatrix} 1 & 2 \\ 2 & 1 \end{bmatrix}, D = \begin{bmatrix} 3 & 0 \\ 0 & -1 \end{bmatrix} .
+A
+\mathbf v_1 = \begin{bmatrix} 1 \\ 1 \end{bmatrix}
+\mathbf v_2 = \begin{bmatrix} -1 \\ 1 \end{bmatrix}
+\lambda_1 =3
+\lambda_2 = -1 .
+\mathbb R^2
+\mscrB =\{\mathbf v_1, \mathbf v_2 \} .
+\mathbf x =2\mathbf v_1 -3\mathbf v_2,
+A\mathbf x
+\mathbf v_1
+\mathbf v_2 .
+\{\mathbf x \}_\mscrB = \begin{bmatrix} 2 \\ -3 \end{bmatrix},
+\{A\mathbf x \}_\mscrB,
+A\mathbf x
+\mscrB .
+\{\mathbf x \}_\mscrB = \begin{bmatrix} c_1 \\ c_2 \end{bmatrix},
+\{A\mathbf x \}_\mscrB,
+A\mathbf x
+\mscrB .
+\{A\mathbf x \}_\mscrB =D\{\mathbf x \}_\mscrB .
+C_\mscrB^{ -1} A\mathbf x =DC_\mscrB^{ -1} \mathbf x
+\mathbf x
+C_\mscrB^{ -1} A =DC_\mscrB^{ -1} .
+A =C_\mscrB DC_\mscrB^{ -1}
+C_\mscrB DC_\mscrB^{ -1}
+A
+D
+P
+A =PDP^{ -1} .
+A,
+A = \begin{bmatrix} 3 & -2 \\ 6 & -5 \end{bmatrix} .
+A = \begin{bmatrix} 2 & 0 \\ 0 & -5 \end{bmatrix}
+P
+D .
+A,
+A = \begin{bmatrix} -2 & 0 & 0 \\ 1 & -3 & 0 \\ 2 & 0 & -3 \end{bmatrix} .
+A,
+A = \begin{bmatrix} -2 & 0 & 0 \\ 1 & -3 & 0 \\ 2 & 1 & -3 \end{bmatrix} .
+A =PDP^{ -1}
+D = \begin{bmatrix} 3 & 0 \\ 0 & -1 \end{bmatrix}, P = \begin{bmatrix} \mathbf v_2 & \mathbf v_1 \end{bmatrix} = \begin{bmatrix} 2 & 2 \\ 1 & -1 \end{bmatrix} .
+A
+A^{ -1} .
+A^3 .
+D = \begin{bmatrix} 2 & 0 \\ 0 & -1 \end{bmatrix} .
+D^2,
+D^3,
+D^4 .
+D^k
+k ?
+A
+\mathbf v
+\lambda;
+A\mathbf v =\lambda \mathbf v .
+A^2 \mathbf v,
+\mathbf v
+A
+\lambda^2 .
+A =PDP^{ -1}
+D = \begin{bmatrix} 2 & 0 \\ 0 & -1 \end{bmatrix} .
+P
+A,
+A^2
+A^2 .
+A^2
+A^2 =(PDP^{ -1})(PDP^{ -1}) =PD(P^{ -1} P)DP^{ -1} .
+A^3,
+A^4,
+A^k .
+A
+2 \times 2
+\lambda_1 =0.5
+\lambda_2 =0.1 .
+A^k
+k
+A
+B
+P
+A =PBP^{ -1} .
+A
+C
+A .
+A
+\lambda =a +bi,
+A
+C = \begin{bmatrix} a & -b \\ b & a \end{bmatrix} .
+C
+r
+\theta .
+\begin{bmatrix} a & -b \\ b & a \end{bmatrix} = \begin{bmatrix} r\cos \theta & -r\sin \theta \\ r\sin \theta & r\cos \theta \end{bmatrix} = \begin{bmatrix} r & 0 \\ 0 & r \end{bmatrix} \begin{bmatrix} \cos \theta & -\sin \theta \\ \sin \theta & \cos \theta \end{bmatrix} .
+C
+\theta
+r .
+A \colon
+A = \begin{bmatrix} -2 & 2 \\ -5 & 4 \end{bmatrix}
+\lambda_1 =1 +i
+\lambda_2 =1 -i .
+\lambda_1 =a +bi =1 +i .
+C
+a
+b .
+(a, b)
+r
+\theta .
+C .
+P = \begin{bmatrix} 1 & 1 \\ 2 & 1 \end{bmatrix} .
+A =PCP^{ -1} .
+A^k =PC^k P^{ -1} .
+C
+\lambda_1 =1 +i .
+\lambda_2 =1 -i .
+C'
+C' .
+P' = \begin{bmatrix} 1 & -1 \\ 2 & -1 \end{bmatrix},
+A =P'C'P^{ ' -1} .
+\mathbb R^p
+\mathbb R^p
+\mathbb R^p
+A
+2 \times 2
+\mathbf v_1
+\mathbf v_2
+A\mathbf v_1 =3\mathbf v_1, A\mathbf v_2 = -\mathbf v_2 .
+\mathbf v_1
+\mathbf v_2 .
+A(4\mathbf v_1) .
+A(\mathbf v_1 +\mathbf v_2) .
+A(4\mathbf v_1 -3\mathbf v_2) .
+A^2 \mathbf v_1 .
+A^2 (4\mathbf v_1 -3\mathbf v_2) .
+A^4 \mathbf v_1 .
+n \times n
+A,
+\mathbf v
+A
+\lambda
+A\mathbf v =\lambda \mathbf v .
+\lambda
+\mathbf v .
+\mathbf v
+\lambda
+\mathbf v
+\lambda \mathbf v ?
+A\mathbf v =\lambda \mathbf v .
+\mathbf v
+A\mathbf v .
+A\mathbf v =\lambda \mathbf v,
+\mathbf v
+A\mathbf v ?
+A = \begin{bmatrix} 1 & 2 \\ 2 & 1 \end{bmatrix} .
+\mathbf v
+\mathbf v
+A\mathbf v,
+\mathbf v
+\mathbf v
+2,
+\mathbf v
+A = \begin{bmatrix} 2 & 1 \\ 0 & 2 \end{bmatrix} .
+A = \begin{bmatrix} 0 & -1 \\ 1 & 0 \end{bmatrix} .
+A ?
+P
+Q .
+P
+P
+Q .
+Q
+Q
+P .
+P
+Q
+P
+Q
+P
+Q
+P_k
+Q_k
+P
+Q,
+k,
+P_{k +1} & \lt mi/> =0.8P_k +0.6Q_k \\ Q_{k +1} & \lt mi/> =0.2P_k +0.4Q_k .
+\mathbf x_k = \begin{bmatrix} P_k \\ Q_k \end{bmatrix}
+k,
+\mathbf x_{k +1} & \lt mi/> = \begin{bmatrix} 0.8 & 0.6 \\ 0.2 & 0.4 \end{bmatrix} \mathbf x_k \\ \~ \\ or\mathbf x_{k +1} & \lt mi/> =A\mathbf x_k
+A = \begin{bmatrix} 0.8 & 0.6 \\ 0.2 & 0.4 \end{bmatrix} .
+\mathbf v_1 = \begin{bmatrix} 3 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} -1 \\ 1 \end{bmatrix} .
+A\mathbf v_1
+A\mathbf v_2
+\mathbf v_1
+\mathbf v_2
+A .
+\lambda_1
+\lambda_2 ?
+\mathbf v_1 = \begin{bmatrix} 3 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} -1 \\ 1 \end{bmatrix}
+P
+Q .
+\mathbf x_0 = \begin{bmatrix} 1000 \\ 0 \end{bmatrix} .
+\mathbf x_0
+\mathbf v_1
+\mathbf v_2 .
+\mathbf v_1
+\mathbf v_2
+A .
+\mathbf x_1 =A\mathbf x_0,
+\mathbf v_1
+\mathbf v_2 .
+\mathbf x_2 =A\mathbf x_1
+\mathbf v_1
+\mathbf v_2 .
+\mathbf v_1
+\mathbf v_2 \colon
+\mathbf x_3 =A\mathbf x_2 .
+\mathbf x_4 =A\mathbf x_3 .
+\mathbf x_5 =A\mathbf x_4 .
+\mathbf x_6 =A\mathbf x_5 .
+\mathbf x_0
+\mathbb R^p
+\mathbb R^p
+\mscrB =\{\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_m \}
+\mathbb R^m .
+\{\mathbf x \}_\mscrB
+\mathbf x
+\mscrB ?
+\{\mathbf x \}_\mscrB
+\mathbf x
+\{\mathbf x \}_\mscrB = \begin{bmatrix} c_1 \\ c_2 \\ \vdots \\ c_m \end{bmatrix}
+\mathbf x =c_1 \mathbf v_1 +c_2 \mathbf v_2 +\ldots +c_m \mathbf v_m .
+\{\mathbf x \}_\mscrB,
+\mathbf x ?
+\mathbf x,
+\{\mathbf x \}_\mscrB ?
+\mscrB =\{ \begin{bmatrix} 1 \\ 3 \end{bmatrix}, \begin{bmatrix} 1 \\ 1 \end{bmatrix} \}
+\mathbb R^2 .
+\{\mathbf x \}_\mscrB = \begin{bmatrix} 1 \\ -2 \end{bmatrix},
+\mathbf x .
+\mathbf x = \begin{bmatrix} 2 \\ -4 \end{bmatrix},
+\{\mathbf x \}_\mscrB .
+\mathbb R^p
+\mathbb R^p
+A
+A = \begin{bmatrix} 2 & -1 & 2 & 3 \\ 1 & 0 & 0 & 2 \\ -2 & 2 & -4 & -2 \end{bmatrix} \sim \begin{bmatrix} 1 & 0 & 0 & 2 \\ 0 & 1 & -2 & 1 \\ 0 & 0 & 0 & 0 \end{bmatrix} .
+A
+\mathbb R^3 ?
+A\mathbf x =\mathbf 0 .
+\mathbf w_1
+\mathbf w_2
+A\mathbf x =\mathbf 0 .
+\mathbf w_1
+\mathbf w_2 ?
+A
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3,
+\mathbf v_4 .
+\mathbf v_3
+\mathbf v_4
+\mathbf v_1
+\mathbf v_2 .
+\mathbf v_1
+\mathbf v_2
+Span\{\mathbf v_1, \mathbf v_2 \} =Span\{\mathbf v_1, \mathbf v_2, \mathbf v_3, \mathbf v_4 \} .
+\mathbb R^p
+\mathbb R^p
+\mathbb R^2 .
+\mathbb R^2 .
+\mathbb R^2
+\mathbf 0 .
+S
+\mathbb R^2
+\mathbf 0
+\mathbb R^2 .
+S =\mathbb R^2
+\mathbb R^2 .
+\mathbf v
+\mathbf w
+S,
+Span\{\mathbf v, \mathbf w \}
+S
+S
+\mathbb R^p
+S
+S .
+S,
+\dim S,
+A
+m \times n
+\mathbf x
+\mathbb R^n
+A\mathbf x =\mathbf 0
+A .
+Nul(A) .
+A = \begin{bmatrix} 1 & 3 & -1 \\ -2 & 0 & -4 \\ 1 & 2 & 0 \end{bmatrix}
+Nul(A) .
+Nul(A) .
+Nul(A)
+\mathbb R^p
+p ?
+A
+A \sim \begin{bmatrix} 1 & 2 & 0 & -3 \\ 0 & 0 & 1 & 2 \end{bmatrix} .
+Nul(A) .
+Nul(A) .
+Nul(A) ?
+Nul(A)
+\mathbb R^p
+p ?
+A,
+A
+Nul(A) ?
+A
+Nul(A) ?
+A
+n \times n
+Nul(A) ?
+A
+5 \times 10
+Nul(A) =\mathbb R^{10} .
+A ?
+A,
+rank(A),
+A .
+A
+m \times n
+A
+Col(A) .
+A = \begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \mathbf v_3 \end{bmatrix} = \begin{bmatrix} 1 & 3 & -1 \\ -2 & 0 & -4 \\ 1 & 2 & 0 \end{bmatrix} .
+Col(A)
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3
+Col(A) .
+\mathbf v_3
+\mathbf v_1
+\mathbf v_2
+Col(A) =Span\{\mathbf v_1, \mathbf v_2 \} .
+\mathbf v_1
+\mathbf v_2
+Col(A) .
+Col(A)
+\mathbb R^3
+\mathbb R^3 .
+A
+A = \begin{bmatrix} -2 & -4 & 0 & 6 \\ 1 & 2 & 0 & -3 \end{bmatrix} \sim \begin{bmatrix} 1 & 2 & 0 & -3 \\ 0 & 0 & 0 & 0 \end{bmatrix} .
+\mathbf v_1,
+\mathbf v_2,
+\mathbf v_3,
+\mathbf v_4 .
+\mathbf v_2,
+\mathbf v_3,
+\mathbf v_4
+\mathbf v_1 .
+Col(A)
+\mathbb R^2
+\dim Col(A)
+rank(A) ?
+Col(A)
+Nul(A) ?
+A
+9 \times 9
+Col(A) ?
+Col(A) =\{\mathbf 0 \},
+A ?
+A .
+A ?
+A .
+A ?
+A = \begin{bmatrix} 1 & -3 & 2 \\ 2 & -6 & 0 \\ 0 & 0 & 1 \\ -1 & 3 & 1 \end{bmatrix} .
+A
+m \times n
+\dim Nul(A) +\dim Col(A) =n
+A .

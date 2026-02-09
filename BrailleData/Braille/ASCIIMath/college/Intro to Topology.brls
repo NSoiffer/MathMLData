@@ -1,0 +1,797 @@
+RR
+ZZ
+omega = {z in ZZ:z >= 0} = {0, 1, 2, ...}
+QQ = {z/(n+1) :z in ZZ, n in omega}
+cc A
+X.
+X'\\x002216'uuu_(A in cc A)A = nnn_(A in cc A)(X'\\x002216'A)
+X'\\x002216'nnn_(A in cc A)A = uuu_(A in cc A)(X'\\x002216'A)
+x > 0,
+n in omega
+1/n < x.
+S sube RR
+glb S = "inf"S.
+S sube RR
+lub S = "sup"S.
+S = {-1, {5, -e}, pi}
+|S| = 3.
+S
+omega
+|S| <= aleph_0.
+|S| = alpha_0.
+S
+omega
+|S| > aleph_0.
+S
+RR
+|S| = fr c.
+a, b in RR uu{-oo, oo},
+(a, b) nn QQ
+(a, b)'\\x002216'QQ
+(a, b)
+RR
+QQ
+RR'\\x002216'QQ.
+f:A -> B, g:B -> C
+Z sube C,
+(g@f)^ larr[Z] = f^ larr[g^ larr[Z]].
+RR
+RR^** = {x in RR:x >= 0}.
+RR^2
+RR^(2**) = {'\\x0027e8'x, y'\\x0027e9'in RR^2:x >= 0}.
+RR^3,
+RR^2.
+RR^2;
+d:X^2 -> [0, oo)
+x, y, z in X.
+d(x, y) = 0
+x = y.
+d(x, y) = d(y, x)
+d(x, z) <= d(x, y)+d(y, z)
+d
+X,
+B_r(x) = {y in X:d(x, y) < r}
+x
+d(x, y) = 1
+x, y in X,
+d(x, x) = 0
+d(x, y) = |y-x|
+x, y in RR
+d('\\x0027e8'x_0, x_1'\\x0027e9', '\\x0027e8'y_0, y_1'\\x0027e9') = sqrt((y_1-y_0)^2+(x_1-x_0)^2)
+'\\x0027e8'x_0, x_1'\\x0027e9', '\\x0027e8'y_0, y_1'\\x0027e9'in RR^2.
+d('\\x0027e8'x_0, x_1'\\x0027e9', '\\x0027e8'y_0, y_1'\\x0027e9') = |y_1-y_0|+|x_1-x_0|
+'\\x0027e8'x_0, x_1'\\x0027e9', '\\x0027e8'y_0, y_1'\\x0027e9'in RR^2.
+d('\\x0027e8'x_0, x_1'\\x0027e9', '\\x0027e8'y_0, y_1'\\x0027e9') = max{|y_1-y_0|, |x_1-x_0|}
+'\\x0027e8'x_0, x_1'\\x0027e9', '\\x0027e8'y_0, y_1'\\x0027e9'in RR^2.
+d
+X.
+'\\x00212c' = {B_r(x):x in X, r > 0}
+X.
+T_4.
+B_r(x), B_r^' (x)
+x
+d, d'
+d, d'
+x in X
+'\\x0003f5' > 0,
+delta > 0
+B_ delta(x) sube B_'\\x0003f5'^' (x)
+B_ delta(x)'sube B_'\\x0003f5' (x).
+vec x = '\\x0027e8'x_0, ..., x_(n-1)'\\x0027e9'in RR^n,
+vec x(i) = x_i.
+RR^n
+d(vec x, vec y) = sqrt(sum_(0<=i<n)(vec y(i)-vec x(i))^2)
+d(vec x, vec y) = sum_(0<=i<n)|vec y(i)-vec x(i)|
+d(vec x, vec y) = max{|vec y(i)-vec x(i)|:0 <= i < n}
+RR^n.
+RR^1
+RR
+x
+'\\x00212c'_x
+U
+x,
+B in'\\x00212c'_x
+x in B_x sube U.
+X
+X
+RR^n
+vec x, vec y in RR^2,
+d(vec x, vec y) = 1
+vec x(1) != vec y(1),
+d(vec x, vec y) = |vec y(0)-vec x(0)|
+d
+RR^2
+{vec x:vec x(1) in{0, 1}}
+(0, 1) uu(2, 3)
+x
+A
+B sube A'\\x002216'{x}
+x
+B.
+X
+x
+x
+A
+'\\x0003f5' > 0,
+{x in A:EE y in A(d(x, y) >= '\\x0003f5')}
+d:X -> [0, oo)
+Y sube X.
+d
+Y
+Y.
+(0, 1)
+RR.
+QQ
+RR'\\x002216'QQ
+RR.
+X
+Y
+X
+Y
+'\\x0027e8'X, cc T'\\x0027e9'.
+cc T
+T_0
+x, y in X
+x != y,
+U
+x
+y!inU,
+V
+y
+x!inV.
+cc T
+T_1
+x, y in X
+x != y,
+U
+x
+y!inU.
+cc T
+T_2
+x, y in X
+x != y,
+U, V
+x, y
+U nn V = O/.
+T_2 => T_1 => T_0.
+'\\x0027e8'X, cc T'\\x0027e9'
+T_0.
+T_0
+T_1.
+T_1
+T_2.
+X
+T_1
+X
+X
+X
+T_1
+X
+'\\x0027e8'X, cc T'\\x0027e9'.
+cc T
+x in X
+H sube X
+x!inH,
+U, V in cc T
+x in U, H sube V, U nn V = O/.
+cc T
+T_3
+T_1
+cc T
+H, L sube X
+H nn L = O/,
+U, V in cc T
+H sube U, L sube V, U nn V = O/.
+cc T
+T_4
+T_1
+T_(n+1) => T_n
+n in{0, 1, 2, 3}.
+RR
+T_3.
+T_4,
+T_2
+T_3
+T_4
+T_3.
+T_4.
+x
+U,
+V
+x
+x in V sube "cl"V sube U.
+H
+U supe H,
+V supe H
+H sube V sube "cl"V sube U.
+T_3
+T_0.
+n in{0, 1, 2, 3}.
+T_n
+T_n.
+n in{0, 1, 2}
+f:X -> Y
+Y
+T_n,
+X
+T_n.
+n in{3, 4}
+f:X -> Y
+Y
+T_n,
+X
+T_n.
+X, Y
+'\\x00212c'_X, '\\x00212c'_Y.
+X xx Y = {'\\x0027e8'x, y'\\x0027e9':x in X, y in Y}
+'\\x00212c' = {U xx V:U in'\\x00212c'_X, V in'\\x00212c'_Y}.
+X xx Y
+Y xx X
+p in Y.
+X xx{p} = {'\\x0027e8'x, p'\\x0027e9':x in X}
+X xx Y
+X.
+RR^(n+1)
+RR^n xx RR.
+X xx Y
+X, Y
+X xx Y
+X, Y
+S = RR
+S xx S
+H = {'\\x0027e8'x, -x'\\x0027e9':x in QQ}
+L = {'\\x0027e8'x, -x'\\x0027e9':x in RR'\\x002216'QQ}
+S = RR
+S
+S xx S
+Delta = {'\\x0027e8'x, x'\\x0027e9':x in X}
+X xx X
+X.
+X xx Y,
+pi_X:X xx Y -> X
+pi_Y:X xx Y -> Y
+pi_X('\\x0027e8'x, y'\\x0027e9') = x
+pi_Y('\\x0027e8'x, y'\\x0027e9') = y.
+X xx Y
+X, Y
+Y
+cc U
+X xx Y,
+x in X
+cc F_x sube cc U
+U_x
+x
+U_x xx Y sube uuu cc F_x.
+X xx Y
+X, Y
+X xx Y
+X, Y
+X^**
+X
+cc T.
+cc T^** = {U^**sube X^** :uuu U^**in cc T}
+X^** .
+X^**
+(X xx Y)^** = {{x} xx Y:x in X}
+X xx Y.
+(X xx Y)^**
+X.
+R sube X^2
+X,
+xRy
+'\\x0027e8'x, y'\\x0027e9'in R.
+~
+X
+x, y, z in X.
+x~x.
+x~y
+y~x.
+x~y
+y~z
+y~z.
+X^**
+X
+~
+X
+x~y
+{x, y} sube A
+A in X^** .
+~
+~
+X,
+[x] = {y in X:x~y}.
+X^** = {[x]:x in X}
+X.
+~
+X.
+X//~
+X^**
+R
+X.
+~=nnn{~^***sube X^2:R sube~^*** "\and\ "~^*** "\is an equivalence relation on\ "X}
+X.
+~_Y
+X xx Y
+'\\x0027e8'x, a'\\x0027e9'~_Y'\\x0027e8'x, b'\\x0027e9'.
+(X xx Y)//~_Y
+X.
+X = [0, 1]//~
+0~1,
+Y = {'\\x0027e8'x, y'\\x0027e9'in RR^2:x^2+y^2 = 1}.
+X = [0, 2]//~
+0~1~2,
+Y = {'\\x0027e8'x, y'\\x0027e9'in RR^2:(x-1)^2+y^2 = 1} uu{'\\x0027e8'x, y'\\x0027e9'in RR^2:(x+1)^2+y^2 = 1}.
+X = [0,1]^2//~
+'\\x0027e8'0, y'\\x0027e9'~'\\x0027e8'1, y'\\x0027e9',
+Y = {'\\x0027e8'x, y'\\x0027e9'in RR^2:1 <= x^2+y^2 <= 2}.
+X = [0,1]^2//~
+'\\x0027e8'x, y'\\x0027e9'~'\\x0027e8'z, w'\\x0027e9'
+x, y
+z, w
+{0, 1},
+Y = {'\\x0027e8'x, y, z'\\x0027e9'in RR^2:1 <= x^2+y^2+z^2 = 1}.
+n
+S^n = [0,1]^n//~
+vec x~vec y
+i, j in{0, ..., n}
+vec x(i), vec y(j) in{0, 1}.
+M = [0,1]^2//~
+'\\x0027e8'0, y'\\x0027e9'~'\\x0027e8'1, 1-y'\\x0027e9'.
+T = [0,1]^2//~
+'\\x0027e8'0, y'\\x0027e9'~'\\x0027e8'1, y'\\x0027e9'
+'\\x0027e8'x, 0'\\x0027e9'~'\\x0027e8'x, 1'\\x0027e9'.
+K = [0,1]^2//~
+'\\x0027e8'0, y'\\x0027e9'~'\\x0027e8'1, 1-y'\\x0027e9'
+'\\x0027e8'x, 0'\\x0027e9'~'\\x0027e8'x, 1'\\x0027e9'.
+cc A sube cc P(X)
+Y sube X
+Y sube uuu cc A.
+K sube X
+cc U
+K,
+cc F sube cc U
+K.
+RR
+RR
+ZZ
+{2^(-n):n in omega}
+{0} uu{2^(-n):n in omega}
+(0, 1)
+A sube X
+d(x, y)
+D in[0, oo)
+d(x, y) < D
+x, y in A.
+cc T = {O/} uu{omega'\\x002216'F:F"\is finite"}
+omega.
+omega
+K sube RR^n
+K
+R sube X
+cc U
+X,
+cc F sube cc U
+K.
+X
+R sube X
+"cl"R
+K sube RR^n
+K
+X
+K
+X.
+K
+f:X -> Y
+K sube X
+f[K]
+cc K = {K_n:n in omega}
+K_(n+1) sube K_n
+n in omega.
+nnn cc K
+X
+K sube X.
+K
+K
+K
+X
+H, K
+U, V
+H sube U
+K sube V.
+T_4.
+0 in omega
+a, b in RR.
+a
+b
+(a, b) = {x in RR:a < x < b}
+x in RR
+S sube RR.
+x
+S
+(a, b)
+x,
+y in S
+x != y
+y in(a, b).
+0
+ZZ
+RR'\\x002216'ZZ
+{1/(n+1) :n in omega}
+QQ
+F sube RR
+U sube RR
+x in U,
+(a, b)
+x in(a, b) sube U.
+[pi, 42)
+(-3, -1) uu(4, 5.5)
+{x:2x+1 > 5}
+ZZ
+RR'\\x002216'ZZ
+QQ
+F sube RR
+U sube RR
+cc U
+U = uuu cc U.
+x in RR
+S sube RR.
+x
+S
+U
+x,
+y in S
+x != y
+y in U.
+RR
+O/
+RR
+cc U
+uuu cc U
+U, V
+U nn V
+X
+cc T sube cc P(X)
+O/, X in cc T.
+cc U sube cc T,
+uuu cc U in cc T.
+U, V in cc T,
+U nn V in cc T.
+cc T
+X,
+'\\x0027e8'X, cc T'\\x0027e9'
+U in cc T
+'\\x0027e8'X, cc T'\\x0027e9'
+X
+cc T sube cc P(RR)
+RR
+cc T
+RR
+X
+X.
+cc T = cc P(X)
+cc T = {O/, X}
+cc T
+cc U sube cc T
+nnn cc U in cc T.
+cc T
+cc U = {U_n:n in omega}
+nnn cc U!incc T.
+a, b in RR uu{-oo, oo}.
+(a, b) = {x in RR:a < x < b}
+[a, b) = {x in RR:a <= x < b}
+(a, b] = {x in RR:a < x <= b}
+[a, b] = {x in RR:a <= x <= b}
+'\\x0027e8'X, cc T'\\x0027e9'.
+X = RR
+cc T = {(x, oo):x in RR} uu{[x, oo):x in RR} uu{O/, RR}.
+X = RR
+cc T = {(x, y):x, y in RR uu{-oo, oo}"\and\ "x < 0 < y} uu{O/}.
+X = RR
+U in cc T
+x in U,
+a, b in RR
+x in[a, b) sube U.
+X = {0, 1}
+cc T = {O/, {0}, X}.
+X = ZZ,
+E = {n in ZZ:n"\is even"},
+D = {n in ZZ:n"\is odd"},
+cc T = {O/, E, D, X}.
+'\\x0027e8'X, cc T'\\x0027e9'
+x in X.
+N sube X
+x
+U in cc T
+x in U sube N.
+U
+X
+U
+S sube X
+x
+S
+U
+x,
+y in S
+x != y
+y in U.
+x in RR
+S sube RR
+S sube X
+S'
+S,
+S.
+S sube X
+"cl"S = S uu S'
+S.
+"cl"S
+S = (-1, 1) sube RR
+RR
+S = (-1, 1) sube RR
+RR
+S = (-1, 1) sube RR
+RR
+S = ZZ sube RR
+RR
+S = QQ sube RR
+RR
+H sube X
+H
+H = "cl"H.
+H sube X
+H
+X'\\x002216'H
+X
+O/
+X
+cc c
+nnn cc c
+H, L
+H uu L
+S sube X
+x
+S
+U
+x,
+U nn S
+U'\\x002216'S
+"bd"S
+S.
+a, b in RR.
+"bd"(a, b) = "bd"(a, b] = "bd"[a, b) = "bd"[a, b] = {a, b}
+S sube X
+x
+S
+U
+x
+x in U sube S.
+"int"S
+S.
+U sube X
+U
+U = "int"U.
+S sube X
+x
+S
+U
+x
+x in U sube X'\\x002216'S.
+"ext"S
+S.
+X
+cc P
+X = uuu cc P
+A nn B = O/
+A, B in cc P
+A != B.
+S sube X
+{"int"S, "bd"S, "ext"S}
+X.
+S sube X
+"cl"S = "int"S uu "bd"S = S uu "bd"S.
+A
+X.
+"int""int"A = "int"A
+"int""cl"A = "int"A
+"bd""bd"A = "bd"A
+"ext""ext"A = "int"A
+"int""ext"A = "ext"A
+"int""bd"A = O/
+"cl""ext"A = X'\\x002216'"int"A
+A, B
+X.
+"int"(A nn B) = "int"A nn "int"B
+"int"(A uu B) = "int"A uu "int"B
+"bd"(A nn B) = "bd"A nn "bd"B
+"bd"(A uu B) = "bd"A uu "bd"B
+"cl"(A nn B) = "cl"A nn "cl"B
+"cl"(A uu B) = "cl"A uu "cl"B
+Y sube X
+'\\x0027e8'X, cc T'\\x0027e9'.
+Y
+cc T_Y = {U nn Y:U in cc T}.
+C sube RR
+C = nnn_(n in omega)C_n,
+C_0 = [0, 1]
+C_(n+1) = C_n'\\x002216'uuu_(0<=k<3^n)( (3k+1)/(3^(n+1)) , (3k+2)/(3^(n+1)) ).
+'\\x0027e8'X, cc T'\\x0027e9'
+'\\x00212c'sube cc T
+x in X
+U
+x,
+B in'\\x00212c'
+x in B sube U.
+'\\x00212c' = {(a, b):a, b in RR}
+'\\x00212c'sube cc P(X)
+x in X,
+B in'\\x00212c'
+x in B.
+x in A in'\\x00212c'
+x in B in'\\x00212c',
+C in'\\x00212c'
+x in C sube A nn B.
+cc T = {uuu cc U:cc U sube'\\x00212c'}
+'\\x00212c'
+'\\x00212c' = {[a, b):a, b in RR}
+RR.
+'\\x00212c' = {(a, b):a, b in QQ}
+'\\x00212c' = {(a, oo):a in RR}
+'\\x00212c' = {{x}:x in RR}
+'\\x00212c' = {[a, b]:a, b in RR}
+'\\x00212c' = {[a, b]:a, b in RR, a < 0 < b}
+'\\x00212c'_0, '\\x00212c'_1
+x in B_0 in'\\x00212c'_0
+B_1 in'\\x00212c'_1
+x in B_1 sube B_0,
+x in B_1 in'\\x00212c'_1
+B_0 in'\\x00212c'_0
+x in B_0 sube B_1.
+cc S sube cc P(X)
+cc T = nnn{cc T^***sube cc P(X):cc S sube cc T^*** "\and\ "cc T^*** "\is a topology on\ "X}.
+cc T
+cc S sube cc P(X)
+cc T = nnn{cc T^***sube cc P(X):cc S sube cc T^*** "\and\ "cc T^*** "\is a topology on\ "X}.
+RR
+{(-oo, x):x in RR} uu{(y, oo):y in RR}
+{(-oo, x]:x in RR} uu{[y, oo):y in RR}
+{{0}}
+cc T uu{RR'\\x002216'{1/(2^n) :n in omega}}
+cc S sube cc P(X)
+'\\x00212c' = {X} uu nnn{'\\x00212c'^***sube cc P(X):cc S sube'\\x00212c'^*** "\and\ "B_1, B_2 in'\\x00212c'^*** => B_1 nn B_2 in'\\x00212c'^*** }.
+'\\x00212c'
+X,
+'\\x00212c'
+cc S.
+D sube X
+"cl"D = X.
+RR.
+QQ
+ZZ
+RR'\\x002216'QQ
+RR'\\x002216'ZZ
+D
+D.
+X
+D sube E sube X.
+D
+E
+'\\x00212c'
+X
+Y sube X.
+'\\x00212c'_Y = {U nn Y:U in'\\x00212c'}
+Y.
+0 in omega
+f:X -> Y
+A sube X,
+f[A] = {f(x):x in A}.
+y in Y,
+f^ larr(y) = {x in X:f(x) = y}.
+B sube Y,
+f^ larr[B] = {x in X:f(x) in B}.
+X, Y
+x in X,
+f:X -> Y
+V
+f(x),
+U
+x
+f[U] sube V.
+f
+x.
+f:X -> Y
+f^ larr[V]
+X
+V sube Y.
+X, Y
+iota:X -> X
+iota(x) = x
+y in Y.
+c_y:X -> Y
+c_y(x) = y
+f(x) = |x|
+f(x) = x^2
+f(x) = g(x)+h(x)
+g, h:RR -> RR
+f(x) = g(x)h(x)
+g, h:RR -> RR
+f(x) = 1//x
+f:X -> Y
+g:Y -> Z
+g@f:X -> Z
+f:X -> Y
+f
+f^(-1)
+f
+X, Y
+f:X -> Y
+f
+f
+U sube X
+f[U] sube Y
+H sube X
+f[H] sube Y
+x
+A sube X,
+f(x)
+f[A] sube Y.
+f:X -> Y
+g:Y -> Z
+g@f:X -> Z
+a < b
+c < d
+(a, b)
+(c, d)
+(-1, 1)
+RR
+f:(-1, 1) -> RR
+f(x) = (2x)/(1-x^2)
+'\\x00212c'
+RR.
+K = RR uu{-oo, oo}
+{{-oo} uu(-oo, x):x in RR} uu{(x, oo) uu{oo}:x in RR} uu'\\x00212c'.
+K
+[0, 1]
+{[a, b):a, b in RR}
+{(a, b]:a, b in RR}.
+f:X -> Y
+U sube X
+f[U] sube Y
+{[a, b]:a, b in RR}
+RR.
+Y
+X
+{A, B}
+A nn Y != O/,
+B nn Y != O/,
+Y sube A uu B,
+A nn B nn Y = O/
+Y.
+{A, B}
+Y sube X
+{A nn Y, B nn Y}
+Y
+RR'\\x002216'{0}
+RR = U uu V
+U, V
+x in U, y in V
+x <= y.
+"inf"{z in[x, y]:z in V} in U nn V.
+RR
+A
+"cl"A
+A
+X
+f:X -> Y
+f[A]
+{0, 1}
+X
+f:X -> {0, 1}
+cc A
+nnn cc A != O/,
+uuu cc A
+x, y in A sube X,
+f:[0, 1] -> A
+f(0) = x
+f(1) = y.
+S = {'\\x0027e8'x, y'\\x0027e9':x in(0, 1]"\and\ "y = sin(1/x)}
+"cl"S
+RR^2

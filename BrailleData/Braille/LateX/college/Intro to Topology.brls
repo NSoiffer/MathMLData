@@ -1,0 +1,797 @@
+\mathbb R
+\mathbb Z
+\omega =\{z \in \mathbb Z \colon z \ge 0\} =\{0, 1, 2, \ldots \}
+\mathbb Q =\{\frac{z}{n +1} \colon z \in \mathbb Z, n \in \omega \}
+\mathscr A
+X .
+X \setminus \bigcup_{A \in \mathscr A} A =\bigcap_{A \in \mathscr A} (X \setminus A)
+X \setminus \bigcap_{A \in \mathscr A} A =\bigcup_{A \in \mathscr A} (X \setminus A)
+x >0,
+n \in \omega
+\frac{1}{n} \lt x .
+S \subseteq \mathbb R
+glbS =\inf S .
+S \subseteq \mathbb R
+lubS =\sup S .
+S =\{ -1, \{5, -e\}, \pi \}
+| S| =3 .
+S
+\omega
+| S| \le \aleph_0 .
+| S| =\alpha_0 .
+S
+\omega
+| S| >\aleph_0 .
+S
+\mathbb R
+| S| =\mathfrak c .
+a, b \in \mathbb R \cup \{ -\infty, \infty \},
+(a, b) \cap \mathbb Q
+(a, b) \setminus \mathbb Q
+(a, b)
+\mathbb R
+\mathbb Q
+\mathbb R \setminus \mathbb Q .
+f \colon A \to B, g \colon B \to C
+Z \subseteq C,
+(g \circ f)^\leftarrow [Z] =f^\leftarrow [g^\leftarrow [Z]] .
+\mathbb R
+\mathbb R^\ast =\{x \in \mathbb R \colon x \ge 0\} .
+\mathbb R^2
+\mathbb R^{2 \ast} =\{ \langle x, y \rangle \in \mathbb R^2 \colon x \ge 0\} .
+\mathbb R^3,
+\mathbb R^2 .
+\mathbb R^2;
+d \colon X^2 \to [0, \infty)
+x, y, z \in X .
+d(x, y) =0
+x =y .
+d(x, y) =d(y, x)
+d(x, z) \le d(x, y) +d(y, z)
+d
+X,
+B_r (x) =\{y \in X \colon d(x, y) \lt r\}
+x
+d(x, y) =1
+x, y \in X,
+d(x, x) =0
+d(x, y) =| y -x|
+x, y \in \mathbb R
+d( \langle x_0, x_1 \rangle, \langle y_0, y_1 \rangle) =\sqrt{(y_1 -y_0)^2 +(x_1 -x_0)^2}
+\langle x_0, x_1 \rangle, \langle y_0, y_1 \rangle \in \mathbb R^2 .
+d( \langle x_0, x_1 \rangle, \langle y_0, y_1 \rangle) =| y_1 -y_0 | +| x_1 -x_0 |
+\langle x_0, x_1 \rangle, \langle y_0, y_1 \rangle \in \mathbb R^2 .
+d( \langle x_0, x_1 \rangle, \langle y_0, y_1 \rangle) =\max \{| y_1 -y_0 |, | x_1 -x_0 |\}
+\langle x_0, x_1 \rangle, \langle y_0, y_1 \rangle \in \mathbb R^2 .
+d
+X .
+\mscrB =\{B_r (x) \colon x \in X, r >0\}
+X .
+T_4 .
+B_r (x), B_r^' (x)
+x
+d, d'
+d, d'
+x \in X
+\epsilon >0,
+\delta >0
+B_\delta (x) \subseteq B_\epsilon^' (x)
+B_\delta (x)' \subseteq B_\epsilon (x) .
+\vec{x} = \langle x_0, \ldots, x_{n -1} \rangle \in \mathbb R^n,
+\vec{x}(i) =x_i .
+\mathbb R^n
+d(\vec{x}, \vec{y}) =\sqrt{\sum_{0 \le i \lt n} (\vec{y}(i) -\vec{x}(i))^2}
+d(\vec{x}, \vec{y}) =\sum_{0 \le i \lt n} | \vec{y}(i) -\vec{x}(i)|
+d(\vec{x}, \vec{y}) =\max \{| \vec{y}(i) -\vec{x}(i)| \colon 0 \le i \lt n\}
+\mathbb R^n .
+\mathbb R^1
+\mathbb R
+x
+\mscrB_x
+U
+x,
+B \in \mscrB_x
+x \in B_x \subseteq U .
+X
+X
+\mathbb R^n
+\vec{x}, \vec{y} \in \mathbb R^2,
+d(\vec{x}, \vec{y}) =1
+\vec{x}(1) \not= \vec{y}(1),
+d(\vec{x}, \vec{y}) =| \vec{y}(0) -\vec{x}(0)|
+d
+\mathbb R^2
+\{\vec{x} \colon \vec{x}(1) \in \{0, 1\}\}
+(0, 1) \cup (2, 3)
+x
+A
+B \subseteq A \setminus \{x\}
+x
+B .
+X
+x
+x
+A
+\epsilon >0,
+\{x \in A \colon \exists y \in A(d(x, y) \ge \epsilon)\}
+d \colon X \to [0, \infty)
+Y \subseteq X .
+d
+Y
+Y .
+(0, 1)
+\mathbb R .
+\mathbb Q
+\mathbb R \setminus \mathbb Q
+\mathbb R .
+X
+Y
+X
+Y
+\langle X, \mathscr T \rangle .
+\mathscr T
+T_0
+x, y \in X
+x \not= y,
+U
+x
+y \notin U,
+V
+y
+x \notin V .
+\mathscr T
+T_1
+x, y \in X
+x \not= y,
+U
+x
+y \notin U .
+\mathscr T
+T_2
+x, y \in X
+x \not= y,
+U, V
+x, y
+U \cap V =\varnothing .
+T_2 \Rightarrow T_1 \Rightarrow T_0 .
+\langle X, \mathscr T \rangle
+T_0 .
+T_0
+T_1 .
+T_1
+T_2 .
+X
+T_1
+X
+X
+X
+T_1
+X
+\langle X, \mathscr T \rangle .
+\mathscr T
+x \in X
+H \subseteq X
+x \notin H,
+U, V \in \mathscr T
+x \in U, H \subseteq V, U \cap V =\varnothing .
+\mathscr T
+T_3
+T_1
+\mathscr T
+H, L \subseteq X
+H \cap L =\varnothing,
+U, V \in \mathscr T
+H \subseteq U, L \subseteq V, U \cap V =\varnothing .
+\mathscr T
+T_4
+T_1
+T_{n +1} \Rightarrow T_n
+n \in \{0, 1, 2, 3\} .
+\mathbb R
+T_3 .
+T_4,
+T_2
+T_3
+T_4
+T_3 .
+T_4 .
+x
+U,
+V
+x
+x \in V \subseteq clV \subseteq U .
+H
+U \supseteq H,
+V \supseteq H
+H \subseteq V \subseteq clV \subseteq U .
+T_3
+T_0 .
+n \in \{0, 1, 2, 3\} .
+T_n
+T_n .
+n \in \{0, 1, 2\}
+f \colon X \to Y
+Y
+T_n,
+X
+T_n .
+n \in \{3, 4\}
+f \colon X \to Y
+Y
+T_n,
+X
+T_n .
+X, Y
+\mscrB_X, \mscrB_Y .
+X \times Y =\{ \langle x, y \rangle \colon x \in X, y \in Y\}
+\mscrB =\{U \times V \colon U \in \mscrB_X, V \in \mscrB_Y \} .
+X \times Y
+Y \times X
+p \in Y .
+X \times \{p\} =\{ \langle x, p \rangle \colon x \in X\}
+X \times Y
+X .
+\mathbb R^{n +1}
+\mathbb R^n \times \mathbb R .
+X \times Y
+X, Y
+X \times Y
+X, Y
+S =\mathbb R
+S \times S
+H =\{ \langle x, -x \rangle \colon x \in \mathbb Q \}
+L =\{ \langle x, -x \rangle \colon x \in \mathbb R \setminus \mathbb Q \}
+S =\mathbb R
+S
+S \times S
+\Delta =\{ \langle x, x \rangle \colon x \in X\}
+X \times X
+X .
+X \times Y,
+\pi_X \colon X \times Y \to X
+\pi_Y \colon X \times Y \to Y
+\pi_X ( \langle x, y \rangle) =x
+\pi_Y ( \langle x, y \rangle) =y .
+X \times Y
+X, Y
+Y
+\mathscr U
+X \times Y,
+x \in X
+\mscrF_x \subseteq \mathscr U
+U_x
+x
+U_x \times Y \subseteq \bigcup \mscrF_x .
+X \times Y
+X, Y
+X \times Y
+X, Y
+X^\ast
+X
+\mathscr T .
+\mathscr T^\ast =\{U^\ast \subseteq X^\ast \colon \bigcup U^\ast \in \mathscr T \}
+X^\ast .
+X^\ast
+(X \times Y)^\ast =\{\{x\} \times Y \colon x \in X\}
+X \times Y .
+(X \times Y)^\ast
+X .
+R \subseteq X^2
+X,
+xRy
+\langle x, y \rangle \in R .
+\sim
+X
+x, y, z \in X .
+x \sim x .
+x \sim y
+y \sim x .
+x \sim y
+y \sim z
+y \sim z .
+X^\ast
+X
+\sim
+X
+x \sim y
+\{x, y\} \subseteq A
+A \in X^\ast .
+\sim
+\sim
+X,
+[x] =\{y \in X \colon x \sim y\} .
+X^\ast =\{[x] \colon x \in X\}
+X .
+\sim
+X .
+X/ \sim
+X^\ast
+R
+X .
+\sim = \bigcap \{\sim^\star \subseteq X^2 \colon R \subseteq \sim^\star \~and\~\sim^\star \~is\space an\space equivalence\space relation\space on\~X\}
+X .
+\sim_Y
+X \times Y
+\langle x, a \rangle \sim_Y \langle x, b \rangle .
+(X \times Y)/\sim_Y
+X .
+X =[0, 1]/ \sim
+0 \sim 1,
+Y =\{ \langle x, y \rangle \in \mathbb R^2 \colon x^2 +y^2 =1\} .
+X =[0, 2]/ \sim
+0 \sim 1 \sim 2,
+Y =\{ \langle x, y \rangle \in \mathbb R^2 \colon (x -1)^2 +y^2 =1\} \cup \{ \langle x, y \rangle \in \mathbb R^2 \colon (x +1)^2 +y^2 =1\} .
+X =[0, 1]^2 / \sim
+\langle 0, y \rangle \sim \langle 1, y \rangle,
+Y =\{ \langle x, y \rangle \in \mathbb R^2 \colon 1 \le x^2 +y^2 \le 2\} .
+X =[0, 1]^2 / \sim
+\langle x, y \rangle \sim \langle z, w \rangle
+x, y
+z, w
+\{0, 1\},
+Y =\{ \langle x, y, z \rangle \in \mathbb R^2 \colon 1 \le x^2 +y^2 +z^2 =1\} .
+n
+S^n =[0, 1]^n / \sim
+\vec{x} \sim \vec{y}
+i, j \in \{0, \ldots, n\}
+\vec{x}(i), \vec{y}(j) \in \{0, 1\} .
+M =[0, 1]^2 / \sim
+\langle 0, y \rangle \sim \langle 1, 1 -y \rangle .
+T =[0, 1]^2 / \sim
+\langle 0, y \rangle \sim \langle 1, y \rangle
+\langle x, 0 \rangle \sim \langle x, 1 \rangle .
+K =[0, 1]^2 / \sim
+\langle 0, y \rangle \sim \langle 1, 1 -y \rangle
+\langle x, 0 \rangle \sim \langle x, 1 \rangle .
+\mathscr A \subseteq \mathcal P (X)
+Y \subseteq X
+Y \subseteq \bigcup \mathscr A .
+K \subseteq X
+\mathscr U
+K,
+\mscrF \subseteq \mathscr U
+K .
+\mathbb R
+\mathbb R
+\mathbb Z
+\{2^{ -n} \colon n \in \omega \}
+\{0\} \cup \{2^{ -n} \colon n \in \omega \}
+(0, 1)
+A \subseteq X
+d(x, y)
+D \in [0, \infty)
+d(x, y) \lt D
+x, y \in A .
+\mathscr T =\{\varnothing \} \cup \{\omega \setminus F \colon F\~is\space finite\}
+\omega .
+\omega
+K \subseteq \mathbb R^n
+K
+R \subseteq X
+\mathscr U
+X,
+\mscrF \subseteq \mathscr U
+K .
+X
+R \subseteq X
+clR
+K \subseteq \mathbb R^n
+K
+X
+K
+X .
+K
+f \colon X \to Y
+K \subseteq X
+f[K]
+\mathscr K =\{K_n \colon n \in \omega \}
+K_{n +1} \subseteq K_n
+n \in \omega .
+\bigcap \mathscr K
+X
+K \subseteq X .
+K
+K
+K
+X
+H, K
+U, V
+H \subseteq U
+K \subseteq V .
+T_4 .
+0 \in \omega
+a, b \in \mathbb R .
+a
+b
+(a, b) =\{x \in \mathbb R \colon a \lt x \lt b\}
+x \in \mathbb R
+S \subseteq \mathbb R .
+x
+S
+(a, b)
+x,
+y \in S
+x \not= y
+y \in (a, b) .
+0
+\mathbb Z
+\mathbb R \setminus \mathbb Z
+\{\frac{1}{n +1} \colon n \in \omega \}
+\mathbb Q
+F \subseteq \mathbb R
+U \subseteq \mathbb R
+x \in U,
+(a, b)
+x \in (a, b) \subseteq U .
+[\pi, 42)
+( -3, -1) \cup (4, 5.5)
+\{x \colon 2x +1 >5\}
+\mathbb Z
+\mathbb R \setminus \mathbb Z
+\mathbb Q
+F \subseteq \mathbb R
+U \subseteq \mathbb R
+\mathscr U
+U = \bigcup \mathscr U .
+x \in \mathbb R
+S \subseteq \mathbb R .
+x
+S
+U
+x,
+y \in S
+x \not= y
+y \in U .
+\mathbb R
+\varnothing
+\mathbb R
+\mathscr U
+\bigcup \mathscr U
+U, V
+U \cap V
+X
+\mathscr T \subseteq \mathcal P (X)
+\varnothing, X \in \mathscr T .
+\mathscr U \subseteq \mathscr T,
+\bigcup \mathscr U \in \mathscr T .
+U, V \in \mathscr T,
+U \cap V \in \mathscr T .
+\mathscr T
+X,
+\langle X, \mathscr T \rangle
+U \in \mathscr T
+\langle X, \mathscr T \rangle
+X
+\mathscr T \subseteq \mathcal P (\mathbb R)
+\mathbb R
+\mathscr T
+\mathbb R
+X
+X .
+\mathscr T =\mathcal P (X)
+\mathscr T =\{\varnothing, X\}
+\mathscr T
+\mathscr U \subseteq \mathscr T
+\bigcap \mathscr U \in \mathscr T .
+\mathscr T
+\mathscr U =\{U_n \colon n \in \omega \}
+\bigcap \mathscr U \notin \mathscr T .
+a, b \in \mathbb R \cup \{ -\infty, \infty \} .
+(a, b) =\{x \in \mathbb R \colon a \lt x \lt b\}
+[a, b) =\{x \in \mathbb R \colon a \le x \lt b\}
+(a, b] =\{x \in \mathbb R \colon a \lt x \le b\}
+[a, b] =\{x \in \mathbb R \colon a \le x \le b\}
+\langle X, \mathscr T \rangle .
+X =\mathbb R
+\mathscr T =\{(x, \infty) \colon x \in \mathbb R \} \cup \{[x, \infty) \colon x \in \mathbb R \} \cup \{\varnothing, \mathbb R \} .
+X =\mathbb R
+\mathscr T =\{(x, y) \colon x, y \in \mathbb R \cup \{ -\infty, \infty \}\~and\~x \lt 0 \lt y\} \cup \{\varnothing \} .
+X =\mathbb R
+U \in \mathscr T
+x \in U,
+a, b \in \mathbb R
+x \in [a, b) \subseteq U .
+X =\{0, 1\}
+\mathscr T =\{\varnothing, \{0\}, X\} .
+X =\mathbb Z,
+E =\{n \in \mathbb Z \colon n\~is\space even\},
+D =\{n \in \mathbb Z \colon n\~is\space odd\},
+\mathscr T =\{\varnothing, E, D, X\} .
+\langle X, \mathscr T \rangle
+x \in X .
+N \subseteq X
+x
+U \in \mathscr T
+x \in U \subseteq N .
+U
+X
+U
+S \subseteq X
+x
+S
+U
+x,
+y \in S
+x \not= y
+y \in U .
+x \in \mathbb R
+S \subseteq \mathbb R
+S \subseteq X
+S'
+S,
+S .
+S \subseteq X
+clS =S \cup S'
+S .
+clS
+S =( -1, 1) \subseteq \mathbb R
+\mathbb R
+S =( -1, 1) \subseteq \mathbb R
+\mathbb R
+S =( -1, 1) \subseteq \mathbb R
+\mathbb R
+S =\mathbb Z \subseteq \mathbb R
+\mathbb R
+S =\mathbb Q \subseteq \mathbb R
+\mathbb R
+H \subseteq X
+H
+H =clH .
+H \subseteq X
+H
+X \setminus H
+X
+\varnothing
+X
+\mscrH
+\bigcap \mscrH
+H, L
+H \cup L
+S \subseteq X
+x
+S
+U
+x,
+U \cap S
+U \setminus S
+bdS
+S .
+a, b \in \mathbb R .
+bd(a, b) =bd(a, b] =bd[a, b) =bd[a, b] =\{a, b\}
+S \subseteq X
+x
+S
+U
+x
+x \in U \subseteq S .
+intS
+S .
+U \subseteq X
+U
+U =intU .
+S \subseteq X
+x
+S
+U
+x
+x \in U \subseteq X \setminus S .
+extS
+S .
+X
+\mathcal P
+X = \bigcup \mathcal P
+A \cap B =\varnothing
+A, B \in \mathcal P
+A \not= B .
+S \subseteq X
+\{intS, bdS, extS\}
+X .
+S \subseteq X
+clS =intS \cup bdS =S \cup bdS .
+A
+X .
+intintA =intA
+intclA =intA
+bdbdA =bdA
+extextA =intA
+intextA =extA
+intbdA =\varnothing
+clextA =X \setminus intA
+A, B
+X .
+int(A \cap B) =intA \cap intB
+int(A \cup B) =intA \cup intB
+bd(A \cap B) =bdA \cap bdB
+bd(A \cup B) =bdA \cup bdB
+cl(A \cap B) =clA \cap clB
+cl(A \cup B) =clA \cup clB
+Y \subseteq X
+\langle X, \mathscr T \rangle .
+Y
+\mathscr T_Y =\{U \cap Y \colon U \in \mathscr T \} .
+C \subseteq \mathbb R
+C =\bigcap_{n \in \omega} C_n,
+C_0 =[0, 1]
+C_{n +1} =C_n \setminus \bigcup_{0 \le k \lt 3^n} (\frac{3k +1}{3^{n +1}}, \frac{3k +2}{3^{n +1}}) .
+\langle X, \mathscr T \rangle
+\mscrB \subseteq \mathscr T
+x \in X
+U
+x,
+B \in \mscrB
+x \in B \subseteq U .
+\mscrB =\{(a, b) \colon a, b \in \mathbb R \}
+\mscrB \subseteq \mathcal P (X)
+x \in X,
+B \in \mscrB
+x \in B .
+x \in A \in \mscrB
+x \in B \in \mscrB,
+C \in \mscrB
+x \in C \subseteq A \cap B .
+\mathscr T =\{ \bigcup \mathscr U \colon \mathscr U \subseteq \mscrB \}
+\mscrB
+\mscrB =\{[a, b) \colon a, b \in \mathbb R \}
+\mathbb R .
+\mscrB =\{(a, b) \colon a, b \in \mathbb Q \}
+\mscrB =\{(a, \infty) \colon a \in \mathbb R \}
+\mscrB =\{\{x\} \colon x \in \mathbb R \}
+\mscrB =\{[a, b] \colon a, b \in \mathbb R \}
+\mscrB =\{[a, b] \colon a, b \in \mathbb R, a \lt 0 \lt b\}
+\mscrB_0, \mscrB_1
+x \in B_0 \in \mscrB_0
+B_1 \in \mscrB_1
+x \in B_1 \subseteq B_0,
+x \in B_1 \in \mscrB_1
+B_0 \in \mscrB_0
+x \in B_0 \subseteq B_1 .
+\mathscr S \subseteq \mathcal P (X)
+\mathscr T = \bigcap \{\mathscr T^\star \subseteq \mathcal P (X) \colon \mathscr S \subseteq \mathscr T^\star \~and\~\mathscr T^\star \~is\space a\space topology\space on\~X\} .
+\mathscr T
+\mathscr S \subseteq \mathcal P (X)
+\mathscr T = \bigcap \{\mathscr T^\star \subseteq \mathcal P (X) \colon \mathscr S \subseteq \mathscr T^\star \~and\~\mathscr T^\star \~is\space a\space topology\space on\~X\} .
+\mathbb R
+\{( -\infty, x) \colon x \in \mathbb R \} \cup \{(y, \infty) \colon y \in \mathbb R \}
+\{( -\infty, x] \colon x \in \mathbb R \} \cup \{[y, \infty) \colon y \in \mathbb R \}
+\{\{0\}\}
+\mathscr T \cup \{\mathbb R \setminus \{\frac{1}{2^n} \colon n \in \omega \}\}
+\mathscr S \subseteq \mathcal P (X)
+\mscrB =\{X\} \cup \bigcap \{\mscrB^\star \subseteq \mathcal P (X) \colon \mathscr S \subseteq \mscrB^\star \~and\~B_1, B_2 \in \mscrB^\star \Rightarrow B_1 \cap B_2 \in \mscrB^\star \} .
+\mscrB
+X,
+\mscrB
+\mathscr S .
+D \subseteq X
+clD =X .
+\mathbb R .
+\mathbb Q
+\mathbb Z
+\mathbb R \setminus \mathbb Q
+\mathbb R \setminus \mathbb Z
+D
+D .
+X
+D \subseteq E \subseteq X .
+D
+E
+\mscrB
+X
+Y \subseteq X .
+\mscrB_Y =\{U \cap Y \colon U \in \mscrB \}
+Y .
+0 \in \omega
+f \colon X \to Y
+A \subseteq X,
+f[A] =\{f(x) \colon x \in A\} .
+y \in Y,
+f^\leftarrow (y) =\{x \in X \colon f(x) =y\} .
+B \subseteq Y,
+f^\leftarrow [B] =\{x \in X \colon f(x) \in B\} .
+X, Y
+x \in X,
+f \colon X \to Y
+V
+f(x),
+U
+x
+f[U] \subseteq V .
+f
+x .
+f \colon X \to Y
+f^\leftarrow [V]
+X
+V \subseteq Y .
+X, Y
+\iota \colon X \to X
+\iota (x) =x
+y \in Y .
+c_y \colon X \to Y
+c_y (x) =y
+f(x) =| x|
+f(x) =x^2
+f(x) =g(x) +h(x)
+g, h \colon \mathbb R \to \mathbb R
+f(x) =g(x)h(x)
+g, h \colon \mathbb R \to \mathbb R
+f(x) =1/x
+f \colon X \to Y
+g \colon Y \to Z
+g \circ f \colon X \to Z
+f \colon X \to Y
+f
+f^{ -1}
+f
+X, Y
+f \colon X \to Y
+f
+f
+U \subseteq X
+f[U] \subseteq Y
+H \subseteq X
+f[H] \subseteq Y
+x
+A \subseteq X,
+f(x)
+f[A] \subseteq Y .
+f \colon X \to Y
+g \colon Y \to Z
+g \circ f \colon X \to Z
+a \lt b
+c \lt d
+(a, b)
+(c, d)
+( -1, 1)
+\mathbb R
+f \colon ( -1, 1) \to \mathbb R
+f(x) =\frac{2x}{1 -x^2}
+\mscrB
+\mathbb R .
+K =\mathbb R \cup \{ -\infty, \infty \}
+\{\{ -\infty \} \cup ( -\infty, x) \colon x \in \mathbb R \} \cup \{(x, \infty) \cup \{\infty \} \colon x \in \mathbb R \} \cup \mscrB .
+K
+[0, 1]
+\{[a, b) \colon a, b \in \mathbb R \}
+\{(a, b] \colon a, b \in \mathbb R \} .
+f \colon X \to Y
+U \subseteq X
+f[U] \subseteq Y
+\{[a, b] \colon a, b \in \mathbb R \}
+\mathbb R .
+Y
+X
+\{A, B\}
+A \cap Y \not= \varnothing,
+B \cap Y \not= \varnothing,
+Y \subseteq A \cup B,
+A \cap B \cap Y =\varnothing
+Y .
+\{A, B\}
+Y \subseteq X
+\{A \cap Y, B \cap Y\}
+Y
+\mathbb R \setminus \{0\}
+\mathbb R =U \cup V
+U, V
+x \in U, y \in V
+x \le y .
+\inf \{z \in [x, y] \colon z \in V\} \in U \cap V .
+\mathbb R
+A
+clA
+A
+X
+f \colon X \to Y
+f[A]
+\{0, 1\}
+X
+f \colon X \to \{0, 1\}
+\mathscr A
+\bigcap \mathscr A \not= \varnothing,
+\bigcup \mathscr A
+x, y \in A \subseteq X,
+f \colon [0, 1] \to A
+f(0) =x
+f(1) =y .
+S =\{ \langle x, y \rangle \colon x \in (0, 1]\~and\~y =\sin (\frac{1}{x})\}
+clS
+\mathbb R^2

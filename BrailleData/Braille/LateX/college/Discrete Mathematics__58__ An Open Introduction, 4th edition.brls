@@ -1,0 +1,10663 @@
+\backslash usepackagecancel
+\backslash usepackagecancel
+n,
+n
+p
+q
+p
+q
+n =p +q .
+n
+n
+p
+q
+n
+n =p +q .
+n
+n
+2,
+p
+q,
+p
+q
+n \not= p +q .
+\lnot P \to (Q \wedge R) .
+P \to (Q \vee R)
+(P \to Q) \vee (P \to R)
+P \to Q
+P \to R
+\therefore
+P \to (Q \wedge R) .
+\forall x(x \lt 1 \to x^2 \lt 1) .
+n,
+n
+n
+f,
+f
+f
+a
+b,
+a \cdot b
+a
+b
+x
+y
+n
+x >0
+nx >y .
+x
+y,
+xy =0
+x =0
+y =0 .
+n,
+n
+n \le 7
+n
+n \in \{0, 2, 4, 6\} .
+\forall x( \forall y(x +y =y) \to \forall z(x \cdot z =0)) .
+\lnot ( \lnot (P \wedge \lnot Q) \to \lnot ( \lnot R \vee \lnot (P \to R))) .
+\lnot \exists x \lnot \forall y \lnot \exists z(z =x +y \to \exists w(x -y =w)) .
+n,
+n
+7n
+\backslash usepackagecancel
+x +y +z =10,
+x, y, z \ge 2 .
+x, y, z \le 4 .
+A,
+B,
+C,
+| A \cup B \cup C| =| A| +| B| +| C| -| A \cap B| -| A \cap C| -| B \cap C| +| A \cap B \cap C| .
+\binom{13}{2},
+A
+B
+C
+A \cup B \cup C .
+| A|,
+| B|,
+| C|,
+| A \cap B|
+| A| =\binom{8}{2} .
+| B| =\binom{8}{2} .
+| C| =\binom{8}{2} .
+| A \cap B| =\binom{3}{2} .
+| A \cap C| =\binom{3}{2} .
+| B \cap C| =\binom{3}{2} .
+| A \cap B \cap C| =0 .
+| A \cup B \cup C| =\binom{8}{2} +\binom{8}{2} +\binom{8}{2} -\binom{3}{2} -\binom{3}{2} -\binom{3}{2} +0 =75 .
+\binom{13}{2} -75 =78 -75 =3 .
+\binom{13}{3}
+\binom{10}{3}
+\binom{4}{1}\binom{10}{3}
+\binom{4}{2}
+\binom{7}{3}
+\binom{4}{2}
+\binom{4}{3}
+\binom{4}{3}
+\binom{13}{3} -[\binom{4}{1}\binom{10}{3} -\binom{4}{2}\binom{7}{3} +\binom{4}{3}\binom{4}{3}]
+286 -[480 -210 +16] =0 .
+\binom{13}{3} =[\binom{4}{1}\binom{10}{3} -\binom{4}{2}\binom{7}{3} +\binom{4}{3}\binom{4}{3}],
+x_1 +x_2 +x_3 +x_4 +x_5 =13,
+x_i \ge 0
+x_i .
+0 \le x_i \le 3
+x_i ?
+\binom{17}{4} .
+x_1 >3 \colon
+\binom{13}{4} .
+x_1
+x_1 >3
+x_2 >3 \colon
+\binom{9}{4} .
+x_1
+x_2,
+x_1 >3,
+x_2 >3
+x_3 >3 \colon
+\binom{5}{4} .
+x_1 >3,
+x_2 >3,
+x_3 >3,
+x_4 >3 \colon
+x_1
+\binom{5}{1}
+x_1
+x_2
+\binom{5}{2}
+0 \le x_i \le 3
+\binom{17}{4} -[\binom{5}{1}\binom{13}{4} -\binom{5}{2}\binom{9}{4} +\binom{5}{3}\binom{5}{4}] =15 .
+n
+\{1, 2, 3, \ldots, n\}
+6
+\{1, 2, 3\} \colon
+123\~132\~213\~231\~312\~321 .
+123
+132
+231\~and\~312 .
+4! =24
+\binom{4}{1}
+3!
+\binom{4}{2}
+2!
+\binom{4}{3}1!
+\binom{4}{4}0!
+0! =1
+4! -[\binom{4}{1}3! -\binom{4}{2}2! +\binom{4}{3}1! -\binom{4}{4}0!] =24 -15 =9 .
+5!
+5! -[\binom{5}{1}4! -\binom{5}{2}3! +\binom{5}{3}2! -\binom{5}{4}1! +\binom{5}{5}0!] .
+f \colon \{1, 2, 3, 4, 5\} \to \{1, 2, 3, 4, 5\} .
+f \colon \{1, 2, 3, 4, 5\} \to \{1, 2, 3, 4, 5\} .
+f(x) \not= x
+x \in \{1, 2, 3, 4, 5\} ?
+5! -[\binom{5}{1}4! -\binom{5}{2}3! +\binom{5}{3}2! -\binom{5}{4}1! +\binom{5}{5}0!] .
+f \colon \{1, 2, 3, 4, 5\} \to \{1, 2, 3, 4, 5\}
+\{1, 2, 3\}
+\{a, b, c, d, e\} ?
+5^3 =125,
+f = \begin{pmatrix} 1 & 2 & 3 \\ a & a & a \end{pmatrix};
+P(5, 3) =60
+5^8 .
+f \colon \{1, 2, 3, 4, 5\} \to \{a, b\}
+2^5
+a
+b .
+b
+a,
+a
+b
+2^5 -2
+f \colon \{1, 2, 3, 4, 5\} \to \{a, b, c\}
+3^5
+a
+b
+c
+2^5
+a
+2^5
+b,
+2^5
+c .
+c
+2^5
+a
+2^5
+b
+a
+b
+c
+a
+c,
+b
+c .
+a,
+b,
+c
+2^5 +2^5 +2^5 -1 -1 -1 +0 .
+\binom{3}{1}2^5 -\binom{3}{2}1^5 +\binom{3}{3}0^5 .
+2^5
+1^5
+1^5
+3^5 -[\binom{3}{1}2^5 -\binom{3}{2}1^5] =150 .
+4
+5
+f \colon \{1, 2, 3, 4, 5\} \to \{a, b, c, d\}
+f \colon \{1, 2, 3, 4, 5\} \to \{a, b, c, d, e\}
+4^5
+3^5
+2^5
+1^5
+\binom{4}{1}
+\binom{4}{2}
+\binom{4}{3}
+\binom{4}{1}3^5 -\binom{4}{2}2^5 +\binom{4}{3}1^5 .
+4^5 -[\binom{4}{1}3^5 -\binom{4}{2}2^5 +\binom{4}{3}1^5] .
+5^5 -[\binom{5}{1}4^5 -\binom{5}{2}3^5 +\binom{5}{3}2^5 -\binom{5}{4}1^5] .
+5^5
+\binom{5}{1}
+4^5
+\binom{5}{2}
+3^5
+\binom{5}{3}
+2^5
+\binom{5}{4}
+5! .
+f \colon X \to Y
+| X| =| Y|
+| X|!
+n^n -[\binom{n}{1}(n -1)^n -\binom{n}{2}(n -2)^n +\cdots +\binom{n}{n -1}1^n] =n! .
+a
+h ?
+8^5
+P(8, 5)
+\{1, 2, \ldots, 5\}
+\{a, b, \ldots, h\} .
+A
+B
+| A| =5
+| B| =8,
+f \colon A \to B
+8^5
+P(8, 5) .
+\{1, 2, \ldots, 9\} ?
+2^9,
+2^9
+f \colon A \to B
+| A| =9
+| B| =2,
+A =\{1, 2, \ldots, 9\}
+B =\{y, n\} .
+\{0, 1\}
+\binom{9}{3}
+P(9, 3) .
+P(9, 3) .
+\{1, 2, 3\}
+\{1, 2, \ldots, 9\}
+f(1) =5f(2) =8f(3) =4 .
+f(1) =4f(2) =5f(3) =8 .
+P(9, 3)
+\binom{9}{3}
+\binom{9}{3}
+x_1 +x_2 +x_3 +x_4 =18 .
+1 \le x_i \le 6
+i \in \{1, 2, 3, 4\} ?;
+\{1, 2, 3, 4, 5, 6\}
+f \colon \{1, 2, 3, 4, 5, 6, 7, 8, 9\} \to \{a, b, c, d, e, f\} .
+f(1) \not= c
+f(2) \not= f,
+A
+B
+| A| =11
+| B| =4 .
+f \colon A \to B
+A =\{1, 2, 3, 4, 5, 6, 7, 8\} .
+f \colon A \to A
+x \in A,
+f(x) \not= x ?
+\binom{n}{k} =\binom{n +k -1}{k} -\sum_{j =1}^n ( -1)^{j +1} \binom{n}{j}\binom{n +k -(2j +1)}{k -2j} .
+\{1, 2, 3, 4\}
+d_n
+n
+d_3 =3! -(\binom{3}{1}2! -\binom{3}{2}1! +\binom{3}{3}0!) .
+\binom{n}{k}
+d_3
+d_3 =3!(1 -\frac{1}{1} +\frac{1}{2} -\frac{1}{6}) .
+d_n .
+n,
+\backslash usepackagecancel
+\backslash usepackagecancel
+n
+5 =1 +4
+10 =4 +6 .
+n
+n
+k
+\binom{n}{k} .
+\binom{6}{3} =20,
+\binom{n}{k}
+n
+k .
+x
+y
+(0, 0)
+(3, 2) \colon
+(0, 0)
+(3, 2) ?
+xxyyx,
+yyxxx,
+xyxxy,
+x
+x
+y .
+xxxyyxxyxyxyxxyyxxxy \\ xxyyxxyxyxyxxyxxyyxxyxyxxyyxxx .
+A
+B .
+A
+x
+x
+A
+x .
+B,
+y
+B
+y .
+6 +4 .
+(0, 0)
+(m, n),
+(m -1, n)
+(m, n -1) .
+(0, 0)
+y
+(0, 0)
+(4, 7) ?
+4 +7 =11 .
+1, 11, 55, 165, 330, 462, 462, 330, 165, 55, 11, 1 .
+\binom{11}{7} =330
+1001011111010101010 .
+n
+n .
+n
+\mathbf B_k^n
+n
+k .
+\mathbf B_2^3
+| \mathbf B_3^5 | .
+11100110101011001110 \\ 110011010101101100110101100111 .
+x
+y
+n
+k
+x
+n
+k
+x
+y
+1
+0
+\mathbf B_3^5
+\mathbf B_3^4,
+\mathbf B_3^5
+\mathbf B_2^4,
+| \mathbf B_3^5 | =| \mathbf B_3^4 | +| \mathbf B_2^4 | .
+\binom{11}{5}
+\binom{11}{5} =462
+A
+A .
+A
+A .
+A =\{1, 2, 3, 4, 5\} .
+A
+\{1, 2, 3\}\{1, 2, 4\}\{1, 3, 4\}\{2, 3, 4\} \\ \{1, 2, 5\}\{1, 3, 5\}\{2, 3, 5\}\{1, 4, 5\}\{2, 4, 5\}\{3, 4, 5\} .
+A
+A .
+n
+n
+n
+\{1, 2, 3, 4, 5, 6\}
+101011\~001000\~111111\~000000
+101011
+\{1, 3, 4, 6\}
+001000
+\{3\}
+111111
+\{1, 2, 3, 4, 5, 6\}
+000000
+\varnothing
+\{\}
+A .
+f \colon X \to Y
+Y
+X .
+k
+n
+n
+k,
+n,
+k
+\binom{n}{k} .
+\{a, b, c, d, e, f, g\}
+\binom{7}{4} =35 .
+\binom{10}{3} =120
+\binom{13}{2} =78 .
+\binom{n}{k}
+n
+k
+k
+n
+k
+k
+k
+n
+n
+k
+x
+n
+k
+k
+n
+n,
+k
+\binom{n}{k},
+n
+k .
+k
+n
+(x +1)^6
+x +1
+1615201561 .
+(x +1)^{10} .
+x^6 ?
+(x +y)^3
+(x +y)(x +y)(x +y) .
+x
+y
+(x +y)^3 = & \lt mi/>(x +y)(\mathbf x +\mathbf y)(\mathscr X +\mathscr Y) \\ = & \lt mi/>[(x +y)(\mathbf x +\mathbf y)]\mathscr X +[(x +y)(\mathbf x +\mathbf y)]\mathscr Y \\ = & \lt mi/>[(x +y)\mathbf x +(x +y)\mathbf y]\mathscr X +[(x +y)\mathbf x +(x +y)\mathbf y]\mathscr Y \\ = & \lt mi/>[x\mathbf x +y\mathbf x +x\mathbf y +y\mathbf y]\mathscr X +[x\mathbf x +y\mathbf x +x\mathbf y +y\mathbf y]\mathscr Y \\ = & x\mathbf x \mathscr X +y\mathbf x \mathscr X +x\mathbf y \mathscr X +y\mathbf y \mathscr X +x\mathbf x \mathscr Y +y\mathbf x \mathscr Y +x\mathbf y \mathscr Y +y\mathbf y \mathscr Y .
+x
+y
+x\mathbf y \mathscr X
+x
+\mathbf y
+\mathscr X
+x^2 y
+x
+y
+x^2 y
+x
+y,
+\binom{3}{2} =3
+x^2 y .
+(x +y)^n
+n .
+n
+(x +y)^n .
+n,
+(x +y)^n =\binom{n}{0}x^n +\binom{n}{1}x^{n -1} y +\cdots +\binom{n}{n -1}xy^{n -1} +\binom{n}{n}y^n .,
+x^k y^{n -k}
+\binom{n}{k} .
+(x +y)^5 .
+1, 5, 10, 10, 5, 1 .
+(x +y)^5 =x^5 +5x^4 y +10x^3 y^2 +10x^2 y^3 +5xy^4 +y^5 .
+(0, 0)
+(3, 5)
+8
+\binom{11}{5} ?
+\{1, 2, \ldots, 11\}
+(0, 0)
+(11, 5) ?
+\{1, 2, \ldots, 8\}
+\{1, 2, \ldots, 7\}
+2
+3 .
+\binom{7}{2}
+\binom{7}{3}
+\binom{8}{3}
+\binom{10}{5}
+\binom{8}{7}
+\binom{13}{2}
+\binom{2}{0} +\binom{2}{1} +\binom{2}{2} .
+\binom{3}{0} +\binom{3}{1} +\binom{3}{2} +\binom{3}{3} .
+\binom{4}{0} +\binom{4}{1} +\binom{4}{2} +\binom{4}{3} +\binom{4}{4} .
+(a, b)
+(c, d) ?
+\binom{n}{k},
+n
+k
+100110010 .
+\mathbf B_3^8
+\{1, 2, 3, 4, 5, 6, 7, 8\}
+x^9
+(x +3)^{17} ?
+x^8
+(x +2)^{17} +x^4 (x +3)^{18} ?
+(0, 0)
+(8, 3) .
+(0, 0)
+(3, 8) ?
+(0, 0)
+(4, 3) .
+\binom{4 +3}{4} =\binom{7}{6} =35 .
+y
+(0, 0)
+(4, 3)
+y
+(0, 1)
+(0, 0)
+(4, 3)
+x
+y
+(1, 0)
+(1, 1)
+x^5 y^3
+x^3 y^5
+(x +y)^8 ?
+(x +y)^5 .
+(x +y)^5 .
+(x +y)^5,
+(x +y)^5 \cdot (x +y) .
+(x +y)^6 ?
+\backslash usepackagecancel
+\backslash usepackagecancel
+\backslash usepackagecancel
+1 \times 1
+1 \times 2
+1 \times 15
+1 \times 3
+1 \times 4
+1 \times 5
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, \ldots .
+1, 1, 2, 3, 5, 8, 13, 21, 34, \ldots,
+F_n =F_{n -1} +F_{n -2} .
+n
+1, 2, 4, 8, 16, 32, 64, 128, 256, 512, \ldots
+1, 2, 4, 8, 16, 32, 64, 128, 256, \ldots .
+a_n =2a_{n -1} =a_{n -1} +a_{n -1} .
+a_n =5a_{n -1} -6a_{n -2} .
+n
+a_0 =1,
+a_1 =2 ?
+a_n =
+a_0 =1,
+a_1 =3 ?
+a_n =
+a_0 =2,
+a_1 =5 ?
+a_n =
+1, 1 +2, 1 +2 +4, 1 +2 +4 +8, \ldots
+1, 3, 7, 15, 31, 63, \ldots
+2, 4, 8, 16, 32, 64, \ldots,
+2^{n +1} -1 .
+2^{11} -1 =2047 .
+3 +6 +12 +24 +\cdots +12288 ?
+2S =6 +12 +24 +\cdots +24576 .
+2S -S = -3 +24576 =24573 .
+2S -S =S,
+S =
+3 +
+6 +12 +24 +\cdots +12288
+-2S =
+6 +12 +24 +\cdots +12288
++24576
+-S =
+3 +
+0 +0 +0 +\cdots +0
+-24576
+-1
+S .
+S(n) =2 +10 +50 +\cdots +2 \cdot 5^n .
+S
+=2 +10 +50 +\cdots +2 \cdot 5^n
+-5S
+=10 +50 +\cdots +2 \cdot 5^n +2 \cdot 5^{n +1}
+-4S
+=2 -2 \cdot 5^{n +1}
+S =\frac{2 -2 \cdot 5^{n +1}}{ -4}
+0.464646\ldots
+N =0.46464646\ldots .
+0.01N .
+N =
+0.4646464\ldots
+-0.01N =
+0.00464646\ldots
+0.99N =
+0.46
+N =\frac{46}{99} .
+0.464646\ldots
+0.46, 0.0046, 0.000046, \ldots
+0.01 .
+a_n
+a_n -a_{n -1} =b_n,
+b_n
+a_n =a_{n -1} +6a_{n -2} .
+n
+a_n -a_{n -1} -6a_{n -2} =0 .
+a_2 & \lt mi/> =a_1 +6a_0 \\ a_3 & \lt mi/> =a_2 +6a_1 =a_1 +6a_0 +6a_1 \\ a_4 & \lt mi/> =a_3 +6a_2 =a_1 +6a_0 +6a_1 +6^2 a_0 +6^2 a_1
+6
+r^n
+r .
+r^n
+r^n -r^{n -1} -6r^{n -2} =0 .
+r \colon
+r^{n -2} (r^2 -r -6) =0,
+r = -2
+r =3
+r =0,
+a_n =( -2)^n
+a_n =3^n .
+a_n =( -2)^n +3^n .
+a_n =7( -2)^n +4 \cdot 3^n .
+a
+b,
+a_n =a( -2)^n +b3^n
+a
+b,
+r^{n -2}
+a_n +\alpha a_{n -1} +\beta a_{n -2} =0,
+x^2 +\alpha x +\beta
+x^2 +\alpha x +\beta =0 .
+r_1
+r_2
+a_n =ar_1^n +br_2^n,
+a
+b
+a_n =7a_{n -1} -10a_{n -2}
+a_0 =2
+a_1 =3 .
+a_n -7a_{n -1} +10a_{n -2} =0 .
+x^2 -7x +10 =0
+x \colon
+(x -2)(x -5) =0
+x =2
+x =5
+a_n =a2^n +b5^n .
+a
+b,
+n =0
+n =1
+2 & \lt mi/> =a2^0 +b5^0 =a +b \\ 3 & \lt mi/> =a2^1 +b5^1 =2a +5b
+a =\frac{7}{3}
+b = -\frac{1}{3}
+a_n =\frac{7}{3}2^n -\frac{1}{3}5^n .
+F_n =F_{n -1} +F_{n -2},
+F_0 =0
+F_1 =1
+\varphi,
+(x -r)^2 .
+r^n
+a_n =ar_1^n +br_2^n,
+r_1^n
+r_2^n .
+a_n =\alpha a_{n -1} +\beta a_{n -2}
+r .
+a_n =ar^n +bnr^n
+a
+b
+n
+bnr^n .
+a
+b
+a_n =6a_{n -1} -9a_{n -2}
+a_0 =1
+a_1 =4 .
+x^2 -6x +9 .
+x^2 -6x +9 =0
+(x -3)^2 =0
+x =3
+a_n =a3^n +bn3^n
+a
+b .
+a_0 =1 & \lt mi/> =a3^0 +b \cdot 0 \cdot 3^0 =a \\ a_1 =4 & \lt mi/> =a \cdot 3 +b \cdot 1 \cdot 3 =3a +3b .
+a =1,
+b =\frac{1}{3} .
+a_n =3^n +\frac{1}{3}n3^n .
+a_n =2a_{n -1} +a_{n -2} -3a_{n -3}
+x^3 -2x^2 -x +3 .
+a_n =ar_1^n +br_2^n +cr_3^n
+a_n
+a_j
+a_n =2a_{n -1} +1
+x^2 -3x -1 =0
+a_n =3a_{n -1} +a_{n -2}
+a_n =\frac{1}{3} \cdot 2^n +\frac{2}{3}( -1)^n
+a_n =a_{n -1} +3a_{n -2} +5
+a_n =a_{n -1} +2a_{n -2} +3a_{n -3}
+3 +6 +12 +\cdots +3 \cdot 2^{18} .
+1 -\frac{3}{5} +\frac{9}{25} -\cdots +( -1)^{27} \frac{3^{27}}{5^{27}} .
+a_n =a_{n -1} +2^n
+a_0 =3 .
+a_n = -3a_{n -1} +10a_{n -2}
+a_0 =2
+a_1 = -3 .
+a_n =
+a_n =a_{n -1} +12a_{n -2}
+a_0 =2
+a_1 =1 .
+a_n =
+b_n =b_{n -1} +12b_{n -2}
+b_0 =5
+b_1 =10 .
+b_n =
+a_n =a_{n -1} +6a_{n -2}
+a_0 =1
+a_1 =16 .
+a_n =
+(a_n)_{n \ge 0}
+3, 5, 11, 21, 43, 85\ldots .
+2, 5, 12, 29, 70, 169, 408, \ldots
+a_0 =2
+4^n
+a_n =3a_{n -1} +4a_{n -2} .
+r^n
+q^n
+a_n =\alpha a_{n -1} +\beta a_{n -2} .
+c \cdot r^n +d \cdot q^n
+c, d .
+a_n
+1 \times n
+1 \times 1
+1 \times 2
+a_1, a_2, \ldots .
+a_n .
+1 \times 1
+1 \times 2
+1 \times n
+a_n
+n .
+a_n =2a_{n -1} -a_{n -2} .
+a_0 =1
+a_1 =2 ?
+a_9 =30 ?
+x
+a_9 =x ?
+a_n =4a_{n -1} -4a_{n -2} .
+a_0 =1
+a_1 =2 .
+a_0 =1
+a_1 =8 .
+4^7 -3^7 .
+\backslash usepackagecancel
+T
+T
+T
+T
+u
+v
+T
+u
+v \colon
+T
+u
+v,
+u'
+v,
+u'
+v' .
+u'
+v' .
+T
+T
+T
+T
+T
+T
+T
+u
+v
+T .
+u
+v
+u
+v,
+F
+F
+T
+P
+T
+u
+v
+T
+u .
+u
+P,
+u' .
+u' ?
+P,
+u
+u' \colon
+P
+u'
+u'
+P,
+u'
+v
+P,
+u
+v
+v
+v -1
+T
+v
+e
+e =v -1 .
+v \ge 1 .
+v =1,
+0
+e =v -1 .
+v =2
+e =1 =v -1
+v =3
+v =4,
+v
+v -1
+T
+v
+T .
+T,
+v \ge 2 .
+T
+v_0 .
+T'
+v_0
+T
+T'
+T'
+T
+T'
+v -1
+T
+T' \colon
+T'
+v -2
+T
+T',
+v -1
+T
+G,
+G .
+G,
+G
+G
+G .
+G .
+G
+e
+G_1 =G -e
+e
+e
+G_1
+G_2
+G_1 -e_1,
+e_1
+G_1 .
+G
+v
+u
+u
+v
+u
+v .
+u
+v
+f
+e,
+h,
+i
+f,
+a
+c,
+f .
+g
+f,
+f .
+g
+d
+e .
+a
+c,
+e .
+f
+e
+f
+a,
+f
+g
+A
+B
+A .
+B .
+A
+B
+A
+B
+B
+A .
+A .
+B .
+A,
+B,
+T
+T ?
+T
+T
+T
+T,
+G =(V, E)
+V =\{a, b, c, d, e\}
+E =\{\{a, b\}, \{a, e\}, \{b, c\}, \{c, d\}, \{d, e\}\}
+G =(V, E)
+V =\{a, b, c, d, e\}
+E =\{\{a, b\}, \{b, c\}, \{c, d\}, \{d, e\}\}
+G =(V, E)
+V =\{a, b, c, d, e\}
+E =\{\{a, b\}, \{a, c\}, \{a, d\}, \{a, e\}\}
+G =(V, E)
+V =\{a, b, c, d, e\}
+E =\{\{a, b\}, \{a, c\}, \{d, e\}\}
+(4, 1, 1, 1, 1)
+(3, 3, 2, 1, 1)
+(2, 2, 2, 1, 1)
+(4, 4, 3, 3, 3, 2, 2, 1, 1, 1, 1, 1, 1, 1)
+(3, 3, 2, 2, 2)
+(3, 2, 2, 1, 1, 1)
+(3, 3, 3, 1, 1, 1)
+(4, 4, 1, 1, 1, 1, 1, 1)
+v
+e
+v =e +1 .
+v
+e
+v >e +1
+G
+v
+e
+v \lt e +1,
+F
+m
+v
+F
+G
+v
+e
+v \lt e +1
+e
+e
+e
+e
+e
+b
+a,
+c,
+d
+b
+a
+T
+u,
+v,
+w
+w
+u
+v,
+u
+v
+v
+u .
+G
+\backslash usepackagecancel
+n
+A
+A =\{3, 5, 7\}
+A =\{x \in \mathbb N \colon x \lt 10\} .
+A
+\mathbb N
+\mathbb N =\{0, 1, 2, 3, \ldots \}
+\in
+\colon
+\{1, 2, 3, 4\} .
+\{1, 2, 1 +1, 1 +2, 2 +2\} .
+\{2, 4, 1, 3\} .
+\{x \in \mathbb N \colon x \lt 5\~and\~x \ge 1\} .
+f \colon X \to Y
+f,
+X
+Y .
+f
+f(x) =x^2
+f \colon \{1, 2, 3\} \to \{2, 4, 6\}
+f(x) =2x .
+(1, 2),
+(2, 4),
+(3, 6)
+\{(1, 2), (2, 4), (3, 6)\} .
+f(n) =3n +1
+f(5)
+f(n) =2 \cdot f(n -1) .
+f(0) =3,
+f(1) =2 \cdot 3 =6,
+f(2) =2 \cdot 6 =12,
+f(5)
+f(4),
+f(3),
+f(2) .
+(1, 2, 3);
+(7, 3)
+n
+n
+(1, 2, 3)
+\{1, 2, 3\}
+(1, 2, 3)
+(2, 3, 1),
+\{1, 2, 3\}
+\{2, 3, 1\} .
+n
+(4, 8, 12, \ldots) .
+a_0, a_1, a_2, \ldots
+(a_n)_{n \ge 0}
+(a_n)_{n \in \mathbb N} .
+\{1, 2, 3, 4\}
+(f_n)_{n \ge 1},
+1, 1, 2, 3, 5, 8, \ldots .
+f_4 =3
+n
+n .
+f(4) =3,
+n
+a_n
+n
+a_n =\frac{n(n +1)}{2} .
+f_n =f_{n -1} +f_{n -2}; f_1 =1, f_2 =1 .
+2
+6
+2 \lt 6 .
+6
+2 .
+(3, 4, 5),
+(4, 5, 6)
+3^2 +4^2 =5^2
+4^2 +5^2 \not= 6^2
+(a, b)
+a \lt b .
+a
+b
+a \lt b
+b \lt a .
+a \lt b
+b \lt c
+a \lt c .
+V =\{1, 2, 3, 4, 5, 6\} .
+\{1, 6\}
+\{2, 5\}
+\{3, 4\} .
+a
+b,
+b
+a
+(1, 0)
+(1, 1) .
+\backslash usepackagecancel
+P
+Q
+P, Q, R, S .
+T,
+S,
+P
+P
+Q
+P(x)
+x
+x
+\forall x( \lnot E(x) \wedge \lnot O(x)),
+\sqrt{2}
+a
+b
+c^2
+\log (7) =\frac{a}{b},
+7 =10^{\frac{a}{b}} .
+x
+A \subseteq B
+A \cup B =B,
+A \subseteq B,
+A \cup B =B .
+A \cup B =B,
+A \subseteq B .
+P_n
+n
+n +1
+K_{5, 5}
+K_{1, 9},
+C_4
+C_5
+n ?
+N
+a
+b,
+b
+a .
+n
+n .
+e
+b
+a,
+c,
+d
+b
+a
+v,
+K_5
+C_n
+v =e .
+6 =2 \cdot 3 .
+1 =2^0 \cdot 3^0,
+2 =2^1 \cdot 3^0,
+3 =2^0 \cdot 3^1
+6 =2^1 \cdot 3^1 .
+790/(8 \cdot 9)
+x
+y
+2^n
+K_n
+j =1
+2 \times 1
+2 \times 2
+\frac{a_n}{a_{n -1}} =r .
+n
+T_n =\frac{n(n +1)}{2},
+\frac{2}{n(n +1)} .
+\frac{2}{3} -\frac{2}{4},
+\frac{2}{4} -\frac{2}{5} ?
+n
+n \ge 12 ?
+(k +1)
+k
+a_k
+a_k \lt 100 .
+a_{k +1}
+a_k \lt a_{k +1} \lt 100 .
+a_{k +1}
+(k +1)^2 +(k +1)
+k^2 +k .
+k +1
+k +1
+k
+k
+1 =2^0
+\binom{n}{k} =\binom{n -1}{k -1} +\binom{n -1}{k}
+(f_1 f_2 f_3 \cdots f_k f_{k +1})' =(f_1 f_2 f_3 \cdots f_k)'f_{k +1} +(f_1 f_2 f_3 \cdots f_k)f_{k +1}^' .
+n -2
+P_1 \to P_{n -1} .
+(k +1)
+n
+n .
+(x^k +\frac{1}{x^k})(x +\frac{1}{x})
+P(n)
+P(n -3)
+(n +1)^{n +1} >(n +1) \cdot n^n .
+4^{k +1} -1 =4 \cdot 4^k -4 +3 .
+2^2 =4 .
+(2n)^2
+(2n +2)^2 =(2n)^2 +4n +4 .
+4n +4
+(2n)^2 .
+(\frac{n(n +1)}{2})^2 +(n +1)^3
+(\frac{(n +1)(n +2)}{2})^2 .
+P(0)
+P(1) .
+P(k)
+k \lt n .
+a_{n -1} =1
+a_{n -2} =1 .
+A
+B,
+C .
+A_2 \cup A_3
+A_5 ?
+A
+| A| .
+f = \begin{pmatrix} 1 & 2 & 3 \\ a & a & b \end{pmatrix}
+g = \begin{pmatrix} a & b & c \\ 5 & 6 & 7 \end{pmatrix} ?
+n +1
+13x +20y =2
+k
+\backslash usepackagecancel
+12 +26 =38
+A
+B
+A,
+B,
+A
+B,
+A \cup B .
+A
+B
+A \cap B .
+A
+B
+\varnothing .
+X
+| X| .
+A
+B,
+A \cap B =\varnothing,
+| A \cup B| =| A| +| B| .
+| A \cup B|
+| A| =10
+| B| =8 .
+| A \cup B|
+B
+A .
+| A \cap B| =6 .
+A,
+B
+B,
+A
+B
+A \cap B,
+A
+B
+| A \setminus B| =4
+B
+A
+| B \setminus A| =2
+A \cup B .
+6 +4 +2 =12 .
+7
+4
+11
+00,
+A
+7
+4
+11 .
+| A| =\binom{5}{2} =10 .
+B
+7
+4
+00 .
+| B| =\binom{5}{4} =5 .
+| A \cup B| =10 +5 =15,
+11
+00 .
+11
+00 .
+A
+B .
+| A \cap B| =\binom{3}{2} =3
+A
+B
+A .
+B
+A
+B .
+A \cup B
+| | A \cup B| =7 +3 +2 =12 .
+A,
+B
+C .
+A \cap B \cap C .
+A \cap B
+A
+B
+C
+(A \cap C) \setminus B,
+(B \cap C) \setminus A \colon
+A
+A
+B
+C
+B
+C
+A,
+12 +5 +8 -2 -6 -3 +1 =15 .
+| A| =10,
+| B| =8
+| A \cap B| =6 .
+| A \cup B| =12,
+4 +6 +2 .
+A
+B
+| A \cup B|
+| A| +| B| =10 +8 =18 .
+| A \cap B| .
+| A \cup B| =| A| +| B| -| A \cap B| .
+A
+B,
+A
+B,
+| A \cup B| =| A| +| B| -| A \cap B| .
+7
+4
+11
+00,
+| A| =\binom{5}{2} =10,
+| B| =\binom{5}{4} =5,
+| A \cap B| =\binom{3}{2} =3 .
+| A \cup B| =10 +5 -3 =12 .
+11
+00
+11
+00,
+A,
+B,
+C,
+| A \cup B \cup C| = & | A| +| B| +| C| \\ - & | A \cap B| -| A \cap C| -| B \cap C| \\ + & | A \cap B \cap C| .
+A,
+B,
+C
+A
+B
+A
+C
+B
+C,
+A \cap B \cap C
+\{1, 2, \ldots, 50\}
+\{1, 2, \ldots, 50\},
+A
+B
+C
+| A| =25,
+| B| =16,
+| C| =10 .
+50/3 =16.66,
+6, 12, 18, \ldots
+| A \cap B| =8
+| A \cap C| =5
+| B \cap C| =3
+| A \cap B \cap C| =1
+| A \cup B \cup C| =25 +16 +10 -8 -5 -3 +1 =36 .
+21 .
+B,
+A
+C,
+3
+2,
+3,
+5 .
+18
+A
+B,
+A \cap B .
+2,
+3,
+6 .
+30 ?
+2,
+3,
+5 .
+| A \cup B \cup C \cup D| = & | A| +| B| +| C| +| D| \\ - & | A \cap B| -| A \cap C| -| A \cap D| -| B \cap C| -| B \cap D| -| C \cap D| \\ + & | A \cap B \cap C| +| A \cap B \cap D| +| A \cap C \cap D| +| B \cap C \cap D| \\ - & | A \cap B \cap C \cap D| .
+A
+B
+C
+26^3 =17,576
+A
+B
+A
+A
+B
+C
+26 \cdot 25 \cdot 24 =15,600 .
+B
+A .
+A
+B
+C
+A .
+B ?
+w
+\{w, x, y, z\}
+4
+B .
+a
+B
+26
+\binom{26}{3} .
+A
+B
+| A| =11
+| B| =19 .
+| A \cap B| ?
+| A \cap B| ?
+| A \cup B| ?
+\le | A \cup B| \le
+| A| =7
+| B| =11,
+| A \cup B| +| A \cap B| ?
+14
+011
+01
+011
+01
+n \in \{1, 2, \ldots, 790\}
+n
+790/(8 \cdot 9)
+n =7
+n =5
+\{a, b, c, d, e\}
+A,
+B,
+C
+| (A \cup C) \setminus B|
+| A| =50,
+| B| =45,
+| C| =40,
+| A \cap B| =20,
+| A \cap C| =15,
+| B \cap C| =23,
+| A \cap B \cap C| =12 .
+A,
+B,
+C
+343
+3 +4 +3 =10
+\backslash usepackagecancel
+a^2 +b^2 =c^2 .
+\forall a, b, c \in \mathbb R (a^2 +b^2 =c^2) .
+1^2 +5^2 =2^2 ???
+a
+b
+c
+a
+b
+c,
+a^2 +b^2 =c^2 .
+P \to Q
+P
+Q
+P
+Q
+P
+Q
+P \to Q
+P
+Q
+P
+Q
+P \to Q
+P \to Q
+5 \lt 3
+5 +3 =8 .
+5 \lt 3
+5 +3 =8
+x \ge 10,
+x^2 \ge 25 .
+x
+x
+x
+15,
+15^2 =225 .
+x
+3,
+x
+6,
+x,
+x \ge 10
+x^2 \ge 25
+x
+P
+Q
+P
+P \to Q
+Q
+P \to Q .
+P \to Q
+P
+Q
+P \to Q
+P
+Q
+P
+Q
+x \lt y,
+x +1 \lt y +1,
+x
+y,
+1 \lt 2,
+1 =1,
+0 =1,
+1 =1 .
+\pi
+\pi
+2 +2 =4 .
+\pi
+P \to Q .
+P
+Q
+P
+Q
+P
+Q
+P \to Q,
+Q \to P .
+\lnot Q \to \lnot P .
+\lnot P \to \lnot Q .
+\forall x(P(x) \to Q(x))
+\forall x(Q(x) \to P(x))
+\forall x( \lnot Q(x) \to \lnot P(x))
+\forall x( \lnot P(x) \to \lnot Q(x))
+\exists x(P(x) \to Q(x)),
+x
+P(x)
+a^2 +b^2 =c^2,
+a
+b
+c .
+a
+b
+c
+a^2 +b^2 =c^2 .
+P \to Q
+P
+Q
+P
+Q
+P \to Q
+P,
+Q
+A,
+P \to Q
+\lnot P \to \lnot Q,
+P
+Q
+P \to Q
+\lnot Q \to \lnot P
+P \to Q .
+P \to Q
+\lnot Q \to \lnot P
+P \to Q
+Q \to P
+P
+Q
+P \leftrightarrow Q .
+(P \to Q)
+P \leftarrow Q,
+Q \to P
+P \to Q
+P
+Q
+P \to Q
+Q \to P .
+P \to Q .
+P
+Q
+Q \to P .
+P
+Q
+P \to Q .
+P
+Q,
+P \leftrightarrow Q .
+\forall x(E(x) \to E(x +2)) .
+\forall x \exists y(\sin (x) =y) .
+\forall y \exists x(\sin (x) =y) .
+\forall x \forall y(x^3 =y^3 \to x =y) .
+c,
+c,
+f(x) =| x|
+n,
+n
+n
+n,
+P
+S
+\backslash usepackagecancel
+26 \cdot 26 \cdot 26 =26^3
+abc, acb, bac, bca, cab, cba .
+3 \cdot 2 \cdot 1 .
+6 \cdot 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1 =720
+n!,
+n
+n
+6! =6 \cdot 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1 .
+n
+n! =n \cdot (n -1) \cdot (n -2) \cdot \cdots \cdot 2 \cdot 1
+n
+f \colon \{1, 2, \ldots, 8\} \to \{1, 2, \ldots, 8\}
+f = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\ 3 & 1 & 5 & 8 & 7 & 6 & 2 & 4 \end{pmatrix} .
+8! =8 \cdot 7 \cdot \cdots \cdot 1 =40320 .
+7 \cdot 6 \cdot 5 \cdot 4 =840 .
+7!
+7!
+\frac{7!}{3!} =\frac{7 \cdot 6 \cdot 5 \cdot 4 \cdot \overwrite{3}{\senwline} \cdot \overwrite{2}{\senwline} \cdot \overwrite{1}{\senwline}}{\overwrite{3}{\senwline} \cdot \overwrite{2}{\senwline} \cdot \overwrite{1}{\senwline}} =7 \cdot 6 \cdot 5 \cdot 4 .
+k
+n
+k =4,
+n =7 .
+P(n, k)
+k
+n
+P(n, k)
+k
+n
+P(10, 4) =10 \cdot 9 \cdot 8 \cdot 7 .
+P(10, 4)
+10!,
+P(10, 4) =\frac{10 \cdot 9 \cdot 8 \cdot 7 \cdot 6 \cdot 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1}{6 \cdot 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1} =\frac{10!}{6!} .
+4!
+(10 -4)! .
+k
+n
+P(n, k)
+k
+n
+k
+n
+k
+n
+P(n, k) =\frac{n!}{(n -k)!} =n(n -1)(n -2)\cdots (n -(k -1)) .
+n =k,
+P(n, n) =\frac{n!}{(n -n)!} =n!
+0!
+n!
+n
+f \colon \{1, 2, 3\} \to \{1, 2, 3, 4, 5, 6, 7, 8\}
+8 \cdot 7 \cdot 6 =P(8, 3) .
+f \colon A \to B,
+| A| =k
+| B| =n,
+P(n, k) .
+\binom{12}{5}
+5 \cdot 4 \cdot 3 \cdot 2 \cdot 1 =5!
+\binom{12}{5} \cdot 5! =792 \cdot 120 =95,040 .
+P(12, 5) =12 \cdot 11 \cdot 10 \cdot 9 \cdot 8 =95,040 .
+k
+n
+k
+k
+k!
+k
+n ?
+n
+k
+\binom{n}{k}
+P(n, k) \colon
+P(n, k) =\binom{n}{k} \cdot k! .
+P(n, k)
+\frac{n!}{(n -k)!} =\binom{n}{k} \cdot k! .
+k!
+\binom{n}{k} .
+\binom{n}{k}
+\binom{n}{k} =\frac{n!}{(n -k)!k!} =\frac{n(n -1)(n -2)\cdots (n -(k -1))}{k(k -1)(k -2)\cdots 1} .
+\binom{n}{k}
+\binom{n}{k}
+k
+n
+C(n, k)
+\binom{n}{k} .
+k!
+\binom{n}{k} .
+k!
+\binom{n}{k}
+k
+k
+\binom{14}{6}
+\frac{14!}{8! \cdot 6!} =3003 .
+P(14, 6),
+\frac{14!}{8!} =2162160 .
+P(14, 6)
+\binom{14}{6} .
+\binom{14}{6}
+P(14, 6)
+P(14, 6)
+6!
+3003 \cdot 6!
+2162160 .
+14 \cdot 13 \cdot 12 \cdot 11 \cdot 10 \cdot 9 .
+2162160 =P(14, 6)
+6!
+\frac{14 \cdot 13 \cdot 12 \cdot 11 \cdot 10 \cdot 9}{6!} .
+\frac{14!}{8! \cdot 6!} .
+26, 5, 42, 17, 33 .
+5, 17, 26, 33, 47,
+C(52, 5) =\binom{52}{5} .
+P(52, 5) .
+C(26, 3) =\binom{26}{3} .
+P(26, 3) .
+n
+k
+n
+k
+1100, 1010, 1001, 0110, 0101, 0011 .
+n
+k
+\binom{n}{k}
+k
+n
+P(n, k) =\binom{n}{k} \cdot k!
+\binom{n}{k} =\frac{P(n, k)}{k!} .
+24 \div 6 =4,
+a, b, c, d .
+P(4, 3) =4 \cdot 3 \cdot 2 =24 .
+abc
+acb
+bac
+bca
+cab
+cba
+abd
+adb
+bad
+bda
+dab
+dba
+acd
+adc
+cad
+cda
+dac
+dca
+bcd
+bdc
+cbd
+cdb
+dbc
+dcb
+a, b, c
+3! =6 .
+a, b, d
+24 \div 6 =4
+\binom{4}{3} =4 .
+P(10, 5) =10 \cdot 9 \cdot 8 \cdot 7 \cdot 6 =30,240 .
+\frac{P(10, 5)}{2} =\frac{10 \cdot 9 \cdot 8 \cdot 7 \cdot 6}{2} =15,120 .
+A
+B
+| A| =14
+| B| =21 .
+f \colon A \to B
+f \colon A \to B
+f \colon \{1, 2, 3, 4, 5, 6\} \to \{1, 2, 3, 4, 5, 6, 7\} .
+a \lt b
+f(a) \lt f(b),
+x
+y
+P(n, k)
+\frac{n!}{(n -k)!} .
+P(12, 5) .
+12!
+7!
+12!
+7!
+P(12, 5)
+P(n, k) =\frac{n!}{(n -k)!}
+n
+k .
+\backslash usepackagecancel
+P(k +1)
+P(k)
+P(k -1)
+P(k -2)
+2^n
+a_n =5a_{n -1} -6a_{n -2}
+a_0 =1
+a_1 =2 .
+P(n)
+a_n =2^n .
+n \ge 0 .
+a_0 =2^0 =1
+a_1 =2^1 =2
+k \ge 2
+P(k)
+P(k -1)
+a_k =2^k
+a_{k -1} =2^{k -1} .
+P(k +1)
+a_{k +1} .
+a_{k +1} = & 5a_k -6a_{k -1} \\ = & 5 \cdot 2^k -6 \cdot 2^{k -1} \\ = & 10 \cdot 2^{k -1} -6 \cdot 2^{k -1} \\ = & 4 \cdot 2^{k -1} \\ = & 2^{k +1} .
+P(n)
+n \ge 0 .
+P(j)
+j
+k +1 .
+n
+n
+1 \times 3
+1 \times 4
+2 \times 2
+1 \times 2
+2 \times 2
+6
+1 \times 6
+2 \times 3
+1 \times 3
+1 \times 2
+2 \times 2
+1 \times 2
+2 \times 2
+n
+n ?
+n
+a
+b
+a
+b
+a
+b
+a +b ?
+a
+b
+n
+a +b =
+12 +8 =20
+P(n)
+P(0)
+P(j)
+j \le k .
+P(k +1)
+P(n)
+n >0 .
+P(0)
+P(k)
+k \lt 0 .
+P(0)
+n
+n -1
+P(n)
+n -1
+n
+P(2) .
+1 \times 2
+2 -1 =1
+k \ge 2
+P(j)
+j \le k .
+(k +1)
+a
+b
+a
+b
+a +b =k +1 .
+a \le k
+b \le k,
+P(a)
+P(b)
+a
+a -1
+b
+b -1
+a -1
+b -1
+1 +a -1 +b -1 =a +b -1 =k +1 -1 =k
+P(k +1)
+P(n)
+n \ge 2 .
+n,
+n
+P(n)
+n
+P(n)
+n \ge 2 .
+P(2)
+2
+P(j)
+j \le k .
+P(k +1)
+k +1
+k +1
+k +1
+k +1 =m_1 \cdot m_2,
+m_1
+m_2
+k +1
+m_1
+m_2
+m_1 \cdot m_2 =k +1
+P(n)
+n \ge 2 .
+P(k +1)
+P(j)
+j \le k .
+P(n)
+n \ge 0 .
+P(j)
+j \le k,
+k \ge 0,
+P(k +1)
+P(k -2)
+P(k +1)
+k \ge 0 .
+P(k +1)
+k \ge 0,
+P(j)
+j \le k .
+(P(0) \wedge P(1) \wedge \cdots \wedge P(k))
+P(k +1)
+k \ge 0 .
+P(k +1)
+P(j)
+j \le k .
+n
+n
+n -1
+P(j)
+j \le k
+k \ge 1 .
+a
+b
+k,
+a -1
+b -1
+P(n)
+n
+n
+n -1
+k +1
+P(n)
+n \ge 1 .
+P(1)
+a
+b .
+a -1 +b -1 +1 =a +b -1,
+k +1 -1 =k .
+n
+(n -2) \cdot 180\circ .
+n
+n
+180\circ .
+(k +1)
+n
+n .
+v
+e
+v =e +1 .
+x
+x +\frac{1}{x}
+x^n +\frac{1}{x^n}
+n .
+(x^k +\frac{1}{x^k})(x +\frac{1}{x})
+F_n^2 +F_{n +1}^2 =F_{2n +1} .
+F_m F_n +F_{m +1} F_{n +1} =F_{m +n +1},
+m =n
+m \ge 0
+n \ge 0
+(m, n),
+P(m, n)
+F_m F_n +F_{m +1} F_{n +1} =F_{m +n +1}
+m =0
+P(0, n)
+n \ge 0 .
+n
+P(m, n)
+m \ge 0 .
+P(m, n)
+m, n \ge 0 .
+P(2, 3)
+n
+n \ge 6 .
+P(n)
+P(n -3)
+\backslash usepackagecancel
+P(15)
+17 \cdot 15 +1
+\exists xP(x)
+x
+\forall xP(x)
+P(x)
+\forall xP(x)
+P(4)
+P(15)
+18 \cdot 15 +1
+\forall xP(x)
+\exists xP(x)
+P(x)
+\exists xP(x)
+P(1)
+P \wedge Q .
+P \to \lnot Q .
+\lnot \exists x(E(x) \wedge O(x)) .
+\forall x(E(x) \to O(x +1)) .
+\exists x(P(x) \wedge E(x))
+P(x)
+x
+\forall x \forall y \exists z(x \lt z \lt y \vee y \lt z \lt x) .
+\forall x \lnot \exists y(x \lt y \lt x +1) .
+P \to Q
+Q
+P
+x
+y
+\sin (x) =y .
+x
+y
+x
+\sin (x) =y .
+y
+c,
+c .
+c
+c .
+c,
+c .
+c
+c .
+P
+Q
+P \wedge Q
+P \vee Q
+(P \wedge Q) \to (P \vee Q))
+P
+Q
+\lnot Q
+Q \to P
+\lnot Q \vee (Q \to P))
+P
+Q
+P
+Q
+R
+\lnot P
+Q \to R
+\lnot P \wedge (Q \to R)
+P
+Q
+R
+P \to (Q \vee R)
+(P \to Q) \vee (P \to R)
+P
+Q
+P \to Q
+\lnot Q
+\lnot P
+P
+Q
+R
+P \to (Q \vee R)
+\lnot (P \to Q)
+P
+Q
+R
+(P \wedge Q) \to R
+\lnot P \vee \lnot Q
+\lnot R
+P
+Q
+R
+P \to Q
+P \wedge \lnot Q
+P \colon
+Q \colon
+(P \vee Q) \to Q
+P \wedge Q .
+( \lnot P \vee \lnot R) \to (Q \vee \lnot R)
+(P \wedge Q) \vee (Q \vee \lnot R) .
+(P \wedge Q) \wedge (R \wedge \lnot R) .
+P \wedge \lnot P .
+\forall x \exists y(O(x) \wedge \lnot E(y)) .
+\exists x \forall y(x \ge y \vee \forall z(x \ge z \wedge y \ge z)) .
+n
+n .
+n
+\forall xP(x)
+P(n)
+n
+\forall xP(x)
+P(n)
+n
+\forall xP(x)
+P(n)
+n
+P(n)
+P(n)
+P(n)
+\forall xP(x)
+a
+b,
+a
+b
+a +b
+a
+b,
+a
+b
+a +b
+a
+b
+a +b
+a
+b
+a =3
+b =5 .
+a +b =8,
+a
+b
+a
+b
+a =2k
+b =2j
+k
+j .
+a +b =2k +2j =2(k +j)
+x
+y
+x
+x =6y +3 .
+n
+n
+n
+a
+b
+a
+b
+a^2 +b^2
+n
+n
+n =2k
+k .
+8n =16k =2(8k) .
+8n
+n
+8n
+n
+n =3 .
+8n =24
+n =3
+P
+Q
+R
+\lnot P \to (Q \wedge R)
+P
+Q
+R
+P \to Q
+P \to R
+P \to (Q \wedge R)
+P \to Q
+P \to R
+P \to (Q \wedge R) .
+\exists x(x \lt 1 \wedge x^2 \ge 1)
+\forall x(x^2 \lt 1 \to x \lt 1)
+\forall x(x^2 \ge 1 \to x \ge 1) .
+n
+n,
+n
+n
+n,
+n
+n
+f,
+f
+f
+f,
+f
+f
+a
+b
+a \cdot b
+a
+b
+a
+b,
+a
+b
+ab
+a
+b,
+a
+b
+ab
+x
+y
+n,
+x >0
+nx \le y .
+x
+y
+n
+nx >y
+x >0 .
+x
+y
+n
+nx \le y
+x \le 0 .
+x
+y
+xy =0
+x \not= 0
+y \not= 0 .
+x
+y,
+x =0
+y =0
+xy =0
+x
+y,
+x \not= 0
+y \not= 0
+xy \not= 0 .
+n
+n
+n
+n
+n \le 7
+n
+n \notin \{0, 2, 4, 6\} .
+n,
+n
+n \notin \{0, 2, 4, 6\}
+n
+n >7 .
+n,
+n
+n \in \{0, 2, 4, 6\}
+n
+n \le 7 .
+n = -3
+x,
+x
+x
+x =0,
+x
+x,
+x
+x
+\forall x( \forall z(x \cdot z =0) \to \forall y(x +y =y)) .
+x =0 .
+x =0,
+x +y =y .
+x,
+x
+x
+\forall x( \exists z(x \cdot z \not= 0) \to \exists y(x +y \not= y)) .
+x
+x
+x
+\exists x( \forall y(x +y =y) \wedge \exists z(x \cdot z \not= 0)) .
+( \lnot P \vee Q) \wedge ( \lnot R \vee (P \wedge \lnot R)) .
+\forall x \forall y \forall z(z =x +y \wedge \forall w(x -y \not= w)) .
+n
+n
+n =2k +1
+k .
+7n =7(2k +1) =14k +7 =2(7k +3) +1 .
+7k +3
+7n
+n,
+7n
+n
+n
+n
+n =2k
+k .
+7n =14k =2(7k)
+7n
+7n
+2k
+2j
+2l
+22 -2k -2j -2l =2(11 -k -j -l) .
+8 +8 +8 +8 +8 +7 +7 +7 +7 =68,
+34
+K_{10} .
+90 .
+C_5
+\{a, b\}
+f \colon G_1 \to G_2
+f(a) =d,
+f(b) =c,
+f(c) =e,
+f(d) =b,
+f(e) =a .
+C_8
+C_4
+K_5 .
+5 \cdot 3/2 =7.5
+12 -1 =11
+x
+x +10 +7 +4 +2 =x +23 .
+x +4,
+x +3 .
+2(x +3) =x +23 .
+x
+x =17 .
+v
+v -1
+v =e +1,
+G
+G
+v =e +1,
+K_4
+v
+v
+v -1
+K_4
+v -e +f =2 .
+v -e +f =6 -10 +5 =1 .
+G
+10 =\frac{2 +2 +3 +4 +4 +5}{2} .
+6 -10 +f =2
+f =6 .
+n
+n
+(7 \cdot 3 +4 \cdot 4 +n)/2 =(37 +n)/2 .
+v =11 .
+11 -(37 +n)/2 +12 =2,
+n
+n =5,
+G
+G
+v =e +1
+f =1,
+v -e +f =2 .
+G
+e_0
+G
+G' =G -e_0
+e_0
+G .
+G'
+G,
+v' -e' +f' =2,
+v',
+e',
+f'
+G' .
+G'
+G,
+v' =v,
+e' =e -1,
+f' =f -1 .
+v -(e -1) +(f -1) =2,
+v -e +f =2
+G
+f
+3f \le 2e
+v -e +f =2
+v -e +\frac{2e}{3} \ge 2
+3v -e \ge 6
+3v -6 \ge e .
+K_4
+K_5
+K_{5, 7}
+K_{2, 7}
+C_7
+P_7
+K_6 .
+D
+C
+E
+| N(S)| \ge | S|
+S
+K_5 .
+K_{3, 3} .
+f = \begin{pmatrix} a & b & c & d & e & f & g \\ u & z & v & x & w & y & t \end{pmatrix} .
+G .
+V'' =\{a, b, c, d, e, f, g\}
+E'' =\{ab, ac, ad, be, cf, dg\} .
+G
+(3, 3, 2, 1, 1, 1, 1) .
+G
+G
+a, d, e, g
+b, c, f
+C_{10} .
+n \ge 6
+\frac{5n}{2}
+n -\frac{5n}{2} +f =2
+\frac{4 +3n}{2}
+3f \le 2e,
+3(\frac{4 +3n}{2}) \le 5n .
+n
+n \ge 12 .
+\binom{10}{2}
+K_{4, 6} .
+K_{10} .
+n
+n
+v -e +f =2
+64/4 =16
+64 =3x +4y
+x
+y
+K_{n, n}
+n^2
+n
+n \lt 3 .
+G
+G
+6 -8 +4 =2
+G
+7
+K_7
+K_{3, 4}
+K_{3, 3}
+K_{3, 4}
+7 -12 +f =2
+f =7
+4f \le 2e .
+28 \le 24,
+K_{3, 3}
+K_{3, 4}
+G_1
+G_2,
+G_1
+G_2,
+f(v_i)
+v_i,
+v_i \in V .
+G_2
+G_1 .
+G_2
+G_1 .
+G_1
+G_2,
+G
+13
+7 -e +8 =2 .
+K_{3, 3}
+K_{3, 3}
+K_{3, 3}
+K_4
+K_5
+\binom{12}{5} =792
+\binom{11}{5} =462
+\binom{11}{4} =330
+792 =462 +330
+x^9,
+x,
+\binom{17}{9}
+x^9
+\binom{17}{9}x^9 3^8 .
+x^9
+\binom{17}{9}3^8 =1.59498 \times 10^8 .
+x^8
+x,
+\binom{17}{8}
+\binom{17}{8} \ast 2^9 .
+x,
+\binom{18}{4} \ast 3^{14}
+x^8
+\binom{17}{8} \ast 2^9 +\binom{18}{4} \ast 3^{14} =1.46483 \times 10^{10} .
+2 \cdot 4 \cdot 18 =144
+2 +6 =8
+2 \cdot 6 =12
+6 \cdot (5 +7) +8 =42
+4096 +4096 =2 \cdot 4096 =8192
+6 \cdot 16^4 \cdot 10 =3932160
+6 \cdot 16^4 =393216 .
+16^4 \cdot 10 =655360 .
+6 \cdot 16^3 \cdot 10 =245760
+393216 +655360 -245760 =802816
+2^{11} =2048
+2^8 =256
+2^{11} -2^5 =2016
+2^5
+\binom{5}{1} \cdot 2^6 =320
+\binom{8}{5} =56
+\binom{5}{2} =10
+S
+\binom{8}{5} =56
+5
+\binom{4}{1} =4
+S
+\binom{12}{6} =924
+2^{12} =4096
+\binom{12}{0} +\binom{12}{1} +\binom{12}{2} +\cdots +\binom{12}{12},
+12 \cdot 4096 =49152
+\binom{13}{4} +\binom{13}{5} +\cdots \binom{13}{13} =7814
+\binom{10}{8} +\binom{10}{9} +\cdots +\binom{10}{10} =56
+\binom{22}{11} =705432
+\binom{11}{5}\binom{11}{6} =213444
+(6, 7),
+(12, 12)
+\binom{22}{11} -\binom{11}{5}\binom{11}{6} =491988
+29 +24 +27 -(10 +13 +17) +8 =48 .
+53 +51 +70 -(22 +33 +36) +16 =99 .
+115 -99 =16
+2^{11} =2048 .
+\binom{11}{6} =462 .
+2^{11}
+2^{12}
+2^9
+2^{11} +2^{12} -2^9 =5632
+\binom{11}{6} =462
+\binom{12}{7} =792
+\binom{9}{5} =126
+462 +792 -126 =1128
+n .
+98 +158 +87 -(19 +10 +17) +2
+790/(5 \cdot 9)
+94 +169 +424 -(18 +47 +84) +9 =547
+7^{12} =1.38413 \times 10^{10}
+7) \cdot (6) \cdot (5)\ldots (7 -12 +1) =0
+7^9 =4.03536 \times 10^7
+7^9 +7^{10} -7^7 =3.22005 \times 10^8
+7^9
+7^{10}
+(7 \cdot (7 -1) \cdot (7 -2)\ldots (7 -12 +1)) -(10 \cdot (4) \cdot (4 -1) \cdot (4 -2)\ldots 4 -9 +1)) =0
+\binom{8}{4} =70
+2^8 =256
+P(8, 4) =1680
+P(45, 3) =45 \cdot 44 \cdot 43
+45^3
+8^3 =512
+8 \cdot 7 \cdot \cdots \cdot 3 =P(8, 3) =336
+\binom{8}{3} =56
+P(18, 14) =18 \cdot 17 \cdot 16 \cdot \cdots \cdot 5
+\frac{18!}{4!}
+\binom{18}{14} \cdot 14!
+\binom{18}{14}
+14!
+\binom{5}{1} =5
+\binom{8}{3}
+5!
+\binom{8}{3} \cdot 5!
+P(8, 5) .
+\binom{24}{4} \cdot \binom{20}{4} \cdot \binom{16}{4} \cdot \cdots \cdot \binom{4}{4}
+6!\binom{18}{3} \cdot \binom{15}{3} \cdot \binom{12}{3} \cdot \cdots \cdot \binom{3}{3}
+16! .
+21^{14}
+P(21, 14) =21 \cdot 20 \cdot 19 \cdot \cdots \cdot 7
+7^6 =117649
+P(7, 6) =7 \cdot 6 \cdot \cdots \cdot 2 =5040
+\binom{7}{6} =7
+\binom{10}{5}
+\binom{14}{5}
+\binom{6}{5}
+\binom{10}{5}
+\binom{30}{21}
+\binom{20}{11}
+\binom{10}{8}
+\binom{13}{11}
+\binom{22}{2}
+x' +y' +z' =20
+x',
+y'
+z'
+x =x' -3,
+y =y' -3
+z =z' -3
+\binom{10}{5}
+\binom{10}{4}
+\ast \ast | \ast | | \ast \ast \ast \ast
+\binom{14}{11} =0.00274725 .
+\binom{31}{28}
+x_1^' +x_2^' +x_3^' +x_4^' =28
+\binom{11}{7} =330 .
+\binom{11}{7}
+1
+\binom{17}{7} .
+f(1),
+f(2),
+f(3),
+f(1),
+f(1) =1 .
+f(2) =1 ?
+f(2) =3
+f(3) =3
+\binom{17}{7}
+P(17, 7) =(17) \cdot (17 -1) \cdot \cdots \cdot 11
+\binom{23}{7}
+17^7
+\circ \circ | | \circ \circ \circ | | |
+\circ | \circ \circ | | \circ \circ \circ,
+x_1 =1,
+x_2 =2,
+x_3 =0,
+x_4 =3 .
+2 +2 +2 .
+3 \cdot 2 .
+2 +2 +2 =3 \cdot 2 .
+\binom{15}{6}
+\binom{15}{6}6
+\binom{14}{5}
+15\binom{14}{5}
+k
+n
+k -2
+n -2
+\binom{n}{2}
+\binom{n -2}{k -2}
+\binom{n}{2}\binom{n -2}{k -2}
+k
+n
+k
+k -2
+\binom{n}{k}
+\binom{k}{2}
+\binom{n}{k}\binom{k}{2}
+\binom{17}{6}
+\binom{24}{6}
+\binom{24}{6} -[\binom{7}{1}\binom{21}{6} -\binom{7}{2}\binom{18}{6} +\binom{7}{3}\binom{15}{6}\cdots]
+\binom{29}{9} =1.0015 \times 10^7
+\binom{19}{9} =92378
+\binom{29}{9} -[\binom{10}{1}\binom{24}{9} -\binom{10}{2}\binom{19}{9} +\cdots]
+\binom{18}{4} -[\binom{5}{1}\binom{11}{4} -\binom{5}{2}\binom{4}{4}] .
+y_1 +y_2 +y_3 +y_4 =14
+0 \le y_i \le 5 .
+x_i =y_i +5,
+y_i
+\binom{17}{14}
+y_i
+\binom{17}{3} -(\binom{4}{1}\binom{11}{3} -\binom{4}{2}\binom{5}{3} +\ldots)
+\binom{4}{1}
+\binom{11}{3}
+\binom{15}{13} =105
+\binom{27}{14}
+\binom{27}{14} -[\binom{15}{1}\binom{25}{14} -\binom{15}{2}\binom{23}{14} +\binom{15}{3}\binom{21}{14} -\cdots] =105.
+\binom{6}{1}(5! -[\binom{5}{1}4! -\binom{5}{2}3! +\ldots \binom{5}{5}0!])
+\binom{11}{6}(5! -[\binom{5}{1}4! -\binom{5}{2}3!\cdots +\binom{5}{5}0!]) =20328
+9! -[\binom{9}{1}8! -\binom{9}{2}7!\ldots \binom{9}{9}0!] =133496
+\binom{9}{4}(5! -[\binom{5}{1}4! -\binom{5}{2}3! +\ldots \binom{5}{5}0!]) =5544
+5 \cdot 6^8
+f(1) \not= c
+5 \cdot 6^8
+f(2) \not= f .
+5^2 \cdot 6^7
+f(1) \not= c
+f(2) \not= f .
+f(1) \not= c
+f(2) \not= f
+5 \cdot 6^8 +5 \cdot 6^8 -5^2 \cdot 6^7 =9.79776 \times 10^6 .
+4^{11} -[\binom{4}{1}3^{11} -\binom{4}{2}2^{11} +\binom{4}{3}1^{11} -\cdots +\binom{4}{3}1^{11}]
+4^{11}
+A
+B .
+B
+\binom{4}{1}
+3^{11}
+B
+\binom{7}{4}
+\binom{11}{8} =165
+4^8 .
+4^8 -[\binom{4}{1}(4 -1)^8 -\binom{4}{2}(4 -2)^8 +\binom{4}{3}(4 -3)^8 \ldots]
+\binom{14}{4}
+\binom{10}{4}
+P(10, 4),
+\binom{10}{4}P(7, 4) .
+P(10, 4) .
+\binom{10}{4} .
+10^4 .
+P(10, 4) .
+\binom{9}{3}
+\binom{13}{3}
+\binom{10}{4}
+4^{10},
+\binom{10}{4}
+\binom{10}{4}
+16^{10}
+4^{10} -[\binom{4}{1}3^{10} -\binom{4}{2}2^{10} +\binom{4}{3}1^{10}] .
+10 \cdot 4 .
+4^{10} .
+\binom{10}{4}
+\binom{10}{6}
+\binom{10}{4} .
+\binom{10}{4} .
+\binom{10}{4} .
+4! .
+\binom{10}{4}
+x_1 +x_2 +\cdots +x_{10} =4,
+\binom{13}{9}
+10^4 .
+P(10, 4) .
+\binom{10}{4}
+\binom{9}{4} +\binom{9}{3} .
+2^{12} =4096
+2^4
+2^8
+15 \cdot 255 =3825
+\binom{4}{3}\binom{8}{2} =112
+2 \cdot 4! =48
+8 \cdot 3 \cdot 3 \cdot 5
+8 +3 +3 +5
+8^{11}
+8^{10} \cdot 4
+\binom{11}{6}4^6 4^{11 -6} .
+\binom{11}{(6 +1)}4^{6 +1} \ast 4^{11 -6 -1},
+27 +22 +30 -(13 +11 +12) +4 =47 .
+2^1 1
+\binom{11}{4}
+\binom{11}{4}
+3^5 \cdot \binom{16}{11} +5^{12} \cdot \binom{20}{8} .
+\binom{11}{3}5^3 21^8
+\binom{11}{3}P(5, 3)P(21, 8)
+\binom{3}{2}\binom{7}{3} =105
+\binom{10}{5} -\binom{8}{4}\binom{2}{1} =112
+\binom{3}{2}\binom{7}{3} +\binom{8}{4}\binom{2}{1} -\binom{3}{2}\binom{5}{2}\binom{2}{1} =185
+\binom{30}{18}(\binom{30}{18} -1)
+\binom{30}{18}
+2^2 +2^3 -2^0
+\binom{6}{5} +\binom{7}{6} -\binom{4}{4}
+6!
+9! -7 \cdot 6! =357840 .
+9! -\binom{9}{3}6! =302400
+2^n
+n,
+x +y =n .
+(0, n),
+(1, n -1)
+(2, n -2)
+(n, 0) .
+\binom{n}{0},
+\binom{n}{1},
+\binom{n}{2},
+\binom{n}{n}
+n
+\binom{18}{13} =8568
+\binom{24}{19} =42504
+\binom{18}{13} -[\binom{6}{1}\binom{11}{5} -\binom{6}{2}\binom{4}{5}\ldots] =7056
+6^5 +6^5 -6^4 =14256
+5 \cdot 6^5 +6 \cdot 5 \cdot 6^4 -5 \cdot 5 \cdot 6^4 =45360
+6! -[5! +5! -4!] =504
+6!
+6! -[\binom{6}{1}(6 -1)! -\binom{6}{2}(6 -2)! +\binom{6}{3}(6 -3)! -\ldots \binom{6}{6}0!] =265
+4^6 -[\binom{4}{1}3^6 -\binom{4}{2}2^6 +\binom{4}{3}1^6] .
+\binom{15}{8} =6435
+P(15, 8) =15 \cdot (15 -1) \cdot (15 -2) \cdot \cdots \cdot (15 -8 +1) =2.59459 \times 10^8
+\binom{36}{22} =3.7963 \times 10^9
+15^{22}
+15^{22} -[\binom{15}{1}(15 -1)^{22} -\binom{15}{2}(15 -2)^{22} +\cdots -\binom{15}{15}0^{22}] =4.51953 \times 10^{23}
+\{
+\}
+a_n =a_{n -1} +2
+a_1 =1 .
+a_n =2n -1 .
+1, 4, 9, 16, 25, 36, \ldots .
+b_n =b_{n -1} +a_n
+b_n =b_{n -1} +2n -1 .
+b_n =n^2
+0, 1, 2, 4, 7, 12, 20, \ldots .
+F_0 +F_1 +\cdots +F_n =F_{n +2} -1 .
+a_n =a_{n -1} +a_{n -2}
+3, 10, 24, 52, 108, \ldots .
+10, 24, 52, \ldots
+a_n =2a_{n -1} +4
+a_1 =10 .
+-1, -1, 1, 5, 11, 19, \ldots
+0, 2, 6, 12, 20, \ldots
+a_n =(n +1)^2 -3(n +1) +2 .
+a_{n -1} =3 \cdot 2^{n -1} +7 \cdot 5^{n -1}
+a_{n -2} =3 \cdot 2^{n -2} +7 \cdot 5^{n -2} .
+7a_{n -1} -10a_{n -2} = & 7(3 \cdot 2^{n -1} +7 \cdot 5^{n -1}) -10(3 \cdot 2^{n -2} +7 \cdot 5^{n -2}) \\ = & 21 \cdot 2^{n -1} +49 \cdot 5^{n -1} -30 \cdot 2^{n -2} -70 \cdot 5^{n -2}) \\ = & 21 \cdot 2^{n -1} +49 \cdot 5^{n -1} -15 \cdot 2^{n -1} -14 \cdot 5^{n -1}) \\ = & 6 \cdot 2^{n -1} +35 \cdot 5^{n -1} \\ = & 3 \cdot 2^n +7 \cdot 5^n =a_n .
+a_0 =10
+a_1 =41 .
+\sum_{k =1}^n 2k .
+\sum_{k =1}^{107} (1 +4(k -1)) .
+\sum_{k =1}^{50} \frac{1}{k} .
+\prod_{k =1}^n 2k .
+\prod_{k =1}^{100} \frac{k}{k +1} .
+\sum_{k =1}^{100} (3 +4k) =7 +11 +15 +\cdots +403 .
+\sum_{k =0}^n 2^k =1 +2 +4 +8 +\cdots +2^n .
+\sum_{k =2}^{50} \frac{1}{(k^2 -1)} =1 +\frac{1}{3} +\frac{1}{8} +\frac{1}{15} +\cdots +\frac{1}{2499} .
+\prod_{k =2}^{100} \frac{k^2}{(k^2 -1)} =\frac{4}{3} \cdot \frac{9}{8} \cdot \frac{16}{15}\cdots \frac{10000}{9999} .
+\prod_{k =0}^n (2 +3k) =(2)(5)(8)(11)(14)\cdots (2 +3n) .
+x =83.6666666666667,
+y =42.3333333333333 .
+125 +d =x,
+x +d =y,
+y +d =1 .
+125 +3d =1
+d =( -41.3333333333333)/3.
+x =25
+y =5 .
+125 \cdot r^3 =1
+r .
+x =18,
+y =31 .
+5 +d =x,
+x +d =y,
+y +d =44 .
+5 +3d =44
+d =(39)/3 .
+x =10.3228
+y =21.312 .
+5 \cdot r^3 =44
+r .
+50,
+38 +12 .
+a_0 =2
+a_n =2 +12n .
+59600 .
+2 +26 +\cdots +1190 .
+\frac{294 \cdot 32}{2} =4851 .
+n -2 +1
+5n +0
+n =2 .
+5n -5,
+5n +0
+n -1
+n
+\frac{(5n +10) \ast (n -2 +1)}{2} .
+5n +10
+n -2 +1
+666246 .
+a_0 =6,
+a_n =6 +11n .
+3823 =a_{347},
+3829 \cdot 348/2 =666246
+a_n =2n^2 +3n .
+a_n =an^2 +bn +c .
+a_0 =0,
+c =0 .
+5 & \lt mi/> =a +b \\ 14 & \lt mi/> =4a +2b
+a =2
+b =3 .
+a_n =n^2 +2n -1 .
+a_n =an^2 +bn +c .
+a_0 = -1
+c = -1 .
+2 & \lt mi/> =a +b + -1 \\ 7 & \lt mi/> =4a +2b + -1
+a =1
+b =2 .
+a_n =(\frac{3}{2})n^3 +(\frac{7}{2})n -1 .
+a_n =an^3 +bn^2 +cn +d .
+a_0 = -1
+d = -1 .
+4 & \lt mi/> =a +b +c + -1 \\ 18 & \lt mi/> =8a +4b +2c + -1 \\ 50 & \lt mi/> =27a +9b +3c + -1
+a =\frac{3}{2},
+b =0,
+c =\frac{7}{2} .
+a_n =3n^3 +2n^2 +4n -4 .
+a_n =an^3 +bn^2 +cn +d .
+a_0 = -4,
+d = -4 .
+5 & \lt mi/> =a +b +c + -4 \\ 36 & \lt mi/> =8a +4b +2c + -4 \\ 107 & \lt mi/> =27a +9b +3c + -4
+a =3,
+b =2,
+c =4 .
+a_{n -1} =(n -1)^2 -3(n -1) -5 =3n^2 -9n +1 .
+a_n -a_{n -1} =6n -6 .
+a_n =n^3 +6n^2 +n .
+a_n =an^3 +bn^2 +cn +d .
+a_0 =0,
+d =0 .
+8 & \lt mi/> =a +b +c \\ 34 & \lt mi/> =8a +4b +2c \\ 84 & \lt mi/> =27a +9b +3c
+a =1,
+b =6,
+c =1 .
+a_n =n^2 -n +1 .
+a_n =n^3 +n^2 -n +1
+2 =2,
+7 =2 +5,
+15 =2 +5 +8,
+26 =2 +5 +8 +11,
+b_n =2 +3n .
+a_n =\sum_{k =0}^n (2 +3k) .
+a_n =\frac{(4 +3n)(n +1)}{2}
+n +1
+n +1
+a_n
+a_{n -1} =a(n -1)^2 +b(n -1) +c =an^2 -2an +a +bn -b +c .
+a_n -a_{n -1} =2an -a +b,
+a_n,
+2an +b,
+2 \cdot 3^n .
+n
+n
+\frac{3 \cdot 2^{19} -3}{1} .
+S,
+2S -S =1S,
+3
+3 \cdot 2^{19}
+S .
+\frac{1 +( -1)^{28} \frac{3^{28}}{5^{28}}}{8/5} .
+S +\frac{3}{5}S .
+a_n =1 +2^{n +1} .
+a_1 -a_0 & \lt mi/> =2^1 \\ a_2 -a_1 & \lt mi/> =2^2 \\ a_3 -a_2 & \lt mi/> =2^3 \\ \vdots & \lt mi/> \vdots \\ a_n -a_{n -1} & \lt mi/> =2^n
+a_n -a_0 =2^{n +1} -2
+a_0 =3
+a_n
+a_n =2^n +( -5)^n .
+a_n =4^n +( -3)^n
+b_n =(\frac{25}{7}) \cdot 4^n +(\frac{10}{7})( -3)^n .
+a_n =(\frac{18}{5}) \cdot 3^n -(\frac{13}{5})( -2)^n .
+a_n =a_{n -1} +2a_{n -2}
+a_0 =3
+a_1 =5 .
+a_n =\frac{8}{3}2^n +\frac{1}{3}( -1)^n .
+x^2 -x -2 =0,
+x =2
+x = -1 .
+3 & \lt mi/> =a +b \\ 5 & \lt mi/> =2a -b
+a_n =4^n
+4^n =3(4^{n -1}) +4(4^{n -2}) .
+a_n =4a_{n -1} +5a_{n -2} .
+a_n =\frac{5}{6}5^n +\frac{1}{6}( -1)^n .
+x^2 -2x +1,
+x =1
+a_n =a +bn
+a
+b
+a_n =1 +n .
+a_0 =21
+a_1 =22 .
+x .
+a_0 =x -9
+a_1 =x -8 .
+5 \cdot 2 =10
+n .
+1 +2 +2^2 +2^3 +\cdots +2^n =2^{n +1} -1
+n \in \mathbb N .
+P(n)
+1 +2 +2^2 +\cdots +2^n =2^{n +1} -1 .
+P(n)
+n \in \mathbb N .
+P(0),
+1 =2^{0 +1} -1 .
+2^1 -1 =2 -1 =1,
+P(0)
+P(k)
+k \in \mathbb N .
+1 +2 +2^2 +\cdots +2^k =2^{k +1} -1 .
+P(k +1)
+1 +2 +2^2 +\cdots +2^{k +1} =2^{k +2} -1
+P(k +1)
+1 +2 +2^2 +\cdots +2^k +2^{k +1} = & 2^{k +1} -1 +2^{k +1} & by\space inductive\space hypothesis \\ = & 2 \cdot 2^{k +1} -1 & \~ \\ = & 2^{k +2} -1 & \~
+P(k +1)
+P(n)
+n \in \mathbb N .
+P(n)
+7^n -1
+P(n)
+n \in \mathbb N .
+P(0) .
+7^0 -1 =0,
+0
+P(0)
+P(k)
+k \in \mathbb N .
+7^k -1
+7^k -1 =6j
+j .
+7^{k +1} -1 \colon
+7^{k +1} -1 & \lt mi/> =7^{k +1} -7 +6 & by\space cleverness\colon -1 = -7 +6 \\ \~ & \lt mi/> =7(7^k -1) +6 & factor\space out\space a\space 7\space from\space the\space first\space two\space terms \\ \~ & \lt mi/> =7(6j) +6 & by\space the\space inductive\space hypothesis \\ \~ & \lt mi/> =6(7j +1) & factor\space out\space a\space 6
+7^{k +1} -1
+P(k +1)
+P(n)
+n \in \mathbb N .
+P(n)
+1 +3 +5 +\cdots +(2n -1) =n^2 .
+P(n)
+n \ge 1 .
+P(1) .
+1 =1^2
+P(1)
+P(k)
+k \ge 1 .
+1 +3 +5 +\cdots +(2k -1) =k^2 .
+P(k +1)
+1 +3 +5 +\cdots +(2k +1) =(k +1)^2
+P(k +1)
+1 +3 +5 +\cdots +(2k -1) +(2k +1) & \lt mi/> =k^2 +(2k +1) & by\space ind.\space hyp. \\ \~ & \lt mi/> =(k +1)^2 & by\space factoring
+P(k +1)
+P(n)
+n \ge 1 .
+P(n)
+F_0 +F_2 +F_4 +\cdots +F_{2n} =F_{2n +1} -1 .
+P(n)
+n \ge 0 .
+F_0 =0
+F_1 =1
+F_0 =F_1 -1 .
+P(k)
+F_0 +F_2 +F_4 +\cdots +F_{2k} =F_{2k +1} -1 .
+P(k +1)
+F_0 +F_2 +\cdots +F_{2k} +F_{2k +2} & \lt mi/> =F_{2k +1} -1 +F_{2k +2} & by\space ind.\space hyp. \\ \~ & \lt mi/> =F_{2k +1} +F_{2k +2} -1 & \~ \\ \~ & \lt mi/> =F_{2k +3} -1 & by\space recursive\space def.
+F_0 +F_2 +F_4 +\cdots +F_{2k +2} =F_{2k +3} -1,
+P(k +1)
+P(n)
+n \ge 0 .
+P(n)
+2^n \lt n! .
+P(n)
+n \ge 4 .
+2^4 \lt 4!
+16 \lt 24
+P(4)
+P(k)
+k \ge 4 .
+2^k \lt k! .
+P(k +1) \colon
+2^{k +1} \lt (k +1)! .
+2^{k +1} & \lt mi/> =2 \cdot 2^k & \~ \\ \~ & \lt mi/> \lt 2 \cdot k! & by\space the\space inductive\space hypothesis \\ \~ & \lt mi/> \lt (k +1) \cdot k! & \~since\~k +1 >2 \\ \~ & \lt mi/> =(k +1)! & \~
+2^{k +1} \lt (k +1)!
+P(k +1) .
+P(n)
+n \ge 4 .
+n =0,
+0 +3 \not= 0 +7 .
+P(n)
+n +3 \lt n +7 .
+P(n)
+n \in \mathbb N .
+0 +3 \lt 0 +7 .
+P(k)
+k +3 \lt k +7 .
+P(k +1)
+k +3 \lt k +7,
+k +3 +1 \lt k +7 +1 .
+(k +1) +3 \lt (k +1) +7 .
+P(k +1) .
+P(n)
+n \in \mathbb N .
+P(0)
+P(k) \to P(k +1)
+k,
+k
+k =99
+P(k) \to P(k +1)
+k
+n =0,
+n^2 +n =0
+a^n,
+n
+a
+\log (a)
+P(n)
+\log (a^n) =n\log (a) .
+P(2)
+\log (a^2) =\log (a \cdot a) =\log (a) +\log (a) =2\log (a),
+P(k)
+\log (a^k) =k\log (a) .
+\log (a^{k +1}) .
+\log (a^{k +1}) =\log (a^k \cdot a) =\log (a^k) +\log (a) =k\log (a) +\log (a),
+(k +1)\log (a),
+P(k +1) .
+P(n)
+n \ge 2 .
+P(n)
+n
+P(n)
+n \ge 1 .
+1 =2^0
+P(1)
+P(k)
+k \lt n .
+n
+2^x
+n .
+n -2^x,
+n
+2^x .
+n -2^x
+2^x,
+2^x
+n
+P(n)
+n \ge 1 .
+\frac{1028 \cdot 128}{2} =65792 .
+n -3
+4n +( -3) .
+\frac{(4n +14) \ast (n -3)}{2} .
+3, 15, 75, 375, \ldots
+\frac{3 \cdot 5^{21} -3}{4} =3.57628 \times 10^{14} .
+a_n =n^2 -n +3 .
+a_n =an^2 +bn +c .
+a_0 =3,
+c =3 .
+3 & \lt mi/> =a +b +3 \\ 5 & \lt mi/> =4a +2b +3
+a =1
+b = -1 .
+4, 6, 10, 16, 26, 42, \ldots .
+b_n =(n +3)n .
+3, 6, 12, 24, 48, \ldots .
+a_n =3 \cdot 2^n,
+5, 9, 39, 93, 327, \ldots .
+a_n =(\frac{19}{5}) \cdot 3^n +(\frac{6}{5})( -2)^n,
+12
+2, 2, 6, 10, 22, 42\ldots
+a_0 =2
+a_1 =2 .
+a_n =a_{n -1} +2a_{n -2} .
+a_n =a2^n +b( -1)^n,
+a
+b
+a_n =\frac{4}{3}2^n +\frac{2}{3}( -1)^n .
+P(n)
+n
+2^n
+P(n)
+n \ge 1 .
+\{a\}
+2 =2^1 .
+P(1)
+P(k)
+k \ge 1 .
+k
+2^k
+k +1
+A =\{a_1, a_2, \ldots, a_k, a_{k +1} \} .
+A
+a_{k +1}
+A
+\{a_1, a_2, \ldots, a_k \}
+a_{k +1} .
+2^k
+A
+a_{k +1}
+2^{k +1}
+A
+a^{k +1} .
+2^k +2^k =2 \cdot 2^k =2^{k +1}
+A .
+A
+k +1
+P(k +1)
+P(n)
+n \ge 1 .
+A \cup B =\{5, 7, 8, 9, 10, 11, 15, 20\} .
+A
+B
+A \cap B =\{5, 10\} .
+A
+B .
+A \setminus B =\{7, 8, 9\} .
+A
+B .
+A \cap \overline{B} .
+B \setminus A =\{11, 15, 20\} .
+B
+A .
+B \cap \overline{A} .
+A \setminus B \not= B \setminus A .
+\{4, 5, 6, \ldots \}
+4^2 -5 =11
+3^2 -5 =4
+n^2 -10
+n \ge 0
+n \in \mathbb N
+-4
+\{3, 4, 7, 12, \ldots \},
+0^2 +3 =3,
+1^2 +3 =4,
+2^2 +3 =7
+\{3, 4, 7, 12, \ldots \},
+A\~and\~B
+A\~and\~B,
+A \cap B =\{2, 4, 5, 6\} .
+\{3, 6, 14\},
+\{3, 6, 13, 14\},
+\{3, 6, 11, 14\},
+\{3, 6, 11, 13, 14\} .
+A \cap B =\{7, 8, 9\} .
+A \cup B =\{5, 6, 7, 8, 9, 10, 11\} .
+A \setminus B =\{5, 6\} .
+A \cap \overline{(B \cup C)} =\{5\} .
+A =\{2, 3, 5, 7, 8\}
+B =\{3, 5\}
+A =\{1, 2, 3\}
+B =\{1, 2, 3, 4, 5, \{1, 2, 3\}\}
+2\mathbb Z \cap 3\mathbb Z
+2\mathbb Z \cap 3\mathbb Z =\{x \in \mathbb Z \colon \exists y \in \mathbb Z (x =6y)\} .
+2\mathbb Z \cup 3\mathbb Z .
+A \cup \overline{B} \colon
+\overline{(A \cup B)} \colon
+A \cap (B \cup C) \colon
+(A \cap B) \cup C \colon
+\overline{A} \cap B \cap \overline{C} \colon
+(A \cup B) \setminus C \colon
+\mathcal P (A) =\{ & \varnothing, \{a\}, \{b\}, \{c\}, \{d\}, \{a, b\}, \{a, c\}, \{a, d\}, \{b, c\}, \{b, d\}, \\ \~ & \lt mi/>\{c, d\}\{a, b, c\}, \{a, b, d\}, \{a, c, d\}, \{b, c, d\}, \{a, b, c, d\}\} .
+A =\{1, 2, 3, 4\}
+B =\{5, 6, 7, 8, 9\}
+A \cup B =\{1, 2, 3, 4, 5, 6, 7, 8, 9\} .
+B
+A
+| A| =1,
+B =\{1, 3\},
+| B| \not= 3 .
+| A| =2,
+B
+| B| \not= 3,
+| B| =2,
+B .
+A =\{2, 3\}
+B =\{1, 2\}
+f(5) =2,
+n
+n =1,
+f(1) =5 .
+n =3
+f .
+f;
+a
+b .
+f(1),
+f(2) .
+f = \begin{pmatrix} 1 & 2 \\ a & a \end{pmatrix} f = \begin{pmatrix} 1 & 2 \\ b & b \end{pmatrix} f = \begin{pmatrix} 1 & 2 \\ c & c \end{pmatrix} f = \begin{pmatrix} 1 & 2 \\ d & d \end{pmatrix}
+f = \begin{pmatrix} 1 & 2 \\ a & b \end{pmatrix} f = \begin{pmatrix} 1 & 2 \\ a & c \end{pmatrix} f = \begin{pmatrix} 1 & 2 \\ a & d \end{pmatrix} f = \begin{pmatrix} 1 & 2 \\ b & c \end{pmatrix}
+f = \begin{pmatrix} 1 & 2 \\ b & a \end{pmatrix} f = \begin{pmatrix} 1 & 2 \\ c & a \end{pmatrix} f = \begin{pmatrix} 1 & 2 \\ d & a \end{pmatrix} f = \begin{pmatrix} 1 & 2 \\ c & b \end{pmatrix}
+f = \begin{pmatrix} 1 & 2 \\ b & d \end{pmatrix} f = \begin{pmatrix} 1 & 2 \\ d & b \end{pmatrix} f = \begin{pmatrix} 1 & 2 \\ c & d \end{pmatrix} f = \begin{pmatrix} 1 & 2 \\ d & c \end{pmatrix}
+f
+f(2) =f(5);
+f
+f = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 \\ 3 & 2 & 4 & 1 & 2 \end{pmatrix} .
+f
+f
+f
+f
+f(5) =3 =f(6) .
+f
+f(\{1\}) =1
+f(\{2\}) =1,
+f
+f
+A
+A
+| A| =10 .
+f^{ -1} (1) =\{\{1\}, \{2\}, \{3\}, \ldots \{10\}\}
+A
+f^{ -1} (0) =\{\varnothing \} .
+f^{ -1} (0) =\varnothing
+f^{ -1} (12) =\varnothing,
+A
+| f^{ -1} (3)| \le 1 .
+f^{ -1} (3)
+| f^{ -1} (3)| \ge 1 .
+f^{ -1} (3)
+| f^{ -1} (3)| =1 .
+X
+f^{ -1} (3)
+X
+f(x) =0
+f(x) =1
+x \in X .
+X =\mathbb N
+f(n) =0
+f
+x
+y
+\mathbb Z .
+f(x) =f(y) .
+x
+y
+f(x) =x +1
+f(y) =y +1 .
+f(x) =f(y),
+x +1 =y +1
+x =y .
+x
+y
+x -3 =y -3
+x =y .
+x
+y
+x +1
+y -3
+f(x) =f(y) .
+f(x) =f(y)
+x =y,
+f
+f
+y
+\mathbb Z .
+n
+\mathbb Z
+f(n) =y .
+y
+n =y +3 .
+y
+n
+f(n) =n -3 =y +3 -3 =y
+y
+n =y -1 .
+y
+n
+f(n) =n +1 =y -1 +1 =y
+f
+f(n +1) =f(n) +n .
+| A| \ge | f(A)|,
+| A| =| f(A)|,
+f
+A
+| B|
+| f^{ -1} (B)| .
+B
+f,
+f^{ -1} (B) =\varnothing .
+B,
+f^{ -1} (B)
+B .
+f
+| B| \ge | f^{ -1} (B)|
+B
+f
+| B| \le | f^{ -1} (B)|
+B
+f
+| B| =| f^{ -1} (B)| .
+\frac{4}{1 -x} .
+\frac{2}{(1 -x)^2} .
+\frac{2x^3}{(1 -x)^2} .
+\frac{1}{1 -5x} .
+\frac{1}{1 +3x} .
+\frac{1}{1 -5x^2} .
+\frac{x}{(1 -x^3)^2} .
+0, 4, 4, 4, 4, 4, \ldots .
+1, 4, 16, 64, 256, \ldots .
+0, 1, -1, 1, -1, 1, -1, \ldots .
+0, 3, -6, 9, -12, 15, -18, \ldots .
+1, 3, 6, 9, 12, 15, \ldots .
+A .
+A -xA =4 +x +2x^2 +3x^3 +4x^4 +\cdots .
+A -xA =4 +\frac{x}{(1 -x)^2} .
+A
+\frac{4}{1 -x} +\frac{x}{(1 -x)^3} .
+\frac{1 +2x}{1 -3x +x^2} .
+A -xA -x^2 A
+A .
+\frac{x}{1 -x -x^2} .
+\frac{x}{(1 -x)(1 -x -x^2)} .
+\frac{2}{1 -5x} +\frac{7}{1 +3x} .
+a_n =3 \cdot 4^{n -1} +1 .
+\frac{1}{(1 -x^2)^2} .
+\frac{1}{(1 +x)^2} .
+\frac{3x}{(1 -x)^2} .
+\frac{3x}{(1 -x)^3} .
+0, 0, 1, 1, 2, 3, 5, 8, \ldots .
+1, 0, 1, 0, 2, 0, 3, 0, 5, 0, 8, 0, \ldots .
+1, 3, 18, 81, 405, \ldots .
+1, 2, 4, 7, 12, 20, \ldots .
+\frac{x^3}{(1 -x)^2} +\frac{1}{1 -x} .
+a \mid b .
+b
+a,
+b =ak
+k .
+bc =akc,
+kc
+bc
+a .
+a \mid bc .
+\{\ldots, -8, -4, 0, 4, 8, 12, \ldots \},
+\{\ldots, -7, -3, 1, 5, 9, 13, \ldots \},
+\{\ldots, -6, -2, 2, 6, 10, 14, \ldots \},
+\{\ldots, -5, -1, 3, 7, 11, 15, \ldots \} .
+a \equiv b( modn)
+c \equiv d( modn) .
+a =b +kn
+c =d +jn
+k
+j .
+a -c .
+a -c =b +kn -(d +jn) =b -d +(k -j)n .
+a -c
+b -d
+n,
+a -c \equiv b -d( modn) .
+3^{456} \equiv 1^{456} =1( mod2) .
+3^{456} =9^{228} \equiv ( -1)^{228} =1( mod5) .
+3^{456} =9^{228} \equiv 2^{228} =8^{76} \equiv 1^{76} =1( mod7) .
+3^{456} =9^{228} \equiv 0^{228} =0( mod9) .
+x =2,
+x =5,
+x =8 .
+x =5 +22k
+k \in \mathbb Z .
+x =6 +15k
+k \in \mathbb Z .
+7x +5 \equiv 2( mod11) .
+x \equiv 9( mod11) .
+x =9 +11k,
+x
+3x +5y =16 .
+5y \equiv 16( mod3),
+2y \equiv 1( mod3) .
+y \equiv 2( mod3)
+y =2 +3k .
+3x +5y =16
+x,
+x =2 -5k .
+x =2 -5k
+y =2 +3k
+k \in \mathbb Z .
+\backslash usepackagecancel
+\backslash usepackagecancel
+v,
+e,
+f
+v
+e
+f
+v,
+e,
+f
+\frac{v +e}{f} .
+\frac{5 +5}{2} =5
+\frac{6 +7}{3} \not= 5 .
+v
+e
+e
+f
+v
+e
+f
+v
+e
+f
+v -e +f =2 .
+P_2 \colon
+v -e +f
+v -e +f
+v -e +f,
+P_2
+v =2,
+e =1
+f =1,
+v -e +f =2 .
+P_2
+v -e +f .
+K_n,
+K_3 \colon
+K_3
+K_3
+K_4,
+K_5,
+K_{23} .
+K_{7, 4}
+m
+n
+K_n
+K_{m, n}
+K_5 .
+K_5
+K_5
+K_5
+K_5
+5 -10 +f =2,
+f =7
+B
+3f \le B .
+B =2e,
+3f \le 2e .
+f =7
+e =10,
+21 \not\leq 20 .
+K_5
+K_{3, 3}
+K_{3, 3}
+K_{3, 3}
+K_{3, 3}
+v =6,
+e =9,
+6 -9 +f =2 .
+B
+B =2e .
+B \ge 4f
+K_{3, 3}
+4f \le 2e .
+20 \le 18,
+K_{3, 3}
+K_5,
+3f \le 2e
+K_{3, 3}
+4f \le 2e .
+f
+g
+g
+gf \le 2e .
+180\deg .
+8 -12 +6 =2,
+v -37 +14 =2
+v =25 .
+180\circ
+f
+3f/2
+v -3f/2 +f =2
+v =2 +f/2 .
+k .
+kv/2 .
+e =\frac{3f}{2} =\frac{k(2 +f/2)}{2},
+k =\frac{6f}{4 +f} .
+k
+f
+\frac{6f}{4 +f}
+f,
+k =6 .
+k
+k =3,
+f =4
+k =4
+f =8
+k =5
+f =20
+e =4f/2 =2f .
+v =2 +f,
+k
+e =2f =\frac{k(2 +f)}{2} .
+k
+k =\frac{4f}{2 +f} =\frac{8f}{4 +2f} .
+k =4,
+k
+e =5f/2
+v =2 +3f/2 .
+e =\frac{5f}{2} =\frac{k(2 +3f/2)}{2},
+k =\frac{10f}{4 +3f} .
+\frac{10}{3} .
+k =3 .
+n
+n \ge 6 .
+k =\frac{2nf}{4 +(n -2)f},
+\frac{2n}{n -2} .
+n =6,
+k =3 .
+n
+f \to \infty
+k =3 .
+K_{3, 6}
+K_{2, 5}
+K_6
+K_{2, 4}
+K_{3, 10}
+K_{4, 5}
+K_{2, 10}
+K_8
+G
+G
+v =
+e =
+f =
+K_8
+K_8
+v =
+e =
+K_8
+f =
+f \le
+K_8
+4
+v -e +f =
+G
+2, 2, 3, 4, 4, 5 .
+G
+G
+v,
+v -e +f =2
+v -e +f
+k
+v
+e
+e \le 3v -6 .
+\backslash usepackagecancel
+G_1 \colon
+G_2 \colon
+G_3 \colon
+G_4 \colon
+a
+b, c
+b
+a, f
+c
+a, d, e
+d
+c, e, f
+e
+c, d
+f
+b, d
+\begin{pmatrix} 0 & 0 & 1 & 0 & 1 & 0 \\ 0 & 0 & 0 & 0 & 0 & 1 \\ 1 & 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 & 1 & 1 \\ 1 & 0 & 0 & 1 & 0 & 0 \\ 0 & 1 & 0 & 1 & 0 & 0 \end{pmatrix}
+G_3
+G_4
+G_1 \colon
+G_2 \colon
+G_3 \colon
+G_4 \colon
+G_1 \colon
+G_2 \colon
+G_3 \colon
+G_4 \colon
+G_1
+G_2
+G_3
+G_4
+G_1
+G_2
+G_3
+G_4
+G_1
+G_2
+G_3
+G_4
+G_1 \colon
+G_2 \colon
+G_3 \colon
+G_4 \colon
+G_4
+G_1
+G_3
+G_2
+G_1 \colon
+G_2 \colon
+G_3 \colon
+G_4 \colon
+G =(V, E)
+V
+E
+V .
+(\{a, b, c, d\}, \{\{a, b\}, \{a, c\}, \{b, c\}, \{b, d\}, \{c, d\}\}) .
+a, b, c, d
+\{a, b\}, \{a, c\}, \{b, c\}, \{b, d\}, \{c, d\})
+G_1 =(\{a, b, c\}, \{\{a, b\}, \{b, c\}\}); G_2 =(\{a, b, c\}, \{\{a, c\}, \{c, b\}\}) .
+\{a, b\}
+\{b, c\},
+\{a, c\}
+\{c, b\} .
+\{b, c\} =\{c, b\},
+\{a, b\} \not= \{a, c\} .
+G_1 =(V_1, E_1)\~where\~V_1 =\{a, b, c\}\~and\~E_1 =\{\{a, b\}, \{a, c\}, \{b, c\}\};
+G_2 =(V_2, E_2)\~where\~V_2 =\{u, v, w\}\~and\~E_2 =\{\{u, v\}, \{u, w\}, \{v, w\}\} .
+V_1 \not= V_2
+a \in V_1
+a \notin V_2 .
+G_1
+G_2
+f \colon V_1 \to V_2
+\{a, b\}
+G_1
+\{f(a), f(b)\}
+G_2 .
+G_1 \cong G_2 .
+G_1 =(V_1, E_1)
+G_2 =(V_2, E_2)
+V_1 =\{a, b, c, d\},
+E_1 =\{\{a, b\}, \{a, c\}, \{a, d\}, \{c, d\}\}
+V_2 =\{a, b, c, d\},
+E_2 =\{\{a, b\}, \{a, c\}, \{b, c\}, \{c, d\}\}
+\{a, d\} \in E_1
+\{a, d\} \notin E_2 .
+f(a) =b,
+f(b) =c,
+f(c) =d
+f(d) =a .
+G_1,
+a
+b
+G_2,
+f(a) =b
+f(b) =c
+\{a, c\}
+G_1
+\{f(a), f(c)\} =\{b, d\},
+b
+d
+G_2 .
+f
+f
+G_1,
+a
+G_2,
+c .
+g \colon V_1 \to V_2
+g(a) =c
+b ?
+G_1,
+b
+a .
+G_2,
+d .
+g(b) =d .
+g(c) =b
+g(d) =a
+G_1
+\{a, b\}, \{a, c\}, \{a, d\}, \{c, d\} .
+\{g(a), g(b)\}, \{g(a), g(c)\}, \{g(a), g(d)\}, \{g(c), g(d)\}
+\{c, d\}, \{c, b\}, \{c, a\}, \{b, a\},
+G_2 .
+g
+G_1 \cong G_2
+K_n
+G' =(V', E')
+G =(V, E),
+G' \subseteq G,
+V' \subseteq V
+E' \subseteq E .
+G' =(V', E')
+G =(V, E)
+V' \subseteq V
+E
+V'
+E' .
+G_2
+G_3
+G_1 .
+G_2
+G_1
+G_2
+G_2 .
+G_3,
+\{a, b\}
+E_1
+E_3,
+a
+b
+V_3 .
+G_4
+G_1,
+e .
+E_4
+\{c, f\}
+E_1,
+E_4 \subseteq E_1 .
+a
+b \colon
+K_n
+n
+K_n
+n -1
+K_n
+n -1 .
+K_n
+n(n -1),
+n -1
+n
+n(n -1)/2
+K_n .
+\binom{n}{2}
+n
+\sum_{v \in V} d(v) =2e .
+d(v)
+v .
+(4, 4, 3, 3, 3, 2, 1) ?
+4 +4 +3 +3 +3 +2 +1 =20,
+9 \cdot 7 =63 .
+31.5
+A
+B,
+A
+B
+A
+B .
+A
+B,
+K_{m, n},
+| A| =m
+| B| =n .
+K_{3, 3} .
+K_n
+n
+K_{m, n}
+m
+n
+C_n
+n
+P_n
+n +1
+n
+V
+E
+V
+E
+V .
+H
+G
+H
+G .
+H
+G
+H
+G
+H
+H
+G
+\Gamma
+\Gamma ?
+G_1
+G_1
+G_2
+k .
+G_2
+k ?
+G_3
+v
+G_3
+v ?
+(8, 7, 7, 6, 6, 6, 5, 4, 4, 3) .
+n
+P_n
+K_7 ?
+n
+C_n
+K_7 ?
+n
+P_n
+K_7 ?
+n
+C_n
+K_7 ?
+P_n
+n
+n +1
+V =\{a, b, c, d, e\},
+E =\{\{a, b\}, \{a, c\}, \{a, e\}, \{b, d\}, \{b, e\}, \{c, d\}\}
+G_1
+V_1 =\{a, b, c, d, e, f, g\}
+E_1 =\{\{a, b\}, \{a, d\}, \{b, c\}, \{b, d\}, \{b, e\}, \{b, f\}, \{c, g\}, \{d, e\},
+\{e, f\}, \{f, g\}\} .
+G_2
+V_2 =\{v_1, v_2, v_3, v_4, v_5, v_6, v_7 \},
+E_2 =\{\{v_1, v_4 \}, \{v_1, v_5 \}, \{v_1, v_7 \}, \{v_2, v_3 \}, \{v_2, v_6 \},
+\{v_3, v_5 \}, \{v_3, v_7 \}, \{v_4, v_5 \}, \{v_5, v_6 \}, \{v_5, v_7 \}\}
+f \colon G_1 \to G_2
+x
+a
+b
+c
+d
+e
+f
+g
+f(x)
+v_4
+v_5
+v_1
+v_6
+v_2
+v_3
+v_7
+f
+g
+g \not= f
+K_{5, 5}
+K_{1, 9},
+n \ge 3
+C_n
+C_4
+C_5
+n ?
+G =(V, E)
+v \in V,
+N(v) =\{u \in V \colon \{v, u\} \in E\} .
+N[v] =N(v) \cup \{v\} .
+G
+V =\{a, b, c, d, e, f\}
+E =\{\{a, b\}, \{a, e\}, \{b, c\}, \{b, e\}, \{c, d\}, \{c, f\}, \{d, f\}, \{e, f\}\} .
+N(a),
+N[a],
+N(c),
+N[c] .
+| N(v)|
+| N[v]|
+G =(V, E)
+N[v] =V
+v \in V .
+N[v] =V
+v \in V ?
+G =(V, E)
+N(v) =\varnothing
+v \in V .
+N[u] =V
+u \in V
+N(v)
+N[v]
+N
+x
+y
+x
+y
+x \sim y
+V =\{1, 2, \ldots, 9\}
+x \sim y
+x -y
+V =\{1, 2, \ldots, 9\}
+x \sim y
+y
+x .
+V =\{1, 2, \ldots, 9\}
+x \sim y
+0 \lt | x -y| \lt 3
+a
+b,
+b
+a .
+n
+n
+n .
+G
+n >1
+n -1
+G
+V
+E
+E
+V .
+V =\{a, b, c, d, e\},
+E =\{\{a, b\}, \{a, c\}, \{a, d\}, \{a, e\}, \{b, c\}, \{d, e\}\}
+V =\{v_1, v_2, v_3, v_4, v_5 \},
+E =\{\{v_1, v_3 \}, \{v_1, v_5 \}, \{v_2, v_4 \}, \{v_2, v_5 \}, \{v_3, v_5 \}, \{v_4, v_5 \}\} .
+\backslash usepackagecancel
+\therefore
+\therefore
+\therefore
+3 +7 =12
+1 +3 +5 +7 +\cdots +2n +1 .
+3 +x =12
+3 +x =12
+x
+3 +x =12
+x =9,
+x,
+3 +x =12,
+P, Q, R, S, \ldots .
+\wedge,
+\vee,
+\to,
+\leftrightarrow,
+\lnot .
+P \wedge Q
+P
+Q,
+P \vee Q
+P
+Q,
+P \to Q
+P
+Q,
+P \leftrightarrow Q
+P
+Q,
+\lnot P
+P,
+P \wedge Q
+P
+Q
+P \vee Q
+P
+Q
+P \to Q
+P
+Q
+P \leftrightarrow Q
+P
+Q
+\lnot P
+P
+P
+Q
+P \wedge Q
+P
+Q
+P \vee Q
+P
+Q
+P \to Q
+P
+Q
+P \leftrightarrow Q
+P
+\lnot P
+P \to Q
+P
+Q
+P
+Q
+P \to Q
+P
+Q
+P \vee Q
+P
+Q
+P \to Q
+P \wedge Q
+P
+Q
+P
+P
+Q
+(P \vee Q) \wedge \lnot (P \wedge Q) .
+P \to (Q \wedge R) .
+P,
+P
+\forall
+\exists
+P(x)
+x
+P(7)
+P(8)
+\forall xP(x)
+\exists xP(x) .
+E(x)
+x
+O(x)
+x
+E(x) \vee O(x)
+x
+x
+x
+\forall x(O(x) \vee E(x)) .
+\forall xO(x) \vee \forall xE(x) .
+\forall xP(x)
+P(a)
+a
+x .
+\exists xP(x)
+a
+P(a)
+\forall x \exists y(y \lt x) .
+x
+y
+y
+x .
+\lt
+L(y, x)
+\lt (y, x) .
+x,
+0, 1, 2, \ldots,
+y
+x -1 ?
+x =0 ?
+y = -1
+\exists x \forall y(y \ge x) .
+P
+Q
+\forall x(P(x) \to Q(x)) .
+\forall x(M(x) \to H(x)),
+M(x)
+x
+H(x)
+x
+A
+B
+x
+y .
+x
+A,
+x
+B .
+P
+Q
+\exists x(P(x) \wedge Q(x)) .
+\exists x(C(x) \wedge S(x)),
+C(x)
+x
+S(x)
+x
+S(x)
+x
+R(x)
+x
+S(x) \to R(x) .
+\forall x(S(x) \to R(x)),
+P(n)
+n
+P(n)
+n
+n
+P \wedge Q
+\lnot P
+P \to Q
+P \vee Q
+P
+Q
+P,
+Q,
+P
+Q
+P
+x >3,
+x
+10
+x,
+x
+4 +1
+2 \cdot 4
+P(x, y)
+x
+y .
+\exists x \forall yP(x, y)
+\forall x \exists yP(x, y)
+\forall y \exists xP(x, y)
+\exists y \forall xP(x, y)
+P(x, y)
+x
+y
+\forall x \exists y \lnot P(x, y)
+\forall x \forall y \lnot P(x, y)
+\exists x \exists y \lnot P(x, y)
+\exists x \forall y \lnot P(x, y)
+P(x, y)
+x \lt y
+\forall x
+\exists x
+\forall x \exists yP(x, y)
+\exists x \forall yP(x, y)
+\forall y \exists xP(x, y)
+\exists y \forall xP(x, y)
+P(x, y)
+\forall x \exists yP(x, y)
+\exists y \forall x
+P(x)
+17x +1
+P(15)
+\exists xP(x)
+P(15) ?
+\exists xP(x)
+\exists xP(x)
+\exists xP(x)
+\forall xP(x)
+P(15) ?
+\forall xP(x)
+\forall xP(x)
+\forall xP(x)
+P(x)
+18x +1
+P(15)
+\exists xP(x)
+P(15) ?
+\exists xP(x)
+\exists xP(x)
+\exists xP(x)
+\forall xP(x)
+P(15) ?
+\forall xP(x)
+\forall xP(x)
+\forall xP(x)
+\exists xP(x, y) \to \forall xP(x, y) .
+y
+x
+z
+P(x, y)
+P(x, y)
+x
+y
+P(1, 3)
+\exists y \forall xP(x, y) .
+\forall y \exists xP(x, y) .
+\exists x \forall yP(x, y) .
+\forall x \exists yP(x, y) .
+P
+Q
+P \colon
+Q \colon
+P \vee Q
+\lnot (P \wedge Q) \to Q
+E(x)
+x
+O(x)
+x
+\forall x \exists y(y^2 =x) .
+\forall x \forall y(x \lt y \to \exists z(x \lt z \lt y)) .
+\exists x \forall y \forall z(y \lt z \to y \le x \le z) .
+\backslash usepackagecancel
+n
+a_n
+n .
+1, 5, 9, \ldots
+n =3
+a_3 =
+n =4
+a_4 =
+a_n
+n .
+a_n .
+a_n =
+a_0 =
+n
+a_n =
+a_n
+n .
+2, 6, 18, \ldots
+n =3
+a_3 =
+n =4
+a_4 =
+a_n
+n .
+a_n .
+a_n =
+a_0 =
+n
+a_n =
+a_n
+n .
+1, 3, 6, 10, \ldots
+n =5
+a_5 =
+n =6
+a_6 =
+a_n
+n .
+a_n .
+a_n =
+a_1 =
+n
+a_n =
+n
+2, 6, 10, 14, \ldots .
+a_n =a_{n -1} +4 .
+4
+a_n -a_{n -1} =4
+a_0 =2 .
+a_1,
+4 .
+4
+4
+4
+a_3 .
+a_n,
+4
+a_0
+n
+a_n =2 +4n .
+a_0
+a
+d,
+a_n =a_{n -1} +d
+a_0 =a .
+a_n =a +dn .
+a_0 .
+a_n
+a_{n -1} .
+a,
+a_0 =a .
+d .
+a_n -a_{n -1} =d,
+a_0 =aa_n =a_{n -1} +d .
+a_n -a_{n -1} =d
+a_1
+a_n .
+a_1 -a_0 = & d \\ a_2 -a_1 = & d \\ a_3 -a_2 = & d \\ \vdots & \~ \\ a_{n -1} -a_{n -2} = & d \\ a_n -a_{n -1} = & d .
+n
+d
+n
+d \cdot n .
+(a_1 -a_0) +(a_2 -a_1) +(a_3 -a_2) +\cdots +(a_{n -1} -a_{n -2}) +(a_n -a_{n -1}) .
+\overwrite{a_1}{\senwline} -a_0 +\overwrite{a_2}{\senwline} -\overwrite{a_1}{\senwline} +\overwrite{a_3}{\senwline} -\overwrite{a_2}{\senwline} +\cdots +\overwrite{a_{n -1}}{\senwline} -\overwrite{a_{n -2}}{\senwline} +a_n -\overwrite{a_{n -1}}{\senwline} =a_n -a_0 .
+a_n -a_0 =d \cdot n
+a_n =a_0 +d \cdot n
+a_0 .
+2, 5, 8, 11, 14, \ldots .
+50, 43, 36, 29, \ldots .
+d .
+5 -2 =3,
+8 -5 =3,
+d =3 .
+a_n =a_{n -1} +3
+a_0 =2 .
+a_n =2 +3n .
+-7,
+-7
+a_n =a_{n -1} -7
+a_0 =50 .
+a_n =50 -7n .
+3, 6, 12, 24, 48, \ldots ?
+\frac{6}{3} =\frac{12}{6} =\frac{24}{12} =\cdots =2
+a_n =2a_{n -2},
+a_0 =3 .
+a_3
+3,
+a_1,
+2
+a_2,
+2
+a_3 .
+3
+2
+a_3 =3 \cdot 2^3 .
+a_n =3 \cdot 2^n .
+a
+r
+a_n =a_{n -1} \cdot r; a_0 =a .
+r .
+a_n
+a_0 & \lt mi/> =a \\ a_1 & \lt mi/> =a_0 \cdot r \\ a_2 & \lt mi/> =a_1 \cdot r =a_0 \cdot r \cdot r =a_0 \cdot r^2 \\ a_3 & \lt mi/> =a_2 \cdot r =a_0 \cdot r^2 \cdot r =a_0 \cdot r^3 \\ \~ & \lt mi/> \vdots \\ a_n & \lt mi/> =a_{n -1} \cdot r =a_0 \cdot r^{n -1} \cdot r =a_0 r^n .
+a
+r
+n
+a_n =a \cdot r^n .
+a_0
+a
+r .
+a_n =ra_{n -1}
+a_0 =a .
+a_n =a \cdot r^n .
+a_0 .
+3, 6, 12, 24, 48, \ldots
+27, 9, 3, 1, 1/3, \ldots
+r .
+6/3 =2,
+12/6 =2,
+24/12 =2,
+r =2 .
+a_n =2a_{n -1}
+a_0 =3 .
+a_n =3 \cdot 2^n .
+r =1/3 .
+a_n =\frac{1}{3}a_{n -1}
+a_0 =27
+a_n =27 \cdot \frac{1}{3}^n .
+a_0 .
+a_1,
+a_0
+2, 5, 8, \ldots
+2 =a_1,
+a_0 = -1
+a_0 +3 =a_1
+a_n = -1 +3n .
+a_n =a +(n -1)d
+a_n =a \cdot r^{n -1}
+a
+a_0 .
+a_1
+(T_n)_{n \ge 1}
+1, 3, 6, 10, 15, \ldots .
+3 -1 =2
+6 -3 =3 \not= 2,
+3/1 =3
+6/3 =2,
+2, 3, 4, 5, 6, \ldots .
+T_n -T_{n -1} =n,
+T_n =T_{n -1} +n .
+n
+(T_n)
+n
+1, 2, 3, 4, 5, \ldots .
+(T_n)
+1, 2, 3, \ldots
+T_1 =1 & \lt mi/> =1 \\ T_2 =3 & \lt mi/> =1 +2 \\ T_3 =6 & \lt mi/> =1 +2 +3 \\ T_4 =10 & \lt mi/> =1 +2 +3 +4 \\ \vdots & \vdots \\ T_n & \lt mi/> =1 +2 +3 +\cdots +n .
+T_0 =0 \colon
+T_1 -T_0 = & 1 \\ T_2 -T_1 = & 2 \\ T_3 -T_2 = & 3 \\ \vdots & \~ \\ T_n -T_{n -1} = & n .
+1 +2 +3 +\cdots +n;
+T_n -T_0 =T_n .
+T_{100}
+1 +100 =101 .
+2 +99 =101 .
+3 +98 =101 .
+101,
+T_{100} =101 \cdot 50 =5050 .
+T_n =\frac{n(n +1)}{2} .
+\binom{n +1}{2},
+n +1
+n
+n -1
+a_n =3 \cdot 2^n
+a_n =2n +3
+a_n =a_{n -1} +3
+a_n =3a_{n -1}
+a_n =a_{n -1} +9 .
+a_0 =16 .
+a_0 =16 .
+a_n =
+a_0 =3 .
+a_n =
+a_n =9a_{n -1} .
+a_0 =9 .
+a_0 =9 .
+a_n =
+a_0 =12 .
+a_n =
+2, 4, 8, 16, 32, \ldots .
+a_0 =2 .
+a_n =
+15, 18, 21, 24, 27, \ldots .
+a_0 =15 .
+a_n =
+3, 5, 15, 20, 25, \ldots
+a_0 =3 .
+a_n =a_{n -1} +a_{n -2};
+a_1 =5
+a_n =5 \cdot a_{n -1};
+a_1 =5
+a_n =a_{n -1} +5;
+a_1 =5
+a_n =5 \cdot 5^n
+a_{518}
+a_{2598}
+a_{519}
+x
+y
+125, x, y, 1
+x =
+y =
+x
+y
+x =
+y =
+x
+y
+x
+y
+5, x, y, 44
+x =
+y =
+x
+y
+x =
+y =
+x
+y
+(a, b)
+a, x_1, y_1, b
+a, x_2, y_2, b
+x_1, x_2, y_1, y_2
+2 \times 5
+5 \times 5
+5 \times 7
+7 \times 7
+5 \times 7
+1 \times 2
+1 \times 2
+1 \times 3
+a \not= 0
+r
+a_n =ar^n,
+\frac{a_n}{a_{n -1}} =r .
+n
+(a_n)_{n \ge 1}
+\frac{1}{1}, \frac{1}{3}, \frac{1}{6}, \frac{1}{10}, \frac{1}{15}, \ldots .
+n
+n
+\sum_{k =1}^n \frac{1}{T_k} =\frac{1}{1} +\frac{1}{3} +\frac{1}{6} +\frac{1}{10} +\cdots +\frac{1}{T_n} .
+T_n =\frac{n(n +1)}{2},
+\frac{2}{n(n +1)} .
+\frac{2}{3} -\frac{2}{4},
+\frac{2}{4} -\frac{2}{5} ?
+1, 2, 4, 8, 16, \ldots .
+a_n =2a_{n -1}
+1, 3, 6, 10, 15, \ldots
+3, 5, 8, 12, 17, \ldots
+0, 2, 5, 9, 14, \ldots
+\backslash usepackagecancel
+a
+b,
+a \div b
+b
+a,
+b \mid a .
+b
+a,
+a
+b .
+b \mid a,
+a =bk
+k
+a
+b
+m
+n,
+m
+n
+m \mid n
+n \div m
+m \mid n
+n =mk
+k
+m
+n
+n
+m .
+m \mid n
+n \div m
+n/m
+n/m
+m
+n,
+m \nmid n .
+4 \mid 20
+20 \mid 4
+0 \mid 5
+5 \mid 0
+7 \mid 7
+1 \mid 37
+-3 \mid 12
+8 \mid 12
+1642 \mid 136299
+20 \div 4 =5,
+20
+20 =4 \cdot 5 .
+4
+5 \div 0
+x \mid 0
+x .
+0 =x \cdot 0 .
+x \mid x
+x .
+12 = -3 \cdot 4 .
+3 \mid -12
+-3 \mid -12 .
+12
+8 .
+m \mid n ?
+n \div m .
+m \nmid n .
+m
+n .
+m
+n .
+1642 \mid 136299 .
+1642 \cdot 2 =3284\~1642 \cdot 3 =4926\~1642 \cdot 4 =6568\cdots .
+1642 \cdot 50 =821001642 \cdot 80 =1313601642 \cdot 85 =139570 .
+1642 \cdot 83 =136286 .
+136299 -136286 =13 .
+136299 =83 \cdot 1642 +13 .
+13 \lt 1642,
+1642 \nmid 136299 .
+a
+b
+a
+b,
+q
+a =qb +r
+r
+0 \le r \lt | b|
+b
+r
+r =0,
+b \mid a .
+b
+b .
+b
+5 .
+5 .
+r
+0 \le r \lt 5
+r =0 .
+5
+a =5q +0 .
+\{\ldots, -15, -10, -5, 0, 5, 10, 15, 20, \ldots \} .
+r =1 .
+-6
+-6 = -2 \cdot 5 +4
+-6 = -1 \cdot 5 -1,
+r =4
+r
+r =1,
+-4,
+-9,
+\{\ldots, -14, -9, -4, 1, 6, 11, 16, 21, \ldots \} .
+2,
+3,
+4
+\{\ldots, -13, -8, -3, 2, 7, 12, 17, 22, \ldots \}
+\{\ldots, -12, -7, -2, 3, 8, 13, 18, 23, \ldots \}
+\{\ldots, -11, -6, -1, 4, 9, 14, 19, 24, \ldots \} .
+b
+b
+b =5
+8
+23,
+3 .
+8
+23
+5,
+7,
+8
+8
+8 =23 .
+8 \equiv 23 .
+8 \equiv 23( mod5)
+8 \nequiv 23( mod7) .
+n
+a
+b
+n
+a \equiv b( modn)
+a
+b
+n .
+a
+b
+n .
+n
+a \equiv b( modn)
+n \mid a -b .
+n,
+n .
+a
+b
+n .
+a
+b
+n .
+a =q_1 n +rb =q_2 n +r .
+r
+a
+b \colon
+a -b =q_1 n +r -(q_2 n +r) =q_1 n -q_2 n =(q_1 -q_2)n .
+a -b
+n,
+n \mid a -b .
+n \mid a -b,
+a -b =kn,
+n .
+a
+n
+b
+n .
+kn
+n
+a,
+b,
+n,
+a \equiv b( modn)\~if\space and\space only\space if\~n \mid (a -b) .
+a \equiv b( modn)
+n \mid a -b,
+a -b =kn
+k .
+a =b +kn .
+a
+b
+n,
+a
+b
+n .
+n .
+a,
+b,
+n,
+a \equiv b( modn)\~if\space and\space only\space if\~a =b +kn\~for\space some\space integer\~k .
+n
+n
+n
+a,
+b,
+c,
+n,
+a \equiv a( modn) .
+a \equiv b( modn)
+b \equiv a( modn) .
+a \equiv b( modn)
+b \equiv c( modn),
+a \equiv c( modn) .
+n
+n
+a \equiv b( modn)
+c \equiv d( modn) .
+a +c \equiv b +d( modn) .
+a -c \equiv b -d( modn) .
+ac \equiv bd( modn) .
+a \equiv b( modn)
+a +c \equiv b +c( modn) .
+c =d .
+a \equiv b( modn)
+c \equiv d( modn) .
+a =b +kn
+c =d +jn
+k
+j .
+a +c =b +d +kn +jn .
+kn +jn =(k +j)n,
+n .
+a +c =b +d +(j +k)n,
+a +c \equiv b +d( modn)
+3491
+9 .
+x
+x \equiv 3491( mod9) .
+3491 =3000 +400 +90 +1 .
+90 \equiv 0( mod9),
+x & \lt mi/> \equiv 3000 +400 +90 +1( mod9) \\ -0 & \lt mi/> \equiv 90( mod9) \\ x & \lt mi/> \equiv 3000 +400 +0 +1( mod9) .
+400 =4 \cdot 100,
+100 \equiv 1( mod9)
+9 \mid 99
+100 \equiv 1( mod9),
+4,
+400 \equiv 4( mod9) .
+1000 =1 +999 \equiv 1( mod9) .
+x \equiv 3 +4 +0 +1( mod9)
+x \equiv 8( mod9) .
+3491
+3^{123}
+x
+x \equiv 3^{123} ( mod7) .
+3^{123} =(3^3)^{41} .
+3^{123} =27^{41} \equiv 6^{41} ( mod7),
+27 \equiv 6( mod7) .
+6^2 =36
+6^{41} =6 \cdot (6^2)^{20} \equiv 6 \cdot 1^{20} ( mod7) .
+1^{20} =1,
+3^{123} \equiv 6( mod7) .
+a \equiv b( modn),
+a^p \equiv b^p ( modn) .
+ad \equiv bd( modn),
+a \equiv b( modn) .
+18 \equiv 42( mod8) .
+18
+42
+3 \nequiv 7( mod8) .
+3 \equiv 7( mod4) .
+8
+8
+6 .
+ad \equiv bd( modn) .
+ad =bd +kn
+k .
+ad
+d,
+bd .
+kn
+d .
+n
+d
+d \mid k .
+kn
+d,
+n .
+n
+n
+d
+n,
+n .
+d
+k,
+d
+n
+\gcd (d, n),
+\gcd (6, 8) =2
+ad \equiv bd( modn) .
+a \equiv b( mod\frac{n}{\gcd (d, n)}) .
+d
+n
+\gcd (d, n) =1,
+a \equiv b( modn) .
+24 \equiv 39( mod5)
+24 \equiv 39( mod15) .
+24
+39
+3,
+3
+5
+8 \equiv 13( mod5) .
+8 \equiv 13( mod15)
+3
+15,
+3 .
+8 \equiv 13( mod5) .
+x
+3x +2 \equiv 4( mod5),
+x .
+x =4
+3x +2 =14
+x =9
+x =14
+x =19
+3x +2
+x \in \{0, 1, 2, 3, 4\} .
+3x \equiv 2( mod5) .
+10
+3x \equiv 12( mod5) .
+\gcd (3, 5) =1,
+x \equiv 4( mod5) .
+x =4,
+x
+x =4 +5k
+k .
+x .
+7x \equiv 12( mod13) .
+84x -38 \equiv 79( mod15) .
+20x \equiv 23( mod14) .
+25,
+38,
+51,
+64,
+77
+7x & \lt mi/> \equiv 12( mod13) \\ 7x & \lt mi/> \equiv 77( mod13) \\ x & \lt mi/> \equiv 11( mod13) .
+84 \equiv 9,
+38 \equiv 8
+79 \equiv 4 .
+84x -38 & \lt mi/> \equiv 79( mod15) \\ 9x -8 & \lt mi/> \equiv 4( mod15) \\ 9x & \lt mi/> \equiv 12( mod15) \\ 9x & \lt mi/> \equiv 72( mod15) .
+0 \equiv 60( mod15)
+\gcd (9, 15) =3,
+x \equiv 8( mod5) .
+x \equiv 3( mod15); x \equiv 8( mod15); x \equiv 13( mod15) .
+20x \equiv 23( mod14)
+6x \equiv 9( mod14) .
+2x \equiv 3( mod14) .
+20x \equiv 23( mod14) .
+20x =23 +14k,
+20x -14k =23 .
+ax \equiv b( modn),
+a
+n
+b
+a
+n \colon
+\gcd (a, n) \nmid b,
+ax \equiv b( modn)
+a^2 +b^2 =c^2 .
+a_1 x_1 +a_2 x_x +\cdots +a_n x_n =b
+a_1, \ldots, a_n, b .
+51x +87y =123 .
+51
+87
+123 .
+\gcd (51, 87) \mid 123 .
+3 \mid 123 .
+17x +29y =41 .
+x
+y,
+17x +29y \equiv 41( mod17) .
+17x
+17x +29y & \lt mi/> \equiv 41( mod17) \\ 0x +12y & \lt mi/> \equiv 7( mod17) \\ 12y & \lt mi/> \equiv 24( mod17) \\ y & \lt mi/> \equiv 2( mod17) .
+y =2 +17k
+k .
+x \colon
+17x +29(2 +17k) & \lt mi/> =41 \\ 17x & \lt mi/> = -17 -29 \cdot 17k \\ x & \lt mi/> = -1 -29k .
+k,
+x = -1 -29k
+y =2 +17k
+k =0,
+( -1, 2),
+-17 +2 \cdot 29 =41 .
+k =3,
+( -88, 53) .
+k = -2,
+(57, -32) .
+ax +by =c,
+\gcd (a, b)
+ax +by =c
+a
+b
+b
+b \colon
+ax +by \equiv c( modb) .
+x \colon
+ax \equiv c( modb) .
+x =n +kb .
+y .
+0 \le x, y \le 20
+k
+x
+5
+y
+5x +8y =637 .
+8y & \lt mi/> \equiv 637( mod5) \\ 3y & \lt mi/> \equiv 2( mod5) \\ 3y & \lt mi/> \equiv 12( mod5) \\ y & \lt mi/> \equiv 4( mod5) .
+y =4 +5k .
+5x +8(4 +5k) =637,
+x =121 -8k .
+k .
+k
+(x, y)
+\vdots
+\vdots
+\vdots
+k
+121 -8k
+k =15,
+x =1
+y =79 .
+13x \equiv 6( mod51) .
+13x =6 +51k .
+0 & \lt mi/> \equiv 6 +51k( mod13) \\ -12k & \lt mi/> \equiv 6( mod13) \\ 2k & \lt mi/> \equiv -1( mod13) \\ 2k & \lt mi/> \equiv 12( mod13) \\ k & \lt mi/> \equiv 6( mod13) .
+k =6 +13j .
+x \colon
+13x & \lt mi/> =6 +51(6 +13j) \\ x & \lt mi/> =24 +51j .
+a,
+b,
+c
+a \mid b,
+a \mid bc .
+a,
+b,
+c
+a \mid b
+a \mid c
+a \mid b +c
+a \mid b -c .
+n =4 .
+n
+16
+25
+n ?
+a,
+b,
+c,
+n
+a \equiv b( modn)
+c \equiv d( modn),
+a -c \equiv b -d( modn) .
+3^{456}
+2^{2019} .
+4x \equiv 5( mod6) .
+6x \equiv 3( mod9) .
+x^2 \equiv 2( mod4) .
+4x \equiv 5( mod7) .
+6x \equiv 4( mod9) .
+x^2 \equiv 2( mod7) .
+5x +8 \equiv 11( mod22) .
+6x \equiv 4( mod10) .
+4x \equiv 24( mod30) .
+341x \equiv 2941( mod9) .
+6x +10y =32 .
+17x +8y =31 .
+35x +47y =1 .
+13x +20y =2
+k
+\backslash usepackagecancel
+G .
+A
+B
+A
+B
+A
+B
+A
+A
+B
+| A| =| B|
+A
+B
+a \in A
+b \in B
+a
+b .
+A \colon
+A
+B
+A ?
+G
+A
+B
+n
+n -1
+n,
+n
+S \subseteq A
+N(S)
+S .
+N(S)
+B
+S .
+N(S)
+S .
+G =\{A, B\}
+A,
+| N(S)| \ge | S|
+S \subseteq A .
+G
+| N(S)| \ge | S|
+S \subseteq A
+G
+A
+B .
+G
+A
+| N(S)| \ge | S|
+S \subseteq A .
+G
+A,
+B,
+a \in A
+b \in B
+a
+b .
+A;
+S \subseteq A
+| N(S)| \ge | S| .
+| S| =k .
+| N(S)| \lt k,
+4k
+4k
+k
+A \subseteq V
+V
+n
+K_n
+| V|
+| V|
+| N(S)| \ge | S|
+S \subseteq V,
+\backslash usepackagecancel
+G =(V, E)
+V =\{a, b, c, d, e, f, g\}
+E =\{ab, ac, af, bg, cd, ce\}
+ab
+\{a, b\},
+G
+G' =(V', E')
+V' =\{t, u, v, w, x, y, z\}
+E' =\{tz, uv, uy, uz, vw, vx\} ?
+G''
+G,
+G .
+G'''
+G
+G,
+G ?
+G
+G
+G ?
+G
+G
+n
+n
+n
+n
+n
+n ?
+K_{n, n}
+n
+n
+G
+1, 2, 2, 3, 3, 5 .
+G
+G
+G
+K_7 .
+K_7
+K_{3, 4} ?
+K_{3, 4}
+K_{3, 4}
+K_{3, 3}
+G_1
+G_2
+G_1
+G_2
+G
+7
+G
+G
+v
+e
+G
+v =e .
+C_n
+v =e .
+\backslash usepackagecancel
+[0, \infty)
+f(x) =x^2
+\{0, 1, 2, 3, 4\} .
+1,
+2,
+3,
+(1, 2),
+(1, 3),
+(2, 3) .
+(2, 1),
+(3, 1),
+(3, 2)
+n
+n
+n
+\backslash usepackagecancel
+G,
+\chi (G) .
+\chi (G) =
+\chi (G) =
+\chi (G) =
+\chi (G) =
+\chi (G) =
+\chi (G) =
+K_6 .
+K_{2, 3} .
+K_n
+n .
+n,
+n,
+G
+G
+K_5
+G,
+G
+G .
+n
+K_n .
+n
+n .
+n
+n
+G
+G .
+G
+\Delta (G)
+G .
+\chi (G) \le \Delta (G) +1 .
+\Delta (G) +1
+\Delta (G) +1
+\Delta (G)
+\chi (G) =\Delta (G) +1 .
+n,
+K_n
+n,
+\Delta (K_n) =n -1
+G
+\chi (G) \le \Delta (G),
+G
+\chi (G) =\Delta (G) +1 .
+G
+G,
+\chi '(G) .
+K_6 \colon
+K_6 .
+\chi '(K_6) \ge 5,
+K_5
+\chi '(G) \ge \Delta (G) .
+G,
+\chi '(G)
+\Delta (G)
+\Delta (G) +1 .
+\chi '(G) =\Delta (G)
+\chi '(G) =\Delta (G),
+\Delta (G) \ge 8
+2 \le \Delta (G) \le 5 .
+\Delta (G) =6
+\Delta (G) =7
+\Delta (G) =7
+\Delta (G) =6
+K_4 .
+K_5 ?
+K_6 ?
+K_{17}
+K_{18}
+K_4,
+K_5
+K_{43}
+K_{49} .
+P_{15}
+C_6
+C_5
+K_{5, 15}
+K_5
+P_5
+C_{14}
+C_9
+K_{5, 15}
+K_{14}
+\chi (G)
+\chi '(G)
+\Delta (G)
+G .
+\chi '(G) \ge \Delta (G) .
+n \ge 3,
+\chi '(K_n) =\Delta (K_n) .
+K_{4, 5} ?
+C_n
+n
+n
+K_4 .
+G
+\Delta (G)
+G
+\Delta (G) .
+K_5
+K_6
+\backslash usepackagecancel
+\backslash usepackagecancel
+\backslash usepackagecancel
+P(10, 6), \binom{10}{6}, 10^6, \binom{15}{9} .
+\binom{10}{6} .
+n^k .
+P(n, k) .
+\binom{n}{k} .
+\binom{10}{4},
+P(10, 4),
+(0, 0)
+(10, 4) ?
+\{1, 2, \ldots, 10\}
+\{a, b, c, d\} ?
+\{1, 2, \ldots, 10\}
+\{a, b, c, d\} ?
+\{1, 2, \ldots, 10\}
+x_1 +x_2 +\cdots +x_5 =6
+x_i
+8 \cdot 3 \cdot 3 \cdot 5 .
+8 +3 +3 +5 .
+\alpha =a_1 a_2 a_3 \ldots a_n,
+n
+\{1, 2, 3, 4, 5, 6, 7, 8\} .
+n =4,
+\alpha =a_1 a_2 a_3 a_4
+\{1, 2, 3, 4, 5, 6, 7, 8\} .
+n =11 .
+11
+11
+11
+x^{11}
+(x +3)^{16} +x^3 (x +5)^{20} ?
+(5, 5)
+(10, 10)
+(7, 6) .
+(9, 9) .
+(7, 6)
+(9, 9)
+101
+10
+101
+10
+a, b, c, d, e, f\ldots,
+\sum_{k =0}^n \binom{n}{k} =2^n .
+f \colon \{1, 2, 3, 4, 5, 6\} \to \{1, 2, 3, 4, 5, 6\}
+f(1) =1
+f(2) =2
+f(1) \not= 1
+f(2) \not= 2
+f(1) \not= 1
+f(2) \not= 2,
+f
+f
+\forall x \in \{1, 2, \ldots, 6\},\~f(x) \not= x ?
+\{1, 2, 3, 4, 5, 6\}
+\{1, 2, 3, 4, 5\}
+\backslash usepackagecancel
+\backslash usepackagecancel
+A
+B,
+A \subseteq B
+A
+B .
+A
+B,
+A
+B,
+A \cup B
+A
+B
+B =\{1, 3, 5, 7, 9\} .
+A
+3
+B .
+A \cup B
+A
+A
+B
+A \cup B =B .
+A =
+B =
+A \subseteq B ?
+A
+B
+A \cup B \not= B .
+A =
+B =
+A \subseteq B ?
+A
+B,
+A \cup B \subseteq B .
+A
+B,
+B \subseteq A \cup B .
+A
+B,
+A \subseteq B,
+A \cup B \subseteq B .
+A
+B,
+A \cup B =B,
+A \subseteq B .
+f \colon \mathbb N \to \mathbb N
+A \subseteq \mathbb N,
+A
+f
+f
+A .
+f(A) =\{f(x) \colon x \in A\} .
+f \colon \mathbb N \to \mathbb N
+f(x) =x^2 -3x +8 .
+A =\{1, 2, 3\}
+B =\{2, 4, 6\} .
+f(A)
+f(B) .
+f(A) \cup f(B) .
+f(A) =
+f(B) =
+f(A) \cup F(b) =
+A \cup B
+f(A \cup B) .
+A \cup B =
+f(A \cup B) =
+A
+B
+A \subseteq B
+f(A) \subseteq f(B) .
+A =
+B =
+A
+B
+A \subseteq B
+f(A) \not\subseteq f(B) .
+A =
+B =
+A =\{1, 2, 3, 4, 5\},
+B =\{x \in \mathbb N \colon x \lt 10\} .
+0, 1, 2, \ldots
+A
+B .
+A
+B,
+A \subseteq B,
+A
+B .
+B
+A .
+A
+B,
+A \subset B,
+A \subseteq B
+A \not= B .
+A
+B,
+B
+A .
+A =\{x \in \mathbb N \colon x \lt 5\}
+B =\{x \in \mathbb N \colon x^2 \lt 10\} .
+B \subseteq A ?
+B
+A ?
+A =\{0, 1, 2, 3, 4\}
+B =\{0, 1, 2, 3\}
+3^2 =9
+4^2 =16
+B \subseteq A .
+B \not= A,
+B \subset A .
+B
+A .
+n,
+n
+B,
+n
+A .
+n
+B .
+n^2 \lt 10,
+B .
+4^2 =16,
+n \lt 4 .
+A,
+4 \lt 5,
+n \in A .
+A,
+B,
+C,
+A \subseteq B
+B \subseteq C,
+A \subseteq C .
+A,
+B,
+C
+A \subseteq B
+B \subseteq C .
+A \subseteq C .
+x
+A .
+A \subseteq B,
+x \in B .
+B \subseteq C,
+x \in C .
+A \subseteq C .
+A \subseteq B
+A
+B,
+x,
+x
+A
+x
+B .
+x
+A
+B .
+A \subseteq B,
+A \cup B \subseteq B .
+A \cup B
+A
+B,
+A
+B
+A \subseteq B
+A \cup B \subseteq B .
+A
+B
+A \subseteq B .
+x
+A \cup B .
+x
+A,
+x
+B,
+x
+A,
+A \subseteq B,
+x
+B .
+x
+A,
+x
+B
+x
+A \cup B
+x
+B .
+A \cup B \subseteq B .
+A \subseteq B
+A \cup B =B .
+f \colon A \to B
+A
+B
+A
+B .
+A
+B
+f \colon A \to B
+f \colon A \to B
+B
+A .
+B
+A .
+f \colon \{1, 2, 3, 4\} \to \{a, b, c, d\}
+f = \begin{pmatrix} 1 & 2 & 3 & 4 \\ a & b & c & d \end{pmatrix},
+f(1) =a,
+f(2) =b,
+f(3) =c,
+f(4) =d .
+A =\{1, 2, 3\}
+B =\{2, 4, 6, 8\} .
+f \colon A \to B
+g \colon A \to B
+f = \begin{pmatrix} 1 & 2 & 3 \\ 2 & 8 & 6 \end{pmatrix}, g = \begin{pmatrix} 1 & 2 & 3 \\ 4 & 6 & 4 \end{pmatrix} .
+f
+B
+A .
+g
+B
+A .
+| A|
+A \colon
+A .
+f \colon A \to B
+A
+B
+| A| >| B|,
+f
+f
+| A| \le | B| .
+| B| =n .
+f
+B
+A .
+n
+A
+B
+f .
+n
+A .
+f \colon X \to Y
+A \subseteq X,
+A
+f
+f(A) =\{f(a) \in Y \colon a \in A\} .
+f(A)
+A .
+f \colon \mathbb N \to \mathbb N
+f(n) =2n .
+A =\{1, 2, 3\} .
+f(A) .
+A
+f .
+f(1) =2; f(2) =4; f(3) =6 .
+f(A) =\{2, 4, 6\} .
+f \colon X \to Y
+A
+B
+X .
+A \subseteq B,
+f(A) \subseteq f(B) .
+f,
+A,
+B
+A \subseteq B .
+y \in f(A) .
+a \in A
+f(a) =y .
+a \in A
+A \subseteq B,
+a \in B .
+y =f(a) \in f(B) .
+y
+f(A),
+f(A) \subseteq f(B) .
+f(A)
+f(B)
+A
+A .
+A .
+x \lt y .
+(3, 5)
+\lt .
+=
+\le
+\perp
+\sim
+x \sim y,
+R,
+R(x, y)
+xRy
+(x, y) \in R
+R
+A
+x, y, z \in A,
+xRy
+yRz,
+xRz .
+\sim
+\sim
+\sim
+\sim
+a,
+b,
+c
+a \sim b,
+b \sim c,
+a \not\sim c
+\sim
+a
+b
+a \sim b
+a
+b .
+a,
+b,
+c
+a \sim b
+b \sim c .
+a
+b,
+b
+c .
+a
+c
+b,
+a \sim c
+\sim
+V
+E
+v
+G .
+v,
+d(v),
+v,
+v .
+G
+V =\{1, 2, 3, 4\}
+E =\{\{1, 2\}, \{1, 3\}, \{1, 4\}, \{2, 3\}\} .
+G ?
+d(1) =3,
+d(2) =2,
+d(3) =2,
+d(4) =1 .
+15 \cdot 3 =45 .
+45/2 =22.5 .
+f \colon A \to B
+A
+B .
+B
+A .
+A
+B .
+B
+A .
+A
+B,
+A
+B,
+A \cap B,
+A
+B .
+A \cap B =B
+B \subseteq A .
+b
+B
+A .
+b
+B .
+a
+A \cap B .
+a
+A .
+A
+B
+A \cap B \subseteq A .
+a
+A \cap B .
+a
+A \cap B
+A .
+a
+A .
+a
+A
+A \cap B .
+A
+B,
+B \subseteq A \cap B
+B \subseteq A .
+b
+A \cap B
+B \subseteq A \cap B .
+B \subseteq A \cap B
+A \subseteq B .
+B \subseteq A \cap B
+b
+B .
+b
+A \cap B .
+A \cap B
+A
+B,
+b
+A .
+B \subseteq A .
+B \subseteq A .
+b
+B
+B \subseteq A \cap B .
+A
+B,
+(A \cap B) \cup A =A
+x
+A .
+A \subseteq (A \cap B) \cup A .
+(A \cap B) \cup A \subseteq A
+A \subseteq (A \cap B) \cup A,
+(A \cap B) \cup A =A .
+x
+(A \cap B) \cup A .
+x
+A \cap B
+x
+A .
+(A \cap B) \cup A \subseteq A .
+A \subseteq (A \cap B) \cup A .
+x
+(A \cap B) \cup A,
+x
+A
+x
+A .
+(A \cap B) \cup A \subseteq A .
+f \colon X \to Y
+B \subseteq Y
+B
+f
+f^{ -1} (B) =\{x \in X \colon f(x) \in B\} .
+B .
+B_1 \subseteq B_2
+f^{ -1} (B_1) \subseteq f^{ -1} (B_2) .
+B_1 \subseteq B_2 .
+b
+B_2 .
+f(a)
+B_1 .
+a
+f^{ -1} (B_1) .
+b
+B_1 .
+B_1 \subseteq B_2 .
+a
+f^{ -1} (B_2) .
+B_1 \subseteq B_2,
+f(a)
+B_2 .
+f^{ -1} (B_1) \subseteq f^{ -1} (B_2) .
+A
+B,
+A \subseteq B
+A \cup B =B .
+A \subseteq B
+A \cup B =B,
+A \subseteq B,
+A \cup B =B .
+A \cup B =B,
+A \subseteq B .
+A
+B,
+A \cap B,
+A
+B .
+A
+B,
+A \subseteq B
+A \cap B =A .
+A,
+B,
+C,
+A \cup B \subseteq C,
+A \subseteq C
+B \subseteq C .
+A,
+B,
+C,
+A \subseteq C
+B \subseteq C,
+A \cup B \subseteq C .
+A
+B,
+A \setminus B,
+A
+B .
+\varnothing,
+A \setminus B =A
+A \cap B =\varnothing .
+A \setminus B =B \setminus A
+A =B .
+f \colon X \to Y
+A
+B
+X .
+f(A \cap B) \subseteq f(A) \cap f(B) .
+A
+B
+f(A \cap B) \not= f(A) \cap f(B) .
+f \colon X \to Y
+A
+B
+X .
+f(A \cup B) \subseteq f(A) \cup f(B) .
+f(A) \cup f(B) \subseteq f(A \cup B)
+f \colon X \to Y
+B \subseteq Y,
+B
+f
+f^{ -1} (B) =\{x \in X \colon f(x) \in B .
+B .
+f \colon \mathbb N \to \mathbb N
+f(n) =n^2,
+f^{ -1} (\{1, 4, 9\})
+f^{ -1} (\{2, 3, 5, 7\})
+f^{ -1} (\{1, 2, \ldots, 10\})
+C \subseteq X,
+C \subseteq f^{ -1} (f(C)) .
+f
+C
+C \not= f^{ -1} (f(C)) .
+D \subseteq Y,
+f(f^{ -1} (D)) \subseteq D .
+f
+D
+f(f^{ -1} (D)) \not= D .
+f \colon X \to Y
+A
+B
+Y .
+f^{ -1} (A \cap B) =f^{ -1} (A) \cap f^{ -1} (B) .
+f \colon X \to Y
+A
+B
+Y .
+f^{ -1} (A \cup B) =f^{ -1} (A) \cup f^{ -1} (B) .
+|
+\mathbb Z
+a|b
+b
+a .
+\le
+\mathbb R .
+\perp
+\sim
+\backslash usepackagecancel
+4 \mathratio 6
+24 \colon 36,
+S
+S
+\frac{1}{| S|} .
+\{HH, HT, TH, TT\} .
+\frac{1}{4} .
+\frac{1}{4}
+\{1, 2, 3, 4, 5, 6\} .
+\{2, 4, 6\}
+3
+\{1, 2\}
+10
+\{1, 2, 3, 4, 5, 6\}
+2^6 =64
+64
+\frac{1}{2} .
+3
+\frac{1}{3}
+10 ?
+100%,
+1 .
+S .
+E
+E
+S .
+P(E) =\frac{| E|}{| S|} .
+\{1, 2, 3, 4, 5, 6\}
+E
+\{2, 4, 6\} .
+E
+P(E) =\frac{3}{6} =\frac{1}{2} .
+\binom{52}{5}
+2,598,960
+\binom{13}{1} =13
+13 \cdot 48 =624 .
+P(4-of-a-kind) =\frac{13 \cdot 48}{\binom{52}{5}} \approx 0.00024 .
+P(52, 5) =311,875,200 .
+5!
+13 \cdot 48 \cdot 5! .
+P(4-of-a-kind) =\frac{13 \cdot 48 \cdot 5!}{P(52, 5)} \approx 0.00024 .
+5!
+E
+\overline{E} .
+E
+P(\overline{E}) =1 -P(E) .
+P(E) =\frac{| E|}{| S|},
+E
+E ?
+| \overline{E}| =| S| -| E| .
+P(\overline{E}) =\frac{| \overline{E}|}{| S|} =\frac{| S| -| E|}{| S|} =\frac{| S|}{| S|} -\frac{| E|}{| S|} =1 -P(E) .
+2^{10} =1024
+1024
+1023
+\frac{1023}{1024} .
+1 -P(all\space tails) =1 -\frac{1}{1024} =\frac{1023}{1024} .
+1 -\frac{1}{1024} =\frac{1024}{1024} -\frac{1}{1024} =\frac{1024 -1}{1024} =\frac{1023}{1024} .
+6^4
+5^4
+P(at\space least\space one\space 6) =1 -P(no\space 6) =1 -\frac{5^4}{6^4} \approx 0.5177 .
+P(at\space least\space one\space double\space 6) =1 -P(no\space double\space 6) =1 -\frac{35^{24}}{36^{24}} \approx 0.4914 .
+P(E) +P(\overline{E}) =1 .
+E
+A
+B
+A
+B
+P(A \cup B) =P(A) +P(B) .
+A
+B
+A
+B
+P(A \cup B) =P(A) +P(B) -P(A \cap B) .
+\{1, 2, 3, 4, 5, 6\}
+E =\{1, 2, 4, 6\} .
+P(E) =\frac{4}{6} .
+4
+A
+A =\{2, 4, 6\}
+B
+B =\{1, 2\}
+P(E) =P(A \cup B)
+E =A \cup B .
+P(E) =\frac{| E|}{| S|} =\frac{| A \cup B|}{| S|} .
+A \cup B .
+| A \cup B| =3 +2 -1 =4 .
+S =\{(1, H), (1, T), (2, H), (2, T), (3, H), (3, T), (4, H), (4, T), (5, H), (5, T), (6, H), (6, T)\} .
+| S| =6 \cdot 2 =12 .
+E =\{(2, H), (4, H), (6, H)\} .
+3,
+3 \cdot 1 .
+P(E) =\frac{3}{12} =\frac{1}{4} .
+A
+B
+P(A) =\frac{3}{6} .
+P(B) =\frac{1}{2} .
+P(E) =(A\~and\~B) =P(A)P(B) =\frac{3}{6}\frac{1}{2} =\frac{1}{4} .
+A
+B,
+P(A \cap B) =P(A)P(B) .
+A
+B
+A \cap B .
+\{1, 2, 3\}\~and\~\{H, T\}\~into\~\{1H, 1T, 2H, 2T, 3H, 3T\} .
+A \times B =\{(a, b) \colon a \in A; b \in B\}
+A
+B
+A
+A =\{(2, H), (2, T), (4, H), (4, T), (6, H), (6, T)\}
+B
+B =\{(1, H), (2, H), (3, H), (4, H), (5, H), (6, H)\} .
+P(A) =\frac{6}{12}
+P(B) =\frac{6}{12},
+P(A)P(B) =\frac{6}{12}\frac{6}{12} =\frac{36}{144} =\frac{1}{4} .
+A
+B
+A \cap B =\{(2, H), (4, H), (6, H)\}
+P(A \cap B) =\frac{3}{12} =\frac{1}{4} .
+A
+B
+C
+A
+B
+A
+C ?
+B
+C ?
+\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12\} .
+A
+\{3, 6, 9, 12\},
+B
+\{4, 8, 12\},
+C
+\{1, 2, 3, 4, 5, 6\} .
+P(A) =\frac{4}{12} =\frac{1}{3}, P(B) =\frac{3}{12} =\frac{1}{4}, P(C) =\frac{6}{12} =\frac{1}{2} .
+A
+B
+P(A \cap B) .
+A
+B
+\frac{1}{12}
+P(A)P(B) =\frac{1}{3}\frac{1}{4} =\frac{1}{12} .
+B
+C
+B \cap C =\{4\},
+P(B \cap C) =\frac{1}{12} .
+P(B)P(C) =\frac{1}{4}\frac{1}{2} =\frac{1}{8} .
+A
+C
+P(A \cap C) =\frac{2}{12} =\frac{1}{6}
+P(A)P(C) =\frac{1}{3}\frac{1}{2} =\frac{1}{6} .
+\frac{1}{2} .
+A
+B,
+A
+B
+P(A|B) =\frac{P(A \cap B)}{P(B)} .
+A
+B
+B .
+B
+A
+A
+B .
+P(A|B) =\frac{| A \cap B|}{| B|} .
+P(A|B) =\frac{P(A \cap B)}{P(B)} =\frac{\frac{| A \cap B|}{| S|}}{\frac{| B|}{| S|}} =\frac{| A \cap B|}{| B|} .
+\frac{6}{36} =\frac{1}{6},
+\{(1, 6), (2, 5), (3, 4), (4, 3), (5, 2), (6, 1)\} .
+6 +6 -1
+\{(3, 4), (4, 3)\} .
+\frac{2}{11} .
+A
+B
+P(B) =\frac{11}{36}
+P(A \cap B) =\frac{2}{36} .
+P(A|B) =\frac{2}{11} .
+\frac{1}{6},
+52 \cdot 51
+A
+B
+P(A|B)
+P(B|A),
+P(A),
+P(B),
+P(A \cap B) .
+26 \cdot 51
+A
+P(A) =\frac{26 \cdot 51}{52 \cdot 51} =\frac{26}{52} =\frac{1}{2} .
+12 \cdot 51
+B
+P(B) =\frac{12 \cdot 51}{52 \cdot 51} =\frac{12}{52} =\frac{3}{13} .
+20 \cdot 12
+6 \cdot 11
+P(A \cap B) =\frac{20 \cdot 12 +6 \cdot 11}{52 \cdot 51} =\frac{306}{2652} =\frac{3}{26} .
+P(B|A) =\frac{P(A \cap B)}{P(A)} =\frac{\frac{3}{26}}{\frac{1}{2}} =\frac{3}{13} .
+P(A|B) =\frac{P(A \cap B)}{P(B)} =\frac{\frac{3}{26}}{\frac{3}{13}} =\frac{1}{2} .
+P(A|B) =P(A),
+P(B|A) =P(B) .
+P(A|B) =\frac{P(A \cap B)}{P(B)}
+P(A \cap B) =P(B)P(A|B) .
+P(A)
+P(A|B) .
+P(A|B)
+A
+B
+A
+B
+P(A|B) =P(A) .
+P(A \cup B) =P(A) +P(B) ?
+A
+B
+A
+B
+A
+B ?
+P(A \cap B) =P(A)P(B) .
+P(A \cap B) =P(B)P(A|B)
+P(A \cap B) =P(A)P(A|B)
+P(A \cap B) =P(A)P(B|A)
+\div
+=
+0.5 .
+P(tails) =
+P(red) =
+P(2\space tails) =
+P(2\space reds) =
+P(3\space tails) =
+P(3\space reds) =
+P(4\space tails) =
+P(4\space reds) =
+P(5\space tails) =
+P(5\space reds) =
+\binom{52}{5} .
+P(52, 5) .
+10^5 .
+\backslash usepackagecancel
+4 \cdot 10 \cdot 15 =600 =5 \cdot 6 \cdot 20 .
+10! ?
+\binom{0}{0} .
+\binom{1}{0}
+\binom{1}{1} .
+\binom{4}{0}\binom{4}{1}\binom{4}{2}\binom{4}{3}\binom{4}{4} .
+\binom{n}{0} =1
+\binom{n}{n} =1 .
+\binom{n}{k} =\binom{n -1}{k -1} +\binom{n -1}{k} .
+\binom{n}{k} =\binom{n}{n -k} .
+\binom{n}{0} +\binom{n}{1} +\binom{n}{2} +\cdots +\binom{n}{n} =2^n .
+n
+k .
+\binom{n}{k} \colon
+\binom{n}{k} =\frac{n!}{(n -k)!k!} .
+\binom{n}{k} =\binom{n -1}{k -1} +\binom{n -1}{k} .
+\binom{n}{k},
+\binom{n -1}{k -1} =\frac{(n -1)!}{(n -1 -(k -1))!(k -1)!} =\frac{(n -1)!}{(n -k)!(k -1)!}
+\binom{n -1}{k} =\frac{(n -1)!}{(n -1 -k)!k!} .
+\binom{n -1}{k -1} +\binom{n -1}{k} & \lt mi/> =\frac{(n -1)!}{(n -k)!(k -1)!} +\frac{(n -1)!}{(n -1 -k)!k!} \\ \~ & \lt mi/> =\frac{(n -1)!k}{(n -k)!k!} +\frac{(n -1)!(n -k)}{(n -k)!k!} \\ \~ & \lt mi/> =\frac{(n -1)!(k +n -k)}{(n -k)!k!} \\ \~ & \lt mi/> =\frac{n!}{(n -k)!k!} \\ \~ & \lt mi/> =\binom{n}{k} .
+k(k -1)! =k!
+(n -k)(n -k -1)! =(n -k)! .
+\binom{n}{k}
+\binom{n -1}{k -1} +\binom{n -1}{k}
+\binom{n}{0} =1
+\binom{n}{n} =1 .
+\binom{n}{0}
+n
+\binom{n}{0} =1 .
+\binom{n}{n}
+n
+n
+n
+\binom{n}{n} =1 .
+\binom{n}{0}
+n
+\binom{n}{0} =1 .
+\binom{n}{n}
+n
+n .
+\binom{n}{0}
+n
+\binom{n}{n}
+n
+\binom{n}{k} =\binom{n -1}{k -1} +\binom{n -1}{k} .
+\binom{n}{k}
+n
+k
+n -1
+n
+k -1
+k
+\binom{n -1}{k -1}
+n
+k
+\binom{n -1}{k -1}
+\binom{n -1}{k}
+n -1
+k
+\binom{n -1}{k}
+n -1
+k
+n
+k
+\binom{n}{k} =\binom{n -1}{k -1} +\binom{n -1}{k} .
+k
+n
+\binom{n}{k} .
+k -1
+n -1
+\binom{n -1}{k -1}
+k
+n -1
+\binom{n -1}{k}
+\binom{n -1}{k -1} +\binom{n -1}{k} .
+\binom{n}{k} =\binom{n -1}{k -1} +\binom{n -1}{k} .
+\binom{n}{k} =\binom{n}{n -k} .
+\binom{n}{k}
+k
+n
+\binom{n}{n -k}
+n -k
+n
+n -k
+n -k
+n
+\binom{n}{n -k}
+n -k
+k
+k
+n
+\binom{n}{k} .
+k
+n -k
+\binom{n}{n -k}
+k
+k
+\binom{n}{k} =\binom{n}{n -k} .
+\binom{n}{k}
+n
+k
+n
+k
+n
+k
+n -k
+\binom{n}{n -k}
+n
+n -k
+\binom{n}{0} +\binom{n}{1} +\binom{n}{2} +\cdots +\binom{n}{n} =2^n .
+2^n
+n
+2^n .
+\binom{n}{0}
+n
+n
+\binom{n}{1} .
+\binom{n}{0}
+\binom{n}{1}
+\binom{n}{2}
+\vdots
+n
+\binom{n}{n} .
+\binom{n}{k} .
+(x +y)^n \colon
+(x +y)^n =\binom{n}{0}x^n +\binom{n}{1}x^{n -1} y +\binom{n}{2}x^{n -2} y^2 +\cdots +\binom{n}{n -1}x \cdot y^{n -1} +\binom{n}{n}y^n .
+x =1
+y =1 .
+(1 +1)^n =\binom{n}{0}1^n +\binom{n}{1}1^{n -1} 1 +\binom{n}{2}1^{n -2} 1^2 +\cdots +\binom{n}{n -1}1 \cdot 1^{n -1} +\binom{n}{n}1^n .
+(2)^n =\binom{n}{0} +\binom{n}{1} +\binom{n}{2} +\cdots +\binom{n}{n -1} +\binom{n}{n} .
+x =1
+y =2 .
+A =B
+A .
+B .
+A
+B
+A =B .
+\binom{10}{4}
+3
+\binom{6}{3}
+\binom{3}{2}
+\binom{1}{1} .
+\binom{10}{4}\binom{6}{3}\binom{3}{2}\binom{1}{1} .
+\binom{10}{1}
+\binom{9}{2}
+7
+\binom{7}{3}
+\binom{4}{4}
+\binom{10}{1}\binom{9}{2}\binom{7}{3}\binom{4}{4} .
+\binom{10}{4}\binom{6}{3}\binom{3}{2}\binom{1}{1} =\binom{10}{1}\binom{9}{2}\binom{7}{3}\binom{4}{4} .
+1n +2(n -1) +3(n -2) +\cdots +(n -1)2 +n1 =\binom{n +2}{3} .
+\binom{n +2}{3}
+n +2
+1, 2, 3, \ldots, n +2 .
+\{1, 2, 3, \ldots, n +2\} ?
+n +2
+\binom{n +2}{3}
+\{a, b, c\}
+b .
+b
+2,
+n +1 .
+b =2,
+1 \cdot n
+a
+n
+n +2
+c .
+b =3,
+2 \cdot (n -1)
+a
+n -1
+c .
+b =4,
+3 \cdot (n -2)
+a
+n -2
+c .
+b =n +1,
+n
+a
+c,
+n \cdot 1
+1n +2(n -1) +3(n -2) +\cdots +(n -1)2 +n1 .
+1n +2(n -1) +3(n -2) +\cdots +(n -1)2 +n1 =\binom{n +2}{3} .
+\binom{n}{0}^2 +\binom{n}{1}^2 +\binom{n}{2}^2 +\cdots +\binom{n}{n}^2 =\binom{2n}{n} .
+n
+2n
+2n
+n .
+\binom{2n}{n}
+n
+n
+n
+n
+\binom{n}{0}\binom{n}{n},
+n
+n
+n
+\binom{n}{1}\binom{n}{n -1},
+n
+n -1
+n
+\binom{n}{2}\binom{n}{n -2} .
+n -2
+n
+n
+\binom{n}{n}\binom{n}{0}
+\binom{n}{0}\binom{n}{n} +\binom{n}{1}\binom{n}{n -1} +\binom{n}{2}\binom{n}{n -2} +\cdots +\binom{n}{n}\binom{n}{0} .
+\binom{n}{n} =\binom{n}{0}
+\binom{n}{n -1} =\binom{n}{1}
+\binom{n}{0}^2 +\binom{n}{1}^2 +\binom{n}{2}^2 +\cdots +\binom{n}{n}^2 .
+\binom{n}{0}^2 +\binom{n}{1}^2 +\binom{n}{2}^2 +\cdots +\binom{n}{n}^2 =\binom{2n}{n} .
+(0, 0)
+(n, n) .
+(0, 0)
+(n, n) ?
+2n
+n
+\binom{2n}{n}
+(0, 0)
+(n, n)
+x +y =n .
+(0, n),
+(1, n -1),
+(2, n -2),
+(n, 0) .
+n =4 \colon
+(0, n) ?
+n
+0
+\binom{n}{0}
+(0, n) .
+(0, n)
+(n, n)
+n
+0
+\binom{n}{0}
+(0, n)
+(n, n) .
+\binom{n}{0}\binom{n}{0}
+(0, 0)
+(n, n)
+(0, n)
+(1, n -1) .
+\binom{n}{1}
+n
+\binom{n}{1}
+(n, n)
+n
+1
+\binom{n}{1}\binom{n}{1}
+(0, 0)
+(n, n)
+(1, n -1) .
+(n, n)
+(k, n -k)
+\binom{n}{k}
+\binom{n}{k}
+(n, n) .
+\binom{n}{k}\binom{n}{k}
+(0, 0)
+(n, n)
+(k, n -k) .
+(0, 0)
+(n, n)
+\binom{n}{0}^2 +\binom{n}{1}^2 +\binom{n}{2}^2 +\cdots +\binom{n}{n}^2 .
+\binom{n}{0}^2 +\binom{n}{1}^2 +\binom{n}{2}^2 +\cdots +\binom{n}{n}^2 =\binom{2n}{n} .
+\binom{x +y}{x} =\binom{x +y}{y} .
+10 +10 =2 \cdot 10 .
+2 \cdot 10 .
+10 +10 .
+10 +10 =2 \cdot 10 .
+\binom{n}{2}\binom{n -2}{k} =\binom{n}{k}\binom{n -k}{2},
+n
+2
+k
+n
+k
+k
+n
+2
+n
+k
+2 +2 +2 =3 \cdot 2 .
+x
+y
+x
+y
+\binom{x +y}{2} -\binom{x}{2} -\binom{y}{2} .
+\binom{x +y}{2} -\binom{x}{2} -\binom{y}{2} =xy . .
+x
+y
+m
+n
+6\binom{15}{6} =15\binom{14}{5} .
+k\binom{n}{k} =n\binom{n -1}{k -1} .
+n
+k .
+\binom{n}{k}
+\binom{n}{2}\binom{n -2}{k -2} =\binom{n}{k}\binom{k}{2} .
+\binom{n}{1} +2\binom{n}{2} +3\binom{n}{3} +\cdots +n\binom{n}{n} =n2^{n -1} .
+n
+(1 +x)^n
+1 +2 +3 +\cdots +n =\binom{n +1}{2} .
+\mathbf B_2^6
+\mathbf B_2^6 ?
+n
+n
+n
+n
+n -1
+n
+n -2
+n
+n -k
+n
+\binom{n}{0} +2\binom{n}{1} +2^2 \binom{n}{2} +2^3 \binom{n}{3} +\cdots +2^n \binom{n}{n} =3^n .
+\binom{2}{2}\binom{n}{2} +\binom{3}{2}\binom{n -1}{2} +\binom{4}{2}\binom{n -2}{2} +\cdots +\binom{n}{2}\binom{2}{2} =\binom{n +3}{5} .
+\binom{n}{0} +\binom{n}{1} +\binom{n}{2} +\cdots +\binom{n}{n} =2^n .
+n
+2^n
+\binom{n}{k}
+9
+n
+k
+k_1, k_2, \ldots, k_j
+n
+\sum_{i =1}^j k_i =n
+n
+\sum_{i =1}^j \binom{k_i}{2} \le \binom{n}{2} .
+K_n
+j =1
+\backslash usepackagecancel
+[0, 1],
+f(0) = -1
+f(1) =5,
+[0, 1]
+x
+\backslash usepackagecancel
+8 \times 8
+1 \times 1,
+2 \times 2,
+3 \times 3,
+n \times n
+n
+T_n =\frac{n(n +1)}{2} =\frac{n^2}{2} +\frac{n}{2} .
+1 +11 =
+3 +9 =
+5 +7 =
+3 \cdot
+n
+n
+n/2
+n
+T_n
+\~ & T_n & = & 1 & + & 2 & + & 3 & +\cdots + & n \\ + & T_n & = & n & + & (n -1) & + & (n -2) & +\cdots + & 1 \\ \~ & 2T_n & = & n +1 & + & n +1 & + & n +1 & +\cdots + & n +1
+2T_n .
+n
+2T_n =n(n +1) .
+T_n
+T_n =\frac{n(n +1)}{2},
+2 +5 +8 +11 +14 +\cdots +470 .
+S .
+S =
+2
++
+5
++
+8
++\cdots +
+467
++
++S =
+470
++
+467
++
+464
++\cdots +
+5
++
+2S =
+472
++
+472
++
+472
++\cdots +
+472
++
+472
+2S
+n
+2
+2 +3n .
+2 +3n =470
+n =156 .
+n
+2S .
+2S =157 \cdot 472 =74104 .
+S \colon
+S =74104/2 =37052 .
+S .
+6 +10 +14 +\cdots +(4n -2) .
+4k -2
+k
+k =2 .
+4n -2
+k =n .
+2, 3, \ldots, n .
+n -1 .
+n
+n,
+S =
+6
++
+10
++\cdots +
+4n -6
++
+4n -2
++S =
+4n -2
++
+4n -6
++\cdots +
+10
++
+2S =
+4n +4
++
+4n +4
++\cdots +
+4n +4
++
+4n +4
+n -1
+2S =(n -1)(4n +4)\~so\~S =\frac{(n -1)(4n +4)}{2} .
+(a_n)_{n \ge 0}
+2, 3, 7, 14, 24, 37, \ldots \ldots .
+a_n =a_{n -1} +3n -2 .
+(d_n)_{n \ge 1} \colon
+1, 4, 7, 10, 13, \ldots,
+d_n =3n -2,
+a_0 & \lt mi/> =2 \\ a_1 & \lt mi/> =2 +1 =2 +d_1 \\ a_2 & \lt mi/> =2 +1 +4 =2 +d_1 +d_2 \\ a_3 & \lt mi/> =2 +1 +4 +7 =2 +d_1 +d_2 +d_3
+(a_n)
+a_n =2 +1 +4 +7 +10 +\cdots +3n -2 .
+a_n =
+2
++
+1
++
+4
++\cdots +
+3n -2
++a_n =
+2
++
+3n -2
++
+3(n -1) -2
++\cdots +
+1
+2a_n =
+4
++
+2 +3n -3
++
+2 +3n -3
++\cdots +
+2 +3n -3
+n
+2 +3n -3 =3n -1
+4 +(3n -1)n .
+a_n
+a_n =\frac{4 +(3n -1)n}{2} .
+a_0 =\frac{4}{2} =2,
+a_1 =\frac{4 +2}{2} =3,
+n
+n
+64
+8 \times 8
+1 \times 1
+2 \times 2
+1, 5, 14, 30, 55, \ldots .
+4, 9, 16, 25, \ldots .
+4 \times 4
+16
+5, 7, 9, \ldots,
+\Delta^3
+1, 4, 9, 16, \ldots
+\Delta^2
+\Delta^k
+k
+\Delta^k
+k ?
+2, 3, 7, 14, 24, 37, \ldots .
+1, 8, 27, 64, 125, 216, \ldots .
+1, 2, 4, 8, 16, 32, 64, \ldots .
+1, 4, 7, 10, 13, \ldots,
+3, 3, 3, 3, \ldots .
+2, 3, 7, 14, 24, 37, \ldots
+\Delta^2
+7, 19, 37, 61, 91, \ldots;
+12, 18, 24, 30, \ldots;
+6, 6, 6, \ldots .
+\Delta^3
+1, 2, 4, 8, 16, \ldots .
+\Delta^k
+k .
+\Delta^0
+\Delta^1
+\Delta^2
+\Delta^2
+\Delta^2
+a_n =n^2 .
+\Delta^2
+a_n =\frac{n(n +1)}{2},
+n^2
+k
+\Delta^k
+k
+1, 5, 14, 30, 55, \ldots,
+\Delta^3
+k
+k +1
+3, 7, 14, 24, \ldots .
+a_1 =3 .
+4, 7, 10, \ldots
+\Delta^2
+a_n
+a,
+b,
+c,
+a_n =an^2 +bn +c .
+a,
+b,
+c .
+a_0
+n =0
+a_0 =2
+a_0 =2 =a \cdot 0^2 +b \cdot 0 +c,
+c =2 .
+n =1
+n =2 .
+a_1 =3 =a +b +2
+a_2 =7 =a4 +b2 +2 .
+a
+b
+a =\frac{3}{2}
+b =\frac{ -1}{2},
+a_n =\frac{3}{2}n^2 -\frac{1}{2}n +2 .
+n \times n
+1, 5, 14, 30, 55, \ldots
+\Delta^3
+a_n =an^3 +bn^2 +cn +d .
+d
+a_0
+a_0 =0
+0 \times 0
+d =0 .
+n =1,
+n =2,
+n =3 \colon
+1 = & a +b +c \\ 5 = & 8a +4b +2c \\ 14 = & 27a +9b +3c .
+a =\frac{1}{3},
+b =\frac{1}{2}
+c =\frac{1}{6} .
+n \times n
+a_n =\frac{1}{3}n^3 +\frac{1}{2}n^2 +\frac{1}{6}n =\frac{1}{6}n(n +1)(2n +1) .
+\sum_{k =1}^n k^2 .
+(a_n)_{n \ge 0}
+2, 3, 7, 14, 24, 37, \ldots .
+a_n =a_{n -1} +3n -2
+1, 4, 7, 10, 13, \ldots
+3, 3, 3, 3, \ldots
+a_n
+a_n =an^2 +bn +c .
+a_0 =2,
+c =2
+a \cdot 0^2 +b \cdot 0^2 +c =2
+n =1
+n =2 \colon
+a_1 =3 = & a \cdot 1^2 +b \cdot 1 +2 \\ a_2 =7 = & a \cdot 2^2 +b \cdot 2 +2.
+a
+b
+1 = & a +b \\ 5 = & 4a +2b .
+a =\frac{3}{2}
+b = -\frac{1}{2} .
+a_n =\frac{3}{2}n^2 -\frac{1}{2}n +2 .
+1, 2, 4, 8, 16, \ldots
+0, 7, 50, 183, 484, 1055, \ldots
+1, 1, 2, 3, 5, 8, 13, \ldots
+\Delta^k
+k .
+a_n =2^n,
+7, 43, 133, 301, 571, \ldots .
+36, 90, 168, 270, \ldots .
+54, 78, 102, \ldots .
+24, 24, \ldots .
+\Delta^4
+0, 1, 1, 2, 3, 5, 8, \ldots,
+1, 0, 1, 1, 2, 3, 5\ldots .
+n
+n +1
++1
+n
+n +1
+n +1
+n
+n
+n,
+n^2
+a_0
+1 = & a +b +c \\ 5 = & 8a +4b +2c \\ 14 = & 27a +9b +3c
+A = \begin{bmatrix} 1 & 1 & 1 \\ 8 & 4 & 2 \\ 27 & 9 & 3 \end{bmatrix}
+b = \begin{bmatrix} 1 \\ 5 \\ 14 \end{bmatrix} .
+Ax =b .
+x
+[a, b, c]
+n
+3, 4, 7, 11, 18, 29, \ldots
+3, 5, 8, 12, 18, \ldots
+3, 7, 11, 15, 19, \ldots
+3, 4, 7, 13, 23, \ldots
+(a_n)
+(a_n) ?
+10, 14, 18, 22, 26, \ldots
+a_1 =10 .
+n
+a_n =
+10, 14, 18, 22, 26, \ldots, 550
+10 +14 +18 +22 +26 +\cdots +550
+b_n,
+n
+5, 15, 29, 47, 69, \ldots
+b_0 =5 .
+b_n =
+(a_n)_{n \ge 0}
+2, 14, 26, 38, \ldots .
+n
+a_n =
+\sum_{k =0}^{99} a_k .
+3 +12 +21 +30 +\cdots +291 .
+10, 15, 20, 25, \ldots, 5n +0 .
+n .
+n .
+6 +17 +28 +39 +\cdots +3823
+n
+(a_n)_{n \ge 0}
+0, 5, 14, 27, 44, 65, \ldots
+a_n =
+n
+(a_n)_{n \ge 0}
+-1, 2, 7, 14, 23, 34, \ldots
+a_n =
+n
+(a_n)_{n \ge 0}
+-1, 4, 18, 50, 109, 204, \ldots
+a_n =
+n
+(a_n)_{n \ge 1}
+5, 36, 107, 236, 441, \ldots
+a_1,
+a_0 .
+a_n =
+a_n =3n^2 -3n -5 .
+a_n -a_{n -1} .
+a_n -a_{n -1} =
+n
+(a_n)_{n \ge 1}
+8, 34, 84, 164, 280, \ldots
+a_1,
+a_0 .
+a_n =
+n
+n
+1, 3, 7, 13, 21, \ldots .
+1, 4, 9, 16, \ldots
+2, 11, 34, 77, 146, 247, \ldots .
+2, 7, 15, 26, 40, 57, \ldots
+a_0 =2
+n
+t_n
+n
+t_1, t_2, \ldots .
+n \times n
+3 \times 3
+n \times n
+a_1 =1,
+a_2 =5,
+a_n =an^2 +bn +c .
+n
+n
+2, 6, 18, 54, 162, \ldots
+P(n)
+n
+P(1) =1,
+P(2) =4,
+P(3),
+P(4)
+P(5) .
+P(n) .
+\backslash usepackagecancel
+\therefore
+P, Q, R, S, \ldots
+\wedge
+\vee
+\lnot
+K_n
+n
+K_n
+n
+K_{m, n}
+m
+n
+C_n
+n
+P_n
+n +1
+\chi (G)
+G
+\Delta (G)
+G
+\chi '(G)
+G
+N(S)
+S .
+\mathbf B_k^n
+n
+k .
+(a_n)_{n \in \mathbb N}
+a_0, a_1, a_2, \ldots
+T_n
+n
+F_n
+n
+\Delta^k
+k
+\varnothing
+\mathscr U
+\mathbb N
+\mathbb Z
+\mathbb Q
+\mathbb R
+\mathcal P (A)
+A
+\{, \}
+\colon
+\in
+\subseteq
+\subset
+\cap
+\cup
+\times
+\setminus
+\overline{A}
+A
+| A|
+A
+A \times B
+A
+B
+f(A)
+A
+f .
+f^{ -1} (B)
+B
+f .
+\backslash usepackagecancel
+10
+7
+\backslash usepackagecancel
+6^n ?
+n ?
+6^n,
+n =1,
+n =2,
+n =3
+6^{472}
+6^{472} =19, 381, 6\ldots \ldots 2 .
+6^{473}
+6^{473} =6 \cdot 6^{472} .
+6^2,
+6^3,
+6^4 ?
+6^2
+6^3
+6^4
+6^{472}
+6^k
+6^{k +1}
+6^k
+6^{k +1}
+6^{472}
+n,
+(a_n)_{n \ge 0}
+a_n =3a_{n -1} -2
+a_0 =5 .
+5, 13, 37, 109, \ldots .
+3 \cdot 109 -2 .
+a_4
+a_5
+a_5 =3a_4 -2 .
+a_4
+3a_4
+a_6 ?
+a_k
+k
+a_{k +1}
+a_{k +1} =3a_k -2,
+3
+a_k
+n \ge 0,
+a_n
+a_n =3a_{n -1} -2
+a_0 =5 .
+n =0,
+a_0 =5
+n
+a_n
+a_k
+a_{k +1}
+a_{k +1} =3a_k -2,
+a_n
+n \ge 0 .
+\forall nP(n),
+n
+P(0), P(1), P(2), P(3), \ldots .
+P(0)
+P(a)
+a
+P(k) \to P(k +1)
+k \ge 0
+k \ge a
+P(n)
+n .
+P(3)
+P(0)
+P(0) \to P(1),
+P(1)
+P(1) \to P(2),
+P(2)
+P(2) \to P(3),
+P(3) .
+n
+P(n)
+P(n)
+n \ge 0,
+P(0)
+P(k) \to P(k +1)
+k \ge 0 .
+k \ge 0
+P(k)
+P(k +1)
+P(k)
+P(k)
+P(k +1)
+P(n)
+n \ge 0 .
+P(n)
+n \ge 4,
+n \ge 1
+1 +2 +3 +\cdots +n =\frac{n(n +1)}{2} .
+n .
+n +1
+n =100,
+5050
+1 +2 +3 +\cdots +100 =5050,
+1 +2 +3 +\cdots +100 +101 =5050 +101 =5151 .
+P(n)
+1 +2 +3 +\cdots +n =\frac{n(n +1)}{2} .
+P(n)
+n \ge 1 .
+P(1)
+1 =\frac{1(1 +1)}{2}
+k \ge 1
+P(k)
+1 +2 +3 +\cdots +k =\frac{k(k +1)}{2} .
+P(k +1)
+1 +2 +3 +\cdots +k +(k +1) =\frac{(k +1)(k +2)}{2} .
+k +1
+1 +2 +3 +\cdots +k +(k +1) =\frac{k(k +1)}{2} +(k +1) .
+\frac{k(k +1)}{2} +k +1 & \lt mi/> =\frac{k(k +1)}{2} +\frac{2(k +1)}{2} \\ \~ & \lt mi/> =\frac{k(k +1) +2(k +1)}{2} \\ \~ & \lt mi/> =\frac{(k +2)(k +1)}{2} .
+P(k +1)
+P(n)
+n \ge 1 .
+P(k +1)
+P(k),
+P(k) .
+n \in \mathbb N,
+6^n -1
+n
+n =1,
+6^1 -1 =5
+n
+6^2 -1 =35,
+n =3 \colon
+6^3 -1,
+n
+6^2 -1
+6^2
+P(n)
+6^n -1
+P(n)
+n \in \mathbb N .
+P(0)
+6^0 -1 =0,
+k
+P(k)
+6^k -1
+5 .
+6^k -1 =5j
+j .
+6^k =5j +1 .
+6 \colon
+6^{k +1} =6(5j +1) =30j +6 .
+6^{k +1} -1,
+6^{k +1} -1 =30j +5 .
+30j +5 =5(6j +1),
+6^{k +1} -1
+P(k +1)
+P(n)
+n \in \mathbb N .
+6^k -1
+6^{k +1} -1
+n =1
+n =0 .
+n^2 \lt 2^n
+n \ge 5 .
+n
+(n +1)^2 -n^2 .
+(n +1)^2 -n^2 =(n +1 -n)(n +1 +n) =2n +1 .
+2^n,
+2^{n +1} =2^n +2^n .
+n
+2^n >2n +1 .
+n
+n =5
+P(n)
+n^2 \lt 2^n .
+P(n)
+n \ge 5 .
+P(5)
+5^2 \lt 2^5 .
+5^2 =25
+2^5 =32,
+P(5)
+k \ge 5
+P(k)
+k^2 \lt 2^k .
+P(k +1)
+(k +1)^2 \lt 2^{k +1} .
+(k +1)^2 & \lt mi/> =k^2 +2k +1 & \~ \\ \~ & \lt mi/> \lt 2^k +2k +1 & \lt mi/>\ldots by\space the\space inductive\space hypothesis. \\ \~ & \lt mi/> \lt 2^k +2^k & \lt mi/>\ldots \~since\~2k +1 \lt 2^k \~for\~k \ge 5. \\ \~ & \lt mi/> =2^{k +1} . & \~
+(k +1)^2 \lt 2^{k +1},
+P(k +1) .
+P(n)
+n \ge 5 .
+f(a) \lt g(a),
+f'(x) \lt g'(x)
+x >a,
+f(x) \lt g(x)
+x >a .
+P(k)
+P(n)
+k
+n .
+P(k)
+P(k +1)
+P(n)
+n
+P(1)
+P(k)
+k
+k +1
+k
+P(k)
+k
+P(k)
+P(k +1)
+P(n)
+n .
+P(k)
+P(k +1)
+k \ge 2 .
+P(1)
+P(2)
+1
+k .
+1 +3 +5 +\cdots +2n -1 =n^2
+n \ge 1 .
+P(1) =1 =1^2,
+P(n)
+1 +3 +\cdots +2n -1 =n^2
+n \ge 1 .
+P(n)
+1 +3 +5 +\cdots +2n -1 =n^2 .
+1 +3 +\cdots +2n -1 =n^2
+n \ge 1 .
+n \ge 1,
+P(n)
+n
+n^2 .
+P(n, 3) \ge \binom{n}{3}
+n \ge 4 .
+P(n)
+n \ge 0 .
+P(k)
+k \ge 0,
+P(k +1)
+P(k +1)
+k \ge 0,
+P(k)
+P(k)
+P(k +1)
+k \ge 0 .
+P(k)
+P(k +1)
+k \ge 0 .
+P(k +1)
+P(k)
+k \ge 0 .
+2 +4 +6 +\cdots +2n =n(n +1)\~for\space all\~n \ge 1 .
+P(n)
+2 +4 +6 +\cdots +2n =n(n +1) .
+P(n)
+n \ge 1 .
+P(n) =2 +4 +6 +\cdots +2n .
+P(n)
+2 +4 +6 +\cdots +2n =n(n -1)
+n \ge 1 .
+P(n) =n(n +1)
+n \ge 1 .
+2 +4 +6 +\cdots +2n =n(n +1)\~for\space all\~n \ge 1 .
+P(2)
+2 +4 =2(2 +1) .
+P(1)
+P(2)
+P(1)
+P(2) .
+n =1
+P(1)
+2 =1(1 +1) .
+2 +4 +6 +\cdots +2n =n(n +1)\~for\space all\~n \ge 1 .
+P(k)
+k \ge 1,
+2 +4 +6 +\cdots +2k =k(k +1) .
+P(k)
+k \ge 1,
+2 +4 +6 +\cdots +2k =k(k +1) .
+P(k)
+k \ge 1,
+2 +4 +6 +\cdots +432 =216(217) .
+P(k)
+P(k +1)
+k \ge 1 .
+a_n =5a_{n -1} +4,
+a_0 =0
+a_n =5^n -1 .
+a_{k +1} =5a_k +4 =5(5^k -1) +4 .
+P(k)
+k \ge 0 .
+a_k =5^k -1 .
+P(n)
+a_n =5^n -1
+a_0 =5^0 -1 =0,
+P(0)
+a_{k +1} =5^{k +1} -5 +4 =5^{k +1} -1,
+P(k +1)
+P(n)
+n \ge 0 .
+P(k +1)
+k \ge 0 .
+a_{k +1} =5a_k +4,
+P(k +1)
+n \ge 1,
+14^n -1
+13 .
+14^k =\frac{14^{k +1} -1}{14},
+14^{k +1} -1 =14(14^k -1) +14 -1 =14(13 \cdot j) +13,
+14^{k +1} -1
+13 .
+P(n)
+14^n -1
+13 .
+14^2 -1 =(14 -1)(14 +1)
+P(n)
+n \ge 1 .
+14^1 -1 =13,
+13 .
+P(k +1)
+14^k -1 =13 \cdot j
+j .
+P(k)
+k \ge 1 .
+P(n)
+n \ge 1 .
+n \ge 1,
+1 +1 +2 +3 +5 +\cdots +F_n =F_{n +2} -1,
+F_n
+n
+P(k)
+k \ge 2 .
+1 +1 +2 =4 =F_5 -1 .
+P(k +1)
+P(n)
+n \ge 1 .
+F_{k +1}
+1 +1 +2 +3 +5 +\cdots +F_k +F_{k +1} =F_{k +1} +F_{k +2} -1 .
+F_{k +1}
+P(k),
+1 +1 +2 +3 +\cdots +F_{k +1} =F_{k +2} -1 .
+P(1)
+P(2)
+1 =2 -1
+1 +1 =3 -1 .
+F_{k +1} +F_{k +2} =F_{k +3}
+F_{k +3} -1 .
+P(n)
+1 +1 +2 +3 +5 +\cdots +F_n =F_{n +2} -1 .
+1 +1 +2 +3 +5 +F_k =F_{k +2} -1 .
+n
+n +1
+n \in \mathbb N
+\sum_{k =0}^n 2^k =2^{n +1} -1 .
+7^n -1
+n \in \mathbb N .
+1 +3 +5 +\cdots +(2n -1) =n^2
+n \ge 1 .
+F_0 +F_2 +F_4 +\cdots +F_{2n} =F_{2n +1} -1
+F_n
+n
+2^n \lt n!
+n \ge 4 .
+n! =1 \cdot 2 \cdot 3 \cdot \cdots \cdot n .
+F_0 +F_1 +F_2 +\cdots +F_n =F_{n +2} -1,
+F_n
+n
+F_0 =0,
+F_1 =1
+F_n =F_{n -1} +F_{n -2}
+n
+n \ge 12 ?
+n
+1^2 +2^2 +3^2 +\cdots +n^2 =\frac{n(n +1)(2n +1)}{6} .
+n
+(n -2) \cdot 180\circ .
+n
+n
+180\circ .
+(k +1)
+k
+n +3 =n +7
+n
+P(n)
+n +3 =n +7 .
+P(n)
+n \in \mathbb N .
+P(k)
+k +3 =k +7 .
+P(k +1)
+k +3 =k +7,
+k +3 +1 =k +7 +1 .
+(k +1) +3 =(k +1) +7 .
+P(k +1) .
+P(n)
+n \in \mathbb N .
+n +3 \lt n +7
+n \in \mathbb N .
+n \lt 100
+n \in \mathbb N .
+P(n)
+n \lt 100 .
+P(n)
+n \in \mathbb N .
+n =0,
+P(n)
+0 \lt 100 .
+P(k)
+k \lt 100 .
+k \lt 100,
+k
+80 +1 =81
+k +1 \lt 100
+P(k +1)
+P(k) \to P(k +1) .
+P(n)
+n \in \mathbb N .
+a_1, a_2, a_3, \ldots
+a_n \lt 100
+n \in \mathbb N .
+a_n \lt a_{n +1}
+n .
+a_k
+a_k \lt 100 .
+a_{k +1}
+a_k \lt a_{k +1} \lt 100 .
+a_{k +1}
+n \in \mathbb N,
+n^2 +n
+P(n)
+n^2 +n
+P(n)
+n \in \mathbb N .
+P(k)
+k^2 +k
+P(k +1) .
+(k +1)^2 +(k +1) =k^2 +2k +1 +k +1 =k^2 +k +2k +2 .
+k^2 +k
+2k +2
+(k +1)^2 +(k +1)
+P(n)
+n \in \mathbb N .
+n \in \mathbb N,
+n^2 +n
+(k +1)^2 +(k +1)
+k^2 +k .
+a_0, a_1, a_2, \ldots
+a_0 +a_1 +a_2 +\cdots +a_n
+2
+n \in \mathbb N .
+a_{k +1}
+n
+\frac{n(n -1)}{2} .
+k +1
+\sum_{k =0}^n \binom{n}{k} =2^n .
+n
+2^n .
+k +1
+k
+k
+1 =2^0
+\binom{n}{k} =\binom{n -1}{k -1} +\binom{n -1}{k}
+\binom{4}{0} +\binom{5}{1} +\binom{6}{2} +\cdots +\binom{4 +n}{n} =\binom{5 +n}{n} .
+\log (ab) =\log (a) +\log (b)
+n,
+\log (a^n) =n\log (a),
+n \ge 2 .
+f_1, f_2, \ldots, f_n
+(f_1 +f_2 +\cdots +f_n)' =f_1^' +f_2^' +\cdots +f_n^' .
+(f +g)' =f' +g'
+f
+g .
+f_1, f_2, \ldots, f_n
+(f_1 f_2 f_3 \cdots f_n)' =f_1^' f_2 f_3 \cdots f_n +f_1 f_2^' f_3 \cdots f_n +f_1 f_2 f_3^' \cdots f_n +\cdots +f_1 f_2 f_3 \cdots f_n^' .
+(f_1 f_2 f_3 \cdots f_k f_{k +1})' =(f_1 f_2 f_3 \cdots f_k)'f_{k +1} +(f_1 f_2 f_3 \cdots f_k)f_{k +1}^' .
+P \to Q
+Q \to R
+\therefore
+P \to R
+n
+P_1 \to P_2
+P_2 \to P_3
+\vdots
+P_{n -1} \to P_n
+\therefore
+P_1 \to P_n .
+n -2
+P_1 \to P_{n -1} .
+\backslash usepackagecancel
+P \to Q .
+P
+G
+B
+(P \vee G) \to \lnot B
+(P \wedge G) \to \lnot B
+P \wedge (G \to B)
+(P \wedge G) \to B
+P
+G
+R
+(P \vee R) \to G
+\lnot G \to (P \vee R)
+G \to (P \vee R)
+(P \vee R) \to \lnot G
+(P \to Q) \vee (Q \to R)
+P \to Q
+Q \to R
+P
+Q
+Q
+R
+\lnot P \vee Q .
+\lnot (P \vee Q),
+P
+\vee,
+\lnot,
+\vee
+\lnot P
+Q .
+P
+Q
+\lnot P
+\lnot P \vee Q
+\lnot P
+\lnot P
+P
+Q
+\lnot P
+\vee .
+(P \to Q) \vee (Q \to R),
+P
+Q
+R
+P
+Q
+R
+P \to Q
+Q \to R
+(P \to Q) \vee (Q \to R)
+P,
+Q,
+R
+\vee .
+\lnot P \vee Q
+P \to Q \colon
+P
+Q
+P \to Q
+\lnot P \vee Q
+P
+Q
+\lnot P \vee Q
+P \to Q
+P
+Q
+P
+Q
+P
+Q
+P \equiv Q .
+P \to Q \equiv \lnot Q \to \lnot P .
+P
+Q
+P \to Q
+P
+Q
+\lnot Q
+\lnot P
+\lnot Q \to \lnot P
+\lnot (P \vee Q)
+\lnot P \wedge \lnot Q .
+P
+Q
+\lnot (P \vee Q)
+\lnot P \wedge \lnot Q
+\lnot (P \wedge Q) \equiv \lnot P \vee \lnot Q
+\lnot (P \vee Q) \equiv \lnot P \wedge \lnot Q .
+P \to Q \equiv \lnot P \vee Q .
+\lnot \lnot P \equiv P .
+c
+c
+\lnot (P \to Q)
+P \wedge \lnot Q
+\lnot (P \to Q) .
+\lnot ( \lnot P \vee Q) .
+\lnot \lnot P \wedge \lnot Q .
+P \wedge \lnot Q
+\lnot (P \to Q) \equiv P \wedge \lnot Q .
+(P \vee Q) \to R
+(P \to R) \vee (Q \to R)
+P
+Q
+R
+(P \vee Q) \to R
+(P \to R) \vee (Q \to R)
+(P \to R) \vee (Q \to R)
+(P \vee Q) \to R
+(P \vee Q) \to R
+(P \to R) \vee (Q \to R) .
+(P \to R) \vee (Q \to R)
+(P \vee Q) \to R,
+\forall x(P(x) \to Q(x)) \equiv \forall x( \lnot P(x) \vee Q(x)) .
+x
+\forall x(O(x) \to P(x)) .
+\lnot \forall x(O(x) \to P(x))
+\lnot \forall x(O(x) \to P(x)) \equiv \exists x(O(x) \wedge \lnot P(x)) .
+\lnot (O \to P) \equiv O \wedge \lnot P
+\lnot \forall xP(x)
+\exists x \lnot P(x) .
+\lnot \exists xP(x)
+\forall x \lnot P(x) .
+\lnot \exists x \forall y(x \le y) .
+x
+y,
+x
+y .
+\forall x \exists y(y \lt x) .
+y \lt x
+x \le y .
+x
+y
+x .
+P,
+Q,
+\forall x(P(x) \vee Q(x)) \forall xP(x) \vee \forall xQ(x) .
+P
+Q
+P
+Q
+P(x)
+Q(x)
+P(x)
+x
+Q(x)
+x
+( \forall xP(x) \vee \forall xE(x)) \to \forall x(P(x) \vee Q(x))
+\forall x \exists yP(x, y)\~and\~ \exists y \forall xP(x, y) .
+P(x, y)
+P(x, y)
+x \lt y .
+x
+y
+x
+y
+x .
+\forall x \exists yP(x, y)
+\exists y \forall xP(x, y)
+y
+x
+P(x, y),
+x
+y
+P(x, y) .
+y
+x .
+y
+x
+y
+x .
+\exists y \forall xP(x, y)
+\therefore
+\forall x \exists yP(x, y)
+\exists y \forall xP(x, y) \to \forall x \exists yP(x, y)
+P
+Q
+P \to Q
+P
+\therefore
+Q
+P
+Q
+P \to Q
+P \to Q,
+P \to Q
+P .
+P
+P \to Q
+Q
+P \to Q
+P
+Q
+P \to Q
+\lnot P \to Q
+\therefore
+Q
+P
+Q
+P \to Q
+\lnot P
+\lnot P \to Q
+\lnot P
+\lnot P \to Q
+P \to Q
+\lnot P \to Q
+Q
+P \to R
+Q \to R
+R
+\therefore
+P \vee Q
+P
+Q
+R
+P \to R
+Q \to R
+P \vee Q
+P \to R,
+Q \to R,
+P \vee Q
+R
+P \to R
+Q \to R
+P \vee Q
+\therefore
+R
+\forall xP(x)
+\therefore
+\exists xP(x)
+P
+P
+(P \wedge Q) \to (P \vee Q) .
+P
+Q
+P \wedge Q
+P \vee Q
+(P \wedge Q) \to (P \vee Q))
+\lnot Q \vee (Q \to P))
+P
+Q
+\lnot Q
+Q \to P
+\lnot Q \vee (Q \to P))
+P
+Q
+P
+Q
+P
+Q
+P
+Q
+P
+Q
+\lnot P \wedge (Q \to R)
+P
+Q
+R
+\lnot P
+Q \to R
+\lnot P \wedge (Q \to R)
+P \to (Q \vee R)
+(P \to Q) \vee (P \to R)
+P
+Q
+R
+P \to (Q \vee R)
+(P \to Q) \vee (P \to R)
+P \to Q
+\lnot Q
+\therefore
+\lnot P
+P
+Q
+P \to Q
+\lnot Q
+\lnot P
+P \to (Q \vee R)
+\lnot (P \to Q)
+\therefore
+R
+P
+Q
+R
+P \to (Q \vee R)
+\lnot (P \to Q)
+(P \wedge Q) \to R
+\lnot P \vee \lnot Q
+\therefore
+\lnot R
+P
+Q
+R
+(P \wedge Q) \to R
+\lnot P \vee \lnot Q
+\lnot R
+P \to Q
+P \wedge \lnot Q
+\therefore
+R
+P
+Q
+R
+P \to Q
+P \wedge \lnot Q
+\forall x(P(x) \vee \lnot P(x)) .
+\exists xP(x) \to \forall xP(x) .
+\forall x \exists yP(x, y) \leftrightarrow \exists y \forall xP(x, y) .
+\lnot \forall xP(x) \to \exists xP(x) .
+P
+Q
+P
+Q .
+P, Q, R, S .
+\lnot (P \to Q)
+P \wedge \lnot Q .
+\lnot (P \to \lnot Q) .
+( \lnot P \vee \lnot Q) \to \lnot ( \lnot Q \wedge R) .
+\lnot ((P \to \lnot Q) \vee \lnot (R \wedge \lnot R)) .
+P,
+Q,
+E(x),
+\lnot (( \lnot P \wedge Q) \vee \lnot (R \vee \lnot S)) .
+\lnot (( \lnot P \to \lnot Q) \wedge ( \lnot Q \to R))
+(T \vee S) \to \lnot P .
+T,
+S,
+P
+P
+P, Q, R, S, T
+Q
+P \to Q
+Q \to R,
+P \to R ?
+P \to Q
+Q \to R
+\therefore
+P \to R
+P
+Q
+P
+Q
+P \leftrightarrow Q
+P_1, P_2, \ldots, P_n
+Q
+P_1
+P_2
+\vdots
+P_n
+\therefore
+Q
+(P_1 \wedge P_2 \wedge \cdots \wedge P_n) \to Q
+F(x, y)
+x
+y .
+P(x)
+\forall xP(x)
+\exists xP(x)
+\forall xP(x) \to \exists xP(x)
+P(x)
+x
+x
+n,
+n
+n +3
+\forall x( \lnot E(x) \wedge \lnot O(x)),
+\lnot \exists x \forall y( \lnot O(x) \vee E(y)) .
+\lnot \forall x \lnot \forall y \lnot (x \lt y \wedge \exists z(x \lt z \vee y \lt z)) .
+n
+n
+n .
+n
+n
+\lnot \forall x \forall y(x \lt y \vee y \lt x) .
+\lnot ( \exists xP(x) \to \forall yP(y)) .
+\backslash usepackagecancel
+\backslash usepackagecancel
+A =\{1, 2, 3\} .
+A
+\{, \}
+a \in \{a, b, c\} .
+\in
+a
+a,
+b,
+c .
+d
+d \notin \{a, b, c\} .
+x \in A
+A
+x .
+A =\{1, b, \{x, y, z\}, \varnothing \} .
+\{x, y, z\},
+\varnothing =\{\},
+x
+A ?
+A
+x,
+x \notin A .
+B =\{1, b\} .
+B
+A,
+B
+A .
+B \notin A .
+B
+A,
+A .
+A
+A =\{0, 2, 4, 6, \ldots \},
+A =\{x \in \mathbb N \colon \~there\space exists\~n \in \mathbb N \~such\space that\~x =2n\} .
+\mathbb N
+\{0, 1, 2, 3, \ldots \} .
+x
+n
+x
+n .
+A =\{x \in \mathbb N \colon x\~is\space even\} .
+|
+\smallni
+0
+\colon
+\{x \colon x +3 \in \mathbb N \} .
+\{x \in \mathbb N \colon x +3 \in \mathbb N \} .
+\{x \colon x \in \mathbb N \~or\~ -x \in \mathbb N \} .
+\{x \colon x \in \mathbb N \~and\~ -x \in \mathbb N \} .
+\{ -3, -2, -1, 0, 1, 2, \ldots \}
+-3
+-3 +3 =0
+\{0, 1, 2, 3\ldots \} .
+\mathbb Z
+\{\ldots, -2, -1, 0, 1, 2, \ldots \} .
+x
+x
+-x
+\{0\} .
+\mathbb Z
+A =\{x \in \mathbb Z \colon x^2 \in \mathbb N \}
+B =\{x^2 \colon x \in \mathbb N \}
+A =\mathbb Z =\{\ldots, -2, -1, 0, 1, 2, 3, \ldots \} .
+x^2
+x
+B =\{0, 1, 4, 9, 16, \ldots \} .
+B =\{x \in \mathbb N \colon x =n^2 \~for\space some\~n \in \mathbb N \} .
+\varnothing
+\mathscr U
+\mathbb N
+\mathbb N =\{0, 1, 2, 3\ldots \} .
+\mathbb Z
+\mathbb Z =\{\ldots, -2, -1, 0, 1, 2, 3, \ldots \} .
+\mathbb Q
+\mathbb R
+\mathcal P (A)
+A
+A .
+\{, \}
+\{1, 2, 3\}
+\colon
+\{x \colon x >2\}
+x
+x
+\in
+2 \in \{1, 2, 3\}
+\{1, 2, 3\} .
+\notin
+4 \notin \{1, 2, 3\}
+\{1, 2, 3\} .
+\subseteq
+A \subseteq B
+A
+B
+A
+B .
+\subset
+A \subset B
+A
+B
+A
+B,
+A \not= B .
+\cap
+A \cap B
+A
+B
+A
+B .
+\cup
+A \cup B
+A
+B
+A
+B
+\times
+A \times B
+A
+B
+(a, b)
+a \in A
+b \in B .
+\setminus
+A \setminus B
+A
+B
+A
+B .
+\overline{A}
+A
+A .
+| A|
+A
+A .
+A =\{3, 4, \ldots, 15\} .
+B =\{n \in \mathbb N \colon 2 \lt n \le 200\} .
+C =\{n \le 100 \colon n \in \mathbb N \~and\space for\space some\~m \in \mathbb N, (n =2m +1)\} .
+A
+B
+| A| =5,
+| B| =6,
+| A \cup B| =9 .
+| A \cap B| ?
+A
+B
+| A| =| B|
+| A \cup B| =7
+| A \cap B| =3 .
+| A| ?
+A =\{1, 2, \ldots, 10\} .
+\mscrB_2 =\{B \subseteq A \colon | B| =2\} .
+| \mscrB_2 | .
+A
+B,
+AB =\{ab \colon a \in A\~and\~b \in B\} .
+A =\{1, 2\}
+B =\{2, 3, 4\},
+| AB| ?
+| A \times B| ?
+\{1, 2, 3\} =\{2, 1, 3\} .
+\{1, 2, 3\} =\{1, 1 +1, 1 +1 +1\} =\{I, II, III\} =\{1, 2, 3, 1 +2\}
+A =\{1, 2, 3\}
+B =\{1, 2, 3, 4\} ?
+A \not= B,
+A
+B .
+A
+B,
+A \subset B
+A \subseteq B .
+A
+B,
+\subseteq .
+\lt
+\le .
+A =\{1, 2, 3, 4, 5, 6\},
+B =\{2, 4, 6\},
+C =\{1, 2, 3\}
+D =\{7, 8, 9\} .
+A \subset B .
+B \subset A .
+B \in C .
+\varnothing \in A .
+\varnothing \subset A .
+A \lt D .
+3 \in C .
+3 \subset C .
+\{3\} \subset C .
+1 \in A
+1 \notin B .
+B
+A .
+C
+B
+A
+A .
+3
+C .
+3
+3
+\{3\},
+C,
+\{3\}
+C .
+B
+A .
+A .
+A
+A
+A,
+\mathcal P (A) .
+A =\{1, 2, 3\} .
+\mathcal P (A) .
+\mathcal P (A)
+A .
+\mathcal P (A) =\{\varnothing, \{1\}, \{2\}, \{3\}, \{1, 2\}, \{1, 3\}, \{2, 3\}, \{1, 2, 3\}\} .
+2 \in A,
+2 \in \mathcal P (A)
+\mathcal P (A)
+\{2\} \in \mathcal P (A)
+\{2\} \subseteq A .
+\mathcal P (A)
+\{2\} \not\subseteq \mathcal P (A)
+\{2\}
+\mathcal P (A) .
+\{\{2\}\} \subseteq \mathcal P (A) .
+\{\{2\}\}
+\{2\},
+\mathcal P (A) .
+\mathcal P (A)
+\mathcal P (\mathcal P (A)) .
+A
+B,
+C,
+D
+| A| =6,
+| B| =3,
+\{1, 2, 3, 2, 1\}
+\{1, 2, 3, 2, 1\}
+\{1, 2, 3\}
+\mathbb N,
+\mathbb Q
+\mathbb R
+A =\{23, 24, \ldots, 37, 38\} .
+B =\{1, \{2, 3, 4\}, \varnothing \} .
+C =\{1, 2, 3\},
+\mathcal P (C) ?
+38 -23 =15,
+| A| =16
+| B| =3 .
+\{2, 3, 4\},
+\mathcal P (C)
+| \mathcal P (C)| =8 .
+| A|
+| \mathcal P (A)|
+A .
+C =A \cup B,
+C
+A
+B,
+C
+A
+B
+A =\{1, 2, 3\}
+B =\{2, 3, 4\},
+A \cup B =\{1, 2, 3, 4\} .
+C =A \cap B
+C
+A
+B,
+C
+A
+B .
+A =\{1, 2, 3\}
+B =\{2, 3, 4\},
+A \cap B =\{2, 3\} .
+\mathbb N .
+\mathscr U .
+B
+A,
+B =\overline{A}
+B
+A .
+\{1, 2, \ldots, 9, 10\},
+A =\{2, 3, 5, 7\},
+\overline{A} =\{1, 4, 6, 8, 9, 10\} .
+A \cap \overline{B} .
+A
+B .
+A
+B .
+A \cap \overline{B} =A \setminus B .
+A \cap B
+A \subseteq B
+3 +2
+3 \le 2
+A =\{1, 2, 3, 4, 5, 6\},
+B =\{2, 4, 6\},
+C =\{1, 2, 3\}
+D =\{7, 8, 9\} .
+\mathscr U =\{1, 2, \ldots, 10\},
+A \cup B .
+A \cap B .
+B \cap C .
+A \cap D .
+\overline{B \cup C} .
+A \setminus B .
+(D \cap \overline{C}) \cup \overline{A \cap B} .
+\varnothing \cup C .
+\varnothing \cap C .
+A \cup B =\{1, 2, 3, 4, 5, 6\} =A
+B
+A .
+A \cap B =\{2, 4, 6\} =B
+B
+A .
+B \cap C =\{2\}
+B
+C
+A \cap D =\varnothing
+A
+D
+\overline{B \cup C} =\{5, 7, 8, 9, 10\} .
+B \cup C =\{1, 2, 3, 4, 6\},
+A \setminus B =\{1, 3, 5\}
+A
+B .
+A \cap \overline{B} .
+(D \cap \overline{C}) \cup \overline{A \cap B} =\{1, 3, 5, 7, 8, 9, 10\} .
+D
+C
+\{7, 8, 9\}
+A
+B
+\{1, 3, 5, 7, 8, 9, 10\}
+\varnothing \cup C =C
+\varnothing \cap C =\varnothing
+A =\{1, 2, 3\},
+A \cup \{4\} .
+A
+A \setminus \{2\} .
+B =A \cup \{4\}
+B
+A
+A \times B .
+(x, y) .
+A \times B =\{(a, b) \colon a \in A\~and\~b \in B\} .
+A \times A =\{(a, b) \colon a, b \in A\}
+A^2
+A \times A,
+A =\{1, 2\}
+B =\{3, 4, 5\} .
+A \times B
+A \times A .
+B \times B ?
+A \times B =\{(1, 3), (1, 4), (1, 5), (2, 3), (2, 4), (2, 5)\} .
+A \times A =A^2 =\{(1, 1), (1, 2), (2, 1), (2, 2)\} .
+| B \times B| =9 .
+3,
+4,
+5 .
+A \cap B
+A \cap \overline{B},
+A \setminus B \colon
+(B \cap C) \cup (C \cap \overline{A}),
+C,
+C
+A
+B .
+(A \cap C) \cap \overline{B} .
+C \cap \overline{((A \cap C) \cap \overline{B})} .
+(B \cap C) \cup (C \cap \overline{A}) =C \cap \overline{((A \cap C) \cap \overline{B})} .
+A =\{5, 7, 8, 9, 10\}\~and\~B =\{5, 10, 11, 15, 20\}
+A \cup B .
+A \cap B .
+A \setminus B .
+B \setminus A .
+\{n \in \mathbb N \colon n^2 -5 \ge 5\}
+\{n \in \mathbb N \colon n^2 -10 \in \mathbb N \}
+\{n^2 +3 \colon n \in \mathbb N \}
+\{n \in \mathbb N \colon n =k^2 +3\~for\space some\~k \in \mathbb N \}
+| A|
+A =\{2, 3, 4, 5, \ldots, 43\} .
+| A|
+A =\{x \in \mathbb Z \colon -4 \le x \le 92^" \} .
+| A \cap B|
+A =\{x \in \mathbb N \colon x \le 30\}
+B =\{x \in \mathbb N \colon x\~is\space prime\~\} .
+A =\{2, 4, 5, 6, 7\}
+B =\{2, 4, 5, 6, 8\} .
+A\~and\~B .
+A =\{n \in \mathbb N \colon 27 \le n \lt 60\}
+B =\{n \in \mathbb N \colon 14 \lt n \le 51\} .
+C
+C \subseteq A
+C \subseteq B .
+C ?
+A =\{3, 6, 11, 13, 14\}
+B =\{3, 6, 14\} .
+C
+C \subseteq A
+B \subseteq C .
+A
+B,
+C .
+A =\{5, 6, 7, 8, 9\},
+B =\{7, 8, 9, 10, 11\},
+C =\{6, 9, 11\} .
+A \cap B .
+A \cup B .
+A \setminus B .
+A \cap \overline{(B \cup C)} .
+A =\{x \in \mathbb N \colon 4 \le x \lt 16\}
+B =\{x \in \mathbb N \colon x\~is\space even\} .
+A \cap B .
+A \setminus B .
+A =\{x \in \mathbb N \colon 3 \le x \le 13\},
+B =\{x \in \mathbb N \colon x\~is\space even\},
+C =\{x \in \mathbb N \colon x\~is\space odd\} .
+A \cap B .
+A \cup B .
+B \cap C .
+B \cup C .
+A
+B
+A \cap B =\{3, 5\}
+A \cup B =\{2, 3, 5, 7, 8\} .
+A
+B
+A \subseteq B
+A \in B .
+\mathbb Z =\{\ldots, -2, -1, 0, 1, 2, \ldots \}
+\mathbb Z^+ =\{1, 2, 3, \ldots \}
+2\mathbb Z
+3\mathbb Z
+\mathbb Z^+ \subseteq 2\mathbb Z ?
+2\mathbb Z \subseteq \mathbb Z^+ ?
+2\mathbb Z \cap 3\mathbb Z .
+\{x \in \mathbb Z \colon \exists y \in \mathbb Z (x =2y \vee x =3y)\}
+A_2
+2 .
+A_3
+A_n
+n
+n,
+n \ge 2 .
+\overline{A_2 \cup A_3 \cup A_4 \cup \cdots} .
+A_2 \cup A_3
+A_5 ?
+A \cup \overline{B}
+\overline{(A \cup B)}
+A \cap (B \cup C)
+(A \cap B) \cup C
+\overline{A} \cap B \cap \overline{C}
+(A \cup B) \setminus C
+A
+B
+A =\{a, b, c, d\} .
+\mathcal P (A) .
+A =\{1, 2, \ldots, 13\} .
+A
+A =\{1, 2, 3, 4, 5, 6\} .
+B \in \mathcal P (A)
+\{2, 3, 5\} \subseteq B .
+A
+B
+| A| =4,
+| B| =5,
+| A \cup B| =9 .
+A
+B
+| A| =3,
+| B| =4,
+| A \cup B| =5 .
+A
+B
+| A| =| B|,
+| A \cup B| =10,
+| A \cap B| =5 ?
+A =\{2, 4, 6, 8\} .
+B
+| B| =5 .
+| A \cup B| ?
+| A \cap B| ?
+| A \times B| ?
+X =\{n \in \mathbb N \colon 10 \le n \lt 20\} .
+A \subseteq \mathbb N
+| A| =10
+X \setminus A =\{10, 12, 14\} .
+B \in \mathcal P (X)
+| B| =5 .
+C \subseteq \mathcal P (X)
+| C| =5 .
+D \subseteq X \times X
+| D| =5
+E \subseteq X
+| E| \in E .
+A,
+B
+C
+A \subseteq B
+B \subseteq C .
+A \subseteq C ?
+A \subseteq C
+x,
+x \in A
+x \in C .
+A \in B
+B \in C .
+A \in C ?
+| A| =| B| =| C| =2 .
+A
+| A| =3
+B \in A,
+B \subseteq A .
+A
+B,
+A =\{3, | B|\}
+B =\{1, | A|, | B|\} .
+A
+A =\{2, | A|\} .
+A
+| A| .
+A,
+B,
+C
+A = & \lt mi/>\{1, | B|, | C|\} \\ B = & \lt mi/>\{2, | A|, | C|\} \\ C = & \lt mi/>\{1, 2, | A|, | B|\}
+\backslash usepackagecancel
+\Delta^k
+k
+n
+K_n
+n
+K_{3, 3}
+K_5
+k
+n
+k
+n
+n
+K_{3, 3}
+K_5
+\backslash usepackagecancel
+\backslash usepackagecancel
+2, 3, 5, 8, 12, \ldots
+n
+2 +3x +5x^2 +8x^3 +12x^4 +\cdots
+2, 3, 5, 8, 12, \ldots
+c_n x^n
+c_n
+\sum_{k =0}^\infty c_k x^k .
+c_0 +c_1 x +c_2 x^2 +c_3 x^3 +c_4 x^4 +c_5 x^5 +\cdots .
+c_0, c_1, c_2, c_3, c_4, c_5, \ldots .
+3 +8x^2 +x^3 +\frac{x^5}{7} +100x^6 +\cdots ?
+x^n
+a_0 =3
+x^0
+x^0 =1
+a_1 ?
+x^2,
+a_2
+a_1
+x^1
+a_1 =0 .
+a_2 =8,
+a_3 =1,
+a_4 =0,
+a_5 =\frac{1}{7} .
+3, 0, 8, 1, 0, \frac{1}{7}, 100, \ldots .
+a_0 .
+1, 3, 4, 6, 9, \ldots, 24, 41, \ldots
+24
+a_0
+1 +3x +4x^2 +6x^3 +9x^4 +\cdots +24x^{17} +41x^{18} +\cdots .
+a_{17} =24
+\boxed{1}_0 \boxed{3}_1 \boxed{4}_2 \boxed{6}_3 \boxed{9}_4 \cdots \boxed{24}_{17} \boxed{41}_{18} \cdots,
+1 +x +\frac{x^2}{2} +\frac{x^3}{6} +\frac{x^4}{24} +\cdots +\frac{x^n}{n!} +\cdots
+e^x .
+e^x
+e^x .
+1, 1, \frac{1}{2}, \frac{1}{6}, \frac{1}{24}, \ldots, \frac{1}{n!}, \ldots \~has\space generating\space function\~e^x .
+e^x
+e^x .
+1 +x +x^2 +x^3 +x^4 +\cdots .
+x .
+S & \lt mi/> =1 +x +x^2 +x^3 +\cdots \\ \underset{\textasciimacron}{ -xS} & \underset{\textasciimacron}{ =x +x^2 +x^3 +x^4 +\cdots} \\ (1 -x)S & \lt mi/> =1
+1 +x +x^2 +x^3 \cdots =\frac{1}{1 -x} .
+| x| \lt 1 .
+x,
+x
+1, 1, 1, \ldots
+1, 1, 1, 1, 1, 1, \ldots
+\frac{1}{1 -x}
+x
+-x .
+\frac{1}{1 +x} =1 -x +x^2 -x^3 +\cdots \~which\space generates\~1, -1, 1, -1, \ldots .
+x
+3x
+\frac{1}{1 -3x} =1 +3x +9x^2 +27x^3 +\cdots \~which\space generates\~1, 3, 9, 27, \ldots .
+x
+\frac{1}{1 -x}
+x
+2, 2, 2, 2, \ldots .
+2, 2, 2, 2, \ldots
+1, 1, 1, 1, \ldots
+\frac{2}{1 -x} =2 +2x +2x^2 +2x^3 +\cdots \~which\space generates\~2, 2, 2, 2, \ldots .
+3, 9, 27, 81, \ldots,
+1, 3, 9, 27, \ldots
+1, 3, 9, 27, \ldots
+\frac{3}{1 -3x} =3 \cdot 1 +3 \cdot 3x +3 \cdot 9x^2 +3 \cdot 27x^3 +\cdots \~which\space generates\~3, 9, 27, 81, \ldots .
+2, 4, 10, 28, 82, \ldots ?
+1, 1, 1, 1, \ldots
+1, 3, 9, 27, \ldots
+2 +4x +10x^2 +28x^3 +\cdots & \lt mi/> =(1 +1) +(1 +3)x +(1 +9)x^2 +(1 +27)x^3 +\cdots \\ \~ & \lt mi/> =1 +x +x^2 +x^3 +\cdots +1 +3x +9x^2 +27x^3 +\cdots \\ \~ & \lt mi/> =\frac{1}{1 -x} +\frac{1}{1 -3x}
+x
+x^2
+\frac{1}{1 -x^2} =1 +x^2 +x^4 +x^6 \cdots \~which\space generates\~1, 0, 1, 0, 1, 0, \ldots .
+0, 1, 0, 1, 0, 1, \ldots ?
+0, 1, 3, 9, 27, \ldots .
+\frac{1}{1 -3x} =1 +3x +9x^2 +27x^3 +\cdots .
+x +3x^2 +9x^3 +27x^4 +\cdots
+x
+0, 1, 3, 9, 27, \ldots
+\frac{x}{1 -3x} .
+0, 1, 0, 1, 0, 1, \ldots \colon
+\frac{x}{1 -x^2} =x +x^3 +x^5 +\cdots \~which\space generates\~0, 1, 0, 1, 0, 1\ldots .
+1, 0, 1, 0, 1, 0, \ldots
+0, 1, 0, 1, 0, 1, \ldots
+1, 1, 1, 1, 1, 1\ldots .
+\frac{1}{1 -x^2} +\frac{x}{1 -x^2} =\frac{1}{1 -x} .
+\frac{1}{1 -x} ?
+\frac{1}{(1 -x)^2} .
+(1 +x +x^2 +x^3 +\cdots)' =1 +2x +3x^2 +4x^3 +\cdots
+1, 2, 3, 4, \ldots .
+1, 2, 3, \ldots
+1, 2, 3, 4, 5, \ldots
+\frac{1}{(1 -x)^2} .
+\frac{2}{(1 -x)^3} =2 +6x +12x^2 +20x^3 +\cdots .
+\frac{1}{(1 -x)^3} =1 +3x +6x^2 +10x^3 +\cdots
+1, 3, 6, 10\ldots
+a_0 =1
+T_0 =0
+\frac{1}{1 -x}
+x
+1, 1, 1, 1, 1\ldots
+2, 4, 10, 28, 82, \ldots .
+2, 6, 18, 54, \ldots ?
+0, 2, 4, 10, 28, \ldots
+2, 4, 10, 28\ldots,
+0, 2, 4, 10, 28, \ldots
+2, 4, 10, 28\ldots
+x .
+A
+2, 4, 10, 28, 82, \ldots
+A & \lt mi/> =2 +4x +10x^2 +28x^3 +82x^4 +\cdots \\ \underset{\textasciimacron}{ -xA} & \underset{\textasciimacron}{ =0 +2x +4x^2 +10x^3 +28x^4 +82x^5 +\cdots} \\ (1 -x)A & \lt mi/> =2 +2x +6x^2 +18x^3 +54x^4 +\cdots
+A
+A \colon
+A .
+1, 3, 5, 7, 9, \ldots .
+1, 3, 5, 7, 9, \ldots
+A .
+A & \lt mi/> =1 +3x +5x^2 +7x^3 +9x^4 +\cdots \\ \underset{\textasciimacron}{ -xA} & \underset{\textasciimacron}{ =0 +x +3x^2 +5x^3 +7x^4 +9x^5 +\cdots} \\ (1 -x)A & \lt mi/> =1 +2x +2x^2 +2x^3 +2x^4 +\cdots
+2x +2x^2 +2x^3 +2x^4 +\cdots =\frac{2x}{1 -x} .
+(1 -x)A =1 +\frac{2x}{1 -x} .
+A \colon
+A =\frac{1}{1 -x} +\frac{2x}{(1 -x)^2} =\frac{1 +x}{(1 -x)^2} .
+1, 1, 1, 1, \ldots
+0, 2, 4, 6, 8, 10, \ldots
+\frac{1}{(1 -x)^2}
+1, 2, 3, 4, 5, \ldots,
+2x
+1, 3, 5, 7, 9, \ldots .
+1, 4, 9, 16, \ldots .
+1 =a_0 .
+A .
+A & \lt mi/> =1 +4x +9x^2 +16x^3 +\cdots \\ \underset{\textasciimacron}{ -xA} & \underset{\textasciimacron}{ =0 +x +4x^2 +9x^3 +16x^4 +\cdots} \\ (1 -x)A & \lt mi/> =1 +3x +5x^2 +7x^3 +\cdots
+1 +3x +5x^2 +7x^3 +\cdots =\frac{1 +x}{(1 -x)^2}
+A =\frac{1 +x}{(1 -x)^3} .
+a_n =3a_{n -1} -2a_{n -2} ?
+a_n -3a_{n -1} +2a_{n -2} =0
+1, 3, 7, 15, 31, 63, \ldots
+a_n =3a_{n -1} -2a_{n -2} .
+A .
+A & \lt mi/> =1 +3x +7x^2 +15x^3 +31x^4 +\cdots +a_n x^n +\cdots \\ -3xA & \lt mi/> =0 -3x -9x^2 -21x^3 -45x^4 -\cdots -3a_{n -1} x^n -\cdots \\ \underset{\textasciimacron}{ +2x^2 A} & \underset{\textasciimacron}{ =0 +0x +2x^2 +6x^3 +14x^4 +\cdots +2a_{n -2} x^n +\cdots} \\ (1 -3x +2x^2)A & \lt mi/> =1
+A
+-3x
+-3 .
+A
+2x^2,
+a_1
+a_n -3a_{n -1} +2a_{n -2} =0 .
+A \colon
+A =\frac{1}{1 -3x +2x^2} .
+A =a_0 +a_1 x +a_2 x^2 +\cdots
+B =b_0 +b_1 x +b_2 x^2 +\cdots .
+A
+B,
+a_0 b_0 .
+x
+a_0 b_1 +a_1 b_0 .
+AB =a_0 b_0 +(a_0 b_1 +a_1 b_0)x +(a_0 b_2 +a_1 b_1 +a_2 b_0)x^2 +(a_0 b_3 +a_1 b_2 +a_2 b_1 +a_3 b_0)x^3 +\cdots .
+1, 2, 3, 4, \ldots
+1, 2, 4, 8, 16, \ldots .
+1 \cdot 1 .
+1 \cdot 2 +2 \cdot 1 =4 .
+1 \cdot 4 +2 \cdot 2 +3 \cdot 1 =11 .
+1 \cdot 8 +2 \cdot 4 +3 \cdot 2 +4 \cdot 1 =26 .
+1, 4, 11, 26, 57, \ldots .
+1, 2, 3, 4, \ldots
+\frac{1}{(1 -x)^2}
+1, 2, 4, 8, 16, \ldots
+\frac{1}{1 -2x},
+1, 4, 11, 26, 57, \ldots
+\frac{1}{(1 -x)^2 (1 -2x)}
+1, 1, 1, \ldots .
+1, 1, 1, \ldots
+1, 2, 3, 4, 5\ldots .
+1 \cdot 1 =1 .
+1 \cdot 2 +1 \cdot 1 =3 .
+1 \cdot 3 +1 \cdot 2 +1 \cdot 1 =6 .
+1, 2, 3, 4, 5, \ldots .
+\frac{1}{1 -x}
+1, 1, 1, 1, 1\ldots
+\frac{1}{(1 -x)^2}
+1, 2, 3, 4, 5, \ldots
+\frac{1}{(1 -x)^3} .
+n
+\frac{1}{1 -x} .
+1 -x,
+\frac{1}{1 -x} .
+\frac{1}{1 -x}
+\frac{1}{1 -x}
+a_n =3a_{n -1} -2a_{n -2}
+a_0 =1
+a_1 =3 .
+1, 3, 7, 15, 31, 63, \ldots
+\frac{1}{1 -3x +2x^2} .
+A
+A -3xA +2x^2 A
+\frac{1}{1 -3x +2x^2} =\frac{1}{(1 -x)(1 -2x)} .
+\frac{1}{(1 -x)(1 -2x)} =\frac{a}{1 -x} +\frac{b}{1 -2x}\~\textasciitilde \textasciitilde \space for\space some\space constants\~a\~and\~b .
+a
+b
+\frac{1}{(1 -x)(1 -2x)} =\frac{a(1 -2x) +b(1 -x)}{(1 -x)(1 -2x)} .
+1 =a(1 -2x) +b(1 -x) .
+x .
+x =1,
+1 = -a
+a = -1 .
+x =\frac{1}{2}
+1 =b/2
+b =2 .
+\frac{1}{(1 -x)(1 -2x)} =\frac{ -1}{1 -x} +\frac{2}{1 -2x} .
+\frac{ -1}{1 -x} = -1 -x -x^2 -x^3 -x^4 -\cdots \~which\space generates\~ -1, -1, -1, -1, -1, \ldots .
+\frac{2}{1 -2x} =2 +4x +8x^2 +16x^3 +32x^4 +\cdots \~which\space generates\~2, 4, 8, 16, 32, \ldots .
+n
+a_n = -1 .
+a_n =2^{n +1} .
+a_n =2^{n +1} -1 .
+4, 4, 4, 4, 4, \ldots .
+2, 4, 6, 8, 10, \ldots .
+0, 0, 0, 2, 4, 6, 8, 10, \ldots .
+1, 5, 25, 125, \ldots .
+1, -3, 9, -27, 81, \ldots .
+1, 0, 5, 0, 25, 0, 125, 0, \ldots .
+0, 1, 0, 0, 2, 0, 0, 3, 0, 0, 4, 0, 0, 5, \ldots .
+\frac{4x}{1 -x} .
+\frac{1}{1 -4x} .
+\frac{x}{1 +x} .
+\frac{3x}{(1 +x)^2} .
+\frac{1 +x +x^2}{(1 -x)^2}
+1, 1, 1, 1, 1, \ldots
+4, 5, 7, 10, 14, 19, 25, \ldots .
+a_n =3a_{n -1} -a_{n -2}
+a_0 =1
+a_1 =5 .
+S_0, S_1, S_2, \ldots
+S_0 =F_0,
+S_1 =F_0 +F_1,
+S_2 =F_0 +F_1 +F_2,
+S_3 =F_0 +F_1 +F_2 +F_3
+a_n =2(5^n) +7( -3)^n .
+n
+\frac{3x}{1 -4x} +\frac{1}{1 -x} .
+a_7
+\frac{2}{(1 -x)^2} \cdot \frac{x}{1 -x -x^2} .
+\frac{1}{(1 -x)^2}
+1, 2, 3, 4, \ldots .
+1, 2, 3, 4, \ldots,
+1, 0, 2, 0, 3, 0, 4, \ldots .
+1, -2, 3, -4, 5, -6, \ldots .
+0, 3, 6, 9, 12, 15, 18, \ldots .
+0, 3, 9, 18, 30, 45, 63, \ldots .
+1, 1, 2, 3, 5, 8, \ldots
+\frac{1}{1 -x -x^2}
+\frac{x^2}{1 -x -x^2} .
+\frac{1}{1 -x^2 -x^4} .
+\frac{1}{1 -3x -9x^2} .
+\frac{1}{(1 -x -x^2)(1 -x)} .
+1, -2, 4, -8, 16, \ldots .
+1, 1, 1, 2, 3, 4, 5, 6, \ldots .
+A
+3, 5, 9, 15, 23, 33, \ldots .
+A
+A
+\backslash usepackagecancel
+G_1
+G_2
+G_3
+G_4
+G_5
+G_6
+G_1
+G_2
+G_3
+G_4
+G_5
+G_6
+G_1 \colon
+G_2 \colon
+G_3 \colon
+G_4 \colon
+G_5 \colon
+G_6 \colon
+(a, b), (b, c), (c, d)or(d, c), (c, b), (b, a) .
+a
+b
+c
+d
+e
+f
+(4, 2, 2, 2, 2)
+a
+a,
+K_4
+K_5 .
+K_{5, 7}
+K_{2, 7}
+C_7
+P_7
+n
+K_n
+m
+n
+K_{m, n}
+n
+K_n
+m
+n
+K_{m, n}
+G
+G
+\backslash usepackagecancel
+\backslash usepackagecancel
+\{A, B, C, D, E\}
+\{1, 2, 3\} .
+\{A, B, C, D, E, 1, 2, 3\},
+\{A1, A2, A3, B1, B2, B3, C1, C2, C3, D1, D2, D3, E1, E2, E3\},
+A
+m
+B
+n
+A
+B
+m +n
+A
+B
+26
+12
+26 +12 =38 .
+10
+6
+11
+00 ?
+10
+6
+\binom{10}{6} =210
+11
+00
+10
+01
+11
+00,
+10
+6
+11 ?
+11,
+6 .
+8
+\binom{8}{4} =70
+\binom{8}{6} =28
+00
+70 +28 =98 .
+10
+6
+x .
+y
+10
+x +y ?
+10
+\binom{10}{6} =210 .
+y \colon
+\binom{7}{6} =7
+x +7 =210,
+x =210 -7 =203 .
+4 +7 +5 =16
+26 +26 +26 +26 +26 =130
+5 \cdot 26 .
+A
+m
+A
+n
+B,
+A
+B
+m \cdot n
+\{A, B, C, D, E\}
+\{1, 2, 3\} ?
+A
+B
+5 \cdot 26 =130
+A
+B
+\{AA, AB, AC, AD, \ldots, AZ\}
+\{EA, EB, EC, ED, \ldots, EZ\} .
+\{A, E, I, O, U\}
+\{A, B, C, D, \ldots, Z\} .
+(0, 0)
+(10, 10)
+(4, 7) ?
+(4, 7)
+(0, 0)
+(4, 7),
+(4, 7)
+(10, 10) .
+(0, 0)
+(4, 7)
+\binom{11}{4} =330 .
+(4, 7)
+(10, 10)
+\binom{9}{3} =84 .
+x
+(0, 0)
+(10, 10)
+(4, 7),
+(0, 0)
+(4, 7)
+(4, 7)
+(10, 10) .
+330 +84
+330 \cdot 84 =27720 .
+26 \cdot 26 \cdot 26 \cdot 10 \cdot 10 \cdot 10,
+26 \cdot 26
+26 \cdot 26
+26
+(26 \cdot 26) \cdot 26
+26 \cdot 26 \cdot 26
+10 \cdot 10 \cdot 10 =1000 .
+26^3
+10^3
+26^3 \cdot 10^3
+12^7 .
+2^{10}
+2^{10}
+26 \cdot 12 .
+f \colon \{1, 2, 3, 4, 5\} \to \{a, b, c, d\}
+4 \cdot 4 \cdot 4 \cdot 4 \cdot 4 =4^5
+\{1, 2, \ldots, n\}
+n
+\{1, 2, \ldots, k\}
+k
+26 \cdot 12 .
+20 \cdot 12 =240 .
+6 \cdot 11 =66 .
+240 +66 =306 .
+(0, 0)
+(9, 9)
+(2, 6)
+(6, 2) ?
+(0, 0)
+(9, 9)
+(2, 6)
+(6, 2) .
+(2, 6)
+(6, 2) .
+(0, 0)
+(9, 9)
+(2, 6)
+(0, 0)
+(2, 6)
+(2, 6)
+(9, 9) .
+\binom{8}{2} =28
+\binom{10}{7} =120
+28 \cdot 120 =3360
+(2, 6) .
+(0, 0)
+(9, 9)
+(6, 2)
+\binom{8}{6} \cdot \binom{10}{3} =28 \cdot 120 =3360
+(2, 6)
+(6, 2)
+(2, 6)
+(6, 2)
+3360 +3360 =6720 .
+\{1, 2, 3, 4, 5\}
+11, 13, 15, 22, 24, 31, \ldots .
+3 \cdot 3 =9
+2 \cdot 2 =4
+9 +4 =13
+\{0, 1, \ldots, 9\} .
+\{0, 1, \ldots, 9, A, B, C, D, E, F\} .
+S =\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11\}
+\{2, 3, 5\}
+S =\{1, 2, 3, 4, 5, 6, 7, 8\} .
+5 ?
+5
+>\{2, 3, 5\}
+5
+5
+A =\{1, 2, 3, 4, 5, 6, 7\} .
+A
+A
+5
+A
+A
+\{0, 1, \ldots, 9\}
+(1, 1)
+(12, 12) ?
+(12, 12)
+(6, 7) ?
+(12, 12)
+(6, 7) ?
+2^3 \cdot 3 \cdot 5^4 \cdot 7^2 .
+6 =2 \cdot 3 .
+1 =2^0 \cdot 3^0,
+2 =2^1 \cdot 3^0,
+3 =2^0 \cdot 3^1
+6 =2^1 \cdot 3^1 .
+\backslash usepackagecancel
+n
+n
+n
+n .
+n
+n
+a_n
+n
+a_{n -1}
+n -1
+a_n
+a_{n -1} .
+a_n =
+a_0, a_1, a_2, a_3, \ldots .
+(a_n)_{n \in \mathbb N}
+(a_n)_{n \ge 0},
+(a_n)
+a_0
+a
+a_0,
+a_1,
+(a_n)_{n \ge 1}
+(a_n)_{n \ge 0}
+\mathbb N
+a_n
+n .
+7, 7, 7, 7, 7, \ldots
+3, -3, 3, -3, 3, \ldots
+1, 5, 2, 10, 3, 15, \ldots
+1, 2, 4, 8, 16, 32, \ldots
+1, 4, 9, 16, 25, 36, \ldots
+1, 2, 3, 5, 8, 13, 21, \ldots
+1, 3, 6, 10, 15, 21, \ldots
+2, 3, 5, 7, 11, 13, \ldots
+3, 2, 1, 0, -1, \ldots
+1, 1, 2, 6, \ldots
+7
+-3
+4
+-2
+24
+(a_n)_{n \in \mathbb N}
+a_n
+n .
+n,
+n
+(a_n)_{n \in \mathbb N}
+a_n =n^2 .
+a_n =\frac{n(n +1)}{2} .
+a_n =\frac{(\frac{1 +\sqrt{5}}{2})^n -(\frac{1 -\sqrt{5}}{2})^{ -n}}{\sqrt{5}} .
+n,
+a_n
+n .
+a_3
+a_3 =\frac{3(3 +1)}{2} =6 .
+a_n =2a_{n -1}
+a_0 =1 .
+a_n =2a_{n -1}
+a_0 =27 .
+a_n =a_{n -1} +a_{n -2}
+a_0 =0
+a_1 =1 .
+n,
+a_n
+a_{n -1}
+a_{n -1}
+a_{n -2}
+a_3
+2a_2,
+a_2 =2a_1
+a_1 =2a_0 .
+a_1 =54,
+a_2 =108
+a_3 =216 .
+a_n
+(a_n)_{n \ge 1}
+n .
+1, 3, 7, 15, \ldots,
+2 \cdot 15 +1 =31 .
+a_n =2a_{n -1} +1 .
+a_{30} .
+a_{29},
+a_{28},
+a_{27}
+a_4
+30
+n .
+2, 4, 8, 16, \ldots
+2^n .
+a_n =2^n -1 .
+a_{30} =2^{30} -1 =1,073,741,823 .
+a_n .
+a_n
+a_6
+a_n =2a_{n -1} -a_{n -2}
+a_0 =3
+a_1 =4 .
+a_6 =2a_5 -a_4 .
+a_6
+a_5
+a_4 .
+a_5 =2a_4 -a_3 anda_4 =2a_3 -a_2,
+a_3
+a_2
+a_3 =2a_2 -a_1 anda_2 =2a_1 -a_0,
+a_1
+a_0 .
+a_0 & \lt mi/> =3 \\ a_1 & \lt mi/> =4 \\ a_2 & \lt mi/> =2 \cdot 4 -3 =5 \\ a_3 & \lt mi/> =2 \cdot 5 -4 =6 \\ a_4 & \lt mi/> =2 \cdot 6 -5 =7 \\ a_5 & \lt mi/> =2 \cdot 7 -6 =8 \\ a_6 & \lt mi/> =2 \cdot 8 -7 =9.
+n
+a_n =n +3 .
+2a_{n -1} -a_{n -2} & \lt mi/> =2((n -1) +3) -((n -2) +3) \\ \~ & \lt mi/> =2n +4 -n -1 \\ \~ & \lt mi/> =n +3 \\ \~ & \lt mi/> =a_n .
+a_0 =0 +3 =3
+a_1 =1 +3 =4
+1, 4, 9, 16, 25, \ldots
+(s_n)_{n \ge 1}
+s_n =n^2
+1, 3, 6, 10, 15, 21, \ldots
+(T_n)_{n \ge 1}
+T_n =\frac{n(n +1)}{2} .
+1, 2, 4, 8, 16, 32, \ldots
+(a_n)_{n \ge 0}
+a_n =2^n .
+1, 1, 2, 3, 5, 8, 13, \ldots
+F_n =F_{n -1} +F_{n -2}
+F_1 =F_2 =1 .
+T_n =\frac{n(n +1)}{2}
+a_n =2^n
+n =0 .
+(b_n) \colon
+1, 2, 4, 7, 11, 16, 22, \ldots .
+(c_n) \colon
+3, 5, 9, 17, 33, \ldots .
+(d_n) \colon
+0, 2, 6, 12, 20, 30, 42, \ldots .
+(e_n) \colon
+3, 6, 10, 15, 21, 28, \ldots .
+(f_n) \colon
+0, 1, 3, 7, 15, 31, \ldots .
+(g_n)
+3, 6, 12, 24, 48, \ldots .
+(h_n) \colon
+6, 10, 18, 34, 66, \ldots .
+(j_n) \colon
+15, 33, 57, 87, 123, \ldots .
+(0, 1, 3, 6, 10, 15, 21, \ldots),
+n =0,
+(1, 2, 4, 8, 16, \ldots) .
+(1, 2, 4, 7, 11, 16, 22, \ldots) .
+(T_n) .
+b_n =T_n +1 .
+b_n =\frac{n(n +1)}{2} +1 .
+n
+(3, 5, 9, 17, 33, \ldots) .
+c_n =a_n +1 =2^n +1 .
+c_0 =2^0 +1 =2
+c_1 =2^1 +1 =3 .
+c_n =a_{n +1} +1
+c_n =2^{n +1} +1 .
+0, 2, 6, 12, 20, 30, 42, \ldots
+(T_n)!
+d_n /2 =T_n,
+d_n =n(n +1) .
+(3, 6, 10, 15, 21, 28, \ldots) .
+T_n,
+e_n =\frac{(n +2)(n +3)}{2}
+n +3
+(n +2) +1
+e_n =T_{n +2}
+(0, 1, 3, 7, 15, 31, \ldots) .
+f_n =2^n -1 .
+(3, 6, 12, 24, 48, \ldots) .
+g_n =3 \cdot 2^n .
+(6, 10, 18, 34, 66, \ldots) .
+2^n .
+h_n =2^{n +2} +2
+n +2
+2^2,
+2^0
+c_n =2^{n +1} +1 .
+h_n =2(2^n +1),
+(15, 33, 57, 87, 123, \ldots) .
+5, 11, 19, 29, 41, \ldots .
+6, 12, 20, 30, 42, \ldots,
+(d_n)
+d_n =n(n +1) .
+(n +2)(n +3) .
+(n +2)(n +3) -1 .
+j_n =3((n +2)(n +3) -1) .
+(a_n)_{n \ge 1}
+n
+3, 5, 6, 10, 9, 0, 12, \ldots .
+(b_n)_{n \ge 1}
+n
+3, 8, 14, 24, 33, 33, 45, \ldots .
+b_1
+a_1,
+b_2 =3 +5 =a_1 +a_2,
+b_3 =3 +5 +6 =a_1 +a_2 +a_3,
+b_n
+b_n =b_{n -1} +a_n,
+n
+n -1
+n .
+b_n =a_1 +a_2 +a_3 +\cdots +a_n,
+b_n =\sum_{i =1}^n a_i .
+a_n,
+n
+(a_n)_{n \in \mathbb N},
+(b_n)_{n \in \mathbb N}
+b_n =a_0 +a_1 +a_2 +\cdots +a_n .
+(b_n)
+(a_n)
+(b_n)
+(a_n)
+(b_n)
+(a_n) .
+\sum_{k =1}^n a_k .
+a_k
+k
+n .
+\sum
+1 +2 +3 +4 +\cdots +100
+1 +2 +4 +8 +\cdots +2^{50}
+6 +10 +14 +\cdots +(4n -2) .
+\sum_{k =1}^{100} k
+\sum_{k =0}^{50} 2^k
+\sum_{k =2}^n (4k -2)
+(a_n) .
+(d_n)
+d_n =a_{n +1} -a_n .
+(a_n) =(1, 4, 9, 16, 25, \ldots)
+a_n =n^2
+(d_n) =(3, 5, 7, 9, \ldots)
+4 -1 =3,
+9 -4 =5,
+a_n .
+d_n =a_{n +1} -a_n =(n +1)^2 -n^2 =n^2 +2n +1 -n^2 =2n +1 .
+d_n =a_{n +1} -a_n,
+a_{n +1} =a_n +d_n .
+1, 5, 17, 53, 161, 485\ldots .
+4, 12, 36, 108, \ldots .
+1 \cdot 3 =3,
+5 \cdot 3 =15,
+17 \cdot 3 =51
+a_n =3a_{n -1} +2
+a_0 =1 .
+n
+(a_n)_{n \in \mathbb N} =(1, 3, 7, 15, 31, \ldots)
+a_n =2^n -1 .
+a_0 =1,
+a_3 =15 .
+a_n =2a_{n -1} +1
+a_0 =1 .
+a_n =\frac{n^2 +2n +3}{4n}
+a_n =a_{n -1} +a_{n -2} +a_{n -3}
+a_n =3a_{n -1} +2
+a_n =3(n -1) +2
+2, 3, 5, 9, 17, \ldots
+3, 4, 7, 11, 18, \ldots
+1, 2, 3, 4, 5, \ldots
+5, 5, 5, 5, 5, \ldots
+a_n =a_{n -1} +1
+a_n =2a_{n -1} -a_{n -2}
+a_n =2a_{n -1} -1
+a_n =a_{n -1} +a_{n -2}
+a_n =n^2 +6n +3,
+a_8 .
+a_8 =
+a_n =a_{n -1} +2
+a_0 =2 .
+a_4 .
+a_4 =
+a_n =2 \cdot a_{n -1}
+a_0 =8 .
+a_6 .
+a_6 =
+(a_n)_{n \ge 1}
+a_1 .
+2, 4, 7, 11, 16, \ldots
+a_n =
+0, 3, 8, 15, 24, \ldots
+a_n =
+-1, 0, 3, 8, 15, \ldots
+a_n =
+0, 4, 22, 118, 718, \ldots
+a_n =
+a_n,
+n
+a_0
+0, 2, 8, 18, 32, 50, \ldots
+a_n =
+-2, -1, 6, 25, 62, 123, \ldots
+a_n =
+0, 10, 30, 60, 100, 150, \ldots
+a_n =
+0, 2, 7, 15, 26, 40, \ldots
+a_n =
+(a_n)_{n \ge 1}
+1, 3, 5, 7, 9, \ldots
+(b_n)_{n \ge 2}
+(a_n) .
+(b_n)
+0, 1, 1, 2, 3, 5, 8, 13, \ldots
+F_0 =0
+0,
+0 +1,
+0 +1 +1,
+F_0 +F_1 +\cdots +F_n =3F_{n -1}^2 +n,
+2, 4, 6, 10, 16, 26, 42, \ldots .
+5, 6, 11, 17, 28, 45, 73, \ldots .
+0, 0, 0, 0, 0, 0, 0, \ldots .
+a_1 =3;
+a_n =2a_{n -1} +4 .
+10, 24, 52, 108, \ldots .
+a_n =n^2 -3n +1 .
+a_1
+0, 2, 6, 12, 20, \ldots .
+a_n =3 \cdot 2^n +7 \cdot 5^n
+a_n =7a_{n -1} -10a_{n -2} .
+a_n =2^n -5^n
+a_n =7a_{n -1} -10a_{n -2} .
+a_n =2a_{n -1} -a_{n -2}
+a_1 =1
+a_2 =2 .
+a_n =3 +2n .
+\sum
+\prod
+2 +4 +6 +8 +\cdots +2n .
+1 +5 +9 +13 +\cdots +425 .
+1 +\frac{1}{2} +\frac{1}{3} +\frac{1}{4} +\cdots +\frac{1}{50} .
+2 \cdot 4 \cdot 6 \cdot \cdots \cdot 2n .
+(\frac{1}{2})(\frac{2}{3})(\frac{3}{4})\cdots (\frac{100}{101}) .
+\sum_{k =1}^{100} (3 +4k) .
+\sum_{k =0}^n 2^k .
+\sum_{k =2}^{50} \frac{1}{(k^2 -1)} .
+\prod_{k =2}^{100} \frac{k^2}{(k^2 -1)} .
+\prod_{k =0}^n (2 +3k) .
+n
+R_n .
+n
+G_n
+n .
+G_1 =3,
+G_2 =8
+G_n,
+G_5 .
+l
+k
+l
+k
+l
+k .
+l +k =11 .
+n =l +k
+n =1 ?
+n =2 ?
+(a_n)
+n .
+t_n
+2 \times n
+1 \times 2
+(t_n)_{n \ge 1}
+2 \times 1
+2 \times 2
+\backslash usepackagecancel
+\backslash usepackagecancel
+f \colon X \to Y
+f,
+X
+Y .
+f
+f \colon \mathbb N \to \mathbb N
+f(x) =x^2 +3 .
+\{3, 4, 7, 12, 19, 28, \ldots \},
+f \colon \mathbb Z \to \mathbb Z
+f(n) =3n .
+g \colon \{1, 2, 3\} \to \{a, b, c\}
+g(1) =c,
+g(2) =a
+g(3) =a .
+\{1, 2, 3\},
+\{a, b, c\}
+\{a, c\} .
+g(2)
+g(3)
+h \colon \{1, 2, 3, 4\} \to \mathbb N
+x
+h(x)
+\{1, 2, 3, 4\}
+\mathbb N .
+f
+f \colon \mathbb N \to \mathbb N
+f(n) =\frac{n}{2} .
+f
+f(3) =\frac{3}{2},
+\frac{3}{2}
+\mathbb N
+\mathbb N
+f \colon \{1, 2, 3\} \to \{1, 2, 3\} .
+f
+f(x) =\{x +1 & \~if\~x =1 \\ x -1 & \~if\~x =2 \\ x & \~if\~x =3 \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/> .
+x
+f(x)
+f = \begin{pmatrix} 0 & 1 & 2 & 3 & 4 \\ 3 & 3 & 2 & 4 & 1 \end{pmatrix} .
+X =\{1, 2, 3, 4\}
+Y =\{a, b, c, d\} .
+f
+g .
+a
+f = \begin{pmatrix} 1 & 2 & 3 & 4 \\ d & a & c & b \end{pmatrix} g = \begin{pmatrix} 1 & 2 & 3 & 4 \\ d & a & a & b \end{pmatrix}
+h
+a
+c
+h .
+h = \begin{pmatrix} 1 & 2 & 3 & 4 \\ \~ & a, c ? & d & b \end{pmatrix} .
+\mathbb N .
+f \colon \mathbb N \to \mathbb N
+x
+\ldots
+f(x)
+\ldots
+f(6) ?
+f(6) =36,
+f(6) =42 .
+n,
+f(6) =n .
+f(6) =36,
+f(n) =n^2 .
+\mathbb N,
+f \colon \mathbb N \to \mathbb N
+f(0) =0
+f(n +1) =f(n) +2n +1 .
+f(6) .
+f(6) =f(5) +11
+6 =n +1
+n =5
+f(5)
+f(5) =f(4) +9 .
+f(4),
+f(3),
+f(2),
+\mathbb N
+f(0)
+f(6)
+f(6) \colon
+f(1) = & f(0) +1 = & 0 +1 =1 \\ f(2) = & f(1) +3 = & 1 +3 =4 \\ f(3) = & f(2) +5 = & 4 +5 =9 \\ f(4) = & f(3) +7 = & 9 +7 =16 \\ f(5) = & f(4) +9 = & 16 +9 =25 \\ f(6) = & f(5) +11 = & 25 +11 =36
+f(n) =n^2 .
+f \colon \mathbb N \to \mathbb N,
+f(0) .
+f(n +1)
+f(n)
+n
+f \colon \mathbb N \to \mathbb N
+n
+g \colon \mathbb N \to \mathbb N
+n
+h \colon \mathbb N \to \mathbb N
+h(n) =n! .
+n! =1 \cdot 2 \cdot 3 \cdot \cdots \cdot (n -1) \cdot n
+1
+n .
+0! =1 .
+f(0) =3 .
+f(n +1)
+f(n) .
+f(n +1) =2f(n) .
+f(0) =3; f(n +1) =2f(n) .
+g(0) =7 .
+n +1
+n,
+g(n) .
+g(0) =7; g(n +1) =g(n) +2 .
+h(0) =1 .
+h(n +1) =(n +1)!
+h(n) =n! .
+(n +1)!
+n!
+n +1 .
+h(0) =1; h(n +1) =(n +1) \cdot h(n) .
+f \colon \mathbb Z \to \mathbb Z
+f(n) =3n .
+g \colon \{1, 2, 3\} \to \{a, b, c\}
+g = \begin{pmatrix} 1 & 2 & 3 \\ c & a & a \end{pmatrix} .
+h \colon \{1, 2, 3\} \to \{1, 2, 3\}
+f
+n \in \mathbb Z
+\frac{1}{3}
+\frac{1}{3}
+3\mathbb Z
+\mathbb Z .
+g
+x \in \{1, 2, 3\}
+g(x) =b,
+b,
+h
+f \colon \mathbb Z \to \mathbb Z
+f(n) =3n .
+g \colon \{1, 2, 3\} \to \{a, b, c\}
+g = \begin{pmatrix} 1 & 2 & 3 \\ c & a & a \end{pmatrix} .
+h \colon \{1, 2, 3\} \to \{1, 2, 3\}
+f
+x
+x/3
+x .
+x
+x .
+g
+2
+3
+a .
+h
+x
+f(x),
+x
+y
+x
+f(x) =y,
+f \colon X \to Y
+A \subseteq X
+f(A)
+A
+f
+Y
+A .
+f(A) =\{f(a) \in Y \colon a \in A\} .
+f \colon X \to Y
+B \subseteq Y
+f^{ -1} (B)
+B
+f
+X
+B .
+f^{ -1} (B) =\{x \in X \colon f(x) \in B\}
+y
+f^{ -1} (\{y\})
+f
+y .
+y
+y
+f^{ -1} (\{y\}) =\varnothing .
+f
+y
+f
+y
+f^{ -1} (y)
+f^{ -1} (y)
+f^{ -1} (y)
+f .
+f^{ -1} (y)
+f^{ -1} (\{y\}) .
+f^{ -1} (y)
+y
+f
+y
+f^{ -1}
+f^{ -1}
+f \colon \{1, 2, 3, 4, 5, 6\} \to \{a, b, c, d\}
+f = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 & 6 \\ a & a & b & b & b & c \end{pmatrix} .
+f(\{1, 2, 3\}),
+f^{ -1} (\{a, b\}),
+f^{ -1} (d) .
+f(\{1, 2, 3\}) =\{a, b\}
+a
+b
+f
+1,
+2,
+3 .
+f^{ -1} (\{a, b\}) =\{1, 2, 3, 4, 5\}
+f
+a
+b .
+f^{ -1} (d) =\varnothing
+d
+f .
+g \colon \mathbb Z \to \mathbb Z
+g(n) =n^2 +1 .
+g(1)
+g(\{1\}) .
+g^{ -1} (1),
+g^{ -1} (2),
+g^{ -1} (3) .
+g(1) \not= g(\{1\}) .
+g(1) =2 .
+g(\{1\}) =\{2\}
+g^{ -1} (1),
+n
+n^2 +1 =1 .
+g^{ -1} (1) =\{0\}
+g^{ -1} (2),
+n
+n^2 +1 =2 .
+g^{ -1} (2) =\{ -1, 1\} .
+n^2 +1 =3,
+n
+n^2 =2 .
+g^{ -1} (3) =\varnothing .
+f^{ -1} (y)
+| f^{ -1} (y)|,
+y .
+f \colon \{1, 2, 3, 4, 5\} \to \mathbb N
+| f^{ -1} (7)| =5 .
+7 \in \mathbb N .
+f = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 \\ 7 & 7 & 7 & 7 & 7 \end{pmatrix}
+f \colon X \to Y
+f,
+X,
+Y .
+f = \begin{pmatrix} 1 & 2 & 3 & 4 \\ 2 & 1 & 3 & 1 \end{pmatrix}
+f(x) =y
+x
+y
+y
+y
+x
+f
+x
+y
+x
+x
+f
+f(x) .
+y
+f^{ -1} (y),
+y
+A
+f(A) =\{f(a) \in Y \colon a \in A\} .
+B
+f^{ -1} (B) =\{x \in X \colon f(x) \in B\} .
+f \colon \{1, 2, 3, 4, 5\} \to \{1, 2, 3, 4, 5\}
+f = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 \\ 5 & 3 & 3 & 4 & 2 \end{pmatrix} .
+f(5) .
+n
+f(n) =5 .
+n
+f(n) =n .
+\{1, 2, 3, 4, 5\}
+f(x) =\{x +2 & \~if\~x \lt 4 \\ x & \~if\~x \ge 4 \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+f = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 \\ 3 & 3 & 1 & 3 & 1 \end{pmatrix}
+f = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 \\ 2 & 3 & 4 & 5 & 1 \end{pmatrix}
+f = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 \\ 5 & 4 & 3 & 2 & 1 \end{pmatrix}
+f \colon \{1, 2, 3, 4, 5\} \to \{1, 2, 3\} .
+f = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 \\ 2 & 2 & 3 & 3 & 2 \end{pmatrix}
+f = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 \\ 2 & 1 & 2 & 1 & 2 \end{pmatrix}
+f(x) =\{4 -x & \~if\~x \le 3 \\ x -3 & \~if\~x >3 \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+f \colon \{1, 2, 3, 4\} \to \{1, 2, 3, 4, 5\} .
+f = \begin{pmatrix} 1 & 2 & 3 & 4 \\ 2 & 2 & 1 & 4 \end{pmatrix}
+f = \begin{pmatrix} 1 & 2 & 3 & 4 \\ 4 & 3 & 2 & 1 \end{pmatrix}
+f = \begin{pmatrix} 1 & 2 & 3 & 4 \\ 2 & 3 & 4 & 5 \end{pmatrix}
+f \colon \{1, 2, 3, 4\} \to \{a, b\}
+f \colon \{1, 2\} \to \{a, b, c, d\}
+f \colon \{1, 2, 3, 4, 5\} \to \{1, 2, 3, 4\}
+x
+f(x)
+f
+f
+f \colon \{1, 2, 3, 4\} \to \{1, 2, 3, 4\}
+f
+f
+f \colon \mathbb N \to \mathbb N
+f(0) =1\~and\~f(n +1) =4 \cdot f(n) .
+f(14) .
+f \colon \mathbb N \to \mathbb N
+f(n +1) =f(n) +8 .
+f(8) .
+f(0) =1 .
+f(0) =7 .
+f(0) =11 .
+f(0) =226 .
+f \colon \mathbb N \to \mathbb N
+f(n +1) =\{\frac{f(n)}{2} & \~if\~f(n)\~is\space even \\ 3f(n) +1 & \~if\~f(n)\~is\space odd \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/> .
+f(0) =1,
+f(1) =4
+f(2) =2,
+f(3) =1,
+f(4) =4,
+f
+f
+f(0) =5,
+f
+f
+f(0) =3,
+f
+f
+f(0) =27,
+f(105) =10
+f
+f \colon \mathbb N \to \mathbb N
+f(n) =n +4 .
+f \colon \mathbb Z \to \mathbb Z
+f(n) =n +4 .
+f \colon \mathbb Z \to \mathbb Z
+f(n) =5n -8 .
+f \colon \mathbb Z \to \mathbb Z
+f(n) =\{n/2 & \~if\~n\~is\space even \\ (n +1)/2 & \~if\~n\~is\space odd . \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+A =\{1, 2, 3, \ldots, 10\} .
+f \colon \mathcal P (A) \to \mathbb N
+f(B) =| B| .
+f
+A
+f
+f
+f^{ -1} (1) .
+f^{ -1} (0) .
+f^{ -1} (12) .
+X =\{n \in \mathbb N \colon 0 \le n \le 999\}
+f \colon X \to \mathbb N
+f(abc) =a +b +c,
+a,
+b,
+c
+X
+f
+f(253) =2 +5 +3 =10 .
+A =\{n \in X \colon 309 \le x \le 326\} .
+f(A) .
+f^{ -1} (\{1, 3\}) .
+f^{ -1} (2) .
+f^{ -1} (200) .
+\mathbb N^2 =\mathbb N \times \mathbb N,
+(a, b)
+a
+b
+f \colon \mathbb N^2 \to \mathbb N
+f((a, b)) =a +b
+A =\{(a, b) \in \mathbb N^2 \colon a, b \le 10\} .
+f(A) .
+f^{ -1} (3)
+f^{ -1} (\{0, 1, 2, 3\}) .
+f^{ -1} (n)
+f^{ -1} (\{0, 1, \ldots, n\})
+n \ge 1 .
+| f^{ -1} (8)|
+| f^{ -1} (\{0, 1, \ldots, 8\})| .
+f \colon X \to Y
+3 \in Y .
+f^{ -1} (3)
+f
+f
+f
+X
+f \colon X \to \mathbb N
+f^{ -1} (0) \cup f^{ -1} (1) =X .
+X
+Y
+f \colon X \to Y ?
+f \colon X \to Y ?
+f \colon X \to Y ?
+f \colon X \to Y
+f
+f
+| X| =| Y|
+f
+| X| =| Y|
+f
+| X| =| Y|,
+X
+Y
+f
+| X| =| Y|,
+X
+Y
+f
+f \colon X \to Y
+g \colon Y \to Z
+f
+g
+g \circ f \colon X \to Z
+x \in X
+g(f(x)) .
+x
+f,
+g
+f
+g
+g \circ f
+f
+g
+g \circ f
+g \circ f
+f
+g ?
+g \circ f
+f
+g ?
+f = \begin{pmatrix} 1 & 2 & 3 \\ a & a & b \end{pmatrix}
+g = \begin{pmatrix} a & b & c \\ 5 & 6 & 7 \end{pmatrix} ?
+f \colon \mathbb Z \to \mathbb Z
+f(n) =\{n +1 & \~if\~n\~is\space even \\ n -3 & \~if\~n\~is\space odd . \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+f
+f
+f \colon \mathbb N \to \mathbb N
+n
+n +1
+f \colon X \to Y
+A \subseteq X
+| A|
+| f(A)| ?
+f
+f \colon X \to Y
+B \subseteq Y
+| B|
+| f^{ -1} (B)| ?
+f
+f \colon X \to Y
+A \subseteq X
+B \subseteq Y .
+f^{ -1} (f(A)) =A ?
+f(f^{ -1} (B)) =B ?
+f \colon X \to Y
+A, B \subseteq X
+f(A \cup B) =f(A) \cup f(B) ?
+f(A \cap B) =f(A) \cap f(B) ?
+f \colon X \to Y
+A, B \subseteq Y
+f^{ -1} (A \cup B) =f^{ -1} (A) \cup f^{ -1} (B) ?
+f^{ -1} (A \cap B) =f^{ -1} (A) \cap f^{ -1} (B) ?
+\backslash usepackagecancel
+A
+B,
+(2, 1), (2, 6), (2, 8), (4, 1), (4, 6), (4, 8), (9, 1), (9, 6), (9, 8) .
+A
+a \sim b
+3 \sim 24,
+24 -3 =3 \cdot 7,
+3 \not\sim 15
+15 -3 =12
+4 \sim 14
+7 \sim 14
+10 \sim 17
+17 \sim 24
+10 \sim 24
+20 \sim 10
+31 \sim 3
+25 \sim 25
+\sim
+a \sim a
+a
+a \not\sim a
+a
+a
+b,
+a \sim b,
+b \sim a
+a
+b,
+a \sim b
+b \sim a,
+a =b
+a
+b,
+a \sim b
+b \sim c,
+a \sim c
+[a]
+a .
+[7] =\{7, 14, 21, 28\} .
+[1] =
+[2] =
+[3] =
+[4] =
+[5] =
+[6] =
+[a]
+19 \div 7
+2
+19 =2 \cdot 7 +5 .
+a
+5 mod7 .
+a
+a \sim b
+4 \sim 14
+7 \sim 14
+10 \sim 17
+17 \sim 24
+10 \sim 24
+20 \sim 10
+31 \sim 3
+25 \sim 25
+G =(V, E);
+E
+V .
+V
+G =((A, B), E) .
+(a, b)
+a
+A
+b
+B .
+A
+B,
+A \times B =\{(a, b) \colon a \in A, b \in B\} .
+A \times B
+A
+B .
+A
+B
+A
+B
+A
+B
+A
+B
+A \times B .
+A
+A \times A .
+A \times A
+A .
+A
+B
+A =\{Al,\space Bob,\space Cat,\space Dirk,\space Eva\}
+B =\{Calculus,\space Discrete,\space Statistics\} .
+T
+A
+B
+A \times B
+T =\{ & \lt mi/>(Al, Calculus), (Al, Statistics), \\ \~ & \lt mi/>(Bob, Calculus), (Bob, Discrete) \\ \~ & \lt mi/>(Cat, Calculus), (Cat, Statistics) \\ \~ & \lt mi/>(Dirk, Statistics) \\ \~ & \lt mi/>(Eva, Calculus), (Eva, Discrete)\}
+M
+A =\{1, 2, 3, 4, 5, 6\} .
+6
+2,
+(6, 2),
+6
+4,
+(6, 4)
+(6, 2) \in M
+(6, 4) \notin M .
+M \colon
+M =\{ & \lt mi/>(1, 1), (2, 1), (2, 2), (3, 1), (3, 3), (4, 1), (4, 2), (4, 4), \\ \~ & \lt mi/>(5, 1), (5, 5), (6, 1), (6, 2)(6, 3), (6, 6)\} .
+6
+2,
+2
+6,
+R
+A
+B
+B
+A .
+R
+A
+B;
+B
+A,
+R .
+R,
+R^{ -1}
+R
+R^{ -1} =\{(b, a) \colon (a, b) \in R\} .
+T
+T^{ -1}
+(Calculus, Al)
+T^{ -1} .
+M
+6
+2,
+(6, 2) \in M .
+(2, 6) \in M^{ -1},
+2
+6 .
+R
+A
+B
+S
+B
+C .
+R
+S
+S \circ R =\{(a, c) \in A \times C \colon (a, b) \in R\~and\~(b, c) \in S\~for\space some\~b \in B\}
+S \circ R,
+R \circ S .
+P \circ T,
+P =\{(Calculus, Prof\space X), (Discrete, Prof\space L), (Statistics, Prof\space X), (Statistics, Prof\space S)\} .
+T,
+P .
+(Cat, Calculus) \in T .
+P \colon
+(Calculus, Prof\space X) \in P .
+(Cat, Prof\space X) \in P \circ T .
+(Al, Prof\space L)
+(Al, Prof\space X) \in P \circ T
+P \circ T =\{ & \lt mi/>(Al, Prof\space X), (Al, Prof\space S), (Bob, Prof\space X), (Bob, Prof\space L), \\ \~ & \lt mi/>(Cat, Prof\space X), (Cat, Prof\space S), (Dirk, Prof\space X), (Dirk, Prof\space S), \\ \~ & \lt mi/>(Eva, Prof\space X), (Eva, Prof\space L)\}
+f(x) =e^x
+f^{ -1} (x) =\ln (x),
+f(f^{ -1} (x)) =e^{\ln (x)} =x .
+T^{ -1} \circ T
+T
+A \times A
+R
+A .
+R
+(a, a) \in A
+a \in A .
+R
+a, b \in A,
+(a, b) \in R
+(b, a) \in R .
+R
+a, b, c \in A,
+(a, b) \in R
+(b, c) \in R,
+(a, c) \in R .
+2 \lt 6
+(2, 6) \in \lt .
+3 \le 3 ?
+a
+b
+| a -b| \le 3 .
+| a -a| =0 \le 3 .
+a
+b
+a +b =0 .
+0 +0 =0,
+(0, 0)
+a
+b,
+b
+a .
+| a -b| \le 3
+| b -a| \le 3 .
+a +b =0,
+b +a =0 .
+\le
+a
+b
+a \le b
+b \not\leq a .
+3 \le 4,
+4 \not\leq 3 .
+6
+2
+2
+6 .
+(a, b)
+(b, a)
+a =b .
+a
+b,
+b
+c,
+a
+c ?
+a,
+b,
+c
+\le .
+a \le b
+b \le c .
+a \le c .
+a
+b
+b
+c .
+a =bk
+k
+b =cj
+j .
+a =cjk,
+a
+c .
+1,
+3,
+5 .
+1
+3,
+3
+5,
+| 1 -5| =4
+(1, 5) .
+a,
+b,
+c
+a =5,
+b = -5
+c =5 .
+a +b =0
+b +c =0,
+(a, b)
+(b, c) .
+a +c =10
+(a, c) .
+a =b,
+b =a,
+a =b
+b =c,
+a =c,
+\subseteq
+\le .
+\subseteq
+\equiv_2,
+a\equiv_2 b
+b -a =2k
+k .
+\equiv_2
+a,
+a -a =0
+0 =2k
+k =0,
+a\equiv_2 a .
+\equiv_2
+a
+b,
+a\equiv_2 b .
+b -a =2k
+k .
+a -b ?
+a -b =2( -k),
+-k
+b\equiv_2 a .
+\equiv_2
+a,
+b,
+c
+a\equiv_2 b
+b\equiv_2 c .
+b -a =2k
+c -b =2j
+k
+j .
+c -a ?
+c -a =(c -b) +(b -a) =2k +2j =2(k +j) .
+k +j
+a\equiv_2 c
+G_1
+G_2,
+G_2
+G_1,
+G_1
+G_2,
+G_3,
+G_1
+G_3
+R,
+R
+A
+a
+A .
+a,
+[a]
+b
+(a, b) \in R
+b
+a
+R
+[a] =\{b \in A \colon (a, b) \in R\} .
+R
+A =\{1, 2, 3, 4, 5, 6\} .
+[1] = & \lt mi/>\{1\} \\ [2] = & \lt mi/>\{1, 2\} \\ [3] = & \lt mi/>\{1, 3\} \\ [4] = & \lt mi/>\{1, 2, 4\} \\ [5] = & \lt mi/>\{1, 5\} \\ [6] = & \lt mi/>\{1, 2, 3, 6\} .
+[4]
+(4, b)
+b
+\equiv_2
+[1] = & \lt mi/>\{\ldots, -3, -1, 1, 3, 5, \ldots \} \\ [2] = & \lt mi/>\{\ldots, -4, -2, 2, 4, 6, \ldots \}
+[3],
+[4],
+[5],
+3
+1,
+1\equiv_2 3 .
+3\equiv_2 b,
+1\equiv_2 b .
+\equiv_2,
+A,
+A
+P
+A
+A
+P .
+A =\{1, 2, 3, 4, 5\} .
+P_1 =\{\{1, 2, 3\}, \{4, 5\}\} .
+A
+P_2 =\{\{1\}, \{2\}, \{3\}, \{4\}, \{5\}\} .
+P_3 =\{\{1, 3, 5\}, \{2, 4\}\},
+P_4 =\{\{1, 2, 3, 4, 5\}\} .
+P_4 .
+\equiv_2
+\sim
+A =\{1, 2, 3, 4, 5\}
+P =\{\{1, 4\}, \{2, 3, 5\}\} .
+A
+P .
+1 \sim 4
+4 \sim 1,
+2 \sim 3,
+2 \sim 5,
+3 \sim 5,
+3 \sim 2,
+5 \sim 2,
+5 \sim 3 .
+1 \sim 1,
+2 \sim 2,
+R
+A,
+A .
+P =\{B_1, B_2, \ldots, \}
+A,
+\equiv_P
+a\equiv_P b
+a
+b
+P,
+R
+a
+b
+b -a \ge 4 .
+(2, 7) \in R
+(8, 6) \notin R .
+R
+R
+R
+R
+R
+R
+x,
+y,
+x',
+y'
+x \sim y
+x +y
+x \sim y
+x -y
+x \sim y
+xy \ge 0
+x \sim y
+x +y
+x \sim y
+x +y
+x,
+y,
+x',
+y'
+x \sim y
+x =| y| .
+x \sim y
+x +y
+x \sim y
+xy
+x \sim y
+x +2y
+x \sim y
+xy
+x,
+y,
+x',
+y'
+x \sim y
+x +y
+x \sim y
+x +y
+x \sim y
+x +y
+x \sim y
+x -y
+(x, y) \sim (x', y')
+x +y' =x' +y .
+x \sim y
+xy \ge 0
+R_1, \ldots, R_6
+1, 2, 3, 4
+R_1 =\{(2, 2), (2, 3), (2, 4), (3, 2), (3, 3), (3, 4)\},
+R_2 =\{(1, 1), (1, 2), (2, 1), (2, 2), (3, 3), (4, 4)\},
+R_3 =\{(2, 4), (4, 2)\}
+R_4 =\{(1, 2), (2, 3), (3, 4)\},
+R_5 =\{(1, 1), (2, 2), (3, 3), (4, 4)\},
+R_6 =\{(1, 3), (1, 4), (2, 3), (2, 4), (3, 1), (3, 4)\},
+R_4
+R_1
+R_3
+R_4
+R_6
+R_4
+R_1
+R_2
+R_3
+R_3
+R_5
+R_2
+R_5
+a
+b
+a
+b
+a
+b
+a
+b
+(x, y) \in R
+x +y =0
+x -y
+x =2y
+xy >1
+>
+\{1, 2, \ldots, 8\} .
+> .
+>^{ -1} .
+>
+\le ?
+R
+A,
+R^{ -1}
+R
+R
+A,
+R
+R \circ R^{ -1},
+\{1, 2, 3, 4\}
+\{1, 2, 3, 4\}
+\{1, 2, 3, 4\}
+R
+A
+R
+aRb,
+bRa
+R
+aRb
+bRa,
+aRb
+a,
+aRa
+a
+A,
+R
+R
+A =\{1, 2, \ldots, 6\} .
+R
+R
+R
+A =\{1, 2, 3, 4, 5\}
+R =\{(1, 2), (2, 3), (3, 4), (4, 5), (5, 1), (2, 1), (3, 1), (4, 1), (5, 1)\} .
+R
+[a]
+a \in R
+R
+\backslash usepackagecancel
+\backslash usepackagecancel
+\backslash usepackagecancel
+n^k
+P(n, k)
+\binom{n}{k}
+\{1, 2, 2, 5\}
+4^7
+4^7
+3112,
+7^4 .
+ABAADCD,
+4^7,
+AAABCDD .
+\{A, A, A, B, C, D, D\} .
+3112 .
+\{R, R, G, G, G, B, B, B, B, Y\}
+\{R, R, R, R, R, R, R, R, R, R\}
+\{R, G, B, Y, P, O, O, O, O, O\}
+2, 3, 4, 1, 0, 0; 10, 0, 0, 0, 0, 0; 1, 1, 1, 1, 1, 5 .
+3, 3, 3, 2, 1
+0, 0, 12, 0, 0
+1, 1, 1, 1, 8
+\{1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 5\}
+\{3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3\} .
+\{1, 2, 3, 4, 5, 5, 5, 5, 5, 5, 5, 5\} .
+a +b +c +d +e =12 .
+\{A, A, A, B, C, D, D\}
+3, 1, 1, 2 .
+111, 1, 1, 11 .
+111, 1, 1, 11
+\circ \circ \circ | \circ | \circ | \circ \circ .
+\binom{10}{3} =120 .
+\circ \circ \circ | \circ | \circ | \circ \circ
+\binom{6}{3}
+\binom{6}{3}
+\binom{15}{9} .
+| \circ | | \circ \circ | \circ | | | \circ \circ | \circ | .
+\binom{16}{9} .
+x_1 +x_2 +x_3 +x_4 +x_5 =13 .
+x_i \ge 0
+x_i ?
+x_i >0
+x_i ?
+x_i \ge 2
+x_i ?
+x_i
+\binom{17}{4}
+\binom{12}{4} .
+\binom{7}{4}
+\binom{10}{7} =120,
+f \colon \{1, 2, 3, 4, 5, 6, 7\} \to \{a, b, c, d\}
+4^7 =16384 .
+f = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 & 6 & 7 \\ a & b & c & c & c & c & c \end{pmatrix} g = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 & 6 & 7 \\ b & a & c & c & c & c & c \end{pmatrix} .
+a
+b
+c
+d
+\{1, 1, 2, 5, 5, 7\}
+x +y +z =11
+x,
+y,
+z
+x,
+y,
+z
+x,
+y,
+z
+-3 .
+x_1 +x_2 +x_3 +x_4 =38
+x_1 \ge 4,
+x_2 \ge 4,
+x_3 \ge 1
+x_4 \ge 1 ?
+f \colon \{1, 2, 3, 4, 5, 6, 7\} \to \{0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10\} .
+a \lt b,
+f(a) \lt f(b) .
+a \lt b,
+f(a) \le f(b) .
+\circ \circ \circ | \circ | | \circ \circ |
+x_1 +x_2 +x_3 +x_4 =6 .
+x +y +z =8 ?
+f
+f
+\backslash usepackagecancel
+4 \times 4
+2 \times 2
+4 \times 10^{18},
+ab
+a
+b
+a
+b
+a =2k +1
+b =2m +1
+k
+m .
+ab & \lt mi/> =(2k +1)(2m +1) \\ \~ & \lt mi/> =4km +2k +2m +1 \\ \~ & \lt mi/> =2(2km +k +m) +1.
+ab
+a
+b
+a
+b
+a =2k
+k .
+ab & \lt mi/> =(2k)b \\ \~ & \lt mi/> =2(kb) .
+ab
+ab
+a
+b
+ab =2n,
+a =2k +1
+b =2j +1
+n,
+k,
+j .
+2n & \lt mi/> =(2k +1)(2j +1) \\ 2n & \lt mi/> =4kj +2k +2j +1 \\ n & \lt mi/> =2kj +k +j +\frac{1}{2} .
+2kj +k +j
+n
+ab
+ab =2n,
+a
+a =2k +1 .
+ab & \lt mi/> =(2k +1)b \\ 2n & \lt mi/> =2kb +b \\ 2n -2kb & \lt mi/> =b \\ 2(n -kb) & \lt mi/> =b .
+b
+4 \times 4
+2 \times 2
+4 \times 4
+S
+S
+S
+S
+P \to Q \colon
+P
+Q .
+P \to Q
+P
+Q
+P .
+Q .
+\forall x(P(x) \to Q(x)) .
+x .
+S
+S
+P
+S
+\forall x(S(x) \to R(x)) .
+P(x)
+Q(x) .
+x
+x .
+P
+P
+S
+P
+S .
+S .
+S .
+S
+S
+P
+n,
+n
+n^2
+n
+n
+n^2
+n
+n^2 .
+n
+k
+n =2k .
+n
+n
+n =2k
+k .
+n^2 =(2k)^2 =4k^2 =2(2k^2) .
+2k^2
+n^2
+a,
+b,
+c,
+b
+a,
+c
+b,
+c
+a .
+a,
+b,
+c
+b
+a
+c
+b .
+c
+a .
+b
+a
+b =ka
+k .
+c =la,
+l .
+a,
+b,
+c
+b
+a
+c
+b .
+k
+j
+b =ka
+c =jb .
+c =j(ka) =(jk)a .
+jk
+c
+a .
+P \to Q
+\lnot Q \to \lnot P .
+P \to Q
+\lnot Q .
+\lnot P .
+P
+P
+P
+n,
+n^2
+n
+n
+n^2
+n .
+n^2 =2k
+n
+n,
+n
+n^2
+n
+n =2k +1
+k .
+n
+n
+n^2
+n
+n
+n =2k +1
+k .
+n^2 =(2k +1)^2 =4k^2 +4k +1 =2(2k^2 +2k) +1 .
+2k^2 +2k
+n^2
+a
+b,
+a +b
+a
+b
+a
+b
+a +b .
+a
+b
+a +b .
+a
+b,
+a
+b
+a +b
+a
+b
+a
+b
+a +b
+a
+b
+a
+b
+a =2k
+b =2l
+k
+l .
+a +b =2k +2l =2(k +l) .
+k +l
+a +b
+a
+b
+a
+b
+p,
+p =2
+p
+p,
+p \not= 2,
+p
+p >1
+1
+p .
+p
+p
+p
+p
+p
+p =2 .
+P \wedge \lnot P
+P
+\lnot P
+P
+P
+\lnot P \to \~contradiction .
+\lnot P
+P
+S
+S
+S
+S
+\lnot \exists S(S\~is\space a\space solution\~) .
+\forall S(S\~is\space not\space a\space solution) .
+\sqrt{2}
+\sqrt{2}
+\frac{a}{b} .
+\frac{a}{b}
+2 =\frac{a^2}{b^2}
+2b^2 =a^2 .
+a^2
+a
+a =2k
+k,
+a^2 =4k^2 .
+2b^2 =4k^2
+b^2 =2k^2 .
+b^2
+b
+a
+\frac{a}{b}
+\sqrt{2}
+x
+y
+x^2 =4y +2 .
+x
+y
+x^2 =4y +2 =2(2y +1) .
+x^2
+x
+x =2k
+k .
+x^2 =4k^2 .
+2k^2 =(2y +1) .
+2k^2
+2y +1
+x
+y
+x^2 =4y +2 .
+n
+n
+n
+n
+P \to Q \colon
+P .
+Q .
+\lnot Q .
+\lnot P .
+\lnot (P \to Q) .
+\lnot (P \to Q)
+P
+Q
+P \wedge \lnot Q .
+P
+\lnot Q
+a
+d
+P
+a
+b
+c
+d
+S
+S,
+a
+a
+a
+a
+a
+d,
+P
+S
+S .
+n,
+n
+n
+n
+n
+P
+S,
+a,
+a
+a
+A
+| A| =6,
+A
+A
+A
+A
+A
+| A| =6 .
+A
+| A| \not= 6 .
+A
+| A| =6
+A
+| A| =6,
+A
+A
+A
+| A| \not= 6 .
+A
+| A| =6
+A
+A
+A
+| A| =6 .
+A
+| A| =6,
+A
+A
+| A| \not= 6 .
+A
+A
+A
+| A| =6
+A
+A
+| A| =6 .
+n,
+n
+7n
+n
+7n
+7
+7n
+n
+n
+n
+7
+7n
+n
+7n
+n,
+7n
+n
+7
+7n
+n
+n
+7n
+n
+7n
+n
+n
+7
+n
+7
+a
+b,
+a +b
+a
+b
+a
+b
+a
+b
+a +b
+a
+b
+a
+b
+a +b
+a +b
+a +b
+a
+b
+a +b
+a
+b
+a
+b,
+a +b
+a
+b
+a
+b
+a +b
+a +b
+a
+b
+a
+b
+a +b
+a
+b
+a
+b
+a +b
+a
+b
+a +b
+f \colon A \to B
+| A| =| B| .
+f \colon A \to B
+| A| \not= | B|
+f \colon A \to B
+| A| \not= | B|
+P(x),
+\forall xP(x)
+\exists xP(x)
+n
+P(n)
+P(n)
+n
+P(n)
+\forall xP(x)
+\forall xP(x)
+\exists xP(x)
+\exists xP(x)
+a
+b,
+a +b
+a
+b
+x
+y
+x
+x =6y +3 .
+n,
+n
+n
+a
+b,
+a^2 +b^2
+a
+b
+n,
+n
+8n
+n,
+n
+3n
+n
+3n
+3n
+n
+\sqrt{3}
+\sqrt{2}
+a
+b,
+a
+b
+ab
+n,
+5n
+n
+a,
+b,
+c,
+a^2 +b^2 =c^2,
+a
+b
+a
+b
+c^2
+n,
+n
+n
+x =y
+xy =\frac{(x +y)^2}{4} .
+\log (7)
+\log (7) =\frac{a}{b},
+7 =10^{\frac{a}{b}} .
+x^2 =4y +3 .
+x
+1 =3 .
+1 =3 .
+-1 =1 .
+1 =1 .
+1 =3 ?
+n \times n
+n ?
+n
+n \times n
+n
+\backslash usepackagecancel
+\backslash usepackagecancel
+n
+n \ge 1 .
+n
+n
+n
+n,
+n =k
+n =k -1
+n
+n
+n
+n
+n =k
+n =k +1,
+n
+2 +10 +18 +\cdots +1026 .
+13, 17, 21, 25, \ldots, 4n +1 .
+a_n =3 \cdot 5^{n -1} .
+a_1 =
+a_2 =
+a_3 =
+a_4 =
+\sum_{k =1}^{21} a_k .
+5, 11, 19, 29, 41, 55, \ldots .
+a_1 =5 .
+a_n,
+n
+a_0,
+n
+(a_n)_{n \ge 1}
+3, 5, 9, 15, 23, \ldots
+a_1,
+a_0 .
+a_n =
+a_1 =4,
+a_2 =6
+a_n =a_{n -1} +a_{n -2} .
+a_n
+(a_n)_{n \ge 1}
+-1, 0, 2, 5, 9, 14\ldots
+a_n =\frac{(n +1)(n -2)}{2} .
+(b_n)_{n \ge 1}
+4, 10, 18, 28, 40, \ldots .
+a_n = -3a_{n -1} +10a_{n -2}
+a_0 =3
+a_1 =6 .
+a_2 =
+a_3 =
+a_4 =
+a_n .
+a_n =
+a_n =a_{n -1} +6a_{n -2}
+a_0 =5
+a_1 =9 .
+a_2
+a_3
+a_2 =
+a_3 =
+a_n .
+a_n =
+n
+F_1^2,
+F_1^2 +F_2^2,
+F_1^2 +F_2^2 +F_3^2, \ldots .
+1, 2, 6, 15, 40, \ldots
+n
+n! \lt n^n
+n \ge 2
+\frac{1}{1 \cdot 2} +\frac{1}{2 \cdot 3} +\frac{1}{3 \cdot 4} +\cdots +\frac{1}{n \cdot (n +1)} =\frac{n}{n +1}
+n \in \mathbb Z^+ .
+4^n -1
+n \in \mathbb N .
+(n +1)^{n +1} >(n +1) \cdot n^n .
+4^{k +1} -1 =4 \cdot 4^k -4 +3 .
+2^2 =4 .
+(2n)^2
+(2n +2)^2 =(2n)^2 +4n +4 .
+4n +4
+(2n)^2 .
+1^3 +2^3 +3^3 +\cdots +n^3 =(\frac{n(n +1)}{2})^2
+n \ge 1,
+(\frac{n(n +1)}{2})^2 +(n +1)^3
+(\frac{(n +1)(n +2)}{2})^2 .
+a_0 =1,
+a_1 =1
+a_n =3a_{n -1} -2a_{n -2} .
+a_n =1
+n .
+P(0)
+P(1) .
+P(k)
+k \lt n .
+a_{n -1} =1
+a_{n -2} =1 .
+n
+2^n
+n \ge 1 .

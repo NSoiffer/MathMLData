@@ -1,0 +1,4973 @@
+\mdwhtsquare
+\mdwhtsquare
+T \colon M_{23} \to \mathbb C^4, T( \begin{bmatrix} a & b & c \\ d & e & f \end{bmatrix}) = \begin{bmatrix} a +2b +12c -3d +e +6f \\ 2a -b -c +d -11f \\ a +b +7c +2d +e -3f \\ a +2b +12c +5e -5f \end{bmatrix}
+\mdwhtsquare
+\{ \begin{bmatrix} 3 & -4 & 0 \\ 1 & 2 & 1 \end{bmatrix}, \begin{bmatrix} -2 & -5 & 1 \\ 0 & 0 & 0 \end{bmatrix} \}
+\mdwhtsquare
+T( \begin{bmatrix} 1 & 10 & -2 \\ 3 & -1 & 1 \end{bmatrix}) & \lt mi/> = \begin{bmatrix} -7 \\ -14 \\ -1 \\ -13 \end{bmatrix} & T( \begin{bmatrix} 5 & -3 & -1 \\ 5 & 3 & 3 \end{bmatrix}) & \lt mi/> = \begin{bmatrix} -7 \\ -14 \\ -1 \\ -13 \end{bmatrix}
+T
+\begin{bmatrix} 5 & -3 & -1 \\ 5 & 3 & 3 \end{bmatrix} & \lt mi/> = \begin{bmatrix} 1 & 10 & -2 \\ 3 & -1 & 1 \end{bmatrix} + \begin{bmatrix} 4 & -13 & 1 \\ 2 & 4 & 2 \end{bmatrix} \\ and \\ \mathbf z & \lt mi/> = \begin{bmatrix} 4 & -13 & 1 \\ 2 & 4 & 2 \end{bmatrix} \in \mathscr K (T)
+\mathbf z
+T
+\mdwhtsquare
+\{ \begin{bmatrix} 1 \\ 2 \\ 1 \\ 1 \end{bmatrix}, \begin{bmatrix} 2 \\ -1 \\ 1 \\ 2 \end{bmatrix}, \begin{bmatrix} 12 \\ -1 \\ 7 \\ 12 \end{bmatrix}, \begin{bmatrix} -3 \\ 1 \\ 2 \\ 0 \end{bmatrix}, \begin{bmatrix} 1 \\ 0 \\ 1 \\ 5 \end{bmatrix}, \begin{bmatrix} 6 \\ -11 \\ -3 \\ -5 \end{bmatrix} \}
+\mdwhtsquare
+\{ \begin{bmatrix} 1 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 1 \end{bmatrix} \}
+\mdwhtsquare
+\mathbb C^4
+\mscrR (T) =\mathbb C^4
+T
+\mathbb C^4
+\mdwhtsquare
+Rank\colon \~4 & \~ & Nullity\colon \~2 & \~ & Domain\space dimension\colon \~6 & \~
+\mdwhtsquare
+\mdwhtsquare
+B & \lt mi/> =\{ \begin{bmatrix} 1 & 0 & 0 \\ 0 & 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 1 & 0 \\ 0 & 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 & 1 \\ 0 & 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 & 0 \\ 1 & 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 & 0 \\ 0 & 1 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 & 0 \\ 0 & 0 & 1 \end{bmatrix} \} & \~ & (Domain\space basis) \\ C & \lt mi/> =\{ \begin{bmatrix} 1 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 1 \end{bmatrix} \} & \~ & (Codomain\space basis) \\ M_{B, C}^T & \lt mi/> = \begin{bmatrix} 1 & 2 & 12 & -3 & 1 & 6 \\ 2 & -1 & -1 & 1 & 0 & -11 \\ 1 & 1 & 7 & 2 & 1 & -3 \\ 1 & 2 & 12 & 0 & 5 & -5 \end{bmatrix}
+\mdwhtsquare
+\mdwhtsquare
+x_1 +4x_2 -x_4 +7x_6 -9x_7 & \lt mi/> =3 \\ 2x_1 +8x_2 -x_3 +3x_4 +9x_5 -13x_6 +7x_7 & \lt mi/> =9 \\ 2x_3 -3x_4 -4x_5 +12x_6 -8x_7 & \lt mi/> =1 \\ -x_1 -4x_2 +2x_3 +4x_4 +8x_5 -31x_6 +37x_7 & \lt mi/> =4
+\mdwhtsquare
+x_1 = -25
+x_2 =4
+x_3 =22
+x_4 =29
+x_5 =1
+x_6 =2
+x_7 = -3
+x_1 = -7
+x_2 =5
+x_3 =7
+x_4 =15
+x_5 = -4
+x_6 =2
+x_7 =1
+x_1 =4
+x_2 =0
+x_3 =2
+x_4 =1
+x_5 =0
+x_6 =0
+x_7 =0
+\mdwhtsquare
+\begin{bmatrix} 1 & 4 & 0 & -1 & 0 & 7 & -9 & 3 \\ 2 & 8 & -1 & 3 & 9 & -13 & 7 & 9 \\ 0 & 0 & 2 & -3 & -4 & 12 & -8 & 1 \\ -1 & -4 & 2 & 4 & 8 & -31 & 37 & 4 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 4 & 0 & 0 & 2 & 1 & -3 & 4 \\ 0 & 0 & \boxed{1} & 0 & 1 & -3 & 5 & 2 \\ 0 & 0 & 0 & \boxed{1} & 2 & -6 & 6 & 1 \\ 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =3 & D & \lt mi/> =\{1, 3, 4\} & F & \lt mi/> =\{2, 5, 6, 7, 8\}
+\mdwhtsquare
+F
+F
+\begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \\ x_5 \\ x_6 \\ x_7 \end{bmatrix} = \begin{bmatrix} 4 \\ 0 \\ 2 \\ 1 \\ 0 \\ 0 \\ 0 \end{bmatrix} +x_2 \begin{bmatrix} -4 \\ 1 \\ 0 \\ 0 \\ 0 \\ 0 \\ 0 \end{bmatrix} +x_5 \begin{bmatrix} -2 \\ 0 \\ -1 \\ -2 \\ 1 \\ 0 \\ 0 \end{bmatrix} +x_6 \begin{bmatrix} -1 \\ 0 \\ 3 \\ 6 \\ 0 \\ 1 \\ 0 \end{bmatrix} +x_7 \begin{bmatrix} 3 \\ 0 \\ -5 \\ -6 \\ 0 \\ 0 \\ 1 \end{bmatrix}
+\mdwhtsquare
+x_1 +4x_2 -x_4 +7x_6 -9x_7 & \lt mi/> =0 \\ 2x_1 +8x_2 -x_3 +3x_4 +9x_5 -13x_6 +7x_7 & \lt mi/> =0 \\ 2x_3 -3x_4 -4x_5 +12x_6 -8x_7 & \lt mi/> =0 \\ -x_1 -4x_2 +2x_3 +4x_4 +8x_5 -31x_6 +37x_7 & \lt mi/> =0
+\mdwhtsquare
+x_1 =0
+x_2 =0
+x_3 =0
+x_4 =0
+x_5 =0
+x_6 =0
+x_7 =0
+x_1 =3
+x_2 =0
+x_3 = -5
+x_4 = -6
+x_5 =0
+x_6 =0
+x_7 =1
+x_1 = -1
+x_2 =0
+x_3 =3
+x_4 =6
+x_5 =0
+x_6 =1
+x_7 =0
+x_1 = -2
+x_2 =0
+x_3 = -1
+x_4 = -2
+x_5 =1
+x_6 =0
+x_7 =0
+x_1 = -4
+x_2 =1
+x_3 =0
+x_4 =0
+x_5 =0
+x_6 =0
+x_7 =0
+x_1 = -4
+x_2 =1
+x_3 = -3
+x_4 = -2
+x_5 =1
+x_6 =1
+x_7 =1
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 4 & 0 & 0 & 2 & 1 & -3 & 0 \\ 0 & 0 & \boxed{1} & 0 & 1 & -3 & 5 & 0 \\ 0 & 0 & 0 & \boxed{1} & 2 & -6 & 6 & 0 \\ 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =3 & D & \lt mi/> =\{1, 3, 4\} & F & \lt mi/> =\{2, 5, 6, 7, 8\}
+\mdwhtsquare
+\begin{bmatrix} 1 & 4 & 0 & -1 & 0 & 7 & -9 \\ 2 & 8 & -1 & 3 & 9 & -13 & 7 \\ 0 & 0 & 2 & -3 & -4 & 12 & -8 \\ -1 & -4 & 2 & 4 & 8 & -31 & 37 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 4 & 0 & 0 & 2 & 1 & -3 \\ 0 & 0 & \boxed{1} & 0 & 1 & -3 & 5 \\ 0 & 0 & 0 & \boxed{1} & 2 & -6 & 6 \\ 0 & 0 & 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =3 & D & \lt mi/> =\{1, 3, 4\} & F & \lt mi/> =\{2, 5, 6, 7\}
+\mdwhtsquare
+D
+F
+\mdwhtsquare
+D
+F
+\langle \{ \begin{bmatrix} -4 \\ 1 \\ 0 \\ 0 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} -2 \\ 0 \\ -1 \\ -2 \\ 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} -1 \\ 0 \\ 3 \\ 6 \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 3 \\ 0 \\ -5 \\ -6 \\ 0 \\ 0 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+D
+\langle \{ \begin{bmatrix} 1 \\ 2 \\ 0 \\ -1 \end{bmatrix}, \begin{bmatrix} 0 \\ -1 \\ 2 \\ 2 \end{bmatrix}, \begin{bmatrix} -1 \\ 3 \\ -3 \\ 4 \end{bmatrix} \} \rangle
+\mdwhtsquare
+L
+L
+r =m
+L
+\mathbb C^m
+L & \lt mi/> = \begin{bmatrix} 1 & -\frac{12}{31} & -\frac{13}{31} & \frac{7}{31} \end{bmatrix}
+\langle \{ \begin{bmatrix} -\frac{7}{31} \\ 0 \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} \frac{13}{31} \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} \frac{12}{31} \\ 1 \\ 0 \\ 0 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 0 \\ -\frac{31}{7} \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \\ \frac{12}{7} \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ \frac{13}{7} \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 4 \\ 0 \\ 0 \\ 2 \\ 1 \\ -3 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ 0 \\ 1 \\ -3 \\ 5 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 1 \\ 2 \\ -6 \\ 6 \end{bmatrix} \} \rangle
+\mdwhtsquare
+Rank\colon \~3 & \~ & Nullity\colon \~4 & \~ & Matrix\space columns\colon \~7 & \~
+\mdwhtsquare
+1
+i =\sqrt{ -1}
+a +bi
+6 +4i
+\alpha =a +bi
+\beta =c +di
+\alpha =\beta
+a =c
+b =d
+\alpha =a +bi
+\beta =c +di
+\alpha +\beta
+(a +c) +(b +d)i
+\alpha =a +bi
+\beta =c +di
+\alpha \beta
+(ac -bd) +(ad +bc)i
+\alpha, \beta \in \mathbb C
+\alpha +\beta \in \mathbb C
+\alpha, \beta \in \mathbb C
+\alpha \beta \in \mathbb C
+\alpha, \beta \in \mathbb C
+\alpha +\beta =\beta +\alpha
+\alpha, \beta \in \mathbb C
+\alpha \beta =\beta \alpha
+\alpha, \beta, \gamma \in \mathbb C
+\alpha +(\beta +\gamma) =(\alpha +\beta) +\gamma
+\alpha, \beta, \gamma \in \mathbb C
+\alpha (\beta \gamma) =(\alpha \beta)\gamma
+\alpha, \beta, \gamma \in \mathbb C
+\alpha (\beta +\gamma) =\alpha \beta +\alpha \gamma
+0 =0 +0i
+\alpha \in \mathbb C
+0 +\alpha =\alpha
+1 =1 +0i
+\alpha \in \mathbb C
+1\alpha =\alpha
+\alpha \in \mathbb C
+-\alpha \in \mathbb C
+\alpha +( -\alpha) =0
+\alpha \in \mathbb C
+\alpha \not= 0
+\frac{1}{\alpha} \in \mathbb C
+\alpha (\frac{1}{\alpha}) =1
+\alpha \in \mathbb C
+0\alpha =0
+\alpha, \beta \in \mathbb C
+\alpha \beta =0
+\alpha =0
+\beta =0
+\alpha \beta \not= 0
+\alpha \not= 0
+\beta \not= 0
+\alpha =a +bi \in \mathbb C^\~
+\overline{\alpha} =a -bi
+\alpha
+\beta
+\overline{\alpha +\beta} =\overline{\alpha} +\overline{\beta}
+\alpha
+\beta
+\overline{\alpha \beta} =\overline{\alpha}\overline{\beta}
+\alpha
+\overline{\overline{\alpha}} =\alpha
+\alpha =a +bi \in \mathbb C^\~
+| \alpha | =\sqrt{\overline{\alpha}\alpha} =\sqrt{a^2 +b^2} .
+| -3| =| -3 +0i| =3
+0 +0i
+0
+A
+m \times n
+\mathcal L (A) =\mathscr N (A^t) \subseteq \mathbb C^m
+\mathbf y \in \mathcal L (A)
+A^t \mathbf y =\mathbf 0
+\mathbf 0^t & \lt mi/> =(A^t \mathbf y)^t & \~ & Definition\space LNS \\ \~ & \lt mi/> =\mathbf y^t (A^t)^t & \~ & Theorem\space MMT \\ \~ & \lt mi/> =\mathbf y^t A & \~ & Theorem\space TT
+\mathbf y^t A
+\mathbf y
+A
+\mathbf 0^t
+L
+A
+A
+m \times n
+A
+m \times m
+m \times (n +m)
+M
+M
+N
+N
+A
+B
+C
+J
+K
+L
+N
+B
+m \times n
+n
+N
+J
+m \times m
+m
+N
+B
+r
+N
+C
+r \times n
+B
+K
+r \times m
+r
+J
+L
+(m -r) \times m
+m -r
+J
+M =[A| I_m]\overset{RREF}{\to}N =[B|J] = \begin{bmatrix} C & K \\ 0 & L \end{bmatrix}
+A
+m \times n
+N
+J
+B =JA
+\mathbf x \in \mathbb C^n
+\mathbf y \in \mathbb C^m
+A\mathbf x =\mathbf y
+B\mathbf x =J\mathbf y
+C
+r
+L
+m -r
+A
+A
+B =I_n
+JA =B =I_n
+J
+A
+A
+\mathbf x
+\mathcal L \mathscr S (A, \mathbf y)
+\mathbf x
+\mathcal L \mathscr S (B, J\mathbf y)
+[ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>A|\mathbf y]
+[ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>B|J\mathbf y]
+J
+A
+A
+A
+J\mathbf y
+C
+L
+A
+m \times n
+N
+A
+r
+C
+N
+r
+n
+L
+N
+m
+m -r
+A
+C
+\mathscr N (A) =\mathscr N (C)
+A
+C
+\mscrR (A) =\mscrR (C)
+A
+L
+\mathscr C (A) =\mathscr N (L)
+A
+L
+\mathcal L (A) =\mscrR (L)
+C
+L
+C
+L
+r =m
+L
+\mathscr C (A)
+\mathscr N (L)
+L
+L
+\mathscr C (A) =\mathscr N (L) =\mathbb C^m
+r =m
+\mathcal L \mathscr S (A, \mathbf b)
+n
+\mathbf b \in \mathscr C (A)
+\mathbf b
+A
+\mathscr C (A) =\mathbb C^m
+r =m
+L
+\mathbf y \in \mathbb C^m
+A
+\mathcal L \mathscr S (A, \mathbf y)
+[ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>A|\mathbf y]
+m -r
+J\mathbf y
+m -r
+L
+m -r
+J
+\mathbf y \in \mathscr N (L)
+J
+A
+B
+J
+A
+B
+JA =B
+L
+A
+L
+A
+r =3
+L
+L
+\mdwhtsquare
+\mdwhtsquare
+T \colon \mathbb C^5 \to \mathbb C^3, T( \begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \\ x_5 \end{bmatrix}) = \begin{bmatrix} 2x_1 +x_2 +3x_3 -4x_4 +5x_5 \\ x_1 -2x_2 +3x_3 -9x_4 +3x_5 \\ 3x_1 +4x_3 -6x_4 +5x_5 \end{bmatrix}
+\mdwhtsquare
+\{ \begin{bmatrix} 1 \\ -1 \\ -2 \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} -2 \\ -1 \\ 3 \\ 1 \\ 0 \end{bmatrix} \}
+\mdwhtsquare
+T( \begin{bmatrix} -3 \\ 1 \\ -2 \\ -3 \\ 1 \end{bmatrix}) & \lt mi/> = \begin{bmatrix} 6 \\ 19 \\ 6 \end{bmatrix} & T( \begin{bmatrix} -4 \\ -4 \\ -2 \\ -1 \\ 4 \end{bmatrix}) & \lt mi/> = \begin{bmatrix} 6 \\ 19 \\ 6 \end{bmatrix}
+T
+\begin{bmatrix} -4 \\ -4 \\ -2 \\ -1 \\ 4 \end{bmatrix} & \lt mi/> = \begin{bmatrix} -3 \\ 1 \\ -2 \\ -3 \\ 1 \end{bmatrix} + \begin{bmatrix} -1 \\ -5 \\ 0 \\ 2 \\ 3 \end{bmatrix} \\ and \\ \mathbf z & \lt mi/> = \begin{bmatrix} -1 \\ -5 \\ 0 \\ 2 \\ 3 \end{bmatrix} \in \mathscr K (T)
+\mathbf z
+T
+\mdwhtsquare
+\{ \begin{bmatrix} 2 \\ 1 \\ 3 \end{bmatrix}, \begin{bmatrix} 1 \\ -2 \\ 0 \end{bmatrix}, \begin{bmatrix} 3 \\ 3 \\ 4 \end{bmatrix}, \begin{bmatrix} -4 \\ -9 \\ -6 \end{bmatrix}, \begin{bmatrix} 5 \\ 3 \\ 5 \end{bmatrix} \}
+\mdwhtsquare
+\{ \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix} \}
+\mdwhtsquare
+\mathbb C^3
+\mathbb C^3
+\mdwhtsquare
+Rank\colon \~3 & \~ & Nullity\colon \~2 & \~ & Domain\space dimension\colon \~5 & \~
+\mdwhtsquare
+\mdwhtsquare
+A
+T(\mathbf x) =A\mathbf x
+\mathbb C^m
+\begin{bmatrix} 2 & 1 & 3 & -4 & 5 \\ 1 & -2 & 3 & -9 & 3 \\ 3 & 0 & 4 & -6 & 5 \end{bmatrix}
+T \colon U \to V
+U
+V
+T(\mathbf u_1 +\mathbf u_2) =T(\mathbf u_1) +T(\mathbf u_2)
+\mathbf u_1, \mathbf u_2 \in U
+T(\alpha \mathbf u) =\alpha T(\mathbf u)
+\mathbf u \in U
+\alpha \in \mathbb C^\~
+T
+T(\mathbf u)
+V
+T(\mathbf x +\mathbf y) =T(\mathbf x) +T(\mathbf y)
+U
+\mathbf x
+\mathbf y
+U
+V
+T(\mathbf x)
+T(\mathbf y)
+V
+T \colon U \to V
+T(\mathbf 0) =\mathbf 0
+S( \begin{bmatrix} 0 \\ 0 \\ 0 \end{bmatrix}) = \begin{bmatrix} 0 \\ 0 \\ -2 \end{bmatrix}
+S
+S(0 +0x +0x^2 +0x^3) & \lt mi/> = \begin{bmatrix} 0 & 0 \\ 0 & 0 \end{bmatrix}
+T \colon U \to V
+U
+V
+T(\mathbf x) =\mathbf y
+T(\mathbf u) =\mathbf v =T(\mathbf w)
+\mathbf t
+T(\mathbf 0_U) =\mathbf 0_V
+A
+m \times n
+T \colon \mathbb C^n \to \mathbb C^m
+T(\mathbf x) =A\mathbf x
+T
+m \times n
+A
+T(\mathbf x) =A\mathbf x
+T
+\mathbb C^n
+\mathbb C^m
+T \colon \mathbb C^n \to \mathbb C^m
+m \times n
+A
+T(\mathbf x) =A\mathbf x
+A
+T
+\mathbb C^m
+T \colon U \to V
+\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_t
+U
+a_1, a_2, a_3, \ldots, a_t
+\mathbb C^\~
+T(a_1 \mathbf u_1 +a_2 \mathbf u_2 +a_3 \mathbf u_3 +\cdots +a_t \mathbf u_t) =a_1 T(\mathbf u_1) +a_2 T(\mathbf u_2) +a_3 T(\mathbf u_3) +\cdots +a_t T(\mathbf u_t)
+U
+B =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_n \}
+V
+\mathbf v_1, \mathbf v_2, \mathbf v_3, \ldots, \mathbf v_n
+T \colon U \to V
+T(\mathbf u_i) =\mathbf v_i
+1 \le i \le n
+n
+T \colon U \to V
+\mathbf v
+\mathbf v
+U
+T^{ -1} (\mathbf v) =\{ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\mathbf u \in U|T(\mathbf u) =\mathbf v \}
+T^{ -1} (\mathbf v)
+U
+\mathbf v
+U
+T^{ -1} (\mathbf v)
+T \colon U \to V
+S \colon U \to V
+T +S \colon U \to V
+(T +S)(\mathbf u) =T(\mathbf u) +S(\mathbf u)
+V
+U
+T +S
+T
+S
+T +S
+T \colon U \to V
+S \colon U \to V
+T +S \colon U \to V
+T \colon U \to V
+\alpha \in \mathbb C^\~
+\alpha T \colon U \to V
+(\alpha T)(\mathbf u) =\alpha T(\mathbf u)
+T
+\alpha T
+T \colon U \to V
+\alpha \in \mathbb C^\~
+(\alpha T) \colon U \to V
+U
+V
+U
+V
+\mathcal L T(U, V)
+\mathcal L T(U, V)
+\mathcal L T(U, V)
+U
+V
+U
+V
+\mathcal L T(U, V)
+T \colon U \to V
+S \colon V \to W
+S
+T
+(S \circ T) \colon U \to W
+(S \circ T)(\mathbf u) =S(T(\mathbf u))
+T
+S
+S \circ T
+T \colon U \to V
+S \colon V \to W
+(S \circ T) \colon U \to W
+T
+S
+T +S
+T
+2T
+T
+S
+S \circ T
+\mathbb C^m
+m
+\mathbb C^\~
+\mathbb R^m
+m
+\langle 2, 3, -1, 6 \rangle
+m
+(3, 4, -2)
+x
+y
+z
+\mathbf u, \mathbf v \in \mathbb C^m
+\mathbf u
+\mathbf v
+\mathbf u =\mathbf v
+[\mathbf u]_i & \lt mi/> =[\mathbf v]_i & \~ & 1 \le i \le m
+u_i =v_i
+1 \le i \le m
+\mathbb C^m
+\mathbf u, \mathbf v \in \mathbb C^m
+\mathbf u
+\mathbf v
+\mathbf u +\mathbf v
+[\mathbf u +\mathbf v]_i & \lt mi/> =[\mathbf u]_i +[\mathbf v]_i & \~ & 1 \le i \le m
+u_i +v_i
+\mathbb C^4
+\mathbb C^4
+\mathbf u \in \mathbb C^m
+\alpha \in \mathbb C^\~
+\mathbf u
+\alpha
+\alpha \mathbf u
+[\alpha \mathbf u]_i & \lt mi/> =\alpha [\mathbf u]_i & \~ & 1 \le i \le m
+\alpha
+\beta
+\mathbf u
+\mathbf v
+\mathbb C^5
+\mathbb C^m
+m
+\mathbf u, \mathbf v \in \mathbb C^m
+\mathbf u +\mathbf v \in \mathbb C^m
+\alpha \in \mathbb C^\~
+\mathbf u \in \mathbb C^m
+\alpha \mathbf u \in \mathbb C^m
+\mathbf u, \mathbf v \in \mathbb C^m
+\mathbf u +\mathbf v =\mathbf v +\mathbf u
+\mathbf u, \mathbf v, \mathbf w \in \mathbb C^m
+\mathbf u +(\mathbf v +\mathbf w) =(\mathbf u +\mathbf v) +\mathbf w
+\mathbf 0
+\mathbf u +\mathbf 0 =\mathbf u
+\mathbf u \in \mathbb C^m
+\mathbf u \in \mathbb C^m
+-\mathbf u \in \mathbb C^m
+\mathbf u +( -\mathbf u) =\mathbf 0
+\alpha, \beta \in \mathbb C^\~
+\mathbf u \in \mathbb C^m
+\alpha (\beta \mathbf u) =(\alpha \beta)\mathbf u
+\alpha \in \mathbb C^\~
+\mathbf u, \mathbf v \in \mathbb C^m
+\alpha (\mathbf u +\mathbf v) =\alpha \mathbf u +\alpha \mathbf v
+\alpha, \beta \in \mathbb C^\~
+\mathbf u \in \mathbb C^m
+(\alpha +\beta)\mathbf u =\alpha \mathbf u +\beta \mathbf u
+\mathbf u \in \mathbb C^m
+1\mathbf u =\mathbf u
+-\mathbf u
+\mathbf u
+\mathbf 0
+-\mathbf u
+[ -\mathbf u]_i = -[\mathbf u]_i =( -1)[\mathbf u]_i =[( -1)\mathbf u]_i
+(\mathbf u +\mathbf v) +(\mathbf w +(\mathbf x +\mathbf y))
+\mathbf u +\mathbf v +\mathbf w +\mathbf x +\mathbf y
+T \colon V \to V
+p >0
+T^p (\mathbf v) =\mathbf 0
+\mathbf v \in V .
+p
+T .
+T
+T(\mathbf v) =\mathbf 0
+1 .
+T \colon V \to V
+\lambda
+T .
+\lambda =0 .
+T,
+n,
+p_T (x) =(x -0)^n =x^n .
+T \colon V \to V
+T
+T
+T \colon V \to V
+p
+\dim (V) =n .
+0 \le p \le n
+\{\mathbf 0 \} =\mathscr K (T^0) \subsetneq \mathscr K (T^1) \subsetneq \mathscr K (T^2) \subsetneq \cdots \subsetneq \mathscr K (T^p) =\mathscr K (T^{p +1}) =\cdots =V
+n \times n
+A,
+A^n,
+T \colon V \to V
+\lambda .
+T|_{\mathscr G_T (\lambda)} -\lambda I_{\mathscr G_T (\lambda)}
+T|_{\mathscr G_T (\lambda)} -\lambda I_{\mathscr G_T (\lambda)}
+V .
+\mathscr G_T (\lambda) .
+\lambda .
+T \colon V \to V
+\lambda .
+\lambda,
+\iota_T (\lambda),
+T|_{\mathscr G_T (\lambda)} -\lambda I_{\mathscr G_T (\lambda)} .
+\lambda \in \mathbb C,
+J_n (\lambda)
+n \times n
+[J_n (\lambda)]_{ij} =\{\lambda & i =j \\ 1 & j =i +1 \\ 0 & otherwise \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+\lambda =0 .
+J_n (\lambda) -\lambda I_n =J_n (0) .
+\lambda =0
+J_n (0)
+n .
+\mdwhtsquare
+\mdwhtsquare
+-7x_1 -6x_2 -12x_3 & \lt mi/> = -33 \\ 5x_1 +5x_2 +7x_3 & \lt mi/> =24 \\ x_1 +4x_3 & \lt mi/> =5
+\mdwhtsquare
+x_1 = -3, x_2 =5, x_3 =2
+\mdwhtsquare
+\begin{bmatrix} -7 & -6 & -12 & -33 \\ 5 & 5 & 7 & 24 \\ 1 & 0 & 4 & 5 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 0 & -3 \\ 0 & \boxed{1} & 0 & 5 \\ 0 & 0 & \boxed{1} & 2 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =3 & D & \lt mi/> =\{1, 2, 3\} & F & \lt mi/> =\{4\}
+\mdwhtsquare
+F
+F
+\begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix} = \begin{bmatrix} -3 \\ 5 \\ 2 \end{bmatrix}
+\mdwhtsquare
+-7x_1 -6x_2 -12x_3 & \lt mi/> =0 \\ 5x_1 +5x_2 +7x_3 & \lt mi/> =0 \\ x_1 +4x_3 & \lt mi/> =0
+\mdwhtsquare
+x_1 =0, x_2 =0, x_3 =0
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 0 & 0 \\ 0 & \boxed{1} & 0 & 0 \\ 0 & 0 & \boxed{1} & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =3 & D & \lt mi/> =\{1, 2, 3\} & F & \lt mi/> =\{4\}
+\mdwhtsquare
+\begin{bmatrix} -7 & -6 & -12 \\ 5 & 5 & 7 \\ 1 & 0 & 4 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 0 \\ 0 & \boxed{1} & 0 \\ 0 & 0 & \boxed{1} \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =3 & D & \lt mi/> =\{1, 2, 3\} & F & \lt mi/> =\{\}
+\mdwhtsquare
+D
+F
+\mdwhtsquare
+D
+F
+\langle \{\} \rangle
+\mdwhtsquare
+D
+\langle \{ \begin{bmatrix} -7 \\ 5 \\ 1 \end{bmatrix}, \begin{bmatrix} -6 \\ 5 \\ 0 \end{bmatrix}, \begin{bmatrix} -12 \\ 7 \\ 4 \end{bmatrix} \} \rangle
+\mdwhtsquare
+L
+L
+r =m
+L
+\mathbb C^m
+L & \lt mi/> = \begin{bmatrix} \~ \end{bmatrix}
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\begin{bmatrix} -10 & -12 & -9 \\ \frac{13}{2} & 8 & \frac{11}{2} \\ \frac{5}{2} & 3 & \frac{5}{2} \end{bmatrix}
+\mdwhtsquare
+Rank\colon \~3 & \~ & Nullity\colon \~0 & \~ & Matrix\space columns\colon \~3 & \~
+\mdwhtsquare
+Determinant\colon \~ -2
+\mdwhtsquare
+\lambda & \lt mi/> = -1 & \mscrE_B ( -1) & \lt mi/> = \langle \{ \begin{bmatrix} -5 \\ 3 \\ 1 \end{bmatrix} \} \rangle \\ \lambda & \lt mi/> =1 & \mscrE_B (1) & \lt mi/> = \langle \{ \begin{bmatrix} -3 \\ 2 \\ 1 \end{bmatrix} \} \rangle \\ \lambda & \lt mi/> =2 & \mscrE_B (2) & \lt mi/> = \langle \{ \begin{bmatrix} -2 \\ 1 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\gamma_B ( -1) & \lt mi/> =1 & \alpha_B ( -1) & \lt mi/> =1 \\ \gamma_B (1) & \lt mi/> =1 & \alpha_B (1) & \lt mi/> =1 \\ \gamma_B (2) & \lt mi/> =1 & \alpha_B (2) & \lt mi/> =1
+\mdwhtsquare
+\mdwhtsquare
+\begin{bmatrix} -1 & -1 & -1 \\ 2 & 3 & 1 \\ -1 & -2 & 1 \end{bmatrix} \begin{bmatrix} -7 & -6 & -12 \\ 5 & 5 & 7 \\ 1 & 0 & 4 \end{bmatrix} \begin{bmatrix} -5 & -3 & -2 \\ 3 & 2 & 1 \\ 1 & 1 & 1 \end{bmatrix} & \lt mi/> = \begin{bmatrix} -1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 2 \end{bmatrix}
+m
+n
+m =n
+n
+A
+\mathcal L \mathscr S (A, \mathbf 0)
+\{\mathbf 0 \}
+A
+A
+5 \times 7
+m \times m
+I_m
+[I_m]_{ij} & \lt mi/> =\{1 & i =j \\ 0 & i \not= j \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>1 \le i, j \le m
+A
+B
+A
+B
+A
+A
+A
+\mathscr N (A) =\{\mathbf 0 \}
+A
+A
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf b
+\mathbf b
+\mathcal L \mathscr S (A, \mathbf b)
+A
+A
+A
+A
+\mathscr N (A) =\{\mathbf 0 \}
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf b
+T \colon U \to V
+T
+\mathbf v \in V
+\mathbf u \in U
+T(\mathbf u) =\mathbf v
+y =f(x) =x^2
+y = -3
+\mathbf v \in V
+\mathbf u \in U
+T(\mathbf u) =\mathbf v
+\mathbf v \in V
+\mathbf u \in U
+T(\mathbf u) =\mathbf v
+V
+V
+U
+V
+T \colon U \to V
+V
+T \colon U \to V
+T
+\mscrR (T) =\{ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>T(\mathbf u)|\mathbf u \in U\}
+T \colon U \to V
+T
+\mscrR (T)
+V
+T \colon U \to V
+T
+T
+\mscrR (T) =V
+T \colon U \to V
+S & \lt mi/> =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_t \}
+U
+R & \lt mi/> =\{T(\mathbf u_1), T(\mathbf u_2), T(\mathbf u_3), \ldots, T(\mathbf u_t)\}
+\mscrR (T)
+T \colon U \to V
+\mathbf v \in \mscrR (T)\~if\space and\space only\space if\~T^{ -1} (\mathbf v) \not= \varnothing
+\mathbf x, \mathbf y \in V
+T \colon U \to V
+B & \lt mi/> =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_m \}
+U
+T
+C & \lt mi/> =\{T(\mathbf u_1), T(\mathbf u_2), T(\mathbf u_3), \ldots, T(\mathbf u_m)\}
+V
+T \colon U \to V
+\dim (U) \ge \dim (V)
+T \colon U \to V
+S \colon V \to W
+(S \circ T) \colon U \to W
+V
+W,
+W,
+V =U \oplus W .
+W
+U .
+V
+U .
+W
+V =U \oplus W,
+W
+V .
+V
+U .
+W
+V =U \oplus W,
+W
+V .
+V
+U .
+U
+V
+U^\perp =\{\mathbf v \in V| \langle \mathbf v, \mathbf u \rangle =0\~for\space every\~\mathbf u \in U\} .
+V
+U .
+A
+U .
+U^\perp =\mathscr N (A^\ast) .
+V
+U .
+V =U \oplus U^\perp .
+A
+m \times n
+\mathbb C^m =\mathscr C (A) \oplus \mathscr C (A)^\perp =\mathscr C (A) \oplus \mathscr N (A^\ast) .
+Q
+R
+A
+n .
+A
+\mathbb C^n .
+n
+i
+i
+1
+i -1
+1
+i
+i
+1 .
+1 .
+R',
+n .
+Q =AR' .
+Q
+Q^\ast Q
+R'
+1 .
+R'
+R
+1 .
+A =QR .
+Q
+R'
+R,
+Q
+Q
+R
+A
+Q,
+A
+Q,
+S
+A
+m \times n
+n .
+m \times n
+Q
+R
+n
+A =QR .
+n
+m \ge n .
+Q
+R
+Q
+Q
+A,
+i
+Q
+i
+A,
+1 \le i \le n .
+A
+m \times n
+n .
+Q
+m
+m \times n
+R
+A =QR .
+A
+Q
+R
+R,
+A
+m \times n
+Q
+m
+m \times n
+R
+A =QR .
+A
+A\mathbf x =\mathbf b .
+A
+QR\mathbf x =\mathbf b .
+Q
+R\mathbf x =Q^\ast \mathbf b .
+R
+m \times n
+\sim 2mn^2 .
+m \ge n
+R
+\sim 2mn^2 -\frac{2}{3}n^3
+Q .
+m =n,
+\sim \frac{4}{3}n^3,
+A
+R
+B
+A
+A
+B
+\mathbf x
+3x =12
+x =1x =(\frac{1}{3}(3))x =\frac{1}{3}(3x) =\frac{1}{3}(12) =4
+3
+3^{ -1} =\frac{1}{3}
+x
+0x & \lt mi/> =12 & 0x & \lt mi/> =0
+B
+A
+B
+n
+AB =I_n
+BA =I_n
+A
+B
+A
+B =A^{ -1}
+B
+A
+A
+B
+A
+B
+B
+AB =I_3
+n^2
+n^2
+2 \times 2
+A = \begin{bmatrix} a & b \\ c & d \end{bmatrix}
+A
+ad -bc \not= 0
+A
+A^{ -1} =\frac{1}{ad -bc} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}
+a
+f
+ad -bc
+3 \times 3
+A
+n
+n \times 2n
+M
+n \times n
+I_n
+A
+N
+M
+J
+n
+N
+AJ =I_n
+A
+B
+AB =I_n
+B
+BA =I_n
+B
+A
+A
+A
+A
+A^{ -1}
+A
+B
+n
+AB
+(AB)^{ -1} =B^{ -1} A^{ -1}
+A
+A^{ -1}
+(A^{ -1})^{ -1} =A
+A
+A^t
+(A^t)^{ -1} =(A^{ -1})^t
+A
+\alpha
+(\alpha A)^{ -1} =\frac{1}{\alpha}A^{ -1}
+\alpha A
+(A +B)^{ -1} =A^{ -1} +B^{ -1}
+\mathbb C
+\mathbb R
+\mathbb C^m
+\mathbb C^m
+\mathbf u
+\mathbb C^m
+\overline{\mathbf u}
+[\overline{\mathbf u}]_i & \lt mi/> =\overline{[\mathbf u]_i} & \~ & 1 \le i \le m
+\mathbf x
+\mathbf y
+\mathbb C^m
+\overline{\mathbf x +\mathbf y} =\overline{\mathbf x} +\overline{\mathbf y}
+\mathbf x
+\mathbb C^m
+\alpha \in \mathbb C
+\overline{\alpha \mathbf x} =\overline{\alpha}\overline{\mathbf x}
+\mathbf u, \mathbf v \in \mathbb C^m
+\mathbf u
+\mathbf v
+\mathbb C^\~
+\langle \mathbf u, \mathbf v \rangle =\overline{[\mathbf u]_1}[\mathbf v]_1 +\overline{[\mathbf u]_2}[\mathbf v]_2 +\overline{[\mathbf u]_3}[\mathbf v]_3 +\cdots +\overline{[\mathbf u]_m}[\mathbf v]_m =\sum_{i =1}^m \overline{[\mathbf u]_i}[\mathbf v]_i
+\mathbb C^m
+\mathbb R^m
+\mathbf u, \mathbf v, \mathbf w \in \mathbb C^m
+\langle \mathbf u +\mathbf v, \mathbf w \rangle = \langle \mathbf u, \mathbf w \rangle + \langle \mathbf v, \mathbf w \rangle
+\langle \mathbf u, \mathbf v +\mathbf w \rangle = \langle \mathbf u, \mathbf v \rangle + \langle \mathbf u, \mathbf w \rangle
+\mathbf u, \mathbf v \in \mathbb C^m
+\alpha \in \mathbb C^\~
+\langle \alpha \mathbf u, \mathbf v \rangle =\overline{\alpha} \langle \mathbf u, \mathbf v \rangle
+\langle \mathbf u, \alpha \mathbf v \rangle =\alpha \langle \mathbf u, \mathbf v \rangle
+\mathbf u
+\mathbf v
+\mathbb C^m
+\langle \mathbf u, \mathbf v \rangle =\overline{ \langle \mathbf v, \mathbf u \rangle}
+c
+| c|
+\mathbf u
+\mathbb C^\~
+\Vert \mathbf u \Vert =\sqrt{| [\mathbf u]_1 |^2 +| [\mathbf u]_2 |^2 +| [\mathbf u]_3 |^2 +\cdots +| [\mathbf u]_m |^2} =\sqrt{\sum_{i =1}^m | [\mathbf u]_i |^2}
+\mathbf u
+\mathbb C^m
+\Vert \mathbf u \Vert^2 = \langle \mathbf u, \mathbf u \rangle
+\mathbf u
+\mathbb C^m
+\langle \mathbf u, \mathbf u \rangle \ge 0
+\mathbf u =\mathbf 0
+\mathbf u \in \mathbb C^m & \lt mi/> \Rightarrow \langle \mathbf u, \mathbf u \rangle \ge 0 \\ \mathbf u =\mathbf 0 & \lt mi/> \Rightarrow \langle \mathbf u, \mathbf u \rangle =0 \\ \langle \mathbf u, \mathbf u \rangle =0 & \lt mi/> \Rightarrow \mathbf u =\mathbf 0
+\mathbf u
+\mathbf v
+\mathbb C^m
+\langle \mathbf u, \mathbf v \rangle =0
+S =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_n \}
+\mathbb C^m
+S
+S
+\langle \mathbf u_i, \mathbf u_j \rangle =0
+i \not= j
+\mathbf e_j \in \mathbb C^m
+1 \le j \le m
+[\mathbf e_j]_i & \lt mi/> =\{0 & if\~i \not= j \\ 1 & if\~i =j \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+\{\mathbf e_1, \mathbf e_2, \mathbf e_3, \ldots, \mathbf e_m \} & \lt mi/> =\{ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\mathbf e_j |1 \le j \le m\}
+\mathbb C^m
+\mathbf e_j
+j
+m \times m
+I_m
+I_m
+\mathbf e_i
+S
+S
+p
+S
+p
+T
+\langle S \rangle = \langle T \rangle
+S =\{\mathbf v_1, \mathbf v_2, \mathbf v_3, \ldots, \mathbf v_p \}
+\mathbb C^m
+\mathbf u_i
+1 \le i \le p
+\mathbf u_i =\mathbf v_i -\frac{ \langle \mathbf u_1, \mathbf v_i \rangle}{ \langle \mathbf u_1, \mathbf u_1 \rangle}\mathbf u_1 -\frac{ \langle \mathbf u_2, \mathbf v_i \rangle}{ \langle \mathbf u_2, \mathbf u_2 \rangle}\mathbf u_2 -\frac{ \langle \mathbf u_3, \mathbf v_i \rangle}{ \langle \mathbf u_3, \mathbf u_3 \rangle}\mathbf u_3 -\cdots -\frac{ \langle \mathbf u_{i -1}, \mathbf v_i \rangle}{ \langle \mathbf u_{i -1}, \mathbf u_{i -1} \rangle}\mathbf u_{i -1}
+T =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_p \}
+T
+\langle T \rangle = \langle S \rangle
+S =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_n \}
+\Vert \mathbf u_i \Vert =1
+1 \le i \le n
+S
+A
+A^\ast A =AA^\ast .
+A
+B
+n
+A
+B
+n
+S
+A =S^{ -1} BS
+A
+B
+S
+S
+A
+B
+A
+B
+B
+A
+S^{ -1}
+S
+S^{ -1} BS
+S
+B
+A
+B
+C
+n
+A
+A
+A
+B
+B
+A
+A
+B
+B
+C
+A
+C
+A
+B
+A
+B
+p_A (x) =p_B (x)
+A
+A
+[A]_{ij} =0
+i \not= j
+A
+A
+A
+S
+A
+n
+A
+S
+n
+A
+n
+R
+R^{ -1} AR
+D
+D
+R
+R
+A
+A
+\gamma_A (\lambda) =\alpha_A (\lambda)
+\lambda
+A
+\lambda =0
+\lambda =2
+A
+n
+n
+A
+n
+\mathbb C^n
+\mdwhtsquare
+\mdwhtsquare
+unknownmathmlelementmerror\backslash begin\{equation*\}\&\backslash ltdefn\{T\}\{P\_2\}\{P\_2\},\backslash \backslash \&\backslash lt\{T\}\{a+bx+cx\^{}2\}=\backslash left(19a+6b-4c\backslash right)+\backslash left(-24a-7b+4c\backslash right)x+\backslash left(36a+12b-9c\backslash right)x\^{}2\backslash end\{equation*\}
+\mdwhtsquare
+\{\}
+\mdwhtsquare
+\mdwhtsquare
+\{19 -24x +36x^2, 6 -7x +12x^2, -4 +4x -9x^2 \}
+\mdwhtsquare
+\{1, x, x^2 \}
+\mdwhtsquare
+\mathbb C^5
+\mscrR (T) =\mathbb C^5
+T
+\mathbb C^5
+\mdwhtsquare
+Rank\colon \~3 & \~ & Nullity\colon \~0 & \~ & Domain\space dimension\colon \~3 & \~
+\mdwhtsquare
+\mdwhtsquare
+B & \lt mi/> =\{1, x, x^2 \} & \~ & (Domain\space basis) \\ C & \lt mi/> =\{1, x, x^2 \} & \~ & (Codomain\space basis) \\ M_{B, C}^T & \lt mi/> = \begin{bmatrix} 19 & 6 & -4 \\ -24 & -7 & 4 \\ 36 & 12 & -9 \end{bmatrix}
+\mdwhtsquare
+T^{ -1} (T(\mathbf x)) =\mathbf x
+T(T^{ -1} (\mathbf x)) =\mathbf x
+T^{ -1} \colon P_2 \to P_2, T^{ -1} (a +bx +cx^2) =( -5a -2b +\frac{4}{3}c) +(24a +9b -\frac{20}{3}c)x +(12a +4b -\frac{11}{3}c)x^2
+\mdwhtsquare
+\lambda & \lt mi/> = -1 & \mscrE_T ( -1) & \lt mi/> = \langle \{2x +3x^2 \} \rangle \\ \lambda & \lt mi/> =1 & \mscrE_T (1) & \lt mi/> = \langle \{ -1 +3x\} \rangle \\ \lambda & \lt mi/> =3 & \mscrE_T (3) & \lt mi/> = \langle \{1 -2x +x^2 \} \rangle
+\mdwhtsquare
+B & \lt mi/> =\{2x +3x^2, -1 +3x, 1 -2x +x^2 \} & \~ & (Domain,\space codomain\space basis) \\ M_{B, B}^T & \lt mi/> = \begin{bmatrix} -1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 3 \end{bmatrix}
+T \colon V \to V
+W
+V .
+T(\mathbf w) \in W
+\mathbf w \in W .
+W
+V
+T .
+V
+T
+T \colon V \to V
+\lambda
+\mscrE_T (\lambda) .
+W
+\mscrE_T (\lambda) .
+W
+V
+T .
+T \colon V \to V
+T
+V
+T .
+T,
+\mscrR (T),
+T
+\{\mathbf 0 \}
+T .
+T \colon V \to V
+k
+\mathscr K (T^k)
+V .
+k =0
+k =1 .
+T \colon V \to V
+U
+V
+T .
+T
+U
+\~ & T|_U \colon U \to U & T|_U (\mathbf u) & \lt mi/> =T(\mathbf u)
+T|_U
+T .
+T|_U
+T
+T|_U
+J_k (0) .
+T \colon V \to V
+p .
+V
+M_{B, B}^T,
+J_k (0) .
+p,
+T,
+n(T) .
+T \colon V \to V
+\lambda .
+\mathscr G_T (\lambda)
+T|_{\mathscr G_T (\lambda)} \colon \mathscr G_T (\lambda) \to \mathscr G_T (\lambda)
+J_k (\lambda)
+k
+\rho \lt \lambda
+J_k (\rho)
+J_\ell (\lambda) .
+\rho =\lambda
+\ell \lt k,
+J_\ell (\lambda)
+J_k (\lambda) .
+T \colon V \to V
+B
+V
+T
+J_k (\lambda)
+\lambda
+T .
+\lambda,
+J_k (\lambda)
+\lambda,
+\iota_T (\lambda) .
+\lambda,
+J_k (\lambda)
+\lambda,
+\gamma_T (\lambda) .
+\lambda,
+J_k (\lambda)
+\lambda,
+\alpha_T (\lambda) .
+\mathbb C^m
+V
+V
+S =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_n \}
+\alpha_1 \mathbf u_1 +\alpha_2 \mathbf u_2 +\alpha_3 \mathbf u_3 +\cdots +\alpha_n \mathbf u_n =\mathbf 0
+S
+\alpha_i =0
+1 \le i \le n
+S
+V
+S =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_n \}
+V
+S
+S
+S
+P_4
+M_{32}
+V
+S \subseteq V
+\langle S \rangle
+W \subseteq V
+S
+\langle S \rangle =W
+W
+S
+W
+S
+W
+V
+S
+V
+V
+\langle S \rangle =V
+S
+V
+S
+V
+\langle S \rangle \subseteq V
+V \subseteq \langle S \rangle
+P_4
+M_{22}
+V
+B =\{\mathbf v_1, \mathbf v_2, \mathbf v_3, \ldots, \mathbf v_m \}
+V
+\mathbf w
+V
+a_1, a_2, a_3, \ldots, a_m
+\mathbf w =a_1 \mathbf v_1 +a_2 \mathbf v_2 +a_3 \mathbf v_3 +\cdots +a_m \mathbf v_m .
+\mdwhtsquare
+\mdwhtsquare
+\begin{bmatrix} -2 & -1 & -2 & -4 & 4 \\ -6 & -5 & -4 & -4 & 6 \\ 10 & 7 & 7 & 10 & -13 \\ -7 & -5 & -6 & -9 & 10 \\ -4 & -3 & -4 & -6 & 6 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 0 & 1 & -2 \\ 0 & \boxed{1} & 0 & -2 & 2 \\ 0 & 0 & \boxed{1} & 2 & -1 \\ 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =3 & D & \lt mi/> =\{1, 2, 3\} & F & \lt mi/> =\{4, 5\}
+\mdwhtsquare
+D
+F
+\mdwhtsquare
+D
+F
+\langle \{ \begin{bmatrix} -1 \\ 2 \\ -2 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 2 \\ -2 \\ 1 \\ 0 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+D
+\langle \{ \begin{bmatrix} -2 \\ -6 \\ 10 \\ -7 \\ -4 \end{bmatrix}, \begin{bmatrix} -1 \\ -5 \\ 7 \\ -5 \\ -3 \end{bmatrix}, \begin{bmatrix} -2 \\ -4 \\ 7 \\ -6 \\ -4 \end{bmatrix} \} \rangle
+\mdwhtsquare
+L
+L
+r =m
+L
+\mathbb C^m
+L & \lt mi/> = \begin{bmatrix} 1 & 0 & -2 & -6 & 5 \\ 0 & 1 & 4 & 10 & -9 \end{bmatrix}
+\langle \{ \begin{bmatrix} -5 \\ 9 \\ 0 \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} 6 \\ -10 \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 2 \\ -4 \\ 1 \\ 0 \\ 0 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 0 \\ \frac{9}{4} \\ \frac{5}{2} \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \\ \frac{5}{4} \\ \frac{3}{2} \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ \frac{1}{2} \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 0 \\ 1 \\ -2 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \\ -2 \\ 2 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ 2 \\ -1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\mdwhtsquare
+Rank\colon \~3 & \~ & Nullity\colon \~2 & \~ & Matrix\space columns\colon \~5 & \~
+\mdwhtsquare
+Determinant\colon \~0
+\mdwhtsquare
+\lambda & \lt mi/> = -1 & \mscrE_L ( -1) & \lt mi/> = \langle \{ \begin{bmatrix} -5 \\ 9 \\ 0 \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} 6 \\ -10 \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 2 \\ -4 \\ 1 \\ 0 \\ 0 \end{bmatrix} \} \rangle \\ \lambda & \lt mi/> =0 & \mscrE_L (0) & \lt mi/> = \langle \{ \begin{bmatrix} 2 \\ -2 \\ 1 \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} -1 \\ 2 \\ -2 \\ 1 \\ 0 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\gamma_L ( -1) & \lt mi/> =3 & \alpha_L ( -1) & \lt mi/> =3 \\ \gamma_L (0) & \lt mi/> =2 & \alpha_L (0) & \lt mi/> =2
+\mdwhtsquare
+\mdwhtsquare
+\begin{bmatrix} 4 & 3 & 4 & 6 & -6 \\ 7 & 5 & 6 & 9 & -10 \\ -10 & -7 & -7 & -10 & 13 \\ -4 & -3 & -4 & -6 & 7 \\ -7 & -5 & -6 & -8 & 10 \end{bmatrix} \begin{bmatrix} -2 & -1 & -2 & -4 & 4 \\ -6 & -5 & -4 & -4 & 6 \\ 10 & 7 & 7 & 10 & -13 \\ -7 & -5 & -6 & -9 & 10 \\ -4 & -3 & -4 & -6 & 6 \end{bmatrix} \begin{bmatrix} -5 & 6 & 2 & 2 & -1 \\ 9 & -10 & -4 & -2 & 2 \\ 0 & 0 & 1 & 1 & -2 \\ 0 & 1 & 0 & 0 & 1 \\ 1 & 0 & 0 & 1 & 0 \end{bmatrix} & \lt mi/> = \begin{bmatrix} -1 & 0 & 0 & 0 & 0 \\ 0 & -1 & 0 & 0 & 0 \\ 0 & 0 & -1 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+\mdwhtsquare
+x_1 +2x_2 -2x_3 +9x_4 +3x_5 -5x_6 -2x_7 +x_8 +27x_9 & \lt mi/> = -5 \\ 2x_1 +4x_2 +3x_3 +4x_4 -x_5 +4x_6 +10x_7 +2x_8 -23x_9 & \lt mi/> =18 \\ x_1 +2x_2 +x_3 +3x_4 +x_5 +x_6 +5x_7 +2x_8 -7x_9 & \lt mi/> =6 \\ 2x_1 +4x_2 +3x_3 +4x_4 -7x_5 +2x_6 +4x_7 -11x_9 & \lt mi/> =20 \\ x_1 +2x_2 +5x_4 +2x_5 -4x_6 +3x_7 +8x_8 +13x_9 & \lt mi/> = -4 \\ -3x_1 -6x_2 -x_3 -13x_4 +2x_5 -5x_6 -4x_7 +13x_8 +10x_9 & \lt mi/> = -29
+\mdwhtsquare
+x_1 =6
+x_2 =0
+x_3 = -1
+x_4 =0
+x_5 = -1
+x_6 =2
+x_7 =0
+x_8 =0
+x_9 =0
+x_1 =4
+x_2 =1
+x_3 = -1
+x_4 =0
+x_5 = -1
+x_6 =2
+x_7 =0
+x_8 =0
+x_9 =0
+x_1 = -17
+x_2 =7
+x_3 =3
+x_4 =2
+x_5 = -1
+x_6 =14
+x_7 = -1
+x_8 =3
+x_9 =2
+x_1 = -11
+x_2 = -6
+x_3 =1
+x_4 =5
+x_5 = -4
+x_6 =7
+x_7 =3
+x_8 =1
+x_9 =1
+\mdwhtsquare
+\begin{bmatrix} 1 & 2 & -2 & 9 & 3 & -5 & -2 & 1 & 27 & -5 \\ 2 & 4 & 3 & 4 & -1 & 4 & 10 & 2 & -23 & 18 \\ 1 & 2 & 1 & 3 & 1 & 1 & 5 & 2 & -7 & 6 \\ 2 & 4 & 3 & 4 & -7 & 2 & 4 & 0 & -11 & 20 \\ 1 & 2 & 0 & 5 & 2 & -4 & 3 & 8 & 13 & -4 \\ -3 & -6 & -1 & -13 & 2 & -5 & -4 & 13 & 10 & -29 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 2 & 0 & 5 & 0 & 0 & 1 & -2 & 3 & 6 \\ 0 & 0 & \boxed{1} & -2 & 0 & 0 & 3 & 5 & -6 & -1 \\ 0 & 0 & 0 & 0 & \boxed{1} & 0 & 1 & 1 & -1 & -1 \\ 0 & 0 & 0 & 0 & 0 & \boxed{1} & 0 & -2 & -3 & 2 \\ 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =4 & D & \lt mi/> =\{1, 3, 5, 6\} & F & \lt mi/> =\{2, 4, 7, 8, 9, 10\}
+\mdwhtsquare
+F
+F
+\begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \\ x_5 \\ x_6 \\ x_7 \\ x_8 \\ x_9 \end{bmatrix} = \begin{bmatrix} 6 \\ 0 \\ -1 \\ 0 \\ -1 \\ 2 \\ 0 \\ 0 \\ 0 \end{bmatrix} +x_2 \begin{bmatrix} -2 \\ 1 \\ 0 \\ 0 \\ 0 \\ 0 \\ 0 \\ 0 \\ 0 \end{bmatrix} +x_4 \begin{bmatrix} -5 \\ 0 \\ 2 \\ 1 \\ 0 \\ 0 \\ 0 \\ 0 \\ 0 \end{bmatrix} +x_7 \begin{bmatrix} -1 \\ 0 \\ -3 \\ 0 \\ -1 \\ 0 \\ 1 \\ 0 \\ 0 \end{bmatrix} +x_8 \begin{bmatrix} 2 \\ 0 \\ -5 \\ 0 \\ -1 \\ 2 \\ 0 \\ 1 \\ 0 \end{bmatrix} +x_9 \begin{bmatrix} -3 \\ 0 \\ 6 \\ 0 \\ 1 \\ 3 \\ 0 \\ 0 \\ 1 \end{bmatrix}
+\mdwhtsquare
+x_1 +2x_2 -2x_3 +9x_4 +3x_5 -5x_6 -2x_7 +x_8 +27x_9 & \lt mi/> =0 \\ 2x_1 +4x_2 +3x_3 +4x_4 -x_5 +4x_6 +10x_7 +2x_8 -23x_9 & \lt mi/> =0 \\ x_1 +2x_2 +x_3 +3x_4 +x_5 +x_6 +5x_7 +2x_8 -7x_9 & \lt mi/> =0 \\ 2x_1 +4x_2 +3x_3 +4x_4 -7x_5 +2x_6 +4x_7 -11x_9 & \lt mi/> =0 \\ x_1 +2x_2 + +5x_4 +2x_5 -4x_6 +3x_7 +8x_8 +13x_9 & \lt mi/> =0 \\ -3x_1 -6x_2 -x_3 -13x_4 +2x_5 -5x_6 -4x_7 +13x_8 +10x_9 & \lt mi/> =0
+\mdwhtsquare
+x_1 =0
+x_2 =0
+x_3 =0
+x_4 =0
+x_5 =0
+x_6 =0
+x_7 =0
+x_8 =0
+x_9 =0
+x_1 = -2
+x_2 =1
+x_3 =0
+x_4 =0
+x_5 =0
+x_6 =0
+x_7 =0
+x_8 =0
+x_9 =0
+x_1 = -23
+x_2 =7
+x_3 =4
+x_4 =2
+x_5 =0
+x_6 =12
+x_7 = -1
+x_8 =3
+x_9 =2
+x_1 = -17
+x_2 = -6
+x_3 =2
+x_4 =5
+x_5 = -3
+x_6 =5
+x_7 =3
+x_8 =1
+x_9 =1
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 2 & 0 & 5 & 0 & 0 & 1 & -2 & 3 & 0 \\ 0 & 0 & \boxed{1} & -2 & 0 & 0 & 3 & 5 & -6 & 0 \\ 0 & 0 & 0 & 0 & \boxed{1} & 0 & 1 & 1 & -1 & 0 \\ 0 & 0 & 0 & 0 & 0 & \boxed{1} & 0 & -2 & -3 & 0 \\ 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =4 & D & \lt mi/> =\{1, 3, 5, 6\} & F & \lt mi/> =\{2, 4, 7, 8, 9, 10\}
+\mdwhtsquare
+\begin{bmatrix} 1 & 2 & -2 & 9 & 3 & -5 & -2 & 1 & 27 \\ 2 & 4 & 3 & 4 & -1 & 4 & 10 & 2 & -23 \\ 1 & 2 & 1 & 3 & 1 & 1 & 5 & 2 & -7 \\ 2 & 4 & 3 & 4 & -7 & 2 & 4 & 0 & -11 \\ 1 & 2 & 0 & 5 & 2 & -4 & 3 & 8 & 13 \\ -3 & -6 & -1 & -13 & 2 & -5 & -4 & 13 & 10 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 2 & 0 & 5 & 0 & 0 & 1 & -2 & 3 \\ 0 & 0 & \boxed{1} & -2 & 0 & 0 & 3 & 5 & -6 \\ 0 & 0 & 0 & 0 & \boxed{1} & 0 & 1 & 1 & -1 \\ 0 & 0 & 0 & 0 & 0 & \boxed{1} & 0 & -2 & -3 \\ 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =4 & D & \lt mi/> =\{1, 3, 5, 6\} & F & \lt mi/> =\{2, 4, 7, 8, 9\}
+\mdwhtsquare
+D
+F
+\mdwhtsquare
+D
+F
+\langle \{ \begin{bmatrix} -2 \\ 1 \\ 0 \\ 0 \\ 0 \\ 0 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} -5 \\ 0 \\ 2 \\ 1 \\ 0 \\ 0 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} -1 \\ 0 \\ -3 \\ 0 \\ -1 \\ 0 \\ 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 2 \\ 0 \\ -5 \\ 0 \\ -1 \\ 2 \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} -3 \\ 0 \\ 6 \\ 0 \\ 1 \\ 3 \\ 0 \\ 0 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+D
+\langle \{ \begin{bmatrix} 1 \\ 2 \\ 1 \\ 2 \\ 1 \\ -3 \end{bmatrix}, \begin{bmatrix} -2 \\ 3 \\ 1 \\ 3 \\ 0 \\ -1 \end{bmatrix}, \begin{bmatrix} 3 \\ -1 \\ 1 \\ -7 \\ 2 \\ 2 \end{bmatrix}, \begin{bmatrix} -5 \\ 4 \\ 1 \\ 2 \\ -4 \\ -5 \end{bmatrix} \} \rangle
+\mdwhtsquare
+L
+L
+r =m
+L
+\mathbb C^m
+L & \lt mi/> = \begin{bmatrix} 1 & 0 & \frac{186}{131} & \frac{51}{131} & -\frac{188}{131} & \frac{77}{131} \\ 0 & 1 & -\frac{272}{131} & -\frac{45}{131} & \frac{58}{131} & -\frac{14}{131} \end{bmatrix}
+\langle \{ \begin{bmatrix} -\frac{77}{131} \\ \frac{14}{131} \\ 0 \\ 0 \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} \frac{188}{131} \\ -\frac{58}{131} \\ 0 \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} -\frac{51}{131} \\ \frac{45}{131} \\ 0 \\ 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} -\frac{186}{131} \\ \frac{272}{131} \\ 1 \\ 0 \\ 0 \\ 0 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 0 \\ 0 \\ -1 \\ -\frac{29}{7} \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \\ 0 \\ -\frac{11}{2} \\ -\frac{94}{7} \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ 0 \\ 10 \\ 22 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 1 \\ \frac{3}{2} \\ 3 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 2 \\ 0 \\ 5 \\ 0 \\ 0 \\ 1 \\ -2 \\ 3 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ -2 \\ 0 \\ 0 \\ 3 \\ 5 \\ -6 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 0 \\ 1 \\ 0 \\ 1 \\ 1 \\ -1 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 0 \\ 0 \\ 1 \\ 0 \\ -2 \\ -3 \end{bmatrix} \} \rangle
+\mdwhtsquare
+Rank\colon \~4 & \~ & Nullity\colon \~5 & \~ & Matrix\space columns\colon \~9 & \~
+\mdwhtsquare
+\mdwhtsquare
+\mdwhtsquare
+T \colon M_{22} \to M_{22}, T( \begin{bmatrix} a & b \\ c & d \end{bmatrix}) = \begin{bmatrix} -2a +15b +3c +27d & 10b +6c +18d \\ a -5b -9d & -a -4b -5c -8d \end{bmatrix}
+\mdwhtsquare
+\{ \begin{bmatrix} -6 & -3 \\ 2 & 1 \end{bmatrix} \}
+\mdwhtsquare
+T( \begin{bmatrix} -2 & 0 \\ 1 & -4 \end{bmatrix}) & \lt mi/> = \begin{bmatrix} 115 & 78 \\ -38 & -35 \end{bmatrix} & T( \begin{bmatrix} 4 & 3 \\ -1 & 3 \end{bmatrix}) & \lt mi/> = \begin{bmatrix} 115 & 78 \\ -38 & -35 \end{bmatrix}
+T
+\begin{bmatrix} 4 & 3 \\ -1 & 3 \end{bmatrix} & \lt mi/> = \begin{bmatrix} -2 & 0 \\ 1 & -4 \end{bmatrix} + \begin{bmatrix} 6 & 3 \\ -2 & -1 \end{bmatrix} \\ and \\ \mathbf z & \lt mi/> = \begin{bmatrix} 6 & 3 \\ -2 & -1 \end{bmatrix} \in \mathscr K (T)
+\mathbf z
+T
+\mdwhtsquare
+\{ \begin{bmatrix} -2 & 0 \\ 1 & -1 \end{bmatrix}, \begin{bmatrix} 15 & 10 \\ -5 & -4 \end{bmatrix}, \begin{bmatrix} 3 & 6 \\ 0 & -5 \end{bmatrix}, \begin{bmatrix} 27 & 18 \\ -9 & -8 \end{bmatrix} \}
+\mdwhtsquare
+\{ \begin{bmatrix} 1 & 0 \\ -\frac{1}{2} & 0 \end{bmatrix}, \begin{bmatrix} 0 & 1 \\ \frac{1}{4} & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix} \}
+\mdwhtsquare
+M_{22}
+\mscrR (T) \not= M_{22}
+\begin{bmatrix} 2 & 4 \\ 3 & 1 \end{bmatrix} \notin \mscrR (T)
+T
+T^{ -1} ( \begin{bmatrix} 2 & 4 \\ 3 & 1 \end{bmatrix})
+\mdwhtsquare
+Rank\colon \~3 & \~ & Nullity\colon \~1 & \~ & Domain\space dimension\colon \~4 & \~
+\mdwhtsquare
+\mdwhtsquare
+B & \lt mi/> =\{ \begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 \\ 1 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix} \} & \~ & (Domain\space basis) \\ C & \lt mi/> =\{ \begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 \\ 1 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix} \} & \~ & (Codomain\space basis) \\ M_{B, C}^T & \lt mi/> = \begin{bmatrix} -2 & 15 & 3 & 27 \\ 0 & 10 & 6 & 18 \\ 1 & -5 & 0 & -9 \\ -1 & -4 & -5 & -8 \end{bmatrix}
+\mdwhtsquare
+\lambda & \lt mi/> =0 & \mscrE_T (0) & \lt mi/> = \langle \{ \begin{bmatrix} -6 & -3 \\ 2 & 1 \end{bmatrix} \} \rangle \\ \lambda & \lt mi/> =1 & \mscrE_T (1) & \lt mi/> = \langle \{ \begin{bmatrix} -7 & -2 \\ 3 & 0 \end{bmatrix}, \begin{bmatrix} -1 & -2 \\ 0 & 1 \end{bmatrix} \} \rangle \\ \lambda & \lt mi/> =3 & \mscrE_T (3) & \lt mi/> = \langle \{ \begin{bmatrix} -3 & -2 \\ 1 & 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+B & \lt mi/> =\{ \begin{bmatrix} -6 & -3 \\ 2 & 1 \end{bmatrix}, \begin{bmatrix} -7 & -2 \\ 3 & 0 \end{bmatrix}, \begin{bmatrix} -1 & -2 \\ 0 & 1 \end{bmatrix}, \begin{bmatrix} -3 & -2 \\ 1 & 1 \end{bmatrix} \} & \~ & (Domain,\space codomain\space basis) \\ M_{B, B}^T & \lt mi/> = \begin{bmatrix} 0 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 3 & 0 \\ 0 & 0 & 0 & 3 \end{bmatrix}
+\mdwhtsquare
+\mdwhtsquare
+T \colon \mathbb C^3 \to \mathbb C^5, T( \begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix}) = \begin{bmatrix} -x_1 +x_2 +x_3 \\ -x_1 +2x_2 +2x_3 \\ x_1 +x_2 +3x_3 \\ 2x_1 +3x_2 +x_3 \\ -2x_1 +x_2 +3x_3 \end{bmatrix}
+\mdwhtsquare
+\{\}
+\mdwhtsquare
+\mathscr K (T) =\{\mathbf 0 \}
+T
+\mdwhtsquare
+\{ \begin{bmatrix} -1 \\ -1 \\ 1 \\ 2 \\ -2 \end{bmatrix}, \begin{bmatrix} 1 \\ 2 \\ 1 \\ 3 \\ 1 \end{bmatrix}, \begin{bmatrix} 1 \\ 2 \\ 3 \\ 1 \\ 3 \end{bmatrix} \}
+\mdwhtsquare
+\{ \begin{bmatrix} 1 \\ 0 \\ 0 \\ -10 \\ 6 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \\ 7 \\ -3 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ -1 \\ 1 \end{bmatrix} \}
+\mdwhtsquare
+\mathbb C^5
+\mathbb C^3
+\begin{bmatrix} 2 \\ 1 \\ -3 \\ 2 \\ 6 \end{bmatrix} \notin \mscrR (T)
+T^{ -1} ( \begin{bmatrix} 2 \\ 1 \\ -3 \\ 2 \\ 6 \end{bmatrix})
+\mdwhtsquare
+Rank\colon \~3 & \~ & Nullity\colon \~0 & \~ & Domain\space dimension\colon \~3 & \~
+\mdwhtsquare
+\mdwhtsquare
+A
+T(\mathbf x) =A\mathbf x
+\mathbb C^m
+\begin{bmatrix} -1 & 1 & 1 \\ -1 & 2 & 2 \\ 1 & 1 & 3 \\ 2 & 3 & 1 \\ -2 & 1 & 3 \end{bmatrix}
+T \colon U \to V
+T
+T(\mathbf x) =T(\mathbf y)
+\mathbf x =\mathbf y
+f(x) =x^2
+x =3
+x = -3
+T(\mathbf x) =T(\mathbf y)
+\mathbf x =\mathbf y
+T(\mathbf u) =\mathbf v =T(\mathbf w)
+V
+T
+V
+T
+T \colon U \to V
+U
+T \colon U \to V
+T
+\mathscr K (T) =\{ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\mathbf u \in U|T(\mathbf u) =\mathbf 0 \}
+T
+\mathbf 0
+T^{ -1} (\mathbf 0)
+T \colon U \to V
+T
+\mathscr K (T)
+U
+T \colon U \to V
+\mathbf v \in V
+T^{ -1} (\mathbf v)
+\mathbf u \in T^{ -1} (\mathbf v)
+T^{ -1} (\mathbf v) =\{ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\mathbf u +\mathbf z |\mathbf z \in \mathscr K (T)\} =\mathbf u +\mathscr K (T)
+T(\mathbf u_i) =\mathbf v_i
+i =1, 2, 3
+T(\mathbf 0_U) =\mathbf 0_V
+T^{ -1} (\mathbf v_2)
+T^{ -1} (\mathbf 0_V)
+\mathscr K (T)
+U
+\mathbf x, \mathbf y \in V
+T \colon U \to V
+T
+T
+\mathscr K (T) =\{\mathbf 0 \}
+T \colon U \to V
+S & \lt mi/> =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_t \}
+U
+R & \lt mi/> =\{T(\mathbf u_1), T(\mathbf u_2), T(\mathbf u_3), \ldots, T(\mathbf u_t)\}
+V
+T \colon U \to V
+B & \lt mi/> =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_m \}
+U
+T
+C & \lt mi/> =\{T(\mathbf u_1), T(\mathbf u_2), T(\mathbf u_3), \ldots, T(\mathbf u_m)\}
+V
+T \colon U \to V
+\dim (U) \le \dim (V)
+T \colon U \to V
+S \colon V \to W
+(S \circ T) \colon U \to W
+A
+m \times n
+\mathbf A_1, \mathbf A_2, \mathbf A_3, \ldots, \mathbf A_n
+A
+\mathscr C (A)
+\mathbb C^m
+A
+\mathscr C (A) = \langle \{\mathbf A_1, \mathbf A_2, \mathbf A_3, \ldots, \mathbf A_n \} \rangle
+A
+m \times n
+\mathbf b
+m
+\mathbf b \in \mathscr C (A)
+\mathcal L \mathscr S (A, \mathbf b)
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf b
+A
+A
+\mathbf b
+A
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf b \in \mathscr C (A) \iff \mathcal L \mathscr S (A, \mathbf b)\~is\space consistent \iff A\mathbf x =\mathbf b \~for\space some\~\mathbf x
+m \times n
+A
+\mathscr C (A) & \lt mi/> =\{ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\mathbf y \in \mathbb C^m |\mathbf y =A\mathbf x \~for\space some\~\mathbf x \in \mathbb C^n \} =\{ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>A\mathbf x |\mathbf x \in \mathbb C^n \} \subseteq \mathbb C^m
+A
+\mathbf x
+A
+\mathscr C (A)
+\mathscr N (A)
+\mathbf b
+A
+\mathbf b \in \mathscr C (A)
+\mathcal L \mathscr S (A, \mathbf b)
+[ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>A|\mathbf b]
+\mathcal L \mathscr S (A, \mathbf b)
+A^{ -1} \mathbf b
+A
+\mathscr C (A)
+\mathscr C (A)
+A
+A
+m \times n
+\mathbf A_1, \mathbf A_2, \mathbf A_3, \ldots, \mathbf A_n
+B
+r
+D =\{d_1, d_2, d_3, \ldots, d_r \}
+B
+T =\{\mathbf A_{d_1}, \mathbf A_{d_2}, \mathbf A_{d_3}, \ldots, \mathbf A_{d_r} \}
+T
+\mathscr C (A) = \langle T \rangle
+T
+r
+A
+n
+A
+\mathscr C (A) =\mathbb C^n
+A
+n
+A
+A
+A
+\mathscr N (A) =\{\mathbf 0 \}
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf b
+A
+A
+A
+\mathbb C^n
+\mathscr C (A) =\mathbb C^n
+A
+m \times n
+A
+\mscrR (A)
+A^t
+\mscrR (A) =\mathscr C (A^t)
+A
+A
+m \times n
+\mathscr C (A) \subseteq \mathbb C^m
+\mscrR (A) \subseteq \mathbb C^n
+A
+n
+\mathscr C (A)
+\mscrR (A)
+\mathbb C^n
+A
+B
+\mscrR (A) =\mscrR (B)
+A
+B
+S
+B^t
+\mscrR (A) = \langle S \rangle
+S
+A
+\mathscr C (A) =\mscrR (A^t)
+A
+m \times n
+\mathbf A_1, \mathbf A_2, \mathbf A_3, \ldots, \mathbf A_n
+\mathbf u
+n
+A
+\mathbf u
+Au =[\mathbf u]_1 \mathbf A_1 +[\mathbf u]_2 \mathbf A_2 +[\mathbf u]_3 \mathbf A_3 +\cdots +[\mathbf u]_n \mathbf A_n
+m \times n
+n
+m
+A
+\mathcal L \mathscr S (A, \mathbf b)
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf x
+A\mathbf x =\mathbf b
+A
+B
+m \times n
+A\mathbf x =B\mathbf x
+\mathbf x \in \mathbb C^n
+A =B
+\mathbb C^n
+A
+m \times n
+\mathbf B_1, \mathbf B_2, \mathbf B_3, \ldots, \mathbf B_p
+n \times p
+B
+A
+B
+m \times p
+i
+A\mathbf B_i
+AB =A[\mathbf B_1 | \mathbf B_2 |\mathbf B_3 | \ldots |\mathbf B_p] =[A\mathbf B_1 | A\mathbf B_2 |A\mathbf B_3 | \ldots |A\mathbf B_p] .
+BA
+A
+m \times n
+B
+n \times p
+1 \le i \le m
+1 \le j \le p
+AB
+[AB]_{ij} & \lt mi/> =[A]_{i1} [B]_{1j} +[A]_{i2} [B]_{2j} +[A]_{i3} [B]_{3j} +\cdots +[A]_{in} [B]_{nj} \\ \~ & \lt mi/> =\sum_{k =1}^n [A]_{ik} [B]_{kj}
+A
+m \times n
+A0_{n \times p} =0_{m \times p}
+0_{p \times m} A =0_{p \times n}
+A
+m \times n
+AI_n =A
+I_m A =A
+A
+m \times n
+B
+C
+n \times p
+D
+p \times s
+A(B +C) =AB +AC
+(B +C)D =BD +CD
+A
+m \times n
+B
+n \times p
+\alpha
+\alpha (AB) =(\alpha A)B =A(\alpha B)
+A
+m \times n
+B
+n \times p
+D
+p \times s
+A(BD) =(AB)D
+\mathbf u, \mathbf v
+\overline{\mathbf u}^t \mathbf v
+1 \times 1
+\mathbf u, \mathbf v \in \mathbb C^m
+m \times 1
+\langle \mathbf u, \mathbf v \rangle & \lt mi/> =\overline{\mathbf u}^t \mathbf v =\mathbf u^\ast \mathbf v
+A
+m \times n
+B
+n \times p
+\overline{AB} =\overline{A}\overline{B}
+A
+m \times n
+B
+n \times p
+(AB)^t =B^t A^t
+A
+B
+A
+m \times n
+B
+n \times p
+(AB)^\ast =B^\ast A^\ast
+n \times 1
+A
+m \times n
+\mathbf x \in \mathbb C^n
+\mathbf y \in \mathbb C^m
+\langle A\mathbf x, \mathbf y \rangle = \langle \mathbf x, A^\ast \mathbf y \rangle
+A
+A =A^\ast
+A
+n
+A
+\langle A\mathbf x, \mathbf y \rangle = \langle \mathbf x, A\mathbf y \rangle
+\mathbf x, \mathbf y \in \mathbb C^n
+\mathscr C (A) .
+\mscrR (T),
+P
+P^2 =P .
+P
+\mathbf x \in \mathscr C (P) .
+P\mathbf x -\mathbf x =\mathbf 0 .
+P
+n
+\mathbf x \in \mathbb C^n
+P\mathbf x -\mathbf x \in \mathscr N (P) .
+\mathscr N (P) =\{P\mathbf x -\mathbf x |\mathbf x \in \mathbb C^n \} .
+\mathbf x,
+P\mathbf x -\mathbf x,
+P .
+\mathscr N (P)
+\mathscr N (P) .
+P,
+P
+I -P .
+I -P
+P
+I -P
+P
+P .
+P
+\mathscr C (I -P) =\mathscr N (P)
+\mathscr N (I -P) =\mathscr C (P) .
+P
+n .
+\mathbb C^n =\mathscr C (P) \oplus \mathscr N (P) .
+P
+\mathscr N (P) =(\mathscr C (P))^\perp .
+P,
+\mathbb C^n =\mathscr C (P) \oplus \mathscr N (P) .
+m \times n
+A,
+\mathbb C^m =\mathscr C (A) \oplus \mathscr C (A)^\perp =\mathscr C (A) \oplus \mathscr N (A^\ast) .
+P
+P
+P
+U
+\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_k
+A
+P
+\mathbf x .
+U,
+P\mathbf x \in \mathscr C (A),
+\mathbf w
+P\mathbf x =A\mathbf w .
+P\mathbf x -\mathbf x
+U .
+U,
+A .
+\~ & A^\ast (P\mathbf x -\mathbf x) =\mathbf 0 \\ \~ & A^\ast A\mathbf w -A^\ast \mathbf x =\mathbf 0 \\ \~ & A^\ast A\mathbf w =A^\ast \mathbf x
+A
+A^\ast A
+P\mathbf x =A\mathbf w =A(A^\ast A)^{ -1} A^\ast \mathbf x
+P =A(A^\ast A)^{ -1} A^\ast .
+U
+A
+U .
+P =A(A^\ast A)^{ -1} A^\ast
+U .
+U
+Q .
+P =Q(Q^\ast Q)^{ -1} Q^\ast =QQ^\ast .
+U
+A^\ast A
+AA^\ast,
+1
+A,
+m \times n
+[L]_{ij} =0 =\overline{[U]_{ji}}
+i \lt j,
+U^\ast U,
+U
+A
+\langle \mathbf x, A\mathbf x \rangle >0
+\mathbf x \not= \mathbf 0 .
+A
+U,
+A =U^\ast U .
+A .
+A
+n \times n
+A & \lt mi/> = \begin{bmatrix} a & \mathbf y^\ast \\ \mathbf y & B \end{bmatrix} \\ \~ & \lt mi/> = \begin{bmatrix} \sqrt{a} & \mathbf 0^\ast \\ \frac{1}{\sqrt{a}}\mathbf y & I \end{bmatrix} \begin{bmatrix} 1 & \mathbf 0^\ast \\ \mathbf 0 & B -\frac{1}{a}\mathbf y \mathbf y^\ast \end{bmatrix} \begin{bmatrix} \sqrt{a} & \frac{1}{\sqrt{a}}\mathbf y^\ast \\ \mathbf 0 & I \end{bmatrix} \\ \~ & \lt mi/> =U_1^\ast A_1 U_1
+A,
+\mathbf x =\mathbf e_1
+a = \langle \mathbf e_1, A\mathbf e_1 \rangle >0 .
+(n -1) \times (n -1)
+B -\frac{1}{a}\mathbf y \mathbf y^\ast ?
+A
+\mathbf x =U_1^{ -1} \mathbf e_2
+A
+A_1
+n
+A =U_1^\ast U_2^\ast \ldots U_n^\ast IU_n \ldots U_2 U_1 =U^\ast U
+A
+[A]_{ij}
+\mathbf v
+[\mathbf v]_i
+\mathbf 0
+\mathcal L \mathscr S (A, \mathbf b)
+[ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>A|\mathbf b]
+R_i \leftrightarrow R_j
+\alpha R_i
+\alpha R_i +R_j
+r
+D
+F
+\mathscr N (A)
+I_m
+\mathbb C^m
+\mathbf u =\mathbf v
+\mathbf u +\mathbf v
+\alpha \mathbf u
+\langle S \rangle
+\overline{\mathbf u}
+\langle \mathbf u, \mathbf v \rangle
+\Vert \mathbf v \Vert
+\mathbf e_i
+M_{mn}
+A =B
+A +B
+\alpha A
+0
+A^t
+\overline{A}
+A^\ast
+Au
+AB
+A^{ -1}
+\mathscr C (A)
+\mscrR (A)
+\mathcal L (A)
+\dim (V)
+n(A)
+r(A)
+E_{i, j}
+E_i (\alpha)
+E_{i, j} (\alpha)
+A(i|j)
+| A|
+\det (A)
+\alpha_A (\lambda)
+\gamma_A (\lambda)
+T \colon U \to V
+\mathscr K (T)
+\mscrR (T)
+r(T)
+n(T)
+\rho_B (\mathbf w)
+M_{B, C}^T
+\alpha =\beta
+\alpha +\beta
+\alpha \beta
+\overline{\alpha}
+x \in S
+S \subseteq T
+\varnothing
+S =T
+| S|
+S \cup T
+S \cap T
+\overline{S}
+T \colon V \to V
+\dim (V) =n .
+m,
+0 \le m \le n,
+\{\mathbf 0 \} =\mathscr K (T^0) \subsetneq \mathscr K (T^1) \subsetneq \mathscr K (T^2) \subsetneq \cdots \subsetneq \mathscr K (T^m) =\mathscr K (T^{m +1}) =\mathscr K (T^{m +2}) =\cdots
+T \colon V \to V
+\mathbf x \not= \mathbf 0,
+(T -\lambda I_V)^k (\mathbf x) =\mathbf 0
+k >0 .
+\mathbf x
+T
+\lambda .
+T \colon V \to V
+T
+\lambda
+\mathscr G_T (\lambda) =\{\mathbf x |(T -\lambda I_V)^k (\mathbf x) =\mathbf 0 \~for\space some\~k \ge 0\}
+V .
+V
+T .
+T \colon V \to V
+\mathscr G_T (\lambda)
+V
+T .
+k
+T \colon V \to V
+\dim (V) =n,
+\lambda
+T .
+\mathscr G_T (\lambda) =\mathscr K ((T -\lambda I_V)^n) .
+k .
+k =n .
+\mscrE_T (\lambda) =\mathscr K ((T -\lambda I_V)^1) \subseteq \mathscr K ((T -\lambda I_V)^n) =\mathscr G_T (\lambda)
+\lambda
+T,
+T -\lambda I_V
+T -\lambda I_V
+m =0
+T \colon V \to V
+\lambda_1, \lambda_2, \lambda_3, \ldots, \lambda_m .
+V =\mathscr G_T (\lambda_1) \oplus \mathscr G_T (\lambda_2) \oplus \mathscr G_T (\lambda_3) \oplus \cdots \oplus \mathscr G_T (\lambda_m)
+T \colon V \to V
+\lambda .
+\lambda
+\lambda,
+\dim (\mathscr G_T (\lambda)) =\alpha_T (\lambda) .
+T \colon U \to V
+B =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_n \}
+U
+n
+C
+V
+m
+T
+B
+C
+m \times n
+M_{B, C}^T =[ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\rho_C (T(\mathbf u_1))| \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\rho_C (T(\mathbf u_2))| \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\rho_C (T(\mathbf u_3))|\ldots | \rho_C (T(\mathbf u_n)) \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>]
+T \colon U \to V
+B
+U
+C
+V
+M_{B, C}^T
+T
+B
+C
+\mathbf u \in U
+\rho_C (T(\mathbf u)) =M_{B, C}^T (\rho_B (\mathbf u))
+T(\mathbf u) =\rho_C^{ -1} (M_{B, C}^T (\rho_B (\mathbf u)))
+T
+\mathbf u
+C
+V
+\mathbf u
+B
+U
+T
+\mathbf u
+\rho_B
+M_{B, C}^T
+\rho_C^{ -1}
+\rho_C
+V
+T
+\rho_C
+M_{B, C}^T
+\rho_B
+T \colon U \to V
+S \colon U \to V
+B
+U
+C
+V
+M_{B, C}^{T +S} =M_{B, C}^T +M_{B, C}^S
+T \colon U \to V
+\alpha \in \mathbb C^\~
+B
+U
+C
+V
+M_{B, C}^{\alpha T} =\alpha M_{B, C}^T
+U
+V
+m \times n
+T \colon U \to V
+S \colon V \to W
+B
+U
+C
+V
+D
+W
+M_{B, D}^{S \circ T} =M_{C, D}^S M_{B, C}^T
+T \colon U \to V
+B
+U
+n
+C
+V
+T
+M_{B, C}^T
+\mathscr K (T) \cong \mathscr N (M_{B, C}^T)
+T \colon U \to V
+B
+U
+n
+C
+V
+m
+T
+M_{B, C}^T
+\mscrR (T) \cong \mathscr C (M_{B, C}^T)
+T \colon U \to V
+B
+U
+C
+V
+T
+T
+B
+C
+M_{B, C}^T
+T
+M_{C, B}^{T^{ -1}} =(M_{B, C}^T)^{ -1}
+S
+T
+A
+n
+T \colon \mathbb C^n \to \mathbb C^n
+T(\mathbf x) =A\mathbf x
+A
+T
+A
+n
+A
+A
+A
+\mathscr N (A) =\{\mathbf 0 \}
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf b
+A
+A
+A
+\mathbb C^n
+\mathscr C (A) =\mathbb C^n
+A
+\mathbb C^n
+A
+n
+r(A) =n
+A
+n(A) =0
+A
+\det (A) \not= 0
+\lambda =0
+A
+T \colon \mathbb C^n \to \mathbb C^n
+T(\mathbf x) =A\mathbf x
+\mdwhtsquare
+\mdwhtsquare
+T \colon \mathbb C^5 \to \mathbb C^5, T( \begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \\ x_5 \end{bmatrix}) = \begin{bmatrix} -2x_1 +3x_2 +3x_3 -6x_4 +3x_5 \\ -16x_1 +9x_2 +12x_3 -28x_4 +28x_5 \\ -19x_1 +7x_2 +14x_3 -32x_4 +37x_5 \\ -21x_1 +9x_2 +15x_3 -35x_4 +39x_5 \\ -9x_1 +5x_2 +7x_3 -16x_4 +16x_5 \end{bmatrix}
+\mdwhtsquare
+\{ \begin{bmatrix} 3 \\ 4 \\ 1 \\ 3 \\ 3 \end{bmatrix} \}
+\mdwhtsquare
+T( \begin{bmatrix} 1 \\ 3 \\ -1 \\ 2 \\ 4 \end{bmatrix}) & \lt mi/> = \begin{bmatrix} 4 \\ 55 \\ 72 \\ 77 \\ 31 \end{bmatrix} & T( \begin{bmatrix} 4 \\ 7 \\ 0 \\ 5 \\ 7 \end{bmatrix}) & \lt mi/> = \begin{bmatrix} 4 \\ 55 \\ 72 \\ 77 \\ 31 \end{bmatrix}
+T
+\begin{bmatrix} 4 \\ 7 \\ 0 \\ 5 \\ 7 \end{bmatrix} & \lt mi/> = \begin{bmatrix} 1 \\ 3 \\ -1 \\ 2 \\ 4 \end{bmatrix} + \begin{bmatrix} 3 \\ 4 \\ 1 \\ 3 \\ 3 \end{bmatrix} \\ and \\ \mathbf z & \lt mi/> = \begin{bmatrix} 3 \\ 4 \\ 1 \\ 3 \\ 3 \end{bmatrix} \in \mathscr K (T)
+\mathbf z
+T
+\mdwhtsquare
+\{ \begin{bmatrix} -2 \\ -16 \\ -19 \\ -21 \\ -9 \end{bmatrix}, \begin{bmatrix} 3 \\ 9 \\ 7 \\ 9 \\ 5 \end{bmatrix}, \begin{bmatrix} 3 \\ 12 \\ 14 \\ 15 \\ 7 \end{bmatrix}, \begin{bmatrix} -6 \\ -28 \\ -32 \\ -35 \\ -16 \end{bmatrix}, \begin{bmatrix} 3 \\ 28 \\ 37 \\ 39 \\ 16 \end{bmatrix} \}
+\mdwhtsquare
+\{ \begin{bmatrix} 1 \\ 0 \\ 0 \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \\ 0 \\ -1 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ 0 \\ -1 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 1 \\ 2 \end{bmatrix} \}
+\mdwhtsquare
+\mathbb C^5
+\mscrR (T) \not= \mathbb C^5
+\begin{bmatrix} -1 \\ 2 \\ 3 \\ -1 \\ 4 \end{bmatrix} \notin \mscrR (T)
+T^{ -1} ( \begin{bmatrix} -1 \\ 2 \\ 3 \\ -1 \\ 4 \end{bmatrix})
+\mdwhtsquare
+Rank\colon \~4 & \~ & Nullity\colon \~1 & \~ & Domain\space dimension\colon \~5 & \~
+\mdwhtsquare
+\mdwhtsquare
+A
+T(\mathbf x) =A\mathbf x
+\mathbb C^m
+\begin{bmatrix} -2 & 3 & 3 & -6 & 3 \\ -16 & 9 & 12 & -28 & 28 \\ -19 & 7 & 14 & -32 & 37 \\ -21 & 9 & 15 & -35 & 39 \\ -9 & 5 & 7 & -16 & 16 \end{bmatrix}
+\mdwhtsquare
+\lambda & \lt mi/> = -1 & \mscrE_T ( -1) & \lt mi/> = \langle \{ \begin{bmatrix} 0 \\ 2 \\ 3 \\ 3 \\ 1 \end{bmatrix} \} \rangle \\ \lambda & \lt mi/> =0 & \mscrE_T (0) & \lt mi/> = \langle \{ \begin{bmatrix} 3 \\ 4 \\ 1 \\ 3 \\ 3 \end{bmatrix} \} \rangle \\ \lambda & \lt mi/> =1 & \mscrE_T (1) & \lt mi/> = \langle \{ \begin{bmatrix} 5 \\ 3 \\ 0 \\ 0 \\ 2 \end{bmatrix}, \begin{bmatrix} -3 \\ 1 \\ 0 \\ 2 \\ 0 \end{bmatrix}, \begin{bmatrix} 1 \\ -1 \\ 2 \\ 0 \\ 0 \end{bmatrix} \} \rangle
+\mdwhtsquare
+B & \lt mi/> =\{ \begin{bmatrix} 0 \\ 2 \\ 3 \\ 3 \\ 1 \end{bmatrix}, \begin{bmatrix} 3 \\ 4 \\ 1 \\ 3 \\ 3 \end{bmatrix}, \begin{bmatrix} 5 \\ 3 \\ 0 \\ 0 \\ 2 \end{bmatrix}, \begin{bmatrix} -3 \\ 1 \\ 0 \\ 2 \\ 0 \end{bmatrix}, \begin{bmatrix} 1 \\ -1 \\ 2 \\ 0 \\ 0 \end{bmatrix} \} & \~ & (Domain,\space codomain\space basis) \\ M_{B, B}^T & \lt mi/> = \begin{bmatrix} -1 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 1 & 0 & 0 \\ 0 & 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 0 & 1 \end{bmatrix}
+S =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_n \}
+\alpha_1 \mathbf u_1 +\alpha_2 \mathbf u_2 +\alpha_3 \mathbf u_3 +\cdots +\alpha_n \mathbf u_n =\mathbf 0
+S
+\alpha_i =0
+1 \le i \le n
+S
+S =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_n \}
+S
+S
+S
+\mathbb C^5
+\mathbb C^5
+S =\{\mathbf v_1, \mathbf v_2, \mathbf v_3, \ldots, \mathbf v_n \} \subseteq \mathbb C^m
+A
+m \times n
+S
+S
+\mathcal L \mathscr S (A, \mathbf 0)
+r
+r
+n
+S =\{\mathbf v_1, \mathbf v_2, \mathbf v_3, \ldots, \mathbf v_n \} \subseteq \mathbb C^m
+A
+m \times n
+S
+B
+A
+r
+B
+S
+n =r
+r
+n
+\mathbb C^4
+S =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_n \} \subseteq \mathbb C^m
+n >m
+S
+n
+\mathbb C^n
+A
+A
+A
+A
+A
+A
+A
+\mathscr N (A) =\{\mathbf 0 \}
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf b
+A
+n -r
+\mathbf z_j
+1 \le j \le n -r
+\mathbf c
+\mathbf z_i
+1 \le i \le n -r
+\mathbf c
+A
+m \times n
+B
+r
+D =\{d_1, d_2, d_3, \ldots, d_r \}
+F =\{f_1, f_2, f_3, \ldots, f_{n -r} \}
+B
+n -r
+\mathbf z_j
+1 \le j \le n -r
+n
+[\mathbf z_j]_i =\{1 & if\~i \in F,\~i =f_j \\ 0 & if\~i \in F,\~i \not= f_j \\ -[B]_{k, f_j} & if\~i \in D,\~i =d_k \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+S =\{\mathbf z_1, \mathbf z_2, \mathbf z_3, \ldots, \mathbf z_{n -r} \}
+\mathscr N (A) = \langle S \rangle
+S
+r
+D
+F
+D
+F
+r
+D
+F
+D
+F
+r
+r
+r
+r
+r
+D
+F
+A
+B
+j
+B
+x_j
+n
+n +1
+m
+n
+r
+A
+n
+B
+r
+n +1
+B
+n +1 \in F
+F
+n +1 \in D
+x_{n +1}
+r
+n
+r
+n
+A
+n
+B
+r
+r \le n
+r =n
+r \lt n
+A
+n
+B
+r
+n -r
+m
+n
+n >m
+m
+n
+n
+r
+n +1
+n +1
+r =n
+n
+n +1
+r \lt n
+n +1
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf b =\mathbf 0
+n
+x_1 =0
+x_2 =0
+x_n =0
+\mathbf x =\mathbf 0
+m
+n
+n >m
+n =m
+n >m
+A
+\mathscr N (A)
+\mathcal L \mathscr S (A, \mathbf 0)
+n
+\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_n
+\mathbb C^m
+n
+\alpha_1, \alpha_2, \alpha_3, \ldots, \alpha_n
+\alpha_1 \mathbf u_1 +\alpha_2 \mathbf u_2 +\alpha_3 \mathbf u_3 +\cdots +\alpha_n \mathbf u_n
+\mathbb C^6
+m \times n
+A
+\mathbf A_1, \mathbf A_2, \mathbf A_3, \ldots, \mathbf A_n
+\mathbf x \in \mathbb C^n
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf b
+A
+\mathbf x
+[\mathbf x]_1 \mathbf A_1 +[\mathbf x]_2 \mathbf A_2 +[\mathbf x]_3 \mathbf A_3 +\cdots +[\mathbf x]_n \mathbf A_n =\mathbf b
+n
+\mathbf A_j
+\mathbf b
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf b
+A
+x_1 = -3, x_2 =5, x_3 =2
+\mathbf x = \begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix} = \begin{bmatrix} -3 \\ 5 \\ 2 \end{bmatrix}
+[ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>A|\mathbf b]
+\mathcal L \mathscr S (A, \mathbf b)
+m
+n
+B
+m \times (n +1)
+B
+r
+D =\{d_1, d_2, d_3, \ldots, d_r \}
+n -r
+F =\{f_1, f_2, f_3, \ldots, f_{n -r}, n +1\}
+\mathbf c
+\mathbf u_j
+1 \le j \le n -r
+n
+[\mathbf c]_i & \lt mi/> =\{0 & if\~i \in F \\ [B]_{k, n +1} & if\~i \in D,\~i =d_k \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/> \\ [\mathbf u_j]_i & \lt mi/> =\{1 & if\~i \in F,\~i =f_j \\ 0 & if\~i \in F,\~i \not= f_j \\ -[B]_{k, f_j} & if\~i \in D,\~i =d_k \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/> .
+\mathcal L \mathscr S (A, \mathbf b)
+S =\{ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\mathbf c +\alpha_1 \mathbf u_1 +\alpha_2 \mathbf u_2 +\alpha_3 \mathbf u_3 +\cdots +\alpha_{n -r} \mathbf u_{n -r} |\alpha_1, \alpha_2, \alpha_3, \ldots, \alpha_{n -r} \in \mathbb C^\~ \}
+\alpha_i =[\mathbf x]_{f_i}
+\alpha_i
+S
+[\mathbf x]_{f_i}
+1 \le i \le n -r
+\mathbf w
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf y
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf y =\mathbf w +\mathbf z
+\mathbf z \in \mathscr N (A)
+A
+\mathbf b
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf w
+\mathbf b
+S =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_p \}
+\langle S \rangle
+\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_p
+\langle S \rangle & \lt mi/> =\{ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\alpha_1 \mathbf u_1 +\alpha_2 \mathbf u_2 +\alpha_3 \mathbf u_3 +\cdots +\alpha_p \mathbf u_p |\alpha_i \in \mathbb C^\~, 1 \le i \le p\} \\ \~ & \lt mi/> =\{ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\sum_{i =1}^p \alpha_i \mathbf u_i |\alpha_i \in \mathbb C^\~, 1 \le i \le p\}
+S
+p
+\langle S \rangle
+S
+\langle S \rangle
+\mathbf c
+\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_{n -r}
+A
+m \times n
+B
+B
+r
+D =\{d_1, d_2, d_3, \ldots, d_r \}
+n -r
+F =\{f_1, f_2, f_3, \ldots, f_{n -r}, n +1\}
+n -r
+\mathbf z_j
+1 \le j \le n -r
+n
+[\mathbf z_j]_i =\{1 & if\~i \in F,\~i =f_j \\ 0 & if\~i \in F,\~i \not= f_j \\ -[B]_{k, f_j} & if\~i \in D,\~i =d_k \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+A
+\mathscr N (A) = \langle \{\mathbf z_1, \mathbf z_2, \mathbf z_3, \ldots, \mathbf z_{n -r} \} \rangle
+B
+B
+\mdwhtsquare
+\mdwhtsquare
+T \colon \mathbb C^5 \to \mathbb C^3, T( \begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \\ x_5 \end{bmatrix}) = \begin{bmatrix} x_1 +2x_2 +3x_3 +4x_4 +4x_5 \\ 3x_1 +x_2 +4x_3 -3x_4 +7x_5 \\ x_1 -x_2 -5x_4 +x_5 \end{bmatrix}
+\mdwhtsquare
+\{ \begin{bmatrix} -2 \\ -1 \\ 0 \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} 2 \\ -3 \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} -1 \\ -1 \\ 1 \\ 0 \\ 0 \end{bmatrix} \}
+\mdwhtsquare
+T( \begin{bmatrix} 1 \\ 2 \\ -1 \\ 4 \\ 5 \end{bmatrix}) & \lt mi/> = \begin{bmatrix} 38 \\ 24 \\ -16 \end{bmatrix} & T( \begin{bmatrix} 0 \\ -3 \\ 0 \\ 5 \\ 6 \end{bmatrix}) & \lt mi/> = \begin{bmatrix} 38 \\ 24 \\ -16 \end{bmatrix}
+T
+\begin{bmatrix} 0 \\ -3 \\ 0 \\ 5 \\ 6 \end{bmatrix} & \lt mi/> = \begin{bmatrix} 1 \\ 2 \\ -1 \\ 4 \\ 5 \end{bmatrix} + \begin{bmatrix} -1 \\ -5 \\ 1 \\ 1 \\ 1 \end{bmatrix} \\ and \\ \mathbf z & \lt mi/> = \begin{bmatrix} -1 \\ -5 \\ 1 \\ 1 \\ 1 \end{bmatrix} \in \mathscr K (T)
+\mathbf z
+T
+\mdwhtsquare
+\{ \begin{bmatrix} 1 \\ 3 \\ 1 \end{bmatrix}, \begin{bmatrix} 2 \\ 1 \\ -1 \end{bmatrix}, \begin{bmatrix} 3 \\ 4 \\ 0 \end{bmatrix}, \begin{bmatrix} 4 \\ -3 \\ -5 \end{bmatrix}, \begin{bmatrix} 4 \\ 7 \\ 1 \end{bmatrix} \}
+\mdwhtsquare
+\{ \begin{bmatrix} 1 \\ 0 \\ -\frac{4}{5} \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ \frac{3}{5} \end{bmatrix} \}
+\mdwhtsquare
+\mathbb C^3
+\begin{bmatrix} 3 \\ 4 \\ 5 \end{bmatrix} \notin \mscrR (T)
+T^{ -1} ( \begin{bmatrix} 3 \\ 4 \\ 5 \end{bmatrix})
+\mdwhtsquare
+Rank\colon \~2 & \~ & Nullity\colon \~3 & \~ & Domain\space dimension\colon \~5 & \~
+\mdwhtsquare
+\mdwhtsquare
+A
+T(\mathbf x) =A\mathbf x
+\mathbb C^m
+\begin{bmatrix} 1 & 2 & 3 & 4 & 4 \\ 3 & 1 & 4 & -3 & 7 \\ 1 & -1 & 0 & -5 & 1 \end{bmatrix}
+\mdwhtsquare
+\mdwhtsquare
+33x_1 -16x_2 +10x_3 -2x_4 & \lt mi/> = -27 \\ 99x_1 -47x_2 +27x_3 -7x_4 & \lt mi/> = -77 \\ 78x_1 -36x_2 +17x_3 -6x_4 & \lt mi/> = -52 \\ -9x_1 +2x_2 +3x_3 +4x_4 & \lt mi/> =5
+\mdwhtsquare
+x_1 =1, x_2 =2, x_3 = -2, x_4 =4
+\mdwhtsquare
+\begin{bmatrix} 33 & -16 & 10 & -2 & -27 \\ 99 & -47 & 27 & -7 & -77 \\ 78 & -36 & 17 & -6 & -52 \\ -9 & 2 & 3 & 4 & 5 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 0 & 0 & 1 \\ 0 & \boxed{1} & 0 & 0 & 2 \\ 0 & 0 & \boxed{1} & 0 & -2 \\ 0 & 0 & 0 & \boxed{1} & 4 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =4 & D & \lt mi/> =\{1, 2, 3, 4\} & F & \lt mi/> =\{5\}
+\mdwhtsquare
+F
+F
+\begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \end{bmatrix} = \begin{bmatrix} 1 \\ 2 \\ -2 \\ 4 \end{bmatrix}
+\mdwhtsquare
+33x_1 -16x_2 +10x_3 -2x_4 & \lt mi/> =0 \\ 99x_1 -47x_2 +27x_3 -7x_4 & \lt mi/> =0 \\ 78x_1 -36x_2 +17x_3 -6x_4 & \lt mi/> =0 \\ -9x_1 +2x_2 +3x_3 +4x_4 & \lt mi/> =0
+\mdwhtsquare
+x_1 =0, x_2 =0, x_3 =0, x_4 =0
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 0 & 0 & 0 \\ 0 & \boxed{1} & 0 & 0 & 0 \\ 0 & 0 & \boxed{1} & 0 & 0 \\ 0 & 0 & 0 & \boxed{1} & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =4 & D & \lt mi/> =\{1, 2, 3, 4\} & F & \lt mi/> =\{5\}
+\mdwhtsquare
+\begin{bmatrix} 33 & -16 & 10 & -2 \\ 99 & -47 & 27 & -7 \\ 78 & -36 & 17 & -6 \\ -9 & 2 & 3 & 4 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 0 & 0 \\ 0 & \boxed{1} & 0 & 0 \\ 0 & 0 & \boxed{1} & 0 \\ 0 & 0 & 0 & \boxed{1} \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =4 & D & \lt mi/> =\{1, 2, 3, 4\} & F & \lt mi/> =\{\}
+\mdwhtsquare
+D
+F
+\mdwhtsquare
+D
+F
+\langle \{\} \rangle
+\mdwhtsquare
+D
+\langle \{ \begin{bmatrix} 33 \\ 99 \\ 78 \\ -9 \end{bmatrix}, \begin{bmatrix} -16 \\ -47 \\ -36 \\ 2 \end{bmatrix}, \begin{bmatrix} 10 \\ 27 \\ 17 \\ 3 \end{bmatrix}, \begin{bmatrix} -2 \\ -7 \\ -6 \\ 4 \end{bmatrix} \} \rangle
+\mdwhtsquare
+L
+L
+r =m
+L
+\mathbb C^m
+L & \lt mi/> = \begin{bmatrix} \~ \end{bmatrix}
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\mdwhtsquare
+Rank\colon \~4 & \~ & Nullity\colon \~0 & \~ & Matrix\space columns\colon \~4 & \~
+\mdwhtsquare
+\mdwhtsquare
+\lambda & \lt mi/> = -1 & \mscrE_F ( -1) & \lt mi/> = \langle \{ \begin{bmatrix} 1 \\ 2 \\ 0 \\ 1 \end{bmatrix} \} \rangle \\ \lambda & \lt mi/> =2 & \mscrE_F (2) & \lt mi/> = \langle \{ \begin{bmatrix} 2 \\ 5 \\ 2 \\ 1 \end{bmatrix} \} \rangle \\ \lambda & \lt mi/> =3 & \mscrE_F (3) & \lt mi/> = \langle \{ \begin{bmatrix} 1 \\ 1 \\ 0 \\ 7 \end{bmatrix}, \begin{bmatrix} 17 \\ 45 \\ 21 \\ 0 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\gamma_F ( -1) & \lt mi/> =1 & \alpha_F ( -1) & \lt mi/> =1 \\ \gamma_F (2) & \lt mi/> =1 & \alpha_F (2) & \lt mi/> =1 \\ \gamma_F (3) & \lt mi/> =2 & \alpha_F (3) & \lt mi/> =2
+\mdwhtsquare
+\mdwhtsquare
+\begin{bmatrix} 12 & -5 & 1 & -1 \\ -39 & 18 & -7 & 3 \\ \frac{27}{7} & -\frac{13}{7} & \frac{6}{7} & -\frac{1}{7} \\ \frac{26}{7} & -\frac{12}{7} & \frac{5}{7} & -\frac{2}{7} \end{bmatrix} \begin{bmatrix} 33 & -16 & 10 & -2 \\ 99 & -47 & 27 & -7 \\ 78 & -36 & 17 & -6 \\ -9 & 2 & 3 & 4 \end{bmatrix} \begin{bmatrix} 1 & 2 & 1 & 17 \\ 2 & 5 & 1 & 45 \\ 0 & 2 & 0 & 21 \\ 1 & 1 & 7 & 0 \end{bmatrix} & \lt mi/> = \begin{bmatrix} -1 & 0 & 0 & 0 \\ 0 & 2 & 0 & 0 \\ 0 & 0 & 3 & 0 \\ 0 & 0 & 0 & 3 \end{bmatrix}
+A
+n
+\mathbf x \not= \mathbf 0
+\mathbb C^n
+\lambda
+\mathbb C^\~
+\mathbf x
+A
+\lambda
+A\mathbf x =\lambda \mathbf x
+A
+A
+A\mathbf x =\lambda \mathbf x \iff A\mathbf x -\lambda I_n \mathbf x =\mathbf 0 \iff (A -\lambda I_n)\mathbf x =\mathbf 0
+\lambda
+\mathbf x \not= \mathbf 0
+\mathbf x
+A -\lambda I_n
+A -\lambda I_n
+A
+n
+A
+p_A (x)
+p_A (x) =\det (A -xI_n)
+A
+\lambda
+A
+p_A (\lambda) =0
+A
+\lambda
+A
+A
+\lambda
+\mscrE_A (\lambda)
+A
+\lambda
+\mathbf 0
+A
+n
+\lambda
+A
+\mscrE_A (\lambda)
+\mathbb C^n
+A
+n
+\lambda
+A
+\mscrE_A (\lambda) =\mathscr N (A -\lambda I_n)
+A
+A
+\lambda
+A
+\lambda
+\alpha_A (\lambda)
+(x -\lambda)
+p_A (x)
+\lambda
+(x -\lambda)
+p_A (x)
+\alpha_A (\lambda) \ge 1
+A
+\lambda
+A
+\lambda
+\gamma_A (\lambda)
+\mscrE_A (\lambda)
+\gamma_A (\lambda) \ge 1
+\mdwhtsquare
+\mdwhtsquare
+\begin{bmatrix} 10 & 18 & 24 & 24 & -12 \\ 12 & -2 & -6 & 0 & -18 \\ -30 & -21 & -23 & -30 & 39 \\ 27 & 30 & 36 & 37 & -30 \\ 18 & 24 & 30 & 30 & -20 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 0 & 0 & 0 \\ 0 & \boxed{1} & 0 & 0 & 0 \\ 0 & 0 & \boxed{1} & 0 & 0 \\ 0 & 0 & 0 & \boxed{1} & 0 \\ 0 & 0 & 0 & 0 & \boxed{1} \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =5 & D & \lt mi/> =\{1, 2, 3, 4, 5\} & F & \lt mi/> =\{\}
+\mdwhtsquare
+D
+F
+\mdwhtsquare
+D
+F
+\langle \{\} \rangle
+\mdwhtsquare
+D
+\langle \{ \begin{bmatrix} 10 \\ 12 \\ -30 \\ 27 \\ 18 \end{bmatrix}, \begin{bmatrix} 18 \\ -2 \\ -21 \\ 30 \\ 24 \end{bmatrix}, \begin{bmatrix} 24 \\ -6 \\ -23 \\ 36 \\ 30 \end{bmatrix}, \begin{bmatrix} 24 \\ 0 \\ -30 \\ 37 \\ 30 \end{bmatrix}, \begin{bmatrix} -12 \\ -18 \\ 39 \\ -30 \\ -20 \end{bmatrix} \} \rangle
+\mdwhtsquare
+L
+L
+r =m
+L
+\mathbb C^m
+L & \lt mi/> = \begin{bmatrix} \~ \end{bmatrix}
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 0 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 0 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 0 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\begin{bmatrix} 1 & -(\frac{9}{4}) & -(\frac{3}{2}) & 3 & -6 \\ \frac{21}{2} & \frac{43}{4} & \frac{21}{2} & 9 & -9 \\ -15 & -(\frac{21}{2}) & -11 & -15 & \frac{39}{2} \\ 9 & \frac{15}{4} & \frac{9}{2} & 10 & -15 \\ \frac{9}{2} & \frac{3}{4} & \frac{3}{2} & 6 & -(\frac{19}{2}) \end{bmatrix}
+\mdwhtsquare
+Rank\colon \~5 & \~ & Nullity\colon \~0 & \~ & Matrix\space columns\colon \~5 & \~
+\mdwhtsquare
+Determinant\colon \~16
+\mdwhtsquare
+\lambda & \lt mi/> = -2 & \mscrE_K ( -2) & \lt mi/> = \langle \{ \begin{bmatrix} 2 \\ -2 \\ 1 \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} -1 \\ 2 \\ -2 \\ 1 \\ 0 \end{bmatrix} \} \rangle \\ \lambda & \lt mi/> =1 & \mscrE_K (1) & \lt mi/> = \langle \{ \begin{bmatrix} 4 \\ -10 \\ 7 \\ 0 \\ 2 \end{bmatrix}, \begin{bmatrix} -4 \\ 18 \\ -17 \\ 5 \\ 0 \end{bmatrix} \} \rangle \\ \lambda & \lt mi/> =4 & \mscrE_K (4) & \lt mi/> = \langle \{ \begin{bmatrix} 1 \\ -1 \\ 0 \\ 1 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\gamma_K ( -2) & \lt mi/> =2 & \alpha_K ( -2) & \lt mi/> =2 \\ \gamma_K (1) & \lt mi/> =2 & \alpha_K (1) & \lt mi/> =2 \\ \gamma_K (4) & \lt mi/> =1 & \alpha_K (4) & \lt mi/> =1
+\mdwhtsquare
+\mdwhtsquare
+\begin{bmatrix} -4 & -3 & -4 & -6 & 7 \\ -7 & -5 & -6 & -8 & 10 \\ 1 & -1 & -1 & 1 & -3 \\ 1 & 0 & 0 & 1 & -2 \\ 2 & 5 & 6 & 4 & 0 \end{bmatrix} \begin{bmatrix} 10 & 18 & 24 & 24 & -12 \\ 12 & -2 & -6 & 0 & -18 \\ -30 & -21 & -23 & -30 & 39 \\ 27 & 30 & 36 & 37 & -30 \\ 18 & 24 & 30 & 30 & -20 \end{bmatrix} \begin{bmatrix} 2 & -1 & 4 & -4 & 1 \\ -2 & 2 & -10 & 18 & -1 \\ 1 & -2 & 7 & -17 & 0 \\ 0 & 1 & 0 & 5 & 1 \\ 1 & 0 & 2 & 0 & 1 \end{bmatrix} & \lt mi/> = \begin{bmatrix} -2 & 0 & 0 & 0 & 0 \\ 0 & -2 & 0 & 0 & 0 \\ 0 & 0 & 1 & 0 & 0 \\ 0 & 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 0 & 4 \end{bmatrix}
+\mdwhtsquare
+\mdwhtsquare
+T \colon \mathbb C^3 \to \mathbb C^5, T( \begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix}) = \begin{bmatrix} -x_1 +x_2 -3x_3 \\ -x_1 +2x_2 -4x_3 \\ x_1 +x_2 +x_3 \\ 2x_1 +3x_2 +x_3 \\ x_1 +2x_3 \end{bmatrix}
+\mdwhtsquare
+\{ \begin{bmatrix} -2 \\ 1 \\ 1 \end{bmatrix} \}
+\mdwhtsquare
+T( \begin{bmatrix} 5 \\ -1 \\ 3 \end{bmatrix}) & \lt mi/> = \begin{bmatrix} -15 \\ -19 \\ 7 \\ 10 \\ 11 \end{bmatrix} & T( \begin{bmatrix} 1 \\ 1 \\ 5 \end{bmatrix}) & \lt mi/> = \begin{bmatrix} -15 \\ -19 \\ 7 \\ 10 \\ 11 \end{bmatrix}
+T
+\begin{bmatrix} 1 \\ 1 \\ 5 \end{bmatrix} & \lt mi/> = \begin{bmatrix} 5 \\ -1 \\ 3 \end{bmatrix} + \begin{bmatrix} -4 \\ 2 \\ 2 \end{bmatrix} \\ and \\ \mathbf z & \lt mi/> = \begin{bmatrix} -4 \\ 2 \\ 2 \end{bmatrix} \in \mathscr K (T)
+\mathbf z
+T
+\mdwhtsquare
+\{ \begin{bmatrix} -1 \\ -1 \\ 1 \\ 2 \\ 1 \end{bmatrix}, \begin{bmatrix} 1 \\ 2 \\ 1 \\ 3 \\ 0 \end{bmatrix}, \begin{bmatrix} -3 \\ -4 \\ 1 \\ 1 \\ 2 \end{bmatrix} \}
+\mdwhtsquare
+\{ \begin{bmatrix} 1 \\ 0 \\ -3 \\ -7 \\ -2 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 2 \\ 5 \\ 1 \end{bmatrix} \}
+\mdwhtsquare
+\mathbb C^5
+\mathbb C^3
+\begin{bmatrix} 2 \\ 3 \\ 1 \\ 1 \\ 1 \end{bmatrix} \notin \mscrR (T)
+T^{ -1} ( \begin{bmatrix} 2 \\ 3 \\ 1 \\ 1 \\ 1 \end{bmatrix})
+\mdwhtsquare
+Rank\colon \~2 & \~ & Nullity\colon \~1 & \~ & Domain\space dimension\colon \~3 & \~
+\mdwhtsquare
+\mdwhtsquare
+A
+T(\mathbf x) =A\mathbf x
+\mathbb C^m
+\begin{bmatrix} -1 & 1 & -3 \\ -1 & 2 & -4 \\ 1 & 1 & 1 \\ 2 & 3 & 1 \\ 1 & 0 & 2 \end{bmatrix}
+V
+V
+V
+V
+\mathbb C
+\mathbf u, \mathbf v \in V
+\mathbf u +\mathbf v \in V
+\alpha \in \mathbb C^\~
+\mathbf u \in V
+\alpha \mathbf u \in V
+\mathbf u, \mathbf v \in V
+\mathbf u +\mathbf v =\mathbf v +\mathbf u
+\mathbf u, \mathbf v, \mathbf w \in V
+\mathbf u +(\mathbf v +\mathbf w) =(\mathbf u +\mathbf v) +\mathbf w
+\mathbf 0
+\mathbf u +\mathbf 0 =\mathbf u
+\mathbf u \in V
+\mathbf u \in V
+-\mathbf u \in V
+\mathbf u +( -\mathbf u) =\mathbf 0
+\alpha, \beta \in \mathbb C^\~
+\mathbf u \in V
+\alpha (\beta \mathbf u) =(\alpha \beta)\mathbf u
+\alpha \in \mathbb C^\~
+\mathbf u, \mathbf v \in V
+\alpha (\mathbf u +\mathbf v) =\alpha \mathbf u +\alpha \mathbf v
+\alpha, \beta \in \mathbb C^\~
+\mathbf u \in V
+(\alpha +\beta)\mathbf u =\alpha \mathbf u +\beta \mathbf u
+\mathbf u \in V
+1\mathbf u =\mathbf u
+V
+V
+\{0, 1\}
+V
+F
+V
+\mathbb C^m
+M_{mn}
+A, B \in M_{34}
+A
+B
+A
+B
+\mathbf u +\mathbf v =A +B =B +A =\mathbf v +\mathbf u
+\mathbb C^m
+M_{mn}
+P_n
+V
+V
+\mathbf 0
+V
+\mathbf u \in V
+-\mathbf u
+V
+\mathbf u \in V
+0\mathbf u =\mathbf 0
+V
+\alpha \in \mathbb C^\~
+\alpha \mathbf 0 =\mathbf 0
+\mathbf u^\sharp
+\mathbf u
+\mathbf u +\mathbf u^\sharp =\mathbf 0
+\mathbf u^\sharp =( -1)\mathbf u
+V
+\mathbf u \in V
+-\mathbf u =( -1)\mathbf u
+6\mathbf u_1 +( -4)\mathbf u_2
+6\mathbf u_1 -4\mathbf u_2
+\alpha, \beta \in \mathbb C
+\alpha \beta =0
+\alpha =0
+\beta =0
+V
+\alpha \in \mathbb C^\~
+\alpha \mathbf u =\mathbf 0
+\alpha =0
+\mathbf u =\mathbf 0
+V
+\mathbf u_1, \mathbf u_2, \mathbf u_3 \in V
+5\mathbf u_1 +7\mathbf u_2 -13\mathbf u_3
+x_1, x_2, x_3
+a, b, c
+m \times n
+\mathbb C^\~
+m
+n
+A, B, C, \ldots
+A
+[A]_{ij}
+i
+j
+A
+[A]_{ij}
+x_1
+x_2
+x_3
+a
+b
+c
+x
+y
+z
+m
+m
+\mathbf u
+\mathbf v
+\mathbf w
+\mathbf x
+\mathbf y
+\mathbf z
+\vec{u}
+\underset{\textasciitilde}{u}
+\mathbf v
+i
+[\mathbf v]_i
+[\mathbf v]_i
+m
+m
+\mathbf 0 = \begin{bmatrix} 0 \\ 0 \\ 0 \\ \vdots \\ 0 \end{bmatrix}
+[\mathbf 0]_i =0
+1 \le i \le m
+a_{11} x_1 +a_{12} x_2 +a_{13} x_3 +\cdots +a_{1n} x_n & \lt mi/> =b_1 \\ a_{21} x_1 +a_{22} x_2 +a_{23} x_3 +\cdots +a_{2n} x_n & \lt mi/> =b_2 \\ a_{31} x_1 +a_{32} x_2 +a_{33} x_3 +\cdots +a_{3n} x_n & \lt mi/> =b_3 \\ \vdots & \~ \\ a_{m1} x_1 +a_{m2} x_2 +a_{m3} x_3 +\cdots +a_{mn} x_n & \lt mi/> =b_m
+m \times n
+A = \begin{bmatrix} a_{11} & a_{12} & a_{13} & \ldots & a_{1n} \\ a_{21} & a_{22} & a_{23} & \ldots & a_{2n} \\ a_{31} & a_{32} & a_{33} & \ldots & a_{3n} \\ \vdots & \~ \\ a_{m1} & a_{m2} & a_{m3} & \ldots & a_{mn} \end{bmatrix}
+a_{11} x_1 +a_{12} x_2 +a_{13} x_3 +\cdots +a_{1n} x_n & \lt mi/> =b_1 \\ a_{21} x_1 +a_{22} x_2 +a_{23} x_3 +\cdots +a_{2n} x_n & \lt mi/> =b_2 \\ a_{31} x_1 +a_{32} x_2 +a_{33} x_3 +\cdots +a_{3n} x_n & \lt mi/> =b_3 \\ \vdots & \~ \\ a_{m1} x_1 +a_{m2} x_2 +a_{m3} x_3 +\cdots +a_{mn} x_n & \lt mi/> =b_m
+m
+\mathbf b = \begin{bmatrix} b_1 \\ b_2 \\ b_3 \\ \vdots \\ b_m \end{bmatrix}
+a_{11} x_1 +a_{12} x_2 +a_{13} x_3 +\cdots +a_{1n} x_n & \lt mi/> =b_1 \\ a_{21} x_1 +a_{22} x_2 +a_{23} x_3 +\cdots +a_{2n} x_n & \lt mi/> =b_2 \\ a_{31} x_1 +a_{32} x_2 +a_{33} x_3 +\cdots +a_{3n} x_n & \lt mi/> =b_3 \\ \vdots & \~ \\ a_{m1} x_1 +a_{m2} x_2 +a_{m3} x_3 +\cdots +a_{mn} x_n & \lt mi/> =b_m
+n
+\mathbf x = \begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ \vdots \\ x_n \end{bmatrix}
+A
+\mathbf b
+\mathcal L \mathscr S (A, \mathbf b)
+m
+n
+A
+\mathbf b
+m \times (n +1)
+n
+A
+n +1
+\mathbf b
+[ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>A|\mathbf b]
+m \times n
+R_i \leftrightarrow R_j
+i
+j
+\alpha R_i
+i
+\alpha
+\alpha R_i +R_j
+i
+\alpha
+j
+A
+B
+A
+B
+B
+A
+A
+B
+i
+j
+s
+t
+s >i
+t >j
+r
+D =\{d_1, d_2, d_3, \ldots, d_r \}
+d_1 \lt d_2 \lt d_3 \lt \cdots \lt d_r
+F =\{f_1, f_2, f_3, \ldots, f_{n -r} \}
+f_1 \lt f_2 \lt f_3 \lt \cdots \lt f_{n -r}
+D
+F
+A
+B
+A
+B
+B
+[A]_{ij}
+B
+A
+m \times n
+B
+C
+m \times n
+A
+B =C
+A
+B
+A
+A
+B
+A
+B
+A
+B
+B
+\mathbf v \in \mathbb C^n,
+\mathbf v
+P =I_n -(\frac{2}{ \langle \mathbf v, \mathbf v \rangle})\mathbf v \mathbf v^\ast .
+\mathbf v
+\mathbf v \in \mathbb C^n
+\mathbf v \in \mathbb C^n
+\mathbf x
+\mathbf e_1 .
+P\mathbf x =\alpha \mathbf e_1
+\mathbf x \in \mathbb R^n,
+\mathbf v =\mathbf x \pm \Vert \mathbf x \Vert \mathbf e_1
+P
+\mathbf v .
+P\mathbf x = \mp \Vert \mathbf x \Vert \mathbf e_1 .
+\mathbf w
+P\mathbf w
+P\mathbf w -\mathbf w & \lt mi/> =I_n \mathbf w -(\frac{2}{ \langle \mathbf v, \mathbf v \rangle})\mathbf v \mathbf v^\ast \mathbf w -\mathbf w \\ \~ & \lt mi/> = -\frac{2}{ \langle \mathbf v, \mathbf v \rangle}\mathbf v \langle \mathbf v, \mathbf w \rangle \\ \~ & \lt mi/> = -\frac{2 \langle \mathbf v, \mathbf w \rangle}{ \langle \mathbf v, \mathbf v \rangle}\mathbf v
+\mathbf v,
+\mathbf v .
+P ?
+\langle \mathbf v, \mathbf w \rangle =0 .
+\mathbf v
+\mathbb R^3 .
+\mathbf v,
+\mathbf v
+-5x +4y +7z =0 .
+(4, 4, 7)
+(9, 0, 0)
+(4, 4, 7) -(9, 0, 0) =( -5, 4, 7)
+\mathbf v
+\mathbf v =\mathbf x + \Vert \mathbf x \Vert \mathbf e_1,
+\mathbf v = \begin{bmatrix} 13 \\ 4 \\ 7 \end{bmatrix},
+P
+\mathbf x
+\begin{bmatrix} -9 \\ 0 \\ 0 \end{bmatrix} .
+13x +4y +7z =0 .
+\mathbf x
+\mathbf x
+2 \Vert \mathbf v \Vert
+\mathbf v
+\mathbb C^m
+\mdwhtsquare
+\mdwhtsquare
+T \colon \mathbb C^5 \to \mathbb C^5, T( \begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \\ x_5 \end{bmatrix}) = \begin{bmatrix} -65x_1 +128x_2 +10x_3 -262x_4 +40x_5 \\ 36x_1 -73x_2 -x_3 +151x_4 -16x_5 \\ -44x_1 +88x_2 +5x_3 -180x_4 +24x_5 \\ 34x_1 -68x_2 -3x_3 +140x_4 -18x_5 \\ 12x_1 -24x_2 -x_3 +49x_4 -5x_5 \end{bmatrix}
+\mdwhtsquare
+\{\}
+\mdwhtsquare
+\mdwhtsquare
+\{ \begin{bmatrix} -65 \\ 36 \\ -44 \\ 34 \\ 12 \end{bmatrix}, \begin{bmatrix} 128 \\ -73 \\ 88 \\ -68 \\ -24 \end{bmatrix}, \begin{bmatrix} 10 \\ -1 \\ 5 \\ -3 \\ -1 \end{bmatrix}, \begin{bmatrix} -262 \\ 151 \\ -180 \\ 140 \\ 49 \end{bmatrix}, \begin{bmatrix} 40 \\ -16 \\ 24 \\ -18 \\ -5 \end{bmatrix} \}
+\mdwhtsquare
+\{ \begin{bmatrix} 1 \\ 0 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 0 \\ 1 \end{bmatrix} \}
+\mdwhtsquare
+\mathbb C^5
+\mscrR (T) =\mathbb C^5
+T
+\mathbb C^5
+\mdwhtsquare
+Rank\colon \~5 & \~ & Nullity\colon \~0 & \~ & Domain\space dimension\colon \~5 & \~
+\mdwhtsquare
+\mdwhtsquare
+A
+T(\mathbf x) =A\mathbf x
+\mathbb C^m
+\begin{bmatrix} -65 & 128 & 10 & -262 & 40 \\ 36 & -73 & -1 & 151 & -16 \\ -44 & 88 & 5 & -180 & 24 \\ 34 & -68 & -3 & 140 & -18 \\ 12 & -24 & -1 & 49 & -5 \end{bmatrix}
+\mdwhtsquare
+\lambda & \lt mi/> = -1 & \mscrE_T ( -1) & \lt mi/> = \langle \{ \begin{bmatrix} -57 \\ 0 \\ -18 \\ 14 \\ 5 \end{bmatrix}, \begin{bmatrix} 2 \\ 1 \\ 0 \\ 0 \\ 0 \end{bmatrix} \} \rangle \\ \lambda & \lt mi/> =1 & \mscrE_T (1) & \lt mi/> = \langle \{ \begin{bmatrix} -10 \\ -5 \\ -6 \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} 2 \\ 3 \\ 1 \\ 1 \\ 0 \end{bmatrix} \} \rangle \\ \lambda & \lt mi/> =2 & \mscrE_T (2) & \lt mi/> = \langle \{ \begin{bmatrix} -6 \\ 3 \\ -4 \\ 3 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+B & \lt mi/> =\{ \begin{bmatrix} -57 \\ 0 \\ -18 \\ 14 \\ 5 \end{bmatrix}, \begin{bmatrix} 2 \\ 1 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} -10 \\ -5 \\ -6 \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} 2 \\ 3 \\ 1 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} -6 \\ 3 \\ -4 \\ 3 \\ 1 \end{bmatrix} \} & \~ & (Domain,\space codomain\space basis) \\ M_{B, B}^T & \lt mi/> = \begin{bmatrix} -1 & 0 & 0 & 0 & 0 \\ 0 & -1 & 0 & 0 & 0 \\ 0 & 0 & 1 & 0 & 0 \\ 0 & 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 0 & 2 \end{bmatrix}
+V
+S \subseteq V
+V
+V
+V
+S
+V
+\mathbb C^m
+\mathbb C^m
+\mathbb C^m
+B =\{ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\mathbf e_i |1 \le i \le m\}
+\mathbb C^m
+P_n
+P_4
+M_{22}
+\mathbb C^m
+\mathbb C^m
+S
+S
+X
+\mathbb C^m
+A
+m
+A
+\mathbb C^m
+A
+A
+n
+A
+A
+A
+\mathscr N (A) =\{\mathbf 0 \}
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf b
+A
+A
+A
+\mathbb C^n
+\mathscr C (A) =\mathbb C^n
+A
+\mathbb C^n
+\mathbb C^m
+\mathbb C^m
+W
+\mathbb C^m
+B
+B
+W
+T
+\langle T \rangle = \langle B \rangle =W
+T
+T
+W
+T
+T
+W
+Q
+n
+n
+Q
+Q
+Q
+Q
+\mathbb C^n
+n
+\mathbb C^n
+B =\{\mathbf v_1, \mathbf v_2, \mathbf v_3, \ldots, \mathbf v_p \}
+W
+\mathbb C^m
+\mathbf w \in W
+\mathbf w = \langle \mathbf v_1, \mathbf w \rangle \mathbf v_1 + \langle \mathbf v_2, \mathbf w \rangle \mathbf v_2 + \langle \mathbf v_3, \mathbf w \rangle \mathbf v_3 +\cdots + \langle \mathbf v_p, \mathbf w \rangle \mathbf v_p
+\mathbb C^4
+\mathbb C^3
+A
+n \times n
+B =\{\mathbf x_1, \mathbf x_2, \mathbf x_3, \ldots, \mathbf x_n \}
+\mathbb C^n
+C & \lt mi/> =\{A\mathbf x_1, A\mathbf x_2, A\mathbf x_3, \ldots, A\mathbf x_n \}
+A
+C
+\mathbb C^n
+V
+U
+W
+\mathbf v \in V,
+\mathbf u \in U,
+\mathbf w \in W
+\mathbf v =\mathbf u +\mathbf w
+\mathbf v =\mathbf u_1 +\mathbf w_1
+\mathbf v =\mathbf u_2 +\mathbf w_2
+\mathbf u_1, \mathbf u_2 \in U,
+\mathbf w_1, \mathbf w_2 \in W
+\mathbf u_1 =\mathbf u_2
+\mathbf w_1 =\mathbf w_2 .
+V
+U
+W
+V =U \oplus W .
+V
+U
+W,
+V
+U
+W,
+V =U_1 \oplus U_2 \oplus U_3 \oplus \cdots \oplus U_m
+V
+B =\{\mathbf v_1, \mathbf v_2, \mathbf v_3, \ldots, \mathbf v_n \}
+m \le n .
+U & \lt mi/> = \langle \{\mathbf v_1, \mathbf v_2, \mathbf v_3, \ldots, \mathbf v_m \} \rangle & W & \lt mi/> = \langle \{\mathbf v_{m +1}, \mathbf v_{m +2}, \mathbf v_{m +3}, \ldots, \mathbf v_n \} \rangle
+V =U \oplus W .
+U
+V .
+W
+V
+V =U \oplus W .
+U
+W
+V .
+V =U \oplus W
+\mathbf v \in V,
+\mathbf u \in U,
+\mathbf w \in W
+\mathbf v =\mathbf u +\mathbf w .
+\mathbf 0 =\mathbf u +\mathbf w
+\mathbf u \in U,
+\mathbf w \in W
+\mathbf u =\mathbf w =\mathbf 0 .
+U
+W
+V .
+V =U \oplus W
+\mathbf v \in V,
+\mathbf u \in U,
+\mathbf w \in W
+\mathbf v =\mathbf u +\mathbf w .
+U \cap W =\{\mathbf 0 \} .
+U
+W
+V
+V =U \oplus W .
+R
+U
+S
+W .
+R \cup S
+V .
+U
+W
+V
+V =U \oplus W .
+\dim (V) =\dim (U) +\dim (W) .
+V
+U
+W
+V =U \oplus W .
+X
+Y
+W
+W =X \oplus Y .
+V =U \oplus X \oplus Y .
+V =U \oplus W
+V .
+U \oplus W
+V =U \oplus W
+V,
+U
+W,
+\mdwhtsquare
+\mdwhtsquare
+2x_1 +3x_2 & \lt mi/> =6 \\ -x_1 +4x_2 & \lt mi/> = -14 \\ 3x_1 +10x_2 & \lt mi/> = -2 \\ 3x_1 -x_2 & \lt mi/> =20 \\ 6x_1 +9x_2 & \lt mi/> =18
+\mdwhtsquare
+x_1 =6, x_2 = -2
+\mdwhtsquare
+\begin{bmatrix} 2 & 3 & 6 \\ -1 & 4 & -14 \\ 3 & 10 & -2 \\ 3 & -1 & 20 \\ 6 & 9 & 18 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 6 \\ 0 & \boxed{1} & -2 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =2 & D & \lt mi/> =\{1, 2\} & F & \lt mi/> =\{3\}
+\mdwhtsquare
+F
+F
+\begin{bmatrix} x_1 \\ x_2 \end{bmatrix} = \begin{bmatrix} 6 \\ -2 \end{bmatrix}
+\mdwhtsquare
+2x_1 +3x_2 & \lt mi/> =0 \\ -x_1 +4x_2 & \lt mi/> =0 \\ 3x_1 +10x_2 & \lt mi/> =0 \\ 3x_1 -x_2 & \lt mi/> =0 \\ 6x_1 +9x_2 & \lt mi/> =0
+\mdwhtsquare
+x_1 =0, x_2 =0
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 0 \\ 0 & \boxed{1} & 0 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =2 & D & \lt mi/> =\{1, 2\} & F & \lt mi/> =\{3\}
+\mdwhtsquare
+\begin{bmatrix} 2 & 3 \\ -1 & 4 \\ 3 & 10 \\ 3 & -1 \\ 6 & 9 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 \\ 0 & \boxed{1} \\ 0 & 0 \\ 0 & 0 \\ 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =2 & D & \lt mi/> =\{1, 2\} & F & \lt mi/> =\{\}
+\mdwhtsquare
+D
+F
+\mdwhtsquare
+D
+F
+\langle \{\} \rangle
+\mdwhtsquare
+D
+\langle \{ \begin{bmatrix} 2 \\ -1 \\ 3 \\ 3 \\ 6 \end{bmatrix}, \begin{bmatrix} 3 \\ 4 \\ 10 \\ -1 \\ 9 \end{bmatrix} \} \rangle
+\mdwhtsquare
+L
+L
+r =m
+L
+\mathbb C^m
+L & \lt mi/> = \begin{bmatrix} 1 & 0 & 0 & 0 & -\frac{1}{3} \\ 0 & 1 & 0 & 1 -\frac{1}{3} \\ 0 & 0 & 1 & 1 & -1 \end{bmatrix}
+\langle \{ \begin{bmatrix} \frac{1}{3} \\ \frac{1}{3} \\ 1 \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} 0 \\ -1 \\ -1 \\ 1 \\ 0 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 2 \\ 1 \\ 3 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 1 \\ -1 \\ 0 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+Rank\colon \~2 & \~ & Nullity\colon \~0 & \~ & Matrix\space columns\colon \~2 & \~
+\mdwhtsquare
+T \colon V \to V
+\mathbf v \in V
+T
+\lambda
+T(\mathbf v) =\lambda \mathbf v
+V
+I_V \colon V \to V
+V
+B =\{\mathbf v_1, \mathbf v_2, \mathbf v_3, \ldots, \mathbf v_n \}
+C
+V
+B
+C
+I_V
+B
+C
+C_{B, C} & \lt mi/> =M_{B, C}^{I_V} \\ \~ & \lt mi/> =[ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\rho_C (I_V (\mathbf v_1))| \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\rho_C (I_V (\mathbf v_2))| \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\rho_C (I_V (\mathbf v_3))|\ldots | \rho_C (I_V (\mathbf v_n)) \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>] \\ \~ & \lt mi/> =[ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\rho_C (\mathbf v_1)| \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\rho_C (\mathbf v_2)| \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\rho_C (\mathbf v_3)|\ldots | \rho_C (\mathbf v_n) \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>]
+V
+V
+B
+C
+I_V
+\mathbf v
+V
+B
+C
+V
+\rho_C (\mathbf v) =C_{B, C} \rho_B (\mathbf v)
+\mathbf v
+\rho_B (\mathbf v)
+\rho_C (\mathbf v)
+V
+B
+C
+V
+C_{B, C}
+C_{B, C}^{ -1} =C_{C, B}
+C_{C, B}
+C_{B, C}
+C_{B, C}
+C_{C, B}
+C_{B, C}
+\mathbb C^m
+T \colon U \to V
+B
+C
+U
+D
+E
+V
+M_{B, D}^T =C_{E, D} M_{C, E}^T C_{B, C}
+U
+V
+T \colon V \to V
+B
+C
+V
+M_{B, B}^T =C_{B, C}^{ -1} M_{C, C}^T C_{B, C}
+V
+T
+B
+M_{B, B}^T
+T
+C
+M_{C, C}^T
+C_{B, C}
+T \colon V \to V
+T
+T
+T \colon V \to V
+B
+V
+\mathbf v \in V
+T
+\lambda
+\rho_B (\mathbf v)
+M_{B, B}^T
+\lambda
+B
+T \colon V \to V
+B
+V
+V
+\rho_B^{ -1}
+n
+\rho_B^{ -1}
+r
+n
+r
+n
+\mathbb C^m
+P_n
+M_{mn}
+n \times n
+A
+[A]_{ij} =0
+i >j
+n \times n
+A
+[A]_{ij} =0
+i \lt j
+A
+B
+n
+AB
+A
+n
+A
+A^{ -1}
+A^{ -1}
+A
+[A^{ -1}]_{ii} =[A]_{ii}^{ -1}
+T \colon V \to V
+B
+V
+T
+B
+M_{B, B}^T
+T
+\lambda
+T
+\lambda
+\alpha_T (\lambda)
+W
+V
+\mathbb R^\~
+\mathbb C
+\mathbb C
+\mathbb C^m
+A
+A^\ast
+A
+U
+T
+U^\ast AU =T
+T
+A
+A
+A^\ast A =AA^\ast
+A
+U
+D
+A
+U^\ast AU =D
+A
+A =UDU^\ast
+A\mathbf x
+U^\ast
+D
+D
+U
+U^\ast
+U
+U^\ast
+A
+D
+D
+A
+n
+\mathbb C^n
+A
+n \times n
+A
+\mathbb C^n
+A
+A
+U
+n \times n
+A
+U
+\mathbf x \in \mathbb C^n
+\hat{\mathbf x}
+\mathbf x
+\hat{\mathbf x}
+U
+\mathbf x
+U \hat{\mathbf x} =\mathbf x
+U^\ast
+U
+\hat{\mathbf x} =U^\ast \mathbf x
+U
+\langle \mathbf x, \mathbf y \rangle = \langle U \hat{\mathbf x}, U \hat{\mathbf y} \rangle = \langle \hat{\mathbf x}, \hat{\mathbf y} \rangle
+A
+A\mathbf x =\mathbf y
+U
+A
+D
+A
+U^\ast AU =D
+U^\ast A =DU^\ast
+\hat{\mathbf y} =U^\ast \mathbf y =U^\ast A\mathbf x =DU^\ast \mathbf x =D \hat{\mathbf x}
+A
+D
+A
+A
+m \times n
+M_{mn}
+m \times n
+m \times n
+A
+B
+A =B
+[A]_{ij} =[B]_{ij}
+1 \le i \le m
+1 \le j \le n
+M_{mn}
+m \times n
+A
+B
+A
+B
+m \times n
+A +B
+[A +B]_{ij} & \lt mi/> =[A]_{ij} +[B]_{ij} & \~ & 1 \le i \le m, 1 \le j \le n
+M_{23}
+m \times n
+A
+\alpha \in \mathbb C^\~
+A
+m \times n
+\alpha A
+[\alpha A]_{ij} & \lt mi/> =\alpha [A]_{ij} & \~ & 1 \le i \le m, 1 \le j \le n
+M_{32}
+M_{mn}
+m \times n
+A, B \in M_{mn}
+A +B \in M_{mn}
+\alpha \in \mathbb C^\~
+A \in M_{mn}
+\alpha A \in M_{mn}
+A, B \in M_{mn}
+A +B =B +A
+A, B, C \in M_{mn}
+A +(B +C) =(A +B) +C
+0
+A +0 =A
+A \in M_{mn}
+A \in M_{mn}
+-A \in M_{mn}
+A +( -A) =0
+\alpha, \beta \in \mathbb C^\~
+A \in M_{mn}
+\alpha (\beta A) =(\alpha \beta)A
+\alpha \in \mathbb C^\~
+A, B \in M_{mn}
+\alpha (A +B) =\alpha A +\alpha B
+\alpha, \beta \in \mathbb C^\~
+A \in M_{mn}
+(\alpha +\beta)A =\alpha A +\beta A
+A \in M_{mn}
+1A =A
+0
+m \times n
+0 =0_{m \times n}
+[0]_{ij} =0
+1 \le i \le m
+1 \le j \le n
+m \times n
+A
+n \times m
+A^t
+[A^t]_{ij} =[A]_{ji}, 1 \le i \le n, 1 \le j \le m .
+3 \times 4
+A
+A =A^t
+5 \times 5
+A
+A
+A
+A
+B
+m \times n
+(A +B)^t =A^t +B^t
+\alpha \in \mathbb C^\~
+A
+m \times n
+(\alpha A)^t =\alpha A^t
+A
+m \times n
+(A^t)^t =A
+A
+m \times n
+A
+\overline{A}
+m \times n
+[\overline{A}]_{ij} =\overline{[A]_{ij}}
+A
+B
+m \times n
+\overline{A +B} =\overline{A} +\overline{B}
+\alpha \in \mathbb C^\~
+A
+m \times n
+\overline{\alpha A} =\overline{\alpha}\overline{A}
+A
+m \times n
+\overline{(\overline{A})} =A
+A
+m \times n
+\overline{(A^t)} =(\overline{A})^t
+A
+A^\ast =(\overline{A})^t
+A^H
+A^\ast
+A^\dag
+A
+B
+(A +B)^\ast =A^\ast +B^\ast
+\alpha \in \mathbb C
+A
+(\alpha A)^\ast =\overline{\alpha}A^\ast
+A
+(A^\ast)^\ast =A
+3 \times 4
+3 \times 4
+3 \times 4
+4 \times 4
+5 \times 2
+5 \times 2
+4 \times 7
+6 \times 9
+5 \times 5
+5 \times 5
+xy
+y =mx +b
+m
+y
+b
+(x, y, z)
+ax +by +cz =d
+a, b, c, d
+x =3t -4
+y = -7t +2
+z =9t
+t
+2x +3y -4z & \lt mi/> =13 & 4x_1 +5x_2 -x_3 +x_4 +x_5 & \lt mi/> =0 & 9a -2b +7c +2d & \lt mi/> = -7
+xy +5yz & \lt mi/> =13 & x_1 +x_2^3 /x_4 -x_3 x_4 x_5^2 & \lt mi/> =0 & \tan (ab) +\log (c -d) & \lt mi/> = -7
+\mdwhtsquare
+\mdwhtsquare
+2x_1 -3x_2 +x_3 -6x_4 & \lt mi/> = -7 \\ 4x_1 +x_2 +2x_3 +9x_4 & \lt mi/> = -7 \\ 3x_1 +x_2 +x_3 +8x_4 & \lt mi/> = -8
+\mdwhtsquare
+x_1 = -7, x_2 = -2, x_3 =7, x_4 =1
+x_1 = -1, x_2 =7, x_3 =4, x_4 = -2
+\mdwhtsquare
+\begin{bmatrix} 2 & -3 & 1 & -6 & -7 \\ 4 & 1 & 2 & 9 & -7 \\ 3 & 1 & 1 & 8 & -8 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 0 & 2 & -5 \\ 0 & \boxed{1} & 0 & 3 & 1 \\ 0 & 0 & \boxed{1} & -1 & 6 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =3 & D & \lt mi/> =\{1, 2, 3\} & F & \lt mi/> =\{4, 5\}
+\mdwhtsquare
+F
+F
+\begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \end{bmatrix} = \begin{bmatrix} -5 \\ 1 \\ 6 \\ 0 \end{bmatrix} +x_4 \begin{bmatrix} -2 \\ -3 \\ 1 \\ 1 \end{bmatrix}
+\mdwhtsquare
+2x_1 -3x_2 +x_3 -6x_4 & \lt mi/> =0 \\ 4x_1 +x_2 +2x_3 +9x_4 & \lt mi/> =0 \\ 3x_1 +x_2 +x_3 +8x_4 & \lt mi/> =0
+\mdwhtsquare
+x_1 =0, x_2 =0, x_3 =0, x_4 =0
+x_1 = -2, x_2 = -3, x_3 =1, x_4 =1
+x_1 = -4, x_2 = -6, x_3 =2, x_4 =2
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 0 & 2 & 0 \\ 0 & \boxed{1} & 0 & 3 & 0 \\ 0 & 0 & \boxed{1} & -1 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =3 & D & \lt mi/> =\{1, 2, 3\} & F & \lt mi/> =\{4, 5\}
+\mdwhtsquare
+\begin{bmatrix} 2 & -3 & 1 & -6 \\ 4 & 1 & 2 & 9 \\ 3 & 1 & 1 & 8 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 0 & 2 \\ 0 & \boxed{1} & 0 & 3 \\ 0 & 0 & \boxed{1} & -1 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =3 & D & \lt mi/> =\{1, 2, 3\} & F & \lt mi/> =\{4\}
+\mdwhtsquare
+D
+F
+\mdwhtsquare
+D
+F
+\langle \{ \begin{bmatrix} -2 \\ -3 \\ 1 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+D
+\langle \{ \begin{bmatrix} 2 \\ 4 \\ 3 \end{bmatrix}, \begin{bmatrix} -3 \\ 1 \\ 1 \end{bmatrix}, \begin{bmatrix} 1 \\ 2 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+L
+L
+r =m
+L
+\mathbb C^m
+L & \lt mi/> = \begin{bmatrix} \~ \end{bmatrix}
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 0 \\ 2 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \\ 3 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ -1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+Rank\colon \~3 & \~ & Nullity\colon \~1 & \~ & Matrix\space columns\colon \~4 & \~
+\mdwhtsquare
+\mdwhtsquare
+\mdwhtsquare
+T \colon P_4 \to P_5, T(p(x)) =(x -2)p(x)
+\mdwhtsquare
+\{\}
+\mdwhtsquare
+\mdwhtsquare
+\{x -2, x^2 -2x, x^3 -2x^2, x^4 -2x^3, x^5 -2x^4, x^6 -2x^5 \}
+\mdwhtsquare
+\{ -\frac{1}{32}x^5 +1, -\frac{1}{16}x^5 +x, -\frac{1}{8}x^5 +x^2, -\frac{1}{4}x^5 +x^3, -\frac{1}{2}x^5 +x^4 \}
+\mdwhtsquare
+P_5
+P_4
+1 +x +x^2 +x^3 +x^4 \notin \mscrR (T)
+T^{ -1} (1 +x +x^2 +x^3 +x^4)
+\mdwhtsquare
+Rank\colon \~5 & \~ & Nullity\colon \~0 & \~ & Domain\space dimension\colon \~5 & \~
+\mdwhtsquare
+\mdwhtsquare
+B & \lt mi/> =\{1, x, x^2, x^3, x^4 \} & \~ & (Domain\space basis) \\ C & \lt mi/> =\{1, x, x^2, x^3, x^4, x^5 \} & \~ & (Codomain\space basis) \\ M_{B, C}^T & \lt mi/> = \begin{bmatrix} -2 & 0 & 0 & 0 & 0 \\ 1 & -2 & 0 & 0 & 0 \\ 0 & 1 & -2 & 0 & 0 \\ 0 & 0 & 1 & -2 & 0 \\ 0 & 0 & 0 & 1 & -2 \\ 0 & 0 & 0 & 0 & 1 \end{bmatrix}
+4 \times 100\~meter
+A
+n \times n
+S =\{\mathbf x_1, \mathbf x_2, \mathbf x_3, \ldots, \mathbf x_p \}
+\lambda_1, \lambda_2, \lambda_3, \ldots, \lambda_p
+\lambda_i \not= \lambda_j
+i \not= j
+S
+A
+A
+\lambda =0
+A
+A
+n
+A
+A
+A
+\mathscr N (A) =\{\mathbf 0 \}
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf b
+A
+A
+A
+\mathbb C^n
+\mathscr C (A) =\mathbb C^n
+A
+\mathbb C^n
+A
+n
+r(A) =n
+A
+n(A) =0
+A
+\det (A) \not= 0
+\lambda =0
+A
+A
+\lambda
+A
+\alpha \lambda
+\alpha A
+A
+\lambda
+A
+s \ge 0
+\lambda^s
+A^s
+A
+\lambda
+A
+q(x)
+x
+q(\lambda)
+q(A)
+A
+\lambda
+A
+\lambda^{ -1}
+A^{ -1}
+A
+\lambda
+A
+\lambda
+A^t
+A
+\mathbf x
+A
+\lambda
+\overline{\mathbf x}
+A
+\overline{\lambda}
+n
+n
+A
+n
+A
+p_A (x)
+n
+\lambda_1, \lambda_2, \lambda_3, \ldots, \lambda_k
+A
+n
+\sum_{i =1}^k \alpha_A (\lambda_i) =n
+A
+n
+\lambda
+1 \le \gamma_A (\lambda) \le \alpha_A (\lambda) \le n
+A
+n
+A
+n
+A =A^\ast
+A
+A
+A
+\lambda
+A
+\lambda \in \mathbb R
+A
+\mathbf x
+\mathbf y
+A
+\mathbf x
+\mathbf y
+A
+S =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_n \}
+S
+t
+1 \le t \le n
+\mathbf u_\mathbf t
+\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_{t -1}, \mathbf u_{t +1}, \ldots, \mathbf u_n
+\mathbb C^5
+S =\{\mathbf v_1, \mathbf v_2, \mathbf v_3, \ldots, \mathbf v_n \}
+W = \langle S \rangle
+A
+S
+B
+A
+D =\{d_1, d_2, d_3, \ldots, d_r \}
+B
+T =\{\mathbf v_{d_1}, \mathbf v_{d_2}, \mathbf v_{d_3}, \ldots \mathbf v_{d_r} \}
+W = \langle T \rangle
+\mathbb C^4
+n
+A
+\mathbf x
+\mathbb C^n
+\mathbb C^n
+\mathbf x
+A\mathbf x
+A
+A
+V
+W
+W
+V
+W \subseteq V
+W
+V
+\mathbb C^3
+V
+W
+V
+W \subseteq V
+W
+V
+W
+W
+W \not= \varnothing
+\mathbf x \in W
+\mathbf y \in W
+\mathbf x +\mathbf y \in W
+\alpha \in \mathbb C^\~
+\mathbf x \in W
+\alpha \mathbf x \in W
+P_4
+\mathbb C^2
+\mathbb C^2
+\mathbb C^2
+V
+V
+V
+Z =\{\mathbf 0 \}
+V
+V
+\{\mathbf 0 \}
+A
+m \times n
+A
+\mathscr N (A)
+\mathbb C^n
+V
+n
+\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_n
+n
+\alpha_1, \alpha_2, \alpha_3, \ldots, \alpha_n
+\alpha_1 \mathbf u_1 +\alpha_2 \mathbf u_2 +\alpha_3 \mathbf u_3 +\cdots +\alpha_n \mathbf u_n .
+V
+S =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_t \}
+\langle S \rangle
+\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_t
+\langle S \rangle & \lt mi/> =\{ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\alpha_1 \mathbf u_1 +\alpha_2 \mathbf u_2 +\alpha_3 \mathbf u_3 +\cdots +\alpha_t \mathbf u_t |\alpha_i \in \mathbb C^\~, 1 \le i \le t\} \\ \~ & \lt mi/> =\{ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\sum_{i =1}^t \alpha_i \mathbf u_i |\alpha_i \in \mathbb C^\~, 1 \le i \le t\}
+V
+S =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_t \} \subseteq V
+\langle S \rangle
+M_{32}
+\mathbb C^m
+A
+m \times n
+\mathscr C (A)
+\mathbb C^m
+A
+m \times n
+\mscrR (A)
+\mathbb C^n
+A
+m \times n
+\mathcal L (A)
+\mathbb C^m
+W
+I_W \colon W \to W, I_W (\mathbf w) =\mathbf w
+I_W
+I_W
+T \colon U \to V
+S \colon V \to U
+S \circ T & \lt mi/> =I_U & T \circ S & \lt mi/> =I_V
+T
+S
+T
+S =T^{ -1}
+T
+S
+T
+S
+T
+A
+T
+T
+T
+B
+T
+S
+T
+T
+S
+T \colon U \to V
+T^{ -1} \colon V \to U
+T
+T^{ -1}
+T^{ -1}
+T \colon U \to V
+T^{ -1}
+(T^{ -1})^{ -1} =T
+T \colon U \to V
+T
+T
+V
+T^{ -1}
+T \colon U \to V
+S \colon V \to W
+(S \circ T) \colon U \to W
+T \colon U \to V
+S \colon V \to W
+S \circ T
+(S \circ T)^{ -1} =T^{ -1} \circ S^{ -1}
+S \circ T
+S \circ T
++
+U
+V
+T
+U
+V
+T \colon U \to V
+U \cong V
+T
+U
+V
+U
+V
+V
+U
+P_3
+M_{22}
+U
+V
+T
+U
+U
+V
+T
+T(\mathbf u_1) +T(\mathbf u_2)
+T(\mathbf u_1 +\mathbf u_2)
+T^{ -1}
+\mathbf u_1 +\mathbf u_2
+U
+V
+\dim (U) =\dim (V)
+U
+V
+P_6
+M_{34}
+T \colon U \to V
+T
+r(T)
+T
+r(T) =\dim (\mscrR (T))
+T \colon U \to V
+T
+n(T)
+T
+n(T) =\dim (\mathscr K (T))
+T \colon U \to V
+T
+V
+r(T) =\dim (V)
+T
+T \colon U \to V
+T
+n(T) =0
+T
+T \colon U \to V
+r(T) +n(T) =\dim (U)
+T \colon \mathbb C^n \to \mathbb C^m
+m \times n
+A
+T(\mathbf x) =A\mathbf x
+T
+A
+A
+T
+T
+\mathbb C^n
+A
+T \colon \mathbb C^6 \to \mathbb C^6
+n(T) =0
+T
+6 =\dim (\mathbb C^6) =r(T) +n(T) =r(T) +0 =r(T)
+T
+T
+T
+T
+D = \begin{bmatrix} 2 & 1 & 7 & -7 \\ -3 & 4 & -5 & -6 \\ 1 & 1 & 4 & -5 \end{bmatrix}
+T \colon \mathbb C^4 \to \mathbb C^3, T(\mathbf x) =D\mathbf x =x_1 \begin{bmatrix} 2 \\ -3 \\ 1 \end{bmatrix} +x_2 \begin{bmatrix} 1 \\ 4 \\ 1 \end{bmatrix} +x_3 \begin{bmatrix} 7 \\ -5 \\ 4 \end{bmatrix} +x_4 \begin{bmatrix} -7 \\ -6 \\ -5 \end{bmatrix}
+T
+\mathcal L \mathscr S (D, \mathbf b)
+\mathbf b = \begin{bmatrix} 8 \\ -12 \\ -4 \end{bmatrix}
+T^{ -1} (\mathbf b)
+D
+\mathbf b
+\mathbf w = \begin{bmatrix} 7 \\ 8 \\ 1 \\ 3 \end{bmatrix}
+\mathbf b
+\mathbf w +\mathscr K (T) =\{ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>\mathbf w +\mathbf z |\mathbf z \in \mathscr K (T)\}
+T
+D
+\mathcal L \mathscr S (D, \mathbf 0)
+D
+\mathbf b
+\mathbf d = \begin{bmatrix} 2 \\ 3 \\ 2 \end{bmatrix}
+T
+\mathcal L \mathscr S (D, \mathbf d)
+\mathbf d
+T^{ -1} (\mathbf d)
+\mathbf d
+\mathbb C^4
+\mathbb C^3
+n(T) & \lt mi/> =\dim (\mathbb C^4) -r(T) & \~ & Theorem\space RPNDD \\ \~ & \lt mi/> =4 -\dim (\mscrR (T)) & \~ & Definition\space ROLT \\ \~ & \lt mi/> \ge 4 -3 & \~ & \mscrR (T)\~subspace\space of\~\mathbb C^3 \\ \~ & \lt mi/> =1
+T
+T
+T
+\mathcal L \mathscr S (C, \mathbf f)
+S(\mathbf x) =C\mathbf x
+S
+C
+T
+T
+T
+T
+T
+\mathbb C^m
+V
+S
+V
+\mathbf w
+\mathbf w \notin \langle S \rangle
+S' =S \cup \{\mathbf w \}
+V
+t
+S =\{\mathbf v_1, \mathbf v_2, \mathbf v_3, \ldots, \mathbf v_m \}
+V
+m >t
+S
+m \lt t
+S
+V
+m =t
+S
+S
+V
+m =t
+S
+V
+S
+S
+\mathbf w
+\mathbf v_k
+P_n
+M_{22}
+P_4
+U
+V
+W
+U \subsetneq V
+\dim (U) \lt \dim (V)
+U
+V
+W
+U \subseteq V
+\dim (U) =\dim (V)
+U =V
+A
+m \times n
+r(A) =r(A^t)
+A
+m \times n
+B
+r
+\dim (\mathscr N (A)) =n -r
+\dim (\mathscr C (A)) =r
+\dim (\mscrR (A)) =r
+\dim (\mathcal L (A)) =m -r
+\mdwhtsquare
+\mdwhtsquare
+2x_1 +3x_2 & \lt mi/> =5 \\ -x_1 +4x_2 & \lt mi/> =6 \\ 3x_1 +10x_2 & \lt mi/> =2 \\ 3x_1 -x_2 & \lt mi/> = -1 \\ 6x_1 +9x_2 & \lt mi/> =3
+\mdwhtsquare
+\mdwhtsquare
+\begin{bmatrix} 2 & 3 & 5 \\ -1 & 4 & 6 \\ 3 & 10 & 2 \\ 3 & -1 & -1 \\ 6 & 9 & 3 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 0 \\ 0 & \boxed{1} & 0 \\ 0 & 0 & \boxed{1} \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =3 & D & \lt mi/> =\{1, 2, 3\} & F & \lt mi/> =\{\}
+\mdwhtsquare
+F
+F
+\mdwhtsquare
+2x_1 +3x_2 & \lt mi/> =0 \\ -x_1 +4x_2 & \lt mi/> =0 \\ 3x_1 +10x_2 & \lt mi/> =0 \\ 3x_1 -x_2 & \lt mi/> =0 \\ 6x_1 +9x_2 & \lt mi/> =0
+\mdwhtsquare
+x_1 =0, x_2 =0
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 0 \\ 0 & \boxed{1} & 0 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =2 & D & \lt mi/> =\{1, 2\} & F & \lt mi/> =\{3\}
+\mdwhtsquare
+\begin{bmatrix} 2 & 3 \\ -1 & 4 \\ 3 & 10 \\ 3 & -1 \\ 6 & 9 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 \\ 0 & \boxed{1} \\ 0 & 0 \\ 0 & 0 \\ 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =2 & D & \lt mi/> =\{1, 2\} & F & \lt mi/> =\{\}
+\mdwhtsquare
+D
+F
+\mdwhtsquare
+D
+F
+\langle \{\} \rangle
+\mdwhtsquare
+D
+\langle \{ \begin{bmatrix} 2 \\ -1 \\ 3 \\ 3 \\ 6 \end{bmatrix}, \begin{bmatrix} 3 \\ 4 \\ 10 \\ -1 \\ 9 \end{bmatrix} \} \rangle
+\mdwhtsquare
+L
+L
+r =m
+L
+\mathbb C^m
+L & \lt mi/> = \begin{bmatrix} 1 & 0 & 0 & 0 & -\frac{1}{3} \\ 0 & 1 & 0 & 1 -\frac{1}{3} \\ 0 & 0 & 1 & 1 & -1 \end{bmatrix}
+\langle \{ \begin{bmatrix} \frac{1}{3} \\ \frac{1}{3} \\ 1 \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} 0 \\ -1 \\ -1 \\ 1 \\ 0 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 2 \\ 1 \\ 3 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 1 \\ -1 \\ 0 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+Rank\colon \~2 & \~ & Nullity\colon \~0 & \~ & Matrix\space columns\colon \~2 & \~
+\mdwhtsquare
+\mdwhtsquare
+\mdwhtsquare
+2x_1 +x_2 +7x_3 -7x_4 & \lt mi/> =2 \\ -3x_1 +4x_2 -5x_3 -6x_4 & \lt mi/> =3 \\ x_1 +x_2 +4x_3 -5x_4 & \lt mi/> =2
+\mdwhtsquare
+\mdwhtsquare
+\begin{bmatrix} 2 & 1 & 7 & -7 & 2 \\ -3 & 4 & -5 & -6 & 3 \\ 1 & 1 & 4 & -5 & 2 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 3 & -2 & 0 \\ 0 & \boxed{1} & 1 & -3 & 0 \\ 0 & 0 & 0 & 0 & \boxed{1} \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =3 & D & \lt mi/> =\{1, 2, 5\} & F & \lt mi/> =\{3, 4\}
+\mdwhtsquare
+F
+F
+\mdwhtsquare
+2x_1 +x_2 +7x_3 -7x_4 & \lt mi/> =0 \\ -3x_1 +4x_2 -5x_3 -6x_4 & \lt mi/> =0 \\ x_1 +x_2 +4x_3 -5x_4 & \lt mi/> =0
+\mdwhtsquare
+x_1 =0, x_2 =0, x_3 =0, x_4 =0
+x_1 =4, x_2 =13, x_3 =2, x_4 =5
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 3 & -2 & 0 \\ 0 & \boxed{1} & 1 & -3 & 0 \\ 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =2 & D & \lt mi/> =\{1, 2\} & F & \lt mi/> =\{3, 4, 5\}
+\mdwhtsquare
+\begin{bmatrix} 2 & 1 & 7 & -7 \\ -3 & 4 & -5 & -6 \\ 1 & 1 & 4 & -5 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 3 & -2 \\ 0 & \boxed{1} & 1 & -3 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =2 & D & \lt mi/> =\{1, 2\} & F & \lt mi/> =\{3, 4\}
+\mdwhtsquare
+D
+F
+\mdwhtsquare
+D
+F
+\langle \{ \begin{bmatrix} -3 \\ -1 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 2 \\ 3 \\ 0 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+D
+\langle \{ \begin{bmatrix} 2 \\ -3 \\ 1 \end{bmatrix}, \begin{bmatrix} 1 \\ 4 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+L
+L
+r =m
+L
+\mathbb C^m
+L & \lt mi/> = \begin{bmatrix} 1 & \frac{1}{7} & -\frac{11}{7} \end{bmatrix}
+\langle \{ \begin{bmatrix} \frac{11}{7} \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} -\frac{1}{7} \\ 1 \\ 0 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ \frac{7}{11} \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ \frac{1}{11} \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 3 \\ -2 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 1 \\ -3 \end{bmatrix} \} \rangle
+\mdwhtsquare
+Rank\colon \~2 & \~ & Nullity\colon \~2 & \~ & Matrix\space columns\colon \~4 & \~
+\mdwhtsquare
+A^\ast A
+AA^\ast
+A
+m \times n
+A^\ast A
+r .
+\lambda_1, \lambda_2, \lambda_3, \ldots, \lambda_p
+A^\ast A
+\rho_1, \rho_2, \rho_3, \ldots, \rho_q
+AA^\ast .
+p =q .
+\lambda_i =\rho_i,
+1 \le i \le p .
+\alpha_{A^\ast A} (\lambda_i) =\alpha_{AA^\ast} (\rho_i),
+1 \le i \le p .
+A^\ast A
+AA^\ast .
+\{\mathbf x_1, \mathbf x_2, \mathbf x_3, \ldots, \mathbf x_n \}
+\mathbb C^n
+A^\ast A
+\{\mathbf y_1, \mathbf y_2, \mathbf y_3, \ldots, \mathbf y_m \}
+\mathbb C^m
+AA^\ast
+\mathbf x_i,
+r +1 \le i \le n
+A^\ast A
+\delta_i,
+1 \le i \le r
+A^\ast A .
+A\mathbf x_i =\sqrt{\delta_i}\mathbf y_\mathbf i,
+1 \le i \le r
+A\mathbf x_i =\mathbf 0,
+r +1 \le i \le n .
+\mathbf y_i,
+r +1 \le i \le m,
+AA^\ast
+A^\ast A
+AA^\ast !
+A .
+A
+m \times n
+A^\ast A
+\delta_1, \delta_2, \delta_3, \ldots, \delta_n,
+A
+\sqrt{\delta_1}, \sqrt{\delta_2}, \sqrt{\delta_3}, \ldots, \sqrt{\delta_n}
+T \colon U \to V
+U
+V
+U
+V
+U =V,
+A
+m \times n
+r
+s_1, s_2, s_3, \ldots, s_r .
+A =USV^\ast
+U
+m,
+V
+n
+S
+m \times n
+[S]_{ij} =\{s_i & if\~1 \le i =j \le r \\ 0 & otherwise \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+S
+U
+V
+U
+V
+\vec{i}, \vec{j}, \vec{k}
+m \times n
+\mathbb C^n
+\mathbb C^m .
+\mathbf w \in \mathbb C^n,
+\mathbf y =A\mathbf w \in \mathbb C^m .
+A
+A\mathbf w =USV^\ast \mathbf w
+V^\ast
+V
+\mathbf x_i
+\mathbf e_i,
+\mathbb C^n,
+\mathbf w,
+S
+\mathbf w
+\mathbb C^n
+\mathbb C^m .
+m >n,
+m \lt n,
+U
+\mathbf y_i .
+\mathbf w
+U
+V
+\mathbf w,
+\mathbf y =A\mathbf w,
+\mathbf w ' =V^\ast \mathbf w
+\mathbf y ' =U^\ast \mathbf y .
+\mathbf y ' =U^\ast \mathbf y =U^\ast A\mathbf w =U^\ast USV^\ast \mathbf w =S\mathbf w '
+A
+m \times n
+A
+A =USV^\ast,
+r
+S
+s_1, s_2, s_3, \ldots, s_r,
+U
+V
+\mathbf y_1, \mathbf y_2, \mathbf y_3, \ldots, \mathbf y_m
+\mathbf x_1, \mathbf x_2, \mathbf x_3, \ldots, \mathbf x_n .
+A =\sum_{i =1}^r s_i \mathbf y_i \mathbf x_i^\ast
+\mathbf y_i \mathbf x_i^\ast
+m \times n
+A
+\det (A) =0
+A
+B
+A
+\det (B) = -\det (A)
+A
+B
+A
+\alpha
+\alpha
+\det (B) =\alpha \det (A)
+A
+\det (A) =0
+A
+B
+A
+\alpha
+\alpha
+\det (B) =\det (A)
+n \ge 1
+\det (I_n) =1
+\det (E_{i, j}) = -1
+\det (E_i (\alpha)) =\alpha
+\det (E_{i, j} (\alpha)) =1
+A
+n
+E
+n
+\det (EA) =\det (E)\det (A)
+A
+A
+\det (A) =0
+2 \times 2
+\det (A) \not= 0
+A
+n
+A
+A
+A
+\mathscr N (A) =\{\mathbf 0 \}
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf b
+A
+A
+A
+\mathbb C^n
+\mathscr C (A) =\mathbb C^n
+A
+\mathbb C^n
+A
+n
+r(A) =n
+A
+n(A) =0
+A
+\det (A) \not= 0
+A
+B
+\det (AB) =\det (A)\det (B)
+\det (A +B) =\det (A) +\det (B)
+\mdwhtsquare
+\mdwhtsquare
+T \colon \mathbb C^3 \to M_{22}, T( \begin{bmatrix} a \\ b \\ c \end{bmatrix}) = \begin{bmatrix} a -b & 2a +2b +c \\ 3a +b +c & -2a -6b -2c \end{bmatrix}
+\mdwhtsquare
+\{ \begin{bmatrix} -1 \\ -1 \\ 4 \end{bmatrix} \}
+\mdwhtsquare
+T( \begin{bmatrix} 2 \\ 1 \\ 3 \end{bmatrix}) & \lt mi/> = \begin{bmatrix} 1 & 9 \\ 10 & -16 \end{bmatrix} & T( \begin{bmatrix} 0 \\ -1 \\ 11 \end{bmatrix}) & \lt mi/> = \begin{bmatrix} 1 & 9 \\ 10 & -16 \end{bmatrix}
+T
+\begin{bmatrix} 0 \\ -1 \\ 11 \end{bmatrix} & \lt mi/> = \begin{bmatrix} 2 \\ 1 \\ 3 \end{bmatrix} + \begin{bmatrix} -2 \\ -2 \\ 8 \end{bmatrix} \\ and \\ \mathbf z & \lt mi/> = \begin{bmatrix} -2 \\ -2 \\ 8 \end{bmatrix} \in \mathscr K (T)
+\mathbf z
+T
+\mdwhtsquare
+\{ \begin{bmatrix} 1 & 2 \\ 3 & -2 \end{bmatrix}, \begin{bmatrix} -1 & 2 \\ 1 & -6 \end{bmatrix}, \begin{bmatrix} 0 & 1 \\ 1 & -2 \end{bmatrix} \}
+\mdwhtsquare
+\{ \begin{bmatrix} 1 & 0 \\ 1 & 2 \end{bmatrix}, \begin{bmatrix} 0 & 1 \\ 1 & -2 \end{bmatrix} \}
+\mdwhtsquare
+M_{22}
+\mathbb C^3
+\begin{bmatrix} 2 & -1 \\ 1 & 3 \end{bmatrix} \notin \mscrR (T)
+T
+T^{ -1} ( \begin{bmatrix} 2 & -1 \\ 1 & 3 \end{bmatrix})
+\mdwhtsquare
+Rank\colon \~2 & \~ & Nullity\colon \~1 & \~ & Domain\space dimension\colon \~3 & \~
+\mdwhtsquare
+\mdwhtsquare
+B & \lt mi/> =\{ \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix} \} & \~ & (Domain\space basis) \\ C & \lt mi/> =\{ \begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 \\ 1 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix} \} & \~ & (Codomain\space basis) \\ M_{B, C}^T & \lt mi/> = \begin{bmatrix} 1 & -1 & 0 \\ 2 & 2 & 1 \\ 3 & 1 & 1 \\ -2 & -6 & -2 \end{bmatrix}
+\mdwhtsquare
+\mdwhtsquare
+T \colon P_3 \to M_{22}, T(a +bx +cx^2 +dx^3) = \begin{bmatrix} a +b & a -2c \\ d & b -d \end{bmatrix}
+\mdwhtsquare
+\{\}
+\mdwhtsquare
+\mdwhtsquare
+\{ \begin{bmatrix} 1 & 1 \\ 0 & 0 \end{bmatrix}, \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}, \begin{bmatrix} 0 & -2 \\ 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 \\ 1 & -1 \end{bmatrix} \}
+\mdwhtsquare
+\{ \begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 \\ 1 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix} \}
+\mdwhtsquare
+M_{22}
+\mscrR (T) =M_{22}
+T
+M_{22}
+\mdwhtsquare
+Rank\colon \~4 & \~ & Nullity\colon \~0 & \~ & Domain\space dimension\colon \~4 & \~
+\mdwhtsquare
+\mdwhtsquare
+B & \lt mi/> =\{1, x, x^2, x^3 \} & \~ & (Domain\space basis) \\ C & \lt mi/> =\{ \begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 \\ 1 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix} \} & \~ & (Codomain\space basis) \\ M_{B, C}^T & \lt mi/> = \begin{bmatrix} 1 & 1 & 0 & 0 \\ 1 & 0 & -2 & 0 \\ 0 & 0 & 0 & 1 \\ 0 & 1 & 0 & -1 \end{bmatrix}
+\mdwhtsquare
+T^{ -1} (T(\mathbf x)) =\mathbf x
+T(T^{ -1} (\mathbf x)) =\mathbf x
+T^{ -1} \colon M_{22} \to P_3, T^{ -1} ( \begin{bmatrix} a & b \\ c & d \end{bmatrix}) =(a -c -d) +(c +d)x +\frac{1}{2}(a -b -c -d)x^2 +cx^3
+A
+B
+AB =I_n
+B
+A
+B
+BA =I_n
+\alpha, \beta \in \mathbb C
+\alpha \beta \not= 0
+\alpha \not= 0
+\beta \not= 0
+0x =5
+0x =0
+A
+B
+n
+AB
+A
+B
+AB
+A
+B
+A
+B
+AB
+A
+B
+n
+AB =I_n
+BA =I_n
+A
+B
+A
+A
+A^{ -1} =B
+A
+A
+A
+n
+M
+A
+A
+A
+A
+A
+A
+n
+A
+A
+A
+\mathscr N (A) =\{\mathbf 0 \}
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf b
+A
+A
+A
+A
+\mathcal L \mathscr S (A, \mathbf b)
+A^{ -1} \mathbf b
+A^\ast =(\overline{A})^t
+U
+n
+U^\ast U =I_n
+U
+A
+A^t A =I_n
+U
+n
+U
+U^{ -1} =U^\ast
+S =\{\mathbf A_1, \mathbf A_2, \mathbf A_3, \ldots, \mathbf A_n \}
+A
+n
+A
+S
+U
+n
+\mathbf u
+\mathbf v
+\mathbb C^n
+\langle U\mathbf u, U\mathbf v \rangle & \lt mi/> = \langle \mathbf u, \mathbf v \rangle & \~ & and & \Vert U\mathbf v \Vert & \lt mi/> = \Vert \mathbf v \Vert
+L
+U
+A
+n .
+A_k
+k \times k
+A
+k
+k
+A_k
+1 \le k \le n .
+L
+U
+A =LU .
+B =JA,
+A
+B
+A .
+J
+J
+A,
+A
+2n \times n
+M .
+M
+n
+n
+M
+M
+A .
+n
+M
+U .
+n
+M
+L' .
+U =L'A .
+L',
+A
+A
+\mathbf b,
+A
+A =LU .
+\mathbf y
+\mathcal L \mathscr S (L, \mathbf b),
+L\mathbf y =\mathbf b .
+L
+L
+\mathbf y
+\mathbf y,
+\mathbf y
+\mathcal L \mathscr S (U, \mathbf y) .
+\mathbf x
+U\mathbf x =\mathbf y .
+U
+\mathbf x
+\mathbf x
+\mathcal L \mathscr S (A, \mathbf b),
+A\mathbf x =LU\mathbf x =L(U\mathbf x) =L\mathbf y =\mathbf b
+\mathbf x
+\mathcal L \mathscr S (A, \mathbf b) .
+A
+n
+A =LU,
+L
+U
+[U]_{ij} & \lt mi/> =[A]_{ij} -\sum_{k =1}^{i -1} [L]_{ik} [U]_{kj} & \~ & 1 \le i \le j \le n \\ [L]_{ij} & \lt mi/> =\frac{1}{[U]_{jj}}([A]_{ij} -\sum_{k =1}^{j -1} [L]_{ik} [U]_{kj}) & \~ & 1 \le j \lt i \le n
+U
+U
+L .
+L
+L
+U .
+L,
+U .
+L,
+U .
+L
+U .
+A
+L
+L
+U,
+n \times n
+A_k
+A
+S
+x
+S
+x \in S
+x
+S
+x \notin S
+S
+T
+S
+T
+S \subseteq T
+x \in S
+x \in T
+S
+T
+S \subset T
+S
+T
+\varnothing
+A \subseteq B
+B \subseteq A
+A
+B
+A
+B
+=
+A =B
+A
+B
+S
+T
+S \subseteq T
+T \subseteq S
+S =T
+\{\}
+|
+\mathbb Z
+E & \lt mi/> =\{ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>x \in \mathbb Z |x\~is\space an\space even\space number\} \\ \~ & \lt mi/> =\{ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>x \in \mathbb Z |2\~divides\~x\~evenly\} \\ \~ & \lt mi/> =\{ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>2k|k \in \mathbb Z \}
+10 \in E
+17 \notin E
+\begin{bmatrix} 1 & -3 & 5 \\ 2 & 0 & 3 \end{bmatrix} \in E ?
+S
+S
+S
+| S|
+S
+T
+S
+T
+S \cup T
+S
+T
+x \in S \cup T\~if\space and\space only\space if\~x \in S\~or\~x \in T
+x
+S
+T
+S \cup T
+S
+T
+S
+T
+S \cap T
+S
+T
+x \in S \cap T\~if\space and\space only\space if\~x \in S\~and\~x \in T
+S
+U
+S
+\overline{S}
+U
+S
+x \in \overline{S}\~if\space and\space only\space if\~x \in U\~and\~x \notin S
+U
+\overline{(S \cup T)} & \lt mi/> =\overline{S} \cap \overline{T} \\ \overline{(S \cap T)} & \lt mi/> =\overline{S} \cup \overline{T}
+\mdwhtsquare
+\mdwhtsquare
+x_1 -x_2 +2x_3 & \lt mi/> =1 \\ 2x_1 +x_2 +x_3 & \lt mi/> =8 \\ x_1 +x_2 & \lt mi/> =5
+\mdwhtsquare
+x_1 =2, x_2 =3, x_3 =1
+x_1 =3, x_2 =2, x_3 =0
+\mdwhtsquare
+\begin{bmatrix} 1 & -1 & 2 & 1 \\ 2 & 1 & 1 & 8 \\ 1 & 1 & 0 & 5 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 1 & 3 \\ 0 & \boxed{1} & -1 & 2 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =2 & D & \lt mi/> =\{1, 2\} & F & \lt mi/> =\{3, 4\}
+\mdwhtsquare
+F
+F
+\begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix} = \begin{bmatrix} 3 \\ 2 \\ 0 \end{bmatrix} +x_3 \begin{bmatrix} -1 \\ 1 \\ 1 \end{bmatrix}
+\mdwhtsquare
+x_1 -x_2 +2x_3 & \lt mi/> =0 \\ 2x_1 +x_2 +x_3 & \lt mi/> =0 \\ x_1 +x_2 & \lt mi/> =0
+\mdwhtsquare
+x_1 =0, x_2 =0, x_3 =0
+x_1 = -1, x_2 =1, x_3 =1
+x_1 = -5, x_2 =5, x_3 =5
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 1 & 0 \\ 0 & \boxed{1} & -1 & 0 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =2 & D & \lt mi/> =\{1, 2\} & F & \lt mi/> =\{3, 4\}
+\mdwhtsquare
+\begin{bmatrix} 1 & -1 & 2 \\ 2 & 1 & 1 \\ 1 & 1 & 0 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 1 \\ 0 & \boxed{1} & -1 \\ 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =2 & D & \lt mi/> =\{1, 2\} & F & \lt mi/> =\{3\}
+\mdwhtsquare
+D
+F
+\mdwhtsquare
+D
+F
+\langle \{ \begin{bmatrix} -1 \\ 1 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+D
+\langle \{ \begin{bmatrix} 1 \\ 2 \\ 1 \end{bmatrix}, \begin{bmatrix} -1 \\ 1 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+L
+L
+r =m
+L
+\mathbb C^m
+L & \lt mi/> = \begin{bmatrix} 1 & -2 & 3 \end{bmatrix}
+\langle \{ \begin{bmatrix} -3 \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} 2 \\ 1 \\ 0 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ -\frac{1}{3} \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ \frac{2}{3} \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ -1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\mdwhtsquare
+Rank\colon \~2 & \~ & Nullity\colon \~1 & \~ & Matrix\space columns\colon \~3 & \~
+\mdwhtsquare
+Determinant\colon \~0
+\mdwhtsquare
+\lambda & \lt mi/> =0 & \mscrE_A (0) & \lt mi/> = \langle \{ \begin{bmatrix} -1 \\ 1 \\ 1 \end{bmatrix} \} \rangle \\ \lambda & \lt mi/> =2 & \mscrE_A (2) & \lt mi/> = \langle \{ \begin{bmatrix} 1 \\ 5 \\ 3 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\gamma_A (0) & \lt mi/> =1 & \alpha_A (0) & \lt mi/> =2 \\ \gamma_A (2) & \lt mi/> =1 & \alpha_A (2) & \lt mi/> =1
+\mdwhtsquare
+\gamma_A (0) \not= \alpha_B (0)
+\mdwhtsquare
+\mdwhtsquare
+2x_1 +x_2 +7x_3 -7x_4 & \lt mi/> =8 \\ -3x_1 +4x_2 -5x_3 -6x_4 & \lt mi/> = -12 \\ x_1 +x_2 +4x_3 -5x_4 & \lt mi/> =4
+\mdwhtsquare
+x_1 =0, x_2 =1, x_3 =2, x_4 =1
+x_1 =4, x_2 =0, x_3 =0, x_4 =0
+x_1 =7, x_2 =8, x_3 =1, x_4 =3
+\mdwhtsquare
+\begin{bmatrix} 2 & 1 & 7 & -7 & 8 \\ -3 & 4 & -5 & -6 & -12 \\ 1 & 1 & 4 & -5 & 4 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 3 & -2 & 4 \\ 0 & \boxed{1} & 1 & -3 & 0 \\ 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =2 & D & \lt mi/> =\{1, 2\} & F & \lt mi/> =\{3, 4, 5\}
+\mdwhtsquare
+F
+F
+\begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \end{bmatrix} = \begin{bmatrix} 4 \\ 0 \\ 0 \\ 0 \end{bmatrix} +x_3 \begin{bmatrix} -3 \\ -1 \\ 1 \\ 0 \end{bmatrix} +x_4 \begin{bmatrix} 2 \\ 3 \\ 0 \\ 1 \end{bmatrix}
+\mdwhtsquare
+2x_1 +x_2 +7x_3 -7x_4 & \lt mi/> =0 \\ -3x_1 +4x_2 -5x_3 -6x_4 & \lt mi/> =0 \\ x_1 +x_2 +4x_3 -5x_4 & \lt mi/> =0
+\mdwhtsquare
+x_1 =0, x_2 =0, x_3 =0, x_4 =0
+x_1 = -3, x_2 = -1, x_3 =1, x_4 =0
+x_1 =2, x_2 =3, x_3 =0, x_4 =1
+x_1 = -1, x_2 =2, x_3 =1, x_4 =1
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 3 & -2 & 0 \\ 0 & \boxed{1} & 1 & -3 & 0 \\ 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =2 & D & \lt mi/> =\{1, 2\} & F & \lt mi/> =\{3, 4, 5\}
+\mdwhtsquare
+\begin{bmatrix} 2 & 1 & 7 & -7 \\ -3 & 4 & -5 & -6 \\ 1 & 1 & 4 & -5 \end{bmatrix}
+\mdwhtsquare
+\begin{bmatrix} \boxed{1} & 0 & 3 & -2 \\ 0 & \boxed{1} & 1 & -3 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+\mdwhtsquare
+r & \lt mi/> =2 & D & \lt mi/> =\{1, 2\} & F & \lt mi/> =\{3, 4\}
+\mdwhtsquare
+D
+F
+\mdwhtsquare
+D
+F
+\langle \{ \begin{bmatrix} -3 \\ -1 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 2 \\ 3 \\ 0 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+D
+\langle \{ \begin{bmatrix} 2 \\ -3 \\ 1 \end{bmatrix}, \begin{bmatrix} 1 \\ 4 \\ 1 \end{bmatrix} \} \rangle
+\mdwhtsquare
+L
+L
+r =m
+L
+\mathbb C^m
+L & \lt mi/> = \begin{bmatrix} 1 & \frac{1}{7} & -\frac{11}{7} \end{bmatrix}
+\langle \{ \begin{bmatrix} \frac{11}{7} \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} -\frac{1}{7} \\ 1 \\ 0 \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ \frac{7}{11} \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ \frac{1}{11} \end{bmatrix} \} \rangle
+\mdwhtsquare
+\langle \{ \begin{bmatrix} 1 \\ 0 \\ 3 \\ -2 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 1 \\ -3 \end{bmatrix} \} \rangle
+\mdwhtsquare
+Rank\colon \~2 & \~ & Nullity\colon \~2 & \~ & Matrix\space columns\colon \~4 & \~
+\mdwhtsquare
+\mathbb C^4
+\mathbb C^5
+\mathbb C^6
+\mathbb C^5
+\mathbb C^5
+r
+n
+\mathbb C^4
+\mathbb C^5
+\mathbb C^4
+M_{23}
+M_{32}
+3 \times 4
+5 \times 5
+\mathbb C^m
+M_{mn}
+P_n
+\mathbb C^3
+P_4
+\mathbb C^2
+\mathbb C^2
+\mathbb C^2
+M_{32}
+P_4
+M_{32}
+P_4
+M_{22}
+P_n
+P_4
+M_{22}
+\mathbb C^4
+\mathbb C^3
+P_4
+M_{22}
+P_4
+P_n
+M_{22}
+P_4
+3 \times 3
+\mathbb C^4
+P_2
+P_2
+M_{32}
+A
+n
+A
+\mathbf x \in \mathbb C^n,
+\langle \mathbf x, A\mathbf x \rangle \ge 0 .
+\mathbf x
+A
+m \times n
+A^\ast A
+AA^\ast
+B,
+B^\ast .
+A^\ast A
+AA^\ast
+A
+A
+\lambda
+A
+\lambda \ge 0 .
+V
+n
+\mathbb C^n
+V
+V
+B =\{\mathbf v_1, \mathbf v_2, \mathbf v_3, \ldots, \mathbf v_n \}
+\rho_B \colon V \to \mathbb C^n
+\mathbf w \in V
+\rho_B (\mathbf w) \in \mathbb C^n
+\mathbf w & \lt mi/> =[\rho_B (\mathbf w)]_1 \mathbf v_1 +[\rho_B (\mathbf w)]_2 \mathbf v_2 +[\rho_B (\mathbf w)]_3 \mathbf v_3 +\cdots +[\rho_B (\mathbf w)]_n \mathbf v_n
+\mathbf w \in V
+\mathbf w
+B
+\mathbf w
+\rho_B (\mathbf w)
+\rho_B
+\rho_B
+\rho_B
+B
+\rho_B
+B
+\mathbb C^4
+\mathbb C^m
+P_2
+\rho_B
+\rho_B
+\rho_B
+\rho_B
+\rho_B^{ -1}
+V
+n
+V
+\mathbb C^n
+\mathbb C^n
+U
+V
+U
+V
+\dim (U) =\dim (V)
+\rho_B
+U
+m
+\mathbb C^m
+\rho_B
+U
+\rho_B^{ -1}
+\mathbb C^m
+U
+\mathbb C^m
+U
+B
+n
+S =\{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_k \}
+U
+R =\{\rho_B (\mathbf u_1), \rho_B (\mathbf u_2), \rho_B (\mathbf u_3), \ldots, \rho_B (\mathbf u_k)\}
+\mathbb C^n
+U
+B
+n
+\mathbf u \in \langle \{\mathbf u_1, \mathbf u_2, \mathbf u_3, \ldots, \mathbf u_k \} \rangle
+\rho_B (\mathbf u) \in \langle \{\rho_B (\mathbf u_1), \rho_B (\mathbf u_2), \rho_B (\mathbf u_3), \ldots, \rho_B (\mathbf u_k)\} \rangle
+P_2
+\mathbb C^m
+\rho_B
+\mathbb C^m
+U
+B
+n
+U
+U
+\mathbb C^n
+\rho_B
+\mathbb C^n
+U
+\rho_B^{ -1}
+M_{32}
+i \not= j
+E_{i, j}
+n
+[E_{i, j}]_{k\ell} =\{0 & k \not= i, k \not= j, \ell \not= k \\ 1 & k \not= i, k \not= j, \ell =k \\ 0 & k =i, \ell \not= j \\ 1 & k =i, \ell =j \\ 0 & k =j, \ell \not= i \\ 1 & k =j, \ell =i \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+\alpha \not= 0
+E_i (\alpha)
+n
+[E_i (\alpha)]_{k\ell} =\{0 & \ell \not= k \\ 1 & k \not= i, \ell =k \\ \alpha & k =i, \ell =i \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+i \not= j
+E_{i, j} (\alpha)
+n
+[E_{i, j} (\alpha)]_{k\ell} =\{0 & k \not= j, \ell \not= k \\ 1 & k \not= j, \ell =k \\ 0 & k =j, \ell \not= i, \ell \not= j \\ 1 & k =j, \ell =j \\ \alpha & k =j, \ell =i \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+n \times n
+E_{i, j}
+i
+j
+E_i (\alpha)
+i
+i
+\alpha
+E_{i, j} (\alpha)
+j
+i
+\alpha
+E_{i, j} (\alpha)
+A
+m \times n
+B
+A
+m
+A
+B
+i
+j
+B =E_{i, j} A
+i
+\alpha
+B =E_i (\alpha)A
+i
+\alpha
+j
+B =E_{i, j} (\alpha)A
+E
+E
+\alpha
+E_i (\alpha)
+A
+E_1, E_2, E_3, \ldots, E_t
+A =E_1 E_2 E_3 \ldots E_t
+A
+m \times n
+A(i|j)
+(m -1) \times (n -1)
+A
+i
+j
+A
+\det (A) =| A|
+\mathbb C^\~
+A
+1 \times 1
+\det (A) =[A]_{11}
+A
+n
+n \ge 2
+\det (A) & \lt mi/> =[A]_{11} \det (A(1|1)) -[A]_{12} \det (A(1|2)) +[A]_{13} \det (A(1|3)) - \\ \~ & [A]_{14} \det (A(1|4)) +\cdots +( -1)^{n +1} [A]_{1n} \det (A(1|n))
+5 \times 5
+4
+4 \times 4
+3
+10 \times 10
+10! =10 \times 9 \times 8 \times 7 \times 6 \times 5 \times 4 \times 3 \times 2 =3,628,800
+1 \times 1
+3 \times 3
+2 \times 2
+1 \times 1
+A = \begin{bmatrix} a & b \\ c & d \end{bmatrix}
+\det (A) =ad -bc
+ad -bc
+A
+n
+1 \le i \le n
+\det (A) & \lt mi/> =( -1)^{i +1} [A]_{i1} \det (A(i|1)) +( -1)^{i +2} [A]_{i2} \det (A(i|2)) \\ \~ & \lt mi/> +( -1)^{i +3} [A]_{i3} \det (A(i|3)) +\cdots +( -1)^{i +n} [A]_{in} \det (A(i|n))
+i
+A
+\det (A^t) =\det (A)
+A
+n
+1 \le j \le n
+\det (A) & \lt mi/> =( -1)^{1 +j} [A]_{1j} \det (A(1|j)) +( -1)^{2 +j} [A]_{2j} \det (A(2|j)) \\ \~ & \lt mi/> +( -1)^{3 +j} [A]_{3j} \det (A(3|j)) +\cdots +( -1)^{n +j} [A]_{nj} \det (A(n|j))
+j
+n \times n
+2n
+4 \times 4
+\det (A(i|j))
+[A]_{ij}
+[A]_{ij}
+( -1)^{i +j} \det (A(i|j))
+V
+\{\mathbf v_1, \mathbf v_2, \mathbf v_3, \ldots, \mathbf v_t \}
+V
+V
+\dim (V) =t
+V
+V
+S =\{\mathbf v_1, \mathbf v_2, \mathbf v_3, \ldots, \mathbf v_t \}
+V
+t +1
+V
+\mathbb C^m
+m
+m
+\mathbb C^m
+m
+\mathbb C^m
+P_4
+V
+B
+C
+B
+C
+\mathbb C^m
+\mathbb C^m
+m
+P_n
+P_n
+n +1
+M_{mn}
+M_{mn}
+mn
+M_{22}
+P_4
+A
+m \times n
+A
+A
+n(A) =\dim (\mathscr N (A))
+A
+m \times n
+A
+A
+r(A) =\dim (\mathscr C (A))
+A
+m \times n
+B
+r
+r(A) =r
+n(A) =n -r
+A
+m \times n
+r(A) +n(A) =n
+r
+r
+A
+n
+A
+n
+r(A) =n
+A
+n(A) =0
+A
+n
+A
+A
+A
+\mathscr N (A) =\{\mathbf 0 \}
+\mathcal L \mathscr S (A, \mathbf b)
+\mathbf b
+A
+A
+A
+\mathbb C^n
+\mathscr C (A) =\mathbb C^n
+A
+\mathbb C^n
+A
+n
+r(A) =n
+A
+n(A) =0

@@ -1,0 +1,10923 @@
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+x^2-2y^2 = 1
+x^2-2y^2 = 1,
+(x_0, y_0)
+(+-1, 0)
+y' = (x_0)/(2y_0) .
+(1, 0)
+y = (x_0)/(2y_0) (x-1),
+x^2-2y^2-1 = x^2-2( (x_0)/(2y_0) (x-1))^2-1 =
+(1- (x_0^2)/(2y_0^2) )x^2+( (x_0^2)/(y_0^2) )x+(-1-( (x_0^2)/(2y_0^2) )) = 0.
+x-1
+(2y_0^2-x_0^2)x^2+2x_0^2 x+(-2y_0^2-x_0^2) = 0
+x = (-2x_0^2-4y_0^2)/(-2x_0^2+4y_0^2) = (x_0^2+2y_0^2)/(x_0^2-2y_0^2) = x_0^2+2y_0^2
+y = (x_0)/(2y_0) (x-1) = (x_0)/(2y_0) (x_0^2+2y_0^2-(x_0^2-2y_0^2)) = 2x_0 y_0.
+(x_0, y_0)
+(x_0^2+2y_0^2, 2x_0 y_0).
+sqrt(2),
+(x_0, y_0)
+x^2-2y^2 = 1,
+(x_1, y_1)
+(x_0+sqrt(2)y_0)^2 = x_1+sqrt(2)y_1.
+(x_1, y_1)
+(x_0, y_0),
+ZZ[sqrt(2)] cdots.
+[5]+[5] -= 3"\ (mod\ "7)"\is the same type of operation as\ "(3, 2)+(3, 2) = (17, 12).
+(1, 0):
+(x_1, y_1)
+(x_2, y_2)
+x^2-2y^2 = 1,
+(x_1 x_2+2y_1 y_2, x_1 y_2+y_1 x_2).
+(3, 2)
+(3, -2),
+(3*3+2*2*(-2), 3*(-2)+3*2) = (1, 0).
+(1, 0)
+(3, -2)
+(3, 2).
+n.
+2
+n
+n = 3,
+x^2-3y^2 = 1
+2^2-3*1^2 = 1.
+x' = x^2+3y^2 "\and\ "y' = 2xy
+n
+(x_1, y_1)
+(x_2, y_2),
+n > 0
+x' = x_1 x_2+ny_1 y_2 "\and\ "y' = x_1 y_2+x_2 y_1.
+"If\ "x_0^2-ny_0^2 = k"\and\ "x_1^2-ny_1^2 = cc l
+"then\ "x = x_0 x_1+ny_0 y_1, y = x_0 y_1+y_0 x_1 "\solves\ "x^2-ny^2 = kcc l.
+k = cc l = -1,
+x^2-61y^2 = 1.
+x^2-109y^2 = 1.
+x = 158070671986249, y = 15140424455100,
+61
+109
+x = 1151, y = 120
+x^2-92y^2 = 1
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+Gamma
+gamma
+zeta(3)
+1093
+QQ.
+L
+P
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p
+p
+1
+p
+n > 1
+2, 3, 5, 7, 11, ...
+4, 6, 8, 9, 10, 12...
+n
+f(x)
+f(x)
+x.
+f(a) = p
+a,
+b -= a
+p
+f(b) -= f(a)
+p
+f
+f(b) -= f(a) -= p -= 0"\ (mod\ "p)", which implies\ "p'\\x002223'f(b).
+f(b)
+f(b) = p
+f(a) = f(a+np) = p"\for all\ "n in ZZ,
+lim_(x->oo)f(x) = oo "\or\ "-oo.
+f
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+a -= b
+n
+n.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+varphi(n)
+sigma
+sigma_0
+sigma_k(p)
+sigma_k(p^2).
+5'\\x002223'sigma_2(2k).
+sigma(n) = 3n.
+g(n)
+g(2n) = 0,
+g(n) = a_1 = 1
+n -= 1"\ (mod\ "8),
+g(n) = a_2
+n -= 3"\ (mod\ "8),
+g(n) = a_3
+n -= 5"\ (mod\ "8),
+g(n) = a_4
+n -= 7"\ (mod\ "8)?
+tau_o(n)
+sigma_o(n)
+tau
+sigma
+n
+tau_e
+sigma_e
+n.
+n = 1
+12,
+sigma
+sigma(n) > 5n
+sigma(n) > 6n.
+tau(n)
+sigma(n)
+n
+tau(n)
+sigma(n)
+n
+tau(n) = 4?
+n -= 7
+8
+8'\\x002223'sigma(n).
+sigma_(-1)
+sigma_(-1) = 2.
+p_n,
+p_(n-1),
+q_n
+3
+5
+(sum_(d'\\x002223'n) tau(d))^2 = sum_(d'\\x002223'n) tau(d)^3.
+n = 6
+n = 8.
+n = p^e,
+tau(p^f) = f+1,
+n
+p.
+mn,
+d'\\x002223'mn
+m
+n.
+p.
+6
+28.
+3
+3
+2^(n-1).
+2^n-1
+2^(n-1)
+p
+2^n-1.
+sigma(n)-2n?
+n = 3
+n = 5,
+2^n-1.
+p
+n.
+f(n) = sigma(n)-n.
+n
+f;
+f(n) = 17.
+f(n) = 57?
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+x^2-1 -= 0
+n
+n.
+n = 2,
+x^2-1
+p,
+p'\\x002223'x^2-1 = (x-1)(x+1)"\implies\ "x -= +-1"\ (mod\ "p).
+p^e'\\x002223'(x-1)(x+1)
+p
+x-1
+x+1.
+p^e.
+p
+p'\\x002223'x-1
+p'\\x002223'x+1
+p
+p^e
+x^2-1.
+p^e'\\x002223'(x+1)
+p^e'\\x002223'(x-1)
+x -= [+-1]
+p = 2
+2'\\x002223'x-1
+2'\\x002223'x+1
++-1
+2^2
+2^1.
++1 -= -1,
+2^3
+2'\\x002223'(x+1)
+2^2'\\x002223'(x-1),
+2^2+-1 = 3, 5
+2
+e = 5
+2'\\x002223'(x+1)
+2^4'\\x002223'(x-1).
+2^2'\\x002223'(x+1)
+2^3'\\x002223'(x-1)
+2'\\x002223'(x+1)
+2^(e-1)'\\x002223'(x-1),
+k
+n.
+x^2-1 -= 0
+n
+2^k
+n
+1*2^k = 2^k
+n
+2*2^k = 2^(k+1)
+n
+4*2^k = 2^(k+2)
+n
+x^2-1 -= 0
+n
+k,
+n,
+n
+8.
+2^k
+n -= 1"\ (mod\ "2),
+n -= 1, 3, 5, 7"\ (mod\ "8).
+2^k
+n -= 2
+4
+n -= 2, 6"\ (mod\ "8).
+2*2^k = 2^(k+1)
+n -= 4
+8
+4*2^k = 2^(k+2)
+n -= 0"\ (mod\ "8).
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+varphi
+sum_(d'\\x002223'n) (mu(d))/d = prod_(p'\\x002223'n)(1-1/p)
+sum_(n=1)^ oo(mu(n))/(n^s) .
+f(n),
+F(s) = sum_(n=1)^ oo(f(n))/(n^s) .
+N
+I?
+f(n),
+sum_(n=1)^ oo(f(n))/(n^s) = prod_p("\a formula involving\ "f(p)"\and\ "p^s).
+zeta(s) = sum_(n=1)^ oo 1/(n^s) = prod_p(1/(1-p^(-s)) ).
+sum_(n=1)^ oo(mu(n))/(n^s) = prod_p(1-1/(p^s) ) = prod_p(1-p^(-s))
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+x, y, z
+x^2+y^2 = z^2
+x, y, z
+x^2+y^2 = z^2,
+z
+(z, 0, z)
+(0, z, z)
+0^2+z^2 = z^2,
+z
+x, y, z
+x, y, z
+x = x'a
+y = y'a,
+x^2+y^2 = (x')^2 a^2+(y')^2 a^2 = z^2
+a^2'\\x002223'z^2,
+a'\\x002223'z
+x
+y
+x = 2k+1
+y = 2cc l+1
+k, cc l,
+(2k+1)^2+(2cc l+1)^2 = 4(k^2+cc l^2+k+cc l)+2
+x
+y
+z
+gcd(x, y, z) = 1,
+x, z
+y
+y^2 = z^2-x^2.
+z^2-x^2 = (z-x)(z+x).
+z-x
+z+x
+z-x = 2m
+z+x = 2n
+m, n.
+y^2
+2m*2n = 4mn
+y
+y = 2j
+j in ZZ
+y^2 = 4j^2,
+mn = j^2
+m = (z-x)/2
+n = (z+x)/2.
+x = n-m
+z = m+n
+gcd(x, z) = 1,
+gcd( (z-x)/2, (z+x)/2) = gcd(m, n) = 1.
+j^2 = mn,
+m
+n
+m = p^2
+n = q^2
+p
+q.
+j^2 = p^2 q^2,
+y = 2pq.
+m, n
+z-x = 2p^2
+z+x = 2q^2.
+p, q
+x, y, z,
+x
+p, q
+z = p^2+q^2, x = q^2-p^2, "\and\ "y = 2pq.
+p
+q
+p
+q
+a, b
+2, 1
+x
+y
+x = q^2-p^2
+y = 2pq,
+q > p.
+pq(q^2-p^2) = pq(q+p)(q-p).
+pq(q^2-p^2).
+pq(q+p)(q-p)
+p
+q
+p
+p+q
+(p+q)-p = q,
+gcd(p, q) = 1.
+p
+q-p
+q
+q+p
+q-p
+2q
+2p.
+2,
+p
+q,
+1.
+30
+30 = 2*3*5*1.
+q+p
+q+p = 5.
+q = 3, p = 2
+pq(q^2-p^2) = pq(q+p)(q-p),
+x, y, z,
+z,
+q+p
+q-p
+u^2
+v^2.
+u
+v
+(u+v)/2+ (u-v)/2
+(u+v)/2- (u-v)/2
+u
+v
+a = (u+v)/2
+b = (u-v)/2,
+q+p = (a+b)^2
+q-p = (a-b)^2.
+q = a^2+b^2
+p = 2ab.
+a^2+b^2 = q = c^2
+(ab)/2 = (2ab)/4 = p/4,
+c
+z.
+z = q^2+p^2 = (c^2)^2+p^2 = c^4+p^2,
+p = 0,
+c
+z.
+p = 0
+v^4-u^4 = t^2
+u, v
+q-p, q+p, q, p
+p = u^2
+q = v^2,
+q-p, q+p
+p, q
+q-p, q+p
+2
+p, q,
+q+p = v^2+u^2 = 2f^2
+q-p = v^2-u^2 = 2g^2
+f, g
+v^2 = f^2+g^2
+u^2 = f^2-g^2,
+f^2, g^2, f^2+g^2, f^2-g^2
+x, y, z
+x^4+y^4 = z^4.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+r_2(n)
+n
+r_k(n)
+n >= 1.
+r_4(n) >= 1"\for all\ "n >= 0
+n.
+r_k(n),
+k
+23
+239
+n
+33
+8866128975287528^3+(-8778405442862239)^3+(-2736111468807040)^3 = 33.
+100
+x^2+y^2 = z^2
+x, y, z
+n
+x^n+y^n = z^n
+0^4+(-1)^4 = 1^4
+n = 4.
+n = 3,
+n
+n > 2,
+x, y, z
+x^n+y^n = z^n
+m,
+g(m)
+g(m)
+m
+g(m) = 2^m+|__(3/2)^m__|-2
+m
+G(m)
+m
+m
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p'\\x002223'n
+n = prod_(p"\prime\ ")p^e
+sigma(n) = prod_(p'\\x002223'n)( (p^(e+1)-1)/(p-1) ) = prod_(p'\\x002223'n)(1+p+p^2+cdots+p^e)
+varphi(n) = n prod_(p'\\x002223'n)(1-1/p)
+(sigma(n))/n = (prod_(p'\\x002223'n)( (p^(e+1)-1)/(p-1) ))/(prod_(p'\\x002223'n)p^e) = prod_(p'\\x002223'n) (p-(1//p^e))/(p-1)
+(sigma(n))/n = (prod_(p'\\x002223'n)(1+p+p^2+cdots+p^e))/(prod_(p'\\x002223'n)p^e) = prod_(p'\\x002223'n)(1+p^(-1)+p^(-2)+cdots+p^(-e))
+(varphi(n))/n = prod_(p'\\x002223'n)(1-1/p).
+sigma
+sigma(n) = sum_(d'\\x002223'n)d
+sigma(n) = sum_(d'\\x002223'n) n/d = n sum_(d'\\x002223'n) 1/d.
+(sigma(n))/n = sum_(d'\\x002223'n) 1/d
+sum_(d'\\x002223'n) (u(d))/d.
+varphi
+varphi***u = N => varphi = N***mu.
+sum_(d'\\x002223'n) varphi(d) = n,
+sum_(d'\\x002223'n)d mu(n/d) = varphi(n)
+***
+varphi(n) = mu***N = sum_(d'\\x002223'n) mu(d)(n/d) = n sum_(d'\\x002223'n) (mu(d))/d,
+(varphi(n))/n = sum_(d'\\x002223'n) (mu(d))/d.
+n = prod_(p"\prime\ ")p^e,
+(varphi(n))/n = sum_(d'\\x002223'n) (mu(d))/d = prod_(p'\\x002223'n)(1-1/p)
+(sigma(n))/n = prod_(p'\\x002223'n)(1+1/p+1/(p^2) +cdots+1/(p^e) ) = sum_(d'\\x002223'n) 1/d.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+(n),
+a^(varphi(n)) -= 1"\ (mod\ "n),
+a^(-1)
+a^(varphi(n)-1) -= a^(-1)"\ (mod\ "n).
+53y -= 29"\ (mod\ "100)
+53y -= 29"\ (mod\ "100)
+53^(varphi(100)-1)*53y -= 53^(varphi(100)-1)*29"\ (mod\ "100)
+1*y -= 29*53^(varphi(100)-1)"\ (mod\ "100).
+(n).
+varphi.
+x -= a_1
+n_1
+x -= a_2
+n_2
+cdots
+N/(n_i) x -= 1"\ (mod\ "n_i).
+d_i
+(N/(n_i) )^(-1) -= (N/(n_i) )^(varphi(n_i)-1),
+n_i.
+a_i*N/(n_i) *(N/(n_i) )^(-1)
+a_i*N/(n_i) *(N/(n_i) )^(varphi(n_i)-1) = a_i(N/(n_i) )^(varphi(n_i)),
+x -= sum_(i=1)^k a_i(N/(n_i) )^(varphi(n_i))"\ (mod\ "N).
+3x -= 7
+10
+2x -= 5
+9
+4x -= 1
+7
+bx -= c
+n
+x -= b^(varphi(n)-1)*c,
+b_i x -= c_i "\ (mod\ "n_i)
+N
+x -= sum_(i=1)^k(b_i^(varphi(n_i)-1)c_i)(N/(n_i) )^(varphi(n_i))"\ (mod\ "N).
+M
+m_i
+3x -= 7
+m_1
+2x -= 5
+m_2
+4x -= 1
+m_3
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p
+-1.
+1
+n.
+x^2 -= x
+n
+n = 5, 6, 7,
+210.
+x^2+8 -= 0
+121
+f(x) = x^3-x^2+2x+1 -= 0
+5^e
+e = 1, 2, 3.
+(x^k-b^k) = (x-b)(x^(k-1)+bx^(k-2)+cdots+b^(k-1)).
+p = 10,
+p = 11
+10!
+p.
+(p-2)!
+512^(372)
+13
+3444^(3233)
+17
+123^(456)
+23
+n
+m
+1
+n.
+p'\\x002223'x^2+1
+p
+p -= 3
+4
+p
+4n+3.
+x^2+y^2 = p
+p
+4n+3.
+y^2 = x^3+999
+x^2-1 -= 0
+2^e
+e > 3
++-1.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+sigma(n)
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+x^2+2y^2 = 9
+x^2+2y^2 = 9
+x^2+2y^2 = 9.
+y = 0,
+x = 1, y = 2.
+x^2+y^2 = 9
+x^2+2y^2 = 9
+(x, y)
+([1, 0], [0, 1//sqrt(2)]);
+x
+y
+([x, y])([1, 0], [0, 1])([x], [y]) = x^2+y^2
+([x, y])([1, 0], [0, 2])([x], [y]) = x^2+2y^2.
+n
+ax^2+2bxy+cy^2.
+a = 1 = c, b = 0,
+([a, b], [b, d])
+([x, y])([1, 0], [0, 2])([x], [y]) = x^2+2y^2 "\and\ "([x, y])([1, 1], [1, 3])([x], [y]) = x^2+2xy+3y^2
+1
+3
+8
+11 = 3^2+2*1^2
+x^2+2xy+3y^2?
+x = 2, y = 1
+x^2+2xy+3y^2 = (x+y)^2+2y^2.
+ny = mx^2;
+y = ax^2,
+a = m//n
+x in ZZ
+n'\\x002223'mx^2.
+gcd(m, n) = 1
+n'\\x002223'x^2
+n
+n'\\x002223'x
+y = mx^2
+m,
+x
+2y = x^2,
+2'\\x002223'x.
+x
+x
+2y = x^2
+2y = x^2
+2y = x^2
+(0, 0)
+(-2, 2)
+2y = x^2
+2y = x^2
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p = 11
+a = 2, 3, 5
+( (-1)/11)
+(a/11)
+p = 11.
+(a/29)
+p = 29
+p
+a.
+( (-2)/p) = +-1.
+0 < a, b < p,
+a, b,
+ab
+p.
+sum_(a in Q_p)a.
+p -= 1
+4
+p
+p -= 3
+4
+p
+p = 2q+1,
+q
+q
+p-2
+p
+U_p
+p -= 3
+4
+a'\\x002262'+-1, 0,
+a
+p
+p-a
+p,
+1 < i, j < p/2
+i != j,
+i^2'\\x002262'j^2
+p
+p = 23.
+(2/n)
+(2/n) = 1
+n -= +-1"\ (mod\ "8).
+n
+1,
+a
+n.
+(3/35)?
+(a/p)
+p = 47
+p
+a in Q_p
+a = -3, 6,
+9.
+5
+p > 5.
+-5
+a/p
+10
+p.
+221
+n = 35;
+n = 943.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+2^(2^n)+1
+5,
+17,
+257.
+F_n = 2^(2^n)+1
+F_n
+n = 5.
+2^(2^7)+1 = 59649589127497217*5704689200685129054721.
+F_n
+n = 4.
+F_8,
+37
+F_n.
+3
+2^(2^n)+1.
+F_n
+cc l = jk
+k
+2^cc l-1
+2^cc l-1 = 2^(jk)-1 = (2^j+1)((2^j)^(k-1)-(2^j)^(k-2)+(2^j)^(k-3)-cdots+(2^j)-1)
+2^6-1 = 63
+2^(3*2)-1 = (2^3+1)(2^3-1)
+9*7.
+2^(12)-1 = 4095
+2^(3*4)-1 = (2^3+1)(2^9-2^6+2^3-1)
+9*455.
+F_n = 2^(2^n)+1
+F_m = 2^(2^m)+1
+m != n.
+n < m,
+F_n-1
+F_m-1.
+2^(2^m) = (2^(2^n))^(2^(m-n))
+j = 2^n
+k = 2^(m-n)
+2^(2^m)-1 = (2^(2^n)+1)((2^(2^n))^(2^(m-n)-1)-(2^(2^n))^(2^(m-n)-2)+cdots+(2^(2^n))^1-1)
+F_n = 2^(2^n)+1'\\x002223'2^(2^m)-1 = F_m-2
+d
+F_n
+F_m-2.
+F_n
+F_m
+F_m-(F_m-2) = 2,
+F_n
+F_m
+2^p-1,
+p
+M_n = 2^n-1
+n
+M_n
+M_p
+p
+2^p-1.
+x_0 = 4
+p
+2
+2^p-1
+x_(n+1) = "residue of\ "x_n^2-2"\modulo\ "2^p-1
+p-2
+x_(p-2)
+2^p-1
+2^p-1
+2^p-1
+p = 5
+2^p-1 = 31,
+x_0 = 4;
+5-2 = 3
+4^2-2 = 14
+31
+14
+14^2-2 = 194
+31
+8
+8^2-2 = 62
+31
+0
+31
+2^p-1
+2^q-1
+d > 1
+2^p-1
+2^q-1.
+2 != 1
+U_d.
+2
+2^p -= 1"\ (mod\ "d)"\and\ "2^q -= 1"\ (mod\ "d)
+2^k -= 1
+k
+|2|
+2.
+p
+q
+|2|.
+p
+q
+|2|
+|2| = 1.
+d > 1
+2^6-1
+p
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+f
+f
+f,
+e.
+e
+n.
+ef -= 1"\ (mod\ " varphi(n))
+ef = fe
+("Name"^f)^e = ("Name")^(ef) -= "Name"^1 -= "Name""\ (mod\ "n)
+e
+e.
+gcd(e, varphi(pq)) != 1,
+(n, e) = (116555088756283019, 52665067560570823).
+e
+e
+a
+n
+a,
+a^(-1) -= a^(varphi(n)-1)"\ (mod\ "n)
+m
+e,
+k
+e
+m^(e^k) -= m^1 "\ (mod\ "n)
+e^k -= 1"\ (mod\ " varphi(n))
+gcd(e, n) = 1
+gcd(e, varphi(n)) = 1.
+e
+varphi(n)
+varphi(n),
+e
+varphi(n).
+e
+varphi(n).
+n
+n
+varphi(n)
+U_(varphi(n))
+e^("verysmallorder") -= 1"\ (mod\ " varphi(n))
+p
+n
+2^n
+varphi(n).
+n = pq
+varphi(n) = (p-1)(q-1)
+p-1
+q-1
+p
+q
+p
+q
+p-1 = 2p'
+q-1 = 2q',
+p'
+q'
+varphi(n) = varphi(pq) = varphi(p) varphi(q) = 2p'2q' = 4p'q'
+varphi(n)
+p'-1
+q'-1
+U_(varphi(pq)),
+p-1
+U_p.
+p'-1 = (p-1)/2-1"\and\ "q'-1 = (q-1)/2-1
+(p-1)/2
+(q-1)/2
+p
+q,
+p', q'
+2p'+1, 2q'+1
+p = 2p'+1
+q = 2q'+1
+U_(varphi(n)).
+p' = 5
+q' = 3.
+p'
+q'
+p
+q
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p
+3
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+ax+b.
+b
+a.
+a.
+2x+b
+b
+x.
+x
+3x+b?
+4x+b?
+b
+a,
+p
+q
+p+2 = q
+n = 10000
+n = 1000000
+pi.
+C_2
+n
+n
+n
+sqrt(n)...
+prod_(p<sqrt(x))(1-1/p)
+x
+2e^(-gamma)//log(x)
+gamma
+p > 2
+p
+p+2
+p
+p+2
+n+2
+n
+n
+n+2
+1//3.
+n
+n+2
+3//5.
+1/2 prod_(p<sqrt(x),p>2)(1-2/p)
+(1-2/p) = (1-1/((p-1)^2) )(1-1/p)^2
+x
+1/2 prod_(p<sqrt(x),p>2)(1-1/((p-1)^2) ) prod_(p"\prime")(1-1/p)^2
+1/2 prod_(p<sqrt(x),p>2)(1-1/((p-1)^2) )(x/(log(x)) )^2
+C_2 = 2 prod_(p>2)(1-1/(p-1) ^2).
+C_2
+2k
+1/2 prod_(p<sqrt(x),p>2)(1-1/((p-1)^2) )(x/(log(x)) )^2.
+N
+N.
+N <= 246,
+sum_(p,p+2"\both prime") 1/p+1/(p+2)
+N = 4
+N = 6
+n
+2n+1
+p.
+n
+n+2
+p,
+e^ gamma log(log(x))//log(2).
+n!+-1,
+e^ gamma log(n)
+n.
+p#+-1,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+a in ZZ,
+a -= a
+n
+a -= b
+n
+b -= a
+n
+a -= b
+b -= c
+n
+a -= c
+n
+n
+a in ZZ,
+a -= a
+n
+n'\\x002223'(a-a).
+a-a = 0.
+n'\\x002223'0.
+a -= b
+n
+b -= a
+n
+a -= b
+b -= c
+n
+a -= c
+n
+n'\\x002223'(a-b)
+n'\\x002223'(b-c),
+n'\\x002223'(a-c)
+a-b = nk
+b-c = ncc l
+k, cc l in ZZ.
+a-c = n(k+cc l),
+n'\\x002223'(a-c).
+n
+a -= c
+b -= d
+n
+a+b -= c+d
+ab -= cd
+a -= c
+b -= d
+n
+a+b -= c+d
+ab -= cd
+k
+cc l
+a = c+kn
+b = d+cc l n.
+a+b = c+kn+d+cc l n = (c+d)+(k+cc l)n.
+a+b
+c+d
+n.
+a+b -= c+d.
+n,
+2 -= 5
+n
+5 -= 2
+n
+2'\\x002262'6
+n
+5'\\x002262'6
+n
+2*2*2*2
+3
+-1*-1*-1*-1
+3
+16+15
+17,
+-1+(-2) = -3
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+P
+Q
+P
+Q
+m,
+P+Q
+m.
+P
+P,
+x^2-dy^2 = 1
+d = 2.
+x^2-2y^2 = 1
+x^2-2y^2 = 1
+x^2-2y^2 = 1
+(3, 2),
+(1, 0)?
+x^2-2y^2 = 1
+x^2-2y^2 = 1
+x^2-2y^2 = 1
+sqrt(2).
+(x, y)
+(x^2)/(y^2) = 2+1/(y^2)
+y,
+(x^2)/(y^2)
+2,
+x//y
+sqrt(2).
+d = 2
+(3, 2).
+3/2 = 1.5
+sqrt(2) ~~ 1.414.
+(3, 2)?
+(1, 0)
+(17, 12).
+17^2-2*12^2 = 1
+17//12 ~~ 1.417,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+pi(x),
+zeta(s)
+sum_(n=1)^ oo 1/(n^s) = prod_p 1/(1-p^(-s))
+zeta
+zeta,
+zeta(s)
+s
+zeta
+s?
+s = -1
+sum_(i=1)^ oo n
+zeta(s)
+s
+zeta
+zeta
+1/(n^s)
+zeta(s) = sum_(n=1)^ oo 1/(n^s)
+s
+s = sigma+it
+1/(n^s) = n^(-s) = e^(-slog(n)) = e^(-(sigma+it)log(n)) = e^(-sigma log(n))e^(-itlog(n))
+e^(ix) = cos(x)+isin(x)
+1/(n^s) = e^(-sigma log(n))e^(-itlog(n)) = n^(-sigma)(cos(tlog(n))-isin(tlog(n)))
+sigma > 1,
+cos
+sin
+zeta(s) = sum_(n=1)^ oo 1/(n^s) = sum_(n=1)^ oo(cos(tlog(n)))/(n^s) +i sum_(n=1)^ oo(sin(tlog(n)))/(n^s)
+sigma = 1
+zeta
+zeta(-1) = -1/12,
+zeta(-1) = 1+2+3+4+5+6+7+8+9+10+cdots = -1/12.
+zeta
+sigma
+|zeta|
+sigma.
+zeta(sigma+it),
+sigma
+t
+sigma = 1//2.
+x = 1
+y = 1
+zeta
+sigma = 1//2,
+sigma = 1//2
+sigma
+zeta
+zeta(s) = 0?
+zeta(s) = zeta(sigma+it)
+t != 0
+sigma = 1//2.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+a
+a
+n
+varphi
+n
+p-1
+mu
+mu
+n
+p
+gamma
+2
+lambda(n)
+pi(x)
+Li(x)
+varphi
+a
+mu
+mu(n)
+mu
+k
+omega(n)
+varphi(n)
+varphi
+pi(x)
+pi(x)
+n
+pi(x)
+pi(x)
+n
+pi(x)
+sigma(n)
+sigma_k(n)
+n
+tau(n)
+Theta(x)
+n
+n
+n
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+'\\x0025fb'
+QQ[sqrt(d)]
+p
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+varphi
+p = 13,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+varphi
+varphi(n)
+{k'\\x002223'0 < k <= n, gcd(k, n) = 1}
+n
+n.
+n
+varphi(n).
+n
+n = prod_(i=1)^k p_i^(e_i)
+varphi(n) = n prod_(i=1)^k(1-1/(p_i) )
+varphi
+varphi
+m, n
+varphi(m) varphi(n) = varphi(mn).
+f(n)
+f(m)f(n) = f(mn)"\when\ "m, n"\are coprime."
+varphi
+varphi.
+p
+varphi(p) = p-1,
+varphi
+varphi(n),
+varphi(d)
+d
+n?
+sum_(d'\\x002223'n) varphi(d) = n.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+a
+p
+sum_("even\ "e,0<e<p)|__(ae)/p__|
+(3/p)
+p.
+3
+p?
+a = 3,
+sum_("even\ "e,0<e<p)|__(3e)/p__|.
+y/p
+y
+3(p-1).
+p = 7:
+|__ 6/7__|+|__ 12/7__|+|__ 18/7__| = 0+1+2 = 3
+(-1)^3 = -1,
+(3/7) = -1
+3'\\x002262's^2
+7
+s.
+p = 11?
+|__ 6/11__|+|__ 12/11__|+|__ 18/11__|+|__ 24/11__|+|__ 30/11__| = 0+1+1+2+2 = 6
+|__(3e)/p__|
+3e
+p
+2p,
+p
+3p
+e
+e = p-1.
+e
+p < 3e < 2p,
+y
+p < 6y < 2p => p/6 < y < p/3.
+p,
+y
+p
+p = 6k+r
+p/6 < y < p/3 => (6k+r)/6 < y < (6k+r)/3 => k+r/6 < y < 2k+r/3
+=> r/6 < y < k+r/3.
+k.
+y
+r/6 < y < r/3.
+r/6
+k+r/3.
+k
+k
+k = 2cc l
+p = 6k+r = 12cc l+r.
+k = 2cc l+1
+p = 6k+r = 12cc l+6+r.
+p,
+r
+6
+r = 1
+r = 5.
+r = 1,
+y
+1/6 < y < 1/3,
+r = 5,
+y
+5/6 < y < 5/3,
+(3/p) = 1
+p -= +-1
+12
+(3/p) = -1
+p -= +-5
+12
+p = 12cc l+1
+p = 12cc l+5,
+p = 12cc l+6+1 = 12cc l+7,
+p = 12cc l+6+5 = 12cc l+11,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p
+-1
+n
+1
++-1?
+x^2 -= -1"\ (mod\ "p)"\or\ "x^2+1 -= 0"\ (mod\ "p)?
+x^2 -= 1"\ (mod\ "n)"\ (or equivalently\ "x^2-1 -= 0"\ (mod\ "n)")?"
+-1
+1
++-1
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+3x+2y = 10
+x, y <= 10
+3x+2y = 10
+x, y <= 10
+y = m, x = n
+m, n.
+(m, n)
+m, n in ZZ.
+(-2, 3)
+(-1, 1//2)
+p/q
+q != 0
+1/2 = 3/6
+QQ.
+RR
+ax+by = c
+y = -a/b x+c/b
+-a/b
+a,
+b,
+c
+gcd(a, b)'\\x002223'c
+a, b
+c
+(1, -1)
+a/b
+a = 6, b = 4
+(-3, 5)
+a/b
+3/2
+(a//d)/(b//d) .
+ax+by = c.
+ax+by = c,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n = a^2+b^2.
+i
+-1 = i^2,
+n = a^2-(i^2 b^2) = (a+bi)(a-bi)
+ZZ[i]
+ZZ[i] = {a+bi'\\x002223'a, b in ZZ}
+i
+i^2 = -1;
+CC.
+1
+100
+(3, 2)
+3+2i,
+13
+13
+a^2+b^2 = (a+bi)(a-bi)
+i,
+n
+p in ZZ
+p = 4n+3,
++-p in ZZ[i]
+p in ZZ
+p = 4n+3,
++-p*i in ZZ[i]
+p in ZZ
+p = 4n+3,
+a+bi
+a-bi
+ZZ[i]
+p = a^2+b^2
+a
+b
++-a+-bi, +-b+-ai.
+3+-2i,
+-3+-2i,
+2+-3i,
+-2+-3i
+N(x+iy) = x^2+y^2.
+3+2i
+3^2+2^2 = 13
+13 = 13+0i
+169.
+a = bq+r
+r < b,
+r
+b.
+a
+b
+a = bq+r,
+0 <= N(r) < N(b).
+gcd(a, b).
++-1
++-i
+a
+b
+g
+h
+gcd(g, h) = +-1
++-i
+x
+y
+gx+hy = 1.
+ZZ[i].
+4n+1
+p -= 1"\ (mod\ "4)
+p
+f = ( (p-1)/2)!
+-1
+p.
+f^2 -= -1"\ (mod\ "p)
+p'\\x002223'f^2+1.
+f^2+1
+f^2-i^2,
+f^2+1 = (f+i)(f-i).
+p = p+0i
+f+i
+f-i
+ZZ[i],
+p
+ZZ[i]
+a+bi
+f+i
+f-i.
+a+bi'\\x002223'p,
+a-bi
+p.
+(a+bi)(a-bi)'\\x002223'p^2 => a^2+b^2'\\x002223'p^2
+a^2+b^2
+a+bi
+p.
+p
+a^2+b^2 = p.
+a^2+b^2 = c^2,
+a+bi
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+varphi
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+(a/p)
+a != -1, 2
+( (-1)/p)
+(2/p)
+p
+q
+(p/q)(q/p) = (-1)^(( (p-1)/2)( (q-1)/2)).
+(p/q)(q/p) = (-1)^( ((p-1)(q-1))/4).
+q = 3
+p > 3.
+(3-1)//2 = 1,
+(3/p)(p/3) = (-1)^((p-1)//2)", or\ "(3/p) = (-1)^((p-1)//2)(p/3).
+1 in Q_3
+2!inQ_3,
+(p/3) = 1"\if\ "p -= 1"\ (mod\ "3)"\and\ "(p/3) = -1"\if\ "p -= 2"\ (mod\ "3).
+-1:
+(-1)^((p-1)//2) = 1"\if\ "p -= 1"\ (mod\ "4)"\and\ "(-1)^((p-1)//2) = -1"\if\ "p -= 3"\ (mod\ "4).
+(3/p) = 1
+p -= 1"\ (mod\ "3)"\and mod\ "(4)
+p -= 3"\ (mod\ "4)"\and\ " -= 2"\ (mod\ "3)
+p -= 1, 11 -= +-1
+12
+(p/q)
+p'\\x002216'q
+p
+q,
+(p/q) = (q/p)
+p -= q -= 3"\ (mod\ "4).
+(a/p)
+a
+( (-1)/p) = 1'\\x0027fa'p -= 1"\ (mod\ "4)
+(2/p) = 1'\\x0027fa'p -= +-1"\ (mod\ "8)
+-1
+2,
+(99/167).
+(99/167) = (9/167)*(11/167).
+11
+167
+3
+(9/167)*(11/167) = ( (3^2)/167)*-(167/11)
+( (3^2)/167)*-(167/11) = -1*(2/11)
+11 -= 3
+8
+-1*(2/11) = -1*-1 = 1
+(83/103)
+(219/383)
+(646/877)
+(a/p)
+a.
+n
+n = p_1^(e_1)p_2^(e_2) cdots p_k^(e_k).
+(a/n),
+(a/n) = (a/(p_1) )^(e_1)(a/(p_2) )^(e_2) cdots(a/(p_k) )^(e_k)
+a = -1, 2
+(a/n) = -1
+a
+n.
+n
+(a/n) = 1
+a
+n.
+p
+(83/103),
+943
+(943/997) = (997/943)"\since\ "997 -= 1"\ (mod\ "4)
+= (54/943) = (2/943)(27/943) = (+1)(27/943)"\since\ "943 -= -1"\ (mod\ "8)
+= -(943/27)"\since both are\ " -= 3"\ (mod\ "4)
+= -(25/27) = -1"\because\ "25 = 5^2
+943
+943 = 23*41
+(646/877):
+(646/877) = (2/877)(323/877) = (-1)(323/877)"\since\ "877 -= 5"\ (mod\ "8)
+= -(877/323) = -(231/323)"\since\ "877 -= 1"\ (mod\ "4)
+= -(-(323/231)) = (92/231)"\since both are\ " -= 3"\ (mod\ "4)
+= (4/231)(23/231) = (+1)(23/231)"\because\ "4 = 2^2
+= -(231/23) = -(1/23) = -1"\since both are\ " -= 3"\ (mod\ "4).
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+26^3 = 17576
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+a
+b,
+r
+b.
+a, b in ZZ
+b > 0,
+a = qb+r
+0 <= r < b
+q
+a, b
+q, r
+q
+r
+q
+r
+a = 13, b = 3.
+"We have\ "13 = 4*3+1"\so\ "q = 4"\and\ "r = 1.
+a
+b,
+S = {a-kb'\\x002223'k in ZZ}.
+b,
+k in ZZ,
+S
+S' = S nn NN.
+a = 13, b = 3,
+S = {...19, 16, 13, 10, 7, 4, 1, -2, -5, ...}
+S' = {...19, 16, 13, 10, 7, 4, 1}.
+S'.
+S
+S'
+r
+S',
+r = a-bq
+S'sub S,
+r >= b.
+b
+r,
+r-b in S'
+r
+S',
+r < b.
+r
+S',
+r
+q
+a = bq'+r'
+q', r'
+0 <= r' < b;
+r = r'
+a-bq = r = r' = a-bq'
+q = q'
+b > 0
+r != r'.
+r < r'.
+a-bq = r < r' = a-bq',
+0 < r'-r = b(q-q').
+q, q'in ZZ,
+q-q'
+b = b*1 <= r'-r = b(q-q')
+b <= r+b <= r',
+0 <= r' < b.
+q-q' = 0
+q = q'
+r = r'.
+a
+b,
+a = 26
+b = 3.
+b < 0
+0 <= r < |b|
+r = 0
+r = 1
+n = 4q+r.
+(4q+r)^2?
+16q^2+8qr+r^2.
+r^2.
+n
+r^2,
+r
+n = (4q+r)^2
+n = (mq+r)^2,
+m,
+(mq+r)^2 = m^2 q^2+2mqr+r^2 = m(mq^2+2qr)+r^2,
+r^2,
+m.
+m
+r,
+m = 6,
+r = 0, 1, 3, 4
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+2 pi//n
+360//n
+n
+2 pi
+360
+n
+n
+n
+n
+n = 7;
+7
+7
+k <= n
+n
+k
+km
+k.
+n
+n
+n = kq+r
+0 <= r < k.
+kq
+n
+r
+r < k,
+r = 0.
+k
+n.
+k = 3,
+n = 6,
+6
+6
+6
+n = p
+1
+p
+p
+p
+p
+p.
+p
+a^p -= a"\ (mod\ "p).
+n = 2
+p
+p
+a
+a
+a^p
+p
+a^p-a,
+p'\\x002223'a^p-a
+a^p -= a"\ (mod\ "p).
+n
+p
+p
+p
+1/(2p) p(p-1) cdots 3*2*1.
+p
+p!
+(p-1)/2
+7
+7
+1/(2p) p(p-1)(p-2) cdots 3*2*1-1/2(p-1) -= 0"\ (mod\ "p);
+(p-1)!-p+1 -= 0"\ (mod\ "p)
+(p-1)! -= -1"\ (mod\ "p)
+(p-1)!,
+p-1
+p
+n
+ZZ_n
+{1, 2, ..., p}
+p
+n
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+1^2+0^2+0^2 = 0^2+1^2+0^2
+3^2+4^2+1^2 = 0^2+5^2+1^2
+x, y, z
+n.
+g(m)
+G(m)
+m.
+m
+g(m)
+G(m)?
+x^2+3y^2.
+x^n+y^n = z^2.
+n
+n = 3
+n > 3.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n;
+a
+n,
+a
+p'\\x002223'n.
+n
+(a/p)
+p
+a
+p
+n
+p'\\x002223'n
+n = 5:
+F_n = 2^(2^n)+1"\is always prime for\ "n >= 0.
+F_n;
+n = 31.
+F_(20)
+F_n,
+n > 0,
+F_n = 2^(2^n)+1
+3^(2^(2^n-1)) -= -1"\ (mod\ "2^(2^n)+1)
+(F_n-1)//2 = 2^(2^n-1),
+F_n
+F_n
+F_n -= 1, 5, "\or\ "9"\ (mod\ "12).
+F_n -= 1"\ (mod\ "12),
+3'\\x002223'2^(2^n) = F_n-1,
+F_n -= 9"\ (mod\ "12),
+F_n
+F_n -= 5"\ (mod\ "12).
+F_n
+3
+F_n.
+3^((F_n-1)//2) = -1.
+-1
+a = 3.
+3^(F_n-1) -= 1"\ (mod\ "p)
+p
+F_n.
+3
+F_n-1 = 2^(2^n),
+2
+U_p
+2^(2^n-1)
+2^(2^n).
+p
+2^(2^n)+1 = F_n.
+p'\\x002223'F_n,
+2^p-1
+p -= 3"\ (mod 4")
+p
+q
+4n+3.
+a
+(a/p) = -1 = (a/q)"\so that\ "(a/(pq) ) = 1
+a
+n = pq,
+( (-1)/p).
+(2/p)
+x^3 = y^2+16
+( (-8)/p).
+x^3 = y^2-46
+( (-18)/p).
+F_n
+3
+F_n,
+F_n
+-1
+3,
+5,
+7
+1/3 = .333...
+2/7 = .285714285714....
+10
+F_5 = 4294967297
+q
+p = 2q+1
+q
+p
+a = -1
+a = 0
+p
+p
+p -= 3"\ (mod\ "4).
+q
+q = 2k+1
+k,
+p = 2(2k+1)+1 = 4k+3.
+-1,
+0, -1
+a
+p-a
+1^2, 2^2, 3^2, ..., q^2
+p,
+p-k^2,
+2 <= k <= q,
+p-4,
+p = 2q+1.
+2618163402417*2^(1290000)-1
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+varphi(n)
+varphi
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+varphi
+zeta
+P
+varphi;
+s > 2.
+varphi***u = N.
+zeta
+s > 1.
+varphi
+0 < sum_(n=1)^ oo(varphi(n))/(n^s) <= sum_(n=1)^ oo n/(n^s) = sum_(n=1)^ oo 1/(n^(s-1))
+s > 2.
+N
+zeta(s-1).
+zeta
+P.
+varphi,
+P(s),
+P(s) = sum_(n=1)^ oo(varphi(n))/(n^s) = (zeta(s-1))/(zeta(s))
+u;
+N
+zeta(s-1).
+varphi
+u.
+N,
+P(s) zeta(s) = zeta(s-1)
+s > 2,
+sum_(n=1)^ oo(f(n))/(n^s)
+f
+sum_(n=1)^ oo(f(n))/(n^s) = prod_p(1+ (f(p))/(p^s) + (f(p^2))/(p^(2s)) +cdots).
+mu
+mu
+s > 1
+sum_(n=1)^ oo(mu(n))/(n^s) = prod_p(1-1/(p^s) ) = prod_p(1-p^(-s))
+mu
+sum_(d'\\x002223'n) (mu(d))/d = prod_(p'\\x002223'n)(1-p^(-1)).
+k
+prod_(i=1)^k(1-1/(p_i) ) =
+1-1/(p_1) -1/(p_2) -cdots+1/(p_1 p_2) +1/(p_1 p_3) +cdots-1/(p_1 p_2 p_3) -1/(p_1 p_2 p_4) -cdots =
+sum_([n"\squarefree"], ["\only\ "p_i'\\x002223'n,1<=i<=k]) (mu(n))/n.
+A_k = {n'\\x002223'n = p_1^(e_1)p_2^(e_2) cdots p_k^(e_k), e_i >= 0}
+k
+mu(n) = 0
+prod_(i=1)^k(1-1/(p_i) ) = sum_([n"\squarefree"], ["\only\ "p_i'\\x002223'n,1<=i<=k]) (mu(n))/n = sum_(n in A_k) (mu(n))/n.
+p_i
+p_i^s
+prod_(i=1)^k(1-p_i^(-s)) = sum_(n in A_k) (mu(n))/(n^s) .
+prod_(i=1)^k(1-p_i^(-s))-sum_(n=1)^ oo(mu(n))/(n^s)
+sum_(n!inA_k) (mu(n))/(n^s) .
+k
+s,
++-zeta,
+zeta
+s > 1
+|prod_(i=1)^k(1-p_i^(-s))-sum_(n=1)^ oo(mu(n))/(n^s) | = |sum_(n!inA_k) (mu(n))/(n^s) |
+n!inA_k
+n > p_k,
+n
+k
+|sum_(n!inA_k) (mu(n))/(n^s) | <= sum_(n>p_k) 1/(n^s)
+sum_(n>p_k) 1/(n^s)
+k -> oo,
+|sum_(n!inA_k) (mu(n))/(n^s) | <= sum_(n!inA_k)| (mu(n))/(n^s) | <= sum_(n>p_k)| (mu(n))/(n^s) | <= sum_(n>p_k) 1/(n^s)
+n!inA_k
+p_k,
+p_k
+mu = 0, 1, -1
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+a -= b
+ax -= b
+n
+n.
+gcd(a, n) = d
+n//d
+ax -= b
+n
+n//d
+n
+n = 15,
+n = 16.
+gcd(d, n) != 1.
+15x -= 9
+25
+6x -= 3
+9
+14x -= 42
+50
+15x -= 42
+50
+13x -= 42
+50
+980x -= 1540
+1600
+x -= 1
+4
+x -= 2
+3
+x -= 3
+5
+x -= 2
+3
+x -= 4
+5
+x -= 6
+13
+4x -= 2
+6
+3x -= 5
+7
+2x -= 4
+11
+5x -= 22
+84
+x -= 4
+6
+x -= 7
+15
+x -= 2
+3
+x -= 3
+5
+x -= 2
+7
+a_i = 1
+i
+n_i
+n_i.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+tau(n)
+(x, y)
+xy = n.
+xy = n
+y = n//x
+(x, y)
+tau(n)
+(d, n/d)
+d n/d = n.
+sum_(k=1)^n tau(k)
+y = n//x.
+sum_(k=1)^n tau(k),
+sum_(k=1)^n tau(k)
+sum_(j=1)^n|__ n/j__|,
+tau.
+int_1^n n/x dx = nlog(x)|_1^n = nlog(n)-nlog(1) = nlog(n)
+log(n)
+e.
+nlog(n)
+tau
+n,
+n,
+sum_(k=1)^n tau(k)-nlog(n)
+n
+n.
+O(n)
+n
+n
+n
+1/n sum_(k=1)^n tau(k)-log(n) = O(1)
+log(n)
+log(n).
+tau
+log
+tau
+log
+tau
+log
+tau
+log
+x = 0
+0.2,
+0.15
+0.16,
+x
+tau,
+tau,
+y = x.
+|__sqrt(n) __| <= sqrt(n)
+y
+d
+y = sqrt(n),
+|__n//d__|-d
+x
+d
+x = sqrt(n),
+|__n//d__|-d
+d <= sqrt(n).
+d
+n
+sum_(k=1)^n tau(k) = |__sqrt(n) __|+sum_(d<=sqrt(n))(|__n//d__|-d)+sum_(d<=sqrt(n))(|__n//d__|-d) <= sqrt(n)+2 sum_(d<=sqrt(n))(n//d-d).
+d,
+1+2sqrt(n) = O(sqrt(n)).
+cc l
+cc l = |__sqrt(n) __|
+sqrt(n)
+sum_(k=1)^n tau(k) <= 2n sum_(d<=sqrt(n)) 1/d-2 sum_(d<=sqrt(n))d+O(sqrt(n))
+= 2n sum_(d<=sqrt(n)) 1/d-2( (|__sqrt(n) __|(|__sqrt(n) __|+1))/2)+O(sqrt(n)).
+n >= 4,
+n/2
+( (|__sqrt(n) __|(|__sqrt(n) __|+1))/2)
+O(sqrt(n))
+C = 1//2,
+sum_(k=1)^n tau(k) = 2n sum_(d<=sqrt(n)) 1/d-n+O(sqrt(n))'\\x0027f9'
+1/n sum_(k=1)^n tau(k) = 2 sum_(d<=sqrt(n)) 1/d-1+O(1//sqrt(n)).
+tau
+log(n)
+tau.
+2 sum_(d<=sqrt(n)) 1/d-1
+log(n).
+O(1//sqrt(n))
+log
+log
+sum_(k=1)^(m-1) 1/k
+log(m).
+m -> oo,
+1.
+sum_(k=1)^(m-1) 1/k
+log(m)
+m -> oo.
+sum_(k=1)^ oo 1/k
+gamma,
+gamma = lim_(m->oo)(sum_(k=1)^(m-1) 1/k-log(m))
+-gamma
+x = 1
+Gamma
+gamma
+gamma
+1//m,
+m.
+gamma
+O(1//m)
+sum_(k=1)^(m-1) 1/k-log(m).
+sum_(d<=sqrt(n)) 1/d = log(sqrt(n))+gamma+O(1//sqrt(n)).
+1/n sum_(k=1)^n tau(k) = 2 sum_(d<=sqrt(n)) 1/d-1+O(1//sqrt(n)).
+sum_(d<=sqrt(n)) 1/d
+gamma,
+2log(z) = log(z^2).
+1/n sum_(k=1)^n tau(k) = log(n)+(2 gamma-1)+O(1//sqrt(n)).
+tau
+tau
+O(1//root(3)(x)),
+O(1//root(4)(x));
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+25
+6?
+x
+m
+x
+m.
+r
+0 <= r < m,
+a
+b
+n
+a -= b"\ (mod\ "n),
+n'\\x002223'(a-b).
+n,
+a -= b"\ (mod\ "n)
+a
+b
+n.
+a = nq+r
+b = nq'+r'.
+r = r'
+k
+a-b = nk,
+a -= b
+n
+a-b = nk
+k in ZZ,
+r = r'.
+r != r'
+n.
+25 -= 1 -= -5
+6
+25 = 4*6+1
+1 = 0*6+1
+-5 = -1*6+1.
+x^2 -= 0"\or\ "1"\ (mod\ "4)
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n -= 3"\ (mod\ "4),
+n
+n -= 7"\ (mod\ "8),
+n
+1^2+0^2+0^2 = 0^2+1^2+0^2
+3^2+4^2+1^2 = 0^2+5^2+1^2
+n
+n = a^2+a^2 = 2a^2,
+n
+r_2(n)
+n >= 0
+r_2(2) = 4"\because\ "(-1, 1), (-1, -1), (1, 1), (1, -1)"\all work."
+r_2(2^m) = 4"\for all\ "m >= 1.
+N
+N = a^2+b^2
+N = c^2+d^2,
+(a, b)
+(c, d)
+a
+c
+b
+d
+a >= c
+d >= b.
+k = gcd(a-c, d-b)
+n = gcd(a+c, d+b)
+(a-c)/k = (d+b)/n
+(d-b)/k = (a+c)/n.
+N
+5095,
+5096,
+5097,
+5098,
+5099,
+4k+3.
+k
+k'\\x002262'2
+4
+n -= 12
+16
+n
+6
+S
+S
+p = 5
+p = 13,
+(x, y, z)
+(x, y, z)
+(x, y, z)
+(x, y, z)
+(x, y, z) = (1, 1, (p-1)/4)
+S
+p -= 1
+4)
+(x, y, z) -> (x, z, y)
+S,
+p
++-( (p-1)/2)!
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+x > 0
+x = 10m+3
+m.
+[x] = [3]
+10
+x^3 = (10m+3)^3 = 1000m^3+900m^2+270m+27 = 10("\stuff\ "+2)+7
+7.
+{i^3 "\ (mod\ "10)'\\x002223'0 <= i < 10}
+10,
+d,
+x
+x^3 -= d"\ (mod\ "10)
+x^3 -= d"\ (mod\ "10)
+d.
+10
+[7]
+[3].
+ZZ;
+7 != [7]
+4
+[2].
+n
+d,
+x^3 -= d"\ (mod\ "n).
+d
+n?
+x^2 = x,
+x = 0
+x = 1.
+x^2 -= x"\ (mod\ "n)
+n?
+n
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+tau(n)
+log(n)+2 gamma-1.
+sigma(n)
+(1/2 sum_(d=1)^ oo 1/(d^2) )n.
+sum_(d=1)^ oo 1/(d^2) = (pi^2)/6
+(pi^2)/12.
+varphi
+ax^n.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p = 4k+1
+p = 4k+1
+p = 4k+3
+x^2+y^2 = n,
+n = 5
+-1"\ (mod\ "n)
+-1
+QQ
+RR,
+ZZ.
+p
+f = ( (p-1)/2)!
+p
+(a, af+bp)
+a, b.
+(x, y)
+(x, y)
+N(x, y) = x^2+y^2.
+p
+4k+1
+(a, af+bp)
+0 < N(a, af+bp) = a^2+(af+bp)^2 < 2p.
+p,
+N(a, af+bp) = a^2+(af+bp)^2 -= a^2+(af)^2 -= a^2+a^2 f^2 -= a^2-a^2 -= 0"\ (mod\ "p),
+p
+(a, af+bp).
+0 < a^2+(af+bp)^2 < 2p
+p'\\x002223'a^2+(af+bp)^2,
+p = a^2+(af+bp)^2,
+p
+p = 5,
+f = ( (5-1)/2)! = 2! = 2,
+(a, 2a+5b)
+a^2+(2a+5b)^2 < 2p.
+a = 1
+b = 0
+N(1, 2*1+5*0) = 1^2+(2*1+5*0)^2 = 5 < 2*5 = 10
+5 = 1^2+2^2.
+p = 4k+1
+2p.
+x^2+y^2 = 2p,
+sqrt(2p).
+sqrt(2p),
+pi(sqrt(2p))^2 = 2 pi p.
+pi > 2,
+2 pi > 2(2) = 4,
+4p.
+(p, 0)
+a = p, b = -f
+(-f, 1)
+a = -f, b = k
+f^2+1 = kp
+2p
+(2p, 0),
+(-2f, 2),
+(-f, 1)
+4p//2.
+f
+x
+(-2f, 2)
+(2p, 0)
+(2p+2f, -2)
+f
+-1
+p.
+4p,
+p = 5
+f = -3.
+4p
+sqrt(2p).
+4p
+(a, af+bp)
+sqrt(2p).
+L
+(0, 0),
+(-2f, 2),
+(2p, 0),
+(2p+2f, -2)
+f
+-1
+p
+L
+L
+(2a, 2af+2bp)
+L,
+v, w
+L,
+sqrt(2p)
+L.
+L.
+L.
+L
+L.
+1+1 = 2
+L.
+v, w
+sqrt(2p)
+L,
+(a, af+bp).
+v
+w
+L
+v
+w
+v-w.
+v-w
+(2a, 2af+2bp)
+(v-w)//2
+(a, af+bp),
+v-w
+d
+v
+w.
+d
+2sqrt(2p).
+v-w
+d
+(a, af+bp),
+sqrt(2p)
+(a, af+bp)
+v
+w,
+v
+w
+v-w,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+ax+by = c.
+(x, y)
+x
+y
+3x+2y = 10
+3x+2y = 10
+x+y = 4,
+x+y = 5,
+x+y = 6,
+...
+2x+y = 4,
+2x+y = 5,
+2x+y = 6,
+...
+2x+2y = 4,
+2x+2y = 5,
+2x+2y = 6,
+...
+3x+y = 4,
+3x+y = 5,
+3x+y = 6,
+...
+ax+by = c,
+gcd(a, b) = 1.
+(x_0, y_0)
+(x_0+b, y_0-a),
+sqrt([(x_0+b)-x_0]^2+[(y_0-a)+y_0]^2) = sqrt(a^2+b^2).
+a = 3,
+b = 2,
+c = 4.
+c/a
+c/b,
+sqrt((c/a)^2+(c/b)^2) = c/(ab) sqrt(a^2+b^2).
+c/(ab) .
+c/(ab)
+2x+3y = 10,
+10/(2*3) ~~ 1.67.
+c/(ab)
+2x+3y = 5
+2x+3y = 7
+2x+3y = 6
+c/(ab)
+c
+x
+|__x__|.
+|__1.5__| = 1, |__1__| = 1, |__1.99__| = 1, |__0.99__| = 0, |__-.01__| = -1.
+n = |__ c/(ab) __|,
+c/(ab) .
+n
+n+1
+n
+n+1
+a, b > 0
+2x+3y = c
+c.
+c < 6
+n = |__ c/(ab) __| = 0,
+n
+n
+n
+n = |__ c/(ab) __|.
+n = 1
+2x+3y = 8
+9
+10
+c//a
+c//b
+n
+n+1
+2x+3y = 7
+2x+3y = 11,
+11/(2*3) -|__ 11/(2*3) __|
+|__ 11/(2*3) __|+1 = 2
+2x+3y = 12
+|__ 12/(2*3) __|-1 = 1
+n
+x
+y
+c//a
+c//b
+n-1 = |__ c/(ab) __|-1
+c
+c
+ab,
+2x+3y = 5
+2x+3y = 6.
+ax+by = -1
+sqrt(a^2+b^2)
+ax+by = kab
+ax+by = kab-1,
+gcd(a, b) != 1,
+a'x+b'y = c'
+gcd(a', b') = 1.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+u(n) = 1
+n
+N(n) = n
+n
+I(n) = {[1, n=1], [0, n>1]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+N?
+N = varphi***u.
+varphi***u = N
+N***mu = varphi
+varphi
+varphi(n) = (N***mu)(n) = sum_(d'\\x002223'n)N(d) mu(n/d) =
+sum_(e'\\x002223'n)N(n/e) mu(e) = n sum_(e'\\x002223'n) (mu(e))/e = n prod_(p'\\x002223'n)(1-1/p).
+e = n//d,
+n.
+mu
+sigma
+tau,
+mu***mu
+u***u.
+|mu|,
+|mu|***u?
+n = prod_(i=1)^k p_i^(e_i)
+omega(n) = k
+nu(n)
+n = prod_(i=1)^k p_i^(e_i),
+lambda(n) = (-1)^(e_1+e_2+cdots+e_k).
+***
+u?
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+r(n)
+n
+r_2(n)
+r_k
+r(25) = 12.
+(+-3, +-4), (+-4, +-3), (+-5, 0)"\and\ "(0, +-5).
+r(n).
+r(2^m) = 4.
+n
+n = 2^d p_1^(e_1) cdots p_k^(e_k)q_1^(f_1) cdots q_cc l^(f_cc l)
+4k+1
+p,
+4k+3
+q.
+r(n) = {[0, "\if any\ "f_j "\is odd"], [4 prod_(i=1)^k(e_i+1), "\otherwise"]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>.
+4k+1
+r(2^m)
+e_i
+f_j
+4*1
+varphi(n).
+varphi(5) varphi(3) = varphi(15),
+r,
+r(3)r(5) = r(15)
+r(8)r(7) = r(56).
+r(25)r(13) = 12*8 = 96 != 24 = r(325)
+r(25)r(4) = 12*4 = 48 != 12 = r(100).
+varphi
+r(n).
+sqrt(n)
+(x, y)
+x^2+y^2 <= n.
+r(n)?
+n.
+sum_(k=0)^n r(k).
+r.
+21
+sqrt(5) ~~ 2.24,
+4.2.
+sqrt(n)
+1/(sqrt(2)) ,
+sqrt(n)
+pi(sqrt(n)-1/(sqrt(2)) )^2 <= sum_(k=0)^n r(k) <= pi(sqrt(n)+1/(sqrt(2)) )^2.
+n
+pi(n-sqrt(2n)+1//2)/n <= 1/n sum_(k=0)^n r(k) <= pi(n+sqrt(2n)+1//2)/n,
+pi(1-sqrt(2/n)+1/(2n) ) <= 1/n sum_(k=0)^n r(k) <= pi(1+sqrt(2/n)+1/(2n) ).
+n
+oo
+pi.
+lim_(n->oo) 1/n sum_(k=0)^n r(k) = pi.
+r(0) = 1,
+pi.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+N > 1
+n
+N > 1
+N = prod_(i=1)^n p_i
+N = prod_(j=1)^m q_j
+m = n
+q_j
+p_i.
+30 = 2*3*5
+24 = 2*3*2*2 = 2*2*2*3
+N = 1?
+3^2
+3*3
+N = prod_(i=1)^n p_i^(e_i).
+N = prod p
+N = prod p^e.
+30 = 2^1*3^1*5^1
+24 = 2^3*3^1
+N = 12100
+N = 1250
+N = 3072
+p
+ab,
+p
+a
+b.
+p
+p
+p|prod_(k=1)^cc l a_k "\implies\ "p'\\x002223'a_k "\for at least one\ "k
+N.
+N = 2,
+2^1.
+N
+N+1
+N+1
+2.
+N+1
+N+1 = ab,
+1 < a, b < N+1.
+a, b
+a
+b
+prod p_i
+prod q_j,
+N+1
+N+1 = prod p_i prod q_j.
+N+1.
+N+1 = prod p_i, p_i <= p_(i+1).
+N+1 = prod q_j.
+p_1
+N+1.
+p_1
+q_j.
+p_1
+p_1 = q_j.
+(N+1)/(p_1)
+N+1,
+p_1
+N+1
+N
+n <= N
+N
+N
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+-= .
++-1,
+a = g^i
+a
+(-1)^i = 1
+i
+a
+(a/p)
+p
+a
+p
+(a/p) = 1"\if\ "a"\is a QR modulo\ "p", and\ "(a/p) = -1"\otherwise."
+a
+p
+p'\\x002223'a.
+p,
+( (-1)/p) = 1
+p -= 1
+4
+(2/17) = 1
+(3/17) = -1.
+0^2 = 0,
+1 = 1^2 = (-1)^2
+0
+p-1
+U_p.
+x |-> (x/p)
+U_p
+{1, -1}
+p-1
+2,
+(p-1)//2
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+varphi
+m, n.
+m = 3, n = 5.
+3.
+mx+ny
+[0]
+[1]
+[2]
+ul 0
+1
+2
+ul 3
+4
+ul 5
+ul 6
+7
+ul 8
+ul 9
+ul(10)
+ul(11)
+ul(12)
+ul(13)
+ul(14)
+mx+ny
+x, y
+m
+n.
+mx+ny
+x, y >= 0
+m
+n,
+n,
+m
+m,
+{[0], [n], [2n], [3n], ..., [(m-2)n], [(m-1)n]} = {[0], [1], ..., [m-1]}.
+{[0], [5], [10]} = {[0]_3, [2]_3, [1]_3}.
+kn -= k'n"\ (mod\ "m)
+n
+gcd(m, n) = 1,
+k -= k'"\ (mod\ "m).
+m
+kn
+m
+kn;
+n
+m
+kn-m.
+k,
+(m-1)n,
+(m-1)n-m
+(m-1)n-m+1 = mn-n-m+1 = (m-1)(n-1)
+m, n
+(m-1)(n-1).
+0
+(m-1)n-m
+(m-1)n-m.
+gcd(m, n) = 1,
+m, n
+0
+(m-1)n-m.
+0 <= z <= (m-1)n-m
+z = mx+ny, m, n > 0.
+z' = (m-1)n-m-z = m(-1-x)+n(m-1-y).
+z = 5
+z' = 2,
+x = 0, y = 1.
+x, y >= 0,
+(-1-x) < 0.
+z' = m(-1-x)+n(m-1-y)
+z'
+m
+n
+m
+n
+n
+m
+m
+n
+z' = m(n-1-x)+n(-1-y),
+-1-y < 0.
+m
+n
+x, y
+z'
+mx+ny,
+x
+y
+z' = mx+ny
+x
+z'
+m(x-n)+n(y+m)
+x-n < 0,
+x
+m.
+z' > 0,
+y+m > 0.
+0 < -y < m
+0 < x < n.
+mn
+[z, "<mi//>"=(m-1)n-m-z'=(m-1)n-m-[mx+ny]], [\ , "<mi//>"=m(-1-x)+n(m-1-y)], [\ , "<mi//>"=m(-1-x)+mn+n(m-1-y)-mn], [\ , "<mi//>"=m(n-1-x)+n(-1-y).]
+x-n < 0,
+n > x
+n-x-1 >= 0;
+-y > 0
+-1-y >= 0,
+z
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p
+a^((p-1)//2) -= +-1"\for all\ "a"\not divisible by\ "p.
+n = 13
+n = 13
+p = 7
+p = 11
+p
+a
+p,
+a
+a^((p-1)//2) -= +-1"\ (mod\ "p)
++1
+a
+-1.
+g
+p,
+a -= g^i
+i.
+h = g^((p-1)//2),
+h^2 = g^(p-1) -= 1"\ (mod\ "p).
+g
+h -= 1
+h -= -1.
+a^((p-1)//2) -= (g^i)^((p-1)//2) -= (g^((p-1)//2))^i -= h^i -= (-1)^i.
++1
+i
+-1
+i
+a
+-1
+p
+p -= 1
+4
+(-1)^((p-1)//2) = +1
+(p-1)//2
+p -= 1
+4
+p = 17,
+2
+(p-1)//2 = 8,
+2^8 = 16^2 -= (-1)^2 -= 1"\ (mod\ "17),
+3
+3^8 = 9^4 -= (-8)^4 -= 8^4 -= 16^3 -= (-1)^3 -= -1"\ (mod\ "17),
+3
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p,
+e
+x^3 -= 5"\ (mod\ "17") as\ "3^(3i) -= 3^5 "\ (mod\ "17)
+varphi(17) = 16
+3i -= 5"\ (mod\ "16).
+i
+varphi(p).
+e
+p.
+e
+p.
+p = 29
+26,
+e = 9
+28 = varphi(29)
+a |-> a^9 "\ (mod\ "29).
+28
+a^9 "\ (mod\ "29)
+(a^9)^f -= a"\ (mod\ "29),
+a^(9f) -= a^1 "\ (mod\ "29).
+f
+9.
+9f -= 1"\ (mod\ "28)
+e
+varphi(p) = p-1.
+p-1
+p-1:
+p-1.
+x.
+p
+x
+e
+gcd(e, p-1) = 1.
+m = x^e "\ (mod\ "p).
+p-1
+e,
+f.
+m^f -= x"\ (mod\ "p)
+f
+ef -= 1"\ (mod\ "p-1).
+m^f -= (x^e)^f -= x^(ef) -= x^1 -= x"\ (mod\ "p)
+n
+varphi(n),
+varphi(n).
+gcd(e, p-1) = 1
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n
+p
+varphi(n).
+varphi(n) = (p-1)(q-1)
+p
+q.
+n.
+n,
+varphi(n)
+n.
+2^(32)+1
+2^(32)+1
+n = 2^(32)+1
+n
+e
+varphi(n),
+e
+n,
+e = 71,
+varphi(89*97) = varphi(89) varphi(97) = 88*96 = 8448.
+varphi(n)
+varphi(n),
+e.
+n,
+n
+varphi(n)
+n,
+e
+f
+n
+pq
+e
+n
+varphi(n)
+e
+x
+(n, e),
+x^e "\ (mod\ "n).
+m,
+m^(e^(-1)) = m^f "\ (mod\ "n)
+f
+ef -= 1"\ (mod\ " varphi(n)).
+x
+n.
+ef -= 1"\ (mod\ " varphi(n))
+ef = k varphi(n)+1
+k.
+(x^e)^f = x^(ef) = x^(k varphi(n)+1) = (x^(varphi(n)))^k x^1 -= 1^k x -= x"\ (mod\ "n).
+n = pq
+p'\\x002223'x
+gcd(q, x) = 1,
+p
+(x^e)^f -= x
+q
+(x^e)^f = x^(k varphi(n)+1) = x^(k varphi(p) varphi(q)+1) -= (x^(varphi(q)))^(k varphi(p))x^1 -= x.
+n = pq
+pq'\\x002223'x,
+x -= 0
+f
+ef -= 1"\ (mod\ " varphi(n))
+f
+varphi(n)
+n
+varphi(n)
+varphi(n),
+f.
+p
+q
+n
+e.
+e
+17,
+65537
+3.
+e.
+varphi(n)
+e:
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+sigma_1 = sigma
+sigma(n)
+n
+n,
+C_n
+sigma(n) = C_n*n?
+n
+2.
+sigma(n) > 3n
+sigma(n)
+n = prod_(i=1)^k p_i^(e_i):
+(sigma(n))/n = (prod_(i=1)^k( (p_i^(e_i+1)-1)/(p_i-1) ))/(prod_(i=1)^k p_i^(e_i)) = prod_(i=1)^k(p_i-(1//p_i^(e_i)))/(p_i-1) ~~ prod_(i=1)^k(p_i)/(p_i-1)
+e_i
+p/(p-1) > 1,
+sigma(n)//n
+C,
+sigma(n) > Cn.
+p = 2
+2/(2-1) = 2,
+n = 2^(10)3^(10)
+sigma(n)//n = (2-1//2^(10))/(2-1) * (3-1//3^(10))/(3-1) ~~ 2/(2-1) *3/(3-1) = 3
+sigma(6^(10))
+3*6^(10).
+(2-1//2^(10))/(2-1) * (3-1//3^(10))/(3-1) * (5-1//5)/(5-1) ~~ 2/(2-1) *3/(3-1) *5/(5-1) = 2*3/2*5/4 = 15/4 = 3.75
+C,
+n
+sigma(n) > Cn.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n_i
+gcd(n_i, n_j)
+a_i-a_j
+i
+j,
+x -= a"\ (mod\ "n),
+Ax -= B"\ (mod\ "n).
+A_i x -= B_i "\ (mod\ "N_i)
+x -= a_i
+n_i
+2x -= 2
+5
+5x -= 4
+6
+3x -= 2
+7
+x
+y
+x+y
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p
+p
+(p-1)! -= -1"\ (mod\ "p),
+p = 2
+p != 2,
+p-1
+1
+p-1,
+p = 11
+n
+1 < n < p-1,
+n
+p.
+p-1
+p = 11,
+(2, 6),
+(3, 4),
+(5, 9),
+(7, 8).
+(p-1)
+(p-1)! -= 1*2*3 cdots(p-2)*(p-1) -= 1*a*a^(-1)*b*b^(-1) cdots(p-1)
+-= 1*1*1 cdots 1*(p-1) -= (p-1) -= -1"\ (mod\ "p)
+p = 11,
+10! -= 1*2 cdots 9*10 -= 1*(2*6)*(3*4)*(5*9)*(7*8)*10
+10! -= 1*1*1*1*-1"\ (mod\ "p)
+a^2 -= 1
+p
+p'\\x002223'(a-1)(a+1);
+p
+a -= 1
+a -= p-1.
+1
+p-1,
+p = 10.
+(10-1)!'\\x002262'-1
+10
+p
+gcd(a, p) = 1
+p
+a^(p-1) -= 1"\ (mod\ "p).
+gcd(a, p) = 1
+p
+{a, 2a, 3a, ..., (p-1)a, pa}
+p
+{[a], [2a], [3a], ..., [pa]}
+{[0], [1], [2], ..., [p-1]},
+p
+p
+a,
+a*2a*3a cdots(p-1)a -= 1*2*3 cdots(p-1)"\ (mod\ "p).
+-1.
+2^(37)-1
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+varphi
+n.
+varphi,
+varphi(p^e).
+varphi
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+sum_(k=1)^ oo((-1)^(k+1))/k
+P = {"\primes\ "}
+f(x) = sum_(p<=x) 1/p
+p
+omega
+f(x)
+x
+omega
+f(x).
+sum_(p<=x) 1/p
+sum_(n<=x) omega(n).
+r, s
+b
+b
+y = ax^b
+a in QQ
+b
+1/(zeta(b+1)) .
+b = 2.
+sum_(n=1)^ oo((-1)^(n-1))/(n^s) .
+s > 1.
+eta(s) = sum_(n=1)^ oo((-1)^(n-1))/(n^s)
+eta(s) = (1-2^(1-s)) zeta(s)
+zeta(s)
+eta.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+varphi(p^e).
+varphi(p^e) = p^e-p^(e-1) = [1-1/p]p^e
+p^e
+p^e.
+p^e
+p.
+p
+p^e,
+p^e
+p
+p,
+p
+p^e
+p^(e-1)
+p^(e-1)
+p^e.
+p^e-p^(e-1)
+varphi
+varphi
+gcd(m, n) = 1,
+varphi(mn) = varphi(m)*varphi(n).
+mn
+n
+m
+[1, 2, 3, ..., m], [m+1, m+2, m+3, ..., 2m], [vdots, vdots, vdots, ddots, vdots], [(n-1)m+1, (n-1)m+2, (n-1)m+3, ..., nm]
+U_m,
+km+cc l
+gcd(cc l, m) = 1.
+m,
+varphi(m)
+m.
+ZZ_n.
+cc l
+km+cc l -= k'm+cc l
+n
+cc l
+km -= k'm
+n
+m,
+n.
+k -= k'.
+varphi(n)
+n
+varphi(m) varphi(n)
+n = 15.
+mn
+m
+n
+varphi(m)
+varphi(n)
+m
+n,
+varphi(m) varphi(n)
+mn,
+sum_(d'\\x002223'n) varphi(d) = n.
+n,
+n.
+n = 15.
+sum_(d'\\x002223'n) varphi(d) = n
+{1, 2, 3, ..., n}
+gcd
+n.
+varphi(d)
+gcd,
+n.
+n
+k
+{d_i}_(i=1)^k
+n,
+{a in ZZ'\\x002223'0 <= a <= n-1, gcd(a, n) = 1 = d_1}, ...
+{a in ZZ'\\x002223'0 <= a <= n-1, gcd(a, n) = d_k}.
+d_i
+n.
+i
+{a in ZZ'\\x002223'0 <= a <= n-1, gcd(a, n) = d_i}
+d_i.
+b <= n/(d_i)
+n/(d_i) .
+d_i
+n
+b
+n/(d_i) .
+{b in ZZ'\\x002223'1 <= b <= n//1, gcd(b, n//1) = 1}, ...
+{b in ZZ'\\x002223'1 <= b <= n//n, gcd(b, n//n) = gcd(b, 1) = 1}.
+{b in ZZ'\\x002223'1 <= b <= n//d_i, gcd(b, n//d_i) = 1}
+n = varphi(n)+varphi(n//d_1)+varphi(n//d_2)+cdots+varphi(1).
+n/(d_i)
+d_i
+n
+n,
+n = sum_(d'\\x002223'n) varphi(d)
+varphi
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+a
+n
+a^b
+n
+n = 11
+n = 11
+a^b
+n
+a^b.
+U_p
+p
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n
+U_n
+varphi(n).
+varphi(n) = |U_n|.
+varphi
+phi
+U_1 = {[1]}
+varphi(1) = 1
+gcd(1, 1) = 1,
+varphi(n)?
+varphi(n).
+[a] in U_n
+n
+[2]
+U_7
+[2]^1
+[2]^2
+1,
+[2]^3 -= 8 -= 1
+7
+|U_n|.
+|a|
+|U_n|.
+|a|'\\x002223'varphi(n)", or\ " varphi(n) = k|a|
+k.
+a.
+a^(varphi(n)) = a^(k|a|) = (a^(|a|))^k -= 1^k -= 1"\ (mod\ "n)
+a^(|a|) -= 1
+gcd(a, n) = 1,
+a^(varphi(n)) -= 1
+n
+n = 12
+n = 11
+a
+a = 3
+a = 5.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p -= 1("\mod\ "4)
+kn-1
+(sigma(N)+t)/N
+ax+by = gcd(a, b)
+pi(x)-li(x)
+p
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+{3, 4}.
+n
+n = 3x+4y,
+x
+y.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+varphi(n),
+varphi(n).
+gcd(a, n) = 1,
+a^(varphi(n)) -= 1
+n
+p,
+varphi(p^e)?
+m
+n
+varphi(mn)
+varphi(m)
+varphi(n)?
+n = 15
+m = 16?
+varphi(n)'\\x002223'n?
+varphi(m)'\\x002223'varphi(n)?
+m,
+n
+varphi(n) = m?
+n
+varphi(n)
+f(n) = varphi(n)//n.
+f(n) = 1//2?
+sum_(d'\\x002223'n) varphi(d)
+n
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+pi(x),
+i
+pi(i)
+pi(i)-Li(i)
+pi(i)-sum_(j=1)^3(mu(j))/j Li(x^(1//j))
+100000
+9592
+-36.71
+3.882
+500000
+41538
+-67.50
+7.087
+1000000
+78498
+-129.0
+-31.00
+pi(x).
+1/(8 pi) sqrt(x)log(x).
+Li
+pi
+|pi(x)-Li(x)| <= 1/(8 pi) sqrt(x)log(x)
+zeta(s)
+zeta
+zeta
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p.
+Q_p.
+Q_p
+p
+U_p.
+p
+Q_p
+U_p
+U_p
+1 in Q_p,
+1 -= 1^2.
+a
+b
+Q_p
+a -= s^2
+b -= t^2
+ab
+(st)^2 -= s^2 t^2 -= ab
+a -= s^2 in Q_p,
+s^(-1)
+U_p.
+(s^(-1))^2 a -= (s^(-1))^2 s^2 -= (s*s^(-1))^2 -= 1.
+(s^(-1))^2 = a^(-1),
+a in Q_p
+a^(-1) in Q_p
+Q_p
+U_p
+U_p
+U_p.
+U_p
+p.
+p
+U_(19)
+p,
+g.
+g^(2n) = (g^n)^2,
+g
+a in Q_p
+a = s^2.
+s
+a
+g
+g
+s = g^n
+a = g^m
+n, m.
+a = g^m -= g^(2n)"\ (mod\ "p)'\\x0027f9'm -= 2n"\ (mod\ "p-1).
+m
+p-1
+2n
+p = 11,
+2
+8
+8^1 -= 2^3 "\and\ "2^1 -= 8^7 "\ (mod\ "11).
+Q_p.
+n = ab
+n,
+n
+p
+a
+b
+p
+a
+b
+p.
+p,
+a -= g^i
+b -= g^j
+i, j.
+n = ab -= g^(i+j),
+i+j
+i
+j
+a, b
+n = ab.
+21
+23
+21
+21 -= -2
+23
+-1
+2
+-1
+23 -= 3
+4
+2
+21
+-2
+p.
+-2 -= 9
+11
+-1
+2
+11.
+n = 13
+n = 13
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+a
+b,
+d
+a
+b
+d'\\x002223'a
+d'\\x002223'b.
+d
+a
+b,
+d = gcd(a, b).
+a
+b
+a
+b
+d
+d'\\x002223'a
+d'\\x002223'b.
+a
+b.
+ax+by
+x
+y.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+f(n) = sum_(d'\\x002223'n)g(d),
+g(n) = sum_(d'\\x002223'n) mu(d)f(n/d).
+n
+n.
+mu,
+mu
+tau(n) = sum_(d'\\x002223'n)1 = sum_(d'\\x002223'n)u(n)
+sum_(d'\\x002223'n) mu(d) tau(n/d) = 1.
+mu
+f
+g
+f***g,
+(f***g)(n) = sum_(de=n)f(d)g(e) = sum_(d'\\x002223'n)f(d)g(n/d).
+u(n) = 1
+N(n) = n
+(varphi***u)(n) = sum_(d'\\x002223'n) varphi(d)u(n/d) = sum_(d'\\x002223'n) varphi(d) = n = N(n).
+varphi***u = N
+"If\ "f = g***u", then\ "g = f***mu.
+g(n)
+g
+sum_(d'\\x002223'n) mu(d)f(n/d) = sum_(d'\\x002223'n) mu(d)[sum_(e'\\x002223'n/d)g(e)].
+g(e)
+mu(d).
+d
+e'\\x002223'n/d,
+e'\\x002223'n,
+n/e
+d
+e
+e
+n/d,
+ed'\\x002223'n,
+d'\\x002223'n/e.
+g(e)
+d'\\x002223'n/e,
+mu(d).
+sum_(d'\\x002223'n) mu(d)f(n/d) = sum_(e'\\x002223'n)(sum_(d'\\x002223'n/e) mu(d))g(e).
+n/e = 1,
+sum mu(d) = 0.
+n/e = 1,
+e = n.
+g(n),
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n
+-1 in ZZ,
+ZZ_n
+a
+n
+x
+x^2 -= a"\ (mod\ "n).
+p,
+-1
+p
+p -= 1"\ (mod\ "4).
+f,
+f^2 -= -1"\ (mod\ "p).
+f
+U_p
+f^4 = (f^2)^2 -= (-1)^2 = 1.
+'\\x002223'U_p'\\x002223'=p-1
+p-1.
+p
+4k+1.
+p -= 3"\ (mod\ "4).
+p -= 1"\ (mod\ "4),
+p -= 1"\ (mod\ "4),
+-1
+p.
+f
+f^2 -= -1"\ (mod\ "p).
+(p-1)! -= -1"\ (mod\ "p)"\for primes".
+2
+p-2
+p
+(p-1)! = 1*2*2^(-1)*3*3^(-1) cdots(p-1) -= (p-1) -= -1"\ (mod\ "p).
+1
+p-1,
+1
+p-1
+p
+(p-1)! = 1*(p-1)*2*(p-2)*3*(p-3) cdots(p-1)/2* (p+1)/2 =
+[1*2*3 cdots(p-1)/2]*[(p-1)*(p-2) cdots(p+1)/2].
+(p-1)//2
+1
+p,
+p
+p
+(1*2*3 cdots(p-1)/2)
+f.
+( (p-1)/2)!,
+(p+1)/2 = p- (p-1)/2,
+[1*2*3 cdots(p-1)/2]*[(p-1)*(p-2) cdots(p+1)/2]
+-= f*[-1*-2*-3 cdots- (p-1)/2]
+-= f*(-1)^( (p-1)/2)[1*2*3 cdots(p-1)/2] -= (-1)^( (p-1)/2)f^2.
+p -= 1
+4
+p = 4k+1
+k,
+(p-1)/2 = 2k
+-1 -= f^2 "\ (mod\ "p)
+f = +-( (p-1)/2)!,
+-1
+p -= 3
+4
++-( (p-1)/2)!
+1
+p.
++-1
+p,
+( (p-1)/2)! -= 1,
+( (p-1)/2)! -= -1.
+{a+b(1+sqrt(-p))/2'\\x002223'a, b in ZZ}
+h.
+p > 3
+( (p-1)/2)! -= (-1)^((h+1)//2)"\ (mod\ "p).
+p = 11,
+h = 1
+( (11-1)/2)! = 120 -= -1 = (-1)^((1+1)//2)
+11,
+p = 23
+h = 3
+( (23-1)/2)! = 39916800 -= 1 = (-1)^((3+1)//2)
+23.
+p -= 1
+4
+p = 5
+2.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n
+p > n.
+n > 0
+p_1, p_2, ..., p_n.
+N
+N+1
+N+1.
+N+1
+N+1
+p.
+p
+p_i
+p
+N
+N+1,
+1
+p
+N
+n,
+n > 1
+p <= sqrt(n).
+n
+n = de
+d
+e
+1
+n.
+d, e > sqrt(n),
+n = de > (sqrt(n))^2 = n,
+2, 3, 5,
+7,
+sqrt(100) < 11.
+n
+n!^(n!^(n!))-1.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+a in U_n
+n
+a^b
+U_n
+1 <= b <= varphi(n).
+n,
+U_n.
+n = 10
+n = 10
+n
+gcd(a, n) = 1.
+a
+n
+a^b
+U_n.
+a
+n
+a
+varphi(n).
+U_n
+a
+k
+a
+a^k -= 1
+n
+a^b'\\x002262'1
+1 <= b < k.
+n in{5, 7, 8, 9, 10, 12, 14, 15},
+U_n.
+U_n
+n in{5, 7, 8, 9, 10, 12, 14, 15}:
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+a
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n = ab
+n,
+n
+p
+a
+b
+p
+a
+b
+p.
+( (ab)/p) = (a/p)(b/p)
+(8/19).
+(8/19) = (4/19)*(2/19).
+4
+1*-1 = -1,
+x^2 -= a
+n
+x^2 -= a+n
+n
+( (a+p)/p) = (a/p)
+(62/19)?
+(62/19) = ( (62-19-19-19)/19) = (5/19)
+(62/19) = ( (62+19)/19) = (81/19)
+81
+1.
+(55/17)
+(83/17)
+(45/17)
+(41/31)
+(27/31)
+(22/31)
+p > 5.
+1, 4, 9
+2, 5, 10
+p = 5
++-1
+p = 7,
+a = 1
+a = 9 -= 2
+p > 7
+2, 5, 10
+(10/p) = (2/p)(5/p) = (-1)(-1) = 1
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n = 12.
+n = 8
+k > 2,
+U_(2^k)
+varphi(2^k) = 2^(k-1),
+2^(k-2).
+n = 2^k
+k > 2.
+n = 2
+n = 4,
+n = 8
+U_8
+2^(3-2) = 2,
+a^2 -= 1
+8
+a in U_8.
+n = 8 = 2^3
+k >= 3.
+n = 2^k
+2^(k-2).
+a^(2^(k-2)) -= 1"\ (mod\ "2^k).
+a,
+a^(2^(k-2)) = 1+2^k*m
+m.
+2^(k+1).
+a^(2^((k+1)-2)) = a^(2^(k-1)) -= 1"\ (mod\ "2^(k+1)).
+2^(k+1)
+2^k,
+a^(2^(k-1))
+a^(2^(k-2))
+(a^(2^e))^2 = a^(2^(e+1)).
+a^(2^(k-1))
+a^(2^(k-1)) = (a^(2^(k-2)))^2 = (1+2^k m)^2 = 1+2^(k+1)m+2^(2k)m^2
+= 1+2^(k+1)(m+2^(k-1)m^2) -= 1"\mod\ "2^(k+1)
+varphi,
+2^k
+k > 2.
++-5
+2^(k-2)
+U_(2^k).
+p
+a
+p
+d.
+b
+d
+a^b
+d
+p.
+p
+d
+p-1
+U_p
+varphi(d)
+p
+d
+p.
+n,
+varphi(varphi(n))
+n = p
+a
+p-1.
+a
+p,
+a^b
+b
+p-1.
+varphi(p-1)
+U_(2^k)
+n = 32
+b
+8
+p
+varphi(8) = 4
+a
+8
+n = 32
+n
+U_(32),
+32.
+8+1+8 > 16 = |U_(32)|.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+(j-2)!
+varphi(n, a)
+n
+10
+100
+a = 2, 3, 4
+varphi(n).
+f(x)
+g(x)
+x -> oo,
+f(x)
+g(x),
+f
+g
+f(x)
+g(x)
+x -> oo,
+f
+g
+lim_(x->oo) pi(x)//Li(x) = 1,
+x//log(x)
+f(x)
+g(x)
+f(x)
+O(g(x))
+g(x)
+O(f(x)),
+lim_(x->oo) pi(x)//x = 0.
+n > 1000
+(log(2)+1)/(log(n)) < 2/(log(2)+log(n)) = 2/(log(2n))
+2log(n)
+(log(2)+1)(log(2)+log(n))
+n = 1000
+f(x_0) > g(x_0)
+f' > g'
+x >= x_0,
+f > g
+x >= x_0
+3.394 n/(log(n)) < (4n)/(log(2n+1))
+n > 1000.
+(log(n))/(log(2n+1))
+n/(log(n))
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+3^e
+5^f.
+(sigma(n))/n = prod_(i=1)^k(p_i-1//p_i^(e_i))/(p_i-1) < prod_(i=1)^k(p_i)/(p_i-1)
+n
+p_i^(e_i).
+k = 1
+2 = (sigma(n))/n < p/(p-1) .
+p = 2,
+2 < p//(p-1)
+3^e
+5^f.
+3
+(p_1)/(p_1-1) * (p_2)/(p_2-1) * (p_3)/(p_3-1)
+5/4*7/6*11/10 = 77/48
+2.
+5
+3
+n
+sigma(n)
+n
+n
+sigma
+sigma(n)
+1+p+p^2+cdots+p^e
+sigma(n)
+e+1
+e
+p
+n".,"
+5/3
+N,
+5N
+N.
+3 sigma(N) = 5N.
+3'\\x002223'N.
+N
+6'\\x002223'N,
+sigma_(-1)(N) >= sigma_(-1)(6) = 2 > 5/3,
+N
+N
+3 sigma(N) = 5N
+sigma(N)
+3'\\x002223'N
+3^2'\\x002223'N.
+5'\\x002224'N,
+sigma_(-1)(N) >= sigma_(-1)(3^2*5) = 26/15 > 5/3
+sigma_(-1)(5N) = sigma_(-1)(5) sigma_(-1)(N) = 6/5 5/3 = 2!
+10^(1500).
+10^(2000)
+10^(2100).
+10^8.
+10000.
+0.6
+0.7.
+2 xx 10^(-150)
+0.0205.
+n
+n -= 1"\mod\ "12
+n -= 9"\mod\ "36.
+p^e m^2,
+m
+p
+p
+e
+-= 1"\ (mod\ "4).
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+K.
+K.
+p > K.
+m_1 < m_2 < m_3
+p,
+gcd(m_i, m_j) = 1
+gcd(m_i, p) = 1.
+m_1 m_2 > pm_3
+M = m_1 m_2.
+t < M//p
+K_0 = K+tp
+i
+k_i = K_0 "\ (mod\ "m_i)
+K_0
+m_i m_j
+k_i
+k_j.
+m_i m_j.
+M = m_1 m_2 > pm_3,
+M//p > m_3
+M//p > m_i
+K_0 = K+tp < p+tp = (t+1)p <= (M//p)p = M
+K_0 < M,
+K_0 < m_i m_j,
+M
+K_0
+K = K_0-tp!
+K,
+K_0 -= k_i "\ (mod\ "m_i),
+K_0 = k_i+cc l m_i
+cc l
+m_i.
+K = 5.
+p = 13,
+17, 19, 16.
+m_1 m_2 > pm_3:
+M = 17*19 = 323,
+t = 12
+M//p = 323//13 = 20 11/13.
+K_0 = K+tp = 5+12*13 = 161:
+k_i,
+K_0
+m_i.
+8, 9, 1
+17, 19, 16.
+K.
+tp
+K_0.
+n
+k
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+pi
+x
+log(p)
+p.
+p
+Theta(x) = sum_(p<=x)log(p).
+lim_(x->oo) (pi(x))/(x//log(x)) = 1.
+Theta:
+lim_(x->oo) (Theta(x))/x = 1
+1.
+Li
+x//log(x)
+Li
+Theta(x)//x
+1.
+Theta(x).
+Theta(x)
+|__x__|
+x.
+a(n)
+a(n) = {[1, "\if\ "n"\is prime"], [0, "\otherwise\ "]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>.
+a(n) = pi(n)-pi(n-1).
+pi
+a
+m = |__x__|.
+a(n):
+pi(x) = sum_(n=1)^m a(n)"\and\ " Theta(x) = sum_(n=1)^m a(n)log(n).
+Theta
+pi.
+Theta
+log(1) = 0
+Theta(x) = sum_(1<=n<=x)a(n)log(n) = sum_(n=1)^m a(n)log(n) =
+sum_(n=2)^m[pi(n)-pi(n-1)]log(n) = sum_(n=2)^m pi(n)log(n)-sum_(n=1)^(m-1) pi(n)log(n+1)
+Theta(x) = sum_(n=2)^(m-1) pi(n)[log(n)-log(n+1)]+pi(m)log(m)-pi(1)log(2).
+Theta
+-(log(n+1)-log(n)) = -int_n^(n+1) dt/t.
+pi(x)
+[|__x__|, x],
+[n, n+1),
+n
+n+1.
+pi(1) = 0,
+Theta(x) = -sum_(n=2)^(m-1)[pi(n) int_n^(n+1) dt/t]+pi(m)log(m)
+= -sum_(n=2)^(m-1)[pi(n) int_n^(n+1) dt/t]+pi(m)log(m)-pi(x)log(x)+pi(x)log(x)
+= -int_2^m(pi(t)dt)/t+pi(x)log(x)-int_m^x(pi(t)dt)/t = pi(x)log(x)-int_2^x(pi(t)dt)/t.
+Theta
+Theta(x) = pi(x)log(x)-int_2^x(pi(t)dt)/t
+x:
+(Theta(x))/x = (pi(x)log(x))/x- (int_2^x(pi(t))/t dt)/x.
+lim_(x->oo)
+pi(x)
+lim_(x->oo) (Theta(x))/x
+lim_(x->oo) 1/x int_2^x(pi(t))/t dt = 0.
+(pi(t))/t
+1/(log(t))
+1/x int_2^x(pi(t))/t dt"\and\ " 1/x int_2^x dt/(log(t))
+1//log(t)
+1//log(t)
+1/(log(2)) (sqrt(9)-2)
+1/(log(sqrt(9))) (9-sqrt(9)).
+sqrt(9) = 3
+int_2^x dt//log(t)
+1/(log(2)) (sqrt(x)-2)+1/(log(sqrt(x))) (x-sqrt(x))
+x -> oo
+1/x
+1/x(1/(log(2)) (sqrt(x)-2)+1/(log(sqrt(x))) (x-sqrt(x)))
+= 1/(log(2)x^(1//2)) -2/(xlog(2)) +1/(log(sqrt(x))) -1/(log(sqrt(x))x^(1//2))
+= 1/(log(2)x^(1//2)) -2/(xlog(2)) +2/(log(x)) -2/(log(x)x^(1//2))
+x
+x -> oo.
+1//x
+(theta(x))/x
+(pi(x))/(x//log(x)) ,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+6/(pi^2) ;
+f(n) = |mu(n)|
+zeta(s)//zeta(2s);
+varphi(n)
+(3n)/(pi^2) ;
+\ sum_(n=1)^ oo 1/(p_n)
+p_n
+n
+n = 5
+0.66,
+x
+y
+d
+(x/d, y/d)
+(x, y)
+d = gcd(x, y),
+6/(pi^2) .
+gcd(x, y) = 1
+x
+y
+p,
+p.
+p,
+p,
+1/p*1/p.
+p
+x
+y
+p
+1-1/p*1/p = 1-1/(p^2) = 1-p^(-2).
+p != q
+p
+q.
+n
+n
+prod_p(1-p^(-2)) = 1//prod_p 1/(1-p^(-2)) = 1//zeta(2) = 6/(pi^2) .
+mu
+s = 2.
+zeta(3).
+|mu(n)|
+zeta(s)//zeta(2s).
+lambda
+sum_(n=1)^ oo(|mu(n)|)/(n^s) = prod_p(1+1/(p^s) ).
+x = 1/(p^s) ;
+(1+x) = (1-x^2)/(1-x)
+prod_p(1+1/(p^s) ) = (prod_p(1-1/(p^(2s)) ))/(prod_p(1-1/(p^s) )) .
+(prod_p(1-1/(p^(2s)) ))/(prod_p(1-1/(p^s) )) = (prod_p1//(1-1/(p^s) ))/(prod_p1//(1-1/(p^(2s)) ))
+zeta(s)//zeta(2s).
+f(n)|mu(n)|
+f;
+p_n
+n
+sum_(n=1)^ oo 1/(p_n)
+k
+T = sum_(n>k) 1/(p_n) .
+p_1 p_2 p_3 cdots p_k r+1 = p_k#*r+1
+k
+p_k#*r+1
+p_(n_1)p_(n_2) cdots p_(n_cc l),
+n_i > k
+p_k#*r+1
+cc l
+cc l
+T^cc l = (sum_(n>k) 1/(p_n) )^cc l = 1/(p_1 p_2 p_3 cdots p_k r+1) +cdots.
+k,
+T
+1/2,
+T = sum_(n>k) 1/(p_n) < 1/2.
+T > 0
+cc l
+T
+0 <= sum_(cc l=1)^ oo T^cc l = sum_(cc l=1)^ oo(sum_(n>k) 1/(p_n) )^cc l <= sum_(cc l=1)^ oo 1/(2^cc l) = 2.
+1/(p_1 p_2 p_3 cdots p_k r+1)
+cc l
+cc l
+r.
+0 < sum_(r=1)^ oo 1/(p_1 p_2 p_3 cdots p_k r+1) <= sum_(cc l=1)^ oo(sum_(n>k) 1/(p_n) )^cc l <= 2.
+k.
+sum_(r=1)^ oo 1/(p_1 p_2 p_3 cdots p_k r+1) > sum_(r=1)^ oo 1/(p_1 p_2 p_3 cdots p_k r+p_1 p_2 p_3 cdots p_k)
+= 1/(p_1 p_2 p_3 cdots p_k) sum_(r=1)^ oo 1/(r+1)
+k
+k
+T
+varphi
+phi
+varphi
+3/(pi^2) x
+tau
+sigma
+sum_(n=1)^ oo(mu(n))/(n^2) = 1/(zeta(2)) = 6/(pi^2)
+varphi = mu***N => varphi(n) = sum_(d'\\x002223'n) mu(d) n/d
+varphi.
+varphi
+lim_(n->oo) (1/n sum_(k=1)^n varphi(k))/(3/(pi^2) n) = 1
+varphi,
+sum_(k=1)^n varphi(n).
+sum_(k=1)^n varphi(k) = sum_(k=1)^n sum_(d'\\x002223'k) mu(d) k/d
+k,
+xy = k.
+sum_(k=1)^n sum_(d'\\x002223'k) mu(d) k/d = sum_(d=1)^n mu(d)(sum_(k=1)^(|__ n/d__|)k)
+(sum_(k=1)^(|__ n/d__|)k) = 1/2(n/d)^2+O(n/d).
+sum_(k=1)^n varphi(n) = 1/2 n^2 sum_(d=1)^n(mu(d))/(d^2) +nO(sum_(d=1)^n(mu(d))/d).
+6/(pi^2)
+n -> oo.
+O(1//n),
+mu(n)//n^2 < 1//n^2
+int x^(-2)dx = -x^(-1).
+O(nlog(n)),
+n
+O(log(n))
+zeta
+sum_(k=1)^n varphi(n) = 1/2 n^2 6/(pi^2) +O("\stuff less than\ "n^2)
+n
+lim_(n->oo) (1/n sum_(k=1)^n varphi(n))/(3/(pi^2) n)
+= lim_(n->oo) (1/2(n^2)/n 6/(pi^2) +1/n O("stuff less than\ "n^2))/(3/(pi^2) n)
+= lim_(n->oo) (3/(pi^2) n+O("\stuff less than\ "n))/(3/(pi^2) n) = 1.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+4k+1
+N
+4k+1
+2
+442 = 2*13*17 = (1^2+1^2)(3^2+2^2)*17
+= [(1*3-1*2)^2+(1*2+1*3)^2](4^2+1^2)
+= (1^2+5^2)(4^2+1^2) = (1*4-5*1)^2+(1*1+5*4)^2 = 1^2+21^2.
+N
+4k+3
+N
+p^2
+p
+p^2 = p^2+0^2.
+P
+4k+3,
+P = Q^2,
+N//Q^2 = a^2+b^2,
+Q^2
+4k+3
+(aQ)^2+(bQ)^2.
+35802 = 442*3^4 = (1^2+21^2)3^2*3^2
+= 1^2*3^2*3^2+21^2*3^2*3^2 = 9^2+189^2
+N
+4k+3.
+N
+p = 4k+3,
+N = a^2+b^2.
+p
+N,
+a,
+b
+M = c^2+d^2
+p
+N = Mp^cc l
+N
+p,
+M
+p
+p'\\x002224'c, d.
+p
+0 -= c^2+d^2 "\ (mod\ "p).
+p'\\x002224'c,
+(c^(-1))^2
+0 -= 1+(c^(-1))^2 d^2 => -1 -= (c^(-1)d)^2 "\ (mod\ "p)
+-1
+p
+p = 4k+3,
+21 = 7*3
+n
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+P,
+ZZ,
+ZZ_n,
+n.
+**
+S
+S xx S
+S.
+S
+RR,
+f@g.
+QQ
+QQ,
+S
+2^((2^3)) = 2^8 = 256"\but\ "(2^2)^3 = 4^3 = 64.
+a+0 = a = 0+a"\and\ "a*1 = a = 1*a.
+**
+S
+e,
+**
+e**a = a = a**e
+a in S.
+e
+90R
+90L,
+90R**90L = e,
+a
+S
+a'
+a**a' = e = a'**a,
+a'
+a.
+n,
+-n,
+QQ
+RR, QQ, ZZ
+RR
+QQ
+RR'\\x002216'{0}
+QQ'\\x002216'{0},
+ZZ_n
+[0]
+ZZ_3,
+[0]' = [0],
+[1]' = [2],
+[2]' = [1],
+[0]+[0] = [0] = [1]+[2].
+G.
+**,
+x**y = xy.
+QQ'\\x002216'{0}
+1
+ZZ_n?
+ZZ_3,
+[1]
+[2]
+ZZ_3'\\x002216'{[0]}
+QQ'\\x002216'{0}.
+ZZ_4,
+[0]
+[2]
+ZZ_4'\\x002216'{[0]}
+a**x = b"\is solved by\ "x = a'**b\ ( = a^(-1)**b).
+RR,
+a+x = b
+a, b.
+x = (-a)+b,
+-a
+a
+ZZ_n,
++,
+a+x -= b
+n
+x -= ((-a)+b)
+n
+ab
+b^(-1)a^(-1).
+b^(-1)
+a^(-1)
+(b^(-1))(a^(-1))
+ab*x = 1,
+(b^(-1)a^(-1))(ab)x = (b^(-1)a^(-1))*1 = b^(-1)a^(-1);
+(b^(-1)a^(-1))(ab)x = (b^(-1))(a^(-1)a)bx = (b^(-1)*1*b)x = 1*x = x,
+x = b^(-1)a^(-1).
+ab*x -= 1
+ZZ, QQ, RR,
+[0], [1], [2]
+3
+G,
+|G|
+ZZ_3,
+|ZZ_3| = 3.
+[1] in ZZ_3.
+[1]
+[1]+[1]+[1] -= [0]"\ (mod\ "3")."
+G
+|G| = n.
+{e = x_1, x_2, ..., x_n}
+x,
+x, x**x = x^2, x^3, ....
+ZZ_n
++
+x^(n+1)
+n+1
+n
+x^s = x^t,
+s < t.
+x,
+x^(-1).
+s
+(x^(-1))^s
+x^(-s).
+x^s = x^t
+x^(-s);
+x^(-s)x^s = x^(-s)x^t ", or\ "e = x^(t-s).
+k
+x^k = e.
+x in G,
+k
+x^k = e
+x.
+|x|,
+ZZ_6,
+[4].
+[4]+[4]+[4]+[4]+[4]+[4] -= [0]"\mod(6), but\ "[4]+[4]+[4] -= [0]"\mod(6) too".
+6
+[4],
+3
+[4]
+[0].
+|[4]| = 3.
+x in G.
+x
+m,
+m
+G,
+{x, x^2, x^3, ..., x^(m-1), e}.
+y,
+{xy, x^2 y, x^3 y, ..., x^(m-1)y, ey = y};
+x
+x^s y
+x^t.
+x^s y = x^t,
+x^(-t)
+x^(s-t)y = e
+y = x^(t-s),
+y
+x.
+z
+{xz, x^2 z, x^3 z, ..., x^(m-1)z, ez = z}
+G
+G
+x
+G
+|x|'\\x002223'|G|
+G,
+m,
+G,
+n.
+m
+n
+[4] in ZZ_6
+ZZ_6
+|[4]|'\\x002223'|ZZ_6|.
+G
+|G| = n
+x in G
+x
+|x| = n
+G
+x^n = e.
+n
+G,
+ZZ_n
+[1],
+n.
+ZZ_6,
+[1]+[1]+[1]+[1]+[1]+[1] -= [0]"\and\ "[5]+[5]+[5]+[5]+[5]+[5] -= [0].
+[2] -= [1]+[1] -= [5]+[5]+[5]+[5]
+ZZ_n
+[1]+[2] = [2]+[1],
+(ab)^(-1) = a^(-1)b^(-1).
+a**b = b**a
+a, b in G,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+ZZ
+NN
+S = {x in ZZ'\\x002223'0 < x < 1}.
+a,
+0 < a < 1.
+a
+0 < a^2 < a.
+a^2
+0 < a^2 < 1,
+a in S,
+a^2 < a.
+a^2
+S
+S.
+S
+n
+n = 1.
+n = 1
+n = 0
+n = k
+n = k+1.
+n >= 1.
+sum_(i=1)^n i = (n(n+1))/2
+1 = (1(1+1))/2,
+sum_(i=1)^k i = (k(k+1))/2
+k
+k+1.
+k+1
+sum_(i=1)^(k+1)i = sum_(i=1)^k i+(k+1)
+sum_(i=1)^k i+(k+1) = (k(k+1))/2+(k+1) = (k+1)(k/2+1) = ((k+1)(k+2))/2
+sum_(i=1)^(k+1)i = ((k+1)(k+2))/2.
+omega+omega,
+n
+kd = n
+k
+d,
+d
+n,
+n
+d,
+d
+n.
+d'\\x002223'n
+d
+n.
+n
+2'\\x002223'n.
+n = 8
++-1, +-2, +-4, +-8.
+n'\\x002223'x+1
+x+1
+n
+m.
+n
+n.
+n = 8,
+1,
+2,
+4
+4'\\x002223'5^n-1
+n >= 0.
+n = 0.
+n = 0
+5^0-1 = 1-1 = 0,
+4'\\x002223'5^k-1.
+5^k-1 = 4x
+x.
+5^k = 1+4x
+4'\\x002223'5^(k+1)-1.
+5^(k+1)-1,
+5^(k+1)
+5^(k+1) = 5^k*5.
+5^k*5 = (1+4x)*5;
+5^(k+1)-1 = 5(1+4x)-1 = 20x+4.
+20x+4
+4'\\x002223'5^(k+1)-1,
+a'\\x002223'b
+b'\\x002223'c
+a'\\x002223'c.
+a'\\x002223'b
+ca'\\x002223'cb.
+c'\\x002223'a
+c'\\x002223'b
+c'\\x002223'au+bv
+u, v.
+n > 0
+n
+n.
+b = ka
+k in ZZ,
+cb = c(ka) = c(ak) = (ca)k.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+ZZ_p,
+p,
+a = 2
+p = 7,
+a
+0, 2, 4, 1
+2^0 = 1
+2^3 = 8 -= 1.
+a^n
+p
+p
+a.
+p,
+a -= a'
+p
+0 <= a < p.
+n = 11
+n = 11
+a
+b
+a^b "\ (mod\ "p),
+0
+a^0 = 1,
+1
+a^1 = a
+ZZ_p.
+3^4 -= 4
+7
+4.
+a^b
+p
+p
+a
+b,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+21x+14y = 147
+21x+14y = 146
+30x+47y = -11
+30x+47y = 2
+4x-6y = 77
+4x-6y = 78
+a = b = 0.
+[x, "<mi//>"+y, "<mi//>"+, z, "<mi//>"=, 100], [x, "<mi//>"+8y, "<mi//>"+, 50z, "<mi//>"=, 156]
+6x+9y = c
+c
+ax+by = c
+c
+ax+by = c
+gcd(a, b) != 1
+a'x+b'y = c'
+gcd(a', b') = 1,
+x^4+y^4 = z^4
+x, y, z.
+x, y, z
+x, y
+y,
+y
+x, y, z
+x, y, z
+x^2+y^2 = z^2.
+x^2-xy+y^2 = z^2.
+m^n = n^m
+m != n.
+gcd(x,y)^2 = gcd(x^2, xy, y^2)
+gcd(a, b, c) = gcd(gcd(a, b), c).
+a, b > 0
+k.
+k-1
+ax+by = kab,
+k
+ax+by = kab-1.
+b > a
+( (b^2-a^2)/2, ab, (b^2+a^2)/2)
+2676
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n = prod_(i=1)^k p_i^(e_i),
+f(x) -= 0
+2*1*3 = 6
+105 = 3*5*7.
+n,
+n_1, n_2, cdots, n_k
+k
+f(x)
+N_i
+f(x) -= 0"\ (mod\ "n_i).
+f(x) -= 0\ ("mod\ " prod_(i=1)^k n_i)"\has\ " prod_(i=1)^k N_i "\total solutions."
+i,
+N_i
+i
+a_i,
+f(a_i) -= 0"\ (mod\ "n_i).
+n_i
+a
+a -= a_i
+n_i
+i.
+f(a) -= f(a_i) -= 0
+n_i
+f(a) -= 0("mod\ " prod_(i=1)^k n_i).
+a_i
+{a_i}_(i=1)^k != {b_i}_(i=1)^k
+a_j'\\x002262'b_j
+n_j
+prod_(i=1)^k n_i
+n_i
+N_i
+n_i,
+prod_(i=1)^k N_i.
+prod_(i=1)^k n_i'\\x002223'f(a),
+n_i'\\x002223'f(a)
+4x -= 1"\ (mod\ "7)
+x = [2]
+49
+343
+4x-1 -= 0,
+7'\\x002223'1-4*2
+7
+(1-4*2)/7 -= 4k"\ (mod\ "7).
+-1 -= 4k
+7
+k -= 5
+7
+4x -= 1
+7^2
+2+7k = 2+7*5 = 37"\ (mod\ "7^2)
+p
+e >= 2,
+x_(e-1)"\ (mod\ "p^(e-1))
+f(x) -= 0"\ (mod\ "p^(e-1))
+gcd(p, f'(x_(e-1))) = 1.
+f(x) -= 0"\ (mod\ "p^e)
+x_e = x_(e-1)+kp^(e-1)
+k
+(f(x_(e-1)))/(p^(e-1)) +k*f'(x_(e-1)) -= 0"\ (mod\ "p).
+p
+f'(x_(e-1))
+f'(x_(e-1))k -= b"\ (mod\ "p)
+a = f'(x_(e-1)),
+k,
+b
+p,
+gcd
+x_(e-1)
+f(x)
+p^(e-1),
+p^(e-1)'\\x002223'f(x_(e-1)).
+- (f(x_(e-1)))/(p^(e-1))
+ZZ,
+b = - (f(x_(e-1)))/(p^(e-1))
+k
+(f(x_(e-1)))/(p^(e-1)) +k*f'(x_(e-1)) -= 0"\ (mod\ "p).
+x_e = x_(e-1)+kp^(e-1)
+f(x) -= 0"\ (mod\ "p^e).
+f
+c_i x^i,
+f(x) = sum_(i=0)^n c_i x^i.
+f(x_(e-1)+kp^(e-1))
+f(x_e) = f(x_(e-1)+kp^(e-1)) = sum_(i=0)^n c_i(x_(e-1)+kp^(e-1))^i.
+c_i(x_(e-1)+kp^(e-1))^i = c_i x_(e-1)^i+c_i(x_(e-1)^(i-1)*kp^(e-1))*i+"\terms with at least\ "p^((e-1)2).
+e >= 2
+p^((e-1)2)
+p^e
+c_i x_(e-1)^i+c_i*ix_(e-1)^(i-1)*kp^(e-1)"\ (mod\ "p^e).
+i
+f(x_e).
+c_i x_(e-1)^i
+f(x_(e-1)),
+ix_(e-1)^(i-1)
+c_i*ix_(e-1)^(i-1)*kp^(e-1)
+f'(x_(e-1))*kp^(e-1).
+f(x_e) -= f(x_(e-1))+f'(x_(e-1))*kp^(e-1)"\ (mod\ "p^e).
+p^(e-1)'\\x002223'f(x_(e-1)),
+p^(e-1)'\\x002223'f'(x_(e-1))*kp^(e-1)
+p^e;
+p^(e-1)'\\x002223'f(x_e)
+f(x_e)//p^(e-1) -= (f(x_(e-1)))/(p^(e-1)) +f'(x_(e-1))*k"\ (mod\ "p);
+p
+f(x_e)//p^(e-1) -= 0"\ (mod\ "p).
+p^(e-1)
+f(x_e) -= 0"\ (mod\ "p^e)
+p
+x^2+1 -= 0"\ (mod\ "5)
+25
+125.
+5
+[2], [3]
+[+-2]
+x^2+1 -= 0"\ (mod\ "25).
+3+k*5
+2+k*5.
+f'(x) = 2x,
+x_1 = 3.
+k
+(f(x_1))/5+k*(2x_1) -= 0"\ (mod\ "5)
+2+6k -= 0,
+k -= -2 -= 3.
+25
+x_2 = x_1+3*5 -= 3+3*5 -= 18"\ (mod\ "25)
+18^2+1 = 325
+x_1 = 2
+x_2 -= 7
+e = 3.
+x_2 -= 7
+k,
+(7^2+1)/25+2*7k -= 0"\ (mod\ "5).
+14k -= -2"\ (mod\ "5),
+k = 2.
+x_3 = x_2+2*5^2 -= 7+2*5^2 = 57
+57^2+1 = 3250 -= 0"\ (mod\ "125).
+x_1 = 18
+x_e = x_(e-1)- (f(x_(e-1)))/(f'(x_(e-1)))
+p^(e-1)'\\x002223'f(x_(e-1))
+f'(x_(e-1))
+gcd(p, f'(x_(e-1))) != 1,
+p'\\x002223'f'(x_(e-1)),
+(f(x_(e-1)))/(p^(e-1)) +k*f'(x_(e-1)) -= 0"\ (mod\ "p)
+p'\\x002223' (f(x_(e-1)))/(p^(e-1))
+p^e'\\x002223'f(x_(e-1))
+k
+x_e = x_(e-1)+kp^(e-1)
+f(x) = 4x-1
+f'(x) = 4
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+tau
+n = 100.
+tau,
+tau,
+tau
+tau
+n
+n
+tau(n),
+tau
+tau
+tau(n)
+n,
+sqrt(x) = x^(1//2),
+n
+sqrt(n).
+sqrt(n) < d < n
+n/d
+1 = n/n < n/d < n/(sqrt(n)) = sqrt(n).
+n
+d
+sqrt(n)
+n/d > sqrt(n)
+n,
+tau(n) = 2|__sqrt(n) __| <= 2sqrt(n)
+tau(n)
+O(sqrt(n)).
+n = 24
+(1, 24),
+(2, 12),
+(3, 8),
+(4, 6),
+2*|__sqrt(24) __| = 8
+tau.
+1/n sum_(k=1)^n tau(k) <= 1/n sum_(k=1)^n 2sqrt(k).
+k = n(k//n):
+1/n sum_(k=1)^n tau(k) <= sum_(k=1)^n 1/n 2sqrt(n(k//n)).
+x = k//n
+Delta x = 1/n.
+int_0^1 x^2 dx
+1/n(1/n)^2+1/n(2/n)^2+cdots+1/n(n/n)^2.
+2sqrt(nx)
+sum_(k=1)^n 1/n 2sqrt(n(k//n)) ~~ int_0^1 2sqrt(nx)dx = 2sqrt(n) int_0^1 sqrt(x)dx = 4/3 sqrt(n).
+tau
+O(sqrt(n))
+C = 4//3.
+1/n sum_(k=1)^n 2sqrt(k) = sum_(k=0)^(n-1)(1/n)2sqrt(k+1) = sum_(k=0)^(n-1)(1/n)2sqrt(n(k//n)+1) <= int_0^1 2sqrt(nx+1)dx
+4/3 sqrt(n)[(1+1/n)^(3//2)-(1/n)^(3//2)].
+n
+2
+n = 1
+8/3 sqrt(n).
+1/n sum_(k=1)^n tau(k) <= 1/n sum_(k=1)^n 2sqrt(k) <= 8/3 sqrt(n)
+sqrt(n)
+O(sqrt(n)).
+tau
+C
+sqrt(n).
+x^(1//3)
+tau(n) = O(root(3)(n)).
+tau
+p,
+tau(p^x) = x+1
+(p^x)^(1//3) = p^(x//3),
+x.
+x = 0?
+x = 0
+p >= 23.
+p
+23
+x_p
+x_p.
+tau
+O(x^(1//3)).
+x^(1//2)
+x^(1//3)
+x^(1//n)
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n
+n
+n
+n
+n
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+a'\\x002262'0
+p
+p
+x^2 -= a
+p
+a
+p
+x^2 -= a
+p
+a
+p.
+a
+p,
+a
+[a]
+0^2 = 0
+p
+x^2 -= 2
+p
+p?
+2
+a^2-2b^2.
+a^2+nb^2
+t^2+au^2,
+a = 1
+y^2+z^2
+4n+1.
+t^2-au^2
+a = 2,
+4an+b,
+a = 2,
+8n+-1
+a^2+b^2,
+a^2+2b^2,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p
+D(N) = prod_(p<=N)(1-1/p)
+D(3) = (1-1//2)(1-1//3) = (1/1-1/2-1/3+1/6).
+D
+N.
+mu
+mu
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+ax -= b
+n
+ax -= b"\ (mod\ "n)
+gcd(a, n)'\\x002223'b.
+7x -= 8
+15
+6x -= 8
+15
+7x -= 8
+14
+6x -= 8
+14
+x
+ax -= b
+n
+x
+n'\\x002223'ax-b
+x
+ax-b = ny
+y in ZZ
+x, y
+ax-ny = b
+gcd(a, n)'\\x002223'b.
+ax -= b
+n
+d = gcd(a, n).
+y
+x_0, y_0
+ax-ny = b.
+x
+k
+n
+x_0+n/d k\ k in ZZ "\where\ "d = gcd(a, n).
+n
+k
+d-1
+12x -= 15"\ (mod\ "21).
+gcd(a, n) = 3
+21
+n/d = 21/3 = 7.
+12(1) = 12'\\x002262'15,
+12(2) = 24 -= 3'\\x002262'15,
+12(3) = 36 -= 15
+21
+x = 3
+x_0.
+7
+21
+x = [3], [10], [17]
+x = [3], [10], [-4]
+3+7k, k in ZZ
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p -= 1
+4
+S = {(x, y, z) in NN^3'\\x002223'x^2+4yz = p}
+(x, y, z) -> {[(x+2z,z,y-x-z), "if\ "x<y-z], [(2y-x,y,x-y+z), "if\ "y-z<x<2y], [(x-2y,x-y+z,y), "if\ "x>2y]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+|S|
+(x, y, z) -> (x, z, y)
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n > 0,
+sigma_k(n)
+k
+n,
+sigma_k(n) = sum_(d'\\x002223'n)d^k.
+sigma_1
+sigma_0
+sigma_0(n)
+tau(n),
+d(n).
+sigma_1(n)
+sigma(n),
+int n
+sigma_1
+n
+n
+sigma_0
+n.
+n
+sigma_k
+k
+n
+sigma_0(n) = tau(n)
+n
+n?
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+ax+b
+(5, 6, 29)
+ax+b
+n
+26 < p < 50
+e
+p,
+ef -= 1
+p-1
+p = 7387543,
+e?
+e = 35.
+(n, e)
+f?
+n = 9211
+e = 539.
+f
+f
+p
+q
+e
+n > 10000;
+(n, e)
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+x^2+y^2 = n
+x^2+y^2 = n
+sqrt(n),
+x^2+2y^2 = n
+x^2+2y^2 = n
+n = 3, 5
+x^3 = y^2+2
+x^2+2y^2 = 9
+x^2-2y^2 = 1
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n
+U_n
+varphi(2p^e) = varphi(p^e).
+p
+p^e?
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n = 899.
+varphi(n),
+e = 13.
+x = 11.
+n = 899
+e = 13.
+p
+q,
+varphi(n)
+n = 899
+n
+p
+q
+p
+q.
+varphi(n) = (p-1)(q-1)
+x = 11
+varphi(n)
+n,
+n
+varphi(n),
+varphi(n)
+n
+p
+q.
+varphi(n) = (p-1)(q-1) = pq-p-q+1 = n-(p+q)+1
+p+q
+pq
+n
+varphi(n):
+p+q = n-varphi(n)+1
+pq = n
+p+q
+pq?
+(x-p)(x-q) = x^2-(p+q)x+pq
+p
+q!
+p, q = ((p+q)+-sqrt((p+q)^2-4pq))/2 = (n-varphi(n)+1)/2+- (sqrt((n-varphi(n)+1)^2-4n))/2
+x^2-(899-840+1)x+899 = x^2-60x+899 = 0
+x = (60+-sqrt(60^2-4(1)(899)))/(2(1)) = 30+- (sqrt(3600-3596))/2 = 30+-1 = 29, 31.
+n
+n,
+p_1, p_2, cdots p_k,
+p_k
+sqrt(n).
+p_i'\\x002223'n.
+p_i
+n//p_i;
+n
+n = 899
+3
+5
+p
+q
+n
+n = ab,
+a > b,
+n
+n
+n
+s = (a+b)/2
+t = (a-b)/2:
+s^2-t^2 = ( (a+b)/2)^2-( (a-b)/2)^2 = (a^2)/4- (a^2)/4+ (b^2)/4- (b^2)/4+ (2ab)/4+ (2ab)/4 = ab = n.
+n
+M_(37) = 2^(37)-1.
+n,
+s^2
+n,
+s
+s^2-n
+t^2.
+s^2-t^2 = n"\around into\ "s^2-n = t^2.
+s
+t
+n;
+a = s+t"\and\ "b = s-t.
+a
+b
+s
+s = (n+1)//2,
+sqrt(n).
+((n+1)//2)^2-n = (n^2+2n+1-4n)/4 = ((n-1)//2)^2.
+n = n*1,
+s
+n,
+s^2-n
+s.
+143
+93
+s^2-n,
+s
+sqrt(n),
+s
+n = 93.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+x^2+k
+x^2+2x+1?
+p
+x^2 -= k"\ (mod\ "p)?
+x^2-2x+3"\ (mod\ "9).
+x^2-2x+3 -= 0
+9
+x^2-2x+3
+x^2-2x+3 = (x^2-2x+(2/2)^2)+3-(2/2)^2 = (x-1)^2+2,
+(x-1)^2 -= -2"\ (mod\ "n)
+s
+-2
+n
+s+1
+n,
+n = 9,
+n.
+n
+ax^2+bx+c -= 0,
+2a,
+(2a)^(-1).
+a:
+4a^2 x^2+4abx+4ac -= 0
+(2ax+b)^2-b^2+4ac -= 0
+(2ax+b)^2 -= b^2-4ac
+2a
+n
+b^2-4ac
+ZZ_n.
+gcd(2a, n) = 1,
+ax^2+bx+c -= 0"\ (mod\ "n)
+x -= (2a)^(-1)(s-b)"\ (mod\ "n)", where\ "s^2 -= b^2-4ac"\ (mod\ "n).
+s^2 -= b^2-4ac
+x^2+3x+5 -= 0
+n
+b^2-4ac = 9-20 = -11,
+ZZ_n
+n,
+x^2+3x+5 = (x-3/2)^2+(5-(3/2)^2)
+3//2 in ZZ_n;
+4a
+n = kcc l
+k
+cc l,
+gcd(2a, n) > 1;
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+x^2 -= n"\ (mod\ "p^e),
+p^e
+p
+x^2 -= n"\ (mod\ "p)
+f'(x) = 2x,
+p = 2,
+x^2 -= 1
+p
+p
+x -= +-1.
+p = 2
+1
+p.
+x^2 -= -1
+p
+p
+p = 2
+x -= 1
+p -= 1
+4
+x -= +-( (p-1)/2)!
++1
+-1
+p
+p^2
+f(x) = x^2+1
+25
+5
+x -= 2
+25
+2+k(5)
+f'(x) = 2x,
+(2^2+1)/5+k(2*2) -= 0"\ (mod\ "5)
+1+4k -= 0,
+k -= 1;
+25
+2+1(5) -= 7.
+7^2+1 = 50
+25
+5'\\x002224'f'(2) = 4,
+1 -= 0
+x^2 -= -1
+14
+x^2 -= -1
+2
+x^2 -= -1
+7
+4k+3
+14
+65
+65 = 5*13
+x^2 -= -1
+5
+13
+x -= 2
+5
+x -= 5
+13
+x -= 2*13*(13^(-1)"\ (mod\ "5))+5*5*(5^(-1)"\ (mod\ "13))
+-= 26*2+25*8 -= 252 -= 57"\ (mod\ "65)
+n,
+gcd(p, f'(x)) = 1
+x
+p^e
+p.
+p
+f'(x_e)
+x_e,
+f'(x)
+p.
+p'\\x002223'n.
+p,
+f(x) -= 0"\ (mod\ "p),
+f(x) -= 0"\ (mod\ "p^e).
+p
+q,
+f(x) -= 0"\ (mod\ "p)"\and(mod\ "q),
+f(x) -= 0"\ (mod\ "pq).
+2^e,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+4k+1
+4k+3.
+gcd(a, b) = 1,
+ax+b
+x
+ax+b
+a,
+a = 4.
+a = 2!
+b = 1,
+b = -1,
+b
+b^2 -= 1("mod\ "a),
+ak+b, k = 0, 1, 2, 3, ...n
+n+1
+a = 2.
+a = 6.
+lim_(n->oo) (pi(n))/n = 0.
+pi
+pi(100)//100 = 1//4 = 0.25
+pi(200)//200 = 0.23
+pi(1000)//1000 = 0.168,
+pi(1000000)//1000000 ~~ 0.0785,
+k
+2^(2^(2^(2^(2^(2^(2^(100k)))))))
+p,
+p# = prod_(q<=p,q"\prime")q
+p
+p,
+a*p#+1,
+a
+a
+a*p#+1
+a
+k+cc l*n,
+(k*p#+1)+(cc l*p#)n.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n
+n = ax+by
+x
+y.
+a = 3, b = 4;
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+pi(x),
+Li(x)-1/2 Li(sqrt(x)).
+1/n Li(x^(1//n))
+mu(2),
+-1.
+k = 3.
+x = 1000000,
+sum_(j=1)^3(mu(j))/j Li(x^(1//j))
+sum_(j=1)^ oo(mu(j))/j Li(x^(1//j)).
+pi(x).
+mu
+|pi(x)-Li(x)|?
+pi(x)?
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p
+ab,
+p
+a
+b.
+p
+p
+gcd(a, b) = 1,
+a'\\x002223'c,
+b'\\x002223'c,
+ab'\\x002223'c
+gcd(a, b) = 1
+a'\\x002223'bc
+a'\\x002223'c
+gcd(a, b) = d
+gcd(a/d, b/d) = 1.
+a = prod_(i=1)^n p_i^(e_i),
+b = prod_(i=1)^n p_i^(f_i),
+b'\\x002223'a,
+a//b = prod_(i=1)^n p_i^(???)
+a
+b
+a^3'\\x002223'b^2,
+a'\\x002223'b.
+p^a'\\x002225'm
+p^b'\\x002225'n,
+p^(a+b)'\\x002225'mn.
+gcd(m, n) = 1
+mn
+m
+n.
+2^2*3^5*7^2*13*37
+2^3*3^4*11*31^2.
+2^(24)-1
+10^8-1,
+lcm(a, b) = prod_(i=1)^n p_i^(???)
+a, b > 0
+gcd(a, b)lcm(a, b) = ab
+n!
+sqrt(2)
+sqrt(3)
+sqrt(6)
+log_(10)(5)
+3^(2//3)
+n = 1
+1
+x^2 -= x
+p
+x = [0]
+x = [1],
+p
+n
+3x-4 -= 0
+25
+125
+4x-1 -= 0
+121
+1331
+ZZ[sqrt(-5)]
+a+bsqrt(-5)
+a, b in ZZ.
+N = 6
++-1,
++-1.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+A
+***
+A
+I(n),
+n = 1,
+f***g = g***f
+(f***g)***h = f***(g***h)
+f***I = f = I***f
+dc = n, ab = d
+abc = n.
+(f***g)(n) = sum_(d'\\x002223'n)f(d)g(n/d) = sum_(de=n)f(d)g(e)
+= sum_(de=n)g(e)f(d) = sum_(e'\\x002223'n)g(e)f(n/e) = (g***f)(n)
+***
+f***g
+(f***g)(n) = sum_(de=n)f(d)g(e).
+f
+f(1) != 0,
+f
+A
+***.
+f^(-1).
+{[f^(-1)(1)=1/(f(1)) , n=1], [sum_(d'\\x002223'n)f^(-1)(d)f(n/d)=sum_(de=n)f^(-1)(d)f(e)=0, n>1]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>.
+n > 1
+f^(-1)(n)
+f^(-1)(d)
+d'\\x002223'n,
+f^(-1)(1).
+mu
+mu = u^(-1)
+u = mu^(-1)
+omega(1) = 0,
+omega
+N
+varphi
+f***f^(-1) = I = f^(-1)***f
+A
+f(1) != 0
+A.
+f = g***u
+g = f***mu
+g = g***I = g***u***mu = f***mu
+***
+g = f***mu,
+f = f***I = f***mu***u = g***u
+g
+h
+f = g***h
+f
+f(1) != 0,
+f^(-1)
+f^(-1)(1) = 1/(f(1))
+n > 1,
+sum_(d'\\x002223'n)f^(-1)(d)f(n/d) = sum_(de=n)f^(-1)(d)f(e) = 0.
+f^(-1)(1)
+f^(-1)
+mn,
+gcd(m, n) = 1,
+f^(-1)(mn) = -sum_([(ac)(bd)=(m)(n)], [ab<mn,a'\\x002223'm,b'\\x002223'n])f^(-1)(a)f^(-1)(b)f(c)f(d)
+f^(-1)(mn) = f^(-1)(m)f^(-1)(n)
+f^(-1)(1) = 1/(f(1))
+f(1) = 1 = f^(-1)(1).
+f.
+f^(-1)
+mn,
+gcd(m, n) = 1.
+f^(-1)(mn) = -sum_([(ac)(bd)=(m)(n)], [ab<mn,a'\\x002223'm,b'\\x002223'n])f^(-1)(a)f^(-1)(b)f(c)f(d).
+m, n > 1
+0 = (f^(-1)***f)(mn) = [sum_(x<mn,xy=mn)(f^(-1)(x)f(y))]+f^(-1)(mn)f(1).
+f
+f^(-1)
+f^(-1)(mn).
+x'\\x002223'mn,
+xy = mn.
+m
+n
+x
+y
+m
+n
+x = ab
+y = cd,
+a, c'\\x002223'm
+b, d'\\x002223'n.
+f^(-1)(x)f(y) = f^(-1)(a)f^(-1)(b)f(c)f(d).
+f(1) = 1,
+f^(-1)(mn) = -sum_([(ac)(bd)=(m)(n)], [ab<mn,a'\\x002223'm,b'\\x002223'n])f^(-1)(a)f^(-1)(b)f(c)f(d).
+f^(-1)(mn) = f^(-1)(m)f^(-1)(n).
+ab <= mn
+ab < mn,
+sum_([(ac)(bd)=(m)(n)], [a'\\x002223'm,b'\\x002223'n])f^(-1)(a)f^(-1)(b)f(c)f(d) = sum_(ac=m)f^(-1)(a)f(c) sum_(bd=n)f^(-1)(b)f(d)
+a = m, b = n,
+sum_([(ac)(bd)=(m)(n)], [ab<mn,a'\\x002223'm,b'\\x002223'n])f^(-1)(a)f^(-1)(b)f(c)f(d) =
+[sum_(ac=m)f^(-1)(a)f(c) sum_(bd=n)f^(-1)(b)f(d)]-(f^(-1)(m)f^(-1)(n)f(1)f(1))
+f^(-1)(mn):
+f^(-1)(mn) = -[sum_(ac=m)f^(-1)(a)f(c) sum_(bd=n)f^(-1)(b)f(d)-f^(-1)(m)f^(-1)(n)f(1)f(1)]
+m, n > 1,
+(f^(-1)***f)(m) = I(m) = 0 = I(n) = (f^(-1)***f)(n)
+f^(-1)(mn) = f^(-1)(m)f^(-1)(n)f(1)f(1) = f^(-1)(m)f^(-1)(n)
+mu
+u
+mu = u^(-1).
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n.
+n
+2x+3y = 5
+2x+3y -= 5"\ (mod\ "7)
+[x], [y]
+2x+3y -= 5"\ (mod\ "n)
+n
+[x], [y], n,
+n
+x, y
+2x+3y -= 5
+7
+n = 10^(100),
+ZZ
+x^2
+ax -= b
+n
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+d
+a
+b
+ax+by = d
+d = xa+yb,
+a, b, d
+6 = -2*60+3*42.
+gcd(a, b) = ax+by
+x
+y.
+8 = 1*5+3
+1*8-1*5 = 3
+1 = 2*3-1*5 = 2*(8-1*5)-1*5 = 2*8-3*5
+5 = 1*3+2
+1*5-1*3 = 2
+1 = 1*3-1*2 = 1*3-1*(5-1*3) = 2*3-1*5
+3 = 1*2+1
+1*3-1*2 = 1
+1 = 1*3-1*2
+2 = 2*1+0
+1 = 2*8-3*5,
+2*8+(-3)*5.
+60 = 1*42+18
+1*60-1*42 = 18
+6 = 1*42-2*18 = 1*42-2*(60-1*42)
+42 = 2*18+6
+1*42-2*18 = 6
+6 = 1*42-2*18
+18 = 3*6+0
+1*42-2*(60-1*42)
+6 = 3*42+(-2)*60
+6 = -2*60+3*42,
+gcd(135, 50)
+5 = 3*135+(-8)*50.
+gcd(1415, 1735)
+5 = 103*1415+(-84)*1735,
+ax+by
+x, y.
+ax+by
+x, y,
+a
+b
+c = au+bv.
+a
+b
+d.
+a
+b
+ax+by,
+au+bv = c.
+d
+a
+b,
+c.
+d <= c.
+d
+d = ax'+by'
+x'
+y'.
+c
+c <= d.
+d = c.
+a, b.
+6 = -2*60+3*42.
+6
+42 = 7*6.
+42 = 7*6 = 7*(-2*60+3*42),
+6!
+6 = -2*60+3*42 = -2*60+3*(7*6)
+= -2*60+3*(7*(-2*60+3*42))
+6 = -44*60+63*42,
+gcd(42000, 60000)
+gcd(a, b) = d,
+gcd(ka, kb)
+k > 0
+a
+b
+gcd(a, b) = 1?
+ax+by = 1
+x
+y.
+a
+b
+a
+b!
+a
+b:
+a'\\x002223'c
+b'\\x002223'c,
+ab'\\x002223'c.
+a'\\x002223'bc,
+a'\\x002223'c.
+1 = ax+by
+x, y,
+c = cax+cby.
+c = kb
+c = cc l a,
+c = (kb)ax+(cc l a)by,
+ab
+gcd(a, b) != 1,
+a'\\x002223'c
+b'\\x002223'c,
+ab
+c?
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+zeta
+prod_p 1/(1-p^(-s)) = 1//(prod_p1-p^(-s)).
+s = 2.
+sigma
+zeta(2) = (pi^2)/6
+zeta(2)
+s = 2.
+zeta,
+pi^(2n)
+zeta(3)
+n,
+zeta(5), zeta(7), zeta(9), zeta(11)
+zeta
+u
+mu
+u***mu = I.
+prod_p 1/(1-p^(-s)) = 1//(prod_p1-p^(-s))
+sum_(n=1)^ oo(mu(n))/(n^s) = 1//zeta(s)
+f(n)
+g(n)
+h = f***g
+F, G, H
+s
+F
+G
+s,
+H
+H = FG
+s
+F
+G
+F(s)G(s) = sum_(n=1)^ oo(f(n))/(n^s) sum_(m=1)^ oo(g(m))/(m^s) .
+(f(n)g(m))/(n^s m^s)
+***
+n
+m
+F(s)G(s) = sum_(d=1)^ oo sum_(nm=d) (f(m)g(n))/(d^s) .
+***
+d^s
+F(s)G(s) = sum_(d=1)^ oo((f***g)(d))/(d^s) .
+h,
+H(s),
+f***g
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+r
+p(x),
+Z_(p(x))(n)
+p(x) -= 0"\ (mod\ "n).
+-1 in Q_n.
+g
+g(n) = {[0, n"\is even\ "], [1, n-=1"\ (mod\ "4)], [-1, n-=3"\ (mod\ "4)]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>.
+g(n)
+D(n) = (-1)^(n-1)
+r(n)
+0 <= n <= 10
+10 pi.
+r(n)
+n = 100,
+300,
+900.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+4k+1
+4k+3
+n = 10,
+n = 20,
+n = 50?
+-1
+p_1, p_2, ..., p_k
+m = 4p_1 p_2 cdots p_k-1.
+p_i
+m
+-1
+p_i.
+m
+m
+1
+p_i.
+p_i
+m = (2p_1 p_2...p_k)^2+1.
+m
+p_i.
+p
+m
+3^2
+p
+m
+x = 2p_1 p_2...p_k,
+m = x^2+1 -= 0"\ (mod\ "p).
+-1
+p,
+p -= 1
+4
+4k+3
+p
+p_i,
+4k+3
+n
+n
+n
+4k+1
+n
+1/2(sqrt(n))/(log(n)) log(log(log(n))).
+pi
+Li
+4k+1
+n = 26862
+n = 26862
+4k+1
+log(log(log(x))).
+[a]
+nk+a
+4k+1
+8k+1,
+a, b
+n,
+lim_(x->oo) ("Number of\ "p-=a"\ (mod\ "n)"\less than\ "x)/("Number of\ "p-=b"\ (mod\ "n)"\less than\ "x) = 1
+(Li(x))/(varphi(n))
+pi
+Li,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+tau
+varphi.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+a
+b,
+a = 60
+b = 42.
+[60, "<mi//>"=42*1+18], [42, "<mi//>"=18*2+6], [18, "<mi//>"=6*3+0]
+gcd(60, 42) = 6.
+gcd(2013, 1066)
+a
+b,
+[a, "<mi//>"=bq_1+r_1], [b, "<mi//>"=r_1 q_2+r_2], [r_1, "<mi//>"=r_2 q_3+r_3], [cdots], [r_(n-3), "<mi//>"=r_(n-2)q_(n-1)+r_(n-1)], [r_(n-2), "<mi//>"=r_(n-1)q_n+0]
+r_(n-1),
+r_i
+b
+d'\\x002223'a
+d'\\x002223'b.
+d
+a-q_1 b = 1*a+(-q_1)*b = r_1
+d
+r_2 = b-q_2 r_1,
+r_(n-1) = r_(n-3)-q_(n-1)r_(n-2).
+a
+b
+r_(n-1).
+d
+r_(n-1),
+r_(n-2) = r_(n-1)q_n,
+r_(n-3) = r_(n-2)q_(n-1)+r_(n-1),
+d
+a
+b.
+a
+b
+r_(n-1),
+a
+b
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n = 21.
+145^6+1
+2^(43)-1
+7^(43)
+11
+(11-1)^2 = 100,
+6^(25)
+11
+6^(25)
+12
+a -= b
+n
+a^3 -= b^3
+n
+a -= b
+n
+a^m -= b^m
+n
+m.
+2*10^2+2*10+5,
+m
+27 -= 5
+m
+n
+n.
+a
+n
+a^n
+5
+a^(n+5)
+5
+a != 0, 1
+n != 0.
+a
+n
+a^n
+5
+a^(n+5)
+5
+a'\\x002262'0, 1
+n != 0.
+a
+n
+a^n
+6
+a^(n+6)
+6
+a'\\x002262'0, 1
+n != 0.
+n
+x^2 -= x
+n
+x = [0]
+x = [1].
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+(26).
+x,
+a,
+(n),
+m
+m -= x+a"\mod"(n)
+x
+a
+n,
+-a.
+-3
+3,
+(a, n),
+a = 3
+n = 26.
+(n)
+m
+m -= ax+b"\ (mod\ "n).
+a = 5
+b = 18.
+26^2+26,
+n = 709,
+(a, b, n) = (5, 18, 709).
+ax+b
+x,
+b
+a.
+ZZ_n,
+gcd(a, n) = 1.
+a'
+a(a') -= 1"\ (mod\ "n),
+m'\\x0027fc'a'(m-b) -= x"\ (mod\ "n).
+a
+b
+(20, 8),
+(28, 8),
+(2, 8).
+([1, 1], [0, 1])
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+x^2+2y^2?
+x^2+y^2+y^2.
+x^2+3y^2?
+n -= 5"\or\ "n -= 7"\ (mod\ "8)
+x^2+2y^2.
+p
+p -= 1
+p -= 3"\ (mod\ "8)
+x^2+2y^2 = (x-sqrt(2)iy)(x+sqrt(2)iy)
+p
+x^2+3y^2.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p
+x^2 -= -1"\ (mod\ "p)
+p
+x^3 = y^2-7.
+x^3 = y^2-7
+x^3 = y^2-7
+x, y
+x^3 = y^2-7,
+x^3 = y^2-7
+y^2 = x^3+7.
+x
+2'\\x002223'x,
+8'\\x002223'x^3.
+y^2 -= 7
+8
+(8)
+x
+y
+x^3
+7
+x -= 1
+4
+x -= 3
+4
+x -= 3
+4
+x^3 -= 27 -= 3
+4
+x^3+7 -= 10 -= 2
+4
+0
+1
+4,
+x -= 1
+4
+y^2 = x^3+7 => y^2+1 = x^3+8 => y^2+1 = (x+2)(x^2-2x+4)
+x -= 1
+4
+x+2 -= 3
+4
+x+2
+q
+4n+3.
+4n+1 -= 1,
+-= 1
+4
+q
+x+2,
+(x+2)(x^2-2x+4)
+(x+2)(x^2-2x+4),
+y^2+1,
+4n+3
+y^2+1!
+4n+1
+y^2+1
+x -= 1"\ (mod\ "4)
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n
+N = 2*3*5 cdots q
+q.
+mu(d)
+prod_(p'\\x002223'N)(1-1/p) = sum_(d'\\x002223'N) (mu(d))/d.
+N
+N.
+mu
+N,
+D(3) = (1-1//2)(1-1//3) = (1/1-1/2-1/3+1/6)
+mu(2) = -1 = mu(3)
+mu(6) = 1 = mu(1).
+(1-1//p)
+(1-1//2)
+mu(4) = 0,
+prod_(p<N)(1-1/p).
+p
+1
+-1.
+-1
+n = p_1^(e_1)p_2^(e_2) cdots p_k^(e_k)
+mu(n)
+mu(n) = {[0, "\if any\ "e_i>1], [(-1)^k, "\otherwise"]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>.
+mu
+mu
+mu(1) = 1, "\and\ " sum_(d'\\x002223'n) mu(d) = 0.
+mu,
+mu(1) = 1
+mu
+mu
+mu(1) = 1
+sum_(d'\\x002223'n) mu(d) = 0.
+sum_(d'\\x002223'n) mu(d) = 0
+mu(d)
+sum_(d'\\x002223'n) mu(d) = sum_(["all divisors\ "d"\with just one or zero"], ["\of each prime factor\ "p_i "\of\ "n])(-1)^("the number of primes dividing\ "d).
+omega(d)
+d
+n.
+k = omega(n)
+n
+sum_(d'\\x002223'n) mu(d)
+sum_(["all divisors\ "d"\with just one or zero"], ["\of each prime factor\ "p_i "\of\ "n])(-1)^(omega(d)).
+k,
+sum_(["all divisors\ "d"\with just one or zero"], ["\of each prime factor\ "p_i "\of\ "n])(-1)^(omega(d)) = sum_(d"\that work")(1)^(k-omega(d))(-1)^(omega(d)).
+(k-omega(d))+omega(d) = k.
+d
+omega(d)
+n;
+k-omega(d)
+n.
+(1)^(k-omega(d))(-1)^(omega(d))
+omega(d)
+n
+1
+-1
+{1, 2, ..., k}
++-1
+k
+1+(-1):
+(1+(-1))^k = (1+(-1))(1+(-1)) cdots(1+(-1))"\ (k\ ""\times, for\ "2, 3, ..., p_k).
+sum_(d"\that work")(-1)^(omega(d)) = (1+(-1))^k = 0.
+mu
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+cc l
+1729
+2821
+7*23*p
+p;
+n
+M_n.
+30030 = 2*3*5*7*11*13.
+x^3+1
+x^2+1.
+p-1
+6
+4.
+4;
+4,
+50,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p
+g,
+1 < g < p.
+m
+n.
+g
+p.
+p.
+(g^m)^n = g^(mn)
+(g^n)^m = g^(nm),
+p.
+p = 991
+g = 55,
+m = 130
+n = 123.
+g^m
+g^n
+p.
+g^(mn) = g^(nm)
+g^(mn)
+cc l,
+g^(mcc l)
+g^(ncc l)
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+x^3+ay^3 = b.
+x^3-117y^3 = 5.
+x^3+y^3 = 9.
+(1, 2)
+(2, 1),
+(2, 1).
+(415280564497/348671682660, 676702467503/348671682660)
+x/(y+z) +y/(z+x) +z/(x+y) = 4,
+x^3 = y^2+2
+x^2+2y^2 = 9
+x^2-2y^2 = 1
+sqrt(2)
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+a,
+b,
+n
+n
+a
+b
+a, b
+a
+b
+n.
+n,
+a
+b
+n
+b.
+a
+b
+"\Solve\ "30x -= 18"\ (mod\ "33).
+3.
+gcd(30, 33) = 3
+10x -= 6
+11
+gcd(2, 11) = 1,
+2
+5x -= 3"\ (mod\ "11)
+5x -= 3
+11
+3
+3+11 = 14,
+5x -= 14"\ (mod\ "11)
+5
+5x
+3+22 = 25,
+5x -= 25"\ (mod\ "11)
+25
+5.
+5x -= 25
+11
+x -= 5"\ (mod\ "11)
+x = 5+11k"\for\ "k in ZZ
+{[5], [16], [27]}.
+x = 1
+x = 2
+a
+b
+[a] -= [1].
+5x -= 3
+11
+a = 5
+b = 3
+9,
+11,
+45x -= 27"\ (mod\ "11).
+x -= 5,
+7x -= 8
+15
+6x -= 8
+14
+6x -= 12
+4
+2,
+3x -= 6
+2
+x -= 0,
+x.
+2
+6x -= 12
+3x -= 6
+4
+-x -= 2
+x -= 2
+7x -= 7
+12
+x -= 1.
+7x
+7
+2
+14x -= 14
+2x -= 2
+12
+2
+x -= 1
+6
+d != 0,
+ad -= bd
+nd
+a, b, n
+a -= b
+n
+ad -= bd
+nd
+nd'\\x002223'ad-bd,
+ad-bd = k(nd)
+k in ZZ.
+d(a-b) = d(kn).
+d != 0,
+d(a-b) = d(kn)
+a-b = kn,
+a -= b
+n
+d != 0
+gcd(d, n) = 1,
+ad -= bd
+n
+a, b, n
+a -= b
+n
+a -= b
+ad
+n
+d
+a -= b
+n
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+x
+x -= 1
+5
+x -= 2
+6
+x -= 3
+7
+k
+x -= a_1
+n_1
+x -= a_2
+n_2
+...
+x -= a_k
+n_k
+n_i
+n,
+n
+a
+n
+ax -= 1"\ (mod\ "n).
+a^(-1).
+26
+31
+26x -= 1"\ (mod\ "31).
+1/26,
+26^(-1),
+n = 31.
+a
+n
+a
+n?
+n
+a
+10.
+11.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+a^b -= c"\ (mod\ "n)
+a
+b
+n
+x^3 -= 5
+17
+5^x -= 17
+19
+n,
+n.
+g
+n
+g,
+a = g^i
+c = g^j
+i, j in ZZ.
+g^(ib) -= g^j "\ (mod\ "n)
+ib
+j
+17.
+x^3 -= 5"\ (mod\ "17)
+x^3;
+x -= 3^i
+i,
+x^3 -= (3^i)^3 -= 3^(3i).
+3
+5.
+x^3
+5,
+x^3 -= 5"\ (mod\ "17)
+3^(3i) -= 3^5 "\ (mod\ "17).
+3^(3i) = 3^5 => 3i = 5 => i = 5//3.
+ZZ_(17).
+U_(17),
+varphi(17) = 16.
+16
+16
+3i -= 5"\ (mod\ "16).
+i = 7
+x = 3^7 -= 11
+17
+2,
+11
+x^4 -= 5
+17
+4i -= 5
+16
+gcd(4, 16) = 4'\\x002224'5,
+5
+x^3 -= 7
+19
+2,
+2^6 -= 7,
+2^(3i) -= 2^6 "\ (mod\ "19) => 3i -= 6"\ (mod\ "18),
+2, 8, 14
+i -= 2"\ (mod\ "6)
+2^2, 2^8, 2^(14)
+x^6 -= 8
+49
+3^i
+3
+8:
+3^(36).
+x = 3^i
+i,
+3^(6i) -= 3^(36)"\ (mod\ "49),
+6i -= 36"\ (mod\ " varphi(49) = 42)
+i -= 6"\ (mod\ "7).
+i = 6, 13, 20, 27, 34, 41
+x = 3^i -= 43, 10, 16, 6, 39, 33
+5^x -= 17"\ (mod\ "19).
+5^x -= 17"\ (mod\ "19).
+5 -= 2^(16)"\ (mod\ "19)
+17 -= 2^(10)"\ (mod\ "19).
+2^(16x) -= 2^(10)"\ (mod\ "19)
+16x -= 10"\ (mod\ "18).
+8x -= 5
+9
+-x -= 5
+9
+x -= -5 -= 4,
+18,
+x -= 4, 13
+5^4 -= 5^(13) -= 17"\ (mod\ "19)
+16^x -= 13"\ (mod\ "19).
+2
+19,
+16 = 2^4.
+13;
+13+19 = 32 = 2^5.
+2^(4x) -= 2^5 "\ (mod\ "19)
+4x -= 5"\ (mod\ "18).
+gcd(4, 18) = 2'\\x002224'5,
+16
+9
+U_(19),
+13
+16.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+ax^2+bx+c,
+ax^2+bx+c = 0.
+x = (-b+-sqrt(b^2-4ac))/(2a) .
+x^2-5x+4 = 0
+x^2-5x+4 = (x-4)(x-1) = 0"\implies\ "x = 4"\or\ "x = 1.
+4x^2+4x+1 = 0
+QQ
+4x^2+4x+1 = (2x+1)^2 = 0"\implies\ "2x+1 = 0"\so\ "x = -1/2.
+x^2+5x+5 = 0
+sqrt(5^2-4*1*5) = sqrt(5).
+x^2+5x+7 = 0
+(-5+-sqrt(5^2-4*1*7))/(2*1) = -5/2+- (sqrt(-3))/2
+CC
+ZZ
+RR,
+ax^2+bx+c -= 0"\ (mod\ "n)
+ZZ_n
+x^2-5x+4 = (x-4)(x-1),
+n,
+4x^2+4x+1 -= 0"\ (mod\ "5);
+-x^2-x+1 -= 0,
+x -= 2
+x^2+5x+5 -= 0
+n = 5.
+x^2+5x+7 -= 0"\ (mod\ "n)
+1 < n < 20.
+n
+n
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+(n).
+2
+3.
+n,
+n,
+x_0 -= 2
+n
+x_1 -= f(x_0)
+n
+x_2 -= f(x_1)
+n
+x_(i+1) -= f(x_i),
+n
+n,
+n.
+x_0 = 2
+f(x) = x^2+1.
+f(x) = x^2-1,
+n = 8051
+n = 8051,
+x_4 -= x_(19)
+n
+3,
+x_(13) -= x_(28)
+8053,
+x_(50).
+x_(i+1) = f(x_i)
+n.
+x_i-x_j
+n,
+x_i!
+d,
+n,
+d.
+d
+n
+gcd(x_i-x_j, n) = d
+x_i
+x_j
+j > i.
+x_cc l
+d.
+x_i -= x_j "\ (mod\ "d)
+m
+x_(m+i) -= f^m(x_i) -= f^m(x_j) -= x_(m+j)"\ (mod\ "d)
+m = j-i,
+x_j -= x_(2j-i)"\ (mod\ "d)
+d,
+n
+j-i
+i,
+j-i < i
+s
+s(j-i) >= i.
+x_(s(j-i))
+d
+x_(s(j-i)) -= x_(s(j-i)+(j-i)) -= cdots -= x_(s(j-i)+s(j-i))"\ (mod\ "d).
+k = s(j-i)
+x_k -= x_(2k)"\ (mod\ "d)
+d
+x_(2k)-x_k
+x_i-x_j.
+gcd(x_(2k)-x_k, n)
+k
+f(x)
+n
+x^2+1,
+x_0.
+2
+3.
+f(x_0) = x_1.
+f(x_i) = x_(i+1),
+n.
+k
+1 < gcd(x_(2k)-x_k, n) = d < n.
+k
+n.
+n
+n = 9991.
+x^2+1
+2,
+x_0 = 2, x_1 = 5, x_2 = 26, x_3 = 677, x_4 = 8735, x_5 = 8950
+x_6 = 4654, x_7 = 9220, x_8 = 4973, x_9 = 3005, x_(10) = 8153.
+x_2-x_1 = 26-5 = 21
+x_4-x_2 = 8735-26 = 8709
+x_6-x_3 = 4654-677 = 3977
+x_8-x_4 = 4973-8735 = -3762
+x_(10)-x_5 = 8153-8950 = -797
+9991
+9991:
+9991.
+x_i
+d
+d = 97
+rho.
+p-1
+2.
+rho
+F_8
+1238926361552897.
+F_8
+F_(12)
+b^n+-1
+b = 2, 3, 5, 6, 7, 10, 11, 12,
+n.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+sigma = sigma_1?
+sum_(n<=x) sigma(n) = sum_(n<=x) sum_(q'\\x002223'n)q = sum_(q,d"\such that\ "qd<=x)q = sum_(d<=x) sum_(q<=x/d)q.
+sigma
+sigma
+sigma
+xy = n,
+xy = 6
+sum_(k=1)^6 sigma(k) = 1+(1+2)+(1+3)+(1+2+4)+(1+5)+(1+2+3+6).
+(1+2+3+4+5+6)+(1+2+3)+(1+2)+1+1+1,
+1
+|__ n/k__|
+tau.
+sigma.
+|__ n/k__|
+j
+j
+(j(j+1))/2 = (j^2)/2+j/2
+(|__j__|(|__j__|+1))/2
+(j(j+1))/2
+j+1 = O(j)
+sum_(n<=x) sigma(n) = sum_(d<=x) sum_(q<=x/d)q = sum_(d<=x)[1/2|__ x/d__|^2+1/2|__ x/d__|]
+= sum_(d<=x)[1/2(x/d)^2+1/2(x/d)+O(x/d)].
+sum_(d<=x) 1/d = log(x)+O(1),
+sum_(d<=x) 1/2(x/d) = 1/2 O(xlog(x)) = O(xlog(x)).
+sum_(d<=x)O(x/d)
+O(x sum_(d<=x) 1/d) = O(xlog(x)).
+sum_(d<=x)[1/2(x/d)^2].
+int_x^ oo dy/(y^2)
+sum_(d>x) 1/(d^2) .
+O(1//x^2).
+sum_(d<=x) 1/(d^2) = sum_(d=1)^ oo 1/(d^2) -sum_(d>x) 1/(d^2)
+= sum_(d=1)^ oo 1/(d^2) -int_x^ oo 1/(y^2) dy+O(1//x^2) = sum_(d=1)^ oo(1/(d^2) )-1/x+O(1//x^2).
+sum_(n<=x) sigma(n) = (x^2)/2 sum_(d<=x)(1/(d^2) )+x/2 sum_(d<=x) 1/d+O(xlog(x))
+= (x^2)/2(sum_(d=1)^ oo(1/(d^2) )-1/x+O(1//x^2))+O(xlog(x))
+= (x^2)/2 sum_(d=1)^ oo(1/(d^2) )-x/2+O(xlog(x)).
+sigma
+x,
+1/x sum_(n<=x) sigma(n)"\is\ " x/2 sum_(d=1)^ oo 1/(d^2) +O(log(x)).
+sigma
+sigma
+n = 10, 1000
+sigma
+n = 10, 1000
+m = 1/2 sum_(d=1)^ oo 1/(d^2) .
+sigma
+sigma
+(pi^2)/6.
+(pi^2)/12.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n
+a
+a
+n = 2047.
+n
+2,
+2^n-1
+2.
+n
+2^n -= 2"\ (mod\ "n).
+n
+2
+2^(n-1) -= 1"\ (mod\ "n).
+2^(n-1)-1 = nk
+k.
+2^(n-1)-1
+k
+2^n-1:
+(2^n-1)-1 = 2^n-2 = 2(2^(n-1)-1) = 2nk.
+2^([(2^n-1)-1]//2) = 2^(2nk//2) = 2^(nk) = (2^n)^k -= 1^k -= 1"\ (mod\ "2^n-1).
+[(2^n-1)-1]//2 = 2^(n-1)-1
+2^n-1
+n
+n
+2,
+2^n-1.
+(+-1)^2 = 1.
+2^(341)-1
+n
+n
+(n-1)//4
+a
+n-1.
+x^cc l-1
+a
+n!
+(1/4)^k
+k.
+k
+n-1.
+(1/4)^k.
+p
+q
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+lambda
+omega
+f = g***u
+g = f***mu
+f
+g
+N.
+varphi.
+lambda(n)
+omega***mu
+***
+D(n) = (-1)^(n-1).
+mu***D,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+ZZ_(11)
+ZZ_(11)
+a^n
+p
+p
+0 <= n < p
+a^0 -= 1"\ (mod\ "p)"\or\ "1^n -= 1"\ (mod\ "p)
+p
+n,
+R
+R^(-1).
+R^3
+R?
+QQ
+2 xx 2
+A
+B
+A*B != B*A.
+2 xx 2
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+U_n
+n = 10, 11, 12.
+p
+a^p -= a
+p
+a.
+x^5-x+2
+varphi(p) = p-1
+p,
+[a] in{[0], [1], [2], ..., [p-2], [p-1]}
+gcd(a, p) = 1.
+n = 15
+a
+varphi(15) = 8,
+a^8 = ((a^2)^2)^2
+11^(49)
+21
+139^(112)
+27
+33x -= 29
+127
+128
+varphi(N)
+N = prod_(i=1)^k p_i^(e_i).
+varphi(n)
+varphi
+f(n) = varphi(n)//n.
+f(p^k) = f(p)
+p
+n
+f(n) < 1//5.
+n
+f(n) = 1//2.
+varphi
+m
+n
+varphi(m)
+varphi(n).
+varphi.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+b < 0.
+n
+n
+n-1?
+n
+gcd(20, 30, 70) = 10.
+gcd(a, a+2) = 1
+a
+gcd(a, a+2) = 2
+a
+a
+a
+a+1?
+a
+b
+a
+b.
+a
+b
+ab
+a
+b
+5*10^n+1
+n.
+a, b, c,
+a
+c
+b
+c
+ab
+c
+gcd(a, b) = d
+k > 0
+gcd(ka, kb).
+1, 1, 2, 3, 5, 8, cdots,
+f_(n+2) = f_(n+1)+f_n
+f_1 = 1,
+f_2 = 1.
+n,
+f_(n+2) = f_(n+1)+2f_n.
+1, 1, 3, 5, 11, 21, cdots.
+a
+b
+a'\\x002223'bc,
+a'\\x002223'c.
+a
+b
+1
+gcd(a, b) = gcd(-a, -b).
+-1?
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+X -= Y
+N
+N = prod p_i^(e_i).
+N
+X-Y,
+N,
+X -= Y
+p_i^(e_i)
+N.
+(X_i, Y_i)
+X_i -= Y_i "\ (mod\ "p_i^(e_i))
+X -= Y"\ (mod\ "N).
+N?
+Ax -= B"\ (mod\ "N)
+N = p_1^(e_1) cdots p_k^(e_k)
+Ax -= B
+p_i^(e_i)
+21x -= 33"\ (mod\ "180).
+x -= a_j "\ (mod\ "n_j)
+x -= a_j "\ (mod\ "p^e)
+p^e
+n_j.
+p,
+p^e.
+4
+49 = 7^2.
+4x -= 1
+49
+f(x) = 4x-1.
+4x -= 1
+7
+x = [2].
+49
+4x -= 1
+7^2
+4x -= 1
+7
+x -= 2+7k
+49
+k,
+[2] = {2+7k'\\x002223'k in ZZ}.
+2+7k
+4x -= 4(2+7k) -= 4*2+4*7k -= 1"\ (mod\ "49"),"
+1-4*2 -= 4*7k"\ (mod\ "7^2).
+7'\\x002223'1-4*2,
+2
+1 -= 4*2"\ (mod\ "7")."
+7
+(1-4*2)/7 -= 4k"\ (mod\ "7).
+-1 -= 4k
+7
+-1 -= 4k
+k -= 5
+7
+k
+4x -= 1
+7^2
+2+7k = 2+7*5 = 37"\ (mod\ "7^2)
+4*37 = 148 -= 1
+49
+7^3,
+4x -= 1
+7^3 = 343.
+[37]
+4x -= 1
+7^2
+4x -= 1
+7^3
+37+7^2 cc l
+cc l
+4(37+7^2 cc l) -= 1
+7^3
+4*7^2 cc l -= 1-4*37"\ (mod\ "7^3).
+37
+4x -= 1
+7^2
+7^2'\\x002223'1-4*37,
+7^2,
+4cc l -= (1-4*37)/(7^2) -= (-147)/(7^2) -= -3 -= 4"\ (mod\ "7).
+cc l -= 1
+7
+x -= 37+7^2*1 -= 86"\ (mod\ "343).
+4*86 = 344 -= 1
+343
+p^e,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n
+n,
+ZZ_n,
+3+x -= 2
+4
+-3 -= 1,
+x -= 2+(-3) -= 2+1 -= 3"\ (mod\ "4)
+2/3*x = 5
+2/3
+QQ'\\x002216'{0}
+(2/3)^(-1) = 3/2,
+x = 5*3/2
+n.
+43x -= 2"\ (mod\ "997)
+a = 43^(-1),
+x -= 2a -= 2*43^(-1)"\ (mod\ "997).
+53y -= 29"\ (mod\ "100)
+b = 53^(-1),
+y -= 29*b -= 29*53^(-1)"\ (mod\ "100).
+52y -= 29"\ (mod\ "100)
+52^(-1)
+U_n,
+n
+[a]
+n
+gcd(a, n) = 1.
+U_5
+U_8.
+ZZ.
+[1]
+ZZ.
+ax -= 1
+ax -= 1
+bx -= 1
+(ab)x -= 1!
+gcd(a, n)
+gcd(b, n)
+1,
+ab
+n,
+U_n
++-1
+r(cos(theta)+isin(theta))
+1/r(cos(-theta)+isin(-theta)).
+U_n
+n
+ax -= 1
+n
+U_n,
+n = 10,
+n = 11,
+n = 12
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+a'\\x002223'b
+c'\\x002223'd,
+a+c'\\x002223'b+d.
+2^n > n
+n >= 0.
+c
+a_i
+u_i,
+c'\\x002223'sum_(i=1)^n a_i u_i.
+{2, 3},
+{2, 4},
+{3, 4}.
+{3, 5}
+{4, 5}?
+d
+d = 60x+42y
+x
+y.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+ZZ
+NN
+a'\\x002223'b
+a
+b
+gcd(a, b)
+a
+b
+|__x__|
+a -= b"\ (mod\ "n)
+a
+b
+n
+[a]
+a
+n
+a^(-1)
+n
+prod_(i=1)^n p_i
+prod p
+prod q
+prod_(i=1)^n p_i^(e_i)
+prod p^e
+p^k'\\x002225'n
+p
+p^k'\\x002223'n
+p^(k+1)
+n
+n!
+n
+lcm(a, b)
+a
+b
+ZZ_n
+n
+A'\\x002216'{a}
+A
+a in A
+|G|
+G
+|x|
+x in G
+U_n
+n
+varphi(n)
+n
+phi(n)
+varphi
+F_n
+2^(2^n)+1
+M_n
+2^n-1
+r_2(n)
+n
+ZZ[i]
+{a+bi'\\x002223'a, b in ZZ}
+CC
+r_k(n)
+n
+k
+QR
+Q_p
+p
+(a/p)
+p
+aE
+p
+a
+bar(aE)
+aE
+p
+r_(a,e)
+p
+ae
+aE
+(a/n)
+n
+R
+sum_("even\ "e,0<e<p)|__(qe)/p__|
+mu
+sum_(f=1)^((p-1)//2)|__(qf)/p__|
+r(n)
+r_2(n)
+sigma_k(n)
+k
+n
+tau(n)
+n
+sigma(n)
+n
+u(n)
+N(n)
+sigma^(-1)(n)
+n
+O(g(x))
+Cg(x),
+C
+log(n)
+e
+gamma
+Gamma
+pi(x)
+varphi(n, a)
+a
+p_a
+a
+Li(x)
+int_2^x dt/(log(t))
+Theta(x)
+a(n)
+p#
+p
+C_2
+mu(n)
+n
+f***g
+f
+g
+I(n)
+omega(n)
+n
+nu(n)
+omega(n)
+lambda(n)
+zeta(s)
+eta(s)
+J(x)
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n
+n = a^2+b^2
+a, b in ZZ.
+n
+n
+n,
+-1
+4k+1
+21
+4k+1,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+13 = 3^2+2^2 = 2^2+3^2
+25 = 5^2+0^2 = 3^2+4^2.
+13
+25
+N
+N = yz,
+y, z > 1
+y, z
+N = a^2+b^2 = c^2+d^2
+a, c
+b, d
+a >= c
+d >= b,
+k = gcd(a-c, d-b)"\and\ "n = gcd(a+c, d+b).
+k
+n
+cc l = (a-c)/k = (d+b)/n "\and\ "m = (a+c)/n = (d-b)/k.
+N = [(k/2)^2+(n/2)^2](cc l^2+m^2).
+N = 25.
+a, b, c, d?
+k = gcd(2, 4) = 2,
+n = gcd(8, 4) = 4
+cc l = 1
+m = 2.
+25 = [(2/2)^2+(4/2)^2](1^2+2^2) = 5*5.
+25
+mx^2+ny^2
+m, n
+p = 2.
+p
+p
+p.
+p > 2
+p -= 3"\ (mod\ "4),
+p -= 1"\ (mod\ "4).
+3^2+2^2
+2^2+3^2
+(a, b)
+(b, a)
+a
+b.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+7
+6
+7
+n
+ZZ_3
+ZZ_3
+n = 7
+n = 11
+n = 11
+n = 10
+n = 11
+n = 11
+n = 13
+n = 13
+varphi
+3
+tau
+tau
+tau
+tau
+tau
+tau
+log
+tau
+log
+tau
+gamma
+tau
+sigma
+sigma
+sigma
+pi
+2x//log(x)
+pi(x),
+pi
+1//log(x)
+4
+8
+varphi
+varphi
+pi
+pi
+J
+pi!
+CC
+pi,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+x^3 = y^2+2
+x^3 = y^2+k, k in ZZ.
+k,
+k
+x^3 = y^2-7.
+y^2+1 = (x+2)(x^2-2x+4)
+p = 4n+3
+y^2+1.
+-1
+p
+p.
+M -= 2"\ (mod\ "4),
+N -= 1"\ (mod\ "2),
+p
+N
+4k+1.
+x^3 = y^2-(M^3-N^2).
+M
+N.
+x^3 = y^2+2.
+x
+y
+x^3
+y^2+2 -= 2"\ (mod\ "4),
+x
+y
+x = 3, y = 5.
+a^2+b^2,
+(a+bi)(a-bi)
+ZZ
+y^2+2.
+ZZ[i].
+-2,
+ZZ[sqrt(-2)] = {a+bsqrt(-2)'\\x002223'a, b in ZZ}
+x^3 = (y-sqrt(-2))(y+sqrt(-2))
+x^3 = pq
+gcd(p, q) = 1,
+p
+q
+ZZ[sqrt(-2)]
+y^2+2
+y-sqrt(-2) = (a+bsqrt(-2))^3
+b'\\x002223'1
+a = +-b,
+y = +-5
+x = 3.
+ZZ[i].
+ZZ[sqrt(c)].
+x^3 = y^2+4
+n = 3.
+sqrt(c)
+c
+8
+9
+k = -1.
+k
+k,
+x
+y
+|x| < e^(10^(10)|k|^(10^4))
+x
+e^C|k|^(2+'\\x0003f5'),
+'\\x0003f5'
+C
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+sigma_1 = sigma
+sigma_1(p) = p+1
+p
+sigma_0(p^e) = e+1
+p^e
+sigma_i
+i = 0, 1.
+sigma_1(p^e) = 1+p+p^2+cdots+p^e
+p^e
+sigma_1(2^e) = 2^(e+1)-1.
+sigma_0(n)
+n
+p^e
+sigma_0(p^e) = e+1"\and\ " sigma_1(p^e) = 1+p+p^2+cdots+p^e = (p^(e+1)-1)/(p-1) .
+e+1
+sigma_1
+sigma_1
+i,
+sigma_i(n)
+sigma_i(mn) = sigma_i(m) sigma_i(n)"\when\ "gcd(m, n) = 1.
+n > 0
+n = p_1^(e_1)p_2^(e_2) cdots p_k^(e_k),
+sigma_0(n) = prod_(i=1)^k(e_i+1)"\and\ " sigma_1(n) = prod_(i=1)^k( (p_i^(e_i+1)-1)/(p_i-1) ).
+varphi
+sum_(d'\\x002223'n)
+1
+n
+n.
+g
+f(n)
+f(n) = sum_(d'\\x002223'n)g(d)
+f
+m
+n
+f(mn).
+mn
+mn
+a
+m
+b
+n.
+a
+b
+m
+n
+d'\\x002223'mn
+a
+b
+m
+n.
+mn,
+n
+m.
+f(mn) = sum_(a'\\x002223'm) sum_(b'\\x002223'n)g(ab).
+f(mn) = sum_(a'\\x002223'm) sum_(b'\\x002223'n)g(ab) = sum_(a'\\x002223'm) sum_(b'\\x002223'n)g(a)g(b)
+= (sum_(a'\\x002223'm)g(a))(sum_(b'\\x002223'n)g(b)) = f(m)f(n).
+g(n) = n^i
+sum_(d'\\x002223'n)g(d) = sum_(d'\\x002223'n)d^i = sigma_i(n)
+i = 0
+i = 1
+sigma_0 = tau
+sigma_1 = sigma
+n^i.
+u(n) = 1
+N(n) = n
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+pi(x)
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+pi(x).
+pi(x) ~~ x/(log(x)-A) ,
+A ~~ 1.08366.
+pi(x)
+f(x)
+g(x)
+lim_(x->oo) (f(x))/(g(x)) = 1
+x
+1/(log(x)-A) .
+A
+lim_(x->oo) (pi(x))/(x//log(x)) = 1
+pi(x)
+x/(log(x)) .
+1//log(x)
+x
+1//log(x)
+pi(x) ~~ int_2^x dt/(log(t))
+lim_(x->oo) (pi(x))/(int_2^x dt/(log(t)) ) = 1.
+int_0^x dt/(log(t)) ,
+2,
+Li(x) = int_2^x dt/(log(t)) .
+pi
+Li(x)
+pi(x)
+x//log(x)
+A
+Li
+x//log(x)
+Li(x),
+x,
+x' > x
+Li(x') < pi(x').
+10^(10^(10^(10^(1000)))).
+34
+1000
+e^(e^(e^(79))).
+Li
+1.53 xx 10^(1165).
+1.4 xx 10^(316)
+pi
+Li
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n
+n
+n,
+n
+n
+ZZ_n.
+ZZ_n = {[0], [1], [2], cdots, [n-2], [n-1]}.
+n = p
+ZZ_p.
+ZZ_n
+ZZ_n
++
+[0]
+[1]
+[2]
+[0]
+[0]
+[1]
+[2]
+[1]
+[1]
+[2]
+[0]
+[2]
+[2]
+[0]
+[1]
+ZZ_3
+a
+b.
+xx
+[0]
+[1]
+[2]
+[0]
+[0]
+[0]
+[0]
+[1]
+[0]
+[1]
+[2]
+[2]
+[0]
+[2]
+[1]
+ZZ_3
+0
+n-1;
+ZZ_n;
+{[0], [1], [2], ..., [n-2], [n-1]}.
+n = 7
+n = 7
+a
+b
+a*b"\ (mod\ "p).
+0
+a*0 = 0
+1
+a*1 = a
+ZZ_n.
+n = p
+1
+p
+ZZ_p
+gcd(a, n) = 1,
+ax -= b
+n
+ZZ_n.
+n = p
+gcd(a, p) = 1
+a -= 0.
+b = 1,
+x
+a
+ZZ_p.
+ZZ_p
+ZZ_p?
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+x^2+3y^2 = 4.
+x^2-2y^2 = 1.
+x^2+y^2 = 15
+x
+y
+p, q, r.
+x^3-117y^3 = 5
+x^3 = y^2-999
+(2, 1)
+d = 1
+x^2-y^2 = 1
+d
+x_1, y_1
+x
+y
+x_0^2-ny_0^2 = k"\and\ "x_1^2-ny_1^2 = cc l
+x = x_0 x_1+ny_0 y_1, y = x_0 y_1+y_0 x_1 "\solves\ "x^2-ny^2 = kcc l.
+x^2-17y^2 = -1,
+x^2-17y^2 = 1.
+x^2-5y^2 = 1,
+x
+y.
+x^2+y^2 = c^2.
+x^2-y^2 = a^2,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+sigma(n)
+O(n^2)
+n
+n
+sigma(n)
+n^2.
+g
+h
+O(f)
+f,
+g+h
+O(f).
+g
+O(f)
+f,
+b > 0
+g
+O(bf)
+bg
+O(f).
+g
+O(f)
+f
+f(x) <= h(x)
+x
+g
+O(h).
+u
+N
+n
+u(n) = 1
+n
+N(n) = n
+n
+tau
+tau.
+tau(5) = 2 = (tau(1)+tau(2)+tau(3)+tau(4))/4
+n = 4, 5.
+n > 5
+tau
+O(root(3)(x))
+tau(n)
+O(1).
+C
+tau(n) <= C
+f
+1/n sum_(k=1)^n f(k) = O(1);
+f(n)
+O(1)?
+tau(n)
+O(log(n)),
+1/n sum_(k=1)^n tau(k) = O(log(n)).
+6^k,
+tau
+sigma
+varphi(n)
+n
+varphi
+n.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+log(zeta(s)) = s int_1^ oo J(x)x^(-s-1)dx
+zeta
+sigma = 1//2
+0
+100;
+zeta
+zeta(2) = (pi^2)/6
+f(x) = 5x^3-5x = 5(x-0)(x-1)(x+1).
+log(f(x)) = log(5)+log(x-0)+log(x-1)+log(x+1)
+log(f(x))
+R,
+R
+f
+5
+log(x-r)
+r.
+zeta
+zeta(1)
+zeta.
+zeta
+(s-1) zeta(s).
+(s-1) zeta(s)
+log(zeta(s)) = s int_1^ oo J(x)x^(-s-1)dx
+["(25.6.1)", J(x)=Li(x)-sum_ rho Li(x^ rho)-log(2)+int_x^ oo(dt)/(t(t^2-1)log(t)) ]
+zeta
+Li(x)
+(s-1) zeta(s)
+zeta(s).
+s int_1^ oo Li(x)x^(-s-1)dx = -log(s-1)
+s-1
+Li
+Li(x^ rho)
+rho
+zeta
+sigma = 1//2
+log(2)
+5
+f(x) = 5x^3-5x.
+zeta
+-2n
+Li(20^(1//2+it))
+Li(20^(1//2+it))
+Li(20^(1//2+it))
+zeta
+Li
+J(20)?
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+a, z
+a^2'\\x002223'z^2'\\x0027f9'a'\\x002223'z
+d = gcd(a, z).
+z^2 = a^2*k
+k,
+(z')^2 d^2 = (a')^2 d^2 k
+z'
+a',
+z = z'd
+a = a'd.
+z', a'
+d^2
+(z')^2 = (a')^2 k.
+gcd(a', z') = 1,
+a'x+z'y = 1
+x, y in ZZ;
+1
+a'*1*x
+a'(a'x+z'y)x+z'y = 1
+a^('2)x^2+z'(a'xy+y) = 1,
+gcd((a')^2, z') = 1
+a''\\x002223'(z')^2.
+a' = 1.
+a'
+-a'
+-a' = 1,
+a' = +-1.
+a = a'd = +-d,
+z,
+m, n, j
+mn = j^2
+gcd(m, n) = 1,
+m
+n
+gcd(x,y)^2 = gcd(x^2, xy, y^2)
+1 = gcd(m, n) = gcd(m, n, j),
+m = m*gcd(m, n, j) = gcd(m^2, mn, mj) = gcd(m^2, j^2, mj)
+m = gcd(m,j)^2.
+n
+j
+n = gcd(n,j)^2.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+ZZ
+n.
+a
+a.
+a
+a.
+[a] = {"all numbers congruent to\ "a"\modulo\ "n}
+[a]_n,
+1
+6,
+[1] = {1, 7, 13, 19, 25, -5, -11, 6001, ...}
+{1+6n'\\x002223'n in ZZ} = [1].
+ZZ
+n,
+n
+2*2*2*2
+3,
+2 -= -1
+2*2*2*2 -= -1*-1*-1*-1 -= 1,
+16 -= 1
+3
+2^(1000000000) = (2^2)^(500000000) = 4^(500000000) -= 1^(500000000) = 1"\mod\ "(3).
+2^(1000000000) -= 2^1 -= 2.
+1000000000 -= 1
+3,
+2^1'\\x002262'1
+3
+n
+n = 6,
+{0, 1, 2, 3, 4, 5},
+{[0], [1], [2], [3], [4], [5]}.
+{-2, -1, 0, 1, 2, 3},
+{[4], [5], [0], [1], [2], [3]}.
+n = 3
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n
+n > 3
+pi(n) = -1+sum_(j=3)^n((j-2)!-j|__((j-2)!)/j__|).
+|__(log(log(x)//log(2)))/(log(2)) __|+1 = |__log_2(log_2(x)) __|+1
+x.
+2, (2)+1, (2(2+1))+1, (2(2+1)(2(2+1)+1))+1, ...
+n
+n
+n
+2^(2^(n-1)).
+n = 1
+2.
+n
+2^(2^0)2^(2^1) cdots 2^(2^(n-2))+1 = 2^(1+2+4+cdots+2^(n-2))+1 = 2^(2^(n-1)-1)+1 <= 2^(2^(n-1))
+pi(x) = n,
+n
+2^(2^(pi(x)-1)),
+n
+n
+n
+2^(2^(pi(x)-1)) >= n,
+log(log(2^(2^(pi(x)-1)))) = log(2^(pi(x)-1)log(2)) = (pi(x)-1)log(2)+log(log(2)) >= log(log(n)).
+pi
+x < 5.
+n
+varphi(n, a)
+n
+a
+p_1
+p_a
+varphi(n, a) = varphi(n, a-1)-varphi(|__ n/(p_a) __|, a-1)
+varphi(n, a)
+pi(n) = pi(sqrt(n))+varphi(n, pi(sqrt(n)))-1.
+pi
+n
+n
+n
+nlog(n)
+pi(n)
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n -= 3"\ (mod\ "4),
+n
+(a, b)
+a^2+b^2 =
+n -= 1"\ (mod\ "4),
+0,
+1,
+2
+12,
+21,
+6
+n = a^2+b^2,
+n
+(a, b)
+(a^2+b^2)(c^2+d^2) = (ac-bd)^2+(ad+bc)^2
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+a
+n,
+a^(-1)
+n.
+n = 8.
+n = 12.
+81
+varphi
+p
+a
+p
+d.
+b
+d
+a^b
+d
+p.
+a^b,
+p
+d
+p-1
+U_p
+varphi(d)
+p
+d
+p.
+x^d -= 1
+p
+U_(13),
+p = 13.
+p
+varphi(p-1)
+p
+n.
+a
+p^e,
+p
+a
+p
+a
+2p^e.
+x^6 -= 4
+29
+x^4 -= 4
+99
+x -= y
+varphi(n)
+gcd(a, n) = 1,
+a^x -= a^y
+n
+x^3 -= 2
+23
+3^x -= 2
+23
+x^4 -= 2
+23
+13^x -= 5
+23
+3x^5 -= 1
+23
+3x^(14) -= 2
+23
+a
+ax^4 -= 2
+13
+p
+p > 3
+p.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+x -= a_i
+n_i
+n_i
+n_1 n_2 cdots n_k = N.
+N//n_i
+c_i.
+i
+N.
+c_i
+n_i.
+i,
+d_i
+c_i d_i -= 1"\ (mod\ "n_i)
+c_i
+n_i,
+n_i,
+i,
+a_i*c_i*d_i.
+x = a_1 c_1 d_1+a_2 c_2 d_2+cdots+a_k c_k d_k.
+i
+n_j.
+c_j
+n_i
+c_i
+i != j,
+n_i
+a_j c_j d_j -= 0"\ (mod\ "n_i).
+a_i c_i d_i -= a_i*1 -= a_i "\ (mod\ "n_i)
+n_i,
+n_i.
+x -= 0+0+cdots+a_i+cdots+0"\ (mod\ "n_i).
+x'
+x' -= a_i -= x
+n_i
+n_i'\\x002223'x'-x
+n_i.
+n_i
+N'\\x002223'x'-x
+a'\\x002223'c
+b'\\x002223'c
+gcd(a, b) = 1,
+ab'\\x002223'c
+x' -= x
+N
+x
+N!
+x -= 1
+5
+x -= 2
+6
+x -= 3
+7
+c_i,
+c_i = N//n_i.
+c_i
+n_i.
+42d_1 -= 2d_1 -= 1"\ (mod\ "5)"\yielding\ "d_1 = 3, "\since\ "2*3 = 6 -= 1"\ (mod\ "5).
+836
+N:
+206,
+x -= 1
+6
+x -= 11
+35
+x -= 3
+11
+X -= Y
+N
+N = prod m_i,
+gcd(m_i, m_j) = 1
+i != j.
+N
+X-Y,
+N,
+X -= Y
+m_i
+N.
+(X_i, Y_i)
+X_i -= Y_i "\ (mod\ "m_i)
+X -= Y"\ (mod\ "N)
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n = 11
+n = 11
+a:
+a^p -= a"\ (mod\ "p).
+a
+a^n'\\x002262'a
+n
+n
+a^n -= a
+n
+n,
+n
+a^n -= a
+n
+n
+a
+a = 2
+a
+n = 341,
+n = 561,
+n = 645
+a = 2
+2,
+a
+a^n -= a
+n
+n
+a.
+2
+161038 = 2*73*1103
+n
+2^n-1.
+2
+a = 3.
+341
+645
+561?
+a = 5
+a = 7
+11?
+561
+a
+a.
+p^(561) -= p
+p!
+561
+a.
+561 = 3*11*17,
+a^(561) -= a"\ (mod\ "561)
+a^(561) -= a
+3, 11, 17;
+varphi(p)
+561
+561 -= 1"\ (mod\ "16 = 17-1)
+a^(561) -= a^1 "\ (mod\ "17)
+561 -= 1"\ (mod\ "2 = 3-1)
+a^(561) -= a^1 "\ (mod\ "3)
+561 -= 1"\ (mod\ "10 = 11-1)
+a^(561) -= a^1 "\ (mod\ "11)
+p = 3, 11, 17
+a^(561) -= a^1 "\ (mod\ "p)
+a^(560)
+1,
+a^n -= a
+a,
+561
+n,
+n
+p_i
+n-1 -= 1
+p_i.
+n
+n
+p_i
+n = p_1 p_2 p_3 cdots p_k "\with\ "p_i != p_j
+p_i-1'\\x002223'n-1
+561
+n -= 1
+varphi(p_i)
+varphi
+U_n
+n.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
++-1,
+n.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p
+q,
+(p/q)(q/p) = (-1)^( (p-1)/2(q-1)/2)
+p
+q
+4k+3.
+p
+q
+R = sum_("even\ "e,0<e<p)|__(qe)/p__|
+(q/p) = (-1)^R.
+|__(qe)/p__|.
+(qe)/p,
+q//p
+p
+q
+x
+q//p
+(p-1)/2
+(q-1)/2
+|__(qe)/p__|
+|__(qe)/p__|
+|__(qe)/p__|
+e.
+p = 11, q = 7
+|__(7*2)/11__|+|__(7*4)/11__|+|__(7*6)/11__|+|__(7*8)/11__|+|__(7*10)/11__| =
+|__ 14/11__|+|__ 28/11__|+|__ 42/11__|+|__ 56/11__|+|__ 70/11__| =
+1+2+3+5+6 = 17 -= 1"\ (mod\ "2),
+7
+11
+3
+R
+mu.
+mu = sum_(f=1)^((p-1)//2)|__(qf)/p__|.
+R
+mu
+(q/p),
+R
+mu,
+(p/q);
+R' = sum_("even\ "e',0<e'<q)|__(pe')/q__|
+mu'.
+-1
+(q/p)(p/q).
+mu+mu'
+q
+p
+(p, q),
+(p-1)/2
+(q-1)/2,
+(p-1)/2* (q-1)/2 -= sum_("even\ "e,0<e<p)|__(qe)/p__|+sum_("even\ "e',0<e'<q)|__(pe')/q__|"\ (mod\ "2),
+(q/p)(p/q) = (-1)^(R+R') = (-1)^( (p-1)/2* (q-1)/2).
+x
+R -= mu
+2
+mu = |__(7*1)/11__|+|__(7*2)/11__|+|__(7*3)/11__|+|__(7*4)/11__|+|__(7*5)/11__|?
+x
+(p-1)/2
+y
+q
+x
+(p-1)/2
+y
+(p-1)/2,
+(p-1)/2
+p
+q
+q
+p
+(p/2, q/2).
+p
+q
+mu
+R
+q-1
+(mu)
+R
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+zeta
+zeta(s) = sum_(n=1)^ oo 1/(n^s) = 1+1/(2^s) +1/(3^s) +cdots
+s.
+zeta
+s
+zeta
+s.
+s.
+s = 1.
+prod_(p'\\x002223'n)(1+1/p+1/(p^2) +cdots+1/(p^e) ) = sum_(d'\\x002223'n) 1/d.
+n,
+d
+n
+(1+1/2+1/(2^2) +1/(2^3) +cdots)(1+1/3+1/(3^2) +1/(3^3) +cdots)
+sum_(2'\\x002223'n"\or\ "3'\\x002223'n) 1/n.
+prod_p(1+1/p+1/(p^2) +1/(p^3) +cdots) = sum_(n=1)^ oo 1/n.
+prod_p(1/(1-1//p) ) = sum_(n=1)^ oo 1/n.
+=
+zeta(1) = sum_(n=1)^ oo 1/n "\ '\\x00201c'" = "'\\x00201d'\ " prod_p(1/(1-1//p) ) = prod_p(1/(1-p^(-1)) ).
+f
+x -> oo.
+sum_(i=1)^n f(i)
+int_1^ oo f(x)dx
+zeta(s)
+int_1^ oo x^(-s)dx.
+sum_(n=1)^ oo 1/(n^2)
+int_1^ oo dx/(x^2) .
+int_1^ oo x^(-s)dx = (-x^(-s+1))/(1-s) |_1^ oo = 1/(1-s) (1-lim_(x->oo) 1/(x^(s-1)) ).
+s
+s > 1
+x
+zeta.
+zeta(s)
+s > 1.
+zeta(s) = sum_(n=1)^ oo 1/(n^s) = prod_p(1/(1-p^(-s)) )
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+1+2+3+4+5+6+7+8+9+10+cdots
+2*3*4*5*6*7*8*9*10*cdots
+1+2+3+4+5+6+7+8+9+10+cdots = -1/12,
+2^(3^(4^(5^(6^(7^(8^(9^ cdots)))))))
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+p
+p-1
+U_p
+d
+n
+varphi(d).
+d = p-1,
+n = 41:
+n = 32;
+varphi(d).
+g
+p,
+g^(p-1) -= 1
+p
+p-1
+g, g^3, g^5, ..."\and\ "g^2, g^4, g^6, ...
+g
+p.
+g
+g'?
+p
+U_p
+d
+varphi(d)
+d
+varphi(p) = p-1
+p
+d
+p-1
+p-1
+U_p
+|{a in U_p'\\x002223'a"\has order\ "d}|.
+varphi(d).
+a
+d,
+a
+d
+varphi(d)
+U_p
+d
+varphi(d) > 0,
+a
+d
+d.
+d'\\x002223'p-1
+U_p
+p-1.
+d'
+d' = p-1
+U_p
+p-1 = sum_(d'\\x002223'p-1)|{a in U_p'\\x002223'a"\has order\ "d}| <= 0+sum_(d'\\x002223'p-1,d!=d') varphi(d).
+n = p-1
+sum_(d'\\x002223'p-1,d!=d') varphi(d) < sum_(d'\\x002223'p-1) varphi(d) = p-1.
+p-1 < p-1,
+U_n
+varphi(n)
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+[a]
+nk+a
+a?
+4k+1
+8k+1,
+a = 2.
+23#.
+(1-2/p) = (1-1/((p-1)^2) )(1-1/p)^2.
+n
+n
+n+2
+n
+n
+n+2
+10,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+x^2+5x+5 -= 0"\ (mod\ "5)
+x^2+5x+7 -= 0"\ (mod\ "n).
+e > 1,
+x^2 -= -1"\ (mod\ "2^e).
+n
+-1
+n?
+4
+7.
+4
+7^3
+343
+x^2+3x+5 -= 0"\ (mod\ "15)
+x^2+6x+5 -= 0
+17
+5x^2+3x+1 -= 0
+17
+p
+sum_(a=1)^(p-1)(a/p) = 0.
+sum_(a in Q_p)a,
+p.
+p > 2.
+p
+(p-1)/2-varphi(p-1)
+a != 0
+p = 7,
+-5
+3
+p
+p -= 1"\ (mod\ "12).
+(3/p).
+p,
+p:
+sum_(a=1)^(p-2)(a/p)( (a+1)/p)
+p.
+2^e,
+x^2 -= a
+2^e
+n = pq
+p, q.
+ax^2+bx+c
+gcd(2a, n) = p > 1
+p
+q,
+n.
+p, q
+a = p.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+(2/p)
+2x
+2.
+a
+ax
+(a/p)
+p
+gcd(a, p) = 1.
+p = 11
+p = 13.
+p.
+E
+p.
+E = {2, 4, 6, ..., p-1}.
+a
+p,
+a
+aE = {2a, 4a, 6a, ..., (p-1)a}.
+aE
+p,
+bar(aE);
+ae-kp = r_(a,e)
+k
+(p-1)//2
+a
+aE.
+bar(aE)
+ZZ_p,
+p
+(-1)^x x
+x in bar(aE).
+{"\Remainder of\ "(-1)^x x'\\x002223'x in bar(aE)} = E.
+bar(aE)
+p.
+x
+(-1)^x x
+x,
+x
+(-1)^x x = -x
+p-x,
+e
+e',
+k
+k',
+(-1)^(ae-kp)(ae-kp) -= (-1)^(ae'-k'p)(ae'-k'p)"\ (mod\ "p).
+p,
+gcd(a, p) = 1
+a
+e -= +-e'.
+e
+e'
+e'\\x002262'e',
+e -= -e'.
+e+e' -= 0.
+E
+p,
+0 < e+e' < 2p.
+p
+e+e' = p,
+e = e'.
+p = 11
+a = 3
+E = {2, 4, 6, 8, 10}"\and\ " bar(aE) = {6, 1, 7, 2, 8}.
+{(-1)^6 6, (-1)^1 1, (-1)^7 7, (-1)^2 2, (-1)^8 8} -= {6, 10, 4, 2, 8}.
+a^((p-1)//2)
+(p-1)//2
+E.
+aE:
+prod_(e in E)ae = a^((p-1)//2) prod_(e in E)e.
+p;
+r_(a,e)
+ae
+prod_(e in E)r_(a,e) -= a^((p-1)//2) prod_(e in E)e.
+e
+(-1),
+prod_(e in E)e -= prod_(e in E)(-1)^(r_(a,e))r_(a,e) -= (-1)^(sum_(e in E)r_(a,e)) prod_(e in E)r_(a,e).
+prod_(e in E)r_(a,e) -= a^((p-1)//2) prod_(e in E)e -= a^((p-1)//2)(-1)^(sum_(e in E)r_(a,e)) prod_(e in E)r_(a,e).
+(-1)
+a^((p-1)//2) -= (-1)^(sum_(e in E)r_(a,e)).
+p = 11
+a = 3
+prod_(e in E)ae
+6*12*18*24*30 -= 6*1*7*2*8
+6*12*18*24*30 -= 3^5*2*4*6*8*10 -= 3^5(-1)^(6+1+7+2+8)*6*1*7*2*8.
+6+1+7+2+8
+a
+p,
+11+11+3 = 25 = 5^2
+(3/11) = 1.
+(a/p) = (-1)^(sum_(e in E)r_(a,e))
+p
+r_(a,e)
+e in E.
+ae = p|__(ae)/p__|+r_(a,e)
+sum_(e in E)r_(a,e) = sum_(e in E)ae-p sum_(e in E)|__(ae)/p__|
+e
+-p
+1,
+2.
+p
+a
+E = {2, 4, 6, ..., p-1};
+(a/p) = (-1)^(sum_(e in E)|__(ae)/p__|).
+p = 11
+a = 3,
+|__ 6/11__|+|__ 12/11__|+|__ 18/11__|+|__ 24/11__|+|__ 30/11__| = 0+1+1+2+2 = 6.
+3
+11.
+p = 17
+a = 45 -= 11.
+|__ 22/17__|+|__ 44/17__|+|__ 66/17__|+|__ 88/17__|+|__ 110/17__|+|__ 132/17__|+|__ 154/17__|+|__ 176/17__|
+= 1+2+3+5+6+7+9+10 = 43.
+45
+17.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+gcd(a, b) = 1
+a
+b
+a'\\x002223'c,
+b'\\x002223'c,
+gcd(a, b) = 1,
+a = prod p_i
+b = prod q_j
+p_i
+q_j
+c = prod r_k^(e_k),
+r_k
+p_i
+r_k
+q_j
+prod p_i q_j
+c.
+a'\\x002223'c,
+b'\\x002223'c,
+gcd(a, b) = 1,
+ab'\\x002223'c,
+a^2'\\x002223'z^2
+a'\\x002223'z.
+a = prod p^e.
+a^2 = prod p^e*prod p^e = prod p^(e+e) = prod p^(2e)
+z = prod q^f "\implies\ "z^2 = prod q^(2f)
+p,
+p^(2e)'\\x002223'q^(2f)
+q;
+q = p
+q
+z^2
+p
+a^2.
+p^(2f) = p^(2e)p^((2f-2e))
+2e <= 2f,
+e <= f
+p
+a,
+p^e'\\x002223'p^f = q^f
+p;
+a = prod p^e|prod p^f|prod q^f = z
+a = prod_(i=1)^n p_i^(e_i)
+b = prod_(i=1)^n p_i^(f_i),
+e_i
+f_i
+a
+b.
+x <= y,
+max(x, y) = y"\and\ "min(x, y) = x
+ab = prod_(i=1)^n p_i^(e_i+f_i)
+gcd(a, b) = prod_(i=1)^n p_i^(min(e_i,f_i))
+b'\\x002223'a,
+a//b = prod_(i=1)^n p_i^(???)
+sqrt(2)
+sqrt(m)!in QQ
+m
+p
+p^k'\\x002225'n
+p^k'\\x002223'n
+p^(k+1)
+n.
+n!
+1
+n,
+n
+5^2'\\x002225'75
+6! = 720.
+2
+5
+20!
+2^(18)'\\x002225'20!
+5^4'\\x002225'20!,
+20!
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+d
+x^k-b^k
+p
+f(x)
+d,
+f
+p
+d
+f(x) -= 0
+p.
+f(x) -= 0
+p
+0 <= d
+d = 0
+f(x) = c
+c != 0.
+c = 0
+d = 1.
+ax+b -= 0
+p
+ax -= -b
+p
+gcd(a, p) = 1
+ax+b
+p'\\x002223'a
+e
+d
+e
+p,
+f
+d:
+f(x) = a_d x^d+a_(d-1)x^(d-1)+cdots+a_1 x+a_0.
+f
+f(b) -= 0
+p
+[b].
+f(x)-f(b):
+f(x)-f(b) -= f(x) -=
+(a_d x^d+a_(d-1)x^(d-1)+cdots+a_1 x+a_0)-(a_d b^d+a_(d-1)b^(d-1)+cdots+a_1 b+a_0) =
+a_d(x^d-b^d)+a_(d-1)(x^(d-1)-b^(d-1))+cdots+a_1(x-b)
+(x^k-b^k) = (x-b)(x^(k-1)+cdots+b^(k-1)).
+x-b:
+(x-b)*("A bunch of other Stuff").
+d.
+f(x) -= 0
+f(b) -= 0:
+f(x) -= 0
+f(x) -= f(x)-f(b) -= (x-b)*"Stuff"(x)
+f(x) -= (x-b)*"Stuff"(x) -= 0"\ (mod\ "p)
+p
+x-b
+p
+d,
+d-1
+p
+p
+p
+x-b
+f(x),
+d
+f(x),
+x -= b.
+f(x)
+d,
+2^(k+2)
+x^2-1 -= 0
+8p_1 p_2 cdots p_k.
+x^2+-1
+x^n -= 0
+p
+x^2+1 -= 0
+x^2+1 -= 0
+x^2+1 = 0
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+x, y in ZZ
+ax+by = c"\for given\ "a, b, c in ZZ.
+6x+4y = 2
+a, b, c,
+x, y
+ax+by = c.
+d = gcd(a, b),
+a = b = 0
+d = 0.
+c
+d
+c != d = 0
+a
+b
+c,
+a, b != 0
+c = d,
+a, b != 0
+c
+d,
+ax+by = d.
+c
+d:
+a
+b
+c = d:
+c
+d:
+c
+gcd(a, b)
+d != 0,
+ax+by = c
+a = 6,
+b = 9,
+c = 5.
+a = 0 = b
+c != 0.
+a
+b
+b = 0
+gcd(a, b) = a.
+a = 55
+ax = c,
+d = a'\\x002223'c.
+(c/a, y)
+y
+a = 0
+c = gcd(a, b)
+a, b != 0
+c
+a
+b...
+a = 60,
+b = 42,
+c = 6
+d
+(x_0, y_0).
+ax_0+by_0 = c
+x = x_0+b/d n, y = y_0-a/d n"\for\ "n in ZZ!
+a
+b
+x
+y
+y
+x.
+x
+y
++-
+-n
+n
+a(x_0+b/d n)+b(y_0-a/d n) = ax_0+ (abn)/d+by_0- (abn)/d
+ax_0+by_0 = c
+a
+b
+d,
+b/d
+a/d
+x = x', y = y',
+ax'+by' = c = ax_0+by_0
+a/d(x'-x_0) = -b/d(y'-y_0).
+b/d
+b/d
+x'-x_0
+k
+x'-x_0 = k b/d ", which means\ "x' = x_0+k b/d,
+6x+4y = 2
+6x+4y = 2
+x_0 = 1, y_0 = -1.
+x = 1+4/2 n, y = -1-6/2 n
+x = 1+2n, y = -1-3n, n in ZZ.
+c
+c
+d'\\x002223'c?
+c = dm,
+d
+ax+by = d.
+(x_0, y_0)
+d = ax_0+by_0.
+m
+c = dm = ax_0 m+by_0 m = a(x_0 m)+b(y_0 m)
+x = x_0 m, y = y_0 m
+ax+by = c.
+x = x_0 m+b/d n, y = y_0 m-a/d n
+c = d
+m
+15x-21y = 6,
+d = 3;
+c
+d?
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n.
+x^5-x+2
+x^3 = y^2-7
+n,
+n.
+[22]+[21]
+23
+-1 in[22]
+-2 in[21].
+[-3]
+[22+21] = [43] = [20]
+23.
+4^(20)
+6
+4^(20) -= (4^2)^(10) -= 16^(10) -= 4^(10) -= (4^2)^5 -= 16^5 -= 4^5 -= (4^2)^2*4 -= 4^2*4 -= 4*4 -= 4
+4 -= -2
+6
+4^(20) -= (-2)^(20) -= ((-2)^2)^(10) -= 4^(10) -= (-2)^(10) -= ((-2)^2)^5 -= 4^5 -= (-2)^5
+-= ((-2)^2)^2*(-2) -= 4^2*(-2) -= (-2)^2*(-2) -= 4*(-2) -= (-2)*(-2) -= 4.
+[a]^n
+a^([n])
+2^3 "\ (mod\ "5), 7^3 "\ (mod\ "5), "\and\ "2^8 "\ (mod\ "5), 7^8 "\ (mod\ "5).
+n
+a:
+a^(2^1) = a^2
+a^(2^2) = (a^2)^2
+a^(2^3) = (a^(2^2))^2
+a^(2^n) = (a^(2^(n-1)))^2
+a
+a
+a^(2^n)
+2^n = 2^(n-1)*2 = 2^(n-1)+2^(n-1),
+a^(2^n)
+a^(2^(n-1)+2^(n-1)) = a^(2^(n-1))*a^(2^(n-1)) = (a^(2^(n-1)))^2
+x^(20),
+16
+2
+20.
+x^2
+n.
+(x^2)^2 = x^(2^2) = x^4
+n
+x^(2^3) = x^8
+x^(2^4) = x^(16);
+n
+x^(20)
+x
+2
+x^(20) = x^(16+4) = x^(2^4+2^2) = x^(2^4)*x^(2^2)
+n
+2^(23)
+11
+23 = 2^4+2^2+2+1", so\ "2^(23) = 2^(2^4)*2^(2^2)*2^2*2.
+2
+2^2 -= 4"\ (mod\ "11"),\ "(2^2)^2 = 4^2 -= 5"\ (mod\ "11"),\ "
+(2^4)^2 = 5^2 -= 3"\ (mod\ "11"), and\ "(2^8)^2 = 3^2 -= 9"\ (mod\ "11)
+2^(2^4)*2^(2^2)*2^2*2 -= 9*5*4*2 -= 18*20 -= 7*9 -= 63 -= -3 -= 8"\ (mod\ "11)
+x^k
+n:
+k = sum_(i=1)^cc l k_i 2^i,
+k_i = 0
+1.
+k.
+x^2,
+x^4,
+x^8,
+n.
+prod_(i=1)^cc l x^(k_i 2^i)
+k_i = 0
+i = 3
+x^(20)
+2log_2(n)
+n
+n^2,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+J
+pi
+pi(x) = J(x)-1/2 J(sqrt(x))-1/3 J(root(3)(x))-1/5 J(root(5)(x))+1/6 J(root(6)(x))+cdots
+pi(x),
+pi(x) = sum_(n=1)^ oo(mu(n))/n[Li(x^(1//n))-sum_ rho(Li(x^(rho//n))+Li(x^(bar rho//n)))+int_(x^(1//n))^ oo dt/(t(t^2-1)log(t)) ]
+log(2)
+sum_(n=1)^ oo(mu(n))/n = 0,
+rho
+bar rho
+rho
+1//2,
+pi(x),
+Li(x),
+Li
+pi(x)
+sigma(n)
+n
+sigma(n) < e^ gamma log(log(n))
+O(sqrt(p)log(p)
+pi(x)?
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+J
+pi,
+J
+pi
+zeta
+zeta
+J.
+zeta
+J;
+J
+pi
+pi
+pi(x),
+Li(x),
+Li
+pi(x)
+J
+zeta.
+zeta
+zeta(s) = prod_p 1/(1-p^(-s))
+J,
+log(zeta(s)) = sum_plog(1/(1-p^(-s)) ) = sum_p-log(1-p^(-s))
+-log()
+-log(1-x) = sum_(k=1)^ oo(x^k)/k
+log(zeta(s)) = sum_p sum_(k=1)^ oo((p^(-s))^k)/k
+((p^(-s))^k)/k = s/k int_(p^k)^ oo x^(-s-1)dx.
+zeta
+log(zeta(s)) = sum_p sum_(k=1)^ oo((p^(-s))^k)/k
+= sum_p sum_(k=1)^ oo s/k int_(p^k)^ oo x^(-s-1)dx = s sum_p sum_(k=1)^ oo int_(p^k)^ oo 1/k x^(-s-1)dx.
+p^k
+oo
+int_(p^k)^ oo 1/k x^(-s-1)dx = int_1^(p^k) 1/k*0*x^(-s-1)dx+int_(p^k)^ oo 1/k x^(-s-1)dx
+k
+p
+1
+oo.
+log(zeta(s)),
+sum_p sum_(k=1)^ oo((p^(-s))^k)/k?
+k
+p.
+x
+p^1 = p,
+1/1 x^(-s-1).
+p
+pi(x)x^(-s-1)...
+x
+p^2,
+1/2 x^(-s-1).
+sqrt(x)
+1/2 pi(sqrt(x))x^(-s-1)...
+x
+1/3 x^(-s-1).
+root(3)(x)
+1/3 pi(root(3)(x))x^(-s-1)
+k.
+(pi(x)+1/2 pi(sqrt(x))+1/3 pi(root(3)(x))+cdots)x^(-s-1).
+J(x),
+x^(-s-1).
+log(zeta(s)) = s sum_p sum_(k=1)^ oo int_(p^k)^ oo 1/k x^(-s-1)dx = s int_1^ oo J(x)x^(-s-1)dx.
+zeta
+J.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+x^3 -= a"\ (mod\ "n).
+x^2-ny^2 = 1.
+x^2+7y^2.
+pi(x).
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+ax+by = c
+c = gcd(a, b)
+ax+by = c
+x, y
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+n = 11
+n = 11
+"For any odd prime modulus\ "p'\\x002224'a", we have\ "a^((p-1)//2) -= +-1"\ (mod\ "p).
+a^(p-1) -= 1
+a^((p-1)//2)
+x^2 -= 1.
+p
+(p-1)//2
+x^2 -= 1
+p'\\x002223'x^2-1 = (x+1)(x-1).
+p
+p'\\x002223'x-1
+p'\\x002223'x+1.
+x -= +-1
+p).
+a^((p-1)//2)
+a^((p-1)//2) -= +-1
+p
+n
+a^((n-1)//2)'\\x002262'+-1"\ (mod\ "n),
+a = 2.
+2^(561-1) -= 1
+561
+a = 3?
+3^((561-1)//2)'\\x002262'+-1
+561
+a
+a
+n-1;
+a^((n-1)//2)"\ (mod\ "n).
+-1
+n
++-1,
+n
++-1
++1,
+n-1
+n
+a^((n-1)//2) -= 1,
+a
+-1
+n
++-1,
++1
+n-1
++-1,
+n
+1387
+M_(11),
+n = 2047
+(2047-1)//2 = 1023
+2047
+1009.
+-= 1.
+-= -1,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+3^2+4^2 = 5^2.
+3^2
+2^3
+5^2
+3^3
+x^3 = y^2-1
+x^3 = y^2-1
+x^3 = y^2+k
+k = 2,
+x^3 = y^2+k
+k = 2
+25+2 = 27.
+pi
+k = -1,
+9-1 = 8
+x^3 = y^2-1,
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+zeta,
+L
+r_(12)(n)
+n
+(1, 2)
+(2, 1)
+(-2, 1)
+p
+(r_(12)(p)-8(p^5+1))/(32p^(5//2))
+2/pi sqrt(1-t^2)
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+f(n)
+n
+pi(x)
+x,
+x,
+pi(x) = #{p <= x'\\x002223'p"\is prime\ "}.
+pi(x).
+pi(x)
+O(x//log(x))
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+x^2+y^2 = z^2.
+z^2:
+(x^2)/(z^2) + (y^2)/(z^2) = 1 => (x/z)^2+(y/z)^2 = 1.
+a^2+b^2 = 1,
+x^2+y^2 = 1
+(1, 0)
+(1, 0)
+-2//3
+(1, 0)
+t
+y = t(x-1).
+x^2+y^2 = 1
+y,
+x^2+(t(x-1))^2 = 1 => x^2+t^2 x^2-2xt^2+t^2 = 1
+(t^2+-1)/(t^2+1) .
+(t^2+1)/(t^2+1) = 1
+(1, 0)
+(t^2-1)/(t^2+1) = x;
+y = t( (t^2-1)/(t^2+1) -1) = (-2t)/(t^2+1) .
+t
+( (t^2-1)/(t^2+1) , (-2t)/(t^2+1) ).
+t = 0
+t = oo
+t
+(-1, 0)
+(0, 1),
+y = x^3
+(0, 0).
+y = p/q x.
+p/q x = x^3'\\x0027f9'p/q x-x^3 = 0'\\x0027f9'x(p/q-x^2) = 0
+x
+p//q.
+oo = 1//0
+x^2+3y^2 = 1.
+(1, 0)
+y = t(x-1).
+x^2+3y^2 = 1,
+x^2+3t^2(x-1)^2 = 1 => x^2+3t^2 x^2-6t^2 x+3t^2-1 = 0
+x
+x
+t.
+-1//2
+x = 1,
+x-1
+x = 1.
+x = (3t^2-1)/(3t^2+1) , y = (-2t)/(3t^2+1)
+(11/13, (-4)/13).
+x
+y
+11^2+3(-4)^2 = 13^2.
+x^2+3y^2 = z^2,
+x^2+y^2 = 15
+x^2+y^2 = 15z^2.
+(p//q, r//q)
+p, r, q in ZZ,
+q
+(x, y, z) = (p, r, q)
+(0, 0, 0)
+p^2+r^2 = 15q^2
+4.
+sqrt(15)
+x, y = 0
+z = 0,
+2x^2+3y^2 = 1.
+2x^2+3y^2 = z^2.
+2 -= (zx^(-1))^2 "\ (mod\ "3)
+[0], [1], [2]
+[0]
+[1]
+ZZ_3.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+(2/p)
+p
+(2/p) = 1
+p -= +-1
+8
+(2/p) = -1
+p -= +-3
+8
+(p-1)!
+p = 11.
+(11-1)! = 10! = 1(2)(3)(4)(5)(6)(7)(8)(9)(10)
+= (2*4*6*8*10)*(1*3*5*7*9)
+= 2^5*(1*2*3*4*5)*(1*3*5*7*9).
+1, 3, 5
+(11-1)/2 = 5.
+10!
+2.
+1, 3, 5,
+-1, -3, -5 -= 10, 8, 6,
+10!.
+-1
+10! = 2^5*(1*2*3*4*5)*(1*3*5*7*9)
+-= 2^5*(1*2*3*4*5)*(-1)^3*(-1*-3*-5)*(7*9)
+-= 2^5*(-1)^3*(1*2*3*4*5)*(10*8*6)(7*9) -= (-1)^3*2^5*(10!)"\ (mod\ "11).
+10!
+1 -= 2^5(-1)^3'\\x0027f9'2^((11-1)//2) -= 2^5 -= (-1)^3 -= -1"\ (mod\ "11)
+p = 11.
+(p-1)!
+2^((p-1)//2),
+(p-1)//2.
+(p-1)//2
+p,
+(p-1)!
+p -= 3
+4
+p = 11,
+(p-1)//2
+( (p-1)/2-1) 1/2+1 = (p+1)/4
+1, 3, 5
+p -= 1
+4
+p = 17
+(p-1)//2
+( (p-1)/2) 1/2 = (p-1)/4
+1, 3, 5, 7
+(p+1)//4
+(p-1)//4,
+p -= 1
+4
+(p-1)/4
+(2/p) = 1.
+p -= 1
+8
+p -= 1
+8
+p -= 1
+4
+(p-1)/4
+(2/p) = -1.
+p -= 5
+8
+p -= 5
+8
+p -= 3
+4
+(p+1)/4
+(2/p) = 1.
+p -= 7
+8
+p -= 7
+8
+p -= 3
+4
+(p+1)/4
+(2/p) = -1.
+p -= 3
+8
+p -= 3
+8
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+pi(x)
+pi(x)
+mu(n)
+zeta
+zeta
+J
+f.
+J(x).
+pi(x)
+J(x) = pi(x)+1/2 pi(sqrt(x))+1/3 pi(root(3)(x))+1/4 pi(root(4)(x))+cdots = sum_(n=1)^ oo 1/n pi(x^(1//n))
+x,
+J(20):
+J(20) = pi(20)+1/2 pi(sqrt(20))+1/3 pi(root(3)(20))+1/4 pi(root(4)(20)) = 8+2/2+1/3+1/4 = 9 7/12
+root(5)(20) ~~ 1.8
+pi(root(5)(20)) ~~ pi(1.8) = 0,
+pi(x).
+J(x) = sum_(n=1)^ oo 1/n pi(x^(1//n))
+sum_(d'\\x002223'n) 1/d,
+sum_(n=1)^ oo 1/n,
+sum_(n=1)^ oo f(x//n)
+sum_(n=1)^ oo g(x//n)
+g(x) = sum_(n=1)^ oo f(x//n)'\\x0027fa'f(x) = sum_(n=1)^ oo mu(n)g(x//n).
+g = J
+f(x//n) = 1/n pi(x^(1//n)).
+pi(x)
+J:
+pi(x) = sum_(n=1)^ oo mu(n) (J(x^(1//n)))/n = J(x)-1/2 J(sqrt(x))-1/3 J(root(3)(x))-1/5 J(root(5)(x))+1/6 J(root(6)(x))+cdots.
+f(x//n) = 1/n pi(x^(1//n))
+x
+n,
+x//n.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+(sigma(n))/n
+2,
+n
+n
+n
+2^n-1
+2^(n-1)(2^n-1)
+N
+2^(n-1)
+2^n-1
+n
+2^n-1
+N = 2^(n-1)(2^n-1)
+sigma(2^(n-1)(2^n-1)) = sigma(2^(n-1)) sigma(2^n-1) = (2^n-1)(2^n-1+1)
+sigma
+(2^n-1)(2^n-1+1) = 2^n(2^n-1) = 2[2^(n-1)(2^n-1)]
+N,
+(n-1)
+N = 2^(n-1)q,
+q
+sigma(2^(n-1)q) = 2*2^(n-1)q = 2^n q
+sigma,
+sigma(2^(n-1)q) = sigma(2^(n-1)) sigma(q) = (2^n-1) sigma(q)
+2^n q = (2^n-1) sigma(q)
+2^n-1'\\x002223'q,
+q
+(2^n-1)m = q.
+2^n(2^n-1)m = (2^n-1) sigma(q) => 2^n m = sigma(q)
+m
+q
+q,
+sigma
+sigma(q) >= q+m = (2^n-1)m+m = 2^n m
+q
+m
+sigma(q),
+q
+m = 1,
+q = 2^n-1,
+N
+2^(n-1)(2^n-1).
+n
+n
+n
+13,
+(2^(13)-1)*2^(12),
+sigma(n)//n.
+sigma(n) = 2n,
+n
+sigma(n) = kn
+k,
+n
+k
+sigma(n) > 2n,
+n
+sigma(n) < 2n,
+n
+n
+sigma(n)//n
+n
+m < n.
+(sigma(n))/n
+n.
+(sigma(n))/n?
+sigma_(-1)(n).
+sigma_(-1)(n) = (sigma(n))/n
+sigma(n)//n = (sum_(d'\\x002223'n)d)//n
+d'\\x002223'n,
+d'
+n.
+sigma(n)//n = sum_(d'\\x002223'n) 1/(d')
+sigma(n)//n = sum_(d'\\x002223'n) 1/d = sigma_(-1)(n)
+[1, oo).
+m'\\x002223'n,
+sigma_(-1)(n) >= sigma_(-1)(m).
+sigma_(-1)(n) = a/b
+b'\\x002223'n.
+r
+sigma(n)
+n
+n < r < sigma(n)
+n,
+r//n
+m, n
+sigma(n) = sigma(m) = m+n
+(220, 284).
+sigma
+p_n = 3*2^n-1
+q_n = 9*2^(2n-1)-1.
+p_(n-1),
+p_n,
+q_n
+2^n p_(n-1)p_n
+2^n q_n
+sigma
+18416
+17296.
+9363584
+9437056,
+n = 7.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+NN = {0, 1, 2, 3, 4, cdots}.
+ZZ = {cdots, -3, -2, -1, 0, 1, 2, 3, cdots}.
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+a
+a
+n
+varphi(n)
+n = 11,
+varphi(11) = 10.
+a in U_(11)
+a^(10) -= 1"\ (mod\ "11),
+varphi(11) = 10,
+a^2
+a^5;
+a^k
+-= 1,
+a
+a = 2.
+2^2 -= 4'\\x002262'1"\ (mod\ "11)"\and\ "2^5 = 32 -= -1'\\x002262'1"\ (mod\ "11),
+2
+a = 3?
+3^2 = 9'\\x002262'1"\ (mod\ "11),
+3^5 = 9*9*3 -= (-2)^2*3 -= 12 -= 1"\ (mod\ "11)
+3
+a = 2
+a = 3
+a
+a = 4, 5, 6
+a in U_n
+a^(varphi(n)//q)'\\x002262'1"\in\ "U_n "\for each prime\ "q'\\x002223'varphi(n).
+a
+varphi(n)
+k
+a^k -= 1,
+varphi(n),
+varphi(n)//q,
+-= 1.
+a
+k
+varphi(n).
+q
+varphi(n)//k.
+q'\\x002223'varphi(n)//k"\so\ "qkcc l = varphi(n)"\for some\ "cc l in ZZ.
+varphi(n)//q = kcc l
+varphi(n)//q
+k.
+a^k -= 1,
+a^(kcc l) = a^(varphi(n)//q) -= 1"\ (mod\ "n)
+varphi(n):
+varphi(n),
+varphi(n)
+2^5
+2^(10//2)
+3^2
+3^(10//5).
+varphi(n)//d,
+d.
+n
+a
+a
+n,
+varphi(n)
+n
+n = 17?
+varphi(17),
+a
+a
+n,
+a^(-1)
+n
+a
+n,
+n-a
+4'\\x002223'varphi(n).
+a^(varphi(n)//q)'\\x002262'1,
+(n-a)^(varphi(n)//q) -= (-a)^(varphi(n)//q) -= (-1)^(varphi(n)//q)a^(varphi(n)//q).
+varphi(n)//q
+varphi(n),
+a
+n-a
+varphi(n)
+varphi(n)//q
+q = 2,
+varphi(n)
+varphi(n)//q
+3
+14
+varphi(n)
+a
+n-a
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+Li(x)
+pi(x)
+p <= x,
+lim_(x->oo) (pi(x))/(Li(x)) = 1.
+lim_(x->oo) (pi(x))/(x//log(x)) = 1.
+pi(x)
+n >= 2,
+n
+2n.
+p
+2
+n+1
+N = prod_(2<=p<=n+1)p.
+n
+N-(n+1)
+N-2.
+N
+x
+2
+n+1.
+x
+p_x,
+N-x
+p_x.
+pi(x)
+pi(x)
+O(x/(log(x)) )
+x/(log(x))
+O(pi(x)).
+x,
+pi(x) < 2 x/(log(x)) .
+x < 1000,
+2x//log(x)
+2x//log(x)
+n,
+2n.
+pi(n) < 2 n/(log(n)) .
+n
+2n,
+P = prod_(n<p<2n)p.
+n^(pi(2n)-pi(n)) < P <= ((2n)!)/(n!n!) < 2^(2n)
+P
+n
+2.
+log
+(pi(2n)-pi(n))log(n) < 2nlog(2)
+pi(2n) < (2nlog(2))/(log(n)) +pi(n) < log(2) (2n)/(log(n)) +2 n/(log(n)) = (log(2)+1)/(log(n)) 2n.
+n > 1000,
+(log(2)+1)/(log(n)) < 2/(log(2)+log(n)) = 2/(log(2n))
+pi(2n) < (log(2)+1)/(log(n)) 2n < 2(2n)/(log(2n)) ,
+2n+1,
+pi(2n+1) <= pi(2n)+1 < (log(2)+1)/(log(n)) 2n+1.
+2(2n+1)/(log(2n+1)) > (4n)/(log(2n+1)) ,
+(2+2log(2)) n/(log(n)) +1 < (4n)/(log(2n+1)) .
+n > 1000
+n/(log(n))
+1/(n//log(n)) < 0.007,
+(2+2log(2)) n/(log(n)) +1 < (2+2log(2)+0.007) n/(log(n)) < 3.394 n/(log(n)) .
+3.394 n/(log(n)) < (4n)/(log(2n+1)) .
+n
+2n
+P = prod_(n<p<2n)p
+n^(pi(2n)-pi(n)) < P <= ((2n)!)/(n!n!) < 2^(2n)
+p
+n,
+pi(2n)-pi(n)
+n^(pi(2n)-pi(n)) < P.
+n
+n
+2n,
+((2n)*(2n-1)*(2n-2) cdots(n+1))/(n*(n-1)*(n-2) cdots 1)
+P
+P'\\x002223' ((2n)*(2n-1)*(2n-2) cdots(n+1))/(n*(n-1)*(n-2) cdots 1) = ((2n)!)/(n!n!)
+P <= ((2n)!)/(n!n!)
+n
+2n
+n
+2n
+2^(2n)
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+r(n)
+n
+r(3) = 0
+r(9) = 4
+r(5) = 8.
+lim_(n->oo) 1/n sum_(k=1)^n r(k) = pi.
+pi(1-sqrt(2/n)+1/(2n) ) <= 1/n sum_(k=0)^n r(k) <= pi(1+sqrt(2/n)+1/(2n) )
+pi,
+n,
+|1/n sum_(k=0)^n r(k)-pi| <= pi( (sqrt(2))/(sqrt(n)) +1/(2n) ) <= Cn^(-1//2)
+C
+pi sqrt(2),
+1/(2n)
+n.
+f(x)
+O(g(x))
+C
+x_0
+|f(x)| <= Cg(x)"\for all\ "x > x_0.
+C
+x_0
+pi,
+N,
+1//sqrt(N).
+1//sqrt(N),
+O(x^(-1//2)).
+O(x^(-2//3))
+C = pi.
+O(x^(-3//4));
+tau
+sigma
+tau
+sigma_0
+sigma
+sigma_1
+tau
+sigma
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+e^(ix) = cos(x)+isin(x)
+zeta(-1) = 1/12.
+h(x) = x^x.
+sum_(n=1)^ oo(mu(n))/n -> 0;
+f, g
+sum_(n=1)^ oo f(x^(1//n))//n
+sum_(n=1)^ oo g(x^(1//n))//n
+g(x) = sum_(n=1)^ oo f(x^(1//n))//n
+f(x) = sum_(n=1)^ oo mu(n)g(x^(1//n))//n.
+g
+sum_(m=1)^ oo mu(m)g(x^(1//m))//m,
+n, m
+f(x^(1//mn));
+k = mn
+d'\\x002223'k,
+eta(s),
+c
+gcd(a, b)
+a
+b
+c = gcd(a, b)
+c
+n
+n
+n
+n
+Li
+2^(1000000000)
+3
+a -= b"\ (mod\ "n),
+a^m -= b^m "\ (mod\ "n)
+m
+2 -= -1"\ (mod\ "3)"\and\ "(-1)^(1000000000) = 1,
+2000^(1000),
+16^(1000),

@@ -1,0 +1,2190 @@
+bar X
+P'
+bar X_1-bar X_2
+P'_1-P'_2
+bar X_d
+1/20
+3/20
+5/20
+3/20
+6/20
+2/20
+1/20
+20/20
+3/20
+5/20
+3/20
+6/20
+2/20
+1/20
+5/100
+3/100
+15/100
+40/100
+17/100
+12/100
+7/100
+1/100
+23/100
+6/50
+7/50
+15/50
+8/50
+9/50
+5/50
+2/19
+2/19
+1/19
+3/19
+1/19
+4/19
+3/19
+7/19
+3/19
+7/19
+2/19
+9/19
+3/19
+12/19
+2/19
+14/19
+1/19
+15/19
+1/19
+16/19
+2/19
+18/19
+1/19
+19/19
+5/19
+7/19
+12/19
+7/19
+sqrt(npq)
+([n], [x])
+sum
+1/p
+sqrt(1/p(1/p-1))
+bar x
+bar x = ("Sum"\ "of"\ "all"\ "values"\ "in"\ "the"\ "sample")/("Number"\ "of"\ "values"\ "in"\ "the"\ "sample")
+("Sum"\ "of"\ "all"\ "values"\ "in"\ "the"\ "population")/("Number"\ "of"\ "values"\ "in"\ "the"\ "population")
+sigma "\ =\ "sqrt(mu)
+(e^(-mu)) (mu^x)/(x!)
+sigma = sqrt(sum[(x\ '\\x002013'\mu)^2\ '\\x002219'\ '\\x0003a1'(x)]\ )
+bar x
+s_x
+bar x
+1/mu
+1/m
+1/m
+P(X = k) = (lambda^k e^(-lambda))/(k!)
+(a+b)/2
+sigma = sqrt( ((b-a)^2)/12)
+1/(b-a)
+(x-a)/(b-a)
+(65"\ '\\x002013'\63")/5
+(epsilon_1)^2+(epsilon_2)^2+...+(epsilon_(11))^2 = overset(11)(underset(i\ =\ 1)(Sigma)) epsilon^2
+hat y = a+bx
+a = bar y-b bar x
+b = (Sigma(x-bar x)(y-bar y))/(Sigma(x-bar x)^2)
+bar x
+bar y
+(bar x, bar y)
+b = r( (s_y)/(s_x) )
+hat y = -173.51+4.83x
+r = (n Sigma(xy)-(Sigma x)(Sigma y))/(sqrt([n Sigma x^2-(Sigma x)^2][n Sigma y^2-(Sigma y)^2]))
+r^2
+r^2
+(P(A"AND"B))/(P(B))
+z = (720-520)/115 = 1.74
+(X"\ '\\x002013'\ " mu)/(sigma)
+("700\ '\\x002013'\514")/("117")
+(Y"\ '\\x002013'\ " mu)/sigma
+(30"\ '\\x002013'\ "21)/5.3
+sqrt(npq)
+sqrt("(100)(0"".1)(0"".9)")
+1/5
+sqrt(npq)
+sqrt("(190)(0"".2)(0"".8)")
+(3/11)(3/11)
+9/121
+(3/11)(8/11)
+(8/11)(3/11)
+48/121
+(3/11)(8/11)
+24/121
+24/88
+3/11
+24/88
+3/11
+64/121
+8/11
+24/33
+(3/11)(2/10) = 6/110
+(56+24+24+6)/110 = 110/110 = 1
+(3/11)(8/10)\ +"\ (___)(___)\ " = \ 48/110
+24/110
+(3/11)(2/10) = 6/110
+(3/11)(8/10)
+(8/11)(3/10)
+48/110
+3/10
+(3/11)(8/10)
+24/110
+(8/11)(7/10)
+8/10
+(1/2)(1/2)
+(4/9)(4/9)
+(4/9)(3/8)
+(4/9)(5/9)
+(4/9)(5/9)
+(4/9)(5/8)
+(4/9)(5/9)+(5/9)(4/9)
+(4/9)(5/8)+(5/9)(4/8)
+4/8
+32/72
+P(C|PT)\ = \ (P(C"\AND\ "PT))/(P(PT)) \ = \ 0.05/0.50\ = \ 0.1
+underset(k)(Sigma) ((O-E)^2)/E
+((O-E)^2)/E
+((O"\ '\\x002013'\ "E)^2)/E
+chi_4^2
+chi_2^2
+-2(40/52)+30(12/52) = -1.54+6.92 = 5.38
+(12/52)(1/2) = (6/52)
+(12/52)(1/2) = (6/52)
+(40/52)(1) = (40/52)
+"Expected\value" = (6)(6/52)+(2)(6/52)+(-2)(40/52) = '\\x002013'32/52
+("250")/("10,000")
+("50")/("10,000")
+("10")/("10,000")
+("32,\ " (1)/(3) )
+("32,\ " (1)/(3) , "\24")
+(3, 1/6)
+1/2
+sqrt(npq)
+sqrt(15(0.281)(0.719))
+29/192
+29/192
+1/p
+1/0.25
+sqrt( (1-p)/(p^2) )
+sqrt( (1-0.25)/(0.25^2) )
+sigma "\ =\ "sqrt(5.5)
+s = sqrt( (SEE)/(n-2) )
+[y_1=a+bx], [y_2=a+bx+2s], [y_3=a+bx-2s]
+bar x
+s_x
+bar X
+alpha/2
+p'_A = (X_A)/(n_A)
+p'_B = (X_B)/(n_B)
+X_A
+X_B
+p_c = (x_A+x_B)/(n_A+n_B)
+P'_A-P'_B~N[0, sqrt(p_c(1-p_c)(1/(n_A) +1/(n_B) ))]
+z = ((p'_A-p'_B)-(p_A-p_B))/(sqrt(p_c(1-p_c)(1/(n_A) +1/(n_B) )))
+p_c = (x_A+x_B)/(n_A+n_B) = (20+12)/(200+200) = 0.08\ 1'\\x002013'p_c = 0.92
+P'_A'\\x002013'P'_B~N[0, sqrt((0.08)(0.92)(1/200+1/200))]
+p'_A = (x_A)/(n_A) = 20/200 = 0.1
+p'_B = (x_B)/(n_B) = 12/200 = 0.06
+p_c = (x_F+x_M)/(n_F+n_M) = (156+183)/(2169+2231) = 0.077
+1-p_c = 0.923
+p'_F'\\x002013'p'_M~N(0, sqrt((0.077)(0.923)(1/2169+1/2231)))
+H_0:p_Y = p_O H_0:p_Y-p_O = 0
+H_a:p_Y > p_O H_a:p_Y-p_O > 0
+p_c = (x_y+x_o)/(n_y+n_o) = (134+12)/(1343+232) = 0.0927
+1-p_c = 0.9073
+p'_y-p'_O\ ~N(0, sqrt(0.0927)(0.9073)(1/1343+1/232)))
+p'_y-p'_O
+H_0
+RF = 7/35 = 0.2
+mu = (10+11+15+15+17+22)/6 = 15
+s = sqrt( (sum(x-bar x)^2)/(n-1) ) = sqrt(94/5) = 4.3
+z = (95-85)/5 = 2.0
+P(B) = 25/90 = 0.28
+P(R) = 50/80 = 0.62
+P(Y) = 15/80 = 0.19
+P"(honor\roll|study\at\least\15\hours word per week)\ =\ " 482/1000 = 0.482
+P("studies\less\than\15\hours word per week)" = (125+193)/1000 = 0.318
+f(x) = 1/10
+0 <= x <= 10
+f(x) = 1/10
+0 <= x <= 10
+f(x) = 1/10
+0 <= x <= 10
+bar x
+bar x
+sum_x = sqrt((66.09+14.75+78.93)) = 12.64
+sigma_x = sqrt(npq) = sqrt(100(0.65)(0.35)) = 4.77
+sigma_x = sqrt(npq) = sqrt(20(0.40)(0.60)) = 2.19
+mu = \ 1/p = \ 1/0.27 = 3.70
+sigma = \ sqrt( (1-p)/(p^2) ) = \ sqrt( (1-0.27)/(0.27^2) ) = 3.16
+mu = 4
+sigma = sqrt(4) = 2
+1/10
+P(0\ < x < 4) = (4-0)(1/10) = \ 0.4
+P(2\ < x < 5) = (5-2)(1/10) = \ 0.3
+f(x) = 1/(b-a)
+(a <= x <= b)"\so\ "f(x) = 1/30
+(0 <= x <= 30)
+mu = \ (a+b)/2 = \ (0+30)/5 = 15.0
+sigma = \ sqrt( ((b-a)^2)/12) = \ sqrt( ((30-0)^2)/12) = 8.66
+P(x < 10) = (10)(1/30) = \ 0.33
+1/m
+mu = sigma = 1/m = 1/10 = 0.1
+z = (x-mu)/sigma
+z = (112-109)/4.5 = 0.67
+z = (x-mu)/sigma
+z = (100-109)/4.5 = -2.00
+\ z = (105-109)/4.5 = "'\\x002212'0.89"
+mu = np = (500)(0.20) = 100
+sigma = sqrt(npq) = sqrt(500(0.20)(0.80)) = 8.94
+bar X~N(25, 0.2)
+bar X~N(mu_x, (sigma_x)/(sqrt(n)) )
+( (sigma_x)/(sqrt(n)) )
+(16/(sqrt(50)) )
+( (sigma_x)/(sqrt(n)) )
+z = \ (bar x-mu_x)/(sigma_x) = \ (76-75)/4.5 = 2.2
+z = (bar x-\ mu_x)/(sigma_x) = \ (74.7-75)/4.5 = "'\\x002212'0.67"
+( (sigma_x)/(sqrt(n)) ) = \ 4.5/(sqrt(50)) = 0.64
+70+9/(sqrt(60)) = 71.16
+70-9/(sqrt(60)) = 68.84
+70+9/(sqrt(100)) = 70.9
+70-9/(sqrt(100)) = 69.1
+Sigma X~N(n mu_x, (sqrt(n))(sigma_x))
+Sigma X~N(4000, 28.3)
+(sqrt(n))(sigma_x) = (sqrt(40))(7) = 44.3
+mu-(sqrt(n))(sigma_x) = 5000-(sqrt(40))(7) = 4955.7
+5000+(2.2)(sqrt(40))(7) = 5097.4
+bar X~N(mu_x, (sigma_x)/(sqrt(n)) )
+(b-a)/(sqrt(12))
+(b-a)/(sqrt(12)) = 0.10/(sqrt(12)) = 0.03
+bar X~N(0.15, 0.003)
+Sigma X~N((n)(mu_x), (sqrt(n))(sigma_x))"\so\ " Sigma X~N(9.0, 0.23)
+bar x_d
+((O-E)^2)/z
+((O-E)^2)/z
+sigma/(sqrt(n)) = 4/(sqrt(30)) = 0.73
+EBM = \ z_(alpha/2)(sigma/(sqrt(n)) ) = (1.96)(0.73) = \ 1.4308
+sigma/(sqrt(n)) = \ 4/(sqrt(50)) = 0.57
+EBM = \ z_(alpha/2)(sigma/(sqrt(n)) ) = (1.96)(0.57) = \ 1.12
+t_(alpha/2\ ) = 2.093.
+EBM = \ t_(alpha/2)(s/(sqrt(n)) ) = (2.093)(0.3/(sqrt(20)) ) = \ 0.140
+t_(alpha/2) = 2.861.
+EBM = t_(alpha/2)(s/(sqrt(n)) ) = (2.861)(0.3/(sqrt(20)) ) = 0.192
+t_(alpha/2\ ) = 2.045
+EBM = \ z_t(s/(sqrt(n)) ) = (2.045)(0.3/(sqrt(30)) ) = \ 0.112
+p' = 280/500 = 0.56
+q' = 1-p' = 1-0.56 = 0.44
+s = sqrt( (pq)/n) = sqrt( (0.56(0.44))/500) = 0.0222
+z_(alpha/2) = 1.96
+EBP = \ z_(a/2)sqrt( (pq)/n) = 1.96(0.222) = 0.0435
+z_(alpha/2) = 1.64
+EBP = \ z_(a/2)sqrt( (pq)/n) = 1.64(0.0222) = 0.0364
+z_(alpha/2) = 2.58
+EBP = \ z_(a/2)sqrt( (pq)/n) = 2.58(0.0222) = \ 0.0573
+z_(alpha/2) = 1.96
+n = \ (z^2 pq)/(EBP^2) = \ (1.96^2(0.5)(0.5))/(0.04^2) = \ 0.9604/0.0016 = 600.25
+n = \ (n^2 pq)/(EBP^2) = \ (1.96^2(0.6)(0.4))/(0.04^2) = \ 0.9220/0.0016 = 576.24
+n = \ (n^2 pq)/(EBP^2) = \ (1.96^2(0.5)(0.5))/(0.03^2) = \ 0.9604/0.0009 = 1067.11
+sqrt( (pq)/n)
+bar X~N(0.95, 0.051/(sqrt(100)) )
+d = (bar x_1-bar x_2)/(s_("pooled")) = (4.8-4.2)/1.6 = 0.375
+d = (bar x_1-bar x_2)/(s_("pooled")) = (5.2-4.2)/1.6 = 0.625
+bar X_1-bar X_2
+bar X_1-bar X_2
+bar X_1-bar X_2
+bar X_1 <= bar X_2
+bar X_1 > bar X_2
+p_c = (x_A+x_A)/(n_A+n_A) = (65+78)/(100+100) = 0.715
+bar x_d >= 0
+bar x_d < 0
+sigma = sqrt(2(df)) = sqrt(40) = 6.32
+((O-E)^2)/z
+169/132 = 1.280
+169/68 = 2.485
+(250(300))/500 = 150
+(250(200))/500 = 100
+(250(300))/500 = 150
+(250(200))/500 = 100
+((100-150)^2)/150 = 16.67
+((150-100)^2)/100 = 25
+((200-100)^2)/150 = 16.67
+((50-100)^2)/100 = 25
+bar x
+bar y
+hat y = a+bx
+t = (rsqrt(n-2))/(sqrt(1-r^2))
+t = (rsqrt(n-2))/(sqrt(1-r^2))
+hat y = 25+16x
+hat y = 5+0.3x
+hat y = 2.3-0.1x
+r( (s_y)/(s_x) ) = 0.73(9.6/4.0) = 1.752 ~~ 1.75
+a = bar y-b bar x = 141.6-1.752(68.4) = 21.7632 ~~ 21.76
+hat y = 21.76+1.75(68) = 140.76
+r = sqrt(r^2)
+sqrt(0.5) = 0.707106781 ~~ 0.71
+t = (rsqrt(n-2))/(sqrt(1-r^2)) = (0.33sqrt(30-2))/(sqrt(1-0.33^2)) = 1.85
+t = (rsqrt(n-2))/(sqrt(1-r^2)) = (0.45sqrt(25-2))/(sqrt(1-0.45^2)) = 2.417
+hat y = 25+16(5) = 105
+hat y = 5+0.3x = 5.6
+hat y
+246.9/3
+374.5/116
+F = (MS_("between"))/(MS_("within")) = 82.3/3.23 = 25.48
+sigma_M^2
+sigma_E^2
+sigma_M^2
+sigma_E^2
+sigma_M^2
+sigma_E^2
+2/4
+16/144
+4/16
+2/144
+10/118 "<mtext//>"
+68/118 "<mtext//>"
+48/118 "<mtext//>"
+10/48 "<mtext//>"
+30/118 "<mtext//>"
+30/48 "<mtext//>"
+22/118 "<mtext//>"
+30/52 "<mtext//>"
+2/40 "<mtext//>"
+5/40 "<mtext//>"
+14/40 "<mtext//>"
+7/40 "<mtext//>"
+4/40 "<mtext//>"
+8/40 "<mtext//>"
+6/40 "<mtext//>"
+N(145, 14/(sqrt(10)) )
+N(145, 14)
+t_9
+t_(10)
+hat y
+"Chi"^2_8
+"Chi"^2_3
+t_(721)
+N(0, 1)
+4/16 "<mtext//>"
+68/118 "<mtext//>"
+30/52 "<mtext//>"
+8/40 "<mtext//>"
+N(145, 14/(sqrt(10)) )
+"Chi"^2_3
+"Chi"^2
+40/60
+60/140
+120/140
+100/140
+6/14
+(72^2)/5
+N(72, 72/(sqrt(50)) )
+"Exp"(1/72)
+3/9
+7/9
+3/10
+7/10
+bar x
+bar x
+100/140
+N(72, 72/(sqrt(50)) )
+3/9
+hat y
+bar x
+bar x
+bar X
+N(7.24, 1.93/(sqrt(22)) )
+N(7.24, 1.93)
+p'
+bar X_1
+bar X_2
+bar X_1
+bar X_2
+sqrt( ((s_1)^2)/(n_1) + ((s_2)^2)/(n_2) )
+((bar x_1'\\x002013'bar x_2)'\\x002013'(mu_1'\\x002013'mu_2))/(sqrt( ((s_1)^2)/(n_1) + ((s_2)^2)/(n_2) ))
+bar x_1
+bar x_2
+df = (( ((s_1)^2)/(n_1) + ((s_2)^2)/(n_2) )^2)/((1/(n_1'\\x002013'1) )( ((s_1)^2)/(n_1) )^2+(1/(n_2'\\x002013'1) )( ((s_2)^2)/(n_2) )^2)
+0.866
+bar X_g-bar X_b
+s_g = 0.866
+s_b = 1
+bar x_g'\\x002013'bar x_b
+0.866
+bar X_A-bar X_B
+H_o:mu_A <= mu_B
+H_a:mu_A > mu_B
+bar X_1'\\x002013'bar X_2
+d = (bar x_1'\\x002013'bar x_2)/(s_("pooled"))
+s_("pooled") = sqrt( ((n_1'\\x002013'1)s_1^2+(n_2'\\x002013'1)s_2^2)/(n_1+n_2'\\x002013'2) )
+\ SS_("between") = sum^'\\x00200b' [ ((s_j)^2)/(n_j) ]- ((sum^'\\x00200b's_j)^2)/n\
+SS_("total") = sum^'\\x00200b'x^2- ((sum^'\\x00200b'x)^2)/n
+SS_("within") = SS_("total")-SS_("between")
+(SS_("between"))/(df_("between"))
+(SS_("within"))/(df_("within"))
+(MS_("between"))/(MS_("within"))
+(ns_(bar x)2 )/(s2_("pooled") )
+(df(num))/(df("denom")-2)
+s_(bar x)2
+s2_("pooled")
+( (s_1^2)/(sigma_1^2) )/( (s_2^2)/(sigma_2^2) )
+(s12 )/(s22 )
+N(244, 15/(sqrt(50)) )
+bar X
+bar x
+bar X
+bar X
+bar x
+s_x
+bar X
+alpha
+z_((a/2))
+P'~N(0.8, sqrt( ((0.8)(0.2))/80))
+bar x
+sigma
+bar X
+N(23.6, 7/(sqrt(100)) )
+bar X
+7.9(2.5/(sqrt(20)) )
+bar x
+z_(alpha/2)
+z_(0.025) sigma/(sqrt(n))
+909200/(sqrt(40))
+bar x
+bar x
+bar x
+n = \ (z^2 sigma^2)/(EBM^2)
+n = \ (z^2 sigma^2)/(EBM^2) = (1.812^2 2.5^2)/(1^2) \ ~~ \ 20.52
+t_(34)
+bar x
+s_x
+bar x = $251, 854.23
+s = \ $521, 130.41
+alpha/2 = 0.02t_(alpha/2) = t_(0.02)
+EBM = t_(alpha/2)(s/(sqrt(n)) ) = 2.150( (521,130.41)/(sqrt(30)) )\ ~\ $204, 561.66
+bar x
+bar x
+bar x
+s_x
+bar X
+N(0.61, sqrt( ((0.61)(0.39))/1200))
+p'
+p'
+N(0.2, sqrt( ((0.2)(0.8))/1000))
+p'
+("(0"".55\ +\0"".49)")/(2)
+alpha/2 = 0.125\ z_(alpha/2) = 1.150
+EBP = (1.150)sqrt( (0.52(0.48))/1,000) ~~ 0.018
+alpha/2
+z_(alpha/2)
+n = (\ z_(alpha/2)\ 2p' q')/(EBP^2) = \ (1.96^2(0.5)(0.5))/(0.05^2) = 384.16
+sigma_(chi^2) = sqrt(2(df))
+sum_k((O-E)^2)/E
+underset((i*j))(Sigma) ((O'\\x002013'E)^2)/E
+E = ("(row total)(column total)")/("total surveyed")
+sum_(i*j) ((O-E)^2)/E
+chi^2 =
+((n-1)*s^2)/(sigma^2)
+((n'\\x002013'1)*s^2)/(sigma^2)
+df =
+chi^2
+382/1043
+bar x
+bar x\ = \ ("Sum\of\all\values\in\the\sample")/("Number\of\values\in\the\sample")
+mu = ("Sum\of\all\values\in\the\population")/("Number\of\values\in\the\population")
+bar x
+bar x
+bar X
+bar x
+bar x
+bar x
+bar x
+bar X
+bar X
+bar x
+bar X
+bar X
+bar X
+bar X
+bar X
+bar X
+bar X
+bar x
+bar X
+bar x
+bar x
+bar x
+bar x
+bar X
+bar X
+bar X
+bar X
+(4".59,\ " 0.10/(sqrt(16)) )
+bar X
+(4".59,\ " 16/0.10)
+bar X
+(4".59,\ " (sqrt(16))/0.10)
+bar X
+bar X
+bar X
+bar x
+bar x
+bar X
+1/4
+1/2
+3/4
+3/8
+bar X
+bar X
+bar X
+bar X
+bar x
+bar x
+bar x
+bar X
+bar X
+bar X
+bar X
+3/4
+x
+y
+(5/30)
+1/4
+(1/8)
+1-[P(x = 0)+P(x = 1)]
+P(x) = (mu^x e^(-mu))/(x!)
+P(x > 1) = 1-P(x <= 1)\ = 1-[P(x = 0)+P(x = 1)]\
+= 1-[ (0.75^0 e^(-0.75))/(0!) + (0.75^1 e^(-0.75))/(1!) ]
+= 1-[ ((1)(0.4724))/1+ ((0.75)(0.4724))/1]
+= 1-[0.4724+0.3543] = 0.1733
+sigma = sqrt(mu) = sqrt(147) ~~ 12.1244
+41.5/24
+(x-mu)/sigma
+z = (x\ '\\x002013'\ mu)/sigma
+z = (x'\\x002013'mu)/sigma = (17'\\x002013'5)/6 = 2
+(x'\\x002013'mu)/sigma
+(1'\\x002013'5)/6
+(y-mu)/sigma
+(4-2)/1
+bar x
+sum_((ij)) ((O-E)^2)/E
+x^2 = \ x_7^2 = \ ((n'\\x002013'1)s^2)/(25^2) = \ ((8'\\x002013'1)(34.29)^2)/(25^2) = 13.169
+P(x_7^2 > 13.169) = 1'\\x002013'P(x_7^2\ <= 13.169) = 0.0681
+t = (bar x_d-mu_d)/(( (s_d)/(sqrt(n)) ))
+bar x_d = '\\x002013'3.13
+s_d = 2.91
+mu_d
+d
+bar X_d
+bar X_d
+bar x_d
+bar s_d
+mu_0
+mu_0
+bar x_d = 21.3, s_d = 46.7
+bar X_d
+bar x_d
+s_d
+bar X_d
+(bar x_d = 3.71, \ s_d = 4.5.)
+mu = (a+b)/2
+sigma = sqrt( ((b-a)^2)/12)
+f(x) = 1/(b-a)
+(x-a)/(b-a)
+1/mu
+f(x) = 1/mu e^(-x//mu)
+P(X = k) = (lambda^k e^(-k))/(k!)
+EBM = z sigma/(sqrt(n))
+n = \ (z^2 sigma^2)/(EBM^2)
+t = \ (bar x-mu)/(s/(sqrt(n)) )
+(t_(alpha/2)) s/(sqrt(n))
+t_(alpha/2)
+alpha/2
+t_(alpha/2)
+p'
+q'
+p'
+= (p''\\x002013'EBP, p'\ +EBP) = \ (p''\\x002013'zsqrt( (p'q')/n), p'+zsqrt( (p'q')/n))
+p' = (x+2)/(n+4)
+1/2
+996/2000
+22/40
+18/40
+y = a+"bx"
+y = 3+"2x"
+y = '\\x002013'0.01+"1.2x"
+mu = sum(x'\\x002219'P(x))
+sigma = sqrt(sum[(x\ '\\x002013'\mu)^2\ '\\x002219'\ '\\x0003a1'(x)]\ )
+2/50
+(2/50)
+(11/50)
+(11/50)
+11/50
+23/50
+(23/50)
+46/50
+9/50
+(9/50)
+27/50
+4/50
+(4/50)
+16/50
+1/50
+(1/50)
+5/50
+105/50
+sqrt(1.05)
+4/50
+8/50
+16/50
+14/50
+6/50
+2/50
+1/10
+(1/10)(1/10)(1/10)(1/10)(1/10) = (1)(10^(-5)) = 0.00001.
+1-0.00001 = 0.99999.
+2/3
+1/3
+1/3
+'\\x002013'12/3
+1/3
+10/3
+2/3
+'\\x002013'12/3
+('\\x002013'2)/3
+2/5
+2/5
+1/5
+'\\x002013'20/5
+2/5
+sqrt(0.49)
+*
+9/36
+9/36
+9/36
+18/36
+18/36
+18/36
+9/36
+18/36
+9/36
+9/36
+36/36
+sqrt(18/36)
+mu = 36/36 = 1
+sigma = sqrt(18/36) ~~ 0.7071
+"Standard\Deviation\ =\ "sqrt(648.0964+176.6636) ~~ 28.7186
+sigma_1^2 "\ =\ " sigma_2^2
+sigma_1^2 < sigma_2^2
+H_0 ":\ " sigma_1^2 = sigma_2^2
+H_a:\ sigma_1^2 != sigma_1^2
+sigma_1^2
+sigma_2^2
+sigma_1^2
+sigma_1^2
+1/5
+1/12
+1/3
+P(x > 3/2).
+bar x
+bar x
+3/4
+2/4
+2/6
+2/6
+2/6
+2/6
+A uu B
+A uu B
+A nn B
+A nn B
+4/6
+2/6
+4/6+2/6
+(P(A"AND"B))/(P(B))
+(P(A"AND"B))/(P(B)) = ( (("the number of outcomes that are 2 or 3 and even in"S))/6)/( (("the number of outcomes that are even in"S))/6) = (1/6)/(3/6) = 1/3
+9/19
+6/19
+3/19
+12/19
+10/19
+9/19
+10/19
+(P(A"AND"B))/(P(B))
+3/6
+(P(A"AND"B))/(P(A))
+3/9
+1/6
+1/2
+1/2
+1/2
+1/3
+1/3
+1/6
+5/6
+2/3
+1/2
+hat y = -173.51+4.83(73) = 179.08
+hat y = '\\x002013'173.51+4.83(90) = 261.19
+\ sqrt(npq)
+1/p
+sigma sqrt( ((1-p))/(p^2) )
+sqrt(1/p(1/p-1))
+(nr)/(r"\ +\ "b)
+sqrt( (rbn(r"\ +\ "b"\ '\\x002212'\ "n))/((r"\ +\ "b)^2(r"\ +\ "b-"1)") )
+mu
+bar x
+bar X~N(mu_X, (sigma_X)/(sqrt(n)) )
+mu
+bar x
+t_d_f
+p
+p'
+P'~N(p, sqrt( (p'\\x0000b7'q)/n))
+np > 5\
+nq > 5\
+mu = p\
+sigma = sqrt( (pq)/n)
+q = 1-pq
+bar x
+bar x
+bar x
+bar X
+mu = underset(x in X)(sum^'\\x00200b' )xP(x)
+sigma = sqrt(underset(x in X)(sum^'\\x00200b' )(x-mu)^2 P(x))
+sqrt(npq)
+1/p
+sqrt( (1\ '\\x002013'\ p)/(p^2) )
+sqrt(1/p(1/p-1))
+(nr)/(r"\ +\ "b)
+sqrt( (rbn(r"\ +\ "b-n))/((r"\ +\ "b)^2(r"\ +\ "b-"1)") )
+sigma "\ =\ "sqrt(mu)
+x
+r
+P(X = x) = (e^(-mu)) (mu^x)/(x!)
+bar x "\ =\10"
+bar x
+bar x
+bar x'\\x002013'EBM, bar x+EBM
+bar x
+bar x
+mu\ = \ bar X\ +-Z_ alpha(sigma/(sqrt(n)) ) = \ 2+-1.96(0.1)\ = \ 2+-0.1961.804 <= mu <= 2.196
+sigma/(sqrt(n))
+sigma/(sqrt(n))
+bar X
+bar X
+(mu_X, sigma/(sqrt(n)) )
+bar x
+alpha/2
+alpha/2
+z_(alpha/2)
+alpha/2
+z_(alpha/2)
+z_(alpha/2)"\ =\ "z_(0."025")"\ =\1"".96"
+z_(alpha/2)
+bar X-Z_ alpha(sigma/(sqrt(n)) ) <= mu <= bar X+Z_ alpha(sigma/(sqrt(n)) )
+sigma\ = \ 3
+bar X = 68
+bar X-Z_ alpha(sigma/(sqrt(n)) ) <= mu <= bar X+Z_ alpha(sigma/(sqrt(n)) )
+68-1.645(3/(sqrt(36)) ) <= mu <= 68+1.645(3/(sqrt(36)) )
+68-0.8225 <= \ mu <= 68+0.8225
+67.1775 <= \ mu <= 68.8225
+bar x
+bar x = 1.024
+EBM = (z_(0.01)) sigma/(sqrt(n)) = (2.326) 0.337/(sqrt(30)) = 0.1431
+\ bar x+-EBM
+bar x
+bar x
+bar x:1.024
+bar x
+bar x
+(z_(alpha/2))(sigma/(sqrt(n)) )
+alpha/2 = 0.025\ z_(alpha/2) = z_(0.025)
+z_(alpha/2) = z_(0.025) = 1.96
+(3/(sqrt(36)) )
+bar x
+bar x
+bar x
+(z_(alpha/2))(sigma/(sqrt(n)) )
+z_(alpha/2)
+(z_(alpha/2))(sigma/(sqrt(n)) )
+(3/(sqrt(100)) )
+(z_(alpha/2))(sigma/(sqrt(n)) )
+(3/(sqrt(25)) )
+((68.82-67.18))/2
+bar x
+bar x
+((67.18+68.82))/2
+(z_(alpha/2))(sigma/(sqrt(n)) )
+(z^2 sigma^2)/(EBM^2)
+z_(alpha/2)
+(z^2 sigma^2)/(EBM^2)
+((1.96)^2(15)^2)/(2^2)
+4.321 xx "10"^4
+4.321 xx "10"^('\\x002013'4)
+X_(min) = '\\x002013'2.5
+X_(max) = 3.5
+X_(scl) = 1
+Y_(min) = 0
+Y_(max) = 10
+Y_(scl) = 1
+X_(res) = 1
+r
+r^2
+X_(min) = 1970
+X_(max) = 2000
+X_(scl) = 10
+Y_(min) = -0.05
+Y_(max) = 60
+Y_(scl) = 10
+X_(res) = 1
+1.9V "SSE"/(n-2)
+n
+"SSE"
+Sigma "residual"^2
+(" Sigma residual"^2)/(n-2)
+n-2 = 8
+-oo
+oo
+bar x
+bar x
+bar x
+bar x
+sigma/(sqrt(n)) = 1/(sqrt(100)) = 0.1
+bar x
+bar x
+bar x
+bar x
+bar x\ -"\0"".2"
+bar x\ +"\0"".2"
+bar x\ = "\2"
+bar x-0.2 = 2-0.2 = 1.8
+bar x+0.2 = 2+0.2 = 2.2
+bar x
+(bar x-2* (sigma)/(sqrt(n)) ",\ " bar x "\ +\ "2* (sigma)/(sqrt(n)) )
+bar X_1-bar X_2
+bar X_1-bar X_2
+hat p_A'\\x002013'hat p_B =
+bar x_d
+bar x
+bar X
+bar x
+bar x
+bar x
+bar x
+bar x
+bar x
+bar x
+bar x
+bar x
+bar x
+bar x
+bar x
+1/2
+1/2
+bar x
+bar x
+(P(A"\AND\ "B))/(P(B))
+P(A)\ = \ 0.25
+P(B)\ = \ 0.65
+P(A\ AND\ B)
+P(A\ OR\ B)
+28/150
+80/150
+40/150
+bar X_1'\\x002013'bar X_2
+bar X_1-bar X_2
+bar X_1-bar X_2
+mu_1
+mu_2
+bar(X_1)-bar(X_1)
+H_0\ :\ mu_1-mu_2\ = \ 0, \ H_a\ :\ mu_1\ -\ mu_2\ < \ mu_2
+H0s:\ mu 1-mu 2, \ "Ha"\ mu 1\ < \ mu 2
+t_(df)
+df = n_1+n_2-2 = 33+33-2 = 64
+t
+t_c = ((bar X_1-bar X_2)-0)/(sqrt( (s_1^2)/(n_2) + (s_2^2)/(n_2) )) = ((74.64-111.56)-0)/(sqrt( (49.36^2)/33+ (66.90^2)/33)) = -2.55
+t_c = -2.55
+df = 64
+p
+H_0
+P'_1-P'_2
+P'_1-P'_2
+bar X_d
+bar X_d
+P(Z\ AND\ S)
+Z\ AND\ S
+P(Z\ OR\ S)
+Z\ OR\ S
+alpha/2
+3/2
+1/3
+1/9
+3.5/7
+1/m = 1/0.75 ~~ 1.33
+f(x) = 1/8
+1 <= x <= 9
+15/32
+333/800
+2/3
+f(x) = 1/8
+0 <= x <= 8
+1/8
+1/8
+1/(25-16) = 1/9
+(1/9)
+6/9
+2/3
+(1/9)
+3/9
+1/3
+(1/9)
+1/((25-18))
+1/7
+(1/7)
+(P(x>21"\AND\ "x>18))/(P(x>18))
+(P(x>21))/(P(x>18))
+((25-21))/((25-18))
+4/7
+(700-650)/(700-300) = 50/400 = 1/8
+(650-400)/(700-300) = 250/400
+("width")/("700"-"300")
+(1/5)
+P(T < t) = 1-e^(-t/8)
+'\\x002013'1/8
+= (1'\\x002013'e^('\\x002013'1/8^*10))'\\x002013'(1'\\x002013'e^('\\x002013'1/8^*6))
+= P(T > t) = 1'\\x002013'(1'\\x002013'e^(-t/8)) = e^(-t/8).
+'\\x002013't/8
+'\\x002013't/8
+(ln "(area_to_the_right)")/(('\\x002013'm)) = (ln "(0"".70)")/('\\x002013'1/8) ~~ 2."85\years"
+'\\x002013't/8
+'\\x002013't/8
+'\\x002013't/8
+(ln "(area_to_the_right)")/(('\\x002013'"m)") = (ln "(1"'\\x002013'0.2))/('\\x002013'1/8)
+1'\\x002013'(1'\\x002013'e^('\\x002013'1/8)) = e^('\\x002013'1/8) ~~ 0.8825
+(3^0 e^('\\x002013'3))/(0!)
+1/3
+1/3
+1/mu
+100/9
+1/9
+P(X < x) = 1-e^(-x/9)
+1-(1-e^(-20/9)) ~~ 0.1084.
+(8/9)^(20) ~~ 0.0948
+1/7
+1-e^(t/7)
+1-e^(-2/7)
+1-P(T < 15) = 1-(1-e^(-15/7)) ~~ e^(-15/7) ~~ 0.1173
+1-(1-e^(-5/7)) = e^(-5/7) ~~ 0.4895
+30/7
+(30/7)
+bar x
+bar X~N(mu_x ",\ " (sigma_X)/(sqrt(n)) )
+bar X
+bar X
+bar x
+bar X
+z = (bar x-mu_x)/(( (sigma_X)/(sqrt(n)) ))
+bar X
+sigma_x = (sigma_X)/(sqrt(n)) =
+bar X
+"normalcdf"("lower"\ "value"\ of\ the\ "area", \ "upper"\ "value"\ of\ the\ "area", \ "mean", \ ("standard""deviation")/(sqrt("sample""size")) )
+bar x
+bar x
+(90",\ " 15/(sqrt(25)) )
+bar x
+bar x
+sigma/(sqrt(n))
+15/(sqrt(25))
+( (sigma_x)/(sqrt(n)) )
+(15/(sqrt(25)) )
+(sigma x)/(sqrt(n))
+15/(sqrt(25))
+bar x
+bar X
+("2,\ " 0.5/(sqrt(50)) )
+bar x
+bar x
+(1."8,2"".3,2," .5/(sqrt(50)) )
+("area\to\the\left\of\ "k",\mean,"\ ("standard""deviation")/(sqrt("sample""size")) )
+sigma/(sqrt(n))
+15/(sqrt(100))
+15/10
+P(bar X\ > \ 30)
+(0."95,34," 15/(sqrt(100)) )
+mu_(bar x) = mu = 8.2\ sigma_(bar x) = sigma/(sqrt(n)) = 1/(sqrt(60)) = 0.13
+(0."90,8"".2," 1/(sqrt(60)) )
+bar x
+("8,8"".5,8"".2," 1/(sqrt(60)) )
+bar x
+bar x
+bar x
+bar x
+bar x
+RF = ("frequency")/("total\number\surveyed")
+bar X
+bar X
+bar X
+bar X
+bar k
+bar X
+bar k
+bar X
+bar k
+bar X
+bar k
+bar X
+bar k
+bar X
+bar k
+bar X
+bar k
+bar X
+bar k
+X
+bar X
+X
+bar X
+bar x
+bar x =
+1/(bar x)
+1/(bar x)
+("2\ +\2\ +\3\ +\4\ +\6")/5
+bar X~N(2.5, 1.5/(sqrt(26)) )
+bar X
+bar X
+bar X
+bar X
+bar X
+bar X
+bar X
+[P', =, \ ]
+[P', =, \ ]
+SS_("total") = sum x^2((sum x)^2)/n
+sum[ ((s_j)^2)/(n_j) ]- ((sum s_j)^2)/n
+SS_("within") = SS_("total")'\\x002013'SS_("between")
+df_("between")
+(SS_("between"))/(df_("between"))
+(SS_("within"))/(df_("within"))
+MS_("between") = (SS_("between"))/(df_("between")) = (SS_("between"))/(k-1)
+MS_("within") = (SS_("within"))/(df_("within")) = (SS_("within"))/(n-k)
+F = (MS_("between"))/(MS_("within"))
+F = (n*s_(bar x)2 )/(s2_("pooled") )
+s_(bar x)2
+SS("between") = sum[ ((s_j)^2)/(n_j) ]- ((sum s_j)^2)/n\
+= \ (s_1^2)/4+ (s_2^2)/3+ (s_3^2)/3- ((s_1+s_2+s_3)^2)/10
+\ = ((16.5)^2)/4+ ((15)^2)/3+ ((15.5)^2)/3- ((16.5+15+15.5)^2)/10
+SS("between") = 2.2458
+S("total") = sum x^2- ((sum x)^2)/n
+\ = (5^2+4.5^2+4^2+3^2+3.5^2+7^2+4.5^2+8^2+4^2+3.5^2)
+- ((5+4.5+4+3+3.5+7+4.5+8+4+3.5)^2)/10
+= 244- (47^2)/10 = 244-220.9
+SS("total") = 23.1
+SS("within") = SS("total")-SS("between")
+= \ 23.1-2.2458
+SS("within") = 20.8542
+mu = (df("denom"))/(df("denom")'\\x002013'2)
+(Q_1+Q_3)/2
+1/10
+(1/5)
+N(5, ((0.01)(0.99))/500)
+1/4
+1/2
+3/4
+3/8
+(1/3)
+(x = 1/3)
+3/4
+3/4
+3/4
+(1/0.20)
+(1/0.20)
+1/6
+1/2
+1/3
+32/70
+8/32
+8/8
+8/70
+30/70
+30/40
+40/70
+9/19
+9/70
+9/30
+19/70
+bar X
+bar X
+bar X
+bar X
+bar X
+sum X
+sum X
+sum X
+sum X
+sum X
+bar X
+bar X
+bar x
+(1/3)
+bar x
+7/15
+2/15
+(1/10)
+3/4
+1/4
+1/2
+8/70
+40/70
+9/19
+77/100
+12/42
+bar X
+sum X
+N(2, \ 0.25/(sqrt(16)) )
+N(72, \ 72/(sqrt(5)) )
+100/140
+10/60
+12/38
+s = sqrt( (SSE)/(n-2) )
+overset(11)(underset(i\ =\ 1)(Sigma))(|y_i-hat y_i|)^2 = overset(11)(underset(i\ =\ 1)(Sigma)) epsilon i2
+s = sqrt( ("SSE")/(n'\\x002013'2) )
+s = sqrt(2440/(11'\\x002013'2) ) = 16.47
+overset('\\x0023dc')(y)\ = -5030+2.598x
+r\ = \ 0.9067
+1/(sigma sqrt(2 pi)) "\e"^( ('\\x002013'(x\ '\\x002013'\ mu))/(2 sigma^2) ^2)
+(x\ '\\x002013'\ mu)/sigma
+823,088/823,856
+(x+0.5y)/n
+(143+0.5(1))/180
+738/27
+(0.158"\ '\\x002013'\ "0.166)/0.012
+(0.177"\ '\\x002013'\ "0.189)/0.015
+s_x = sqrt( (sum fm^2)/n-bar x^2) = sqrt(193157.45/30-79.5^2) = 10.88
+s_x = sqrt( (sum fm^2)/n-bar x^2) = sqrt(380945.3/101-60.94^2) = 7.62
+s_x = sqrt( (sum fm^2)/n-bar x^2) = sqrt(440051.5/86-70.66^2) = 11.14
+bar x = 1328.65/50 = 26.75
+bar x = 23.32
+s_x = 12.95.
+1/(b-a)
+1/(23-0)
+mu = (a+b)/2
+sigma = sqrt( ((b-a)^2)/12)
+(0\ +\ 23)/2
+sqrt( ((23\ -\ 0)^2)/12)
+(1/23)
+16/23
+P(x < k) = 0.90
+("base")("height") = 0.90
+(k-0)(1/23) = 0.90
+k = (23)(0.90) = 20.7
+1/(23\ -"\8")
+1/15
+(1/15)
+11/15
+(P(A"\AND\ "B))/(P(B))
+(P(x>12"\AND\ "x>8))/(P(x>8)) = (P(x>12))/(P(x>8)) = (11/23)/(15/23) = 11/15
+1/(15\ -\ 0)
+1/15
+P(x < k) = ("base")("height") = (12.5-0)(1/15) = 0.8333
+(a\ +\ b)/2
+(15\ +\ 0)/2
+sqrt( ((b-a)^2)/12) = sqrt( (("15"-0)^2)/12)
+P(x < k) = ("base")("height") = (k-0)(1/15)
+0.90 = (k)(1/15)
+k = (0.90)(15) = 13.5
+1/(4-1.5)
+2/5
+(2/5) = 4/5
+4/5
+4/5
+\ (P(x>2"\AND\ "x>1.5))/(P(x>1.5)) = (P(x>2))/(P(x>1.5)) = (2/3.5)/(2.5/3.5) = 0.8 = 4/5
+1/(4\ -\ 1.5)
+1/2.5
+mu = (a+b)/2
+sigma = sqrt( ((b-a)^2)/12)
+mu = (1.5+4)/2 = 2.75
+sigma = sqrt( ((4'\\x002013'1.5)^2)/12) = 0.7217
+bar x
+bar X
+bar X
+bar x
+bar X
+bar x
+bar X
+bar x
+bar X
+bar x
+s_x
+X
+bar X
+bar x
+s_x
+X
+bar X
+bar x
+s_x
+X
+bar X
+bar x
+s_x
+X
+bar X
+bar x = $251, 854.23
+s = \ $521, 130.41
+bar x
+s_x
+X
+bar X
+bar X
+bar x
+s_x
+X
+bar X
+hat y = a+bx
+s = sqrt( (SEE)/(n-2) ).
+bar x
+s_x
+bar x
+s_x
+bar x
+s_x
+bar x =
+s^2 =
+bar x =
+s^2 =
+P(E')\ = \
+P(E)\ = \
+P(S\ nn\ E')\ =
+P(S\ |\ E')\ = \
+1518/2873
+2873/12351
+583/12351
+4189/12351
+4189/12351
+117/1723
+(<mo//>1723)/4189
+(<mo//>117)/12351
+2/3
+1/3
+2/3
+5/15
+6/36
+5/36
+15/36
+10/36
+10/12
+6/36
+(sqrt(n))
+bar x
+H_a
+bar X
+bar X
+bar X~N(mu, (sigma_X)/(sqrt(n)) )
+bar X~N(16.43, 0.8/(sqrt(15)) )
+bar x
+alpha >
+z = (bar x-mu_X)/(( (sigma_X)/(sqrt(n)) ))
+bar x
+bar X
+bar X~N(275, 55/(sqrt(30)) )
+bar x = 286.2
+p"-value" = P(bar x > 286.2) = 0.1323
+bar X
+bar x
+P'~N(p, sqrt( (p*q)/n))
+P'~N(0.5, sqrt( (0.5*0.5)/100))
+x/n "\ =\ " ("53")/("100")
+p'
+P'~N(0.30, sqrt( ((0.30)*(0.70))/150))
+x/n
+("43")/("150")
+bar X
+N(0.25, sqrt( ((0.25)(1-0.25))/42))
+(17/42)
+H_0
+[bar x, \ =\ , 1.04], [s, \ =\ , 0.0659], [t, \ =\ , 2.014]
+[H_0'\\x002236'p, \ =\ , 0.00078], [H_a'\\x002236'p, \ !=\ , 0.00078]
+[p', =, 11/37,937=0.00029]
+[6.8+7.2=14], [14-:2=7]
+("230,500\ +\387,000")/2
+("639,000\ +\659,000")/2
+i = k/100(n+1)
+k/100
+70/100
+k/100
+83/100
+i = 80/100(50+1) = 40.8
+i = 90/100(50+1) = 45.9
+i = 25/100(50+1) = 12.75
+(x+0.5y)/n
+(x+0.5y)/n
+(18+0.5(1))/29
+(x+0.5y)/n
+(3+0.5(1))/29
+hat y
+p'
+P' = X/n
+hat P
+X~N(np, sqrt(npq))
+p'
+X/n = P'"~\ "N( (np)/n, (sqrt(npq))/n)
+(sqrt(npq))/n = sqrt( (pq)/n)
+p'
+X/n = P'~N( (np)/n n, sqrt( (pq)/n))
+p'
+p'
+p'
+x/n
+p'
+p'
+EBP = (z_(alpha/2))(sqrt( (p'q')/n))
+q'
+p'
+sigma/(sqrt(n))
+sqrt( (pq)/n)
+sqrt( (p'q')/n)
+sqrt( (pq)/n)
+p'
+q'
+p'
+q'
+p'
+q'
+p'
+q'
+"np"'
+"nq"'
+P'~N(p, sqrt( (pq)/n))
+z = (p'-p)/(sqrt( (pq)/n))
+X~B(500, 421/500)
+p'
+q'
+p' = x/n = 421/500 = 0.842
+p' = 0.842
+q' = 1-p' = 1-0.842 = 0.158
+(alpha/2)
+z_(alpha/2) = z_(0.025) = 1.96
+EBP = (z_(alpha/2))sqrt( (p'q')/n) = (1.96)sqrt( ((0.842)(0.158))/500) = 0.032
+p''\\x002013'EBP = 0.842'\\x002013'0.032 = 0.81
+p'+EBP = 0.842+0.032 = 0.874
+(p'\ '\\x002013'\ EBP, p'\ +\ EBP)\ = \ (0.810, 0.874).
+x
+n
+p' = x/n = 300/500 = 0.600
+q' = 1-p' = 1-0.600 = 0.400
+(alpha/2)
+z_(alpha/2)
+EBP = (z_(alpha/2))sqrt( (p'q')/n) = (1.645)sqrt( ((0.60)(0.40))/500) = 0.036
+p''\\x002013'EBP = 0.60-0.036 = 0.564
+p'+EBP = 0.60+0.036 = 0.636
+p'
+p'
+x
+n
+p' = x/n = 8/29 ~~ 0.276
+q' = 1'\\x002013'p' = 1'\\x002013'0.276 = 0.724
+alpha/2
+z_(0.025) = 1.96
+EBP = (z_(alpha/2))sqrt( (p'q')/n) = (1.96)sqrt( (0.276(0.724))/29) ~~ 0.163
+p'
+p'
+p' = <mo//>15/54<mo//> ~~ <mo//>0.278
+q' = 1'\\x002013'p' = 1-0.241 = 0.722
+alpha/2
+z_(0.05) = 1.645
+EBP = (z_(alpha/2))(sqrt( (p'q')/n)) = (1.645)(sqrt( ((0.278)(0.722))/54)) ~~ 0.100
+p'
+p'
+EBP = (z_(alpha/2))(sqrt( (p'q')/n))
+n = ((z_(alpha/2))^2(p'q'))/(EBP^2)
+z_(alpha/2)
+n = (z^2 p'q')/(EBP^2)
+n = (1.645^2(0.5)(0.5))/(0.03^2) = 751.7
+("36,648,561")/(4) "\ =\9,162,140"
+("9,162,140")/("2,044,672"".6") "\ =\4"".4810"
+("20,446,726")/("10") "\ =\2,044,672"".6"
+(n*s_(bar x)2 )/(s2_("pooled") )
+s_(bar x)2
+ns_(bar x)2
+F = (MS_("between"))/(MS_("within")) = (ns_(bar x)2 )/(s2_("pooled") ) = ((5)(0.413))/15.433 = 0.134
+1/10
+("10,\ " 10/8)
+bar x
+bar x
+("10"".53,\ " 1/3)
+bar X
+("2000,\ " ("8000")/(sqrt("1000")) )
+bar x
+bar x
+(1/20.71)
+("20"".71,\ " 17.31/(sqrt(5)) )
+bar X
+("60,\ " 9/(sqrt(25)) )
+bar x
+sigma/(sqrt(n))
+(E'\\x002013'"99,16"".7,17," (0.8)/(sqrt("30")) )
+bar x
+Sigma bar x
+sqrt(465)
+(E'\\x002013'"99,1"".1,1," 1/(sqrt("70")) )
+(5."111,5"".291,5"".201," (0."065")/(sqrt("280")) )
+mu = (a+b)/2
+sigma = sqrt( ((b"\ '\\x002013'\ "a)^2)/12)
+f(x) = 1/(b-a)
+a <= X <= b
+(1/(b-a) )
+(1/(b-a) )
+(1/(b-a) )
+f(x) = 1/(b-a)
+(x-a)/(b-a)
+(a+b)/2
+= sqrt( ((b-a)^2)/12)
+(1/(b'\\x002013'a) )
+1/m
+(ln(1-"AreaToTheLeftOfk"))/((-m))
+\ P(X = k) = (lambda^k e^(-k))/(k!)
+n! = n(n-1)(n-2)...(1)"<mtext//>"
+0! = 1"<mtext//>"
+([n], [r]) = (n!)/((n-r)!r!)
+X~B(n, p)
+P(X = x) = ([n], [x])p^x q^(n-x)
+x = 0, 1, 2, ..., n
+X~G(p)
+P(X = x) = q^(x-1)p
+x = 1, 2, 3, ...
+X~H(r, b, n)
+P(X = x) = ( (((r), (x))((b), (n-x)))/(((r+b), (n))) )
+X~P(mu)
+P(X = x) = (mu^x e^(-mu))/(x!)
+X~U(a, b)
+f(X) = 1/(b-a)
+a < x < b
+X~"Exp"(m)
+f(x) = me^(-mx)m > 0, x >= 0
+X~N(mu, sigma^2)
+f(x) = 1/(sigma sqrt(2 pi)) e^( (-(x-mu)^2)/(2 sigma^2) )
+\ '\\x002013'oo < x < oo
+X~t_(df)
+f(x) = ((1+ (x^2)/n)^( (-(n+1))/2) Gamma( (n+1)/2))/(sqrt("n pi ") Gamma(n/2))
+X = Z/(sqrt(Y/n))
+Z~N(0, 1),Y~'\\x0003a7'_(df)^2
+n
+X~'\\x0003a7'_(df)^2
+f(x) = (x^( (n-2)/2)e^( (-x)/2))/(2^(n/2) Gamma(n/2))
+x > 0
+n
+X~F_(df(n),df(d))
+df(n) =
+df(d) =
+f(x) = (Gamma( (u+v)/2))/(Gamma(u/2) Gamma(v/2)) (u/v)^(u/2)x^((u/2-1))[1+(u/v)x^(-0.5(u+v))]
+X = (Y_u)/(W_v)
+Y
+W
+sqrt([\ ], [\ ])
+pi
+bar x
+mu
+s^2
+s_x^2
+sigma
+sigma_x
+sigma^2
+sigma_x^2
+Sigma
+{}
+S
+A
+P(A)
+P(A|B)
+P(A"\OR\ "B)
+P(A"\AND\ "B)
+lambda
+"<mi//>" >= "<mi//>"
+"<mi//>" <= "<mi//>"
+bar X
+mu_x
+mu_(bar x)
+sigma_x
+sigma_(bar x)
+Sigma X
+Sigma x
+t_(alpha/2)
+p'
+hat p
+q'
+hat q
+H_0
+H_a
+H_1
+alpha
+beta
+bar(X1)-bar(X2)
+mu_1-mu_2
+P'_1-P'_2
+p_1-p_2
+'\\x0003a7'^2
+O
+E
+hat y
+r
+epsilon
+sigma_1^2
+sigma_2^2
+s_1^2
+s_2^2
+F = ([ ((s_1)^2)/((sigma_1)^2) ])/([ ((s_2)^2)/((sigma_2)^2) ])
+sigma_1^2 = sigma_2^2
+F = ([ ((s_1)^2)/((sigma_1)^2) ])/([ ((s_2)^2)/((sigma_2)^2) ]) = ((s_1)^2)/((s_2)^2)
+((s_2)^2)/((s_1)^2)
+s_1^2
+s_2^2
+F = ((s_1)^2)/((s_2)^2)
+s_1^2
+s_2^2
+s_1^2
+((s_1)^2)/((s_2)^2)
+s_1^2
+s_2^2
+F = ((s_1)^2)/((s_2)^2)
+sigma_1^2 = sigma_2^2
+sigma_1^2 "\ <\ " sigma_2^2
+(sigma_1^2 "\ =\ " sigma_2^2)
+F = ([ ((s_1)^2)/((sigma_1)^2) ])/([ ((s_2)^2)/((sigma_2)^2) ]) = ((s_1)^2)/((s_2)^2) = 52.3/89.9 = 0.5818
+sqrt((52.3))
+sqrt((89.9))
+<
+bar x
+sigma = \ sqrt(npq)
+P(X = x) = ([n], [x])p^x q^(n-x)
+mu
+bar X
+Sigma X
+bar X~N(mu, sigma/(sqrt(n)) )
+Sigma X~N(n mu, sqrt(n) sigma)
+sigma/(sqrt(n))
+f(x) = \ 1/(sigma sqrt(2 pi)) e^( (-(x-mu)^2)/(2 sigma^2) )
+chi^2
+chi_3^2
+chi_2^2
+(x"\ '\\x002013'\ " mu)/sigma
+X
+2/19
+3/19
+1/19
+3/19
+2/19
+2/19
+2/19
+1/19
+1/19
+bar(X_1)'\\x002013'bar(X_2)
+bar X_1'\\x002013'bar X_2~N[mu_1'\\x002013'mu_2, sqrt( ((sigma_1)^2)/(n_1) + ((sigma_2)^2)/(n_2) )]
+sqrt( ((sigma_1)^2)/(n_1) + ((sigma_2)^2)/(n_2) )
+z = ((bar x_1'\\x002013'bar x_2)'\\x002013'(mu_1'\\x002013'mu_2))/(sqrt( ((sigma_1)^2)/(n_1) + ((sigma_2)^2)/(n_2) ))
+bar X_1 "'\\x002013'\ " bar X_2
+bar X_1'\\x002013'bar X_2~N(0, sqrt( (0.33^2)/20+ (0.36^2)/20))
+bar X_1
+bar X_2
+bar X_1 "\ '\\x002013'\ " bar X_2
+bar X_1'\\x002013'bar X_2~N[0, sqrt( ((9.55)^2)/30+ ((10.17)^2)/30)]
+bar x
+x"\ =\ " bar x "\ +\ "(#"ofSTDEV")(s)
+x = mu+(#"ofSTDEV")(sigma)
+bar x
+mu
+bar x
+bar x
+s = sqrt( (Sigma(x-bar x)^2)/(n-1) )
+s = sqrt( (Sigma f(x-bar x)^2)/(n-1) )
+sigma\ = \ sqrt( (Sigma(x-mu)^2)/N)
+sigma\ = \ sqrt( (Sigma f(x'\\x002013'mu)^2)/N)
+sigma/(sqrt(n))
+bar x = ("9\ +\9"".5(2)\ +\10(4)\ +\10"".5(4)\ +\11(6)\ +\11"".5(3)")/20 = 10.525
+bar x
+bar x
+bar x
+s^2 = 9.7375/(20-1) = 0.5125
+s = sqrt(0.5125) = 0.715891,
+bar x
+bar x
+bar x
+bar x
+bar x
+bar x
+bar x
+bar x
+bar x
+"Mean"\ of\ "Frequency"\ "Table" = (sum fm)/(sum f)
+f =
+f
+m
+f*m
+bar x
+m-bar x
+(m-bar x)^2
+f(m-bar x)^2
+'\\y01d72e'
+bar x = (Sigma fm)/(Sigma f) = 197/26 ~~ 7.58.
+bar x
+m-bar x
+m
+s_x = sqrt( (Sigma f(m-bar x)^2)/(n-1) ) = sqrt(43.2964/(26-1) ) ~~ 3.50.
+#"ofSTDEVs" = ("value\ '\\x002013'\mean")/("standard\deviation")
+x
+bar x
+z = (x\ -\ bar x)/s
+x
+mu
+z = (x\ -\ mu)/sigma
+z = #of STDEVs = ("value\ "'\\x002013'"mean")/("standard\deviation") = (x'\\x002013'mu)/sigma
+z = #"ofSTDEVs" = (2.85'\\x002013'3.0)/0.7 = '\\x002013'0.21
+z = #"ofSTDEVs" = (77-80)/10 = -0.3
+bar x
+bar X
+sigma/(sqrt(n))
+bar x
+(a+b)/2
+("1\ +\5")/2
+sqrt( ((b'\\x002013'a)^2)/12)
+sqrt( ((5'\\x002013'"1)"^2)/12) = sqrt(16/12) = sqrt(4/3), "\or\approximately"\ 1.15.
+bar X
+bar X
+("3,\ " 1.15/(sqrt("75")) )
+bar x
+bar x
+("1,2,3," 1.15/(sqrt("75")) )
+bar x
+(0".90,3," 1.15/(sqrt(75)) )
+(sqrt(75))
+(sqrt(75))(sqrt(4/3)) = sqrt(( (75 xx 4)/3)) = sqrt(100) = 10
+(sqrt(75))
+bar x
+(1/22)
+bar X
+bar X
+("22,\ " ("22")/(sqrt("80")) )
+bar x
+bar x
+bar x
+("20,1E99,22," ("22")/(sqrt("80")) )
+X~"Exp"(1/22)
+P(x > 20)"\ =\ "e^((-(1/22)(20)))
+bar x
+bar x
+(0".95,22", 22/(sqrt(80)) )
+bar x
+sigma/(sqrt(n))
+0.5/10
+sqrt(n)
+bar x
+z"\ =\ " (bar x'\\x002013'mu_(bar x))/(sigma_(bar x))
+bar x
+bar x
+sqrt(npq)
+sqrt(npq)
+("number\of\cell\phone\users")/("total\number\in\study") \ = \ 305/755
+("number\that\had\no\violation")/("total\number\in\study") \ = \ 685/755
+280/755
+(305/755\ +\ 685/755)\ -\ 280/755\ = \ 710/755
+25/70
+405/450
+18/100
+(45/100)(34/100)
+25/41
+45/100
+25/100
+11/100
+45/100
+25/100
+11/100
+59/100
+1/5 "<mtext//>"
+4/5 "<mtext//>"
+1/4
+3/4
+1/2
+1/2
+1/3
+1/15 "<mtext//>"
+1/12 "<mtext//>"
+1/6 "<mtext//>"
+4/15
+3/12
+1/6
+1/15 = (1/5)(1/3)
+4/15 = (4/5)(1/3)
+1/15 "<mtext//>"
+1/12 "<mtext//>"
+1/6 "<mtext//>"
+19/60
+4/15
+3/12
+1/6
+41/60
+5/15
+4/12
+2/6
+41/60
+9/19
+P(A)\ = \ 0.25
+P(B)\ = \ 0.65
+P(A\ AND\ B)
+P(A\ OR\ B)
+sqrt(npq)
+P(x > 3)
+P(x > 3) = P(x = 4)+P(x = 5) = 0.0146+0.0007 = 0.0153.
+mu = np = 1.25
+p = 0.25
+[P(x=x_0), \ =\ , ([n], [x])p^x(1-p)^(n-x)], [\ , \ =\ , ([5], [x_0])'\\x0000b7'25^(x_0)'\\x0000b7'75^(5-x_0)], [\ , \ , "etc".], [mu, \ =\ , "np"=1.25]
+sqrt(npq)
+sqrt((20)(0.41)(0.59))
+(100, 8/560)
+(100, 8/560, 2)
+(100, 8/560, 6)
+(100, 8/560, 3)
+(8/560)
+800/560
+sqrt(npq)
+sqrt((100)(8/560)(552/560))
+X\ ~\ B(200, 0.015)
+"Mean" = np = 200(0.015)\ = 3
+"Standard"\ "Deviation" = sqrt(npq) = sqrt(200(0.015)(0.985)) = 1.719
+P(x <= 8)\ = 0.9965
+6/16
+5/15
+6/15
+2/50
+11/50
+23/50
+9/50
+4/50
+1/50
+2/50+11/50+23/50+9/50+4/50+1/50 = 1
+4/50
+8/50
+16/50
+14/50
+6/50
+2/50
+chi~chi_(df)^2
+sigma = sqrt(2(df))
+chi_(1,000)^2
+sqrt(2(1,000))
+bar x
+s
+bar x
+bar x
+bar x
+sqrt(n)
+z"\ =\ " (Sigma x'\\x002013'(n)(mu_X))/((sqrt(n))(sigma_X))
+(sqrt(n))(sigma_X)
+Sigma X
+sqrt(n)
+Sigma X
+sqrt("80")
+(sqrt(n)")(" sigma_X ") = ("sqrt("80"))
+(sqrt(n))
+(sqrt(80))
+(sqrt(n))
+sqrt(80)
+(sqrt(n))
+sqrt(n)
+(sqrt("50")"\ )"
+(sqrt("50")"\ )"
+(sqrt("50")"\ )"
+(sqrt(n))(sigma_x)
+(sqrt("70")"\ )"
+(sqrt("70"))
+(sqrt("70"))
+2/10
+3/4
+1/4
+1/4
+2/4
+3/4
+3/4
+2/4
+2/4
+3/6
+3/6
+1/6
+2/3
+(P(G"\AND\ "H))/(P(H))
+0.3/0.5
+(P(C"\AND\ "D))/(P(C))
+0.225/0.75
+3/8
+5/8
+3/8
+2/5
+2/3
+2/8
+1/4
+2/8
+1/4
+(3)/12
+(1)/12
+( (3)/12)
+( (1)/12)
+bar x =
+s^2 =
+1/20
+1/20
+1/20
+1/20
+1/20
+1/20
+"AREA" = 20(1/20) = 1
+1/20
+"AREA\ " = \ (2\ '\\x002013'\ 0)(1/20)\ = \ 0.1
+(2"<mtext//>"'\\x002013'"<mtext//>"0)"<mtext//>" = "<mtext//>"2"<mtext//>" = "base of a rectangle"
+1/20
+"AREA\ " = \ (15\ '\\x002013'\ 4)(1/20)\ = \ 0.55
+(15\ '\\x002013'\ 4)\ = \ 11\ = "\the\base\of\a\rectangle"
+(1/20)
+1/20
+P(2.3 < x < 12.7) = ("base")("height") = (12.7-2.3)(1/20) = 0.52
+(1)/8
+"RF" = f/n
+f/n
+3/40
+[74.05-59.95=14.1], [14.1-:8=1.76]
+[6.5-0.5=6], [6-:1=6]
+bar x =
+bar x
+bar X
+bar x
+bar X
+bar x
+bar X
+bar x
+bar X
+bar x
+sigma_x
+alpha/2
+bar x
+s_x
+bar X
+bar x
+s_x
+bar X
+bar x
+s_x
+bar X
+bar x
+sigma_x
+bar x
+s_x
+bar x
+s_x
+p'
+p'
+bar x
+bar x
+1/200
+sigma/(sqrt(n)) = 0.5/(sqrt(10)) = 0.16
+bar x
+underset((i*j))(Sigma) ((O'\\x002013'E)^2)/E
+i*j
+((O'\\x002013'E)^2)/E
+y/755 = (70/755)(305/755)
+((70)(305))/755 = 28.3
+E = ("(row total)(column total)")/("total number surveyed")
+E = (("row\total")("column\total"))/("total\number\surveyed") = ((255)(298))/839 = 90.57
+chi_4^2
+E = ("(row total)(column total)")/("total surveyed") = (155*57)/400 = 22.09
+E = ("(row total)(column total)")/("total surveyed") = 8.19
+i = (k/100)(n+1)
+( (x"\ +\ "0.5y)/n)
+mu = (sum fm)/(sum f)
+s_x = sqrt( (sum fm^2)/n-bar x^2)
+[s_x="\sample\standard\deviation"], [bar x "\ =\sample\mean"]
+m = 1/mu
+m = 1/4 = 0.25.
+k = (ln(0.50))/(-0.25) = 2.8
+k = (ln(1-"AreaToTheLeft"))/(-m)
+m = 1/mu = 1/10 = 0.1
+k = (ln(1'\\x002013'0.80))/('\\x002013'0.1) = 16.1
+(ln(1'\\x002013'0.80))/('\\x002013'0.1)
+1/12
+1/12
+1/20
+1/2
+x = (ln(0.30))/('\\x002013'0.5) ~~ 2.41
+(ln(1'\\x002013'"Area"_To_The_Left_Of_k))/(('\\x002013'm))
+(ln(1'\\x002013'0.70))/(('\\x002013'0.5)) ~~ 2.41
+e^(('\\x002013'0.5)(1))
+1/4
+P(X = k) = (lambda^k e^(-lambda))/(k!)
+15/60
+1/0.25
+P(T"\ <\ " 1/6) = 1'\\x002013'e^(('\\x002013'4)(1/6)) ~~ 0.4866.
+(4^5 e^(-4))/(5!)
+sqrt( ((s_1)^2)/(n_1) + ((s_2)^2)/(n_2) )
+((bar x_1-bar x_2)-(mu_1-mu_2))/(sqrt( ((s_1)^2)/(n_1) + ((s_2)^2)/(n_2) ))
+df = \ (( ((s_1)^2)/(n_1) + ((s_2)^2)/(n_2) )^2)/((1/(n_1-1) )( ((s_1)^2)/(n_1) )^2+(1/(n_2-1) )( ((s_2)^2)/(n_2) )^2)
+bar x_1
+bar x_2
+d = (bar x_1-bar x_2)/(s_("pooled"))
+s_("pooled") = sqrt( ((n_1-1)s_1^2+(n_2-1)s_2^2)/(n_1+n_2-2) )
+bar X_1-bar X_2~N[mu_1-mu_2, sqrt( ((sigma_1)^2)/(n_1) + ((sigma_2)^2)/(n_2) )]
+z = ((bar x_1-bar x_2)-(mu_1-mu_2))/(sqrt( ((sigma_1)^2)/(n_1) + ((sigma_2)^2)/(n_2) ))
+bar x_1
+bar x_2
+(x_F\ +\ x_M)/(n_F\ +\ n_M)
+p'_A-p'_B~N[0, sqrt(p_c(1-p_c)(1/(n_A) +1/(n_B) ))]
+z = ((p'\ A- p'\ B) )/(sqrt(p_c(1-p_c)(1/(n_A) +1/(n_B) )))
+(bar x_d-mu_d)/(( (s_d)/(sqrt(n)) ))
+bar x_d
+1/(sigma*sqrt(2*pi)) \ *"\e"^(-1/2*( (x-mu)/sigma)^2)
+(bar x'\\x002013'mu)/((s/(sqrt(n)) ))
+bar x
+(x'\\x002013'bar x "values")
+EBM = (t_(alpha/2))(s/(sqrt(n)) )
+t_(sigma/2)
+alpha/2
+(bar x-EBM, bar x+EBM)
+bar x
+bar x
+alpha/2
+t_(alpha/2) = t_(0.025)
+t_(alpha/2) = t_(0.025) = 2.14
+EBM = (t_(alpha/2))(s/(sqrt(n)) )
+EBM = (2.14)(1.6722/(sqrt(15)) ) = 0.924
+bar x
+bar x
+bar x
+alpha/2 = 0.05,t_(alpha/2) = t_(0.05)
+EBM = t_(alpha/2)(s/(sqrt(n)) ) = 1.729(25.965/(sqrt(20)) )\ ~~ \ 10.038
+bar x
+bar x
+bar x
+(mu_x ",\ " (sigma x)/(sqrt(n)) )
+bar X
+z = (bar x-mu_x)/(( (sigma_x)/(sqrt(n)) ))
+bar X
+(sigma_x)/(sqrt(n))
+sqrt(n)
+z"for the sample mean\ =\ " (Sigma x'\\x002013'(n)(mu_X))/((sqrt(n))(sigma_X))
+(sqrt(n))
+((n-1)s^2)/(sigma^2)
+chi_(24)^2
+chi^2 = ((n\ -\ 1)s^2)/(sigma^2) = ((25\ -\ 1)(3.5)^2)/(7.2^2) = 5.67
+bar x
+bar x = (1+1+1+2+2+3+4+4+4+4+4)/11 = 2.7
+bar x = (3(1)+2(2)+1(3)+5(4))/11 = 2.7
+(n+1)/2
+(n+1)/2
+(97+1)/2
+(n+1)/2
+(100+1)/2
+bar x = ([3+4+(8)(2)+10+11+12+13+14+(15)(2)+(16)(2)+"..."+35+37+40+(44)(2)+47])/40 = "23.6"
+(n+1)/2 = (40+1)/2 = 20.5
+M = (24+24)/2 = 24
+bar x
+bar x = (5,000,000+49(30,000))/50 = 129,400
+bar x
+5/30
+15/30
+6/30
+3/30
+1/30
+bar x
+("data"\ "sum")/("number\of\data\values")
+("lower\boundary"+"upper\boundary")/2
+"Mean\of\Frequency\Table" = (sum fm)/(sum f)
+sum^'\\x00200b'fm
+53.25(1)+59.5(0)+65.5(4)+71.5(4)+77.5(2)+83.5(3)+89.5(4)+95.5(1) = 1460.25
+mu = (sum fm)/(sum f) = 1460.25/19 = 76.86
+bar x
+bar X
+bar X
+sigma/(sqrt(n))
+sqrt(n)
+sigma/(sqrt(n))
+1/m
+1/m
+bar x
+bar x "\ =\ " ("Sum\of\all\values\in\the\sample")/("Number\of\values\in\the\sample")
+mu "\ =\ " ("Sum\of\all\values\in\the\population")/("Number\of\values\in\the\population")
+f(x)"\ =\ " 1/(sigma sqrt(2 pi)) \ e^( ('\\x002013'(x'\\x002013'mu)^2)/(2 sigma^2) )
+f(x)"\ =\ " 1/(sigma sqrt(2 pi)) \ e^( ('\\x002013'(x'\\x002013'mu)^2)/(2 sigma^2) )
+sigma/(sqrt(n))
+mu "\ =\ " (a"\ +\ "b)/2
+sigma "\ =\ "sqrt( ((b'\\x002013'"a)"^2)/12)
+f(x)"\ =\ " 1/(b'\\x002013'a)
+(x'\\x002013'a)/(b'\\x002013'a)
+mu = mu_(bar x)
+sigma_(bar x) = (sigma_x)/(sqrt(n))
+sigma = sqrt( (pq)/n)
+bar X~N(mu_X, sigma/(sqrt(n)) )
+(bar x-EBM, bar x+EBM)
+(bar x-z sigma/(sqrt(n)) , bar x+z sigma/(sqrt(n)) )
+z sigma/(sqrt(n))
+z_(alpha/2)
+\ (prop)/2
+(z^2 sigma^2)/(EBM^2)
+("upper\value"-"lower\value")/2
+alpha/2*sigma/(sqrt(n))
+bar x
+bar x
+t = \ (bar x-mu)/(s/(sqrt(n)) )
+EBM = t_(alpha/2) s/(sqrt(n))
+t_(alpha/2)
+alpha/2
+(bar x'\\x002013' (ts)/(sqrt(n)) , bar x "+\ " (ts)/(sqrt(n)) )
+p'~N(p, sqrt( (pq)/n))
+p'
+z_(alpha/2)sqrt( (p'q')/n)
+= (p''\\x002013'EBP, p'+EBP) = (p''\\x002013'zsqrt( (p'q')/n), \ p'+zsqrt( (p'q')/n))
+n = \ (z_(alpha/2)\ 2p' q')/(EBP^2)
+p'\ = x/n
+EBP = (z_(alpha/2))sqrt( (p'q')/n)\ p'+q' = 1
+p'
+p'
+bar x
+p'
+13/24
+11/23
+10/23
+mu = (nr)/(r+b) = ((4)(6))/(6+5) = 2.18
+sqrt(npq)
+P(X = x) = ((n), (x))p^x q^(n-x)
+f(x) = 1/(sigma sqrt(2 pi)) e^('\\x002013'(x'\\x002013'mu)^2//2 sigma^2)
+p+q\ = 1
+q = 1-p.
+1//6
+q = 5//6,
+(5//6)(5//6)(5//6)(5//6)(1//6)\ = \ 0.0804
+P(x = n+k|x >= k+1) = P(x = n),
+mu = E(x) = 1/p ~~ 2.8
+P(x\ >= \ 3)
+P(x\ >= 3) = 1-P(x < 3)
+P(x > n) = (1-p)^n
+P(x < n) = 1-(1-p)^n
+(1-p)
+P(X = x) = (1-p)^(x-1)p
+x = 1, \ 2, \ 3, \ ....
+mu = 1/p.
+(1-p)
+x-1
+sigma = sqrt((1/p)(1/p-1))
+P(X = x) = (1-p)^x p
+x = 0, \ 1, \ 2, \ 3, \ ....
+mu = (1-p)/p
+sigma = sqrt(( (1-p)/p)).
+"GEOMETRIC:"P\ = \ .02, \ "Common"\ "ratio"\ = \ r\ = \ .98
+x = 1
+x = 2
+P(X = 3) = 0.019208.
+(P(x=5))/(P(x=4)) = 0.018447/0.018823 = 0.98.
+P(x = 6)
+P(x = 7)
+P(x = 7) = (0.018078)\ *\ 0.98 = 0.017716,
+P(x = x_a)
+mu = 50
+mu = 1/p = 1/0.02 = 50
+P(X = x) = (1-p)^(x-1)p
+x\ = \ 1, \ 2, \ 3, \ ....
+sigma^2 = (1/p)(1/p-1) = (1/0.02)(1/0.02-1) = 2,450
+sigma = sqrt((1/p)(1/p-1)) = sqrt((1/0.02)(1/0.02-1)) = 49.5
+(1/p)(1/p-1)
+(1/0.02)(1/0.02-1)
+sqrt((1/p)(1/p-1))
+sqrt((1/(0."02") )(1/(0."02") -1))
+X~G(1/67)
+X~G(0.015)
+P(x = 10) = "geometricpdf"\ (0.015, 10) = 0.0131
+P(x = 20) = "geometricpdf"\ (0.015, 20) = 0.0113
+"Mean" = mu = 1/p = 1/0.015 = 66.67
+"Standard"\ "Deviation" = sigma = sqrt( (1-p)/(p^2) ) = sqrt( (1-0.015)/([0.015]^2) ) = 66.16
+15/42
+5/14
+5/42
+20/150
+2/15
+22/150
+11/75
+(150-22-38-20-28-26)/150
+16/150
+8/75
+47/194
+23/194
+12/194
+6/97
+13/52
+1/4
+3/6
+1/2
+P(R) = 4/8 = 0.5
+P(Z\ AND\ S)
+P(Z\ AND\ S)
+Z\ AND\ S
+Z\ AND\ S
+P(Z\ OR\ S)
+P(Z\ OR\ S)
+Z\ OR\ S
+Z\ OR\ S
+15/130
+3/26
+35,065/100,450
+4,715/100,450
+4715/15,273
+6/38
+3/38
+1/38
+4/38
+2/38
+5/38
+3/38
+5/8 "<mtext//>"
+2/3 "<mtext//>"
+2/8 "<mtext//>"
+6/8 "<mtext//>"
+(3/10)
+(1/2)
+3/20
+3/20
+4/8
+10/67
+10/34
+("8,395")/("21,081") ~~ 0.3982
+("1,061")/("21,081") ~~ 0.0503
+("1,885")/("21,081") ~~ 0.0894
+("9,219")/("21,081") ~~ 0.4373
+("1,595")/("3,656") ~~ 0.4363
+26/106
+33/106
+21/106
+(26/106)
+(33/106)
+(21/106)
+(38/106)
+21/33
+(5/8)(5/8)
+25/64
+25/64
+15/64
+15/64
+55/64
+5/8
+(8/31)
+t = (rsqrt(n-2))/(sqrt(1-r^2))
+r
+( ("larger\ +\smaller\dimension")/("larger\dimension") )
+p2022\ <= \ p2021
+p2022\ >= \ p2021
+mu 2022\ <= \ mu 2021
+p2022\ > \ p2021
+bar x_d
+8.4/(sqrt(6))
+sqrt( (sum^'\\x00200b' (x-bar x)^2)/(n-1) )
+sqrt( (sum^'\\x00200b'f(x-bar x)^2)/(n-1) )
+sqrt( (sum^'\\x00200b' (x-mu)^2)/N)
+sqrt( (sum^'\\x00200b'f(x-mu)^2)/N)
+bar x
+bar y
+bar x
+bar y

@@ -1,0 +1,583 @@
+beta,
+bb P
+bb P
+beta.
+"<mi//>"_ beta = [[c_1], [c_2], [vdots], [c_n]] in RR^n
+tt A_(r xx c) = [a_(ij)] = [[a_(11), a_(12), cdots, a_(1c)], [a_(21), a_(22), cdots, a_(2c)], [vdots, vdots, ddots, vdots], [a_(r1), a_(r2), cdots, a_(rc)]]
+tt A_(r xx c) = [a_(ij)]
+tt B_(m xx n) = [b_(ij)]
+tt A
+tt B
+r = m
+c = n
+tt A+tt B = [s_(ij)]"\where\ "s_(ij) = a_(ij)+b_(ij)
+t in RR
+tt A
+ttt A = [q_(ij)]"\where\ "q_(ij) = ta_(ij)
+tt A
+tt B
+c = m
+"tt A tt B " = [p_(ij)]"\where\ "p_(ij) = a_(i1)b_(1j)+a_(i2)b_(2j)+cdots+a_(in)b_(nj)
+n xx n
+n xx n
+tt O
+n xx n
+tt M,
+tt M+tt O = tt M.
+tt O
+n xx n
+n xx n
+tt I
+n xx n
+tt M,
+"tt M tt I " = tt M
+"tt I tt M " = tt M.
+tt A
+tt A^(-1)
+"tt A tt A "^(-1) = tt I
+tt A^(-1)tt A = tt I
+2 xx 2
+[tt A=[[a_(11), a_(12)], [a_(21), a_(22)]], tt B=[[b_(11), b_(12)], [b_(21), b_(22)]], tt C=[[c_(11), c_(12)], [c_(21), c_(22)]]]
+k("tt A tt B ") = (ktt A)tt B = tt A(ktt B)
+("tt A tt B ")tt C = tt A("Btt C ")
+tt A+tt B = tt B+tt A
+tt A(tt B+tt C) = "tt A tt B "+"tt A tt C "
+tt A^(-1) = 1/(a_(11)a_(22)-a_(12)a_(21)) [[a_(22), -a_(12)], [-a_(21), a_(11)]]\ "\if\ "\ "sersera"_(11)a_(22)-a_(12)a_(21) != 0
+"tt A tt B " = "tt A tt C "\ "\and\ "\ tt A != tt O)'\\x0027f9'tt B = tt C
+"tt A tt B " = tt O'\\x0027f9'(tt A = tt O\ "\or\ "\ tt B = tt O)
+f
+g,
+c,
+f+g
+cf
+x,
+(f+g)(x):=f(x)+g(x)
+(cf)(x):=c*f(x).
+f
+x
+lim_(w->x)f(w) = f(x).
+bb P
+bb Q
+bbb L,
+bb Y
+bb P+bb Y = bb Q.
+bb P
+bb Q
+bbb L.
+bb Q
+bb P
+bb Q-bb P,
+bb P
+bb Q.
+bb Q-bb P
+bb P+(bb Q-bb P) = bb Q.
+bb v = (v_1, v_2, v_3)
+t in RR.
+t
+bb v
+tbb v = (tv_1, tv_2, tv_3)
+bb v = (v_1, v_2, v_3)
+bb w = (w_1, w_2, w_3).
+bb v
+bb w
+bb v+bb w = (v_1+w_1, v_2+w_2, v_3+w_3).
+bb v = (v_1, v_2, v_3) in RR^3
+bb x = (x_1, x_2, x_3) in RR^3
+bb x
+bb v
+'\\y01d7ce' = (0, 0, 0).
+bb v
+bb x
+bb v = (v_1, v_2, v_3) in RR^3
+bb w = (w_1, w_2, w_3) in RR^3
+bb y = (y_1, y_2, y_3) in RR^3
+bb y
+bb v
+bb w = (w_1, w_2, w_3).
+bb v
+bb w
+bb y
+bb v = (v_1, v_2, v_3) in RR^3.
+bb v
+-bb v,
+bb v
+'\\y01d7ce' = (0, 0, 0).
+-bb v
+bb v+-bb v = 0.
+bb v = (v_1, v_2, v_3) in RR^3
+bb w = (w_1, w_2, w_3) in RR^3.
+bb w
+bb v
+bb w-bb v,
+bb v
+bb w.
+bb w-bb v
+bb v+(bb w-bb v) = bb w.
+bb v = (v_1, v_2, v_3) in RR^3
+k in RR.
+'\\x002016'kbb v'\\x002016' = k'\\x002016'bb v'\\x002016'?
+'\\x002016'bb v+bb w'\\x002016' = '\\x002016'bb v'\\x002016'+'\\x002016'bb w'\\x002016'?
+T:bbb L_1'\\x0027f6'bbb L_2
+bbb L_1
+T
+'\\y01d7ce'in bbb L_2
+T
+"ker"(T) = {bb P in bbb L_1\ |\ T(bb P) = '\\y01d7ce'}
+T:bbb L_1'\\x0027f6'bbb L_2,
+"ker"(T) = {'\\y01d7ce'}
+T
+1-1.
+bb P
+bbb L:
+1bb P = bb P
+bbb S
+bbb L
+bbb S
+bbb S
+bbb S.
+bb v = (v_1, v_2, v_3)
+v_1,
+v_2,
+v_3
+in RR.
+bb v = (v_1, v_2, v_3),
+v_1
+v_2
+v_3
+bb v = (v_1, v_2, v_3),
+v_1
+v_2
+v_3
+RR^3.
+RR^3 = {(v_1, v_2, v_3)|v_1, v_2, v_3 in RR}
+bb v = (v_1, v_2, v_3) in RR^3.
+'\\x002016'bb v'\\x002016',
+bb v
+bb v
+a
+b
+c:
+a^2+b^2 = c^2
+bb v = (v_1, v_2, v_3)
+v_1,
+v_2,
+v_3
+bb v
+'\\x002016'bb v'\\x002016' = sqrt(v_1^2+v_2^2+v_3^2)
+bb v = (v_1, v_2, v_3)
+bb v
+'\\x002016'bb v'\\x002016'_("spherical") =
+'\\x002016'bb v'\\x002016'_("cylindrical") =
+bbb L
+bbb B = {bb P_1, bb P_2, ..., bb P_n}
+n
+n
+RR^3,
+RR^2,
+RR^5?
+RR^3
+2 xx 2
+bbb L
+bb P
+bb Q
+bbb L
+t
+[\ , "<mi//>"'\\x002219', \ , bb P+bb Q, \ , "called the sum of\ "bb P "\and\ "bb Q], [\ , "<mi//>"'\\x002219', \ , tbb P, \ , "called the scalar product of\ "t"\and\ "bb P]
+bb P,
+bb Q,
+bb R
+in bbb L
+a, b in RR:
+bb P+bb Q = bb Q+bb P
+bb P+(bb Q+bb R) = (bb P+bb Q)+bb R
+a(bbb P) = (ab)bb P
+(a+b)bb P = abb P+bbb P
+a(bb P+bb Q) = abb P+abb Q
+'\\y01d7ce',
+bb P+'\\y01d7ce' = bb P
+abb P = '\\y01d7ce'
+a = 0
+bb P = '\\y01d7ce'
+bb Q
+bbb L,
+bb X
+bb Q+bb X = '\\y01d7ce'.
+bb Q
+bb Q in bbb L.
+bb Q
+-bb Q,
+bb Q
+'\\y01d7ce'in bbb L.
+-bb Q
+bb Q+-bb Q = '\\y01d7ce'.
+bbb P = {c_0+c_1 x+c_2 x^2+cdots+c_k x^k|c_i in RR, k in ZZ^+ }.
+bbb P_n = {c_0+c_1 x+c_2 x^2+cdots+c_k x^k|c_i in RR, k in ZZ^+ , k < n}.
+bb P
+bb Q
+bbb L,
+c in RR:
+c(bb Q-bb P) = cbb Q-cbb P
+'\\y01d7ce',
+bbb L_1, bbb L_2
+bbb L_3
+f:bbb L_1'\\x0027f6'bbb L_2,
+bb P,
+bb Q in bbb L_1,
+c in RR:
+f(bb P+bb Q) = f(bb P)+f(bb Q)"\and\ "f(cbb P) = cf(bb P)
+f(bb P+bb Q) = f(bb P)+f(bb Q)
+f(cbb P) = cf(bb P)
+bbb L_1,
+bbb L_2
+bbb L_3
+T:bbb L_1'\\x0027f6'bbb L_2
+1-1
+bbb L_2
+T^(-1):bbb L_2'\\x0027f6'bbb L_1
+T_1:bbb L_1'\\x0027f6'bbb L_2
+T_2:bbb L_2'\\x0027f6'bbb L_3
+1-1,
+T_2@T_1
+n xx n
+tt A
+tt B:
+det("tt A tt B ") = det(tt A)det(tt B)
+bbb S
+bbb L
+bbb L.
+bbb S
+bbb L
+bbb S
+bbb M
+bbb L
+bbb L
+bbb M
+bbb M sube bbb L
+'\\x002219'
+bbb M
+bb P,
+bb Q in bbb M => bb P+bb Q in bbb M
+'\\x002219'
+bbb M
+c in RR,
+bb P in bbb M =>
+bb P in bbb M
+bbb M
+1-7
+bbb M
+bbb L.
+bbb M
+bbb L
+bbb M
+bbb M
+bbb L
+bbb L
+bb P
+bb Q
+bbb M
+a
+b,
+abb P+bbb Q in bbb M.
+bbb S
+bbb L
+bbb S
+bbb L.
+bbb S
+bbb L
+bbb S
+bbb L
+bbb S
+bbb L.
+bbb L
+bbb B = {bb P_1, bb P_2, ..., bb P_n}
+n
+n
+n
+n
+bbb L
+n
+bbb L
+bbb L,
+bbb L
+bbb S
+bbb L
+bb P
+bbb L,
+"spanS",
+bbb S uu{bb P}
+bbb B
+bbb L
+bbb L
+bbb B.
+bbb B
+bbb L
+bbb L
+F:bbb L_1'\\x0027f6'bbb L_2
+F
+1-1
+bbb L_2.
+RR^n
+n xx n
+tt A
+tt A
+bb v
+lambda,
+tt A^(-1)
+bb v,
+1/lambda.
+tt A,
+bb v
+tt A bb v = lambda bb v
+lambda
+tt A,
+lambda
+n xx n
+tt A,
+lambda
+RR^n
+'\\y01d7ce'.
+tt A
+bb v
+lambda
+k\ in\ RR.
+ktt A?
+tt A^k?
+k
+tt A
+bb v
+bb w,
+lambda_bb v
+lambda_bb w.
+lambda_bb v\ != lambda_bb w
+bb v
+bb w
+tt A
+bb u,
+bb v
+bb w,
+lambda_bb u,
+lambda_bb v
+lambda_bb w,
+bb u,
+bb v
+bb w
+bbb S
+bbb L
+bb P
+bbb S
+bb P in "span"(bbb S-{bb P})
+bbb S-{bb P}
+bbb L.
+bbb L,
+bbb S
+bbb L
+'\\y01d7ce'in bbb S,
+bbb S
+bb P
+bb P_1, bb P_2, ..., bb P_n
+bb P = t_1 bb P_1+t_2 bb P_2+cdots+t_n bb P_n
+t_i.
+bbb S = {bb P_1, bb P_2, ..., bb P_n}
+bbb S,
+"spanS" = {\ t_1 bb P_1+t_2 bb P_2+cdots+t_n bb P_n\ |t_i in RR\ }
+bbb S
+bbb L
+bbb L
+"spanS" = bbb L.
+bbb L
+bbb S.
+bbb S
+bbb L,
+"spanS"
+bbb L.
+"spanS"
+bbb L
+bbb S,
+bbb L
+bbb S
+"spanS".
+bbb S = {bb P_1, bb P_2, ..., bb P_n}
+bbb L
+bb Q
+"spanS"
+bbb S.
+a_1, a_2, ..., a_n
+b_1, b_2, ..., b_n:
+a_1 bb P_1+a_2 bb P_2+cdots+a_n bb P_n = b_1 bb P_1+b_2 bb P_2+cdots+b_n bb P_n'\\x0027f9'a_1 = b_1, ...a_n = b_n
+bbb S
+bbb S
+bbb S = {bb P_1, bb P_2, ..., bb P_n}
+bbb L.
+bbb S
+c_1, c_2, ..., c_n,
+c_1 bb P_1+c_2 bb P_2+cdots+c_n bb P_n = '\\y01d7ce'
+c_i
+T:bbb L_1'\\x0027f6'bbb L_2
+bbb L_2
+T
+bbb L_1
+T
+T(bbb L_1) = {T(bb P)\ |\ bb P in bbb L_1}
+T:bbb L_1'\\x0027f6'bbb L_2
+T,
+"ker"(T)
+bbb L_1
+T,
+T(bbb L_1)
+bbb L_2
+T:bbb L_1'\\x0027f6'bbb L_2
+bbb L_1
+dim("ker"(T))+dim(T(bbb L_1)) = dim(bbb L_1)
+bbb S
+RR^n
+bb P
+bbb S.
+bb Q
+bb P
+bb P
+bb P
+bbb S
+bbb S'
+bbb S
+bb P
+bb Q.
+bbb S'
+bbb S.
+"bbb s bbb p bbb a bbb n bbb S "' = "spanS".
+bbb S''
+bbb S''
+bbb S
+bbb L,
+bb Q in bbb L
+bb P
+bbb S
+bb Q
+bbb S,
+bb P
+bbb S'
+bbb S
+bb P
+bb Q,
+bbb S'
+bbb L.
+n xx n
+tt P
+tt D
+tt A = "tt P\ "tt D\ tt P^(-1)
+n xx n
+tt A
+tt A
+a_1 x+a_2 y+a_3 z = b
+a_i
+b
+x,
+y
+z
+(x, y, z)
+x,
+y
+z
+bbb S = {(, , )|\ }.
+[[[a_(11)x, +, a_(12)y, +, a_(13)z, =, b_1], [a_(21)x, +, a_(22)y, +, a_(23)z, =, b_2], [a_(31)x, +, a_(32)y, +, a_(33)z, =, b_3]], or, [[a_(11), a_(12), a_(13), :, b_1], [a_(21), a_(22), a_(23), :, b_2], [a_(31), a_(32), a_(33), :, b_3]]]
+[[[x, \ , \ , \ , \ , =, s_1], [\ , \ , y, \ , \ , =, s_2], [\ , \ , \ , \ , z, =, s_3]], or, [[1, 0, 0, :, s_1], [0, 1, 0, :, s_2], [0, 0, 1, :, s_3]]]
+bbb S = {(x, y, z)|\ x = s_1, y = s_2, z = s_3} = {(s_1, s_2, s_3)}
+bb v
+bb w
+bb v != bb w
+bb v
+bb w.
+bb v,
+bb w
+bb u,
+bb v != bb w,
+bb u
+bb v
+bb w,
+bb v,
+bb w
+bb u.
+bb v
+bb v_'\\y01d7cf' ,
+bb v_'\\y01d7d0' ,
+bb v_bb n
+bb v = t_1 bb v_'\\y01d7cf' +t_2 bb v_'\\y01d7d0' +cdots+t_n bb v_bb n
+t_i.
+t_i
+bbb S = {bb v_'\\y01d7cf' , bb v_'\\y01d7d0' , ..., bb v_bb n}
+bbb S,
+"spanS" = {t_1 bb v_'\\y01d7cf' +t_2 bb v_'\\y01d7d0' +cdots+t_n bb v_bb n|t_i in RR}
+bbb S,
+RR^3
+bbb S?
+RR^3
+RR^3
+"spanS" = RR^3.
+RR^3
+bbb S.
+bbb S = {bb v_'\\y01d7cf' , bb v_'\\y01d7d0' , ..., bb v_bb n}
+"spanS"
+bbb S
+RR^3
+RR^3.
+beta = {(1, 0, 0), (0, 1, 0), (0, 0, 1)}
+(1, 2, 3) = 1(1, 0, 0)+2(0, 1, 0)+3(0, 0, 1).
+alpha = {(1, 1, 1), (0, 1, 1), (0, 0, 1)},
+(1, 2, 3) = 1(1, 1, 1)+1(0, 1, 1)+1(0, 0, 1).
+[[(1,2,3)]_ beta=[[1], [2], [3]], \ , [(1,2,3)]_ alpha=[[1], [1], [1]]]
+sigma
+tau
+RR^3.
+[bb v]_ sigma,
+bb v in RR^3
+sigma
+[bb v]_ tau,
+tau,
+bb v = (v_1, v_2, ..., v_n) in RR^n
+beta
+n xx 1
+bb v = [(v_1,v_2,..,v_n)]_ beta = [[v_1], [v_2], [vdots], [v_n]]
+n xx n
+tt M
+bb b in RR^n
+tt M bb v = bb b.
+tt A
+n xx n
+det(A) != 0
+tt A
+RR^n
+tt A
+tt A bb x = bb b
+x in RR^n,
+bb b
+RR^n
+tt A
+tt A
+RR^n
+f:RR^m'\\x0027f6'RR^n
+f(bb v) = tt A bb v.
+ul\xx ul\ .
+tt A,
+T_tt A:RR^m'\\x0027f6'RR^n.
+tt A
+T_tt A
+tt A
+T_tt A
+1-1?
+T:bbb L_1'\\x0027f6'bbb L_2
+alpha
+bbb L_1
+beta
+bbb L_2
+[T]_(beta, alpha).
+[T(P)]_ beta = [T]_(beta, alpha)[P]_ alpha
+[T_2@T_1]_(gamma, alpha)
+[T_2]_(gamma, beta)[T_1]_(beta, alpha).
+n xx n
+tt A
+tt A
+|tt A|.
+2 xx 2
+tt A = [[a, b], [c, d]]
+|[a, b], [c, d]| = ad-bc
+3 xx 3
+|[a, b, c], [d, e, f], [g, h, i]| = aei+bfg+cdh-ceg-bdi-afh

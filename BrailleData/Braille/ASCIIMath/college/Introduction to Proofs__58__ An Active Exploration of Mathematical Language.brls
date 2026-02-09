@@ -1,0 +1,3900 @@
+n
+n+1.
+a_1, a_2, a_3, ..., a_k, ....
+a_k
+k
+a_1
+a_0
+a_k
+k^(th)
+2, 4, 6, 8, 10, ....
+a_1 = 2.
+k^(th)
+a_k = 2k.
+a_(4+1) = a_5 = 10,
+a_4+1 = 8+1 = 9.
+a_k = 2^k, k >= 0.
+a_k = 2^k, k >= 0.
+k+1
+a_(k+1) = 2^(k+1)
+a_k = 1/(k+1) , k >= 1.
+a_k = 1/(k+1) , k >= 1.
+k+1
+a_(k+1) = 1/(k+2)
+a_k = (-1)^k
+k >= 0.
+a_k = 1/(k-1)
+k >= 3.
+0, 1, -2, 3, -4, 5, ....
+k
+a_k.
+a_1+a_2+cdots+a_n = sum_(k=1)^n a_k
+sum_(k=1)^n a_k
+a_k
+k = 1
+n.
+sum_(k=1)^4 k.
+1+2+3+4 = 10
+sum_(k=1)^5 k^2.
+1^2+2^2+3^2+4^2+5^2 = 55
+sum_(k=1)^n k^2.
+1^2+2^2+3^2+cdots+n^2
+sum_(k=2)^2 k^2.
+2^2 = 4
+sum_(k=m)^m a_k = a_m.
+sum_(k=1)^5(2k-1).
+sum_(k=1)^n 1/k.
+sum_(k=1)^(n+1) 1/k.
+sum_(k=0)^n 1/(k+1) .
+sum_(k=1)^n 1/(k(k+1)) .
+sum_(k=1)^(n+1) 1/(k(k+1)) .
+a_1*a_2*a_3 cdots a_n = prod_(k=1)^n a_k.
+prod_(k=1)^4 k.
+1*2*3*4 = 24
+prod_(k=1)^3 k^2.
+1^2*2^2*3^2 = 36
+prod_(k=1)^5(2k-1)
+prod_(k=1)^(n+1)(2k)
+n
+n! = (n)(n-1) cdots(2)(1).
+0! = 1.
+sum_(k=m)^n a_k+sum_(k=m)^n b_k = sum_(k=m)^n(a_k+b_k)
+c sum_(k=m)^n a_k = sum_(k=m)^n(ca_k)
+(prod_(k=m)^n a_k)(prod_(k=m)^n b_k) = prod_(k=m)^n(a_k*b_k)
+sum_(k=1)^n a_k+sum_(k=1)^n b_k = sum_1^n(a_k+b_k).
+n+1
+(sum_(k=1)^n a_k)+a_(n+1) = sum_(k=1)^(n+1)a_k.
+1^2+2^2+3^2.
+k = 1
+sum_(k=1)^3 k^2 = 1^2+2^2+3^2.
+k = 2
+sum_(k=2)^4(k-1)^2 = 1^2+2^2+3^2.
+1/3, 4/9, 9/27, 16/81, 25/243, 36/729
+3, 6, 12, 24, 48, 96
+prod_(k=2)^4 k^2
+prod_(k=2)^2(1-1/k)
+sum_(k=-1)^1(k^2+3)
+sum_(j=1)^n j(j+1)
+sum_(i=1)^(k+1)i(i!)
+sum_(i=1)^(k+1)i(i!)
+(2^2-1)*(3^2-1)*(4^2-1).
+1^3+2^3+3^3+cdots+n^3.
+j = i-1:
+sum_(i=1)^(n+1) ((i-1)^2)/(i*n) .
+(((n+1)!)^2)/((n!)^2)
+(n!)/((n-k+1)!)
+[1/(1*3) , "<mi//>"=1/3], [1/(1*3) +1/(3*5) , "<mi//>"=2/5], [1/(1*3) +1/(3*5) +1/(5*7) , "<mi//>"=3/7], [1/(1*3) +1/(3*5) +1/(5*7) +1/(7*9) , "<mi//>"=4/9]
+sum_(i=1)^n 1/((2i-1)(2i+1)) .
+sum_(i=1)^n i/((i+1)!)
+n = 1, 2, 3, 4, 5.
+n.
+'\\x002234'
+not p
+p;
+p^^q
+p
+q;
+p vv q
+p
+q;
+p'\\x0022bb'q
+p
+q;
+p -> q
+p
+q;
+p harr q
+p
+q;
+p////q
+p
+q;
+bbb t
+bbb c
+P -= Q
+P
+Q
+x in S
+x
+S
+x!inS
+x
+S
+B sube A
+B
+A
+B'\\x002288'A
+B
+A
+RR
+ZZ
+QQ
+NN
+ZZ^+
+ZZ^("nonneg")
+RR^+
+RR^("nonneg")
+O/
+AA
+EE
+RR'\\x002216'QQ
+d'\\x002223'n
+d
+n
+sum_(k=1)^n a_k
+a_1+a_2+cdots+a_n
+prod_(k=1)^n a_k
+a_1*a_2*a_3 cdots a_n
+n!
+n
+(n)(n-1) cdots(2)(1)
+A uu B
+A
+B
+A nn B
+A
+B
+A-B
+A
+B
+A'\\x002216'B
+A
+B
+A^C
+A
+cc P(A)
+A
+A xx B
+A
+B
+xRy
+x
+y
+m -= nmodd
+m
+n
+d
+[a]
+a
+((n), (r))
+n
+r;
+|A|
+A
+d
+ZZ
+n,
+n = 2k
+k in ZZ.
+n,
+n = 2k+1
+k in ZZ.
+-5 = 2(-3)+1
+-3 in ZZ.
+0 = 2(0)
+0 in ZZ.
+a, b in ZZ.
+6a^2 b
+6a^2 b = 2(3a^2 b)
+3a^2 b in ZZ.
+6a^2 b
+a, b in ZZ.
+20a-6b+1
+20a-6b+1 = 2(10a-3b)+1
+10a-3b in ZZ.
+20a-6b+1
+a, b
+12ab^3
+3ab
+10b^2-4ab+1
+4b+3
+5a+3b
+x in D,
+x
+P
+x
+Q.
+x in D, P(x) -> Q(x).
+AA,
+a in D
+P(a)
+Q(a)
+P(a)
+Q(a)
+a in D.
+n in ZZ,
+n
+4 <= n <= 16,
+n
+4 <= n <= 16.
+{4, 6, 8, 10, 12, 14, 16}.
+4 = 2+2, 6 = 3+3, 8 = 3+5, 10 = 3+7, 12 = 5+7, 14 = 7+7, 16 = 11+5.
+x in D.
+D
+x in D, P(x) -> Q(x)
+x in D.
+x,
+P(x)
+Q(x)
+x in ZZ,
+x
+x+1
+x
+x = 2k
+k in ZZ.
+x+1 = 2k+1
+k in ZZ.
+x+1
+a, b in ZZ
+a
+b
+a+b
+a, b
+a = 2k
+k in ZZ
+b = 2j
+j in ZZ.
+k
+a
+b
+a+b = 2k+2j = 2(k+j)
+k+j in ZZ.
+a+b
+x in D, P(x) -> Q(x)
+x in D, P(x) -> Q(x)
+x in D
+P(x)
+Q(x)
+x.
+x in D,
+P(x)
+Q(x)
+p,
+p = 2.
+2
+2
+a, b in RR
+a^2 = b^2
+a = b.
+x,
+n,
+n > 1
+r, s,
+n = rs
+r = 1
+s = 1.
+n,
+n > 1
+n = rs
+r, s
+r != 1
+s != 1.
+n > 1.
+n > 1.
+121 = (11)(11).
+a in ZZ.
+3a
+a = 1
+a > 1
+3a
+n
+n^2+3n+2
+n = 1; n^2+3n+2 = 6; "not prime"n = 5; n^2+3n+2 = 42; "not prime"n = 8; n^2+3n+2 = 90; "not prime"
+n, n^2+3n+2
+n
+n^2+3n+2
+r, s
+r, s != 1.
+n^2+3n+2 = (n+2)(n+1).
+r = n+2, s = n+1.
+r, s != 1.
+n > 0, n+2 > 2
+n+1 > 1.
+r, s != 1.
+n^2+3n+2
+m
+n
+n
+5n
+n
+5n+1
+n, m
+nm,
+m
+n
+6m+8n
+10mn+7
+m > n > 0,
+m^2-n^2
+m
+n
+m > 1
+n > 1
+1/n+1/m
+n
+2n^2-5n+2
+a
+b,
+a < b
+a^2 < b^2.
+m
+n,
+2m+n
+m
+n
+k,
+k > 0
+k^2+2k+1
+k = 2,
+k^2+2k+1 = 2^2+2*2+1 = 9.
+9 = 3*3,
+n
+m
+n = 2k+1
+k
+m = 2k
+k
+n-m = 2k+1-2k = 1.
+n
+6n^2+27
+n,
+n
+(-1)^n = -1.
+n,
+n^2-n+11
+m
+n
+m+n+2(mn)^(1//2)
+0, 1, -3, 1//2, pi, sqrt(2),
+RR
+r,
+a, b in ZZ
+r = a/b
+b != 0.
+QQ
+r,
+RR'\\x002216'QQ
+a, b in ZZ
+O
+0 = 0//1.
+2
+2 = 2//1.
+9//5
+2//0
+2//0
+sqrt(2), pi, e.
+sqrt(2)
+0.2345
+0.2345
+a, b in ZZ
+0.2345 = a/b
+b != 0.
+0.1 = 1//10; 0.01 = 1//100.
+0.2345 = 2345//10000.
+a = 2345, b = 10000,
+a, b in ZZ, b != 0.
+0.bar(123)
+0.bar(123)
+a, b in ZZ
+0.bar(123) = a/b
+b != 0.
+x = 0.bar(123) = 0.123123....
+x = 0.123123...
+1000x = 123.123123....
+[123.123123..., "<mi//>"=1000x], [-(0.123123..., "<mi//>"=x)]
+123 = 999x.
+x = 123//999.
+a = 123, b = 999,
+a, b in ZZ, b != 0.
+x,
+a
+b
+x = a/b.
+x = 12.345
+x = 12.bar 3
+x = 1.2 bar(34)
+r, s
+r+s
+r
+a/b
+a, b in ZZ, b != 0.
+s
+p/q
+p, q in ZZ, q != 0.
+r
+s
+r+s = a/b+p/q.
+r+s = (aq+bp)/(pq) .
+aq+pb, pq in ZZ
+p, q != 0, pq != 0.
+r+s
+r
+2r
+2r = r+r.
+r+r
+r, s
+r//2
+5r-2s
+1/r
+n, d in ZZ.
+n
+d
+n = dk
+k in ZZ.
+n = dk
+k in ZZ
+n
+d;
+d
+n;
+d
+n;
+d
+n.
+d'\\x002223'n
+d
+n.
+d'\\x002223'n
+n = dk
+k.
+n
+d
+0'\\x002223'n
+d'\\x002223'0
+d != 0.
+0'\\x002223'0
+0 = 0*k.
+d
+n,
+k in ZZ, n != dk.
+n
+d
+n/d
+d'\\x002224'n
+d
+n.
+8'\\x002223'24.
+24 = 8(3).
+8'\\x002223'4.
+4 = 8(k)
+k = 1//2.
+8'\\x002223'10.
+10 = 8(k)
+k = 5//4.
+8'\\x002223'-8.
+-8 = 8(-1).
+-2'\\x002223'8.
+8 = -2(-4).
+1'\\x002223'4.
+4 = 1(4).
+8'\\x002223'0.
+0 = 8(0).
+4'\\x002223'1.
+1 = 4(k)
+k = 1//4.
+0'\\x002223'8.
+8 = 0(k)
+3'\\x002223'10
+3'\\x002223'0
+3'\\x002223'36
+12'\\x002223'4
+0'\\x002223'4
+a, b, c,
+a'\\x002223'b
+b'\\x002223'c,
+a'\\x002223'c.
+a, b, c in ZZ.
+a'\\x002223'b
+b'\\x002223'c.
+b = ak
+k in ZZ
+c = bj
+j in ZZ.
+c = (ak)j = a(kj).
+kj in ZZ,
+a'\\x002223'c.
+n,
+n.
+n,
+n.
+d'\\x002223'n
+d'\\x002223'm,
+d'\\x002223'(n+m).
+3/7+5/9
+351.549249249...
+r
+s
+r+s
+r+s = a//b
+a
+b
+b != 0.
+r
+s
+r = i//j
+s = m//n
+i, j, m
+n
+j != 0
+n != 0.
+r+s = i/j+m/n = a/b,
+r
+s
+(r+s)/2
+a,
+b,
+c,
+d
+a != c.
+x
+(ax+b)/(cx+d) = 1.
+x
+x
+a != c
+x.
+n in ZZ.
+(3n+1)(3n+2)(3n+3).
+6n(2n+10)
+(5n)^2(8n+24).
+a
+b,
+3'\\x002223'(a+b)
+3'\\x002223'(a-b).
+a,
+b,
+c,
+a'\\x002223'b
+a'\\x002223'c,
+a'\\x002223'(b+c).
+a,
+b,
+c,
+a'\\x002223'b
+a'\\x002223'(bc).
+a,
+b,
+c,
+a
+c,
+ab
+c.
+a,
+b,
+c,
+a'\\x002223'(b+c),
+a'\\x002223'b
+a'\\x002223'c.
+a,
+b,
+c,
+a'\\x002223'(bc)
+a'\\x002223'b
+a'\\x002223'c.
+a
+b,
+a'\\x002223'b
+a^2'\\x002223'(b^2).
+72, 21, 15, 36, 69, 81, 9, 27, 42, \ and\ 63.
+2+3 = 5
+2+1 = 5
+x+y = 5
+'\\x002234'\
+\ '\\x002234'\
+'\\x002234'\
+'\\x002234'\
+'\\x002234'\
+'\\x002234'\
+'\\x002234'\
+'\\x002234'
+'\\x002234'
+'\\x002234'
+'\\x002234'
+p^^q
+'\\x002234'\
+p
+p
+q
+p^^q
+p
+p vv q
+'\\x002234'\
+p
+p
+q
+p vv q
+p
+p
+q
+p -> q
+not q
+'\\x002234'\
+not p
+p -> q
+not p
+'\\x002234'\
+not q
+p -> q
+p
+'\\x002234'\
+q
+p -> q
+q -> r
+'\\x002234'\
+p -> r
+p
+q
+r
+p -> q
+q -> r
+p -> r
+p -> q
+p
+'\\x002234'\
+q
+p\ vv q
+p -> r
+q -> r
+'\\x002234'\
+r
+p -> q
+q
+'\\x002234'\
+p
+not p -> q
+p
+'\\x002234'\
+not q
+p -> q
+q
+'\\x002234'p
+not p -> q
+p
+'\\x002234'not q
+p
+p -> q
+not q\ vv r
+'\\x002234'r
+(p\ ^^q) -> not r
+p\ vv not q
+not q -> p
+'\\x002234'not r
+p\ vv q
+not p
+'\\x002234'q
+n in ZZ.
+sum_(i=1)^n i^2 = (n(n+1)(2n+1))/6
+n >= 1
+3'\\x002223'(n^3-n)
+n >= 0.
+n = 0.
+n^3-n = 0^3-0 = 0.
+3'\\x002223'0.
+3'\\x002223'(n^3-n)
+n = 0.
+3'\\x002223'(k^3-k)
+k >= 0.
+3'\\x002223'((k+1)^3-(k+1)).
+(k+1)^3-(k+1).
+[(k+1)^3-(k+1), "<mi//>"=k^3+3k^2+3k+1-k-1], [\ , "<mi//>"=(k^3-k)+3k^2+3k\ "\rearranged terms and cancelled 1's"]
+3'\\x002223'(k^3-k)
+3'\\x002223'3k^2+3k.
+[3, "<mi//>"'\\x002223'(k^3-k)\ "\by the induction assumption"], [3, "<mi//>"'\\x002223'(k^3-k)+3k^2+3k\ "\since we just added multiples of 3"], [3, "<mi//>"'\\x002223'(k^3-k)+3k^2+3k+1-1\ "\since 1-1 is 0"], [3, "<mi//>"'\\x002223'k^3+3k^2+3k+1-k-1\ "\rearranged terms"], [3, "<mi//>"'\\x002223'((k+1)^3-(k+1)).]
+3'\\x002223'(n^3-n)
+n >= 0.
+3k^2+3k,
+3'\\x002223'(2^(2n)-1)
+n >= 0.
+n = 0.
+2^(2n)-1 = 2^0-1 = 0.
+3'\\x002223'0.
+3'\\x002223'(2^(2n)-1)
+n = 0.
+3'\\x002223'(2^(2k)-1)
+k >= 0.
+3'\\x002223'(2^(2(k+1))-1).
+[2^(2(k+1))-1, "<mi//>"=2^(2k+2)-1], [\ , "<mi//>"=(2^2)(2^(2k))-1\ "\used exponent rules to rewrite"], [\ , "<mi//>"=(4)(2^(2k))-1], [\ , "<mi//>"=(3+1)(2^(2k))-1\ "\maybe not an obvious step,"], [\ , \ "\but we are looking for multiples of 3"], [\ , "<mi//>"=3*2^(2k)+2^(2k)-1\ "\distribute"]
+3'\\x002223'2^(2k)-1
+3'\\x002223'3*2^(2k)+2^(2k)-1.
+[3, "<mi//>"'\\x002223'2^(2k)-1\ "\by the induction assumption"], [3, "<mi//>"'\\x002223'2^(2k)-1+3*2^(2k)\ "\since we just added a multiple of 3"], [3, "<mi//>"'\\x002223'(3+1)(2^(2k))-1\ "\factored out\ "2^(2k)], [3, "<mi//>"'\\x002223'(4)(2^(2k))-1], [3, "<mi//>"'\\x002223'(2^2)(2^(2k))-1], [3, "<mi//>"'\\x002223'(2^(2k+2))-1], [3, "<mi//>"'\\x002223'(2^(2(k+1)))-1]
+3'\\x002223'(2^(2n)-1)
+n >= 0.
+8'\\x002223'3^(2n)-1
+n >= 0
+P > Q,
+P+2 > Q.
+2n+1 < 2^n
+n >= 3.
+n = 3.
+2n+1 = 2(3)+1 = 7,
+2^n = 2^3 = 8
+7 < 8.
+2n+1 < 2^n
+n = 3.
+2k+1 < 2^k
+k >= 3.
+2(k+1)+1 < 2^(k+1).
+["LHS:\ "2(k+1)+1=2k+2+1=2k+1+2], ["RHS:\ "2^(k+1)=2(2^k)]
+2(A) = A+A.
+[2^(k+1)=2(2^k)=2^k+2^k]
+2k+1 < 2^k
+2 < 2^k,
+[2k+1<2^k\ "\by the induction assumption"], [2(k+1)+1, "<mi//>"=2k+2+1], [\ , "<mi//>"=2k+1+2], [\ , "<mi//>"<2^k+2\ "\by the induction assumption"], [\ , "<mi//>"<2^k+2^k\ "\since\ "2<2^k], [\ , "<mi//>"=2(2^k)], [\ , "<mi//>"=2^(k+1)]
+2(k+1)+1 < 2^(k+1),
+2n+1 < 2^n
+n >= 3.
+n,
+3'\\x002223'(n^3+2n).
+5^n-1
+n >= 0.
+7^n-1
+n >= 0.
+n,
+7'\\x002223'2^(3n)-1.
+n,
+31'\\x002223'2^(5n)-1.
+n,
+9'\\x002223'2^(6n)-1.
+n,
+7'\\x002223'2^(6n)-1.
+n,
+17'\\x002223'2^(8n)-1.
+n >= 4,
+n! > 2^n.
+1+nx <= (1+x)^n,
+x > -1
+n >= 2.
+n,
+x.
+x
+x > -1,
+S
+A.
+S,
+x in S
+x
+S
+x
+S.
+x
+S,
+x!inS
+{},
+S = {1, 2, 3, 4, 5}.
+A = {x in S:x"\is odd"}.
+S,
+A = {x in "reals":1 <= x <= 5}.
+P(x)
+x,
+{x in S:P(x)}
+x
+S
+x
+P.
+B,
+A
+A.
+B sube A
+B
+A
+B
+A,
+B'\\x002288'A
+A sub B
+{1, 3} sube{1, 2, 3, 4, 5},
+{0, 1, 2, 3}'\\x002288'{1, 2, 3, 4, 5}.
+sube,
+in.
+S = {1, 2, 3, 4, 5},
+1 in S,
+1'\\x002288'S.
+{1} sube S,
+{1}!inS.
+{1}
+RR
+e,
+pi,
+ZZ
+QQ
+NN
+ZZ^+
+ZZ^("nonneg")
+RR^+
+RR^("nonneg")
+O/
+QQ, ZZ, RR, RR^+ , RR^("nonneg")?
+S = {1, 2, 3, 4, 5}.
+{x in S:2 < x <= 5}
+{x in S:x"\is prime"}
+{1//x:x in S}
+5 in QQ
+{2} in ZZ
+{-1, -2, -3} sube ZZ
+0 sube{0, 2, 4}
+{0} sube{0, 2, 4}
+2
+{2}.
+{1, 2, 3, 1, 2, 1}?
+S = {n in ZZ:n = (-1)^k, "\for some integer\ "k}
+T = {m in ZZ:m = 1+(-1)^k, "\for some integer\ "k}
+U = {r in ZZ:2 <= r <= -2}
+V = {s in ZZ:s > 2"\or\ "s <= 3}
+3 in{1, 2, 3}
+1 sube{1, 2, 3}
+{2} in{1, 2, 3}
+1 in{1}
+{1} sube{1, 2, 3}
+{1} sube{1}
+R,
+A xx B,
+A xx B.
+R
+A xx B.
+(x, y) in R
+xRy
+R
+R
+xRy,
+x
+y.
+A = {1, 2, 3, 4},
+B = {1, 3, 5}
+A xx B
+R = {(1, 1), (1, 5), (3, 5), (2, 1), (4, 3)}.
+1R1, 3R5, 4R3,
+A = {1, 2, 3, 4},
+B = {1, 3, 5}
+A xx B
+xRy <=> x < y.
+R.
+R = {(1, 3), (1, 5), (2, 3), (2, 5), (3, 5), (4, 5)}
+f:A -> B, f(a) = b.
+R
+(a, b) in R <=> f(a) = b.
+A
+B:
+(1, 3), (1, 5).
+f:ZZ -> ZZ
+f(n) = n^2.
+F
+f:
+(a, b) in F <=> f(a) = b.
+(1, 1) in F.
+(3, 9) in F.
+(9, 3) in F.
+(-2, 4) in F.
+(2, -4) in F.
+(1, 3) in F.
+a in A
+b in B
+a.
+a in A
+b in B.
+a in A
+b in B
+(a, b) in F.
+(a, b) in F
+(a, c) in F
+b = c.
+A = {1, 2, 3, 4}
+B = {0, 1}.
+A
+B
+(x, y) in R'\\x0027fa'x-y\ "is even".
+R
+A
+A xx A.
+A
+A.
+A = {0, 1, 2, 3, 4, 5}.
+A
+(x, y) in R'\\x0027fa'3'\\x002223'(x-y).
+R
+A = {0, 1, 2, 3, 4, 5}.
+A
+(x, y) in R'\\x0027fa'x\ "divides"\ y.
+R
+R
+A.
+R
+x in A,
+xRx.
+(x, x) in R.
+R
+x, y in A,
+xRy
+yRx.
+(x, y) in R
+(y, x) in R.
+R
+x, y, z in A,
+xRy
+yRz
+xRz.
+(x, y) in R
+(y, z) in R
+(x, z) in R.
+A = {1, 2, 3},
+A
+R = {(1, 1), (2, 2), (3, 3)}.
+R
+(x, x) in R
+x in A.
+R
+(x, y) in R
+(y, x) in R.
+(x, y) in R,
+R,
+R
+(x, y) in R
+(y, z) in R
+(x, z) in R.
+(x, y) = (1, 1), (y, z) = (1, 1),
+(x, z) = (1, 1),
+R.
+A = {1, 2, 3},
+A
+R = {(1, 2), (1, 3), (2, 3)}.
+R
+(1, 1)!inR.
+R
+(1, 2) in R,
+(2, 1).
+R
+(x, y) in R
+(y, z) in R
+(x, z) in R.
+(x, y) = (1, 2), (y, z) = (2, 3),
+(x, z) = (1, 3),
+R.
+A = {1, 2, 3}.
+R = {(1, 1), (1, 2), (1, 3), (2, 1), (3, 1)}.
+R
+R
+R
+A = {1, 2, 3, 4}.
+R = {(1, 1), (1, 3), (2, 2), (3, 2), (3, 3)}.
+R
+R
+R
+R.
+A
+x in A.
+(x, x) in R.
+(x, y) in R.
+(y, x) in R.
+(x, y), (y, z) in R.
+(x, z) in R.
+(x, x)!inR
+x in A.
+(x, y) in R
+(y, x)!inR.
+(x, y), (y, z) in R
+(x, z)!inR.
+R
+ZZ
+(m, n) in R <=> 3'\\x002223'(m-n).
+(m, m) in R.
+m-m = 0,
+3'\\x002223'0.
+3'\\x002223'm-m.
+(m, m) in R
+m in ZZ.
+(x, y) in R.
+3'\\x002223'(x-y).
+x-y = 3k
+k in ZZ.
+y-x = -3k = 3(-k),
+-k in ZZ.
+3'\\x002223'(y-x).
+(y, x) in R.
+(x, y), (y, z) in R.
+3'\\x002223'(x-y)
+3'\\x002223'(y-z).
+x-y = 3k
+k in ZZ
+y-z = 3j
+j in ZZ.
+x-z = x-y+y-z = 3k+3j = 3(j+k),
+k+j in ZZ.
+3'\\x002223'(x-z).
+(x, z) in R.
+RR
+xRy'\\x0027fa'x = y.
+R
+R
+R
+RR
+xRy'\\x0027fa'x < y.
+R
+R
+R
+(m, n) in R <=> 3'\\x002223'(m-n)
+(m, n) in R <=> d'\\x002223'(m-n)
+d != 0, d in ZZ.
+m -= n\ modd.
+m, n, d in ZZ, d > 0.
+m
+n
+d
+d'\\x002223'(m-n).
+d
+m -= nmodd
+m
+n
+d.
+d
+7 -= 1mod3.
+3'\\x002223'(7-1),
+7 -= -2mod3.
+3'\\x002223'(7+2),
+7 -= -7mod3.
+3'\\x002224'(7+7),
+7 -= 2mod3.
+3'\\x002224'(7-2),
+R
+A.
+a in A.
+[a] = {b in A:bRa}
+a.
+a in A,
+a
+a.
+[a].
+m -= nmod3,
+ZZ.
+[0],
+ZZ
+[0] = {0, 3, -3, 6, -6, ...} = {3k:k in ZZ}
+[1],
+ZZ
+[1] = {1, 4, -2, -5, 7, 10, ...} = {3k+1:k in ZZ}
+[2],
+ZZ
+[2] = {2, 5, -1, -4, -7, ...} = {3k+2:k in ZZ}
+[3],
+ZZ
+[3] = {0, 3, -3, 6, -6, ...} = {3k:k in ZZ}
+[-1],
+ZZ
+[-1] = {2, 5, -1, -4, -7, ...} = {3k+2:k in ZZ}
+[0] = [3]
+[2] = [-1].
+[0], [1], [2],
+[a]
+a.
+[0], [1], [2]
+B,
+{A_1, A_2, ..., A_n},
+B
+uuu_(i=1)^n A_i = B,
+A_i nn A_j = O/
+i != j.
+B
+B,
+B = {1, 2, 3, 4, 5, 6}.
+A_1 = {1}, A_2 = {2, 4, 6}, A_3 = {3, 5}.
+{A_1, A_2, A_3}
+B
+A_1 uu A_2 uu A_3 = B
+A_1 = {1, 2, 3, 4}, A_2 = {2, 3, 4, 5, 6}.
+{A_1, A_2}
+B
+A_1 nn A_2 = {2, 3, 4} != O/.
+N(A)
+A.
+ARB <=> N(a) = N(B),
+cc P({1, 2, 3}).
+{1, 2, 3}
+[O/],
+cc P({1, 2, 3})
+O/.
+[O/] = {O/},
+[{1}].
+[{1}] = {{1}, {2}, {3}},
+[{1, 2}].
+[{1, 2}] = {{1, 2}, {2, 3}, {1, 3}}
+[{1, 2, 3}].
+[{1, 2, 3}] = {{1, 2, 3}}
+[O/], [{1}], [{1, 2}], [{1, 2, 3}]
+RR
+xRy'\\x0027fa'|x| = |y|.
+R
+[0]
+[-5].
+n -= m\ mod\ 5'\\x0027fa'5'\\x002223'(m-n).
+nRm'\\x0027fa'n -= m\ mod\ 5
+ZZ.
+[0]
+[2].
+S = {1, 2, 3, 4, 5, 6}.
+A_1 = {1, 2, 3}, A_2 = {4}, A_3 = {5, 6}.
+{A_i}
+S.
+S,
+xRy'\\x0027fa'
+x
+y
+1R3?
+2R4?
+5R5?
+R
+[1],
+A
+R
+R
+A
+{A_1, A_2, ..., A_n, ...}
+A
+(a, b) in R <=> a
+b
+A_i,
+R
+A
+{A_1, A_2, ..., A_n, ...}
+A.
+R
+R
+R
+A
+a, b in A.
+aRb
+[a] = [b].
+[a], [b]
+[a] sube[b].
+x in[a].
+xRa.
+aRb.
+xRb.
+x in[b].
+[b] sube[a].
+x in[b].
+xRb.
+aRb.
+bRa.
+xRa.
+x in[a].
+R
+A
+a, b in A.
+[a] nn[b] = O/
+[a] = [b].
+p vv q -= not p -> q.
+[a] nn[b] != O/.
+[a] = [b].
+[a] nn[b] != O/,
+x in[a] nn[b].
+xRa
+xRb.
+aRx.
+aRx
+xRb,
+aRb.
+[a] = [b].
+xRx, AA x in A
+A.
+A.
+T,
+ZZ
+m\ T\ n'\\x0027fa'3'\\x002223'(m-n).
+10\ T\ 1?
+1\ T\ 10?
+(2, 2) in T?
+(8, 1) in T?
+n
+n\ T\ 0.
+n
+n\ T\ 1.
+n
+n\ T\ 2.
+S,
+ZZ
+m\ S\ n'\\x0027fa'5'\\x002223'(m^2-n^2).
+1\ S\ (-9)?
+2\ S\ 13?
+2\ S\ (-8)?
+(-8)\ S\ 2?
+A = {3, 4, 5}
+B = {4, 5, 6}
+S
+(x, y) in A xx B,
+x\ S\ y'\\x0027fa'x'\\x002223'y.
+S.
+G
+RR
+x\ G\ y'\\x0027fa'xy >= 0.
+G
+G
+G
+D
+ZZ^+
+m\ D\ n'\\x0027fa'm'\\x002223'n.
+D
+D
+D
+F
+RR xx RR
+(x_1, y_1)\ F\ (x_2, y_2)'\\x0027fa'x_1 = x_2.
+F
+F
+F
+R
+ZZ
+m\ R\ n'\\x0027fa'5'\\x002223'(m-n).
+R
+R
+R
+X = {a, b, c}
+cc P(X)
+X.
+L
+cc P(X)
+A\ L\ B'\\x0027fa'"\the number of elements in\ "A"\is less than the number of elements in\ "B.
+L
+L
+L
+X
+cc P(X)
+X.
+S
+cc P(X)
+A\ S\ B'\\x0027fa'A sube B.
+S
+S
+S
+x in D, P(x),
+D
+x in D, P(x)
+D
+D = D_1 uu D_2,
+x in D_1,
+P(x).
+x in D_2,
+P(x).
+D.
+n
+n+1
+n
+n = 2k
+k in ZZ.
+n+1 = 2k+1
+k in ZZ.
+n+1
+n
+n = 2k+1
+k in ZZ.
+n+1 = 2k+2 = 2(k+1)
+k+1 in ZZ.
+n+1
+n,
+n^2+n
+|x| = {[x,, "if\ "x>=0;], [-x, "if\ "x<0.]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+x in RR,
+|x| = |-x|.
+m
+n,
+m+n
+m-n
+m
+n
+n > 1
+n
+n
+n
+n'\\x002223'n.
+n
+n
+n = r_0 s_0
+1 < r_0 < n,
+r_0, s_0 in ZZ.
+r_0
+n
+r_0
+r_0 = r_1 s_1
+1 < r_1 < r_0,
+r_1, s_1 in ZZ.
+r_1
+n = r_1 s_1 s_0
+n
+r_1
+r_1 = r_2 s_2
+1 < r_2 < r_1 < r_0,
+r_2, s_2 in ZZ,
+n = r_k s_k cdots s_0
+1 < r_k < cdots < r_1 < r_0,
+r_k, s_k in ZZ.
+r_k
+n.
+r_k
+n.
+n.
+15-:5 = 3.
+15-:6
+15 = 5(3).
+15 = 6(2)+3.
+n, d
+d != 0,
+q, r
+n = dq+r.
+q, r
+15 = 6(1)+9,
+15 = 6(-2)+27
+15 = 6(3)-3,
+r
+q
+r
+n
+d,
+q, r
+n = dq+r
+0 <= r < d.
+q
+r
+n
+d.
+d'\\x002223'n.
+n
+d
+d != 0,
+d > 0
+n = 15, d = 7,
+q, r.
+15 = 7(2)+1; q = 2, r = 1
+n = 28, d = 7,
+q, r.
+28 = 7(4)+0; q = 4, r = 0
+n = 9, d = 12,
+q, r.
+9 = 12(0)+9; q = 0, r = 9
+n = -17, d = 5,
+q, r.
+-17 = 5(-4)+3; q = -4, r = 3
+n = 0, d = 7,
+q, r.
+0 = 7(0)+0; q = 0, r = 0
+n
+d,
+q
+r
+n = 20
+d = 8
+n = 45
+d = 9
+n = 8
+d = 12
+n = -15
+d = 7
+d = 2,
+r = 0
+r = 1.
+n:
+n = 2q+0
+n = 2q+1.
+n
+d = 4,
+n = 4q+0, n = 4q+1, n = 4q+2
+n = 4q+3.
+8m+1
+m in ZZ.
+n
+n = 2k+1, k in ZZ.
+n^2 = (2k+1)^2 = 4k^2+4k+1.
+8m+1.
+4k, 4k+1, 4k+2,
+4k+3.
+4k+1
+4k+3
+n
+n = 4k+1
+k in ZZ.
+[n^2, "<mi//>"=(4k+1)^2], [\ , "<mi//>"=16k^2+8k+1], [\ , "<mi//>"=8(2k^2+k)+1]
+2k^2+k in ZZ.
+m = 2k^2+k.
+n
+8m+1, m in ZZ.
+n = 4k+3
+k in ZZ.
+[n^2, "<mi//>"=(4k+3)^2], [\ , "<mi//>"=16k^2+24k+9], [\ , "<mi//>"=8(2k^2+3k)+9], [\ , "<mi//>"=8(2k^2+3k)+8+1], [\ , "<mi//>"=8(2k^2+3k+1)+1]
+2k^2+3k+1 in ZZ.
+m = 2k^2+3k+1.
+n
+8m+1, m in ZZ.
+8m+1.
+d = 3.
+r?
+3k
+3k+2
+k.
+n
+d,
+q
+r
+n = dq+r
+0 <= r < d
+n = 36
+d = 40
+n = -45
+d = 11
+n,
+n^2-n+3
+4k
+4k+1
+k.
+3k
+3k+1
+k.
+n,
+n(n^2-1)(n+2)
+A
+B
+A
+B.
+A
+B.
+|A|
+A.
+A = {1, 2, 3, 4}.
+|A| = 4.
+B = {2k:1 <= k <= 4, k in ZZ}.
+|B| = 4.
+E
+E = {2k:k in ZZ}.
+f:ZZ -> E
+f(n) = 2n.
+f
+E.
+f
+ZZ^+ .
+NN
+{1, 2, 3, ...},
+ZZ^+ .
+NN.
+|NN| = |ZZ|,
+n in NN
+n in ZZ,
+0, 1, -1, 2, -2, 3, -3, ...
+NN:
+ZZ:
+|NN| = |ZZ|,
+ZZ
+A, B,
+(A, B) in R
+|A| = |B|.
+R
+E,
+|E| = |ZZ| = |NN|,
+|E| = |NN|.
+E
+E
+NN.
+QQ?
+NN.
+a, b,
+(a+b)/2
+a
+b.
+a
+(a+b)/2,
+NN.
+a/b
+a, b in ZZ, b != 0.
+a, b in ZZ^+ .
+b = 1, 2, 3, ...
+a = 1, 2, 3...,
+a/b
+1/1
+1/2
+1/3
+1/4
+1/5
+2/1
+2/2
+2/3
+2/4
+2/5
+3/1
+3/2
+3/3
+3/4
+3/5
+4/1
+4/2
+4/3
+4/4
+4/5
+5/1
+5/2
+5/3
+5/4
+5/5
+1 = 1//1 = 2//2 = 3//3,
+1//1
+1//1
+1/1,
+1/2,
+2/1,
+3/1,
+2/2,
+1/3,
+NN,
+|QQ^+ | = |NN|.
+|QQ| = |ZZ| = |NN|,
+[0, 1]
+0.1112345
+0.00083576
+0.99999999
+0.12000000
+d = 0.d_1 d_2 d_3...,
+i
+i
+i
+d.
+0.1112345
+0.00083576
+d = 0.22....
+d
+i
+d.
+a_(ij)
+i
+j
+0.1112345 = 0.a_(11)a_(12)a_(13)...
+0.00083576 = 0.a_(21)a_(22)a_(23)...
+0.99999999 = 0.a_(31)a_(32)a_(33)...
+a_(24)?
+a_(42)?
+d = 0.d_1 d_2 d_3...
+d_i = 1
+a_(ii) != 1;
+d_i = 2.
+d
+d,
+d
+0.a_(i1)a_(i2)a_(i3)...
+a_(ii)
+d
+d
+0.a_(i1)a_(i2)a_(i3)...,
+d = d_1 d_2 d_3...,
+d_1 = {[1, "\if\ "a_(ii)!=1;], [2, "\if\ "a_(ii)=1.]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+d
+0.138756645
+0.111111111
+0.999999999
+0.010101010
+0.123123123
+0.987654321
+0.223355770
+0.123000000
+d.
+a_(11) = 1, d_1 = 2.
+a_(22) = 1, d_2 = 2.
+a_(33) = 9, d_3 = 1.
+d = 0.22121111.
+d
+[0, 1]
+0.a_(i1)a_(i2)a_(i3)...
+0 = 0.000000000...
+1 = 0.99999999...
+[0, 1]
+[0, 1]
+NN
+[0, 1].
+[0, 1].
+0.a_(i1)a_(i2)a_(i3)....
+b_1 = 0.a_(11)a_(12)a_(13)...
+b_2 = 0.a_(21)a_(22)a_(23)...
+b_3 = 0.a_(31)a_(32)a_(33)...
+vdots
+[0, 1],
+d_1 = {[1, "\if\ "a_(ii)!=1;], [2, "\if\ "a_(ii)=1.]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+n,
+d != b_n
+n
+d
+[0, 1]
+[0, 1]
+NN.
+[0, 1]
+RR,
+RR
+S = {n^2:n in ZZ},
+NN
+NN
+S.
+[0, 1]
+[3, 6]
+[0, 1]
+[3, 6]?
+a, b, c, d in RR
+a < b
+c < d.
+[a, b]
+[c, d]
+[a, b]
+[c, d]?
+A
+B
+A uu B
+uuu_(i=1)^n A_i,
+uuu_(i=1)^ oo A_i,
+n, r
+r <= n.
+r
+n
+r
+n
+((n), (r)).
+C(n, r)
+nCr.
+((n), (r))
+((n), (r)) = (n!)/(r!(n-r)!) .
+0! = 1,
+((n), (0)) = 1
+((0), (0)) = 1.
+((5), (4)),
+((5), (4)) = (5!)/(4!(5-4)!) = (5!)/(4!1!)
+= ((5)(4)(3)(2)(1))/((4)(3)(2)(1)(1)) = 5
+((6), (2)).
+((6), (4)).
+((4), (0)).
+((4), (4)).
+n, r
+r <= n.
+((n), (r)) = ((n), (n-r)).
+n, r
+r <= n.
+((n+1), (r)) = ((n), (r-1))+((n), (r)).
+((n+1), (r)) = ((n), (r-1))+((n), (r)).
+1+2 = 3.
+((0), (0))
+((1), (0))
+((1), (1))
+((2), (0))
+((2), (1))
+((2), (2))
+((3), (0))
+((3), (1))
+((3), (2))
+((3), (3))
+r-1
+r
+n^(th)
+r
+n+1
+((n), (r))
+a+b.
+(a+b)^n.
+(a+b)^3
+(a+b)^3 = (a+b)(a+b)(a+b).
+a^3:
+b
+a^2 b:
+b
+ab^2:
+b
+b^3:
+b
+(a+b)^3 = ((3), (0))a^3+((3), (1))a^2 b+((3), (2))ab^2+((3), (3))b^3.
+(a+b)^n
+n
+[(a+b)^n, "<mi//>"=((n), (0))a^n+((n), (1))a^(n-1)b+((n), (2))a^(n-2)b^2+cdots+((n), (n-1))ab^(n-1)+((n), (n))b^n], [\ , "<mi//>"=sum_(k=0)^n((n), (k))a^(n-k)b^k.]
+(a+b)^n = sum_(i=0)^n((n), (i))a^(n-i)b^i
+n.
+n = 0.
+(a+b)^0 = 1.
+sum_(i=0)^0((0), (i))a^(0-i)b^i = a^0 b^0 = 1.
+(a+b)^k = sum_(i=0)^k((k), (i))a^(k-i)b^i.
+(a+b)^(k+1) = sum_(i=0)^(k+1)((k+1), (i))a^(k+1-i)b^i
+[(a+b)^(k+1), "<mi//>"=(a+b)^k(a+b)], [\ , "<mi//>"=(sum_(i=0)^k((k), (i))a^(k-i)b^i)(a+b)], [\ , "<mi//>"=a sum_(i=0)^k((k), (i))a^(k-i)b^i+b sum_(i=0)^k((k), (i))a^(k-i)b^i], [\ , "<mi//>"=sum_(i=0)^k((k), (i))a^(k+1-i)b^i+sum_(i=0)^k((k), (i))a^(k-i)b^(i+1)]
+j = i+1,
+i = 0, j = 1;
+i = k, j = k+1,
+i = j-1.
+[(a+b)^(k+1), "<mi//>"=sum_(i=0)^k((k), (i))a^(k+1-i)b^i+sum_(i=0)^k((k), (i))a^(k-i)b^(i+1)], [\ , "<mi//>"=sum_(i=0)^k((k), (i))a^(k+1-i)b^i+sum_(j=1)^(k+1)((k), (j-1))a^(k+1-j)b^j], [\ , "<mi//>"=a^(k+1)+sum_(i=1)^k((k), (i))a^(k+1-i)b^i+sum_(j=1)^k((k), (j-1))a^(k+1-j)b^j+b^(k+1)], [\ , "where we pulled out the first term of the first sum"], [\ , "and the last term of the second sum"], [\ , "<mi//>"=a^(k+1)+sum_(i=1)^k((k), (i))a^(k+1-i)b^i+sum_(i=1)^k((k), (i-1))a^(k+1-i)b^i+b^(k+1)], [\ , "where we just relabeled the index in the second sum"], [\ , "<mi//>"=a^(k+1)+sum_(i=1)^k[((k), (i))+((k), (i-1))]a^(k+1-i)b^i+b^(k+1)], [\ , "where we combined like terms in the two sums"], [\ , "<mi//>"=a^(k+1)+sum_(i=1)^k((k+1), (i))a^(k+1-i)b^i+b^(k+1)], [\ , "by Pascal's Formula"], [\ , "<mi//>"=sum_(i=0)^(k+1)((k+1), (i))a^(k+1-i)b^i]
+n = 2
+n = 3.
+sum_(i=0)^n((n), (i))x^i,
+a
+b
+x = b.
+a,
+a = 1.
+(1+x)^n.
+(3-2x)^3.
+a, b, n?
+2^n = sum_(k=0)^n((n), (k)).
+2 = (1+1).
+((n), (r)) = ((n), (n-r))
+n
+r
+0 <= r <= n.
+((6), (2)), ((6), (3)), ((6), (4))
+((6), (5))
+((7), (3)),
+((7), (4)),
+((7), (5)).
+n = 7.
+n = 8
+1\ 8\ 28\ 56\ 70\ 56\ 28\ 8\ 1.
+n = 9?
+(u-v)^5.
+(p-2q)^4.
+x^6 y^3
+(x+y)^9.
+x^7
+(2x+3)^(10).
+sum_(k=0)^n((n), (k))5^k
+sum_(k=0)^m((m), (k))2^(m-k)x^k
+n
+n >= 1,
+sum_(i=2)^(n+1)((i), (2)) = ((2), (2))+((3), (2))+...+((n+1), (2)) = ((n+2), (3)).
+n >= 1,
+((n), (0))-((n), (1))+((n), (2))-...+(-1)^n((n), (n)) = 0.
+1+(-1) = 0.
+n >= 0,
+3^n = ((n), (0))+2((n), (1))+2^2((n), (2))+...+2^n((n), (n)).
+x > 4,
+x^2 > 16.
+x > 4,
+x^2 > 16.
+x in D,
+P(x)
+Q(x).
+AA x in D, P(x) -> Q(x).
+P(x)
+x
+Q(x)
+x
+AA x in ZZ, P(x) -> Q(x).
+p
+q,
+p -> q.
+p -> q,
+p
+q
+p -> q
+q
+p
+p -> q,
+p
+q
+not(p -> q) -= p\ ^^ not q,
+p -> q -= not p\ vv q
+not(p -> q) -= p\ ^^ not q
+[not(AA x in D,P(x)->Q(x)), "<mi//>"-=EE x in D, not(P(x)->Q(x))], [\ , "<mi//>"-=EE x in D,P(x)^^ not Q(x)]
+p -> q
+not q -> not p;
+q -> p;
+not p -> not q.
+AA x in D, P(x) -> Q(x)
+AA x in D, not Q(x) -> not P(x).
+AA x in D, P(x) -> Q(x)
+AA x in D, Q(x) -> P(x).
+x,
+(x+1)(x-2) > 0
+x < -1
+x > 2.
+n,
+n
+n
+n
+'\\x002234'\
+(A^^B) -> (C).
+p^^q
+'\\x002234'\
+p
+(p^^q) -> (p).
+(p^^q) -> (p),
+p vv q
+'\\x002234'\
+p
+(p vv q) -> (p).
+(p vv q) -> (p),
+p -> q
+not q
+'\\x002234'\
+not p
+p -> q
+not p
+'\\x002234'\
+not q
+r,
+r,
+r
+r
+s,
+s,
+s
+s
+u
+v
+u+v < v-u.
+x
+x^2 < x.
+n,
+n^2 >= n.
+a
+b,
+|a+b| <= |a|+|b|.
+r,
+r.
+r,
+s
+AA
+x,
+x > 3
+x^2 > 9.
+AA n in ZZ,
+n
+n
+n = 2.
+AA
+n,
+n
+n
+n
+p
+p -> q
+not q\ vv r
+'\\x002234'r
+(p\ ^^q) -> not r
+p\ vv not q
+not q -> p
+'\\x002234'not r
+p\ vv q
+not p
+'\\x002234'q
+not p -> q
+p
+'\\x002234'not q
+P(n)
+n.
+P(1), ...P(a)
+a,
+P(i)
+1 <= i <= k,
+P(k+1)
+P(n)
+n >= 1.
+n in ZZ.
+P(n), AA n >= 1,
+P(1)
+P(i)
+1 <= i <= k.
+P(k+1)
+a = 1
+P(1)
+P(2).
+P(k),
+P(1), P(2), ...P(k).
+P(i)
+1 <= i <= k.
+P(1),
+P(2),
+P(3),
+P(4),
+P(1), P(2), P(3).
+P(i)
+P(k).
+n > 1
+n > 1,
+n
+n = 2.
+2'\\x002223'2
+n
+k
+k >= 2.
+k+1
+k+1
+k+1'\\x002223'k+1
+k+1
+k+1
+k
+k+1.
+k
+k+1.
+n > 1,
+n
+n = 2.
+2'\\x002223'2
+n
+i
+2 <= i <= k
+k >= 2.
+k+1
+k+1
+k+1'\\x002223'k+1
+k+1
+k+1
+k+1 = ab
+1 < a < k+1.
+2 <= a <= k.
+a
+a'\\x002223'k+1
+a
+k+1
+n > 1
+k
+k+1.
+k
+k+1.
+a_0, a_1, a_2, ...
+a_0 = 1, a_1 = 2, a_2 = 3
+a_k = a_(k-1)+a_(k-2)+a_(k-3), k >= 3.
+a_n <= 3^n.
+a_n <= 3^n
+n >= 0.
+a_k
+f_n,
+f_1 = 1, f_2 = 1, f_n = f_(n-1)+f_(n-2).
+f_3 = f_2+f_1 = 1+1 = 2.
+sum_(i=1)^n f_(2i-1).
+n
+f_n
+n = 1
+n = 8.
+n
+sum_(i=1)^n f_(2i-1).
+sum_(i=1)^n f_(2i-1).
+a_1, a_2, a_3, ...
+a_1 = 1, a_2 = 3,
+a_k = a_(k-2)+2a_(k-1), k >= 3.
+a_n
+n >= 1.
+b_1, b_2, b_3, ...
+b_1 = 4, b_2 = 12,
+b_k = b_(k-2)+b_(k-1), k >= 3.
+b_n
+n >= 1.
+c_1, c_2, c_3, ...
+c_1 = 3, c_2 = 5,
+c_k = 3c_(k-1)-2c_(k-2), k >= 3.
+c_n = 2^n+1
+n >= 1.
+a_1, a_3, a_3, ...
+a_1 = 1, a_2 = 3,
+a_k = a_(k-1)+a_(k-2), k >= 3.
+a_n <= (7/4)^n
+n >= 1.
+f_1, f_2, f_3, ...
+sum_(i=1)^n f_(2i).
+f_1, f_2, f_3, ...
+f_n-f_(n-1)+f_(n-2)-cdots+(-1)^(n+1)f_1
+n
+f_1, f_2, f_3, ...
+n >= 2
+m >= 1,
+f_(n+m) = f_(n-1)f_m+f_n f_(m+1).
+f_1, f_2, f_3, ...
+n >= 2,
+f_(n+1)f_(n-1)-(f_n)^2 = (-1)^n.
+f_n
+n
+f_n = (( (1+sqrt(5))/2)^n-( (1-sqrt(5))/2)^n)/(sqrt(5)) .
+n
+A.
+S
+A.
+S,
+x in S.
+x
+S
+x
+S.
+x
+S,
+x!inS.
+P(x)
+x,
+{x in S:P(x)}
+x
+S
+x
+P.
+{n in ZZ:n = 2k, k in ZZ}
+{(x, y):x+y = 0, x in RR, y in RR}
+{x in RR:3 <= x <= 7}
+[3, 7].
+A
+B
+A
+B.
+A sube B.
+A
+B,
+A'\\x002288'B.
+A
+B,
+A sube B,
+x,
+x in A
+x in B.
+A
+B,
+A'\\x002288'B,
+x,
+x in A
+x!inB.
+A
+B
+A sube B
+A != B.
+A sube B,
+x in A
+x in B.
+x in A
+x in B.
+{6k:k in ZZ} sube{3k:k in ZZ}.
+{3k:k in ZZ}'\\x002288'{6k:k in ZZ}.
+A = B,
+A sube B
+B sube A.
+U
+U = {1, 2, 3, 4}.
+O/,
+x in A uu B
+x in A
+x in B.
+A uu B = {x in U:x in A"\or\ "x in B}.
+A uu B
+x in A nn B
+x in A
+x in B.
+A nn B = {x in U:x in A"\and\ "x in B}.
+A nn B
+x in A-B
+x in A'\\x002216'B
+x in A
+x!inB.
+A-B = {x in U:x in A"\and\ "x!inB}.
+A-B
+x in A^C
+x!inA.
+A^C = {x in U:x!inA}.
+A^C
+A = {x in RR:0 <= x <= 4}
+B = {x in RR:-1 < x < 1}.
+A = [0, 4], B = (-1, 1).
+A uu B.
+(-1, 4]
+A nn B.
+[0, 1)
+A-B.
+[1, 4]
+B-A.
+(-1, 0)
+A^C.
+(-oo, 0) uu(4, oo)
+A = {1, 2, 3, 4, 5, 6}
+B = {2, 4, 6, 8, 10, 12}
+U = {n in ZZ:1 <= n <= 12}.
+A uu B.
+A nn B.
+A-B.
+B-A.
+B^C.
+uuu_(i=1)^n A_i = A_1 uu A_2 uu cdots uu A_n
+nnn_(i=1)^n A_i = A_1 nn A_2 nn cdots nn A_n.
+uuu_(i=1)^ oo A_i = A_1 uu A_2 uu cdots uu A_n cdots
+nnn_(i=1)^ oo A_i = A_1 nn A_2 nn cdots nn A_n cdots
+A_i = {1, 2, 3, ...i}.
+A_1, A_2, A_5,
+A_n.
+uuu_(i=1)^5 A_i.
+nnn_(i=1)^5 A_i.
+uuu_(i=1)^ oo A_i.
+nnn_(i=1)^ oo A_i.
+A
+A.
+cc P(A)
+A = {1, 2}.
+cc P(A).
+{1, 2}.
+cc P(A).
+O/, {1}, {2}, {1, 2}.
+cc P(A) = {O/, {1}, {2}, {1, 2}}.
+A = {2, 4, 6}.
+cc P(A).
+A
+B.
+A xx B = {(a, b):a in A, b in B}.
+A
+B.
+A = {1, 2, 3}
+B = {2, 4}.
+A xx B.
+{(1, 2), (1, 4), (2, 2), (2, 4), (3, 2), (3, 4)}
+A = RR
+B = RR.
+RR xx RR
+RR^2.
+A nn B sube A;
+A nn B sube B.
+A sube A uu B;
+B sube A uu B.
+A sube B
+B sube C
+A sube C.
+X sube Y
+x in X
+x in Y.
+X sube Y
+x in X.
+x in Y.
+x in X uu Y
+x in X
+x in Y
+x in X nn Y
+x in X
+x in Y
+x in X-Y
+x in X
+x!inY
+x in X^C
+x!inX
+(x, y) in X xx Y
+x in X
+y in Y
+A nn B sube A.
+x in A nn B.
+x in A
+x in B.
+x in A.
+A nn B sube A.
+A nn B sube B.
+B sube A uu B.
+X = Y
+X sube Y,
+x in X
+x in Y,
+Y sube X,
+x in Y
+x in X.
+A uu(B nn C) = (A uu B) nn(A uu C).
+(sube):
+x in A uu(B nn C).
+x in A
+x in B nn C.
+x in A.
+x in A uu B
+x in A uu C.
+x in A uu B
+x in A uu C.
+x in(A uu B) nn(A uu C).
+x in B nn C.
+x in B
+x in C.
+x in A uu B
+x in A uu C
+x in A uu B
+x in A uu C.
+x in(A uu B) nn(A uu C).
+(supe):
+x in(A uu B) nn(A uu C).
+x in A uu B
+x in A uu C.
+x in A.
+x in A uu(B nn C)
+x!inA.
+x in A uu B
+x in A
+x in B.
+x!inA,
+x in B.
+x in A uu C,
+x!inA,
+x in C.
+x in B nn C.
+x in A uu(B nn C)
+A,
+O/sube A.
+A
+O/'\\x002288'A.
+x in O/
+x!inA.
+x in O/.
+O/sube A.
+A = B,
+A sube B
+B sube A,
+O/sube A,
+A sube O/.
+A = O/
+x in A.
+U^C = O/,
+U
+x in U^C.
+x!inU.
+U
+x in U,
+U^C = O/.
+A nn A^C = O/.
+A
+B
+A nn B = O/.
+A sube B
+A uu C sube B uu C.
+A uu C sube B uu C.
+x
+U
+A, B,
+C
+A uu B = B uu A; \ A nn B = B nn A
+(A uu B) uu C = A uu(B uu C); \ (A nn B) nn C = A nn(B nn C)
+A uu(B nn C) = (A uu B) nn(A uu C);
+A nn(B uu C) = (A nn B) uu(A nn C)
+A uu O/ = A; \ A nn U = A
+A uu A^C = U; \ A nn A^C = O/
+(A^C)^C = A
+A uu A = A; \ A nn A = A
+A uu U = U; \ A nn O/ = O/
+(A uu B)^C = A^C nn B^C; \ (A nn B)^C = A^C uu B^C
+A uu(A nn B) = A; \ A nn(A uu B) = A
+U^C = O/; \ O/^C = U
+A-B = A nn B^C
+A = {1, 3, 5, 7, 9},
+B = {3, 6, 9},
+C = {2, 4, 6, 8}.
+A uu B.
+A nn B.
+A uu C.
+A nn C.
+A-B.
+B-A.
+B uu C.
+B nn C.
+RR,
+A = {x in RR:0 < x <= 2},
+B = {x in RR:1 <= x < 4},
+C = {x in RR:3 <= x < 9}.
+A uu B
+A nn B
+A^C
+A uu C
+A nn C
+B^C
+A^C nn B^C
+A^C uu B^C
+(A nn B)^C
+(A uu B)^C
+ZZ^+sube QQ
+RR^-sube QQ
+QQ sube ZZ
+ZZ^-uu ZZ^+ = ZZ
+ZZ^-nn ZZ^+ = O/
+QQ nn RR = QQ
+QQ uu ZZ = QQ
+ZZ^+nn RR = ZZ^+
+ZZ uu QQ = ZZ
+A = {a, b, c},
+B = {b, c, d},
+C = {b, c, e}.
+A uu(B nn C),
+(A uu B) nn C,
+(A uu B) nn(A uu C).
+A nn(B uu C),
+(A nn B) uu C,
+(A nn B) uu(A nn C).
+(A-B)-C
+A-(B-C).
+O/.
+O/ = {O/}
+O/in{O/}
+O/in O/
+A_i = {x in RR:-i <= x <= i}
+[-i, i]
+i.
+uuu_(i=0)^4 A_i.
+nnn_(i=0)^4 A_i.
+uuu_(i=0)^n A_i.
+nnn_(i=0)^n A_i.
+uuu_(i=1)^ oo A_i.
+nnn_(i=1)^ oo A_i.
+A = {1, 2}
+B = {2, 3}.
+cc P(A nn B).
+cc P(A).
+cc P(A uu B).
+cc P(A xx B).
+A sube B
+B sube C
+A sube C.
+A sube C
+B sube C
+(A uu B) sube C.
+A sube B
+A sube C
+A sube(B nn C).
+((A uu B)-B) sube A.
+A
+B
+((A uu B)-B) != A.
+A
+B
+U.
+A nn B^c = O/
+A sube B.
+A nn B = A
+A sube B.
+A sube B
+C,
+C-B sube C-A.
+C
+U,
+B^C sube A^C.
+A uu(B-C) = (A uu B)-(A uu C).
+A nn(B-C) = (A nn B)-(A nn C).
+(A-B)^c = A^c-B^c.
+y = x^2
+f(x) = 3x+2.
+x
+x^2 = 4.
+x+3//2 = 4
+x
+x+3//2 = 4
+x,
+x+3//2 = 4
+x
+p
+q,
+p,
+P(x).
+P(x),
+x.
+P(x)
+D = ZZ.
+x in D,
+x+3//2 = 4
+x = 5//2
+D = RR.
+x in D,
+x+3//2 = 4
+x = 5//2
+D = {5//2}.
+x in D,
+x+3//2 = 4
+x = 5//2
+D,
+P(x)
+x+3//2 = 4.
+P(x)
+x
+x
+AA
+EE
+AA x in D, P(x).
+D
+P(x)
+P(x)
+x.
+D
+D
+P(x)
+EE x in D, P(x).
+D
+P(x)
+D
+P(x)
+P(x)
+x.
+D
+EE x in RR, 2x^2+1 = 5.
+EE x in ZZ, 3x+5 = 6.
+D = {2, 3, 4, 5}.
+AA x in D, x^2 > 2.
+D = {2, 3, 4, 5}.
+AA x in D, x^2 < 20.
+AA x in RR^+ , sqrt(x) > 0.
+AA x in{"people"}, x
+AA x in D, P(x)
+EE x in D, not P(x);
+not(AA x in D, P(x)) -= EE x in D, not P(x).
+EE x in D, P(x)
+AA x in D, not P(x);
+not(EE x in D, P(x)) -= AA x in D, not P(x).
+P(x),
+not P(x)
+P(x)
+P(x)
+not P(x)
+p,
+p
+p
+p
+p = 2
+x,
+x^2 < 0.
+x,
+x^2 >= 0.
+n,
+sqrt(n)
+n,
+n^2 = 5.
+not(p^^q) -= not p\ vv not q.
+not(p vv q) -= not p\ ^^ not q.
+not(p -> q) -= p\ ^^ not q.
+n,
+1 < n < 2.
+x,
+x > 2
+x+5 > 7.
+f,
+f
+f
+D,
+D = O/,
+AA x in D, P(x)
+EE x in D, not P(x).
+D
+D
+not P(x)
+AA x in D, P(x)
+T,
+T
+T,
+T
+n,
+sqrt(n)
+n,
+n^2 = 5.
+n,
+1 < n < 2.
+x,
+x > 2
+x+5 > 7.
+f,
+f
+f
+x,
+(x+1)(x-2) > 0
+x < -1
+x > 2.
+n,
+n
+n
+n
+x,
+y
+x+y = 0.
+P(x, y)
+x
+y.
+AA x in D, EE y in E, P(x, y).
+y
+E
+P(x, y)
+x
+D.
+y
+x.
+EE x in D, AA y in E, P(x, y).
+x
+D
+P(x, y)
+y
+E.
+x
+y.
+x
+y
+AA x in D, AA y in E, P(x, y).
+P(x, y)
+x in D
+y in E.
+EE x in D, EE y in E, P(x, y).
+P(x, y)
+x in D
+y in E.
+x, y in RR.
+AA x, EE y, x+y = 5.
+x
+y
+x+y = 5?
+x
+y = 5-x.
+EE x, AA y, x+y = 5.
+x
+y?
+x
+x+y = 5.
+x, y in ZZ^("nonneg").
+AA x\ EE y, x < y.
+EE y\ AA x, x < y.
+EE x\ AA y, x < y.
+AA y\ EE x, x < y.
+EE x\ EE y, x < y.
+AA x\ AA y, x < y.
+'\\x0003f5' > 0,
+delta > 0
+|x-a| < delta
+|f(x)-L| < '\\x0003f5'.
+AA'\\x0003f5' > 0, EE delta > 0, |x-a| < delta -> |f(x)-L| < '\\x0003f5'.
+AA x in D, EE y in E, P(x, y)
+EE x in D, AA y in E, not P(x, y);
+not(AA x in D, EE y in E, P(x, y)) -= EE x in D, AA y in E, not P(x, y).
+EE x in D, AA y in E, P(x, y)
+AA x in D, EE y in E, not P(x, y);
+not(EE x in D, AA y in E, P(x, y)) -= AA x in D, EE y in E, not P(x, y).
+AA x in D, AA y in E, P(x, y)
+EE x in D, EE y in E, not P(x, y);
+not(AA x in D, AA y in E, P(x, y)) -= EE x in D, EE y in E, not P(x, y).
+EE x in D, EE y in E, P(x, y)
+AA x in D, AA y in E, not P(x, y);
+not(EE x in D, EE y in E, P(x, y)) -= AA x in D, AA y in E, not P(x, y).
+'\\x0003f5' > 0,
+delta > 0
+|x-a| < delta
+|f(x)-L| < '\\x0003f5'
+AA'\\x0003f5', EE delta, P(delta) -> Q('\\x0003f5'),
+EE'\\x0003f5', AA delta, P(delta)^^ not Q('\\x0003f5').
+EE'\\x0003f5' > 0, AA delta > 0, |x-a| < delta^^|f(x)-L| >= '\\x0003f5'.
+n
+m, \ nm = 0.
+n
+m
+nm = 0.
+n
+m, \ n+m = 0.
+n
+m
+n+m = 0.
+L(x, y)
+x
+y
+EE x, AA y, L(x, y).
+EE x, AA y, L(y, x).
+AA x, EE y, L(x, y).
+AA x, EE y, L(y, x).
+AA a in ZZ, (a-1)//a"\is not an integer."
+AA a"\real numbers\ "x"\and\ "y, sqrt(x+y) = sqrt(x)+sqrt(y)
+EE x in RR "\such that\ "x^2 = 2.
+x
+x.
+x
+x^2 = 2.
+AA n in ZZ "\if\ "n^2 "\is even then\ "n"\is even".
+AA
+x,
+AA
+EE.
+EE
+b,
+AA
+p,
+p
+b.
+AA
+n,
+EE
+k
+n = 2k+1.
+AA r in QQ,
+EE
+a
+b
+r = a//b.
+AA x in RR,
+EE y in RR
+x+y = 0.
+EE x in RR,
+AA y in RR,
+x+y = 0.
+2^n
+n.
+AA
+EE.
+AA x in RR,
+EE y in RR
+x < y.
+EE x in RR,
+AA y in RR^-
+x < y.
+R
+A.
+R
+x in A,
+xRx.
+(x, x) in R.
+R
+x, y in A,
+xRy
+yRx.
+(x, y) in R
+(y, x) in R.
+R
+x, y, z in A,
+xRy
+yRz
+xRz.
+(x, y) in R
+(y, z) in R
+(x, z) in R.
+R
+A.
+R
+x, y in A,
+xRy
+yRx,
+x = y.
+(x, y) in R
+(y, x) in R,
+x = y.
+A = {1, 2, 3},
+A
+R = {(1, 1), (2, 2), (3, 3)}.
+R
+(x, y) in R
+(y, x) in R.
+R
+(x, y) in R
+(y, x) in R
+x = y.
+x = y.
+R
+x, y in A,
+x != y,
+(x, y)!inR
+(y, x)!inR.
+A = {1, 2, 3},
+A
+R = {(1, 2), (1, 3), (2, 3)}.
+R
+(x, y) in R,
+(y, x)
+R.
+(x, y)
+(y, x)
+R,
+(x, y) in R
+x != y,
+(y, x)!inR.
+A = {1, 2, 3}
+R = {(1, 1), (1, 2), (1, 3), (2, 1), (3, 1)}.
+A = {1, 2, 3, 4}
+R = {(1, 1), (1, 3), (2, 2), (3, 2), (3, 3)}.
+R.
+A
+x in A.
+(x, x) in R.
+(x, y) in R.
+(y, x) in R.
+(x, y) in R
+(y, x) in R.
+x = y.
+(x, y), (y, z) in R.
+(x, z) in R.
+(x, x)!inR
+x in A.
+(x, y) in R
+(y, x)!inR.
+(x, y) in R
+(y, x) in R
+x != y.
+(x, y), (y, z) in R
+(x, z)!inR.
+R
+ZZ^+
+(m, n) in R <=> m'\\x002223'n.
+R
+(x, y) in R
+(y, x) in R.
+x'\\x002223'y
+y'\\x002223'x.
+x = yk
+k in ZZ^+
+y = xj
+j in ZZ^+ .
+x = xjk,
+1 = jk.
+j, k in ZZ^+ ,
+j = k = 1.
+x = y.
+R
+RR
+xRy'\\x0027fa'x <= y.
+R
+R
+A
+<=
+R:
+(x, y) in R
+x <= y.
+A
+<=
+ZZ^+
+S
+cc P(S)
+S.
+R
+(A, B) in R
+A sube B.
+R
+A in cc P(S),
+A sube A.
+A sube B
+B sube A
+A = B,
+A sube B
+B sube C
+A sube B,
+(x, y) in R
+x >= y
+RR.
+A,
+<=
+a, b in A,
+a <= b
+b <= a.
+<=
+A.
+RR.
+x, y,
+x >= y
+y >= x.
+S.
+S = {1, 2, 3}.
+A = {1}
+B = {2},
+A'\\x002288'B
+B'\\x002288'A.
+A
+B
+C = {2, 3},
+A'\\x002288'C
+C'\\x002288'A.
+sube.
+A
+<=
+a < b,
+b < a,
+a = b.
+S.
+S = {1, 2, 3}.
+A = {1}
+B = {2},
+A'\\x002288'B,
+B'\\x002288'A,
+A != B.
+C = {2, 3},
+A'\\x002288'C,
+C'\\x002288'A
+A != C.
+A = ZZ^+
+a <= b
+a'\\x002223'b.
+<=
+ZZ^+ .
+<=
+ZZ^+ .
+(a, b) <= (c, d)
+a <= c
+b <= d.
+<=
+ZZ xx ZZ.
+<=
+ZZ xx ZZ.
+(a, b) <= (c, d)
+a <= c
+a = c
+b <= d.
+<=
+ZZ xx ZZ.
+<=
+ZZ xx ZZ.
+(a, b) <= (c, d)
+a+b <= c+d.
+<=
+ZZ xx ZZ.
+<=
+ZZ xx ZZ.
+A
+<= .
+x in A
+A
+y <= x
+y in A.
+A
+x,
+x
+A
+x
+P(x),
+x
+P(x).
+EE x in D, P(x),
+D
+P(x)
+D
+P(x)
+P(x)
+x.
+D
+x
+D = ZZ.
+x in D
+x+3//2 = 4
+x = 5//2
+x!in ZZ,
+D = RR.
+x in D
+x+3//2 = 4
+x = 5//2
+x in RR,
+D = {5//2}.
+x in D
+x+3//2 = 4
+x = 5//2
+x in D,
+x in D
+P(x):
+x in D
+P(x)
+x,
+P(x)
+r, s in QQ
+r < s.
+x in QQ
+r < x < s.
+x
+r
+s.
+r
+s.
+r
+s,
+(r+s)/2.
+r, s in QQ
+r < s.
+x = (r+s)/2
+x
+r = (2r)/2 = (r+r)/2 < (r+s)/2 < (s+s)/2 = (2s)/2 = s.
+r < x < s.
+x
+n in ZZ
+m
+n < m.
+n,
+n.
+m.
+n < m
+m in ZZ.
+m
+m
+m,
+m.
+x
+P(x).
+not EE x, P(x).
+AA x, not P(x).
+AA x, not P(x)
+x
+x
+x
+x in D
+P(x):
+x
+P(x)
+x,
+P(x)
+P(x)
+P(y)
+x = y.
+x
+y,
+x = y
+x
+y
+x.
+x+3//2 = 4
+x,
+x = 5//2.
+x
+y
+x+3//2 = 4.
+x+3//2 = 4
+y+3//2 = 4.
+x+3//2 = y+3//2
+x = y
+x^3+37 = 0
+n
+d,
+q, r
+n = dq+r
+0 <= r < d.
+q, r
+S
+S
+S != O/.
+S sube ZZ.
+S
+{1//n:n in ZZ, n >= 1}.
+S = {2k+1:k in ZZ, k >= 0}.
+S != O/
+1 in S.
+S sube ZZ
+2k+1 in ZZ.
+S
+2k+1 >= 1
+k >= 0.
+S = {n-dk:n-dk >= 0, k in ZZ}.
+S
+S
+S != O/.
+n >= 0,
+k = 0.
+n-dk = n >= 0.
+n in S.
+n < 0,
+k = n.
+n-dn = n(1-d).
+n < 0
+1-d <= 0.
+n-dn >= 0.
+n-dn in S.
+S
+S
+r.
+r in S,
+r = n-dk
+k in ZZ.
+k = q.
+r = n-dq,
+n = dq+r.
+0 <= r < d.
+r >= 0
+r in S.
+r < d.
+r >= d.
+[n-d(q+1), "<mi//>"=n-dq-d], [\ , "<mi//>"=r-d], [\ , "<mi//>">=0,"\since\ "r>=d.]
+n-d(q+1) in S
+n-d(q+1) < n-dq = r.
+r
+S.
+r < d.
+r,
+q
+q
+r
+q_1, r_1, q_2, r_2
+n = dq_1+r_1
+0 <= r_1 < d
+n = dq_2+r_2
+0 <= r_2 < d.
+dq_1+r_1 = dq_2+r_2.
+r_1-r_2 = dq_2-dq_1 = d(q_2-q_1)
+r_1 >= r_2
+d
+r_1-r_2.
+0 <= r_1 < d
+0 <= r_2 < d,
+0 <= r_1-r_2 < d.
+d
+r_1-r_2 = 0.
+r_1 = r_2.
+[dq_1+r_1, "<mi//>"=dq_2+r_2], [dq_1, "<mi//>"=dq_2], [q_1, "<mi//>"=q_2]
+r, q
+a
+a.
+x,
+x != 2
+y
+RR
+(2y)/(y+1) = x.
+a
+a+b = b
+b.
+a
+ab = b
+b.
+(1, 4)
+(3, 2)
+(1, 4)
+(3, 2).
+y = mx+b,
+(1, 4)
+(3, 2).
+(a, b)
+(c, d)
+a != c.
+(a, b)
+(c, d).
+(a, b)
+(c, d).
+p
+q
+not p,
+p.
+p^^q,
+p
+q.
+p vv q,
+p
+q.
+p
+q
+p
+q.
+not p.
+p
+not p
+p^^q.
+p
+q
+p^^q
+p vv q.
+p
+q
+p vv q
+p'\\x0022bb'q,
+p
+q.
+p'\\x0022bb'q
+p vv q.
+p vv(q\ ^^ not p).
+not p vv q
+not(p vv q).
+not p vv q
+not(p vv q).
+p
+q
+not p
+not p vv q
+p vv q
+not(p vv q)
+not p\ vv not q.
+(p vv q)^^ not(p^^q).
+(p^^q) vv r.
+p
+q
+p^^q.
+p
+q
+not p\ ^^ not q.
+p
+q.
+p -> q
+p -> q,
+p
+q.
+p -> q,
+p
+q
+p
+q,
+p
+q
+p -> q.
+p
+q
+p -> q
+x > 2
+x^2 > 4
+p
+x > 2
+q
+x^2 > 4.
+p
+q
+x = 5, x^2 = 25,
+p
+q
+x = -5, x^2 = 25,
+p
+q
+x = 1, x^2 = 1,
+p
+q
+x
+x > 2
+x^2 > 4
+x > 2
+x^2 > 4,
+p -> q
+p
+(p -> q)^^(q -> p).
+(p -> q)^^(q -> p)
+p harr q,
+p
+q.
+p -> q
+q -> p.
+p harr q
+(p -> q)^^(q -> p)
+p harr q.
+p
+q
+p harr q
+p harr q
+p harr q
+p
+q.
+p -> q
+q -> p
+p
+q
+p
+q.
+p
+q
+p
+q
+p
+q
+p -> q;
+p
+q
+not p -> not q,
+q -> p.
+p
+q
+p harr q.
+p////q,
+p
+q.
+not(p^^q).
+p////q
+not(p^^q).
+p////q.
+p
+q
+p////q
+p\ vv not p
+p\ ^^ not p
+p.
+bb t
+bb c
+p^^bb t.
+p^^bb t
+p^^bb t.
+p
+bb t
+p^^bb t
+P
+Q
+P -= Q.
+p
+p^^bb t
+p harr q
+p////q,
+p harr q -= (p -> q)^^(q -> p);
+p////q -= not(p^^q).
+not(p vv q)
+not p\ vv not q
+not(p vv q)
+not p\ ^^ not q
+not(p^^q)
+not p\ vv not q
+not(p -> q)
+p\ ^^ not q.
+p -> q -= not p\ vv q
+not(p -> q) -= p\ ^^ not q
+q -> p.
+p -> q?
+q -> p
+p -> q.
+not q -> not p.
+p -> q?
+not q -> not p
+p -> q.
+q -> p?
+p -> q.
+p -> q
+not q -> not p;
+q -> p;
+not p -> not q.
+x > 2
+x^2 > 4.
+x^2 <= 4
+x <= 2;
+x^2 > 4
+x > 2.
+p, q,
+r
+bb t
+bb c
+p^^q -= q^^p; \ p vv q -= q vv p
+(p^^q)^^r -= p^^(q^^r); \ (p vv q) vv r -= p vv(q vv r)
+p^^(q vv r) -= (p^^q) vv(p^^r); \ p vv(q^^r) -= (p vv q)^^(p vv r)
+p^^bb t -= p; \ p vv bb c -= p
+p\ vv not p -= bb t; \ p\ ^^ not p -= bb c
+not(not p) -= p
+p^^p -= p; \ p vv p -= p
+p vv bb t -= bb t; \ p^^bb c -= bb c
+not(p^^q) -= not p vv not q; \ not(p vv q) -= not p\ ^^ not q
+p vv(p^^q) -= p; \ p^^(p vv q) -= p
+p vv q;
+not(not p\ ^^\ not q)
+not(p\ ^^\ q);
+not p\ ^^\ not q
+q -> (p -> not q);
+not(p\ ^^\ q)
+not(p vv q);
+not p vv not q
+not(p -> q);
+not q -> not p
+p\ ^^\ (p -> q);
+p\ ^^\ q
+p vv(q\ ^^\ r);
+(p vv q)\ ^^\ (p vv r)
+(p\ ^^\ q) -> r;
+p -> (q -> r)
+(p -> p) -> q
+q -> (p -> q)
+not(p vv(p -> q))
+q -> (p vv not p)
+q -> (p\ ^^\ not p)
+(p -> (p -> q)) -> (p -> q)
+((p\ '\\x0022bb'\ q) -> (r\ '\\x0022bb'\ r)) harr(p\ ^^\ q)
+(p vv q)\ ^^\ (not p vv r)\ ^^\ (not r vv not q)\ ^^\ (p harr q)
+not(p\ ^^\ q) -> (p\ '\\x0022bb'\ q)
+(((not p -> q)\ ^^\ (r\ '\\x0022bb'\ p)) vv((not p -> q)\ ^^\ (r\ '\\x0022bb'\ q)))\ ^^\ ((p harr q) -> r)
+^^
+not
+p vv q
+p\ '\\x0022bb'\ q
+p -> q
+p harr q
+not p
+p\ ^^\ q
+p vv q
+p\ '\\x0022bb'\ q
+p -> q
+p harr q
+P(n)
+n,
+a
+P(a)
+k in ZZ
+k >= a,
+P(k)
+P(k+1)
+n >= a,
+P(n)
+P(a)
+P(k) -> P(k+1)
+a.
+P(1)
+P(k) -> P(k+1).
+P(k)
+P(k+1)
+P(1)
+P(2)
+P(2)
+P(3)
+P(n)
+n >= 1.
+P(1) -> P(2), P(2) -> P(3),
+P(n)
+P(n), AA n >= 1,
+P(1)
+P(k)
+k in ZZ,
+P(k+1).
+P(n)
+n >= 1
+a = 1
+a.
+P(1), P(k), P(n).
+k
+k+1,
+k
+k+1
+sum_(i=1)^k i.
+sum_(i=1)^(k+1)i.
+sum_(i=1)^n i = (n(n+1))/2
+n >= 1.
+n = 1.
+[sum_(i=1)^n i=sum_(i=1)^1 i=1], [ (n(n+1))/2= (1(1+1))/2=1]
+sum_(i=1)^n i = (n(n+1))/2
+n = 1.
+sum_(i=1)^k i = (k(k+1))/2
+k >= 1.
+sum_(i=1)^(k+1)i = ((k+1)(k+2))/2.
+[sum_(i=1)^k i, "<mi//>"= (k(k+1))/2\ "\by the induction assumption"], [sum_(i=1)^(k+1)i, "<mi//>"=sum_(i=1)^k i+(k+1)\ "\add the\ "k+1"\term of the sum"], [\ , "<mi//>"= (k(k+1))/2+(k+1)], [\ , "<mi//>"= (k(k+1))/2+ (2(k+1))/2], [\ , "<mi//>"= (k(k+1)+2(k+1))/2\ "\factor out\ "(k+1)"\on the top"], [\ , "<mi//>"= ((k+1)(k+2))/2.]
+sum_(i=1)^(k+1)i = ((k+1)(k+2))/2.
+sum_(i=1)^n i = (n(n+1))/2
+n >= 1.
+n:
+["(4.2.1)", sum_(i=1)^n i= (n(n+1))/2.]
+k+1
+k
+k+1
+sum_(i=0)^k r^i.
+sum_(i=0)^(k+1)r^i.
+sum_(i=0)^n 2^i = 2^(n+1)-1
+n >= 0.
+n = 0.
+[sum_(i=0)^0 2^i=2^0=1], [2^(0+1)-1=2-1=1]
+sum_(i=0)^n 2^i = 2^(n+1)-1
+n = 0.
+sum_(i=0)^k 2^i = 2^(k+1)-1
+k >= 0.
+sum_(i=0)^(k+1)2^i = 2^(k+2)-1.
+[sum_(i=0)^k 2^i, "<mi//>"=2^(k+1)-1"\by the induction assumption"], [sum_(i=0)^(k+1)2^i, "<mi//>"=sum_(i=0)^k 2^i+(2^(k+1))"\add the\ "k+1"\term of the sum"], [\ , "<mi//>"=2^(k+1)-1+2^(k+1)], [\ , "<mi//>"=2^(k+1)+2^(k+1)-1], [\ , "<mi//>"=2^(k+1)(1+1)-1], [\ , "<mi//>"=2^(k+1)(2)-1], [\ , "<mi//>"=2^(k+2)-1.]
+sum_(i=0)^(k+1)2^i = 2^(k+2)-1.
+sum_(i=0)^n 2^i = 2^(n+1)-1
+n >= 0.
+sum_(i=0)^n r^i.
+sum_(i=0)^n r^i = (r^(n+1)-1)/(r-1)
+n >= 0.
+n = 0.
+[sum_(i=0)^0 r^i=r^0=1], [ (r^(0+1)-1)/(r-1) = (r-1)/(r-1) =1]
+sum_(i=0)^n r^i = (r^(n+1)-1)/(r-1)
+n = 0.
+sum_(i=0)^k r^i = (r^(k+1)-1)/(r-1)
+k >= 0.
+sum_(i=0)^(k+1)r^i = (r^(k+2)-1)/(r-1) .
+[sum_(i=0)^k r^i, "<mi//>"= (r^(k+1)-1)/(r-1) "\by the induction assumption"], [sum_(i=0)^(k+1)r^i, "<mi//>"=sum_(i=0)^k r^i+(r^(k+1))"\add the\ "k+1"\term of the sum"], [\ , "<mi//>"= (r^(k+1)-1)/(r-1) +(r^(k+1))], [\ , "<mi//>"= (r^(k+1)-1)/(r-1) + ((r-1)(r^(k+1)))/(r-1) ], [\ , "<mi//>"= (r^(k+1)-1+(r-1)(r^(k+1)))/(r-1) "\factor out\ "r^(k+1)"\on the top"], [\ , "<mi//>"= (r^(k+1)(1+r-1)-1)/(r-1) ], [\ , "<mi//>"= (r^(k+1)(r)-1)/(r-1) ], [\ , "<mi//>"= (r^(k+2)-1)/(r-1) .]
+sum_(i=0)^(k+1)r^i = (r^(k+2)-1)/(r-1) .
+sum_(i=0)^n r^i = (r^(n+1)-1)/(r-1)
+n >= 0.
+r^i
+r > 1:
+["(4.2.2)", sum_(i=0)^n r^i= (r^(n+1)-1)/(r-1) .]
+sum_(i=1)^n i^2 = (n(n+1)(2n+1))/6
+n >= 1
+sum_(i=0)^n 2^i
+2^(n+1)-1,
+n >= 1,
+sum_(i=1)^n 2i = n^2+n.
+n >= 1,
+sum_(i=1)^n i^3 = [ (n(n+1))/2]^2.
+n >= 1,
+sum_(i=1)^n i(i!) = (n+1)!-1.
+sum_(i=0)^n 3^i.
+sum_(i=0)^n 2i-1.
+[1/(1*3) , "<mi//>"=1/3], [1/(1*3) +1/(3*5) , "<mi//>"=2/5], [1/(1*3) +1/(3*5) +1/(5*7) , "<mi//>"=3/7], [1/(1*3) +1/(3*5) +1/(5*7) +1/(7*9) , "<mi//>"=4/9]
+sum_(i=1)^n 1/((2i-1)(2i+1)) ,
+sum_(i=1)^n i/((i+1)!)
+n = 1, 2, 3, 4, 5.
+n,
+f:X -> Y,
+X
+Y
+f.
+f:X -> Y
+x_2
+g:X -> Y
+x_1
+h:X -> Y
+x_i
+y_i.
+x in X,
+f(x)
+f,
+f
+x,
+x
+f.
+X
+f
+f
+X:
+"Im"(f) = {y in Y:y = f(x)"\for some\ "x in X}.
+ZZ^+
+RR.
+f(n) = 1/n.
+f:ZZ xx ZZ -> ZZ
+f(a, b) = a+b.
+f(3, 2), f(5, 5), f(2, -4).
+5, 10, -2
+ZZ xx ZZ
+f?
+ZZ
+{(n, -n):n in ZZ}
+f:ZZ xx ZZ -> ZZ
+f(a, b) = ab.
+f(0, 2), f(1, 1), f(2, 0), f(3, 2), f(n, 0).
+ZZ xx ZZ
+f?
+x in X
+y in Y,
+a = b,
+f(a) = f(b).
+a = b,
+f(a) = f(b).
+X
+X
+QQ.
+1/2 = 2/4.
+f:QQ -> ZZ
+f(p//q) = p+q.
+1//2 = 2//4
+QQ,
+f(1//2) = 1+2 = 3
+f(2//4) = 2+4 = 6.
+1//2 = 2//4
+f(1//2) != f(2//4).
+f
+f
+f:QQ -> ZZ
+f(m//n) = m.
+f
+QQ
+f:X -> Y,
+x_1, x_2 in X,
+f(x_1) = f(x_2)
+x_1 = x_2.
+f
+x_1 != x_2
+f(x_1) != f(x_2).
+f:X -> Y
+f(x_1) = f(x_2).
+x_1 = x_2.
+f:X -> Y
+x_1, x_2 in X
+x_1 != x_2
+f(x_1) = f(x_2).
+x
+c
+d
+Y.
+f:RR -> RR
+f(x) = 3x+2.
+f
+f(x_1) = f(x_2).
+[3x_1+2, "<mi//>"=3x_2+2], [3x_1, "<mi//>"=3x_2], [x_1, "<mi//>"=x_2]
+f:ZZ -> ZZ
+f(x) = x^2-1.
+f
+x_1 != x_2
+f(x_1) = f(x_2).
+x_1 = 2, x_2 = -2.
+f(2) = 4-1 = 3
+f(-2) = 4-1 = 3.
+f(x_1) = f(x_2),
+2 != -2.
+f:X -> Y,
+Y
+y in Y
+x in X
+f(x) = y.
+y in Y
+x in X.
+Y
+Y
+f.
+f:X -> Y
+Y:
+y
+Y.
+x in X
+f(x) = y.
+x
+x,
+x in X,
+f(x) = y.
+f:X -> Y
+Y:
+y in Y
+x in X
+y.
+x,
+x
+x in X
+f(x) = y.
+Y
+Y
+X.
+f:RR -> RR
+f(x) = 3x+2.
+f
+RR.
+y in RR.
+x
+f(x) = y.
+3x+2 = y,
+x = (y-2)/3.
+x = (y-2)/3.
+y in RR, x in RR.
+f(x) = f( (y-2)/3) = 3( (y-2)/3)+2 = y-2+2 = y,
+f:ZZ -> ZZ
+f(x) = 3x+2.
+f
+ZZ.
+y in ZZ.
+x = (y-2)/3.
+x
+ZZ.
+y = 1.
+x = (-1)/3!in ZZ.
+ZZ
+y = 1.
+f
+ZZ.
+f:RR -> RR
+f(x) = x^2-1.
+f
+RR.
+y = -2.
+f
+RR,
+x
+f(x) = -2.
+f(x) = -2,
+x^2-1 = -2,
+x^2 = -1.
+RR
+y = -2.
+f
+RR.
+f:RR -> RR
+f(x) = 5x.
+f
+f
+RR.
+f:ZZ -> ZZ
+f(n) = 5n.
+f
+f
+ZZ.
+g:ZZ -> {0, 1, 2}
+g(n) = r
+r
+n
+g
+g
+{0, 1, 2}.
+h:ZZ xx ZZ -> ZZ
+h(a, b) = a-b.
+h
+h
+ZZ.
+f:X -> Y
+f
+Y.
+f:RR -> RR
+f(x) = 3x+2
+RR.
+f:X -> Y
+f^(-1):Y -> X
+f^(-1)(y) = x <=> f(x) = y.
+f^(-1)
+f.
+f:RR -> RR
+f(x) = 3x+2
+y = 3x+2,
+x.
+x = (y-2)/3.
+f^(-1)(x) = (x-2)/3.
+f:X -> Y
+Y,
+f^(-1):Y -> X
+X.
+f^(-1)
+f^(-1)(y_1) = f^(-1)(y_2).
+f^(-1)(y_1) = f^(-1)(y_2) = x
+x in X.
+f(x) = y_1
+f(x) = y_2.
+f
+y_1 = y_2.
+f^(-1)
+X.
+x in X.
+y in Y
+f(x) = y
+f
+X.
+f^(-1)(y) = x.
+y in Y
+f^(-1)(y) = x.
+X = {1, 5, 9}
+Y = {3, 4, 7}.
+f:X -> Y
+f(1) = 4, f(5) = 7, f(9) = 4.
+f
+f
+g:X -> Y
+g(1) = 7, g(5) = 3, g(9) = 4.
+g
+g
+X = {1, 2, 3},
+Y = {1, 2, 3, 4}
+Z = {1, 2}.
+f:X -> Y
+g:X -> Z
+h:X -> X
+k:X -> X
+f
+f(a) = 2a.
+f
+f
+f:ZZ -> ZZ
+f(n) = 4n-5.
+f
+f
+ZZ.
+g:RR -> RR
+f(x) = 4x-5.
+g
+g
+RR.
+A = RR-{-1}.
+f:A -> RR
+f(a) = (2a)/(a+1) .
+f
+F:cc P({a, b, c}) -> ZZ
+F(A) =
+A.
+F
+F
+ZZ.
+f:ZZ xx ZZ -> ZZ
+f(a, b) = a.
+f
+f
+f:ZZ -> ZZ xx ZZ
+f(a) = (a, a).
+f
+f
+G:RR xx RR -> RR xx RR
+G(x, y) = (2y, -x).
+G
+G
+RR xx RR.
+H:RR xx RR -> RR xx RR
+H(x, y) = (x+1, 2-y).
+H
+H
+RR xx RR.
+f:QQ xx QQ -> QQ xx QQ
+f(a, b) = (2a, a+b).
+f
+f
+n
+8n
+3n
+8n
+3n?
+6 = 3+3
+12 = 5+7.
+4 xx 10^(18),
+f(n) = n^2+1
+f(1) = 2, f(2) = 5, f(3) = 10.
+f(3) = 10
+f(n) = n^2+1
+f(n) = n^2+n+41.
+n
+n
+f(n)
+n
+n
+k
+n = 2k.
+n
+8n
+8n
+8n = 2(4n).
+k = 4n.
+n
+4n
+8n = 2k
+k.
+8n
+n,
+n.
+p -> q
+p\ ^^ not q
+p\ ^^q
+not p\ vv not q
+p\ vv q
+not p\ ^^ not q
+x^2+y = 13
+y != 4
+x != 3.
+(p^^q) -> r.
+(p^^q)^^ not r.
+p
+q
+r
+x^2+y = 13, y != 4
+x = 3.
+x = 3
+x_2+y = 13,
+9+y = 13.
+y = 4.
+y != 4.
+N.
+N+1.
+N
+N+1
+N+1 > N,
+N
+p -> q
+not q -> not p.
+p -> q
+not q -> not p
+AA x in D,
+P(x)
+Q(x).
+AA x in D,
+not Q(x)
+not P(x).
+not Q(x),
+not P(x).
+a, b, c in ZZ,
+a'\\x002224'bc
+a'\\x002224'b.
+a, b, c in ZZ,
+a'\\x002223'b
+a'\\x002223'bc.
+a, b, c in ZZ.
+a'\\x002223'b.
+b = ak
+k in ZZ.
+bc = (ak)c = a(kc),
+kc in ZZ.
+a'\\x002223'bc.
+n,
+n^2
+n
+p -> q,
+p -> q:
+p\ ^^ not q.
+not p
+q,
+p -> q:
+not q.
+not p.
+n^2
+n
+n in ZZ.
+n^2
+n
+n
+n^2
+n
+n = 2k+1
+k in ZZ.
+n^2 = (2k+1)^2 = 4k^2+4k+1 = 2(2k^2+2k)+1.
+2k^2+2k in ZZ,
+n^2
+sqrt(2)
+sqrt(2)
+sqrt(2) = p/q
+p, q in ZZ, q != 0.
+p
+q
+p
+q
+[sqrt(2), "<mi//>"=p/q], [2, "<mi//>"= (p^2)/(q^2) ], [2q^2, "<mi//>"=p^2.]
+q^2 in ZZ,
+p^2
+p
+p
+p = 2k
+k in ZZ.
+[2q^2, "<mi//>"=(2k)^2], [2q^2, "<mi//>"=4k^2], [q^2, "<mi//>"=2k^2.]
+k^2 in ZZ,
+q^2
+q
+p
+q
+p
+q
+sqrt(2)
+n^2
+n
+n^2
+n
+n
+n
+n?
+n = 3q+r.
+n
+n
+n^2
+N,
+N,
+N+1.
+n
+n.
+a+1
+a in ZZ
+p,
+p'\\x002223'a
+p'\\x002224'(a+1).
+p'\\x002223'a
+p'\\x002223'(a+1).
+n in ZZ
+p,
+p'\\x002223'n
+p'\\x002224'n+1.
+n in ZZ,
+p
+p'\\x002223'n
+p'\\x002223'n+1.
+p'\\x002223'n,
+n = pk
+k in ZZ.
+p'\\x002223'n+1,
+n+1 = pj
+j in ZZ.
+[n+1, "<mi//>"=pj], [pk+1, "<mi//>"=pj], [1, "<mi//>"=pj-pk=p(k-j).]
+k-j in ZZ, p'\\x002223'1,
+p
+p_1, p_2, ..., p_n.
+N = p_1*p_2*p_3 cdots p_n,
+N+1.
+p_i'\\x002223'N
+p_i.
+p_i'\\x002224'N+1.
+N+1
+n,
+n^2
+n
+n,
+n^2
+n
+a,
+b,
+c,
+a
+(bc),
+a
+b.
+a,
+b,
+c,
+a
+b
+a
+c,
+a
+(b+c).
+a
+b
+b != 0,
+r
+a+br
+r
+s
+r/s
+not
+^^.
+[(p harr q) vv r]
+not{not r\ ^^\ [not(not p\ ^^\ not q)\ ^^\ not(p\ ^^\ q)]}.
+vv,
+'\\x0022bb',
+-> ,
+harr.
+^^,
+vv,
+-> ,
+harr.
+a
+b
+a^b
+sqrt(2)^(sqrt(2))
+sqrt(2)^(sqrt(2))
+a = b = sqrt(2).
+a
+b
+a^b = sqrt(2)^(sqrt(2)),
+sqrt(2)^(sqrt(2))
+a = sqrt(2)^(sqrt(2))
+b = sqrt(2).
+a
+b
+a^b = (sqrt(2)^(sqrt(2)))^(sqrt(2)) = sqrt(2)^((sqrt(2)sqrt(2))) = 2.

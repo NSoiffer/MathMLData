@@ -1,0 +1,1443 @@
+\mathbit n
+\mathbit n
+Ax +By +Cz =D
+A, B, C
+x +y +z & =2 \\ x +2y +z & =3 \\ x +2y -3z & =2
+\begin{bmatrix} 1 & 1 & 1 & 2 \\ 1 & 2 & 1 & 3 \\ 1 & 2 & -3 & 2 \end{bmatrix}
+\begin{bmatrix} 1 & 0 & 0 & \frac{3}{4} \\ 0 & 1 & 0 & 1 \\ 0 & 0 & 1 & \frac{1}{4} \end{bmatrix}
+(x, y, z) =(\frac{3}{4}, 1, \frac{1}{4}) .
+x +y -z & =3 \\ x +y +z & =1 \\ 2x +2y & =4
+\begin{bmatrix} 1 & 1 & -1 & 3 \\ 1 & 1 & 1 & 1 \\ 2 & 2 & 0 & 4 \end{bmatrix}
+\begin{bmatrix} 1 & 1 & 0 & 2 \\ 0 & 0 & 1 & -1 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+y =t,
+x =2 -t
+z = -1
+(x, y, z) =(2 -t, t, -1)
+t .
+2x -y +z & =1 \\ x +y +z & =2 \\ 4x +y +3z & =3
+\begin{bmatrix} 2 & -1 & 1 & 1 \\ 1 & 1 & 1 & 2 \\ 4 & 1 & 3 & 3 \end{bmatrix}
+\begin{bmatrix} 1 & 0 & \frac{2}{3} & 0 \\ 0 & 1 & \frac{1}{3} & 0 \\ 0 & 0 & 0 & 1 \end{bmatrix}
+2x -y +z & =1 \\ 2x -y +z & =2 \\ 2x -y +z & =3
+\begin{bmatrix} 2 & -1 & 1 & 1 \\ 2 & -1 & 1 & 2 \\ 2 & -1 & 1 & 3 \end{bmatrix}
+\begin{bmatrix} 1 & -\frac{1}{2} & \frac{1}{2} & 0 \\ 0 & 0 & 0 & 1 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+\mathbit n
+\mathbit n
+n
+\mathbit n
+\sin (x)
+\cos (x)
+\sin (x)
+\cos (x)
+c,
+a
+b
+\theta
+\sin (\theta) =\frac{b}{c} & \cos (\theta) =\frac{a}{c} & \tan (\theta) =\frac{\sin (\theta)}{\cos (\theta)} =\frac{b}{a} \\ \cot (\theta) =\frac{\cos (\theta)}{\sin (\theta)} =\frac{a}{b} & \csc (\theta) =\frac{1}{\sin (\theta)} =\frac{c}{b} & \sec (\theta) =\frac{1}{\cos (\theta)} =\frac{c}{a}
+\theta
+\mathbf 0 =(0, 0)
+r =1
+\theta,
+\theta
+x
+(\cos (\theta), \sin (\theta)) .
+\theta
+(\cos (\theta), \sin (\theta))
+(0, 0)
+1 .
+\cos^2 (\theta) +\sin^2 (\theta) =1\~for\space any\space angle\~\theta
+c
+c^2 =a^2 +b^2 .
+c .
+a,
+b
+c,
+c
+\theta,
+c^2 =a^2 +b^2 -2ab\cos \theta
+\sin (\mathbit x)
+\cos (\mathbit x)
+\sin (x) \colon
+\sin (x)
+0 \lt x \lt \pi .
+\cos (x) \colon
+\cos (x)
+0 \le x \le \pi .
+x_1 \lt x_2,
+\cos (x_1) >\cos (x_2)
+y =\cos (x)
+x
+0 \le x \le \pi,
+x'
+\cos (x') >y
+x' \lt x
+\cos (x') \lt y
+x' >x
+y_0,
+x_0
+0 \le x_0 \le \pi
+y_0 =\cos (x_0) .
+y_0
+-1 \le y_0 \le 1
+x_0
+0 \le x_0 \le \pi
+y_0 =\cos (x_0) .
+y_0
+-1
+1 .
+y
+y =\cos (x)
+x
+x_0 .
+x_0
+\cos (x_0) =y_0 .
+\pi
+\theta .
+\theta,
+\pi -\theta .
+\theta,
+\pi -\theta .
+\pi -(\pi -\theta) =\theta,
+\pi -\theta .
+\theta
+\pi -\theta .
+b
+b'
+d,
+d =b\sin (\theta) =b'\sin (\theta)
+b =b' .
+a
+b,
+c
+d
+c^2 +d^2 =2a^2 +2b^2
+\sin (\mathbit x)
+\cos (\mathbit x)
+\sin (\alpha),
+\cos (\alpha),
+\sin (\beta),
+\cos (\beta) .
+\sin (\alpha +\beta),
+\cos (\alpha +\beta) .
+A =(\cos (\alpha), \sin (\alpha)),
+B =\cos (\alpha +\beta), \sin (\alpha +\beta))
+(0, 1)
+1 .
+\mathbf 0 .
+\mathbf 0
+(1, 0)
+\mathbf 0
+A .
+F
+E
+B
+E
+\mathbf 0
+(1, 0)
+D =(d, 0) .
+\Vert BF \Vert =\sin (\alpha +\beta)
+\mathbf 0 BF
+\Vert \mathbf 0 D \Vert =d
+\Vert \mathbf 0 E \Vert =d\cos (\alpha) =\cos (\beta)
+\mathbf 0 DE
+\mathbf 0 BE,
+d =\frac{\cos (\beta)}{\cos (\alpha)}
+\Vert BD \Vert = \Vert BE \Vert + \Vert ED \Vert =\sin (\beta) +d\sin (\alpha)
+\mathbf 0 BE
+\mathbf 0 DE
+\Vert BF \Vert \Vert \mathbf 0 D \Vert =d\sin (\alpha +\beta)
+\Vert \mathbf 0 E \Vert \Vert BD \Vert =d\cos (\alpha)(\sin (\beta) +d\sin (\alpha))
+\sin (\alpha +\beta) =\cos (\alpha)\sin (\beta) +d\cos (\alpha)\sin (\alpha) =\cos (\alpha)\sin (\beta) +\cos (\beta)\sin (\alpha)
+\mathbf 0 ED,
+D
+\frac{\pi}{2} -\alpha,
+BFD
+B
+\alpha .
+\Vert DF \Vert = \Vert BD \Vert \sin (\alpha) =(\sin (\beta) +d\sin (\alpha))\sin (\alpha)
+\Vert \mathbf 0 F \Vert =\cos (\alpha +\beta)
+\Vert \mathbf 0 F \Vert & = \Vert \mathbf 0 D \Vert - \Vert DF \Vert \\ \cos (\alpha +\beta) & =d -(\sin (\beta) +d\sin (\alpha))\sin (\alpha) \\ \~ & =d -\sin (\beta)\sin (\alpha) -d\sin^2 (\alpha) \\ \~ & =d(1 -\sin^2 (\alpha)) -\sin (\beta)\sin (\alpha) \\ \~ & =d\cos^2 (\alpha) -\sin (\beta)\sin (\alpha) \\ \~ & =\cos (\beta)\cos (\alpha) -\sin (\beta)\sin (\alpha)
+\sin (\alpha +\beta) =\sin (\alpha)\cos (\beta) +\cos (\alpha)\sin (\beta)\cos (\alpha +\beta) =\cos (\alpha)\cos (\beta) -\sin (\alpha)\sin (\beta)
+\sin (\mathbit x)
+\cos (\mathbit x)
+\sin (\alpha +\beta) =\sin (\alpha)\cos (\beta) +\cos (\alpha)\sin (\beta)\cos (\alpha +\beta) =\cos (\alpha)\cos (\beta) -\sin (\alpha)\sin (\beta)
+a,
+b
+c .
+\alpha,
+\beta,
+\gamma
+a,
+b
+c
+A,
+B
+C
+\alpha,
+\beta,
+\gamma
+a,
+b
+c,
+\alpha,
+\beta,
+\gamma
+a,
+b
+c
+\frac{\sin (\alpha)}{a} =\frac{\sin (\beta)}{b} =\frac{\sin (\gamma)}{c}
+\mathbit n
+\mathbb R^n
+\mathbb R^n
+\mathbit n
+E =[e_{i, j}]
+EA
+A .
+R_i \leftrightarrow R_j)
+R_i \leftarrow \lambda R_i
+\lambda \not= 0)
+R_i \leftarrow R_i +\lambda R_j)
+E =[e_{i, j}]
+R_i \leftrightarrow R_j)
+E_1 = \begin{bmatrix} 1 \\ \~ & \ddots \\ \~ & \~ & 1 & \~ & \~ \\ \~ & \~ & \~ & 0 & \cdots & \cdots & \cdots & 1 & \~ \\ \~ & \~ & \~ & \vdots & 1 & \~ & \~ & \vdots \\ \~ & \~ & \~ & \vdots & \~ & \ddots & \~ & \vdots \\ \~ & \~ & \~ & \vdots & \~ & \~ & 1 & \vdots \\ \~ & \~ & \~ & 1 & \cdots & \cdots & \cdots & 0 \\ \~ & \~ & \~ & \~ & \~ & \~ & \~ & \~ & 1 \\ \~ & \~ & \~ & \~ & \~ & \~ & \~ & \~ & \~ & \ddots \end{bmatrix}
+e_{i, i} =e_{j, j} =0
+e_{i, j} =e_{i, j} =1 .
+I .
+R_i \leftarrow \lambda R_i
+\lambda \not= 0)
+E_2 = \begin{bmatrix} 1 \\ \~ & \ddots \\ \~ & \~ & 1 \\ \~ & \~ & \~ & \lambda \\ \~ & \~ & \~ & \~ & 1 \\ \~ & \~ & \~ & \~ & \~ & \ddots \\ \~ & \~ & \~ & \~ & \~ & \~ & 1 \end{bmatrix}
+e_{i, i} =\lambda .
+I .
+R_i \leftarrow R_i +\lambda R_j)
+E_3 = \begin{bmatrix} 1 \\ \~ & \ddots \\ \~ & \~ & 1 \\ \~ & \~ & \~ & 1 & \cdots & \lambda \\ \~ & \~ & \~ & \~ & 1 & \vdots \\ \~ & \~ & \~ & \~ & \~ & \ddots \\ \~ & \~ & \~ & \~ & \~ & \~ & 1 \end{bmatrix}
+e_{i, j} =\lambda .
+I .
+E
+A
+B .
+E_1,
+E_2,
+E_3
+R_i \leftrightarrow R_j
+B =E_1 A
+R_i \leftarrow \lambda R_i
+B =E_2 A
+R_i \leftarrow R_i +\lambda R_j
+B =E_3 A
+A = \begin{bmatrix} 1 & 2 & 3 & 4 & 5 & 6 \\ 7 & 8 & 9 & 10 & 11 & 12 \\ 13 & 14 & 15 & 16 & 17 & 18 \\ 19 & 20 & 21 & 22 & 23 & 24 \\ 25 & 26 & 27 & 28 & 29 & 30 \end{bmatrix}
+I .
+R_2 \leftrightarrow R_4
+E = \begin{bmatrix} 1 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 1 & 0 \\ 0 & 0 & 1 & 0 & 0 \\ 0 & 1 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 & 1 \end{bmatrix}
+EA = \begin{bmatrix} 1 & 2 & 3 & 4 & 5 & 6 \\ 19 & 20 & 21 & 22 & 23 & 24 \\ 13 & 14 & 15 & 16 & 17 & 18 \\ 7 & 8 & 9 & 10 & 11 & 12 \\ 25 & 26 & 27 & 28 & 29 & 30 \end{bmatrix}
+R_4 \leftarrow 3R_4
+E = \begin{bmatrix} 1 & 0 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 & 0 \\ 0 & 0 & 1 & 0 & 0 \\ 0 & 0 & 0 & 3 & 0 \\ 0 & 0 & 0 & 0 & 1 \end{bmatrix}
+EA = \begin{bmatrix} 1 & 2 & 3 & 4 & 5 & 6 \\ 7 & 8 & 9 & 10 & 11 & 12 \\ 13 & 14 & 15 & 16 & 17 & 18 \\ 57 & 60 & 63 & 66 & 69 & 72 \\ 25 & 26 & 27 & 28 & 29 & 30 \end{bmatrix}
+R_4 \leftarrow R_4 -2R_2
+E = \begin{bmatrix} 1 & 0 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 & 0 \\ 0 & 0 & 1 & 0 & 0 \\ 0 & -2 & 0 & 1 & 0 \\ 0 & 0 & 0 & 0 & 1 \end{bmatrix}
+EA = \begin{bmatrix} 1 & 2 & 3 & 4 & 5 & 6 \\ 7 & 8 & 9 & 10 & 11 & 12 \\ 13 & 14 & 15 & 16 & 17 & 18 \\ 5 & 4 & 3 & 2 & 1 & 0 \\ 25 & 26 & 27 & 28 & 29 & 30 \end{bmatrix}
+E_1,
+E_2
+E_3,
+A,
+E_3 (E_2 (E_1 (A))),
+E_3 E_2 E_1 A .
+E_1
+E_2
+E_3 .
+A = \begin{bmatrix} 1 & 2 & 2 \\ 2 & 4 & 5 \\ 0 & 1 & 1 \end{bmatrix} .
+\mathbf M \mathbf a \mathbf t \mathbf r \mathbf i \mathbf x
+\mathbf E \mathbf l \mathbf e \mathbf m \mathbf e \mathbf n \mathbf t \mathbf a \mathbf r \mathbf y \space \mathbf R \mathbf o \mathbf w
+\mathbf C \mathbf o \mathbf r \mathbf r \mathbf e \mathbf s \mathbf p \mathbf o \mathbf n \mathbf d \mathbf i \mathbf n \mathbf g
+\mathbf O \mathbf p \mathbf e \mathbf r \mathbf a \mathbf t \mathbf i \mathbf o \mathbf n \mathbf s
+\mathbf M \mathbf a \mathbf t \mathbf r \mathbf i \mathbf x
+A = \begin{bmatrix} 1 & 2 & 2 \\ 2 & 4 & 5 \\ 0 & 1 & 1 \end{bmatrix}
+R_2 \leftarrow R_2 -2R_1
+E_1 = \begin{bmatrix} 1 & 0 & 0 \\ -2 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}
+E_1 A = \begin{bmatrix} 1 & 2 & 2 \\ 0 & 0 & 1 \\ 0 & 1 & 1 \end{bmatrix}
+R_2 \leftrightarrow R_3
+E_2 = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix}
+E_2 E_1 A = \begin{bmatrix} 1 & 2 & 2 \\ 0 & 1 & 1 \\ 0 & 0 & 1 \end{bmatrix}
+R_1 \leftarrow R_1 -2R_2
+E_3 = \begin{bmatrix} 1 & -2 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}
+E_3 E_2 E_1 A = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 1 \\ 0 & 0 & 1 \end{bmatrix}
+R_2 \leftarrow R_2 -R_3
+E_4 = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & -1 \\ 0 & 0 & 1 \end{bmatrix}
+E_4 E_3 E_2 E_1 A = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}
+(E_4 E_3 E_2 E_1)A =I,
+A(E_4 E_3 E_2 E_1) =I
+A^{ -1} =(E_4 E_3 E_2 E_1) .
+\begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & -1 \\ 0 & 0 & 1 \end{bmatrix} & \begin{bmatrix} 1 & -2 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix} \begin{bmatrix} 1 & 0 & 0 \\ 0 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix} \begin{bmatrix} 1 & 0 & 0 \\ -2 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix} \\ \~ & \lt mi/> = \begin{bmatrix} 1 & 0 & -2 \\ 2 & -1 & 1 \\ -2 & 1 & 0 \end{bmatrix} \\ \~ & \lt mi/> =A^{ -1}
+A =E_1^{ -1} E_2^{ -1} E_3^{ -1} E_4^{ -1} .
+A
+E
+EA
+A .
+E^{ -1} EA =A,
+E^{ -1}
+A
+E
+R_i \leftrightarrow R_j
+E^{ -1} =E .
+E
+\lambda
+R_i \leftarrow \lambda R_i
+\frac{1}{\lambda}
+E^{ -1}
+\lambda
+\frac{1}{\lambda}
+E .
+E
+\lambda
+j
+i
+R_i \leftarrow R_i +\lambda R_j
+\lambda
+j
+i
+R_i \leftarrow R_i -\lambda R_j
+A
+E^{ -1}
+\lambda
+-\lambda
+E .
+E_1^{ -1} =E_1 .
+E_2^{ -1}
+\lambda
+E_2
+\frac{1}{\lambda} .
+E_3^{ -1}
+\lambda
+E_3
+-\lambda .
+A
+A =F_1 F_2 \cdots F_t
+F_i
+\mathbit n
+A .
+m
+n
+A^n =\underset{n\~factors}{\underset{\underbrace}{A\cdots A}},
+A^1 =A
+A^m A^n =\underset{m\~factors}{\underset{\underbrace}{A\cdots A}}\underset{n\~factors}{\underset{\underbrace}{A\cdots A}} =\underset{m +n\~factors}{\underset{\underbrace}{A\cdots A}} =A^{m +n},
+(A^m)^n =\underset{n\~times}{\underset{\underbrace}{(\underset{m\~factors}{\underset{\underbrace}{A\cdots A}})(\underset{m\~factors}{\underset{\underbrace}{A\cdots A}})\cdots (\underset{m\~factors}{\underset{\underbrace}{A\cdots A}})}} =A^{mn}
+n =0 \colon
+A,
+A^m A^0 =A^{m +0} =A^m A^0 A^m =A^{0 +m} =A^m,
+A^0 =I .
+m =1, n = -1 \colon
+A^1 A^{ -1} =A^{1 +( -1)} =A^0 =IA^{ -1} A^1 =A^{ -1 +1} =A^0 =I
+A^{ -1}
+A
+n = -m \colon
+A^m A^{ -m} =A^{m +( -m)} =A^0 =IA^{ -m} A^m =A^{ -m +m} =A^0 =I
+A^{ -m}
+A^m .
+A^{ -m} =(A^m)^{ -1} .
+A
+m
+n,
+A^m A^n =A^{m +n}
+(A^m)^n =A^{mn}
+(A^{ -1})^{ -1} =A
+A^n)^{ -1} =(A^{ -1})^n
+(rA)^{ -1} =\frac{1}{r}A^{ -1}
+\mathbit n
+A =[a_{i, j}]
+r
+C =[c_{i, j}] =rA
+c_{i, j} =ra_{i, j}
+C
+r .
+A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix} \~and\~r =2
+rA =2A = \begin{bmatrix} 2 & 4 & 6 \\ 8 & 10 & 12 \end{bmatrix} .
+rA
+A
+r .
+A
+B
+r
+s
+A
+m \times n
+rA
+m \times n .
+r(A +B) =rA +rB
+(r +s)A =rA +sA
+(rs)A =r(sA)
+1A =A
+A = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}
+B = \begin{bmatrix} -1 & 0 \\ 2 & 1 \end{bmatrix} .
+2A +3B
+2A +3B & =2 \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix} +3 \begin{bmatrix} -1 & 0 \\ 2 & 1 \end{bmatrix} \\ \~ & = \begin{bmatrix} 2 & 4 \\ 6 & 8 \end{bmatrix} + \begin{bmatrix} -3 & 0 \\ 6 & 3 \end{bmatrix} \\ \~ & = \begin{bmatrix} -1 & 4 \\ 12 & 11 \end{bmatrix} .
+A
+B
+r
+s
+rA +sB
+\mathbit A
+\mathbit B .
+A_1, A_2, \ldots, A_n
+r_1, r_2, \ldots, r_n,
+r_1 A_1 +r_2 A_2 +\cdots +r_n A_n
+\mathbit A_\mathbf 1, \mathbit A_\mathbf 2, \ldots, \mathbit A_\mathbit n
+A = \begin{bmatrix} 1 & 2 & 3 \\ 3 & 2 & 1 \end{bmatrix}
+2A
+-2A
+\frac{1}{2}A
+( -1)A
+0A
+\mathbf 0
+A +( -1)A =\mathbf 0 .
+A
+r
+0A =r\mathbf 0
+\mathbf 0
+A .
+\mathbit n
+\ast
+0 .
+\~ & \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \\ 10 & 12 & 15 \end{bmatrix} & \~ & R_2 \leftarrow R_2 -4R_1 \\ R_3 \leftarrow R_3 -7R_1 \\ R_4 \leftarrow R_4 -10R_1 \\ \~ & \begin{bmatrix} 1 & 2 & 3 \\ 0 & -3 & -6 \\ 0 & -6 & -12 \\ 0 & -8 & -15 \end{bmatrix} & \~ & R_2 \leftarrow -\frac{1}{3}R_2 \\ \~ & \begin{bmatrix} 1 & 2 & 3 \\ 0 & 1 & 2 \\ 0 & -6 & -12 \\ 0 & -8 & -15 \end{bmatrix} & \~ & R_1 \leftarrow R_1 -2R_2 \\ R_3 \leftarrow R_3 +6R_2 \\ R_4 \leftarrow R_4 +8R_2 \\ \~ & \begin{bmatrix} 1 & 0 & -1 \\ 0 & 1 & 2 \\ 0 & 0 & 0 \\ 0 & 0 & 1 \end{bmatrix} & \~ & R_3 \leftrightarrow R_4 \\ \~ & \begin{bmatrix} 1 & 0 & -1 \\ 0 & 1 & 2 \\ 0 & 0 & 1 \\ 0 & 0 & 0 \end{bmatrix} & \~ & R_1 \leftarrow R_1 +R_3 \\ R_2 \leftarrow R_2 -2R_3 \\ \~ & \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \\ 0 & 0 & 0 \end{bmatrix}
+\~ & \begin{bmatrix} 1 & 2 & 6 & 1 & 4 & 6 \\ 2 & 4 & 9 & 2 & 8 & 9 \\ 1 & 2 & 9 & 2 & 10 & 9 \end{bmatrix} & \~ & R_2 \leftarrow R_2 -2R_1 \\ R_3 \leftarrow R_3 -R_1 \\ \~ & \begin{bmatrix} 1 & 2 & 6 & 1 & 4 & 6 \\ 0 & 0 & -3 & 0 & 0 & -3 \\ 0 & 0 & 3 & 1 & 6 & 3 \end{bmatrix} & \~ & R_2 \leftarrow -\frac{1}{3}R_2 \\ \~ & \begin{bmatrix} 1 & 2 & 6 & 1 & 4 & 6 \\ 0 & 0 & 1 & 0 & 0 & 1 \\ 0 & 0 & 3 & 1 & 6 & 3 \end{bmatrix} & \~ & R_1 \leftarrow R_1 -6R_2 \\ R_3 \leftarrow R_3 -3R_2 \\ \~ & \begin{bmatrix} 1 & 2 & 0 & 1 & 4 & 0 \\ 0 & 0 & 1 & 0 & 0 & 1 \\ 0 & 0 & 0 & 1 & 6 & 0 \end{bmatrix} & \~ & R_1 \leftarrow R_1 -R_3 \\ \~ & \begin{bmatrix} 1 & 2 & 0 & 0 & -2 & 0 \\ 0 & 0 & 1 & 0 & 0 & 1 \\ 0 & 0 & 0 & 1 & 6 & 0 \end{bmatrix}
+\begin{bmatrix} 1 & 0 & 0 & \ast & 0 & \cdots & \ast \\ 0 & 1 & 0 & \ast & 0 & \cdots & \ast \\ 0 & 0 & 1 & \ast & 0 & \cdots & \ast \\ 0 & 0 & 0 & 0 & 1 & \cdots & \ast \end{bmatrix}
+n
+x_1, x_2, \ldots, x_n,
+\begin{bmatrix} 1 & 2 & 0 & 1 & 0 & 1 \\ 0 & 0 & 1 & 2 & 0 & 2 \\ 0 & 0 & 0 & 0 & 1 & 3 \end{bmatrix}
+x_1,
+x_3
+x_5
+x_2
+x_4
+x_2 =s
+x_4 =t .
+x_5 =3
+x_3 =2 -2t
+x_1 =1 -2s -t
+(x_1, x_2, x_3, x_4, x_5) =(1 -2s -t, s, 2 -2t, t, 3) .
+[0, 0, \ldots, 0, 1],
+\begin{bmatrix} 1 & 0 & 0 & \cdots & 0 & 0 & c_1 \\ 0 & 1 & 0 & \cdots & 0 & 0 & c_2 \\ 0 & 0 & 1 & \cdots & 0 & 0 & c_3 \\ \~ & \~ & \~ & \vdots \\ 0 & 0 & 0 & \cdots & 1 & 0 & c_{n -1} \\ 0 & 0 & 0 & \cdots & 0 & 1 & c_n \end{bmatrix}
+x_1 =c_1, x_2 =c_2, \ldots x_n =c_n .
+x_1 -x_2 +2x_3 -x_4 & = -1 \\ 2x_1 +x_2 -2x_3 -2x_4 & = -2 \\ -x_1 +2x_2 -4x_3 +x_4 & =1 \\ 3x_1 -3x_4 & = -3
+\begin{bmatrix} 1 & -1 & 2 & -1 & -1 \\ 2 & 1 & -2 & -2 & -2 \\ -1 & 2 & -4 & 1 & 1 \\ 3 & 0 & 0 & -3 & -3 \end{bmatrix}
+R_2 & \leftarrow R_2 -2R_1 \\ R_3 & \leftarrow R_3 +R_1 \\ R_4 & \leftarrow R_4 -3R_1
+\begin{bmatrix} 1 & -1 & 2 & -1 & -1 \\ 0 & 3 & -6 & 0 & 0 \\ 0 & 1 & -2 & 0 & 0 \\ 0 & 3 & -6 & 0 & 0 \end{bmatrix}
+R_2 & \leftarrow \frac{1}{3}R_2
+\begin{bmatrix} 1 & -1 & 2 & -1 & -1 \\ 0 & 1 & -2 & 0 & 0 \\ 0 & 1 & -2 & 0 & 0 \\ 0 & 3 & -6 & 0 & 0 \end{bmatrix}
+R_1 & \leftarrow R_1 +R_2 \\ R_3 & \leftarrow R_3 -R_2 \\ R_4 & \leftarrow R_4 -3R_2
+\begin{bmatrix} 1 & 0 & 0 & -1 & -1 \\ 0 & 1 & -2 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+x_3
+x_4
+x_3 =s
+x_4 =t .
+x_1 = -1 +t
+x_2 =2s
+(x_1, x_2, x_3, x_4) =( -1 +t, 2s, s, t)
+s
+t .
+x_1 -x_2 +2x_3 -x_4 & = & ( -1 +t) -(2s) +2(s) -(t) & = -1 \\ 2x_1 +x_2 -2x_3 -2x_4 & = & 2( -1 +t) +2s -2s -2t & = -2 \\ -x_1 +2x_2 -4x_3 +x_4 & = & -( -1 +t) +2(2s) -4s +t & =1 \\ 3x_1 -3x_4 & = & 3( -1 +t) -3t & = -3
+A = \begin{bmatrix} 1 & 2 & 3 & 4 & 5 \\ 6 & 7 & 8 & 9 & 10 \\ 11 & 12 & 13 & 14 & 15 \end{bmatrix}
+\begin{bmatrix} 1 & 0 & -1 & -2 & -3 \\ 0 & 1 & 2 & 3 & 4 \\ 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+A
+2 .
+\begin{bmatrix} 2 & 4 & 6 & 8 \\ 3 & 6 & 9 & 10 \end{bmatrix}
+\begin{bmatrix} 0 & 1 & -1 \\ 1 & 0 & -1 \\ 1 & -1 & 0 \end{bmatrix}
+\begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{bmatrix}
+\begin{bmatrix} 1 & 2 \\ 1 & 3 \\ 1 & 4 \end{bmatrix}
+\begin{bmatrix} 0 & 1 & 2 & 3 & 4 \\ 4 & 3 & 2 & 1 & 0 \end{bmatrix}
+a_{1, 1} x_1 +a_{1, 2} x_2 +a_{1, 3} x_3 +a_{1, 4} x_4 =b_1 \\ a_{2, 1} x_1 +a_{2, 2} x_2 +a_{2, 3} x_3 +a_{2, 4} x_4 =b_2 \\ a_{3, 1} x_1 +a_{2, 2} x_2 +a_{3, 3} x_3 +a_{3, 4} x_4 =b_3 \\ a_{4, 1} x_1 +a_{4, 2} x_2 +a_{4, 3} x_3 +a_{4, 4} x_4 =b_4
+\begin{bmatrix} 1 & 0 & 0 & 0 & 1 \\ 0 & 1 & 0 & 0 & -1 \\ 0 & 0 & 1 & 0 & 2 \\ 0 & 0 & 0 & 1 & 3 \end{bmatrix}
+\begin{bmatrix} 1 & 0 & 0 & 0 & 1 \\ 0 & 1 & 0 & 0 & -1 \\ 0 & 0 & 1 & 3 & 2 \\ 0 & 0 & 0 & 0 & 1 \end{bmatrix}
+\begin{bmatrix} 1 & 0 & 0 & 1 & 1 \\ 0 & 1 & 0 & -1 & -1 \\ 0 & 0 & 1 & 3 & 2 \\ 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+\begin{bmatrix} 1 & -2 & 0 & 3 & -1 \\ 0 & 0 & 1 & 1 & 2 \\ 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+x +2y -z =2 \\ x +y -z =0 \\ 2x -y +z =3
+x +2y +z =0 \\ x +y +2z =5 \\ -x +y +z =0
+x +y -z -w =2 \\ x -y -z +w =4 \\ 2x +y -z +w =1
+x -y =0 \\ y -z =0 \\ x -z =0
+x =y
+y =z,
+3x +y -2z & \lt mi/> =2 & x +y -z & \lt mi/> =1 \\ -x +3y -z & \lt mi/> =1 & -3x +y +z & \lt mi/> = -1
+\mathbit n
+n \times n .
+n
+3 \colon
+A = \begin{bmatrix} 1 & 2 & 3 \\ 6 & 2 & -1 \\ 3 & 4 & 4 \end{bmatrix} I_3 = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix} 0_3 = \begin{bmatrix} 0 & 0 & 0 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{bmatrix} .
+0_n
+n
+0 .
+I_n
+n
+I_n = \begin{bmatrix} 1 & 0 & 0 & \cdots & 0 & 0 \\ 0 & 1 & 0 & \cdots & 0 & 0 \\ 0 & 0 & 1 & \cdots & 0 & 0 \\ \~ & \~ & \~ & \ddots & \~ & \~ \\ 0 & 0 & 0 & \cdots & 1 & 0 \\ 0 & 0 & 0 & \cdots & 0 & 1 \end{bmatrix}
+I_n =[a_{i, j}],
+a_{i, j} =\{1 & \~if\~i =j \\ 0 & otherwise \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+I .
+A
+n,
+a_{1, 1}, a_{2, 2}, a_{3, 3}, \ldots, a_{n, n} \colon
+A = \begin{bmatrix} a_{1, 1} & a_{1, 2} & \cdots & a_{1, n -1} & a_{1, n} \\ a_{2, 1} & a_{2, 2} & \cdots & a_{2, n -1} & a_{2, n} \\ \~ & \~ & \ddots & \~ \\ a_{n -1, 1} & a_{n -1, 2} & \cdots & a_{n -1, n -1} & a_{n -1, n} \\ a_{n, 1} & a_{n, 2} & \cdots & a_{n, n -1} & a_{n, n} \end{bmatrix}
+1
+0 .
+A = \begin{bmatrix} a_{1, 1} & 0 & 0 & 0 & \cdots & 0 \\ 0 & a_{2, 2} & 0 & 0 & \cdots & 0 \\ 0 & 0 & a_{3, 3} & 0 & \cdots & 0 \\ 0 & 0 & 0 & a_{4, 4} & \cdots & 0 \\ \~ & \~ & \~ & \~ & \ddots \\ 0 & 0 & 0 & 0 & \cdots & a_{n, n} \end{bmatrix} .
+A =diag(a_{1, 1}, \ldots, a_{n, n}) .
+I \colon
+I = \begin{bmatrix} 1 & 0 & \cdots & 0 & 0 \\ 0 & 1 & \cdots & 0 & 0 \\ \~ & \~ & \ddots \\ 0 & 0 & \cdots & 1 & 0 \\ 0 & 0 & \cdots & 0 & 1 \end{bmatrix} =diag(1, \ldots, 1)
+A =[a_{i, j}]
+a_{i, j} =0
+i \not= j .
+D =diag(d_1, d_2, \ldots, d_n)
+E =diag(e_1, e_2, \ldots, e_n)
+DE =diag(d_1 e_1, d_2 e_2, \ldots, d_n e_n) .
+A =[a_{i, j}]
+a_{i, j} =a_{j, i}
+i, j =1, 2, \ldots, n .
+A =A^T .
+\begin{bmatrix} 0 & 1 & 2 & 3 & 4 \\ 1 & 5 & 6 & 7 & 8 \\ 2 & 6 & 9 & 10 & 11 \\ 3 & 7 & 10 & 12 & 13 \\ 4 & 8 & 11 & 13 & 14 \end{bmatrix} .
+R_1, R_2, R_3, R_4, R_5
+C_1, C_2, C_3, C_4, C_5
+R_1 & \lt mi/> =C_1 \\ R_2 & \lt mi/> =C_2 \\ R_3 & \lt mi/> =C_3 \\ R_4 & \lt mi/> =C_4 \\ R_5 & \lt mi/> =C_5
+a_{j, i}
+a_{i, j}
+\begin{bmatrix} \ast & \~ & \~ & \cdots & \~ & a_{i, j} & \~ \\ \~ & \ast & \~ & \cdots & \~ & \~ & \~ \\ \~ & \~ & \ast & \cdots & \~ & \~ & \~ \\ \~ & \~ & \~ & \ddots & \~ & \~ & \~ \\ \~ & \~ & \~ & \cdots & \ast & \~ \\ \~ & \~ & \~ & \cdots & \~ & \ast & \~ \\ \~ & a_{j, i} & \~ & \cdots & \~ & \~ & \ast \end{bmatrix} a_{i, j} =a_{j, i}
+A =[a_{i, j}]
+a_{i, j} =0\~if\~i >j .
+a_{i, j}
+i >j .
+A
+\ast
+A = \begin{bmatrix} \ast & \ast & \ast & \ast \\ 0 & \ast & \ast & \ast \\ 0 & 0 & \ast & \ast \\ 0 & 0 & 0 & \ast \end{bmatrix}
+A = \begin{bmatrix} 1 & 2 & 3 & 4 \\ 0 & 5 & 6 & 7 \\ 0 & 0 & 8 & 9 \\ 0 & 0 & 0 & 10 \end{bmatrix}
+A =[a_{i, j}]
+a_{i, j} =0\~if\~i \lt j .
+B = \begin{bmatrix} 1 & 0 & 0 & 0 \\ 2 & 3 & 0 & 0 \\ 4 & 5 & 6 & 0 \\ 6 & 7 & 8 & 9 \end{bmatrix}
+A
+B
+AB
+A
+B
+AB
+A
+A
+A
+A^{ -1}
+0
+1 .
+1 .
+1
+\begin{bmatrix} 1 \end{bmatrix} .
+2 \colon
+\begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix} \begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix}
+3 \colon
+\begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix} \begin{bmatrix} 1 & 0 & 0 \\ 0 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix} \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 0 \\ 0 & 0 & 1 \end{bmatrix}
+\begin{bmatrix} 0 & 0 & 1 \\ 1 & 0 & 0 \\ 0 & 1 & 0 \end{bmatrix} \begin{bmatrix} 0 & 0 & 1 \\ 0 & 1 & 0 \\ 1 & 0 & 0 \end{bmatrix} \begin{bmatrix} 0 & 1 & 0 \\ 0 & 0 & 1 \\ 1 & 0 & 0 \end{bmatrix}
+\mathbit n
+A,
+A,
+A
+A,
+A .
+A
+(1), (2), \ldots, (6)
+(1)
+(2)
+(1) \Rightarrow (2) .
+(2) \Rightarrow (3), (3) \Rightarrow (4), (4) \Rightarrow (5), (5) \Rightarrow (6), (6) \Rightarrow (1) .
+A
+n \times n
+A
+A\mathbf x =0
+\mathbf x =0
+A
+I_n
+A
+A\mathbf x =\mathbf b
+\mathbf b
+A\mathbf x =\mathbf b
+\mathbf b
+\mathbit n
+\mathbit n
+\mathbit n
+\mathbb R^n
+\mathbb R^3
+\mathbb R^3
+\mathbb R^3
+\mathbb R^2
+\mathbb R^n
+\mathbb R^n
+\mathbit n
+n
+\mathbit n
+\mathbit n
+A
+A^T
+A
+A^T,
+A
+A^T,
+A^T =B =[b_{i, j}] .
+b_{i, j} =a_{j, i}
+A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{bmatrix} .
+A^T = \begin{bmatrix} 1 & 4 & 7 \\ 2 & 5 & 8 \\ 3 & 6 & 9 \end{bmatrix}
+I_n
+I_n = \begin{bmatrix} 1 & 0 & 0 & \cdots & 0 \\ 0 & 1 & 0 & \cdots & 0 \\ 0 & 0 & 1 & \cdots & 0 \\ \~ & \~ & \~ & \ddots & \~ \\ 0 & 0 & 0 & \cdots & 1 \end{bmatrix}_n
+I_n^T =I_n .
+A = \begin{bmatrix} 1 & 2 & 3 & 4 \\ 5 & 6 & 7 & 8 \\ 9 & 10 & 11 & 12 \end{bmatrix} .
+A^T = \begin{bmatrix} 1 & 5 & 9 \\ 2 & 6 & 10 \\ 3 & 7 & 11 \\ 4 & 8 & 12 \end{bmatrix} .
+A^T
+A
+(A^T)^T =A
+(A +B)^T =A^T +B^T
+(rA)^T =rA^T
+(AB)^T =B^T A^T
+A
+n
+trA =a_{1, 1} +a_{2, 2} +\cdots +a_{n, n} =\sum_{i =1}^n a_{i, i}
+\mathbit A \mathbit B
+\mathbit B \mathbit A
+AB
+BA
+tr(AB) =tr(BA)
+\mathbit n
+\mathbit A
+A
+B
+n,
+AB
+n .
+A =B,
+AA
+A^2 .
+A^3 =AAA .
+A \colon
+A^n =\underset{n\~factors}{\underset{\underbrace}{AAA\cdots AA}}\~for\~n =1, 2, \ldots .
+A^1 =A .
+A = \begin{bmatrix} 1 & 2 \\ 2 & 1 \end{bmatrix}
+A \colon
+A = \begin{bmatrix} 1 & 2 \\ 2 & 1 \end{bmatrix}
+A^1 = \begin{bmatrix} 1 & 2 \\ 2 & 1 \end{bmatrix}
+A^2 = \begin{bmatrix} 5 & 4 \\ 4 & 5 \end{bmatrix}
+A^3 = \begin{bmatrix} 13 & 14 \\ 14 & 13 \end{bmatrix}
+A^4 = \begin{bmatrix} 40 & 41 \\ 41 & 40 \end{bmatrix}
+A^5 = \begin{bmatrix} 121 & 122 \\ 122 & 121 \end{bmatrix}
+A^n .
+m
+n
+A^m A^n =\underset{m\~factors}{\underset{\underbrace}{A\cdots A}}\underset{n\~factors}{\underset{\underbrace}{A\cdots A}} =\underset{m +n\~factors}{\underset{\underbrace}{A\cdots A}} =A^{m +n},
+(A^m)^n =\underset{n\~times}{\underset{\underbrace}{(\underset{m\~factors}{\underset{\underbrace}{A\cdots A}})(\underset{m\~factors}{\underset{\underbrace}{A\cdots A}})\cdots (\underset{m\~factors}{\underset{\underbrace}{A\cdots A}})}} =A^{mn}
+\mathbit A^\mathbf 0 ?
+A^0
+A^n A^0 =A^{n +0} =A^n
+A^0 =I,
+\mathbf d \mathbf e \mathbf f \mathbf i \mathbf n \mathbf e
+A^0 =I .
+p(x) =a_n x^n +a_{n -1} x^{n -1} +\cdots +a_1 x +a_0 .
+p(A) .
+A
+x
+x^k
+A^k
+A
+p(x) =x^2 -2x +1,
+p(A) =A^2 -2A +I = \begin{bmatrix} 5 & 4 \\ 4 & 5 \end{bmatrix} -2 \begin{bmatrix} 1 & 2 \\ 2 & 1 \end{bmatrix} + \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix} = \begin{bmatrix} 4 & 0 \\ 0 & 4 \end{bmatrix}
+B = \begin{bmatrix} 2 & -1 \\ 1 & 0 \end{bmatrix}
+(x) =x^2 -2x +1 .
+p(B) =B^2 -2B +I = \begin{bmatrix} 3 & -2 \\ 2 & -1 \end{bmatrix} -2 \begin{bmatrix} 2 & -1 \\ 1 & 0 \end{bmatrix} + \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix} = \begin{bmatrix} 0 & 0 \\ 0 & 0 \end{bmatrix}
+P(B) =0 .
+B
+P(B) =0,
+B
+p(x) .
+\mathbit n
+2x +4y & \lt mi/> =5 \\ -x -2y & \lt mi/> =1
+2
+x .
+-2 .
+2x +4y & \lt mi/> =5 \\ 2x +4y & \lt mi/> = -2
+x
+y
+2x +4y
+5
+-2
+-\frac{1}{2}
+2x +4y & \lt mi/> = -2 \\ -x -2y & \lt mi/> =1
+2
+0 =0
+-2
+2x +4y & \lt mi/> = -2 \\ 2x +4y & \lt mi/> = -2
+y .
+t
+y =t .
+x = -2t -1 .
+t
+(x, y) =( -2t -1, t)
+\mathbit n
+\mathbit n
+1.25,
+1.333\ldots =\frac{4}{3}
+\sqrt{2}
+\pi .
+\mathbb N,
+\{0, 1, 2, 3, \ldots \} .
+\mathbb Z,
+\{0, \pm 1, \pm 2, \pm 3, \ldots \} .
+\mathbb Q,
+\frac{m}{n}
+m
+n
+n \not= 0 .
+\mathbb R
+x
+y
+x +y
+x
+y
+xy
+x +(y +z) =(x +y) +z
+(xy)z =x(yz)
+x +0 =x
+1x =x
+x
+-x
+x +( -x) =0
+x \not= 0
+x^{ -1}
+xx^{ -1} =1
+x +y =y +x
+xy =yx
+\~
+x(y +z) =xy +xz
+(x +y)z =xz +yz
+\mathbit n
+\mathbit n
+\frac{b}{a}
+b \cdot \frac{1}{a} .
+\frac{1}{a}
+a,
+a
+1.
+a^{ -1} =\frac{1}{a},
+a \cdot a^{ -1} =a^{ -1} \cdot a =1.
+1
+r1 =1r =r
+r .
+1 \times 1
+[a] +[b] =[a +b]
+[a][b] =[ab] .
+A
+m \times n,
+I_m A =A =AI_n .
+1
+I
+IA =A =AI,
+m =n .
+A
+n \times n
+I_n A =A =AI_n,
+I_n
+1
+A^{ -1}
+A^{ -1} A =AA^{ -1} =I .
+A,
+A
+A
+B
+AB =BA =I
+B
+\mathbit A
+A^{ -1} .
+A
+A^{ -1}
+A
+A,
+A
+A
+B
+B
+A
+BA =I .
+A
+AB =I .
+B
+A
+AB =BA =I,
+B
+B
+A,
+A
+A .
+A
+n \times n
+A
+I_n,
+A
+I .
+\mathbf x =\mathbf 0,
+M\mathbf x =\mathbf 0 .
+\mathbf x
+M
+M
+Mx =\mathbf 0
+\mathbf x =\mathbf 0 .
+AB =I
+B
+A
+B
+AB =I .
+BA =I .
+A
+B
+AB =I .
+B =A^{ -1} .
+A
+B
+B
+A
+AB =I .
+A
+A^{ -1}
+(A^T)^{ -1} =(A^{ -1})^T
+A
+B
+AB
+(AB)^{ -1} =B^{ -1} A^{ -1}
+A
+A
+I
+A
+X
+A
+AX =I .
+[A|I]
+[I|A^{ -1}] .
+A
+A = \begin{bmatrix} 1 & 2 & 1 \\ 2 & 3 & 5 \\ 1 & 2 & 0 \end{bmatrix},
+[A \mid I] = \begin{bmatrix} 1 & 2 & 1 & 1 & 0 & 0 \\ 2 & 3 & 5 & 0 & 1 & 0 \\ 1 & 2 & 0 & 0 & 0 & 1 \end{bmatrix}
+[I \mid A^{ -1}] = \begin{bmatrix} 1 & 0 & 0 & -10 & 2 & 7 \\ 0 & 1 & 0 & 5 & -1 & -3 \\ 0 & 0 & 1 & 1 & 0 & -1 \end{bmatrix}
+A^{ -1} = \begin{bmatrix}] -10 & 2 & 7 \\ 5 & -1 & -3 \\ 1 & 0 & -1 \end{bmatrix} .
+\mathbf 3 \times \mathbf 2
+A = \begin{bmatrix} a & b \\ c & d \end{bmatrix}
+\begin{bmatrix} a & b & 1 & 0R_1 \leftarrow \frac{1}{a}R_1 \\ c & d & 0 & 1 \end{bmatrix} \begin{bmatrix} 1 & \frac{b}{a} & \frac{1}{a} & 0 \\ c & d & 0 & 1R_2 \leftarrow R_2 -cR_1 \end{bmatrix} \begin{bmatrix} 1 & \frac{b}{a} & \frac{1}{a} & 0 \\ 0 & d -\frac{bc}{a} & -\frac{c}{a} & 1 \end{bmatrix} (Rewrite\space last\space row) \begin{bmatrix} 1 & \frac{b}{a} & \frac{1}{a} & 0 \\ 0 & \frac{ad -bc}{a} & -\frac{c}{a} & 1R_2 \leftarrow \frac{a}{ad -bc}R_2 \end{bmatrix} \begin{bmatrix} 1 & \frac{b}{a} & \frac{1}{a} & 0 \\ 0 & 1 & -\frac{c}{ad -cb} & \frac{a}{ad -cb}R_1 \leftarrow R_1 -\frac{b}{a}R_2 \end{bmatrix} \begin{bmatrix} 1 & 0 & \frac{d}{ad -cb} & -\frac{b}{ad -cb} \\ 0 & 1 & -\frac{c}{ad -cb} & \frac{a}{ad -cb} \end{bmatrix}
+A^{ -1} = \begin{bmatrix} \frac{d}{ad -cb} & -\frac{b}{ad -cb} \\ -\frac{c}{ad -cb} & \frac{a}{ad -cb} \end{bmatrix} =\frac{1}{ad -cb} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}
+a =0
+ad -bc =0 .
+\begin{bmatrix} a & b \\ c & d \end{bmatrix} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix} = \begin{bmatrix} ad -bc & 0 \\ 0 & ad -bc \end{bmatrix} =(ad -bc)I
+A = \begin{bmatrix} a & b \\ c & d \end{bmatrix} \~and\~B =\frac{1}{ad -bc} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}
+AB =I
+B =A^{ -1}
+A = \begin{bmatrix} a & b \\ c & d \end{bmatrix}
+ad -bc \not= 0
+A^{ -1} =\frac{1}{ad -bc} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}
+Ax =b,
+A
+x =A^{ -1} b .
+x_1 +2x_2 +x_3 & = & 1 \\ 2x_1 +3x_2 +5x_3 & = & 1 \\ x_1 +2x_2 +0x_3 & = & 1
+A = \begin{bmatrix} 1 & 2 & 1 \\ 2 & 3 & 5 \\ 1 & 2 & 0 \end{bmatrix} \~and\~b = \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix}
+Ax =b .
+A^{ -1} = \begin{bmatrix} -10 & 2 & 7 \\ 5 & -1 & -3 \\ 1 & 0 & -1 \end{bmatrix} .
+x = \begin{bmatrix} -10 & 2 & 7 \\ 5 & -1 & -3 \\ 1 & 0 & -1 \end{bmatrix} \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix} = \begin{bmatrix} -1 \\ 1 \\ 0 \end{bmatrix},
+x_1 = -1, x_2 =1, x_3 =0.
+\mathbit n
+\sum_{\boxed{k =1}}^{\boxed{5}} \boxed{2k}
+\Sigma
+k =1 .
+k
+1
+k
+1, 2, 3, 4, 5 .
+k
+k & \~ & 2k \\ 1 & \~ & 2 \\ 2 & \~ & 4 \\ 3 & \~ & 6 \\ 4 & \~ & 8 \\ 5 & \~ & 10
+2 +4 +6 +8 +10 =30
+\sum_{k =1}^5 2k =30 .
+k
+\sum_{k =1}^8 (2k -1) =1 +3 +5 +7 +9 +11 +13 +15 =64 .
+k
+k =1 .
+\sum_{k =1}^8 (2k -1) =\sum_{l =0}^7 (2l +1) =64 .
+\sum_{k =1}^n a_k =a_1 +a_2 +\cdots +a_{n -1} +a_n \\ \sum_{k =0}^n a_k b_k =a_0 b_0 +a_1 b_1 +a_2 b_2 +\cdots +a_{n -1} b_{n -1} +a_n b_n \\ \sum_{k =1}^n (2k -1) =1 +3 +5 +7 +\cdots +(2n -1)
+n,
+n \colon
+\sum_{k =1}^1 (2k -1) =1
+n =1
+\sum_{k =1}^2 (2k -1) =4
+n =2
+\sum_{k =1}^3 (2k -1) =9
+n =3
+\sum_{k =1}^4 (2k -1) =16
+n =4
+\vdots
+\sum_{k =1}^n (2k -1) =1 +3 +5 +\cdots +2n -1 = ?
+f(x)
+\sum_{i =1}^r f(i) =f(1) +f(2) +\cdots +f(r -1) +f(r)
+1 -2 +3 -4 +5 .
+( -1)^k =\{1 & if\~k\~is\space even \\ -1 & if\~k\~is\space odd \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+\sum_{k =1}^6 ( -1)^k k^2 = -1 +4 -9 +16 -25 +36 =21 .
+-1 \colon
+\sum_{k =1}^6 ( -1)^{k +1} k^2 =1 -4 +9 -16 +25 -36 = -21 .
+c,
+\sum_{k =1}^n c =\underset{n\~summands}{\underset{\underbrace}{c +c +\cdots +c +c}} =nc
+\sum_{k =1}^n ca_k =ca_1 +\cdots +ca_n =c(a_1 +\cdots +a_n) =c\sum_{k =1}^n a_k
+\sum_{k =1}^n (a_k +b_k) =\sum_{k =1}^n a_k +\sum_{k =1}^n b_k, \sum_{k =1}^n (a_k -b_k) =\sum_{k =1}^n a_k -\sum_{k =1}^n b_k
+\sum_{k =0}^n a_k =\sum_{k =t}^{n +t} a_{k -t}
+n
+s_n =1 +2 +\cdots +n =\sum_{k =1}^n k .
+\sum_{k =1}^n (2k -1) =1 +3 +5 +\cdots +2n -1 =n^2,
+n^2 & \lt mi/> =\sum_{k =1}^n (2k -1) \\ \~ & \lt mi/> =\sum_{k =1}^n (2k) -\sum_{k =1}^n 1 \\ \~ & \lt mi/> =2\sum_{k =1}^n k -n \\ \~ & \lt mi/> =2s_n -n
+s_n =\frac{1}{2}n(n +1) .
+\sum_{i =1}^m \sum_{j =1}^n f(i, j) =\sum_{i =1}^m (\sum_{j =1}^n f(i, j))
+\sum_{i =1}^3 \sum_{j =1}^2 i^j =\sum_{i =1}^3 (i^1 +i^2) =(1 +1) +(2 +4) +(3 +9) =20
+A = \begin{bmatrix} a_{1, 1} & a_{1, 2} & \cdots & a_{1, n} \\ a_{2, 1} & a_{2, 2} & \cdots & a_{2, n} \\ \vdots & \vdots & \vdots & \vdots \\ a_{m, 1} & a_{m, 2} & \cdots & a_{m, n} \end{bmatrix}
+\sum_{j =1}^n a_{i, j} =a_{i, 1} +a_{i, 2} +\cdots +a_{i, n}
+i
+\sum_{i =1}^m a_{i, j} =a_{1, j} +a_{2, j} +\cdots +a_{m, j}
+j
+\sum_{i =1}^m \sum_{j =1}^n a_{i, j} =\sum_{j =1}^n \sum_{i =1}^m a_{i, j}
+\sum_{i =1}^m \sum_{j =1}^n f(i, j)
+f(i, j)
+i
+1
+m
+j
+1
+n .
+mn
+\mathbit n
+\mathbit n
+\mathbit n
+\begin{bmatrix} 1 & 0 & 0 & 0 & 1 \\ 0 & 1 & 0 & 0 & 2 \\ 0 & 0 & 1 & 0 & 5 \\ 0 & 0 & 0 & 1 & -1 \end{bmatrix}
+x_1 & \~ & \~ & \~ & = & 1 \\ \~ & x_2 & \~ & \~ & = & 2 \\ \~ & \~ & x_3 & \~ & = & 5 \\ \~ & \~ & \~ & x_4 & = & -1
+\begin{bmatrix} 1 & 1 & 4 \\ 0 & 2 & 6 \end{bmatrix}
+x_1 +x_2 & = & 4 \\ 2x_2 & = & 6
+x_2 =3 .
+x_1 +x_2 =x_1 +3 =4,
+x_1 =1 .
+\begin{bmatrix} 1 & 1 & 1 & 4 \\ 0 & 0 & 2 & 6 \end{bmatrix}
+x_1 +x_2 +x_3 & = & 4 \\ 2x_3 & = & 6
+x_3 =3 .
+x_2 =t .
+x_1 +x_2 +x_3 =x_1 +t +3 =4,
+x_1 =1 -t .
+x_1 =1 -t,
+x_2 =t,
+x_3 =3
+t
+x_1 +x_2 +x_3 =(1 -t) +t +3 =4 .
+(x_1, x_2, x_3) =(1 -t, t, 3) .
+R_1 \leftrightarrow R_i
+i >1 .
+R_i
+\lambda,
+R_i \leftarrow \frac{1}{\lambda}R_i .
+R_i
+R_j
+k,
+j, k
+R_j \leftarrow R_j -\frac{a_{j, k}}{a_{i, k}}R_i .
+\ast
+1,
+0 .
+1 .
+3x_1 -2x_2 -x_3 +x_4 =1 \\ 6x_1 -8x_2 +x_3 +2x_4 =4
+\begin{bmatrix} 3 & -2 & -1 & 1 & 1 \\ 6 & -8 & 1 & 2 & 4 \end{bmatrix} .
+1
+R_1 \leftarrow \frac{1}{3}R_1 .
+\begin{bmatrix} 1 & -\frac{2}{3} & -\frac{1}{3} & \frac{1}{3} & \frac{1}{3} \\ 6 & -8 & 1 & 2 & 4 \end{bmatrix} .
+R_2 \leftarrow R_2 -6R_1,
+\begin{bmatrix} 1 & -\frac{2}{3} & -\frac{1}{3} & \frac{1}{3} & \frac{1}{3} \\ 0 & -4 & 3 & 0 & 2 \end{bmatrix} .
+\begin{bmatrix} -4 & 3 & 0 & 2 \end{bmatrix} .
+1
+-4,
+R_1 \leftarrow -\frac{1}{4}R_1 .
+\begin{bmatrix} 1 & -\frac{3}{4} & 0 & -\frac{1}{2} \end{bmatrix} .
+\begin{bmatrix} 1 & -\frac{2}{3} & -\frac{1}{3} & \frac{1}{3} & \frac{1}{3} \\ 0 & 1 & -\frac{3}{4} & 0 & -\frac{1}{2} \end{bmatrix}
+x_1 .
+x_2 .
+x_3 =s
+x_4 =t .
+x_2 -\frac{3}{4}s = -\frac{1}{2},
+x_2 =\frac{3}{4}s -\frac{1}{2} .
+x_2,
+x_1 \colon
+x_1 -\frac{2}{3}x_2 -\frac{1}{3}s +\frac{1}{3}t =\frac{1}{3} .
+x_2
+x_1 =\frac{5}{6}s -\frac{1}{3}t .
+3x_1 -2x_2 -x_3 +x_4 =1 \\ 6x_1 -8x_2 +x_3 +2x_4 =4
+x_1 & = & \frac{5}{6}s -\frac{1}{3}t \\ x_2 & = & -\frac{1}{2} +\frac{3}{4}s \\ x_3 & = & s \\ x_4 & = & t
+s
+t
+(x_1, x_2, x_3, x_4) =\frac{5}{6}s -\frac{1}{3}t, -\frac{1}{2} +\frac{3}{4}s, s, t) .
+s
+t,
+x_1, \ldots, x_4
+x_1 & \lt mi/> +2x_2 & -2x_3 & \lt mi/> = & -1 \\ 3x_1 & \lt mi/> -2x_2 & -4x_3 & \lt mi/> = & 3 \\ 4x_1 & \~ & -2x_3 & \lt mi/> = & -2 \\ -x_1 & \lt mi/> -x_2 & +2x_3 & \lt mi/> = & 0
+\begin{bmatrix} 1 & 2 & -2 & -1 \\ 3 & -2 & -4 & 3 \\ 4 & 0 & -2 & -2 \\ -1 & -1 & 2 & 0 \end{bmatrix} \~ \\ R_2 \leftarrow R_2 -3R_1 \\ R_3 \leftarrow R_3 -4R_1 \\ R_4 \leftarrow R_4 +R_1
+\begin{bmatrix} 1 & 2 & -2 & -1 \\ 0 & -8 & 2 & 6 \\ 0 & -8 & 6 & 2 \\ 0 & 1 & 0 & -1 \end{bmatrix} R_2 \leftarrow -\frac{1}{8}R_2 \\ R_3 \leftarrow R_3 +8R_2 \\ R_4 \leftarrow R_4 -R_2
+\begin{bmatrix} 1 & 2 & -2 & -1 \\ 0 & 1 & -\frac{1}{4} & -\frac{3}{4} \\ 0 & 0 & 4 & -4 \\ 0 & 0 & \frac{1}{4} & -\frac{1}{4} \end{bmatrix} R_3 \leftarrow \frac{1}{4}R_3 \\ R_4 \leftarrow R_4 -\frac{1}{4}R_3
+\begin{bmatrix} 1 & 2 & -2 & -1 \\ 0 & 1 & -\frac{1}{4} & -\frac{3}{4} \\ 0 & 0 & 1 & -1 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+x_1, x_2, x_3,
+0 =0,
+x_3 = -1.
+x_2 = -1
+x_1 = -1.
+(x_1, x_2, x_3) =( -1, -1, -1) .
+0
+1
+x_1 & \lt mi/> +2x_2 & -2x_3 & \lt mi/> = & -1 \\ 3x_1 & \lt mi/> -2x_2 & -4x_3 & \lt mi/> = & 3 \\ 4x_1 & \~ & -2x_3 & \lt mi/> = & -2 \\ -x_1 & \lt mi/> -x_2 & +2x_3 & \lt mi/> = & 1
+\begin{bmatrix} 1 & 2 & -2 & -1 \\ 3 & -2 & -4 & 3 \\ 4 & 0 & -2 & -2 \\ -1 & -1 & 2 & 1 \end{bmatrix}
+\begin{bmatrix} 1 & 2 & -2 & -1 \\ 0 & 1 & -\frac{1}{4} & -\frac{3}{4} \\ 0 & 0 & 1 & -1 \\ 0 & 0 & 0 & 1 \end{bmatrix}
+0x_1 +0x_2 +0x_3 =1,
+x_1,
+x_2
+x_3,
+0 =1
+\begin{bmatrix} 0 & 0 & 0 & \cdots & 0 & \ast \end{bmatrix}
+\ast
+\ast =0
+\ast \not= 0
+x +y +z & = & 1 \\ 2x +y +z & = & 2 \\ 3x +ay +bz & = & c
+a,
+b
+c
+\begin{bmatrix} 1 & 1 & 1 & 1 \\ 2 & 1 & 1 & 2 \\ 3 & a & b & c \end{bmatrix} R_2 \leftarrow R_2 -2R_1 \\ R_3 \leftarrow R_3 -3R_1
+\begin{bmatrix} 1 & 1 & 1 & 1 \\ 0 & -1 & -1 & 0 \\ 0 & a -3 & b -3 & c -3 \end{bmatrix} R_2 \leftarrow -R_2 \\ R_3 \leftarrow R_3 -(a -3)R_2
+\begin{bmatrix} 1 & 1 & 1 & 1 \\ 0 & 1 & 1 & 0 \\ 0 & 0 & b -a & c -3 \end{bmatrix}
+b -a \not= 0,
+b -a =0,
+c -3 \not= 0,
+b =a
+c =3
+x +2y -z & \lt mi/> =2 \\ x +y -z & \lt mi/> =0 \\ 2x -y +z & \lt mi/> =3
+\mathbit n
+\mathbit n
+\mathbit n
+2x +3y & \lt mi/> =5 \\ 3x +2y & \lt mi/> =7
+x
+y
+\frac{2}{3},
+2x +\frac{4}{3}y =\frac{14}{3},
+\frac{5}{3}y =\frac{1}{3},
+y =\frac{1}{5} .
+y,
+x =\frac{11}{5} .
+x
+y
+x =\frac{11}{5}
+y =\frac{1}{5} .
+(x, y) =(\frac{11}{5}, \frac{1}{5}) .
+x
+y
+(x, y) =(\frac{11}{5}, \frac{1}{5}),
+\mathbit n
+\mathbit n
+\mathbit n
+n
+x_1, x_2, \ldots, x_n
+a_1 x_1 +a_2 x_2 +\cdots +a_n x_n =b
+a_1, \ldots, a_n
+b
+a_1, a_2, \ldots, a_n
+a_1
+x_1,
+a_2
+x_2,
+\mathbit n
+2x =4
+4x -2y =7
+\frac{1}{2}x -\frac{3}{5}y +\pi z =0
+x_1 -3x_2 +4x_3 -7x_4 =100
+1
+3x_1 +15x_5 = -10
+\mathbit m
+\mathbit n
+m
+n
+x -y +z & \lt mi/> =1 \\ 2x +3y -z & \lt mi/> =2
+u +v & \lt mi/> =1 \\ 2u +v & \lt mi/> =3 \\ u +2v & \lt mi/> =3
+x_1 & + & x_2 & \~ & \~ & \~ & \~ & \~ & \~ & =1 \\ \~ & \~ & x_2 & + & x_3 & \~ & \~ & \~ & \~ & =2 \\ \~ & \~ & \~ & \~ & x_3 & + & x_4 & \~ & \~ & =3 \\ \~ & \~ & \~ & \~ & \~ & \~ & x_4 & + & x_5 & =4
+m
+n
+x_1, x_2, x_3 \ldots, x_n \colon
+a_{1, 1} x_1 +a_{1, 2} x_2 +\cdots +a_{1, n} x_n =b_1 \\ a_{2, 1} x_1 +a_{2, 2} x_2 +\cdots +a_{2, n} x_n =b_2 \\ \vdots \\ a_{m, 1} x_1 +a_{m, 2} x_2 +\cdots +a_{m, n} x_n =b_m
+\begin{bmatrix} 1 & 2 & 3 & 4 \\ 5 & 6 & 7 & 8 \\ 9 & 10 & 11 & 12 \end{bmatrix}
+\begin{bmatrix} 1 & 2 & 3 & 4 \end{bmatrix}
+\begin{bmatrix} 5 & 6 & 7 & 8 \end{bmatrix}
+\begin{bmatrix} 9 & 10 & 11 & 12 \end{bmatrix}
+\begin{bmatrix} 1 \\ 5 \\ 9 \end{bmatrix}
+1
+\begin{bmatrix} 2 \\ 6 \\ 10 \end{bmatrix}
+2
+\begin{bmatrix} 3 \\ 7 \\ 11 \end{bmatrix}
+3,
+\begin{bmatrix} 4 \\ 8 \\ 12 \end{bmatrix}
+4
+3 \times 4
+m
+n
+m \times n
+m \times n
+A
+A = \begin{bmatrix} a_{1, 1} & a_{1, 2} & \cdots & a_{1, n} \\ a_{2, 1} & a_{2, 2} & \cdots & a_{2, n} \\ \~ & \~ & \vdots \\ a_{m, 1} & a_{m, 2} & \cdots & a_{m, n} \end{bmatrix}
+a_{i, j}
+i
+j .
+R_1, R_2, \ldots, R_m
+C_1, C_2, \ldots, C_n .
+R_i = \begin{bmatrix} a_{i, 1} & a_{i, 2} & a_{i, 3}, & \cdots & a_{i, n} \end{bmatrix},
+C_j = \begin{bmatrix} a_{1, j} \\ a_{2, j} \\ a_{3, j} \\ \vdots \\ a_{m, j} \end{bmatrix}
+m
+n
+a_{1, 1} x_1 +a_{1, 2} x_2 + & \cdots & +a_{1, n} x_n =b_1 \\ a_{2, 1} x_1 +a_{2, 2} x_2 + & \cdots & +a_{2, n} x_n =b_2 \\ \~ & \vdots \\ a_{m, 1} x_1 +a_{m, 2} x_2 + & \cdots & +a_{m, n} x_n =b_m
+A
+m \times n
+A = \begin{bmatrix} a_{1, 1} & a_{1, 2} & \cdots & a_{1, n} \\ a_{2, 1} & a_{2, 2} & \cdots & a_{2, n} \\ \~ & \~ & \vdots \\ a_{m, 1} & a_{m, 2} & \cdots & a_{m, n} \end{bmatrix}
+m \times (n +1)
+A = \begin{bmatrix} a_{1, 1} & a_{1, 2} & \cdots & a_{1, n} & b_1 \\ a_{2, 1} & a_{2, 2} & \cdots & a_{2, n} & b_2 \\ \~ & \~ & \vdots & \~ & \~ \\ a_{m, 1} & a_{m, 2} & \cdots & a_{m, n} & b_m \end{bmatrix}
+A = \begin{bmatrix} a_{1, 1} & a_{1, 2} & \cdots & a_{1, n} & b_1 \\ a_{2, 1} & a_{2, 2} & \cdots & a_{2, n} & b_2 \\ \~ & \~ & \vdots & \~ & \~ \\ a_{m, 1} & a_{m, 2} & \cdots & a_{m, n} & b_m \end{bmatrix}
+x -y +z & \lt mi/> =1 \\ 2x +3y -z & \lt mi/> =2
+\begin{bmatrix} 1 & -1 & 1 \\ 2 & 3 & -1 \end{bmatrix}
+\begin{bmatrix} 1 & -1 & 1 & 1 \\ 2 & 3 & -1 & 2 \end{bmatrix}
+u +v & \lt mi/> =1 \\ 2u +v & \lt mi/> =3 \\ u +2v & \lt mi/> =3
+\begin{bmatrix} 1 & 1 \\ 2 & 1 \\ 1 & 2 \end{bmatrix}
+\begin{bmatrix} 1 & 1 & 1 \\ 2 & 1 & 3 \\ 1 & 2 & 3 \end{bmatrix}
+x_1 & + & x_2 & \~ & \~ & \~ & \~ & \~ & \~ & =1 \\ \~ & \~ & x_2 & + & x_3 & \~ & \~ & \~ & \~ & =2 \\ \~ & \~ & \~ & \~ & x_3 & + & x_4 & \~ & \~ & =3 \\ \~ & \~ & \~ & \~ & \~ & \~ & x_4 & + & x_5 & =4
+\begin{bmatrix} 1 & 1 & 0 & 0 & 0 \\ 0 & 1 & 1 & 0 & 0 \\ 0 & 0 & 1 & 1 & 0 \\ 0 & 0 & 0 & 1 & 1 \end{bmatrix}
+\begin{bmatrix} 1 & 1 & 0 & 0 & 0 & 1 \\ 0 & 1 & 1 & 0 & 0 & 2 \\ 0 & 0 & 1 & 1 & 0 & 3 \\ 0 & 0 & 0 & 1 & 1 & 4 \end{bmatrix}
+x +y -z^2 =0
+2x +yz =1
+z =3
+\pi^2 x -\sqrt[3]{3}y =8\sqrt{5}
+3x -4y =\frac{7}{3}z -5 +t
+\cos x =3y +2z
+2x -4y +z = -13x -3y +z =1
+(x, y, z) =(2, 1, -1)
+(x, y, z) =(1, 1, 1)
+(x, y, z) =(0, 0, 1)
+(1, 2)
+x +y & \lt mi/> =2 \\ x -y & \lt mi/> =0
+x_1 +x_2 -x_3 +x_5 & \lt mi/> =4 \\ 2x_1 -3x_2 +x_4 & \lt mi/> =7
+x +y -z & \lt mi/> =1 \\ 3x +y & \lt mi/> =2 \\ y +z & \lt mi/> =3 \\ x +z & \lt mi/> =4 \\ x +y +z & \lt mi/> =5
+\begin{bmatrix} 1 & 4 & 1 \\ 3 & -2 & 0 \\ 0 & 1 & 1 \\ -1 & 1 & 3 \end{bmatrix}
+I_n
+n
+n
+a_{i, j}
+a_{i, j} =\{1 & if\~i =j \\ 0 & if\~i \not= j \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+I_n
+1
+0
+[I_n \mid B]
+B = \begin{bmatrix} b_1 \\ b_2 \\ \vdots \\ b_n \end{bmatrix}
+\mathbit n
+\begin{bmatrix} 1 & 2 & -1 & 4 \\ 2 & 1 & 3 & 0 \\ 4 & 4 & 3 & 1 \end{bmatrix}
+R_1, R_2, \ldots
+C_1, C_2, \ldots .
+R_1 = \begin{bmatrix} 1 & 2 & -1 & 4 \end{bmatrix},
+R_2 = \begin{bmatrix} 2 & 1 & 3 & 0 \end{bmatrix}
+R_3 = \begin{bmatrix} 4 & 4 & 3 & 1 \end{bmatrix}
+C_1 = \begin{bmatrix} 1 & 2 & 4 \end{bmatrix},
+C_2 = \begin{bmatrix} 2 & 1 & 4 \end{bmatrix},
+C_3 = \begin{bmatrix} -1 & 3 & 3 \end{bmatrix}
+C_4 = \begin{bmatrix} 4 & 0 & 1 \end{bmatrix} .
+C_1 = \begin{bmatrix} 1 \\ 2 \\ 4 \end{bmatrix}, C_2 = \begin{bmatrix} 2 \\ 1 \\ 4 \end{bmatrix}, C_3 = \begin{bmatrix} -1 \\ 3 \\ 3 \end{bmatrix} and\~C_4 = \begin{bmatrix} 4 \\ 0 \\ 1 \end{bmatrix} .
+m
+n
+m \times n .
+m
+n
+A,
+A = \begin{bmatrix} a_{1, 1} & \cdots & a_{1, n} \\ \~ & \vdots & \~ \\ a_{m, 1} & \cdots & a_{m, n} \end{bmatrix}_{m, n}
+a_{i, j}
+i
+j
+m \times n
+m \times n
+m =n .
+A = \begin{bmatrix} a_{1, 1} & \cdots & a_{1, n} \\ \~ & \vdots & \~ \\ a_{n, 1} & \cdots & a_{n, n} \end{bmatrix}_n
+A =[a_{i, j}]
+B =[b_{i, j}]
+m
+n,
+a_{i, j} =b_{i, j}, \~for\~i =1, 2, \ldots, m\~and\~j =1, 2, \ldots, n .
+\begin{bmatrix} 1 & 2 & 1 \\ 1 & -1 & 0 \end{bmatrix} = \begin{bmatrix} 5 -4 & 12/6 & \cos (0) \\ 10^0 & ( -1)^5 & \sin (4\pi) \end{bmatrix}
+1 & \lt mi/> =5 -4 \\ 2 & \lt mi/> =\frac{12}{6} \\ 1 & \lt mi/> =\cos (0) \\ 1 & \lt mi/> =10^0 \\ -1 & \lt mi/> =( -1)^5 \\ 0 & \lt mi/> =\sin (4\pi)
+\begin{bmatrix} x +y & x +2y \\ 2x +y & 2x +2y \end{bmatrix} = \begin{bmatrix} 2 & 3 \\ 3 & 4 \end{bmatrix}
+x =y =1
+m \times n
+mn
+\mathbf 0,
+0 .
+\mathbf 0 = \begin{bmatrix} 0 & 0 & \cdots & 0 \\ 0 & 0 & \cdots & 0 \\ \~ & \~ & \vdots & \~ \\ 0 & 0 & \cdots & 0 \end{bmatrix}
+I,
+0
+1 .
+I = \begin{bmatrix} 1 & 0 & \cdots & 0 & 0 \\ 0 & 1 & \cdots & 0 & 0 \\ \~ & \~ & \vdots & \~ \\ 0 & 0 & \cdots & 1 & 0 \\ 0 & 0 & \cdots & 0 & 1 \end{bmatrix}
+n \times n,
+I_n .
+I_n =[a_{i, j}],
+a_{i, j} =\{1 & if\~i =j \\ 0 & if\~i \not= j \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+\mathbit n
+A =[a_{i, j}]
+B =[b_{i, j}],
+C =[c_{i, j}]
+C =A +B
+c_{i, j} =a_{i, j} +b_{i, j}
+1 \le i \le m
+1 \le j \le n .
+A
+B
+C =A -B
+c_{i, j} =a_{i, j} -b_{i, j}
+1 \le i \le m
+1 \le j \le n .
+A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix} \~and\~B = \begin{bmatrix} 5 & 3 & 1 \\ 0 & -1 & -2 \end{bmatrix}
+A +B = \begin{bmatrix} 6 & 5 & 4 \\ 4 & 4 & 4 \end{bmatrix}
+A -B = \begin{bmatrix} -4 & -1 & 2 \\ 4 & 6 & 8 \end{bmatrix}
+A,
+B
+C
+A
+B
+m \times n
+A +B .
+A +B =B +A
+(A +B) +C =A +(B +C)
+\mathbit n
+n
+\mathbit n
+A
+B
+m \times n
+r \times s .
+n =r
+A
+B .
+AB .
+R_i
+A \colon
+a_{i, 1}, a_{i, 2}, \ldots, a_{i, n}
+C_j
+B \colon
+b_{1, j}, b_{2, j}, \ldots, b_{r, j} .
+A = \begin{bmatrix} \~ & \~ & \vdots \\ a_{i, 1} & a_{i, 2} & \cdots & a_{i, n} R_i \\ \~ & \~ & \vdots \end{bmatrix} B = \begin{bmatrix} \cdots & b_{1, j} & \cdots \\ \cdots & b_{2, j} & \cdots \\ \~ & \vdots \\ \cdots & b_{r, j} & \cdots \end{bmatrix} \\ C_j
+C =AB,
+c_{i, j}
+c_{i, j} =a_{i, 1} b_{1, j} +a_{i, 2} b_{2, j} +\cdots +a_{i, n} b_{r, j}
+n =r
+A
+B
+c_{i, j}
+c_{i, j}
+R_i
+A
+C_j
+B .
+c_{i, j} =R_i \cdot C_j
+m \times s .
+A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix}_{2 \times 3}
+B = \begin{bmatrix} 3 & 1 \\ 4 & 1 \\ 5 & 9 \end{bmatrix}_{3 \times 2} .
+C =AB
+2 \times 2 .
+C \colon
+c_{11} & = & 1 \cdot 3 +2 \cdot 4 +3 \cdot 5 & = & 3 +8 +15 =26 \\ c_{12} & = & 1 \cdot 1 +2 \cdot 1 +3 \cdot 9 & = & 1 +2 +27 =30 \\ c_{21} & = & 4 \cdot 3 +5 \cdot 4 +6 \cdot 5 & = & 12 +20 +30 =62 \\ c_{22} & = & 4 \cdot 1 +5 \cdot 1 +6 \cdot 9 & = & 4 +5 +54 =63
+C = \begin{bmatrix} 26 & 30 \\ 62 & 63 \end{bmatrix}
+A
+B
+D =BA
+3 \times 3.
+D & \lt mi/> = \begin{bmatrix} 3 \cdot 1 +1 \cdot 4 & 3 \cdot 2 +1 \cdot 5 & 3 \cdot 3 +1 \cdot 6 \\ 4 \cdot 1 +1 \cdot 4 & 4 \cdot 2 +1 \cdot 5 & 4 \cdot 3 +1 \cdot 6 \\ 5 \cdot 1 +9 \cdot 4 & 5 \cdot 2 +9 \cdot 5 & 5 \cdot 3 +9 \cdot 6 \end{bmatrix} \\ \~ & \lt mi/> = \begin{bmatrix} 7 & 11 & 15 \\ 8 & 13 & 18 \\ 41 & 55 & 69 \end{bmatrix}
+AB \not= BA
+I_2 = \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}
+A
+I_2 A & \lt mi/> = \begin{bmatrix} 1 \cdot 1 +0 \cdot 4 & 1 \cdot 2 +0 \cdot 5 & 1 \cdot 3 +0 \cdot 6 \\ 0 \cdot 1 +1 \cdot 4 & 0 \cdot 2 +1 \cdot 5 & 0 \cdot 3 +1 \cdot 6 \end{bmatrix} \\ \~ & \lt mi/> = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix} \\ \~ & \lt mi/> =A
+I_3 = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix} .
+AI_3 =A .
+a_{1, 1} x_1 +a_{1, 2} x_2 +\cdots +a_{1, n} x_n =b_1 \\ a_{2, 1} x_1 +a_{2, 2} x_2 +\cdots +a_{2, n} x_n =b_2 \\ \vdots \\ a_{m, 1} x_1 +a_{m, 2} x_2 +\cdots +a_{m, n} x_n =b_m
+A =[a_{i, j}]
+\mathbf b = \begin{bmatrix} b_1 \\ b_2 \\ \vdots \\ b_m \end{bmatrix}
+\mathbf x = \begin{bmatrix} x_1 \\ x_2 \\ \vdots \\ x_n \end{bmatrix}
+A\mathbf x =\mathbf b
+m \times n
+A
+C_1, C_2, \ldots, C_n .
+r_1 C_1 +r_2 C_2 +\cdots +r_n C_n .
+(3.4.1) & B =r_1 C_1 +r_2 C_2 +\cdots +r_n C_n .
+B
+m
+B = \begin{bmatrix} b_1 \\ b_2 \\ \vdots \\ b_m \end{bmatrix} \~and\~R = \begin{bmatrix} r_1 \\ r_2 \\ \vdots \\ r_n \end{bmatrix}
+AR =B .
+x
+y
+xy =yx
+X = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix} \~and\~Y = \begin{bmatrix} 2 & 1 \\ 0 & -1 \end{bmatrix}
+XY = \begin{bmatrix} 2 & -1 \\ 6 & -1 \end{bmatrix} \~and\~YX = \begin{bmatrix} 5 & 8 \\ -3 & -4 \end{bmatrix} .
+Z = \begin{bmatrix} -2 & 2 \\ 3 & 1 \end{bmatrix}
+XZ = \begin{bmatrix} 4 & 4 \\ 6 & 10 \end{bmatrix} =ZX .
+ZX =XZ,
+X
+Z
+A,
+B
+C
+A(B +C) =AB +AC
+A,
+B
+C
+(B +C)A =BA +CA .
+A,
+B
+C
+A(BC) =(AB)C .
+\mathbit A \mathbit X =\mathbit B
+A
+m \times n
+B
+m \times r
+X
+AX =B .
+X
+n \times r .
+A =[a_{i, j}],
+X =[x_{i, j}]
+B =[b_{i, j}],
+\begin{bmatrix} a_{1, 1} & a_{1, 2} & \cdots & a_{1, n} \\ a_{2, 1} & a_{2, 2} & \cdots & a_{2, n} \\ \~ & \~ & \vdots & \~ \\ a_{m, 1} & a_{m, 2} & \cdots & a_{m, n} \end{bmatrix} \begin{bmatrix} x_{1, 1} & x_{1, 2} & \cdots & x_{1, r} \\ x_{2, 1} & x_{2, 2} & \cdots & x_{2, r} \\ \~ & \~ & \vdots & \~ \\ x_{n, 1} & x_{n, 2} & \cdots & x_{n, r} \end{bmatrix} = \begin{bmatrix} b_{1, 1} & b_{1, 2} & \cdots & b_{1, r} \\ b_{2, 1} & b_{2, 2} & \cdots & b_{2, r} \\ \~ & \~ & \vdots & \~ \\ b_{m, 1} & b_{m, 2} & \cdots & b_{m, r} \end{bmatrix}
+i
+j
+a_{i, 1} x_{1, j} +a_{i, 2} x_{2, j} +\cdots +a_{i, n} x_{n, j} =b_{i, j} .
+j
+X
+i
+1
+m,
+\begin{bmatrix} a_{1, 1} & a_{1, 2} & \cdots & a_{1, n} \\ a_{2, 1} & a_{2, 2} & \cdots & a_{2, n} \\ \~ & \~ & \vdots & \~ \\ a_{m, 1} & a_{m, 2} & \cdots & a_{m, n} \end{bmatrix} \begin{bmatrix} x_{1, j} \\ x_{2, j} \\ \vdots \\ x_{n, j} \end{bmatrix} = \begin{bmatrix} b_{1, j} \\ b_{2, j} \\ \vdots \\ b_{m, j} \end{bmatrix}
+n
+j
+1
+n,
+A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix} \~and\~B = \begin{bmatrix} 3 & 1 \\ 4 & 1 \end{bmatrix} .
+X
+3 \times 2
+X = \begin{bmatrix} x_{1, 1} & x_{1, 2} \\ x_{2, 1} & x_{2, 2} \\ x_{3, 1} & x_{3, 2} \end{bmatrix} .
+\begin{bmatrix} 1 & 2 & 3 & 3 \\ 4 & 5 & 6 & 4 \end{bmatrix} .
+\begin{bmatrix} 1 & 0 & -1 & -\frac{7}{3} \\ 0 & 1 & 2 & \frac{8}{3} \end{bmatrix}
+x_{1, 1} = -\frac{7}{3} +s,
+x_{2, 1} =\frac{8}{3} -2s,
+x_{3, 1} =s .
+\begin{bmatrix} 1 & 2 & 3 & 1 \\ 4 & 5 & 6 & 1 \end{bmatrix}
+\begin{bmatrix} 1 & 0 & -1 & -1 \\ 0 & 1 & 2 & 1 \end{bmatrix}
+x_{1, 2} = -1 +t,
+x_{2, 2} =1 -2t,
+x_{3, 2} =t .
+X = \begin{bmatrix} -\frac{7}{3} +s & -1 +t \\ \frac{8}{3} -2s & 1 -2t \\ s & t \end{bmatrix}
+AX =B
+s
+t .
+\begin{bmatrix} 1 & 2 & 3 & 3 & 1 \\ 4 & 5 & 6 & 4 & 1 \end{bmatrix}
+\begin{bmatrix} 1 & 0 & -1 & -\frac{7}{3} & -1 \\ 0 & 1 & 2 & \frac{8}{3} & 1 \end{bmatrix}
+A = \begin{bmatrix} 1 & 1 & 3 \\ 3 & 2 & 5 \\ 1 & 1 & 1 \end{bmatrix}
+B = \begin{bmatrix} 1 & 1 & 2 \\ 2 & 2 & 3 \\ 3 & 3 & 4 \end{bmatrix}
+X
+3 \times 3
+\begin{bmatrix} 1 & 1 & 3 & 1 & 1 & 2 \\ 3 & 2 & 5 & 2 & 2 & 3 \\ 1 & 1 & 1 & 3 & 3 & 4 \end{bmatrix}
+\begin{bmatrix} 1 & 0 & 0 & -1 & -1 & -2 \\ 0 & 1 & 0 & 5 & 5 & 7 \\ 0 & 0 & 1 & -1 & -1 & -1 \end{bmatrix}
+B
+x_{1, 1} = -1,
+x_{2, 1} =5
+x_{3, 1} = -1.
+B
+x_{1, 2} = -1,
+x_{2, 2} =5
+x_{3, 2} = -1.
+B
+x_{1, 3} = -2,
+x_{2, 3} =7
+x_{3, 3} =1.
+X = \begin{bmatrix} -1 & -1 & -2 \\ 5 & 5 & 7 \\ -1 & -1 & -1 \end{bmatrix} .
+X
+A
+B
+n \times n
+A
+I_n,
+[A|B]
+[I_n |X]
+X
+AX =B .
+\begin{bmatrix} 1 & 2 & -1 \\ 3 & 1 & 0 \\ 2 & 1 & 1 \end{bmatrix} X = \begin{bmatrix} -2 & 3 & 3 \\ 2 & 2 & 1 \\ 4 & 2 & 2 \end{bmatrix}
+X
+3 \times 3
+[A|B] = \begin{bmatrix} 1 & 2 & -1 & -2 & 3 & 3 \\ 3 & 1 & 0 & 2 & 2 & 1 \\ 2 & 1 & 1 & 4 & 2 & 2 \end{bmatrix}
+\begin{bmatrix} 1 & 0 & 0 & -2 & 1 & 3 \\ 0 & 1 & 0 & 2 & 2 & 1 \\ 0 & 0 & 1 & 4 & 2 & 2 \end{bmatrix}
+X = \begin{bmatrix} -2 & 1 & 3 \\ 2 & 2 & 1 \\ 4 & 2 & 2 \end{bmatrix} .
+A_n
+I_n .
+A_n
+I_n,
+n,
+n .
+\mathbit n
+\mathbit n
+m \times n
+i
+j,
+R_i \leftrightarrow R_j .
+2x +3y -z & =2 \\ -x +y +z & =4 \\ 3x -y -z & =3
+\begin{bmatrix} 2 & 3 & -1 & 2 \\ -1 & 1 & 1 & 4 \\ 3 & -1 & -1 & 3 \end{bmatrix}
+R_1 \leftrightarrow R_3
+\begin{bmatrix} 3 & -1 & -1 & 3 \\ -1 & 1 & 1 & 4 \\ 2 & 3 & -1 & 2 \end{bmatrix}
+3x -y -z & =3 \\ -x +y +z & =4 \\ 2x +3y -z & =2
+\lambda,
+\lambda
+a_1 x_1 +a_2 x_2 +a_3 x_3 +\cdots +a_n x_n =b
+\lambda (a_1 x_1 +a_2 x_2 +a_3 x_3 +\cdots +a_n x_n) =\lambda b
+\lambda a_1 x_1 +\lambda a_2 x_2 +\lambda a_3 x_3 +\cdots +\lambda a_n x_n =\lambda b .
+i
+R_i \leftarrow \lambda R_i
+\leftarrow
+\lambda
+\mathbit{\lambda}
+2x +3y -z & =2 \\ -x +y +z & =4 \\ 3x -y -z & =3
+\begin{bmatrix} 2 & 3 & -1 & 2 \\ -1 & 1 & 1 & 4 \\ 3 & -1 & -1 & 3 \end{bmatrix}
+2
+\lambda = -3
+R_2 \leftarrow -3R_2
+\begin{bmatrix} 2 & 3 & -1 & 2 \\ 3 & -3 & -3 & -12 \\ 3 & -1 & -1 & 3 \end{bmatrix}
+2x +3y -z & =2 \\ 3x -3y -3z & = -12 \\ 3x -y -z & =3
+R_i \leftarrow R_i -R_j
+i
+i
+j .
+R_i \leftarrow R_i +\lambda R_j .
+\lambda = -1
+x
+-x +y +z & =4 \\ 2x +3y -z & =2 \\ 3x -y -z & =3
+\begin{bmatrix} -1 & 1 & 1 & 4 \\ 2 & 3 & -1 & 2 \\ 3 & -1 & -1 & 3 \end{bmatrix}
+(R_2 \leftarrow R_2 +2R_1)
+\begin{bmatrix} -1 & 1 & 1 & 4 \\ 0 & 5 & 1 & 10 \\ 3 & -1 & -1 & 3 \end{bmatrix}
+-x +y +z & =4 \\ 5y +z & =10 \\ 3x -y -z & =3
+R_i \leftrightarrow R_j
+R_i \leftarrow \lambda R_i,
+\lambda \not= 0
+R_i \leftarrow R_i +\lambda R_j
+a_{i, k} \not= 0
+1
+a_{i, k} \not= 0,
+0
+\mathbf 0
+\mathbf 1
+a_{i, k} \not= 0,
+1 .
+k
+a_{i, k}
+a_{j, k}
+0 .
+A = \begin{bmatrix} 1 & 2 & 3 & 4 \\ 5 & 6 & 7 & -6 \\ -5 & -4 & -3 & -2 \end{bmatrix} .
+2
+1
+7
+1
+-4
+1
+5
+0
+6
+0
+-4
+0
+7
+0
+\begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}

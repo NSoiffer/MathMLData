@@ -1,0 +1,2742 @@
+H
+K
+G .
+G
+H
+K ?
+G
+H
+K
+\langle H, K \rangle \colon =\bigcap_{J \supseteq H \cup K} J
+J
+G
+H
+K .
+J
+G
+H
+K,
+hk
+kh
+k \in K
+h \in H .
+H
+K
+G,
+HK \colon =\{hk \mid h \in H, k \in K\}
+G,
+HK
+KH
+H
+K
+G .
+K
+G,
+H
+N_G (K),
+K .
+HK =KH
+G,
+G
+H
+K .
+HK =KH
+H
+K
+h \in H, k \in K,
+h' \in H, k' \in K
+hk =k'h' .
+HK .
+h, h' \in H, k, k' \in K,
+(hk)(h'k') =h''k''
+h'' \in H
+k'' \in K .
+(hk)(h'k') =h(h'h^{ ' -1})k(h'k') =(hh')(h^{ ' -1} kh')k' =h''k''
+h'' =hh'
+k'' =(h^{ ' -1} kh')k',
+H \subseteq N_G (K) .
+h \in H, k \in K,
+(hk)^{ -1} =h'k'
+h' \in H
+k' \in K .
+(hk)^{ -1} =k^{ -1} h^{ -1} =(h^{ -1} h)k^{ -1} h^{ -1} =h^{ -1} (hk^{ -1} h^{ -1}) =h'k' .
+HK =HK,
+HK \subseteq KH
+KH \subseteq HK .
+hk & \lt mi/> =hk(h^{ -1} h) =(hkh^{ -1})h =k'h \\ kh & \lt mi/> =(hh^{ -1})kh =h(h^{ -1} kh) =hk' .
+G =S_3,
+K = \langle (123) \rangle = \langle (132) \rangle
+H
+HK
+G;
+G =HK,
+R
+I
+J .
+I +J
+R
+I
+J .
+IJ,
+R
+ij
+i \in I
+j \in J .
+I \cap J
+I +J & \lt mi/> =\{i +j \mid i \in I, j \in J\} \\ IJ & \lt mi/> =\{\sum_{k =1}^r i_k j_k \mid i_k \in I, j_k \in J\} \\ I \cap J & \lt mi/> =\{k \mid k \in I\~and\~k \in J\}
+IJ
+ij .
+R =\mathbb Z
+I, J
+\mathbb Z
+I =12\mathbb Z
+J =4\mathbb Z
+I =12\mathbb Z
+J =15\mathbb Z
+I =12\mathbb Z
+J =5\mathbb Z
+I +J, IJ,
+I \cap J
+I +J =4\mathbb Z;
+IJ =48\mathbb Z;
+I \cap J =12\mathbb Z
+I +J =3\mathbb Z;
+IJ =180\mathbb Z;
+I \cap J =60\mathbb Z
+I +J =\mathbb Z;
+IJ =60\mathbb Z;
+I \cap J =60\mathbb Z
+R =\mathbb Z
+I =m\mathbb Z
+J =n\mathbb Z
+I +J, IJ,
+I \cap J
+m
+n .
+(I +J) \cdot (I \cap J) =IJ .
+(I +J) \cdot (I \cap J)
+\mathbb Z ?
+n \times n
+(n \ge 2),
+\mathbb H,
+\mathbb R
+\{1, i, j, k\}
+ij =k = -ji
+i^2 =j^2 =k^2 = -1.
+\mathbb Z,
+\mathbb Z /n\mathbb Z,
+\mathbb Z,
+\mathbb Z /n\mathbb Z
+n
+X,
+S_X
+f \colon X \to X .
+S_X
+(f, g) \mapsto f \circ g,
+f \circ g(x) =f(g(x)) .
+id_X \colon X \to X
+id_X (x) =x
+x \in X .
+f \in S_X
+f
+X
+| X| =n,
+X =\{1, 2, \ldots, n\}
+S_n
+S_X .
+| S_n | =n! .
+S_n
+n
+S_n
+S_1 =\{id\}
+S_2 =\{id, \sigma \}
+\sigma
+n \ge 3,
+S_n
+\sigma \in S_{11}
+\sigma = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 \\ 5 & 1 & 3 & 2 & 7 & 6 & 4 & 9 & 8 & 11 & 10 \end{pmatrix}
+\sigma
+\sigma
+k
+k
+\tau \in S_X,
+a_1, \ldots, a_k \in X
+\tau (a_i) =a_{i +1} \~for\~1 \le i \le k, \tau (a_k) =a_1, \~and\~\tau (x) =x\~for\space all\space other\~x \in X .
+\tau
+\tau =(a_1 a_2 \cdots a_k) .
+\sigma = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 \\ 5 & 1 & 3 & 2 & 7 & 6 & 4 & 9 & 8 & 11 & 10 \end{pmatrix}
+\sigma =\underset{5 -cycle}{\underset{\underbrace}{(15742)}}\underset{1 -cycles}{\underset{\underbrace}{(3)(6)}}\underset{2 -cycles}{\underset{\underbrace}{(89)(1011)}} .
+(a_1 \ldots a_r) =(a_2 a_3 \ldots a_r a_1) =(a_3 a_4 \ldots, a_r a_1 a_2) =\cdots
+\sigma
+S_n
+G = \langle \sigma \rangle
+\sigma .
+G
+X =\{1, \ldots, n\}
+(\tau, k) \mapsto \tau (k) .
+X
+G \cdot k =Orbit\space of\~(k) =\{\tau (k) \mid \tau \in \langle \sigma \rangle \} .
+(k\sigma (k)\sigma^2 (k)\cdots \sigma^{\ell -1} (k))
+\ell
+\sigma^\ell (k) =k .
+\langle \sigma \rangle
+X
+S_n
+r
+\sigma =(a_1 a_2 \cdots a_r)
+r .
+\sigma
+a_i
+a_{i +1}
+1 \le i \le r
+a_r
+a_1,
+\sigma^j
+a_i
+a_{i +j}
+i +j
+r .
+\sigma
+r .
+\sigma \in S_n
+\sigma =\sigma_1 \cdots \sigma_s .
+\sigma
+\sigma_i .
+m_j
+\sigma_j,
+M =lcm\{m_1, \ldots, m_s \} .
+\sigma^M =(\sigma_1 \cdots \sigma_s)^M =\sigma_1^M \cdots \sigma_s^M =1
+m_j
+M .
+\sigma
+M .
+N =| \sigma |,
+\sigma^N =(\sigma_1 \cdots \sigma_s)^N =\sigma_1^N \cdots \sigma_s^N =1,
+\sigma_1^{ -N} =\sigma_2^n \cdots \sigma_t^N .
+\sigma_j
+\sigma_1
+\sigma_2, \ldots, \sigma_s,
+N
+\sigma_1^{ -N} =1 =\sigma_1^N .
+m_1 \mid N .
+\sigma_j
+m_j \mid N
+j,
+M \mid N .
+| \sigma | =M .
+\sigma \in S_n
+\sigma =\sigma_1 \cdots \sigma_r,
+a_i
+\sigma_i .
+n .
+\sigma =\sigma_1 \cdots \sigma_r
+a_1 \ge \cdots \ge a_r \ge 1,
+r
+(a_1, \ldots, a_r)
+\sigma .
+\tau =(a_1 a_2 \cdots a_k)
+k
+\sigma,
+\sigma \tau \sigma^{ -1} =(\sigma (a_1)\sigma (a_2)\cdots \sigma (a_k)),
+k
+k
+\ell =\sigma (a_i)
+i .
+k,
+\sigma \tau \sigma^{ -1} =(\sigma (a_1)\sigma (a_2)\cdots \sigma (a_k)),
+\sigma \tau \sigma^{ -1}
+\ell
+\ell \not= \sigma (a_i)
+i .
+\sigma^{ -1} (\ell) \not= a_i
+i,
+\tau
+\sigma
+\ell .
+\sigma (a_i)
+\sigma \tau \sigma^{ -1},
+\tau, \tau ' \in S_n
+k .
+\sigma \in S_n
+\tau ' =\sigma \tau \sigma^{ -1} .
+k
+S_n
+\tau =(a_1 a_2 \cdots a_k)
+\mu =(b_1 b_2 \cdots b_k) .
+\sigma
+a_i \mapsto b_i
+S_n
+n .
+\sigma \in S_n
+\sigma
+\sigma =\sigma_1 \cdots \sigma_r \~with\~m_i =| \sigma_i | .
+m_1, \ldots, m_r
+n .
+\tau \sigma \tau^{ -1} =\tau \sigma \tau^{ -1} \cdots \tau \sigma_r \tau^{ -1},
+\tau \sigma_j \tau^{ -1}
+m_j,
+\tau \sigma \tau^{ -1}
+n .
+n,
+n,
+sgn \colon S_n \to \{ \pm 1\}
+\sigma \in S_n,
+\sigma
+\sigma =\sigma_1 \cdots \sigma_t .
+sgn(\sigma) =( -1)^{n -t} .
+sgn(1) =1 =( -1)^{n -n},
+sgn((ab)) =( -1)^{n -(n -1)} = -1.
+\sigma,
+sgn(\sigma)
+(a_1 a_2 \cdots a_r) =(a_1 a_r)\cdots (a_1 a_3)(a_1 a_2),
+\sigma =\tau_1 \cdots \tau_r,
+\tau_i
+sgn(\sigma) =( -1)^r .
+sgn \colon S_n \to \{ \pm 1\}
+n \ge 2.
+A_n .
+n \ge 2,
+A_n
+S_n .
+n \ge 3,
+n \ge 5,
+p(x) =x^7 +12x^3 +2x +6 \in \mathbb Z [x],
+p =2
+p
+\mathbb Q .
+p ?
+p
+\mathbb C
+\mathbb C
+\mathbb Q [x]
+x^2 -3 \in (\mathbb Z /5\mathbb Z)[x] .
+\mathbb Z /5\mathbb Z .
+K
+p \in K[x]
+(p)
+K[x]/(p)
+K
+p .
+K
+\mathbb Q
+p(x) =x^7 -10.
+p =2, 5
+\mathbb Q [x],
+\mathbb Q .
+\mathbb Q [x]/(x^7 -10)
+K .
+\sqrt[7]{10}
+\mathbb C .
+\varphi \colon \mathbb Q [x] \to \mathbb Q [\sqrt[7]{10}]
+\varphi (f(x)) =f(\sqrt[7]{10}),
+x^7 -10
+\varphi
+\mathbb Q [\sqrt[7]{10}]
+\mathbb C .
+(x^7 -10) \subseteq \ker \varphi,
+(x^7 -10)
+x^7 -10
+\mathbb Q [x]
+\varphi
+\ker \varphi =(x^7 -10) .
+\mathbb Q [x]/(x^7 -10) \cong \mathbb Q [\sqrt[7]{10}] .
+\mathbb Q [\sqrt[7]{10}]
+\varphi_\ast,
+\alpha =x +(x^7 -10) \in \mathbb Q [x]/(x^7 -10)
+\sqrt[7]{10} \in \mathbb Q [\sqrt[7]{10}] .
+\mathbb Q
+\mathbb Q [x]/(x^7 -10) .
+\mathbb Q \to \mathbb Q [x] \to \mathbb Q [x]/(x^7 -10)
+a \in \mathbb Q
+a +(x^7 -10) .
+10 \mapsto \~the\space coset\~10 +(x^7 -10) .
+\alpha^7 -10 \in \mathbb Q [x]/(x^7 -10),
+\alpha^7 -[10 +(x^7 -10)] ?
+I =(x^7 -10) .
+\alpha^7 -[10 +I] =[x +I]^7 -[10 +I] =[x^7 +I] -[10 +I] =[x^7 -10] +I =0 +I
+\alpha =x +I \in K =\mathbb Q [x]/I
+F
+p \in F[x]
+K \colon =F[x]/(p)
+F
+\alpha =x +(p(x))
+p,
+K
+K =F(\alpha)
+F
+\alpha .
+\mathbb Q (\sqrt{2})
+\mathbb Q (\sqrt[7]{10}),
+p(x) =x^7 +12x^3 +2x +6
+\mathbb Q [x],
+\mathbb Q (\alpha),
+\alpha
+p .
+\mathbb Q [\sqrt[7]{10}]
+\mathbb Q (\sqrt{2})
+F[\alpha]
+F
+\alpha
+F(\alpha)
+F
+\alpha
+\alpha
+F,
+F[\alpha] \cong F[x]/(p)
+(p)
+F[\alpha]
+F(\alpha),
+F
+\alpha .
+F[\alpha]
+a_0 +a_1 \alpha +\cdots +a_n \alpha^n
+n
+a_i \in F .
+1/\alpha
+F[\alpha]
+\alpha
+p
+F .
+F
+p \in F[x]
+d .
+F[x]/(p)
+F
+d
+\{\overline{1}, \overline{x}, \ldots, \overline{x}^{d -1} \} .
+\overline{x}^j =x^j +(p) .
+F[\alpha] \cong F[x]/(p),
+F[\alpha]
+a_0 +a_1 \alpha +\cdots +a_{d -1} \alpha^{d -1}
+a_i \in F .
+f(x) \in F[x]
+f(x) =p(x)q(x) +r(x)
+r =0
+\deg r \lt \deg p =d .
+f(x) +(p) =r(x) +(p) .
+\{\overline{1}, \overline{x}, \ldots, \overline{x}^{d -1} \}
+F[x]/(p)
+F .
+a_0 +a_1 \overline{x} +\cdots +a_{d -1} \overline{x}^{d -1} =\overline{0}\~in\~F[x]/(p) .
+a_0 +a_1 x +\cdots +a_{d -1} x^{d -1} \in (p) .
+\deg p =d,
+a_i =0.
+p
+p .
+G
+n
+p
+n .
+n =p^k n_0
+p \nmid n_0,
+k
+p^k \mid n .
+p
+H
+G
+p
+p
+G
+p
+p^k .
+G
+n =p^k n_0
+p
+p \nmid n_0 .
+G
+p^\ell
+1 \le \ell \le k .
+p
+p
+| G| .
+p
+G
+p
+G .
+p,
+P
+Q
+p
+G,
+g \in G
+P =gQg^{ -1} .
+n_p
+p
+G .
+n_p \equiv 1( modp)
+n_p \mid n_0 =| G|/p^k .
+p
+| G|,
+X
+p
+G .
+X
+G
+X
+P \in X,
+x \mapsto gxg^{ -1}
+gPg^{ -1}
+G
+P,
+X .
+P \in X
+p
+G \cdot P =X;
+G
+X .
+n_p
+p
+G,
+X .
+n_p =| X| =| G \cdot P| =[G \colon N_G (P)],
+P \le N_G (P) \le G
+n_0 =\frac{| G|}{| P|} =[G \colon P] =[G \colon N_G (P)][N_G (P) \colon P] =n_p [N_G (P) \colon P] .
+n_p \mid n_0,
+G
+G
+\{e\}
+p
+n_p =1
+p
+n_p =1
+P
+p
+g \in G,
+gPg^{ -1}
+p
+P =gPg^{ -1}
+g \in G,
+P \trianglelefteq G .
+P
+p
+Q
+p
+Q =gPg^{ -1}
+g \in G .
+P
+Q =P,
+n_p =1.
+G_1
+G_2,
+G_1 \times G_2,
+G
+H,
+K
+H
+K
+H \cap K =\{e\}
+G =HK( =KH)
+H \times K \to HK =G
+(h, k) \mapsto hk
+G
+H
+K .
+\varphi \colon H \times K \to G
+\varphi ((h, k)) =hk .
+\varphi
+hk =h'k' \iff (h')^{ -1} h =k'k^{ -1},
+H \cap K =\{e\},
+(h')^{ -1} h =k'k^{ -1} =e,
+(h, k) =(h', k') .
+\varphi
+\varphi ((h_1, k_1)(h_2, k_2)) & \lt mi/> =\varphi ((h_1 h_2, k_1 k_2)) =h_1 h_2 k_1 k_2 \\ \varphi ((h_1, k_1))\varphi ((h_2, k_2)) & \lt mi/> =h_1 k_1 h_2 k_2 .
+h_1 h_2 k_1 k_2 =h_1 k_1 h_2 k_2 \iff h_2 k_1 =k_1 h_2
+h_i \in H
+k_i \in K .
+HK =KH
+G
+hk =kh \iff h^{ -1} k^{ -1} hk =e,
+h^{ -1} k^{ -1} hk & \lt mi/> =(h^{ -1} k^{ -1} h)k \in K \\ h^{ -1} k^{ -1} hk & \lt mi/> =h^{ -1} (k^{ -1} hk) \in H
+H \cap K =\{e\},
+\varphi
+Z_n
+n,
+Z_n \cong \mathbb Z /n\mathbb Z .
+Z_m \times Z_n \cong Z_{mn} \~iff\~\gcd (m, n) =1.
+d =\gcd (m, n),
+\frac{mn}{d} =m\frac{n}{d} =n\frac{m}{d}
+Z_m \times Z_n
+mn/d .
+d >1,
+mn
+Z_m \times Z_n,
+d =1.
+x \in Z_m
+m
+y \in Z_n
+n,
+z =(x, y) \in Z_m \times Z_n .
+z =(x, y) =(x, e)(e, y) =(e, y)(x, e)
+z
+mn .
+z
+mn .
+\ell
+z .
+z^\ell =(x^\ell, y^\ell) =(e, e) .
+m
+x,
+m \mid \ell,
+n
+y,
+n \mid \ell .
+d =\gcd (m, n) =1
+mn \mid \ell .
+\ell =mn
+Z_m \times Z_n
+mn,
+Z_m \times Z_n \cong Z_{mn}
+p \lt q
+p \nmid (q -1) .
+pq
+G .
+H_p
+H_q
+p
+q
+G .
+H_p \cong Z_p
+H_q \cong Z_q .
+G
+H_p
+H_q .
+| H_p H_q | =pq,
+G =H_p H_q .
+[G \colon H_q] =p
+G,
+n_p =n_q =1.
+n_p \equiv 1( modp)\~and\~n_p \mid q, \~while\~n_q \equiv 1( modq)\~and\~n_q \mid p .
+n_q \mid p,
+n_q =1
+p .
+n_q =p,
+n_q =p \equiv 1( modq)
+q \mid (p -1) .
+p \lt q
+n_q =1
+H_q
+n_p =1
+q .
+n_p =q,
+n_p =q \equiv 1( modp),
+p \mid (q -1),
+G,
+G \cong H_p \times H_q \cong Z_p \times Z_q \cong Z_{pq}
+p \nmid (q -1)
+6 =2 \cdot 3 .
+2 \mid (3 -1)
+G =S_3,
+H_3
+n_2 =3,
+S_3 \not\cong H_2 \times H_3
+S_3
+G =\mathbb Z /6\mathbb Z,
+G \cong H_2 \times H_3 .
+q,
+2 \mid (q -1),
+2q
+2n
+n \ge 3.
+G
+H, K
+G =HK,
+H \cap K =\{e\}
+H
+K
+G
+H
+K .
+\varphi \colon H \times K \to G
+(h, k) \mapsto hk
+G
+n
+n =p_1^{e_1} \cdots p_r^{e_r} .
+H_i
+p_i
+G .
+G \cong H_1 \times \cdots \times H_r .
+r .
+G
+G
+r =1
+r =2
+r =3 .
+H \colon =H_1 H_2 \cong H_1 \times H_2 .
+H
+G
+H \cap H_3 =\{e\}
+G =HH_3 \cong H \times H_3 \cong H_1 \times H_2 \times H_3 .
+r \ge 4,
+H \colon =H_1 \cdots H_{r -1} \cong H_1 \times \cdots \times H_{r -1} .
+G =HH_r \cong H \times H_r
+p
+p
+G
+p^n
+p
+n \ge 1 .
+G \cong Z_{p^{a_1}} \times Z_{p^{a_2}} \times \cdots \times Z_{p^{a_r}}
+a_1 \ge a_2 \ge \cdots \ge a_r \ge 1
+\sum_{i =1}^r a_i =n .
+H \cong Z_{p^{b_1}} \times Z_{p^{b_2}} \times \cdots \times Z_{p^{b_s}}
+b_1 \ge b_2 \ge \cdots \ge b_s \ge 1
+\sum_{i =1}^s b_i =n,
+G \cong H
+r =s
+a_i =b_i
+1 \le i \le r .
+p^{a_i},
+G .
+a_1 \ge a_2 \ge \cdots \ge a_r \ge 1
+\sum_{i =1}^r a_i =n
+n .
+p(n),
+n .
+p(0) \colon =1; p(1) =1; p(2) =2; p(5) =7; p(10) =42, \ldots .
+p(20) & \lt mi/> =627 \\ p(40) & \lt mi/> =37338 \\ p(100) & \lt mi/> =190,569,292 \\ p(200) & \lt mi/> =3,972,999,029,388
+p(n) \sim \frac{e^{\kappa \sqrt{n}}}{4n\sqrt{3}}
+n \to \infty
+\kappa =\pi \sqrt{2/3},
+\prod_{m =1}^\infty (\frac{1}{1 -x^m}) =\sum_{n =0}^\infty p(n)x^n .
+p^5,
+p^5 .
+5 =4 +1 =3 +2 =3 +1 +1 =2 +2 +1 =2 +1 +1 +1 =1 +1 +1 +1 +1
+p(5) =7,
+p^a
+G
+\~ & Z_{p^5} \\ \~ & Z_{p^4} \times Z_p \\ \~ & Z_{p^3} \times Z_{p^2} \\ \~ & Z_{p^3} \times Z_p \times Z_p \\ \~ & Z_{p^2} \times Z_{p^2} \times Z_p \\ \~ & Z_{p^2} \times Z_p \times Z_p \times Z_p \\ \~ & Z_p \times Z_p \times Z_p \times Z_p \times Z_p .
+Z_{n_1} \times Z_{n_2} \times \cdots \times Z_{n_r}
+n_1 \mid n_2 \mid \cdots \mid n_r \ge 2 .
+| G| =n_1 n_2 \cdots n_r .
+n_i
+G .
+p
+Z_{20} \times Z_{300} & \lt mi/> \cong (Z_4 \times Z_5) \times (Z_4 \times Z_3 \times Z_{25}) \\ \~ & \lt mi/> \cong (Z_4 \times Z_4) \times Z_3 \times (Z_5 \times Z_{25}) \\ \~ & \lt mi/> \cong H_2 \times H_3 \times H_5 \~(Sylow\space subgroups)\~
+(Z_p \times Z_{p^2} \times Z_{p^3}) \times (Z_q \times Z_{q^5}) & \lt mi/> \cong (Z_p) \times (Z_{p^2} \times Z_q) \times (Z_{p^3} \times Z_{q^5}) \\ \~ & \lt mi/> \cong Z_p \times Z_{p^2 q} \times Z_{p^3 q^5} =Z_{n_1} \times Z_{n_2} \times Z_{n_3} .
+G \cong Z_{n_1} \times Z_{n_2} \times \cdots \times Z_{n_r}
+n_1 \mid n_2 \mid \cdots \mid n_r \ge 2,
+n =n_1 \cdots n_r
+n .
+n_r .
+6125 =5^3 \cdot 7^2 .
+G
+G \cong H_5 \times H_7
+| H_5 | =5^3
+| H_7 | =7^2 .
+Partitions\space of\space 3\colon \~ & 3 =2 +1 =1 +1 +1 \\ Partitions\space of\space 2\colon \~ & 2 =1 +1
+H_5 \cong Z_{5^3} & \~or\~Z_{5^2} \times Z_5, \~or\~Z_5 \times Z_5 \times Z_5 \\ H_7 \cong Z_{7^2} & \~or\~Z_7 \times Z_7 .
+\~ & \mathbb Z_{5^3} \times \mathbb Z_{7^2} & \~ & \mathbb Z_{6125} \\ \~ & \mathbb Z_{5^3} \times \mathbb Z_7 \times \mathbb Z_7 & \~ & \mathbb Z_7 \times \mathbb Z_{875} \\ \~ & \mathbb Z_5 \times \mathbb Z_{5^2} \times \mathbb Z_{7^2} & \~ & \mathbb Z_5 \times \mathbb Z_{1225} \\ \~ & \mathbb Z_5 \times \mathbb Z_{5^2} \times \mathbb Z_7 \times \mathbb Z_7 & \~ & \mathbb Z_{35} \times \mathbb Z_{175} \\ \~ & \mathbb Z_5 \times \mathbb Z_5 \times \mathbb Z_5 \times \mathbb Z_{7^2} & \~ & \mathbb Z_5 \times \mathbb Z_5 \times \mathbb Z_{245} \\ \~ & \mathbb Z_5 \times \mathbb Z_5 \times \mathbb Z_5 \times \mathbb Z_7 \times \mathbb Z_7 & \~ & \mathbb Z_5 \times \mathbb Z_{35} \times \mathbb Z_{35} \\ \~ & elementary\space divisors & \~ & invariant\space factors
+G =Z_{25} \times Z_{245}
+R, S
+\varphi \colon R \to S
+\ker \varphi \colon =\{r \in R \mid \varphi (r) =0\},
+R .
+\varphi \colon R \to S
+I \subseteq \ker \varphi,
+\varphi_\ast \colon R/I \to S
+\varphi_\ast \circ \pi =\varphi .
+\pi \colon R \to R/I
+R/\ker \varphi \cong Im\varphi .
+R, S
+\varphi \colon R \to S
+\varphi (1_R)
+S,
+\varphi (1_R) =1_S
+S .
+s \colon =\varphi (1_R) =\varphi (1_R \cdot 1_R) =\varphi (1_R)\varphi (1_R) =s^2
+\varphi (1_R)
+\varphi (1_R)(\varphi (1_R) -1_S) =0
+S
+\varphi (1_R) =1_S .
+A
+A[x]
+x
+A .
+a \in A .
+p \in A[x]
+p(x) =c_0 +c_1 (x -a) +\cdots +c_n (x -a)^n
+c_i \in A .
+A[x]/(x -a) \cong A
+p(x) =b_0 +b_1 x +\cdots +b_n x^n
+q(x) =p(x +a) .
+q(x)
+q(x) =c_0 +c_1 x +\cdots +c_n x^n,
+c_i \in A .
+p(x) =q(x -a) =c_0 +c_1 (x -a) +\cdots +c_n (x -a)^n .
+ev_a \colon A[x] \to A
+p(x) \mapsto p(a) .
+ev_a
+p \in A[x]
+p
+p(x) =c_0 +c_1 (x -a) +\cdots +c_n (x -a)^n .
+ev_a (p) =0 \iff p(a) =0 \iff c_0 =0 .
+\ker ev_a =(x -a),
+S, T
+R,
+(S)
+(T) .
+(S) =(T) \iff S \subseteq (T)\~and\~T \subseteq (S),
+(S) \subseteq (T)
+S \subset (T) .
+f(x) =x -3
+g(x) =(x -3)(x -5) +7
+\mathbb Z [x] .
+I =(f, g)
+\mathbb Z [x]
+\mathbb Q [x] .
+\mathbb Z [x]
+\mathbb Q [x]
+I =(f, g) =(f, 7) .
+f, g \in (f, 7)
+f, 7 \in (f, g) .
+g =f(x -5) +7 \in (f, 7)
+7 =g -f(x -5) \in (f, g)
+I =(x -3, 7) .
+7 \in \mathbb Q^\times =\mathbb Q [x]^\times,
+\mathbb Q [x],
+I =\mathbb Q [x] .
+\mathbb Z [x],
+I
+\mathbb Z [x]/I =\mathbb Z [x]/(x -3, 7) \cong \mathbb Z /7\mathbb Z .
+h \cdot 7 +h' \cdot (x -3)
+h, h' \in \mathbb Z [x] .
+\mathbb Z
+I =n\mathbb Z =(n)
+n \in \mathbb Z .
+I
+\mathbb Z,
+I =n\mathbb Z
+\mathbb Z .
+n \in \mathbb Z .
+I =(n, x)
+\mathbb Z [x]
+n \not= \pm 1.
+n = \pm 1,
+I
+\mathbb Z [x],
+I =\mathbb Z [x] .
+n \not= \pm 1
+1 \notin I .
+1 =f \cdot n +g \cdot x
+f, g \in \mathbb Z [x] .
+g \cdot x
+f \cdot n +g \cdot x
+g,
+a_0
+f,
+1 =f \cdot n +g \cdot x,
+1 =a_0 \cdot n .
+a_0, n
+\mathbb Z [x]^\times =\mathbb Z^\times =\{ \pm 1\}
+I, J
+R
+I +J,
+IJ,
+I \cap J
+R
+P
+R .
+P
+P
+a, b \in R,
+ab \in P,
+a \in P
+b \in P .
+P
+P
+I, J \subset R,
+IJ \subseteq P
+I \subseteq P
+J \subseteq P .
+R
+M
+R .
+M
+M
+I
+R
+M \subseteq I \subseteq R,
+I =M
+R .
+R
+I, J
+R
+I +J =R .
+M_1 \not= M_2
+R
+M_i \subsetneq M_1 +M_2 \subseteq R
+M_i
+M_1 +M_2 =R .
+I =(x -2),
+J =(x +2)
+R[x]
+R =\mathbb Z
+\mathbb Q .
+I, J
+\mathbb Q [x],
+\mathbb Z [x] .
+4 \in I +J .
+\mathbb Q [x],
+I +J =\mathbb Q [x] .
+\mathbb Z [x],
+I +J
+R
+I, J
+R .
+(I +J)(I \cap J) \subseteq IJ \subseteq I \cap J
+IJ \subset I \cap J
+I, J
+R .
+i \in I, j \in J, k \in I \cap J .
+(i +j)k \in IJ .
+ik \in IJ
+k \in J,
+jk \in JI
+k \in I,
+IJ =JI
+R
+I, J
+IJ =I \cap J
+I +J +R,
+I \cap J \subseteq IJ \subseteq I \cap J .
+R
+I, J
+R/IJ =R/(I \cap J) \cong R/I \times R/J .
+IJ =I \cap J .
+R \to R/I \times R/J\~given\space by\~r \mapsto (r +I, r +J) .
+I \cap J .
+I, J
+I +J =R,
+i \in I,
+j \in J
+i +j =1.
+(a +I, b +J)
+r =bi +aj .
+r +I =a +I\~and\~r +J =b +J .
+r +I =a +I \iff r -a \in I \iff (bi +aj) -a \in I \iff a(j -1) \in I
+i +j =1,
+(j -1) =i \in I .
+b +J .
+m, n
+\mathbb Z,
+m\mathbb Z +n\mathbb Z =\mathbb Z,
+\mathbb Z /mn\mathbb Z \cong \mathbb Z /m\mathbb Z \times \mathbb Z /n\mathbb Z
+\mathbb Q [x]/(x^2 -4) \cong \mathbb Q [x]/(x -2) \times \mathbb Q [x]/(x +2) \cong \mathbb Q \times \mathbb Q .
+R
+P,
+M
+R .
+P
+R/P
+M
+R/M
+(0)
+(0)
+n \not= 0,
+n\mathbb Z
+\mathbb Z
+n\mathbb Z
+\mathbb Z
+n\mathbb Z =p\mathbb Z
+p
+(x)
+R[x]
+R
+(x)
+R[x]
+R
+R
+a \in R .
+R \to R/(a)
+R[x] \to R/(a)[x]
+f(x) \in R[x]
+\overline{f}(x) \in R/(a)[x]
+f
+R/(a),
+R
+a \in R,
+f(x) \in R[x] .
+R[x]/(f(x), a) \cong (R/(a))[x]/(\overline{f}(x)) .
+f(x) =x -3
+g(x) =(x -3)(x -5) +7
+\mathbb Z [x] .
+I =(f, g)
+\mathbb Z [x] .
+I =(f, g) =(f, 7) .
+\mathbb Z [x]/I =\mathbb Z [x]/(f(x), 7) \cong (\mathbb Z /7\mathbb Z)[x]/(\overline{f}(x)) =(\mathbb Z /7\mathbb Z)[x]/(x -\overline{3}) \cong \mathbb Z /7\mathbb Z
+\mathbb Z [x]/I
+I
+\mathbb Z [x] .
+\varphi \colon
+R[x] \to (R/(a))[x] \to (R/(a))[x]/(\overline{f}(x)) .
+(a, f)
+a, f
+(a, f) \subseteq \ker \varphi .
+g(x) =b_0 +\cdots +b_n x^n \in R[x] .
+g \in \ker \varphi
+\overline{g} \in (\overline{f}(x)) .
+f(x) =c_0 +\cdots +c_m x^m \in R[x],
+\overline{g}(x) =\overline{f}(x) \cdot \overline{h}(x),
+\overline{h}(x) =\overline{a}_0 +\cdots +\overline{a}_d x^d .
+x^j
+\overline{g}
+\overline{b}_j =\sum_{k =0}^j \overline{c}_k \overline{a}_{j -k},
+R/(a),
+b_j +aR =\sum_{k =0}^j c_k a_{j -k} +aR
+h(x) =a_0 +\cdots +a_d x^d \in R[x]
+b_j -\sum_{k =0}^j c_k a_{j -k}
+j
+f -gh
+aR .
+g -fh =\sum_{j =0}^n [b_j -\sum_{k =0}^j c_k a_{j -k}]x^j \in aR[x],
+g \in (a, f) \subseteq R[x] .
+R
+p, q \in R[x] \setminus \{0\} .
+\deg (pq) =\deg (p) +\deg (q) .
+R[x]^\times =R^\times .
+R[x]
+R
+R[x_1, \ldots, x_n] .
+R[x_1, \ldots, x_n],
+n
+R
+S[x_n],
+S =R[x_1, \ldots, x_{n -1}] .
+n
+R[x, y]
+x^i y^j
+a_{ij} \in R \colon
+p(x, y) =\sum_{i, j} a_{ij} x^i y^j .
+p \in R[x, y]
+(R[x])[y],
+p(x, y) =\sum_{i, j} a_{ij} x^i y^j =\sum_k \phi_k (x)y^k =\phi_0 (x) +\phi_1 (x)y +\cdots +\phi_n (x)y^n,
+\phi_k (x) \in R[x] .
+\mathbb Z [x, y] \colon
+\mathbb Z [x, y] \colon & 2 +7y +4xy +3x^5 y \\ \mathbb Z [x][y] \colon & 2 +(7 +4x +3x^5)y \\ \mathbb Z [y][x] \colon & (2 +7y) +(4y)x +(3y)x^5
+y .
+\mathbb Q [x],
+x^2 -4
+x^2 +4
+x^2 +4y -y^2 -1
+\mathbb Q [x, y],
+x^2 -4
+\mathbb Q [y][x]
+x^2 -(y -1)^2 =(x -(y -1))(x +(y -1)) .
+a, b
+R
+a =ubv
+u, v
+R .
+a =bv .
+R
+I, J
+R
+I +J =R .
+X
+X
+R \subseteq X \times X,
+(x, y) \in R,
+x \sim y
+x
+y .
+X
+x \sim x
+(x, x) \in R
+x \in X .
+x \sim y,
+y \sim x,
+(x, y) \in R,
+(y, x) \in R .
+x \sim y
+y \sim z,
+x \sim z,
+(x, y), (y, z) \in R,
+(x, z) .
+R
+d \colon R \setminus \{0\} \to \mathbb Z_{ \ge 0}
+a, b \in R
+b \not= 0,
+q, r \in R
+a =bq +r,
+r =0
+d(r) \lt d(b) .
+G
+x \in G .
+n
+x^n =e
+n
+x^n =e
+x \in G,
+n
+G
+\ast
+G
+a, b \in G
+a \ast b \in G .
+\ast
+e \in G,
+e \ast g =g \ast e =g
+g \in G .
+g \in G,
+h \in G
+g \ast h =h \ast g =e .
+g
+g^{ -1} .
+R
+a, b \in R,
+a, b
+d \in R
+d \mid a
+d \mid b
+d
+d' \mid a
+d' \mid b,
+d' \mid d,
+d,
+d
+R
+I \subseteq R
+I
+R,
+R \cdot I \subseteq I
+I \cdot R \subset I .
+R/I
+R
+s \in R
+s^2 =s .
+f \colon X \to Y
+X
+Y
+x, x' \in X,
+f(x) =f(x')
+x =x' .
+F
+z =a +bi \in \mathbb C
+a, b \in \mathbb R
+i^2 = -1
+z,
+\overline{z} =a -bi .
+z \in \mathbb R,
+z =a =a +0i \in \mathbb C,
+z =\overline{z} .
+absolutevalue
+z =a +bi
+| z| =\sqrt{a^2 +b^2} .
+V
+F .
+\langle \cdot, \cdot \rangle \colon V \times V \to F
+u, v, w \in V
+\lambda \in F \colon
+\langle u +v, w \rangle = \langle u, w \rangle + \langle v, w \rangle
+\langle \lambda v, w \rangle =\lambda \langle v, w \rangle
+\overline{ \langle v, w \rangle} = \langle w, v \rangle,
+\langle v, v \rangle
+v \not= 0.
+V
+F =\mathbb R
+\mathbb C
+F =\mathbb R,
+V
+F =\mathbb C,
+V
+R
+\pi \in R
+\pi \not= 0,
+\pi \notin R^\times,
+\pi =ab,
+a
+b
+R .
+\delta_{ij} =\{1 & if\~i =j \\ 0 & otherwise. \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+R
+M
+R .
+M
+M
+I
+R
+M \subseteq I \subseteq R,
+I =M
+R .
+G
+H
+G .
+H
+G .
+gHg^{ -1} =H
+g \in G
+gH =Hg
+g \in G
+gHg^{ -1} \subseteq H
+g \in G
+G
+H
+G .
+H
+G
+N_G (H) =\{g \in G \mid gHg^{ -1} =H\} .
+K
+G
+N_G (K) =G .
+X
+X
+P =\{X_i \mid i \in I\}
+X =\bigcup_{i \in I} X_i,
+X_i \cap X_j =\varnothing
+i \not= j .
+R
+\pi \in R
+\pi \not= 0,
+\pi \notin R^\times,
+a, b \in R
+\pi \mid ab,
+\pi \mid a
+\pi \mid b .
+R
+P
+R .
+P
+P
+a, b \in R,
+ab \in P,
+a \in P
+b \in P .
+P
+P
+I, J \subset R,
+IJ \subseteq P
+I \subseteq P
+J \subseteq P .
+R
+p(x) =a_0 +a_1 x +\cdots +a_n x^n \in R[x] .
+p
+\gcd (a_1, \ldots, a_n) =1,
+p \in R[x]
+p =c(p)p_0
+p_0
+c(p) \in R
+p .
+R
++,
+\times
+(R, +)
+\times
+(a +b) \times c =(a \times c) +(b \times c)
+a \times (b +c) =(a \times b) +(a \times c)
+\times
+R
+1 \in R
+1 \times r =r \times 1 =r
+r \in R .
+rs
+r \times s .
+r \in R,
+-r
+r^{ -1}
+R^\times
+R
+H
+G
+G
+x, y \in H,
+xy^{ -1} \in H .
+H \le G
+H \lt G
+f \colon X \to Y
+X
+Y
+y \in Y,
+x \in X
+f(x) =y .
+R
+u \in R
+R,
+v \in R,
+uv =vu =1.
+V
+F,
++,
+u, v, w \in V,
+\lambda, \mu \in F
+u +v \in V
+u +v =v +u
+(u +v) +w =u +(v +w)
+\mathbf 0 \in V
+\mathbf 0 +u =u .
+u \in V,
+-u \in V
+u + -u =\mathbf 0 .
+\lambda u \in V .
+\lambda (u +v) =\lambda u +\lambda v
+(\lambda +\mu)v =\lambda v +\mu v
+(\lambda \mu)v =\lambda (\mu v)
+V
+1 \in F
+1v =v .
+a
+R
+b \in R
+ab =0
+ba =0 .
+H
+G
+F
+G =GL_n (F),
+n \times n
+F
+R =M_n (F)
+n \times n
+F,
+G =R^\times,
+R .
+K =SL_n (F),
+K
+G,
+K
+K
+g \in G
+k \in K .
+gkg^{ -1} \in K,
+\det (gkg^{ -1}) =\det (g)\det (k)\det (g)^{ -1} =\det (k) =1
+gkg^{ -1} \in K .
+\deg (g^{ -1}) =\det (g)^{ -1},
+\det g, \det k
+F,
+K
+\varphi \colon GL_n (F) \to F^\times
+\varphi (g) =\det g .
+K
+GL_n (F)/SL_n (F)
+K =SL_n (F)
+G =GL_n (F),
+gKg'K =g'KgK
+gKg'K =g'KgK \iff gg'K =g'gK \iff g^{ -1} g^{ ' -1} gg' \in K
+G/K
+\varphi \colon GL_n (F) \to F^\times
+\varphi (g) =\det g .
+\varphi
+\alpha \in F^\times,
+\varphi
+diag(\alpha, 1, \ldots, 1)
+\alpha .
+GL_n (F)/SL_n (F) \cong F^\times
+H, K
+G,
+H \subseteq N_G (K)
+K \trianglelefteq G) .
+HK \le G,
+K \trianglelefteq HK
+HK/K \cong H/(H \cap K) .
+H \subseteq N_G (K)
+HK
+G,
+K \trianglelefteq HK .
+\varphi \colon H \to HK/K
+H \to HK\~via\~h \mapsto h \cdot 1 \in HK
+HK \to HK/K\~via\~hk \mapsto hkK,
+\varphi (h) =hK .
+hkK =hK,
+\varphi
+\varphi (h) =hK =K
+h \in H \cap K,
+H, K
+HK .
+F
+G =GL_n (F),
+K =SL_n (F),
+H =D_n (F)
+G .
+K
+G .
+H =D_n (F)
+G .
+A
+P
+P^{ -1} AP =D
+PDP^{ -1} =A
+\begin{bmatrix} 2 & 1 \\ 1 & 1 \end{bmatrix} \begin{bmatrix} 1 & 0 \\ 0 & 2 \end{bmatrix} \begin{bmatrix} 2 & 1 \\ 1 & 1 \end{bmatrix}^{ -1} = \begin{bmatrix} 0 & 2 \\ -1 & 3 \end{bmatrix} .
+G =HK .
+A \in G =GL_n (F),
+\alpha =\det A \in F^\times .
+diag(\alpha^{ -1}, 1, \ldots, 1)A \in SL_n (F),
+G =GL_n (F) \subseteq HK,
+HK \subseteq G,
+H, K .
+K \trianglelefteq G,
+GL_n (F)/SL_n (F) =HK/K \cong H/(H \cap K) \cong F^\times .
+H .
+G
+H, K,
+H \le K .
+K/H \trianglelefteq G/H,
+(G/H)/(K/H) \cong G/K .
+H, K
+G,
+H \trianglelefteq K,
+G/H,
+G/K,
+K/H
+\pi \colon G \to G/K
+G/H,
+\pi_\ast \colon G/H \to G/K
+\pi_\ast (gH) =gK .
+\ker \pi_\ast =\{gH \in G/H \mid gK =K\} =\{gH \in G/H \mid g \in K\} =K/H .
+G =\mathbb Z,
+m, n,
+K =m\mathbb Z
+H =mn\mathbb Z .
+(\mathbb Z /mn\mathbb Z)/(m\mathbb Z /mn\mathbb Z) \cong \mathbb Z /m\mathbb Z .
+\varphi \colon G \to G'
+G, G'
+K .
+G'
+G
+K .
+H' & \lt mi/> \le G' \mapsto \varphi^{ -1} (H') =\{g \in G \mid \varphi (g) \in H'\} \le G, \\ H & \lt mi/> \le G \mapsto \varphi (H) .
+H \le G,
+\varphi^{ -1} (\varphi (H)) =HK,
+K \le H,
+HK =H .
+\mathbb Z /24\mathbb Z ?
+\varphi \colon \mathbb Z \to \mathbb Z /24\mathbb Z,
+\mathbb Z /24\mathbb Z
+\mathbb Z
+24\mathbb Z
+\mathbb Z
+n\mathbb Z
+n,
+n\mathbb Z \supseteq 24\mathbb Z
+n \mid 24 .
+\mathbb Z
+24\mathbb Z
+d\mathbb Z \~for\~d =1, 2, 3, 4, 6, 8, 12, 24,
+d
+\mathbb Z /24\mathbb Z
+d\mathbb Z /24\mathbb Z .
+T \colon V \to W
+F
+v, v' \in V
+\lambda \in F,
+T(v +v') =T(v) +T(v')\~and\~T(\lambda v) =\lambda T(v),
+V
+W .
+\varphi \colon G \to H
+G, H
+g, g' \in G,
+\varphi (g \ast g') =\varphi (g) \ast \varphi (g')
+G
+H .
+\varphi \colon R \to S
+R, S
+r, r' \in R
+\varphi (r +r') =\varphi (r) +\varphi (r')\~and\~\varphi (r \ast r') =\varphi (r) \ast \varphi (r'),
+R
+S .
+\varphi \colon X \to Y
+X
+Y,
+\varphi \colon X \to Y
+\psi \colon Y \to X,
+\varphi \circ \psi =id_Y
+\psi \circ \varphi =id_X .
+\varphi
+\varphi \colon X \to Y
+\psi,
+\varphi \colon [0, 1) \to S^1 =\{z \in \mathbb C \mid | z| =1\}
+\varphi (x) =e^{2\pi ix} .
+X
+Y
+X/Y
+\varphi \colon X \to Y
+X/\ker \varphi \cong Im\varphi
+\ker \varphi,
+X/\ker \varphi
+W
+V,
+V/W
+H
+G
+G/H
+S
+R
+R/S
+G,
+H,
+x \in G,
+xH
+Hx
+R
+I
+R/I .
+x +I
+I +x
+G
+H
+x \in G .
+xH & \lt mi/> =\{y \in G \mid y =xh\~for\space some\~h \in H\} =\{xh \mid h \in H\} \\ x +H & \lt mi/> =\{y \in G \mid y =x +h\~for\space some\~h \in H\} =\{x +h \mid h \in H\}
+G/H =\{xH \mid x \in G\}\~or\~\{x +H \mid x \in G\}
+G,
+G .
+e,
+H,
+x \in G
+xH
+x =xe \in xH .
+G =\bigcup_{x \in G} xH,
+H
+G
+xH
+yH .
+z \in xH \cap yH .
+xH =yH
+xH \subseteq yH
+yH \subseteq xH .
+xH \subseteq yH .
+z \in xH \cap yH
+z =xh_1 =yh_2 \~for\space some\~h_1, h_2 \in H,
+x =yh_2 h_1^{ -1} \in yH,
+xh \in xH
+xh =yh_2 h_1^{ -1} h \in yH
+xH \subseteq yH .
+G =\bigcup_{x \in G} xH
+\{xH \mid x \in G\} .
+G =S_3,
+\{1, 2, 3\} .
+H =\{e, (12)\}
+(12) .
+G/H =\{H, (13)H, (23)H\} =\{H, (123)H, (132)H\}
+H =(12)H, (13)H =(123)H, \~and\~(23)H =(132)H .
+G
+\mathcal P_L =\{P_1 =\{1, (12)\}, P_2 =\{(13), (123)\}, P_3 =\{(23), (132)\},
+P_i
+H
+G
+H \setminus G =\{H, H(13), H(23)\} =\{H, H(132), H(123)\}
+G
+\mathcal P_R =\{Q_1 =\{1, (12)\}, Q_2 =\{(13), (132)\}, Q_3 =\{(23), (123)\} .
+G
+H
+xH
+yH
+y^{ -1} x \in H
+x =yh
+h \in H
+x^{ -1} y \in H
+y =xh
+h \in H
+xH =yH .
+xH =yH,
+xH \cap yH \not= \varnothing .
+x \in yH
+y \in xH
+x +H
+y +H
+-y +x \in H
+x =y +h
+h \in H
+-x +y \in H
+y =x +h
+h \in H
+G
+H .
+H
+G .
+G
+H
+G .
+H
+G .
+gHg^{ -1} =H
+g \in G
+gH =Hg
+g \in G
+gHg^{ -1} \subseteq H
+g \in G
+gHg^{ -1} \subseteq H
+g \in G
+gHg^{ -1} =H
+g \in G .
+g \in G
+gHg^{ -1} \subseteq H;
+H \subseteq gHg^{ -1} .
+xHx^{ -1} \subseteq H
+x \in G,
+x =g^{ -1} .
+g^{ -1} Hg \subseteq H\~which\space implies\~H \subseteq gHg^{ -1},
+G/H =\{xH \mid x \in G\} .
+xH \cdot yH =zH
+z \in G .
+xH \cdot yH =xyH,
+G =S_3
+H =\{e, (12)\} .
+H =eH =(12)H, (13)H =(123)H, \~and\~(23)H =(132)H .
+(12)H \cdot (13)H =eH \cdot (123)H,
+(12)H \cdot (13)H =(132)H\~while\~eH \cdot (123)H =(123)H
+V
+W,
+V
+W
+V/W =\{v +W \mid v \in V\}
+(v +W) +(v' +W) =(v +v') +W .
+V/W
+\lambda (v +W) =\lambda v +W,
+R
+S,
+R/S =\{r +S \mid r \in R\}
+R/S
+S
+R
+R/S =\{r +S \mid r \in R\} .
+(r +S) \cdot (r' +S) =rr' +S,
+s, t \in S,
+(r +s +S) \cdot (r' +t +S) =rr' +S,
+rr' +rt +sr' +st +S =rr' +S .
+S
+st \in S,
+rt +sr' \in S
+s, t \in S .
+S
+R,
+R,
+R \cdot S \subseteq S\~and\~S \cdot R \subseteq S .
+G
+G
+H
+G/H ?
+\mathbb Z .
+n >1
+-1,
+n \lt -1 ?
+\mathbb Z
+\mathbb Z
+p \ge 2
+\pm 1,
+R,
+6 =2 \cdot 3 =3 \cdot 2 \cdot 1 =( -2) \cdot ( -3) .
+\mathbb Z,
+\mathbb Q [x],
+f(x) =2x
+2x =2 \cdot x =(2/3) \cdot (3x) =\cdots .
+\mathbb Z [x],
+2x
+f(x) =2x =2 \cdot x
+x
+\mathbb Z [x] .
+a
+R
+a
+a =a_1 b_1
+a_1, b_1
+a_1
+a_1
+a_1 =a_2 b_2
+R .
+b
+a
+b \mid a
+c \in R
+a =bc,
+b
+a .
+b \mid a,
+bu
+u
+a =bc =(bu)(u^{ -1} c) .
+b \mid a
+(a) \subseteq (b),
+(b) =(b')
+b
+b'
+a
+a =a_1 b_1,
+a_1
+a_1 =a_2 b_2
+a_2, b_2
+(a) \subsetneq (a_1) \subsetneq (a_2) \subsetneq \cdots .
+R
+R
+I_1 \subseteq I_2 \subseteq I_3 \subseteq \cdots
+R,
+r \ge 1
+I_r =I_{r +1} =I_{r +2} =\cdots .
+I \subseteq R
+R
+R
+a =\pi_1 a_1
+\pi_1
+a_1
+a_1 =\pi_2 a_2
+\pi_2
+a_2
+a_3 =\pi_3 a_3 .
+(a) \subsetneq (a_1) \subsetneq (a_2) \subsetneq \cdots
+a_{r -1} =\pi_r a_r
+\pi_r
+a_r
+\mathbb Z [\sqrt{ -5}] =\{a +b\sqrt{ -5} \mid a, b \in \mathbb Z \}
+\mathbb Z .
+\mathbb Z
+\mathbb Z [\sqrt{ -5}]
+\mathbb Z
+\mathbb Z [\sqrt{ -5}] .
+R =\mathbb Z [\sqrt{ -5}]
+\mathbb Z
+\mathbb Z [x] .
+R
+\mathbb Z [x]
+x \mapsto \sqrt{ -5} .
+\mathbb C .
+6 =2 \cdot 3 =(1 +\sqrt{ -5})(1 -\sqrt{ -5})
+2, 3, 1 \pm \sqrt{ -5}
+N \colon \mathbb Z [\sqrt{ -5}] \to \mathbb Z
+N(a +b\sqrt{ -5}) =(a +b\sqrt{ -5})(a -b\sqrt{ -5}) =a^2 +5b^2 .
+N(\alpha) =\alpha \overline{\alpha},
+N(\alpha \beta) =N(\alpha)N(\beta)
+\alpha, \beta \in R =\mathbb Z [\sqrt{ -5}] .
+\alpha
+\mathbb Z [\sqrt{ -5}]
+N(\alpha) = \pm 1
++1
+a^2 +5b^2 \ge 0
+a, b
+\mathbb Z [\sqrt{ -5}] =\{ \pm 1\},
+2, 3, 1 \pm \sqrt{ -5}
+\mathbb Z [\sqrt{ -5}] .
+2 =\alpha \beta
+\alpha, \beta
+4 =N(2) =N(\alpha)N(\beta),
+\mathbb Z
+N(\alpha) =1, 2,
+N(\alpha) =1
+\alpha
+N(\alpha) =4
+\beta
+N(\alpha) =N(\beta) =2.
+a^2 +5b^2 =2
+a, b \in \mathbb Z,
+\alpha
+\beta
+2
+\mathbb Z [\sqrt{ -5}] .
+\mathbb Z [\sqrt{ -5}]
+6 =2 \cdot 3 =(1 +\sqrt{ -5})(1 -\sqrt{ -5})
+2, 3, 1 \pm \sqrt{ -5}
+2 \mid (1 +\sqrt{ -5})(1 -\sqrt{ -5}) .
+2
+1 +\sqrt{ -5}
+\pi_1 \mid \pi_2
+\pi_i
+\pm 1,
+\mathbb Z [\sqrt{ -5}] .
+R
+R
+R
+a =\pi_1 \cdots \pi_r =\pi_1^' \cdots \pi_s^'
+a
+r =s,
+\pi_j
+\pi_j^'
+j =1, \ldots, r .
+\mathbb Z,
+r .
+r =1,
+s =1
+\pi_1 =\pi_1^' .
+r \ge 2,
+\pi_1 \mid a,
+\pi_1 \mid \pi_1^' \cdots \pi_s^' .
+\pi_1
+\pi_1 \mid \pi_1^' .
+\pi_1 \cdots \pi_r =\pi_1^' \cdots \pi_s^' =\pi_1 \pi_2^'' \pi_3^' \cdots \pi_s^',
+\pi_2^''
+\pi_2^' .
+\pi_2 \cdots \pi_r =\pi_2^'' \pi_3^' \cdots \pi_s^',
+G
+H
+G .
+| G| =[G \colon H] \cdot | H|,
+[G \colon H]
+G/H .
+H
+G
+G .
+G/H =\{g_k H \mid k =1, \ldots, r\},
+r =[G \colon H] .
+G
+G =\bigcup_{k =1}^r g_k H\~but\space also\~| G| =\sum_{k =1}^r | g_k H| .
+| H|,
+| G| =\sum_{k =1}^r | H| =r| H| =[G \colon H]| H| .
+x \in G
+H = \langle x \rangle
+H, K
+G .
+HK =\{hk \mid h \in H, k \in K\}
+| HK| =\frac{| H|| K|}{| H \cap K|} .
+HK
+G,
+HK
+HK =\{hk \mid h \in H, k \in K\} =\bigcup_{h \in H} hK .
+hK
+K,
+| HK| =| K| \cdot number\space of\space distinct\space cosets .
+h_1, h_2 \in H,
+h_1 K =h_2 K \iff h_2^{ -1} h_1 \in K \iff h_2^{ -1} h_1 \in H \cap K \iff h_1 H \cap K =h_2 H \cap K .
+\{hK \mid h \in H\}
+\{h(H \cap K) \mid h \in H\} .
+H
+H \cap K
+H \cap K
+H
+| H/H \cap K| =| H|/| H \cap K| .
+| HK| =| K| \cdot number\space of\space distinct\space cosets =| K|\frac{| H|}{| H \cap K|} .
+HK
+G
+G
+S_3,
+H = \langle (12) \rangle
+K = \langle (23) \rangle
+H \cap K =\{1\},
+| HK| =\frac{2 \cdot 2}{1} =4.
+4 \nmid 6,
+HK
+G .
+G =S_3,
+H = \langle (12) \rangle
+K = \langle (123) \rangle,
+H
+K
+| H \cap K| =1
+| H \cap K|
+| H| =2
+| K| =3,
+HK
+HK =G .
+HK
+R
+d \colon R \setminus \{0\} \to \mathbb Z_{ \ge 0}
+a, b \in R
+b \not= 0,
+q, r \in R
+a =bq +r,
+r =0
+d(r) \lt d(b) .
+\mathbb Z
+d(a) =| a|
+k
+k[x]
+d
+R
+R
+R
+R
+\pi \in R
+\pi
+\pi =ab .
+\pi \mid ab
+\pi
+a
+b,
+a =\pi a_0 .
+\pi =ab =\pi a_0 b,
+\pi (a_0 b -1) =0.
+R
+\pi \not= 0,
+a_0 b =1
+b \in R^\times .
+R
+\pi \in R
+\pi
+\pi \mid ab .
+ab =0,
+a
+b
+\pi \mid 0
+ab \not= 0.
+\pi \mid ab,
+ab
+ab
+ab =\pi_1 \cdots \pi_r \cdot \pi_1^' \cdots \pi_s^'
+\pi_i \mid a,
+\pi_j^' \mid b
+r
+s
+\pi \mid ab,
+\pi
+\pi_i
+\pi_j^'
+\pi \mid a
+\pi \mid b .
+\pi
+R,
+(\pi) \subseteq I \subseteq R .
+R
+I =(r)
+r \in R,
+(\pi) \subseteq (r)
+\pi =rs
+s \in R .
+\pi
+r
+s
+r
+I =R .
+s
+r
+\pi
+I =(r) =(\pi) .
+(\pi)
+(\pi)
+\pi
+\pi
+\pi
+P =(\pi)
+ab \in P =(\pi) .
+ab =\pi c
+c \in R .
+\pi
+a
+b .
+a \in P
+b \in P .
+P =(\pi)
+\pi
+\pi \mid ab .
+ab \in P =(\pi) .
+P
+a
+b
+P =(\pi),
+\pi \mid a
+\pi \mid b .
+R
+I
+R .
+I \not= (0) .
+d,
+b \in I
+d(b)
+I =(b) .
+(b) \subseteq I,
+a \in I .
+a =bq +r
+r =0
+d(r) \lt d(b) .
+b
+d(b)
+r =0
+a \in (b) .
+I =(b),
+R
+R
+R
+\pi
+R .
+(\pi)
+\pi
+R
+R =\mathbb Z [\frac{1 +\sqrt{ -d}}{2}]\~where\~d =19, 43, 67, 163
+d
+A[x]
+A
+A[x]
+A
+A[x]
+A[x]
+A .
+A[x]/(x) \cong A,
+(x)
+x
+A[x]/(x) \cong A
+A[x]
+R
+R[x]
+\mathbb Z
+\mathbb Q
+A
+K
+A .
+K[x]
+A
+A[x]
+K[x] .
+A[x]
+K[x] .
+p(x) =2x
+\mathbb Q [x],
+\mathbb Z [x] .
+\mathbb Z [x]
+\mathbb Q [x, y]
+\mathbb Z
+\mathbb Z [x]
+\mathbb Q [x]
+\mathbb Q [x, y] =\mathbb Q [x][y]
+\mathbb Z [x]
+\mathbb Q [x, y]
+(2, x)
+\mathbb Z [x] .
+(x, y)
+\mathbb Q [x, y] .
+\mathbb Z
+\mathbb Q
+\mathbb Z [x], \mathbb Q [x], \mathbb Z [x, y], \mathbb Q [x, y],
+p(x) \in \mathbb Z [x] .
+p
+p
+\mathbb Z [x],
+\mathbb Q [x] ?
+p
+\mathbb Q [x],
+\mathbb Z [x] ?
+p
+\mathbb Z [x],
+\mathbb Z [x, y] ?
+\mathbb Z [x]
+\mathbb Z [x, y]
+\mathbb Z [x] \subset \mathbb Z [x, y] .
+\mathbb Z [x]
+\mathbb Z [x, y],
+\mathbb Z,
+R[x],
+R
+\mathbb Z,
+\gcd (12, -30) = +6,
+R
+a, b \in R,
+a, b
+d \in R
+d \mid a
+d \mid b
+d
+d' \mid a
+d' \mid b,
+d' \mid d,
+d,
+d
+R,
+d, d'
+a, b
+d =d' \cdot u
+u \in R^\times .
+\mathbb Z
+\pm 1,
+\mathbb Z,
+\mathbb Z
+R
+d \colon R \setminus \{0\} \to \mathbb Z_{ \ge 0} .
+R
+\mathbb Z,
+\gcd (a, b) =ax +by
+x, y \in R .
+\mathbb Z,
+a =bq +r,
+\gcd (a, b) =\gcd (b, r)
+\gcd (a, b)
+R
+a, b \in R,
+(a, b)
+(d) =(a, b),
+d
+a, b .
+(a, b) =(d),
+d
+a, b .
+(a, b) =\{ax +by \mid x, y \in R\},
+(d) =(a, b),
+d =ax_0 +by_0
+x_0, y_0 \in R .
+d
+R
+a, b \in R,
+a
+b
+a
+b
+a
+b .
+R,
+R[x]^\times =R^\times
+R
+\mathbb Z,
+F .
+F[x]
+F
+p \in F[x]
+(x -a) \mid p
+p(a) =0.
+F[x],
+(x -a)
+p(x),
+a
+R
+K
+R =\mathbb Z
+K =\mathbb Q
+p(x) =a_n x^n +\cdots +a_1 x +a_0 \in R[x] .
+r, s \in R
+\gcd (r, s) =1 .
+\alpha =r/s \in K
+p
+r \mid a_0
+s \mid a_n .
+p
+R .
+\alpha
+p,
+p
+\alpha
+a_n r^n +a_{n -1} r^{n -1} s +\cdots +a_1 rs^{n -1} +a_0 s^n =0.
+a_n r^n = & \lt mi/> -(a_{n -1} r^{n -1} s +\cdots +a_1 rs^{n -1} +a_0 s^n) \\ a_0 s^n = & \lt mi/> -(a_n r^n +a_{n -1} r^{n -1} s +\cdots +a_1 rs^{n -1})
+s \mid a_n r^n \~and\~r \mid a_0 s^n .
+\gcd (r, s) =1,
+r \mid a_0
+s \mid a_n .
+R
+K[x],
+K
+K[x]
+R[x]
+K[x] .
+R
+p(x) =a_0 +a_1 x +\cdots +a_n x^n \in R[x] .
+p
+\gcd (a_0, \ldots, a_n) =1,
+p \in R[x]
+p =C(p)p_0
+p_0
+C(p) \in R;
+C(p)
+p .
+R
+K
+p(x) =a_0 +\cdots +a_n x^n
+R[x] .
+p
+K[x]
+p(x) =F(X)G(X) .
+\alpha, \beta \in K^\times
+f =\alpha F \in R[x], g =\beta G \in R[x], \~and\~p =fg .
+p, q \in R[x],
+C(pq) =C(p)C(q),
+R[x]
+K[x] .
+R
+K
+p \in R[x] .
+p
+R[x]
+p
+R[x]
+K[x] .
+p
+R[x],
+K[x],
+p =FG
+K[x] .
+\alpha, \beta \in K^\times
+f =\alpha F \in R[x], g =\beta G \in R[x], \~and\~p =fg .
+\deg f, \deg g \ge 1,
+p
+R[x],
+p
+K[x] .
+R[x],
+p =fg
+f, g \in R[x]
+\deg f, \deg g \ge 1
+p
+f
+g
+K[x],
+p
+K[x],
+p(x) =x^3 +82x^2 +3456782 \in \mathbb Z [x] .
+p(r)
+r \mid 3456782 .
+R
+p \in R[x]
+I
+R,
+R[x] \to (R/I)[x],
+p \mapsto \overline{p} .
+\overline{p}
+p
+R[x] .
+\overline{p}
+p
+R[x],
+p =fg .
+p
+f, g
+\deg f, \deg g \ge 1
+f(x) =a_m x^m +\cdots +a_0 \~and\~g(x) =b_n x^n +\cdots +b_0 .
+a_m, b_n \in R^\times .
+I \colon
+p =fg \mapsto \overline{p} =\overline{fg} =\overline{f} \cdot \overline{g} \in (R/I)[x] .
+\overline{f} =(a_m +I)x^m +\cdots +(a_0 +I)\~and\~\overline{g} =(b_n +I)x^n +\cdots +(b_0 +I) .
+a_m, b_n \in R^\times
+I
+a_m +I \not= 0 +I
+b_n +I \not= 0 +I,
+\deg \overline{f}, \deg \overline{g} \ge 1
+\overline{p}
+p(x) =x^3 +82x^2 +3456782 \in \mathbb Z [x]
+I =2\mathbb Z .
+\overline{p} =x^3 =x \cdot x^2
+I =3\mathbb Z .
+\overline{p} =x^3 +x +2 \in \mathbb Z /3\mathbb Z [x] .
+\overline{p}
+\mathbb Z /3\mathbb Z
+\mathbb Z /3\mathbb Z
+\overline{p}
+\mathbb Z /3\mathbb Z,
+p(x) =x^3 +82x^2 +3456782
+\mathbb Z [x] .
+p(x, y) = -1 +x -y +x^2 y +y^3 \in \mathbb Q [x, y] .
+p
+p =y^3 +(x^2 -1)y +(x -1) \in \mathbb Q [x][y] .
+R =\mathbb Q [x] .
+p
+R[y] .
+I =(x) \subsetneq R .
+R/I =\mathbb Q [x]/(x) \cong \mathbb Q
+x \mapsto 0
+\overline{p} \in (R/I)[y] \cong \mathbb Q [y]
+x =0,
+\overline{p} =y^3 -y -1 \in \mathbb Q [y] .
+\overline{p}
+\pm 1,
+p
+\mathbb Q [x, y] .
+R
+p =a_n x^n +\cdots +a_0 \in R[x]
+\pi \in R
+\pi \mid a_i, i =0\ldots, n -1, \pi \nmid a_n, \~and\~\pi^2 \nmid a_0 .
+p
+R[x] .
+p
+R[x] .
+p
+p =fg\~where\~f, g \in R[x], \~with\~\deg f, \deg g \ge 1,
+f =b_0 +\cdots +b_r x^r \~and\~g =c_0 +\cdots +c_s x^s .
+\pi
+\pi \mid a_0 =b_0 c_0,
+b_0
+c_0,
+\pi^2 \nmid a_0
+\pi \mid b_0
+\pi \nmid c_0 .
+\pi \nmid a_n =b_r c_s,
+\pi \nmid b_r
+\pi \nmid c_s .
+\pi \mid c_0,
+\pi \nmid c_s,
+\ell
+\pi \nmid c_\ell .
+0 \lt \ell \le s \lt n\~and\~a_\ell =b_\ell c_0 +b_{\ell -1} c_1 +\cdots +b_0 c_\ell .
+\ell \lt n,
+\pi \mid a_\ell,
+\ell,
+\pi \mid c_0, \ldots, c_{\ell -1},
+\pi \mid b_0 c_\ell .
+\pi
+\pi \mid b_0
+\pi \mid c_\ell,
+n \ge 1
+\mathbb Z [x] .
+p
+\mathbb Z .
+x^n \pm p
+\mathbb Z [x] .
+x^{907} +27x^3 +15x^2 -81x +6
+\mathbb Z [x] .
+p =3.
+p = -1 +x -y +x^2 y +y^3
+\mathbb Q [x, y] .
+R =\mathbb Q [x]
+p
+R[y]
+p =y^3 +(x^2 -1)y +(x -1) .
+\pi =(x -1) \in R =\mathbb Q [x]
+R,
+R[x]
+\varphi \colon R[x] \to R[x]
+p \in R[x]
+\varphi (p)
+R[x] =\varphi (R[x]) .
+f(x) \mapsto f(x \pm a)
+a \in R,
+f(x)
+f(x \pm a)
+p
+\mathbb Z .
+f(x) =1 +x +x^2 +\cdots +x^{p -1} =\frac{x^p -1}{x -1}
+\mathbb Z [x] .
+g(x) =f(x +1) .
+f
+g
+g(x) = & f(x +1) =\frac{(x +1)^p -1}{(x +1) -1} \\ = & \frac{x^p +\binom{p}{1}x^{p -1} +\cdots +\binom{p}{p -1}x +1 -1}{x} \\ = & x^{p -1} +\binom{p}{1}x^{p -2} +\cdots +\binom{p}{p -1}
+\mathbb Z [x]
+p
+p \mid \binom{p}{k}
+1 \le k \le p -1
+\binom{p}{p -1} =p .
+G
+X
+G
+X
+G \times X \to X,
+(g, x) \mapsto g \cdot x,
+e \cdot x =x\~for\space all\~x \in X .
+e
+G .
+g_1 \cdot (g_2 \cdot x) =(g_1 g_2) \cdot x
+g_1, g_2 \in G
+x \in X .
+G
+X =G
+G \times G \to G
+(g, x) \mapsto gxg^{ -1} .
+G
+H
+X =G/H
+G
+G/H
+G \times G/H \to G/H
+(g, xH) \mapsto gxH .
+G
+p,
+p^m \mid | G| .
+X =\{H \le G \mid | H| =p^m \} .
+X
+G
+X
+(g, H) \mapsto gHg^{ -1} .
+g \in G,
+\varphi_g \colon G \to G
+\varphi_g (x) =gxg^{ -1}
+gHg^{ -1} =\varphi_g (H)
+G
+H,
+X .
+G
+X,
+\varphi \colon G \to Per(X),
+Per(X)
+X \to X
+G
+X
+G \times X \to X,
+G \to Per(X)
+(g, x) \mapsto g \cdot x,
+\varphi \colon G \to Per(X)
+\varphi (g) =\varphi_g \in Per(X)\~where\~\varphi_g (x) =g \cdot x .
+\varphi \colon G \to Per(X)
+\varphi (g) =\varphi_g \in Per(X),
+G \times X \to X
+(g, x) \mapsto \varphi_g (x) .
+\varphi \colon G \to Per(X)
+X \to X .
+X
+\varphi (g)
+\varphi (g) =\varphi_g
+\varphi_g \colon X \to X
+G \times X \to X
+\varphi \colon G \to Per(X)
+G
+G \times G \to G
+(g, x) \mapsto gx
+gx
+\varphi \colon G \to Per(G)\~given\space by\~\varphi (g) =\varphi_g \~with\~\varphi_g (x) =gx,
+G .
+\varphi ?
+\ker \varphi =\{g \in G \mid \varphi (g) =\varphi_g =e_{Per(G)} \},
+\varphi_g (x) =gx =x
+x \in X =G .
+x =e_G
+g =e,
+G
+Per(G) .
+G
+| G| =n,
+G
+S_n .
+G
+X
+x \in X .
+x
+G_x \colon =\{g \in G \mid g \cdot x =x\} .
+x
+Gx =G \cdot x \colon =\{g \cdot x \mid g \in G\} =\{y \in X \mid y =g \cdot x\~for\space some\~g \in G\} .
+G_x
+G,
+Gx
+X .
+G
+x \in X .
+Gx =\{gxg^{ -1} \mid g \in G\}
+x,
+G_x =\{g \in G \mid gxg^{ -1} =x\}
+x .
+G
+X =\{H \le G\}
+G .
+G
+X
+x =H \in X .
+Gx =\{gHg^{ -1} \mid g \in G\}
+H,
+G_x =\{g \in G \mid gHg^{ -1} =H\}
+H .
+G
+X
+G
+H ?
+H =gHg^{ -1}
+g \in G,
+H
+H
+G,
+| Gx| =1 \iff G_x =G .
+G =S_3
+X
+S_3 .
+x \in X,
+S_3
+e
+t
+(12),
+(23),
+(13),
+T
+(123)
+(132) .
+x & \lt mi/> =\{e\}Gx =\{e\}G_x =G . \\ x & \lt mi/> = \langle t \rangle Gx =\{ \langle (12) \rangle, \langle (23) \rangle, \langle (13) \rangle \}G_x = \langle t \rangle . \\ x & \lt mi/> = \langle T \rangle Gx =\{x\}G_x =G . \\ x & \lt mi/> =S_3 Gx =\{x\}G_x =G .
+G
+X,
+x \in X .
+G/G_x \leftrightarrow Gx
+G/G_x
+Gx
+gG_x \leftrightarrow gx .
+[G \colon G_x] =| Gx|,
+gG_x \mapsto gx
+gG_x =hG_x .
+h^{ -1} g \in G_x,
+gG_x =hG_x
+h^{ -1} gx =x
+gx =hx
+gx \in Gx,
+gG_x
+| Gx| =| G/G_x | =[G \colon G_x],
+G_x
+G
+G,
+X .
+G
+X .
+\{Gx \mid x \in X\}
+X .
+X
+e \cdot x =x
+x \in X,
+x \in Gx
+G
+z \in Gx \cap Gy .
+Gx =Gy .
+Gx \subseteq Gy .
+z \in Gx \cap Gy,
+z =g_1 x =g_2 y .
+x =(g_1^{ -1} g_2)y,
+g \in G,
+gx =(gg_1^{ -1} g_2)y \in Gy
+H
+[G \colon H] =2
+H) .
+G
+H
+[G \colon H] =p,
+G .
+H
+G .
+G
+H
+G
+G/H
+\varphi \colon G \to Per(G/H)
+\ker \varphi \le H .
+\varphi
+\varphi (g) =\varphi_g \~where\~\varphi_g (xH) =gxH .
+k \in \ker \varphi
+\varphi (k) =\varphi_k
+k \in \ker \varphi,
+\varphi_k (xH) =kxH =xH
+x \in G .
+x =e
+kH =H
+k \in H .
+G
+H
+[G \colon H] =p,
+G .
+G
+G/H
+K =\ker \varphi \subseteq H .
+H
+H =K
+K \subseteq H \subseteq G
+G/K \cong Im\varphi \le Per(G/H)
+| G/K| =[G \colon K] \mid [G \colon H]! =| Per(G/H)| =p! .
+[G \colon K] =[G \colon H][H \colon K] =p[H \colon K] .
+[H \colon K] \mid (p -1)! .
+[H \colon K] \mid | H| \mid | G|,
+[H \colon K] \mid \gcd (| G|, (p -1)!) =1
+p
+| G| .
+[H \colon K] =1,
+H =K
+G .
+p^2
+p
+p
+G
+G
+z \in G
+Z(G),
+G
+z,
+C_G (z),
+G .
+G
+G
+G =Gg_1 \sqcup Gg_2 \sqcup \cdots \sqcup Gg_t,
+G .
+G
+g_1, \ldots, g_r
+G
+Z(G) .
+| G| =| Z(G)| +\sum_{i =1}^r [G \colon G_{g_i}] =| Z(G)| +\sum_{i =1}^r [G \colon C_G (g_i)] .
+G
+G =Gh_1 \sqcup \cdots \sqcup Gh_t \sqcup Gg_1 \sqcup Gg_2 \sqcup \cdots \sqcup Gg_r
+h_i
+g_i
+| G| =\sum_{i =1}^t | Gh_i | +\sum_{i =1}^r | Gg_i | .
+| Gg_i | =[G \colon G_{g_i}] =[G \colon C_G (g_i)]
+p,
+p
+p .
+G
+p
+G
+p \mid | Z(G)| .
+| G| =| Z(G)| +\sum_{i =1}^r [G \colon C_G (g_i)],
+g_1, \ldots, g_r
+[G \colon C_G (g_i)] >1
+[G \colon C_G (g_i)] \mid | G|
+[G \colon C_G (g_i)]
+p,
+p .
+| Z(G)| \equiv | G| -\sum_{i =1}^r [G \colon C_G (g_i)] \equiv 0( modp) .
+G
+G/Z(G)
+G
+Z
+Z(G) .
+G/Z
+G/Z = \langle xZ \rangle
+x \in G .
+G
+g, h \in G
+gZ =x^m Z
+hZ =x^n Z
+m, n .
+g =x^m z_1
+h =x^n z_2
+z_i \in Z .
+gh =x^m z_1 x^n z_2 =z_1 x^{m +n} z_2 =z_2 x^{n +m} z_1 =z_2 x^n x^m z_1 =x^n z_2 x^m z_1 =hg
+z_i
+x^m x^n =x^n x^m .
+G
+p^2 .
+G
+| Z(G)| =p
+p^2 .
+| Z(G)| =p^2,
+G =Z(G),
+| Z(G)| =p
+G
+Z(G) \trianglelefteq G,
+G/Z(G)
+p,
+G
+X,
+X
+X
+X
+P =\{X_i \mid i \in I\}
+X =\bigcup_{i \in I} X_i,
+X_i \cap X_j =\varnothing
+i \not= j .
+X
+X
+R \subseteq X \times X,
+(x, y) \in R,
+x \sim y
+x
+y .
+X
+x \sim x
+(x, x) \in R
+x \in X .
+x \sim y,
+y \sim x,
+(x, y) \in R,
+(y, x) \in R .
+x \sim y
+y \sim z,
+x \sim z,
+(x, y), (y, z) \in R,
+(x, z) .
+\sim
+X .
+x \in X,
+x
+[x] =\{y \in X \mid y \sim x\} .
+x \in [x],
+y \sim x,
+x \sim y
+\sim
+X .
+P =\{[x] \mid x \in X\}
+X .
+P =\{X_i \mid i \in I\}
+X,
+x \sim y
+x, y \in X_j
+j \in I
+X
+n
+\mathbb Z .
+n,
+j \sim k\~iff\~j \equiv k( modn) .
+n
+\mathbb Z_n \~(or)\~\mathbb Z /n\mathbb Z =\{[k] \mid k \in \mathbb Z \} .
+\mathbb Z_n
+n
+[0], [1], \ldots, [n -1] .
+F
+A, B \in M_n (F)
+P
+B =P^{ -1} AP .
+A
+B
+[A]
+A .
+\mathbb Z_n,
+\mathbb Z_n
+[a] +[b] =[a +b]\~and\~[a][b] =[ab]
+\mathbb Z_n
+\mathbb Q,
+\frac{2}{5} +\frac{3}{7} =\frac{29}{35} .
+\frac{a}{b} +\frac{c}{d} ?
+\frac{1}{2} =\frac{2}{4} =\frac{5}{10}, \~etc. ?
+\frac{a}{b}
+a/b
+a/b
+(a, b)
+\frac{1}{2} =\frac{2}{4},
+(1, 2) =(2, 4) .
+X
+X =\mathbb Z \times \mathbb Z \setminus \{0\},
+(a, b) \sim (c, d)\~iff\~ad -bc =0.
+(a, b)
+[(a, b)],
+a/b
+\frac{a}{b} .
+X, Y
+\varphi \colon X \to Y
+\varphi
+\ker \varphi =\{x \in X \mid \varphi (x) =e\}
+e
+e =0
+X/\ker \varphi
+X,
+G, H
+\varphi \colon G \to H
+K
+G
+K \subseteq \ker \varphi,
+\pi \colon G \to G/K
+g \mapsto gK
+\varphi_\ast \colon G/K \to H,
+g \in G,
+\varphi (g) =\varphi_\ast (\pi (g)) .
+\varphi
+G/K
+\varphi_\ast
+\varphi,
+\ker \varphi_\ast =\ker \varphi /K .
+\varphi (g) =\varphi_\ast (\pi (g))
+\varphi_\ast (gK) =\varphi (\pi (g)) =\varphi (g)
+\varphi_\ast
+\varphi
+\varphi_\ast
+\varphi_\ast
+\varphi_\ast (gKg'K) =\varphi_\ast (gg'K) =\varphi (gg') =\varphi (g)\varphi (g') =\varphi_\ast (gK)\varphi_\ast (g'K),
+G/K
+\varphi
+\varphi_\ast (gK) =\varphi_\ast (gkK)\~for\space any\~k \in K .
+\varphi_\ast (gkK) =\varphi (gk) =\varphi (g)\varphi (k) =\varphi (g) =\varphi_\ast (gK)
+\varphi (k) =e
+K \subseteq \ker \varphi .
+\ker \varphi_\ast =\{gK \in G/K \mid \varphi_\ast (gK) =\varphi (g) =e_H \},
+\ker \varphi_\ast =\{gK \in G/K \mid g \in \ker \varphi \} =\ker \varphi /K .
+G, H
+\varphi \colon G \to H
+G/\ker \varphi \cong Im\varphi .
+K =\ker \varphi .
+\varphi_\ast \colon G/K \to Im\varphi
+K/K =eK =e_{G/K},
+G/K,
+\varphi_\ast
+\Psi \colon G/N \to H
+\psi \colon G \to H
+N .
+\Psi \colon G/N \to H
+n,
+\mathbb Z_n
+n .
+n\mathbb Z
+n
+\mathbb Z,
+\mathbb Z /n\mathbb Z
+\mathbb Z /n\mathbb Z \cong \mathbb Z_n .
+m +n\mathbb Z \mapsto [m]_n,
+\varphi \colon \mathbb Z \to \mathbb Z_n
+m
+[m]_n
+n .
+\mathbb Z_n
+m +m' \mapsto [m +m']_n =[m]_n +[m']_n
+\varphi ?
+\ker \varphi =\{m \in \mathbb Z \mid [m]_n =[0]_n \} =n\mathbb Z .
+X, Y
+\varphi \colon X \to Y
+Z \subseteq \ker \varphi
+X/Z
+X
+Y .
+\pi \colon X \to X/Z
+\varphi_\ast \colon X/Z \to Y
+\varphi =\varphi_\ast \circ \pi
+\varphi,
+\ker \varphi_\ast =\ker \varphi /Z .
+\varphi_\ast
+\varphi_\ast
+Z
+\varphi_\ast
+x +Z
+\varphi (x) .
+X/Z
+\varphi
+\varphi_\ast ((x +Z)(x' +Z)) & \lt mi/> =\varphi_\ast (xx' +Z) =\varphi (xx') \\ \~ & \lt mi/> =\varphi (x)\varphi (x') =\varphi_\ast (x +Z)\varphi_\ast (x' +Z) .
+\mathbb Z /n\mathbb Z \cong \mathbb Z_n

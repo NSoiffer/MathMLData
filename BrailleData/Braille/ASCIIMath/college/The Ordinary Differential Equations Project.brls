@@ -1,0 +1,8256 @@
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+omega_0,
+omega
+x''+omega_0^2 x = Acos omega t.
+G(omega)
+x''+2cx'+omega_0^2 x = Acos omega t
+x_p(t) = G(omega)Acos(omega t-varphi).
+x''+omega_0^2 x = Acos omega t.
+x_h(t) = c_1 cos omega_0 t+c_2 sin omega_0 t,
+omega_0.
+omega
+omega
+["(4.4.1)", x''+omega_0^2 x=Acos omega_0 t.]
+Acos omega_0 t
+x''+omega_0^2 x = 0,
+acos omega_0 t+bsin omega_0 t.
+ae^(i omega_0 t).
+x_c = ate^(i omega_0 t)
+["(4.4.2)", x''+omega_0^2 x=Ae^(i omega_0 t).]
+[x_c^' , "<mi//>"=a(1+i omega_0 t)e^(i omega_0 t)], [x_c^'' , "<mi//>"=a(2i omega_0-omega_0^2 t)e^(i omega_0 t).]
+x_c
+x_c^''
+[x_c^'' +omega_0^2 x_c, "<mi//>"=a(2i omega_0-omega_0^2 t)e^(i omega_0 t)+omega_0^2 ate^(i omega_0 t)], [\ , "<mi//>"=2ai omega_0 e^(i omega t).]
+x_c = ate^(i omega_0 t)
+a = A/(2i omega_0) .
+[x_c, "<mi//>"=A/(2i omega_0) te^(i omega_0 t)], [\ , "<mi//>"=- (Ai)/(2 omega_0) te^(i omega_0 t)], [\ , "<mi//>"=- (Ai)/(2 omega_0) t(cos omega_0 t+isin omega_0 t)], [\ , "<mi//>"=A/(2 omega_0) tsin omega_0 t-i A/(2 omega_0) tcos omega_0 t.]
+x_c,
+x_p(t) = A/(2 omega_0) tsin omega_0 t,
+x(t) = x_h(t)+x_p(t) = c_1 cos omega_0 t+c_2 sin omega_0 t+A/(2 omega_0) tsin omega_0 t.
+[x''+144x, "<mi//>"=4cos 12t], [x(0), "<mi//>"=0], [x'(0), "<mi//>"=0.]
+A = 4
+omega_0 = 12.
+x''+144x = 0
+x_h(t) = c_1 cos 12t+c_2 sin 12t.
+x''+144x = 4cos 12t,
+x''+144x = 4e^(12it).
+x_c(t) = ate^(12it),
+ae^(12it)
+x_c^'' = a(24i-144t)e^(12it).
+x_c
+x_c^''
+x_c^'' +144x_c = a(24i-144t)e^(12it)+144ate^(12it) = 24aie^(12it).
+a = 4/(24i) = -1/6 i,
+-1/6 ite^(12it) = -1/6 it(cos 12t+isin 12t) = 1/6 tsin 12t-1/6 itcos 12t.
+x_p(t) = 1/6 tsin 12t.
+x''+144x = 4cos 12t
+x(t) = x_h(t)+x_p(t) = c_1 cos 12t+c_2 sin 12t+1/6 tsin 12t.
+c_1 = 0
+c_2 = 0.
+x(t) = 1/6 tsin 12t.
+x''+4x = 4sin 2t,
+x(0) = 0,
+x'(0) = 0.
+t >= 0.
+[x''+121x, "<mi//>"=3cos 11t], [x(0), "<mi//>"=0], [x'(0), "<mi//>"=0.]
+[x''+169x, "<mi//>"=5cos 13t], [x(0), "<mi//>"=0], [x'(0), "<mi//>"=0.]
+omega != omega_0
+omega != omega_0,
+["(4.4.3)", x''+omega_0^2 x=Acos omega t.]
+x''+omega_0^2 x = 0
+x_h(t) = c_1 cos omega_0 t+c_2 sin omega_0 t.
+["(4.4.4)", x''+omega_0^2=Ae^(i omega t).]
+x_c = ae^(i omega t)
+x_c
+[x_c^'' +omega_0^2 x_c, "<mi//>"=-a omega^2 e^(i omega t)+omega_0^2 ae^(i omega t)], [\ , "<mi//>"=a(omega_0^2-omega^2)e^(i omega t).]
+x_c = ae^(i omega t)
+x''+omega_0^2 x = Ae^(i omega t),
+a = A/(omega_0^2-omega^2) .
+x_c
+x_p(t) = A/(omega_0^2-omega^2) cos omega t.
+x(t) = x_h(t)+x_p(t) = c_1 cos omega_0 t+c_2 sin omega_0 t+A/(omega_0^2-omega^2) cos omega t.
+x(0) = 0
+x'(0) = 0.
+c_1 = -A//(omega_0^2-omega^2)
+c_2 = 0.
+["(4.4.5)", x(t)=A/(omega_0^2-omega^2) (cos omega t-cos omega_0 t).]
+bar omega = (omega_0+omega)/2
+delta = (omega_0-omega)/2
+omega = bar omega-delta
+omega_0 = bar omega+delta,
+[x(t), "<mi//>"=A/(omega_0^2-omega^2) (cos omega t-cos omega_0 t)], [\ , "<mi//>"=A/((bar omega+delta)^2-(bar omega-delta)^2) (cos[(bar omega-delta)t]-cos[(bar omega+delta)t])], [\ , "<mi//>"=A/(4 bar omega delta) [cos(bar omega t-delta t)-cos(bar omega t+delta t)]], [\ , "<mi//>"=A/(4 bar omega delta) [cos(bar omega t)cos(delta t)+sin(bar omega t)sin(delta t)-cos(bar omega t)cos(delta t)+sin(bar omega t)sin(delta t)]], [\ , "<mi//>"=A/(4 bar omega delta) [2sin(bar omega t)sin(delta t)]], [\ , "<mi//>"= (Asin delta t)/(2 bar omega delta) sin bar omega t.]
+sin bar omega t
+|(A//2 bar omega delta)sin delta t|,
+["(4.4.6)", x(t)= (Asin delta t)/(2 bar omega delta) sin bar omega t.]
+["(4.4.7)", x''+144x, "<mi//>"=4cos(13t)], ["(4.4.8)", x(0), "<mi//>"=0], ["(4.4.9)", x'(0), "<mi//>"=0,]
+A = 4,
+omega_0 = 12,
+omega = 13.
+x(t) = 4/25(cos 12t-cos 13t).
+delta = -1//2
+bar omega = 25//2.
+sin delta t = sin(-t//2)
+sin(bar omega) = sin(25t//2).
+bar omega
+["(4.4.10)", | (Asin delta t)/(2 bar omega delta) |=|8/25 sin(t/2)|,]
+[x''+196x, "<mi//>"=4cos(15t)], [x(0), "<mi//>"=0], [x'(0), "<mi//>"=0.]
+bar omega = (omega_0+omega)//2,
+delta = (omega_0-omega)//2,
+omega_0
+omega
+|(Asin delta t)//(2 bar omega delta)|,
+["(4.4.11)", x''+2cx'+omega_0^2 x=Acos omega t.]
+["(4.4.12)", x''+2x'+2x=3cos 4t.]
+x''+2x'+2x = 0,
+x_h(t) = c_1 e^(-t)cos t+c_2 e^(-t)sin t.
+x_c = ae^(4it)
+["(4.4.13)", x''+2x'+2x=3e^(4it)]
+x_p(t)
+x_c
+x_c^'' +2x_c^' +2x_c = (-14+8i)ae^(4it) = P(4i)ae^(4it) = 3e^(4it),
+P(lambda) = lambda^2+2 lambda+2
+x''+2x'+2x = 0.
+a = 3/(P(4i)) = 3/(-14+8i) = -3/130(7+4i),
+[x_c, "<mi//>"=-3/130(7+4i)e^(4it)], [\ , "<mi//>"=-3/130(7+4i)(cos 4t+isin 4t)], [\ , "<mi//>"=3/130[(-7cos 4t+4sin 4t)+i(-4cos 4t-7sin 4t)].]
+x_c,
+x_p(t) = 3/130(-7cos 4t+4sin 4t).
+x(t) = x_h(t)+x_p(t) = c_1 e^(-t)cos t+c_2 e^(-t)sin t+3/130(-7cos 4t+4sin 4t).
+x_p(t)
+t -> oo
+x_p(t) = Kcos(4t-varphi)
+K
+varphi
+cos 4t
+sin 4t.
+["(4.4.14)", x''+2cx'+omega_0^2 x=0.]
+["(4.4.15)", P(lambda)=lambda^2+2c lambda+omega_0^2,]
+lambda = -c+-sqrt(c^2-omega_0^2).
+c < omega_0
+x_h = e^(-ct)(c_1 cos beta t+c_2 sin beta t),
+beta = sqrt(omega_0^2-c^2).
+x_c = ae^(i omega t)
+["(4.4.16)", x_c^'' +2cx_c^' +omega_0^2 x_c=Ae^(i omega t),]
+x_p
+x_c
+x_c^'' +2cx_c^' +omega_0^2 x_c = [(i omega)^2+2c(i omega)+omega_0^2]ae^(i omega t) = P(i omega)ae^(i omega t),
+P
+P(i omega)ae^(i omega t) = Ae^(i omega t),
+x_c(t) = ae^(i omega t) = A/(P(i omega)) e^(i omega t) = H(i omega)Ae^(i omega t),
+H(i omega) = 1/(P(i omega)) .
+H(lambda) = 1//P(lambda)
+P(i omega) = (i omega)^2+2c(i omega)+omega_0^2 = (omega_0^2-omega^2)+2ic omega.
+P(i omega) = Re^(i varphi) = R(cos varphi+isin varphi),
+R = sqrt((omega_0^2-omega^2)^2+4c^2 omega^2)
+varphi
+[cos varphi, "<mi//>"= (omega_0^2-omega^2)/(sqrt((omega_0^2-omega^2)^2-4c^2 omega^2)) ,], [sin varphi, "<mi//>"= (2c omega)/(sqrt((omega_0^2-omega^2)^2-4c^2 omega^2)) .]
+2c omega > 0,
+sin varphi > 0.
+0 < varphi < pi.
+varphi = varphi(omega) = cot^(-1)( (omega_0^2-omega^2)/(2c omega) ).
+H(i omega) = 1/(P(i omega)) = 1/R e^(-i varphi).
+G(omega) = 1/R = 1/(sqrt((omega_0^2-omega^2)^2+4c^2 omega^2)) ,
+H(i omega) = G(omega)e^(-i varphi(omega)).
+x_c^'' +2cx_c^' +omega_0^2 x_c = Ae^(i omega t)
+["(4.4.17)", x_c(t)=H(i omega)Ae^(i omega t)=G(omega)Ae^(i(omega t-varphi)).]
+x_p(t) = "Re"(x_c(t)) = G(omega)Acos(omega t-varphi).
+x_p
+varphi = varphi(omega) = cot^(-1)( (omega_0^2-omega^2)/(2c omega) ).
+x''+2cx'+omega_0^2 x = Acos omega t
+x(t) = x_h(t)+x_p(t) = e^(-ct)(c_1 cos(eta t)+c_2 sin(eta t))+G(omega)Acos(omega t-varphi).
+x_h
+e^(-ct),
+t -> oo.
+x_h
+x_p
+x''+2x'+2x = 3cos 4t
+x(t) = x_h(t)+x_p(t) = c_1 e^(-t)cos t+c_2 e^(-t)sin t+3/130(-7cos 4t+4sin 4t).
+omega_0 = sqrt(2) ~~ 1.4142
+c_1 = 0
+c_2 = 1,
+x_h(t) = e^(-ct)sin beta t = e^(-t)sin t.
+c = 1,
+omega = 4,
+A = 3,
+G(4) ~~ 0.0620,
+G(4)*4 ~~ 0.2481.
+varphi = varphi(4) ~~ 2.6224.
+x''+2cx'+omega_0^2 x = Acos omega t
+x_h = e^(-ct)(c_1 cos eta t+c_2 sin eta t),
+eta = sqrt(omega_0^2-c^2).
+x_p(t) = "Re"(x_c(t)) = G(omega)Acos(omega t-varphi),
+varphi
+varphi = varphi(omega) = cot^(-1)( (omega_0^2-omega^2)/(2c omega) )
+G
+G(omega) = 1/(sqrt((omega_0^2-omega^2)^2+4c^2 omega^2)) .
+x_p(t) = G(omega)Acos(omega t-varphi),
+omega_0^2 G = 1/(sqrt((1-s^2)^2+D^2 s^2)) ,
+omega = s omega_0
+D = 2c//omega_0.
+x''+omega_0^2 x = Acos omega t
+omega != omega_0
+x_p(t) = A/(omega_0^2-omega^2) (cos omega t-cos omega_0 t).
+x_p(t) = A/(2 omega_0) tsin omega_0 t.
+x''+2cx'+omega_0^2 x = Acos omega t
+x_h = e^(-ct)(c_1 cos eta t+c_2 sin eta t),
+eta = sqrt(omega_0^2-c^2).
+x_p(t) = "Re"(x_c(t)) = G(omega)Acos(omega t-varphi),
+varphi
+varphi = varphi(omega) = cot^(-1)( (omega_0^2-omega^2)/(2c omega) )
+G
+G(omega) = 1/(sqrt((omega_0^2-omega^2)^2+4c^2 omega^2)) .
+y''+y = cos t,
+y(0) = 0,
+y'(0) = 0
+y''+y = cos(11t//10),
+y(0) = 0,
+y'(0) = 0
+y''+4y = sin 2t,
+y(0) = 1,
+y'(0) = 0
+y''+4y = 3sin(13t//12),
+y(0) = 1,
+y'(0) = -1
+y''+16y = 5cos 4t,
+y(0) = 1,
+y'(0) = 0
+y''+16y = 5cos(4t+1),
+y(0) = 0,
+y'(0) = 0
+y(t)
+y = cos 10t-cos 11t.
+y = cos 11t-cos 12t.
+y = sin 11t-sin 10t.
+y = sin 12t-sin 11t.
+y = cos 10t-cos 11t.
+bar omega = (omega_0+omega)//2
+delta = (omega_0-omega)//2.
+y = cos 10t-cos 11t = 2sin(1/2 t)sin((21/2 t).
+2sin Asin B = cos(A-B)-cos(A+B).
+y
+2sin(t//2)
+t,
+y''+py'+qy = cos omega t
+omega
+A
+A(omega, p, q) = 1/(sqrt((q-omega^2)^2+p^2 omega^2)) .
+A
+omega,
+p,
+q.
+(del A)/(del omega) .
+p
+q,
+M(p, q)
+A(omega, p, q)
+omega.
+M(p, q).
+q = 1
+M(p, q)
+p.
+M(p, q)
+1//p
+p -> 0.
+x_p(t) = G(omega)Acos(omega t-varphi),
+G(omega) = 1/(sqrt((omega_0^2-omega^2)^2+4c^2 omega^2)) .
+s = omega//omega_0
+D = 2c//omega_0.
+s
+D,
+G = 1/(omega_0^2 sqrt((1-s^2)^2+D^2 s^2))
+omega_0^2 G = 1/(sqrt((1-s^2)^2+D^2 s^2)) .
+s = omega//omega_0
+x''+2cx'+omega_0^2 x = Acos omega t
+D = 2c//omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y).]
+[dx/dt, "<mi//>"=f(x,y),], [dy/dt, "<mi//>"=g(x,y),]
+xy
+a(t)x''+b(t)x'+c(t)x = g(t)
+v(t) = x'(t).
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y)]
+x
+y
+f(x, y) = 0
+g(x, y) = 0.
+H(t)
+L(t),
+t
+[ (dH)/(dt) , "<mi//>"=aH-bHL,], [ (dL)/(dt) , "<mi//>"=-cL+dHL.]
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y)]
+x
+y
+f(x, y) = 0
+g(x, y) = 0.
+x(t)
+y(t)
+F
+R
+[ (dR)/(dt) , "<mi//>"=2R-RF,], [ (dF)/(dt) , "<mi//>"=-5F+RF,]
+R = 5
+F = 2.
+(R, F) = (5, 2).
+R = 1
+F = 1,
+[ (dR)/(dt) , "<mi//>"=1,], [ (dF)/(dt) , "<mi//>"=-4,]
+[R_0=R(0)=1,], [F_0=F(0)=1,]
+R(t)
+F(t)
+RF
+(R(t), F(t))
+t.
+RF
+RF
+RF
+[ (dR)/(dt) , "<mi//>"=aR(1-R//N)-bRF,], [ (dF)/(dt) , "<mi//>"=-cF+dRF,]
+N
+[ (dR)/(dt) , "<mi//>"=2R(1-R/10)-RF,], [ (dF)/(dt) , "<mi//>"=-5F+RF.]
+(R, F) = (0, 0)
+(R, F) = (5, 1).
+R_0 = 1
+F_0 = 1,
+(5, 1)
+[x', "<mi//>"=ax(1-x//N)-bxy], [y', "<mi//>"=-cy+dxy,]
+x(t)
+y(t)
+t.
+alpha
+x > 3y
+x.
+x > 0,
+x < 0,
+x = 0,
+mx'' = -bx'-kx.
+mx''+bx'+kx = 0,
+m,
+b,
+k
+mx''+bx'+kx = F(t),
+x(0) = x_0
+x'(0) = x_0^' ,
+v(t) = x'(t).
+mv'+bv+kx = F(t).
+[x', "<mi//>"=v,], [v', "<mi//>"=1/m F(t)-b/m v-k/m x,]
+[x(0), "<mi//>"=x_0], [v(0), "<mi//>"=v_0.]
+(d^2 y)/(dt^2) +k/m y = 0
+d^2 y//dt^2+(k//m)y = 0,
+v = y'.
+y(t) = cos beta t.
+beta
+y(t)
+t = 0
+yv
+k
+m,
+yv
+N,
+[s(t), "<mi//>"="Susceptible individuals"], [i(t), "<mi//>"="Infected individuals"], [r(t), "<mi//>"="Removed individuals"]
+s'\\x0027f6'i'\\x0027f6'r.
+s(t)+i(t)+r(t) = N.
+[ (ds)/dt, "<mi//>"=-alpha si], [ (di)/dt, "<mi//>"=alpha si-beta i], [ (dr)/dt, "<mi//>"=beta i.]
+alpha
+beta
+1//beta
+d/dt[s(t)+i(t)+r(t)] = d/dt N = 0,
+[ (ds)/dt, "<mi//>"=-alpha si], [ (di)/dt, "<mi//>"=alpha si-beta i.]
+alpha = 0.005
+beta = 0.08,
+SIR
+a(t)x''+b(t)x'+c(t)x = g(t)
+v(t) = x'(t).
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y)]
+x
+y
+f(x, y) = 0
+g(x, y) = 0.
+[dx/dt, "<mi//>"=f(x,y),], [dy/dt, "<mi//>"=g(x,y),]
+xy
+(x(t), y(t))
+t.
+xy
+[dx/dt, "<mi//>"=f(x,y),], [dy/dt, "<mi//>"=g(x,y),]
+(x(t), y(t))
+[dx/dt, "<mi//>"=4x+2y], [dy/dt, "<mi//>"=3x-y]
+x(t) = e^(-2t)+2e^(5t),
+y(t) = -3e^(-2t)+e^(5t)
+x(t) = 2e^(-2t),
+y(t) = -6e^(-2t)
+x(t) = 2e^(-2t),
+y(t) = -5e^(-2t)
+x(t) = c_1 e^(-2t)+2c_2 e^(5t),
+y(t) = -3c_1 e^(-2t)+c_2 e^(5t)
+(x(t), y(t))
+[dx/dt, "<mi//>"=4x-3y], [dy/dt, "<mi//>"=3x+4y]
+x(t) = 2e^(4t)cos 3t,
+y(t) = 2e^(4t)sin 3t
+x(t) = 2e^(4t)cos 3t-3e^(4t)sin 3t,
+y(t) = 2e^(4t)sin 3t+3e^(4t)cos 3t
+x(t) = 3e^(4t)cos 3t-4e^(4t)sin 3t,
+y(t) = 3e^(4t)sin 3t+5e^(4t)cos 3t
+x(t) = c_1 e^(4t)cos 3t-c_2 e^(4t)sin 3t,
+y(t) = c_1 e^(4t)sin 3t+c_2 e^(4t)cos 3t
+dx//dt
+dx//dt
+t;
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y).]
+[dx/dt, "<mi//>"=4x-3y], [dy/dt, "<mi//>"=3x+4y]
+[dx/dt, "<mi//>"=4x-3y+cos x], [dy/dt, "<mi//>"=3x+4y-sin x]
+[dx/dt, "<mi//>"=4x-3y+3tx], [dy/dt, "<mi//>"=3x+4y-e^x]
+[dx/dt, "<mi//>"=4x], [dy/dt, "<mi//>"=4y]
+[x''+6x'-2x, "<mi//>"=0], [x(0), "<mi//>"=1], [x'(0), "<mi//>"=1]
+[y''+y'-2y, "<mi//>"=0], [y(0), "<mi//>"=2], [y'(0), "<mi//>"=0]
+[ (d^2 x)/(dt^2) +dx/dt'+4x, "<mi//>"=sin t], [x(0), "<mi//>"=4], [x'(0), "<mi//>"=-3]
+[x''+tx'-2, "<mi//>"=0], [x(0), "<mi//>"=0], [x'(0), "<mi//>"=1]
+[x''+6x'-2x, "<mi//>"=0], [x(0), "<mi//>"=1], [x'(0), "<mi//>"=1]
+[y''+y'-2y, "<mi//>"=0], [y(0), "<mi//>"=2], [y'(0), "<mi//>"=0]
+[ (d^2 x)/(dt^2) +dx/dt'+4x, "<mi//>"=sin t], [x(0), "<mi//>"=4], [x'(0), "<mi//>"=-3]
+[x''+tx'-2, "<mi//>"=0], [x(0), "<mi//>"=0], [x'(0), "<mi//>"=1]
+[ (dS)/(dt) , "<mi//>"=-alpha SI], [ (dI)/(dt) , "<mi//>"=alpha SI-beta I,]
+S
+I
+y(t) = cos beta t.
+beta
+y(t)
+1
+["(2.1.1)", x', "<mi//>"=-x-y], ["(2.1.2)", y', "<mi//>"=x+y//5], ["(2.1.3)", x(0), "<mi//>"=1], ["(2.1.4)", y(0), "<mi//>"=-1]
+x(t)
+y(t)
+(t, x, y).
+(t, x)
+(t, y)
+xy
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+N,
+[s(t), "<mi//>"="Susceptible individuals"], [i(t), "<mi//>"="Infected individuals"], [r(t), "<mi//>"="Removed individuals"]
+s'\\x0027f6'i'\\x0027f6'r.
+s(t)+i(t)+r(t) = N.
+[S(t), "<mi//>"=s(t)//N="the fraction of susceptible individuals"], [I(t), "<mi//>"=i(t)//N="the fraction of infected individuals"], [R(t), "<mi//>"=r(t)//N="the fraction of removed individuals"], [1, "<mi//>"=S(t)+I(t)+R(t).]
+alpha
+beta
+[ (dS)/(dt) , "<mi//>"=-alpha SI], [ (dI)/(dt) , "<mi//>"=alpha SI-beta I], [ (dR)/(dt) , "<mi//>"=beta I.]
+alpha
+alpha
+lambda(I) = alpha I
+dS//dt = -alpha SI.
+beta
+beta I,
+dR//dt = beta I.
+beta
+1//"time"
+1//beta
+dI//dt = alpha SI-beta I
+(dI)/dt = alpha SI-beta I.
+S(0) = 0.99,
+I(0) = 0.01,
+R(0) = 0,
+alpha = 1,
+beta = 0.2,
+alpha?
+R_0
+R_0,
+R_0
+R_0 = alpha/beta.
+R_0
+R_0 < 1,
+R_0 = 1,
+R_0 > 1,
+R_0
+R_0
+[ (dS)/(dt) , "<mi//>"=-alpha SI], [ (dI)/(dt) , "<mi//>"=alpha SI-beta I.]
+dI//dt,
+I(t)
+(dI)/(dS) = -1+1/(R_0 S) .
+R_0,
+S
+I
+d^2 I//dS^2.
+I
+I = -S+1/(R_0) ln S+C,
+C
+I(0) ~~ 0
+S(0) ~~ 1.
+lim_(t->oo)I(t) = I_ oo
+0
+S_ oo = lim_(t->oo)S(t)
+R_0 = (ln S_ oo)/(S_ oo-1) .
+R_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+[x'(t), "<mi//>"=f(x,y)], [y'(t), "<mi//>"=g(x,y)]
+(x_0, y_0)
+f
+g.
+J = ([f_x(x_0,y_0), f_y(x_0,y_0)], [g_x(x_0,y_0), g_y(x_0,y_0)]),
+[x'(t), "<mi//>"=f(x,y)], [y'(t), "<mi//>"=g(x,y)]
+[dx/dt, "<mi//>"=x-3y+xy^2], [dy/dt, "<mi//>"=2x-4y-x^2 y,]
+[x'(t), "<mi//>"=f(x,y)], [y'(t), "<mi//>"=g(x,y)]
+(x_0, y_0)
+f(x_0, y_0) = g(x_0, y_0) = 0.
+x
+y
+x(0) = x_0
+y(0) = y_0,
+x(t) = x_0
+y(t) = y_0.
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y)]
+x
+y
+dx//dt = f(x, y) = 0
+dy//dt = g(x, y) = 0,
+x
+y
+xy
+[dx/dt, "<mi//>"=x-3y+xy^2], [dy/dt, "<mi//>"=2x-4y-x^2 y.]
+[dx/dt, "<mi//>"=x-3y+xy^2=0], [dy/dt, "<mi//>"=2x-4y-x^2 y=0,]
+(0, 0).
+x(0) = 1
+y(0) = 1,
+t -> oo.
+t -> oo.
+x' = x-3y+xy^2
+2x-4y-x^2 y
+dx//dt
+dy//dt
+x
+y
+[dx/dt, "<mi//>"=x-3y], [dy/dt, "<mi//>"=2x-4y.]
+A = ([1, -3], [2, -4]),
+lambda = -1
+mu = -2
+bb u = (3, 2)
+bb v = (1, 1),
+[x(t), "<mi//>"=3c_1 e^(-t)+c_2 e^(-2t)], [y(t), "<mi//>"=2c_1 e^(-t)+c_2 e^(-2t).]
+t -> oo.
+x(0) = -0.5
+y(0) = 1.
+x
+y
+[ (dx)/(dt) , "<mi//>"=alpha x(1-x/M)-beta xy], [ (dy)/(dt) , "<mi//>"=gamma y(1-y/N)-delta xy.]
+["(5.1.1)", dx/dt, "<mi//>"=2x(1-x/2)-xy], ["(5.1.2)", dy/dt, "<mi//>"=3y(1-y/3)-2xy.]
+(0, 0),
+(0, 3),
+(2, 0),
+(1, 1).
+(1, 1).
+[u, "<mi//>"=x-1], [v, "<mi//>"=y-1,]
+[ (du)/dt=d/dt(x-1)=dx/dt,], [ (dv)/dt=d/dt(y-1)=dy/dt.]
+["(5.1.3)", (du)/dt, "<mi//>"=-u-v-u^2-uv,], ["(5.1.4)", (dv)/dt, "<mi//>"=-2u-v-2uv-v^2.]
+["(5.1.5)", (du)/dt, "<mi//>"=-u-v,], ["(5.1.6)", (dv)/dt, "<mi//>"=-2u-v.]
+A = ([-1, -1], [-2, -1]).
+A
+lambda = -1+sqrt(2) = 0.4142
+mu = -1-sqrt(2) ~~ -2.4142
+bb u = (1, sqrt(2)) ~~ (1, 1.4142)
+bb v = (1, -sqrt(2)) ~~ (1, -1.4142),
+bb x(t) = c_1 e^(lambda t)([1], [sqrt(2)])+c_2 e^(mu t)([1], [-sqrt(2)]).
+["(5.1.7)", x(t), "<mi//>"=c_1 e^(lambda t)+c_2 e^(mu t)], ["(5.1.8)", y(t), "<mi//>"=c_1 sqrt(2)e^(lambda t)-c_2 sqrt(2)e^(mu t).]
+x(0) = 3
+y(0) = 4,
+c_1 = 3//2+sqrt(2) ~~ 2.9142
+c_2 = 3//2-sqrt(2) ~~ 0.0859,
+["(5.1.9)", x(t), "<mi//>"=2.9142e^(0.4142t)+0.0859e^(-2.4142t)], ["(5.1.10)", y(t), "<mi//>"=4.1213e^(0.4142t)-0.1213e^(-2.4142t).]
+t -> oo
+x(t)
+y(t)
+(1, 1)
+t -> oo
+t -> oo.
+[dx/dt, "<mi//>"=y], [dy/dt, "<mi//>"=-y-sin x.]
+(0, 0)
+sin x
+dy/dt = -y-sin x = -y-(x- (x^3)/(3!) + (x^5)/(5!) -cdots).
+[dx/dt, "<mi//>"=y], [dy/dt, "<mi//>"=-y-x.]
+x' = y
+y' = -y-sin x
+x' = y
+y' = -y-x
+["(5.1.11)", dx/dt, "<mi//>"=x^2-4x-y+4], ["(5.1.12)", dy/dt, "<mi//>"=x^3-y.]
+x
+y
+y = x^2-4x+4
+y = x^3,
+(1, 1),
+(1, 1)
+(1, 1)
+t -> oo
+u = x-1
+v = y-1,
+["(5.1.13)", (du)/dt, "<mi//>"=u(u-2)-v], ["(5.1.14)", (dv)/dt, u(u^2+3u+3)-v.]
+u
+v
+v = u(u-2)
+v = u(u^2+3u+3),
+u
+v
+v = -2u
+v = 3u,
+["(5.1.15)", x'(t), "<mi//>"=f(x,y)], ["(5.1.16)", y'(t), "<mi//>"=g(x,y)]
+(x_0, y_0)
+[u, "<mi//>"=x-x_0], [v, "<mi//>"=y-y_0.]
+(x, y)
+(x_0, y_0),
+(u, v)
+(du)/dt = d/dt(x-x_0) = dx/dt = f(x, y) = f(x_0+u, y_0+v).
+dv//dt = dy//dt = g(x_0+u, y_0+v).
+[f(x_0+u,y_0+v), "<mi//>"=f(x_0,y_0)+f_x(x_0,y_0)u+f_y(x_0,y_0)v], [\ , "<mi//>"+1/2 f_(xx)(x_0,y_0)u^2+f_(xy)(x_0,y_0)uv+1/2 f_(yy)(x_0,y_0)v^2+cdots.]
+f
+f
+[ (du)/dt=f(x_0,y_0)+f_x(x_0,y_0)u+f_y(x_0,y_0)v], [ (dv)/dt=g(x_0,y_0)+g_x(x_0,y_0)u+g_y(x_0,y_0)v.]
+(x_0, y_0)
+[ (du)/dt, "<mi//>"=f_x(x_0,y_0)u+f_y(x_0,y_0)v], [ (dv)/dt, "<mi//>"=g_x(x_0,y_0)u+g_y(x_0,y_0)v.]
+([du//dt], [dv//dt]) = ([f_x(x_0,y_0), f_y(x_0,y_0)], [g_x(x_0,y_0), g_y(x_0,y_0)])([u], [v]).
+J = ([f_x(x_0,y_0), f_y(x_0,y_0)], [g_x(x_0,y_0), g_y(x_0,y_0)])
+D = det(J) > 0
+T = "tr"(J) < 0,
+(T, D)
+T^2 = 4D
+[dx/dt, "<mi//>"=x^2-4x-y+4], [dy/dt, "<mi//>"=x^3-y.]
+J = ([f_x(x_0,y_0), f_y(x_0,y_0)], [g_x(x_0,y_0), g_y(x_0,y_0)]) = ([2x_0-4, -1], [3x_0^2, -1])
+(1, 1),
+J = ([-2, -1], [3, -1]).
+J
+lambda = (-3+-isqrt(11))//2,
+(1, 1).
+[dx/dt, "<mi//>"=x(2+x)+2xy], [dy/dt, "<mi//>"=y(2+y)+2xy]
+[dx/dt, "<mi//>"=x(2+x)-2xy], [dy/dt, "<mi//>"=y(2+y)-2xy]
+[dx/dt, "<mi//>"=x(2+x)+2xy], [dy/dt, "<mi//>"=y(2+y)-2xy]
+[dx/dt, "<mi//>"=x(2+x)+2xy], [dy/dt, "<mi//>"=y^2(2+y)-2xy]
+[dx/dt, "<mi//>"=xy], [dy/dt, "<mi//>"=-x^2+xy]
+[dx/dt, "<mi//>"=y-(x^2+y^2)x], [dy/dt, "<mi//>"=-x-(x^2+y^2)y.]
+[dx/dt, "<mi//>"=y], [dy/dt, "<mi//>"=-x.]
+A = ([0, 1], [-1, 0]),
+lambda = +-i.
+[x'(t), "<mi//>"=f(x,y)], [y'(t), "<mi//>"=g(x,y)]
+(x_0, y_0)
+f
+g.
+J = ([f_x(x_0,y_0), f_y(x_0,y_0)], [g_x(x_0,y_0), g_y(x_0,y_0)]),
+[dx/dt, "<mi//>"=-6x-2x^2-3xy], [dy/dt, "<mi//>"=y-xy-y^2]
+[dx/dt, "<mi//>"=x(2-x-y)], [dy/dt, "<mi//>"=2y(2-x-2y)]
+[dx/dt, "<mi//>"=x(5-x-y)], [dy/dt, "<mi//>"=y(20-x-2y)]
+[dx/dt, "<mi//>"=x(-x^2-y^2+25)], [dy/dt, "<mi//>"=y(x+2y-10)]
+[dx/dt, "<mi//>"=x(y^2-x)], [dy/dt, "<mi//>"=y(y-1)]
+[dx/dt, "<mi//>"=y], [dy/dt, "<mi//>"=-cos x+y]
+[x', "<mi//>"=3sin x+y], [y', "<mi//>"=4x+cos y-1]
+[x', "<mi//>"=-3sin x+y], [y', "<mi//>"=4x+cos y-1]
+[x', "<mi//>"=-3sin x+y], [y', "<mi//>"=4x+3cos y-3]
+(0, 0).
+(0, 0)?
+alpha
+S(t)
+t
+I(t)
+t,
+[ (dS)/(dt) , "<mi//>"=-alpha SI+beta], [ (dI)/(dt) , "<mi//>"=-gamma I+alpha SI.]
+alpha
+gamma
+[ (dS)/(dt) , "<mi//>"=-alpha SI+beta=0], [ (dI)/(dt) , "<mi//>"=-gamma I+alpha SI=0,]
+[S_0, "<mi//>"=gamma/alpha], [I_0, "<mi//>"=beta/gamma.]
+(S_0, I_0).
+[dx/dt, "<mi//>"=ax-alpha xy=x(a-alpha y)], [dy/dt, "<mi//>"=-by+beta xy=y(-b+beta x).]
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y)]
+(f(x, y), g(x, y)),
+x, y
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y).]
+["(2.2.1)", dx/dt, "<mi//>"=f(x,y),], ["(2.2.2)", dy/dt, "<mi//>"=g(x,y).]
+x
+y
+mx''+kx = 0.
+k
+m
+x' = v,
+[x', "<mi//>"=v,], [v', "<mi//>"=-x.]
+x''+x = 0
+x(t) = Acos t+Bsin t
+A
+B,
+[x', "<mi//>"=x], [y', "<mi//>"=y]
+x' = x
+y' = y
+[x', "<mi//>"=-x,], [y', "<mi//>"=-y.]
+x' = -x
+y' = -y
+[x', "<mi//>"=-x,], [y', "<mi//>"=-5y.]
+x' = -x
+y' = -5y
+xy
+[x', "<mi//>"=-3x], [y', "<mi//>"=4y]
+[x', "<mi//>"=2x], [y', "<mi//>"=y//2]
+[x', "<mi//>"=x//2], [y', "<mi//>"=2y]
+[x', "<mi//>"=x+y], [y', "<mi//>"=x-y]
+[ (dR)/(dt) , "<mi//>"=aR(1-R//N)-bRF,], [ (dF)/(dt) , "<mi//>"=-cF+dRF,]
+N
+t,
+bb x(t)
+bb x(t) = ([R(t)], [F(t)]).
+bb x(t)
+(R(t), F(t))
+RF
+(dbb x)/dt = ([R'(t)], [F'(t)]) = ([aR(1-R//N)-bRF,], [-cF+dRF]).
+[ (dR)/(dt) , "<mi//>"=2R(1-R/10)-RF,], [ (dF)/(dt) , "<mi//>"=-5F+RF.]
+(dbb x)/dt = ([2R(1-R//10)-RF], [-5F+RF]).
+RF
+R
+F.
+(R, F) = (10, 10),
+(R', F') = (-100, 50).
+x
+y
+[ (dx)/(dt) , "<mi//>"=alpha x(1-x/M)-beta xy], [ (dy)/(dt) , "<mi//>"=gamma y(1-y/N)-delta xy.]
+x = x(t)
+y = y(t)
+[dx/dt, "<mi//>"=x(1-x)-alpha xy], [dy/dt, "<mi//>"=y(1-y)-alpha xy.]
+alpha.
+alpha = 2,
+[dx/dt, "<mi//>"=x(1-x)-2xy], [dy/dt, "<mi//>"=y(1-y)-2xy.]
+t -> oo.
+dx//dt = 0
+dy//dt = 0:
+[dx/dt, "<mi//>"=x(1-x-2y)], [dy/dt, "<mi//>"=y(1-y-2x).]
+dx//dt = 0,
+["(2.2.3)", x, "<mi//>"=0], ["(2.2.4)", y, "<mi//>"=(1-x)//2.]
+dy//dt = 0,
+["(2.2.5)", y, "<mi//>"=0], ["(2.2.6)", y, "<mi//>"=1-2x.]
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y),]
+x
+y
+dx//dt = f(x, y) = 0
+x
+x
+y
+dy//dt = g(x, y) = 0
+y
+beta = 2
+x
+y
+x
+y
+(0, 0),
+(1, 0),
+(0, 1),
+(1//3, 1//3).
+(1.4, 1.3)
+[dx/dt, "<mi//>"=-4.2], [dy/dt, "<mi//>"=-4.03.]
+dx//dt = 0
+dy//dt = 0.
+dx//dt = 0,
+x
+x
+(0.5, 0.25)
+x
+dy/dt(0.5, 0.25) < 0.
+R
+(0.5, 0.25)
+x
+y
+y
+dx//dt > 0
+y
+dx//dt < 0
+y
+(0.1, 0.1)
+[d/dt x(0.1,0.1), "<mi//>"=0.7], [d/dt y(0.1,0.1), "<mi//>"=0.7.]
+(1.4, 1.3)?
+t.
+x
+y
+y
+x
+x
+y.
+[dx/dt, "<mi//>"=x(1-x)-beta xy], [dy/dt, "<mi//>"=y(1-y)-beta xy,]
+beta = 1//2.
+x
+y
+x >= 0
+y >= 0,
+(x_0, y_0)
+(1, 2),
+(-1, -3).
+x(0) = 2.4
+y(0) = 0.3,
+t -> oo?
+[x', "<mi//>"=y-x^2], [y', "<mi//>"=x-2]
+x
+y = x^2
+y
+x = 2.
+(2, 4),
+x' = y-x^2
+y' = x-2
+(2, 4).
+[x', "<mi//>"=y-2x,], [y', "<mi//>"=x-xy-x^3]
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y).]
+f(x, y) = 0.
+x
+bb x(t)
+dx//dt = 0,
+x
+g(x, y) = 0.
+y
+bb x(t)
+dg//dt = 0.
+y
+x
+y
+bb x(t)
+dx//dt
+dy//dt
+bb x(t)
+t -> oo.
+xy
+dx//dt < 0
+dx//dt > 0.
+x
+dy//dt
+x
+x
+dy//dt > 0
+x
+dy//dt < 0
+y
+y
+dx//dt > 0
+dx//dt < 0
+dx//dt > 0
+dy//dt > 0,
+x(t)
+y(t)
+dx//dt > 0
+dy//dt < 0,
+dx//dt < 0
+dy//dt > 0,
+dx//dt < 0
+dy//dt < 0,
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y)]
+(f(x, y), g(x, y)),
+x, y
+[ (dx)/(dt) , "<mi//>"=alpha x(1-x/M)-beta xy], [ (dy)/(dt) , "<mi//>"=gamma y(1-y/N)-delta xy.]
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y).]
+x
+y
+[dx/dt, "<mi//>"=x(1-x)+beta xy], [dy/dt, "<mi//>"=y(1-y)+beta xy,]
+beta = 1//2.
+x
+y
+x(0) = 2.4
+y(0) = 0.3,
+t -> oo?
+[x', "<mi//>"=3x+4y], [y', "<mi//>"=-x+y]
+[x', "<mi//>"=-3x+4y], [y', "<mi//>"=-x+y]
+[x', "<mi//>"=-3x+4y], [y', "<mi//>"=x+6y]
+[x', "<mi//>"=cos y], [y', "<mi//>"=-x+y]
+[x', "<mi//>"=-3x+4y+x^2], [y', "<mi//>"=-x+y-xy]
+alpha.
+S(t)
+I(t)
+["(2.2.7)", (dS)/(dt) , "<mi//>"=-alpha SI+0.0003S], ["(2.2.8)", (dI)/(dt) , "<mi//>"=alpha SI-0.1I.]
+alpha
+alpha = 0.05,
+S(0) = 1000
+I(0) = 1.
+t -> oo?
+alpha = 0.000001,
+S(0) = 30000
+I(0) = 1.
+t -> oo?
+[x', "<mi//>"=x+y,], [y', "<mi//>"=-2x+y.]
+x
+y
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+RR^2.
+2 xx 2
+2 xx 2
+[dx/dt, "<mi//>"=ax+by,], [dy/dt, "<mi//>"=cx+dy.]
+A = ([a, b], [c, d])\ and\ bb x(t) = ([x(t)], [y(t)]),
+([x'(t)], [y'(t)]) = ([ax(t)+by(t)], [cx(t)+dy(t)]) = ([a, b], [c, d])([x(t)], [y(t)]).
+(dbb x)/dt = Abb x,
+bb x' = (dbb x)/dt = ([x'(t)], [y'(t)]).
+2 xx 2
+[ax+by, "<mi//>"=alpha,], [cx+dy, "<mi//>"=beta,]
+["(3.1.1)", ([a, b], [c, d])([x], [y])=([ax+by], [cx+dy])=([alpha], [beta]).]
+2 xx 2
+A.
+A = ([a, b], [c, d]).
+A
+([x], [y]) = ([a, b], [c, d])^(-1)([alpha], [beta]),
+A^(-1) = 1/(ad-bc) ([d, -b], [-c, a]).
+A
+det(A) = ad-bc != 0.
+det(A) = 0,
+A([x], [y]) = ([0], [0]).
+det(A) != 0,
+x = 0
+y = 0.
+det(A) = 0,
+a != 0.
+x = -(b//a)y,
+-c(b/a)y+dy = 0.
+(ad-bc)y = 0.
+det(A) = ad-bc = 0,
+y
+x = -(b//a)y.
+2 xx 2
+bb x
+bb y
+RR^2
+bb x = (x_1, x_2)
+bb y = (y_1, y_2).
+bb x
+bb y
+det([x_1, y_1], [x_2, y_2]) != 0.
+RR^2,
+RR^2
+bb x = (x_1, x_2)
+bb y = (y_1, y_2),
+bb z = (z_1, z_2)
+([z_1], [z_2]) = alpha([x_1], [x_2])+beta([y_1], [y_2]),
+alpha
+beta
+[z_1, "<mi//>"=alpha x_1+beta y_1], [z_2, "<mi//>"=alpha x_2+beta y_2]
+alpha
+beta.
+det([x_1, y_1], [x_2, y_2]) != 0.
+RR^2
+RR^2
+RR^2.
+bb e_1 = (1, 0)
+bb e_2 = (0, 1)
+RR^2.
+bb z = (z_1, z_2),
+bb z = z_1 bb e_1+z_2 bb e_2.
+bb e_1
+bb e_2
+RR^2.
+bb v_1 = (2, 1)
+bb v_2 = (3, 2).
+det([2, 3], [1, 2]) != 0,
+RR^2.
+bb z = (-5, -4),
+bb z = 2bb v_1-3bb v_2.
+bb z
+(2, -3)
+{bb v_1, bb v_2}.
+(1, 1)
+(-1, -1)
+RR^2
+2 xx 2
+A = ([5, 3], [-6, 4]), B = ([2, 3], [1, 2]), bb x = ([1], [0])bb y = ([2], [-1])
+AB,
+BA
+A^(-1),
+B^(-1),
+(AB)^(-1),
+B^(-1)A^(-1)
+det(A), det(B), det(AB), det(A^(-1))
+Abb x,
+Abb y,
+bb y^T bb x,
+bb x bb y^T,
+bb y^T = (2, -1)
+bb v
+A
+Abb v = lambda bb v
+lambda in bb R.
+lambda
+A.
+A = ([a, b], [c, d])\ and\ bb v = ([x], [y]) != '\\y01d7ce',
+Abb x = lambda bb v
+Abb v-lambda bb v = '\\y01d7ce'.
+[([a, b], [c, d])([x], [y])-lambda([x], [y]), "<mi//>"=([a, b], [c, d])([x], [y])-([lambda, 0], [0, lambda])([x], [y])], [\ , "<mi//>"=([a-lambda, b], [c, d-lambda])([x], [y])], [\ , "<mi//>"=([0], [0]).]
+(x, y) = (0, 0).
+A-lambda I = ([a-lambda, b], [c, d-lambda])
+det(A-lambda I) = det([a-lambda, b], [c, d-lambda]) = lambda^2-(a+d) lambda+(ad-bc).
+det(A-lambda I) = lambda^2-(a+d) lambda+(ad-bc)
+A.
+A
+A.
+A = ([1, 2], [4, 3]).
+A,
+A([x], [y]) = lambda([x], [y]).
+I
+2 xx 2
+I = ([1, 0], [0, 1]),
+["(3.1.2)", (A-lambda I)([x], [y])=([0], [0]).]
+A-lambda I
+2 xx 2
+det(A-lambda I) = 0.
+[det(A-lambda I), "<mi//>"=det([1-lambda, 2], [4, 3-lambda])], [\ , "<mi//>"=(1-lambda)(3-lambda)-8], [\ , "<mi//>"=lambda^2-4 lambda-5], [\ , "<mi//>"=(lambda-5)(lambda+1).]
+lambda = 5
+-1.
+[x+2y, "<mi//>"=lambda x], [4x+3y, "<mi//>"=lambda y.]
+[(1-lambda)x+2y, "<mi//>"=0], [4x+(3-lambda)y, "<mi//>"=0]
+[(1-lambda)x+2y, "<mi//>"=0], [(lambda^2-4 lambda-5)y, "<mi//>"=0.]
+lambda = 5
+lambda = -1
+lambda = 5,
+-2x+y = 0,
+(1, 2)
+A
+lambda = 5.
+lambda = -1,
+(1, -1).
+A = ([1, 3], [1, -1]).
+A = ([-8, 2], [-15, 3]).
+A = ([4, 3], [-6, -5]).
+A = ([7, 4], [-10, -5]).
+A = ([3, 1], [-1, 1]).
+A
+A^(-1)
+AA^(-1) = A^(-1)A = I,
+I
+2 xx 2
+I = ([1, 0], [0, 1]).
+A = ([a, b], [c, d]),
+A^(-1) = 1/(ad-bc) ([d, -b], [-c, a]).
+A
+det(A) = ad-bc != 0.
+bb x
+bb y
+RR^2
+bb x = (x_1, x_2)
+bb y = (y_1, y_2).
+bb x
+bb y
+det([x_1, y_1], [x_2, y_2]) != 0.
+RR^2,
+RR^2
+bb x = (x_1, x_2)
+bb y = (y_1, y_2),
+bb z = (z_1, z_2)
+([z_1], [z_2]) = alpha([x_1], [x_2])+beta([y_1], [y_2]),
+alpha
+beta
+RR^2
+RR^2
+RR^2.
+det(A-lambda I),
+A
+A.
+lambda,
+A,
+A
+(A-lambda I)([x], [y]) = ([0], [0]).
+bb v_1
+bb v_2
+A,
+bb v_1
+bb v_2
+bb x = ([x_1], [x_2]),
+bb x
+bb x^T = ([x_1, x_2]).
+A = ([3, -2], [0, -1]), bb x = ([4], [1]), \ and\ bb y = ([-2], [3]),
+Abb x
+Abb y
+bb x^T bb y
+bb y^T bb x
+A = ([1, -2], [3, 1])\ and\ B = ([4, 1], [-1, -2]),
+A+B
+2A-3B
+AB
+BA
+A^(-1)
+B^(-1)
+A = ([2, 1-i], [2-i, 2])\ and\ B = ([4i, 1-i], [1+3i, -2-i]),
+A+B
+3A-2B
+AB
+BA
+A
+A = ([3, 4], [2, 1])
+A = ([6, 3], [-4, -1])
+A = ([3, 1], [-1, 1])
+A = ([-1, 6], [-2, 6])
+A = ([3, 1], [-2, 0])
+A = ([1, -2], [1, 3])
+A = ([2, 0], [0, -3])
+A = ([1, 2], [0, 3])
+A = ([2, 1], [1, 3])
+A = ([1, -2], [-3, 2])
+A
+A^(-1)
+AA^(-1) = A^(-1)A = I,
+I = ([1, 0], [0, 1]).
+A = ([1, 2], [3, 4])
+A = ([6, 3], [-4, -1])
+A = ([3, -7], [-2, 5])
+A = ([8, 7], [2, 2])
+A = ([-3, 4], [-2, 5])
+A = ([3, 2], [4, 3])
+A = ([4, 0], [0, -3])
+A = ([1, 2], [-3, -6])
+A
+A.
+A.
+A.
+A = ([3, 4], [2, 1])
+A = ([6, 3], [-4, -1])
+A = ([3, 1], [-1, 1])
+A = ([-1, 6], [-2, 6])
+A = ([3, 1], [-2, 0])
+A = ([1, -2], [1, 3])
+A = ([2, 0], [0, -3])
+A = ([1, 2], [0, 3])
+A = ([2, 1], [1, 3])
+A = ([1, -2], [-3, 2])
+a
+(2, a)
+(4, -1)
+2 xx 2
+A = ([a, b], [c, d])
+"tr"(A) = a+d.
+"tr"(AB) = "tr"(BA)
+2 xx 2
+A
+B.
+A
+B
+2 xx 2
+det(AB) = det(A)det(B).
+A
+2 xx 2
+det(A^(-1])) = 1//.
+2 xx 2
+I = ([1, 0], [0, 1]).
+AI = IA = A
+2 xx 2
+A
+A = ([alpha, gamma], [0, beta]).
+A
+alpha
+beta.
+bb x = (x_1, x_2)
+bb y = (y_1, y_2).
+bb x
+bb y
+det([x_1, y_1], [x_2, y_2]) != 0.
+A
+A = ([1, 3], [1, -1]).
+A
+A.
+A.
+A
+lambda_1 = 2
+bb v_1 = (1, 1//3)
+lambda_2 = -2
+bb v_2 = (1, -1).
+B = ([1, 1], [-1, 3])
+lambda = 2
+bb v = (1, 1).
+C = ([4, 1], [-1, 4])
+lambda = 4-i
+mu = 4+i.
+lambda
+mu
+bb u = (1, -i)
+bb v = (1, i),
+4-i
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+bb x' = Abb x,
+A
+2 xx 2
+lambda.
+["(3.5.1)", ([dx//dt], [dy//dt])=([2, 1], [-1, 4])([x], [y]).]
+lambda^2-6 lambda+9
+lambda^2-6 lambda+9 = (lambda-3)^2.
+lambda = 3
+bb v = (1, 1).
+A
+([dx//dt], [dy//dt]) = ([lambda, 0], [0, lambda])([x], [y]) = A([x], [y]).
+A
+lambda.
+Abb v = lambda bb v,
+RR^2
+lambda.
+bb x(t) = alpha e^(lambda t)bb v.
+lambda < 0
+lambda > 0.
+A = ([lambda, 1], [0, lambda]).
+lambda;
+(1, 0).
+bb x_1(t) = alpha e^(lambda t)([1], [0]).
+[x', "<mi//>"=lambda x+y], [y', "<mi//>"=lambda y.]
+y != 0,
+y(t) = beta e^(lambda t).
+x' = lambda x+beta e^(lambda t),
+x(t) = alpha e^(lambda t)+beta te^(lambda t).
+alpha e^(lambda t)([1], [0])+beta e^(lambda t)([t], [1]).
+[x', "<mi//>"=-x+y], [y', "<mi//>"=-y], [x(0), "<mi//>"=1], [y(0), "<mi//>"=3.]
+A = ([-1, 1], [0, -1])
+lambda = -1.
+lambda
+bb v = (1, 0).
+[x(t), "<mi//>"=c_1 e^(-t)+c_2 te^(-t)], [y(t), "<mi//>"=c_2 e^(-t).]
+x(0) = 1
+y(0) = 3,
+[x(t), "<mi//>"=e^(-t)+3te^(-t)], [y(t), "<mi//>"=3e^(-t).]
+dbb x//dt = Abb x,
+A = ([1, -2], [0, 1])
+A.
+lambda.
+bb v
+lambda.
+dbb x//dt = Abb x.
+xy
+dbb x//dt = Abb x.
+dbb x//dt = Abb x.
+bb x' = Abb x,
+A = ([2, 0], [0, 2]).
+lambda = 2,
+bb v_1 = (1, 0)
+bb v_2 = (0, 1).
+bb x(t) = c_1 e^(2t)([1], [0])+c_2 e^(2t)([0], [1]).
+[x', "<mi//>"=2x], [y', "<mi//>"=2y]
+bb x' = Abb x,
+A = ([5, 1], [-4, 1]).
+A
+lambda^2-6 lambda+9 = (lambda-3)^2,
+lambda = 3
+bb v_1 = (1, -2).
+bb x_1(t) = e^(3t)bb v_1;
+A
+bb v,
+bb v_2
+(A-lambda I)bb v_2 = bb v_1.
+bb w
+bb v_1,
+bb w = (1, 0).
+(A-lambda I)bb w = (A-3I)bb w = ([2, 1], [-4, -2])([1], [0]) = ([2], [-4]) = 2bb v_1.
+bb v_2 = (1//2)bb w = (1//2, 0),
+bb x_2 = e^(lambda t)(bb v_2+tbb v_1) = e^(3t)([1//2+t], [-2t])
+bb x = c_1 bb x_1+c_2 bb x_2 = c_1 e^(3t)([1], [-2])+c_2 e^(3t)([1//2+t], [-2t]).
+bb x' = Abb x,
+A
+dbb x//dt = Abb x,
+A = ([4, 3], [-3, -2])
+A.
+lambda.
+bb v_1
+lambda.
+dbb x//dt = Abb x.
+xy
+bb x_1,
+dbb x//dt = Abb x.
+dbb x//dt = Abb x,
+bb w
+bb v_1
+(A-lambda I)bb w.
+alpha bb v_1.
+bb v_2 = (1//alpha)bb w.
+bb x_2 = e^(lambda t)(bb v_2+tbb v_1).
+dbb x//dt = Abb x.
+A = ([lambda, 1], [0, lambda]),
+A
+bb x' = Abb x
+bb x(t) = alpha e^(lambda t)([1], [0])+beta e^(lambda t)([t], [1]).
+lambda < 0,
+t -> oo.
+lambda > 0,
+dbb x//dt = Abb x
+bb v_1
+bb v_1.
+bb x_1 = e^(lambda t)bb v_1.
+dbb x//dt = Abb x,
+bb w
+bb v_1
+(A-lambda I)bb w.
+alpha bb v_1.
+bb v_2 = (1//alpha)bb w.
+bb x_2 = e^(lambda t)(bb v_2+tbb v_1).
+dbb x//dt = Abb x
+bb x(t) = c_1 e^(lambda t)bb v_1+c_2 e^(lambda t)(bb v_2+tbb v_1).
+2 xx 2
+2 xx 2
+[x', "<mi//>"=9x+4y], [y', "<mi//>"=-9x-3y]
+[x', "<mi//>"=5x+4y], [y', "<mi//>"=-9x-7y]
+[x', "<mi//>"=-x+y], [y', "<mi//>"=-x-3y]
+[x', "<mi//>"=2x+y], [y', "<mi//>"=-x]
+[x', "<mi//>"=8x+4y], [y', "<mi//>"=-9x-4y]
+[x', "<mi//>"=3x+4y], [y', "<mi//>"=-9x-9y]
+[x', "<mi//>"=11x+4y], [y', "<mi//>"=-9x-y]
+[x', "<mi//>"=13x//2+4y], [y', "<mi//>"=-9x-11y//2]
+[x', "<mi//>"=9x+4y], [y', "<mi//>"=-9x-3y], [x(0), "<mi//>"=2], [y(0), "<mi//>"=-3]
+[x', "<mi//>"=5x+4y], [y', "<mi//>"=-9x-7y], [x(0), "<mi//>"=2], [y(0), "<mi//>"=1]
+[x', "<mi//>"=-x+y], [y', "<mi//>"=-x-3y], [x(0), "<mi//>"=2], [y(0), "<mi//>"=2]
+[x', "<mi//>"=2x+y], [y', "<mi//>"=-x], [x(0), "<mi//>"=0], [y(0), "<mi//>"=-5]
+[x', "<mi//>"=8x+4y], [y', "<mi//>"=-9x-4y], [x(0), "<mi//>"=1], [y(0), "<mi//>"=-1]
+[x', "<mi//>"=3x+4y], [y', "<mi//>"=-9x-9y], [x(0), "<mi//>"=-1], [y(0), "<mi//>"=0]
+[x', "<mi//>"=11x+4y], [y', "<mi//>"=-9x-y], [x(0), "<mi//>"=-3], [y(0), "<mi//>"=2]
+[x', "<mi//>"=13x//2+4y], [y', "<mi//>"=-9x-11y//2], [x(0), "<mi//>"=-2], [y(0), "<mi//>"=-2]
+dbb x//dt = Abb x,
+A = ([3, 1], [-4, -1]).
+x(0) = -2
+y(0) = 5.
+dbb x//dt = Abb x
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+["(4.5.1)", LI''+RI'+1/C I=E'(t),]
+I(t)
+E(t)
+R
+R,
+C
+I(0)
+I'(0)
+mx''+bx'+kx = f(t),
+m
+b
+k
+m
+L
+b
+R
+k
+1//C
+f(t)
+E'(t)
+E(t),
+I(0) = 3.2
+R = 7
+L = 1
+C = 0.1
+I(0) = 3.2
+E(t),
+E(t) = 0.
+1*I''+7I'+1/0.1 I = 0, \ I(0) = 3.2, \ I'(0) = 0.
+["(4.5.2)", I''+7I'+10I=0,\ I(0)=3.2,\ I'(0)=0.]
+I(t).
+i,
+-1.
+R
+0.007,
+0.07,
+0.7,
+7,
+70,
+700,
+[0, 25]
+[-3, 3]
+R
+I(t),
+t.
+E(t) = sin(omega t)
+I(t) = y(t)
+["(4.5.3)", Ly''+Ry'+1/C y=omega cos(omega t).]
+t -> oo
+["(4.5.4)", y_("steady state")= (C^2 R omega^2 sin(omega t)-(C^2 L omega^3-C omega)cos(omega t))/(C^2 L^2 omega^4+(C^2 R^2-2CL) omega^2+1) .]
+V_("out")
+V_("in"),
+V_("out")//V_("in").
+V_("out")
+R
+V_("out") = R*"Amplitude"(y_("steady state")(t)).
+V_("in")
+E(t) = sin(omega t).
+ay''+by'+cy = 0, \ y(0) = y_0, \ y'(0) = 0
+b^2-4ac < 0,
+["(4.5.5)", y(t), "<mi//>"=Ae^(-bt//2a)sin( (sqrt(4ac-b^2))/(2a) t)+Be^(-bt//2a)cos( (sqrt(4ac-b^2))/(2a) t)], ["(4.5.6)", \ , "<mi//>"=e^(-bt//2a)(A sin( (sqrt(4ac-b^2))/(2a) t)+B cos( (sqrt(4ac-b^2))/(2a) t)).]
+omega = sqrt(4ac-b^2)//2a,
+["(4.5.7)", y(t)=e^(-bt//2a)(A sin(omega t)+B cos(omega t)).]
+sin(alpha+beta) = sin alpha cos beta+sin beta cos alpha.
+alpha = omega t
+beta = theta,
+[A sin(omega t)+B cos(omega t), "<mi//>"=sqrt(A^2+B^2)(A/(sqrt(A^2+B^2)) sin(omega t)+B/(sqrt(A^2+B^2)) cos(omega t))], [\ , "<mi//>"=sqrt(A^2+B^2)(cos theta sin(omega t)+sin theta cos(omega t))], [\ , "<mi//>"=sqrt(A^2+B^2)sin(omega t+theta)]
+theta = arctan(B//A)
+theta
+y''+6y'+25y = 0, \ y(0) = 1, \ y'(0) = 0
+["(4.5.8)", y(t)=1/4 e^(-3t)(3sin(4t)+4cos(4t)).]
+[y(t), "<mi//>"=5/4 e^(-3t)sin(4t+arctan(4/3))], [\ , "<mi//>"=5/4 e^(-3t)sin(4(t+ ((arctan(4//3))/4))], [\ , "<mi//>"=5/4 e^(-3t)sin(4(t+0.231824)),]
+omega = 4
+theta = arctan(4//3) = 0.231824
+3sin(4t)+4cos(4t),
+sin(omega t).
+0.2318
+0.2318
+y''+10y'+29y = 0, \ y(0) = 1, \ y'(0) = 0
+theta
+[0, 2]
+sin(omega t)
+cos(omega t)
+["(4.5.9)", "Amplitude"(y_("steady state"))=Rsqrt( (C^2 omega^2)/(C^2 L^2 omega^4+(C^2 R^2-2CL) omega^2+1) ).]
+V_("out"),
+V_("in")
+"gain" = Rsqrt( (C^2 omega^2)/(C^2 L^2 omega^4+(C^2 R^2-2CL) omega^2+1) ).
+V_("in") = 1
+E(t) = sin(omega t)
+1,
+R,
+L,
+C,
+omega.
+E(t),
+E(t) = sin(omega t).
+R
+1
+L
+1
+C
+omega
+C,
+omega,
+omega,
+C = 0.5,
+0.05,
+0.005,
+0.0005
+R = 1
+L = 1
+C = 0.0005
+omega = 45
+44.7214
+omega
+0.
+omega,
+C,
+C
+omega.
+E(t) = sin(omega t)
+Ly''+Ry'+1/C y = omega cos(omega t), \ y(0) = 0, \ y'(0) = 0
+omega = 1//sqrt(LC)
+L
+C.
+1
+1,000
+["(4.5.10)", L(dI^2)/(dt^2) +R(dI)/(dt) +1/C I=E'(t),]
+E(t) = sin(omega t),
+I(0) = 0
+I'(t) = 0.
+E(t) = sin(omega t),
+L = 0.033
+R = 100
+C
+omega.
+omega = 540,000*2 pi,
+omega = x*1000*2 pi.
+A
+B
+sin(omega t)
+cos(omega t)
+sin(omega t)
+cos(omega t)
+C
+omega.
+omega
+omega = 540000*2*pi
+omega = 880000*2*pi
+omega = 1520000*2*pi
+C
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+["(1.8.1)", x'=r(1-x/K)x-c(x^2)/(a+x^2) ]
+x
+a = 0.01,
+c = 1,
+K = 1,
+r,
+x' = rx(1-x)- (x^2)/(0.01+x^2) .
+rx(1-x)- (x^2)/(0.01+x^2) = 0
+xr
+0 <= r < 1.
+r = x
+r
+t.
+t = 10
+t = 20
+t = 120
+t = 0,
+t >= 0.
+h = 6
+h = 1
+h = 1
+t = 0, 24, 48, ..., 168
+t >= 0
+t = 0.
+h = 1
+P,
+(dP)/dt = kP(1-P/M)-EP, \ P(0) = P_0,
+E
+k
+P_0
+t
+M = 11
+k = 1.2
+E
+E_A
+M_A
+M
+E
+M_A
+E_A
+M_B
+E_B
+M_C
+E_C
+M_B
+E
+E_B.
+E
+E_C
+M_C
+w in(0, 1)
+dt,
+lambda dt
+(dw)/dt = lambda(1-w).
+w
+lambda
+w,
+lambda = gw
+g > 0.
+(dw)/dt = gw(1-w).
+rw.
+(dw)/dt = gw(1-w)-rw.
+g
+r
+(dw)/dt = gw(1-w)-rw.
+theta in(0, 1)
+dt,
+(dw)/dt = (1-theta)gw(1-w).
+r
+w.
+r = r_0 P(w),
+r_0
+P
+w in[0, 1]
+P(0) = 1.
+(dw)/dt = gw(1-w)-r_0 P(w)w.
+r_0 < g
+r_0 > g.
+theta in(0, 1)
+dt,
+(dw)/dt = (1-theta)gw(1-w).
+Q
+x = gw(1-w).
+Q
+x >= 0,
+Q(0) >= 0.
+Q(x) < 1
+x.
+(dw)/dt = (1-Q(gw(1-w))gw(1-w).
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+f
+g
+f
+g
+(f**g)(t) = int_0^t f(t-tau)g(tau)d tau = int_0^t f(tau)g(t-tau)d tau.
+f
+g
+cc L(f)(s) = F(s)
+cc L(g)(s) = G(s)
+s >= a > 0,
+F(s)G(s) = cc L(f**g)(s)
+s > a.
+[ay''+by'+cy, "<mi//>"=g(t)], [y(0), "<mi//>"=y_0], [y'(0), "<mi//>"=y_1.]
+f
+g
+f
+g
+(f**g)(t) = int_0^t f(t-tau)g(tau)d tau = int_0^t f(tau)g(t-tau)d tau.
+f**g = g**f.
+f**(g+h) = f**g+f**h.
+f**(g**h) = (f**g)**h.
+0**f = f**0 = 0.
+f**1 != f.
+f(t) = cos t.
+(f**1)(t) = int_0^t cos(t-tau)*1d tau = sin t.
+f**f
+f
+g
+cc L(f)(s) = F(s)
+cc L(g)(s) = G(s)
+s >= a > 0.
+F(s)G(s) = cc L(f**g)(s)
+s > a.
+[F(s), "<mi//>"=int_0^ oo e^(-s xi)f(xi)d xi], [G(s), "<mi//>"=int_0^ oo e^(-s tau)g(tau)d tau,]
+[F(s)G(s), "<mi//>"=int_0^ oo e^(-s xi)f(xi)d xi int_0^ oo e^(-s tau)g(tau)d tau], [\ , "<mi//>"=int_0^ oo g(tau)(int_ tau^ oo e^(-st)f(t-tau)dt)d tau,]
+xi = t-tau
+int_0^ oo g(tau)(int_ tau^ oo e^(-st)f(t-tau)dt)d tau = int_0^ oo e^(-st)(int_0^t f(t-tau)g(tau)d tau)dt.
+f**g.
+F(s)G(s) = cc L(f**g)(s).
+1/(s^2(s+1)) = 1/(s^2) *1/(s+1) .
+cc L[t] = 1//s^2
+cc L[e^(-t)] = 1//(s+1),
+[cc L^(-1)[1/(s^2(s+1)) ], "<mi//>"=cc L^(-1)[1/(s^2) ]**cc L^(-1)[1/(s+1) ]], [\ , "<mi//>"=int_0^t(t-u)e^(-u)du], [\ , "<mi//>"=t+e^(-t)-1.]
+1//(s^2(s+1)).
+H(s) = a/(s^2(s^2+a^2)) = 1/(s^2) *a/(s^2+a^2) .
+1//s^2
+t,
+a//(s^2+a^2).
+sin at.
+H(s)
+h(t) = int_0^t(t-tau)sin a tau d tau = (at-sin at)/(a^2) .
+[y''+4y, "<mi//>"=g(t)], [y(0), "<mi//>"=3], [y'(0), "<mi//>"=-1.]
+s^2 Y(s)-3s+1+4Y(s) = G(s),
+G(s)
+g(t).
+Y(s),
+Y(s) = (3s-1)/(s^2+4) + (G(s))/(s^2+4) = 3 s/(s^2+4) -1/2 2/(s^2+4) +1/2 2/(s^2+4) G(s).
+y = 3cos 2t-2/2 sin 2t+1/2 int_0^t sin 2(t-tau)g(tau)d tau.
+[ay''+by'+cy, "<mi//>"=g(t)], [y(0), "<mi//>"=y_0], [y'(0), "<mi//>"=y_1]
+g(t).
+(as^2+bs+c)Y(s)-(as+b)y_0-ay_1 = G(s)
+Y(s) = Phi(s)+Psi(s),
+[Phi(s), "<mi//>"= ((as+b)y_0+ay_1)/(as^2+bs+c) ], [Psi(s), "<mi//>"= (G(s))/(as^2+bs+c) .]
+y = varphi(t)+psi(t),
+varphi(t) = cc L^(-1)(Phi(s))
+psi(t) = cc L^(-1)(Psi(s)).
+varphi(t)
+[ay''+by'+cy, "<mi//>"=0], [y(0), "<mi//>"=y_0], [y'(0), "<mi//>"=y_1.]
+a,
+b,
+c,
+varphi(t)
+psi(t),
+Psi(s) = 1/(as^2+bs+c) G(s) = H(s)G(s),
+H(s) = 1//(as^2+bs+c).
+h(t)
+H(s),
+psi(t) = cc L^(-1)(H(s)G(s)) = int_0^t h(t-tau)g(tau)d tau.
+G(s) = 1,
+g(t) = delta(t)
+psi(s) = H(s).
+h(t)
+[ay''+by'+cy, "<mi//>"=delta(t)], [y(0), "<mi//>"=y_0], [y'(0), "<mi//>"=y_1.]
+h(t)
+f
+g
+f
+g
+(f**g)(t) = int_0^t f(t-tau)g(tau)d tau = int_0^t f(tau)g(t-tau)d tau.
+f**g = g**f
+f**(g+h) = f**g+f**h
+f**(g**h) = (f**g)**h
+0**f = f**0 = 0
+f**1 != f.
+f**f
+f
+g
+cc L(f)(s) = F(s)
+cc L(g)(s) = G(s)
+s >= a > 0.
+F(s)G(s) = cc L(f**g)(s)
+s > a.
+[ay''+by'+cy, "<mi//>"=g(t)], [y(0), "<mi//>"=y_0], [y'(0), "<mi//>"=y_1.]
+f(t)
+g(t)
+f(t) = 2
+g(t) = t
+f(t) = t
+g(t) = t
+f(t) = t
+g(t) = e^(3t)
+f(t) = t
+g(t) = sin t
+f(t) = e^(2t)
+g(t) = e^(3t)
+f(t) = e^(3t)
+g(t) = e^(2t)
+F(s)
+F(s) = 1/((s-1)(s-3))
+F(s) = 3/(s(s-1))
+F(s) = 2/(s^2(s^2+2))
+F(s) = 1/(s^2+4s-12)
+F(s) = 1/((s-1)(s-3))
+F(s) = 1/((s-1)(s-3))
+2y''+y'+2y = g(t),
+y(0) = 0,
+y'(0) = 0
+y''-y'-2y = g(t),
+y(0) = 0,
+y'(0) = 0
+(d^2 x)/(dx^2) -6 dx/dt+25x = g(t),
+x(0) = 1,
+x'(0) = -2
+y''+16y = g(t),
+y(0) = 1,
+y'(0) = 0
+y''+16y = g(t),
+y(0) = 1,
+y'(0) = 0
+y''+2y'+y = g(t),
+y(0) = -1,
+y'(0) = 3
+f**g = g**f.
+f
+g
+f**(g+h) = f**g+f**h
+f,
+g,
+h.
+f**(g**h) = (f**g)**h
+f,
+g,
+h.
+0**f = f**0 = 0.
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+x''+p(t)x'+q(t)x = g(t)
+x = x_h+x_p,
+x_p
+x_p
+x''+p(t)x'+q(t)x = g(t)
+x_h
+x''+p(t)x'+q(t)x = 0.
+x''+p(t)x'+q(t)x = g(t).
+mx''(t)+bx'(t)+kx(t) = g(t),
+m
+b
+k
+F(t) = g(t)
+I(t)
+R
+C
+L,
+E(t),
+LI''+RI'+1/C I = E'(t).
+g(t)
+E'(t),
+x''+p(t)x'+q(t)x = g(t).
+g(t).
+g(t),
+["(4.2.1)", x''+p(t)x'+q(t)x=g(t)]
+x_1 = x_1(t)
+x_2 = x_2(t).
+x_1(t)-x_2(t)
+x''+p(t)x'+q(t)x = 0.
+x_1
+x_2
+[x_1^'' +p(t)x_1^' +q(t)x_1, "<mi//>"=g(t)], [x_2^'' +p(t)x_2^' +q(t)x_2, "<mi//>"=g(t).]
+[ (d^2)/(dt^2) (x_1-x_2)+p(t) d/dt(x_1-x_2)+q(t)(x_1-x_2)], [=( (d^2 x_1)/(dt^2) +p(t) (dx_1)/dt+q(t)x_1)-( (d^2 x_2)/(dt^2) +p(t) (dx_2)/dt+q(t)x_2)], [=g(t)-g(t)=0.]
+["(4.2.2)", x''+p(t)x'+q(t)x=g(t).]
+x = x_h+x_p,
+x_h
+x''+p(t)x'+q(t)x = 0,
+x_p
+x_q
+x_q-x_p
+x''+p(t)x'+q(t)x = 0.
+x_q-x_p = x_h
+x_q = x_h+x_p.
+x_p
+x''+p(t)x'+q(t)x = g(t),
+x_h
+x''+p(t)x'+q(t)x = 0.
+x''+p(t)x'+q(t)x = g(t)
+x = x_h+x_p.
+mx''+bx'+kx = g(t)
+g(t);
+g(t) = e^(-at),
+g(t) = k,
+g(t) = cos omega t
+g(t) = sin omega t,
+mx''+bx'+kx = 0,
+m > 0,
+b > 0,
+k > 0.
+x''+px'+qx = 0,
+p = b//m
+q = k//m
+[x', "<mi//>"=y], [y', "<mi//>"=-qx-py.]
+A = ([0, 1], [-q, -p]),
+-p
+q.
+"tr"(A) < 0
+det(A) > 0,
+t -> oo.
+x''+px'+qx = g(t)
+x = x_h+x_p,
+p > 0
+q > 0.
+x = x_h+x_p
+x = x_h+x_p -> x_p
+t -> oo.
+t.
+["(4.2.3)", x''+5x'+4x=1,]
+x''+5x'+4x = 0
+x_h = c_1 e^(-t)+c_2 e^(-4t).
+x_p = 1//4.
+x(t) = c_1 e^(-t)+c_2 e^(-4t)+1/4.
+t -> oo,
+x = 1//4
+["(4.2.4)", x''+5x'+4x=e^(-2t).]
+x_p = Ae^(-2t).
+e^(-2t) = x_p^'' +5x_p^' +4x_p = 4Ae^(-2t)-10Ae^(-2t)+4Ae^(-2t) = -2Ae^(-2t).
+A = -1//2.
+x = c_1 e^(-t)+c_2 e^(-4t)-1/2 e^(-2t).
+t -> oo
+x''+5x'+4x = 2cos t.
+x_p = Acos t+Bsin t.
+[x_p^' , "<mi//>"=-A sin t+B cos t], [x_p^'' , "<mi//>"=-A cos t-B sin t.]
+[2cos t, "<mi//>"=x_p^'' +5x_p^' +4x_p], [\ , "<mi//>"=(-A cos t-B sin t)+5(-A sin t+B cos t)+4(A cos t+B sin t)], [\ , "<mi//>"=(3A+5B)cos t+(-5A+3B)sin t.]
+[3A+5B, "<mi//>"=2], [-5A+3B, "<mi//>"=0.]
+A = 3//17
+B = 5//17.
+x_p = 3/17 cos t+5/17 sin t
+x''+5x'+4x = 2cos t.
+x = c_1 e^(-t)+c_2 e^(-4t)+3/17 cos t+5/17 sin t.
+x''+5x'+4x = e^(-t).
+x''+5x'+4x = 0
+x_h = c_1 e^(-t)+c_2 e^(-4t).
+x_p(t) = Ae^(-t)
+e^(-t)
+e^(-t)
+x_p = Ate^(-t).
+[e^(-t), "<mi//>"= (d^2)/(dt^2) Ate^(-t)+5 d/(dt) Ate^(-t)+4Ate^(-t)], [\ , "<mi//>"=A(-e^(-t)-e^(-t)+te^(-t))+5A(e^(-t)-te^(-t))+4Ate^(-t)], [\ , "<mi//>"=3Ae^(-t).]
+A = 1//3
+x = c_1 e^(-t)+c_2 e^(-4t)+1/3 te^(-t).
+x''+5x'+4x = e^(-t)
+x''+4x'-21x = 2e^(4t)
+x''+4x'-21x = 3e^(3t)
+x''-4x'+20x = 3sin 3t
+x''-4x'+20x = 2cos 4t
+x''-14x'+49x = sin 3t
+x_p
+s = 0, 1, 2
+x_p
+x''+px'+qx = g(t).
+g(t)
+x_p
+P_n(t) = a_n t^n+cdots+a_1 t+a_0
+t^s(A_n t^n+cdots+A_1 t+A_0)
+P_n(t)e^(alpha t)
+t^s(A_n t^n+cdots+A_1 t+A_0)e^(alpha t)
+P_n(t)e^(alpha t){[sin beta t], [cos beta t]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+t^s e^(alpha t)[(A_n t^n+cdots+A_1 t+A_0)cos beta t
++(B_n t^n+cdots+B_1 t+B_0)sin beta t]
+x''+p(t)x'+q(t)x = g(t).
+x''+p(t)x'+q(t)x = g(t)
+x_1 = x_1(t)
+x_2 = x_2(t).
+x_1(t)-x_2(t)
+x''+p(t)x'+q(t)x = 0.
+x_p
+x''+p(t)x'+q(t)x = g(t),
+x_h
+x''+p(t)x'+q(t)x = 0.
+x''+p(t)x'+q(t)x = g(t)
+x = x_h+x_p.
+x''+p(t)x'+q(t)x = 0
+x''+p(t)x'+q(t)x = g(t)
+x_p(t)
+t -> oo.
+x''+p(t)x'+q(t)x = g(t),
+g
+g(t) = P_n(t)e^(alpha t){[sin beta t], [cos beta t]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+x_p(t)
+x_q(t)
+ax''+bx'+cx = g(t).
+y''-2y'-3y = 3e^(2t)
+y''-y'-2y = 4x^2
+(d^2 x)/(dx^2) -6 dx/dt+25x = 64e^(-t)
+y''+16y = 2sin 2t
+y''+16y = 2sin 4t
+y''+2y'+y = 2e^(-t)
+y''+6y'+8y = cos 3t
+u''+omega_0^2 y = cos omega t,
+omega^2 != omega_0^2
+y''-2y'-3y = 3e^(2t)
+y''-y'-2y = 4x^2
+(d^2 x)/(dx^2) -6 dx/dt+25x = 64e^(-t)
+y''+16y = 2sin 2t
+y''+16y = 2sin 4t
+y''+2y'+y = 2e^(-t)
+y''+6y'+8y = cos 3t
+u''+omega_0^2 y = cos omega t,
+omega^2 != omega_0^2
+y''-2y'-3y = 3e^(2t),
+y(0) = 1,
+y'(0) = 0
+y''-y'-2y = 4x^2,
+y(0) = -1,
+y'(0) = 1
+(d^2 x)/(dx^2) -6 dx/dt+25x = 64e^(-t),
+x(0) = 1,
+x'(0) = -2
+y''+16y = 2sin 2t,
+y(0) = 1,
+y'(0) = 0
+y''+16y = 2sin 4t,
+y(0) = 1,
+y'(0) = 0
+y''+2y'+y = 2e^(-t),
+y(0) = -1,
+y'(0) = 3
+y''+6y'+8y = cos 3t,
+y(0) = -2,
+y'(0) = 1
+u''+omega_0^2 y = cos omega t,
+omega^2 != omega_0^2,
+u(0) = 1,
+u'(0) = -1
+f(t)
+g(t),
+I = (a, b)
+c_1
+c_2
+c_1 f(t)+c_2 g(t) = 0
+t in I.
+f(t)
+f(t)
+f(t)
+g(t)
+y''+py'+qy = 0.
+f(t)
+g(t)
+I = (a, b)
+W[f, g](t) -= 0,
+W[f, g](t) = f(t)g'(t)-g(t)f'(t)
+f
+g.
+f(t)
+g(t)
+I = (a, b).
+f(t) = cg(t).
+f'(t) = cg'(t).
+W(f, g)(t) = det([f(t), g(t)], [f'(t), g'(t)]) = f(t)g'(t)-f'(t)g(t) = cg(t)g'(t)-cg'(t)g(t) = 0.
+W(f, g)(t) = det([f(t), g(t)], [f'(t), g'(t)]) = 0,
+t
+(a, b).
+g = 0,
+0f = g
+g(t_0) != 0
+t_0
+(a, b).
+g
+(c, d)
+(a, b)
+t_0 in(c, d)
+g
+d/dt(f/g) = (f'g-fg')/(g^2) = - (W(f,g))/(g^2) = 0,
+f//g
+(c, d).
+f(t_0) = cg(t_0)
+f'(t_0) = cg'(t_0).
+f
+cg
+y''+py'+qy = 0
+f(t) = cg(t)
+t in(a, b)
+f
+g
+y_1
+y_2
+y''+p(t)y'+q(t)y = 0,
+p
+q
+I = (a, b),
+W[y_1, y_2](t) = cexp(-int p(t)dt),
+c
+y_1
+y_2
+t.
+2t^2 y''+3ty'-y = 0
+t > 0.
+2t^2 y''+3ty'-y = 0
+y''+3/(2t) y'-1/(2t^2) y = 0.
+p(t) = 1//2t,
+W[y_1, y_2](t) = cexp(-int 3/(2t) dt) = cexp(-3/2 ln t) = ct^(-3//2).
+y_1
+y_2
+[y_1^'' +p(t)y_1^' +q(t)y_1=0], [y_2^'' +p(t)y_2^' +q(t)y_2=0.]
+y_2
+y_1
+["(4.2.5)", (y_1 y_2^'' -y_1^''y_2)+p(t)(y_1 y_2^' -y_1^'y_2)=0.]
+W(t) = W(y_1, y_2)(t) = y_1 y_2^' -y_1^'y_2,
+W' = y_1 y_2^'' -y_1^''y_2,
+W'+p(t)W = 0.
+W(t) = cexp(-int p(t)dt).
+["(4.2.6)", y''+p(t)y'+q(t)y=f(t),]
+y''+p(t)y'+q(t)y = 0
+y_h = c_1 y_1+c_2 y_2.
+y_p(t) = u_1(t)y_1(t)+u_2(t)y_2(t),
+u_1^' (t)y_1(t)+u_2^' (t)y_2(t) = 0.
+y_p
+u_1^' (t)y_1^' (t)+u_2^' (t)y_2^' (t) = f(t).
+[u_1^' (t), "<mi//>"= (-y_2(t)f(t))/(W[y_1,y_2](t)) ], [u_2^' (t), "<mi//>"= (y_1(t)f(t))/(W[y_1,y_2](t)) ,]
+W[y_1, y_2](t) = y_1(t)y_2^' (t)-y_2(t)y_1^' (t)
+y_1
+y_2.
+p,
+q,
+f
+I,
+[u_1(t), "<mi//>"=-int_(t_0)^t(y_2(s)f(s))/(W[y_1,y_2](s)) ds], [u_2(t), "<mi//>"=int_(t_0)^t(y_1(s)f(s))/(W[y_1,y_2](s)) ds]
+t_0
+I.
+y_p = -y_1(t) int_(t_0)^t(y_2(s)f(s))/(W[y_1,y_2](s)) ds+y_2(t) int_(t_0)^t(y_1(s)f(s))/(W[y_1,y_2](s)) ds.
+y''+4y = 3csc t.
+y_p = u_1 y_1+u_2 y_2,
+[y_p^' =u_1^'y_1+u_1 y_1^' +u_2^'y_2+u_2 y_2^' =u_1 y_1^' +u_2 y_2^' ], [y_p^'' =u_1^'y_1^' +u_1 y_1^'' +u_2^'y_2^' +u_2 y_2^'' .]
+[y_p^'' +py_p^' +qy_p, "<mi//>"=(u_1^'y_1^' +u_1 y_1^'' +u_2^'y_2^' +u_2 y_2^'' )+p(u_1 y_1^' +u_2 y_2^' )], [\ , "<mi//>"+q(u_1 y_1+u_2 y_2)], [\ , "<mi//>"=u_1[y_1^'' +py_1^' +qy_1]+u_2[y_2^'' +py_2^' +qy_2]+u_1^'y_1^' +u_2^'y_2^' ], [\ , "<mi//>"=u_1^'y_1^' +u_2^'y_2^' ], [\ , "<mi//>"=f(t).]
+[u_1^' (t)y_1(t)+u_2^' (t)y_2(t), "<mi//>"=0], [u_1^' (t)y_1^' (t)+u_2^' (t)y_2^' (t), "<mi//>"=f(t).]
+u_1^'
+u_2^' ,
+[u_1^' (t), "<mi//>"= (-y_2(t)f(t))/(W[y_1,y_2](t)) ], [u_2^' (t), "<mi//>"= (y_1(t)f(t))/(W[y_1,y_2](t)) .]
+y''+4y = 0
+y_h = c_1 cos 2t+c_2 sin 2t.
+y_p = u_1(t)cos 2t+u_2(t)sin 2t.
+[u_1^' (t), "<mi//>"=-3cos t], [u_2^' (t), "<mi//>"=3/2 csc t-3sin t.]
+[u_1(t), "<mi//>"=-3sin t], [u_2(t), "<mi//>"=3/2 ln|csc t-cot t|+3cos t.]
+[y_p(t), "<mi//>"=u_1(t)y_1(t)+u_2(t)y_2(t)], [\ , "<mi//>"=-3sin tcos 2t+[3/2 ln|csc t-cot t|+3cos t]sin 2t,]
+[y, "<mi//>"=y_h+y_p], [\ , "<mi//>"=c_1 cos 2t+c_2 sin 2t-3sin tcos 2t+[3/2 ln|csc t-cot t|+3cos t]sin 2t.]
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda^2-T lambda+D,
+T = "tr"(A)
+D = det(A).
+2 xx 2
+A
+lambda_1
+lambda_2,
+"tr"(A)
+lambda_1+lambda_2
+det(A) = lambda_1 lambda_2,
+2 xx 2
+D = T^2//4
+TD
+A
+B,
+V
+A
+r_("in")
+A
+B
+r_B
+B
+A
+r_A
+B
+r_("out")
+x(t)
+y(t)
+A
+B,
+[ (dx)/(dt) , "<mi//>"="rate in"-"rate out"=-r_A x/V+r_B y/V], [ (dy)/(dt) , "<mi//>"="rate in"-"rate out"=r_A x/V-r_B y/V-r_("out") y/V.]
+r_A = r_B+r_("out"),
+B
+[ (dx)/(dt) , "<mi//>"=-r_A x/V+r_B y/V], [ (dy)/(dt) , "<mi//>"=r_A x/V-r_A y/V.]
+x(0) = x_0
+y(0) = y_0,
+t -> oo,
+(0, 0).
+([x'], [y']) = ([a, b], [c, d])([x], [y]) = A([x], [y])
+A.
+A,
+det(A-lambda I) = det([a-lambda, b], [c, d-lambda]) = lambda^2-(a+d) lambda+(ad-bc).
+D = det(A) = ad-bc
+A.
+T = a+d
+A.
+A
+"tr"(A).
+det(A-lambda I) = lambda^2-T lambda+D.
+2 xx 2
+A
+lambda_1
+lambda_2,
+A
+lambda_1+lambda_2
+det(A) = lambda_1 lambda_2.
+det(A-lambda I) = lambda^2-T lambda+D.
+A
+lambda_1 = (T+sqrt(T^2-4D))/2\ and\ lambda_2 = (T-sqrt(T^2-4D))/2.
+T = lambda_1+lambda_2
+D = lambda_1 lambda_2.
+2 xx 2
+bb x' = Abb x
+A.
+A
+lambda = (T+-sqrt(T^2-4D))/2,
+T^2-4D
+A.
+T^2-4D > 0,
+T^2-4D < 0,
+T^2-4D = 0,
+T^2-4D = 0
+D = T^2//4,
+D = T^2//4
+TD
+D > T^2//4
+T^2-4D < 0
+D < T^2//4
+T^2-4D > 0
+2 xx 2
+det(T^(-1)AT) = det(A)
+"tr"(T^(-1)AT) = "tr"(A)
+2 xx 2
+A
+2 xx 2
+T.
+det(AB) = det(A)det(B)
+det(T^(-1)) = 1//det(T)
+2 xx 2
+A
+B.
+det(T^(-1)AT) = det(T^(-1))det(A)det(T) = 1/(det(T)) det(A)det(T) = det(A).
+"tr"(AB) = "tr"(BA).
+"tr"(T^(-1)AT) = "tr"(T^(-1)TA) = "tr"(A).
+T^2-4D
+bb x' = Abb x,
+A
+([alpha, beta], [-beta, alpha]), ([lambda, 0], [0, mu]), ([lambda, 0], [0, lambda]), ([lambda, 1], [0, lambda]).
+bb x' = ([alpha, beta], [-beta, alpha])bb x
+lambda = alpha+-i beta.
+bb x(t) = c_1 e^(alpha t)([cos beta t], [-sin beta t])+c_2 e^(alpha t)([sin beta t], [cos beta t]).
+e^(alpha t)
+alpha < 0,
+alpha > 0,
+alpha = 0.
+A
+lambda = (T+-sqrt(T^2-4D))/2.
+T^2-4D < 0,
+T.
+T > 0
+T < 0,
+T = 0,
+D > T^2//4
+bb x' = ([lambda, 0], [0, mu])bb x
+lambda
+mu.
+lambda = (T+-sqrt(T^2-4D))/2.
+T > 0,
+(T+sqrt(T^2-4D))/2
+(T-sqrt(T^2-4D))/2
+D < 0,
+T > 0
+D < 0.
+D > 0,
+T^2-4D < T^2.
+T > 0,
+sqrt(T^2-4D) < T
+(T-sqrt(T^2-4D))//2
+T < 0.
+(T-sqrt(T^2-4D))//2
+D < 0,
+T^2-4D > T^2
+sqrt(T^2-4D) > T.
+(T-sqrt(T^2-4D))//2
+D > 0,
+sqrt(T^2-4D) < T
+T.
+T^2-4D = 0,
+T//2.
+T > 0
+T < 0
+D = T^2//4
+[ (dx)/(dt) , "<mi//>"=-r_A x/V+r_B y/V], [ (dy)/(dt) , "<mi//>"=r_A x/V-r_A y/V], [x(0), "<mi//>"=x_0], [y(0), "<mi//>"=y_0.]
+A = ([-r_A//V, +r_B//V], [r_A//V, -r_A//V]).
+T = -2r_A//V
+D = (r_A^2-r_A r_B)//V^2,
+r_A
+r_B
+T < 0
+D = (r_A^2-r_A r_B)/(V^2) = (r_A(r_A-r_B))/(V^2) = (r_A r_("out"))/(V^2) > 0.
+4D-T^2 = 4(r_A^2-r_A r_B)/(V^2) -( (-2r_A)/V)^2 = - (4r_A r_B)/(V^2) < 0,
+A
+m(d^2 x)/(dt^2) +b dx/dt+kx = 0,
+m > 0
+b >= 0
+k > 0
+bb x' = ([0, 1], [-k//m, -b//m])bb x.
+T = -b//m
+D = k//m.
+(T, D) = (-b//m, k//m)
+(T, D) = (-b//m, k//m)
+(T, D) = (-b//m, k//m)
+b = 0,
+m = 1
+k = 3
+b
+[dx/dt, "<mi//>"=y], [dy/dt, "<mi//>"=-3x-by.]
+T = -b
+D = 3.
+b
+D = 3
+D = T^2//4
+b^2 = 12
+b = 2sqrt(3).
+b = 0,
+0 < b < 2sqrt(3),
+b = 2sqrt(3),
+b > 2sqrt(3),
+b = 2sqrt(3).
+["(3.7.1)", m(d^2 x)/(dt^2) +b dx/dt+kx=0,]
+m = 2
+b = 2
+k > 0
+dbb x//dt = Abb x.
+A.
+dbb x//dt = Abb x.
+k
+k
+([x'], [y']) = Abb x = ([-2, a], [-2, 0])bb x.
+A
+T = -2,
+D = det(A) = 2a.
+T^2-4D = 4-8a = 0\ or\ a = 1/2.
+a = 1//2.
+a > 1//2,
+a < 1//2,
+a < 0,
+dbb x//dt = Abb x,
+A = ([alpha, beta], [1, alpha]).
+T,
+D,
+A.
+T^2 = 4D.
+alpha
+beta
+dbb x//dt = Abb x?
+alpha
+beta
+dbb x//dt = Abb x?
+alpha beta
+dbb x//dt = Abb x
+alpha beta
+A = ([0, 1], [-1, 0])\ and\ B = ([0, -1], [1, 0])
+bb x' = Abb x
+bb x' = Bbb x
+2 xx 2
+lambda^2-T lambda+D,
+T = "tr"(A)
+D = det(A).
+2 xx 2
+A
+lambda_1
+lambda_2,
+"tr"(A)
+lambda_1+lambda_2
+det(A) = lambda_1 lambda_2.
+2 xx 2
+D = T^2//4
+TD
+bb x' = Abb x.
+A,
+2 xx 2
+bb x' = Abb x
+(T, D)
+A = ([1, 2], [3, 4])
+A = ([4, 2], [3, 2])
+A = ([-3, -8], [4, -6])
+A = ([4, -5], [3, 2])
+A = ([-11, 10], [4, -5])
+A = ([5, -3], [-8, -6])
+A = ([4, -15], [3, -8])
+A = ([4, 11], [-8, -3])
+bb x' = Abb x
+alpha.
+alpha.
+alpha
+alpha.
+A = ([alpha, 3], [-1, 0])
+A = ([alpha, 3], [alpha, 0])
+A = ([alpha, 2], [alpha, alpha])
+A = ([1, 2], [alpha, 0])
+A = ([alpha, 1], [1, alpha-1])
+A = ([0, 1], [alpha, sqrt(1-alpha^2)])
+([x'], [y']) = ([alpha, beta], [1, 0])([x], [y]).
+alpha beta
+([x'], [y']) = ([alpha, beta], [beta, alpha])([x], [y]).
+alpha beta
+([x'], [y']) = ([alpha, -beta], [beta, alpha])([x], [y]).
+alpha beta
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+dbb x//dt = Abb x,
+A = ([a, c], [b, a]).
+a,
+b,
+c
+abc
+a = 0.
+b
+c.
+bc
+a = 1
+a = 0.
+0 < a < 1
+a = -1.
+a,
+b,
+c
+dbb x//dt = Abb x,
+A = ([a, c], [b, a]).
+dbb x//dt = Abb x,
+A = ([a, b], [c, 0]).
+dbb x//dt = Abb x,
+A = ([a, c], [1, b]).
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+t
+[0, 10]
+[10, 20]
+t
+[0, 20]
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+y' = f(y)
+y' = f(y).
+f(y) = 0
+y.
+y' = f(t, y)
+y' = t+y,
+2
+(1, 1).
+I(t),
+E(t),
+E_R,
+E_C.
+E_R+E_C = E.
+R,
+Omega
+["(1.3.1)", E_R=IR.]
+C,
+["(1.3.2)", I=C(dE_C)/(dt) .]
+E_R+E_C = E
+["(1.3.3)", RC(dE_C)/(dt) +E_C=E(t).]
+E(t).
+dy/dt = f(t, y)
+y = y(t).
+(t_0, y_0),
+f(t_0, y_0).
+R = [a, b] xx[c, d],
+y(t)
+y' = f(t, y)
+(t_0, y_0).
+(t_0, y_0).
+(t, y)
+(t, y)
+f(t_0, y_0).
+y' = y^2//2-t.
+y' = y^2//2-t
+y' = y^2//2-t
+y' = y-2x,
+y(0) = 4,
+y(0) = 1.
+y' = y(1+x),
+y(0) = 1,
+y(0) = 0,
+y(0) = -1.
+dx/dt+2tx = x,
+x(0) = 5.
+dy/dt = 2y(1-y//4),
+y(0) = 1,
+y(0) = 4,
+y(0) = 5.
+y' = -1-y^4,
+y(0) = 4,
+y(0) = 0,
+y(0) = -4.
+E(t)
+(dE_C)/dt = (E(t)-E_C)/(RC) ,
+R = 1
+C = 1.
+E(t) = 0
+t >= 0,
+E_C(t) = v_0 e^(-t),
+v_0 = E_C(0).
+E(t) = K,
+(dE_C)/dt = K-E_C.
+K = 10
+t = 0
+t = 4,
+E(t) = {[10, 0<=t<=4,], [0, t>4,]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+E(t) = {[10, 0<=t<4,], [0, 4<=t<8,], [10, 8<=t<12,], [\ , vdots]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+E(t) = sin(pi t//2).
+dx/dt = f(x).
+t
+dx//dt = f(x)
+x,
+x
+t.
+(dP)/dt = P(1-P/200),
+t
+(dP)/dt = P(1-P/200)-32.
+(dP)/dt = P(1-P/200)-32 = -1/200(P-40)(P-160)
+t.
+dP//dt = 0
+P = 40
+P = 160.
+P(t) = 40
+P(t) = 160
+t.
+P
+dP//dt > 0.
+dP//dt < 0
+P < 40
+P > 160.
+y' = f(y)
+y = y_0
+y(t)
+y_0,
+lim_(t->oo)y(t) = y_0.
+y_0
+y_0
+t -> -oo.
+P = 40,
+P = 160,
+["(1.3.4)", dy/dt=y^4-4y^2=y^2(y+2)(y-2).]
+f(y) = y^4-4y^2
+y = -2,
+y = 2,
+y = 0,
+f(y) = y^2(y+2)(y-2)
+y
+y
+y
+y
+y' = y^2(y+2)(y-2)
+y' = y(y-2)(y+3).
+y' = y^2(y-2)(y+3).
+y' = cos y.
+y' = cos^2 y.
+f(x)
+x_0
+n
+f(x) ~~ f(x_0)+f'(x_0)(x-x_0)+ (f''(x_0))/(2!) (x-x_0)^2+cdots+ (f^((n))(x_0))/(n!) (x-x_0)^n
+x_0.
+dx/dt = f(x) = cos(x^2+pi)
+x(0) = x_0,
+x_0
+[dx/dt, "<mi//>"=f(x_0)+f'(x_0)(x-x_0)=cos(x_0^2+pi)+2x_0 sin(x_0^2+pi)(x-x_0)], [x(0), "<mi//>"=x_0.]
+f(x_0) = cos(x_0^2+pi) = 0
+f'(x_0) = 2x_0 sin(x_0^2+pi) = 0.
+y' = f(y).
+y' = f(y)
+f(y) = 0
+y.
+(t, x)
+-2 < t < 2
+-2 < x < 2
+x' = x+t
+x' = xt
+x' = x^2+t^2
+x' = t+tan(x)
+x' = (x+t)//(x^2+t^2)
+x' = x-t+1
+y' = 2y-5
+dx/dt = (x-1)(x+2)
+dx/dt = (x^2-1)(x-2)
+dy/dx = sin 2y
+x' = (x^2+1)(x-1)
+x' = x^2+x+1
+y' = 2y-5,
+y(0) = 4,
+y(0) = 2,
+y(0) = 0.
+dx/dt = (x-1)(x+2),
+x(0) = 2,
+x(0) = 1,
+x(0) = 0.
+dx/dt = (x^2-1)(x-2),
+x(0) = 1,
+x(0) = 0,
+x(0) = -1.
+dy/dx = sin 2y,
+y(0) = 2,
+y(0) = 1,
+y(0) = 0.
+x' = (x^2+1)(x-1),
+x(0) = 2,
+x(0) = 1,
+x(0) = 0.
+x' = x^2+x+1,
+x(0) = 1,
+x(0) = 0,
+x(0) = -1.
+y' = f(y),
+f(y)
+y' = y^2//2-t.
+(dp)/dt = 0.4p(1-p/500).
+t = 30,
+(dp)/dt = {[0.4p(1-p/500), "for\ "0<=t<30;], [0.4p(1-p/500)-0.1p, "for\ "t>30.]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+p(0) = 30.
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+y' = f(t, y),
+m(d^2 x)/(dt^2) = -kx,
+x = x(t)
+t.
+-b dx/dt,
+b > 0.
+m(d^2 x)/(dt^2) = -kx-b dx/dt.
+p = b//m
+q = k//m,
+(d^2 x)/(dt^2) +p dx/dt+qx = 0.
+v = x',
+[dx/dt, "<mi//>"=v,], [ (dv)/dt, "<mi//>"=-qx-pv.]
+x = x(t)
+x(t) != 0,
+(d^2 x)/(dt^2) +0.1 dx/dt+0.3x = 0
+[dx/dt, "<mi//>"=v,], [ (dv)/dt, "<mi//>"=-0.3x-0.1v.]
+x(t) = c_1 e^(-t//20)cos( (sqrt(119))/20 t)+c_2 e^(-t//20)sin( (sqrt(119))/20 t)
+c_1
+c_2
+x''+0.1x'+0.3x = 0
+x(t)
+x^3,
+["(2.3.1)", (d^2 x)/(dt^2) +0.1 dx/dt+0.3x=0.02x^3.]
+x
+x
+x''+0.1x'+0.3x = 0.02x^3
+dx//dt = v,
+["(2.3.2)", dx/dt, "<mi//>"=v], ["(2.3.3)", (dv)/dt, "<mi//>"=-0.1v-0.3x+0.02x^3.]
+x^3
+[dx/dt, "<mi//>"=f(t,x,y)], [dy/dt, "<mi//>"=g(t,x,y),]
+x(t_0) = x_0
+y(t_0) = y_0.
+[ (dbb x)/dt, "<mi//>"=bb f(t,bb x)], [bb x(t_0), "<mi//>"=bb x_0]
+bb x = (x, y),
+dbb x//dt = (dx//dt, dy//dt),
+bb f = (f, g),
+bb x_0 = (x_0, y_0).
+x_1, x_2, ..., x_n
+y_1, y_2, ..., y_n
+x(t)
+y(t)
+t_k = t_0+kh, \ k = 1, 2, ..., n,
+h
+bb x_k = (x_k, y_k)
+bb f_k = (f(x_k, y_k), g(x_k, y_k)),
+bb x_(k+1) = bb x_k+hbb f_k
+[x_(k+1), "<mi//>"=x_k+hf(t_k,x_k,y_k)], [y_(k+1), "<mi//>"=y_k+hg(t_k,x_k,y_k).]
+bb f_0,
+bb x(t)
+xy
+h
+bb x_1.
+bb f_1
+h
+bb x_2.
+[dx/dt, "<mi//>"=v,], [ (dv)/dt, "<mi//>"=-0.3x+0.02x^3-0.1v,]
+(t_0, x_0, v_0) = (0, 0, 1.7652).
+x(0) = 0
+v(0) = 1.7652
+v(0) = 1.7653,
+x(0) = 0
+v(0) = 1.7653
+[x', "<mi//>"=x-y+t], [y', "<mi//>"=-x+y^2-t^2], [x(0), "<mi//>"=1], [y(0), "<mi//>"=0.]
+(x_0, y_0) = (1, 0).
+h = 0.1,
+[([x_1], [y_1]), "<mi//>"=([x_0], [y_0])+h([f(t_0,x_0,y_0)], [g(t_0,x_0,y_0)])], [\ , "<mi//>"=([1], [0])+(0.1)([1], [-1])], [\ , "<mi//>"=([1.1], [-0.1]).]
+[([x_2], [y_2]), "<mi//>"=([x_1], [y_1])+h([f(t_1,x_1,y_1)], [g(t_1,x_1,y_1)])], [\ , "<mi//>"=([1.1], [-0.1])+(0.1)([1.3], [-1.1])], [\ , "<mi//>"=([1.23], [-0.21]).]
+k
+t_k
+x_k
+hf(t_k, x_k, y_k)
+y_k
+hg(t_k, x_k, y_k)
+0
+0.0
+1.0000
+0.1000
+0.0000
+-0.1000
+1
+0.1
+1.1000
+0.1300
+-0.1000
+-0.1100
+2
+0.2
+1.2300
+0.1640
+-0.2100
+-0.1226
+3
+0.3
+1.3940
+0.2027
+-0.3326
+-0.1373
+4
+0.4
+1.5967
+0.2467
+-0.4699
+-0.1536
+5
+0.5
+1.8433
+0.2967
+-0.6235
+-0.1705
+6
+0.6
+2.1400
+0.3534
+-0.7940
+-0.1870
+7
+0.7
+2.4934
+0.4174
+-0.9809
+-0.2021
+8
+0.8
+2.9108
+0.4894
+-1.1830
+-0.2151
+9
+0.9
+3.4002
+0.5698
+-1.3982
+-0.2255
+10
+1.0
+3.9701
+0.6594
+-1.6237
+-0.2334
+[x', "<mi//>"=2x], [y', "<mi//>"=y]
+x(0) = 1
+y(0) = 3.
+bb x(t) = (e^(2t), 3e^t)
+Delta t = 0.5
+t = 2,
+t = 4,
+t = 6.
+Delta t = 0.1
+t = 2,
+t = 4,
+t = 6.
+[([x_(k+1)], [y_(k+1)]), "<mi//>"=([x_k], [y_k])+h([x_k^' ], [y_k^' ])+ (h^2)/2([x_k^'' ], [y_k^'' ])+cdots], [\ , "<mi//>"=([x_k], [y_k])+h([f(t_k,x_k,y_k)], [g(t_k,x_k,y_k)])+ (h^2)/2([x_k^'' ], [y_k^'' ])+cdots.]
+bb x''.
+[x', "<mi//>"=x-y+t], [y', "<mi//>"=-x+y^2-t^2], [x(0), "<mi//>"=1], [y(0), "<mi//>"=0.]
+[bb x'', "<mi//>"=([x''], [y''])], [\ , "<mi//>"=([x'-y'+1], [-x'+2yy'-2t])], [\ , "<mi//>"=([(x-y+t)-(-x^2+y^2-t^2)], [-(x-y+t)+2y(-x+y^2-t^2)-2t])], [\ , "<mi//>"=([2x-y-y^2+t+t^2], [-x+y-2xy+2y^3-2t^2 y-3t]).]
+[([x_(k+1)], [y_(k+1)]), "<mi//>"=([x_k], [y_k])+h([f(t_k,x_k,y_k)], [g(t_k,x_k,y_k)])+ (h^2)/2([x_k^'' ], [y_k^'' ])], [\ , "<mi//>"=([x_k+h(x_k-y_k+t_k)+h^2(2x_k-y_k-y_k^2+t_k+t_k^2)//2], [y_k+h(-x_k+y_k^2-t_k^2)+h^2(-x_k+y_k-2x_k y_k+2y_k^3-2t_k^2 y_k-3t_k)//2]).]
+(dbb x)/dt = bb f(t, bb x)
+bb f
+bb x_0
+t_0,
+t_0-'\\x0003f5' < t < t_0+'\\x0003f5'
+'\\x0003f5' > 0.
+bb x' = bb f(bb x),
+(d^2 x)/(dt^2) +p dx/dt+qx = 0.
+[dx/dt, "<mi//>"=v,], [ (dv)/dt, "<mi//>"=-qx-pv.]
+(d^2 x)/(dt^2) +p dx/dt+qx = x^3,
+[dx/dt, "<mi//>"=f(t,x,y)], [dy/dt, "<mi//>"=g(t,x,y),]
+(x_0, y_0)
+h,
+[x_(k+1), "<mi//>"=x_k+f(x_k,y_k)h], [y_(k+1), "<mi//>"=y_k+g(x_k,y_k)h.]
+bb x' = bb f(bb x),
+[x', "<mi//>"=x+3y], [y', "<mi//>"=x-y]
+x(0) = 0
+y(0) = 1.
+bb x(t) = ([3/4 e^(2t)-3/4 e^(-2t)], [1/4 e^(2t)+3/4 e^(-2t)])
+Delta t = 0.5
+t = 2,
+t = 4,
+t = 6.
+Delta t = 0.1
+t = 2,
+t = 4,
+t = 6.
+[x', "<mi//>"=y], [y', "<mi//>"=-10x-2y]
+x(0) = 0
+y(0) = 1.
+bb x(t) = ([1/3 e^(-t)sin 3t], [e^(-t)cos 3t-1/3 e^(-t)sin 3t])
+Delta t = 0.5
+t = 2,
+t = 4,
+t = 6.
+Delta t = 0.1
+t = 2,
+t = 4,
+t = 6.
+[x', "<mi//>"=-x-y], [y', "<mi//>"=x-3y]
+x(0) = 5
+y(0) = 1.
+bb x(t) = e^(-2t)([5+4t], [1+4t])
+Delta t = 0.5
+t = 2,
+t = 4,
+t = 6.
+Delta t = 0.1
+t = 2,
+t = 4,
+t = 6.
+["(2.3.4)", x', "<mi//>"=x+y+t], ["(2.3.5)", y', "<mi//>"=x-y], ["(2.3.6)", x(0), "<mi//>"=-1], ["(2.3.7)", y(0), "<mi//>"=1,]
+h = 1//4
+t
+0
+1.
+[x', "<mi//>"=2x-xy], [y', "<mi//>"=-5y+xy]
+x(0) = 1
+y(0) = 1.
+[x', "<mi//>"=x^2+y], [y', "<mi//>"=-3x-2y^2]
+x(0) = 2
+y(0) = 1.
+h = 0.05
+0 <= t <= 1.
+h = 0.05
+0 <= t <= 1.
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+delta(t),
+[delta(t)=0,\ t!=0;], [int_(-oo)^ oo delta(t)dt=1.]
+[ (d^2 y)/(dt^2) +2 dy/dt+26y, "<mi//>"=delta_4(t)], [y(0), "<mi//>"=1], [y'(0), "<mi//>"=0,]
+(d^2 y)/(dt^2) +p dy/dt+qy = g(t),
+g(t)
+(d^2 y)/(dt^2) +2 dy/dt+26y = g(t),
+g(t)
+|t-t_0| < tau
+I(tau) = int_(t_0-tau)^(t_0+tau)g(t)dt
+g(t)
+|t-t_0| < tau
+I(tau) = int_(-oo)^ oo g(t)dt
+g(t).
+t_0 = 0
+g(t) = d_ tau(t) = {[1//2 tau,, -tau<t<tau], [0,, "otherwise."]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+I(tau) = 1
+tau
+I(tau) = 1
+lim_(tau->0)d_ tau(t) = 0
+t != 0;
+lim_(tau->0)I(tau) = 1.
+delta(t),
+t = 0,
+t
+delta(t)
+[delta(t)=0,\ t!=0;], [int_(-oo)^ oo delta(t)dt=1.]
+delta
+delta,
+t_0
+delta(t-t_0).
+[delta(t-t_0)=0,\ t!=t_0;], [int_(-oo)^ oo delta(t-t_0)dt=1.]
+d_ tau(t)
+tau -> 0.
+t_0 > 0
+cc L(delta(t-t_0)) = lim_(tau->0)cc L(d_ tau(t-t_0)).
+t_0-tau > 0,
+d_ tau(t-t_0)
+[cc L(d_ tau(t-t_0)), "<mi//>"=int_0^ oo e^(-st)d_ tau(t-t_0)dt], [\ , "<mi//>"=int_(t_0-tau)^(t_0+tau)e^(-st)d_ tau(t-t_0)dt], [\ , "<mi//>"=1/(2 tau) int_(t_0-tau)^(t_0+tau)e^(-st)dt], [\ , "<mi//>"=1/(2s tau) e^(-st)|_(t=t_0-tau)^(t=t_0+tau)], [\ , "<mi//>"=1/(2s tau) e^(-st_0)(e^(s tau)-e^(-s tau))], [\ , "<mi//>"= (sinh s tau)/(s tau) e^(-st_0).]
+(sinh s tau)//s tau
+tau -> 0,
+lim_(tau->0) (sinh s tau)/(s tau) = lim_(tau->0) (scosh s tau)/s = 1.
+cc L(delta(t-t_0)) = e^(-st_0).
+t_0 = 0,
+lim_(t_0->0)cc L(delta(t-t_0)) = lim_(t_0->0)e^(-st_0) = 1.
+[ (d^2 y)/(dt^2) +2 dy/dt+26y, "<mi//>"=delta_4(t)], [y(0), "<mi//>"=1], [y'(0), "<mi//>"=0.]
+t = 4.
+Y(s) = cc L(y)(s)
+s^2 Y(s)-sy(0)-y'(0)+2(sY(s)-y(0))+26Y(s) = cc L(delta_4)(s)
+s^2 Y(s)-s+2sY(s)-2+26Y(s) = e^(-4s).
+Y(s),
+Y(s) = (s+2)/(s^2+2s+26) + (e^(-4s))/(s^2+2s+26) .
+Y(s)
+[y, "<mi//>"=cc L( (s+2)/(s^2+2s+26) )+cc L( (e^(-4s))/(s^2+2s+26) )], [\ , "<mi//>"=cc L( (s+2)/((s+1)^2+25) )+1/5 cc L( (5e^(-4s))/((s+1)^2+25) )], [\ , "<mi//>"=e^(-t)cos 5t+1/5 e^(-t)sin 5t+1/5 u_4(t)e^(-(t-4))sin(5(t-4)).]
+y''+2y'+26y-delta_4(t)
+(d^2 y)/(dt^2) +p dy/dt+qy = g(t),
+g(t)
+|t-t_0| < tau
+I(tau) = int_(t_0-tau)^(t_0+tau)g(t)dt
+g(t)
+|t-t_0| < tau
+I(tau) = int_(-oo)^ oo g(t)dt
+g(t).
+delta(t),
+t = 0,
+t
+delta(t)
+[delta(t)=0,\ t!=0;], [int_(-oo)^ oo delta(t)dt=1.]
+delta
+delta,
+t_0
+delta(t-t_0).
+[delta(t-t_0)=0,\ t!=0;], [int_(-oo)^ oo delta(t-t_0)dt=1.]
+cc L(delta(t-t_0)) = e^(-st_0).
+t_0 = 0,
+lim_(t_0->0)cc L(delta(t-t_0)) = lim_(t_0->0)e^(-st_0) = 1.
+[ (d^2 y)/(dt^2) +2 dy/dt+26y, "<mi//>"=delta_4(t)], [y(0), "<mi//>"=1], [y'(0), "<mi//>"=0,]
+(d^2 y)/(dt^2) +p dy/dt+qy = g(t),
+g(t)
+delta(t)
+2y''+y'+2y = delta(t),
+y(0) = 0,
+y'(0) = 0
+y''-y'-2y = delta(t-5),
+y(0) = 0,
+y'(0) = 0
+(d^2 x)/(dx^2) -6 dx/dt+25x = delta(t),
+x(0) = 1,
+x'(0) = -2
+y''+16y = delta(t),
+y(0) = 1,
+y'(0) = 0
+y''+16y = delta(t-4),
+y(0) = 1,
+y'(0) = 0
+y''+2y'+y = delta(t+4),
+y(0) = -1,
+y'(0) = 3
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+x'+ax-q(t) = 0
+x'(t) = -aCe^(-at)-ae^(-at) int_(t_0)^t e^(as)q(s)ds+b(t),
+[x'(t)+ax(t)-q(t), "<mi//>"=-aCe^(-at)-ae^(-at) int_(t_0)^t e^(as)q(s)ds+q(t)], [\ , "<mi//>"+aCe^(-at)+ae^(-at) int_(t_0)^t e^(as)q(s)ds-q(t)], [\ , "<mi//>"=0.]
+i
+[a_(i+1), "<mi//>"<=(1+s)a_i+t], [\ , "<mi//>"<=(1+s)[(1+s)a_(i-1)+t]+t], [\ , "<mi//>"<=(1+s){(1+s)[(1+s)a_(i-2)+t]+t}+t], [\ , "<mi//>" vdots], [\ , "<mi//>"<=(1+s)^(i+1)a_0+[1+(1+s)+(1+s)^2+cdots+(1+s)^i]t.]
+a_(i+1) <= (1+s)^(i+1)a_0+t/s[(1+s)^(i+1)-1] = (1+s)^(i+1)(t/s+a_0)-t/s.
+a_(i+1) <= e^((i+1)s)(t/s+a_0)-t/s.
+y = (3x^4+8x^3+6x^2+12)/(6(x+1)^2)
+y = (e^x+1)//(x+1)^2
+y = e^x sec x
+y = sin x//(x+2)
+x(t)
+t,
+x(0) = 10.
+V = 200+5t.
+t
+[ (dx)/(dt) , "<mi//>"="rate in"-"rate out"], [\ , "<mi//>"=10(0.1)-5 x/V], [\ , "<mi//>"=1-5 x/(200+5t) ], [\ , "<mi//>"=1-x/(40+t) .]
+dx/dt+1/(40+t) x = 1
+mu(t) = exp(int 1/(40+t) dt) = 40+t.
+mu(t),
+d/dt[(40+t)x] = (40+t) dx/dt+x = (40+t)(dx/dt+1/(40+t) x) = 40+t.
+(40+t)x = 40t+ (t^2)/2+C.
+x(0) = 10,
+C = 400
+x(t) = (t^2+80t+800)/(2t+80) .
+t = 400//5 = 80,
+x(80) = 170//3 ~~ 56.67
+(ydx+xdy)+(-xy^2 dx+x^2 y^2 dy) = 0
+mu(x, y) = 1//(xy)^2.
+y = y_1+1//v,
+y' = y_1^' -v'//v^2.
+y' = y_1^' - (v')/(v^2) = p+qy_1+ry_1^2- (v')/(v^2) .
+[y', "<mi//>"=p+q(y_1+1/v)+r(y_1+1/v)^2], [\ , "<mi//>"=p+qy_1+q/v+ry_1^2+ (2ry_1)/v+r/(v^2) ], [\ , "<mi//>"=y_1^' +q/v+ (2ry_1)/v+r/(v^2) .]
+- (v')/(v^2) = q/v+ (2ry_1)/v+r/(v^2) ,
+v'+[q(t)+2r(t)y_1(t)]v = -r(t).
+y = t+1/(C-t)
+y(t) = 1/(Ccos t-sin t) +sin t
+y(t) = 2+1/(Ce^t-1)
+y' = y^2+y^3,
+y(0) = 1,
+f(t, y) = y^2+y^3
+del f(t, y)//del y = 2y+3y^2
+(0, 1).
+y' = root(4)(y),
+y(1) = 0,
+f(t, y) = root(4)(y)
+(1, 0).
+y' = root(4)(y),
+y(1) = 1,
+f(t, y) = root(4)(y)
+del f(t, y)//del y = y^(-3//4)//4
+(1, 1).
+x' = t//(x^2-4),
+x(0) = 2,
+f(t, x) = t//(x^2-4)
+(0, 2).
+x' = t//(x^2-4),
+x(2) = 0,
+f(t, x) = t//(x^2-4)
+del f(t, x)//del x = -2tx//(x^2-4)^2
+(2, 0).
+y' = xsin y,
+y(0) = 0,
+f(x, y) = xsin y
+del f(x, y)//del y = xcos y
+(0, 0).
+y' = 1//(t-1)y+2t,
+y(1) = 1,
+f(t, y) = 1//(t-1)y+2t
+(1, 1).
+y(t)
+t = t_0.
+bb x_p = ([a_2 t^2+a_1 t+a_0], [b_2 t^2+b_1 t+b_0.])
+[ax_1^'' +b_1^' +cx_1, "<mi//>"=a( (-b)/(2a) )^2 e^(-bt//2a)+b( (-b)/(2a) )e^(-bt//2a)+ce^(-bt//2a)], [\ , "<mi//>"=e^(-bt//2a)( (b^2)/(4a) - (b^2)/(2a) +c)], [\ , "<mi//>"=e^(-bt//2a)( (-b^2+4ac)/(4a) )], [\ , "<mi//>"=0.]
+y = v(t)x_1(t) = v(t)e^(-bt//2a)
+[ay''+by'+cy, "<mi//>"=a(v''x_1+2v'x_1^' +vx_1^'' )+b(v'x_1+vx_1^' )+cvx_1], [\ , "<mi//>"=av''x_1+2av'x_1^' +bv'x_1+v(ax_1^'' +bx_1^' +cx_1)], [\ , "<mi//>"=av''e^(-bt//2a)+[2a( (-b)/(2a) )e^(-bt//2a)+be^(-bt//2a)]v'], [\ , "<mi//>"=av''e^(-bt//2a)], [\ , "<mi//>"=0.]
+a != 0,
+v'' = 0.
+v(t) = c_1+c_2 t.
+[x''+px'+qx, "<mi//>"=(v''x_1+2v'x_1^' +vx_1^'' )+p(v'x_1+vx_1^' )+q(vx_1)], [\ , "<mi//>"=x_1 v''+2v'x_1^' +px_1 v'+v(x_1^'' +px_1^' +qx_1)], [\ , "<mi//>"=x_1 v''+(2x_1^' +px_1)v'], [\ , "<mi//>"=0.]
+u = v',
+x_1 u'+(2x_1^' +px_1)u = 0.
+x_1(t) = 1//t,
+2t^2 x_1^'' +3tx_1^' -x_1 = 2t^2(2/(t^3) )+3t( (-1)/(t^2) )-1/t = 0.
+x = v//t
+2t^2 x''+3tx'-x = 2tv''-v' = 0.
+u = v',
+2tu'-u = 0
+u = sqrt(t)
+v = int sqrt(t)dt = 2t^(3//2)//3.
+x = v/t = 2/3 sqrt(t).
+[dy/dt, "<mi//>"=dx/dt dy/dx], [ (d^2 y)/(dt^2) , "<mi//>"=(dx/dt)^2(d^2 y)/(dx^2) + (d^2 x)/(dt^2) dy/dx.]
+[dy/dt, "<mi//>"=dx/dt dy/dx], [ (d^2 y)/(dt^2) , "<mi//>"=(dx/dt)^2(d^2 y)/(dx^2) + (d^2 x)/(dt^2) dy/dx.]
+f(t)
+g(t)
+I = (a, b).
+f(t) = cg(t).
+f'(t) = cg'(t).
+W(f, g)(t) = det([f(t), g(t)], [f'(t), g'(t)]) = f(t)g'(t)-f'(t)g(t) = cg(t)g'(t)-cg'(t)g(t) = 0.
+W(f, g)(t) = det([f(t), g(t)], [f'(t), g'(t)]) = 0,
+t
+(a, b).
+g = 0,
+0f = g
+g(t_0) != 0
+t_0
+(a, b).
+g
+(c, d)
+(a, b)
+t_0 in(c, d)
+g
+d/dt(f/g) = (f'g-fg')/(g^2) = - (W(f,g))/(g^2) = 0,
+f//g
+(c, d).
+f(t_0) = cg(t_0)
+f'(t_0) = cg'(t_0).
+f
+cg
+y''+py'+qy = 0
+f(t) = cg(t)
+t in(a, b)
+f
+g
+2t^2 y''+3ty'-y = 0
+y''+3/(2t) y'-1/(2t^2) y = 0.
+p(t) = 1//2t,
+W[y_1, y_2](t) = cexp(-int 3/(2t) dt) = cexp(-3/2 ln t) = ct^(-3//2).
+y_1
+y_2
+[y_1^'' +p(t)y_1^' +q(t)y_1=0], [y_2^'' +p(t)y_2^' +q(t)y_2=0.]
+y_2
+y_1
+["(4.2.5)", (y_1 y_2^'' -y_1^''y_2)+p(t)(y_1 y_2^' -y_1^'y_2)=0.]
+W(t) = W(y_1, y_2)(t) = y_1 y_2^' -y_1^'y_2,
+W' = y_1 y_2^'' -y_1^''y_2,
+W'+p(t)W = 0.
+W(t) = cexp(-int p(t)dt).
+y_p = u_1 y_1+u_2 y_2,
+[y_p^' =u_1^'y_1+u_1 y_1^' +u_2^'y_2+u_2 y_2^' =u_1 y_1^' +u_2 y_2^' ], [y_p^'' =u_1^'y_1^' +u_1 y_1^'' +u_2^'y_2^' +u_2 y_2^'' .]
+[y_p^'' +py_p^' +qy_p, "<mi//>"=(u_1^'y_1^' +u_1 y_1^'' +u_2^'y_2^' +u_2 y_2^'' )+p(u_1 y_1^' +u_2 y_2^' )], [\ , "<mi//>"+q(u_1 y_1+u_2 y_2)], [\ , "<mi//>"=u_1[y_1^'' +py_1^' +qy_1]+u_2[y_2^'' +py_2^' +qy_2]+u_1^'y_1^' +u_2^'y_2^' ], [\ , "<mi//>"=u_1^'y_1^' +u_2^'y_2^' ], [\ , "<mi//>"=f(t).]
+[u_1^' (t)y_1(t)+u_2^' (t)y_2(t), "<mi//>"=0], [u_1^' (t)y_1^' (t)+u_2^' (t)y_2^' (t), "<mi//>"=f(t).]
+u_1^'
+u_2^' ,
+[u_1^' (t), "<mi//>"= (-y_2(t)f(t))/(W[y_1,y_2](t)) ], [u_2^' (t), "<mi//>"= (y_1(t)f(t))/(W[y_1,y_2](t)) .]
+y''+4y = 0
+y_h = c_1 cos 2t+c_2 sin 2t.
+y_p = u_1(t)cos 2t+u_2(t)sin 2t.
+[u_1^' (t), "<mi//>"=-3cos t], [u_2^' (t), "<mi//>"=3/2 csc t-3sin t.]
+[u_1(t), "<mi//>"=-3sin t], [u_2(t), "<mi//>"=3/2 ln|csc t-cot t|+3cos t.]
+[y_p(t), "<mi//>"=u_1(t)y_1(t)+u_2(t)y_2(t)], [\ , "<mi//>"=-3sin tcos 2t+[3/2 ln|csc t-cot t|+3cos t]sin 2t,]
+[y, "<mi//>"=y_h+y_p], [\ , "<mi//>"=c_1 cos 2t+c_2 sin 2t-3sin tcos 2t+[3/2 ln|csc t-cot t|+3cos t]sin 2t.]
+y_c = Ae^(3it).
+y_c = Ae^(3it).
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+[ay''(t)+by'(t)+cy(t), "<mi//>"=f(t)], [y(0), "<mi//>"=y_0], [y'(0), "<mi//>"=y_0^' ]
+f(t)
+[y''+7y'+10y, "<mi//>"=0], [y(0), "<mi//>"=1], [y'(0), "<mi//>"=1,]
+y''+7y'+10y = 0
+r^2+7r+10 = (r+2)(r+5),
+y(t) = c_1 e^(-2t)+c_2 e^(-5t).
+y(t) = 2e^(-2t)-e^(-5t).
+[y''+2y'+5y=h(t)], [y(0)=y'(0)=0,]
+h(t)
+h(t) = {[7, t<5], [0, t>=5.]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+ay''(t)+by'(t)+cy(t) = f(t)
+y(0) = y_0
+y'(0) = y_0^' .
+acc L(y''(t))+bcc L(y'(t))+ccc L(y(t)) = cc L(f(t)).
+y = y(t)
+y'
+s
+cc L(y')(s) = scc L(y)(s)-y(0) = sY(s)-y(0),
+Y(s)
+y.
+y'
+[cc L(y')(s), "<mi//>"=int_0^ oo y'(t)e^(-st)dt], [\ , "<mi//>"=lim_(b->oo)[e^(-st)y(t)|_0^b+s int_0^b y(t)e^(-st)dt]], [\ , "<mi//>"=lim_(b->oo)[e^(-sb)y(b)-y(0)+scc L(y)(s)].]
+lim_(b->oo)e^(-sb)y(b) = 0.
+y
+M >= 0
+a
+|y(t)| <= Me^(at),
+t
+[0, oo).
+|e^(-sb)y(b)| <= Me^(-(s-a)b).
+b -> oo
+s > a.
+cc L(y')(s) = scc L(y)(s)-y(0).
+y = y(t)
+y'(t)
+y''
+s
+cc L(y'')(s) = s^2 cc L(y)(s)-sy(0)-y'(0) = s^2 Y(s)-sy(0)-y'(0),
+Y(s)
+y.
+y = y(t)
+k-1
+y^((k))
+[cc L(y^((k)))(s)=s^k cc L(y)(s)-s^(k-1)y(0)-cdots-sy^((k-2))(0)-y^((k-1))(0)], [=s^k Y(s)-s^(k-1)y(0)-s^(k-1)y(0)-cdots-sy^((k-2))(0)-y^((k-1))(0).]
+[y''+7y'+10y, "<mi//>"=0], [y(0), "<mi//>"=1], [y'(0), "<mi//>"=1.]
+[cc L(y')(s)=scc L(y)(s)-y(0)=sY(s)-y(0)], [cc L(y'')(s)=s^2 cc L(y)(s)-sy(0)-y'(0)=s^2 Y(s)-sy(0)-y'(0).]
+Y(s)
+y.
+y''+7y'+10y,
+[cc L(y''+7y'+10y), "<mi//>"=cc L(y'')+7cc L(y')+10cc L(y)], [\ , "<mi//>"=[s^2 Y(s)-sy(0)-y'(0)]+7[sY(s)-y(0)]+10Y(s)], [\ , "<mi//>"=[s^2 Y(s)-s-1]+7[sY(s)-1]+10Y(s).]
+cc L(0),
+[s^2 Y(s)-s-1]+7[sY(s)-1]+10Y(s) = 0.
+Y(s),
+Y(s) = (s+8)/(s^2+7s+10) = (s+8)/((s+5)(s+2)) = 2/(s+2) -1/(s+5) ,
+e^(at)
+1//(s-a),
+cc L^(-1)(1/(s-a) ) = e^(at).
+y(t) = 2e^(-2t)-e^(-5t),
+x'-5x = e^(5t),
+x(0) = 0
+x''-x'-6x = 0,
+x(0) = 2,
+x'(0) = -1
+x''+4x = sin 3t,
+x(0) = 0,
+x'(0) = 0
+c >= 0
+u_c(t) = {[0, t<c], [1, t>=c,]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+u_c
+cc L(u_c(t))(s) = int_0^ oo u_c(t)e^(-st)dt = (e^(-cs))/s.
+[y'+y, "<mi//>"=u_3(t)], [y(0), "<mi//>"=1.]
+y'+y = u_3(t),
+sY(s)-y(0)+Y(s) = (e^(-3s))/s.
+y(0) = 1
+Y(s),
+Y(s) = 1/(s+1) + (e^(-3s))/(s(s+1)) .
+y(t) = cc L^(-1)(1/(s+1) )+cc L^(-1)( (e^(-3s))/(s(s+1)) ).
+cc L^(-1)(1/(s+1) ) = e^(-t).
+cc L(f) = F(s),
+cc L(u_a(t)f(t-a)) = e^(-as)F(s).
+1/(s(s+1)) = 1/s-1/(s-1) .
+cc L^(-1)( (e^(-3s))/(s(s+1)) ) = cc L^(-1)( (e^(-3s))/s)-cc L^(-1)( (e^(-3s))/(s+1) ) = u_3(t)-cc L^(-1)( (e^(-3s))/(s+1) ).
+g(t) = u_3(t)e^(-(t-3)),
+g(t)
+cc L(g) = e^(-3s)cc L(e^(-t)) = (e^(-3s))/(s+1) .
+y(t) = e^(-t)+u_3(t)(1-e^(-(t-3))).
+[y''+4y=3cos t], [y(0)=y'(0)=0.]
+y''+4y = 3cos t,
+cc L(y'')+4cc L(y) = 3cc L(cos t)
+s^2 Y(s)-sy(0)-y'(0)+4Y(s) = (3s)/(s^2+1) ,
+cc L(y)(s) = Y(s).
+Y,
+Y(s) = (3s)/((s^2+4)(s^2+1)) = (-s)/(s^2+4) +s/(s^2+1) ,
+y(t) = cc L^(-1)( (-s)/(s^2+4) )+cc L^(-1)(s/(s^2+1) ) = -cos 2t+cos t.
+[y''+2y'+5y=h(t)], [y(0)=y'(0)=0,]
+h(t)
+h(t) = {[5, t<7], [0, t>=7.]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+h(t) = 5(1-u_7(t)).
+t < 7
+t = 7,
+y''+2y'+5y = h(t),
+[s^2 Y(s)-sy(0)-y'(0)]+2[sY(s)-y(0)]+5Y(s) = cc L(h),
+cc L(y)(s) = Y(s).
+(s^2+2s+5)Y(s) = 5(1/s- (e^(-7s))/s).
+Y(s),
+Y(s) = 5/(s(s^2+2s+5)) - (5e^(-7s))/(s(s^2+2s+5))
+y = cc L^(-1)(5/(s(s^2+2s+5)) - (5e^(-7s))/(s(s^2+2s+5)) ).
+5/(s(s^2+2s+5)) = 1/s- (s+2)/(s^2+2s+5) .
+1//s
+[ (s+2)/(s^2+2s+5) , "<mi//>"= (s+2)/((s+1)^2+4) ], [\ , "<mi//>"= (s+1)/((s+1)^2+4) +1/((s+1)^2+4) ], [\ , "<mi//>"= (s+1)/((s+1)^2+4) +1/2 2/((s+1)^2+4) .]
+cc L^(-1)( (s+2)/(s^2+2s+5) ) = e^(-t)cos 2t+1/2 e^(-t)sin 2t = e^(-t)(cos 2t+1/2 sin 2t).
+cc L^(-1)(5/(s(s^2+2s+5)) ) = cc L^(-1)(1/s- (s+2)/(s^2+2s+5) ) = 1-e^(-t)(cos 2t+1/2 sin 2t).
+(5e^(-7s))/(s(s^2+2s+5))
+u_7(t)
+cc L^(-1)( (5e^(-7s))/(s(s^2+2s+5)) ) = u_7(t)(1-e^(-(t-7))(cos 2(t-7)+1/2 sin 2(t-7))).
+y(t) = 1-e^(-t)(cos 2t+1/2 sin 2t)-u_7(t)(1-e^(-(t-7))(cos 2(t-7)+1/2 sin 2(t-7))).
+x'+x = u_3(t),
+x(0) = 2
+x''+x = h(t),
+x(0) = 0,
+x'(0) = 0
+h(t) = {[0, t<1], [2, t>=1.]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+[ay''(t)+by'(t)+cy(t), "<mi//>"=f(t)], [y(0), "<mi//>"=y_0], [y'(0), "<mi//>"=y_0^' ]
+f(t)
+y = y(t)
+y'
+s
+cc L(y')(s) = scc L(y)(s)-y(0) = sY(s)-y(0),
+Y(s)
+y.
+y = y(t)
+y'(t)
+y''
+s
+cc L(y'')(s) = s^2 cc L(y)(s)-sy(0)-y'(0) = s^2 Y(s)-sy(0)-y'(0),
+Y(s)
+y.
+y = y(t)
+k-1
+y^((k))
+[cc L(y^((k)))(s)=s^k cc L(y)(s)-s^(k-1)y(0)-cdots-sy^((k-2))(0)-y^((k-1))(0)], [=s^k Y(s)-s^(k-1)y(0)-s^(k-1)y(0)-cdots-sy^((k-2))(0)-y^((k-1))(0).]
+y''-2y'-3y = 3e^(2t),
+y(0) = 1,
+y'(0) = 0
+y''-y'-2y = 4x^2,
+y(0) = -1,
+y'(0) = 1
+(d^2 x)/(dx^2) -6 dx/dt+25x = 64e^(-t),
+x(0) = 1,
+x'(0) = -2
+y''+16y = 2sin 2t,
+y(0) = 1,
+y'(0) = 0
+y''+16y = 2sin 4t,
+y(0) = 1,
+y'(0) = 0
+y''+2y'+y = 2e^(-t),
+y(0) = -1,
+y'(0) = 3
+y''+6y'+8y = cos 3t,
+y(0) = -2,
+y'(0) = 1
+u''+omega_0^2 y = cos omega t,
+omega^2 != omega_0^2,
+u(0) = 1,
+u'(0) = -1
+[2y''+y'+2y=g(t)], [y(0)=y'(0)=0]
+g(t)
+g(t) = u_5(t)-u_(20)(t) = {[1,, 5<=t<20,], [0,, 0<=t<5"\and\ "t>=20.]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+y = y(t)
+y'(t)
+y''
+cc L(y'')(s) = s^2 cc L(y)(s)-sy(0)-y'(0) = s^2 Y(s)-sy(0)-y'(0)
+s,
+Y(s)
+y.
+y = y(t)
+k-1
+y^((k))
+[cc L(y^((k)))(s)=s^k cc L(y)(s)-s^(k-1)y(0)-cdots-sy^((k-2))(0)-y^((k-1))(0)], [=s^k Y(s)-s^(k-1)y(0)-s^(k-1)y(0)-cdots-sy^((k-2))(0)-y^((k-1))(0).]
+f(t)
+t >= 0.
+f(t)
+|f(t)| <= Me^(ct)
+t >= 0.
+cc L(int_0^t f(tau)d tau) = 1/s cc L(f(t) = (F(s))/s.
+cc L^(-1)( (F(s))/s) = int_0^t f(tau)d tau
+[u'+u-v, "<mi//>"=0], [v'-u+v, "<mi//>"=2], [u(0)=1,, \ v(0)=2.]
+cc L(u(s)) = U(s)
+cc L(v(s)) = V(s)
+[[sU(s)-1]+U(s)-V(s), "<mi//>"=0], [[sV(s)-2]-U(s)+V(s), "<mi//>"=2/s.]
+[[sU(s)-1]+U(s)-V(s), "<mi//>"=0], [[sV(s)-2]-U(s)+V(s), "<mi//>"=2/s]
+U(s)
+V(s),
+U(s) = (s+1)/(s^2) \ and\ V(s) = (2s+1)/(s^2) .
+u(t)
+v(t).
+[u'+4u-6v, "<mi//>"=0], [v'+3u-5v, "<mi//>"=0], [u(0)=3,, \ v(0)=2]
+[w'-y, "<mi//>"=0], [w+y'+z, "<mi//>"=1], [w-y+z', "<mi//>"=2sin t], [w(0)=1,, \ y(0)=1,\ z(0)=1]
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+alpha,
+alpha
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y),]
+[dx/dt, "<mi//>"=alpha+x^2], [dy/dt, "<mi//>"=-y]
+alpha > 0
+alpha = 0
+(+-sqrt(-alpha), 0),
+alpha < 0.
+alpha > 0
+[dx/dt, "<mi//>"=alpha+x^2], [dy/dt, "<mi//>"=-y]
+J(x, y) = ([2x, 0], [0, -1]).
+alpha = 0,
+J
+-1.
+xy
+alpha < 0
+alpha < 0,
+J = ([2sqrt(-alpha), 0], [0, -1])"\or\ "([-2sqrt(-alpha), 0], [0, -1]).
+alpha
+alpha
+[dx/dt, "<mi//>"=alpha x+5y-x(x^2+y^2)], [dy/dt, "<mi//>"=-5x+alpha y-y(x^2+y^2).]
+alpha.
+[dx/dt, "<mi//>"=alpha x+5y], [dy/dt, "<mi//>"=-5x+alpha y.]
+alpha+-5i,
+alpha < 0,
+alpha
+alpha = 0
+alpha > 0
+alpha > 0
+alpha > 0,
+alpha = 0.
+alpha
+sqrt(alpha)
+alpha < 0
+alpha = 0
+alpha > 0
+alpha
+x = rcos theta
+y = rsin theta,
+[ (dr)/dt, "<mi//>"=alpha r-r^3], [ (d theta)/dt, "<mi//>"=-5.]
+alpha < 0,
+alpha r-r^3 < 0
+r > 0.
+t -> oo.
+alpha > 0,
+r' = 0,
+r = sqrt(alpha).
+r' > 0
+0 < r < sqrt(alpha)
+r' < 0
+r > sqrt(alpha).
+sqrt(alpha)
+theta' = -5 < 0.
+t -> oo.
+alpha
+(x_0(alpha), y_0(alpha))
+[dx/dt, "<mi//>"=f_ alpha(x,y)], [dy/dt, "<mi//>"=g_ alpha(x,y)]
+alpha,
+a(alpha)+-ib(alpha).
+alpha = alpha_0,
+a(alpha_0) = 0,
+a'(alpha_0) > 0,
+b(alpha_0) != 0,
+alpha_1
+alpha_0 < alpha < alpha_1.
+[dx/dt, "<mi//>"=alpha x+5y-x(x^2+y^2)], [dy/dt, "<mi//>"=-5x+alpha y-y(x^2+y^2)]
+(0, 0)
+alpha+-5i.
+alpha_0 = 0,
+a(0) = 0,
+a'(0) = 1,
+b(0) = 5.
+x''-x(1-x^2)x'+x = 0.
+["(5.4.1)", dx/dt, "<mi//>"=y], ["(5.4.2)", dy/dt, "<mi//>"=-x+x(1-x^2)y.]
+[dx/dt, "<mi//>"=y], [dy/dt, "<mi//>"=-x+y]
+A = ([0, 1], [-1, 1]),
+lambda = (1+-isqrt(3))//2.
+J = ([0, 1], [-1-2x_0 y_0, 1-x_0^2]),
+A
+(x_0, y_0) = (0, 0).
+[dx/dt, "<mi//>"=(a-bx)x- (cxy)/(d+alpha x) ], [dy/dt, "<mi//>"=-ey+ (fxy)/(d+alpha x) ,]
+x(t)
+t
+y(t)
+t.
+a, ..., f
+alpha
+a, ..., f
+[dx/dt, "<mi//>"=(1-x)x- (xy)/(0.3+alpha x) ], [dy/dt, "<mi//>"=-0.5y+ (xy)/(0.3+alpha x) .]
+alpha
+alpha,
+alpha.
+alpha = 0,
+alpha = 1.35,
+alpha = 0.9,
+alpha = 0
+alpha = 1.35
+alpha = 0.9
+alpha
+alpha ~~ 0.5.
+alpha
+alpha ~~ 0.85,
+alpha ~~ 1.2,
+alpha > 1.2,
+x
+x = 0.15/(1-0.5 alpha) ,
+alpha
+(x_0(alpha), y_0(alpha))
+[dx/dt, "<mi//>"=f_ alpha(x,y)], [dy/dt, "<mi//>"=g_ alpha(x,y)]
+alpha,
+a(alpha)+-ib(alpha).
+alpha = alpha_0,
+a(alpha_0) = 0,
+a'(alpha_0) > 0,
+b(alpha_0) != 0,
+alpha_1
+alpha_0 < alpha < alpha_1.
+[dx/dt, "<mi//>"=(a-bx)x- (cxy)/(d+alpha y) ], [dy/dt, "<mi//>"=-ey+ (fxy)/(d+alpha y) ,]
+x(t)
+t
+y(t)
+t.
+a, ..., f
+alpha
+alpha
+alpha,
+[x', "<mi//>"=y], [y', "<mi//>"=-x-y/4+x^2.]
+L(x, y) = (x^2)/2+ (y^2)/2- (x^3)/3
+L.
+G(x, y) = x^3-3xy^2.
+G?
+G
+G.
+-2 <= x <= 2,
+-2 <= y <= 2
+S(x, y) = x^2+y^2- (x^4+y^4)/4-3x^2 y^2+100.
+S?
+S.
+x
+y?
+[x', "<mi//>"=x(-x-y+1)], [y', "<mi//>"=y(-ax-y+b),]
+a
+b
+a, b > 0.
+x, y >= 0.
+a
+b.
+a
+b
+V(x, y) = ax^2+2bxy+cy^2
+(x, y) = (0, 0)
+a > 0
+ac-b^2 > 0.
+V(x, y) = x^2+y^2
+[x', "<mi//>"=-x-2y^2], [y', "<mi//>"=2xy-y^3]
+(x, y) = (0, 0).
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+([dx//dt], [dy//dt]) = ([a, b], [c, d])([x], [y]) = A([x], [y]),
+([dx//dt], [dy//dt]) = ([a, b], [c, d])([x], [y]) = A([x], [y])
+A
+lambda
+mu
+bb u
+bb v,
+bb x(t) = c_1 e^(lambda t)bb u+c_2 e^(mu t)bb v.
+c_2 = 0,
+xy
+bb u.
+c_1 = 0,
+xy
+bb v.
+lambda_1 < 0 < lambda_2
+[x', "<mi//>"=x+3y], [y', "<mi//>"=x-y]
+bb x' = Abb x,
+A = ([1, 3], [1, -1]).
+A
+lambda = -2
+lambda = 2
+bb u = (1, -1)
+bb v = (3, 1),
+bb u
+bb v
+bb x' = Abb x,
+lambda_1 < 0 < lambda_2
+A = ([lambda_1, 0], [0, lambda_2]).
+[dx/dt, "<mi//>"=lambda_1 x], [dy/dt, "<mi//>"=lambda_2 y,]
+A.
+A
+(lambda-lambda_1)(lambda-lambda_2) = 0,
+lambda_1
+lambda_2.
+(1, 0)
+(0, 1)
+lambda_1
+lambda_2,
+bb x(t) = c_1 e^(lambda_1 t)([1], [0])+c_2 e^(lambda_2 t)([0], [1]).
+lambda_1 < 0,
+c_1 e^(lambda_1 t)(1, 0)
+x
+t -> oo.
+c_2 e^(lambda_2 t)(0, 1)
+y
+t -> oo.
+x
+y
+bb x(t) = c_1 e^(lambda_1 t)([1], [0])+c_2 e^(lambda_2 t)([0], [1])
+c_1, c_2 != 0
+bb x(t)
+(0, c_2 e^(lambda_2 t))
+t -> oo.
+[x', "<mi//>"=-x], [y', "<mi//>"=y]
+(0, 0).
+bb x_1(t) = c_1 e^(2t)([3], [1]).
+t -> oo.
+bb x_2(t) = c_2 e^(-2t)([1], [-1]),
+t -> oo.
+bb x(t) = c_1 e^(2t)([3], [1])+c_2 e^(-2t)([1], [-1]).
+c_1 != 0,
+bb x(t) -> bb x_1(t)
+t -> oo.
+c_2 != 0,
+bb x(t) -> bb x_2(t)
+t -> -oo.
+A
+lambda_1 < 0 < lambda_2,
+t -> oo
+t -> -oo.
+dbb x//dt = Abb x,
+A = ([8, -3], [18, -7])
+A.
+lambda
+mu.
+bb v_1
+bb v_2
+lambda
+mu,
+dbb x//dt = Abb x.
+xy
+dbb x//dt = Abb x.
+lambda_1 < lambda_2 < 0
+lambda_1 < lambda_2 < 0
+([x'(t)], [y'(t)]) = ([lambda_1, 0], [0, lambda_2])([x(t)], [y(t)]).
+bb x(t) = c_1 e^(lambda_1 t)([1], [0])+c_2 e^(lambda_2 t)([0], [1]),
+t -> oo.
+dy//dx
+c_2 != 0.
+[x(t), "<mi//>"=c_1 e^(lambda_1 t)], [y(t), "<mi//>"=c_2 e^(lambda_2 t),]
+dy/dx = (y'(t))/(x'(t)) = (lambda_2 c_2 e^(lambda_2 t))/(lambda_1 c_1 e^(lambda_1 t)) = (lambda_2 c_2)/(lambda_1 c_1) e^((lambda_2-lambda_1)t).
+lambda_2-lambda_1 > 0,
+dy//dx,
++-oo,
+c_2 != 0.
+y
+lambda_1 < lambda_2 < 0,
+lambda_1
+x
+y
+lambda_1 < lambda_2 < 0,
+lambda_1
+lambda_2
+(u_1, u_2)
+(v_1, v_2),
+bb x(t) = c_1 e^(lambda_1 t)([u_1], [u_2])+c_2 e^(lambda_2 t)([v_1], [v_2]).
+(x, y)
+[dy/dx, "<mi//>"= (lambda_1 c_1 e^(lambda_1 t)u_2+lambda_2 c_2 e^(lambda_2 t)v_2)/(lambda_1 c_1 e^(lambda_1 t)u_1+lambda_2 c_2 e^(lambda_2 t)v_1) ], [\ , "<mi//>"=( (lambda_1 c_1 e^(lambda_1 t)u_2+lambda_2 c_2 e^(lambda_2 t)v_2)/(lambda_1 c_1 e^(lambda_1 t)u_1+lambda_2 c_2 e^(lambda_2 t)v_1) ) (e^(-lambda_2 t))/(e^(-lambda_2 t)) ], [\ , "<mi//>"= (lambda_1 c_1 e^((lambda_1-lambda_2)t)u_2+lambda_2 c_2 v_2)/(lambda_1 c_1 e^((lambda_1-lambda_2)t)u_1+lambda_2 c_2 v_1) .]
+v_2//v_1
+lambda_2
+c_2 = 0
+c_2 = 0,
+lambda_1.
+lambda_2.
+([x'(t)], [y'(t)]) = ([-5, -2], [-1, -4])([x(t)], [y(t)]).
+lambda_1 = -6
+lambda_2 = -3
+bb v_1 = (2, 1)
+bb v_2 = (1, -1),
+lambda_1 = -6,
+bb v_1 = (2, 1)
+dbb x//dt = Abb x,
+A = ([6, 14], [-4, -9])
+A.
+lambda
+mu.
+bb v_1
+bb v_2
+lambda
+mu,
+dbb x//dt = Abb x.
+xy
+dbb x//dt = Abb x.
+lambda_1 > lambda_2 > 0
+lambda_1 > lambda_2 > 0,
+([x'(t)], [y'(t)]) = ([4, -3], [-1, 2])([x(t)], [y(t)]).
+lambda_1 = 5
+lambda_2 = 1
+bb v_1 = (3, -1)
+bb v_2 = (1, 1),
+lambda_1 = 5,
+bb v_2 = (3, -1)
+t -> oo
+([dx//dt], [dy//dt]) = ([a, b], [c, d])([x], [y]) = A([x], [y]),
+A
+A = ([lambda_1, 0], [0, lambda_2]),
+A
+bb x' = Abb x
+bb x(t) = alpha e^(lambda_1 t)([1], [0])+beta e^(lambda_2 t)([0], [1]).
+lambda_1 < 0 < lambda_2,
+bb x' = Abb x
+lambda_1 < lambda_2 < 0,
+bb x' = Abb x
+0 < lambda_1 < lambda_2,
+bb x' = Abb x
+2 xx 2
+dbb x//dt = Abb x
+A.
+A.
+dbb x//dt = Abb x?
+'\\y01d7ce'.
+A = ([-1, 2], [-6, 6])
+A = ([-12, 30], [-5, 13])
+A = ([-9, -2], [10, 0])
+A = ([11, 8], [-12, -9])
+A = ([7, 12], [-4, -7])
+A = ([10, 12], [-4, -4])
+A = ([-2, -6], [2, 5])
+A = ([-18, -30], [10, 17])
+dbb x//dt = Abb x
+bb x(0) = (2, 2).
+dbb x//dt = Abb x,
+A = ([3, 2], [3, -2]).
+x(0) = 1
+y(0) = 1.
+dbb x//dt = Abb x
+bb x(0) = (2, 2).
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+f(t),
+cc L(f)(s) = F(s) = int_0^ oo e^(-st)f(t)dt,
+F(s)
+cc L^(-1)(F(s))(t).
+LI''+RI'+1/C I = E'(t).
+E'(t),
+[ (dP)/(dt) , "<mi//>"=kP], [P(0), "<mi//>"=P_0,]
+r
+H(t) = {[r, 0<=t<=1//2,], [0, 1//2<t<1,], [r, 1<=t<=3//2,], [0, 3//2<t<2,], [\ , vdots]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+[ (dP)/(dt) , "<mi//>"=kP-H], [P(0), "<mi//>"=P_0,]
+[ay''+by'+cy, "<mi//>"=g(t)], [y(0), "<mi//>"=y_0], [y'(0), "<mi//>"=y_0^' ,]
+g
+f(t)
+cc L(f)(s) = F(s) = int_0^ oo e^(-st)f(t)dt,
+f.
+f(t) = k,
+k
+cc L(f)(s) = int_0^ oo e^(-st)kdt = k/s,
+s > 0.
+f(t) = t,
+cc L(f)(s) = int_0^ oo e^(-st)tdt = 1/(s^2) ,
+s > 0.
+f(t) = e^(at)
+t > 0,
+cc L(f)(s) = int_0^ oo e^(-st)e^(at)dt = int_0^ oo e^(-(s-a)t)dt = [- (e^(-(s-a)t))/(s-a) ]_0^ oo.
+e^(-(s-a)t) -> 0
+t -> oo
+s > a,
+cc L(e^(at)) = 1/(s-a)
+s > a.
+f(t) = e^(t^2).
+s,
+e^(t^2)e^(-st) = e^(t(t-s)) > 1,
+t > s
+t >= 0;
+int_0^b e^(t^2)e^(-st)dt = int_0^b e^(t(t-s))dt >= b.
+int_0^ oo e^(t^2)e^(-st)dt
+cc L(alpha f+beta g)(s) = alpha cc L(f)(s)+beta cc L(g)(s),
+alpha, beta in RR
+f
+g
+[cc L(alpha f+beta g)(s), "<mi//>"=int_0^ oo e^(-st)[alpha f(t)+beta g(t)]dt], [\ , "<mi//>"=lim_(b->oo) int_0^b e^(-st)[alpha f(t)+beta g(t)]dt], [\ , "<mi//>"=alpha lim_(b->oo) int_0^b e^(-st)f(t)dt+beta lim_(b->oo) int_0^b e^(-st) beta g(t)dt], [\ , "<mi//>"=alpha cc L(f)(s)+beta cc L(g)(s)]
+f
+g
+cc L(f)(s)
+cc L(g)(s)
+s > a
+s > b,
+alpha
+beta
+s > max{a, b}
+cc L(alpha f+beta g)(s) = alpha cc L(f)(s)+beta cc L(g)(s).
+sinh at = (e^(at)-e^(-at))//2.
+a > 0,
+sinh at.
+cc L(sinh at) = 1/2 cc L(e^(at))-1/2 cc L(e^(-at)) = 1/2(1/(s-k) -1/(s+k) ).
+s > k > 0,
+cc L(sinh at) = k/(s^2-k^2) .
+f
+[a, b]
+f
+f
+[a, b].
+c in[a, b]
+lim_(t->c^- )f(t)\ and\ lim_(t->c^+ )f(t)
+lim_(t->a^+ )f(t)
+lim_(t->b^- )f(t)
+[0, oo),
+[0, b]
+b > 0.
+u(t) = {[0,, t<0], [1,, t>=0.]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+u(t)
+t = 0.
+cc L(u(t)) = 1//s
+s > 0.
+a
+u_a(t) = u(t-a) = {[0,, t<a], [1,, t>=a,]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+t = a
+a > 0,
+cc L(u_a(t)) = int_0^ oo e^(-st)u_a(t)dt = int_a^ oo e^(-st)dt = lim_(b->oo)[- (e^(-st))/s]_a^b = (e^(-sa))/s,
+s > 0
+a > 0.
+u_a(t) = u(t-a)
+f(t),
+g(t) = u_a(t)f(t-a).
+g
+f,
+f
+a
+g(t) = 0
+0 <= t < a
+g,
+cc L(g) = int_0^ oo g(t)e^(-st)dt = int_a^ oo f(t-a)e^(-st)dt.
+w = t-a,
+cc L(g) = int_0^ oo f(w)e^(-s(w+a))dt = e^(-sa) int_0^ oo f(w)e^(-sw)dt = e^(-sa)cc L(f).
+cc L(f) = F(s),
+cc L(u_a(t)f(t-a)) = e^(-as)F(s).
+cosh t = (e^t+e^(-t))//2
+sinh t = (e^t-e^(-t))//2
+f(t) = t^6
+f(t) = t^7 e^(-t)
+f(t) = 3sin^2(sqrt(2)t)
+f(t) = e^(3t)sin 2t
+f(t) = 2t^2 cosh t
+f(t)
+[0, oo)
+t -> oo.
+f(t)
+[0, oo)
+M >= 0
+a
+|f(t)| <= Me^(at),
+t
+[0, oo).
+f
+y = Me^(at)
+y = -Me^(at).
+[0, oo).
+f
+[0, oo),
+f,
+cc L(f)(s) = F(s) = int_0^ oo e^(-st)f(t)dt
+f
+g
+F(s)
+G(s),
+F(s) = G(s)
+s > c,
+c
+f(t) = g(t)
+t >= 0.
+F(s),
+cc L^(-1)(F(s))(t),
+f(t)
+F(s).
+cc L^(-1)(alpha F+beta G) = alpha cc L^(-1)(F)+beta cc L^(-1)(G).
+f(t) = cc L^(-1)(F(s))
+F(s) = cc L(f(t))
+1//s,
+s > 0
+e^(at)
+1//(s-a),
+s > a
+t^n,
+n in NN
+n!//s^(n+1),
+s > 0
+t^a,
+a > -1
+Gamma(a+1)//s^(a+1),
+s > 0
+sin at
+a//(s^2+a^2),
+s > 0
+cos at
+s//(s^2+a^2),
+s > 0
+sinh at
+a//(s^2-a^2),
+s > |a|
+cosh at
+s//(s^2-a^2),
+s > |a|
+e^(at)sin bt
+b//[(s-a)^2+b^2],
+s > a
+e^(at)cos bt
+(s-a)//[(s-a)^2+b^2],
+s > a
+t^n e^(at),
+n in NN
+n!//(s-a)^(n+1),
+s > a
+u_c(t)
+e^(-cs)//s,
+s > 0
+u_c(t)f(t-c)
+e^(-cs)F(s)
+e^(ct)f(t)
+F(s-c)
+f(ct)
+(1//c)F(s//c),
+c > 0
+delta(t-c) = delta_c(t)
+e^(-cs)
+f'(t)
+sF(s)-f(0)
+f''(t)
+s^2 F(s)-sf(0)-f'(0)
+F(s) = 2/(s^2)
+F(s) = 1/(s^4)
+F(s) = 2/((s-3)^2+4)
+F(s) = (2s^2)/((s^2+1)(s-1))
+F(s) = (2s-13)/(s(s^2-4s+13))
+f(t)
+cc L(f)(s) = F(s) = int_0^ oo e^(-st)f(t)dt,
+f
+[0, oo),
+f,
+cc L(f)(s) = F(s) = int_0^ oo e^(-st)f(t)dt
+cc L(alpha f+beta g)(s) = alpha cc L(f)(s)+beta cc L(g)(s),
+alpha, beta in RR
+f
+g
+F(s)
+cc L^(-1)(F(s))(t).
+cc L^(-1)(alpha F+beta G) = alpha cc L^(-1)(F)+beta cc L^(-1)(G).
+cc L(f) = F(s),
+cc L(u_c(t)f(t-c)) = e^(-sc)F(s).
+c >= 0,
+u_c(t) = {[0, t<c], [1, t>=c.]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+u_c
+cc L(u_c(t))(s) = (e^(-cs))/s.
+cosh t = (e^t+e^(-t))//2
+sinh t = (e^t-e^(-t))//2.
+f(t) = sin at
+f(t) = cos at
+f(t) = e^(at)sin bt
+f(t) = cosh at
+f(t) = 2cos at-3sinh at
+f(t) = te^(at)
+f(t) = tsin at
+f(t) = t^2 cos at
+F(s) = 1/(s(s+1))
+F(s) = s^(-3//2)
+F(s) = 1/(s+7)
+F(s) = 2/(s^2+9)
+F(s) = (5s-4)/(2s^2+s-1)
+F(s) = (2s^2-s+4)/(s^3+4s)
+F(s) = 1/((s+2)^3)
+F(s) = 1/((s+1)^2(s^2-9))
+f
+[0, oo),
+f,
+cc L(f)(s) = F(s) = int_0^ oo e^(-st)f(t)dt
+f
+cc L(f)(s) = F(s)
+s > a.
+cc L(e^(ct)f(t))(s) = F(s-c)
+s > a+c.
+f
+g
+[0, oo),
+F(s)
+G(s),
+F(s) = G(s),
+f(t) = g(t).
+f
+[0, oo),
+f,
+cc L(f)(s) = F(s) = int_0^ oo e^(-st)f(t)dt
+Gamma(x) = int_0^ oo e^(-t)t^(x-1)dt
+x > 0.
+t^ alpha.
+Gamma(1) = 1.
+Gamma(x+1) = x Gamma(x)
+Gamma(n+1) = n!
+n in NN.
+f(t) = t^ alpha
+cc L(f)(s) = (Gamma(alpha+1))/(s^(alpha+1)) .
+n
+cc L(t^n)(s) = n!//s^(n+1).
+f(x) = t^3 e^t-cos t.
+F(s) = -s/(s^2+1) +6/((s-1)^4) .
+f(t) = {[1,, 0<=t<=3], [0,, t>3.]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+f(t) = {[-t,, 0<=t<=1], [2,, t>1.]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+[dx/dt, "<mi//>"=f(x)], [dy/dt, "<mi//>"=g(y)]
+[dx/dt, "<mi//>"=f(x),], [dy/dt, "<mi//>"=g(x,y)]
+[x', "<mi//>"=ax+by], [y', "<mi//>"=cx+dy.]
+[dx/dt, "<mi//>"=ax+by], [dy/dt, "<mi//>"=cx+dy]
+A
+B
+A
+B
+A
+B
+A
+B.
+x = x(t)
+A
+t
+y = y(t)
+B
+t,
+[x(0), "<mi//>"=100], [y(0), "<mi//>"=0]
+x//300
+y//300
+[dx/dt, "<mi//>"=-500*x/300=-5/3 x,], [dy/dt, "<mi//>"=500*x/300-500*y/300=5/3 x-5/3 y.]
+[dx/dt, "<mi//>"=-5/3 x,], [dy/dt, "<mi//>"=5/3 x-5/3 y.]
+[dx/dt, "<mi//>"=f(x,y),], [dy/dt, "<mi//>"=g(x,y),]
+[dx/dt, "<mi//>"=f(x),], [dy/dt, "<mi//>"=g(y),]
+[dx/dt, "<mi//>"=f(x),], [dy/dt, "<mi//>"=g(x,y).]
+x,
+[dx/dt, "<mi//>"=x], [dy/dt, "<mi//>"=x+y.]
+dx//dt = x,
+x = ae^t.
+dy/dt-y = ae^t
+mu(t) = e^(-t),
+d/dt(e^(-t)y) = mu(t)(dy/dt-y) = ae^t mu(t) = a.
+y(t) = ate^t+be^t.
+[dx/dt, "<mi//>"=-5/3 x,], [dy/dt, "<mi//>"=5/3 x-5/3 y.], [x(0), "<mi//>"=100,], [y(0), "<mi//>"=0.]
+dx//dt = -(5//3)x
+x(t) = c_1 e^(-5t//3).
+x(0) = 100,
+c_1 = 100
+x(t) = 100e^(-5t//3).
+dy/dt = 5/3 x-5/3 y = 500/3 e^(-5t//3)-5/3 y.
+dy/dt+5/3 y = 500/3 e^(-5t//3).
+mu(t) = e^(5t//3)
+d/dt(e^(5t//3)y) = e^(5t//3) dy/dt+e^(5t//3) 5/3 y = 500/3.
+e^(5t//3)y = 500/3 t+c_2.
+y(0) = 0,
+c_2 = 0.
+y = 500/3 te^(-5t//3)
+[x', "<mi//>"=2x], [y', "<mi//>"=x+3y]
+x' = 2x.
+x(t) = c_1 e^(2t).
+y' = x+3y.
+x(t) = c_1 e^(2t),
+y' = c_1 e^(2t)+3y.
+y'-3y = c_1 e^(2t),
+mu(t) = e^(-3t),
+d/dt(e^(-3t)y) = e^(-3t)y'-3e^(-3t)y = c_1 e^(-t).
+e^(-3t)y = -c_1 e^(-t)+c_2.
+y,
+y = -c_1 e^(2t)+c_2 e^(3t).
+[x, "<mi//>"=c_1 e^(2t)], [y, "<mi//>"=-c_1 e^(2t)+c_2 e^(3t).]
+[x', "<mi//>"=-x], [y', "<mi//>"=x-3y]
+[x', "<mi//>"=-x-y], [y', "<mi//>"=-3y]
+[x', "<mi//>"=2x], [y', "<mi//>"=3x+2y]
+[x', "<mi//>"=3x+4y], [y', "<mi//>"=-2y]
+[x', "<mi//>"=ax+by], [y', "<mi//>"=cx+dy]
+[x', "<mi//>"=3x-2y], [y', "<mi//>"=x+y], [x(0), "<mi//>"=1], [y(0), "<mi//>"=1;]
+(d^2 x)/(dt^2) +3 dx/dt+2x = 0
+m = 1,
+[dx/dt, "<mi//>"=v,], [ (dv)/dt, "<mi//>"=-2x-3v.]
+x(0) = 0
+v(0) = 1
+[x(t), "<mi//>"=e^(-t)-e^(-2t),], [v(t), "<mi//>"=-e^(-t)+2e^(-2t).]
+(d^2 x)/(dt^2) +2 dx/dt+10x = 0.
+[dx/dt, "<mi//>"=v,], [ (dv)/dt, "<mi//>"=-10x-2v], [x(0), "<mi//>"=0], [v(0), "<mi//>"=1.]
+[x(t), "<mi//>"=1/3 e^(-t)sin 3t,], [v(t), "<mi//>"=e^(-t)cos 3t-1/3 e^(-t)sin 3t.]
+[dx/dt, "<mi//>"=f(x)], [dy/dt, "<mi//>"=g(y)]
+[dx/dt, "<mi//>"=f(x),], [dy/dt, "<mi//>"=g(x,y)]
+x,
+[x', "<mi//>"=ax+by], [y', "<mi//>"=cx+dy.]
+[x', "<mi//>"=2x], [y', "<mi//>"=x+2y]
+[x', "<mi//>"=-x+3y], [y', "<mi//>"=-2y]
+[x', "<mi//>"=-3x], [y', "<mi//>"=2x+3y]
+[x', "<mi//>"=2x-3y], [y', "<mi//>"=4y]
+A
+B
+A
+B
+A
+B
+A
+B.
+t.
+[y''+7y'+6y, "<mi//>"=0], [y(0), "<mi//>"=1], [y'(0), "<mi//>"=0]
+[y''+4y'+5y, "<mi//>"=0], [y(0), "<mi//>"=1], [y'(0), "<mi//>"=0]
+[y''+6y'+9y, "<mi//>"=0], [y(0), "<mi//>"=1], [y'(0), "<mi//>"=0]
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+e^(i beta t) = cos beta t+isin beta t.
+2 xx 2
+A
+lambda = alpha+-i beta,
+["(3.4.1)", ([dx//dt], [dy//dt])=([-3, 1], [-2, -1])([x], [y])]
+lambda^2+4 lambda+5.
+lambda_1 = -2+i
+lambda_2 = -2-i
+bb v_1 = (1, 1+i)
+bb v_2 = (1, 1-i),
+([dx//dt], [dy//dt]) = ([0, beta], [-beta, 0])([x], [y]) = A([x], [y]),
+beta != 0.
+det(A-lambda I) = lambda^2+beta^2,
++-i beta.
+lambda = i beta,
+([-i beta, beta], [-beta, -i beta])([x], [y]) = ([0], [0]);
+i beta x = beta y.
+(1, i).
+bb x(t) = e^(i beta t)([1], [i])
+bb x' = Abb x.
+e^(i beta t) = cos beta t+isin beta t.
+[bb x(t), "<mi//>"=e^(i beta t)([1], [i])], [\ , "<mi//>"=([cos beta t+isin beta t], [i(cos beta t+isin beta t)])], [\ , "<mi//>"=([cos beta t+isin beta t], [-sin beta t+icos beta t])], [\ , "<mi//>"=([cos beta t], [-sin beta t])+i([sin beta t], [cos beta t])]
+bb x_("Re") = ([cos beta t], [-sin beta t])\ and\ bb x_("Im") = ([sin beta t], [cos beta t]).
+[bb x_("Re")^' (t)+ibb x_("Im")^' (t), "<mi//>"=bb x'(t)], [\ , "<mi//>"=Abb x(t)], [\ , "<mi//>"=A(bb x_("Re")(t)+ibb x_("Im")(t))], [\ , "<mi//>"=Abb x_("Re")(t)+iAbb x_("Im")(t).]
+bb x_("Re")^' (t) = Abb x_("Re")(t)
+bb x_("Im")^' (t) = Abb x_("Im")(t)
+bb x_("Re")(t)
+bb x_("Im")(t)
+bb x_("Re")(0) = ([1], [0])"\and\ "bb x_("Im")(0) = ([0], [1]),
+bb x_("Re")(t)
+bb x_("Im")(t)
+["(3.4.2)", bb x(t)=c_1 bb x_("Re")(t)+c_2 bb x_("Im")(t)]
+bb x_("Re")(t)
+bb x_("Im")(t).
+bb y(t) = ([u(t)], [v(t)])
+bb x' = Abb x,
+bb y'(t) = ([u'(t)], [v'(t)]) = ([0, beta], [-beta, 0])([u(t)], [v(t)]) = ([beta v(t)], [-beta u(t)]).
+u'(t) = beta v(t)
+v'(t) = -beta u(t).
+f
+f(t) = (u(t)+iv(t))e^(i beta t).
+f
+[f'(t), "<mi//>"=(u'(t)+iv'(t))e^(i beta t)+i beta(u(t)+iv(t))e^(i beta t)], [\ , "<mi//>"=(beta v(t)-i beta u(t))e^(i beta t)+(i beta u(t)+i^2 beta v(t))e^(i beta t)], [\ , "<mi//>"=0.]
+f(t)
+f(t) = (u(t)+iv(t))e^(i beta t) = a+bi.
+u(t)+iv(t) = (a+ib)e^(-i beta t).
+[u(t)+iv(t), "<mi//>"=(a+ib)e^(-i beta t)], [\ , "<mi//>"=(a+ib)(cos beta t-isin beta t)], [\ , "<mi//>"=(acos beta t+bsin beta t)+i(bcos beta t-asin beta t).]
+[u(t), "<mi//>"=acos beta t+bsin beta t], [v(t), "<mi//>"=bcos beta t-asin beta t.]
+[([u(t)], [v(t)]), "<mi//>"=([acos beta t+bsin beta t], [bcos beta t-asin beta t])], [\ , "<mi//>"=a([cos beta t], [-sin beta t])+b([sin beta t], [cos beta t])], [\ , "<mi//>"=abb x_("Re")(t)+bbb x_("Im")(t).]
+bb x(t) = c_1([cos beta t], [-sin beta t])+c_2([sin beta t], [cos beta t])
+2 pi//beta.
+[dx/dt, "<mi//>"=2y], [dy/dt, "<mi//>"=-2x], [x(0), "<mi//>"=1], [y(0), "<mi//>"=2.]
+lambda = +-2i.
+[x(t), "<mi//>"=c_1 cos 2t+c_2 sin 2t], [y(t), "<mi//>"=-c_1 sin 2t+c_2 cos 2t.]
+c_1
+c_2,
+[x(t), "<mi//>"=cos 2t+2sin 2t], [y(t), "<mi//>"=-sin 2t+2cos 2t.]
+bb x' = Abb x,
+A = ([alpha, beta], [-beta, alpha])
+alpha
+beta
+A
+lambda^2-2 alpha lambda+(alpha^2+beta^2) = 0,
+lambda = alpha+-i beta.
+(alpha-(alpha+i beta))x+beta y = 0
+(1, i)
+alpha+i beta.
+[bb x(t), "<mi//>"=e^((alpha+i beta)t)([1], [i])], [\ , "<mi//>"=e^(alpha t)([cos beta t], [-sin beta t])+ie^(alpha t)([sin beta t], [cos beta t])], [\ , "<mi//>"=bb x_("Re")(t)+ibb x_("Im")(t).]
+bb x_("Re")(t) = e^(alpha t)([cos beta t], [-sin beta t])\ and\ bb x_("Im")(t) = e^(alpha t)([sin beta t], [cos beta t])
+bb x' = Abb x.
+bb x_("Re")
+bb x_("Im")
+t.
+bb x(t) = c_1 e^(alpha t)([cos beta t], [-sin beta t])+c_2 e^(alpha t)([sin beta t], [cos beta t]).
+e^(alpha t)
+alpha < 0
+alpha > 0.
+[dx/dt, "<mi//>"=-x//10+y], [dy/dt, "<mi//>"=-x-y//10], [x(0), "<mi//>"=2], [y(0), "<mi//>"=2.]
+([-1//10, 1], [-1, -1//10])
+lambda = -1//10+-i.
+lambda = -1//10+i
+bb v = (1, i).
+[bb x(t), "<mi//>"=e^((-1//10+i)t)([1], [i])], [\ , "<mi//>"=e^(-t//10)e^(it)([1], [i])], [\ , "<mi//>"=e^(-t//10)(cos t+isin t)([1], [i])], [\ , "<mi//>"=e^(-t//10)([cos t+isin t], [-sin t+icos t])], [\ , "<mi//>"=e^(-t//10)([cos t], [-sin t])+ie^(-t//10)([sin t], [cos t])]
+bb x_("Re")(t) = e^(-t//10)([cos t], [-sin t])\ and\ bb x_("Im")(t) = e^(-t//10)([sin t], [cos t]),
+bb x(t) = c_1 e^(-t//10)([cos t], [-sin t])+c_2 e^(-t//10)([sin t], [cos t]).
+c_1 = 2
+c_2 = 2;
+bb x(t) = 2e^(-t//10)([cos t+sin t], [cos t-sin t]).
+[dx/dt, "<mi//>"=x//10+y], [dy/dt, "<mi//>"=-x+y//10], [x(0), "<mi//>"=0], [y(0), "<mi//>"=1//2.]
+([1//10, 1], [-1, 1//10])
+(1, -i)
+lambda = 1//10-i.
+bb x(t) = e^((1//10-i)t)([1], [-i]).
+bb x(t) = 1/2 e^(t//10)([sin t], [cos t]),
+dbb x//dt = Abb x,
+A = ([7, 4], [-4, 7])
+lambda
+bar lambda
+A.
+bb v
+bar bb v
+lambda
+bar lambda,
+dbb x//dt = Abb x.
+dbb x//dt = Abb x.
+xy
+bb x' = Abb x,
+A = ([a, b], [c, d]).
+A
+p(lambda) = lambda^2-(a+d) lambda+(ad-bc).
+(a+d)^2-4(ad-bc) < 0,
+A
+bb x' = Abb x,
+A = ([-1, -2], [4, 3]).
+A
+lambda^2-2 lambda+5
+lambda = 1+2i
+bar lambda = 1-2i.
+lambda = 1+2i
+bb v = (1, -1-i).
+e^(i theta) = cos theta+isin theta,
+[bb x(t), "<mi//>"=e^((1+2i)t)bb v], [\ , "<mi//>"=e^((1+2i)t)([1], [-1-i])], [\ , "<mi//>"=e^t e^(2it)([1], [-1-i])], [\ , "<mi//>"=e^t(cos 2t+isin 2t)([1], [-1-i])], [\ , "<mi//>"=e^t([cos 2t+isin 2t], [(-1-i)(cos 2t+isin 2t)])], [\ , "<mi//>"=e^t([cos 2t+isin 2t], [(-cos 2t+sin 2t)+i(-cos 2t-sin 2t)])], [\ , "<mi//>"=e^t([cos 2t], [-cos 2t+sin 2t])+ie^t([sin 2t], [-cos 2t-sin 2t])]
+bb x(t) = c_1 e^t([cos 2t], [-cos 2t+sin 2t])+c_2 e^t([sin 2t], [-cos 2t-sin 2t]).
+e^(alpha t)
+alpha < 0,
+alpha > 0,
+alpha = 0,
+bb x' = Abb x
+A
+dbb x//dt = Abb x,
+A = ([7, -4], [10, -5])
+lambda
+bar lambda
+A.
+bb v
+bar bb v
+lambda
+bar lambda,
+dbb x//dt = Abb x.
+dbb x//dt = Abb x.
+xy
+A = ([alpha, beta], [-beta, alpha]),
+A
+lambda = alpha+-i beta.
+bb x' = Abb x
+bb x(t) = c_1 e^(alpha t)([cos beta t], [-sin beta t])+c_2 e^(alpha t)([sin beta t], [cos beta t]).
+alpha < 0,
+alpha > 0,
+2 xx 2
+[x', "<mi//>"=2x+2y], [y', "<mi//>"=-4x+6y]
+[x', "<mi//>"=2x-5y], [y', "<mi//>"=x-2y]
+[x', "<mi//>"=-9x+26y], [y', "<mi//>"=-4x+11y]
+[x', "<mi//>"=-7x+26y], [y', "<mi//>"=-4x+13y]
+[x', "<mi//>"=-2x+13y], [y', "<mi//>"=-2x+8y]
+[x', "<mi//>"=-7x+13y], [y', "<mi//>"=-2x+3y]
+[x', "<mi//>"=18x-52y], [y', "<mi//>"=8x-22y]
+[x', "<mi//>"=-12x+26y], [y', "<mi//>"=-4x+8y]
+[x', "<mi//>"=2x+2y], [y', "<mi//>"=-4x+6y], [x(0), "<mi//>"=2], [y(0), "<mi//>"=-3]
+[x', "<mi//>"=2x-5y], [y', "<mi//>"=x-2y], [x(0), "<mi//>"=2], [y(0), "<mi//>"=1]
+[x', "<mi//>"=-9x+26y], [y', "<mi//>"=-4x+11y], [x(0), "<mi//>"=10], [y(0), "<mi//>"=10]
+[x', "<mi//>"=-7x+26y], [y', "<mi//>"=-4x+13y], [x(0), "<mi//>"=5], [y(0), "<mi//>"=-5]
+[x', "<mi//>"=-2x+13y], [y', "<mi//>"=-2x+8y], [x(0), "<mi//>"=-2], [y(0), "<mi//>"=-3]
+[x', "<mi//>"=-7x+13y], [y', "<mi//>"=-2x+3y], [x(0), "<mi//>"=1], [y(0), "<mi//>"=-1]
+[x', "<mi//>"=18x-52y], [y', "<mi//>"=8x-22y], [x(0), "<mi//>"=5], [y(0), "<mi//>"=3]
+[x', "<mi//>"=-12x+26y], [y', "<mi//>"=-4x+8y], [x(0), "<mi//>"=2], [y(0), "<mi//>"=-5]
+dbb x//dt = Abb x,
+A = ([3, 2], [-3, -1]).
+x(0) = 1
+y(0) = 1.
+dbb x//dt = Abb x
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+[dx/dt, "<mi//>"=-sigma x+sigma y], [dy/dt, "<mi//>"=rho x-y-xz], [dz/dt, "<mi//>"=-beta z+xy,]
+sigma,
+rho,
+beta
+[x(0), "<mi//>"=x_0], [y(0), "<mi//>"=y_0], [z(0), "<mi//>"=z_0.]
+sigma,
+rho,
+beta,
+sigma = 10,
+rho = 28,
+beta = 8//3.
+[dx/dt, "<mi//>"=-10x+10y], [dy/dt, "<mi//>"=28x-y-xz], [dz/dt, "<mi//>"=-8/3 z+xy,]
+RR^3,
+bb F(x, y, z) = (-10x+10y, 28x-y-xz, -8/3 z+xy),
+(x, y, z)
+bb F(x, y, z) = (-10x+10y, 28x-y-xz, -8/3 z+xy) = (0, 0, 0).
+[x', "<mi//>"=-ax+ay], [y', "<mi//>"=rx-y-xz], [z', "<mi//>"=-bz+xy.]
+V(x, y, z) = rx^2+ay^2+a(z-2r)^2,
+dot V = -2a[rx^2+y^2+b(z-r)^2-br^2].
+(z-r)^2 >= (z-2r)^2-r^2.
+rx^2+y^2+b(z-r)^2 >= mV-br^2,
+m
+1//a,
+b//2a.
+dot V <= -2maV+4abr^2.
+dot V <= -2abr^2 < 0
+R = {(x, y, z)|V(x, y, z) <= 3br^2//m}}.
+R.
+m_1,
+m_2,
+m_1
+k_1
+b_1.
+k_1
+b_1
+m_2
+k_2
+b_2.
+["(5.5.1)", m_1 x_1^'' , "<mi//>"=-k_1 x_1-b_1 x_1^' -k_2(x_1-x_2)-b_2(x_1^' -x_2^' )+rho_0 cos(omega t)], ["(5.5.2)", m_2 x_2^'' , "<mi//>"=-k_2(x_2-x_1)-b_2(x_2^' -x_1^' ).]
+b_1 = 0,
+b_2 = 0.
+f(t) = rho_0 cos(omega t).
+[p_1, "<mi//>"=m_1 x_1^' ], [p_2, "<mi//>"=m_2 x_2^' ,]
+b_1 = 0
+b_2 = 0.
+m_1 = 10
+k_1 = 90
+x_i(0) = 0,
+x_i^' (0) = 0,
+p_i(0) = 0,
+p_i^' (0) = 0
+i = 1, 2,
+f(t) = 10cos(3t)
+m_2 = 1
+k_2 = 0;
+10,
+90,
+3
+m_1
+20
+x_1(t),
+m_1 = 10
+k_1 = 90
+x_i(0) = 0,
+x_i^' (0) = 0,
+p_i(0) = 0,
+p_i^' (0) = 0
+i = 1, 2
+f(t) = 10cos(3t)
+m_2 = 1
+k_2.
+b_1 = 0
+b_2 = 0.
+m_1
+k_2?
+k_2?
+k_2
+m_1,
+x_1(t)
+m_2
+m_1,
+m_1 = 10
+k_1 = 90
+x_i(0) = 0,
+x_i^' (0) = 0,
+p_i(0) = 0,
+p_i^' (0) = 0
+i = 1, 2,
+f(t) = 10cos(3t)
+m_2 = 0.1
+k_2 = 0;
+10,
+90,
+3
+m_1
+20
+x_1(t),
+m_1 = 10
+k_1 = 90
+x_i(0) = 0,
+x_i^' (0) = 0,
+p_i(0) = 0,
+p_i^' (0) = 0
+i = 1, 2,
+f(t) = 5cos(3t)
+m_2 = 0.1
+k_2.
+b_1 = 0
+b_2 = 0.
+k_2?
+k_2?
+k_2
+m_1,
+x_1(t)
+b_1 = 0
+b_2 = 0.
+[p_1, "<mi//>"=m_1 x_1^' ], [p_2, "<mi//>"=m_2 x_2^' ,]
+[x_1^' , "<mi//>"= (p_1)/(m_1) ], [x_2^' , "<mi//>"= (p_2)/(m_2) ], [p_1^' , "<mi//>"=-k_1 x_1-b_1(p_1)/(m_1) -k_2(x_1-x_2)-b_2( (p_1)/(m_1) - (p_2)/(m_2) )+rho_0 cos(omega t)], [p_2^' , "<mi//>"=-k_2(x_2-x_1)-b_2( (p_2)/(m_2) - (p_1)/(m_1) ).]
+[x_1^' , "<mi//>"= (p_1)/(m_1) ], [x_2^' , "<mi//>"= (p_2)/(m_2) ], [p_1^' , "<mi//>"=-k_1 x_1-k_2(x_1-x_2)+rho_0 cos(omega t)], [p_2^' , "<mi//>"=-k_2(x_2-x_1).]
+rho_0 cos(omega t),
+H(x_1, x_2, p_1, p_2) = (p_1^2)/(2m_1) + (p_2^2)/(2m_2) + (k_1)/2 x_1^2+ (k_2)/2(x_2-x_1)^2,
+[ (dx_1)/(dt) , "<mi//>"= (del H)/(del p_1) ], [ (dx_2)/(dt) , "<mi//>"= (del H)/(del p_2) ], [ (dp_1)/(dt) , "<mi//>"=- (del H)/(del x_1) ], [ (dp_2)/(dt) , "<mi//>"=- (del H)/(del x_2) .]
+(x_1(t), x_2(t), p_1(t), p_2(t)),
+H.
+2n
+[ (dx_i)/(dt) , "<mi//>"= (del H)/(del y_i) ], [ (dy_i)/(dt) , "<mi//>"=- (del H)/(del x_i) ]
+i = 1, 2, ..., n,
+H(x_1, ..., x_n, y_1, ...y_n
+RR^(2n)
+H
+RR^(2n).
+H
++-b( (dx_2)/dt- (dx_1)/dt) = +-b( (p_2)/(m_2) - (p_1)/(m_1) ),
+b = b_1 = b_2.
+[x_1^' , "<mi//>"= (p_1)/(m_1) ], [x_2^' , "<mi//>"= (p_2)/(m_2) ], [p_1^' , "<mi//>"=-k_1(x_1)+k_2(x_2-x_1)+b( (p_2)/(m_2) - (p_1)/(m_1) )], [p_2^' , "<mi//>"=-k_2(x_2-x_1)-b( (p_2)/(m_2) - (p_1)/(m_1) ).]
+["(5.5.3)", (dH)/(dt) =-b( (p_2)/(m_2) - (p_1)/(m_1) )^2=-b( (dx_2)/(dt) - (dx_1)/(dt) )^2.]
+dH//dt <= 0.
+dH//dt < 0
+m_1
+m_2
+m_1
+k_1
+m_2,
+k_2
+b.
+b
+dH//dt
+m_2
+m_1.
+m_2
+m_1
+m_2.
+m_2
+m_1.
+m_2
+k_2
+m_2.
+k_2
+m_1 = 1,
+k_1 = 1,
+m_2
+b = 0.1.
+[x_1(0), "<mi//>"=10], [x_2(0), "<mi//>"=0], [p_1(0), "<mi//>"=0], [p_2(0), "<mi//>"=0,]
+k_2
+t
+m_1
+k_2.
+k_2 ~~ 0.05,
+t ~~ 120.
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+x' = f(t, x)
+x(t_0) = x_0
+x' = f(t, x)
+x(t_0) = x_0.
+f
+del f//del x
+R = {(t, x):0 <= |t-t_0| <= a, 0 <= |x-x_0| <= b},
+u = u(t)
+x' = f(t, x)
+x(t_0) = x_0
+|t-t_0| < h
+|t-t_0| < a.
+[x'(t), "<mi//>"= (sin(tx))/(x^2+t^2) ,], [x(0), "<mi//>"=1.]
+f(t, x) = sin(tx)//(x^2+t^2)
+(0, 1)
+(del f)/(del x) = (tcos(tx))/(t^2+x^2) - (2xsin(tx))/((t^2+x^2)^2) .
+y' = y^(1//3)
+y(0) = 0
+t >= 0.
+y^(-1//3)dy = dt.
+3/2 y^(2//3) = t+C
+y = (2/3(t+C))^(3//2).
+C = 0,
+y = (2/3 t)^(3//2)
+t >= 0.
+t >= 0:
+[y, "<mi//>"=-(2/3 t)^(3//2),], [y, "<mi//>"-=0.]
+y' = y^(1//3)
+y = 0.
+(del)/(del y) y^(1//3) = 1/3 y^(-2//3)
+y = 0.
+y' = y^2
+y(0) = 1.
+f(t, y) = y^2
+del f//del y = 2y
+t = 0.
+1/(y^2) dy = dt,
+y = -1/(t+C)
+y = 1/(1-t) .
+(-oo, 1)
+y(0) = -1.
+y(0) = -1,
+y = -1/(t+1) ,
+(-1, oo).
+y' = 4+y^3,
+y(0) = 1
+y' = sqrt(y),
+y(1) = 0
+y' = sqrt(y),
+y(1) = 1
+x' = t/(x-2) ,
+x(0) = 2
+x' = t/(x-2) ,
+x(2) = 0
+y' = xtan y,
+y(0) = 0
+y' = 1/t y+2t,
+y(0) = 1
+u = u(t)
+[x', "<mi//>"=f(t,x)], [x(t_0), "<mi//>"=x_0,]
+u
+x(t) = x_0+int_(t_0)^t f(s, x(s))ds.
+u = u(t)
+[x', "<mi//>"=f(t,x)], [x(t_0), "<mi//>"=x_0,]
+I
+t_0.
+u
+I
+f
+R,
+F(t) = f(t, u(t))
+I.
+u'(t) = f(t, u(t))
+u(t)-u(t_0) = int_(t_0)^t u'(s)ds = int_(t_0)^t f(s, u(s))ds
+u(t_0) = x_0,
+u
+u(t) = x_0+int_(t_0)^t f(s, u(s))ds.
+u'(t) = f(t, u(t)).
+u(t_0) = x_0+int_(t_0)^(t_0)f(s, u(s))ds = x_0,
+[x', "<mi//>"=f(t,x)], [x(t_0), "<mi//>"=x_0,]
+{u_n(t)},
+u(t)
+x(t) = x_0+int_(t_0)^t f(s, x(s))ds.
+u_0(t) = x_0.
+u_1(t) = x_0+int_(t_0)^t f(s, u_0(s))ds.
+u_(n+1) = x_0+int_(t_0)^t f(s, u_n(s))ds.
+u_n(t) -> u(t)
+n -> oo.
+u
+[dx/dt, "<mi//>"=kx], [x(0), "<mi//>"=1.]
+x(t) = e^(kt).
+{u_n(t)}
+[u_0(t), "<mi//>"=1,], [u_1(t), "<mi//>"=1+int_0^t ku_0(s)ds], [\ , "<mi//>"=1+int_0^t kds], [\ , "<mi//>"=1+kt,], [u_2(t), "<mi//>"=1+int_0^t ku_1(s)ds], [\ , "<mi//>"=1+int_0^t k(1+ks)ds], [\ , "<mi//>"=1+kt+ ((kt)^2)/2.]
+u_3(t) = 1+kt+ ((kt)^2)/2+ ((kt)^3)/(2*3) ,
+n
+[u_n(t), "<mi//>"=1+1+int_0^t ku_(n-1)(s)ds], [\ , "<mi//>"=1+int_0^t k(1+ks((kt)^2)/(2!) + ((kt)^3)/(3!) +cdots+ ((kt)^(n-1))/((n-1)!) )ds], [\ , "<mi//>"=1+kt+ ((kt)^2)/(2!) + ((kt)^3)/(3!) +cdots+ ((kt)^n)/(n!) .]
+n
+u(t) = e^(kt),
+x' = f(t, x)
+x(t_0) = x_0.
+f
+del f//del x
+R = {(t, x):0 <= |t-t_0| < a, 0 <= |x-x_0| < b},
+u = u(t)
+x' = f(t, x)
+x(t_0) = x_0
+|t-t_0| < h
+|t-t_0| < a.
+u = u(t)
+[x', "<mi//>"=f(t,x)], [x(t_0), "<mi//>"=x_0,]
+u
+x(t) = x_0+int_(t_0)^t f(s, x(s))ds.
+y' = root(5)(y)
+y(0) = 0
+y(t) -= 0
+y(t) = 5y^(6//5)//6.
+y' = y^2+y^3,
+y(0) = 1
+y' = root(4)(y),
+y(1) = 0
+y' = root(4)(y),
+y(1) = 1
+x' = t/(x^2-4) ,
+x(0) = 2
+x' = t/(x^2-4) ,
+x(2) = 0
+y' = xsin y,
+y(0) = 0
+y' = 1/(t-1) y+2t,
+y(1) = 1
+y' = y^2+y^3,
+y(0) = 1,
+f(t, y) = y^2+y^3
+del f(t, y)//del y = 2y+3y^2
+(0, 1).
+y' = root(4)(y),
+y(1) = 0,
+f(t, y) = root(4)(y)
+(1, 0).
+y' = root(4)(y),
+y(1) = 1,
+f(t, y) = root(4)(y)
+del f(t, y)//del y = y^(-3//4)//4
+(1, 1).
+x' = t//(x^2-4),
+x(0) = 2,
+f(t, x) = t//(x^2-4)
+(0, 2).
+x' = t//(x^2-4),
+x(2) = 0,
+f(t, x) = t//(x^2-4)
+del f(t, x)//del x = -2tx//(x^2-4)^2
+(2, 0).
+y' = xsin y,
+y(0) = 0,
+f(x, y) = xsin y
+del f(x, y)//del y = xcos y
+(0, 0).
+y' = 1//(t-1)y+2t,
+y(1) = 1,
+f(t, y) = 1//(t-1)y+2t
+(1, 1).
+[y', "<mi//>"=1/((t-1)(y+1)) ], [y(0), "<mi//>"=1.]
+[y', "<mi//>"=3y^(2//3)], [y(0), "<mi//>"=0.]
+y(t) -= 0,
+y(t) = {[0,, t<=t_0], [(t-t_0)^3,, t>t_0]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+t_0
+y(t)
+t = t_0.
+[y', "<mi//>"=2ty+t], [y(0), "<mi//>"=1.]
+y' = 2ty+t
+varphi_0(t) = 1
+varphi_n(t).
+{varphi_n(t)}
+n -> oo.
+u = u(t)
+[x', "<mi//>"=f(t,x)], [x(t_0), "<mi//>"=x_0,]
+u
+x(t) = x_0+int_(t_0)^t f(s, x(s))ds.
+del f//del x
+R = {(t, x):0 <= |t-t_0| < a, 0 <= |x-x_0| < b},
+K > 0
+|f(t, x_1)-f(t, x_2)| <= K|x_1-x_2|
+(t, x_1)
+(t, x_2)
+R.
+{u_n}
+[u_0(t), "<mi//>"=x_0,], [u_(n+1), "<mi//>"=x_0+int_(t_0)^t f(s,u_n(s))ds,\ n=1,2,....]
+|f(t, u_n(t))-f(t, u_(n-1)(t))| <= K|u_n(t)-u_(n-1)(t)|.
+M > 0
+|u_1(t)-x_0| <= M|t-t_0|.
+|u_2(t)-u_1(t)| <= (KM|t-t_0|^2)/2.
+|u_n(t)-u_(n-1)(t)| <= (K^(n-1)M|t-t_0|^n)/(n!) .
+u_n(t) = u_1(t)+[u_2(t)-u_1(t)]+cdots+[u_n(t)-u_(n-1)(t)],
+u_n(t)
+u_0(t)+sum_(n=1)^ oo[u_n(t)-u_(n-1)(t)].
+u(t).
+sum_(n=1)^ oo|u_n(t)-u_(n-1)(t)| <= M/K sum_(n=1)^ oo((K|t-t_0|)^n)/(n!) <= M/K(e^(K|h|)-1),
+h
+(t_0, x_0)
+R.
+|u_n(t)-u_(n-1)(t)| -> 0,
+u_n(t)
+u(t)
+u(t)
+v(t)
+x(t) = x_0+int_(t_0)^t f(s, x(s))ds.
+|u(t)-v(t)| <= K int_(t_0)^t|u(s)-v(s)|ds.
+t <= t_0.
+varphi(t) = int_(t_0)^t|u(s)-v(s)|ds,
+varphi(t_0) = 0
+varphi(t) >= 0
+t >= t_0.
+varphi'(t) = |u(t)-v(t)|.
+|u(t)-v(t)|-K int_(t_0)^t|u(s)-v(s)|ds <= 0,
+varphi'(t)-K varphi(t) <= 0.
+d/dt[e^(-Kt) varphi(t)] <= 0.
+varphi(t) = int_(t_0)^t|u(s)-v(s)|ds = 0
+t >= t_0
+t >= t_0
+u(t) = v(t).
+varphi_n(x) = x^n
+0 <= x <= 1
+lim_(n->oo) varphi_n(x) = {[0,, 0<=x<1], [1,, x=1.]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+bb x(t) = e^(tA)bb x_0
+[bb x', "<mi//>"=Abb x], [bb x(0), "<mi//>"=bb x_0,]
+e^(tA)
+lambda
+n xx n
+bb v
+lambda,
+e^(tA)bb v = e^(lambda t)bb v.
+n xx n
+A
+B.
+[bb x', "<mi//>"=Abb x], [bb x(0), "<mi//>"=bb x_0.]
+[x', "<mi//>"=-17x-46y-7z], [y', "<mi//>"=8x+21y+3z], [z', "<mi//>"=-7x-15y-z]
+A = ([-17, -46, -7], [8, 21, 3], [-7, -15, -1]).
+A
+p(lambda) = det(A-lambda I) = lambda^3-3 lambda^2+3 lambda-1 = (lambda-1)^3
+lambda = 1.
+(1, -1, 4).
+bb x(t) = ce^(-t)([1], [-1], [4])
+(1, -1, 4).
+[bb x', "<mi//>"=Abb x], [bb x(0), "<mi//>"=bb x_0,]
+A
+n xx n
+[x', "<mi//>"=kx], [x(0), "<mi//>"=x_0]
+x(t) = x_0 e^(kt),
+[bb x', "<mi//>"=Abb x], [bb x(0), "<mi//>"=bb x_0]
+bb x(t) = e^(tA)bb x_0
+e^(tA).
+A
+e^t.
+e^A = I+A+1/(2!) A^2+1/(3!) A^3+cdots = sum_(k=0)^ oo 1/(k!) A^k,
+A
+n xx n
+A^0 = I
+n xx n
+S_N = sum_(k=0)^N 1/(k!) A^k
+e^A
+A.
+A = ([s, 0], [0, t]).
+[e^A, "<mi//>"=I+A+1/(2!) A^2+1/(3!) A^3+cdots], [\ , "<mi//>"=([1, 0], [0, 1])+([s, 0], [0, t])+1/(2!) ([s^2, 0], [0, t^2])+1/(3!) ([s^3, 0], [0, t^3])+cdots], [\ , "<mi//>"=([1+s+s^2//2!+s^3//3!+cdots, 0], [0, 1+t+t^2//2!+t^3//3!+cdots])], [\ , "<mi//>"=([e^s, 0], [0, e^t]).]
+A
+n xx n
+d/dt e^(tA) = Ae^(tA).
+e^(tA) = I+tA+ (t^2)/(2!) A^2+ (t^3)/(3!) A^3+cdots
+[d/(dt) e^(tA), "<mi//>"=d/(dt) (I+tA+ (t^2)/(2!) A^2+ (t^3)/(3!) A^3+cdots)], [\ , "<mi//>"=A+tA^2+ (t^2)/(2!) A^3+cdots], [\ , "<mi//>"=A(I+tA+ (t^2)/(2!) A^2+ (t^3)/(3!) +cdots)], [\ , "<mi//>"=Ae^(tA).]
+A
+n xx n
+bb x(t) = e^(tA)bb x_0
+[bb x', "<mi//>"=Abb x], [bb x(0), "<mi//>"=bb x_0]
+bb x(t) = e^(tA)bb x_0,
+bb x'(t) = d/dt(e^(tA)bb x_0) = d/dt(e^(tA))bb x_0 = Ae^(tA)bb x_0 = Abb x(t).
+A = ([4, 4], [-9, -8])
+lambda = -2.
+e^(tA),
+[e^(tA), "<mi//>"=I+tA+ (t^2)/(2!) A^2+ (t^3)/(3!) A^3+cdots], [\ , "<mi//>"=([1, 0], [0, 1])+t([4, 4], [-9, -8])+ (t^2)/(2!) ([4, 4], [-9, -8])^2+ (t^3)/(3!) ([4, 4], [-9, -8])^3+cdots], [\ , "<mi//>"=([1, 0], [0, 1])+t([4, 4], [-9, -8])+ (t^2)/(2!) ([-20, -16], [-36, 28])+ (t^3)/(3!) ([64, 48], [-108, -80])+cdots], [\ , "<mi//>"=([1+t-20t^2//2!+64t^3//3!+cdots, 4t-16t^2//2!+48t^3//3!+cdots], [-9t-36t^2//2!-108t^3//3!+cdots, 1-8t+28t^2//2!-80t^3//3!+cdots]).]
+lambda
+n xx n
+A.
+bb v
+lambda,
+e^(tA)bb v = e^(lambda t)bb v.
+bb v
+lambda,
+Abb v = lambda bb v.
+A^n
+lambda^n
+bb v.
+A^n bb v = A(A^(n-1)bb v) = A(lambda^(n-1)bb v) = lambda^(n-1)Abb v = lambda^n bb v.
+[e^(tA)bb v, "<mi//>"=(I+tA+ (t^2)/(2!) A^2+ (t^3)/(3!) A^3+cdots)bb v], [\ , "<mi//>"=bb v+tAbb v+ (t^2)/(2!) A^2 bb v+ (t^3)/(3!) A^3 bb v+cdots], [\ , "<mi//>"=bb v+t lambda bb v+ (t^2)/(2!) lambda^2 bb v+ (t^3)/(3!) lambda^3 bb v+cdots], [\ , "<mi//>"=(I+t lambda+ (t^2)/(2!) lambda^2+ (t^3)/(3!) lambda^3+cdots)bb v], [\ , "<mi//>"=e^(lambda t)bb v.]
+e^x
+A
+B
+n xx n
+Ae^A = e^A A;
+AB = BA,
+e^A e^B = e^(A+B);
+e^A
+e^(-A).
+[Ae^A, "<mi//>"=A(I+A+1/(2!) A^2+1/(3!) A^3+cdots)], [\ , "<mi//>"=A+A^2+1/(2!) A^3+1/(3!) A^4+cdots], [\ , "<mi//>"=(I+A+1/(2!) A^2+1/(3!) A^3+cdots)A], [\ , "<mi//>"=e^A A.]
+(A+B)^n = sum_(k=0)^n([n], [k])A^k B^(n-k),
+([n], [k]) = (n!)/(k!(n-k)!) ,
+AB = BA.
+[e^(A+B), "<mi//>"=sum_(n=0)^ oo 1/(n!) (A+B)^n], [\ , "<mi//>"=sum_(n=0)^ oo 1/(n!) (sum_(k=0)^n([n], [k])A^k B^(n-k))], [\ , "<mi//>"=sum_(n=0)^ oo(sum_(k=0)^n 1/(k!(n-k)!) A^k B^(n-k))], [\ , "<mi//>"=(sum_(n=0)^ oo 1/(n!) A^n)(sum_(n=0)^ oo 1/(n!) B^n)], [\ , "<mi//>"=e^A e^B.]
+A
+-A
+e^(tA)
+A = ([4, 4], [-9, -8]).
+A = lambda I+(A-lambda I).
+I
+e^(tA) = e^(t(lambda I+(A-lambda I))) = e^(t lambda I)e^(t(A-lambda I)).
+e^(lambda tI) = e^(lambda t)I
+e^(tA) = e^(t(lambda I+(A-lambda I))) = e^(t lambda I)e^(t(A-lambda I)) = e^(lambda t)e^(t(A-lambda I)).
+A
+lambda = -2.
+A-lambda I = A+2I = ([6, 4], [-9, -6]),
+(A-lambda I)^2
+[e^(tA), "<mi//>"=e^(lambda t)e^(t(A-lambda I))], [\ , "<mi//>"=e^(lambda t)(I+t(A-lambda I)+ (t^2)/(2!) (A-lambda I)^2+ (t^2)/(3!) (A-lambda I)^3+cdots)], [\ , "<mi//>"=e^(-2t)(I+t(A+2I)+ (t^2)/(2!) (A+2I)^2+ (t^2)/(3!) (A+2I)^3+cdots)], [\ , "<mi//>"=e^(-2t)(I+t(A+2I))], [\ , "<mi//>"=e^(-2t)([1+6t, 4t], [-9t, -6t]).]
+A
+n xx n
+lambda,
+k < n
+e^(tA) = e^(lambda t)(I+t(A-lambda I)+ (t^2)/(2!) (A-lambda I)^2+cdots+ (t^k)/(k!) (A-lambda I)^k).
+bb x' = Abb x,
+A = ([-17, -46, -7], [8, 21, 3], [-7, -15, -1]).
+lambda = 1.
+A-lambda I = A-I
+[(A+I), "<mi//>"=([-18, -46, -7], [8, 20, 3], [-7, -15, -2])], [(A+I)^2, "<mi//>"=([5, 13, 2], [-5, -13, -2], [20, 52, 8]).]
+[e^(tA), "<mi//>"=e^t(I+t(A+I)+ (t^2)/(2!) (A+I)^2)], [\ , "<mi//>"=e^t([1-18t+5t^2//2, -46t+13t^2//2, -7t+t^2], [8t-5t^2//2, 1+20t-13t^2//2, 3t-t^2], [-7t+10t^2, -15t+26t^2, 1-2t+4t^2]).]
+bb x' = Abb x,
+e^(tA)bb v
+bb e_1 = ([1], [0], [0]), bb e_2 = ([0], [1], [0]), bb e_3 = ([0], [0], [1]).
+[bb x(t), "<mi//>"=c_1 e^(-t)([1-18t+5t^2//2], [8t-5t^2//2], [-7t+10t^2])+c_2 e^(-t)([-46t+13t^2//2], [1+20t-13t^2//2], [-15t+26t^2])], [\ , "<mi//>"+c_3 e^(-t)([-7t+t^2], [3t-t^2], [1-2t+4t^2]).]
+bb x' = Abb x,
+A = ([7, -1, 2], [18, -2, 6], [-9, 2, -1]).
+A
+det(A-lambda I) = lambda^3-4 lambda^2+5 lambda-2 = (lambda-1)^2(lambda-2).
+lambda_1 = 1
+bb v_1 = (2, 6, -3)
+lambda_2 = 2
+bb v_2 = (1, 3, -1).
+bb x_1(t) = e^t([2], [6], [-3])\ and\ bb x_2(t) = e^(2t)([1], [3], [-1]).
+lambda_1 = 1
+[e^(tA)bb v, "<mi//>"=e^(lambda_1 t)e^(t(A-lambda_1 I))bb v], [\ , "<mi//>"=e^(lambda_1 t)(bb v+t(A-lambda_1 I)bb v+ (t^2)/(2!) (A-lambda_1 I)^2 bb v+ (t^2)/(3!) (A-lambda_1 I)^3 bb v+cdots)]
+bb v, bb v_1
+bb v_2
+bb v
+bb v
+(A-lambda_1 I)^k bb v = (A-I)^k bb v = '\\y01d7ce'.
+k = 1,
+(A-lambda_1 I)bb v = (A-I)bb v = '\\y01d7ce',
+bb v
+bb v
+bb v_1 = (2, 6, -3)
+bb v_1,
+(A-lambda I) = (A-I) = ([6, -1, 2], [18, -3, 6], [-9, 2, -2]),
+(A-lambda I)^2 = (A-I)^2 = ([0, 1, 2], [0, 3, 6], [0, -1, -2]).
+bb v_1 = (2, 6, -3)
+(A-I)^2,
+A-I.
+bb v_1
+(A-I)^2.
+bb v = (0, 2, -1)
+[bb x_3(t), "<mi//>"=e^(tA)bb v], [\ , "<mi//>"=e^(lambda_1 t)e^(t(A-lambda_1 I))bb v], [\ , "<mi//>"=e^(lambda_1 t)(bb v+t(A-lambda_1 I)bb v)], [\ , "<mi//>"=e^(lambda_1 t)[([0], [2], [-1])+t(A-I)([0], [2], [-1])]], [\ , "<mi//>"=e^t([-4t], [2-12t], [-1+6t])]
+bb x(t) = c_1 e^t([2], [6], [-3])+c_2 e^(2t)([1], [3], [-1])+c_3 e^t([-4t], [2-12t], [-1+6t]).
+lambda
+A
+(A-lambda I)^p bb v = '\\y01d7ce'
+p >= 1,
+bb v
+A.
+(A-lambda I)^p
+p > 1.
+lambda
+A
+q.
+p <= q
+(A-lambda I)^p
+q.
+q
+lambda
+q.
+p
+(A-lambda I)^p
+q.
+{bb v_1, ..., bb v_q}
+(A-lambda I)^p.
+bb v_j
+j = 1, 2, ..., q
+[bb x_j(t), "<mi//>"=e^(tA)bb v_j], [\ , "<mi//>"=e^(lambda t)(bb v_j+t(A-lambda I)bb v_j+cdots+ (t^(p-1))/((p-1)!) (A-lambda I)^(p-1)bb v_j.).]
+lambda = alpha+i beta
+bb z = bb x+ibb y,
+bb x = "Re"bb z
+bb y = "Im"bb z.
+dbb x//dt = Abb x,
+A = ([-12, 26, -1], [-8, 17, 0], [3, -5, 4])
+lambda
+A
+bb v
+lambda.
+A-lambda I, (A-lambda I)^2, ....
+e^(tA)
+dbb x//dt = Abb x.
+A
+n xx n
+A
+e^A = I+A+1/(2!) A^2+1/(3!) A^3+cdots = sum_(k=0)^ oo 1/(k!) A^k.
+A
+n xx n
+d/dt e^(tA) = Ae^(tA).
+A
+n xx n
+bb x(t) = e^(tA)bb x_0
+[bb x', "<mi//>"=Abb x], [bb x(0), "<mi//>"=bb x_0]
+lambda
+n xx n
+bb v
+lambda,
+e^(tA)bb v = e^(lambda t)bb v.
+A
+B
+n xx n
+Ae^A = e^A A;
+AB = BA,
+e^A e^B = e^(A+B);
+e^A
+e^(-A).
+A
+n xx n
+lambda,
+k < n
+e^(tA) = e^(lambda t)(I+t(A-lambda I)+ (t^2)/(2!) (A-lambda I)^2+cdots+ (t^k)/(k!) (A-lambda I)^k).
+lambda
+A
+q.
+p <= q
+(A-lambda I)^p
+q.
+q
+lambda
+q
+p
+(A-lambda I)^p
+q.
+{bb v_1, ..., bb v_q}
+(A-lambda I)^p.
+bb v_j
+j = 1, 2, ..., q
+[bb x_j(t), "<mi//>"=e^(tA)bb v_j], [\ , "<mi//>"=e^(lambda t)(bb v_j+t(A-lambda I)bb v_j+cdots+ (t^(p-1))/((p-1)!) (A-lambda I)^(p-1)bb v_j.).]
+lambda = alpha+i beta
+bb z,
+bb x = "Re"bb z
+bb y = "Im"bb z.
+A?
+A
+dbb x//dt = Abb x
+A.
+A.
+A-lambda I, (A-lambda I)^2, ....
+e^(tA)
+dbb x//dt = Abb x.
+A = ([3, 1], [-4, -1])
+A = ([-1, 1], [-4, -5])
+A = ([7, 1], [-4, 3])
+A = ([-2, 1], [-4, -6])
+A = ([-5, 3, -2], [-10, 6, -3], [2, -1, 2])
+A = ([-8, 3, -2], [-10, 3, -3], [2, -1, -1])
+A = ([-3, 3, -2], [-10, 8, -3], [2, 4, 4])
+A = ([-10, 3, -2], [-10, 1, -3], [2, -1, -3])
+[x', "<mi//>"=3x+y], [y', "<mi//>"=-4x-y], [x(0), "<mi//>"=-1], [y(0), "<mi//>"=1]
+[x', "<mi//>"=-x+y], [y', "<mi//>"=-4x-5y], [x(0), "<mi//>"=2], [y(0), "<mi//>"=-1]
+[x', "<mi//>"=7x+y], [y', "<mi//>"=-4x+3y], [x(0), "<mi//>"=1], [y(0), "<mi//>"=1]
+[x', "<mi//>"=-2x+y], [y', "<mi//>"=-4x-6y], [x(0), "<mi//>"=1], [y(0), "<mi//>"=2]
+[x', "<mi//>"=-5x+3y-2z], [y', "<mi//>"=-10x+6y-3z], [z', "<mi//>"=2x-y+2z], [x(0), "<mi//>"=-1], [y(0), "<mi//>"=-2], [z(0), "<mi//>"=-3]
+[x', "<mi//>"=-8x+3y-2z], [y', "<mi//>"=-10x+3y-3z], [z', "<mi//>"=2x-y-z], [x(0), "<mi//>"=-2], [y(0), "<mi//>"=2], [z(0), "<mi//>"=0]
+[x', "<mi//>"=-3x+3y-2z], [y', "<mi//>"=-10x+8y-3z], [z', "<mi//>"=2x+4y+4z], [x(0), "<mi//>"=1], [y(0), "<mi//>"=1], [z(0), "<mi//>"=3]
+[x', "<mi//>"=-10x+3y-2z], [y', "<mi//>"=-10x+y-3z], [z', "<mi//>"=2x-y-3z], [x(0), "<mi//>"=-1], [y(0), "<mi//>"=0], [z(0), "<mi//>"=2]
+A = ([0, 1], [0, 0])\ and\ B = ([0, 0], [-1, 0]).
+e^(At)e^(Bt) != e^((A+B)t).
+["(3.9.1)", (dbb x)/dt=Abb x(t)+bb f(t),\ bb x(t_0)=bb c,]
+A
+[ (dx_1)/dt, "<mi//>"=x_2], [ (dx_2)/dt, "<mi//>"=8x_1-2x_2+e^t], [x_1(0), "<mi//>"=1], [x_2(0), "<mi//>"=-4]
+dbb x//dt = Abb x(t)+bb f(t),
+bb x(t_0) = bb c,
+A = ([0, 1], [8, -2]), \ bb f(t) = ([0], [e^t]), \ bb c = ([1], [-4]).
+bb x(t) = e^(A(t-t_0))bb c+e^(At) int_(t_0)^t e^(-As)bb f(s)ds
+[ (dx_1)/dt, "<mi//>"=x_2], [ (dx_2)/dt, "<mi//>"=8x_1-2x_2+e^t], [x_1(0), "<mi//>"=1], [x_2(0), "<mi//>"=-4.]
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+dx/dt = f(t, x),
+x(t_0) = x_0,
+P(t)
+t.
+Delta P
+Delta t
+Delta P ~~ k_("birth")P(t) Delta t-k_("death")P(t) Delta t,
+k_("birth")
+k_("death")
+(Delta P)/(Delta t) ~~ kP(t),
+k = k_("birth")-k_("death").
+P
+(dP)/dt = lim_(Delta t->0) (Delta P)/(Delta t) ,
+["(1.1.1)", (dP)/(dt) =kP.]
+(dP)/dt = kP
+P(t) = Ce^(kt)
+C
+P(t),
+d/dt P(t) = kCe^(kt) = kP(t).
+P(t),
+t = 0,
+C.
+t = 0
+P(0) = P_0,
+P_0 = P(0) = Ce^(k*0) = C
+P(t) = P_0 e^(kt).
+[P'(t), "<mi//>"=kP(t),], [P(0), "<mi//>"=P_0]
+P(0) = P_0
+P(t) = Ce^(kt),
+P(t)
+t,
+t = 0,
+1000 = P(0) = Ce^0 = C,
+P(t) = 1000e^(kt).
+1030 = P(1) = 1000e^k,
+k = ln 1.03 ~~ 0.0296
+P(t) = 1000e^(0.0296t).
+t
+t
+dP//dt = kP
+x(t) = Ce^(kt)
+x' = kx,
+x(t) = x_0 e^(kt)
+x(t) = Ce^(kt)
+dx//dt = f(t, x),
+x(t)
+x'(t) = f(t, x(t)).
+x(t)
+x(0) = x_0,
+x(t)
+[x'(t), "<mi//>"=f(t,x),], [x(0), "<mi//>"=x_0.]
+x(t)
+y(t) = 4e^(-5t);
+y' = -5y
+x(t) = 3e^(2t);
+x' = 2x
+x(t) = 3e^(7t);
+x'-7x = 0,
+x(0) = 3
+x(t) = Ce^(2t)-5//2;
+x' = 2x+5
+x(t) = 7/3 e^(3t^2//2)-1/3;
+x' = 3tx+t,
+x(0) = 2
+(dP)/dt ~~ kP.
+N
+N
+(dP)/dt < 0
+P > N.
+N
+(dP)/dt = kf(P)P,
+f(P)
+P
+N.
+f(P) = (1-P/N).
+(dP)/dt = k(1-P/N)P.
+t,
+[ (dP)/(dt) , "<mi//>"=k(1-P/1000)P], [P(0), "<mi//>"=100.]
+P(t) = 1000//(9e^(-kt)+1)
+P(0) = 100,
+P,
+[ (dP)/(dt) , "<mi//>"=d/(dt) (1000/(9e^(-kt)+1) )], [\ , "<mi//>"=1000k(9e^(-kt))/((9e^(-kt)+1)^2) ], [\ , "<mi//>"=k(9e^(-kt))/((9e^(-kt)+1)) *1000/(9e^(-kt)+1) ], [\ , "<mi//>"=k((9e^(-kt)+1)-1)/((9e^(-kt)+1)) *1000/(9e^(-kt)+1) ], [\ , "<mi//>"=k(1-1000/(1000(9e^(-kt)+1)) ) 1000/(9e^(-kt)+1) ], [\ , "<mi//>"=k(1-P/1000)P.]
+200 = P(1) = 1000/(9e^(-k)+1) ,
+k = ln(9/4) ~~ 0.8109.
+P(t) = 1000/(9e^(-0.8109t)+1) .
+100,000
+3000.
+1000
+20,000
+P(t)
+P
+dP//dt
+P?
+dP//dt > 0
+1000 < P < 20000.
+P
+dP//dt
+P?
+P
+dP//dt
+P?
+t.
+x.
+x > 0,
+x < 0,
+x = 0,
+F(x).
+F
+[F(x), "<mi//>"=F(0)+F'(0)x+1/2 F''(0)x^2+cdots], [\ , "<mi//>"=-kx+1/2 F''(0)x^2+cdots,]
+F'(0) = -k
+F(0) = 0.
+x^n
+n >= 2,
+F = -kx.
+m
+F = ma = m(d^2 x)/(dt^2) = mx'',
+a
+mx'' = -kx,
+m = 1
+k = 1.
+[x''+x, "<mi//>"=0], [x(0), "<mi//>"=0], [x'(0), "<mi//>"=1.]
+x''(t) = -x(t)
+x(t) = Acos t+Bsin t.
+x'(t) = -Asin t+Bcos t,
+A = 0
+B = 1
+x(t) = sin t.
+x'(t).
+F = -bx'
+b > 0.
+mx'' = -bx'-kx.
+mx''+bx'+kx = 0,
+m,
+b,
+k
+mx''+bx'+kx = 0
+x''+3x'+2x = 0.
+m = 1,
+b = 3,
+k = 2,
+mx''+bx'+kx = 0
+x(t) = e^(rt)
+[x''+3x'+2x, "<mi//>"=r^2 e^(rt)+3re^(rt)+2e^(rt)], [\ , "<mi//>"=e^(rt)(r^2+3r+2)], [\ , "<mi//>"=e^(rt)(r+2)(r+1)], [\ , "<mi//>"=0.]
+e^(rt)
+r = -2
+r = -1,
+x(t) = e^(rt)
+x(t) = Ae^(-t)+Be^(-2t)
+[x''+3x'+2x, "<mi//>"=0], [x(0), "<mi//>"=0], [x'(0), "<mi//>"=1.]
+x'(t) = -Ae^(-t)-2Be^(-2t),
+[A+B, "<mi//>"=0], [-A-2B, "<mi//>"=1.]
+A = 1
+B = -1,
+x(t) = e^(-t)-e^(-2t).
+[x''+2x'+50x, "<mi//>"=0], [x(0), "<mi//>"=0], [x'(0), "<mi//>"=1.]
+x(t) = 1/7 e^(-t)sin 7t
+H(t)
+L(t),
+t
+(dH)/dt = aH.
+(dH)/dt = aH-bHL.
+HL
+(dL)/dt = -cL.
+(dL)/dt = -cL+dHL.
+[ (dH)/(dt) , "<mi//>"=aH-bHL,], [ (dL)/(dt) , "<mi//>"=-cL+dHL.]
+[ (dH)/(dt) , "<mi//>"=0.4H-0.01HL,], [ (dL)/(dt) , "<mi//>"=-0.3L+0.005HL.]
+L,
+H
+V = V(t)
+t.
+(dV)/dt = P-cV.
+P
+t
+-cV
+P
+(dV)/dt = -cV,
+V(t) = V_0 e^(-ct),
+V_0
+T = T(t)
+(dT)/dt = s+pT(1-T/(T_(max)) )-d_T T.
+s
+p
+T_(max)
+d_T
+T^**
+[ (dT^** )/(dt) , "<mi//>"=kTV-delta T^** ], [ (dV)/(dt) , "<mi//>"=N delta T^** -cV,]
+delta
+N
+kTV
+[ (dT)/(dt) , "<mi//>"=s+pT(1-T/(T_(max)) )-d_T T-kTV], [ (dT^** )/(dt) , "<mi//>"=kTV-delta T^** ], [ (dV)/(dt) , "<mi//>"=N delta T^** -cV.]
+k = 0
+[ (dT)/(dt) , "<mi//>"=s+pT(1-T/(T_(max)) )-d_T T], [ (dT^** )/(dt) , "<mi//>"=-delta T^** ], [ (dV)/(dt) , "<mi//>"=N delta T^** -cV.]
+1-eta,
+kVT
+[ (dT)/(dt) , "<mi//>"=s+pT(1-T/(T_(max)) )-d_T T-k(1-eta)TV], [ (dT^** )/(dt) , "<mi//>"=k(1-eta)TV-delta T^** ], [ (dV)/(dt) , "<mi//>"=N delta T^** -cV.]
+eta = 1,
+eta = 0,
+dx/dt = f(t, x),
+x(t_0) = x_0,
+P' = kP
+(dP)/dt = k(1-P/N)P,
+N
+T(t),
+t.
+t
+T(t)
+y(t)
+y(t) = e^(4t);
+y' = 4y
+y(t) = 3e^(-2t);
+y' = -2y
+y(t) = 3e^(5t);
+y'-5y = 0
+y(t) = e^(3t)-2;
+y' = 3y+6
+y(t) = -7e^(t^2)-1/2;
+y' = 2ty+t
+y(t) = (t^8-t^4)^(1//4);
+y' = (2y^4+t^4)/(ty^3)
+y(t) = t;
+y''-ty'+y = 0
+y(t) = e^t+e^(2t);
+y''-4y'+4y = e^t
+y(t) = e^(at),
+a
+y(t) = e^(3t)
+y' = 3y.
+a
+y(t) = e^(at)
+y' = -2y
+y'+7y = 0
+y''-3y'+2y = 0
+y''+4y'-12y = 0
+y'''-y''-4y'+4y = 0
+y^((5))-5y'''+4y' = 0
+y(t)
+C
+c_1
+c_2.
+y' = 4y,
+y(0) = 2,
+y(t) = Ce^(4t)
+y'+7y = 0,
+y(0) = 2,
+y(t) = Ce^(-7t)
+y''+4y = 0,
+y(0) = 1,
+y'(0) = 0,
+y(t) = c_1 cos 2t+c_2 sin 2t
+y''-5y'+4y = 0,
+y(0) = 1,
+y'(0) = 0,
+y(t) = c_1 e^t+c_2 e^(4t)
+y''+4y'+13y = 0,
+y(0) = 1,
+y'(0) = 0,
+y(t) = c_1 e^(-2t)cos 3t+c_2 e^(-2t)sin 3t
+y''-4y'+4y = 0,
+y(0) = 1,
+y'(0) = 0,
+y(t) = c_1 e^(2t)+c_2 te^(2t)
+y(t)
+c_1
+c_2
+y''+4y = 0,
+y(0) = 1,
+y(pi) = 0,
+y(t) = c_1 cos 2t+c_2 sin 2t
+y''-5y'+4y = 0,
+y(0) = 1,
+y(1) = 0,
+y(t) = c_1 e^t+c_2 e^(4t)
+y''+4y'+13y = 0,
+y(0) = 1,
+y(pi) = 0,
+y(t) = c_1 e^(-2t)cos 3t+c_2 e^(-2t)sin 3t
+y''-4y'+4y = 0,
+y(0) = 1,
+y(1) = 0,
+y(t) = c_1 e^(2t)+c_2 te^(2t)
+y' = y(2-y).
+y(t) = 2//(1+Ce^(-2t))
+C = 1, 2, ..., 5.
+y = 0
+C
+y(t) = 2/(1+Ce^(-2t)) = 0?
+y''+9y = 0.
+y(t) = c_1 cos 3t+c_2 sin 3t
+c_1 = 1
+c_2 = 1, 2, ..., 5.
+dP//dt = kP.
+alpha.
+alpha.
+x'+ax = q(t),
+a
+q(t)
+I,
+x(t) = Ce^(-at)+e^(-at) int_(t_0)^t e^(as)q(s)ds
+c
+t_0 in I.
+x'+ax-q(t) = 0
+x'(t) = -aCe^(-at)-ae^(-at) int_(t_0)^t e^(as)q(s)ds+b(t),
+[x'(t)+ax(t)-q(t), "<mi//>"=-aCe^(-at)-ae^(-at) int_(t_0)^t e^(as)q(s)ds+q(t)], [\ , "<mi//>"+aCe^(-at)+ae^(-at) int_(t_0)^t e^(as)q(s)ds-q(t)], [\ , "<mi//>"=0.]
+A(t)
+t.
+A(t).
+[dx/dt, "<mi//>"=-x/2+ (xy)/(2+y) ,], [dy/dt, "<mi//>"=y(1-y)- (xy)/(2+y) .]
+f(x) = x^2 cos x.
+f(x) = x^2 cos x
+[ (dP)/(dt) , "<mi//>"=kP], [P(0), "<mi//>"=1000.]
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+T
+bb y' = (T^(-1)AT)bb y
+bb x' = Abb x,
+T
+bb x' = Abb x
+bb y' = (T^(-1)AT)bb y.
+bb x' = Abb x
+([lambda, 0], [0, mu]), ([alpha, beta], [-beta, alpha]), ([lambda, 0], [0, lambda]), ([lambda, 1], [0, lambda]).
+([dx//dt], [dy//dt]) = ([a, b], [c, d])([x], [y]) = A([x], [y])
+A.
+A,
+["(3.6.1)", ([lambda, 0], [0, mu]),([alpha, beta], [-beta, alpha]),([lambda, 0], [0, lambda]),([lambda, 1], [0, lambda]).]
+bb x' = Abb x,
+2 xx 2
+RR^2
+T:RR^2 -> RR^2
+T([x], [y]) = ([a, b], [c, d])([x], [y]).
+T:RR^2 -> RR^2
+([a, b], [c, d])
+T:RR^2 -> RR^2
+S
+T@S = S@T = I,
+I
+S
+TS = ST = I,
+I = ([1, 0], [0, 1])
+2 xx 2
+T^(-1)
+T.
+T = ([a, b], [c, d])
+T^(-1) = 1/(det T) ([d, -b], [-c, a]).
+T
+det T != 0.
+det T = 0,
+bb x
+Tbb x = '\\y01d7ce'.
+T^(-1)
+bb x != '\\y01d7ce'
+Tbb x = '\\y01d7ce'.
+bb x = T^(-1)Tbb x = T^(-1)'\\y01d7ce' = '\\y01d7ce',
+T^(-1),
+2 xx 2
+bb e_1 = (1, 0)
+bb e_2 = (0, 1)
+RR^2.
+bb z = (-5, -4),
+bb z = -5bb e_1-4bb e_2.
+bb z
+{bb e_1, bb e_2}
+(-5, -4).
+bb v_1 = (2, 1)
+bb v_2 = (3, 2).
+det([2, 3], [1, 2]) != 0,
+RR^2.
+bb z = (-5, -4),
+bb z = 2bb v_1-3bb v_2.
+bb z
+{bb v_1, bb v_2}
+(2, -3).
+[bb v_1, "<mi//>"=2bb e_1+bb e_2], [bb v_2, "<mi//>"=3bb e_1+2bb e_2.]
+[c_1 bb v_1+c_2 bb v_2, "<mi//>"=c_1(2bb e_1+bb e_2)+c_2(3bb e_1+2bb e_2)], [\ , "<mi//>"=(2c_1+3c_2)bb e_1+(c_2+2c_2)bb e_2.]
+c_1 bb v_1+c_2 bb v_2
+{bb e_1, bb e_2}
+([2c_1+3c_2], [c_2+2c_2]) = ([2, 3], [1, 2])([c_1], [c_2]).
+T = ([2, 3], [1, 2])\ and\ bb c = ([c_1], [c_2]),
+{bb e_1, bb e_2}
+bb d = Tc.
+{bb v_1, bb v_2}
+T.
+{bb v_1, bb v_2}
+bb z = d_1 bb e_1+d_2 bb e_2.
+bb d = Tc,
+T^(-1)
+bb c = T^(-1)bb d.
+T^(-1)bb d = ([2, -3], [-1, 2])([d_1], [d_2]).
+T^(-1)bb d = ([2, -3], [-1, 2])([-5], [-4]) = ([2], [-3]),
+bb z
+{bb v_1, bb v_2}.
+bb x' = Abb x
+["(3.6.2)", bb y'=(T^(-1)AT)bb y]
+T
+bb y(t)
+bb x(t) = Tbb y(t)
+bb x' = Abb x.
+[bb x'(t), "<mi//>"=(Tbb y)'(t)], [\ , "<mi//>"=Tbb y'(t)], [\ , "<mi//>"=T((T^(-1)AT)bb y(t))], [\ , "<mi//>"=A(Tbb y(t))], [\ , "<mi//>"=Abb x(t).]
+T
+bb y' = (T^(-1)AT)bb y
+bb x' = Abb x.
+T
+bb x' = Abb x
+bb y' = (T^(-1)AT)bb y.
+([x'], [y']) = ([a, b], [c, d]) = ([x], [y]).
+bb x' = Abb x,
+A
+lambda_1
+lambda_2
+bb v_1
+bb v_2,
+T
+bb v_1
+bb v_2.
+bb e_1 = (1, 0)
+bb e_2 = (0, 1),
+Tbb e_i = bb v_i
+i = 1, 2.
+T^(-1)bb v_i = bb e_i
+i = 1, 2.
+[(T^(-1)AT)bb e_i, "<mi//>"=T^(-1)Abb v_i], [\ , "<mi//>"=T^(-1)(lambda_i bb v_i)], [\ , "<mi//>"=lambda_i T^(-1)bb v_i], [\ , "<mi//>"=lambda_i bb e_i]
+i = 1, 2.
+T^(-1)AT
+T^(-1)AT = ([lambda_1, 0], [0, lambda_2]).
+T^(-1)AT
+lambda_1
+lambda_2
+(1, 0)
+(0, 1),
+bb y' = (T^(-1)AT)bb y
+bb y(t) = alpha e^(lambda_1 t)([1], [0])+beta e^(lambda_2 t)([0], [1]).
+bb x' = Abb x
+[Tbb y(t), "<mi//>"=T(alpha e^(lambda_1 t)([1], [0])+beta e^(lambda_2 t)([0], [1]))], [\ , "<mi//>"=alpha e^(lambda_1 t)T([1], [0])+beta e^(lambda_2 t)T([0], [1])], [\ , "<mi//>"=alpha e^(lambda_2 t)bb v_1+beta e^(lambda_2 t)bb v_2.]
+dbb x//dt = Abb x,
+A = ([1, 2], [4, 3]).
+A
+lambda_1 = 5
+lambda_2 = -1
+(1, 2)
+(1, -1),
+T
+([1, 1], [2, -1]).
+bb e_1 = (1, 0)
+bb e_2 = (0, 1),
+Tbb e_i = bb v_i
+i = 1, 2.
+T^(-1)bb v_i = bb e_i
+i = 1, 2,
+T^(-1) = ([1//3, 1//3], [2//3, -1//3]).
+T^(-1)AT = ([1//3, 1//3], [2//3, -1//3])([1, 2], [4, 3])([1, 1], [2, -1]) = ([5, 0], [0, -1]).
+([5, 0], [0, -1])
+lambda_1 = 5
+lambda_2 = -1
+(1, 0)
+(0, 1),
+bb y' = (T^(-1)AT)bb y
+bb y(t) = alpha e^(5t)([1], [0])+beta e^(-t)([0], [1]).
+bb x' = Abb x
+[Tbb y(t), "<mi//>"=([1, 1], [2, -1])(alpha e^(5t)([1], [0])+beta e^(-t)([0], [1]))], [\ , "<mi//>"=alpha e^(5t)([1], [2])+beta e^(-t)([1], [-1])]
+T
+bb y' = (T^(-1)AT)bb y
+bb x' = Abb x
+bb y' = (T^(-1)AT)bb y
+bb x' = Abb x
+dbb x//dt = Abb x,
+A = ([1, 3], [1, -1]).
+A.
+lambda
+mu.
+dbb x//dt = Abb x.
+2 xx 2
+T = (bb v_1, bb v_2)
+T^(-1).
+T^(-1)AT.
+([lambda, 0], [0, mu])
+bb e_1 = (1, 0)
+bb e_2 = (0, 1).
+bb y' = (T^(-1)AT)bb y
+bb y(t) = alpha e^(lambda t)([1], [0])+beta e^(mu t)([0], [1]).
+Tbb y
+dbb x//dt = Abb x
+2 xx 2
+A = ([a, b], [c, d])
+bb x' = Abb x
+p(lambda) = lambda^2-(a+d) lambda+(ad-bc)
+lambda = alpha+i beta
+bar lambda = alpha-i beta,
+[alpha, "<mi//>"= (a+d)/2], [beta, "<mi//>"= (sqrt(4bc-(a-d)^2))/2.]
+lambda
+bar lambda
+lambda = alpha+i beta
+bb v = bb v_1+ibb v_2,
+bb v_1
+bb v_2
+bar bb v = bb v_1-ibb v_2
+bar lambda,
+A bar bb v = bar(Abb v) = bar(lambda bb v) = bar lambda bar bb v.
+A
+lambda = alpha+i beta
+A
+beta != 0
+bb v_1+ibb v_2,
+bb v_1
+bb v_2
+bb v_1
+bb v_2
+bb v_1
+bb v_2
+bb v_1 = cbb v_2
+c in RR.
+A(bb v_1+ibb v_2) = A(cbb v_2+ibb v_2) = (c+i)Abb v_2.
+[A(bb v_1+ibb v_2), "<mi//>"=(alpha+i beta)(bb v_1+ibb v_2)], [\ , "<mi//>"=(alpha+i beta)(c+i)bb v_2], [\ , "<mi//>"=(c+i)(alpha+i beta)bb v_2]
+Abb v_2 = (alpha+i beta)bb v_2.
+bb v_1
+bb v_2
+A
+lambda = alpha+i beta,
+beta != 0.
+bb v_1+ibb v_2,
+lambda,
+T
+T^(-1)AT = ([alpha, beta], [-beta, alpha]).
+bb v_1+ibb v_2
+alpha+i beta,
+A(bb v_1+ibb v_2) = (alpha+i beta)(bb v_1+ibb v_2).
+[Abb v_1, "<mi//>"=alpha bb v_1-beta bb v_2], [Abb v_2, "<mi//>"=beta bb v_1+alpha bb v_2.]
+T
+bb v_1
+bb v_2,
+[Tbb e_1, "<mi//>"=bb v_1], [Tbb e_2, "<mi//>"=bb v_2.]
+(T^(-1)AT)bb e_1 = T^(-1)(alpha bb v_1-beta bb v_2) = alpha bb e_1-beta bb e_2.
+(T^(-1)AT)bb e_2 = beta bb e_1+alpha bb e_2.
+T^(-1)AT
+T^(-1)AT = ([alpha, beta], [-beta, alpha]).
+bb y' = (T^(-1)AT)bb y
+alpha < 0
+alpha = 0
+alpha > 0
+bb x' = Abb x
+2x''+2x'+x = 0.
+[x', "<mi//>"=y], [y', "<mi//>"=-1/2 x-y,]
+bb x' = Abb x,
+A = ([0, 1], [-1//2, -1]).
+A
+-1/2+-i 1/2.
+lambda = (1+i)//2
+bb v = ([2], [-1+i]) = ([2], [-1])+i([0], [1]),
+T
+T = ([2, 0], [-1, 1]).
+T^(-1)AT = ([1//2, 0], [1//2, 1])([0, 1], [-1//2, -1])([2, 0], [-1, 1]) = ([-1//2, 1//2], [-1//2, -1//2]),
+([alpha, beta], [-beta, alpha]).
+bb y' = (T^(-1)AT)bb y
+bb y(t) = c_1 e^(-t//2)([cos(t//2)], [-sin(t//2)])+c_2 e^(-t//2)([sin(t//2)], [cos(t//2)]).
+bb y' = (T^(-1)AT)bb y
+bb y' = (T^(-1)AT)bb y
+bb x' = Abb x
+[Tbb y(t), "<mi//>"=([2, 0], [-1, 1])[c_1 e^(-t//2)([cos(t//2)], [-sin(t//2)])+c_2 e^(-t//2)([sin(t//2)], [cos(t//2)])]], [\ , "<mi//>"=c_1 e^(-t//2)([2, 0], [-1, 1])([cos(t//2)], [-sin(t//2)])+c_2 e^(-t//2)([2, 0], [-1, 1])([sin(t//2)], [cos(t//2)])], [\ , "<mi//>"=c_1 e^(-t//2)([2cos(t//2)], [-cos(t//2)-sin(t//2)])+c_2 e^(-t//2)([2sin(t//2)], [-sin(t//2)+cos(t//2)]).]
+bb x' = Abb x
+bb x' = Abb x,
+A = ([0, 1], [-1//2, -1]).
+A
+lambda = (-1+i)//2
+bb v = (2, -1+i),
+[bb x(t), "<mi//>"=e^((-1+i)t//2)bb v, \ ], [\ , "<mi//>"=e^(-t//2)e^(it//2)([2], [-1+i])], [\ , "<mi//>"=e^(-t//2)(cos(t//2)+isin(t//2))([2], [-1+i])], [\ , "<mi//>"=e^(-t//2)([2cos(t//2)], [-cos(t//2)-sin(t//2)])+ie^(-t//2)([2sin(t//2)], [-sin(t//2)+cos(t//2)]).]
+bb x' = Abb x
+bb x(t) = c_1 e^(-t//2)([2cos(t//2)], [-cos(t//2)-sin(t//2)])+c_2 e^(-t//2)([2sin(t//2)], [-sin(t//2)+cos(t//2)]),
+A
+lambda.
+A
+p(lambda) = lambda^2-(a+d) lambda+(ad-bc),
+A
+lambda = (a+d)//2.
+A
+A
+A = ([lambda, 0], [0, lambda]).
+bb u
+bb v
+A,
+T
+bb u
+bb v.
+Tbb e_1 = bb u
+Tbb e_2 = bb v.
+bb u
+bb v
+det(T) != 0
+T
+AT = (Au, Abb v) = (lambda bb u, lambda bb v) = lambda(bb u, bb v) = lambda IT,
+A = ([lambda, 0], [0, lambda]).
+[x', "<mi//>"=lambda x], [y', "<mi//>"=lambda y]
+[x, "<mi//>"=c_1 e^(lambda t)], [y', "<mi//>"=c_2 e^(lambda t).]
+A
+lambda.
+bb v
+lambda
+lambda
+bb v,
+T
+T^(-1)AT = ([lambda, 1], [0, lambda]).
+bb w
+RR^2
+bb v
+bb w
+Abb w
+bb v
+bb w,
+Abb w = alpha bb v+beta bb w.
+alpha != 0;
+beta = lambda.
+[A(bb w+(alpha/(beta-lambda) )bb v), "<mi//>"=Abb w+(alpha/(beta-lambda) )Abb v], [\ , "<mi//>"=alpha bb v+beta bb w+lambda(alpha/(beta-lambda) )bb v], [\ , "<mi//>"=beta bb w+alpha(1+lambda/(beta-lambda) )bb v], [\ , "<mi//>"=beta bb w+alpha( (beta-lambda+lambda)/(beta-lambda) )bb v], [\ , "<mi//>"=beta(bb w+(alpha/(beta-lambda) )bb v)]
+beta
+lambda.
+Abb w = alpha bb v+lambda bb w.
+bb u = (1//alpha)bb w,
+Au = bb v+lambda/alpha bb w = bb v+lambda bb u.
+Tbb e_1 = bb v
+Tbb e_2 = bb u.
+[AT, "<mi//>"=Au+Abb v=bb v+lambda bb u+lambda bb v], [T([lambda, 1], [0, lambda]), "<mi//>"=T(lambda bb e_1)+Tbb e_1+T(lambda bb e_2)=bb v+lambda bb u+lambda bb v,]
+T^(-1)AT = ([lambda, 1], [0, lambda]).
+bb x' = Abb x
+bb x' = Abb x,
+A = ([5, 1], [-4, 1]).
+A
+lambda^2-6 lambda+9 = (lambda-3)^2,
+lambda = 3
+bb v = (1, -2).
+lambda
+bb v.
+bb w = (1, 0),
+bb v
+bb w
+Abb w = ([5], [-4]) = 2([1], [-2])+lambda([1], [0]) = 2([1], [-2])+3([1], [0]).
+bb u = (1//2)bb w = (1//2, 0).
+T = ([1, 1//2], [-2, 0]),
+T^(-1)AT = ([-1//2, 2], [1, 1])([5, 1], [-4, 1])([1, 1//2], [-2, 0]) = ([3, 1], [0, 3]).
+([dx//dt], [dy//dt]) = ([3, 1], [0, 3])([x], [y])
+bb y(t) = c_1 e^(3t)([1], [0])+c_2 e^(3t)([t], [1]).
+([dx//dt], [dy//dt]) = ([5, 1], [-4, 1])([x], [y])
+[bb x(t), "<mi//>"=Tbb y(t)], [\ , "<mi//>"=c_1 e^(3t)T([1], [0])+c_2 e^(3t)T([t], [1])], [\ , "<mi//>"=c_1 e^(3t)([1], [-2])+c_2 e^(3t)([1//2+t], [-2t]).]
+T
+det T != 0.
+T
+bb y' = (T^(-1)AT)bb y
+bb x' = Abb x.
+T
+bb x' = Abb x
+bb y' = (T^(-1)AT)bb y.
+bb x' = Abb x
+([lambda, 0], [0, mu]), ([alpha, beta], [-beta, alpha]), ([lambda, 0], [0, lambda]), ([lambda, 1], [0, lambda]).
+2 xx 2
+A
+lambda_1
+lambda_2;
+lambda_1
+lambda_2,
+bb v_1
+bb v_2,
+T = (bb v_1, bb v_2)
+T^(-1)AT.
+A = ([7, 3], [-4, 0])
+A = ([-3, -10], [3, 8])
+A = ([18, 11], [-22, -15])
+A = ([-14, -12], [18, 16])
+A = ([35//3, 22], [-22//3, -14])
+A = ([31//2, 85//6], [-17, -47//3])
+A
+lambda;
+bb v = bb v_("Re")+ibb v_("Im")
+lambda;
+T = (bb v_("Re"), bb v_("Im"))
+T^(-1)AT.
+lambda.
+A = ([5, 2], [-5, -1])
+A = ([13, 4], [-26, -7])
+A = ([-2, -2], [25, 12])
+A = ([-23//3, -5], [13, 25//3])
+A = ([2, 2], [-4, 6])
+A = ([-9, 26], [-4, 11])
+A
+lambda
+bb v
+lambda;
+bb w
+bb v
+(A-lambda I)bb w.
+(A-lambda I)bb w = alpha bb v
+alpha.
+bb u = (1//alpha)bb w
+T = (bb v, bb u).
+T^(-1)AT,
+([lambda, 1], [0, lambda]).
+A = ([7, 4], [-9, -5])
+A = ([4, 4], [-9, -8])
+A = ([4, -4], [1, 8])
+A = ([6, 1], [-4, 2])
+A = ([3, 1], [-2, 0])
+A = ([1, -2], [1, 3])
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+A
+lambda_1
+lambda_2
+bb v_1
+bb v_2,
+bb x' = Abb x
+bb x(t) = alpha e^(lambda_1 t)bb v_1+beta e^(lambda_2 t)bb v_2.
+n
+n
+[ (dx_1)/dt, "<mi//>"=a_(11)(t)x_1(t)+cdots+a_(1n)(t)x_n(t)+f_1(t),], [ (dx_2)/dt, "<mi//>"=a_(21)(t)x_1(t)+cdots+a_(2n)(t)x_n(t)+f_2(t),], [\ , "<mi//>" vdots], [ (dx_n)/dt, "<mi//>"=a_(n1)(t)x_1(t)+cdots+a_(nn)(t)x_n(t)+f_n(t).]
+f_i
+[ (dx_1)/dt, "<mi//>"=a_(11)x_1+cdots+a_(1n)x_n], [ (dx_2)/dt, "<mi//>"=a_(21)x_1+cdots+a_(2n)x_n,], [\ , "<mi//>" vdots], [ (dx_n)/dt, "<mi//>"=a_(n1)x_1+cdots+a_(nn)x_n.]
+2 xx 2
+["(3.2.1)", dx/dt, "<mi//>"=ax+by,], ["(3.2.2)", dy/dt, "<mi//>"=cx+dy.]
+2 xx 2
+A
+B
+A
+B
+A
+B
+A
+A
+B
+B.
+x = x(t)
+A
+t
+y = y(t)
+B
+t,
+[x(0), "<mi//>"=100], [y(0), "<mi//>"=0]
+x//300
+y//300
+[dx/dt, "<mi//>"=-900*x/300+400*y/300=-3x+4/3 y,], [dy/dt, "<mi//>"=900*x/300-400*y/300-500*y/300=3x-3y.]
+2 xx 2
+A = ([a, b], [c, d])\ and\ bb x(t) = ([x(t)], [y(t)]),
+([x'(t)], [y'(t)]) = ([ax(t)+by(t)], [cx(t)+dy(t)]) = ([a, b], [c, d])([x(t)], [y(t)]).
+(dbb x)/dt = Abb x,
+bb x' = (dbb x)/dt = ([x'(t)], [y'(t)]).
+[x', "<mi//>"=ax+by], [y', "<mi//>"=cx+dy]
+(x_0, y_0)
+[ax_0+by_0, "<mi//>"=0,], [cx_0+dy_0, "<mi//>"=0.]
+(dbb x)/dt = Abb x
+2 xx 2
+A
+det(A) != 0,
+(x, y) = (0, 0)
+det(A) = 0,
+RR^2.
+bb x' = Abb x.
+bb v_0
+Abb v_0 = lambda bb v_0
+lambda.
+A
+bb v_0
+lambda bb v_0.
+bb x(t) = e^(lambda t)bb v_0
+[bb x'(t), "<mi//>"=lambda e^(lambda t)bb v_0], [\ , "<mi//>"=e^(lambda t)(lambda bb v_0)], [\ , "<mi//>"=e^(lambda t)(Abb v_0)], [\ , "<mi//>"=A(e^(lambda t)bb v_0)], [\ , "<mi//>"=Abb x(t).]
+bb x' = Abb x
+A.
+bb v_0
+A
+lambda.
+bb x(t) = e^(lambda t)bb v_0
+bb x' = Abb x.
+bb x(t) = e^(lambda t)bb v_0
+e^(lambda t)bb v_0
+t.
+bb v_0
+A,
+bb v_0
+A,
+A(alpha bb v_0) = alpha Abb v_0 = alpha(lambda bb v_0) = lambda(alpha bb v_0).
+[x', "<mi//>"=x+3y], [y', "<mi//>"=x-y.]
+bb x' = Abb x,
+A = ([1, 3], [1, -1]).
+A
+bb u = (3, 1)
+lambda = 2,
+Au = ([1, 3], [1, -1])([3], [1]) = ([6], [2]) = 2([3], [1]) = lambda bb u.
+bb v = (1, -1)
+A
+mu = -2.
+bb x_1(t) = e^(2t)([3], [1]),
+bb x_2(t) = e^(-2t)([1], [-1]).
+[d/dt(c_1 bb x_1(t)+c_2 bb x_2(t)), "<mi//>"=c_1 d/dt bb x_1(t)+c_2 d/dt bb x_2(t)], [\ , "<mi//>"=c_1 Abb x_1(t)+c_2 Abb x_2(t)], [\ , "<mi//>"=A(c_1 bb x_1(t)+c_2 bb x_2(t)),]
+bb x(t) = c_1 e^(2t)([3], [1])+c_2 e^(-2t)([1], [-1])
+[x(t), "<mi//>"=3c_1 e^(2t)+c_2 e^(-2t)], [y(t), "<mi//>"=c_1 e^(2t)-c_2 e^(-2t).]
+x(0) = 0
+y(0) = 1,
+c_1
+c_2
+[3c_1+c_2, "<mi//>"=0], [c_1-c_2, "<mi//>"=1]
+c_1 = 1//4
+c_2 = -3//4.
+[x(t), "<mi//>"=3/4 e^(2t)-3/4 e^(-2t)], [y(t), "<mi//>"=1/4 e^(2t)+3/4 e^(-2t).]
+dbb x//dt = Abb x,
+[A, "<mi//>"=([23, 10], [-50, -22])], [bb x(0), "<mi//>"=([3], [3]).]
+A.
+lambda
+mu.
+bb v_1
+bb v_2
+lambda
+mu,
+dbb x//dt = Abb x.
+xy
+xy
+bb x(t) = c_1 e^(lambda t)bb v_1+c_2 e^(mu t)bb v_2
+dbb x//dt = Abb x.
+bb x(0) = ([1], [2])
+c_1
+c_2
+bb x(t) = c_1 e^(lambda t)bb v_1+c_2 e^(mu t)bb v_2
+bb x_1(t)
+bb x_2(t)
+bb x' = Abb x,
+[bb x_1^' , "<mi//>"=Abb x_1], [bb x_2^' , "<mi//>"=Abb x_2.]
+c_1
+c_2,
+[d/dt(c_1 bb x_1(t)+c_2 bb x_2(t)), "<mi//>"=alpha d/dt bb x_1(t)+c_2 d/dt bb x_2(t)], [\ , "<mi//>"=c_1 Abb x_1(t)+c_2 Abb x_2(t)], [\ , "<mi//>"=A(c_1 bb x_1(t)+c_2 bb x_2(t)).]
+A
+2 xx 2
+bb x' = Abb x
+[dx/dt, "<mi//>"=-3x+4/3 y,], [dy/dt, "<mi//>"=3x-3y,], [x(0), "<mi//>"=100,], [y(0), "<mi//>"=0.]
+bb x' = Abb x,
+A = ([-3, 4//3], [3, -3]).
+lambda = -1
+mu = -5
+bb u = (2, 3)
+bb v = (-2, 3),
+[bb x_1(t), "<mi//>"=e^(-t)bb u,], [bb x_2(t), "<mi//>"=e^(-5t)bb v.]
+bb x(t) = c_1([2e^(-t)], [3e^(-t)])+c_2([-2e^(-5t)], [3e^(-5t)])
+x(0) = 100
+y(0) = 0,
+c_1 = 25
+c_2 = -25.
+[x(t), "<mi//>"=50e^(-t)+50e^(-5t)], [y(t), "<mi//>"=75e^(-t)-75e^(-5t).]
+A
+lambda_1
+lambda_2,
+bb v_1
+bb v_2.
+bb x' = Abb x
+bb x(t) = c_1 e^(lambda_1 t)bb v_1+c_2 e^(lambda_2 t)bb v_2.
+A
+2 xx 2
+lambda_1
+lambda_2
+bb v_1
+bb v_2,
+bb v_1
+bb v_2
+bb v_1
+bb v_2
+alpha != 0
+["(3.2.3)", bb v_1=alpha bb v_2.]
+A,
+["(3.2.4)", lambda_1 bb v_1=Abb v_1=alpha Abb v_2=alpha lambda_2 bb v_2.]
+["(3.2.5)", lambda_2 bb v_1=alpha lambda_2 bb v_2]
+lambda_2.
+(lambda_1-lambda_2)bb v_1 = alpha(lambda_2-lambda_2)bb v_2 = 0bb v_2 = '\\y01d7ce'.
+lambda_1
+lambda_2
+bb x' = Abb x
+A
+lambda_1
+lambda_2,
+bb v_1
+bb v_2.
+bb x(t) = c_1 e^(lambda_1 t)bb v_1+c_2 e^(lambda_2 t)bb v_2.
+bb x' = Abb x.
+c_1
+c_2
+bb x_0 = bb x(0) = (x_0, y_0).
+bb v_1
+bb v_2
+RR^2.
+bb x_0
+bb v_1
+bb v_2.
+c_1
+c_2
+bb x_0 = bb x(0) = c_1 bb v_1+c_2 bb v_2.
+bb x(t) = c_1 e^(lambda_1 t)bb v_1+c_2 e^(lambda_2 t)bb v_2
+[bb x'(t), "<mi//>"=Abb x(t),], [bb x(0), "<mi//>"=bb x_0.]
+bb y(t)
+bb y(0) = bb x_0.
+bb y(t) = f(t)bb v_1+g(t)bb v_2,
+[f(0), "<mi//>"=c_1,], [g(0), "<mi//>"=c_2.]
+bb y(t)
+Abb y(t) = bb y'(t) = f'(t)bb v_1+g'(t)bb v_2.
+Abb y(t) = f(t)Abb v_1+g(t)Abb v_2 = lambda_1 f(t)bb v_1+lambda_2 g(t)bb v_2.
+[f'(t), "<mi//>"=lambda_1 f(t),], [f(0), "<mi//>"=c_1,]
+[g'(t), "<mi//>"=lambda_2 g(t),], [g(0), "<mi//>"=c_2.]
+[f(t), "<mi//>"=c_1 e^(lambda_1 t),], [g(t), "<mi//>"=c_2 e^(lambda_2 t),]
+bb y(t) = bb x(t),
+bb v_1
+bb v_2
+A,
+bb v_1
+bb v_2
+bb x' = Abb x
+A
+2 xx 2
+A
+lambda_1
+lambda_2,
+bb v_1
+bb v_2,
+bb x' = Abb x
+bb x(t) = alpha e^(lambda_1 t)bb v_1+beta e^(lambda_2 t)bb v_2.
+2 xx 2
+[x', "<mi//>"=x+2y], [y', "<mi//>"=-x+4y]
+[x', "<mi//>"=4x+2y], [y', "<mi//>"=x+3y]
+[x', "<mi//>"=-3x+4y], [y', "<mi//>"=3x-2y]
+[x', "<mi//>"=6x+4y], [y', "<mi//>"=-8x-6y]
+[x', "<mi//>"=x+2y], [y', "<mi//>"=-x+4y], [x(0), "<mi//>"=3], [y(0), "<mi//>"=2]
+[x', "<mi//>"=4x+2y], [y', "<mi//>"=x+3y], [x(0), "<mi//>"=3], [y(0), "<mi//>"=2]
+[x', "<mi//>"=-3x+4y], [y', "<mi//>"=3x-2y], [x(0), "<mi//>"=1], [y(0), "<mi//>"=3]
+[x', "<mi//>"=6x+4y], [y', "<mi//>"=-8x-6y], [x(0), "<mi//>"=1], [y(0), "<mi//>"=3]
+["(3.2.6)", x', "<mi//>"=a(t)x+b(t)y+f(t)], ["(3.2.7)", y', "<mi//>"=c(t)x+d(t)y+g(t)]
+[x', "<mi//>"=a(t)x+b(t)y], [y', "<mi//>"=c(t)x+d(t)y]
+bb x_h = ([x(t)], [y(t)]) = c_1([u_1(t)], [u_2(t)])+c_2([v_1(t)], [v_2(t)]).
+bb x_p = ([varphi_1(t)], [varphi_2(t)])
+bb x_h+bb x_p = ([x(t)+varphi_1(t)], [y(t)+varphi_2(t)])
+[x', "<mi//>"=x+3y+(t-3t^2)], [y', "<mi//>"=x-y+(2-t+t^2)], [x(0), "<mi//>"=1], [y(0), "<mi//>"=-1.]
+[x', "<mi//>"=x+3y], [y', "<mi//>"=x-y]
+[x', "<mi//>"=x+3y+(t-3t^2)], [y', "<mi//>"=x-y+(2-t+t^2)]
+[x', "<mi//>"=x+3y+(t-3t^2)], [y', "<mi//>"=x-y+(2-t+t^2)], [x(0), "<mi//>"=1], [y(0), "<mi//>"=-1.]
+bb x_p = ([a_2 t^2+a_1 t+a_0], [b_2 t^2+b_1 t+b_0.])
+[x', "<mi//>"=ax+y], [y', "<mi//>"=2ax+2y,]
+a in RR.
+a
+a
+alpha e^(lambda t)([1], [0])+beta e^(lambda t)([t], [1])
+bb x' = ([lambda, 1], [0, lambda])bb x.
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+f(x) = x^2-2.
+x = sqrt(2)
+x = -sqrt(2).
+sqrt(2)
+["(1.4.1)", y', "<mi//>"=f(t,y)=y+t,], ["(1.4.2)", y(0), "<mi//>"=1.]
+y' = y+t
+t
+y
+[0, 1].
+[y', "<mi//>"=f(t,y)], [y(t_0), "<mi//>"=y_0,]
+a = t_0, t_1, t_2, ..., t_N = b
+[a, b]
+t_1, t_2, ..., t_N
+[a, b],
+t_k = t_0+kh,
+h = 1//N
+k = 1, 2, ..., N.
+h
+Y_k
+y_k = y(t_k),
+Y_(k+1)
+t_(k+1).
+y(t_0) = y_0.
+t_0,
+y'(t_0) = f(t_0, y_0).
+(y(t_0+h)-y(t_0))/h ~~ y'(t_0, y(t_0)) = y'(t_0, y_0)
+y(t_0+h) = y(t_1) ~~ y(t_0)+hy'(t_0, y_0),
+t_1 = t_0+h
+Y_1 = Y_0+hf(t_0, Y_0).
+t_2 = t_0+2h
+Y_2 = Y_1+hf(t_1, Y_1).
+Y_(k+1) = Y_k+hf(t_k, Y_k).
+[0, 1]
+h = 0.1.
+y(0) = 1,
+Y_0 = y(0) = 1.
+y(0) = 1.
+t_0 = 0,
+y'(0) = f(y(0), 0) = y(0)+0 = 1+0 = 1,
+(y(h)-y(0))/h ~~ y'(0, y(0))\ or\ y(h) ~~ y(0)+hy'(0, y(0)),
+t = 0.1
+[Y_1, "<mi//>"=Y_0+hf(t_0,Y_0)], [\ , "<mi//>"=Y_0+h[Y_0+t_0]], [\ , "<mi//>"=1+(0.1)[1+0]], [\ , "<mi//>"=1.1000.]
+t = 0.2
+[Y_2, "<mi//>"=Y_1+hf(t_1,Y_1)], [\ , "<mi//>"=Y_1+h[Y_1+t_1]], [\ , "<mi//>"=1.1000+(0.1)[1.1000+0.1]], [\ , "<mi//>"=1.2200.]
+Y_(k+1) = Y_k+hf(t_k, Y_k) = Y_k+h[Y_k+t_k] = (1.1)Y_k+(0.01)k.
+y(t) = 2e^t-t-1.
+h = 0.001
+y' = y+t
+k
+t_k
+Y_k
+y_k
+|y_k-Y_k|
+t_k
+h = 0.1
+h = 0.02
+h = 0.001
+[y', "<mi//>"=x+xy], [y(0), "<mi//>"=1.]
+y(x)
+x = 0, 0.2, 0.4, ..., 1.
+x = 0, 0.2, 0.4, ..., 1.
+x
+0
+1.
+x > x_0,
+f(x) = f(x_0)+f'(x_0)(x-x_0)+ (f''(x_0))/(2!) (x-x_0)^2+cdots+ (f^((n))(xi))/(n!) (x-x_0)^n,
+xi in(x_0, x).
+[y', "<mi//>"=f(t,y),], [y_0, "<mi//>"=y(t_0),]
+t_1, t_2, ..., t_N
+[t_0, a],
+t_k = t_0+kh,
+h = (a-t_0)//N
+k = 1, 2, ..., N.
+y(t_(k+1)) = y(t_k+h) = y(t_k)+y'(t_k)h+ (y''(t_k))/(2!) h^2+cdots.
+y
+t_k,
+y
+t_(k+1).
+y_(k+1) = y(t_(k+1)) ~~ y(t_k)+y'(t_k)h = y(t_k)+f(t_k, y_k)h.
+[Y_0, "<mi//>"=y(t_0)], [Y_1, "<mi//>"=Y_0+hf(t_0,Y_0)], [Y_2, "<mi//>"=Y_1+hf(t_1,Y_1)], [\ , "<mi//>" vdots], [Y_(k+1), "<mi//>"=Y_k+hf(t_k,Y_k).]
+h
+h
+h^n
+n = 2, 3, ...
+y
+[y', "<mi//>"=f(t,y),], [y(a), "<mi//>"=alpha,]
+t in[a, b].
+f
+L > 0
+|f(t, y_1)-f(t, y_2)| <= L|y_1-y_2|,
+(t, y_1)
+(t, y_2)
+D = [a, b] xx RR.
+M
+|y''(t)| <= M
+t in[a, b].
+Y_0, ..., Y_N
+N,
+|y(t_i)-Y_i| <= (hM)/(2L) [e^(L(t_i-a))-1].
+L > 0
+|f(t, y_1)-f(t, y_2)| <= L|y_1-y_2|,
+(t, y_1)
+(t, y_2)
+D = [a, b] xx RR
+k
+t_k
+Y_k
+y_k = y(t_k)
+|y_k-Y_k|
+M
+L.
+|f(t, y_1)-f(t, y_2)| = |(y_1+t)-(y_2+t)| = |y_1-y_2|,
+L
+y'' = 2e^t,
+y''
+[0, 1]
+M = 2e.
+|y(t_i)-Y_i| <= (hM)/(2L) [e^(L(t_i-a))-1] = 0.1e(e^(t_i)-1)
+h = 0.1.
+y(t_1) ~~ y_0+f(t_0, y_0)h+ (y''(t_0))/2 h^2.
+y''(t_0)
+y' = f(t, y)
+y'' = (del f)/(del t) dt/dt+ (del f)/(del y) dy/dt = f_t+ff_y.
+y(t_1) ~~ y_0+f(t_0, y_0)h+1/2(f_t(t_0, y_0)+f(t_0, y_0)f_y(t_0, y_0))h^2.
+del f//del t
+del f//del y,
+f(t, y).
+[y', "<mi//>"=f(t,y),], [y(t_0), "<mi//>"=y_0,]
+y(t_1) = y(t_0)+int_(t_0)^(t_1)f(s, y(s))ds
+["(1.4.3)", y_1-y_0=y(t_1)-y(t_0)=int_(t_0)^(t_1)f(s,y(s))ds]
+y_1-y_0 = f(t_0, y_0)h.
+[y(t_1)-y(t_0), "<mi//>"=int_(t_0)^(t_1)f(s,y(s))ds], [\ , "<mi//>"~~(f(t_0,y_0)+f(t_1,y_1)) h/2.]
+["(1.4.4)", y_1=y_0+(f(t_0,y_0)+f(t_1,y_1)) h/2.]
+y_1
+y_1
+y_1.
+y_1 = y_0+(f(t_0, y_0)+f(t_1, y_0+f(t_0, y_0)h)) h/2.
+f(x, y)
+f
+[f(x+h,y+k), "<mi//>"=f(x,y)+h(del)/(del x) f(x,y)+k(del)/(del y) f(x,y)], [\ , "<mi//>"+1/(2!) (h^2(del^2)/(del^2 x) f(x,y)+hk(del^2)/(del x del y) f(x,y)+k^2(del^2)/(del^2 y) f(x,y))], [\ , "<mi//>"+1/(3!) (h^3(del^3)/(del^3 x) f(x,y)+3h^2 k(del^3)/(del^2 x del y) f(x,y)<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>], [\ , "<mi//>"+<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>hk^2(del^3)/(del x del^2 y) f(x,y)+k^3(del^3)/(del^3 y) f(x,y))+cdots.]
+[f(x+h,y+k), "<mi//>"=sum_(n=0)^N 1/(n!) (h(del)/(del x) +k(del)/(del y) )^n f(x,y)], [\ , "<mi//>"+1/((N+1)!) (h(del)/(del x) +k(del)/(del y) )^(N+1)f(bar x, bar y),]
+(bar x, bar y)
+(x, y)
+(x+h, y+k).
+y(t+h) = y(t)+w_1 F_1+w_2 F_2,
+[F_1, "<mi//>"=hf(t,y)], [F_2, "<mi//>"=hf(t+alpha h,y+beta F_1).]
+["(1.4.5)", y(t+h)=y(t)+w_1 hf(t,y)+w_2 hf(t+alpha h,y+beta hf(t,y)).]
+w_1,
+w_2,
+alpha,
+beta
+["(1.4.6)", y(t+h)=y(t)+hy'(t)+ (h^2)/(2!) y''(t)+ (h^3)/(3!) y''(t)+cdots.]
+w_1 = 1
+w_2 = 0.
+y' = f,
+h^2
+f(t+alpha h, y+beta hf),
+f(t+alpha h, y+beta hf) = f+alpha hf_t+beta hff_y+cc O(h^2),
+cc O(h^2)
+h^n
+n >= 2.
+["(1.4.7)", y(t+h)=y(t)+(w_1+w_2)hf+alpha w_2 h^2 f_t+beta w_2 h^2 ff_y+cc O(h^3).]
+y'' = f_t+f_y f
+["(1.4.8)", y(t+h)=y(t)+hf+ (h^2)/(2!) (f_t+ff_y)+cc O(h^3).]
+[w_1+w_2, "<mi//>"=1,], [alpha w_2, "<mi//>"=1/2,], [beta w_2, "<mi//>"=1/2.]
+alpha = beta = 1
+w_1 = w_2 = 1//2,
+y(t+h) = y(t)+h/2 f(t, h)+h/2 f(t+h, y+hf(t, y)).
+h.
+y(t+h) = y(t)+hy'(t)+cc O(h^2),
+h.
+h^2,
+y(t+h) = y(t)+hy'(t)+ (h^2)/(2!) y''(t)+cc O(h^3).
+y(t_1)-y(t_0) = int_(t_0)^(t_1)f(s, y(s))ds,
+h^4.
+y(t+h) = y(t)+1/6(F_1+2F_2+2F_3+F_4),
+[F_1, "<mi//>"=hf(t,y)], [F_2, "<mi//>"=hf(t+1/2 h,y+1/2 F_1)], [F_3, "<mi//>"=hf(t+1/2 h,y+1/2 F_2)], [F_4, "<mi//>"=hf(t+h,y+F_3).]
+[y', "<mi//>"=f(t,y),], [y(a), "<mi//>"=alpha]
+[a, b].
+N
+t_1, ..., t_N,
+h = (b-a)//N
+t_i = a+ih,
+[Y_0, "<mi//>"=alpha,], [Y_1, "<mi//>"=Y_0+hf(alpha,Y_0),], [Y_2, "<mi//>"=Y_1+hf(t_1,Y_1,)], [\ , "<mi//>" vdots], [Y_(k+1), "<mi//>"=Y_k+hf(t_k,Y_k),], [Y_N, "<mi//>"=Y_(N-1)+hf(t_(N-1),Y_(N-1)).]
+x > x_0,
+f(x) = f(x_0)+f'(x_0)(x-x_0)+ (f''(x_0))/(2!) (x-x_0)^2+cdots+ (f^((n))(xi))/(n!) (x-x_0)^n,
+xi in(x_0, x).
+h.
+|y(t_i)-Y_i| <= (hM)/(2L) [e^(L(t_i-a))-1],
+y
+[y', "<mi//>"=f(t,y),], [y(a), "<mi//>"=alpha.]
+L > 0
+|f(t, y_1)-f(t, y_2)| <= L|y_1-y_2|,
+(t, y_1)
+(t, y_2)
+D = [a, b] xx RR
+y(t+h) = y(t)+h/2 f(t, h)+h/2 f(t+h, y+hf(t, y))
+h^2.
+y(t+h) = y(t)+1/6(F_1+2F_2+2F_3+F_4),
+[F_1, "<mi//>"=hf(t,y)], [F_2, "<mi//>"=hf(t+1/2 h,y+1/2 F_1)], [F_3, "<mi//>"=hf(t+1/2 h,y+1/2 F_2)], [F_4, "<mi//>"=hf(t+h,y+F_3)]
+h^4.
+f(x)
+x_0.
+x_0.
+[y', "<mi//>"=f(t,y),], [y(t_0), "<mi//>"=y_0]
+Y_(k+1) = Y_k+hf(t_k, Y_k)
+t_0
+y_0.
+h = 0.1,
+Y_1,
+Y_2,
+Y_3.
+Y_i-y_i
+i = 1, 2, 3.
+y' = -2y,
+y(0) = 0
+y' = ty,
+y(0) = 1
+y' = y^3,
+y(0) = 1
+y' = y,
+y'(0) = 1
+y' = y+t,
+y'(0) = 2
+y' = 1//y,
+y'(0) = 2
+dy/dt = 3y-1
+y(0) = 2.
+h = 0.5
+[0, 2]
+x >= -1
+m,
+0 <= (1+x)^m <= e^(mx).
+s
+t
+{a_i}_(i=0)^k
+[a_0, "<mi//>">=-t/s], [a_(i+1), "<mi//>"<=(1+s)a_i+t,"\for\ "i=0,1,2,...,k,]
+a_(i+1) <= e^((i+1)s)(t/s+a_0)-t/s.
+i = 0,
+y(t_0) = Y_0 = alpha
+|y_(i+1)-Y_(i+1)| <= |y_i-Y_i|+h|f(t_i, y_i)-f(t_i, Y_i)|+ (h^2)/2|y''(xi_i)|
+xi_i in(t_i, t_(i+1))
+y_k = y(t_k).
+|y_(i+1)-Y_(i+1)| <= |y_i-Y_i|(1+hL)+ (Mh^2)/2.
+a_j = |y_j-Y_j|
+j = 0, 1, ..., N,
+s = hL,
+t = Mh^2//2
+|y_(i+1)-Y_(i+1)| <= e^((1+i)hL)(|y_0-Y_0|+ (Mh^2)/(2hL) )- (Mh^2)/(2hL) .
+|y_(i+1)-Y_(i+1)| <= (Mh)/(2L) (e^((t_(i+1)-a)L)-1)
+i = 0, 1, ..., N-1.
+i
+[a_(i+1), "<mi//>"<=(1+s)a_i+t], [\ , "<mi//>"<=(1+s)[(1+s)a_(i-1)+t]+t], [\ , "<mi//>"<=(1+s){(1+s)[(1+s)a_(i-2)+t]+t}+t], [\ , "<mi//>" vdots], [\ , "<mi//>"<=(1+s)^(i+1)a_0+[1+(1+s)+(1+s)^2+cdots+(1+s)^i]t.]
+a_(i+1) <= (1+s)^(i+1)a_0+t/s[(1+s)^(i+1)-1] = (1+s)^(i+1)(t/s+a_0)-t/s.
+a_(i+1) <= e^((i+1)s)(t/s+a_0)-t/s.
+dy//dx = x+y,
+y(0) = 1.
+[y, "<mi//>"=f(x,y)], [f(x_0), "<mi//>"=y_0]
+h
+[x_0, x_1]
+(x, y).
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+n
+F(t, x, x', x'', ..., x^((n))) = 0,
+F
+n+2
+I = (a, b)
+u = u(t)
+n
+u
+I,
+F(t, u, u', u'', ..., u^((n))) = 0.
+dx/dt = f(t, x).
+dy/dx = M(x)N(y),
+g(y)dy = f(x)dx
+n
+F(t, x, x', x'', ..., x^((n))) = 0,
+F
+n+2
+I = (a, b)
+u = u(t)
+n
+u
+I,
+F(t, u, u', u'', ..., u^((n))) = 0.
+dx/dt = f(t, x).
+y' = f(x, y)
+f(x)+g(y) dy/dx = 0\ or\ dy/dx = M(x)N(y).
+x
+y.
+x
+y
+t
+x.
+[dy/dx, "<mi//>"=xy], [y(0), "<mi//>"=1.]
+1/y dy/dx = x
+1/y dy = xdx.
+ln|y| = 1/2 x^2+C,
+C
+y(0) = 1
+C,
+0 = ln|1| = 0+C.
+ln y = x^2//2.
+y = e^(x^2//2).
+[dy/dx, "<mi//>"=sin(xy)], [y(0), "<mi//>"=1.]
+[dy/dt, "<mi//>"=t/(y-t^2 y) ], [y(0), "<mi//>"=4.]
+ydy = t/(1-t^2) dt.
+1/2 y^2 = -1/2 ln|1-t^2|+C\ or\ y^2 = -ln|1-t^2|+C.
+y(0) = 4,
+C,
+y^2 = 16-ln|1-t^2|\ or\ y = sqrt(16-ln|1-t^2|).
+t.
+-1 < t < 1,
+i^2 = -1.
+[ (dP)/(dt) , "<mi//>"=k(1-P/1000)P], [P(0), "<mi//>"=100.]
+["(1.2.1)", 1000/(P(1000-P)) dP=(1/P+1/(1000-P) )dP=kdt.]
+ln|P|-ln|1000-P| = ln|P/(1000-P) | = kt+C.
+P/(1000-P) = e^(kt+C) = e^(kt)e^C.
+C
+e^C
+C.
+P = Ce^(kt)(1000-P) = 1000Ce^(kt)-Ce^(kt)P.
+P
+P = (1000Ce^(kt))/(Ce^(kt)+1) = 1000/(Ce^(-kt)+1) .
+P(0) = 100,
+C = 9.
+dy//dx = y//x
+(x^2+1)y' = xy
+dx//dt = e^x sqrt(t)
+dx/dt = (sec^2 t+2t)/(2x) ,
+x(0) = -2
+dy//dx = sqrt(xy),
+y(1) = 3
+98.6\circ
+(dT)/dt = k(T-T_m),
+T
+T_m
+k
+70\circ
+2\circ
+[ (dT)/dt, "<mi//>"=k(T-70)], [T(0), "<mi//>"=98.6,]
+T(1) = 96.6.
+(dT)/dt = k(T-70)
+1/(T-70) (dT)/dt = k,
+ln|T-70| = kt+C.
+T > 70,
+T-70
+|T-70|.
+ln(T-70) = kt+C\ or\ T-70 = e^(kt+C) = e^(kt)e^C.
+D = e^C,
+T(t) = De^(kt)+70.
+T(0) = 98.6,
+D = 28.6.
+T(t) = 28.6e^(kt)+70.
+96.6 = T(1) = 28.6e^(k*1)+70,
+k
+k = ln(26.6/28.6) ~~ -0.0725.
+T(t) = 28.6e^(-0.0725t)+70.
+T
+195\circ
+205\circ
+205\circ
+212\circ
+195\circ
+205\circ
+140\circ
+155\circ
+205\circ
+70\circ
+t,
+t
+205\circ
+200\circ
+155\circ
+x(t)
+t,
+["(1.2.2)", dx/dt="rate in"-"rate out".]
+10*0.5 = 5
+x(t),
+t.
+t,
+x(t)//1000
+10x(t)//1000 = x(t)//100
+[dx/dt, "<mi//>"=5-x/100], [x(0), "<mi//>"=0.]
+dx/(500-x) = dt/100.
+-ln|500-x| = t/100+k
+ln|500-x| = -t/100-k.
+500-x = Ce^(-0.01t),
+C = e^(-k).
+C = 500
+x(t) = 500-500e^(-0.01t)
+t.
+x(t) -> 500
+t -> oo,
+t,
+t
+[ (dP)/(dt) , "<mi//>"=0.05P], [P(0), "<mi//>"=500]
+P(t)
+t.
+P(t) = 500e^(0.05t).
+P(10) ~~ 824.360635350064
+[ (dP)/(dt) , "<mi//>"=0.05P+10], [P(0), "<mi//>"=500]
+int(dP)/(0.05P+10) = int dt.
+20ln|0.05P+10| = t+k,
+k
+0.05P+10 > 0,
+20ln(0.05P+10) = t+k.
+0.05P+10 = e^(0.05(t+k)) = e^(0.05t)e^(0.05k).
+C = e^(0.05k)
+P,
+P = 20Ce^(0.05t)-200.
+500 = P(0) = 20Ce^(0.05*0)-200 = 20C-200,
+C = 35.
+P(t) = 700e^(0.05t)-200.
+P(10) ~~ 954.104889490090
+[ (dP)/(dt) , "<mi//>"={[0.05P+10,, t<=10], [0.05P-60,, t>10]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>], [P(0), "<mi//>"=500.]
+P = 954,
+(dP)/dt = 0.05P-60 ~~ -12.3 < 0.
+dP//dt = 0.05P-60
+int(dP)/(0.05P-60) = int dt.
+20ln|0.05P-60| = t+k.
+0.05P-60 < 0,
+|0.05P-60| = 60-0.05P,
+20ln(60-0.05P) = t+k.
+60-0.05P = e^((t+k)//20),
+P = 1200-Ce^(0.05t),
+C = 20e^(k//20).
+P(10) = 954
+C ~~ 149.21.
+P = 1200-149.21e^(0.05t)
+t >= 10
+1200-149.21e^(0.05t) = 0.
+t = 20ln(1200/149.21) ~~ 41.7.
+y' = F(x, y)
+["(1.2.3)", f(x)+g(y) dy/dx=0.]
+[h_1(s), "<mi//>"=int f(s)ds], [h_2(s), "<mi//>"=int g(s)ds,]
+h_1^' (x)+h_2^' (y) dy/dx = 0.
+h_2^' (y) dy/dx = d/dx[h_2(y)].
+d/dx(h_1(x)+h_2(y)) = 0.
+h_1(x)+h_2(y) = C,
+C
+y(x_0) = y_0
+f(x)+g(y) dy/dx = 0.
+h_1(x_0)+h_2(y_0) = C.
+[h_1(x)-h_1(x_0), "<mi//>"=int_(x_0)^x f(s)ds,], [h_2(y)-h_2(y_0), "<mi//>"=int_(y_0)^y g(s)ds.]
+int_(x_0)^x f(s)ds+int_(y_0)^y g(s)ds = 0.
+dy/dx = (y(1+y^2))/(y^2+y+1) .
+(1/(1+y^2) +1/y)dy = dx
+arctan y+ln|y| = x+C.
+y.
+y' = te^(-y^2).
+e^(y^2)dy = tdt.
+e^(y^2)
+int_0^y e^(s^2)ds = 1/2 t^2+C.
+y' = y^(1//3)
+y(0) = 0
+t >= 0.
+y^(-1//3)dy = dt.
+3/2 y^(2//3) = t+C
+y = (2/3(t+C))^(3//2).
+C = 0,
+y = (2/3 t)^(3//2)
+t >= 0.
+t >= 0:
+[y, "<mi//>"=-(2/3 t)^(3//2),], [y, "<mi//>"-=0.]
+y' = y^2
+y(0) = 1.
+1/(y^2) dy = dt,
+y = -1/(t+C)
+y = 1/(1-t) .
+(-oo, 1)
+y(0) = 1.
+y(0) = -1,
+y = -1/(t+1) ,
+(-1, oo).
+n
+F(t, x, x', x'', ..., x^((n))) = 0,
+F
+n+2
+I = (a, b)
+u = u(t)
+n
+u
+I,
+F(t, u, u', u'', ..., u^((n))) = 0.
+dx/dt = f(t, x).
+dy/dx = M(x)N(y).
+f(x)+g(y) dy/dx = 0
+g(y)dy = f(x)dx
+dy/dt = y^2+t^2
+xdx-y^2 dy = 0
+dy/dx = y/x
+(t^2+1)dt+(x^2+x)dx = 0
+dx/dt = x^2-6x+14
+y' = (x^2)/(y(2+x^3))
+dy/dx = (sin x)/y
+xy' = sqrt(1-y^2)
+dy/dt = (4t-t^3)/(4+y^3)
+y' = 1/(ty+2t+y+2)
+dx/dt = xe^t+3e^t+x+3
+xdx-y^2 dy = 0,
+y(0) = 1
+dy/dx = y/x,
+y(1) = -2
+(t^2+1)dt+(x^2+x)dx = 0,
+x(0) = -1
+dx/dt = x^2-6x+14,
+x(0) = 3
+y' = (x^2)/(y(2+x^3)) ,
+y(0) = -2
+dy/dx = (sin x)/y,
+y(0) = 2
+xy' = sqrt(1-y^2),
+y(1) = 0
+dy/dt = (4t-t^3)/(4+y^3) ,
+y(0) = 1
+y' = 1/(ty+2t+y+2) ,
+y(0) = -3
+dx/dt = xe^t+3e^t+x+3,
+x(0) = 0
+y' = f(x, y),
+f(x, y) = f(tx, ty).
+dy/dx = (x^2+y^2)/(2xy)
+y = xv
+v+x(dv)/dx = (x^2+v^2 x^2)/(2vx^2) .
+y.
+y' = f(x, y)
+y = vx.
+f
+n
+f(tx, ty) = t^n f(x, y)
+n = 1, 2, ....
+P(x, y)dx+Q(x, y)dy = 0,
+P
+Q
+n,
+y = vx.
+x^2 y' = 2y^2-x^2.
+y' = (2y^4+x^4)/(xy^3) .
+ax^2+bx+c = 0
+5x^7-6x^4+3x^3-23x^2+3x-17 = 0
+dy/dx = x+y.
+y(0) = 1.
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+ax''+bx'+cx = 0.
+ar^2+br+c = 0.
+m(d^2 x)/(dt^2) +b dx/dt+kx = 0,
+m > 0,
+k > 0,
+b >= 0.
+a(t)x''+b(t)x'+c(t)x = g(t)
+ax''+bx'+cx = 0,
+a,
+b,
+c
+a != 0.
+I(t),
+E(t),
+R
+C
+Q(t)
+t
+L,
+I = (dQ)/dt.
+IR
+Q//C.
+L(dI//dt).
+["(4.1.1)", L(dI)/(dt) +RI+1/C Q=E(t)]
+LQ''+RQ'+1/C Q = E(t).
+LI''+RI'+1/C I = E'(t).
+R = 1,
+L = 1,
+C = 1.
+t = 0
+I(0) = 0
+I'(0) = Q(0) = 0,
+E(t) = sin(t).
+I''+I'+I = E'(t) = cos t.
+["(4.1.2)", ax''+bx'+cx=0.]
+[x', "<mi//>"=y], [y', "<mi//>"=-c/a x-b/a y,]
+bb x' = Abb x
+e^(rt).
+["(4.1.3)", x''+3x'-10x=0.]
+e^(rt),
+[ (d^2)/(dt^2) e^(rt)+d/dt 3e^(rt)-10e^(rt), "<mi//>"=r^2 e^(rt)+3re^(rt)-10e^(rt)], [\ , "<mi//>"=(r^2+3r-10)e^(rt)], [\ , "<mi//>"=(r+5)(r-2)e^(rt).]
+e^(rt)
+(r+5)(r-2) = 0
+r = -5
+2.
+x_1(t) = e^(-5t)"\and\ "x_2(t) = e^(2t).
+["(4.1.4)", x(t)=c_1 x_1(t)+c_2 x_2(t)=c_1 e^(-5t)+c_2 e^(2t)]
+x''+3x'-10x = 0.
+x''+3x'-10x = 0
+[x', "<mi//>"=y], [y', "<mi//>"=10x-3y.]
+A = ([0, 1], [10, -3])
+lambda^2+3 lambda-10.
+A
+lambda_1 = -5
+lambda_2 = 2
+bb v_1 = (1, -5)
+bb v_2 = (1, 2),
+([x(t)], [y(t)]) = c_1 e^(-5t)([1], [-5])+c_2 e^(2t)([1], [2]),
+ax''+bx'+cx = 0,
+a != 0.
+a lambda^2+b lambda+c,
+lambda = - (-b+-sqrt(b^2-4ac))/(2a) .
+b^2-4ac > 0,
+lambda_1 = (-b+sqrt(b^2-4ac))/(2a) \ and\ lambda_2 = (-b-sqrt(b^2-4ac))/(2a) ,
+["(4.1.5)", x(t)=c_1 e^(lambda_1 t)+c_2 e^(lambda_2 t),]
+c_1
+c_2
+ax''+bx'+cx = 0,
+y = x',
+bb x' = Abb x,
+A = ([0, 1], [-c//a, -b//a]).
+A
+p(lambda) = det(A-lambda I) = lambda^2+b/a lambda+c/a.
+p(lambda)
+a lambda^2+b lambda+c.
+b^2-4ac > 0,
+lambda_1 = (-b+sqrt(b^2-4ac))/(2a) \ and\ lambda_2 = (-b-sqrt(b^2-4ac))/(2a) .
+[bb v_1, "<mi//>"=([1], [(-b+sqrt(b^2-4ac))//2a])=([1], [lambda_1])], [bb v_1, "<mi//>"=([1], [(-b-sqrt(b^2-4ac))//2a])=([1], [lambda_2])]
+lambda_1
+lambda_2,
+bb x' = Abb x
+bb x(t) = ([x(t)], [y(t)]) = ([x(t)], [x'(t)]) = c_1 e^(lambda_1 t)([1], [lambda_1])+c_2 e^(lambda_2 t)([1], [lambda_2]),
+[x''+4x'+5x, "<mi//>"=0], [x(0), "<mi//>"=1], [x'(0), "<mi//>"=1.]
+x(t) = e^(rt).
+0 = x''+4x'+5x = r^2 e^(rt)+4re^(rt)+5e^(rt) = (r^2+4r+5)e^(rt).
+r^2+4r+5 = 0;
+r = (-4+-sqrt(-4))/2 = -2+-i.
+x(t) = e^((-2+i)t) = e^(-2t)e^(it) = e^(-2t)(cos t+isin t).
+[x_1(t), "<mi//>"=e^(-2t)cos t], [x_2(t), "<mi//>"=e^(-2t)sin t,]
+x_1(t)
+x_2(t)
+x(t) = x_1(t)+ix_2(t)
+[0, "<mi//>"=ax''+bx'+cx], [\ , "<mi//>"=a(x_1+ix_2)''+b(x_1+ix_2)'+c(x_1+ix_2)], [\ , "<mi//>"=(ax_1^'' +bx_1^' +cx_1)+i(ax_2^'' +bx_2^' +cx_2).]
+x(t)
+ax_1^'' +bx_1^' +cx_1 = 0
+ax_2^'' +bx_2^' +cx_2 = 0.
+x(t) = c_1 e^(-2t)cos t+c_2 e^(-2t)sin t.
+x(0) = 1
+x'(0) = 1,
+x'(t) = -2e^(-2t)(c_1 cos t+c_2 sin t)+e^(-2t)(-c_1 sin t+c_2 cos t).
+[1, "<mi//>"=x(0)=c_1], [1, "<mi//>"=x'(0)=-2c_1+c_2,]
+c_1 = 1
+c_2 = 3.
+x(t) = e^(-2t)cos t+3e^(-2t)sin t.
+bb x' = Abb x,
+A = ([0, 1], [-c//a, -b//a]).
+b^2-4ac < 0,
+A
+lambda = alpha+i beta
+bar lambda = alpha-i beta,
+alpha = -b/(2a) \ and\ beta = (sqrt(4ac-b^2))/(2a) .
+bb v = (1, alpha+i beta)
+lambda.
+[bb x(t), "<mi//>"=([x(t)], [y(t)])], [\ , "<mi//>"=([x(t)], [x'(t)])], [\ , "<mi//>"=e^((alpha+i beta)t)([1], [alpha+i beta])], [\ , "<mi//>"=e^(alpha t)(cos beta t+isin beta t)([1], [alpha+i beta])], [\ , "<mi//>"=e^(alpha t)([cos beta t], [alpha cos beta t-beta sin beta t])+ie^(alpha t)([sin beta t], [alpha sin beta t+beta cos beta t]).]
+x(t),
+x_1(t) = e^(alpha t)cos beta t
+x_2(t) = e^(alpha t)sin beta t.
+ax_1^'' +bx_1^' +cx_1 = 0
+x(t) = c_1 e^(alpha t)cos beta t+c_2 e^(alpha t)sin beta t.
+ax''+bx'+cx = 0,
+a lambda^2+b lambda+c = 0
+lambda = -b//2a?
+x''+2x'+x = 0.
+e^(lambda t)
+[x''+2x'+x, "<mi//>"=lambda^2 e^(lambda t)+2 lambda e^(lambda t)+e^(lambda t)], [\ , "<mi//>"=e^(lambda t)(lambda+1)^2], [\ , "<mi//>"=0.]
+lambda = -1
+x_1(t) = e^(-t).
+x''+2x'+x = 0,
+x_1(t) = e^(-t).
+cx_1(t)
+c
+v(t)
+v(t)
+v(t)x_1(t)
+x''+2x'+x = 0.
+x(t) = v(t)x_1(t) = v(t)e^(-t),
+x'(t) = v(t)x_1^' (t)+v'(t)x_1(t) = -v(t)e^(-t)+v'(t)e^(-t)
+[x''(t), "<mi//>"=v''(t)x_1(t)+2v'(t)x_1^' (t)+v(t)x_1^'' (t)], [\ , "<mi//>"=v''(t)e^(-t)-2v'(t)e^(-t)+v(t)e^(-t).]
+[x''+2x'+x, "<mi//>"=[v''e^(-t)-2v'e^(-t)+ve^(-t)]+2[-ve^(-t)+v'e^(-t)]+[ve^(-t)]], [\ , "<mi//>"=e^(-t)v''], [\ , "<mi//>"=0,]
+v'' = 0.
+v = c_1 t+c_2.
+c_1 = 1
+c_2 = 0,
+v(t) = t,
+x = te^(-t).
+x''+2x'+x = 0
+x(t) = c_1 e^(-t)+c_2 te^(-t).
+ax''+bx'+cx = 0
+b^2-4ac = 0,
+x(t) = c_1 e^(lambda t)+c_2 te^(lambda t),
+lambda = -b//2a.
+[x''-5x'-14x, "<mi//>"=0], [x(0), "<mi//>"=0], [x'(0), "<mi//>"=2.]
+[6x''-11x'+3x, "<mi//>"=0], [x(0), "<mi//>"=0], [x'(0), "<mi//>"=2.]
+[x''-14x'+53x, "<mi//>"=0], [x(0), "<mi//>"=1], [x'(0), "<mi//>"=1.]
+[4x''-20x'+41x, "<mi//>"=0], [x(0), "<mi//>"=0], [x'(0), "<mi//>"=1.]
+[x''-14x'+49x, "<mi//>"=0], [x(0), "<mi//>"=1], [x'(0), "<mi//>"=0.]
+m(d^2 x)/(dt^2) +b dx/dt+kx = 0.
+m
+b
+k
+m
+k
+b >= 0.
+b = 0,
+["(4.1.6)", m(d^2 x)/(dt^2) +kx=0.]
+m lambda^2+k = 0,
+lambda = +-isqrt(k//m).
+e^(i omega t) = cos omega t+isin omega t,
+omega = sqrt(k//m).
+x(t) = c_1 cos omega t+c_2 sin omega t,
+t.
+t
+v(t) = x'(t) = -c_1 omega sin omega t+c_2 omega cos omega t.
+[ (d^2 x)/(dt^2) +9x, "<mi//>"=0], [x(0), "<mi//>"=2], [x'(0), "<mi//>"=1.]
+[x(t), "<mi//>"=2cos 3t+1/3 sin 3t], [v(t), "<mi//>"=cos 3t-6sin 3t,]
+v(t) = x'(t)
+2 pi//omega = 2 pi//3 ~~ 2.094
+["(4.1.7)", m(d^2 x)/(dt^2) +b dx/dt+kx=0.]
+b > 0.
+m lambda^2+b lambda+k = 0,
+["(4.1.8)", lambda= (-b+-sqrt(b^2-4mk))/(2m) .]
+b
+4mk,
+b^2-4mk < 0
+-b//2m,
+b
+b^2-4mk > 0,
+b^2-4mk = 0.
+[ (d^2 x)/(dt^2) +0.4 dx/dt+1.04x, "<mi//>"=0], [x(0), "<mi//>"=0], [x'(0), "<mi//>"=1.]
+b = 0.4
+k = 1.04.
+lambda^2+0.4 lambda+1.04 = 0,
+lambda = -0.2+-i.
+x(t) = e^((-0.2+-i)t) = e^(-0.2t)(cos t+isin t),
+x(t) = c_1 e^(-0.2t)cos t+c_2 e^(-0.2t)sin t.
+[x(t), "<mi//>"=e^(-0.2t)sin t], [v(t), "<mi//>"=x'(t)=e^(-0.2t)(cos t-0.2sin t).]
+2 pi//omega = 2 pi ~~ 6.283,
+[ (d^2 x)/(dt^2) +4 dx/dt+3x, "<mi//>"=0], [x(0), "<mi//>"=0], [x'(0), "<mi//>"=1.]
+lambda^2+4 lambda+3 = (lambda+3)(lambda+1) = 0;
+x(t) = c_1 e^(-t)+c_2 e^(-3t).
+[x(t), "<mi//>"=x(t)=1/2 e^(-t)-1/2 e^(-3t)], [v(t), "<mi//>"=x'(t)=-1/2 e^(-t)+3/2 e^(-3t).]
+b.
+b^2-4mk = 0.
+[ (d^2 x)/(dt^2) +4 dx/dt+4x, "<mi//>"=0], [x(0), "<mi//>"=0], [x'(0), "<mi//>"=1.]
+x(t) = c_1 e^(-2t)+c_2 te^(-2t).
+[x(t), "<mi//>"=x(t)=te^(-2t)], [v(t), "<mi//>"=x'(t)=(1-2t)e^(-2t).]
+b = 4.
+ax''+bx'+cx = 0.
+ax''+bx'+cx = 0.
+ax''+bx'+cx = 0,
+a != 0
+b^2-4ac > 0.
+ar^2+br+c
+r_1
+r_2,
+x(t) = c_1 e^(r_1 t)+c_2 e^(r_2 t).
+b^2-4ac < 0,
+ax''+bx'+cx = 0
+x(t) = c_1 e^(alpha t)cos beta t+c_2 e^(alpha t)sin beta t,
+alpha+-i beta
+ar^2+br+c = 0.
+b^2-4ac = 0,
+ax''+bx'+cx = 0
+x(t) = c_1 e^(-bt//2a)+c_2 te^(-bt//2a).
+m(d^2 x)/(dt^2) +b dx/dt+kx = 0,
+m > 0,
+k > 0,
+b >= 0.
+b^2-4mk.
+b^2-4mk < 0,
+b^2-4mk > 0,
+b^2-4mk = 0,
+ax''+bx'+cx = 0?
+(d^2 y)/(dx^2) -y = 0
+x''-2x'-8x = 0
+y''+5y = 0
+(d^2 x)/(dt^2) +6 dx/dt+5x = 0
+x''-10x'+25x = 0
+(d^2 y)/(dx^2) -2 dy/dx+4y = 0
+y''-8y'+4y = 0
+(d^2 x)/(dx^2) +3 dx/dt-10x = 0
+(d^2 Q)/(dt^2) -4(dQ)/dt+9Q = 0
+(d^2 y)/(dt^2) +6 dy/dt+9y = 0
+(d^2 y)/(dx^2) -y = 0,
+y(0) = 1,
+y'(0) = 0
+x''-2x'-8x = 0,
+x(0) = 1,
+x'(0) = 2
+y''+5y = 0,
+y(0) = 1,
+y'(0) = 1
+(d^2 x)/(dt^2) +6 dx/dt+5x = 0,
+x(0) = 2,
+x'(0) = -1
+x''-10x'+25x = 0,
+x(0) = 1,
+x'(0) = 0
+(d^2 y)/(dx^2) -2 dy/dx+4y = 0,
+x(0) = -1,
+x'(0) = 1
+y''-8y'+4y = 0,
+y(0) = 1,
+y'(0) = -2
+(d^2 x)/(dx^2) +3 dx/dt-10x = 0,
+x(0) = 1,
+x'(0) = 2
+(d^2 Q)/(dt^2) -4(dQ)/dt+9Q = 0,
+Q(0) = -1,
+Q'(0) = 2
+(d^2 y)/(dt^2) +6 dy/dt+9y = 0,
+y(0) = 0,
+y'(0) = 0
+m,
+b,
+k
+x(t)
+v(t)
+m = 1,
+b = 1
+k = 1,
+x(0) = 1,
+v(0) = 0
+m = 1,
+b = 2
+k = 3,
+x(0) = -3,
+v(0) = 4
+m = 1,
+b = 5
+k = 3,
+x(0) = 2,
+v(0) = -3
+m = 1,
+b = 0
+k = 25,
+x(0) = 2,
+v(0) = 0
+m = 2,
+b = 3
+k = 5,
+x(0) = 2,
+v(0) = -1
+m = 4,
+b = 4
+k = 1,
+x(0) = 2,
+v(0) = 1
+m = 3,
+b = 4
+k = 1,
+x(0) = 2,
+v(0) = 1
+m = 8,
+b = 4
+k = 1,
+x(0) = 2,
+v(0) = 1
+m
+L.
+mg,
+g
+-kL,
+L
+mg-kL = 0.
+x(t)
+mg
+-k(L+x).
+mx'' = mg-k(L+x).
+bx',
+F(t)
+mx'' = mg-k(L+x)+bx'+F(t).
+mg-kL = 0,
+mx''+bx'+kx = F(t).
+100
+2
+k.
+4
+1
+5
+k.
+5
+0.25
+2
+g = 32"ft//sec"^2,
+m.
+k.
+ax''+bx'+cx = 0,
+a != 0
+b^2-4ac = 0.
+x_1(t) = e^(-bt//2a)
+ax''+bx'+cx = 0.
+y = v(t)x_1(t) = v(t)e^(-bt//2a)
+ax''+bx'+cx = 0
+v(t) = c_1+c_2 t.
+x(t) = c_1 e^(-bt//2a)+c_2 te^(-bt//2a)
+ax''+bx'+cx = 0.
+[ax_1^'' +b_1^' +cx_1, "<mi//>"=a( (-b)/(2a) )^2 e^(-bt//2a)+b( (-b)/(2a) )e^(-bt//2a)+ce^(-bt//2a)], [\ , "<mi//>"=e^(-bt//2a)( (b^2)/(4a) - (b^2)/(2a) +c)], [\ , "<mi//>"=e^(-bt//2a)( (-b^2+4ac)/(4a) )], [\ , "<mi//>"=0.]
+y = v(t)x_1(t) = v(t)e^(-bt//2a)
+[ay''+by'+cy, "<mi//>"=a(v''x_1+2v'x_1^' +vx_1^'' )+b(v'x_1+vx_1^' )+cvx_1], [\ , "<mi//>"=av''x_1+2av'x_1^' +bv'x_1+v(ax_1^'' +bx_1^' +cx_1)], [\ , "<mi//>"=av''e^(-bt//2a)+[2a( (-b)/(2a) )e^(-bt//2a)+be^(-bt//2a)]v'], [\ , "<mi//>"=av''e^(-bt//2a)], [\ , "<mi//>"=0.]
+a != 0,
+v'' = 0.
+v(t) = c_1+c_2 t.
+x_1(t)
+x''+p(t)x'+q(t)x = 0.
+x(t) = v(t)x_1(t)
+x''+p(t)x'+q(t)x = 0
+["(4.1.9)", x_1 v''+(2x_1^' +px_1)v'=0.]
+u = v'
+u.
+x_1(t) = 1//t
+["(4.1.10)", 2t^2 x''+3tx'-x=0]
+t > 0
+[x''+px'+qx, "<mi//>"=(v''x_1+2v'x_1^' +vx_1^'' )+p(v'x_1+vx_1^' )+q(vx_1)], [\ , "<mi//>"=x_1 v''+2v'x_1^' +px_1 v'+v(x_1^'' +px_1^' +qx_1)], [\ , "<mi//>"=x_1 v''+(2x_1^' +px_1)v'], [\ , "<mi//>"=0.]
+u = v',
+x_1 u'+(2x_1^' +px_1)u = 0.
+x_1(t) = 1//t,
+2t^2 x_1^'' +3tx_1^' -x_1 = 2t^2(2/(t^3) )+3t( (-1)/(t^2) )-1/t = 0.
+x = v//t
+2t^2 x''+3tx'-x = 2tv''-v' = 0.
+u = v',
+2tu'-u = 0
+u = sqrt(t)
+v = int sqrt(t)dt = 2t^(3//2)//3.
+x = v/t = 2/3 sqrt(t).
+ax''+bx'+cx = 0,
+a != 0
+b^2-4ac = 0.
+x_1(t) = e^(-bt//2a)
+ax''+bx'+cx = 0.
+y = v(t)x_1(t) = v(t)e^(-bt//2a)
+ax''+bx'+cx = 0
+v(t) = c_1+c_2 t.
+x(t) = c_1 e^(-bt//2a)+c_2 te^(-bt//2a)
+ax''+bx'+cx = 0.
+y''-(2 alpha-1)y'+alpha(alpha-1)y = 0.
+alpha,
+t -> oo.
+alpha,
+t -> oo.
+[y''-2y'+5y, "<mi//>"=0], [y(pi//2), "<mi//>"=0], [y'(pi//2), "<mi//>"=2]
+[9y''-12y'+4y, "<mi//>"=0], [y(0), "<mi//>"=2], [y'(0), "<mi//>"=-1]
+[y''+8y'-9y, "<mi//>"=0], [y(1), "<mi//>"=1], [y'(1), "<mi//>"=0]
+[y''+2ay'+(a^2+1)y, "<mi//>"=0], [y(0), "<mi//>"=1], [y'(0), "<mi//>"=0]
+x_1(t)
+x''+p(t)x'+q(t)x = 0.
+x(t) = v(t)x_1(t)
+x''+p(t)x'+q(t)x = 0
+["(4.1.11)", x_1 v''+(2x_1^' +px_1)v'=0.]
+u = v'
+u.
+x_1(t) = 1//t
+["(4.1.12)", 2t^2 x''+3tx'-x=0]
+t > 0
+t^2 y''+alpha ty'+beta y = 0,
+t > 0
+alpha
+beta
+x = ln t
+t^2 y''+4ty'+2y = 0.
+[dy/dt, "<mi//>"=dx/dt dy/dx], [ (d^2 y)/(dt^2) , "<mi//>"=(dx/dt)^2(d^2 y)/(dx^2) + (d^2 x)/(dt^2) dy/dx.]
+n
+y^((n))+a_(n-1)y^((n-1))+cdots a_1 y'+a_0 y = 0
+lambda^n+a_(n-1) lambda^(n-1)+cdots a_1 lambda+a_0 = 0.
+(d^3 y)/(dt^3) -6(d^2 y)/(dt^2) +11 dy/dt-6y = 0
+lambda^3-6 lambda^2+11 lambda-6 = 0..
+(lambda-1)(lambda-2)(lambda-3) = 0.
+lambda_1 = 1,
+lambda_2 = 2,
+lambda_3 = 3.
+y = c_1 e^t+c_2 e^(2t)+c_3 e^(3t).
+y^((4))-9y''+20y = 0.
+y'''-6y''+2y'+36y = 0.
+y'''-y''+y'-y = 0.
+[dy/dt, "<mi//>"=dx/dt dy/dx], [ (d^2 y)/(dt^2) , "<mi//>"=(dx/dt)^2(d^2 y)/(dx^2) + (d^2 x)/(dt^2) dy/dx.]
+x''+2x'+x = 0
+[x''+2x'+x, "<mi//>"=0], [x(0), "<mi//>"=1], [x'(0), "<mi//>"=2]
+[x''+2x'+x, "<mi//>"=tcos 2t], [x(0), "<mi//>"=1], [x'(0), "<mi//>"=2]
+(d^2 y)/(dx^2) -y = 0
+(d^2 y)/(dx^2) -y = 0,
+y(0) = 1,
+y'(0) = 0
+(d^2 y)/(dx^2) -y = cos 2t
+(d^2 y)/(dx^2) -y = cos 2t,
+y(0) = 1,
+y'(0) = 0
+(d^2 y)/(dx^2) -y = cos t
+(d^2 y)/(dx^2) -y = cos t,
+y(0) = 1,
+y'(0) = 0
+x''-2x'-8x = 0
+x''-2x'-8x = 0,
+x(0) = 1,
+x'(0) = 2
+x''-2x'-8x = e^(-2t)
+x''-2x'-8x = e^(-2t)+e^(4t)
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+y'+p(x)y = g(x)
+["(1.5.1)", dx/dt+p(t)x=q(t).]
+p(t)
+t = 0,
+x(t)
+t.
+dx//dt
+dx/dt = "rate in"-"rate out".
+t.
+t
+V(t) = 20000-50t.
+t
+x//(20000-50t),
+1000(x/(20000-50t) ) = (20x)/(400-t) .
+t
+["(1.5.2)", dx/dt=5- (20x)/(400-t) .]
+V(t) = 20000-50t >= 0;
+0 <= t < 400.
+dx/dt+20/(400-t) x = 5.
+(400-t)^(-20),
+["(1.5.3)", (400-t)^(-20) dx/dt+20(400-t)^(-21)x=5(400-t)^(-20).]
+(400-t)^(-20) dx/dt+20(400-t)^(-21)x = d/dt((400-t)^(-20)x).
+d/dt((400-t)^(-20)x) = 5(400-t)^(-20).
+(400-t)^(-20)x = 5 int(400-t)^(-20)dt = (5(400-t)^(-19))/19+C,
+C
+x,
+x(t) = 5/19(400-t)+C(400-t)^(20).
+x(0) = 0,
+C = -(5//19)400^(-19)
+x(t) = 5/19(400-t)[1-( (400-t)/400)^(19)].
+x(t)
+t = 400.
+dx/dt+20/(400-t) x = 5
+dx/dt+p(t)x = q(t).
+[dx/dt+px, "<mi//>"=q,], [x(t_0), "<mi//>"=x_0,]
+e^(pt)
+e^(pt) dx/dt+e^(pt)px = qe^(pt).
+e^(pt) dx/dt+e^(pt)px = d/dt(x(t)e^(pt)).
+d/dt(x(t)e^(pt)) = qe^(pt),
+x(t)e^(pt) = q/p e^(pt)+C.
+C,
+C = (x_0-q/p)e^(pt_0).
+x(t) = q/p+(x_0-q/p)e^(p(t_0-t)).
+["(1.5.4)", dx/dt-2x, "<mi//>"=3,], ["(1.5.5)", x(0), "<mi//>"=1.]
+e^(-2t),
+d/dt(e^(-2t)x) = e^(-2t) dx/dt-2e^(-2t)x = 3e^(-2t).
+e^(-2t)x = 3 int e^(-2t)dt+C = -3/2 e^(-2t)+C.
+x(0) = 1,
+C = 5//2,
+x(t) = 5/2 e^(2t)-3/2.
+y'+2xy = e^(-x^2),
+y(0) = 1.
+e^(x^2)
+d/dx(e^(x^2)y) = e^(x^2)y'+2xe^(x^2)y = e^(x^2)e^(-x^2) = 1.
+e^(x^2)y = int dx+C.
+y = (x+C)e^(-x^2).
+C,
+C = 1
+y = (x+1)e^(-x^2).
+["(1.5.6)", x'+p(t)x=q(t).]
+P(t)
+P'(t) = p(t)
+e^(P(t)),
+(e^(P(t))x)' = e^(P(t))(x'(t)+p(t)x(t)) = e^(P(t))q(t).
+e^(P(t))x = int e^(P(t))q(t)dt+C
+x = 1/(e^(P(t))) (int e^(P(t))q(t)dt+C).
+P(t) = int p(t)dt.
+mu(t) = e^(int p(t)dt) = exp(int p(t)dt)
+[dy/dx-2/x y=2x^2], [y(-2)=4.]
+mu(x) = exp(-int 2/x dx) = e^(-2ln x) = e^(ln x^(-2)) = x^(-2).
+mu(x) = x^(-2),
+x^(-2)(dy/dx-2/x y) = 2
+d/dx(x^(-2)y) = x^(-2) dy/dx-2x^(-3)y = 2.
+x^(-2)y = 2x+C.
+y(-2) = 4
+C = 5.
+y = 2x^3+5x^2.
+y' = 3y+t;
+y(0) = 1
+x' = tx+2t;
+x(1) = 2
+y' = 2x-3y+e^(-x);
+y(0) = 1
+(du)/dt = (t-1)/t u+t^2;
+u(1) = 0
+y' = sin x-y;
+y(0) = 1
+t
+t,
+x(t),
+x(0) = 5,
+[ (dx)/(dt) , "<mi//>"="rate of salt flowing in"-"rate of salt flowing out"], [\ , "<mi//>"=ubrace 5_("in flow")-ubrace(4 x/(V(t)) )_("out flow"),]
+V(t)
+t.
+x//V(t)
+t.
+V(t) = 50+t,
+dx/dt = 5-4/(50+t) x.
+["(1.5.7)", dx/dt+4/(50+t) x=5.]
+mu(t) = exp(int 4/(50+t) dt) = e^(4ln(50+t)) = (50+t)^4.
+mu(t),
+(50+t)^4 dx/dt+4(t+50)^3 x = 5(50+t)^4.
+d/dt[(50+t)^4 x] = 5(50+t)^4.
+x = t+50+C/((t+50)^4) .
+x(0) = 5
+C = -281,250,000
+x(t) = t+50-281250000/((t+50)^4) .
+t = 50
+x(50) = 97.188
+t.
+P(t)
+t
+r
+W
+t
+t+Delta t
+P(t+Delta t)-P(t) ~~ rP Delta t-W Delta t
+P'(t) = lim_(Delta t->0) (P(t+Delta t)-P(t))/(Delta t) = rP-W.
+P' = rP-W
+mu(t) = exp(-int rdt) = e^(-rt).
+d/dt[e^(-rt)P] = -We^(-rt).
+e^(-rt)P = W/r e^(-rt)+C
+P = W/r+Ce^(rt).
+P(0) = P_0,
+C.
+P_0 = W/r+C
+C = P_0-W/r.
+P = W/r+(P_0-W/r)e^(rt).
+[ (dP)/(dt) , "<mi//>"=0.04P-20000], [P(0), "<mi//>"=50000.]
+dP//dt-0.04P = -20000,
+mu(t) = e^(-0.04t),
+e^(-0.04t) (dP)/dt-0.04e^(-0.04t)P = d/dt[e^(-0.04t)P] = -20000e^(-0.04t).
+e^(-0.04t)P = 20000/0.04 e^(-0.04t)+C = 500000e^(-0.04t)+C.
+P(t) = 20000/0.04+(50000-20000/0.04)e^(0.04t) = 500000-450000e^(0.04t).
+y'+p(t)y = g(t)
+y(t_0) = y_0,
+p(t)
+g(t)
+I = (alpha, beta),
+y = varphi(t)
+I.
+mu(t) = exp(int p(t)dt),
+d/dt(mu(t)y) = mu(t)(dy/dt+p(t)y) = mu(t)g(t).
+y,
+["(1.5.8)", y=1/(mu(t)) (int mu(t)g(t)dt+C).]
+y(t_0) = y_0,
+C
+y'+p(t)y = g(t).
+y'+p(x)y = g(x)
+mu(s) = e^(int p(x)dx).
+(e^(P(x))y)' = e^(P(x))(y'(x)+p(x)y(x)) = e^(P(x))g(x).
+e^(P(x))y = int e^(P(x))g(x)dx
+y = 1/(e^(P(x))) int e^(P(x))g(x)dx.
+y'+p(t)y = g(t)
+y(t_0) = y_0,
+p(t)
+g(t)
+I = (alpha, beta),
+y = varphi(t)
+I.
+dy/dx+5y = 0
+x'-7x = 0
+y'+2xy = 0
+dx/dt-t^2 x = 0
+y'+2/x y = 0
+dy/dx-5y = e^x
+y'-5y = 10x
+dx/dt-5x = sin 2t
+y'-3/(x^2) y = 1/(x^2)
+dy/dx+2/x y = (sin x)/(x^2)
+dy/dx+5y = 0,
+y(0) = 2
+x'-7x = 0,
+x(0) = 1
+y'+2xy = 0,
+y(0) = 3
+dx/dt-t^2 x = 0,
+x(0) = -1
+y'+2/x y = 0,
+y(1) = -3
+y' = - (2y)/(x+1) +2x,
+y(0) = 2
+y = (3x^4+8x^3+6x^2+12)/(6(x+1)^2)
+y' = - (2y)/(1+x) +e^x,
+y(0) = 1
+y = (e^x+1)//(x+1)^2
+dx/dt-5x = sin 2t,
+x(0) = pi
+y' = ytan x+ (e^x)/(cos x) ,
+y(0) = 1
+y = e^x sec x
+y' = -y/(x+2) + (cos x)/(x+2) ,
+y(0) = 1
+y = sin x//(x+2)
+x(t)
+t,
+x(0) = 10.
+V = 200+5t.
+t
+[ (dx)/(dt) , "<mi//>"="rate in"-"rate out"], [\ , "<mi//>"=10(0.1)-5 x/V], [\ , "<mi//>"=1-5 x/(200+5t) ], [\ , "<mi//>"=1-x/(40+t) .]
+dx/dt+1/(40+t) x = 1
+mu(t) = exp(int 1/(40+t) dt) = 40+t.
+mu(t),
+d/dt[(40+t)x] = (40+t) dx/dt+x = (40+t)(dx/dt+1/(40+t) x) = 40+t.
+(40+t)x = 40t+ (t^2)/2+C.
+x(0) = 10,
+C = 400
+x(t) = (t^2+80t+800)/(2t+80) .
+t = 400//5 = 80,
+x(80) = 170//3 ~~ 56.67
+t = 0
+V = 23,600"\km"^3,
+r_("in") = r_("out") = r = 60"\km"^3//"year"
+C = C_("in")
+C_("out")
+x(t)
+t
+x_0 = x(0) = 6CV
+Delta x
+[t, t+Delta t],
+Delta t > 0
+Delta x
+t.
+y = 1/(mu(t)) (int mu(t)g(t)dt+C)
+y'+p(t)y = g(t).
+M(x, y)dx+N(x, y)dy = 0,
+g(x, y)
+dg(x, y) = M(x, y)dx+N(x, y)dy.
+M(x, y)
+N(x, y)
+xy
+M(x, y)dx+N(x, y)dy = 0
+(del M(x,y))/(del y) = (del N(x,y))/(del x) .
+2xydx+(1+x^2)dy = 0
+2xydx+(1+x^2)dy = 0.
+M(x, y)dx+N(x, y)dy = 0
+mu(x, y)[M(x, y)dx+N(x, y)dy] = 0.
+-1//x^2
+ydx-xdy.
+1//y^2
+ydx-xdy.
+-1//(xy)
+ydx-xdy.
+-1//(x^2+y^2)
+ydx-xdy.
+(y^2-xy^2)dx+(x+x^2 y^2)dy.
+(ydx+xdy)+(-xy^2 dx+x^2 y^2 dy) = 0
+mu(x, y) = 1//(xy)^2.
+["(1.5.9)", y'+p(t)y=g(t).]
+g(t)
+y = Aexp[-int p(t)dt],
+A
+g(t)
+["(1.5.10)", y=A(t)exp[-int p(t)dt],]
+A
+t.
+y
+A(t)
+["(1.5.11)", A'(t)=g(t)exp[int p(t)dt].]
+A(t)
+A(t)
+y.
+y = 1/(mu(t)) (int mu(t)g(t)dt+C),
+mu(t) = exp(int p(t)dt).
+y' = a(t)y+f(t)y^n,
+n != 0
+z = y^(1-n),
+z' = (1-n)a(t)z+(1-n)f(t).
+xy'+y = x^4 y^3.
+["(1.5.12)", y'=p(t)+q(t)y+r(t)y^2]
+y_1(t)
+y = y_1(t)+1//v(t)
+v
+t,
+v'+[q(t)+2r(t)y_1(t)]v = -r(t).
+y' = -1/(t^2) -1/t y+y^2
+y_1 = 1//t.
+y' = cos t-ytan t+y^2 sec t
+y_1 = sin t.
+y' = 2-3y+y^2
+y_1 -= 2.
+y = y_1+1//v,
+y' = y_1^' -v'//v^2.
+y' = y_1^' - (v')/(v^2) = p+qy_1+ry_1^2- (v')/(v^2) .
+[y', "<mi//>"=p+q(y_1+1/v)+r(y_1+1/v)^2], [\ , "<mi//>"=p+qy_1+q/v+ry_1^2+ (2ry_1)/v+r/(v^2) ], [\ , "<mi//>"=y_1^' +q/v+ (2ry_1)/v+r/(v^2) .]
+- (v')/(v^2) = q/v+ (2ry_1)/v+r/(v^2) ,
+v'+[q(t)+2r(t)y_1(t)]v = -r(t).
+y = t+1/(C-t)
+y(t) = 1/(Ccos t-sin t) +sin t
+y(t) = 2+1/(Ce^t-1)
+["(1.5.13)", (dP)/(dt) =k(1-P/N)(P-aN),]
+P
+t
+N
+k
+a
+a < 1.
+dy/dt = y-4t+y^2-8yt+16t^2+4.
+(du)/dt = f(u)
+u = y-4t.
+u' = f(u),
+u' = f(u).
+ty
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+[ (dx)/(dt) , "<mi//>"= (del H)/(del y) (x,y)], [ (dy)/(dt) , "<mi//>"=- (del H)/(del x) (x,y),]
+H:RR^2 -> RR^2
+H
+[ (dx)/(dt) , "<mi//>"= (del H)/(del y) (x,y)], [ (dy)/(dt) , "<mi//>"=- (del H)/(del x) (x,y),]
+H
+H.
+H
+my''+ky = 0,
+[y', "<mi//>"=v], [v', "<mi//>"=-k/m y.]
+(y(t), v(t))
+yv
+dv//dy.
+d/dx f^(-1)(x) = 1/(f'(x)) ,
+(dv)/dy = (dv)/dt*dt/dy = (dv//dt)/(dy//dt) = - (ky)/(mv) .
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y),]
+dy/dx = (g(x,y))/(f(x,y)) .
+(dv)/dy = - (ky)/(mv) ,
+["(5.2.1)", 1/2 mv^2+1/2 ky^2=C,]
+C
+K = 1/2 mv^2,
+U = int_0^y ksds = 1/2 ky^2.
+E = K+U = 1/2 mv^2+1/2 ky^2
+L
+m
+theta(t),
+theta(0)
+t
+(Lsin theta(t), -Lcos theta(t)),
+L(d theta//dt),
+L(d^2 theta)/(dt^2) .
+-bL(d theta)/dt,
+b >= 0.
+mL(d^2 theta)/(dt^2) = -bL(d theta)/dt-mgsin theta
+(d^2 theta)/(dt^2) +b/m(d theta)/dt+g/L sin theta = 0.
+[ (d theta)/dt, "<mi//>"=v], [ (dv)/dt, "<mi//>"=-b/m v-g/L sin theta.]
+[ (d theta)/dt, "<mi//>"=v], [ (dv)/dt, "<mi//>"=-g/L sin theta.]
+(dv)/(d theta) = - (gsin theta)/(Lv) ,
+E(theta, v) = 1/2 v^2-g/L cos theta.
+E(theta, v)
+[ (dx)/(dt) , "<mi//>"= (del H)/(del y) (x,y)], [ (dy)/(dt) , "<mi//>"=- (del H)/(del x) (x,y),]
+H:RR^2 -> RR
+[dx/dt, "<mi//>"=-2x-3y^2], [dy/dt, "<mi//>"=-3x^2+2y]
+H(x, y) = x^3-2xy-y^3
+[ (del H)/(del y) , "<mi//>"=-2x-3y^2], [ (del H)/(del x) , "<mi//>"=-(-3x^2+2y).]
+H
+E = K+U = 1/2 mv^2+1/2 ky^2.
+[ (del E)/(del v) , "<mi//>"=y'=mv], [- (del E)/(del y) , "<mi//>"=v'=-ky.]
+y = my
+[y', "<mi//>"=v], [v', "<mi//>"=-k/m y.]
+[ (del E)/(del v) , "<mi//>"= (d theta)/dt=v], [- (del E)/(del theta) , "<mi//>"= (dv)/dt=-g/L sin theta,]
+E(theta, v) = 1/2 v^2-g/L cos theta.
+[ (dx)/(dt) , "<mi//>"= (del H)/(del y) (x,y)], [ (dy)/(dt) , "<mi//>"=- (del H)/(del x) (x,y),]
+H:RR^2 -> RR.
+H
+(x(t), y(t))
+[ (dH)/(dt) , "<mi//>"= (del H)/(del x) (dx)/(dt) + (del H)/(del y) (dy)/(dt) ], [\ , "<mi//>"= (del H)/(del x) ( (del H)/(del y) )+ (del H)/(del y) (- (del H)/(del x) )], [\ , "<mi//>"=0.]
+H
+RR^2,
+H(x, y) = C.
+H
+H
+[ (del H)/(del y) , "<mi//>"=-2x-3y^2], [ (del H)/(del x) , "<mi//>"=-(-3x^2+2y).]
+x' = x-3y^2
+y' = -y
+[ (d theta)/dt, "<mi//>"=v], [ (dv)/dt, "<mi//>"=-g/L sin theta.]
+["(5.2.2)", H(theta,v)=E(theta,v)=1/2 v^2-g/L cos theta.]
+g//L = 1,
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y),]
+H(x, y)
+[ (del H)/(del y) , "<mi//>"=f(x,y)], [ (del H)/(del x) , "<mi//>"=-g(x,y).]
+(del f)/(del x) = (del^2 H)/(del x del y) = (del^2 H)/(del y del x) = - (del g)/(del y) .
+(del f)/(del x) = - (del g)/(del y) ,
+[dx/dt, "<mi//>"=-2x-3y^2], [dy/dt, "<mi//>"=-3x^2+2y]
+(del f)/(del x) = - (del g)/(del y) = -2.
+(del f)/(del x) = - (del g)/(del y) ,
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y),]
+del f//del x = -del g//del y.
+f(x, y) = (del H)/(del y) (x, y),
+H(x, y) = int f(x, y)dy+varphi(x).
+H
+x,
+(del H)/(del x) (x, y) = (del)/(del x) int f(x, y)dy+varphi'(x) = -g(x, y).
+varphi(x)
+varphi'(x) = -g(x, y)- (del)/(del x) int f(x, y)dy.
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y),]
+f
+g
+["(5.2.3)", (del f)/(del x) =- (del g)/(del y) .]
+R,
+R
+H(x, y) = int f(x, y)dy+varphi(x),
+varphi'(x) = - (del)/(del x) (int f(x, y)dy)-g(x, y).
+[dx/dt, "<mi//>"=-2x-3y^2], [dy/dt, "<mi//>"=-3x^2+2y]
+H(x, y) = int f(x, y)dy+varphi(x) = int(-2x-3y^2)dy+varphi(x) = -2xy-y^3+varphi(x).
+[varphi'(x), "<mi//>"=-g(x,y)- (del)/(del x) int f(x,y)dy], [\ , "<mi//>"=-(-3x^2+2y)- (del)/(del x) (-2xy-y^3)], [\ , "<mi//>"=3x^2-2y+2y], [\ , "<mi//>"=3x^2,]
+varphi(x) = x^3+C,
+C
+C = 0,
+H(x, y) = -2xy-y^3+varphi(x) = -2xy-y^3+x^3.
+[dx/dt, "<mi//>"=-x^2 cos ysin x], [dy/dt, "<mi//>"=x^2 cos xsin y+2x(sin xsin y-1).]
+(del f)/(del x) = x^2 cos xcos y-2xcos ysin x = - (del g)/(del y)
+[H(x,y), "<mi//>"=int f(x,y)dy+varphi(x)], [\ , "<mi//>"=int(-x^2 cos y sin x)dy+varphi(x)], [\ , "<mi//>"=-x^2 sin x sin y+varphi(x).]
+[varphi'(x), "<mi//>"=-g(x,y)- (del)/(del x) int f(x,y)dy], [\ , "<mi//>"=-(x^2 cos xsin y+2x(sin xsin y-1))], [\ , "<mi//>"-(2xsin xsin y-x^2 cos xsin y)], [\ , "<mi//>"=2x,]
+varphi(x) = x^2+C.
+C = 0,
+H(x, y) = x^2-x^2 sin xsin y = x^2(1-sin xsin y).
+H(x, y)
+H(x, y).
+[dx/dt, "<mi//>"=-e^x sin y], [dy/dt, "<mi//>"=-e^x cos y]
+[dx/dt, "<mi//>"=x^2 cos xsin y], [dy/dt, "<mi//>"=-x^2 cos ysin x+2x(cos xcos y-1)]
+[dx/dt, "<mi//>"=-2x-3y^2], [dy/dt, "<mi//>"=-3x^2+2y]
+(0, 0)
+(-2//3, 2//3).
+(0, 0)
+(-2//3, 2//3)
+H(x, y) = x^3-2xy-y^3,
+(x_0, y_0)
+[ (dx)/(dt) , "<mi//>"=f(x,y)= (del H)/(del y) (x,y)], [ (dy)/(dt) , "<mi//>"=g(x,y)=- (del H)/(del x) (x,y).]
+(x_0, y_0),
+J = ([f_x(x_0,y_0), f_y(x_0,y_0)], [g_x(x_0,y_0), g_y(x_0,y_0)]) = ([H_(yx)(x_0,y_0), H_(yy)(x_0,y_0)], [-H_(xx)(x_0,y_0), -H_(xy)(x_0,y_0)]).
+[alpha, "<mi//>"=H_(xy)(x_0,y_0)=H_(yx)(x_0,y_0)], [beta, "<mi//>"=H_(yy)(x_0,y_0)], [gamma, "<mi//>"=-H_(xx)(x_0,y_0),]
+J
+([alpha, beta], [gamma, -alpha]).
+lambda^2-alpha^2-beta gamma.
+lambda = +-sqrt(alpha^2+beta gamma),
+alpha^2+beta gamma > 0,
+alpha^2+beta gamma = 0,
+alpha^2+beta gamma < 0,
+J = ([H_(yx)(x_0,y_0), H_(yy)(x_0,y_0)], [-H_(xx)(x_0,y_0), -H_(xy)(x_0,y_0)]) = ([-2, -6y_0], [-6x_0, 2]).
+(0, 0),
+lambda = +-2,
+(x_0, y_0) = (-2//3, 2//3)
+J = ([-2, -4], [-4, 2]).
+J
+lambda = +-2sqrt(5)i.
+(-2//3, 2//3)
+(d^2 theta)/(dt^2) +b/m(d theta)/dt-g/L sin theta = 0.
+[ (d theta)/dt, "<mi//>"=v], [ (dv)/dt, "<mi//>"=-b/m v-g/L sin theta.]
+[ (dx)/(dt) , "<mi//>"= (del H)/(del y) (x,y)], [ (dy)/(dt) , "<mi//>"=- (del H)/(del x) (x,y),]
+H:RR^2 -> RR^2
+[ (dx)/(dt) , "<mi//>"= (del H)/(del y) (x,y)], [ (dy)/(dt) , "<mi//>"=- (del H)/(del x) (x,y),]
+H
+H.
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y),]
+(del f)/(del x) = - (del g)/(del y) .
+f_x = -g_y
+R,
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y),]
+R
+H(x, y) = int f(x, y)dy+varphi(x),
+varphi'(x) = - (del)/(del x) (int f(x, y)dy)-g(x, y).
+H(x, y)
+H(x, y).
+[dx/dt, "<mi//>"=3y^2], [dy/dt, "<mi//>"=-3x^2]
+[dx/dt, "<mi//>"=3y^2-4x], [dy/dt, "<mi//>"=3x^2+4y]
+[dx/dt, "<mi//>"=xcos y+2y], [dy/dt, "<mi//>"=-sin y]
+[dx/dt, "<mi//>"=-xsin y-cos y], [dy/dt, "<mi//>"=-cos y]
+m
+l
+[ (d theta)/dt, "<mi//>"=v], [ (dv)/dt, "<mi//>"=-g/l sin theta.]
+(0, 0)?
+g = 9.8
+"<mi//>"^2,
+l
+m
+(0, 0),
+l
+2l,
+l
+[x', "<mi//>"=x^2-1], [y', "<mi//>"=-xy+a(x^2-1),]
+a < 0.
+[x', "<mi//>"=y^2+cos x], [y', "<mi//>"=1+2x+ysin x.]
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+[ (d theta)/dt, "<mi//>"=v], [ (dv)/dt, "<mi//>"=-b/m v-g/L sin theta.]
+dH//dt,
+H
+H
+(d^2 theta)/(dt^2) +b/m(d theta)/dt+g/L sin theta = 0.
+["(5.3.1)", (d theta)/dt, "<mi//>"=v], ["(5.3.2)", (dv)/dt, "<mi//>"=-b/m v-g/L sin theta.]
+(del v)/(del theta) = 0,
+- (del)/(del v) (-b/m v-g/L sin theta) = b/m != 0.
+[ (d theta)/dt, "<mi//>"=v=0], [ (dv)/dt, "<mi//>"=-b/m v-g/L sin theta=0.]
+theta
+v = 0,
+v
+v = - (mg)/(bL) sin theta.
+(theta, v) = (0, 0), (+-pi, 0), (+-2 pi, 0), ....
+theta = 2 pi n
+theta = (2n+1) pi
+([0, 1], [-(g//L)cos theta, -b//m]).
+(theta, v) = (0, 0), (+-2 pi, 0), (+-4 pi, 0), ...,
+J_1 = ([0, 1], [-g//L, -b//m]).
+(theta, v) = (+-pi, 0), (+-3 pi, 0), (+-5 pi, 0), ...,
+J_2 = ([0, 1], [g//L, -b//m]).
+J_1
+lambda^2+b/m lambda+g/L.
+J_1
+["(5.3.3)", lambda=-b/(2m) +-sqrt((b/(2m) )^2-g/L).]
+Delta = (b/(2m) )^2-g/L.
+Delta < 0,
+Delta > 0,
+(b/(2m) )^2-g/L < (b/(2m) )^2,
+(b/(2m) ) > sqrt((b/(2m) )^2-g/L).
+Delta = 0,
+b
+Delta < 0
+(theta, v) = (+-pi, 0), (+-3 pi, 0), (+-5 pi, 0), ....
+J_2
+lambda^2+b/m lambda-g/L;
+J_2
+["(5.3.4)", lambda=-b/(2m) +-sqrt((b/(2m) )^2+g/L).]
+(b/(2m) )^2+g/L > 0.
+[lambda_1, "<mi//>"=-b/(2m) +sqrt((b/(2m) )^2+g/L)>0], [lambda_2, "<mi//>"=-b/(2m) -sqrt((b/(2m) )^2+g/L)<0.]
+H(theta, v) = 1/2 v^2-g/L cos theta
+[ (d theta)/dt, "<mi//>"=v], [ (dv)/dt, "<mi//>"=-g/L sin theta,]
+dH//dt = 0.
+b > 0,
+[ (d theta)/dt, "<mi//>"=v], [ (dv)/dt, "<mi//>"=-b/m v-g/L sin theta.]
+[ (dH)/(dt) , "<mi//>"= (del H)/(del theta) (d theta)/(dt) + (del H)/(del v) (dv)/(dt) ], [\ , "<mi//>"=(g/L sin theta)v+v(-b/m v-g/L sin theta)], [\ , "<mi//>"=-b/m v^2<=0.]
+H
+v != 0.
+theta v
+H
+H
+b//m
+v
+H
+H
+L(x, y)
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y)]
+(x(t), y(t)),
+(dL)/dt <= 0,
+t
+[dy/dt, "<mi//>"=v], [ (dv)/dt, "<mi//>"=-qy-pv.]
+p = 0,
+H(y, v) = 1/2 v^2+q/2 y^2
+H
+p > 0
+(y(t), v(t))
+[ (dH)/(dt) (y,v), "<mi//>"= (del H)/(del y) (dy)/(dt) + (del H)/(del v) (dy)/(dt) ], [\ , "<mi//>"=(qy)v+v(-qy-pv)], [\ , "<mi//>"=-pv^2<=0.]
+H(y(t), v(t))
+v = 0
+H
+H
+yv
+H
+["(5.3.5)", dx/dt, "<mi//>"=y+alpha x(x^2+y^2)], ["(5.3.6)", dy/dt, "<mi//>"=-x+alpha y(x^2+y^2)]
+alpha
+J = ([3 alpha x^2+alpha y^2, 1+2 alpha xy], [-1+2 alpha xy, alpha x^2+3 alpha y^2]).
+J = ([0, 1], [-1, 0])
+[dx/dt, "<mi//>"=y], [dy/dt, "<mi//>"=-x.]
+J = ([0, 1], [-1, 0]),
++-i,
+alpha.
+alpha.
+alpha = 5,
+t -> oo
+t -> -oo,
+alpha = -5
+t -> oo.
+alpha = 5.
+alpha = -5.
+(x(t), y(t))
+r(t) = sqrt(x(t)^2+y(t)^2)
+xy
+r
+t -> +-oo,
+r.
+r(t)^2 = x(t)^2+y(t)^2.
+[d/dt r^2, "<mi//>"=d/dt(x(t)^2+y(t)^2)], [\ , "<mi//>"=2x dx/dt+2y dy/dt], [\ , "<mi//>"=2x(y+alpha x(x^2+y^2))+2y(-x+alpha y(x^2+y^2))], [\ , "<mi//>"=2 alpha(x^2+y^2)^2], [\ , "<mi//>"=2 alpha r^4.]
+(r^2)' = 2rr',
+["(5.3.7)", r'=alpha r^3]
+r != 0.
+r(t) = 1/(sqrt(C-2 alpha t)) .
+alpha > 0
+t -> -oo,
+r(t) -> 0.
+alpha = -5.
+(x(t), y(t)),
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y),]
+V(x, y)
+V
+dV//dt = 0.
+[ (dV)/(dt) (x(t),y(t)), "<mi//>"= (del V)/(del x) (dx)/(dt) + (del V)/(del y) (dy)/(dt) ], [\ , "<mi//>"= (del V)/(del x) f(x,y)+ (del V)/(del y) g(x,y).]
+dot V = (del V)/(del x) f(x, y)+ (del V)/(del y) g(x, y),
+(dV)/dt(x(t), y(t)) = dot V(x(t), y(t)).
+V
+dot V(x, y) > 0
+dot V(x, y) < 0.
+V:RR^2 -> RR
+grad V = ( (del V)/(del x) , (del V)/(del y) ).
+bb F(x, y) = ([f(x,y)], [g(x,y)]),
+dot V = grad V*bb F,
+V
+bb F.
+V
+V(x, y)
+RR^3
+V(x, y) = "constant"
+xy
+V
+V
+V.
+dot V(x, y) > 0,
+V
+bb F
+(x, y)
+RR^3
+dot V(x, y) < 0,
+(x, y)
+V
+S
+xy
+bb x_0 = (x_0, y_0)
+S.
+V
+V(bb x) > 0
+bb x
+S,
+bb x != bb x_0,
+V
+V(bb x) >= 0.
+V
+V(bb x) < 0
+V(bb x) <= 0,
+[y', "<mi//>"=v], [v', "<mi//>"=-k/m y-b/m v,]
+E(y, v) = 1/2 mv^2+1/2 ky^2,
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y)]
+(x_0, y_0).
+V
+U
+(x_0, y_0)
+(x_0, y_0).
+dot V
+U,
+(x_0, y_0)
+dot V
+U,
+(x_0, y_0)
+[dx/dt, "<mi//>"=y+alpha x(x^2+y^2)], [dy/dt, "<mi//>"=-x+alpha y(x^2+y^2).]
+V(x, y) = x^2+y^2
+RR^2,
+[dot V, "<mi//>"= (del V)/(del x) (x,y)f(x,y)+ (del V)/(del y) (x,y)g(x,y)], [\ , "<mi//>"=2x(y+alpha x(x^2+y^2))+2y(-x+alpha y(x^2+y^2))], [\ , "<mi//>"=2 alpha(x^2+y^2)^2.]
+alpha < 0,
+dot V
+RR^2.
+V
+U,
+S
+xy
+S
+grad S = ( (del S)/(del x) , (del S)/(del y) ).
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y)]
+[f(x,y), "<mi//>"= (del S)/(del x) ], [g(x,y), "<mi//>"= (del S)/(del y) .]
+[dx/dt, "<mi//>"=x-x^3], [dy/dt, "<mi//>"=-y]
+S(x, y) = (x^2)/2- (x^4)/4- (y^2)/2+8.
+(x(t), y(t))
+(dS)/dt = (del S)/(del x) dx/dt+ (del S)/(del y) dy/dt = (x-x^3)^2+y^2 >= 0.
+S
+S
+S
+[ (dx)/(dt) , "<mi//>"= (del S)/(del x) ], [ (dy)/(dt) , "<mi//>"= (del S)/(del y) ]
+(dS)/dt(x(t), y(t)) = (del S)/(del x) dx/dt+ (del S)/(del y) dy/dt = ( (del S)/(del x) )^2+( (del S)/(del y) )^2 >= 0,
+S
+S(x(t), y(t)).
+(f, g)
+J = ([f_x, f_y], [g_x, g_y]) = ([S_(xx), S_(xy)], [S_(yx), S_(yy)]).
+S_(xy) = S_(yx),
+J
+J = ([alpha, beta], [beta, gamma]),
+alpha = S_(xx),
+beta = S_(xy),
+gamma = S_(yy).
+J
+lambda^2-(alpha+gamma) lambda+alpha gamma-beta^2.
+lambda = 1/2(alpha+beta)+-1/2 sqrt((alpha-gamma)^2+4 beta^2).
+x^2+y^2
+[dx/dt, "<mi//>"=-x+y], [dy/dt, "<mi//>"=-x-y.]
+[ (d theta)/dt, "<mi//>"=v], [ (dv)/dt, "<mi//>"=-b/m v-g/L sin theta.]
+dH//dt,
+H
+H
+V
+S
+xy
+bb x_0 = (x_0, y_0)
+S
+V(bb x_0) = 0.
+V
+V(bb x) > 0
+bb x
+S,
+bb x != bb x_0.
+V
+V(bb x) >= 0
+bb x
+S.
+V
+V(bb x) < 0
+bb x
+S,
+bb x != bb x_0.
+V
+V(bb x) <= 0
+bb x
+S.
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y)]
+(x_0, y_0).
+V
+U
+(x_0, y_0)
+(x_0, y_0).
+dot V
+U,
+(x_0, y_0)
+dot V
+U,
+(x_0, y_0)
+V
+[dx/dt, "<mi//>"=f(x,y)], [dy/dt, "<mi//>"=g(x,y)]
+[f(x,y), "<mi//>"= (del S)/(del x) ], [g(x,y), "<mi//>"= (del S)/(del y) ,]
+S
+xy
+(dS)/dt(x(t), y(t)) = ( (del S)/(del x) )^2+( (del S)/(del y) )^2 >= 0,
+S
+S(x(t), y(t)).
+(0, 0).
+V(x, y) = 2x^2+y^2
+V(x, y) = -3x^2
+V(x, y) = x^2+y
+V(x, y) = 9x^2-6xy+y^2
+V(x, y) = -2x^2-y^2
+V(x, y) = -(x+y)^2
+[dx/dt, "<mi//>"=-x+y^2], [dy/dt, "<mi//>"=3x^2-2y.]
+V(x, y) = (x^2)/2+ (y^2)/4
+dot V(x, y).
+V.
+[dx/dt, "<mi//>"=y], [dy/dt, "<mi//>"=-sin x.]
+V(x, y) = (y^2)/2-cos x+1
+dot V(x, y).
+V.
+[dx/dt, "<mi//>"=y], [dy/dt, "<mi//>"=-x-y/4+x^2.]
+V(x, y) = (y^2)/2+ (x^2)/2- (x^3)/3
+V.
+[dx/dt, "<mi//>"=12x^2-6xy^2], [dy/dt, "<mi//>"=-6x^2 y+2y]
+[dx/dt, "<mi//>"=10xy-ycot x], [dy/dt, "<mi//>"=5x^2-tan x]
+[dx/dt, "<mi//>"=2cos xcos y], [dy/dt, "<mi//>"=-2sin xsin y.]
+[dx/dt, "<mi//>"=3x+4y], [dy/dt, "<mi//>"=-4x+3y]
+S = x^2+2y^3.
+S?
+S
+S
+-5 <= x <= 5
+-5 <= y <= 5.
+-5 <= x <= 5
+-5 <= y <= 5.
+S = x^3-2xy^2.
+S?
+S
+S
+-5 <= x <= 5
+-5 <= y <= 5.
+-5 <= x <= 5
+-5 <= y <= 5.
+S = xcos y+ycos x.
+S?
+S
+S
+-5 <= x <= 5
+-5 <= y <= 5.
+-5 <= x <= 5
+-5 <= y <= 5.
+(x(t), y(t))
+t,
+(x'(t), y'(t)),
+t.
+S(x, y)
+S.
+S,
+(del S//del x, del S//del y).
+[ (dx)/(dt) , "<mi//>"= (del S)/(del x) ], [ (dy)/(dt) , "<mi//>"= (del S)/(del y) .]
+S(x, y)
+-3 <= x <= 3
+-3 <= y <= 3
+S(x, y) = (y^2)/2- (y^4)/4- (x^2)/2+6.
+S?
+d/dt S(x(t), y(t)) = (del S)/(del x) dx/dt+ (del S)/(del y) dy/dt >= 0.
+S
+grad S != 0.
+S
+-3 <= x <= 3
+-3 <= y\ leq3.
+[ (dx)/(dt) , "<mi//>"= (del S)/(del x) ], [ (dy)/(dt) , "<mi//>"= (del S)/(del y) .]
+S(x, y) = x^2+y^2- (x^4+y^4)/4-5x^2 y^2+50,
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+x'(t) = f(t, x), x(0) = x_0
+(dP)/dt = k(1-P/N)P
+mx''+bx'+kx = 0
+dy/dx = M(x)N(y)
+dx/dt+p(t)x = q(t)
+dx/dt = f_ lambda(x)
+bb x(t)
+(dbb x)/dt = bb f(t, bb x), bb x(t_0) = bb x_0
+dx/dt = f(x), dy/dt = g(x, y)
+(dbb x)/dt = Abb x
+A^(-1)
+A
+det(A)
+A
+bb x^T
+det(A-lambda I) = lambda^2-(a+d) lambda+(ad-bc)
+"tr"(A)
+A
+I
+e^(i beta t) = cos beta t+isin beta t
+bb x_("Re")
+bb x_("Im")
+bar lambda
+e^A
+e^A
+a(t)x''+b(t)x'+c(t)x = g(t)
+p(lambda) = det(A-lambda I) = lambda^2+b/a lambda+c/a
+W[f, g](t)
+omega_0
+omega
+bar omega
+delta
+H(lambda)
+G(omega)
+J
+H
+cc L(f)(s)
+u_a(t) = u(t-a)
+cc L^(-1)(F(s))(t)
+Gamma(x)
+delta
+f**g
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+bb x' = Abb x
+A,
+A
+n xx n
+RR^3
+m_1
+m_2,
+k.
+x_1(t)
+x_2(t)
+m_1
+m_2,
+m_1
+t
+-kx_1
+k(x_2-x_1).
+m_1 x_1^'' = -kx_1+k(x_2-x_1).
+m_2,
+m_2 x_2^'' = -k(x_2-x_1)-kx_2.
+[m_1 x_1^'' , "<mi//>"=-2kx_1+kx_2], [m_2 x_2^'' , "<mi//>"=kx_1-2kx_2.]
+x_3
+x_4
+x_3 = x_1^'
+x_4 = x_2^' ,
+[x_1^' , "<mi//>"=x_3], [x_2^' , "<mi//>"=x_4], [x_3^' , "<mi//>"=-2 k/(m_1) x_1+k/(m_1) x_2], [x_4^' , "<mi//>"=k/(m_2) x_1-2 k/(m_2) x_2]
+bb x' = Abb x,
+A = ([0, 0, 1, 0], [0, 0, 0, 1], [-2k//m_1, k//m_1, 0, 0], [k//m_2, -2k//m_2, 0, 0]).
+[x_1^' , "<mi//>"=a_(11)x_1+cdots a_(1n)x_n], [x_2^' , "<mi//>"=a_(21)x_1+cdots a_(2n)x_n], [\ , "<mi//>" vdots], [x_n^' , "<mi//>"=a_(n1)x_1+cdots a_(nn)x_n]
+bb x' = Abb x,
+A = ([a_(11), a_(12), cdots, a_(1n)], [a_(21), a_(22), cdots, a_(2n)], [vdots, vdots, ddots, vdots], [a_(n1), a_(n2), cdots, a_(nn)])\ and\ bb x = ([x_1], [x_2], [vdots], [x_n]).
+bb x' = Abb x
+lambda
+A
+bb v,
+bb x(t) = e^(lambda t)bb v
+bb x'(t) = lambda e^(lambda t)bb v = e^(lambda t)(lambda bb v) = e^(lambda t)Abb v = A(e^(lambda t)bb v) = Abb x(t).
+[x', "<mi//>"=-5x-8y-2z], [y', "<mi//>"=5x+12y+4z], [z', "<mi//>"=-11x-19y-5z]
+bb x' = ([x'], [y'], [z']) = ([-5, -8, -2], [5, 12, 4], [-11, -19, -5])([x], [y], [z]) = Abb x.
+A
+det(A-lambda I) = -lambda^3-2 lambda^2-lambda+2 = (lambda-1)(lambda+1)(lambda-2).
+A
+lambda = 2,
+lambda = 1,
+lambda = -1.
+lambda = 2,
+(A-2I)bb x = '\\y01d7ce',
+[-7x-8y-2z, "<mi//>"=0], [-5x+10y+4z, "<mi//>"=0], [-11x-19y-7z, "<mi//>"=0.]
+(2, -3, 5)
+(5, -7, 13)
+lambda = 1
+(1, -1, 2)
+lambda = -1.
+bb x' = Abb x,
+bb x_1(t) = e^(2t)([2], [-3], [5]), \ bb x_2(t) = e^t([5], [-7], [13]), \ and\ bb x_3(t) = e^(-t)([1], [-1], [2]).
+bb x_1(t)
+bb x_2(t)
+bb x' = Abb x,
+c_1 bb x_1(t)+c_2 bb x_2(t)
+[d/dt[c_1 bb x_1(t)+c_2 bb x_2(t)], "<mi//>"=c_1 d/dt bb x_1(t)+c_2 d/dt bb x_2(t)], [\ , "<mi//>"=c_1 Abb x_1(t)+c_2 Abb x_2(t)], [\ , "<mi//>"=A[c_1 bb x_1(t)+c_2 bb x_2(t)].]
+bb x(t) = c_1 e^(2t)([2], [-3], [5])+e^t([5], [-7], [13])+c_3 e^(-t)([1], [-1], [2])
+RR^n,
+RR^2
+RR^n.
+2 xx 2,
+T = ([2, 5, 1], [-3, -7, -1], [5, 13, 2])
+A,
+bb x' = Abb x
+[bb y', "<mi//>"=(T^(-1)AT)bb y], [\ , ([1, -3, -2], [-1, 1, 1], [4, 1, -1])([-5, -8, -2], [5, 12, 4], [-11, -19, -5])([2, 5, 1], [-3, -7, -1], [5, 13, 2])bb y,], [\ , "<mi//>"=([2, 0, 0], [0, 1, 0], [0, 0, -1])bb y,]
+bb y(t) = c_1 e^(2t)([1], [0], [0])+c_2 e^t([0], [1], [0])+c_3 e^(-t)([0], [0], [1]).
+T
+bb x(t) = Tbb y = c_1 e^(2t)([2], [-3], [5])+e^t([5], [-7], [13])+c_3 e^(-t)([1], [-1], [2]),
+bb x'Abb x.
+[x', "<mi//>"=a_1 x+a_1 y+a_3 z], [y', "<mi//>"=b_1 x+b_2 y+b_3 z], [z', "<mi//>"=c_1 x+c_2 y+c_3 z,]
+RR^3,
+bb x(t)
+'\\y01d7ce' = (0, 0, 0)
+t -> oo;
+'\\y01d7ce'
+RR^3,
+t -> oo,
+bb x_1(t) = e^(2t)([2], [-3], [5]), bb x_2(t) = e^t([5], [-7], [13]), \ and\ bb x_3(t) = e^(-t)([1], [-1], [2]).
+(1, -1, 2)
+bb x(0) = (x_0, y_0, z_0)
+t -> oo.
+(2, -3, 5)
+(5, -7, 13)
+t -> oo.
+(0, 0, 0)
+RR^3
+bb x' = ([0, 1, 0], [-1, 0, 0], [0, 0, -1])bb x
+lambda = +-i
+lambda = -1.
+bb x(0) = (x_0, y_0, z_0)
+bb x(t) = x_0([cos t], [-sin t], [0])+y_0([sin t], [cos t], [0])+z_0 e^(-t)([0], [0], [1]).
+z_0 = 0,
+xy
+x_0 = 0
+y_0 = 0,
+z
+RR^3
+x^2+y^2 = r^2
+r > 0.
+r
+xy
+z_0 != 0
+RR^3
+bb x' = ([-1, 1, 0], [-1, -1, 0], [0, 0, 1])bb x = Abb x.
+A
+lambda^3+lambda^2-2 = (lambda-1)(lambda^2+2 lambda+2) = 0.
+A
+lambda = 1
+lambda = -1+-i.
+[A-(-1+i)]bb x = '\\y01d7ce'
+(1, i, 0)
+lambda = -1+i.
+([1], [i], [0]) = ([1], [0], [0])+i([0], [1], [0]),
+bb v_1 = (1, 0, 0)
+bb v_2 = (0, 1, 0).
+bb v_3 = (0, 0, 1)
+lambda = 1,
+bb x(t) = x_0 e^(-t)([cos t], [-sin t], [0])+y_0 e^(-t)([sin t], [cos t], [0])+z_0 e^t([0], [0], [1]),
+bb x(0) = (x_0, y_0, z_0).
+z_0 = 0,
+xy
+x_0 = 0
+y_0 = 0
+z_0 != 0,
++-oo
+t -> oo.
+z
+RR^3
+bb x' = ([lambda_1, 0, 0], [0, lambda_2, 0], [0, 0, lambda_3])bb x,
+lambda_3 < lambda_2 < lambda_1 < 0.
+(x_0, y_0, z_0)
+x
+t -> oo
+RR^3
+bb x' = ([-1, 1, 0], [-1, -1, 0], [0, 0, -1])bb x,
+bb x(0) = (x_0, y_0, z_0)
+bb x(t) = x_0 e^(-t)([cos t], [-sin t], [0])+y_0 e^(-t)([sin t], [cos t], [0])+z_0 e^(-t)([0], [0], [1]),
+bb x(0) = (x_0, y_0, z_0).
+t -> oo.
+A.
+A.
+dbb x//dt = Abb x?
+RR^3.
+A = ([4, 3, -1], [-1, 0, -1], [1, 1, 2])
+A = ([4, 3, -1], [-1, 0, -1], [1, 1, 2])
+A = ([4, 3, -1], [-1, 0, -1], [1, 1, 2])
+bb x' = Abb x,
+A = ([0, 0, 1, 0], [0, 0, 0, 1], [-2k//m_1, k//m_1, 0, 0], [k//m_2, -2k//m_2, 0, 0]).
+m_1 = m_2 = k = 1.
+A = ([0, 0, 1, 0], [0, 0, 0, 1], [-2, 1, 0, 0], [1, -2, 0, 0]).
+A
+det(A-lambda I) = lambda^4+4 lambda^2+3 = (lambda^2+1)(lambda^2+3).
+A
+lambda = +-i
+lambda = +-isqrt(3).
+bb v_1 = ([i//sqrt(3)], [-i//sqrt(3)], [-1], [1]), bb v_2 = ([-i//sqrt(3)], [i//sqrt(3)], [-1], [1]), bb v_3 = ([-i], [-i], [1], [1]), bb v_4 = ([i], [i], [1], [1]),
+lambda_1 = isqrt(3),
+lambda_2 = -isqrt(3),
+lambda_3 = i,
+lambda_4 = -i,
+bb x(t) = c_1 e^(isqrt(3)t)bb v_1+c_1 e^(-isqrt(3)t)bb v_2+c_1 e^(it)bb v_3+c_1 e^(-it)bb v_4;
+e^(isqrt(3)t)bb v_1
+c_1 e^(it)bb v_3,
+bb x(t) = c_1([cos sqrt(3)t], [-cos sqrt(3)t], [-sqrt(3)sin sqrt(3)t], [sqrt(3)sin sqrt(3)t])+c_2([-sin sqrt(3)t], [sin sqrt(3)t], [-sqrt(3)cos sqrt(3)t], [sqrt(3)cos sqrt(3)t])+c_3([cos t], [cos t], [-sin t], [-sin t])+c_4([sin t], [sin t], [cos t], [cos t]).
+[x_1(0), "<mi//>"=0], [x_2(0), "<mi//>"=0], [x_1^' (0)=x_3(0), "<mi//>"=2], [x_2^' (0)=x_4(0), "<mi//>"=2,]
+c_1 = c_2 = c_3 = 0
+c_4 = 2.
+bb x(t) = ([2sin t], [2sin t], [2cos t], [2cos t]),
+[x_1^' , "<mi//>"=a_(11)x_1+cdots a_(1n)x_n], [x_2^' , "<mi//>"=a_(21)x_1+cdots a_(2n)x_n], [\ , "<mi//>" vdots], [x_n^' , "<mi//>"=a_(n1)x_1+cdots a_(nn)x_n]
+bb x' = Abb x,
+A = ([a_(11), a_(12), cdots, a_(1n)], [a_(21), a_(22), cdots, a_(2n)], [vdots, vdots, ddots, vdots], [a_(n1), a_(n2), cdots, a_(nn)])\ and\ bb x = ([x_1], [x_2], [vdots], [x_n]).
+RR^2,
+bb x' = Abb x
+A.
+bb x_1(t)
+bb x_2(t)
+bb x' = Abb x,
+c_1 bb x_1(t)+c_2 bb x_2(t)
+RR^3
+3 xx 3
+3 xx 3
+dbb x//dt = Abb x
+A.
+A.
+dbb x//dt = Abb x?
+RR^3.
+A = ([4, 3, -1], [-1, 0, -1], [1, 1, 2])
+A = ([-2, -3, 4], [4, 5, -4], [5, 5, -3])
+A = ([4, 2, 0], [0, 2, 0], [2, 2, 2])
+A = ([0, -2, -2], [4, 6, -1], [6, 6, -2])
+A = ([11, 14, -9], [-5, -8, 7], [4, 4, 2])
+A = ([11, 13, -6], [-6, -8, 6], [1, -2, 4])
+A = ([0, 5, 2], [4, -10, -5], [-6, 21, 10])
+A = ([5, 7, -1], [-1, -3, 1], [6, 6, -2])
+3 xx 3
+[x', "<mi//>"=4x+3y-z], [y', "<mi//>"=-x-z], [z', "<mi//>"=x+y+2z], [x(0), "<mi//>"=-1], [y(0), "<mi//>"=1], [z(0), "<mi//>"=0]
+[x', "<mi//>"=-2x-3y+4z], [y', "<mi//>"=4x+5y-4z], [z', "<mi//>"=5x+5y-3z], [x(0), "<mi//>"=2], [y(0), "<mi//>"=-1], [z(0), "<mi//>"=-1]
+[x', "<mi//>"=4x+2y], [y', "<mi//>"=2y], [z', "<mi//>"=2x+2y+2z], [x(0), "<mi//>"=1], [y(0), "<mi//>"=1], [z(0), "<mi//>"=1]
+[x', "<mi//>"=-2y-2z], [y', "<mi//>"=4x+6y-z], [z', "<mi//>"=6x+6y-2z], [x(0), "<mi//>"=1], [y(0), "<mi//>"=2], [z(0), "<mi//>"=3]
+[x', "<mi//>"=11x+14y-9z], [y', "<mi//>"=-5x-8y+7z], [z', "<mi//>"=4x+4y+2z], [x(0), "<mi//>"=-1], [y(0), "<mi//>"=-2], [z(0), "<mi//>"=-3]
+[x', "<mi//>"=11x+13y-6z], [y', "<mi//>"=-6x-8y+6z], [z', "<mi//>"=x-2y+4z], [x(0), "<mi//>"=-2], [y(0), "<mi//>"=2], [z(0), "<mi//>"=0]
+[x', "<mi//>"=5y+2z], [y', "<mi//>"=4x-10y-5z], [z', "<mi//>"=-6x+21y+10z], [x(0), "<mi//>"=1], [y(0), "<mi//>"=1], [z(0), "<mi//>"=3]
+[x', "<mi//>"=5x+7y-z], [y', "<mi//>"=-x-3y+z], [z', "<mi//>"=6x+6y-2z], [x(0), "<mi//>"=-1], [y(0), "<mi//>"=0], [z(0), "<mi//>"=2]
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+x''+px'+qx = g(t),
+g(t)
+sin omega t
+cos omega t.
+x(t) = Acos(omega t-varphi),
+A
+omega
+varphi
+g(t)
+x''+px'+qx = g(t),
+g(t)
+g(t+T) = g(t)
+t
+T.
+g(t) = sin omega t"\and\ "g(t) = cos omega t.
+2 pi//omega
+omega//2 pi.
+1/T int_0^T g(t)dt = 0.
+x''+px'+qx = Acos omega t+Bsin omega t.
+ax''+bx'+cx = Acos omega t+Bsin omega t,
+e^(i beta t) = cos beta t+isin beta t
+x_c = x_("Re")+ix_("Im")
+["(4.3.1)", x''+6x'+5x=sin 2t.]
+x''+6x'+5x = 0,
+x_h = c_1 e^(-5t)+c_2 e^(-t).
+x_p = Acos 2t+Bsin 2t.
+x_p = -12/145 cos 2t+1/145 sin 2t.
+x = x_h+x_p = c_1 e^(-5t)+c_2 e^(-t)-12/145 cos 2t+1/145 sin 2t.
+t -> oo.
+x_c = x_("Re")+ix_("Im"),
+[ (d^2)/(dt^2) x_c+6 d/dt x_c+5x_c, "<mi//>"= (d^2)/(dt^2) (x_("Re")+ix_("Im"))+6 d/dt(x_("Re")+ix_("Im"))+5(x_("Re")+ix_("Im"))], [\ , "<mi//>"=e^(2it)], [\ , "<mi//>"=cos 2t+isin 2t.]
+[x_("Re")^'' +6x_("Re")^' +5x_("Re"), "<mi//>"=cos 2t], [x_("Im")^'' +6x_("Im")^' +5x_("Im"), "<mi//>"=sin 2t.]
+x''+6x'+5x = sin 2t
+x_c = Ae^(2it).
+[x_c^'' +6x_c^' +5x_c, "<mi//>"=-4Ae^(2it)+12Aie^(2it)+5Ae^(2it)], [\ , "<mi//>"=(1+12i)Ae^(2it)], [\ , "<mi//>"=(1+12i)A(cos 2t+isin 2t).]
+[x_("Re")^'' +6x_("Re")^' +5x_("Re"), "<mi//>"=cos 2t], [x_("Im")^'' +6x_("Im")^' +5x_("Im"), "<mi//>"=sin 2t]
+A = 1/(1+12i) = 1/145-12/145 i.
+x''+6x'+5x = e^(2it)
+[x_c, "<mi//>"=Ae^(2it)], [\ , "<mi//>"=(1/145-12/145 i)*(cos 2t+isin 2t)], [\ , "<mi//>"=(1/145 cos 2t+12/145 sin 2t)+i(-12/145 cos 2t+1/145 sin 2t).]
+x_("Im") = -12/145 cos 2t+1/145 sin 2t,
+x''+4x'-21x = 2e^(4t)
+x''+4x'-21x = 3e^(3t)
+x''-4x'+20x = 3sin 3t
+x''-4x'+20x = 2e^(2t)cos 4t
+x''-14x'+49x = sin 3t
+ax''+bx'+cx = Acos omega t+Bsin omega t
+x''+6x'+5x = e^(2it)
+x_c = Ae^(2it),
+A = (1-12i)//145.
+A
+|A| = 1/(sqrt(145)) ,
+A = 1/(sqrt(145)) e^(i theta),
+theta = arctan(-12) ~~ -1.4877.
+x_c = Ae^(2it) = 1/(sqrt(145)) e^(i theta)e^(2it) = 1/(sqrt(145)) e^(i(2t+theta)).
+x_c,
+x_p(t) = 1/(sqrt(145)) sin(2t+theta) = 1/(sqrt(145)) cos(2t+theta-pi/2) = 1/(sqrt(145)) cos(2t-varphi),
+varphi ~~ 3.058451.
+varphi
+1//sqrt(145)
+pi
+x''+6x'+5x = sin 2t
+y_p = Acos(omega t-varphi)
+["(4.3.2)", y''+10y'+34y=sin 2t.]
+y''+10y'+34y = 0.
+y_c
+y''+10y'+34y = e^(2it).
+a
+y_p = ae^(2it).
+A
+B,
+y_p = Acos 2t+Bsin 2t
+a
+|a|e^(i theta)
+y_c = |a|e^(2t+theta).
+y_p = Acos(omega t-varphi).
+x''+px'+qx = g(t),
+[x', "<mi//>"=y], [y', "<mi//>"=-qx-py+g(t).]
+(x, y),
+t.
+(x, y)
+xy
+["(4.3.3)", x''+2x'+17x=-2sin 3t.]
+x''+2x'+17x = 0
+x_h = c_1 e^(-t)cos 4t+c_2 e^(-t)sin 4t
+x''+2x'+17x = -2e^(3it),
+x_c = Ae^(3it).
+x_c
+(8+6i)Ae^(3it) = -2e^(3it).
+x_c
+A = (-2)/(8+6i) = -4/25+3/25 i
+[x_c(t), "<mi//>"=(-4/25+3/25 i)(cos 3t+isin 3t)], [\ , "<mi//>"=(-4/25 cos 3t-3/25 sin 3t)+i(3/25 cos 3t-4/25 sin 3t).]
+x_p = 3/25 cos 3t-4/25 sin 3t.
+x(t) = c_1 e^(-t)cos 4t+c_2 e^(-t)sin 4t+3/25 cos 3t-4/25 sin 3t.
+x(0) = 0
+x'(0) = 0.
+x'(t) = c_1 e^(-t)(-cos 4t-4sin 4t)+c_2 e^(-t)(4cos 4t-sin 4t)-12/25 cos 3t-9/25 sin 3t
+[c_1+3/25, "<mi//>"=0], [-c_1+4c_2-12/25, "<mi//>"=0.]
+c_1 = -3//25
+c_2 = 9//100,
+[x(t), "<mi//>"=-3/25 e^(-t)(-cos 4t-4sin 4t)+3/20 e^(-t)(4cos 4t-sin 4t)-12/25 cos 3t-9/25 sin 3t], [\ , "<mi//>"=-3/100(4cos 4t-3sin 4t))e^(-t)-12/25 cos 3t-9/25 sin 3t]
+x''+2x'+17x = -2sin 3t,
+x(0) = 0,
+x'(0) = 0
+y = x'(t),
+x
+y = x',
+x
+y
+xy
+x''+2x'+17x = -2sin 3t,
+x(0) = 0,
+x'(0) = 0
+x(0) = 2
+x'(0) = 2,
+[c_1+3/25, "<mi//>"=2], [-4c_1-c_2-9/25, "<mi//>"=2.]
+c_1 = 47//25
+c_2 = 109//100.
+x(t) = 47/25 e^(-t)cos 4t+109/100 e^(-t)sin 4t+3/40 cos 2t-3/20 sin 2t.
+x''+2x'+17x = -2sin 3t,
+x(0) = 2,
+x'(0) = 2
+xy
+x''+2x'+17x = -2sin 3t,
+x(0) = 2,
+x'(0) = 2
+sin omega t
+cos omega t
+2 pi//omega
+omega//2 pi.
+x''+px'+qx = g(t),
+g(t)
+sin omega t
+cos omega t.
+x(t) = Acos(omega t-varphi),
+A
+omega//2 pi
+varphi
+x''+px'+qx = g(t),
+[x', "<mi//>"=y], [y', "<mi//>"=-qx-py+g(t),]
+(x, y)
+xy
+x
+y
+xy
+y''+4y = 3cos 2t
+y''+7y'+10y = -4sin 3t
+y_c = Ae^(3it).
+(d^2 x)/(dx^2) +2 dx/dt+2x = 2cos 2t
+x''-2x'+5x = 3cos t
+y''+6y'+7y = 3sin 2t
+y''+4y'+13y = 3cos 2t
+y''+6y'+8y = cos 3t
+(d^2 x)/(dx^2) +2 dx/dt+3x = 2sin 2t
+u''+4u'+20u = -3sin 3t
+u''+4u'+20u = -cos 5t
+y_p = Acos(omega t-varphi)
+omega,
+A,
+varphi
+y''+4y = 3cos 2t
+y''+7y'+10y = -4sin 3t
+y_c = Ae^(3it).
+(d^2 x)/(dx^2) +2 dx/dt+2x = 2cos 2t
+x''-2x'+5x = 3cos t
+y''+6y'+7y = 3sin 2t
+y''+4y'+13y = 3cos 2t
+y''+6y'+8y = cos 3t
+y''+4y = 3cos 2t,
+y(0) = 0,
+y'(0) = 0
+y''+7y'+10y = -4sin 3t,
+y(0) = 0,
+y'(0) = 0
+(d^2 x)/(dx^2) +2 dx/dt+2x = 2cos 2t,
+x(0) = 0,
+x'(0) = 0
+x''-2x'+5x = 3cos t,
+x(0) = 0,
+x'(0) = 0
+y''+6y'+7y = 3sin 2t,
+y(0) = 0,
+y'(0) = 0
+y''+4y'+13y = 3cos 2t,
+y(0) = 0,
+y'(0) = 0
+y''+6y'+8y = cos 3t,
+y(0) = 0,
+y'(0) = 0
+2 xx 2
+lambda_1 < 0 < lambda_2
+lambda_1 < lambda_2 < 0
+lambda_1 > lambda_2 > 0
+omega != omega_0
+dx/dt = f_ lambda(x)
+lambda = lambda_0
+dx/dt = kx
+k.
+(dP)/dt = kP(1-P/N)
+k
+N.
+(dP)/dt = P(1-P/200).
+(dP)/dt = P(1-P/200)-32.
+P_1 = 160
+P_2 = 40
+H = 32
+H = 100.
+(dP)/dt = P(1-P/200)-100.
+["(1.7.1)", (dP)/(dt) =P(1-P/200)-100=0]
+P.
+P^2-200P+20000 = 0.
+P = (200+-sqrt(200^2-4*20000))/2 = 100+-sqrt(-10000),
+dP//dt < 0
+P.
+H = 100
+H = 50.
+(dP)/dt = P(1-P/200)-50 = 0
+P = 100.
+P = 100
+P > 100
+P < 100,
+dP//dt < 0,
+H = 50
+N
+(dP)/dt = kP(1-P/N).
+H,
+(dP)/dt = kP(1-P/N)-H.
+f_H(P) = kP(1-P/N)-H,
+f_H(P) = 0
+-kP^2+kNP-HN = 0.
+P = (-kN+-sqrt(k^2 N^2-4kHN))/(-2k) = N/2+-sqrt( (N^2)/4- (HN)/k).
+(N^2)/4- (HN)/k.
+(N^2)/4- (HN)/k < 0
+H > kN//4,
+(dP)/dt = f_H(P) < 0
+P.
+dP//dt = f_H(P)
+t -> oo.
+P = 0.
+H < kN//4,
+P_1 = N/2+sqrt( (N^2)/4- (HN)/k)
+P_2 = N/2-sqrt( (N^2)/4- (HN)/k).
+P_1
+P_2
+H = kN//4,
+P = N//2.
+dP//dt < 0
+P != N//2,
+P -> N//2
+t -> oo
+P
+N//2.
+P
+N//2,
+-oo
+t -> oo.
+kN//4;
+H,
+["(1.7.2)", (dP)/(dt) =P(1-P/200)-H.]
+H
+H
+50
+50.1
+H,
+H = 50.
+H = 50
+120
+1.5
+10
+["(1.7.3)", dx/dt=x^2-4x+lambda]
+lambda.
+f_ lambda(x) = x^2-4x+lambda,
+dx/dt = f_ lambda(x)
+lambda,
+lambda,
+lambda = 0,
+dx/dt = f_0(x) = x^2-4x = x(x-4),
+x = 0
+x = 4
+x' = x^2-4x+lambda
+lambda = 0
+lambda = 4,
+dx/dt = f_4(x) = x^2-4x+4 = (x-2)^2,
+x = 2
+x' = x^2-4x+lambda
+lambda = 4
+lambda = 8,
+dx/dt = f_8(x) = x^2-4x+8
+x' = x^2-2x+lambda
+lambda = 8
+lambda = 4.
+lambda = 4
+["(1.7.4)", dx/dt=f_ lambda(x)=x^2-4x+lambda.]
+lambda < 4,
+x = 2+-sqrt(4-lambda).
+lambda > 4,
+lambda
+x.
+lambda,
+lambda.
+lambda.
+x' = x^2-4x+lambda
+dx//dt = f_ lambda(x)
+lambda.
+lambda = lambda_0,
+x_0.
+dx/dt = f_(lambda_0)(x_0) = 0.
+f_(lambda_0)(x)
+x
+x_0,
+f_(lambda_0)(x)
+x < x_0
+x > x_0.
+f_(lambda_0)^' (x) < 0
+x
+x_0
+f_(lambda_0)^' (x_0) < 0,
+lambda_1
+lambda_0,
+dx/dt = f_(lambda_1)(x)
+x = x_1
+x_0.
+x_0
+f_(lambda_0)^' (x_0) > 0.
+f_(lambda_0)(x_0) = 0
+f_(lambda_0)^' (x_0) = 0.
+dy/dt = y^3-alpha y = y(y^2-alpha).
+alpha
++-sqrt(alpha)
+alpha > 0.
+y' = y^3-alpha y
+c = -2, -1, 0, 1, 2,
+y' = (1-y)y+c
+y' = (c-y^2)y
+["(1.7.5)", dy/dt=y(y-2)^2+lambda.]
+g_ lambda(y) = y(y-2)^2+lambda,
+g_ lambda^' (y) = 3y^2-8y+4.
+g_ lambda^' (y) = 0
+y = 2
+y = 2//3.
+lambda
+g_ lambda(2) = lambda = 0
+g_ lambda(2//3) = 32/27+lambda = 0
+lambda = -32//27
+lambda = 0.
+y' = y(1-y)^2+lambda
+dx/dt = f_ lambda(x)
+lambda = lambda_0
+dx//dt = f_ lambda(x)
+f_(lambda_0)(x_0) = 0
+f_(lambda_0)^' (x_0) = 0.
+lambda = -2, -1, 0, 1, 2,
+y' = lambda-y^2.
+y' = lambda y^2-1
+lambda in RR.
+y' = lambda-2y+y^2.
+y' = (lambda-4y^2)y.
+y' = (lambda-y^4)y.
+y' = lambda y-sin y
+lambda > 2//pi
+lambda.

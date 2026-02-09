@@ -1,0 +1,351 @@
+cc l_1, cc l_2, cc l_3.
+A
+P_1, Q_1, R_1
+cc l_1
+P_2, Q_2, R_2
+cc l_2
+A.
+B
+P_2, Q_2, R_2
+P_3, Q_3, R_3
+cc l_3
+B.
+P_1, Q_1, R_1
+P_3, Q_3, R_3
+P
+Q
+bar(PQ)
+P
+Q
+bar(PQ)
+0\circ
+180\circ.
+vec(AP),
+m/_PAB = r.
+/_BAC,
+m/_BAC = m/_BAD+m/_DAC.
+A, B, C, ...
+overset(harr)(AB)
+A
+B
+bar(AB)
+A
+B
+|AB|
+A
+B
+'\\x002016'vec A'\\x002016'
+'\\x002016'A-B'\\x002016'
+A
+B
+/_ABC
+B
+m/_ABC
+Delta ABC
+A, B,
+C
+A ~= B
+A
+B
+overset(harr)(AB)'\\x002225'overset(harr)(CD)
+overset(harr)(AB)_|_overset(harr)(CD)
+pi//2
+/_\ABC.
+/_\XYZ
+X-B-Y,
+Y-C-Z,
+Z-A-X,
+bar(XY)'\\x002225'bar(AC),
+bar(YZ)'\\x002225'bar(AB),
+bar(ZX)'\\x002225'bar(BC).
+/_\XYZ.
+/_\ABC.
+A, B, C
+cc l_1
+cc l_2
+bar(AB)
+bar(BC)
+M_2 = cc l_2 nn bar(BC).
+cc l_1'\\x002225'cc l_2
+D = cc l_2 nn overset('\\x0027f7')(AB)
+A,
+B,
+D
+/_BDM_2
+2//3
+ABCD
+A
+B.
+/_AD Omega ~= /_BC Omega.
+A
+T
+T
+T(A) = A.
+T(x, y) = (-y, x)
+{(1, 1), (-1, 1), (-1, -1), (1, -1)}.
+T(x, y) = (-y, x)
+{(0, 0), (1, 0), (1, 1), (0, 1)}.
+{(1, 1), (-1, 1), (-1, -1), (1, -1), (1, 0)}
+T(x, y) = (-y, x)
+n
+n
+n
+n
+n
+n
+n
+**n_1 n_2...
+n_1,
+n_2,
+**
+n_1 n_2...
+**
+n_1,
+n_2
+xx
+@
+/_ABC ~= /_DEF
+m/_ABC = m/_DEF
+A-B-C
+A, B,
+C
+B
+A
+C.
+cc l
+/_\ABC
+D
+A-D-B,
+cc l
+bar(AC)
+bar(BC).
+X
+/_\ABC
+AX
+bar(BC)
+D
+B-D-C.
+bar(AB) ~= bar(CD)
+|AB| = |CD|
+Delta ABC ~= Delta DEF
+pi//2.
+cc l
+n
+P.
+S
+cc l
+P.
+m
+S
+n
+S.
+T
+m
+S
+m
+overset('\\x0027f7')(TP)
+T.
+U
+cc l
+U-S-P
+A = overset('\\x0027f7')(TP) nn n,
+m
+overset('\\x0027f7')(SA)
+A
+overset('\\x0027f7')(UA).
+cc l
+n
+P.
+S
+cc l
+P.
+m
+S
+n
+S.
+U
+T
+m
+U-S-T
+A = overset('\\x0027f7')(PT) nn n
+m
+overset('\\x0027f7')(UA)
+U
+overset('\\x0027f7')(PA).
+cc l
+m
+P,
+cc l
+m
+P
+cc l.
+cc l
+m
+P,
+cc l
+m
+Q
+cc l.
+k
+cc l
+m
+bar(AB)
+A in cc l
+B in m.
+M
+bar(AB),
+D
+M
+cc l.
+F in m
+bar(AB)
+D
+bar(BF) ~= bar(AD).
+C in cc l
+C-A-D.
+/_CAB'\\x002247'/_AB omega.
+T
+vec v
+T(P)-P = vec v
+P.
+T
+C
+alpha
+m/_PCT(P) = alpha
+'\\x002016'bar(CP)'\\x002016' = '\\x002016'bar(CT(P))'\\x002016'
+P
+T
+cc l
+cc l
+P
+T(P)
+P
+T(P)
+cc l
+ABC.
+/_\A'B'C'
+/_\A''B''C''
+/_\A'B'C'.
+/_\ABC
+/_\A''B''C''.
+/_\ABC
+cc l
+cc l'\\x002225'bar(AC)
+B
+cc l.
+B
+pi.
+/_\ABC.
+bar(DE)
+B-D-A,
+B-E-C,
+bar(DE)'\\x002225'bar(AC).
+bar(AE)
+bar(EF)
+F
+E.
+/_\DEB
+/_\AED.
+bar(DC)
+bar(DG)
+G
+D.
+/_\DEB
+/_\CDE.
+/_\AED
+/_\CDE.
+(x, y)
+(x, y, 1)
+T(x, y, 1) = [[1, 0, a], [0, 1, b], [0, 0, 1]][[x], [y], [1]].
+y
+M_y(x, y, 1) = [[-1, 0, 0], [0, 1, 0], [0, 0, 1]][[x], [y], [1]].
+x
+M_y(x, y, 1) = [[1, 0, 0], [0, -1, 0], [0, 0, 1]][[x], [y], [1]].
+R_ varphi(x, y, 1) = [[cos varphi, -sin varphi, 0], [sin varphi, cos varphi, 0], [0, 0, 1]][[x], [y], [1]]
+[x_0,y_0]^T
+[x_0,y_0]^T
+[x_0,y_0]^T
+varphi.
+[x_0,y_0]^T
+varphi,
+[x_0,y_0]^T.
+[x_0,y_0]^T
+varphi.
+x = a
+x = a
+y
+x = a
+y
+y
+x = a
+y
+y
+y
+x = a.
+x = a.
+y = b
+y = b
+x
+y = b
+x
+x
+y = b
+x
+x
+x
+y = b.
+y = b.
+RR^2
+RR^2.
+T_1:(x, y) |-> (y, x).
+T_2:(x, y) |-> (x//2, y//2).
+T_3:(x, y) |-> (1-x^3, 1-y^3).
+T_4:(x, y) |-> (sqrt(x^2+y^2)x, sqrt(x^2+y^2)y).
+'\\x002016'P-Q'\\x002016' = '\\x002016'T(P)-T(Q)'\\x002016'.
+T_1:(x, y) |-> (2x, 2y)
+T_2:(x, y) |-> (-y, -x)
+T_3:(x, y) |-> [[cos theta, sin theta], [-sin theta, cos theta]][[x], [y]]
+T
+A,
+B,
+C
+T(A),
+T(B),
+T(C)
+T
+A-B-C
+T(A)-T(B)-T(C).
+T
+/_\ABC ~= /_\T(A)T(B)T(C).
+T
+m/_ABC = m/_T(A)T(B)T(C).
+T
+cc l_1'\\x002225'cc l_2
+T(cc l_1)'\\x002225'T(cc l_2).
+T
+Z
+k
+T(P) = Q
+Z-P-Q
+'\\x002016'ZQ'\\x002016'//'\\x002016'ZP'\\x002016' = k.
+T,
+'\\x002016'T(A)T(B)'\\x002016'//'\\x002016'AB'\\x002016' = k.
+T
+A,
+B,
+C
+T(A),
+T(B),
+T(C)
+T
+A-B-C
+T(A)-T(B)-T(C).
+T
+/_\ABC~/_\T(A)T(B)T(C).
+T
+m/_ABC = m/_T(A)T(B)T(C).
+T
+cc l_1'\\x002225'cc l_2
+T(cc l_1)'\\x002225'T(cc l_2).
+T
+k^2+k+1

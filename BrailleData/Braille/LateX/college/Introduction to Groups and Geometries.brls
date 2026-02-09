@@ -1,0 +1,3366 @@
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+G
+X
+G
+X
+\phi \colon G \to Perm(X) .
+G
+X,
+X
+G
+g \in G
+x \in X,
+gx
+(\phi (g))(x) .
+(\phi (g))(x)
+g(x),
+g \cdot x,
+g .x .
+Orb(x)
+Orb(x) =\{gx \colon g \in G\},
+x,
+Stab(x)
+Stab(x) =\{g \in G \colon gx =x\},
+Stab(x)
+G .
+x .
+G \to Perm(X)
+D_4
+X =\{(x, y) \in \mathbb R^2 \colon -1 \le x, y \le 1\}
+(1, 1) ?
+(1, 0) ?
+(1, 1) ?
+(1, 0) ?
+S^1
+S^2
+z
+e^{i\alpha}
+S^1
+(\theta, \phi)
+S^2
+e^{i\alpha} \cdot (\theta, \phi) =(\theta, \phi +\alpha) .
+(\pi /4, \pi /6) ?
+(0, 0) ?
+(\pi /4, \pi /6) ?
+G
+(\phi (g))(x) =gxg^{ -1} =C_g (x)
+x .
+Orb((1, 1)) =\{(1, 1), (1, -1), ( -1, 1), ( -1, -1)\},
+Orb((1, 0)) =\{(1, 0), ( -1, 0), (0, 1), (0, -1)\},
+Stab((1, 1)) =\{R_0, F_{D'} \},
+Stab((1, 0)) =\{R_0, F_H \}
+Orb(\pi /4, \pi /6)
+S^2
+\pi /4,
+Orb(0, 0) =\{(0, 0)\},
+Stab(\pi /4, \pi /6) =\{1\},
+Stab(0, 0) =S^1
+Orb(x) =\{gxg^{ -1} \colon g \in G\},
+Stab(x) =C(x)
+x
+x
+G
+X
+G .
+X/G
+X/G =\{Orb(x) \colon x \in X\}
+G
+X .
+X/G
+X/G
+G
+X .
+\sim_G
+X
+x\sim_G y
+y =gx
+g \in G .
+\sim_G
+x\sim_G y
+y \in Orb(x) .
+X/G =X/\sim_G .
+X/G
+X .
+G
+X,
+x
+X .
+G/Stab(x) \leftrightarrow Orb(x)
+gStab(x) \leftrightarrow gx .
+sgn \colon S_n \to \{ -1, +1\},
+S_n
+\Delta
+\Delta =\prod_{1 \le i \lt j \le n} (x_i -x_j)
+x_1, x_2, \ldots, x_n .
+X
+X =\{\Delta, -\Delta \} .
+\alpha
+S_n,
+\alpha \Delta
+\alpha \Delta =\prod_{1 \le i \lt j \le n} (x_{\alpha (i)} -x_{\alpha (j)})
+\alpha ( -\Delta) = -\alpha \Delta .
+\alpha \Delta = \pm \Delta
+\alpha
+S_n .
+\alpha
++1
+-1
+\alpha \Delta =\Delta
+\alpha \Delta = -\Delta,
+sgn(\alpha) =\{ +1 & if\~ & \alpha \Delta =\Delta \\ -1 & if\~ & \alpha \Delta = -\Delta \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+\alpha
+sgn(\alpha) = +1,
+\alpha
+sgn(\alpha) = -1 .
+\Delta
+n =4
+\prod .
+n =4,
+(134)\Delta
+(1324)\Delta .
+\Delta
+sgn(134)
+sgn(1324)
+\alpha \Delta = \pm \Delta
+\alpha
+S_n .
+\tau \Delta = -\Delta
+\tau
+S_n .
+\phi \colon S_n \to Perm(X)
+\phi (\alpha)( \pm \Delta) =\alpha ( \pm \Delta)
+(\alpha \beta)\Delta =\alpha (\beta \Delta)
+sgn(\alpha \beta) =sgn(\alpha)sgn(\beta)
+\alpha, \beta
+S_n .
+S_n \to C_2 .
+\alpha
+\alpha
+\alpha
+S_n
+A_n .
+A_n
+S_n .
+A_n
+G
+G \to Perm(G)
+G
+g \to L_g
+L_g
+L_g (h) =gh .
+g \to R_g
+R_g
+R_g (h) =hg^{ -1} .
+g \to C_g
+C_g
+C_g (h) =ghg^{ -1} .
+g \in G,
+L_g, R_g, C_g
+Perm(G) .
+L, R, C
+L
+G \approx L(G) .
+H
+G,
+R \colon H \to Perm(G)
+h \to R_h,
+R_h (g) =gh^{ -1}
+H
+H
+G
+H .
+G/H
+H
+G
+R
+G
+n \times n
+\mathbb F
+G \to Perm(X)
+G
+X =\mathbb F^n
+g \to [v \to g \cdot v],
+g \cdot v
+\sim_G
+x\sim_G y
+y \in Orb(x) .
+X/G
+X .
+V
+\mathbb F
+\mathbb F
+\mathbb R
+\mathbb C
+\mathbb F^\ast
+\mathbb F
+V \setminus \{0\}
+V
+\alpha \to [v \to \alpha v] .
+(V \setminus \{0\})/\mathbb F^\ast
+V,
+\mathbb P (V) .
+\sim_{proj}
+(V \setminus \{0\})/\mathbb F^\ast .
+\sim_{proj}
+x\sim_{proj} y
+x =\alpha y
+\alpha \in \mathbb F^\ast .
+GL(V)
+V
+\mathbb P (V)
+(2.5.1) & g \cdot [v] =[g(v)]
+g \in GL(V)
+v \in V \setminus \{0\} .
+GL(V) \to Perm(\mathbb P (V))
+K =\{\alpha Id \colon \alpha \in \mathbb F^\ast \} .
+PGL(V) \colon =GL(V)/K
+\mathbb P (V) .
+\mathbb F^\ast
+GL(V)
+\alpha \cdot T =\alpha T,
+PGL(V) \approx GL(V)/\mathbb F^\ast .
+s \colon S^2 \to \hat{\mathbb C}
+\mathbb P (\mathbb C^2) \to S^2
+[(\alpha, \beta)] \to s^{ -1} (\alpha /\beta)
+\beta \not= 0
+[(\alpha, \beta)] \to (0, 0, 1)
+\beta =0
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+\mathbb F
+V
+\mathbb F,
+\mathbb P (V) =(V \setminus \{0\})/\mathbb F^\ast
+PGL(V) =GL(V)/\mathbb F^\ast
+[T]
+T
+V .
+V
+[v] \leftrightarrow \{\alpha v \colon \alpha \in \mathbb F \} .
+V,
+G(1, V),
+P,
+Q,
+\ell_\Pi =\{[v] \colon v \in \Pi \setminus \{0\}\}
+\Pi
+V .
+V
+\ell_\Pi \leftrightarrow \Pi .
+V
+G(2, V) .
+\ell,
+m,
+\mathbb P (V)
+V .
+k
+\mathbb P (V)
+\{[v] \colon v \in G(k +1, V)\},
+G(d, V)
+d
+V .
+G(d, V)
+d
+V,
+P_1 =[v_1], P_2 =[v_2], \ldots, P_k =[v_k]
+v_1, v_2, \ldots, v_k
+V .
+V =\mathbb F^{n +1} .
+P =[v] =[x_0, x_1, x_2, \ldots, x_n]
+[(x_0, x_1, x_2, \ldots, x_n)]
+v =(x_0, x_1, x_2, \ldots, x_n)
+\mathbb F^{n +1} .
+x_i
+P .
+x_0 \not= 0,
+P =[x_0, x_1, x_2, \ldots, x_n] =[1, \frac{x_1}{x_0}, \frac{x_2}{x_0}, \ldots, \frac{x_n}{x_0}] .
+x_i /x_0
+1 \le i \le n
+P .
+n
+\mathbb P (\mathbb F^{n +1})
+n
+\mathbb F \mathbb P (n),
+\mathbb F \mathbb P_n,
+\mathbb P_n
+\mathbb F
+\mathbb P (\mathbb F^{n +1}) .
+n
+n
+n
+n
+\mathbb F \mathbb P_n =\mathbb P (\mathbb F^{n +1}),
+n +2
+n +2
+e_1, e_2, \ldots, e_n, e_{n +1}
+\mathbb F^{n +1}
+e_0 =\sum_{i =1}^{n +1} e_i .
+v_1, v_2, \ldots, v_{n +1}
+\mathbb F^{n +1}
+c_1, c_2, \ldots, c_{n +1}
+T
+T
+\mathbb F^{n +1}
+e_i \to c_i v_i
+1 \le i \le n +1 .
+[T]
+[e_i] \to [v_i]
+[e_0] \to [\sum_i c_i v_i] .
+[S]
+[T]
+n +2
+[e_0], [e_1], [e_2], \ldots, [e_{n +1}] .
+[U] \colon =[S]^{ -1} \circ [T]
+[e_0], [e_1], [e_2], \ldots, [e_{n +1}] .
+Ue_i =k_i e_i
+k_1, k_2, \ldots, k_{n +1}
+Ue_0 =k'e_0
+k' \not= 0 .
+(k_1, k_2, \ldots, k_{n +1}) =(k', k', \ldots, k')
+k' =k_1 =k +2 =\cdots k_{n +1} .
+[U]
+[S] =[T] .
+v_1, v_2, \ldots, v_{n +1}
+\mathbb F^{n +1}
+v_0 =\sum_{i =1}^{n +1} c_i v_i
+c_1, c_2, \ldots, c_{n +1} .
+[e_i] \to [v_i]
+0 \le i \le n +1 .
+P_0, P_1, P_2, \ldots, P_{n +1}
+n +2
+\mathbb P (\mathbb F^{n +1})
+n +1
+Q_0, Q_1, Q_2, \ldots, Q_{n +1}
+P_i \to Q_i,
+0 \le i \le n +1 .
+\mathbb P (\mathbb R^3) =\mathbb R \mathbb P_2
+\mathbb R^3
+\Pi
+\mathbb R^3
+n =(n_1, n_2, n_3)
+n \cdot v =0,
+v =(x, y, z)
+\Pi
+n
+n \cdot v =n_1 x +n_2 y +n_3 z =0 .
+n
+\Pi,
+G(2, \mathbb R)
+\mathbb R^3
+\mathbb R^3 /\mathbb R^\ast .
+\ell =[n] =[n_1, n_2, n_3]
+\ell
+\mathbb R^3
+(n_1, n_2, n_3) .
+[v]
+v
+\mathbb R^3
+n \cdot v =0
+n \cdot v =0
+n, v,
+(3.5.1) & (\alpha n) \cdot (\beta v) =0for\space all\alpha, \beta \in \mathbb F^\ast,
+\ell \cdot P =[n_1, n_2, n_3] \cdot [x, y, z] =0
+\ell =[n_1, n_2, n_3]
+P =[x, y, z],
+\mathbb R \mathbb P_2 .
+(3.5.2) & \ell \cdot P =0 \Leftrightarrow Plies\space on\ell \Leftrightarrow \ell containsP .
+v, w
+\mathbb R^3,
+v \times w
+v, w .
+\Pi, \Sigma
+\mathbb R^3
+n, m,
+n \times m
+\Pi \cap \Sigma .
+[u] \times [v] \colon =[u \times v] .
+P =[u], P' =[u']
+\mathbb R \mathbb P_2,
+\overline{PP'} =[u \times u']
+\ell =[n], \ell ' =[n']
+\mathbb R \mathbb P_2,
+[n \times n']
+\ell \cap \ell ' .
+\mathbb P (\mathbb F^{n +1}) =\mathbb F \mathbb P_n
+\mathbb F^n
+\mathbb F^{n +1} !
+i
+U_i
+\mathbb F \mathbb P_n
+x_i
+\pi_i \colon U_i \to \mathbb F^n
+[x_0, x_1, x_2, \ldots x_{i -1}, x_i, x_{i +1}, \ldots, x_n] \to (\frac{x_0}{x_i}, \frac{x_1}{x_i}, \frac{x_2}{x_i}, \ldots \frac{x_{i -1}}{x_i}, \frac{x_{i +1}}{x_i}, \ldots, \frac{x_n}{x_i}) .
+\mathbb F^n \to \mathbb F \mathbb P_n
+(x_0, x_1, \ldots x_{i -1}, \hat{x_i}, x_{i +1}, \ldots, x_n) \to [x_0, x_1, \ldots x_{i -1}, 1, x_{i +1}, \ldots, x_n]
+i
+\mathbb F \mathbb P_n .
+0
+\mathbb C \to \mathbb C \mathbb P_2
+( \hat{\mathbb C}, MOB)
+(\mathbb P (\mathbb C^2), PGL(2))
+\mu \colon \mathbb P (\mathbb C^2) \to \hat{\mathbb C}
+(3.5.3) & \mu ([\alpha, \beta]) =\{\alpha /\beta & \beta \not= 0 \\ \infty & \beta =0. \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+\mu
+\pi_1 \colon U_1 \to \mathbb C
+\pi_1 ([x_0, x_1]) =\frac{x_0}{x_1}
+\mathbb P_1 =\mathbb P (\mathbb F^2)
+\mu \colon \mathbb P_1 \to \hat{\mathbb F},
+\mu ([x_0, x_1]) =\frac{x_0}{x_1}
+\mathbb F
+\hat{\mathbb F} =\mathbb F \cup \{\infty \}
+[e_0] =[1, 1], [e_2] =[0, 1], [e_1] =[1, 0]
+\mathbb P_1
+1, 0, \infty
+\hat{\mathbb F},
+( \cdot, P_1, P_2, P_3)
+[T]
+P_1, P_2, P_3
+[e_0], [e_2], [e_1] .
+(P_0, P_1, P_2, P_3)
+\mu ([T](P_0)) .
+\mathbb F =\mathbb C,
+\mu,
+(P_0, P_1, P_2, P_3) =(\mu (P_0), \mu (P_1), \mu (P_2), \mu (P_3))
+(P_0, P_1, P_2, P_3) =\frac{\det (P_0 P_2)\det (P_1 P_3)}{\det (P_1 P_2)\det (P_0 P_3)}
+\det (P_i P_j)
+\begin{bmatrix} a_i & a_j \\ b_i & b_j \end{bmatrix},
+P_i =[a_i, b_i] .
+\mathbb R \mathbb P_2
+u =(u_1, u_2, u_3), v =(v_1, v_2, v_3), w =(w_1, w_2, w_3)
+\mathbb R^3,
+M
+M = \begin{bmatrix} u_1 & v_1 & w_1 \\ u_2 & v_2 & w_2 \\ u_3 & v_3 & w_3 \end{bmatrix}
+[u], [v], [w]
+\mathbb R \mathbb P_2
+\det M =0 .
+A, B, C
+\mathbb R \mathbb P_2 .
+A', B', C'
+P, Q, R
+P =BC' \cap B'C,
+Q =AC' \cap A'C,
+R =AB' \cap A'B .
+P, Q, R
+A, A', P, R
+A =[e_1],
+A' =[e_2],
+P =[e_3],
+R =[e_0] .
+AR =[0, -1, 1]
+A'R =[1, 0, -1] .
+B' =[r, 1, 1]
+B =[1, s, 1]
+r, s .
+C =[rs, s, 1]
+C' =[r, rs, 1] .
+Q =[rs, rs, 1] .
+P, Q, R
+[1, -1, 0] .
+B' =[x, y, z]
+AR
+y =z .
+A, B, B', P
+AB, PB' .
+C =AB \cap PB' .
+C' .
+Q =AC' \times A'C .
+\mathbb P (\mathbb F^{n +1})
+(3.5.4) & \sum_{0 \le i \le j \le n} c_{ij} x_i x_j =0.
+\mathbb R \mathbb P_2
+\mathbb P (\mathbb F^{n +1}) .
+C
+x_0^2 +x_1^2 -x_2^2 =0.
+\mathbb R^2
+C
+0, 1, 2 ?
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+V
+E \subset V \times V
+v
+w
+(v, w) \in E .
+v_0, v_1, \ldots, v_n
+(v_{i -1}, v_i) \in E
+1 \le i \le n .
+v_0
+v_n
+v_0, v_1, \ldots, v_n .
+V =\{a, b, c, d\}
+E =\{(a, b), (c, b), (c, a), (a, d), (d, c) .
+c, b
+c, a, b
+c
+b .
+f =(X, Y)
+f \colon X \to Y .
+X
+Y,
+X_0, X_1, \ldots, X_n
+f_i \colon X_{i -1} \to X_i
+1 \le i \le n
+X_0 =Y_0, Y_1, Y_2, \ldots, Y_m =X_n
+g_i \colon Y_{i -1} \to Y_i
+1 \le i \le m,
+f_n \circ f_{n -1} \circ \cdots \circ f_1 =g_m \circ g_{m -1} \circ \cdots \circ g_1 .
+f, g
+\overline{f} \circ \pi =f
+r
+\mathbb R_\mathbb H^3 \to \mathbb R_\mathbb H^3
+u \to rur
+r .
+rur =u -2(u \cdot r)r .
+u \in \mathbb R_\mathbb H^3
+r \in \mathbb R_\mathbb H^3 .
+\mathbb Z_n
+[x]([y] +[z]) =[x][y] +[x][z]
+[x], [y], [z] \in \mathbb Z_n .
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+\mathbb Z_n
+U_n
+Z_n
+U_n =\{x \in \mathbb Z_n \colon \exists y, xy =1( modn)\} .
+x
+U_n
+x
+n .
+U_n
+n
+U_n
+Aut(\mathbb Z_n)
+x \to [a \to ax] .
+U_n
+\mathbb Z_n .
+n \to | U_n |,
+\phi (n) =| U_n | .
+x
+p,
+x^p =x( modp) .
+x
+p,
+x =qp +r
+0 \le r \le p -1 .
+r =0
+r \not= 0,
+r^{| G|} =e
+G =U_p .
+e
+S_n
+e =\tau_1 \tau_2 \cdots \tau_r .
+r
+\sigma
+S_n
+\sigma =(a_1 b_1)(a_2 b_2)\cdots (a_s b_s) =(c_1 d_1)(c_2 d_2)\cdots (c_t d_t)
+s, t
+s, t
+\sigma .
+k
+k
+k
+k
+\tau_{r -1} \tau_r .
+a, b, c, d
+(ab)(ab), (ac)(ab), (bc)(ab), (cd)(ab)
+(ab)(bc), (ac)(cb), (ab)(cd)
+a
+r
+r -1
+| A_n | =| S_n |/2
+n \ge 2,
+S_n
+\sigma \in S_n
+\sigma
+S, T
+G,
+ST
+ST =\{st \colon s \in S, t \in T\} .
+H
+G .
+(xH)(yH) =xyH
+x, y
+G
+H
+G .
+K, H
+\phi \colon H \to Aut(K)
+K\times_\phi H,
+K \rtimes H
+\phi
+(k, h)
+k \in K,
+h \in H
+K \times H
+K \times H .
+\ast
+(k_1, h_1) \ast (k_1, h_2) =(k_1 \phi (h_1)(k_2), h_1 h_2) .
+D_n
+C_n \rtimes C_2,
+C_n
+R_{1/n}
+1/n
+C_2
+R_L
+D_n .
+\phi \colon C_2 \to Aut(C_n)
+F_L \to [R_\theta \to R_{ -\theta}] .
+\mathbb R^2 \rtimes O(2),
+(\mathbb R^2, +)
+2 \times 1
+O(2)
+2 \times 2
+\phi \colon O(2) \to Aut(\mathbb R^2)
+g \to [v \to gv],
+O(2)
+\mathbb R^2 .
+(v, g)
+x \in \mathbb R^2
+x \to gx +v .
+K \rtimes H
+K, H
+G .
+KH =\{kh \colon k \in K, h \in H\} .
+K
+G,
+G =KH,
+K \cap H =\{e\} .
+\phi \colon H \to Aut(K),
+\phi (h)(k) =hkh^{ -1},
+\psi \colon K\times_\phi H \to G,
+\psi (k, h) =kh,
+D_n \approx C_n \rtimes C_2,
+[(v_1, g_1)(v_2, g_2)]x =(v_1, g_1)[(v_2, g_2)x],
+v_1, v_2, x \in \mathbb R^2
+g_1, g_2 \in O(2) .
+\phi \colon H \to Aut(K)
+\phi (h)
+K,
+h \in H
+K\times_\phi H \approx K \times H
+G
+G
+X .
+\mscrF (X, Y)
+\mscrF (X, Y) =\{f \colon X \to Y\}
+X
+Y .
+(g \cdot \alpha)(x) =\alpha (g^{ -1} \cdot x)
+G
+\mscrF (X, Y),
+g \in G,
+\alpha \in \mscrF (X, Y),
+x \in X .
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+G, H
+\phi \colon G \to H
+\phi (xy) =\phi (x)\phi (y)
+x, y
+G .
+\phi \colon G \to H
+G
+H,
+G \approx H .
+GL(n, \mathbb R) \to \mathbb R^\ast
+M \to \det M
+\mathbb Z \to \mathbb Z
+x \to mx,
+m \in \mathbb Z
+G \to G,
+G
+x \to axa^{ -1},
+a \in G
+\mathbb C^\ast \to \mathbb C^\ast
+z \to z^2
+\mathbb Z \to \mathbb Z
+x \to x +3
+\mathbb Z \to \mathbb Z
+x \to x^2
+D_4 \to D_4
+g \to g^2
+\phi \colon G \to H
+e_H
+H .
+\ker (\phi)
+\ker (\phi) \colon =\phi^{ -1} (e_H) =\{g \in G \colon \phi (g) =e_H \},
+\phi .
+\mathbb C^\ast \to \mathbb C^\ast
+z \to z^n
+\mathbb Z_8 \to \mathbb Z_8
+x \to 6x( mod8)
+G \to G,
+G
+x \to axa^{ -1},
+a \in G
+C_n
+\langle 4 \rangle =\{0, 4\}
+\{e\}
+\phi \colon G \to H
+e_G, e_H
+G, H,
+\phi (e_G) =e_H
+\phi (g^{ -1}) =(\phi (g))^{ -1}
+g \in G
+\ker (\phi)
+G
+\phi (G)
+H
+\phi (x) =y
+\phi^{ -1} (y) =x\ker (\phi)
+\phi (a) =\phi (b)
+a\ker (\phi) =b\ker (\phi)
+\phi
+\ker (\phi) =\{e_G \}
+G/K
+K
+K
+G .
+G/K
+K
+(2.4.1) & (xK)(yK) =xyK
+K
+G \to G'
+G' .
+\phi \colon G \to H
+G/\ker (\phi)
+\phi (G)
+g\ker (\phi) \to \phi (g) .
+H
+G
+ghg^{ -1} \in H
+g \in G,
+h \in H .
+H \trianglelefteq G
+H
+G .
+K
+G .
+K
+\phi \colon G \to H
+G/K
+K
+G
+K =\ker (\phi)
+\phi \colon G \to G' .
+G/K \leftrightarrow \phi (G)
+gK \leftrightarrow \phi (g) .
+G/K \leftrightarrow \phi (G)
+\phi (G)
+G/K .
+G/K
+\phi \colon G \to G/K
+\phi (g) =gK,
+\phi
+\ker (\phi) =K .
+n, a
+\mathbb Z_n \to \mathbb Z_n
+x \to ax
+\gcd (m, n)
+sm +tn
+s, t
+ax =1( modn)
+a, n
+\mathbb Z_n
+n \ge 1
+\omega =e^{i2\pi /n} .
+\phi \colon \mathbb Z \to S^1
+k \to \omega^k .
+\phi
+C_n
+n
+\phi
+\phi
+n\mathbb Z =\{nk \colon k \in \mathbb Z \} .
+\mathbb Z /(n\mathbb Z)
+n
+S
+G .
+\phi \colon G \to H
+\phi (S) =\{\phi (s) \colon s \in S\} .
+\phi ( \langle S \rangle) = \langle \phi (S) \rangle .
+G
+a
+G,
+C_a \colon G \to G
+C_a (g) =aga^{ -1} .
+C_a
+a
+g, aga^{ -1}
+C_a
+G
+G
+x \sim y
+y =C_a (x)
+a .
+\approx
+G \approx H
+\phi \colon G \to H .
+xK =x'K
+yK =y'K,
+xyK =x'y'K .
+gKg^{ -1} =K
+g \in G
+gK =Kg
+g \in G
+G
+G
+G
+G
+Aut(G)
+Aut(G)
+Inn(G) \colon =\{C_g \colon g \in G\}
+Aut(G) .
+Inn(G)
+G .
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+X
+X \times X .
+R \subseteq X \times X,
+x\sim_R y,
+x \sim y
+R
+(x, y) \in R .
+x \sim x
+x
+X .
+x \sim y
+y \sim x .
+x \sim y
+y \sim z
+x \sim z .
+X
+x \in X,
+[x]
+(1.4.1) & [x] =\{y \in X \colon x \sim y\},
+x .
+X/ \sim,
+(1.4.2) & X/ \sim =\{[x] \colon x \in X\} .
+X
+X .
+n
+n
+\sim_n
+\mathbb Z
+x\sim_n y \Leftrightarrow n|(x -y)
+a|b
+a, b,
+a
+b
+b =ka
+k
+\sim_n
+\mathbb Z /\sim_n =\{[0], [1], [2], \ldots, [n -1]\} .
+Z/\sim_n,
+\mathbb Z_n .
+x\sim_n y,
+x =y( modn)
+x \equiv y( modn)
+\sim_n
+\sim_n
+\{[0], [1], [2], \ldots, [n -1]\} .
+x \in \mathbb Z,
+q, r,
+r
+0 \le r \le n -1,
+x =qn +r .
+\mathbb Z
+n
+X
+X
+X
+\sim
+X,
+X/ \sim =\{[x] \colon x \in X\}
+X .
+\mathcal P
+X,
+\sim_\mathcal P
+x\sim_\mathcal P y \Leftrightarrow x, y\~lie\space in\space the\space same\space element\space of\~\mathcal P
+\sim =\sim_{(X/ \sim)}
+X/(\sim_\mathcal P) =\mathcal P .
+\sim
+X,
+x, y \in X .
+[x] =[y]
+[x] \cap [y] =\varnothing .
+\sim
+X,
+\pi \colon X \to X/ \sim
+x \to [x],
+f \colon X \to Y
+\overline{f} \colon X/ \sim \to Y
+(\overline{f} \circ \pi)(x) =f(x)
+x \in X
+f
+[x \sim y \Rightarrow f(x) =f(y)] .
+f
+\overline{f}
+f \colon X \to Y,
+\sim_f
+X
+x\sim_f y \Leftrightarrow f(x) =f(y) .
+X/\sim_f =\{f^{ -1} (y) \colon y \in f(X)\} .
+X/\sim_f \to f(X)
+[x] \to f(x)
+X
+X =\mathbb Z \times (\mathbb Z \setminus \{0\}) =\{(m, n) \colon m, n \in \mathbb Z, n \not= 0\}
+\mathbb Q
+\mathbb Q =\{\frac{m}{n} \colon m, n \in \mathbb Z, n \not= 0\} .
+\sim
+X
+(m, n) \sim (m', n') \Leftrightarrow mn' -m'n =0.
+f \colon X \to \mathbb Z
+f(m, n) =m^2 +n^2
+g \colon X \to \mathbb Q
+g(m, n) =\frac{m}{n} .
+\sim
+X
+\{[(m, n)] \colon (m, n) \in X\} .
+\overline{f} \colon X/ \sim \to \mathbb Z
+\overline{f}([(m, n)]) =f(m, n)
+X
+X/\sim_f .
+\overline{g} \colon X/ \sim \to \mathbb Q
+\overline{g}([(m, n)]) =g(m, n)
+X
+X/\sim_g .
+\sim
+\sim_g
+X .
+X/ \sim
+\mathbb Q .
+n
+n
+\omega
+\omega =e^{2\pi i/n},
+f \colon \mathbb Z \to \mathbb C
+m \to \omega^m .
+\sim_f
+\sim_n .
+\mathbb Z_n
+[x] +[y] \colon =[x +y]
+[x] =[x']
+[y] =[y'],
+[x +y] =[x' +y'] .
+\mathbb Z_n
+[x] \cdot [y] \colon =[xy]
+\mathbb Z_n
+\mathbb Z_n,
+a,
+aMODn
+a
+n
+aMODn
+r
+\mathbb Z_n
+\mathbb Z_n =\{0, 1, 2, \ldots, n -1\},
++_n
+\mathbb Z_n
+x+_n y =(x +y)MODn
+\cdot_n
+\mathbb Z_n
+x\cdot_n y =(xy)MODn .
+\mathbb Z_n
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+\mathbb D =\{z \colon | z| \lt 1\}
+HYP
+MOB
+\mathbb D
+(\mathbb D, HYP)
+HYP .
+\mathbb D
+C
+C
+C .
+C
+C .
+C
+D, E
+\hat{\mathbb C} \setminus C .
+T
+D
+T
+E
+T
+C
+T
+D
+C
+C,
+D .
+T
+T
+E
+T
+E
+T
+C
+T \in HYP,
+T
+T \in HYP,
+z_0 \in \mathbb D
+T
+0 .
+T
+1/z_0^\ast
+\infty .
+z_1
+T
+1 .
+T
+Tz =\frac{z -z_0}{z -1/z_0^\ast}\frac{z_1 -1/z_0^\ast}{z_1 -z_0} .
+-z_0^\ast,
+\alpha = -z_0^\ast \frac{z_1 -1/z_0^\ast}{z_1 -z_0},
+Tz =\alpha \frac{z -z_0}{1 -z_0^\ast z} .
+| \alpha | =1,
+T \in HYP .
+T
+HYP
+T
+(3.3.1) & Tz =e^{it} \frac{z -z_0}{1 -z_0^\ast z}
+t \in \mathbb R
+z_0 \in \mathbb D .
+T \in HYP
+T
+(3.3.2) & Tz =\frac{az +b}{b^\ast z +a^\ast}
+a, b \in \mathbb C
+| a|^2 -| b|^2 =1 .
+\mathbb D
+\mathbb D,
+C
+p .
+C
+\hat{\mathbb R} .
+T \in MOB
+C
+Tz =z,
+T(z^{ \ast C}) =z^{ \ast C} .
+T
+HYP .
+T
+T .
+p, q
+| p| \lt 1,
+| q| >1,
+q =\frac{1}{p^\ast},
+p, q
+T
+z
+U =S \circ T \circ S^{ -1}
+w
+Uw =\lambda w,
+\lambda \in \mathbb C,
+w =Sz =\frac{z -p}{z -q} .
+S
+C,
+U
+C
+| \lambda | =1,
+T
+T
+p, q .
+T \in HYP
+w =Sz =\frac{z -p}{z -q}
+L,
+U =S \circ T \circ S^{ -1}
+L
+\lambda
+S
+\mathbb D
+L,
+U
+\lambda
+T
+T
+p, q .
+T \in HYP
+w =Sz =\frac{1}{z -p}
+T
+U =S \circ T \circ S^{ -1}
+Uw =w +\beta
+\beta \not= 0 .
+T
+T
+p .
+T \in HYP
+z_1, z_2
+z_1, z_2
+\mathbb D .
+T \in HYP
+z_1 \to 0
+z_2 \to u >0 .
+T^{ -1} (\mathbb R)
+z_1, z_2 .
+q_1 =T^{ -1} ( -1)
+q_2 =T^{ -1} (1) .
+T
+Sz =\frac{z -z_1}{1 -z_1^\ast z},
+t = -arg(Sz_2),
+Tz =e^{it} Sz,
+Tz_1 =0
+Tz_2 =u >0 .
+T \in HYP,
+T
+z_1, t .
+(0, u, 1, -1) =\frac{1 +u}{1 -u} .
+(z_1, z_2, q_2, q_1) =\frac{1 +u}{1 -u} .
+0 \le u \lt 1,
+1 \le \frac{1 +u}{1 -u} \lt \infty
+u =0 .
+z_1, z_2
+\mathbb D,
+d(z_1, z_2)
+(3.3.3) & d(z_1, z_2) =\{\ln ((z_1, z_2, q_2, q_1)) & z_1 \not= z_2 \\ 0 & z_1 =z_2 \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+q_1, q_2
+z_1, z_2
+q_i
+z_i
+z_1 \not= z_2 .
+(3.3.4) & d(z_1, z_2) =\ln (\frac{1 +u}{1 -u})
+u =| \frac{z_2 -z_1}{1 -z_1^\ast z_2}| .
+u
+d
+(3.3.5) & d(z_1, z_2) =d(Tz_1, Tz_2)
+z_1, z_2 \in \mathbb D
+T \in HYP .
+d
+d(z_1, z_2)
+z_1, z_2 .
+d
+\mathbb D .
+d
+z_1, z_2, z_3
+\mathbb D .
+d(z_1, z_2) \ge 0,
+d(z_1, z_2) =0
+z_1 =z_2
+d(z_1, z_2) =d(z_2, z_1)
+d(z_1, z_3) \le d(z_1, z_2) +d(z_2, z_3)
+d(z_1, z_2)
+d(z_2, z_1)
+\gamma
+t \to z(t) =x(t) +iy(t),
+x(t), y(t)
+t
+a \lt t \lt b .
+\gamma,
+t_0 \le t \le t_1 .
+z_0 =z(t_0)
+z_1 =z(t_1) .
+d(z(t_0), z(t_1)) =\ln (\frac{1 +u}{1 -u})
+u =| \frac{z_1 -z_0}{1 -z_0^\ast (z_1)}| .
+| z_1 -z_0 |
+| z'(t_0)|dt,
+z'(t) =x'(t) +iy'(t)
+dt =t_1 -t_0 .
+u
+\frac{| z'(t_0)|}{1 -| z(t_0)|^2}dt .
+\ln ((1 +u)/(1 -u))
+2u .
+(3.3.6) & Length(\gamma) =2\int_a^b \frac{| z'(t)|}{1 -| z(t)|^2}dt
+\ln ((1 +u)/(1 -u))
+2u .
+z(t) =\alpha e^{it}
+0 \le t \le 2\pi,
+0 \lt \alpha \lt 1
+R
+\mathbb D,
+r
+\theta,
+z =re^{i\theta}
+r \to z_1 (r) =re^{i\theta}
+\theta
+\theta \to z_2 (\theta) =re^{i\theta}
+r
+z_1^' (r) =e^{i\theta}
+z_2^' (\theta) =ire^{i\theta},
+ds =\frac{2| z'(t)|dt}{1 -| z(t)|^2}
+| dz_1 | =\frac{2| e^{i\theta} |dr}{1 -r^2} =\frac{2dr}{1 -r^2}
+| dz_2 | =\frac{2| ire^{i\theta} |d\theta}{1 -r^2} =\frac{2rd\theta}{1 -r^2}
+dA =\frac{4rdrd\theta}{(1 -r^2)^2},
+R
+(3.3.10) & Area(R) =\iint_R dA =\iint_R \frac{4rdrd\theta}{(1 -r^2)^2} .
+\{| z| \le \alpha \},
+0 \lt \alpha \lt 1 .
+\mathbb U =\{z \colon Im(z) >0\}
+HYP_\mathbb U
+MOB
+\mathbb U
+(\mathbb U, HYP_\mathbb U)
+T
+HYP_\mathbb U
+T
+(3.3.11) & Tz =\frac{az +b}{cz +d}
+a, b, c, d
+ad -bc >0 .
+z_1, z_2
+(3.3.12) & d(z_1, z_2) =\ln ((z_1, z_2, q_2, q_1))
+q_1, q_2
+z_1, z_2,
+q_i
+z_i .
+\gamma
+t \to z(t) =x(t) +iy(t)
+a \le t \le b
+(3.3.13) & Length(\gamma) =\int_a^b \frac{| z'(t)|}{y(t)}dt .
+R
+\mathbb U
+(3.3.14) & Area(R) =\iint_R dA =\iint_R \frac{dxdy}{y^2} .
+| z| =1
+1 =| Tz| =| \alpha || \frac{z -z_0}{1 -z_0^\ast z}| .
+| \alpha | =1 .
+z_0 \in \mathbb D
+t \in \mathbb R,
+a =\frac{e^{it/2}}{\sqrt{1 -| z_0 |^2}}, b =\frac{ -e^{it/2} z_0}{\sqrt{1 -| z_0 |^2}}
+| a|^2 -| b|^2 =1
+(3.3.15) & \frac{az +b}{b^\ast z +a^\ast} =e^{it} \frac{z -z_0}{1 -z_0^\ast z} .
+a, b \in \mathbb C
+| a|^2 -| b|^2 =1,
+t =2arga, z_0 = -\frac{b}{a}
+z_0 \in \mathbb D,
+p, q
+\mathbb D .
+p
+q .
+p \to 0 .
+L
+p \in \mathbb D
+L .
+M
+p
+L .
+p \to 0 .
+d(a, b) \le d(a, c) +d(c, b)
+a, b, c
+\mathbb D
+a, b, c
+c
+a
+b .
+d .
+a, b, c
+c
+a
+b .
+p \in \mathbb D
+L,
+q \in \mathbb D,
+M
+q
+L
+M
+q'
+L, M .
+d(p, q') \le d(p, q) .
+T \in HYP
+p \to 0
+L \to \mathbb R .
+t = -arg(Tq)
+Re(Tq) \ge 0
+t =\pi -arg(Tq)
+Re(Tq) \lt 0 .
+r =e^{it} Tq .
+a, b, c,
+T
+a \to 0
+b
+Tc
+c' .
+\hat{\mathbb R},
+T
+z_1, z_2, z_3
+T
+0, 1, \infty,
+T
+y >0
+Im(T(x +iy)) >0 .
+d(z(t_0), z(t_1)) \approx \frac{| z'(t)|dt}{y(t)}
+z(t) =x(t) +iy(t)
+z(t_0) =z_0,
+z(t_1) =z_1,
+dt =t_1 -t_0
+z_0, z_1
+\mathbb U
+z_0^', z_1^'
+\mathbb D
+\mu
+d(z_0^', z_1^') =\ln (\frac{1 +u}{1 -u})
+u =| \frac{z_1^' -z_0^'}{1 -(z_0^')^\ast z_1^'}| .
+z_0, z_1,
+\frac{| z'(t)|dt}{y(t)} .
+\mu z =\frac{z -i}{z +i}
+\mathbb U
+\mathbb D .
+z_0^' =\mu z_0
+z_1^' =\mu z_1 .
+\frac{z_1^' -z_0^'}{1 -(z_0^')^\ast z_1^'} =e^{it} \frac{z_1 -z_0}{z_0^\ast -z_1}
+t .
+u =| \frac{z_1 -z_0}{z_0^\ast -z_1}| .
+\ln (\frac{1 +u}{1 -u}) \approx \frac{| z(t)|dt}{y(t)} .
+\triangle ABC
+\mathbb D
+\triangle AA_1 A_2,
+\triangle BB_1 B_2,
+\triangle CC_1 C_2
+\alpha .
+\alpha
+\mathbb U
+\pi -\alpha .
+1, p, \infty
+p
+n
+n \ge 3
+n
+A_1, A_2, B_1, B_2, C_2, C_2
+n
+\pi (n -2) .
+n
+n
+\triangle ABC
+AB,
+BC,
+AC
+\triangle ABC
+(3.3.16) & Area(\triangle ABC) =\pi -( \angle A + \angle B + \angle C) .
+A_1, A_2, B_1, B_2, C_1, C_2 .
+\mathbb D
+A, B, C
+\triangle AA_1 A_2
+\triangle AC_1 B_2 .
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+(3.2.1) & f(z) =\frac{az +b}{cz +d}
+z
+a, b, c, d
+ad -bc \not= 0 .
+c =0,
+f \colon \mathbb C \to \mathbb C
+g
+f
+f \circ g
+g \circ f
+\mathbb C .
+c \not= 0,
+f \colon \mathbb C \setminus \{ -d/c\} \to \mathbb C \setminus \{a/c\}
+g
+f
+f \circ g
+\mathbb C \setminus \{a/c\}
+g \circ f
+\mathbb C \setminus \{ -d/c\} .
+ad -bc \not= 0 .
+f
+ad -bc \not= 0 .
+f(z) =\frac{az +b}{cz +d}
+\hat{C}
+c =0,
+f(\infty) =\infty;
+c \not= 0,
+f( -d/c) =\infty
+f(\infty) =a/c .
+z \to \frac{rz +s}{tz +u} .
+ru -ts \not= 0,
+MOB
+( \hat{\mathbb C}, MOB) .
+S, T, U
+Tz
+T(z)
+\mathscr T \colon GL(2, \mathbb C) \to MOB
+(3.2.2) & \begin{bmatrix} a & b \\ c & d \end{bmatrix} \to [z \to \frac{az +b}{cz +d}]
+\mathscr T
+\ker \mathscr T =\{ \begin{bmatrix} k & 0 \\ 0 & k \end{bmatrix}, k \not= 0\} .
+GL(2, \mathbb C)/\ker \mathscr T
+PGL(2, \mathbb C) .
+PGL(2, \mathbb C) \approx MOB .
+\mathscr T
+\mathscr T
+\ker \mathscr T =\{ \begin{bmatrix} k & 0 \\ 0 & k \end{bmatrix}, k \not= 0\} .
+a, b, c, d
+z \to \frac{az +b}{cz +d}
+2 -i
+\{1, 0, \infty \} .
+z_1, z_2, z_3
+T
+(3.2.3) & Tz =\frac{z -z_2}{z -z_3}\frac{z_1 -z_3}{z_1 -z_2}
+Tz_1 =1, Tz_2 =0, Tz_3 =\infty .
+Tz_1 =1, Tz_2 =0, Tz_3 =\infty .
+z_i
+\{1, 0, \infty \}
+z_1, z_2, z_3
+T
+Tz_1 =1, Tz_2 =0, Tz_3 =\infty .
+T
+z_1 =\infty,
+z_2 =\infty
+z_3 =\infty .
+(z_1 =\infty) & \~ & Tz =\frac{z -z_2}{z -z_3} \\ (z_2 =\infty) & \~ & Tz =\frac{z_1 -z_3}{z -z_3} \\ (z_3 =\infty) & \~ & Tz =\frac{z -z_2}{z_1 -z_2}
+z =\frac{az +b}{cz +d} .
+z_1, z_2, z_3
+\hat{C}
+w_1, w_2, w_3
+\hat{\mathbb C},
+T \in MOB
+Tz_i =w_i
+i =1, 2, 3 .
+z_1, z_2, z_3
+\hat{\mathbb C},
+( \cdot, z_1, z_2, z_3)
+z_1 \to 1,
+z_2 \to 0,
+z_3 \to \infty
+(z_0, z_1, z_2, z_3)
+z_0
+( \cdot, z_1, z_2, z_3) .
+(z_0, z_1, z_2, z_3)
+z_0, z_1, z_2, z_3 .
+(3.2.4) & (z_0, z_1, z_2, z_3) =\frac{z_0 -z_2}{z_0 -z_3}\frac{z_1 -z_3}{z_1 -z_2}
+z_1, z_2, z_3
+\hat{\mathbb C},
+z_0 \in \hat{\mathbb C},
+T
+(z_0, z_1, z_2, z_3) =(Tz_0, Tz_1, Tz_2, Tz_3) .
+( \cdot, z_1, z_2, z_3)
+( \cdot, Tz_1, Tz_2, Tz_3) \circ T
+z_1 \to 1,
+z_2 \to 0,
+z_3 \to \infty,
+z_0 .
+z_1, z_2, z_3
+\hat{\mathbb C},
+T =( \cdot, z_1, z_2, z_3),
+C_T =T^{ -1} ( \hat{\mathbb R})
+\hat{\mathbb R} =\mathbb R \cup \{\infty \}
+T .
+C_T
+C_T
+z_1, z_2, z_3 .
+(z_0, z_1, z_2, z_3)
+z_0, z_1, z_2, z_3
+C
+\hat{C}
+T
+T(C)
+z_1, z_2, z_3
+C
+w_1 =Tz_1, w_2 =Tz_2, w_3 =Tz_3 .
+U =( \cdot, z_1, z_2, z_3)
+V =( \cdot, w_1, w_2, w_3) .
+T =V^{ -1} U
+T(C) =V^{ -1} U(C) =V^{ -1} ( \hat{\mathbb R})
+C, D
+z_1, z_2, z_3
+C
+w_1, w_2, w_3
+D .
+U =( \cdot, z_1, z_2, z_3)
+V =( \cdot, w_1, w_2, w_3),
+T =V^{ -1} U .
+T
+C
+D .
+z \to z^\ast
+C
+z_1, z_2, z_3
+\hat{\mathbb C},
+T =( \cdot, z_1, z_2, z_3) .
+z,
+C
+(3.2.5) & z^{ \ast C} =(T^{ -1} \circ conj \circ T)(z)
+conj \colon \hat{\mathbb C} \to \hat{\mathbb C}
+\infty \to \infty^\ast =\infty .
+C
+T,
+C .
+z, z^{ \ast C}
+C
+(z^{ \ast C})^{ \ast C} =z .
+(T^{ -1} \circ conj \circ T) \circ (T^{ -1} \circ conj \circ T) =Id
+z^{ \ast C}
+C,
+z_1, z_2, z_3 .
+C
+S
+z, z'
+C,
+Sz, Sz'
+S(C) .
+(Sz)^{ \ast S(C)} =S(z^{ \ast C}) .
+z_1, z_2, z_3
+C,
+Sz_1, Sz_2, Sz_3
+S(C) .
+T =( \cdot, z_1, z_2, z_3)
+U =( \cdot, Sz_1, Sz_2, Sz_3) .
+(U \circ S)z =Tz .
+(Sz)^{ \ast S(C)} & \lt mi/> =(U^{ -1} \circ conj \circ U)(Sz)(by\space definition) \\ \~ & \lt mi/> =(S \circ S^{ -1} \circ U^{ -1} \circ conj \circ U \circ S)(z) \\ \~ & \lt mi/> =S(S^{ -1} \circ U^{ -1} \circ conj \circ U \circ S)(z) \\ \~ & \lt mi/> =S(T^{ -1} \circ conj \circ T)(z) \\ \~ & \lt mi/> =S(z^{ \ast C})
+0
+\infty,
+z \to \alpha z
+\alpha \in \mathbb C .
+\infty,
+z \to z +\beta
+\beta \in \mathbb C .
+T
+p
+q .
+S
+Sz =\frac{z -p}{z -q} .
+w =Sz
+U =S \circ T \circ S^{ -1}
+w
+T
+S
+U
+0
+\infty .
+Uw =\alpha w
+\alpha \in \mathbb C .
+S \circ T =U \circ S
+z,
+T .
+(3.2.6) & \frac{Tz -p}{Tz -q} =\alpha \frac{z -p}{z -q}
+T
+U
+| \alpha | =1
+\alpha >0
+T
+p .
+S
+Sz =\frac{1}{z -p} .
+w =Sz
+U =S \circ T \circ S^{ -1} .
+U
+\infty .
+Uw =w +\beta
+\beta \in \mathbb C .
+S \circ T =U \circ S
+z,
+T .
+(3.2.7) & \frac{1}{Tz -p} =\frac{1}{z -p} +\beta
+T \in MOB
+\frac{Tz -p}{Tz -q} =\alpha \frac{z -p}{z -q}, | \alpha | =1
+\frac{Tz -p}{Tz -q} =\alpha \frac{z -p}{z -q}, \alpha >0
+\frac{Tz -p}{Tz -q} =\alpha \frac{z -p}{z -q}, \alpha \not= 0
+| \alpha | \not= 1, \alpha \ngtr 0
+\frac{1}{Tz -p} =\frac{1}{z -p} +\beta, \beta \not= 0
+w \to \alpha w
+w \to w +\beta .
+w \to \alpha w
+w \to w +\beta
+\beta .
+\beta
+z
+S^{ -1}
+T
+p, q,
+Sz =\frac{z -p}{z -q}
+p \to 0,
+q \to \infty .
+S^{ -1}
+0 \to p
+\infty \to q .
+S^{ -1}
+w
+z
+p
+q
+S^{ -1}
+w
+z
+T
+p,
+Sz =\frac{1}{z -p}
+p \to \infty,
+S^{ -1}
+\infty \to p,
+S^{ -1}
+w
+0
+\beta
+z
+p .
+p .
+z \to az,
+a
+c \not= 0 .
+(3.2.8) & z & \lt mi/> \to cz +d \\ (3.2.9) & \~ & \lt mi/> \to \frac{1}{cz +d} \\ (3.2.10) & \~ & \lt mi/> \to \frac{bc -ad}{cz +d} +a \\ (3.2.11) & \~ & \lt mi/> \to \frac{1}{c}(\frac{bc -ad}{cz +d} +a) \\ (3.2.12) & \~ & \lt mi/> =\frac{az +b}{cz +d}
+c =0 .
+U
+z_1, z_2, z_3
+1, 0, \infty,
+V
+w_1, w_2, w_3
+1, 0, \infty .
+1 \to a, 0 \to b, \infty \to c
+a \to d, b \to e, c \to f
+Tz =\frac{az +b}{cz +d},
+Tz =(Tz)^\ast
+| z|^2, z, z^\ast
+a, b, c, d
+| z|^2
+Tz =(Tz)^\ast,
+| z|^2
+| z -(\frac{a^\ast d -bc^\ast}{ac^\ast -a^\ast c})|^2 =| \frac{ad -bc}{ac^\ast -a^\ast c}|^2
+P, Q, R
+C
+PQ,
+QR .
+C
+P, Q, R .
+z, z^{ \ast C}
+C
+C =T^{ -1} ( \hat{\mathbb R})
+z_1, z_2, z_3,
+T =( \cdot, z_1, z_2, z_3) .
+C
+| z -a| =r,
+a, r
+C
+| z -a| =r
+z^\ast
+z^\ast =\frac{r^2}{z -a} +a^\ast .
+(conj \circ T)(z) & \lt mi/> =(z^\ast, z_1^\ast, z_2^\ast, z_3^\ast) \\ \~ & \lt mi/> =(z^\ast, \frac{r^2}{z_1 -a} +a^\ast, \frac{r^2}{z_2 -a} +a^\ast, \frac{r^2}{z_3 -a} +a^\ast) \\ \~ & \lt mi/>\overset{(1)}{=}(\frac{r^2}{z^\ast -a^\ast} +a, z_1, z_2, z_3) \\ \~ & \lt mi/> =T(\frac{r^2}{(z -a)^\ast} +a) .
+z^{ \ast C} =\frac{r^2}{(z -a)^\ast} +a,
+z_1, z_2, z_3 .
+C
+Im(az +b) =0
+az +b =(az +b)^\ast .
+z^\ast =\frac{az +b -b^\ast}{a^\ast} .
+(conj \circ T)(z) & \lt mi/> =(z^\ast, z_1^\ast, z_2^\ast, z_3^\ast) \\ \~ & \lt mi/> =(z^\ast, \frac{az_1 +b -b^\ast}{a^\ast}, \frac{az_2 +b -b^\ast}{a^\ast}, \frac{az_3 +b -b^\ast}{a^\ast}) \\ \~ & \lt mi/>\overset{(1)}{=}(\frac{z^\ast a^\ast +b^\ast -b}{a}, z_1, z_2, z_3) \\ \~ & \lt mi/> =T(\frac{z^\ast a^\ast +b^\ast -b}{a}) .
+z^{ \ast C} =\frac{z^\ast a^\ast +b^\ast -b}{a},
+z_1, z_2, z_3 .
+z, z'
+C
+a
+r
+| z -a|| z' -a| =r^2
+z, z'
+a .
+z^{ \ast C}
+(z' -a)(z -a)^\ast =r^2 .
+z, z'
+C
+z, z'
+C .
+z \to \frac{1}{z}
+z \to \frac{3z -1}{z +1}
+p
+w \to w +\beta
+Sz =\frac{1}{z -p} .
+p
+\beta^\ast .
+S^{ -1} w =\frac{pw +1}{w},
+S^{ -1}
+0, \beta, \infty
+\infty, \frac{p\beta +1}{\beta}, p .
+p
+\frac{p\beta +1}{\beta} -p =\frac{1}{\beta} \propto \beta^\ast .
+C =\{P \in \mathbb C \colon \frac{d(P, A)}{d(P, B)} =k\}
+A, B \in \mathbb C
+k >0 .
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+n
+G
+\mathbb Z_n
+\mathbb Z_n
+n
+k
+k
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+\ast \colon S \times S \to S
+S
+(x, y)
+x \ast y .
+\ast
+x \ast (y \ast z) =(x \ast y) \ast z
+x, y, z \in S .
+G,
+\ast \colon G \times G \to G
+\ast
+e
+G,
+e \ast g =g \ast e =g
+g \in G .
+g \in G,
+h \in G,
+g,
+g \ast h =h \ast g =e .
+G
+e
+g \in G,
+h
+G
+G .
+g \in G,
+g
+g,
+g^{ -1}
+\ast,
+gh
+g \ast h .
+g^0
+k \ge 1,
+g^k
+\underset{k\~factors}{\underset{\underbrace}{g \ast g \ast \cdots \ast g}}
+g^{ -k}
+(g^k)^{ -1} .
+\ast
+S
+x \ast y =y \ast x
+x, y \in S .
+a +b
+a \ast b .
+0
+-a
+a,
+ka
+\underset{k\~summands}{\underset{\underbrace}{a +a +\cdots +a}}
+k .
+| G|
+G .
+\{1\},
+\{0\},
+G
+e, e'
+e \ast x =x \ast e =e' \ast x =x \ast e' =x
+x \in G .
+e =e' .
+G
+e .
+g \in G
+g \ast h =h \ast g =g \ast h' =h' \ast g =e .
+h =h' .
+gx =hx
+g, h, x
+G .
+g =h .
+xg =xh,
+g =h .
+g, h
+G .
+(gh)^{ -1} =h^{ -1} g^{ -1} .
+G, H
+\ast_G, \ast_H,
+G \times H
+\ast_{G \times H}
+(g, h)\ast_{G \times H} (g', h') =(g\ast_G g', h\ast_H h') .
+G
+g
+G,
+(g^k)_{k \in \mathbb Z} =(\ldots, g^{ -3}, g^{ -2}, g^{ -1}, g^0, g^1, g^2, g^3, \ldots)
+G .
+G
+g .
+G =\{g, g^2, g^3, \ldots, g^{| G|} \} .
+\mathbb Z_8
+\mathbb Z_2 \times \mathbb Z_3
+\mathbb Z_2 \times \mathbb Z_2
+n
+g^n =e
+n
+h \in G,
+h =g^k
+k,
+n
+k
+2 \le k \le n .
+\pi \in S_n
+k
+k
+A =\{a_1, a_2, \ldots, a_k \} \subseteq \{1, 2, \ldots, n\}
+\pi (a_i) =a_{i +1}
+1 \le i \le k -1
+\pi (a_k) =a_1,
+\pi (j) =j
+j \notin A .
+(a_1 a_2 \cdots a_k)
+k
+a_1 \to a_2 \to a_3 \to \cdots \to a_k \to a_1
+a_1, a_2, \ldots, a_k .
+\pi =[1, 4, 2, 3] =(2, 4, 3)
+S_4
+\pi
+A =\{2, 3, 4\}
+2 \to 4 \to 3 \to 2
+\pi
+A^c =\{1\}
+1
+(a)
+a \in \{1, 2, \ldots, n\} .
+S_4
+(2, 4, 3) =(4, 3, 2) =(3, 2, 4)
+(1) =(2) =(3) =(4) .
+k
+k,
+1 \le k \le n .
+k
+k \ge 2 .
+S_3 .
+S_4 .
+(a_1 a_2 \cdots a_k)
+(b_1 b_2 \cdots b_\ell)
+\{a_1, a_2, \ldots, a_k \}
+\{b_1, b_2, \ldots, b_\ell \}
+a_i \not= b_j
+i, j .
+S_n
+S_n
+S_3
+G
+gh
+g
+h .
+S_3
+D_4
+\~ & e & (23) & (13) & (12) & (123) & (132) \\ e & \~ & \~ & \~ & (12) & \~ & \~ \\ (23) & \~ & \~ & \~ & \~ & \~ & \~ \\ (13) & \~ & (132) & \~ & \~ & \~ & \~ \\ (12) & \~ & \~ & \~ & \~ & (23) & \~ \\ (123) & \~ & \~ & \~ & \~ & \~ & \~ \\ (132) & \~ & \~ & \~ & \~ & \~ & \~
+S_3 .
+e
+\~ & F_V & F_H & F_D & F_{D'} & R_{1/4} & R_{1/2} & R_{3/4} & R_0 \\ F_V & \~ & R_{1/2} & \~ & \~ & \~ & \~ & \~ & \~ \\ F_H & \~ & \~ & \~ & \~ & F_D & \~ & \~ & \~ \\ F_D & \~ & \~ & \~ & \~ & \~ & F_{D'} & \~ & \~ \\ F_{D'} & \~ & \~ & \~ & \~ & \~ & \~ & \~ & \~ \\ R_{1/4} & \~ & \~ & \~ & \~ & \~ & \~ & \~ & \~ \\ R_{1/2} & \~ & \~ & \~ & \~ & \~ & \~ & \~ & \~ \\ R_{3/4} & \~ & \~ & \~ & \~ & \~ & \~ & \~ & \~ \\ R_0 & \~ & \~ & \~ & \~ & \~ & \~ & \~ & \~
+D_4 .
+D_4 .
+S_3
+D_4 .
+\~ & e & (23) & (13) & (12) & (123) & (132) \\ e & e & (23) & (13) & (12) & (123) & (132) \\ (23) & (23) & e & (123) & (132) & (13) & (12) \\ (13) & (13) & (132) & e & (123) & (12) & (23) \\ (12) & (12) & (123) & (132) & e & (23) & (13) \\ (123) & (123) & (12) & (23) & (13) & (132) & e \\ (132) & (132) & (13) & (12) & (23) & e & (123)
+\~ & F_V & F_H & F_D & F_{D'} & R_{1/4} & R_{1/2} & R_{3/4} & R_0 \\ F_V & R_0 & R_{1/2} & R_{3/4} & R_{1/4} & F_{D'} & F_H & F_D & F_V \\ F_H & R_{1/2} & R_0 & R_{1/4} & R_{3/4} & F_D & F_V & F_{D'} & F_H \\ F_D & R_{1/4} & R_{3/4} & R_0 & R_{1/2} & F_V & F_{D'} & F_H & F_D \\ F_{D'} & R_{3/4} & R_{1/4} & R_{1/2} & R_0 & F_H & F_D & F_V & F_{D'} \\ R_{1/4} & F_D & F_{D'} & F_H & F_V & R_{1/2} & R_{3/4} & R_0 & R_{1/4} \\ R_{1/2} & F_H & F_V & F_{D'} & F_D & R_{3/4} & R_0 & R_{1/4} & R_{1/2} \\ R_{3/4} & F_{D'} & F_D & F_V & F_H & R_0 & R_{1/4} & R_{1/2} & R_{3/4} \\ R_0 & F_V & F_H & F_D & F_{D'} & R_{1/4} & R_{1/2} & R_{3/4} & R_0
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+H
+G
+G
+H
+G
+H .
+H \le G
+H
+G .
+H
+G,
+g
+G,
+gH \colon =\{gh \colon h \in H\}
+H .
+H
+G/H .
+G/H \colon =\{gH \colon g \in G\}
+D_4
+D_4 =\{R_0, R_{1/4}, R_{1/2}, R_{3/4}, F_H, F_V, F_D, F_{D'} \}
+\{R_0, R_{1/4}, R_{1/2}, R_{3/4} \}
+D_4 ?
+\{F_H, F_V, F_D, F_{D'} \}
+D_4 ?
+F_H^2 =R_0
+D_4
+G/H
+G =S_3,
+H =\{e, (12)\} .
+G/H & \lt mi/> =\{eH, (12)H, (13)H, (23)H, (123)H, (132)H\} \\ \~ & \lt mi/> =\{\{e, (12)\}, \{(12), e\}, \{(13), (123)\}, \{(23), (132)\}, \{(13), (123)\}, \{(132), (23)\}\} \\ \~ & \lt mi/> =\{H, \{(13), (123)\}, \{(23), (132)\}\}
+H
+G .
+H
+G
+H
+ab
+H
+a, b
+H
+H
+a^{ -1}
+H
+a
+H
+H
+H
+ab^{ -1}
+H
+a, b
+H
+S
+G,
+S^{ -1}
+S^{ -1} =\{s^{ -1} \colon s \in S\}
+S .
+\langle S \rangle
+G
+s_1 s_2 \cdots s_k
+k
+s_i
+S \cup S^{ -1}
+1 \le i \le k .
+\langle S \rangle
+G,
+S
+S
+\langle S \rangle .
+S =\{s_1, s_2, \ldots, s_k \}
+\langle s_1, s_2, \ldots, s_k \rangle
+\langle S \rangle,
+\langle \{s_1, s_2, \ldots, s_k \} \rangle .
+G
+g,
+G = \langle g \rangle .
+\langle S \rangle
+G .
+S
+\langle F_H, F_V \rangle \subseteq D_4 .
+\langle 6, 8 \rangle \subseteq \mathbb Z .
+\langle F_H, F_V \rangle =\{R_0, R_{1/2}, F_H, F_V \}
+\langle 6, 8 \rangle = \langle 2 \rangle =2\mathbb Z
+G
+H
+G .
+\sim_H
+G
+x\sim_H y
+x^{ -1} y \in H .
+\sim_H
+G,
+H,
+G/\sim_H =G/H .
+G
+H
+G .
+G/H
+H
+G .
+S_3 .
+S_3
+\{[1, 2, 3]\},
+\{[1, 2, 3], [2, 1, 3]\},
+\{[1, 2, 3], [1, 3, 2]\},
+\{[1, 2, 3], [3, 2, 1]\},
+\{[1, 2, 3], [2, 3, 1], [3, 1, 2]\},
+S_3 .
+S_3
+\{e\},
+\{e, (12)\},
+\{e, (23)\},
+\{e, (13)\},
+\{e, (123), (132)\},
+S_3 .
+\{R_0, R_{1/2} \}
+D_4 .
+\mathbb Z
+\mathbb Z_n
+H
+\mathbb Z .
+H =\{0\}
+H = \langle d \rangle,
+d
+H .
+H
+\mathbb Z_n .
+H =\{0\}
+H = \langle d \rangle,
+d
+H .
+n_1, n_2, \ldots, n_r
+\langle n_1, n_2, \ldots, n_r \rangle = \langle \gcd (n_1, n_2, \ldots, n_r) \rangle .
+r =2
+\gcd (a, b)
+a, b
+sa +tb
+s, t .
+a, b
+s, t
+sa +tb =1 .
+a
+G,
+C(a),
+C(a) =\{g \in G \colon ag =ga\} .
+G,
+Z(G),
+Z(G) =\{g \in G \colon ag =ga \forall a \in G\} .
+C(a)
+a
+G
+G .
+Z(G)
+G
+G .
+g
+G .
+g,
+| g|,
+n
+g^n =e,
+n
+g^n =e,
+g
+g
+| g| =n,
+\langle g \rangle =\{g^0, g^1, g^2, \ldots, g^{n -1} \} .
+G
+g,
+| G| =| g| .
+G
+H
+G
+H
+H
+G .
+aH, bH
+aH \to bH
+x \to ba^{ -1} x
+G
+g \in G .
+g^{| G|} =e .
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+(X, G),
+X
+G
+X .
+X
+F, F'
+g
+G
+g(F) =F' .
+F \cong F'
+F, F'
+(X, G)
+\phi \colon G \to Perm(X),
+g \colon X \to X
+\phi (g) \colon X \to X
+g
+G .
+g
+\phi (g)
+X .
+\mathbb R^2 .
+v \to Rv +b,
+v \in \mathbb R^2,
+R
+2 \times 2
+b \in \mathbb R^2 .
+S^2 =\{(x, y, z) \in \mathbb R^3 \colon x^2 +y^2 +z^2 =1\} .
+v \to Rv,
+v \in \mathbb R^3,
+| v| =1,
+R
+3 \times 3
+\mathbb P (V),
+V
+V
+PGL(V) .
+\hat{\mathbb C} =\mathbb C \cup \{\infty \}
+T
+C_1
+C_2
+\theta
+P
+T(C_1)
+T(C_2)
+T(P)
+\mathbb C \to \mathbb C
+z \to kz, k >0
+z \to e^{it} z, t \in \mathbb R
+z \to z +b, b \in \mathbb C
+z \to \frac{1}{z}
+\alpha \in \mathbb C
+\alpha >0,
+\alpha
+k
+(X, G)
+(Y, H)
+X
+Y
+G
+H
+G
+X
+H
+Y
+g \cdot x
+(X, G)
+(Y, H)
+g \in G, x \in X .
+(X, G)
+(Y, H)
+\mu \colon X \to Y
+H
+G
+G
+H .
+\mu \circ g \circ \mu^{ -1} =h
+\mu \circ \phi (g) \circ \mu^{ -1} =\psi (h),
+\phi, \psi
+G
+X
+H
+Y,
+g \in G,
+h \in H
+\mu \circ g \circ \mu^{ -1} =h,
+h \in H,
+g \in G
+\mu^{ -1} \circ h \circ \mu =g .
+n
+\mathbb Z_n,
+n
+(2, 0), (6, 0), (6, 3)
+(0, -1), (0, -5), (3, -1) .
+(0, 0, 1), (0, 0, -1), (1, 0, 0)
+(1, 0, 0), ( -1, 0, 0), (0, 1, 0)
+PGL(2, \mathbb C)
+[(1, 1)], [(0, 1)], [(1, 0)]
+\mathbb P (\mathbb C^2)
+[(a, 1)], [(b, 1)], [(c, 1)]
+d(P, Q)
+P, Q
+T
+d(T(P), T(Q)) =d(P, Q) .
+u
+v =0,
+w \not= 0
+\angle uvw
+argw .
+u, v, w
+v
+u
+w,
+\angle uvw
+(3.1.1) & arg(\frac{w -v}{u -v}) .
+C_1, C_2
+v,
+u
+C_1
+w
+C_2 .
+u
+w
+v,
+\angle uvw
+C_1, C_2
+v .
+p(t), q(s)
+C_1, C_2,
+p(0) =q(0) =v,
+p(t_1) =u,
+q(s_1) =w
+t_1, s_2 >0 .
+(3.1.2) & \lim_{s \to 0^+, t \to 0^+} arg(\frac{q(s) -v}{p(t) -v})
+t \to 0^\pm
+s \to 0^\pm .
+\theta
+\theta
+\theta \pm \pi .
+p, q,
+t \to 0^\pm, s \to 0^\pm .
+\mscrE_1
+\mscrE_2
+z \to e^{it} z
+t \in \mathbb R
+z \to z +b
+b \in \mathbb C
+z \to z^\ast
+(\mathbb R^2, \mscrE_1)
+(\mathbb C, \mscrE_2)
+(X, G)
+(Y, H)
+G
+H
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+\mathbb H
+\mathbb R_\mathbb H^3
+U(\mathbb H)
+S^1
+\hat{R}
+S^2
+\mathbb R^3
+\hat{C}
+[x]
+x
+X/ \sim
+\sim
+\mathbb Z
+Perm(X)
+X
+S_n
+n
+R_\theta
+\theta
+F_L
+L
+D_n
+C_n
+n
+GL(n, \mathbb R)
+n \times n
+GL(n, \mathbb C)
+n \times n
+\mathbb F^\ast
+\mathbb F
+| G|
+G
+C(a)
+a
+G
+Z(G)
+G
+G \approx H
+G
+H
+H \trianglelefteq G
+H
+G
+Aut(G)
+G
+Inn(G)
+G
+Orb(x)
+x
+Stab(x)
+x
+X/G
+G
+X
+A_n
+\mathbb P (V)
+PGL(V)
+U_n
+\mathbb Z_n
+F \cong F'
+F
+F'
+MOB
+\mathbb D
+HYP
+\mathbb U
+HYP_\mathbb U
+SU(2)
+R_{v, \theta}
+v
+\theta
+ELL
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+EUC
+MOB
+z \to e^{it} z
+t \in \mathbb R
+z \to z +b
+b \in C .
+(\mathbb C, EUC)
+(\mathbb C, EUC)
+( \hat{\mathbb C}, ELL)
+T
+HYP,
+p
+\frac{1}{Tz -p} =\frac{1}{1 -p} +\beta .
+p\beta
+k
+p\beta =ki .
+ELL
+| \alpha | =1
+\frac{Tz -p}{Tz -q} =\alpha \frac{z -p}{z -q} .
+p, q,
+z =\infty
+\alpha .
+R =s^{ -1} \circ T \circ s
+S^2
+T
+P, Q
+S^2,
+R(P), R(Q)
+p, q
+pq^\ast = -1 .
+T .
+(3.6.1) & pq^\ast = -1\~implies\~Tp(Tq)^\ast = -1
+Tz =\frac{az +b}{cz +d}
+ad -bc =1 .
+Tp =\frac{ -1}{(T(\frac{ -1}{p^\ast}))^\ast}
+c = -b^\ast
+d =a^\ast .
+T
+(3.6.2) & Tz =\frac{az +b}{ -b^\ast z +a^\ast}, | a|^2 +| b|^2 =1
+ad -bc =1 .
+U(\mathbb H)
+ELL
+Rot(S^2)
+a, b \in \mathbb C
+| a|^2 +| b|^2 =1,
+a, b .
+M_{a, b} & \lt mi/> = \begin{bmatrix} a & b \\ -b^\ast & a^\ast \end{bmatrix} \\ r_{a, b} & \lt mi/> =Re(a) +Im(a)i +Re(b)j +Im(b)k \\ R_{r_{a, b}} & \lt mi/> =[u \to r_{a, b} ur_{a, b}^\ast]for\~u \in S_\mathbb H^2 \\ T_{a, b} & \lt mi/> =[z \to \frac{az +b}{ -b^\ast z +a^\ast}]for\~z \in \hat{C} \\ R_{T_{a, b}} & \lt mi/> =s^{ -1} \circ T_{a, b} \circ s
+R_{r_{a, b}}
+(3.6.3) & SU(2) & \lt mi/> \to U(\mathbb H) \to Rot(S_\mathbb H^2) \\ M_{a, b} & \lt mi/> \to r_{a, b} \to R_{r_{a, b}}
+R_{T_{a, b}}
+(3.6.4) & SU(2) & \lt mi/> \to ELL \to Rot(S^2) \\ M_{a, b} & \lt mi/> \to T_{a, b} \to R_{T_{a, b}} .
+R_{r_{a, b}}
+R_{T_{a, b}}
+R_{v, \theta}
+v
+\theta
+R_{r_{a, b}}
+\frac{(Im(a), Re(b), Im(b))}{\sqrt{1 -(Re(a))^2}}
+2\arccos (Re(a))
+R_{T_{a, b}}
+\frac{(Im(b), -Re(b), Im(a))}{\sqrt{1 -(Re(a))^2}}
+2\arccos (Re(a))
+v, \theta
+v
+\theta
+R_{r_{a, b}}
+T_{a, b} z =z
+T_{a, b}
+p = -ib(\frac{\sqrt{1 -(Re(a))^2} +Im(a)}{| b|^2}) .
+s(\frac{(Im(b), -Re(b), Im(a))}{\sqrt{1 -(Re(a))^2}}) =p .
+(3.6.5) & T_{a, b} =s \circ h \circ R_{r_{a, b}} \circ h \circ s^{ -1}
+h \colon \mathbb R^3 \to \mathbb R^3
+(x, y, z) \to (z, -y, z) .
+p, 0, \infty .
+R_{r_{a, b}} .
+R_{r_{a, b}} (1, 0, 0) =r_{a, b} ir_{a, b}^\ast
+\mathbb R^3 \leftrightarrow \mathbb R_\mathbb H^3 .
+H =\frac{1}{\sqrt{2}} \begin{bmatrix} 1 & 1 \\ 1 & -1 \end{bmatrix}
+H
+C_{iH}
+M \to (iH)M(iH)^{ -1} .
+iH \in SU(2)
+Q(iH) =\frac{1}{\sqrt{2}}(i +k),
+R_{Q(iH)} =h .
+C_{iH}
+C_{iH} (T) =(iH)T(iH)^{ -1} .
+\triangle ABC
+\triangle ABC
+\angle C
+a =d(B, C),
+b =d(A, C),
+c =d(A, B)
+c .
+(3.6.6) & \cosh (\ln (\frac{1 +u}{1 -u})) & \lt mi/> =\frac{1 +u^2}{1 -u^2}(0 \lt u \lt 1) \\ (3.6.7) & \cos (2\arctan u) & \lt mi/> =\frac{1 -u^2}{1 +u^2}
+(3.6.8) & \cosh (c) =\cosh (a)\cosh (b)
+T
+(3.6.9) & \cos (c) =\cos (a)\cos (b)
+T
+C
+0
+\mathbb D
+\hat{\mathbb C},
+A
+B
+d(p, q) =\ln ((1 +u)/(1 -u))
+u =| \frac{q -p}{1 -p^\ast q}|
+d(p, q) =2\arctan (u),
+u =| \frac{q -p}{1 +p^\ast q}|
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+C
+r >0
+a \in \mathbb C .
+z
+C
+z
+a
+r .
+C
+z
+(1.1.1) & | z -a| =r
+\mathbb R
+z
+Im(z) =0 .
+L
+p \in \mathbb C
+\theta
+\theta =0
+L
+z \in L,
+e^{ -i\theta} (z -p)
+Im(e^{ -i\theta} (z -p)) =0 .
+e^{ -i\theta} (z -p)
+z
+L .
+k,
+a =ke^{ -i\theta}
+b = -ke^{ -i\theta} p,
+L
+(1.1.2) & Im(az +b) =0
+z^2 +3z +5 =0
+(z -i)(z +i) =1
+\frac{2z +i}{ -z +3i} =z
+x
+a,
+x^2 -2ax
+x^2 -2ax =x^2 -2ax +a^2 -a^2 =(x -a)^2 -a^2 .
+z
+a
+(1.1.3) & | z|^2 -2Re(za^\ast) =| z -a|^2 -| a|^2
+| z|^2 -iz +iz^\ast -5 =0 .
+a =u +iv,
+b =r +is,
+z =x +iy .
+Im(az +b) =0
+x, y
+u, v, r, s .
+a \not= 0 .
+2 \times 2
+\mscrM_\mathbb C
+2 \times 2
+\begin{bmatrix} a & b \\ -b & a \end{bmatrix}
+a, b \in \mathbb R .
+z
+z =a +bi,
+M(z)
+\begin{bmatrix} a & b \\ -b & a \end{bmatrix}
+\mscrM_\mathbb C .
+M \in \mscrM_\mathbb C
+a
+b,
+C(M)
+a +bi .
+z \to M(z)
+M \to C(M)
+\mathbb C \leftrightarrow \mscrM_\mathbb C .
+\mscrM_\mathbb C
+M, N
+\mscrM_\mathbb C .
+M +N
+MN
+\mscrM_\mathbb C .
+\mscrM_\mathbb C .
+(1.1.4) & M(z +w) & \lt mi/> =M(z) +M(w) \\ (1.1.5) & M(zw) & \lt mi/> =M(z)M(w) .
+\mscrM_\mathbb C \leftrightarrow \mathbb C,
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+\mathbb H
+\mathbb R^4 .
+r \leftrightarrow (t, x, y, z)
+r
+(t, x, y, z)
+i, j, k
+(1.2.1) & i & \lt mi/> \leftrightarrow (0, 1, 0, 0) \\ (1.2.2) & j & \lt mi/> \leftrightarrow (0, 0, 1, 0) \\ (1.2.3) & k & \lt mi/> \leftrightarrow (0, 0, 0, 1)
+r =a +bi +cj +dk
+(a, b, c, d)
+\mathbb R^4 .
+a =a +0i +0j +0k \leftrightarrow (a, 0, 0, 0)
+xi +yj +zk \leftrightarrow (0, x, y, z)
+r =a +bi +cj +dk,
+a
+r,
+xi +yj +zk
+r .
+xi +yj +zk
+(x, y, z)
+\mathbb R^3,
+\mathbb R_\mathbb H^3
+\mathbb C
+\mscrM_\mathbb C
+2 \times 2
+2 \times 2
+\mscrM_\mathbb H
+2 \times 2
+\begin{bmatrix} u & v \\ -v^\ast & u^\ast \end{bmatrix} .
+r =a +bi +cj +dk,
+u, v
+u =a +bi
+v =c +di,
+M(r)
+2 \times 2
+\mscrM_\mathbb H
+M(r) = \begin{bmatrix} u & v \\ -v^\ast & u^\ast \end{bmatrix} .
+M \in \mscrM_\mathbb H,
+a +bi
+c +di,
+Q(M)
+r =a +bi +cj +dk .
+r \to M(r)
+M \to Q(M)
+\mathbb H \leftrightarrow \mscrM_\mathbb H .
+\mscrM_\mathbb H
+M, N
+\mscrM_\mathbb H .
+M +N
+MN
+\mscrM_\mathbb H .
+r, s
+(1.2.4) & r +s =Q(M(r) +M(s)) \\ (1.2.5) & rs =Q(M(r)M(s))
+a,
+M(a) =aId,
+M(a)
+a
+q, r, s
+a
+(1.2.6) & q(rs) & \lt mi/> =(qr)s\~(associative\space law\space of\space multiplication) \\ (1.2.7) & q(r +s) & \lt mi/> =qr +qs\~(distributive\space law) \\ (1.2.8) & ar & \lt mi/> =ra\~(real\space quaternions\space commute\space with\space all\space quaternions)
+(1.2.9) & i^2 =j^2 =k^2 = -1 \\ (1.2.10) & ij = -ji =k, jk = -kj =i, ki = -ik =j
+r =a +bi +cj +dk
+r' =a' +b'i +c'j +d'k,
+(1.2.11) & r +r' =(a +a') +(b +b')i +(c +c')j +(d +d')k .
+rr' & \lt mi/> =(a +bi +cj +dk)(a' +b'i +c'j +d'k) \\ \~ & \lt mi/> =aa' +bb'i^2 +cc'j^2 +dd'k^2 \\ \~ & \lt mi/> +ab'i +ba'i +cd'jk +dc'kj \\ \~ & \lt mi/> +ac'j +ca'j +bd'ik +db'ki \\ \~ & \lt mi/> +ad'k +da'k +bc'ij +cb'ji \\ (1.2.12) & \~ & \lt mi/> =(aa' -bb' -cc' -dd') \\ \~ & \lt mi/> +(ab' +ba' +cd' -dc')i \\ \~ & \lt mi/> +(ac' +ca' -bd' +db')j \\ \~ & \lt mi/> +(ad' +da' +bc' -cb')k
+u, v
+\mathbb R^3 .
+(1.2.13) & uv = -(u \cdot v) +u \times v(for\space pure\space quaternions\~u, v)
+r =a +bi +cj +dk
+r^\ast =a -bi -cj -dk,
+r
+| r| =\sqrt{a^2 +b^2 +c^2 +d^2} .
+U(\mathbb H)
+U(\mathbb H)
+S^3 =\{(t, x, y, z) \in \mathbb R^4 \colon t^2 +x^2 +y^2 +z^2 =1\} .
+S^1 =\{(x, y) \in \mathbb R^2 \colon x^2 +y^2 =1\} .
+r
+(1.2.14) & r =| r|(\cos \theta +u\sin \theta)
+u
+\theta
+r .
+r' =\frac{r}{| r|} =a' +b'i +c'j +d'k .
+| a'| \lt 1,
+u =\frac{1}{\sqrt{1 -(a')^2}}(b'i +c'j +d'k),
+\theta =\arccos a' .
+r =0 ?
+| a'| =1 ?
+u, \theta
+r ?
+u, \theta .
+r, s .
+(1.2.15) & (rs)^\ast =s^\ast r^\ast \\ (1.2.16) & | r|^2 =rr^\ast =r^\ast r \\ (1.2.17) & | rs| =| r|| s| .
+\mscrM_\mathbb H .
+(M(r^\ast)) =(M(r))^\dag,
+\dag
+r, s
+\mathbb R_\mathbb H^3
+r
+v
+R_r (v)
+R_r (v) =rvr^\ast .
+(R_r (v))^\ast = -R_r (v) .
+rvr^\ast
+R_r (v)
+r
+v
+R_r
+v, w
+\alpha .
+(1.2.18) & R_r (v +w) =R_r (v) +R_r (w) \\ (1.2.19) & R_r (\alpha v) =\alpha R_r (v)
+R_r
+\mathbb R_\mathbb H^3
+r =\cos \theta +u\sin \theta
+R_r
+v \to rvr^\ast .
+R_r
+2\theta
+u .
+r =\cos \theta +u\sin \theta
+r .
+R_r (u) =u .
+v
+u,
+w =u \times v,
+u, v, w
+\mathbb R^3 .
+(1.2.20) & R_r (v) =\cos (2\theta)v +\sin (2\theta)w
+uv -vu
+uvu .
+uv -vu =2w
+uvu =v .
+a \cdot b =| a|| b|\cos t
+a, b
+t
+v, R_r (v) .
+r, s \in U(\mathbb H) .
+R_r \circ R_s =R_{rs}
+(R_r)^{ -1} =R_{r^\ast}
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+S^1 \to \hat{\mathbb R}
+S^1
+x, y
+(1.3.1) & S^1 =\{(x, y) \in \mathbb R^2 \colon x^2 +y^2 =1\} .
+N =(0, 1)
+P =(x, y) \not= N
+s(P)
+\overline{NP}
+x
+s \colon S^1 \setminus \{N\} \to \mathbb R
+s(x, y) =\frac{x}{1 -y} .
+s(x, y) =\frac{x}{1 -y} .
+(1.3.2) & \hat{R} =\mathbb R \cup \{\infty \}
+\infty
+s \colon S^1 \to \hat{\mathbb R}
+(1.3.3) & s(x, y) =\{\frac{x}{1 -y} & y \not= 1 \\ \infty & y =1. \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+S^2 \to \hat{\mathbb C}
+S^2
+\mathbb R^3 \colon
+(1.3.4) & S^2 =\{(a, b, c) \in \mathbb R^3 \colon a^2 +b^2 +c^2 =1\} .
+N =(0, 0, 1)
+z
+P =(a, b, c) \not= N
+s(P)
+\overline{NP}
+x, y
+\mathbb C .
+s \colon S^2 \setminus \{N\} \to \mathbb C
+s(a, b, c) =\frac{a +ib}{1 -c} .
+(1.3.5) & \hat{C} =\mathbb C \cup \{\infty \}
+\infty
+s \colon S^2 \to \hat{\mathbb C}
+(1.3.6) & s(a, b, c) =\{\frac{a +ib}{1 -c} & c \not= 1 \\ \infty & c =1. \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+\mu \colon X \to Y
+f \colon X \to X
+g \colon Y \to Y
+\mu
+f =\mu^{ -1} \circ g \circ \mu .
+\mu
+f =\mu^{ -1} \circ g \circ \mu
+\mu \circ f =g \circ \mu .
+s \colon S^1 \to \hat{\mathbb R},
+s^{ -1} \colon \hat{\mathbb R} \to S^1 .
+s^{ -1} (3) .
+s^{ -1} (r) =\{(\frac{2r}{r^2 +1}, \frac{r^2 -1}{r^2 +1}) & \~if\~r \not= \infty \\ (0, 1) & \~if\~r =\infty \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+s^{ -1} (3) =(3/5, 4/5)
+s \colon S^2 \to \hat{\mathbb C},
+s^{ -1} \colon \hat{\mathbb C} \to S^2 .
+s^{ -1} (3 +i) .
+s^{ -1} (z) =\{(\frac{2Re(z)}{| z|^2 +1}, \frac{2Im(z)}{| z|^2 +1}, \frac{| z|^2 -1}{| z|^2 +1}) & \~if\~z \not= \infty \\ (0, 0, 1) & \~if\~z =\infty \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+s^{ -1} (3 +i) =(6/11, 2/11, 9/11)
+S^1 \to S^1
+(x, y) \to (x, -y)
+\hat{\mathbb R} \to \hat{\mathbb R}
+x \to 1/x
+R_{Z, \theta} \colon S^2 \to S^2
+(a, b, c) \to (a\cos \theta -b\sin \theta, a\sin \theta +b\cos \theta, c)
+z
+\theta
+T_{Z, \theta} \colon \hat{\mathbb C} \to \hat{\mathbb C}
+z \to e^{i\theta} z
+R_{X, \pi} \colon S^2 \to S^2
+(a, b, c) \to (a, -b, -c)
+x
+\pi
+T_{X, \pi} \colon \hat{\mathbb C} \to \hat{\mathbb C}
+z \to 1/z
+R_{X, \pi /2} \colon S^2 \to S^2
+(a, b, c) \to (a, -c, b)
+x
+\pi /2
+T_{X, \pi /2} \colon \hat{\mathbb C} \to \hat{\mathbb C}
+z \to \frac{z +i}{iz +1}
+s(a, b, c)(s( -a, -b, -c))^\ast = -1
+(a, b, c)
+S^2
+| c| \not= 1 .
+zw^\ast = -1
+z, w \in \mathbb C .
+s^{ -1} (z) = -s^{ -1} (w) .
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+G
+G \times G \to G
+X
+X
+\alpha, \beta
+X,
+\alpha \beta
+\alpha \circ \beta .
+X
+Perm(X)
+X .
+X
+G =Perm(X)
+G \times G \to G
+(\alpha, \beta) \to \alpha \circ \beta .
+X =\{1, 2, \ldots, n\}
+n \ge 1,
+Perm(X)
+S_n .
+\sigma \in S_n
+[\sigma (1), \sigma (2), \ldots, \sigma (n)] .
+[3, 1, 2]
+\sigma \colon \{1, 2, 3\} \to \{1, 2, 3\}
+\sigma (1) =3, \sigma (2) =1, \sigma (3) =2.
+\sigma =[3, 1, 2]
+\tau =[2, 1, 3] .
+\sigma \tau,
+\tau \sigma,
+\sigma^2 =\sigma \sigma .
+\sigma \tau =[1, 3, 2],
+\tau \sigma =[3, 2, 1],
+\sigma^2 =[2, 3, 1]
+O
+\angle POP',
+P, P'
+\overline{OP}
+\overline{OM},
+P
+M
+n
+O .
+R_\theta
+\theta
+O .
+\theta
+\theta
+F_L
+L .
+P' =F_L (P)
+\overline{PP'} \perp L
+P
+L
+P'
+L .
+A, B,
+AB
+A \circ B .
+L =\overline{OP}
+P,
+R_{240} R_{120} =R_0
+F_L R_{120} =R_{ -120} F_L .
+D_n
+n
+X
+x, y
+( \pm 1, \pm 1) .
+X
+H, V, D, D'
+H, V
+x, y
+D, D'
+y = -x, y =x,
+X
+D_4 =\{R_0, R_{1/4}, R_{1/2}, R_{3/4}, F_H, F_V, F_D, F_{D'} \}
+R_{1/4} R_{1/2}
+R_{1/4} F_H
+F_H R_{1/4}
+F_H F_D
+F_D F_H
+(F_D R_{1/2})^2 =F_D R_{1/2} F_D R_{1/2}
+(F_D R_{1/2})^3
+R_{3/4}
+F_{D'}
+F_D
+R_{1/4}
+R_{3/4}
+R_0
+F_{D'}
+S^1,
+S^1 =\{z \in \mathbb C \colon | z| =1\}
+S^1 \times S^1 \to S^1
+(z, w) \to zw .
+z, w
+S^1,
+zw
+S^1 .
+n
+n \ge 1
+C_n =\{z \in \mathbb C \colon z^n =1\}
+n
+\omega =e^{i2\pi /n} .
+\omega^k
+C_n
+k .
+z
+C_n,
+z =\omega^k
+k .
+C_n
+n
+\{\omega^0, \omega^1, \omega^2, \ldots, \omega^{n -1} \} .
+C_n =\{\omega^0, \omega^1, \omega^2, \ldots, \omega^{n -1} \}
+n
+\mathbb Z
+\mathbb Z_n
+n
+n
+n \ge 1
+n,
+n
+n \ge 1
+GL(n, \mathbb R)
+n \times n
+GL(n, \mathbb C)
+n \times n
+GL(n, \mathbb R)
+GL(n, \mathbb C)
+n \times n
+\mathbb F
+\mathbb Q,
+\mathbb R,
+\mathbb C .
+\mathbb F^\ast
+\mathbb F .
+\mathbb F
+\mathbb F^\ast
+\mathbb F .
+U(\mathbb H)
+D_4
+H
+x
+x, y
+F_H \colon \mathbb R^2 \to \mathbb R^2
+\begin{bmatrix} 1 & 0 \\ 0 & -1 \end{bmatrix} .
+R_{1/4} \colon \mathbb R^2 \to \mathbb R^2
+\begin{bmatrix} 0 & -1 \\ 1 & 0 \end{bmatrix} .
+D_4
+D_4
+H
+\mathbb R
+\mathbb C .
+F_H \colon \mathbb C \to \mathbb C
+z \to z^\ast .
+R_{1/4} \colon \mathbb C \to \mathbb C
+z \to e^{i\pi /2} z =iz .
+\mathbb C \to \mathbb C
+D_4
+(x, y) \to x \ast y
+x \ast y =y \ast x
+x, y .
+S_n
+n >2 .
+e
+eg =ge =g
+g
+G .
+g
+G,
+h
+gh =hg =e,
+e
+[4, 2, 1, 3]
+S_4
+R_{120}
+D_6
+120
+\frac{1}{\sqrt{2}}( -1 +i)
+S^1
+7
+\mathbb Z
+7
+\mathbb Z_9
+\begin{bmatrix} 1 & 2 \\ 2 & 1 \end{bmatrix}
+GL(2, \mathbb R)
+r =a +bi +cj +dk
+U(\mathbb H)
+\mathbb R_\mathbb H^3
+S^1 \to \hat{\mathbb R}
+S^2 \to \hat{\mathbb C}
+n
+n
+S^2
+\hat{C}
+S^2
+xi +yj +zk \leftrightarrow (x, y, z)
+\mathbb R_\mathbb H^3
+\mathbb R^3,
+S_\mathbb H^2
+S_\mathbb H^2 =\{xi +yj +zk \in \mathbb H \colon x^2 +y^2 +z^2 =1\} .
+U(\mathbb H)
+U(\mathbb H)
+U(\mathbb H)
+M \colon \mathbb H \to \mscrM_\mathbb H
+r =a +bi +cj +dk
+\begin{bmatrix} a +bi & c +di \\ -c +di & a -bi \end{bmatrix} .
+U(\mathbb H)
+M
+(3.4.1) & SU(2) =\{ \begin{bmatrix} a & b \\ -b^\ast & a^\ast \end{bmatrix} \colon a, b \in \mathbb C, | a|^2 +| b|^2 =1\},
+M
+U(\mathbb H)
+M
+M(U(\mathbb H)) =SU(2)
+U(\mathbb H) \approx SU(2) .
+SU(2)
+M \colon U(\mathbb H) \to SU(2)
+M
+\mathbb R_\mathbb H^3
+S_\mathbb H^2
+U(\mathbb H)
+S_\mathbb H^2
+(S_\mathbb H^2, U(\mathbb H)) .
+U(\mathbb H) \to Perm(S_\mathbb H^2)
+r \to [v \to rvr^\ast]
+R_{v, \theta}
+\mathbb R^3
+v
+\theta .
+\theta
+v,
+v
+R_{v, \theta}
+v
+\theta
+R_{X, \theta}, R_{Y, \theta}, R_{Z, \theta}
+\theta
+(1, 0, 0), (0, 1, 0), (0, 0, 1),
+Rot(S^2)
+Rot(S^2) =\{R_{v, \theta} \colon v \in \mathbb R^3, | v| =1, \theta \in \mathbb R \}
+Rot(S^2)
+Rot(S^2)
+SO(3)
+\mathbb R^3
+U(\mathbb H) \to Rot(S^2)
+r \to R_r
+R_r \circ R_s =R_{rs}
+Rot(S^2)
+R_r \circ R_s =R_{rs}
+r \to R_r
+U(\mathbb H) \to Rot(S^2) .
+\{ \pm 1\} .
+U(\mathbb H)/\{ \pm 1\} \approx Rot(S^2) .
+Rot(S^2)
+U(\mathbb H) \to Rot(S^2)
+r \to R_r
+\{ \pm 1\} .
+(S^2, Rot(S^2)) .
+z
+x
+\pi /2
+y
+y
+y
+x
+\pi /2
+z
+(3.4.2) & R_{Y, \theta} =R_{X, \pi /2}^{ -1} \circ R_{Z, \theta} \circ R_{X, \pi /2}
+Rot(S^2)
+\{R_{Z, \theta} \colon \theta \in \mathbb R \} \cup \{R_{X, \pi /2} \}
+Rot(S^2) .
+z
+x
+\pi /2
+x, z
+N,
+G,
+C
+x, z
+C
+R
+N,
+G,
+C
+R .
+R^{ -1}
+R_{Z, \theta_1}
+z
+x, z
+R_{Y, \theta_2}
+y
+R_{Z, \theta_3}
+x, z
+R, R_{Z, \theta_1}, R_{Y, \theta_2}, R_{Z, \theta_3}
+N
+N \to R(N) \to N' \to N'' =N \to N .
+G
+G \to R(G) \to G' \to G'' \to G
+C
+C \to R(C) \to C' \to C'' \to C .
+R =R_{Z, -\theta_1} \circ R_{Y, -\theta_2} \circ R_{Z, -\theta_3} .
+R
+ELL =\{s \circ R \circ s^{ -1} \colon R \in Rot(S^2)\}
+\hat{C}
+S^2
+s .
+ELL
+Rot(S^2) \to ELL
+R \to s \circ R \circ s^{ -1}
+ELL \approx Rot(S^2) .
+ELL
+R \to s \circ R \circ s^{ -1}
+Rot(S^2) \to ELL .
+s \circ R_{Z, \theta} \circ s^{ -1}
+T_{Z, \theta}
+z \to e^{i\theta} z
+s \circ R_{X, \pi /2} \circ s^{ -1}
+T_{X, \pi /2}
+z \to \frac{z +i}{iz +1}
+R_{Z, \theta}, R_{X, \pi /2}
+Rot(S^2)
+T_{Z, \theta}
+T_{X, \pi /2}
+ELL .
+ELL
+( \hat{\mathbb C}, ELL) .
+ELL
+\mathscr T \colon GL(2, \mathbb C) \to MOB
+\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+z \to \frac{az +b}{cz +d}
+(3.4.3) & T_{Z, \theta} & \lt mi/> =\mathscr T ( \begin{bmatrix} e^{i\theta /2} & 0 \\ 0 & e^{ -i\theta /2} \end{bmatrix}) \\ (3.4.4) & T_{X, \pi /2} & \lt mi/> =\mathscr T ( \begin{bmatrix} \frac{1}{\sqrt{2}} & \frac{i}{\sqrt{2}} \\ \frac{i}{\sqrt{2}} & \frac{1}{\sqrt{2}} \end{bmatrix})
+SU(2)
+T_{Z, \theta}, T_{X, \pi /2}
+ELL,
+ELL
+\mathscr T
+SU(2) .
+M_{Z, \theta}, M_{X, \pi /2}
+\begin{bmatrix} e^{i\theta /2} & 0 \\ 0 & e^{ -i\theta /2} \end{bmatrix}, \begin{bmatrix} 1/\sqrt{2} & i/\sqrt{2} \\ i/\sqrt{2} & 1/\sqrt{2} \end{bmatrix},
+M_{Z, \theta}, M_{X, \pi /2}
+SU(2) .
+ELL
+SU(2) ?
+ELL .
+T
+ELL
+T
+Tz =\frac{az +b}{ -b^\ast z +a^\ast}
+a, b \in \mathbb C
+| a|^2 +| b|^2 =1 .
+e^{i\theta} =\frac{a}{a^\ast}
+z_0 =\frac{ -b}{a},
+T \in ELL .
+(3.4.5) & Tz =e^{i\theta} \frac{z -z_0}{z_0^\ast z +1}
+S^2
+\hat{C}
+S^2
+S^2 .
+S^2
+S^2
+S^2
+( \hat{\mathbb C}, ELL)
+\hat{C}
+C
+S^2
+\mathbb R^3 .
+C
+(0, 0, 1)
+S^2,
+s(C \setminus \{(0, 0, 1)\})
+\mathbb C .
+s(C)
+\mathbb C .
+C
+C
+(0, 0, 1),
+R
+S^2
+C
+T =s \circ R \circ s^{ -1}
+ELL .
+R
+C
+s
+R(C)
+T^{ -1}
+s(R(C))
+T^{ -1}
+s(C) =(T^{ -1} \circ s \circ R)(C)
+(0, 0, 1)
+C,
+\infty
+s(C),
+s(C)
+\mathbb C .
+S^2
+S^2
+\angle PQR
+v,
+-v .
+C_1, C_2
+S =(0, 0, -1) .
+L_1, L_2
+C_1, C_2
+S
+\Pi_1, \Pi_2
+L_1, L_2
+z = -1
+L_1^', L_2^'
+s(C_1), s(C_2)
+s(S) =0
+L_1, L_2
+\Pi_1, \Pi_2,
+P .
+R
+S^2
+P
+T =s \circ R \circ s^{ -1}
+ELL .
+R
+T
+T
+s
+(0, 0, -1)
+s =T^{ -1} \circ s \circ R
+P .
+S =(0, 0, -1) .
+P, Q
+S^2
+\angle POQ,
+O
+(\vec{OP}) \cdot (\vec{OQ}) =| \vec{OP}|| \vec{OQ}|\cos ( \angle POQ)
+\cos ( \angle POQ),
+d_{S^2} (P, Q)
+P, Q
+S^2 .
+(3.4.6) & d_{S^2} (P, Q) =\cos^{ -1} ((\vec{OP}) \cdot (\vec{OQ}))
+\hat{C}
+d_{ \hat{C}}
+\hat{C}
+(3.4.7) & d_{ \hat{\mathbb C}} (p, q) \colon =d_{S^2} (s^{ -1} (p), s^{ -1} (q))
+(3.4.8) & d_{ \hat{\mathbb C}} (p, q) =d_{ \hat{\mathbb C}} (Tp, Tq)
+p, q \in \hat{\mathbb C}
+T \in ELL .
+d_{ \hat{\mathbb C}} (p, q),
+d_{ \hat{C}} (0, u),
+0 \le u \le 1 .
+S =(0, 0, -1) =s^{ -1} (0)
+U =s^{ -1} (u) .
+0 =(0, 0, 0),
+N =(0, 0, 1),
+\alpha = \angle SNU
+\theta = \angle SOU
+\alpha =\theta /2,
+(3.4.9) & d_{ \hat{C}} (0, u) =d_{S^2} (S, U) =\theta =2\alpha =2\arctan u .
+S^2
+\hat{C}
+\theta /2 =\alpha =\arctan u
+z_1, z_2 \in \hat{\mathbb C} .
+Tz =e^{it} \frac{z -z_1}{z_1^\ast z +1}
+ELL
+z_1 \to 0
+z_2 \to u \ge 0 .
+\hat{\mathbb C} .
+(3.4.10) & d_{ \hat{C}} (z_1, z_2) =2\arctan | \frac{z_2 -z_1}{z_1^\ast z_2 +1}|
+\gamma
+z(t) =x(t) +iy(t)
+\hat{\mathbb C} .
+\arctan u \approx u
+(3.4.11) & Length(\gamma) =2\int_a^b \frac{| z'(t)|}{1 +| z(t)|^2}dt
+\arctan u
+u .
+z(t) =\alpha e^{it}
+0 \le t \le 2\pi,
+0 \lt \alpha \le 1
+ds =\frac{2| z'(t)|dt}{1 -| z(t)|^2}
+(3.4.12) & Area(R) =\iint_R dA =\iint_R \frac{4rdrd\theta}{(1 +r^2)^2} .
+\{| z| \le \alpha \},
+0 \lt \alpha \lt 1 .
+\hat{\mathbb C},
+R_\alpha \colon =\{z \in \mathbb C \colon 0 \le argz \le \alpha \} \cup \{\infty \}
+\alpha
+0 \le \alpha \lt 2\pi .
+\hat{C}
+R_\alpha
+2\alpha .
+S^2 .
+\hat{C}
+S^2 .
+\triangle ABC
+\mathscr C_{AB}, \mathscr C_{AC}, \mathscr C_{BC}
+AB, AC, BC
+A, A'
+S^2
+\hat{\mathbb C} .
+\triangle A'B'C'
+\triangle ABC,
+\triangle A'B'C'
+\infty .
+X
+X'
+S^2
+X =A, B, C ?
+R
+R
+2 \angle A +2 \angle B +2 \angle C -2\~Area(\triangle ABC) .
+R
+R'
+R,
+R' = \hat{\mathbb C} \setminus R .
+R'
+2 \angle A +2 \angle B +2 \angle C -2\~Area(\triangle A'B'C') .
+R'
+\triangle ABC
+(3.4.13) & Area(\triangle ABC) =( \angle A + \angle B + \angle C) -\pi .

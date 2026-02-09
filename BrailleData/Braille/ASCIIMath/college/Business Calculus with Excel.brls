@@ -1,0 +1,4224 @@
+q
+"Willingness To Spend" = int_0^(q_s)"demand function"(q)dq
+"consumer expenditure" = int_0^(q_s)p_s dq
+"consumer surplus" = int_0^(q_s)("demand function"(q)-p_s)dq
+"Needed revenue" = int_0^(q_s)"supply function"(q)dq
+"producer revenue" = int_0^(q_s)p_s dq
+"producer surplus" = int_0^(q_s)(p_s-"supply function"(q))dq
+["supply price"("Quantity"), "<mi//>"=4+"Quantity"], ["demand price"("Quantity"), "<mi//>"=106-2**"Quantity".]
+"consumer surplus" = int_0^(34)((106-2q)-38)dq
+"producer surplus" = int_0^(34)(38-(4+q))dq
+"producer surplus" = int_0^x((106-2x)-(4+q))dq = int_0^x(102-2x-q)dq
+= <mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>((102-2x)q- (q^2)/2)|_0^x = ((102-2x)x- (x^2)/2 = 102x- (5x^2)/2
+x = 102/5 = 20.4.
+"supply price"("Quantity") = 5+ln("Quantity"+10)
+"demand price"("Quantity") = 10+100//("Quantity"+2).
+["consumer surplus", "<mi//>"=int_0^(q_s)("demand function"(q)-p_s)dq], ["consumer surplus", "<mi//>"=int_0^(222)((10+100//("Quantity"+2))-10.45)dq], ["producer surplus", "<mi//>"=int_0^(q_s)(p_s-"supply function"(q))dq], ["producer surplus", "<mi//>"=int_0^(222)(10.45-(5+ln("Quantity"+10)))dq.]
+p_s
+"demand function"(q_s)
+"supply function"(q_s).
+"supply price"("Quantity") = 5+ln("Quantity"+10)
+"demand price"("Quantity") = 10+100//("Quantity"+2)
+L(x),
+0 <= x <= 1,
+x
+L(0.2) = .1,
+L(x) <= x
+x.
+L(1) = 1,
+L(0) = 0,
+L(x) >= 0,
+x,
+L(x) = x.
+G = (int_0^1(x-L(x))dx)/(int_0^1 xdx) = 2 int_0^1(x-L(x))dx.
+L(x) = .8x^3+.2x.
+L(0.5) = (0.8)(0.5)^3+(0.2)(0.5) = 0.1+0.1 = 0.2.
+G = 2 int_0^1(x-0.8x^3-0.2x)dx = (2)(0.4x^2-0.2x^4)|_0^1 = .4.
+"Supply""Price"(q) = 50+q//2
+"Demand""Price"(q) = 150-q//5.
+(1000/7, 850/7).
+["ProducerSurplus", "<mi//>"=int_0^(1000//7)(850/7)-(50+x/2)dx=5102.04], ["ConsumerSurplus", "<mi//>"=int_0^(1000//7)(150-x/5)-(850/7)dx=2040.82], ["TotalSocialGain", "<mi//>"="ProducerSurplus"+"ConsumerSurplus"=7142.86.]
+"Supply""Price"(q) = ln(q+10)
+"Demand""Price"(q) = 100-q.
+"Supply""Price"(q) = 50(1-(0.99)^q)
+"Demand""Price"(q) = 100(0.99)^q.
+(109.31, 33.33).
+["ProducerSurplus", "<mi//>"=int_0^(109.31)(33.33)-(50(1-(0.99)^q))dx=1494.79], ["ConsumerSurplus", "<mi//>"=int_0^(109.31)(100(0.99)^q)-33.33)dx=2989.58], ["TotalSocialGain", "<mi//>"="ProducerSurplus"+"ConsumerSurplus"=4484.37.]
+"Supply""Price"(q) = 50(1-(0.95)^(q//10)
+"Demand""Price"(q) = 150(0.95)^(q//10).
+"Supply""Price"(q) = {[5, q<=10], [q^2//20, q>10]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+"Demand""Price"(q) = {[100, q<=10], [110-q, q>10]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>.
+(37.958, 72.042).
+"ProducerSurplus" = int_0^(37.958)(72.042)-("Supply""Price"(q))dx = 1789.732.
+"ConsumerSurplus" = int_0^(37.958)"Demand""Price"(q)-72.042dx = 670.405.
+"TotalSocialGain" = "ProducerSurplus"+"ConsumerSurplus" = 2460.137.
+"Supply""Price"(q) = q//2
+"Demand""Price"(q) = {[200, q<=10], [250**.8^(q//10), q>10]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>.
+"Supply""Price"(q) = 30+q
+"Demand""Price"(q) = 170-q.
+(70, 100).
+["ProducerSurplus", "<mi//>"=int_0^(70)(100)-(30+q)dx=2450], ["ConsumerSurplus", "<mi//>"=int_0^(70)(170-q)-100dx=2450], ["TotalSocialGain", "<mi//>"="ProducerSurplus"+"ConsumerSurplus"=4900.]
+["Demand""Price"(50), "<mi//>"=120], ["ProducerSurplus", "<mi//>"=int_0^(50)(120)-(30+q)dx=3250], ["ConsumerSurplus", "<mi//>"=int_0^(50)(170-q)-120dx=1250], ["TotalSocialGain", "<mi//>"="ProducerSurplus"+"ConsumerSurplus"=4500.]
+int_0^x "Demand""Price"(t)-"Supply""Price"(x)dx.
+int_0^x(170-t)-(30+x)dt = int_0^x(140-t-x)dt.
+<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>(140t- (t^2)/2-xt)|_0^x = 140x- (3x^2)/2.
+"SupplyPrice"(q) = 10+q^2
+"DemandPrice"(q) = 210-q^2.
+(10, 110).
+["ProducerSurplus", "<mi//>"=int_0^(10)(110)-(10+q^2)dx=2000/3], ["ConsumerSurplus", "<mi//>"=int_0^(10)(210-q^2)-110dx=2000/3], ["TotalSocialGain", "<mi//>"="ProducerSurplus"+"ConsumerSurplus"=4000/3.]
+["Demand""Price"(5), "<mi//>"=185], ["ProducerSurplus", "<mi//>"=int_0^5(185)-(10+q^2)dx=2500/3], ["ConsumerSurplus", "<mi//>"=int_0^5(210-q^2)dx=250/3], ["TotalSocialGain", "<mi//>"="ProducerSurplus"+"ConsumerSurplus"=2750/3.]
+x
+int_0^x "DemandPrice"(t)-"SupplyPrice"(x)dx.
+int_0^x(210-t^2)-(10+x^2)dt = int_0^x(200-t^2-x^2)dt.
+x
+<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>(200t- (t^3)/3-x^2 t)|_0^x = 200x- (4x^3)/3.
+sqrt(50).
+sqrt(50)
+L(x) = 0.2x+0.8x^2.
+L(x) = .03x+0.7x^4.
+G = (100 int_0^1(x-(0.3x+0.7x^4))dx)/.5 = 200 int_0^1(-0.7x+0.7x^4)dx = 42
+q
+q
+"Marginal""Cost"(x) = x^3+3x^2.
+x
+"Marginal""Cost"(x).
+q
+q
+q
+delx = 0.001.
+R^2
+R^2 = 1.
+q
+f(x) = 3x+5,
+x
+f(x) = 40.
+x
+f(x)
+f(x),
+x.
+11.66666667
+35//3,
+f(x) = x^2
+f(x) = 2.
+x^2 = 2,
+x^2 = 1.99999495.
+10^6,
+"Supply""Price"(q) = ln(50+1000q)+q
+"Demand""Price"(q) = 1000**exp(-0.02**q).
+0 = 1000**exp(-0.02**q)-(ln(50+1000**q)+q),
+["Ending Balance", "<mi//>"="Beginning Balance+deposits+Interest Earned"], ["Interest Earned", "<mi//>"="(Beginning\\Balance+Deposits) *Interest\\Rate"], ["Beginning Balance", "<mi//>"="previous\\year's\\ending\\balance".]
+x^2 = 2
+x = 1,
+f(x) = x^3-x
+x = -1, 0, 1.
+x = .55,
+x = 0.
+x^2+1 = 0.
+1//x^4 = 0.
+x = 1,
+x = 6.14798.
+1//6.14798^4
+f(x) = x^3-50**x
+x = 1,
+f(x) = 500,
+f(x)
+x
+f(x)
+f(x)
+f(x) = 0
+f(x)
+f(x) = -2x^2+20x+7.
+x
+f(x) = 50.
+f(x) = -x^2+4x+5.
+x
+f(x) = -5.
+f(x) = 5x+7//x.
+x
+f(x) = 20.
+f(x) = 10exp(x//10).
+x
+f(x) = 1000.
+f(x) = ln(x+5)+7.
+x
+f(x) = 5.
+f(x) = 1000**(1//2)^((x//7)).
+x
+f(x) = 50.
+f(x) = 5x+7
+g(x) = 40-2x.
+x = 33/7.
+y = 40-66/7 = 280/7-66/7 = 214/7.
+(x, y) = (33/7, 214/7).
+f(x) = 5x
+g(x) = 9x//7.
+f(t) = exp(-0.05t)**(3t+5)
+g(t) = t//10.
+t ~~ -1.71925
+t ~~ 68.5047.
+g(t) = t//10
+(-1.71925, -.171925)
+(68.5047, 6.85047).
+f(t) = 20ln(100t+854)
+g(t) = 0.02t.
+f(x) = 7+10x-x^2
+g(x) = 0.
+y
+(-0.65685, 0)
+(10.657, 0).
+f(x) = 15x+200//x
+g(x) = 20+25x.
+y = -0.1006x2+100.66x-555.65
+f(x) = (10x-1)**exp(-x)+2.
+x = 2?
+f(x),
+f
+x = 1
+x = 2
+x = 1
+x ~~ -0.0839
+x = 2
+x = 53.02
+(10x-1)**exp(-x)+2 = 0.
+x = 2,
+= 53.
+x
+f(x) = x^2**exp(-(x^2)).
+x = .5.
+x = 2.
+q
+q
+q
+(a, b)
+f(x, y),
+(del)/(del x) f(x, y)|_(x=a,y=b) = 0
+(del)/(del y) f(x, y)|_(x=a,y=b) = 0.
+f(x, y) = x^2+2xy+3y^2-4x-3y
+[ (del)/(del x) f(x,y), "<mi//>"=2x+2y-4], [ (del)/(del y) f(x,y), "<mi//>"=2x+6y-3.]
+(9//4, -1//4).
+[0, "<mi//>"=2x+2y-4], [0, "<mi//>"=2x+6y-3.]
+x:
+0 = 0-4y-1.
+y:
+[4y, "<mi//>"=-1], [y, "<mi//>"=-1//4.]
+x:
+[0, "<mi//>"=2x+2(-1//4)-4], [2x, "<mi//>"=9//2], [x, "<mi//>"=9//4.]
+f_y = 0,
+f_x = 0
+(9//4, -1//4)
+f(x, y) = x^2+y^2
+(0, 0)
+f(x, y) = -x^2-y^2
+(0, 0)
+f(x, y) = x^2-y^2,
+(0, 0),
+x
+y
+f(x, y) = x^2-3xy+y^2
+(0, 0),
+[ (del)/(del x) f(x,y), "<mi//>"=2x-3y], [ (del)/(del x) f(x,y), "<mi//>"=-3x+2y.]
+[f(x,0), "<mi//>"=x^2], [f(0,y), "<mi//>"=y^2.]
+x = y,
+f(x, -x) = x^2-3xx+x^2 = -x^2.
+f_(ab) = (f_a)_b = (del)/(del b) ( (del)/(del a) f).
+f_(xx)
+f(x, y_0)
+f_(yy)
+f(x_0, y).
+f_(yx)
+f_(xy)
+f(x, y) = x^2+3xy+5y^3-7x-11y.
+[f_x, "<mi//>"= (del)/(del x) f(x,y)=2x+3y-7], [f_y, "<mi//>"= (del)/(del y) f(x,y)=3x+15y^2-11.]
+[f_(xx), "<mi//>"= (del)/(del x) f_x=2], [f_(xy), "<mi//>"= (del)/(del y) f_x=3], [f_(yx), "<mi//>"= (del)/(del x) f_y=3], [f_(yy), "<mi//>"= (del)/(del y) f_y=30y.]
+D(f(x, y)) = f_(xx)f_(yy)-f_(xy)^2.
+f(x, y) = x^2+3xy+5y^3-7x-11y.
+f_(xx) = 2, \ f_(xy) = 3, \ f_(yy) = 30y.
+D = (2)(30y)-3^2 = 60y-9.
+(a, b)
+f(x, y).
+D(a, b) > 0
+f_(xx)(a, b) > 0
+(a, b)
+f(x, y).
+D(a, b) > 0
+f_(xx)(a, b) < 0
+(a, b)
+f(x, y).
+D(a, b) < 0
+(a, b)
+f(x, y).
+D(a, b) = 0
+f_x
+f_y
+f_(xx)
+f_(xy)
+f_(yy)
+f_x
+f_y
+f_(xx)
+f_(xy)
+f_(yy)
+f(x, y) = x^3-3x+y^3-3y^2.
+[f_x, "<mi//>"=3x^2-3=3(x-1)(x+1)], [f_y, "<mi//>"=3y^2-6y=3(y-2)(y).]
+f_(xx) = 6x, \ f_(xy) = 0, \ f_(yy) = 6y-6, \ D = (6x)(6y-6)-0^2 = 36xy-36x.
+(1, 2),
+(-1, 2),
+(1, 0),
+(-1, 0).
+(1, 2),
+D
+f_(xx)
+(-1, 2)
+(1, 0),
+D
+(-1, 0),
+D
+f_(xx)
+f
+f_(xx)
+(a, b)
+f(x, y),
+f
+f_(xx)
+x
+y
+f(x, y)
+f_(xx)f_(yy)-f_(xy)^2.
+f(x, y) = x^2+2xy+4y^2+5x-6y,
+-10 <= x <= 10,
+-10 <= y <= 10.
+[f_x(x,y), "<mi//>"=2x+2y+5], [f_y(x,y), "<mi//>"=2x+8y-6.]
+x
+y.
+[f_x(x,y), "<mi//>"=2x+2y+5=0], [f_y(x,y), "<mi//>"=2x+8y-6=0.]
+x
+y
+[-1 xx(2x+2y+5, "<mi//>"=0), "gives\ "-2x-2y-5, "<mi//>"=0], [1 xx(2x+8y-6, "<mi//>"=0), "gives\ "2x+8y-6, "<mi//>"=0.]
+6y-11 = 0;
+y = 11//6.
+2x+2y+5 = 0\ "and\ "y = 11//6
+2x+2(11//6)+5 = 0
+x = (2(11//6)+5)//(-2) = -13//3.
+[f_(xx)(x,y), "<mi//>"=2], [f_(xy)(x,y), "<mi//>"=2], [f_(yy)(x,y), "<mi//>"=8], [D, "<mi//>"=f_(xx)(x,y)f_(yy)(x,y)-f_(xy)(x,y)^2=2**8-2^2=12>0.]
+D > 0
+f_(xx)(x, y) > 0
+f(x, y) = x^2+7xy+2y^2+4x-3y,
+-10 <= x <= 10,
+-10 <= y <= 10.
+f(x, y) = -x^2+2xy-4y^2+8x-11y,
+-10 <= x <= 10,
+-10 <= y <= 10.
+[f_x(x,y), "<mi//>"=-2x+2y+8], [f_y(x,y), "<mi//>"=2x-8y-11.]
+x
+y.
+[f_x(x,y), "<mi//>"=-2x+2y+8=0], [f_y(x,y), "<mi//>"=2x-8y-11=0.]
+-6y-3 = 0,
+y = -1//2.
+-2x+7 = 0,
+x = 7//2.
+(7//2, -1//2).
+(x, y) = (2, 1):
+[f_(xx)(x,y), "<mi//>"=-2], [f_(xy)(x,y), "<mi//>"=2], [f_(yy)(x,y), "<mi//>"=-8], [D, "<mi//>"=f_(xx)(x,y)f_(yy)(x,y)-f_(xy)(x,y)^2=2**8-2^2=12>0.]
+D > 0
+f_(xx)(x, y) < 0
+f(x, y) = x^3-12x+y^3-3y,
+-10 <= x <= 10,
+-10 <= y <= 10.
+["PriceGizmos", "<mi//>"=25- "QuantityGizmos"/50- "QuantityWidgets"/200], ["PriceWidgets", "<mi//>"=30- "QuantityWidgets"/45- "QuantityGizmos"/300]
+0 <= "QuantityWidgets" <= 1500,
+0 <= "QuantityGizmos" <= 1500.
+x
+y.
+["PriceX", "<mi//>"=25-x/50-y/200], ["PriceY", "<mi//>"=30-y/45-x/300], ["Revenue"(x,y), "<mi//>"=x**"PriceX"+y**"PriceY"], [\ , "<mi//>"=x[25-x/50-y/200]+y[30-y/45-x/300]], [\ , "<mi//>"= (-36x^2-15xy+45000x-40y^2+54000y)/1800.]
+["Revenue"_x(x,y), "<mi//>"= (-24x-5y+1000)/600], ["Revenue"_y(x,y), "<mi//>"= (-3x-16y+10800)/360]
+(62000//123, 23800//41) ~~ (504, 580.5).
+[f_(xx)(x,y), "<mi//>"=-1/25], [f_(xy)(x,y), "<mi//>"=-1/120], [f_(yy)(x,y), "<mi//>"=-4/25], [D, "<mi//>"=f_(xx)(x,y)f_(yy)(x,y)-f_(xy)(x,y)^2>0.]
+D > 0
+f_(xx)(x, y) < 0
+["PriceGizmos", "<mi//>"=30(0.9)^(("QuantityGizmos"//150))- "QuantityWidgets"/250], ["PriceWidgets", "<mi//>"=20(0.97)^(("QuantityWidgets"//50))- "QuantityGizmos"/350]
+0 <= "QuantityWidgets" <= 1500,
+0 <= "QuantityGizmos" <= 1500.
+f_x
+f_y
+f_(xx)
+f_(xy)
+f_(yy)
+f_x
+f_y
+f_(xx)
+f_(xy)
+f_(yy)
+D
+f_x
+f_y
+f_(xx)
+f_(xy)
+f_(yy)
+f(x, y) = ax^3+bx^4+cy^3+dy^4,
+(0, 0),
+f(x) = ax^3
+x = 0
+f(x) = ax^4
+x = 0
+a > 0
+a < 0.
+(x, y) = -x^4-y^4.
+x^4
+y^4
+f(x, y) = x^4+y^4.
+x^4
+y^4
+f(x, 0)
+f(0, y)
+(x, y) = -x^4+y^4.
+f(x, 0)
+f(0, y)
+f(x, y) = x^3+y^3
+q
+q
+f(x),
+f(x)
+f'(x),
+f''(x),
+f''(x) = d/dx(d/dx(f(x))).
+y = f(x).
+f(x)
+f''(x)
+(d^2)/(dx^2) f(x)
+(d^2 y)/(dx^2) .
+x = x_0
+f''(x_0)
+<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//> (d^2 y)/(dx^2) |_(x=x_0).
+f(x) = 3x^5+4x^2
+g(x) = 5x^6+3x+9
+h(x) = xe^(2x)
+j(x) = 6sqrt(x)+3/x
+k(x) = (ln(x))/(x^3)
+f''(x) = d/dx(d/dx(3x^5+4x^2)) d/dx(15x^4+8x) = 60x^3+8.
+g''(x) = d/dx(d/dx(5x^6+3x+9)) = d/dx(30x^5+3) = 150x^4.
+[h''(x), "<mi//>"=d/dx(d/dx(xe^(2x)))=d/dx(e^(2x)+2xe^(2x))], [\ , "<mi//>"=2e^(2x)+2e^(2x)+4xe^(2x)=4e^(2x)+4xe^(2x).]
+[j''(x), "<mi//>"=d/dx(d/dx(6sqrt(x)+3//x))=d/dx(d/dx(6x^(1//2)+3x^(-1)))], [\ , "<mi//>"=d/dx(3x^(-1//2)-3x^(-2))=-3//2x^(-3//2)+6x^(-3)], [\ , "<mi//>"=3/(2sqrt(x^3)) +6/(sqrt(x^3)) .]
+[k''(x), "<mi//>"=d/dx(d/dx( (ln(x))/(x^3) ))=d/dx( ((1/x x^3-3(x^2)ln(x)))/(x^6) )], [\ , "<mi//>"=d/dx( ((1-3ln(x)))/(x^4) )= ((-3/x x^4-(1-3ln(x))4x^3))/(x^8) ], [\ , "<mi//>"= (-3-(1-3ln(x))4)/(x^5) = (-7+12ln(x))/(x^5) .]
+x,
+f(x).
+f(x)
+f'(x_0) = 0.
+f''(x_0) > 0,
+x = x_0.
+f''(x_0) < 0,
+x = x_0.
+f''(x_0) = 0,
+f(x) = x^3-12x, \ x_0 = 2
+f(x) = x^3-12x, \ x_0 = -2
+f(x) = x^3-12x, \ x_0 = 4
+g(x) = x^4, \ x_0 = 0
+h(x) = x^5, \ x_0 = 0
+f(x) = x^3-12x, \ f'(x) = 3x^2-12, \ f''(x) = 6
+x_0 = 2,
+f'(x_0) = 0
+f''(x_0) = 12.
+f(x) = x^3-12x, \ f'(x) = 3x^2-12, \ f''(x) = 6x.
+x_0 = -2,
+f'(x_0) = 0
+f''(x_0) = -12.
+f(x) = x^3-12x, \ f'(x) = 3x^2-12, \ f''(x) = 6x.
+x_0 = 4,
+f'(x_0) = 36.
+g(x) = x^4, \ g'(x) = 4x^3, \ g''(x) = 12x^2.
+x_0 = 0,
+g'(x_0) = 0
+g''(x_0) = 0,
+h(x) = x^5, \ h'(x) = 5x^4, \ h''(x) = 20x^3.
+x_0 = 0,
+h'(x_0) = 0
+h''(x_0) = 0,
+f(x) = (x-3)^2-4
+f'(x) = 2(x-3)
+f''(x) = 2
+x = 3.
+g(t) = (x-3)(x-1)(x+4)
+h(t) = t^2 e^(-t)
+h'(t) = 2te^(-t)-t^2 e^(-t) = (2t-t^2)e^(-t)
+h''(t) = (2-2t)e^(-t)-(2t-t^2)e^(-t) = (2-4t+t^2)e^(-t)
+2-sqrt(2) < t < 2+sqrt(2).
+t = 0
+t = 2.
+t = 0,
+h''(t) > 0,
+t = 2,
+h''(t) < 0,
+k(x) = (x^2-9)^3
+m(x) = (x^2-4)/(x^2-9)
+m'(x) = (-10x)/((x^2-9)^3)
+m''(x) = (30x^2+90)/((x^2-9)^3)
+m(x)
+-3 < x < 3.
+t
+t = 0,
+h''(t) > 0,
+t = 2,
+"ConsumerSurplus" = 10**(0.95)^( "Quantity"/100)-2**(1.07)^( "Quantity"/100)
+"Price" = 10- "Quantity"/100- ("Quantity"^2)/10000
+"price"' = (-1)/100- "quantity"/5000
+"price"'' = (-1)/5000
+"quantity" = -50.
+"Revenue" = "Quantity"**(20**.9^(( "Quantity"/200)))
+"Supply""Price" = 10**1.04^(( "Quantity"/100))
+"Supply""Price"' = (ln(104))/10**1.04^(("Quantity"//100))
+"Supply""Price"'' = (ln(104)^2)/1000**1.04^(("quantity"//100))
+f,
+f',
+f''.
+E(x) = D'(x) = F''(x).
+F(x) = D'(x) = E''(x).
+"Cost" = ("Face""Value")/((1+"rate")^("years")) .
+"Cost" = 1000/((1.04)^(30)) = 308.32
+"Cost"("rate") = "Face""Value"(1+"rate")^((-"years"))
+"Cost"("rate") = -"years"**"Face""Value"(1+"rate")^((-"years"-1))
+"Cost"'(.04) = -30**1000(1.04)^(-31) = -8993
+"Cost"''("rate") = "years"(1+"years")**"Face""Value"(1+"rate")^((-"years"-2))
+"Cost"(.04) = 30(31)**1000(1.04)^((-32)) = 265103
+"Cost" = 1000/((1.03)^(20)) = 553.68
+"Cost"("rate") = "Face""Value"(1+"rate")^((-"years"))
+"Cost"("rate") = -"years"**"Face""Value"(1+"rate")^((-"years"-1))
+"Cost"'(.03) = -20**1000(1.03)^(-21) = -8000
+"Cost"''("rate") = "years"(1+"years")**"Face""Value"(1+"rate")^((-"years"-2))
+"Cost"(.03) = 20(21)**1000(1.03)^((-22)) = 219914
+q
+f(x) = a,
+f'(x) = 0.
+f(x) = ax,
+f'(x) = a.
+f(x) = a**x^n,
+f'(x) = a**n**x^(n-1),
+f(x) = e^x,
+f'(x) = e^x.
+f(x) = a^x,
+f'(x) = a^x ln(a).
+f(x) = ln(x),
+f'(x) = 1//x
+c**f(x)
+c**f'(x).
+f(x)+-g(x)
+f'(x)+-g'(x).
+f(x)g(x)
+f'(x)g(x)+f(x)g'(x).
+f(x)//g(x)
+(f'(x)g(x)-f(x)g'(x))/((g(x))^2) .
+(2x+3)^(52),
+sqrt((x^2)+5x+7),
+1.06^(.2x).
+f(g(x))
+f'(g(x))g'(x).
+[f(g(x))]' = f'(g(x))**g'(x).
+f(p) = (p^3+2p+5)^7.
+g(q) = sqrt(q^2+6).
+h(x) = e^(2x+5).
+f(p)
+g(h(p))
+h(p) = p^3+2p+5
+g(p) = p^7.
+h'(p) = 3p^2+2
+g'(p) = 7p^6.
+g'(h(p)) = 7(p^3+2p+5)^6.
+f'(p) = g'(h(p))h'(p) = 7(p^3+2p+5)^6(3p^2+2).
+g(q)
+f(h(q))
+h(q) = q^2+6
+f(q) = sqrt(q).
+h'(q) = 2q
+f'(q) = 1//(2sqrt(q)).
+f'(h(q)) = 1//(2sqrt((q^2+6))).
+g'(q) = f'(h(q))h'(q) = (2q)//(2sqrt((q^2+6)))
+h(t)
+f(g(t))
+g(x) = 2t+5
+f(x) = e^t.
+g'(t) = 2
+f'(t) = e^t.
+f'(h(t)) = e^(2t+5).
+g'(t) = f'(h(t))h'(t) = 2e^(2t+5).
+g(x) = u = bx+d.
+g(x)
+f(x)
+f(u) = au+c,
+a = f'(u) = f'(g(x_0))
+g(x) = bx+d,
+b = g'(x_0).
+f
+g
+f(g(x)) = a(bx+d)+c = (ab)x+(ad+c).
+[f(g(x_0))]' = ab = f'(g(x_0))**g'(x_0).
+f'(x),
+f'(q),
+f'(t),
+(df)/dx,
+(df)/(dq) ,
+(df)/dt
+dy/dx,
+(dp)/(dq) ,
+(dq)/dt,
+f(x)
+z = g(x)
+y = f(z)
+y = f(g(x)),
+dy/dx = dy/dz dz/dx "\or\ " (df)/dx = (df)/(dg) (dg)/dx.
+"intermediate"("raw") = -25+7.3"raw"+.2"raw"^2
+"gizmos"("intermediate") = -5+12"intermediate".
+(d"intermediate")/(d"raw") = 7.3+.4"raw"
+(d"gizmos")/(d"intermediate") = 12.
+[ (d"gizmos")/(d"raw") , "<mi//>"= (d"gizmos")/(d"intermediate") (d"intermediate")/(d"raw") ], [\ , "<mi//>"=12**(7.3+.4"raw")=87.6+4.8raw.]
+h'(x)
+h(x) = f(g(x))
+f(z)
+g(x).
+f(z) = 2z+7
+z = g(x) = 3x+5.
+f(z) = z^3
+z = g(x) = x^2+7.
+f(z) = e^z
+z = g(x) = x^2+3.
+(dh)/dx = (dh)/dz(dg)/dx = 2**3 = 6.
+(dh)/dx = (dh)/dz(dg)/dx = 3z^2**2x = 3(x^2+7)^2**2x.
+(dh)/dx = (dh)/dz(dg)/dx = e^z**2x = e^((x^2+3))**2x.
+[(f(x))^n]' = n(f(x))^(n-1)f'(x).
+[(f(ax+b))]' = (f'(ax+b))**a
+z = g(x),
+y = f(z),
+y = f(g(x)),
+dy/dz = dy/dz dz/dx.
+f(g(x))
+f'(g'(x)).
+z = g(x),
+y = f(z),
+y = f(g(x)),
+dy/dx = dy/dz dz/dx.
+f(g(x))
+f'(g(x))**g'(x).
+g(x) = (f(a**x+b)
+g'(x) = a**f'(a**x+b).
+g(x) = g(f(x)^n
+g'(x) = n**(f(x)^(n-1)**f'(x).
+f(x) = (x^3+5x+7)^4.
+u = x^3+5x+7,
+f(x) = (u)^4,
+f'(x) = 4u^3 du = 4(x^3+5x+7)^3(3x^2+5).
+g(x) = (x^2-6x+8)^(123).
+h(x) = sqrt((5x^7+3x-2)).
+h(x) = sqrt(5x^7+3x-2) = u^(1//2),
+u = 5x^7+3x-2.
+h'(x) = 1//2u^(-1//2)du = 1//2(5x^7+3x-2)^(-1//2)(35x^6+3).
+[h(x), "<mi//>"=sqrt(5x^7+3x-2)=(5x^7+3x-2)^(1//2)], [h'(x), "<mi//>"=""derivative outside function""**""derivative inside function""], [\ , "<mi//>"=[1//2(5x^7+3x-2)^(-1//2)][(35x^6+3)].]
+k(x) = ln(e^x+5).
+m(x) = ln(ln(ln(x^2+3))).
+[m'(x), "<mi//>"=1/(ln(ln(x^2+3))) d/dx ln(ln(x^2+3))], [\ , "<mi//>"=1/(ln(ln(x^2+3))) **1/(ln(x^2+3)) **d/dx ln(x^2+3)], [\ , "<mi//>"=1/(ln(ln(x^2+3))) **1/(ln(x^2+3)) **1/(x^2+3) **d/dx(x^2+3)], [\ , "<mi//>"=1/(ln(ln(x^2+3))) **1/(ln(x^2+3)) **1/(x^2+3) **2x.]
+n(x) = (((x^2+2)^2+3)^2+4)^2+5.
+f(x) = e^(2x+3).
+f'(x) = e^(2x+3)(2)
+g(x) = (ln(10x-15))^2.
+h(x) = ln((10x-15)^2).
+h'(x) = 1/((10x-15)^2) [2(10x-15)]**10 = 20/(10x-15) .
+h(x)
+2ln(10x-15)
+k(x) = ((ln(x))(e^x))^3.
+m(x) = ln(e^((x^2+x))+x).
+[m'(x), "<mi//>"=1/(e^((x^2+x))+x) [e^((x^2+x))**(2x+1)+1]], [\ , "<mi//>"= ((2x+1)e^((x^2+x))+1)/(e^((x^2+x))+x) .]
+n(x) = ( (x^2-5x+3)/(e^x) )^5.
+f(x) = ( (ln(x))/((2x+7)) )^4.
+[f'(x), "<mi//>"=4( (ln(x))/(2x+7) )^3**d/dx( (ln(x))/(2x+7) )], [\ , "<mi//>"=4( (ln(x))/(2x+7) )^3** ((ln(x))'(2x+7)-(ln(x))(2x+7)')/((2x+7)^2) ], [\ , "<mi//>"=4( (ln(x))/(2x+7) )^3** (1/x(2x+7)-(ln(x))(2))/((2x+7)^2) ], [\ , "<mi//>"=4( (ln(x))/(2x+7) )^3** ((2x+7)-(xln(x))(2))/(x(2x+7)^2) .]
+g(x) = ln( (x^3+2x+9)/(1.07^x) ).
+h'(2),
+h(x) = f(g(x)).
+[h'(x), "<mi//>"=f'(g(x))g'(x)], [h'(2), "<mi//>"=f'(g(2))g'(2)], [\ , "<mi//>"=f'(0)**4=7**4=28.]
+h'(5),
+h(x) = f(f(x)).
+h'(7),
+h(x) = g(g(x)).
+[h'(x), "<mi//>"=g'(g(x))g'(x)], [h'(7), "<mi//>"=g'(g(7))g'(7)], [\ , "<mi//>"=g'(1)**3=8**3=24.]
+h'(4),
+h(x) = g(f(x)).
+"Profit"(q) = -q^2+300q-2500
+"tax"("Profit") = 0.4("Profit"-1000).
+q = 100.
+q = 100,
+"Profit"(100) = -100^2+300(100)-2500 = -10,000+30,000-2500 = 18,500
+"tax"("Profit") = 0.4("Profit"-1000),
+"tax"(18, 500) = 0.4(18,500-1000) = 7,000.
+q = 100,
+tax = 7,000.
+(d"tax")/(dq) = d"tax"d"Profit"** (d"Profit")/(dq) = (0.4)**(-2q+300)
+q = 100
+m = (d"tax")/(dq) = 0.4**(-200+300) = 40.
+"tax"-"tax"_0 = m(q-q_0)
+"tax" = tax_0+m(q-q_0) = 7000+40(q-100)
+"tax"(q) = 40q+3000.
+q
+"Revenue"(q) = .2q^2+500q.
+"commissions"("Revenue") = 0.1"Revenue"+"Revenue"^2//3,000,000.
+q = 1000.
+q
+f(x),
+f(x),
+f(x),
+f'(x),
+f'(x) = lim_(h->0) (f(x+h)-f(x))/h.
+y = f(x).
+f(x)
+f'(x)
+d/dx f(x)
+dy//dx.
+x = x_0
+f'(x_0)
+dy/dx|_(x=x_0).
+f(x) = ax^n,
+f'(x) = n**a**x^(n-1).
+f(x) = 3x
+g(x) = 5x^2
+h(x) = 7x^(25)
+j(x) = 6sqrt(x)
+k(x) = 4/(x^3)
+d/dx f(x) = d/dx(3x^1) = 1**3x^0 = 3.
+d/dx g(x) = d/dx(5x^2) = 2**5x^1 = 10x.
+d/dx h(x) = d/dx(7x^(25)) = 25**7x^(24) = 175x^(24).
+d/dx j(x) = d/dx(6sqrt(x)) = d/dx(6x^(1//2)) = 1//2**6x^(-1//2) = 3x^(-1//2) = 3/(sqrt(x))
+d/dx k(x) = d/dx 4/(x^3) = d//dx(4x^((-3))) = -3**4x^(-4) = -12x^(-4) = (-12)/(x^4)
+f(x) = ax+b,
+f'(x) = a.
+[f'(x), "<mi//>"=lim_(h->0) (f(x+h)-f(x))/h], [\ , "<mi//>"=lim_(h->0) ((a(x+h)+b)-(ax+b))/h], [\ , "<mi//>"=lim_(h->0) ((ax+ah+b)-(ax+b))/h], [\ , "<mi//>"=lim_(h->0) (ah)/h=(lim_(h->0) a/1)(lim_(h->0) h/h)], [\ , "<mi//>"=lim_(h->0)a=a.]
+h
+a
+a.
+f(x) = ax^2,
+f'(x) = 2ax.
+[f'(x), "<mi//>"=lim_(h->0) (f(x+h)-f(x))/h], [\ , "<mi//>"=lim_(h->0) ((a(x+h)^2)-(ax^2))/h], [\ , "<mi//>"=lim_(h->0) ((ax^2+2ahx+ah^2)-(ax^2))/h], [\ , "<mi//>"=lim_(h->0) (2ahx+ah^2)/h=lim_(h->0) (h(2ax+ah))/h], [\ , "<mi//>"=lim_(h->0)(2ax+ah)=2ax.]
+h
+ah
+f(x) = x^n
+n.
+(x+h)^n = x^n+nx^((n-1))h+"\terms involving\ "h^2.
+f(x) = ax^n,
+f'(x) = nax^((n-1)).
+[f'(x), "<mi//>"=lim_(h->0) (f(x+h)-f(x))/h], [\ , "<mi//>"=lim_(h->0) ((a(x+h)^n)-(ax^n))/h], [\ , "<mi//>"=lim_(h->0) ((a(x^n+nx^(n-1)h+"\terms involving\ "h^2)-(ax^n))/h], [\ , "<mi//>"=lim_(h->0) (a(nx^(n-1)h+"\terms involving\ "h^2))/h], [\ , "<mi//>"=lim_(h->0)a(nx^(n-1)+"\terms involving\ "h)], [\ , "<mi//>"=anx^(n-1).]
+h
+h
+h
+f(x) = a**e^x,
+f'(x) = a**e^x.
+e
+f(x) = b**a^x,
+f'(x) = b**ln(a)**a^x.
+f(x) = 2e^x
+g(x) = pi e^x
+h(x) = 7**2^x
+j(x) = 5**(1.06)^x
+k(x) = 9**(0.97)^x
+d/dx f(x) = d/dx(2e^x) = 2e^x.
+d/dx g(x) = d/dx(pi e^x) = pi e^x.
+d/dx h(x) = d/dx(7**2^x) = 7**ln(2)**2^x
+d/dx j(x) = d/dx(5**(1.06)^x) = 5**ln(1.06)**(1.06)^x
+d/dx k(x) = d/dx(9**(0.97)^x) = 9**ln(0.97)**(0.97)^x
+f(x) = e^x,
+f'(x) = e^x.
+[f'(x), "<mi//>"=lim_(h->0) (f(x+h)-f(x))/h], [\ , "<mi//>"=lim_(h->0) (e^((x+h))-e^x)/h], [\ , "<mi//>"=lim_(h->0) (e^x(e^h-1))/h], [\ , "<mi//>"=e^x(lim_(h->0) (e^h-1)/h).]
+lim_(h->0) (e^h-1)/h = 1.
+e.
+h.
+lim_(h->0) (e^h-1)/h = 1.
+f(x) = a^x,
+f'(x) = ln(a)**a^x.
+h
+hln(a)
+a^x = (e^(ln(a)))^x = e^(ln(a)x) = e^(xln(a)).
+(lim_(hln(a)->0) (e^(hln(a))-1)/(hln(a)) ) = (lim_(h->0) (e^h-1)/h) = 1.
+[f'(x), "<mi//>"=lim_(h->0) (f(x+h)-f(x))/h], [\ , "<mi//>"=lim_(h->0) (a^((x+h))-a^x)/h], [\ , "<mi//>"=lim_(h->0) (a^x(a^h-1))/h], [\ , "<mi//>"=(a^x)(lim_(h->0) (a^h-1)/h)], [\ , "<mi//>"=(a^x)(lim_(h->0)(ln(a)) (e^(hln(a))-1)/(hln(a)) )], [\ , "<mi//>"=(a^x ln(a))(lim_(hln(a)->0) (e^(hln(a))-1)/(hln(a)) )], [\ , "<mi//>"=(a^x ln(a))(lim_(h->0) (e^h-1)/h)], [\ , "<mi//>"=a^x ln(a).]
+f(x) = (1.06)^x.
+f'(x) = ln(1.06)(1.06)^x.
+f'(10) = ln(1.06)(1.06)^(10) = .10435074.
+f(x) = aln(x).
+f(x) = aln(x),
+f'(x) = a//x.
+f(x) = 2ln(x)
+g(x) = 3ln(x^2)
+h(x) = 5ln(1//x)
+d/dx f(x) = d/dx(2ln(x)) = 2//x.
+d/dx g(x) = d/dx(3ln(x^2)) = d/dx(3**2ln(x)) = 6//x.
+d/dx h(x) = d/dx(5ln(1//x)) = d/dx(-1**5ln(x)) = -5//x.
+f(x) = ln(x),
+f'(x) = 1//x.
+y = e^x
+y = ln(x)
+y = x.
+(a, e^a)
+e^a
+y = ln(x)
+(e^a, a)
+1//e^a.
+b = e^a,
+y = ln(x)
+(b, ln(b))
+1//b.
+d/dx(ln(x)) = 1//x.
+y = ln(x)
+x = 10.
+f(x) = ln(x),
+f'(10) = 1//10 = 0.1.
+(f(10.001)-f(9.999))//.002
+0.1000000003.
+f(x) = a**x^n
+n
+f(x) = a**ln(x)
+f'(x) = a//x.
+f(x) = b**a^x
+f'(x) = b**ln(a)**a^x.
+f(x) = a**x^ pi
+f'(x) = a**ln(pi)**x^ pi.
+f(x) = a**ln(x^n)
+f'(x) = a**n//x^(n-1).
+f(x) = a**e^x
+f'(x) = a**e^x.
+f(x) = a**x^n
+f'(x) = n**a**x^(n-1).
+f(x) = x^5
+f(x) = 5x^4
+g(x) = 7//x^3
+h(x) = 3sqrt((x^7))
+h(x) = 3x^(7//2).
+h'(x) = 21/2(x^(5//2)) = 21/2(sqrt(x^5)).
+f(x) = 2x^ pi
+k(x) = 17
+k'(x) = 0
+m(x) = 9x^(-5)
+f(x) = x^2 sqrt(x)
+f(x) = x^(5//2).
+f'(x) = 5/2 x^(3//2) = 5/2 sqrt(x^3).
+g(x) = ln(x)
+h(x) = e^x
+h'(x) = e^x
+k(x) = 5^x
+m(x) = 1.03^x
+m'(x) = 1.03^x ln(1.03)
+n(x) = (0.9)^x
+f(x) = x^2.
+x = 2.
+f'(x) = 2x,
+f'(2) = 4.
+g(x) = 5x.
+x = 7.
+h(x) = 1.06^x.
+x = 10.
+h'(x) = ln(1.06)(1.06)^x.
+h'(10) = ln(1.06)(1.06)^(10)\ ( ~~ 0.104).
+f(x) = e^x.
+x = 5.
+k(x) = ln(x).
+x = 100.
+k'(x) = 1//x.
+k'(100) = 0.01.
+m(x) = 3//x.
+x = pi.
+f(x) = 3x^4.
+x = 1.
+x = 1
+y = f(1) = 3.
+f'(x) = 12x^3.
+m = f'(1) = 12.
+y-y_0 = m(x-x_0),
+y-3 = 12(x-1).
+y = 12x-9
+y = mx+b.
+m = 12,
+b
+x = 1
+y = 3.
+g(x) = ax.
+x = b.
+h(x) = 1.05^x.
+x = 20.
+x = 20
+y = h(20) = (1.05)^(20) ~~ 2.6533.
+h'(x) = ln(1.05)(1.05)^x.
+m = ln(1.05)(1.05)^(20) = 0.12945
+y-y_0 = m(x-x_0),
+y-2.6533 = 0.12945(x-20).
+f(x) = e^x.
+x = 1.
+q
+(Q_0, P(Q_0))
+P(Q_0)
+Q_0,
+Q_0**P(Q_0),
+E = - (d("Quantity"//Q_0))/(d("Price"//P(Q_0))) = - (d"Quantity"//Q_0)/(d"Price"//P(Q_0)) = - (d"Quantity")/(d"Price") ** (P(Q_0))/(Q_0) .
+(E > 1),
+E < 1
+q
+P(q) = 20-q//100.
+q = 800.
+q = 1500.
+E = (-dQ)/(dP) ** (P(Q_0))/(Q_0) .
+P(Q_0)
+(-dQ)/(dP) .
+P(800) = 20-800//100 = 20-8 = 12.
+(dQ)/(dP) ,
+(dQ)/(dP) = 1// (dP)/(dQ) .
+(dQ)/(dP) = 1//( (dP)/(dQ) ) = 1//( (-1)/100) = -100.
+"Elasticity" = (-dQ)/(dP) ** (P(Q_0))/(Q_0) = -(-100)**12/800 = 1.5.
+-100.
+"Elasticity" = (-d"Quantity")/(d"Price") ** (P(Q_0))/(Q_0) = -(-100)**5/1500 = 1//3.
+"Revenue" = "Price"**"Quantity" = 20q-q^2//100.
+q = 1000,
+("Quantity"_1, "Price"_1)
+("Quantity"_2, "Price"_2).
+(dQ)/(dP) ,
+[E, "<mi//>"= (-Delta "Quantity")/(Delta "Price") ** ("average price")/("average quantity") ], [\ , "<mi//>"=- ("Quantity"_2-"Quantity"_1)/("Price"_2-"Price"_1) ** (("Price"_1+"Price"_2)//2)/(("Quantity"_1+"Quantity"_2)//2) .]
+E = - ("Quantity"_2-"Quantity"_1)/("Price"_2-"Price"_1) ** ("Price"_1+"Price"_2)/("Quantity"_1+"Quantity"_2) .
+(5000, 20)
+(5200, 18).
+[E, "<mi//>"=- ("Quantity"_2-"Quantity"_1)/("Price"_2-"Price"_1) ** ("Price"_1+"Price"_2)/("Quantity"_1+"Quantity"_2) ], [E, "<mi//>"=- (5200-5000)/(18-20) ** (20+18)/(5000+5200) =-200/(-2) **38/10400~~.373]
+E = - (%"change in quantity")/(%"change in price") .
+-(0.6)**5% = -3%.
+["NewRevenue", "<mi//>"="NewPrice"**"NewQuantity"], [\ , "<mi//>"=(1.05**"OldPrice")**(0.97**"OldQuantity")], [\ , "<mi//>"=1.0185**"OldRevenue"]
+(-dQ)/(dP) ** (P(Q_0))/(Q_0) .
+"Price" = 30- "Quantity"/50; \ "Quantity" = 300.
+"Price" = 30-300/50 = 30-6 = 24
+E = (-dQ)/(dP) ** (P(Q_0))/(Q_0) = (-1)/(dP//dQ) (P(Q_0))/(Q_0) = (-1)/(-1//50) 24/300 = (50**24)/300 = 4
+E > 1
+E = 1
+[1, "<mi//>"=E= (-1)/(dP//dQ) (P(q))/q], [1, "<mi//>"=50(30-q//50)/q= (1500-q)/q]
+q:
+q = 1500-q'\\x0027f9'2q = 1500'\\x0027f9'q = 750.
+"Price" = 30- "Quantity"/50, \ "Price"(750) = 30-750/50 = 30-15 = 15.
+"Quantity" = 750
+"Price" = $15.
+"Revenue" = "Quantity"**"price" = 750**15 = $11,250.
+"Price" = 40- "Quantity"/75; \ "Quantity" = 1600.
+"Price" = 50- "Quantity"/100; \ "Quantity" = 2500.
+"price" = 50-q/100 = 50-2500/100 = 50-25 = $25
+E = (-dQ)/(dP) ** (P(Q_0))/(Q_0) = (-1)/(dP//dQ) (P(Q_0))/(Q_0) = (-1)/(-1//100) 25/2500 = 2500/2500 = 1
+E = 1
+E = 1,
+q = 2500
+P = $25.
+"Price" = 30**(0.9)^( "Quantity"/100); \ "Quantity" = 400.
+"Price" = 20**(0.95)^( "Quantity"/50); \ "Quantity" = 800.
+"Price" = 20**(.95)^((800//50)) = $8.80
+[E, "<mi//>"= (-dQ)/(dP) ** (P(Q_0))/(Q_0) = (-1)/(dP//dQ) (P(Q_0))/(Q_0) ], [ (dP)/(dQ) , "<mi//>"=20**(.95)^("quantity"//50)ln(.95)**1/50], [<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//> (dP)/(dQ) |_(95), "<mi//>"=20**(.95)^(800//50)ln(.95)**1/50=-0.009], [E, "<mi//>"= (-1)/(dP//dQ) (P(Q_0))/(Q_0) = (-1)/(-0.009) 8.80/800=1.22]
+E > 1,
+E = 1
+[1, "<mi//>"=E= (-1)/(dP//dQ) (P(q))/q], [1, "<mi//>"=-1/(20**(.95)^(q//50)ln(0.95) 1/50) (20**(.95)^(q//50))/q=-50/(q ln(0.95)) ]
+ln(.95)q = -50,
+q = -50//ln(.95) ~~ 975.
+q = 975,
+"price" = 20**(.95)^((975//50)) = $7.36.
+"Price" = 40**(0.8)^( "Quantity"/50); \ "Quantity" = 300.
+[E, "<mi//>"=- ((q_2-q_1))/((p_2-p_1)) ** ((p_1+p_2))/((q_1+q_2)) ], [\ , "<mi//>"=- ((900-1000))/((51-50)) ** ((50+51))/((1000+900)) =10100/1900=5.32]
+E > 1,
+($50, 1000)
+[E, "<mi//>"=- ((q_2-q_1))/((p_2-p_1)) ** ((p_1+p_2))/((q_1+q_2)) ], [\ , "<mi//>"=- ((2500-2385))/((1.99-2.01)) ** ((1.99+2.01))/((2500+2385)) =460/57.7]
+E > 1,
+($1.99, 2500)
+E > 1
+E < 1
+E = - ("percent change in quantity")/("percent change in price")
+2.5 = (-"percent change in quantity")/(10"\percent") ,
+"change in quantity" = -25%.
+"new revenue" = (1.10"\old price")(0.75"\old quantity") = .8250"\old price".
+-17.5%
+q
+q
+t,
+t
+u
+int(3x+5)^7 dx.
+1/8(3x+5)^8+C.
+d/dx(1/8(3x+5)^8+C) = 1/8**8(3x+5)^(8-1)**3 = 3(3x+5)^7.
+1/3**1/8(3x+5)^8+C = 1/24(3x+5)^8+C.
+int(ax+b)^n dx.
+1/(n+1) (ax+b)^(n+1)+C.
+a(ax+b)^n.
+a.
+1/a 1/((n+1)) (ax+b)^(n+1)+C.
+int e^(ax+b)dx.
+e^(ax+b)+C.
+ae^(ax+b).
+a.
+1/a e^(ax+b)+C.
+(x^2+5)^3
+1/4(x^2+5)^4,
+(x^2+5)^3 2x
+8x.
+((x^2+5)^4)/(8x)
+(4**2x(x^2+5)^3**8x-(x^2+5)^4**8)/(8x) ,
+d/dx(f(g(x))) = f'(g(x))g'(x).
+u:
+d/dx(f(u)) = f'(u) (du)/dx.
+int f'(u) (du)/dx dx = f(u)+C.
+(du)/dx dx
+du,
+int f'(u)du = f(u)+C.
+int(3x+5)^7 dx.
+u
+3x+5.
+du = 3dx.
+[int(3x+5)^7 dx, "<mi//>"=1/3 int(3x+5)^7(3dx)\ "\ (Make\ "u"\and\ "du"explicit.)"], [\ , "<mi//>"=1/3 int(u)^7 du\ "\ (Do the substitution.)"], [\ , "<mi//>"=1/(3**8) (u)^8+C\ "\ (Find the integral in terms of\ "u.)], [\ , "<mi//>"=1/24(3x+5)^8+C\ "\ (Substitute back.)".]
+int(ax+b)^n dx.
+u
+ax+b.
+du = adx.
+[int(ax+b)^n dx, "<mi//>"=1/a int(ax+b)^n(adx)\ "\ (Make\ "u"\and\ "du"\explicit.)"], [\ , "<mi//>"=1/a int(u)^n du\ "\ (Do the substitution.)"], [\ , "<mi//>"=1/(a**(n+1)) (u)^(n+1)+C\ "\ (Find the integral in terms of\ "u.)], [\ , "<mi//>"=1/(a**(n+1)) (ax+b)^(n+1)+C\ "\ (Substitute back.)".]
+u
+du
+int(2x^3+11)^7 x^2 dx.
+u
+2x^3+11,
+du = 6x^2 dx.
+[int(2x^3+11)^7 x^2 dx, "<mi//>"=1/6 int(2x^3+11)^7(6x^2 dx)\ "\ (Make\ "u"\and\ "du"\explicit.)"], [\ , "<mi//>"=1/6 int(u)^7 du\ "\ (Do the substitution.)"], [\ , "<mi//>"=1/(6**8) (u)^8+C\ "\ (Find the integral in terms of\ "u.)], [\ , "<mi//>"=1/48(2x^3+11)^8+C\ "\ (Substitute back.)".]
+u
+u
+a
+b
+x
+x = a
+x = b.
+int_1^3 e^(2x+5)dx.
+u.
+u
+2x+5.
+du = 2dx.
+x = 1
+u = 2(1)+5 = 7.
+x = 3
+u = 2(3)+5 = 11.
+[int_1^3 e^(2x+5)dx, "<mi//>"=(1/2)(2) int_1^3 e^(2x+5)dx)\ "\ (Add needed factors.)"], [\ , "<mi//>"=1/2 int_1^3 e^(2x+5)(2dx)\ "\ (Make\ "u"\and\ "du"\explicit.)"], [\ , "<mi//>"=1/2 int_(u=7)^(u=11)e^u du\ "\ (Do the substitution.)"], [\ , "<mi//>"=<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>1/2 e^u|_7^(11)\ "\ (Find the antiderivative.)"], [\ , "<mi//>"=1/2 e^(11)-1/2 e^7.\ "\ (Evaluate.)".]
+u
+du,
+x
+u.
+[int_1^3 e^(2x+5)dx, "<mi//>"=1/2 int_1^3 e^(2x+5)(2dx)\ "\ (Make\ "u"\and\ "du"\explicit.)"], [\ , "<mi//>"=1/2 int_(x=1)^(x=3)e^u du\ "\ (Do the substitution.)"], [\ , "<mi//>"=<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>1/2 e^u|_(x=1)^(x=3)\ "\ (Find the antiderivative.)"], [\ , "<mi//>"=<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>1/2 e^(2x+3)|_(x=1)^(x=3)\ "\ (Convert back.)"], [\ , "<mi//>"=1/2 e^(11)-1/2 e^7.\ "\ (Evaluate.)".]
+a
+b
+b < a.
+int_(-2)^1 xe^((x^2))dx
+u.
+u
+x^2.
+du = 2xdx.
+x = -2
+u = (-2)^2 = 4.
+x = 1
+u = 1^2 = 1.
+[int_(-2)^1 xe^((x^2))dx, "<mi//>"=1/2 int_(-2)^1 e^((x^2))(2xdx)\ "(Make\ "u"\and\ "du"explicit.)"], [\ , "<mi//>"=1/2 int_4^1 e^u du\ "\ (Do the substitution.)"], [\ , "<mi//>"=<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>1/2 e^u|_4^1\ "\ (Find the antiderivative.)"], [\ , "<mi//>"=1/2(1-e^4)., \ "\ (Evaluate.)".]
+u
+du
+u
+"A, B, D, E"
+u.
+int(5x+3)^4 dx.
+u = 5x+3.
+du = 5dx.
+[int(5x+3)^4 dx, "<mi//>"=int((u)^4 du)/5], [\ , "<mi//>"= (u^5)/25+c], [\ , "<mi//>"= ((5x+3)^5)/25+c.]
+int(7x-9)^(11)dx.
+int(x//5-2)^(2//3)dx.
+u = x//5-2.
+du = dx//5.
+[int(x//5-2)^(2//3)dx, "<mi//>"=5 int u^(2//3)du], [\ , "<mi//>"=5(u^(5//3))/(5//3) +c], [\ , "<mi//>"=3u^(5//3)+c], [\ , "<mi//>"=3(x//5-2)^(5//3)+c.]
+int(143567x+98736)^(2578965)dx.
+int sqrt((8x-3))dx.
+u = 8x-3.
+du = 8dx.
+[int(8x-3)^(1//2)dx, "<mi//>"=1//8 int u^(1//2)du], [\ , "<mi//>"=1/12 u^(3//2)+c], [\ , "<mi//>"=1/12(8x-3)^(3//2)+c.]
+int 1/(sqrt(3x+7)) dx.
+int 100e^(.06t-5)dt.
+u = 0.06t-5.
+du = 0.06dt.
+[int 100e^(0.06t-5)dt, "<mi//>"=1/0.06 int 100e^u du], [\ , "<mi//>"= (100e^u)/0.06+c], [\ , "<mi//>"= (100e^(0.06t-5))/0.06+c.]
+int 150(1//2)^(t//5)dt.
+int(2x+5)(x^2+5x+3)^5 dx.
+u = x^2+5x+3.
+du = (2x+5)dx.
+[int(2x+5)(x^2+5x+3)^5 dx, "<mi//>"=int u^5 du], [\ , "<mi//>"= (u^6)/6+c], [\ , "<mi//>"= ((x^2+5x+3)^6)/6+c.]
+int 50xe^(-x^2)dx.
+int(3x^2+1)/(x^3+x+9) dx.
+u = x^3+x+9.
+du = (3x^2+1)dx.
+[int(3x^2+1)/(x^3+x+9) dx, "<mi//>"=int(du)/u], [\ , "<mi//>"=ln|u|+c], [\ , "<mi//>"=ln|x^3+x+9|+c.]
+int xsqrt(x^2-9)dx.
+int_0^3 e^(3x+1)dx.
+u = 3x+1.
+du = 3dx.
+[int_0^3 e^(3x+1)dx, "<mi//>"=int_(u=1)^(u=10)e^u du], [\ , "<mi//>"=<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>1/3 e^u|_(u=1)^(u=10)], [\ , "<mi//>"=1/3(e^(10)-e^1).]
+int_0^1 0100e^(-0.04t)dt.
+int_0^5 e^((-0.05(t+1)))dt.
+u = -0.05(t+1).
+du = -0.05dt.
+[int_0^5 e^(-0.05(t+1))dt, "<mi//>"=-1/0.05 int_(u=-0.05)^(u=-0.3)e^u du], [\ , "<mi//>"=<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>-20e^u|_(u=-0.05)^(u=-0.3)], [\ , "<mi//>"=-20(e^(-0.3)-e^(-0.05)).]
+int_1^3(2x+5)^(-2)dx.
+int_1^6 xsqrt(3x^2+7)dx.
+u = 3x^2+7.
+du = 6xdx.
+[int_1^6 x(3x^2+7)^(1//2)dx, "<mi//>"=1/6 int_(u=10)^(u=115)u^(1//2)du], [\ , "<mi//>"=<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>1/9 u^(3//2)|_(u=10)^(u=115)], [\ , "<mi//>"=1/9(115^(3//2)-10^(3//2))~~133.51.]
+int_0^2 x^2 e^((1-0.2x^3))dx.
+F(x)
+f(x) = x^2(x^3+7)^3
+F(0) = 5.
+u = x^3+7.
+du = 6x^2 dx.
+[int(x^2)(x^3+7)^3 dx, "<mi//>"=1/6 int u^3 du], [\ , "<mi//>"= (u^4)/24+c], [\ , "<mi//>"= ((x^3+7)^4)/24+c], [F(0), "<mi//>"=5= ((7)^4)/24+c], [c, "<mi//>"=5- ((7)^4)/24 4], [F(x), "<mi//>"= ((x^3+7)^4)/24+5- ((7)^4)/24.]
+F(x)
+f(x) = (4x^3+5)exp(x^4+5x-9)
+F(0) = 2.
+["Value", "<mi//>"=int_0^(10)10000e^(-0.05t)dt], [\ , "<mi//>"=<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//> (-10000e^(-0.05t))/0.05|_0^(10)], [\ , "<mi//>"= (-10000)/0.05(e^(-0.5)-1)~~78693.87.]
+s(t) = 1000texp(-t^2//4),
+u = - (t^2)/4.
+du = -t/2 dt.
+["Sales", "<mi//>"=int_0^(10)1000te^(-t^2//4)dt=int_0^(-25)-2000e^u du], [\ , "<mi//>"=<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>-2000e^u)|_0^(-25)], [\ , "<mi//>"=2000((1-e^(-25))~~2000.]
+[10, "<mi//>"=1000te^(-t^2//4)], [t, "<mi//>"~~5.0028.]
+t = 1.454,
+Mp(q) = ((100q))/((q^2+1)) -2,
+q
+"FuelConsumption"(t) = 2
+t = 8
+t = 18.
+int_8^(18)2dt = 2t|_8^(18) = (2**18)-(2**8) = 20.
+"Marginal""Cost"("Quantity") = 50+"Quantity"//1000.
+[int_(50000)^(80000)50+q/1000 dq, "<mi//>"=<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>(50q+ (q^2)/2000)|_(50000)^(80000)], [\ , "<mi//>"=(7,200,000)-(3,750,000)=3,450,000.]
+2(0.85)^t
+t
+int_0^5 2(0.85)^t dt = <mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>( (2(0.85)^t)/(ln(0.85)) )|_0^5 = 2/(ln(0.85)) (0.85^5-1) = 6.846.
+50+5t
+(50+5t)
+t
+(50+5t)e^(-0.06t)
+t
+int_0^(10)(50+5t)e^(-0.06t)dt.
+C.
+"Principal"'("time") = .05**"Principal"("time").
+("Principal"'("time"))/("Principal"("time")) = .05.
+ln("Principal"("time")) = .05**"time"+C.
+"Principal"("time") = exp(0.05**"time")**exp(C) = e^C e^(.05**"time").
+e^C = 20000
+"Principal"("time") = 20000e^(.05**"time").
+"Annual Depreciation Expense" = ("Cost of fixed Asset"-"Residual Value")/("Useful life of Asset(in years)")
+V(t)
+k
+t
+V'(t) = -k("EL"-t)
+N
+"Depreciation rate" = 1-root(N)( ("residual value")/("cost of fixed asset") )
+"Value"(0) = 18000"\and\ ""Value"(5) = 0.
+-3,600
+["Value"("time"), "<mi//>"=18000-3600**"time"], ["Value"(3.5), "<mi//>"=5,400.]
+["Value"'("time"), "<mi//>"=-k"\for some constant\ "k,], ["Value"(0), "<mi//>"=18000"\and\ ""Value"(5)=0.]
+"Value"("time") = -k**"time"+C.
+"time" = 0
+C = 18,000.
+"time" = 5
+k = 3.600.
+V'(t) = -k("EL"-t)
+k,
+V(0) = 18,000
+V(5) = 0.
+"Value"("time") = -k**5**t+k**t^2//2+C.
+C = 18,000.
+0 = -k**25+k**25//2+18,000.
+k = 1,440.
+"Value"("time") = -7,200t+720t^2+18000.
+"Value"(3.5) = -7,200**3.5+720**12.25+18000 = 1620.
+"Value"("time") = 100000(1-2**.20)^("time") = 100000(0.6)^("time").
+10000 = 100000(0.6)^("time"),
+0.1 = (0.6)^("time"),
+"time" = ln(0.1)//ln(0.6) = 4.508.
+100,000**(0.6)^(3.5) = $16,731.
+"Marginal""Cost"(q+1) = 20-q/10000.
+["increased cost", "<mi//>"=int_("start")^("stop")"marginal cost"dq], [\ , "<mi//>"=int_(60000)^(80000)(20-q/10000)dq], [\ , "<mi//>"=<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>(20q- (q^2)/20000|_(60000)^(80000))], [\ , "<mi//>"=1280000-1020000], [\ , "<mi//>"=260000]
+"Marginal""Profit"(q+1) = 200-q/1000- (q^2)/100,000,000.
+"Daily Sales"(t) = 100t^2 e^(-t//5).
+"Daily Sales"(t) = 100+10t- (t^2)/100.
+$40,000+$2,000t
+t
+q
+"Revenue" = "Quantity"**"Price".
+"Revenue" = "Quantity"**"Demand""Price"("Quantity").
+"Demand""Price"(q) = 10-q//1000,
+"Supply""Price"**"Quantity".
+y
+y
+"Cost" = 6000+14**"Quantity".
+"Cost"(2500) = 6000+14**2500 = 41000.
+"Profit" = "Revenue"-"Cost".
+"Demand""Price" = 15-q/1000.
+["Revenue", "<mi//>"="Quantity"**"Price"], [\ , "<mi//>"=q**(15-q/1000)], ["costs", "<mi//>"="fixed costs"+"variable costs"**"Quantity"], [\ , "<mi//>"=10000+8**q.]
+["Profit"=q**(15-q/1000)-(10000+8q)], ["Profit"= (-q^2)/1000+7q-10000.]
+["Demand""Price", "<mi//>"=-0.7796q+17.478], ["Cost", "<mi//>"=5.00251q+20.162.]
+["Demand""Price", "<mi//>"=-8**10^(-7)q+17.478], ["Cost", "<mi//>"=5.0251q+2**10^7.]
+["Demand""Price", "<mi//>"=-0.0000007796q+17.4782059302], ["Cost", "<mi//>"=5.02506q+20161700.]
+"C, D, F, G, H, J"
+q_0.
+"Demand""Price" = -2"Quantity"+20
+"Cost" = 3"Quantity"+10,
+q_0 = 6.
+["Revenue", "<mi//>"="Demand""Price"**"Quantity"], [\ , "<mi//>"=(-2q+20)**q=-2q^2+20q]
+["Profit"="Revenue"-"Cost", "<mi//>"=-2q^2+20q-(3q+10)], [\ , "<mi//>"=-2q^2+17q-10.]
+q_0
+["Cost"(6), "<mi//>"=3(6)+10=28], ["Demand""Price"(6), "<mi//>"=-2(6)+20=8], ["Revenue"(6), "<mi//>"=-26^2+20(6)=-72+120=48], ["Profit", "<mi//>"="Revenue"-"Cost"=48-28=20.]
+"Profit" = -2q^2+17q-10 = 0.
+q = 0.6
+q = 7.9.
+q
+q = 0.64
+q = 7.86
+"Demand""Price" = -"Quantity"//10+50
+"Cost" = 10"Quantity"+1000,
+q_0 = 300.
+"Demand""Price" = -2.35"Quantity"+250
+"Cost" = 54.6"Quantity"+1234,
+q_0 = 59.
+"Fixed cost" = $1234,
+"variable cost" = $54.60
+"Revenue" = q(-2.35q+250) = -2.35q^2+250q
+["Profit"="Revenue"-"Cost", "<mi//>"=-2.35q^2+250q-(54.6q+1234)], [\ , "<mi//>"=-2.35q^2+195.4q-1234.]
+q_0.
+q = 59.
+q = 59,
+"Cost" = $4455.40,
+"Demand""Price" = $111.35,
+"Revenue" = $6569.65,
+"Profit" = $2114.25
+q = 59
+q = 6.9
+q = 76.3
+"Demand""Price" = -0.0023"Quantity"+9
+"Cost" = 1.39"Quantity"+1398.7,
+q_0 = 687.
+q_0 = 75.
+"Fixed cost" = $150,
+"variable cost" = $3
+"Revenue" = q(-0.04q+12) = -0.04q^2+12q
+["Profit"="Revenue"-"Cost", "<mi//>"=-0.04q^2+12q-(3q+150)], [\ , "<mi//>"=-0.04q^2+9q-150.]
+q_0.
+q = 75,
+"Cost" = $375,
+"Demand""Price" = $9,
+"Revenue" = $675,
+"Profit" = $300
+q = 18.127
+q = 206.873
+q_0 = 110.
+q_0 = 75.
+"Cost" = 0.3121x-169.35
+"Demand""Price" = 5**(10)^(-5)x+1.356
+"Revenue" = ("Demand""Price"**"Quantity")
+"Profit" = ("Revenue"-"Cost")
+"Revenue" = 5**(10)^(-5)x^2+1.356x
+["Profit", "<mi//>"=5**(10)^(-5)x^2+1.356x-0.3121x+169.35], [\ , "<mi//>"=5**(10)^(-5)x^2+1.0439x+169.35.]
+q_0.
+q = 75
+"Cost" = -$146,
+"Demand""Price" = $1.35,
+"Revenue" = $101.42,
+"Profit" = $247.
+q = 21,039.
+q = -161.
+q_0 = 7500.
+"Cost" = 5q+1000.
+(q_1, p_1) = (250, 15)
+(q_2, p_2) = (500, 10).
+m = (15-10)//(250-500) = -5//250 = -1//50 = -0.02.
+(p-p_0) = m(q-q_0)
+[(p-15), "<mi//>"=-0.02(q-250)], [p, "<mi//>"=15-0.02(q-250).]
+["Cost", "<mi//>"=12.175x+19117], ["demand", "<mi//>"=-0.0005x+22.506.]
+q
+q = 2054.8
+q = 18, 607.2.
+q
+f(x) = 9x-x^2+7
+-1 <= x <= 14.
+x = 4.5.
+x = -0.5
+x = 9.5.
+f(x).
+f(x)
+x = -0.72015.
+x
+x = 9.72015.
+x = 4.5.
+0 <= x <= 15.
+>= 0.
+A7 >= 15
+x = 0.5,
+x = 0.
+x
+x = 0.5,
+x = 8
+x = 15
+f(x) = -83.
+0 <= x <= 15,
+x = 9.72015,
+x = 4.5,
+x = 0
+x = 15.
+f(x)
+0 <= x <= 15,
+f(x) = (x^3-4x^2+4x+3)e^((-x//2)).
+x = 0
+x = 10,
+-2 <= x <= 2,
+f(x) = {[-5x-3, x<0], [4(x-1)^2, x>0]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>.
+x = -2,
+x = -0.6.
+x
+x = 0.5
+x = 0,
+p(x) = Ax+B,
+A
+B
+f(x) = x^2-10x+9,
+0 <= x <= 10.
+f(x) = 0
+x = 1
+x = 9
+x = 5.
+(0, 9)
+(10, 9).
+(0, 9)
+(10, 9),
+(5, 16).
+x = 5
+x = 1
+g(x) = 10x**(4//5)^x-1,
+0 <= x <= 10.
+h(x) = (3000+200x)(0.97)^x,
+0 <= x <= 100.
+0 <= x <= 100.
+x = 20.
+x = 17.83.
+(0, 3000)
+(100, 1093.71).
+(100, 1093.71),
+(17.83, 3814.53),
+(100, 1093.71).
+x = 17.83
+x = 100
+"Revenue"(q) = (500-3q)(q),
+0 <= q <= 200.
+"Profit"(q) = (500-3q)(q)-(12q+600),
+0 <= q <= 200.
+q = 0,
+q = 160.
+q = 1.24
+q = 161.43.
+q = 80.
+q = 81.33.
+(0, -600)
+(200, -23000.).
+(0, -600),
+(81.33, 19245.33),
+(200, -23000).
+x = 81.33
+x = 200
+0 <= "Quantity" <= 1200.
+0 <= "Quantity" <= 16.
+"Cost"(x) = 0.3353x^3-7.9874x^2+59.63x+396.91.
+[0, 16].
+(6.00, 539.57)
+(9.88, 529.74).
+(0, 396.91)
+(16, 679.604).
+(0, $396.91),
+(6.00, $539.57),
+(9.88, $529.74),
+(16, $584.30).
+x = 0
+x = 16
+f(x) = -0.25x^4+5.3x^3-36x^2+90x-15,
+0 <= x <= 15.
+g(x) = {[4x-10, x<5], [2(x-7)^2, x>5]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+0 <= x <= 10.
+x = 5
+x = 7.
+x = 7
+x = 7.
+x = 5,
+x = 4
+x = 5.
+g(x)
+x = 5,
+2(x-7)^2
+h(x) = {[-4**(x-2)^2, x<6], [2(x-7)^2-10, x>6]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+0 <= x <= 10.
+q
+y
+x,
+x.
+x^2+y^2 = 25.
+(4, 3).
+y
+x,
+y
+x.
+y
+y'.
+y'
+x
+y.
+x^2+y^2 = 25
+(4, 3).
+(4, 3).
+y^2:
+y^2 = 25-x^2.
+[f_1(x), "<mi//>"=sqrt(25-x^2)], [f_2(x), "<mi//>"=-sqrt(25-x^2).]
+x = 4.
+[f_1^' (x), "<mi//>"=1//2(25-x^2)^(-1//2)(-2x)], [f_1^' (4), "<mi//>"=1//2(25-4^2)^(-1//2)(-8)=-4//3.]
+y = 3-4/3(x-4).
+(4, 3).
+x,
+y'.
+d/dx x,
+x
+x,
+[d/dx(x^2+y^2, "<mi//>"=25)], [d/dx(x^2)+d/dx(y^2), "<mi//>"=d/dx(25)], [2x d/dx(x)+2y d/dx(y), "<mi//>"=0], [2x+2yy', "<mi//>"=0.]
+y'
+(4, 3)
+(x, y).
+y' = - (2x)/(2y) = -x/y.
+(4, 3)
+(x, y)
+y' = -4/3.
+y = 3-4/3(x-4).
+q
+p
+10p+2pq+q^2 = 1000,
+10 < q < 90,
+[d/(dq) (10p+2pq+q^2, "<mi//>"=1000)], [10(dp)/(dq) +2** (dp)/(dq) **q+2p+2q, "<mi//>"=0], [ (dp)/(dq) (10+2q), "<mi//>"=-2**(p+q)], [ (d\ p)/(d\ q) , "<mi//>"= (-2**(p+q))/((10+2q)) .]
+"Quantity":q = 20
+"Price":p = 12.00.
+(d"Price")/(d"Quantity") = (-2(12.00+20))/((10+2**20)) = -1.28.
+q
+p
+5p+3**(pq)^(1.5)+2q = 2000,
+10 < q < 100,
+[d\ /(d\ q) , "<mi//>"(5**p+3**(p**q)^(1.5+)2**q=2000)], [5(d\ p)/(d\ q) , "<mi//>"+3**(1.5**p^(.5)** (dp)/(dq) **q^(1.5)+p^(1.5)**1.5**q^(.5))+2=0], [ (d\ p)/(d\ q) , "<mi//>"**(5+4.5**p^(.5)**q^(1.5))=-(2+4.5**p^(1.5)**q^(.5))], [ (d\ p)/(d\ q) , "<mi//>"=- ((2+4.5**p^(1.5)**q^(.5)))/((5+4.5**p^(.5)**q^(1.5))) .]
+"Quantity" = 25
+"Price" = 2.986.
+(d\ "price")/(d\ "quantity") = (-118.104)/997.025 = -0.12088.
+Y = AL^ alpha K^ beta,
+Y,
+L,
+K
+alpha+beta = 1.
+Y = 50L^(0.75)K^(0.25).
+[d/(dK) , "<mi//>"(Y=50L^(.75)K^(.25))], [0, "<mi//>"=50**(0.75**L^(-0.25)** (dL)/(dK) **K^(.25)+L^(.75)**.25**K^(-0.75))], [ (dL)/(dK) , "<mi//>"**(0.75**L^(-0.25)**K^(.25))=-(L^(.75)**.25**K^(-0.75))], [ (dL)/(dK) **, "<mi//>"=-(L^(.75)**.25**K^(-0.75))//((0.75**L^(-0.25)**K^(.25)))=-L//3K.]
+L
+Y = 50**81^(.75)16^(.25) = 2700
+(dL)//(dK) = -81//48 ~~ -1.6875.
+-1.6875
+2x+3y = 23.
+dy/dx.
+(-2)/3.
+[d/dx(2x+3y), "<mi//>"=d/dx 23], ["Implies that\ "2+3 dy/dx, "<mi//>"=0.]
+dy/dx:
+dy/dx = (-2)/3.
+7x+9y = 23.
+dy/dx.
+x^2+3xy+5y^2 = 23.
+dy/dx.
+[d/dx(x^2+3xy+5y^2), "<mi//>"=d/dx 23], ["Implies that\ "2x+3 d/dx(xy)+5 d/dx y^2, "<mi//>"=0.]
+d/dx(xy)
+d/dx y^2
+2x+3[(1)y+x dy/dx]+5(2y) dy/dx = 0.
+dy/dx:
+[2x+3y+3x dy/dx+10y dy/dx, "<mi//>"=0], ["Hence\ "(3x+10y) dy/dx, "<mi//>"=-(2x+3y)], ["And\ " dy/dx, "<mi//>"=-((2x+3y))//((3x+10y)).]
+(x^3+x^2+1)(y^3+2y+3) = 5.
+dy/dx.
+75**"Price"+("Quantity"^2)//100 = 2000.
+( (d"Price")/(d"Quantity") ).
+75P+Q^2//100 = 2000.
+(dP)/(dQ) .
+[d/(dQ) [75P+ (Q^2)/100], "<mi//>"=d/(dQ) 2000], [75(dP)/(dQ) +Q/50, "<mi//>"=0.]
+(dP)/(dQ) = -Q/(50**75) = (-Q)/3750.
+(d"Price")/(d"Quantity") // = (-"Quantity")/3750.
+d"Quantity" = 1
+= d"Price"
+50**"Price"+5**"Price"**"Quantity"+("Quantity"^2)//10 = 5000.
+(d"Price")/(d"Quantity") .
+40**"Price"+7**"Price"**"Quantity"+sqrt("Quantity") = 2000.
+(d"Price")/(d"Quantity") .
+40p+7pq+sqrt(q) = 2000.
+(d\ p)/(d\ q) .
+d/(d\ q)
+[d/(d\ q) [40p+7pq+q^(0.5)], "<mi//>"=d/(d\ q) 2000], [40(d\ p)/(d\ q) +7[ (dp)/(dq) q+p]+0.5q^(-0.5), "<mi//>"=0], [(40+7q) (d\ p)/(d\ q) +7p+0.5q^(-0.5), "<mi//>"=0], [ (d\ p)/(d\ q) , "<mi//>"= (-7p-0.5q^(-0.5))/(40+7q) .]
+50**"Price"^2+5**"Price"**"Quantity" = 3000.
+(d"Price")/(d"Quantity") .
+1000 = 5L^(0.6)K^(0.4).
+(dK)/(dL) .
+L
+[d/(dL) 1000, "<mi//>"=5 d/(dL) [L^(0.6)K^(0.4)]], [0, "<mi//>"=5[d/(dL) (L)^(0.6))K^(0.4)+L^(0.6) d/(dL) (K^(0.4))]\ "(product rule)"], [0, "<mi//>"=5[0.6L^(-0.4)K^(0.4)+L^(0.6)0.4K^(-0.6) (dK)/(dL) ].]
+(dK)/(dL) .
+(dK)/(dL) = - (0.6L^(-0.4)K^(0.4))/(L^(0.6)0.4K^(-0.6)) = (-3K)/(2L) .
+2000 = 7L^(0.3)K^(0.7).
+(dK)/(dL) .
+3000 = 2L^(0.25)K^(0.75).
+(dL)/(dK) .
+[d/(dK) 3000, "<mi//>"=2 d/(dK) [L^(0.25)K^(0.75)]], [0, "<mi//>"=2[d/(dK) (L^(0.25))K^(0.75)+L^(0.25) d/(dK) (K^(0.75))]\ "(product rule)"], [0, "<mi//>"=2[0.25L^(-0.75) (dL)/(dK) K^(0.75)+L^(0.25)0.75K^(-0.25)]], [ (dL)/(dK) , "<mi//>"=- (L^(0.25)0.75K^(-0.25))/(0.25L^(-0.75)K^(0.75)) ], [\ , "<mi//>"=-3 L/K.]
+7000 = 11L^(0.8)K^(0.2).
+(dL)/(dK) .
+1000 = 15L^(0.7)K^(0.3).
+(dK)/(dL)
+(dL)/(dK) .
+(dK)/(dL) .
+[d/(dL) 1000, "<mi//>"=15 d/(dL) [L^(0.7)K^(0.3)]], [0, "<mi//>"=15[d/(dL) (L^(0.7))K^(0.3)+L^(0.7) d/(dL) (K^(0.3))]], [0, "<mi//>"=[0.7L^(-0.3)K^(0.3)+L^(0.7)0.3K^(-0.7) (dK)/(dL) ]], [ (dK)/(dL) L, "<mi//>"= (-0.7L^(-0.3)K^(0.3))/(L^(0.7)0.3K^(-0.7)) =- (7K)/(3L) .]
+(dL)/(dK) .
+[d/(dK) 1000, "<mi//>"=15 d/(dK) [L^(0.7)K^(0.3)]], [0, "<mi//>"=15[d/(dK) (L^(0.7))K^(0.3)+L^(0.7) d/(dK) (K^(0.3))]], [0, "<mi//>"=[0.7L^(-0.3) (dL)/(dK) K^(0.3)+L^(0.7)0.3K^(-0.7)]], [ (dL)/(dK) , "<mi//>"= (-0.3L^(0.7)K^(-0.7))/(0.7L^(-0.3)K^(0.3)) = (-3L)/(7K) .]
+(dK)/(dL)
+(dL)/(dK)
+(dK)/(dL) = 1/( (dL)/(dK) ) .
+L,
+K
+(dK)/(dL)
+K
+L.
+(dL)/(dK)
+L
+K.
+30**"Price"+3**"Price"**"Quantity"+("Quantity"^2)//100 = 2000
+(d"Price")/(d"Quantity")
+(d"Quantity")/(d"Price") .
+e^(xy)+2x+3y = 17.
+dy/dx.
+d/dx(e^(xy)+2x+3y) = d/dx 17.
+e^(xy) d/dx(xy)+2+3 dy/dx = 0,
+e^(xy)[y+x dy/dx]+2+3 dy/dx = 0.
+dy/dx:
+[e^(xy)y+xe^(xy) dy/dx+2+3 dy/dx, "<mi//>"=0], [(xe^(xy)+3) dy/dx, "<mi//>"=-(e^(xy)y+2)], [dy/dx, "<mi//>"=- ((ye^(xy)+2))/((xe^(xy)+3)) .]
+q
+dy/dx
+y
+x.
+dy/dx
+y
+x.
+dy/dx
+x
+y.
+dy/dx
+x
+y
+q.
+["Revenue", "<mi//>"=q(20-0.1q)=20q-0.1q^2], ["Cost", "<mi//>"=10q.]
+c
+["Quantity", "<mi//>"=0.1**c], ["Revenue", "<mi//>"=2c-0.001c^2.]
+(d"Revenue")/(d"Cost") = 2-0.002**"Cost".
+r
+c
+q
+(dr)/(dq)
+(dc)/(dq) ,
+["Revenue", "<mi//>"=20q-0.1q^2], ["Cost", "<mi//>"=10q]
+[ (dr)/(dq) , "<mi//>"=20-0.2q], [ (dc)/(dq) , "<mi//>"=10]
+("change in revenue")/("change in cost") : (dr)/(dc) = (dr)/(dq) // (dc)/(dq) = (20-0.2q)//10.
+q = 0.1c
+q
+c(q)
+r(q)
+q
+[r(q), "<mi//>"=30q-0.1q^2-0.001q^3], [c(q), "<mi//>"=500+10q-0.01q^2]
+(dr)/(dc)
+q = 50.
+[ (dr)/(dq) , "<mi//>"=30-0.2q-0.003q^2], [ (dc)/(dq) , "<mi//>"=10-0.02q.]
+q = 50,
+[ (dr)/(dq) , "<mi//>"=30-0.2**50-0.003**50^2=12.5], [ (dc)/(dq) , "<mi//>"=10-0.02**50=9.]
+(dr)/(dc) = (dr)/(dq) // (dc)/(dq) = 12.5/9 ~~ 1.389.
+"Quantity" = 50,
+["Revenue"=50**"Quantity"-0.01**"Quantity"^2], [ (d"Cost")/(d"Quantity") =15.]
+"Quantity" = 100.
+(d"Revenue")/(d"Quantity") = 50-0.02**"Quantity".
+"Quantity" = 100,
+(d"Revenue")/(d"Quantity") = 50-0.02**100 = 48.
+(d"Revenue")/(d"Cost") = (d"Revenue")/(d"Quantity") // (d"Cost")/(d"Quantity") = 48/15 = 3.2.
+w
+g
+s
+"widgets(sludge)" = 4**"sludge"-0.1**"sludge"^2,
+w(s) = 4s-0.1s^2,
+"sludge(goop)" = 3**"goop"+.1**"goop"^2,
+s(g) = 3g+.1g^2.
+g = 10.
+g = 10,
+s = 3**10+.1**10^2 = 40.
+[ (d"\widgets")/(d"\sludge") , "<mi//>"= (dw)/(ds) =4-0.02**s], [ (d"\sludge")/(d"\goop") , "<mi//>"= (ds)/(dg) =3+.2**g.]
+g = 10,
+(dw)/(ds) = (4-0.02**40) = 3.2,
+(ds)/(dg) = 3+0.2**10 = 5.
+ds.
+(dw)/(dg) = (dw)/(ds) ** (ds)/(dg) = (3.2)(5) = 16.
+Y = AL^ alpha K^ beta,
+Y,
+L,
+K
+Y = 50L^(0.75)K^(0.25).
+Y
+[d/(dt) (Y, "<mi//>"=50L^(0.75)K^(0.25))], [0, "<mi//>"=50**(0.75**L^(-0.25)** (dL)/(dt) **K^(.25)+L^(.75)**.25**K^(-0.75)** (dK)/(dt) ).]
+K,
+L,
+(dK)/dt,
+[0, "<mi//>"=50**(0.75**16^(-0.25)** (d\ L)/d\ t**81^(0.25)+16^(0.75)**.25**81^(-0.75)**2)], [0, "<mi//>"=3//4**1//2** (dL)/dt**3+8**1//4**1//27**2], [ (dL)/dt, "<mi//>"=-32//243~~-0.1317.]
+-0.1317
+y = 3x+5
+z = 4y+7.
+dz/dx
+x = 2
+z
+x
+dz/dy
+dy/dx
+[z, "<mi//>"=4y+7=4(3x+5)+7=12x+27], [dz/dx, "<mi//>"=12]
+[z, "<mi//>"=4y+7, y, "<mi//>"=3x+5], [dz/dy, "<mi//>"=4, dy/dx, "<mi//>"=3], [dz/dx, "<mi//>"=dz/dy, dy/dx, "<mi//>"=4**3=12]
+y = x^2-3x+5
+z = y^2-y+6.
+dz//dx
+x = 1
+z
+x
+dz/dy
+dy/dx
+y = 1000**1.06^x
+z = 200y+3.
+dz/dx
+x = 5.
+dz/dx = dz/dy dy/dx = (200)(1000**1.06^x ln(1.06)) = 200,000ln(1.06)1.06^x.
+x:
+"When\ "x = 5, \ dz/dx = 200, 000ln(1.06)1.06^5.
+y = 200**1.08^x+500x
+z = y^2+y.
+dz/dx
+x = 3.
+y = 3x+5
+z = 4x+7.
+dz/dy
+x = 2
+z
+y
+dz/dx
+dy/dx
+y = 3x+5
+x = (y-5)/3.
+z = 4x+7 = 4/3(y-5)+7 = 4/3 y+1/3,
+dz/dy = 4/3.
+dz/dx = 4, \ dy/dx = 3, \ dz/dy = (dz//dx)/(dy//dx) = 4/3
+y = x^2-3x+5
+z = x^2+4x+5.
+dz/dy
+x = 3.
+y = 1000**1.05^x
+z = 100**(1+.5x).
+dz/dy
+x = 10.
+dz/dy = (dz//dx)/(dy//dx) = 50/(1000**1.05^x**ln(1.05)) .
+x:
+"When\ "x = 10, dz/dy = 50/(1000**1.05^(10)**ln(1.05)) .
+y = 100**1.08^x
+z = 100**1.02^x.
+dz/dy
+y = x^2-3x+5
+dz/dy = 3.
+dz/dx
+x = 7.
+dz/dx.
+dz/dy
+dy/dx,
+[dy/dx, "<mi//>"=2x-3,"\hence at\ "x=7"\we have\ " dy/dx=11], [dz/dx, "<mi//>"=dz/dy dy/dx=(3)(11)=33]
+y = 500**.96^x
+dz/dy = 5.
+dz/dx
+x = 4.
+y = x^2-5x+7
+dz/dx = 8.
+dz/dy
+x = 7.
+dz/dy.
+dz/dx
+dy/dx,
+[dy/dx, "<mi//>"=2x-5,"\hence at\ "x=7"\we have\ " dy/dx=9], [dz/dy, "<mi//>"= (dz//dx)/(dy//dx) =8/9]
+z = x^2-3x+5
+dy/dx = 3.
+["Revenue", "<mi//>"=30**"Quantity"-0.1**"Quantity"^2], ["expense", "<mi//>"=500+10**"Quantity"]
+"Quantity" = 100.
+R = "Revenue" = 30q-0.1q^2,
+(dR)/(dq) = 30-0.2q.
+E = "expense" = 500+10q,
+(dE)/(dq) = 10.
+(dR)/(dE) = (dR//dq)/(dE//dq) = (30-0.2q)/10.
+q = 100
+(dR)/(dE) = (30-0.2(100))/10 = 10/10 = 1.
+["Revenue", "<mi//>"=200**"Quantity"-0.1**"Quantity"^2+.005**"Quantity"^3], ["expense", "<mi//>"=1000+20**"Quantity".]
+"Quantity" = 50.
+["productA", "<mi//>"=50**"RawMaterial"+.01**"RawMaterial"^2], ["gadgets", "<mi//>"=4**"productA"-0.0001**"productA"^2.]
+"productA" = 20.
+[p, "<mi//>"=50r+0.01r^2], [g, "<mi//>"=4p-0.0001p^2.]
+(dg)/(dr)
+p = 20.
+[ (dp)/(dr) , "<mi//>"=50+0.02r], [ (dg)/(dp) , "<mi//>"=4-0.0002p], ["Then\ " (dg)/(dr) , "<mi//>"= (dg)/(dp) (dp)/(dr) =(4-0.0002p)(50+0.02r).]
+p = 20
+r
+r
+p = 50r+0.01r^2.
+p = 20
+20 = 50r+0.01r^2.
+0.01r^2+50r-20 = 0.
+r = (-50+-sqrt(2500-4(0.01)(-20)))/0.02.
+r = 0.4.
+(dg)/(dr) = (4-0.004)(50+0.008) ~~ 199.83 "gadgets"/(raw\ "material") .
+["productA", "<mi//>"=10**"RawMaterial"-7], ["productB", "<mi//>"=15**"productA"-20], ["whatchamacallits"=6**"productB"-5.]
+"whatchamacallits"
+"RawMaterial"
+"productA" = 15.
+960 = 5L^(0.25)K^(0.75).
+(dL)/dt
+L = 81,
+K = 256,
+(dK)/dt = 5.
+t:
+[d/(dt) 960, "<mi//>"=5 d/(dt) [L^(0.25)K^(0.75)]], [0, "<mi//>"=5[d/(dt) (L^(0.25))K^(0.75)+L^(0.25) d/(dt) (K^(0.75))]], [0, "<mi//>"=[d/(dt) (L^(0.25))K^(0.75)+L^(0.25) d/(dt) (K^(0.75))]], [0, "<mi//>"=[0.25L^(-0.75) (dL)/(dt) K^(0.75)+L^(0.25)0.75K^((-0.25)) (dK)/(dt) ].]
+(dL)/dt:
+[0.25L^(-0.75) (dL)/(dt) K^(0.75), "<mi//>"=-L^(0.25)0.75K^(-0.25) (dK)/(dt) ], [ (dL)/(dt) , "<mi//>"= (-L^(0.25)0.75K^(-0.25))/(0.25L^(-0.75)K^(0.75)) (dK)/(dt) =-3 L/K(dK)/(dt) .]
+L = 81,
+K = 256,
+(dK)/dt = 5,
+(dL)/dt = -3**81/256**5 ~~ -4.75.
+4000 = 4L^(.25)K^(.75).
+(dK)/dt
+L = 1000,
+K = 1000,
+(dL)/dt = 10.
+q
+q
+"FutureAmount" = "InitialDeposit"**(1+ "rate"/"ppy" )^("years"**"ppy").
+q.
+"Profit"(q) = -3q^2+500q-1000.
+"FA"(d, r, p, y) = d**(1+r/p)^((y**p)),
+"FA"
+d
+r
+p
+y
+"PresentAmount" = "FutureAmount"/((1+"rate")^("years")) .
+["PriceGizmo", "<mi//>"=10-"QuantityGizmo"//50], ["PriceWidget", "<mi//>"=20-"QuantityWidget"//40.]
+["RevG", "<mi//>"="PriceG"**"QG"=(10- ("QG")/50)"QG"=10"QG"- ("QG"^2)/50], ["RevW", "<mi//>"="PriceW"**"QW"=(20- ("QW")/40)"QW"=20"QW"- ("QW"^2)/40.]
+"Revenue" = "RevG"+"RevW" = 10"QG"- ("QG"^2)/50+20"QW"- ("QW"^2)/40.
+x
+y
+f(x, y) = x^2+3xy+4y^2,
+x = 4,
+y = -2.
+x
+y
+x
+y
+f(x, y).
+f(x, y, z) = x^2+3xy+4y^3+5xyz,
+x = 3,
+y = 5,
+z = 7.
+"Cost" = "Initial cost"+"per unit cost"**"Quantity".
+(0, $20)
+(100, $18)
+(0, $20)
+(100, $18)
+P = P_0 e^(kq)
+[(0,20)"\gives us\ "20, "<mi//>"=P_0 e^((k**0))], [(100,18)"\gives us\ "18, "<mi//>"=P_0 e^((k**100)).]
+P_0 = 20
+18 = P_0 e^((k**100))
+18 = 20e^((k**100))
+e^((k**100)) = 18//20.
+100**k = ln(18//20).
+k:
+k = 1//100ln(18//20) ~~ -0.0011.
+P = 20e^((-0.001q)).
+(0, P_0)
+(q_1, P_1)
+Q
+P = P_0 e^((1/(q_1) ln( (P_1)/(P_0) )q)).
+P_0,
+P_1,
+q_1
+q
+"Revenue"(P_0, P_1, q_1, q) = q**P_0 e^((1/(q_1) ln( (P_1)/(P_0) )q)).
+(100, $30)
+(200, $28),
+"FutureAmount" = "InitialDeposit"**(1+ "rate"/"ppy" )^("years"**"ppy").
+"InitialDeposit" = "FutureAmount"**(1+ "rate"/"ppy" )^(-"years"**"ppy").
+f(x, y) = 3x^2+xy+5y^2,
+x
+-10
+10,
+y
+-5
+15.
+f(x, y, z) = xyz+x^2 y-y^2+5z,
+x
+-10
+10,
+y
+-5
+15,
+z = 2.
+x
+y
+z
+x,
+y,
+x,
+y
+z.
+["PriceGizmos", "<mi//>"=50- "QuantityGizmos"/40- "QuantityWidgets"/300], ["PriceWidgets", "<mi//>"=40- "QuantityGizmos"/400- "QuantityWidgets"/50.]
+["PriceGizmos", "<mi//>"=60(0.9)^("QuantityGizmos"//100)- "QuantityWidgets"/200], ["PriceWidgets", "<mi//>"=40(0.85)^("QuantityWidgets"//100)- "QuantityGizmos"/100.]
+x
+x
+["PriceX", "<mi//>"=60(0.9)^(x/100)-y/200], ["PriceY", "<mi//>"=40(0.85)^(y/100)-x/100], ["Revenue", "<mi//>"=x"PriceX"+y"Pricey"], ["Revenue", "<mi//>"=x60(0.9)^(x/100)-y/200+y40(0.85)^(y/100)-x/100.]
+q
+["PriceGizmos", "<mi//>"=10- "QuantityGizmos"/50=10- ("QG")/50], ["PriceWidgets", "<mi//>"=20- "QuantityWidgets"/40=20- ("QW")/40.]
+"Revenue"("QG", "QW") = 10QG- ("QG"^2)/50+20"QW"- ("QW"^2)/40.
+"QW" = 400
+"QG" = 300.
+"QG" = 300,
+["Revenue"(300,"QW"), "<mi//>"=3000-1800+20"QW"- ("QW"^2)/40], [\ , "<mi//>"=1200+20"QW"- ("QW"^2)/40.]
+"QG" = 300
+d/(d"QW") "Revenue"(300, "QW") = 20- "QW"/20.
+"QW" = 400.
+"QW" = 400,
+["Revenue"("QG",400), "<mi//>"=10"QG"- ("QG"^2)/50+4000], [d/(d"QG") "Revenue"("QG",400), "<mi//>"=10- "QG"/25.]
+"QG" = 250.
+(250, 400).
+f
+x
+d/dx f,
+x
+(del)/(del x) f,
+f_x.
+y
+(del)/(del y) f,
+f_y.
+f(x, y) = x^2+2xy+3y^2-4x-3y
+(x, y) = (3.5, -0.5).
+x = 3.5
+y = 1.5,
+x = -3.5
+y = .5.
+y
+x
+y
+x
+[ (del)/(del x) f(x,y), "<mi//>"=2x+2y+0-4-0=2x+2y-4], [ (del)/(del x) f(3.5,-0.5), "<mi//>"=7-1-4=2], [ (del)/(del y) f(x,y), "<mi//>"=0+2x+6y+0-3=2x+6y-3], [ (del)/(del y) f(3.5,-0.5), "<mi//>"=7-3-3=1.]
+(3.5, -0.5),
+x
+2,
+(del)/(del x) f(3.5, -0.5).
+(3.5, -0.5),
+x
+y
+(del)/(del y) f(3.5, -0.5).
+f(x),
+(x_0, f(x_0))
+f(x_0)
+x_0.
+"Linear\ "f(x) = f'(x_0)(x-x_0)+f(x_0).
+f(x, y),
+"Linear\ "f(x, y) = f_x(x_0, y_0)(x-x_0)+f_y(x_0, y_0)(y-y_0)+f(x_0, y_0).
+"Production(Labor,Capital)" = c"Labor"^ alpha "Capital"^ beta,
+P(L, C) = cL^ alpha C^ beta,
+c,
+alpha,
+beta
+"Production(Labor,Capital)" = 10L^(0.75)C^(0.25),
+"Production"(81, 16).
+"Production"(85, 14).
+"Production"(81, 16) = 10**81^(0.75)**16^(0.25) = 10**27**2 = 540.
+["Production"_("Labor")("Labor","Capital"), "<mi//>"=10**.75"Labor"^(-0.25)"Capital"^(0.25)], ["Production"_("Labor")(81,16), "<mi//>"=10**.75(1//3)**2=5], ["Production"_("Capital")("Labor","Capital"), "<mi//>"=10**0.25"Labor"^(0.75)"Capital"^(-0.75)], ["Production"_("Capital")(81,16), "<mi//>"=10**.25**27(1//8)=8.4375.]
+"Production"("Labor", "Capital") ~~ 5("Labor"-81)+8.4375("Capital"-16)+540.
+"Production"(85, 14) ~~ 5(85-81)+8.4375(14-16)+540 = 543.125.
+f
+x
+(del)/(del x) f.
+f
+x
+f_x.
+P_1
+P_2:
+P_1
+P_1.
+P_1.
+P_2
+f(x, y) = x^2+3xy+4y^2,
+P_1 = (4, 2),
+P_2 = (3, 2.5).
+P_1
+[f(4,y), "<mi//>"=16+12y+4y^2], [f(x,2), "<mi//>"=x^2+6x+16.]
+[f_x(x,y), "<mi//>"=2x+3y], [f_y(x,y), "<mi//>"=3x+8y.]
+P_1.
+[f_x(4,2), "<mi//>"=8+6=14], [f_y(4,2), "<mi//>"=12+16=28.]
+P_1.
+f(4, 2) = 16+24+16 = 56
+["Linear"f(x,y), "<mi//>"=f_x(x_0,y_0)(x-x_0)+f_y(x_0,y_0)(y-y_0)+f(x_0,y_0)], ["Linear"f(x,y), "<mi//>"=14(x-4)+28(y-2)+56.]
+P_2
+["Linear"f(3,2.5), "<mi//>"=14(3-4)+28(2.5-2)+56], [\ , "<mi//>"=-14+14+56=56.]
+f(x, y) = (x+3y)//(x^2+y^2),
+P_1 = (2, 3),
+P_2 = (3, 2.5).
+f(x, y) = (x^2)(x+2^y),
+P_1 = (3, -1),
+P_2 = (3, 0).
+P_1
+[f(3,y), "<mi//>"=9(3+2^y)], [f(x,-1), "<mi//>"=(x^2)(x+2^(-1))=x^3+1/2 x^2.]
+[f_x(x,y), "<mi//>"=(2x)(x+2^y)+(x^2)(1+0)"\ (product rule)"], [\ , "<mi//>"=2x^2+2x2^y+x^2=3x^2+(2x)2^y], [f_y(x,y), "<mi//>"= (del)/(del y) (x^2)(x+2^y)\ ("\Take partial derivative wrt\ "y)], [\ , "<mi//>"= (del)/(del y) (x^3+x^2 2^y)\ "\ (Simplify the expression)"], [\ , "<mi//>"=x^2 2^y ln(2)\ (x"\is treated as a constant so the\ "x^3 "\term drops out)".]
+P_1.
+[f_x(3,-1), "<mi//>"=27+(6)2^(-1)=27+3=30], [f_y(3,-1), "<mi//>"=9**1/2 ln(2)=9/2 ln(2).]
+P_1.
+f(3, -1) = 9**7/2 = 63/2
+["Linear"f(x,y), "<mi//>"=f_x(x_0,y_0)(x-x_0)+f_y(x_0,y_0)(y-y_0)+f(x_0,y_0)], ["Linear"f(x,y), "<mi//>"=30(x-3)+9/2 ln(2)(y+1)+63/2.]
+P_2
+"Linear"f(3, 0) = 30**(0)+9/2 ln(2)**(1)+63/2 = 9/2 ln(2)+63/2.
+["PriceGizmos", "<mi//>"=30- "QuantityGizmos"/50- "QuantityWidgets"/300], ["PriceWidgets", "<mi//>"=20- "QuantityWidgets"/40- "QuantityGizmos"/500,]
+P_1 = ("QuantityGizmos", "QuantityWidgets") = (1000, 500),
+P_2 = (1050, 575).
+["PriceGizmos", "<mi//>"=30(0.95)^(("QuantityGizmos"//100))- "QuantityWidgets"/300], ["PriceWidgets", "<mi//>"=20(0.9)^(("QuantityWidgets"//150))- "QuantityGizmos"/250,]
+P_1 = ("QuantityGizmos", "QuantityWidgets") = (800, 400),
+P_2 = (750, 425).
+["PG", "<mi//>"=30(0.95)^(( "QG"/100))- "QW"/300], ["PW", "<mi//>"=20(0.9)^(( "QW"/150))- "QG"/250,]
+P_1 = ("QG", "QW") = (800, 400),
+P_2 = (750, 425).
+["Revenue"("QG","QW"), "<mi//>"="QG"**"PG"+"QW"**"PW"], [\ , "<mi//>"="QG"[30(0.95)^(( "QG"/100))- "QW"/300]+"QW"[20(0.9)^(( "QW"/150))- "QG"/250]], ["Revenue"("QG","QW"), "<mi//>"=30"QG"(0.95)^(( "QG"/100))- ("QG"**"QW")/(5 xx 6 xx 10) +20"QW"(0.9)^(( "QW"/150))- ("QG"**"QW")/(5 xx 5 xx 10) ], [\ , "<mi//>"=30"QG"(0.95)^(( "QG"/100))+20"QW"(0.9)^(( "QW"/150))- (11"QG"**"QW")/1500.]
+P_1
+"Revenue"(800, "QW") = 24, 000(0.95)^8+20"QW"(0.9)^(( "QW"/150))- (88"QW")/15.
+m = 4.
+"Revenue"("QG", 400) = 30"QG"(0.95)^(( "QG"/100))+8, 000(0.9)^((40/15))- (44"QG")/15.
+m = 8.
+P_1
+["Revenue"_("QG")("QG","QW"), "<mi//>"= (del)/(del "QG") 30QG(0.95)^(( "QG"/100))], [\ , \ + (del)/(del "QG") 20"QW"(0.9)^(( "QW"/150))- (del)/(del "QG") (11**"QG"**"QW")/1500], [\ , "<mi//>"=[30(0.95)^(( "QG"/100))<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>], [\ , \ <mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>+30"QG"(0.95)^(( "QG"/100)) (ln(0.95))/100]+0- (11**"QW")/1500.]
+["Revenue"_("QW")("QG","QW"), "<mi//>"= (del)/(del "QW") 30QG(0.95)^(( "QG"/100))], [\ , \ + (del)/(del "QW") 20"QW"(0.9)^(( (QW)/150))- (del)/(del "QW") (11**"QG"**"QW")/1500], [\ , "<mi//>"=0+[20(0.9)^(( "QW"/150))+20"QW"(0.9)^(( "QW"/150)) (ln(0.9))/150]- (11**"QG")/1500.]
+P_1.
+["Revenue"_("QG")(800,400), "<mi//>"=[30(0.95)^((800/100))+24000(0.95)^((800/100)) (ln(0.95))/100]], [\ , "<mi//>"-8800/1500~~5.86898], ["Revenue"_("QW")(800,400), "<mi//>"=[20(0.9)^((400/150))+20"QW"(0.9)^((400/150)) (ln(0.9))/150]], [\ , \ -4400/1500~~4.99164.]
+P_1.
+["Linear""Revenue"("QG","QW"), "<mi//>"="Revenue"_("QG")("QG"_0,"QW"_0)("QG"-"QG"_0)], [\ , \ +"revenue"_("QW")("QG"_0,"QW"_0)("QW"-"QW"_0)+"Revenue"("QG"_0,"QW"_0).]
+"Revenue"(800, 400).
+["Revenue"(800,400), "<mi//>"=19,615.88], ["Linear""Revenue"("QG","QW"), "<mi//>"=5.86898("QG"-800)+4.99("QW"-400)+19,615.88.]
+P_2
+P_2 = (750, 425)
+"Linear""Revenue"(750, 425) = 5.86898(-50)+4.99(25)+19, 615.88 = 19, 300.63.
+"Production"("Labor", "Capital") = 10"Labor"^(0.8)"Capital"^(0.2),
+("Labor", "Capital")
+P_1 = (100, 30),
+P_2 = (110, 25).
+"Production"("Labor", "Capital") = 10"Labor"^(0.74)"Capital"^(0.26),
+("Labor", "Capital")
+P_1 = (300, 30),
+P_2 = (310, 32).
+P_1
+["Production"(300,C), "<mi//>"=10**300^(0.74)C^(0.26)=680.879C^(0.26)], ["Production"(L,30), "<mi//>"=10L^(0.74)30^(0.26)=24.2132L^(0.74).]
+["Production"_L(L,C), "<mi//>"= (del)/(del L) 10L^(0.74)C^(0.26)], [\ , "(Take the partial derivative wrt\ "L"; Treat\ "C"\as a constant.)"], [\ , "<mi//>"=10(0.74)L^(-0.26)C^(0.26).]
+["Production"_L(L,C), "<mi//>"= (7.4C^(0.26))/(L^(0.26)) ], ["Production"_C(L,C), "<mi//>"= (del)/(del C) 10L^(0.74)C^(0.26)], [\ , "(Take the partial derivative wrt\ "C"; Treat\ "L"\as a constant.)"], [\ , "<mi//>"=10L^(0.74)(0.26)C^(-0.74).]
+"Production"_C(L, C) = 2.6(L^(0.74))/(C^(0.74)) .
+P_1.
+["Production"_L(300,30), "<mi//>"= (7.430^(0.26))/(300^(0.26)) ~~4.07], ["Production"_C(300,30), "<mi//>"=2.6(300^(0.74))/(30^(0.74)) ~~14.29.]
+P_1.
+["Production"(300,30), "<mi//>"=10**30^(0.74)30^(0.26)~~1648.62], ["Linear""Production"(L,C), "<mi//>"="Prod"_L(L_0,C_0)(L-L_0)+"Prod"_C(L_0,C_0)(C-C_0)+"Prod"(L_0,C_0)], [\ , "<mi//>"=4.07(L-300)+14.29(C-30)+1648.62.]
+P_2
+"Linear""Production"(310, 32) = 4.07(310-300)+14.29(32-30)+1648.62 = 1717.9.
+L
+C
+L
+C
+1717.9-1648.62 = 69.28
+P_1
+P_2:
+P_1
+P_1.
+P_1.
+P_2
+f(x, y, z) = x^2+3xy+4y^2+2z^2+5xz,
+P_1 = (4, 2, 1),
+P_2 = (3, 2.5, 2).
+f(x, y, z) = (x+3y-2z)//(x^2+y^2+z^2),
+P_1 = (2, 3, -1),
+P_2 = (3, 2.5, 0).
+P_1
+[f(x,3,-1), "<mi//>"= (x+9+2)/(x^2+9+1) = (x+11)/(x^2+10) ], [f(2,y,-1), "<mi//>"= (2+3y+2)/(4+y^2+1) = (3y+4)/(y^2+5) ], [f(2,3,z), "<mi//>"= (2+9-2z)/(4+9+z^2) = (11-2z)/(13+z^2) .]
+[f_x(x,y,z), "<mi//>"= ((1)(x^2+y^2+z^2)-(x+3y-2z)(2x))/((x^2+y^2+z^2)^2) ], [\ , "<mi//>"= ((x^2+y^2+z^2)-(2x^2+6xy-4xz))/((x^2+y^2+z^2)^2) ], [\ , "<mi//>"= ((-x^2+y^2+z^2-6xy+4xz))/((x^2+y^2+z^2)^2) ], [f_y(x,y,z), "<mi//>"= ((3)(x^2+y^2+z^2)-(x+3y-2z)(2y))/((x^2+y^2+z^2)^2) ], [\ , "<mi//>"= ((3x^2+3y^2+3z^2)-(2xy+6y^2-4yz))/((x^2+y^2+z^2)^2) ], [\ , "<mi//>"= (3x^2-3y^2+3z^2-2xy+4yz)/((x^2+y^2+z^2)^2) ], [f_z(x,y,z), "<mi//>"= ((-2)(x^2+y^2+z^2)-(x+3y-2z)(2z))/((x^2+y^2+z^2)^2) ], [\ , "<mi//>"= ((-2x^2-2y^2-2z^2)-(2xz+6yz-4z^2))/((x^2+y^2+z^2)^2) ], [\ , "<mi//>"= (-2x^2-2y^2+2z^2-2xz-6yz)/((x^2+y^2+z^2)^2) .]
+P_1.
+[f_x(2,3,-1), "<mi//>"= ((-4+9+1-36-8))/((4+9+1)^2) =-38/196=-19/98], [f_y(2,3,-1), "<mi//>"= (12-27+3-12-12)/196=- (-36)/196=- (-9)/49], [f_z(2,3,-1), "<mi//>"= (-8-18+2+4+18)/196=-2/196=-1/98.]
+P_1.
+["Linear"f(x,y,z), "<mi//>"=f(2,3,-1)+f_x(2,3,-1)(x-2)+f_y(2,3,-1)(y-3)+f_z(2,3,-1)(z+1)], [\ , "<mi//>"=13/14-19/98(x-2)-9/49(y-3)-1/98(z+1).]
+P_2
+["Linear"f(3,2.5,0), "<mi//>"=13/14-19/98(1)-9/49(-1/2)-1/98(1)], [\ , "<mi//>"= (13**7)/(14**7) + (-19+9-1)/98= (91-11)/98=80/98=40/49.]
+f(x, y, z) = (x^2 z)(x+2^y+z^3)
+P_1 = (3, -1, 1),
+P_2 = (2, 0, 1).
+["PriceGizmos", "<mi//>"=30- "QuantityGizmos"/50- "QuantityWidgets"/300- "QuantityGadgets"/500], ["PriceWidgets", "<mi//>"=20- "QuantityWidgets"/40- "QuantityGizmos"/500- "QuantityGadgets"/400], ["PriceGadgets", "<mi//>"=40- "QuantityWidgets"/45- "QuantityGizmos"/600- "QuantityGadgets"/300,]
+("QuantityGizmos", "QuantityWidgets", "QuantityGadgets")
+P_1 = (1000, 500, 700),
+P_2 = (1050, 575, 625).
+x = "gadgets", \ y = "gizmos", \ z = "widgets".
+["Revenue", "<mi//>"=R(x,y,z)=x"Price"_x+y"Price"_y+z"Price"_z], [\ , "<mi//>"=x(40-z/45-y/600-x/300)+y(30-y/50-z/300-x/500)], [\ , \ +z(20-z/40-y/500-x/400)], [\ , "<mi//>"=- (x^2)/300- (11xy)/3000- (89xz)/3600+40x- (y^2)/50- (2yz)/375+30y- (z^2)/40+20z.]
+P_1
+[R(x,500,700), "<mi//>"=1/900(-3x^2+18775x+8895000)], [R(1000,y,700), "<mi//>"=1/450(-9y^2+10170y+9500000)], [R(1000,500,z), "<mi//>"=1/360(-9z^2-2660z+16140000),]
+[R_x(x,y,z), "<mi//>"=-x/150- (11y)/3000- (89z)/3600+40], [R_y(x,y,z), "<mi//>"=- (11x)/3000-y/25- (2z)/375+30], [R_z(x,y,z), "<mi//>"=- (89x)/3600- (2y)/375-z/20+20.]
+P_1.
+[R_x(1000,500,700), "<mi//>"=-1000/150-5500/3000- (89(700))/3600+40=511/36], [R_y(1000,500,700), "<mi//>"=-11000/3000-500/25-1400/375+30=13/5], [R_z(1000,500,700), "<mi//>"=-89000/3600-1000/375-700/20+20=-76/18.]
+P_1.
+R(1000, 500, 700) = 246700/9.
+["Linear""Revenue"(x,y,z), "<mi//>"=R(1000,500,700)], [\ , "<mi//>"+R_x(1000,500,700)(x-1000)], [\ , "<mi//>"+R_y(1000,500,700)(y-500)], [\ , "<mi//>"+R_z(1000,500,700)(z-700)], [\ , "<mi//>"=246700/9+511/36(x-1000)+13/5(y-500)], [\ , "<mi//>"-763/18(z-700).]
+P_2
+["Linear""Revenue"(1050,575,625)=246700/9+511/36(50)], [\ , "<mi//>"+13/5(75)-763/18(-75)=31,495.]
+q
+"FutureAmount" = "InitialDeposit"**(1+ "rate"/"ppy" )^("years"**"ppy"),
+"ppy"
+q
+q
+q
+f(t)
+y = f(t)
+t = a
+t = b
+"distance" = "velocity"**"time".
+60**(3-0.5) = 150.
+y = x**(4-x)
+x = 0
+x = 4.
+[0, 4]
+y = x**(4-x)
+x
+x_n
+x_n
+x_o,
+n
+x_n,
+f(x_n).
+f(x_n),
+int_a^b f(x)dx = lim_(n->oo) sum_(i=1)^n f(x_i) Delta x
+Delta x = (b-a)/n
+x_i = a+i**Delta x.
+sum_(i=1)^n f(x_i) Delta x
+Delta x = (b-a)/n
+x_i = a+i**Delta x,
+int_a^b f(x)dx,
+f(x)
+f(x) = exp(-0.06**x)**0.235.
+y = f(x)
+x = 0
+x = 15.
+f(x) = 4x+5.
+f(x)
+0 <= x < 7
+f(x) = 5-3x.
+f(x)
+2 <= x < 10
+f(x) = x^2+3x+1.
+-10 <= x < -2
+f(x)
+f(x) = -x^2+7x-10.
+y = f(x)
+f(x) = 3ln(x).
+f(x)
+1 <= x < 10
+f(x) = xexp(-0.7x).
+1 <= x < 5
+f(x)
+f(x) = (5x+3)exp(-0.7x).
+f(x)
+0 <= x < 5
+y = 5x+7
+1 <= x <= 5.
+y = x^2
+0 <= x <= 3.
+10^(-6)?
+13.5/N
+< 10^(-6).
+13.5/N < 10^(-6).
+N/13.5 > 1, 000, 000,
+N > 13,500,000.
+10000exp(-0.01t)
+500**2^(.08t)
+"Sales"(t) = 500**2^(.08t)
+[0, 12]
+N
+p(x) = -1+10x-x^2.
+q
+f(x)
+[a, b].
+F(x)
+d/dx F(x) = f(x).
+int_a^b f(t)dt = F(b)-F(a).
+int_a^b f(t)dt
+f(x)
+a
+b,
+int f(x)dx
+f(x),
+int x^n dx.
+d/dx x^n = nx^(n-1),
+x^n
+n
+n+1
+d/dx x^(n+1) = (n+1)x^n.
+n+1
+x^n = d/dx x^(n+1)//(n+1).
+C
+x^n = d/dx(x^(n+1)//(n+1)+C).
+n+1,
+n+1 != 0.
+int x^n dx = (x^(n+1))/(n+1) +C, "\assuming\ "n != -1.
+int 1//xdx.
+d/dx ln(x) = 1//x.
+d/dx(ln(|x|)+C) = 1//x,
+int 1//xdx = ln|x|+C.
+int e^x dx.
+d/dx e^x = e^x.
+int e^x dx = e^x+C.
+int a^x dx
+a.
+d/dx a^x = ln(a)a^x.
+ln(a)
+a^x = d/dx(a^x//ln(a)+C).
+int a^x dx = (a^x)/(ln(a)) +C.
+d/dx(f(x)+g(x)) = d/dx f(x)+d/dx g(x),
+int(f(x)+g(x))dx = int f(x)dx+int g(x)dx
+d/dx(f(x)-g(x)) = d/dx f(x)-d/dx g(x),
+int(f(x)-g(x))dx = int f(x)dx-int g(x)dx
+int cf(x)dx = c int f(x)dx
+int 3x^5+4x^2+5+7/x dx.
+[int 3x^5+4x^2+5+7/x dx, "<mi//>"=int 3x^5 dx+int 4x^2 dx+int 5dx+int 7/x dx\ "(sum rule)"], [\ , "<mi//>"=3 int x^5 dx+4 int x^2 dx+5 int dx+int 7 1/x dx\ "(constant multiple rule)"], [\ , "<mi//>"=3 int x^5 dx+4 int x^2 dx+5 int dx+7ln|x|+C\ "(natural log rule)"], [\ , "<mi//>"=3/6 x^6+4/3 x^3+5x+7ln|x|+C\ "(power rule)".]
+= 3/6 x^6+C_1+4/3 x^3+C_2+5x+C_3+7ln|x|+C_4
+C.
+int sqrt(2x)+root(3)(4x)dx.
+[int sqrt(2x)+root(3)(4x)dx, "<mi//>"=int sqrt(2x)dx+int root(3)(4x)dx\ "(sum rule)"], [\ , "<mi//>"=sqrt(2) int sqrt(x)dx+root(3)(4) int root(3)(x)dx\ "(constant multiple rule)"], [\ , "<mi//>"=sqrt(2) int x^((1//2))dx+root(3)(4) int x^((1//3))dx\ "(rules of exponents)"], [\ , "<mi//>"=sqrt(2)x^((3//2))(2//3)+root(3)(4)x^((4//3))(3//4)+C\ "(power rule)".]
+int 2**3^x+4e^x dx.
+[int 2**3^x+4e^x dx, "<mi//>"=int 2**3^x dx+int 4e^x dx\ "(sum rule)"], [\ , "<mi//>"=2 int 3^x dx+4 int e^x dx\ "(constant multiple rule)"], [\ , "<mi//>"=2/(ln(3)) 3^x+4e^x+C\ "(exponential rules)".]
+int_1^3 6x^2+2dx.
+int 6x^2+2dx = 2x^3+2x+C.
+C = 0
+F(x) = 2x^3+2x.
+int_1^3 6x^2+2dx = F(3)-F(1) = 60-4 = 56.
+C,
+1/x
+int_1^(100) 1/x dx.
+int 1/x dx = ln(|x|)+C.
+C = 0
+F(x) = ln(|x|).
+int_1^(100) 1/x dx = F(100)-F(1) = ln(100)-ln(1) = ln(100).
+P
+x
+P(x) = 1043e^(-0.03945x).
+e^(-0.03945x) = (e^(-0.03945))^x = 0.9613^x
+ln(0.9613) = -0.03945.
+"Antideriv"P(x) = ((1043**0.9613^x))/((-0.03945)) +C.
+C = 0.
+C
+["Total"P(60), "<mi//>"="Antideriv"P(60)-"Antideriv"P(0)], [\ , "<mi//>"=(-2467)-(-26438)=23962.]
+x.
+C
+C.
+C
+q
+"MC"(q) = 5-0.002q.
+"Cost"(q) = 5q-0.001**q^2+C.
+"Cost"(1000) = 6000.
+"Cost"(1000) = 5**1000-0.001**1000^2+C = 6000.
+C
+C = 2000.
+"Cost"(q) = 5q-0.001**q^2+2000.
+"MP"(x) = -397.4x+3991.8.
+P(x) = -198.7x^2+3991.8x+C.
+P(0) = -2000 = C.
+P(x) = -198.7x^2+3991.8x-2000.
+"MP"(x) = 0,
+x = 10.0448.
+P(x)
+x = 10.0448.
+f(x)
+int f(x)dx
+x^n ", assuming\ "n != 1
+(x^(n+1))/(n+1) +C
+1/x
+ln|x|+C
+e^x
+e^x+C
+a^x
+(a^x)/(ln(a)) +C
+(f+g)(x)
+int f(x)dx+int g(x)dx
+(f-g)(x)
+int f(x)dx-int g(x)dx
+c**f(x)
+c**int f(x)dx
+int(3x+5)^2 dx
+int(9x^2+30x+25)dx
+int a^x dx = (a^x)/(ln(a)) +C.
+int a^x dx = ln(a)**a^x+C,
+n != -1.
+int e^x dx = e^x+C.
+int e^x dx = (e^(x+1))/(x+1) +C,
+n != -1.
+int x^n dx = (x^(n+1))/(n+1) +C,
+n != +1.
+int(f(x)**g(x))dx = int f(x)dx**int(g(x)dx.
+int x^n dx = (x^(n+1))/(n+1) +C,
+n != -1.
+int(f(x)+g(x))dx = int f(x)dx+int(g(x)dx.
+int x^n dx = nx^(n-1)+C.
+int 1//xdx = ln|x|+C.
+f(x) = 3x+5.
+F(x) = (3x^2)/2+5x+C.
+f(x) = 5x^3+4x+3.
+f(x) = x^(3,124,567)+2x^(473)+327x^(-2,786,534).
+F(x) = (x^(3,124,568))/3,124,568+2(x^(474))/474+327(x^(-2,786,533))/(-2,786,533) +C.
+f(x) = sqrt(11x)+5/x.
+f(x) = e^x+(1/2)^x.
+F(x) = e^x+ ((1/2)^x)/(ln(1/2)) +C.
+f(x) = pi^x+pi^ pi+x^ pi.
+int_0^5 x+7dx.
+F(x) = x^2//2+7x
+int_0^5(x+7)dx = F(5)-F(0) = 25/2+35-0 = 95/2.
+int_1^(10) 1/x dx.
+int_2^(10)3x+5/x dx.
+F(x) = (3x^2)//2+5ln|x|.
+[int_2^(10)3x+5/x dx, "<mi//>"=F(10)-F(2)=300/2+5ln(10)-(12/2+5ln(2))], [\ , "<mi//>"=150+5ln(10)-6-5ln(2)=144+5(ln(10)-ln(2))], [\ , "<mi//>"=144+5ln(10/2)=144+5ln(5).]
+int_1^(100)(1/2)^x dx.
+int_(-10)^2 e^x+edx.
+F(x) = e^x+ex.
+[int_(-10)^2 e^x+edx, "<mi//>"=F(2)-F(-10)=e^2+2e-(e^(-10)-10e)], [\ , "<mi//>"=e^2-1/(e^(10)) +12e.]
+int_(-2)^5 x^(-2)+x^(-1)dx.
+f(x) = 4x+3.
+F(x)
+F(0) = 7.
+F(x) = 2x^2+3x+C.
+F(0) = 7
+F(0) = 0+C = 7,
+C = 7
+F(x) = 2x^2+3x+7.
+f(x) = 3x^2-6x+5.
+F(x)
+F(3) = 17.
+f(x) = 100(0.95)^x.
+F(x)
+F(5) = 9.
+F(x) = (100(0.95)^x)/(ln(0.95)) +C.
+F(5) = 9
+[F(5), "<mi//>"= (100(0.95^5))/(ln(0.95)) +C=9], [C, "<mi//>"=9- (100(0.95^5))/(ln(0.95)) ~~9+1508.54=1517.54.]
+F(x) ~~ (100(0.95^x))/(ln(0.95)) +1517.54.
+f(x) = 7//x+x^2.
+F(x)
+F(1) = 11.
+1000(0.95)^t
+["Income", "<mi//>"=int_0^(10)1000(0.95)^t dt=<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//> (1000(0.95)^t))/(ln(0.95)) |_(t=0)^(t=10)], [\ , "<mi//>"= (1000(0.95)^(10))/(ln(0.95)) - (1000(0.95)^0)/(ln(0.95)) ], [\ , "<mi//>"~~-11672.81+19495.73=7822.91.]
+MP(x) = 50-3x
+"sales"(t) = 1000/(|) t|
+["sales", "<mi//>"=int_1^(10) 1000/t dt=1000ln(t)|_(t=1)^(t=10)], [\ , "<mi//>"=1000(ln(10)-ln(0))], [\ , "<mi//>"=1000ln(10)~~2302.58.]
+"MR"("licenses") = 200/(sqrt("licenses")) .
+"rate"(t) = 400(0.9)^t
+["Production", "<mi//>"=int_0^1 400(0.9)^t dt=<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>400/(ln(0.9)) (0.9)^t|_(t=0)^(t=1)], [\ , "<mi//>"=400/(ln(0.9)) (0.9-1)~~379.649.]
+["Production", "<mi//>"=int_9^(10)400(0.9)^t dt=<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>400/(ln(0.9)) (0.9)^t|_(t=9)^(t=10)], [\ , "<mi//>"=400/(ln(0.9)) (0.9^(10)-0.9^9)~~147.08.]
+[0.075, "<mi//>"=400**(0.9)^t], [t, "<mi//>"=ln(0.75//400)//ln(0.9)~~81.451.]
+[75, "<mi//>"=400(0.9^t)], [t, "<mi//>"~~15.8881.]
+"Marginal""Profit"
+"Marginal""Profit" = -0.01"Production"^2+2"Production"+0.11.
+["Profit", "<mi//>"=int_(15)^(20)-0.01x^2+2x+0.11dx], [\ , "<mi//>"=<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>-0.01/3 x^3+x^2+0.11x|_(x=15)^(x=20)~~160.133.]
+q
+f(a)
+f'(a)
+a
+"Linearf"(x) = f'(a)**(x-a)+f(a)
+q
+e^x
+-x^2
+q
+q
+q
+y
+y = mx+b
+y-y_0 = m(x-x_0)
+q
+x
+p
+y.
+p = mq+b
+p-p_0 = m(q-q_0)
+P_0 = (q_0, p_0)
+P_1 = (q_1, p_1)
+m = ("rise")/("run") = ((p_1-p_0))/((q_1-q_0))
+ax+by+c = 0
+y-y_0 = (y_1-y_0)/(x_1-x_0) (x-x_0)
+p
+q
+aq+bp+c = 0
+p-p_0 = (p_1-p_0)/(q_1-q_0) (q-q_0)
+p
+q
+p = 10,
+q = 150
+p = 15,
+q = 110.
+(q, p),
+(150, 10)
+(110, 15)
+m = (15-10)/(110-150) = 5/(-40) = (-1)/8.
+p-p_0 = (p_1-p_0)/(q_1-q_0) (q-q_0).
+p-10 = (15-10)/(110-150) (q-150).
+(p_0, q_0)
+p
+q
+(p_0, q_0) = (150, 10).
+p-10 = (-1)/8(q-150).
+p-10 = (-1)/8(q-150)
+p = (-1)/8(q-150)+10 = (-1)/8 q+150/8+10 = (-1)/8 q+230/8.
+p = (-1)/8 q+230/8.
+8p+q-230 = 0.
+m = 11//1 = 11.
+C
+q
+C = mq+b.
+m = 11
+b = 400,
+C = 11q+400
+C = 11(200)+400 = $2,600
+m = 18.
+"Pay" = "variable pay"+"Fixed pay".
+"Pay" = m("hrs"-40)+500 = 18**("hrs"-40)+500.
+f
+"Pay" = {[500, "hrs"<=40], [18**("hrs"-40)+500, "hrs">40]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+y
+"Pay",
+x
+"hrs",
+q
+p
+x
+y.
+y = mx+b
+y = mx+b
+y-y_1 = m(x-x_1)
+(q, p)
+q_0:
+p
+q_0
+(2, 5)
+(6, 17),
+q_0 = 4.
+m = ("change in\ "p)/("change in\ "q) = (17-5)/(6-2) = 12/4 = 3
+p-p_0 = m(q-q_0).
+(q_0, p_0) = (2, 5).
+p-5 = 3(q-2).
+p = 3q-1
+p = mq+b.
+(q, p) = (2, 5)
+m = 3
+b:
+5 = 3(2)+b.
+b
+b = -1,
+p = 3q-1
+p(4) = 3**4-1 = 11
+(5, 7)
+(10, 7),
+q_0 = 20.
+(20, 10)
+(40, 5),
+q_0 = 12.
+m = ("change in\ "p)/("change in\ "q) = (5-10)/(40-20) = -5/20 = -1/4
+p = m(q-q_0)+p_0
+(q_0, p_0) = (20, 10)
+m = -1/4,
+p = -1/4(q-20)+10.
+p
+p = -1/4 q+15.
+p(12) = -1/4(12)+15 = 12.
+(5, 62)
+(115, 783),
+q_0 = 415.
+(273, 578)
+(412, 6),
+q_0 = 309.
+m = ("change in\ "p)/("change in\ "q) = (578-6)/(273-412) = -572/139
+p = m(q-q_0)+p_0
+(q_0, p_0) = (412, 6)
+m = -572/139,
+p = -572/139(q-412)+6.
+6
+-572/139**(-412),
+p(309) = -572/139(309-412)+6 = -572/139(-103)+6 = 429 119/139
+(509, 17)
+(211, 132),
+q_0 = 4.
+p
+q_0.
+q
+p
+0.
+3,
+(6, 3),
+q_0 = 4.
+p = mq+b,
+3 = 3(6)+b,
+b = -15
+p = 3q-15.
+q_0 = 4,
+p = 3q-15 = 3(4)-15 = -3
+p
+0,
+0 = 3q-15.
+q
+q = 5.
+-2,
+(2, -5),
+q_0 = 3.
+12.7,
+(22, 183),
+q_0 = 46.
+p = m(q-q_0)+p_0
+p = 12.7(q-22)+183.
+q_0 = 46,
+p = 12.7(46-22)+183 = 12.7(24)+183.
+p = 487.8.
+p
+0,
+0 = 183+12.7(q-22).
+q
+12.7(q-22) = -183
+(q-22) = (-183)/12.7.
+q = 22-183/12.7 = 7.59.
+-0.23,
+(7.6, 19.7),
+q_0 = 59.6.
+(12.3, 9.8),
+q_0 = 74.
+p = m(q-q_0)+p_0
+p = 0(q-12.3)+9.8
+p = 9.8.
+q_0 = 74,
+p = 9.8.
+9.8
+q
+p
+0,
+(6, 3),
+3p+2q = 6.
+p
+p = -2//3q+2.
+m = -2//3
+p
+q = 0,
+3p = 6,
+p = 2.
+q
+p = 0,
+2q = 6,
+q = 3.
+q
+0
+3
+q = 1
+q = -1.
+q = 1,
+3p+2 = 6,
+p = 4//3
+(q, p) = (1, 4//3).
+q = -1,
+3p-2 = 6,
+p = 8//3
+(q, p) = (-1, 8//3).
+7p-4q+14 = 0.
+y = 5.
+0
+y = 5.
+x
+x
+y
+5.
+x
+0
+(x, y) = (-20, 5),
+(x, y) = (-2, 5),
+(x, y) = (7, 5),
+x = 3.
+y = 4(x-3)+9.
+4
+y
+x = 0,
+y = 4(-3)+9 = -3,
+x
+y = 0,
+0 = 4(x-3)+9.
+x
+x-3 = -9/4
+x = 3-9/4 = 3/4
+x
+x = 0
+x = 3//4.
+x
+x = 3
+x = 4.
+x = 3,
+y = 9,
+(x, y) = (3, 9).
+x = 4,
+y = 13,
+(x, y) = (4, 13).
+112p+257q = 4783.
+(q, p) = (4783, 23)
+(q, p) = (4295, 27).
+q
+p
+m = (27-23)//(4295-4783) = 4//(-488) = -1//122
+p-p_0 = m(q-q_0)
+p-23 = -1//122(q-4783).
+p = 23-1//122(q-4783).
+q
+q
+x^3+5x+7.
+x^3+5x+7
+x.
+x.
+x
+"Cost" = 2000+10**"Quantity"+.001**"Quantity"^2.
+"Quantity" = 1000.
+c = 2000+10**q+.001**q^2.
+q
+q = 1000.
+"Quantity" = 1000,
+["Cost", "<mi//>"=2000+10**"Quantity"+.001**"Quantity"^2], ["Revenue", "<mi//>"= (100**"Quantity")/(1+.01**"Quantity") .]
+q, c, p,
+r
+p = r-c = 100q//(1+.01q)-(2000+10q+.001q^2).
+q = 200.
+f(x) = xln(x)
+f'(x) = ln(x)+1.
+g(t) = e^(.07t)(-t^2+3t+5)
+h(t) = t^2 e^(-0.06t)
+h'(t) = e^(-0.06t)(2t-0.06t)^2.
+k(x) = (2x+5)^(37)
+m(x) = ln(ln(ln(x^2+3)))
+e.
+m'(x) = (2x)/((x^2+3)ln(x^2+3)ln(ln(x^2+3))) .
+n(x) = (e^x)/(ln(x^2+3))
+"Price" = 10- "Quantity"/100- ("Quantity"^2)/10000
+"Price" = P(q)
+"quantity" = q.
+"Revenue" = "Quantity"**(20**.9^(("Quantity"//200)))
+"Supply""Price" = 10**1.04^(("Quantity"//100))
+"SupplyPrice"'(q) = 0.00392207(1.04)^(q//100),
+(1.04)^(0.01) = e^(0.000392207).
+"ConsumerSurplus" = 10**(0.95)^(("Quantity"//100))-2**(1.07)^(("Quantity"//100))
+k(x) = f(x)**g(x)**h(x)
+k'(x) = g(x)h(x)f'(x)+f(x)h(x)g'(x)+f(x)g(x)h'(x).
+k(x) = f(f(f(x)))
+f(t) = t^2 e^((-0.06t))
+t = 10.
+f'(10) = 7.68336.
+g(x) = x^2+6x+10
+x = 5.
+h(q) = (ln(q+5))**(1.07^q)
+q = 8.
+"Demand""Price" = 20**(0.95)^(("Quantity"//100))
+"Quantity" = 200.
+"Supply""Price" = 20**(1.09)^(("Quantity"//100))
+"Quantity" = 300.
+P(q) = 20**(1.09)^((q//100))
+"Revenue" = "Quantity"**(20-"Quantity"//500)
+"Quantity" = 2000.
+h(x) = f(g(x))
+x = 4.
+f(x) = x^3-5x^2+7x-2.
+r(q) = q**100**(0.9)^q.
+q = 9.49122
+[1, 20]:
+q = 9.49122
+"TotalCost" = 100000+5**"OrderSize"+4**10000//"OrderSize".
+"Revenue" = 20**"Quantity"-("Quantity"^2)//100.
+q = 1000.
+"Revenue" = "Quantity"**20**(0.95)^(("Quantity"//100)).
+"Profit" = "Quantity"**20**(0.95)^(("Quantity"//100))-(1000+10**"Quantity")
+q = 613.965.
+q = 613.965.
+[0, 1500].
+q
+F(x)
+f(x)
+a <= x <= b,
+int_a^b f(x)dx = F(b)-F(a).
+int_a^b f(x)dx
+f(x)
+a
+b.
+f(x)
+F(x),
+F(x)
+f(x),
+f(x)
+F(x)+c,
+c.
+int f(x)dx,
+x^n
+x.
+x,
+x
+V,
+t
+Vexp(-rt)
+r
+V(t),
+a
+b,
+int_a^b V(t)**e^((-r**t))dt.
+V(t)
+C.
+P'(q) = -q^2+5q+50
+q = 5.
+q.
+P(q) = (1q^3)/3+ (5q^2)/2+50q+C
+C.
+P(5) = 0.
+0 = P(5) = (5^3)/3+ (5**5^2)/2+50**5+C,
+--C = (5^3)/3+ (5**5^2)/2+50**5.
+C,
+q = 5.
+C
+q = 10.
+P'(q) = -q^2+5q+50
+q = 5.
+q.
++C,
+P'(q) = q^2 exp(-q//10)-q//10
+q = 5.
+q.
+P(q) = exp(-q//10)**(-10**q^2-200**q-2000)-q^2//20+C.
+C,
+P(q)
+C,
+C
+-P(5) = 1972.474.
+P(5) = 0 = C-1972.474,
+C = 1972.474.
+q = 64.72775.
+V(t) = 2000+5t
+r = 1.03,
+"CurrentValue" = int_("start")^("stop")r^(-t)V(t)dt = int_0^(10)1.03^(-t)(2000+5t)dt.
+C.
+f(x) = xln(x).
+int xln(x)dx = 1/4 x^2(2ln(x)-1)+c.
+f(t) = e^(.07t)(-t^2+3t+5).
+f(t) = t^2 e^( -0.06t).
+int t^2 e^(-0.06t)dt = e^(-0.06t)(-9259.26-555.556t-16.6667t^2)+c.
+f(x) = ln(x).
+f(t) = (t+1)e^(-0.06t).
+int(t+1)e^(-0.06t)dt = e^( -0.06t)(-294.444-16.6667t)+c.
+f(x) = 1/((1+2x)(3+x)(5+6x)) .
+f(x) = 1/(sqrt(1+x^2)) .
+int 1/(sqrt(1+x^2)) dx = sinh^(-1)(x)+c.
+f(x) = 1/((3+2x)^2) .
+f(x) = 5/(9+x^2) .
+int 5/(9+x^2) dx = (5/3)tan^(-1)(x/3)+c.
+f(x) = 1/((5x+4)^2(7x+9)) .
+int_0^(10)t^2 e^(-0.06t)dt.
+int_0^(10)t^2 e^(-0.06t)dt ~~ 214.03.
+int_1^(10) dt/t.
+int_1^8(x-1)(x-8)dx.
+int_1^8(x-1)(x-8)dx ~~ -57.167.
+int_0^(10)t^2 e^(.05(10-t))dt.
+int_0^2 e^(-x^2)dx.
+int_0^2 e^(-x^2)dx ~~ 0.882081.
+int_9^(16) 1/(sqrt(2 pi)) e^(-(x-10)^2)dx.
+P'(q) = -q^2+3q+5"\and\ "P(3) = 5."\Find\ "P(q).
+P(q) = 1/6(-2q^3+9q^2+30q-87).
+F'(t) = t^2 e^(-0.1t)"\and\ "F(10) = 2."\Find\ "F(t).
+P'(q) = sqrt(q^2+5q+7)"\and\ "P(0) = 7."\Find\ "P(q).
+[P(q), "<mi//>"=(56-50sqrt(157)+(4q+10)sqrt(7+5q+q^2)], [\ , "<mi//>"-3sinh^(-1)(25/(sqrt(3)) )+3sinh^(-1)( (5+2q)/(sqrt(3)) ))//8.]
+P'(q) = -(q^2+2q+3)^2 "\and\ "P(10) = -7."\Find\ "P(q).
+P(t) = 5000+100t.
+int_0^7(5000+100t)(.98)^t dt ~~ 34868.6.
+P(t) = 5000(0.09^t).
+MP(q) = 100-12ln(q)
+q = 100.
+MP(q) = 0,
+q = e^8 = 2981.
+[P(q), "<mi//>"=16(7q-700+75ln(100))-12q ln(q)], [P(2981), "<mi//>"=16(7**2981-700+75ln(100))-12**2981ln(2981)=42021.7.]
+MC(q) = 10qln(q)
+q
+q
+"Profit"("Quantity") = "Quantity"**(400-"Quantity")-5000,
+0 <= "Quantity" <= 500.
+"Quantity" = 200,
+(0, -5000),
+(200, 35000)
+(500, -55000).
+q,
+q+.001,
+q-0.001,
+p(q),
+p(q+.001),
+p(q-0.001),
+p'(q).
+"Profit"("Quantity") = (10"Quantity"-20)**exp(-"Quantity"//50)-10.
+0 <= "Quantity" <= 400,
+q
+x
+q
+q
+"Profit"("Quantity") = 4"Quantity"^2-1300"Quantity"+125000.
+["volume", "<mi//>"=pi "radius"^2**"height"], ["area", "<mi//>"=2 pi "radius"^2+2 pi**"radius"**"height".]
+["height", "<mi//>"=1//(pi "radius"^2)], ["area", "<mi//>"=2 pi "radius"^2+2/("radius") .]
+pi
+"Profit"(q) = -1.002q^2+477.22q = 6720.9.
+300t^2
+t
+t.
+"Annual""Cost"(t) = 10000//t+500+300t.
+f(x) = -2x^2+17x+23
+0 <= x <= 50.
+x, x+.001, x-.001, f(x), f(x+.001), f(x-.001),
+f'(x)
+f(x),
+f(x+.001)
+f(x-.001),
+f'(x)
+f
+f',
+x = 25,
+f'(x) = 0.
+f'(x) = 0
+x = 4.25
+f
+0 < x < 4.25.
+f
+x > 4.25
+x = 4.25
+59.13
+(0, 23)
+(50, -4127).
+x
+f(x)
+-4127
+x = 50.
+59.13
+x = 4.25
+g(x) = -3x^2+18x+25
+10 <= x <= 50.
+h(x) = x^3-9x+12
+0 <= x <= 10.
+f'(x) = 0
+x = 1.73.
+f
+0 < x < 1.73.
+f
+1.73 < x < 10.
+(1.73, 1.61).
+(0, 12)
+(10, 922).
+x
+f(x)
+1.73
+x = 1.61.
+922
+x = 10
+k(x) = x^3-6x^2+12x+5
+0 <= x <= 10.
+m(x) = 5x+9
+-10 <= x <= 30.
+m(x)
+-10 < x < 30
+(-10, -41)
+(30, 159).
+-41
+x = -10.
+159
+x = 30
+n(x) = 42
+0 <= x <= 10.
+f(x) = (x-3)exp(-0.02x)
+0 <= x <= 100.
+f'(x) = 0
+x = 52.95
+f
+0 < x < 52.95.
+f
+52.95 < x < 100
+x = 52.95
+17.32
+(0, -3)
+(100, 13.13).
+x
+f(x)
+-3
+x = 0.
+17.32
+x = 52.95
+g(x) = (x^3-9x)exp(-0.1x)
+0 <= x <= 100.
+h(x) = 100//x+5x
+1 <= x <= 50.
+f'(x) = 0
+x = 4.47
+h
+1 < x < 4.47.
+h
+4.47 < x < 50
+x = 4.47
+44.72
+(1, 105)
+(50, 252).
+x
+h(x)
+44.73
+x = 4.47.
+252
+x = 50
+k(x) = 75//x+3x^2
+1 <= x <= 50.
+"Price"(q) = 300-0.5q.
+["Price"(q), "<mi//>"=300-0.5q], ["Cost"(q), "<mi//>"=10q+7,500.]
+["Profit"(q), "<mi//>"="Revenue"(q)-"Cost"(q)], [\ , "<mi//>"=300q-0.5q^2-10q-7500], [\ , "<mi//>"=-0.5q^2+290q-7500.]
+["Price"(q)=300-0.5q, "<mi//>">0], [-0.5q, "<mi//>">-300], [q, "<mi//>"<600]
+"Profit", "Profit"'
+"Cost"(q) = 1000+3q
+"Price"(q) = 500-3q.
+"Cost"(q) = 1000+2q+.0001q^2
+"Price"(q) = 100//(1+.01q).
+["Profit"(q), "<mi//>"="Revenue"(q)-"Cost"(q)], [\ , "<mi//>"=q**100//(1+.01q)-(1000+2q+.0001q^2).]
+q > -100,
+q
+q.
+0 < q < 1000,
+q = 600.
+q = 588
+"Cost"(q) = 10000+10q
+"Price"(q) = 100//sqrt(1+.01q).
+"Cost"(q) = 10000+10q+20000//(1+.1q).
+0 <= q <= 150
+"Cost"(q) = 10000(0.8)^(.1q)+.1q^2.
+"Annual""Expense"(t) = ("Purchase""Price")//t+"Repair""Factor"**t^r,
+r
+r = 1.
+"Annual""Expense"(t) = 600//t+50**t^1 = 600//t+50t.
+t = 0.
+1 <= t <= 10.
+"Annual""Expense"(t) = ("Purchase""Price"**(1-0.2t))//t+"Repair""Factor"**t^r.
+r = 1.
+"Sales"(t) = 10000t^2 exp(-t^2//16).
+1 <= t <= 12.
+t = 4.
+q
+y
+("Widgets Produced") = 6.00026**("Hours Worked")
+("Widgets Produced") = 5.6975**("Hours Worked")+12.54.
+-1500
+y = 15108x+891.8.
+y = 2.3485x+12855.
+y = -0.0006x^2+10.694x-11586
+x = 15000
+y = 2.3485x+12855
+x = 15000
+y = -0.0006x^2+10.694x-11586,
+y = 934.78e^(0.1459x).
+x = 19.
+"Sales"("time") = "MarketCap"//(1+"adjustment"**exp(-"rate"**"time")).
+"Sales"("size") = "MaxPerSize"**exp(-(( ("Size"-"Mean")/("StandardDeviation") )^2)).
+x = 10.
+"Mean" = 10.
+"Sales"(x) = "MaxPerSize"**e^(-(( (x-10)/("STDev") )^2)),
+x = 10
+"Sales"(10) = "MaxPerSize",
+"MaxPerSize" = 20, 000,
+"Sales"(x) = 20,000**e^(-(( (x-10)/("STDev") )^2)).
+x = 11,
+12825 = 20,000**e^((( (-1)/("STDev") )^2)).
+e^( (-1)/("STDev"^2) ) = 12825/2000.
+(-)/("STDev"^2) = ln(12825/20000)
+"STDev" = sqrt((-1//ln(12825//20000))) = 1.5002
+"STDev" = 1.5002
+y
+y
+q
+q
+q
+y = f(x),
+mf(a+1),
+f(x)
+x = a+1,
+mf
+f.
+"linear"f_a(x)
+f(x)
+x = a
+x = a+1.
+"linear"f_a(x) = f(a)+mf(a+1)**(x-a).
+y = f(x),
+f'(a),
+f(x)
+x = a,
+"Linear"f_a(x) = f(a)+f'(a)**(x-a).
+"discrete linear profit"_a(x) = "Profit"(a)+"Marginal""Profit"(a+1)**(x-a).
+["discrete linear profit"_(10000)(x), "<mi//>"=487253+45**(x-10000)], ["discrete linear profit"_(10000)(10013), "<mi//>"=487253+45**(13)=487838.]
+f(x) = sqrt(x)
+x_0 = 100
+["Linear"f(x), "<mi//>"=f(100)+f'(100)(x-100)], [\ , "<mi//>"=10+(0.05)(x-100).]
+f(x) = 100//x
+x_0 = 400
+["Linear"f(x), "<mi//>"=f(400)+f'(400)(x-400)], [\ , "<mi//>"=.25+(-0.000625)(x-400).]
+f(r) = exp(r)
+r
+f(r) = exp(r)
+r_0 = 0
+["Linear"f(x), "<mi//>"=f(0)+f'(0)(r-0)], [\ , "<mi//>"=1+(1)(r).]
+Delta x,
+exp(r) ~~ 1+r
+0 <= r < 0.15.
+f(x),
+f(x)
+a
+f(a)+mf(a+1)**(x-a)
+mf(a+1)
+f(x(
+a
+a+1.
+f(x),
+f(x)
+a
+f(a)+f'(a)**(x-a)
+f'(a)
+f(x(
+a
+x_0:
+x_1.
+x_0 = 10,
+f(10) = 50,
+mf(11) = 6,
+x_1 = 15.
+[f(x), "<mi//>"~~f(10)+mf(11)**(x-10)], [f(x), "<mi//>"~~50+6**(x-10).]
+f(15) ~~ 50+6**(15-10) = 50+30 = 80.
+x_0 = 15,
+"Profit"(15) = 50,
+"Marginal""Profit"(16) = 2,
+x_1 = 6.
+x_0 = 20,
+f(19) = 191,
+f(20) = 200,
+f(21) = 210,
+x_1 = 28.
+f(x) ~~ f(20)+mf(21)**(x-20).
+mf(21).
+[mf(21), "<mi//>"=f(21)-f(20)=210-200=10], [f(x), "<mi//>"~~200+10**(x-20).]
+f(28) ~~ 200+10**(28-20) = 200+80 = 280.
+x_0 = 50,
+"Revenue"(49) = 1007,
+"Revenue"(50) = 1000,
+"Revenue"(51) = 994,
+x_1 = 45.
+x_0 = 100,
+cost(99) = 3740,
+cost(100) = 3743,
+cost(101) = 3754,
+x_1 = 112.
+"Cost"(x) ~~ "Cost"(100)+"Marginal""Cost"(101)**(x-100).
+"Marginal""Cost"(101)
+["Marginal""Cost"(101)="Cost"(101)-"Cost"(100)=3754-3743=11], [cost(x)~~3743+11**(x-100).]
+"Cost"(112) ~~ 3743+11**(112-100) = 3743+132 = 3875.
+x_0:
+x_0.
+x_1.
+x_1
+f(x) = ln(x),
+x_0 = 100,
+x_1 = 105.
+g(x) = sqrt(x),
+x_0 = 81
+x_1 = 85.
+g(x) ~~ g(81)+g'(81)**(x-81).
+g(81) = sqrt(81) = 9
+g'(81) ~~ (g(81+.001)-g(81-.001))/0.002 = (sqrt(81.001)-sqrt(80.999))/0.002 = .056.
+g(x) ~~ 9+0.056**(x-81).
+x_1 = 85
+g(85)//"approx"9+0.056**(85-81) = 9+0.056**4 = 9+0.23 = 9.23.
+sqrt(85) = 9.22,
+|"real value"-"approximation"| = |9.22-9.23| = |-0.01| = 0.01.
+"Profit"(x) = -x^2//10+3000x-7862,
+x_0 = 2000
+x_1 = 2050.
+"Revenue"(x) = x**ln(x),
+x_0 = 3000
+x_1 = 3100.
+"Revenue"(x) ~~ "Revenue"(3000)+"Revenue"'(3000)**(x-3000).
+"Revenue"(3000) ~~ 24019
+"Revenue"'(3000) ~~ ("Revenue"(3000.001)-"Revenue"(2999.999))/0.002 = 9.00636.
+"Revenue"(x) ~~ 24019+9.00636**(x-3000).
+x_1 = 3100
+"Revenue"(3100)//"approx"24019+9.00636**(3100-3000) = 24919.7.
+"Revenue"(3100) = 24921.4,
+|"real value"-"approximation"| = |1.66485| = 1.66485.
+cost(x) = (x**ln(x))//2+x^2//300,
+x_0 = 3000
+x_1 = 3100.
+f(x) = (1+x)^r
+x_0 = 0.
+f(x)
+x_0
+r = 1//3, 1//2, -1
+2.
+x_1 = 0.1?
+f(x)
+x = 0
+f(0)+f'(0)(x).
+r
+f(0) = 1.
+r = 1//3, 1//2, -1
+f(x) ~~ 1+rx
+f(x) ~~ 1+r**x
+q
+f(x)
+-oo < x < oo
+f(x) >= 0
+int_(-oo)^ oo f(x)dx = 1.
+f(x) = 1/(sigma sqrt(2 pi)) exp( (-(x-mu)^2)/(2 sigma^2) )
+sigma
+mu
+f(x) = 1/(3sqrt(2 pi)) exp( (-(x-70)^2)/(2**3^2) ).
+f(x),
+"CDFf"(x),
+(-oo, x].
+"CDFf"(x),
+f(x),
+int_(-oo)^x f(t)dt.
+1/(3sqrt(2 pi)) exp( (-(x-70)^2)/(2**3^3) ).
+100000 int_(72)^(84) 1/(3sqrt(2 pi)) exp( (-(x-70)^2)/(2**3^2) )dx.
+["low bound in SD", "<mi//>"=("low bound"-"mean")//("SD")=(72-70)//3=2//3], ["upper bound in SD", "<mi//>"=("upper bound"-"mean")//("SD")=(84-70)//3=14//3.]
+100000 int_(2//3)^(14//3) 1/(sqrt(2 pi)) exp(-x^2//2)dx.
+100000 int_(2//3)^(14//3) 1/(sqrt(2 pi)) exp(-x^2//2)dx.
+x,
+100000 int_(72)^(84) 1/(3sqrt(2 pi)) exp( (-(x-70)^2)/(2**3^2) )dx
+-7
+-oo.
+int_(-oo)^a SND(x)dx = int_(-oo)^0 SND(x)dx+int_0^a SND(x)dx = .5+int_0^a SND(x)dx.
+-4//2.75
+-oo.
+C.
+"pairs size 9" = 10000 int_(8.75)^(9.25) 1/(1.5sqrt(2 pi)) e^(( (-(x-9)^2)/(2**1.5^2) ))dx
+10000 int_(8.75)^(9.25) 1/(1.5sqrt(2 pi)) e^(( (-(x-9)^2)/(2**1.5^2) ))dx = 1062.
+"size 10 dresses" = 5000 int_9^(11) 1/(3sqrt(2 pi)) e^(( (-(x-14)^2)/(2**3^2) ))dx
+5000 int_5^7 1/(3sqrt(2 pi)) e^(( (-(x-14)^2)/(2**3^2) ))dx = 43
+5000 int_9^(11) 1/(3sqrt(2 pi)) e^(( (-(x-14)^2)/(2**3^2) ))dx = 555
+"pecentage fit" = 100 int_(20)^(25) 1/(0.85sqrt(2 pi)) e^(( (-(x-22.1)^2)/(2**0.85^2) ))dx = 99.29
+"size 8 caps" = 1000 int_(24.625)^(25.375) 1/(0.85sqrt(2 pi)) e^(( (-(x-22.1)^2)/(2**0.85^2) ))dx = 1.42
+"pecentage fit" = 100 int_0^(17.2) 1/(1sqrt(2 pi)) e^(( (-(x-17.9)^2)/(2**1^2) ))dx = 24.196
+"FailureDensity"(x) = (3//5)(x//5)^2 exp(-(x//5)^3).
+q
+q
+q
+(1, 0), (3, 5), (6, 5)
+"predicted"(x) = x//2+1.
+(x_i, y_i),
+(x_i, "predicted"(x_i)),
+(1, 1.5), (3, 2.5), (6, 4).
+3//2, 3//2, 1.
+9//4+9//4+1 = 11//2.
+y = 2x+1.
+"error"
+"error"^2
+P1
+2
+1
+m**2+b
+m**2+b-1
+(m**2+b-1)^2
+(m**8+b-15)^2
+"SumErrorSq"(m, b) = 84m^2+28mb+3b^2-62b-364m+451.
+m
+b.
+["SumErrorSq"_m(m,b), "<mi//>"=168m+28b-364], ["SumErrorSq"_b(m,b), "<mi//>"=28m+6b-62.]
+m = 2
+b = 1.
+"2010population" = 1.096**"2000population"+98,154.
+"TotalValue"("time") = "CashAmount"+"DepositAmount"**"rate"^("time").
+"TotalValue"("time") = "CashAmount"+"DepositAmount"**"rate"^("time").
+"CashAmount" = $997.76,
+"DepositAmount" = $9, 005.51,
+"rate" = 1.05.
+y
+"AvailableTrees"("time") = "Capacity"//(1+C**e^((-"rate"**"time")).
+"Capacity" = 14996,
+C = 99.93,
+"rate" = 0.200.
+y = mx+b,
+y = alog(x)+b,
+y = ax^b,
+y = ae^(bx).
+y = 2.5x+1.
+m = 2
+b = 5
+m
+b
+y = 2.5x+1.
+m
+b
+"predicted\ "y = mx+b.
+m
+b?
+(-3, -2)
+(3, 10)
+m ~~ (10-(-2))//(3-(-3)) = 12//6 = 2.
+y
+b ~~ 7.5.
+m = 2
+b = 6.
+"Amount"("time") = "InitialAmount"**"rate"^("time").
+y
+> 1.
+"rate" = 1
+r = 1.05.
+"Amount"("time") = 5, 013.11**(1.06)^("time").
+y = 5001e^(0.0583**"time").
+"Amount"("time") = "CashAmount"+"InvestmentAmount"**"rate"^("time").
+"Amount"("time") = "Amount"_1+"Return"_1**"time"+"Amount"_2**"rate"_2^("time").
+"Amount"_1+"Return"_1**|"time"
+"rate" = 1.05.
+"Amount"_2 = 10,000-3, 317.59 = 6, 682.41,
+"Amount"("time") = $3, 317.59+$163.19**"time"+$6, 682.41**(1.07)^("time").
+"Amount"("time") = "Amount"_1**"rate"_1^("time")+"Amount"_2**"rate"2^("time").
+q
+y = ax^2+bx+c.
+"Revenue" = "Price"**"Quantity" = p**q
+"Price" = mq+b.
+"Revenue" = (mq+b)**q = mq^2+bq
+m > 0,
+m < 0,
+y = ax^2+bx+c
+x^2,
+a,
+a
+a
+"roots or zeroes" = (-b+-sqrt(b^2-4ac))/(2a) .
+x = -b//(2a.).
+b^2-4ac > 0,
+b^2-4ac = 0,
+b^2-4ac < 0,
+x
+a > 0
+x
+a < 0
+f(x) = a_n x^n+cdots+a_1 x+a_0.
+n-1.
+f(t) = p**e^t.
+e^t
+exp(t).
+f(t) = p**e^(rt)
+f(t) = p**exp(rt)
+P
+r
+A
+t
+A = Pe^(rt).
+r
+t
+"Future""Value":FV = PV**(1+r)^t
+e
+f(t) = p**e^(rt)
+f(t) = p**exp(rt)
+r
+f(t) = p**R^t,
+R
+f(t) = p**(1+r)^t.
+R = e^r
+R
+r
+FV = PV**(1+r)^t.
+FV = 2000**(1+r)^(10) = 10,000.
+r.
+(1+r)^(10) = 5.
+1+r = 5^(1'\\x002044'10),
+r = 5^(1//10)-1 = 0.1746.
+FV = 2000**(1.1746)^t.
+r,
+M,
+f(x) = M/(1+ae^(-rx)) .
+f(x) = M+A**sin(2 pi**(x-"shift")//"period"),
+M
+A
+x = 0.
+sin(x)
+cos(x)
+f(x) = ae^(-( ((x-m))/s)^2)
+x = m.
+x = m,
+f(x) = ae^(( (-(m-m))/s)^2) = ae^0 = a**1 = a,
+a.
+f(x)
+1//x.
+f(x) = a**ln(x)+b
+f(x) = a**ln(Bx).
+y
+x,
+x
+y.
+f(x)
+1//x.
+f(x) = ax+b,
+a
+b.
+x
+-b//a,
+x
+a = -1
+b
+f(x) = ax+b,
+y
+y
+y
+b,
+b > 0.
+a
+a < 0.
+f(x) = ax^2+bx+c
+x
+f(x) = ax^2+bx+c,
+x = 5?
+x = (-b+-sqrt(b^2-4ac))/(2a) .
+x = (-b)/(2a) .
+x = 5
+(-b)/(2a) = 5.
+x = 5
+b = -10
+a = 1.
+f(x) = a_n x^n+cdots+a_1 x+a_0,
+f(x) = P**exp(rx),
+f(0) = 100,
+f(0) = P**exp(0) = P,
+f(0) = 100
+P = 100.
+f
+x
+r
+f(x) = P**exp(-rx)+b,
+f(x)
+x
+f(0) = 1,
+f(10)
+9?
+f(x) = M/(1+aexp(-r**t)) ,
+f(x)
+10
+x
+f(0) = 1,
+f(10)
+9?
+f(x)
+10
+x
+-r > 0,
+aexp(-r**x)
+x
+f
+0,
+f
+10.
+-r < 0.
+-r < 0,
+exp(-r**x)
+0
+x.
+M.
+M = 10.
+f(0) = 1.
+x = 0
+f(x) = M//(1+aexp(0)) = M//(1+a) = 10//(1+a) = 1,
+a = 9.
+f(10)
+9.
+M = 10
+a = 9
+f(10) = 10//(1+9exp(-r**10)) > 9
+1+9exp(-r**10) < 10//9
+exp(-r**10) < 1//81.
+r > -1//10ln(1//81) = 0.44
+f(x) = M+Asin(2 pi(x+"shift")//"period"),
+x
+f(x) = aexp(-( (x-m)/s)^2),
+(7, 20),
+f(4)
+(x-m)/s = 0.
+x = 7,
+m = 7
+m = 7,
+f(7) = aexp(-( (7-7)/s)^2) = aexp(0) = a
+f(7) = 20,
+a = 20.
+f(x) = 20exp(-( (x-7)/s)^2).
+f(4)
+1
+2,
+f(4) = 20exp(-( (4-7)/s)^2)
+1
+2.
+s
+1 < 20exp(-( (4-7)/s)^2) < 2
+1//20 < exp(-( (4-7)/s)^2) < 1//10
+ln(1//20) < (-( (4-7)/s)^2) < ln(1//10)
+ln(1//20) < (-9)/(s^2) < ln(1//10)
+2.3026 < 9/(s^2) < 2.996
+s^2 > 9/2.996
+s^2 < 9/2.3026.
+1.734 < s < 1.977.
+f(x) = aexp(-( (x-m)/s)^2),
+(7, 20),
+f(1)
+f(x) = ax^b,
+f(1) = 5
+f(3) = 1?
+f(1) = 5
+a1^b = a = 5.
+f(3) = 1
+ax^b = 5**3^b = 1
+3^b = 0.2
+ln(3^b) = ln(0.2).
+bln(3) = ln(0.2)
+b = ln(0.2)//ln(3) ~~ -1.465.
+f(x) = a//x,
+f(1) < 0
+f(3) = -5?
+f(x) = aln(x)
+f(e) = 3?
+f(e) = aln(e) = a(1) = a,
+a = 3
+"Sales" = m**"Price"+b.
+FV = PV**(1+r)^t
+FV
+2**PV
+t.
+"Amount of metal" = K**("Volume")^(3//2).
+"Volume"
+K
+"Amount of Metal"
+f(x) = M//(1+ae^(-rx)).
+q
+f(x) = x^2
+g(x) = x^5
+[-10, 10],
+g(x)
+f(x).
+q
+f(x) = y,
+x
+y.
+1/(x^4) = 0.
+q
+-3^2,
+-(3^2)
+-9,
+(-3)^2
+e,
+e
+e
+e^x
+x,
+y
+z
+-6
+q
+f(x)
+f(x)
+f(x)
+x
+"Marginal"f(x+1) = f(x+1)-f(x).
+x+1
+x.
+x,
+"Marginal""Cost"(x+1)
+"Cost"(x)
+"Cost"(x+1):
+"Marginal""Cost"(x+1) = "Cost"(x+1)-"Cost"(x).
+"Marginal""Revenue"(x+1)
+"Revenue"(x)
+"Revenue"(x+1):
+"Marginal""Revenue"(x+1) = "Revenue"(x+1)-"Revenue"(x).
+"Marginal""Profit"(x+1)
+"Profit"(x)
+"Profit"(x+1):
+"Marginal""Profit"(x+1) = "Profit"(x+1)-"Profit"(x).
+["Cost"(q), "<mi//>"=40+3q+q^2//10], ["Demand""Price"(q), "<mi//>"=30-q//2.]
+["Revenue"(q), "<mi//>"=("Demand""Price"(q))**q], ["Profit"(q), "<mi//>"="Revenue"(q)-"Cost"(q).]
+["Marginal""Cost"(11), "<mi//>"="Cost"(11)-"Cost"(10)=85.1-80=5.1], ["Marginal""Revenue"(11), "<mi//>"="Revenue"(11)-"Revenue"(10)=269.5-250=19.5], ["Marginal""Profit"(11), "<mi//>"="Profit"(11)-"Profit"(10)=184.4-170=14.4], [\ , \ ], ["Marginal""Cost"(26), "<mi//>"="Cost"(26)-"Cost"(25)=185.6-177.5=8.1], ["Marginal""Revenue"(26), "<mi//>"="Revenue"(26)-"Revenue"(25)=442-437.5=4.5], ["Marginal""Profit"(26), "<mi//>"="Profit"(26)-"Profit"(25)=256.4-260=-3.6.]
+"Cost"(0).
+"Cost"(0) = 0,
+"Cost"(0)
+"Cost"(0) = 40
+"Profit"(q) = -q^2//20+100q-1000
+-(q^2)
+"Profit"(q)
+"Profit"(q+1)
+"Predicted""Profit"(x).
+"Predicted""Profit"(x+1).
+"Marginal""Profit"(x+1).
+x = 80.
+x
+x = 80,
+Mf(x+1),
+f(x),
+f(x)
+f(x+1).
+f(x).
+f(x)
+x
+a
+b
+(f(b)-f(a))/(b-a) .
+["Monthly Rate of Change", "<mi//>"= ("Sales"(25)-"Sales"(13))/(25-13) ], [\ , "<mi//>"= (1298-1176)/(25-13) =122/12~~10.]
+"Revenue"(q) = -0.2q^2+20q-5
+"Revenue"(q+1) = -0.2(q+1)^2+20(q+1)-5.
+q
+q+1.
+q+1
+q.
+"Revenue"(q+1)
+"Revenue"(q).
+"Revenue"(q),
+"Revenue"(q+0.001),
+"Revenue"(q-0.001).
+f(x)
+f(x)
+x
+"Revenue"(q) = 5q,
+["Marginal""Revenue"(10), "<mi//>"="Revenue"(10)-"Revenue"(9)], [\ , "<mi//>"=50-45=5.]
+"Profit"(q) = -100+5q-0.01q^2,
+"Cost"(q) = 100+7q,
+["Marginal""Cost"(30), "<mi//>"="Cost"(30)-"Cost"(29)], [\ , "<mi//>"=310-303=7]
+"Revenue"(q) = -500+7q-0.01sqrt(q^3),
+"Cost"(q)
+"Marginal""Cost"(q+1) = "Cost"(q+1)-"Cost"(q)
+"Marginal""Cost"(q+1) = "Cost"(q+1)-"Cost"(q),
+cost(q+1) = cost(q).
+"Revenue"(q)
+m,
+"Cost"(q) = 5000+23q.
+"Marginal""Cost"(q+1) = "Cost"(q+1)-"Cost"(q).
+"Marginal""Cost"(q) = 23
+"Revenue"(q) = 16q.
+"Revenue"(q) = -0.3q^2+10q-15.
+"Marginal""Revenue"(q+1) = "Revenue"(q+1)-"Revenue"(q)
+"Marginal""Revenue"(q+1) = -0.6q+9.7
+q
+q
+"Profit"(q) = -2q^2+100q-500.
+"Cost"(q) = q^3-4.5q^2+60q+100.
+"Marginal""Cost"(q+1) = "Cost"(q+1)-"Cost"(q).
+"Marginal""Cost"(q) = 3q^2-6q+56.5
+"value"(q) = 100(0.9)^q.
+"Profit"(q)
+y = -0.0297x^2+8.26x+227.96
+"Marginal""Profit"(x+1) = "Profit"(x+1)-"Profit"(x),
+q, "Profit"(q), "Profit"(q-1)
+"Marginal""Profit"(q).
+"Profit"(q)
+"Resale""Value"(q)
+"Resale""Value"(x) = 9836e^(-0.068x).
+"Retirement""Balance"(q)
+"Revenue"(t) = 300+5t+30sin(t//6**pi()).
+"Average rate of change" = ("Revenue"(13)-"Revenue"(1))/(13-1) = (360-300)/12 = 5.
+q
+q
+"slope of supply curve" = ("change in price")/("change in quantity supplied") = (Delta p)/(Delta q) > 0.
+"slope of demand curve" = ("change in price")/("change in quantity demanded") = (Delta p)/(Delta q) < 0.
+q
+"Supply""Price" = $6+q/100.
+"Demand""Price" = $18- (2q)/100.
+0 = $12- (3q)/100.
+q = 400.
+["Supply""Price", "<mi//>"=0.005**"Quantity"+10], [\ ], ["Dprice", "<mi//>"=-0.01**"Quantity"+20.]
+["Supply""Price", "<mi//>"=.0032**"Quantity"+3.44], ["Demand""Price", "<mi//>"=-0.0010**"Quantity"+7.46.]
+q_0.
+"Supply""Price" = 3"Quantity"+10
+"Demand""Price" = -2"Quantity"+30,
+q_0 = 6.
+q_0 = 6
+q = 4
+q
+"supply"-"demand" = 0.
+p_s = 2q+20
+p_d = -q+200,
+q_0 = 40.
+"Supply""Price" = .2q+157.3
+"Demand""Price" = -0.01q+3468.9,
+q_0 = 6000.
+q = 6000
+q
+q = 12,000
+16,000.
+q = 16,000.
+q = 15770
+p_s = 0.0035q+23
+p_d = -0.0027q+463,
+q_0 = 46,798.
+p = -2q+100
+p = 3q-30,
+["demand:\ "p, "<mi//>"=-2q+100], ["supply:\ "p, "<mi//>"=3q-30.]
+[-2q+100>0, "\implies\ "q<50], [3q-30>0, "\implies\ "q>10.]
+q = 80
+["Supply""Price"(q), "<mi//>"=0.0006q+4.9045], ["Demand""Price"(q), "<mi//>"=-0.0007q+15.017.]
+q = 8352
+q = 8240,
+q = 8352
+q = 7984
+["Supply""Price", "<mi//>"=0.0012x+7.773], ["Demand""Price", "<mi//>"=-0.0005x+22.506.]
+q = 8666.5
+q
+q
+q
+Mf(q+1) = f(q+1)-f(q),
+f(q+1)
+f(q)
+Mf(q+1) = f(q+1)-f(q),
+q
+f(x+1)
+f(x).
+x.
+f(x)
+f(x),
+f(x)
+x = x_0,
+f(x),
+x = x_0,
+f'(x),
+f'(x_0) = lim_((Delta x->0)) (f(x_0+Delta x)-f(x_0))/(Delta x) ,
+lim_(x->a)f(x)
+f(x)
+x
+a.
+Delta
+Delta x
+f(x) = x^2.
+f'(1).
+f(x),
+f(x) = x^2
+x_0 = 1.
+Delta x
+x = x_0.
+(x_0, f(x_0))
+(x_0, f(x_0+Delta x))
+(f(x_0+Delta x)-f(x_0))/(Delta x) .
+x_0 = 1.
+Delta x = 1,
+Delta x.
+Delta x = 1,
+f(x)
+Delta x = 0.01,
+Delta x,
+Delta x
+\
+Delta x
+\
+\
+\
+\
+Delta x
+f'(1) = 2.
+Delta x.
+Delta x
+Delta x
+Delta x
+f'(1) = 2.
+Delta x
+Delta x
+Delta x = 0.001.
+f'(1) = 2.
+f'(x) ~~ (f(x+.001)-f(x-0.001))/.002.
+f(x) = |x|
+f(x) = x^((2//3))
+x = 0.
+f(x) = x^2-2x+1
+f(x)
+f'(x)?
+f(x)
+f'(x).
+x
+x
+x
+Delta x,
+f(x)
+f(x)
+f(x)
+f'(x) = 0.
+f(x) = x^3(x^2-36)
+f(x)
+f'(x)?
+f(x)
+f(x)
+f'(x)
+f'(x)
+x
+-5,
+0,
+5.
+x = -4.648,
+f(x)
+x = -4.648,
+x = -4.648.
+x = 0,
+f(x)
+f(x)
+f(x) = 2x^2+5x-7.
+R^2.
+R^2 = 1,
+"Marginal"f(x+1)
+f(x+1)-f(x),
+f(x),
+f(x),
+x = x_0
+f'(x_0),
+(x_0, f(x_0))
+f(x),
+f'(x),
+f'(x) = lim_(Delta x->0) (f(x+Delta x)-f(x))/(Delta x) .
+f(x),
+f'(x) ~~ (f(x+.001)-f(x-0.001))/.002.
+f'(x)
+(f(x+0.001)-f(x-0.001))//(0.002).
+f(x)
+f(x),
+f(x)
+f(x),
+f(x),
+f'(x)
+del\ x
+(f(x+del\ x)-f(x))//(del\ x).
+Delta x
+5**Delta x
+5**Delta x
+Delta x
+f'(x)
+"marginal"\ f(x+1).
+Delta x
+x
+f(x) = x^2+3
+x = 2.
+Delta x,
+f'(x) ~~ (f(x+0.001)-f(x-0.001))/0.002
+f'(x) ~~ (f(2+.001)-f(2-.001))/.002 = 4
+"Marginal"f(x+1) = f(x+1)-f(x).
+"Marginal"f(2+1) = f(3)-f(2) = (9+3)-(4+3) = 5.
+f(x) = (3x)^2-5
+x = -2.
+f(x) = 5(x-2)^2
+x = 3.5.
+["Marginal"f(4.5), "<mi//>"=f(4.5)-f(3.5)], [\ , "<mi//>"=5(2.5)^2-5(1.5)^2=5(6.25-2.25)=20.]
+f(x) = 7
+x = 5.
+f(x) = 7x-4
+x = 3.
+"Marginal"f(4) = f(4)-f(3) = 7.
+f(x) = x^3-5
+x = 2.
+f(x) = e^(2x)
+x = 1.
+"Marginal"\ f(2) = f(2)-f(1) = e^4-e^2 ~~ 47.21.
+f(x) = 2^x
+x = 3.
+f(x) = ln(x)
+x = 5.
+"Marginal"\ f(6) = f(6)-f(5) = ln(6)-ln(5) ~~ 0.18.
+f(x) = x^3-5
+x = 2.
+-10 < x < 10.
+f(x) = x^3-4x.
+x = -1.15
+x = 1.15.
+x = -1.15
+x = 1.15.
+f(x) = x^4-49x^2.
+f(x) = x^4-7x^3.
+x = 0
+x = 5.25.
+x = o.
+x = 5.25.
+f(x) = 5xe^(-x).
+f(x) = 8xe^(-x^2).
+x = -0.707
+x = 0.707.
+f(x) = 3x+5.
+f(x) = pi^2.
+f(x) = x^3-4x.
+f(x) = x^3-6x^2+3x.
+y = 3x^2-12x+3.
+f(x) = x^4-36x^2+x.
+f(x) = e^(3x).
+y = 3e^(3x).
+f(x) = ln(x).
+q
+int_a^b f(t)dt,
+y = f(t)
+t = a
+t = b,
+f(t) = c,
+int_a^b cdt = c(b-a) = cb-ca.
+F(x),
+y = f(t)
+t = 0
+t = x,
+F(x) = c**x.
+t
+f
+x
+F
+f
+t,
+f(t).
+F
+x,
+y = f(t)
+t = a
+t = x.
+f(t) = c.
+f(t) = c,
+c
+b-a.
+F(x) = c**x.
+int_a^b cdt = F(b)-F(a) = c**b-c**a = c(b-a).
+c
+b-a
+f(t) = c**t.
+f(t) = c**t,
+b
+c**b
+b.
+F(x) = c**x^2//2.
+a
+int_a^b c**tdt = F(b)-F(a) = (c**b^2)/2- (c**a^2)/2 = (c(b^2-a^2))/2.
+i
+x_i = a+i Delta x.
+"mid"_i = a+i Delta x-Delta x//2.
+f(x) = 6x,
+t
+f(t)
+f(mid_n)
+c//2
+f(t) = 6t^2.
+f(t).
+f(t) = c**t^2,
+F(x) = c**t^3//3.
+f(x) = 6x^3.
+F(x) = 1.5x^4.
+F(x),
+f(x),
+f(x).
+f(x)
+[a, b].
+F(x) = int_a^x f(t)dt.
+d/dx F(x) = f(x).
+f(x)
+[a, b].
+F(x)
+d/dx F(x) = f(x).
+int_a^b f(t)dt = F(b)-F(a).
+int_a^b f(t)dt,
+F(x)
+f(x),
+F(x)
+F(x) = int_a^x f(t)dt,
+d/dx F(x) = lim_(h->0) ((F(x+h)-F(x)))/h.
+h
+F(x+h)-F(x)
+f(x)
+h,
+F'(x) = f(x).
+y = x**(4-x)
+x
+f(x) = 4x-x^2
+f(x)
+F(x) = 2x^2-x^3//3.
+int_0^4 f(x)dx = F(4)-F(0) = (32-64/3)-(0) = 10 2/3.
+f(x) = x^2 e^(-x).
+F(x) = (x^2+2x+2)(-e^(-x))
+f(x).
+x
+F'(x) = (2x+2)(-e^(-x))+(x^2+2x+2)(e^(-x)) = x^2 e^(-x) = f(x).
+F(2)-F(0) = 10(-e^(-2))-2(e^0) = -2-10//e^2 = -3.3534.
+f(t) = 6t^2.
+6t^2 = d//dt(at^3+bt^2+ct+d) = 3at^2+2bt+c.
+a = 2
+b = c = 0.
+F(t) = 2t^3+d.
+F(0)
+t = 0
+t = 0,
+d = 0
+F(t) = 2t^3.
+f(x) = 6x^3.
+F(x) = 1.5x^4.
+F(x)
+f(x),
+f(x)
+[a, b].
+F(x)
+d/dx F(x) = f(x).
+F(x) = int_a^x d(t)\ dt = F(b)-f(a)
+f(x)
+[a, b].
+F(x) = int_a^x d(t)\ dt.
+d/dx F(x) = f(x).
+f(x) = 4x+5.
+F(x) = 2x^2+5x+7
+f(x)
+F(x).
+int_1^5 f(x)dx.
+int_1^5 f(x)dx,
+F'(x) = d/dx(2x^2+5x+7) = 4x+5
+int_1^5 f(x)dx = F(5)-F(1) = 82-14 = 68
+f(x) = 6x^2+3.
+F(x) = 2x^3+3x-2
+f(x)
+F(x).
+int_(-2)^4 f(x)dx.
+int_(-2)^4 f(x)dx,
+f(x) = 5//x.
+F(x) = ln(x^5)+9
+f(x)
+F(x).
+int_1^(20)f(x)dx.
+int_1^(20)f(x)dx,
+F'(x) = d/dx[ln(x^5)+9] = 1/(x^5) (5x^4)+0 = 5/x
+F'(x) = d/dx[ln(x^5)+9] = d/dx[5ln(x)+9] = 5 1/x+0 = 5/x.
+int_1^(20) 5/x dx = F(20)-F(1) = ln(20^5)+9-(ln(1)+9) = ln(20^5) = 14.98
+f(x) = (2x+3)^4.
+F(x) = 0.1(2x+3)^5
+f(x)
+F(x).
+int_(-1)^1 f(x)dx.
+int_(-1)^1 f(x)dx,
+f(x) = "xexp"(-0.05x).
+F(x) = -20(x+20)exp(-0.05x)+3
+f(x)
+F(x).
+int_0^(10)f(x)dx.
+int_0^(10)f(x)dx,
+[F'(x), "<mi//>"=d/(dx) [-20(x+20)e^(-0.05x)+3]], [\ , "<mi//>"=-20[(1)e^(-0.05x)+(x+20)e^(-0.05x)(-0.05)]], [\ , "<mi//>"=[(-20)e^(-0.05x)+(x+20)e^(-0.05x)]], [\ , "<mi//>"=e^(-0.05x)[(-20)+(x+20)]], [\ , "<mi//>"=e^(-0.05x)x.]
+int_0^(10)xe^(-0.05x)dx = F(10)-F(0) = -360.92-(-397) = 36.08
+F(x)
+f(x),
+F(x)+7
+f(x).
+f(x) = -x^2+6x-2
+int_0^3 f(x)dx
+int_(-2)^4(x)dx
+F(x) = ax^3+bx^2+cx+d,
+f(x) = -x^2+6x-2.
+F(x) = -1//3x^3+3x^2-2x+0
+f(x).
+F'(x) = 3ax^2+2bx+c,
+3a = -1,
+2b = 6,
+c = -2.
+a = -1//3,
+b = 3,
+c = -2.
+d,
+F(x) = ax^3+bx^2+cx+d = -1//3x^3+3x^2-2x.
+int_0^3 f(x)dx = F(3)-F(0) = (-9+27-6)-(0) = 12
+[int_(-2)^4(x)dx, "<mi//>"=F(4)-F(-2)], [\ , "<mi//>"=(-64//3+48-8)-(8//3+12+4)=-24+40-16=0.]
+f(x) = x^3+9x^2+7x-3.
+int_1^5 f(x)dx.
+f(x) = e^(2x).
+0 <= x <= 2,
+f(x).
+F(x) = 0.1618e^2.739x.
+e^(2x)
+2e^(2x),
+F(x) = Ae^(2x)+B.
+f(x).
+F'(x) = Ae^2 x(2)+0 = 2Ae^2 x+0 = e^2 x.
+F(x) = 1//2e^2 x+B.
+F(0) = .5+B,
+"Area"(0) = 0,
+f(x) = e^(-5x).
+0 <= x <= 2,
+f(x).
+f(x) = 1//x.
+1 <= x <= 5,
+f(x).
+y = 0.9913ln(x)+0.0167.
+F(x) = ln(x).
+F(x) = ln(x)+"constant".
+F'(x) = d/dx ln(x)+d/dx "constant" = 1/x.
+q
+f(x) = a,
+f'(x) = 0.
+f(x) = ax,
+f'(x) = a.
+f(x) = a**x^n,
+f'(x) = a**n**x^(n-1),
+f(x) = e^x,
+f'(x) = e^x.
+f(x) = a^x,
+f'(x) = a^x ln(a).
+f(x) = ln(x),
+f'(x) = 1//x
+f(x) = x+2.
+f(x) = 5x^3+3x^2+1,
+g(x) = (x+2)1.03^x,
+F(x) = ln(x)//(x+3),
+c**f(x)
+c**f'(x).
+[c**f(x)]' = c**f'(x).
+f(x) = 2e^x
+g(x) = 500(1.05)^x
+h(x) = ln(x^7)
+f'(x) = 2[e^x]' = 2e^x.
+g'(x) = 500[(1.05)^x]' = 500(1.05)^x ln(1.05).
+h'(x) = [ln(x^7)]' = [7ln(x)]' = 7[ln(x)]' = 7//x.
+f(x)+-g(x)
+f'(x)+-g'(x).
+[f(x)+-g(x)]' = f'(x)+-g'(x).
+f(x) = 5x^3+3x^2-7
+g(x) = 100e^x-1000(1.03)^x
+h(x) = 5sqrt(x)+2//sqrt(x)-7x^(-3)
+f'(x) = [5x^3]'+[3x^2]'-[7]' = 15x^2+6x-0.
+g'(x) = 100[e^x]'-[1000(1.03)^x]' = 100e^x-1000(1.03)^x ln(1.03).
+[h'(x), "<mi//>"=5[x^(1//2)]'+2[x^(-1//2)]'-7[x^(-3)]'], [\ , "<mi//>"=5//2x^(-1//2)-x^(-3//2)+21x^(-4)], [\ , "<mi//>"=5/(2sqrt(x)) -1/(sqrt(x^3)) +21/(x^4) .]
+f(x)
+x_0,
+x_0,
+f(x)
+f(x) ~~ f'(x_0)(x-x_0)+f(x_0).
+c**(f'(x_0)(x-x_0)+f(x_0)) = (cf'(x_0))(x-x_0)+(cf(x_0)).
+[(f'(x_0)(x-x_0)+f(x_0)), "<mi//>"+-(g'(x_0)(x-x_0)+g(x_0))], [\ , "<mi//>"=(f'(x_0)+-g'(x_0))(x-x_0)+(f(x_0)+-g(x_0)).]
+f(x)**g(x)
+f'(x)g(x)+f(x)g'(x).
+[f(x)**g(x)]' = f'(x)**g(x)+f(x)**g'(x).
+f(x) = x
+g(x) = x^2.
+f(x)**g(x).
+f(x)**g(x) = x^3.
+(f(x)**g(x))' = (x^3)' = 3x^2.
+f'(x) = 1,
+g'(x) = 2x.
+[(f(x)**g(x))', "<mi//>"=f'(x)**g(x)+f(x)**g'(x)], [\ , "<mi//>"=(1)**(x^2)+(x)**(2x)=3x^2.]
+2x
+f(x) = (6x+100)**(1.06)^x.
+g(x) = sqrt(x)ln(x).
+[f'(x), "<mi//>"=(6x+100)'**(1.06)^x+(6x+100)**((1.06)^x)'], [\ , "<mi//>"=(6)**(1.06)^x+(6x+100)**(1.06)^x ln(1.06).]
+g'(x) = [sqrt(x)]'ln(x)+sqrt(x)[ln(x)]' = [1//(2sqrt(x))]ln(x)+sqrt(x)[1//x].
+(ax+c)(bx+d) = abx^2+(ad+bc)x+cd.
+(ad+bc).
+(f'(x_0)(x-x_0)+f(x_0))**(g'(x_0)(x-x_0)+g(x_0)),
+f'(x_0)g(x_0)+f(x_0)g'(x_0).
+(f(x))/(g(x))
+(f'(x)g(x)-f(x)g'(x))/((g(x))^2) .
+[ (f(x))/(g(x)) ]' = (f'(x)**g(x)-f(x)**g'(x))/((g(x))^2) .
+f(x) = x^2
+g(x) = x.
+f(x)//g(x).
+f(x)//g(x) = x.
+(f(x)**g(x))' = (x)' = 1.
+f'(x) = 2x,
+g'(x) = 1.
+[(f(x)//g(x))', "<mi//>"= (f'(x)**g(x)-f(x)**g'(x))/((g(x))^2) ], [\ , "<mi//>"= ((2x)**(x)-(x^2)**(1))/(x^2) = (x^2)/(x^2) =1.]
+2x,
+f(x) = ((6x^2+100))//(x^3+x).
+g(x) = (1.07)^x//(3x+5).
+f'(x) = ( (6x^2+100)/(x^3+x) )' = ((12x)(x^3+x)-(6x^2+100)(3x^2+1))/((x^3+x)^2)
+g'(x) = ( (1.07^x)/(3x+5) )' = ((ln(1.07)1.07^x)(3x+5)-(1.07^x)(3))/((3x+5)^2)
+(a+cx)/(b+dx) = ((a+cx)(b-dx))/((b+dx)(b-dx)) = (ab+(cb-ad)x-cdx^2)/(b^2-d^2 x^2) .
+x
+x^2
+((cb-ad))/(b^2) .
+(f'(x_0)(x-x_0)+f(x_0))/(g'(x_0)(x-x_0)+g(x_0)) ,
+(f'(x_0)g(x_0)-f(x_0)g'(x_0))/((g(x_0))^2) .
+f(x)//g(x)
+f'(x)//g'(x).
+f(x)+g(x)
+f'(x)+g'(x).
+f(x)**g(x)
+f'(x)**g'(x).
+f(x)**g(x)
+f'(x)**g(x)+f(x)**g'(x).
+f(x)//g(x)
+(f'(x)**g(x)-f(x)**g'(x))/((g(x)^2) .
+f(x)-g(x)
+f'(x)-g'(x).
+f(x)//g(x)
+(f(x)**g'(x)-f'(x)**g(x))/((g(x)^2) .
+c**f(x)
+c**f'(x).
+f(x) = 3x^5+7x^4+5x+9.
+f'(x) = 15x^4+28x^3+5.
+g(x) = 10x^(123)+19x^(50)-5x^4-2x^(-7).
+h(x) = 2x+3sqrt(x)-5root(3)(x).
+h(x) = 2x+3x^(1//2)-5x^(1//3)
+h'(x) = 2+3/2 x^(-1//2)-5/3 x^(-2//3) = 2+3/(2sqrt(x)) -5/(3root(3)(x^2)) .
+k(x) = e^x+8^x+pi^x-1.07^x.
+m(x) = (x^3+5x^2-7)(x^2-3).
+[m'(x), "<mi//>"=(x^3+5x^2-7)'(x^2-3)+(x^3+5x^2-7)(x^2-3)'], [\ , "<mi//>"=(3x^2+10x)(x^2-3)+(x^3+5x^2-7)(2x).]
+n(x) = (10x-9)(x^5+sqrt(x)).
+f(x) = e^x ln(x).
+f'(x) = (e^x)'ln(x)+e^x(ln(x))' = e^x ln(x)+e^x 1/x = e^x[ln(x)+1/x].
+f'(x) = e^x ln(x)+ (e^x)/x
+g(x) = 1.07^x(10x-15).
+h(x) = (ax+b)(cx+d)(ex+f).
+[h'(x), "<mi//>"=(ax+b)'((cx+d)(ex+f))+(ax+b)((cx+d)(ex+f))'], [\ , "<mi//>"=(ax+b)'(cx+d)(ex+f)+(ax+b)(cx+d)'(ex+f)+(ax+b)(cx+d)(ex+f)'], [\ , "<mi//>"=a(cx+d)(ex+f)+(ax+b)c(ex+f)+(ax+b)(cx+d)e.]
+k(x) = 1.04^x e^x.
+m(x) = ((x^2-5x))/((x^2+3)) .
+[m'(x), "<mi//>"= ((x^2-5x)'(x^2+3)-(x^2-5x)(x^2+3)')/((x^2+3)^2) ], [\ , "<mi//>"= ((2x-5)(x^2+3)-(x^2-5x)(2x))/((x^2+3)^2) .]
+m'(x) = (2x^3-5x^2+6x-15-(2x^3-10x^2))/((x^2+3)^2) = (-15x^2+6x-15)/((x^2+3)^2) .
+n(x) = ((x^2-5x+3))/(e^x) .
+f(x) = (ln(x)))/((2x+7)) .
+[f'(x), "<mi//>"= ((ln(x))'(2x+7)-(ln(x))(2x+7)')/((2x+7)^2) ], [\ , "<mi//>"= ((1//x)(2x+7)-(ln(x))(2))/((2x+7)^2) ], [\ , "<mi//>"=x/x((1//x)(2x+7)-(ln(x))(2))/((2x+7)^2) ], [\ , "<mi//>"= (2x+7-2xln(x))/(x(2x+7)^2) .]
+g(x) = ((x^3+2x+9))/(1.07^x) .
+h(x) = ((ax+b))/((cx+d)) .
+[h'(x), "<mi//>"= ((ax+b)'(cx+d)-(ax+b)(cx+d)')/((cx+d)^2) ], [\ , "<mi//>"= (a(cx+d)-(ax+b)c)/((cx+d)^2) = (acx+ad-(acx+bc))/((cx+d)^2) ], [\ , "<mi//>"= (ad-bc)/((cx+d)^2) .]
+k(x) = (((3x+5)(x^2+7)))/((x^2+2x)) .
+m(x) = (ln(x)(1.04^x))/(3x^2+7) .
+[m'(x), "<mi//>"= ((ln(x)(1.04^x))'(3x^2+7)-(ln(x)(1.04^x))(3x^2+7)')/((3x^2+7)^2) ], [\ , "<mi//>"= ((ln(x)'(1.04^x)+ln(x)(1.04^x)')(3x^2+7)-(ln(x)(1.04^x))(3x^2+7)')/((3x^2+7)^2) ], [\ , "<mi//>"= ((1/x(1.04^x)+ln(x)ln(1.04)(1.04^x))(3x^2+7)-(ln(x)(1.04^x))(6x))/((3x^2+7)^2) ]
+m(x) = (1.06^x e^x)/(1.08^x)
+h'(2),
+h(x) = f(x)**g(x).
+[h'(x), "<mi//>"=f'(x)**g(x)+f(x)**g'(x)], [h'(2), "<mi//>"=f'(2)**g(2)+f(2)**g'(2)], [\ , "<mi//>"=5**0+7**4=28.]
+h'(5),
+h(x) = f(x)-g(x).
+h'(7),
+h(x) = f(x)//g(x).
+[h'(x), "<mi//>"= (f'(x)g(x)-f(x)g'(x))/((g(x))^2) ], [h'(7), "<mi//>"= (f'(7)g(7)-f(7)g'(7))/((g(7))^2) ], [\ , "<mi//>"= (0**1-2**3)/((1)^2) =-6.]
+h'(4),
+h(x) = g(x)//f(x).
+"Profit"(q) = -q^2+300q-2500.
+"Profit"(q)
+"Profit"'(q) = -2q+300 = 0,
+q = 150.
+["Profit"(150), "<mi//>"=-150^2+300(150)-2500], [\ , "<mi//>"=-22,500+45,000-2500=20,000.]
+"Demand"(t) = 100t^2(0.8)^t,
+t
+"Cost"(q) = 3000+10q-0.02q^2,
+q <= 200.
+q = 200.
+q = 200,
+["Cost"(200), "<mi//>"=3000+10(200)-.02(200)^2], [=3000+2000-.02**40,000=4200.]
+"dcost"/(dq) = 10-.04q,
+q = 200
+"dcost"/(dq) = 10-.04(200) = 2.
+C-C_0 = m(q-q_0).
+C-4200 = 2(q-200),
+C = 2q+3800.
+"Value"(t) = .95^(-t)(3000+25t).
+t = 10.
+q
+q
+x_n
+x_n
+a = x_o,
+n
+x_n,
+f(x_n).
+f(x_n),
+q
+f(x) = sqrt(2x+7)
+f(x) = root(3)(2x+7)
+f(x) = x^4
+f(x) = -x^4
+f(x) = ln(x)
+e
+f(x) = log_(10)(x)
+f(x) = log_2(x)
+f(x) = 1.06^x
+f(x) = e^x
+f(x) = e^((-x^2))
+f(x) = |x|
+["Demand""Price"("Quantity"), "<mi//>"=1000**(0.9)^(("Quantity"//100))], ["Supply""Price"("Quantity"), "<mi//>"=200**(1.2)^(("Quantity"//100)).]
+["Cost"(q), "<mi//>"=-0.0028q^2+14.353q+968.13], ["Price"(q), "<mi//>"=286.02q^(-0.453).]
+["Revenue"(q), "<mi//>"=q**"Price"(q)=q286.02q^(-0.453)=286.02q^(0.547)], ["Profit"(q), "<mi//>"="Revenue"(q)-"Cost"(q)=286.02q^(0.547)+0.0028q^2-14.353q-968.13.]
+q
+q.
+2 < 1,
+-1.5
+-2.
+["Demand""Price"(q)=4-q//2], ["Supply""Price"(q)={[1q//2+1, q<=2], [1q//2+3, q>2]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>.]
+2+h
+h,
+e^x
+q_0.
+"Supply""Price" = 20**(1.1)^((q//10))
+"Demand""Price" = 50**(0.95)^((q//10)),
+q_0 = 10.
+q_0 = 10,
+q = 62.5
+"Price" = 10**(1.05)^((q//10))
+"Demand""Price" = 60**(0.96)^((q//10)),
+q_0 = 10.
+p_s = 5ln(q+10)
+p_d = 1000//(q+10)-2,
+q_0 = 40.
+q = 40
+q_0 = 40,
+q = 37
+"Supply""Price" = 10ln(q+2)
+"Demand""Price" = 60**(0.90)^((q//100)),
+q_0 = 6000.
+"Supply""Price"(q) = {[20**(1.1)^((q//10)), q<=50], [20**(1.1)^((q//10)), q>50]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+"Demand""Price"(q) = 50**(0.095)^((q//10)),
+q_0 = 40.
+q = 50.
+q_0 = 40,
+q = 60
+q = 70.
+q = 62.43.
+["Supply", "<mi//>"=0.0015x+9.7518], ["Demand", "<mi//>"=50.214e^((-0.0001x)).]
+f(x) = {[ln(2x), x<=50], [200exp(-x//10), x>50]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>.
+x = 50.
+f(x) = {[sqrt(2x+21), x<=50], [10sin(x//5), x>50]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>.
+y = 2x,
+"Cost" = {[10x, x<=9], [90+9(x-9), 10<=x<=49], [450+8(x49), x>=50]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+"Cost" = {[10x, x<=9], [9+9x, 10<=x<=49], [58+8x, x>=50]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>.
+f(x)
+(x-50)^2//25
+q_0.
+"Demand""Price" = 30**(0.95)^("Quantity"//10)
+"Cost" = 3"Quantity"+100,
+q_0 = 6.
+"Demand""Price" = 40**(0.90)^((q//10))
+"Cost" = 10q+200,
+q_0 = 10.
+["Revenue", "<mi//>"=q**40(0.90)^(q//10)], ["Profit", "<mi//>"=q**40(0.90)^(q//10)-10q-200.]
+["Demand""Price"(10), "<mi//>"=40**(0.90)^(10//10)=36], ["Cost"(10), "<mi//>"=10**10+200=300], ["Revenue"(10), "<mi//>"=q**40(0.90)^(10//10)=36], ["Profit", "<mi//>"=400(0.90)^(10//10)-300=60]
+q = 7.4.
+"Demand""Price" = -q//10+50
+"Cost" = -2(q//1000)^2+10q+1000,
+q_0 = 300.
+"Price" = 47**(0.96)^((q//11))
+"Cost" = -2(q//1000)^2+17q+1234,
+q_0 = 59.
+["Revenue", "<mi//>"=q**47(0.96)^(q//11)], ["Profit", "<mi//>"=q**47(0.96)^(q//11)+2(q/1000)^2-17q-1234]
+q = 60
+q_0 = 75.
+q_0 = 300.
+"Cost" = -0.0009x^2+99.864x+10050.
+"Demand""Price" = 199.78e^((-0.0003x)).
+["Revenue"=x**199.78e^((-0.0003x))], ["Profit"=x**199.78e^((-0.0003x))-(-0.0009x^2+99.864x+10050).]
+q_0 = 300.
+q = 107.27.
+q_0 = 800.
+"Demand""Price"(q) = {[100-q//10, q<=50], [95-q//20, q>50]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+"Cost"(q) = {[3000+50q, q<=100], [3000+47q, q>100]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>.
+q_0 = 200.
+["Revenue"(q)={[q**100-q^2//10, q<=50], [95q-q^2//20, q>50]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>], ["Profit"(q)={[q**100-q^2//10-50q-3000, q<=50], [95q-q^2//20-50q-3000, 50<q<=100], [95q-q^2//20-47q-3000, q>100]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>]
+q = 70.
+q = 72.5.
+"Demand""Price"(q) = {[200-0.05q, q<=50], [200-0.07q, q>50]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+"Cost"(q) = {[4000+40q, q<=100], [4000+37q, q>100]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+q_0 = 300.
+q
+y = x^2-6x
+-10 <= x <= 10.
+y = ax^2+bx+c,
+"xLow" <= x <= "xHigh",
+"xLow"
+"xHigh"
+y = x^2-6x
+-10 <= x <= 10
+x
+f(x).
+x
+-10
+-9,
+f(x)
+x
+f(x)
+x
+y = x^2-6x
+y = ax^2+bx+c
+-10 <= x <= 10.
+a,
+b,
+c
+a,
+b,
+c,
+a,
+b,
+c
+a,
+b,
+c,
+x.
+y = -x^2+3x+10,
+a,
+b,
+c.
+y = x^2-6x
+y = ax^2+bx+c
+-10 <= x <= 10,
+x.
+x
+0 <= x <= 5.
+(5-0)//20 = 0.25.
+f(x) = x-3,
+g(x) = (x^2-x)//10,
+h(x) = x^3-x.
+x
+g(x)
+h(x)
+x,
+g(x),
+h(x).
+g(x)
+h(x)
+y = g(x)
+h(x).
+h(x),
+g(x),
+f(x) = x^2-3x,
+x
+-5
+5,
+f(x) = x^2-5x,
+x
+g(x) = (x^2-5x)//(x^2+7x+10),
+x
+x
+h(x) = x^3+ax^2+bx+c
+x
+a,
+b,
+c
+a = -2,
+b = 1,
+c = -11.
+a,
+b
+c
+k(x) = (x^2+ax+b)//(x+c)
+a,
+b,
+c
+a = -5,
+b = 2,
+c = -11.
+h(x) = x^3-2x^2+x-11
+x
+a
+b
+a = -5
+b = 5.
+a
+b,
+a
+b
+k(x) = (x^2-5x+2)//(x-11)
+x
+a
+b,
+a = -5
+b = 5.
+f(x) = (x^2+7x+10)//(x^2-3x+2).
+f(x) = 2x+5
+g(x) = x^3-9x,
+h(x) = (x^3-9x)//(x^2+3x+35//16)
+k(x) = 2x^2+5,
+y
+f(x) = 2x+3
+g(x) = -2x+5,
+x
+f(x) = x^3-16x,
+x
+q
+q
+q
+q
+q

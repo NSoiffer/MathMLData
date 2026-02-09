@@ -1,0 +1,2742 @@
+H
+K
+G.
+G
+H
+K?
+G
+H
+K
+'\\x0027e8'H, K'\\x0027e9':=nnn_(J supe H uu K)J
+J
+G
+H
+K.
+J
+G
+H
+K,
+hk
+kh
+k in K
+h in H.
+H
+K
+G,
+HK:={hk'\\x002223'h in H, k in K}
+G,
+HK
+KH
+H
+K
+G.
+K
+G,
+H
+N_G(K),
+K.
+HK = KH
+G,
+G
+H
+K.
+HK = KH
+H
+K
+h in H, k in K,
+h'in H, k'in K
+hk = k'h'.
+HK.
+h, h'in H, k, k'in K,
+(hk)(h'k') = h''k''
+h''in H
+k''in K.
+(hk)(h'k') = h(h'h^('-1))k(h'k') = (hh')(h^('-1)kh')k' = h''k''
+h'' = hh'
+k'' = (h^('-1)kh')k',
+H sube N_G(K).
+h in H, k in K,
+(hk)^(-1) = h'k'
+h'in H
+k'in K.
+(hk)^(-1) = k^(-1)h^(-1) = (h^(-1)h)k^(-1)h^(-1) = h^(-1)(hk^(-1)h^(-1)) = h'k'.
+HK = HK,
+HK sube KH
+KH sube HK.
+[hk, "<mi//>"=hk(h^(-1)h)=(hkh^(-1))h=k'h], [kh, "<mi//>"=(hh^(-1))kh=h(h^(-1)kh)=hk'.]
+G = S_3,
+K = '\\x0027e8'(1\ 2\ 3)'\\x0027e9' = '\\x0027e8'(1\ 3\ 2)'\\x0027e9'
+H
+HK
+G;
+G = HK,
+R
+I
+J.
+I+J
+R
+I
+J.
+IJ,
+R
+ij
+i in I
+j in J.
+I nn J
+[I+J, "<mi//>"={i+j'\\x002223'i in I,j in J}], [IJ, "<mi//>"={sum_(k=1)^r i_k j_k'\\x002223'i_k in I,j_k in J}], [I nn J, "<mi//>"={k'\\x002223'k in I"\and\ "k in J}]
+IJ
+ij.
+R = ZZ
+I, J
+ZZ
+I = 12 ZZ
+J = 4 ZZ
+I = 12 ZZ
+J = 15 ZZ
+I = 12 ZZ
+J = 5 ZZ
+I+J, IJ,
+I nn J
+I+J = 4 ZZ;
+IJ = 48 ZZ;
+I nn J = 12 ZZ
+I+J = 3 ZZ;
+IJ = 180 ZZ;
+I nn J = 60 ZZ
+I+J = ZZ;
+IJ = 60 ZZ;
+I nn J = 60 ZZ
+R = ZZ
+I = m ZZ
+J = n ZZ
+I+J, IJ,
+I nn J
+m
+n.
+(I+J)*(I nn J) = IJ.
+(I+J)*(I nn J)
+ZZ?
+n xx n
+(n >= 2),
+bbb H,
+RR
+{1, i, j, k}
+ij = k = -ji
+i^2 = j^2 = k^2 = -1.
+ZZ,
+ZZ//n ZZ,
+ZZ,
+ZZ//n ZZ
+n
+X,
+S_X
+f:X -> X.
+S_X
+(f, g) |-> f@g,
+f@g(x) = f(g(x)).
+id_X:X -> X
+id_X(x) = x
+x in X.
+f in S_X
+f
+X
+|X| = n,
+X = {1, 2, ..., n}
+S_n
+S_X.
+|S_n| = n!.
+S_n
+n
+S_n
+S_1 = {id}
+S_2 = {id, sigma}
+sigma
+n >= 3,
+S_n
+sigma in S_(11)
+sigma = ([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], [5, 1, 3, 2, 7, 6, 4, 9, 8, 11, 10])
+sigma
+sigma
+k
+k
+tau in S_X,
+a_1, ..., a_k in X
+tau(a_i) = a_(i+1)"\for\ "1 <= i <= k, \ tau(a_k) = a_1, "\and\ " tau(x) = x"\for all other\ "x in X.
+tau
+tau = (a_1\ a_2\ cdots\ a_k).
+sigma = ([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], [5, 1, 3, 2, 7, 6, 4, 9, 8, 11, 10])
+sigma = ubrace((1\ 5\ 7\ 4\ 2))_(5-"cycle") ubrace((3)(6))_(1-"cycles") ubrace((8\ 9)(10\ 11))_(2-"cycles").
+(a_1\ ...\ a_r) = (a_2\ a_3\ ...a_r\ a_1) = (a_3\ a_4\ ..., \ a_r\ a_1\ a_2) = cdots
+sigma
+S_n
+G = '\\x0027e8'sigma'\\x0027e9'
+sigma.
+G
+X = {1, ..., n}
+(tau, k) |-> tau(k).
+X
+G*k = "Orbit of\ "(k) = {tau(k)'\\x002223'tau in'\\x0027e8'sigma'\\x0027e9'}.
+(k\ sigma(k)\ sigma^2(k)\ cdots\ sigma^(cc l-1)(k))
+cc l
+sigma^cc l(k) = k.
+'\\x0027e8'sigma'\\x0027e9'
+X
+S_n
+r
+sigma = (a_1\ a_2\ cdots\ a_r)
+r.
+sigma
+a_i
+a_(i+1)
+1 <= i <= r
+a_r
+a_1,
+sigma^j
+a_i
+a_(i+j)
+i+j
+r.
+sigma
+r.
+sigma in S_n
+sigma = sigma_1 cdots sigma_s.
+sigma
+sigma_i.
+m_j
+sigma_j,
+M = lcm{m_1, ..., m_s}.
+sigma^M = (sigma_1 cdots sigma_s)^M = sigma_1^M cdots sigma_s^M = 1
+m_j
+M.
+sigma
+M.
+N = |sigma|,
+sigma^N = (sigma_1 cdots sigma_s)^N = sigma_1^N cdots sigma_s^N = 1,
+sigma_1^(-N) = sigma_2^n cdots sigma_t^N.
+sigma_j
+sigma_1
+sigma_2, ..., sigma_s,
+N
+sigma_1^(-N) = 1 = sigma_1^N.
+m_1'\\x002223'N.
+sigma_j
+m_j'\\x002223'N
+j,
+M'\\x002223'N.
+|sigma| = M.
+sigma in S_n
+sigma = sigma_1 cdots sigma_r,
+a_i
+sigma_i.
+n.
+sigma = sigma_1 cdots sigma_r
+a_1 >= cdots >= a_r >= 1,
+r
+(a_1, ..., a_r)
+sigma.
+tau = (a_1\ a_2\ cdots\ a_k)
+k
+sigma,
+" sigma tau sigma "^(-1) = (sigma(a_1)\ sigma(a_2)\ cdots\ sigma(a_k)),
+k
+k
+cc l = sigma(a_i)
+i.
+k,
+" sigma tau sigma "^(-1) = (sigma(a_1) sigma(a_2) cdots sigma(a_k)),
+" sigma tau sigma "^(-1)
+cc l
+cc l != sigma(a_i)
+i.
+sigma^(-1)(cc l) != a_i
+i,
+tau
+sigma
+cc l.
+sigma(a_i)
+" sigma tau sigma "^(-1),
+tau, tau'in S_n
+k.
+sigma in S_n
+tau' = " sigma tau sigma "^(-1).
+k
+S_n
+tau = (a_1 a_2 cdots a_k)
+mu = (b_1 b_2 cdots b_k).
+sigma
+a_i |-> b_i
+S_n
+n.
+sigma in S_n
+sigma
+sigma = sigma_1 cdots sigma_r "\with\ "m_i = |sigma_i|.
+m_1, ..., m_r
+n.
+" tau sigma tau "^(-1) = " tau sigma tau "^(-1) cdots tau sigma_r tau^(-1),
+tau sigma_j tau^(-1)
+m_j,
+" tau sigma tau "^(-1)
+n.
+n,
+n,
+"sgn":S_n -> {+-1}
+sigma in S_n,
+sigma
+sigma = sigma_1 cdots sigma_t.
+"sgn"(sigma) = (-1)^(n-t).
+"sgn"(1) = 1 = (-1)^(n-n),
+"sgn"((a\ b)) = (-1)^(n-(n-1)) = -1.
+sigma,
+"sgn"(sigma)
+(a_1\ a_2\ cdots\ a_r) = (a_1\ a_r) cdots(a_1\ a_3)(a_1\ a_2),
+sigma = tau_1 cdots tau_r,
+tau_i
+"sgn"(sigma) = (-1)^r.
+"sgn":S_n -> {+-1}
+n >= 2.
+A_n.
+n >= 2,
+A_n
+S_n.
+n >= 3,
+n >= 5,
+p(x) = x^7+12x^3+2x+6 in ZZ[x],
+p = 2
+p
+QQ.
+p?
+p
+CC
+CC
+QQ[x]
+x^2-3 in(ZZ//5 ZZ)[x].
+ZZ//5 ZZ.
+K
+p in K[x]
+(p)
+K[x]//(p)
+K
+p.
+K
+QQ
+p(x) = x^7-10.
+p = 2, 5
+QQ[x],
+QQ.
+QQ[x]//(x^7-10)
+K.
+root(7)(10)
+CC.
+phi:QQ[x] -> QQ[root(7)(10)]
+phi(f(x)) = f(root(7)(10)),
+x^7-10
+phi
+QQ[root(7)(10)]
+CC.
+(x^7-10) sube "ker" phi,
+(x^7-10)
+x^7-10
+QQ[x]
+phi
+"ker" phi = (x^7-10).
+QQ[x]//(x^7-10) ~= QQ[root(7)(10)].
+QQ[root(7)(10)]
+phi_** ,
+alpha = x+(x^7-10) in QQ[x]//(x^7-10)
+root(7)(10) in QQ[root(7)(10)].
+QQ
+QQ[x]//(x^7-10).
+QQ -> QQ[x] -> QQ[x]//(x^7-10)
+a in QQ
+a+(x^7-10).
+10 |-> "\the coset\ "10+(x^7-10).
+alpha^7-10 in QQ[x]//(x^7-10),
+alpha^7-[10+(x^7-10)]?
+I = (x^7-10).
+alpha^7-[10+I] = [x+I]^7-[10+I] = [x^7+I]-[10+I] = [x^7-10]+I = 0+I
+alpha = x+I in K = QQ[x]//I
+F
+p in F[x]
+K:=F[x]//(p)
+F
+alpha = x+(p(x))
+p,
+K
+K = F(alpha)
+F
+alpha.
+QQ(sqrt(2))
+QQ(root(7)(10)),
+p(x) = x^7+12x^3+2x+6
+QQ[x],
+QQ(alpha),
+alpha
+p.
+QQ[root(7)(10)]
+QQ(sqrt(2))
+F[alpha]
+F
+alpha
+F(alpha)
+F
+alpha
+alpha
+F,
+F[alpha] ~= F[x]//(p)
+(p)
+F[alpha]
+F(alpha),
+F
+alpha.
+F[alpha]
+a_0+a_1 alpha+cdots+a_n alpha^n
+n
+a_i in F.
+1//alpha
+F[alpha]
+alpha
+p
+F.
+F
+p in F[x]
+d.
+F[x]//(p)
+F
+d
+{bar 1, bar x, ..., bar x^(d-1)}.
+bar x^j = x^j+(p).
+F[alpha] ~= F[x]//(p),
+F[alpha]
+a_0+a_1 alpha+cdots+a_(d-1) alpha^(d-1)
+a_i in F.
+f(x) in F[x]
+f(x) = p(x)q(x)+r(x)
+r = 0
+"deg"r < "deg"p = d.
+f(x)+(p) = r(x)+(p).
+{bar 1, bar x, ..., bar x^(d-1)}
+F[x]//(p)
+F.
+a_0+a_1 bar x+cdots+a_(d-1) bar x^(d-1) = bar 0 "\in\ "F[x]//(p).
+a_0+a_1 x+cdots+a_(d-1)x^(d-1) in(p).
+"deg"p = d,
+a_i = 0.
+p
+p.
+G
+n
+p
+n.
+n = p^k n_0
+p'\\x002224'n_0,
+k
+p^k'\\x002223'n.
+p
+H
+G
+p
+p
+G
+p
+p^k.
+G
+n = p^k n_0
+p
+p'\\x002224'n_0.
+G
+p^cc l
+1 <= cc l <= k.
+p
+p
+|G|.
+p
+G
+p
+G.
+p,
+P
+Q
+p
+G,
+g in G
+P = gQg^(-1).
+n_p
+p
+G.
+n_p -= 1(modp)
+n_p'\\x002223'n_0 = |G|//p^k.
+p
+|G|,
+X
+p
+G.
+X
+G
+X
+P in X,
+x |-> gxg^(-1)
+gPg^(-1)
+G
+P,
+X.
+P in X
+p
+G*P = X;
+G
+X.
+n_p
+p
+G,
+X.
+n_p = |X| = |G*P| = [G:N_G(P)],
+P <= N_G(P) <= G
+n_0 = (|G|)/(|P|) = [G:P] = [G:N_G(P)][N_G(P):P] = n_p[N_G(P):P].
+n_p'\\x002223'n_0,
+G
+G
+{e}
+p
+n_p = 1
+p
+n_p = 1
+P
+p
+g in G,
+gPg^(-1)
+p
+P = gPg^(-1)
+g in G,
+P'\\x0022b4'G.
+P
+p
+Q
+p
+Q = gPg^(-1)
+g in G.
+P
+Q = P,
+n_p = 1.
+G_1
+G_2,
+G_1 xx G_2,
+G
+H,
+K
+H
+K
+H nn K = {e}
+G = HK( = KH)
+H xx K -> HK = G
+(h, k) |-> hk
+G
+H
+K.
+phi:H xx K -> G
+phi((h, k)) = hk.
+phi
+hk = h'k''\\x0027fa'(h')^(-1)h = k'k^(-1),
+H nn K = {e},
+(h')^(-1)h = k'k^(-1) = e,
+(h, k) = (h', k').
+phi
+[phi((h_1,k_1)(h_2,k_2)), "<mi//>"=phi((h_1 h_2,k_1 k_2))=h_1 h_2 k_1 k_2], [phi((h_1,k_1)) phi((h_2,k_2)), "<mi//>"=h_1 k_1 h_2 k_2.]
+h_1 h_2 k_1 k_2 = h_1 k_1 h_2 k_2'\\x0027fa'h_2 k_1 = k_1 h_2
+h_i in H
+k_i in K.
+HK = KH
+G
+hk = kh'\\x0027fa'h^(-1)k^(-1)hk = e,
+[h^(-1)k^(-1)hk, "<mi//>"=(h^(-1)k^(-1)h)k in K], [h^(-1)k^(-1)hk, "<mi//>"=h^(-1)(k^(-1)hk) in H]
+H nn K = {e},
+phi
+Z_n
+n,
+Z_n ~= ZZ//n ZZ.
+Z_m xx Z_n ~= Z_(mn)"\iff\ "gcd(m, n) = 1.
+d = gcd(m, n),
+(mn)/d = m n/d = n m/d
+Z_m xx Z_n
+mn//d.
+d > 1,
+mn
+Z_m xx Z_n,
+d = 1.
+x in Z_m
+m
+y in Z_n
+n,
+z = (x, y) in Z_m xx Z_n.
+z = (x, y) = (x, e)(e, y) = (e, y)(x, e)
+z
+mn.
+z
+mn.
+cc l
+z.
+z^cc l = (x^cc l, y^cc l) = (e, e).
+m
+x,
+m'\\x002223'cc l,
+n
+y,
+n'\\x002223'cc l.
+d = gcd(m, n) = 1
+mn'\\x002223'cc l.
+cc l = mn
+Z_m xx Z_n
+mn,
+Z_m xx Z_n ~= Z_(mn)
+p < q
+p'\\x002224'(q-1).
+pq
+G.
+H_p
+H_q
+p
+q
+G.
+H_p ~= Z_p
+H_q ~= Z_q.
+G
+H_p
+H_q.
+|H_p H_q| = pq,
+G = H_p H_q.
+[G:H_q] = p
+G,
+n_p = n_q = 1.
+n_p -= 1\ (modp)"\and\ "n_p'\\x002223'q, "\while\ "n_q -= 1\ (modq)"\and\ "n_q'\\x002223'p.
+n_q'\\x002223'p,
+n_q = 1
+p.
+n_q = p,
+n_q = p -= 1(modq)
+q'\\x002223'(p-1).
+p < q
+n_q = 1
+H_q
+n_p = 1
+q.
+n_p = q,
+n_p = q -= 1(modp),
+p'\\x002223'(q-1),
+G,
+G ~= H_p xx H_q ~= Z_p xx Z_q ~= Z_(pq)
+p'\\x002224'(q-1)
+6 = 2*3.
+2'\\x002223'(3-1)
+G = S_3,
+H_3
+n_2 = 3,
+S_3'\\x002247'H_2 xx H_3
+S_3
+G = ZZ//6 ZZ,
+G ~= H_2 xx H_3.
+q,
+2'\\x002223'(q-1),
+2q
+2n
+n >= 3.
+G
+H, K
+G = HK,
+H nn K = {e}
+H
+K
+G
+H
+K.
+phi:H xx K -> G
+(h, k) |-> hk
+G
+n
+n = p_1^(e_1) cdots p_r^(e_r).
+H_i
+p_i
+G.
+G ~= H_1 xx cdots xx H_r.
+r.
+G
+G
+r = 1
+r = 2
+r = 3.
+H:=H_1 H_2 ~= H_1 xx H_2.
+H
+G
+H nn H_3 = {e}
+G = HH_3 ~= H xx H_3 ~= H_1 xx H_2 xx H_3.
+r >= 4,
+H:=H_1 cdots H_(r-1) ~= H_1 xx cdots xx H_(r-1).
+G = HH_r ~= H xx H_r
+p
+p
+G
+p^n
+p
+n >= 1.
+G ~= Z_(p^(a_1)) xx Z_(p^(a_2)) xx cdots xx Z_(p^(a_r))
+a_1 >= a_2 >= cdots >= a_r >= 1
+sum_(i=1)^r a_i = n.
+H ~= Z_(p^(b_1)) xx Z_(p^(b_2)) xx cdots xx Z_(p^(b_s))
+b_1 >= b_2 >= cdots >= b_s >= 1
+sum_(i=1)^s b_i = n,
+G ~= H
+r = s
+a_i = b_i
+1 <= i <= r.
+p^(a_i),
+G.
+a_1 >= a_2 >= cdots >= a_r >= 1
+sum_(i=1)^r a_i = n
+n.
+p(n),
+n.
+p(0):=1; \ p(1) = 1; \ p(2) = 2; \ p(5) = 7; \ p(10) = 42, ....
+[p(20), "<mi//>"=627], [p(40), "<mi//>"=37338], [p(100), "<mi//>"=190,569,292], [p(200), "<mi//>"=3,972,999,029,388]
+p(n)~ (e^(kappa sqrt(n)))/(4nsqrt(3))
+n -> oo
+kappa = pi sqrt(2//3),
+prod_(m=1)^ oo(1/(1-x^m) ) = sum_(n=0)^ oo p(n)x^n.
+p^5,
+p^5.
+5 = 4+1 = 3+2 = 3+1+1 = 2+2+1 = 2+1+1+1 = 1+1+1+1+1
+p(5) = 7,
+p^a
+G
+[\ , Z_(p^5)], [\ , Z_(p^4) xx Z_p], [\ , Z_(p^3) xx Z_(p^2)], [\ , Z_(p^3) xx Z_p xx Z_p], [\ , Z_(p^2) xx Z_(p^2) xx Z_p], [\ , Z_(p^2) xx Z_p xx Z_p xx Z_p], [\ , Z_p xx Z_p xx Z_p xx Z_p xx Z_p.]
+Z_(n_1) xx Z_(n_2) xx cdots xx Z_(n_r)
+n_1'\\x002223'n_2'\\x002223'cdots'\\x002223'n_r >= 2.
+|G| = n_1 n_2 cdots n_r.
+n_i
+G.
+p
+[Z_(20) xx Z_(300), "<mi//>"~=(Z_4 xx Z_5) xx(Z_4 xx Z_3 xx Z_(25))], [\ , "<mi//>"~=(Z_4 xx Z_4) xx Z_3 xx(Z_5 xx Z_(25))], [\ , "<mi//>"~=H_2 xx H_3 xx H_5 "\ (Sylow subgroups)\ "]
+[(Z_p xx Z_(p^2) xx Z_(p^3)) xx(Z_q xx Z_(q^5)), "<mi//>"~=(Z_p) xx(Z_(p^2) xx Z_q) xx(Z_(p^3) xx Z_(q^5))], [\ , "<mi//>"~=Z_p xx Z_(p^2 q) xx Z_(p^3 q^5)=Z_(n_1) xx Z_(n_2) xx Z_(n_3).]
+G ~= Z_(n_1) xx Z_(n_2) xx cdots xx Z_(n_r)
+n_1'\\x002223'n_2'\\x002223'cdots'\\x002223'n_r >= 2,
+n = n_1 cdots n_r
+n.
+n_r.
+6125 = 5^3*7^2.
+G
+G ~= H_5 xx H_7
+|H_5| = 5^3
+|H_7| = 7^2.
+["Partitions of 3:\ ", 3=2+1=1+1+1], ["Partitions of 2:\ ", 2=1+1]
+[H_5~=Z_(5^3), "\or\ "Z_(5^2) xx Z_5,"\or\ "Z_5 xx Z_5 xx Z_5], [H_7~=Z_(7^2), "\or\ "Z_7 xx Z_7.]
+[\ , ZZ_(5^3) xx ZZ_(7^2), \ , ZZ_(6125)], [\ , ZZ_(5^3) xx ZZ_7 xx ZZ_7, \ , ZZ_7 xx ZZ_(875)], [\ , ZZ_5 xx ZZ_(5^2) xx ZZ_(7^2), \ , ZZ_5 xx ZZ_(1225)], [\ , ZZ_5 xx ZZ_(5^2) xx ZZ_7 xx ZZ_7, \ , ZZ_(35) xx ZZ_(175)], [\ , ZZ_5 xx ZZ_5 xx ZZ_5 xx ZZ_(7^2), \ , ZZ_5 xx ZZ_5 xx ZZ_(245)], [\ , ZZ_5 xx ZZ_5 xx ZZ_5 xx ZZ_7 xx ZZ_7, \ , ZZ_5 xx ZZ_(35) xx ZZ_(35)], [\ , "elementary divisors", \ , "invariant factors"]
+G = Z_(25) xx Z_(245)
+R, S
+phi:R -> S
+"ker" phi:={r in R'\\x002223'phi(r) = 0},
+R.
+phi:R -> S
+I sube "ker" phi,
+phi_** :R//I -> S
+phi_** @pi = phi.
+pi:R -> R//I
+R//"ker" phi ~= "Im" phi.
+R, S
+phi:R -> S
+phi(1_R)
+S,
+phi(1_R) = 1_S
+S.
+s:=phi(1_R) = phi(1_R*1_R) = phi(1_R) phi(1_R) = s^2
+phi(1_R)
+phi(1_R)(phi(1_R)-1_S) = 0
+S
+phi(1_R) = 1_S.
+A
+A[x]
+x
+A.
+a in A.
+p in A[x]
+p(x) = c_0+c_1(x-a)+cdots+c_n(x-a)^n
+c_i in A.
+A[x]//(x-a) ~= A
+p(x) = b_0+b_1 x+cdots+b_n x^n
+q(x) = p(x+a).
+q(x)
+q(x) = c_0+c_1 x+cdots+c_n x^n,
+c_i in A.
+p(x) = q(x-a) = c_0+c_1(x-a)+cdots+c_n(x-a)^n.
+ev_a:A[x] -> A
+p(x) |-> p(a).
+ev_a
+p in A[x]
+p
+p(x) = c_0+c_1(x-a)+cdots+c_n(x-a)^n.
+ev_a(p) = 0'\\x0027fa'p(a) = 0'\\x0027fa'c_0 = 0.
+"ker"ev_a = (x-a),
+S, T
+R,
+(S)
+(T).
+(S) = (T)'\\x0027fa'S sube(T)"\and\ "T sube(S),
+(S) sube(T)
+S sub(T).
+f(x) = x-3
+g(x) = (x-3)(x-5)+7
+ZZ[x].
+I = (f, g)
+ZZ[x]
+QQ[x].
+ZZ[x]
+QQ[x]
+I = (f, g) = (f, 7).
+f, g in(f, 7)
+f, 7 in(f, g).
+g = f(x-5)+7 in(f, 7)
+7 = g-f(x-5) in(f, g)
+I = (x-3, 7).
+7 in QQ^ xx = QQ[x]^ xx,
+QQ[x],
+I = QQ[x].
+ZZ[x],
+I
+ZZ[x]//I = ZZ[x]//(x-3, 7) ~= ZZ//7 ZZ.
+h*7+h'*(x-3)
+h, h'in ZZ[x].
+ZZ
+I = n ZZ = (n)
+n in ZZ.
+I
+ZZ,
+I = n ZZ
+ZZ.
+n in ZZ.
+I = (n, x)
+ZZ[x]
+n != +-1.
+n = +-1,
+I
+ZZ[x],
+I = ZZ[x].
+n != +-1
+1!inI.
+1 = f*n+g*x
+f, g in ZZ[x].
+g*x
+f*n+g*x
+g,
+a_0
+f,
+1 = f*n+g*x,
+1 = a_0*n.
+a_0, n
+ZZ[x]^ xx = ZZ^ xx = {+-1}
+I, J
+R
+I+J,
+IJ,
+I nn J
+R
+P
+R.
+P
+P
+a, b in R,
+ab in P,
+a in P
+b in P.
+P
+P
+I, J sub R,
+IJ sube P
+I sube P
+J sube P.
+R
+M
+R.
+M
+M
+I
+R
+M sube I sube R,
+I = M
+R.
+R
+I, J
+R
+I+J = R.
+M_1 != M_2
+R
+M_i'\\x00228a'M_1+M_2 sube R
+M_i
+M_1+M_2 = R.
+I = (x-2),
+J = (x+2)
+R[x]
+R = ZZ
+QQ.
+I, J
+QQ[x],
+ZZ[x].
+4 in I+J.
+QQ[x],
+I+J = QQ[x].
+ZZ[x],
+I+J
+R
+I, J
+R.
+(I+J)(I nn J) sube IJ sube I nn J
+IJ sub I nn J
+I, J
+R.
+i in I, j in J, k in I nn J.
+(i+j)k in IJ.
+ik in IJ
+k in J,
+jk in JI
+k in I,
+IJ = JI
+R
+I, J
+IJ = I nn J
+I+J+R,
+I nn J sube IJ sube I nn J.
+R
+I, J
+R//IJ = R//(I nn J) ~= R//I xx R//J.
+IJ = I nn J.
+R -> R//I xx R//J"\given by\ "r |-> (r+I, r+J).
+I nn J.
+I, J
+I+J = R,
+i in I,
+j in J
+i+j = 1.
+(a+I, b+J)
+r = bi+aj.
+r+I = a+I"\and\ "r+J = b+J.
+r+I = a+I'\\x0027fa'r-a in I'\\x0027fa'(bi+aj)-a in I'\\x0027fa'a(j-1) in I
+i+j = 1,
+(j-1) = i in I.
+b+J.
+m, n
+ZZ,
+m ZZ+n ZZ = ZZ,
+ZZ//mn ZZ ~= ZZ//m ZZ xx ZZ//n ZZ
+QQ[x]//(x^2-4) ~= QQ[x]//(x-2) xx QQ[x]//(x+2) ~= QQ xx QQ.
+R
+P,
+M
+R.
+P
+R//P
+M
+R//M
+(0)
+(0)
+n != 0,
+n ZZ
+ZZ
+n ZZ
+ZZ
+n ZZ = p ZZ
+p
+(x)
+R[x]
+R
+(x)
+R[x]
+R
+R
+a in R.
+R -> R//(a)
+R[x] -> R//(a)[x]
+f(x) in R[x]
+bar f(x) in R//(a)[x]
+f
+R//(a),
+R
+a in R,
+f(x) in R[x].
+R[x]//(f(x), a) ~= (R//(a))[x]//(bar f(x)).
+f(x) = x-3
+g(x) = (x-3)(x-5)+7
+ZZ[x].
+I = (f, g)
+ZZ[x].
+I = (f, g) = (f, 7).
+ZZ[x]//I = ZZ[x]//(f(x), 7) ~= (ZZ//7 ZZ)[x]//(bar f(x)) = (ZZ//7 ZZ)[x]//(x-bar 3) ~= ZZ//7 ZZ
+ZZ[x]//I
+I
+ZZ[x].
+phi:
+R[x] -> (R//(a))[x] -> (R//(a))[x]//(bar f(x)).
+(a, f)
+a, f
+(a, f) sube "ker" phi.
+g(x) = b_0+cdots+b_n x^n in R[x].
+g in "ker" phi
+bar g in(bar f(x)).
+f(x) = c_0+cdots+c_m x^m in R[x],
+bar g(x) = bar f(x)*bar h(x),
+bar h(x) = bar a_0+cdots+bar a_d x^d.
+x^j
+bar g
+bar b_j = sum_(k=0)^j bar c_k bar a_(j-k),
+R//(a),
+b_j+aR = sum_(k=0)^j c_k a_(j-k)+aR
+h(x) = a_0+cdots+a_d x^d in R[x]
+b_j-sum_(k=0)^j c_k a_(j-k)
+j
+f-gh
+aR.
+g-fh = sum_(j=0)^n[b_j-sum_(k=0)^j c_k a_(j-k)]x^j in aR[x],
+g in(a, f) sube R[x].
+R
+p, q in R[x]'\\x002216'{0}.
+"deg"(pq) = "deg"(p)+"deg"(q).
+R[x]^ xx = R^ xx.
+R[x]
+R
+R[x_1, ..., x_n].
+R[x_1, ..., x_n],
+n
+R
+S[x_n],
+S = R[x_1, ..., x_(n-1)].
+n
+R[x, y]
+x^i y^j
+a_(ij) in R:
+p(x, y) = sum_(i,j)a_(ij)x^i y^j.
+p in R[x, y]
+(R[x])[y],
+p(x, y) = sum_(i,j)a_(ij)x^i y^j = sum_k varphi_k(x)y^k = varphi_0(x)+varphi_1(x)y+cdots+varphi_n(x)y^n,
+varphi_k(x) in R[x].
+ZZ[x, y]:
+[ZZ[x,y]:, \ 2+7y+4xy+3x^5 y], [ZZ[x][y]:, \ 2+(7+4x+3x^5)y], [ZZ[y][x]:, \ (2+7y)+(4y)x+(3y)x^5]
+y.
+QQ[x],
+x^2-4
+x^2+4
+x^2+4y-y^2-1
+QQ[x, y],
+x^2-4
+QQ[y][x]
+x^2-(y-1)^2 = (x-(y-1))(x+(y-1)).
+a, b
+R
+a = ubv
+u, v
+R.
+a = bv.
+R
+I, J
+R
+I+J = R.
+X
+X
+R sube X xx X,
+(x, y) in R,
+x~y
+x
+y.
+X
+x~x
+(x, x) in R
+x in X.
+x~y,
+y~x,
+(x, y) in R,
+(y, x) in R.
+x~y
+y~z,
+x~z,
+(x, y), (y, z) in R,
+(x, z).
+R
+d:R'\\x002216'{0} -> ZZ_(>=0)
+a, b in R
+b != 0,
+q, r in R
+a = bq+r,
+r = 0
+d(r) < d(b).
+G
+x in G.
+n
+x^n = e
+n
+x^n = e
+x in G,
+n
+G
+**
+G
+a, b in G
+a**b in G.
+**
+e in G,
+e**g = g**e = g
+g in G.
+g in G,
+h in G
+g**h = h**g = e.
+g
+g^(-1).
+R
+a, b in R,
+a, b
+d in R
+d'\\x002223'a
+d'\\x002223'b
+d
+d''\\x002223'a
+d''\\x002223'b,
+d''\\x002223'd,
+d,
+d
+R
+I sube R
+I
+R,
+R*I sube I
+I*R sub I.
+R//I
+R
+s in R
+s^2 = s.
+f:X -> Y
+X
+Y
+x, x'in X,
+f(x) = f(x')
+x = x'.
+F
+z = a+bi in CC
+a, b in RR
+i^2 = -1
+z,
+bar z = a-bi.
+z in RR,
+z = a = a+0i in CC,
+z = bar z.
+"absolutevalue"
+z = a+bi
+|z| = sqrt(a^2+b^2).
+V
+F.
+'\\x0027e8'*, *'\\x0027e9':V xx V -> F
+u, v, w in V
+lambda in F:
+'\\x0027e8'u+v, w'\\x0027e9' = '\\x0027e8'u, w'\\x0027e9'+'\\x0027e8'v, w'\\x0027e9'
+'\\x0027e8'lambda v, w'\\x0027e9' = lambda'\\x0027e8'v, w'\\x0027e9'
+bar('\\x0027e8'v,w'\\x0027e9') = '\\x0027e8'w, v'\\x0027e9',
+'\\x0027e8'v, v'\\x0027e9'
+v != 0.
+V
+F = RR
+CC
+F = RR,
+V
+F = CC,
+V
+R
+pi in R
+pi != 0,
+pi!inR^ xx,
+pi = ab,
+a
+b
+R.
+delta_(ij) = {[1, "if\ "i=j], [0, "otherwise."]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+R
+M
+R.
+M
+M
+I
+R
+M sube I sube R,
+I = M
+R.
+G
+H
+G.
+H
+G.
+gHg^(-1) = H
+g in G
+gH = Hg
+g in G
+gHg^(-1) sube H
+g in G
+G
+H
+G.
+H
+G
+N_G(H) = {g in G'\\x002223'gHg^(-1) = H}.
+K
+G
+N_G(K) = G.
+X
+X
+P = {X_i'\\x002223'i in I}
+X = uuu_(i in I)X_i,
+X_i nn X_j = O/
+i != j.
+R
+pi in R
+pi != 0,
+pi!inR^ xx,
+a, b in R
+pi'\\x002223'ab,
+pi'\\x002223'a
+pi'\\x002223'b.
+R
+P
+R.
+P
+P
+a, b in R,
+ab in P,
+a in P
+b in P.
+P
+P
+I, J sub R,
+IJ sube P
+I sube P
+J sube P.
+R
+p(x) = a_0+a_1 x+cdots+a_n x^n in R[x].
+p
+gcd(a_1, ..., a_n) = 1,
+p in R[x]
+p = c(p)p_0
+p_0
+c(p) in R
+p.
+R
++,
+xx
+(R, +)
+xx
+(a+b) xx c = (a xx c)+(b xx c)
+a xx(b+c) = (a xx b)+(a xx c)
+xx
+R
+1 in R
+1 xx r = r xx 1 = r
+r in R.
+rs
+r xx s.
+r in R,
+-r
+r^(-1)
+R^ xx
+R
+H
+G
+G
+x, y in H,
+xy^(-1) in H.
+H <= G
+H < G
+f:X -> Y
+X
+Y
+y in Y,
+x in X
+f(x) = y.
+R
+u in R
+R,
+v in R,
+uv = vu = 1.
+V
+F,
++,
+u, v, w in V,
+lambda, mu in F
+u+v in V
+u+v = v+u
+(u+v)+w = u+(v+w)
+'\\y01d7ce'in V
+'\\y01d7ce'+u = u.
+u in V,
+-u in V
+u+-u = '\\y01d7ce'.
+lambda u in V.
+lambda(u+v) = lambda u+lambda v
+(lambda+mu)v = lambda v+mu v
+(lambda mu)v = lambda(mu v)
+V
+1 in F
+1v = v.
+a
+R
+b in R
+ab = 0
+ba = 0.
+H
+G
+F
+G = GL_n(F),
+n xx n
+F
+R = M_n(F)
+n xx n
+F,
+G = R^ xx,
+R.
+K = SL_n(F),
+K
+G,
+K
+K
+g in G
+k in K.
+gkg^(-1) in K,
+det(gkg^(-1)) = det(g)det(k)det(g)^(-1) = det(k) = 1
+gkg^(-1) in K.
+"deg"(g^(-1)) = det(g)^(-1),
+det g, det k
+F,
+K
+phi:GL_n(F) -> F^ xx
+phi(g) = det g.
+K
+GL_n(F)//SL_n(F)
+K = SL_n(F)
+G = GL_n(F),
+gKg'K = g'KgK
+gKg'K = g'KgK'\\x0027fa'gg'K = g'gK'\\x0027fa'g^(-1)g^('-1)gg'in K
+G//K
+phi:GL_n(F) -> F^ xx
+phi(g) = det g.
+phi
+alpha in F^ xx,
+phi
+"diag"(alpha, 1, ..., 1)
+alpha.
+GL_n(F)//SL_n(F) ~= F^ xx
+H, K
+G,
+H sube N_G(K)
+K'\\x0022b4'G).
+HK <= G,
+K'\\x0022b4'HK
+HK//K ~= H//(H nn K).
+H sube N_G(K)
+HK
+G,
+K'\\x0022b4'HK.
+phi:H -> HK//K
+H -> HK"\via\ "h |-> h*1 in HK
+HK -> HK//K"\via\ "hk |-> hkK,
+phi(h) = hK.
+hkK = hK,
+phi
+phi(h) = hK = K
+h in H nn K,
+H, K
+HK.
+F
+G = GL_n(F),
+K = SL_n(F),
+H = D_n(F)
+G.
+K
+G.
+H = D_n(F)
+G.
+A
+P
+P^(-1)AP = D
+PDP^(-1) = A
+[[2, 1], [1, 1]][[1, 0], [0, 2]][[2, 1], [1, 1]]^(-1) = [[0, 2], [-1, 3]].
+G = HK.
+A in G = GL_n(F),
+alpha = det A in F^ xx.
+"diag"(alpha^(-1), 1, ..., 1)A in SL_n(F),
+G = GL_n(F) sube HK,
+HK sube G,
+H, K.
+K'\\x0022b4'G,
+GL_n(F)//SL_n(F) = HK//K ~= H//(H nn K) ~= F^ xx.
+H.
+G
+H, K,
+H <= K.
+K//H'\\x0022b4'G//H,
+(G//H)//(K//H) ~= G//K.
+H, K
+G,
+H'\\x0022b4'K,
+G//H,
+G//K,
+K//H
+pi:G -> G//K
+G//H,
+pi_** :G//H -> G//K
+pi_** (gH) = gK.
+"ker" pi_** = {gH in G//H'\\x002223'gK = K} = {gH in G//H'\\x002223'g in K} = K//H.
+G = ZZ,
+m, n,
+K = m ZZ
+H = mn ZZ.
+(ZZ//mn ZZ)//(m ZZ//mn ZZ) ~= ZZ//m ZZ.
+phi:G -> G'
+G, G'
+K.
+G'
+G
+K.
+[H', "<mi//>"<=G'|->phi^(-1)(H')={g in G'\\x002223'phi(g) in H'}<=G,], [H, "<mi//>"<=G|->phi(H).]
+H <= G,
+phi^(-1)(phi(H)) = HK,
+K <= H,
+HK = H.
+ZZ//24 ZZ?
+phi:ZZ -> ZZ//24 ZZ,
+ZZ//24 ZZ
+ZZ
+24 ZZ
+ZZ
+n ZZ
+n,
+n ZZ supe 24 ZZ
+n'\\x002223'24.
+ZZ
+24 ZZ
+d ZZ "\for\ "d = 1, 2, 3, 4, 6, 8, 12, 24,
+d
+ZZ//24 ZZ
+d ZZ//24 ZZ.
+T:V -> W
+F
+v, v'in V
+lambda in F,
+T(v+v') = T(v)+T(v')"\and\ "T(lambda v) = lambda T(v),
+V
+W.
+phi:G -> H
+G, H
+g, g'in G,
+phi(g**g') = phi(g)**phi(g')
+G
+H.
+phi:R -> S
+R, S
+r, r'in R
+phi(r+r') = phi(r)+phi(r')"\and\ " phi(r**r') = phi(r)**phi(r'),
+R
+S.
+phi:X -> Y
+X
+Y,
+phi:X -> Y
+psi:Y -> X,
+phi@psi = id_Y
+psi@phi = id_X.
+phi
+phi:X -> Y
+psi,
+phi:[0, 1) -> S^1 = {z in CC'\\x002223'|z| = 1}
+phi(x) = e^(2 pi ix).
+X
+Y
+X//Y
+phi:X -> Y
+X//"ker" phi ~= "Im" phi
+"ker" phi,
+X//"ker" phi
+W
+V,
+V//W
+H
+G
+G//H
+S
+R
+R//S
+G,
+H,
+x in G,
+xH
+Hx
+R
+I
+R//I.
+x+I
+I+x
+G
+H
+x in G.
+[xH, "<mi//>"={y in G'\\x002223'y=xh"\for some\ "h in H}={xh'\\x002223'h in H}], [x+H, "<mi//>"={y in G'\\x002223'y=x+h"\for some\ "h in H}={x+h'\\x002223'h in H}]
+G//H = {xH'\\x002223'x in G}"\or\ "{x+H'\\x002223'x in G}
+G,
+G.
+e,
+H,
+x in G
+xH
+x = xe in xH.
+G = uuu_(x in G)xH,
+H
+G
+xH
+yH.
+z in xH nn yH.
+xH = yH
+xH sube yH
+yH sube xH.
+xH sube yH.
+z in xH nn yH
+z = xh_1 = yh_2 "\for some\ "h_1, h_2 in H,
+x = yh_2 h_1^(-1) in yH,
+xh in xH
+xh = yh_2 h_1^(-1)h in yH
+xH sube yH.
+G = uuu_(x in G)xH
+{xH'\\x002223'x in G}.
+G = S_3,
+{1, 2, 3}.
+H = {e, (1\ 2)}
+(1\ 2).
+G//H = {H, (1\ 3)H, (2\ 3)H} = {H, (1\ 2\ 3)H, (1\ 3\ 2)H}
+H = (1\ 2)H, \ (1\ 3)H = (1\ 2\ 3)H, "\and\ "(2\ 3)H = (1\ 3\ 2)H.
+G
+cc P_L = {P_1 = {1, (1\ 2)}, P_2 = {(1\ 3), (1\ 2\ 3)}, P_3 = {(2\ 3), (1\ 3\ 2)},
+P_i
+H
+G
+H'\\x002216'G = {H, H(1\ 3), H(2\ 3)} = {H, H(1\ 3\ 2), H(1\ 2\ 3)}
+G
+cc P_R = {Q_1 = {1, (1\ 2)}, Q_2 = {(1\ 3), (1\ 3\ 2)}, Q_3 = {(2\ 3), (1\ 2\ 3)}.
+G
+H
+xH
+yH
+y^(-1)x in H
+x = yh
+h in H
+x^(-1)y in H
+y = xh
+h in H
+xH = yH.
+xH = yH,
+xH nn yH != O/.
+x in yH
+y in xH
+x+H
+y+H
+-y+x in H
+x = y+h
+h in H
+-x+y in H
+y = x+h
+h in H
+G
+H.
+H
+G.
+G
+H
+G.
+H
+G.
+gHg^(-1) = H
+g in G
+gH = Hg
+g in G
+gHg^(-1) sube H
+g in G
+gHg^(-1) sube H
+g in G
+gHg^(-1) = H
+g in G.
+g in G
+gHg^(-1) sube H;
+H sube gHg^(-1).
+xHx^(-1) sube H
+x in G,
+x = g^(-1).
+g^(-1)Hg sube H"\which implies\ "H sube gHg^(-1),
+G//H = {xH'\\x002223'x in G}.
+xH*yH = zH
+z in G.
+xH*yH = xyH,
+G = S_3
+H = {e, (1\ 2)}.
+H = eH = (1\ 2)H, \ (1\ 3)H = (1\ 2\ 3)H, "\and\ "(2\ 3)H = (1\ 3\ 2)H.
+(1\ 2)H*(1\ 3)H = eH*(1\ 2\ 3)H,
+(1\ 2)H*(1\ 3)H = (1\ 3\ 2)H"\while\ "eH*(1\ 2\ 3)H = (1\ 2\ 3)H
+V
+W,
+V
+W
+V//W = {v+W'\\x002223'v in V}
+(v+W)+(v'+W) = (v+v')+W.
+V//W
+lambda(v+W) = lambda v+W,
+R
+S,
+R//S = {r+S'\\x002223'r in R}
+R//S
+S
+R
+R//S = {r+S'\\x002223'r in R}.
+(r+S)*(r'+S) = rr'+S,
+s, t in S,
+(r+s+S)*(r'+t+S) = rr'+S,
+rr'+rt+sr'+st+S = rr'+S.
+S
+st in S,
+rt+sr'in S
+s, t in S.
+S
+R,
+R,
+R*S sube S"\and\ "S*R sube S.
+G
+G
+H
+G//H?
+ZZ.
+n > 1
+-1,
+n < -1?
+ZZ
+ZZ
+p >= 2
++-1,
+R,
+6 = 2*3 = 3*2*1 = (-2)*(-3).
+ZZ,
+QQ[x],
+f(x) = 2x
+2x = 2*x = (2//3)*(3x) = cdots.
+ZZ[x],
+2x
+f(x) = 2x = 2*x
+x
+ZZ[x].
+a
+R
+a
+a = a_1 b_1
+a_1, b_1
+a_1
+a_1
+a_1 = a_2 b_2
+R.
+b
+a
+b'\\x002223'a
+c in R
+a = bc,
+b
+a.
+b'\\x002223'a,
+bu
+u
+a = bc = (bu)(u^(-1)c).
+b'\\x002223'a
+(a) sube(b),
+(b) = (b')
+b
+b'
+a
+a = a_1 b_1,
+a_1
+a_1 = a_2 b_2
+a_2, b_2
+(a)'\\x00228a'(a_1)'\\x00228a'(a_2)'\\x00228a'cdots.
+R
+R
+I_1 sube I_2 sube I_3 sube cdots
+R,
+r >= 1
+I_r = I_(r+1) = I_(r+2) = cdots.
+I sube R
+R
+R
+a = pi_1 a_1
+pi_1
+a_1
+a_1 = pi_2 a_2
+pi_2
+a_2
+a_3 = pi_3 a_3.
+(a)'\\x00228a'(a_1)'\\x00228a'(a_2)'\\x00228a'cdots
+a_(r-1) = pi_r a_r
+pi_r
+a_r
+ZZ[sqrt(-5)] = {a+bsqrt(-5)'\\x002223'a, b in ZZ}
+ZZ.
+ZZ
+ZZ[sqrt(-5)]
+ZZ
+ZZ[sqrt(-5)].
+R = ZZ[sqrt(-5)]
+ZZ
+ZZ[x].
+R
+ZZ[x]
+x |-> sqrt(-5).
+CC.
+6 = 2*3 = (1+sqrt(-5))(1-sqrt(-5))
+2, 3, 1+-sqrt(-5)
+N:ZZ[sqrt(-5)] -> ZZ
+N(a+bsqrt(-5)) = (a+bsqrt(-5))(a-bsqrt(-5)) = a^2+5b^2.
+N(alpha) = alpha bar alpha,
+N(alpha beta) = N(alpha)N(beta)
+alpha, beta in R = ZZ[sqrt(-5)].
+alpha
+ZZ[sqrt(-5)]
+N(alpha) = +-1
++1
+a^2+5b^2 >= 0
+a, b
+ZZ[sqrt(-5)] = {+-1},
+2, 3, 1+-sqrt(-5)
+ZZ[sqrt(-5)].
+2 = alpha beta
+alpha, beta
+4 = N(2) = N(alpha)N(beta),
+ZZ
+N(alpha) = 1, 2,
+N(alpha) = 1
+alpha
+N(alpha) = 4
+beta
+N(alpha) = N(beta) = 2.
+a^2+5b^2 = 2
+a, b in ZZ,
+alpha
+beta
+2
+ZZ[sqrt(-5)].
+ZZ[sqrt(-5)]
+6 = 2*3 = (1+sqrt(-5))(1-sqrt(-5))
+2, 3, 1+-sqrt(-5)
+2'\\x002223'(1+sqrt(-5))(1-sqrt(-5)).
+2
+1+sqrt(-5)
+pi_1'\\x002223'pi_2
+pi_i
++-1,
+ZZ[sqrt(-5)].
+R
+R
+R
+a = pi_1 cdots pi_r = pi_1^'cdots pi_s^'
+a
+r = s,
+pi_j
+pi_j^'
+j = 1, ..., r.
+ZZ,
+r.
+r = 1,
+s = 1
+pi_1 = pi_1^' .
+r >= 2,
+pi_1'\\x002223'a,
+pi_1'\\x002223'pi_1^'cdots pi_s^' .
+pi_1
+pi_1'\\x002223'pi_1^' .
+pi_1 cdots pi_r = pi_1^'cdots pi_s^' = pi_1 pi_2^''pi_3^'cdots pi_s^' ,
+pi_2^''
+pi_2^' .
+pi_2 cdots pi_r = pi_2^''pi_3^'cdots pi_s^' ,
+G
+H
+G.
+|G| = [G:H]*|H|,
+[G:H]
+G//H.
+H
+G
+G.
+G//H = {g_k H'\\x002223'k = 1, ..., r},
+r = [G:H].
+G
+G = uuu_(k=1)^r g_k H"\but also\ "|G| = sum_(k=1)^r|g_k H|.
+|H|,
+|G| = sum_(k=1)^r|H| = r|H| = [G:H]|H|.
+x in G
+H = '\\x0027e8'x'\\x0027e9'
+H, K
+G.
+HK = {hk'\\x002223'h in H, k in K}
+|HK| = (|H||K|)/(|H nn K|) .
+HK
+G,
+HK
+HK = {hk'\\x002223'h in H, k in K} = uuu_(h in H)hK.
+hK
+K,
+|HK| = |K|*"number of distinct cosets".
+h_1, h_2 in H,
+h_1 K = h_2 K'\\x0027fa'h_2^(-1)h_1 in K'\\x0027fa'h_2^(-1)h_1 in H nn K'\\x0027fa'h_1 H nn K = h_2 H nn K.
+{hK'\\x002223'h in H}
+{h(H nn K)'\\x002223'h in H}.
+H
+H nn K
+H nn K
+H
+|H//H nn K| = |H|//|H nn K|.
+|HK| = |K|*"number of distinct cosets" = |K| (|H|)/(|H nn K|) .
+HK
+G
+G
+S_3,
+H = '\\x0027e8'(1\ 2)'\\x0027e9'
+K = '\\x0027e8'(2\ 3)'\\x0027e9'
+H nn K = {1},
+|HK| = (2*2)/1 = 4.
+4'\\x002224'6,
+HK
+G.
+G = S_3,
+H = '\\x0027e8'(1\ 2)'\\x0027e9'
+K = '\\x0027e8'(1\ 2\ 3)'\\x0027e9',
+H
+K
+|H nn K| = 1
+|H nn K|
+|H| = 2
+|K| = 3,
+HK
+HK = G.
+HK
+R
+d:R'\\x002216'{0} -> ZZ_(>=0)
+a, b in R
+b != 0,
+q, r in R
+a = bq+r,
+r = 0
+d(r) < d(b).
+ZZ
+d(a) = |a|
+k
+k[x]
+d
+R
+R
+R
+R
+pi in R
+pi
+pi = ab.
+pi'\\x002223'ab
+pi
+a
+b,
+a = pi a_0.
+pi = ab = pi a_0 b,
+pi(a_0 b-1) = 0.
+R
+pi != 0,
+a_0 b = 1
+b in R^ xx.
+R
+pi in R
+pi
+pi'\\x002223'ab.
+ab = 0,
+a
+b
+pi'\\x002223'0
+ab != 0.
+pi'\\x002223'ab,
+ab
+ab
+ab = pi_1 cdots pi_r*pi_1^'cdots pi_s^'
+pi_i'\\x002223'a,
+pi_j^' '\\x002223'b
+r
+s
+pi'\\x002223'ab,
+pi
+pi_i
+pi_j^'
+pi'\\x002223'a
+pi'\\x002223'b.
+pi
+R,
+(pi) sube I sube R.
+R
+I = (r)
+r in R,
+(pi) sube(r)
+pi = rs
+s in R.
+pi
+r
+s
+r
+I = R.
+s
+r
+pi
+I = (r) = (pi).
+(pi)
+(pi)
+pi
+pi
+pi
+P = (pi)
+ab in P = (pi).
+ab = pi c
+c in R.
+pi
+a
+b.
+a in P
+b in P.
+P = (pi)
+pi
+pi'\\x002223'ab.
+ab in P = (pi).
+P
+a
+b
+P = (pi),
+pi'\\x002223'a
+pi'\\x002223'b.
+R
+I
+R.
+I != (0).
+d,
+b in I
+d(b)
+I = (b).
+(b) sube I,
+a in I.
+a = bq+r
+r = 0
+d(r) < d(b).
+b
+d(b)
+r = 0
+a in(b).
+I = (b),
+R
+R
+R
+pi
+R.
+(pi)
+pi
+R
+R = ZZ[ (1+sqrt(-d))/2]"\where\ "d = 19, 43, 67, 163
+d
+A[x]
+A
+A[x]
+A
+A[x]
+A[x]
+A.
+A[x]//(x) ~= A,
+(x)
+x
+A[x]//(x) ~= A
+A[x]
+R
+R[x]
+ZZ
+QQ
+A
+K
+A.
+K[x]
+A
+A[x]
+K[x].
+A[x]
+K[x].
+p(x) = 2x
+QQ[x],
+ZZ[x].
+ZZ[x]
+QQ[x, y]
+ZZ
+ZZ[x]
+QQ[x]
+QQ[x, y] = QQ[x][y]
+ZZ[x]
+QQ[x, y]
+(2, x)
+ZZ[x].
+(x, y)
+QQ[x, y].
+ZZ
+QQ
+ZZ[x], QQ[x], ZZ[x, y], QQ[x, y],
+p(x) in ZZ[x].
+p
+p
+ZZ[x],
+QQ[x]?
+p
+QQ[x],
+ZZ[x]?
+p
+ZZ[x],
+ZZ[x, y]?
+ZZ[x]
+ZZ[x, y]
+ZZ[x] sub ZZ[x, y].
+ZZ[x]
+ZZ[x, y],
+ZZ,
+R[x],
+R
+ZZ,
+gcd(12, -30) = +6,
+R
+a, b in R,
+a, b
+d in R
+d'\\x002223'a
+d'\\x002223'b
+d
+d''\\x002223'a
+d''\\x002223'b,
+d''\\x002223'd,
+d,
+d
+R,
+d, d'
+a, b
+d = d'*u
+u in R^ xx.
+ZZ
++-1,
+ZZ,
+ZZ
+R
+d:R'\\x002216'{0} -> ZZ_(>=0).
+R
+ZZ,
+gcd(a, b) = ax+by
+x, y in R.
+ZZ,
+a = bq+r,
+gcd(a, b) = gcd(b, r)
+gcd(a, b)
+R
+a, b in R,
+(a, b)
+(d) = (a, b),
+d
+a, b.
+(a, b) = (d),
+d
+a, b.
+(a, b) = {ax+by'\\x002223'x, y in R},
+(d) = (a, b),
+d = ax_0+by_0
+x_0, y_0 in R.
+d
+R
+a, b in R,
+a
+b
+a
+b
+a
+b.
+R,
+R[x]^ xx = R^ xx
+R
+ZZ,
+F.
+F[x]
+F
+p in F[x]
+(x-a)'\\x002223'p
+p(a) = 0.
+F[x],
+(x-a)
+p(x),
+a
+R
+K
+R = ZZ
+K = QQ
+p(x) = a_n x^n+cdots+a_1 x+a_0 in R[x].
+r, s in R
+gcd(r, s) = 1.
+alpha = r//s in K
+p
+r'\\x002223'a_0
+s'\\x002223'a_n.
+p
+R.
+alpha
+p,
+p
+alpha
+a_n r^n+a_(n-1)r^(n-1)s+cdots+a_1 rs^(n-1)+a_0 s^n = 0.
+[a_n r^n=, "<mi//>"-(a_(n-1)r^(n-1)s+cdots+a_1 rs^(n-1)+a_0 s^n)], [a_0 s^n=, "<mi//>"-(a_n r^n+a_(n-1)r^(n-1)s+cdots+a_1 rs^(n-1))]
+s'\\x002223'a_n r^n "\and\ "r'\\x002223'a_0 s^n.
+gcd(r, s) = 1,
+r'\\x002223'a_0
+s'\\x002223'a_n.
+R
+K[x],
+K
+K[x]
+R[x]
+K[x].
+R
+p(x) = a_0+a_1 x+cdots+a_n x^n in R[x].
+p
+gcd(a_0, ..., a_n) = 1,
+p in R[x]
+p = C(p)p_0
+p_0
+C(p) in R;
+C(p)
+p.
+R
+K
+p(x) = a_0+cdots+a_n x^n
+R[x].
+p
+K[x]
+p(x) = F(X)G(X).
+alpha, beta in K^ xx
+f = alpha F in R[x], g = beta G in R[x], "\and\ "p = fg.
+p, q in R[x],
+C(pq) = C(p)C(q),
+R[x]
+K[x].
+R
+K
+p in R[x].
+p
+R[x]
+p
+R[x]
+K[x].
+p
+R[x],
+K[x],
+p = FG
+K[x].
+alpha, beta in K^ xx
+f = alpha F in R[x], g = beta G in R[x], "\and\ "p = fg.
+"deg"f, "deg"g >= 1,
+p
+R[x],
+p
+K[x].
+R[x],
+p = fg
+f, g in R[x]
+"deg"f, "deg"g >= 1
+p
+f
+g
+K[x],
+p
+K[x],
+p(x) = x^3+82x^2+3456782 in ZZ[x].
+p(r)
+r'\\x002223'3456782.
+R
+p in R[x]
+I
+R,
+R[x] -> (R//I)[x],
+p |-> bar p.
+bar p
+p
+R[x].
+bar p
+p
+R[x],
+p = fg.
+p
+f, g
+"deg"f, "deg"g >= 1
+f(x) = a_m x^m+cdots+a_0 "\and\ "g(x) = b_n x^n+cdots+b_0.
+a_m, b_n in R^ xx.
+I:
+p = fg |-> bar p = bar(fg) = bar f*bar g in(R//I)[x].
+bar f = (a_m+I)x^m+cdots+(a_0+I)"\and\ " bar g = (b_n+I)x^n+cdots+(b_0+I).
+a_m, b_n in R^ xx
+I
+a_m+I != 0+I
+b_n+I != 0+I,
+"deg" bar f, "deg" bar g >= 1
+bar p
+p(x) = x^3+82x^2+3456782 in ZZ[x]
+I = 2 ZZ.
+bar p = x^3 = x*x^2
+I = 3 ZZ.
+bar p = x^3+x+2 in ZZ//3 ZZ[x].
+bar p
+ZZ//3 ZZ
+ZZ//3 ZZ
+bar p
+ZZ//3 ZZ,
+p(x) = x^3+82x^2+3456782
+ZZ[x].
+p(x, y) = -1+x-y+x^2 y+y^3 in QQ[x, y].
+p
+p = y^3+(x^2-1)y+(x-1) in QQ[x][y].
+R = QQ[x].
+p
+R[y].
+I = (x)'\\x00228a'R.
+R//I = QQ[x]//(x) ~= QQ
+x |-> 0
+bar p in(R//I)[y] ~= QQ[y]
+x = 0,
+bar p = y^3-y-1 in QQ[y].
+bar p
++-1,
+p
+QQ[x, y].
+R
+p = a_n x^n+cdots+a_0 in R[x]
+pi in R
+pi'\\x002223'a_i, i = 0..., n-1, \ pi'\\x002224'a_n, "\and\ " pi^2'\\x002224'a_0.
+p
+R[x].
+p
+R[x].
+p
+p = fg"\where\ "f, g in R[x], "\with\ ""deg"f, "deg"g >= 1,
+f = b_0+cdots+b_r x^r "\and\ "g = c_0+cdots+c_s x^s.
+pi
+pi'\\x002223'a_0 = b_0 c_0,
+b_0
+c_0,
+pi^2'\\x002224'a_0
+pi'\\x002223'b_0
+pi'\\x002224'c_0.
+pi'\\x002224'a_n = b_r c_s,
+pi'\\x002224'b_r
+pi'\\x002224'c_s.
+pi'\\x002223'c_0,
+pi'\\x002224'c_s,
+cc l
+pi'\\x002224'c_cc l.
+0 < cc l <= s < n"\and\ "a_cc l = b_cc l c_0+b_(cc l-1)c_1+cdots+b_0 c_cc l.
+cc l < n,
+pi'\\x002223'a_cc l,
+cc l,
+pi'\\x002223'c_0, ..., c_(cc l-1),
+pi'\\x002223'b_0 c_cc l.
+pi
+pi'\\x002223'b_0
+pi'\\x002223'c_cc l,
+n >= 1
+ZZ[x].
+p
+ZZ.
+x^n+-p
+ZZ[x].
+x^(907)+27x^3+15x^2-81x+6
+ZZ[x].
+p = 3.
+p = -1+x-y+x^2 y+y^3
+QQ[x, y].
+R = QQ[x]
+p
+R[y]
+p = y^3+(x^2-1)y+(x-1).
+pi = (x-1) in R = QQ[x]
+R,
+R[x]
+phi:R[x] -> R[x]
+p in R[x]
+phi(p)
+R[x] = phi(R[x]).
+f(x) |-> f(x+-a)
+a in R,
+f(x)
+f(x+-a)
+p
+ZZ.
+f(x) = 1+x+x^2+cdots+x^(p-1) = (x^p-1)/(x-1)
+ZZ[x].
+g(x) = f(x+1).
+f
+g
+[g(x)=, f(x+1)= ((x+1)^p-1)/((x+1)-1) ], [=, (x^p+((p), (1))x^(p-1)+cdots+((p), (p-1))x+1-1)/x], [=, x^(p-1)+((p), (1))x^(p-2)+cdots+((p), (p-1))]
+ZZ[x]
+p
+p'\\x002223'((p), (k))
+1 <= k <= p-1
+((p), (p-1)) = p.
+G
+X
+G
+X
+G xx X -> X,
+(g, x) |-> g*x,
+e*x = x"\for all\ "x in X.
+e
+G.
+g_1*(g_2*x) = (g_1 g_2)*x
+g_1, g_2 in G
+x in X.
+G
+X = G
+G xx G -> G
+(g, x) |-> gxg^(-1).
+G
+H
+X = G//H
+G
+G//H
+G xx G//H -> G//H
+(g, xH) |-> gxH.
+G
+p,
+p^m'\\x002223'|G|.
+X = {H <= G'\\x002223'|H| = p^m}.
+X
+G
+X
+(g, H) |-> gHg^(-1).
+g in G,
+phi_g:G -> G
+phi_g(x) = gxg^(-1)
+gHg^(-1) = phi_g(H)
+G
+H,
+X.
+G
+X,
+phi:G -> Per(X),
+Per(X)
+X -> X
+G
+X
+G xx X -> X,
+G -> Per(X)
+(g, x) |-> g*x,
+phi:G -> Per(X)
+phi(g) = phi_g in Per(X)"\where\ " phi_g(x) = g*x.
+phi:G -> Per(X)
+phi(g) = phi_g in Per(X),
+G xx X -> X
+(g, x) |-> phi_g(x).
+phi:G -> Per(X)
+X -> X.
+X
+phi(g)
+phi(g) = phi_g
+phi_g:X -> X
+G xx X -> X
+phi:G -> Per(X)
+G
+G xx G -> G
+(g, x) |-> gx
+gx
+phi:G -> Per(G)"\given by\ " phi(g) = phi_g "\with\ " phi_g(x) = gx,
+G.
+phi?
+"ker" phi = {g in G'\\x002223'phi(g) = phi_g = e_(Per(G))},
+phi_g(x) = gx = x
+x in X = G.
+x = e_G
+g = e,
+G
+Per(G).
+G
+|G| = n,
+G
+S_n.
+G
+X
+x in X.
+x
+G_x:={g in G'\\x002223'g*x = x}.
+x
+Gx = G*x:={g*x'\\x002223'g in G} = {y in X'\\x002223'y = g*x"\for some\ "g in G}.
+G_x
+G,
+Gx
+X.
+G
+x in X.
+Gx = {gxg^(-1)'\\x002223'g in G}
+x,
+G_x = {g in G'\\x002223'gxg^(-1) = x}
+x.
+G
+X = {H <= G}
+G.
+G
+X
+x = H in X.
+Gx = {gHg^(-1)'\\x002223'g in G}
+H,
+G_x = {g in G'\\x002223'gHg^(-1) = H}
+H.
+G
+X
+G
+H?
+H = gHg^(-1)
+g in G,
+H
+H
+G,
+|Gx| = 1'\\x0027fa'G_x = G.
+G = S_3
+X
+S_3.
+x in X,
+S_3
+e
+t
+(1\ 2),
+(2\ 3),
+(1\ 3),
+T
+(1\ 2\ 3)
+(1\ 3\ 2).
+[x, "<mi//>"={e}\ Gx={e}\ G_x=G.], [x, "<mi//>"='\\x0027e8't'\\x0027e9'\ Gx={'\\x0027e8'(1\ 2)'\\x0027e9','\\x0027e8'(2\ 3)'\\x0027e9','\\x0027e8'(1\ 3)'\\x0027e9'}\ G_x='\\x0027e8't'\\x0027e9'.], [x, "<mi//>"='\\x0027e8'T'\\x0027e9'\ Gx={x}\ G_x=G.], [x, "<mi//>"=S_3\ Gx={x}\ G_x=G.]
+G
+X,
+x in X.
+G//G_x harr Gx
+G//G_x
+Gx
+gG_x harr gx.
+[G:G_x] = |Gx|,
+gG_x |-> gx
+gG_x = hG_x.
+h^(-1)g in G_x,
+gG_x = hG_x
+h^(-1)gx = x
+gx = hx
+gx in Gx,
+gG_x
+|Gx| = |G//G_x| = [G:G_x],
+G_x
+G
+G,
+X.
+G
+X.
+{Gx'\\x002223'x in X}
+X.
+X
+e*x = x
+x in X,
+x in Gx
+G
+z in Gx nn Gy.
+Gx = Gy.
+Gx sube Gy.
+z in Gx nn Gy,
+z = g_1 x = g_2 y.
+x = (g_1^(-1)g_2)y,
+g in G,
+gx = (gg_1^(-1)g_2)y in Gy
+H
+[G:H] = 2
+H).
+G
+H
+[G:H] = p,
+G.
+H
+G.
+G
+H
+G
+G//H
+phi:G -> Per(G//H)
+"ker" phi <= H.
+phi
+phi(g) = phi_g "\where\ " phi_g(xH) = gxH.
+k in "ker" phi
+phi(k) = phi_k
+k in "ker" phi,
+phi_k(xH) = kxH = xH
+x in G.
+x = e
+kH = H
+k in H.
+G
+H
+[G:H] = p,
+G.
+G
+G//H
+K = "ker" phi sube H.
+H
+H = K
+K sube H sube G
+G//K ~= "Im" phi <= Per(G//H)
+|G//K| = [G:K]'\\x002223'[G:H]! = |Per(G//H)| = p!.
+[G:K] = [G:H][H:K] = p[H:K].
+[H:K]'\\x002223'(p-1)!.
+[H:K]'\\x002223'|H|'\\x002223'|G|,
+[H:K]'\\x002223'gcd(|G|, (p-1)!) = 1
+p
+|G|.
+[H:K] = 1,
+H = K
+G.
+p^2
+p
+p
+G
+G
+z in G
+Z(G),
+G
+z,
+C_G(z),
+G.
+G
+G
+G = Gg_1'\\x002294'Gg_2'\\x002294'cdots'\\x002294'Gg_t,
+G.
+G
+g_1, ..., g_r
+G
+Z(G).
+|G| = |Z(G)|+sum_(i=1)^r[G:G_(g_i)] = |Z(G)|+sum_(i=1)^r[G:C_G(g_i)].
+G
+G = Gh_1'\\x002294'cdots'\\x002294'Gh_t'\\x002294'Gg_1'\\x002294'Gg_2'\\x002294'cdots'\\x002294'Gg_r
+h_i
+g_i
+|G| = sum_(i=1)^t|Gh_i|+sum_(i=1)^r|Gg_i|.
+|Gg_i| = [G:G_(g_i)] = [G:C_G(g_i)]
+p,
+p
+p.
+G
+p
+G
+p'\\x002223'|Z(G)|.
+|G| = |Z(G)|+sum_(i=1)^r[G:C_G(g_i)],
+g_1, ..., g_r
+[G:C_G(g_i)] > 1
+[G:C_G(g_i)]'\\x002223'|G|
+[G:C_G(g_i)]
+p,
+p.
+|Z(G)| -= |G|-sum_(i=1)^r[G:C_G(g_i)] -= 0\ (modp).
+G
+G//Z(G)
+G
+Z
+Z(G).
+G//Z
+G//Z = '\\x0027e8'xZ'\\x0027e9'
+x in G.
+G
+g, h in G
+gZ = x^m Z
+hZ = x^n Z
+m, n.
+g = x^m z_1
+h = x^n z_2
+z_i in Z.
+gh = x^m z_1 x^n z_2 = z_1 x^(m+n)z_2 = z_2 x^(n+m)z_1 = z_2 x^n x^m z_1 = x^n z_2 x^m z_1 = hg
+z_i
+x^m x^n = x^n x^m.
+G
+p^2.
+G
+|Z(G)| = p
+p^2.
+|Z(G)| = p^2,
+G = Z(G),
+|Z(G)| = p
+G
+Z(G)'\\x0022b4'G,
+G//Z(G)
+p,
+G
+X,
+X
+X
+X
+P = {X_i'\\x002223'i in I}
+X = uuu_(i in I)X_i,
+X_i nn X_j = O/
+i != j.
+X
+X
+R sube X xx X,
+(x, y) in R,
+x~y
+x
+y.
+X
+x~x
+(x, x) in R
+x in X.
+x~y,
+y~x,
+(x, y) in R,
+(y, x) in R.
+x~y
+y~z,
+x~z,
+(x, y), (y, z) in R,
+(x, z).
+~
+X.
+x in X,
+x
+[x] = {y in X'\\x002223'y~x}.
+x in[x],
+y~x,
+x~y
+~
+X.
+P = {[x]'\\x002223'x in X}
+X.
+P = {X_i'\\x002223'i in I}
+X,
+x~y
+x, y in X_j
+j in I
+X
+n
+ZZ.
+n,
+j~k"\iff\ "j -= k\ (modn).
+n
+ZZ_n "\ (or)\ " ZZ//n ZZ = {[k]'\\x002223'k in ZZ}.
+ZZ_n
+n
+[0], [1], ..., [n-1].
+F
+A, B in M_n(F)
+P
+B = P^(-1)AP.
+A
+B
+[A]
+A.
+ZZ_n,
+ZZ_n
+[a]+[b] = [a+b]"\and\ "[a][b] = [ab]
+ZZ_n
+QQ,
+2/5+3/7 = 29/35.
+a/b+c/d?
+1/2 = 2/4 = 5/10, "\etc."?
+a/b
+a//b
+a//b
+(a, b)
+1/2 = 2/4,
+(1, 2) = (2, 4).
+X
+X = ZZ xx ZZ'\\x002216'{0},
+(a, b)~(c, d)"\iff\ "ad-bc = 0.
+(a, b)
+[(a, b)],
+a//b
+a/b.
+X, Y
+phi:X -> Y
+phi
+"ker" phi = {x in X'\\x002223'phi(x) = e}
+e
+e = 0
+X//"ker" phi
+X,
+G, H
+phi:G -> H
+K
+G
+K sube "ker" phi,
+pi:G -> G//K
+g |-> gK
+phi_** :G//K -> H,
+g in G,
+phi(g) = phi_** (pi(g)).
+phi
+G//K
+phi_**
+phi,
+"ker" phi_** = "ker" phi//K.
+phi(g) = phi_** (pi(g))
+phi_** (gK) = phi(pi(g)) = phi(g)
+phi_**
+phi
+phi_**
+phi_**
+phi_** (gKg'K) = phi_** (gg'K) = phi(gg') = phi(g) phi(g') = phi_** (gK) phi_** (g'K),
+G//K
+phi
+phi_** (gK) = phi_** (gkK)"\for any\ "k in K.
+phi_** (gkK) = phi(gk) = phi(g) phi(k) = phi(g) = phi_** (gK)
+phi(k) = e
+K sube "ker" phi.
+"ker" phi_** = {gK in G//K'\\x002223'phi_** (gK) = phi(g) = e_H},
+"ker" phi_** = {gK in G//K'\\x002223'g in "ker" phi} = "ker" phi//K.
+G, H
+phi:G -> H
+G//"ker" phi ~= "Im" phi.
+K = "ker" phi.
+phi_** :G//K -> "Im" phi
+K//K = eK = e_(G//K),
+G//K,
+phi_**
+Psi:G//N -> H
+psi:G -> H
+N.
+Psi:G//N -> H
+n,
+ZZ_n
+n.
+n ZZ
+n
+ZZ,
+ZZ//n ZZ
+ZZ//n ZZ ~= ZZ_n.
+m+n ZZ |-> [m]_n,
+phi:ZZ -> ZZ_n
+m
+[m]_n
+n.
+ZZ_n
+m+m' |-> [m+m']_n = [m]_n+[m']_n
+phi?
+"ker" phi = {m in ZZ'\\x002223'[m]_n = [0]_n} = n ZZ.
+X, Y
+phi:X -> Y
+Z sube "ker" phi
+X//Z
+X
+Y.
+pi:X -> X//Z
+phi_** :X//Z -> Y
+phi = phi_** @pi
+phi,
+"ker" phi_** = "ker" phi//Z.
+phi_**
+phi_**
+Z
+phi_**
+x+Z
+phi(x).
+X//Z
+phi
+[phi_** ((x+Z)(x'+Z)), "<mi//>"=phi_** (xx'+Z)=phi(xx')], [\ , "<mi//>"=phi(x) phi(x')=phi_** (x+Z) phi_** (x'+Z).]
+ZZ//n ZZ ~= ZZ_n

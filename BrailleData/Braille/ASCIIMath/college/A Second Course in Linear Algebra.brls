@@ -1,0 +1,4973 @@
+'\\x0025fb'
+'\\x0025fb'
+T:M_(23) -> CC^4, \ T([[a, b, c], [d, e, f]]) = [[a+2b+12c-3d+e+6f], [2a-b-c+d-11f], [a+b+7c+2d+e-3f], [a+2b+12c+5e-5f]]
+'\\x0025fb'
+[{[[3, -4, 0], [1, 2, 1]],[[-2, -5, 1], [0, 0, 0]]}]
+'\\x0025fb'
+[T([[1, 10, -2], [3, -1, 1]]), "<mi//>"=[[-7], [-14], [-1], [-13]], T([[5, -3, -1], [5, 3, 3]]), "<mi//>"=[[-7], [-14], [-1], [-13]]]
+T
+[[[5, -3, -1], [5, 3, 3]], "<mi//>"=[[1, 10, -2], [3, -1, 1]]+[[4, -13, 1], [2, 4, 2]]], [and], [bb z, "<mi//>"=[[4, -13, 1], [2, 4, 2]] in cc K(T)]
+bb z
+T
+'\\x0025fb'
+[{[[1], [2], [1], [1]],[[2], [-1], [1], [2]],[[12], [-1], [7], [12]],[[-3], [1], [2], [0]],[[1], [0], [1], [5]],[[6], [-11], [-3], [-5]]}]
+'\\x0025fb'
+[{[[1], [0], [0], [0]],[[0], [1], [0], [0]],[[0], [0], [1], [0]],[[0], [0], [0], [1]]}]
+'\\x0025fb'
+CC^4
+cc R(T) = CC^4
+T
+CC^4
+'\\x0025fb'
+["Rank:\ "4, \ , "Nullity:\ "2, \ , "Domain dimension:\ "6, \ ]
+'\\x0025fb'
+'\\x0025fb'
+[B, "<mi//>"={[[1, 0, 0], [0, 0, 0]],[[0, 1, 0], [0, 0, 0]],[[0, 0, 1], [0, 0, 0]],[[0, 0, 0], [1, 0, 0]],[[0, 0, 0], [0, 1, 0]],[[0, 0, 0], [0, 0, 1]]}, \ , "(Domain basis)"], [C, "<mi//>"={[[1], [0], [0], [0]],[[0], [1], [0], [0]],[[0], [0], [1], [0]],[[0], [0], [0], [1]]}, \ , "(Codomain basis)"], [M_(B,C)^T, "<mi//>"=[[1, 2, 12, -3, 1, 6], [2, -1, -1, 1, 0, -11], [1, 1, 7, 2, 1, -3], [1, 2, 12, 0, 5, -5]]]
+'\\x0025fb'
+'\\x0025fb'
+[x_1+4x_2-x_4+7x_6-9x_7, "<mi//>"=3], [2x_1+8x_2-x_3+3x_4+9x_5-13x_6+7x_7, "<mi//>"=9], [2x_3-3x_4-4x_5+12x_6-8x_7, "<mi//>"=1], [-x_1-4x_2+2x_3+4x_4+8x_5-31x_6+37x_7, "<mi//>"=4]
+'\\x0025fb'
+x_1 = -25
+x_2 = 4
+x_3 = 22
+x_4 = 29
+x_5 = 1
+x_6 = 2
+x_7 = -3
+x_1 = -7
+x_2 = 5
+x_3 = 7
+x_4 = 15
+x_5 = -4
+x_6 = 2
+x_7 = 1
+x_1 = 4
+x_2 = 0
+x_3 = 2
+x_4 = 1
+x_5 = 0
+x_6 = 0
+x_7 = 0
+'\\x0025fb'
+[[1, 4, 0, -1, 0, 7, -9, 3], [2, 8, -1, 3, 9, -13, 7, 9], [0, 0, 2, -3, -4, 12, -8, 1], [-1, -4, 2, 4, 8, -31, 37, 4]]
+'\\x0025fb'
+[[|overline(underline(1))|, 4, 0, 0, 2, 1, -3, 4], [0, 0, |overline(underline(1))|, 0, 1, -3, 5, 2], [0, 0, 0, |overline(underline(1))|, 2, -6, 6, 1], [0, 0, 0, 0, 0, 0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=3, D, "<mi//>"={1,3,4}, F, "<mi//>"={2,5,6,7,8}]
+'\\x0025fb'
+F
+F
+[[x_1], [x_2], [x_3], [x_4], [x_5], [x_6], [x_7]] = [[4], [0], [2], [1], [0], [0], [0]]+x_2[[-4], [1], [0], [0], [0], [0], [0]]+x_5[[-2], [0], [-1], [-2], [1], [0], [0]]+x_6[[-1], [0], [3], [6], [0], [1], [0]]+x_7[[3], [0], [-5], [-6], [0], [0], [1]]
+'\\x0025fb'
+[x_1+4x_2-x_4+7x_6-9x_7, "<mi//>"=0], [2x_1+8x_2-x_3+3x_4+9x_5-13x_6+7x_7, "<mi//>"=0], [2x_3-3x_4-4x_5+12x_6-8x_7, "<mi//>"=0], [-x_1-4x_2+2x_3+4x_4+8x_5-31x_6+37x_7, "<mi//>"=0]
+'\\x0025fb'
+x_1 = 0
+x_2 = 0
+x_3 = 0
+x_4 = 0
+x_5 = 0
+x_6 = 0
+x_7 = 0
+x_1 = 3
+x_2 = 0
+x_3 = -5
+x_4 = -6
+x_5 = 0
+x_6 = 0
+x_7 = 1
+x_1 = -1
+x_2 = 0
+x_3 = 3
+x_4 = 6
+x_5 = 0
+x_6 = 1
+x_7 = 0
+x_1 = -2
+x_2 = 0
+x_3 = -1
+x_4 = -2
+x_5 = 1
+x_6 = 0
+x_7 = 0
+x_1 = -4
+x_2 = 1
+x_3 = 0
+x_4 = 0
+x_5 = 0
+x_6 = 0
+x_7 = 0
+x_1 = -4
+x_2 = 1
+x_3 = -3
+x_4 = -2
+x_5 = 1
+x_6 = 1
+x_7 = 1
+'\\x0025fb'
+[[|overline(underline(1))|, 4, 0, 0, 2, 1, -3, 0], [0, 0, |overline(underline(1))|, 0, 1, -3, 5, 0], [0, 0, 0, |overline(underline(1))|, 2, -6, 6, 0], [0, 0, 0, 0, 0, 0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=3, D, "<mi//>"={1,3,4}, F, "<mi//>"={2,5,6,7,8}]
+'\\x0025fb'
+[[1, 4, 0, -1, 0, 7, -9], [2, 8, -1, 3, 9, -13, 7], [0, 0, 2, -3, -4, 12, -8], [-1, -4, 2, 4, 8, -31, 37]]
+'\\x0025fb'
+[[|overline(underline(1))|, 4, 0, 0, 2, 1, -3], [0, 0, |overline(underline(1))|, 0, 1, -3, 5], [0, 0, 0, |overline(underline(1))|, 2, -6, 6], [0, 0, 0, 0, 0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=3, D, "<mi//>"={1,3,4}, F, "<mi//>"={2,5,6,7}]
+'\\x0025fb'
+D
+F
+'\\x0025fb'
+D
+F
+['\\x0027e8'{[[-4], [1], [0], [0], [0], [0], [0]],[[-2], [0], [-1], [-2], [1], [0], [0]],[[-1], [0], [3], [6], [0], [1], [0]],[[3], [0], [-5], [-6], [0], [0], [1]]}'\\x0027e9']
+'\\x0025fb'
+D
+['\\x0027e8'{[[1], [2], [0], [-1]],[[0], [-1], [2], [2]],[[-1], [3], [-3], [4]]}'\\x0027e9']
+'\\x0025fb'
+L
+L
+r = m
+L
+CC^m
+[L, "<mi//>"=[[1, -12/31, -13/31, 7/31]]]
+['\\x0027e8'{[[-7/31], [0], [0], [1]],[[13/31], [0], [1], [0]],[[12/31], [1], [0], [0]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [0], [-31/7]],[[0], [1], [0], [12/7]],[[0], [0], [1], [13/7]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [4], [0], [0], [2], [1], [-3]],[[0], [0], [1], [0], [1], [-3], [5]],[[0], [0], [0], [1], [2], [-6], [6]]}'\\x0027e9']
+'\\x0025fb'
+["Rank:\ "3, \ , "Nullity:\ "4, \ , "Matrix columns:\ "7, \ ]
+'\\x0025fb'
+1
+i = sqrt(-1)
+a+bi
+6+4i
+alpha = a+bi
+beta = c+di
+alpha = beta
+a = c
+b = d
+alpha = a+bi
+beta = c+di
+alpha+beta
+(a+c)+(b+d)i
+alpha = a+bi
+beta = c+di
+alpha beta
+(ac-bd)+(ad+bc)i
+alpha, beta in CC
+alpha+beta in CC
+alpha, beta in CC
+alpha beta in CC
+alpha, beta in CC
+alpha+beta = beta+alpha
+alpha, beta in CC
+alpha beta = beta alpha
+alpha, beta, gamma in CC
+alpha+(beta+gamma) = (alpha+beta)+gamma
+alpha, beta, gamma in CC
+alpha(beta gamma) = (alpha beta) gamma
+alpha, beta, gamma in CC
+alpha(beta+gamma) = alpha beta+alpha gamma
+0 = 0+0i
+alpha in CC
+0+alpha = alpha
+1 = 1+0i
+alpha in CC
+1 alpha = alpha
+alpha in CC
+-alpha in CC
+alpha+(-alpha) = 0
+alpha in CC
+alpha != 0
+1/alpha in CC
+alpha(1/alpha) = 1
+alpha in CC
+0 alpha = 0
+alpha, beta in CC
+alpha beta = 0
+alpha = 0
+beta = 0
+alpha beta != 0
+alpha != 0
+beta != 0
+alpha = a+bi in CC^\
+bar alpha = a-bi
+alpha
+beta
+bar(alpha+beta) = bar alpha+bar beta
+alpha
+beta
+bar(alpha beta) = bar alpha bar beta
+alpha
+bar(bar alpha) = alpha
+alpha = a+bi in CC^\
+|alpha| = sqrt(bar alpha alpha) = sqrt(a^2+b^2).
+|-3| = |-3+0i| = 3
+0+0i
+0
+A
+m xx n
+cc L(A) = cc N(A^t) sube CC^m
+bb y in cc L(A)
+A^t bb y = '\\y01d7ce'
+['\\y01d7ce'^t, "<mi//>"=(A^t bb y)^t, \ , "Definition LNS"], [\ , "<mi//>"=bb y^t(A^t)^t, \ , "Theorem MMT"], [\ , "<mi//>"=bb y^t A, \ , "Theorem TT"]
+bb y^t A
+bb y
+A
+'\\y01d7ce'^t
+L
+A
+A
+m xx n
+A
+m xx m
+m xx(n+m)
+M
+M
+N
+N
+A
+B
+C
+J
+K
+L
+N
+B
+m xx n
+n
+N
+J
+m xx m
+m
+N
+B
+r
+N
+C
+r xx n
+B
+K
+r xx m
+r
+J
+L
+(m-r) xx m
+m-r
+J
+M = [A|I_m]overset("RREF")(->)N = [B|J] = [[C, K], [0, L]]
+A
+m xx n
+N
+J
+B = JA
+bb x in CC^n
+bb y in CC^m
+Abb x = bb y
+Bbb x = Jbb y
+C
+r
+L
+m-r
+A
+A
+B = I_n
+JA = B = I_n
+J
+A
+A
+bb x
+cc L cc S(A, bb y)
+bb x
+cc L cc S(B, Jbb y)
+[<mo fence="true" stretchy="true" symmetric="true"//>A|bb y]
+[<mo fence="true" stretchy="true" symmetric="true"//>B|Jbb y]
+J
+A
+A
+A
+Jbb y
+C
+L
+A
+m xx n
+N
+A
+r
+C
+N
+r
+n
+L
+N
+m
+m-r
+A
+C
+cc N(A) = cc N(C)
+A
+C
+cc R(A) = cc R(C)
+A
+L
+cc C(A) = cc N(L)
+A
+L
+cc L(A) = cc R(L)
+C
+L
+C
+L
+r = m
+L
+cc C(A)
+cc N(L)
+L
+L
+cc C(A) = cc N(L) = CC^m
+r = m
+cc L cc S(A, bb b)
+n
+bb b in cc C(A)
+bb b
+A
+cc C(A) = CC^m
+r = m
+L
+bb y in CC^m
+A
+cc L cc S(A, bb y)
+[<mo fence="true" stretchy="true" symmetric="true"//>A|bb y]
+m-r
+Jbb y
+m-r
+L
+m-r
+J
+bb y in cc N(L)
+J
+A
+B
+J
+A
+B
+JA = B
+L
+A
+L
+A
+r = 3
+L
+L
+'\\x0025fb'
+'\\x0025fb'
+T:CC^5 -> CC^3, \ T([[x_1], [x_2], [x_3], [x_4], [x_5]]) = [[2x_1+x_2+3x_3-4x_4+5x_5], [x_1-2x_2+3x_3-9x_4+3x_5], [3x_1+4x_3-6x_4+5x_5]]
+'\\x0025fb'
+[{[[1], [-1], [-2], [0], [1]],[[-2], [-1], [3], [1], [0]]}]
+'\\x0025fb'
+[T([[-3], [1], [-2], [-3], [1]]), "<mi//>"=[[6], [19], [6]], T([[-4], [-4], [-2], [-1], [4]]), "<mi//>"=[[6], [19], [6]]]
+T
+[[[-4], [-4], [-2], [-1], [4]], "<mi//>"=[[-3], [1], [-2], [-3], [1]]+[[-1], [-5], [0], [2], [3]]], [and], [bb z, "<mi//>"=[[-1], [-5], [0], [2], [3]] in cc K(T)]
+bb z
+T
+'\\x0025fb'
+[{[[2], [1], [3]],[[1], [-2], [0]],[[3], [3], [4]],[[-4], [-9], [-6]],[[5], [3], [5]]}]
+'\\x0025fb'
+[{[[1], [0], [0]],[[0], [1], [0]],[[0], [0], [1]]}]
+'\\x0025fb'
+CC^3
+CC^3
+'\\x0025fb'
+["Rank:\ "3, \ , "Nullity:\ "2, \ , "Domain dimension:\ "5, \ ]
+'\\x0025fb'
+'\\x0025fb'
+A
+T(bb x) = Abb x
+CC^m
+[[2, 1, 3, -4, 5], [1, -2, 3, -9, 3], [3, 0, 4, -6, 5]]
+T:U -> V
+U
+V
+T(bb u_1+bb u_2) = T(bb u_1)+T(bb u_2)
+bb u_1, bb u_2 in U
+T(alpha bb u) = alpha T(bb u)
+bb u in U
+alpha in CC^\
+T
+T(bb u)
+V
+T(bb x+bb y) = T(bb x)+T(bb y)
+U
+bb x
+bb y
+U
+V
+T(bb x)
+T(bb y)
+V
+T:U -> V
+T('\\y01d7ce') = '\\y01d7ce'
+S([[0], [0], [0]]) = [[0], [0], [-2]]
+S
+[S(0+0x+0x^2+0x^3), "<mi//>"=[[0, 0], [0, 0]]]
+T:U -> V
+U
+V
+T(bb x) = bb y
+T(bb u) = bb v = T(bb w)
+bb t
+T('\\y01d7ce'_U) = '\\y01d7ce'_V
+A
+m xx n
+T:CC^n -> CC^m
+T(bb x) = Abb x
+T
+m xx n
+A
+T(bb x) = Abb x
+T
+CC^n
+CC^m
+T:CC^n -> CC^m
+m xx n
+A
+T(bb x) = Abb x
+A
+T
+CC^m
+T:U -> V
+bb u_1, bb u_2, bb u_3, ..., bb u_t
+U
+a_1, a_2, a_3, ..., a_t
+CC^\
+T(a_1 bb u_1+a_2 bb u_2+a_3 bb u_3+cdots+a_t bb u_t) = a_1 T(bb u_1)+a_2 T(bb u_2)+a_3 T(bb u_3)+cdots+a_t T(bb u_t)
+U
+B = {bb u_1, bb u_2, bb u_3, ..., bb u_n}
+V
+bb v_1, bb v_2, bb v_3, ..., bb v_n
+T:U -> V
+T(bb u_i) = bb v_i
+1 <= i <= n
+n
+T:U -> V
+bb v
+bb v
+U
+T^(-1)(bb v) = {<mo fence="true" stretchy="true" symmetric="true"//>bb u in U|T(bb u) = bb v}
+T^(-1)(bb v)
+U
+bb v
+U
+T^(-1)(bb v)
+T:U -> V
+S:U -> V
+T+S:U -> V
+(T+S)(bb u) = T(bb u)+S(bb u)
+V
+U
+T+S
+T
+S
+T+S
+T:U -> V
+S:U -> V
+T+S:U -> V
+T:U -> V
+alpha in CC^\
+alpha T:U -> V
+(alpha T)(bb u) = alpha T(bb u)
+T
+alpha T
+T:U -> V
+alpha in CC^\
+(alpha T):U -> V
+U
+V
+U
+V
+cc L T(U, V)
+cc L T(U, V)
+cc L T(U, V)
+U
+V
+U
+V
+cc L T(U, V)
+T:U -> V
+S:V -> W
+S
+T
+(S@T):U -> W
+(S@T)(bb u) = S(T(bb u))
+T
+S
+S@T
+T:U -> V
+S:V -> W
+(S@T):U -> W
+T
+S
+T+S
+T
+2T
+T
+S
+S@T
+CC^m
+m
+CC^\
+RR^m
+m
+'\\x0027e8'2, 3, -1, 6'\\x0027e9'
+m
+(3, 4, -2)
+x
+y
+z
+bb u, bb v in CC^m
+bb u
+bb v
+bb u = bb v
+[[bb u]_i, "<mi//>"=[bb v]_i, \ , 1<=i<=m]
+u_i = v_i
+1 <= i <= m
+CC^m
+bb u, bb v in CC^m
+bb u
+bb v
+bb u+bb v
+[[bb u+bb v]_i, "<mi//>"=[bb u]_i+[bb v]_i, \ , 1<=i<=m]
+u_i+v_i
+CC^4
+CC^4
+bb u in CC^m
+alpha in CC^\
+bb u
+alpha
+alpha bb u
+[[alpha bb u]_i, "<mi//>"=alpha[bb u]_i, \ , 1<=i<=m]
+alpha
+beta
+bb u
+bb v
+CC^5
+CC^m
+m
+bb u, bb v in CC^m
+bb u+bb v in CC^m
+alpha in CC^\
+bb u in CC^m
+alpha bb u in CC^m
+bb u, bb v in CC^m
+bb u+bb v = bb v+bb u
+bb u, bb v, bb w in CC^m
+bb u+(bb v+bb w) = (bb u+bb v)+bb w
+'\\y01d7ce'
+bb u+'\\y01d7ce' = bb u
+bb u in CC^m
+bb u in CC^m
+-bb u in CC^m
+bb u+(-bb u) = '\\y01d7ce'
+alpha, beta in CC^\
+bb u in CC^m
+alpha(beta bb u) = (alpha beta)bb u
+alpha in CC^\
+bb u, bb v in CC^m
+alpha(bb u+bb v) = alpha bb u+alpha bb v
+alpha, beta in CC^\
+bb u in CC^m
+(alpha+beta)bb u = alpha bb u+beta bb u
+bb u in CC^m
+1bb u = bb u
+-bb u
+bb u
+'\\y01d7ce'
+-bb u
+[-bb u]_i = -[bb u]_i = (-1)[bb u]_i = [(-1)bb u]_i
+(bb u+bb v)+(bb w+(bb x+bb y))
+bb u+bb v+bb w+bb x+bb y
+T:V -> V
+p > 0
+T^p(bb v) = '\\y01d7ce'
+bb v in V.
+p
+T.
+T
+T(bb v) = '\\y01d7ce'
+1.
+T:V -> V
+lambda
+T.
+lambda = 0.
+T,
+n,
+p_T(x) = (x-0)^n = x^n.
+T:V -> V
+T
+T
+T:V -> V
+p
+dim(V) = n.
+0 <= p <= n
+{'\\y01d7ce'} = cc K(T^0)'\\x00228a'cc K(T^1)'\\x00228a'cc K(T^2)'\\x00228a'cdots'\\x00228a'cc K(T^p) = cc K(T^(p+1)) = cdots = V
+n xx n
+A,
+A^n,
+T:V -> V
+lambda.
+T|_(cc G_T(lambda))-lambda I_(cc G_T(lambda))
+T|_(cc G_T(lambda))-lambda I_(cc G_T(lambda))
+V.
+cc G_T(lambda).
+lambda.
+T:V -> V
+lambda.
+lambda,
+iota_T(lambda),
+T|_(cc G_T(lambda))-lambda I_(cc G_T(lambda)).
+lambda in CC,
+J_n(lambda)
+n xx n
+[J_n(lambda)]_(ij) = {[lambda, i=j], [1, j=i+1], [0, "otherwise"]<mo fence="true" stretchy="true" symmetric="true"//>
+lambda = 0.
+J_n(lambda)-lambda I_n = J_n(0).
+lambda = 0
+J_n(0)
+n.
+'\\x0025fb'
+'\\x0025fb'
+[-7x_1-6x_2-12x_3, "<mi//>"=-33], [5x_1+5x_2+7x_3, "<mi//>"=24], [x_1+4x_3, "<mi//>"=5]
+'\\x0025fb'
+x_1 = -3, \ x_2 = 5, \ x_3 = 2
+'\\x0025fb'
+[[-7, -6, -12, -33], [5, 5, 7, 24], [1, 0, 4, 5]]
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 0, -3], [0, |overline(underline(1))|, 0, 5], [0, 0, |overline(underline(1))|, 2]]
+'\\x0025fb'
+[r, "<mi//>"=3, D, "<mi//>"={1,2,3}, F, "<mi//>"={4}]
+'\\x0025fb'
+F
+F
+[[x_1], [x_2], [x_3]] = [[-3], [5], [2]]
+'\\x0025fb'
+[-7x_1-6x_2-12x_3, "<mi//>"=0], [5x_1+5x_2+7x_3, "<mi//>"=0], [x_1+4x_3, "<mi//>"=0]
+'\\x0025fb'
+x_1 = 0, \ x_2 = 0, \ x_3 = 0
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 0, 0], [0, |overline(underline(1))|, 0, 0], [0, 0, |overline(underline(1))|, 0]]
+'\\x0025fb'
+[r, "<mi//>"=3, D, "<mi//>"={1,2,3}, F, "<mi//>"={4}]
+'\\x0025fb'
+[[-7, -6, -12], [5, 5, 7], [1, 0, 4]]
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 0], [0, |overline(underline(1))|, 0], [0, 0, |overline(underline(1))|]]
+'\\x0025fb'
+[r, "<mi//>"=3, D, "<mi//>"={1,2,3}, F, "<mi//>"={\ }]
+'\\x0025fb'
+D
+F
+'\\x0025fb'
+D
+F
+['\\x0027e8'{\ }'\\x0027e9']
+'\\x0025fb'
+D
+['\\x0027e8'{[[-7], [5], [1]],[[-6], [5], [0]],[[-12], [7], [4]]}'\\x0027e9']
+'\\x0025fb'
+L
+L
+r = m
+L
+CC^m
+[L, "<mi//>"=[\ ]]
+['\\x0027e8'{[[1], [0], [0]],[[0], [1], [0]],[[0], [0], [1]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [0]],[[0], [1], [0]],[[0], [0], [1]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [0]],[[0], [1], [0]],[[0], [0], [1]]}'\\x0027e9']
+'\\x0025fb'
+[[-10, -12, -9], [13/2, 8, 11/2], [5/2, 3, 5/2]]
+'\\x0025fb'
+["Rank:\ "3, \ , "Nullity:\ "0, \ , "Matrix columns:\ "3, \ ]
+'\\x0025fb'
+["Determinant:\ "-2]
+'\\x0025fb'
+[lambda, "<mi//>"=-1, cc E_B(-1), "<mi//>"='\\x0027e8'{[[-5], [3], [1]]}'\\x0027e9'], [lambda, "<mi//>"=1, cc E_B(1), "<mi//>"='\\x0027e8'{[[-3], [2], [1]]}'\\x0027e9'], [lambda, "<mi//>"=2, cc E_B(2), "<mi//>"='\\x0027e8'{[[-2], [1], [1]]}'\\x0027e9']
+'\\x0025fb'
+[gamma_B(-1), "<mi//>"=1, alpha_B(-1), "<mi//>"=1], [gamma_B(1), "<mi//>"=1, alpha_B(1), "<mi//>"=1], [gamma_B(2), "<mi//>"=1, alpha_B(2), "<mi//>"=1]
+'\\x0025fb'
+'\\x0025fb'
+[[[-1, -1, -1], [2, 3, 1], [-1, -2, 1]][[-7, -6, -12], [5, 5, 7], [1, 0, 4]][[-5, -3, -2], [3, 2, 1], [1, 1, 1]], "<mi//>"=[[-1, 0, 0], [0, 1, 0], [0, 0, 2]]]
+m
+n
+m = n
+n
+A
+cc L cc S(A, '\\y01d7ce')
+{'\\y01d7ce'}
+A
+A
+5 xx 7
+m xx m
+I_m
+[[I_m]_(ij), "<mi//>"={[1, i=j], [0, i!=j]<mo fence="true" stretchy="true" symmetric="true"//>\ 1<=i,j<=m]
+A
+B
+A
+B
+A
+A
+A
+cc N(A) = {'\\y01d7ce'}
+A
+A
+cc L cc S(A, bb b)
+bb b
+bb b
+cc L cc S(A, bb b)
+A
+A
+A
+A
+cc N(A) = {'\\y01d7ce'}
+cc L cc S(A, bb b)
+bb b
+T:U -> V
+T
+bb v in V
+bb u in U
+T(bb u) = bb v
+y = f(x) = x^2
+y = -3
+bb v in V
+bb u in U
+T(bb u) = bb v
+bb v in V
+bb u in U
+T(bb u) = bb v
+V
+V
+U
+V
+T:U -> V
+V
+T:U -> V
+T
+cc R(T) = {<mo fence="true" stretchy="true" symmetric="true"//>T(bb u)|bb u in U}
+T:U -> V
+T
+cc R(T)
+V
+T:U -> V
+T
+T
+cc R(T) = V
+T:U -> V
+[S, "<mi//>"={bb u_1,bb u_2,bb u_3,...,bb u_t}]
+U
+[R, "<mi//>"={T(bb u_1),T(bb u_2),T(bb u_3),...,T(bb u_t)}]
+cc R(T)
+T:U -> V
+bb v in cc R(T)"\if and only if\ "T^(-1)(bb v) != O/
+bb x, bb y in V
+T:U -> V
+[B, "<mi//>"={bb u_1,bb u_2,bb u_3,...,bb u_m}]
+U
+T
+[C, "<mi//>"={T(bb u_1),T(bb u_2),T(bb u_3),...,T(bb u_m)}]
+V
+T:U -> V
+dim(U) >= dim(V)
+T:U -> V
+S:V -> W
+(S@T):U -> W
+V
+W,
+W,
+V = Uo+W.
+W
+U.
+V
+U.
+W
+V = Uo+W,
+W
+V.
+V
+U.
+W
+V = Uo+W,
+W
+V.
+V
+U.
+U
+V
+U^_|_ = {bb v in V|'\\x0027e8'bb v, bb u'\\x0027e9' = 0"\for every\ "bb u in U}.
+V
+U.
+A
+U.
+U^_|_ = cc N(A^** ).
+V
+U.
+V = Uo+U^_|_.
+A
+m xx n
+CC^m = cc C(A)o+cc C(A)^_|_ = cc C(A)o+cc N(A^** ).
+Q
+R
+A
+n.
+A
+CC^n.
+n
+i
+i
+1
+i-1
+1
+i
+i
+1.
+1.
+R',
+n.
+Q = AR'.
+Q
+Q^**Q
+R'
+1.
+R'
+R
+1.
+A = QR.
+Q
+R'
+R,
+Q
+Q
+R
+A
+Q,
+A
+Q,
+S
+A
+m xx n
+n.
+m xx n
+Q
+R
+n
+A = QR.
+n
+m >= n.
+Q
+R
+Q
+Q
+A,
+i
+Q
+i
+A,
+1 <= i <= n.
+A
+m xx n
+n.
+Q
+m
+m xx n
+R
+A = QR.
+A
+Q
+R
+R,
+A
+m xx n
+Q
+m
+m xx n
+R
+A = QR.
+A
+Abb x = bb b.
+A
+QRbb x = bb b.
+Q
+Rbb x = Q^**bb b.
+R
+m xx n
+~2mn^2.
+m >= n
+R
+~2mn^2-2/3 n^3
+Q.
+m = n,
+~4/3 n^3,
+A
+R
+B
+A
+A
+B
+bb x
+3x = 12
+x = 1x = (1/3(3))x = 1/3(3x) = 1/3(12) = 4
+3
+3^(-1) = 1/3
+x
+[0x, "<mi//>"=12, 0x, "<mi//>"=0]
+B
+A
+B
+n
+AB = I_n
+BA = I_n
+A
+B
+A
+B = A^(-1)
+B
+A
+A
+B
+A
+B
+B
+AB = I_3
+n^2
+n^2
+2 xx 2
+A = [[a, b], [c, d]]
+A
+ad-bc != 0
+A
+A^(-1) = 1/(ad-bc) [[d, -b], [-c, a]]
+a
+f
+ad-bc
+3 xx 3
+A
+n
+n xx 2n
+M
+n xx n
+I_n
+A
+N
+M
+J
+n
+N
+AJ = I_n
+A
+B
+AB = I_n
+B
+BA = I_n
+B
+A
+A
+A
+A
+A^(-1)
+A
+B
+n
+AB
+(AB)^(-1) = B^(-1)A^(-1)
+A
+A^(-1)
+(A^(-1))^(-1) = A
+A
+A^t
+(A^t)^(-1) = (A^(-1))^t
+A
+alpha
+(alpha A)^(-1) = 1/alpha A^(-1)
+alpha A
+(A+B)^(-1) = A^(-1)+B^(-1)
+CC
+RR
+CC^m
+CC^m
+bb u
+CC^m
+bar bb u
+[[bar bb u]_i, "<mi//>"=bar([bb u]_i), \ , 1<=i<=m]
+bb x
+bb y
+CC^m
+bar(bb x+bb y) = bar bb x+bar bb y
+bb x
+CC^m
+alpha in CC
+bar(alpha bb x) = bar alpha bar bb x
+bb u, bb v in CC^m
+bb u
+bb v
+CC^\
+'\\x0027e8'bb u, bb v'\\x0027e9' = bar([bb u]_1)[bb v]_1+bar([bb u]_2)[bb v]_2+bar([bb u]_3)[bb v]_3+cdots+bar([bb u]_m)[bb v]_m = sum_(i=1)^m bar([bb u]_i)[bb v]_i
+CC^m
+RR^m
+bb u, bb v, bb w in CC^m
+'\\x0027e8'bb u+bb v, bb w'\\x0027e9' = '\\x0027e8'bb u, bb w'\\x0027e9'+'\\x0027e8'bb v, bb w'\\x0027e9'
+'\\x0027e8'bb u, bb v+bb w'\\x0027e9' = '\\x0027e8'bb u, bb v'\\x0027e9'+'\\x0027e8'bb u, bb w'\\x0027e9'
+bb u, bb v in CC^m
+alpha in CC^\
+'\\x0027e8'alpha bb u, bb v'\\x0027e9' = bar alpha'\\x0027e8'bb u, bb v'\\x0027e9'
+'\\x0027e8'bb u, alpha bb v'\\x0027e9' = alpha'\\x0027e8'bb u, bb v'\\x0027e9'
+bb u
+bb v
+CC^m
+'\\x0027e8'bb u, bb v'\\x0027e9' = bar('\\x0027e8'bb v,bb u'\\x0027e9')
+c
+|c|
+bb u
+CC^\
+'\\x002016'bb u'\\x002016' = sqrt(|[bb u]_1|^2+|[bb u]_2|^2+|[bb u]_3|^2+cdots+|[bb u]_m|^2) = sqrt(sum_(i=1)^m|[bb u]_i|^2)
+bb u
+CC^m
+'\\x002016'bb u'\\x002016'^2 = '\\x0027e8'bb u, bb u'\\x0027e9'
+bb u
+CC^m
+'\\x0027e8'bb u, bb u'\\x0027e9' >= 0
+bb u = '\\y01d7ce'
+[bb u in CC^m, "<mi//>"=>'\\x0027e8'bb u,bb u'\\x0027e9'>=0], [bb u='\\y01d7ce', "<mi//>"=>'\\x0027e8'bb u,bb u'\\x0027e9'=0], ['\\x0027e8'bb u,bb u'\\x0027e9'=0, "<mi//>"=>bb u='\\y01d7ce']
+bb u
+bb v
+CC^m
+'\\x0027e8'bb u, bb v'\\x0027e9' = 0
+S = {bb u_1, bb u_2, bb u_3, ..., bb u_n}
+CC^m
+S
+S
+'\\x0027e8'bb u_i, bb u_j'\\x0027e9' = 0
+i != j
+bb e_j in CC^m
+1 <= j <= m
+[[bb e_j]_i, "<mi//>"={[0, "if\ "i!=j], [1, "if\ "i=j]<mo fence="true" stretchy="true" symmetric="true"//>]
+[{bb e_1,bb e_2,bb e_3,...,bb e_m}, "<mi//>"={<mo fence="true" stretchy="true" symmetric="true"//>bb e_j|1<=j<=m}]
+CC^m
+bb e_j
+j
+m xx m
+I_m
+I_m
+bb e_i
+S
+S
+p
+S
+p
+T
+'\\x0027e8'S'\\x0027e9' = '\\x0027e8'T'\\x0027e9'
+S = {bb v_1, bb v_2, bb v_3, ..., bb v_p}
+CC^m
+bb u_i
+1 <= i <= p
+bb u_i = bb v_i- ('\\x0027e8'bb u_1,bb v_i'\\x0027e9')/('\\x0027e8'bb u_1,bb u_1'\\x0027e9') bb u_1- ('\\x0027e8'bb u_2,bb v_i'\\x0027e9')/('\\x0027e8'bb u_2,bb u_2'\\x0027e9') bb u_2- ('\\x0027e8'bb u_3,bb v_i'\\x0027e9')/('\\x0027e8'bb u_3,bb u_3'\\x0027e9') bb u_3-cdots- ('\\x0027e8'bb u_(i-1),bb v_i'\\x0027e9')/('\\x0027e8'bb u_(i-1),bb u_(i-1)'\\x0027e9') bb u_(i-1)
+T = {bb u_1, bb u_2, bb u_3, ..., bb u_p}
+T
+'\\x0027e8'T'\\x0027e9' = '\\x0027e8'S'\\x0027e9'
+S = {bb u_1, bb u_2, bb u_3, ..., bb u_n}
+'\\x002016'bb u_i'\\x002016' = 1
+1 <= i <= n
+S
+A
+A^**A = AA^** .
+A
+B
+n
+A
+B
+n
+S
+A = S^(-1)BS
+A
+B
+S
+S
+A
+B
+A
+B
+B
+A
+S^(-1)
+S
+S^(-1)BS
+S
+B
+A
+B
+C
+n
+A
+A
+A
+B
+B
+A
+A
+B
+B
+C
+A
+C
+A
+B
+A
+B
+p_A(x) = p_B(x)
+A
+A
+[A]_(ij) = 0
+i != j
+A
+A
+A
+S
+A
+n
+A
+S
+n
+A
+n
+R
+R^(-1)AR
+D
+D
+R
+R
+A
+A
+gamma_A(lambda) = alpha_A(lambda)
+lambda
+A
+lambda = 0
+lambda = 2
+A
+n
+n
+A
+n
+CC^n
+'\\x0025fb'
+'\\x0025fb'
+unknownmathmlelementmerror"\\begin{equation*}&\\ltdefn{T}{P_2}{P_2},\\\\&\\lt{T}{a+bx+cx^2}=\\left(19a+6b-4c\\right)+\\left(-24a-7b+4c\\right)x+\\left(36a+12b-9c\\right)x^2\\end{equation*}"
+'\\x0025fb'
+[{\ }]
+'\\x0025fb'
+'\\x0025fb'
+[{19-24x+36x^2,6-7x+12x^2,-4+4x-9x^2}]
+'\\x0025fb'
+[{1,x,x^2}]
+'\\x0025fb'
+CC^5
+cc R(T) = CC^5
+T
+CC^5
+'\\x0025fb'
+["Rank:\ "3, \ , "Nullity:\ "0, \ , "Domain dimension:\ "3, \ ]
+'\\x0025fb'
+'\\x0025fb'
+[B, "<mi//>"={1,x,x^2}, \ , "(Domain basis)"], [C, "<mi//>"={1,x,x^2}, \ , "(Codomain basis)"], [M_(B,C)^T, "<mi//>"=[[19, 6, -4], [-24, -7, 4], [36, 12, -9]]]
+'\\x0025fb'
+T^(-1)(T(bb x)) = bb x
+T(T^(-1)(bb x)) = bb x
+[T^(-1):P_2->P_2,\ T^(-1)(a+bx+cx^2)=(-5a-2b+4/3 c)+(24a+9b-20/3 c)x+(12a+4b-11/3 c)x^2]
+'\\x0025fb'
+[lambda, "<mi//>"=-1, cc E_T(-1), "<mi//>"='\\x0027e8'{2x+3x^2}'\\x0027e9'], [lambda, "<mi//>"=1, cc E_T(1), "<mi//>"='\\x0027e8'{-1+3x}'\\x0027e9'], [lambda, "<mi//>"=3, cc E_T(3), "<mi//>"='\\x0027e8'{1-2x+x^2}'\\x0027e9']
+'\\x0025fb'
+[B, "<mi//>"={2x+3x^2,-1+3x,1-2x+x^2}, \ , "(Domain, codomain basis)"], [M_(B,B)^T, "<mi//>"=[[-1, 0, 0], [0, 1, 0], [0, 0, 3]]]
+T:V -> V
+W
+V.
+T(bb w) in W
+bb w in W.
+W
+V
+T.
+V
+T
+T:V -> V
+lambda
+cc E_T(lambda).
+W
+cc E_T(lambda).
+W
+V
+T.
+T:V -> V
+T
+V
+T.
+T,
+cc R(T),
+T
+{'\\y01d7ce'}
+T.
+T:V -> V
+k
+cc K(T^k)
+V.
+k = 0
+k = 1.
+T:V -> V
+U
+V
+T.
+T
+U
+[\ , T|_U:U->U, T|_U(bb u), "<mi//>"=T(bb u)]
+T|_U
+T.
+T|_U
+T
+T|_U
+J_k(0).
+T:V -> V
+p.
+V
+M_(B,B)^T,
+J_k(0).
+p,
+T,
+n(T).
+T:V -> V
+lambda.
+cc G_T(lambda)
+T|_(cc G_T(lambda)):cc G_T(lambda) -> cc G_T(lambda)
+J_k(lambda)
+k
+rho < lambda
+J_k(rho)
+J_cc l(lambda).
+rho = lambda
+cc l < k,
+J_cc l(lambda)
+J_k(lambda).
+T:V -> V
+B
+V
+T
+J_k(lambda)
+lambda
+T.
+lambda,
+J_k(lambda)
+lambda,
+iota_T(lambda).
+lambda,
+J_k(lambda)
+lambda,
+gamma_T(lambda).
+lambda,
+J_k(lambda)
+lambda,
+alpha_T(lambda).
+CC^m
+V
+V
+S = {bb u_1, bb u_2, bb u_3, ..., bb u_n}
+alpha_1 bb u_1+alpha_2 bb u_2+alpha_3 bb u_3+cdots+alpha_n bb u_n = '\\y01d7ce'
+S
+alpha_i = 0
+1 <= i <= n
+S
+V
+S = {bb u_1, bb u_2, bb u_3, ..., bb u_n}
+V
+S
+S
+S
+P_4
+M_(32)
+V
+S sube V
+'\\x0027e8'S'\\x0027e9'
+W sube V
+S
+'\\x0027e8'S'\\x0027e9' = W
+W
+S
+W
+S
+W
+V
+S
+V
+V
+'\\x0027e8'S'\\x0027e9' = V
+S
+V
+S
+V
+'\\x0027e8'S'\\x0027e9'sube V
+V sube'\\x0027e8'S'\\x0027e9'
+P_4
+M_(22)
+V
+B = {bb v_1, bb v_2, bb v_3, ..., bb v_m}
+V
+bb w
+V
+a_1, a_2, a_3, ..., a_m
+bb w = a_1 bb v_1+a_2 bb v_2+a_3 bb v_3+cdots+a_m bb v_m.
+'\\x0025fb'
+'\\x0025fb'
+[[-2, -1, -2, -4, 4], [-6, -5, -4, -4, 6], [10, 7, 7, 10, -13], [-7, -5, -6, -9, 10], [-4, -3, -4, -6, 6]]
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 0, 1, -2], [0, |overline(underline(1))|, 0, -2, 2], [0, 0, |overline(underline(1))|, 2, -1], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=3, D, "<mi//>"={1,2,3}, F, "<mi//>"={4,5}]
+'\\x0025fb'
+D
+F
+'\\x0025fb'
+D
+F
+['\\x0027e8'{[[-1], [2], [-2], [1], [0]],[[2], [-2], [1], [0], [1]]}'\\x0027e9']
+'\\x0025fb'
+D
+['\\x0027e8'{[[-2], [-6], [10], [-7], [-4]],[[-1], [-5], [7], [-5], [-3]],[[-2], [-4], [7], [-6], [-4]]}'\\x0027e9']
+'\\x0025fb'
+L
+L
+r = m
+L
+CC^m
+[L, "<mi//>"=[[1, 0, -2, -6, 5], [0, 1, 4, 10, -9]]]
+['\\x0027e8'{[[-5], [9], [0], [0], [1]],[[6], [-10], [0], [1], [0]],[[2], [-4], [1], [0], [0]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [0], [9/4], [5/2]],[[0], [1], [0], [5/4], [3/2]],[[0], [0], [1], [1/2], [1]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [0], [1], [-2]],[[0], [1], [0], [-2], [2]],[[0], [0], [1], [2], [-1]]}'\\x0027e9']
+'\\x0025fb'
+'\\x0025fb'
+["Rank:\ "3, \ , "Nullity:\ "2, \ , "Matrix columns:\ "5, \ ]
+'\\x0025fb'
+["Determinant:\ "0]
+'\\x0025fb'
+[lambda, "<mi//>"=-1, cc E_L(-1), "<mi//>"='\\x0027e8'{[[-5], [9], [0], [0], [1]],[[6], [-10], [0], [1], [0]],[[2], [-4], [1], [0], [0]]}'\\x0027e9'], [lambda, "<mi//>"=0, cc E_L(0), "<mi//>"='\\x0027e8'{[[2], [-2], [1], [0], [1]],[[-1], [2], [-2], [1], [0]]}'\\x0027e9']
+'\\x0025fb'
+[gamma_L(-1), "<mi//>"=3, alpha_L(-1), "<mi//>"=3], [gamma_L(0), "<mi//>"=2, alpha_L(0), "<mi//>"=2]
+'\\x0025fb'
+'\\x0025fb'
+[[[4, 3, 4, 6, -6], [7, 5, 6, 9, -10], [-10, -7, -7, -10, 13], [-4, -3, -4, -6, 7], [-7, -5, -6, -8, 10]][[-2, -1, -2, -4, 4], [-6, -5, -4, -4, 6], [10, 7, 7, 10, -13], [-7, -5, -6, -9, 10], [-4, -3, -4, -6, 6]][[-5, 6, 2, 2, -1], [9, -10, -4, -2, 2], [0, 0, 1, 1, -2], [0, 1, 0, 0, 1], [1, 0, 0, 1, 0]], "<mi//>"=[[-1, 0, 0, 0, 0], [0, -1, 0, 0, 0], [0, 0, -1, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0]]]
+'\\x0025fb'
+'\\x0025fb'
+[x_1+2x_2-2x_3+9x_4+3x_5-5x_6-2x_7+x_8+27x_9, "<mi//>"=-5], [2x_1+4x_2+3x_3+4x_4-x_5+4x_6+10x_7+2x_8-23x_9, "<mi//>"=18], [x_1+2x_2+x_3+3x_4+x_5+x_6+5x_7+2x_8-7x_9, "<mi//>"=6], [2x_1+4x_2+3x_3+4x_4-7x_5+2x_6+4x_7-11x_9, "<mi//>"=20], [x_1+2x_2+5x_4+2x_5-4x_6+3x_7+8x_8+13x_9, "<mi//>"=-4], [-3x_1-6x_2-x_3-13x_4+2x_5-5x_6-4x_7+13x_8+10x_9, "<mi//>"=-29]
+'\\x0025fb'
+x_1 = 6
+x_2 = 0
+x_3 = -1
+x_4 = 0
+x_5 = -1
+x_6 = 2
+x_7 = 0
+x_8 = 0
+x_9 = 0
+x_1 = 4
+x_2 = 1
+x_3 = -1
+x_4 = 0
+x_5 = -1
+x_6 = 2
+x_7 = 0
+x_8 = 0
+x_9 = 0
+x_1 = -17
+x_2 = 7
+x_3 = 3
+x_4 = 2
+x_5 = -1
+x_6 = 14
+x_7 = -1
+x_8 = 3
+x_9 = 2
+x_1 = -11
+x_2 = -6
+x_3 = 1
+x_4 = 5
+x_5 = -4
+x_6 = 7
+x_7 = 3
+x_8 = 1
+x_9 = 1
+'\\x0025fb'
+[[1, 2, -2, 9, 3, -5, -2, 1, 27, -5], [2, 4, 3, 4, -1, 4, 10, 2, -23, 18], [1, 2, 1, 3, 1, 1, 5, 2, -7, 6], [2, 4, 3, 4, -7, 2, 4, 0, -11, 20], [1, 2, 0, 5, 2, -4, 3, 8, 13, -4], [-3, -6, -1, -13, 2, -5, -4, 13, 10, -29]]
+'\\x0025fb'
+[[|overline(underline(1))|, 2, 0, 5, 0, 0, 1, -2, 3, 6], [0, 0, |overline(underline(1))|, -2, 0, 0, 3, 5, -6, -1], [0, 0, 0, 0, |overline(underline(1))|, 0, 1, 1, -1, -1], [0, 0, 0, 0, 0, |overline(underline(1))|, 0, -2, -3, 2], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=4, D, "<mi//>"={1,3,5,6}, F, "<mi//>"={2,4,7,8,9,10}]
+'\\x0025fb'
+F
+F
+[[x_1], [x_2], [x_3], [x_4], [x_5], [x_6], [x_7], [x_8], [x_9]] = [[6], [0], [-1], [0], [-1], [2], [0], [0], [0]]+x_2[[-2], [1], [0], [0], [0], [0], [0], [0], [0]]+x_4[[-5], [0], [2], [1], [0], [0], [0], [0], [0]]+x_7[[-1], [0], [-3], [0], [-1], [0], [1], [0], [0]]+x_8[[2], [0], [-5], [0], [-1], [2], [0], [1], [0]]+x_9[[-3], [0], [6], [0], [1], [3], [0], [0], [1]]
+'\\x0025fb'
+[x_1+2x_2-2x_3+9x_4+3x_5-5x_6-2x_7+x_8+27x_9, "<mi//>"=0], [2x_1+4x_2+3x_3+4x_4-x_5+4x_6+10x_7+2x_8-23x_9, "<mi//>"=0], [x_1+2x_2+x_3+3x_4+x_5+x_6+5x_7+2x_8-7x_9, "<mi//>"=0], [2x_1+4x_2+3x_3+4x_4-7x_5+2x_6+4x_7-11x_9, "<mi//>"=0], [x_1+2x_2++5x_4+2x_5-4x_6+3x_7+8x_8+13x_9, "<mi//>"=0], [-3x_1-6x_2-x_3-13x_4+2x_5-5x_6-4x_7+13x_8+10x_9, "<mi//>"=0]
+'\\x0025fb'
+x_1 = 0
+x_2 = 0
+x_3 = 0
+x_4 = 0
+x_5 = 0
+x_6 = 0
+x_7 = 0
+x_8 = 0
+x_9 = 0
+x_1 = -2
+x_2 = 1
+x_3 = 0
+x_4 = 0
+x_5 = 0
+x_6 = 0
+x_7 = 0
+x_8 = 0
+x_9 = 0
+x_1 = -23
+x_2 = 7
+x_3 = 4
+x_4 = 2
+x_5 = 0
+x_6 = 12
+x_7 = -1
+x_8 = 3
+x_9 = 2
+x_1 = -17
+x_2 = -6
+x_3 = 2
+x_4 = 5
+x_5 = -3
+x_6 = 5
+x_7 = 3
+x_8 = 1
+x_9 = 1
+'\\x0025fb'
+[[|overline(underline(1))|, 2, 0, 5, 0, 0, 1, -2, 3, 0], [0, 0, |overline(underline(1))|, -2, 0, 0, 3, 5, -6, 0], [0, 0, 0, 0, |overline(underline(1))|, 0, 1, 1, -1, 0], [0, 0, 0, 0, 0, |overline(underline(1))|, 0, -2, -3, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=4, D, "<mi//>"={1,3,5,6}, F, "<mi//>"={2,4,7,8,9,10}]
+'\\x0025fb'
+[[1, 2, -2, 9, 3, -5, -2, 1, 27], [2, 4, 3, 4, -1, 4, 10, 2, -23], [1, 2, 1, 3, 1, 1, 5, 2, -7], [2, 4, 3, 4, -7, 2, 4, 0, -11], [1, 2, 0, 5, 2, -4, 3, 8, 13], [-3, -6, -1, -13, 2, -5, -4, 13, 10]]
+'\\x0025fb'
+[[|overline(underline(1))|, 2, 0, 5, 0, 0, 1, -2, 3], [0, 0, |overline(underline(1))|, -2, 0, 0, 3, 5, -6], [0, 0, 0, 0, |overline(underline(1))|, 0, 1, 1, -1], [0, 0, 0, 0, 0, |overline(underline(1))|, 0, -2, -3], [0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=4, D, "<mi//>"={1,3,5,6}, F, "<mi//>"={2,4,7,8,9}]
+'\\x0025fb'
+D
+F
+'\\x0025fb'
+D
+F
+['\\x0027e8'{[[-2], [1], [0], [0], [0], [0], [0], [0], [0]],[[-5], [0], [2], [1], [0], [0], [0], [0], [0]],[[-1], [0], [-3], [0], [-1], [0], [1], [0], [0]],[[2], [0], [-5], [0], [-1], [2], [0], [1], [0]],[[-3], [0], [6], [0], [1], [3], [0], [0], [1]]}'\\x0027e9']
+'\\x0025fb'
+D
+['\\x0027e8'{[[1], [2], [1], [2], [1], [-3]],[[-2], [3], [1], [3], [0], [-1]],[[3], [-1], [1], [-7], [2], [2]],[[-5], [4], [1], [2], [-4], [-5]]}'\\x0027e9']
+'\\x0025fb'
+L
+L
+r = m
+L
+CC^m
+[L, "<mi//>"=[[1, 0, 186/131, 51/131, -188/131, 77/131], [0, 1, -272/131, -45/131, 58/131, -14/131]]]
+['\\x0027e8'{[[-77/131], [14/131], [0], [0], [0], [1]],[[188/131], [-58/131], [0], [0], [1], [0]],[[-51/131], [45/131], [0], [1], [0], [0]],[[-186/131], [272/131], [1], [0], [0], [0]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [0], [0], [-1], [-29/7]],[[0], [1], [0], [0], [-11/2], [-94/7]],[[0], [0], [1], [0], [10], [22]],[[0], [0], [0], [1], [3/2], [3]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [2], [0], [5], [0], [0], [1], [-2], [3]],[[0], [0], [1], [-2], [0], [0], [3], [5], [-6]],[[0], [0], [0], [0], [1], [0], [1], [1], [-1]],[[0], [0], [0], [0], [0], [1], [0], [-2], [-3]]}'\\x0027e9']
+'\\x0025fb'
+["Rank:\ "4, \ , "Nullity:\ "5, \ , "Matrix columns:\ "9, \ ]
+'\\x0025fb'
+'\\x0025fb'
+'\\x0025fb'
+T:M_(22) -> M_(22), \ T([[a, b], [c, d]]) = [[-2a+15b+3c+27d, 10b+6c+18d], [a-5b-9d, -a-4b-5c-8d]]
+'\\x0025fb'
+[{[[-6, -3], [2, 1]]}]
+'\\x0025fb'
+[T([[-2, 0], [1, -4]]), "<mi//>"=[[115, 78], [-38, -35]], T([[4, 3], [-1, 3]]), "<mi//>"=[[115, 78], [-38, -35]]]
+T
+[[[4, 3], [-1, 3]], "<mi//>"=[[-2, 0], [1, -4]]+[[6, 3], [-2, -1]]], [and], [bb z, "<mi//>"=[[6, 3], [-2, -1]] in cc K(T)]
+bb z
+T
+'\\x0025fb'
+[{[[-2, 0], [1, -1]],[[15, 10], [-5, -4]],[[3, 6], [0, -5]],[[27, 18], [-9, -8]]}]
+'\\x0025fb'
+[{[[1, 0], [-1/2, 0]],[[0, 1], [1/4, 0]],[[0, 0], [0, 1]]}]
+'\\x0025fb'
+M_(22)
+cc R(T) != M_(22)
+[[2, 4], [3, 1]]!incc R(T)
+T
+T^(-1)([[2, 4], [3, 1]])
+'\\x0025fb'
+["Rank:\ "3, \ , "Nullity:\ "1, \ , "Domain dimension:\ "4, \ ]
+'\\x0025fb'
+'\\x0025fb'
+[B, "<mi//>"={[[1, 0], [0, 0]],[[0, 1], [0, 0]],[[0, 0], [1, 0]],[[0, 0], [0, 1]]}, \ , "(Domain basis)"], [C, "<mi//>"={[[1, 0], [0, 0]],[[0, 1], [0, 0]],[[0, 0], [1, 0]],[[0, 0], [0, 1]]}, \ , "(Codomain basis)"], [M_(B,C)^T, "<mi//>"=[[-2, 15, 3, 27], [0, 10, 6, 18], [1, -5, 0, -9], [-1, -4, -5, -8]]]
+'\\x0025fb'
+[lambda, "<mi//>"=0, cc E_T(0), "<mi//>"='\\x0027e8'{[[-6, -3], [2, 1]]}'\\x0027e9'], [lambda, "<mi//>"=1, cc E_T(1), "<mi//>"='\\x0027e8'{[[-7, -2], [3, 0]],[[-1, -2], [0, 1]]}'\\x0027e9'], [lambda, "<mi//>"=3, cc E_T(3), "<mi//>"='\\x0027e8'{[[-3, -2], [1, 1]]}'\\x0027e9']
+'\\x0025fb'
+[B, "<mi//>"={[[-6, -3], [2, 1]],[[-7, -2], [3, 0]],[[-1, -2], [0, 1]],[[-3, -2], [1, 1]]}, \ , "(Domain, codomain basis)"], [M_(B,B)^T, "<mi//>"=[[0, 0, 0, 0], [0, 1, 0, 0], [0, 0, 3, 0], [0, 0, 0, 3]]]
+'\\x0025fb'
+'\\x0025fb'
+T:CC^3 -> CC^5, \ T([[x_1], [x_2], [x_3]]) = [[-x_1+x_2+x_3], [-x_1+2x_2+2x_3], [x_1+x_2+3x_3], [2x_1+3x_2+x_3], [-2x_1+x_2+3x_3]]
+'\\x0025fb'
+[{\ }]
+'\\x0025fb'
+cc K(T) = {'\\y01d7ce'}
+T
+'\\x0025fb'
+[{[[-1], [-1], [1], [2], [-2]],[[1], [2], [1], [3], [1]],[[1], [2], [3], [1], [3]]}]
+'\\x0025fb'
+[{[[1], [0], [0], [-10], [6]],[[0], [1], [0], [7], [-3]],[[0], [0], [1], [-1], [1]]}]
+'\\x0025fb'
+CC^5
+CC^3
+[[2], [1], [-3], [2], [6]]!incc R(T)
+T^(-1)([[2], [1], [-3], [2], [6]])
+'\\x0025fb'
+["Rank:\ "3, \ , "Nullity:\ "0, \ , "Domain dimension:\ "3, \ ]
+'\\x0025fb'
+'\\x0025fb'
+A
+T(bb x) = Abb x
+CC^m
+[[-1, 1, 1], [-1, 2, 2], [1, 1, 3], [2, 3, 1], [-2, 1, 3]]
+T:U -> V
+T
+T(bb x) = T(bb y)
+bb x = bb y
+f(x) = x^2
+x = 3
+x = -3
+T(bb x) = T(bb y)
+bb x = bb y
+T(bb u) = bb v = T(bb w)
+V
+T
+V
+T
+T:U -> V
+U
+T:U -> V
+T
+cc K(T) = {<mo fence="true" stretchy="true" symmetric="true"//>bb u in U|T(bb u) = '\\y01d7ce'}
+T
+'\\y01d7ce'
+T^(-1)('\\y01d7ce')
+T:U -> V
+T
+cc K(T)
+U
+T:U -> V
+bb v in V
+T^(-1)(bb v)
+bb u in T^(-1)(bb v)
+T^(-1)(bb v) = {<mo fence="true" stretchy="true" symmetric="true"//>bb u+bb z|bb z in cc K(T)} = bb u+cc K(T)
+T(bb u_i) = bb v_i
+i = 1, 2, 3
+T('\\y01d7ce'_U) = '\\y01d7ce'_V
+T^(-1)(bb v_2)
+T^(-1)('\\y01d7ce'_V)
+cc K(T)
+U
+bb x, bb y in V
+T:U -> V
+T
+T
+cc K(T) = {'\\y01d7ce'}
+T:U -> V
+[S, "<mi//>"={bb u_1,bb u_2,bb u_3,...,bb u_t}]
+U
+[R, "<mi//>"={T(bb u_1),T(bb u_2),T(bb u_3),...,T(bb u_t)}]
+V
+T:U -> V
+[B, "<mi//>"={bb u_1,bb u_2,bb u_3,...,bb u_m}]
+U
+T
+[C, "<mi//>"={T(bb u_1),T(bb u_2),T(bb u_3),...,T(bb u_m)}]
+V
+T:U -> V
+dim(U) <= dim(V)
+T:U -> V
+S:V -> W
+(S@T):U -> W
+A
+m xx n
+bb A_1, bb A_2, bb A_3, ..., bb A_n
+A
+cc C(A)
+CC^m
+A
+cc C(A) = '\\x0027e8'{bb A_1, bb A_2, bb A_3, ..., bb A_n}'\\x0027e9'
+A
+m xx n
+bb b
+m
+bb b in cc C(A)
+cc L cc S(A, bb b)
+cc L cc S(A, bb b)
+bb b
+A
+A
+bb b
+A
+cc L cc S(A, bb b)
+[bb b in cc C(A)'\\x0027fa'cc L cc S(A,bb b)"\is consistent"'\\x0027fa'Abb x=bb b "\for some\ "bb x]
+m xx n
+A
+[cc C(A), "<mi//>"={<mo fence="true" stretchy="true" symmetric="true"//>bb y in CC^m|bb y=Abb x "\for some\ "bb x in CC^n}={<mo fence="true" stretchy="true" symmetric="true"//>Abb x|bb x in CC^n} sube CC^m]
+A
+bb x
+A
+cc C(A)
+cc N(A)
+bb b
+A
+bb b in cc C(A)
+cc L cc S(A, bb b)
+[<mo fence="true" stretchy="true" symmetric="true"//>A|bb b]
+cc L cc S(A, bb b)
+A^(-1)bb b
+A
+cc C(A)
+cc C(A)
+A
+A
+m xx n
+bb A_1, bb A_2, bb A_3, ..., bb A_n
+B
+r
+D = {d_1, d_2, d_3, ..., d_r}
+B
+T = {bb A_(d_1), bb A_(d_2), bb A_(d_3), ..., bb A_(d_r)}
+T
+cc C(A) = '\\x0027e8'T'\\x0027e9'
+T
+r
+A
+n
+A
+cc C(A) = CC^n
+A
+n
+A
+A
+A
+cc N(A) = {'\\y01d7ce'}
+cc L cc S(A, bb b)
+bb b
+A
+A
+A
+CC^n
+cc C(A) = CC^n
+A
+m xx n
+A
+cc R(A)
+A^t
+cc R(A) = cc C(A^t)
+A
+A
+m xx n
+cc C(A) sube CC^m
+cc R(A) sube CC^n
+A
+n
+cc C(A)
+cc R(A)
+CC^n
+A
+B
+cc R(A) = cc R(B)
+A
+B
+S
+B^t
+cc R(A) = '\\x0027e8'S'\\x0027e9'
+S
+A
+cc C(A) = cc R(A^t)
+A
+m xx n
+bb A_1, bb A_2, bb A_3, ..., bb A_n
+bb u
+n
+A
+bb u
+Au = [bb u]_1 bb A_1+[bb u]_2 bb A_2+[bb u]_3 bb A_3+cdots+[bb u]_n bb A_n
+m xx n
+n
+m
+A
+cc L cc S(A, bb b)
+cc L cc S(A, bb b)
+bb x
+Abb x = bb b
+A
+B
+m xx n
+Abb x = Bbb x
+bb x in CC^n
+A = B
+CC^n
+A
+m xx n
+bb B_1, bb B_2, bb B_3, ..., bb B_p
+n xx p
+B
+A
+B
+m xx p
+i
+Abb B_i
+AB = A[bb B_1|bb B_2|bb B_3|...|bb B_p] = [Abb B_1|Abb B_2|Abb B_3|...|Abb B_p].
+BA
+A
+m xx n
+B
+n xx p
+1 <= i <= m
+1 <= j <= p
+AB
+[[AB]_(ij), "<mi//>"=[A]_(i1)[B]_(1j)+[A]_(i2)[B]_(2j)+[A]_(i3)[B]_(3j)+cdots+[A]_(in)[B]_(nj)], [\ , "<mi//>"=sum_(k=1)^n[A]_(ik)[B]_(kj)]
+A
+m xx n
+A0_(n xx p) = 0_(m xx p)
+0_(p xx m)A = 0_(p xx n)
+A
+m xx n
+AI_n = A
+I_m A = A
+A
+m xx n
+B
+C
+n xx p
+D
+p xx s
+A(B+C) = AB+AC
+(B+C)D = BD+CD
+A
+m xx n
+B
+n xx p
+alpha
+alpha(AB) = (alpha A)B = A(alpha B)
+A
+m xx n
+B
+n xx p
+D
+p xx s
+A(BD) = (AB)D
+bb u, bb v
+bar bb u^t bb v
+1 xx 1
+bb u, bb v in CC^m
+m xx 1
+['\\x0027e8'bb u,bb v'\\x0027e9', "<mi//>"=bar bb u^t bb v=bb u^**bb v]
+A
+m xx n
+B
+n xx p
+bar(AB) = bar A bar B
+A
+m xx n
+B
+n xx p
+(AB)^t = B^t A^t
+A
+B
+A
+m xx n
+B
+n xx p
+(AB)^** = B^**A^**
+n xx 1
+A
+m xx n
+bb x in CC^n
+bb y in CC^m
+'\\x0027e8'Abb x, bb y'\\x0027e9' = '\\x0027e8'bb x, A^**bb y'\\x0027e9'
+A
+A = A^**
+A
+n
+A
+'\\x0027e8'Abb x, bb y'\\x0027e9' = '\\x0027e8'bb x, Abb y'\\x0027e9'
+bb x, bb y in CC^n
+cc C(A).
+cc R(T),
+P
+P^2 = P.
+P
+bb x in cc C(P).
+Pbb x-bb x = '\\y01d7ce'.
+P
+n
+bb x in CC^n
+Pbb x-bb x in cc N(P).
+cc N(P) = {Pbb x-bb x|bb x in CC^n}.
+bb x,
+Pbb x-bb x,
+P.
+cc N(P)
+cc N(P).
+P,
+P
+I-P.
+I-P
+P
+I-P
+P
+P.
+P
+cc C(I-P) = cc N(P)
+cc N(I-P) = cc C(P).
+P
+n.
+CC^n = cc C(P)o+cc N(P).
+P
+cc N(P) = (cc C(P))^_|_.
+P,
+CC^n = cc C(P)o+cc N(P).
+m xx n
+A,
+CC^m = cc C(A)o+cc C(A)^_|_ = cc C(A)o+cc N(A^** ).
+P
+P
+P
+U
+bb u_1, bb u_2, bb u_3, ..., bb u_k
+A
+P
+bb x.
+U,
+Pbb x in cc C(A),
+bb w
+Pbb x = Abb w.
+Pbb x-bb x
+U.
+U,
+A.
+[\ , A^** (Pbb x-bb x)='\\y01d7ce'], [\ , A^**Abb w-A^**bb x='\\y01d7ce'], [\ , A^**Abb w=A^**bb x]
+A
+A^**A
+Pbb x = Abb w = A(A^**A)^(-1)A^**bb x
+P = A(A^**A)^(-1)A^** .
+U
+A
+U.
+P = A(A^**A)^(-1)A^**
+U.
+U
+Q.
+P = Q(Q^**Q)^(-1)Q^** = QQ^** .
+U
+A^**A
+AA^** ,
+1
+A,
+m xx n
+[L]_(ij) = 0 = bar([U]_(ji))
+i < j,
+U^**U,
+U
+A
+'\\x0027e8'bb x, Abb x'\\x0027e9' > 0
+bb x != '\\y01d7ce'.
+A
+U,
+A = U^**U.
+A.
+A
+n xx n
+[A, "<mi//>"=[[a, bb y^** ], [bb y, B]]], [\ , "<mi//>"=[[sqrt(a), '\\y01d7ce'^** ], [1/(sqrt(a)) bb y, I]][[1, '\\y01d7ce'^** ], ['\\y01d7ce', B-1/a bb y bb y^** ]][[sqrt(a), 1/(sqrt(a)) bb y^** ], ['\\y01d7ce', I]]], [\ , "<mi//>"=U_1^**A_1 U_1]
+A,
+bb x = bb e_1
+a = '\\x0027e8'bb e_1, Abb e_1'\\x0027e9' > 0.
+(n-1) xx(n-1)
+B-1/a bb y bb y^** ?
+A
+bb x = U_1^(-1)bb e_2
+A
+A_1
+n
+A = U_1^**U_2^** ...U_n^**IU_n...U_2 U_1 = U^**U
+A
+[A]_(ij)
+bb v
+[bb v]_i
+'\\y01d7ce'
+cc L cc S(A, bb b)
+[<mo fence="true" stretchy="true" symmetric="true"//>A|bb b]
+R_i harr R_j
+alpha R_i
+alpha R_i+R_j
+r
+D
+F
+cc N(A)
+I_m
+CC^m
+bb u = bb v
+bb u+bb v
+alpha bb u
+'\\x0027e8'S'\\x0027e9'
+bar bb u
+'\\x0027e8'bb u, bb v'\\x0027e9'
+'\\x002016'bb v'\\x002016'
+bb e_i
+M_(mn)
+A = B
+A+B
+alpha A
+0
+A^t
+bar A
+A^**
+Au
+AB
+A^(-1)
+cc C(A)
+cc R(A)
+cc L(A)
+dim(V)
+n(A)
+r(A)
+E_(i,j)
+E_i(alpha)
+E_(i,j)(alpha)
+A(i|j)
+|A|
+det(A)
+alpha_A(lambda)
+gamma_A(lambda)
+T:U -> V
+cc K(T)
+cc R(T)
+r(T)
+n(T)
+rho_B(bb w)
+M_(B,C)^T
+alpha = beta
+alpha+beta
+alpha beta
+bar alpha
+x in S
+S sube T
+O/
+S = T
+|S|
+S uu T
+S nn T
+bar S
+T:V -> V
+dim(V) = n.
+m,
+0 <= m <= n,
+{'\\y01d7ce'} = cc K(T^0)'\\x00228a'cc K(T^1)'\\x00228a'cc K(T^2)'\\x00228a'cdots'\\x00228a'cc K(T^m) = cc K(T^(m+1)) = cc K(T^(m+2)) = cdots
+T:V -> V
+bb x != '\\y01d7ce',
+(T-lambda I_V)^k(bb x) = '\\y01d7ce'
+k > 0.
+bb x
+T
+lambda.
+T:V -> V
+T
+lambda
+cc G_T(lambda) = {bb x|(T-lambda I_V)^k(bb x) = '\\y01d7ce'"\for some\ "k >= 0}
+V.
+V
+T.
+T:V -> V
+cc G_T(lambda)
+V
+T.
+k
+T:V -> V
+dim(V) = n,
+lambda
+T.
+cc G_T(lambda) = cc K((T-lambda I_V)^n).
+k.
+k = n.
+cc E_T(lambda) = cc K((T-lambda I_V)^1) sube cc K((T-lambda I_V)^n) = cc G_T(lambda)
+lambda
+T,
+T-lambda I_V
+T-lambda I_V
+m = 0
+T:V -> V
+lambda_1, lambda_2, lambda_3, ..., lambda_m.
+V = cc G_T(lambda_1)o+cc G_T(lambda_2)o+cc G_T(lambda_3)o+cdots o+cc G_T(lambda_m)
+T:V -> V
+lambda.
+lambda
+lambda,
+dim(cc G_T(lambda)) = alpha_T(lambda).
+T:U -> V
+B = {bb u_1, bb u_2, bb u_3, ..., bb u_n}
+U
+n
+C
+V
+m
+T
+B
+C
+m xx n
+M_(B,C)^T = [<mo fence="true" stretchy="true" symmetric="true"//>rho_C(T(bb u_1))|<mo fence="true" stretchy="true" symmetric="true"//>rho_C(T(bb u_2))|<mo fence="true" stretchy="true" symmetric="true"//>rho_C(T(bb u_3))|...|rho_C(T(bb u_n))<mo fence="true" stretchy="true" symmetric="true"//>]
+T:U -> V
+B
+U
+C
+V
+M_(B,C)^T
+T
+B
+C
+bb u in U
+rho_C(T(bb u)) = M_(B,C)^T(rho_B(bb u))
+T(bb u) = rho_C^(-1)(M_(B,C)^T(rho_B(bb u)))
+T
+bb u
+C
+V
+bb u
+B
+U
+T
+bb u
+rho_B
+M_(B,C)^T
+rho_C^(-1)
+rho_C
+V
+T
+rho_C
+M_(B,C)^T
+rho_B
+T:U -> V
+S:U -> V
+B
+U
+C
+V
+M_(B,C)^(T+S) = M_(B,C)^T+M_(B,C)^S
+T:U -> V
+alpha in CC^\
+B
+U
+C
+V
+M_(B,C)^(alpha T) = alpha M_(B,C)^T
+U
+V
+m xx n
+T:U -> V
+S:V -> W
+B
+U
+C
+V
+D
+W
+M_(B,D)^(S@T) = M_(C,D)^S M_(B,C)^T
+T:U -> V
+B
+U
+n
+C
+V
+T
+M_(B,C)^T
+cc K(T) ~= cc N(M_(B,C)^T)
+T:U -> V
+B
+U
+n
+C
+V
+m
+T
+M_(B,C)^T
+cc R(T) ~= cc C(M_(B,C)^T)
+T:U -> V
+B
+U
+C
+V
+T
+T
+B
+C
+M_(B,C)^T
+T
+M_(C,B)^(T^(-1)) = (M_(B,C)^T)^(-1)
+S
+T
+A
+n
+T:CC^n -> CC^n
+T(bb x) = Abb x
+A
+T
+A
+n
+A
+A
+A
+cc N(A) = {'\\y01d7ce'}
+cc L cc S(A, bb b)
+bb b
+A
+A
+A
+CC^n
+cc C(A) = CC^n
+A
+CC^n
+A
+n
+r(A) = n
+A
+n(A) = 0
+A
+det(A) != 0
+lambda = 0
+A
+T:CC^n -> CC^n
+T(bb x) = Abb x
+'\\x0025fb'
+'\\x0025fb'
+T:CC^5 -> CC^5, \ T([[x_1], [x_2], [x_3], [x_4], [x_5]]) = [[-2x_1+3x_2+3x_3-6x_4+3x_5], [-16x_1+9x_2+12x_3-28x_4+28x_5], [-19x_1+7x_2+14x_3-32x_4+37x_5], [-21x_1+9x_2+15x_3-35x_4+39x_5], [-9x_1+5x_2+7x_3-16x_4+16x_5]]
+'\\x0025fb'
+[{[[3], [4], [1], [3], [3]]}]
+'\\x0025fb'
+[T([[1], [3], [-1], [2], [4]]), "<mi//>"=[[4], [55], [72], [77], [31]], T([[4], [7], [0], [5], [7]]), "<mi//>"=[[4], [55], [72], [77], [31]]]
+T
+[[[4], [7], [0], [5], [7]], "<mi//>"=[[1], [3], [-1], [2], [4]]+[[3], [4], [1], [3], [3]]], [and], [bb z, "<mi//>"=[[3], [4], [1], [3], [3]] in cc K(T)]
+bb z
+T
+'\\x0025fb'
+[{[[-2], [-16], [-19], [-21], [-9]],[[3], [9], [7], [9], [5]],[[3], [12], [14], [15], [7]],[[-6], [-28], [-32], [-35], [-16]],[[3], [28], [37], [39], [16]]}]
+'\\x0025fb'
+[{[[1], [0], [0], [0], [1]],[[0], [1], [0], [0], [-1]],[[0], [0], [1], [0], [-1]],[[0], [0], [0], [1], [2]]}]
+'\\x0025fb'
+CC^5
+cc R(T) != CC^5
+[[-1], [2], [3], [-1], [4]]!incc R(T)
+T^(-1)([[-1], [2], [3], [-1], [4]])
+'\\x0025fb'
+["Rank:\ "4, \ , "Nullity:\ "1, \ , "Domain dimension:\ "5, \ ]
+'\\x0025fb'
+'\\x0025fb'
+A
+T(bb x) = Abb x
+CC^m
+[[-2, 3, 3, -6, 3], [-16, 9, 12, -28, 28], [-19, 7, 14, -32, 37], [-21, 9, 15, -35, 39], [-9, 5, 7, -16, 16]]
+'\\x0025fb'
+[lambda, "<mi//>"=-1, cc E_T(-1), "<mi//>"='\\x0027e8'{[[0], [2], [3], [3], [1]]}'\\x0027e9'], [lambda, "<mi//>"=0, cc E_T(0), "<mi//>"='\\x0027e8'{[[3], [4], [1], [3], [3]]}'\\x0027e9'], [lambda, "<mi//>"=1, cc E_T(1), "<mi//>"='\\x0027e8'{[[5], [3], [0], [0], [2]],[[-3], [1], [0], [2], [0]],[[1], [-1], [2], [0], [0]]}'\\x0027e9']
+'\\x0025fb'
+[B, "<mi//>"={[[0], [2], [3], [3], [1]],[[3], [4], [1], [3], [3]],[[5], [3], [0], [0], [2]],[[-3], [1], [0], [2], [0]],[[1], [-1], [2], [0], [0]]}, \ , "(Domain, codomain basis)"], [M_(B,B)^T, "<mi//>"=[[-1, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 1, 0, 0], [0, 0, 0, 1, 0], [0, 0, 0, 0, 1]]]
+S = {bb u_1, bb u_2, bb u_3, ..., bb u_n}
+alpha_1 bb u_1+alpha_2 bb u_2+alpha_3 bb u_3+cdots+alpha_n bb u_n = '\\y01d7ce'
+S
+alpha_i = 0
+1 <= i <= n
+S
+S = {bb u_1, bb u_2, bb u_3, ..., bb u_n}
+S
+S
+S
+CC^5
+CC^5
+S = {bb v_1, bb v_2, bb v_3, ..., bb v_n} sube CC^m
+A
+m xx n
+S
+S
+cc L cc S(A, '\\y01d7ce')
+r
+r
+n
+S = {bb v_1, bb v_2, bb v_3, ..., bb v_n} sube CC^m
+A
+m xx n
+S
+B
+A
+r
+B
+S
+n = r
+r
+n
+CC^4
+S = {bb u_1, bb u_2, bb u_3, ..., bb u_n} sube CC^m
+n > m
+S
+n
+CC^n
+A
+A
+A
+A
+A
+A
+A
+cc N(A) = {'\\y01d7ce'}
+cc L cc S(A, bb b)
+bb b
+A
+n-r
+bb z_j
+1 <= j <= n-r
+bb c
+bb z_i
+1 <= i <= n-r
+bb c
+A
+m xx n
+B
+r
+D = {d_1, d_2, d_3, ..., d_r}
+F = {f_1, f_2, f_3, ..., f_(n-r)}
+B
+n-r
+bb z_j
+1 <= j <= n-r
+n
+[bb z_j]_i = {[1, "if\ "i in F",\ "i=f_j], [0, "if\ "i in F",\ "i!=f_j], [-[B]_(k,f_j), "if\ "i in D",\ "i=d_k]<mo fence="true" stretchy="true" symmetric="true"//>
+S = {bb z_1, bb z_2, bb z_3, ..., bb z_(n-r)}
+cc N(A) = '\\x0027e8'S'\\x0027e9'
+S
+r
+D
+F
+D
+F
+r
+D
+F
+D
+F
+r
+r
+r
+r
+r
+D
+F
+A
+B
+j
+B
+x_j
+n
+n+1
+m
+n
+r
+A
+n
+B
+r
+n+1
+B
+n+1 in F
+F
+n+1 in D
+x_(n+1)
+r
+n
+r
+n
+A
+n
+B
+r
+r <= n
+r = n
+r < n
+A
+n
+B
+r
+n-r
+m
+n
+n > m
+m
+n
+n
+r
+n+1
+n+1
+r = n
+n
+n+1
+r < n
+n+1
+cc L cc S(A, bb b)
+bb b = '\\y01d7ce'
+n
+x_1 = 0
+x_2 = 0
+x_n = 0
+bb x = '\\y01d7ce'
+m
+n
+n > m
+n = m
+n > m
+A
+cc N(A)
+cc L cc S(A, '\\y01d7ce')
+n
+bb u_1, bb u_2, bb u_3, ..., bb u_n
+CC^m
+n
+alpha_1, alpha_2, alpha_3, ..., alpha_n
+alpha_1 bb u_1+alpha_2 bb u_2+alpha_3 bb u_3+cdots+alpha_n bb u_n
+CC^6
+m xx n
+A
+bb A_1, bb A_2, bb A_3, ..., bb A_n
+bb x in CC^n
+cc L cc S(A, bb b)
+bb b
+A
+bb x
+[bb x]_1 bb A_1+[bb x]_2 bb A_2+[bb x]_3 bb A_3+cdots+[bb x]_n bb A_n = bb b
+n
+bb A_j
+bb b
+cc L cc S(A, bb b)
+bb b
+A
+x_1 = -3, x_2 = 5, x_3 = 2
+bb x = [[x_1], [x_2], [x_3]] = [[-3], [5], [2]]
+[<mo fence="true" stretchy="true" symmetric="true"//>A|bb b]
+cc L cc S(A, bb b)
+m
+n
+B
+m xx(n+1)
+B
+r
+D = {d_1, d_2, d_3, ..., d_r}
+n-r
+F = {f_1, f_2, f_3, ..., f_(n-r), n+1}
+bb c
+bb u_j
+1 <= j <= n-r
+n
+[[bb c]_i, "<mi//>"={[0, "if\ "i in F], [[B]_(k,n+1), "if\ "i in D",\ "i=d_k]<mo fence="true" stretchy="true" symmetric="true"//>], [[bb u_j]_i, "<mi//>"={[1, "if\ "i in F",\ "i=f_j], [0, "if\ "i in F",\ "i!=f_j], [-[B]_(k,f_j), "if\ "i in D",\ "i=d_k]<mo fence="true" stretchy="true" symmetric="true"//>.]
+cc L cc S(A, bb b)
+S = {<mo fence="true" stretchy="true" symmetric="true"//>bb c+alpha_1 bb u_1+alpha_2 bb u_2+alpha_3 bb u_3+cdots+alpha_(n-r)bb u_(n-r)|alpha_1, alpha_2, alpha_3, ..., alpha_(n-r) in CC^\ }
+alpha_i = [bb x]_(f_i)
+alpha_i
+S
+[bb x]_(f_i)
+1 <= i <= n-r
+bb w
+cc L cc S(A, bb b)
+bb y
+cc L cc S(A, bb b)
+bb y = bb w+bb z
+bb z in cc N(A)
+A
+bb b
+cc L cc S(A, bb b)
+bb w
+bb b
+S = {bb u_1, bb u_2, bb u_3, ..., bb u_p}
+'\\x0027e8'S'\\x0027e9'
+bb u_1, bb u_2, bb u_3, ..., bb u_p
+['\\x0027e8'S'\\x0027e9', "<mi//>"={<mo fence="true" stretchy="true" symmetric="true"//>alpha_1 bb u_1+alpha_2 bb u_2+alpha_3 bb u_3+cdots+alpha_p bb u_p|alpha_i in CC^\ ,1<=i<=p}], [\ , "<mi//>"={<mo fence="true" stretchy="true" symmetric="true"//>sum_(i=1)^p alpha_i bb u_i|alpha_i in CC^\ ,1<=i<=p}]
+S
+p
+'\\x0027e8'S'\\x0027e9'
+S
+'\\x0027e8'S'\\x0027e9'
+bb c
+bb u_1, bb u_2, bb u_3, ..., bb u_(n-r)
+A
+m xx n
+B
+B
+r
+D = {d_1, d_2, d_3, ..., d_r}
+n-r
+F = {f_1, f_2, f_3, ..., f_(n-r), n+1}
+n-r
+bb z_j
+1 <= j <= n-r
+n
+[bb z_j]_i = {[1, "if\ "i in F",\ "i=f_j], [0, "if\ "i in F",\ "i!=f_j], [-[B]_(k,f_j), "if\ "i in D",\ "i=d_k]<mo fence="true" stretchy="true" symmetric="true"//>
+A
+cc N(A) = '\\x0027e8'{bb z_1, bb z_2, bb z_3, ..., bb z_(n-r)}'\\x0027e9'
+B
+B
+'\\x0025fb'
+'\\x0025fb'
+T:CC^5 -> CC^3, \ T([[x_1], [x_2], [x_3], [x_4], [x_5]]) = [[x_1+2x_2+3x_3+4x_4+4x_5], [3x_1+x_2+4x_3-3x_4+7x_5], [x_1-x_2-5x_4+x_5]]
+'\\x0025fb'
+[{[[-2], [-1], [0], [0], [1]],[[2], [-3], [0], [1], [0]],[[-1], [-1], [1], [0], [0]]}]
+'\\x0025fb'
+[T([[1], [2], [-1], [4], [5]]), "<mi//>"=[[38], [24], [-16]], T([[0], [-3], [0], [5], [6]]), "<mi//>"=[[38], [24], [-16]]]
+T
+[[[0], [-3], [0], [5], [6]], "<mi//>"=[[1], [2], [-1], [4], [5]]+[[-1], [-5], [1], [1], [1]]], [and], [bb z, "<mi//>"=[[-1], [-5], [1], [1], [1]] in cc K(T)]
+bb z
+T
+'\\x0025fb'
+[{[[1], [3], [1]],[[2], [1], [-1]],[[3], [4], [0]],[[4], [-3], [-5]],[[4], [7], [1]]}]
+'\\x0025fb'
+[{[[1], [0], [-4/5]],[[0], [1], [3/5]]}]
+'\\x0025fb'
+CC^3
+[[3], [4], [5]]!incc R(T)
+T^(-1)([[3], [4], [5]])
+'\\x0025fb'
+["Rank:\ "2, \ , "Nullity:\ "3, \ , "Domain dimension:\ "5, \ ]
+'\\x0025fb'
+'\\x0025fb'
+A
+T(bb x) = Abb x
+CC^m
+[[1, 2, 3, 4, 4], [3, 1, 4, -3, 7], [1, -1, 0, -5, 1]]
+'\\x0025fb'
+'\\x0025fb'
+[33x_1-16x_2+10x_3-2x_4, "<mi//>"=-27], [99x_1-47x_2+27x_3-7x_4, "<mi//>"=-77], [78x_1-36x_2+17x_3-6x_4, "<mi//>"=-52], [-9x_1+2x_2+3x_3+4x_4, "<mi//>"=5]
+'\\x0025fb'
+x_1 = 1, \ x_2 = 2, \ x_3 = -2, \ x_4 = 4
+'\\x0025fb'
+[[33, -16, 10, -2, -27], [99, -47, 27, -7, -77], [78, -36, 17, -6, -52], [-9, 2, 3, 4, 5]]
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 0, 0, 1], [0, |overline(underline(1))|, 0, 0, 2], [0, 0, |overline(underline(1))|, 0, -2], [0, 0, 0, |overline(underline(1))|, 4]]
+'\\x0025fb'
+[r, "<mi//>"=4, D, "<mi//>"={1,2,3,4}, F, "<mi//>"={5}]
+'\\x0025fb'
+F
+F
+[[x_1], [x_2], [x_3], [x_4]] = [[1], [2], [-2], [4]]
+'\\x0025fb'
+[33x_1-16x_2+10x_3-2x_4, "<mi//>"=0], [99x_1-47x_2+27x_3-7x_4, "<mi//>"=0], [78x_1-36x_2+17x_3-6x_4, "<mi//>"=0], [-9x_1+2x_2+3x_3+4x_4, "<mi//>"=0]
+'\\x0025fb'
+x_1 = 0, \ x_2 = 0, \ x_3 = 0, \ x_4 = 0
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 0, 0, 0], [0, |overline(underline(1))|, 0, 0, 0], [0, 0, |overline(underline(1))|, 0, 0], [0, 0, 0, |overline(underline(1))|, 0]]
+'\\x0025fb'
+[r, "<mi//>"=4, D, "<mi//>"={1,2,3,4}, F, "<mi//>"={5}]
+'\\x0025fb'
+[[33, -16, 10, -2], [99, -47, 27, -7], [78, -36, 17, -6], [-9, 2, 3, 4]]
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 0, 0], [0, |overline(underline(1))|, 0, 0], [0, 0, |overline(underline(1))|, 0], [0, 0, 0, |overline(underline(1))|]]
+'\\x0025fb'
+[r, "<mi//>"=4, D, "<mi//>"={1,2,3,4}, F, "<mi//>"={\ }]
+'\\x0025fb'
+D
+F
+'\\x0025fb'
+D
+F
+['\\x0027e8'{\ }'\\x0027e9']
+'\\x0025fb'
+D
+['\\x0027e8'{[[33], [99], [78], [-9]],[[-16], [-47], [-36], [2]],[[10], [27], [17], [3]],[[-2], [-7], [-6], [4]]}'\\x0027e9']
+'\\x0025fb'
+L
+L
+r = m
+L
+CC^m
+[L, "<mi//>"=[\ ]]
+['\\x0027e8'{[[1], [0], [0], [0]],[[0], [1], [0], [0]],[[0], [0], [1], [0]],[[0], [0], [0], [1]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [0], [0]],[[0], [1], [0], [0]],[[0], [0], [1], [0]],[[0], [0], [0], [1]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [0], [0]],[[0], [1], [0], [0]],[[0], [0], [1], [0]],[[0], [0], [0], [1]]}'\\x0027e9']
+'\\x0025fb'
+'\\x0025fb'
+["Rank:\ "4, \ , "Nullity:\ "0, \ , "Matrix columns:\ "4, \ ]
+'\\x0025fb'
+'\\x0025fb'
+[lambda, "<mi//>"=-1, cc E_F(-1), "<mi//>"='\\x0027e8'{[[1], [2], [0], [1]]}'\\x0027e9'], [lambda, "<mi//>"=2, cc E_F(2), "<mi//>"='\\x0027e8'{[[2], [5], [2], [1]]}'\\x0027e9'], [lambda, "<mi//>"=3, cc E_F(3), "<mi//>"='\\x0027e8'{[[1], [1], [0], [7]],[[17], [45], [21], [0]]}'\\x0027e9']
+'\\x0025fb'
+[gamma_F(-1), "<mi//>"=1, alpha_F(-1), "<mi//>"=1], [gamma_F(2), "<mi//>"=1, alpha_F(2), "<mi//>"=1], [gamma_F(3), "<mi//>"=2, alpha_F(3), "<mi//>"=2]
+'\\x0025fb'
+'\\x0025fb'
+[[[12, -5, 1, -1], [-39, 18, -7, 3], [27/7, -13/7, 6/7, -1/7], [26/7, -12/7, 5/7, -2/7]][[33, -16, 10, -2], [99, -47, 27, -7], [78, -36, 17, -6], [-9, 2, 3, 4]][[1, 2, 1, 17], [2, 5, 1, 45], [0, 2, 0, 21], [1, 1, 7, 0]], "<mi//>"=[[-1, 0, 0, 0], [0, 2, 0, 0], [0, 0, 3, 0], [0, 0, 0, 3]]]
+A
+n
+bb x != '\\y01d7ce'
+CC^n
+lambda
+CC^\
+bb x
+A
+lambda
+Abb x = lambda bb x
+A
+A
+Abb x = lambda bb x'\\x0027fa'Abb x-lambda I_n bb x = '\\y01d7ce''\\x0027fa'(A-lambda I_n)bb x = '\\y01d7ce'
+lambda
+bb x != '\\y01d7ce'
+bb x
+A-lambda I_n
+A-lambda I_n
+A
+n
+A
+p_A(x)
+p_A(x) = det(A-xI_n)
+A
+lambda
+A
+p_A(lambda) = 0
+A
+lambda
+A
+A
+lambda
+cc E_A(lambda)
+A
+lambda
+'\\y01d7ce'
+A
+n
+lambda
+A
+cc E_A(lambda)
+CC^n
+A
+n
+lambda
+A
+cc E_A(lambda) = cc N(A-lambda I_n)
+A
+A
+lambda
+A
+lambda
+alpha_A(lambda)
+(x-lambda)
+p_A(x)
+lambda
+(x-lambda)
+p_A(x)
+alpha_A(lambda) >= 1
+A
+lambda
+A
+lambda
+gamma_A(lambda)
+cc E_A(lambda)
+gamma_A(lambda) >= 1
+'\\x0025fb'
+'\\x0025fb'
+[[10, 18, 24, 24, -12], [12, -2, -6, 0, -18], [-30, -21, -23, -30, 39], [27, 30, 36, 37, -30], [18, 24, 30, 30, -20]]
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 0, 0, 0], [0, |overline(underline(1))|, 0, 0, 0], [0, 0, |overline(underline(1))|, 0, 0], [0, 0, 0, |overline(underline(1))|, 0], [0, 0, 0, 0, |overline(underline(1))|]]
+'\\x0025fb'
+[r, "<mi//>"=5, D, "<mi//>"={1,2,3,4,5}, F, "<mi//>"={\ }]
+'\\x0025fb'
+D
+F
+'\\x0025fb'
+D
+F
+['\\x0027e8'{\ }'\\x0027e9']
+'\\x0025fb'
+D
+['\\x0027e8'{[[10], [12], [-30], [27], [18]],[[18], [-2], [-21], [30], [24]],[[24], [-6], [-23], [36], [30]],[[24], [0], [-30], [37], [30]],[[-12], [-18], [39], [-30], [-20]]}'\\x0027e9']
+'\\x0025fb'
+L
+L
+r = m
+L
+CC^m
+[L, "<mi//>"=[\ ]]
+['\\x0027e8'{[[1], [0], [0], [0], [0]],[[0], [1], [0], [0], [0]],[[0], [0], [1], [0], [0]],[[0], [0], [0], [1], [0]],[[0], [0], [0], [0], [1]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [0], [0], [0]],[[0], [1], [0], [0], [0]],[[0], [0], [1], [0], [0]],[[0], [0], [0], [1], [0]],[[0], [0], [0], [0], [1]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [0], [0], [0]],[[0], [1], [0], [0], [0]],[[0], [0], [1], [0], [0]],[[0], [0], [0], [1], [0]],[[0], [0], [0], [0], [1]]}'\\x0027e9']
+'\\x0025fb'
+[[1, -(9/4), -(3/2), 3, -6], [21/2, 43/4, 21/2, 9, -9], [-15, -(21/2), -11, -15, 39/2], [9, 15/4, 9/2, 10, -15], [9/2, 3/4, 3/2, 6, -(19/2)]]
+'\\x0025fb'
+["Rank:\ "5, \ , "Nullity:\ "0, \ , "Matrix columns:\ "5, \ ]
+'\\x0025fb'
+["Determinant:\ "16]
+'\\x0025fb'
+[lambda, "<mi//>"=-2, cc E_K(-2), "<mi//>"='\\x0027e8'{[[2], [-2], [1], [0], [1]],[[-1], [2], [-2], [1], [0]]}'\\x0027e9'], [lambda, "<mi//>"=1, cc E_K(1), "<mi//>"='\\x0027e8'{[[4], [-10], [7], [0], [2]],[[-4], [18], [-17], [5], [0]]}'\\x0027e9'], [lambda, "<mi//>"=4, cc E_K(4), "<mi//>"='\\x0027e8'{[[1], [-1], [0], [1], [1]]}'\\x0027e9']
+'\\x0025fb'
+[gamma_K(-2), "<mi//>"=2, alpha_K(-2), "<mi//>"=2], [gamma_K(1), "<mi//>"=2, alpha_K(1), "<mi//>"=2], [gamma_K(4), "<mi//>"=1, alpha_K(4), "<mi//>"=1]
+'\\x0025fb'
+'\\x0025fb'
+[[[-4, -3, -4, -6, 7], [-7, -5, -6, -8, 10], [1, -1, -1, 1, -3], [1, 0, 0, 1, -2], [2, 5, 6, 4, 0]][[10, 18, 24, 24, -12], [12, -2, -6, 0, -18], [-30, -21, -23, -30, 39], [27, 30, 36, 37, -30], [18, 24, 30, 30, -20]][[2, -1, 4, -4, 1], [-2, 2, -10, 18, -1], [1, -2, 7, -17, 0], [0, 1, 0, 5, 1], [1, 0, 2, 0, 1]], "<mi//>"=[[-2, 0, 0, 0, 0], [0, -2, 0, 0, 0], [0, 0, 1, 0, 0], [0, 0, 0, 1, 0], [0, 0, 0, 0, 4]]]
+'\\x0025fb'
+'\\x0025fb'
+T:CC^3 -> CC^5, \ T([[x_1], [x_2], [x_3]]) = [[-x_1+x_2-3x_3], [-x_1+2x_2-4x_3], [x_1+x_2+x_3], [2x_1+3x_2+x_3], [x_1+2x_3]]
+'\\x0025fb'
+[{[[-2], [1], [1]]}]
+'\\x0025fb'
+[T([[5], [-1], [3]]), "<mi//>"=[[-15], [-19], [7], [10], [11]], T([[1], [1], [5]]), "<mi//>"=[[-15], [-19], [7], [10], [11]]]
+T
+[[[1], [1], [5]], "<mi//>"=[[5], [-1], [3]]+[[-4], [2], [2]]], [and], [bb z, "<mi//>"=[[-4], [2], [2]] in cc K(T)]
+bb z
+T
+'\\x0025fb'
+[{[[-1], [-1], [1], [2], [1]],[[1], [2], [1], [3], [0]],[[-3], [-4], [1], [1], [2]]}]
+'\\x0025fb'
+[{[[1], [0], [-3], [-7], [-2]],[[0], [1], [2], [5], [1]]}]
+'\\x0025fb'
+CC^5
+CC^3
+[[2], [3], [1], [1], [1]]!incc R(T)
+T^(-1)([[2], [3], [1], [1], [1]])
+'\\x0025fb'
+["Rank:\ "2, \ , "Nullity:\ "1, \ , "Domain dimension:\ "3, \ ]
+'\\x0025fb'
+'\\x0025fb'
+A
+T(bb x) = Abb x
+CC^m
+[[-1, 1, -3], [-1, 2, -4], [1, 1, 1], [2, 3, 1], [1, 0, 2]]
+V
+V
+V
+V
+CC
+bb u, bb v in V
+bb u+bb v in V
+alpha in CC^\
+bb u in V
+alpha bb u in V
+bb u, bb v in V
+bb u+bb v = bb v+bb u
+bb u, bb v, bb w in V
+bb u+(bb v+bb w) = (bb u+bb v)+bb w
+'\\y01d7ce'
+bb u+'\\y01d7ce' = bb u
+bb u in V
+bb u in V
+-bb u in V
+bb u+(-bb u) = '\\y01d7ce'
+alpha, beta in CC^\
+bb u in V
+alpha(beta bb u) = (alpha beta)bb u
+alpha in CC^\
+bb u, bb v in V
+alpha(bb u+bb v) = alpha bb u+alpha bb v
+alpha, beta in CC^\
+bb u in V
+(alpha+beta)bb u = alpha bb u+beta bb u
+bb u in V
+1bb u = bb u
+V
+V
+{0, 1}
+V
+F
+V
+CC^m
+M_(mn)
+A, B in M_(34)
+A
+B
+A
+B
+bb u+bb v = A+B = B+A = bb v+bb u
+CC^m
+M_(mn)
+P_n
+V
+V
+'\\y01d7ce'
+V
+bb u in V
+-bb u
+V
+bb u in V
+0bb u = '\\y01d7ce'
+V
+alpha in CC^\
+alpha'\\y01d7ce' = '\\y01d7ce'
+bb u^'\\x00266f'
+bb u
+bb u+bb u^'\\x00266f' = '\\y01d7ce'
+bb u^'\\x00266f' = (-1)bb u
+V
+bb u in V
+-bb u = (-1)bb u
+6bb u_1+(-4)bb u_2
+6bb u_1-4bb u_2
+alpha, beta in CC
+alpha beta = 0
+alpha = 0
+beta = 0
+V
+alpha in CC^\
+alpha bb u = '\\y01d7ce'
+alpha = 0
+bb u = '\\y01d7ce'
+V
+bb u_1, bb u_2, bb u_3 in V
+5bb u_1+7bb u_2-13bb u_3
+x_1, x_2, x_3
+a, b, c
+m xx n
+CC^\
+m
+n
+A, B, C, ...
+A
+[A]_(ij)
+i
+j
+A
+[A]_(ij)
+x_1
+x_2
+x_3
+a
+b
+c
+x
+y
+z
+m
+m
+bb u
+bb v
+bb w
+bb x
+bb y
+bb z
+vec u
+underset(~)(u)
+bb v
+i
+[bb v]_i
+[bb v]_i
+m
+m
+['\\y01d7ce'=[[0], [0], [0], [vdots], [0]]]
+['\\y01d7ce']_i = 0
+1 <= i <= m
+[a_(11)x_1+a_(12)x_2+a_(13)x_3+cdots+a_(1n)x_n, "<mi//>"=b_1], [a_(21)x_1+a_(22)x_2+a_(23)x_3+cdots+a_(2n)x_n, "<mi//>"=b_2], [a_(31)x_1+a_(32)x_2+a_(33)x_3+cdots+a_(3n)x_n, "<mi//>"=b_3], [vdots, \ ], [a_(m1)x_1+a_(m2)x_2+a_(m3)x_3+cdots+a_(mn)x_n, "<mi//>"=b_m]
+m xx n
+A = [[a_(11), a_(12), a_(13), ..., a_(1n)], [a_(21), a_(22), a_(23), ..., a_(2n)], [a_(31), a_(32), a_(33), ..., a_(3n)], [vdots, \ ], [a_(m1), a_(m2), a_(m3), ..., a_(mn)]]
+[a_(11)x_1+a_(12)x_2+a_(13)x_3+cdots+a_(1n)x_n, "<mi//>"=b_1], [a_(21)x_1+a_(22)x_2+a_(23)x_3+cdots+a_(2n)x_n, "<mi//>"=b_2], [a_(31)x_1+a_(32)x_2+a_(33)x_3+cdots+a_(3n)x_n, "<mi//>"=b_3], [vdots, \ ], [a_(m1)x_1+a_(m2)x_2+a_(m3)x_3+cdots+a_(mn)x_n, "<mi//>"=b_m]
+m
+bb b = [[b_1], [b_2], [b_3], [vdots], [b_m]]
+[a_(11)x_1+a_(12)x_2+a_(13)x_3+cdots+a_(1n)x_n, "<mi//>"=b_1], [a_(21)x_1+a_(22)x_2+a_(23)x_3+cdots+a_(2n)x_n, "<mi//>"=b_2], [a_(31)x_1+a_(32)x_2+a_(33)x_3+cdots+a_(3n)x_n, "<mi//>"=b_3], [vdots, \ ], [a_(m1)x_1+a_(m2)x_2+a_(m3)x_3+cdots+a_(mn)x_n, "<mi//>"=b_m]
+n
+bb x = [[x_1], [x_2], [x_3], [vdots], [x_n]]
+A
+bb b
+cc L cc S(A, bb b)
+m
+n
+A
+bb b
+m xx(n+1)
+n
+A
+n+1
+bb b
+[<mo fence="true" stretchy="true" symmetric="true"//>A|bb b]
+m xx n
+R_i harr R_j
+i
+j
+alpha R_i
+i
+alpha
+alpha R_i+R_j
+i
+alpha
+j
+A
+B
+A
+B
+B
+A
+A
+B
+i
+j
+s
+t
+s > i
+t > j
+r
+D = {d_1, d_2, d_3, ..., d_r}
+d_1 < d_2 < d_3 < cdots < d_r
+F = {f_1, f_2, f_3, ..., f_(n-r)}
+f_1 < f_2 < f_3 < cdots < f_(n-r)
+D
+F
+A
+B
+A
+B
+B
+[A]_(ij)
+B
+A
+m xx n
+B
+C
+m xx n
+A
+B = C
+A
+B
+A
+A
+B
+A
+B
+A
+B
+B
+bb v in CC^n,
+bb v
+P = I_n-(2/('\\x0027e8'bb v,bb v'\\x0027e9') )bb v bb v^** .
+bb v
+bb v in CC^n
+bb v in CC^n
+bb x
+bb e_1.
+Pbb x = alpha bb e_1
+bb x in RR^n,
+bb v = bb x+-'\\x002016'bb x'\\x002016'bb e_1
+P
+bb v.
+Pbb x = -+'\\x002016'bb x'\\x002016'bb e_1.
+bb w
+Pbb w
+[Pbb w-bb w, "<mi//>"=I_n bb w-(2/('\\x0027e8'bb v,bb v'\\x0027e9') )bb v bb v^**bb w-bb w], [\ , "<mi//>"=-2/('\\x0027e8'bb v,bb v'\\x0027e9') bb v'\\x0027e8'bb v,bb w'\\x0027e9'], [\ , "<mi//>"=- (2'\\x0027e8'bb v,bb w'\\x0027e9')/('\\x0027e8'bb v,bb v'\\x0027e9') bb v]
+bb v,
+bb v.
+P?
+'\\x0027e8'bb v, bb w'\\x0027e9' = 0.
+bb v
+RR^3.
+bb v,
+bb v
+-5x+4y+7z = 0.
+(4, 4, 7)
+(9, 0, 0)
+(4, 4, 7)-(9, 0, 0) = (-5, 4, 7)
+bb v
+bb v = bb x+'\\x002016'bb x'\\x002016'bb e_1,
+bb v = [[13], [4], [7]],
+P
+bb x
+[[-9], [0], [0]].
+13x+4y+7z = 0.
+bb x
+bb x
+2'\\x002016'bb v'\\x002016'
+bb v
+CC^m
+'\\x0025fb'
+'\\x0025fb'
+T:CC^5 -> CC^5, \ T([[x_1], [x_2], [x_3], [x_4], [x_5]]) = [[-65x_1+128x_2+10x_3-262x_4+40x_5], [36x_1-73x_2-x_3+151x_4-16x_5], [-44x_1+88x_2+5x_3-180x_4+24x_5], [34x_1-68x_2-3x_3+140x_4-18x_5], [12x_1-24x_2-x_3+49x_4-5x_5]]
+'\\x0025fb'
+[{\ }]
+'\\x0025fb'
+'\\x0025fb'
+[{[[-65], [36], [-44], [34], [12]],[[128], [-73], [88], [-68], [-24]],[[10], [-1], [5], [-3], [-1]],[[-262], [151], [-180], [140], [49]],[[40], [-16], [24], [-18], [-5]]}]
+'\\x0025fb'
+[{[[1], [0], [0], [0], [0]],[[0], [1], [0], [0], [0]],[[0], [0], [1], [0], [0]],[[0], [0], [0], [1], [0]],[[0], [0], [0], [0], [1]]}]
+'\\x0025fb'
+CC^5
+cc R(T) = CC^5
+T
+CC^5
+'\\x0025fb'
+["Rank:\ "5, \ , "Nullity:\ "0, \ , "Domain dimension:\ "5, \ ]
+'\\x0025fb'
+'\\x0025fb'
+A
+T(bb x) = Abb x
+CC^m
+[[-65, 128, 10, -262, 40], [36, -73, -1, 151, -16], [-44, 88, 5, -180, 24], [34, -68, -3, 140, -18], [12, -24, -1, 49, -5]]
+'\\x0025fb'
+[lambda, "<mi//>"=-1, cc E_T(-1), "<mi//>"='\\x0027e8'{[[-57], [0], [-18], [14], [5]],[[2], [1], [0], [0], [0]]}'\\x0027e9'], [lambda, "<mi//>"=1, cc E_T(1), "<mi//>"='\\x0027e8'{[[-10], [-5], [-6], [0], [1]],[[2], [3], [1], [1], [0]]}'\\x0027e9'], [lambda, "<mi//>"=2, cc E_T(2), "<mi//>"='\\x0027e8'{[[-6], [3], [-4], [3], [1]]}'\\x0027e9']
+'\\x0025fb'
+[B, "<mi//>"={[[-57], [0], [-18], [14], [5]],[[2], [1], [0], [0], [0]],[[-10], [-5], [-6], [0], [1]],[[2], [3], [1], [1], [0]],[[-6], [3], [-4], [3], [1]]}, \ , "(Domain, codomain basis)"], [M_(B,B)^T, "<mi//>"=[[-1, 0, 0, 0, 0], [0, -1, 0, 0, 0], [0, 0, 1, 0, 0], [0, 0, 0, 1, 0], [0, 0, 0, 0, 2]]]
+V
+S sube V
+V
+V
+V
+S
+V
+CC^m
+CC^m
+CC^m
+B = {<mo fence="true" stretchy="true" symmetric="true"//>bb e_i|1 <= i <= m}
+CC^m
+P_n
+P_4
+M_(22)
+CC^m
+CC^m
+S
+S
+X
+CC^m
+A
+m
+A
+CC^m
+A
+A
+n
+A
+A
+A
+cc N(A) = {'\\y01d7ce'}
+cc L cc S(A, bb b)
+bb b
+A
+A
+A
+CC^n
+cc C(A) = CC^n
+A
+CC^n
+CC^m
+CC^m
+W
+CC^m
+B
+B
+W
+T
+'\\x0027e8'T'\\x0027e9' = '\\x0027e8'B'\\x0027e9' = W
+T
+T
+W
+T
+T
+W
+Q
+n
+n
+Q
+Q
+Q
+Q
+CC^n
+n
+CC^n
+B = {bb v_1, bb v_2, bb v_3, ..., bb v_p}
+W
+CC^m
+bb w in W
+bb w = '\\x0027e8'bb v_1, bb w'\\x0027e9'bb v_1+'\\x0027e8'bb v_2, bb w'\\x0027e9'bb v_2+'\\x0027e8'bb v_3, bb w'\\x0027e9'bb v_3+cdots+'\\x0027e8'bb v_p, bb w'\\x0027e9'bb v_p
+CC^4
+CC^3
+A
+n xx n
+B = {bb x_1, bb x_2, bb x_3, ..., bb x_n}
+CC^n
+[C, "<mi//>"={Abb x_1,Abb x_2,Abb x_3,...,Abb x_n}]
+A
+C
+CC^n
+V
+U
+W
+bb v in V,
+bb u in U,
+bb w in W
+bb v = bb u+bb w
+bb v = bb u_1+bb w_1
+bb v = bb u_2+bb w_2
+bb u_1, bb u_2 in U,
+bb w_1, bb w_2 in W
+bb u_1 = bb u_2
+bb w_1 = bb w_2.
+V
+U
+W
+V = Uo+W.
+V
+U
+W,
+V
+U
+W,
+V = U_1 o+U_2 o+U_3 o+cdots o+U_m
+V
+B = {bb v_1, bb v_2, bb v_3, ..., bb v_n}
+m <= n.
+[U, "<mi//>"='\\x0027e8'{bb v_1,bb v_2,bb v_3,...,bb v_m}'\\x0027e9', W, "<mi//>"='\\x0027e8'{bb v_(m+1),bb v_(m+2),bb v_(m+3),...,bb v_n}'\\x0027e9']
+V = Uo+W.
+U
+V.
+W
+V
+V = Uo+W.
+U
+W
+V.
+V = Uo+W
+bb v in V,
+bb u in U,
+bb w in W
+bb v = bb u+bb w.
+'\\y01d7ce' = bb u+bb w
+bb u in U,
+bb w in W
+bb u = bb w = '\\y01d7ce'.
+U
+W
+V.
+V = Uo+W
+bb v in V,
+bb u in U,
+bb w in W
+bb v = bb u+bb w.
+U nn W = {'\\y01d7ce'}.
+U
+W
+V
+V = Uo+W.
+R
+U
+S
+W.
+R uu S
+V.
+U
+W
+V
+V = Uo+W.
+dim(V) = dim(U)+dim(W).
+V
+U
+W
+V = Uo+W.
+X
+Y
+W
+W = Xo+Y.
+V = Uo+Xo+Y.
+V = Uo+W
+V.
+Uo+W
+V = Uo+W
+V,
+U
+W,
+'\\x0025fb'
+'\\x0025fb'
+[2x_1+3x_2, "<mi//>"=6], [-x_1+4x_2, "<mi//>"=-14], [3x_1+10x_2, "<mi//>"=-2], [3x_1-x_2, "<mi//>"=20], [6x_1+9x_2, "<mi//>"=18]
+'\\x0025fb'
+x_1 = 6, \ x_2 = -2
+'\\x0025fb'
+[[2, 3, 6], [-1, 4, -14], [3, 10, -2], [3, -1, 20], [6, 9, 18]]
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 6], [0, |overline(underline(1))|, -2], [0, 0, 0], [0, 0, 0], [0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=2, D, "<mi//>"={1,2}, F, "<mi//>"={3}]
+'\\x0025fb'
+F
+F
+[[x_1], [x_2]] = [[6], [-2]]
+'\\x0025fb'
+[2x_1+3x_2, "<mi//>"=0], [-x_1+4x_2, "<mi//>"=0], [3x_1+10x_2, "<mi//>"=0], [3x_1-x_2, "<mi//>"=0], [6x_1+9x_2, "<mi//>"=0]
+'\\x0025fb'
+x_1 = 0, \ x_2 = 0
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 0], [0, |overline(underline(1))|, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=2, D, "<mi//>"={1,2}, F, "<mi//>"={3}]
+'\\x0025fb'
+[[2, 3], [-1, 4], [3, 10], [3, -1], [6, 9]]
+'\\x0025fb'
+[[|overline(underline(1))|, 0], [0, |overline(underline(1))|], [0, 0], [0, 0], [0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=2, D, "<mi//>"={1,2}, F, "<mi//>"={\ }]
+'\\x0025fb'
+D
+F
+'\\x0025fb'
+D
+F
+['\\x0027e8'{\ }'\\x0027e9']
+'\\x0025fb'
+D
+['\\x0027e8'{[[2], [-1], [3], [3], [6]],[[3], [4], [10], [-1], [9]]}'\\x0027e9']
+'\\x0025fb'
+L
+L
+r = m
+L
+CC^m
+[L, "<mi//>"=[[1, 0, 0, 0, -1/3], [0, 1, 0, 1-1/3], [0, 0, 1, 1, -1]]]
+['\\x0027e8'{[[1/3], [1/3], [1], [0], [1]],[[0], [-1], [-1], [1], [0]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [2], [1], [3]],[[0], [1], [1], [-1], [0]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0]],[[0], [1]]}'\\x0027e9']
+'\\x0025fb'
+["Rank:\ "2, \ , "Nullity:\ "0, \ , "Matrix columns:\ "2, \ ]
+'\\x0025fb'
+T:V -> V
+bb v in V
+T
+lambda
+T(bb v) = lambda bb v
+V
+I_V:V -> V
+V
+B = {bb v_1, bb v_2, bb v_3, ..., bb v_n}
+C
+V
+B
+C
+I_V
+B
+C
+[C_(B,C), "<mi//>"=M_(B,C)^(I_V)], [\ , "<mi//>"=[<mo fence="true" stretchy="true" symmetric="true"//>rho_C(I_V(bb v_1))|<mo fence="true" stretchy="true" symmetric="true"//>rho_C(I_V(bb v_2))|<mo fence="true" stretchy="true" symmetric="true"//>rho_C(I_V(bb v_3))|...|rho_C(I_V(bb v_n))<mo fence="true" stretchy="true" symmetric="true"//>]], [\ , "<mi//>"=[<mo fence="true" stretchy="true" symmetric="true"//>rho_C(bb v_1)|<mo fence="true" stretchy="true" symmetric="true"//>rho_C(bb v_2)|<mo fence="true" stretchy="true" symmetric="true"//>rho_C(bb v_3)|...|rho_C(bb v_n)<mo fence="true" stretchy="true" symmetric="true"//>]]
+V
+V
+B
+C
+I_V
+bb v
+V
+B
+C
+V
+rho_C(bb v) = C_(B,C) rho_B(bb v)
+bb v
+rho_B(bb v)
+rho_C(bb v)
+V
+B
+C
+V
+C_(B,C)
+C_(B,C)^(-1) = C_(C,B)
+C_(C,B)
+C_(B,C)
+C_(B,C)
+C_(C,B)
+C_(B,C)
+CC^m
+T:U -> V
+B
+C
+U
+D
+E
+V
+M_(B,D)^T = C_(E,D)M_(C,E)^T C_(B,C)
+U
+V
+T:V -> V
+B
+C
+V
+M_(B,B)^T = C_(B,C)^(-1)M_(C,C)^T C_(B,C)
+V
+T
+B
+M_(B,B)^T
+T
+C
+M_(C,C)^T
+C_(B,C)
+T:V -> V
+T
+T
+T:V -> V
+B
+V
+bb v in V
+T
+lambda
+rho_B(bb v)
+M_(B,B)^T
+lambda
+B
+T:V -> V
+B
+V
+V
+rho_B^(-1)
+n
+rho_B^(-1)
+r
+n
+r
+n
+CC^m
+P_n
+M_(mn)
+n xx n
+A
+[A]_(ij) = 0
+i > j
+n xx n
+A
+[A]_(ij) = 0
+i < j
+A
+B
+n
+AB
+A
+n
+A
+A^(-1)
+A^(-1)
+A
+[A^(-1)]_(ii) = [A]_(ii)^(-1)
+T:V -> V
+B
+V
+T
+B
+M_(B,B)^T
+T
+lambda
+T
+lambda
+alpha_T(lambda)
+W
+V
+RR^\
+CC
+CC
+CC^m
+A
+A^**
+A
+U
+T
+[U^**AU=T]
+T
+A
+A
+A^**A = AA^**
+A
+U
+D
+A
+U^**AU = D
+A
+A = UDU^**
+Abb x
+U^**
+D
+D
+U
+U^**
+U
+U^**
+A
+D
+D
+A
+n
+CC^n
+A
+n xx n
+A
+CC^n
+A
+A
+U
+n xx n
+A
+U
+bb x in CC^n
+hat bb x
+bb x
+hat bb x
+U
+bb x
+[U hat bb x=bb x]
+U^**
+U
+[hat bb x=U^**bb x]
+U
+['\\x0027e8'bb x,bb y'\\x0027e9'='\\x0027e8'U hat bb x,U hat bb y'\\x0027e9'='\\x0027e8'hat bb x, hat bb y'\\x0027e9']
+A
+Abb x = bb y
+U
+A
+D
+A
+U^**AU = D
+U^**A = DU^**
+[hat bb y=U^**bb y=U^**Abb x=DU^**bb x=D hat bb x]
+A
+D
+A
+A
+m xx n
+M_(mn)
+m xx n
+m xx n
+A
+B
+A = B
+[A]_(ij) = [B]_(ij)
+1 <= i <= m
+1 <= j <= n
+M_(mn)
+m xx n
+A
+B
+A
+B
+m xx n
+A+B
+[[A+B]_(ij), "<mi//>"=[A]_(ij)+[B]_(ij), \ , 1<=i<=m,1<=j<=n]
+M_(23)
+m xx n
+A
+alpha in CC^\
+A
+m xx n
+alpha A
+[[alpha A]_(ij), "<mi//>"=alpha[A]_(ij), \ , \ 1<=i<=m,1<=j<=n]
+M_(32)
+M_(mn)
+m xx n
+A, B in M_(mn)
+A+B in M_(mn)
+alpha in CC^\
+A in M_(mn)
+alpha A in M_(mn)
+A, B in M_(mn)
+A+B = B+A
+A, B, C in M_(mn)
+A+(B+C) = (A+B)+C
+0
+A+0 = A
+A in M_(mn)
+A in M_(mn)
+-A in M_(mn)
+A+(-A) = 0
+alpha, beta in CC^\
+A in M_(mn)
+alpha(beta A) = (alpha beta)A
+alpha in CC^\
+A, B in M_(mn)
+alpha(A+B) = alpha A+alpha B
+alpha, beta in CC^\
+A in M_(mn)
+(alpha+beta)A = alpha A+beta A
+A in M_(mn)
+1A = A
+0
+m xx n
+0 = 0_(m xx n)
+[0]_(ij) = 0
+1 <= i <= m
+1 <= j <= n
+m xx n
+A
+n xx m
+A^t
+[A^t]_(ij) = [A]_(ji), \ 1 <= i <= n, 1 <= j <= m.
+3 xx 4
+A
+A = A^t
+5 xx 5
+A
+A
+A
+A
+B
+m xx n
+(A+B)^t = A^t+B^t
+alpha in CC^\
+A
+m xx n
+(alpha A)^t = alpha A^t
+A
+m xx n
+(A^t)^t = A
+A
+m xx n
+A
+bar A
+m xx n
+[bar A]_(ij) = bar([A]_(ij))
+A
+B
+m xx n
+bar(A+B) = bar A+bar B
+alpha in CC^\
+A
+m xx n
+bar(alpha A) = bar alpha bar A
+A
+m xx n
+bar((bar A)) = A
+A
+m xx n
+bar((A^t)) = (bar A)^t
+A
+A^** = (bar A)^t
+A^H
+A^**
+A^'\\x002020'
+A
+B
+(A+B)^** = A^** +B^**
+alpha in CC
+A
+(alpha A)^** = bar alpha A^**
+A
+(A^** )^** = A
+3 xx 4
+3 xx 4
+3 xx 4
+4 xx 4
+5 xx 2
+5 xx 2
+4 xx 7
+6 xx 9
+5 xx 5
+5 xx 5
+xy
+y = mx+b
+m
+y
+b
+(x, y, z)
+ax+by+cz = d
+a, b, c, d
+x = 3t-4
+y = -7t+2
+z = 9t
+t
+[2x+3y-4z, "<mi//>"=13, 4x_1+5x_2-x_3+x_4+x_5, "<mi//>"=0, 9a-2b+7c+2d, "<mi//>"=-7]
+[xy+5yz, "<mi//>"=13, x_1+x_2^3//x_4-x_3 x_4 x_5^2, "<mi//>"=0, tan(ab)+log(c-d), "<mi//>"=-7]
+'\\x0025fb'
+'\\x0025fb'
+[2x_1-3x_2+x_3-6x_4, "<mi//>"=-7], [4x_1+x_2+2x_3+9x_4, "<mi//>"=-7], [3x_1+x_2+x_3+8x_4, "<mi//>"=-8]
+'\\x0025fb'
+x_1 = -7, \ x_2 = -2, \ x_3 = 7, \ x_4 = 1
+x_1 = -1, \ x_2 = 7, \ x_3 = 4, \ x_4 = -2
+'\\x0025fb'
+[[2, -3, 1, -6, -7], [4, 1, 2, 9, -7], [3, 1, 1, 8, -8]]
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 0, 2, -5], [0, |overline(underline(1))|, 0, 3, 1], [0, 0, |overline(underline(1))|, -1, 6]]
+'\\x0025fb'
+[r, "<mi//>"=3, D, "<mi//>"={1,2,3}, F, "<mi//>"={4,5}]
+'\\x0025fb'
+F
+F
+[[x_1], [x_2], [x_3], [x_4]] = [[-5], [1], [6], [0]]+x_4[[-2], [-3], [1], [1]]
+'\\x0025fb'
+[2x_1-3x_2+x_3-6x_4, "<mi//>"=0], [4x_1+x_2+2x_3+9x_4, "<mi//>"=0], [3x_1+x_2+x_3+8x_4, "<mi//>"=0]
+'\\x0025fb'
+x_1 = 0, \ x_2 = 0, \ x_3 = 0, \ x_4 = 0
+x_1 = -2, \ x_2 = -3, \ x_3 = 1, \ x_4 = 1
+x_1 = -4, \ x_2 = -6, \ x_3 = 2, \ x_4 = 2
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 0, 2, 0], [0, |overline(underline(1))|, 0, 3, 0], [0, 0, |overline(underline(1))|, -1, 0]]
+'\\x0025fb'
+[r, "<mi//>"=3, D, "<mi//>"={1,2,3}, F, "<mi//>"={4,5}]
+'\\x0025fb'
+[[2, -3, 1, -6], [4, 1, 2, 9], [3, 1, 1, 8]]
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 0, 2], [0, |overline(underline(1))|, 0, 3], [0, 0, |overline(underline(1))|, -1]]
+'\\x0025fb'
+[r, "<mi//>"=3, D, "<mi//>"={1,2,3}, F, "<mi//>"={4}]
+'\\x0025fb'
+D
+F
+'\\x0025fb'
+D
+F
+['\\x0027e8'{[[-2], [-3], [1], [1]]}'\\x0027e9']
+'\\x0025fb'
+D
+['\\x0027e8'{[[2], [4], [3]],[[-3], [1], [1]],[[1], [2], [1]]}'\\x0027e9']
+'\\x0025fb'
+L
+L
+r = m
+L
+CC^m
+[L, "<mi//>"=[\ ]]
+['\\x0027e8'{[[1], [0], [0]],[[0], [1], [0]],[[0], [0], [1]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [0]],[[0], [1], [0]],[[0], [0], [1]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [0], [2]],[[0], [1], [0], [3]],[[0], [0], [1], [-1]]}'\\x0027e9']
+'\\x0025fb'
+["Rank:\ "3, \ , "Nullity:\ "1, \ , "Matrix columns:\ "4, \ ]
+'\\x0025fb'
+'\\x0025fb'
+'\\x0025fb'
+T:P_4 -> P_5, \ T(p(x)) = (x-2)p(x)
+'\\x0025fb'
+[{\ }]
+'\\x0025fb'
+'\\x0025fb'
+[{x-2,x^2-2x,x^3-2x^2,x^4-2x^3,x^5-2x^4,x^6-2x^5}]
+'\\x0025fb'
+[{-1/32 x^5+1,-1/16 x^5+x,-1/8 x^5+x^2,-1/4 x^5+x^3,-1/2 x^5+x^4}]
+'\\x0025fb'
+P_5
+P_4
+1+x+x^2+x^3+x^4!incc R(T)
+T^(-1)(1+x+x^2+x^3+x^4)
+'\\x0025fb'
+["Rank:\ "5, \ , "Nullity:\ "0, \ , "Domain dimension:\ "5, \ ]
+'\\x0025fb'
+'\\x0025fb'
+[B, "<mi//>"={1,x,x^2,x^3,x^4}, \ , "(Domain basis)"], [C, "<mi//>"={1,x,x^2,x^3,x^4,x^5}, \ , "(Codomain basis)"], [M_(B,C)^T, "<mi//>"=[[-2, 0, 0, 0, 0], [1, -2, 0, 0, 0], [0, 1, -2, 0, 0], [0, 0, 1, -2, 0], [0, 0, 0, 1, -2], [0, 0, 0, 0, 1]]]
+4 xx 100"\meter"
+A
+n xx n
+S = {bb x_1, bb x_2, bb x_3, ..., bb x_p}
+lambda_1, lambda_2, lambda_3, ..., lambda_p
+lambda_i != lambda_j
+i != j
+S
+A
+A
+lambda = 0
+A
+A
+n
+A
+A
+A
+cc N(A) = {'\\y01d7ce'}
+cc L cc S(A, bb b)
+bb b
+A
+A
+A
+CC^n
+cc C(A) = CC^n
+A
+CC^n
+A
+n
+r(A) = n
+A
+n(A) = 0
+A
+det(A) != 0
+lambda = 0
+A
+A
+lambda
+A
+alpha lambda
+alpha A
+A
+lambda
+A
+s >= 0
+lambda^s
+A^s
+A
+lambda
+A
+q(x)
+x
+q(lambda)
+q(A)
+A
+lambda
+A
+lambda^(-1)
+A^(-1)
+A
+lambda
+A
+lambda
+A^t
+A
+bb x
+A
+lambda
+bar bb x
+A
+bar lambda
+n
+n
+A
+n
+A
+p_A(x)
+n
+lambda_1, lambda_2, lambda_3, ..., lambda_k
+A
+n
+sum_(i=1)^k alpha_A(lambda_i) = n
+A
+n
+lambda
+1 <= gamma_A(lambda) <= alpha_A(lambda) <= n
+A
+n
+A
+n
+A = A^**
+A
+A
+A
+lambda
+A
+lambda in RR
+A
+bb x
+bb y
+A
+bb x
+bb y
+A
+S = {bb u_1, bb u_2, bb u_3, ..., bb u_n}
+S
+t
+1 <= t <= n
+bb u_bb t
+bb u_1, bb u_2, bb u_3, ..., bb u_(t-1), bb u_(t+1), ..., bb u_n
+CC^5
+S = {bb v_1, bb v_2, bb v_3, ..., bb v_n}
+W = '\\x0027e8'S'\\x0027e9'
+A
+S
+B
+A
+D = {d_1, d_2, d_3, ..., d_r}
+B
+T = {bb v_(d_1), bb v_(d_2), bb v_(d_3), ...bb v_(d_r)}
+W = '\\x0027e8'T'\\x0027e9'
+CC^4
+n
+A
+bb x
+CC^n
+CC^n
+bb x
+Abb x
+A
+A
+V
+W
+W
+V
+W sube V
+W
+V
+CC^3
+V
+W
+V
+W sube V
+W
+V
+W
+W
+W != O/
+bb x in W
+bb y in W
+bb x+bb y in W
+alpha in CC^\
+bb x in W
+alpha bb x in W
+P_4
+CC^2
+CC^2
+CC^2
+V
+V
+V
+Z = {'\\y01d7ce'}
+V
+V
+{'\\y01d7ce'}
+A
+m xx n
+A
+cc N(A)
+CC^n
+V
+n
+bb u_1, bb u_2, bb u_3, ..., bb u_n
+n
+alpha_1, alpha_2, alpha_3, ..., alpha_n
+alpha_1 bb u_1+alpha_2 bb u_2+alpha_3 bb u_3+cdots+alpha_n bb u_n.
+V
+S = {bb u_1, bb u_2, bb u_3, ..., bb u_t}
+'\\x0027e8'S'\\x0027e9'
+bb u_1, bb u_2, bb u_3, ..., bb u_t
+['\\x0027e8'S'\\x0027e9', "<mi//>"={<mo fence="true" stretchy="true" symmetric="true"//>alpha_1 bb u_1+alpha_2 bb u_2+alpha_3 bb u_3+cdots+alpha_t bb u_t|alpha_i in CC^\ ,1<=i<=t}], [\ , "<mi//>"={<mo fence="true" stretchy="true" symmetric="true"//>sum_(i=1)^t alpha_i bb u_i|alpha_i in CC^\ ,1<=i<=t}]
+V
+S = {bb u_1, bb u_2, bb u_3, ..., bb u_t} sube V
+'\\x0027e8'S'\\x0027e9'
+M_(32)
+CC^m
+A
+m xx n
+cc C(A)
+CC^m
+A
+m xx n
+cc R(A)
+CC^n
+A
+m xx n
+cc L(A)
+CC^m
+W
+I_W:W -> W, \ I_W(bb w) = bb w
+I_W
+I_W
+T:U -> V
+S:V -> U
+[S@T, "<mi//>"=I_U, T@S, "<mi//>"=I_V]
+T
+S
+T
+S = T^(-1)
+T
+S
+T
+S
+T
+A
+T
+T
+T
+B
+T
+S
+T
+T
+S
+T:U -> V
+T^(-1):V -> U
+T
+T^(-1)
+T^(-1)
+T:U -> V
+T^(-1)
+(T^(-1))^(-1) = T
+T:U -> V
+T
+T
+V
+T^(-1)
+T:U -> V
+S:V -> W
+(S@T):U -> W
+T:U -> V
+S:V -> W
+S@T
+(S@T)^(-1) = T^(-1)@S^(-1)
+S@T
+S@T
++
+U
+V
+T
+U
+V
+T:U -> V
+U ~= V
+T
+U
+V
+U
+V
+V
+U
+P_3
+M_(22)
+U
+V
+T
+U
+U
+V
+T
+T(bb u_1)+T(bb u_2)
+T(bb u_1+bb u_2)
+T^(-1)
+bb u_1+bb u_2
+U
+V
+dim(U) = dim(V)
+U
+V
+P_6
+M_(34)
+T:U -> V
+T
+r(T)
+T
+r(T) = dim(cc R(T))
+T:U -> V
+T
+n(T)
+T
+n(T) = dim(cc K(T))
+T:U -> V
+T
+V
+r(T) = dim(V)
+T
+T:U -> V
+T
+n(T) = 0
+T
+T:U -> V
+r(T)+n(T) = dim(U)
+T:CC^n -> CC^m
+m xx n
+A
+T(bb x) = Abb x
+T
+A
+A
+T
+T
+CC^n
+A
+T:CC^6 -> CC^6
+n(T) = 0
+T
+6 = dim(CC^6) = r(T)+n(T) = r(T)+0 = r(T)
+T
+T
+T
+T
+D = [[2, 1, 7, -7], [-3, 4, -5, -6], [1, 1, 4, -5]]
+T:CC^4 -> CC^3, \ T(bb x) = Dbb x = x_1[[2], [-3], [1]]+x_2[[1], [4], [1]]+x_3[[7], [-5], [4]]+x_4[[-7], [-6], [-5]]
+T
+cc L cc S(D, bb b)
+bb b = [[8], [-12], [-4]]
+T^(-1)(bb b)
+D
+bb b
+bb w = [[7], [8], [1], [3]]
+bb b
+bb w+cc K(T) = {<mo fence="true" stretchy="true" symmetric="true"//>bb w+bb z|bb z in cc K(T)}
+T
+D
+cc L cc S(D, '\\y01d7ce')
+D
+bb b
+bb d = [[2], [3], [2]]
+T
+cc L cc S(D, bb d)
+bb d
+T^(-1)(bb d)
+bb d
+CC^4
+CC^3
+[n(T), "<mi//>"=dim(CC^4)-r(T), \ , "Theorem RPNDD"], [\ , "<mi//>"=4-dim(cc R(T)), \ , "Definition ROLT"], [\ , "<mi//>">=4-3, \ , cc R(T)"\subspace of\ " CC^3], [\ , "<mi//>"=1]
+T
+T
+T
+cc L cc S(C, bb f)
+S(bb x) = Cbb x
+S
+C
+T
+T
+T
+T
+T
+CC^m
+V
+S
+V
+bb w
+bb w!in'\\x0027e8'S'\\x0027e9'
+S' = S uu{bb w}
+V
+t
+S = {bb v_1, bb v_2, bb v_3, ..., bb v_m}
+V
+m > t
+S
+m < t
+S
+V
+m = t
+S
+S
+V
+m = t
+S
+V
+S
+S
+bb w
+bb v_k
+P_n
+M_(22)
+P_4
+U
+V
+W
+U'\\x00228a'V
+dim(U) < dim(V)
+U
+V
+W
+U sube V
+dim(U) = dim(V)
+U = V
+A
+m xx n
+r(A) = r(A^t)
+A
+m xx n
+B
+r
+dim(cc N(A)) = n-r
+dim(cc C(A)) = r
+dim(cc R(A)) = r
+dim(cc L(A)) = m-r
+'\\x0025fb'
+'\\x0025fb'
+[2x_1+3x_2, "<mi//>"=5], [-x_1+4x_2, "<mi//>"=6], [3x_1+10x_2, "<mi//>"=2], [3x_1-x_2, "<mi//>"=-1], [6x_1+9x_2, "<mi//>"=3]
+'\\x0025fb'
+'\\x0025fb'
+[[2, 3, 5], [-1, 4, 6], [3, 10, 2], [3, -1, -1], [6, 9, 3]]
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 0], [0, |overline(underline(1))|, 0], [0, 0, |overline(underline(1))|], [0, 0, 0], [0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=3, D, "<mi//>"={1,2,3}, F, "<mi//>"={\ }]
+'\\x0025fb'
+F
+F
+'\\x0025fb'
+[2x_1+3x_2, "<mi//>"=0], [-x_1+4x_2, "<mi//>"=0], [3x_1+10x_2, "<mi//>"=0], [3x_1-x_2, "<mi//>"=0], [6x_1+9x_2, "<mi//>"=0]
+'\\x0025fb'
+x_1 = 0, \ x_2 = 0
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 0], [0, |overline(underline(1))|, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=2, D, "<mi//>"={1,2}, F, "<mi//>"={3}]
+'\\x0025fb'
+[[2, 3], [-1, 4], [3, 10], [3, -1], [6, 9]]
+'\\x0025fb'
+[[|overline(underline(1))|, 0], [0, |overline(underline(1))|], [0, 0], [0, 0], [0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=2, D, "<mi//>"={1,2}, F, "<mi//>"={\ }]
+'\\x0025fb'
+D
+F
+'\\x0025fb'
+D
+F
+['\\x0027e8'{\ }'\\x0027e9']
+'\\x0025fb'
+D
+['\\x0027e8'{[[2], [-1], [3], [3], [6]],[[3], [4], [10], [-1], [9]]}'\\x0027e9']
+'\\x0025fb'
+L
+L
+r = m
+L
+CC^m
+[L, "<mi//>"=[[1, 0, 0, 0, -1/3], [0, 1, 0, 1-1/3], [0, 0, 1, 1, -1]]]
+['\\x0027e8'{[[1/3], [1/3], [1], [0], [1]],[[0], [-1], [-1], [1], [0]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [2], [1], [3]],[[0], [1], [1], [-1], [0]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0]],[[0], [1]]}'\\x0027e9']
+'\\x0025fb'
+["Rank:\ "2, \ , "Nullity:\ "0, \ , "Matrix columns:\ "2, \ ]
+'\\x0025fb'
+'\\x0025fb'
+'\\x0025fb'
+[2x_1+x_2+7x_3-7x_4, "<mi//>"=2], [-3x_1+4x_2-5x_3-6x_4, "<mi//>"=3], [x_1+x_2+4x_3-5x_4, "<mi//>"=2]
+'\\x0025fb'
+'\\x0025fb'
+[[2, 1, 7, -7, 2], [-3, 4, -5, -6, 3], [1, 1, 4, -5, 2]]
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 3, -2, 0], [0, |overline(underline(1))|, 1, -3, 0], [0, 0, 0, 0, |overline(underline(1))|]]
+'\\x0025fb'
+[r, "<mi//>"=3, D, "<mi//>"={1,2,5}, F, "<mi//>"={3,4}]
+'\\x0025fb'
+F
+F
+'\\x0025fb'
+[2x_1+x_2+7x_3-7x_4, "<mi//>"=0], [-3x_1+4x_2-5x_3-6x_4, "<mi//>"=0], [x_1+x_2+4x_3-5x_4, "<mi//>"=0]
+'\\x0025fb'
+x_1 = 0, \ x_2 = 0, \ x_3 = 0, \ x_4 = 0
+x_1 = 4, \ x_2 = 13, \ x_3 = 2, \ x_4 = 5
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 3, -2, 0], [0, |overline(underline(1))|, 1, -3, 0], [0, 0, 0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=2, D, "<mi//>"={1,2}, F, "<mi//>"={3,4,5}]
+'\\x0025fb'
+[[2, 1, 7, -7], [-3, 4, -5, -6], [1, 1, 4, -5]]
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 3, -2], [0, |overline(underline(1))|, 1, -3], [0, 0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=2, D, "<mi//>"={1,2}, F, "<mi//>"={3,4}]
+'\\x0025fb'
+D
+F
+'\\x0025fb'
+D
+F
+['\\x0027e8'{[[-3], [-1], [1], [0]],[[2], [3], [0], [1]]}'\\x0027e9']
+'\\x0025fb'
+D
+['\\x0027e8'{[[2], [-3], [1]],[[1], [4], [1]]}'\\x0027e9']
+'\\x0025fb'
+L
+L
+r = m
+L
+CC^m
+[L, "<mi//>"=[[1, 1/7, -11/7]]]
+['\\x0027e8'{[[11/7], [0], [1]],[[-1/7], [1], [0]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [7/11]],[[0], [1], [1/11]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [3], [-2]],[[0], [1], [1], [-3]]}'\\x0027e9']
+'\\x0025fb'
+["Rank:\ "2, \ , "Nullity:\ "2, \ , "Matrix columns:\ "4, \ ]
+'\\x0025fb'
+A^**A
+AA^**
+A
+m xx n
+A^**A
+r.
+lambda_1, lambda_2, lambda_3, ..., lambda_p
+A^**A
+rho_1, rho_2, rho_3, ..., rho_q
+AA^** .
+p = q.
+lambda_i = rho_i,
+1 <= i <= p.
+alpha_(A^**A)(lambda_i) = alpha_(AA^** )(rho_i),
+1 <= i <= p.
+A^**A
+AA^** .
+{bb x_1, bb x_2, bb x_3, ..., bb x_n}
+CC^n
+A^**A
+{bb y_1, bb y_2, bb y_3, ..., bb y_m}
+CC^m
+AA^**
+bb x_i,
+r+1 <= i <= n
+A^**A
+delta_i,
+1 <= i <= r
+A^**A.
+Abb x_i = sqrt(delta_i)bb y_bb i,
+1 <= i <= r
+Abb x_i = '\\y01d7ce',
+r+1 <= i <= n.
+bb y_i,
+r+1 <= i <= m,
+AA^**
+A^**A
+AA^** !
+A.
+A
+m xx n
+A^**A
+delta_1, delta_2, delta_3, ..., delta_n,
+A
+sqrt(delta_1), sqrt(delta_2), sqrt(delta_3), ..., sqrt(delta_n)
+T:U -> V
+U
+V
+U
+V
+U = V,
+A
+m xx n
+r
+s_1, s_2, s_3, ..., s_r.
+A = USV^**
+U
+m,
+V
+n
+S
+m xx n
+[S]_(ij) = {[s_i, "if\ "1<=i=j<=r], [0, "otherwise"]<mo fence="true" stretchy="true" symmetric="true"//>
+S
+U
+V
+U
+V
+vec i, vec j, vec k
+m xx n
+CC^n
+CC^m.
+bb w in CC^n,
+bb y = Abb w in CC^m.
+A
+Abb w = USV^**bb w
+V^**
+V
+bb x_i
+bb e_i,
+CC^n,
+bb w,
+S
+bb w
+CC^n
+CC^m.
+m > n,
+m < n,
+U
+bb y_i.
+bb w
+U
+V
+bb w,
+bb y = Abb w,
+bb w' = V^**bb w
+bb y' = U^**bb y.
+bb y' = U^**bb y = U^**Abb w = U^**USV^**bb w = Sbb w'
+A
+m xx n
+A
+A = USV^** ,
+r
+S
+s_1, s_2, s_3, ..., s_r,
+U
+V
+bb y_1, bb y_2, bb y_3, ..., bb y_m
+bb x_1, bb x_2, bb x_3, ..., bb x_n.
+A = sum_(i=1)^r s_i bb y_i bb x_i^**
+bb y_i bb x_i^**
+m xx n
+A
+det(A) = 0
+A
+B
+A
+det(B) = -det(A)
+A
+B
+A
+alpha
+alpha
+det(B) = alpha det(A)
+A
+det(A) = 0
+A
+B
+A
+alpha
+alpha
+det(B) = det(A)
+n >= 1
+det(I_n) = 1
+det(E_(i,j)) = -1
+det(E_i(alpha)) = alpha
+det(E_(i,j)(alpha)) = 1
+A
+n
+E
+n
+det(EA) = det(E)det(A)
+A
+A
+det(A) = 0
+2 xx 2
+det(A) != 0
+A
+n
+A
+A
+A
+cc N(A) = {'\\y01d7ce'}
+cc L cc S(A, bb b)
+bb b
+A
+A
+A
+CC^n
+cc C(A) = CC^n
+A
+CC^n
+A
+n
+r(A) = n
+A
+n(A) = 0
+A
+det(A) != 0
+A
+B
+det(AB) = det(A)det(B)
+det(A+B) = det(A)+det(B)
+'\\x0025fb'
+'\\x0025fb'
+T:CC^3 -> M_(22), \ T([[a], [b], [c]]) = [[a-b, 2a+2b+c], [3a+b+c, -2a-6b-2c]]
+'\\x0025fb'
+[{[[-1], [-1], [4]]}]
+'\\x0025fb'
+[T([[2], [1], [3]]), "<mi//>"=[[1, 9], [10, -16]], T([[0], [-1], [11]]), "<mi//>"=[[1, 9], [10, -16]]]
+T
+[[[0], [-1], [11]], "<mi//>"=[[2], [1], [3]]+[[-2], [-2], [8]]], [and], [bb z, "<mi//>"=[[-2], [-2], [8]] in cc K(T)]
+bb z
+T
+'\\x0025fb'
+[{[[1, 2], [3, -2]],[[-1, 2], [1, -6]],[[0, 1], [1, -2]]}]
+'\\x0025fb'
+[{[[1, 0], [1, 2]],[[0, 1], [1, -2]]}]
+'\\x0025fb'
+M_(22)
+CC^3
+[[2, -1], [1, 3]]!incc R(T)
+T
+T^(-1)([[2, -1], [1, 3]])
+'\\x0025fb'
+["Rank:\ "2, \ , "Nullity:\ "1, \ , "Domain dimension:\ "3, \ ]
+'\\x0025fb'
+'\\x0025fb'
+[B, "<mi//>"={[[1], [0], [0]],[[0], [1], [0]],[[0], [0], [1]]}, \ , "(Domain basis)"], [C, "<mi//>"={[[1, 0], [0, 0]],[[0, 1], [0, 0]],[[0, 0], [1, 0]],[[0, 0], [0, 1]]}, \ , "(Codomain basis)"], [M_(B,C)^T, "<mi//>"=[[1, -1, 0], [2, 2, 1], [3, 1, 1], [-2, -6, -2]]]
+'\\x0025fb'
+'\\x0025fb'
+T:P_3 -> M_(22), \ T(a+bx+cx^2+dx^3) = [[a+b, a-2c], [d, b-d]]
+'\\x0025fb'
+[{\ }]
+'\\x0025fb'
+'\\x0025fb'
+[{[[1, 1], [0, 0]],[[1, 0], [0, 1]],[[0, -2], [0, 0]],[[0, 0], [1, -1]]}]
+'\\x0025fb'
+[{[[1, 0], [0, 0]],[[0, 1], [0, 0]],[[0, 0], [1, 0]],[[0, 0], [0, 1]]}]
+'\\x0025fb'
+M_(22)
+cc R(T) = M_(22)
+T
+M_(22)
+'\\x0025fb'
+["Rank:\ "4, \ , "Nullity:\ "0, \ , "Domain dimension:\ "4, \ ]
+'\\x0025fb'
+'\\x0025fb'
+[B, "<mi//>"={1,x,x^2,x^3}, \ , "(Domain basis)"], [C, "<mi//>"={[[1, 0], [0, 0]],[[0, 1], [0, 0]],[[0, 0], [1, 0]],[[0, 0], [0, 1]]}, \ , "(Codomain basis)"], [M_(B,C)^T, "<mi//>"=[[1, 1, 0, 0], [1, 0, -2, 0], [0, 0, 0, 1], [0, 1, 0, -1]]]
+'\\x0025fb'
+T^(-1)(T(bb x)) = bb x
+T(T^(-1)(bb x)) = bb x
+[T^(-1):M_(22)->P_3,\ T^(-1)([[a, b], [c, d]])=(a-c-d)+(c+d)x+1/2(a-b-c-d)x^2+cx^3]
+A
+B
+AB = I_n
+B
+A
+B
+BA = I_n
+alpha, beta in CC
+alpha beta != 0
+alpha != 0
+beta != 0
+0x = 5
+0x = 0
+A
+B
+n
+AB
+A
+B
+AB
+A
+B
+A
+B
+AB
+A
+B
+n
+AB = I_n
+BA = I_n
+A
+B
+A
+A
+A^(-1) = B
+A
+A
+A
+n
+M
+A
+A
+A
+A
+A
+A
+n
+A
+A
+A
+cc N(A) = {'\\y01d7ce'}
+cc L cc S(A, bb b)
+bb b
+A
+A
+A
+A
+cc L cc S(A, bb b)
+A^(-1)bb b
+A^** = (bar A)^t
+U
+n
+U^**U = I_n
+U
+A
+A^t A = I_n
+U
+n
+U
+U^(-1) = U^**
+S = {bb A_1, bb A_2, bb A_3, ..., bb A_n}
+A
+n
+A
+S
+U
+n
+bb u
+bb v
+CC^n
+['\\x0027e8'Ubb u,Ubb v'\\x0027e9', "<mi//>"='\\x0027e8'bb u,bb v'\\x0027e9', \ , and, '\\x002016'Ubb v'\\x002016', "<mi//>"='\\x002016'bb v'\\x002016']
+L
+U
+A
+n.
+A_k
+k xx k
+A
+k
+k
+A_k
+1 <= k <= n.
+L
+U
+A = LU.
+B = JA,
+A
+B
+A.
+J
+J
+A,
+A
+2n xx n
+M.
+M
+n
+n
+M
+M
+A.
+n
+M
+U.
+n
+M
+L'.
+U = L'A.
+L',
+A
+A
+bb b,
+A
+A = LU.
+bb y
+cc L cc S(L, bb b),
+Lbb y = bb b.
+L
+L
+bb y
+bb y,
+bb y
+cc L cc S(U, bb y).
+bb x
+Ubb x = bb y.
+U
+bb x
+bb x
+cc L cc S(A, bb b),
+Abb x = LUbb x = L(Ubb x) = Lbb y = bb b
+bb x
+cc L cc S(A, bb b).
+A
+n
+A = LU,
+L
+U
+[[U]_(ij), "<mi//>"=[A]_(ij)-sum_(k=1)^(i-1)[L]_(ik)[U]_(kj), \ , 1<=i<=j<=n], [[L]_(ij), "<mi//>"=1/([U]_(jj)) ([A]_(ij)-sum_(k=1)^(j-1)[L]_(ik)[U]_(kj)), \ , 1<=j<i<=n]
+U
+U
+L.
+L
+L
+U.
+L,
+U.
+L,
+U.
+L
+U.
+A
+L
+L
+U,
+n xx n
+A_k
+A
+S
+x
+S
+x in S
+x
+S
+x!inS
+S
+T
+S
+T
+S sube T
+x in S
+x in T
+S
+T
+S sub T
+S
+T
+O/
+A sube B
+B sube A
+A
+B
+A
+B
+=
+A = B
+A
+B
+S
+T
+S sube T
+T sube S
+S = T
+{\ }
+|
+ZZ
+[E, "<mi//>"={<mo fence="true" stretchy="true" symmetric="true"//>x in ZZ|x"\is an even number"}], [\ , "<mi//>"={<mo fence="true" stretchy="true" symmetric="true"//>x in ZZ|2"\divides\ "x"\evenly"}], [\ , "<mi//>"={<mo fence="true" stretchy="true" symmetric="true"//>2k|k in ZZ}]
+10 in E
+17!inE
+[[[1, -3, 5], [2, 0, 3]] in E?]
+S
+S
+S
+|S|
+S
+T
+S
+T
+S uu T
+S
+T
+[x in S uu T"\if and only if\ "x in S"\or\ "x in T]
+x
+S
+T
+S uu T
+S
+T
+S
+T
+S nn T
+S
+T
+[x in S nn T"\if and only if\ "x in S"\and\ "x in T]
+S
+U
+S
+bar S
+U
+S
+[x in bar S "\if and only if\ "x in U"\and\ "x!inS]
+U
+[bar((S uu T)), "<mi//>"=bar S nn bar T], [bar((S nn T)), "<mi//>"=bar S uu bar T]
+'\\x0025fb'
+'\\x0025fb'
+[x_1-x_2+2x_3, "<mi//>"=1], [2x_1+x_2+x_3, "<mi//>"=8], [x_1+x_2, "<mi//>"=5]
+'\\x0025fb'
+x_1 = 2, \ x_2 = 3, \ x_3 = 1
+x_1 = 3, \ x_2 = 2, \ x_3 = 0
+'\\x0025fb'
+[[1, -1, 2, 1], [2, 1, 1, 8], [1, 1, 0, 5]]
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 1, 3], [0, |overline(underline(1))|, -1, 2], [0, 0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=2, D, "<mi//>"={1,2}, F, "<mi//>"={3,4}]
+'\\x0025fb'
+F
+F
+[[x_1], [x_2], [x_3]] = [[3], [2], [0]]+x_3[[-1], [1], [1]]
+'\\x0025fb'
+[x_1-x_2+2x_3, "<mi//>"=0], [2x_1+x_2+x_3, "<mi//>"=0], [x_1+x_2\ , "<mi//>"=0]
+'\\x0025fb'
+x_1 = 0, \ x_2 = 0, \ x_3 = 0
+x_1 = -1, \ x_2 = 1, \ x_3 = 1
+x_1 = -5, \ x_2 = 5, \ x_3 = 5
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 1, 0], [0, |overline(underline(1))|, -1, 0], [0, 0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=2, D, "<mi//>"={1,2}, F, "<mi//>"={3,4}]
+'\\x0025fb'
+[[1, -1, 2], [2, 1, 1], [1, 1, 0]]
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 1], [0, |overline(underline(1))|, -1], [0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=2, D, "<mi//>"={1,2}, F, "<mi//>"={3}]
+'\\x0025fb'
+D
+F
+'\\x0025fb'
+D
+F
+['\\x0027e8'{[[-1], [1], [1]]}'\\x0027e9']
+'\\x0025fb'
+D
+['\\x0027e8'{[[1], [2], [1]],[[-1], [1], [1]]}'\\x0027e9']
+'\\x0025fb'
+L
+L
+r = m
+L
+CC^m
+[L, "<mi//>"=[[1, -2, 3]]]
+['\\x0027e8'{[[-3], [0], [1]],[[2], [1], [0]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [-1/3]],[[0], [1], [2/3]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [1]],[[0], [1], [-1]]}'\\x0027e9']
+'\\x0025fb'
+'\\x0025fb'
+["Rank:\ "2, \ , "Nullity:\ "1, \ , "Matrix columns:\ "3, \ ]
+'\\x0025fb'
+["Determinant:\ "0]
+'\\x0025fb'
+[lambda, "<mi//>"=0, cc E_A(0), "<mi//>"='\\x0027e8'{[[-1], [1], [1]]}'\\x0027e9'], [lambda, "<mi//>"=2, cc E_A(2), "<mi//>"='\\x0027e8'{[[1], [5], [3]]}'\\x0027e9']
+'\\x0025fb'
+[gamma_A(0), "<mi//>"=1, alpha_A(0), "<mi//>"=2], [gamma_A(2), "<mi//>"=1, alpha_A(2), "<mi//>"=1]
+'\\x0025fb'
+gamma_A(0) != alpha_B(0)
+'\\x0025fb'
+'\\x0025fb'
+[2x_1+x_2+7x_3-7x_4, "<mi//>"=8], [-3x_1+4x_2-5x_3-6x_4, "<mi//>"=-12], [x_1+x_2+4x_3-5x_4, "<mi//>"=4]
+'\\x0025fb'
+x_1 = 0, \ x_2 = 1, \ x_3 = 2, \ x_4 = 1
+x_1 = 4, \ x_2 = 0, \ x_3 = 0, \ x_4 = 0
+x_1 = 7, \ x_2 = 8, \ x_3 = 1, \ x_4 = 3
+'\\x0025fb'
+[[2, 1, 7, -7, 8], [-3, 4, -5, -6, -12], [1, 1, 4, -5, 4]]
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 3, -2, 4], [0, |overline(underline(1))|, 1, -3, 0], [0, 0, 0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=2, D, "<mi//>"={1,2}, F, "<mi//>"={3,4,5}]
+'\\x0025fb'
+F
+F
+[[x_1], [x_2], [x_3], [x_4]] = [[4], [0], [0], [0]]+x_3[[-3], [-1], [1], [0]]+x_4[[2], [3], [0], [1]]
+'\\x0025fb'
+[2x_1+x_2+7x_3-7x_4, "<mi//>"=0], [-3x_1+4x_2-5x_3-6x_4, "<mi//>"=0], [x_1+x_2+4x_3-5x_4, "<mi//>"=0]
+'\\x0025fb'
+x_1 = 0, \ x_2 = 0, \ x_3 = 0, \ x_4 = 0
+x_1 = -3, \ x_2 = -1, \ x_3 = 1, \ x_4 = 0
+x_1 = 2, \ x_2 = 3, \ x_3 = 0, \ x_4 = 1
+x_1 = -1, \ x_2 = 2, \ x_3 = 1, \ x_4 = 1
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 3, -2, 0], [0, |overline(underline(1))|, 1, -3, 0], [0, 0, 0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=2, D, "<mi//>"={1,2}, F, "<mi//>"={3,4,5}]
+'\\x0025fb'
+[[2, 1, 7, -7], [-3, 4, -5, -6], [1, 1, 4, -5]]
+'\\x0025fb'
+[[|overline(underline(1))|, 0, 3, -2], [0, |overline(underline(1))|, 1, -3], [0, 0, 0, 0]]
+'\\x0025fb'
+[r, "<mi//>"=2, D, "<mi//>"={1,2}, F, "<mi//>"={3,4}]
+'\\x0025fb'
+D
+F
+'\\x0025fb'
+D
+F
+['\\x0027e8'{[[-3], [-1], [1], [0]],[[2], [3], [0], [1]]}'\\x0027e9']
+'\\x0025fb'
+D
+['\\x0027e8'{[[2], [-3], [1]],[[1], [4], [1]]}'\\x0027e9']
+'\\x0025fb'
+L
+L
+r = m
+L
+CC^m
+[L, "<mi//>"=[[1, 1/7, -11/7]]]
+['\\x0027e8'{[[11/7], [0], [1]],[[-1/7], [1], [0]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [7/11]],[[0], [1], [1/11]]}'\\x0027e9']
+'\\x0025fb'
+['\\x0027e8'{[[1], [0], [3], [-2]],[[0], [1], [1], [-3]]}'\\x0027e9']
+'\\x0025fb'
+["Rank:\ "2, \ , "Nullity:\ "2, \ , "Matrix columns:\ "4, \ ]
+'\\x0025fb'
+CC^4
+CC^5
+CC^6
+CC^5
+CC^5
+r
+n
+CC^4
+CC^5
+CC^4
+M_(23)
+M_(32)
+3 xx 4
+5 xx 5
+CC^m
+M_(mn)
+P_n
+CC^3
+P_4
+CC^2
+CC^2
+CC^2
+M_(32)
+P_4
+M_(32)
+P_4
+M_(22)
+P_n
+P_4
+M_(22)
+CC^4
+CC^3
+P_4
+M_(22)
+P_4
+P_n
+M_(22)
+P_4
+3 xx 3
+CC^4
+P_2
+P_2
+M_(32)
+A
+n
+A
+bb x in CC^n,
+'\\x0027e8'bb x, Abb x'\\x0027e9' >= 0.
+bb x
+A
+m xx n
+A^**A
+AA^**
+B,
+B^** .
+A^**A
+AA^**
+A
+A
+lambda
+A
+lambda >= 0.
+V
+n
+CC^n
+V
+V
+B = {bb v_1, bb v_2, bb v_3, ..., bb v_n}
+rho_B:V -> CC^n
+bb w in V
+rho_B(bb w) in CC^n
+[bb w, "<mi//>"=[rho_B(bb w)]_1 bb v_1+[rho_B(bb w)]_2 bb v_2+[rho_B(bb w)]_3 bb v_3+cdots+[rho_B(bb w)]_n bb v_n]
+bb w in V
+bb w
+B
+bb w
+rho_B(bb w)
+rho_B
+rho_B
+rho_B
+B
+rho_B
+B
+CC^4
+CC^m
+P_2
+rho_B
+rho_B
+rho_B
+rho_B
+rho_B^(-1)
+V
+n
+V
+CC^n
+CC^n
+U
+V
+U
+V
+dim(U) = dim(V)
+rho_B
+U
+m
+CC^m
+rho_B
+U
+rho_B^(-1)
+CC^m
+U
+CC^m
+U
+B
+n
+[S={bb u_1,bb u_2,bb u_3,...,bb u_k}]
+U
+[R={rho_B(bb u_1), rho_B(bb u_2), rho_B(bb u_3),..., rho_B(bb u_k)}]
+CC^n
+U
+B
+n
+[bb u in'\\x0027e8'{bb u_1,bb u_2,bb u_3,...,bb u_k}'\\x0027e9']
+[rho_B(bb u) in'\\x0027e8'{rho_B(bb u_1), rho_B(bb u_2), rho_B(bb u_3),..., rho_B(bb u_k)}'\\x0027e9']
+P_2
+CC^m
+rho_B
+CC^m
+U
+B
+n
+U
+U
+CC^n
+rho_B
+CC^n
+U
+rho_B^(-1)
+M_(32)
+i != j
+E_(i,j)
+n
+[E_(i,j)]_(kcc l) = {[0, k!=i,k!=j,cc l!=k], [1, k!=i,k!=j,cc l=k], [0, k=i,cc l!=j], [1, k=i,cc l=j], [0, k=j,cc l!=i], [1, k=j,cc l=i]<mo fence="true" stretchy="true" symmetric="true"//>
+alpha != 0
+E_i(alpha)
+n
+[E_i(alpha)]_(kcc l) = {[0, cc l!=k], [1, k!=i,cc l=k], [alpha, k=i,cc l=i]<mo fence="true" stretchy="true" symmetric="true"//>
+i != j
+E_(i,j)(alpha)
+n
+[E_(i,j)(alpha)]_(kcc l) = {[0, k!=j,cc l!=k], [1, k!=j,cc l=k], [0, k=j,cc l!=i,cc l!=j], [1, k=j,cc l=j], [alpha, k=j,cc l=i]<mo fence="true" stretchy="true" symmetric="true"//>
+n xx n
+E_(i,j)
+i
+j
+E_i(alpha)
+i
+i
+alpha
+E_(i,j)(alpha)
+j
+i
+alpha
+E_(i,j)(alpha)
+A
+m xx n
+B
+A
+m
+A
+B
+i
+j
+B = E_(i,j)A
+i
+alpha
+B = E_i(alpha)A
+i
+alpha
+j
+B = E_(i,j)(alpha)A
+E
+E
+alpha
+E_i(alpha)
+A
+E_1, E_2, E_3, ..., E_t
+A = E_1 E_2 E_3...E_t
+A
+m xx n
+A(i|j)
+(m-1) xx(n-1)
+A
+i
+j
+A
+det(A) = |A|
+CC^\
+A
+1 xx 1
+det(A) = [A]_(11)
+A
+n
+n >= 2
+[det(A), "<mi//>"=[A]_(11)det(A(1|1))-[A]_(12)det(A(1|2))+[A]_(13)det(A(1|3))-], [\ , \ [A]_(14)det(A(1|4))+cdots+(-1)^(n+1)[A]_(1n)det(A(1|n))]
+5 xx 5
+4
+4 xx 4
+3
+10 xx 10
+10! = 10 xx 9 xx 8 xx 7 xx 6 xx 5 xx 4 xx 3 xx 2 = 3,628,800
+1 xx 1
+3 xx 3
+2 xx 2
+1 xx 1
+A = [[a, b], [c, d]]
+det(A) = ad-bc
+ad-bc
+A
+n
+1 <= i <= n
+[det(A), "<mi//>"=(-1)^(i+1)[A]_(i1)det(A(i|1))+(-1)^(i+2)[A]_(i2)det(A(i|2))], [\ , "<mi//>"\ +(-1)^(i+3)[A]_(i3)det(A(i|3))+cdots+(-1)^(i+n)[A]_(in)det(A(i|n))]
+i
+A
+det(A^t) = det(A)
+A
+n
+1 <= j <= n
+[det(A), "<mi//>"=(-1)^(1+j)[A]_(1j)det(A(1|j))+(-1)^(2+j)[A]_(2j)det(A(2|j))], [\ , "<mi//>"\ +(-1)^(3+j)[A]_(3j)det(A(3|j))+cdots+(-1)^(n+j)[A]_(nj)det(A(n|j))]
+j
+n xx n
+2n
+4 xx 4
+det(A(i|j))
+[A]_(ij)
+[A]_(ij)
+(-1)^(i+j)det(A(i|j))
+V
+{bb v_1, bb v_2, bb v_3, ..., bb v_t}
+V
+V
+dim(V) = t
+V
+V
+S = {bb v_1, bb v_2, bb v_3, ..., bb v_t}
+V
+t+1
+V
+CC^m
+m
+m
+CC^m
+m
+CC^m
+P_4
+V
+B
+C
+B
+C
+CC^m
+CC^m
+m
+P_n
+P_n
+n+1
+M_(mn)
+M_(mn)
+mn
+M_(22)
+P_4
+A
+m xx n
+A
+A
+n(A) = dim(cc N(A))
+A
+m xx n
+A
+A
+r(A) = dim(cc C(A))
+A
+m xx n
+B
+r
+r(A) = r
+n(A) = n-r
+A
+m xx n
+r(A)+n(A) = n
+r
+r
+A
+n
+A
+n
+r(A) = n
+A
+n(A) = 0
+A
+n
+A
+A
+A
+cc N(A) = {'\\y01d7ce'}
+cc L cc S(A, bb b)
+bb b
+A
+A
+A
+CC^n
+cc C(A) = CC^n
+A
+CC^n
+A
+n
+r(A) = n
+A
+n(A) = 0

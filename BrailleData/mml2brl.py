@@ -111,15 +111,8 @@ def ProcessFile(file_name: str, dest_dir: str, config: dict[str, str | bool]):
         raise e
 
 
-def ProcessAllFilesInDir(source_dir: str, dest_dir: str,
-                         config: dict[str, str | bool], max_workers: int):
-
-    file_paths: list[str] = []
-    for root, dirs, files in os.walk(source_dir):
-        file_paths.extend(
-            f"{root}/{f}" for f in files
-            if f.endswith("no-dups.mmls")
-        )
+def ProcessFileList(file_paths: list[str], dest_dir: str,
+                    config: dict[str, str | bool], max_workers: int):
 
     total_files = len(file_paths)
     successes = 0
@@ -152,9 +145,37 @@ def ProcessAllFilesInDir(source_dir: str, dest_dir: str,
     }
 
 
+def ProcessAllFilesInDir(source_dir: str, dest_dir: str,
+                         config: dict[str, str | bool], max_workers: int):
+
+    file_paths: list[str] = []
+    for root, dirs, files in os.walk(source_dir):
+        file_paths.extend(
+            f"{root}/{f}" for f in files
+            if f.endswith("no-dups.mmls")
+        )
+
+    return ProcessFileList(file_paths, dest_dir, config, max_workers)
+
+
 def parse_args():
     parser = argparse.ArgumentParser(
         description="Batch process MathML files into braille output"
+    )
+
+    # Mutually exclusive: either --files OR --dir
+    group = parser.add_mutually_exclusive_group(required=True)
+
+    group.add_argument(
+        "--files",
+        nargs="+",
+        help="Explicit list of MathML files to process"
+    )
+
+    group.add_argument(
+        "--dir",
+        nargs="+",
+        help="One or more source directories to process"
     )
 
     parser.add_argument(
@@ -162,13 +183,6 @@ def parse_args():
         nargs="+",
         required=True,
         help="One or more braille codes (e.g., Nemeth UEB)"
-    )
-
-    parser.add_argument(
-        "--dir",
-        nargs="+",
-        required=True,
-        help="One or more source directories to process"
     )
 
     parser.add_argument(
@@ -180,46 +194,7 @@ def parse_args():
     return parser.parse_args()
 
 
-def main():
-    args = parse_args()
-
-    dest_dir = "Braille"
-
-    # Validate directories before doing anything expensive
-    for d in args.dir:
-        if not os.path.isdir(d):
-            sys.exit(f"Error: directory does not exist: {d}")
-
-    # Track summary info
-    summary = []
-
-    for source_dir in args.dir:
-        for code in args.code:
-            config = {
-                "BrailleCode": code,
-                "dry_run": args.dry_run,
-            }
-
-            print(f"\n=== Processing directory: {source_dir}")
-            print(f"    Braille code: {code}")
-            print(f"    Dry run:      {args.dry_run}")
-            print("")
-
-            stats = ProcessAllFilesInDir(
-                source_dir,
-                dest_dir,
-                config,
-                max_workers=24
-            )
-
-            summary.append({
-                "dir": source_dir,
-                "code": code,
-                "dry_run": args.dry_run,
-                "stats": stats,
-            })
-
-    # Print final summary
+def print_summary(summary):
     print("\n==================== SUMMARY ====================")
     for entry in summary:
         s = entry["stats"]
@@ -231,6 +206,67 @@ def main():
         print(f"Failures:      {s['failures']}")
         print(f"Output files:  {s['written']}")
     print("\n=================================================\n")
+
+
+def main():
+    args = parse_args()
+    dest_dir = "Braille"
+
+    # Determine file list based on mode
+    if args.files:
+        # Explicit file mode
+        file_list = []
+        for f in args.files:
+            if not os.path.isfile(f):
+                sys.exit(f"Error: file does not exist: {f}")
+            file_list.append(f)
+        mode = "files"
+    else:
+        # Directory mode
+        for d in args.dir:
+            if not os.path.isdir(d):
+                sys.exit(f"Error: directory does not exist: {d}")
+
+        # Discover files from directories
+        file_list = []
+        for source_dir in args.dir:
+            for root, dirs, files in os.walk(source_dir):
+                for f in files:
+                    if f.endswith("no-dups.mmls"):
+                        file_list.append(f"{root}/{f}")
+        mode = "dirs"
+
+    # Summary accumulator
+    summary = []
+
+    # Unified processing loop
+    for code in args.code:
+        config = {
+            "BrailleCode": code,
+            "dry_run": args.dry_run,
+        }
+
+        print(f"\n=== Processing {mode}:")
+        print(f"    Braille code: {code}")
+        print(f"    Dry run:      {args.dry_run}")
+        print(f"    Files:        {len(file_list)}")
+        print("")
+
+        stats = ProcessFileList(
+            file_list,
+            dest_dir,
+            config,
+            max_workers=24
+        )
+
+        summary.append({
+            "dir": "(explicit files)" if args.files else args.dir,
+            "code": code,
+            "dry_run": args.dry_run,
+            "stats": stats,
+        })
+
+    print_summary(summary)
 
 
 if __name__ == "__main__":

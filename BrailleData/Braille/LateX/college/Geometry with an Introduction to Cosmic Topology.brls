@@ -1,0 +1,5390 @@
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+p
+q,
+d_H (p, q)
+p
+q
+\mathbb D .
+p, q,
+r
+q
+d_H (p, q) +d_H (q, r) =d_H (p, r) .
+\mscrH .
+d_H (p, q) =d_H (T(p), T(q))
+p
+q
+\mathbb D,
+T
+\mscrH .
+z
+\mathbb D,
+z
+x =| z|
+L
+x
+L
+x^\ast
+x
+\mathbb S_\infty^1
+\mathbb S_\infty^1
+0x^\ast .
+x +h
+x
+x +h
+w,
+w =\frac{ -h}{1 -x^2 -hx} .
+x
+x +h
+w .
+\mscrH,
+(1) & d_H (x, x +h) =d_H (0, w) .
+0, x,
+x +h
+h >0
+(2) & d_H (0, x) +d_H (x, x +h) =d_H (0, x +h) .
+x \in \mathbb R
+d(x) =d_H (0, x)
+x
+d(x +h) -d(x) =d(w) .
+h
+\frac{d(x +h) -d(x)}{h} =\frac{d(w)}{h} .
+h \to 0
+d'(x) =\lim_{h \to 0} \frac{d(w)}{h} .
+w,
+w
+d(w),
+| w -0| =| w| .
+w
+x +h
+x
+w \to 0
+h \to 0 .
+\lim_{h \to 0} \frac{d(w)}{| w|} =k
+k .
+k =2,
+d'(x) & \lt mi/> =\lim_{h \to 0} \frac{d(w)}{h} \\ \~ & \lt mi/> =\lim_{h \to 0} \frac{d(w)}{| w|}\frac{| w|}{h} \\ \~ & \lt mi/> =\lim_{h \to 0} [2 \cdot \frac{h}{(1 -x^2 -hx)h}] \\ \~ & \lt mi/> =\frac{2}{1 -x^2} .
+d(x)
+(partial\textasciitilde fractions) & \int \frac{2}{1 -x^2}dx & \lt mi/> = \int (\frac{1}{1 -x} +\frac{1}{1 +x})dx \\ \~ & \lt mi/> = -\ln (1 -x) +\ln (1 +x) \\ d(x) & \lt mi/> =\ln (\frac{1 +x}{1 -x}),
+\mathbit z
+z
+\mathbb D
+d_H (0, z) =\ln (\frac{1 +| z|}{1 -| z|}) .
+z
+\mathbb D
+| z| \to 1
+0
+z
+\infty .
+d_H (p, q),
+0
+x
+(1 +x)/(1 -x)
+0,
+x,
+(0, x; 1, -1) =\frac{0 -1}{0 +1} \cdot \frac{x +1}{x -1} =\frac{1 +x}{1 -x} .
+d_H (0, x) =\ln ((0, x; 1, -1)) .
+\mscrH .
+T
+\mscrH
+p
+q
+x
+(invariance\space of\space distance) & d_H (p, q) & \lt mi/> =d_H (T(p), T(q)) \\ \~ & \lt mi/> =d_H (0, x) \\ \~ & \lt mi/> =\ln ((0, x; 1, -1)) \\ (invariance\space of\space cross\space ratio) & \~ & \lt mi/> =\ln ((p, q; u, v)),
+u
+v
+p
+q .
+u
+p
+q,
+v
+q
+p .
+p
+q,
+p
+0
+q
+\mathbf d_\mathbf H (\mathbf p, \mathbf q)
+p
+q
+u
+v
+p
+q
+d_H (p, q) =\ln ((p, q; u, v)) .
+\mscrH .
+\mscrH
+p
+T(z) =\frac{z -p}{1 -\overline{p}z} .
+T
+q
+T(q),
+\mathbb D .
+T
+d_H (p, q) =d_H (0, T(q)),
+d_H (p, q) =\ln (\frac{1 +| T(q)|}{1 -| T(q)|}) .
+T(q) =\frac{q -p}{1 -\overline{p}q}
+p
+q
+\mathbb D,
+d_H (p, q) =\ln [\frac{| 1 -\overline{p}q| +| q -p|}{| 1 -\overline{p}q| -| q -p|}] .
+p =\frac{1}{2}i,
+q =\frac{1}{2} +\frac{1}{2}i,
+z =.95e^{i5\pi /6}
+w = -.95 .
+d_H (p, q) \approx 1.49
+d_H (z, w) \approx 4.64
+p
+q .
+\mathbit r \colon [a, b] \to \mathbb C
+\mathbit r '(t)
+t
+0 .
+\mathbit r (t) =x(t) +iy(t),
+\mathbit r '(t) =x'(t) +iy'(t) .
+\mathbit r (t) =x(t) +iy(t)
+\Delta s & \lt mi/> =| \mathbit r (t +\Delta t) -\mathbit r (t)| \\ \~ & \lt mi/> =\sqrt{[x(t +\Delta t) -x(t)]^2 +[y(t +\Delta t) -y(t)]^2} \\ \~ & \lt mi/> =\sqrt{[\frac{x(t +\Delta t) -x(t)}{\Delta t}]^2 +[\frac{y(t +\Delta t) -y(t)}{\Delta t}]^2}| \Delta t| .
+\Delta t \to 0
+ds =\sqrt{(dx/dt)^2 +(dy/dt)^2}dt,
+ds =| \mathbit r '(t)|dt .
+a
+\mathbit r \colon [0, 2\pi] \to \mathbb C
+\mathbit r (t) =a\cos (t) +ia\sin (t) .
+a
+\mathcal L (\mathbit r),
+\mathcal L (\mathbit r) & \lt mi/> =\int_0^{2\pi} | \mathbit r '(t)|dt \\ \~ & \lt mi/> =\int_0^{2\pi} | -a\sin (t) +ia\cos (t)|dt \\ \~ & \lt mi/> =\int_0^{2\pi} \sqrt{a^2 \sin^2 (t) +a^2 \cos^2 (t)}dt \\ \~ & \lt mi/> =\int_0^{2\pi} adt \\ \~ & \lt mi/> =2\pi a .
+\mathbit r
+\mathbb D
+\mathbit r (t) =x(t) +iy(t),
+a \le t \le b .
+\mathbit r (t)
+\mathbit r (t +\Delta t),
+d_H (\mathbit r (t), \mathbit r (t +\Delta t)) .
+\mathbit r (t)
+T(z) =\frac{z -\mathbit r (t)}{1 -\overline{\mathbit r (t)}z},
+d_H (\mathbit r (t), \mathbit r (t +\Delta t)) =\ln [1 +| T(\mathbit r (t +\Delta t))|] -\ln [1 -| T(\mathbit r (t +\Delta t))|] .
+\Delta t
+T(\mathbit r (t +\Delta t))
+T(\mathbit r (t)),
+\ln (1 +x) \approx x
+x
+\Delta t,
+d_H (\mathbit r (t), \mathbit r (t +\Delta t)) & \lt mi/> \approx | T(\mathbit r (t +\Delta t))| +| T(\mathbit r (t +\Delta t))| \\ \~ & \lt mi/> =2 \cdot | \frac{\mathbit r (t +\Delta t) -\mathbit r (t)}{1 -\overline{\mathbit r (t)}\mathbit r (t +\Delta t)}| \\ \~ & \lt mi/> =2 \cdot \frac{| \frac{\mathbit r (t +\Delta t) -\mathbit r (t)}{\Delta t}|}{| 1 -\overline{\mathbit r (t)}\mathbit r (t +\Delta t)|} \cdot | \Delta t| .
+\Delta t \to 0,
+| \mathbit r '(t)|
+1 -| \mathbit r (t)|^2,
+\mathbit r \colon [a, b] \to \mathbb D
+\mathbit r
+\mathcal L (\mathbit r),
+\mathcal L (\mathbit r) =\int_a^b \frac{2}{1 -| \mathbit r (t)|^2}| \mathbit r '(t)|dt .
+\mathbb D
+\mathbit r
+\mathbb D,
+T
+\mscrH,
+\mathcal L (\mathbit r) =\mathcal L (T(\mathbit r)) .
+\mscrH
+\mathbb D .
+p
+p .
+p
+q
+(\mathbb D, \mscrH)
+c
+\mathbit r (t) =x(t) +iy(t)
+a \le t \le b,
+c
+\mathbit r (a) =0
+\mathbit r (b) =c
+x(t)
+x
+\mathcal L (\mathbit r) =\int_a^b \frac{2}{1 -[(x(t))^2 +(y(t))^2]}\sqrt{(x'(t))^2 +(y'(t))^2}dt .
+c
+\mathbit r_0 (t) =x(t) +0i
+a \le t \le b,
+\mathcal L (\mathbit r_0) =\int_a^b \frac{2}{1 -[x(t)]^2}\sqrt{(x'(t))^2}dt .
+\mathbit r_0
+\mathbit r
+\mathcal L (\mathbit r) \ge \mathcal L (\mathbit r_0) .
+\mscrH
+\mathbb D
+p, q, u
+\mathbb D
+d_H (p, q) \ge 0,
+d_H (p, q) =0
+p =q;
+d_H (p, q) =d_H (q, p);
+d_H (p, q) +d_H (q, u) \ge d_H (p, u) .
+\mathbit p
+\mathbit q
+p =.5i
+q =.5 +.5i
+p
+q,
+\mathbit r
+p
+q
+\mathbb D
+p
+q .
+\mathbit r (t) =t +\frac{1}{2}i
+0 \le t \le \frac{1}{2} .
+\mathbit r '(t) =1
+\mathcal L (\mathbit r) & \lt mi/> =\int_0^{\frac{1}{2}} \frac{2}{1 -(t^2 +\frac{1}{4})}dt \\ \~ & \lt mi/> \approx 1.52 .
+p
+q
+(\mathbb D, \mscrH)
+(\mathbb D, \mathbcal H)
+p
+q
+\mathbb D,
+pq
+p
+q
+q
+p .
+pq,
+L
+L
+p
+q
+q
+p .
+L
+p
+q .
+z
+L,
+d_H (z, p) =d_H (z, q) .
+p, q,
+r
+\mathbb D
+0 \lt x \lt 1
+L
+x
+h,
+w
+x +h
+w =\frac{ -h}{1 -x^2 -hx} .
+\mathbb D
+L
+C
+L .
+z
+L,
+C
+z
+C
+C
+C
+L
+L .
+p =0.5
+q =0.25 +0.5i .
+(\mathbb D, \mscrH)
+(\mathbb D, \mscrH) .
+z_0
+r >0 .
+C
+z
+\mathbb D
+d_H (z, z_0) =r
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+p
+q
+\mathbb C^+,
+\mathbit p
+\mathbit q
+p
+q,
+\mathbit p
+\mathbit q
+p
+q
+p
+q .
+p
+q
+p
+q .
+p
+q
+p
+q
+C
+p
+q,
+T(C)
+T(p)
+T(q) .
+C
+p
+q,
+T(C)
+T(p)
+T(q) .
+\infty
+\infty
+\infty .
+\infty
+0 \mapsto p
+\infty \mapsto q
+\infty
+p
+q,
+p
+\infty
+q
+p, q \not= \infty
+p
+q,
+p
+q .
+z
+p
+q
+p
+q,
+\infty
+\infty
+T(z) =(az +b)/(cz +d)
+\infty .
+T(0) =0,
+b =0 .
+T(\infty) =\infty,
+c =0 .
+T(z) =\frac{a}{d}z
+T(z) =re^{i\theta} z .
+T
+T
+\infty,
+T
+r
+\theta
+r >0
+\pi
+r
+\infty .
+\infty
+r >1
+0 \lt r \lt 1
+r =1
+\theta
+\infty .
+T
+p
+q
+\infty
+S(z) =\frac{z -p}{z -q}
+p
+q
+\infty .
+U
+(1) & U =S \circ T \circ S^{ -1} .
+U(0) =S \circ T \circ S^{ -1} (0) =S \circ T(p) =S(p) =0,
+U(\infty) =S \circ T \circ S^{ -1} (\infty) =S \circ T(q) =S(q) =\infty .
+U
+\infty .
+U
+U
+U(z) =re^{i\theta} z .
+T
+S \circ T =U \circ S,
+T
+p
+q
+\infty
+\frac{T(z) -p}{T(z) -q} =re^{i\theta} \cdot \frac{z -p}{z -q}
+a, b, c, d
+p, q, r, \theta
+p
+q
+r
+p
+q,
+\theta
+p
+q .
+T
+T =S^{ -1} \circ U \circ S .
+T
+z
+p
+q
+p
+q
+z
+T
+p
+q .
+z
+S
+S(z),
+U
+U(z) =re^{i\theta} z
+S(z)
+r
+\theta
+U(S(z)) .
+S^{ -1}
+U(S(z))
+p
+q
+p
+q .
+S^{ -1} (U(S(z)))
+T(z) .
+T
+T
+p
+q
+r
+p
+q
+\theta
+| re^{i\theta} | =1
+p
+q
+p
+q
+p
+q .
+\theta =0 .
+r,
+p
+q,
+p
+q
+p
+q
+r .
+p
+q
+p
+q .
+T
+p
+q,
+\infty .
+\infty
+z_\infty .
+T(z_\infty) =\infty .
+\mathbit T
+\infty
+w_\infty .
+T(\infty) =w_\infty .
+p, q, z_\infty,
+w_\infty .
+T
+p
+q,
+z_\infty
+\infty,
+\infty
+w_\infty .
+p +q =z_\infty +w_\infty .
+T
+p
+q,
+z_\infty
+\infty,
+\infty
+w_\infty,
+T(z) =\frac{w_\infty z -pq}{z -z_\infty} .
+\mathbit i \mapsto \infty
+\infty
+-i,
+T(z) =\frac{ -iz -(1)( -1)}{z -i} =\frac{ -iz +1}{z -i} .
+T(z) =\frac{(6 +3i)z +(2 -3i)}{z +3} .
+T .
+T(z) =z
+z .
+\frac{(6 +3i)z +(2 -3i)}{z +3} & \lt mi/> =z \\ (6 +3i)z +(2 -3i) & \lt mi/> =z^2 +3z \\ z^2 -(3 +3i)z -(2 -3i) & \lt mi/> =0.
+\ldots
+z =i
+z =3 +2i .
+T
+\frac{T(z) -i}{T(z) -(3 +2i)} =\lambda \frac{z -i}{z -(3 +2i)} .
+\lambda,
+z .
+T( -3) =\infty,
+1 =\lambda \frac{ -3 -i}{ -3 -(3 +2i)} .
+\lambda =2,
+T
+i
+3 +2i .
+\mathbb C^+ .
+T(0) =\frac{2}{3} -i,
+T(1) =2,
+T(4i) =2.16 +4.12i .
+i
+3 +2i
+i
+3 +2i .
+T
+z_\infty = -3,
+w_\infty =6 +3i .
+z_\infty,
+w_\infty,
+\mathbit i
+\mathbf 0
+\mathbf 1 \mapsto \mathbf 2
+\frac{T(z) -i}{T(z) -0} =\lambda \frac{z -i}{z -0} .
+T(1) =2
+\frac{2 -i}{2} =\lambda (1 -i) .
+\lambda
+\lambda =\frac{3}{4} +\frac{1}{4}i,
+\lambda
+\lambda =re^{i\theta},
+r =\frac{\sqrt{10}}{4}
+\theta =\arctan (1/3) .
+T
+i
+0
+r
+i
+0
+\theta .
+d,
+T(z) =z +d
+\infty .
+\infty
+T
+p \not= \infty
+S(z) =\frac{1}{z -p}
+p
+\infty,
+U =S \circ T \circ S^{ -1} .
+U(\infty) =S(T(S^{ -1} (\infty))) =S(T(p)) =S(p) =\infty,
+U
+U(z) =z +d
+d .
+S \circ T =U \circ S
+\mathbit T
+\mathbit p \not= \infty
+\mathbit p \not= \infty
+\frac{1}{T(z) -p} =\frac{1}{z -p} +d
+U(z) =z +d
+d
+\infty
+S^{ -1}
+p,
+p,
+d .
+p
+T(\infty)
+p
+p .
+p
+p .
+p
+\infty
+\infty .
+T(z) =(7z -12)/(3z -5) .
+z & \lt mi/> =T(z) \\ z(3z -5) & \lt mi/> =7z -12 \\ 3z^2 -12z +12 & \lt mi/> =0 \\ z^2 -4z +4 & \lt mi/> =0 \\ (z -2)^2 & \lt mi/> =0 \\ z & \lt mi/> =2.
+T
+\frac{1}{T(z) -2} =\frac{1}{z -2} +d .
+d
+T(0) =2.4,
+\frac{1}{0.4} =\frac{1}{ -2} +d
+d =3 .
+\frac{1}{T(z) -2} =\frac{1}{z -2} +3 .
+T(z) =\frac{z}{2z -1}
+T(z) =\frac{ -z}{(1 +i)z -i}
+T(z) =\frac{3iz -5}{z -i}
+T
+T \circ T
+T
+T
+a, b, c
+\mathbb C
+T(a) =b, T(b) =c, T(c) =a .
+a, b,
+c
+T ?
+T \circ T \circ T
+T
+T
+\infty,
+T(z) =z +d
+d .
+2 +i
+\infty .
+i
+T
+p
+q .
+z_\infty
+w_\infty
+pq .
+T
+p
+q .
+T
+p
+q
+z_\infty
+\infty
+\infty
+w_\infty .
+p +q =z_\infty +w_\infty .
+T
+T
+p,
+q,
+z_\infty,
+w_\infty
+T
+T
+\mathbb C
+T =i_{C_1} \circ i_{C_2}
+C_1
+C_2
+T
+C_1
+C_2 .
+T(z)
+\frac{1}{T(z) -p} =\frac{1}{z -p} +d .
+p
+p +\frac{1}{d}
+T .
+T(z) =[(1 +3i)z -9i]/[iz +(1 -3i)]
+2 +i
+T(\infty) =8 .
+p,
+q,
+z
+\mathbb C,
+p
+q
+z .
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbit r \colon [a, b] \to \mathbb P^2
+(\mathbb P^2, \mathscr S),
+\mathbit r
+\mathcal L (\mathbit r),
+\mathcal L (\mathbit r) =\int_a^b \frac{2| \mathbit r '(t)|}{1 +| \mathbit r (t)|^2}dt .
+R
+\mathbb P^2,
+A(R),
+A(R) =\iint_R \frac{4r}{(1 +r^2)^2}drd\theta .
+p
+q
+\mathbb P^2
+p
+q .
+p
+q,
+\mathbit p
+\mathbit q
+d_S (p, q),
+p
+q,
+p
+q
+p
+q
+(\mathbb P^2, \mathscr S)
+d_S (p, q) =\min \{2\arctan (| \frac{q -p}{1 +\overline{p}q}|), 2\arctan (| \frac{1 +\overline{p}q}{q -p}|)\} .
+d_S (0, 1) =2\arctan (1) =\pi /2 .
+2\pi,
+\pi /2
+d_S (0, x) =2\arctan (x)
+(\mathbb C^+, \mathscr S)
+x,
+\pi /2
+(\mathbb P^2, \mathscr S) .
+p
+r
+r >0 .
+r
+(\mathbb P^2, \mathscr S),
+z_0
+r
+z \in \mathbb P^2
+r
+z_0
+z .
+T
+\mathscr S
+p
+p_a .
+T
+p
+p_a,
+p
+p_a
+p .
+p
+q
+\mathbb P^2 .
+p
+p_a
+q .
+p
+q .
+p
+p_a
+q
+p
+p_a
+q_a .
+\mathbb P^2
+p
+q
+p
+p_a
+p
+q
+\mathbb P^2
+a
+0 \lt a \lt 1
+2\arctan (a) .
+\mathbb P^2
+r \lt \pi /2
+C =2\pi \sin (r) .
+\pi /2
+\mathbb P^2
+\mathbb P^2
+\mathbb P^2
+\alpha .
+(\mathbb P^2, \mathscr S),
+\alpha
+2\alpha .
+(\mathbb P^\mathbf 2, \mathbcal S)
+\Delta pqr
+2\pi
+2\pi +2 \cdot A(\Delta pqr) & \lt mi/> =A(Lunep) +A(Luneq) +A(Luner) \\ 2\pi +2 \cdot A(\Delta pqr) & \lt mi/> =(2\alpha +2\beta +2\gamma) \\ A(\Delta pqr) & \lt mi/> =(\alpha +\beta +\gamma) -\pi .
+(\mathbb P^2, \mathscr S),
+\alpha, \beta, \gamma
+A =(\alpha +\beta +\gamma) -\pi .
+\lt mi/>\circ .
+p, q
+z
+(\mathbb P^2, \mathscr S)
+\pi /2
+a, b,
+c,
+\alpha, \beta,
+\gamma
+\cos (c) =\cos (a)\cos (b) +\sin (a)\sin (b)\cos (\gamma) .
+\frac{\sin (a)}{\sin (\alpha)} =\frac{\sin (b)}{\sin (\beta)} =\frac{\sin (c)}{\sin (\gamma)} .
+(\mathbb P^2, \mathscr S)
+a
+b,
+c,
+\cos (c) =\cos (a)\cos (b) .
+C =2\pi \sin (r),
+r \lt \pi /2
+\lim_{r \to 0^+} \frac{2\pi \sin (r)}{2\pi r} =1 .
+r,
+\pi /2 .
+2\pi /3 .
+\pi .
+2\pi .
+C
+z_0
+r >0 .
+r
+C
+r
+C
+\frac{1}{2}
+\frac{1}{2}i .
+r \lt \pi /2
+A =4\pi \sin^2 (r/2) .
+\lim_{r \to 0^+} \frac{4\pi \sin^2 (r/2)}{\pi r^2} =1 .
+r,
+\mathbb P^2
+2\pi .
+\mathbb P^2 .
+92\circ,
+62\circ,
+27\circ .
+\mathbb P^2
+n
+(\mathbb P^2, \mathscr S),
+n
+\alpha_1, \alpha_2, \cdots, \alpha_n .
+p
+q
+(\mathbb C^+, \mathscr S)
+d_S (p, q) =2\arctan (| \frac{q -p}{1 +\overline{p}q}|),
+d_S (p, q)
+\phi^{ -1} (p)
+\phi^{ -1} (q) .
+(\mathbb C^+, \mathscr S)
+(\mathbb P^2, \mathscr S) .
+x
+\mathbb C^+,
+d_S (0, x) =2\arctan (x) .
+p
+q
+\mathbb C^+,
+d_S (p, q) =2\arctan (| \frac{q -p}{1 +\overline{p}q}|) .
+x >0
+\phi^{ -1} (x),
+x
+\phi^{ -1} (0) ?
+\phi^{ -1} (0)
+\phi^{ -1} (x)
+\arccos ((1 -x^2)/(1 +x^2)) .
+\cos (\theta) =\vec{v} \cdot \vec{w}
+x >0,
+\arccos ((1 -x^2)/(1 +x^2)) =2\arctan (x) .
+\tan (\theta /2) =\tan (\theta)/(\sec (\theta) +1) .
+(\mathbb P^2, \mathscr S)
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C^+
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+z_0
+z
+T(z)
+\vec{z_0 z}
+T
+n
+\mathbb R^n .
+\mathbb R^n
+n
+\mathbit p =(x_1, x_2, \ldots, x_n) .
+\mathbit n
+\mathbit p
+\mathbb R^n
+r >0,
+B_n (\mathbit p, r),
+B_n (\mathbit p, r) =\{\mathbit x \in \mathbb R^n || \mathbit x -\mathbit p | \lt r\},
+| \mathbit x -\mathbit p |
+\mathbit x
+\mathbit p .
+\mathbb R .
+B_2 (z_0, r)
+z
+\mathbb C
+| z -z_0 | \lt r .
+B_3 (\mathbit p, r)
+\mathbb R^3
+\mathbit p
+r .
+n
+n =1, 2, 3 .
+\mathbit n
+X
+X
+n
+S
+\mathbb R^3 .
+S =\{(x, y, z) \in \mathbb R^3 |z =0orz =1\}
+S
+\mathbb D =\{z \in \mathbb C || z| \lt 1\}
+\mathbb D
+| z| =r \lt 1,
+s =1 -r .
+B_2 (z, s)
+x
+y
+a
+b
+p
+q
+\mathbb R^2 .
+u
+\mathbb R^2 .
+\mathbb R^n
+n
+\mathbb R^3
+\mathbb D
+\mathbb R^2 .
+S
+\mathbb R^n
+\{z_k \}
+S
+z,
+z
+S .
+\mathbb D
+\{\frac{1}{2}, \frac{2}{3}, \frac{3}{4}, \frac{4}{5}, \ldots \} .
+\mathbb D,
+\mathbb R^n
+\mathbb S^2,
+\mathbb T^2,
+\mathbb P^2 .
+X_1
+X_2
+X_1 \#X_2,
+X_1
+X_2;
+X_i
+\mathbb T^2
+\mathbb R^3
+\mathbb S^2
+\mathbb T^2 \#\mathbb T^2,
+\mathbb S^2 \#\mathbb T^2 .
+\mathbb T^2 \#\mathbb T^2
+H_2
+\mathbb S^2 \#\mathbb T^2
+\mathbb T^2 .
+X
+0 \colon
+\mathbb S^2 \#X =X
+X .
+g \ge 1,
+\mathbit g
+H_g,
+H_g =\overset{gcopies}{\overset{\overbrace}{\mathbb T^2 \#\mathbb T^2 \#\cdots \#\mathbb T^2}} .
+H_g
+g
+H_0 =\mathbb S^2 .
+g \ge 1,
+\mathbit g
+C_g =\overset{gcopies}{\overset{\overbrace}{\mathbb P^2 \#\mathbb P^2 \#\cdots \#\mathbb P^2}} .
+\mathbb P^2 .
+C_g
+g
+C_1
+\mathbb R^3
+C_1 \#C_1 .
+C_1 .
+c .
+C_1
+c
+c
+C_2
+C_2
+C_2 .
+C_2
+C_2
+a_1 a_1 a_2 a_2 .
+C_{g -1} \#C_1,
+C_g
+2g
+a_1 a_1 a_2 a_2 \cdots a_g a_g .
+aba^{ -1} b^{ -1} .
+(a_1 b_1 a_1^{ -1} b_1^{ -1})(a_2 b_2 a_2^{ -1} b_2^{ -1}) .
+g \ge 1
+H_g
+4g
+(a_1 b_1 a_1^{ -1} b_1^{ -1})(a_2 b_2 a_2^{ -1} b_2^{ -1})\cdots (a_g b_g a_g^{ -1} b_g^{ -1}) .
+\mathbb S^2,
+H_g
+g \ge 1,
+C_g
+g \ge 1 .
+2m
+m \ge 1 .
+H_2
+aba^{ -1} b,
+\mathbb K^2 .
+S
+T
+C_g
+a_1
+H_g
+g \ge 0)
+\mathbit n
+\mathbit n
+n
+\mathbb R^n .
+C
+C .
+C
+\mathbf n
+n
+n
+X
+C
+X .
+\mathbb S^2 .
+\mathbit H_\mathbf 1
+S,
+\chi (S),
+\chi (S) =v -e +f
+v,
+e,
+f
+\chi .
+\mathbb S^2,
+\chi (\mathbb S^2) =2.
+\mathbb T^2
+v -e +f =0 .
+H_g
+\chi (H_g) =2 -2g,
+g \ge 0 .
+C_g
+\chi (C_g) =2 -g,
+g \ge 1 .
+\chi
+H_0
+C_1
+H_1
+C_2
+C_3
+H_2
+C_4
+C_5
+H_3
+C_6
+\vdots
+\vdots
+\vdots
+abca^{ -1} b^{ -1} c^{ -1} .
+a_1 a_1
+a_2 a_2
+s_1
+s_2
+b
+c
+d
+e
+b, c, d,
+e
+H_1 \#C_1 ?
+C_g,
+C_2
+\mathbb K^2 .
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+(\mathbb D_k, \mscrH_k)
+k \lt 0
+(\mathbb P_k^2, \mathscr S_k)
+k >0
+(X_k, G_k)
+\infty
+\mathbb P^2
+\mathbb S^1
+C_g
+H_g
+i
+\mathbb C^+
+\mathbb R^n
+n
+\mathbb R^n
+p
+q
+(\mathbb D, \mscrH)
+45\circ
+(\mathbb D, \mscrH)
+i_C (z)
+z
+C
+z
+C
+k
+(X_k, G_k)
+k =0
+k >0
+k \lt 0
+\mathbb C^+
+g
+\mscrH,
+\frac{2}{3}
+\mathbb D,
+p
+q,
+p
+q,
+k
+L(p, q)
+n
+\infty
+X/G
+(X, G)
+n
+g
+C_g
+g
+H_g
+p
+q
+p
+q
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C
+A
+B,
+f \colon A \to B
+a_1 \not= a_2
+A,
+f(a_1) \not= f(a_2)
+B .
+f
+b
+B
+a
+A
+f(a) =b .
+A
+T \colon A \to A
+f \colon A \to B
+g \colon A \to B
+T
+A
+T^{ -1},
+T^{ -1} \circ T(a) =a
+T \circ T^{ -1} (a) =a
+a
+A .
+T^{ -1}
+A
+T
+z
+w
+A,
+T^{ -1} (w) =z
+T(z) =w .
+\mathbb C
+T(z) =az +b,
+a, b
+\mathbb C
+a \not= 0 .
+b \colon
+T_b (z) =z +b .
+\theta
+0 \colon
+R_\theta (z) =e^{i\theta} z .
+\theta
+z_0 \colon
+R(z) =e^{i\theta} (z -z_0) +z_0 .
+k >0 \colon
+T(z) =kz .
+L \colon
+r_L (z) =e^{i\theta} \overline{z} +b,
+b
+\mathbb C,
+\theta
+\mathbb R .
+b,
+T_b \colon \mathbb C \to \mathbb C
+T_b (z) =z +b .
+z
+b
+T_b
+b,
+b,
+T_b (0) =b
+v
+w
+-b
+T_b
+b
+T_b
+T_b
+w
+\mathbb C .
+z
+T_b (z) =w .
+z =w -b .
+T_b (z) =z +b =(w -b) +b =w .
+T
+T_b
+T_b
+z_1 \not= z_2
+T_b (z_1) \not= T_b (z_2) .
+z_1 \not= z_2
+T_b (z_1) \not= T_b (z_2)
+T_b (z_1) =T_b (z_2),
+z_1 =z_2 .
+z_1
+z_2
+T_b (z_1) =T_b (z_2) .
+z_1 +b =z_2 +b .
+b
+z_1 =z_2,
+\theta
+R_\theta \colon \mathbb C \to \mathbb C
+R_\theta (z) =e^{i\theta} z .
+\theta .
+\theta >0
+\theta \lt 0
+z =re^{i\beta},
+R_\theta (z) =e^{i\theta} re^{i\beta} =re^{i(\theta +\beta)} .
+\theta
+z_0,
+z_0,
+T_{ -z_0} .
+\theta
+R_\theta
+T_{z_0}) .
+z\overset{T_{ -z_0}}{\mapsto}z -z_0 \overset{R_\theta}{\mapsto}e^{i\theta} (z -z_0)\overset{T_{z_0}}{\mapsto}e^{i\theta} (z -z_0) +z_0 .
+R
+T_{z_0} \circ R_\theta \circ T_{ -z_0}
+R(z) =e^{i\theta} (z -z_0) +z_0 .
+T
+S
+A,
+S \circ T
+A .
+k >0
+T(z) =kz
+k .
+z =x +yi,
+T(z) =kx +kyi,
+z
+T(z)
+k >1
+T
+0 \lt k \lt 1,
+T
+a, b
+a \not= 0
+T(z) =az +b
+\mathbb C .
+T(z) =az +b,
+a, b
+\mathbb C
+a \not= 0 .
+T
+\mathbb C .
+T
+w
+\mathbb C .
+z
+T(z) =w .
+z,
+w =az +b
+z .
+z =\frac{1}{a}(w -b)
+a \not= 0,
+z
+T(\frac{1}{a}(w -b)) =a \cdot [\frac{1}{a}(w -b)] +b =w .
+T
+T
+T
+T(z_1) =T(z_2),
+z_1 =z_2 .
+z_1
+z_2
+T(z_1) =T(z_2),
+az_1 +b =az_2 +b .
+b
+az_1 =az_2,
+a
+a \not= 0
+z_1 =z_2 .
+T
+T
+a \in A
+a
+A .
+T \colon A \to A
+D
+A .
+D,
+T(D),
+T(x)
+x \in D .
+T(D) =\{a \in A|a =T(x)for\space somex \in D\} .
+L
+T_b
+b,
+T(L)
+T
+T
+T
+D =\{z \in \mathbb C || z -2i| \le 1\}
+T \colon \mathbb C \to \mathbb C
+T(z) =2z +(4 -i)
+T(D)
+4 +3i
+\mathbit r \colon [a, b] \to \mathbb C
+\mathbit r_1
+\mathbit r_2
+\mathbb C
+\mathbit r_1
+\mathbit r_2,
+\angle (\mathbit r_1, \mathbit r_2),
+T
+\mathbb C
+\mathbit z_\mathbf 0
+\angle (\mathbit r_1, \mathbit r_2) = \angle (T(\mathbit r_1), T(\mathbit r_2))
+\mathbit r_1
+\mathbit r_2
+z_0 .
+T
+\mathbb C
+\mathbb C .
+T
+\mathbb C
+\mathbb C,
+| \angle (\mathbit r_1, \mathbit r_2)| =| \angle (T(\mathbit r_1), T(\mathbit r_2))|
+\mathbit r_1
+\mathbit r_2
+T \colon A \to A
+a
+A
+T(a) =a .
+b \not= 0,
+T_b
+\mathbb C
+\mathbb C
+\mathbb C
+T(z) =az +b
+a \not= 1 .
+z =az +b
+z .
+T(z) =2z +(4 -i)
+z =2z +4 -i,
+z,
+z = -4 +i .
+T(z) =2z +(4 -i)
+D
+T(D),
+-4 +i
+T
+\mathbb C
+| T(z) -T(w)| =| z -w|
+z
+w
+\mathbb C .
+\mathbb C
+T(z) =az +b
+| a| =1 \colon
+| T(z) -T(w)| & \lt mi/> =| az +b -(aw +b)| \\ \~ & \lt mi/> =| a(z -w)| \\ \~ & \lt mi/> =| a|| z -w| .
+| T(z) -T(w)| =| z -w| \iff | a| =1 .
+\mathbb C
+\mathbit L
+\mathbb C
+L
+z
+L,
+z^\ast
+L
+zz^\ast .
+L
+L
+r_L (z) =\overline{z} .
+L
+y =x +5,
+-5i,
+-\frac{\pi}{4},
+\frac{\pi}{4},
+5i
+z & \lt mi/> \mapsto z -5i \\ \~ & \lt mi/> \mapsto e^{ -\frac{\pi}{4}i} (z -5i) \\ \~ & \lt mi/> \mapsto \overline{e^{ -\frac{\pi}{4}i} (z -5i)} =e^{\frac{\pi}{4}i} (\overline{z} +5i) \\ \~ & \lt mi/> \mapsto e^{\frac{\pi}{4}i} \cdot e^{\frac{\pi}{4}i} (\overline{z} +5i) =e^{\frac{\pi}{2}i} (\overline{z} +5i) \\ \~ & \lt mi/> \mapsto e^{\frac{\pi}{2}i} (\overline{z} +5i) +5i .
+e^{\frac{\pi}{2}i} =i
+L \colon y =x +5
+r_L (z) =i\overline{z} -5 +5i .
+L
+\mathbb C
+r_L (z) =e^{i\theta} \overline{z} +b
+\theta
+b .
+\mathbb C
+\mathbb C
+z_0
+z_0 .
+T(z) = -z
+T(z) =az +b,
+a
+b
+T
+\lt mi/>\circ
+S
+45\circ
+T \circ S ?
+T(z) =iz +3
+S(z) = -iz +2 .
+T \circ S .
+\mathbb C
+D =\{z|| z| \lt 2\}
+D' =\{z|| z -i| \lt 5\} .
+x =k .
+y =k .
+y =mx +b,
+m \not= 0 .
+S(z) =kz
+\mathbb C
+k
+z_0
+\mathbb C .
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+(\mathbb P^2, \mathscr S)
+(\mathbb D, \mscrH) .
+(\mathbb P^2, \mathscr S)
+\mathbb P^2 .
+\mathscr S
+(\mathbb D, \mscrH),
+\lt mi/>\circ,
+\pi r^2
+2\pi r .
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C^+
+T(z) =(az +b)/(cz +d)
+a, b, c
+d
+ad -bc \not= 0 .
+ad -bc
+T(z) =(az +b)/(cz +d),
+(T) .
+T(z) =\frac{az +b}{cz +d}
+\mathbb C^+
+ad -bc \not= 0 .
+T(z) =\frac{az +b}{cz +d}
+T^{ -1} (z) =\frac{ -dz +b}{cz -a} .
+\mathbb C^+
+T \colon \mathbb C^+ \to \mathbb C^+
+\mathbb C^+ .
+z_1, z_2, z_3
+w_1, w_2, w_3),
+z_1 \mapsto w_1,
+z_2 \mapsto w_2,
+z_3 \mapsto w_3 .
+\mathbb C^+
+\mathbb C^+ .
+z_1 \mapsto 1,
+z_2 \mapsto 0
+z_3 \mapsto \infty
+T(z) =\frac{(z -z_2)}{(z -z_3)} \cdot \frac{(z_1 -z_3)}{(z_1 -z_2)} .
+(az +b)/(cz +d),
+z_i
+z_i
+\infty,
+\infty
+z_2 =\infty,
+z_1 \mapsto 1,
+\infty \mapsto 0
+z_3 \mapsto \infty
+T(z) =(z_1 -z_3)/(z -z_3) .
+\infty
+z, w, u,
+v,
+w, u,
+v
+(z, w; u, v),
+(z, w; u, v) =\frac{z -u}{z -v} \cdot \frac{w -v}{w -u} .
+z
+w, u,
+v
+T(z) =(z, w; u, v)
+w \mapsto 1,
+u \mapsto 0,
+v \mapsto \infty .
+1 \mapsto 3,
+i \mapsto 0,
+2 \mapsto -1 .
+T(z) =(z, 1; i, 2)
+S(w) =(w, 3; 0, -1) .
+S^{ -1} \circ T .
+(z, 1; i, 2) & \lt mi/> =(w, 3; 0, -1) \\ \frac{z -i}{z -2} \cdot \frac{1 -2}{1 -i} & \lt mi/> =\frac{w -0}{w +1} \cdot \frac{3 +1}{3 -0} \\ \frac{ -z +i}{(1 -i)z -2 +2i} & \lt mi/> =\frac{4w}{3w +3} .
+w \colon
+-3zw +3iw +3i -3z & \lt mi/> =4[(1 -i)z -2 +2i]w \\ -3z +3i & \lt mi/> =[3z -3i +4[(1 -i)z -2 +2i]]w \\ w & \lt mi/> =\frac{ -3z +3i}{(7 -4i)z +( -8 +5i)} .
+V(z) =\frac{ -3z +3i}{(7 -4i)z +( -8 +5i)} .
+V(1) =3, V(i) =0
+V(2) = -1 .
+z_0, z_1, z_2,
+z_3
+\mathbb C^+,
+T
+(z_0, z_1; z_2, z_3) =(T(z_0), T(z_1); T(z_2), T(z_3)) .
+\infty,
+(z, w; u, v)
+(z, w; u, v)
+1, i, -1, -i .
+| z| =1,
+(1, i; -1, -i)
+(1, i; -1, -i) & \lt mi/> =\frac{1 +1}{1 +i} \cdot \frac{i +i}{i +1} \\ \~ & \lt mi/> =\frac{2}{1 +i}\frac{2i}{1 +i} \\ \~ & \lt mi/> =\frac{4i}{(1 -1) +2i} \\ \~ & \lt mi/> =\frac{4i}{2i} \\ (Yep!) & \~ & \lt mi/> =2.
+z
+z^\ast
+C,
+T
+T(z)
+T(z^\ast)
+T(C) .
+C_1
+C_2,
+T
+C_1
+C_2 .
+T(C_1) =C_2 .
+\mathbb C^+
+2i
+\pi /4 .
+T(z) =\frac{3z +i}{2z +1} .
+T
+S
+T \circ S
+1 \mapsto i,
+i \mapsto -1,
+-1 \mapsto -i .
+T(0) ?
+T(\infty) ?
+2 \to 0,
+1 \to 3
+4 \to 4 .
+\overline{(z, z_1; z_2, z_3)} =(\overline{z}, \overline{z_1}; \overline{z_2}, \overline{z_3}) .
+2 +i, 3, 5,
+6 +i
+T
+\overline{T(z)} \not= T(\overline{z})
+z
+\mathbb C^+ .
+T
+\overline{T(z)} =T(\overline{z})
+z
+\mathbb C .
+i
+2 +i
+-i
+4 +i ?
+\mathbb C^+ .
+\infty
+T(z) =\frac{2z}{3z -1}
+T(z) =iz
+T(z) =\frac{ -iz}{(1 -i)z -1}
+| z| =4
+3x +y =4 .
+T .
+C
+C
+T(C) ?
+z_1, z_2, z_3
+\mathbb C^+ .
+z_1 \mapsto 1,
+z_2 \mapsto 0,
+z_3 \mapsto \infty
+z_3 =\infty .
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+(\mathbb D, \mscrH)
+\mathbb D
+z
+\mathbb C
+| z| \lt 1,
+\mscrH
+T
+T(\mathbb D) =\mathbb D .
+\mathbb D
+\mscrH
+\mscrH
+\mathbb S_\infty^1 .
+\mathbb D
+\mathbb D
+\mathbb S_\infty^1
+\mathbb D
+\mathbb D .
+C
+\mathbb S_\infty^1,
+C,
+\mathbb S_\infty^1
+\mathbb S_\infty^1,
+\mathbb D,
+\mathbb D
+\mscrH .
+C
+\mathbb S_\infty^1
+\mscrH .
+\mathbb D
+\mscrH .
+\mscrH
+C
+\mathbb S_\infty^1
+z_0
+z_0
+\mathbb D
+z_1
+\mathbb S_\infty^1
+\mscrH
+z_0
+z_1
+1 .
+\mscrH
+\mathbb S_\infty^1 .
+T
+\mscrH
+L_1,
+L_2
+z
+z'
+L_1,
+T(z)
+z'
+L_2 .
+\mscrH \colon
+L_1
+L_2,
+\mathbb D,
+p,
+\mathbb D
+p^\ast
+p
+\mathbb S_\infty^1 .
+p
+p^\ast
+\mathbb D
+p
+p
+p^\ast .
+\mscrH
+p;
+p .
+p
+p^\ast,
+p,
+\mathbb D
+p .
+\mathbb D
+p
+q
+p
+q
+q
+p .
+L_1
+L_2
+p
+q
+\mscrH .
+p
+q .
+\mscrH
+p;
+p
+q .
+(\mathbb D, \mathbcal H)
+M
+T
+p .
+L_1
+L_2
+p
+\mathbb S_\infty^1
+M
+T(M)
+T(T(M)) .
+z
+M \colon
+z
+T(z)
+T^2 (z) =T(T(z)) .
+T,
+z
+\mathbb D
+p
+p
+p^\ast
+z .
+M
+L_1
+L_2
+\mathbb S_\infty^1
+p
+q
+z
+\mathbb D
+p
+q
+p, q,
+z .
+\mscrH \colon
+\mathbcal H
+T
+\mscrH
+T(z) =e^{i\theta} \frac{z -z_0}{1 -\overline{z}_0 z}
+\theta
+z_0
+\mathbb D
+z_0
+\mathbb D,
+z_1
+\mathbb S_\infty^1,
+T
+\mscrH
+z_0 \mapsto 0,
+z_0^\ast \mapsto \infty
+z_1 \mapsto 1 .
+T(z) =(z, z_1; z_0, z_0^\ast) =\frac{z_1 -z_0^\ast}{z_1 -z_0} \cdot \frac{z -z_0}{z -z_0^\ast} .
+z_0^\ast =\frac{1}{\overline{z_0}},
+T(z) =\frac{z_1 -1/\overline{z_0}}{z_1 -z_0} \cdot \frac{z -z_0}{z -1/\overline{z_0}} =\frac{\overline{z_0}z_1 -1}{z_1 -z_0} \cdot \frac{z -z_0}{\overline{z_0}z -1} .
+\frac{\overline{z_0}z_1 -1}{z_1 -z_0}
+1 =| z_1 |^2 =z_1 \overline{z_1},
+\frac{\overline{z_0}z_1 -1}{z_1 -z_0} & \lt mi/> =\frac{\overline{z_0}z_1 -z_1 \overline{z_1}}{z_1 -z_0} \\ \~ & \lt mi/> =\frac{ -z_1 (\overline{z_1 -z_0})}{z_1 -z_0} .
+| z_1 | =1
+| \beta | =| \overline{\beta}|
+e^{i\theta}
+\theta .
+T
+\mscrH
+T(z) =e^{i\theta} \frac{z -z_0}{1 -\overline{z}_0 z}
+\theta
+z_0
+\mathbb D
+\mscrH ?
+(\mathbb D, \mscrH)
+T
+T(z) =e^{i\theta} \frac{z -z_0}{1 -\overline{z}_0 z},
+z_0
+\mathbb D .
+T
+\mathbb D
+\mathbb D
+| z| \lt 1
+| T(z)| \lt 1 .
+\mathbb S_\infty^1
+p
+q
+\mathbb D .
+\mathbb S_\infty^1
+p
+q
+(\mathbb D, \mscrH)
+\mscrH
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb S^2
+(a, b, c)
+\mathbb R^3
+a^2 +b^2 +c^2 =1,
+\mathbb S^2
+\phi \colon \mathbb S^2 \to \mathbb C^+
+\phi (a, b, c) =\{\frac{a}{1 -c} +\frac{b}{1 -c}i & \~if\~c \not= 1;\~ \\ \infty & \~if\~c =1 \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/> .
+P =(a, b, c)
+\mathbb S^2
+-P =( -a, -b, -c) .
+\phi
+z
+w
+\mathbb C^+
+z \cdot \overline{w} = -1 .
+\infty
+\mathbb C^+ .
+z
+w
+w
+z,
+z
+\mathbb C^+
+z_a,
+z_a =\{ -1/\overline{z} & \~if\~z \not= 0, \infty;\~ \\ \infty & \~if\~z =0;\~ \\ 0 & \~if\~z =\infty \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/> .
+-\frac{1}{\overline{z}} = -\frac{1}{| z|^2}z,
+z_a
+z,
+z
+z_a
+\infty
+z \in \mathbb C^+ .
+\mathbb C^+ .
+C
+\mathbb C^+
+z
+C,
+z_a .
+\mathbb C^+
+\mathbb C^+ .
+\mathbb C^+
+\mathbb S^2
+\mathbb C^+ .
+\mathbb S^\mathbf 2
+\mathbb S^2
+\mathbb S^2
+\mathbb C^+ .
+\mathbb S^2
+P =(a, b, c)
+P^\ast =(a, b, -c) .
+\phi (P)
+\phi (P^\ast)
+| c| =1
+P
+P^\ast
+\infty,
+| c| \not= 1 .
+\phi (P) =\frac{a}{1 -c} +\frac{b}{1 -c}iand\~\phi (P^\ast) =\frac{a}{1 +c} +\frac{b}{1 +c}i
+\phi (P^\ast) =\frac{1 -c}{1 +c}\phi (P) .
+| \phi (P)| \cdot |\phi (P^\ast)| & \lt mi/> =\frac{1 -c}{1 +c} \cdot | \phi (P)|^2 \\ \~ & \lt mi/> =\frac{1 -c}{1 +c} \cdot \frac{a^2 +b^2}{(1 -c)^2} \\ \~ & \lt mi/> =\frac{a^2 +b^2}{1 -c^2} \\ \~ & \lt mi/> =1.
+a^2 +b^2 +c^2 =1 .
+\phi (P)
+\phi (P^\ast)
+i_{\mathbb S^1},
+\mathbb S^2
+R,
+i_{\mathbb S^1} \circ \phi =\phi \circ R .
+\mathbb S^2
+\mathbb C^+ .
+\mathbb C^+
+\mathbb S^2 .
+\mathbb C^+
+\mathbb S^2
+N =(0, 0, 1) .
+\mathbb S^2
+\mathbb S^2
+Ax +By +Cz +D =0
+\mathbb S^2
+Ax +By +Cz +D =0
+\phi
+(C +D)(u^2 +v^2) +2Au +2Bv +(D -C) =0
+u, v
+| w -w_0 | =r
+\mathbb C
+\phi^{ -1}
+\mathbb S^2
+-2x_0 x -2y_o y +(1 -| w_0 |^2 +r^2)z +(1 +| w_0 |^2 -r^2) =0
+w_0 =x_0 +y_0 i .
+\mathbit{\phi}
+\mathbb S^2
+x = -\frac{1}{2} .
+A =2, B =C =0,
+D =1,
+\phi
+(u^2 +v^2) +4u +1 =0 .
+(u +2)^2 +v^2 =3
+( -2, 0)
+\sqrt{3} .
+\mathbit{\phi}
+| w -(3 +2i)| =4
+\mathbb C
+\mathbb S^2
+-2 \cdot 3x -2 \cdot 2y +(1 -13 +4)z +(1 +13 -4) =0
+-3x -2y -4z +5 =0 .
+z
+z_a,
+z \colon
+z
+T
+zT;
+T .
+z_a .
+z_a = -\frac{1}{| z|^2}z .
+z .
+\mathbb C^+
+\mathbb C^+
+\mathbb S^2
+(0, 0, 1),
+(0, 0, -1),
+(1, 0, 0)
+\mathbb C^+
+\phi
+z =1/2
+\mathbb S^2
+\mathbb C^+
+C
+r
+o .
+p
+C
+p
+C
+m
+n,
+s =| p -o|
+| p -m| \cdot | p -n| =r^2 -s^2 .
+mn
+ab
+C
+p,
+| m -p| \cdot | a -p| =| m -p| \cdot | b -p| .
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbit k \lt \mathbf 0
+k \lt 0
+k .
+\mathbb D_k
+1/\sqrt{| k|}
+\mathbb C .
+\mathbb D_k
+z
+\mathbb C
+| z| \lt 1/\sqrt{| k|} .
+| z| =1/\sqrt{| k|} .
+\mscrH_k
+\mathbb D_k
+(\mathbb D_k, \mscrH_k)
+k \lt 0
+\mathbit k .
+z
+z^\ast
+T(z)
+T(z^\ast)
+z
+z^\ast =\frac{1}{| k|\overline{z}} = -\frac{1}{k\overline{z}},
+T \in \mscrH_k
+ifz^\ast = -\frac{1}{k\overline{z}}thenT(z^\ast) = -\frac{1}{k\overline{T(z)}} .
+\mscrH_k
+\mathscr S_k
+\mscrH_k
+T(z) =e^{i\theta} \frac{z -z_0}{1 +k\overline{z_0}z},
+z_0
+\mathbb D_k .
+\mathbb C^+
+(\mathbb D_k, \mscrH_k)
+z
+\frac{ -1}{k\overline{z}} .
+k .
+\mathbit r
+\mathbb D_k
+\mathcal L (\mathbit r) =\int_a^b \frac{2| \mathbit r '(t)|}{1 +k|\mathbit r (t)|^2}dt .
+R
+A(R) =\iint_R \frac{4r}{(1 +kr^2)^2}drd\theta .
+k
+\frac{2}{3}
+\mathbb D_k .
+\frac{2}{3}
+(\mathbb D_k, \mscrH_k)
+k \lt 0
+\alpha
+-\frac{1}{k}(\pi -\alpha) .
+\mathbb D_k
+k,
+\alpha, \beta,
+\gamma
+A =\frac{1}{k}(\alpha +\beta +\gamma -\pi) .
+z
+k .
+L
+w
+v .
+v
+w
+\angle wzv
+v
+w,
+\theta = \angle wzu,
+u
+L .
+\theta
+z
+L .
+\theta,
+\mathbit z
+\mathbit L
+z
+d
+L .
+\cosh (d) =1/\sin (\theta)
+(\mathbb D, \mscrH) .
+d
+L
+\theta .
+L,
+\lt mi/>\circ,
+d
+k,
+d
+z
+L
+\theta
+\tan (\theta /2) =e^{ -\sqrt{| k|}d} .
+e_1
+e_2
+s
+p
+p
+D,
+D =d/\tan (p),
+d
+p
+d
+d
+p
+D =\frac{d}{p} .
+\lt mi/>\circ
+k,
+e_1
+e_2
+2d,
+s
+p,
+\angle e_2 se_1 =2p .
+\alpha = \angle e_1 e_2 s
+\theta = \angle e_1 e_2 u .
+\tan (x)
+\tan (\alpha /2) \lt \tan (\theta /2) =e^{ -\sqrt{| k|}2d} .
+| k| \colon
+\tan (\alpha /2) & \lt mi/> \lt e^{ -\sqrt{| k|}2d} & \~ \\ \ln (\tan (\alpha /2)) & \lt mi/> \lt -\sqrt{| k|}2d & \ln (x)is\space increasing \\ [\frac{\ln (\tan (\alpha /2))}{2d}]^2 & \lt mi/> >| k| . & x^2 is\space decreasing\space forx \lt 0
+| k|
+p,
+\alpha \approx \pi /2 -2p
+\lt mi/>\circ
+| k| \lt [\frac{\ln (\tan (\pi /4 -p))}{2d}]^2 .
+p
+\ln (\tan (\pi /4 -p))
+-2p,
+k,
+| k| \lt (p/d)^2 .
+k \lt 0,
+\mscrH_k
+T(z) =e^{i\theta} \frac{z -z_0}{1 +k\overline{z_0}z},
+\theta
+z_0
+\mathbb D_k .
+k \lt 0
+s =1/\sqrt{| k|} .
+(\mathbb D_k, \mscrH_k) .
+0
+x,
+0 \lt x \lt s
+d_k (0, x) =s\ln (\frac{s +x}{s -x}) .
+r
+c =2\pi s\sinh (r/s) .
+r
+A =4\pi s^2 \sinh^2 (\frac{r}{2s}) .
+k \to 0^- .
+d_k (0, x)
+x,
+0 \lt x \lt s,
+2x
+k \to 0^- .
+r
+2\pi r
+k \to 0^- .
+\pi r^2
+k \to 0^- .
+(\mathbb D_k, \mscrH_k) .
+(\mathbb D_k, \mscrH_k)
+a, b, c
+\alpha, \beta,
+\gamma
+s =1/\sqrt{| k|} .
+(\mathbb D_k, \mscrH_k) \colon
+\cosh (c/s) =\cosh (a/s)\cosh (b/s) -\sinh (a/s)\sinh (b/s)\cos (\gamma) .
+(\mathbb D_k, \mscrH_k) \colon
+\frac{\sinh (a/s)}{\sin (\alpha)} =\frac{\sinh (b/s)}{\sin (\beta)} =\frac{\sinh (c/s)}{\sin (\gamma)} .
+k \lt 0
+(\mathbb D_k, \mscrH_k)
+k
+\theta
+\theta
+d ?
+p =.3
+k
+\lt mi/>^{ -2}
+k
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+r
+k
+k =1/r .
+z =f(x, y)
+c \approx 2\pi r .
+c =2\pi r .
+2\pi r
+c
+r
+c =2\pi \sinh (r);
+c =2\pi r;
+c =2\pi \sin (r) .
+\frac{c}{2\pi r}
+c
+r
+c/2\pi r
+r
+c/2\pi r
+r
+r \to 0^+ .
+r \to 0^+ .
+r
+p
+c .
+\mathbit p
+k = -3\lim_{r \to 0^+} \frac{d^2}{dr^2}[\frac{c}{2\pi r}] .
+s
+N
+r .
+z =0,
+x,
+2\pi x .
+x =s\sin (\theta)
+r =\theta \cdot s,
+x =s\sin (\frac{r}{s}),
+r
+c =2\pi s\sin (\frac{r}{s}) .
+N
+k = -3\lim_{r \to 0^+} \frac{d^2}{dr^2}[\frac{2\pi s\sin (r/s)}{2\pi r}] .
+2\pi
+\sin (r/s)
+k & \lt mi/> = -3\lim_{r \to 0^+} \frac{d^2}{dr^2}[\frac{s(\frac{r}{s} -\frac{r^3}{6s^3} +\frac{r^5}{120s^5} -\cdots)}{r}] \\ \~ & \lt mi/> = -3\lim_{r \to 0^+} \frac{d^2}{dr^2}[1 -\frac{r^2}{6s^2} +\frac{r^4}{120s^4} -\cdots] \\ \~ & \lt mi/> = -3\lim_{r \to 0^+} [\frac{ -1}{3s^2} +\frac{12r^2}{120s^4} -\cdots] .
+r
+r \to 0^+,
+1/s^2 .
+k =\frac{1}{s^2} .
+(\mathbb D, \mscrH)
+c =2\pi \sinh (r) .
+\sinh (r) =r +\frac{r^3}{3!} +\frac{r^5}{5!} +\cdots .
+k & \lt mi/> = -3\lim_{r \to 0^+} \frac{d^2}{dr^2}[\frac{2\pi \sinh (r)}{2\pi r}] \\ \~ & \lt mi/> = -3\lim_{r \to 0^+} \frac{d^2}{dr^2}[1 +\frac{r^2}{3!} +\frac{r^4}{5!} +\cdots] \\ \~ & \lt mi/> = -3\lim_{r \to 0^+} [\frac{1}{3} +\frac{12r^2}{5!} +\cdots] .
+r
+r \to 0^+,
+\mathbb D, \mscrH)
+k = -1.
+c =2\pi \sin (r)
+k =0 .
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+(\mathbit X_\mathbit k, \mathbit G_\mathbit k)
+(\mathbb P_k^2, \mathscr S_k)
+k >0
+(\mathbb D_k, \mscrH_k)
+k \lt 0 .
+k .
+k
+(\mathbit X_\mathbit k, \mathbit G_\mathbit k)
+X_k =\{\mathbb D_k & \~if\~k \lt 0;\~ \\ \mathbb C & \~if\~k =0;\~ \\ \mathbb P_k^2 & \~if\~k >0,\~ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+G_k
+T(z) =e^{i\theta} \frac{z -z_0}{1 +k\overline{z_0}z},
+\theta \in \mathbb R
+z_0
+X_k .
+p
+q
+(X_k, G_k)
+p, q,
+-1/(k\overline{p}) .
+\mathbit r \colon [a, b] \to X_k
+\mathcal L (\mathbit r) =\int_a^b \frac{2| \mathbit r '(t)|}{1 +k|\mathbit r (t)|^2}dt .
+R
+(X_k, G_k)
+A(R) =\iint_R \frac{4r}{(1 +kr^2)^2}drd\theta .
+k >0,
+\pi;
+k \lt 0
+\pi .
+k >0
+X_k =\mathbb P_k^2
+k \lt 0,
+X_k =\mathbb D_k
+k >0
+r
+2\pi r;
+k \lt 0
+2\pi r .
+k =0 ?
+(X_0, G_0)
+(X_0, G_0)
+k =0,
+-1/(k\overline{p}) =\infty,
+p
+q
+k =0
+(X_0, G_0),
+\lt mi/>\circ .
+(X_k, G_k)
+k
+k
+k =0
+\mathbb C
+(X_0, G_0)
+k
+k
+(X_k, G_k) .
+(X_k, G_k)
+p
+q
+(X_k, G_k)
+k = -1, 0, 1,
+k .
+(X_k, G_k) \colon
+p, q \in X_k,
+d_k (p, q)
+p
+q .
+(X_k, G_k)
+p
+q
+X_k
+p
+d_k (p, q) .
+k,
+(X_k, G_k)
+k
+(X_k, G_k)
+\alpha, \beta,
+\gamma
+A .
+kA =(\alpha +\beta +\gamma -\pi) .
+(X_k, G_k) \colon
+\lt mi/>\circ .
+| k|
+180\circ .
+k =0
+\pi
+n
+(n \ge 3)
+(X_k, G_k)
+\alpha_i
+i =1, 2, \ldots, n .
+A
+n
+kA =(\sum_{i =1}^n \alpha_i) -(n -2)\pi .
+k \in \mathbb R,
+s =\frac{1}{\sqrt{| k|}}
+0 \lt x \lt s
+k =0,
+0 \lt x
+(X_k, G_k),
+x
+\frac{4\pi x^2}{1 +kx^2} .
+k \in \mathbb R,
+(X_k, G_k)
+a
+b
+c .
+A(c) =A(a) +A(b) -\frac{k}{2\pi}A(a)A(b),
+A(r)
+r
+(X_k, G_k) .
+(X_k, G_k)
+a >0
+\lt mi/>\circ,
+a
+c
+c
+a
+k
+k =0
+c^2 =2a^2 .
+k \lt 0,
+\cosh (\sqrt{| k|}c) =\cosh^2 (\sqrt{| k|}a) .
+k >0,
+\cos (\sqrt{k}c) =\cos^2 (\sqrt{k}a) .
+c,
+a
+c
+c
+a
+k .
+k = -1, 0, 1
+k \lt 0
+k >0
+k =0
+k =0
+(\mathbit X_\mathbit k, \mathbit G_\mathbit k)
+k \in \mathbb R,
+s =\frac{1}{\sqrt{| k|}}
+0 \lt x \lt s
+k =0
+0 \lt x
+(X_k, G_k),
+x
+d_k (0, x) =\{s\ln (\frac{s +x}{s -x}) & \~if\~k \lt 0;\~ \\ 2x & \~if\~k =0;\~ \\ 2s\arctan (x/s) & if\~k >0 . \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+r
+(X_k, G_k)
+A(r)
+A(r) =\{4\pi s^2 \sinh^2 (\frac{r}{2s}) & \~if\~k \lt 0;\~ \\ \pi r^2 & \~if\~k =0;\~ \\ 4\pi s^2 \sin^2 (\frac{r}{2s}) & if\~k >0, \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+r
+(X_k, G_k)
+C(r)
+C(r) =\{2\pi s\sinh (r/s) & \~if\~k \lt 0;\~ \\ 2\pi r & \~if\~k =0;\~ \\ 2\pi s\sin (r/s) & if\~k >0 . \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+(X_k, G_k)
+k =0 .
+d_0 (0, x) =2x
+x >0
+r
+(X_0, G_0)
+A(r) =\pi r^2
+C(r) =2\pi r .
+k,
+(X_k, G_k)
+k .
+k \lt 0, k =0,
+k >0 .
+(X_k, G_k)
+k .
+\lt mi/>\circ,
+\lt mi/>\circ,
+\lt mi/>\circ,
+\lt mi/>^2 .
+(X_k, G_k)
+r
+\frac{d}{dr}[A(r)] =C(r) .
+(X_k, G_k)
+p
+a,
+k,
+a =0,
+c =0
+\frac{dc}{da}|_{a =0} =\sqrt{2};
+a >0,
+\frac{d^2 c}{da^2}
+k,
+k .
+(X_k, G_k)
+\lt mi/>\circ
+k
+a =8
+c =11.2
+(X_k, G_k)
+p .
+z,
+\lt mi/>\circ
+q .
+\angle pqz =.789
+k
+(X_k, G_k)
+k
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+i
+\mathbb R
+i
+i^2 = -1
+(x, y)
+\mathbb C
+\mathbb C =\{(x, y)|x, y \in \mathbb R \} .
+z =(x, y),
+x
+z
+(z);
+y
+z
+(z) .
+\mathbb C
+x \leftrightarrow (x, 0),
+x .
+\mathbb C
+(x, y) +(s, t) =(x +s, y +t),
+k
+k \cdot (x, y) =(kx, ky) .
+i =(0, 1),
+(x, y)
+x +yi
+(x, y) & \lt mi/> =(x, 0) +(0, y) \\ \~ & \lt mi/> =x(1, 0) +y(0, 1) \\ \~ & \lt mi/> =x +yi .
+x +yi
+z
+w
+z =x +yi
+z
+(x, y)
+z =2 +i,
+w = -1 +1.5i,
+z +w =1 +2.5i,
+\mathbb C .
+z -w
+w
+z
+i^2 = -1 .
+(x +yi) \cdot (s +ti) & \lt mi/> =xs +ysi +xti +yti^2 \\ \~ & \lt mi/> =(xs -yt) +(ys +xt)i .
+z =x +yi,
+| z|,
+| z| =\sqrt{x^2 +y^2} .
+| z|
+z
+z =x +yi,
+\overline{z},
+\overline{z} =x -yi .
+z =3 -4i
+w =2 +7i .
+z +w =5 +3i,
+z \cdot w & \lt mi/> =(3 -4i)(2 +7i) \\ \~ & \lt mi/> =6 +28 -8i +21i \\ \~ & \lt mi/> =34 +13i .
+4z & \lt mi/> =12 -16i \\ | z| & \lt mi/> =\sqrt{3^2 +( -4)^2} =5 \\ \overline{zw} & \lt mi/> =34 -13i .
+z +w,
+sz,
+| z|,
+z \cdot w .
+z =5 +2i,
+s = -4,
+w = -1 +2i
+z =3i,
+s =1/2,
+w = -3 +2i
+z =1 +i,
+s =0.6,
+w =1 -i
+z \cdot \overline{z} =| z|^2,
+\overline{z}
+z .
+z =x +yi
+w =s +ti
+| w \cdot z| =| w| \cdot | z| .
+\overline{zw} =\overline{z} \cdot \overline{w} .
+\overline{z +w} =\overline{z} +\overline{w} .
+z +\overline{z} =2Re(z) .
+z +\overline{z}
+z -\overline{z} =2Im(z)i .
+| z| =| \overline{z}| .
+(a, b, c)
+a^2 +b^2 =c^2 .
+z =x +yi
+x
+y
+a =Re(z^2)b =Im(z^2)c =z\overline{z} .
+a^2 +b^2 =c^2 .
+z =x +yi
+z =x +yi,
+x
+y
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C^+,
+\mathscr S
+T
+\mathscr S
+T
+z
+z_a
+\mathbb C^+
+T(z)
+T(z_a)
+\mathbb C^+ .
+\mathscr S
+\mathbb C^+
+\mathscr S .
+\mathbcal S
+R(z) =e^{i\theta} z
+z
+z_a
+z =\infty
+0,
+z,
+R
+z \not= 0, \infty .
+z_a = -\frac{1}{\overline{z}} .
+\overline{R(z_a)} = -\frac{e^{ -i\theta}}{z},
+R(z) \cdot \overline{R(z_a)} = -e^{i\theta} z \cdot \frac{e^{ -i\theta}}{z} = -1 .
+R(z)
+R(z_a)
+\mathscr S .
+\mathscr S
+T
+\mathscr S,
+z
+w
+T(z) \cdot \overline{T(w)} = -1 .
+z
+w
+w = -\frac{1}{\overline{z}},
+T(z) \cdot \overline{T( -1/\overline{z})} = -1,
+(1) & T(z) & \lt mi/> =\frac{ -1}{\overline{T( -1/\overline{z})}} .
+T(z) =(az +b)/(cz +d),
+ad -bc =1 .
+\overline{T( -1/\overline{z})} & \lt mi/> =\overline{[\frac{ -a/\overline{z} +b}{ -c/\overline{z} +d}]} \\ \~ & \lt mi/> =\frac{ -\overline{a}/z +\overline{b}}{ -\overline{c}/z +\overline{d}} \\ \~ & \lt mi/> =\frac{\overline{b}z -\overline{a}}{\overline{d}z -\overline{c}} .
+\frac{az +b}{cz +d} =\frac{ -\overline{d}z +\overline{c}}{\overline{b}z -\overline{a}} .
+d = -\overline{a}
+c =\overline{b},
+T
+T(z) =\frac{az +b}{\overline{b}z -\overline{a}} .
+\mscrH .
+-1/\overline{a},
+a \not= 0 .
+a =0,
+T(z) & \lt mi/> =\frac{ -\frac{a}{\overline{a}}z -\frac{b}{\overline{a}}}{ -\frac{\overline{b}}{\overline{a}}z +1} \\ \~ & \lt mi/> =\frac{ -\frac{a}{\overline{a}}(z +\frac{b}{a})}{ -\frac{\overline{b}}{\overline{a}}z +1} \\ \~ & \lt mi/> =e^{i\theta} \cdot \frac{z -z_0}{\overline{z}_0 z +1},
+e^{i\theta} = -a/\overline{a}
+z_0 = -b/a .
+\mathscr S .
+\mathbcal S
+T
+\mathscr S
+T(z) =e^{i\theta} \frac{z -z_0}{1 +\overline{z}_0 z}
+\theta
+z_0
+\mathbb C^+ .
+z_0 \in \mathbb C^+,
+T
+\mathscr S
+T(z_0) =0,
+\mathscr S
+z_0
+z_1
+\mathbb C^+,
+\mathscr S
+z_0
+z_1
+\mathscr S .
+\mathbb C^+ .
+\mathscr S
+\mathscr S,
+\mathscr S
+\mathbb C^+,
+\mathscr S .
+\mathscr S
+\mscrH,
+\mscrH
+(transformation\space in\~\mscrH) & T(z) & \lt mi/> =e^{i\theta} \frac{z -z_0}{1 -\overline{z}_0 z} .
+\mathscr S
+\mscrH
+\mscrH
+z \cdot \overline{w} =1
+T(z) \cdot \overline{T(w)} =1 .
+T
++1
+\mathbb C^+ .
+\mathbb C^+ .
+(\mathbb C^+, \mathscr S)
+\mathbb C^+
+(\mathbb C^+, \mathscr S) .
+\mathbb C^+
+\infty,
+\mathbb C^+
+2 +i
+-\frac{2}{5} -\frac{i}{5} .
+\mathbb C^+
+z
+| z| \le 1 .
+w
+w_a
+w
+(| w| =1),
+w_a
+\mathbb P^2,
+z
+| z| \le 1
+p
+q
+p
+c,
+c_a .
+d
+d_a
+q,
+p
+q
+\mathbb P^2 .
+(\mathbb P^2, \mathscr S),
+\mathbb P^2
+\mathscr S
+\mathscr S
+(\mathbb P^2, \mathscr S)
+\mathbb C^+
+p
+q
+\mathbb P^2 .
+\mathbb P^2 .
+p
+\mathbb P^2
+L,
+p
+L .
+\mathscr S
+\theta \in \mathbb R
+z_0 \in \mathbb C,
+\mathscr S \colon
+T(z) =e^{i\theta} \frac{z -z_0}{1 +\overline{z_0}z} .
+\theta \in \mathbb R,
+T(z) =e^{i\theta} \frac{1}{z}
+\mathscr S .
+p, q \in \mathbb C^+
+\mathscr S
+p
+q
+z
+L,
+z
+L
+\mathscr S
+\mathbb P^2 ?
+\mathscr S
+\frac{1}{2}
+\frac{1}{2} +\frac{1}{2}i .
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbit k >\mathbf 0
+k >0,
+k .
+1/\sqrt{k}
+k >0 .
+\mathbb S_k^2
+\mathbb R^3
+1/\sqrt{k} .
+\phi_k \colon \mathbb S_k^2 \to \mathbb C^+,
+\phi_k (a, b, c) =\{\frac{a}{1 -c\sqrt{k}} +\frac{b}{1 -c\sqrt{k}}i & \~if\~c \not= \frac{1}{\sqrt{k}};\~ \\ \infty & \~if\~c =\frac{1}{\sqrt{k}} \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/> .
+\mathbb S_k^2
+\phi_k
+z
+z_a
+z_a =\frac{ -1}{k\overline{z}},
+\mathbb C^+
+\mathbb S_k^2,
+k
+k
+\mathbb P_k^2
+\mathbb C
+1/\sqrt{k},
+\mathscr S_k,
+\mathbb S_k^2 .
+T \in \mathscr S_k
+if\~z_a = -\frac{1}{k\overline{z}}then\~T(z_a) = -\frac{1}{k\overline{T(z)}} .
+(\mathbb P_k^2, \mathscr S_k)
+k >0
+\mathbit k
+(\mathbb P_1^2, \mathscr S_1)
+\mathbb C^+
+\mathscr S_k
+\mathbb S_k^2 .
+\mathscr S_k
+T(z) =e^{i\theta} \frac{z -z_0}{1 +k\overline{z_0}z} .
+k
+z
+z_a = -\frac{1}{k\overline{z}} .
+\mathbb S_k^2 .
+\mathbit r
+\mathbb P_k^2
+\mathcal L (\mathbit r) =\int_a^b \frac{2| \mathbit r '(t)|}{1 +k|\mathbit r (t)|^2}dt .
+(\mathbb P_k^2, \mathscr S_k)
+\pi /(2\sqrt{k}) .
+R
+A(R) =\iint_R \frac{4r}{(1 +kr^2)^2}drd\theta .
+(\mathbb P_k^2, \mathscr S_k) .
+k >0 .
+(\mathbb P_k^2, \mathscr S_k)
+\alpha
+2\alpha /k .
+\pi
+1/\sqrt{k} .
+\mathbb P_k^2
+2\pi /k,
+1/\sqrt{k} .
+s =1/\sqrt{k}
+\int \frac{4r}{(1 +kr^2)^2}dr =\frac{ -2}{k(1 +kr^2)} +C .
+k,
+\alpha, \beta,
+\gamma
+A =\frac{1}{k}(\alpha +\beta +\gamma -\pi) .
+(\mathbb P_k^2, \mathscr S_k)
+k =1/6375^2 km^{ -2} .
+\alpha, \beta,
+\gamma
+A =\frac{1}{k}(\alpha +\beta +\gamma -\pi) .
+k >0,
+\mathscr S_k
+T(z) =e^{i\theta} \frac{z -z_0}{1 +k\overline{z_0}z},
+\theta
+z_0
+\mathbb P_k^2 .
+\phi_k .
+k >0
+s =1/\sqrt{k} .
+(\mathbb P_k^2, \mathscr S_k) .
+0
+x,
+0 \lt x \le s
+d_k (0, x) =2s\arctan (x/s) .
+r \lt \pi /(2\sqrt{k})
+C =2\pi s\sin (r/s) .
+r \lt \pi /(2\sqrt{k})
+A =4\pi s^2 \sin^2 (\frac{r}{2s}) .
+k \to 0^+ .
+d_k (0, x)
+0
+x,
+0 \lt x \le s,
+2x
+k \to 0^+
+r
+2\pi r
+k \to 0^+ .
+\pi r^2
+k \to 0^+ .
+(\mathbb P_k^2, \mathscr S_k) .
+(\mathbb P_k^2, \mathscr S_k)
+a, b, c
+\alpha, \beta, \gamma
+(\mathbb P_k^2, \mathscr S_k) \colon
+\cos (\sqrt{k}c) =\cos (\sqrt{k}a)\cos (\sqrt{k}b) +\sin (\sqrt{k}a)\sin (\sqrt{k}b)\cos (\gamma) .
+(\mathbb P_k^2, \mathscr S_k) \colon
+\frac{\sin (\sqrt{k}a)}{\sin (\alpha)} =\frac{\sin (\sqrt{k}b)}{\sin (\beta)} =\frac{\sin (\sqrt{k}c)}{\sin (\gamma)} .
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+(\mathbb C^+, \mscrM),
+\mscrM
+\mscrM
+\mathbb C^+,
+T(z) =z,
+T(z) =(az +b)/(cz +d),
+a =d =1,
+b =c =0),
+\mscrM
+\mscrM
+T
+\mscrM
+T
+T(z) =1/z .
+p =2
+q =3
+d(p, q) =| p -q| =1 .
+T(p) =1/2
+T(q) =1/3
+(\mathbb C^+, \mscrM) .
+(\mathbb C^+, \mscrM)
+i
+p
+q
+\mathbb C^+ .
+G
+p
+q .
+(\mathbb C^+, G) .
+G
+(\mathbb C^+, G)
+p
+q .
+(\mathbb C^+, G)
+pq .
+z \not= p, q
+\mathbb C^+,
+\mathbb C^+
+z .
+(\mathbb C^+, G)
+G
+p
+q .
+(\mathbb C^+, \mscrM) ?
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+R
+\mathbb D
+R
+(\mathbb D, \mscrH),
+A(R),
+A(R) =\iint_R \frac{4r}{(1 -r^2)^2}drd\theta .
+(\mathbb D, \mathbcal H)
+a .
+x
+0 \lt x \lt 1
+a =\ln (\frac{1 +x}{1 -x}) .
+x,
+x =\frac{e^a -1}{e^a +1} .
+0 \le \theta \le 2\pi
+0 \le r \le x .
+u
+u =1 -r^2 \colon
+\~ & \lt mi/>\int_0^{2\pi} \int_0^x \frac{4r}{(1 -r^2)^2}drd\theta \\ \~ & \lt mi/> =(\int_0^{2\pi} d\theta)(\int_1^{1 -x^2} \frac{ -2}{u^2}du) \\ \~ & \lt mi/> =2\pi [\frac{2}{u}|_1^{1 -x^2}] \\ \~ & \lt mi/> =2\pi [\frac{2}{1 -x^2} -2] \\ \~ & \lt mi/> =4\pi \frac{x^2}{1 -x^2} .
+x
+a
+4\pi \frac{(e^a -1)^2}{(e^a +1)^2} \cdot \frac{(e^a +1)^2}{(e^a +1)^2 -(e^a -1)^2} & \lt mi/> =4\pi \frac{(e^a -1)^2}{4e^a} \\ \~ & \lt mi/> =4\pi (\frac{e^a -1}{2e^{a/2}})^2 \\ \~ & \lt mi/> =4\pi (\frac{e^{a/2} -e^{ -a/2}}{2})^2 .
+a/2 .
+\sinh (x),
+\cosh (x),
+\sinh (x) =\frac{e^x -e^{ -x}}{2}\~and\~\cosh (x) =\frac{e^x +e^{ -x}}{2} .
+r
+4\pi \sinh^2 (r/2) .
+\frac{\mathbf 2}{\mathbf 3}
+\frac{2}{3}
+\alpha
+\pi -\alpha .
+\frac{2}{3}
+\alpha
+\pi -\alpha .
+(\mathbb D, \mscrH) .
+\pi .
+\pi
+(\mathbb D, \mscrH) .
+(\mathbb D, \mscrH)
+\pi,
+(\mathbb D, \mscrH)
+\alpha, \beta,
+\gamma
+A =\pi -(\alpha +\beta +\gamma) .
+\mathbb D
+\alpha,
+\beta,
+\gamma
+a,
+b,
+c,
+\cosh (c) =\cosh (a)\cosh (b) -\sinh (a)\sinh (b)\cos (\gamma) .
+\cosh (c) =\frac{\cos (\alpha)\cos (\beta) +\cos (\gamma)}{\sin (\alpha)\sin (\beta)} .
+\frac{\sinh (a)}{\sin (\alpha)} =\frac{\sinh (b)}{\sin (\beta)} =\frac{\sinh (c)}{\sin (\gamma)} .
+a
+b,
+c,
+\cosh (c) =\cosh (a)\cosh (b) .
+z,
+c
+w
+z
+L
+w
+zw .
+\Delta zwu
+\frac{1}{3}
+\gamma =0
+\beta =\pi /2
+z
+w
+\mathbb D,
+L
+w
+zw .
+u
+L .
+\alpha = \angle wzu
+c =d_H (z, w) .
+\cosh (c) =\frac{1}{\sin (\alpha)} .
+(\mathbb D, \mathbcal H)
+\mathbb D .
+p
+q,
+q
+p
+L,
+\lt mi/>\circ,
+\Delta zuw
+130\circ,
+\Delta pqr
+22\circ!
+(\mathbb D, \mscrH) .
+\pi .
+2\pi
+\pi,
+p
+a
+90\circ
+a
+a
+a
+q
+q
+p,
+(\mathbb D, \mscrH)
+p
+q
+p
+q
+a .
+0 \lt a \lt 1
+L_1
+a
+L_2
+-a
+z
+L_1
+C_1
+z, 1
+-1 .
+C_2
+\overline{z}, 1
+-1 .
+z
+a
+C_1
+C_2
+\mathbb D \colon
+(a, b, c)
+a,
+b,
+c .
+(a, b, c)
+(\mathbb D, \mscrH)
+a, b,
+c .
+a, b,
+c
+2\ln (\varphi)
+\varphi
+(1 +\sqrt{5})/2 .
+i .
+L_1
+i
+C_1
+-1 +i .
+L_2
+i
+C_2
+1 +i .
+C
+-1 +2i,
+C
+\mathbb D
+L_1
+C_1,
+C,
+L_1
+L_2 .
+c
+c
+L_1
+L_2
+p
+q,
+q
+C
+C_2 .
+q =\frac{1}{5} +\frac{2}{5}i .
+d_H (0, q) & \lt mi/> =\ln (\frac{1 +| q|}{1 -| q|}) \\ \~ & \lt mi/> =\ln (\frac{1 +\frac{1}{\sqrt{5}}}{1 -\frac{1}{\sqrt{5}}}) \\ \~ & \lt mi/> =\ln (\frac{\sqrt{5} +1}{\sqrt{5} -1}) \\ \~ & \lt mi/> =\ln (\frac{(\sqrt{5} +1)^2}{(\sqrt{5} -1)(\sqrt{5} +1)}) \\ \~ & \lt mi/> =\ln (\frac{(\sqrt{5} +1)^2}{4}) \\ \~ & \lt mi/> =\ln (\varphi^2) \\ \~ & \lt mi/> =2\ln (\varphi) .
+\sinh (x) =(e^x -e^{ -x})/2
+\cosh (x) =(e^x +e^{ -x})/2
+\sinh (0) =0
+\cosh (0) =1 .
+\frac{d}{dx}[\sinh (x)] =\cosh (x)
+\frac{d}{dx}[\cosh (x)] =\sinh (x) .
+\cosh^2 (x) -\sinh^2 (x) =1 .
+\cosh (x)
+\sinh (x)
+\cosh (x) & \lt mi/> =1 +\frac{x^2}{2} +\frac{x^4}{4!} +\cdots \\ \sinh (x) & \lt mi/> =x +\frac{x^3}{3!} +\frac{x^5}{5!} +\cdots .
+r
+C =2\pi \sinh (r) .
+\lim_{r \to 0^+} \frac{4\pi \sinh^2 (r/2)}{\pi r^2} =1 .
+r,
+\lim_{r \to 0^+} \frac{2\pi \sinh (r)}{2\pi r} =1 .
+r,
+12\circ,
+32\circ,
+17\circ .
+\mathbb D
+\frac{1}{2},
+\frac{1}{2} +\frac{1}{2}i .
+90\circ,
+z,
+n
+n
+n
+\alpha_1, \alpha_2, \cdots, \alpha_n .
+n
+45\circ
+r
+0 \lt r \lt 1 .
+v_k =re^{i\frac{\pi}{4}k}
+k =0, 1, \cdots, 7
+v_0
+r .
+r .
+r
+45\circ .
+v_0
+v_1
+z_0 =\frac{1 +r^2}{2r} +\frac{1 +r^2}{2r}\tan (\pi /8)i .
+b =\frac{1 +r^2}{2r}
+v_0 v_0^\ast
+\angle v_0 z_0 b =\pi /8
+\pi /4 .
+\Delta v_0 bz_0
+\pi /4
+\tan (\pi /8) =\frac{| b -v_0 |}{| z_0 -b|} =\frac{\frac{1 +r^2}{2r} -r}{\frac{1 +r^2}{2r} \cdot \tan (\pi /8)} .
+r
+r =(1/2)^{(1/4)} .
+45\circ .
+n
+r, re^{\frac{1}{n}2\pi i},
+re^{\frac{2}{n}2\pi i},
+\cdots, re^{\frac{n -1}{n}2\pi i}
+0 \lt r \lt 1 .
+x
+y,
+\cosh (\ln (x/y)) =\frac{x^2 +y^2}{2xy}\~and\~\sinh (\ln (x/y)) =\frac{x^2 -y^2}{2xy} .
+p
+q
+\mathbb D,
+c =d_H (p, q) .
+\cosh (c) =\frac{(1 +| p|^2)(1 +| q|^2) -4Re(p\overline{q})}{(1 -| p|^2)(1 -| q|^2)} .
+p =r
+0 \lt r \lt 1
+q =ke^{i\gamma}
+0 \lt k \lt 1
+\alpha, \beta, \gamma
+a, b,
+c
+\cosh (a) =\frac{1 +r^2}{1 -r^2}; \sinh (a) =\frac{2r}{1 -r^2};
+\cosh (b) =\frac{1 +k^2}{1 -k^2}; \sinh (b) =\frac{2k}{1 -k^2} .
+\cosh (c) =\cosh (a)\cosh (b) -\sinh (a)\sinh (b)\cos (\gamma) .
+\mathbb D .
+q =ke^{i\gamma}
+0 \lt k \lt 1
+p =r
+0 \lt r \lt 1 .
+c
+z_0
+R,
+m_q
+qq^\ast
+m_p
+pp^\ast,
+\Delta z_0 m_q q
+\Delta pm_p z_0
+\alpha
+\beta
+\angle m_q z_0 q
+\angle pz_0 m_p,
+\sin (\alpha) =| m_q -q|/R
+\sin (\beta) =| m_p -p|/R .
+| m_q -q| =\frac{1/k -k}{2} =\frac{1 -k^2}{2k}
+| m_p -p| =\frac{1 -r^2}{2r} .
+\frac{\sinh (a)}{\sin (\alpha)} =\frac{\sinh (b)}{\sin (\beta)} .
+\mathbb D,
+\frac{\sinh (a)}{\sin (\alpha)} =\frac{\sinh (b)}{\sin (\beta)} =\frac{\sinh (c)}{\sin (\gamma)} .
+p
+90\circ
+x
+x =(e^a -1)/(e^a +1) .
+xi .
+p
+q
+a
+p
+\cosh (d_H (0, p)) =\cosh^2 (a) .
+\sqrt{2}a .
+a ?
+\cosh^2 (a)
+\cosh (\sqrt{2}a) ?
+\theta = \angle x0p .
+\tan (\theta) =\frac{1}{\cosh (a)} .
+\theta
+a \to 0^+ ?
+\angle x0p = \angle 0px .
+\cosh (d_H (p, q)) =\cosh^4 (a)[1 -\sin (2\theta)] +\sin (2\theta) .
+\alpha = \angle qp0,
+b =d_H (0, p)
+c =d_H (p, q) .
+\sin (\alpha) =\frac{\sinh (b)}{\sinh (c)}\cos (2\theta) .
+q
+p
+\frac{3\pi}{2} -2(\theta +\alpha) .
+(\mathbb D, \mscrH) .
+q
+p ?
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+(x, y)
+(r, \theta)
+x +yi & \lt mi/> =r\cos (\theta) +r\sin (\theta)i \\ \~ & \lt mi/> =r(\cos (\theta) +i\sin (\theta)) .
+\theta,
+e^{i\theta} =\cos (\theta) +i\sin (\theta) .
+e^{i\pi /2} =\cos (\pi /2) +i\sin (\pi /2) =0 +i \cdot 1 =i .
+e^{i0} =\cos (0) +i\sin (0) =1,
+e^{i\pi} = -1,
+e^{i\pi} +1 =0 .
+z =x +yi
+(x, y)
+(r, \theta)
+z =re^{i\theta}
+z .
+| r|
+z,
+\theta
+z
+arg(z
+z =2e^{i\pi /4}, w =3e^{i\pi /2}, v = -2e^{i\pi /6}, u =3e^{ -i\pi /3} .
+z = -3 +4i
+r =\sqrt{9 +16} =5,
+\tan (\alpha) =4/3,
+\theta =\pi -\tan^{ -1} (4/3) \approx 2.21
+-3 +4i =5e^{i(\pi -\tan^{ -1} (4/3))} \approx 5e^{2.21i} .
+re^{i\theta} \cdot se^{i\beta} =(rs)e^{i(\theta +\beta)} .
+arg(zw) =arg(z) +arg(w),
+2\pi .
+arg(vw) =arg(v) +arg(w) +2\pi k
+k .
+\mathbit r \ge \mathbf 0
+z
+z =re^{i\theta},
+r
+r \lt 0,
+re^{i\theta} & \lt mi/> = -| r|e^{i\theta} \\ \~ & \lt mi/> =(e^{i\pi}) \cdot | r|e^{i\theta} since -1 =e^{i\pi} \\ \~ & \lt mi/> =| r|e^{i(\theta +\pi)}, byTheorem\space 2.2.3 .
+\pi
+z =re^{i\theta}
+r
+3 +i,
+-1 -2i,
+3 -4i,
+7, 002, 001,
+-4i .
+z =2e^{i\pi /3},
+w = -2e^{i\pi /4},
+u =4e^{i5\pi /3},
+z \cdot u .
+e, i, \pi, 1,
+z =re^{i\theta},
+\overline{z} =re^{ -i\theta} .
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+C
+| z -z_0 | =r,
+z_0
+z_0 .
+\mathbb C
+z_0
+\infty .
+\mathbb C
+\infty
+z_0 .
+\infty .
+\mathbb C^+ .
+C
+z_0
+\infty .
+\mathbb C^+
+C
+z_0
+r,
+i_C \colon \mathbb C^+ \to \mathbb C^+,
+i_C (z) =\{\frac{r^2}{(\overline{z -z_0})} +z_0 & \~if\~z \not= z_0, \infty;\~ \\ \infty & \~if\~z =z_0;\~ \\ z_0 & \~if\~z =\infty \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/> .
+z_0
+\infty
+\mathbb C^+
+\infty
+\infty .
+\infty
+\mathbb C^+ ?
+\infty
+\{z_n \}
+| z_n | \to \infty
+n \to \infty,
+\lim_{n \to \infty} z_n =\infty .
+\infty
+\infty .
+\mathbb C^+
+\infty .
+\mathbb C^+,
+T_b
+\mathbb C^+
+\infty
+R_\theta
+\mathbb C^+
+\infty
+T(z) =kz
+\mathbb C^+
+\infty
+r_L (z)
+\mathbb C^+
+L
+L
+\infty
+\infty
+\mathbb C^+
+T(z) =\frac{i +1}{z +2i},
+T
+\infty,
+\infty .
+\infty
+T( -2i) =\infty .
+\infty,
+1, 2, 3, \ldots .
+T(1), T(2),
+T(3), \ldots
+Im(z) =2 .
+T(\infty) =0 .
+T(z) =\frac{iz +(3i +1)}{2iz +1},
+T(i/2) =\infty
+T(\infty) =1/2 .
+\mathbb C^+
+\mathbb C^+ .
+\infty,
+z
+C,
+z =z_0
+\infty .
+\mathbb C^+
+\mathbb C^+
+p
+q
+\infty
+\infty
+\infty .
+\mathbb S^2,
+\mathbb S^2 =\{(a, b, c) \in \mathbb R^3 |a^2 +b^2 +c^2 =1\} .
+N =(0, 0, 1)
+P \not= N
+\phi (P)
+\vec{NP}
+xy
+P
+\phi
+N =(0, 0, 1)
+P =(a, b, c)
+\vec{NP} = \langle a, b, c -1 \rangle,
+\vec{r}(t) = \langle 0, 0, 1 \rangle +t \langle a, b, c -1 \rangle .
+xy
+z
+t =\frac{1}{1 -c},
+(\frac{a}{1 -c}, \frac{b}{1 -c}, 0) .
+(a, b, c)
+c \not= 1,
+\phi \colon \mathbb S^2 \to \mathbb C^+
+\phi ((a, b, c)) =\frac{a}{1 -c} +\frac{b}{1 -c}i .
+\phi
+\infty,
+\mathbb S^2
+N
+\mathbb C
+\infty .
+\infty
+\infty
+\mathbb C^+,
+\infty,
+\infty .
+\theta,
+\mathbb C^+
+\theta .
+\mathbb C^+
+\infty
+\infty
+p
+\infty,
+\infty
+p .
+\mathbb C^+ .
+T(\infty)
+z_0
+T(z_0) =\infty .
+T(z) =(3 -z)/(2z +i) .
+T(z) =(z +1)/e^{i\pi /4} .
+T(z) =(az +b)/(cz +d) .
+D
+p
+q .
+p
+q
+D .
+\phi^{ -1} \colon \mathbb C^+ \to \mathbb S^2 .
+z =x +yi \not= \infty,
+\phi^{ -1} (x, y) =(\frac{2x}{x^2 +y^2 +1}, \frac{2y}{x^2 +y^2 +1}, \frac{x^2 +y^2 -1}{x^2 +y^2 +1}) .
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+(\mathbb D, \mscrH)
+(\mathbb P^2, \mathscr S),
+3\pi ?
+(\frac{\pi}{2} +\frac{\pi}{2} +\frac{\pi}{2}) -\pi =\frac{\pi}{2} .
+(\mathbb P^2, \mathscr S)
+3\pi,
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+xy
+\lt mi/>\circ .
+a,
+b,
+c
+a^2 +b^2 =c^2 .
+\lt mi/>\circ,
+\lt mi/>\circ .
+\lt mi/>\circ,
+\lt mi/>\circ
+kA =2\pi \chi .
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C
+\mathbb S^1
+i_C (z)
+C
+\infty
+\infty
+\mathbb C^+
+(\mathbb C, \mathscr T)
+(\mathbb C, \mscrE)
+(\mathbb C^+, \mscrM)
+(\mathbb D, \mscrH)
+\mathbb D
+\mathbb S_\infty^1
+\infty
+(\mathbb D, \mscrH)
+\mathbb P^2
+(\mathbb P^2, \mathscr S)
+(\mathbb P_k^2, \mathscr S_k)
+k
+(\mathbb D_k, \mscrH_k)
+k
+(X_k, G_k)
+k
+\mathbb R^n
+n
+X_1 \#X_2
+\mathbb T^2
+H_g
+g
+C_g
+g
+\mathbb K^2
+\chi (S)
+X/G
+(X, G)
+\mathbb H^3
+\mathbb S^3
+\mathbb T^3
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+C
+r
+z_0 .
+\mathbit C
+z \not= z_0
+z^\ast
+z_0
+z .
+z^\ast
+| z -z_0 | \cdot | z^\ast -z_0 | =r^2 .
+z^\ast
+z
+C .
+z_0
+\mathbb C -\{z_0 \}
+z_0 .
+C
+i_C (z) =z^\ast .
+z_0 .
+i_C
+C,
+z
+i_C (z)
+\mathbb C,
+\mathbb S^1,
+z_0 =0
+r =1 .
+z^\ast
+z \not= 0
+\mathbb S^1
+| z -z_0 | \cdot | z^\ast -z_0 | =r^2
+| z| \cdot | z^\ast | =1 .
+z^\ast
+z
+z^\ast =kz
+k .
+z^\ast
+| z| \cdot | kz| =1,
+k =1/| z|^2 .
+z^\ast =(1/| z|^2)z .
+| z|^2 =z \cdot \overline{z},
+\mathbb S^1
+i_{\mathbb S^1} (z) =1/\overline{z} .
+\mathbit C
+\mathbit z_\mathbf 0
+\mathbit r
+C
+z_0
+r
+i_C (z) & \lt mi/> =\frac{r^2}{(\overline{z -z_0})} +z_0 .
+C
+z_0 .
+C
+cz\overline{z} +\alpha z +\overline{\alpha}\overline{z} +d =0
+z =x +yi
+\alpha
+c, d
+c =0
+c \not= 0
+| \alpha |^2 >cd
+\alpha =a +bi
+z =x +yi,
+cz\overline{z} +\alpha z +\overline{\alpha}\overline{z} +d =0
+c(x^2 +y^2) +[ax -by +(ay +bx)i] +[ax -by -(ay +bx)i] +d =0
+c(x^2 +y^2) +2(ax -by) +d =0 .
+c =0
+c \not= 0
+a^2 +b^2 >cd .
+c \not= 0,
+c(x^2 +y^2) +2ax -2by +d & \lt mi/> =0 \\ x^2 +\frac{2a}{c}x +y^2 -\frac{2b}{c}y & \lt mi/> = -\frac{d}{c} \\ x^2 +\frac{2a}{c}x +(\frac{a}{c})^2 +y^2 -\frac{2b}{c}y +(\frac{b}{c})^2 & \lt mi/> = -\frac{d}{c} +(\frac{a}{c})^2 +(\frac{b}{c})^2 \\ (x +\frac{a}{c})^2 +(y -\frac{b}{c})^2 & \lt mi/> =\frac{a^2 +b^2 -cd}{c^2}
+a^2 +b^2 >cd .
+c, d \in \mathbb R,
+\alpha \in \mathbb C,
+c \not= 0,
+cz\overline{z} +\alpha z +\overline{\alpha}\overline{z} +d =0
+z_0
+r,
+z_0 =( -\frac{Re(\alpha)}{c}, \frac{Im(\alpha)}{c})andr =\sqrt{\frac{| \alpha |^2 -cd}{c^2}},
+| \alpha |^2 >cd .
+c =0,
+C,
+\mathbb C .
+\mathbb C .
+C
+C
+C
+r
+o,
+p
+C .
+s =| p -o| .
+p
+C
+m
+n,
+| p -m| \cdot | p -n| =s^2 -r^2 .
+s^2 -r^2
+p
+C .
+C
+r
+p
+s
+C
+s^2 -r^2
+p .
+C
+\mathbb C
+z_0,
+z \not= z_0
+C .
+z
+C
+z^\ast,
+z
+C .
+C
+C
+i_C
+C .
+p
+q
+D,
+i_C (p)
+i_C (q)
+i_C (D) .
+p, q
+\mathbb C,
+k >0
+D
+z
+\mathbb C
+| z -p| =k| z -q| .
+D
+k
+\mathbit p
+\mathbit q
+p
+q
+p
+q,
+C
+z_0
+r .
+i_C (z) =\frac{r^2}{(\overline{z -z_0})} +z_0 .
+z
+z
+z
+C
+z_0
+z .
+z_0
+z .
+z .
+t
+C .
+z_0 t .
+t .
+z^\ast
+\vec{z_o z} .
+z
+z
+z
+z
+z
+C
+z_0
+z .
+z_0 z .
+t
+z_0 z
+t .
+z^\ast
+z_0 z .
+T_1
+| z| =r_1,
+T_2
+| z| =r_2,
+r_1, r_2 >0 .
+T_2 \circ T_1
+y =mx +b
+b \not= 0)
+( -m/2b, 1/2b)
+\sqrt{(m^2 +1)/4b^2} .
+L
+y =3x +4
+L,
+L
+(x -a)^2 +(y -b)^2 =r^2
+(x -\frac{a}{d})^2 +(y -\frac{b}{d})^2 =(\frac{r}{d})^2
+d =a^2 +b^2 -r^2,
+d \not= 0 .
+C
+(x -1)^2 +y^2 =4
+C,
+C
+C
+C
+i_{\mathbb S^1} (C) .
+C
+D
+C
+D
+D
+z^\ast
+z
+C
+| z -z_0 | =r
+C'
+| z -z_0 | =r' .
+k
+S(z) =k(z -z_0) +z_0
+i_C =S \circ i_{C'} .
+p
+C .
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb I^2 =\{(x, y) \in \mathbb R^2 |0 \le x \le 1, 0 \le y \le 1\}
+C =\{(x, y, z) \in \mathbb R^3 |x^2 +y^2 =1, 0 \le z \le 1\}
+p \colon \mathbb I^2 \to Cbyp((x, y)) =(\cos (2\pi x), \sin (2\pi x), y)
+(0, y)
+(1, y)
+\mathbb I^2
+p
+(1, 0, y) .
+p
+\mathbb I^2,
+\mathbb I^2
+\mathbb I^2
+\mathbit S
+R
+S \times S .
+R
+(a, b)
+a
+b
+S .
+(a, b)
+R,
+aRb .
+\sim
+R .
+a \sim b
+(a, b)
+\sim,
+S \times S .
+A
+\sim
+x \sim x
+x \in A
+x \sim y
+y \sim x
+x \sim y
+y \sim z
+x \sim z .
+a \in A,
+\mathbit a
+[a],
+A
+a
+\sim .
+[a] =\{x \in A|x \sim a\} .
+z \sim w
+\mathbb C
+(z) -Re(w)
+(z) =Im(w) .
+( -1.6 +4i) \sim (2.4 +4i)
+\sim
+z =a +bi,
+z \sim z
+a -a =0
+b =b .
+z \sim w .
+(z) -Re(w) =k
+k
+(z) =Im(w) .
+(w) -Re(z) = -k
+(w) =Im(z) .
+w \sim z .
+z \sim w
+w \sim v .
+z \sim v .
+z \sim w,
+(z) -Re(w) =k
+k,
+w \sim v,
+(w) -Re(v) =l
+l .
+k +l & \lt mi/> =[Re(z) -Re(w)] +[Re(w) -Re(v)] \\ \~ & \lt mi/> =Re(z) -Re(v) .
+(z) -Re(v)
+(z) =
+(w) =
+(v) .
+z \sim v .
+z =a +bi
+w =c +bi
+a -c
+c =a +n
+n,
+w =z +n
+[z] =\{z +n|n \in \mathbb Z \} .
+A
+A
+A .
+A
+A
+A
+\sim
+A,
+a
+b
+A .
+[a]
+[b]
+A,
+\sim
+A,
+A
+\sim
+A/_\sim =\{[a]|a \in A\} .
+\mathbb C,
+\mathbb D,
+\mathbb S^2 .
+(X, G) .
+G
+\sim_G
+X
+x, y \in X,
+x\sim_G yif\space and\space only\space ifT(x) =yfor\space someT \in G .
+x \in X,
+x\sim_G x
+G
+x\sim_G y
+T(x) =y
+T
+G .
+T^{ -1}
+G
+T^{ -1} (y) =x .
+y\sim_G x,
+\sim_G
+G
+G .
+(X, G)
+X/G
+\sim_G .
+x
+X,
+x .
+x
+X
+x
+G \colon
+[x] =\{y \in X|T(x) =yfor\space someT \in G\} .
+x
+X
+x
+(X, G) .
+G
+X
+x \in X,
+x
+X .
+X/G
+X/G
+G
+G
+X
+\mathbit X
+G
+X/G
+X
+X
+T_1 (z) =z +1
+\mathbb C .
+\mathbb C
+\mathbb C
+T_1
+T_1^{ -1}
+T_1
+T_1^{ -1}
+z \colon
+z
+T_1^{ -1}
+T_1 .
+z
+T_n (z) =z +n
+n .
+\langle T_1 \rangle
+T_1,
+\langle T_1 \rangle =\{T_n (z) =z +n|n \in \mathbb Z \} .
+p
+[p] =\{p +n|n \in \mathbb Z \} .
+\mathbb C / \langle T_1 \rangle
+z
+0 \le Re(z) \le 1,
+\mathbb C
+p \colon \mathbb C \to \mathbb C / \langle T_1 \rangle
+p(z) =[z] .
+R_{\frac{\pi}{2}}
+\mathbb C
+\pi /2
+\mathbb C
+R_{\frac{\pi}{2}}
+R_{\frac{\pi}{2}}^{ -1} .
+\pi /2,
+\pi,
+3\pi /2
+\langle R_{\frac{\pi}{2}} \rangle =\{1, R_{\frac{\pi}{2}}, R_\pi, R_{\frac{3\pi}{2}} \} .
+\{0\}
+\mathbb C
+1
+[1] =\{i, -1, -i, 1\} .
+M/G,
+M
+\mathbb C,
+\mathbb D,
+\mathbb S^2,
+G
+M
+M/G .
+\mathbit H_\mathbf 1
+\mathbb C
+a
+b
+\langle T_a, T_{bi} \rangle
+T_a (z) =z +a
+T_{bi} (z) =z +bi .
+z
+z
+z
+a
+b
+\Gamma = \langle T_a, T_{bi} \rangle
+T(z) =z +(ma +nbi)
+m
+n
+0, a, a +bi, bi .
+M
+M .
+G
+G
+G
+x
+X
+U_x
+G
+G
+M .
+G
+r
+\frac{2\pi r}{4},
+[u]
+[v]
+\mathbb C / \langle T_a, T_{bi} \rangle
+d([u], [v]) =\min \{| z -w||z \in [u], w \in [v]\} .
+[u]
+[v] .
+\mathbb C
+[u]
+[v] .
+z
+[u]
+w
+[v] .
+[u]
+[v] .
+[u]
+[v] .
+\mathbb C .
+\mathbb P^\mathbf 2
+\mathbb S^\mathbf 2
+T_a \colon \mathbb S^2 \to \mathbb S^2
+T_a (P) = -P .
+\mathbb S^2
+T_a^{ -1} =T_a,
+T_a
+\mathbb S^2 / \langle T_a \rangle
+\mathbit H_\mathbf 2
+\mathbb D^\mathbf 2
+\pi /4
+T_a
+a
+a
+m
+b
+a
+\mscrH
+\mscrH
+\mathbb D
+T_b, T_c,
+T_d
+\mathbb D
+\mathbb D,
+[u]
+[v]
+d_H ([u], [v]) =\min \{d_H (z, w)|z \in [u], w \in [v]\} .
+\mathbb D .
+H_2,
+\mathbb D
+H_2,
+H_g
+g \ge 2
+C_g
+g \ge 3
+\mathbb D
+\mathbb D .
+2\pi
+\mathbb D
+M/G
+M
+\mathbb C,
+\mathbb D,
+\mathbb S^2,
+G
+x
+M
+\mathbit x
+y
+M
+d(x, y) \le d(x, T(y))
+T
+G,
+d(x, y)
+M
+\mathbb C,
+\mathbb D,
+\mathbb S^2,
+x
+M,
+M/G,
+M
+y
+x
+x
+T(y)
+G .
+x
+M
+x .
+x .
+\mathbb C
+2 +i,
+1 +i
+i .
+T(z) =z +2i
+r(z) =\overline{z} +(1 +2i)
+y =1
+A
+T
+r .
+\Gamma
+T
+r,
+\mathbb C /\Gamma
+\mathbb C .
+a
+b
+a
+b
+x
+x'
+x,
+xx' .
+x .
+a
+b
+C_3
+\mathbb D
+\mathbb D .
+g
+H_g
+\mathbb D
+g \ge 2 .
+z
+Im(z) =1/2,
+z
+Im(z) =0
+z
+w .
+c
+a
+b
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb R^3
+(x, y, z),
+\mathbb R^3,
+\mathbit v
+\mathbb R^3 .
+\mathbb R^3
+\mathbb R^3 .
+\mathbit v =(x_1, y_1, z_1)
+\mathbit w =(x_2, y_2, z_2)
+| \mathbit v -\mathbit w | =\sqrt{(x_1 -x_2)^2 +(y_1 -y_2)^2 +(z_1 -z_2)^2} .
+\mathbb R^3
+\mathbb H^3
+\mathbb R^3 .
+\mathbb H^3 =\{(x, y, z) \in \mathbb R^3 |x^2 +y^2 +z^2 \lt 1\} .
+\mathbb S^2
+\mathbb H^3,
+\mathbb H^3 .
+S
+\mathbb R^3
+\mathbit v_\mathbf 0
+r,
+\mathbit v
+\mathbb R^3 .
+\mathbit v
+S
+\mathbit v^\ast
+\vec{\mathbit v_\mathbf 0 \mathbit v}
+| \mathbit v -\mathbit v_\mathbf 0 || \mathbit v^\ast -\mathbit v_\mathbf 0 | =r^2 .
+S
+S
+\mathbb S_\infty^2
+\mathbb H^3 .
+\mathbb H^3
+L
+\mathbb H^3 .
+\mathbb H^3
+\mathbb H^3
+P_1
+P_2
+\mathbb H^3,
+\mathbb H^3,
+\mathbb S^3
+\mathbb R^4 .
+\mathbb S^3 =\{(x, y, z, w) \in \mathbb R^4 |x^2 +y^2 +z^2 +w^2 =1\} .
+\mathbb S^3
+\mathbb S^3
+\mathbb S^3,
+\mathbb R^4
+a +b\mathbf i +c\mathbf j +d\mathbf k
+a, b, c, d
+\mathbf i, \mathbf j,
+\mathbf k
+\mathbf i^2 =\mathbf j^2 =\mathbf k^2 = -1
+\mathbf i \mathbf j \mathbf k = -1 .
+a
+q =a +b\mathbf i +c\mathbf j +d\mathbf k .
+q
+| q| =\sqrt{a^2 +b^2 +c^2 +d^2} .
+q
+| q| =1 .
+q,
+q^\ast,
+q^\ast =a -b\mathbf i -c\mathbf j -d\mathbf k .
+q \cdot q^\ast =| q|^2 .
+\mathbb S^3
+u
+v,
+T \colon \mathbb S^3 \to \mathbb S^3
+T(q) =uqv
+\mathbb S^3
+\mathbb R^4 .
+\mathbb R^3,
+\pi
+\mathbb S^3
+\pi
+\mathbb H^3
+\pi
+\mathbb H^3
+\mathbb H^3
+\mathbb S^3
+\mathbb T^3
+T_x, T_y, T_z
+\mathbb R^3
+x
+y
+z
+T_x (x, y, z) =(x +1, y, z),
+T_y (x, y, z) =(x, y +1, z)
+T_z (x, y, z) =(x, y, z +1) .
+\Gamma
+\mathbb R^3,
+T(x, y, z) =(x +a, y +b, z +c)
+a, b, c
+\mathbb R^3 /\Gamma
+\mathbb I^3 =\{(x, y, z)|0 \le x, y, z \le 1\},
+\Gamma
+\mathbb R^3 .
+\mathbb R^3
+\mathbb S^3 =\{(x, y, z, w)|x^2 +y^2 +z^2 +w^2 =1\} .
+\mathbb S^3
+\mathbb R^3
+a
+b
+\mathbb S^3
+p
+p
+p
+\mathbb R^3,
+\mathbb R^3,
+\mathbb S^3
+\mathbb S^3 .
+\mathbb S^3 .
+\mathbb S^3
+\mathbb R^3
+\infty,
+\mathbb S^2
+\hat{\mathbb R^3}
+\mathbb R^3
+q
+q =b\mathbf i +c\mathbf j +d\mathbf k .
+(x, y, z)
+\mathbb R^3
+q =x\mathbf i +y\mathbf j +z\mathbf k .
+N =(0, 0, 0, 1)
+\mathbb S^3 .
+P =(a, b, c, d)
+\mathbb S^3
+N,
+N
+P .
+\mathcal L (t) = \langle 0, 0, 0, 1 \rangle +t \langle a, b, c, d -1 \rangle .
+P
+(x, y, z, 0)
+\mathbb R^4 .
+1 +t(d -1) =0,
+t =\frac{1}{1 -d} .
+\phi \colon \mathbb S^3 \to \hat{\mathbb R^3}
+\phi ((a, b, c, d)) =\{\frac{a}{1 -d}\mathbf i +\frac{b}{1 -d}\mathbf j +\frac{c}{1 -d}\mathbf k & \~if\~d \not= 1;\~ \\ \infty & \~if\~d =1.\~ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+P =(a, b, c, d)
+-P =( -a, -b, -c, -d)
+\phi
+\mathbb R^3
+q =\phi (P)
+u =\phi ( -P)
+q \cdot u^\ast = -1 .
+q
+u
+\hat{\mathbb R^3}
+q \cdot u^\ast = -1 .
+\mathbb R^3
+2\pi /10
+\mathbb S^3
+\mathbb R^3,
+\mathbb S^3 .
+\mathbb S^3
+L(p, q)
+p >q
+\mathbb R^3
+(x, y, z)
+x^2 +y^2 +z^2 \le 1 .
+(z, t)
+z
+t
+| z|^2 +t^2 =1 .
+\mathbit L (\mathbit p, \mathbit q)
+(z, t)
+(e^{(2\pi q/p)i} z, -t) .
+(0, 1)
+(0, -1) .
+u
+u
+xy
+z
+2\pi q/p
+p -1
+L(p, q)
+p +2
+n,
+s,
+p
+v_0, v_1, \cdots, v_{p -1} .
+p =5 .
+v_i
+p
+v_i
+n
+v_i
+s,
+3p
+p
+N_i
+v_i, v_{i +1}, n .
+S_i
+v_i, v_{i +1},
+s .
+L(p, q)
+N_i
+S_{i +q}
+i +q
+p .
+L(5, 2),
+N_0
+S_2
+N_0
+S_2
+N_1
+S_3
+N_2
+S_4,
+N_3
+S_0
+N_4
+S_1 .
+180\circ
+\mathbb R^3 .
+T_1
+180\circ
+T_2
+T_2
+T_3
+180\circ
+\mathbb R^3
+\mathbb R^3
+\mathbb R^3
+90\circ
+180\circ
+\mathbb R^3 .
+120\circ,
+60\circ,
+\mathbf i \mathbf j =\mathbf k,
+\mathbf j \mathbf k =\mathbf i,
+\mathbf k \mathbf i =\mathbf j .
+\mathbf j \mathbf i = -\mathbf k,
+\mathbf k \mathbf j = -\mathbf i,
+\mathbf i \mathbf k = -\mathbf j .
+q =a +b\mathbf i +c\mathbf j +d\mathbf k
+q^\ast =a -b\mathbf i -c\mathbf j -d\mathbf k .
+q
+| q| =\sqrt{a^2 +b^2 +c^2 +d^2} .
+q \cdot q^\ast =| q|^2
+| uv| =| u| \cdot | v|
+T(q) =uqv
+u, q, v
+\mathbb S^3
+\mathbb S^3 .
+P =(a, b, c, d)
+-P =( -a, -b, -c, -d)
+\mathbb S^3 .
+\phi (P) \cdot \phi ( -P)^\ast = -1,
+\phi \colon \mathbb S^3 \to \hat{\mathbb R^3}
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+10^{ -30}
+\pi
+\rho,
+k
+H^2 =\frac{8\pi G}{3}\rho -\frac{k}{a^2} .
+G
+H
+k = -1, 0,
+1
+a
+a
+H
+H
+k =0
+\rho
+\rho_c =\frac{3H^2}{8\pi G} .
+1.7 \times 10^{ -29}
+\Omega
+\rho
+\rho_c .
+\Omega =\frac{\rho}{\rho_c} .
+\Omega \lt 1
+\Omega >1
+\Omega =1
+\Omega
+\Omega
+\Omega
+\Omega =1.0045 \pm .013 .
+\rho_M,
+\rho_\Lambda,
+H^2 =\frac{8\pi G}{3}(\rho_M +\rho_\Lambda) -\frac{k}{a^2}
+H^2
+1 =\frac{8\pi G}{3H^2}\rho_M +\frac{8\pi G}{3H^2}\rho_\Lambda -\frac{k}{(aH)^2} .
+\Omega_M =\frac{\rho_M}{\rho_c}, \Omega_\Lambda =\frac{\rho_\Lambda}{\rho_c}, \Omega_k =\frac{ -k}{(aH)^2} .
+1 =\Omega_M +\Omega_\Lambda +\Omega_k
+\Omega_k \approx 0,
+-0.0066 \lt \Omega_k \lt 0.0011,
+\Omega_\Lambda \approx .72
+\Omega_M \approx 0.28 .
+\Omega >1
+\Omega =1,
+\Omega \lt 1,
+0.25% .
+\Omega_k
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb R^3
+(\theta_1, \phi_1)
+(\theta_2, \phi_2),
+\alpha
+\beta .
+\beta \not= 0
+r_{inj},
+r_{obs}
+r_{inj} .
+a
+b
+c
+\mathbb R^3,
+a \lt b \lt c .
+a/2 .
+r_{obs},
+a/2
+b/2 .
+E,
+C_1,
+C_2
+36\circ .
+E,
+C_1
+C_2
+36\circ .
+r_{inj}
+24 \times 3.26 \times 10^9 \approx 78
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+xy
+ax +by +d =0 .
+z =x +yi .
+\beta =s +ti,
+\beta z +\overline{\beta z} & \lt mi/> =[(sx -ty) +(sy +tx)i] +[(sx -ty) -(sy +tx)i] \\ \~ & \lt mi/> =2sx -2ty .
+ax +by +d =0
+(equation\space of\space a\space line) & \alpha z +\overline{\alpha z} +d =0
+\alpha =\frac{1}{2}(a -bi)
+d
+\alpha
+d,
+\alpha z +\overline{\alpha z} +d =0
+\mathbb C .
+\mathbb C
+\mathbb C
+| z -\gamma | =| z -\beta |
+\gamma
+\beta
+\mathbb C,
+\gamma
+\beta
+z_0
+z^2 =z_0 .
+z
+z_0
+\sqrt{z_0} .
+z_0 =r_0 e^{i\theta_0}
+r_0 \ge 0,
+z =re^{i\theta}
+z^2 =z_0
+re^{i\theta} \cdot re^{i\theta} =r_0 e^{i\theta_0} .
+z
+r^2 =r_0
+2\theta =\theta_0
+2\pi
+r_0
+z_0
+\pm \sqrt{r_0}e^{i\theta_0 /2} .
+z^2 =i
+i =1e^{i\pi /2},
+\sqrt{i} = \pm e^{i\pi /4} .
+\sqrt{i} = \pm (\frac{\sqrt{2}}{2} +\frac{\sqrt{2}}{2}i) .
+\alpha z^2 +\beta z +\gamma =0
+\alpha,
+\beta,
+\gamma
+z =\frac{ -\beta \pm \sqrt{\beta^2 -4\alpha \gamma}}{2\alpha} .
+z^2 +2z +4 =0
+z =\frac{ -2 \pm \sqrt{ -12}}{2} = -1 \pm \sqrt{3}i
+\sqrt{ -1} =i .
+z^2 -(3 +3i)z =2 -3i .
+z
+z^2 -(3 +3i)z -(2 -3i) =0 .
+\alpha =1,
+\beta = -(3 +3i),
+\gamma = -(2 -3i),
+z & \lt mi/> =\frac{3 +3i \pm \sqrt{(3 +3i)^2 +4(2 -3i)}}{2} \\ z & \lt mi/> =\frac{3 +3i \pm \sqrt{8 +6i}}{2} .
+\sqrt{8 +6i} .
+x +yi =\sqrt{8 +6i}
+x
+y
+x +yi & \lt mi/> =\sqrt{8 +6i} \\ (x +yi)^2 & \lt mi/> =8 +6i \\ x^2 -y^2 +2xyi & \lt mi/> =8 +6i .
+(1) & x^2 -y^2 & \lt mi/> =8 \\ (2) & 2xy & \lt mi/> =6.
+x^2 +y^2 =| x +yi|^2 =| (x +yi)^2 | =| 8 +6i| =10,
+(3) & x^2 +y^2 & \lt mi/> =10.
+x^2 =9
+x = \pm 3 .
+x =3
+y =1;
+x = -3
+y = -1 .
+\sqrt{8 +6i} = \pm (3 +i) .
+\sqrt{8 +6i} .
+8 +6i =10e^{i\theta}
+\sqrt{8 +6i} = \pm \sqrt{10}e^{i\theta /2},
+\theta /2 .
+\tan (\theta /2)
+\tan (\theta /2) =\frac{\sin (\theta)}{1 +\cos (\theta)} .
+\sin (\theta) =3/5
+\cos (\theta) =4/5,
+\tan (\theta /2) =1/3 .
+re^{i\theta /2}
+k(3 +i)
+k .
+\sqrt{8 +6i}
+\sqrt{8 +6i} =k(3 +i)
+k .
+| \sqrt{8 +6i}| =\sqrt{10},
+| k(3 +i)| =\sqrt{10},
+k = \pm 1 .
+\sqrt{8 +6i} = \pm (3 +i) .
+z & \lt mi/> =\frac{3 +3i \pm \sqrt{8 +6i}}{2} \\ z & \lt mi/> =\frac{3 +3i \pm (3 +i)}{2} .
+z =3 +2i
+z =i .
+z =x +yi
+z_0 =h +ki,
+(equation\space of\space a\space circle) & | z -z_0 | =r
+z_0
+r >0 .
+| z -z_0 | & \lt mi/> =| (x -h) +(y -k)i| \\ \~ & \lt mi/> =\sqrt{(x -h)^2 +(y -k)^2} .
+| z -z_0 | =r
+(x -h)^2 +(y -k)^2 =r^2
+z_0
+r .
+| z -3 -2i| =3
+3 +2i .
+z
+(3, 2) .
+| 1/z| >2 .
+| z| \lt 1/2,
+1/2 .
+(z) \lt
+(z) .
+z =x +yi
+y \lt x .
+y =x,
+(z) =| z| .
+z =x +yi,
+y =\sqrt{y^2 +x^2} .
+0 =x^2,
+x =0 .
+y =\sqrt{y^2} =| y|
+(0, y)
+y \ge 0 .
+\mathbb C
+z =x +yi .
+ax +by +d =0
+\alpha z +\overline{\alpha z} +d =0
+\alpha =\frac{1}{2}(a -bi)
+d
+z_0
+r >0
+| z -z_0 | =r .
+y =mx +b .
+m \not= 0 .
+(m +i)z +(m -i)\overline{z} +2b =0 .
+z
+| z +i| =3 .
+| z +i| =| z -i| .
+(z) =1 .
+| z/10 +1 -i| \lt 5 .
+(z) >
+(z) .
+(z) =| z -2| .
+u, v, w
+z
+\mathbb C
+z^2 +iz -(2 +6i) =0.
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+(X_k, G_k),
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb U
+z
+z) >0,
+\mathscr U
+\mathbb U
+\mathbb U
+\mathbb C .
+C
+i
+C
+C
+i
+\infty .
+\infty
+-i;
+V(z) =\frac{ -iz +1}{z -i} .
+z
+\mathbb D,
+w
+\mathbb U,
+(\mathbb D, \mathbcal H)
+(\mathbb U, \mathbcal U)
+V
+\mathbb D
+\mathbb U,
+V^{ -1},
+w =V(z) =\frac{ -iz +1}{z -i}andz =V^{ -1} (w) =\frac{iw +1}{w +i} .
+V
+\mathbb S_\infty^1,
+w_1, w_2
+d_U (w_1, w_2),
+w_1
+w_2
+V
+z_1
+z_2,
+d_U (w_1, w_2) =d_H (z_1, z_2) =\ln ((z_1, z_2; u, v)),
+u
+v
+z_1
+z_2 .
+d_U (w_1, w_2) =\ln ((w_1, w_2; p, q)),
+p, q
+w_1
+w_2 .
+w_1
+w_2
+p .
+\mathbit r \mathbit i
+\mathbit s \mathbit i
+r >s >0
+ri
+si
+ri
+si
+0
+\infty .
+d_U (ri, si) & \lt mi/> =\ln ((ri, si; 0, \infty)) \\ \~ & \lt mi/> =\frac{ri -0}{ri -\infty} \cdot \frac{si -\infty}{si -0} \\ \~ & \lt mi/> =\ln (\frac{r}{s}) .
+w_1
+w_2
+\mathbb U,
+V^{ -1}
+w_1
+w_2
+\mathbb D .
+z_1 =V^{ -1} (w_1)
+z_2 =V^{ -1} (w_2) .
+S(z) =e^{i\theta} \frac{z -z_1}{1 -\overline{z_1}z}
+(\mathbb D, \mscrH)
+z_1
+\theta
+z_2
+z_2
+ki
+k =| S(z_2)| =| S(V^{ -1} (w_2))|
+0 \lt k \lt 1
+V
+0
+i
+ki
+\frac{1 +k}{1 -k}i .
+V \circ S \circ V^{ -1}
+w_1
+i
+w_2
+\frac{1 +k}{1 -k}i,
+d_U (w_1, w_2) =\ln (1 +k) -\ln (1 -k) .
+k
+w_1
+w_2
+ds =\frac{2| dz|}{1 -| z|^2} .
+z =V^{ -1} (w) =\frac{iw +1}{w +i}
+dw .
+ds & \lt mi/> =\frac{2| dz|}{1 -| z|^2} \\ (z =\frac{iw +1}{w +i}) & \~ & \lt mi/> =\frac{2| d(\frac{iw +1}{w +i})|}{1 -| \frac{iw +1}{w +i}|^2} \\ (chain\space rule) & \~ & \lt mi/> =\frac{2| i(w +i)dw -(iw +1)dw|}{| w +i|^2}/[1 -\frac{| iw +1|^2}{| w +i|^2}] \\ \~ & \lt mi/> =\frac{4| dw|}{| w +i|^2 -| iw +1|^2} \\ \~ & \lt mi/> =\frac{4| dw|}{(w +i)(\overline{w} -i) -(iw +1)( -i\overline{w} +1)} \\ \~ & \lt mi/> =\frac{4| dw|}{2i(\overline{w} -w)} \\ \~ & \lt mi/> =\frac{| dw|}{Im(w)} .
+\mathbit r (t)
+a \le t \le b
+(\mathbb U, \mathscr U),
+\mathcal L (\mathbit r),
+\mathcal L (\mathbit r) =\int_a^b \frac{| \mathbit r '(t)|}{Im(\mathbit r (t))}dt .
+\mathbit r (t) =t +ki
+a \le t \le b,
+\mathbit r '(t) =1
+\~Im(\mathbit r (t)) =k .
+\mathcal L (\mathbit r) =\int_a^b \frac{1}{k}dt =\frac{b -a}{k} .
+ds =\frac{dw}{Im(w)}
+(\mathbb U, \mathscr U)
+R
+A(R),
+A(R) =\iint_R \frac{1}{y^2}dxdy .
+\frac{\mathbf 2}{\mathbf 3}
+w \in \mathbb U
+\frac{2}{3}
+1w\infty
+w
+\alpha,
+w =e^{i(\pi -\alpha)}
+0 \lt \alpha \lt \pi .
+\frac{2}{3}
+A & \lt mi/> =\int_{\cos (\pi -\alpha)}^1 \int_{\sqrt{1 -x^2}}^\infty \frac{1}{y^2}dydx \\ \~ & \lt mi/> =\int_{\cos (\pi -\alpha)}^1 \frac{1}{\sqrt{1 -x^2}}dx .
+\cos (\theta) =x,
+\sqrt{1 -x^2} =\sin (\theta)
+-\sin (\theta)d\theta =dx,
+\~ & \lt mi/> =\int_{\pi -\alpha}^0 \frac{ -\sin (\theta)}{\sin (\theta)}d\theta \\ \~ & \lt mi/> =\pi -\alpha .
+\frac{2}{3}
+1w\infty
+w
+\frac{2}{3}
+\frac{2}{3}
+\alpha
+\pi -\alpha .
+\frac{2}{3}
+\infty
+V^{ -1}
+pqst
+(\mathbb D, \mscrH)
+C_1
+C_2,
+L_1
+L_2
+\lt mi/>\circ .
+i
+V
+\mathbb U ?
+pq
+st
+c
+pt
+C_1,
+d
+sq
+C_2 .
+c =e^x d
+x
+c -d .
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+X
+\mathbb R^3,
+\mathbb R^3
+\mathbb R^3
+H_g
+C_g,
+g,
+360\circ
+\lt mi/>\circ,
+\lt mi/>\circ .
+360\circ .
+\mathbit C_\mathbf 3
+C_3 =\mathbb P^2 \#\mathbb P^2 \#\mathbb P^2,
+a_1 a_1 a_2 a_2 a_3 a_3,
+120\circ .
+60\circ .
+\lt mi/>\circ .
+\lt mi/>\circ .
+60\circ
+C_3
+C_3
+C_3
+abcabc .
+\lt mi/>\circ
+\mathbb P^2 .
+\lt mi/>\circ,
+\lt mi/>\circ .
+H_0
+C_1
+H_1
+C_2
+H_g
+g \ge 2
+C_g
+g \ge 3
+\mathbb S^2 .
+\pi /2,
+\pi,
+H_g
+g \ge 2
+C_g
+g \ge 3
+n
+n \ge 6 .
+n
+n
+(n -2)\pi /n
+(n -2)\pi
+2\pi
+n \ge 6 .
+n
+(n -2)\pi
+2\pi
+n
+\pi
+n
+n
+c_i,
+d_i,
+e_i
+H_2
+90\circ
+(a, b, c)
+\mathbb D
+a, b,
+c .
+a_1, a_2, a_3, b_1, b_2,
+b_3
+k \not= 0)
+\mathbb P^2
+\mathbb D .
+k \not= 0 .
+C_3
+k = -8 .
+k \lt 0
+\mathbb C
+1/\sqrt{| k|} .
+C_3
+\pi
+k .
+k,
+k
+\chi
+kA =2\pi \chi .
+\chi
+\chi \lt 2
+\lt mi/>^2
+\lt mi/>^2 .
+H_3
+\lt mi/>^2 .
+C_3
+H_g
+g \ge 2
+g .
+n
+(\mathbb D, \mscrH)
+v_k =re^{i\frac{k}{n}2\pi}
+k =0, 1, \ldots, n -1
+n
+2\pi .
+r =\sqrt{\cos (2\pi /n)} .
+n =8 .
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\lt mi/>\circ .
+\lt mi/>^3
+\lt mi/>^3
+A
+B
+A
+B .
+A
+B
+A
+B .
+a
+b
+c
+A
+B .
+A
+B .
+\lt mi/>\circ .
+\lt mi/>\circ,
+\lt mi/>\circ .
+\lt mi/>\circ
+A,
+B,
+C,
+C
+C
+C
+\theta
+\theta
+S(\theta)
+\theta .
+C
+\Delta
+\theta
+\Delta,
+C,
+ABCC ?
+\theta >2\pi .
+S(\theta)
+\theta
+\pi
+S(\theta)
+\pi
+\pi
+S(\theta)
+a,
+a .
+H,
+a
+a
+\lt mi/>\circ,
+\lt mi/>\circ;
+\lt mi/>\circ .
+\lt mi/>\circ .
+\lt mi/>\circ
+\lt mi/>\circ,
+\lt mi/>\circ,
+P
+r >0,
+P
+r
+r
+P,
+C =2\pi r
+C >2\pi r
+C \lt 2\pi r ?
+C =2\pi r
+C >2\pi r
+C \lt 2\pi r ?
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+G
+A
+G
+G
+T \colon A \to A
+T(a) =a
+a \in A .
+T
+S
+G,
+T \circ S
+G .
+T
+G,
+T^{ -1}
+G .
+R, S,
+T
+A,
+(R \circ S) \circ T
+R \circ (S \circ T) .
+\mathscr T
+\mathbb C .
+b \in \mathbb C,
+T_b \colon \mathbb C \to \mathbb C
+T_b (z) =z +b .
+\mathscr T
+T_b,
+b \in \mathbb C .
+\mathscr T =\{T_b |b \in \mathbb C \} .
+\mathscr T
+S
+G
+S .
+(S, G)
+A
+S .
+S
+A
+B
+A \cong B,
+T
+G
+T(A) =B .
+(S, G)
+S,
+a \cong b
+a
+b
+S
+\{a\} \cong \{b\} .
+a \cong b
+(S, G)
+T \in G
+T(a) =b .
+H =\{R_0, R_{\pi /2}, R_\pi, R_{3\pi /2} \}
+\mathbb C
+\pi /2,
+\pi,
+3\pi /2
+H
+R_0 (z) =e^{i0} z =z,
+H
+\mathbb C .
+R_{3\pi /2} \circ R_\pi =R_{\pi /2} .
+H
+H .
+R_0^{ -1} =R_0,
+R_{\pi /2}^{ -1} =R_{3\pi /2},
+R_\pi^{ -1} =R_\pi,
+R_{3\pi /2}^{ -1} =R_{\pi /2} .
+H
+(\mathbb C, H) .
+C
+| z -i| =.5
+D
+| z| =.5 ?
+H
+C
+D ?
+C
+C
+\pi /2,
+\pi,
+3\pi /2
+z \not= 0
+z,
+e^{i\pi /2} z,
+e^{i\pi} z,
+e^{i3\pi /2} z .
+z =0 ?
+y =x,
+y =x +1 .
+\mathbb C
+r(z) =\overline{z} .
+r \circ r
+G =\{1, r\}
+\mathbb C,
+(\mathbb C, G) .
+3 +i
+3 -i
+-3 +i .
+| z -2i| =1
+| z +2i| =1
+| z -3i| =1 .
+\mathscr T
+(\mathbb C, \mathscr T) .
+H
+L .
+\mathscr D
+(S, G)
+A
+\mathscr D
+T
+G,
+T(A)
+\mathscr D .
+f
+\mathscr D
+f(B) =f(T(B))
+B
+\mathscr D
+T
+G .
+\mathscr D
+\mathbb C .
+f
+(\mathbb C, \mathscr T),
+\mathscr D
+A
+T(A),
+T
+\mathscr T .
+f
+\mathscr D
+A
+B
+\mathscr D
+\mathscr D
+\mathscr D
+\mathscr D
+(S, G)
+\mathscr D
+A
+(S, G),
+\mathscr A =\{T(A)|T \in G\}
+(\mathbb C, \mscrE),
+\mscrE
+T(z) =e^{i\theta} z +b,
+\theta
+b
+\mathbb C .
+\mscrE
+T(z) =az +b
+| a| =1 .
+\mscrE
+z_1
+z_2
+| z_1 -z_2 | .
+(\mathbb C, \mscrE),
+T
+\mscrE,
+z_1
+z_2
+T(z_1)
+T(z_2) \colon
+| T(z_1) -T(z_2)| & \lt mi/> =| (e^{i\theta} z_1 +b) -(e^{i\theta} z_2 +b)| \\ \~ & \lt mi/> =| e^{i\theta} (z_1 -z_2)| \\ \~ & \lt mi/> =| e^{i\theta} || z_1 -z_2 | \\ \~ & \lt mi/> =| z_1 -z_2 | & (since\~| e^{i\theta} | =1) .
+(\mathbb C, \mscrE) .
+(\mathbb C, \mscrE) .
+(S, G)
+S
+S .
+(\mathbb C, \mathscr T)
+\mathbb C
+\mathbb C .
+\mathbb C
+(\mathbb C, \mathscr T)
+p
+q
+\mathbb C .
+T
+\mathscr T
+T(p) =q .
+w =q -p,
+T_w
+\mathscr T .
+T_w (p) =p +w =p +(q -p) =q .
+T_w (p) =q
+p \cong q .
+p
+q
+\mathbb C
+(\mathbb C, \mathscr T)
+(\mathbb C, \mscrE)
+(S, G)
+d \colon S \times S \to \mathbb R
+(x, y)
+S
+d(x, y) \ge 0
+x, y \in S
+d(x, y) =0
+x =y .
+d(x, y) =d(y, x)
+x, y \in S .
+d(x, z) \le d(x, y) +d(y, z)
+x, y, z \in S .
+d(z, w) =| z -w| .
+d
+z, w, v
+\mathbb C,
+| z -w| \le | z -v| +| v -w| .
+H \cong L
+\mathscr A
+\mathbb C
+G
+\mathscr A .
+G =\{i_C |C \in \mathscr A \} .
+G
+\mathbb C^+ ?
+\mscrE
+\mathbb C
+G
+\mathbb C^+ .
+G =\{T(z) =kz|k \in \mathbb R, k >0\} .
+G
+\mathbb C^+ ?
+(\mathbb C, \mscrE) .
+(\mathbb C, \mscrE) .
+\mathscr D
+(S, G),
+\mathscr D
+\mathscr D
+D
+(\mathbb C, \mscrR)
+\mscrR
+\mscrR =\{R_\theta (z) =e^{i\theta} z|\theta \in \mathbb R \} .
+\mscrR
+\mathscr D =\{
+\mathbb C \}
+| z -(2 +i)| =4 .
+(\mathbb C, \mscrR)
+v(z_1, z_2) =z_1 -z_2
+(\mathbb C, \mathscr T)
+(\mathbb C, \mscrR) .
+(S, G) .
+d(x, y) =\{0 & if\~x =y; \\ 1 & if\~x \not= y \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/> .
+(\mathbb C, \mscrE)
+\mscrE
+\mathbb C .
+(\mathbb C, \mscrE) ?
+\mathbb Z =
+\{\ldots, -2, -1, 0, 1, 2, \ldots \} .
+n,
+T_n \colon \mathbb C \to \mathbb C
+T_n (z) =z +ni .
+G
+T_n
+n .
+G =\{T_n |n \in \mathbb Z \} .
+(\mathbb C, G)
+\mathscr D
+\mathscr D
+(\mathbb C, G) ?
+y =x +8 .
+\mathbb C
+i
+\mathbb C
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+z
+w \not= 0,
+\frac{z}{w},
+u
+z =w \cdot u .
+\frac{1}{i} = -i
+1 =i \cdot ( -i) .
+\frac{2 +i}{3 +2i} & \lt mi/> =\frac{2 +i}{3 +2i} \cdot \frac{3 -2i}{3 -2i} \\ \~ & \lt mi/> =\frac{(6 +2) +( -4 +3)i}{9 +4} \\ \~ & \lt mi/> =\frac{8 -i}{13} \\ \~ & \lt mi/> =\frac{8}{13} -\frac{1}{13}i .
+z/w
+z =re^{i\theta}
+w =se^{i\beta} \not= 0 .
+\frac{1}{w} =\frac{1}{s}e^{ -i\beta} .
+\frac{z}{w} & \lt mi/> =z \cdot \frac{1}{w} \\ \~ & \lt mi/> =re^{i\theta} \cdot \frac{1}{s}e^{ -i\beta} \\ \~ & \lt mi/> =\frac{r}{s}e^{i(\theta -\beta)} .
+arg(\frac{z}{w}) =arg(z) -arg(w)
+2\pi .
+\frac{1 +i}{ -3 +3i} =\frac{\sqrt{2}e^{i\pi /4}}{\sqrt{18}e^{i3\pi /4}} =\frac{1}{3}e^{ -i\pi /2} = -\frac{1}{3}i .
+L_1
+L_2
+\angle (L_1, L_2)
+L_1
+L_2
+L_1
+L_2 .
+L_1
+L_2
+2\pi .
+\angle (L_1, L_2) = - \angle (L_2, L_1) .
+\angle (L_1, L_2)
+z_0
+z_1
+L_1,
+z_2
+L_2 .
+\angle (L_1, L_2) & \lt mi/> =arg(\frac{z_2 -z_0}{z_1 -z_0}) \\ \~ & \lt mi/> =arg(z_2 -z_0) -arg(z_1 -z_0) .
+L_1
+L_2
+2 +2i .
+L_1
+y =x
+L_2
+y =3 -x/2
+\theta
+z_1 =3 +3i
+z_2 =4 +i .
+\angle (L_1, L_2) =arg(2 -i) -arg(1 +i) = -\tan^{ -1} (1/2) -\pi /4 \approx -71.6\circ .
+L_1
+L_2
+\lt mi/>\circ
+u, v,
+w
+\angle uvw
+\theta
+\vec{vu}
+\vec{vw} .
+\angle uvw =\theta =arg(\frac{w -v}{u -v}) .
+u =1
+v =0
+\mathbb C,
+z
+\mathbb C,
+\angle uvz =arg(z) .
+\frac{1}{x +yi}
+a +bi .
+\frac{1}{2i}, \frac{1}{1 +i}, \frac{4 +i}{1 -2i}, \frac{2}{3 +i} .
+| z/w| =| z|/| w|,
+\overline{z/w} =\overline{z}/\overline{w} .
+z =re^{i\theta}
+w =se^{i\alpha}
+u =z \cdot w .
+\Delta 01z
+\Delta 0wu
+\angle uvw
+u =2 +i,
+v =1 +2i,
+w = -1 +i .
+z
+a =1
+b = -1 .
+\angle bza =\pi /2 .
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\lt mi/>' .
+5 ' ' .
+\lt mi/>\circ .
+5'
+\lt mi/>\circ,
+\lt mi/>\circ,
+c^2 =a^2 +b^2
+c
+\lt mi/>\circ .
+\lt mi/>\circ .
+BD
+AC .
+\angle BAC = \angle ABD .
+\lt mi/>\circ .
+CD
+AB .
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+\mscrE,
+\mscrH
+(\mathbb D, \mscrH)
+\mathbb D
+\mathbb S_\infty^1 .
+\mathbb S_\infty^1
+\infty .
+\mathbb S_\infty^1
+\infty
+(\mathbb D, \mscrH),
+z_0
+L
+z_0,
+z_0
+L .
+L
+L .
+L
+M,
+M
+N,
+L
+N .
+\mathbb D
+\Delta pqr
+\mscrH
+\mscrH .
+p,
+p
+p
+p^\ast .
+\mscrH,
+p
+p^\ast
+p .
+p
+\mathbb D,
+p^\ast
+p
+\mathbit p
+C
+\mathbb D
+p
+p^\ast .
+p
+q .
+p
+q .
+p
+q
+\mathbb D,
+p
+q .
+C
+z_0
+p .
+L
+C
+p,
+L
+z_0 p .
+p
+\mathbb D,
+p^\ast
+p
+q
+\mathbb D .
+p,
+q,
+p^\ast .
+C .
+C
+C
+\mathbb D .
+p
+q .
+\mathbb D ?
+L
+C .
+C ?
+p
+q
+p
+q
+\mathbb D,
+q
+p
+p^\ast
+p
+p,
+p^\ast,
+q .
+o .
+oq .
+oq
+q .
+p
+p^\ast .
+o' .
+o'
+q .
+q
+p .
+z_0
+\mathbb C
+k >0
+k \lt 0
+(X_k, G_k)
+E
+G
+G
+r_{obs}
+2r_{obs},
+G
+G .
+G
+G
+G
+N
+N
+N(N -1)/2
+N(N -1)/2
+N
+\sqrt{10^2 +14^2} \approx 17.2,
+\mathbb C /\Gamma
+T
+d(p, T(p)) =d(q, T(q))
+p
+q
+\mathbb C
+\{p, T(p)\},
+T
+T
+T
+\{p, q\}
+T(p), T(q),
+d(p, q) =d(T(p), T(q)),
+N
+P =N(N -1)/2
+P
+\Delta_i
+(i +1)
+i
+\Delta_i \ge 0
+i,
+i
+P -1 .
+\Delta_i =0
+i
+\Delta_i =0
+\{p, q\}
+\{T(p), T(q)\}
+Z
+\Delta_i
+R =\frac{Z}{P -1}
+Z
+Z_\epsilon
+\Delta_i
+\epsilon,
+\epsilon
+\mathbb C
+T_1 (z) =z +i
+T_2 (z) =\overline{z} +1 +i .
+\mathbb C .
+a
+b
+\mathbb C .
+T_1
+T_2
+T_1^{ -1}
+T_2^{ -1} .
+T_1, T_2, T_1^{ -1},
+T_2^{ -1}
+\mathbb C
+\mathbb C .
+T_2 \circ T_1 =T_1^{ -1} \circ T_2 .
+T_1
+\mathbb C
+T_2
+T_a
+\mathbb D
+\mathbb D
+n
+H_g
+g \ge 2,
+4g
+k = -1 .
+r_{obs} ?
+(\mathbb D, \mscrH)
+r_{obs} ?
+A(O .U .)/A(F .D .)
+r_{obs}
+g .
+g =2 .
+r_{obs}
+r_{obs}
+g =4
+g =6 .
+C_g .

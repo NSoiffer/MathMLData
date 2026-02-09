@@ -1,0 +1,3916 @@
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+V =F^n
+F =\mathbb R
+\mathbb C,
+\overline{z}
+z .
+v = \begin{bmatrix} a_1 \\ \vdots \\ a_n \end{bmatrix}
+w = \begin{bmatrix} b_1 \\ \vdots \\ b_n \end{bmatrix}
+F^n,
+\langle v, w \rangle \colon =\sum_{i =1}^n a_i \overline{b_i} .
+v, w
+n \times 1
+\langle v, w \rangle \colon =\sum_{i =1}^n a_i \overline{b_i} =w^\ast v
+1 \times 1
+w^\ast v
+w^\ast
+1 \times n
+w .
+v, w
+w^\ast v .
+vw^\ast .
+w^\ast v = \langle v, w \rangle
+1 \times 1
+vw^\ast
+n \times n
+vw^\ast = \begin{bmatrix} a_1 \\ \vdots \\ a_n \end{bmatrix} \begin{bmatrix} \overline{b_1} & \cdots & \overline{b_n} \end{bmatrix} = \begin{bmatrix} a_1 \overline{b_1} & \cdots & a_1 \overline{b_n} \\ a_2 \overline{b_1} & \cdots & a_2 \overline{b_n} \\ \vdots & \vdots & \vdots \\ a_n \overline{b_1} & \cdots & a_n \overline{b_n} \end{bmatrix} .
+V =\mathbb C^n;
+V =\mathbb R^n
+W
+r -
+V
+\{w_1, \ldots, w_r \} .
+v
+W
+proj_W v \colon = \langle v, w_1 \rangle w_1 +\cdots + \langle v, w_r \rangle w_r .
+V
+F,
+\lambda
+v
+\lambda v,
+v\lambda \colon =\lambda v .
+\langle v, w_j \rangle w_j
+\mathbb C^n,
+\langle v, w_j \rangle w_j =w_j \langle v, w_j \rangle =w_j w_j^\ast v
+\mathbb C^n .
+W
+\mathbb C^n
+\{w_1, \ldots, w_r \} .
+v \in \mathbb C^n,
+proj_W v \colon = \langle v, w_1 \rangle w_1 +\cdots + \langle v, w_r \rangle w_r =\sum_{k =1}^r w_k w_k^\ast v =(\sum_{k =1}^r w_k w_k^\ast)v,
+n \times n
+n \times 1
+v .
+\sum_{k =1}^r w_k w_k^\ast .
+A
+n \times r
+\{w_1, \ldots, w_r \}
+W .
+A^\ast A
+ij
+w_i^\ast w_j = \langle w_j, w_i \rangle =\delta_{ij} \~(Kronecker\space delta),
+A^\ast A =I_r,
+r \times r
+AA^\ast =\sum_{k =1}^r w_k w_k^\ast
+AA^\ast
+W .
+A
+n \times r
+B
+r \times m
+AB =col_1 (A)row_1 (B) +\cdots +col_r (A)row_r (B) .
+n \times 1
+1 \times m
+col_1 (A)row_1 (B) & \lt mi/> +\cdots +col_r (A)row_r (B) = \\ \~ & \begin{bmatrix} a_{11} b_{11} & \cdots & a_{11} b_{1m} \\ a_{21} b_{11} & \cdots & a_{21} b_{1m} \\ \vdots & \vdots & \vdots \\ a_{n1} b_{11} & \cdots & a_{n1} b_{1m} \end{bmatrix} +\cdots + \begin{bmatrix} a_{1r} b_{r1} & \cdots & a_{1r1} b_{rm} \\ a_{2r} b_{r1} & \cdots & a_{2r} b_{rm} \\ \vdots & \vdots & \vdots \\ a_{nr} b_{r1} & \cdots & a_{nr} b_{rm} \end{bmatrix} .
+ij
+AB
+(AB)_{ij} =\sum_{k =1}^r a_{ik} b_{kj},
+ij
+r
+AA^\ast .
+AA^\ast =w_1 w_1^\ast +\cdots +w_r w_r^\ast
+W
+\mathbb C^n
+\{w_1, \ldots, w_r \},
+A
+n \times r
+v \in \mathbb C^n,
+proj_W v \colon =AA^\ast v\~and\~A^\ast A =I_r .
+W,
+W
+\mathbb C^n
+\mathbb R^n
+\{v_1, \ldots, v_r \} .
+A
+n \times r
+v_1, \ldots, v_r .
+proj_W,
+A(A^\ast A)^{ -1} A^\ast .
+A^\ast A
+A^\ast A
+r \times r
+AA^\ast
+v,
+proj_W v
+W
+W,
+proj_W v =\lambda_1 v_1 +\cdots +\lambda_r v_r .
+\lambda_1 v_1 +\cdots +\lambda_r v_r =A\mathbit{\lambda}
+\mathbit{\lambda} = \begin{bmatrix} \lambda_1 \\ \vdots \\ \lambda_r \end{bmatrix} .
+proj_W v =A\mathbit{\lambda} .
+v -proj_W v =v -A\mathbit{\lambda} \in W^\perp
+j =1, \ldots, r
+\langle v -A\mathbit{\lambda}, v_j \rangle =v_j^\ast (v -A\mathbit{\lambda}) =0.
+r
+A^\ast (v -A\mathbit{\lambda}) =0\~or\space equivalently\~A^\ast v =A^\ast A\mathbit{\lambda} .
+A^\ast A
+A^\ast v =A^\ast A\mathbit{\lambda}
+A(A^\ast A)^{ -1}
+A(A^\ast A)^{ -1} A^\ast v =A(A^\ast A)^{ -1} (A^\ast A)\mathbit{\lambda} =A\mathbit{\lambda} =proj_W v,
+r \times r
+A^\ast A
+A^\ast A
+A^\ast Av =0.
+\langle 0, v \rangle =0,
+0 = \langle A^\ast Av, v \rangle =v^\ast (A^\ast Av) =(Av)^\ast (Av) = \Vert Av \Vert^2 .
+A^\ast Av =0
+Av =0,
+A
+n \times r
+\mathbb C^r \to \mathbb C^n .
+A
+r
+r .
+A
+Av =0
+v =0.
+A^\ast A
+V =\mathbb R^3,
+w_1 = \begin{bmatrix} 1 \\ 1 \\ -2 \end{bmatrix}
+w_2 = \begin{bmatrix} 5 \\ -1 \\ 2 \end{bmatrix},
+W =Span\{w_1, w_2 \},
+y = \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix} .
+w_1
+w_2
+y \notin W .
+proj_W v =\frac{ \langle y, w_1 \rangle}{ \langle w_1, w_1 \rangle}w_1 +\frac{ \langle y, w_2 \rangle}{ \langle w_r, w_r \rangle}w_2 =\frac{ -2}{6} \begin{bmatrix} 1 \\ 1 \\ -2 \end{bmatrix} +\frac{2}{30} \begin{bmatrix} 5 \\ -1 \\ 2 \end{bmatrix} = \begin{bmatrix} 0 \\ -2/5 \\ 4/5 \end{bmatrix} .
+y^\perp =y -proj_W y = \begin{bmatrix} 0 \\ 2/5 \\ 1/5 \end{bmatrix} \in W^\perp .
+w_1
+w_2,
+W \colon
+A = \begin{bmatrix} 1/\sqrt{6} & 5/\sqrt{30} \\ 1/\sqrt{6} & -1/\sqrt{30} \\ -2/\sqrt{6} & 2/\sqrt{30} \end{bmatrix}
+A
+A^\ast A( =A^T A) =I_2
+proj_W
+\mathbb R^3
+[proj_W] =AA^\ast = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1/5 & -2/5 \\ 0 & -2/5 & 4/5 \end{bmatrix}
+proj_W y = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1/5 & -2/5 \\ 0 & -2/5 & 4/5 \end{bmatrix} \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix} = \begin{bmatrix} 0 \\ -2/5 \\ 4/5 \end{bmatrix} .
+A = \begin{bmatrix} 1 & 5 \\ 1 & -1 \\ -2 & 2 \end{bmatrix} .
+[proj_W] =A(A^\ast A)^{ -1} A^\ast .
+A^\ast A = \begin{bmatrix} 6 & 0 \\ 0 & 30 \end{bmatrix} \~so\~(A^\ast A)^{ -1} = \begin{bmatrix} 1/6 & 0 \\ 0 & 1/30 \end{bmatrix}
+[proj_W] & \lt mi/> =A(A^\ast A)^{ -1} A^\ast = \\ \~ & \begin{bmatrix} 1 & 5 \\ 1 & -1 \\ -2 & 2 \end{bmatrix} \begin{bmatrix} 1/6 & 0 \\ 0 & 1/30 \end{bmatrix} \begin{bmatrix} 1 & 1 & -2 \\ 5 & -1 & 2 \end{bmatrix} = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1/5 & -2/5 \\ 0 & -2/5 & 4/5 \end{bmatrix}
+V =W \boxplus W^\perp,
+I_V
+I_V =proj_W +proj_{W^\perp} .
+proj_W v =v -proj_{W^\perp} v,
+W^\perp
+W,
+proj_{W^\perp}
+V =\mathbb R^3
+W
+3x -y -5z =0.
+v =(1, 1, 1) .
+W
+W,
+v_1 = \begin{bmatrix} 1 \\ 3 \\ 0 \end{bmatrix} \~and\~v_2 = \begin{bmatrix} 0 \\ -5 \\ 1 \end{bmatrix} .
+v_1
+v_2,
+[proj_W] = \begin{bmatrix} \frac{26}{35} & \frac{3}{35} & \frac{3}{7} \\ \frac{3}{35} & \frac{34}{35} & -\frac{1}{7} \\ \frac{3}{7} & -\frac{1}{7} & \frac{2}{7} \end{bmatrix}
+proj_W v = \begin{bmatrix} \frac{26}{35} & \frac{3}{35} & \frac{3}{7} \\ \frac{3}{35} & \frac{34}{35} & -\frac{1}{7} \\ \frac{3}{7} & -\frac{1}{7} & \frac{2}{7} \end{bmatrix} \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix} =\frac{1}{35} \begin{bmatrix} 44 \\ 32 \\ 20 \end{bmatrix} .
+proj_{W^\perp} .
+W^\perp
+v_3 = \begin{bmatrix} 3 \\ -1 \\ -5 \end{bmatrix}
+proj_{W^\perp} v =\frac{ \langle v, v_3 \rangle}{ \langle v_3, v_3 \rangle}v_3 =\frac{1}{35} \begin{bmatrix} -9 \\ 3 \\ 15 \end{bmatrix},
+proj_W v =v -proj_{W^\perp} v =\frac{1}{35} \begin{bmatrix} 44 \\ 32 \\ 20 \end{bmatrix} .
+W
+V =\mathbb R^3,
+w_1 = \begin{bmatrix} 1 \\ 1 \\ -2 \end{bmatrix}
+w_2 = \begin{bmatrix} 5 \\ -1 \\ 2 \end{bmatrix} .
+w_1 = \begin{bmatrix} 1 \\ 1 \\ -2 \end{bmatrix}
+w_2^' = \begin{bmatrix} 6 \\ 0 \\ 0 \end{bmatrix} =w_1 +w_2
+A
+w_1
+w_2^' .
+G
+M
+v =[0, 0, 1]
+W
+A
+W .
+A
+proj_W
+Ax =b .
+\Vert Ax -b \Vert >0
+x
+\hat{x}
+\Vert A \hat{x} -b \Vert \le \Vert Ax -b \Vert
+x
+W
+m \times n
+A
+\hat{b} =proj_W b .
+\hat{b}
+Ax = \hat{b}
+\hat{x}
+Ax = \hat{b}
+\Vert A \hat{x} -b \Vert \le \Vert Ax -b \Vert
+x
+\hat{b}
+Ax = \hat{b},
+\hat{b}
+b
+W =C(A),
+\hat{x}
+Ax = \hat{b} .
+b = \hat{b} +b^\perp
+b^\perp =b - \hat{b} =b -A \hat{x} \in W^\perp .
+W,
+A,
+x \mapsto Ax,
+\langle Ax, A \hat{x} -b \rangle_m =0.
+\langle Ax, A \hat{x} -b \rangle_m = \langle x, A^\ast (A \hat{x} -b) \rangle_n =0,
+x \in \mathbb C^n .
+A^\ast (A \hat{x} -b) =0.
+\hat{x},
+A^\ast A \hat{x} =A^\ast b .
+A \in M_{m \times n} (\mathbb C),
+b \in \mathbb C^m .
+\hat{x} \in \mathbb C^n
+\Vert A \hat{x} -b \Vert \le \Vert Ax -b \Vert
+x \in \mathbb C^n .
+\hat{x}
+A^\ast A \hat{x} =A^\ast b .
+\hat{x}
+A .
+(x_i, y_i)
+(x_j, y_j) .
+y =mx +b
+\{(x_i, y_i) \mid i =1\ldots n\}
+y =f(x)
+E =\sum_{i =1}^n (y_i -f(x_i)),
+y_i >f(x_i)
+y_i \lt f(x_i),
+\mathbb R^n,
+E =\sum_{i =1}^n (y_i -f(x_i))^2,
+E =\sum_{i =1}^n (y_i -mx_i -b)^2 .
+Y = \begin{bmatrix} y_1 \\ \vdots \\ y_n \end{bmatrix} \~and\~Z = \begin{bmatrix} mx_1 +b \\ \vdots \\ mx_n +b \end{bmatrix}
+E = \Vert Y -Z \Vert^2 = \langle Y -Z, Y -Z \rangle .
+Y
+Z .
+A = \begin{bmatrix} x_1 & 1 \\ \vdots \\ x_n & 1 \end{bmatrix} .
+Z = \begin{bmatrix} mx_1 +b \\ \vdots \\ mx_n +b \end{bmatrix} =A \begin{bmatrix} m \\ b \end{bmatrix} .
+A \begin{bmatrix} m \\ b \end{bmatrix} = \begin{bmatrix} y_1 \\ \vdots \\ y_n \end{bmatrix},
+AX =Y
+X = \begin{bmatrix} m \\ b \end{bmatrix} .
+\hat{X} = \begin{bmatrix} m \\ b \end{bmatrix}
+\Vert A \hat{X} -Y \Vert \le \Vert AX -Y \Vert
+X \in \mathbb R^2 .
+E = \Vert A \hat{X} -Y \Vert^2,
+(x, y) \colon
+\{(2, 1), (5, 2), (7, 3), (8, 3)\} .
+A = \begin{bmatrix} x_1 & 1 \\ \vdots \\ x_n & 1 \end{bmatrix} = \begin{bmatrix} 2 & 1 \\ 5 & 1 \\ 7 & 1 \\ 8 & 1 \end{bmatrix},
+Y = \begin{bmatrix} y_1 \\ \vdots \\ y_n \end{bmatrix} = \begin{bmatrix} 1 \\ 2 \\ 3 \\ 3 \end{bmatrix}
+A^\ast A \hat{X} =A^\ast Y \colon
+A^\ast A = \begin{bmatrix} 2 & 5 & 7 & 8 \\ 1 & 1 & 1 & 1 \end{bmatrix} \begin{bmatrix} 2 & 1 \\ 5 & 1 \\ 7 & 1 \\ 8 & 1 \end{bmatrix} = \begin{bmatrix} 142 & 22 \\ 22 & 4 \end{bmatrix}
+A^\ast Y = \begin{bmatrix} 2 & 5 & 7 & 8 \\ 1 & 1 & 1 & 1 \end{bmatrix} \begin{bmatrix} 1 \\ 2 \\ 3 \\ 3 \end{bmatrix} = \begin{bmatrix} 57 \\ 9 \end{bmatrix}
+A^\ast A
+\begin{bmatrix} 142 & 22 \\ 22 & 4 \end{bmatrix} \begin{bmatrix} m \\ b \end{bmatrix} = \begin{bmatrix} 57 \\ 9 \end{bmatrix}
+\hat{X} = \begin{bmatrix} m \\ b \end{bmatrix} = \begin{bmatrix} 5/14 \\ 2/7 \end{bmatrix},
+y =5/14x +2/7.
+n
+n -1
+b_0, b_1, b_2
+y =b_2 x^2 +b_1 x +b_0
+(x_i, y_i) =(60, 3.1), (61, 3.6), (62, 3.8), (63, 4), (65, 4.1), i =1\ldots 5.
+y_i =b_2 x_i^2 +b_1 x_i +b_0 +\varepsilon_i
+\varepsilon_i
+Y =AX +\varepsilon (X)
+A = \begin{bmatrix} 60^2 & 60 & 1 \\ 61^2 & 61 & 1 \\ 62^2 & 62 & 1 \\ 63^2 & 63 & 1 \\ 65^2 & 65 & 1 \end{bmatrix}, X = \begin{bmatrix} b_2 \\ b_1 \\ b_0 \end{bmatrix}, \~and\~Y = \begin{bmatrix} 3.1 \\ 3.6 \\ 3.8 \\ 4 \\ 4.1 \end{bmatrix} .
+\hat{X}
+\Vert Y =A \hat{X} \Vert \le \Vert y -AX \Vert = \Vert \varepsilon (X) \Vert (E(X) = \Vert \varepsilon (X) \Vert^2) .
+A^\ast A \hat{X} =A^\ast Y .
+A^\ast A = \begin{bmatrix} 75185763 & 1205981 & 19359 \\ 1205981 & 19359 & 311 \\ 19359 & 311 & 5 \end{bmatrix}, A^\ast Y = \begin{bmatrix} \frac{723613}{10} \\ \~ \\ \frac{11597}{10} \\ \~ \\ \frac{93}{5} \end{bmatrix}, \~and\~ \hat{X} = \begin{bmatrix} -\frac{141}{2716} \\ \~ \\ \frac{90733}{13580} \\ \~ \\ -\frac{715864}{3395} \end{bmatrix} .
+y = -\frac{141}{2716}x^2 +\frac{90733}{13580}x -\frac{715864}{3395} .
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+Ax =b,
+[A|b]
+[00\cdots 0 \ast]
+\ast
+b_1
+b_2,
+Ax =b
+b =b_i .
+5 \times 7,
+A
+x_1 & \lt mi/> =x_5 -x_6 +x_7 +2 \\ x_2 & \lt mi/> =x_5 -x_6 +3 \\ x_3 & \lt mi/> = -2x_6 +2x_7 \\ x_4 & \lt mi/> = -2x_5 +x_6 +2x_7
+\begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \\ x_5 \\ x_6 \\ x_7 \end{bmatrix} =x_5 \begin{bmatrix} 1 \\ 1 \\ 0 \\ -2 \\ 1 \\ 0 \\ 0 \end{bmatrix} +x_6 \begin{bmatrix} -1 \\ -1 \\ -2 \\ 1 \\ 0 \\ 1 \\ 0 \end{bmatrix} +x_7 \begin{bmatrix} 1 \\ 0 \\ 2 \\ 2 \\ 0 \\ 0 \\ 1 \end{bmatrix} + \begin{bmatrix} 2 \\ 3 \\ 0 \\ 0 \\ 0 \\ 0 \\ 0 \end{bmatrix}
+x_5 =x_6 =x_7 =0.
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+8 \times 8
+D =P^{ -1} BP
+P
+\mathbb Q,
+\mathbb Q .
+C
+\mathbb Q
+C
+K .
+(x -2) .
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+T \colon V \to V
+V,
+T
+\mscrB =\{v_1, \ldots, v_n \}
+V
+T
+\mscrB
+[T]_\mscrB = \begin{bmatrix} \lambda_1 & 0 & \cdots & 0 \\ 0 & \lambda_2 & \cdots & 0 \\ 0 & 0 & \ddots & 0 \\ 0 & 0 & 0 & \lambda_n \end{bmatrix}
+\lambda_i
+F,
+n \times n
+T(v_i) =\lambda_i v_i
+i =1, \ldots, n .
+T \colon V \to V
+V
+F,
+\lambda \in F,
+v \in V,
+T(v) =\lambda v .
+\lambda
+T,
+v \not= 0
+T
+\lambda .
+T
+V
+T .
+\lambda =0.
+v
+T(v) =0v =0
+T
+U =\mathbb R [x]
+\mathbb R,
+V =C^\infty (\mathbb R)
+U
+V .
+T \colon \mathbb R [x] \to \mathbb R [x]
+T(f) =f'
+T \colon \mathbb R [x] \to \mathbb R [x]
+T(f) =f' .
+T
+T(f) =f' =\lambda f
+f ?
+\lambda \not= 0,
+f
+f'
+\lambda f
+\lambda =0.
+f
+T(f) =f' =0 \cdot f =0 ?
+T \colon C^\infty (\mathbb R) \to C^\infty (\mathbb R)
+T(f) =f'
+T \colon C^\infty (\mathbb R) \to C^\infty (\mathbb R)
+V =C^\infty (\mathbb R) .
+\lambda
+f
+f' =\lambda f .
+f
+y' -\lambda y =0,
+f(x) =Ce^{\lambda x} .
+\lambda =0
+S \colon C^\infty (\mathbb R) \to C^\infty (\mathbb R)
+S(f) =f''
+S \colon C^\infty (\mathbb R) \to C^\infty (\mathbb R)
+S(f) =f'',
+S(f) =f'' =\lambda f,
+y'' -\lambda y =0 .
+\lambda .
+\lambda =0,
+f(x) =ax +b .
+\lambda \lt 0,
+\lambda = -\omega^2 .
+\sin (\omega x)
+\cos (\omega x)
+S
+\lambda = -\omega^2 .
+\lambda = -\omega^2 \lt 0
+\lambda >0,
+\lambda =\omega^2,
+e^{ \pm \omega x}
+\lambda =\omega^2 >0
+T(v) =\lambda v
+(T -\lambda I)v =0,
+I
+I(v) =v
+V .
+E_\lambda =\{v \in V \mid T(v) =\lambda v\} .
+E_\lambda =\ker (T -\lambda I),
+E_\lambda
+V,
+\lambda -
+T .
+E_\lambda
+V,
+T(0) =\lambda 0 =0
+\lambda
+A
+T
+\mscrB
+T(v) =\lambda v
+A[v]_\mscrB =[T]_\mscrB [v]_\mscrB =[T(v)]_\mscrB =[\lambda v]_\mscrB =\lambda [v]_\mscrB,
+A .
+\lambda
+v \in F^n
+Av =\lambda v .
+\lambda
+(A -\lambda I_n)
+(A -\lambda I_n) \colon F^n \to F^n
+F^n,
+E_\lambda \not= 0
+\det (A -\lambda I) =0 .
+n \times n
+B,
+\det ( -B) =( -1)^n \det B,
+\det (A -\lambda I_n) =0
+\det (\lambda I_n -A) =0 .
+\lambda
+\det (\lambda I_n -A) =0,
+\chi_A (x) \colon =\det (xI -A) .
+\chi_A
+n,
+A .
+A,
+n \times n
+n
+F,
+\lambda,
+E_\lambda
+\lambda I_n -A,
+A -\lambda I_n .
+(A -\lambda I_n)X =0,
+A \in M_n (F),
+\chi_A (x) =\det (xI -A)
+n
+F[x] .
+F =\mathbb C
+\chi_A
+F,
+F =\mathbb R
+A = \begin{bmatrix} 0 & 1 \\ -1 & 0 \end{bmatrix}, B = \begin{bmatrix} 4 & 0 & 0 \\ 0 & 0 & 1 \\ 0 & -1 & 0 \end{bmatrix}, \~and\~C = \begin{bmatrix} 4 & 0 & 0 \\ 0 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix},
+\chi_A (x) =x^2 +1
+\chi_B (x) =(x -4)(x^2 +1),
+A
+B
+F =\mathbb R .
+\chi_C (x) =(x -4)(x -1)(x +1)
+F =\mathbb R .
+A \in M_n (F)
+\chi_A
+\chi_A (x) =(x -\lambda_1)^{m_1} \cdots (x -\lambda_r)^{m_r} q(x),
+q(x)
+\ge 2
+F .
+q(x) \not= 1,
+A
+\chi_A (x) =(x -\lambda_1)^{m_1} \cdots (x -\lambda_r)^{m_r},
+\lambda_1, \ldots, \lambda_r
+A
+F .
+m_i
+n =m_1 +\cdots +m_r .
+\lambda_k
+\det (A -\lambda_k I) =0,
+E_{\lambda_k} \not= \{0\} .
+(4.4.1) & 1 \le \dim E_{\lambda_k} \le m_k, \~for\~k =1, \ldots, r .
+A
+\lambda_1, \ldots, \lambda_r,
+E_{\lambda_k}
+\mscrB_k,
+k =1, \ldots, r .
+\mscrB =\mscrB_1 \cup \mscrB_2 \cup \cdots \cup \mscrB_r
+T \colon V \to V
+A \in M_n (F)
+V
+F^n
+T
+A
+| \mscrB | & \lt mi/> =\dim E_{\lambda_1} +\cdots +\dim (E_{\lambda_r}) \\ \~ & \lt mi/> \le m_1 +\cdots +m_r =n =\dim V .
+A \in M_n (F)
+\chi_A
+F \colon
+\chi_A (x) =(x -\lambda_1)^{m_1} \cdots (x -\lambda_r)^{m_r}
+\lambda_i
+\dim E_{\lambda_i} =m_i,
+i =1, \ldots, r .
+A \in M_n (F)
+F \colon
+\chi_A (x) =(x -\lambda_1)\cdots (x -\lambda_n)
+\lambda_i
+A
+n
+n
+F^n
+n
+A
+n \times n
+A \in M_n (F)
+P \in M_n (F),
+D =P^{ -1} AP
+A
+A
+T \colon V \to V
+\mscrB
+V,
+A =[T]_\mscrB .
+T
+\mscrE
+V
+T .
+[T]_\mscrE
+[T]_\mscrE =[I]_\mscrB^\mscrE [T]_\mscrB [I]_\mscrE^\mscrB =P^{ -1} AP,
+P =[I]_\mscrE^\mscrB
+\mscrB
+P =[I]_\mscrE^\mscrB
+\mscrE .
+A = \begin{bmatrix} 5 & 6 & 0 \\ 0 & 5 & 8 \\ 0 & 0 & 9 \end{bmatrix} .
+\chi_A (x) =(x -5)^2 (x -9),
+\lambda,
+\ker (A -\lambda I_3),
+(A -\lambda I_3)x =\mathbf 0 .
+A -9I = \begin{bmatrix} -4 & 6 & 0 \\ 0 & -4 & 8 \\ 0 & 0 & 0 \end{bmatrix} \overset{RREF}{\mapsto} \begin{bmatrix} 1 & 0 & -3 \\ 0 & 1 & -2 \\ 0 & 0 & 0 \end{bmatrix},
+E_9 (A) =\ker (A -9I) =Span\{ \begin{bmatrix} 3 \\ 2 \\ 1 \end{bmatrix} \} .
+A -5I = \begin{bmatrix} 0 & 6 & 0 \\ 0 & 0 & 8 \\ 0 & 0 & 4 \end{bmatrix} \overset{RREF}{\mapsto} \begin{bmatrix} 0 & 1 & 0 \\ 0 & 0 & 1 \\ 0 & 0 & 0 \end{bmatrix},
+E_5 (A) =\ker (A -5I) =Span\{ \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix} \} .
+\{ \begin{bmatrix} 3 \\ 2 \\ 1 \end{bmatrix}, \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix} \}
+\mathbb R^3,
+A
+A
+\chi_A
+\dim E_5 (A) =1
+\lambda =5
+A = \begin{bmatrix} 3 & 0 & 2 & 0 \\ 1 & 3 & 1 & 0 \\ 0 & 1 & 1 & 0 \\ 0 & 0 & 0 & 4 \end{bmatrix} .
+A
+A =[T]_\mscrB,
+T \colon \mathbb R^4 \to \mathbb R^4
+\mscrB
+\mathbb R^4 .
+A
+\chi_A (x) =x^4 -11x^3 +42x^2 -64x +32 =(x -1)(x -2)(x -4)^2 .
+E_1
+E_2
+\mscrE_\lambda
+E_\lambda =\ker (A -\lambda I),
+\mscrE_1 =\{v_1 = \begin{bmatrix} 1 \\ 0 \\ -1 \\ 0 \end{bmatrix} \}
+\mscrE_2 =\{v_2 = \begin{bmatrix} 2 \\ -1 \\ -1 \\ 0 \end{bmatrix} \} .
+1 \le \dim E_4 \le 2.
+A
+\mscrE_4 =\{v_3, v_4 \} =\{ \begin{bmatrix} 2 \\ 3 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 1 \end{bmatrix} \}
+E_4 .
+\mscrE =\mscrE_1 \cup \mscrE_2 \cup \mscrE_4 =\{v_1, v_2, v_3, v_4 \}
+D =[T]_\mscrE = \begin{bmatrix} 1 & 0 & 0 & 0 \\ 0 & 2 & 0 & 0 \\ 0 & 0 & 4 & 0 \\ 0 & 0 & 0 & 4 \end{bmatrix} =P^{ -1} AP,
+P =[I]_\mscrE^\mscrB = \begin{bmatrix} 1 & 2 & 2 & 0 \\ 0 & -1 & 3 & 0 \\ -1 & -1 & 1 & 0 \\ 0 & 0 & 0 & 1 \end{bmatrix} .
+P
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+H
+\mathbb R^4
+H =\{ \begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \end{bmatrix} \colon x_1 +x_2 +x_3 +x_4 =0\} .
+H
+\mathbb R^4,
+H
+A
+1 \times 4
+A =[1111] .
+H =\{x \in \mathbb R^4 \mid Ax =0\},
+A,
+T \colon \mathbb R^3 \to \mathbb R^3
+T( \begin{bmatrix} 3 \\ 0 \\ 0 \end{bmatrix}) = \begin{bmatrix} 6 \\ -3 \\ 6 \end{bmatrix}, T( \begin{bmatrix} 1 \\ 1 \\ 0 \end{bmatrix}) = \begin{bmatrix} 2 \\ 0 \\ 1 \end{bmatrix}, \~and\~T( \begin{bmatrix} 0 \\ 0 \\ 2 \end{bmatrix}) = \begin{bmatrix} 4 \\ 6 \\ 2 \end{bmatrix} .
+\mathbb R^3
+\mscrE =\{e_1, e_2, e_3 \},
+T(e_1), T(e_2), \~and\~T(e_3) .
+T(3e_1) =3T(e_1) = \begin{bmatrix} 6 \\ -3 \\ 6 \end{bmatrix},
+T(e_1) = \begin{bmatrix} 2 \\ -1 \\ 2 \end{bmatrix} .
+T(e_1 +e_2) =T(e_1) +T(e_2) = \begin{bmatrix} 2 \\ 0 \\ 1 \end{bmatrix},
+T(e_2) =T(e_1 +e_2) -T(e_1) = \begin{bmatrix} 2 \\ 0 \\ 1 \end{bmatrix} - \begin{bmatrix} 2 \\ -1 \\ 2 \end{bmatrix} = \begin{bmatrix} 0 \\ 1 \\ -1 \end{bmatrix} .
+T(2e_3) = \begin{bmatrix} 4 \\ 6 \\ 2 \end{bmatrix},
+T(e_3) = \begin{bmatrix} 2 \\ 3 \\ 1 \end{bmatrix} .
+T( \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix}) .
+T( \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix}) =T(e_1) +T(e_2) +T(e_3) = \begin{bmatrix} 4 \\ 3 \\ 2 \end{bmatrix} .
+A = \begin{bmatrix} 1 & x & z \\ 0 & 1 & y \\ 0 & 0 & 1 \end{bmatrix},
+x, y, z \in \mathbb R .
+A
+A
+Ax =0
+x \mapsto Ax
+\mathbb R^3 .
+A
+A
+A .
+\begin{bmatrix} 1 & x & z & 1 & 0 & 0 \\ 0 & 1 & y & 0 & 1 & 0 \\ 0 & 0 & 1 & 0 & 0 & 1 \end{bmatrix} & \lt mi/> \mapsto \begin{bmatrix} 1 & x & 0 & 1 & 0 & -z \\ 0 & 1 & 0 & 0 & 1 & -y \\ 0 & 0 & 1 & 0 & 0 & 1 \end{bmatrix} \\ \~ & \lt mi/> \mapsto \begin{bmatrix} 1 & 0 & 0 & 1 & -x & -z +xy \\ 0 & 1 & 0 & 0 & 1 & -y \\ 0 & 0 & 1 & 0 & 0 & 1 \end{bmatrix} .
+A^{ -1} = \begin{bmatrix} 1 & -x & -z +xy \\ 0 & 1 & -y \\ 0 & 0 & 1 \end{bmatrix} .
+T \colon \mathbb R^5 \to \mathbb R^4
+T(x) =Ax
+A
+R
+A = \begin{bmatrix} 1 & -1 & 2 & 6 & -3 \\ 2 & -1 & 0 & 7 & 10 \\ -2 & 3 & -7 & -15 & 17 \\ 2 & -2 & 2 & 8 & 5 \end{bmatrix} \~and\~R = \begin{bmatrix} 1 & 0 & 0 & 5 & 0 \\ 0 & 1 & 0 & 3 & 0 \\ 0 & 0 & 1 & 2 & 0 \\ 0 & 0 & 0 & 0 & 1 \end{bmatrix} .
+\ker T,
+T .
+T
+A,
+R
+\begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \\ x_5 \end{bmatrix} = \begin{bmatrix} -5x_4 \\ -3x_4 \\ -2x_4 \\ x_4 \\ 0 \end{bmatrix} =x_4 \begin{bmatrix} -5 \\ -3 \\ -2 \\ 1 \\ 0 \end{bmatrix}
+ImT,
+T .
+R
+A
+\mathbb R^4 .
+R
+A,
+\mathbb R^4 .
+5 -1 =4,
+\mathbb R^4,
+\mathbb R^4 .
+K
+\mathbb R^5
+x_1 +x_2 +x_3 +x_4 +x_5 & \lt mi/> =0 \\ x_5 & \lt mi/> =0.
+\mscrB_0
+K .
+A = \begin{bmatrix} 1 & 1 & 1 & 1 & 0 \\ 0 & 0 & 0 & 0 & 1 \end{bmatrix}
+\dim K =3.
+\mscrB_0 =\{v_1 = \begin{bmatrix} -1 \\ 1 \\ 0 \\ 0 \\ 0 \end{bmatrix}, v_2 = \begin{bmatrix} -1 \\ 0 \\ 1 \\ 0 \\ 0 \end{bmatrix}, v_3 = \begin{bmatrix} -1 \\ 0 \\ 0 \\ 1 \\ 0 \end{bmatrix} \} .
+\mscrB_0
+\mscrB
+\mathbb R^5 .
+v_4 = \begin{bmatrix} 1 \\ 1 \\ 1 \\ 1 \\ 0 \end{bmatrix} \~and\~v_5 = \begin{bmatrix} 0 \\ 0 \\ 0 \\ 0 \\ 1 \end{bmatrix}
+K
+v_4
+v_5
+\mscrB_0 \cup \{v_4 \}
+v_5
+\mscrB =\mscrB_0 \cup \{v_4, v_5 \} .
+T \colon \mathbb R^5 \to \mathbb R^5
+K
+x_3 =x_4 =x_5 =0.
+e_1
+e_2 .
+\mscrB =\{v_1, \ldots, v_5 \},
+T(v_i) =0, \~for\~i =1, 2, 3,
+T(v_4), T(v_5)
+T(v_4) =e_1 \~and\~T(v_5) =e_2 .
+M_{2 \times 2}
+2 \times 2
+A = \begin{bmatrix} a & b \\ c & d \end{bmatrix} \in M_{2 \times 2} .
+T \colon M_{2 \times 2} \to M_{2 \times 2}
+T(X) =AX,
+2 \times 2
+X
+A .
+\mscrE =\{\mathbf e_1 = \begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix}, \mathbf e_2 = \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix}, \mathbf e_3 = \begin{bmatrix} 0 & 0 \\ 1 & 0 \end{bmatrix}, \mathbf e_4 = \begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix} \}
+M_{2 \times 2} .
+T
+\mscrE,
+[T]_\mscrE .
+T(\mathbf e_1) & \lt mi/> = \begin{bmatrix} a & b \\ c & d \end{bmatrix} \begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix} = \begin{bmatrix} a & 0 \\ c & 0 \end{bmatrix} =a\mathbf e_1 +c\mathbf e_3 \\ T(\mathbf e_2) & \lt mi/> = \begin{bmatrix} a & b \\ c & d \end{bmatrix} \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix} = \begin{bmatrix} 0 & a \\ 0 & c \end{bmatrix} =a\mathbf e_2 +c\mathbf e_4 \\ T(\mathbf e_3) & \lt mi/> = \begin{bmatrix} a & b \\ c & d \end{bmatrix} \begin{bmatrix} 0 & 0 \\ 1 & 0 \end{bmatrix} = \begin{bmatrix} b & 0 \\ d & 0 \end{bmatrix} =b\mathbf e_1 +d\mathbf e_3 \\ T(\mathbf e_4) & \lt mi/> = \begin{bmatrix} a & b \\ c & d \end{bmatrix} \begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix} = \begin{bmatrix} 0 & b \\ 0 & d \end{bmatrix} =b\mathbf e_2 +d\mathbf e_4
+[T]_\mscrE = \begin{bmatrix} a & 0 & b & 0 \\ 0 & a & 0 & b \\ c & 0 & d & 0 \\ 0 & c & 0 & d \end{bmatrix}
+\mscrB
+\mscrB =\{\mathbf e_1, \mathbf e_3, \mathbf e_2, \mathbf e_4 \},
+\mscrE,
+[I]_\mscrB^\mscrE,
+T
+\mscrB,
+[T]_\mscrB .
+[I]_\mscrB^\mscrE = \begin{bmatrix} 1 & 0 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 0 & 1 \end{bmatrix} =[I]_\mscrE^\mscrB,
+[T]_\mscrB & \lt mi/> =[I]_\mscrE^\mscrB [T]_\mscrE [T]_\mscrB^\mscrE \\ \~ & \lt mi/> = \begin{bmatrix} 1 & 0 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 0 & 1 \end{bmatrix} \begin{bmatrix} a & 0 & b & 0 \\ 0 & a & 0 & b \\ c & 0 & d & 0 \\ 0 & c & 0 & d \end{bmatrix} \begin{bmatrix} 1 & 0 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 0 & 1 \end{bmatrix} = \begin{bmatrix} a & b & 0 & 0 \\ c & d & 0 & 0 \\ 0 & 0 & a & b \\ 0 & 0 & c & d \end{bmatrix} .
+[T]_\mscrB
+T \colon \mathbb R^2 \to \mathbb R^3
+x -4y +5z =0 .
+T ?
+T \colon \mathbb R^n \to \mathbb R^m
+T(x) =Ax
+A
+T
+T
+A ?
+T
+T(x) =Ax
+A
+3 \times 2
+T(e_1)
+T(e_2) .
+A = \begin{bmatrix} 4 & -5 \\ 1 & 0 \\ 0 & 1 \end{bmatrix}
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+A \in M_n (\mathbb R)
+A
+\mathbb R^n .
+A
+[A| I_n] \mapsto [I_n |A^{ -1}] .
+A
+I_n .
+Ax =0
+n
+A
+n =\dim \mathbb R^n
+T \colon \mathbb R^n \to \mathbb R^n
+T(x) =Ax
+x \mapsto A^{ -1} x .
+T
+A .
+n
+A
+\mathbb R^n,
+M_2 (\mathbb R)
+2 \times 2
+\mscrE =\{E_{11}, E_{12}, E_{21}, E_{22} \} =\{ \begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 \\ 1 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix} \}
+M_2 (\mathbb R) .
+T \colon M_2 (\mathbb R) \to \mathbb R
+T( \begin{bmatrix} a & b \\ c & d \end{bmatrix}) =a +d .
+a +d
+T
+K .
+T
+\dim K =3.
+E_{12}, E_{21} \in K
+K .
+\begin{bmatrix} a & b \\ c & -a \end{bmatrix},
+a \not= 0,
+b =c =0,
+\begin{bmatrix} 1 & 0 \\ 0 & -1 \end{bmatrix}
+S
+A^T =A .
+A^T = -A .
+S .
+A =\frac{1}{2}(A +A^T) +\frac{1}{2}(A -A^T) .
+S,
+E_{11}, E_{22} .
+\begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix} =E_{12} +E_{21}
+S .
+\dim S =3,
+S .
+K \cap S
+M_2 (\mathbb R) .
+S
+K
+\begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix} \~and\~ \begin{bmatrix} 1 & 0 \\ 0 & -1 \end{bmatrix}
+K \cap S
+S
+K .
+\dim (K \cap S) =2,
+K
+S .
+K,
+E_{12},
+S
+E_{11} .
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+4 \times 5
+A
+m \times n
+A
+n
+R
+A
+A .
+A,
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+\mathbb R^3,
+v =(1, 2, 3),
+\{e_1, e_2, e_3 \}
+v =1e_1 +2e_2 +3e_3,
+\mathbb R^3
+\{1, x, x^2 \cdots \} .
+f
+x =a,
+f(x) \approx c_0 +c_1 (x -a) +\cdots +c_n (x -a)^n
+c_j =f^{(j)} (a)/j!
+c_j
+\{1, (x -a), \ldots, (x -a)^n \}
+P_n (\mathbb R) .
+S =\{v_1, v_2, \ldots \}
+V,
+W =Span(S) .
+S
+w \in W
+S .
+S =\{v_1 =(1, 0), v_2 =(0, 1), v_3 =(1, 1)\}
+\mathbb R^2,
+(a, b) =av_1 +bv_2 +0v_3 =(a -b)v_1 +0v_2 +bv_3 =0v_1 +(b -a)v_2 +av_3 .
+T \colon V \to W
+v_i
+a_i,
+T(a_1 v_1 +\cdots +a_r v_r) =a_1 T(v_1) +\cdots +a_r T(v_r) .
+S =\{v_1 =(1, 0), v_2 =(0, 1), v_3 =(1, 1)\}
+\mathbb R^2,
+T \colon \mathbb R^2 \to \mathbb R^2
+T(v_1) =(1, 2), T(v_2) =(3, 4), \~and\~T(v_3) =(5, 6) .
+v_3 =v_1 +v_2,
+T(v_3) =(5, 6) \not= (4, 6) =T(v_1) +T(v_2) .
+T(v_3) =(4, 6),
+T(v_3)
+T
+v_1
+v_2,
+\mathbb R^2 .
+F^n
+P_n (F)
+M_{m \times n} (F),
+P(F) =F[x],
+V
+F
+\mscrB =\{v_1, \ldots, v_n \} .
+W
+F,
+w_1, \ldots, w_n
+W .
+T \colon V \to W
+T(v_i) =w_i,
+i =1, \ldots n .
+T \colon V \to W
+\{v_1, \ldots, v_r \} \subseteq V .
+T(Span(\{v_1, \ldots, v_r \})) =Span\{T(v_1), \ldots, T(v_r)\} .
+X
+Y
+X \subseteq Y
+Y \subseteq X .
+X \subseteq Y,
+x \in X,
+x \in Y .
+w \in T(Span(\{v_1, \ldots, v_r \})),
+w =T(a_1 v_1 +\cdots +a_r v_r)
+a_1, \ldots, a_r .
+V =P_2 (\mathbb R)
+\{1, x, x^2 \}
+\{2, 3x, 2 +3x +4x^2 \}
+V .
+S, T \colon V \to V
+T(1) & \lt mi/> =0, T(x) =1, T(x^2) =2x . \\ S(2) & \lt mi/> =0, S(3x) =3, S(2 +3x +4x^2) =3 +8x .
+S
+T
+S(1) =0,
+S(x) =1,
+S(x^2) =2x ?
+S
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+F^m,
+n >m
+F^m,
+n \le m
+F^m ?
+v, w
+V,
+v
+w .
+\{v, w\}
+V .
+S =\{v, w, v +w\}
+S
+4 \times 4
+Ax =\mathbf 0 .
+-5
+-2
+A
+S =\{v_1, v_2, \ldots, v_n \} \subset F^m,
+b \in F^m,
+b \in Span(S) .
+S
+A,
+B
+v_i,
+A =B^t,
+B .
+b \in Span(S)
+Ax =b
+S =\{v_1 =(1, 2, 3, 4), v_2 =(5, 6, 7, 8), v_3 =(9, 10, 11, 12)\} .
+B .
+b .
+b
+b .
+b
+9/4
+1/4
+b
+b
+[A|b] \colon
+A
+A
+Ax =0
+A .
+b
+c
+\{v_1, v_2 \},
+C
+4 \times 5
+A
+\mathbb Q,
+\mathbb Z,
+A
+A .
+RREF(A)
+A,
+A
+A,
+A
+A
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+F
+F =\mathbb Q, \mathbb R,
+\mathbb C
+F^n
+M_{m \times n} (F)
+m \times n
+F .
+P_n (F)
+n
+P(F) =F[x]
+F .
+V =\mscrF (\mathbb R) =\{f \colon \mathbb R \to \mathbb R \},
+\mathbb R
+\mathbb R .
+V
+f, g \in \mscrF (\mathbb R)
+\lambda \in \mathbb R,
+f +g
+\lambda f
+(f +g)(x) \colon =f(x) +g(x)\~for\space all\~x \in \mathbb R \\ (\lambda f)(x) \colon =\lambda f(x)\~for\space all\~x \in \mathbb R .
+\mscrF (\mathbb R)
+\mathbb R .
+C(\mathbb R) =\{f \in \mscrF (\mathbb R) \mid f\~is\space continuous\~\} .
+C(\mathbb R)
+\mscrF (\mathbb R) ?
+0(x) =0
+x \in \mathbb R
+C^n (\mathbb R) =\{f \in \mscrF (\mathbb R) \mid f^{(n)} \~is\space continuous.\}
+f \in C^n (\mathbb R),
+f, f', f'', \cdots, f^{(n)}
+C^{(n)} (\mathbb R) \subset C^{(n -1)} (\mathbb R) \subset \cdots \subset C(\mathbb R) \subset \mscrF (\mathbb R) .
+C^\infty (\mathbb R)
+\mscrF (\mathbb R)
+C^n (\mathbb R)
+n \ge 1 .
+C^\infty (\mathbb R) =\bigcap_{n =1}^\infty C^{(n)} (\mathbb R) .
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+m \times n
+A .
+A^\ast A
+AA^\ast
+A^\ast A
+A .
+A
+A^\ast
+A
+m \times n
+F .
+P
+Q
+m \times m
+n \times n
+F .
+rank(PAQ) =rankA .
+rankA =rankA^T
+A
+rankA =rankA^\ast .
+A^\ast
+A^T
+A^T
+A^\ast,
+A^T .
+A^\ast A
+AA^\ast .
+A
+A .
+A
+m \times n
+rankA =rank(A^\ast A) =rank(AA^\ast) .
+rankA =rank(A^\ast A) .
+A
+m \times n
+A^\ast A
+n \times n,
+n .
+n =rankA +nullityA =rank(A^\ast A) +nullity(A^\ast A) .
+\ker A \subseteq \ker A^\ast A .
+x \in \ker A^\ast A .
+A^\ast Ax =0,
+\langle x, A^\ast Ax \rangle =0,
+0 = \langle x, A^\ast Ax \rangle = \langle Ax, Ax \rangle
+Ax =0
+\ker A^\ast A \subseteq \ker A,
+rankA =rankAA^\ast,
+rankA^\ast =rankAA^\ast .
+B,
+rankB =rankB^\ast B,
+B =A^\ast,
+rankA^\ast =rank((A^\ast)^\ast A^\ast) =rank(AA^\ast) .
+AA^\ast
+A^\ast A .
+A
+m \times n
+A^\ast A
+AA^\ast
+A, B
+AB
+BA
+\lambda
+AB .
+v
+ABv =\lambda v .
+B
+B
+(BA)Bv =\lambda (Bv),
+\lambda
+BA
+Bv \not= 0
+Bv =0,
+ABv =\lambda v =0
+\lambda =0,
+\lambda =0,
+A = \begin{bmatrix} 1 & 1 \end{bmatrix},
+B =A^T .
+AB = \begin{bmatrix} 2 \end{bmatrix} \~while\~BA = \begin{bmatrix} 1 & 1 \\ 1 & 1 \end{bmatrix} .
+AB
+BA
+A
+A^\ast
+A^T .
+A \in M_n (\mathbb C)
+B \in M_n (\mathbb R)
+A
+AA^\ast =A^\ast A .
+A
+AA^\ast =A^\ast A =I_n
+A
+A =A^\ast .
+B
+BB^T =B^T B .
+B
+BB^T =B^T B =I_n
+B
+B =B^T .
+A^2 =I_n .
+P \in M_n (\mathbb R)
+U \in M_n (\mathbb C)
+P
+U
+P^T P =I_n \~(resp.\~U^\ast U =I_n) .
+PP^T =I_n \~(resp.\~UU^\ast =I_n) .
+P^{ -1} =P^T \~(resp.\~U^{ -1} =U^\ast)
+\langle Pv, Pw \rangle = \langle v, w \rangle
+v, w \in \mathbb R^n
+\langle Uv, Uw \rangle = \langle v, w \rangle
+v, w \in \mathbb C^n .
+A^\ast A =I_n .
+A
+A
+A \in M_n (C),
+\langle Av, w \rangle = \langle v, A^\ast w \rangle
+v, w \in \mathbb C^n .
+\langle Av, Aw \rangle = \langle v, A^\ast Aw \rangle = \langle v, w \rangle .
+A \in M_n (\mathbb C)
+U
+\lambda_1, \ldots, \lambda_n
+diag(\lambda_1, \ldots, \lambda_n) =U^\ast AU .
+U
+A
+\mathbb C^n .
+A \in M_n (\mathbb R)
+P
+\lambda_1, \ldots, \lambda_n
+diag(\lambda_1, \ldots, \lambda_n) =P^T AP .
+P
+A
+\mathbb R^n .
+A = \begin{bmatrix} 0 & 1 \\ -1 & 0 \end{bmatrix},
+A
+A,
+\chi_A =x^2 +1,
+A
+A^T =A^\ast .
+\mathbb C .
+A
+\lambda
+A .
+\lambda
+\lambda
+A,
+v
+\lambda .
+\lambda \langle v, v \rangle = \langle \lambda v, v \rangle = \langle Av, v \rangle = \langle v, A^\ast v \rangle = \langle v, Av \rangle = \langle v, \lambda v \rangle =\overline{\lambda} \langle v, v \rangle,
+A^\ast =A
+v \not= 0,
+\langle v, v \rangle \not= 0,
+\overline{\lambda} =\lambda,
+\lambda
+A \in M_n (\mathbb C)
+\lambda
+\mu
+A .
+v
+\lambda
+w
+\mu .
+\lambda \langle v, w \rangle & \lt mi/> = \langle \lambda v, w \rangle = \langle Av, w \rangle \overset{(1)}{=} \langle v, A^\ast w \rangle \\ \~ & \lt mi/>\overset{(2)}{=} \langle v, Aw \rangle = \langle v, \mu w \rangle =\overline{\mu} \langle v, w \rangle \overset{(3)}{=}\mu \langle v, w \rangle,
+A
+(\lambda -\mu) \langle v, w \rangle =0,
+\lambda \not= \mu,
+\langle v, w \rangle =0
+\mathbb C
+n \times n
+A
+\lambda_1, \ldots, \lambda_n,
+U
+\{u_1, \ldots, u_n \}
+\mathbb C^n
+A
+diag(\lambda_1, \ldots, \lambda_n) =UAU^\ast .
+UU^\ast =u_1 u_1^\ast +\cdots +u_n u_n^\ast
+A
+\mathbb C^n
+u_i .
+A \in M_n (\mathbb C)
+\lambda_1, \ldots, \lambda_n .
+U
+u_i
+\lambda_i .
+A =Udiag(\lambda_1, \ldots, \lambda_n)U^\ast =\lambda_1 u_1 u_1^\ast +\cdots +\lambda_n u_n u_n^\ast .
+diag(\lambda_1, \ldots, \lambda_n) =U^\ast AU
+A =(U^\ast)^{ -1} diag(\lambda_1, \ldots, \lambda_n)U^{ -1} =Udiag(\lambda_1, \ldots, \lambda_n)U^\ast,
+U
+U^{ -1} =U^\ast,
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+V, W
+T \colon V \to W
+r .
+\{v_1, \ldots, v_n \}
+V
+\{w_1, \ldots, w_m \}
+W,
+\sigma_1 \ge \cdots \ge \sigma_r
+T(v_i) =\{\sigma_i u_i & \~if\~1 \le i \le r \\ 0 & \~if\~i >r . \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+\sigma_i
+T,
+T .
+\mscrB_V =\{v_1, \ldots, v_n \}
+\mscrB_W =\{w_1, \ldots, w_m \},
+T
+[T]_{\mscrB_V}^{\mscrB_W} = \begin{bmatrix} D & 0 \\ 0 & 0 \end{bmatrix}
+D = \begin{bmatrix} \sigma_1 & \~ & 0 \\ \~ & \ddots \\ 0 & \~ & \sigma_r \end{bmatrix}
+[T]_{\mscrB_V}^{\mscrB_W}
+(m -r) \times (n -r) .
+m \times n
+A,
+A,
+P, Q
+PAQ = \begin{bmatrix} I_r & 0 \\ 0 & 0 \end{bmatrix} .
+P, Q
+V =\mathbb C^n,
+W =\mathbb C^m
+\mscrE_n
+\mscrE_m
+P
+Q
+\mscrB_V
+V,
+\mscrB_W
+W,
+PAQ =[I]_{\mscrE_m}^{\mscrB_W} [T]_{\mscrE_n}^{\mscrE_m} [I]_{\mscrB_V}^{\mscrE_n} =[T]_{\mscrB_V}^{\mscrB_W} = \begin{bmatrix} I_r & 0 \\ 0 & 0 \end{bmatrix},
+T
+v_i \mapsto 1 \cdot w_i
+1 \le i \le r,
+v_i \mapsto 0
+i >r .
+v_i \mapsto 1 \cdot w_i
+1 \le i \le r,
+v_i \mapsto 0
+i >r .
+\mathbb C^n
+\mathbb C^m
+m \times n
+A
+B =A^\ast A,
+B^\ast =B,
+B
+n \times n
+\mathbb C^n
+B =A^\ast A
+\lambda_1, \ldots, \lambda_n .
+A^\ast A .
+\Vert Av_i \Vert^2 & \lt mi/> = \langle Av_i, Av_i \rangle =(Av_i)^\ast (Av_i) =v_i^\ast A^\ast Av_i \\ \~ & \lt mi/> =v_i^\ast (A^\ast A)v_i \overset{(1)}{=}v_i^\ast \lambda_i v_i \overset{(2)}{=}\lambda_i v_i^\ast v_i \overset{(3)}{=}\lambda_i,
+v_i
+A^\ast A,
+v_i
+A^\ast A
+\sigma_i =\sqrt{\lambda_i} .
+\sigma_i
+A
+\sigma_i = \Vert Av_i \Vert .
+\sigma_1 \ge \sigma_2 \ge \cdots \ge \sigma_n \ge 0.
+\sigma_1, \ldots, \sigma_r >0,
+\sigma_i =0
+i >r .
+r =rankA
+r =n
+rankA =n .
+A
+rankA =rankA^\ast A,
+r =rankA^\ast A .
+\{v_1, \ldots, v_n \}
+\mathbb C^n
+A^\ast A .
+A^\ast A
+\{A^\ast Av_1, \ldots, A^\ast Av_n \},
+A^\ast Av_i =0
+i >r,
+(n -r)
+r .
+\{A^\ast Av_1, \ldots, A^\ast Av_r \}
+r .
+\sum_{i =1}^r \alpha_i A^\ast Av_i =0.
+v_i
+A^\ast A,
+\sum_{i =1}^r \alpha_i \lambda_i v_i =0,
+v_i
+\alpha_i \lambda_i =0.
+\lambda_i >0
+i =1, \ldots, r,
+\alpha_i =0,
+r =rankA
+\sigma_i = \Vert Av_i \Vert,
+Av_i =0
+i >r .
+r
+\{Av_1, \ldots, Av_r \} .
+\{v_1, \ldots, v_n \}
+j \not= k
+v_j
+\lambda_k v_k
+\langle Av_k, Av_j \rangle =(Av_j)^\ast (Av_k) =v_j^\ast A^\ast Av_k =v_j^\ast (\lambda_k v_k) =\lambda_k \langle v_k, v_j \rangle =0,
+\{v_1, \ldots, v_n \}
+\mathbb C^n
+A^\ast A
+\lambda_1 \ge \cdots \ge \lambda_n .
+A
+r
+\{Av_1, \ldots, Av_r \}
+A,
+rankA =r .
+A \in M_{m \times n} (\mathbb C)
+r
+\sigma_1 \ge \cdots \ge \sigma_n .
+m \times n
+\Sigma = \begin{bmatrix} D & \mathbf 0 \\ \mathbf 0 & \mathbf 0 \end{bmatrix} \~where\~D = \begin{bmatrix} \sigma_1 & \~ & 0 \\ \~ & \ddots \\ 0 & \~ & \sigma_r \end{bmatrix}
+U \in M_m (\mathbb C)
+V \in M_n (\mathbb C),
+A =U\Sigma V^\ast .
+A,
+\mathbb C^n,
+\{v_1, \ldots, v_n \},
+A^\ast A
+\lambda_1 \ge \cdots \ge \lambda_n .
+V =[v_1 v_2 \cdots v_n]
+v_i
+\{Av_1, \ldots .Av_r \}
+A
+\sigma_i = \Vert Av_i \Vert,
+u_i =\frac{1}{\sigma_i}Av_i, i =1, \ldots, r .
+\{u_1, \ldots, u_r \}
+A
+\{u_1, \ldots, u_m \}
+\mathbb C^m .
+U
+u_i .
+A =U\Sigma V^\ast
+\Sigma = \begin{bmatrix} D & \mathbf 0 \\ \mathbf 0 & \mathbf 0 \end{bmatrix} \~and\~D = \begin{bmatrix} \sigma_1 & \~ & 0 \\ \~ & \ddots \\ 0 & \~ & \sigma_r \end{bmatrix} .
+AV =[Av_1 \cdots Av_n] =[Av_1 \cdots Av_r \mathbf 0 \cdots \mathbf 0] =[\sigma_1 u_1 \cdots \sigma_r u_r \mathbf 0 \cdots \mathbf 0]
+U\Sigma =[u_1, \ldots u_m] = \begin{bmatrix} \sigma_1 & \~ & 0 \\ \~ & \ddots \\ 0 & \~ & \sigma_r & \mathbf 0 \\ \mathbf 0 & \mathbf 0 \end{bmatrix} =[\sigma_1 u_1 \ldots \sigma_r u_r \mathbf 0 \ldots \mathbf 0]
+AV =U\Sigma,
+V
+V^{ -1} =V^\ast
+A =U\Sigma V^\ast .
+A \colon
+(5.5.1) & A =U\Sigma V^\ast =\sigma_1 u_1 v_1^\ast +\cdots +\sigma_r u_r v_r^\ast .
+\{v_1, \ldots, v_n \}
+\mathbb C^n,
+\sigma_i = \Vert Av_i \Vert,
+i \le r =rankA
+u_= \frac{1}{\sigma_i}v_i .
+\{u_1, \ldots, u_r \}
+\mathbb C^m
+\mathbb C^m .
+Av_i =\{\sigma_i u_i & \~if\~1 \le i \le r \\ 0 & \~if\~i >r . \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/> .
+A
+A^\ast .
+\sigma_i,
+A^\ast u_i =\{\sigma_i v_i & \~if\~1 \le i \le r \\ 0 & \~if\~i >r . \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/> .
+U, V
+u_{r +1}, \ldots, u_m
+\mathbb C^m
+u_1, \ldots, u_r .
+A = \begin{bmatrix} 7 & 1 \\ 5 & 5 \\ 0 & 0 \end{bmatrix} .
+A
+3 \times 2
+A = \begin{bmatrix} 7 & 1 \\ 5 & 5 \\ 0 & 0 \end{bmatrix} .
+A^\ast A =A^T A
+2 \times 2,
+m =3
+n =2.
+A
+r =2,
+r =n =2,
+\Sigma
+n -r
+A^\ast A = \begin{bmatrix} 74 & 32 \\ 32 & 26 \end{bmatrix}
+\chi_A =(x -10)(x -90) .
+\sigma_1 =\sqrt{90} \ge \sigma_2 =\sqrt{10} .
+\Sigma
+\Sigma = \begin{bmatrix} 3\sqrt{10} & 0 \\ 0 & \sqrt{10} \\ 0 & 0 \end{bmatrix} .
+v_1, v_2
+\mathbb C^2 .
+A^\ast A
+A^\ast A -\lambda_i I_2,
+Eigenvectors =\{ \begin{bmatrix} 2 \\ 1 \end{bmatrix}, \begin{bmatrix} -1 \\ 2 \end{bmatrix} \} \mapsto \{v_1, v_2 \} =\{ \begin{bmatrix} 2/\sqrt{5} \\ 1/\sqrt{5} \end{bmatrix}, \begin{bmatrix} -1/\sqrt{5} \\ 2/\sqrt{5} \end{bmatrix} \} .
+So,\~V = \begin{bmatrix} 2/\sqrt{5} & -1/\sqrt{5} \\ 1/\sqrt{5} & 2/\sqrt{5} \end{bmatrix} .
+U,
+Av_1 & \lt mi/> = \begin{bmatrix} 7 & 1 \\ 5 & 5 \\ 0 & 0 \end{bmatrix} \begin{bmatrix} 2 \\ 1 \end{bmatrix} = \begin{bmatrix} 15 \\ 15 \\ 0 \end{bmatrix} \mapsto u_1 = \begin{bmatrix} 1/\sqrt{2} \\ 1/\sqrt{2} \\ 0 \end{bmatrix}, \\ Av_2 & \lt mi/> = \begin{bmatrix} 7 & 1 \\ 5 & 5 \\ 0 & 0 \end{bmatrix} \begin{bmatrix} -1 \\ 2 \end{bmatrix} = \begin{bmatrix} -5 \\ 5 \\ 0 \end{bmatrix} \mapsto u_2 = \begin{bmatrix} -1/\sqrt{2} \\ 1/\sqrt{2} \\ 0 \end{bmatrix} .
+\{u_1, u_2 \}
+\mathbb C^3,
+\{u_1, u_2, u_3 \} =\{ \begin{bmatrix} 1/\sqrt{2} \\ 1/\sqrt{2} \\ 0 \end{bmatrix}, \begin{bmatrix} -1/\sqrt{2} \\ 1/\sqrt{2} \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix} \} .
+U = \begin{bmatrix} 1/\sqrt{2} & -1/\sqrt{2} & 0 \\ 1/\sqrt{2} & 1/\sqrt{2} & 0 \\ 0 & 0 & 1 \end{bmatrix},
+V = \begin{bmatrix} 2/\sqrt{5} & -1/\sqrt{5} \\ 1/\sqrt{5} & 2/\sqrt{5} \end{bmatrix},
+\Sigma = \begin{bmatrix} 3\sqrt{10} & 0 \\ 0 & \sqrt{10} \\ 0 & 0 \end{bmatrix},
+A = \begin{bmatrix} 7 & 1 \\ 5 & 5 \\ 0 & 0 \end{bmatrix} =U\Sigma V^\ast
+= \begin{bmatrix} 1/\sqrt{2} & -1/\sqrt{2} & 0 \\ 1/\sqrt{2} & 1/\sqrt{2} & 0 \\ 0 & 0 & 1 \end{bmatrix} \begin{bmatrix} 3\sqrt{10} & 0 \\ 0 & \sqrt{10} \\ 0 & 0 \end{bmatrix} \begin{bmatrix} 2/\sqrt{5} & 1/\sqrt{5} \\ -1/\sqrt{5} & 2/\sqrt{5} \end{bmatrix} .
+A = \begin{bmatrix} 7 & 1 \\ 5 & 5 \\ 0 & 0 \end{bmatrix} = \begin{bmatrix} 1/\sqrt{2} & -1/\sqrt{2} & 0 \\ 1/\sqrt{2} & 1/\sqrt{2} & 0 \\ 0 & 0 & 1 \end{bmatrix} \begin{bmatrix} 3\sqrt{10} & 0 \\ 0 & \sqrt{10} \\ 0 & 0 \end{bmatrix} \begin{bmatrix} 2/\sqrt{5} & 1/\sqrt{5} \\ -1/\sqrt{5} & 2/\sqrt{5} \end{bmatrix},
+A & \lt mi/> =U\Sigma V^\ast =\sigma_1 u_1 v_1^\ast +\cdots +\sigma_r u_r v_r^\ast \\ \~ & \lt mi/> =\sqrt{90} \begin{bmatrix} 1/\sqrt{2} \\ 1/\sqrt{2} \\ 0 \end{bmatrix} \begin{bmatrix} 2/\sqrt{5} & 1/\sqrt{5} \end{bmatrix} +\sqrt{10} \begin{bmatrix} -1/\sqrt{2} \\ 1/\sqrt{2} \\ 0 \end{bmatrix} \begin{bmatrix} -1/\sqrt{5} & 2/\sqrt{5} \end{bmatrix} \\ \~ & \lt mi/> =\sqrt{90} \begin{bmatrix} 2/\sqrt{10} & 1/\sqrt{10} \\ 2/\sqrt{10} & 1/\sqrt{10} \\ 0 & 0 \end{bmatrix} +\sqrt{10} \begin{bmatrix} 1/\sqrt{10} & -2/\sqrt{10} \\ -1/\sqrt{10} & 2/\sqrt{10} \\ 0 & 0 \end{bmatrix} \\ \~ & \lt mi/> = \begin{bmatrix} 6 & 3 \\ 6 & 3 \\ 0 & 0 \end{bmatrix} + \begin{bmatrix} 1 & -2 \\ -1 & 2 \\ 0 & 0 \end{bmatrix} = \begin{bmatrix} 7 & 1 \\ 5 & 5 \\ 0 & 0 \end{bmatrix} .
+m \times n
+A =U\Sigma V^\ast,
+U, V
+A
+\Sigma
+A .
+A^\ast A
+n \times n
+A
+\{v_1, \ldots, v_n \}
+A^\ast A
+\lambda_1 \ge \cdots \ge \lambda_n .
+V
+v_i .
+\begin{bmatrix} \lambda_1 \\ \~ & \ddots \\ \~ & \~ & \lambda_n \end{bmatrix} =V^\ast (A^\ast A)V .
+A^\ast A,
+\lambda,
+\lambda
+(A^\ast A -\lambda I_n)
+\sigma_i =\sqrt{\lambda_i}
+\sigma_1 \ge \cdots \ge \sigma_r >0,
+\sigma_{r +1} =\cdots =\sigma_n =0,
+r
+n .
+\{Av_1, \ldots, Av_r \}
+A,
+r =rankA .
+u_i =\frac{1}{\sigma_i}Av_i
+\{u_1, \ldots, u_r, \ldots, u_m \}
+\mathbb C^m .
+U =[u_1 \ldots u_m],
+u_i
+A =U\Sigma V^\ast =U \begin{bmatrix} \sigma_1 & \~ & 0 \\ \~ & \ddots \\ 0 & \~ & \sigma_r & \mathbf 0_{r \times (n -r)} \\ \mathbf 0_{(m -r) \times r} & \mathbf 0_{(m -r) \times (n -r)} \end{bmatrix} V^\ast .
+A
+AA^\ast
+A
+m \times n .
+A^\ast A
+n \times n
+AA^\ast
+m \times m,
+m
+n
+A^\ast A,
+AA^\ast
+A^\ast A,
+A =U\Sigma V^\ast =U \begin{bmatrix} \sigma_1 & \~ & 0 \\ \~ & \ddots \\ 0 & \~ & \sigma_r & \mathbf 0_{r \times (n -r)} \\ \mathbf 0_{(m -r) \times r} & \mathbf 0_{(m -r) \times (n -r)} \end{bmatrix} V^\ast,
+U, V
+A^\ast =V\Sigma^\ast U^\ast =V \begin{bmatrix} \sigma_1 & \~ & 0 \\ \~ & \ddots \\ 0 & \~ & \sigma_r & \mathbf 0_{r \times (m -r)} \\ \mathbf 0_{(n -r) \times r} & \mathbf 0_{(n -r) \times (m -r)} \end{bmatrix} U^\ast
+r \times r
+\Sigma^\ast
+\Sigma
+\Sigma
+A^\ast A
+AA^\ast
+\Sigma
+\Sigma^\ast
+A^\ast A
+AA^\ast .
+U
+V
+A^\ast =V\Sigma^\ast U^\ast
+A^\ast .
+B =A^\ast
+B,
+B^\ast B =AA^\ast,
+B =A^\ast =U_1 \Sigma_1 V_1^\ast .
+A =V_1 \Sigma_1^\ast U_1^\ast,
+A .
+2 \times 3
+A = \begin{bmatrix} 1 & 2 & 3 \\ 3 & 2 & 1 \end{bmatrix},
+A^\ast A
+3 \times 3
+AA^\ast
+2 \times 2.
+AA^\ast
+B =A^\ast
+B^\ast B =AA^\ast = \begin{bmatrix} 14 & 10 \\ 10 & 14 \end{bmatrix},
+\begin{vmatrix} 14 -x & 10 \\ 10 & 14 -x \end{vmatrix} =(14 -x)^2 -100 =(x -4)(x -24) .
+\lambda_1 =24 \ge \lambda_2 =4, \~(and)\~\sigma_1 =2\sqrt{6} \ge \sigma_2 =2
+r =2.
+\begin{bmatrix} 1 \\ 1 \end{bmatrix} \~and\~ \begin{bmatrix} 1 \\ -1 \end{bmatrix}
+v_1 =\frac{1}{\sqrt{2}} \begin{bmatrix} 1 \\ 1 \end{bmatrix} \~and\~v_2 =\frac{1}{\sqrt{2}} \begin{bmatrix} 1 \\ -1 \end{bmatrix} .
+u_1 =\frac{1}{\sigma_1}Bv_1 =\frac{1}{\sqrt{3}} \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix} \~and\~u_2 =\frac{1}{\sigma_2}Bv_2 =\frac{1}{\sqrt{2}} \begin{bmatrix} -1 \\ 0 \\ 1 \end{bmatrix},
+\mathbb C^3
+u_3 =\frac{1}{\sqrt{6}} \begin{bmatrix} 1 \\ -2 \\ 1 \end{bmatrix} .
+U =\frac{1}{\sqrt{6}} \begin{bmatrix} \sqrt{2} & -\sqrt{3} & 1 \\ \sqrt{2} & 0 & -2 \\ \sqrt{2} & \sqrt{3} & 1 \end{bmatrix} \~and\~V =\frac{1}{\sqrt{2}} \begin{bmatrix} 1 & 1 \\ 1 & -1 \end{bmatrix},
+B =U \begin{bmatrix} 2\sqrt{6} & 0 \\ 0 & 2 \\ 0 & 0 \end{bmatrix} V^\ast =\frac{1}{\sqrt{6}} \begin{bmatrix} \sqrt{2} & -\sqrt{3} & 1 \\ \sqrt{2} & 0 & -2 \\ \sqrt{2} & \sqrt{3} & 1 \end{bmatrix} \begin{bmatrix} 2\sqrt{6} & 0 \\ 0 & 2 \\ 0 & 0 \end{bmatrix} \frac{1}{\sqrt{2}} \begin{bmatrix} 1 & 1 \\ 1 & -1 \end{bmatrix},
+A =B^\ast =V\Sigma^\ast U^\ast =\frac{1}{\sqrt{2}} \begin{bmatrix} 1 & 1 \\ 1 & -1 \end{bmatrix} \begin{bmatrix} 2\sqrt{6} & 0 & 0 \\ 0 & 2 & 0 \end{bmatrix} \frac{1}{\sqrt{6}} \begin{bmatrix} \sqrt{2} & \sqrt{2} & \sqrt{2} \\ -\sqrt{3} & 0 & \sqrt{3} \\ 1 & -2 & 1 \end{bmatrix} .
+A = \begin{bmatrix} 1 & 2 & 3 \\ 3 & 2 & 1 \end{bmatrix}
+A^\ast = \begin{bmatrix} 1 & 3 \\ 2 & 2 \\ 3 & 1 \end{bmatrix}
+B =A^\ast,
+B .
+C =B^\ast B,
+B^\ast B,
+V .
+V
+U
+v_i
+Bv_i
+\sigma_i =\sqrt{\lambda_i} .
+B
+\begin{bmatrix} 1 \\ 1 \end{bmatrix}
+\lambda_1 =24,
+\begin{bmatrix} 1 \\ -1 \end{bmatrix}
+\lambda_2 =4,
+B
+\mathbb C^3 .
+Bv_1 = \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix}
+Bv_2 = \begin{bmatrix} -1 \\ 0 \\ 1 \end{bmatrix} .
+U,
+(U, \Sigma, V) .
+A
+2 \times 3
+A
+A =U\Sigma V^\ast = \begin{bmatrix} 1/\sqrt{2} & 1/\sqrt{2} \\ 1/\sqrt{2} & -1/\sqrt{2} \end{bmatrix} \begin{bmatrix} \sqrt{6} & 0 & 0 \\ 0 & 0 & 0 \end{bmatrix} \begin{bmatrix} 1/\sqrt{3} & 1/\sqrt{3} & -1/\sqrt{3} \\ 1/\sqrt{2} & -1/\sqrt{2} & 0 \\ 1/\sqrt{6} & 1/\sqrt{6} & 2/\sqrt{6} \end{bmatrix} .
+A ?
+r
+rankA =1.
+A ?
+\{Av_1, \ldots, Av_r \}
+A,
+u_1, \ldots, u_r,
+r
+U .
+r =1,
+\{u_1 \} =\{ \begin{bmatrix} 1/\sqrt{2} \\ 1/\sqrt{2} \end{bmatrix} \}
+A ?
+A
+2 \times 3,
+L_A
+L_A (x) =Ax
+\mathbb C^3 \to \mathbb C^2 .
+nullityA =2,
+Av_2 =Av_3 =0,
+\{v_2, v_3 \}
+A
+2216 \times 1463,
+A
+A,
+A =U\Sigma V^\ast =\sigma_1 u_1 v_1^\ast +\sigma_2 u_2 v_2^\ast +\cdots +\sigma_r u_r v_r^\ast .
+\sigma_1 \ge \sigma_2 \ge \cdots,
+\sigma_i u_i v_i^\ast
+m \times n
+A
+r =1463,
+m \times n
+A
+r,
+A =U\Sigma V^\ast \colon
+(5.5.2) & [\underset{ColA}{\underset{\underbrace}{u_1 \cdots u_r}}\underset{\ker A^\ast}{\underset{\underbrace}{u_{r +1} \cdots u_m}}] \begin{bmatrix} \sigma_1 & \~ & 0 \\ \~ & \ddots \\ 0 & \~ & \sigma_r & \mathbf 0 \\ \mathbf 0 & \mathbf 0 \end{bmatrix} \begin{bmatrix} v_1^\ast \\ \vdots \\ v_r^\ast \\ v_{r +1}^\ast \\ \vdots \\ v_n^\ast \end{bmatrix} \lt mo\space data-mjx-texclass="OPEN"\space fence="true"\space stretchy="true"\space symmetric="true"/>\}ColA^\ast \\ \lt mo\space data-mjx-texclass="OPEN"\space fence="true"\space stretchy="true"\space symmetric="true"/>\}\ker A
+\{u_1, \ldots, u_m \}
+\mathbb C^m
+\{u_1, \ldots, u_r \}
+ColA,
+A .
+\{u_{r +1}, \ldots, u_m \}
+(ColA)^\perp =\ker A^\ast
+\mathbb C^m =ColA \boxplus (ColA)^\perp,
+m =\dim \mathbb C^m =\dim ColA +\dim (ColA)^\perp,
+\dim (ColA)^\perp =m -r,
+\{u_{r +1}, \ldots, u_m \}
+(ColA)^\perp =\ker A^\ast .
+\Vert Av_i \Vert =\sigma_i \~for\~i =1, \ldots, n,
+r,
+Av_{r +1} =\cdots =Av_n =0.
+rankA =r,
+nullityA =n -r
+\{v_{r +1}, \ldots, v_n \}
+\ker A .
+\{v_1, \ldots, v_r \}
+(\ker A)^\perp =ColA^\ast .
+A
+ColA^\ast =ColA^T =RowA .
+A
+A^\ast,
+A^\ast
+A .
+A =U\Sigma V^\ast,
+\{v_1, \ldots, v_n \}
+A^\ast A
+\lambda_i =\sigma_i^2 .
+\Vert Av_i \Vert =\sigma_i,
+u_i =\frac{1}{\sigma_i}Av_i
+i =1, \ldots, r,
+\{u_1, \ldots, u_m \}
+\mathbb C^m .
+u_i =\frac{1}{\sigma_i}Av_i
+Av_i =\sigma_i u_i .
+A^\ast u_i
+A^\ast u_i =\frac{1}{\sigma_i}A^\ast (Av_i) =\frac{1}{\sigma_i}(A^\ast A)v_i =\frac{1}{\sigma_i}\lambda_i v_i =\sigma_i v_i .
+Av_i =\sigma_i u_i \~and\~A^\ast u_i =\sigma_i v_i \~for\~i =1, \ldots, r .
+A =U\Sigma V^\ast,
+U
+A,
+V
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+B = \begin{bmatrix} 1 & 4 & -7 \\ -3 & -11 & 19 \\ -1 & -9 & 18 \end{bmatrix}
+B^{ -1} = \begin{bmatrix} -27 & -9 & -1 \\ 35 & 11 & 2 \\ 16 & 5 & 1 \end{bmatrix} .
+B
+\mathbb R^3 \colon
+\mscrB =\{ \begin{bmatrix} 1 \\ -3 \\ -1 \end{bmatrix}, \begin{bmatrix} 4 \\ -11 \\ -9 \end{bmatrix}, \begin{bmatrix} -7 \\ 19 \\ 18 \end{bmatrix} \} .
+\mscrE
+\mathbb R^3 .
+v \in \mathbb R^3
+[v]_\mscrB = \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix} .
+[v]_\mscrE .
+B
+[I]_\mscrB^\mscrE
+[v]_\mscrE =[I]_\mscrB^\mscrE [v]_\mscrB = \begin{bmatrix} 1 & 4 & -7 \\ -3 & -11 & 19 \\ -1 & -9 & 18 \end{bmatrix} \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix} = \begin{bmatrix} -12 \\ 32 \\ 35 \end{bmatrix}
+T \colon \mathbb R^3 \to \mathbb R^3
+T(x) =Ax
+A =[T]_\mscrE = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{bmatrix} .
+[T]_\mscrB .
+[T]_\mscrB =[I]_\mscrE^\mscrB [T]_\mscrE [I]_\mscrB^\mscrE =B^{ -1} AB .
+W
+M_2 (\mathbb R)
+S,
+S =\{ \begin{bmatrix} 0 & -1 \\ -1 & 1 \end{bmatrix}, \begin{bmatrix} 1 & 2 \\ 2 & 3 \end{bmatrix}, \begin{bmatrix} 2 & 1 \\ 1 & 9 \end{bmatrix}, \begin{bmatrix} 1 & -2 \\ -2 & 4 \end{bmatrix} \} .
+\mscrB =\{E_{11}, E_{12}, E_{21}, E_{22} \}
+M_2 (\mathbb R)
+S
+\mscrB .
+\begin{bmatrix} 0 & 1 & 2 & 1 \\ -1 & 2 & 1 & -2 \\ -1 & 2 & 1 & -2 \\ 1 & 3 & 9 & 4 \end{bmatrix} .
+W .
+A & \lt mi/> \mapsto \begin{bmatrix} 0 & 1 & 2 & 1 \\ -1 & 2 & 1 & -2 \\ 1 & 3 & 9 & 4 \\ 0 & 0 & 0 & 0 \end{bmatrix} \mapsto \begin{bmatrix} 1 & 3 & 9 & 4 \\ 0 & 1 & 2 & 1 \\ -1 & 2 & 1 & -2 \\ 0 & 0 & 0 & 0 \end{bmatrix} \\ \~ & \lt mi/> \mapsto \begin{bmatrix} 1 & 3 & 9 & 4 \\ 0 & 1 & 2 & 1 \\ 0 & 5 & 10 & 2 \\ 0 & 0 & 0 & 0 \end{bmatrix} \mapsto \begin{bmatrix} 1 & 3 & 9 & 4 \\ 0 & 1 & 2 & 1 \\ 0 & 0 & 0 & -3 \\ 0 & 0 & 0 & 0 \end{bmatrix} .
+S
+W .
+A = \begin{bmatrix} 1 & 2 & 3 \\ 1 & 2 & 3 \\ 1 & 2 & 3 \end{bmatrix} .
+A .
+3 -1 =2.
+A \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix},
+A
+A \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix} = \begin{bmatrix} 6 \\ 6 \\ 6 \end{bmatrix} =6 \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix},
+A,
+\begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix}
+A
+\mathbb R^3
+A
+\chi_A (x) =x^2 (x -6) .
+P
+\begin{bmatrix} 6 & 0 & 0 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{bmatrix} =P^{ -1} AP .
+\begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix}
+P .
+A .
+A
+R = \begin{bmatrix} 1 & 2 & 3 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{bmatrix},
+\begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix} = \begin{bmatrix} -2x_2 -3x_3 \\ x_2 \\ x_3 \end{bmatrix} =x_2 \begin{bmatrix} -2 \\ 1 \\ 0 \end{bmatrix} +x_3 \begin{bmatrix} -3 \\ 0 \\ 1 \end{bmatrix} .
+P .
+P
+P = \begin{bmatrix} 1 & -2 & -3 \\ 1 & 1 & 0 \\ 1 & 0 & 1 \end{bmatrix} .
+\mscrE_1 =\{E_{11}, E_{12}, E_{21}, E_{22} \} =\{ \begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 \\ 1 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix} \}
+M_2 (\mathbb R),
+\mscrE_2 =\{1, x, x^2, x^3 \}
+\mathcal P_3 (\mathbb R) .
+T \colon M_2 (\mathbb R) \to \mathcal P_3 (\mathbb R)
+T( \begin{bmatrix} a & b \\ c & d \end{bmatrix}) =2a +(b -d)x -(a +c)x^2 +(a +b -c -d)x^3 .
+T
+[T]_{\mscrE_1}^{\mscrE_2} .
+[T]_{\mscrE_1}^{\mscrE_2}
+[T(E_{ij})]_{\mscrE_2},
+[T]_{\mscrE_1}^{\mscrE_2} = \begin{bmatrix} 2 & 0 & 0 & 0 \\ 0 & 1 & 0 & -1 \\ -1 & 0 & -1 & 0 \\ 1 & 1 & -1 & -1 \end{bmatrix} .
+T .
+T .
+[T]_{\mscrE_1}^{\mscrE_2}
+P_3 (\mathbb R),
+\{2 -x^2 +x^3, x +x^3, -x^2 -x^3 \} .
+T .
+T( \begin{bmatrix} a & b \\ c & d \end{bmatrix}) =2a +(b -d)x -(a +c)x^2 +(a +b -c -d)x^3,
+a =c =0, \~and\~b =d,
+\begin{bmatrix} 0 & 1 \\ 0 & 1 \end{bmatrix}
+V
+\mscrB =\{v_1, \ldots, v_4 \} .
+T(v_1) =v_2, T(v_2) =v_3, T(v_3) =v_4, T(v_4) =av_1 +bv_2 +cv_3 +dv_4 .
+T
+\mscrB ?
+[T]_\mscrB = \begin{bmatrix} 0 & 0 & 0 & a \\ 1 & 0 & 0 & b \\ 0 & 1 & 0 & c \\ 0 & 0 & 1 & d \end{bmatrix} .
+a, b, c, d
+T
+T,
+-a,
+T
+a \not= 0.
+b, c, d
+T
+a, b, c, d ?
+\begin{bmatrix} 1 & 0 & 0 & b \\ 0 & 1 & 0 & c \\ 0 & 0 & 1 & d \\ 0 & 0 & 0 & a \end{bmatrix}
+a =0,
+T \colon M_{m \times n} (\mathbb R) \to \mathbb R^m
+A =[a_{ij}] \in M_{m \times n} (\mathbb R),
+T(A) = \begin{bmatrix} b_1 \\ b_2 \\ \vdots \\ b_m \end{bmatrix}
+b_k =\sum_{j =1}^n a_{kj},
+b_k
+k
+A .
+T
+T .
+m =2
+n =3.
+\{E_{ij} \}
+M_{m \times n} (\mathbb R),
+T(E_{k1}) =e_k
+\{e_1, \ldots, e_m \}
+\mathbb R^m .
+\mathbb R^m
+T,
+m .
+nm -m .
+m =2,
+n =3
+T .
+\{ \begin{bmatrix} 1 & 0 & -1 \\ 0 & 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 1 & -1 \\ 0 & 0 & 0 \end{bmatrix}, \begin{bmatrix} 0 & 0 & 0 \\ 1 & 0 & -1 \end{bmatrix}, \begin{bmatrix} 0 & 0 & 0 \\ 0 & 1 & -1 \end{bmatrix} \}
+F^n .
+V =P_3 (\mathbb R),
+S =\{p_1 =1 +2x +3x^2 +3x^3, p_2 =5 +6x +7x^2 +8x^3, p_3 =9 +10x +11x^2 +12x^3, p_4 =13 +14x +15x^2 +16x^3 \}
+S
+V,
+\mathbb R^n ?
+P_3 (\mathbb R)
+\mathbb R^4,
+\mscrB =\{1, x, x^2, x^3 \}
+V =P_3 (\mathbb R) .
+T(v) =[v]_\mscrB
+v
+S
+S .
+S
+A
+R \colon
+A = \begin{bmatrix} 1 & 2 & 3 & 4 \\ 5 & 6 & 7 & 8 \\ 9 & 10 & 11 & 12 \\ 13 & 14 & 15 & 16 \end{bmatrix} \mapsto R = \begin{bmatrix} 1 & 0 & -1 & -2 \\ 0 & 1 & 2 & 3 \\ 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 \end{bmatrix}
+S_0 =\{p_1, p_2 \}
+p_3 = -p_1 +2p_2 \~and\~p_4 = -2p_1 +3p_2 .
+P_3 (\mathbb R) .
+p_1
+p_2
+\{p_1, p_2, 1, x, x^2, x^3 \}
+B
+\begin{bmatrix} 1 & 5 & 1 & 0 & 0 & 0 \\ 2 & 6 & 0 & 1 & 0 & 0 \\ 3 & 7 & 0 & 0 & 1 & 0 \\ 4 & 8 & 0 & 0 & 0 & 1 \end{bmatrix} \mapsto \begin{bmatrix} 1 & 0 & 0 & 0 & -2 & \frac{7}{4} \\ 0 & 1 & 0 & 0 & 1 & -\frac{3}{4} \\ 0 & 0 & 1 & 0 & -3 & 2 \\ 0 & 0 & 0 & 1 & -2 & 1 \end{bmatrix}
+\{p_1, p_2, 1, x\}
+A \in M_5 (\mathbb R)
+A = \begin{bmatrix} -1 & 0 & \~ \\ \alpha & 2 \\ \~ & \~ & 3 & 0 & 0 \\ \~ & \~ & \beta & 3 & 0 \\ \~ & \~ & 0 & \gamma & 3 \end{bmatrix} .
+\alpha, \beta, \gamma
+A
+\chi_A =(x +1)(x -2)(x -3)^3 .
+\lambda = -1, 2
+\lambda =3 .
+A -3I = \begin{bmatrix} -4 & 0 & \~ \\ \alpha & -1 \\ \~ & \~ & 0 & 0 & 0 \\ \~ & \~ & \beta & 0 & 0 \\ \~ & \~ & 0 & \gamma & 0 \end{bmatrix} .
+A -3I
+\alpha
+\beta
+\gamma
+\alpha
+\beta
+\gamma
+A = \begin{bmatrix} 3 & 0 & 0 \\ 6 & -1 & 6 \\ 1 & 0 & 2 \end{bmatrix} \in M_3 (\mathbb R) .
+A .
+\chi_A =\det (xI -A) =\det ( \begin{bmatrix} x -3 & 0 & 0 \\ -6 & x +1 & -6 \\ -1 & 0 & x -2 \end{bmatrix}) .
+\chi_A =(x -3)(x -2)(x +1) .
+A
+\det A = -6 \not= 0,
+A
+A
+\mathbb R^3 .
+A
+A
+\mathbb R^3,
+\mscrB =\{v_1, v_2, v_3 \}
+A,
+\mscrE
+\mathbb R^3 .
+T \colon \mathbb R^3 \to \mathbb R^3
+A =[T]_\mscrE .
+[T]_\mscrB .
+[T]_\mscrB =Q^{ -1} [T]_\mscrE Q,
+Q =[I]_\mscrB^\mscrE
+Q =[I]_\mscrB^\mscrE =A
+[T]_\mscrE =A
+[T]_\mscrB =Q^{ -1} [T]_\mscrE Q =A^{ -1} AA =A .
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+V
+F,
+W
+V
+\mathbb R^3 ?
+\mathbb R^3,
+\mathbb R^3,
+\mathbb R^3 .
+W =\{(x, y, z) \in \mathbb R^3 \mid x +y +z =1\} .
+(0, 0, 0) \notin W,
+\~ & \lt mi/>(1, 0, 0), (0, 1, 0) \in W\~but\~(1, 1, 0) \notin W, \\ \~ & \lt mi/>(1, 0, 0) \in W\~but\~\lambda (1, 0, 0) \notin W\~unless\~\lambda =1.
+\mathbb R^2
+\mathbb R^3 ?
+\mathbb R^2
+\mathbb R^3
+\mathbb R .
+\mathbb R^2 \subseteq \mathbb R^3 .
+xy
+\mathbb R^3 !
+\mathbb R^2
+\mathbb R^2
+\mathbb R^3
+xy
+xy
+\mathbb R^3
+W =\{(x, y, z) \in \mathbb R^3 \mid z =0\} .
+W \subset \mathbb R^3,
+yz
+xz
+\mathbb R^3 .
+\mathbb R^2 .
+T \colon \mathbb R^2 \to W \subset \mathbb R^3
+T((x, y)) =(x, y, 0) .
+\mathbb R^2
+\mathbb R^3
+F^n
+n \ge 1.
+F
+F =\mathbb Q, \mathbb R,
+\mathbb C,
+A \in M_{m \times n} (F) .
+A
+F^n,
+F^m .
+m \times n
+V
+S, T
+V .
+\~ & If\~S \subseteq Span(T), \~then\~Span(S) \subseteq Span(T), \~and\space so, \\ \~ & Span(S) =Span(T) \iff S \subseteq Span(T)\~and\~T \subseteq Span(S) .
+V =\mathbb R^3,
+S =\{ \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix} \},
+T =\{ \begin{bmatrix} 5 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 5 \\ 6 \\ 0 \end{bmatrix}, \begin{bmatrix} 5 \\ 6 \\ 7 \end{bmatrix} \} .
+V =Span(S),
+T \subset Span(S) .
+S \subset Span(T)
+Span(T)
+V,
+\begin{bmatrix} 0 \\ 6 \\ 0 \end{bmatrix} = \begin{bmatrix} 5 \\ 6 \\ 0 \end{bmatrix} - \begin{bmatrix} 5 \\ 0 \\ 0 \end{bmatrix}
+\begin{bmatrix} 0 \\ 0 \\ 7 \end{bmatrix} = \begin{bmatrix} 5 \\ 6 \\ 7 \end{bmatrix} - \begin{bmatrix} 5 \\ 6 \\ 0 \end{bmatrix}
+Span(T) .
+S \subset Span(T),
+V =Span(S) =Span(T) .
+T =\{ \begin{bmatrix} 5 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 5 \\ 6 \\ 0 \end{bmatrix}, \begin{bmatrix} 5 \\ 6 \\ 7 \end{bmatrix}, \begin{bmatrix} 2 \\ 3 \\ 4 \end{bmatrix} \} .
+S, T
+T =\{2, 3 +x, 4 +5x +6x^2, 7 +8x +9x^2 +10x^3 \}
+P_3 (\mathbb Q) ?
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+V
+F,
+S
+V,
+S
+S
+V
+S_0 \subsetneq S
+Span(S_0) =Span(S) .
+S
+W =Span(S),
+S
+S
+S_0
+W =Span(S_0) .
+V,
+V
+V .
+S
+V,
+W =Span(S) .
+W \not= V
+W
+V
+v_0 \in V \setminus W
+V
+W
+S' =S \cup \{v_0 \}
+V .
+S
+S \cup \{v_0 \}
+v_0 \in Span(S)
+V
+V .
+V,
+\dim V =n .
+V
+n,
+S \subset V .
+S
+\#S \le n,
+\#S \lt n,
+S
+V,
+T
+V,
+S \cup T
+V .
+\#S >n,
+S
+S_0 \subsetneq S
+Span(S_0) =Span(S) .
+V
+V,
+V
+n .
+n
+V
+V .
+n
+V
+V
+V .
+n
+V
+n
+n +1
+n
+V
+A
+m \times n
+A
+F^n .
+F^m .
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+M = \begin{bmatrix} 0 & 0 & 0 & 1 & 2 \\ 1 & -5 & -1 & 0 & -3 \\ -2 & 10 & 3 & 5 & 17 \\ -2 & 10 & 3 & 2 & 11 \end{bmatrix}
+Ax =b,
+R = \begin{bmatrix} 1 & -5 & 0 & 0 & -2 \\ 0 & 0 & 1 & 0 & 1 \\ 0 & 0 & 0 & 1 & 2 \\ 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+M =[A|b]
+4 \times 5
+R = \begin{bmatrix} \boxed{1} & -5 & 0 & 0 & -2 \\ 0 & 0 & \boxed{1} & 0 & 1 \\ 0 & 0 & 0 & \boxed{1} & 2 \\ 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+x_1, x_3
+x_4
+x_2
+\{x_1 = -2 +5x_2 \\ x_2 \~is\space free \\ x_3 =1 \\ x_4 =2 \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+\begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \end{bmatrix} = \begin{bmatrix} -2 \\ 0 \\ 1 \\ 2 \end{bmatrix} +x_2 \begin{bmatrix} 5 \\ 1 \\ 0 \\ 0 \end{bmatrix} .
+Ax =0.
+M
+R .
+\{x_1 =5x_2 \\ x_2 \~is\space free \\ x_3 =0 \\ x_4 =0 \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+\begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \end{bmatrix} =x_2 \begin{bmatrix} 5 \\ 1 \\ 0 \\ 0 \end{bmatrix} .
+M = \begin{bmatrix} 1 & 4 & 3 & -5 & -11 & 10 \\ 0 & 0 & 1 & -1 & -3 & 3 \\ -1 & -4 & -5 & 7 & 17 & -16 \\ 1 & 4 & 2 & -4 & -8 & 7 \end{bmatrix}
+Ax =b,
+R = \begin{bmatrix} 1 & 4 & 0 & -2 & -2 & 1 \\ 0 & 0 & 1 & -1 & -3 & 3 \\ 0 & 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+M =[A|b]
+4 \times 6
+R = \begin{bmatrix} \boxed{1} & 4 & 0 & -2 & -2 & 1 \\ 0 & 0 & \boxed{1} & -1 & -3 & 3 \\ 0 & 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+x_1
+x_3
+x_2, x_4
+x_5
+\{x_1 & =1 -4x_2 +2x_4 +2x_5 \\ x_2 & is\space free \\ x_3 & =3 +x_4 +3x_5 \\ x_4 & is\space free \\ x_5 & is\space free \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+\begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \\ x_5 \end{bmatrix} = \begin{bmatrix} 1 \\ 0 \\ 3 \\ 0 \\ 0 \end{bmatrix} +x_2 \begin{bmatrix} -4 \\ 0 \\ 0 \\ 0 \\ 0 \end{bmatrix} +x_4 \begin{bmatrix} 2 \\ 0 \\ 1 \\ 0 \\ 0 \end{bmatrix} +x_5 \begin{bmatrix} 2 \\ 0 \\ 3 \\ 0 \\ 0 \end{bmatrix} .
+Ax =0.
+M
+R .
+\begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \\ x_5 \end{bmatrix} =x_2 \begin{bmatrix} -4 \\ 0 \\ 0 \\ 0 \\ 0 \end{bmatrix} +x_4 \begin{bmatrix} 2 \\ 0 \\ 1 \\ 0 \\ 0 \end{bmatrix} +x_5 \begin{bmatrix} 2 \\ 0 \\ 3 \\ 0 \\ 0 \end{bmatrix} .
+A = \begin{bmatrix} 1 & 2 & 3 \\ 3 & 6 & 9 \\ 5 & 10 & 15 \end{bmatrix} \~and\~b = \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix} .
+Ax =b
+Ax =b
+b
+A .
+A
+A
+b = \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix} =\lambda \begin{bmatrix} 1 \\ 3 \\ 5 \end{bmatrix} .
+\lambda =1,
+\lambda =2/3,
+[A|b] = \begin{bmatrix} 1 & 2 & 3 & 3 \\ 3 & 6 & 9 & 2 \\ 5 & 10 & 15 & 3 \end{bmatrix} \mapsto R = \begin{bmatrix} 1 & 2 & 3 & 0 \\ 0 & 0 & 0 & 1 \\ 0 & 0 & 0 & 0 \end{bmatrix} .
+A = \begin{bmatrix} 1 & 4 & 3 & -5 & -11 & 10 \\ 0 & 0 & 1 & -1 & -3 & 3 \\ -1 & -4 & -5 & 7 & 17 & -16 \\ 1 & 4 & 2 & -4 & -8 & 7 \end{bmatrix}
+R = \begin{bmatrix} 1 & 4 & 0 & -2 & -2 & 1 \\ 0 & 0 & 1 & -1 & -3 & 3 \\ 0 & 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+A ?
+A ?
+A
+A
+Ax =0
+Rx =0
+A
+a_i,
+R
+r_i,
+Ax =0 =x_1 a_1 +x_2 a_2 +\cdots +x_6 a_6 =x_1 r_1 +x_2 r_2 +\cdots +x_6 r_6 =Rx .
+R = \begin{bmatrix} 1 & 4 & 0 & -2 & -2 & 1 \\ 0 & 0 & 1 & -1 & -3 & 3 \\ 0 & 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+R,
+r_5 = -2r_1 -3r_3, \~giving\~ -2r_1 -3r_3 -r_5 =0.
+-2a_1 -3a_3 -a_5 =0\~giving\~a_5 = -2a_1 -3a_3 .
+A
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+A \in M_n (F)
+f(x) =a_m x^m +\cdots +a_0 \in F[x]
+f(A) =a_m A^m +\cdots +a_1 A +a_0 I_n =\mathbf 0,
+M_n (F)
+n^2,
+\{I_n, A, A^2, \ldots, A^{n^2} \}
+a_0, a_1, \ldots, a_{n^2} \in F,
+a_{n^2} A^{n^2} +\cdots +a_1 A +a_0 I_n =\mathbf 0,
+f(x) =a_{n^2} x^{n^2} +\cdots +a_0
+A .
+A \in M_n (F),
+J =\{f \in F[x] \mid f(A) =\mathbf 0 \} .
+J
+F[x],
+F
+F[x]
+J
+J = \langle \mu_A \rangle,
+\mu_A
+\mu_A
+A,
+J
+\mu_A .
+\mu_A
+A .
+f, g \in J,
+f(A) =g(A) =\mathbf 0,
+h(A) =0,
+h
+f
+g .
+f(A) =\mathbf 0,
+\mu_A
+f,
+f,
+\mu_A .
+A^8 =I_n
+A \in M_n (\mathbb Q)
+A^8 =I_n .
+f(x) =x^8 -1
+A,
+\mu_A
+\mathbb Q,
+x^8 -1 =\Phi_8 \Phi_4 \Phi_2 \Phi_1 =(x^4 +1)(x^2 +1)(x +1)(x -1),
+\Phi_d
+d
+\mathbb Q
+x^n -1 =\prod_{d \mid n} \Phi_d .
+\Phi_1 =(x -1),
+x^2 -1 =\Phi_1 \Phi_2,
+\Phi_2 =x +1,
+x^8 -1
+A \in M_n (F),
+n^2
+A,
+I_n, A, A^2, \ldots, A^{n^2}
+A .
+A \in M_n (F),
+\chi_A (x) =\det (xI_n -A)
+\chi_A (A) =\mathbf 0,
+\chi_A
+n
+A .
+\mu_A,
+\chi_A .
+GL_3 (\mathbb Q) ?
+3 \times 3
+A
+k
+A^k =I_3 .
+A^8 =I_3,
+\det A \not= 0,
+GL_3 (\mathbb Q) .
+A^8 =I_3
+\mu_A
+x^8 -1 =(x^4 +1)(x^2 +1)(x +1)(x -1) .
+\mu_A
+\chi_A
+\chi_A \mid x^4 -1,
+A^4 =I_3,
+GL_3 (\mathbb Q) .
+A = \begin{bmatrix} 0 & 0 & 0 & -1 \\ 1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 \end{bmatrix}
+\mu_A =\chi_A =x^4 +1,
+A
+GL_4 (\mathbb Q) .
+A
+x^4 +1 .
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+F^m
+V =F^m;
+F^m
+F^n .
+F^m
+m \times n
+F^n,
+n \times m
+n \times p,
+F^m .
+v_1 \in F^m,
+S =\{v_1 \}
+F^m
+m,
+m
+S
+m >1.
+S,
+v_2 \not= \lambda v_1
+\lambda .
+S =\{v_1, v_2 \}
+m =2,
+V .
+m \ge 3,
+A =[a_1 a_2 \cdots a_n]
+a_j
+j
+A,
+x
+x =[x_1, \ldots, x_n],
+Ax
+A .
+Ax =x_1 a_1 +\cdots +x_n a_n .
+n
+F^m,
+v_1, \ldots, v_n
+m \times n
+A
+v_i .
+Ax =0
+A \colon
+R
+A
+r
+r \lt n,
+F^m,
+A,
+F^m .
+A
+S =\{v_1, \ldots, v_r \}
+F^m,
+r \lt m
+b .
+b
+S =\{v_1, \ldots, v_r \},
+S \cup \{b\}
+m \times (r +1)
+A
+b .
+b \in Span(S),
+[A|b]
+Ax =b
+b
+A,
+S \cup \{b\}
+b \in Span(S),
+m
+F^m
+A
+m \times n
+F,
+m \lt n,
+A
+A
+A
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+T \colon V \to W
+V, W
+f \colon X \to Y
+X
+Y,
+y \in Y,
+y
+X
+y
+f,
+f^{ -1} (y) =\{x \in X \mid f(x) =y\} .
+f
+y \in Y,
+f^{ -1} (y)
+y \in Y,
+f^{ -1} (y)
+T \colon V \to W,
+\mathbf 0_W
+W
+T
+\ker (T) =Null(T) =T^{ -1} (\mathbf 0_W) =\{v \in V \mid T(v) =\mathbf 0_W \} .
+T(\mathbf 0_V) =\mathbf 0_W,
+\mathbf 0_V \in \ker (T),
+V .
+T,
+T(v) =T(v')
+T(v -v') =\mathbf 0_W,
+\mathbf 0,
+T \colon V \to W
+\ker (T) =\{\mathbf 0 \} .
+T^{ -1} (w)
+w \in W
+w =\mathbf 0 .
+T(v_0) =w .
+T(v) =w
+v =v_0 +k,
+k \in \ker (T) .
+(4.1.1) & T^{ -1} (w) =\{v_0 +k \mid k \in \ker (T)\} =v_0 +\ker (T) .
+T \colon V \to W
+V
+\mscrB =\{v_1, \ldots, v_n \} .
+T
+\{T(v_1), \ldots, T(v_n)\}
+W .
+T
+\{T(v_1), \ldots, T(v_n)\}
+W .
+T
+\{T(v_1), \ldots, T(v_n)\}
+a_1, \ldots, a_n
+a_1 T(v_1) +\cdots +a_n T(v_n) =\mathbf 0 .
+T(a_1 v_1 +\cdots +a_n v_n) =a_1 T(v_1) +\cdots +a_r T(v_r) =\mathbf 0,
+(a_1 v_1 +\cdots +a_n v_n) \in \ker (T) .
+\mscrB =\{v_1, \ldots, v_n \}
+a_i
+\ker (T) \not= \{\mathbf 0 \}
+T
+\{T(v_1), \ldots, T(v_n)\}
+W,
+T
+\ker (T) \not= \{\mathbf 0 \},
+\{v_1, \ldots, v_n \}
+V,
+a_1, \ldots, a_n
+a_1 v_1 +\cdots +a_n v_n \in \ker (T) .
+\mathbf 0 =T(a_1 v_1 +\cdots +a_n v_n) =a_1 T(v_1) +\cdots +a_n T(v_n),
+\{T(v_1), \ldots, T(v_n)\}
+\{T(v_1), \ldots, T(v_n)\}
+W .
+T(V),
+T,
+W,
+\{T(v_1), \ldots, T(v_n)\} \subset T(V)
+W =Span\{T(v_1), \ldots, T(v_n)\} \subseteq T(V),
+T
+T
+T(V) =W .
+W =T(V) =T(Span\{v_1, \ldots, v_n \}) =Span\{T(v_1), \ldots, T(v_n)\},
+(v_1), \ldots, T(v_n)\}
+W .
+n \ge 1,
+V =F^{n +1}
+W =P_n (F)
+T \colon V \to W
+T(a_0, \ldots, a_n) =a_0 +a_1 x +\cdots +a_n x^n
+(a_0, \ldots, a_n) \in F^{n +1}
+F^6
+M_{2 \times 3} (F)
+T(a_1, \ldots, a_6) = \begin{bmatrix} a_1 & a_2 & a_3 \\ a_4 & a_5 & a_6 \end{bmatrix} .
+V
+W
+F
+\dim V =\dim W .
+\dim V =\dim W .
+\{v_1, \ldots, v_n \}
+V,
+\{w_1, \ldots, w_n \}
+W .
+T(v_i) =w_i,
+i =1, \ldots, n .
+T
+T \colon V \to W
+\{v_1, \ldots, v_n \}
+V .
+\{T(v_1), \ldots, T(v_n)\}
+W,
+\dim V =\dim W .
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+V, W
+F,
+T \colon V \to W
+T(v +v') =T(v) +T(v')
+T(\lambda v) =\lambda T(v)
+V, W
+F,
+T \colon V \to W
+v_1, \ldots, v_r \in V,
+a_1, \ldots a_r \in F
+(2.5.1) & T(a_1 v_1 +\cdots +a_r v_r) =a_1 T(v_1) +\cdots +a_r T(v_r) .
+V \to W,
+v \in V .
+V,
+T(v_1), \ldots, T(v_r),
+T(v)
+v \in Span\{v_1, \ldots, v_r \} .
+T \colon V \to W,
+T \colon F^n \to F^m
+T(x) =Ax,
+A
+M_{m \times n} (F) .
+T
+\ker T =\{x \in F^n \mid T(x) =Ax =0\},
+Ax =0.
+ImT =\{b \in F^m \mid Ax =b\~is\space solvable\} .
+T(x) =Ax,
+ImT =C(A),
+A .
+T \colon V \to W,
+\ker T
+V,
+ImT
+W .
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+n \times n
+A
+\lambda,
+d
+(x -\lambda)^d
+A .
+F^n
+\mscrB =\{\mathbf e_1, \ldots, \mathbf e_n \}
+\mathbf e_i
+F^n
+i
+M_{m \times n} (F)
+\mscrB =\{\mathbf E_{ij} \mid 1 \le i \le m, 1 \le j \le n\},
+\mathbf E_{ij}
+m \times n
+i
+j,
+P_n (F)
+\mscrB =\{1, x, x^2, \ldots, x^n \},
+P(F) =F[x]
+\mscrB =\{1, x, x^2, x^3, \ldots \} .
+A \in M_n (F)
+\chi_A =\det (xI_n -A) .
+\chi_A
+n
+F .
+\det (A -xI_n)
+( -1)^n,
+\chi_A
+m \times n
+A
+A .
+F^m .
+m \times n
+A
+A
+n \times m
+A^\ast
+ij
+(A^\ast)_{ij} =\overline{A_{ji}} =\overline{(A^T)_{ij}} .
+A .
+A
+A
+n \times n
+A
+\lambda,
+\lambda .
+A
+A =A^\ast .
+T \colon V \to W
+Im(T) \colon =\{w \in W \mid w =T(v)\~for\space some\~v \in V\} .
+T
+W;
+T
+W =Im(T) .
+f \colon X \to Y
+X
+Y
+x, x' \in X,
+f(x) =f(x')
+x =x' .
+F
+z =a +bi \in \mathbb C
+a, b \in \mathbb R
+i^2 = -1
+z,
+\overline{z} =a -bi .
+z \in \mathbb R,
+z =a =a +0i \in \mathbb C,
+z =\overline{z} .
+absolutevalue
+z =a +bi
+| z| =\sqrt{a^2 +b^2} .
+V
+F .
+\langle \cdot, \cdot \rangle \colon V \times V \to F
+u, v, w \in V
+\lambda \in F \colon
+\langle u +v, w \rangle = \langle u, w \rangle + \langle v, w \rangle
+\langle \lambda v, w \rangle =\lambda \langle v, w \rangle
+\overline{ \langle v, w \rangle} = \langle w, v \rangle,
+\langle v, v \rangle
+v \not= 0.
+V
+F =\mathbb R
+\mathbb C
+F =\mathbb R,
+V
+F =\mathbb C,
+V
+\delta_{ij} =\{1 & if\~i =j \\ 0 & otherwise. \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+v_1, \ldots, v_r \in V
+a_1 v_1 +\cdots +a_r v_r
+a_i \in F .
+S \subseteq V
+V
+S
+V
+\{v_1, \ldots, v_r \} \subseteq S,
+a_1, \ldots, a_r
+a_1 v_1 +\cdots +a_r v_r =\mathbf 0 .
+S \subseteq V
+V
+S
+V
+\{v_1, \ldots, v_r \} \subseteq S,
+a_1 v_1 +\cdots +a_r v_r =\mathbf 0
+a_i =0.
+V
+W
+F
+V
+W
+T \colon V \to W
+T(v +v') =T(v) +T(v')
+v, v' \in V,
+T(\lambda v) =\lambda T(v)
+v \in V
+\lambda .
+A \in M_n (F)
+\mu_A,
+F
+\mu_A (A) =0 .
+A \in M_n (\mathbb C)
+AA^\ast =A^\ast A .
+T \colon V \to W
+\ker (T),
+T \colon F^n \to F^m
+T(x) =Ax
+m \times n
+A,
+T
+Ax =0.
+T \colon V \to W
+T
+\ker (T) =\{v \in V \mid T(v) =\mathbf 0_W \} .
+T \colon F^n \to F^m
+T(x) =Ax
+m \times n
+A,
+T
+A
+Ax =0.
+A \in M_n (\mathbb R)
+A^T A =AA^T =I_n .
+A^T A =I_n
+A
+\mathbb R^n,
+AA^T
+A .
+T \colon V \to W
+Im(T) .
+T \colon F^n \to F^m
+T(x) =Ax
+m \times n
+A,
+T
+A .
+A .
+m \times n
+A
+A .
+F^n .
+A, B \in M_n (F) .
+B
+A
+P \in M_n (F)
+B =P^{ -1} AP .
+Q =P^{ -1},
+B =QAQ^{ -1},
+B
+A
+A
+B .
+S \subseteq V
+V
+S,
+Span(S),
+S .
+Span(S) =\{a_1 v_1 +\cdots +a_r v_r \mid r \ge 1, a_i \in F, v_i \in S\}
+V
+F,
+W \subseteq V .
+W
+V
+W
+V .
+V
+V .
+W
+V,
+V
+W,
+W
+w, w' \in W
+\lambda \in F,
+w +w' \in W,
+\lambda w \in W .
+f \colon X \to Y
+X
+Y
+y \in Y,
+x \in X
+f(x) =y .
+A
+A =A^T .
+A \in M_n (F),
+tr(A) \colon =\sum_{i =1}^n A_{ii} .
+A \in M_n (\mathbb C)
+A^\ast A =AA^\ast =I_n .
+A^\ast A =I_n
+A
+\mathbb C^n,
+AA^\ast
+A .
+V
+F,
++,
+u, v, w \in V,
+\lambda, \mu \in F
+u +v \in V
+u +v =v +u
+(u +v) +w =u +(v +w)
+\mathbf 0 \in V
+\mathbf 0 +u =u .
+u \in V,
+-u \in V
+u + -u =\mathbf 0 .
+\lambda u \in V .
+\lambda (u +v) =\lambda u +\lambda v
+(\lambda +\mu)v =\lambda v +\mu v
+(\lambda \mu)v =\lambda (\mu v)
+V
+1 \in F
+1v =v .
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+W =\{ \begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \end{bmatrix} \in \mathbb R^4 |x_1 +2x_2 +3x_3 +4x_4 =0\} .
+W
+W^\perp .
+W
+Ax =0
+A
+1 \times 4
+A = \begin{bmatrix} 1 & 2 & 3 & 4 \end{bmatrix};
+\mathbb R^4 .
+A
+x_2, x_3, x_4
+\{w_1, w_2, w_3 \} =\{ \begin{bmatrix} -2 \\ 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} -3 \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} -4 \\ 0 \\ 0 \\ 1 \end{bmatrix} \} .
+W^\perp =(\ker A)^\perp =C(A^\ast) =Span\{ \begin{bmatrix} 1 \\ 2 \\ 3 \\ 4 \end{bmatrix} \} .
+W^\perp,
+4 =\dim \mathbb R^4 =\dim W +\dim W^\perp,
+W
+W^\perp .
+W^\perp =Span\{ \begin{bmatrix} 1 \\ 2 \\ 3 \\ 4 \end{bmatrix} \}
+W,
+v_1 =w_1 = \begin{bmatrix} -2 \\ 0 \\ 0 \\ 1 \end{bmatrix},
+v_2 =w_2 -\frac{ \langle w_2, v_1 \rangle}{ \langle v_1, v_1 \rangle}v_1 = \begin{bmatrix} -3/5 \\ -6/5 \\ 1 \\ 0 \end{bmatrix}
+v_3 =w_3 -\cdots = \begin{bmatrix} -2/7 \\ -4/7 \\ -6/7 \\ 1 \end{bmatrix} .
+b = \begin{bmatrix} 1 \\ 1 \\ 1 \\ 1 \end{bmatrix}
+W .
+\mathbb R^4 =W \boxplus W^\perp .
+proj_W =I_V -proj_{W^\perp} .
+W^\perp =Span\{e\}
+e = \begin{bmatrix} 1 \\ 2 \\ 3 \\ 4 \end{bmatrix},
+proj_{W^\perp} (b) =\frac{ \langle b, e \rangle}{ \langle e, e \rangle}e =\frac{10}{30} \begin{bmatrix} 1 \\ 2 \\ 3 \\ 4 \end{bmatrix} =\frac{1}{3} \begin{bmatrix} 1 \\ 2 \\ 3 \\ 4 \end{bmatrix} .
+proj_W (b) =b -proj_{W^\perp} (b) = \begin{bmatrix} 1 \\ 1 \\ 1 \\ 1 \end{bmatrix} -\frac{1}{3} \begin{bmatrix} 1 \\ 2 \\ 3 \\ 4 \end{bmatrix} =\frac{1}{3} \begin{bmatrix} 2 \\ 1 \\ 0 \\ -1 \end{bmatrix} .
+W,
+W
+A = \begin{bmatrix} -2 & -3 & -4 \\ 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix} .
+A(A^\ast A)^{ -1} A^\ast = \begin{bmatrix} \frac{29}{30} & -\frac{1}{15} & -\frac{1}{10} & -\frac{2}{15} \\ -\frac{1}{15} & \frac{13}{15} & -\frac{1}{5} & -\frac{4}{15} \\ -\frac{1}{10} & -\frac{1}{5} & \frac{7}{10} & -\frac{2}{5} \\ -\frac{2}{15} & -\frac{4}{15} & -\frac{2}{5} & \frac{7}{15} \end{bmatrix}
+[proj_W]
+proj_W (b) =A \begin{bmatrix} 1 \\ 1 \\ 1 \\ 1 \end{bmatrix} =\frac{1}{3} \begin{bmatrix} 2 \\ 1 \\ 0 \\ -1 \end{bmatrix} .
+A = \begin{bmatrix} 3 & 0 & 0 \\ 0 & 1 & 2 \\ 0 & 2 & 1 \end{bmatrix} \in M_3 (\mathbb R) .
+A
+\chi_A & \lt mi/> =\det (xI -A) =\det ( \begin{bmatrix} x -3 & 0 & 0 \\ 0 & x -1 & -2 \\ 0 & -2 & x -1 \end{bmatrix}) =(x -3)[(x -1)^2 -4] \\ \~ & \lt mi/> =(x -3)(x^2 -2x -3) =(x -3)^3 (x +1) .
+A +I & \lt mi/> = \begin{bmatrix} 4 & 0 & 0 \\ 0 & 2 & 2 \\ 0 & 2 & 2 \end{bmatrix} \mapsto \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 1 \\ 0 & 0 & 0 \end{bmatrix} \mapsto v_1 = \begin{bmatrix} 0 \\ -1 \\ 1 \end{bmatrix} \\ A -3I & \lt mi/> = \begin{bmatrix} 0 & 0 & 0 \\ 0 & -2 & 2 \\ 0 & 2 & -2 \end{bmatrix} \mapsto \begin{bmatrix} 0 & 1 & -1 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{bmatrix} \mapsto v_2 = \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix} v_3 = \begin{bmatrix} 0 \\ 1 \\ 1 \end{bmatrix}
+v_3^' = \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix}
+v_2
+v_3
+P
+P^{ -1} AP
+P
+\begin{bmatrix} 3 \\ \~ & 3 \\ \~ & \~ & -1 \end{bmatrix} \~choose\~P = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & -1 \\ 0 & 1 & 1 \end{bmatrix},
+\begin{bmatrix} -1 \\ \~ & 3 \\ \~ & \~ & 3 \end{bmatrix} \~choose\~P = \begin{bmatrix} 0 & 1 & 0 \\ -1 & 0 & 1 \\ 1 & 0 & 1 \end{bmatrix} .
+A
+Q
+Q^T AQ
+A
+P
+Q = \begin{bmatrix} 0 & 1 & 0 \\ -1/\sqrt{2} & 0 & 1/\sqrt{2} \\ 1/\sqrt{2} & 0 & 1/\sqrt{2} \end{bmatrix} .
+\mathbb R^7
+T \colon \mathbb R^7 \to \mathbb R^7
+\langle T(v), v \rangle =0
+v \in \mathbb R^7 .
+T
+\chi_T
+T .
+\chi_T
+T
+\lambda .
+v
+T(v) =\lambda v .
+\langle T(v), v \rangle =0 .
+\langle T(v), v \rangle = \langle \lambda v, v \rangle =\lambda \langle v, v \rangle =0.
+v \not= 0,
+\langle v, v \rangle =0,
+\lambda =0,
+T
+T \colon \mathbb R^2 \to \mathbb R^2
+\langle T(v), v \rangle =0
+v \in \mathbb R^2,
+T
+T
+[T]_\mscrE = \begin{bmatrix} 0 & 1 \\ -1 & 0 \end{bmatrix}
+\mscrE
+\mathbb R^2 .
+\chi_T =x^2 +1
+T
+\langle T(v), v \rangle =0
+v \in V .
+T
+T(e_1) = -e_2 \~and\~T(e_2) =e_1, \~so\~T(ae_1 +be_2) =be_1 -ae_2 .
+\langle T(ae_1 +be_2), ae_1 +be_2 \rangle = \langle be_1 -ae_2, ae_1 +be_2 \rangle =ba -ab =0,
+a, b .
+V
+T \colon V \to V
+T^2 =T,
+T(T(v)) =T(v)
+v \in V .
+T
+T
+T(v) =\lambda v
+v .
+T(v) =T^2 (v) =T(T(v)) =T(\lambda v) =\lambda T(v),
+(\lambda -1)T(v) =0,
+\lambda =1
+T(v) =0
+E_\lambda
+\lambda
+E_0 =N(T),
+T,
+E_1
+T .
+E_0 =N(T)
+E_0 =\{v \in V \mid T(v) =0 =0v\} .
+v \in E_1,
+T(v) =1 \cdot v,
+T(v) =v
+v \in R(T) .
+w =T(v') \in R(T),
+T(w) =T^2 (v') =T(v') =w,
+w \in E_1 .
+E_1 .
+T
+\dim E_0
+T,
+\dim E_1
+V
+T .
+W
+V,
+S =proj_W
+W .
+S^2 =S,
+W
+r
+\mscrB =\{v_i \}
+V .
+S(v) =\sum_{i =1}^r \langle v, v_i \rangle v_i =w
+v =w^\perp +w
+w^\perp \in W^\perp .
+S(v) =w \in W
+w =w +0,
+S(w) =w
+S^2 (v) =S(v) .
+A = \begin{bmatrix} 1 & 0 & -1 \\ -4 & 1 & 6 \\ 0 & -5 & -9 \\ 1 & 5 & 8 \end{bmatrix}
+b = \begin{bmatrix} 1 \\ 2 \\ 3 \\ 4 \end{bmatrix} .
+rref(X)
+X .
+rref(A) = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \\ 0 & 0 & 0 \end{bmatrix} rref(A|b) = \begin{bmatrix} 1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1 \end{bmatrix}
+A^T A = \begin{bmatrix} 18 & 1 & -17 \\ 1 & 51 & 91 \\ -17 & 91 & 182 \end{bmatrix}, A^T b = \begin{bmatrix} -3 \\ 7 \\ 16 \end{bmatrix}, rref(A^T A|A^T b) = \begin{bmatrix} 1 & 0 & 0 & 74 \\ 0 & 1 & 0 & -128 \\ 0 & 0 & 1 & 71 \end{bmatrix}
+AA^T = \begin{bmatrix} 2 & -10 & 9 & -7 \\ -10 & 53 & -59 & 49 \\ 9 & -59 & 106 & -97 \\ -7 & 49 & -97 & 90 \end{bmatrix}, AA^T b = \begin{bmatrix} -19 \\ 115 \\ -179 \\ 160 \end{bmatrix}, rref(AA^T |AA^T b) = \begin{bmatrix} 1 & 0 & 0 & 1 & 5 \\ 0 & 1 & 0 & 0 & 2 \\ 0 & 0 & 1 & -1 & -1 \\ 0 & 0 & 0 & 0 & 0 \end{bmatrix}
+Ax =b
+rref(A|b)
+Ax =b .
+Ax =b
+A^T Ax =A^T b .
+x = \begin{bmatrix} 74 \\ -128 \\ 71 \end{bmatrix} .
+A =U\Sigma V^T \colon
+A = \begin{bmatrix} 0 & 1 & 0 \\ 1 & 0 & 0 \\ 0 & 0 & 1 \end{bmatrix} \begin{bmatrix} \sqrt{3} & 0 & 0 & 0 \\ 0 & \sqrt{2} & 0 & 0 \\ 0 & 0 & 0 & 0 \end{bmatrix} \begin{bmatrix} 1/\sqrt{3} & 1/\sqrt{3} & 1/\sqrt{3} & 0 \\ 1/\sqrt{2} & 0 & -1/\sqrt{2} & 0 \\ 1/\sqrt{6} & -2/\sqrt{6} & 1/\sqrt{6} & 0 \\ 0 & 0 & 0 & 1 \end{bmatrix} .
+rankA .
+\sqrt{3}
+\sqrt{2} .
+A;
+\{v_1, \ldots, v_4 \}
+A^T A .
+\sigma_i = \Vert Av_i \Vert
+A
+A
+Av_3 =Av_4 =0,
+\{v_3, v_3 \}
+A,
+\{Av_1, \ldots, Av_r \}
+r =rankA =2,
+\{Av_1, Av_2 \}
+A
+A =U\Sigma V^T = \begin{bmatrix} 2/\sqrt{5} & 1/\sqrt{5} \\ 1/\sqrt{5} & -2/\sqrt{5} \end{bmatrix} \begin{bmatrix} 8 & 0 \\ 0 & 2 \end{bmatrix} \begin{bmatrix} 1/\sqrt{5} & 2/\sqrt{5} \\ 2/\sqrt{5} & -1/\sqrt{5} \end{bmatrix} .
+A
+A
+2 \times 2
+\det A \not= 0 .
+A^{ -1} .
+A =U\Sigma V^T
+A^{ -1} =(V^T)^{ -1} \Sigma^{ -1} U^{ -1} =V \begin{bmatrix} 1/8 & 0 \\ 0 & 1/2 \end{bmatrix} U^T
+U
+V
+A^{ -1} .
+A^{ -1} .
+M_n (\mathbb R)
+\begin{bmatrix} \lambda_1 & 0 \\ 0 & \lambda_2 \end{bmatrix}
+\begin{bmatrix} \lambda_2 & 0 \\ 0 & \lambda_1 \end{bmatrix}
+P
+\begin{bmatrix} \lambda_1 & 0 \\ 0 & \lambda_2 \end{bmatrix} =P \begin{bmatrix} \lambda_2 & 0 \\ 0 & \lambda_1 \end{bmatrix} P^T .
+AA^T =I_n =BB^T .
+(AB)(AB)^T =ABB^T A^T =AI_n A^T =AA^T =I_n .
+P = \begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix},
+e_1, e_2
+\mathbb R^2
+\begin{bmatrix} \lambda_1 & 0 \\ 0 & \lambda_2 \end{bmatrix} .
+P
+e_2, e_1
+A^{ -1}
+A^{ -1}
+\sigma_1 >\sigma_2 .
+\begin{bmatrix} 1/2 & 0 \\ 0 & 1/8 \end{bmatrix} = \begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix} \begin{bmatrix} 1/8 & 0 \\ 0 & 1/2 \end{bmatrix} \begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix},
+Q = \begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix}
+Q^T =Q,
+QU^T =(UQ^T)^T =(UQ)^T
+VQ .
+A^{ -1} =(V^T)^{ -1} \Sigma^{ -1} U^{ -1} =V \begin{bmatrix} 1/8 & 0 \\ 0 & 1/2 \end{bmatrix} U^T =(VQ) \begin{bmatrix} 1/2 & 0 \\ 0 & 1/8 \end{bmatrix} (UQ)^T
+A^{ -1} .
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+F
+n \ge 1,
+V =F^n,
+n
+F
+F .
+m, n \ge 1,
+m \times n
+M_{m \times n} (F) .
+M_{m \times 1} (F),
+M_{1 \times n} (F) .
+n \ge 1,
+P_n (F)
+n
+F .
+F
+P(F)
+F[x],
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+A
+m \times n
+F,
+R
+A
+R .
+R
+A
+m \times n
+F,
+A
+x \mapsto Ax
+\{x \in F^n \mid Ax =\mathbf 0 \} .
+A
+R =RREF(A),
+Ax =\mathbf 0
+Rx =\mathbf 0 .
+A = \begin{bmatrix} 1 & 1 \\ 1 & 1 \end{bmatrix} \~and\space its\space RREF\~R = \begin{bmatrix} 1 & 1 \\ 0 & 0 \end{bmatrix}
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+T \colon V \to W
+\{v_1, \ldots, v_k \}
+U =\ker (T),
+\mscrB =\{v_1, \ldots, v_n \}
+V .
+U' =Span(\{v_{k +1}, \ldots, v_n \}),
+v \in V
+v =u +u'
+u \in U
+u' \in U' .
+v =u +u'
+T(v) =T(u +u') =T(u) +T(u') =0 +T(u') =T(u'),
+T
+V
+U' .
+U, W
+V .
+U +W \colon =\{u +w \mid u \in U, w \in W\} .
+U +W
+v \in V
+v =u +w
+u \in U
+w \in W .
+u, w
+U +W
+V,
+V
+U
+W
+U +W =W +U
+U_i,
+i =1, 2, 3,
+(U_1 +U_2) +U_3 =U_1 +(U_2 +U_3),
+U_1 +U_2 +U_3 \colon =(U_1 +U_2) +U_3,
+U_1 +\cdots +U_n \colon =(U_1 +\cdots +U_{n -1}) +U_n .
+F^n
+\{e_1, \ldots, e_n \}
+F^n,
+U_i =Span\{e_i \},
+e_i .
+n =3,
+x, y,
+z
+F^n =U_1 +U_2 +\cdots +U_n .
+F^n
+U_i .
+(a_1, \ldots, a_n) =(a_1, 0, \ldots, 0) +(0, a_2, 0, \ldots, 0) +\cdots +(0, \ldots, 0, a_n) .
+V =F^3
+\{e_1, e_2, e_3 \}
+V,
+U =Span\{e_1, e_2 \}
+W =Span\{e_3, e_1 +e_2 +e_3 \} .
+U +W =Span\{e_1, e_2, e_3, e_1 +e_2 +e_3 \} =Span\{e_1, e_2, e_3 \} =V,
+V
+U
+W,
+v =e_3 .
+v
+v =u +w
+u =0
+w =e_3,
+u = -e_1 -e_2
+w =e_1 +e_2 +e_3 .
+V =U +W,
+v \in V,
+v =u_1 +w_1 =u_2 +w_2 .
+r =u_1 -u_2 =w_2 -w_1 .
+u_1 =u_2
+w_1 =w_2 .
+r =u_1 -u_2 =w_2 -w_1 =0.
+u_1 -u_2 \in U
+w_2 -w_1 \in W,
+U \cap W =\{0\} .
+U, W
+V,
+V =U +W .
+V
+U
+W
+U \cap W =\{0\} .
+V =U +W,
+U \cap W =\{0\},
+V =U \oplus W
+V
+U
+W .
+U_i,
+i =1, 2, 3
+V,
+V =U_1 +U_2 +U_3 .
+V
+U_i .
+V =U_1 +\cdots +U_n
+n \ge 3 ?
+\mathbb R^3
+U_i \cap U_j =\{0\}
+i \not= j,
+\mathbb R^3
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+Ax =b .
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+F =\mathbb R \~or\~\mathbb C
+\langle \cdot, \cdot \rangle .
+S
+S
+S
+F^n
+\mscrE =\{e_1, e_2, \ldots, e_n \}
+F^n
+e_i
+i
+F^n .
+S =\{v_i \}_{i \in I}
+S
+S
+I,
+S
+v_{i_1}, \ldots, v_{i_k} \in S
+a_{i_j}
+v =a_{i_1} v_{i_1} +\cdots +a_{i_k} v_{i_k} =0.
+a_{i_1} \not= 0.
+v =0,
+\langle v, v_{i_1} \rangle =0,
+0 = \langle v, v_{i_1} \rangle =\sum_{j =1}^k a_{i_j} \langle v_{i_j}, v_{i_1} \rangle =a_{i_1} \langle v_{i_1}, v_{i_1} \rangle =a_{i_1} \Vert v_{i_1} \Vert^2 .
+v_{i_1} \not= 0,
+a_{i_1} =0,
+\mscrB =\{v_1, \ldots, v_n \}
+V,
+v \in V
+v =a_1 v_1 +\cdots +a_n v_n
+[v]_\mscrB .
+V, W
+\mscrB_V =\{e_1, \ldots, e_n \}
+\mscrB_W =\{f_1, \ldots, f_m \} .
+v \in V
+v =a_1 e_1 +\cdots +a_n e_n
+a_j = \langle v, e_j \rangle .
+T \colon V \to W
+A =[T]_{\mscrB_V}^{\mscrB_W},
+A_{ij} = \langle T(e_j), f_i \rangle .
+v =a_1 e_1 +\cdots +a_n e_n .
+\langle e_i, e_j \rangle =\delta_{ij},
+\langle v, e_j \rangle =\sum_{i =1}^n a_i \langle e_i, e_j \rangle =a_j .
+T
+A =[T]_{\mscrB_V}^{\mscrB_W}
+T(e_j) =\sum_{k =1}^m A_{kj} f_k .
+\langle T(e_j), f_i \rangle = \langle \sum_{k =1}^m A_{kj} f_k, f_i \rangle =\sum_{k =1}^m A_{kj} \langle f_k, f_i \rangle =A_{ij} .
+v
+u .
+u,
+\lambda u
+\lambda .
+\theta
+u
+v,
+proj_u v
+\Vert v \Vert \cos \theta
+\cos \theta = \langle u, v \rangle /( \Vert u \Vert \Vert v \Vert),
+u
+\frac{u}{ \Vert u \Vert},
+u,
+proj_u v =( \Vert v \Vert \cos \theta)\frac{u}{ \Vert u \Vert} = \Vert v \Vert \frac{ \langle u, v \rangle}{ \Vert u \Vert \Vert v \Vert}\frac{u}{ \Vert u \Vert} =\frac{ \langle u, v \rangle}{ \Vert u \Vert^2}u,
+\lambda
+\frac{ \langle u, v \rangle}{ \Vert u \Vert^2} .
+w \colon =v -proj_u v
+u .
+u
+v
+u
+w
+v
+u
+V
+W
+\mscrB =\{v_1, \ldots, v_m \} .
+\mscrE =\{e_1, \ldots, e_m \}
+W,
+e_1 =v_1 .
+e_k =v_k -\sum_{j =1}^{k -1} \frac{ \langle v_k, e_j \rangle}{ \Vert e_j \Vert^2}e_j, \~for\~2 \le k \le m .
+e_j
+e_j / \Vert e_j \Vert .
+V
+W
+W^\perp =\{v \in V \mid \langle v, W \rangle =0\} .
+W^\perp
+W
+V .
+\langle v, W \rangle =0
+\langle v, w \rangle =0
+w \in W,
+W^\perp
+W .
+V =\mathbb R^3,
+W
+W^\perp,
+W,
+W
+V,
+W^\perp
+V ?
+0 \in W^\perp
+u_1, u_2 \in W^\perp
+u_1 +u_2
+\lambda u_1 ?
+W^\perp
+W .
+S
+V,
+W =Span(S) .
+v \in W^\perp
+\langle v, s \rangle =0
+s \in S .
+W^\perp
+V,
+S^\perp =W^\perp
+Span(S)
+S,
+\langle v, \sum_{k =1}^m \lambda_i s_i \rangle .
+V
+W
+V
+v =w +w^\perp,
+w \in W
+w^\perp \in W^\perp .
+V =W \oplus W^\perp,
+V
+W
+W^\perp .
+W \cap W^\perp =\{0\} .
+V
+W
+W \cap W^\perp =\{0\} .
+w \in W \cap W^\perp .
+w \not= 0,
+\langle w, w \rangle \not= 0.
+w \in W^\perp,
+w
+W,
+w,
+m \times n
+A
+b,
+Ax =b .
+b
+C(A),
+A .
+b
+\sqrt{2} .
+\sqrt{2} .
+P
+\mathbb R^3
+x
+P
+x ?
+x_0
+\hat{b}
+A
+b .
+\hat{x}
+Ax = \hat{b}
+\Vert A \hat{x} -b \Vert \le \Vert Ax -b \Vert \~for\space any\~x \in \mathbb R^n .
+Ax =b
+\Vert Ax -b \Vert >0
+x,
+Ax
+b .
+\hat{x}
+Ax =b
+V
+W
+W
+\{w_1, \ldots, w_r \}
+W .
+\{w_1, \ldots, w_r \}
+W
+V .
+v \in V
+v =w^\perp +w
+w \in W,
+w^\perp \in W^\perp,
+w^\perp
+W .
+(5.2.1) & w =\frac{ \langle v, w_1 \rangle}{ \langle w_1, w_1 \rangle}w_1 +\cdots +\frac{ \langle v, w_r \rangle}{ \langle w_r, w_r \rangle}w_r .
+w
+W,
+w^\perp =v -w
+W,
+\langle w^\perp, w_i \rangle =0
+i =1, \ldots, r .
+w^\perp
+\langle w^\perp, w_i \rangle = \langle v -w, w_i \rangle = \langle v, w_i \rangle - \langle w, w_i \rangle,
+\{w_j \}
+w
+\langle w, w_i \rangle = \langle \frac{ \langle v, w_i \rangle}{ \langle w_i, w_i \rangle}w_i, w_i \rangle = \langle \frac{ \langle v, w_i \rangle}{ \langle w_i, w_i \rangle} \langle w_i, w_i \rangle = \langle v, w_i \rangle .
+\langle w^\perp, w_i \rangle = \langle v -w, w_i \rangle = \langle v, w_i \rangle - \langle w, w_i \rangle = \langle v, w_i \rangle - \langle v, w_i \rangle =0,
+w^\perp
+w
+v =w^\perp +w,
+v =w_1^\perp +w_1
+w_1 \in W
+w_1^\perp \in W^\perp .
+w -w_1 =w_1^\perp -w^\perp .
+W
+W^\perp,
+V
+W
+V =W \oplus W^\perp .
+V =W \boxplus W^\perp .
+V
+W
+(W^\perp)^\perp =W .
+W^\perp =\{v \in V \mid \langle v, W \rangle =0\},
+(W^\perp)^\perp =\{v \in V \mid \langle v, W^\perp \rangle =0.
+w \in W
+W^\perp,
+W \subseteq (W^\perp)^\perp .
+v \in (W^\perp)^\perp .
+W
+v
+v =w^\perp +w
+w \in W
+w^\perp \in W^\perp .
+w^\perp =0.
+w^\perp =v -w .
+v \in (W^\perp)^\perp,
+w \in W \subseteq (W^\perp)^\perp,
+w^\perp \in (W^\perp)^\perp,
+\langle w^\perp, W^\perp \rangle =0.
+w^\perp \in W^\perp
+\langle w^\perp, w^\perp \rangle =0
+w^\perp =0
+v =w \in W,
+(W^\perp)^\perp \subseteq W,
+V
+W
+\{w_1, \ldots, w_r \},
+v
+W
+proj_W v \colon =\frac{ \langle v, w_1 \rangle}{ \langle w_1, w_1 \rangle}w_1 +\cdots +\frac{ \langle v, w_r \rangle}{ \langle w_r, w_r \rangle}w_r .
+V
+W
+w \in W,
+proj_W w =w .
+w
+w =w^\perp +proj_W w,
+w^\perp \in W^\perp .
+w =0 +w,
+w^\perp =0
+w =proj_W w .
+proj_W v
+v
+W
+v .
+V
+W
+v \in V,
+\Vert v -proj_W v \Vert \lt \Vert v -w \Vert
+w \in W,
+w \not= proj_W v .
+v \notin W,
+w \in W
+w \not= proj_W v .
+v -w =v -proj_W v +proj_W v -w,
+proj_W v -w \in W
+v -proj_W v \in W^\perp .
+v -w,
+v -proj_W v
+proj_W v -w
+\Vert v -w \Vert^2 = \Vert v -proj_W v \Vert^2 + \Vert proj_W v -w \Vert^2 .
+w \not= proj_W v,
+\Vert proj_W v -w \Vert >0,
+\Vert v -w \Vert > \Vert v -proj_W v \Vert .
+A \in M_{m \times n} (\mathbb C) .
+A
+L_A \colon \mathbb C^n \to \mathbb C^m
+A .
+L_A,
+\ker A
+\ker L_A,
+rangeA
+rangeL_A
+C(A),
+A .
+L_{A^\ast} \colon \mathbb C^m \to \mathbb C^n
+A^\ast .
+A
+A^\ast \colon
+A \in M_{m \times n} (\mathbb C) .
+x \in \mathbb C^n
+y \in \mathbb C^m,
+\langle Ax, y \rangle_m = \langle x, A^\ast y \rangle_n,
+\mathbb C^m
+\mathbb C^n .
+\langle v, w \rangle
+\mathbb C^\ell
+w^\ast v
+1 \times \ell
+\ell \times 1
+\langle Ax, y \rangle_m =y^\ast Ax =(A^\ast y)^\ast x = \langle x, A^\ast y \rangle_n .
+A
+A^\ast .
+A
+A^T .
+A \in M_{m \times n} (\mathbb C) .
+\ker (A^\ast) =range(A)^\perp \~and\~range(A^\ast) =C(A^\ast) =\ker (A)^\perp .
+w \in \ker A^\ast .
+A^\ast w =0,
+\langle A^\ast w, v \rangle =0
+v \in \mathbb C^n .
+0 = \langle A^\ast w, v \rangle = \langle w, Av \rangle,
+w
+range(A) =C(A) .
+\ker (A^\ast) \subseteq range(A)^\perp .
+w \in range(A)^\perp,
+v \in \mathbb C^n,
+0 = \langle w, Av \rangle = \langle A^\ast w, v \rangle .
+v =A^\ast w,
+\langle A^\ast w, A^\ast w \rangle =0
+A^\ast w =0,
+range(A)^\perp \subseteq \ker (A^\ast),
+A,
+A
+A^\ast,
+A^{ \ast \ast} =A
+\ker (A) =range(A^\ast)^\perp .
+\ker (A)^\perp =range(A^\ast) .
+A \in M_{m \times n} (\mathbb R) .
+C(A)^\perp =\ker (A^T)\~and\~R(A)^\perp =\ker A .
+range(A) =C(A) .
+\ker (A) =range(A^\ast)^\perp .
+A
+range(A^\ast) =range(A^T) =C(A^T) =R(A)
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+F
+w \in V
+T \colon V \to V
+T(v) = \langle v, w \rangle,
+T
+V .
+\langle \cdot, \cdot \rangle,
+v \in V,
+S \colon V \to V
+S(w) \colon = \langle v, w \rangle,
+S(u +w) & \lt mi/> = \langle v, u +w \rangle =\overline{ \langle u +w, v \rangle} =\overline{ \langle u, v \rangle + \langle w, v \rangle} \\ \~ & \lt mi/> =\overline{ \langle u, v \rangle} +\overline{ \langle w, v \rangle} = \langle v, u \rangle + \langle v, w \rangle =S(u) +S(v),
+S(\lambda u) = \langle v, \lambda u \rangle =\overline{ \langle \lambda u, v \rangle} =\overline{\lambda \langle u, v \rangle} =\overline{\lambda} \langle v, u \rangle =\overline{\lambda}S(u),
+F =\mathbb R
+V
+\langle v, v \rangle >0
+v =0)
+v \in V
+\Vert v \Vert \colon =\sqrt{ \langle v, v \rangle} .
+V =F^n
+v =(a_, \ldots, a_n), w =(b_1, \ldots, b_n) \in F^n
+\langle v, w \rangle \colon =\sum_{i =1}^n a_i \overline{b_i} .
+F^n .
+F =\mathbb R,
+v =(a_, \ldots, a_n),
+\Vert v \Vert = \langle v, v \rangle =\sqrt{\sum_{i =1}^n a_i \overline{a}_i} =\sqrt{\sum_{i =1}^n | a_i |^2}
+V =M_{m \times n} (\mathbb C)
+A, B \in V =M_{m \times n} (\mathbb C) .
+A
+B
+\langle A, B \rangle \colon =tr(AB^\ast) =tr(B^\ast A),
+B^\ast
+B,
+tr
+\Vert A \Vert =\sqrt{tr(A^\ast A)} .
+V =C([0, 1])
+V =C([0, 1])
+[0, 1] .
+f, g \in C([0, 1]),
+V
+\langle f, g \rangle \colon =\int_0^1 f(t)g(t)dt .
+f
+g
+\langle f, g \rangle \colon =\int_0^1 f(t)\overline{g(t)}dt .
+\Vert f \Vert \colon =\sqrt{\int_0^1 f(t)\overline{f(t)}} =\sqrt{\int_0^1 | f(t)|^2},
+| \cdot |
+(V, \langle \cdot, \cdot \rangle)
+u, v \in V
+\langle u, v \rangle =0.
+S, T \subseteq V
+\langle u, v \rangle =0
+u \in S
+v \in T .
+v \in V
+\Vert v \Vert =1 .
+V
+\langle \cdot, \cdot \rangle
+\Vert \cdot \Vert .
+u, v, w \in V
+\lambda \in F
+\langle v, u \rangle = \langle v, w \rangle
+v \in V,
+u =w .
+\Vert \lambda v \Vert =| \lambda | \Vert v \Vert .
+\Vert v \Vert \ge 0
+v,
+\Vert v \Vert =0
+v =0.
+| \langle u, v \rangle | \le \Vert u \Vert \Vert v \Vert .
+\Vert u +v \Vert \le \Vert u \Vert + \Vert v \Vert .
+\langle u, v \rangle =0,
+\Vert u +v \Vert^2 = \Vert u \Vert^2 + \Vert v \Vert^2 .
+u, v \in \mathbb R^n,
+\frac{| \langle u, v \rangle |}{ \Vert u \Vert \Vert v \Vert} \le 1, \~equivalently -1 \le \frac{ \langle u, v \rangle}{ \Vert u \Vert \Vert v \Vert} \le 1.
+\theta \in [0, \pi]
+\cos \theta \colon =\frac{ \langle u, v \rangle}{ \Vert u \Vert \Vert v \Vert}
+u, v .
+\cos \theta
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+Ax =b,
+Ax =b
+[A| b] \mapsto [R|b'],
+Ax =b
+Rx =b'
+b
+Ax =b
+A =[a_1 a_2 \cdots a_n]
+a_j
+j
+A,
+x
+x =[x_1, \ldots, x_n],
+Ax
+A .
+Ax =x_1 a_1 +\cdots +x_n a_n .
+Ax =b
+b
+A .
+Ax =b,
+A
+5 \times 7
+A
+Ax =b .
+Ax =b
+Ax =b
+b
+A .
+b
+A,
+b
+b
+Ax =b .
+Ax =b
+Ax =\mathbf 0 .
+b
+b
+A
+Ax =0.
+A
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+F^m
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+T \colon V \to W
+F .
+T
+\ker (T) =Null(T),
+V .
+T
+Im(T),
+W .
+T \colon V \to W,
+V
+V
+\ker (T)
+Im(T) .
+T \colon V \to W
+V
+\dim V =rank(T) +nullity(T) =\dim Im(T) +\dim \ker (T) .
+n =\dim V,
+\{v_1, \ldots, v_n \}
+V,
+Im(T) =Span(\{T(v_1), \ldots, T(v_n)\}) .
+T
+\ker (T) =\{0\},
+nullity(T) =0 .
+\{T(v_1), \ldots, T(v_n)\}
+Im(T),
+Im(T),
+rank(T) .
+rank(T) =n,
+n =\dim V =n +0 =rank(T) +nullity(T) .
+\ker (T) \not= \{0\} .
+\{u_1, \ldots, u_k \}
+\ker (T),
+nullity(T) =k .
+\{u_1, \ldots, u_k \}
+V \colon
+\{u_1, \ldots, u_k, u_{k +1}, \ldots, u_n \}
+rank(T) =n -k .
+\{u_1, \ldots, u_k, u_{k +1}, \ldots, u_n \}
+V,
+Im(T) =Span(\{T(u_1), \ldots, T(u_n)\}),
+u_1, \ldots, u_k \in \ker (T),
+Im(T) =Span(\{T(u_{k +1}), \ldots, T(u_n)\}) .
+rankT \le n -k .
+\{T(u_{k +1}), \ldots, T(u_n)\}
+a_i \in F,
+\sum_{i =k +1}^n a_i T(u_i) =0.
+T(\sum_{i =k +1}^r a_i u_i) =0,
+\sum_{i =k +1}^r a_i u_i \in \ker (T) .
+\sum_{i =k +1}^r a_i u_i \in Span(\{u_1, \ldots, u_k \})
+\{u_1, \ldots, u_n \}
+V .
+T \colon P_3 (\mathbb R) \to P_3 (\mathbb R)
+T(f) =f'' +f',
+f'
+f''
+f .
+\{1, x, x^2, x^3 \},
+Im(T) =Span\{T(1), T(x), T(x^2), T(x^3)\}
+Im(T) =Span\{0, 1, 2 +2x, 6x +3x^2 \} =Span\{1, x, x^2 \} .
+rank(T) \le 3,
+T(1) =0,
+nullity(T) \ge 1 .
+\{1, x, x^2 \}
+rank(T) =3
+nullity(T) =1
+\{1\}
+A \in M_{m \times n} (F)
+T(x) =Ax
+T \colon F^n \to F^m .
+x \mapsto Ax .
+T(e_1), \ldots, T(e_n)
+\{e_1, \ldots, e_n \}
+F^n,
+e_i
+i
+T(e_j)
+j
+A .
+Im(T)
+A .
+A,
+T,
+Ax =0.
+A
+x_1, \ldots, x_n
+Ax =0,
+j
+A,
+x_j
+r
+n -r
+n -r =nullity(T);
+r =rank(T) .
+A
+A
+A
+A .
+A
+A
+m \times n
+A .
+A
+A
+A \mapsto EA
+m \times m
+A
+A \mapsto AE
+n \times n
+m \times n
+rank(EA) =rank(A)
+rank(AE) =rank(A)
+E .
+n \times n
+A
+n \times 2n
+[A| I_n] \mapsto [R|A'] .
+A
+R =I_n,
+A'
+A^{ -1} .
+A
+m \times n
+E
+A
+EA
+A
+AE
+R
+A,
+R
+A ?
+R
+A,
+R
+A ?
+A = \begin{bmatrix} 1 & 1 \\ 1 & 1 \end{bmatrix},
+R = \begin{bmatrix} 1 & 1 \\ 0 & 0 \end{bmatrix},
+Span( \begin{bmatrix} 1 \\ 1 \end{bmatrix}) \not= Span( \begin{bmatrix} 1 \\ 0 \end{bmatrix})
+m \times n
+A,
+U, V
+UAV
+UAV = \begin{bmatrix} I_r & \mathbf 0 \\ \mathbf 0 & \mathbf 0 \end{bmatrix} .
+I_r
+r \times r
+r =rank(A),
+A .
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+V
+F
+\mscrB =\{v_1, \ldots, v_n \} .
+\mscrB
+V,
+v \in V
+\mscrB \colon
+v =a_1 v_1 +\cdots +a_n v_n
+a_i \in F .
+\mscrB
+a_i
+v =a_1 v_1 +\cdots +a_n v_n
+\mscrB =\{v_1, \ldots, v_n \}
+(4.3.1) & [v]_\mscrB = \begin{bmatrix} a_1 \\ a_2 \\ \vdots \\ a_n \end{bmatrix}
+\mscrB =\{e_1, e_2, e_3 \}
+\mathbb R^3 .
+[v]_\mscrB = \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix},
+v =1e_1 +2e_2 +3e_3,
+\mscrB ' =\{e_2, e_3, e_1 \},
+[v]_{\mscrB '} = \begin{bmatrix} 2 \\ 3 \\ 1 \end{bmatrix},
+v =2e_2 +3e_3 +1e_1,
+P_n (\mathbb R) .
+1, x, x^2, \ldots, x^n .
+\{1, x, x^2, \ldots, x^n \}
+\{x^n, x^{n -1}, \ldots, x, 1\} ?
+v \in P_n (\mathbb R)
+[v]_\mscrB = \begin{bmatrix} 1 \\ 2 \\ \vdots \\ n \end{bmatrix} .
+V
+W
+F .
+\dim V =n
+\dim W =m,
+\mscrB =\{v_1, \ldots, v_n \}
+V,
+\mathscr C =\{w_1, \ldots, w_m \}
+W .
+T \colon V \to W
+\{T(v_1), \ldots, T(v_n)\},
+\mathscr C
+W,
+j,
+a_{ij} \in F
+T(v_j) =\sum_{i =1}^m a_{ij} w_i .
+A
+A_{ij} =a_{ij} .
+T
+\mscrB
+\mathscr C
+(4.3.2) & [T]_\mscrB^\mathscr C =A =[a_{ij}]
+[T]_\mscrB^\mathscr C
+j
+[T(v_j)]_\mathscr C .
+(4.3.3) & [T]_\mscrB^\mathscr C =A =[a_{ij}] = \begin{bmatrix} | & | & \cdots & | \\ [T(v_1)]_\mathscr C & [T(v_2)]_\mathscr C & \cdots & [T(v_n)]_\mathscr C \\ | & | & \cdots & | \end{bmatrix} .
+T \colon \mathbb R^3 \to \mathbb R^3
+(x, y, z)
+xy -plane
+T(x, y, z) =(x, y, 0) .
+T
+\mathbb R^3
+[T]_\mscrE = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 0 \end{bmatrix} .
+T \colon \mathbb R^3 \to \mathbb R^3
+(x, y, z)
+x +y +z =0.
+T
+\mscrB =\{v_1, v_2, v_3 \}
+v_1, v_2
+x, y
+v_3
+x +y +z =0,
+v_3 = \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix} .
+v_1
+v_2
+e_1
+e_2
+z
+\mscrB =\{v_1 = \begin{bmatrix} 1 \\ -1 \\ 0 \end{bmatrix}, v_2 = \begin{bmatrix} 1 \\ 1 \\ -2 \end{bmatrix}, v_3 = \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix} \} .
+T
+\mscrB
+[T]_\mscrB = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 0 \end{bmatrix},
+[T]_\mscrE = \begin{bmatrix} 2/3 & -1/3 & -1/3 \\ -1/3 & 2/3 & -1/3 \\ -1/3 & -1/3 & 2/3 \end{bmatrix} .
+f =x^n +a_{n -1} x^{n -1} +\cdots +a_0
+F .
+V
+F
+\mscrB =\{v_1, \ldots, v_n \} .
+T \colon V \to V
+T(v_1) =v_2 \\ T(v_2) =v_3 \\ \vdots \\ T(v_{n -1}) =v_n \\ T(v_n) = -a_0 v_1 -a_1 v_2 -\cdots -a_{n -1} v_{n -1} .
+T
+\mscrB
+f
+[T]_\mscrB \colon =[T]_\mscrB^\mscrB = \begin{bmatrix} 0 & 0 & 0 & \cdots & 0 & -a_0 \\ 1 & 0 & 0 & \cdots & 0 & -a_1 \\ 0 & 1 & 0 & \cdots & 0 & -a_2 \\ 0 & 0 & \~ & \ddots & 0 & \vdots \\ 0 & 0 & \cdots & 0 & 1 & -a_{n -1} \end{bmatrix}
+f .
+A
+f
+A .
+U, V,
+W
+F,
+S \colon U \to V
+T \colon V \to W
+T \circ S
+TS
+T \circ S \colon U \to W .
+\dim U =n,
+\dim V =p,
+\dim W =m,
+\mscrB_U, \mscrB_V, \mscrB_W .
+[S]_{\mscrB_U}^{\mscrB_V} \~is\~p \times n \\ [T]_{\mscrB_V}^{\mscrB_W} \~is\~m \times p \\ [TS]_{\mscrB_U}^{\mscrB_W} \~is\~m \times n
+(4.3.4) & [TS]_{\mscrB_U}^{\mscrB_W} =[T]_{\mscrB_V}^{\mscrB_W} [S]_{\mscrB_U}^{\mscrB_V}
+T(v)
+T
+v .
+v \in V
+[T(v)]_{\mscrB_W} =[T]_{\mscrB_V}^{\mscrB_W} [v]_{\mscrB_V} .
+V =P_4 (\mathbb R)
+W =P_3 (\mathbb R)
+\mathbb R
+D \colon V \to W
+D(f) =f',
+f'
+V
+W,
+\mscrB_V =\{1, x, x^2, x^3, x^4 \}
+\mscrB_W =\{1, x, x^2, x^3 \} .
+[D]_{\mscrB_V}^{\mscrB_W} = \begin{bmatrix} 0 & 1 & 0 & 0 & 0 \\ 0 & 0 & 2 & 0 & 0 \\ 0 & 0 & 0 & 3 & 0 \\ 0 & 0 & 0 & 0 & 4 \end{bmatrix}
+f =2 +3x +5x^3 .
+D(f) =3 +15x^2,
+[f]_{\mscrB_V} = \begin{bmatrix} 2 \\ 3 \\ 0 \\ 5 \\ 0 \end{bmatrix} \~and\~[D(f)]_{\mscrB_W} = \begin{bmatrix} 3 \\ 0 \\ 15 \\ 0 \end{bmatrix}
+[D(f)]_{\mscrB_W} = \begin{bmatrix} 3 \\ 0 \\ 15 \\ 0 \end{bmatrix} =[D]_{\mscrB_V}^{\mscrB_W} [f]_{\mscrB_V} = \begin{bmatrix} 0 & 1 & 0 & 0 & 0 \\ 0 & 0 & 2 & 0 & 0 \\ 0 & 0 & 0 & 3 & 0 \\ 0 & 0 & 0 & 0 & 4 \end{bmatrix} \begin{bmatrix} 2 \\ 3 \\ 0 \\ 5 \\ 0 \end{bmatrix} .
+\mathbb R^3
+\mathbb R^3,
+V =\mathbb R^3,
+\mscrB_1 =\{e_1 =(1, 0, 0), e_2 =(0, 1, 0), e_3 =(0, 0, 1)\}
+\mscrB_2 =\{v_1 =(1, 1, 1), v_2 =(0, 1, 1), v_3 =(0, 0, 1)\} .
+\mscrB_2
+\mscrB_2
+\mathbb R^3 .
+\mathbb R^3,
+\mathbb R^3,
+\mscrB_2
+Span(\mscrB_2)
+\mathbb R^3
+\mathbb R^3,
+v =(a, b, c)
+v =[v]_{\mscrB_1} = \begin{bmatrix} a \\ b \\ c \end{bmatrix}
+[v]_{\mscrB_2} .
+[v]_{\mscrB_1} = \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix} \~is\space equivalent\space to\~[v]_{\mscrB_2} = \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix},
+[v]_{\mscrB_1} = \begin{bmatrix} 1 \\ 3 \\ 6 \end{bmatrix} \~is\space equivalent\space to\~[v]_{\mscrB_2} = \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix},
+T \colon V \to W,
+v \in V
+[T(v)]_{\mscrB_W} =[T]_{\mscrB_V}^{\mscrB_W} [v]_{\mscrB_V} .
+V =W
+T
+T(v) =v,
+I,
+[v]_{\mscrB_2} =[I]_{\mscrB_1}^{\mscrB_2} [v]_{\mscrB_1} .
+[I]_{\mscrB_1}^{\mscrB_2}
+\mscrB_1
+\mscrB_2
+[I]_{\mscrB_1}^{\mscrB_2} \~and\~[I]_{\mscrB_2}^{\mscrB_1} .
+[I]_{\mscrB_1}^{\mscrB_2} = \begin{bmatrix} 1 & 0 & 0 \\ -1 & 1 & 0 \\ 0 & -1 & 1 \end{bmatrix} \~and\~[I]_{\mscrB_2}^{\mscrB_1} = \begin{bmatrix} 1 & 0 & 0 \\ 1 & 1 & 0 \\ 1 & 1 & 1 \end{bmatrix},
+\mscrB_2
+[TS]_{\mscrB_U}^{\mscrB_W} =[T]_{\mscrB_V}^{\mscrB_W} [S]_{\mscrB_U}^{\mscrB_V},
+V =U =W,
+T =S =I,
+\begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix} =[I]_{\mscrB_1}^{\mscrB_1} =[I]_{\mscrB_1}^{\mscrB_2} [I]_{\mscrB_2}^{\mscrB_1},
+[I]_{\mscrB_1}^{\mscrB_2}
+[I]_{\mscrB_2}^{\mscrB_1}
+\mscrB_1
+\mscrB_2
+V,
+[I]_{\mscrB_1}^{\mscrB_2} \~and\~[I]_{\mscrB_2}^{\mscrB_1}
+T \colon V \to V
+V
+\mscrB_1
+\mscrB_2 \colon
+[T]_{\mscrB_2} =[I]_{\mscrB_1}^{\mscrB_2} [T]_{\mscrB_1} [I]_{\mscrB_2}^{\mscrB_1} .
+\mscrB_1
+\mscrB_2
+\mathbb R^3
+T \colon \mathbb R^3 \to \mathbb R^3
+\mscrB_1
+[T]_{\mscrB_1} = \begin{bmatrix} 4 & 0 & 0 \\ -1 & 5 & 0 \\ -1 & -1 & 6 \end{bmatrix} .
+T
+T(v_1), T(v_2), T(v_3)
+\mscrB_1
+\mathbb R^3) .
+[T]_{\mscrB_2} = \begin{bmatrix} 4 & 0 & 0 \\ 0 & 5 & 0 \\ 0 & 0 & 6 \end{bmatrix},
+T
+\mathbb R^3
+w_1, w_2, w_3 .
+T \colon \mathbb R^3 \to \mathbb R^3
+(x, y, z)
+x +y +z =0.
+\mscrB =\{v_1, v_2, v_3 \}
+v_1, v_2
+v_3
+\mscrB =\{v_1 = \begin{bmatrix} 1 \\ -1 \\ 0 \end{bmatrix}, v_2 = \begin{bmatrix} 1 \\ 1 \\ -2 \end{bmatrix}, v_3 = \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix} \} .
+T
+\mscrB
+[T]_\mscrB = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 0 \end{bmatrix},
+xy
+[T]_\mscrE
+[T]_\mscrB,
+[I]_\mscrB^\mscrE
+[I]_\mscrE^\mscrB .
+[I]_\mscrB^\mscrE
+\{v_1, v_2, v_3 \}
+[I]_\mscrB^\mscrE = \begin{bmatrix} 1 & 1 & 1 \\ -1 & 1 & 1 \\ 0 & -2 & 1 \end{bmatrix} .
+[I]_\mscrB^\mscrE
+[[I]_\mscrB^\mscrE \mid I_3] .
+\begin{bmatrix} 1 & 1 & 1 & 1 & 0 & 0 \\ -1 & 1 & 1 & 0 & 1 & 0 \\ 0 & -2 & 1 & 0 & 0 & 1 \end{bmatrix} \mapsto \begin{bmatrix} 1 & 0 & 0 & \frac{1}{2} & -\frac{1}{2} & 0 \\ 0 & 1 & 0 & \frac{1}{6} & \frac{1}{6} & -\frac{1}{3} \\ 0 & 0 & 1 & \frac{1}{3} & \frac{1}{3} & \frac{1}{3} \end{bmatrix}
+[I]_\mscrE^\mscrB = \begin{bmatrix} \frac{1}{2} & -\frac{1}{2} & 0 \\ \frac{1}{6} & \frac{1}{6} & -\frac{1}{3} \\ \frac{1}{3} & \frac{1}{3} & \frac{1}{3} \end{bmatrix}
+[T]_\mscrE =[I]_\mscrB^\mscrE [T]_\mscrB [I]_\mscrE^\mscrB = \begin{bmatrix} 2/3 & -1/3 & -1/3 \\ -1/3 & 2/3 & -1/3 \\ -1/3 & -1/3 & 2/3 \end{bmatrix} .
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+F^m
+A
+A^\ast
+A^\ast A
+AA^\ast .
+A
+AA^\ast
+V
+W
+F
+\dim V =\dim W .
+M_{2 \times 2} (\mathbb R), P_3 (\mathbb R), \~and\~\mathbb R^4
+\mathbb R
+\mathbb R^4
+\mathbb R^4,
+M_{2 \times 2} (\mathbb R)
+P_3 (\mathbb R),
+P_3 (\mathbb R) .
+T \colon V \to V
+T .
