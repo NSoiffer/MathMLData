@@ -794,17 +794,17 @@ Q.
 bb n+bb m
 n
 m
-'\\y01d7d0'+'\\y01d7d0'
+bb 2+bb 2
 {a, b, c, d}
 a < b
 c < d
 bb P = (X, P)
 bb P
-'\\y01d7d0'+'\\y01d7d0'.
-'\\y01d7d0'+'\\y01d7d0',
+bb 2+bb 2.
+bb 2+bb 2,
 bb P = (X, P)
 {x, y, z, w} sube X
-'\\y01d7d0'+'\\y01d7d0'.
+bb 2+bb 2.
 bb P
 I
 bb P.
@@ -2286,11 +2286,11 @@ X
 X,
 {1, 2, 3, 4}.
 t,
-'\\y01d7d0'^t
+bb 2^t
 {1, 2, ..., t}
 t+1
 t+1
-'\\y01d7d0'^t
+bb 2^t
 2^t
 A_0, A_1, ..., A_t
 |A_i| = ((t), (i))
@@ -2301,16 +2301,16 @@ s = |__t//2__|,
 t
 t
 t >= 1,
-'\\y01d7d0'^t
-"width"('\\y01d7d0'^t) = ((t), (|__ t/2__|)).
-'\\y01d7d0'^t
+bb 2^t
+"width"(bb 2^t) = ((t), (|__ t/2__|)).
+bb 2^t
 C(t, |__ t/2__|)
 |__ t/2__|
 {1, 2, ..., t}
-'\\y01d7d0'^t
+bb 2^t
 C(t, |__ t/2__|).
 w
-'\\y01d7d0'^t
+bb 2^t
 {S_1, S_2, ..., S_w}
 w
 S_i
@@ -2333,7 +2333,7 @@ cc S_j,
 S_i
 S_j
 t!
-'\\y01d7d0'^t.
+bb 2^t.
 sum_(i=1)^w k_i!(t-k_i)! <= t!.
 sum_(i=1)^w(k_i!(t-k_i)!)/(t!) = sum_(i=1)^w 1/(((t), (k_i))) <= 1.
 sum_(i=1)^(i=w) 1/(((t), (|~t/2~|))) <= 1.
@@ -2658,7 +2658,7 @@ n
 {0, 1, 2, ..., n-1}.
 bb n
 n
-'\\y01d7d3' = {0, 1, 2, 3, 4}.
+bb 5 = {0, 1, 2, 3, 4}.
 X
 Y
 X
@@ -3360,7 +3360,7 @@ V = L uu U
 41+8+23+8+13+29+28+25 = 175.
 cc P = cc N cc P?
 2
-'\\y01d7d0'+'\\y01d7d0'.
+bb 2+bb 2.
 bb P = (X, P)
 n
 bb P
@@ -3399,7 +3399,7 @@ z in D(x)-D(y)
 w in D(y)-D(x).
 {x, y, z, w}
 bb P
-'\\y01d7d0'+'\\y01d7d0'.
+bb 2+bb 2.
 D(x) sube D(y)
 D(y) sube D(x)
 x, y in X.
@@ -3428,7 +3428,7 @@ i
 j
 j < i.
 bb P
-'\\y01d7d0'+'\\y01d7d0',
+bb 2+bb 2,
 |cc D| = |cc U|.
 x in X,
 I(x) = [i, j],
@@ -3464,7 +3464,7 @@ c,
 d,
 f
 j
-'\\y01d7d0'+'\\y01d7d0'
+bb 2+bb 2
 cc P = cc N cc P?
 2
 xx,

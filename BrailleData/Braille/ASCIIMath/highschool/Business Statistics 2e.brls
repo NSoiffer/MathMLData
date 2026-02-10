@@ -1699,8 +1699,8 @@ sigma^/_ = npq
 (p_A^' -p_B^' )
 p'_A = (X_A)/(n_A)
 p'_B = (X'_B)/(n_(\_B))
-H_0:p_1-p_2 = '\\y01d6ff'_0
-H_1:p_1-p_2 != '\\y01d6ff'_0
+H_0:p_1-p_2 = delta_0
+H_1:p_1-p_2 != delta_0
 H_0:p_A = p_B
 H_a:p_A != p_B
 p_c = (x_A+x_B)/(n_A+n_B)

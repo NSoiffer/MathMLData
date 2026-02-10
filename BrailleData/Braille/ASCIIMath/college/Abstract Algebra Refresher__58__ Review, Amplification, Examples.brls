@@ -1261,11 +1261,11 @@ lambda, mu in F
 u+v in V
 u+v = v+u
 (u+v)+w = u+(v+w)
-'\\y01d7ce'in V
-'\\y01d7ce'+u = u.
+bb 0 in V
+bb 0+u = u.
 u in V,
 -u in V
-u+-u = '\\y01d7ce'.
+u+-u = bb 0.
 lambda u in V.
 lambda(u+v) = lambda u+lambda v
 (lambda+mu)v = lambda v+mu v

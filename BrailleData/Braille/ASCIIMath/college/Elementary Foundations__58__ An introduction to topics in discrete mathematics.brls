@@ -3453,7 +3453,7 @@ x'
 [x^^y, "<mi//>"=xy,, x vv y, "<mi//>"=x+y+xy,, x', "<mi//>"=x+1.]
 x_1, x_2, ..., x_m
 ^^, vv, \ ',
-['\\y01d7ce'(x_1,x_2,...,x_m), "<mi//>"=0,, '\\y01d7cf'(x_1,x_2,...,x_m), "<mi//>"=1.]
+[bb 0(x_1,x_2,...,x_m), "<mi//>"=0,, bb 1(x_1,x_2,...,x_m), "<mi//>"=1.]
 p(x, y) = x'vv y
 q(x, y) = (x^^y')'
 x
@@ -3612,13 +3612,13 @@ V
 n xx n
 S
 n xx n
-'\\y01d7ce'
+bb 0
 n xx n
 in, \ sube, \ uu, \ nn, \ O/, \ "etc."
-'\\y01d7ce'
-'\\y01d7ce'
-'\\y01d7ce'
-'\\y01d7ce'
+bb 0
+bb 0
+bb 0
+bb 0
 {\ }
 Sigma = {a, b, c},
 Sigma^**

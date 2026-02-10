@@ -1,797 +1,797 @@
-\mathbb R
-\mathbb Z
-\omega =\{z \in \mathbb Z \colon z \ge 0\} =\{0, 1, 2, \ldots \}
-\mathbb Q =\{\frac{z}{n +1} \colon z \in \mathbb Z, n \in \omega \}
-\mathscr A
-X .
-X \setminus \bigcup_{A \in \mathscr A} A =\bigcap_{A \in \mathscr A} (X \setminus A)
-X \setminus \bigcap_{A \in \mathscr A} A =\bigcup_{A \in \mathscr A} (X \setminus A)
-x >0,
-n \in \omega
-\frac{1}{n} \lt x .
-S \subseteq \mathbb R
-glbS =\inf S .
-S \subseteq \mathbb R
-lubS =\sup S .
-S =\{ -1, \{5, -e\}, \pi \}
-| S| =3 .
+\mathbb𝐖R𝐖
+\mathbb𝐖Z𝐖
+\omega𝐖𝐖=\{z𝐖\in𝐖\mathbb𝐖Z𝐖𝐖\colon𝐖z𝐖\ge𝐖0\}𝐖=\{0,𝐖1,𝐖2,𝐖\ldots𝐖\}
+\mathbb𝐖Q𝐖𝐖=\{\frac{z}{n𝐖+1}𝐖\colon𝐖z𝐖\in𝐖\mathbb𝐖Z𝐖,𝐖n𝐖\in𝐖\omega𝐖\}
+\mathscr𝐖A𝐖
+X𝐖.
+X𝐖\setminus𝐖\bigcup𝐖_{A𝐖\in𝐖\mathscr𝐖A𝐖}𝐖A𝐖=\bigcap𝐖_{A𝐖\in𝐖\mathscr𝐖A𝐖}𝐖(X𝐖\setminus𝐖A)
+X𝐖\setminus𝐖\bigcap𝐖_{A𝐖\in𝐖\mathscr𝐖A𝐖}𝐖A𝐖=\bigcup𝐖_{A𝐖\in𝐖\mathscr𝐖A𝐖}𝐖(X𝐖\setminus𝐖A)
+x𝐖>0,𝐖
+n𝐖\in𝐖\omega𝐖
+\frac{1}{n}𝐖\lt𝐖x𝐖.
+S𝐖\subseteq𝐖\mathbb𝐖R𝐖
+glbS𝐖=\inf𝐖S𝐖.
+S𝐖\subseteq𝐖\mathbb𝐖R𝐖
+lubS𝐖=\sup𝐖S𝐖.
+S𝐖=\{𝐖-1,𝐖\{5,𝐖𝐖-e\},𝐖\pi𝐖\}
+|𝐖S|𝐖=3𝐖.
 S
-\omega
-| S| \le \aleph_0 .
-| S| =\alpha_0 .
+\omega𝐖
+|𝐖S|𝐖\le𝐖\aleph𝐖_0𝐖𝐖.
+|𝐖S|𝐖=\alpha𝐖_0𝐖𝐖.
 S
-\omega
-| S| >\aleph_0 .
+\omega𝐖
+|𝐖S|𝐖>\aleph𝐖_0𝐖𝐖.
 S
-\mathbb R
-| S| =\mathfrak c .
-a, b \in \mathbb R \cup \{ -\infty, \infty \},
-(a, b) \cap \mathbb Q
-(a, b) \setminus \mathbb Q
-(a, b)
-\mathbb R
-\mathbb Q
-\mathbb R \setminus \mathbb Q .
-f \colon A \to B, g \colon B \to C
-Z \subseteq C,
-(g \circ f)^\leftarrow [Z] =f^\leftarrow [g^\leftarrow [Z]] .
-\mathbb R
-\mathbb R^\ast =\{x \in \mathbb R \colon x \ge 0\} .
-\mathbb R^2
-\mathbb R^{2 \ast} =\{ \langle x, y \rangle \in \mathbb R^2 \colon x \ge 0\} .
-\mathbb R^3,
-\mathbb R^2 .
-\mathbb R^2;
-d \colon X^2 \to [0, \infty)
-x, y, z \in X .
-d(x, y) =0
-x =y .
-d(x, y) =d(y, x)
-d(x, z) \le d(x, y) +d(y, z)
+\mathbb𝐖R𝐖
+|𝐖S|𝐖=\mathfrak𝐖c𝐖𝐖.
+a,𝐖b𝐖\in𝐖\mathbb𝐖R𝐖𝐖\cup𝐖\{𝐖-\infty𝐖,𝐖\infty𝐖\},𝐖
+(a,𝐖b)𝐖\cap𝐖\mathbb𝐖Q𝐖
+(a,𝐖b)𝐖\setminus𝐖\mathbb𝐖Q𝐖
+(a,𝐖b)
+\mathbb𝐖R𝐖
+\mathbb𝐖Q𝐖
+\mathbb𝐖R𝐖𝐖\setminus𝐖\mathbb𝐖Q𝐖𝐖.
+f𝐖\colon𝐖A𝐖\to𝐖B,𝐖g𝐖\colon𝐖B𝐖\to𝐖C
+Z𝐖\subseteq𝐖C,𝐖
+(g𝐖\circ𝐖f)^\leftarrow𝐖𝐖[Z]𝐖=f^\leftarrow𝐖𝐖[g^\leftarrow𝐖𝐖[Z]]𝐖.
+\mathbb𝐖R𝐖
+\mathbb𝐖R𝐖^\ast𝐖𝐖𝐖=\{x𝐖\in𝐖\mathbb𝐖R𝐖𝐖\colon𝐖x𝐖\ge𝐖0\}𝐖.
+\mathbb𝐖R𝐖^2𝐖
+\mathbb𝐖R𝐖^{2𝐖\ast𝐖}𝐖𝐖=\{𝐖\langle𝐖x,𝐖y𝐖\rangle𝐖𝐖\in𝐖\mathbb𝐖R𝐖^2𝐖𝐖\colon𝐖x𝐖\ge𝐖0\}𝐖.
+\mathbb𝐖R𝐖^3𝐖,𝐖
+\mathbb𝐖R𝐖^2𝐖𝐖.
+\mathbb𝐖R𝐖^2𝐖;𝐖
+d𝐖\colon𝐖X^2𝐖𝐖\to𝐖[0,𝐖\infty𝐖)
+x,𝐖y,𝐖z𝐖\in𝐖X𝐖.
+d(x,𝐖y)𝐖=0
+x𝐖=y𝐖.
+d(x,𝐖y)𝐖=d(y,𝐖x)
+d(x,𝐖z)𝐖\le𝐖d(x,𝐖y)𝐖+d(y,𝐖z)
 d
-X,
-B_r (x) =\{y \in X \colon d(x, y) \lt r\}
+X,𝐖
+B_r𝐖(x)𝐖=\{y𝐖\in𝐖X𝐖\colon𝐖d(x,𝐖y)𝐖\lt𝐖r\}
 x
-d(x, y) =1
-x, y \in X,
-d(x, x) =0
-d(x, y) =| y -x|
-x, y \in \mathbb R
-d( \langle x_0, x_1 \rangle, \langle y_0, y_1 \rangle) =\sqrt{(y_1 -y_0)^2 +(x_1 -x_0)^2}
-\langle x_0, x_1 \rangle, \langle y_0, y_1 \rangle \in \mathbb R^2 .
-d( \langle x_0, x_1 \rangle, \langle y_0, y_1 \rangle) =| y_1 -y_0 | +| x_1 -x_0 |
-\langle x_0, x_1 \rangle, \langle y_0, y_1 \rangle \in \mathbb R^2 .
-d( \langle x_0, x_1 \rangle, \langle y_0, y_1 \rangle) =\max \{| y_1 -y_0 |, | x_1 -x_0 |\}
-\langle x_0, x_1 \rangle, \langle y_0, y_1 \rangle \in \mathbb R^2 .
+d(x,𝐖y)𝐖=1
+x,𝐖y𝐖\in𝐖X,𝐖
+d(x,𝐖x)𝐖=0
+d(x,𝐖y)𝐖=|𝐖y𝐖-x|
+x,𝐖y𝐖\in𝐖\mathbb𝐖R𝐖
+d(𝐖\langle𝐖x_0𝐖,𝐖x_1𝐖𝐖\rangle𝐖,𝐖𝐖\langle𝐖y_0𝐖,𝐖y_1𝐖𝐖\rangle𝐖)𝐖=\sqrt{(y_1𝐖𝐖-y_0𝐖)^2𝐖𝐖+(x_1𝐖𝐖-x_0𝐖)^2𝐖}
+𝐖\langle𝐖x_0𝐖,𝐖x_1𝐖𝐖\rangle𝐖,𝐖𝐖\langle𝐖y_0𝐖,𝐖y_1𝐖𝐖\rangle𝐖𝐖\in𝐖\mathbb𝐖R𝐖^2𝐖𝐖.
+d(𝐖\langle𝐖x_0𝐖,𝐖x_1𝐖𝐖\rangle𝐖,𝐖𝐖\langle𝐖y_0𝐖,𝐖y_1𝐖𝐖\rangle𝐖)𝐖=|𝐖y_1𝐖𝐖-y_0𝐖|𝐖+|𝐖x_1𝐖𝐖-x_0𝐖|
+𝐖\langle𝐖x_0𝐖,𝐖x_1𝐖𝐖\rangle𝐖,𝐖𝐖\langle𝐖y_0𝐖,𝐖y_1𝐖𝐖\rangle𝐖𝐖\in𝐖\mathbb𝐖R𝐖^2𝐖𝐖.
+d(𝐖\langle𝐖x_0𝐖,𝐖x_1𝐖𝐖\rangle𝐖,𝐖𝐖\langle𝐖y_0𝐖,𝐖y_1𝐖𝐖\rangle𝐖)𝐖=\max𝐖\{|𝐖y_1𝐖𝐖-y_0𝐖|,𝐖|𝐖x_1𝐖𝐖-x_0𝐖|\}
+𝐖\langle𝐖x_0𝐖,𝐖x_1𝐖𝐖\rangle𝐖,𝐖𝐖\langle𝐖y_0𝐖,𝐖y_1𝐖𝐖\rangle𝐖𝐖\in𝐖\mathbb𝐖R𝐖^2𝐖𝐖.
 d
-X .
-\mscrB =\{B_r (x) \colon x \in X, r >0\}
-X .
-T_4 .
-B_r (x), B_r^' (x)
+X𝐖.
+\mscrB𝐖𝐖=\{B_r𝐖(x)𝐖\colon𝐖x𝐖\in𝐖X,𝐖r𝐖>0\}
+X𝐖.
+T_4𝐖𝐖.
+B_r𝐖(x),𝐖B_r^'𝐖(x)
 x
-d, d'
-d, d'
-x \in X
-\epsilon >0,
-\delta >0
-B_\delta (x) \subseteq B_\epsilon^' (x)
-B_\delta (x)' \subseteq B_\epsilon (x) .
-\vec{x} = \langle x_0, \ldots, x_{n -1} \rangle \in \mathbb R^n,
-\vec{x}(i) =x_i .
-\mathbb R^n
-d(\vec{x}, \vec{y}) =\sqrt{\sum_{0 \le i \lt n} (\vec{y}(i) -\vec{x}(i))^2}
-d(\vec{x}, \vec{y}) =\sum_{0 \le i \lt n} | \vec{y}(i) -\vec{x}(i)|
-d(\vec{x}, \vec{y}) =\max \{| \vec{y}(i) -\vec{x}(i)| \colon 0 \le i \lt n\}
-\mathbb R^n .
-\mathbb R^1
-\mathbb R
+d,𝐖d'
+d,𝐖d'
+x𝐖\in𝐖X
+\epsilon𝐖𝐖>0,𝐖
+\delta𝐖𝐖>0
+B_\delta𝐖𝐖(x)𝐖\subseteq𝐖B_\epsilon𝐖^'𝐖(x)
+B_\delta𝐖𝐖(x)'𝐖\subseteq𝐖B_\epsilon𝐖𝐖(x)𝐖.
+\vec{x}𝐖=𝐖\langle𝐖x_0𝐖,𝐖\ldots𝐖,𝐖x_{n𝐖-1}𝐖𝐖\rangle𝐖𝐖\in𝐖\mathbb𝐖R𝐖^n𝐖,𝐖
+\vec{x}(i)𝐖=x_i𝐖𝐖.
+\mathbb𝐖R𝐖^n𝐖
+d(\vec{x},𝐖\vec{y})𝐖=\sqrt{\sum𝐖_{0𝐖\le𝐖i𝐖\lt𝐖n}𝐖(\vec{y}(i)𝐖-\vec{x}(i))^2𝐖}
+d(\vec{x},𝐖\vec{y})𝐖=\sum𝐖_{0𝐖\le𝐖i𝐖\lt𝐖n}𝐖|𝐖\vec{y}(i)𝐖-\vec{x}(i)|
+d(\vec{x},𝐖\vec{y})𝐖=\max𝐖\{|𝐖\vec{y}(i)𝐖-\vec{x}(i)|𝐖\colon𝐖0𝐖\le𝐖i𝐖\lt𝐖n\}
+\mathbb𝐖R𝐖^n𝐖𝐖.
+\mathbb𝐖R𝐖^1𝐖
+\mathbb𝐖R𝐖
 x
-\mscrB_x
+\mscrB𝐖_x𝐖
 U
-x,
-B \in \mscrB_x
-x \in B_x \subseteq U .
+x,𝐖
+B𝐖\in𝐖\mscrB𝐖_x𝐖
+x𝐖\in𝐖B_x𝐖𝐖\subseteq𝐖U𝐖.
 X
 X
-\mathbb R^n
-\vec{x}, \vec{y} \in \mathbb R^2,
-d(\vec{x}, \vec{y}) =1
-\vec{x}(1) \not= \vec{y}(1),
-d(\vec{x}, \vec{y}) =| \vec{y}(0) -\vec{x}(0)|
+\mathbb𝐖R𝐖^n𝐖
+\vec{x},𝐖\vec{y}𝐖\in𝐖\mathbb𝐖R𝐖^2𝐖,𝐖
+d(\vec{x},𝐖\vec{y})𝐖=1
+\vec{x}(1)𝐖\not=𝐖\vec{y}(1),𝐖
+d(\vec{x},𝐖\vec{y})𝐖=|𝐖\vec{y}(0)𝐖-\vec{x}(0)|
 d
-\mathbb R^2
-\{\vec{x} \colon \vec{x}(1) \in \{0, 1\}\}
-(0, 1) \cup (2, 3)
+\mathbb𝐖R𝐖^2𝐖
+\{\vec{x}𝐖\colon𝐖\vec{x}(1)𝐖\in𝐖\{0,𝐖1\}\}
+(0,𝐖1)𝐖\cup𝐖(2,𝐖3)
 x
 A
-B \subseteq A \setminus \{x\}
+B𝐖\subseteq𝐖A𝐖\setminus𝐖\{x\}
 x
-B .
+B𝐖.
 X
 x
 x
 A
-\epsilon >0,
-\{x \in A \colon \exists y \in A(d(x, y) \ge \epsilon)\}
-d \colon X \to [0, \infty)
-Y \subseteq X .
+\epsilon𝐖𝐖>0,𝐖
+\{x𝐖\in𝐖A𝐖\colon𝐖𝐖\exists𝐖y𝐖\in𝐖A(d(x,𝐖y)𝐖\ge𝐖\epsilon𝐖)\}
+d𝐖\colon𝐖X𝐖\to𝐖[0,𝐖\infty𝐖)
+Y𝐖\subseteq𝐖X𝐖.
 d
 Y
-Y .
-(0, 1)
-\mathbb R .
-\mathbb Q
-\mathbb R \setminus \mathbb Q
-\mathbb R .
+Y𝐖.
+(0,𝐖1)
+\mathbb𝐖R𝐖𝐖.
+\mathbb𝐖Q𝐖
+\mathbb𝐖R𝐖𝐖\setminus𝐖\mathbb𝐖Q𝐖
+\mathbb𝐖R𝐖𝐖.
 X
 Y
 X
 Y
-\langle X, \mathscr T \rangle .
-\mathscr T
-T_0
-x, y \in X
-x \not= y,
+𝐖\langle𝐖X,𝐖\mathscr𝐖T𝐖𝐖\rangle𝐖𝐖.
+\mathscr𝐖T𝐖
+T_0𝐖
+x,𝐖y𝐖\in𝐖X
+x𝐖\not=𝐖y,𝐖
 U
 x
-y \notin U,
+y𝐖\notin𝐖U,𝐖
 V
 y
-x \notin V .
-\mathscr T
-T_1
-x, y \in X
-x \not= y,
+x𝐖\notin𝐖V𝐖.
+\mathscr𝐖T𝐖
+T_1𝐖
+x,𝐖y𝐖\in𝐖X
+x𝐖\not=𝐖y,𝐖
 U
 x
-y \notin U .
-\mathscr T
-T_2
-x, y \in X
-x \not= y,
-U, V
-x, y
-U \cap V =\varnothing .
-T_2 \Rightarrow T_1 \Rightarrow T_0 .
-\langle X, \mathscr T \rangle
-T_0 .
-T_0
-T_1 .
-T_1
-T_2 .
+y𝐖\notin𝐖U𝐖.
+\mathscr𝐖T𝐖
+T_2𝐖
+x,𝐖y𝐖\in𝐖X
+x𝐖\not=𝐖y,𝐖
+U,𝐖V
+x,𝐖y
+U𝐖\cap𝐖V𝐖=\varnothing𝐖𝐖.
+T_2𝐖𝐖\Rightarrow𝐖T_1𝐖𝐖\Rightarrow𝐖T_0𝐖𝐖.
+𝐖\langle𝐖X,𝐖\mathscr𝐖T𝐖𝐖\rangle𝐖
+T_0𝐖𝐖.
+T_0𝐖
+T_1𝐖𝐖.
+T_1𝐖
+T_2𝐖𝐖.
 X
-T_1
+T_1𝐖
 X
 X
 X
-T_1
+T_1𝐖
 X
-\langle X, \mathscr T \rangle .
-\mathscr T
-x \in X
-H \subseteq X
-x \notin H,
-U, V \in \mathscr T
-x \in U, H \subseteq V, U \cap V =\varnothing .
-\mathscr T
-T_3
-T_1
-\mathscr T
-H, L \subseteq X
-H \cap L =\varnothing,
-U, V \in \mathscr T
-H \subseteq U, L \subseteq V, U \cap V =\varnothing .
-\mathscr T
-T_4
-T_1
-T_{n +1} \Rightarrow T_n
-n \in \{0, 1, 2, 3\} .
-\mathbb R
-T_3 .
-T_4,
-T_2
-T_3
-T_4
-T_3 .
-T_4 .
+𝐖\langle𝐖X,𝐖\mathscr𝐖T𝐖𝐖\rangle𝐖𝐖.
+\mathscr𝐖T𝐖
+x𝐖\in𝐖X
+H𝐖\subseteq𝐖X
+x𝐖\notin𝐖H,𝐖
+U,𝐖V𝐖\in𝐖\mathscr𝐖T𝐖
+x𝐖\in𝐖U,𝐖H𝐖\subseteq𝐖V,𝐖U𝐖\cap𝐖V𝐖=\varnothing𝐖𝐖.
+\mathscr𝐖T𝐖
+T_3𝐖
+T_1𝐖
+\mathscr𝐖T𝐖
+H,𝐖L𝐖\subseteq𝐖X
+H𝐖\cap𝐖L𝐖=\varnothing𝐖,𝐖
+U,𝐖V𝐖\in𝐖\mathscr𝐖T𝐖
+H𝐖\subseteq𝐖U,𝐖L𝐖\subseteq𝐖V,𝐖U𝐖\cap𝐖V𝐖=\varnothing𝐖𝐖.
+\mathscr𝐖T𝐖
+T_4𝐖
+T_1𝐖
+T_{n𝐖+1}𝐖𝐖\Rightarrow𝐖T_n𝐖
+n𝐖\in𝐖\{0,𝐖1,𝐖2,𝐖3\}𝐖.
+\mathbb𝐖R𝐖
+T_3𝐖𝐖.
+T_4𝐖,𝐖
+T_2𝐖
+T_3𝐖
+T_4𝐖
+T_3𝐖𝐖.
+T_4𝐖𝐖.
 x
-U,
+U,𝐖
 V
 x
-x \in V \subseteq clV \subseteq U .
+x𝐖\in𝐖V𝐖\subseteq𝐖clV𝐖\subseteq𝐖U𝐖.
 H
-U \supseteq H,
-V \supseteq H
-H \subseteq V \subseteq clV \subseteq U .
-T_3
-T_0 .
-n \in \{0, 1, 2, 3\} .
-T_n
-T_n .
-n \in \{0, 1, 2\}
-f \colon X \to Y
+U𝐖\supseteq𝐖H,𝐖
+V𝐖\supseteq𝐖H
+H𝐖\subseteq𝐖V𝐖\subseteq𝐖clV𝐖\subseteq𝐖U𝐖.
+T_3𝐖
+T_0𝐖𝐖.
+n𝐖\in𝐖\{0,𝐖1,𝐖2,𝐖3\}𝐖.
+T_n𝐖
+T_n𝐖𝐖.
+n𝐖\in𝐖\{0,𝐖1,𝐖2\}
+f𝐖\colon𝐖X𝐖\to𝐖Y
 Y
-T_n,
+T_n𝐖,𝐖
 X
-T_n .
-n \in \{3, 4\}
-f \colon X \to Y
+T_n𝐖𝐖.
+n𝐖\in𝐖\{3,𝐖4\}
+f𝐖\colon𝐖X𝐖\to𝐖Y
 Y
-T_n,
+T_n𝐖,𝐖
 X
-T_n .
-X, Y
-\mscrB_X, \mscrB_Y .
-X \times Y =\{ \langle x, y \rangle \colon x \in X, y \in Y\}
-\mscrB =\{U \times V \colon U \in \mscrB_X, V \in \mscrB_Y \} .
-X \times Y
-Y \times X
-p \in Y .
-X \times \{p\} =\{ \langle x, p \rangle \colon x \in X\}
-X \times Y
-X .
-\mathbb R^{n +1}
-\mathbb R^n \times \mathbb R .
-X \times Y
-X, Y
-X \times Y
-X, Y
-S =\mathbb R
-S \times S
-H =\{ \langle x, -x \rangle \colon x \in \mathbb Q \}
-L =\{ \langle x, -x \rangle \colon x \in \mathbb R \setminus \mathbb Q \}
-S =\mathbb R
+T_n𝐖𝐖.
+X,𝐖Y
+\mscrB𝐖_X𝐖,𝐖\mscrB𝐖_Y𝐖𝐖.
+X𝐖\times𝐖Y𝐖=\{𝐖\langle𝐖x,𝐖y𝐖\rangle𝐖𝐖\colon𝐖x𝐖\in𝐖X,𝐖y𝐖\in𝐖Y\}
+\mscrB𝐖𝐖=\{U𝐖\times𝐖V𝐖\colon𝐖U𝐖\in𝐖\mscrB𝐖_X𝐖,𝐖V𝐖\in𝐖\mscrB𝐖_Y𝐖\}𝐖.
+X𝐖\times𝐖Y
+Y𝐖\times𝐖X
+p𝐖\in𝐖Y𝐖.
+X𝐖\times𝐖\{p\}𝐖=\{𝐖\langle𝐖x,𝐖p𝐖\rangle𝐖𝐖\colon𝐖x𝐖\in𝐖X\}
+X𝐖\times𝐖Y
+X𝐖.
+\mathbb𝐖R𝐖^{n𝐖+1}𝐖
+\mathbb𝐖R𝐖^n𝐖𝐖\times𝐖\mathbb𝐖R𝐖𝐖.
+X𝐖\times𝐖Y
+X,𝐖Y
+X𝐖\times𝐖Y
+X,𝐖Y
+S𝐖=\mathbb𝐖R𝐖
+S𝐖\times𝐖S
+H𝐖=\{𝐖\langle𝐖x,𝐖𝐖-x𝐖\rangle𝐖𝐖\colon𝐖x𝐖\in𝐖\mathbb𝐖Q𝐖\}
+L𝐖=\{𝐖\langle𝐖x,𝐖𝐖-x𝐖\rangle𝐖𝐖\colon𝐖x𝐖\in𝐖\mathbb𝐖R𝐖𝐖\setminus𝐖\mathbb𝐖Q𝐖\}
+S𝐖=\mathbb𝐖R𝐖
 S
-S \times S
-\Delta =\{ \langle x, x \rangle \colon x \in X\}
-X \times X
-X .
-X \times Y,
-\pi_X \colon X \times Y \to X
-\pi_Y \colon X \times Y \to Y
-\pi_X ( \langle x, y \rangle) =x
-\pi_Y ( \langle x, y \rangle) =y .
-X \times Y
-X, Y
+S𝐖\times𝐖S
+\Delta𝐖𝐖=\{𝐖\langle𝐖x,𝐖x𝐖\rangle𝐖𝐖\colon𝐖x𝐖\in𝐖X\}
+X𝐖\times𝐖X
+X𝐖.
+X𝐖\times𝐖Y,𝐖
+\pi𝐖_X𝐖𝐖\colon𝐖X𝐖\times𝐖Y𝐖\to𝐖X
+\pi𝐖_Y𝐖𝐖\colon𝐖X𝐖\times𝐖Y𝐖\to𝐖Y
+\pi𝐖_X𝐖(𝐖\langle𝐖x,𝐖y𝐖\rangle𝐖)𝐖=x
+\pi𝐖_Y𝐖(𝐖\langle𝐖x,𝐖y𝐖\rangle𝐖)𝐖=y𝐖.
+X𝐖\times𝐖Y
+X,𝐖Y
 Y
-\mathscr U
-X \times Y,
-x \in X
-\mscrF_x \subseteq \mathscr U
-U_x
+\mathscr𝐖U𝐖
+X𝐖\times𝐖Y,𝐖
+x𝐖\in𝐖X
+\mscrF𝐖_x𝐖𝐖\subseteq𝐖\mathscr𝐖U𝐖
+U_x𝐖
 x
-U_x \times Y \subseteq \bigcup \mscrF_x .
-X \times Y
-X, Y
-X \times Y
-X, Y
-X^\ast
+U_x𝐖𝐖\times𝐖Y𝐖\subseteq𝐖𝐖\bigcup𝐖\mscrF𝐖_x𝐖𝐖.
+X𝐖\times𝐖Y
+X,𝐖Y
+X𝐖\times𝐖Y
+X,𝐖Y
+X^\ast𝐖𝐖
 X
-\mathscr T .
-\mathscr T^\ast =\{U^\ast \subseteq X^\ast \colon \bigcup U^\ast \in \mathscr T \}
-X^\ast .
-X^\ast
-(X \times Y)^\ast =\{\{x\} \times Y \colon x \in X\}
-X \times Y .
-(X \times Y)^\ast
-X .
-R \subseteq X^2
-X,
+\mathscr𝐖T𝐖𝐖.
+\mathscr𝐖T𝐖^\ast𝐖𝐖𝐖=\{U^\ast𝐖𝐖𝐖\subseteq𝐖X^\ast𝐖𝐖𝐖\colon𝐖𝐖\bigcup𝐖U^\ast𝐖𝐖𝐖\in𝐖\mathscr𝐖T𝐖\}
+X^\ast𝐖𝐖𝐖.
+X^\ast𝐖𝐖
+(X𝐖\times𝐖Y)^\ast𝐖𝐖𝐖=\{\{x\}𝐖\times𝐖Y𝐖\colon𝐖x𝐖\in𝐖X\}
+X𝐖\times𝐖Y𝐖.
+(X𝐖\times𝐖Y)^\ast𝐖𝐖
+X𝐖.
+R𝐖\subseteq𝐖X^2𝐖
+X,𝐖
 xRy
-\langle x, y \rangle \in R .
-\sim
+𝐖\langle𝐖x,𝐖y𝐖\rangle𝐖𝐖\in𝐖R𝐖.
+\sim𝐖
 X
-x, y, z \in X .
-x \sim x .
-x \sim y
-y \sim x .
-x \sim y
-y \sim z
-y \sim z .
-X^\ast
+x,𝐖y,𝐖z𝐖\in𝐖X𝐖.
+x𝐖\sim𝐖x𝐖.
+x𝐖\sim𝐖y
+y𝐖\sim𝐖x𝐖.
+x𝐖\sim𝐖y
+y𝐖\sim𝐖z
+y𝐖\sim𝐖z𝐖.
+X^\ast𝐖𝐖
 X
-\sim
+\sim𝐖
 X
-x \sim y
-\{x, y\} \subseteq A
-A \in X^\ast .
-\sim
-\sim
-X,
-[x] =\{y \in X \colon x \sim y\} .
-X^\ast =\{[x] \colon x \in X\}
-X .
-\sim
-X .
-X/ \sim
-X^\ast
+x𝐖\sim𝐖y
+\{x,𝐖y\}𝐖\subseteq𝐖A
+A𝐖\in𝐖X^\ast𝐖𝐖𝐖.
+\sim𝐖
+\sim𝐖
+X,𝐖
+[x]𝐖=\{y𝐖\in𝐖X𝐖\colon𝐖x𝐖\sim𝐖y\}𝐖.
+X^\ast𝐖𝐖𝐖=\{[x]𝐖\colon𝐖x𝐖\in𝐖X\}
+X𝐖.
+\sim𝐖
+X𝐖.
+X/𝐖\sim𝐖
+X^\ast𝐖𝐖
 R
-X .
-\sim = \bigcap \{\sim^\star \subseteq X^2 \colon R \subseteq \sim^\star \~and\~\sim^\star \~is\space an\space equivalence\space relation\space on\~X\}
-X .
-\sim_Y
-X \times Y
-\langle x, a \rangle \sim_Y \langle x, b \rangle .
-(X \times Y)/\sim_Y
-X .
-X =[0, 1]/ \sim
-0 \sim 1,
-Y =\{ \langle x, y \rangle \in \mathbb R^2 \colon x^2 +y^2 =1\} .
-X =[0, 2]/ \sim
-0 \sim 1 \sim 2,
-Y =\{ \langle x, y \rangle \in \mathbb R^2 \colon (x -1)^2 +y^2 =1\} \cup \{ \langle x, y \rangle \in \mathbb R^2 \colon (x +1)^2 +y^2 =1\} .
-X =[0, 1]^2 / \sim
-\langle 0, y \rangle \sim \langle 1, y \rangle,
-Y =\{ \langle x, y \rangle \in \mathbb R^2 \colon 1 \le x^2 +y^2 \le 2\} .
-X =[0, 1]^2 / \sim
-\langle x, y \rangle \sim \langle z, w \rangle
-x, y
-z, w
-\{0, 1\},
-Y =\{ \langle x, y, z \rangle \in \mathbb R^2 \colon 1 \le x^2 +y^2 +z^2 =1\} .
+X𝐖.
+𝐖\sim𝐖=𝐖\bigcap𝐖\{\sim𝐖^\star𝐖𝐖𝐖\subseteq𝐖X^2𝐖𝐖\colon𝐖R𝐖\subseteq𝐖\sim𝐖^\star𝐖𝐖\~and\~\sim𝐖^\star𝐖𝐖\~is\space𝐖an\space𝐖equivalence\space𝐖relation\space𝐖on\~X\}
+X𝐖.
+\sim𝐖_Y𝐖
+X𝐖\times𝐖Y
+𝐖\langle𝐖x,𝐖a𝐖\rangle𝐖\sim𝐖_Y𝐖𝐖\langle𝐖x,𝐖b𝐖\rangle𝐖𝐖.
+(X𝐖\times𝐖Y)/\sim𝐖_Y𝐖
+X𝐖.
+X𝐖=[0,𝐖1]/𝐖\sim𝐖
+0𝐖\sim𝐖1,𝐖
+Y𝐖=\{𝐖\langle𝐖x,𝐖y𝐖\rangle𝐖𝐖\in𝐖\mathbb𝐖R𝐖^2𝐖𝐖\colon𝐖x^2𝐖𝐖+y^2𝐖𝐖=1\}𝐖.
+X𝐖=[0,𝐖2]/𝐖\sim𝐖
+0𝐖\sim𝐖1𝐖\sim𝐖2,𝐖
+Y𝐖=\{𝐖\langle𝐖x,𝐖y𝐖\rangle𝐖𝐖\in𝐖\mathbb𝐖R𝐖^2𝐖𝐖\colon𝐖(x𝐖-1)^2𝐖𝐖+y^2𝐖𝐖=1\}𝐖\cup𝐖\{𝐖\langle𝐖x,𝐖y𝐖\rangle𝐖𝐖\in𝐖\mathbb𝐖R𝐖^2𝐖𝐖\colon𝐖(x𝐖+1)^2𝐖𝐖+y^2𝐖𝐖=1\}𝐖.
+X𝐖=[0,𝐖1]^2𝐖/𝐖\sim𝐖
+𝐖\langle𝐖0,𝐖y𝐖\rangle𝐖𝐖\sim𝐖𝐖\langle𝐖1,𝐖y𝐖\rangle𝐖,𝐖
+Y𝐖=\{𝐖\langle𝐖x,𝐖y𝐖\rangle𝐖𝐖\in𝐖\mathbb𝐖R𝐖^2𝐖𝐖\colon𝐖1𝐖\le𝐖x^2𝐖𝐖+y^2𝐖𝐖\le𝐖2\}𝐖.
+X𝐖=[0,𝐖1]^2𝐖/𝐖\sim𝐖
+𝐖\langle𝐖x,𝐖y𝐖\rangle𝐖𝐖\sim𝐖𝐖\langle𝐖z,𝐖w𝐖\rangle𝐖
+x,𝐖y
+z,𝐖w
+\{0,𝐖1\},𝐖
+Y𝐖=\{𝐖\langle𝐖x,𝐖y,𝐖z𝐖\rangle𝐖𝐖\in𝐖\mathbb𝐖R𝐖^2𝐖𝐖\colon𝐖1𝐖\le𝐖x^2𝐖𝐖+y^2𝐖𝐖+z^2𝐖𝐖=1\}𝐖.
 n
-S^n =[0, 1]^n / \sim
-\vec{x} \sim \vec{y}
-i, j \in \{0, \ldots, n\}
-\vec{x}(i), \vec{y}(j) \in \{0, 1\} .
-M =[0, 1]^2 / \sim
-\langle 0, y \rangle \sim \langle 1, 1 -y \rangle .
-T =[0, 1]^2 / \sim
-\langle 0, y \rangle \sim \langle 1, y \rangle
-\langle x, 0 \rangle \sim \langle x, 1 \rangle .
-K =[0, 1]^2 / \sim
-\langle 0, y \rangle \sim \langle 1, 1 -y \rangle
-\langle x, 0 \rangle \sim \langle x, 1 \rangle .
-\mathscr A \subseteq \mathcal P (X)
-Y \subseteq X
-Y \subseteq \bigcup \mathscr A .
-K \subseteq X
-\mathscr U
-K,
-\mscrF \subseteq \mathscr U
-K .
-\mathbb R
-\mathbb R
-\mathbb Z
-\{2^{ -n} \colon n \in \omega \}
-\{0\} \cup \{2^{ -n} \colon n \in \omega \}
-(0, 1)
-A \subseteq X
-d(x, y)
-D \in [0, \infty)
-d(x, y) \lt D
-x, y \in A .
-\mathscr T =\{\varnothing \} \cup \{\omega \setminus F \colon F\~is\space finite\}
-\omega .
-\omega
-K \subseteq \mathbb R^n
+S^n𝐖𝐖=[0,𝐖1]^n𝐖/𝐖\sim𝐖
+\vec{x}𝐖\sim𝐖\vec{y}
+i,𝐖j𝐖\in𝐖\{0,𝐖\ldots𝐖,𝐖n\}
+\vec{x}(i),𝐖\vec{y}(j)𝐖\in𝐖\{0,𝐖1\}𝐖.
+M𝐖=[0,𝐖1]^2𝐖/𝐖\sim𝐖
+𝐖\langle𝐖0,𝐖y𝐖\rangle𝐖𝐖\sim𝐖𝐖\langle𝐖1,𝐖1𝐖-y𝐖\rangle𝐖𝐖.
+T𝐖=[0,𝐖1]^2𝐖/𝐖\sim𝐖
+𝐖\langle𝐖0,𝐖y𝐖\rangle𝐖𝐖\sim𝐖𝐖\langle𝐖1,𝐖y𝐖\rangle𝐖
+𝐖\langle𝐖x,𝐖0𝐖\rangle𝐖𝐖\sim𝐖𝐖\langle𝐖x,𝐖1𝐖\rangle𝐖𝐖.
+K𝐖=[0,𝐖1]^2𝐖/𝐖\sim𝐖
+𝐖\langle𝐖0,𝐖y𝐖\rangle𝐖𝐖\sim𝐖𝐖\langle𝐖1,𝐖1𝐖-y𝐖\rangle𝐖
+𝐖\langle𝐖x,𝐖0𝐖\rangle𝐖𝐖\sim𝐖𝐖\langle𝐖x,𝐖1𝐖\rangle𝐖𝐖.
+\mathscr𝐖A𝐖𝐖\subseteq𝐖\mathcal𝐖P𝐖(X)
+Y𝐖\subseteq𝐖X
+Y𝐖\subseteq𝐖𝐖\bigcup𝐖\mathscr𝐖A𝐖𝐖.
+K𝐖\subseteq𝐖X
+\mathscr𝐖U𝐖
+K,𝐖
+\mscrF𝐖𝐖\subseteq𝐖\mathscr𝐖U𝐖
+K𝐖.
+\mathbb𝐖R𝐖
+\mathbb𝐖R𝐖
+\mathbb𝐖Z𝐖
+\{2^{𝐖-n}𝐖𝐖\colon𝐖n𝐖\in𝐖\omega𝐖\}
+\{0\}𝐖\cup𝐖\{2^{𝐖-n}𝐖𝐖\colon𝐖n𝐖\in𝐖\omega𝐖\}
+(0,𝐖1)
+A𝐖\subseteq𝐖X
+d(x,𝐖y)
+D𝐖\in𝐖[0,𝐖\infty𝐖)
+d(x,𝐖y)𝐖\lt𝐖D
+x,𝐖y𝐖\in𝐖A𝐖.
+\mathscr𝐖T𝐖𝐖=\{\varnothing𝐖\}𝐖\cup𝐖\{\omega𝐖𝐖\setminus𝐖F𝐖\colon𝐖F\~is\space𝐖finite\}
+\omega𝐖𝐖.
+\omega𝐖
+K𝐖\subseteq𝐖\mathbb𝐖R𝐖^n𝐖
 K
-R \subseteq X
-\mathscr U
-X,
-\mscrF \subseteq \mathscr U
-K .
+R𝐖\subseteq𝐖X
+\mathscr𝐖U𝐖
+X,𝐖
+\mscrF𝐖𝐖\subseteq𝐖\mathscr𝐖U𝐖
+K𝐖.
 X
-R \subseteq X
+R𝐖\subseteq𝐖X
 clR
-K \subseteq \mathbb R^n
+K𝐖\subseteq𝐖\mathbb𝐖R𝐖^n𝐖
 K
 X
 K
-X .
+X𝐖.
 K
-f \colon X \to Y
-K \subseteq X
+f𝐖\colon𝐖X𝐖\to𝐖Y
+K𝐖\subseteq𝐖X
 f[K]
-\mathscr K =\{K_n \colon n \in \omega \}
-K_{n +1} \subseteq K_n
-n \in \omega .
-\bigcap \mathscr K
+\mathscr𝐖K𝐖𝐖=\{K_n𝐖𝐖\colon𝐖n𝐖\in𝐖\omega𝐖\}
+K_{n𝐖+1}𝐖𝐖\subseteq𝐖K_n𝐖
+n𝐖\in𝐖\omega𝐖𝐖.
+𝐖\bigcap𝐖\mathscr𝐖K𝐖
 X
-K \subseteq X .
+K𝐖\subseteq𝐖X𝐖.
 K
 K
 K
 X
-H, K
-U, V
-H \subseteq U
-K \subseteq V .
-T_4 .
-0 \in \omega
-a, b \in \mathbb R .
+H,𝐖K
+U,𝐖V
+H𝐖\subseteq𝐖U
+K𝐖\subseteq𝐖V𝐖.
+T_4𝐖𝐖.
+0𝐖\in𝐖\omega𝐖
+a,𝐖b𝐖\in𝐖\mathbb𝐖R𝐖𝐖.
 a
 b
-(a, b) =\{x \in \mathbb R \colon a \lt x \lt b\}
-x \in \mathbb R
-S \subseteq \mathbb R .
+(a,𝐖b)𝐖=\{x𝐖\in𝐖\mathbb𝐖R𝐖𝐖\colon𝐖a𝐖\lt𝐖x𝐖\lt𝐖b\}
+x𝐖\in𝐖\mathbb𝐖R𝐖
+S𝐖\subseteq𝐖\mathbb𝐖R𝐖𝐖.
 x
 S
-(a, b)
-x,
-y \in S
-x \not= y
-y \in (a, b) .
+(a,𝐖b)
+x,𝐖
+y𝐖\in𝐖S
+x𝐖\not=𝐖y
+y𝐖\in𝐖(a,𝐖b)𝐖.
 0
-\mathbb Z
-\mathbb R \setminus \mathbb Z
-\{\frac{1}{n +1} \colon n \in \omega \}
-\mathbb Q
-F \subseteq \mathbb R
-U \subseteq \mathbb R
-x \in U,
-(a, b)
-x \in (a, b) \subseteq U .
-[\pi, 42)
-( -3, -1) \cup (4, 5.5)
-\{x \colon 2x +1 >5\}
-\mathbb Z
-\mathbb R \setminus \mathbb Z
-\mathbb Q
-F \subseteq \mathbb R
-U \subseteq \mathbb R
-\mathscr U
-U = \bigcup \mathscr U .
-x \in \mathbb R
-S \subseteq \mathbb R .
+\mathbb𝐖Z𝐖
+\mathbb𝐖R𝐖𝐖\setminus𝐖\mathbb𝐖Z𝐖
+\{\frac{1}{n𝐖+1}𝐖\colon𝐖n𝐖\in𝐖\omega𝐖\}
+\mathbb𝐖Q𝐖
+F𝐖\subseteq𝐖\mathbb𝐖R𝐖
+U𝐖\subseteq𝐖\mathbb𝐖R𝐖
+x𝐖\in𝐖U,𝐖
+(a,𝐖b)
+x𝐖\in𝐖(a,𝐖b)𝐖\subseteq𝐖U𝐖.
+[\pi𝐖,𝐖42)
+(𝐖-3,𝐖𝐖-1)𝐖\cup𝐖(4,𝐖5.5)
+\{x𝐖\colon𝐖2x𝐖+1𝐖>5\}
+\mathbb𝐖Z𝐖
+\mathbb𝐖R𝐖𝐖\setminus𝐖\mathbb𝐖Z𝐖
+\mathbb𝐖Q𝐖
+F𝐖\subseteq𝐖\mathbb𝐖R𝐖
+U𝐖\subseteq𝐖\mathbb𝐖R𝐖
+\mathscr𝐖U𝐖
+U𝐖=𝐖\bigcup𝐖\mathscr𝐖U𝐖𝐖.
+x𝐖\in𝐖\mathbb𝐖R𝐖
+S𝐖\subseteq𝐖\mathbb𝐖R𝐖𝐖.
 x
 S
 U
-x,
-y \in S
-x \not= y
-y \in U .
-\mathbb R
-\varnothing
-\mathbb R
-\mathscr U
-\bigcup \mathscr U
-U, V
-U \cap V
+x,𝐖
+y𝐖\in𝐖S
+x𝐖\not=𝐖y
+y𝐖\in𝐖U𝐖.
+\mathbb𝐖R𝐖
+\varnothing𝐖
+\mathbb𝐖R𝐖
+\mathscr𝐖U𝐖
+𝐖\bigcup𝐖\mathscr𝐖U𝐖
+U,𝐖V
+U𝐖\cap𝐖V
 X
-\mathscr T \subseteq \mathcal P (X)
-\varnothing, X \in \mathscr T .
-\mathscr U \subseteq \mathscr T,
-\bigcup \mathscr U \in \mathscr T .
-U, V \in \mathscr T,
-U \cap V \in \mathscr T .
-\mathscr T
-X,
-\langle X, \mathscr T \rangle
-U \in \mathscr T
-\langle X, \mathscr T \rangle
+\mathscr𝐖T𝐖𝐖\subseteq𝐖\mathcal𝐖P𝐖(X)
+\varnothing𝐖,𝐖X𝐖\in𝐖\mathscr𝐖T𝐖𝐖.
+\mathscr𝐖U𝐖𝐖\subseteq𝐖\mathscr𝐖T𝐖,𝐖
+𝐖\bigcup𝐖\mathscr𝐖U𝐖𝐖\in𝐖\mathscr𝐖T𝐖𝐖.
+U,𝐖V𝐖\in𝐖\mathscr𝐖T𝐖,𝐖
+U𝐖\cap𝐖V𝐖\in𝐖\mathscr𝐖T𝐖𝐖.
+\mathscr𝐖T𝐖
+X,𝐖
+𝐖\langle𝐖X,𝐖\mathscr𝐖T𝐖𝐖\rangle𝐖
+U𝐖\in𝐖\mathscr𝐖T𝐖
+𝐖\langle𝐖X,𝐖\mathscr𝐖T𝐖𝐖\rangle𝐖
 X
-\mathscr T \subseteq \mathcal P (\mathbb R)
-\mathbb R
-\mathscr T
-\mathbb R
+\mathscr𝐖T𝐖𝐖\subseteq𝐖\mathcal𝐖P𝐖(\mathbb𝐖R𝐖)
+\mathbb𝐖R𝐖
+\mathscr𝐖T𝐖
+\mathbb𝐖R𝐖
 X
-X .
-\mathscr T =\mathcal P (X)
-\mathscr T =\{\varnothing, X\}
-\mathscr T
-\mathscr U \subseteq \mathscr T
-\bigcap \mathscr U \in \mathscr T .
-\mathscr T
-\mathscr U =\{U_n \colon n \in \omega \}
-\bigcap \mathscr U \notin \mathscr T .
-a, b \in \mathbb R \cup \{ -\infty, \infty \} .
-(a, b) =\{x \in \mathbb R \colon a \lt x \lt b\}
-[a, b) =\{x \in \mathbb R \colon a \le x \lt b\}
-(a, b] =\{x \in \mathbb R \colon a \lt x \le b\}
-[a, b] =\{x \in \mathbb R \colon a \le x \le b\}
-\langle X, \mathscr T \rangle .
-X =\mathbb R
-\mathscr T =\{(x, \infty) \colon x \in \mathbb R \} \cup \{[x, \infty) \colon x \in \mathbb R \} \cup \{\varnothing, \mathbb R \} .
-X =\mathbb R
-\mathscr T =\{(x, y) \colon x, y \in \mathbb R \cup \{ -\infty, \infty \}\~and\~x \lt 0 \lt y\} \cup \{\varnothing \} .
-X =\mathbb R
-U \in \mathscr T
-x \in U,
-a, b \in \mathbb R
-x \in [a, b) \subseteq U .
-X =\{0, 1\}
-\mathscr T =\{\varnothing, \{0\}, X\} .
-X =\mathbb Z,
-E =\{n \in \mathbb Z \colon n\~is\space even\},
-D =\{n \in \mathbb Z \colon n\~is\space odd\},
-\mathscr T =\{\varnothing, E, D, X\} .
-\langle X, \mathscr T \rangle
-x \in X .
-N \subseteq X
+X𝐖.
+\mathscr𝐖T𝐖𝐖=\mathcal𝐖P𝐖(X)
+\mathscr𝐖T𝐖𝐖=\{\varnothing𝐖,𝐖X\}
+\mathscr𝐖T𝐖
+\mathscr𝐖U𝐖𝐖\subseteq𝐖\mathscr𝐖T𝐖
+𝐖\bigcap𝐖\mathscr𝐖U𝐖𝐖\in𝐖\mathscr𝐖T𝐖𝐖.
+\mathscr𝐖T𝐖
+\mathscr𝐖U𝐖𝐖=\{U_n𝐖𝐖\colon𝐖n𝐖\in𝐖\omega𝐖\}
+𝐖\bigcap𝐖\mathscr𝐖U𝐖𝐖\notin𝐖\mathscr𝐖T𝐖𝐖.
+a,𝐖b𝐖\in𝐖\mathbb𝐖R𝐖𝐖\cup𝐖\{𝐖-\infty𝐖,𝐖\infty𝐖\}𝐖.
+(a,𝐖b)𝐖=\{x𝐖\in𝐖\mathbb𝐖R𝐖𝐖\colon𝐖a𝐖\lt𝐖x𝐖\lt𝐖b\}
+[a,𝐖b)𝐖=\{x𝐖\in𝐖\mathbb𝐖R𝐖𝐖\colon𝐖a𝐖\le𝐖x𝐖\lt𝐖b\}
+(a,𝐖b]𝐖=\{x𝐖\in𝐖\mathbb𝐖R𝐖𝐖\colon𝐖a𝐖\lt𝐖x𝐖\le𝐖b\}
+[a,𝐖b]𝐖=\{x𝐖\in𝐖\mathbb𝐖R𝐖𝐖\colon𝐖a𝐖\le𝐖x𝐖\le𝐖b\}
+𝐖\langle𝐖X,𝐖\mathscr𝐖T𝐖𝐖\rangle𝐖𝐖.
+X𝐖=\mathbb𝐖R𝐖
+\mathscr𝐖T𝐖𝐖=\{(x,𝐖\infty𝐖)𝐖\colon𝐖x𝐖\in𝐖\mathbb𝐖R𝐖\}𝐖\cup𝐖\{[x,𝐖\infty𝐖)𝐖\colon𝐖x𝐖\in𝐖\mathbb𝐖R𝐖\}𝐖\cup𝐖\{\varnothing𝐖,𝐖\mathbb𝐖R𝐖\}𝐖.
+X𝐖=\mathbb𝐖R𝐖
+\mathscr𝐖T𝐖𝐖=\{(x,𝐖y)𝐖\colon𝐖x,𝐖y𝐖\in𝐖\mathbb𝐖R𝐖𝐖\cup𝐖\{𝐖-\infty𝐖,𝐖\infty𝐖\}\~and\~x𝐖\lt𝐖0𝐖\lt𝐖y\}𝐖\cup𝐖\{\varnothing𝐖\}𝐖.
+X𝐖=\mathbb𝐖R𝐖
+U𝐖\in𝐖\mathscr𝐖T𝐖
+x𝐖\in𝐖U,𝐖
+a,𝐖b𝐖\in𝐖\mathbb𝐖R𝐖
+x𝐖\in𝐖[a,𝐖b)𝐖\subseteq𝐖U𝐖.
+X𝐖=\{0,𝐖1\}
+\mathscr𝐖T𝐖𝐖=\{\varnothing𝐖,𝐖\{0\},𝐖X\}𝐖.
+X𝐖=\mathbb𝐖Z𝐖,𝐖
+E𝐖=\{n𝐖\in𝐖\mathbb𝐖Z𝐖𝐖\colon𝐖n\~is\space𝐖even\},𝐖
+D𝐖=\{n𝐖\in𝐖\mathbb𝐖Z𝐖𝐖\colon𝐖n\~is\space𝐖odd\},𝐖
+\mathscr𝐖T𝐖𝐖=\{\varnothing𝐖,𝐖E,𝐖D,𝐖X\}𝐖.
+𝐖\langle𝐖X,𝐖\mathscr𝐖T𝐖𝐖\rangle𝐖
+x𝐖\in𝐖X𝐖.
+N𝐖\subseteq𝐖X
 x
-U \in \mathscr T
-x \in U \subseteq N .
+U𝐖\in𝐖\mathscr𝐖T𝐖
+x𝐖\in𝐖U𝐖\subseteq𝐖N𝐖.
 U
 X
 U
-S \subseteq X
+S𝐖\subseteq𝐖X
 x
 S
 U
-x,
-y \in S
-x \not= y
-y \in U .
-x \in \mathbb R
-S \subseteq \mathbb R
-S \subseteq X
+x,𝐖
+y𝐖\in𝐖S
+x𝐖\not=𝐖y
+y𝐖\in𝐖U𝐖.
+x𝐖\in𝐖\mathbb𝐖R𝐖
+S𝐖\subseteq𝐖\mathbb𝐖R𝐖
+S𝐖\subseteq𝐖X
 S'
-S,
-S .
-S \subseteq X
-clS =S \cup S'
-S .
+S,𝐖
+S𝐖.
+S𝐖\subseteq𝐖X
+clS𝐖=S𝐖\cup𝐖S'
+S𝐖.
 clS
-S =( -1, 1) \subseteq \mathbb R
-\mathbb R
-S =( -1, 1) \subseteq \mathbb R
-\mathbb R
-S =( -1, 1) \subseteq \mathbb R
-\mathbb R
-S =\mathbb Z \subseteq \mathbb R
-\mathbb R
-S =\mathbb Q \subseteq \mathbb R
-\mathbb R
-H \subseteq X
+S𝐖=(𝐖-1,𝐖1)𝐖\subseteq𝐖\mathbb𝐖R𝐖
+\mathbb𝐖R𝐖
+S𝐖=(𝐖-1,𝐖1)𝐖\subseteq𝐖\mathbb𝐖R𝐖
+\mathbb𝐖R𝐖
+S𝐖=(𝐖-1,𝐖1)𝐖\subseteq𝐖\mathbb𝐖R𝐖
+\mathbb𝐖R𝐖
+S𝐖=\mathbb𝐖Z𝐖𝐖\subseteq𝐖\mathbb𝐖R𝐖
+\mathbb𝐖R𝐖
+S𝐖=\mathbb𝐖Q𝐖𝐖\subseteq𝐖\mathbb𝐖R𝐖
+\mathbb𝐖R𝐖
+H𝐖\subseteq𝐖X
 H
-H =clH .
-H \subseteq X
+H𝐖=clH𝐖.
+H𝐖\subseteq𝐖X
 H
-X \setminus H
+X𝐖\setminus𝐖H
 X
-\varnothing
+\varnothing𝐖
 X
-\mscrH
-\bigcap \mscrH
-H, L
-H \cup L
-S \subseteq X
+\mscrH𝐖
+𝐖\bigcap𝐖\mscrH𝐖
+H,𝐖L
+H𝐖\cup𝐖L
+S𝐖\subseteq𝐖X
 x
 S
 U
-x,
-U \cap S
-U \setminus S
+x,𝐖
+U𝐖\cap𝐖S
+U𝐖\setminus𝐖S
 bdS
-S .
-a, b \in \mathbb R .
-bd(a, b) =bd(a, b] =bd[a, b) =bd[a, b] =\{a, b\}
-S \subseteq X
+S𝐖.
+a,𝐖b𝐖\in𝐖\mathbb𝐖R𝐖𝐖.
+bd(a,𝐖b)𝐖=bd(a,𝐖b]𝐖=bd[a,𝐖b)𝐖=bd[a,𝐖b]𝐖=\{a,𝐖b\}
+S𝐖\subseteq𝐖X
 x
 S
 U
 x
-x \in U \subseteq S .
+x𝐖\in𝐖U𝐖\subseteq𝐖S𝐖.
 intS
-S .
-U \subseteq X
+S𝐖.
+U𝐖\subseteq𝐖X
 U
-U =intU .
-S \subseteq X
+U𝐖=intU𝐖.
+S𝐖\subseteq𝐖X
 x
 S
 U
 x
-x \in U \subseteq X \setminus S .
+x𝐖\in𝐖U𝐖\subseteq𝐖X𝐖\setminus𝐖S𝐖.
 extS
-S .
+S𝐖.
 X
-\mathcal P
-X = \bigcup \mathcal P
-A \cap B =\varnothing
-A, B \in \mathcal P
-A \not= B .
-S \subseteq X
-\{intS, bdS, extS\}
-X .
-S \subseteq X
-clS =intS \cup bdS =S \cup bdS .
+\mathcal𝐖P𝐖
+X𝐖=𝐖\bigcup𝐖\mathcal𝐖P𝐖
+A𝐖\cap𝐖B𝐖=\varnothing𝐖
+A,𝐖B𝐖\in𝐖\mathcal𝐖P𝐖
+A𝐖\not=𝐖B𝐖.
+S𝐖\subseteq𝐖X
+\{intS,𝐖bdS,𝐖extS\}
+X𝐖.
+S𝐖\subseteq𝐖X
+clS𝐖=intS𝐖\cup𝐖bdS𝐖=S𝐖\cup𝐖bdS𝐖.
 A
-X .
-intintA =intA
-intclA =intA
-bdbdA =bdA
-extextA =intA
-intextA =extA
-intbdA =\varnothing
-clextA =X \setminus intA
-A, B
-X .
-int(A \cap B) =intA \cap intB
-int(A \cup B) =intA \cup intB
-bd(A \cap B) =bdA \cap bdB
-bd(A \cup B) =bdA \cup bdB
-cl(A \cap B) =clA \cap clB
-cl(A \cup B) =clA \cup clB
-Y \subseteq X
-\langle X, \mathscr T \rangle .
+X𝐖.
+intintA𝐖=intA
+intclA𝐖=intA
+bdbdA𝐖=bdA
+extextA𝐖=intA
+intextA𝐖=extA
+intbdA𝐖=\varnothing𝐖
+clextA𝐖=X𝐖\setminus𝐖intA
+A,𝐖B
+X𝐖.
+int(A𝐖\cap𝐖B)𝐖=intA𝐖\cap𝐖intB
+int(A𝐖\cup𝐖B)𝐖=intA𝐖\cup𝐖intB
+bd(A𝐖\cap𝐖B)𝐖=bdA𝐖\cap𝐖bdB
+bd(A𝐖\cup𝐖B)𝐖=bdA𝐖\cup𝐖bdB
+cl(A𝐖\cap𝐖B)𝐖=clA𝐖\cap𝐖clB
+cl(A𝐖\cup𝐖B)𝐖=clA𝐖\cup𝐖clB
+Y𝐖\subseteq𝐖X
+𝐖\langle𝐖X,𝐖\mathscr𝐖T𝐖𝐖\rangle𝐖𝐖.
 Y
-\mathscr T_Y =\{U \cap Y \colon U \in \mathscr T \} .
-C \subseteq \mathbb R
-C =\bigcap_{n \in \omega} C_n,
-C_0 =[0, 1]
-C_{n +1} =C_n \setminus \bigcup_{0 \le k \lt 3^n} (\frac{3k +1}{3^{n +1}}, \frac{3k +2}{3^{n +1}}) .
-\langle X, \mathscr T \rangle
-\mscrB \subseteq \mathscr T
-x \in X
+\mathscr𝐖T𝐖_Y𝐖𝐖=\{U𝐖\cap𝐖Y𝐖\colon𝐖U𝐖\in𝐖\mathscr𝐖T𝐖\}𝐖.
+C𝐖\subseteq𝐖\mathbb𝐖R𝐖
+C𝐖=\bigcap𝐖_{n𝐖\in𝐖\omega𝐖}𝐖C_n𝐖,𝐖
+C_0𝐖𝐖=[0,𝐖1]
+C_{n𝐖+1}𝐖𝐖=C_n𝐖𝐖\setminus𝐖\bigcup𝐖_{0𝐖\le𝐖k𝐖\lt𝐖3^n𝐖}𝐖(\frac{3k𝐖+1}{3^{n𝐖+1}𝐖},𝐖\frac{3k𝐖+2}{3^{n𝐖+1}𝐖})𝐖.
+𝐖\langle𝐖X,𝐖\mathscr𝐖T𝐖𝐖\rangle𝐖
+\mscrB𝐖𝐖\subseteq𝐖\mathscr𝐖T𝐖
+x𝐖\in𝐖X
 U
-x,
-B \in \mscrB
-x \in B \subseteq U .
-\mscrB =\{(a, b) \colon a, b \in \mathbb R \}
-\mscrB \subseteq \mathcal P (X)
-x \in X,
-B \in \mscrB
-x \in B .
-x \in A \in \mscrB
-x \in B \in \mscrB,
-C \in \mscrB
-x \in C \subseteq A \cap B .
-\mathscr T =\{ \bigcup \mathscr U \colon \mathscr U \subseteq \mscrB \}
-\mscrB
-\mscrB =\{[a, b) \colon a, b \in \mathbb R \}
-\mathbb R .
-\mscrB =\{(a, b) \colon a, b \in \mathbb Q \}
-\mscrB =\{(a, \infty) \colon a \in \mathbb R \}
-\mscrB =\{\{x\} \colon x \in \mathbb R \}
-\mscrB =\{[a, b] \colon a, b \in \mathbb R \}
-\mscrB =\{[a, b] \colon a, b \in \mathbb R, a \lt 0 \lt b\}
-\mscrB_0, \mscrB_1
-x \in B_0 \in \mscrB_0
-B_1 \in \mscrB_1
-x \in B_1 \subseteq B_0,
-x \in B_1 \in \mscrB_1
-B_0 \in \mscrB_0
-x \in B_0 \subseteq B_1 .
-\mathscr S \subseteq \mathcal P (X)
-\mathscr T = \bigcap \{\mathscr T^\star \subseteq \mathcal P (X) \colon \mathscr S \subseteq \mathscr T^\star \~and\~\mathscr T^\star \~is\space a\space topology\space on\~X\} .
-\mathscr T
-\mathscr S \subseteq \mathcal P (X)
-\mathscr T = \bigcap \{\mathscr T^\star \subseteq \mathcal P (X) \colon \mathscr S \subseteq \mathscr T^\star \~and\~\mathscr T^\star \~is\space a\space topology\space on\~X\} .
-\mathbb R
-\{( -\infty, x) \colon x \in \mathbb R \} \cup \{(y, \infty) \colon y \in \mathbb R \}
-\{( -\infty, x] \colon x \in \mathbb R \} \cup \{[y, \infty) \colon y \in \mathbb R \}
+x,𝐖
+B𝐖\in𝐖\mscrB𝐖
+x𝐖\in𝐖B𝐖\subseteq𝐖U𝐖.
+\mscrB𝐖𝐖=\{(a,𝐖b)𝐖\colon𝐖a,𝐖b𝐖\in𝐖\mathbb𝐖R𝐖\}
+\mscrB𝐖𝐖\subseteq𝐖\mathcal𝐖P𝐖(X)
+x𝐖\in𝐖X,𝐖
+B𝐖\in𝐖\mscrB𝐖
+x𝐖\in𝐖B𝐖.
+x𝐖\in𝐖A𝐖\in𝐖\mscrB𝐖
+x𝐖\in𝐖B𝐖\in𝐖\mscrB𝐖,𝐖
+C𝐖\in𝐖\mscrB𝐖
+x𝐖\in𝐖C𝐖\subseteq𝐖A𝐖\cap𝐖B𝐖.
+\mathscr𝐖T𝐖𝐖=\{𝐖\bigcup𝐖\mathscr𝐖U𝐖𝐖\colon𝐖\mathscr𝐖U𝐖𝐖\subseteq𝐖\mscrB𝐖\}
+\mscrB𝐖
+\mscrB𝐖𝐖=\{[a,𝐖b)𝐖\colon𝐖a,𝐖b𝐖\in𝐖\mathbb𝐖R𝐖\}
+\mathbb𝐖R𝐖𝐖.
+\mscrB𝐖𝐖=\{(a,𝐖b)𝐖\colon𝐖a,𝐖b𝐖\in𝐖\mathbb𝐖Q𝐖\}
+\mscrB𝐖𝐖=\{(a,𝐖\infty𝐖)𝐖\colon𝐖a𝐖\in𝐖\mathbb𝐖R𝐖\}
+\mscrB𝐖𝐖=\{\{x\}𝐖\colon𝐖x𝐖\in𝐖\mathbb𝐖R𝐖\}
+\mscrB𝐖𝐖=\{[a,𝐖b]𝐖\colon𝐖a,𝐖b𝐖\in𝐖\mathbb𝐖R𝐖\}
+\mscrB𝐖𝐖=\{[a,𝐖b]𝐖\colon𝐖a,𝐖b𝐖\in𝐖\mathbb𝐖R𝐖,𝐖a𝐖\lt𝐖0𝐖\lt𝐖b\}
+\mscrB𝐖_0𝐖,𝐖\mscrB𝐖_1𝐖
+x𝐖\in𝐖B_0𝐖𝐖\in𝐖\mscrB𝐖_0𝐖
+B_1𝐖𝐖\in𝐖\mscrB𝐖_1𝐖
+x𝐖\in𝐖B_1𝐖𝐖\subseteq𝐖B_0𝐖,𝐖
+x𝐖\in𝐖B_1𝐖𝐖\in𝐖\mscrB𝐖_1𝐖
+B_0𝐖𝐖\in𝐖\mscrB𝐖_0𝐖
+x𝐖\in𝐖B_0𝐖𝐖\subseteq𝐖B_1𝐖𝐖.
+\mathscr𝐖S𝐖𝐖\subseteq𝐖\mathcal𝐖P𝐖(X)
+\mathscr𝐖T𝐖𝐖=𝐖\bigcap𝐖\{\mathscr𝐖T𝐖^\star𝐖𝐖𝐖\subseteq𝐖\mathcal𝐖P𝐖(X)𝐖\colon𝐖\mathscr𝐖S𝐖𝐖\subseteq𝐖\mathscr𝐖T𝐖^\star𝐖𝐖\~and\~\mathscr𝐖T𝐖^\star𝐖𝐖\~is\space𝐖a\space𝐖topology\space𝐖on\~X\}𝐖.
+\mathscr𝐖T𝐖
+\mathscr𝐖S𝐖𝐖\subseteq𝐖\mathcal𝐖P𝐖(X)
+\mathscr𝐖T𝐖𝐖=𝐖\bigcap𝐖\{\mathscr𝐖T𝐖^\star𝐖𝐖𝐖\subseteq𝐖\mathcal𝐖P𝐖(X)𝐖\colon𝐖\mathscr𝐖S𝐖𝐖\subseteq𝐖\mathscr𝐖T𝐖^\star𝐖𝐖\~and\~\mathscr𝐖T𝐖^\star𝐖𝐖\~is\space𝐖a\space𝐖topology\space𝐖on\~X\}𝐖.
+\mathbb𝐖R𝐖
+\{(𝐖-\infty𝐖,𝐖x)𝐖\colon𝐖x𝐖\in𝐖\mathbb𝐖R𝐖\}𝐖\cup𝐖\{(y,𝐖\infty𝐖)𝐖\colon𝐖y𝐖\in𝐖\mathbb𝐖R𝐖\}
+\{(𝐖-\infty𝐖,𝐖x]𝐖\colon𝐖x𝐖\in𝐖\mathbb𝐖R𝐖\}𝐖\cup𝐖\{[y,𝐖\infty𝐖)𝐖\colon𝐖y𝐖\in𝐖\mathbb𝐖R𝐖\}
 \{\{0\}\}
-\mathscr T \cup \{\mathbb R \setminus \{\frac{1}{2^n} \colon n \in \omega \}\}
-\mathscr S \subseteq \mathcal P (X)
-\mscrB =\{X\} \cup \bigcap \{\mscrB^\star \subseteq \mathcal P (X) \colon \mathscr S \subseteq \mscrB^\star \~and\~B_1, B_2 \in \mscrB^\star \Rightarrow B_1 \cap B_2 \in \mscrB^\star \} .
-\mscrB
-X,
-\mscrB
-\mathscr S .
-D \subseteq X
-clD =X .
-\mathbb R .
-\mathbb Q
-\mathbb Z
-\mathbb R \setminus \mathbb Q
-\mathbb R \setminus \mathbb Z
+\mathscr𝐖T𝐖𝐖\cup𝐖\{\mathbb𝐖R𝐖𝐖\setminus𝐖\{\frac{1}{2^n𝐖}𝐖\colon𝐖n𝐖\in𝐖\omega𝐖\}\}
+\mathscr𝐖S𝐖𝐖\subseteq𝐖\mathcal𝐖P𝐖(X)
+\mscrB𝐖𝐖=\{X\}𝐖\cup𝐖𝐖\bigcap𝐖\{\mscrB𝐖^\star𝐖𝐖𝐖\subseteq𝐖\mathcal𝐖P𝐖(X)𝐖\colon𝐖\mathscr𝐖S𝐖𝐖\subseteq𝐖\mscrB𝐖^\star𝐖𝐖\~and\~B_1𝐖,𝐖B_2𝐖𝐖\in𝐖\mscrB𝐖^\star𝐖𝐖𝐖\Rightarrow𝐖B_1𝐖𝐖\cap𝐖B_2𝐖𝐖\in𝐖\mscrB𝐖^\star𝐖𝐖\}𝐖.
+\mscrB𝐖
+X,𝐖
+\mscrB𝐖
+\mathscr𝐖S𝐖𝐖.
+D𝐖\subseteq𝐖X
+clD𝐖=X𝐖.
+\mathbb𝐖R𝐖𝐖.
+\mathbb𝐖Q𝐖
+\mathbb𝐖Z𝐖
+\mathbb𝐖R𝐖𝐖\setminus𝐖\mathbb𝐖Q𝐖
+\mathbb𝐖R𝐖𝐖\setminus𝐖\mathbb𝐖Z𝐖
 D
-D .
+D𝐖.
 X
-D \subseteq E \subseteq X .
+D𝐖\subseteq𝐖E𝐖\subseteq𝐖X𝐖.
 D
 E
-\mscrB
+\mscrB𝐖
 X
-Y \subseteq X .
-\mscrB_Y =\{U \cap Y \colon U \in \mscrB \}
-Y .
-0 \in \omega
-f \colon X \to Y
-A \subseteq X,
-f[A] =\{f(x) \colon x \in A\} .
-y \in Y,
-f^\leftarrow (y) =\{x \in X \colon f(x) =y\} .
-B \subseteq Y,
-f^\leftarrow [B] =\{x \in X \colon f(x) \in B\} .
-X, Y
-x \in X,
-f \colon X \to Y
+Y𝐖\subseteq𝐖X𝐖.
+\mscrB𝐖_Y𝐖𝐖=\{U𝐖\cap𝐖Y𝐖\colon𝐖U𝐖\in𝐖\mscrB𝐖\}
+Y𝐖.
+0𝐖\in𝐖\omega𝐖
+f𝐖\colon𝐖X𝐖\to𝐖Y
+A𝐖\subseteq𝐖X,𝐖
+f[A]𝐖=\{f(x)𝐖\colon𝐖x𝐖\in𝐖A\}𝐖.
+y𝐖\in𝐖Y,𝐖
+f^\leftarrow𝐖𝐖(y)𝐖=\{x𝐖\in𝐖X𝐖\colon𝐖f(x)𝐖=y\}𝐖.
+B𝐖\subseteq𝐖Y,𝐖
+f^\leftarrow𝐖𝐖[B]𝐖=\{x𝐖\in𝐖X𝐖\colon𝐖f(x)𝐖\in𝐖B\}𝐖.
+X,𝐖Y
+x𝐖\in𝐖X,𝐖
+f𝐖\colon𝐖X𝐖\to𝐖Y
 V
-f(x),
+f(x),𝐖
 U
 x
-f[U] \subseteq V .
+f[U]𝐖\subseteq𝐖V𝐖.
 f
-x .
-f \colon X \to Y
-f^\leftarrow [V]
+x𝐖.
+f𝐖\colon𝐖X𝐖\to𝐖Y
+f^\leftarrow𝐖𝐖[V]
 X
-V \subseteq Y .
-X, Y
-\iota \colon X \to X
-\iota (x) =x
-y \in Y .
-c_y \colon X \to Y
-c_y (x) =y
-f(x) =| x|
-f(x) =x^2
-f(x) =g(x) +h(x)
-g, h \colon \mathbb R \to \mathbb R
-f(x) =g(x)h(x)
-g, h \colon \mathbb R \to \mathbb R
-f(x) =1/x
-f \colon X \to Y
-g \colon Y \to Z
-g \circ f \colon X \to Z
-f \colon X \to Y
+V𝐖\subseteq𝐖Y𝐖.
+X,𝐖Y
+\iota𝐖𝐖\colon𝐖X𝐖\to𝐖X
+\iota𝐖(x)𝐖=x
+y𝐖\in𝐖Y𝐖.
+c_y𝐖𝐖\colon𝐖X𝐖\to𝐖Y
+c_y𝐖(x)𝐖=y
+f(x)𝐖=|𝐖x|
+f(x)𝐖=x^2𝐖
+f(x)𝐖=g(x)𝐖+h(x)
+g,𝐖h𝐖\colon𝐖\mathbb𝐖R𝐖𝐖\to𝐖\mathbb𝐖R𝐖
+f(x)𝐖=g(x)h(x)
+g,𝐖h𝐖\colon𝐖\mathbb𝐖R𝐖𝐖\to𝐖\mathbb𝐖R𝐖
+f(x)𝐖=1/x
+f𝐖\colon𝐖X𝐖\to𝐖Y
+g𝐖\colon𝐖Y𝐖\to𝐖Z
+g𝐖\circ𝐖f𝐖\colon𝐖X𝐖\to𝐖Z
+f𝐖\colon𝐖X𝐖\to𝐖Y
 f
-f^{ -1}
+f^{𝐖-1}𝐖
 f
-X, Y
-f \colon X \to Y
+X,𝐖Y
+f𝐖\colon𝐖X𝐖\to𝐖Y
 f
 f
-U \subseteq X
-f[U] \subseteq Y
-H \subseteq X
-f[H] \subseteq Y
+U𝐖\subseteq𝐖X
+f[U]𝐖\subseteq𝐖Y
+H𝐖\subseteq𝐖X
+f[H]𝐖\subseteq𝐖Y
 x
-A \subseteq X,
+A𝐖\subseteq𝐖X,𝐖
 f(x)
-f[A] \subseteq Y .
-f \colon X \to Y
-g \colon Y \to Z
-g \circ f \colon X \to Z
-a \lt b
-c \lt d
-(a, b)
-(c, d)
-( -1, 1)
-\mathbb R
-f \colon ( -1, 1) \to \mathbb R
-f(x) =\frac{2x}{1 -x^2}
-\mscrB
-\mathbb R .
-K =\mathbb R \cup \{ -\infty, \infty \}
-\{\{ -\infty \} \cup ( -\infty, x) \colon x \in \mathbb R \} \cup \{(x, \infty) \cup \{\infty \} \colon x \in \mathbb R \} \cup \mscrB .
+f[A]𝐖\subseteq𝐖Y𝐖.
+f𝐖\colon𝐖X𝐖\to𝐖Y
+g𝐖\colon𝐖Y𝐖\to𝐖Z
+g𝐖\circ𝐖f𝐖\colon𝐖X𝐖\to𝐖Z
+a𝐖\lt𝐖b
+c𝐖\lt𝐖d
+(a,𝐖b)
+(c,𝐖d)
+(𝐖-1,𝐖1)
+\mathbb𝐖R𝐖
+f𝐖\colon𝐖(𝐖-1,𝐖1)𝐖\to𝐖\mathbb𝐖R𝐖
+f(x)𝐖=\frac{2x}{1𝐖-x^2𝐖}
+\mscrB𝐖
+\mathbb𝐖R𝐖𝐖.
+K𝐖=\mathbb𝐖R𝐖𝐖\cup𝐖\{𝐖-\infty𝐖,𝐖\infty𝐖\}
+\{\{𝐖-\infty𝐖\}𝐖\cup𝐖(𝐖-\infty𝐖,𝐖x)𝐖\colon𝐖x𝐖\in𝐖\mathbb𝐖R𝐖\}𝐖\cup𝐖\{(x,𝐖\infty𝐖)𝐖\cup𝐖\{\infty𝐖\}𝐖\colon𝐖x𝐖\in𝐖\mathbb𝐖R𝐖\}𝐖\cup𝐖\mscrB𝐖𝐖.
 K
-[0, 1]
-\{[a, b) \colon a, b \in \mathbb R \}
-\{(a, b] \colon a, b \in \mathbb R \} .
-f \colon X \to Y
-U \subseteq X
-f[U] \subseteq Y
-\{[a, b] \colon a, b \in \mathbb R \}
-\mathbb R .
+[0,𝐖1]
+\{[a,𝐖b)𝐖\colon𝐖a,𝐖b𝐖\in𝐖\mathbb𝐖R𝐖\}
+\{(a,𝐖b]𝐖\colon𝐖a,𝐖b𝐖\in𝐖\mathbb𝐖R𝐖\}𝐖.
+f𝐖\colon𝐖X𝐖\to𝐖Y
+U𝐖\subseteq𝐖X
+f[U]𝐖\subseteq𝐖Y
+\{[a,𝐖b]𝐖\colon𝐖a,𝐖b𝐖\in𝐖\mathbb𝐖R𝐖\}
+\mathbb𝐖R𝐖𝐖.
 Y
 X
-\{A, B\}
-A \cap Y \not= \varnothing,
-B \cap Y \not= \varnothing,
-Y \subseteq A \cup B,
-A \cap B \cap Y =\varnothing
-Y .
-\{A, B\}
-Y \subseteq X
-\{A \cap Y, B \cap Y\}
+\{A,𝐖B\}
+A𝐖\cap𝐖Y𝐖\not=𝐖\varnothing𝐖,𝐖
+B𝐖\cap𝐖Y𝐖\not=𝐖\varnothing𝐖,𝐖
+Y𝐖\subseteq𝐖A𝐖\cup𝐖B,𝐖
+A𝐖\cap𝐖B𝐖\cap𝐖Y𝐖=\varnothing𝐖
+Y𝐖.
+\{A,𝐖B\}
+Y𝐖\subseteq𝐖X
+\{A𝐖\cap𝐖Y,𝐖B𝐖\cap𝐖Y\}
 Y
-\mathbb R \setminus \{0\}
-\mathbb R =U \cup V
-U, V
-x \in U, y \in V
-x \le y .
-\inf \{z \in [x, y] \colon z \in V\} \in U \cap V .
-\mathbb R
+\mathbb𝐖R𝐖𝐖\setminus𝐖\{0\}
+\mathbb𝐖R𝐖𝐖=U𝐖\cup𝐖V
+U,𝐖V
+x𝐖\in𝐖U,𝐖y𝐖\in𝐖V
+x𝐖\le𝐖y𝐖.
+\inf𝐖\{z𝐖\in𝐖[x,𝐖y]𝐖\colon𝐖z𝐖\in𝐖V\}𝐖\in𝐖U𝐖\cap𝐖V𝐖.
+\mathbb𝐖R𝐖
 A
 clA
 A
 X
-f \colon X \to Y
+f𝐖\colon𝐖X𝐖\to𝐖Y
 f[A]
-\{0, 1\}
+\{0,𝐖1\}
 X
-f \colon X \to \{0, 1\}
-\mathscr A
-\bigcap \mathscr A \not= \varnothing,
-\bigcup \mathscr A
-x, y \in A \subseteq X,
-f \colon [0, 1] \to A
-f(0) =x
-f(1) =y .
-S =\{ \langle x, y \rangle \colon x \in (0, 1]\~and\~y =\sin (\frac{1}{x})\}
+f𝐖\colon𝐖X𝐖\to𝐖\{0,𝐖1\}
+\mathscr𝐖A𝐖
+𝐖\bigcap𝐖\mathscr𝐖A𝐖𝐖\not=𝐖\varnothing𝐖,𝐖
+𝐖\bigcup𝐖\mathscr𝐖A𝐖
+x,𝐖y𝐖\in𝐖A𝐖\subseteq𝐖X,𝐖
+f𝐖\colon𝐖[0,𝐖1]𝐖\to𝐖A
+f(0)𝐖=x
+f(1)𝐖=y𝐖.
+S𝐖=\{𝐖\langle𝐖x,𝐖y𝐖\rangle𝐖𝐖\colon𝐖x𝐖\in𝐖(0,𝐖1]\~and\~y𝐖=\sin𝐖(\frac{1}{x})\}
 clS
-\mathbb R^2
+\mathbb𝐖R𝐖^2𝐖

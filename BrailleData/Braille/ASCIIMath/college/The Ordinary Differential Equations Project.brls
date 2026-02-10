@@ -977,9 +977,9 @@ Abb v = lambda bb v
 lambda in bb R.
 lambda
 A.
-A = ([a, b], [c, d])\ and\ bb v = ([x], [y]) != '\\y01d7ce',
+A = ([a, b], [c, d])\ and\ bb v = ([x], [y]) != bb 0,
 Abb x = lambda bb v
-Abb v-lambda bb v = '\\y01d7ce'.
+Abb v-lambda bb v = bb 0.
 [([a, b], [c, d])([x], [y])-lambda([x], [y]), "<mi//>"=([a, b], [c, d])([x], [y])-([lambda, 0], [0, lambda])([x], [y])], [\ , "<mi//>"=([a-lambda, b], [c, d-lambda])([x], [y])], [\ , "<mi//>"=([0], [0]).]
 (x, y) = (0, 0).
 A-lambda I = ([a-lambda, b], [c, d-lambda])
@@ -3586,7 +3586,7 @@ dbb x//dt = Abb x
 A.
 A.
 dbb x//dt = Abb x?
-'\\y01d7ce'.
+bb 0.
 A = ([-1, 2], [-6, 6])
 A = ([-12, 30], [-5, 13])
 A = ([-9, -2], [10, 0])
@@ -4705,9 +4705,9 @@ bb v, bb v_1
 bb v_2
 bb v
 bb v
-(A-lambda_1 I)^k bb v = (A-I)^k bb v = '\\y01d7ce'.
+(A-lambda_1 I)^k bb v = (A-I)^k bb v = bb 0.
 k = 1,
-(A-lambda_1 I)bb v = (A-I)bb v = '\\y01d7ce',
+(A-lambda_1 I)bb v = (A-I)bb v = bb 0,
 bb v
 bb v
 bb v_1 = (2, 6, -3)
@@ -4724,7 +4724,7 @@ bb v = (0, 2, -1)
 bb x(t) = c_1 e^t([2], [6], [-3])+c_2 e^(2t)([1], [3], [-1])+c_3 e^t([-4t], [2-12t], [-1+6t]).
 lambda
 A
-(A-lambda I)^p bb v = '\\y01d7ce'
+(A-lambda I)^p bb v = bb 0
 p >= 1,
 bb v
 A.
@@ -5199,11 +5199,11 @@ T
 det T != 0.
 det T = 0,
 bb x
-Tbb x = '\\y01d7ce'.
+Tbb x = bb 0.
 T^(-1)
-bb x != '\\y01d7ce'
-Tbb x = '\\y01d7ce'.
-bb x = T^(-1)Tbb x = T^(-1)'\\y01d7ce' = '\\y01d7ce',
+bb x != bb 0
+Tbb x = bb 0.
+bb x = T^(-1)Tbb x = T^(-1)bb 0 = bb 0,
 T^(-1),
 2 xx 2
 bb e_1 = (1, 0)
@@ -5716,7 +5716,7 @@ A,
 ["(3.2.4)", lambda_1 bb v_1=Abb v_1=alpha Abb v_2=alpha lambda_2 bb v_2.]
 ["(3.2.5)", lambda_2 bb v_1=alpha lambda_2 bb v_2]
 lambda_2.
-(lambda_1-lambda_2)bb v_1 = alpha(lambda_2-lambda_2)bb v_2 = 0bb v_2 = '\\y01d7ce'.
+(lambda_1-lambda_2)bb v_1 = alpha(lambda_2-lambda_2)bb v_2 = 0bb v_2 = bb 0.
 lambda_1
 lambda_2
 bb x' = Abb x
@@ -7728,7 +7728,7 @@ lambda = 2,
 lambda = 1,
 lambda = -1.
 lambda = 2,
-(A-2I)bb x = '\\y01d7ce',
+(A-2I)bb x = bb 0,
 [-7x-8y-2z, "<mi//>"=0], [-5x+10y+4z, "<mi//>"=0], [-11x-19y-7z, "<mi//>"=0.]
 (2, -3, 5)
 (5, -7, 13)
@@ -7758,9 +7758,9 @@ bb x'Abb x.
 [x', "<mi//>"=a_1 x+a_1 y+a_3 z], [y', "<mi//>"=b_1 x+b_2 y+b_3 z], [z', "<mi//>"=c_1 x+c_2 y+c_3 z,]
 RR^3,
 bb x(t)
-'\\y01d7ce' = (0, 0, 0)
+bb 0 = (0, 0, 0)
 t -> oo;
-'\\y01d7ce'
+bb 0
 RR^3,
 t -> oo,
 bb x_1(t) = e^(2t)([2], [-3], [5]), bb x_2(t) = e^t([5], [-7], [13]), \ and\ bb x_3(t) = e^(-t)([1], [-1], [2]).
@@ -7795,7 +7795,7 @@ lambda^3+lambda^2-2 = (lambda-1)(lambda^2+2 lambda+2) = 0.
 A
 lambda = 1
 lambda = -1+-i.
-[A-(-1+i)]bb x = '\\y01d7ce'
+[A-(-1+i)]bb x = bb 0
 (1, i, 0)
 lambda = -1+i.
 ([1], [i], [0]) = ([1], [0], [0])+i([0], [1], [0]),

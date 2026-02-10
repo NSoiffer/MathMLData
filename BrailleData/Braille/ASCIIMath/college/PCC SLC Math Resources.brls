@@ -388,7 +388,7 @@ e
 y
 g(x) = a*f(b(x+-h))+-k
 g(x) = a*f(bx+-h)+-k
-'\\y01d49a' = sec('\\y01d495')
+bii y = sec(bii t)
 sec(t) = 1/(cos(t)) .
 t = sec(t)
 y = cos(t).
@@ -428,7 +428,7 @@ pi,
 y = sec(t)
 y = cos(t)
 y = 1/2 sec(3(t-pi/2)).
-'\\y01d49a' = csc('\\y01d495')
+bii y = csc(bii t)
 y = csc(t)
 y = sin(t).
 y = csc(t)
@@ -683,12 +683,12 @@ b^(f(x)) = b^(g(x)).
 b^(f(x)) = k.
 k_1*a^(f(x)) = k_2*b^(g(x)),
 a != b.
-'\\y01d483'^('\\y01d487'('\\y01d499')) = '\\y01d483'^('\\y01d488'('\\y01d499'))
+bii b^(bii f(bii x)) = bii b^(bii g(bii x))
 b^(f(x)) = b^(g(x)),
 f(x) = g(x).
 32^(x+2) = 8
 5^(x^2)-125^(2x+9) = 0
-'\\y01d483'^('\\y01d487'('\\y01d499')) = '\\y01d48c'
+bii b^(bii f(bii x)) = bii k
 10
 e,
 b^(f(x)) = k,
@@ -697,7 +697,7 @@ x.
 5*10^(6-x) = 35
 12^(2x-26)+2 = 7
 2*10^(18x^2) = 54/(10^(7x^2))
-'\\y01d48c'_'\\y01d7cf' *'\\y01d482'^('\\y01d487'('\\y01d499')) = '\\y01d48c'_'\\y01d7d0' *'\\y01d483'^('\\y01d488'('\\y01d499'))
+bii k_bb 1*bii a^(bii f(bii x)) = bii k_bb 2*bii b^(bii g(bii x))
 k_1*a^(f(x)) = k_2*b^(g(x)),
 10
 e.
@@ -877,9 +877,9 @@ e
 y
 g(x) = a*f(b(x+-h))+-k
 g(x) = a*f(bx+-h)+-k
-'\\y01d7d1''\\y01d7ce'\circ,
-'\\y01d7d2''\\y01d7d3'\circ,
-'\\y01d7d4''\\y01d7ce'\circ
+bb 3bb 0\circ,
+bb 4bb 5\circ,
+bb 6bb 0\circ
 45\circ
 y = x.
 45\circ = 1/8(360\circ),
@@ -1766,8 +1766,8 @@ e
 y
 g(x) = a*f(b(x+-h))+-k
 g(x) = a*f(bx+-h)+-k
-|'\\y01d482''\\y01d499'+'\\y01d483'| < '\\y01d484'
-|'\\y01d482''\\y01d499'+'\\y01d483'| <= '\\y01d484'
+|bii abii x+bii b| < bii c
+|bii abii x+bii b| <= bii c
 y = |x|
 y = 3
 y
@@ -1785,8 +1785,8 @@ k > 0,
 |3x+7| <= 14.
 |5x+19| < -10.
 |-3/7 x+6| < 9.
-|'\\y01d482''\\y01d499'+'\\y01d483'| > '\\y01d484'
-|'\\y01d482''\\y01d499'+'\\y01d483'| >= '\\y01d484'.
+|bii abii x+bii b| > bii c
+|bii abii x+bii b| >= bii c.
 y = |x|
 y = 3
 y
@@ -2521,7 +2521,7 @@ e
 y
 g(x) = a*f(b(x+-h))+-k
 g(x) = a*f(bx+-h)+-k
-'\\y01d49a' = tan('\\y01d495')
+bii y = tan(bii t)
 tan(t) = (sin(t))/(cos(t))
 y = tan(t).
 t
@@ -2544,7 +2544,7 @@ t
 y = tan(t)
 y = tan(t)
 pi.
-'\\y01d49a' = cot('\\y01d495')
+bii y = cot(bii t)
 cot(t) = (cos(t))/(sin(t))
 y = cot(t).
 t
@@ -2640,7 +2640,7 @@ e
 y
 g(x) = a*f(b(x+-h))+-k
 g(x) = a*f(bx+-h)+-k
-'\\y01d486'
+bii e
 1
 100.00
 0.04(100.00) = 4.00
@@ -2887,7 +2887,7 @@ y_0
 t = 0
 t_0
 P(t) = 2.5*1.226^t.
-'\\y01d486'
+bii e
 t
 f(t) = 0
 f(t) = e^t
@@ -3002,7 +3002,7 @@ x
 120\circ.
 n^("th")
 k = 0
-'\\y01d48f'^("th")
+bii n^("th")
 -8.
 e^(i theta) = cos(theta)+isin(theta).
 e^(i pi).
@@ -3134,7 +3134,7 @@ y = 2^x
 y = b^x, 0 < x < 0
 y = (1/2)^x.
 y = 2^x and y = (1/2)^x
-'\\y01d487'('\\y01d499') = '\\y01d483'^'\\y01d499' , '\\y01d483' > '\\y01d7ce'
+bii f(bii x) = bii b^bii x, bii b > bb 0
 (-oo, oo).
 (0, oo).
 f(0) = 1
@@ -3143,7 +3143,7 @@ y -> 0
 x -> oo,
 y -> oo
 y = b^x, b > 1
-'\\y01d487'('\\y01d499') = '\\y01d483'^'\\y01d499' , '\\y01d7ce' < '\\y01d483' < '\\y01d7cf'
+bii f(bii x) = bii b^bii x, bb 0 < bii b < bb 1
 (-oo, oo).
 (0, oo).
 f(0) = 1
@@ -3152,7 +3152,7 @@ y -> oo
 x -> oo,
 y -> 0
 y = b^x, 0 < b < 1
-'\\y01d488'('\\y01d499') = '\\y01d487'('\\y01d499'+-'\\y01d489')
+bii g(bii x) = bii f(bii x+-bii h)
 h
 y = f(x-h)
 y = f(x)
@@ -3166,7 +3166,7 @@ x,
 -2
 -4.
 y = 2^x and y = 2^(x-3)
-'\\y01d488'('\\y01d499') = '\\y01d487'('\\y01d499')+-'\\y01d48c'
+bii g(bii x) = bii f(bii x)+-bii k
 k
 y = f(x)+k
 y = f(x)
@@ -3184,8 +3184,8 @@ y
 y = 2^x,
 y = 2^x-2
 y = -2
-'\\y01d488'('\\y01d499') = -'\\y01d487'('\\y01d499')
-'\\y01d488'('\\y01d499') = '\\y01d487'(-'\\y01d499')
+bii g(bii x) = -bii f(bii x)
+bii g(bii x) = bii f(-bii x)
 y = -f(x)
 y = f(x)
 x
@@ -3199,7 +3199,7 @@ y = 2^(-x)
 y = 2^x
 (1/2)
 [2^(-x), "<mi//>"=2^(-1*x)], [\ , "<mi//>"=(2^(-1))^x], [\ , "<mi//>"=(1/2)^x.]
-'\\y01d488'('\\y01d499') = '\\y01d482'*'\\y01d487'('\\y01d499'), '\\y01d482' > '\\y01d7ce'
+bii g(bii x) = bii a*bii f(bii x), bii a > bb 0
 y = a*f(x), a > 0
 y
 f
@@ -3233,7 +3233,7 @@ y = 7*2^x
 [7*2^x, "<mi//>"~~2^(2.807)*2^x], [\ , "<mi//>"=2^(x+2.807)]
 y = 2^x
 y = 7*2^x
-'\\y01d488'('\\y01d499') = '\\y01d487'('\\y01d482''\\y01d499'), '\\y01d482' > '\\y01d7ce'
+bii g(bii x) = bii f(bii abii x), bii a > bb 0
 y = f(ax), a > 0
 x
 f
@@ -3272,8 +3272,8 @@ y
 15,
 [3x-4(15), "<mi//>"=24], [3x-60, "<mi//>"=24], [3x-60+60, "<mi//>"=24+60], [3x, "<mi//>"=84], [ (3x)/3, "<mi//>"=84/3], [x, "<mi//>"=28]
 (28, 15).
-'\\y01d499'
-'\\y01d49a'
+bii x
+bii y
 x
 y
 y
@@ -3927,7 +3927,7 @@ f(x) = -3x^9-31x^6+16x
 x
 f(x) = (7x^(11))/(4x^5-6x)
 y = f(x),
-'\\y01d49a'
+bii y
 (a, b),
 (-a, b)
 y
@@ -4463,7 +4463,7 @@ vec v
 -1.
 k = 0
 k vec v,
-vec'\\y01d7ce'
+vec bb 0
 vec u+vec v,
 vec u
 vec v
@@ -4553,7 +4553,7 @@ vec v.
 r
 theta
 vec v
-vec'\\y01d497'
+vec bii v
 hat v.
 vec v
 vec w = '\\x0027e8'-8, 15'\\x0027e9'.
@@ -4786,7 +4786,7 @@ f^(-1)
 (6, 3).
 y = x
 y = x.
-'\\y01d49a' = '\\y01d499'
+bii y = bii x
 y = x.
 y = x
 g
@@ -5082,8 +5082,8 @@ e
 y
 g(x) = a*f(b(x+-h))+-k
 g(x) = a*f(bx+-h)+-k
-('\\y01d496') = '\\y01d46a'
-'\\y01d46a'
+(bii u) = bii C
+bii C
 sin(t) = - (sqrt(3))/2.
 sec(2t) = 2.
 tan(t/2) = 1
@@ -5335,7 +5335,7 @@ A,
 B
 b != 1.
 n
-log_'\\y01d483' ('\\y01d468''\\y01d469') = log_'\\y01d483' ('\\y01d468')+log_'\\y01d483' ('\\y01d469')
+log_bii b(bii Abii B) = log_bii b(bii A)+log_bii b(bii B)
 b^x*b^y = b^(x+y).
 log_b(A) = xand log_b(B) = y.
 b^x = Aand b^y = B.
@@ -5343,7 +5343,7 @@ b^x = Aand b^y = B.
 AB = b^(x+y),
 log_b(AB) = x+y.
 [log_b(AB), "<mi//>"=x+y], [\ , "<mi//>"=log_b(A)+log_b(B)]
-log_'\\y01d483' ( '\\y01d468'/'\\y01d469' ) = log_'\\y01d483' ('\\y01d468')-log_'\\y01d483' ('\\y01d469')
+log_bii b(bii A/bii B) = log_bii b(bii A)-log_bii b(bii B)
 (b^x)/(b^y) = b^(x-y).
 log_b(A) = xand log_b(B) = y.
 b^x = Aand b^y = B.
@@ -5351,7 +5351,7 @@ b^x = Aand b^y = B.
 A/B = b^(x-y),
 log_b(A/B) = x-y.
 [log_b(A/B), "<mi//>"=x-y], [\ , "<mi//>"=log_b(A)-log_b(B)]
-log_'\\y01d483' ('\\y01d468'^'\\y01d48f' ) = '\\y01d48f'*log_'\\y01d483' ('\\y01d468')
+log_bii b(bii A^bii n) = bii n*log_bii b(bii A)
 (b^x)^n = b^(xn)
 log_b(A) = x.
 b^x = A.
@@ -5359,17 +5359,17 @@ b^x = A.
 A^n = b^(nx),
 log_b(A^n) = nx.
 [log_b(A^n), "<mi//>"=nx], [\ , "<mi//>"=n*log_b(A)]
-log_'\\y01d483' ('\\y01d483') = '\\y01d7cf'and log_'\\y01d483' ('\\y01d7cf') = '\\y01d7ce'and log_'\\y01d483' ('\\y01d483'^'\\y01d499' ) = '\\y01d499'
+log_bii b(bii b) = bb 1and log_bii b(bb 1) = bb 0and log_bii b(bii b^bii x) = bii x
 log_b(b) = 1
 b^1 = b.
 log_b(1) = 0
 b^0 = 1.
 log_b(b^x) = x
 b^x = b^x.
-'\\y01d483'^(log_'\\y01d483' ('\\y01d468')) = '\\y01d468'
+bii b^(log_bii b(bii A)) = bii A
 b^(log_b(A)) = A
 log_b(A) = log_b(A).
-log_'\\y01d483' ('\\y01d499') = (log('\\y01d499'))/(log('\\y01d483')) "(This property is called "Change of Base.")"
+log_bii b(bii x) = (log(bii x))/(log(bii b)) "(This property is called "Change of Base.")"
 log_b(x) = n
 b^n = x.
 log(b^n) = n*log(b).
@@ -5381,7 +5381,7 @@ e
 y
 g(x) = a*f(b(x+-h))+-k
 g(x) = a*f(bx+-h)+-k
-'\\y01d488'('\\y01d499') = '\\y01d482'*'\\y01d487'('\\y01d483'('\\y01d499'+-'\\y01d489'))+-'\\y01d48c'
+bii g(bii x) = bii a*bii f(bii b(bii x+-bii h))+-bii k
 y = a*f(b(x-h))+k:
 e
 y
@@ -5749,13 +5749,13 @@ e
 y
 g(x) = a*f(b(x+-h))+-k
 g(x) = a*f(bx+-h)+-k
-'\\y01d488'('\\y01d499') = '\\y01d482'*'\\y01d487'('\\y01d483''\\y01d499'+-'\\y01d489')+-'\\y01d48c'
+bii g(bii x) = bii a*bii f(bii bbii x+-bii h)+-bii k
 y = a*f(bx-h)+k:
 e
 y
 g(x) = a*f(b(x+-h))+-k
 g(x) = a*f(bx+-h)+-k
-'\\y01d49a' = sin('\\y01d495')
+bii y = sin(bii t)
 sin(pi/2) = 1
 y = sin(t)
 (pi/2, 1).
@@ -5828,7 +5828,7 @@ y
 0.
 y = sin(t)
 ( (3 pi)/2, 2 pi)
-'\\y01d49a' = cos('\\y01d495')
+bii y = cos(bii t)
 t
 0
 pi/2,
@@ -6612,7 +6612,7 @@ e
 y
 g(x) = a*f(b(x+-h))+-k
 g(x) = a*f(bx+-h)+-k
-'\\y01d49a'
+bii y
 y
 y.
 e
@@ -6643,8 +6643,8 @@ beta
 beta
 beta
 beta
-'\\y01d7d2''\\y01d7d3'\circ-'\\y01d7d2''\\y01d7d3'\circ-'\\y01d7d7''\\y01d7ce'\circ
-'\\y01d7d1''\\y01d7ce'\circ-'\\y01d7d4''\\y01d7ce'\circ-'\\y01d7d7''\\y01d7ce'\circ
+bb 4bb 5\circ-bb 4bb 5\circ-bb 9bb 0\circ
+bb 3bb 0\circ-bb 6bb 0\circ-bb 9bb 0\circ
 45\circ
 1
 [H"YP"^2, "<mi//>"=1^2+1^2], [H"YP"^2, "<mi//>"=2], ["HYP", "<mi//>"=sqrt(2)]

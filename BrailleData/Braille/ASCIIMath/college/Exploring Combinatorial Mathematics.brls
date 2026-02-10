@@ -129,8 +129,8 @@ p(4) = 5
 4 = 3+1,
 4 = 4.
 p(5).
-'\\y01d48c'
-'\\y01d48f'
+bii k
+bii n
 n
 k.
 p_n(k)
@@ -571,7 +571,7 @@ O/.
 [3] = {1, 2, 3}.
 [4],
 [5]
-'\\y01d48f'
+bii n
 n.
 bb B_k^n
 n
@@ -661,7 +661,7 @@ n
 k
 ((n), (k))
 ((n), (k))
-(('\\y01d48f'), ('\\y01d48c'))
+((bii n), (bii k))
 n >= 0
 k
 0 <= k <= n
@@ -706,7 +706,7 @@ n
 k.
 ((n), (k))
 (x+y)^n.
-(('\\y01d48f'), ('\\y01d48c'))
+((bii n), (bii k))
 n >= 1
 0 < k < n:
 ((n), (k)) = ((n-1), (k-1))+((n-1), (k)).
@@ -961,11 +961,11 @@ E_1 = {{a, b}, {a, c}, {a, d}, {c, d}}
 V_2 = {a, b, c, d},
 E_2 = {{a, b}, {a, c}, {b, c}, {c, d}}
 K_n
-'\\y01d46e'_'\\y01d7cf'
+bii G_bb 1
 V_1 = {a, b, c, d, e, f, g}
 E_1 = {{a, b}, {a, d}, {b, c}, {b, d}, {b, e}, {b, f}, {c, g}, {d, e},
 {e, f}, {f, g}}.
-'\\y01d46e'_'\\y01d7d0'
+bii G_bb 2
 V_2 = {v_1, v_2, v_3, v_4, v_5, v_6, v_7},
 E_2 = {{v_1, v_4}, {v_1, v_5}, {v_1, v_7}, {v_2, v_3}, {v_2, v_6},
 {v_3, v_5}, {v_3, v_7}, {v_4, v_5}, {v_5, v_6}, {v_5, v_7}}
@@ -1047,14 +1047,14 @@ K_(m,n),
 |A| = m
 |B| = n.
 K_(3,3).
-'\\y01d472'_'\\y01d48f'
+bii K_bii n
 n
-'\\y01d472'_('\\y01d48e','\\y01d48f')
+bii K_(bii m,bii n)
 m
 n
-'\\y01d46a'_'\\y01d48f'
+bii C_bii n
 n
-'\\y01d477'_'\\y01d48f'
+bii P_bii n
 n+1
 n
 V
@@ -1514,8 +1514,8 @@ k
 ((n), (k))
 k
 [n]
-'\\y01d48f'
-'\\y01d48c'
+bii n
+bii k
 (((n), (k))).
 (((n), (k))) != (n^k)/(k!)
 n^k?
@@ -1730,16 +1730,16 @@ f(x) = y,
 f:X -> Y
 A sube X
 f(A)
-'\\y01d468'
-'\\y01d487'
+bii A
+bii f
 Y
 A.
 f(A) = {f(a) in Y:a in A}.
 f:X -> Y
 B sube Y
 f^(-1)(B)
-'\\y01d469'
-'\\y01d487'
+bii B
+bii f
 X
 B.
 f^(-1)(B) = {x in X:f(x) in B}.
@@ -1761,8 +1761,8 @@ f.
 f^(-1)(y)
 f^(-1)({y}).
 f^(-1)(y)
-'\\y01d49a'
-'\\y01d487'
+bii y
+bii f
 y
 f^(-1)
 f^(-1)
@@ -1793,8 +1793,8 @@ x
 y
 y
 y
-'\\y01d499'
-'\\y01d487'
+bii x
+bii f
 x
 y
 x
@@ -2221,7 +2221,7 @@ n
 42
 G,
 k
-'\\y01d48c'
+bii k
 k
 k.
 k
@@ -2291,7 +2291,7 @@ v,
 d(v)
 v
 Delta(G)
-'\\y01d46e'
+bii G
 Delta(G) = max{d(v):v in G}.
 G,
 chi(G) <= Delta(G)+1.
@@ -3147,7 +3147,7 @@ ZZ
 ZZ = {..., -2, -1, 0, 1, 2, 3, ...}.
 QQ
 RR
-'\\y01d4df'('\\y01d468')
+'\\y01d4df'(bii A)
 A
 A.
 {, }
@@ -3164,47 +3164,47 @@ in
 {1, 2, 3}.
 sube
 A sube B
-'\\y01d468'
-'\\y01d469'
+bii A
+bii B
 A
 B.
 sub
 A sub B
-'\\y01d468'
-'\\y01d469'
+bii A
+bii B
 A
 B,
 A != B.
 nn
 A nn B
-'\\y01d468'
-'\\y01d469'
+bii A
+bii B
 A
 B.
 uu
 A uu B
-'\\y01d468'
-'\\y01d469'
+bii A
+bii B
 A
 B
 xx
 A xx B
-'\\y01d468'
-'\\y01d469'
+bii A
+bii B
 (a, b)
 a in A
 b in B.
 '\\x002216'
 A'\\x002216'B
-'\\y01d468'
-'\\y01d469'
+bii A
+bii B
 A
 B.
 bar A
-'\\y01d468'
+bii A
 A.
-|'\\y01d468'|
-'\\y01d468'
+|bii A|
+bii A
 A.
 A = {3, 4, ..., 15}.
 B = {n in NN:2 < n <= 200}.
@@ -3669,8 +3669,8 @@ n
 n!
 n
 k
-'\\y01d48c'
-'\\y01d48f'
+bii k
+bii n
 P(n, k)
 k
 n
@@ -3921,7 +3921,7 @@ B
 G
 G
 |A| = |B|,
-'\\y01d468'
+bii A
 A
 A
 B

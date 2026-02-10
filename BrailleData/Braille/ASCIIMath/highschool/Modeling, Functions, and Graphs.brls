@@ -1,4 +1,3 @@
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -120,7 +119,6 @@ y = log_2 x
 y = log_2(x-2)
 log_2 x+log_2(x-2) = 3
 log_3(x-2)-log_3(x+1) = 3
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -134,7 +132,6 @@ x
 3 xx 3
 3 xx 3
 root(n)(x^n)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -585,7 +582,6 @@ F(x) = 1/(x+2) ;
 \ -2 < x <= 4
 H(x) = 1/(2-x) ;
 \ -4 <= x < 2
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -599,7 +595,6 @@ x
 3 xx 3
 3 xx 3
 root(n)(x^n)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -878,8 +873,8 @@ I
 3
 3
 40
-I = '\\y01d7cf''\\y01d7ce'^(-'\\y01d7cf''\\y01d7cf')
-[D, =10log_(10)( ('\\y01d7cf''\\y01d7ce'^(-'\\y01d7cf''\\y01d7cf'))/(10^(-12)) )=10log_(10)10^1], [\ , =10(1)=10"\decibels"]
+I = bb 1bb 0^(-bb 1bb 1)
+[D, =10log_(10)( (bb 1bb 0^(-bb 1bb 1))/(10^(-12)) )=10log_(10)10^1], [\ , =10(1)=10"\decibels"]
 I_b
 I_c
 I_c//I_b.
@@ -887,7 +882,7 @@ I_w = 10^(-11)
 40 = 10log_(10)( (I_c)/(10^(-12)) )
 I_c.
 10
-[ (I_c)/(10^(-12)) , =10^4, \ , "Multiply both sides by\ "'\\y01d7cf''\\y01d7ce'^(-'\\y01d7cf''\\y01d7d0').], [I_c, =10^4(10^(-12))=10^(-8)]
+[ (I_c)/(10^(-12)) , =10^4, \ , "Multiply both sides by\ "bb 1bb 0^(-bb 1bb 2).], [I_c, =10^4(10^(-12))=10^(-8)]
 (I_c)/(I_b) :
 (I_c)/(I_b) = (10^(-8))/(10^(-11)) = 10^3
 1000
@@ -1051,7 +1046,6 @@ m,
 L,
 m = 4.83-2.5log L
 10
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -1117,14 +1111,14 @@ x,
 1.
 x
 y
-[\ , "When\ "x=-2,, \ , y=2(-'\\y01d7d0')+3=-1], [\ , "When\ "x=0,, \ , y=2('\\y01d7ce')+3=3], [\ , "When\ "x=1,, \ , y=2('\\y01d7cf')+3=5]
+[\ , "When\ "x=-2,, \ , y=2(-bb 2)+3=-1], [\ , "When\ "x=0,, \ , y=2(bb 0)+3=3], [\ , "When\ "x=1,, \ , y=2(bb 1)+3=5]
 (-2, -1),
 (0, 3),
 (1, 5)
 y = 2x+3.
 y.
-y = '\\y01d7cf''\\y01d7ce',
-'\\y01d7cf''\\y01d7ce' = 2x+3
+y = bb 1bb 0,
+bb 1bb 0 = 2x+3
 x,
 7 = 2x,
 x = 3.5.
@@ -1140,19 +1134,19 @@ y = 0.5x^2-2
 (-4, 6)
 x = -4, y = 6
 y = 0.5x^2-2.
--'\\y01d7d2'
+-bb 4
 x
-'\\y01d7d4'
+bb 6
 y:
-[0.5(-'\\y01d7d2')^2-2, =0.5(16)-2], [=8-2, ='\\y01d7d4']
+[0.5(-bb 4)^2-2, =0.5(16)-2], [=8-2, =bb 6]
 (3, 0)
 x = 3, y = 0
 y = 0.5x^2-2.
-'\\y01d7d1'
+bb 3
 x
-'\\y01d7ce'
+bb 0
 y
-[0.5('\\y01d7d1')^2-2, =0.5(9)-2], [=4.5-2, =2.5!='\\y01d7ce']
+[0.5(bb 3)^2-2, =0.5(9)-2], [=4.5-2, =2.5!=bb 0]
 5\circ
 -5\circ
 0\circ
@@ -1298,7 +1292,6 @@ y = x^3
 (-2, "\ ?")\ (1/2, "\ ?")\ (?, 0)\ (?, -1)
 y = sqrt(x+4)
 (0, "\ ?")\ (5, "\ ?")\ (?, 0)\ (?, \ 1)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -1386,9 +1379,9 @@ V = 6 pi r^2.
 170
 V
 r.
-[170, =6 pi r^2, \ , "Divide both sides by\ "'\\y01d7d4''\\y01d745'.], [r^2, =170/(6 pi) , \ , "Take square roots."], [r, =sqrt(170/(6 pi) )~~3.00312]
+[170, =6 pi r^2, \ , "Divide both sides by\ "bb 6bb pi.], [r^2, =170/(6 pi) , \ , "Take square roots."], [r, =sqrt(170/(6 pi) )~~3.00312]
 3
-\
+\ \
 170
 6
 lw,
@@ -1562,7 +1555,6 @@ x^2+(y+4)^2 = 12
 (3, -1).
 (3, 6)
 (-5, 2).
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -1819,7 +1811,7 @@ a
 3r
 b
 -q,
-[(3r-q)^6, =(3r)^6+6(3r)^5(-q)+15(3r)^4(-q)^2+20(3r)^3(-q)^3], [\ , +15(3r)^2(-6)^4+6(3r)(-q)^5+(-q)^6], [\ , =729r^6-1458r^5 q+1215r^4 q^2-540r^3 q^3+135r^2 q^2-18rq^5+q^6]
+[(3r-q)^6, =(3r)^6+6(3r)^5(-q)+15(3r)^4(-q)^2+20(3r)^3(-q)^3], [\ , \ \ +15(3r)^2(-6)^4+6(3r)(-q)^5+(-q)^6], [\ , =729r^6-1458r^5 q+1215r^4 q^2-540r^3 q^3+135r^2 q^2-18rq^5+q^6]
 (w+10z)^6.
 w^6+60w^5 z+1500w^4 z^2+20000w^3 z^3+150000w^2 z^4+600000wz^5+1 xx 10^6 z^6
 w^6+60w^5 z+1500w^4 z^2+20,000w^3 z^3+150,000w^2 z^4+
@@ -2052,7 +2044,6 @@ n = 0, 1, 2, 3, 4.
 n = 0, 1, 2, 3, 4.
 1.1
 1+0.1.
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -2089,7 +2080,6 @@ x = 0
 x = 18.
 x = 0
 x = 18.
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -2189,7 +2179,6 @@ P(9) =
 P(12) =
 15
 P(15) =
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -2219,13 +2208,13 @@ z = -1.
 -1
 z
 y.
-[-2y-4(-'\\y01d7cf'), =-2], [-2y+4, =-2], [-2y, =-6], [y, =3]
+[-2y-4(-bb 1), =-2], [-2y+4, =-2], [-2y, =-6], [y, =3]
 -1
 z
 3
 y
 x.
-[x+2('\\y01d7d1')+3(-'\\y01d7cf'), =2], [x+6-3, =2], [x, =-1]
+[x+2(bb 3)+3(-bb 1), =2], [x+6-3, =2], [x, =-1]
 (-1, 3, -1).
 3 xx 3
 [2x+2y, +, z, =, 10], [y, -, 4z, =, 9], [\ , \ , 3z, =, -6]
@@ -2312,14 +2301,14 @@ y,
 2 xx 2
 [x, +, 2y, -, 3z, =, -4, (1)], [\ , \ , -5y, +, 7z, =, 11, (4)], [\ , \ , \ , \ , -22z, =, -66, (6)]
 z = 3.
-'\\y01d7d1'
+bb 3
 z
-[-5y+7('\\y01d7d1'), =11], [-5y+21, =11], [-5y, =-10], [y, =2]
-'\\y01d7d1'
+[-5y+7(bb 3), =11], [-5y+21, =11], [-5y, =-10], [y, =2]
+bb 3
 z
-'\\y01d7d0'
+bb 2
 y
-[x+2('\\y01d7d0')-3('\\y01d7d1'), =-4], [x+4-9, =-4], [x, =1]
+[x+2(bb 2)-3(bb 3), =-4], [x+4-9, =-4], [x, =1]
 (1, 2, 3).
 "B) Eliminate...of equations."
 3 xx 3
@@ -2512,12 +2501,12 @@ x = 52.
 52
 x
 y
-['\\y01d7d3''\\y01d7d0'-2y, =-4], [y, =28]
+[bb 5bb 2-2y, =-4], [y, =28]
 52
 x
 28
 y
-['\\y01d7d3''\\y01d7d0'+'\\y01d7d0''\\y01d7d6'+z, =180], [z, =100]
+[bb 5bb 2+bb 2bb 8+z, =180], [z, =100]
 52\circ,
 28\circ,
 100\circ.
@@ -2691,7 +2680,6 @@ z.
 3
 6150
 3800
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -3488,7 +3476,6 @@ g
 f(x)
 x
 f
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -3571,7 +3558,7 @@ x = 3
 ax^2+bx+c = 0
 a(x-r_1)(x-r_2) = 0
 \ 3x(x+1) = 2x+2
-[3x(x+1), =2x+2, \ , "Apply the distributive law to the left side."], [3x^2+3x, =2x+2, \ , "Subtract\ "'\\y01d7d0''\\y01d499'+'\\y01d7d0'"\from both sides."], [3x^2+x-2, =0]
+[3x(x+1), =2x+2, \ , "Apply the distributive law to the left side."], [3x^2+3x, =2x+2, \ , "Subtract\ "bb 2bii x+bb 2"\from both sides."], [3x^2+x-2, =0]
 (3x-2)(x+1) = 0
 3x-2 = 0\ "\or\ "\ x+1 = 0
 x = 2/3\ "\or\ "\ x = -1
@@ -3694,7 +3681,7 @@ x^6-4x^3-5 = 0
 u = x^3,
 u^2 = (x^3)^2 = x^6.
 u,
-[u^2-4u-5, =0, \ , "Factor the left side."], [(u+1)(u-5), =0, \ , "Apply the zero-factor principle."], [u+1, =0\ "\or\ "\ u-5=0, \ , "Solve each equation for\ "'\\y01d496'.], [u, =-1\ "\or\ "\ u=5]
+[u^2-4u-5, =0, \ , "Factor the left side."], [(u+1)(u-5), =0, \ , "Apply the zero-factor principle."], [u+1, =0\ "\or\ "\ u-5=0, \ , "Solve each equation for\ "bii u.], [u, =-1\ "\or\ "\ u=5]
 u
 x^3
 x.
@@ -3719,7 +3706,7 @@ u^2;
 e^(2x)-7e^x+12 = 0.
 u = e^x,
 u^2 = (e^x)^2 = e^(2x).
-[u^2-7u+12, =0, \ , "Factor the left side."], [(u-3)(u-4), =0, \ , "Apply the zero-factor principle."], [u-3, =0\ "\or\ "\ u-4=0, \ , "Solve each equation for"'\\y01d496'.], [u, =3\ "\or\ "\ u=4]
+[u^2-7u+12, =0, \ , "Factor the left side."], [(u-3)(u-4), =0, \ , "Apply the zero-factor principle."], [u-3, =0\ "\or\ "\ u-4=0, \ , "Solve each equation for"bii u.], [u, =3\ "\or\ "\ u=4]
 u
 e^x
 x.
@@ -3973,7 +3960,6 @@ y,
 8 1/2
 2 1/2
 pi.
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -4123,7 +4109,6 @@ Y_(2T)
 (2, 0)
 L_1
 L_2
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -4278,12 +4263,12 @@ T(x)
 x
 T(x).
 T(x).
-x = '\\y01d7d3''\\y01d7ce''\\y01d7ce'
-T('\\y01d7d3''\\y01d7ce''\\y01d7ce') = 0+0.10('\\y01d7d3''\\y01d7ce''\\y01d7ce') = 50
+x = bb 5bb 0bb 0
+T(bb 5bb 0bb 0) = 0+0.10(bb 5bb 0bb 0) = 50
 x = 29,700
-T('\\y01d7d0''\\y01d7d7','\\y01d7d5''\\y01d7ce''\\y01d7ce') = 730+0.15('\\y01d7d0''\\y01d7d7','\\y01d7d5''\\y01d7ce''\\y01d7ce'-7300) = 4090
+T(bb 2bb 9,bb 7bb 0bb 0) = 730+0.15(bb 2bb 9,bb 7bb 0bb 0-7300) = 4090
 x = 40,000
-T('\\y01d7d2''\\y01d7ce','\\y01d7ce''\\y01d7ce''\\y01d7ce') = 4090+0.25('\\y01d7d2''\\y01d7ce','\\y01d7ce''\\y01d7ce''\\y01d7ce'-29,700) = 6665
+T(bb 4bb 0,bb 0bb 0bb 0) = 4090+0.25(bb 4bb 0,bb 0bb 0bb 0-29,700) = 6665
 x
 T(x)
 "Base tax"+"Rate"*("Amount over bracket base")
@@ -4628,7 +4613,6 @@ T(h).
 1
 1
 1
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -4679,7 +4663,7 @@ y <= mx+b\ ("or\ "\ y < mx+b)
 y:
 \ 4x-3y >= 12
 y.
-[4x-3y, >=12, \ , "Subtract"\ '\\y01d7d2''\\y01d499'\ "from both sides."], [-3y, >=-4x+12, \ , "Divide both sides by"\ -'\\y01d7d1'.], [y, <=4/3 x-4]
+[4x-3y, >=12, \ , "Subtract"\ bb 4bii x\ "from both sides."], [-3y, >=-4x+12, \ , "Divide both sides by"\ -bb 3.], [y, <=4/3 x-4]
 y = 4/3 x-4
 y
 -4
@@ -4702,9 +4686,9 @@ x
 0
 -2
 y
-'\\y01d7d3'
-'\\y01d7ce'
--'\\y01d7d1'
+bb 5
+bb 0
+-bb 3
 x > -4
 "To the right"
 y.
@@ -4713,11 +4697,11 @@ y.
 (2, 0)
 (0, -3),
 (0, 0)
-3('\\y01d7ce')-2('\\y01d7ce') < 6
+3(bb 0)-2(bb 0) < 6
 (0, 0)
 (0, 0)
 (5, 0)
-3('\\y01d7d3')-2('\\y01d7ce') < 6
+3(bb 5)-2(bb 0) < 6
 (5, 0)
 (5, 0)
 y <= (2x)/3
@@ -4870,7 +4854,6 @@ y >= 0.
 1
 10
 8
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -5144,7 +5127,6 @@ sum_(n=3)^ oo 2(1/3)^n
 10
 6
 10
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -5379,15 +5361,15 @@ x = 1
 x = 4.
 x = 2
 x = 5.
-x_1 = '\\y01d7cf'
-x_2 = '\\y01d7d2'
-f(x_1) = f('\\y01d7cf') = '\\y01d7cf'^2-6('\\y01d7cf') = -5
-f(x_2) = f('\\y01d7d2') = '\\y01d7d2'^2-6('\\y01d7d2') = -8
+x_1 = bb 1
+x_2 = bb 4
+f(x_1) = f(bb 1) = bb 1^2-6(bb 1) = -5
+f(x_2) = f(bb 4) = bb 4^2-6(bb 4) = -8
 m = (f(x_2)-f(x_1))/(x_2-x_1) = (-8-(-5))/(4-1) = (-3)/3 = -1
-x_1 = '\\y01d7d0'
-x_2 = '\\y01d7d3'
-f(x_1) = f('\\y01d7d0') = '\\y01d7d0'^2-6('\\y01d7d0') = -8
-f(x_2) = f('\\y01d7d3') = '\\y01d7d3'^2-6('\\y01d7d3') = -5
+x_1 = bb 2
+x_2 = bb 5
+f(x_1) = f(bb 2) = bb 2^2-6(bb 2) = -8
+f(x_2) = f(bb 5) = bb 5^2-6(bb 5) = -5
 m = (f(x_2)-f(x_1))/(x_2-x_1) = (-5-(-8))/(5-2) = 3/3 = 1
 f
 f.
@@ -5751,7 +5733,6 @@ v
 y = f(x)
 P
 Q.
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -5873,7 +5854,6 @@ y = mx.
 13
 14
 15
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -5887,7 +5867,6 @@ x
 3 xx 3
 3 xx 3
 root(n)(x^n)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -6348,7 +6327,6 @@ g,
 (74, 84).
 2160\circ
 1435\circ
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -6496,7 +6474,6 @@ x > -2,
 -9x\ 18.
 x < -4,
 3x\ -12.
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -6625,7 +6602,7 @@ c
 (3, 5),
 (4, 9)
 y = ax^2+bx+c.
-['\\y01d7d1'=, a('\\y01d7cf')^2+, b('\\y01d7cf'), +, c, \ ], ['\\y01d7d3'=, a('\\y01d7d1')^2+, b('\\y01d7d1'), +, c, \ ], ['\\y01d7d7'=, a('\\y01d7d2')^2+, b('\\y01d7d2'), +, c, \ ]
+[bb 3=, a(bb 1)^2+, b(bb 1), +, c, \ ], [bb 5=, a(bb 3)^2+, b(bb 3), +, c, \ ], [bb 9=, a(bb 4)^2+, b(bb 4), +, c, \ ]
 [a, +, b, +, c, =, 3, \ , (1)], [9a, +, 3b, +, c, =, 5, \ , (2)], [16a, +, 4b, +, c, =, 9, \ , (3)]
 a,
 b,
@@ -6658,12 +6635,12 @@ b
 a = 1.
 1
 a
-[8('\\y01d7cf')+2b, =2, \ , "Solve for\ "'\\y01d483'.], [b, =-3]
+[8(bb 1)+2b, =2, \ , "Solve for\ "bii b.], [b, =-3]
 -3
 b
 1
 a
-['\\y01d7cf'+(-'\\y01d7d1')+c, =3, \ , "Solve for\ "'\\y01d484'.], [c, =5]
+[bb 1+(-bb 3)+c, =3, \ , "Solve for\ "bii c.], [c, =5]
 y = x^2-3x+5
 a
 b
@@ -7074,7 +7051,6 @@ F
 30
 30
 30
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -7098,9 +7074,9 @@ b != 1,
 log_b(xy) = log_b x+log_b y
 log_b x/y = log_b x-log_b y
 log_b x^k = klog_b x
-[log_2 32, =log_2(4*8), \ , =log_2 4+log_2 8, "\because\ "2^'\\y01d7d3' , =2^'\\y01d7d0' *2^'\\y01d7d1' ], ['\\y01d7d3', \ , \ , ='\\y01d7d0'+'\\y01d7d1', 32, =4*8]
-[log_2 8, =log_2 16/2, \ , =log_2 16-log_2 2, "\because\ "2^'\\y01d7d1' , = (2^'\\y01d7d2' )/(2^'\\y01d7cf' ) ], ['\\y01d7d1', \ , \ , ='\\y01d7d2'-'\\y01d7cf', 8, =16/2]
-[log_2 64, =log_2(4)^3, \ , =3log_2 4, "\because\ "(2^'\\y01d7d0' )^'\\y01d7d1' , =2^'\\y01d7d4' ], ['\\y01d7d4', \ , \ , ='\\y01d7d1'*'\\y01d7d0', (4)^'\\y01d7d1' , =64]
+[log_2 32, =log_2(4*8), \ , =log_2 4+log_2 8, "\because\ "2^bb 5, =2^bb 2*2^bb 3], [bb 5, \ , \ , =bb 2+bb 3, 32, =4*8]
+[log_2 8, =log_2 16/2, \ , =log_2 16-log_2 2, "\because\ "2^bb 3, = (2^bb 4)/(2^bb 1) ], [bb 3, \ , \ , =bb 4-bb 1, 8, =16/2]
+[log_2 64, =log_2(4)^3, \ , =3log_2 4, "\because\ "(2^bb 2)^bb 3, =2^bb 6], [bb 6, \ , \ , =bb 3*bb 2, (4)^bb 3, =64]
 log(8+y) = log 8+log y
 log(8y) = log 8+log y
 log(8y) = log 8*log y
@@ -7189,7 +7165,7 @@ x =
 "Divide both sides by 5."
 "\the log of both sides."
 "Apply Property(3) to simplify the left side."
-"Solve for"\ '\\y01d499'.
+"Solve for"\ bii x.
 (log(77/5))/(2.5log(1.2))
 x = (log 15.4)/(2.5log 1.2) ~~ 5.999
 log(a+b).
@@ -7205,7 +7181,7 @@ P(t) = 75,000;
 [6500*3^(t//12), =75,000, \ , "\Divide both sides by 6500."], [3^(t//12), =150/13]
 10
 t.
-[log_(10)(3^(t//12)), =log_(10)(150/13), \ , "Apply Property(3)."], [t/12 log_(10)3, =log_(10)(150/13), \ , "Divide by\ "log_('\\y01d7cf''\\y01d7ce')'\\y01d7d1'"; multiply by 12."], [t, = (12(log_(10) 150/13))/(log_(10)3) ], [\ , ~~26.71]
+[log_(10)(3^(t//12)), =log_(10)(150/13), \ , "Apply Property(3)."], [t/12 log_(10)3, =log_(10)(150/13), \ , "Divide by\ "log_(bb 1bb 0)bb 3"; multiply by 12."], [t, = (12(log_(10) 150/13))/(log_(10)3) ], [\ , ~~26.71]
 75,000
 27
 1990,
@@ -7513,7 +7489,6 @@ m
 log_b 1 = 0.
 log_b b^x = x.
 b^(log_b x) = x.
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -7528,7 +7503,7 @@ x
 3 xx 3
 root(n)(x^n)
 120-36:
-120
+\ \ 120
 36
 sqrt(3)+sqrt(2)\
 \ sqrt(3)-sqrt(2).
@@ -7551,7 +7526,6 @@ x
 2
 1
 5
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -7565,7 +7539,6 @@ x
 3 xx 3
 3 xx 3
 root(n)(x^n)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -7579,7 +7552,6 @@ x
 3 xx 3
 3 xx 3
 root(n)(x^n)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -7602,19 +7574,19 @@ C,
 t.
 C
 t.
-["Cost", =($5"\insurance fee")+($3"\per hour") xx('\\y01d7cf'"\hour")], [C, =5+3('\\y01d7cf')=8]
+["Cost", =($5"\insurance fee")+($3"\per hour") xx(bb 1"\hour")], [C, =5+3(bb 1)=8]
 (t, C)
 1
 8
-\ C = 5+3('\\y01d7cf')\
+\ C = 5+3(bb 1)\
 (1, 8)
 2
 11
-C = 5+3('\\y01d7d0')
+C = 5+3(bb 2)
 (2, 11)
 3
 14
-C = 5+3('\\y01d7d1')
+C = 5+3(bb 3)
 (3, 14)
 t
 C
@@ -7622,15 +7594,15 @@ t
 ["Cost", =($5"\insurance fee")+($3"\per hour") xx "(number of hours)"], [C, =5+3*t]
 "The horizontal axis"
 C = 5+3*t
-t = '\\y01d7d4'
+t = bb 6
 C
-C = 5+3('\\y01d7d4') = 23
+C = 5+3(bb 6) = 23
 P
 C
 P
-C = '\\y01d7cf''\\y01d7d6'.'\\y01d7d3''\\y01d7ce'
+C = bb 1bb 8.bb 5bb 0
 t.
-['\\y01d7cf''\\y01d7d6'.'\\y01d7d3''\\y01d7ce', =5+3t], [13.50, =3t], [t, =4.5]
+[bb 1bb 8.bb 5bb 0, =5+3t], [13.50, =3t], [t, =4.5]
 Q
 t
 Q
@@ -7673,10 +7645,10 @@ t,
 P,
 P
 t.
-'\\y01d7d2'(4700) = 18,800
-P = 92,000+'\\y01d7d2'(4700) = 110,800
-'\\y01d7d6'(4700) = 37,600
-P = 92,000+'\\y01d7d6'(4700) = 129,600
+bb 4(4700) = 18,800
+P = 92,000+bb 4(4700) = 110,800
+bb 8(4700) = 37,600
+P = 92,000+bb 8(4700) = 129,600
 (t, P)
 1990
 92,000
@@ -7722,13 +7694,13 @@ t
 C
 (t, C)
 0
-C = 285-15('\\y01d7ce')
+C = 285-15(bb 0)
 5
-C = 285-15('\\y01d7d3')
+C = 285-15(bb 5)
 10
-C = 285-15('\\y01d7cf''\\y01d7ce')
+C = 285-15(bb 1bb 0)
 15
-C = 285-15('\\y01d7cf''\\y01d7d3')
+C = 285-15(bb 1bb 5)
 C
 C,
 t
@@ -7772,7 +7744,7 @@ y = (1575+45x)//2
 x
 y
 "Choice 4"
-'\\y01d49a' = "(starting value)"+"(rate of change)"*'\\y01d499'
+bii y = "(starting value)"+"(rate of change)"*bii x
 C = 5+3t
 -3t+C = 5
 P = 92,000+4700t
@@ -7794,8 +7766,8 @@ y
 150x+50y = 3000
 x,
 y.
-x = '\\y01d7cf''\\y01d7ce'
-[150('\\y01d7cf''\\y01d7ce')+50y, =300], [1500+50y, =3000], [50y, =1500], [y, =30]
+x = bb 1bb 0
+[150(bb 1bb 0)+50y, =300], [1500+50y, =3000], [50y, =1500], [y, =30]
 x
 8
 10
@@ -7833,14 +7805,14 @@ y
 3x-4y = 12
 y
 x
-y = '\\y01d7ce'
-[3('\\y01d7ce')-4x, =12], [x=-3]
+y = bb 0
+[3(bb 0)-4x, =12], [x=-3]
 x
 (-3, 0).
 x
 y
-x = '\\y01d7ce'
-[3y-4('\\y01d7ce')=12], [y=4]
+x = bb 0
+[3y-4(bb 0)=12], [y=4]
 y
 (0, 4).
 y
@@ -7859,13 +7831,13 @@ x
 C = 285-15t
 C
 t
-C = 285-15('\\y01d7ce') = 285
+C = 285-15(bb 0) = 285
 C
 (0, 285),
 t
 C
 t.
-['\\y01d7ce', =285-15t, \ , "Add\ "'\\y01d7cf''\\y01d7d3''\\y01d495'"\to both sides."], [15t, =285, \ , "Divide both sides by 15."], [t, =19]
+[bb 0, =285-15t, \ , "Add\ "bb 1bb 5bii t"\to both sides."], [15t, =285, \ , "Divide both sides by 15."], [t, =19]
 t
 (19, 0),
 19.
@@ -7911,20 +7883,20 @@ x
 y
 150x-180y = 9000.
 x
-y = '\\y01d7ce'.
-[150x-18('\\y01d7ce'), =9000, \ , "Simpify."], [150x, =9000, \ , "Divide both sides by 150."], [x, =60, \ , \ ]
+y = bb 0.
+[150x-18(bb 0), =9000, \ , "Simpify."], [150x, =9000, \ , "Divide both sides by 150."], [x, =60, \ , \ ]
 x
 (60, 0).
 y
-x = '\\y01d7ce'.
-[150('\\y01d7ce')-18y, =9000, \ , "Simpify."], [-180y, =9000, \ , "Divide both sides by\ "-'\\y01d7cf''\\y01d7d6''\\y01d7ce'.], [y, =-50, \ , \ ]
+x = bb 0.
+[150(bb 0)-18y, =9000, \ , "Simpify."], [-180y, =9000, \ , "Divide both sides by\ "-bb 1bb 8bb 0.], [y, =-50, \ , \ ]
 y
 (0, -50).
 (60, 0)
 (0, -50).
-x = '\\y01d7d0''\\y01d7ce'
+x = bb 2bb 0
 y.
-[150('\\y01d7d0''\\y01d7ce')-180y, =9000], [3000-180y, =9000], [-180y, =6000], [y, =-33.bar 3]
+[150(bb 2bb 0)-180y, =9000], [3000-180y, =9000], [-180y, =6000], [y, =-33.bar 3]
 (20, -33 1/3).
 x
 y
@@ -8257,7 +8229,6 @@ y/12-x/60 = 1
 x/80+y/400 = 1
 -2x = 3y+84
 7x = 91-13y
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -8339,7 +8310,6 @@ G = f(n)
 n
 f(n+1)
 f(n).
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -8424,7 +8394,6 @@ E_n(x),
 [E_1(x), =f(x)-P_1(x)], [E_2(x), =f(x)-P_2(x)], [E_3(x), =f(x)-P_3(x)]
 y
 [-2, 7.4]
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -8461,7 +8430,6 @@ y = (-1)/2 f(x)
 y = f(x).
 Y_1 = X^2
 Y_2 = -1//2**Y_1(X).
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -8558,10 +8526,10 @@ g(x)
 (x-y)^3 = x^3-3x^2 y+3xy^2-y^3
 (2w-3)^3
 x
-'\\y01d7d0''\\y01d498'
+bb 2bii w
 y
-'\\y01d7d1'.
-[(x-y)^3, =x^3-3x^2 y+3xy^2-y^3], [('\\y01d7d0''\\y01d498'-'\\y01d7d1')^3, =('\\y01d7d0''\\y01d498')^3-3('\\y01d7d0''\\y01d498')^2('\\y01d7d1')+3('\\y01d7d0''\\y01d498')('\\y01d7d1')^2-'\\y01d7d1'^3, \ , "Simplify."], [\ , =8w^3-36w^2+54w-27]
+bb 3.
+[(x-y)^3, =x^3-3x^2 y+3xy^2-y^3], [(bb 2bii w-bb 3)^3, =(bb 2bii w)^3-3(bb 2bii w)^2(bb 3)+3(bb 2bii w)(bb 3)^2-bb 3^3, \ , "Simplify."], [\ , =8w^3-36w^2+54w-27]
 (5+x^2)^3
 125+75x^2+15x^4+x^6
 125+75x^2+15x^4+x^6
@@ -8576,19 +8544,19 @@ x^3-y^3 = (x-y)(x^2+xy+y^2)
 (2a)^3 = 8a^3,
 b.
 x
-'\\y01d7d0''\\y01d482',
+bb 2bii a,
 y
-'\\y01d483'.
-[x^3+y^3, =(x+y)(x^2-xy+y^2)], [('\\y01d7d0''\\y01d482')3+'\\y01d483'3, =('\\y01d7d0''\\y01d482'+'\\y01d483')(('\\y01d7d0''\\y01d482')^2-('\\y01d7d0''\\y01d482')'\\y01d483'+'\\y01d483'^2), \ , "Simplify."], [\ , =(2a+b)(4a^2-2ab+b^2)]
+bii b.
+[x^3+y^3, =(x+y)(x^2-xy+y^2)], [(bb 2bii a)3+bii b3, =(bb 2bii a+bii b)((bb 2bii a)^2-(bb 2bii a)bii b+bii b^2), \ , "Simplify."], [\ , =(2a+b)(4a^2-2ab+b^2)]
 1,
 1^3 = 1,
 3h^2,
 (3h^2)^3 = 27h^6.
 x
-'\\y01d7cf',
+bb 1,
 y
-'\\y01d7d1''\\y01d489'^'\\y01d7d0' :
-[x^3-y^3, =(x-y)(x^2+xy+y^2)], ['\\y01d7cf'^3-('\\y01d7d1''\\y01d489'^'\\y01d7d0' )^3, =('\\y01d7cf'-'\\y01d7d1''\\y01d489'^'\\y01d7d0' )('\\y01d7cf'^2+'\\y01d7cf'('\\y01d7d1''\\y01d489'^'\\y01d7d0' )+('\\y01d7d1''\\y01d489'^'\\y01d7d0' )^2), \ , "Simplify."], [\ , =(1-3h^2)(1+3h^2+9h^4)]
+bb 3bii h^bb 2:
+[x^3-y^3, =(x-y)(x^2+xy+y^2)], [bb 1^3-(bb 3bii h^bb 2)^3, =(bb 1-bb 3bii h^bb 2)(bb 1^2+bb 1(bb 3bii h^bb 2)+(bb 3bii h^bb 2)^2), \ , "Simplify."], [\ , =(1-3h^2)(1+3h^2+9h^4)]
 y = ax^3+bx^2+cx+d
 y
 x.
@@ -8821,7 +8789,6 @@ t
 3
 8
 7
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -8860,8 +8827,8 @@ x^3
 (x^4)/(x^7) = 1/(x^(7-4)) = 1/(x^3)
 "If\ "m > n, \ "\then\ "\ (a^m)/(a^n) = a^(m-n)(a != 0)
 "If\ "m < n, \ "\then\ "\ (a^m)/(a^n) = 1/(a^(n-m)) (a != 0)
-(3^8)/(3^2) = 3^(8-2) = 3^6 "Subtract exponents:\ "\ '\\y01d7d6' > '\\y01d7d0'.
-(w^3)/(w^6) = 1/(w^(6-3)) = 1/(w^3) "Subtract exponents:\ "'\\y01d7d1' < '\\y01d7d4'.
+(3^8)/(3^2) = 3^(8-2) = 3^6 "Subtract exponents:\ "\ bb 8 > bb 2.
+(w^3)/(w^6) = 1/(w^(6-3)) = 1/(w^3) "Subtract exponents:\ "bb 3 < bb 6.
 \ (3x^2 y^4)/(6x^3 y)
 [ (3x^2 y^4)/(6x^3 y) , =3/6* (x^2)/(x^3) * (y^4)/y, \ , "Subtract exponents."], [\ , =1/2*1/(x^(3-2)) *y^(4-1)], [\ , =1/2*1/x*y^3= (y^3)/(2x) ]
 (a^4)^3,
@@ -8989,7 +8956,6 @@ b(b^4)^6
 ((-x^2)(-x^2)^4)/((x^2)^3)
 ( (-2x)/(y^2) )( (y^2)/(3x) )^2
 ( (x^2 z)/2)^3( (-2)/(x^2 z) )^3
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -9036,17 +9002,17 @@ x-6 = -1(6-x).
 (4y^2-1)/(4-y^2) * (y^2-2y)/(4y+2)
 (x+1)(x-1).
 5/(x^2-1) * (x+2)/x = (5(x+2))/(x(x^2-1)) = (5x+10)/(x^3-x)
-[ (4y^2-1)/(4-y^2) * (y^2-2y)/(4y+2) , = ((2y-1)(\cancel(2y+1)))/(\cancel((2-y))(2+y)) * (y\cancel((y-2))^(-'\\y01d7cf'))/(2(\cancel(2y+1))) , \ , "Divide out common factors."], [\ , = (-y(2y-1))/(2(y+2)) , \ , "Note:\ "\ '\\y01d49a'-'\\y01d7d0'=-('\\y01d7d0'-'\\y01d49a')]
+[ (4y^2-1)/(4-y^2) * (y^2-2y)/(4y+2) , = ((2y-1)(\cancel(2y+1)))/(\cancel((2-y))(2+y)) * (y\cancel((y-2))^(-bb 1))/(2(\cancel(2y+1))) , \ , "Divide out common factors."], [\ , = (-y(2y-1))/(2(y+2)) , \ , "Note:\ "\ bii y-bb 2=-(bb 2-bii y)]
 [ (2x^3)/(3y) -: (4x)/(5y^2) , = (2x^3)/(3y) * (5y^2)/(4x) ], [\ , = (\cancel(2x)*x^2)/(3\cancel(y)) * (5y*\cancel(y))/(2*\cancel(2x)) = (5x^2 y)/6]
 (x^2-1)/(x+3) -: (x^2-x-2)/(x^2+5x+6)
 (6ab)/(2a+b) -:(4a^2 b)
 [ (x^2-1)/(x+3) -: (x^2-x-2)/(x^2+5x+6) , = (x^2-1)/(x+3) * (x^2+5x+6)/(x^2-x-2) , \ , "Factor."], [\ , = ((x-1)(\cancel(x+1)))/(\cancel(x+3)) * ((\cancel(x+3))(x+2))/((\cancel(x+1))(x-2)) ], [\ , = ((x-1)(x+2))/(x-2) ]
-[ (6ab)/(2a+b) -:(4a^2 b), = (\cancel(6)^'\\y01d7d1' \cancel(ab))/(2a+b) *1/(\cancel(4)^'\\y01d7d0'a*\cancel(ab)) , \ , "Divide out common factors."], [\ , =3/(2a(2a+b)) =3/(4a^2+2ab) ]
+[ (6ab)/(2a+b) -:(4a^2 b), = (\cancel(6)^bb 3\cancel(ab))/(2a+b) *1/(\cancel(4)^bb 2 a*\cancel(ab)) , \ , "Divide out common factors."], [\ , =3/(2a(2a+b)) =3/(4a^2+2ab) ]
 (2x)/(9z^2) + (5x)/(9z^2)
 (2x-1)/(x+3) - (5x-3)/(x+3)
 (2x)/(9z^2) + (5x)/(9z^2) = (2x+5x)/(9z^2) = (7x)/(9z^2)
 5x-3.
-[ (2x-1)/(x+3) - (5x-3)/(x+3) , = (2x-1-('\\y01d7d3''\\y01d499'-'\\y01d7d1'))/(x+3) ], [\ , = (2x-1-'\\y01d7d3''\\y01d499'+'\\y01d7d1')/(x+3) = (-3x+2)/(x+3) ]
+[ (2x-1)/(x+3) - (5x-3)/(x+3) , = (2x-1-(bb 5bii x-bb 3))/(x+3) ], [\ , = (2x-1-bb 5bii x+bb 3)/(x+3) = (-3x+2)/(x+3) ]
 1/6
 3/8,
 24
@@ -9078,11 +9044,11 @@ x(x+1)(x-1).
 (x-3)
 (x-3)
 (x-3)
-(3x)/(x+2) = (3x('\\y01d499'-'\\y01d7d1'))/((x+2)('\\y01d499'-'\\y01d7d1')) = (3x^2-9x)/(x^2-x-6)
+(3x)/(x+2) = (3x(bii x-bb 3))/((x+2)(bii x-bb 3)) = (3x^2-9x)/(x^2-x-6)
 (2x)/(x-3)
 (x+2)
 (x+2):
-(2x)/(x-3) = (2x('\\y01d499'+'\\y01d7d0'))/((x-3)('\\y01d499'+'\\y01d7d0')) = (2x^2+4x)/(x^2-x-6)
+(2x)/(x-3) = (2x(bii x+bb 2))/((x-3)(bii x+bb 2)) = (2x^2+4x)/(x^2-x-6)
 (3x)/(x+2) - (2x)/(x-3) .
 (x+2)(x-3).
 (3x)/(x+2) = (3x^2-9x)/(x^2-x-6) \ "\and\ "\ (2x)/(x-3) = (2x^2+4x)/(x^2-x-6)
@@ -9091,7 +9057,7 @@ x(x+1)(x-1).
 1+2/a- (a^2+2)/(a^2+a) .
 [a, =a], [a^2+a, =a(a+1)]
 a(a+1).
-[1= (1*'\\y01d482'('\\y01d482'+'\\y01d7cf'))/(1*'\\y01d482'('\\y01d482'+'\\y01d7cf')) , = (a^2+a)/(a(a+1)) ], [2/a= (2*('\\y01d482'+'\\y01d7cf'))/(a*('\\y01d482'+'\\y01d7cf')) , = (2a+2)/(a(a+1)) ], [ (a^2+2)/(a^2+a) , = (a^2+2)/(a(a+1)) ]
+[1= (1*bii a(bii a+bb 1))/(1*bii a(bii a+bb 1)) , = (a^2+a)/(a(a+1)) ], [2/a= (2*(bii a+bb 1))/(a*(bii a+bb 1)) , = (2a+2)/(a(a+1)) ], [ (a^2+2)/(a^2+a) , = (a^2+2)/(a(a+1)) ]
 [1+2/a- (a^2+2)/(a^2+a) , = (a^2+a)/(a(a+1)) + (2a+2)/(a(a+1)) - (a^2+2)/(a(a+1)) ], [\ , = (a^2+a+(2a+2)-(a^2+2))/(a(a+1)) ], [\ , = (3a)/(a(a+1)) ]
 (3\cancel(a))/(\cancel(a)(a+1)) = 3/(a+1)
 (2/3)/(5/6) \ "\and\ "\ (x+3/4)/(x-1/2)
@@ -9103,7 +9069,7 @@ a(a+1).
 4.
 4,
 4.
-('\\y01d7d2'(x+3/4))/('\\y01d7d2'(x-1/2)) = ('\\y01d7d2'(x)+'\\y01d7d2'(3/4))/('\\y01d7d2'(x)-'\\y01d7d2'(1/2)) = (4x+3)/(4x-2)
+(bb 4(x+3/4))/(bb 4(x-1/2)) = (bb 4(x)+bb 4(3/4))/(bb 4(x)-bb 4(1/2)) = (4x+3)/(4x-2)
 (4x+3)/(4x-2) .
 x^(-1)-y^(-1)
 (x^(-2)+y^(-2))^(-1)
@@ -9237,7 +9203,6 @@ a-b^(-1)a-b^(-1)
 (x^(-1)-y)/(x^(-1))
 (a^(-1)+b^(-1))/((ab)^(-1))
 x/(x^(-2)-y^(-2))
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -9337,7 +9302,6 @@ root(10)(2*512).
 12,
 169
 13
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -10744,7 +10708,6 @@ r.
 \
 \
 70%.
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -10805,19 +10768,19 @@ x
 f(x)
 0
 -6
-"since\ "f('\\y01d7ce') = '\\y01d7ce'^2-6 = -6
+"since\ "f(bb 0) = bb 0^2-6 = -6
 1
 -5
-"since\ "f('\\y01d7cf') = '\\y01d7cf'^2-6 = -5
+"since\ "f(bb 1) = bb 1^2-6 = -5
 2
 -2
-"since\ "f('\\y01d7d0') = '\\y01d7d0'^2-6 = -2
+"since\ "f(bb 2) = bb 2^2-6 = -2
 3
 3
-"since\ "f('\\y01d7d1') = '\\y01d7d1'^2-6 = 3
+"since\ "f(bb 3) = bb 3^2-6 = 3
 4
 10
-"since\ "f('\\y01d7d2') = '\\y01d7d2'^2-6 = 10
+"since\ "f(bb 4) = bb 4^2-6 = 10
 f(x)
 (0, -6),
 f(x)
@@ -11169,7 +11132,6 @@ F(x) = |x^3|
 y = x^3?
 G(x) = |1/x|
 y = 1/x?
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -11194,7 +11156,7 @@ Xscl = 1
 x
 1
 x = -3.
-\
+\ \
 3
 Y_2 = ,
 Y_3 = ,
@@ -11229,7 +11191,6 @@ x
 y
 Xscl = 0
 Yscl = 0
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -11797,7 +11758,6 @@ c
 320
 410
 5.9
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -11819,7 +11779,7 @@ w = 225,
 h.
 w
 h.
-[w, =6h, \ , "Substitute 225 for\ "'\\y01d498'.], ['\\y01d7d0''\\y01d7d0''\\y01d7d3', =6h, \ , "Divide both sides by\ "'\\y01d7d4'.], [225/'\\y01d7d4' , = (6h)/'\\y01d7d4' , \ , "Simplify."], [375.5, =h]
+[w, =6h, \ , "Substitute 225 for\ "bii w.], [bb 2bb 2bb 5, =6h, \ , "Divide both sides by\ "bb 6.], [225/bb 6, = (6h)/bb 6, \ , "Simplify."], [375.5, =h]
 37.5
 225.
 38
@@ -11828,19 +11788,19 @@ h.
 2x = 8
 4.
 \ 3x-5 = x+3.
-[3x-5-'\\y01d499', =x+3-'\\y01d499', \ , "Subtract\ "'\\y01d499'"\from both sides."], [2x-5, =3, \ , "Simplify."], [2x-5+'\\y01d7d3', =5+'\\y01d7d3', \ , "Add 5 to both sides."], [2x, =8, \ , "Simplify."], [ (2x)/'\\y01d7d0' , =8/'\\y01d7d0' , \ , "Divide both sides by 2."], [x, =4, \ , "Simplify."]
+[3x-5-bii x, =x+3-bii x, \ , "Subtract\ "bii x"\from both sides."], [2x-5, =3, \ , "Simplify."], [2x-5+bb 5, =5+bb 5, \ , "Add 5 to both sides."], [2x, =8, \ , "Simplify."], [ (2x)/bb 2, =8/bb 2, \ , "Divide both sides by 2."], [x, =4, \ , "Simplify."]
 4.
 4
 \ 3(2x-5)-4x = 2x-(6-3x).
 [3(2x-5)-4x, =2x-(6-3x), \ , "Apply the distributive law."], [6x-15-4x, =2x-6+3x, \ , "Combine like terms on each side."], [2x-15, =5x-6]
-[2x-15-'\\y01d7d3''\\y01d499'+'\\y01d7cf''\\y01d7d3', =5x-6-'\\y01d7d3''\\y01d499'+'\\y01d7cf''\\y01d7d3', \ , "Add\ "-'\\y01d7d3''\\y01d499'+'\\y01d7cf''\\y01d7d3'"\to both sides."], [-3x, =9]
-[-3x, =9, \ , "Divide both sides by\ "-'\\y01d7d1'.], [x, =-3]
+[2x-15-bb 5bii x+bb 1bb 5, =5x-6-bb 5bii x+bb 1bb 5, \ , "Add\ "-bb 5bii x+bb 1bb 5"\to both sides."], [-3x, =9]
+[-3x, =9, \ , "Divide both sides by\ "-bb 3.], [x, =-3]
 -3.
 P = 2l+2w
 l
 P
 w.
-[2l+2w, =P, \ , "Subtact\ "'\\y01d7d0''\\y01d498'"\from both sides."], [2l, =P-2w, \ , "Divide both sides by 2."], [l, = (P-2w)/2]
+[2l+2w, =P, \ , "Subtact\ "bb 2bii w"\from both sides."], [2l, =P-2w, \ , "Divide both sides by 2."], [l, = (P-2w)/2]
 \ 5F = 9C+160\
 F,
 C.
@@ -11855,7 +11815,7 @@ F
 y
 x.
 y
-[3x-5y, =40, \ , "Subtract\ "'\\y01d7d1''\\y01d499'"\from both sides."], [-5y, =40-3x, \ , "Divide both sides by\ "-'\\y01d7d3'.], [ (-5y)/(-5) , = (40-3x)/(-5) , \ , "Simplify both sides."], [y, =-8+3/5 x]
+[3x-5y, =40, \ , "Subtract\ "bb 3bii x"\from both sides."], [-5y, =40-3x, \ , "Divide both sides by\ "-bb 5.], [ (-5y)/(-5) , = (40-3x)/(-5) , \ , "Simplify both sides."], [y, =-8+3/5 x]
 >
 a > b
 [\ , >, \ , "is greater than"], [\ , <, \ , "is less than"], [\ , >=, \ , "is greater than or equal to"], [\ , <=, \ , "is less than or equal to"]
@@ -11865,15 +11825,15 @@ a > b
 <=
 2 < 5
 -3,
-[-'\\y01d7d1'(2), >-'\\y01d7d1'(5), \ , "Change inequality symbol from\ "<"\to\ ">.], [-6, >-15]
+[-bb 3(2), >-bb 3(5), \ , "Change inequality symbol from\ "<"\to\ ">.], [-6, >-15]
 \ 4-3x >= -17.
 x
-[4-3x, >=-17, \ , "Subtract 4 from both sides."], [-3x, >=-21, \ , "Divide both sides by\ "-'\\y01d7d1'.], [x, <=7]
+[4-3x, >=-17, \ , "Subtract 4 from both sides."], [-3x, >=-21, \ , "Divide both sides by\ "-bb 3.], [x, <=7]
 -3.
 7
 \ 4 <= 3x+10 <= 16.
 x
-[4, <=3x, +, 10, <=16, "Subtract\ "'\\y01d7cf''\\y01d7ce'.], [-6, <=, 3x, \ , <=6, "Divide by\ "'\\y01d7d1'.], [-2, <=, x, \ , <=2, \ ]
+[4, <=3x, +, 10, <=16, "Subtract\ "bb 1bb 0.], [-6, <=, 3x, \ , <=6, "Divide by\ "bb 3.], [-2, <=, x, \ , <=2, \ ]
 -2
 2,
 a
@@ -11958,7 +11918,6 @@ x < -3\ "\or\ "\ x >= -1
 x >= 3\ "\or\ "\ x <= -3
 -6 <= x < -4\ "\or\ "\ -2 < x <= 0
 x < 2\ "\or\ "\ 2 < x < 3
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -12229,7 +12188,6 @@ f(2) = 17, 464, \ f(5) = 16.690
 500,000
 25
 2
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -12344,7 +12302,7 @@ x = -1
 x = 5.
 -1
 5.
-[x, =-'\\y01d7cf'":\ "\ |3(-'\\y01d7cf')-6|=|-9|=9], [x, ='\\y01d7d3'":\ "\ |3('\\y01d7d3')-6|=|9|=9]
+[x, =-bb 1":\ "\ |3(-bb 1)-6|=|-9|=9], [x, =bb 5":\ "\ |3(bb 5)-6|=|9|=9]
 y = |3x-6|
 y = -2,
 |3x-6| = -2
@@ -12708,7 +12666,6 @@ x = 16
 2
 8
 12
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -12772,7 +12729,6 @@ ab = 0
 a = 0
 b = 0.
 [|a+b|<=|a|+|b|, \ , "Triangle inequality"], [|ab|=|a||b|, \ , "Multiplicative property\ "]
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -12786,7 +12742,6 @@ x
 3 xx 3
 3 xx 3
 root(n)(x^n)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -12968,7 +12923,6 @@ k = 0.
 \ sum_(k=0)^(10)\ _(10)Cr .
 (a+b)^n.
 \ sum_(k=0)^(12)\ _(12)Cr .
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -13231,7 +13185,6 @@ S.
 100
 r/n = ?
 nt = ?
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -13250,9 +13203,9 @@ x^2+10x+16
 (x+a)(x+b) = x^2+(a+b)x+ab
 a
 b,
-(x+a)(x+b) = x^2+('\\y01d482'+'\\y01d483')x+'\\y01d482''\\y01d483' = x^2+'\\y01d7cf''\\y01d7ce'x+'\\y01d7cf''\\y01d7d4'
-'\\y01d482'+'\\y01d483' = '\\y01d7cf''\\y01d7ce'
-'\\y01d482''\\y01d483' = '\\y01d7cf''\\y01d7d4'.
+(x+a)(x+b) = x^2+(bii a+bii b)x+bii abii b = x^2+bb 1bb 0x+bb 1bb 6
+bii a+bii b = bb 1bb 0
+bii abii b = bb 1bb 6.
 10,
 16.
 16:
@@ -13437,7 +13390,6 @@ x^2 y^2-64
 64x^2 y^2-1
 (x+2)^2-y^2
 x^2-(y-3)^2
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -13454,12 +13406,12 @@ root(n)(x^n)
 C
 t
 C = 800+30t\ (t >= 0)
-t = '\\y01d7ce',
-C = 800+30('\\y01d7ce') = 800
-t = '\\y01d7d2',
-C = 800+30('\\y01d7d2') = 920
-t = '\\y01d7cf''\\y01d7ce',
-C = 800+30('\\y01d7cf''\\y01d7ce') = 1100
+t = bb 0,
+C = 800+30(bb 0) = 800
+t = bb 4,
+C = 800+30(bb 4) = 920
+t = bb 1bb 0,
+C = 800+30(bb 1bb 0) = 1100
 t
 C
 t.
@@ -13508,12 +13460,12 @@ w
 p
 p
 w.
-'\\y01d7d3''\\y01d7cf'
-'\\y01d7d0''\\y01d7ce''\\y01d7d7'
-'\\y01d7d3''\\y01d7cf'
-'\\y01d7d0''\\y01d7cf''\\y01d7d4'
-'\\y01d7d3''\\y01d7cf'
-'\\y01d7d0''\\y01d7d0''\\y01d7d5'
+bb 5bb 1
+bb 2bb 0bb 9
+bb 5bb 1
+bb 2bb 1bb 6
+bb 5bb 1
+bb 2bb 2bb 7
 y
 x.
 x
@@ -13615,10 +13567,10 @@ d = 0.
 d ~~ 15.
 t
 h = 1776-16t^2
-'\\y01d7cf'
-h = 1776-16('\\y01d7cf')^2 = 1760"\feet"
-'\\y01d7d0'
-h = 1776-16('\\y01d7d0')^2 = 1712"\feet"
+bb 1
+h = 1776-16(bb 1)^2 = 1760"\feet"
+bb 2
+h = 1776-16(bb 2)^2 = 1712"\feet"
 t
 h
 t,
@@ -13764,9 +13716,9 @@ H
 H = f(s) = (sqrt(s+3))/s.
 s = 6
 s = -1
-f('\\y01d7d4') = (sqrt('\\y01d7d4'+3))/'\\y01d7d4' = (sqrt(9))/6 = 3/6 = 1/2.
+f(bb 6) = (sqrt(bb 6+3))/bb 6 = (sqrt(9))/6 = 3/6 = 1/2.
 f(6) = 1/2.
-f(-'\\y01d7cf') = (sqrt(-'\\y01d7cf'+3))/(-'\\y01d7cf') = (sqrt(2))/(-1) = -sqrt(2).
+f(-bb 1) = (sqrt(-bb 1+3))/(-bb 1) = (sqrt(2))/(-1) = -sqrt(2).
 f(-1) = -sqrt(2).
 f(x) = 5-x^3.
 f(x)
@@ -13774,13 +13726,13 @@ x.
 x
 f(x)
 -2
-f(-'\\y01d7d0') = 5-(-'\\y01d7d0')^3 = \
+f(-bb 2) = 5-(-bb 2)^3 = \
 0
-f('\\y01d7ce') = 5-'\\y01d7ce'^3 =
+f(bb 0) = 5-bb 0^3 =
 1
-f('\\y01d7cf') = 5-'\\y01d7cf'^3 =
+f(bb 1) = 5-bb 1^3 =
 3
-f('\\y01d7d1') = 5-'\\y01d7d1'^3 =
+f(bb 3) = 5-bb 3^3 =
 13
 5
 4
@@ -13813,9 +13765,9 @@ x,
 C(x) = 3000+20x
 C(x)
 C
-x = '\\y01d7d3''\\y01d7ce''\\y01d7ce',
+x = bb 5bb 0bb 0,
 C(500).
-C('\\y01d7d3''\\y01d7ce''\\y01d7ce') = 3000+20('\\y01d7d3''\\y01d7ce''\\y01d7ce') = 13,000
+C(bb 5bb 0bb 0) = 3000+20(bb 5bb 0bb 0) = 13,000
 r
 V = V(r) = 4/3 pi r^3
 V(10)
@@ -13833,7 +13785,7 @@ b
 b+0.5b,
 1.5b
 1.5b
-C('\\y01d7cf'.'\\y01d7d3''\\y01d483') = 3000+20('\\y01d7cf'.'\\y01d7d3''\\y01d483') = 3000+30b
+C(bb 1.bb 5bii b) = 3000+20(bb 1.bb 5bii b) = 3000+30b
 h
 V(10)+h = 4/3 pi(10^3)+h
 V(10)+h = 4/3 pi(10^(3+h))
@@ -13850,8 +13802,8 @@ V(12)
 f(x) = 4x^2-x+5
 x = 2h
 x = a+3
-[f('\\y01d7d0''\\y01d489'), =4('\\y01d7d0''\\y01d489')^2-('\\y01d7d0''\\y01d489')+5], [\ , =4(4h^2)-2h+5], [\ , =16h^2-2h+5]
-[f('\\y01d482'+'\\y01d7d1'), =4('\\y01d482'+'\\y01d7d1')^2-('\\y01d482'+'\\y01d7d1')+5], [\ , =4(a^2+6a+9)-a-3+5], [\ , =4a^2+24a+36-a+2], [\ , =4a^2+23a+38]
+[f(bb 2bii h), =4(bb 2bii h)^2-(bb 2bii h)+5], [\ , =4(4h^2)-2h+5], [\ , =16h^2-2h+5]
+[f(bii a+bb 3), =4(bii a+bb 3)^2-(bii a+bb 3)+5], [\ , =4(a^2+6a+9)-a-3+5], [\ , =4a^2+24a+36-a+2], [\ , =4a^2+23a+38]
 f(2h) != 2f(h)
 f(a+3) != f(a)+f(3)
 f(a)+f(3),
@@ -14497,7 +14449,6 @@ f(x) = x^2-1/x = 9000,
 0.05.
 f(x) = 8/x+500- (x^2)/9 = 300,
 0.05.
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -15070,7 +15021,6 @@ f(x) = x^2
 f(x) = 1/x
 f(x) = sqrt(x)
 f(x) = |x|
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -15136,7 +15086,7 @@ BMI = wh^(-2) = w/(h^2) ,
 25 = 319h^(-2).
 h
 h^2.
-[25, =319/(h^2) , \ , "Multiply both sides by\ "'\\y01d489'^'\\y01d7d0' .], [25h^2, =319, \ , "Divide both sides by\ "'\\y01d7d0''\\y01d7d3'.], [h^2, =12.76, \ , "Extract square roots."], [h, ~~3.57]
+[25, =319/(h^2) , \ , "Multiply both sides by\ "bii h^bb 2.], [25h^2, =319, \ , "Divide both sides by\ "bb 2bb 5.], [h^2, =12.76, \ , "Extract square roots."], [h, ~~3.57]
 25,
 3.57
 11
@@ -15192,15 +15142,15 @@ m = k/(d^2) .
 m = kd^(-2).
 m = 20
 d = 250
-[20, =k(250)^(-2), \ , "Multiply both sides by\ "'\\y01d7d0''\\y01d7d3''\\y01d7ce'^'\\y01d7d0' .], [1,250,000, =k]
+[20, =k(250)^(-2), \ , "Multiply both sides by\ "bb 2bb 5bb 0^bb 2.], [1,250,000, =k]
 m = 1,250,000d^(-2).
 m,
-d = '\\y01d7cf''\\y01d7d6''\\y01d7ce'
-[m, =1,250,000('\\y01d7cf''\\y01d7d6''\\y01d7ce')^(-2)], [\ , =1,250,000/32,400], [\ , ~~38.58]
+d = bb 1bb 8bb 0
+[m, =1,250,000(bb 1bb 8bb 0)^(-2)], [\ , =1,250,000/32,400], [\ , ~~38.58]
 38.6
-m = '\\y01d7cf''\\y01d7ce''\\y01d7ce'
+m = bb 1bb 0bb 0
 d.
-['\\y01d7cf''\\y01d7ce''\\y01d7ce', =1,250,000d^(-2), \ , "Multiply by\ "'\\y01d485'^'\\y01d7d0' .], [100d^2, =1,250,000, \ , "Divide by\ "'\\y01d7cf''\\y01d7ce''\\y01d7ce'.], [d^2, =12,500, \ , "Take sqwuare roots."], [d, =+-sqrt(12,500)]
+[bb 1bb 0bb 0, =1,250,000d^(-2), \ , "Multiply by\ "bii d^bb 2.], [100d^2, =1,250,000, \ , "Divide by\ "bb 1bb 0bb 0.], [d^2, =12,500, \ , "Take sqwuare roots."], [d, =+-sqrt(12,500)]
 sqrt(12,500) ~~ 111.8
 m = k/(d^2)
 m
@@ -15589,7 +15539,6 @@ a^(-2)a^(-3) = a^(-5)
 (a^(-6))/(a^(-2)) = a^(-4)
 (a^(-2))/(a^(-6)) = a^4
 (a^(-2))^(-3) = a^6
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -15703,7 +15652,6 @@ C = 10x-8y
 56
 12
 16
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -15760,7 +15708,7 @@ x.
 x
 ["Revenue", =("price of one item")("number of items sold")], [R, =x(600-15x)], [R, =600x-15x^2]
 R
-[x_v, = (-b)/(2a) = (-600)/(2(-15)) =20], [y_v, =600('\\y01d7d0''\\y01d7ce')-15('\\y01d7d0''\\y01d7ce')^2=6000]
+[x_v, = (-b)/(2a) = (-600)/(2(-15)) =20], [y_v, =600(bb 2bb 0)-15(bb 2bb 0)^2=6000]
 x = 20,
 R = 6000.
 20
@@ -15789,7 +15737,7 @@ y = 2(x-3)^2-8
 [y, =2(x^2-6x+9)-8], [y, =2x^2-12x+10]
 [x_v, = (-(-12))/(2(2)) =3], [y_v, =2(3)^2-12(3)+10=-8]
 (3, -8),
-[y=2(x-, '\\y01d7d1')^2\ , -'\\y01d7d6'], [\ , '\\y01d499'_'\\y01d497' , '\\y01d49a'_'\\y01d497' ]
+[y=2(x-, bb 3)^2\ , -bb 8], [\ , bii x_bii v, bii y_bii v]
 y = ax^2+bx+c,
 a != 0,
 y = a(x-x_v)^2+y_v
@@ -15797,9 +15745,9 @@ y = a(x-x_v)^2+y_v
 y = -3(x-4)^2+6.
 (4, 6).
 a = -3 < 0,
-x_v = '\\y01d7d2'
+x_v = bb 4
 y = -3(x-4)^2+6
-y = -3('\\y01d7d2'-4)^2+6 = 6
+y = -3(bb 4-4)^2+6 = 6
 x = 4,
 y = 6.
 x
@@ -15833,7 +15781,7 @@ p = 1/2(-2) = -1, \ and\ p^2 = (-1)^2 = 1.
 1
 3(1)
 3
-y = 3(x^2-2x+'\\y01d7cf')-1-'\\y01d7d1'
+y = 3(x^2-2x+bb 1)-1-bb 3
 y = 3(x-1)^2-4
 (1, -4).
 y = 2x^2+12x+13
@@ -15854,12 +15802,12 @@ f(x)
 y = x^2.
 x.
 x,
-y = (x-'\\y01d7d2')^2
+y = (x-bb 4)^2
 "Shift 4 units right."
-y = -'\\y01d7d1'(x-4)^2
+y = -bb 3(x-4)^2
 "Stretch by a factor of 3,"
-"and reflect about the\ "'\\y01d499'"-axis."
-y = -3(x-4)^2+'\\y01d7d4'
+"and reflect about the\ "bii x"-axis."
+y = -3(x-4)^2+bb 6
 "Shift up 6 units."
 y = x^2,
 y = x^2
@@ -15892,7 +15840,7 @@ x
 [y, =0.15x^2+0.75x+180], [y, =15x]
 y
 x:
-[0.15x^2+0.75x+180, =15x, \ , "Subtract\ "'\\y01d7cf''\\y01d7d3''\\y01d499'"\from both sides."], [0.15x^2-14.25x+180, =0, \ , "Use the quadratic formula."]
+[0.15x^2+0.75x+180, =15x, \ , "Subtract\ "bb 1bb 5bii x"\from both sides."], [0.15x^2-14.25x+180, =0, \ , "Use the quadratic formula."]
 [x, = (14.25+-sqrt(14.25^2-4(0.15)(180)))/(2(-0.05)) , \ , "Simplify."], [\ , = (14.25+-9.75)/0.3]
 15
 80,
@@ -15915,7 +15863,7 @@ x
 f(x) = 2(x-3)^2-4.
 y = 1/3(x+5)^2-2,
 g(x) = 2x^2-6x+1
-g(x) = (2x^2-6x+'\\y01d7d7')+1-'\\y01d7d7'.
+g(x) = (2x^2-6x+bb 9)+1-bb 9.
 y = x^2+4, y = 2-3x^2.
 60
 0
@@ -16142,7 +16090,6 @@ y = a(x-h)^2+k.
 h?
 k?
 g(x) = ax^2+bx+c?
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -16157,7 +16104,7 @@ x
 3 xx 3
 root(n)(x^n)
 e,
-'\\y01d486' ~~ '\\y01d7d0'.'\\y01d7d5''\\y01d7cf''\\y01d7d6''\\y01d7d0''\\y01d7d6''\\y01d7cf''\\y01d7d6''\\y01d7d0''\\y01d7d6''\\y01d7d2''\\y01d7d3'
+bii e ~~ bb 2.bb 7bb 1bb 8bb 2bb 8bb 1bb 8bb 2bb 8bb 4bb 5
 e
 f(x) = e^x.
 e^x
@@ -16240,8 +16187,8 @@ x.
 10,
 ln 10,
 e^y = 10
-e^('\\y01d7d0'.'\\y01d7d1')\ ~~ 10"\or\ "\ ln 10 ~~ '\\y01d7d0'.'\\y01d7d1'
-'\\y01d49a' = ln'\\y01d499'\ "\if and only if\ "\ '\\y01d486'^'\\y01d49a' = '\\y01d499'
+e^(bb 2.bb 3)\ ~~ 10"\or\ "\ ln 10 ~~ bb 2.bb 3
+bii y = ln bii x\ "\if and only if\ "\ bii e^bii y = bii x
 e^x = k
 e^k = x
 ln e = x
@@ -16350,7 +16297,7 @@ t.
 1+be^(-kt),
 P(1+be^(-kt)) = a
 e^(-kt),
-[1+be^(-kt), =a/P, \ , "Subtract 1 from both sides."], [be^(-kt), =a/P-1, \ , "Rewrite the right side.\ "], [be^(-kt), = (a-P)/P, \ , "Divide both sides by\ "'\\y01d483'.], [e^(-kt), = (a-P)/(bP) ]
+[1+be^(-kt), =a/P, \ , "Subtract 1 from both sides."], [be^(-kt), =a/P-1, \ , "Rewrite the right side.\ "], [be^(-kt), = (a-P)/P, \ , "Divide both sides by\ "bii b.], [e^(-kt), = (a-P)/(bP) ]
 ln e^(-kt) = ln(a-P)/(bP)
 ln e^x = x
 -kt = ln(a-P)/(bP)
@@ -16360,9 +16307,9 @@ t = (-1)/k ln(a-P)/(bP)
 N = Ae^(-kt)
 k.
 k =
-"Divide both sides by"\ '\\y01d468'.
+"Divide both sides by"\ bii A.
 "Take the natural log of both sides."
-"Divide both sides by"\ -'\\y01d495'.
+"Divide both sides by"\ -bii t.
 (-ln(N/A))/t
 k = (-ln(N//A))/t
 100e^(0.6t) = 40
@@ -16370,7 +16317,7 @@ e^(0.6t).
 P(t) = P_0*b^t
 b > 1
 0 < b < 1.
-'\\y01d477'('\\y01d495') = '\\y01d477'_'\\y01d7ce' *'\\y01d486'^('\\y01d48c''\\y01d495')
+bii P(bii t) = bii P_bb 0*bii e^(bii kbii t)
 e^k
 b,
 [P(t), =P_0*b^t], [\ , =P_0*(e^k)^t=P_0*e^(kt)]
@@ -16378,8 +16325,8 @@ k
 b = e^k
 k,
 k = ln b.
-P(t) = 100*'\\y01d7d1'^'\\y01d495'
-P(t) = 100*'\\y01d486'^('\\y01d48c''\\y01d495')
+P(t) = 100*bb 3^bii t
+P(t) = 100*bii e^(bii kbii t)
 3 = e^k\ "\or\ "\ k = ln 3 ~~ 1.0986
 P(t) ~~ 100*e^(1.0986t)
 P(t) = 100*3t\ and\ P(t) = 100*e^(1.0986t)
@@ -16415,7 +16362,7 @@ k = -2,
 e^(-2) = 1/(e^2) ~~ 1/7.3891 ~~ 0.1353
 k,
 P(t) = P_0 e^(kt)
-'\\y01d477'('\\y01d495') = '\\y01d477'_'\\y01d7ce' '\\y01d486'^('\\y01d48c''\\y01d495')
+bii P(bii t) = bii P_bb 0 bii e^(bii kbii t)
 k > 0,
 k < 0.
 e^0
@@ -16485,7 +16432,7 @@ t = (ln(0.4))/(-0.07) ~~ 13.09
 P(t) = P_0 b^t
 t
 r
-'\\y01d468'('\\y01d495') = '\\y01d477''\\y01d486'^('\\y01d493''\\y01d495')
+bii A(bii t) = bii Pbii e^(bii rbii t)
 P
 500
 8%
@@ -16533,13 +16480,13 @@ e,
 e ~~ 2.71828182845
 f(x) = e^x.
 g(x) = ln x = log_e x.
-'\\y01d49a' = ln'\\y01d499'\ "\if and only if\ "\ '\\y01d486'^'\\y01d49a' = '\\y01d499'
+bii y = ln bii x\ "\if and only if\ "\ bii e^bii y = bii x
 x, y > 0,
 ln(xy) = ln x+ln y
 ln x/y = ln x-ln y
 ln x^k = kln x
 e.
-'\\y01d477'('\\y01d495') = '\\y01d477'_'\\y01d7ce' '\\y01d486'^('\\y01d48c''\\y01d495')
+bii P(bii t) = bii P_bb 0 bii e^(bii kbii t)
 k > 0,
 k < 0.
 t
@@ -16892,7 +16839,6 @@ G(t) = G_0 e^(kt).
 4
 3
 G(t) = G_0 e^(kt).
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -16986,7 +16932,6 @@ x.
 3.26"\E"
 -18
 2
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -17048,7 +16993,6 @@ Delta
 20
 4
 x
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -17084,7 +17028,7 @@ root(3)(108) = 3root(3)(4)
 108.
 root(3)(12) = x^(12//3) = x^4
 (x^4)^3 = x^(12).
-[root(3)(x^(11)), =root(3)(x^9*x^2), \ , "Apply Property(1)."], [\ , =root(3)(x^9)*root(3)(x^2), \ , "Simplify\ "root('\\y01d7d1')('\\y01d499'^'\\y01d7d7' )='\\y01d499'^('\\y01d7d7'//'\\y01d7d1').], [\ , =x^3 root(3)(x^2)]
+[root(3)(x^(11)), =root(3)(x^9*x^2), \ , "Apply Property(1)."], [\ , =root(3)(x^9)*root(3)(x^2), \ , "Simplify\ "root(bb 3)(bii x^bb 9)=bii x^(bb 9//bb 3).], [\ , =x^3 root(3)(x^2)]
 sqrt(18x^5)
 root(3)(24x^6 y^8)
 2,
@@ -17121,17 +17065,17 @@ sqrt(2)sqrt(18)sqrt(36) = 6\ "\and\ "\ root(3)(2x)root(3)(4x^2) = root(3)(8x^3) 
 [(sqrt(x)-sqrt(y))(sqrt(x)+sqrt(y)), =sqrt(x^2)+sqrt(xy)-sqrt(xy)-sqrt(y^2)], [\ , =x-y]
 sqrt(1/3)
 (sqrt(2))/(sqrt(50x))
-[sqrt(1/3), = (sqrt(1))/(sqrt(3)) ], [\ , =1/(sqrt(3)) , \ , "Multiply numerator and denominator by\ "sqrt('\\y01d7d1').], [\ , = (1*sqrt('\\y01d7d1'))/(sqrt(3)*sqrt('\\y01d7d1')) ], [\ , = (sqrt(3))/3]
-[ (sqrt(2))/(sqrt(50x)) , = (sqrt(2))/(5sqrt(2x)) , \ , "Multiply numerator and denominator by\ "sqrt('\\y01d7d0''\\y01d499').], [\ , = (sqrt(2)*sqrt('\\y01d7d0''\\y01d499'))/(5sqrt(2x)*sqrt('\\y01d7d0''\\y01d499')) , \ , "Simplify."], [\ , = (sqrt(4x))/(5(2x)) ], [\ , = (2sqrt(x))/(10x) = (sqrt(x))/(5x) ]
+[sqrt(1/3), = (sqrt(1))/(sqrt(3)) ], [\ , =1/(sqrt(3)) , \ , "Multiply numerator and denominator by\ "sqrt(bb 3).], [\ , = (1*sqrt(bb 3))/(sqrt(3)*sqrt(bb 3)) ], [\ , = (sqrt(3))/3]
+[ (sqrt(2))/(sqrt(50x)) , = (sqrt(2))/(5sqrt(2x)) , \ , "Multiply numerator and denominator by\ "sqrt(bb 2bii x).], [\ , = (sqrt(2)*sqrt(bb 2bii x))/(5sqrt(2x)*sqrt(bb 2bii x)) , \ , "Simplify."], [\ , = (sqrt(4x))/(5(2x)) ], [\ , = (2sqrt(x))/(10x) = (sqrt(x))/(5x) ]
 (p-q)(p+q) = p^2-q^2
 p-q
 p+q
 a/(b+sqrt(c))
-(a('\\y01d483'-sqrt('\\y01d484')))/((b+sqrt(c))('\\y01d483'-sqrt('\\y01d484'))) = (ab-asqrt(c))/(b^2-(sqrt(c))^2) = (ab-asqrt(c))/(b^2-c)
+(a(bii b-sqrt(bii c)))/((b+sqrt(c))(bii b-sqrt(bii c))) = (ab-asqrt(c))/(b^2-(sqrt(c))^2) = (ab-asqrt(c))/(b^2-c)
 a/(sqrt(b)+c) \ "\and\ "\ a/(sqrt(b)+sqrt(c))
 x/(sqrt(2)+sqrt(x)) .
 sqrt(2)-sqrt(x).
-(x(sqrt('\\y01d7d0')-sqrt('\\y01d499')))/((sqrt(2)+sqrt(x))(sqrt('\\y01d7d0')-sqrt('\\y01d499'))) = (x(sqrt(2)-sqrt(x)))/(2-x)
+(x(sqrt(bb 2)-sqrt(bii x)))/((sqrt(2)+sqrt(x))(sqrt(bb 2)-sqrt(bii x))) = (x(sqrt(2)-sqrt(x)))/(2-x)
 root(n)(x^n)
 (root(n)(a))^n = a
 root(n)(a)
@@ -17155,17 +17099,17 @@ sqrt(16x^2) = 4|x|
 sqrt((x-1)^2) = |x-1|
 sqrt(x) = -5
 sqrt(x)
-[(sqrt(x))^'\\y01d7d0' , =(-5)^'\\y01d7d0' ], [x, =25]
+[(sqrt(x))^bb 2, =(-5)^bb 2], [x, =25]
 25
 sqrt(x) = -5,
 sqrt(25)
 -5.
 sqrt(x+2)+4 = x.
-[sqrt(x+2), =x-4, \ , "Square both sides of the equation."], [(sqrt(x+2))^'\\y01d7d0' , =(x-4)^'\\y01d7d0' ], [x+2, =x^2-8x+16, \ , "Subtract\ "'\\y01d499'+'\\y01d7d0'"\from both sides."], [x^2-9x+14, =0, \ , "Factor the left side."], [x=2, or x=7]
-sqrt('\\y01d7d0'+2)+4 = '\\y01d7d0'?
-"No;\ "'\\y01d7d0'"\is not a solution."
-sqrt('\\y01d7d5'+2)+4 = '\\y01d7d5'?
-"Yes;\ "'\\y01d7d5'"\is a solution."
+[sqrt(x+2), =x-4, \ , "Square both sides of the equation."], [(sqrt(x+2))^bb 2, =(x-4)^bb 2], [x+2, =x^2-8x+16, \ , "Subtract\ "bii x+bb 2"\from both sides."], [x^2-9x+14, =0, \ , "Factor the left side."], [x=2, or x=7]
+sqrt(bb 2+2)+4 = bb 2?
+"No;\ "bb 2"\is not a solution."
+sqrt(bb 7+2)+4 = bb 7?
+"Yes;\ "bb 7"\is a solution."
 2
 7.
 y_1 = sqrt(x+2)\ "\and\ "\ y_2 = x-4
@@ -17178,11 +17122,11 @@ x = 7.
 sqrt(x)
 sqrt(x-7) = 7-sqrt(x)
 7-sqrt(x).
-[(sqrt(x-7))^'\\y01d7d0' , =(7-sqrt(x))^'\\y01d7d0' ], [x-7, =49-14sqrt(x)+x]
-[-56, =-14sqrt(x), \ , "Divide both sides by\ "-'\\y01d7cf''\\y01d7d2'.], [4, =sqrt(x)]
-[(4)^'\\y01d7d0' , =(sqrt(x))^'\\y01d7d0' ], [16, =x]
-sqrt('\\y01d7cf''\\y01d7d4'-7)+sqrt('\\y01d7cf''\\y01d7d4') = 7?
-"Yes.The solution is\ "'\\y01d7cf''\\y01d7d4'.
+[(sqrt(x-7))^bb 2, =(7-sqrt(x))^bb 2], [x-7, =49-14sqrt(x)+x]
+[-56, =-14sqrt(x), \ , "Divide both sides by\ "-bb 1bb 4.], [4, =sqrt(x)]
+[(4)^bb 2, =(sqrt(x))^bb 2], [16, =x]
+sqrt(bb 1bb 6-7)+sqrt(bb 1bb 6) = 7?
+"Yes.The solution is\ "bb 1bb 6.
 (sqrt(x-7))^2+(sqrt(x))^2 = 7^2
 root(n)(a^n):
 sqrt(18)
@@ -17295,7 +17239,6 @@ sqrt(y+7)+sqrt(y+4) = 3
 (1/4)/( (sqrt(5))/(2sqrt(2)) - (sqrt(3))/(2sqrt(2)) )
 ( (sqrt(3))/2+1/(sqrt(2)) )/(1- (sqrt(3))/2*1/(sqrt(2)) )
 (1/(sqrt(3)) - (sqrt(5))/3)/(1+1/(sqrt(3)) * (sqrt(5))/3)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -17708,8 +17651,8 @@ f^(-1)(H) = (H-6)/2
 f
 f^(-1)
 f,
-t = '\\y01d7d3'
-[f('\\y01d7d3'), =6+2('\\y01d7d3')='\\y01d7cf''\\y01d7d4', \ , "\Multiply by 2, then add 6."], ["and\ "f^(-1)('\\y01d7cf''\\y01d7d4'), = ('\\y01d7cf''\\y01d7d4'-6)/2='\\y01d7d3', \ , "Subtract 6, then divide by 2."]
+t = bb 5
+[f(bb 5), =6+2(bb 5)=bb 1bb 6, \ , "\Multiply by 2, then add 6."], ["and\ "f^(-1)(bb 1bb 6), = (bb 1bb 6-6)/2=bb 5, \ , "Subtract 6, then divide by 2."]
 5,
 "C) interchanges...and output."
 f^(-1)
@@ -17724,17 +17667,17 @@ f
 y = -25.
 f
 x = 2:
-f('\\y01d7d0') = '\\y01d7d0'^3+2 = '\\y01d7cf''\\y01d7ce'
+f(bb 2) = bb 2^3+2 = bb 1bb 0
 f^(-1)
 y = 10:
-f^(-1)('\\y01d7cf''\\y01d7ce') = root(3)('\\y01d7cf''\\y01d7ce'-2) = root(3)(8) = '\\y01d7d0'
+f^(-1)(bb 1bb 0) = root(3)(bb 1bb 0-2) = root(3)(8) = bb 2
 2.
 f^(-1)
 y = -25:
-f^(-1)(-'\\y01d7d0''\\y01d7d3') = root(3)(-'\\y01d7d0''\\y01d7d3'-2) = -'\\y01d7d1'
+f^(-1)(-bb 2bb 5) = root(3)(-bb 2bb 5-2) = -bb 3
 f
 x = -3:
-f(-'\\y01d7d1') = (-'\\y01d7d1')^3+2 = -'\\y01d7d0''\\y01d7d3'
+f(-bb 3) = (-bb 3)^3+2 = -bb 2bb 5
 -25.
 f(x) = 2/(x-1)
 y
@@ -18045,7 +17988,6 @@ f^(-1)
 -f
 1/f
 f^(-1)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -18068,9 +18010,9 @@ root(n)(x^n)
 2 xx 2
 (b, d),
 (4, 6),
-b = '\\y01d7d2'
-d = '\\y01d7d4'
-[3('\\y01d7d2')+6('\\y01d7d4'), overset(?)(=)48, \ , "True"], [5('\\y01d7d2')+2('\\y01d7d4'), overset(?)(=)32, \ , "True"]
+b = bb 4
+d = bb 6
+[3(bb 4)+6(bb 6), overset(?)(=)48, \ , "True"], [5(bb 4)+2(bb 6), overset(?)(=)32, \ , "True"]
 4
 6
 x
@@ -18081,9 +18023,9 @@ y
 (-2, -3).
 x = -2,
 y = -3.
-x = -'\\y01d7d0'
-y = -'\\y01d7d1'.
-[-'\\y01d7d1', =1.7(-'\\y01d7d0')+0.4, \ , "True"], [-'\\y01d7d1', =4.2(-'\\y01d7d0')+5.2, \ , "True"]
+x = -bb 2
+y = -bb 3.
+[-bb 3, =1.7(-bb 2)+0.4, \ , "True"], [-bb 3, =4.2(-bb 2)+5.2, \ , "True"]
 "C) Show...equations true."
 [y, =-0.7x+6.9], [y, =1.2x-6.4]
 ["Xmin", =-9.4, \ , "Xmax"=9.4], ["Ymin", =-10, \ , "Ymax"=10]
@@ -18100,7 +18042,7 @@ y
 y
 x = 4.36,
 y = -2.85.
-[3('\\y01d7d2'.'\\y01d7d1''\\y01d7d4')-2.8(-'\\y01d7d0'.'\\y01d7d6''\\y01d7d3'), =21.06], [2('\\y01d7d2'.'\\y01d7d1''\\y01d7d4')+1.2(-'\\y01d7d0'.'\\y01d7d6''\\y01d7d3'), =5.3]
+[3(bb 4.bb 3bb 6)-2.8(-bb 2.bb 8bb 5), =21.06], [2(bb 4.bb 3bb 6)+1.2(-bb 2.bb 8bb 5), =5.3]
 [y=47x-1930], [y+19x=710]
 ["Xmin", =0, \ , "Xmax"=94], ["Ymin", =-2000, \ , "Ymax"=1000]
 (40, -50)
@@ -18180,7 +18122,7 @@ x-y = 120
 2 xx 2
 [y=-x+5], [2x+2y=3]
 y.
-[2x+2y, =3, \ , "Substract\ "'\\y01d7d0''\\y01d499'"\from both sides."], [2y, =-2x+3, \ , "Divide both sides by 2."], [y, =-x+1.5]
+[2x+2y, =3, \ , "Substract\ "bb 2bii x"\from both sides."], [2y, =-2x+3, \ , "Divide both sides by 2."], [y, =-x+1.5]
 [Y_1, =-X+5], [Y_2, =-X+1.5]
 -1
 y
@@ -18193,8 +18135,8 @@ y
 2 xx 2
 y
 [x=2/3 y+3], [3x-2y=9]
-[x, =2/3 y+3, \ , "Subtract 3."], [x-3, =2/3 y, \ , "Multiply by\ " '\\y01d7d1'/'\\y01d7d0' .], [3/2 x-9/2, =y]
-[3x-2y, =9, \ , "Subtract\ "'\\y01d7d1''\\y01d499'.], [-2y, =-3x+9, \ , "Divide by\ "-'\\y01d7d0'.], [y, =3/2 x-9/2]
+[x, =2/3 y+3, \ , "Subtract 3."], [x-3, =2/3 y, \ , "Multiply by\ " bb 3/bb 2.], [3/2 x-9/2, =y]
+[3x-2y, =9, \ , "Subtract\ "bb 3bii x.], [-2y, =-3x+9, \ , "Divide by\ "-bb 2.], [y, =3/2 x-9/2]
 2 xx 2
 2 xx 2
 [y=-3x+6], [6x+2y=15]
@@ -18284,7 +18226,7 @@ t = (40,000-560p)//1520
 [Y_1, =4X], [Y_2, =(40000-560X)//1520]
 ["Xmin", =0, \ , "Xmax"=9.4], ["Ymin", =0, \ , "Ymax"=30]
 (6, 24).
-[560('\\y01d7d4')+1520('\\y01d7d0''\\y01d7d2'), overset(?)(=)40,000], [39,840, !=40,000]
+[560(bb 6)+1520(bb 2bb 4), overset(?)(=)40,000], [39,840, !=40,000]
 (500/83, 2000/83).
 6
 24
@@ -18414,7 +18356,6 @@ y
 [\ , 25x-1.7y=10.5], [\ , y+5x=49]
 [64x+58y, =707], [82x-21y, =496]
 [35x-76y, =293], [15x+44y, =-353]
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -18440,7 +18381,7 @@ x^(3//2).
 (x^(1//2))^3 = x^((1//2)^3) = x^(3//2)
 x^(3//2)
 x
-[100^(3//2), =('\\y01d7cf''\\y01d7ce''\\y01d7ce'^('\\y01d7cf'//'\\y01d7d0'))^3, \ , "Take the square root of 100."], [\ , ='\\y01d7cf''\\y01d7ce'^'\\y01d7d1' =1000, \ , "Cube the result."]
+[100^(3//2), =(bb 1bb 0bb 0^(bb 1//bb 2))^3, \ , "Take the square root of 100."], [\ , =bb 1bb 0^bb 3=1000, \ , "Cube the result."]
 a^(m//n) = (a^(1//n))^m = (a^m)^(1//n), \ a > 0, \ n != 0
 x^(3/4)
 x
@@ -19053,7 +18994,6 @@ y^(3//4)-y^(-1//4) = y^(-1//4)(\ ?\ )
 x^(-3//2)+x^(-1//2) = x^(-3//2)(\ ?\ )
 a^(1//3)+3-a^(-1//3) = a^(-1//3)(\ ?\ )
 3b-b^(3//4)+4b^(-3//4) = b^(-3//4)(\ ?\ )
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -19189,7 +19129,6 @@ d.
 d.
 M.
 k = 1.
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -19721,7 +19660,6 @@ P_5(2)?
 f(x)-P_5(x)
 f(x)
 P_5(x)?
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -19922,7 +19860,7 @@ y = 16+6x-x^2.
 x
 y = 0
 x.
-[16+6x-x^2, =0, \ , "Multiply each term by\ "-'\\y01d7cf'.], [x^2-6x-16, =0, \ , "Factor the left side."], [(x-8)(x+2), =0, \ , "Apply the zero-factor principle."], [x-8=0\ "\or\ "\ x+2, =0], [x=8\ "\or\ "\ x, =-2]
+[16+6x-x^2, =0, \ , "Multiply each term by\ "-bb 1.], [x^2-6x-16, =0, \ , "Factor the left side."], [(x-8)(x+2), =0, \ , "Apply the zero-factor principle."], [x-8=0\ "\or\ "\ x+2, =0], [x=8\ "\or\ "\ x, =-2]
 x
 x = -2
 x = 8.
@@ -19961,10 +19899,10 @@ x
 y = 0
 x.
 -0.8x^2+320x-27,200 = 0
-a = -'\\y01d7ce'.'\\y01d7d6',
-b = '\\y01d7d1''\\y01d7d0''\\y01d7ce',
-c = -'\\y01d7d0''\\y01d7d5','\\y01d7d0''\\y01d7ce''\\y01d7ce'.
-[x, = (-('\\y01d7d1''\\y01d7d0''\\y01d7ce')+-sqrt(('\\y01d7d1''\\y01d7d0''\\y01d7ce')^2-4(-0.8)(-'\\y01d7d0''\\y01d7d5','\\y01d7d0''\\y01d7ce''\\y01d7ce')))/(2(-'\\y01d7ce'.'\\y01d7d6')) ], [\ , = (-320+-sqrt(102,400-87,040))/(-1.6) ], [\ , = (-320+-sqrt(15,360))/(-1.6) ]
+a = -bb 0.bb 8,
+b = bb 3bb 2bb 0,
+c = -bb 2bb 7,bb 2bb 0bb 0.
+[x, = (-(bb 3bb 2bb 0)+-sqrt((bb 3bb 2bb 0)^2-4(-0.8)(-bb 2bb 7,bb 2bb 0bb 0)))/(2(-bb 0.bb 8)) ], [\ , = (-320+-sqrt(102,400-87,040))/(-1.6) ], [\ , = (-320+-sqrt(15,360))/(-1.6) ]
 122.54
 277.46.
 x^2
@@ -20166,7 +20104,6 @@ x.
 1/2
 x
 x.
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -20195,7 +20132,6 @@ pi.
 |overline(underline(pi))|\
 \ 2\ |overline(underline(pi))|
 6.2831853071796
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -20209,13 +20145,13 @@ x
 3 xx 3
 3 xx 3
 root(n)(x^n)
-[\ , "The sum of 4 times 6 and 10", \ , '\\y01d7d2'*'\\y01d7d4'+10], [\ , "4 times the sum of 6 and 10", \ , 4('\\y01d7d4'+'\\y01d7cf''\\y01d7ce')]
+[\ , "The sum of 4 times 6 and 10", \ , bb 4*bb 6+10], [\ , "4 times the sum of 6 and 10", \ , 4(bb 6+bb 1bb 0)]
 4 xx 6
 6+10
-[5-3*'\\y01d7d2'^'\\y01d7d0' , =5-3*16], [\ , =5-48=-43]
-[5-('\\y01d7d1'*'\\y01d7d2')^2, =5-12^2], [\ , =5-144=-139]
-[(5-'\\y01d7d1'*'\\y01d7d2')^2, =(5-12)^2], [\ , =(-7)^2=49]
-[('\\y01d7d3'-'\\y01d7d1')*4^2, =2*4^2], [\ , =2*16=32]
+[5-3*bb 4^bb 2, =5-3*16], [\ , =5-48=-43]
+[5-(bb 3*bb 4)^2, =5-12^2], [\ , =5-144=-139]
+[(5-bb 3*bb 4)^2, =(5-12)^2], [\ , =(-7)^2=49]
+[(bb 5-bb 3)*4^2, =2*4^2], [\ , =2*16=32]
 5-12^2,
 2
 12,
@@ -20225,10 +20161,10 @@ root(n)(x^n)
 [1+2/(3*4) , =1+2/12], [\ , =1+1/6=7/6]
 [ (1+2)/3*4, =3/3*4], [\ , =1*4=4]
 [1+2/3*4, =1+8/3], [\ , =3/3+8/3=11/3]
-'\\y01d494'\ "\is a square root of\ "\ '\\y01d48f'\ "\if\ "\ '\\y01d494'^'\\y01d7d0' = '\\y01d48f'
+bii s\ "\is a square root of\ "\ bii n\ "\if\ "\ bii s^bb 2 = bii n
 root(3)(n).
 b\ "\is a cube root of\ "\ n\ "\if\ "\ b\ "\cubed equals\ "\ n.
-'\\y01d483' = root('\\y01d7d1')('\\y01d48f')\ "\if\ "\ '\\y01d483'^'\\y01d7d1' = '\\y01d48f'
+bii b = root(bb 3)(bii n)\ "\if\ "\ bii b^bb 3 = bii n
 root(3)(64) = 4\ "\because\ "\ 4^3 = 64
 root(3)(-27) = -3\ "\because\ "\ (-3)^3 = -27
 3root(3)(-8)
@@ -20245,7 +20181,7 @@ root(3)(-27) = -3\ "\because\ "\ (-3)^3 = -27
 k
 k
 10.
-3.529 xx 10^'\\y01d7d0' = 352.9\ "\and\ "\ 25 xx 10^4 = 250,000
+3.529 xx 10^bb 2 = 352.9\ "\and\ "\ 25 xx 10^4 = 250,000
 10
 1728 xx 10^(-3) = 1.728\ "\and\ "\ 4.6 xx 10^(-5) = 0.000046
 1
@@ -20372,7 +20308,6 @@ R(1+at);
 3.99 xx 10^(16)
 6.37 xx 10^6
 6.96 xx 10^8
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -20386,7 +20321,6 @@ x
 3 xx 3
 3 xx 3
 root(n)(x^n)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -20412,12 +20346,12 @@ root(n)(x^n)
 x
 y:
 x = 2y.
-'\\y01d7d0''\\y01d49a'
+bb 2bii y
 x
-['\\y01d7d0''\\y01d49a'+y, =60], [3y, =60]
+[bb 2bii y+y, =60], [3y, =60]
 y,
-y = '\\y01d7d0''\\y01d7ce'.
-x = 2('\\y01d7d0''\\y01d7ce') = 40
+y = bb 2bb 0.
+x = 2(bb 2bb 0) = 40
 x = 40, y = 20.
 40
 20
@@ -20445,11 +20379,11 @@ x
 x
 [6x, +, 9y, =, 24, (1a)], [-6x, +, 8y, =, 10, (2a)], [\ , \ , 17y, =, 34, (3)]
 y
-y = '\\y01d7d0'.
+y = bb 2.
 y
 x
 y.
-2x+3('\\y01d7d0') = 8
+2x+3(bb 2) = 8
 x = 1.
 (1, 2)
 2 xx 2
@@ -20462,10 +20396,10 @@ x = 1.
 x,
 -1
 [-4y, =-8, \ , "Divide both sides by-4."], [y, =2]
-'\\y01d7d0'
+bb 2
 y
 x.
-[x+1/2('\\y01d7d0'), =7, \ , "Subtract 1 from both sides."], [x, =6]
+[x+1/2(bb 2), =7, \ , "Subtract 1 from both sides."], [x, =6]
 x = 6
 y = 2
 (6, 2).
@@ -20491,7 +20425,6 @@ y = 2
 [6.4x, +, 2.3y, =-14.09], [-5.2x, -, 3.7y, =-25.37]
 [0.9x=25.78, +1.03y], [0.25x+0.3y, =85.7]
 [0.02x, =0.6y-78.72], [1.1y, =-0.4x+108.3]
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -20521,7 +20454,7 @@ au^2+bu+c = 0,
 u
 (x+p)^2 = x^2+2px+p^2
 ax^2+bx+c = 0",\ "\ a != 0,
-'\\y01d499' = (-'\\y01d483'+-sqrt('\\y01d483'^'\\y01d7d0' -'\\y01d7d2''\\y01d482''\\y01d484'))/('\\y01d7d0''\\y01d482')
+bii x = (-bii b+-sqrt(bii b^bb 2-bb 4bii abii c))/(bb 2bii a)
 f(x) = ax^2+bx+c
 a,
 b,
@@ -20781,7 +20714,6 @@ y = -2x^2+4x+3
 232
 228
 185
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -20832,7 +20764,6 @@ f(x) = kx^n.
 P(m) = 73.3m^(0.74)
 P
 m
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -21047,7 +20978,6 @@ c_n
 n
 m_n
 n
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -21108,15 +21038,15 @@ h = 20-16t^2.
 t
 h.
 t = 0.5.
-'\\y01d7ce'.'\\y01d7d3'
+bb 0.bb 5
 t
-[h, =20-16('\\y01d7ce'.'\\y01d7d3')^2, \ , "Compute the power."], [\ , =20-16(0.25), \ , "Multiply; then subtract."], [\ , =20-4=16]
+[h, =20-16(bb 0.bb 5)^2, \ , "Compute the power."], [\ , =20-16(0.25), \ , "Multiply; then subtract."], [\ , =20-4=16]
 16
 0.5
 t
 h,
-h = '\\y01d7ce'
-'\\y01d7ce' = 20-16t^2
+h = bb 0
+bb 0 = 20-16t^2
 t^2
 [16t^2, =20, \ , "Divide by 16."], [t^2, =20/16=1.25]
 t = +-sqrt(1.25) ~~ +-1.118
@@ -21136,7 +21066,7 @@ h,
 0 = 20-16t^2
 t.
 (3x^2-8)/5 = 10.
-"First, isolate\ "'\\y01d499'^'\\y01d7d0' .x^2 =
+"First, isolate\ "bii x^bb 2.x^2 =
 "Take the square root of both sides."x = +-
 sqrt(2),
 x ~~
@@ -21149,7 +21079,7 @@ r
 V
 h.
 3
-['\\y01d7d1'V, ='\\y01d7d1'(1/3 pi r^2 h)], [3V, =pi r^2 h, \ , "Divide both sides by\ "'\\y01d745''\\y01d489'.], [ (3V)/(pi h) , =r^2, \ , "Take square roots."], [+-sqrt( (3V)/(pi h) ), =r]
+[bb 3V, =bb 3(1/3 pi r^2 h)], [3V, =pi r^2 h, \ , "Divide both sides by\ "bb pi bii h.], [ (3V)/(pi h) , =r^2, \ , "Take square roots."], [+-sqrt( (3V)/(pi h) ), =r]
 r = sqrt( (3V)/(pi h) ).
 r =
 A =
@@ -21157,11 +21087,11 @@ r
 A.
 sqrt(A/pi)
 r = sqrt(A//pi)
-'\\y01d482'('\\y01d491''\\y01d499'+'\\y01d492')^'\\y01d7d0' +'\\y01d493' = '\\y01d7ce'
+bii a(bii pbii x+bii q)^bb 2+bii r = bb 0
 (px+q)^2.
 \ 3(x-2)^2 = 48
 (x-2)^2.
-[3(x-2)^2, =48, \ , "Divide both sides by\ "'\\y01d7d1'.], [(x-2)^2, =16, \ , "Take the square root of each side."], [x-2, =+-sqrt(16)=+-4]
+[3(x-2)^2, =48, \ , "Divide both sides by\ "bb 3.], [(x-2)^2, =16, \ , "Take the square root of each side."], [x-2, =+-sqrt(16)=+-4]
 x,
 [x-2, =4, \ , "or\ ", x-2, =-4, \ , "Solve each equation."], [x, =6, \ , "or\ ", x, =-2]
 6
@@ -21192,7 +21122,7 @@ n = 2.
 A = 3000(1+r)^2
 3500
 A
-'\\y01d7d1''\\y01d7d3''\\y01d7ce''\\y01d7ce' = 3000(1+r)^2
+bb 3bb 5bb 0bb 0 = 3000(1+r)^2
 r
 [3500, =3000(1+r)^2, \ , "Divide both sides by 3000."], [1.1 bar 6, =(1+r)^2, \ , "Take the square root of both sides."], [+-1.0801, ~~1+r, \ , "Subtract 1 from both sides."], [r, ~~0.0801"\or\ "r~~-2.0801]
 r ~~ 0.0801,
@@ -21222,7 +21152,7 @@ x = 1/50 = 0.02
 \ 3/(x-2) = 4
 (x-2)/3 = 1/4
 3.
-[x-2, =3/4, \ , "Add 2 to both sides."], [x, =2+3/4=11/4, \ , '\\y01d7d0'/'\\y01d7cf' = '\\y01d7d6'/'\\y01d7d2' ", so\ " '\\y01d7d0'/'\\y01d7cf' + '\\y01d7d1'/'\\y01d7d2' = '\\y01d7d6'/'\\y01d7d2' + '\\y01d7d1'/'\\y01d7d2' = '\\y01d7cf''\\y01d7cf'/'\\y01d7d2' ]
+[x-2, =3/4, \ , "Add 2 to both sides."], [x, =2+3/4=11/4, \ , bb 2/bb 1=bb 8/bb 4 ", so\ " bb 2/bb 1+bb 3/bb 4=bb 8/bb 4+bb 3/bb 4=bb 1bb 1/bb 4]
 11/4,
 2.75.
 1/(sqrt(x)) ?
@@ -21558,7 +21488,6 @@ g = 0.0098.
 1740
 g
 0.0016.
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -21638,9 +21567,9 @@ t
 P(t)
 148
 74
-[74(1.02)^t, =148, \ , "Divide both sides by\ "'\\y01d7d5''\\y01d7d2'.], [1.02^t, =2, \ , "Take the log of both sides."], [tlog 1.02, =log 2, \ , "Divide both sides by log 1.02."], [t, = (log 2)/(log 1.02) ], [\ , ~~35"\years"]
+[74(1.02)^t, =148, \ , "Divide both sides by\ "bb 7bb 4.], [1.02^t, =2, \ , "Take the log of both sides."], [tlog 1.02, =log 2, \ , "Divide both sides by log 1.02."], [t, = (log 2)/(log 1.02) ], [\ , ~~35"\years"]
 35
-[148(1.02)^t, =296, \ , "Divide both sides by\ "'\\y01d7cf''\\y01d7d2''\\y01d7d6'.], [1.02^t, =2, \ , "Take the log of both sides."], [tlog 1.02, =log 2, \ , "Divide both sides by log 1.02."], [t, = (log 2)/(log 1.02) ], [\ , ~~35"\years"]
+[148(1.02)^t, =296, \ , "Divide both sides by\ "bb 1bb 4bb 8.], [1.02^t, =2, \ , "Take the log of both sides."], [tlog 1.02, =log 2, \ , "Divide both sides by log 1.02."], [t, = (log 2)/(log 1.02) ], [\ , ~~35"\years"]
 35
 P(t) = 74(1.02)^t
 35
@@ -21770,7 +21699,7 @@ P = 200,
 r = 0.05,
 n = 12,
 FV = 100, 000,
-[100,000, = (200[(1+0.05/12)^(12t)-1])/(0.05/12) ], [\ , "Isolate the expression in brackets."], [1/200(0.05/12)100,000, =(1+0.05/12)^(12t)-1], [\ , "Simplify.Add 1 to both sides."], [2.08 bar 3+1, =(1.0041 bar 6)^(12t)], [\ , "Take the log of both sides."], [log 3.08 bar 3, =12tlog(1.0041 bar 6)\ "Solve for\ "'\\y01d495'.], [t, = (log 3.08 bar 3)/(12log(1.0041 bar 6)) ], [\ , ~~22.6]
+[100,000, = (200[(1+0.05/12)^(12t)-1])/(0.05/12) ], [\ , "Isolate the expression in brackets."], [1/200(0.05/12)100,000, =(1+0.05/12)^(12t)-1], [\ , "Simplify.Add 1 to both sides."], [2.08 bar 3+1, =(1.0041 bar 6)^(12t)], [\ , "Take the log of both sides."], [log 3.08 bar 3, =12tlog(1.0041 bar 6)\ "Solve for\ "bii t.], [t, = (log 3.08 bar 3)/(12log(1.0041 bar 6)) ], [\ , ~~22.6]
 22
 100,000.
 8
@@ -22038,7 +21967,6 @@ V
 43%
 5000.
 1%?
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -22052,7 +21980,6 @@ x
 3 xx 3
 3 xx 3
 root(n)(x^n)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -22066,7 +21993,6 @@ x
 3 xx 3
 3 xx 3
 root(n)(x^n)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -22163,7 +22089,6 @@ y = 2f(x).
 y = 2+f(x).
 f(x)
 t = 12
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -22178,11 +22103,11 @@ x
 3 xx 3
 root(n)(x^n)
 y = f(x)
-'\\y01d487'('\\y01d499') = ("starting value")+("rate of change")*'\\y01d499'
+bii f(bii x) = ("starting value")+("rate of change")*bii x
 y
 x = 0,
 y
-'\\y01d487'('\\y01d499') = '\\y01d483'+'\\y01d48e''\\y01d499'
+bii f(bii x) = bii b+bii mbii x
 b,
 y
 m,
@@ -22285,7 +22210,7 @@ m
 4x-3y = 6
 y
 x.
-[-3y, =6-4x, \ , "Divide both sides by\ "-'\\y01d7d1'], [y, = (6-4x)/(-3) =6/(-3) + (-4x)/(-3) ], [y, =-2+4/3 x]
+[-3y, =6-4x, \ , "Divide both sides by\ "-bb 3], [y, = (6-4x)/(-3) =6/(-3) + (-4x)/(-3) ], [y, =-2+4/3 x]
 m = 4/3
 y
 b = -2.
@@ -22367,19 +22292,19 @@ m,
 (-3)/4 = (y-(-4))/(x-1) = (y+4)/(x-1)
 y
 x-1.
-[('\\y01d499'-'\\y01d7cf') (-3)/4, = (y+4)/(x-1) ('\\y01d499'-'\\y01d7cf'), \ , \ ], [ (-3)/4(x-1), =y+4, \ , "Apply the distributive law."], [ (-3)/4 x+3/4, =y+4, \ , "Subtract 4 from both sides."], [ (-3)/4 x-13/4, =y, \ , '\\y01d7d1'/'\\y01d7d2' -'\\y01d7d2'= '\\y01d7d1'/'\\y01d7d2' - '\\y01d7cf''\\y01d7d4'/'\\y01d7d2' = (-'\\y01d7cf''\\y01d7d1')/'\\y01d7d2' ]
+[(bii x-bb 1) (-3)/4, = (y+4)/(x-1) (bii x-bb 1), \ , \ ], [ (-3)/4(x-1), =y+4, \ , "Apply the distributive law."], [ (-3)/4 x+3/4, =y+4, \ , "Subtract 4 from both sides."], [ (-3)/4 x-13/4, =y, \ , bb 3/bb 4-bb 4=bb 3/bb 4-bb 1bb 6/bb 4= (-bb 1bb 3)/bb 4]
 y = (-13)/4-3/4 x
 m = (y_2-y_1)/(x_1-x_2) ?
 "D) It...wrong sign."
 (x, y)
 m = (y-y_1)/(x-x_1)
-[('\\y01d499'-'\\y01d499'_'\\y01d7cf' )m, = (y-y_1)/(x-x_1) ('\\y01d499'-'\\y01d499'_'\\y01d7cf' ), \ , "Multiply both sides by\ "('\\y01d499'-'\\y01d499'_'\\y01d7cf' )], [(x-x_1)m, =y-y_1, \ , "Clear fractions and solve for\ "'\\y01d49a'.], [y, =y_1+m(x-x_1)]
+[(bii x-bii x_bb 1)m, = (y-y_1)/(x-x_1) (bii x-bii x_bb 1), \ , "Multiply both sides by\ "(bii x-bii x_bb 1)], [(x-x_1)m, =y-y_1, \ , "Clear fractions and solve for\ "bii y.], [y, =y_1+m(x-x_1)]
 (x_1, y_1)
 m
 y = y_1+m(x-x_1)
 (-3, 5)
 -1.4.
-[y, =y_1+m(x-x_1), \ , "Substitute\ "-'\\y01d7cf'.'\\y01d7d2'"\for\ "'\\y01d48e'"\and\ "(-'\\y01d7d1','\\y01d7d3')"\for\ "('\\y01d499'_'\\y01d7cf' ,'\\y01d49a'_'\\y01d7cf' ).], [\ , \ , \ , "Simplify:Apply the distributive law."]
+[y, =y_1+m(x-x_1), \ , "Substitute\ "-bb 1.bb 4"\for\ "bii m"\and\ "(-bb 3,bb 5)"\for\ "(bii x_bb 1,bii y_bb 1).], [\ , \ , \ , "Simplify:Apply the distributive law."]
 y =
 0.8-1.4x
 y = 0.8-1.4x
@@ -22600,7 +22525,6 @@ B = f(h) = 212-0.0018h
 B
 h
 H = f(x) = 2.47x+54.10
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -22625,7 +22549,6 @@ x
 y
 x
 x
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -22639,7 +22562,6 @@ x
 3 xx 3
 3 xx 3
 root(n)(x^n)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -22660,7 +22582,6 @@ root(n)(x^n)
 (14, 20).
 A = (10, 12).
 "fitline"({A, B, C, D, E})
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -22705,14 +22626,14 @@ p(-1)
 p(t)
 p(t+3)
 x
-p('\\y01d7d0') = -2('\\y01d7d0')^2+3('\\y01d7d0')-1 = -8+6-1 = -3
-p(-'\\y01d7cf') = -2(-'\\y01d7cf')^2+3(-'\\y01d7cf')-1 = -2+(-3)-1 = -6
-p('\\y01d495') = -2('\\y01d495')^2+3('\\y01d495')-1 = --2t^2+3t-1
-[\ , \ ], [p('\\y01d495'+'\\y01d7d1'), =-2('\\y01d495'+'\\y01d7d1')^2+3('\\y01d495'+'\\y01d7d1')-1], [\ , =-2(t^2+6t+9)+3(t+3)-1], [\ , =-2t^2-9t-10]
+p(bb 2) = -2(bb 2)^2+3(bb 2)-1 = -8+6-1 = -3
+p(-bb 1) = -2(-bb 1)^2+3(-bb 1)-1 = -2+(-3)-1 = -6
+p(bii t) = -2(bii t)^2+3(bii t)-1 = --2t^2+3t-1
+[\ , \ ], [p(bii t+bb 3), =-2(bii t+bb 3)^2+3(bii t+bb 3)-1], [\ , =-2(t^2+6t+9)+3(t+3)-1], [\ , =-2t^2-9t-10]
 a(b+c+d+cdots) = ab+ac+ad+cdots
 [\ , \ ], [3x(x+y+z), =3x(x)+3x(y)+3x(z)], [\ , =3x^2+3xy+3xz]
 [\ , \ ], [-2ab^2(3a^2-ab+2b^2), =-2ab^2(3a^2)-2ab^2(-ab)-2ab^2(2b^2)], [\ , =-6a^3 b^2+2a^2 b^3-4ab^4]
-[\ , "the product of the"\ '\\y01d46d'"irst terms"], [\ , "the product of the"\ '\\y01d476'"uter terms"], [\ , "the product of the"\ '\\y01d470'"nner terms"], [\ , "the product of the"\ '\\y01d473'"ast terms"]
+[\ , "the product of the"\ bii F"irst terms"], [\ , "the product of the"\ bii O"uter terms"], [\ , "the product of the"\ bii I"nner terms"], [\ , "the product of the"\ bii L"ast terms"]
 [(2x-1)(x+3), =2x^2+6x-x-3], [\ , =2x^2+5x-3]
 3x^2+6x = 3x(x+2)
 ab+ac = a(b+c)
@@ -22747,20 +22668,20 @@ a-2b = -(2b-a)
 x
 2x.
 (2x^2)/(2x) = x.
-'\\y01d7d0''\\y01d499'
+bb 2bii x
 x+3
 2x
 2x^2+6x,
 2x^2+x-7:
-[['\\y01d7d0''\\y01d499', \ , \ ], [x+32x^2+x-7, \ , "Multiply\ "'\\y01d7d0''\\y01d499'"\by\ "'\\y01d499'+'\\y01d7d1'.], [ul(-(2x^2+6x)), \ , "Subtract the result".], [-5x-7]]
+[[bb 2bii x, \ , \ ], [x+32x^2+x-7, \ , "Multiply\ "bb 2bii x"\by\ "bii x+bb 3.], [ul(-(2x^2+6x)), \ , "Subtract the result".], [-5x-7]]
 -5x
 x
 -5.
--'\\y01d7d3'
+-bb 5
 x+3
 -5
 -5x-15,
-[[2x-'\\y01d7d3', \ , \ ], [x+32x^2+x-7, \ , \ ], [ul(-(2x^2+6x)), \ , \ ], [-5x-7, \ , "Multiply\ "-'\\y01d7d3'"\by\ "'\\y01d499'+'\\y01d7d1'.], [ul(-(-5x-15)), \ , "Subtract the result".], [8]]
+[[2x-bb 5, \ , \ ], [x+32x^2+x-7, \ , \ ], [ul(-(2x^2+6x)), \ , \ ], [-5x-7, \ , "Multiply\ "-bb 5"\by\ "bii x+bb 3.], [ul(-(-5x-15)), \ , "Subtract the result".], [8]]
 x+3,
 2x-5,
 8.
@@ -22887,7 +22808,6 @@ x^2(x+3)^3-x(x+3)^2
 (7-3t^3-23t^2+10t^4)/(2t+3)
 (x^4-1)/(x-2)
 (y^5+1)/(y-1)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -23051,11 +22971,11 @@ x
 f(x)
 x
 -4,
-f(-'\\y01d7d2') = sqrt(-'\\y01d7d2'+4) = sqrt(0) = 0
-f(-'\\y01d7d1') = sqrt(-'\\y01d7d1'+4) = sqrt(1) = 1
-f('\\y01d7ce') = sqrt('\\y01d7ce'+4) = sqrt(4) = 2
-f('\\y01d7d0') = sqrt('\\y01d7d0'+4) = sqrt(6) ~~ 2.45
-f('\\y01d7d3') = sqrt('\\y01d7d3'+4) = sqrt(9) = 3
+f(-bb 4) = sqrt(-bb 4+4) = sqrt(0) = 0
+f(-bb 3) = sqrt(-bb 3+4) = sqrt(1) = 1
+f(bb 0) = sqrt(bb 0+4) = sqrt(4) = 2
+f(bb 2) = sqrt(bb 2+4) = sqrt(6) ~~ 2.45
+f(bb 5) = sqrt(bb 5+4) = sqrt(9) = 3
 x
 f(x)
 -4
@@ -23142,9 +23062,9 @@ y
 y = 2x+3
 (2, 7)
 y = 2x+3.
-x = '\\y01d7d0'
-y = '\\y01d7d5'
-"Does\ "\ '\\y01d7d5' = 2('\\y01d7d0')+3?\ "Yes"
+x = bb 2
+y = bb 7
+"Does\ "\ bb 7 = 2(bb 2)+3?\ "Yes"
 x = 2
 2x+3 = 7.
 y = 2x+3
@@ -23167,9 +23087,9 @@ x = 9
 y = 150.
 150 = 285-15x
 x = 9.
-x = '\\y01d7d7'
-150 = 285-15('\\y01d7d7')?
-285-15('\\y01d7d7') = 285-135 = 150.\ "Yes"
+x = bb 9
+150 = 285-15(bb 9)?
+285-15(bb 9) = 285-135 = 150.\ "Yes"
 f(8) = 2,
 f?
 (8, 2)
@@ -23193,10 +23113,10 @@ y
 x = -2.5
 x = -2.5
 30-8x = 50.
-[30-8(-'\\y01d7d0'.'\\y01d7d3'), overset(?)(=)50], [30-(-20), =50, "Yes!"]
+[30-8(-bb 2.bb 5), overset(?)(=)50], [30-(-20), =50, "Yes!"]
 x = -2.5
 30-8x = 50.
-[30-8(-'\\y01d7d0'.'\\y01d7d3'), overset(?)(=)50], [30-(-20), =50, "Yes!"]
+[30-8(-bb 2.bb 5), overset(?)(=)50], [30-(-20), =50, "Yes!"]
 y = 2x+3,
 x = 2
 2x+3 = 7.
@@ -23250,7 +23170,7 @@ y = 50
 x = -2.5.
 y
 x >= -2.5.
-[30-8x, <=50, \ , "Subtract 30 from both sides."], [-8x, <=20, \ , "Divide by\ "-'\\y01d7d6'"\and reverse inequality."], [x, >=-2.5]
+[30-8x, <=50, \ , "Subtract 30 from both sides."], [-8x, <=20, \ , "Divide by\ "-bb 8"\and reverse inequality."], [x, >=-2.5]
 f(x) = -2x^3+x^2+16x
 -2x^3+x^2+16x = 15
 y = 15,
@@ -23261,8 +23181,8 @@ x
 x = -3,
 x = 1,
 x = 2.5.
-x = -'\\y01d7d1',
-[f(-'\\y01d7d1'), =-2(-'\\y01d7d1')3+(-'\\y01d7d1')^2+16(-'\\y01d7d1')], [\ , =-2(-27)+9-48], [\ , =54+9-48=15]
+x = -bb 3,
+[f(-bb 3), =-2(-bb 3)3+(-bb 3)^2+16(-bb 3)], [\ , =-2(-27)+9-48], [\ , =54+9-48=15]
 -3
 x = 1
 x = 2.5
@@ -23577,7 +23497,6 @@ y = 2.5x-0.025x^2-0.005x^3.
 Y_2 = -5.
 y = -5
 2.5x-0.025x^2-0.005x^3 = -5
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -24007,8 +23926,8 @@ y
 x
 y
 -1
-'\\y01d7d1''\\y01d7ce'
-'\\y01d7d3'
+bb 3bb 0
+bb 5
 12
 t
 4
@@ -25040,9 +24959,9 @@ y = x^2-4
 1.82
 0.78
 "Tax"//"Price"
-'\\y01d7ce'.'\\y01d7ce''\\y01d7d4''\\y01d7d3'
-'\\y01d7ce'.'\\y01d7ce''\\y01d7d4''\\y01d7d3'
-'\\y01d7ce'.'\\y01d7ce''\\y01d7d4''\\y01d7d3'
+bb 0.bb 0bb 6bb 5
+bb 0.bb 0bb 6bb 5
+bb 0.bb 0bb 6bb 5
 6.5%
 T = 0.065p
 "Width(feet)"
@@ -25054,29 +24973,29 @@ T = 0.065p
 9.6
 8
 "Length" xx "width"
-'\\y01d7d0''\\y01d7d2'
-'\\y01d7d0''\\y01d7d2'
-'\\y01d7d0''\\y01d7d2'
+bb 2bb 4
+bb 2bb 4
+bb 2bb 4
 24
 L = 24/w
 y/x
 xy
 10
 8
-'\\y01d7d1''\\y01d7d4'
-'\\y01d7d6''\\y01d7ce'
+bb 3bb 6
+bb 8bb 0
 12
 8
-'\\y01d7d2''\\y01d7ce'
-'\\y01d7d7''\\y01d7d4'
+bb 4bb 0
+bb 9bb 6
 15
 8
-'\\y01d7d2''\\y01d7d4'
-'\\y01d7cf''\\y01d7d0''\\y01d7ce'
+bb 4bb 6
+bb 1bb 2bb 0
 20
 8
-'\\y01d7d3''\\y01d7d4'
-'\\y01d7cf''\\y01d7d4''\\y01d7ce'
+bb 5bb 6
+bb 1bb 6bb 0
 P = 16+2l
 A = 8l
 m = 0.165w
@@ -25086,10 +25005,10 @@ w
 200
 400
 m
-'\\y01d7d6'.'\\y01d7d0''\\y01d7d3'
-'\\y01d7cf''\\y01d7d4'.'\\y01d7d3'
-'\\y01d7d1''\\y01d7d1'
-'\\y01d7d4''\\y01d7d4'
+bb 8.bb 2bb 5
+bb 1bb 6.bb 5
+bb 3bb 3
+bb 6bb 6
 19.8
 303.03
 L = 0.8125T^2
@@ -25099,10 +25018,10 @@ T
 10
 20
 L
-'\\y01d7ce'.'\\y01d7d6''\\y01d7cf''\\y01d7d0''\\y01d7d3'
-'\\y01d7d0''\\y01d7ce'.'\\y01d7d1'
-'\\y01d7d6''\\y01d7cf'.'\\y01d7d0''\\y01d7d3'
-'\\y01d7d1''\\y01d7d0''\\y01d7d3'
+bb 0.bb 8bb 1bb 2bb 5
+bb 2bb 0.bb 3
+bb 8bb 1.bb 2bb 5
+bb 3bb 2bb 5
 234.8125
 0.96
 B = 88/d
@@ -25112,10 +25031,10 @@ d
 12
 24
 B
-'\\y01d7d6''\\y01d7d6'
-'\\y01d7d2''\\y01d7d2'
-'\\y01d7d5'.'\\y01d7d1'
-'\\y01d7d1'.'\\y01d7d5'
+bb 8bb 8
+bb 4bb 4
+bb 7.bb 3
+bb 3.bb 7
 8.8
 20.47
 P = 1825/8192 w^3 ~~ 0.228w^3
@@ -25125,10 +25044,10 @@ w
 40
 80
 P
-'\\y01d7d0''\\y01d7d0''\\y01d7d1'
-'\\y01d7cf''\\y01d7d5''\\y01d7d6''\\y01d7d0'
-'\\y01d7cf''\\y01d7d2','\\y01d7d0''\\y01d7d3''\\y01d7d7'
-'\\y01d7cf''\\y01d7cf''\\y01d7d2','\\y01d7ce''\\y01d7d5''\\y01d7d2'
+bb 2bb 2bb 3
+bb 1bb 7bb 8bb 2
+bb 1bb 4,bb 2bb 5bb 9
+bb 1bb 1bb 4,bb 0bb 7bb 4
 752
 33.54
 8.
@@ -25136,40 +25055,40 @@ y = 0.3x
 x
 y
 2
-'\\y01d7ce'.'\\y01d7d4'
+bb 0.bb 6
 5
 1.5
-'\\y01d7d6'
+bb 8
 2.4
 12
-'\\y01d7d1'.'\\y01d7d4'
-'\\y01d7cf''\\y01d7d3'
+bb 3.bb 6
+bb 1bb 5
 4.5
 y
 y = 2/3 x^2
 x
 y
 3
-'\\y01d7d4'
+bb 6
 6
 24
-'\\y01d7d7'
+bb 9
 54
 12
-'\\y01d7d7''\\y01d7d4'
-'\\y01d7cf''\\y01d7d3'
+bb 9bb 6
+bb 1bb 5
 150
 y
 y = 120/x
 4
-'\\y01d7d1''\\y01d7ce'
-'\\y01d7d6'
+bb 3bb 0
+bb 8
 15
 20
 6
 30
-'\\y01d7d2'
-'\\y01d7d2''\\y01d7ce'
+bb 4
+bb 4bb 0
 3
 y
 y = 0.5x^2
@@ -28695,7 +28614,6 @@ x^5-10x^4+40x^3-80x^2+80x-32
 21
 32
 -672
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -28723,7 +28641,6 @@ pi.
 \
 \ 2
 6.283185307
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -28745,7 +28662,6 @@ y = x^2.
 \ x\ ,
 (-2, 4)
 (3, 9).
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -28799,9 +28715,9 @@ P = 8x+10y
 (300, 100)
 (200, 300)
 (300, 100),
-P = 8('\\y01d7d1''\\y01d7ce''\\y01d7ce')+10('\\y01d7cf''\\y01d7ce''\\y01d7ce') = 3400
+P = 8(bb 3bb 0bb 0)+10(bb 1bb 0bb 0) = 3400
 (200, 300),
-P = 8('\\y01d7d0''\\y01d7ce''\\y01d7ce')+10('\\y01d7d1''\\y01d7ce''\\y01d7ce') = 4600
+P = 8(bb 2bb 0bb 0)+10(bb 3bb 0bb 0) = 4600
 "C) ...the constraints"
 (0, 400),
 (400, 200),
@@ -28849,7 +28765,7 @@ C?
 30.
 39?
 (0, 3)
-C = 3('\\y01d7ce')+5('\\y01d7d1') = 15
+C = 3(bb 0)+5(bb 3) = 15
 (5, 0).
 3x+5y = 15
 15.
@@ -28936,7 +28852,7 @@ x = 3.
 y = 2.
 Q
 (3, 2).
-[\ , "At\ "P(0,4):, C, =15('\\y01d7ce')+25('\\y01d7d2')=100], [\ , "At\ "P(3,2):, C, =15('\\y01d7d1')+25('\\y01d7d0')=95, \ , "Minimum cost"], [\ , "At\ "P(9,0):, C, =15('\\y01d7d7')+25('\\y01d7ce')=135, \ ]
+[\ , "At\ "P(0,4):, C, =15(bb 0)+25(bb 4)=100], [\ , "At\ "P(3,2):, C, =15(bb 3)+25(bb 2)=95, \ , "Minimum cost"], [\ , "At\ "P(9,0):, C, =15(bb 9)+25(bb 0)=135, \ ]
 Q.
 95
 O = 5x+3y,
@@ -29049,7 +28965,6 @@ C = 202x+220y
 [38x+24y, <=294], [35x+34y, <=310], [13x+29y, <=197], [x>=0,\ y, >=0]
 C = 54x+24y
 [43x+32y, <=333], [23x-9y, <=152], [73x-94y, >=-296], [x>=0,\ y, >=0]
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -29548,7 +29463,6 @@ L.
 300
 256
 16,000
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -29562,7 +29476,6 @@ x
 3 xx 3
 3 xx 3
 root(n)(x^n)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -29898,16 +29811,16 @@ v = f(d) = (24d)^(1//2),
 d,
 80
 80
-d = '\\y01d7d6''\\y01d7ce'.
-[v, =(24*'\\y01d7d6''\\y01d7ce')^(1//2)], [\ , =(1920)^(1//2)~~43.8178046]
+d = bb 8bb 0.
+[v, =(24*bb 8bb 0)^(1//2)], [\ , =(1920)^(1//2)~~43.8178046]
 44
 d
 v
-v = '\\y01d7d6''\\y01d7ce'
-'\\y01d7d6''\\y01d7ce' = (24d)^(1//2)\ "\Solve for\ "'\\y01d485'.
+v = bb 8bb 0
+bb 8bb 0 = (24d)^(1//2)\ "\Solve for\ "bii d.
 d
 1/2,
-[80^2, =((24d)^(1//2))^2, \ , "Square both sides."], [6400, =24d, \ , "Divide by\ "'\\y01d7d0''\\y01d7d2'.], [266.bar 6, =d]
+[80^2, =((24d)^(1//2))^2, \ , "Square both sides."], [6400, =24d, \ , "Divide by\ "bb 2bb 4.], [266.bar 6, =d]
 d
 267
 v = (24d)^(1//2)
@@ -30286,7 +30199,6 @@ kx^p.
 (root(4)(x)+2)/(2root(4)(x))
 x^(-0.5)(x+x^(0.25)-x^(0.5))
 x^(0.5)(x^(-1)+x^(-0.5)+x^(-0.25))
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -30396,7 +30308,7 @@ i^2 = -1,
 6-10i+9i+15
 (6+15)+(-10i+9i) = 21-i
 (7-4i)(-2-i).
-[(7-4i)(-2-i), =-14-7i+8i+4i^2, \ , "Replace\ "'\\y01d48a'^'\\y01d7d0' "\by\ "-'\\y01d7cf'.], [\ , =-14-7i+8i-4, \ , "Combine real parts and imaginary"], [\ , =-18+i, \ , "parts."]
+[(7-4i)(-2-i), =-14-7i+8i+4i^2, \ , "Replace\ "bii i^bb 2 "\by\ "-bb 1.], [\ , =-14-7i+8i-4, \ , "Combine real parts and imaginary"], [\ , =-18+i, \ , "parts."]
 (-3+2i)(-3-2i) =
 13
 13
@@ -30411,14 +30323,14 @@ sqrt(ab) != sqrt(a)*sqrt(b)
 (3+4i)/(2i)
 i
 i = sqrt(-1)),
-'\\y01d48a'
-[ ((3+4i)*'\\y01d48a')/(2i*'\\y01d48a') , = (3i+4i^2)/(2i^2) , \ , "Apply the distributive law to the numerator."], [\ , = (3i-4)/(-2) , \ , "Recall that\ "'\\y01d48a'^'\\y01d7d0' =-'\\y01d7cf'.]
+bii i
+[ ((3+4i)*bii i)/(2i*bii i) , = (3i+4i^2)/(2i^2) , \ , "Apply the distributive law to the numerator."], [\ , = (3i-4)/(-2) , \ , "Recall that\ "bii i^bb 2=-bb 1.]
 a+bi,
 -2
 (3i)/(-2) -4/(-2) = (-3)/2 i+2 = 2+ (-3)/2 i
 \ (10-15i)/(5i)
-'\\y01d48a'.
-[ (10-15i)/(5i) , = ((10-15i)*'\\y01d48a')/(5i*'\\y01d48a') , \ , \ ], [\ , = (10i-15i^2)/(5i^2) , \ , "Replace\ "'\\y01d48a'^'\\y01d7d0' "\by\ "-'\\y01d7cf'.], [\ , = (10i+15)/(-5) , \ , \ ], [\ , = (10i)/(-5) +15/(-5) , \ , "Divide\ "-'\\y01d7d3'"\into each term of numerator."], [\ , =-2i-3]
+bii i.
+[ (10-15i)/(5i) , = ((10-15i)*bii i)/(5i*bii i) , \ , \ ], [\ , = (10i-15i^2)/(5i^2) , \ , "Replace\ "bii i^bb 2 "\by\ "-bb 1.], [\ , = (10i+15)/(-5) , \ , \ ], [\ , = (10i)/(-5) +15/(-5) , \ , "Divide\ "-bb 5"\into each term of numerator."], [\ , =-2i-3]
 -3-2i.
 (8+9i)/(3i) =
 3-8/3 i
@@ -30435,16 +30347,16 @@ ai+b
 "Choice 2"
 a^2+b^2
 \ (2+3i)/(4-2i)
-'\\y01d7d2'+'\\y01d7d0''\\y01d48a',
-[ (2+3i)/(4-2i) , = ((2+3i)('\\y01d7d2'+'\\y01d7d0''\\y01d48a'))/((4-2i)('\\y01d7d2'+'\\y01d7d0''\\y01d48a')) , \ , "Expand numerator and denominator."], [\ , = (8+4i+12i+6i^2)/(16+8i-8i-4i^2) , \ , "Replace\ "'\\y01d48a'^'\\y01d7d0' "\by\ "-'\\y01d7cf'.], [\ , = (8+16i-6)/(16-(-4)) , \ , "Combine like terms."], [\ , = (2+16i)/20, \ , "Divide 20 into each term of numerator."], [\ , =2/20+ (16i)/20], [\ , =1/10+4/5 i]
+bb 4+bb 2bii i,
+[ (2+3i)/(4-2i) , = ((2+3i)(bb 4+bb 2bii i))/((4-2i)(bb 4+bb 2bii i)) , \ , "Expand numerator and denominator."], [\ , = (8+4i+12i+6i^2)/(16+8i-8i-4i^2) , \ , "Replace\ "bii i^bb 2 "\by\ "-bb 1.], [\ , = (8+16i-6)/(16-(-4)) , \ , "Combine like terms."], [\ , = (2+16i)/20, \ , "Divide 20 into each term of numerator."], [\ , =2/20+ (16i)/20], [\ , =1/10+4/5 i]
 (4-2i)/(1+i)
 a+bi.
 1-3i
 1-3i
 f(x) = x^2-2x+2
 x = 1+i,
-x = '\\y01d7cf'+'\\y01d48a'
-[f('\\y01d7cf'+'\\y01d48a'), =('\\y01d7cf'+'\\y01d48a')^2-2('\\y01d7cf'+'\\y01d48a')+2], [\ , =1^2+2i+i^2-2-2i+2], [\ , =1+2i+(-1)-2-2i+2], [\ , =0]
+x = bb 1+bii i
+[f(bb 1+bii i), =(bb 1+bii i)^2-2(bb 1+bii i)+2], [\ , =1^2+2i+i^2-2-2i+2], [\ , =1+2i+(-1)-2-2i+2], [\ , =0]
 f(1+i) = 0,
 1+i
 x^2-2x+2 = 0.
@@ -30700,7 +30612,6 @@ a = 0
 b != 0,
 z?
 iz?
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -30732,7 +30643,6 @@ y = 184/(2.88log t+1.84)
 21.1%
 t
 y
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -30757,7 +30667,7 @@ g(x) = root(3)(x)
 b
 b
 b > 0, b != 1,
-'\\y01d49a' = log_'\\y01d483' '\\y01d499'\ "\if and only if\ "\ '\\y01d499' = '\\y01d483'^'\\y01d49a'
+bii y = log_bii b bii x\ "\if and only if\ "\ bii x = bii b^bii y
 g(x) = log_b x,
 b
 g(x) = log_b x,
@@ -30773,18 +30683,18 @@ f(x) = 2^x.
 x = 3,
 f,
 g
-x = '\\y01d7d1'overset(overset("exponential function")(->))f('\\y01d7d1') = 2^'\\y01d7d1' = 8overset(overset("log function")(->))g(8) = log_2 8 = overset(overset("number")('\\y01d7d1'))
-log_2(2^'\\y01d7d1' ) = '\\y01d7d1'
+x = bb 3overset(overset("exponential function")(->))f(bb 3) = 2^bb 3 = 8overset(overset("log function")(->))g(8) = log_2 8 = overset(overset("number")(bb 3))
+log_2(2^bb 3) = bb 3
 x
 b > 0.
-log_'\\y01d483' '\\y01d483'^'\\y01d499' = '\\y01d499'
+log_bii b bii b^bii x = bii x
 log_4 4^6
 log_8 8^(2a+3)
 6,
 4,
 4.
 6.
-x = '\\y01d7d4'overset(overset("exponential function")(->))4^'\\y01d7d4'overset(overset("log function")(->))log_4(4^'\\y01d7d4' ) = overset(overset("number")('\\y01d7d4'))
+x = bb 6overset(overset("exponential function")(->))4^bb 6 overset(overset("log function")(->))log_4(4^bb 6) = overset(overset("number")(bb 6))
 2a+3.
 8,
 log_8 8^(2a+3) = 2a+3.
@@ -30795,14 +30705,14 @@ w > 0, \ w != 1
 x+1
 6
 x+1
-2^(log_2'\\y01d7d6') = '\\y01d7d6'
+2^(log_2 bb 8) = bb 8
 8,
 2
 log_2 8 = 3,
-'\\y01d7d6'overset(overset("log function")(->))log_2'\\y01d7d6' = 3overset(overset("exponential function")(->)) = 2^(log_2'\\y01d7d6') = 2^3 = overset(overset("number")('\\y01d7d6'))
+bb 8overset(overset("log function")(->))log_2 bb 8 = 3overset(overset("exponential function")(->)) = 2^(log_2 bb 8) = 2^3 = overset(overset("number")(bb 8))
 x
 b > 0, b != 1:
-'\\y01d483'^(log_'\\y01d483' '\\y01d499') = '\\y01d499'
+bii b^(log_bii b bii x) = bii x
 10^(log_(10)1000)
 Q^(log_Q 25)", for\ "Q > 0, Q != 1
 1000,
@@ -30821,7 +30731,7 @@ x^2+1
 f(x) = b^x
 g(x) = log_b x
 b > 0, b != 1,
-log_'\\y01d483' '\\y01d483'^'\\y01d499' = '\\y01d499'", for all\ "x\ "\and\ "\ '\\y01d483'^(log_'\\y01d483' '\\y01d499') = '\\y01d499'", for\ "x > 0
+log_bii b bii b^bii x = bii x", for all\ "x\ "\and\ "\ bii b^(log_bii b bii x) = bii x", for\ "x > 0
 g(x) = log_2 x
 f(x) = 2^x
 f(x) = 2^x
@@ -31003,7 +30913,7 @@ D_f
 t_i
 33.149
 log_4 x = 3
-'\\y01d49a' = log_'\\y01d483' '\\y01d499'\ "\if and only if\ "\ '\\y01d499' = '\\y01d483'^'\\y01d49a'
+bii y = log_bii b bii x\ "\if and only if\ "\ bii x = bii b^bii y
 x.
 2(log_3 x)-1 = 4
 log_(10)(2x+100) = 3
@@ -31070,7 +30980,7 @@ f(x) = b^x.
 f(x) = b^x
 g(x) = log_b x
 b > 0, b != 1,
-log_'\\y01d483' '\\y01d483'^'\\y01d499' = '\\y01d499'", for all\ "x\ "\and\ "\ '\\y01d483'^(log_'\\y01d483' '\\y01d499') = '\\y01d499'", for\ "x > 0
+log_bii b bii b^bii x = bii x", for all\ "x\ "\and\ "\ bii b^(log_bii b bii x) = bii x", for\ "x > 0
 y = log_b x
 x
 (1, 0)
@@ -31370,7 +31280,7 @@ $1000
 8%
 A
 1
-[n='\\y01d7d0':A=1000(1+0.08/'\\y01d7d0' )^('\\y01d7d0'(1))=], [n='\\y01d7d2':A=1000(1+0.08/'\\y01d7d2' )^('\\y01d7d2'(1))=]
+[n=bb 2:A=1000(1+0.08/bb 2)^(bb 2(1))=], [n=bb 4:A=1000(1+0.08/bb 4)^(bb 4(1))=]
 A
 n,
 n.
@@ -31451,7 +31361,6 @@ n
 10,000
 100,000
 (1+1/n)^n
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -31881,7 +31790,6 @@ y
 y
 0,
 0.
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -31958,7 +31866,6 @@ V_0
 70%
 868
 3437
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -32003,8 +31910,8 @@ t
 7.5
 10
 12
-'\\y01d7d3'
-t = 60/(15-'\\y01d7d3') = 60/10 = 6
+bb 5
+t = 60/(15-bb 5) = 60/10 = 6
 10
 6
 60
@@ -32055,16 +31962,16 @@ C
 25
 15
 10
-'\\y01d7d0'
-(100+5('\\y01d7d0'))/'\\y01d7d0' = 55
-'\\y01d7d3'
-(100+5('\\y01d7d3'))/'\\y01d7d3' = 25
+bb 2
+(100+5(bb 2))/bb 2 = 55
+bb 5
+(100+5(bb 5))/bb 5 = 25
 ["Xmin", =0, \ , "Xmax"=470], ["Ymin", =0, \ , "Ymax"=30]
 (5, 25)
 5
 25.
-'\\y01d7d2''\\y01d7ce''\\y01d7ce'
-(100+5('\\y01d7d2''\\y01d7ce''\\y01d7ce'))/'\\y01d7d2''\\y01d7ce''\\y01d7ce' = 5.25
+bb 4bb 0bb 0
+(100+5(bb 4bb 0bb 0))/bb 4bb 0bb 0 = 5.25
 C = 5
 C = (100+5x)/x
 x
@@ -32315,7 +32222,7 @@ r+30.
 "Phoenix to Dallas:" 800/(r+30)
 F(r) = 800/(r-30) +800/(r+30)
 (r-30)(r+30).
-[800/(r-30) +800/(r+30) , = (800('\\y01d493'+'\\y01d7d1''\\y01d7ce'))/((r-30)('\\y01d493'+'\\y01d7d1''\\y01d7ce')) + (800('\\y01d493'-'\\y01d7d1''\\y01d7ce'))/((r+30)('\\y01d493'-'\\y01d7d1''\\y01d7ce')) ], [\ , = ((800r+24000)+(800r-24000))/((r+30)(r-30)) ], [\ , = (1600r)/(r^2-900) ]
+[800/(r-30) +800/(r+30) , = (800(bii r+bb 3bb 0))/((r-30)(bii r+bb 3bb 0)) + (800(bii r-bb 3bb 0))/((r+30)(bii r-bb 3bb 0)) ], [\ , = ((800r+24000)+(800r-24000))/((r+30)(r-30)) ], [\ , = (1600r)/(r^2-900) ]
 x
 400/(100-x^2)
 20/(10-x) +20/(10+x) = 400/(100-x^2)
@@ -32807,7 +32714,6 @@ y = (x^2-4)/(x-2)
 y = (x^2-1)/(x+1)
 y = (x+1)/(x^2-1)
 y = (x-3)/(x^2-9)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -32910,7 +32816,6 @@ y_n = sqrt(n^3-2); \ y_3
 \ sum_(k=0)^6\ 6Ck 1.4^(6-k)0.6^k
 (x-2y)^9; \ x^6 y^3
 (x/2-3)^8; \ x
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -32924,7 +32829,6 @@ x
 3 xx 3
 3 xx 3
 root(n)(x^n)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -32941,18 +32845,18 @@ root(n)(x^n)
 y = 4
 0x+y = 4
 x,
-'\\y01d7d2'
+bb 4
 y.
 (x, 4)
-(-1, '\\y01d7d2'), \ (2, '\\y01d7d2')\ and\ (4, '\\y01d7d2')
+(-1, bb 4), \ (2, bb 4)\ and\ (4, bb 4)
 x = 3,
 x+0y = 3
 x,
-'\\y01d7d1',
+bb 3,
 y.
 (3, y)
-('\\y01d7d1', 1)
-('\\y01d7d1', 3),
+(bb 3, 1)
+(bb 3, 3),
 \ x = k\
 k
 \ y = k\
@@ -32981,7 +32885,7 @@ m_1 = m_2.
 3x+6y = 6
 y = -1/2 x+5
 y:
-[3x+6y, =6, \ , "Subtract"\ '\\y01d7d1''\\y01d499'\ "from both sides."], [6y, =-3x+6, \ , "Divide both sides by"\ '\\y01d7d4'.], [y, = (-3x)/6+6/6, \ , "Simplify."], [y=, =-1/2 x+1]
+[3x+6y, =6, \ , "Subtract"\ bb 3bii x\ "from both sides."], [6y, =-3x+6, \ , "Divide both sides by"\ bb 6.], [y, = (-3x)/6+6/6, \ , "Simplify."], [y=, =-1/2 x+1]
 m_1 = -1/2.
 m_2 = -1/2.
 m_1 = m_2,
@@ -33000,7 +32904,7 @@ m_2
 m_1.
 3x-5y = 5
 2y = 10/3 x+3
-[5y, =3x-5, \ , "Divide both sides by"\ '\\y01d7d3'.], [y, =3/5 x-1]
+[5y, =3x-5, \ , "Divide both sides by"\ bb 5.], [y, =3/5 x-1]
 m_1 = 3/5.
 y = 5/3 x+3/2,
 m_2 = 5/3.
@@ -33019,19 +32923,19 @@ bar(AB)
 bar(AC)
 4x-2y = 6
 (1, 4)?
-[4x-2y, =6, \ , "Subtract"\ '\\y01d7d2''\\y01d499'\ "from both sides."], [-2y, =-4x+6, \ , \ "Divide both sides by"-'\\y01d7d0'.], [y, =2x-3]
+[4x-2y, =6, \ , "Subtract"\ bb 4bii x\ "from both sides."], [-2y, =-4x+6, \ , \ "Divide both sides by"-bb 2.], [y, =2x-3]
 2.
 2.
 m = 2,
 (1, 4).
-[y-y_1, =m(x-x_1)], [y-'\\y01d7d2', ='\\y01d7d0'(x-'\\y01d7cf'), \ , "Apply the distributive law."], [y-4, =2x-2, \ , "Add 4 to both sides."], [y, =2x+2]
+[y-y_1, =m(x-x_1)], [y-bb 4, =bb 2(x-bb 1), \ , "Apply the distributive law."], [y-4, =2x-2, \ , "Add 4 to both sides."], [y, =2x+2]
 (1, 4)
 4x-2y = 6.
 m_1 = 2,
 m_2 = (-1)/(m_1) = (-1)/2
 m_2 = (-1)/2
 (x_1, y_1) = (1, 4).
-[y-y_1, =m(x-x_1)], [y-'\\y01d7d2', = (-'\\y01d7cf')/'\\y01d7d0' (x-'\\y01d7cf'), \ , "Apply the distributive law."], [y-4, = (-1)/2 x+1/2, \ , "Add 4 to both sides."], [y, = (-1)/2 x+9/2, \ , '\\y01d7cf'/'\\y01d7d0' +'\\y01d7d2'= '\\y01d7cf'/'\\y01d7d0' + '\\y01d7d6'/'\\y01d7d0' = '\\y01d7d7'/'\\y01d7d0' ]
+[y-y_1, =m(x-x_1)], [y-bb 4, = (-bb 1)/bb 2(x-bb 1), \ , "Apply the distributive law."], [y-4, = (-1)/2 x+1/2, \ , "Add 4 to both sides."], [y, = (-1)/2 x+9/2, \ , bb 1/bb 2+bb 4=bb 1/bb 2+bb 8/bb 2=bb 9/bb 2]
 y = -3
 x = -2
 2x = 8
@@ -33191,7 +33095,6 @@ ABP
 CAP.
 m_1 = (BP)/(AP) ; \ m_2 = - (CP)/(AP)
 m_2 = (-1)/(m_1)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -33212,18 +33115,18 @@ a(px+q)^2+r = 0
 p
 2p
 p^2
-(x+'\\y01d7d3')^2 = x^2+10x+25
-'\\y01d7d3'
-2('\\y01d7d3') = 10
-'\\y01d7d3'^2 = 25
-(x-'\\y01d7d1')^2 = x^2-6x+9
--'\\y01d7d1'
-2(-'\\y01d7d1') = -6
--'\\y01d7d1'^2 = 9
-(x-'\\y01d7cf''\\y01d7d0')^2 = x^2-24x+144
--'\\y01d7cf''\\y01d7d0'
-2(-'\\y01d7cf''\\y01d7d0') = -24
--'\\y01d7cf''\\y01d7d0'^2 = 144
+(x+bb 5)^2 = x^2+10x+25
+bb 5
+2(bb 5) = 10
+bb 5^2 = 25
+(x-bb 3)^2 = x^2-6x+9
+-bb 3
+2(-bb 3) = -6
+-bb 3^2 = 9
+(x-bb 1bb 2)^2 = x^2-24x+144
+-bb 1bb 2
+2(-bb 1bb 2) = -24
+-bb 1bb 2^2 = 144
 (x+p)^2 = x^2+2px+p^2
 2p,
 p^2,
@@ -33236,11 +33139,11 @@ x^2
 12x
 x^2-16x
 [x^2, +, 2px, +, p^2, =, (x+p)^2], [x^2, -, 16x, +, ?, =, (x+?)^2]
-2p = -16, \ "\so\ "\ p = 1/2(-16) = -'\\y01d7d6'
-p^2 = (-8)^2 = '\\y01d7d4''\\y01d7d2'
+2p = -16, \ "\so\ "\ p = 1/2(-16) = -bb 8
+p^2 = (-8)^2 = bb 6bb 4
 p^2
 p
-x^2-16x+'\\y01d7d4''\\y01d7d2' = (x-'\\y01d7d6')^2
+x^2-16x+bb 6bb 4 = (x-bb 8)^2
 x.
 x
 x^2-12x+
@@ -33250,13 +33153,13 @@ x^2+5x+
 (-6)^2,
 36.
 36
-[x^2-12x+'\\y01d7d1''\\y01d7d4'=(x-6)^2, \ , \ , underset('\\y01d491'^'\\y01d7d0' =(-'\\y01d7d4')^'\\y01d7d0' ='\\y01d7d1''\\y01d7d4')(overset('\\y01d491'= '\\y01d7cf'/'\\y01d7d0' (-'\\y01d7cf''\\y01d7d0')=-'\\y01d7d4')(\ ))]
+[x^2-12x+bb 3bb 6=(x-6)^2, \ , \ , underset(bii p^bb 2=(-bb 6)^bb 2=bb 3bb 6)(overset(bii p=bb 1/bb 2(-bb 1bb 2)=-bb 6)(\ ))]
 5
 5/2,
 (5/2)^2,
 25/4.
 25/4
-[x^2+5x+ '\\y01d7d0''\\y01d7d3'/'\\y01d7d2' =(x+5/2)^2, \ , \ , underset('\\y01d491'^'\\y01d7d0' =( '\\y01d7d3'/'\\y01d7d0' )^'\\y01d7d0' = '\\y01d7d0''\\y01d7d3'/'\\y01d7d2' )(overset('\\y01d491'= '\\y01d7cf'/'\\y01d7d0' ('\\y01d7d3')= '\\y01d7d3'/'\\y01d7d0' \ )(\ ))]
+[x^2+5x+bb 2bb 5/bb 4=(x+5/2)^2, \ , \ , underset(bii p^bb 2=(bb 5/bb 2)^bb 2=bb 2bb 5/bb 4)(overset(bii p=bb 1/bb 2(bb 5)=bb 5/bb 2\ )(\ ))]
 x^2+2px
 x
 x+2p.
@@ -33287,7 +33190,7 @@ x^2-6x-7 = 0
 x^2-6x = 7
 p = 1/2(-6) = -3\ "\and\ "\ p^2 = (-3)^2 = 9
 9
-x^2-6x+'\\y01d7d7' = 7+'\\y01d7d7'
+x^2-6x+bb 9 = 7+bb 9
 (x-3)^2.
 (x-3)^2 = 16
 [x-3, =4, or, \ , x-3, =-4, "Solve each equation."], [x, =7, or, \ , x, =-1]
@@ -33305,7 +33208,7 @@ x
 -4,
 p = 1/2(-4) = -2\ "\and\ "\ p^2 = (-2)^2 = 4
 4
-x^2-4x+'\\y01d7d2' = 3+'\\y01d7d2'
+x^2-4x+bb 4 = 3+bb 4
 (x-2)^2 = 7
 [x-2, =sqrt(7), or, \ , x-2, =-sqrt(7), "Solve each equation."], [x, =2+sqrt(7), or, \ , x, =2-sqrt(7)]
 2+sqrt(7) ~~ 4.646
@@ -33355,7 +33258,7 @@ x^2-3x-5/2 = 0
 x^2-3x\ = 5/2
 p = 1/2(-3) = (-3)/2\ "\and\ "\ p^2 = ( (-3)/2)^2 = 9/4
 9/4
-x^2-3x+ '\\y01d7d7'/'\\y01d7d2' = 5/2+ '\\y01d7d7'/'\\y01d7d2'
+x^2-3x+bb 9/bb 4 = 5/2+bb 9/bb 4
 (x-3/2)^2 = 19/4
 x.
 x-3/2 = sqrt(19/4)\ "\or\ "\ x-3/2 = -sqrt(19/4)
@@ -33396,7 +33299,7 @@ x = (-13)/2,
 x = (-5)/2
 ax^2+bx+c = 0",\ "\ a != 0
 ax^2+bx+c = 0",\ "\ a != 0,
-'\\y01d499' = (-'\\y01d483'+-sqrt('\\y01d483'^'\\y01d7d0' -'\\y01d7d2''\\y01d482''\\y01d484'))/('\\y01d7d0''\\y01d482')
+bii x = (-bii b+-sqrt(bii b^bb 2-bb 4bii abii c))/(bb 2bii a)
 sqrt(b^2-4ac) = b-sqrt(4ac)
 b-2sqrt(ac).
 sqrt(x+y) != sqrt(x)+sqrt(y).
@@ -33413,13 +33316,13 @@ b,
 c
 \ 2x^2+1 = 4x.
 2x^2-4x+1 = 0
-'\\y01d7d0'
+bb 2
 a,
--'\\y01d7d2'
+-bb 4
 b,
-'\\y01d7cf'
+bb 1
 c
-[x, = (-(-'\\y01d7d2')+-sqrt((-'\\y01d7d2')^2-4('\\y01d7d0')('\\y01d7cf')))/(2('\\y01d7d0')) ], [\ , = (4+-sqrt(8))/4= (4+-2sqrt(2))/4= (2+-sqrt(2))/2]
+[x, = (-(-bb 4)+-sqrt((-bb 4)^2-4(bb 2)(bb 1)))/(2(bb 2)) ], [\ , = (4+-sqrt(8))/4= (4+-2sqrt(2))/4= (2+-sqrt(2))/2]
 1.707
 0.293.
 x
@@ -33444,10 +33347,10 @@ x
 6000
 x(300-3x) = 6000
 [3x^2-300x+6000, =0, \ , "Divide each term by 3."], [x^2-100x+2000, =0]
-a = '\\y01d7cf',
-b = -'\\y01d7cf''\\y01d7ce''\\y01d7ce',
-c = '\\y01d7d0''\\y01d7ce''\\y01d7ce''\\y01d7ce'.
-[x, = (-(-'\\y01d7cf''\\y01d7ce''\\y01d7ce')+-sqrt((-'\\y01d7cf''\\y01d7ce''\\y01d7ce')^2-4('\\y01d7cf')('\\y01d7d0''\\y01d7ce''\\y01d7ce''\\y01d7ce')))/(2('\\y01d7cf')) ], [\ , = (100+-sqrt(2000))/2~~ (100+-44.7)/2]
+a = bb 1,
+b = -bb 1bb 0bb 0,
+c = bb 2bb 0bb 0bb 0.
+[x, = (-(-bb 1bb 0bb 0)+-sqrt((-bb 1bb 0bb 0)^2-4(bb 1)(bb 2bb 0bb 0bb 0)))/(2(bb 1)) ], [\ , = (100+-sqrt(2000))/2~~ (100+-44.7)/2]
 x ~~ 72.35
 x ~~ 27.65.
 72.35
@@ -33468,10 +33371,10 @@ x.
 x^2-yx+(y-2) = 0
 y
 x,
-a = '\\y01d7cf',
-b = -'\\y01d49a',
-c = '\\y01d49a'-'\\y01d7d0'.
-[x, = (-(-'\\y01d49a')+-sqrt((-'\\y01d49a')^2-4('\\y01d7cf')('\\y01d49a'-'\\y01d7d0')))/(2('\\y01d7cf')) ], [\ , = (y+-sqrt(y^2-4y+8))/2]
+a = bb 1,
+b = -bii y,
+c = bii y-bb 2.
+[x, = (-(-bii y)+-sqrt((-bii y)^2-4(bb 1)(bii y-bb 2)))/(2(bb 1)) ], [\ , = (y+-sqrt(y^2-4y+8))/2]
 2x^2+kx+k^2 = 1
 x
 k.
@@ -33481,7 +33384,7 @@ x = (-k+-sqrt(8-7k^2))/4
 (x+p)
 (x+p)^2 = x^2+2px+p^2
 ax^2+bx+c = 0",\ "\ a != 0,
-'\\y01d499' = (-'\\y01d483'+-sqrt('\\y01d483'^'\\y01d7d0' -'\\y01d7d2''\\y01d482''\\y01d484'))/('\\y01d7d0''\\y01d482')
+bii x = (-bii b+-sqrt(bii b^bb 2-bb 4bii abii c))/(bb 2bii a)
 x^2-26x
 2x^2-6x = 5
 x^2+8x
@@ -33623,7 +33526,6 @@ ax^2+bx+c = 0.
 a,
 b,
 c.
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -33637,7 +33539,6 @@ x
 3 xx 3
 3 xx 3
 root(n)(x^n)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -33659,7 +33560,6 @@ r
 r^2.
 Y_1 = .
 5
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -33711,7 +33611,6 @@ y
 x
 x
 x
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -33842,7 +33741,7 @@ x
 x = 1/2[0+(-4)] = -2
 y
 x = -2
-[y, =2(-'\\y01d7d0')^2+8(-'\\y01d7d0')], [\ , =8-16=-8]
+[y, =2(-bb 2)^2+8(-bb 2)], [\ , =8-16=-8]
 (-2, -8).
 x
 y = 6x-x^2.
@@ -33879,8 +33778,8 @@ x
 x_v = (-b)/(2a) = (-(-16.2))/(2(-1.8)) = -4.5
 y
 f(x)
-x = -'\\y01d7d2'.'\\y01d7d3'.
-y_v = -1.8(-'\\y01d7d2'.'\\y01d7d3')^2-16.2(-'\\y01d7d2'.'\\y01d7d3') = 36.45
+x = -bb 4.bb 5.
+y_v = -1.8(-bb 4.bb 5)^2-16.2(-bb 4.bb 5) = 36.45
 (-4.5, 36.45).
 x
 f(x) = 0
@@ -33900,8 +33799,8 @@ x_v = (-b)/(2a)
 x
 x_v = (-8)/(2(2)) = -2
 y
-x_v = -'\\y01d7d0'
-[y_v, =2(-'\\y01d7d0')^2+8(-'\\y01d7d0')+6], [\ , =8-16+6=-2]
+x_v = -bb 2
+[y_v, =2(-bb 2)^2+8(-bb 2)+6], [\ , =8-16+6=-2]
 (-2, -2).
 6
 y = 2x^2+8x.
@@ -33913,7 +33812,7 @@ x
 (-3, 0).
 y
 x
-y = 2('\\y01d7ce')2+8('\\y01d7ce')+6 = 6
+y = 2(bb 0)2+8(bb 0)+6 = 6
 y
 6,
 y
@@ -33930,8 +33829,8 @@ c = 1.
 x
 x_v = (-b)/(2a) = (-1)/(2(-2)) = 1/4
 y
-x = '\\y01d7cf'/'\\y01d7d2'
-[y_v, =-2( '\\y01d7cf'/'\\y01d7d2' )^2+ '\\y01d7cf'/'\\y01d7d2' +1], [\ , =-2(1/16)+4/16+16/16=18/16=9/8]
+x = bb 1/bb 4
+[y_v, =-2(bb 1/bb 4)^2+bb 1/bb 4+1], [\ , =-2(1/16)+4/16+16/16=18/16=9/8]
 (1/4, 9/8).
 -2x^2+x+1
 x = 0.25.
@@ -34268,7 +34167,6 @@ h = 0.
 g
 9.8.
 136
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -34364,7 +34262,6 @@ root(n)(x^n)
 90
 6
 6
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -34383,30 +34280,30 @@ N
 t
 6
 h
-'\\y01d7d4'xx("number of hours Loren worked")
+bb 6 xx("number of hours Loren worked")
 6*h.
 6h.
 6h
 16
 6h
-h = '\\y01d7cf''\\y01d7d4'.
-6h = 6('\\y01d7cf''\\y01d7d4') = 96
+h = bb 1bb 6.
+6h = 6(bb 1bb 6) = 96
 96.
 200
 9%
 350
 I
 S
-["Her income consists of\ "$'\\y01d7d0''\\y01d7ce''\\y01d7ce'..."\plus\ "...'\\y01d7d7'%"\of her sales"], [I=200+0.09S]
+["Her income consists of\ "$bb 2bb 0bb 0..."\plus\ "...bb 9%"\of her sales"], [I=200+0.09S]
 I = 200+0.09S.
 S = 350.
-'\\y01d7d1''\\y01d7d3''\\y01d7ce'
+bb 3bb 5bb 0
 S
-I = 200+0.09('\\y01d7d1''\\y01d7d3''\\y01d7ce')
+I = 200+0.09(bb 3bb 5bb 0)
 0.09(350).
-[I, =200+0.09(350), \ , "Multiply\ "'\\y01d7ce'.'\\y01d7ce''\\y01d7d7'('\\y01d7d1''\\y01d7d3''\\y01d7ce')"\first."], [\ , =200+31.5], [\ , =231.50]
+[I, =200+0.09(350), \ , "Multiply\ "bb 0.bb 0bb 9(bb 3bb 5bb 0)"\first."], [\ , =200+31.5], [\ , =231.50]
 231.50.
-200
+\ \ 200
 0.09
 350
 2.80
@@ -34417,8 +34314,8 @@ w
 8.3+w
 2.80
 C = 2.80(8.3+w)
-w = '\\y01d7d0'.'\\y01d7d7'.
-[C, =2.80(8.3+'\\y01d7d0'.'\\y01d7d7'), \ , "Add inside parentheses."], [\ , =2.80(11.2), \ , "Multiply."], [\ , =31.36]
+w = bb 2.bb 9.
+[C, =2.80(8.3+bb 2.bb 9), \ , "Add inside parentheses."], [\ , =2.80(11.2), \ , "Multiply."], [\ , =31.36]
 31.36.
 C
 xx
@@ -34436,7 +34333,7 @@ p.
 p,
 60p
 175
-[800-60p+'\\y01d7d4''\\y01d7ce''\\y01d491'-'\\y01d7cf''\\y01d7d5''\\y01d7d3', =175+40p+'\\y01d7d4''\\y01d7ce''\\y01d491'-'\\y01d7cf''\\y01d7d5''\\y01d7d3'], [625, =100p, \ , "Divide both sides by\ "'\\y01d7cf''\\y01d7ce''\\y01d7ce'.], [6.25, =p]
+[800-60p+bb 6bb 0bii p-bb 1bb 7bb 5, =175+40p+bb 6bb 0bii p-bb 1bb 7bb 5], [625, =100p, \ , "Divide both sides by\ "bb 1bb 0bb 0.], [6.25, =p]
 6.25
 P = rW
 xx
@@ -34460,7 +34357,7 @@ c = 100,000/1.04 = 96, 153.846
 bar x,
 x_1, x_2, ..., x_n
 bar x = (x_1+x_2+***+x_n)/n
-bar x = ('\\y01d7d0'(10)+'\\y01d7d1'(9)+'\\y01d7d3'(8)+'\\y01d7d0'(6))/12 = 8.25
+bar x = (bb 2(10)+bb 3(9)+bb 5(8)+bb 2(6))/12 = 8.25
 n,
 12 = 2+3+5+2
 50%
@@ -34470,7 +34367,7 @@ n,
 92
 90?
 x
-('\\y01d7ce'.'\\y01d7d3''\\y01d7ce'(84)+'\\y01d7ce'.'\\y01d7d0''\\y01d7ce'(92)+'\\y01d7ce'.'\\y01d7d1''\\y01d7ce'x)/1.00 = 90
+(bb 0.bb 5bb 0(84)+bb 0.bb 2bb 0(92)+bb 0.bb 3bb 0x)/1.00 = 90
 1.00
 0.50(84)+0.20(92)+0.30x = 1.00(90)
 [60.4+0.30x, =90, \ , "Subtract 60.4 from both sides."], [0.30x, =29.6, \ , "Divide both sides by 0.30."], [x, =98.7]
@@ -34496,7 +34393,7 @@ p
 50+p
 0.08(50+p)
 0.15(50)+0.05p = 0.08(50+p)
-[7.5+0.05p, =4+0.08p, \ , "Subtract"\ '\\y01d7d2'+'\\y01d7ce'.'\\y01d7ce''\\y01d7d3''\\y01d491'\ "from both sides."], [3.5, =0.03p, \ , "Divid both sides by"\ '\\y01d7ce'.'\\y01d7ce''\\y01d7d1'.], [p, =116.bar 6]
+[7.5+0.05p, =4+0.08p, \ , "Subtract"\ bb 4+bb 0.bb 0bb 5bii p\ "from both sides."], [3.5, =0.03p, \ , "Divid both sides by"\ bb 0.bb 0bb 3.], [p, =116.bar 6]
 116 2/3
 50
 8%
@@ -34510,7 +34407,6 @@ p
 120-p
 20+2p
 p
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -34658,7 +34554,6 @@ F
 0.901
 2.6
 4.6
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -34685,9 +34580,9 @@ x
 9
 60/(15-x) = 9
 \ 60/(15-x) = 9
-'\\y01d7cf''\\y01d7d3'-'\\y01d499'
-[('\\y01d7cf''\\y01d7d3'-'\\y01d499') 60/(15-x) , =9('\\y01d7cf''\\y01d7d3'-'\\y01d499')], [60, =9(15-x), \ , "Apply the distributive law."]
-[60, =135-9x, \ , "Subtract 135 from both sides."], [-75, =-9x, \ , "Divide by\ "-'\\y01d7d7'.], [8.bar 3, =x]
+bb 1bb 5-bii x
+[(bb 1bb 5-bii x) 60/(15-x) , =9(bb 1bb 5-bii x)], [60, =9(15-x), \ , "Apply the distributive law."]
+[60, =135-9x, \ , "Subtract 135 from both sides."], [-75, =-9x, \ , "Divide by\ "-bb 9.], [8.bar 3, =x]
 8.bar 3,
 8 1/3
 (x^2)/(x+4) = 2
@@ -34704,7 +34599,7 @@ x
 18/(12-x)
 30/(12+x) = 18/(12-x)
 (12+x)(12-x).
-[('\\y01d7cf''\\y01d7d0'+'\\y01d499')('\\y01d7cf''\\y01d7d0'-'\\y01d499') 30/(12+x) , =18/(12-x) ('\\y01d7cf''\\y01d7d0'+'\\y01d499')('\\y01d7cf''\\y01d7d0'-'\\y01d499')], [30(12-x), =18(12+x)]
+[(bb 1bb 2+bii x)(bb 1bb 2-bii x) 30/(12+x) , =18/(12-x) (bb 1bb 2+bii x)(bb 1bb 2-bii x)], [30(12-x), =18(12+x)]
 [360-30x, =216+18x], [144, =48x], [3, =x]
 3
 x/(6-x) = 1/2
@@ -34727,7 +34622,7 @@ y
 x
 x/(x-3) = 3/(x-3) +2
 x-3,
-('\\y01d499'-'\\y01d7d1') x/(x-3) = ('\\y01d499'-'\\y01d7d1') 3/(x-3) +('\\y01d499'-'\\y01d7d1')*2
+(bii x-bb 3) x/(x-3) = (bii x-bb 3) 3/(x-3) +(bii x-bb 3)*2
 x = 3+2x-6
 x = 3
 x = 3
@@ -34737,7 +34632,7 @@ x-3,
 x = 3,
 6/x+1 = 1/(x+2)
 x(x+2).
-'\\y01d499'('\\y01d499'+'\\y01d7d0')(6/x+1) = '\\y01d499'('\\y01d499'+'\\y01d7d0') 1/(x+2)
+bii x(bii x+bb 2)(6/x+1) = bii x(bii x+bb 2) 1/(x+2)
 6(x+2)+x(x+2) = x
 [6x+12+x^2+2x, =x], [x^2+7x+12, =0]
 (x+3)(x+4) = 0
@@ -34767,13 +34662,13 @@ x = (-1)/2
 \ p = v/(q+v) \
 v.
 q+v.
-[('\\y01d492'+'\\y01d497')p, =('\\y01d492'+'\\y01d497') v/(q+v) ], [(q+v)p, =v]
+[(bii q+bii v)p, =(bii q+bii v) v/(q+v) ], [(q+v)p, =v]
 v
-[qp+vp, =v, \ , "Subtract\ "'\\y01d497''\\y01d491'"\from both sides."], [qp=v-vp]
+[qp+vp, =v, \ , "Subtract\ "bii vbii p"\from both sides."], [qp=v-vp]
 v
 v,
 v.
-[qp, =v(1-p), \ , "Divide both sides by\ "'\\y01d7cf'-'\\y01d491'.], [ (qp)/(1-p) , =v]
+[qp, =v(1-p), \ , "Divide both sides by\ "bb 1-bii p.], [ (qp)/(1-p) , =v]
 a:
 (2ab)/(a+b) = H
 a =
@@ -34964,7 +34859,6 @@ t_1
 t_2
 1
 1
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -34994,8 +34888,8 @@ t
 16
 4.
 log_2 16 = 4
-t = '\\y01d7d2'
-P('\\y01d7d2') = 50*2^'\\y01d7d2' = 800
+t = bb 4
+P(bb 4) = 50*2^bb 4 = 800
 b
 x,
 b > 0, b != 1,
@@ -35011,11 +34905,11 @@ log_5 sqrt(5)
 log_3 9,
 3
 9.
-'\\y01d7d0',
-[log_3 9='\\y01d7d0', \ , \ , "because", \ , 3^'\\y01d7d0' =9]
-log_5 125 = '\\y01d7d1'\ "\because\ "\ 5^'\\y01d7d1' = 125
-log_4 1/16 = -'\\y01d7d0'\ "\because\ "\ 4^(-'\\y01d7d0') = 1/16
-log_5 sqrt(5) = '\\y01d7cf'/'\\y01d7d0' \ "\because\ "\ 5^('\\y01d7cf'//'\\y01d7d0') = sqrt(5)
+bb 2,
+[log_3 9=bb 2, \ , \ , "because", \ , 3^bb 2=9]
+log_5 125 = bb 3\ "\because\ "\ 5^bb 3 = 125
+log_4 1/16 = -bb 2\ "\because\ "\ 4^(-bb 2) = 1/16
+log_5 sqrt(5) = bb 1/bb 2\ "\because\ "\ 5^(bb 1//bb 2) = sqrt(5)
 log_3 81 =
 log_(10) 1/1000 =
 4
@@ -35026,7 +34920,7 @@ log_(10) 1/1000 =
 b > 0,
 b != 1,
 x > 0,
-'\\y01d49a' = log_'\\y01d483' '\\y01d499'\ "\if and only if\ "\ '\\y01d499' = '\\y01d483'^'\\y01d49a'
+bii y = log_bii b bii x\ "\if and only if\ "\ bii x = bii b^bii y
 y,
 x = b^y.
 b
@@ -35129,12 +35023,12 @@ x
 2^(4.6) = 24.251
 4.2
 2^(4.2) = 18.379
-'\\y01d7d2'.'\\y01d7d5'
-2^('\\y01d7d2'.'\\y01d7d5') = 25.992
+bb 4.bb 7
+2^(bb 4.bb 7) = 25.992
 4.3
 2^(4.3) = 19.698
-'\\y01d7d2'.'\\y01d7d6'
-2^('\\y01d7d2'.'\\y01d7d6') = 27.858
+bb 4.bb 8
+2^(bb 4.bb 8) = 27.858
 4.4
 2^(4.4) = 21.112
 4.9
@@ -35216,7 +35110,7 @@ t = log_(10)22.5 ~~ 1.352182518
 10:
 95
 -15
-[-57, =-15*10^(0.4x), \ , "Divide by\ "-'\\y01d7cf''\\y01d7d3'.], [3.8, =10^(0.4x)]
+[-57, =-15*10^(0.4x), \ , "Divide by\ "-bb 1bb 5.], [3.8, =10^(0.4x)]
 log_(10)3.8 = 0.4x
 x
 (log_(10)3.8)/0.4 = x
@@ -35428,7 +35322,6 @@ log_2[log_2(log_3 81)]
 log_4[log_2(log_3 81)]
 log_b(log_b b)
 log_b(log_a a^b)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -35492,7 +35385,7 @@ B.
 -3
 -3("row\ "1)
 "row\ "2:
-[[1, -4, -5], [3, 6, 3]]overset(overset(-'\\y01d7d1'("row\ "'\\y01d7cf')+"row\ "'\\y01d7d0')(->))[[1, -4, -5], [0, 18, 18]]
+[[1, -4, -5], [3, 6, 3]]overset(overset(-bb 3("row\ "bb 1)+"row\ "bb 2)(->))[[1, -4, -5], [0, 18, 18]]
 [[1, -3, 7], [-2, 4, -6]]'\\x0027f6'[[1, -3, 7], [0, ?, ?]]
 [\ 0
 |
@@ -35500,12 +35393,12 @@ B.
 2
 -2
 8
-'\\y01d7d0'("row\ "'\\y01d7cf')+"row\ "'\\y01d7d0':[[1, -3, 7], [0, -2, 8]]
+bb 2("row\ "bb 1)+"row\ "bb 2:[[1, -3, 7], [0, -2, 8]]
 [[1, -3, 1, -4], [3, -1, -1, 8], [2, -2, 3, -1]]'\\x0027f6'[[1, -3, 1, -4], [0, ?, ?, ?], [0, 0, ?, ?]]
-[[1, -3, 1, -4], [3, -1, -1, 8], [2, -2, 3, -1]]overset(overset(-'\\y01d7d0'("row\ "'\\y01d7cf')+"row\ "'\\y01d7d1')(->))[[1, -3, 1, -4], [0, 8, -4, 20], [0, 4, 1, 7]]
+[[1, -3, 1, -4], [3, -1, -1, 8], [2, -2, 3, -1]]overset(overset(-bb 2("row\ "bb 1)+"row\ "bb 3)(->))[[1, -3, 1, -4], [0, 8, -4, 20], [0, 4, 1, 7]]
 -12("row\ "2)
 "row\ "3:
-[[1, -3, 1, -4], [0, 8, -4, 20], [0, 4, 1, 7]]overset(overset( (-'\\y01d7cf')/'\\y01d7d0' ("row\ "'\\y01d7d0')+"row\ "'\\y01d7d1')(->))[[1, -3, 1, -4], [0, 8, -4, 20], [0, 0, 3, -3]]
+[[1, -3, 1, -4], [0, 8, -4, 20], [0, 4, 1, 7]]overset(overset( (-bb 1)/bb 2("row\ "bb 2)+"row\ "bb 3)(->))[[1, -3, 1, -4], [0, 8, -4, 20], [0, 0, 3, -3]]
 [[1, -2, 4, 3], [5, -7, 8, 6], [-2, 6, -7, 6]]'\\x0027f6'[[1, -2, 4, 3], [0, ?, ?, ?], [0, 0, ?, ?]]
 -5("row\ "1)
 ("row\ "2).
@@ -35543,12 +35436,12 @@ B.
 [x, -, 2y, =, -5], [2x, +, 3y, =, 11]
 [[1, -2, -5], [2, 3, 11]]
 0
-[[1, -2, -5], [2, 3, 11]]overset(overset(-'\\y01d7d0'("row\ "'\\y01d7cf')+"row\ "'\\y01d7d0')(->))[[1, -2, -5], [0, 7, 21]]
+[[1, -2, -5], [2, 3, 11]]overset(overset(-bb 2("row\ "bb 1)+"row\ "bb 2)(->))[[1, -2, -5], [0, 7, 21]]
 [x, -, 2y, =, -5, (1)], [\ , \ , 7y, =, 21, (2)]
 y = 3.
 3
 y
-[x-2('\\y01d7d1'), =-5], [x, =1]
+[x-2(bb 3), =-5], [x, =1]
 (1, 3).
 [x, +, 4y, =, 3], [3x, +, 8y, =, 1]
 -3("row\ "1)
@@ -35594,15 +35487,15 @@ x = -1.
 1,
 [[0, 1, 2, 3], [1, 2, 3, 4], [2, 5, 1, 4]]
 [[1, 2, 3, 4], [0, 1, 2, 3], [2, 5, 1, 4]]
-overset(overset(-'\\y01d7d0'("row\ "'\\y01d7cf')+"row\ "'\\y01d7d1')(->))[[1, 2, 3, 4], [0, 1, 2, 3], [0, 1, -5, -4]]overset(overset(-("row\ "'\\y01d7d0')+"row\ "'\\y01d7d1')(->))[[1, 2, 3, 4], [0, 1, 2, 3], [0, 0, -7, -7]]
+overset(overset(-bb 2("row\ "bb 1)+"row\ "bb 3)(->))[[1, 2, 3, 4], [0, 1, 2, 3], [0, 1, -5, -4]]overset(overset(-("row\ "bb 2)+"row\ "bb 3)(->))[[1, 2, 3, 4], [0, 1, 2, 3], [0, 0, -7, -7]]
 "Interchange two rows"
 [-w, +, x, -, y, +, z, =, 7], [2w, -, 2x, -, 4y, -, 5z, =, -17], [-3w, +, 9x, +, 3y, +, 6z, =, 30], [4w, +, 8x, -, 2y, +, 5z, =, 17]
 [[-1, 1, -1, 1, 7], [2, -2, -4, -5, -17], [-3, 9, 3, 6, 30], [4, 8, -2, 5, 17]]
 0
 \
-'\\y01d7d0'("row\ "'\\y01d7cf')+"row\ "'\\y01d7d0'
--'\\y01d7d1'("row\ "'\\y01d7cf')+"row\ "'\\y01d7d1'
-'\\y01d7d2'("row\ "'\\y01d7cf')+"row\ "'\\y01d7d2'
+bb 2("row\ "bb 1)+"row\ "bb 2
+-bb 3("row\ "bb 1)+"row\ "bb 3
+bb 4("row\ "bb 1)+"row\ "bb 4
 [[-1, 1, -1, 1, 7], [0, 0, -6, -3, -3], [0, 6, 6, 3, 9], [0, 12, -6, 9, 45]]
 0
 [[-1, 1, -1, 1, 7], [0, 6, 6, 3, 9], [0, 0, -6, -3, -3], [0, 12, -6, 9, 45]]
@@ -35611,12 +35504,12 @@ overset(overset(-'\\y01d7d0'("row\ "'\\y01d7cf')+"row\ "'\\y01d7d1')(->))[[1, 2,
 \
 \
 \
--'\\y01d7d0'("row\ "'\\y01d7d0')+"row\ "'\\y01d7d2'
+-bb 2("row\ "bb 2)+"row\ "bb 4
 [[-1, 1, -1, 1, 7], [0, 6, 6, 3, 9], [0, 0, -6, -3, -3], [0, 0, -18, 3, 27]]
 \
 \
 \
--'\\y01d7d1'("row\ "'\\y01d7d1')+"row\ "'\\y01d7d2'
+-bb 3("row\ "bb 3)+"row\ "bb 4
 [[-1, 1, -1, 1, 7], [0, 6, 6, 3, 9], [0, 0, -6, -3, -3], [0, 0, 0, 12, 36]]
 [-w, +, x, -, y, +, z, =, 7], [\ , \ , 6x, +, 6y, +, 3z, =, 9], [\ , \ , \ , \ , 6y, +, 3z, =, -3], [\ , \ , \ , \ , \ , \ , 12z, =, 36]
 z = 3,
@@ -35763,7 +35656,6 @@ b,
 a,
 c,
 d
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -35923,7 +35815,6 @@ a_n = 512(0.72)^(n-1)
 1+(-2)+(-5)+cdots+(-41)+(-44)
 6+2+2/3+cdots+2/81+2/243
 12+3+3/4+cdots+3/64+3/128
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -35937,7 +35828,6 @@ x
 3 xx 3
 3 xx 3
 root(n)(x^n)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -36148,7 +36038,6 @@ p/q = r/(q+r) ,
 q
 I = E/(R+r/n) ,
 R
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -36474,9 +36363,9 @@ t
 2
 5
 P(t) = 10*2^(t//5)
-P = '\\y01d7cf''\\y01d7ce','\\y01d7d0''\\y01d7d2''\\y01d7ce'
+P = bb 1bb 0,bb 2bb 4bb 0
 t:
-['\\y01d7cf''\\y01d7ce','\\y01d7d0''\\y01d7d2''\\y01d7ce', =10*2^(t//5), \ , "Divide both sides by 10."], [1024, =2^(t//5), \ , "Write 1024 as a power of 2."], [2^(10), =2^(t//5)]
+[bb 1bb 0,bb 2bb 4bb 0, =10*2^(t//5), \ , "Divide both sides by 10."], [1024, =2^(t//5), \ , "Write 1024 as a power of 2."], [2^(10), =2^(t//5)]
 10 = t/5,
 t = 50.
 10,240
@@ -36928,7 +36817,6 @@ CO_2
 316.75
 0.4%
 CO_2
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -36942,7 +36830,6 @@ x
 3 xx 3
 3 xx 3
 root(n)(x^n)
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -36995,14 +36882,14 @@ e,
 e ~~ 2.71828182845
 f(x) = e^x.
 g(x) = ln x = log_e x.
-'\\y01d49a' = ln'\\y01d499'\ "\if and only if\ "\ '\\y01d486'^'\\y01d49a' = '\\y01d499'
+bii y = ln bii x\ "\if and only if\ "\ bii e^bii y = bii x
 x, y > 0,
 ln(xy) = ln x+ln y
 ln x/y = ln x-ln y
 ln x^k = kln x
 ln e^x = x", for all\ "x"\and\ "e^(ln x) = x", for\ "x > 0
 e.
-'\\y01d477'('\\y01d495') = '\\y01d477'_'\\y01d7ce' '\\y01d486'^('\\y01d48c''\\y01d495')
+bii P(bii t) = bii P_bb 0 bii e^(bii kbii t)
 k > 0,
 k < 0.
 t
@@ -37169,7 +37056,6 @@ x
 85
 9.0
 8.3?
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -37185,7 +37071,7 @@ x
 root(n)(x^n)
 3
 3
-'\\y01d477'('\\y01d495') = '\\y01d477'_'\\y01d7ce' '\\y01d483'^'\\y01d495'
+bii P(bii t) = bii P_bb 0 bii b^bii t
 [\ , "where\ ", \ , P_0=P(0), \ , "is the\ ""\bb i bb n bb i bb t bb i bb a bb l bb v bb a bb l bb u bb e ",], [\ , and, \ , b, \ , "is the\ ""\bb g bb r bb o bb w bb t bb h bb f bb a bb c bb t bb o bb r ".]
 P(t) = 100*3^t
 P_0 = 100
@@ -37201,11 +37087,11 @@ b = 2.
 t
 P(t) = 300*2^t
 8
-P('\\y01d7d6') = 300*2^'\\y01d7d6' = 76, 800"\bacteria"
+P(bb 8) = 300*2^bb 8 = 76, 800"\bacteria"
 5
 5/7
 5
-P( '\\y01d7d3'/'\\y01d7d5' ) = 300*2^('\\y01d7d3'//'\\y01d7d5') = 492.2
+P(bb 5/bb 7) = 300*2^(bb 5//bb 7) = 492.2
 492.
 300*2^8 != 600^8
 2^8
@@ -37245,11 +37131,11 @@ root(3)(4)
 50
 2
 3
-P(t) = 50*2^(t//2) = 50*('\\y01d7d0'^('\\y01d7cf'//'\\y01d7d0'))^t
-'\\y01d7d0'^('\\y01d7cf'//'\\y01d7d0'),
+P(t) = 50*2^(t//2) = 50*(bb 2^(bb 1//bb 2))^t
+bb 2^(bb 1//bb 2),
 1.41.
-P(t) = 50*3^(t//3) = 50*('\\y01d7d1'^('\\y01d7cf'//'\\y01d7d1'))^t
-'\\y01d7d1'^('\\y01d7cf'//'\\y01d7d1'),
+P(t) = 50*3^(t//3) = 50*(bb 3^(bb 1//bb 3))^t
+bb 3^(bb 1//bb 3),
 1.44.
 5078
 I(t),
@@ -37268,12 +37154,12 @@ I(t) = 5078*2^(t//5)
 1
 [A, =P+Pr, \ , "Factor out P."], [\ , =P(1+r)]
 1
-[A, =P(1+r)], [\ , =100(1+0.05)], [\ , =100(1.05)='\\y01d7cf''\\y01d7ce''\\y01d7d3']
+[A, =P(1+r)], [\ , =100(1+0.05)], [\ , =100(1.05)=bb 1bb 0bb 5]
 P = 105.
-[A, =P(1+r)], [\ , ='\\y01d7cf''\\y01d7ce''\\y01d7d3'(1+0.05)], [\ , =105(1.05)=110.25]
+[A, =P(1+r)], [\ , =bb 1bb 0bb 5(1+0.05)], [\ , =105(1.05)=110.25]
 1+r = 1.05.
-[A, =[100(1.05)](1.05)], [\ , =100('\\y01d7cf'.'\\y01d7ce''\\y01d7d3')^'\\y01d7d0' ]
-[A, =[100(1.05)^2](1.05)], [\ , =100('\\y01d7cf'.'\\y01d7ce''\\y01d7d3')^'\\y01d7d1' ]
+[A, =[100(1.05)](1.05)], [\ , =100(bb 1.bb 0bb 5)^bb 2]
+[A, =[100(1.05)^2](1.05)], [\ , =100(bb 1.bb 0bb 5)^bb 3]
 1.05
 A(t)
 t
@@ -37298,7 +37184,7 @@ P
 r
 t
 A(t)
-'\\y01d468'('\\y01d495') = '\\y01d477'('\\y01d7cf'+'\\y01d493')^'\\y01d495'
+bii A(bii t) = bii P(bb 1+bii r)^bii t
 [\ , P, \ , "is the principal invested,"], [\ , r, \ , "is the interest rate,"], [\ , t, \ , "is the time period, in years."]
 P
 b = 1+r.
@@ -37325,12 +37211,12 @@ t
 1.12.
 P = 2(1.12)^(2t)
 t.
-[P('\\y01d7d1'), =2(1.12)^(2('\\y01d7d1'))], [\ , =2(1.12)^6~~3.95]
+[P(bb 3), =2(1.12)^(2(bb 3))], [\ , =2(1.12)^6~~3.95]
 3
 3.95.
 1.25
 P(1.25).
-[P('\\y01d7cf'.'\\y01d7d0''\\y01d7d3'), =2(1.12)^(2('\\y01d7cf'.'\\y01d7d0''\\y01d7d3'))], [\ , =2(1.12)^(2.5)~~2.66]
+[P(bb 1.bb 2bb 5), =2(1.12)^(2(bb 1.bb 2bb 5))], [\ , =2(1.12)^(2.5)~~2.66]
 15
 2.66.
 P(t) = 2(1.12)^(2t)
@@ -37462,12 +37348,12 @@ t
 1.5
 V(t) = 50,000(0.50)^(t//1.5)
 1
-V('\\y01d7cf') = 50,000(0.50)^('\\y01d7cf'//1.5) = 50,000(0.63)
+V(bb 1) = 50,000(0.50)^(bb 1//1.5) = 50,000(0.63)
 63
 1-0.63,
 37
 5
-V('\\y01d7d3') = 50,000(0.50)^('\\y01d7d3'//1.5) = 4960.628
+V(bb 5) = 50,000(0.50)^(bb 5//1.5) = 4960.628
 B(t),
 t
 B(t) =
@@ -38084,7 +37970,6 @@ E(t)
 6000
 1998.
 2010
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -38322,7 +38207,6 @@ c_1 = 3; \ c_n = (sqrt(1+c_(n-1)))/2
 d_1 = 8; \ d_n = (sqrt(1+d_(n-1)))/2
 s_1 = 1; \ s_n = 1/2(s_(n-1)+4/(s_(n-1)) )
 t_1 = 1; \ t_n = 1/2(t_(n-1)+9/(t_(n-1)) )
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)
@@ -38505,7 +38389,7 @@ k
 [39.2, =k(4), \ , "Divide both sides by 4."], [k, =9.8]
 v(t) = 9.8t.
 t = 6.
-v('\\y01d7d4') = 9.8('\\y01d7d4') = 58.8
+v(bb 6) = 9.8(bb 6) = 58.8
 t = 6
 58.8
 v(t) = 9.8t.
@@ -39330,7 +39214,6 @@ y
 z,
 x
 z?
-"\\delimitershortfall"-1sp
 x
 n
 a^(m//n)

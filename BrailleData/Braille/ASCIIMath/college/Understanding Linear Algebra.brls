@@ -67,9 +67,9 @@ A
 Abb x
 bb x
 Abb x?
-'\\y01d7ce'.
+bb 0.
 A
-A'\\y01d7ce'?
+Abb 0?
 I = [[1, 0, 0], [0, 1, 0], [0, 0, 1]]
 bb x = [[x_1], [x_2], [x_3]].
 Ibb x
@@ -86,8 +86,8 @@ A.
 [[-2, 3], [0, 2], [3, 1]][[2], [3]] = 2[[-2], [**], [**]]+3[[3], [**], [**]] = [[2(-2)+3(3)], [**], [**]] = [[5], [**], [**]].
 2(3)+3(1) = 9.
 [[1, 2, 0, -1], [2, 4, -3, -2], [-1, -2, 6, 1]][[3], [1], [-1], [1]]
-A = [[-2, 0], [3, 1], [4, 2]], '\\y01d7ce' = [[0], [0]], bb v = [[-2], [3]], bb w = [[1], [2]].
-A'\\y01d7ce'?
+A = [[-2, 0], [3, 1], [4, 2]], bb 0 = [[0], [0]], bb v = [[-2], [3]], bb w = [[1], [2]].
+Abb 0?
 A(3bb v)
 3(Abb v)
 A(bb v+bb w)
@@ -96,7 +96,7 @@ A
 bb v
 bb w
 c
-A'\\y01d7ce' = '\\y01d7ce'.
+Abb 0 = bb 0.
 A(cbb v) = cAbb v.
 A(bb v+bb w) = Abb v+Abb w.
 A
@@ -161,7 +161,7 @@ A = [[3, -1, 0], [-2, 0, 6]], \ bb b = [[-6], [2]].
 [[1, 2, 0, -1], [2, 4, -3, -2], [-1, -2, 6, 1]]bb x = [[-1], [1], [5]].
 A
 m xx n
-Abb x = '\\y01d7ce'?
+Abb x = bb 0?
 A
 B,
 AB
@@ -279,9 +279,9 @@ A[[1], [0]], \ A[[2], [3]], \ A[[0], [-3]].
 bb x
 Abb x = bb b.
 bb x
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 A = [[1, 0, 2], [2, 2, 2], [-1, -3, 1]].
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 3 xx 2
 B
 AB = 0.
@@ -353,18 +353,18 @@ A?
 A.
 bb c
 Abb x = bb c
-Abb x = '\\y01d7ce'?
+Abb x = bb 0?
 A = [[bb v_1, bb v_2, bb v_3, bb v_4]].
 bb v_1,
 bb v_2,
 bb v_3,
 bb v_4
 A = [[1, 2, 4], [-2, 1, -3], [3, 1, 7]].
-Abb x = '\\y01d7ce'
+Abb x = bb 0
 Abb x = bb b
 bb b = [[-3], [-4], [1]].
 bb x_h
-Abb x_h = '\\y01d7ce'.
+Abb x_h = bb 0.
 bb x_p
 Abb x = bb b;
 Abb x_p = bb b.
@@ -534,10 +534,10 @@ bb w_2*bb x = 0.
 bb x
 bb w_1
 bb w_2,
-Bbb x = '\\y01d7ce'
+Bbb x = bb 0
 B.
 B
-Bbb x = '\\y01d7ce'.
+Bbb x = bb 0.
 bb w_1
 bb w_2
 W,
@@ -578,7 +578,7 @@ bb x
 bb w_1
 bb w_2.
 [bb w_1*bb x, "<mi//>"=-x_1-2x_2+2x_3+3x_4-4x_5, "<mi//>"=0], [bb w_2*bb x, "<mi//>"=2x_1+4x_2+2x_3+0x_4+2x_5, "<mi//>"=0]
-Bbb x = '\\y01d7ce'
+Bbb x = bb 0
 B = [[-1, -2, 2, 3, -4], [2, 4, 2, 0, 2]]~[[1, 2, 0, -1, 2], [0, 0, 1, 1, -1]].
 bb x = [[x_1], [x_2], [x_3], [x_4], [x_5]] = x_2[[-2], [1], [0], [0], [0]]+x_4[[1], [0], [-1], [1], [0]]+x_5[[-2], [0], [1], [0], [1]].
 bb w_1
@@ -626,7 +626,7 @@ bb v_1
 bb v_2.
 "Nul"(A^T),
 A^T,
-A^T bb x = '\\y01d7ce'.
+A^T bb x = bb 0.
 bb x
 "Nul"(A^T),
 bb x
@@ -659,7 +659,7 @@ A^T bb x = [[bb w_1*bb x], [bb w_2*bb x]] = [[0], [0]].
 bb x
 bb w_1
 bb w_2
-A^T bb x = '\\y01d7ce'.
+A^T bb x = bb 0.
 A^T
 bb x = x_3[[-2], [1], [1], [0]]+x_4[[-1], [-2], [0], [1]].
 bb w_1
@@ -677,7 +677,7 @@ A
 A,
 W = "Col"(A).
 W^_|_ = "Col"(A)^_|_
-A^T bb x = '\\y01d7ce'.
+A^T bb x = bb 0.
 "Nul"(A^T),
 A^T.
 A,
@@ -1865,10 +1865,10 @@ hat bb b-bb b
 "Nul"(A^T).
 hat bb b-bb b
 "Nul"(A^T),
-A^T(hat bb b-bb b) = '\\y01d7ce'.
+A^T(hat bb b-bb b) = bb 0.
 hat bb x
 A hat bb x = hat bb b,
-[A^T(A hat bb x-bb b), "<mi//>"='\\y01d7ce'], [A^T A hat bb x-A^T bb b, "<mi//>"='\\y01d7ce'], [A^T A hat bb x, "<mi//>"=A^T bb b.]
+[A^T(A hat bb x-bb b), "<mi//>"=bb 0], [A^T A hat bb x-A^T bb b, "<mi//>"=bb 0], [A^T A hat bb x, "<mi//>"=A^T bb b.]
 A
 hat bb x
 Abb x = bb b
@@ -2073,7 +2073,7 @@ QR
 Abb x = bb b
 AA^T bb x = Abb b
 Abb x = bb b.
-hat bb x = '\\y01d7ce',
+hat bb x = bb 0,
 bb b?
 A
 Abb x = bb b?
@@ -2135,16 +2135,16 @@ A^T A hat bb x = A^T bb b
 A
 A^T A hat bb x = A^T bb b
 bb x
-A^T Abb x = '\\y01d7ce'.
-Abb x = '\\y01d7ce'.
-[A^T Abb x, "<mi//>"='\\y01d7ce'], [bb x*A^T Abb x, "<mi//>"=bb x*'\\y01d7ce'=0], [(Abb x)*(Abb x), "<mi//>"=0], [|Abb x|^2, "<mi//>"=0.]
-A^T Abb x = '\\y01d7ce',
-Abb x = '\\y01d7ce'.
+A^T Abb x = bb 0.
+Abb x = bb 0.
+[A^T Abb x, "<mi//>"=bb 0], [bb x*A^T Abb x, "<mi//>"=bb x*bb 0=0], [(Abb x)*(Abb x), "<mi//>"=0], [|Abb x|^2, "<mi//>"=0.]
+A^T Abb x = bb 0,
+Abb x = bb 0.
 A
-Abb x = '\\y01d7ce',
+Abb x = bb 0,
 bb x?
-A^T Abb x = '\\y01d7ce'
-bb x = '\\y01d7ce'.
+A^T Abb x = bb 0
+bb x = bb 0.
 A
 A^T A hat bb x = A^T bb b
 R^2
@@ -2154,14 +2154,14 @@ A hat bb x = hat bb b.
 A
 m xx n
 m
-'\\y01d7cf' = [[1], [1], [vdots], [1]].
+bb 1 = [[1], [1], [vdots], [1]].
 bar bb b,
 bb b,
-bar bb b = 1/m bb b*'\\y01d7cf'.
-'\\y01d7cf'
+bar bb b = 1/m bb b*bb 1.
+bb 1
 "Col"(A).
 bb b = hat bb b+bb b^_|_,
-bb b^_|_*'\\y01d7cf' = 0
+bb b^_|_*bb 1 = 0
 bb b^_|_
 m
 bb v
@@ -2461,12 +2461,12 @@ bb b = [[3], [3], [-1]]
 "Span"{bb v_1, bb v_2, bb v_3}?
 "Span"{bb v_1, bb v_2, bb v_3}.
 bb v_1, bb v_2, ..., bb v_n.
-'\\y01d7ce'
+bb 0
 "Span"{bb v_1 bb v_2, ..., bb v_n}?
 A
 m xx n
-Abb x = '\\y01d7ce'
-"Span"{'\\y01d7ce', '\\y01d7ce', ..., '\\y01d7ce'}?
+Abb x = bb 0
+"Span"{bb 0, bb 0, ..., bb 0}?
 bb b
 bb b
 RR^2
@@ -2550,7 +2550,7 @@ A?
 bb c
 RR^(12),
 Abb x = bb c?
-Abb x = '\\y01d7ce'?
+Abb x = bb 0?
 bb v_1 = [[3], [1], [3], [-1]], bb v_2 = [[0], [-1], [-2], [2]], bb v_3 = [[-3], [-3], [-7], [5]].
 bb v_3
 bb v_1
@@ -3376,7 +3376,7 @@ QR
 k
 A
 A.
-[['\\y01d7cf', 0, **, 0], [0, '\\y01d7cf', **, 0], [0, 0, 0, '\\y01d7cf'], [0, 0, 0, 0]].
+[[bb 1, 0, **, 0], [0, bb 1, **, 0], [0, 0, 0, bb 1], [0, 0, 0, 0]].
 [[2, 4, 6, -1], [-3, 1, 5, 0], [1, 3, 5, 1]]~[[1, 0, -1, 0], [0, 1, 2, 0], [0, 0, 0, 1]].
 3 xx 5
 3 xx 5
@@ -3555,7 +3555,7 @@ bb v*bb w = |bb v||bb w|cos theta = |bb v||bb w|cos 90\circ = 0.
 bb v
 bb w
 bb v*bb w = 0.
-'\\y01d7ce'.
+bb 0.
 bb u,
 bb v,
 bb w,
@@ -4338,7 +4338,7 @@ bb v_i
 Q
 V = Q.
 [Abb v_1=[[0], [-12]]=12bb u_1,\ , bb u_1=[[0], [-1]]], [Abb v_2=[[3], [0]]=3bb u_1,\ , bb u_1=[[1], [0]]], [Abb v_3=[[0], [0]]]
-Abb v_3 = '\\y01d7ce'.
+Abb v_3 = bb 0.
 U = [[0, 1], [-1, 0]], \ Sigma = [[12, 0, 0], [0, 3, 0]], \ V = [[1//3, 2//3, 2//3], [2//3, -2//3, 1//3], [2//3, 1//3, -2//3]],
 A = U Sigma V^T.
 U
@@ -4397,10 +4397,10 @@ bb u_2
 c_1,
 c_2,
 c_3
-Abb x = '\\y01d7ce'?
+Abb x = bb 0?
 bb v_i
 "Nul"(A),
-Abb x = '\\y01d7ce'?
+Abb x = bb 0?
 bb b
 "Col"(A)
 Abb x = bb b
@@ -4438,8 +4438,8 @@ A
 bb u_1, bb u_2, ..., bb u_r
 "Col"(A).
 bb x = c_1 bb v_1+c_2 bb v_2+...+c_5 bb v_5
-Abb x = '\\y01d7ce',
-Abb x = sigma_1 c_1 bb u_1+sigma_2 c_2 bb u_2+sigma_3 c_3 bb u_3 = '\\y01d7ce',
+Abb x = bb 0,
+Abb x = sigma_1 c_1 bb u_1+sigma_2 c_2 bb u_2+sigma_3 c_3 bb u_3 = bb 0,
 c_1 = 0,
 c_2 = 0,
 c_3 = 0.
@@ -4526,7 +4526,7 @@ r = "rank"(A).
 r < m,
 bb u_(r+1), ..., bb u_m.
 "Nul"(A^T),
-A^T bb x = '\\y01d7ce'
+A^T bb x = bb 0
 "Nul"(A^T)
 A = U Sigma V^T
 U = [[bb u_1, bb u_2, bb u_3, bb u_4]], \ Sigma = [[18, 0, 0], [0, 4, 0], [0, 0, 0], [0, 0, 0]], \ V = [[bb v_1, bb v_2, bb v_3]].
@@ -5231,8 +5231,8 @@ k
 Abb x = bb b
 A
 RR^m.
-bb x = '\\y01d7ce'
-Abb x = '\\y01d7ce'
+bb x = bb 0
+Abb x = bb 0
 A
 2 xx 2
 2 xx 2
@@ -5838,11 +5838,11 @@ bb v_1 = [[2], [1]], bb v_2 = [[-1], [1]], bb v_3 = [[-2], [0]]
 c_1 = 2,
 c_2 = -3,
 c_3 = 1.
-'\\y01d7ce' = [[0], [0]]
+bb 0 = [[0], [0]]
 bb v_1,
 bb v_2,
 bb v_3?
-'\\y01d7ce' = [[0], [0]]
+bb 0 = [[0], [0]]
 bb v_1
 bb v_2?
 bb v_3
@@ -5995,7 +5995,7 @@ bb w_1, bb w_2, ..., bb w_n,
 bb b = (bb b*bb w_1)/(bb w_1*bb w_1) bb w_1+ (bb b*bb w_2)/(bb w_2*bb w_2) bb w_2+cdots+ (bb b*bb w_n)/(bb w_n*bb w_n) bb w_n.
 bb w_1, bb w_2, ..., bb w_n
 bb w_3 = c_1 bb w_1+c_2 bb w_2.
-bb w_3 = (bb w_3*bb w_1)/(bb w_1*bb w_1) bb w_1+ (bb w_3*bb w_2)/(bb w_2*bb w_1) bb w_2 = '\\y01d7ce',
+bb w_3 = (bb w_3*bb w_1)/(bb w_1*bb w_1) bb w_1+ (bb w_3*bb w_2)/(bb w_2*bb w_1) bb w_2 = bb 0,
 bb w_3
 bb w_1, bb w_2, ..., bb w_n
 m,
@@ -6440,7 +6440,7 @@ Q
 Q^T Q = I_5.
 bb b
 W
-hat bb b = '\\y01d7ce',
+hat bb b = bb 0,
 bb b
 W^_|_.
 Q
@@ -6506,15 +6506,15 @@ RR^p.
 m xx n
 A,
 A
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 A
 A = [[2, -1, 2, 3], [1, 0, 0, 2], [-2, 2, -4, -2]]~[[1, 0, 0, 2], [0, 1, -2, 1], [0, 0, 0, 0]].
 A
 RR^3?
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 bb w_1
 bb w_2
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 bb w_1
 bb w_2?
 A
@@ -6543,14 +6543,14 @@ bb e_1,
 bb e_2,
 bb e_3.
 S = "Span"{bb e_1, bb e_2, bb e_3} = RR^3.
-S = "Span"{'\\y01d7ce'}.
-'\\y01d7ce'.
+S = "Span"{bb 0}.
+bb 0.
 RR^3
 RR^3.
 bb v_1, bb v_2, ..., bb v_n
 RR^m,
-'\\y01d7ce'
-'\\y01d7ce'
+bb 0
+bb 0
 RR^m.
 RR^2
 RR^2,
@@ -6600,7 +6600,7 @@ S,
 S
 RR^4.
 RR^3
-'\\y01d7ce',
+bb 0,
 RR^3.
 RR^3
 RR^3.
@@ -6684,20 +6684,20 @@ A
 m xx n
 bb x
 RR^n
-Abb x = '\\y01d7ce'
+Abb x = bb 0
 A
 "Nul"(A).
 A,
 A,
 A,
-Abb x = '\\y01d7ce',
+Abb x = bb 0,
 "Nul"(A)
 RR^n.
 "Nul"(A)
 A = [[1, 3, -1, 2], [-2, 0, -4, 2], [1, 2, 0, 1]]
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 "Nul"(A).
-Abb x = '\\y01d7ce'
+Abb x = bb 0
 "Nul"(A)
 "Nul"(A).
 "Nul"(A)
@@ -6716,7 +6716,7 @@ A
 "Nul"(A)?
 A
 A = [[2, 0, -4, -6, 0], [-4, -1, 7, 11, 2], [0, -1, -1, -1, 2]]~[[1, 0, -2, -3, 0], [0, 1, 1, 1, -2], [0, 0, 0, 0, 0]].
-Abb x = '\\y01d7ce',
+Abb x = bb 0,
 A
 [x_1, \ , \ , "<mi//>"-, 2x_3, "<mi//>"-, 3x_4, \ , \ , "<mi//>"=, 0], [\ , \ , x_2, "<mi//>"+, x_3, "<mi//>"+, x_4, "<mi//>"-, 2x_5, "<mi//>"=, 0.]
 x_3,
@@ -6725,7 +6725,7 @@ x_5
 [x_1, "<mi//>"=2x_3+3x_4], [x_2, "<mi//>"=-x_3-x_4+2x_5.]
 [bb x, "<mi//>"=[[x_1], [x_2], [x_3], [x_4], [x_5]]=[[2x_3+3x_4], [-x_3-x_4+2x_5], [x_3], [x_4], [x_5]]], [\ ], [\ , "<mi//>"=x_3[[2], [-1], [1], [0], [0]]+x_4[[3], [-1], [0], [1], [0]]+x_5[[0], [2], [0], [0], [1]].]
 bb x
-Abb x = '\\y01d7ce'
+Abb x = bb 0
 bb v_1 = [[2], [-1], [1], [0], [0]], \ bb v_2 = [[3], [-1], [0], [1], [0]], \ bb v_3 = [[0], [2], [0], [0], [1]].
 bb v_1,
 bb v_2,
@@ -6733,7 +6733,7 @@ bb v_3
 "Nul"(A),
 RR^5.
 "Nul"(A)
-Abb x = '\\y01d7ce',
+Abb x = bb 0,
 A
 A
 A
@@ -6748,7 +6748,7 @@ dim\ "Col"(A)+dim\ "Nul"(A) = n.
 bb b
 Abb x = bb b
 "Nul"(A)
-Abb x = '\\y01d7ce',
+Abb x = bb 0,
 S
 RR^p
 RR^p
@@ -6763,10 +6763,10 @@ RR^m.
 A
 dim\ "Col"(A) = "rank"(A).
 "Nul"(A)
-Abb x = '\\y01d7ce'
+Abb x = bb 0
 RR^n.
 "Nul"(A)
-Abb x = '\\y01d7ce',
+Abb x = bb 0,
 dim\ "Nul"(A) = n-"rank"(A).
 A
 A = [[0, 2, 0, -4, 0, 6], [0, -4, -1, 7, 0, -16], [0, 6, 0, -12, 3, 15], [0, 4, -1, -9, 0, 8]]~[[0, 1, 0, -2, 0, 3], [0, 0, 1, 1, 0, 4], [0, 0, 0, 0, 1, -1], [0, 0, 0, 0, 0, 0]].
@@ -6804,7 +6804,7 @@ A
 A
 "Nul"(A) = RR^n.
 "Col"(A) = RR^m
-"Nul"(A) = {'\\y01d7ce'},
+"Nul"(A) = {bb 0},
 A
 B
 "Nul"(BA) = "Nul"(A).
@@ -6844,12 +6844,12 @@ P
 A = P\ [[2, 0, 0], [0, -3, 0], [0, 0, 1]]\ P^(-1).
 "Nul"(A)?
 "Col"(A)?
-Abb x = '\\y01d7ce'
+Abb x = bb 0
 RR^p
 p.
 Abb x = bb b
 A = [[2, -4], [-1, 2]].
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 Abb x = [[4], [-2]]
 Abb x = [[4], [-2]]
 RR^2?
@@ -6858,7 +6858,7 @@ Abb x = bb b
 bb b
 "Col"(A)?
 Abb x = bb b
-bb b = '\\y01d7ce'.
+bb b = bb 0.
 2 xx 2
 2 xx 2
 A
@@ -7534,23 +7534,23 @@ QR
 k
 A
 bb x
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 A?
 det(A)
-Abb x = '\\y01d7ce'?
+Abb x = bb 0?
 A = [[3, -1, 1], [0, 2, 4], [1, 1, 3]].
 det(A).
-Abb x = '\\y01d7ce'?
+Abb x = bb 0?
 "Nul"(A).
 bb v
 Abb v = lambda bb v.
-[Abb v, "<mi//>"=lambda bb v], [Abb v-lambda bb v, "<mi//>"='\\y01d7ce'], [Abb v-lambda Ibb v, "<mi//>"='\\y01d7ce'], [(A-lambda I)bb v, "<mi//>"='\\y01d7ce'.]
+[Abb v, "<mi//>"=lambda bb v], [Abb v-lambda bb v, "<mi//>"=bb 0], [Abb v-lambda Ibb v, "<mi//>"=bb 0], [(A-lambda I)bb v, "<mi//>"=bb 0.]
 bb v
-(A-lambda I)bb v = '\\y01d7ce'.
-(A-lambda I)bb v = '\\y01d7ce'.
-(A-lambda I)bb v = '\\y01d7ce',
+(A-lambda I)bb v = bb 0.
+(A-lambda I)bb v = bb 0.
+(A-lambda I)bb v = bb 0,
 A-lambda I?
-(A-lambda I)bb v = '\\y01d7ce',
+(A-lambda I)bb v = bb 0,
 det(A-lambda I)?
 A = [[1, 2], [2, 1]]
 A-lambda I = [[1, 2], [2, 1]]-lambda[[1, 0], [0, 1]] = [[1-lambda, 2], [2, 1-lambda]].
@@ -7566,7 +7566,7 @@ det(A-lambda I) = 0.
 [[3, -1, 4], [0, -2, 3], [0, 0, 1]].
 A.
 lambda
-(A-lambda I)bb v = '\\y01d7ce'
+(A-lambda I)bb v = bb 0
 A-lambda I
 det(A-lambda I) = 0
 A.
@@ -7595,7 +7595,7 @@ lambda = 4, -2, 3.
 A
 det(A-lambda I) = 0,
 lambda.
-(A-lambda I)bb v = '\\y01d7ce'.
+(A-lambda I)bb v = bb 0.
 lambda
 "Nul"(A-lambda I).
 RR^n.
@@ -7643,7 +7643,7 @@ lambda = 2.
 lambda = 4,
 A-4I = [[-8, 4], [-12, 6]]~[[1, -1//2], [0, 0]].
 bb v = [[v_1], [v_2]]
-(A-4I)bb v = '\\y01d7ce',
+(A-4I)bb v = bb 0,
 v_1-1/2 v_2 = 0
 v_1 = 1/2 v_2.
 E_4
@@ -7667,7 +7667,7 @@ det(A-lambda I) = (lambda+1)^2 = 0,
 lambda = -1.
 A-(-1)I = [[0, 0], [0, 0]],
 bb v
-(A-(-1)I)bb v = '\\y01d7ce'.
+(A-(-1)I)bb v = bb 0.
 E_(-1) = RR^2.
 A
 180\circ,
@@ -7957,7 +7957,7 @@ n
 m
 A?
 bb x
-T(bb x) = '\\y01d7ce'.
+T(bb x) = bb 0.
 A
 A = [[bb v_1, bb v_2]],
 T([[1], [0]])
@@ -8191,7 +8191,7 @@ T([[x_1], [x_2], [x_3]]) = [[3x_1^4-x_2+4x_3], [5x_2-x_3]]
 A = [[1, 3, 1], [-2, 1, 5], [0, 2, 2]]
 T:RR^3 -> RR^3.
 bb x
-T(bb x) = '\\y01d7ce'.
+T(bb x) = bb 0.
 bb x
 T(bb x) = [[-8], [9], [2]].
 bb x
@@ -8205,7 +8205,7 @@ T(bb e_j) = bb v_j.
 T([[2], [1], [2]]).
 T([[0], [1], [0]])?
 bb x
-T(bb x) = '\\y01d7ce'.
+T(bb x) = bb 0.
 T(bb x).
 bb x,
 T(bb x),
@@ -8239,12 +8239,12 @@ A
 4 xx 5
 T:RR^3 -> RR^2
 bb x
-T(bb x) = '\\y01d7ce'.
+T(bb x) = bb 0.
 T:RR^2 -> RR^3
 T(bb x) = bb b
 bb b.
 T:RR^n -> RR^m
-T(bb x) = '\\y01d7ce'
+T(bb x) = bb 0
 M
 Y.
 1
@@ -8629,7 +8629,7 @@ n xx n
 A
 RR^n.
 A
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 A
 n xx n
 Abb x = bb b
@@ -8695,10 +8695,10 @@ A
 B
 B
 AB
-ABbb x = '\\y01d7ce'
-bb x = '\\y01d7ce'.
-Bbb x = '\\y01d7ce'
-bb x = '\\y01d7ce'.
+ABbb x = bb 0
+bb x = bb 0.
+Bbb x = bb 0
+bb x = bb 0.
 B
 A
 AB
@@ -8718,8 +8718,8 @@ bb x
 n
 AB = I,
 ABbb x = bb x
-Bbb x = '\\y01d7ce'
-bb x = '\\y01d7ce'.
+Bbb x = bb 0
+bb x = bb 0.
 B
 C
 BC = I.
@@ -9469,7 +9469,7 @@ T@T@T@T.
 theta
 [[cos theta, -sin theta], [sin theta, cos theta]].
 T:RR^2 -> RR^2
-T('\\y01d7ce') = A'\\y01d7ce' = '\\y01d7ce'.
+T(bb 0) = Abb 0 = bb 0.
 RR^3
 z = 1,
 RR^3
@@ -9964,7 +9964,7 @@ RR^4
 bb w_1,
 bb w_2,
 bb w_3
-'\\y01d7ce',
+bb 0,
 RR^(10)
 [[bb v_1, bb v_2, bb v_3, bb v_4]]~[[1, 0, 2, 0], [0, 1, -3, 0], [0, 0, 0, 1], [0, 0, 0, 0]].
 [[bb v_1, bb v_2, bb v_3]]~[[1, 0, 2], [0, 1, -3], [0, 0, 0], [0, 0, 0]].
@@ -9988,29 +9988,29 @@ m
 RR^m
 m
 A
-Abb x = '\\y01d7ce'
+Abb x = bb 0
 A.
-Abb x = '\\y01d7ce'
+Abb x = bb 0
 A.
 A = [[3, 2, 0], [-1, 0, -2], [2, 1, 1]]
 bb v_1,
 bb v_2,
 bb v_3.
-Abb x = '\\y01d7ce'
+Abb x = bb 0
 c_1,
 c_2,
 c_3
-c_1 bb v_1+c_2 bb v_2+c_3 bb v_3 = '\\y01d7ce'.
+c_1 bb v_1+c_2 bb v_2+c_3 bb v_3 = bb 0.
 bb v_1,
 bb v_2,
 bb v_3
-Abb x = '\\y01d7ce'
+Abb x = bb 0
 A
-Abb x = '\\y01d7ce'
-bb x = '\\y01d7ce'.
+Abb x = bb 0
+bb x = bb 0.
 bb v_1 = [[2], [-4], [1], [0]], \ bb v_2 = [[1], [1], [3], [-2]], \ bb v_3 = [[3], [-3], [4], [-2]]
 A = [[bb v_1, bb v_2, bb v_3]].
-Abb x = '\\y01d7ce'
+Abb x = bb 0
 [[2, 1, 3, 0], [-4, 1, -3, 0], [1, 3, 4, 0], [0, -2, -2, 0]]~[[1, 0, 1, 0], [0, 1, 1, 0], [0, 0, 0, 0], [0, 0, 0, 0]].
 A
 bb v_1,
@@ -10020,8 +10020,8 @@ bb v_3
 bb x = [[x_1], [x_2], [x_3]] = [[-x_3], [-x_3], [x_3]] = x_3[[-1], [-1], [1]].
 x_3 = 1,
 bb x = [[-1], [-1], [1]],
-A[[-1], [-1], [1]] = [[bb v_1, bb v_2, bb v_3]][[-1], [-1], [1]] = -bb v_1-bb v_2+bb v_3 = '\\y01d7ce'.
-[-bb v_1-bb v_2+bb v_3, "<mi//>"='\\y01d7ce'], [bb v_3, "<mi//>"=bb v_1+bb v_2.]
+A[[-1], [-1], [1]] = [[bb v_1, bb v_2, bb v_3]][[-1], [-1], [1]] = -bb v_1-bb v_2+bb v_3 = bb 0.
+[-bb v_1-bb v_2+bb v_3, "<mi//>"=bb 0], [bb v_3, "<mi//>"=bb v_1+bb v_2.]
 bb v_3
 bb v_1
 bb v_2,
@@ -10029,24 +10029,24 @@ A = [[bb v_1, bb v_2, ..., bb v_n]],
 A
 bb v_1, bb v_2, ..., bb v_n
 A
-Abb x = '\\y01d7ce'
+Abb x = bb 0
 c_1, c_2, ..., c_n,
-c_1 bb v_1+c_2 bb v_2+...+c_n bb v_n = '\\y01d7ce'.
+c_1 bb v_1+c_2 bb v_2+...+c_n bb v_n = bb 0.
 RR^m
 m
 A
-Abb x = '\\y01d7ce'
+Abb x = bb 0
 bb v_1, bb v_2, ..., bb v_n
 c_1, c_2, ..., c_n,
-c_1 bb v_1+c_2 bb v_2+...+c_n bb v_n = '\\y01d7ce'.
+c_1 bb v_1+c_2 bb v_2+...+c_n bb v_n = bb 0.
 A = [[bb v_1, bb v_2, ..., bb v_n]].
 bb b
 bb b
 bb v_1, bb v_2, ..., bb v_n
 Abb x = bb b.
 bb v_1, bb v_2, ..., bb v_n
-bb x = '\\y01d7ce'
-Abb x = '\\y01d7ce'.
+bb x = bb 0
+Abb x = bb 0.
 m xx n
 RR^m
 RR^m
@@ -10058,9 +10058,9 @@ c_1,
 c_2,
 c_3,
 c_4,
-c_1 bb v_1+c_2 bb v_2+c_3 bb v_3+c_4 bb v_4 = '\\y01d7ce'.
+c_1 bb v_1+c_2 bb v_2+c_3 bb v_3+c_4 bb v_4 = bb 0.
 A = [[bb v_1, bb v_2, bb v_3, bb v_4]].
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 bb v_1 = [[2], [-1], [0]], bb v_2 = [[1], [2], [1]], bb v_3 = [[2], [-2], [3]].
 "Span"{bb v_1, bb v_2, bb v_3}.
 bb b
@@ -10095,10 +10095,10 @@ A.
 Abb x = bb b
 bb v_1, bb v_2, bb v_3, bb v_4
 RR^5
-2bb v_1-bb v_2+3bb v_3+bb v_4 = '\\y01d7ce'
+2bb v_1-bb v_2+3bb v_3+bb v_4 = bb 0
 A
 A = [[bb v_1, bb v_2, bb v_3, bb v_4]].
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 A
 bb v_1, bb v_2, ..., bb v_n
 RR^(27)

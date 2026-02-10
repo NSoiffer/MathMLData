@@ -43,7 +43,7 @@ a = -1, b = 4, c = 3
 (2-sqrt(7), 0)
 [(2+sqrt(7),0)~~(4.6,0), \ , \ , \ , \ , (2-sqrt(7),0)~~(-0.6,0)]
 f(x) = ax^2+bx+c:
-['\\y01d49a'"-bb i bb n bb t bb e bb r bb c bb e bb p bb t ", \ , \ , \ , \ , '\\y01d499'"-bb i bb n bb t bb e bb r bb c bb e bb p bb t bb s "], ["Let"x=0"and solve for"f(x)., \ , \ , \ , \ , "Let"f(x)=0"and solve for"x.]
+[bii y"-bb i bb n bb t bb e bb r bb c bb e bb p bb t ", \ , \ , \ , \ , bii x"-bb i bb n bb t bb e bb r bb c bb e bb p bb t bb s "], ["Let"x=0"and solve for"f(x)., \ , \ , \ , \ , "Let"f(x)=0"and solve for"x.]
 f(x) = x^2-2x-8.
 x = 0
 f(x)
@@ -5017,7 +5017,7 @@ b^2.
 9y^2+24y+16.
 a^2-2ab+b^2,
 (a-b)^2.
-["bb S bb t bb e bb p'\\y01d7cf'.", "Does the trinomial fit the pattern?", \ , \ , \ a^2+2ab+b^2, \ , \ , a^2-2ab+b^2], [\ , "Is the first term a perfect square?", \ , \ , \ (a)^2, \ , \ , (a)^2], [\ , "Write it as a square.", \ , \ , \ , \ , \ , \ ], [\ , "Is the last term a perfect square?", \ , \ , \ (a)^2\ (b)^2, \ , \ , (a)^2\ (b)^2], [\ , "Write it as a square.", \ , \ , \ , \ , \ , \ ], [\ , "Check the middle term.Is it"2ab?, \ , \ , \ (a)^2\_'\\x002198' underset(2'\\x0000b7'a'\\x0000b7'b)(\ )\_'\\x002199' (b)^2, \ , \ , (a)^2\_'\\x002198' underset(2'\\x0000b7'a'\\x0000b7'b)(\ )\_'\\x002199' (b)^2], ["bb S bb t bb e bb p'\\y01d7d0'.", "Write the square of the binomial.", \ , \ , \ (a+b)^2, \ , \ , (a-b)^2], ["bb S bb t bb e bb p'\\y01d7d1'.", "Check by multiplying.", \ , \ , \ , \ , \ , \ ]
+["bb S bb t bb e bb p bb 1.", "Does the trinomial fit the pattern?", \ , \ , \ a^2+2ab+b^2, \ , \ , a^2-2ab+b^2], [\ , "Is the first term a perfect square?", \ , \ , \ (a)^2, \ , \ , (a)^2], [\ , "Write it as a square.", \ , \ , \ , \ , \ , \ ], [\ , "Is the last term a perfect square?", \ , \ , \ (a)^2\ (b)^2, \ , \ , (a)^2\ (b)^2], [\ , "Write it as a square.", \ , \ , \ , \ , \ , \ ], [\ , "Check the middle term.Is it"2ab?, \ , \ , \ (a)^2\_'\\x002198' underset(2'\\x0000b7'a'\\x0000b7'b)(\ )\_'\\x002199' (b)^2, \ , \ , (a)^2\_'\\x002198' underset(2'\\x0000b7'a'\\x0000b7'b)(\ )\_'\\x002199' (b)^2], ["bb S bb t bb e bb p bb 2.", "Write the square of the binomial.", \ , \ , \ (a+b)^2, \ , \ , (a-b)^2], ["bb S bb t bb e bb p bb 3.", "Check by multiplying.", \ , \ , \ , \ , \ , \ ]
 81y^2-72y+16.
 (a-b)^2.
 (a-b)^2?
@@ -5036,7 +5036,7 @@ a^2-2ab+b^2,
 64y^2-1.
 121m^2-1.
 81y^2-1.
-["bb S bb t bb e bb p'\\y01d7cf'.", "Does the binomial fit the pattern?", \ , \ , \ a^2-b^2], [\ , "Is this a difference?", \ , \ , \ ____-____], [\ , "Are the first and last terms perfect squares?", \ , \ , \ ], ["bb S bb t bb e bb p'\\y01d7d0'.", "Write them as squares.", \ , \ , \ (a)^2-(b)^2], ["bb S bb t bb e bb p'\\y01d7d1'.", "Write the product of conjugates.", \ , \ , \ (a-b)(a+b)], ["bb S bb t bb e bb p'\\y01d7d2'.", "Check by multiplying.", \ , \ , \ ]
+["bb S bb t bb e bb p bb 1.", "Does the binomial fit the pattern?", \ , \ , \ a^2-b^2], [\ , "Is this a difference?", \ , \ , \ ____-____], [\ , "Are the first and last terms perfect squares?", \ , \ , \ ], ["bb S bb t bb e bb p bb 2.", "Write them as squares.", \ , \ , \ (a)^2-(b)^2], ["bb S bb t bb e bb p bb 3.", "Write the product of conjugates.", \ , \ , \ (a-b)(a+b)], ["bb S bb t bb e bb p bb 4.", "Check by multiplying.", \ , \ , \ ]
 a^2+b^2
 144x^2-49y^2.
 144x^2-49y^2
@@ -5161,7 +5161,7 @@ d_1+d_2
 2a
 d_1+d_2 = 2a.
 [[\ ], [\ ], [\ ], [\ ], [\ ], ["Use the distance formula to find"d_1,d_2.], \ , \ , [d_1, +, d_2, =, 2a], [\ ], [\ ], [sqrt((x-(-c))^2+(y-0)^2), +, sqrt((x-c)^2+(y-0)^2), =, 2a]], [\ ], [\ ], [["After eliminating radicals and simplifying,"], ["we get:"], \ , \ , (x^2)/(a^2) + (y^2)/(a^2-c^2) =1], [["To simplify the equation of the ellipse, we"], ["let"a^2-c^2=b^2.], \ , \ , \ ], [["So, the equation of an ellipse centered at the"], ["origin in standard form is:"], \ , \ , (x^2)/(a^2) + (y^2)/(b^2) =1]
-[[\ , \ , \ , '\\y01d49a'"-bb i bb n bb t bb e bb r bb c bb e bb p bb t bb s "], [["Let"x=0.], [\ ], [\ ], [\ ], [\ ], [\ ], [\ ], \ , \ , [ (x^2)/(a^2) + (y^2)/(b^2) , =, 1], [ (0^2)/(a^2) + (y^2)/(b^2) , =, 1], [ (y^2)/(b^2) , =, 1], [y^2, =, b^2], [y, =, +-b]], \ , \ , [\ , \ , \ , '\\y01d499'"-bb i bb n bb t bb e bb r bb c bb e bb p bb t bb s "], [["Let"y=0.], [\ ], [\ ], [\ ], [\ ], [\ ], [\ ], \ , \ , [ (x^2)/(a^2) + (y^2)/(b^2) , =, 1], [ (x^2)/(a^2) + (0^2)/(b^2) , =, 1], [ (x^2)/(a^2) , =, 1], [x^2, =, a^2], [x, =, +-a]]], ["The"y"-intercepts are"(0,b)and(0,-b)., \ , \ , "The"x"-intercepts are"(a,0)and(-a,0).]
+[[\ , \ , \ , bii y"-bb i bb n bb t bb e bb r bb c bb e bb p bb t bb s "], [["Let"x=0.], [\ ], [\ ], [\ ], [\ ], [\ ], [\ ], \ , \ , [ (x^2)/(a^2) + (y^2)/(b^2) , =, 1], [ (0^2)/(a^2) + (y^2)/(b^2) , =, 1], [ (y^2)/(b^2) , =, 1], [y^2, =, b^2], [y, =, +-b]], \ , \ , [\ , \ , \ , bii x"-bb i bb n bb t bb e bb r bb c bb e bb p bb t bb s "], [["Let"y=0.], [\ ], [\ ], [\ ], [\ ], [\ ], [\ ], \ , \ , [ (x^2)/(a^2) + (y^2)/(b^2) , =, 1], [ (x^2)/(a^2) + (0^2)/(b^2) , =, 1], [ (x^2)/(a^2) , =, 1], [x^2, =, a^2], [x, =, +-a]]], ["The"y"-intercepts are"(0,b)and(0,-b)., \ , \ , "The"x"-intercepts are"(a,0)and(-a,0).]
 (0, '\\x00200b''\\x00200b'0)
 (0, '\\x00200b''\\x00200b'0),
 (x^2)/(a^2) + (y^2)/(b^2) = 1
@@ -5321,7 +5321,7 @@ y = -2/3 x.
 2a
 |d_1-d_2| = 2a.
 [\ , \ , \ , \ |d_1-d_2|=2a], ["Use the distance formula to find"d_1,d_2, \ , \ , \ |sqrt((x-(-c))^2+(y-0)^2)-sqrt((x-c)^2+(y-0)^2)|=2a], ["Eliminate the radicals.", \ , \ , \ ], [["To simplify the equation of the ellipse, we"], ["let"c^2-a^2=b^2.], \ , \ , \ (x^2)/(a^2) + (y^2)/(c^2-a^2) =1], [["So, the equation of a hyperbola centered at"], ["the origin in standard form is:"], \ , \ , \ (x^2)/(a^2) - (y^2)/(b^2) =1]
-[[\ , \ , \ , \ , \ , \ '\\y01d499'"-bb i bb n bb t bb e bb r bb c bb e bb p bb t bb s ", \ , \ , \ , \ , \ , \ , \ , \ , \ , \ '\\y01d49a'"-bb i bb n bb t bb e bb r bb c bb e bb p bb t bb s "]], [[\ , \ , \ , \ , \ , (x^2)/(a^2) - (y^2)/(b^2) , =, 1, \ , \ , \ , \ , \ , \ , \ , \ , \ , (x^2)/(a^2) - (y^2)/(b^2) , =, 1], ["Let"y=0., \ , \ , \ , \ , (x^2)/(a^2) - (0^2)/(b^2) , =, 1, \ , \ , \ , \ , \ "Let"x=0., \ , \ , \ , \ , (0^2)/(a^2) - (y^2)/(b^2) , =, 1], [\ , \ , \ , \ , \ , (x^2)/(a^2) , =, 1, \ , \ , \ , \ , \ , \ , \ , \ , \ , - (y^2)/(b^2) , =, 1], [\ , \ , \ , \ , \ , x^2, =, a^2, \ , \ , \ , \ , \ , \ , \ , \ , \ , y^2, =, -b^2], [\ , \ , \ , \ , \ , x, =, +-a, \ , \ , \ , \ , \ , \ , \ , \ , \ , y, =, +-sqrt(-b^2)]], [[\ "The"x"-intercepts are"(a,0)and(-a,0)., \ , \ , \ , \ , \ "There are no"y"-intercepts."]]
+[[\ , \ , \ , \ , \ , \ bii x"-bb i bb n bb t bb e bb r bb c bb e bb p bb t bb s ", \ , \ , \ , \ , \ , \ , \ , \ , \ , \ bii y"-bb i bb n bb t bb e bb r bb c bb e bb p bb t bb s "]], [[\ , \ , \ , \ , \ , (x^2)/(a^2) - (y^2)/(b^2) , =, 1, \ , \ , \ , \ , \ , \ , \ , \ , \ , (x^2)/(a^2) - (y^2)/(b^2) , =, 1], ["Let"y=0., \ , \ , \ , \ , (x^2)/(a^2) - (0^2)/(b^2) , =, 1, \ , \ , \ , \ , \ "Let"x=0., \ , \ , \ , \ , (0^2)/(a^2) - (y^2)/(b^2) , =, 1], [\ , \ , \ , \ , \ , (x^2)/(a^2) , =, 1, \ , \ , \ , \ , \ , \ , \ , \ , \ , - (y^2)/(b^2) , =, 1], [\ , \ , \ , \ , \ , x^2, =, a^2, \ , \ , \ , \ , \ , \ , \ , \ , \ , y^2, =, -b^2], [\ , \ , \ , \ , \ , x, =, +-a, \ , \ , \ , \ , \ , \ , \ , \ , \ , y, =, +-sqrt(-b^2)]], [[\ "The"x"-intercepts are"(a,0)and(-a,0)., \ , \ , \ , \ , \ "There are no"y"-intercepts."]]
 (-a, 0),
 (a, 0)
 (0, -b),
@@ -8840,7 +8840,7 @@ x^2-7xy-10y^2.
 p^2+15pq+20q^2.
 x^2+bx+c.
 x^2+bx+c
-[[x^2+bx+c], [(x+m)(x+n)]], ["bb W bb h bb e bb n "'\\y01d484'"bb i bb s bb p bb o bb s bb i bb t bb i bb v bb e,"'\\y01d48e'"bb a bb n bb d "'\\y01d48f'"bb h bb a bb v bb e bb t bb h bb e bb s bb a bb m bb e bb s bb i bb g bb n."], [b"positive"\ b"negative"], [m,n"positive"\ m,n"negative"], [x^2+5x+6\ x^2-6x+8], [(x+2)(x+3)\ (x-4)(x-2)], ["same signs"\ "same signs"], ["bb W bb h bb e bb n "'\\y01d484'"bb i bb s bb n bb e bb g bb a bb t bb i bb v bb e,"'\\y01d48e'"bb a bb n bb d "'\\y01d48f'"bb h bb a bb v bb e bb o bb p bb p bb o bb s bb i bb t bb e bb s bb i bb g bb n bb s."], [x^2+x-12\ x^2-2x-15], [(x+4)(x-3)\ (x-5)(x+3)], ["opposite signs"\ "opposite signs"]
+[[x^2+bx+c], [(x+m)(x+n)]], ["bb W bb h bb e bb n "bii c"bb i bb s bb p bb o bb s bb i bb t bb i bb v bb e,"bii m"bb a bb n bb d "bii n"bb h bb a bb v bb e bb t bb h bb e bb s bb a bb m bb e bb s bb i bb g bb n."], [b"positive"\ b"negative"], [m,n"positive"\ m,n"negative"], [x^2+5x+6\ x^2-6x+8], [(x+2)(x+3)\ (x-4)(x-2)], ["same signs"\ "same signs"], ["bb W bb h bb e bb n "bii c"bb i bb s bb n bb e bb g bb a bb t bb i bb v bb e,"bii m"bb a bb n bb d "bii n"bb h bb a bb v bb e bb o bb p bb p bb o bb s bb i bb t bb e bb s bb i bb g bb n bb s."], [x^2+x-12\ x^2-2x-15], [(x+4)(x-3)\ (x-5)(x+3)], ["opposite signs"\ "opposite signs"]
 ax^2+bx+c.
 4x^3+16x^2-20x.
 4x^3+16x^2-20x
@@ -15072,7 +15072,7 @@ x = -b/(2a) .
 -b/(2a) .
 x = -b/(2a)
 f(x) = ax^2+bx+c:
-['\\y01d49a'"-bb i bb n bb t bb e bb r bb c bb e bb p bb t ", \ , \ , \ , \ , '\\y01d499'"-bb i bb n bb t bb e bb r bb c bb e bb p bb t bb s "], ["Let"x=0"and solve for"f(x)., \ , \ , \ , \ , "Let"f(x)=0"and solve for"x.]
+[bii y"-bb i bb n bb t bb e bb r bb c bb e bb p bb t ", \ , \ , \ , \ , bii x"-bb i bb n bb t bb e bb r bb c bb e bb p bb t bb s "], ["Let"x=0"and solve for"f(x)., \ , \ , \ , \ , "Let"f(x)=0"and solve for"x.]
 f(x) = x^2+k
 f(x) = x^2+k
 f(x) = x^2
@@ -21078,7 +21078,7 @@ x^2+bx+c.
 ["multiply to", \ , c,m'\\x0000b7'n=c], ["add to", \ , b,m+n=b]
 \ (x+m)(x+n)
 x^2+bx+c
-[[x^2+bx+c], [(x+m)(x+n)]], ["bb W bb h bb e bb n "'\\y01d484'"bb i bb s bb p bb o bb s bb i bb t bb i bb v bb e,"'\\y01d48e'"bb a bb n bb d "'\\y01d48f'"bb h bb a bb v bb e bb t bb h bb e bb s bb a bb m bb e bb s bb i bb g bb n."], [b"positive"\ b"negative"], [m,n"positive"\ m,n"negative"], [x^2+5x+6\ x^2-6x+8], [(x+2)(x+3)\ (x-4)(x-2)], ["same signs"\ "same signs"], ["bb W bb h bb e bb n "'\\y01d484'"bb i bb s bb n bb e bb g bb a bb t bb i bb v bb e,"'\\y01d48e'"bb a bb n bb d "'\\y01d48f'"bb h bb a bb v bb e bb o bb p bb p bb o bb s bb i bb t bb e bb s bb i bb g bb n bb s."], [x^2+x-12\ x^2-2x-15], [(x+4)(x-3)\ (x-5)(x+3)], ["opposite signs"\ "opposite signs"]
+[[x^2+bx+c], [(x+m)(x+n)]], ["bb W bb h bb e bb n "bii c"bb i bb s bb p bb o bb s bb i bb t bb i bb v bb e,"bii m"bb a bb n bb d "bii n"bb h bb a bb v bb e bb t bb h bb e bb s bb a bb m bb e bb s bb i bb g bb n."], [b"positive"\ b"negative"], [m,n"positive"\ m,n"negative"], [x^2+5x+6\ x^2-6x+8], [(x+2)(x+3)\ (x-4)(x-2)], ["same signs"\ "same signs"], ["bb W bb h bb e bb n "bii c"bb i bb s bb n bb e bb g bb a bb t bb i bb v bb e,"bii m"bb a bb n bb d "bii n"bb h bb a bb v bb e bb o bb p bb p bb o bb s bb i bb t bb e bb s bb i bb g bb n bb s."], [x^2+x-12\ x^2-2x-15], [(x+4)(x-3)\ (x-5)(x+3)], ["opposite signs"\ "opposite signs"]
 ax^2+bx+c
 ax^2+bx+c
 ["Multiply to"ac., \ , \ , \ , \ , m'\\x0000b7'n=a'\\x0000b7'c], ["Add to"b., \ , \ , \ , \ , m+n=b], [\ , \ , \ , \ , \ , ax^2+bx+c]

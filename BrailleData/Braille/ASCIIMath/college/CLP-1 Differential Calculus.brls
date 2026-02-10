@@ -1,6 +1,6 @@
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -17,9 +17,9 @@ oo-oo
 1^ oo
 0^0
 oo^0
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -346,9 +346,9 @@ f(x)
 f'(x) = 1/x
 x != 0,
 f(-1) = 0.
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -441,9 +441,9 @@ x, N < 0,
 xN > 0.
 x < 0,
 1/x = -|1/x| = |1/x-0| < '\\x0003f5'
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -568,9 +568,9 @@ n
 f(x)
 f(x),
 f(x),
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -841,9 +841,9 @@ y = 0.
 x
 x^2+y^2 = 1
 x^2+3y^2 = 1
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -1045,9 +1045,9 @@ lim_(x->oo)f(x) != lim_(x->-oo)f(x),
 t
 c(t),
 lim_(t->oo)c(t) != 0.
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -1209,9 +1209,9 @@ t
 T,
 P(T)
 P'(T)
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -1306,9 +1306,9 @@ x = 0.
 f(x)
 x = 0
 f'(0) = 1.
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -1340,9 +1340,9 @@ underset(x->oo)(lim)log_q x = oo, \ underset(x->0+)(lim)log_q x = -oo
 log_(10)x
 log_q x,
 q > 1,
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -1531,9 +1531,9 @@ f(x)
 y = f(x)
 y = log(f(x))
 x.
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -1600,9 +1600,9 @@ g(x)
 f(g(x))
 y = g(x)
 f(y) = f(g(x)).
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -1621,9 +1621,9 @@ oo-oo
 oo^0
 [sin(alpha+-beta), "<mi//>"=sin(alpha)cos(beta)+-cos(alpha)sin(beta)]
 [cos(alpha+-beta), "<mi//>"=cos(alpha)cos(beta)-+sin(alpha)sin(beta)]
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -1860,9 +1860,9 @@ v_0?
 1
 9.8
 4.9
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -1879,9 +1879,9 @@ oo-oo
 1^ oo
 0^0
 oo^0
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -1902,9 +1902,9 @@ r
 theta
 L(theta) = r theta.
 A(theta) = theta/2 r^2.
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -2201,9 +2201,9 @@ t >= 0,
 t
 (sin t, cos^2 t).
 t = (10 pi)/3?
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -3006,9 +3006,9 @@ x
 y = f(x)
 f
 x
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -3025,9 +3025,9 @@ oo-oo
 1^ oo
 0^0
 oo^0
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -3048,9 +3048,9 @@ oo^0
 17^(th)
 lim_(x->c)f'(x)
 f'(c)?
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -3089,9 +3089,9 @@ arctan x
 "arcsec"x != pi/2
 ["arccsc"(csc theta), "<mi//>"=theta, "<mi//>"-pi/2<=theta<=pi/2,\ theta!=0], ["arcsec"(sec theta), "<mi//>"=theta, 0<=theta<=pi,\ theta!=pi/2], ["arccot"(cot theta), "<mi//>"=theta, 0<theta<pi]
 [csc("arccsc"x), "<mi//>"=x, "<mi//>"|x|>=1], [sec("arcsec"x), "<mi//>"=x, "<mi//>"|x|>=1], [cot("arccot"x), "<mi//>"=x, "any real\ "x]
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -3108,9 +3108,9 @@ oo-oo
 1^ oo
 0^0
 oo^0
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -3128,9 +3128,9 @@ oo-oo
 0^0
 oo^0
 [sin pi/4, "<mi//>"=1/(sqrt(2)) , sin pi/6, "<mi//>"=1/2, sin pi/3, "<mi//>"= (sqrt(3))/2], [cos pi/4, "<mi//>"=1/(sqrt(2)) , cos pi/6, "<mi//>"= (sqrt(3))/2, cos pi/3, "<mi//>"=1/2], [tan pi/4, "<mi//>"=1, tan pi/6, "<mi//>"=1/(sqrt(3)) , tan pi/3, "<mi//>"=sqrt(3)]
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -3151,9 +3151,9 @@ oo^0
 [V, "<mi//>"=pi r^2 h]
 [V, "<mi//>"=1/3 pi r^2 h]
 [V, "<mi//>"=4/3 pi r^3]
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -3181,9 +3181,9 @@ beta = alpha
 beta = alpha
 [cos(2 alpha), "<mi//>"=cos^2(alpha)-sin^2(alpha)], [\ , "<mi//>"=2cos^2(alpha)-1, "(use\ "sin^2(alpha)=1-cos^2(alpha))], [\ , "<mi//>"=1-2sin^2(alpha), "(use\ "cos^2(alpha)=1-sin^2(alpha))]
 [cos(arcsin x), "<mi//>"=sqrt(1-x^2), sec(arctan x), "<mi//>"=sqrt(1+x^2)]
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -3268,9 +3268,9 @@ g(x).
 f'(0)?
 f(x) = (g(x))/(h(x))
 f(x) = (g(x))/(k(x)) * (k(x))/(h(x))
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -3288,9 +3288,9 @@ oo-oo
 0^0
 oo^0
 ("adjacent")^2+("opposite")^2 = ("hypotenuse")^2
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -3426,9 +3426,9 @@ y = f(x)
 P.
 L
 y = f(x)?
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -4361,9 +4361,9 @@ cosh^(-1)(x),
 sinh^(-1)(x)
 cosh^(-1)(x).
 d/dx{cosh^(-1)(x)}.
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -4518,9 +4518,9 @@ f'(r) = [-56(1+r)+60(1-56r)](1+r)^(59) = (4-3416r)(1+r)^(59)
 r_1 = .002.
 0.2
 [r_2, "<mi//>"=r_1- ((1-56r_1)(1+r_1)^(60)-1)/((4-3416r_1)(1+r_1)^(59)) =0.002344], [\ r_3, "<mi//>"=r_2- ((1-56r_2)(1+r_2)^(60)-1)/((4-3416r_2)(1+r_2)^(59)) =0.002292], [r_4, "<mi//>"=r_3- ((1-56r_3)(1+r_3)^(60)-1)/((4-3416r_3)(1+r_3)^(59)) =0.002290], [r_5, "<mi//>"=r_4- ((1-56r_4)(1+r_4)^(60)-1)/((4-3416r_4)(1+r_4)^(59)) =0.002290]
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -4769,9 +4769,9 @@ arcsin(x+2y) = x^2+y^2
 y'
 x
 y.
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -12926,9 +12926,9 @@ C
 log|x|
 log x+C
 x = 0.
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -12945,9 +12945,9 @@ oo-oo
 1^ oo
 0^0
 oo^0
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -12964,9 +12964,9 @@ oo-oo
 1^ oo
 0^0
 oo^0
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -13028,9 +13028,9 @@ cos theta = cos arccos x = x.
 pi.
 [tan(arccos x), "<mi//>"= (sqrt(1-x^2))/x]
 [sin(arcsin x), "<mi//>"=x, sin(arccos x), "<mi//>"=sqrt(1-x^2), sin(arctan x), "<mi//>"=x/(sqrt(1+x^2)) ], [cos(arcsin x), "<mi//>"=sqrt(1-x^2), cos(arccos x), "<mi//>"=x, cos(arctan x), "<mi//>"=1/(sqrt(1+x^2)) ], [tan(arcsin x), "<mi//>"=x/(sqrt(1-x^2)) , tan(arccos x), "<mi//>"= (sqrt(1-x^2))/x, tan(arctan x), "<mi//>"=x]
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -13161,9 +13161,9 @@ alpha = (u+v)/2, beta = (u-v)/2
 [2cos(alpha)cos(beta), "<mi//>"=cos(alpha+beta)+cos(alpha-beta)]
 [2sin(alpha)sin(beta), "<mi//>"=cos(alpha-beta)-cos(alpha+beta)]
 [sin(alpha)sin(beta), "<mi//>"= (cos(alpha-beta)-cos(alpha+beta))/2], [cos(alpha)cos(beta), "<mi//>"= (cos(alpha-beta)+cos(alpha+beta))/2]
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -13351,9 +13351,9 @@ C_1, ..., C_(n-1)
 n,
 [lim_(n->oo) pi R^3*( (n(n+1))/(n^2) - (n(n+1)(2n+1))/(6n^3) ), "<mi//>"=pi R^3(lim_(n->oo) (n(n+1))/(n^2) - (n(n+1)(2n+1))/(6n^3) )], [\ , "<mi//>"=pi R^3(1-2/6)=2/3 pi R^3.]
 ["Volume of hemisphere\ ", "<mi//>"=2/3 pi R^3, "\and so"], ["Volume of sphere\ ", "<mi//>"=4/3 pi R^3]
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -13546,9 +13546,9 @@ x
 [a-delta<x<a+delta, "\but\ "f(x)=x"\and\ " delta='\\x0003f5'], [a-'\\x0003f5'<f(x)<a+'\\x0003f5']
 |f(x)-a| < '\\x0003f5'.
 lim_(x->a)x = a
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -13565,9 +13565,9 @@ oo-oo
 1^ oo
 0^0
 oo^0
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -14033,9 +14033,9 @@ f(a) <= g(a)
 g(b) <= f(b).
 c in[a, b]
 f(c) = g(c).
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -14052,9 +14052,9 @@ oo-oo
 1^ oo
 0^0
 oo^0
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -14288,9 +14288,9 @@ delta = min{delta_1, delta_2}
 L-'\\x0003f5' < f(x) < L+'\\x0003f5'
 L-'\\x0003f5' < h(x) < L+'\\x0003f5'
 [L-'\\x0003f5'<f(x), "<mi//>"<=g(x)<=h(x)<L+'\\x0003f5', "which implies that"], [L-'\\x0003f5'<, g(x)<L+'\\x0003f5', "which in turn gives us"], [\ , |g(x)-L|<'\\x0003f5']
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -14308,9 +14308,9 @@ oo-oo
 0^0
 oo^0
 [sin theta, = ("opposite")/("hypotenuse") , \ , csc theta, =1/(sin theta) ], [cos theta, = ("adjacent")/("hypotenuse") , \ , sec theta, =1/(cos theta) ], [tan theta, = ("opposite")/("adjacent") , \ , cot theta, =1/(tan theta) ]
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -14367,9 +14367,9 @@ x_1 = 3.
 x_7
 x_7
 f.
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -14391,9 +14391,9 @@ T_1
 T_2.
 [A/a, "<mi//>"=B/b=C/c]
 [A/a, "<mi//>"=C/c "\and angle\ " beta "\is same"]
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -14410,9 +14410,9 @@ oo-oo
 1^ oo
 0^0
 oo^0
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -15870,9 +15870,9 @@ F(x) = 7arcsin(x/(sqrt(3)) )+C
 V(H) = 2 pi(1/5 H^5+2/3 H^3+H)
 f(x) = {[log|x|, x<0], [log x+C, x>0]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
 C
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -16131,9 +16131,9 @@ lim_(x->0) 1/(x^2)
 lim_(x->3) 1/10
 lim_(x->3)f(x),
 f(x) = {[sin x, x<=2.9], [x^2, x>2.9]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>.
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -17305,9 +17305,9 @@ L(x) < Q(x) < f(x)
 x > 0.
 0.01
 e^(0.1).
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -17359,9 +17359,9 @@ C = {1, 2, 3, ..., 40}
 A = {1, 4, 9, 16, ...}
 ...
 B = {3, 5, 7, ...}
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -17438,9 +17438,9 @@ t = 1
 t = 9
 t = 1?
 t = 9?
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -17627,9 +17627,9 @@ Q
 R
 P.
 0.
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -17655,9 +17655,9 @@ pi//2
 pi
 [sin(theta+pi), "<mi//>"=-sin theta, cos(theta+pi), "<mi//>"=-cos theta]
 [sin^2 theta+cos^2 theta, "<mi//>"=1]
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -18127,9 +18127,9 @@ t,
 v_0
 t = 0.
 underset(t->oo)(lim)v(t).
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -18517,9 +18517,9 @@ f(x)
 f'(x)
 f(x)
 f(x) = sin x+x^2+5x+1
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -18536,9 +18536,9 @@ oo-oo
 1^ oo
 0^0
 oo^0
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -18895,9 +18895,9 @@ A = 0
 (dA)/dt = 2
 B
 t = 10?
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -18932,9 +18932,9 @@ a^2+b^2.
 c
 c^2.
 a^2+b^2 = c^2.
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -19032,9 +19032,9 @@ h(x) = sqrt(x).
 {0, 120}.
 t = 0.
 RR.
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -19107,9 +19107,9 @@ a/(2^k 5^cc l)
 a in ZZ
 k, l
 x
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -19143,9 +19143,9 @@ underset(x->-oo)(lim)q^x = oo
 2^x
 q^x,
 q > 1,
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -19241,9 +19241,9 @@ n,
 n = 10,
 2^n = 1024
 1.6^n = 110
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -19264,9 +19264,9 @@ oo^0
 [A, "<mi//>"=1/2 bh=1/2 absin theta]
 [A, "<mi//>"=pi r^2]
 [A, "<mi//>"=pi ab]
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -19389,9 +19389,9 @@ f(x)
 f(x)
 I_n.
 2.
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -19408,9 +19408,9 @@ oo-oo
 1^ oo
 0^0
 oo^0
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -19452,9 +19452,9 @@ A = 1/2 absin theta
 [2A, "<mi//>"=bcsin alpha], [2A, "<mi//>"=acsin beta], [2A, "<mi//>"=absin gamma]
 abc
 [ (2A)/(abc) , "<mi//>"= (sin alpha)/a= (sin beta)/b= (sin gamma)/c]
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -19474,9 +19474,9 @@ oo^0
 sin theta
 cos theta
 tan theta
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -19692,9 +19692,9 @@ x = 0,
 f'(0).
 f(x).
 f''(x)
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -19890,9 +19890,9 @@ y = x^2-2x+2
 y = x^2
 y = -x^2+2x-5.
 lim_(x->2)( (x^(2015)-2^(2015))/(x-2) ).
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -20258,9 +20258,9 @@ lim_(x->0)f(x).
 lim_(x->-4^- )f(x).
 lim_(x->-4^+ )f(x).
 lim_(x->-4)f(x).
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -20277,9 +20277,9 @@ oo-oo
 1^ oo
 0^0
 oo^0
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -20296,9 +20296,9 @@ oo-oo
 1^ oo
 0^0
 oo^0
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -21227,9 +21227,9 @@ H
 h.
 x < 0
 x > 0
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -21282,9 +21282,9 @@ I_(n+1) = [a_(n+1), b_(n+1)]\ "with"\ a_(n+1) = c_n, \ b_(n+1) = b_n
 f(c_n)
 f(a_n)
 I_(n+1) = [a_(n+1), b_(n+1)]\ "with"\ a_(n+1) = a_n, \ b_(n+1) = c_n
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -21319,9 +21319,9 @@ Q(t)
 t,
 Q'(t)
 6.241 xx 10^(18)
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -21751,9 +21751,9 @@ y = x^2.
 y = x^2.
 a
 f(x) = {[0, x<=0], [x^a sin 1/x, x>0]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -21894,9 +21894,9 @@ B = {p:p"\is prime"},
 C = {5, 7, 9}
 D = {"even positive integers"}.
 [A nn B, "<mi//>"={2,3}], [B nn D, "<mi//>"={2}], [A uu C, "<mi//>"={1,2,3,4,5,7,9}], [A nn C, "<mi//>"=O/]
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -22290,9 +22290,9 @@ A(n) = 5n^4
 A(n)
 S(n)
 n
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -22354,9 +22354,9 @@ f'(x) = g'(x)Q(x)+g(x)Q'(x),
 1//g(x)
 \
 [d/dx 1/(g(x)) , "<mi//>"=lim_(h->0) 1/h[1/(g(x+h)) -1/(g(x)) ]=lim_(h->0) (g(x)-g(x+h))/(hg(x)g(x+h)) ], [\ , "<mi//>"=-lim_(h->0) 1/(g(x)) \ 1/(g(x+h)) \ (g(x+h)-g(x))/h], [\ , "<mi//>"=-1/(g(x)) \ lim_(h->0) 1/(g(x+h)) \ lim_(h->0) (g(x+h)-g(x))/h], [\ , "<mi//>"=-1/(g(x)^2) g'(x)]
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -22545,9 +22545,9 @@ f,
 Y >= 0.
 f^(-1)
 y = x.
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -22564,9 +22564,9 @@ oo-oo
 1^ oo
 0^0
 oo^0
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -22796,9 +22796,9 @@ g(x)
 a,
 b
 f(x) = {[ax^2+b, x<=1], [e^x, x>1]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -22815,9 +22815,9 @@ oo-oo
 1^ oo
 0^0
 oo^0
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 d/dx{sin x}
 d/dx{cos x}
 x
@@ -22843,7 +22843,7 @@ sin x, cos x
 x = 0.
 x
 360\circ = 2 pi
-d/(dbb x) {sin bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {sin bb x}|_(bb x=bb 0)
 sin x
 x = 0
 [d/dx{sin x}|_(x=0)=lim_(h->0) (sin h-sin 0)/h=lim_(h->0) (sin h)/h]
@@ -22876,7 +22876,7 @@ sin h
 -.00999983
 -0.001
 -.0099999983
-underset(bb h->'\\y01d7ce')(lim) (sin bb h)/bb h = '\\y01d7cf'
+underset(bb h->bb 0)(lim) (sin bb h)/bb h = bb 1
 1.
 [|OP|=|OR|, "<mi//>"=1, "<mi//>"|PS|, "<mi//>"=sin h], [|OS|, "<mi//>"=cos h, "<mi//>"|QR|, "<mi//>"=tan h]
 (sin h)/h
@@ -22920,7 +22920,7 @@ cos h
 [lim_(h->0) (sin h)/h, "<mi//>"=1.]
 [d/dx{sin x}|_(x=0), "<mi//>"=lim_(h->0) (sin h-sin 0)/h], [\ , "<mi//>"=lim_(h->0) (sin h)/h, "(This is why!)"], [\ , "<mi//>"=1]
 d/dx sin x|_(x=0) = 1.
-d/(dbb x) {cos bb x}|_(bb x='\\y01d7ce')
+d/(dbb x) {cos bb x}|_(bb x=bb 0)
 cos x
 x = 0
 [lim_(h->0) (cos h-cos 0)/h, "<mi//>"=lim_(h->0) (cos h-1)/h]

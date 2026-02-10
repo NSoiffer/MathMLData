@@ -1831,7 +1831,7 @@ grad f(x_0, y_0)
 (x_0, y_0)
 bb u
 bb u = 1/(|grad f(x_0,y_0)|) grad f(x_0, y_0),
-grad f(x_0, y_0) != '\\y01d7ce'
+grad f(x_0, y_0) != bb 0
 f
 (x_0, y_0),
 D_bb u f(x_0, y_0)
@@ -1846,7 +1846,7 @@ grad f(x_0, y_0)
 D_bb u f(x_0, y_0) = |grad f(x_0, y_0)|.
 f
 (x_0, y_0)
-grad f(x_0, y_0) != '\\y01d7ce'.
+grad f(x_0, y_0) != bb 0.
 grad f(x_0, y_0)
 f
 (x_0, y_0),
@@ -2848,10 +2848,10 @@ a
 b
 bb v+bb u = bb u+bb v
 (bb v+bb u)+bb w = bb v+(bb u+bb w)
-'\\y01d7ce' = '\\x0027e8'0, 0, ..., 0'\\x0027e9'
-bb v+'\\y01d7ce' = bb v.
-'\\y01d7ce'
-(-1)bb v+bb v = '\\y01d7ce'.
+bb 0 = '\\x0027e8'0, 0, ..., 0'\\x0027e9'
+bb v+bb 0 = bb v.
+bb 0
+(-1)bb v+bb v = bb 0.
 (-1)bb v = -bb v
 bb v.
 (a+b)bb v = abb v+bbb v
@@ -3286,7 +3286,7 @@ bb v
 bb F = '\\x0027e8'x, y, z'\\x0027e9'.
 "curl"(bb F)(0, 0, 0)
 bb F
-"curl"('\\x0027e8'x, y, z'\\x0027e9') = '\\y01d7ce'.
+"curl"('\\x0027e8'x, y, z'\\x0027e9') = bb 0.
 '\\x0027e8'x, y, z'\\x0027e9'
 bb F = '\\x0027e8'-y, x, 0'\\x0027e9',
 bb F
@@ -5285,7 +5285,7 @@ c
 bb u xx bb v = -(bb v xx bb u)
 (bb u+bb v) xx bb w = (bb u xx bb w)+(bb v xx bb w)
 (cbb u) xx bb w = c(bb u xx bb w) = bb u xx(cbb w)
-bb u xx bb v = '\\y01d7ce'
+bb u xx bb v = bb 0
 bb u
 bb v
 (bb u xx bb v) xx bb w != bb u xx(bb v xx bb w).
@@ -5303,13 +5303,13 @@ bb v,
 [|bb u xx bb v|^2=(, "<mi//>"(u_2 v_3-u_3 v_2)^2+(u_1 v_3-u_3 v_1)^2+(u_1 v_2-u_2 v_1)^2], [=(, u_2^2 v_3^2-2u_2 u_3 v_2 v_3+u_3^2 v_2^2+u_1^2 v_3^2-2u_1 u_3 v_1 v_3+u_3^2 v_1^2], [(, "<mi//>"+u_1^2 v_2^2-2u_1 u_2 v_1 v_2+u_2^2 v_1^2], [=(, u_1^2(v_2^2+v_3^2)+u_2^2(v_1^2+v_3^2)+u_3^2(v_1^2+v_2^2)], [(, "<mi//>"-2(u_1 u_2 v_1 v_2+u_1 u_3 v_1 v_3+u_2 u_3 v_2 v_3)], [=(, u_1^2(v_1^2+v_2^2+v_3^2)+u_2^2(v_1^2+v_2^2+v_3^2)+u_3^2(v_1^2+v_2^2+v_3^2)], [(, "<mi//>"-(u_1^2 v_1^2+u_2^2 v_2^2+u_3^2 v_3^2+2(u_1 u_2 v_1 v_2+u_1 u_3 v_1 v_3+u_2 u_3 v_2 v_3))], [=(, "<mi//>"(u_1^2+u_2^2+u_3^2)(v_1^2+v_2^2+v_3^2)-(u_1 v_1+u_2 v_2+u_3 v_3)^2], [=(, "<mi//>"|bb u|^2|bb v|^2-(bb u*bb v)^2], [=(, "<mi//>"|bb u|^2|bb v|^2(1-cos^2(theta))], [=(, "<mi//>"|bb u|^2|bb v|^2 sin^2(theta).]
 |bb u xx bb v|^2 = |bb u|^2|bb v|^2 sin^2(theta),
 ["(9.4.2)", |bb u xx bb v|=|bb u||bb v|sin(theta).]
-bb u xx bb v = '\\y01d7ce'
+bb u xx bb v = bb 0
 bb u
 bb v
 sin(theta) = 0
 bb u
 bb v
-bb u xx bb v = '\\y01d7ce'.
+bb u xx bb v = bb 0.
 bb u
 bb v,
 bb u
@@ -5432,7 +5432,7 @@ bb u*bb v = |bb u||bb v|cos(theta),
 bb u*bb v = 0
 bb u
 bb v
-bb u xx bb v = '\\y01d7ce'
+bb u xx bb v = bb 0
 bb u
 bb v
 RR^3.
@@ -11024,7 +11024,7 @@ bb r'(-1)
 bb i+
 bb j+
 bb k
-vec r(t) = cos(pi t)'\\y01d48a'+sin(pi t)'\\y01d48b'+4t'\\y01d48c'
+vec r(t) = cos(pi t)bii i+sin(pi t)bii j+4tbii k
 z
 t
 12?
@@ -11121,7 +11121,7 @@ bb a
 bb r.
 m
 bb L = mbb r xx bb v.
-(dbb L)/dt = '\\y01d7ce'.
+(dbb L)/dt = bb 0.
 bb L*bb r = 0.
 bb L.
 bb u xx bb v
@@ -11254,9 +11254,9 @@ bb F(x, y) = '\\x0027e8'F_1(x, y), F_2(x, y)'\\x0027e9'
 div(bb F) = (del F_1)/(del x) + (del F_2)/(del y)
 bb G(x, y) = '\\x0027e8'G_1(x, y, z), G_2(x, y, z), G_3(x, y, z)'\\x0027e9'
 div(bb G) = (del G_1)/(del x) + (del G_2)/(del y) + (del G_3)/(del z)
-div((3x^2-sin(xz))'\\y01d48a'+4'\\y01d48b'-sin(xz)'\\y01d48c') =
-div(x/((x^2+y^2+z^2)^(1.5)) '\\y01d48a'+y/((x^2+y^2+z^2)^(1.5)) '\\y01d48b'+z/((x^2+y^2+z^2)^(1.5)) '\\y01d48c') =
-div(3e^(xy)'\\y01d48a'+3cos(xy)'\\y01d48b'+2e^(ln(x^2+y^2+2))'\\y01d48c') =
+div((3x^2-sin(xz))bii i+4bii j-sin(xz)bii k) =
+div(x/((x^2+y^2+z^2)^(1.5)) bii i+y/((x^2+y^2+z^2)^(1.5)) bii j+z/((x^2+y^2+z^2)^(1.5)) bii k) =
+div(3e^(xy)bii i+3cos(xy)bii j+2e^(ln(x^2+y^2+2))bii k) =
 div( (-y vec i+x vec j)/((x^2+y^2)^3) ).
 div( (-y vec i+x vec j)/((x^2+y^2)^3) ) =
 f(x, y) = axy+ax^2 y+y^3.
@@ -12631,7 +12631,7 @@ z
 bb F
 [bb F(A), ='\\x0027e8'5,8,3'\\x0027e9',, \ bb F(B), ='\\x0027e8'-6,6,-9'\\x0027e9'], [bb F(C), ='\\x0027e8'-4,-9,-6'\\x0027e9',, \ bb F(D), ='\\x0027e8'-1,2,-6'\\x0027e9']
 '\\x00222c'_cc S bb F*dbb S ~~
-x'\\y01d48a'+y'\\y01d48b'+5z'\\y01d48c'
+xbii i+ybii j+5zbii k
 sigma
 z = sqrt(x^2+y^2)
 z = 5

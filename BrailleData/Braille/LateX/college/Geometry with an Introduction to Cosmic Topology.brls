@@ -1,419 +1,419 @@
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
 p
-q,
-d_H (p, q)
+q,𝐖
+d_H𝐖(p,𝐖q)
 p
 q
-\mathbb D .
-p, q,
+\mathbb𝐖D𝐖𝐖.
+p,𝐖q,𝐖
 r
 q
-d_H (p, q) +d_H (q, r) =d_H (p, r) .
-\mscrH .
-d_H (p, q) =d_H (T(p), T(q))
+d_H𝐖(p,𝐖q)𝐖+d_H𝐖(q,𝐖r)𝐖=d_H𝐖(p,𝐖r)𝐖.
+\mscrH𝐖𝐖.
+d_H𝐖(p,𝐖q)𝐖=d_H𝐖(T(p),𝐖T(q))
 p
 q
-\mathbb D,
+\mathbb𝐖D𝐖,𝐖
 T
-\mscrH .
+\mscrH𝐖𝐖.
 z
-\mathbb D,
+\mathbb𝐖D𝐖,𝐖
 z
-x =| z|
+x𝐖=|𝐖z|
 L
 x
 L
-x^\ast
+x^\ast𝐖𝐖
 x
-\mathbb S_\infty^1
-\mathbb S_\infty^1
-0x^\ast .
-x +h
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖
+0x^\ast𝐖𝐖𝐖.
+x𝐖+h
 x
-x +h
-w,
-w =\frac{ -h}{1 -x^2 -hx} .
+x𝐖+h
+w,𝐖
+w𝐖=\frac{𝐖-h}{1𝐖-x^2𝐖𝐖-hx}𝐖.
 x
-x +h
-w .
-\mscrH,
-(1) & d_H (x, x +h) =d_H (0, w) .
-0, x,
-x +h
-h >0
-(2) & d_H (0, x) +d_H (x, x +h) =d_H (0, x +h) .
-x \in \mathbb R
-d(x) =d_H (0, x)
+x𝐖+h
+w𝐖.
+\mscrH𝐖,𝐖
+(1)𝐖&𝐖d_H𝐖(x,𝐖x𝐖+h)𝐖=d_H𝐖(0,𝐖w)𝐖.
+0,𝐖x,𝐖
+x𝐖+h
+h𝐖>0
+(2)𝐖&𝐖d_H𝐖(0,𝐖x)𝐖+d_H𝐖(x,𝐖x𝐖+h)𝐖=d_H𝐖(0,𝐖x𝐖+h)𝐖.
+x𝐖\in𝐖\mathbb𝐖R𝐖
+d(x)𝐖=d_H𝐖(0,𝐖x)
 x
-d(x +h) -d(x) =d(w) .
+d(x𝐖+h)𝐖-d(x)𝐖=d(w)𝐖.
 h
-\frac{d(x +h) -d(x)}{h} =\frac{d(w)}{h} .
-h \to 0
-d'(x) =\lim_{h \to 0} \frac{d(w)}{h} .
-w,
+\frac{d(x𝐖+h)𝐖-d(x)}{h}𝐖=\frac{d(w)}{h}𝐖.
+h𝐖\to𝐖0
+d'(x)𝐖=\lim𝐖_{h𝐖\to𝐖0}𝐖\frac{d(w)}{h}𝐖.
+w,𝐖
 w
-d(w),
-| w -0| =| w| .
+d(w),𝐖
+|𝐖w𝐖-0|𝐖=|𝐖w|𝐖.
 w
-x +h
+x𝐖+h
 x
-w \to 0
-h \to 0 .
-\lim_{h \to 0} \frac{d(w)}{| w|} =k
-k .
-k =2,
-d'(x) & \lt mi/> =\lim_{h \to 0} \frac{d(w)}{h} \\ \~ & \lt mi/> =\lim_{h \to 0} \frac{d(w)}{| w|}\frac{| w|}{h} \\ \~ & \lt mi/> =\lim_{h \to 0} [2 \cdot \frac{h}{(1 -x^2 -hx)h}] \\ \~ & \lt mi/> =\frac{2}{1 -x^2} .
+w𝐖\to𝐖0
+h𝐖\to𝐖0𝐖.
+\lim𝐖_{h𝐖\to𝐖0}𝐖\frac{d(w)}{|𝐖w|}𝐖=k
+k𝐖.
+k𝐖=2,𝐖
+d'(x)𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{h𝐖\to𝐖0}𝐖\frac{d(w)}{h}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{h𝐖\to𝐖0}𝐖\frac{d(w)}{|𝐖w|}\frac{|𝐖w|}{h}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{h𝐖\to𝐖0}𝐖[2𝐖\cdot𝐖\frac{h}{(1𝐖-x^2𝐖𝐖-hx)h}]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{2}{1𝐖-x^2𝐖}𝐖.
 d(x)
-(partial\textasciitilde fractions) & \int \frac{2}{1 -x^2}dx & \lt mi/> = \int (\frac{1}{1 -x} +\frac{1}{1 +x})dx \\ \~ & \lt mi/> = -\ln (1 -x) +\ln (1 +x) \\ d(x) & \lt mi/> =\ln (\frac{1 +x}{1 -x}),
-\mathbit z
+(partial\textasciitilde𝐖fractions)𝐖&𝐖𝐖\int𝐖\frac{2}{1𝐖-x^2𝐖}dx𝐖&𝐖\lt𝐖mi/>𝐖=𝐖\int𝐖(\frac{1}{1𝐖-x}𝐖+\frac{1}{1𝐖+x})dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=𝐖-\ln𝐖(1𝐖-x)𝐖+\ln𝐖(1𝐖+x)𝐖\\𝐖d(x)𝐖&𝐖\lt𝐖mi/>𝐖=\ln𝐖(\frac{1𝐖+x}{1𝐖-x}),𝐖
+\mathbit𝐖z𝐖
 z
-\mathbb D
-d_H (0, z) =\ln (\frac{1 +| z|}{1 -| z|}) .
+\mathbb𝐖D𝐖
+d_H𝐖(0,𝐖z)𝐖=\ln𝐖(\frac{1𝐖+|𝐖z|}{1𝐖-|𝐖z|})𝐖.
 z
-\mathbb D
-| z| \to 1
+\mathbb𝐖D𝐖
+|𝐖z|𝐖\to𝐖1
 0
 z
-\infty .
-d_H (p, q),
+\infty𝐖𝐖.
+d_H𝐖(p,𝐖q),𝐖
 0
 x
-(1 +x)/(1 -x)
-0,
-x,
-(0, x; 1, -1) =\frac{0 -1}{0 +1} \cdot \frac{x +1}{x -1} =\frac{1 +x}{1 -x} .
-d_H (0, x) =\ln ((0, x; 1, -1)) .
-\mscrH .
+(1𝐖+x)/(1𝐖-x)
+0,𝐖
+x,𝐖
+(0,𝐖x;𝐖1,𝐖𝐖-1)𝐖=\frac{0𝐖-1}{0𝐖+1}𝐖\cdot𝐖\frac{x𝐖+1}{x𝐖-1}𝐖=\frac{1𝐖+x}{1𝐖-x}𝐖.
+d_H𝐖(0,𝐖x)𝐖=\ln𝐖((0,𝐖x;𝐖1,𝐖𝐖-1))𝐖.
+\mscrH𝐖𝐖.
 T
-\mscrH
+\mscrH𝐖
 p
 q
 x
-(invariance\space of\space distance) & d_H (p, q) & \lt mi/> =d_H (T(p), T(q)) \\ \~ & \lt mi/> =d_H (0, x) \\ \~ & \lt mi/> =\ln ((0, x; 1, -1)) \\ (invariance\space of\space cross\space ratio) & \~ & \lt mi/> =\ln ((p, q; u, v)),
+(invariance\space𝐖of\space𝐖distance)𝐖&𝐖d_H𝐖(p,𝐖q)𝐖&𝐖\lt𝐖mi/>𝐖=d_H𝐖(T(p),𝐖T(q))𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=d_H𝐖(0,𝐖x)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\ln𝐖((0,𝐖x;𝐖1,𝐖𝐖-1))𝐖\\𝐖(invariance\space𝐖of\space𝐖cross\space𝐖ratio)𝐖&𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\ln𝐖((p,𝐖q;𝐖u,𝐖v)),𝐖
 u
 v
 p
-q .
+q𝐖.
 u
 p
-q,
+q,𝐖
 v
 q
-p .
+p𝐖.
 p
-q,
+q,𝐖
 p
 0
 q
-\mathbf d_\mathbf H (\mathbf p, \mathbf q)
+\mathbf𝐖d𝐖_\mathbf𝐖H𝐖𝐖(\mathbf𝐖p𝐖,𝐖\mathbf𝐖q𝐖)
 p
 q
 u
 v
 p
 q
-d_H (p, q) =\ln ((p, q; u, v)) .
-\mscrH .
-\mscrH
+d_H𝐖(p,𝐖q)𝐖=\ln𝐖((p,𝐖q;𝐖u,𝐖v))𝐖.
+\mscrH𝐖𝐖.
+\mscrH𝐖
 p
-T(z) =\frac{z -p}{1 -\overline{p}z} .
+T(z)𝐖=\frac{z𝐖-p}{1𝐖-\overline{p}z}𝐖.
 T
 q
-T(q),
-\mathbb D .
+T(q),𝐖
+\mathbb𝐖D𝐖𝐖.
 T
-d_H (p, q) =d_H (0, T(q)),
-d_H (p, q) =\ln (\frac{1 +| T(q)|}{1 -| T(q)|}) .
-T(q) =\frac{q -p}{1 -\overline{p}q}
+d_H𝐖(p,𝐖q)𝐖=d_H𝐖(0,𝐖T(q)),𝐖
+d_H𝐖(p,𝐖q)𝐖=\ln𝐖(\frac{1𝐖+|𝐖T(q)|}{1𝐖-|𝐖T(q)|})𝐖.
+T(q)𝐖=\frac{q𝐖-p}{1𝐖-\overline{p}q}
 p
 q
-\mathbb D,
-d_H (p, q) =\ln [\frac{| 1 -\overline{p}q| +| q -p|}{| 1 -\overline{p}q| -| q -p|}] .
-p =\frac{1}{2}i,
-q =\frac{1}{2} +\frac{1}{2}i,
-z =.95e^{i5\pi /6}
-w = -.95 .
-d_H (p, q) \approx 1.49
-d_H (z, w) \approx 4.64
+\mathbb𝐖D𝐖,𝐖
+d_H𝐖(p,𝐖q)𝐖=\ln𝐖[\frac{|𝐖1𝐖-\overline{p}q|𝐖+|𝐖q𝐖-p|}{|𝐖1𝐖-\overline{p}q|𝐖-|𝐖q𝐖-p|}]𝐖.
+p𝐖=\frac{1}{2}i,𝐖
+q𝐖=\frac{1}{2}𝐖+\frac{1}{2}i,𝐖
+z𝐖=.95e^{i5\pi𝐖/6}𝐖
+w𝐖=𝐖-.95𝐖.
+d_H𝐖(p,𝐖q)𝐖\approx𝐖1.49
+d_H𝐖(z,𝐖w)𝐖\approx𝐖4.64
 p
-q .
-\mathbit r \colon [a, b] \to \mathbb C
-\mathbit r '(t)
+q𝐖.
+\mathbit𝐖r𝐖𝐖\colon𝐖[a,𝐖b]𝐖\to𝐖\mathbb𝐖C𝐖
+\mathbit𝐖r𝐖'(t)
 t
-0 .
-\mathbit r (t) =x(t) +iy(t),
-\mathbit r '(t) =x'(t) +iy'(t) .
-\mathbit r (t) =x(t) +iy(t)
-\Delta s & \lt mi/> =| \mathbit r (t +\Delta t) -\mathbit r (t)| \\ \~ & \lt mi/> =\sqrt{[x(t +\Delta t) -x(t)]^2 +[y(t +\Delta t) -y(t)]^2} \\ \~ & \lt mi/> =\sqrt{[\frac{x(t +\Delta t) -x(t)}{\Delta t}]^2 +[\frac{y(t +\Delta t) -y(t)}{\Delta t}]^2}| \Delta t| .
-\Delta t \to 0
-ds =\sqrt{(dx/dt)^2 +(dy/dt)^2}dt,
-ds =| \mathbit r '(t)|dt .
+0𝐖.
+\mathbit𝐖r𝐖(t)𝐖=x(t)𝐖+iy(t),𝐖
+\mathbit𝐖r𝐖'(t)𝐖=x'(t)𝐖+iy'(t)𝐖.
+\mathbit𝐖r𝐖(t)𝐖=x(t)𝐖+iy(t)
+\Delta𝐖s𝐖&𝐖\lt𝐖mi/>𝐖=|𝐖\mathbit𝐖r𝐖(t𝐖+\Delta𝐖t)𝐖-\mathbit𝐖r𝐖(t)|𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\sqrt{[x(t𝐖+\Delta𝐖t)𝐖-x(t)]^2𝐖𝐖+[y(t𝐖+\Delta𝐖t)𝐖-y(t)]^2𝐖}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\sqrt{[\frac{x(t𝐖+\Delta𝐖t)𝐖-x(t)}{\Delta𝐖t}]^2𝐖𝐖+[\frac{y(t𝐖+\Delta𝐖t)𝐖-y(t)}{\Delta𝐖t}]^2𝐖}|𝐖\Delta𝐖t|𝐖.
+\Delta𝐖t𝐖\to𝐖0
+ds𝐖=\sqrt{(dx/dt)^2𝐖𝐖+(dy/dt)^2𝐖}dt,𝐖
+ds𝐖=|𝐖\mathbit𝐖r𝐖'(t)|dt𝐖.
 a
-\mathbit r \colon [0, 2\pi] \to \mathbb C
-\mathbit r (t) =a\cos (t) +ia\sin (t) .
+\mathbit𝐖r𝐖𝐖\colon𝐖[0,𝐖2\pi𝐖]𝐖\to𝐖\mathbb𝐖C𝐖
+\mathbit𝐖r𝐖(t)𝐖=a\cos𝐖(t)𝐖+ia\sin𝐖(t)𝐖.
 a
-\mathcal L (\mathbit r),
-\mathcal L (\mathbit r) & \lt mi/> =\int_0^{2\pi} | \mathbit r '(t)|dt \\ \~ & \lt mi/> =\int_0^{2\pi} | -a\sin (t) +ia\cos (t)|dt \\ \~ & \lt mi/> =\int_0^{2\pi} \sqrt{a^2 \sin^2 (t) +a^2 \cos^2 (t)}dt \\ \~ & \lt mi/> =\int_0^{2\pi} adt \\ \~ & \lt mi/> =2\pi a .
-\mathbit r
-\mathbb D
-\mathbit r (t) =x(t) +iy(t),
-a \le t \le b .
-\mathbit r (t)
-\mathbit r (t +\Delta t),
-d_H (\mathbit r (t), \mathbit r (t +\Delta t)) .
-\mathbit r (t)
-T(z) =\frac{z -\mathbit r (t)}{1 -\overline{\mathbit r (t)}z},
-d_H (\mathbit r (t), \mathbit r (t +\Delta t)) =\ln [1 +| T(\mathbit r (t +\Delta t))|] -\ln [1 -| T(\mathbit r (t +\Delta t))|] .
-\Delta t
-T(\mathbit r (t +\Delta t))
-T(\mathbit r (t)),
-\ln (1 +x) \approx x
+\mathcal𝐖L𝐖(\mathbit𝐖r𝐖),𝐖
+\mathcal𝐖L𝐖(\mathbit𝐖r𝐖)𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_0^{2\pi𝐖}𝐖|𝐖\mathbit𝐖r𝐖'(t)|dt𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_0^{2\pi𝐖}𝐖|𝐖𝐖-a\sin𝐖(t)𝐖+ia\cos𝐖(t)|dt𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_0^{2\pi𝐖}𝐖\sqrt{a^2𝐖\sin𝐖^2𝐖(t)𝐖+a^2𝐖\cos𝐖^2𝐖(t)}dt𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_0^{2\pi𝐖}𝐖adt𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=2\pi𝐖a𝐖.
+\mathbit𝐖r𝐖
+\mathbb𝐖D𝐖
+\mathbit𝐖r𝐖(t)𝐖=x(t)𝐖+iy(t),𝐖
+a𝐖\le𝐖t𝐖\le𝐖b𝐖.
+\mathbit𝐖r𝐖(t)
+\mathbit𝐖r𝐖(t𝐖+\Delta𝐖t),𝐖
+d_H𝐖(\mathbit𝐖r𝐖(t),𝐖\mathbit𝐖r𝐖(t𝐖+\Delta𝐖t))𝐖.
+\mathbit𝐖r𝐖(t)
+T(z)𝐖=\frac{z𝐖-\mathbit𝐖r𝐖(t)}{1𝐖-\overline{\mathbit𝐖r𝐖(t)}z},𝐖
+d_H𝐖(\mathbit𝐖r𝐖(t),𝐖\mathbit𝐖r𝐖(t𝐖+\Delta𝐖t))𝐖=\ln𝐖[1𝐖+|𝐖T(\mathbit𝐖r𝐖(t𝐖+\Delta𝐖t))|]𝐖-\ln𝐖[1𝐖-|𝐖T(\mathbit𝐖r𝐖(t𝐖+\Delta𝐖t))|]𝐖.
+\Delta𝐖t
+T(\mathbit𝐖r𝐖(t𝐖+\Delta𝐖t))
+T(\mathbit𝐖r𝐖(t)),𝐖
+\ln𝐖(1𝐖+x)𝐖\approx𝐖x
 x
-\Delta t,
-d_H (\mathbit r (t), \mathbit r (t +\Delta t)) & \lt mi/> \approx | T(\mathbit r (t +\Delta t))| +| T(\mathbit r (t +\Delta t))| \\ \~ & \lt mi/> =2 \cdot | \frac{\mathbit r (t +\Delta t) -\mathbit r (t)}{1 -\overline{\mathbit r (t)}\mathbit r (t +\Delta t)}| \\ \~ & \lt mi/> =2 \cdot \frac{| \frac{\mathbit r (t +\Delta t) -\mathbit r (t)}{\Delta t}|}{| 1 -\overline{\mathbit r (t)}\mathbit r (t +\Delta t)|} \cdot | \Delta t| .
-\Delta t \to 0,
-| \mathbit r '(t)|
-1 -| \mathbit r (t)|^2,
-\mathbit r \colon [a, b] \to \mathbb D
-\mathbit r
-\mathcal L (\mathbit r),
-\mathcal L (\mathbit r) =\int_a^b \frac{2}{1 -| \mathbit r (t)|^2}| \mathbit r '(t)|dt .
-\mathbb D
-\mathbit r
-\mathbb D,
+\Delta𝐖t,𝐖
+d_H𝐖(\mathbit𝐖r𝐖(t),𝐖\mathbit𝐖r𝐖(t𝐖+\Delta𝐖t))𝐖&𝐖\lt𝐖mi/>𝐖\approx𝐖|𝐖T(\mathbit𝐖r𝐖(t𝐖+\Delta𝐖t))|𝐖+|𝐖T(\mathbit𝐖r𝐖(t𝐖+\Delta𝐖t))|𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=2𝐖\cdot𝐖|𝐖\frac{\mathbit𝐖r𝐖(t𝐖+\Delta𝐖t)𝐖-\mathbit𝐖r𝐖(t)}{1𝐖-\overline{\mathbit𝐖r𝐖(t)}\mathbit𝐖r𝐖(t𝐖+\Delta𝐖t)}|𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=2𝐖\cdot𝐖\frac{|𝐖\frac{\mathbit𝐖r𝐖(t𝐖+\Delta𝐖t)𝐖-\mathbit𝐖r𝐖(t)}{\Delta𝐖t}|}{|𝐖1𝐖-\overline{\mathbit𝐖r𝐖(t)}\mathbit𝐖r𝐖(t𝐖+\Delta𝐖t)|}𝐖\cdot𝐖|𝐖\Delta𝐖t|𝐖.
+\Delta𝐖t𝐖\to𝐖0,𝐖
+|𝐖\mathbit𝐖r𝐖'(t)|
+1𝐖-|𝐖\mathbit𝐖r𝐖(t)|^2𝐖,𝐖
+\mathbit𝐖r𝐖𝐖\colon𝐖[a,𝐖b]𝐖\to𝐖\mathbb𝐖D𝐖
+\mathbit𝐖r𝐖
+\mathcal𝐖L𝐖(\mathbit𝐖r𝐖),𝐖
+\mathcal𝐖L𝐖(\mathbit𝐖r𝐖)𝐖=\int𝐖_a^b𝐖\frac{2}{1𝐖-|𝐖\mathbit𝐖r𝐖(t)|^2𝐖}|𝐖\mathbit𝐖r𝐖'(t)|dt𝐖.
+\mathbb𝐖D𝐖
+\mathbit𝐖r𝐖
+\mathbb𝐖D𝐖,𝐖
 T
-\mscrH,
-\mathcal L (\mathbit r) =\mathcal L (T(\mathbit r)) .
-\mscrH
-\mathbb D .
+\mscrH𝐖,𝐖
+\mathcal𝐖L𝐖(\mathbit𝐖r𝐖)𝐖=\mathcal𝐖L𝐖(T(\mathbit𝐖r𝐖))𝐖.
+\mscrH𝐖
+\mathbb𝐖D𝐖𝐖.
 p
-p .
+p𝐖.
 p
 q
-(\mathbb D, \mscrH)
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
 c
-\mathbit r (t) =x(t) +iy(t)
-a \le t \le b,
+\mathbit𝐖r𝐖(t)𝐖=x(t)𝐖+iy(t)
+a𝐖\le𝐖t𝐖\le𝐖b,𝐖
 c
-\mathbit r (a) =0
-\mathbit r (b) =c
+\mathbit𝐖r𝐖(a)𝐖=0
+\mathbit𝐖r𝐖(b)𝐖=c
 x(t)
 x
-\mathcal L (\mathbit r) =\int_a^b \frac{2}{1 -[(x(t))^2 +(y(t))^2]}\sqrt{(x'(t))^2 +(y'(t))^2}dt .
+\mathcal𝐖L𝐖(\mathbit𝐖r𝐖)𝐖=\int𝐖_a^b𝐖\frac{2}{1𝐖-[(x(t))^2𝐖𝐖+(y(t))^2𝐖]}\sqrt{(x'(t))^2𝐖𝐖+(y'(t))^2𝐖}dt𝐖.
 c
-\mathbit r_0 (t) =x(t) +0i
-a \le t \le b,
-\mathcal L (\mathbit r_0) =\int_a^b \frac{2}{1 -[x(t)]^2}\sqrt{(x'(t))^2}dt .
-\mathbit r_0
-\mathbit r
-\mathcal L (\mathbit r) \ge \mathcal L (\mathbit r_0) .
-\mscrH
-\mathbb D
-p, q, u
-\mathbb D
-d_H (p, q) \ge 0,
-d_H (p, q) =0
-p =q;
-d_H (p, q) =d_H (q, p);
-d_H (p, q) +d_H (q, u) \ge d_H (p, u) .
-\mathbit p
-\mathbit q
-p =.5i
-q =.5 +.5i
+\mathbit𝐖r𝐖_0𝐖(t)𝐖=x(t)𝐖+0i
+a𝐖\le𝐖t𝐖\le𝐖b,𝐖
+\mathcal𝐖L𝐖(\mathbit𝐖r𝐖_0𝐖)𝐖=\int𝐖_a^b𝐖\frac{2}{1𝐖-[x(t)]^2𝐖}\sqrt{(x'(t))^2𝐖}dt𝐖.
+\mathbit𝐖r𝐖_0𝐖
+\mathbit𝐖r𝐖
+\mathcal𝐖L𝐖(\mathbit𝐖r𝐖)𝐖\ge𝐖\mathcal𝐖L𝐖(\mathbit𝐖r𝐖_0𝐖)𝐖.
+\mscrH𝐖
+\mathbb𝐖D𝐖
+p,𝐖q,𝐖u
+\mathbb𝐖D𝐖
+d_H𝐖(p,𝐖q)𝐖\ge𝐖0,𝐖
+d_H𝐖(p,𝐖q)𝐖=0
+p𝐖=q;𝐖
+d_H𝐖(p,𝐖q)𝐖=d_H𝐖(q,𝐖p);𝐖
+d_H𝐖(p,𝐖q)𝐖+d_H𝐖(q,𝐖u)𝐖\ge𝐖d_H𝐖(p,𝐖u)𝐖.
+\mathbit𝐖p𝐖
+\mathbit𝐖q𝐖
+p𝐖=.5i
+q𝐖=.5𝐖+.5i
 p
-q,
-\mathbit r
-p
-q
-\mathbb D
-p
-q .
-\mathbit r (t) =t +\frac{1}{2}i
-0 \le t \le \frac{1}{2} .
-\mathbit r '(t) =1
-\mathcal L (\mathbit r) & \lt mi/> =\int_0^{\frac{1}{2}} \frac{2}{1 -(t^2 +\frac{1}{4})}dt \\ \~ & \lt mi/> \approx 1.52 .
+q,𝐖
+\mathbit𝐖r𝐖
 p
 q
-(\mathbb D, \mscrH)
-(\mathbb D, \mathbcal H)
+\mathbb𝐖D𝐖
+p
+q𝐖.
+\mathbit𝐖r𝐖(t)𝐖=t𝐖+\frac{1}{2}i
+0𝐖\le𝐖t𝐖\le𝐖\frac{1}{2}𝐖.
+\mathbit𝐖r𝐖'(t)𝐖=1
+\mathcal𝐖L𝐖(\mathbit𝐖r𝐖)𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_0^{\frac{1}{2}}𝐖\frac{2}{1𝐖-(t^2𝐖𝐖+\frac{1}{4})}dt𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\approx𝐖1.52𝐖.
 p
 q
-\mathbb D,
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
+(\mathbb𝐖D𝐖,𝐖\mathbcal𝐖H𝐖)
+p
+q
+\mathbb𝐖D𝐖,𝐖
 pq
 p
 q
 q
-p .
-pq,
+p𝐖.
+pq,𝐖
 L
 L
 p
 q
 q
-p .
+p𝐖.
 L
 p
-q .
+q𝐖.
 z
-L,
-d_H (z, p) =d_H (z, q) .
-p, q,
+L,𝐖
+d_H𝐖(z,𝐖p)𝐖=d_H𝐖(z,𝐖q)𝐖.
+p,𝐖q,𝐖
 r
-\mathbb D
-0 \lt x \lt 1
+\mathbb𝐖D𝐖
+0𝐖\lt𝐖x𝐖\lt𝐖1
 L
 x
-h,
+h,𝐖
 w
-x +h
-w =\frac{ -h}{1 -x^2 -hx} .
-\mathbb D
+x𝐖+h
+w𝐖=\frac{𝐖-h}{1𝐖-x^2𝐖𝐖-hx}𝐖.
+\mathbb𝐖D𝐖
 L
 C
-L .
+L𝐖.
 z
-L,
+L,𝐖
 C
 z
 C
 C
 C
 L
-L .
-p =0.5
-q =0.25 +0.5i .
-(\mathbb D, \mscrH)
-(\mathbb D, \mscrH) .
-z_0
-r >0 .
+L𝐖.
+p𝐖=0.5
+q𝐖=0.25𝐖+0.5i𝐖.
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)𝐖.
+z_0𝐖
+r𝐖>0𝐖.
 C
 z
-\mathbb D
-d_H (z, z_0) =r
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
+\mathbb𝐖D𝐖
+d_H𝐖(z,𝐖z_0𝐖)𝐖=r
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
 p
 q
-\mathbb C^+,
-\mathbit p
-\mathbit q
+\mathbb𝐖C𝐖^+𝐖,𝐖
+\mathbit𝐖p𝐖
+\mathbit𝐖q𝐖
 p
-q,
-\mathbit p
-\mathbit q
-p
-q
-p
-q .
+q,𝐖
+\mathbit𝐖p𝐖
+\mathbit𝐖q𝐖
 p
 q
 p
-q .
+q𝐖.
+p
+q
+p
+q𝐖.
 p
 q
 p
 q
 C
 p
-q,
+q,𝐖
 T(C)
 T(p)
-T(q) .
+T(q)𝐖.
 C
 p
-q,
+q,𝐖
 T(C)
 T(p)
-T(q) .
-\infty
-\infty
-\infty .
-\infty
-0 \mapsto p
-\infty \mapsto q
-\infty
+T(q)𝐖.
+\infty𝐖
+\infty𝐖
+\infty𝐖𝐖.
+\infty𝐖
+0𝐖\mapsto𝐖p
+\infty𝐖𝐖\mapsto𝐖q
+\infty𝐖
 p
-q,
+q,𝐖
 p
-\infty
+\infty𝐖
 q
-p, q \not= \infty
+p,𝐖q𝐖\not=𝐖\infty𝐖
 p
-q,
+q,𝐖
 p
-q .
+q𝐖.
 z
 p
 q
 p
-q,
-\infty
-\infty
-T(z) =(az +b)/(cz +d)
-\infty .
-T(0) =0,
-b =0 .
-T(\infty) =\infty,
-c =0 .
-T(z) =\frac{a}{d}z
-T(z) =re^{i\theta} z .
+q,𝐖
+\infty𝐖
+\infty𝐖
+T(z)𝐖=(az𝐖+b)/(cz𝐖+d)
+\infty𝐖𝐖.
+T(0)𝐖=0,𝐖
+b𝐖=0𝐖.
+T(\infty𝐖)𝐖=\infty𝐖,𝐖
+c𝐖=0𝐖.
+T(z)𝐖=\frac{a}{d}z
+T(z)𝐖=re^{i\theta𝐖}𝐖z𝐖.
 T
 T
-\infty,
+\infty𝐖,𝐖
 T
 r
-\theta
-r >0
-\pi
+\theta𝐖
+r𝐖>0
+\pi𝐖
 r
-\infty .
-\infty
-r >1
-0 \lt r \lt 1
-r =1
-\theta
-\infty .
+\infty𝐖𝐖.
+\infty𝐖
+r𝐖>1
+0𝐖\lt𝐖r𝐖\lt𝐖1
+r𝐖=1
+\theta𝐖
+\infty𝐖𝐖.
 T
 p
 q
-\infty
-S(z) =\frac{z -p}{z -q}
+\infty𝐖
+S(z)𝐖=\frac{z𝐖-p}{z𝐖-q}
 p
 q
-\infty .
+\infty𝐖𝐖.
 U
-(1) & U =S \circ T \circ S^{ -1} .
-U(0) =S \circ T \circ S^{ -1} (0) =S \circ T(p) =S(p) =0,
-U(\infty) =S \circ T \circ S^{ -1} (\infty) =S \circ T(q) =S(q) =\infty .
+(1)𝐖&𝐖U𝐖=S𝐖\circ𝐖T𝐖\circ𝐖S^{𝐖-1}𝐖𝐖.
+U(0)𝐖=S𝐖\circ𝐖T𝐖\circ𝐖S^{𝐖-1}𝐖(0)𝐖=S𝐖\circ𝐖T(p)𝐖=S(p)𝐖=0,𝐖
+U(\infty𝐖)𝐖=S𝐖\circ𝐖T𝐖\circ𝐖S^{𝐖-1}𝐖(\infty𝐖)𝐖=S𝐖\circ𝐖T(q)𝐖=S(q)𝐖=\infty𝐖𝐖.
 U
-\infty .
+\infty𝐖𝐖.
 U
 U
-U(z) =re^{i\theta} z .
+U(z)𝐖=re^{i\theta𝐖}𝐖z𝐖.
 T
-S \circ T =U \circ S,
+S𝐖\circ𝐖T𝐖=U𝐖\circ𝐖S,𝐖
 T
 p
 q
-\infty
-\frac{T(z) -p}{T(z) -q} =re^{i\theta} \cdot \frac{z -p}{z -q}
-a, b, c, d
-p, q, r, \theta
+\infty𝐖
+\frac{T(z)𝐖-p}{T(z)𝐖-q}𝐖=re^{i\theta𝐖}𝐖𝐖\cdot𝐖\frac{z𝐖-p}{z𝐖-q}
+a,𝐖b,𝐖c,𝐖d
+p,𝐖q,𝐖r,𝐖\theta𝐖
 p
 q
 r
 p
-q,
-\theta
+q,𝐖
+\theta𝐖
 p
-q .
+q𝐖.
 T
-T =S^{ -1} \circ U \circ S .
+T𝐖=S^{𝐖-1}𝐖𝐖\circ𝐖U𝐖\circ𝐖S𝐖.
 T
 z
 p
@@ -423,24 +423,24 @@ q
 z
 T
 p
-q .
+q𝐖.
 z
 S
-S(z),
+S(z),𝐖
 U
-U(z) =re^{i\theta} z
+U(z)𝐖=re^{i\theta𝐖}𝐖z
 S(z)
 r
-\theta
-U(S(z)) .
-S^{ -1}
+\theta𝐖
+U(S(z))𝐖.
+S^{𝐖-1}𝐖
 U(S(z))
 p
 q
 p
-q .
-S^{ -1} (U(S(z)))
-T(z) .
+q𝐖.
+S^{𝐖-1}𝐖(U(S(z)))
+T(z)𝐖.
 T
 T
 p
@@ -448,2440 +448,2440 @@ q
 r
 p
 q
-\theta
-| re^{i\theta} | =1
+\theta𝐖
+|𝐖re^{i\theta𝐖}𝐖|𝐖=1
 p
 q
 p
 q
 p
-q .
-\theta =0 .
-r,
+q𝐖.
+\theta𝐖𝐖=0𝐖.
+r,𝐖
 p
-q,
-p
-q
-p
-q
-r .
+q,𝐖
 p
 q
 p
-q .
+q
+r𝐖.
+p
+q
+p
+q𝐖.
 T
 p
-q,
-\infty .
-\infty
-z_\infty .
-T(z_\infty) =\infty .
-\mathbit T
-\infty
-w_\infty .
-T(\infty) =w_\infty .
-p, q, z_\infty,
-w_\infty .
+q,𝐖
+\infty𝐖𝐖.
+\infty𝐖
+z_\infty𝐖𝐖𝐖.
+T(z_\infty𝐖𝐖)𝐖=\infty𝐖𝐖.
+\mathbit𝐖T𝐖
+\infty𝐖
+w_\infty𝐖𝐖𝐖.
+T(\infty𝐖)𝐖=w_\infty𝐖𝐖𝐖.
+p,𝐖q,𝐖z_\infty𝐖𝐖,𝐖
+w_\infty𝐖𝐖𝐖.
 T
 p
-q,
-z_\infty
-\infty,
-\infty
-w_\infty .
-p +q =z_\infty +w_\infty .
+q,𝐖
+z_\infty𝐖𝐖
+\infty𝐖,𝐖
+\infty𝐖
+w_\infty𝐖𝐖𝐖.
+p𝐖+q𝐖=z_\infty𝐖𝐖𝐖+w_\infty𝐖𝐖𝐖.
 T
 p
-q,
-z_\infty
-\infty,
-\infty
-w_\infty,
-T(z) =\frac{w_\infty z -pq}{z -z_\infty} .
-\mathbit i \mapsto \infty
-\infty
--i,
-T(z) =\frac{ -iz -(1)( -1)}{z -i} =\frac{ -iz +1}{z -i} .
-T(z) =\frac{(6 +3i)z +(2 -3i)}{z +3} .
-T .
-T(z) =z
-z .
-\frac{(6 +3i)z +(2 -3i)}{z +3} & \lt mi/> =z \\ (6 +3i)z +(2 -3i) & \lt mi/> =z^2 +3z \\ z^2 -(3 +3i)z -(2 -3i) & \lt mi/> =0.
-\ldots
-z =i
-z =3 +2i .
+q,𝐖
+z_\infty𝐖𝐖
+\infty𝐖,𝐖
+\infty𝐖
+w_\infty𝐖𝐖,𝐖
+T(z)𝐖=\frac{w_\infty𝐖𝐖z𝐖-pq}{z𝐖-z_\infty𝐖𝐖}𝐖.
+\mathbit𝐖i𝐖𝐖\mapsto𝐖\infty𝐖
+\infty𝐖
+𝐖-i,𝐖
+T(z)𝐖=\frac{𝐖-iz𝐖-(1)(𝐖-1)}{z𝐖-i}𝐖=\frac{𝐖-iz𝐖+1}{z𝐖-i}𝐖.
+T(z)𝐖=\frac{(6𝐖+3i)z𝐖+(2𝐖-3i)}{z𝐖+3}𝐖.
+T𝐖.
+T(z)𝐖=z
+z𝐖.
+\frac{(6𝐖+3i)z𝐖+(2𝐖-3i)}{z𝐖+3}𝐖&𝐖\lt𝐖mi/>𝐖=z𝐖\\𝐖(6𝐖+3i)z𝐖+(2𝐖-3i)𝐖&𝐖\lt𝐖mi/>𝐖=z^2𝐖𝐖+3z𝐖\\𝐖z^2𝐖𝐖-(3𝐖+3i)z𝐖-(2𝐖-3i)𝐖&𝐖\lt𝐖mi/>𝐖=0.
+\ldots𝐖
+z𝐖=i
+z𝐖=3𝐖+2i𝐖.
 T
-\frac{T(z) -i}{T(z) -(3 +2i)} =\lambda \frac{z -i}{z -(3 +2i)} .
-\lambda,
-z .
-T( -3) =\infty,
-1 =\lambda \frac{ -3 -i}{ -3 -(3 +2i)} .
-\lambda =2,
+\frac{T(z)𝐖-i}{T(z)𝐖-(3𝐖+2i)}𝐖=\lambda𝐖\frac{z𝐖-i}{z𝐖-(3𝐖+2i)}𝐖.
+\lambda𝐖,𝐖
+z𝐖.
+T(𝐖-3)𝐖=\infty𝐖,𝐖
+1𝐖=\lambda𝐖\frac{𝐖-3𝐖-i}{𝐖-3𝐖-(3𝐖+2i)}𝐖.
+\lambda𝐖𝐖=2,𝐖
 T
 i
-3 +2i .
-\mathbb C^+ .
-T(0) =\frac{2}{3} -i,
-T(1) =2,
-T(4i) =2.16 +4.12i .
+3𝐖+2i𝐖.
+\mathbb𝐖C𝐖^+𝐖𝐖.
+T(0)𝐖=\frac{2}{3}𝐖-i,𝐖
+T(1)𝐖=2,𝐖
+T(4i)𝐖=2.16𝐖+4.12i𝐖.
 i
-3 +2i
+3𝐖+2i
 i
-3 +2i .
+3𝐖+2i𝐖.
 T
-z_\infty = -3,
-w_\infty =6 +3i .
-z_\infty,
-w_\infty,
-\mathbit i
-\mathbf 0
-\mathbf 1 \mapsto \mathbf 2
-\frac{T(z) -i}{T(z) -0} =\lambda \frac{z -i}{z -0} .
-T(1) =2
-\frac{2 -i}{2} =\lambda (1 -i) .
-\lambda
-\lambda =\frac{3}{4} +\frac{1}{4}i,
-\lambda
-\lambda =re^{i\theta},
-r =\frac{\sqrt{10}}{4}
-\theta =\arctan (1/3) .
+z_\infty𝐖𝐖𝐖=𝐖-3,𝐖
+w_\infty𝐖𝐖𝐖=6𝐖+3i𝐖.
+z_\infty𝐖𝐖,𝐖
+w_\infty𝐖𝐖,𝐖
+\mathbit𝐖i𝐖
+\mathbf𝐖0𝐖
+\mathbf𝐖1𝐖𝐖\mapsto𝐖\mathbf𝐖2𝐖
+\frac{T(z)𝐖-i}{T(z)𝐖-0}𝐖=\lambda𝐖\frac{z𝐖-i}{z𝐖-0}𝐖.
+T(1)𝐖=2
+\frac{2𝐖-i}{2}𝐖=\lambda𝐖(1𝐖-i)𝐖.
+\lambda𝐖
+\lambda𝐖𝐖=\frac{3}{4}𝐖+\frac{1}{4}i,𝐖
+\lambda𝐖
+\lambda𝐖𝐖=re^{i\theta𝐖}𝐖,𝐖
+r𝐖=\frac{\sqrt{10}}{4}
+\theta𝐖𝐖=\arctan𝐖(1/3)𝐖.
 T
 i
 0
 r
 i
 0
-\theta .
-d,
-T(z) =z +d
-\infty .
-\infty
+\theta𝐖𝐖.
+d,𝐖
+T(z)𝐖=z𝐖+d
+\infty𝐖𝐖.
+\infty𝐖
 T
-p \not= \infty
-S(z) =\frac{1}{z -p}
+p𝐖\not=𝐖\infty𝐖
+S(z)𝐖=\frac{1}{z𝐖-p}
 p
-\infty,
-U =S \circ T \circ S^{ -1} .
-U(\infty) =S(T(S^{ -1} (\infty))) =S(T(p)) =S(p) =\infty,
+\infty𝐖,𝐖
+U𝐖=S𝐖\circ𝐖T𝐖\circ𝐖S^{𝐖-1}𝐖𝐖.
+U(\infty𝐖)𝐖=S(T(S^{𝐖-1}𝐖(\infty𝐖)))𝐖=S(T(p))𝐖=S(p)𝐖=\infty𝐖,𝐖
 U
-U(z) =z +d
-d .
-S \circ T =U \circ S
-\mathbit T
-\mathbit p \not= \infty
-\mathbit p \not= \infty
-\frac{1}{T(z) -p} =\frac{1}{z -p} +d
-U(z) =z +d
+U(z)𝐖=z𝐖+d
+d𝐖.
+S𝐖\circ𝐖T𝐖=U𝐖\circ𝐖S
+\mathbit𝐖T𝐖
+\mathbit𝐖p𝐖𝐖\not=𝐖\infty𝐖
+\mathbit𝐖p𝐖𝐖\not=𝐖\infty𝐖
+\frac{1}{T(z)𝐖-p}𝐖=\frac{1}{z𝐖-p}𝐖+d
+U(z)𝐖=z𝐖+d
 d
-\infty
-S^{ -1}
-p,
-p,
-d .
+\infty𝐖
+S^{𝐖-1}𝐖
+p,𝐖
+p,𝐖
+d𝐖.
 p
-T(\infty)
+T(\infty𝐖)
 p
-p .
+p𝐖.
 p
-p .
+p𝐖.
 p
-\infty
-\infty .
-T(z) =(7z -12)/(3z -5) .
-z & \lt mi/> =T(z) \\ z(3z -5) & \lt mi/> =7z -12 \\ 3z^2 -12z +12 & \lt mi/> =0 \\ z^2 -4z +4 & \lt mi/> =0 \\ (z -2)^2 & \lt mi/> =0 \\ z & \lt mi/> =2.
+\infty𝐖
+\infty𝐖𝐖.
+T(z)𝐖=(7z𝐖-12)/(3z𝐖-5)𝐖.
+z𝐖&𝐖\lt𝐖mi/>𝐖=T(z)𝐖\\𝐖z(3z𝐖-5)𝐖&𝐖\lt𝐖mi/>𝐖=7z𝐖-12𝐖\\𝐖3z^2𝐖𝐖-12z𝐖+12𝐖&𝐖\lt𝐖mi/>𝐖=0𝐖\\𝐖z^2𝐖𝐖-4z𝐖+4𝐖&𝐖\lt𝐖mi/>𝐖=0𝐖\\𝐖(z𝐖-2)^2𝐖𝐖&𝐖\lt𝐖mi/>𝐖=0𝐖\\𝐖z𝐖&𝐖\lt𝐖mi/>𝐖=2.
 T
-\frac{1}{T(z) -2} =\frac{1}{z -2} +d .
+\frac{1}{T(z)𝐖-2}𝐖=\frac{1}{z𝐖-2}𝐖+d𝐖.
 d
-T(0) =2.4,
-\frac{1}{0.4} =\frac{1}{ -2} +d
-d =3 .
-\frac{1}{T(z) -2} =\frac{1}{z -2} +3 .
-T(z) =\frac{z}{2z -1}
-T(z) =\frac{ -z}{(1 +i)z -i}
-T(z) =\frac{3iz -5}{z -i}
+T(0)𝐖=2.4,𝐖
+\frac{1}{0.4}𝐖=\frac{1}{𝐖-2}𝐖+d
+d𝐖=3𝐖.
+\frac{1}{T(z)𝐖-2}𝐖=\frac{1}{z𝐖-2}𝐖+3𝐖.
+T(z)𝐖=\frac{z}{2z𝐖-1}
+T(z)𝐖=\frac{𝐖-z}{(1𝐖+i)z𝐖-i}
+T(z)𝐖=\frac{3iz𝐖-5}{z𝐖-i}
 T
-T \circ T
+T𝐖\circ𝐖T
 T
 T
-a, b, c
-\mathbb C
-T(a) =b, T(b) =c, T(c) =a .
-a, b,
+a,𝐖b,𝐖c
+\mathbb𝐖C𝐖
+T(a)𝐖=b,𝐖T(b)𝐖=c,𝐖T(c)𝐖=a𝐖.
+a,𝐖b,𝐖
 c
-T ?
-T \circ T \circ T
+T𝐖?
+T𝐖\circ𝐖T𝐖\circ𝐖T
 T
 T
-\infty,
-T(z) =z +d
-d .
-2 +i
-\infty .
+\infty𝐖,𝐖
+T(z)𝐖=z𝐖+d
+d𝐖.
+2𝐖+i
+\infty𝐖𝐖.
 i
 T
 p
-q .
-z_\infty
-w_\infty
-pq .
+q𝐖.
+z_\infty𝐖𝐖
+w_\infty𝐖𝐖
+pq𝐖.
 T
 p
-q .
+q𝐖.
 T
 p
 q
-z_\infty
-\infty
-\infty
-w_\infty .
-p +q =z_\infty +w_\infty .
+z_\infty𝐖𝐖
+\infty𝐖
+\infty𝐖
+w_\infty𝐖𝐖𝐖.
+p𝐖+q𝐖=z_\infty𝐖𝐖𝐖+w_\infty𝐖𝐖𝐖.
 T
 T
-p,
-q,
-z_\infty,
-w_\infty
+p,𝐖
+q,𝐖
+z_\infty𝐖𝐖,𝐖
+w_\infty𝐖𝐖
 T
 T
-\mathbb C
-T =i_{C_1} \circ i_{C_2}
-C_1
-C_2
+\mathbb𝐖C𝐖
+T𝐖=i_{C_1𝐖}𝐖𝐖\circ𝐖i_{C_2𝐖}𝐖
+C_1𝐖
+C_2𝐖
 T
-C_1
-C_2 .
+C_1𝐖
+C_2𝐖𝐖.
 T(z)
-\frac{1}{T(z) -p} =\frac{1}{z -p} +d .
+\frac{1}{T(z)𝐖-p}𝐖=\frac{1}{z𝐖-p}𝐖+d𝐖.
 p
-p +\frac{1}{d}
-T .
-T(z) =[(1 +3i)z -9i]/[iz +(1 -3i)]
-2 +i
-T(\infty) =8 .
-p,
-q,
+p𝐖+\frac{1}{d}
+T𝐖.
+T(z)𝐖=[(1𝐖+3i)z𝐖-9i]/[iz𝐖+(1𝐖-3i)]
+2𝐖+i
+T(\infty𝐖)𝐖=8𝐖.
+p,𝐖
+q,𝐖
 z
-\mathbb C,
+\mathbb𝐖C𝐖,𝐖
 p
 q
-z .
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbit r \colon [a, b] \to \mathbb P^2
-(\mathbb P^2, \mathscr S),
-\mathbit r
-\mathcal L (\mathbit r),
-\mathcal L (\mathbit r) =\int_a^b \frac{2| \mathbit r '(t)|}{1 +| \mathbit r (t)|^2}dt .
+z𝐖.
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbit𝐖r𝐖𝐖\colon𝐖[a,𝐖b]𝐖\to𝐖\mathbb𝐖P𝐖^2𝐖
+(\mathbb𝐖P𝐖^2𝐖,𝐖\mathscr𝐖S𝐖),𝐖
+\mathbit𝐖r𝐖
+\mathcal𝐖L𝐖(\mathbit𝐖r𝐖),𝐖
+\mathcal𝐖L𝐖(\mathbit𝐖r𝐖)𝐖=\int𝐖_a^b𝐖\frac{2|𝐖\mathbit𝐖r𝐖'(t)|}{1𝐖+|𝐖\mathbit𝐖r𝐖(t)|^2𝐖}dt𝐖.
 R
-\mathbb P^2,
-A(R),
-A(R) =\iint_R \frac{4r}{(1 +r^2)^2}drd\theta .
+\mathbb𝐖P𝐖^2𝐖,𝐖
+A(R),𝐖
+A(R)𝐖=\iint𝐖_R𝐖\frac{4r}{(1𝐖+r^2𝐖)^2𝐖}drd\theta𝐖𝐖.
 p
 q
-\mathbb P^2
+\mathbb𝐖P𝐖^2𝐖
 p
-q .
+q𝐖.
 p
-q,
-\mathbit p
-\mathbit q
-d_S (p, q),
+q,𝐖
+\mathbit𝐖p𝐖
+\mathbit𝐖q𝐖
+d_S𝐖(p,𝐖q),𝐖
 p
-q,
-p
-q
+q,𝐖
 p
 q
-(\mathbb P^2, \mathscr S)
-d_S (p, q) =\min \{2\arctan (| \frac{q -p}{1 +\overline{p}q}|), 2\arctan (| \frac{1 +\overline{p}q}{q -p}|)\} .
-d_S (0, 1) =2\arctan (1) =\pi /2 .
-2\pi,
-\pi /2
-d_S (0, x) =2\arctan (x)
-(\mathbb C^+, \mathscr S)
-x,
-\pi /2
-(\mathbb P^2, \mathscr S) .
+p
+q
+(\mathbb𝐖P𝐖^2𝐖,𝐖\mathscr𝐖S𝐖)
+d_S𝐖(p,𝐖q)𝐖=\min𝐖\{2\arctan𝐖(|𝐖\frac{q𝐖-p}{1𝐖+\overline{p}q}|),𝐖2\arctan𝐖(|𝐖\frac{1𝐖+\overline{p}q}{q𝐖-p}|)\}𝐖.
+d_S𝐖(0,𝐖1)𝐖=2\arctan𝐖(1)𝐖=\pi𝐖/2𝐖.
+2\pi𝐖,𝐖
+\pi𝐖/2
+d_S𝐖(0,𝐖x)𝐖=2\arctan𝐖(x)
+(\mathbb𝐖C𝐖^+𝐖,𝐖\mathscr𝐖S𝐖)
+x,𝐖
+\pi𝐖/2
+(\mathbb𝐖P𝐖^2𝐖,𝐖\mathscr𝐖S𝐖)𝐖.
 p
 r
-r >0 .
+r𝐖>0𝐖.
 r
-(\mathbb P^2, \mathscr S),
-z_0
+(\mathbb𝐖P𝐖^2𝐖,𝐖\mathscr𝐖S𝐖),𝐖
+z_0𝐖
 r
-z \in \mathbb P^2
+z𝐖\in𝐖\mathbb𝐖P𝐖^2𝐖
 r
-z_0
-z .
+z_0𝐖
+z𝐖.
 T
-\mathscr S
+\mathscr𝐖S𝐖
 p
-p_a .
+p_a𝐖𝐖.
 T
 p
-p_a,
+p_a𝐖,𝐖
 p
-p_a
-p .
-p
-q
-\mathbb P^2 .
-p
-p_a
-q .
-p
-q .
-p
-p_a
-q
-p
-p_a
-q_a .
-\mathbb P^2
+p_a𝐖
+p𝐖.
 p
 q
+\mathbb𝐖P𝐖^2𝐖𝐖.
 p
-p_a
+p_a𝐖
+q𝐖.
+p
+q𝐖.
+p
+p_a𝐖
+q
+p
+p_a𝐖
+q_a𝐖𝐖.
+\mathbb𝐖P𝐖^2𝐖
 p
 q
-\mathbb P^2
+p
+p_a𝐖
+p
+q
+\mathbb𝐖P𝐖^2𝐖
 a
-0 \lt a \lt 1
-2\arctan (a) .
-\mathbb P^2
-r \lt \pi /2
-C =2\pi \sin (r) .
-\pi /2
-\mathbb P^2
-\mathbb P^2
-\mathbb P^2
-\alpha .
-(\mathbb P^2, \mathscr S),
-\alpha
-2\alpha .
-(\mathbb P^\mathbf 2, \mathbcal S)
-\Delta pqr
-2\pi
-2\pi +2 \cdot A(\Delta pqr) & \lt mi/> =A(Lunep) +A(Luneq) +A(Luner) \\ 2\pi +2 \cdot A(\Delta pqr) & \lt mi/> =(2\alpha +2\beta +2\gamma) \\ A(\Delta pqr) & \lt mi/> =(\alpha +\beta +\gamma) -\pi .
-(\mathbb P^2, \mathscr S),
-\alpha, \beta, \gamma
-A =(\alpha +\beta +\gamma) -\pi .
-\lt mi/>\circ .
-p, q
+0𝐖\lt𝐖a𝐖\lt𝐖1
+2\arctan𝐖(a)𝐖.
+\mathbb𝐖P𝐖^2𝐖
+r𝐖\lt𝐖\pi𝐖/2
+C𝐖=2\pi𝐖\sin𝐖(r)𝐖.
+\pi𝐖/2
+\mathbb𝐖P𝐖^2𝐖
+\mathbb𝐖P𝐖^2𝐖
+\mathbb𝐖P𝐖^2𝐖
+\alpha𝐖𝐖.
+(\mathbb𝐖P𝐖^2𝐖,𝐖\mathscr𝐖S𝐖),𝐖
+\alpha𝐖
+2\alpha𝐖𝐖.
+(\mathbb𝐖P𝐖^\mathbf𝐖2𝐖𝐖,𝐖\mathbcal𝐖S𝐖)
+\Delta𝐖pqr
+2\pi𝐖
+2\pi𝐖𝐖+2𝐖\cdot𝐖A(\Delta𝐖pqr)𝐖&𝐖\lt𝐖mi/>𝐖=A(Lunep)𝐖+A(Luneq)𝐖+A(Luner)𝐖\\𝐖2\pi𝐖𝐖+2𝐖\cdot𝐖A(\Delta𝐖pqr)𝐖&𝐖\lt𝐖mi/>𝐖=(2\alpha𝐖𝐖+2\beta𝐖𝐖+2\gamma𝐖)𝐖\\𝐖A(\Delta𝐖pqr)𝐖&𝐖\lt𝐖mi/>𝐖=(\alpha𝐖𝐖+\beta𝐖𝐖+\gamma𝐖)𝐖-\pi𝐖𝐖.
+(\mathbb𝐖P𝐖^2𝐖,𝐖\mathscr𝐖S𝐖),𝐖
+\alpha𝐖,𝐖\beta𝐖,𝐖\gamma𝐖
+A𝐖=(\alpha𝐖𝐖+\beta𝐖𝐖+\gamma𝐖)𝐖-\pi𝐖𝐖.
+\lt𝐖mi/>\circ𝐖.
+p,𝐖q
 z
-(\mathbb P^2, \mathscr S)
-\pi /2
-a, b,
-c,
-\alpha, \beta,
-\gamma
-\cos (c) =\cos (a)\cos (b) +\sin (a)\sin (b)\cos (\gamma) .
-\frac{\sin (a)}{\sin (\alpha)} =\frac{\sin (b)}{\sin (\beta)} =\frac{\sin (c)}{\sin (\gamma)} .
-(\mathbb P^2, \mathscr S)
+(\mathbb𝐖P𝐖^2𝐖,𝐖\mathscr𝐖S𝐖)
+\pi𝐖/2
+a,𝐖b,𝐖
+c,𝐖
+\alpha𝐖,𝐖\beta𝐖,𝐖
+\gamma𝐖
+\cos𝐖(c)𝐖=\cos𝐖(a)\cos𝐖(b)𝐖+\sin𝐖(a)\sin𝐖(b)\cos𝐖(\gamma𝐖)𝐖.
+\frac{\sin𝐖(a)}{\sin𝐖(\alpha𝐖)}𝐖=\frac{\sin𝐖(b)}{\sin𝐖(\beta𝐖)}𝐖=\frac{\sin𝐖(c)}{\sin𝐖(\gamma𝐖)}𝐖.
+(\mathbb𝐖P𝐖^2𝐖,𝐖\mathscr𝐖S𝐖)
 a
-b,
-c,
-\cos (c) =\cos (a)\cos (b) .
-C =2\pi \sin (r),
-r \lt \pi /2
-\lim_{r \to 0^+} \frac{2\pi \sin (r)}{2\pi r} =1 .
-r,
-\pi /2 .
-2\pi /3 .
-\pi .
-2\pi .
+b,𝐖
+c,𝐖
+\cos𝐖(c)𝐖=\cos𝐖(a)\cos𝐖(b)𝐖.
+C𝐖=2\pi𝐖\sin𝐖(r),𝐖
+r𝐖\lt𝐖\pi𝐖/2
+\lim𝐖_{r𝐖\to𝐖0^+𝐖}𝐖\frac{2\pi𝐖\sin𝐖(r)}{2\pi𝐖r}𝐖=1𝐖.
+r,𝐖
+\pi𝐖/2𝐖.
+2\pi𝐖/3𝐖.
+\pi𝐖𝐖.
+2\pi𝐖𝐖.
 C
-z_0
-r >0 .
+z_0𝐖
+r𝐖>0𝐖.
 r
 C
 r
 C
 \frac{1}{2}
-\frac{1}{2}i .
-r \lt \pi /2
-A =4\pi \sin^2 (r/2) .
-\lim_{r \to 0^+} \frac{4\pi \sin^2 (r/2)}{\pi r^2} =1 .
-r,
-\mathbb P^2
-2\pi .
-\mathbb P^2 .
-92\circ,
-62\circ,
-27\circ .
-\mathbb P^2
+\frac{1}{2}i𝐖.
+r𝐖\lt𝐖\pi𝐖/2
+A𝐖=4\pi𝐖\sin𝐖^2𝐖(r/2)𝐖.
+\lim𝐖_{r𝐖\to𝐖0^+𝐖}𝐖\frac{4\pi𝐖\sin𝐖^2𝐖(r/2)}{\pi𝐖r^2𝐖}𝐖=1𝐖.
+r,𝐖
+\mathbb𝐖P𝐖^2𝐖
+2\pi𝐖𝐖.
+\mathbb𝐖P𝐖^2𝐖𝐖.
+92\circ,𝐖
+62\circ,𝐖
+27\circ𝐖.
+\mathbb𝐖P𝐖^2𝐖
 n
-(\mathbb P^2, \mathscr S),
+(\mathbb𝐖P𝐖^2𝐖,𝐖\mathscr𝐖S𝐖),𝐖
 n
-\alpha_1, \alpha_2, \cdots, \alpha_n .
+\alpha𝐖_1𝐖,𝐖\alpha𝐖_2𝐖,𝐖\cdots𝐖,𝐖\alpha𝐖_n𝐖𝐖.
 p
 q
-(\mathbb C^+, \mathscr S)
-d_S (p, q) =2\arctan (| \frac{q -p}{1 +\overline{p}q}|),
-d_S (p, q)
-\phi^{ -1} (p)
-\phi^{ -1} (q) .
-(\mathbb C^+, \mathscr S)
-(\mathbb P^2, \mathscr S) .
+(\mathbb𝐖C𝐖^+𝐖,𝐖\mathscr𝐖S𝐖)
+d_S𝐖(p,𝐖q)𝐖=2\arctan𝐖(|𝐖\frac{q𝐖-p}{1𝐖+\overline{p}q}|),𝐖
+d_S𝐖(p,𝐖q)
+\phi𝐖^{𝐖-1}𝐖(p)
+\phi𝐖^{𝐖-1}𝐖(q)𝐖.
+(\mathbb𝐖C𝐖^+𝐖,𝐖\mathscr𝐖S𝐖)
+(\mathbb𝐖P𝐖^2𝐖,𝐖\mathscr𝐖S𝐖)𝐖.
 x
-\mathbb C^+,
-d_S (0, x) =2\arctan (x) .
+\mathbb𝐖C𝐖^+𝐖,𝐖
+d_S𝐖(0,𝐖x)𝐖=2\arctan𝐖(x)𝐖.
 p
 q
-\mathbb C^+,
-d_S (p, q) =2\arctan (| \frac{q -p}{1 +\overline{p}q}|) .
-x >0
-\phi^{ -1} (x),
+\mathbb𝐖C𝐖^+𝐖,𝐖
+d_S𝐖(p,𝐖q)𝐖=2\arctan𝐖(|𝐖\frac{q𝐖-p}{1𝐖+\overline{p}q}|)𝐖.
+x𝐖>0
+\phi𝐖^{𝐖-1}𝐖(x),𝐖
 x
-\phi^{ -1} (0) ?
-\phi^{ -1} (0)
-\phi^{ -1} (x)
-\arccos ((1 -x^2)/(1 +x^2)) .
-\cos (\theta) =\vec{v} \cdot \vec{w}
-x >0,
-\arccos ((1 -x^2)/(1 +x^2)) =2\arctan (x) .
-\tan (\theta /2) =\tan (\theta)/(\sec (\theta) +1) .
-(\mathbb P^2, \mathscr S)
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C^+
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-z_0
+\phi𝐖^{𝐖-1}𝐖(0)𝐖?
+\phi𝐖^{𝐖-1}𝐖(0)
+\phi𝐖^{𝐖-1}𝐖(x)
+\arccos𝐖((1𝐖-x^2𝐖)/(1𝐖+x^2𝐖))𝐖.
+\cos𝐖(\theta𝐖)𝐖=\vec{v}𝐖\cdot𝐖\vec{w}
+x𝐖>0,𝐖
+\arccos𝐖((1𝐖-x^2𝐖)/(1𝐖+x^2𝐖))𝐖=2\arctan𝐖(x)𝐖.
+\tan𝐖(\theta𝐖/2)𝐖=\tan𝐖(\theta𝐖)/(\sec𝐖(\theta𝐖)𝐖+1)𝐖.
+(\mathbb𝐖P𝐖^2𝐖,𝐖\mathscr𝐖S𝐖)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖^+𝐖
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+z_0𝐖
 z
 T(z)
-\vec{z_0 z}
+\vec{z_0𝐖z}
 T
 n
-\mathbb R^n .
-\mathbb R^n
+\mathbb𝐖R𝐖^n𝐖𝐖.
+\mathbb𝐖R𝐖^n𝐖
 n
-\mathbit p =(x_1, x_2, \ldots, x_n) .
-\mathbit n
-\mathbit p
-\mathbb R^n
-r >0,
-B_n (\mathbit p, r),
-B_n (\mathbit p, r) =\{\mathbit x \in \mathbb R^n || \mathbit x -\mathbit p | \lt r\},
-| \mathbit x -\mathbit p |
-\mathbit x
-\mathbit p .
-\mathbb R .
-B_2 (z_0, r)
+\mathbit𝐖p𝐖𝐖=(x_1𝐖,𝐖x_2𝐖,𝐖\ldots𝐖,𝐖x_n𝐖)𝐖.
+\mathbit𝐖n𝐖
+\mathbit𝐖p𝐖
+\mathbb𝐖R𝐖^n𝐖
+r𝐖>0,𝐖
+B_n𝐖(\mathbit𝐖p𝐖,𝐖r),𝐖
+B_n𝐖(\mathbit𝐖p𝐖,𝐖r)𝐖=\{\mathbit𝐖x𝐖𝐖\in𝐖\mathbb𝐖R𝐖^n𝐖||𝐖\mathbit𝐖x𝐖𝐖-\mathbit𝐖p𝐖|𝐖\lt𝐖r\},𝐖
+|𝐖\mathbit𝐖x𝐖𝐖-\mathbit𝐖p𝐖|
+\mathbit𝐖x𝐖
+\mathbit𝐖p𝐖𝐖.
+\mathbb𝐖R𝐖𝐖.
+B_2𝐖(z_0𝐖,𝐖r)
 z
-\mathbb C
-| z -z_0 | \lt r .
-B_3 (\mathbit p, r)
-\mathbb R^3
-\mathbit p
-r .
+\mathbb𝐖C𝐖
+|𝐖z𝐖-z_0𝐖|𝐖\lt𝐖r𝐖.
+B_3𝐖(\mathbit𝐖p𝐖,𝐖r)
+\mathbb𝐖R𝐖^3𝐖
+\mathbit𝐖p𝐖
+r𝐖.
 n
-n =1, 2, 3 .
-\mathbit n
+n𝐖=1,𝐖2,𝐖3𝐖.
+\mathbit𝐖n𝐖
 X
 X
 n
 S
-\mathbb R^3 .
-S =\{(x, y, z) \in \mathbb R^3 |z =0orz =1\}
+\mathbb𝐖R𝐖^3𝐖𝐖.
+S𝐖=\{(x,𝐖y,𝐖z)𝐖\in𝐖\mathbb𝐖R𝐖^3𝐖|z𝐖=0orz𝐖=1\}
 S
-\mathbb D =\{z \in \mathbb C || z| \lt 1\}
-\mathbb D
-| z| =r \lt 1,
-s =1 -r .
-B_2 (z, s)
+\mathbb𝐖D𝐖𝐖=\{z𝐖\in𝐖\mathbb𝐖C𝐖||𝐖z|𝐖\lt𝐖1\}
+\mathbb𝐖D𝐖
+|𝐖z|𝐖=r𝐖\lt𝐖1,𝐖
+s𝐖=1𝐖-r𝐖.
+B_2𝐖(z,𝐖s)
 x
 y
 a
 b
 p
 q
-\mathbb R^2 .
+\mathbb𝐖R𝐖^2𝐖𝐖.
 u
-\mathbb R^2 .
-\mathbb R^n
+\mathbb𝐖R𝐖^2𝐖𝐖.
+\mathbb𝐖R𝐖^n𝐖
 n
-\mathbb R^3
-\mathbb D
-\mathbb R^2 .
+\mathbb𝐖R𝐖^3𝐖
+\mathbb𝐖D𝐖
+\mathbb𝐖R𝐖^2𝐖𝐖.
 S
-\mathbb R^n
-\{z_k \}
+\mathbb𝐖R𝐖^n𝐖
+\{z_k𝐖\}
 S
-z,
+z,𝐖
 z
-S .
-\mathbb D
-\{\frac{1}{2}, \frac{2}{3}, \frac{3}{4}, \frac{4}{5}, \ldots \} .
-\mathbb D,
-\mathbb R^n
-\mathbb S^2,
-\mathbb T^2,
-\mathbb P^2 .
-X_1
-X_2
-X_1 \#X_2,
-X_1
-X_2;
-X_i
-\mathbb T^2
-\mathbb R^3
-\mathbb S^2
-\mathbb T^2 \#\mathbb T^2,
-\mathbb S^2 \#\mathbb T^2 .
-\mathbb T^2 \#\mathbb T^2
-H_2
-\mathbb S^2 \#\mathbb T^2
-\mathbb T^2 .
+S𝐖.
+\mathbb𝐖D𝐖
+\{\frac{1}{2},𝐖\frac{2}{3},𝐖\frac{3}{4},𝐖\frac{4}{5},𝐖\ldots𝐖\}𝐖.
+\mathbb𝐖D𝐖,𝐖
+\mathbb𝐖R𝐖^n𝐖
+\mathbb𝐖S𝐖^2𝐖,𝐖
+\mathbb𝐖T𝐖^2𝐖,𝐖
+\mathbb𝐖P𝐖^2𝐖𝐖.
+X_1𝐖
+X_2𝐖
+X_1𝐖\#X_2𝐖,𝐖
+X_1𝐖
+X_2𝐖;𝐖
+X_i𝐖
+\mathbb𝐖T𝐖^2𝐖
+\mathbb𝐖R𝐖^3𝐖
+\mathbb𝐖S𝐖^2𝐖
+\mathbb𝐖T𝐖^2𝐖\#\mathbb𝐖T𝐖^2𝐖,𝐖
+\mathbb𝐖S𝐖^2𝐖\#\mathbb𝐖T𝐖^2𝐖𝐖.
+\mathbb𝐖T𝐖^2𝐖\#\mathbb𝐖T𝐖^2𝐖
+H_2𝐖
+\mathbb𝐖S𝐖^2𝐖\#\mathbb𝐖T𝐖^2𝐖
+\mathbb𝐖T𝐖^2𝐖𝐖.
 X
-0 \colon
-\mathbb S^2 \#X =X
-X .
-g \ge 1,
-\mathbit g
-H_g,
-H_g =\overset{gcopies}{\overset{\overbrace}{\mathbb T^2 \#\mathbb T^2 \#\cdots \#\mathbb T^2}} .
-H_g
+0𝐖\colon𝐖
+\mathbb𝐖S𝐖^2𝐖\#X𝐖=X
+X𝐖.
+g𝐖\ge𝐖1,𝐖
+\mathbit𝐖g𝐖
+H_g𝐖,𝐖
+H_g𝐖𝐖=\overset{gcopies}{\overset{\overbrace𝐖}{\mathbb𝐖T𝐖^2𝐖\#\mathbb𝐖T𝐖^2𝐖\#\cdots𝐖\#\mathbb𝐖T𝐖^2𝐖}}𝐖.
+H_g𝐖
 g
-H_0 =\mathbb S^2 .
-g \ge 1,
-\mathbit g
-C_g =\overset{gcopies}{\overset{\overbrace}{\mathbb P^2 \#\mathbb P^2 \#\cdots \#\mathbb P^2}} .
-\mathbb P^2 .
-C_g
+H_0𝐖𝐖=\mathbb𝐖S𝐖^2𝐖𝐖.
+g𝐖\ge𝐖1,𝐖
+\mathbit𝐖g𝐖
+C_g𝐖𝐖=\overset{gcopies}{\overset{\overbrace𝐖}{\mathbb𝐖P𝐖^2𝐖\#\mathbb𝐖P𝐖^2𝐖\#\cdots𝐖\#\mathbb𝐖P𝐖^2𝐖}}𝐖.
+\mathbb𝐖P𝐖^2𝐖𝐖.
+C_g𝐖
 g
-C_1
-\mathbb R^3
-C_1 \#C_1 .
-C_1 .
-c .
-C_1
+C_1𝐖
+\mathbb𝐖R𝐖^3𝐖
+C_1𝐖\#C_1𝐖𝐖.
+C_1𝐖𝐖.
+c𝐖.
+C_1𝐖
 c
 c
-C_2
-C_2
-C_2 .
-C_2
-C_2
-a_1 a_1 a_2 a_2 .
-C_{g -1} \#C_1,
-C_g
+C_2𝐖
+C_2𝐖
+C_2𝐖𝐖.
+C_2𝐖
+C_2𝐖
+a_1𝐖a_1𝐖a_2𝐖a_2𝐖𝐖.
+C_{g𝐖-1}𝐖\#C_1𝐖,𝐖
+C_g𝐖
 2g
-a_1 a_1 a_2 a_2 \cdots a_g a_g .
-aba^{ -1} b^{ -1} .
-(a_1 b_1 a_1^{ -1} b_1^{ -1})(a_2 b_2 a_2^{ -1} b_2^{ -1}) .
-g \ge 1
-H_g
+a_1𝐖a_1𝐖a_2𝐖a_2𝐖\cdots𝐖a_g𝐖a_g𝐖𝐖.
+aba^{𝐖-1}𝐖b^{𝐖-1}𝐖𝐖.
+(a_1𝐖b_1𝐖a_1^{𝐖-1}𝐖b_1^{𝐖-1}𝐖)(a_2𝐖b_2𝐖a_2^{𝐖-1}𝐖b_2^{𝐖-1}𝐖)𝐖.
+g𝐖\ge𝐖1
+H_g𝐖
 4g
-(a_1 b_1 a_1^{ -1} b_1^{ -1})(a_2 b_2 a_2^{ -1} b_2^{ -1})\cdots (a_g b_g a_g^{ -1} b_g^{ -1}) .
-\mathbb S^2,
-H_g
-g \ge 1,
-C_g
-g \ge 1 .
+(a_1𝐖b_1𝐖a_1^{𝐖-1}𝐖b_1^{𝐖-1}𝐖)(a_2𝐖b_2𝐖a_2^{𝐖-1}𝐖b_2^{𝐖-1}𝐖)\cdots𝐖(a_g𝐖b_g𝐖a_g^{𝐖-1}𝐖b_g^{𝐖-1}𝐖)𝐖.
+\mathbb𝐖S𝐖^2𝐖,𝐖
+H_g𝐖
+g𝐖\ge𝐖1,𝐖
+C_g𝐖
+g𝐖\ge𝐖1𝐖.
 2m
-m \ge 1 .
-H_2
-aba^{ -1} b,
-\mathbb K^2 .
+m𝐖\ge𝐖1𝐖.
+H_2𝐖
+aba^{𝐖-1}𝐖b,𝐖
+\mathbb𝐖K𝐖^2𝐖𝐖.
 S
 T
-C_g
-a_1
-H_g
-g \ge 0)
-\mathbit n
-\mathbit n
+C_g𝐖
+a_1𝐖
+H_g𝐖
+g𝐖\ge𝐖0)
+\mathbit𝐖n𝐖
+\mathbit𝐖n𝐖
 n
-\mathbb R^n .
+\mathbb𝐖R𝐖^n𝐖𝐖.
 C
-C .
+C𝐖.
 C
-\mathbf n
+\mathbf𝐖n𝐖
 n
 n
 X
 C
-X .
-\mathbb S^2 .
-\mathbit H_\mathbf 1
-S,
-\chi (S),
-\chi (S) =v -e +f
-v,
-e,
+X𝐖.
+\mathbb𝐖S𝐖^2𝐖𝐖.
+\mathbit𝐖H𝐖_\mathbf𝐖1𝐖𝐖
+S,𝐖
+\chi𝐖(S),𝐖
+\chi𝐖(S)𝐖=v𝐖-e𝐖+f
+v,𝐖
+e,𝐖
 f
-\chi .
-\mathbb S^2,
-\chi (\mathbb S^2) =2.
-\mathbb T^2
-v -e +f =0 .
-H_g
-\chi (H_g) =2 -2g,
-g \ge 0 .
-C_g
-\chi (C_g) =2 -g,
-g \ge 1 .
-\chi
-H_0
-C_1
-H_1
-C_2
-C_3
-H_2
-C_4
-C_5
-H_3
-C_6
-\vdots
-\vdots
-\vdots
-abca^{ -1} b^{ -1} c^{ -1} .
-a_1 a_1
-a_2 a_2
-s_1
-s_2
+\chi𝐖𝐖.
+\mathbb𝐖S𝐖^2𝐖,𝐖
+\chi𝐖(\mathbb𝐖S𝐖^2𝐖)𝐖=2.
+\mathbb𝐖T𝐖^2𝐖
+v𝐖-e𝐖+f𝐖=0𝐖.
+H_g𝐖
+\chi𝐖(H_g𝐖)𝐖=2𝐖-2g,𝐖
+g𝐖\ge𝐖0𝐖.
+C_g𝐖
+\chi𝐖(C_g𝐖)𝐖=2𝐖-g,𝐖
+g𝐖\ge𝐖1𝐖.
+\chi𝐖
+H_0𝐖
+C_1𝐖
+H_1𝐖
+C_2𝐖
+C_3𝐖
+H_2𝐖
+C_4𝐖
+C_5𝐖
+H_3𝐖
+C_6𝐖
+\vdots𝐖
+\vdots𝐖
+\vdots𝐖
+abca^{𝐖-1}𝐖b^{𝐖-1}𝐖c^{𝐖-1}𝐖𝐖.
+a_1𝐖a_1𝐖
+a_2𝐖a_2𝐖
+s_1𝐖
+s_2𝐖
 b
 c
 d
 e
-b, c, d,
+b,𝐖c,𝐖d,𝐖
 e
-H_1 \#C_1 ?
-C_g,
-C_2
-\mathbb K^2 .
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-(\mathbb D_k, \mscrH_k)
-k \lt 0
-(\mathbb P_k^2, \mathscr S_k)
-k >0
-(X_k, G_k)
-\infty
-\mathbb P^2
-\mathbb S^1
-C_g
-H_g
+H_1𝐖\#C_1𝐖𝐖?
+C_g𝐖,𝐖
+C_2𝐖
+\mathbb𝐖K𝐖^2𝐖𝐖.
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+(\mathbb𝐖D𝐖_k𝐖,𝐖\mscrH𝐖_k𝐖)
+k𝐖\lt𝐖0
+(\mathbb𝐖P𝐖_k^2𝐖,𝐖\mathscr𝐖S𝐖_k𝐖)
+k𝐖>0
+(X_k𝐖,𝐖G_k𝐖)
+\infty𝐖
+\mathbb𝐖P𝐖^2𝐖
+\mathbb𝐖S𝐖^1𝐖
+C_g𝐖
+H_g𝐖
 i
-\mathbb C^+
-\mathbb R^n
+\mathbb𝐖C𝐖^+𝐖
+\mathbb𝐖R𝐖^n𝐖
 n
-\mathbb R^n
+\mathbb𝐖R𝐖^n𝐖
 p
 q
-(\mathbb D, \mscrH)
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
 45\circ
-(\mathbb D, \mscrH)
-i_C (z)
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
+i_C𝐖(z)
 z
 C
 z
 C
 k
-(X_k, G_k)
-k =0
-k >0
-k \lt 0
-\mathbb C^+
+(X_k𝐖,𝐖G_k𝐖)
+k𝐖=0
+k𝐖>0
+k𝐖\lt𝐖0
+\mathbb𝐖C𝐖^+𝐖
 g
-\mscrH,
+\mscrH𝐖,𝐖
 \frac{2}{3}
-\mathbb D,
+\mathbb𝐖D𝐖,𝐖
 p
-q,
+q,𝐖
 p
-q,
+q,𝐖
 k
-L(p, q)
+L(p,𝐖q)
 n
-\infty
+\infty𝐖
 X/G
-(X, G)
+(X,𝐖G)
 n
 g
-C_g
+C_g𝐖
 g
-H_g
+H_g𝐖
 p
 q
 p
 q
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖
 A
-B,
-f \colon A \to B
-a_1 \not= a_2
-A,
-f(a_1) \not= f(a_2)
-B .
+B,𝐖
+f𝐖\colon𝐖A𝐖\to𝐖B
+a_1𝐖𝐖\not=𝐖a_2𝐖
+A,𝐖
+f(a_1𝐖)𝐖\not=𝐖f(a_2𝐖)
+B𝐖.
 f
 b
 B
 a
 A
-f(a) =b .
+f(a)𝐖=b𝐖.
 A
-T \colon A \to A
-f \colon A \to B
-g \colon A \to B
+T𝐖\colon𝐖A𝐖\to𝐖A
+f𝐖\colon𝐖A𝐖\to𝐖B
+g𝐖\colon𝐖A𝐖\to𝐖B
 T
 A
-T^{ -1},
-T^{ -1} \circ T(a) =a
-T \circ T^{ -1} (a) =a
+T^{𝐖-1}𝐖,𝐖
+T^{𝐖-1}𝐖𝐖\circ𝐖T(a)𝐖=a
+T𝐖\circ𝐖T^{𝐖-1}𝐖(a)𝐖=a
 a
-A .
-T^{ -1}
+A𝐖.
+T^{𝐖-1}𝐖
 A
 T
 z
 w
-A,
-T^{ -1} (w) =z
-T(z) =w .
-\mathbb C
-T(z) =az +b,
-a, b
-\mathbb C
-a \not= 0 .
-b \colon
-T_b (z) =z +b .
-\theta
-0 \colon
-R_\theta (z) =e^{i\theta} z .
-\theta
-z_0 \colon
-R(z) =e^{i\theta} (z -z_0) +z_0 .
-k >0 \colon
-T(z) =kz .
-L \colon
-r_L (z) =e^{i\theta} \overline{z} +b,
+A,𝐖
+T^{𝐖-1}𝐖(w)𝐖=z
+T(z)𝐖=w𝐖.
+\mathbb𝐖C𝐖
+T(z)𝐖=az𝐖+b,𝐖
+a,𝐖b
+\mathbb𝐖C𝐖
+a𝐖\not=𝐖0𝐖.
+b𝐖\colon𝐖
+T_b𝐖(z)𝐖=z𝐖+b𝐖.
+\theta𝐖
+0𝐖\colon𝐖
+R_\theta𝐖𝐖(z)𝐖=e^{i\theta𝐖}𝐖z𝐖.
+\theta𝐖
+z_0𝐖𝐖\colon𝐖
+R(z)𝐖=e^{i\theta𝐖}𝐖(z𝐖-z_0𝐖)𝐖+z_0𝐖𝐖.
+k𝐖>0𝐖\colon𝐖
+T(z)𝐖=kz𝐖.
+L𝐖\colon𝐖
+r_L𝐖(z)𝐖=e^{i\theta𝐖}𝐖\overline{z}𝐖+b,𝐖
 b
-\mathbb C,
-\theta
-\mathbb R .
-b,
-T_b \colon \mathbb C \to \mathbb C
-T_b (z) =z +b .
+\mathbb𝐖C𝐖,𝐖
+\theta𝐖
+\mathbb𝐖R𝐖𝐖.
+b,𝐖
+T_b𝐖𝐖\colon𝐖\mathbb𝐖C𝐖𝐖\to𝐖\mathbb𝐖C𝐖
+T_b𝐖(z)𝐖=z𝐖+b𝐖.
 z
 b
-T_b
-b,
-b,
-T_b (0) =b
+T_b𝐖
+b,𝐖
+b,𝐖
+T_b𝐖(0)𝐖=b
 v
 w
--b
-T_b
+𝐖-b
+T_b𝐖
 b
-T_b
-T_b
+T_b𝐖
+T_b𝐖
 w
-\mathbb C .
+\mathbb𝐖C𝐖𝐖.
 z
-T_b (z) =w .
-z =w -b .
-T_b (z) =z +b =(w -b) +b =w .
+T_b𝐖(z)𝐖=w𝐖.
+z𝐖=w𝐖-b𝐖.
+T_b𝐖(z)𝐖=z𝐖+b𝐖=(w𝐖-b)𝐖+b𝐖=w𝐖.
 T
-T_b
-T_b
-z_1 \not= z_2
-T_b (z_1) \not= T_b (z_2) .
-z_1 \not= z_2
-T_b (z_1) \not= T_b (z_2)
-T_b (z_1) =T_b (z_2),
-z_1 =z_2 .
-z_1
-z_2
-T_b (z_1) =T_b (z_2) .
-z_1 +b =z_2 +b .
+T_b𝐖
+T_b𝐖
+z_1𝐖𝐖\not=𝐖z_2𝐖
+T_b𝐖(z_1𝐖)𝐖\not=𝐖T_b𝐖(z_2𝐖)𝐖.
+z_1𝐖𝐖\not=𝐖z_2𝐖
+T_b𝐖(z_1𝐖)𝐖\not=𝐖T_b𝐖(z_2𝐖)
+T_b𝐖(z_1𝐖)𝐖=T_b𝐖(z_2𝐖),𝐖
+z_1𝐖𝐖=z_2𝐖𝐖.
+z_1𝐖
+z_2𝐖
+T_b𝐖(z_1𝐖)𝐖=T_b𝐖(z_2𝐖)𝐖.
+z_1𝐖𝐖+b𝐖=z_2𝐖𝐖+b𝐖.
 b
-z_1 =z_2,
-\theta
-R_\theta \colon \mathbb C \to \mathbb C
-R_\theta (z) =e^{i\theta} z .
-\theta .
-\theta >0
-\theta \lt 0
-z =re^{i\beta},
-R_\theta (z) =e^{i\theta} re^{i\beta} =re^{i(\theta +\beta)} .
-\theta
-z_0,
-z_0,
-T_{ -z_0} .
-\theta
-R_\theta
-T_{z_0}) .
-z\overset{T_{ -z_0}}{\mapsto}z -z_0 \overset{R_\theta}{\mapsto}e^{i\theta} (z -z_0)\overset{T_{z_0}}{\mapsto}e^{i\theta} (z -z_0) +z_0 .
+z_1𝐖𝐖=z_2𝐖,𝐖
+\theta𝐖
+R_\theta𝐖𝐖𝐖\colon𝐖\mathbb𝐖C𝐖𝐖\to𝐖\mathbb𝐖C𝐖
+R_\theta𝐖𝐖(z)𝐖=e^{i\theta𝐖}𝐖z𝐖.
+\theta𝐖𝐖.
+\theta𝐖𝐖>0
+\theta𝐖𝐖\lt𝐖0
+z𝐖=re^{i\beta𝐖}𝐖,𝐖
+R_\theta𝐖𝐖(z)𝐖=e^{i\theta𝐖}𝐖re^{i\beta𝐖}𝐖𝐖=re^{i(\theta𝐖𝐖+\beta𝐖)}𝐖𝐖.
+\theta𝐖
+z_0𝐖,𝐖
+z_0𝐖,𝐖
+T_{𝐖-z_0𝐖}𝐖𝐖.
+\theta𝐖
+R_\theta𝐖𝐖
+T_{z_0𝐖}𝐖)𝐖.
+z\overset{T_{𝐖-z_0𝐖}𝐖}{\mapsto𝐖}z𝐖-z_0𝐖\overset{R_\theta𝐖𝐖}{\mapsto𝐖}e^{i\theta𝐖}𝐖(z𝐖-z_0𝐖)\overset{T_{z_0𝐖}𝐖}{\mapsto𝐖}e^{i\theta𝐖}𝐖(z𝐖-z_0𝐖)𝐖+z_0𝐖𝐖.
 R
-T_{z_0} \circ R_\theta \circ T_{ -z_0}
-R(z) =e^{i\theta} (z -z_0) +z_0 .
+T_{z_0𝐖}𝐖𝐖\circ𝐖R_\theta𝐖𝐖𝐖\circ𝐖T_{𝐖-z_0𝐖}𝐖
+R(z)𝐖=e^{i\theta𝐖}𝐖(z𝐖-z_0𝐖)𝐖+z_0𝐖𝐖.
 T
 S
-A,
-S \circ T
-A .
-k >0
-T(z) =kz
-k .
-z =x +yi,
-T(z) =kx +kyi,
+A,𝐖
+S𝐖\circ𝐖T
+A𝐖.
+k𝐖>0
+T(z)𝐖=kz
+k𝐖.
+z𝐖=x𝐖+yi,𝐖
+T(z)𝐖=kx𝐖+kyi,𝐖
 z
 T(z)
-k >1
+k𝐖>1
 T
-0 \lt k \lt 1,
+0𝐖\lt𝐖k𝐖\lt𝐖1,𝐖
 T
-a, b
-a \not= 0
-T(z) =az +b
-\mathbb C .
-T(z) =az +b,
-a, b
-\mathbb C
-a \not= 0 .
+a,𝐖b
+a𝐖\not=𝐖0
+T(z)𝐖=az𝐖+b
+\mathbb𝐖C𝐖𝐖.
+T(z)𝐖=az𝐖+b,𝐖
+a,𝐖b
+\mathbb𝐖C𝐖
+a𝐖\not=𝐖0𝐖.
 T
-\mathbb C .
+\mathbb𝐖C𝐖𝐖.
 T
 w
-\mathbb C .
+\mathbb𝐖C𝐖𝐖.
 z
-T(z) =w .
-z,
-w =az +b
-z .
-z =\frac{1}{a}(w -b)
-a \not= 0,
+T(z)𝐖=w𝐖.
+z,𝐖
+w𝐖=az𝐖+b
+z𝐖.
+z𝐖=\frac{1}{a}(w𝐖-b)
+a𝐖\not=𝐖0,𝐖
 z
-T(\frac{1}{a}(w -b)) =a \cdot [\frac{1}{a}(w -b)] +b =w .
+T(\frac{1}{a}(w𝐖-b))𝐖=a𝐖\cdot𝐖[\frac{1}{a}(w𝐖-b)]𝐖+b𝐖=w𝐖.
 T
 T
 T
-T(z_1) =T(z_2),
-z_1 =z_2 .
-z_1
-z_2
-T(z_1) =T(z_2),
-az_1 +b =az_2 +b .
+T(z_1𝐖)𝐖=T(z_2𝐖),𝐖
+z_1𝐖𝐖=z_2𝐖𝐖.
+z_1𝐖
+z_2𝐖
+T(z_1𝐖)𝐖=T(z_2𝐖),𝐖
+az_1𝐖𝐖+b𝐖=az_2𝐖𝐖+b𝐖.
 b
-az_1 =az_2,
+az_1𝐖𝐖=az_2𝐖,𝐖
 a
-a \not= 0
-z_1 =z_2 .
+a𝐖\not=𝐖0
+z_1𝐖𝐖=z_2𝐖𝐖.
 T
 T
-a \in A
+a𝐖\in𝐖A
 a
-A .
-T \colon A \to A
+A𝐖.
+T𝐖\colon𝐖A𝐖\to𝐖A
 D
-A .
-D,
-T(D),
+A𝐖.
+D,𝐖
+T(D),𝐖
 T(x)
-x \in D .
-T(D) =\{a \in A|a =T(x)for\space somex \in D\} .
+x𝐖\in𝐖D𝐖.
+T(D)𝐖=\{a𝐖\in𝐖A|a𝐖=T(x)for\space𝐖somex𝐖\in𝐖D\}𝐖.
 L
-T_b
-b,
+T_b𝐖
+b,𝐖
 T(L)
 T
 T
 T
-D =\{z \in \mathbb C || z -2i| \le 1\}
-T \colon \mathbb C \to \mathbb C
-T(z) =2z +(4 -i)
+D𝐖=\{z𝐖\in𝐖\mathbb𝐖C𝐖||𝐖z𝐖-2i|𝐖\le𝐖1\}
+T𝐖\colon𝐖\mathbb𝐖C𝐖𝐖\to𝐖\mathbb𝐖C𝐖
+T(z)𝐖=2z𝐖+(4𝐖-i)
 T(D)
-4 +3i
-\mathbit r \colon [a, b] \to \mathbb C
-\mathbit r_1
-\mathbit r_2
-\mathbb C
-\mathbit r_1
-\mathbit r_2,
-\angle (\mathbit r_1, \mathbit r_2),
+4𝐖+3i
+\mathbit𝐖r𝐖𝐖\colon𝐖[a,𝐖b]𝐖\to𝐖\mathbb𝐖C𝐖
+\mathbit𝐖r𝐖_1𝐖
+\mathbit𝐖r𝐖_2𝐖
+\mathbb𝐖C𝐖
+\mathbit𝐖r𝐖_1𝐖
+\mathbit𝐖r𝐖_2𝐖,𝐖
+𝐖\angle𝐖(\mathbit𝐖r𝐖_1𝐖,𝐖\mathbit𝐖r𝐖_2𝐖),𝐖
 T
-\mathbb C
-\mathbit z_\mathbf 0
-\angle (\mathbit r_1, \mathbit r_2) = \angle (T(\mathbit r_1), T(\mathbit r_2))
-\mathbit r_1
-\mathbit r_2
-z_0 .
+\mathbb𝐖C𝐖
+\mathbit𝐖z𝐖_\mathbf𝐖0𝐖𝐖
+𝐖\angle𝐖(\mathbit𝐖r𝐖_1𝐖,𝐖\mathbit𝐖r𝐖_2𝐖)𝐖=𝐖\angle𝐖(T(\mathbit𝐖r𝐖_1𝐖),𝐖T(\mathbit𝐖r𝐖_2𝐖))
+\mathbit𝐖r𝐖_1𝐖
+\mathbit𝐖r𝐖_2𝐖
+z_0𝐖𝐖.
 T
-\mathbb C
-\mathbb C .
+\mathbb𝐖C𝐖
+\mathbb𝐖C𝐖𝐖.
 T
-\mathbb C
-\mathbb C,
-| \angle (\mathbit r_1, \mathbit r_2)| =| \angle (T(\mathbit r_1), T(\mathbit r_2))|
-\mathbit r_1
-\mathbit r_2
-T \colon A \to A
+\mathbb𝐖C𝐖
+\mathbb𝐖C𝐖,𝐖
+|𝐖𝐖\angle𝐖(\mathbit𝐖r𝐖_1𝐖,𝐖\mathbit𝐖r𝐖_2𝐖)|𝐖=|𝐖𝐖\angle𝐖(T(\mathbit𝐖r𝐖_1𝐖),𝐖T(\mathbit𝐖r𝐖_2𝐖))|
+\mathbit𝐖r𝐖_1𝐖
+\mathbit𝐖r𝐖_2𝐖
+T𝐖\colon𝐖A𝐖\to𝐖A
 a
 A
-T(a) =a .
-b \not= 0,
-T_b
-\mathbb C
-\mathbb C
-\mathbb C
-T(z) =az +b
-a \not= 1 .
-z =az +b
-z .
-T(z) =2z +(4 -i)
-z =2z +4 -i,
-z,
-z = -4 +i .
-T(z) =2z +(4 -i)
+T(a)𝐖=a𝐖.
+b𝐖\not=𝐖0,𝐖
+T_b𝐖
+\mathbb𝐖C𝐖
+\mathbb𝐖C𝐖
+\mathbb𝐖C𝐖
+T(z)𝐖=az𝐖+b
+a𝐖\not=𝐖1𝐖.
+z𝐖=az𝐖+b
+z𝐖.
+T(z)𝐖=2z𝐖+(4𝐖-i)
+z𝐖=2z𝐖+4𝐖-i,𝐖
+z,𝐖
+z𝐖=𝐖-4𝐖+i𝐖.
+T(z)𝐖=2z𝐖+(4𝐖-i)
 D
-T(D),
--4 +i
+T(D),𝐖
+𝐖-4𝐖+i
 T
-\mathbb C
-| T(z) -T(w)| =| z -w|
+\mathbb𝐖C𝐖
+|𝐖T(z)𝐖-T(w)|𝐖=|𝐖z𝐖-w|
 z
 w
-\mathbb C .
-\mathbb C
-T(z) =az +b
-| a| =1 \colon
-| T(z) -T(w)| & \lt mi/> =| az +b -(aw +b)| \\ \~ & \lt mi/> =| a(z -w)| \\ \~ & \lt mi/> =| a|| z -w| .
-| T(z) -T(w)| =| z -w| \iff | a| =1 .
-\mathbb C
-\mathbit L
-\mathbb C
+\mathbb𝐖C𝐖𝐖.
+\mathbb𝐖C𝐖
+T(z)𝐖=az𝐖+b
+|𝐖a|𝐖=1𝐖\colon𝐖
+|𝐖T(z)𝐖-T(w)|𝐖&𝐖\lt𝐖mi/>𝐖=|𝐖az𝐖+b𝐖-(aw𝐖+b)|𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=|𝐖a(z𝐖-w)|𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=|𝐖a||𝐖z𝐖-w|𝐖.
+|𝐖T(z)𝐖-T(w)|𝐖=|𝐖z𝐖-w|𝐖\iff𝐖|𝐖a|𝐖=1𝐖.
+\mathbb𝐖C𝐖
+\mathbit𝐖L𝐖
+\mathbb𝐖C𝐖
 L
 z
-L,
-z^\ast
+L,𝐖
+z^\ast𝐖𝐖
 L
-zz^\ast .
+zz^\ast𝐖𝐖𝐖.
 L
 L
-r_L (z) =\overline{z} .
+r_L𝐖(z)𝐖=\overline{z}𝐖.
 L
-y =x +5,
--5i,
--\frac{\pi}{4},
-\frac{\pi}{4},
+y𝐖=x𝐖+5,𝐖
+𝐖-5i,𝐖
+𝐖-\frac{\pi𝐖}{4},𝐖
+\frac{\pi𝐖}{4},𝐖
 5i
-z & \lt mi/> \mapsto z -5i \\ \~ & \lt mi/> \mapsto e^{ -\frac{\pi}{4}i} (z -5i) \\ \~ & \lt mi/> \mapsto \overline{e^{ -\frac{\pi}{4}i} (z -5i)} =e^{\frac{\pi}{4}i} (\overline{z} +5i) \\ \~ & \lt mi/> \mapsto e^{\frac{\pi}{4}i} \cdot e^{\frac{\pi}{4}i} (\overline{z} +5i) =e^{\frac{\pi}{2}i} (\overline{z} +5i) \\ \~ & \lt mi/> \mapsto e^{\frac{\pi}{2}i} (\overline{z} +5i) +5i .
-e^{\frac{\pi}{2}i} =i
-L \colon y =x +5
-r_L (z) =i\overline{z} -5 +5i .
+z𝐖&𝐖\lt𝐖mi/>𝐖\mapsto𝐖z𝐖-5i𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\mapsto𝐖e^{𝐖-\frac{\pi𝐖}{4}i}𝐖(z𝐖-5i)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\mapsto𝐖\overline{e^{𝐖-\frac{\pi𝐖}{4}i}𝐖(z𝐖-5i)}𝐖=e^{\frac{\pi𝐖}{4}i}𝐖(\overline{z}𝐖+5i)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\mapsto𝐖e^{\frac{\pi𝐖}{4}i}𝐖𝐖\cdot𝐖e^{\frac{\pi𝐖}{4}i}𝐖(\overline{z}𝐖+5i)𝐖=e^{\frac{\pi𝐖}{2}i}𝐖(\overline{z}𝐖+5i)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\mapsto𝐖e^{\frac{\pi𝐖}{2}i}𝐖(\overline{z}𝐖+5i)𝐖+5i𝐖.
+e^{\frac{\pi𝐖}{2}i}𝐖𝐖=i
+L𝐖\colon𝐖y𝐖=x𝐖+5
+r_L𝐖(z)𝐖=i\overline{z}𝐖-5𝐖+5i𝐖.
 L
-\mathbb C
-r_L (z) =e^{i\theta} \overline{z} +b
-\theta
-b .
-\mathbb C
-\mathbb C
-z_0
-z_0 .
-T(z) = -z
-T(z) =az +b,
+\mathbb𝐖C𝐖
+r_L𝐖(z)𝐖=e^{i\theta𝐖}𝐖\overline{z}𝐖+b
+\theta𝐖
+b𝐖.
+\mathbb𝐖C𝐖
+\mathbb𝐖C𝐖
+z_0𝐖
+z_0𝐖𝐖.
+T(z)𝐖=𝐖-z
+T(z)𝐖=az𝐖+b,𝐖
 a
 b
 T
-\lt mi/>\circ
+\lt𝐖mi/>\circ
 S
 45\circ
-T \circ S ?
-T(z) =iz +3
-S(z) = -iz +2 .
-T \circ S .
-\mathbb C
-D =\{z|| z| \lt 2\}
-D' =\{z|| z -i| \lt 5\} .
-x =k .
-y =k .
-y =mx +b,
-m \not= 0 .
-S(z) =kz
-\mathbb C
+T𝐖\circ𝐖S𝐖?
+T(z)𝐖=iz𝐖+3
+S(z)𝐖=𝐖-iz𝐖+2𝐖.
+T𝐖\circ𝐖S𝐖.
+\mathbb𝐖C𝐖
+D𝐖=\{z||𝐖z|𝐖\lt𝐖2\}
+D'𝐖=\{z||𝐖z𝐖-i|𝐖\lt𝐖5\}𝐖.
+x𝐖=k𝐖.
+y𝐖=k𝐖.
+y𝐖=mx𝐖+b,𝐖
+m𝐖\not=𝐖0𝐖.
+S(z)𝐖=kz
+\mathbb𝐖C𝐖
 k
-z_0
-\mathbb C .
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-(\mathbb P^2, \mathscr S)
-(\mathbb D, \mscrH) .
-(\mathbb P^2, \mathscr S)
-\mathbb P^2 .
-\mathscr S
-(\mathbb D, \mscrH),
-\lt mi/>\circ,
-\pi r^2
-2\pi r .
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C^+
-T(z) =(az +b)/(cz +d)
-a, b, c
+z_0𝐖
+\mathbb𝐖C𝐖𝐖.
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+(\mathbb𝐖P𝐖^2𝐖,𝐖\mathscr𝐖S𝐖)
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)𝐖.
+(\mathbb𝐖P𝐖^2𝐖,𝐖\mathscr𝐖S𝐖)
+\mathbb𝐖P𝐖^2𝐖𝐖.
+\mathscr𝐖S𝐖
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖),𝐖
+\lt𝐖mi/>\circ,𝐖
+\pi𝐖r^2𝐖
+2\pi𝐖r𝐖.
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖^+𝐖
+T(z)𝐖=(az𝐖+b)/(cz𝐖+d)
+a,𝐖b,𝐖c
 d
-ad -bc \not= 0 .
-ad -bc
-T(z) =(az +b)/(cz +d),
-(T) .
-T(z) =\frac{az +b}{cz +d}
-\mathbb C^+
-ad -bc \not= 0 .
-T(z) =\frac{az +b}{cz +d}
-T^{ -1} (z) =\frac{ -dz +b}{cz -a} .
-\mathbb C^+
-T \colon \mathbb C^+ \to \mathbb C^+
-\mathbb C^+ .
-z_1, z_2, z_3
-w_1, w_2, w_3),
-z_1 \mapsto w_1,
-z_2 \mapsto w_2,
-z_3 \mapsto w_3 .
-\mathbb C^+
-\mathbb C^+ .
-z_1 \mapsto 1,
-z_2 \mapsto 0
-z_3 \mapsto \infty
-T(z) =\frac{(z -z_2)}{(z -z_3)} \cdot \frac{(z_1 -z_3)}{(z_1 -z_2)} .
-(az +b)/(cz +d),
-z_i
-z_i
-\infty,
-\infty
-z_2 =\infty,
-z_1 \mapsto 1,
-\infty \mapsto 0
-z_3 \mapsto \infty
-T(z) =(z_1 -z_3)/(z -z_3) .
-\infty
-z, w, u,
-v,
-w, u,
+ad𝐖-bc𝐖\not=𝐖0𝐖.
+ad𝐖-bc
+T(z)𝐖=(az𝐖+b)/(cz𝐖+d),𝐖
+(T)𝐖.
+T(z)𝐖=\frac{az𝐖+b}{cz𝐖+d}
+\mathbb𝐖C𝐖^+𝐖
+ad𝐖-bc𝐖\not=𝐖0𝐖.
+T(z)𝐖=\frac{az𝐖+b}{cz𝐖+d}
+T^{𝐖-1}𝐖(z)𝐖=\frac{𝐖-dz𝐖+b}{cz𝐖-a}𝐖.
+\mathbb𝐖C𝐖^+𝐖
+T𝐖\colon𝐖\mathbb𝐖C𝐖^+𝐖𝐖\to𝐖\mathbb𝐖C𝐖^+𝐖
+\mathbb𝐖C𝐖^+𝐖𝐖.
+z_1𝐖,𝐖z_2𝐖,𝐖z_3𝐖
+w_1𝐖,𝐖w_2𝐖,𝐖w_3𝐖),𝐖
+z_1𝐖𝐖\mapsto𝐖w_1𝐖,𝐖
+z_2𝐖𝐖\mapsto𝐖w_2𝐖,𝐖
+z_3𝐖𝐖\mapsto𝐖w_3𝐖𝐖.
+\mathbb𝐖C𝐖^+𝐖
+\mathbb𝐖C𝐖^+𝐖𝐖.
+z_1𝐖𝐖\mapsto𝐖1,𝐖
+z_2𝐖𝐖\mapsto𝐖0
+z_3𝐖𝐖\mapsto𝐖\infty𝐖
+T(z)𝐖=\frac{(z𝐖-z_2𝐖)}{(z𝐖-z_3𝐖)}𝐖\cdot𝐖\frac{(z_1𝐖𝐖-z_3𝐖)}{(z_1𝐖𝐖-z_2𝐖)}𝐖.
+(az𝐖+b)/(cz𝐖+d),𝐖
+z_i𝐖
+z_i𝐖
+\infty𝐖,𝐖
+\infty𝐖
+z_2𝐖𝐖=\infty𝐖,𝐖
+z_1𝐖𝐖\mapsto𝐖1,𝐖
+\infty𝐖𝐖\mapsto𝐖0
+z_3𝐖𝐖\mapsto𝐖\infty𝐖
+T(z)𝐖=(z_1𝐖𝐖-z_3𝐖)/(z𝐖-z_3𝐖)𝐖.
+\infty𝐖
+z,𝐖w,𝐖u,𝐖
+v,𝐖
+w,𝐖u,𝐖
 v
-(z, w; u, v),
-(z, w; u, v) =\frac{z -u}{z -v} \cdot \frac{w -v}{w -u} .
+(z,𝐖w;𝐖u,𝐖v),𝐖
+(z,𝐖w;𝐖u,𝐖v)𝐖=\frac{z𝐖-u}{z𝐖-v}𝐖\cdot𝐖\frac{w𝐖-v}{w𝐖-u}𝐖.
 z
-w, u,
+w,𝐖u,𝐖
 v
-T(z) =(z, w; u, v)
-w \mapsto 1,
-u \mapsto 0,
-v \mapsto \infty .
-1 \mapsto 3,
-i \mapsto 0,
-2 \mapsto -1 .
-T(z) =(z, 1; i, 2)
-S(w) =(w, 3; 0, -1) .
-S^{ -1} \circ T .
-(z, 1; i, 2) & \lt mi/> =(w, 3; 0, -1) \\ \frac{z -i}{z -2} \cdot \frac{1 -2}{1 -i} & \lt mi/> =\frac{w -0}{w +1} \cdot \frac{3 +1}{3 -0} \\ \frac{ -z +i}{(1 -i)z -2 +2i} & \lt mi/> =\frac{4w}{3w +3} .
-w \colon
--3zw +3iw +3i -3z & \lt mi/> =4[(1 -i)z -2 +2i]w \\ -3z +3i & \lt mi/> =[3z -3i +4[(1 -i)z -2 +2i]]w \\ w & \lt mi/> =\frac{ -3z +3i}{(7 -4i)z +( -8 +5i)} .
-V(z) =\frac{ -3z +3i}{(7 -4i)z +( -8 +5i)} .
-V(1) =3, V(i) =0
-V(2) = -1 .
-z_0, z_1, z_2,
-z_3
-\mathbb C^+,
+T(z)𝐖=(z,𝐖w;𝐖u,𝐖v)
+w𝐖\mapsto𝐖1,𝐖
+u𝐖\mapsto𝐖0,𝐖
+v𝐖\mapsto𝐖\infty𝐖𝐖.
+1𝐖\mapsto𝐖3,𝐖
+i𝐖\mapsto𝐖0,𝐖
+2𝐖\mapsto𝐖𝐖-1𝐖.
+T(z)𝐖=(z,𝐖1;𝐖i,𝐖2)
+S(w)𝐖=(w,𝐖3;𝐖0,𝐖𝐖-1)𝐖.
+S^{𝐖-1}𝐖𝐖\circ𝐖T𝐖.
+(z,𝐖1;𝐖i,𝐖2)𝐖&𝐖\lt𝐖mi/>𝐖=(w,𝐖3;𝐖0,𝐖𝐖-1)𝐖\\𝐖\frac{z𝐖-i}{z𝐖-2}𝐖\cdot𝐖\frac{1𝐖-2}{1𝐖-i}𝐖&𝐖\lt𝐖mi/>𝐖=\frac{w𝐖-0}{w𝐖+1}𝐖\cdot𝐖\frac{3𝐖+1}{3𝐖-0}𝐖\\𝐖\frac{𝐖-z𝐖+i}{(1𝐖-i)z𝐖-2𝐖+2i}𝐖&𝐖\lt𝐖mi/>𝐖=\frac{4w}{3w𝐖+3}𝐖.
+w𝐖\colon𝐖
+𝐖-3zw𝐖+3iw𝐖+3i𝐖-3z𝐖&𝐖\lt𝐖mi/>𝐖=4[(1𝐖-i)z𝐖-2𝐖+2i]w𝐖\\𝐖𝐖-3z𝐖+3i𝐖&𝐖\lt𝐖mi/>𝐖=[3z𝐖-3i𝐖+4[(1𝐖-i)z𝐖-2𝐖+2i]]w𝐖\\𝐖w𝐖&𝐖\lt𝐖mi/>𝐖=\frac{𝐖-3z𝐖+3i}{(7𝐖-4i)z𝐖+(𝐖-8𝐖+5i)}𝐖.
+V(z)𝐖=\frac{𝐖-3z𝐖+3i}{(7𝐖-4i)z𝐖+(𝐖-8𝐖+5i)}𝐖.
+V(1)𝐖=3,𝐖V(i)𝐖=0
+V(2)𝐖=𝐖-1𝐖.
+z_0𝐖,𝐖z_1𝐖,𝐖z_2𝐖,𝐖
+z_3𝐖
+\mathbb𝐖C𝐖^+𝐖,𝐖
 T
-(z_0, z_1; z_2, z_3) =(T(z_0), T(z_1); T(z_2), T(z_3)) .
-\infty,
-(z, w; u, v)
-(z, w; u, v)
-1, i, -1, -i .
-| z| =1,
-(1, i; -1, -i)
-(1, i; -1, -i) & \lt mi/> =\frac{1 +1}{1 +i} \cdot \frac{i +i}{i +1} \\ \~ & \lt mi/> =\frac{2}{1 +i}\frac{2i}{1 +i} \\ \~ & \lt mi/> =\frac{4i}{(1 -1) +2i} \\ \~ & \lt mi/> =\frac{4i}{2i} \\ (Yep!) & \~ & \lt mi/> =2.
+(z_0𝐖,𝐖z_1𝐖;𝐖z_2𝐖,𝐖z_3𝐖)𝐖=(T(z_0𝐖),𝐖T(z_1𝐖);𝐖T(z_2𝐖),𝐖T(z_3𝐖))𝐖.
+\infty𝐖,𝐖
+(z,𝐖w;𝐖u,𝐖v)
+(z,𝐖w;𝐖u,𝐖v)
+1,𝐖i,𝐖𝐖-1,𝐖𝐖-i𝐖.
+|𝐖z|𝐖=1,𝐖
+(1,𝐖i;𝐖𝐖-1,𝐖𝐖-i)
+(1,𝐖i;𝐖𝐖-1,𝐖𝐖-i)𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1𝐖+1}{1𝐖+i}𝐖\cdot𝐖\frac{i𝐖+i}{i𝐖+1}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{2}{1𝐖+i}\frac{2i}{1𝐖+i}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{4i}{(1𝐖-1)𝐖+2i}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{4i}{2i}𝐖\\𝐖(Yep!)𝐖&𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=2.
 z
-z^\ast
-C,
+z^\ast𝐖𝐖
+C,𝐖
 T
 T(z)
-T(z^\ast)
-T(C) .
-C_1
-C_2,
+T(z^\ast𝐖𝐖)
+T(C)𝐖.
+C_1𝐖
+C_2𝐖,𝐖
 T
-C_1
-C_2 .
-T(C_1) =C_2 .
-\mathbb C^+
+C_1𝐖
+C_2𝐖𝐖.
+T(C_1𝐖)𝐖=C_2𝐖𝐖.
+\mathbb𝐖C𝐖^+𝐖
 2i
-\pi /4 .
-T(z) =\frac{3z +i}{2z +1} .
+\pi𝐖/4𝐖.
+T(z)𝐖=\frac{3z𝐖+i}{2z𝐖+1}𝐖.
 T
 S
-T \circ S
-1 \mapsto i,
-i \mapsto -1,
--1 \mapsto -i .
-T(0) ?
-T(\infty) ?
-2 \to 0,
-1 \to 3
-4 \to 4 .
-\overline{(z, z_1; z_2, z_3)} =(\overline{z}, \overline{z_1}; \overline{z_2}, \overline{z_3}) .
-2 +i, 3, 5,
-6 +i
+T𝐖\circ𝐖S
+1𝐖\mapsto𝐖i,𝐖
+i𝐖\mapsto𝐖𝐖-1,𝐖
+𝐖-1𝐖\mapsto𝐖𝐖-i𝐖.
+T(0)𝐖?
+T(\infty𝐖)𝐖?
+2𝐖\to𝐖0,𝐖
+1𝐖\to𝐖3
+4𝐖\to𝐖4𝐖.
+\overline{(z,𝐖z_1𝐖;𝐖z_2𝐖,𝐖z_3𝐖)}𝐖=(\overline{z},𝐖\overline{z_1𝐖};𝐖\overline{z_2𝐖},𝐖\overline{z_3𝐖})𝐖.
+2𝐖+i,𝐖3,𝐖5,𝐖
+6𝐖+i
 T
-\overline{T(z)} \not= T(\overline{z})
+\overline{T(z)}𝐖\not=𝐖T(\overline{z})
 z
-\mathbb C^+ .
+\mathbb𝐖C𝐖^+𝐖𝐖.
 T
-\overline{T(z)} =T(\overline{z})
+\overline{T(z)}𝐖=T(\overline{z})
 z
-\mathbb C .
+\mathbb𝐖C𝐖𝐖.
 i
-2 +i
--i
-4 +i ?
-\mathbb C^+ .
-\infty
-T(z) =\frac{2z}{3z -1}
-T(z) =iz
-T(z) =\frac{ -iz}{(1 -i)z -1}
-| z| =4
-3x +y =4 .
-T .
+2𝐖+i
+𝐖-i
+4𝐖+i𝐖?
+\mathbb𝐖C𝐖^+𝐖𝐖.
+\infty𝐖
+T(z)𝐖=\frac{2z}{3z𝐖-1}
+T(z)𝐖=iz
+T(z)𝐖=\frac{𝐖-iz}{(1𝐖-i)z𝐖-1}
+|𝐖z|𝐖=4
+3x𝐖+y𝐖=4𝐖.
+T𝐖.
 C
 C
-T(C) ?
-z_1, z_2, z_3
-\mathbb C^+ .
-z_1 \mapsto 1,
-z_2 \mapsto 0,
-z_3 \mapsto \infty
-z_3 =\infty .
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-(\mathbb D, \mscrH)
-\mathbb D
+T(C)𝐖?
+z_1𝐖,𝐖z_2𝐖,𝐖z_3𝐖
+\mathbb𝐖C𝐖^+𝐖𝐖.
+z_1𝐖𝐖\mapsto𝐖1,𝐖
+z_2𝐖𝐖\mapsto𝐖0,𝐖
+z_3𝐖𝐖\mapsto𝐖\infty𝐖
+z_3𝐖𝐖=\infty𝐖𝐖.
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
+\mathbb𝐖D𝐖
 z
-\mathbb C
-| z| \lt 1,
-\mscrH
+\mathbb𝐖C𝐖
+|𝐖z|𝐖\lt𝐖1,𝐖
+\mscrH𝐖
 T
-T(\mathbb D) =\mathbb D .
-\mathbb D
-\mscrH
-\mscrH
-\mathbb S_\infty^1 .
-\mathbb D
-\mathbb D
-\mathbb S_\infty^1
-\mathbb D
-\mathbb D .
+T(\mathbb𝐖D𝐖)𝐖=\mathbb𝐖D𝐖𝐖.
+\mathbb𝐖D𝐖
+\mscrH𝐖
+\mscrH𝐖
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖𝐖.
+\mathbb𝐖D𝐖
+\mathbb𝐖D𝐖
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖
+\mathbb𝐖D𝐖
+\mathbb𝐖D𝐖𝐖.
 C
-\mathbb S_\infty^1,
-C,
-\mathbb S_\infty^1
-\mathbb S_\infty^1,
-\mathbb D,
-\mathbb D
-\mscrH .
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖,𝐖
+C,𝐖
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖,𝐖
+\mathbb𝐖D𝐖,𝐖
+\mathbb𝐖D𝐖
+\mscrH𝐖𝐖.
 C
-\mathbb S_\infty^1
-\mscrH .
-\mathbb D
-\mscrH .
-\mscrH
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖
+\mscrH𝐖𝐖.
+\mathbb𝐖D𝐖
+\mscrH𝐖𝐖.
+\mscrH𝐖
 C
-\mathbb S_\infty^1
-z_0
-z_0
-\mathbb D
-z_1
-\mathbb S_\infty^1
-\mscrH
-z_0
-z_1
-1 .
-\mscrH
-\mathbb S_\infty^1 .
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖
+z_0𝐖
+z_0𝐖
+\mathbb𝐖D𝐖
+z_1𝐖
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖
+\mscrH𝐖
+z_0𝐖
+z_1𝐖
+1𝐖.
+\mscrH𝐖
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖𝐖.
 T
-\mscrH
-L_1,
-L_2
+\mscrH𝐖
+L_1𝐖,𝐖
+L_2𝐖
 z
 z'
-L_1,
+L_1𝐖,𝐖
 T(z)
 z'
-L_2 .
-\mscrH \colon
-L_1
-L_2,
-\mathbb D,
-p,
-\mathbb D
-p^\ast
+L_2𝐖𝐖.
+\mscrH𝐖𝐖\colon𝐖
+L_1𝐖
+L_2𝐖,𝐖
+\mathbb𝐖D𝐖,𝐖
+p,𝐖
+\mathbb𝐖D𝐖
+p^\ast𝐖𝐖
 p
-\mathbb S_\infty^1 .
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖𝐖.
 p
-p^\ast
-\mathbb D
+p^\ast𝐖𝐖
+\mathbb𝐖D𝐖
 p
 p
-p^\ast .
-\mscrH
-p;
-p .
+p^\ast𝐖𝐖𝐖.
+\mscrH𝐖
+p;𝐖
+p𝐖.
 p
-p^\ast,
-p,
-\mathbb D
-p .
-\mathbb D
-p
-q
+p^\ast𝐖𝐖,𝐖
+p,𝐖
+\mathbb𝐖D𝐖
+p𝐖.
+\mathbb𝐖D𝐖
 p
 q
-q
-p .
-L_1
-L_2
 p
 q
-\mscrH .
+q
+p𝐖.
+L_1𝐖
+L_2𝐖
 p
-q .
-\mscrH
-p;
+q
+\mscrH𝐖𝐖.
 p
-q .
-(\mathbb D, \mathbcal H)
+q𝐖.
+\mscrH𝐖
+p;𝐖
+p
+q𝐖.
+(\mathbb𝐖D𝐖,𝐖\mathbcal𝐖H𝐖)
 M
 T
-p .
-L_1
-L_2
+p𝐖.
+L_1𝐖
+L_2𝐖
 p
-\mathbb S_\infty^1
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖
 M
 T(M)
-T(T(M)) .
+T(T(M))𝐖.
 z
-M \colon
+M𝐖\colon𝐖
 z
 T(z)
-T^2 (z) =T(T(z)) .
-T,
+T^2𝐖(z)𝐖=T(T(z))𝐖.
+T,𝐖
 z
-\mathbb D
+\mathbb𝐖D𝐖
 p
 p
-p^\ast
-z .
+p^\ast𝐖𝐖
+z𝐖.
 M
-L_1
-L_2
-\mathbb S_\infty^1
+L_1𝐖
+L_2𝐖
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖
 p
 q
 z
-\mathbb D
+\mathbb𝐖D𝐖
 p
 q
-p, q,
-z .
-\mscrH \colon
-\mathbcal H
+p,𝐖q,𝐖
+z𝐖.
+\mscrH𝐖𝐖\colon𝐖
+\mathbcal𝐖H𝐖
 T
-\mscrH
-T(z) =e^{i\theta} \frac{z -z_0}{1 -\overline{z}_0 z}
-\theta
-z_0
-\mathbb D
-z_0
-\mathbb D,
-z_1
-\mathbb S_\infty^1,
+\mscrH𝐖
+T(z)𝐖=e^{i\theta𝐖}𝐖\frac{z𝐖-z_0𝐖}{1𝐖-\overline{z}_0𝐖z}
+\theta𝐖
+z_0𝐖
+\mathbb𝐖D𝐖
+z_0𝐖
+\mathbb𝐖D𝐖,𝐖
+z_1𝐖
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖,𝐖
 T
-\mscrH
-z_0 \mapsto 0,
-z_0^\ast \mapsto \infty
-z_1 \mapsto 1 .
-T(z) =(z, z_1; z_0, z_0^\ast) =\frac{z_1 -z_0^\ast}{z_1 -z_0} \cdot \frac{z -z_0}{z -z_0^\ast} .
-z_0^\ast =\frac{1}{\overline{z_0}},
-T(z) =\frac{z_1 -1/\overline{z_0}}{z_1 -z_0} \cdot \frac{z -z_0}{z -1/\overline{z_0}} =\frac{\overline{z_0}z_1 -1}{z_1 -z_0} \cdot \frac{z -z_0}{\overline{z_0}z -1} .
-\frac{\overline{z_0}z_1 -1}{z_1 -z_0}
-1 =| z_1 |^2 =z_1 \overline{z_1},
-\frac{\overline{z_0}z_1 -1}{z_1 -z_0} & \lt mi/> =\frac{\overline{z_0}z_1 -z_1 \overline{z_1}}{z_1 -z_0} \\ \~ & \lt mi/> =\frac{ -z_1 (\overline{z_1 -z_0})}{z_1 -z_0} .
-| z_1 | =1
-| \beta | =| \overline{\beta}|
-e^{i\theta}
-\theta .
+\mscrH𝐖
+z_0𝐖𝐖\mapsto𝐖0,𝐖
+z_0^\ast𝐖𝐖𝐖\mapsto𝐖\infty𝐖
+z_1𝐖𝐖\mapsto𝐖1𝐖.
+T(z)𝐖=(z,𝐖z_1𝐖;𝐖z_0𝐖,𝐖z_0^\ast𝐖𝐖)𝐖=\frac{z_1𝐖𝐖-z_0^\ast𝐖𝐖}{z_1𝐖𝐖-z_0𝐖}𝐖\cdot𝐖\frac{z𝐖-z_0𝐖}{z𝐖-z_0^\ast𝐖𝐖}𝐖.
+z_0^\ast𝐖𝐖𝐖=\frac{1}{\overline{z_0𝐖}},𝐖
+T(z)𝐖=\frac{z_1𝐖𝐖-1/\overline{z_0𝐖}}{z_1𝐖𝐖-z_0𝐖}𝐖\cdot𝐖\frac{z𝐖-z_0𝐖}{z𝐖-1/\overline{z_0𝐖}}𝐖=\frac{\overline{z_0𝐖}z_1𝐖𝐖-1}{z_1𝐖𝐖-z_0𝐖}𝐖\cdot𝐖\frac{z𝐖-z_0𝐖}{\overline{z_0𝐖}z𝐖-1}𝐖.
+\frac{\overline{z_0𝐖}z_1𝐖𝐖-1}{z_1𝐖𝐖-z_0𝐖}
+1𝐖=|𝐖z_1𝐖|^2𝐖𝐖=z_1𝐖\overline{z_1𝐖},𝐖
+\frac{\overline{z_0𝐖}z_1𝐖𝐖-1}{z_1𝐖𝐖-z_0𝐖}𝐖&𝐖\lt𝐖mi/>𝐖=\frac{\overline{z_0𝐖}z_1𝐖𝐖-z_1𝐖\overline{z_1𝐖}}{z_1𝐖𝐖-z_0𝐖}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{𝐖-z_1𝐖(\overline{z_1𝐖𝐖-z_0𝐖})}{z_1𝐖𝐖-z_0𝐖}𝐖.
+|𝐖z_1𝐖|𝐖=1
+|𝐖\beta𝐖|𝐖=|𝐖\overline{\beta𝐖}|
+e^{i\theta𝐖}𝐖
+\theta𝐖𝐖.
 T
-\mscrH
-T(z) =e^{i\theta} \frac{z -z_0}{1 -\overline{z}_0 z}
-\theta
-z_0
-\mathbb D
-\mscrH ?
-(\mathbb D, \mscrH)
+\mscrH𝐖
+T(z)𝐖=e^{i\theta𝐖}𝐖\frac{z𝐖-z_0𝐖}{1𝐖-\overline{z}_0𝐖z}
+\theta𝐖
+z_0𝐖
+\mathbb𝐖D𝐖
+\mscrH𝐖𝐖?
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
 T
-T(z) =e^{i\theta} \frac{z -z_0}{1 -\overline{z}_0 z},
-z_0
-\mathbb D .
+T(z)𝐖=e^{i\theta𝐖}𝐖\frac{z𝐖-z_0𝐖}{1𝐖-\overline{z}_0𝐖z},𝐖
+z_0𝐖
+\mathbb𝐖D𝐖𝐖.
 T
-\mathbb D
-\mathbb D
-| z| \lt 1
-| T(z)| \lt 1 .
-\mathbb S_\infty^1
+\mathbb𝐖D𝐖
+\mathbb𝐖D𝐖
+|𝐖z|𝐖\lt𝐖1
+|𝐖T(z)|𝐖\lt𝐖1𝐖.
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖
 p
 q
-\mathbb D .
-\mathbb S_\infty^1
+\mathbb𝐖D𝐖𝐖.
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖
 p
 q
-(\mathbb D, \mscrH)
-\mscrH
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb S^2
-(a, b, c)
-\mathbb R^3
-a^2 +b^2 +c^2 =1,
-\mathbb S^2
-\phi \colon \mathbb S^2 \to \mathbb C^+
-\phi (a, b, c) =\{\frac{a}{1 -c} +\frac{b}{1 -c}i & \~if\~c \not= 1;\~ \\ \infty & \~if\~c =1 \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/> .
-P =(a, b, c)
-\mathbb S^2
--P =( -a, -b, -c) .
-\phi
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
+\mscrH𝐖
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖S𝐖^2𝐖
+(a,𝐖b,𝐖c)
+\mathbb𝐖R𝐖^3𝐖
+a^2𝐖𝐖+b^2𝐖𝐖+c^2𝐖𝐖=1,𝐖
+\mathbb𝐖S𝐖^2𝐖
+\phi𝐖𝐖\colon𝐖\mathbb𝐖S𝐖^2𝐖𝐖\to𝐖\mathbb𝐖C𝐖^+𝐖
+\phi𝐖(a,𝐖b,𝐖c)𝐖=\{\frac{a}{1𝐖-c}𝐖+\frac{b}{1𝐖-c}i𝐖&𝐖\~if\~c𝐖\not=𝐖1;\~𝐖\\𝐖\infty𝐖𝐖&𝐖\~if\~c𝐖=1𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>𝐖.
+P𝐖=(a,𝐖b,𝐖c)
+\mathbb𝐖S𝐖^2𝐖
+𝐖-P𝐖=(𝐖-a,𝐖𝐖-b,𝐖𝐖-c)𝐖.
+\phi𝐖
 z
 w
-\mathbb C^+
-z \cdot \overline{w} = -1 .
-\infty
-\mathbb C^+ .
+\mathbb𝐖C𝐖^+𝐖
+z𝐖\cdot𝐖\overline{w}𝐖=𝐖-1𝐖.
+\infty𝐖
+\mathbb𝐖C𝐖^+𝐖𝐖.
 z
 w
 w
-z,
+z,𝐖
 z
-\mathbb C^+
-z_a,
-z_a =\{ -1/\overline{z} & \~if\~z \not= 0, \infty;\~ \\ \infty & \~if\~z =0;\~ \\ 0 & \~if\~z =\infty \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/> .
--\frac{1}{\overline{z}} = -\frac{1}{| z|^2}z,
-z_a
-z,
+\mathbb𝐖C𝐖^+𝐖
+z_a𝐖,𝐖
+z_a𝐖𝐖=\{𝐖-1/\overline{z}𝐖&𝐖\~if\~z𝐖\not=𝐖0,𝐖\infty𝐖;\~𝐖\\𝐖\infty𝐖𝐖&𝐖\~if\~z𝐖=0;\~𝐖\\𝐖0𝐖&𝐖\~if\~z𝐖=\infty𝐖𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>𝐖.
+𝐖-\frac{1}{\overline{z}}𝐖=𝐖-\frac{1}{|𝐖z|^2𝐖}z,𝐖
+z_a𝐖
+z,𝐖
 z
-z_a
-\infty
-z \in \mathbb C^+ .
-\mathbb C^+ .
+z_a𝐖
+\infty𝐖
+z𝐖\in𝐖\mathbb𝐖C𝐖^+𝐖𝐖.
+\mathbb𝐖C𝐖^+𝐖𝐖.
 C
-\mathbb C^+
+\mathbb𝐖C𝐖^+𝐖
 z
-C,
-z_a .
-\mathbb C^+
-\mathbb C^+ .
-\mathbb C^+
-\mathbb S^2
-\mathbb C^+ .
-\mathbb S^\mathbf 2
-\mathbb S^2
-\mathbb S^2
-\mathbb C^+ .
-\mathbb S^2
-P =(a, b, c)
-P^\ast =(a, b, -c) .
-\phi (P)
-\phi (P^\ast)
-| c| =1
+C,𝐖
+z_a𝐖𝐖.
+\mathbb𝐖C𝐖^+𝐖
+\mathbb𝐖C𝐖^+𝐖𝐖.
+\mathbb𝐖C𝐖^+𝐖
+\mathbb𝐖S𝐖^2𝐖
+\mathbb𝐖C𝐖^+𝐖𝐖.
+\mathbb𝐖S𝐖^\mathbf𝐖2𝐖𝐖
+\mathbb𝐖S𝐖^2𝐖
+\mathbb𝐖S𝐖^2𝐖
+\mathbb𝐖C𝐖^+𝐖𝐖.
+\mathbb𝐖S𝐖^2𝐖
+P𝐖=(a,𝐖b,𝐖c)
+P^\ast𝐖𝐖𝐖=(a,𝐖b,𝐖𝐖-c)𝐖.
+\phi𝐖(P)
+\phi𝐖(P^\ast𝐖𝐖)
+|𝐖c|𝐖=1
 P
-P^\ast
-\infty,
-| c| \not= 1 .
-\phi (P) =\frac{a}{1 -c} +\frac{b}{1 -c}iand\~\phi (P^\ast) =\frac{a}{1 +c} +\frac{b}{1 +c}i
-\phi (P^\ast) =\frac{1 -c}{1 +c}\phi (P) .
-| \phi (P)| \cdot |\phi (P^\ast)| & \lt mi/> =\frac{1 -c}{1 +c} \cdot | \phi (P)|^2 \\ \~ & \lt mi/> =\frac{1 -c}{1 +c} \cdot \frac{a^2 +b^2}{(1 -c)^2} \\ \~ & \lt mi/> =\frac{a^2 +b^2}{1 -c^2} \\ \~ & \lt mi/> =1.
-a^2 +b^2 +c^2 =1 .
-\phi (P)
-\phi (P^\ast)
-i_{\mathbb S^1},
-\mathbb S^2
-R,
-i_{\mathbb S^1} \circ \phi =\phi \circ R .
-\mathbb S^2
-\mathbb C^+ .
-\mathbb C^+
-\mathbb S^2 .
-\mathbb C^+
-\mathbb S^2
-N =(0, 0, 1) .
-\mathbb S^2
-\mathbb S^2
-Ax +By +Cz +D =0
-\mathbb S^2
-Ax +By +Cz +D =0
-\phi
-(C +D)(u^2 +v^2) +2Au +2Bv +(D -C) =0
-u, v
-| w -w_0 | =r
-\mathbb C
-\phi^{ -1}
-\mathbb S^2
--2x_0 x -2y_o y +(1 -| w_0 |^2 +r^2)z +(1 +| w_0 |^2 -r^2) =0
-w_0 =x_0 +y_0 i .
+P^\ast𝐖𝐖
+\infty𝐖,𝐖
+|𝐖c|𝐖\not=𝐖1𝐖.
+\phi𝐖(P)𝐖=\frac{a}{1𝐖-c}𝐖+\frac{b}{1𝐖-c}iand\~\phi𝐖(P^\ast𝐖𝐖)𝐖=\frac{a}{1𝐖+c}𝐖+\frac{b}{1𝐖+c}i
+\phi𝐖(P^\ast𝐖𝐖)𝐖=\frac{1𝐖-c}{1𝐖+c}\phi𝐖(P)𝐖.
+|𝐖\phi𝐖(P)|𝐖\cdot𝐖|\phi𝐖(P^\ast𝐖𝐖)|𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1𝐖-c}{1𝐖+c}𝐖\cdot𝐖|𝐖\phi𝐖(P)|^2𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1𝐖-c}{1𝐖+c}𝐖\cdot𝐖\frac{a^2𝐖𝐖+b^2𝐖}{(1𝐖-c)^2𝐖}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{a^2𝐖𝐖+b^2𝐖}{1𝐖-c^2𝐖}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=1.
+a^2𝐖𝐖+b^2𝐖𝐖+c^2𝐖𝐖=1𝐖.
+\phi𝐖(P)
+\phi𝐖(P^\ast𝐖𝐖)
+i_{\mathbb𝐖S𝐖^1𝐖}𝐖,𝐖
+\mathbb𝐖S𝐖^2𝐖
+R,𝐖
+i_{\mathbb𝐖S𝐖^1𝐖}𝐖𝐖\circ𝐖\phi𝐖𝐖=\phi𝐖𝐖\circ𝐖R𝐖.
+\mathbb𝐖S𝐖^2𝐖
+\mathbb𝐖C𝐖^+𝐖𝐖.
+\mathbb𝐖C𝐖^+𝐖
+\mathbb𝐖S𝐖^2𝐖𝐖.
+\mathbb𝐖C𝐖^+𝐖
+\mathbb𝐖S𝐖^2𝐖
+N𝐖=(0,𝐖0,𝐖1)𝐖.
+\mathbb𝐖S𝐖^2𝐖
+\mathbb𝐖S𝐖^2𝐖
+Ax𝐖+By𝐖+Cz𝐖+D𝐖=0
+\mathbb𝐖S𝐖^2𝐖
+Ax𝐖+By𝐖+Cz𝐖+D𝐖=0
+\phi𝐖
+(C𝐖+D)(u^2𝐖𝐖+v^2𝐖)𝐖+2Au𝐖+2Bv𝐖+(D𝐖-C)𝐖=0
+u,𝐖v
+|𝐖w𝐖-w_0𝐖|𝐖=r
+\mathbb𝐖C𝐖
+\phi𝐖^{𝐖-1}𝐖
+\mathbb𝐖S𝐖^2𝐖
+𝐖-2x_0𝐖x𝐖-2y_o𝐖y𝐖+(1𝐖-|𝐖w_0𝐖|^2𝐖𝐖+r^2𝐖)z𝐖+(1𝐖+|𝐖w_0𝐖|^2𝐖𝐖-r^2𝐖)𝐖=0
+w_0𝐖𝐖=x_0𝐖𝐖+y_0𝐖i𝐖.
 \mathbit{\phi}
-\mathbb S^2
-x = -\frac{1}{2} .
-A =2, B =C =0,
-D =1,
-\phi
-(u^2 +v^2) +4u +1 =0 .
-(u +2)^2 +v^2 =3
-( -2, 0)
-\sqrt{3} .
+\mathbb𝐖S𝐖^2𝐖
+x𝐖=𝐖-\frac{1}{2}𝐖.
+A𝐖=2,𝐖B𝐖=C𝐖=0,𝐖
+D𝐖=1,𝐖
+\phi𝐖
+(u^2𝐖𝐖+v^2𝐖)𝐖+4u𝐖+1𝐖=0𝐖.
+(u𝐖+2)^2𝐖𝐖+v^2𝐖𝐖=3
+(𝐖-2,𝐖0)
+\sqrt{3}𝐖.
 \mathbit{\phi}
-| w -(3 +2i)| =4
-\mathbb C
-\mathbb S^2
--2 \cdot 3x -2 \cdot 2y +(1 -13 +4)z +(1 +13 -4) =0
--3x -2y -4z +5 =0 .
+|𝐖w𝐖-(3𝐖+2i)|𝐖=4
+\mathbb𝐖C𝐖
+\mathbb𝐖S𝐖^2𝐖
+𝐖-2𝐖\cdot𝐖3x𝐖-2𝐖\cdot𝐖2y𝐖+(1𝐖-13𝐖+4)z𝐖+(1𝐖+13𝐖-4)𝐖=0
+𝐖-3x𝐖-2y𝐖-4z𝐖+5𝐖=0𝐖.
 z
-z_a,
-z \colon
+z_a𝐖,𝐖
+z𝐖\colon𝐖
 z
 T
-zT;
-T .
-z_a .
-z_a = -\frac{1}{| z|^2}z .
-z .
-\mathbb C^+
-\mathbb C^+
-\mathbb S^2
-(0, 0, 1),
-(0, 0, -1),
-(1, 0, 0)
-\mathbb C^+
-\phi
-z =1/2
-\mathbb S^2
-\mathbb C^+
+zT;𝐖
+T𝐖.
+z_a𝐖𝐖.
+z_a𝐖𝐖=𝐖-\frac{1}{|𝐖z|^2𝐖}z𝐖.
+z𝐖.
+\mathbb𝐖C𝐖^+𝐖
+\mathbb𝐖C𝐖^+𝐖
+\mathbb𝐖S𝐖^2𝐖
+(0,𝐖0,𝐖1),𝐖
+(0,𝐖0,𝐖𝐖-1),𝐖
+(1,𝐖0,𝐖0)
+\mathbb𝐖C𝐖^+𝐖
+\phi𝐖
+z𝐖=1/2
+\mathbb𝐖S𝐖^2𝐖
+\mathbb𝐖C𝐖^+𝐖
 C
 r
-o .
+o𝐖.
 p
 C
 p
 C
 m
-n,
-s =| p -o|
-| p -m| \cdot | p -n| =r^2 -s^2 .
+n,𝐖
+s𝐖=|𝐖p𝐖-o|
+|𝐖p𝐖-m|𝐖\cdot𝐖|𝐖p𝐖-n|𝐖=r^2𝐖𝐖-s^2𝐖𝐖.
 mn
 ab
 C
-p,
-| m -p| \cdot | a -p| =| m -p| \cdot | b -p| .
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbit k \lt \mathbf 0
-k \lt 0
-k .
-\mathbb D_k
-1/\sqrt{| k|}
-\mathbb C .
-\mathbb D_k
+p,𝐖
+|𝐖m𝐖-p|𝐖\cdot𝐖|𝐖a𝐖-p|𝐖=|𝐖m𝐖-p|𝐖\cdot𝐖|𝐖b𝐖-p|𝐖.
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbit𝐖k𝐖𝐖\lt𝐖\mathbf𝐖0𝐖
+k𝐖\lt𝐖0
+k𝐖.
+\mathbb𝐖D𝐖_k𝐖
+1/\sqrt{|𝐖k|}
+\mathbb𝐖C𝐖𝐖.
+\mathbb𝐖D𝐖_k𝐖
 z
-\mathbb C
-| z| \lt 1/\sqrt{| k|} .
-| z| =1/\sqrt{| k|} .
-\mscrH_k
-\mathbb D_k
-(\mathbb D_k, \mscrH_k)
-k \lt 0
-\mathbit k .
+\mathbb𝐖C𝐖
+|𝐖z|𝐖\lt𝐖1/\sqrt{|𝐖k|}𝐖.
+|𝐖z|𝐖=1/\sqrt{|𝐖k|}𝐖.
+\mscrH𝐖_k𝐖
+\mathbb𝐖D𝐖_k𝐖
+(\mathbb𝐖D𝐖_k𝐖,𝐖\mscrH𝐖_k𝐖)
+k𝐖\lt𝐖0
+\mathbit𝐖k𝐖𝐖.
 z
-z^\ast
+z^\ast𝐖𝐖
 T(z)
-T(z^\ast)
+T(z^\ast𝐖𝐖)
 z
-z^\ast =\frac{1}{| k|\overline{z}} = -\frac{1}{k\overline{z}},
-T \in \mscrH_k
-ifz^\ast = -\frac{1}{k\overline{z}}thenT(z^\ast) = -\frac{1}{k\overline{T(z)}} .
-\mscrH_k
-\mathscr S_k
-\mscrH_k
-T(z) =e^{i\theta} \frac{z -z_0}{1 +k\overline{z_0}z},
-z_0
-\mathbb D_k .
-\mathbb C^+
-(\mathbb D_k, \mscrH_k)
+z^\ast𝐖𝐖𝐖=\frac{1}{|𝐖k|\overline{z}}𝐖=𝐖-\frac{1}{k\overline{z}},𝐖
+T𝐖\in𝐖\mscrH𝐖_k𝐖
+ifz^\ast𝐖𝐖𝐖=𝐖-\frac{1}{k\overline{z}}thenT(z^\ast𝐖𝐖)𝐖=𝐖-\frac{1}{k\overline{T(z)}}𝐖.
+\mscrH𝐖_k𝐖
+\mathscr𝐖S𝐖_k𝐖
+\mscrH𝐖_k𝐖
+T(z)𝐖=e^{i\theta𝐖}𝐖\frac{z𝐖-z_0𝐖}{1𝐖+k\overline{z_0𝐖}z},𝐖
+z_0𝐖
+\mathbb𝐖D𝐖_k𝐖𝐖.
+\mathbb𝐖C𝐖^+𝐖
+(\mathbb𝐖D𝐖_k𝐖,𝐖\mscrH𝐖_k𝐖)
 z
-\frac{ -1}{k\overline{z}} .
-k .
-\mathbit r
-\mathbb D_k
-\mathcal L (\mathbit r) =\int_a^b \frac{2| \mathbit r '(t)|}{1 +k|\mathbit r (t)|^2}dt .
+\frac{𝐖-1}{k\overline{z}}𝐖.
+k𝐖.
+\mathbit𝐖r𝐖
+\mathbb𝐖D𝐖_k𝐖
+\mathcal𝐖L𝐖(\mathbit𝐖r𝐖)𝐖=\int𝐖_a^b𝐖\frac{2|𝐖\mathbit𝐖r𝐖'(t)|}{1𝐖+k|\mathbit𝐖r𝐖(t)|𝐖^2𝐖}dt𝐖.
 R
-A(R) =\iint_R \frac{4r}{(1 +kr^2)^2}drd\theta .
+A(R)𝐖=\iint𝐖_R𝐖\frac{4r}{(1𝐖+kr^2𝐖)^2𝐖}drd\theta𝐖𝐖.
 k
 \frac{2}{3}
-\mathbb D_k .
+\mathbb𝐖D𝐖_k𝐖𝐖.
 \frac{2}{3}
-(\mathbb D_k, \mscrH_k)
-k \lt 0
-\alpha
--\frac{1}{k}(\pi -\alpha) .
-\mathbb D_k
-k,
-\alpha, \beta,
-\gamma
-A =\frac{1}{k}(\alpha +\beta +\gamma -\pi) .
+(\mathbb𝐖D𝐖_k𝐖,𝐖\mscrH𝐖_k𝐖)
+k𝐖\lt𝐖0
+\alpha𝐖
+𝐖-\frac{1}{k}(\pi𝐖𝐖-\alpha𝐖)𝐖.
+\mathbb𝐖D𝐖_k𝐖
+k,𝐖
+\alpha𝐖,𝐖\beta𝐖,𝐖
+\gamma𝐖
+A𝐖=\frac{1}{k}(\alpha𝐖𝐖+\beta𝐖𝐖+\gamma𝐖𝐖-\pi𝐖)𝐖.
 z
-k .
+k𝐖.
 L
 w
-v .
+v𝐖.
 v
 w
-\angle wzv
+𝐖\angle𝐖wzv
 v
-w,
-\theta = \angle wzu,
+w,𝐖
+\theta𝐖𝐖=𝐖\angle𝐖wzu,𝐖
 u
-L .
-\theta
+L𝐖.
+\theta𝐖
 z
-L .
-\theta,
-\mathbit z
-\mathbit L
+L𝐖.
+\theta𝐖,𝐖
+\mathbit𝐖z𝐖
+\mathbit𝐖L𝐖
 z
 d
-L .
-\cosh (d) =1/\sin (\theta)
-(\mathbb D, \mscrH) .
+L𝐖.
+\cosh𝐖(d)𝐖=1/\sin𝐖(\theta𝐖)
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)𝐖.
 d
 L
-\theta .
-L,
-\lt mi/>\circ,
+\theta𝐖𝐖.
+L,𝐖
+\lt𝐖mi/>\circ,𝐖
 d
-k,
+k,𝐖
 d
 z
 L
-\theta
-\tan (\theta /2) =e^{ -\sqrt{| k|}d} .
-e_1
-e_2
+\theta𝐖
+\tan𝐖(\theta𝐖/2)𝐖=e^{𝐖-\sqrt{|𝐖k|}d}𝐖𝐖.
+e_1𝐖
+e_2𝐖
 s
 p
 p
-D,
-D =d/\tan (p),
+D,𝐖
+D𝐖=d/\tan𝐖(p),𝐖
 d
 p
 d
 d
 p
-D =\frac{d}{p} .
-\lt mi/>\circ
-k,
-e_1
-e_2
-2d,
+D𝐖=\frac{d}{p}𝐖.
+\lt𝐖mi/>\circ
+k,𝐖
+e_1𝐖
+e_2𝐖
+2d,𝐖
 s
-p,
-\angle e_2 se_1 =2p .
-\alpha = \angle e_1 e_2 s
-\theta = \angle e_1 e_2 u .
-\tan (x)
-\tan (\alpha /2) \lt \tan (\theta /2) =e^{ -\sqrt{| k|}2d} .
-| k| \colon
-\tan (\alpha /2) & \lt mi/> \lt e^{ -\sqrt{| k|}2d} & \~ \\ \ln (\tan (\alpha /2)) & \lt mi/> \lt -\sqrt{| k|}2d & \ln (x)is\space increasing \\ [\frac{\ln (\tan (\alpha /2))}{2d}]^2 & \lt mi/> >| k| . & x^2 is\space decreasing\space forx \lt 0
-| k|
-p,
-\alpha \approx \pi /2 -2p
-\lt mi/>\circ
-| k| \lt [\frac{\ln (\tan (\pi /4 -p))}{2d}]^2 .
+p,𝐖
+𝐖\angle𝐖e_2𝐖se_1𝐖𝐖=2p𝐖.
+\alpha𝐖𝐖=𝐖\angle𝐖e_1𝐖e_2𝐖s
+\theta𝐖𝐖=𝐖\angle𝐖e_1𝐖e_2𝐖u𝐖.
+\tan𝐖(x)
+\tan𝐖(\alpha𝐖/2)𝐖\lt𝐖\tan𝐖(\theta𝐖/2)𝐖=e^{𝐖-\sqrt{|𝐖k|}2d}𝐖𝐖.
+|𝐖k|𝐖\colon𝐖
+\tan𝐖(\alpha𝐖/2)𝐖&𝐖\lt𝐖mi/>𝐖\lt𝐖e^{𝐖-\sqrt{|𝐖k|}2d}𝐖𝐖&𝐖\~𝐖\\𝐖\ln𝐖(\tan𝐖(\alpha𝐖/2))𝐖&𝐖\lt𝐖mi/>𝐖\lt𝐖𝐖-\sqrt{|𝐖k|}2d𝐖&𝐖\ln𝐖(x)is\space𝐖increasing𝐖\\𝐖[\frac{\ln𝐖(\tan𝐖(\alpha𝐖/2))}{2d}]^2𝐖𝐖&𝐖\lt𝐖mi/>𝐖>|𝐖k|𝐖.𝐖&𝐖x^2𝐖is\space𝐖decreasing\space𝐖forx𝐖\lt𝐖0
+|𝐖k|
+p,𝐖
+\alpha𝐖𝐖\approx𝐖\pi𝐖/2𝐖-2p
+\lt𝐖mi/>\circ
+|𝐖k|𝐖\lt𝐖[\frac{\ln𝐖(\tan𝐖(\pi𝐖/4𝐖-p))}{2d}]^2𝐖𝐖.
 p
-\ln (\tan (\pi /4 -p))
--2p,
-k,
-| k| \lt (p/d)^2 .
-k \lt 0,
-\mscrH_k
-T(z) =e^{i\theta} \frac{z -z_0}{1 +k\overline{z_0}z},
-\theta
-z_0
-\mathbb D_k .
-k \lt 0
-s =1/\sqrt{| k|} .
-(\mathbb D_k, \mscrH_k) .
+\ln𝐖(\tan𝐖(\pi𝐖/4𝐖-p))
+𝐖-2p,𝐖
+k,𝐖
+|𝐖k|𝐖\lt𝐖(p/d)^2𝐖𝐖.
+k𝐖\lt𝐖0,𝐖
+\mscrH𝐖_k𝐖
+T(z)𝐖=e^{i\theta𝐖}𝐖\frac{z𝐖-z_0𝐖}{1𝐖+k\overline{z_0𝐖}z},𝐖
+\theta𝐖
+z_0𝐖
+\mathbb𝐖D𝐖_k𝐖𝐖.
+k𝐖\lt𝐖0
+s𝐖=1/\sqrt{|𝐖k|}𝐖.
+(\mathbb𝐖D𝐖_k𝐖,𝐖\mscrH𝐖_k𝐖)𝐖.
 0
-x,
-0 \lt x \lt s
-d_k (0, x) =s\ln (\frac{s +x}{s -x}) .
+x,𝐖
+0𝐖\lt𝐖x𝐖\lt𝐖s
+d_k𝐖(0,𝐖x)𝐖=s\ln𝐖(\frac{s𝐖+x}{s𝐖-x})𝐖.
 r
-c =2\pi s\sinh (r/s) .
+c𝐖=2\pi𝐖s\sinh𝐖(r/s)𝐖.
 r
-A =4\pi s^2 \sinh^2 (\frac{r}{2s}) .
-k \to 0^- .
-d_k (0, x)
-x,
-0 \lt x \lt s,
+A𝐖=4\pi𝐖s^2𝐖\sinh𝐖^2𝐖(\frac{r}{2s})𝐖.
+k𝐖\to𝐖0^-𝐖𝐖.
+d_k𝐖(0,𝐖x)
+x,𝐖
+0𝐖\lt𝐖x𝐖\lt𝐖s,𝐖
 2x
-k \to 0^- .
+k𝐖\to𝐖0^-𝐖𝐖.
 r
-2\pi r
-k \to 0^- .
-\pi r^2
-k \to 0^- .
-(\mathbb D_k, \mscrH_k) .
-(\mathbb D_k, \mscrH_k)
-a, b, c
-\alpha, \beta,
-\gamma
-s =1/\sqrt{| k|} .
-(\mathbb D_k, \mscrH_k) \colon
-\cosh (c/s) =\cosh (a/s)\cosh (b/s) -\sinh (a/s)\sinh (b/s)\cos (\gamma) .
-(\mathbb D_k, \mscrH_k) \colon
-\frac{\sinh (a/s)}{\sin (\alpha)} =\frac{\sinh (b/s)}{\sin (\beta)} =\frac{\sinh (c/s)}{\sin (\gamma)} .
-k \lt 0
-(\mathbb D_k, \mscrH_k)
+2\pi𝐖r
+k𝐖\to𝐖0^-𝐖𝐖.
+\pi𝐖r^2𝐖
+k𝐖\to𝐖0^-𝐖𝐖.
+(\mathbb𝐖D𝐖_k𝐖,𝐖\mscrH𝐖_k𝐖)𝐖.
+(\mathbb𝐖D𝐖_k𝐖,𝐖\mscrH𝐖_k𝐖)
+a,𝐖b,𝐖c
+\alpha𝐖,𝐖\beta𝐖,𝐖
+\gamma𝐖
+s𝐖=1/\sqrt{|𝐖k|}𝐖.
+(\mathbb𝐖D𝐖_k𝐖,𝐖\mscrH𝐖_k𝐖)𝐖\colon𝐖
+\cosh𝐖(c/s)𝐖=\cosh𝐖(a/s)\cosh𝐖(b/s)𝐖-\sinh𝐖(a/s)\sinh𝐖(b/s)\cos𝐖(\gamma𝐖)𝐖.
+(\mathbb𝐖D𝐖_k𝐖,𝐖\mscrH𝐖_k𝐖)𝐖\colon𝐖
+\frac{\sinh𝐖(a/s)}{\sin𝐖(\alpha𝐖)}𝐖=\frac{\sinh𝐖(b/s)}{\sin𝐖(\beta𝐖)}𝐖=\frac{\sinh𝐖(c/s)}{\sin𝐖(\gamma𝐖)}𝐖.
+k𝐖\lt𝐖0
+(\mathbb𝐖D𝐖_k𝐖,𝐖\mscrH𝐖_k𝐖)
 k
-\theta
-\theta
-d ?
-p =.3
+\theta𝐖
+\theta𝐖
+d𝐖?
+p𝐖=.3
 k
-\lt mi/>^{ -2}
+\lt𝐖mi/>^{𝐖-2}𝐖
 k
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
 r
 k
-k =1/r .
-z =f(x, y)
-c \approx 2\pi r .
-c =2\pi r .
-2\pi r
+k𝐖=1/r𝐖.
+z𝐖=f(x,𝐖y)
+c𝐖\approx𝐖2\pi𝐖r𝐖.
+c𝐖=2\pi𝐖r𝐖.
+2\pi𝐖r
 c
 r
-c =2\pi \sinh (r);
-c =2\pi r;
-c =2\pi \sin (r) .
-\frac{c}{2\pi r}
+c𝐖=2\pi𝐖\sinh𝐖(r);𝐖
+c𝐖=2\pi𝐖r;𝐖
+c𝐖=2\pi𝐖\sin𝐖(r)𝐖.
+\frac{c}{2\pi𝐖r}
 c
 r
-c/2\pi r
+c/2\pi𝐖r
 r
-c/2\pi r
+c/2\pi𝐖r
 r
-r \to 0^+ .
-r \to 0^+ .
+r𝐖\to𝐖0^+𝐖𝐖.
+r𝐖\to𝐖0^+𝐖𝐖.
 r
 p
-c .
-\mathbit p
-k = -3\lim_{r \to 0^+} \frac{d^2}{dr^2}[\frac{c}{2\pi r}] .
+c𝐖.
+\mathbit𝐖p𝐖
+k𝐖=𝐖-3\lim𝐖_{r𝐖\to𝐖0^+𝐖}𝐖\frac{d^2𝐖}{dr^2𝐖}[\frac{c}{2\pi𝐖r}]𝐖.
 s
 N
-r .
-z =0,
-x,
-2\pi x .
-x =s\sin (\theta)
-r =\theta \cdot s,
-x =s\sin (\frac{r}{s}),
+r𝐖.
+z𝐖=0,𝐖
+x,𝐖
+2\pi𝐖x𝐖.
+x𝐖=s\sin𝐖(\theta𝐖)
+r𝐖=\theta𝐖𝐖\cdot𝐖s,𝐖
+x𝐖=s\sin𝐖(\frac{r}{s}),𝐖
 r
-c =2\pi s\sin (\frac{r}{s}) .
+c𝐖=2\pi𝐖s\sin𝐖(\frac{r}{s})𝐖.
 N
-k = -3\lim_{r \to 0^+} \frac{d^2}{dr^2}[\frac{2\pi s\sin (r/s)}{2\pi r}] .
-2\pi
-\sin (r/s)
-k & \lt mi/> = -3\lim_{r \to 0^+} \frac{d^2}{dr^2}[\frac{s(\frac{r}{s} -\frac{r^3}{6s^3} +\frac{r^5}{120s^5} -\cdots)}{r}] \\ \~ & \lt mi/> = -3\lim_{r \to 0^+} \frac{d^2}{dr^2}[1 -\frac{r^2}{6s^2} +\frac{r^4}{120s^4} -\cdots] \\ \~ & \lt mi/> = -3\lim_{r \to 0^+} [\frac{ -1}{3s^2} +\frac{12r^2}{120s^4} -\cdots] .
+k𝐖=𝐖-3\lim𝐖_{r𝐖\to𝐖0^+𝐖}𝐖\frac{d^2𝐖}{dr^2𝐖}[\frac{2\pi𝐖s\sin𝐖(r/s)}{2\pi𝐖r}]𝐖.
+2\pi𝐖
+\sin𝐖(r/s)
+k𝐖&𝐖\lt𝐖mi/>𝐖=𝐖-3\lim𝐖_{r𝐖\to𝐖0^+𝐖}𝐖\frac{d^2𝐖}{dr^2𝐖}[\frac{s(\frac{r}{s}𝐖-\frac{r^3𝐖}{6s^3𝐖}𝐖+\frac{r^5𝐖}{120s^5𝐖}𝐖-\cdots𝐖)}{r}]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=𝐖-3\lim𝐖_{r𝐖\to𝐖0^+𝐖}𝐖\frac{d^2𝐖}{dr^2𝐖}[1𝐖-\frac{r^2𝐖}{6s^2𝐖}𝐖+\frac{r^4𝐖}{120s^4𝐖}𝐖-\cdots𝐖]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=𝐖-3\lim𝐖_{r𝐖\to𝐖0^+𝐖}𝐖[\frac{𝐖-1}{3s^2𝐖}𝐖+\frac{12r^2𝐖}{120s^4𝐖}𝐖-\cdots𝐖]𝐖.
 r
-r \to 0^+,
-1/s^2 .
-k =\frac{1}{s^2} .
-(\mathbb D, \mscrH)
-c =2\pi \sinh (r) .
-\sinh (r) =r +\frac{r^3}{3!} +\frac{r^5}{5!} +\cdots .
-k & \lt mi/> = -3\lim_{r \to 0^+} \frac{d^2}{dr^2}[\frac{2\pi \sinh (r)}{2\pi r}] \\ \~ & \lt mi/> = -3\lim_{r \to 0^+} \frac{d^2}{dr^2}[1 +\frac{r^2}{3!} +\frac{r^4}{5!} +\cdots] \\ \~ & \lt mi/> = -3\lim_{r \to 0^+} [\frac{1}{3} +\frac{12r^2}{5!} +\cdots] .
+r𝐖\to𝐖0^+𝐖,𝐖
+1/s^2𝐖𝐖.
+k𝐖=\frac{1}{s^2𝐖}𝐖.
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
+c𝐖=2\pi𝐖\sinh𝐖(r)𝐖.
+\sinh𝐖(r)𝐖=r𝐖+\frac{r^3𝐖}{3!}𝐖+\frac{r^5𝐖}{5!}𝐖+\cdots𝐖𝐖.
+k𝐖&𝐖\lt𝐖mi/>𝐖=𝐖-3\lim𝐖_{r𝐖\to𝐖0^+𝐖}𝐖\frac{d^2𝐖}{dr^2𝐖}[\frac{2\pi𝐖\sinh𝐖(r)}{2\pi𝐖r}]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=𝐖-3\lim𝐖_{r𝐖\to𝐖0^+𝐖}𝐖\frac{d^2𝐖}{dr^2𝐖}[1𝐖+\frac{r^2𝐖}{3!}𝐖+\frac{r^4𝐖}{5!}𝐖+\cdots𝐖]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=𝐖-3\lim𝐖_{r𝐖\to𝐖0^+𝐖}𝐖[\frac{1}{3}𝐖+\frac{12r^2𝐖}{5!}𝐖+\cdots𝐖]𝐖.
 r
-r \to 0^+,
-\mathbb D, \mscrH)
-k = -1.
-c =2\pi \sin (r)
-k =0 .
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-(\mathbit X_\mathbit k, \mathbit G_\mathbit k)
-(\mathbb P_k^2, \mathscr S_k)
-k >0
-(\mathbb D_k, \mscrH_k)
-k \lt 0 .
-k .
+r𝐖\to𝐖0^+𝐖,𝐖
+\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
+k𝐖=𝐖-1.
+c𝐖=2\pi𝐖\sin𝐖(r)
+k𝐖=0𝐖.
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+(\mathbit𝐖X𝐖_\mathbit𝐖k𝐖𝐖,𝐖\mathbit𝐖G𝐖_\mathbit𝐖k𝐖𝐖)
+(\mathbb𝐖P𝐖_k^2𝐖,𝐖\mathscr𝐖S𝐖_k𝐖)
+k𝐖>0
+(\mathbb𝐖D𝐖_k𝐖,𝐖\mscrH𝐖_k𝐖)
+k𝐖\lt𝐖0𝐖.
+k𝐖.
 k
-(\mathbit X_\mathbit k, \mathbit G_\mathbit k)
-X_k =\{\mathbb D_k & \~if\~k \lt 0;\~ \\ \mathbb C & \~if\~k =0;\~ \\ \mathbb P_k^2 & \~if\~k >0,\~ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
-G_k
-T(z) =e^{i\theta} \frac{z -z_0}{1 +k\overline{z_0}z},
-\theta \in \mathbb R
-z_0
-X_k .
+(\mathbit𝐖X𝐖_\mathbit𝐖k𝐖𝐖,𝐖\mathbit𝐖G𝐖_\mathbit𝐖k𝐖𝐖)
+X_k𝐖𝐖=\{\mathbb𝐖D𝐖_k𝐖𝐖&𝐖\~if\~k𝐖\lt𝐖0;\~𝐖\\𝐖\mathbb𝐖C𝐖𝐖&𝐖\~if\~k𝐖=0;\~𝐖\\𝐖\mathbb𝐖P𝐖_k^2𝐖𝐖&𝐖\~if\~k𝐖>0,\~𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
+G_k𝐖
+T(z)𝐖=e^{i\theta𝐖}𝐖\frac{z𝐖-z_0𝐖}{1𝐖+k\overline{z_0𝐖}z},𝐖
+\theta𝐖𝐖\in𝐖\mathbb𝐖R𝐖
+z_0𝐖
+X_k𝐖𝐖.
 p
 q
-(X_k, G_k)
-p, q,
--1/(k\overline{p}) .
-\mathbit r \colon [a, b] \to X_k
-\mathcal L (\mathbit r) =\int_a^b \frac{2| \mathbit r '(t)|}{1 +k|\mathbit r (t)|^2}dt .
+(X_k𝐖,𝐖G_k𝐖)
+p,𝐖q,𝐖
+𝐖-1/(k\overline{p})𝐖.
+\mathbit𝐖r𝐖𝐖\colon𝐖[a,𝐖b]𝐖\to𝐖X_k𝐖
+\mathcal𝐖L𝐖(\mathbit𝐖r𝐖)𝐖=\int𝐖_a^b𝐖\frac{2|𝐖\mathbit𝐖r𝐖'(t)|}{1𝐖+k|\mathbit𝐖r𝐖(t)|𝐖^2𝐖}dt𝐖.
 R
-(X_k, G_k)
-A(R) =\iint_R \frac{4r}{(1 +kr^2)^2}drd\theta .
-k >0,
-\pi;
-k \lt 0
-\pi .
-k >0
-X_k =\mathbb P_k^2
-k \lt 0,
-X_k =\mathbb D_k
-k >0
+(X_k𝐖,𝐖G_k𝐖)
+A(R)𝐖=\iint𝐖_R𝐖\frac{4r}{(1𝐖+kr^2𝐖)^2𝐖}drd\theta𝐖𝐖.
+k𝐖>0,𝐖
+\pi𝐖;𝐖
+k𝐖\lt𝐖0
+\pi𝐖𝐖.
+k𝐖>0
+X_k𝐖𝐖=\mathbb𝐖P𝐖_k^2𝐖
+k𝐖\lt𝐖0,𝐖
+X_k𝐖𝐖=\mathbb𝐖D𝐖_k𝐖
+k𝐖>0
 r
-2\pi r;
-k \lt 0
-2\pi r .
-k =0 ?
-(X_0, G_0)
-(X_0, G_0)
-k =0,
--1/(k\overline{p}) =\infty,
+2\pi𝐖r;𝐖
+k𝐖\lt𝐖0
+2\pi𝐖r𝐖.
+k𝐖=0𝐖?
+(X_0𝐖,𝐖G_0𝐖)
+(X_0𝐖,𝐖G_0𝐖)
+k𝐖=0,𝐖
+𝐖-1/(k\overline{p})𝐖=\infty𝐖,𝐖
 p
 q
-k =0
-(X_0, G_0),
-\lt mi/>\circ .
-(X_k, G_k)
+k𝐖=0
+(X_0𝐖,𝐖G_0𝐖),𝐖
+\lt𝐖mi/>\circ𝐖.
+(X_k𝐖,𝐖G_k𝐖)
 k
 k
-k =0
-\mathbb C
-(X_0, G_0)
+k𝐖=0
+\mathbb𝐖C𝐖
+(X_0𝐖,𝐖G_0𝐖)
 k
 k
-(X_k, G_k) .
-(X_k, G_k)
+(X_k𝐖,𝐖G_k𝐖)𝐖.
+(X_k𝐖,𝐖G_k𝐖)
 p
 q
-(X_k, G_k)
-k = -1, 0, 1,
-k .
-(X_k, G_k) \colon
-p, q \in X_k,
-d_k (p, q)
+(X_k𝐖,𝐖G_k𝐖)
+k𝐖=𝐖-1,𝐖0,𝐖1,𝐖
+k𝐖.
+(X_k𝐖,𝐖G_k𝐖)𝐖\colon𝐖
+p,𝐖q𝐖\in𝐖X_k𝐖,𝐖
+d_k𝐖(p,𝐖q)
 p
-q .
-(X_k, G_k)
+q𝐖.
+(X_k𝐖,𝐖G_k𝐖)
 p
 q
-X_k
+X_k𝐖
 p
-d_k (p, q) .
-k,
-(X_k, G_k)
+d_k𝐖(p,𝐖q)𝐖.
+k,𝐖
+(X_k𝐖,𝐖G_k𝐖)
 k
-(X_k, G_k)
-\alpha, \beta,
-\gamma
-A .
-kA =(\alpha +\beta +\gamma -\pi) .
-(X_k, G_k) \colon
-\lt mi/>\circ .
-| k|
-180\circ .
-k =0
-\pi
+(X_k𝐖,𝐖G_k𝐖)
+\alpha𝐖,𝐖\beta𝐖,𝐖
+\gamma𝐖
+A𝐖.
+kA𝐖=(\alpha𝐖𝐖+\beta𝐖𝐖+\gamma𝐖𝐖-\pi𝐖)𝐖.
+(X_k𝐖,𝐖G_k𝐖)𝐖\colon𝐖
+\lt𝐖mi/>\circ𝐖.
+|𝐖k|
+180\circ𝐖.
+k𝐖=0
+\pi𝐖
 n
-(n \ge 3)
-(X_k, G_k)
-\alpha_i
-i =1, 2, \ldots, n .
+(n𝐖\ge𝐖3)
+(X_k𝐖,𝐖G_k𝐖)
+\alpha𝐖_i𝐖
+i𝐖=1,𝐖2,𝐖\ldots𝐖,𝐖n𝐖.
 A
 n
-kA =(\sum_{i =1}^n \alpha_i) -(n -2)\pi .
-k \in \mathbb R,
-s =\frac{1}{\sqrt{| k|}}
-0 \lt x \lt s
-k =0,
-0 \lt x
-(X_k, G_k),
+kA𝐖=(\sum𝐖_{i𝐖=1}^n𝐖\alpha𝐖_i𝐖)𝐖-(n𝐖-2)\pi𝐖𝐖.
+k𝐖\in𝐖\mathbb𝐖R𝐖,𝐖
+s𝐖=\frac{1}{\sqrt{|𝐖k|}}
+0𝐖\lt𝐖x𝐖\lt𝐖s
+k𝐖=0,𝐖
+0𝐖\lt𝐖x
+(X_k𝐖,𝐖G_k𝐖),𝐖
 x
-\frac{4\pi x^2}{1 +kx^2} .
-k \in \mathbb R,
-(X_k, G_k)
+\frac{4\pi𝐖x^2𝐖}{1𝐖+kx^2𝐖}𝐖.
+k𝐖\in𝐖\mathbb𝐖R𝐖,𝐖
+(X_k𝐖,𝐖G_k𝐖)
 a
 b
-c .
-A(c) =A(a) +A(b) -\frac{k}{2\pi}A(a)A(b),
+c𝐖.
+A(c)𝐖=A(a)𝐖+A(b)𝐖-\frac{k}{2\pi𝐖}A(a)A(b),𝐖
 A(r)
 r
-(X_k, G_k) .
-(X_k, G_k)
-a >0
-\lt mi/>\circ,
+(X_k𝐖,𝐖G_k𝐖)𝐖.
+(X_k𝐖,𝐖G_k𝐖)
+a𝐖>0
+\lt𝐖mi/>\circ,𝐖
 a
 c
 c
 a
 k
-k =0
-c^2 =2a^2 .
-k \lt 0,
-\cosh (\sqrt{| k|}c) =\cosh^2 (\sqrt{| k|}a) .
-k >0,
-\cos (\sqrt{k}c) =\cos^2 (\sqrt{k}a) .
-c,
+k𝐖=0
+c^2𝐖𝐖=2a^2𝐖𝐖.
+k𝐖\lt𝐖0,𝐖
+\cosh𝐖(\sqrt{|𝐖k|}c)𝐖=\cosh𝐖^2𝐖(\sqrt{|𝐖k|}a)𝐖.
+k𝐖>0,𝐖
+\cos𝐖(\sqrt{k}c)𝐖=\cos𝐖^2𝐖(\sqrt{k}a)𝐖.
+c,𝐖
 a
 c
 c
 a
-k .
-k = -1, 0, 1
-k \lt 0
-k >0
-k =0
-k =0
-(\mathbit X_\mathbit k, \mathbit G_\mathbit k)
-k \in \mathbb R,
-s =\frac{1}{\sqrt{| k|}}
-0 \lt x \lt s
-k =0
-0 \lt x
-(X_k, G_k),
+k𝐖.
+k𝐖=𝐖-1,𝐖0,𝐖1
+k𝐖\lt𝐖0
+k𝐖>0
+k𝐖=0
+k𝐖=0
+(\mathbit𝐖X𝐖_\mathbit𝐖k𝐖𝐖,𝐖\mathbit𝐖G𝐖_\mathbit𝐖k𝐖𝐖)
+k𝐖\in𝐖\mathbb𝐖R𝐖,𝐖
+s𝐖=\frac{1}{\sqrt{|𝐖k|}}
+0𝐖\lt𝐖x𝐖\lt𝐖s
+k𝐖=0
+0𝐖\lt𝐖x
+(X_k𝐖,𝐖G_k𝐖),𝐖
 x
-d_k (0, x) =\{s\ln (\frac{s +x}{s -x}) & \~if\~k \lt 0;\~ \\ 2x & \~if\~k =0;\~ \\ 2s\arctan (x/s) & if\~k >0 . \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+d_k𝐖(0,𝐖x)𝐖=\{s\ln𝐖(\frac{s𝐖+x}{s𝐖-x})𝐖&𝐖\~if\~k𝐖\lt𝐖0;\~𝐖\\𝐖2x𝐖&𝐖\~if\~k𝐖=0;\~𝐖\\𝐖2s\arctan𝐖(x/s)𝐖&𝐖if\~k𝐖>0𝐖.𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
 r
-(X_k, G_k)
+(X_k𝐖,𝐖G_k𝐖)
 A(r)
-A(r) =\{4\pi s^2 \sinh^2 (\frac{r}{2s}) & \~if\~k \lt 0;\~ \\ \pi r^2 & \~if\~k =0;\~ \\ 4\pi s^2 \sin^2 (\frac{r}{2s}) & if\~k >0, \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+A(r)𝐖=\{4\pi𝐖s^2𝐖\sinh𝐖^2𝐖(\frac{r}{2s})𝐖&𝐖\~if\~k𝐖\lt𝐖0;\~𝐖\\𝐖\pi𝐖r^2𝐖𝐖&𝐖\~if\~k𝐖=0;\~𝐖\\𝐖4\pi𝐖s^2𝐖\sin𝐖^2𝐖(\frac{r}{2s})𝐖&𝐖if\~k𝐖>0,𝐖𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
 r
-(X_k, G_k)
+(X_k𝐖,𝐖G_k𝐖)
 C(r)
-C(r) =\{2\pi s\sinh (r/s) & \~if\~k \lt 0;\~ \\ 2\pi r & \~if\~k =0;\~ \\ 2\pi s\sin (r/s) & if\~k >0 . \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
-(X_k, G_k)
-k =0 .
-d_0 (0, x) =2x
-x >0
+C(r)𝐖=\{2\pi𝐖s\sinh𝐖(r/s)𝐖&𝐖\~if\~k𝐖\lt𝐖0;\~𝐖\\𝐖2\pi𝐖r𝐖&𝐖\~if\~k𝐖=0;\~𝐖\\𝐖2\pi𝐖s\sin𝐖(r/s)𝐖&𝐖if\~k𝐖>0𝐖.𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
+(X_k𝐖,𝐖G_k𝐖)
+k𝐖=0𝐖.
+d_0𝐖(0,𝐖x)𝐖=2x
+x𝐖>0
 r
-(X_0, G_0)
-A(r) =\pi r^2
-C(r) =2\pi r .
-k,
-(X_k, G_k)
-k .
-k \lt 0, k =0,
-k >0 .
-(X_k, G_k)
-k .
-\lt mi/>\circ,
-\lt mi/>\circ,
-\lt mi/>\circ,
-\lt mi/>^2 .
-(X_k, G_k)
+(X_0𝐖,𝐖G_0𝐖)
+A(r)𝐖=\pi𝐖r^2𝐖
+C(r)𝐖=2\pi𝐖r𝐖.
+k,𝐖
+(X_k𝐖,𝐖G_k𝐖)
+k𝐖.
+k𝐖\lt𝐖0,𝐖k𝐖=0,𝐖
+k𝐖>0𝐖.
+(X_k𝐖,𝐖G_k𝐖)
+k𝐖.
+\lt𝐖mi/>\circ,𝐖
+\lt𝐖mi/>\circ,𝐖
+\lt𝐖mi/>\circ,𝐖
+\lt𝐖mi/>^2𝐖𝐖.
+(X_k𝐖,𝐖G_k𝐖)
 r
-\frac{d}{dr}[A(r)] =C(r) .
-(X_k, G_k)
+\frac{d}{dr}[A(r)]𝐖=C(r)𝐖.
+(X_k𝐖,𝐖G_k𝐖)
 p
-a,
-k,
-a =0,
-c =0
-\frac{dc}{da}|_{a =0} =\sqrt{2};
-a >0,
-\frac{d^2 c}{da^2}
-k,
-k .
-(X_k, G_k)
-\lt mi/>\circ
+a,𝐖
+k,𝐖
+a𝐖=0,𝐖
+c𝐖=0
+\frac{dc}{da}|𝐖_{a𝐖=0}𝐖𝐖=\sqrt{2};𝐖
+a𝐖>0,𝐖
+\frac{d^2𝐖c}{da^2𝐖}
+k,𝐖
+k𝐖.
+(X_k𝐖,𝐖G_k𝐖)
+\lt𝐖mi/>\circ
 k
-a =8
-c =11.2
-(X_k, G_k)
-p .
-z,
-\lt mi/>\circ
-q .
-\angle pqz =.789
+a𝐖=8
+c𝐖=11.2
+(X_k𝐖,𝐖G_k𝐖)
+p𝐖.
+z,𝐖
+\lt𝐖mi/>\circ
+q𝐖.
+𝐖\angle𝐖pqz𝐖=.789
 k
-(X_k, G_k)
+(X_k𝐖,𝐖G_k𝐖)
 k
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
 i
-\mathbb R
+\mathbb𝐖R𝐖
 i
-i^2 = -1
-(x, y)
-\mathbb C
-\mathbb C =\{(x, y)|x, y \in \mathbb R \} .
-z =(x, y),
+i^2𝐖𝐖=𝐖-1
+(x,𝐖y)
+\mathbb𝐖C𝐖
+\mathbb𝐖C𝐖𝐖=\{(x,𝐖y)|x,𝐖y𝐖\in𝐖\mathbb𝐖R𝐖\}𝐖.
+z𝐖=(x,𝐖y),𝐖
 x
 z
-(z);
+(z);𝐖
 y
 z
-(z) .
-\mathbb C
-x \leftrightarrow (x, 0),
-x .
-\mathbb C
-(x, y) +(s, t) =(x +s, y +t),
+(z)𝐖.
+\mathbb𝐖C𝐖
+x𝐖\leftrightarrow𝐖(x,𝐖0),𝐖
+x𝐖.
+\mathbb𝐖C𝐖
+(x,𝐖y)𝐖+(s,𝐖t)𝐖=(x𝐖+s,𝐖y𝐖+t),𝐖
 k
-k \cdot (x, y) =(kx, ky) .
-i =(0, 1),
-(x, y)
-x +yi
-(x, y) & \lt mi/> =(x, 0) +(0, y) \\ \~ & \lt mi/> =x(1, 0) +y(0, 1) \\ \~ & \lt mi/> =x +yi .
-x +yi
+k𝐖\cdot𝐖(x,𝐖y)𝐖=(kx,𝐖ky)𝐖.
+i𝐖=(0,𝐖1),𝐖
+(x,𝐖y)
+x𝐖+yi
+(x,𝐖y)𝐖&𝐖\lt𝐖mi/>𝐖=(x,𝐖0)𝐖+(0,𝐖y)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=x(1,𝐖0)𝐖+y(0,𝐖1)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=x𝐖+yi𝐖.
+x𝐖+yi
 z
 w
-z =x +yi
+z𝐖=x𝐖+yi
 z
-(x, y)
-z =2 +i,
-w = -1 +1.5i,
-z +w =1 +2.5i,
-\mathbb C .
-z -w
+(x,𝐖y)
+z𝐖=2𝐖+i,𝐖
+w𝐖=𝐖-1𝐖+1.5i,𝐖
+z𝐖+w𝐖=1𝐖+2.5i,𝐖
+\mathbb𝐖C𝐖𝐖.
+z𝐖-w
 w
 z
-i^2 = -1 .
-(x +yi) \cdot (s +ti) & \lt mi/> =xs +ysi +xti +yti^2 \\ \~ & \lt mi/> =(xs -yt) +(ys +xt)i .
-z =x +yi,
-| z|,
-| z| =\sqrt{x^2 +y^2} .
-| z|
+i^2𝐖𝐖=𝐖-1𝐖.
+(x𝐖+yi)𝐖\cdot𝐖(s𝐖+ti)𝐖&𝐖\lt𝐖mi/>𝐖=xs𝐖+ysi𝐖+xti𝐖+yti^2𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=(xs𝐖-yt)𝐖+(ys𝐖+xt)i𝐖.
+z𝐖=x𝐖+yi,𝐖
+|𝐖z|,𝐖
+|𝐖z|𝐖=\sqrt{x^2𝐖𝐖+y^2𝐖}𝐖.
+|𝐖z|
 z
-z =x +yi,
-\overline{z},
-\overline{z} =x -yi .
-z =3 -4i
-w =2 +7i .
-z +w =5 +3i,
-z \cdot w & \lt mi/> =(3 -4i)(2 +7i) \\ \~ & \lt mi/> =6 +28 -8i +21i \\ \~ & \lt mi/> =34 +13i .
-4z & \lt mi/> =12 -16i \\ | z| & \lt mi/> =\sqrt{3^2 +( -4)^2} =5 \\ \overline{zw} & \lt mi/> =34 -13i .
-z +w,
-sz,
-| z|,
-z \cdot w .
-z =5 +2i,
-s = -4,
-w = -1 +2i
-z =3i,
-s =1/2,
-w = -3 +2i
-z =1 +i,
-s =0.6,
-w =1 -i
-z \cdot \overline{z} =| z|^2,
+z𝐖=x𝐖+yi,𝐖
+\overline{z},𝐖
+\overline{z}𝐖=x𝐖-yi𝐖.
+z𝐖=3𝐖-4i
+w𝐖=2𝐖+7i𝐖.
+z𝐖+w𝐖=5𝐖+3i,𝐖
+z𝐖\cdot𝐖w𝐖&𝐖\lt𝐖mi/>𝐖=(3𝐖-4i)(2𝐖+7i)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=6𝐖+28𝐖-8i𝐖+21i𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=34𝐖+13i𝐖.
+4z𝐖&𝐖\lt𝐖mi/>𝐖=12𝐖-16i𝐖\\𝐖|𝐖z|𝐖&𝐖\lt𝐖mi/>𝐖=\sqrt{3^2𝐖𝐖+(𝐖-4)^2𝐖}𝐖=5𝐖\\𝐖\overline{zw}𝐖&𝐖\lt𝐖mi/>𝐖=34𝐖-13i𝐖.
+z𝐖+w,𝐖
+sz,𝐖
+|𝐖z|,𝐖
+z𝐖\cdot𝐖w𝐖.
+z𝐖=5𝐖+2i,𝐖
+s𝐖=𝐖-4,𝐖
+w𝐖=𝐖-1𝐖+2i
+z𝐖=3i,𝐖
+s𝐖=1/2,𝐖
+w𝐖=𝐖-3𝐖+2i
+z𝐖=1𝐖+i,𝐖
+s𝐖=0.6,𝐖
+w𝐖=1𝐖-i
+z𝐖\cdot𝐖\overline{z}𝐖=|𝐖z|^2𝐖,𝐖
 \overline{z}
-z .
-z =x +yi
-w =s +ti
-| w \cdot z| =| w| \cdot | z| .
-\overline{zw} =\overline{z} \cdot \overline{w} .
-\overline{z +w} =\overline{z} +\overline{w} .
-z +\overline{z} =2Re(z) .
-z +\overline{z}
-z -\overline{z} =2Im(z)i .
-| z| =| \overline{z}| .
-(a, b, c)
-a^2 +b^2 =c^2 .
-z =x +yi
+z𝐖.
+z𝐖=x𝐖+yi
+w𝐖=s𝐖+ti
+|𝐖w𝐖\cdot𝐖z|𝐖=|𝐖w|𝐖\cdot𝐖|𝐖z|𝐖.
+\overline{zw}𝐖=\overline{z}𝐖\cdot𝐖\overline{w}𝐖.
+\overline{z𝐖+w}𝐖=\overline{z}𝐖+\overline{w}𝐖.
+z𝐖+\overline{z}𝐖=2Re(z)𝐖.
+z𝐖+\overline{z}
+z𝐖-\overline{z}𝐖=2Im(z)i𝐖.
+|𝐖z|𝐖=|𝐖\overline{z}|𝐖.
+(a,𝐖b,𝐖c)
+a^2𝐖𝐖+b^2𝐖𝐖=c^2𝐖𝐖.
+z𝐖=x𝐖+yi
 x
 y
-a =Re(z^2)b =Im(z^2)c =z\overline{z} .
-a^2 +b^2 =c^2 .
-z =x +yi
-z =x +yi,
+a𝐖=Re(z^2𝐖)b𝐖=Im(z^2𝐖)c𝐖=z\overline{z}𝐖.
+a^2𝐖𝐖+b^2𝐖𝐖=c^2𝐖𝐖.
+z𝐖=x𝐖+yi
+z𝐖=x𝐖+yi,𝐖
 x
 y
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C^+,
-\mathscr S
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖^+𝐖,𝐖
+\mathscr𝐖S𝐖
 T
-\mathscr S
+\mathscr𝐖S𝐖
 T
 z
-z_a
-\mathbb C^+
+z_a𝐖
+\mathbb𝐖C𝐖^+𝐖
 T(z)
-T(z_a)
-\mathbb C^+ .
-\mathscr S
-\mathbb C^+
-\mathscr S .
-\mathbcal S
-R(z) =e^{i\theta} z
+T(z_a𝐖)
+\mathbb𝐖C𝐖^+𝐖𝐖.
+\mathscr𝐖S𝐖
+\mathbb𝐖C𝐖^+𝐖
+\mathscr𝐖S𝐖𝐖.
+\mathbcal𝐖S𝐖
+R(z)𝐖=e^{i\theta𝐖}𝐖z
 z
-z_a
-z =\infty
-0,
-z,
+z_a𝐖
+z𝐖=\infty𝐖
+0,𝐖
+z,𝐖
 R
-z \not= 0, \infty .
-z_a = -\frac{1}{\overline{z}} .
-\overline{R(z_a)} = -\frac{e^{ -i\theta}}{z},
-R(z) \cdot \overline{R(z_a)} = -e^{i\theta} z \cdot \frac{e^{ -i\theta}}{z} = -1 .
+z𝐖\not=𝐖0,𝐖\infty𝐖𝐖.
+z_a𝐖𝐖=𝐖-\frac{1}{\overline{z}}𝐖.
+\overline{R(z_a𝐖)}𝐖=𝐖-\frac{e^{𝐖-i\theta𝐖}𝐖}{z},𝐖
+R(z)𝐖\cdot𝐖\overline{R(z_a𝐖)}𝐖=𝐖-e^{i\theta𝐖}𝐖z𝐖\cdot𝐖\frac{e^{𝐖-i\theta𝐖}𝐖}{z}𝐖=𝐖-1𝐖.
 R(z)
-R(z_a)
-\mathscr S .
-\mathscr S
+R(z_a𝐖)
+\mathscr𝐖S𝐖𝐖.
+\mathscr𝐖S𝐖
 T
-\mathscr S,
+\mathscr𝐖S𝐖,𝐖
 z
 w
-T(z) \cdot \overline{T(w)} = -1 .
+T(z)𝐖\cdot𝐖\overline{T(w)}𝐖=𝐖-1𝐖.
 z
 w
-w = -\frac{1}{\overline{z}},
-T(z) \cdot \overline{T( -1/\overline{z})} = -1,
-(1) & T(z) & \lt mi/> =\frac{ -1}{\overline{T( -1/\overline{z})}} .
-T(z) =(az +b)/(cz +d),
-ad -bc =1 .
-\overline{T( -1/\overline{z})} & \lt mi/> =\overline{[\frac{ -a/\overline{z} +b}{ -c/\overline{z} +d}]} \\ \~ & \lt mi/> =\frac{ -\overline{a}/z +\overline{b}}{ -\overline{c}/z +\overline{d}} \\ \~ & \lt mi/> =\frac{\overline{b}z -\overline{a}}{\overline{d}z -\overline{c}} .
-\frac{az +b}{cz +d} =\frac{ -\overline{d}z +\overline{c}}{\overline{b}z -\overline{a}} .
-d = -\overline{a}
-c =\overline{b},
+w𝐖=𝐖-\frac{1}{\overline{z}},𝐖
+T(z)𝐖\cdot𝐖\overline{T(𝐖-1/\overline{z})}𝐖=𝐖-1,𝐖
+(1)𝐖&𝐖T(z)𝐖&𝐖\lt𝐖mi/>𝐖=\frac{𝐖-1}{\overline{T(𝐖-1/\overline{z})}}𝐖.
+T(z)𝐖=(az𝐖+b)/(cz𝐖+d),𝐖
+ad𝐖-bc𝐖=1𝐖.
+\overline{T(𝐖-1/\overline{z})}𝐖&𝐖\lt𝐖mi/>𝐖=\overline{[\frac{𝐖-a/\overline{z}𝐖+b}{𝐖-c/\overline{z}𝐖+d}]}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{𝐖-\overline{a}/z𝐖+\overline{b}}{𝐖-\overline{c}/z𝐖+\overline{d}}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{\overline{b}z𝐖-\overline{a}}{\overline{d}z𝐖-\overline{c}}𝐖.
+\frac{az𝐖+b}{cz𝐖+d}𝐖=\frac{𝐖-\overline{d}z𝐖+\overline{c}}{\overline{b}z𝐖-\overline{a}}𝐖.
+d𝐖=𝐖-\overline{a}
+c𝐖=\overline{b},𝐖
 T
-T(z) =\frac{az +b}{\overline{b}z -\overline{a}} .
-\mscrH .
--1/\overline{a},
-a \not= 0 .
-a =0,
-T(z) & \lt mi/> =\frac{ -\frac{a}{\overline{a}}z -\frac{b}{\overline{a}}}{ -\frac{\overline{b}}{\overline{a}}z +1} \\ \~ & \lt mi/> =\frac{ -\frac{a}{\overline{a}}(z +\frac{b}{a})}{ -\frac{\overline{b}}{\overline{a}}z +1} \\ \~ & \lt mi/> =e^{i\theta} \cdot \frac{z -z_0}{\overline{z}_0 z +1},
-e^{i\theta} = -a/\overline{a}
-z_0 = -b/a .
-\mathscr S .
-\mathbcal S
+T(z)𝐖=\frac{az𝐖+b}{\overline{b}z𝐖-\overline{a}}𝐖.
+\mscrH𝐖𝐖.
+𝐖-1/\overline{a},𝐖
+a𝐖\not=𝐖0𝐖.
+a𝐖=0,𝐖
+T(z)𝐖&𝐖\lt𝐖mi/>𝐖=\frac{𝐖-\frac{a}{\overline{a}}z𝐖-\frac{b}{\overline{a}}}{𝐖-\frac{\overline{b}}{\overline{a}}z𝐖+1}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{𝐖-\frac{a}{\overline{a}}(z𝐖+\frac{b}{a})}{𝐖-\frac{\overline{b}}{\overline{a}}z𝐖+1}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=e^{i\theta𝐖}𝐖𝐖\cdot𝐖\frac{z𝐖-z_0𝐖}{\overline{z}_0𝐖z𝐖+1},𝐖
+e^{i\theta𝐖}𝐖𝐖=𝐖-a/\overline{a}
+z_0𝐖𝐖=𝐖-b/a𝐖.
+\mathscr𝐖S𝐖𝐖.
+\mathbcal𝐖S𝐖
 T
-\mathscr S
-T(z) =e^{i\theta} \frac{z -z_0}{1 +\overline{z}_0 z}
-\theta
-z_0
-\mathbb C^+ .
-z_0 \in \mathbb C^+,
+\mathscr𝐖S𝐖
+T(z)𝐖=e^{i\theta𝐖}𝐖\frac{z𝐖-z_0𝐖}{1𝐖+\overline{z}_0𝐖z}
+\theta𝐖
+z_0𝐖
+\mathbb𝐖C𝐖^+𝐖𝐖.
+z_0𝐖𝐖\in𝐖\mathbb𝐖C𝐖^+𝐖,𝐖
 T
-\mathscr S
-T(z_0) =0,
-\mathscr S
-z_0
-z_1
-\mathbb C^+,
-\mathscr S
-z_0
-z_1
-\mathscr S .
-\mathbb C^+ .
-\mathscr S
-\mathscr S,
-\mathscr S
-\mathbb C^+,
-\mathscr S .
-\mathscr S
-\mscrH,
-\mscrH
-(transformation\space in\~\mscrH) & T(z) & \lt mi/> =e^{i\theta} \frac{z -z_0}{1 -\overline{z}_0 z} .
-\mathscr S
-\mscrH
-\mscrH
-z \cdot \overline{w} =1
-T(z) \cdot \overline{T(w)} =1 .
+\mathscr𝐖S𝐖
+T(z_0𝐖)𝐖=0,𝐖
+\mathscr𝐖S𝐖
+z_0𝐖
+z_1𝐖
+\mathbb𝐖C𝐖^+𝐖,𝐖
+\mathscr𝐖S𝐖
+z_0𝐖
+z_1𝐖
+\mathscr𝐖S𝐖𝐖.
+\mathbb𝐖C𝐖^+𝐖𝐖.
+\mathscr𝐖S𝐖
+\mathscr𝐖S𝐖,𝐖
+\mathscr𝐖S𝐖
+\mathbb𝐖C𝐖^+𝐖,𝐖
+\mathscr𝐖S𝐖𝐖.
+\mathscr𝐖S𝐖
+\mscrH𝐖,𝐖
+\mscrH𝐖
+(transformation\space𝐖in\~\mscrH𝐖)𝐖&𝐖T(z)𝐖&𝐖\lt𝐖mi/>𝐖=e^{i\theta𝐖}𝐖\frac{z𝐖-z_0𝐖}{1𝐖-\overline{z}_0𝐖z}𝐖.
+\mathscr𝐖S𝐖
+\mscrH𝐖
+\mscrH𝐖
+z𝐖\cdot𝐖\overline{w}𝐖=1
+T(z)𝐖\cdot𝐖\overline{T(w)}𝐖=1𝐖.
 T
-+1
-\mathbb C^+ .
-\mathbb C^+ .
-(\mathbb C^+, \mathscr S)
-\mathbb C^+
-(\mathbb C^+, \mathscr S) .
-\mathbb C^+
-\infty,
-\mathbb C^+
-2 +i
--\frac{2}{5} -\frac{i}{5} .
-\mathbb C^+
+𝐖+1
+\mathbb𝐖C𝐖^+𝐖𝐖.
+\mathbb𝐖C𝐖^+𝐖𝐖.
+(\mathbb𝐖C𝐖^+𝐖,𝐖\mathscr𝐖S𝐖)
+\mathbb𝐖C𝐖^+𝐖
+(\mathbb𝐖C𝐖^+𝐖,𝐖\mathscr𝐖S𝐖)𝐖.
+\mathbb𝐖C𝐖^+𝐖
+\infty𝐖,𝐖
+\mathbb𝐖C𝐖^+𝐖
+2𝐖+i
+𝐖-\frac{2}{5}𝐖-\frac{i}{5}𝐖.
+\mathbb𝐖C𝐖^+𝐖
 z
-| z| \le 1 .
+|𝐖z|𝐖\le𝐖1𝐖.
 w
-w_a
+w_a𝐖
 w
-(| w| =1),
-w_a
-\mathbb P^2,
+(|𝐖w|𝐖=1),𝐖
+w_a𝐖
+\mathbb𝐖P𝐖^2𝐖,𝐖
 z
-| z| \le 1
+|𝐖z|𝐖\le𝐖1
 p
 q
 p
-c,
-c_a .
+c,𝐖
+c_a𝐖𝐖.
 d
-d_a
-q,
+d_a𝐖
+q,𝐖
 p
 q
-\mathbb P^2 .
-(\mathbb P^2, \mathscr S),
-\mathbb P^2
-\mathscr S
-\mathscr S
-(\mathbb P^2, \mathscr S)
-\mathbb C^+
+\mathbb𝐖P𝐖^2𝐖𝐖.
+(\mathbb𝐖P𝐖^2𝐖,𝐖\mathscr𝐖S𝐖),𝐖
+\mathbb𝐖P𝐖^2𝐖
+\mathscr𝐖S𝐖
+\mathscr𝐖S𝐖
+(\mathbb𝐖P𝐖^2𝐖,𝐖\mathscr𝐖S𝐖)
+\mathbb𝐖C𝐖^+𝐖
 p
 q
-\mathbb P^2 .
-\mathbb P^2 .
+\mathbb𝐖P𝐖^2𝐖𝐖.
+\mathbb𝐖P𝐖^2𝐖𝐖.
 p
-\mathbb P^2
-L,
+\mathbb𝐖P𝐖^2𝐖
+L,𝐖
 p
-L .
-\mathscr S
-\theta \in \mathbb R
-z_0 \in \mathbb C,
-\mathscr S \colon
-T(z) =e^{i\theta} \frac{z -z_0}{1 +\overline{z_0}z} .
-\theta \in \mathbb R,
-T(z) =e^{i\theta} \frac{1}{z}
-\mathscr S .
-p, q \in \mathbb C^+
-\mathscr S
+L𝐖.
+\mathscr𝐖S𝐖
+\theta𝐖𝐖\in𝐖\mathbb𝐖R𝐖
+z_0𝐖𝐖\in𝐖\mathbb𝐖C𝐖,𝐖
+\mathscr𝐖S𝐖𝐖\colon𝐖
+T(z)𝐖=e^{i\theta𝐖}𝐖\frac{z𝐖-z_0𝐖}{1𝐖+\overline{z_0𝐖}z}𝐖.
+\theta𝐖𝐖\in𝐖\mathbb𝐖R𝐖,𝐖
+T(z)𝐖=e^{i\theta𝐖}𝐖\frac{1}{z}
+\mathscr𝐖S𝐖𝐖.
+p,𝐖q𝐖\in𝐖\mathbb𝐖C𝐖^+𝐖
+\mathscr𝐖S𝐖
 p
 q
 z
-L,
+L,𝐖
 z
 L
-\mathscr S
-\mathbb P^2 ?
-\mathscr S
+\mathscr𝐖S𝐖
+\mathbb𝐖P𝐖^2𝐖𝐖?
+\mathscr𝐖S𝐖
 \frac{1}{2}
-\frac{1}{2} +\frac{1}{2}i .
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbit k >\mathbf 0
-k >0,
-k .
+\frac{1}{2}𝐖+\frac{1}{2}i𝐖.
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbit𝐖k𝐖𝐖>\mathbf𝐖0𝐖
+k𝐖>0,𝐖
+k𝐖.
 1/\sqrt{k}
-k >0 .
-\mathbb S_k^2
-\mathbb R^3
-1/\sqrt{k} .
-\phi_k \colon \mathbb S_k^2 \to \mathbb C^+,
-\phi_k (a, b, c) =\{\frac{a}{1 -c\sqrt{k}} +\frac{b}{1 -c\sqrt{k}}i & \~if\~c \not= \frac{1}{\sqrt{k}};\~ \\ \infty & \~if\~c =\frac{1}{\sqrt{k}} \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/> .
-\mathbb S_k^2
-\phi_k
+k𝐖>0𝐖.
+\mathbb𝐖S𝐖_k^2𝐖
+\mathbb𝐖R𝐖^3𝐖
+1/\sqrt{k}𝐖.
+\phi𝐖_k𝐖𝐖\colon𝐖\mathbb𝐖S𝐖_k^2𝐖𝐖\to𝐖\mathbb𝐖C𝐖^+𝐖,𝐖
+\phi𝐖_k𝐖(a,𝐖b,𝐖c)𝐖=\{\frac{a}{1𝐖-c\sqrt{k}}𝐖+\frac{b}{1𝐖-c\sqrt{k}}i𝐖&𝐖\~if\~c𝐖\not=𝐖\frac{1}{\sqrt{k}};\~𝐖\\𝐖\infty𝐖𝐖&𝐖\~if\~c𝐖=\frac{1}{\sqrt{k}}𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>𝐖.
+\mathbb𝐖S𝐖_k^2𝐖
+\phi𝐖_k𝐖
 z
-z_a
-z_a =\frac{ -1}{k\overline{z}},
-\mathbb C^+
-\mathbb S_k^2,
+z_a𝐖
+z_a𝐖𝐖=\frac{𝐖-1}{k\overline{z}},𝐖
+\mathbb𝐖C𝐖^+𝐖
+\mathbb𝐖S𝐖_k^2𝐖,𝐖
 k
 k
-\mathbb P_k^2
-\mathbb C
-1/\sqrt{k},
-\mathscr S_k,
-\mathbb S_k^2 .
-T \in \mathscr S_k
-if\~z_a = -\frac{1}{k\overline{z}}then\~T(z_a) = -\frac{1}{k\overline{T(z)}} .
-(\mathbb P_k^2, \mathscr S_k)
-k >0
-\mathbit k
-(\mathbb P_1^2, \mathscr S_1)
-\mathbb C^+
-\mathscr S_k
-\mathbb S_k^2 .
-\mathscr S_k
-T(z) =e^{i\theta} \frac{z -z_0}{1 +k\overline{z_0}z} .
+\mathbb𝐖P𝐖_k^2𝐖
+\mathbb𝐖C𝐖
+1/\sqrt{k},𝐖
+\mathscr𝐖S𝐖_k𝐖,𝐖
+\mathbb𝐖S𝐖_k^2𝐖𝐖.
+T𝐖\in𝐖\mathscr𝐖S𝐖_k𝐖
+if\~z_a𝐖𝐖=𝐖-\frac{1}{k\overline{z}}then\~T(z_a𝐖)𝐖=𝐖-\frac{1}{k\overline{T(z)}}𝐖.
+(\mathbb𝐖P𝐖_k^2𝐖,𝐖\mathscr𝐖S𝐖_k𝐖)
+k𝐖>0
+\mathbit𝐖k𝐖
+(\mathbb𝐖P𝐖_1^2𝐖,𝐖\mathscr𝐖S𝐖_1𝐖)
+\mathbb𝐖C𝐖^+𝐖
+\mathscr𝐖S𝐖_k𝐖
+\mathbb𝐖S𝐖_k^2𝐖𝐖.
+\mathscr𝐖S𝐖_k𝐖
+T(z)𝐖=e^{i\theta𝐖}𝐖\frac{z𝐖-z_0𝐖}{1𝐖+k\overline{z_0𝐖}z}𝐖.
 k
 z
-z_a = -\frac{1}{k\overline{z}} .
-\mathbb S_k^2 .
-\mathbit r
-\mathbb P_k^2
-\mathcal L (\mathbit r) =\int_a^b \frac{2| \mathbit r '(t)|}{1 +k|\mathbit r (t)|^2}dt .
-(\mathbb P_k^2, \mathscr S_k)
-\pi /(2\sqrt{k}) .
+z_a𝐖𝐖=𝐖-\frac{1}{k\overline{z}}𝐖.
+\mathbb𝐖S𝐖_k^2𝐖𝐖.
+\mathbit𝐖r𝐖
+\mathbb𝐖P𝐖_k^2𝐖
+\mathcal𝐖L𝐖(\mathbit𝐖r𝐖)𝐖=\int𝐖_a^b𝐖\frac{2|𝐖\mathbit𝐖r𝐖'(t)|}{1𝐖+k|\mathbit𝐖r𝐖(t)|𝐖^2𝐖}dt𝐖.
+(\mathbb𝐖P𝐖_k^2𝐖,𝐖\mathscr𝐖S𝐖_k𝐖)
+\pi𝐖/(2\sqrt{k})𝐖.
 R
-A(R) =\iint_R \frac{4r}{(1 +kr^2)^2}drd\theta .
-(\mathbb P_k^2, \mathscr S_k) .
-k >0 .
-(\mathbb P_k^2, \mathscr S_k)
-\alpha
-2\alpha /k .
-\pi
-1/\sqrt{k} .
-\mathbb P_k^2
-2\pi /k,
-1/\sqrt{k} .
-s =1/\sqrt{k}
-\int \frac{4r}{(1 +kr^2)^2}dr =\frac{ -2}{k(1 +kr^2)} +C .
-k,
-\alpha, \beta,
-\gamma
-A =\frac{1}{k}(\alpha +\beta +\gamma -\pi) .
-(\mathbb P_k^2, \mathscr S_k)
-k =1/6375^2 km^{ -2} .
-\alpha, \beta,
-\gamma
-A =\frac{1}{k}(\alpha +\beta +\gamma -\pi) .
-k >0,
-\mathscr S_k
-T(z) =e^{i\theta} \frac{z -z_0}{1 +k\overline{z_0}z},
-\theta
-z_0
-\mathbb P_k^2 .
-\phi_k .
-k >0
-s =1/\sqrt{k} .
-(\mathbb P_k^2, \mathscr S_k) .
+A(R)𝐖=\iint𝐖_R𝐖\frac{4r}{(1𝐖+kr^2𝐖)^2𝐖}drd\theta𝐖𝐖.
+(\mathbb𝐖P𝐖_k^2𝐖,𝐖\mathscr𝐖S𝐖_k𝐖)𝐖.
+k𝐖>0𝐖.
+(\mathbb𝐖P𝐖_k^2𝐖,𝐖\mathscr𝐖S𝐖_k𝐖)
+\alpha𝐖
+2\alpha𝐖/k𝐖.
+\pi𝐖
+1/\sqrt{k}𝐖.
+\mathbb𝐖P𝐖_k^2𝐖
+2\pi𝐖/k,𝐖
+1/\sqrt{k}𝐖.
+s𝐖=1/\sqrt{k}
+𝐖\int𝐖\frac{4r}{(1𝐖+kr^2𝐖)^2𝐖}dr𝐖=\frac{𝐖-2}{k(1𝐖+kr^2𝐖)}𝐖+C𝐖.
+k,𝐖
+\alpha𝐖,𝐖\beta𝐖,𝐖
+\gamma𝐖
+A𝐖=\frac{1}{k}(\alpha𝐖𝐖+\beta𝐖𝐖+\gamma𝐖𝐖-\pi𝐖)𝐖.
+(\mathbb𝐖P𝐖_k^2𝐖,𝐖\mathscr𝐖S𝐖_k𝐖)
+k𝐖=1/6375^2𝐖km^{𝐖-2}𝐖𝐖.
+\alpha𝐖,𝐖\beta𝐖,𝐖
+\gamma𝐖
+A𝐖=\frac{1}{k}(\alpha𝐖𝐖+\beta𝐖𝐖+\gamma𝐖𝐖-\pi𝐖)𝐖.
+k𝐖>0,𝐖
+\mathscr𝐖S𝐖_k𝐖
+T(z)𝐖=e^{i\theta𝐖}𝐖\frac{z𝐖-z_0𝐖}{1𝐖+k\overline{z_0𝐖}z},𝐖
+\theta𝐖
+z_0𝐖
+\mathbb𝐖P𝐖_k^2𝐖𝐖.
+\phi𝐖_k𝐖𝐖.
+k𝐖>0
+s𝐖=1/\sqrt{k}𝐖.
+(\mathbb𝐖P𝐖_k^2𝐖,𝐖\mathscr𝐖S𝐖_k𝐖)𝐖.
 0
-x,
-0 \lt x \le s
-d_k (0, x) =2s\arctan (x/s) .
-r \lt \pi /(2\sqrt{k})
-C =2\pi s\sin (r/s) .
-r \lt \pi /(2\sqrt{k})
-A =4\pi s^2 \sin^2 (\frac{r}{2s}) .
-k \to 0^+ .
-d_k (0, x)
+x,𝐖
+0𝐖\lt𝐖x𝐖\le𝐖s
+d_k𝐖(0,𝐖x)𝐖=2s\arctan𝐖(x/s)𝐖.
+r𝐖\lt𝐖\pi𝐖/(2\sqrt{k})
+C𝐖=2\pi𝐖s\sin𝐖(r/s)𝐖.
+r𝐖\lt𝐖\pi𝐖/(2\sqrt{k})
+A𝐖=4\pi𝐖s^2𝐖\sin𝐖^2𝐖(\frac{r}{2s})𝐖.
+k𝐖\to𝐖0^+𝐖𝐖.
+d_k𝐖(0,𝐖x)
 0
-x,
-0 \lt x \le s,
+x,𝐖
+0𝐖\lt𝐖x𝐖\le𝐖s,𝐖
 2x
-k \to 0^+
+k𝐖\to𝐖0^+𝐖
 r
-2\pi r
-k \to 0^+ .
-\pi r^2
-k \to 0^+ .
-(\mathbb P_k^2, \mathscr S_k) .
-(\mathbb P_k^2, \mathscr S_k)
-a, b, c
-\alpha, \beta, \gamma
-(\mathbb P_k^2, \mathscr S_k) \colon
-\cos (\sqrt{k}c) =\cos (\sqrt{k}a)\cos (\sqrt{k}b) +\sin (\sqrt{k}a)\sin (\sqrt{k}b)\cos (\gamma) .
-(\mathbb P_k^2, \mathscr S_k) \colon
-\frac{\sin (\sqrt{k}a)}{\sin (\alpha)} =\frac{\sin (\sqrt{k}b)}{\sin (\beta)} =\frac{\sin (\sqrt{k}c)}{\sin (\gamma)} .
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-(\mathbb C^+, \mscrM),
-\mscrM
-\mscrM
-\mathbb C^+,
-T(z) =z,
-T(z) =(az +b)/(cz +d),
-a =d =1,
-b =c =0),
-\mscrM
-\mscrM
+2\pi𝐖r
+k𝐖\to𝐖0^+𝐖𝐖.
+\pi𝐖r^2𝐖
+k𝐖\to𝐖0^+𝐖𝐖.
+(\mathbb𝐖P𝐖_k^2𝐖,𝐖\mathscr𝐖S𝐖_k𝐖)𝐖.
+(\mathbb𝐖P𝐖_k^2𝐖,𝐖\mathscr𝐖S𝐖_k𝐖)
+a,𝐖b,𝐖c
+\alpha𝐖,𝐖\beta𝐖,𝐖\gamma𝐖
+(\mathbb𝐖P𝐖_k^2𝐖,𝐖\mathscr𝐖S𝐖_k𝐖)𝐖\colon𝐖
+\cos𝐖(\sqrt{k}c)𝐖=\cos𝐖(\sqrt{k}a)\cos𝐖(\sqrt{k}b)𝐖+\sin𝐖(\sqrt{k}a)\sin𝐖(\sqrt{k}b)\cos𝐖(\gamma𝐖)𝐖.
+(\mathbb𝐖P𝐖_k^2𝐖,𝐖\mathscr𝐖S𝐖_k𝐖)𝐖\colon𝐖
+\frac{\sin𝐖(\sqrt{k}a)}{\sin𝐖(\alpha𝐖)}𝐖=\frac{\sin𝐖(\sqrt{k}b)}{\sin𝐖(\beta𝐖)}𝐖=\frac{\sin𝐖(\sqrt{k}c)}{\sin𝐖(\gamma𝐖)}𝐖.
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+(\mathbb𝐖C𝐖^+𝐖,𝐖\mscrM𝐖),𝐖
+\mscrM𝐖
+\mscrM𝐖
+\mathbb𝐖C𝐖^+𝐖,𝐖
+T(z)𝐖=z,𝐖
+T(z)𝐖=(az𝐖+b)/(cz𝐖+d),𝐖
+a𝐖=d𝐖=1,𝐖
+b𝐖=c𝐖=0),𝐖
+\mscrM𝐖
+\mscrM𝐖
 T
-\mscrM
+\mscrM𝐖
 T
-T(z) =1/z .
-p =2
-q =3
-d(p, q) =| p -q| =1 .
-T(p) =1/2
-T(q) =1/3
-(\mathbb C^+, \mscrM) .
-(\mathbb C^+, \mscrM)
+T(z)𝐖=1/z𝐖.
+p𝐖=2
+q𝐖=3
+d(p,𝐖q)𝐖=|𝐖p𝐖-q|𝐖=1𝐖.
+T(p)𝐖=1/2
+T(q)𝐖=1/3
+(\mathbb𝐖C𝐖^+𝐖,𝐖\mscrM𝐖)𝐖.
+(\mathbb𝐖C𝐖^+𝐖,𝐖\mscrM𝐖)
 i
 p
 q
-\mathbb C^+ .
+\mathbb𝐖C𝐖^+𝐖𝐖.
 G
 p
-q .
-(\mathbb C^+, G) .
+q𝐖.
+(\mathbb𝐖C𝐖^+𝐖,𝐖G)𝐖.
 G
-(\mathbb C^+, G)
+(\mathbb𝐖C𝐖^+𝐖,𝐖G)
 p
-q .
-(\mathbb C^+, G)
-pq .
-z \not= p, q
-\mathbb C^+,
-\mathbb C^+
-z .
-(\mathbb C^+, G)
+q𝐖.
+(\mathbb𝐖C𝐖^+𝐖,𝐖G)
+pq𝐖.
+z𝐖\not=𝐖p,𝐖q
+\mathbb𝐖C𝐖^+𝐖,𝐖
+\mathbb𝐖C𝐖^+𝐖
+z𝐖.
+(\mathbb𝐖C𝐖^+𝐖,𝐖G)
 G
 p
-q .
-(\mathbb C^+, \mscrM) ?
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
+q𝐖.
+(\mathbb𝐖C𝐖^+𝐖,𝐖\mscrM𝐖)𝐖?
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
 R
-\mathbb D
+\mathbb𝐖D𝐖
 R
-(\mathbb D, \mscrH),
-A(R),
-A(R) =\iint_R \frac{4r}{(1 -r^2)^2}drd\theta .
-(\mathbb D, \mathbcal H)
-a .
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖),𝐖
+A(R),𝐖
+A(R)𝐖=\iint𝐖_R𝐖\frac{4r}{(1𝐖-r^2𝐖)^2𝐖}drd\theta𝐖𝐖.
+(\mathbb𝐖D𝐖,𝐖\mathbcal𝐖H𝐖)
+a𝐖.
 x
-0 \lt x \lt 1
-a =\ln (\frac{1 +x}{1 -x}) .
-x,
-x =\frac{e^a -1}{e^a +1} .
-0 \le \theta \le 2\pi
-0 \le r \le x .
+0𝐖\lt𝐖x𝐖\lt𝐖1
+a𝐖=\ln𝐖(\frac{1𝐖+x}{1𝐖-x})𝐖.
+x,𝐖
+x𝐖=\frac{e^a𝐖𝐖-1}{e^a𝐖𝐖+1}𝐖.
+0𝐖\le𝐖\theta𝐖𝐖\le𝐖2\pi𝐖
+0𝐖\le𝐖r𝐖\le𝐖x𝐖.
 u
-u =1 -r^2 \colon
-\~ & \lt mi/>\int_0^{2\pi} \int_0^x \frac{4r}{(1 -r^2)^2}drd\theta \\ \~ & \lt mi/> =(\int_0^{2\pi} d\theta)(\int_1^{1 -x^2} \frac{ -2}{u^2}du) \\ \~ & \lt mi/> =2\pi [\frac{2}{u}|_1^{1 -x^2}] \\ \~ & \lt mi/> =2\pi [\frac{2}{1 -x^2} -2] \\ \~ & \lt mi/> =4\pi \frac{x^2}{1 -x^2} .
+u𝐖=1𝐖-r^2𝐖𝐖\colon𝐖
+\~𝐖&𝐖\lt𝐖mi/>\int𝐖_0^{2\pi𝐖}𝐖\int𝐖_0^x𝐖\frac{4r}{(1𝐖-r^2𝐖)^2𝐖}drd\theta𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=(\int𝐖_0^{2\pi𝐖}𝐖d\theta𝐖)(\int𝐖_1^{1𝐖-x^2𝐖}𝐖\frac{𝐖-2}{u^2𝐖}du)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=2\pi𝐖[\frac{2}{u}|_1^{1𝐖-x^2𝐖}𝐖]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=2\pi𝐖[\frac{2}{1𝐖-x^2𝐖}𝐖-2]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=4\pi𝐖\frac{x^2𝐖}{1𝐖-x^2𝐖}𝐖.
 x
 a
-4\pi \frac{(e^a -1)^2}{(e^a +1)^2} \cdot \frac{(e^a +1)^2}{(e^a +1)^2 -(e^a -1)^2} & \lt mi/> =4\pi \frac{(e^a -1)^2}{4e^a} \\ \~ & \lt mi/> =4\pi (\frac{e^a -1}{2e^{a/2}})^2 \\ \~ & \lt mi/> =4\pi (\frac{e^{a/2} -e^{ -a/2}}{2})^2 .
-a/2 .
-\sinh (x),
-\cosh (x),
-\sinh (x) =\frac{e^x -e^{ -x}}{2}\~and\~\cosh (x) =\frac{e^x +e^{ -x}}{2} .
+4\pi𝐖\frac{(e^a𝐖𝐖-1)^2𝐖}{(e^a𝐖𝐖+1)^2𝐖}𝐖\cdot𝐖\frac{(e^a𝐖𝐖+1)^2𝐖}{(e^a𝐖𝐖+1)^2𝐖𝐖-(e^a𝐖𝐖-1)^2𝐖}𝐖&𝐖\lt𝐖mi/>𝐖=4\pi𝐖\frac{(e^a𝐖𝐖-1)^2𝐖}{4e^a𝐖}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=4\pi𝐖(\frac{e^a𝐖𝐖-1}{2e^{a/2}𝐖})^2𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=4\pi𝐖(\frac{e^{a/2}𝐖𝐖-e^{𝐖-a/2}𝐖}{2})^2𝐖𝐖.
+a/2𝐖.
+\sinh𝐖(x),𝐖
+\cosh𝐖(x),𝐖
+\sinh𝐖(x)𝐖=\frac{e^x𝐖𝐖-e^{𝐖-x}𝐖}{2}\~and\~\cosh𝐖(x)𝐖=\frac{e^x𝐖𝐖+e^{𝐖-x}𝐖}{2}𝐖.
 r
-4\pi \sinh^2 (r/2) .
-\frac{\mathbf 2}{\mathbf 3}
+4\pi𝐖\sinh𝐖^2𝐖(r/2)𝐖.
+\frac{\mathbf𝐖2𝐖}{\mathbf𝐖3𝐖}
 \frac{2}{3}
-\alpha
-\pi -\alpha .
+\alpha𝐖
+\pi𝐖𝐖-\alpha𝐖𝐖.
 \frac{2}{3}
-\alpha
-\pi -\alpha .
-(\mathbb D, \mscrH) .
-\pi .
-\pi
-(\mathbb D, \mscrH) .
-(\mathbb D, \mscrH)
-\pi,
-(\mathbb D, \mscrH)
-\alpha, \beta,
-\gamma
-A =\pi -(\alpha +\beta +\gamma) .
-\mathbb D
-\alpha,
-\beta,
-\gamma
-a,
-b,
-c,
-\cosh (c) =\cosh (a)\cosh (b) -\sinh (a)\sinh (b)\cos (\gamma) .
-\cosh (c) =\frac{\cos (\alpha)\cos (\beta) +\cos (\gamma)}{\sin (\alpha)\sin (\beta)} .
-\frac{\sinh (a)}{\sin (\alpha)} =\frac{\sinh (b)}{\sin (\beta)} =\frac{\sinh (c)}{\sin (\gamma)} .
+\alpha𝐖
+\pi𝐖𝐖-\alpha𝐖𝐖.
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)𝐖.
+\pi𝐖𝐖.
+\pi𝐖
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)𝐖.
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
+\pi𝐖,𝐖
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
+\alpha𝐖,𝐖\beta𝐖,𝐖
+\gamma𝐖
+A𝐖=\pi𝐖𝐖-(\alpha𝐖𝐖+\beta𝐖𝐖+\gamma𝐖)𝐖.
+\mathbb𝐖D𝐖
+\alpha𝐖,𝐖
+\beta𝐖,𝐖
+\gamma𝐖
+a,𝐖
+b,𝐖
+c,𝐖
+\cosh𝐖(c)𝐖=\cosh𝐖(a)\cosh𝐖(b)𝐖-\sinh𝐖(a)\sinh𝐖(b)\cos𝐖(\gamma𝐖)𝐖.
+\cosh𝐖(c)𝐖=\frac{\cos𝐖(\alpha𝐖)\cos𝐖(\beta𝐖)𝐖+\cos𝐖(\gamma𝐖)}{\sin𝐖(\alpha𝐖)\sin𝐖(\beta𝐖)}𝐖.
+\frac{\sinh𝐖(a)}{\sin𝐖(\alpha𝐖)}𝐖=\frac{\sinh𝐖(b)}{\sin𝐖(\beta𝐖)}𝐖=\frac{\sinh𝐖(c)}{\sin𝐖(\gamma𝐖)}𝐖.
 a
-b,
-c,
-\cosh (c) =\cosh (a)\cosh (b) .
-z,
+b,𝐖
+c,𝐖
+\cosh𝐖(c)𝐖=\cosh𝐖(a)\cosh𝐖(b)𝐖.
+z,𝐖
 c
 w
 z
 L
 w
-zw .
-\Delta zwu
+zw𝐖.
+\Delta𝐖zwu
 \frac{1}{3}
-\gamma =0
-\beta =\pi /2
+\gamma𝐖𝐖=0
+\beta𝐖𝐖=\pi𝐖/2
 z
 w
-\mathbb D,
+\mathbb𝐖D𝐖,𝐖
 L
 w
-zw .
+zw𝐖.
 u
-L .
-\alpha = \angle wzu
-c =d_H (z, w) .
-\cosh (c) =\frac{1}{\sin (\alpha)} .
-(\mathbb D, \mathbcal H)
-\mathbb D .
+L𝐖.
+\alpha𝐖𝐖=𝐖\angle𝐖wzu
+c𝐖=d_H𝐖(z,𝐖w)𝐖.
+\cosh𝐖(c)𝐖=\frac{1}{\sin𝐖(\alpha𝐖)}𝐖.
+(\mathbb𝐖D𝐖,𝐖\mathbcal𝐖H𝐖)
+\mathbb𝐖D𝐖𝐖.
 p
-q,
+q,𝐖
 q
 p
-L,
-\lt mi/>\circ,
-\Delta zuw
-130\circ,
-\Delta pqr
+L,𝐖
+\lt𝐖mi/>\circ,𝐖
+\Delta𝐖zuw
+130\circ,𝐖
+\Delta𝐖pqr
 22\circ!
-(\mathbb D, \mscrH) .
-\pi .
-2\pi
-\pi,
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)𝐖.
+\pi𝐖𝐖.
+2\pi𝐖
+\pi𝐖,𝐖
 p
 a
 90\circ
@@ -2890,2501 +2890,2501 @@ a
 a
 q
 q
-p,
-(\mathbb D, \mscrH)
+p,𝐖
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
 p
 q
 p
 q
-a .
-0 \lt a \lt 1
-L_1
+a𝐖.
+0𝐖\lt𝐖a𝐖\lt𝐖1
+L_1𝐖
 a
-L_2
--a
+L_2𝐖
+𝐖-a
 z
-L_1
-C_1
-z, 1
--1 .
-C_2
-\overline{z}, 1
--1 .
+L_1𝐖
+C_1𝐖
+z,𝐖1
+𝐖-1𝐖.
+C_2𝐖
+\overline{z},𝐖1
+𝐖-1𝐖.
 z
 a
-C_1
-C_2
-\mathbb D \colon
-(a, b, c)
-a,
-b,
-c .
-(a, b, c)
-(\mathbb D, \mscrH)
-a, b,
-c .
-a, b,
+C_1𝐖
+C_2𝐖
+\mathbb𝐖D𝐖𝐖\colon𝐖
+(a,𝐖b,𝐖c)
+a,𝐖
+b,𝐖
+c𝐖.
+(a,𝐖b,𝐖c)
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
+a,𝐖b,𝐖
+c𝐖.
+a,𝐖b,𝐖
 c
-2\ln (\varphi)
-\varphi
-(1 +\sqrt{5})/2 .
-i .
-L_1
+2\ln𝐖(\varphi𝐖)
+\varphi𝐖
+(1𝐖+\sqrt{5})/2𝐖.
+i𝐖.
+L_1𝐖
 i
-C_1
--1 +i .
-L_2
+C_1𝐖
+𝐖-1𝐖+i𝐖.
+L_2𝐖
 i
-C_2
-1 +i .
+C_2𝐖
+1𝐖+i𝐖.
 C
--1 +2i,
+𝐖-1𝐖+2i,𝐖
 C
-\mathbb D
-L_1
-C_1,
-C,
-L_1
-L_2 .
+\mathbb𝐖D𝐖
+L_1𝐖
+C_1𝐖,𝐖
+C,𝐖
+L_1𝐖
+L_2𝐖𝐖.
 c
 c
-L_1
-L_2
+L_1𝐖
+L_2𝐖
 p
-q,
+q,𝐖
 q
 C
-C_2 .
-q =\frac{1}{5} +\frac{2}{5}i .
-d_H (0, q) & \lt mi/> =\ln (\frac{1 +| q|}{1 -| q|}) \\ \~ & \lt mi/> =\ln (\frac{1 +\frac{1}{\sqrt{5}}}{1 -\frac{1}{\sqrt{5}}}) \\ \~ & \lt mi/> =\ln (\frac{\sqrt{5} +1}{\sqrt{5} -1}) \\ \~ & \lt mi/> =\ln (\frac{(\sqrt{5} +1)^2}{(\sqrt{5} -1)(\sqrt{5} +1)}) \\ \~ & \lt mi/> =\ln (\frac{(\sqrt{5} +1)^2}{4}) \\ \~ & \lt mi/> =\ln (\varphi^2) \\ \~ & \lt mi/> =2\ln (\varphi) .
-\sinh (x) =(e^x -e^{ -x})/2
-\cosh (x) =(e^x +e^{ -x})/2
-\sinh (0) =0
-\cosh (0) =1 .
-\frac{d}{dx}[\sinh (x)] =\cosh (x)
-\frac{d}{dx}[\cosh (x)] =\sinh (x) .
-\cosh^2 (x) -\sinh^2 (x) =1 .
-\cosh (x)
-\sinh (x)
-\cosh (x) & \lt mi/> =1 +\frac{x^2}{2} +\frac{x^4}{4!} +\cdots \\ \sinh (x) & \lt mi/> =x +\frac{x^3}{3!} +\frac{x^5}{5!} +\cdots .
+C_2𝐖𝐖.
+q𝐖=\frac{1}{5}𝐖+\frac{2}{5}i𝐖.
+d_H𝐖(0,𝐖q)𝐖&𝐖\lt𝐖mi/>𝐖=\ln𝐖(\frac{1𝐖+|𝐖q|}{1𝐖-|𝐖q|})𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\ln𝐖(\frac{1𝐖+\frac{1}{\sqrt{5}}}{1𝐖-\frac{1}{\sqrt{5}}})𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\ln𝐖(\frac{\sqrt{5}𝐖+1}{\sqrt{5}𝐖-1})𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\ln𝐖(\frac{(\sqrt{5}𝐖+1)^2𝐖}{(\sqrt{5}𝐖-1)(\sqrt{5}𝐖+1)})𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\ln𝐖(\frac{(\sqrt{5}𝐖+1)^2𝐖}{4})𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\ln𝐖(\varphi𝐖^2𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=2\ln𝐖(\varphi𝐖)𝐖.
+\sinh𝐖(x)𝐖=(e^x𝐖𝐖-e^{𝐖-x}𝐖)/2
+\cosh𝐖(x)𝐖=(e^x𝐖𝐖+e^{𝐖-x}𝐖)/2
+\sinh𝐖(0)𝐖=0
+\cosh𝐖(0)𝐖=1𝐖.
+\frac{d}{dx}[\sinh𝐖(x)]𝐖=\cosh𝐖(x)
+\frac{d}{dx}[\cosh𝐖(x)]𝐖=\sinh𝐖(x)𝐖.
+\cosh𝐖^2𝐖(x)𝐖-\sinh𝐖^2𝐖(x)𝐖=1𝐖.
+\cosh𝐖(x)
+\sinh𝐖(x)
+\cosh𝐖(x)𝐖&𝐖\lt𝐖mi/>𝐖=1𝐖+\frac{x^2𝐖}{2}𝐖+\frac{x^4𝐖}{4!}𝐖+\cdots𝐖𝐖\\𝐖\sinh𝐖(x)𝐖&𝐖\lt𝐖mi/>𝐖=x𝐖+\frac{x^3𝐖}{3!}𝐖+\frac{x^5𝐖}{5!}𝐖+\cdots𝐖𝐖.
 r
-C =2\pi \sinh (r) .
-\lim_{r \to 0^+} \frac{4\pi \sinh^2 (r/2)}{\pi r^2} =1 .
-r,
-\lim_{r \to 0^+} \frac{2\pi \sinh (r)}{2\pi r} =1 .
-r,
-12\circ,
-32\circ,
-17\circ .
-\mathbb D
-\frac{1}{2},
-\frac{1}{2} +\frac{1}{2}i .
-90\circ,
-z,
+C𝐖=2\pi𝐖\sinh𝐖(r)𝐖.
+\lim𝐖_{r𝐖\to𝐖0^+𝐖}𝐖\frac{4\pi𝐖\sinh𝐖^2𝐖(r/2)}{\pi𝐖r^2𝐖}𝐖=1𝐖.
+r,𝐖
+\lim𝐖_{r𝐖\to𝐖0^+𝐖}𝐖\frac{2\pi𝐖\sinh𝐖(r)}{2\pi𝐖r}𝐖=1𝐖.
+r,𝐖
+12\circ,𝐖
+32\circ,𝐖
+17\circ𝐖.
+\mathbb𝐖D𝐖
+\frac{1}{2},𝐖
+\frac{1}{2}𝐖+\frac{1}{2}i𝐖.
+90\circ,𝐖
+z,𝐖
 n
 n
 n
-\alpha_1, \alpha_2, \cdots, \alpha_n .
+\alpha𝐖_1𝐖,𝐖\alpha𝐖_2𝐖,𝐖\cdots𝐖,𝐖\alpha𝐖_n𝐖𝐖.
 n
 45\circ
 r
-0 \lt r \lt 1 .
-v_k =re^{i\frac{\pi}{4}k}
-k =0, 1, \cdots, 7
-v_0
-r .
-r .
+0𝐖\lt𝐖r𝐖\lt𝐖1𝐖.
+v_k𝐖𝐖=re^{i\frac{\pi𝐖}{4}k}𝐖
+k𝐖=0,𝐖1,𝐖\cdots𝐖,𝐖7
+v_0𝐖
+r𝐖.
+r𝐖.
 r
-45\circ .
-v_0
-v_1
-z_0 =\frac{1 +r^2}{2r} +\frac{1 +r^2}{2r}\tan (\pi /8)i .
-b =\frac{1 +r^2}{2r}
-v_0 v_0^\ast
-\angle v_0 z_0 b =\pi /8
-\pi /4 .
-\Delta v_0 bz_0
-\pi /4
-\tan (\pi /8) =\frac{| b -v_0 |}{| z_0 -b|} =\frac{\frac{1 +r^2}{2r} -r}{\frac{1 +r^2}{2r} \cdot \tan (\pi /8)} .
+45\circ𝐖.
+v_0𝐖
+v_1𝐖
+z_0𝐖𝐖=\frac{1𝐖+r^2𝐖}{2r}𝐖+\frac{1𝐖+r^2𝐖}{2r}\tan𝐖(\pi𝐖/8)i𝐖.
+b𝐖=\frac{1𝐖+r^2𝐖}{2r}
+v_0𝐖v_0^\ast𝐖𝐖
+𝐖\angle𝐖v_0𝐖z_0𝐖b𝐖=\pi𝐖/8
+\pi𝐖/4𝐖.
+\Delta𝐖v_0𝐖bz_0𝐖
+\pi𝐖/4
+\tan𝐖(\pi𝐖/8)𝐖=\frac{|𝐖b𝐖-v_0𝐖|}{|𝐖z_0𝐖𝐖-b|}𝐖=\frac{\frac{1𝐖+r^2𝐖}{2r}𝐖-r}{\frac{1𝐖+r^2𝐖}{2r}𝐖\cdot𝐖\tan𝐖(\pi𝐖/8)}𝐖.
 r
-r =(1/2)^{(1/4)} .
-45\circ .
+r𝐖=(1/2)^{(1/4)}𝐖𝐖.
+45\circ𝐖.
 n
-r, re^{\frac{1}{n}2\pi i},
-re^{\frac{2}{n}2\pi i},
-\cdots, re^{\frac{n -1}{n}2\pi i}
-0 \lt r \lt 1 .
+r,𝐖re^{\frac{1}{n}2\pi𝐖i}𝐖,𝐖
+re^{\frac{2}{n}2\pi𝐖i}𝐖,𝐖
+\cdots𝐖,𝐖re^{\frac{n𝐖-1}{n}2\pi𝐖i}𝐖
+0𝐖\lt𝐖r𝐖\lt𝐖1𝐖.
 x
-y,
-\cosh (\ln (x/y)) =\frac{x^2 +y^2}{2xy}\~and\~\sinh (\ln (x/y)) =\frac{x^2 -y^2}{2xy} .
+y,𝐖
+\cosh𝐖(\ln𝐖(x/y))𝐖=\frac{x^2𝐖𝐖+y^2𝐖}{2xy}\~and\~\sinh𝐖(\ln𝐖(x/y))𝐖=\frac{x^2𝐖𝐖-y^2𝐖}{2xy}𝐖.
 p
 q
-\mathbb D,
-c =d_H (p, q) .
-\cosh (c) =\frac{(1 +| p|^2)(1 +| q|^2) -4Re(p\overline{q})}{(1 -| p|^2)(1 -| q|^2)} .
-p =r
-0 \lt r \lt 1
-q =ke^{i\gamma}
-0 \lt k \lt 1
-\alpha, \beta, \gamma
-a, b,
+\mathbb𝐖D𝐖,𝐖
+c𝐖=d_H𝐖(p,𝐖q)𝐖.
+\cosh𝐖(c)𝐖=\frac{(1𝐖+|𝐖p|^2𝐖)(1𝐖+|𝐖q|^2𝐖)𝐖-4Re(p\overline{q})}{(1𝐖-|𝐖p|^2𝐖)(1𝐖-|𝐖q|^2𝐖)}𝐖.
+p𝐖=r
+0𝐖\lt𝐖r𝐖\lt𝐖1
+q𝐖=ke^{i\gamma𝐖}𝐖
+0𝐖\lt𝐖k𝐖\lt𝐖1
+\alpha𝐖,𝐖\beta𝐖,𝐖\gamma𝐖
+a,𝐖b,𝐖
 c
-\cosh (a) =\frac{1 +r^2}{1 -r^2}; \sinh (a) =\frac{2r}{1 -r^2};
-\cosh (b) =\frac{1 +k^2}{1 -k^2}; \sinh (b) =\frac{2k}{1 -k^2} .
-\cosh (c) =\cosh (a)\cosh (b) -\sinh (a)\sinh (b)\cos (\gamma) .
-\mathbb D .
-q =ke^{i\gamma}
-0 \lt k \lt 1
-p =r
-0 \lt r \lt 1 .
+\cosh𝐖(a)𝐖=\frac{1𝐖+r^2𝐖}{1𝐖-r^2𝐖};𝐖\sinh𝐖(a)𝐖=\frac{2r}{1𝐖-r^2𝐖};𝐖
+\cosh𝐖(b)𝐖=\frac{1𝐖+k^2𝐖}{1𝐖-k^2𝐖};𝐖\sinh𝐖(b)𝐖=\frac{2k}{1𝐖-k^2𝐖}𝐖.
+\cosh𝐖(c)𝐖=\cosh𝐖(a)\cosh𝐖(b)𝐖-\sinh𝐖(a)\sinh𝐖(b)\cos𝐖(\gamma𝐖)𝐖.
+\mathbb𝐖D𝐖𝐖.
+q𝐖=ke^{i\gamma𝐖}𝐖
+0𝐖\lt𝐖k𝐖\lt𝐖1
+p𝐖=r
+0𝐖\lt𝐖r𝐖\lt𝐖1𝐖.
 c
-z_0
-R,
-m_q
-qq^\ast
-m_p
-pp^\ast,
-\Delta z_0 m_q q
-\Delta pm_p z_0
-\alpha
-\beta
-\angle m_q z_0 q
-\angle pz_0 m_p,
-\sin (\alpha) =| m_q -q|/R
-\sin (\beta) =| m_p -p|/R .
-| m_q -q| =\frac{1/k -k}{2} =\frac{1 -k^2}{2k}
-| m_p -p| =\frac{1 -r^2}{2r} .
-\frac{\sinh (a)}{\sin (\alpha)} =\frac{\sinh (b)}{\sin (\beta)} .
-\mathbb D,
-\frac{\sinh (a)}{\sin (\alpha)} =\frac{\sinh (b)}{\sin (\beta)} =\frac{\sinh (c)}{\sin (\gamma)} .
+z_0𝐖
+R,𝐖
+m_q𝐖
+qq^\ast𝐖𝐖
+m_p𝐖
+pp^\ast𝐖𝐖,𝐖
+\Delta𝐖z_0𝐖m_q𝐖q
+\Delta𝐖pm_p𝐖z_0𝐖
+\alpha𝐖
+\beta𝐖
+𝐖\angle𝐖m_q𝐖z_0𝐖q
+𝐖\angle𝐖pz_0𝐖m_p𝐖,𝐖
+\sin𝐖(\alpha𝐖)𝐖=|𝐖m_q𝐖𝐖-q|/R
+\sin𝐖(\beta𝐖)𝐖=|𝐖m_p𝐖𝐖-p|/R𝐖.
+|𝐖m_q𝐖𝐖-q|𝐖=\frac{1/k𝐖-k}{2}𝐖=\frac{1𝐖-k^2𝐖}{2k}
+|𝐖m_p𝐖𝐖-p|𝐖=\frac{1𝐖-r^2𝐖}{2r}𝐖.
+\frac{\sinh𝐖(a)}{\sin𝐖(\alpha𝐖)}𝐖=\frac{\sinh𝐖(b)}{\sin𝐖(\beta𝐖)}𝐖.
+\mathbb𝐖D𝐖,𝐖
+\frac{\sinh𝐖(a)}{\sin𝐖(\alpha𝐖)}𝐖=\frac{\sinh𝐖(b)}{\sin𝐖(\beta𝐖)}𝐖=\frac{\sinh𝐖(c)}{\sin𝐖(\gamma𝐖)}𝐖.
 p
 90\circ
 x
-x =(e^a -1)/(e^a +1) .
-xi .
+x𝐖=(e^a𝐖𝐖-1)/(e^a𝐖𝐖+1)𝐖.
+xi𝐖.
 p
 q
 a
 p
-\cosh (d_H (0, p)) =\cosh^2 (a) .
-\sqrt{2}a .
-a ?
-\cosh^2 (a)
-\cosh (\sqrt{2}a) ?
-\theta = \angle x0p .
-\tan (\theta) =\frac{1}{\cosh (a)} .
-\theta
-a \to 0^+ ?
-\angle x0p = \angle 0px .
-\cosh (d_H (p, q)) =\cosh^4 (a)[1 -\sin (2\theta)] +\sin (2\theta) .
-\alpha = \angle qp0,
-b =d_H (0, p)
-c =d_H (p, q) .
-\sin (\alpha) =\frac{\sinh (b)}{\sinh (c)}\cos (2\theta) .
+\cosh𝐖(d_H𝐖(0,𝐖p))𝐖=\cosh𝐖^2𝐖(a)𝐖.
+\sqrt{2}a𝐖.
+a𝐖?
+\cosh𝐖^2𝐖(a)
+\cosh𝐖(\sqrt{2}a)𝐖?
+\theta𝐖𝐖=𝐖\angle𝐖x0p𝐖.
+\tan𝐖(\theta𝐖)𝐖=\frac{1}{\cosh𝐖(a)}𝐖.
+\theta𝐖
+a𝐖\to𝐖0^+𝐖𝐖?
+𝐖\angle𝐖x0p𝐖=𝐖\angle𝐖0px𝐖.
+\cosh𝐖(d_H𝐖(p,𝐖q))𝐖=\cosh𝐖^4𝐖(a)[1𝐖-\sin𝐖(2\theta𝐖)]𝐖+\sin𝐖(2\theta𝐖)𝐖.
+\alpha𝐖𝐖=𝐖\angle𝐖qp0,𝐖
+b𝐖=d_H𝐖(0,𝐖p)
+c𝐖=d_H𝐖(p,𝐖q)𝐖.
+\sin𝐖(\alpha𝐖)𝐖=\frac{\sinh𝐖(b)}{\sinh𝐖(c)}\cos𝐖(2\theta𝐖)𝐖.
 q
 p
-\frac{3\pi}{2} -2(\theta +\alpha) .
-(\mathbb D, \mscrH) .
+\frac{3\pi𝐖}{2}𝐖-2(\theta𝐖𝐖+\alpha𝐖)𝐖.
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)𝐖.
 q
-p ?
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-(x, y)
-(r, \theta)
-x +yi & \lt mi/> =r\cos (\theta) +r\sin (\theta)i \\ \~ & \lt mi/> =r(\cos (\theta) +i\sin (\theta)) .
-\theta,
-e^{i\theta} =\cos (\theta) +i\sin (\theta) .
-e^{i\pi /2} =\cos (\pi /2) +i\sin (\pi /2) =0 +i \cdot 1 =i .
-e^{i0} =\cos (0) +i\sin (0) =1,
-e^{i\pi} = -1,
-e^{i\pi} +1 =0 .
-z =x +yi
-(x, y)
-(r, \theta)
-z =re^{i\theta}
-z .
-| r|
-z,
-\theta
+p𝐖?
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+(x,𝐖y)
+(r,𝐖\theta𝐖)
+x𝐖+yi𝐖&𝐖\lt𝐖mi/>𝐖=r\cos𝐖(\theta𝐖)𝐖+r\sin𝐖(\theta𝐖)i𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=r(\cos𝐖(\theta𝐖)𝐖+i\sin𝐖(\theta𝐖))𝐖.
+\theta𝐖,𝐖
+e^{i\theta𝐖}𝐖𝐖=\cos𝐖(\theta𝐖)𝐖+i\sin𝐖(\theta𝐖)𝐖.
+e^{i\pi𝐖/2}𝐖𝐖=\cos𝐖(\pi𝐖/2)𝐖+i\sin𝐖(\pi𝐖/2)𝐖=0𝐖+i𝐖\cdot𝐖1𝐖=i𝐖.
+e^{i0}𝐖𝐖=\cos𝐖(0)𝐖+i\sin𝐖(0)𝐖=1,𝐖
+e^{i\pi𝐖}𝐖𝐖=𝐖-1,𝐖
+e^{i\pi𝐖}𝐖𝐖+1𝐖=0𝐖.
+z𝐖=x𝐖+yi
+(x,𝐖y)
+(r,𝐖\theta𝐖)
+z𝐖=re^{i\theta𝐖}𝐖
+z𝐖.
+|𝐖r|
+z,𝐖
+\theta𝐖
 z
 arg(z
-z =2e^{i\pi /4}, w =3e^{i\pi /2}, v = -2e^{i\pi /6}, u =3e^{ -i\pi /3} .
-z = -3 +4i
-r =\sqrt{9 +16} =5,
-\tan (\alpha) =4/3,
-\theta =\pi -\tan^{ -1} (4/3) \approx 2.21
--3 +4i =5e^{i(\pi -\tan^{ -1} (4/3))} \approx 5e^{2.21i} .
-re^{i\theta} \cdot se^{i\beta} =(rs)e^{i(\theta +\beta)} .
-arg(zw) =arg(z) +arg(w),
-2\pi .
-arg(vw) =arg(v) +arg(w) +2\pi k
-k .
-\mathbit r \ge \mathbf 0
+z𝐖=2e^{i\pi𝐖/4}𝐖,𝐖w𝐖=3e^{i\pi𝐖/2}𝐖,𝐖v𝐖=𝐖-2e^{i\pi𝐖/6}𝐖,𝐖u𝐖=3e^{𝐖-i\pi𝐖/3}𝐖𝐖.
+z𝐖=𝐖-3𝐖+4i
+r𝐖=\sqrt{9𝐖+16}𝐖=5,𝐖
+\tan𝐖(\alpha𝐖)𝐖=4/3,𝐖
+\theta𝐖𝐖=\pi𝐖𝐖-\tan𝐖^{𝐖-1}𝐖(4/3)𝐖\approx𝐖2.21
+𝐖-3𝐖+4i𝐖=5e^{i(\pi𝐖𝐖-\tan𝐖^{𝐖-1}𝐖(4/3))}𝐖𝐖\approx𝐖5e^{2.21i}𝐖𝐖.
+re^{i\theta𝐖}𝐖𝐖\cdot𝐖se^{i\beta𝐖}𝐖𝐖=(rs)e^{i(\theta𝐖𝐖+\beta𝐖)}𝐖𝐖.
+arg(zw)𝐖=arg(z)𝐖+arg(w),𝐖
+2\pi𝐖𝐖.
+arg(vw)𝐖=arg(v)𝐖+arg(w)𝐖+2\pi𝐖k
+k𝐖.
+\mathbit𝐖r𝐖𝐖\ge𝐖\mathbf𝐖0𝐖
 z
-z =re^{i\theta},
+z𝐖=re^{i\theta𝐖}𝐖,𝐖
 r
-r \lt 0,
-re^{i\theta} & \lt mi/> = -| r|e^{i\theta} \\ \~ & \lt mi/> =(e^{i\pi}) \cdot | r|e^{i\theta} since -1 =e^{i\pi} \\ \~ & \lt mi/> =| r|e^{i(\theta +\pi)}, byTheorem\space 2.2.3 .
-\pi
-z =re^{i\theta}
+r𝐖\lt𝐖0,𝐖
+re^{i\theta𝐖}𝐖𝐖&𝐖\lt𝐖mi/>𝐖=𝐖-|𝐖r|e^{i\theta𝐖}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=(e^{i\pi𝐖}𝐖)𝐖\cdot𝐖|𝐖r|e^{i\theta𝐖}𝐖since𝐖-1𝐖=e^{i\pi𝐖}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=|𝐖r|e^{i(\theta𝐖𝐖+\pi𝐖)}𝐖,𝐖byTheorem\space𝐖2.2.3𝐖.
+\pi𝐖
+z𝐖=re^{i\theta𝐖}𝐖
 r
-3 +i,
--1 -2i,
-3 -4i,
-7, 002, 001,
--4i .
-z =2e^{i\pi /3},
-w = -2e^{i\pi /4},
-u =4e^{i5\pi /3},
-z \cdot u .
-e, i, \pi, 1,
-z =re^{i\theta},
-\overline{z} =re^{ -i\theta} .
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
+3𝐖+i,𝐖
+𝐖-1𝐖-2i,𝐖
+3𝐖-4i,𝐖
+7,𝐖002,𝐖001,𝐖
+𝐖-4i𝐖.
+z𝐖=2e^{i\pi𝐖/3}𝐖,𝐖
+w𝐖=𝐖-2e^{i\pi𝐖/4}𝐖,𝐖
+u𝐖=4e^{i5\pi𝐖/3}𝐖,𝐖
+z𝐖\cdot𝐖u𝐖.
+e,𝐖i,𝐖\pi𝐖,𝐖1,𝐖
+z𝐖=re^{i\theta𝐖}𝐖,𝐖
+\overline{z}𝐖=re^{𝐖-i\theta𝐖}𝐖𝐖.
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
 C
-| z -z_0 | =r,
-z_0
-z_0 .
-\mathbb C
-z_0
-\infty .
-\mathbb C
-\infty
-z_0 .
-\infty .
-\mathbb C^+ .
+|𝐖z𝐖-z_0𝐖|𝐖=r,𝐖
+z_0𝐖
+z_0𝐖𝐖.
+\mathbb𝐖C𝐖
+z_0𝐖
+\infty𝐖𝐖.
+\mathbb𝐖C𝐖
+\infty𝐖
+z_0𝐖𝐖.
+\infty𝐖𝐖.
+\mathbb𝐖C𝐖^+𝐖𝐖.
 C
-z_0
-\infty .
-\mathbb C^+
+z_0𝐖
+\infty𝐖𝐖.
+\mathbb𝐖C𝐖^+𝐖
 C
-z_0
-r,
-i_C \colon \mathbb C^+ \to \mathbb C^+,
-i_C (z) =\{\frac{r^2}{(\overline{z -z_0})} +z_0 & \~if\~z \not= z_0, \infty;\~ \\ \infty & \~if\~z =z_0;\~ \\ z_0 & \~if\~z =\infty \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/> .
-z_0
-\infty
-\mathbb C^+
-\infty
-\infty .
-\infty
-\mathbb C^+ ?
-\infty
-\{z_n \}
-| z_n | \to \infty
-n \to \infty,
-\lim_{n \to \infty} z_n =\infty .
-\infty
-\infty .
-\mathbb C^+
-\infty .
-\mathbb C^+,
-T_b
-\mathbb C^+
-\infty
-R_\theta
-\mathbb C^+
-\infty
-T(z) =kz
-\mathbb C^+
-\infty
-r_L (z)
-\mathbb C^+
+z_0𝐖
+r,𝐖
+i_C𝐖𝐖\colon𝐖\mathbb𝐖C𝐖^+𝐖𝐖\to𝐖\mathbb𝐖C𝐖^+𝐖,𝐖
+i_C𝐖(z)𝐖=\{\frac{r^2𝐖}{(\overline{z𝐖-z_0𝐖})}𝐖+z_0𝐖𝐖&𝐖\~if\~z𝐖\not=𝐖z_0𝐖,𝐖\infty𝐖;\~𝐖\\𝐖\infty𝐖𝐖&𝐖\~if\~z𝐖=z_0𝐖;\~𝐖\\𝐖z_0𝐖𝐖&𝐖\~if\~z𝐖=\infty𝐖𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>𝐖.
+z_0𝐖
+\infty𝐖
+\mathbb𝐖C𝐖^+𝐖
+\infty𝐖
+\infty𝐖𝐖.
+\infty𝐖
+\mathbb𝐖C𝐖^+𝐖𝐖?
+\infty𝐖
+\{z_n𝐖\}
+|𝐖z_n𝐖|𝐖\to𝐖\infty𝐖
+n𝐖\to𝐖\infty𝐖,𝐖
+\lim𝐖_{n𝐖\to𝐖\infty𝐖}𝐖z_n𝐖𝐖=\infty𝐖𝐖.
+\infty𝐖
+\infty𝐖𝐖.
+\mathbb𝐖C𝐖^+𝐖
+\infty𝐖𝐖.
+\mathbb𝐖C𝐖^+𝐖,𝐖
+T_b𝐖
+\mathbb𝐖C𝐖^+𝐖
+\infty𝐖
+R_\theta𝐖𝐖
+\mathbb𝐖C𝐖^+𝐖
+\infty𝐖
+T(z)𝐖=kz
+\mathbb𝐖C𝐖^+𝐖
+\infty𝐖
+r_L𝐖(z)
+\mathbb𝐖C𝐖^+𝐖
 L
 L
-\infty
-\infty
-\mathbb C^+
-T(z) =\frac{i +1}{z +2i},
+\infty𝐖
+\infty𝐖
+\mathbb𝐖C𝐖^+𝐖
+T(z)𝐖=\frac{i𝐖+1}{z𝐖+2i},𝐖
 T
-\infty,
-\infty .
-\infty
-T( -2i) =\infty .
-\infty,
-1, 2, 3, \ldots .
-T(1), T(2),
-T(3), \ldots
-Im(z) =2 .
-T(\infty) =0 .
-T(z) =\frac{iz +(3i +1)}{2iz +1},
-T(i/2) =\infty
-T(\infty) =1/2 .
-\mathbb C^+
-\mathbb C^+ .
-\infty,
+\infty𝐖,𝐖
+\infty𝐖𝐖.
+\infty𝐖
+T(𝐖-2i)𝐖=\infty𝐖𝐖.
+\infty𝐖,𝐖
+1,𝐖2,𝐖3,𝐖\ldots𝐖𝐖.
+T(1),𝐖T(2),𝐖
+T(3),𝐖\ldots𝐖
+Im(z)𝐖=2𝐖.
+T(\infty𝐖)𝐖=0𝐖.
+T(z)𝐖=\frac{iz𝐖+(3i𝐖+1)}{2iz𝐖+1},𝐖
+T(i/2)𝐖=\infty𝐖
+T(\infty𝐖)𝐖=1/2𝐖.
+\mathbb𝐖C𝐖^+𝐖
+\mathbb𝐖C𝐖^+𝐖𝐖.
+\infty𝐖,𝐖
 z
-C,
-z =z_0
-\infty .
-\mathbb C^+
-\mathbb C^+
+C,𝐖
+z𝐖=z_0𝐖
+\infty𝐖𝐖.
+\mathbb𝐖C𝐖^+𝐖
+\mathbb𝐖C𝐖^+𝐖
 p
 q
-\infty
-\infty
-\infty .
-\mathbb S^2,
-\mathbb S^2 =\{(a, b, c) \in \mathbb R^3 |a^2 +b^2 +c^2 =1\} .
-N =(0, 0, 1)
-P \not= N
-\phi (P)
+\infty𝐖
+\infty𝐖
+\infty𝐖𝐖.
+\mathbb𝐖S𝐖^2𝐖,𝐖
+\mathbb𝐖S𝐖^2𝐖𝐖=\{(a,𝐖b,𝐖c)𝐖\in𝐖\mathbb𝐖R𝐖^3𝐖|a^2𝐖𝐖+b^2𝐖𝐖+c^2𝐖𝐖=1\}𝐖.
+N𝐖=(0,𝐖0,𝐖1)
+P𝐖\not=𝐖N
+\phi𝐖(P)
 \vec{NP}
 xy
 P
-\phi
-N =(0, 0, 1)
-P =(a, b, c)
-\vec{NP} = \langle a, b, c -1 \rangle,
-\vec{r}(t) = \langle 0, 0, 1 \rangle +t \langle a, b, c -1 \rangle .
+\phi𝐖
+N𝐖=(0,𝐖0,𝐖1)
+P𝐖=(a,𝐖b,𝐖c)
+\vec{NP}𝐖=𝐖\langle𝐖a,𝐖b,𝐖c𝐖-1𝐖\rangle𝐖,𝐖
+\vec{r}(t)𝐖=𝐖\langle𝐖0,𝐖0,𝐖1𝐖\rangle𝐖𝐖+t𝐖\langle𝐖a,𝐖b,𝐖c𝐖-1𝐖\rangle𝐖𝐖.
 xy
 z
-t =\frac{1}{1 -c},
-(\frac{a}{1 -c}, \frac{b}{1 -c}, 0) .
-(a, b, c)
-c \not= 1,
-\phi \colon \mathbb S^2 \to \mathbb C^+
-\phi ((a, b, c)) =\frac{a}{1 -c} +\frac{b}{1 -c}i .
-\phi
-\infty,
-\mathbb S^2
+t𝐖=\frac{1}{1𝐖-c},𝐖
+(\frac{a}{1𝐖-c},𝐖\frac{b}{1𝐖-c},𝐖0)𝐖.
+(a,𝐖b,𝐖c)
+c𝐖\not=𝐖1,𝐖
+\phi𝐖𝐖\colon𝐖\mathbb𝐖S𝐖^2𝐖𝐖\to𝐖\mathbb𝐖C𝐖^+𝐖
+\phi𝐖((a,𝐖b,𝐖c))𝐖=\frac{a}{1𝐖-c}𝐖+\frac{b}{1𝐖-c}i𝐖.
+\phi𝐖
+\infty𝐖,𝐖
+\mathbb𝐖S𝐖^2𝐖
 N
-\mathbb C
-\infty .
-\infty
-\infty
-\mathbb C^+,
-\infty,
-\infty .
-\theta,
-\mathbb C^+
-\theta .
-\mathbb C^+
-\infty
-\infty
+\mathbb𝐖C𝐖
+\infty𝐖𝐖.
+\infty𝐖
+\infty𝐖
+\mathbb𝐖C𝐖^+𝐖,𝐖
+\infty𝐖,𝐖
+\infty𝐖𝐖.
+\theta𝐖,𝐖
+\mathbb𝐖C𝐖^+𝐖
+\theta𝐖𝐖.
+\mathbb𝐖C𝐖^+𝐖
+\infty𝐖
+\infty𝐖
 p
-\infty,
-\infty
-p .
-\mathbb C^+ .
-T(\infty)
-z_0
-T(z_0) =\infty .
-T(z) =(3 -z)/(2z +i) .
-T(z) =(z +1)/e^{i\pi /4} .
-T(z) =(az +b)/(cz +d) .
+\infty𝐖,𝐖
+\infty𝐖
+p𝐖.
+\mathbb𝐖C𝐖^+𝐖𝐖.
+T(\infty𝐖)
+z_0𝐖
+T(z_0𝐖)𝐖=\infty𝐖𝐖.
+T(z)𝐖=(3𝐖-z)/(2z𝐖+i)𝐖.
+T(z)𝐖=(z𝐖+1)/e^{i\pi𝐖/4}𝐖𝐖.
+T(z)𝐖=(az𝐖+b)/(cz𝐖+d)𝐖.
 D
 p
-q .
+q𝐖.
 p
 q
-D .
-\phi^{ -1} \colon \mathbb C^+ \to \mathbb S^2 .
-z =x +yi \not= \infty,
-\phi^{ -1} (x, y) =(\frac{2x}{x^2 +y^2 +1}, \frac{2y}{x^2 +y^2 +1}, \frac{x^2 +y^2 -1}{x^2 +y^2 +1}) .
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-(\mathbb D, \mscrH)
-(\mathbb P^2, \mathscr S),
-3\pi ?
-(\frac{\pi}{2} +\frac{\pi}{2} +\frac{\pi}{2}) -\pi =\frac{\pi}{2} .
-(\mathbb P^2, \mathscr S)
-3\pi,
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
+D𝐖.
+\phi𝐖^{𝐖-1}𝐖𝐖\colon𝐖\mathbb𝐖C𝐖^+𝐖𝐖\to𝐖\mathbb𝐖S𝐖^2𝐖𝐖.
+z𝐖=x𝐖+yi𝐖\not=𝐖\infty𝐖,𝐖
+\phi𝐖^{𝐖-1}𝐖(x,𝐖y)𝐖=(\frac{2x}{x^2𝐖𝐖+y^2𝐖𝐖+1},𝐖\frac{2y}{x^2𝐖𝐖+y^2𝐖𝐖+1},𝐖\frac{x^2𝐖𝐖+y^2𝐖𝐖-1}{x^2𝐖𝐖+y^2𝐖𝐖+1})𝐖.
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
+(\mathbb𝐖P𝐖^2𝐖,𝐖\mathscr𝐖S𝐖),𝐖
+3\pi𝐖𝐖?
+(\frac{\pi𝐖}{2}𝐖+\frac{\pi𝐖}{2}𝐖+\frac{\pi𝐖}{2})𝐖-\pi𝐖𝐖=\frac{\pi𝐖}{2}𝐖.
+(\mathbb𝐖P𝐖^2𝐖,𝐖\mathscr𝐖S𝐖)
+3\pi𝐖,𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
 xy
-\lt mi/>\circ .
-a,
-b,
+\lt𝐖mi/>\circ𝐖.
+a,𝐖
+b,𝐖
 c
-a^2 +b^2 =c^2 .
-\lt mi/>\circ,
-\lt mi/>\circ .
-\lt mi/>\circ,
-\lt mi/>\circ
-kA =2\pi \chi .
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C
-\mathbb S^1
-i_C (z)
+a^2𝐖𝐖+b^2𝐖𝐖=c^2𝐖𝐖.
+\lt𝐖mi/>\circ,𝐖
+\lt𝐖mi/>\circ𝐖.
+\lt𝐖mi/>\circ,𝐖
+\lt𝐖mi/>\circ
+kA𝐖=2\pi𝐖\chi𝐖𝐖.
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖
+\mathbb𝐖S𝐖^1𝐖
+i_C𝐖(z)
 C
-\infty
-\infty
-\mathbb C^+
-(\mathbb C, \mathscr T)
-(\mathbb C, \mscrE)
-(\mathbb C^+, \mscrM)
-(\mathbb D, \mscrH)
-\mathbb D
-\mathbb S_\infty^1
-\infty
-(\mathbb D, \mscrH)
-\mathbb P^2
-(\mathbb P^2, \mathscr S)
-(\mathbb P_k^2, \mathscr S_k)
+\infty𝐖
+\infty𝐖
+\mathbb𝐖C𝐖^+𝐖
+(\mathbb𝐖C𝐖,𝐖\mathscr𝐖T𝐖)
+(\mathbb𝐖C𝐖,𝐖\mscrE𝐖)
+(\mathbb𝐖C𝐖^+𝐖,𝐖\mscrM𝐖)
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
+\mathbb𝐖D𝐖
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖
+\infty𝐖
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
+\mathbb𝐖P𝐖^2𝐖
+(\mathbb𝐖P𝐖^2𝐖,𝐖\mathscr𝐖S𝐖)
+(\mathbb𝐖P𝐖_k^2𝐖,𝐖\mathscr𝐖S𝐖_k𝐖)
 k
-(\mathbb D_k, \mscrH_k)
+(\mathbb𝐖D𝐖_k𝐖,𝐖\mscrH𝐖_k𝐖)
 k
-(X_k, G_k)
+(X_k𝐖,𝐖G_k𝐖)
 k
-\mathbb R^n
+\mathbb𝐖R𝐖^n𝐖
 n
-X_1 \#X_2
-\mathbb T^2
-H_g
+X_1𝐖\#X_2𝐖
+\mathbb𝐖T𝐖^2𝐖
+H_g𝐖
 g
-C_g
+C_g𝐖
 g
-\mathbb K^2
-\chi (S)
+\mathbb𝐖K𝐖^2𝐖
+\chi𝐖(S)
 X/G
-(X, G)
-\mathbb H^3
-\mathbb S^3
-\mathbb T^3
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
+(X,𝐖G)
+\mathbb𝐖H𝐖^3𝐖
+\mathbb𝐖S𝐖^3𝐖
+\mathbb𝐖T𝐖^3𝐖
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
 C
 r
-z_0 .
-\mathbit C
-z \not= z_0
-z^\ast
-z_0
-z .
-z^\ast
-| z -z_0 | \cdot | z^\ast -z_0 | =r^2 .
-z^\ast
+z_0𝐖𝐖.
+\mathbit𝐖C𝐖
+z𝐖\not=𝐖z_0𝐖
+z^\ast𝐖𝐖
+z_0𝐖
+z𝐖.
+z^\ast𝐖𝐖
+|𝐖z𝐖-z_0𝐖|𝐖\cdot𝐖|𝐖z^\ast𝐖𝐖𝐖-z_0𝐖|𝐖=r^2𝐖𝐖.
+z^\ast𝐖𝐖
 z
-C .
-z_0
-\mathbb C -\{z_0 \}
-z_0 .
+C𝐖.
+z_0𝐖
+\mathbb𝐖C𝐖𝐖-\{z_0𝐖\}
+z_0𝐖𝐖.
 C
-i_C (z) =z^\ast .
-z_0 .
-i_C
-C,
+i_C𝐖(z)𝐖=z^\ast𝐖𝐖𝐖.
+z_0𝐖𝐖.
+i_C𝐖
+C,𝐖
 z
-i_C (z)
-\mathbb C,
-\mathbb S^1,
-z_0 =0
-r =1 .
-z^\ast
-z \not= 0
-\mathbb S^1
-| z -z_0 | \cdot | z^\ast -z_0 | =r^2
-| z| \cdot | z^\ast | =1 .
-z^\ast
+i_C𝐖(z)
+\mathbb𝐖C𝐖,𝐖
+\mathbb𝐖S𝐖^1𝐖,𝐖
+z_0𝐖𝐖=0
+r𝐖=1𝐖.
+z^\ast𝐖𝐖
+z𝐖\not=𝐖0
+\mathbb𝐖S𝐖^1𝐖
+|𝐖z𝐖-z_0𝐖|𝐖\cdot𝐖|𝐖z^\ast𝐖𝐖𝐖-z_0𝐖|𝐖=r^2𝐖
+|𝐖z|𝐖\cdot𝐖|𝐖z^\ast𝐖𝐖|𝐖=1𝐖.
+z^\ast𝐖𝐖
 z
-z^\ast =kz
-k .
-z^\ast
-| z| \cdot | kz| =1,
-k =1/| z|^2 .
-z^\ast =(1/| z|^2)z .
-| z|^2 =z \cdot \overline{z},
-\mathbb S^1
-i_{\mathbb S^1} (z) =1/\overline{z} .
-\mathbit C
-\mathbit z_\mathbf 0
-\mathbit r
+z^\ast𝐖𝐖𝐖=kz
+k𝐖.
+z^\ast𝐖𝐖
+|𝐖z|𝐖\cdot𝐖|𝐖kz|𝐖=1,𝐖
+k𝐖=1/|𝐖z|^2𝐖𝐖.
+z^\ast𝐖𝐖𝐖=(1/|𝐖z|^2𝐖)z𝐖.
+|𝐖z|^2𝐖𝐖=z𝐖\cdot𝐖\overline{z},𝐖
+\mathbb𝐖S𝐖^1𝐖
+i_{\mathbb𝐖S𝐖^1𝐖}𝐖(z)𝐖=1/\overline{z}𝐖.
+\mathbit𝐖C𝐖
+\mathbit𝐖z𝐖_\mathbf𝐖0𝐖𝐖
+\mathbit𝐖r𝐖
 C
-z_0
+z_0𝐖
 r
-i_C (z) & \lt mi/> =\frac{r^2}{(\overline{z -z_0})} +z_0 .
+i_C𝐖(z)𝐖&𝐖\lt𝐖mi/>𝐖=\frac{r^2𝐖}{(\overline{z𝐖-z_0𝐖})}𝐖+z_0𝐖𝐖.
 C
-z_0 .
+z_0𝐖𝐖.
 C
-cz\overline{z} +\alpha z +\overline{\alpha}\overline{z} +d =0
-z =x +yi
-\alpha
-c, d
-c =0
-c \not= 0
-| \alpha |^2 >cd
-\alpha =a +bi
-z =x +yi,
-cz\overline{z} +\alpha z +\overline{\alpha}\overline{z} +d =0
-c(x^2 +y^2) +[ax -by +(ay +bx)i] +[ax -by -(ay +bx)i] +d =0
-c(x^2 +y^2) +2(ax -by) +d =0 .
-c =0
-c \not= 0
-a^2 +b^2 >cd .
-c \not= 0,
-c(x^2 +y^2) +2ax -2by +d & \lt mi/> =0 \\ x^2 +\frac{2a}{c}x +y^2 -\frac{2b}{c}y & \lt mi/> = -\frac{d}{c} \\ x^2 +\frac{2a}{c}x +(\frac{a}{c})^2 +y^2 -\frac{2b}{c}y +(\frac{b}{c})^2 & \lt mi/> = -\frac{d}{c} +(\frac{a}{c})^2 +(\frac{b}{c})^2 \\ (x +\frac{a}{c})^2 +(y -\frac{b}{c})^2 & \lt mi/> =\frac{a^2 +b^2 -cd}{c^2}
-a^2 +b^2 >cd .
-c, d \in \mathbb R,
-\alpha \in \mathbb C,
-c \not= 0,
-cz\overline{z} +\alpha z +\overline{\alpha}\overline{z} +d =0
-z_0
-r,
-z_0 =( -\frac{Re(\alpha)}{c}, \frac{Im(\alpha)}{c})andr =\sqrt{\frac{| \alpha |^2 -cd}{c^2}},
-| \alpha |^2 >cd .
-c =0,
-C,
-\mathbb C .
-\mathbb C .
+cz\overline{z}𝐖+\alpha𝐖z𝐖+\overline{\alpha𝐖}\overline{z}𝐖+d𝐖=0
+z𝐖=x𝐖+yi
+\alpha𝐖
+c,𝐖d
+c𝐖=0
+c𝐖\not=𝐖0
+|𝐖\alpha𝐖|^2𝐖𝐖>cd
+\alpha𝐖𝐖=a𝐖+bi
+z𝐖=x𝐖+yi,𝐖
+cz\overline{z}𝐖+\alpha𝐖z𝐖+\overline{\alpha𝐖}\overline{z}𝐖+d𝐖=0
+c(x^2𝐖𝐖+y^2𝐖)𝐖+[ax𝐖-by𝐖+(ay𝐖+bx)i]𝐖+[ax𝐖-by𝐖-(ay𝐖+bx)i]𝐖+d𝐖=0
+c(x^2𝐖𝐖+y^2𝐖)𝐖+2(ax𝐖-by)𝐖+d𝐖=0𝐖.
+c𝐖=0
+c𝐖\not=𝐖0
+a^2𝐖𝐖+b^2𝐖𝐖>cd𝐖.
+c𝐖\not=𝐖0,𝐖
+c(x^2𝐖𝐖+y^2𝐖)𝐖+2ax𝐖-2by𝐖+d𝐖&𝐖\lt𝐖mi/>𝐖=0𝐖\\𝐖x^2𝐖𝐖+\frac{2a}{c}x𝐖+y^2𝐖𝐖-\frac{2b}{c}y𝐖&𝐖\lt𝐖mi/>𝐖=𝐖-\frac{d}{c}𝐖\\𝐖x^2𝐖𝐖+\frac{2a}{c}x𝐖+(\frac{a}{c})^2𝐖𝐖+y^2𝐖𝐖-\frac{2b}{c}y𝐖+(\frac{b}{c})^2𝐖𝐖&𝐖\lt𝐖mi/>𝐖=𝐖-\frac{d}{c}𝐖+(\frac{a}{c})^2𝐖𝐖+(\frac{b}{c})^2𝐖𝐖\\𝐖(x𝐖+\frac{a}{c})^2𝐖𝐖+(y𝐖-\frac{b}{c})^2𝐖𝐖&𝐖\lt𝐖mi/>𝐖=\frac{a^2𝐖𝐖+b^2𝐖𝐖-cd}{c^2𝐖}
+a^2𝐖𝐖+b^2𝐖𝐖>cd𝐖.
+c,𝐖d𝐖\in𝐖\mathbb𝐖R𝐖,𝐖
+\alpha𝐖𝐖\in𝐖\mathbb𝐖C𝐖,𝐖
+c𝐖\not=𝐖0,𝐖
+cz\overline{z}𝐖+\alpha𝐖z𝐖+\overline{\alpha𝐖}\overline{z}𝐖+d𝐖=0
+z_0𝐖
+r,𝐖
+z_0𝐖𝐖=(𝐖-\frac{Re(\alpha𝐖)}{c},𝐖\frac{Im(\alpha𝐖)}{c})andr𝐖=\sqrt{\frac{|𝐖\alpha𝐖|^2𝐖𝐖-cd}{c^2𝐖}},𝐖
+|𝐖\alpha𝐖|^2𝐖𝐖>cd𝐖.
+c𝐖=0,𝐖
+C,𝐖
+\mathbb𝐖C𝐖𝐖.
+\mathbb𝐖C𝐖𝐖.
 C
 C
 C
 r
-o,
+o,𝐖
 p
-C .
-s =| p -o| .
+C𝐖.
+s𝐖=|𝐖p𝐖-o|𝐖.
 p
 C
 m
-n,
-| p -m| \cdot | p -n| =s^2 -r^2 .
-s^2 -r^2
+n,𝐖
+|𝐖p𝐖-m|𝐖\cdot𝐖|𝐖p𝐖-n|𝐖=s^2𝐖𝐖-r^2𝐖𝐖.
+s^2𝐖𝐖-r^2𝐖
 p
-C .
+C𝐖.
 C
 r
 p
 s
 C
-s^2 -r^2
-p .
+s^2𝐖𝐖-r^2𝐖
+p𝐖.
 C
-\mathbb C
-z_0,
-z \not= z_0
-C .
+\mathbb𝐖C𝐖
+z_0𝐖,𝐖
+z𝐖\not=𝐖z_0𝐖
+C𝐖.
 z
 C
-z^\ast,
+z^\ast𝐖𝐖,𝐖
 z
-C .
+C𝐖.
 C
 C
-i_C
-C .
+i_C𝐖
+C𝐖.
 p
 q
-D,
-i_C (p)
-i_C (q)
-i_C (D) .
-p, q
-\mathbb C,
-k >0
+D,𝐖
+i_C𝐖(p)
+i_C𝐖(q)
+i_C𝐖(D)𝐖.
+p,𝐖q
+\mathbb𝐖C𝐖,𝐖
+k𝐖>0
 D
 z
-\mathbb C
-| z -p| =k| z -q| .
+\mathbb𝐖C𝐖
+|𝐖z𝐖-p|𝐖=k|𝐖z𝐖-q|𝐖.
 D
 k
-\mathbit p
-\mathbit q
+\mathbit𝐖p𝐖
+\mathbit𝐖q𝐖
 p
 q
 p
-q,
+q,𝐖
 C
-z_0
-r .
-i_C (z) =\frac{r^2}{(\overline{z -z_0})} +z_0 .
+z_0𝐖
+r𝐖.
+i_C𝐖(z)𝐖=\frac{r^2𝐖}{(\overline{z𝐖-z_0𝐖})}𝐖+z_0𝐖𝐖.
 z
 z
 z
 C
-z_0
-z .
-z_0
-z .
-z .
+z_0𝐖
+z𝐖.
+z_0𝐖
+z𝐖.
+z𝐖.
 t
-C .
-z_0 t .
-t .
-z^\ast
-\vec{z_o z} .
+C𝐖.
+z_0𝐖t𝐖.
+t𝐖.
+z^\ast𝐖𝐖
+\vec{z_o𝐖z}𝐖.
 z
 z
 z
 z
 z
 C
-z_0
-z .
-z_0 z .
+z_0𝐖
+z𝐖.
+z_0𝐖z𝐖.
 t
-z_0 z
-t .
-z^\ast
-z_0 z .
-T_1
-| z| =r_1,
-T_2
-| z| =r_2,
-r_1, r_2 >0 .
-T_2 \circ T_1
-y =mx +b
-b \not= 0)
-( -m/2b, 1/2b)
-\sqrt{(m^2 +1)/4b^2} .
+z_0𝐖z
+t𝐖.
+z^\ast𝐖𝐖
+z_0𝐖z𝐖.
+T_1𝐖
+|𝐖z|𝐖=r_1𝐖,𝐖
+T_2𝐖
+|𝐖z|𝐖=r_2𝐖,𝐖
+r_1𝐖,𝐖r_2𝐖𝐖>0𝐖.
+T_2𝐖𝐖\circ𝐖T_1𝐖
+y𝐖=mx𝐖+b
+b𝐖\not=𝐖0)
+(𝐖-m/2b,𝐖1/2b)
+\sqrt{(m^2𝐖𝐖+1)/4b^2𝐖}𝐖.
 L
-y =3x +4
-L,
+y𝐖=3x𝐖+4
+L,𝐖
 L
-(x -a)^2 +(y -b)^2 =r^2
-(x -\frac{a}{d})^2 +(y -\frac{b}{d})^2 =(\frac{r}{d})^2
-d =a^2 +b^2 -r^2,
-d \not= 0 .
+(x𝐖-a)^2𝐖𝐖+(y𝐖-b)^2𝐖𝐖=r^2𝐖
+(x𝐖-\frac{a}{d})^2𝐖𝐖+(y𝐖-\frac{b}{d})^2𝐖𝐖=(\frac{r}{d})^2𝐖
+d𝐖=a^2𝐖𝐖+b^2𝐖𝐖-r^2𝐖,𝐖
+d𝐖\not=𝐖0𝐖.
 C
-(x -1)^2 +y^2 =4
-C,
+(x𝐖-1)^2𝐖𝐖+y^2𝐖𝐖=4
+C,𝐖
 C
 C
 C
-i_{\mathbb S^1} (C) .
-C
-D
+i_{\mathbb𝐖S𝐖^1𝐖}𝐖(C)𝐖.
 C
 D
+C
 D
-z^\ast
+D
+z^\ast𝐖𝐖
 z
 C
-| z -z_0 | =r
+|𝐖z𝐖-z_0𝐖|𝐖=r
 C'
-| z -z_0 | =r' .
+|𝐖z𝐖-z_0𝐖|𝐖=r'𝐖.
 k
-S(z) =k(z -z_0) +z_0
-i_C =S \circ i_{C'} .
+S(z)𝐖=k(z𝐖-z_0𝐖)𝐖+z_0𝐖
+i_C𝐖𝐖=S𝐖\circ𝐖i_{C'}𝐖𝐖.
 p
-C .
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb I^2 =\{(x, y) \in \mathbb R^2 |0 \le x \le 1, 0 \le y \le 1\}
-C =\{(x, y, z) \in \mathbb R^3 |x^2 +y^2 =1, 0 \le z \le 1\}
-p \colon \mathbb I^2 \to Cbyp((x, y)) =(\cos (2\pi x), \sin (2\pi x), y)
-(0, y)
-(1, y)
-\mathbb I^2
+C𝐖.
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖I𝐖^2𝐖𝐖=\{(x,𝐖y)𝐖\in𝐖\mathbb𝐖R𝐖^2𝐖|0𝐖\le𝐖x𝐖\le𝐖1,𝐖0𝐖\le𝐖y𝐖\le𝐖1\}
+C𝐖=\{(x,𝐖y,𝐖z)𝐖\in𝐖\mathbb𝐖R𝐖^3𝐖|x^2𝐖𝐖+y^2𝐖𝐖=1,𝐖0𝐖\le𝐖z𝐖\le𝐖1\}
+p𝐖\colon𝐖\mathbb𝐖I𝐖^2𝐖𝐖\to𝐖Cbyp((x,𝐖y))𝐖=(\cos𝐖(2\pi𝐖x),𝐖\sin𝐖(2\pi𝐖x),𝐖y)
+(0,𝐖y)
+(1,𝐖y)
+\mathbb𝐖I𝐖^2𝐖
 p
-(1, 0, y) .
+(1,𝐖0,𝐖y)𝐖.
 p
-\mathbb I^2,
-\mathbb I^2
-\mathbb I^2
-\mathbit S
+\mathbb𝐖I𝐖^2𝐖,𝐖
+\mathbb𝐖I𝐖^2𝐖
+\mathbb𝐖I𝐖^2𝐖
+\mathbit𝐖S𝐖
 R
-S \times S .
+S𝐖\times𝐖S𝐖.
 R
-(a, b)
+(a,𝐖b)
 a
 b
-S .
-(a, b)
-R,
-aRb .
-\sim
-R .
-a \sim b
-(a, b)
-\sim,
-S \times S .
+S𝐖.
+(a,𝐖b)
+R,𝐖
+aRb𝐖.
+\sim𝐖
+R𝐖.
+a𝐖\sim𝐖b
+(a,𝐖b)
+𝐖\sim𝐖,𝐖
+S𝐖\times𝐖S𝐖.
 A
-\sim
-x \sim x
-x \in A
-x \sim y
-y \sim x
-x \sim y
-y \sim z
-x \sim z .
-a \in A,
-\mathbit a
-[a],
+\sim𝐖
+x𝐖\sim𝐖x
+x𝐖\in𝐖A
+x𝐖\sim𝐖y
+y𝐖\sim𝐖x
+x𝐖\sim𝐖y
+y𝐖\sim𝐖z
+x𝐖\sim𝐖z𝐖.
+a𝐖\in𝐖A,𝐖
+\mathbit𝐖a𝐖
+[a],𝐖
 A
 a
-\sim .
-[a] =\{x \in A|x \sim a\} .
-z \sim w
-\mathbb C
-(z) -Re(w)
-(z) =Im(w) .
-( -1.6 +4i) \sim (2.4 +4i)
-\sim
-z =a +bi,
-z \sim z
-a -a =0
-b =b .
-z \sim w .
-(z) -Re(w) =k
+𝐖\sim𝐖𝐖.
+[a]𝐖=\{x𝐖\in𝐖A|x𝐖\sim𝐖a\}𝐖.
+z𝐖\sim𝐖w
+\mathbb𝐖C𝐖
+(z)𝐖-Re(w)
+(z)𝐖=Im(w)𝐖.
+(𝐖-1.6𝐖+4i)𝐖\sim𝐖(2.4𝐖+4i)
+\sim𝐖
+z𝐖=a𝐖+bi,𝐖
+z𝐖\sim𝐖z
+a𝐖-a𝐖=0
+b𝐖=b𝐖.
+z𝐖\sim𝐖w𝐖.
+(z)𝐖-Re(w)𝐖=k
 k
-(z) =Im(w) .
-(w) -Re(z) = -k
-(w) =Im(z) .
-w \sim z .
-z \sim w
-w \sim v .
-z \sim v .
-z \sim w,
-(z) -Re(w) =k
-k,
-w \sim v,
-(w) -Re(v) =l
-l .
-k +l & \lt mi/> =[Re(z) -Re(w)] +[Re(w) -Re(v)] \\ \~ & \lt mi/> =Re(z) -Re(v) .
-(z) -Re(v)
-(z) =
-(w) =
-(v) .
-z \sim v .
-z =a +bi
-w =c +bi
-a -c
-c =a +n
-n,
-w =z +n
-[z] =\{z +n|n \in \mathbb Z \} .
+(z)𝐖=Im(w)𝐖.
+(w)𝐖-Re(z)𝐖=𝐖-k
+(w)𝐖=Im(z)𝐖.
+w𝐖\sim𝐖z𝐖.
+z𝐖\sim𝐖w
+w𝐖\sim𝐖v𝐖.
+z𝐖\sim𝐖v𝐖.
+z𝐖\sim𝐖w,𝐖
+(z)𝐖-Re(w)𝐖=k
+k,𝐖
+w𝐖\sim𝐖v,𝐖
+(w)𝐖-Re(v)𝐖=l
+l𝐖.
+k𝐖+l𝐖&𝐖\lt𝐖mi/>𝐖=[Re(z)𝐖-Re(w)]𝐖+[Re(w)𝐖-Re(v)]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=Re(z)𝐖-Re(v)𝐖.
+(z)𝐖-Re(v)
+(z)𝐖=
+(w)𝐖=
+(v)𝐖.
+z𝐖\sim𝐖v𝐖.
+z𝐖=a𝐖+bi
+w𝐖=c𝐖+bi
+a𝐖-c
+c𝐖=a𝐖+n
+n,𝐖
+w𝐖=z𝐖+n
+[z]𝐖=\{z𝐖+n|n𝐖\in𝐖\mathbb𝐖Z𝐖\}𝐖.
 A
 A
-A .
+A𝐖.
 A
 A
 A
-\sim
-A,
+\sim𝐖
+A,𝐖
 a
 b
-A .
+A𝐖.
 [a]
 [b]
-A,
-\sim
-A,
+A,𝐖
+\sim𝐖
+A,𝐖
 A
-\sim
-A/_\sim =\{[a]|a \in A\} .
-\mathbb C,
-\mathbb D,
-\mathbb S^2 .
-(X, G) .
+\sim𝐖
+A/_\sim𝐖𝐖𝐖=\{[a]|a𝐖\in𝐖A\}𝐖.
+\mathbb𝐖C𝐖,𝐖
+\mathbb𝐖D𝐖,𝐖
+\mathbb𝐖S𝐖^2𝐖𝐖.
+(X,𝐖G)𝐖.
 G
-\sim_G
+\sim𝐖_G𝐖
 X
-x, y \in X,
-x\sim_G yif\space and\space only\space ifT(x) =yfor\space someT \in G .
-x \in X,
-x\sim_G x
+x,𝐖y𝐖\in𝐖X,𝐖
+x\sim𝐖_G𝐖yif\space𝐖and\space𝐖only\space𝐖ifT(x)𝐖=yfor\space𝐖someT𝐖\in𝐖G𝐖.
+x𝐖\in𝐖X,𝐖
+x\sim𝐖_G𝐖x
 G
-x\sim_G y
-T(x) =y
+x\sim𝐖_G𝐖y
+T(x)𝐖=y
 T
-G .
-T^{ -1}
+G𝐖.
+T^{𝐖-1}𝐖
 G
-T^{ -1} (y) =x .
-y\sim_G x,
-\sim_G
+T^{𝐖-1}𝐖(y)𝐖=x𝐖.
+y\sim𝐖_G𝐖x,𝐖
+\sim𝐖_G𝐖
 G
-G .
-(X, G)
+G𝐖.
+(X,𝐖G)
 X/G
-\sim_G .
+\sim𝐖_G𝐖𝐖.
 x
-X,
-x .
-x
-X
-x
-G \colon
-[x] =\{y \in X|T(x) =yfor\space someT \in G\} .
+X,𝐖
+x𝐖.
 x
 X
 x
-(X, G) .
+G𝐖\colon𝐖
+[x]𝐖=\{y𝐖\in𝐖X|T(x)𝐖=yfor\space𝐖someT𝐖\in𝐖G\}𝐖.
+x
+X
+x
+(X,𝐖G)𝐖.
 G
 X
-x \in X,
+x𝐖\in𝐖X,𝐖
 x
-X .
+X𝐖.
 X/G
 X/G
 G
 G
 X
-\mathbit X
+\mathbit𝐖X𝐖
 G
 X/G
 X
 X
-T_1 (z) =z +1
-\mathbb C .
-\mathbb C
-\mathbb C
-T_1
-T_1^{ -1}
-T_1
-T_1^{ -1}
-z \colon
+T_1𝐖(z)𝐖=z𝐖+1
+\mathbb𝐖C𝐖𝐖.
+\mathbb𝐖C𝐖
+\mathbb𝐖C𝐖
+T_1𝐖
+T_1^{𝐖-1}𝐖
+T_1𝐖
+T_1^{𝐖-1}𝐖
+z𝐖\colon𝐖
 z
-T_1^{ -1}
-T_1 .
+T_1^{𝐖-1}𝐖
+T_1𝐖𝐖.
 z
-T_n (z) =z +n
-n .
-\langle T_1 \rangle
-T_1,
-\langle T_1 \rangle =\{T_n (z) =z +n|n \in \mathbb Z \} .
+T_n𝐖(z)𝐖=z𝐖+n
+n𝐖.
+𝐖\langle𝐖T_1𝐖𝐖\rangle𝐖
+T_1𝐖,𝐖
+𝐖\langle𝐖T_1𝐖𝐖\rangle𝐖𝐖=\{T_n𝐖(z)𝐖=z𝐖+n|n𝐖\in𝐖\mathbb𝐖Z𝐖\}𝐖.
 p
-[p] =\{p +n|n \in \mathbb Z \} .
-\mathbb C / \langle T_1 \rangle
+[p]𝐖=\{p𝐖+n|n𝐖\in𝐖\mathbb𝐖Z𝐖\}𝐖.
+\mathbb𝐖C𝐖/𝐖\langle𝐖T_1𝐖𝐖\rangle𝐖
 z
-0 \le Re(z) \le 1,
-\mathbb C
-p \colon \mathbb C \to \mathbb C / \langle T_1 \rangle
-p(z) =[z] .
-R_{\frac{\pi}{2}}
-\mathbb C
-\pi /2
-\mathbb C
-R_{\frac{\pi}{2}}
-R_{\frac{\pi}{2}}^{ -1} .
-\pi /2,
-\pi,
-3\pi /2
-\langle R_{\frac{\pi}{2}} \rangle =\{1, R_{\frac{\pi}{2}}, R_\pi, R_{\frac{3\pi}{2}} \} .
+0𝐖\le𝐖Re(z)𝐖\le𝐖1,𝐖
+\mathbb𝐖C𝐖
+p𝐖\colon𝐖\mathbb𝐖C𝐖𝐖\to𝐖\mathbb𝐖C𝐖/𝐖\langle𝐖T_1𝐖𝐖\rangle𝐖
+p(z)𝐖=[z]𝐖.
+R_{\frac{\pi𝐖}{2}}𝐖
+\mathbb𝐖C𝐖
+\pi𝐖/2
+\mathbb𝐖C𝐖
+R_{\frac{\pi𝐖}{2}}𝐖
+R_{\frac{\pi𝐖}{2}}^{𝐖-1}𝐖𝐖.
+\pi𝐖/2,𝐖
+\pi𝐖,𝐖
+3\pi𝐖/2
+𝐖\langle𝐖R_{\frac{\pi𝐖}{2}}𝐖𝐖\rangle𝐖𝐖=\{1,𝐖R_{\frac{\pi𝐖}{2}}𝐖,𝐖R_\pi𝐖𝐖,𝐖R_{\frac{3\pi𝐖}{2}}𝐖\}𝐖.
 \{0\}
-\mathbb C
+\mathbb𝐖C𝐖
 1
-[1] =\{i, -1, -i, 1\} .
-M/G,
+[1]𝐖=\{i,𝐖𝐖-1,𝐖𝐖-i,𝐖1\}𝐖.
+M/G,𝐖
 M
-\mathbb C,
-\mathbb D,
-\mathbb S^2,
+\mathbb𝐖C𝐖,𝐖
+\mathbb𝐖D𝐖,𝐖
+\mathbb𝐖S𝐖^2𝐖,𝐖
 G
 M
-M/G .
-\mathbit H_\mathbf 1
-\mathbb C
+M/G𝐖.
+\mathbit𝐖H𝐖_\mathbf𝐖1𝐖𝐖
+\mathbb𝐖C𝐖
 a
 b
-\langle T_a, T_{bi} \rangle
-T_a (z) =z +a
-T_{bi} (z) =z +bi .
+𝐖\langle𝐖T_a𝐖,𝐖T_{bi}𝐖𝐖\rangle𝐖
+T_a𝐖(z)𝐖=z𝐖+a
+T_{bi}𝐖(z)𝐖=z𝐖+bi𝐖.
 z
 z
 z
 a
 b
-\Gamma = \langle T_a, T_{bi} \rangle
-T(z) =z +(ma +nbi)
+\Gamma𝐖𝐖=𝐖\langle𝐖T_a𝐖,𝐖T_{bi}𝐖𝐖\rangle𝐖
+T(z)𝐖=z𝐖+(ma𝐖+nbi)
 m
 n
-0, a, a +bi, bi .
+0,𝐖a,𝐖a𝐖+bi,𝐖bi𝐖.
 M
-M .
+M𝐖.
 G
 G
 G
 x
 X
-U_x
+U_x𝐖
 G
 G
-M .
+M𝐖.
 G
 r
-\frac{2\pi r}{4},
+\frac{2\pi𝐖r}{4},𝐖
 [u]
 [v]
-\mathbb C / \langle T_a, T_{bi} \rangle
-d([u], [v]) =\min \{| z -w||z \in [u], w \in [v]\} .
+\mathbb𝐖C𝐖/𝐖\langle𝐖T_a𝐖,𝐖T_{bi}𝐖𝐖\rangle𝐖
+d([u],𝐖[v])𝐖=\min𝐖\{|𝐖z𝐖-w||z𝐖\in𝐖[u],𝐖w𝐖\in𝐖[v]\}𝐖.
 [u]
-[v] .
-\mathbb C
+[v]𝐖.
+\mathbb𝐖C𝐖
 [u]
-[v] .
+[v]𝐖.
 z
 [u]
 w
-[v] .
+[v]𝐖.
 [u]
-[v] .
+[v]𝐖.
 [u]
-[v] .
-\mathbb C .
-\mathbb P^\mathbf 2
-\mathbb S^\mathbf 2
-T_a \colon \mathbb S^2 \to \mathbb S^2
-T_a (P) = -P .
-\mathbb S^2
-T_a^{ -1} =T_a,
-T_a
-\mathbb S^2 / \langle T_a \rangle
-\mathbit H_\mathbf 2
-\mathbb D^\mathbf 2
-\pi /4
-T_a
+[v]𝐖.
+\mathbb𝐖C𝐖𝐖.
+\mathbb𝐖P𝐖^\mathbf𝐖2𝐖𝐖
+\mathbb𝐖S𝐖^\mathbf𝐖2𝐖𝐖
+T_a𝐖𝐖\colon𝐖\mathbb𝐖S𝐖^2𝐖𝐖\to𝐖\mathbb𝐖S𝐖^2𝐖
+T_a𝐖(P)𝐖=𝐖-P𝐖.
+\mathbb𝐖S𝐖^2𝐖
+T_a^{𝐖-1}𝐖𝐖=T_a𝐖,𝐖
+T_a𝐖
+\mathbb𝐖S𝐖^2𝐖/𝐖\langle𝐖T_a𝐖𝐖\rangle𝐖
+\mathbit𝐖H𝐖_\mathbf𝐖2𝐖𝐖
+\mathbb𝐖D𝐖^\mathbf𝐖2𝐖𝐖
+\pi𝐖/4
+T_a𝐖
 a
 a
 m
 b
 a
-\mscrH
-\mscrH
-\mathbb D
-T_b, T_c,
-T_d
-\mathbb D
-\mathbb D,
+\mscrH𝐖
+\mscrH𝐖
+\mathbb𝐖D𝐖
+T_b𝐖,𝐖T_c𝐖,𝐖
+T_d𝐖
+\mathbb𝐖D𝐖
+\mathbb𝐖D𝐖,𝐖
 [u]
 [v]
-d_H ([u], [v]) =\min \{d_H (z, w)|z \in [u], w \in [v]\} .
-\mathbb D .
-H_2,
-\mathbb D
-H_2,
-H_g
-g \ge 2
-C_g
-g \ge 3
-\mathbb D
-\mathbb D .
-2\pi
-\mathbb D
+d_H𝐖([u],𝐖[v])𝐖=\min𝐖\{d_H𝐖(z,𝐖w)|z𝐖\in𝐖[u],𝐖w𝐖\in𝐖[v]\}𝐖.
+\mathbb𝐖D𝐖𝐖.
+H_2𝐖,𝐖
+\mathbb𝐖D𝐖
+H_2𝐖,𝐖
+H_g𝐖
+g𝐖\ge𝐖2
+C_g𝐖
+g𝐖\ge𝐖3
+\mathbb𝐖D𝐖
+\mathbb𝐖D𝐖𝐖.
+2\pi𝐖
+\mathbb𝐖D𝐖
 M/G
 M
-\mathbb C,
-\mathbb D,
-\mathbb S^2,
+\mathbb𝐖C𝐖,𝐖
+\mathbb𝐖D𝐖,𝐖
+\mathbb𝐖S𝐖^2𝐖,𝐖
 G
 x
 M
-\mathbit x
+\mathbit𝐖x𝐖
 y
 M
-d(x, y) \le d(x, T(y))
+d(x,𝐖y)𝐖\le𝐖d(x,𝐖T(y))
 T
-G,
-d(x, y)
+G,𝐖
+d(x,𝐖y)
 M
-\mathbb C,
-\mathbb D,
-\mathbb S^2,
+\mathbb𝐖C𝐖,𝐖
+\mathbb𝐖D𝐖,𝐖
+\mathbb𝐖S𝐖^2𝐖,𝐖
 x
-M,
-M/G,
+M,𝐖
+M/G,𝐖
 M
 y
 x
 x
 T(y)
-G .
+G𝐖.
 x
 M
-x .
-x .
-\mathbb C
-2 +i,
-1 +i
-i .
-T(z) =z +2i
-r(z) =\overline{z} +(1 +2i)
-y =1
+x𝐖.
+x𝐖.
+\mathbb𝐖C𝐖
+2𝐖+i,𝐖
+1𝐖+i
+i𝐖.
+T(z)𝐖=z𝐖+2i
+r(z)𝐖=\overline{z}𝐖+(1𝐖+2i)
+y𝐖=1
 A
 T
-r .
-\Gamma
+r𝐖.
+\Gamma𝐖
 T
-r,
-\mathbb C /\Gamma
-\mathbb C .
+r,𝐖
+\mathbb𝐖C𝐖/\Gamma𝐖
+\mathbb𝐖C𝐖𝐖.
 a
 b
 a
 b
 x
 x'
-x,
-xx' .
-x .
+x,𝐖
+xx'𝐖.
+x𝐖.
 a
 b
-C_3
-\mathbb D
-\mathbb D .
+C_3𝐖
+\mathbb𝐖D𝐖
+\mathbb𝐖D𝐖𝐖.
 g
-H_g
-\mathbb D
-g \ge 2 .
+H_g𝐖
+\mathbb𝐖D𝐖
+g𝐖\ge𝐖2𝐖.
 z
-Im(z) =1/2,
+Im(z)𝐖=1/2,𝐖
 z
-Im(z) =0
+Im(z)𝐖=0
 z
-w .
+w𝐖.
 c
 a
 b
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb R^3
-(x, y, z),
-\mathbb R^3,
-\mathbit v
-\mathbb R^3 .
-\mathbb R^3
-\mathbb R^3 .
-\mathbit v =(x_1, y_1, z_1)
-\mathbit w =(x_2, y_2, z_2)
-| \mathbit v -\mathbit w | =\sqrt{(x_1 -x_2)^2 +(y_1 -y_2)^2 +(z_1 -z_2)^2} .
-\mathbb R^3
-\mathbb H^3
-\mathbb R^3 .
-\mathbb H^3 =\{(x, y, z) \in \mathbb R^3 |x^2 +y^2 +z^2 \lt 1\} .
-\mathbb S^2
-\mathbb H^3,
-\mathbb H^3 .
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖R𝐖^3𝐖
+(x,𝐖y,𝐖z),𝐖
+\mathbb𝐖R𝐖^3𝐖,𝐖
+\mathbit𝐖v𝐖
+\mathbb𝐖R𝐖^3𝐖𝐖.
+\mathbb𝐖R𝐖^3𝐖
+\mathbb𝐖R𝐖^3𝐖𝐖.
+\mathbit𝐖v𝐖𝐖=(x_1𝐖,𝐖y_1𝐖,𝐖z_1𝐖)
+\mathbit𝐖w𝐖𝐖=(x_2𝐖,𝐖y_2𝐖,𝐖z_2𝐖)
+|𝐖\mathbit𝐖v𝐖𝐖-\mathbit𝐖w𝐖|𝐖=\sqrt{(x_1𝐖𝐖-x_2𝐖)^2𝐖𝐖+(y_1𝐖𝐖-y_2𝐖)^2𝐖𝐖+(z_1𝐖𝐖-z_2𝐖)^2𝐖}𝐖.
+\mathbb𝐖R𝐖^3𝐖
+\mathbb𝐖H𝐖^3𝐖
+\mathbb𝐖R𝐖^3𝐖𝐖.
+\mathbb𝐖H𝐖^3𝐖𝐖=\{(x,𝐖y,𝐖z)𝐖\in𝐖\mathbb𝐖R𝐖^3𝐖|x^2𝐖𝐖+y^2𝐖𝐖+z^2𝐖𝐖\lt𝐖1\}𝐖.
+\mathbb𝐖S𝐖^2𝐖
+\mathbb𝐖H𝐖^3𝐖,𝐖
+\mathbb𝐖H𝐖^3𝐖𝐖.
 S
-\mathbb R^3
-\mathbit v_\mathbf 0
-r,
-\mathbit v
-\mathbb R^3 .
-\mathbit v
+\mathbb𝐖R𝐖^3𝐖
+\mathbit𝐖v𝐖_\mathbf𝐖0𝐖𝐖
+r,𝐖
+\mathbit𝐖v𝐖
+\mathbb𝐖R𝐖^3𝐖𝐖.
+\mathbit𝐖v𝐖
 S
-\mathbit v^\ast
-\vec{\mathbit v_\mathbf 0 \mathbit v}
-| \mathbit v -\mathbit v_\mathbf 0 || \mathbit v^\ast -\mathbit v_\mathbf 0 | =r^2 .
+\mathbit𝐖v𝐖^\ast𝐖𝐖
+\vec{\mathbit𝐖v𝐖_\mathbf𝐖0𝐖𝐖\mathbit𝐖v𝐖}
+|𝐖\mathbit𝐖v𝐖𝐖-\mathbit𝐖v𝐖_\mathbf𝐖0𝐖𝐖||𝐖\mathbit𝐖v𝐖^\ast𝐖𝐖𝐖-\mathbit𝐖v𝐖_\mathbf𝐖0𝐖𝐖|𝐖=r^2𝐖𝐖.
 S
 S
-\mathbb S_\infty^2
-\mathbb H^3 .
-\mathbb H^3
+\mathbb𝐖S𝐖_\infty𝐖^2𝐖
+\mathbb𝐖H𝐖^3𝐖𝐖.
+\mathbb𝐖H𝐖^3𝐖
 L
-\mathbb H^3 .
-\mathbb H^3
-\mathbb H^3
-P_1
-P_2
-\mathbb H^3,
-\mathbb H^3,
-\mathbb S^3
-\mathbb R^4 .
-\mathbb S^3 =\{(x, y, z, w) \in \mathbb R^4 |x^2 +y^2 +z^2 +w^2 =1\} .
-\mathbb S^3
-\mathbb S^3
-\mathbb S^3,
-\mathbb R^4
-a +b\mathbf i +c\mathbf j +d\mathbf k
-a, b, c, d
-\mathbf i, \mathbf j,
-\mathbf k
-\mathbf i^2 =\mathbf j^2 =\mathbf k^2 = -1
-\mathbf i \mathbf j \mathbf k = -1 .
+\mathbb𝐖H𝐖^3𝐖𝐖.
+\mathbb𝐖H𝐖^3𝐖
+\mathbb𝐖H𝐖^3𝐖
+P_1𝐖
+P_2𝐖
+\mathbb𝐖H𝐖^3𝐖,𝐖
+\mathbb𝐖H𝐖^3𝐖,𝐖
+\mathbb𝐖S𝐖^3𝐖
+\mathbb𝐖R𝐖^4𝐖𝐖.
+\mathbb𝐖S𝐖^3𝐖𝐖=\{(x,𝐖y,𝐖z,𝐖w)𝐖\in𝐖\mathbb𝐖R𝐖^4𝐖|x^2𝐖𝐖+y^2𝐖𝐖+z^2𝐖𝐖+w^2𝐖𝐖=1\}𝐖.
+\mathbb𝐖S𝐖^3𝐖
+\mathbb𝐖S𝐖^3𝐖
+\mathbb𝐖S𝐖^3𝐖,𝐖
+\mathbb𝐖R𝐖^4𝐖
+a𝐖+b\mathbf𝐖i𝐖𝐖+c\mathbf𝐖j𝐖𝐖+d\mathbf𝐖k𝐖
+a,𝐖b,𝐖c,𝐖d
+\mathbf𝐖i𝐖,𝐖\mathbf𝐖j𝐖,𝐖
+\mathbf𝐖k𝐖
+\mathbf𝐖i𝐖^2𝐖𝐖=\mathbf𝐖j𝐖^2𝐖𝐖=\mathbf𝐖k𝐖^2𝐖𝐖=𝐖-1
+\mathbf𝐖i𝐖\mathbf𝐖j𝐖\mathbf𝐖k𝐖𝐖=𝐖-1𝐖.
 a
-q =a +b\mathbf i +c\mathbf j +d\mathbf k .
+q𝐖=a𝐖+b\mathbf𝐖i𝐖𝐖+c\mathbf𝐖j𝐖𝐖+d\mathbf𝐖k𝐖𝐖.
 q
-| q| =\sqrt{a^2 +b^2 +c^2 +d^2} .
+|𝐖q|𝐖=\sqrt{a^2𝐖𝐖+b^2𝐖𝐖+c^2𝐖𝐖+d^2𝐖}𝐖.
 q
-| q| =1 .
-q,
-q^\ast,
-q^\ast =a -b\mathbf i -c\mathbf j -d\mathbf k .
-q \cdot q^\ast =| q|^2 .
-\mathbb S^3
+|𝐖q|𝐖=1𝐖.
+q,𝐖
+q^\ast𝐖𝐖,𝐖
+q^\ast𝐖𝐖𝐖=a𝐖-b\mathbf𝐖i𝐖𝐖-c\mathbf𝐖j𝐖𝐖-d\mathbf𝐖k𝐖𝐖.
+q𝐖\cdot𝐖q^\ast𝐖𝐖𝐖=|𝐖q|^2𝐖𝐖.
+\mathbb𝐖S𝐖^3𝐖
 u
-v,
-T \colon \mathbb S^3 \to \mathbb S^3
-T(q) =uqv
-\mathbb S^3
-\mathbb R^4 .
-\mathbb R^3,
-\pi
-\mathbb S^3
-\pi
-\mathbb H^3
-\pi
-\mathbb H^3
-\mathbb H^3
-\mathbb S^3
-\mathbb T^3
-T_x, T_y, T_z
-\mathbb R^3
+v,𝐖
+T𝐖\colon𝐖\mathbb𝐖S𝐖^3𝐖𝐖\to𝐖\mathbb𝐖S𝐖^3𝐖
+T(q)𝐖=uqv
+\mathbb𝐖S𝐖^3𝐖
+\mathbb𝐖R𝐖^4𝐖𝐖.
+\mathbb𝐖R𝐖^3𝐖,𝐖
+\pi𝐖
+\mathbb𝐖S𝐖^3𝐖
+\pi𝐖
+\mathbb𝐖H𝐖^3𝐖
+\pi𝐖
+\mathbb𝐖H𝐖^3𝐖
+\mathbb𝐖H𝐖^3𝐖
+\mathbb𝐖S𝐖^3𝐖
+\mathbb𝐖T𝐖^3𝐖
+T_x𝐖,𝐖T_y𝐖,𝐖T_z𝐖
+\mathbb𝐖R𝐖^3𝐖
 x
 y
 z
-T_x (x, y, z) =(x +1, y, z),
-T_y (x, y, z) =(x, y +1, z)
-T_z (x, y, z) =(x, y, z +1) .
-\Gamma
-\mathbb R^3,
-T(x, y, z) =(x +a, y +b, z +c)
-a, b, c
-\mathbb R^3 /\Gamma
-\mathbb I^3 =\{(x, y, z)|0 \le x, y, z \le 1\},
-\Gamma
-\mathbb R^3 .
-\mathbb R^3
-\mathbb S^3 =\{(x, y, z, w)|x^2 +y^2 +z^2 +w^2 =1\} .
-\mathbb S^3
-\mathbb R^3
+T_x𝐖(x,𝐖y,𝐖z)𝐖=(x𝐖+1,𝐖y,𝐖z),𝐖
+T_y𝐖(x,𝐖y,𝐖z)𝐖=(x,𝐖y𝐖+1,𝐖z)
+T_z𝐖(x,𝐖y,𝐖z)𝐖=(x,𝐖y,𝐖z𝐖+1)𝐖.
+\Gamma𝐖
+\mathbb𝐖R𝐖^3𝐖,𝐖
+T(x,𝐖y,𝐖z)𝐖=(x𝐖+a,𝐖y𝐖+b,𝐖z𝐖+c)
+a,𝐖b,𝐖c
+\mathbb𝐖R𝐖^3𝐖/\Gamma𝐖
+\mathbb𝐖I𝐖^3𝐖𝐖=\{(x,𝐖y,𝐖z)|0𝐖\le𝐖x,𝐖y,𝐖z𝐖\le𝐖1\},𝐖
+\Gamma𝐖
+\mathbb𝐖R𝐖^3𝐖𝐖.
+\mathbb𝐖R𝐖^3𝐖
+\mathbb𝐖S𝐖^3𝐖𝐖=\{(x,𝐖y,𝐖z,𝐖w)|x^2𝐖𝐖+y^2𝐖𝐖+z^2𝐖𝐖+w^2𝐖𝐖=1\}𝐖.
+\mathbb𝐖S𝐖^3𝐖
+\mathbb𝐖R𝐖^3𝐖
 a
 b
-\mathbb S^3
+\mathbb𝐖S𝐖^3𝐖
 p
 p
 p
-\mathbb R^3,
-\mathbb R^3,
-\mathbb S^3
-\mathbb S^3 .
-\mathbb S^3 .
-\mathbb S^3
-\mathbb R^3
-\infty,
-\mathbb S^2
-\hat{\mathbb R^3}
-\mathbb R^3
+\mathbb𝐖R𝐖^3𝐖,𝐖
+\mathbb𝐖R𝐖^3𝐖,𝐖
+\mathbb𝐖S𝐖^3𝐖
+\mathbb𝐖S𝐖^3𝐖𝐖.
+\mathbb𝐖S𝐖^3𝐖𝐖.
+\mathbb𝐖S𝐖^3𝐖
+\mathbb𝐖R𝐖^3𝐖
+\infty𝐖,𝐖
+\mathbb𝐖S𝐖^2𝐖
+𝐖\hat{\mathbb𝐖R𝐖^3𝐖}𝐖
+\mathbb𝐖R𝐖^3𝐖
 q
-q =b\mathbf i +c\mathbf j +d\mathbf k .
-(x, y, z)
-\mathbb R^3
-q =x\mathbf i +y\mathbf j +z\mathbf k .
-N =(0, 0, 0, 1)
-\mathbb S^3 .
-P =(a, b, c, d)
-\mathbb S^3
-N,
+q𝐖=b\mathbf𝐖i𝐖𝐖+c\mathbf𝐖j𝐖𝐖+d\mathbf𝐖k𝐖𝐖.
+(x,𝐖y,𝐖z)
+\mathbb𝐖R𝐖^3𝐖
+q𝐖=x\mathbf𝐖i𝐖𝐖+y\mathbf𝐖j𝐖𝐖+z\mathbf𝐖k𝐖𝐖.
+N𝐖=(0,𝐖0,𝐖0,𝐖1)
+\mathbb𝐖S𝐖^3𝐖𝐖.
+P𝐖=(a,𝐖b,𝐖c,𝐖d)
+\mathbb𝐖S𝐖^3𝐖
+N,𝐖
 N
-P .
-\mathcal L (t) = \langle 0, 0, 0, 1 \rangle +t \langle a, b, c, d -1 \rangle .
+P𝐖.
+\mathcal𝐖L𝐖(t)𝐖=𝐖\langle𝐖0,𝐖0,𝐖0,𝐖1𝐖\rangle𝐖𝐖+t𝐖\langle𝐖a,𝐖b,𝐖c,𝐖d𝐖-1𝐖\rangle𝐖𝐖.
 P
-(x, y, z, 0)
-\mathbb R^4 .
-1 +t(d -1) =0,
-t =\frac{1}{1 -d} .
-\phi \colon \mathbb S^3 \to \hat{\mathbb R^3}
-\phi ((a, b, c, d)) =\{\frac{a}{1 -d}\mathbf i +\frac{b}{1 -d}\mathbf j +\frac{c}{1 -d}\mathbf k & \~if\~d \not= 1;\~ \\ \infty & \~if\~d =1.\~ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
-P =(a, b, c, d)
--P =( -a, -b, -c, -d)
-\phi
-\mathbb R^3
-q =\phi (P)
-u =\phi ( -P)
-q \cdot u^\ast = -1 .
+(x,𝐖y,𝐖z,𝐖0)
+\mathbb𝐖R𝐖^4𝐖𝐖.
+1𝐖+t(d𝐖-1)𝐖=0,𝐖
+t𝐖=\frac{1}{1𝐖-d}𝐖.
+\phi𝐖𝐖\colon𝐖\mathbb𝐖S𝐖^3𝐖𝐖\to𝐖𝐖\hat{\mathbb𝐖R𝐖^3𝐖}𝐖
+\phi𝐖((a,𝐖b,𝐖c,𝐖d))𝐖=\{\frac{a}{1𝐖-d}\mathbf𝐖i𝐖𝐖+\frac{b}{1𝐖-d}\mathbf𝐖j𝐖𝐖+\frac{c}{1𝐖-d}\mathbf𝐖k𝐖𝐖&𝐖\~if\~d𝐖\not=𝐖1;\~𝐖\\𝐖\infty𝐖𝐖&𝐖\~if\~d𝐖=1.\~𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
+P𝐖=(a,𝐖b,𝐖c,𝐖d)
+𝐖-P𝐖=(𝐖-a,𝐖𝐖-b,𝐖𝐖-c,𝐖𝐖-d)
+\phi𝐖
+\mathbb𝐖R𝐖^3𝐖
+q𝐖=\phi𝐖(P)
+u𝐖=\phi𝐖(𝐖-P)
+q𝐖\cdot𝐖u^\ast𝐖𝐖𝐖=𝐖-1𝐖.
 q
 u
-\hat{\mathbb R^3}
-q \cdot u^\ast = -1 .
-\mathbb R^3
-2\pi /10
-\mathbb S^3
-\mathbb R^3,
-\mathbb S^3 .
-\mathbb S^3
-L(p, q)
-p >q
-\mathbb R^3
-(x, y, z)
-x^2 +y^2 +z^2 \le 1 .
-(z, t)
+𝐖\hat{\mathbb𝐖R𝐖^3𝐖}𝐖
+q𝐖\cdot𝐖u^\ast𝐖𝐖𝐖=𝐖-1𝐖.
+\mathbb𝐖R𝐖^3𝐖
+2\pi𝐖/10
+\mathbb𝐖S𝐖^3𝐖
+\mathbb𝐖R𝐖^3𝐖,𝐖
+\mathbb𝐖S𝐖^3𝐖𝐖.
+\mathbb𝐖S𝐖^3𝐖
+L(p,𝐖q)
+p𝐖>q
+\mathbb𝐖R𝐖^3𝐖
+(x,𝐖y,𝐖z)
+x^2𝐖𝐖+y^2𝐖𝐖+z^2𝐖𝐖\le𝐖1𝐖.
+(z,𝐖t)
 z
 t
-| z|^2 +t^2 =1 .
-\mathbit L (\mathbit p, \mathbit q)
-(z, t)
-(e^{(2\pi q/p)i} z, -t) .
-(0, 1)
-(0, -1) .
+|𝐖z|^2𝐖𝐖+t^2𝐖𝐖=1𝐖.
+\mathbit𝐖L𝐖(\mathbit𝐖p𝐖,𝐖\mathbit𝐖q𝐖)
+(z,𝐖t)
+(e^{(2\pi𝐖q/p)i}𝐖z,𝐖𝐖-t)𝐖.
+(0,𝐖1)
+(0,𝐖𝐖-1)𝐖.
 u
 u
 xy
 z
-2\pi q/p
-p -1
-L(p, q)
-p +2
-n,
-s,
+2\pi𝐖q/p
+p𝐖-1
+L(p,𝐖q)
+p𝐖+2
+n,𝐖
+s,𝐖
 p
-v_0, v_1, \cdots, v_{p -1} .
-p =5 .
-v_i
+v_0𝐖,𝐖v_1𝐖,𝐖\cdots𝐖,𝐖v_{p𝐖-1}𝐖𝐖.
+p𝐖=5𝐖.
+v_i𝐖
 p
-v_i
+v_i𝐖
 n
-v_i
-s,
+v_i𝐖
+s,𝐖
 3p
 p
-N_i
-v_i, v_{i +1}, n .
-S_i
-v_i, v_{i +1},
-s .
-L(p, q)
-N_i
-S_{i +q}
-i +q
-p .
-L(5, 2),
-N_0
-S_2
-N_0
-S_2
-N_1
-S_3
-N_2
-S_4,
-N_3
-S_0
-N_4
-S_1 .
+N_i𝐖
+v_i𝐖,𝐖v_{i𝐖+1}𝐖,𝐖n𝐖.
+S_i𝐖
+v_i𝐖,𝐖v_{i𝐖+1}𝐖,𝐖
+s𝐖.
+L(p,𝐖q)
+N_i𝐖
+S_{i𝐖+q}𝐖
+i𝐖+q
+p𝐖.
+L(5,𝐖2),𝐖
+N_0𝐖
+S_2𝐖
+N_0𝐖
+S_2𝐖
+N_1𝐖
+S_3𝐖
+N_2𝐖
+S_4𝐖,𝐖
+N_3𝐖
+S_0𝐖
+N_4𝐖
+S_1𝐖𝐖.
 180\circ
-\mathbb R^3 .
-T_1
+\mathbb𝐖R𝐖^3𝐖𝐖.
+T_1𝐖
 180\circ
-T_2
-T_2
-T_3
+T_2𝐖
+T_2𝐖
+T_3𝐖
 180\circ
-\mathbb R^3
-\mathbb R^3
-\mathbb R^3
+\mathbb𝐖R𝐖^3𝐖
+\mathbb𝐖R𝐖^3𝐖
+\mathbb𝐖R𝐖^3𝐖
 90\circ
 180\circ
-\mathbb R^3 .
-120\circ,
-60\circ,
-\mathbf i \mathbf j =\mathbf k,
-\mathbf j \mathbf k =\mathbf i,
-\mathbf k \mathbf i =\mathbf j .
-\mathbf j \mathbf i = -\mathbf k,
-\mathbf k \mathbf j = -\mathbf i,
-\mathbf i \mathbf k = -\mathbf j .
-q =a +b\mathbf i +c\mathbf j +d\mathbf k
-q^\ast =a -b\mathbf i -c\mathbf j -d\mathbf k .
+\mathbb𝐖R𝐖^3𝐖𝐖.
+120\circ,𝐖
+60\circ,𝐖
+\mathbf𝐖i𝐖\mathbf𝐖j𝐖𝐖=\mathbf𝐖k𝐖,𝐖
+\mathbf𝐖j𝐖\mathbf𝐖k𝐖𝐖=\mathbf𝐖i𝐖,𝐖
+\mathbf𝐖k𝐖\mathbf𝐖i𝐖𝐖=\mathbf𝐖j𝐖𝐖.
+\mathbf𝐖j𝐖\mathbf𝐖i𝐖𝐖=𝐖-\mathbf𝐖k𝐖,𝐖
+\mathbf𝐖k𝐖\mathbf𝐖j𝐖𝐖=𝐖-\mathbf𝐖i𝐖,𝐖
+\mathbf𝐖i𝐖\mathbf𝐖k𝐖𝐖=𝐖-\mathbf𝐖j𝐖𝐖.
+q𝐖=a𝐖+b\mathbf𝐖i𝐖𝐖+c\mathbf𝐖j𝐖𝐖+d\mathbf𝐖k𝐖
+q^\ast𝐖𝐖𝐖=a𝐖-b\mathbf𝐖i𝐖𝐖-c\mathbf𝐖j𝐖𝐖-d\mathbf𝐖k𝐖𝐖.
 q
-| q| =\sqrt{a^2 +b^2 +c^2 +d^2} .
-q \cdot q^\ast =| q|^2
-| uv| =| u| \cdot | v|
-T(q) =uqv
-u, q, v
-\mathbb S^3
-\mathbb S^3 .
-P =(a, b, c, d)
--P =( -a, -b, -c, -d)
-\mathbb S^3 .
-\phi (P) \cdot \phi ( -P)^\ast = -1,
-\phi \colon \mathbb S^3 \to \hat{\mathbb R^3}
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-10^{ -30}
-\pi
-\rho,
+|𝐖q|𝐖=\sqrt{a^2𝐖𝐖+b^2𝐖𝐖+c^2𝐖𝐖+d^2𝐖}𝐖.
+q𝐖\cdot𝐖q^\ast𝐖𝐖𝐖=|𝐖q|^2𝐖
+|𝐖uv|𝐖=|𝐖u|𝐖\cdot𝐖|𝐖v|
+T(q)𝐖=uqv
+u,𝐖q,𝐖v
+\mathbb𝐖S𝐖^3𝐖
+\mathbb𝐖S𝐖^3𝐖𝐖.
+P𝐖=(a,𝐖b,𝐖c,𝐖d)
+𝐖-P𝐖=(𝐖-a,𝐖𝐖-b,𝐖𝐖-c,𝐖𝐖-d)
+\mathbb𝐖S𝐖^3𝐖𝐖.
+\phi𝐖(P)𝐖\cdot𝐖\phi𝐖(𝐖-P)^\ast𝐖𝐖𝐖=𝐖-1,𝐖
+\phi𝐖𝐖\colon𝐖\mathbb𝐖S𝐖^3𝐖𝐖\to𝐖𝐖\hat{\mathbb𝐖R𝐖^3𝐖}𝐖
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+10^{𝐖-30}𝐖
+\pi𝐖
+\rho𝐖,𝐖
 k
-H^2 =\frac{8\pi G}{3}\rho -\frac{k}{a^2} .
+H^2𝐖𝐖=\frac{8\pi𝐖G}{3}\rho𝐖𝐖-\frac{k}{a^2𝐖}𝐖.
 G
 H
-k = -1, 0,
+k𝐖=𝐖-1,𝐖0,𝐖
 1
 a
 a
 H
 H
-k =0
-\rho
-\rho_c =\frac{3H^2}{8\pi G} .
-1.7 \times 10^{ -29}
-\Omega
-\rho
-\rho_c .
-\Omega =\frac{\rho}{\rho_c} .
-\Omega \lt 1
-\Omega >1
-\Omega =1
-\Omega
-\Omega
-\Omega
-\Omega =1.0045 \pm .013 .
-\rho_M,
-\rho_\Lambda,
-H^2 =\frac{8\pi G}{3}(\rho_M +\rho_\Lambda) -\frac{k}{a^2}
-H^2
-1 =\frac{8\pi G}{3H^2}\rho_M +\frac{8\pi G}{3H^2}\rho_\Lambda -\frac{k}{(aH)^2} .
-\Omega_M =\frac{\rho_M}{\rho_c}, \Omega_\Lambda =\frac{\rho_\Lambda}{\rho_c}, \Omega_k =\frac{ -k}{(aH)^2} .
-1 =\Omega_M +\Omega_\Lambda +\Omega_k
-\Omega_k \approx 0,
--0.0066 \lt \Omega_k \lt 0.0011,
-\Omega_\Lambda \approx .72
-\Omega_M \approx 0.28 .
-\Omega >1
-\Omega =1,
-\Omega \lt 1,
-0.25% .
-\Omega_k
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb R^3
-(\theta_1, \phi_1)
-(\theta_2, \phi_2),
-\alpha
-\beta .
-\beta \not= 0
-r_{inj},
-r_{obs}
-r_{inj} .
+k𝐖=0
+\rho𝐖
+\rho𝐖_c𝐖𝐖=\frac{3H^2𝐖}{8\pi𝐖G}𝐖.
+1.7𝐖\times𝐖10^{𝐖-29}𝐖
+\Omega𝐖
+\rho𝐖
+\rho𝐖_c𝐖𝐖.
+\Omega𝐖𝐖=\frac{\rho𝐖}{\rho𝐖_c𝐖}𝐖.
+\Omega𝐖𝐖\lt𝐖1
+\Omega𝐖𝐖>1
+\Omega𝐖𝐖=1
+\Omega𝐖
+\Omega𝐖
+\Omega𝐖
+\Omega𝐖𝐖=1.0045𝐖\pm𝐖.013𝐖.
+\rho𝐖_M𝐖,𝐖
+\rho𝐖_\Lambda𝐖𝐖,𝐖
+H^2𝐖𝐖=\frac{8\pi𝐖G}{3}(\rho𝐖_M𝐖𝐖+\rho𝐖_\Lambda𝐖𝐖)𝐖-\frac{k}{a^2𝐖}
+H^2𝐖
+1𝐖=\frac{8\pi𝐖G}{3H^2𝐖}\rho𝐖_M𝐖𝐖+\frac{8\pi𝐖G}{3H^2𝐖}\rho𝐖_\Lambda𝐖𝐖𝐖-\frac{k}{(aH)^2𝐖}𝐖.
+\Omega𝐖_M𝐖𝐖=\frac{\rho𝐖_M𝐖}{\rho𝐖_c𝐖},𝐖\Omega𝐖_\Lambda𝐖𝐖𝐖=\frac{\rho𝐖_\Lambda𝐖𝐖}{\rho𝐖_c𝐖},𝐖\Omega𝐖_k𝐖𝐖=\frac{𝐖-k}{(aH)^2𝐖}𝐖.
+1𝐖=\Omega𝐖_M𝐖𝐖+\Omega𝐖_\Lambda𝐖𝐖𝐖+\Omega𝐖_k𝐖
+\Omega𝐖_k𝐖𝐖\approx𝐖0,𝐖
+𝐖-0.0066𝐖\lt𝐖\Omega𝐖_k𝐖𝐖\lt𝐖0.0011,𝐖
+\Omega𝐖_\Lambda𝐖𝐖𝐖\approx𝐖.72
+\Omega𝐖_M𝐖𝐖\approx𝐖0.28𝐖.
+\Omega𝐖𝐖>1
+\Omega𝐖𝐖=1,𝐖
+\Omega𝐖𝐖\lt𝐖1,𝐖
+0.25%𝐖.
+\Omega𝐖_k𝐖
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖R𝐖^3𝐖
+(\theta𝐖_1𝐖,𝐖\phi𝐖_1𝐖)
+(\theta𝐖_2𝐖,𝐖\phi𝐖_2𝐖),𝐖
+\alpha𝐖
+\beta𝐖𝐖.
+\beta𝐖𝐖\not=𝐖0
+r_{inj}𝐖,𝐖
+r_{obs}𝐖
+r_{inj}𝐖𝐖.
 a
 b
 c
-\mathbb R^3,
-a \lt b \lt c .
-a/2 .
-r_{obs},
+\mathbb𝐖R𝐖^3𝐖,𝐖
+a𝐖\lt𝐖b𝐖\lt𝐖c𝐖.
+a/2𝐖.
+r_{obs}𝐖,𝐖
 a/2
-b/2 .
-E,
-C_1,
-C_2
-36\circ .
-E,
-C_1
-C_2
-36\circ .
-r_{inj}
-24 \times 3.26 \times 10^9 \approx 78
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
+b/2𝐖.
+E,𝐖
+C_1𝐖,𝐖
+C_2𝐖
+36\circ𝐖.
+E,𝐖
+C_1𝐖
+C_2𝐖
+36\circ𝐖.
+r_{inj}𝐖
+24𝐖\times𝐖3.26𝐖\times𝐖10^9𝐖𝐖\approx𝐖78
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
 xy
-ax +by +d =0 .
-z =x +yi .
-\beta =s +ti,
-\beta z +\overline{\beta z} & \lt mi/> =[(sx -ty) +(sy +tx)i] +[(sx -ty) -(sy +tx)i] \\ \~ & \lt mi/> =2sx -2ty .
-ax +by +d =0
-(equation\space of\space a\space line) & \alpha z +\overline{\alpha z} +d =0
-\alpha =\frac{1}{2}(a -bi)
+ax𝐖+by𝐖+d𝐖=0𝐖.
+z𝐖=x𝐖+yi𝐖.
+\beta𝐖𝐖=s𝐖+ti,𝐖
+\beta𝐖z𝐖+\overline{\beta𝐖z}𝐖&𝐖\lt𝐖mi/>𝐖=[(sx𝐖-ty)𝐖+(sy𝐖+tx)i]𝐖+[(sx𝐖-ty)𝐖-(sy𝐖+tx)i]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=2sx𝐖-2ty𝐖.
+ax𝐖+by𝐖+d𝐖=0
+(equation\space𝐖of\space𝐖a\space𝐖line)𝐖&𝐖\alpha𝐖z𝐖+\overline{\alpha𝐖z}𝐖+d𝐖=0
+\alpha𝐖𝐖=\frac{1}{2}(a𝐖-bi)
 d
-\alpha
-d,
-\alpha z +\overline{\alpha z} +d =0
-\mathbb C .
-\mathbb C
-\mathbb C
-| z -\gamma | =| z -\beta |
-\gamma
-\beta
-\mathbb C,
-\gamma
-\beta
-z_0
-z^2 =z_0 .
+\alpha𝐖
+d,𝐖
+\alpha𝐖z𝐖+\overline{\alpha𝐖z}𝐖+d𝐖=0
+\mathbb𝐖C𝐖𝐖.
+\mathbb𝐖C𝐖
+\mathbb𝐖C𝐖
+|𝐖z𝐖-\gamma𝐖|𝐖=|𝐖z𝐖-\beta𝐖|
+\gamma𝐖
+\beta𝐖
+\mathbb𝐖C𝐖,𝐖
+\gamma𝐖
+\beta𝐖
+z_0𝐖
+z^2𝐖𝐖=z_0𝐖𝐖.
 z
-z_0
-\sqrt{z_0} .
-z_0 =r_0 e^{i\theta_0}
-r_0 \ge 0,
-z =re^{i\theta}
-z^2 =z_0
-re^{i\theta} \cdot re^{i\theta} =r_0 e^{i\theta_0} .
+z_0𝐖
+\sqrt{z_0𝐖}𝐖.
+z_0𝐖𝐖=r_0𝐖e^{i\theta𝐖_0𝐖}𝐖
+r_0𝐖𝐖\ge𝐖0,𝐖
+z𝐖=re^{i\theta𝐖}𝐖
+z^2𝐖𝐖=z_0𝐖
+re^{i\theta𝐖}𝐖𝐖\cdot𝐖re^{i\theta𝐖}𝐖𝐖=r_0𝐖e^{i\theta𝐖_0𝐖}𝐖𝐖.
 z
-r^2 =r_0
-2\theta =\theta_0
-2\pi
-r_0
-z_0
-\pm \sqrt{r_0}e^{i\theta_0 /2} .
-z^2 =i
-i =1e^{i\pi /2},
-\sqrt{i} = \pm e^{i\pi /4} .
-\sqrt{i} = \pm (\frac{\sqrt{2}}{2} +\frac{\sqrt{2}}{2}i) .
-\alpha z^2 +\beta z +\gamma =0
-\alpha,
-\beta,
-\gamma
-z =\frac{ -\beta \pm \sqrt{\beta^2 -4\alpha \gamma}}{2\alpha} .
-z^2 +2z +4 =0
-z =\frac{ -2 \pm \sqrt{ -12}}{2} = -1 \pm \sqrt{3}i
-\sqrt{ -1} =i .
-z^2 -(3 +3i)z =2 -3i .
+r^2𝐖𝐖=r_0𝐖
+2\theta𝐖𝐖=\theta𝐖_0𝐖
+2\pi𝐖
+r_0𝐖
+z_0𝐖
+𝐖\pm𝐖\sqrt{r_0𝐖}e^{i\theta𝐖_0𝐖/2}𝐖𝐖.
+z^2𝐖𝐖=i
+i𝐖=1e^{i\pi𝐖/2}𝐖,𝐖
+\sqrt{i}𝐖=𝐖\pm𝐖e^{i\pi𝐖/4}𝐖𝐖.
+\sqrt{i}𝐖=𝐖\pm𝐖(\frac{\sqrt{2}}{2}𝐖+\frac{\sqrt{2}}{2}i)𝐖.
+\alpha𝐖z^2𝐖𝐖+\beta𝐖z𝐖+\gamma𝐖𝐖=0
+\alpha𝐖,𝐖
+\beta𝐖,𝐖
+\gamma𝐖
+z𝐖=\frac{𝐖-\beta𝐖𝐖\pm𝐖\sqrt{\beta𝐖^2𝐖𝐖-4\alpha𝐖\gamma𝐖}}{2\alpha𝐖}𝐖.
+z^2𝐖𝐖+2z𝐖+4𝐖=0
+z𝐖=\frac{𝐖-2𝐖\pm𝐖\sqrt{𝐖-12}}{2}𝐖=𝐖-1𝐖\pm𝐖\sqrt{3}i
+\sqrt{𝐖-1}𝐖=i𝐖.
+z^2𝐖𝐖-(3𝐖+3i)z𝐖=2𝐖-3i𝐖.
 z
-z^2 -(3 +3i)z -(2 -3i) =0 .
-\alpha =1,
-\beta = -(3 +3i),
-\gamma = -(2 -3i),
-z & \lt mi/> =\frac{3 +3i \pm \sqrt{(3 +3i)^2 +4(2 -3i)}}{2} \\ z & \lt mi/> =\frac{3 +3i \pm \sqrt{8 +6i}}{2} .
-\sqrt{8 +6i} .
-x +yi =\sqrt{8 +6i}
+z^2𝐖𝐖-(3𝐖+3i)z𝐖-(2𝐖-3i)𝐖=0𝐖.
+\alpha𝐖𝐖=1,𝐖
+\beta𝐖𝐖=𝐖-(3𝐖+3i),𝐖
+\gamma𝐖𝐖=𝐖-(2𝐖-3i),𝐖
+z𝐖&𝐖\lt𝐖mi/>𝐖=\frac{3𝐖+3i𝐖\pm𝐖\sqrt{(3𝐖+3i)^2𝐖𝐖+4(2𝐖-3i)}}{2}𝐖\\𝐖z𝐖&𝐖\lt𝐖mi/>𝐖=\frac{3𝐖+3i𝐖\pm𝐖\sqrt{8𝐖+6i}}{2}𝐖.
+\sqrt{8𝐖+6i}𝐖.
+x𝐖+yi𝐖=\sqrt{8𝐖+6i}
 x
 y
-x +yi & \lt mi/> =\sqrt{8 +6i} \\ (x +yi)^2 & \lt mi/> =8 +6i \\ x^2 -y^2 +2xyi & \lt mi/> =8 +6i .
-(1) & x^2 -y^2 & \lt mi/> =8 \\ (2) & 2xy & \lt mi/> =6.
-x^2 +y^2 =| x +yi|^2 =| (x +yi)^2 | =| 8 +6i| =10,
-(3) & x^2 +y^2 & \lt mi/> =10.
-x^2 =9
-x = \pm 3 .
-x =3
-y =1;
-x = -3
-y = -1 .
-\sqrt{8 +6i} = \pm (3 +i) .
-\sqrt{8 +6i} .
-8 +6i =10e^{i\theta}
-\sqrt{8 +6i} = \pm \sqrt{10}e^{i\theta /2},
-\theta /2 .
-\tan (\theta /2)
-\tan (\theta /2) =\frac{\sin (\theta)}{1 +\cos (\theta)} .
-\sin (\theta) =3/5
-\cos (\theta) =4/5,
-\tan (\theta /2) =1/3 .
-re^{i\theta /2}
-k(3 +i)
-k .
-\sqrt{8 +6i}
-\sqrt{8 +6i} =k(3 +i)
-k .
-| \sqrt{8 +6i}| =\sqrt{10},
-| k(3 +i)| =\sqrt{10},
-k = \pm 1 .
-\sqrt{8 +6i} = \pm (3 +i) .
-z & \lt mi/> =\frac{3 +3i \pm \sqrt{8 +6i}}{2} \\ z & \lt mi/> =\frac{3 +3i \pm (3 +i)}{2} .
-z =3 +2i
-z =i .
-z =x +yi
-z_0 =h +ki,
-(equation\space of\space a\space circle) & | z -z_0 | =r
-z_0
-r >0 .
-| z -z_0 | & \lt mi/> =| (x -h) +(y -k)i| \\ \~ & \lt mi/> =\sqrt{(x -h)^2 +(y -k)^2} .
-| z -z_0 | =r
-(x -h)^2 +(y -k)^2 =r^2
-z_0
-r .
-| z -3 -2i| =3
-3 +2i .
+x𝐖+yi𝐖&𝐖\lt𝐖mi/>𝐖=\sqrt{8𝐖+6i}𝐖\\𝐖(x𝐖+yi)^2𝐖𝐖&𝐖\lt𝐖mi/>𝐖=8𝐖+6i𝐖\\𝐖x^2𝐖𝐖-y^2𝐖𝐖+2xyi𝐖&𝐖\lt𝐖mi/>𝐖=8𝐖+6i𝐖.
+(1)𝐖&𝐖x^2𝐖𝐖-y^2𝐖𝐖&𝐖\lt𝐖mi/>𝐖=8𝐖\\𝐖(2)𝐖&𝐖2xy𝐖&𝐖\lt𝐖mi/>𝐖=6.
+x^2𝐖𝐖+y^2𝐖𝐖=|𝐖x𝐖+yi|^2𝐖𝐖=|𝐖(x𝐖+yi)^2𝐖|𝐖=|𝐖8𝐖+6i|𝐖=10,𝐖
+(3)𝐖&𝐖x^2𝐖𝐖+y^2𝐖𝐖&𝐖\lt𝐖mi/>𝐖=10.
+x^2𝐖𝐖=9
+x𝐖=𝐖\pm𝐖3𝐖.
+x𝐖=3
+y𝐖=1;𝐖
+x𝐖=𝐖-3
+y𝐖=𝐖-1𝐖.
+\sqrt{8𝐖+6i}𝐖=𝐖\pm𝐖(3𝐖+i)𝐖.
+\sqrt{8𝐖+6i}𝐖.
+8𝐖+6i𝐖=10e^{i\theta𝐖}𝐖
+\sqrt{8𝐖+6i}𝐖=𝐖\pm𝐖\sqrt{10}e^{i\theta𝐖/2}𝐖,𝐖
+\theta𝐖/2𝐖.
+\tan𝐖(\theta𝐖/2)
+\tan𝐖(\theta𝐖/2)𝐖=\frac{\sin𝐖(\theta𝐖)}{1𝐖+\cos𝐖(\theta𝐖)}𝐖.
+\sin𝐖(\theta𝐖)𝐖=3/5
+\cos𝐖(\theta𝐖)𝐖=4/5,𝐖
+\tan𝐖(\theta𝐖/2)𝐖=1/3𝐖.
+re^{i\theta𝐖/2}𝐖
+k(3𝐖+i)
+k𝐖.
+\sqrt{8𝐖+6i}
+\sqrt{8𝐖+6i}𝐖=k(3𝐖+i)
+k𝐖.
+|𝐖\sqrt{8𝐖+6i}|𝐖=\sqrt{10},𝐖
+|𝐖k(3𝐖+i)|𝐖=\sqrt{10},𝐖
+k𝐖=𝐖\pm𝐖1𝐖.
+\sqrt{8𝐖+6i}𝐖=𝐖\pm𝐖(3𝐖+i)𝐖.
+z𝐖&𝐖\lt𝐖mi/>𝐖=\frac{3𝐖+3i𝐖\pm𝐖\sqrt{8𝐖+6i}}{2}𝐖\\𝐖z𝐖&𝐖\lt𝐖mi/>𝐖=\frac{3𝐖+3i𝐖\pm𝐖(3𝐖+i)}{2}𝐖.
+z𝐖=3𝐖+2i
+z𝐖=i𝐖.
+z𝐖=x𝐖+yi
+z_0𝐖𝐖=h𝐖+ki,𝐖
+(equation\space𝐖of\space𝐖a\space𝐖circle)𝐖&𝐖|𝐖z𝐖-z_0𝐖|𝐖=r
+z_0𝐖
+r𝐖>0𝐖.
+|𝐖z𝐖-z_0𝐖|𝐖&𝐖\lt𝐖mi/>𝐖=|𝐖(x𝐖-h)𝐖+(y𝐖-k)i|𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\sqrt{(x𝐖-h)^2𝐖𝐖+(y𝐖-k)^2𝐖}𝐖.
+|𝐖z𝐖-z_0𝐖|𝐖=r
+(x𝐖-h)^2𝐖𝐖+(y𝐖-k)^2𝐖𝐖=r^2𝐖
+z_0𝐖
+r𝐖.
+|𝐖z𝐖-3𝐖-2i|𝐖=3
+3𝐖+2i𝐖.
 z
-(3, 2) .
-| 1/z| >2 .
-| z| \lt 1/2,
-1/2 .
-(z) \lt
-(z) .
-z =x +yi
-y \lt x .
-y =x,
-(z) =| z| .
-z =x +yi,
-y =\sqrt{y^2 +x^2} .
-0 =x^2,
-x =0 .
-y =\sqrt{y^2} =| y|
-(0, y)
-y \ge 0 .
-\mathbb C
-z =x +yi .
-ax +by +d =0
-\alpha z +\overline{\alpha z} +d =0
-\alpha =\frac{1}{2}(a -bi)
+(3,𝐖2)𝐖.
+|𝐖1/z|𝐖>2𝐖.
+|𝐖z|𝐖\lt𝐖1/2,𝐖
+1/2𝐖.
+(z)𝐖\lt𝐖
+(z)𝐖.
+z𝐖=x𝐖+yi
+y𝐖\lt𝐖x𝐖.
+y𝐖=x,𝐖
+(z)𝐖=|𝐖z|𝐖.
+z𝐖=x𝐖+yi,𝐖
+y𝐖=\sqrt{y^2𝐖𝐖+x^2𝐖}𝐖.
+0𝐖=x^2𝐖,𝐖
+x𝐖=0𝐖.
+y𝐖=\sqrt{y^2𝐖}𝐖=|𝐖y|
+(0,𝐖y)
+y𝐖\ge𝐖0𝐖.
+\mathbb𝐖C𝐖
+z𝐖=x𝐖+yi𝐖.
+ax𝐖+by𝐖+d𝐖=0
+\alpha𝐖z𝐖+\overline{\alpha𝐖z}𝐖+d𝐖=0
+\alpha𝐖𝐖=\frac{1}{2}(a𝐖-bi)
 d
-z_0
-r >0
-| z -z_0 | =r .
-y =mx +b .
-m \not= 0 .
-(m +i)z +(m -i)\overline{z} +2b =0 .
+z_0𝐖
+r𝐖>0
+|𝐖z𝐖-z_0𝐖|𝐖=r𝐖.
+y𝐖=mx𝐖+b𝐖.
+m𝐖\not=𝐖0𝐖.
+(m𝐖+i)z𝐖+(m𝐖-i)\overline{z}𝐖+2b𝐖=0𝐖.
 z
-| z +i| =3 .
-| z +i| =| z -i| .
-(z) =1 .
-| z/10 +1 -i| \lt 5 .
-(z) >
-(z) .
-(z) =| z -2| .
-u, v, w
+|𝐖z𝐖+i|𝐖=3𝐖.
+|𝐖z𝐖+i|𝐖=|𝐖z𝐖-i|𝐖.
+(z)𝐖=1𝐖.
+|𝐖z/10𝐖+1𝐖-i|𝐖\lt𝐖5𝐖.
+(z)𝐖>
+(z)𝐖.
+(z)𝐖=|𝐖z𝐖-2|𝐖.
+u,𝐖v,𝐖w
 z
-\mathbb C
-z^2 +iz -(2 +6i) =0.
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-(X_k, G_k),
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb U
+\mathbb𝐖C𝐖
+z^2𝐖𝐖+iz𝐖-(2𝐖+6i)𝐖=0.
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+(X_k𝐖,𝐖G_k𝐖),𝐖
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖U𝐖
 z
-z) >0,
-\mathscr U
-\mathbb U
-\mathbb U
-\mathbb C .
+z)𝐖>0,𝐖
+\mathscr𝐖U𝐖
+\mathbb𝐖U𝐖
+\mathbb𝐖U𝐖
+\mathbb𝐖C𝐖𝐖.
 C
 i
 C
 C
 i
-\infty .
-\infty
--i;
-V(z) =\frac{ -iz +1}{z -i} .
+\infty𝐖𝐖.
+\infty𝐖
+𝐖-i;𝐖
+V(z)𝐖=\frac{𝐖-iz𝐖+1}{z𝐖-i}𝐖.
 z
-\mathbb D,
+\mathbb𝐖D𝐖,𝐖
 w
-\mathbb U,
-(\mathbb D, \mathbcal H)
-(\mathbb U, \mathbcal U)
+\mathbb𝐖U𝐖,𝐖
+(\mathbb𝐖D𝐖,𝐖\mathbcal𝐖H𝐖)
+(\mathbb𝐖U𝐖,𝐖\mathbcal𝐖U𝐖)
 V
-\mathbb D
-\mathbb U,
-V^{ -1},
-w =V(z) =\frac{ -iz +1}{z -i}andz =V^{ -1} (w) =\frac{iw +1}{w +i} .
+\mathbb𝐖D𝐖
+\mathbb𝐖U𝐖,𝐖
+V^{𝐖-1}𝐖,𝐖
+w𝐖=V(z)𝐖=\frac{𝐖-iz𝐖+1}{z𝐖-i}andz𝐖=V^{𝐖-1}𝐖(w)𝐖=\frac{iw𝐖+1}{w𝐖+i}𝐖.
 V
-\mathbb S_\infty^1,
-w_1, w_2
-d_U (w_1, w_2),
-w_1
-w_2
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖,𝐖
+w_1𝐖,𝐖w_2𝐖
+d_U𝐖(w_1𝐖,𝐖w_2𝐖),𝐖
+w_1𝐖
+w_2𝐖
 V
-z_1
-z_2,
-d_U (w_1, w_2) =d_H (z_1, z_2) =\ln ((z_1, z_2; u, v)),
+z_1𝐖
+z_2𝐖,𝐖
+d_U𝐖(w_1𝐖,𝐖w_2𝐖)𝐖=d_H𝐖(z_1𝐖,𝐖z_2𝐖)𝐖=\ln𝐖((z_1𝐖,𝐖z_2𝐖;𝐖u,𝐖v)),𝐖
 u
 v
-z_1
-z_2 .
-d_U (w_1, w_2) =\ln ((w_1, w_2; p, q)),
-p, q
-w_1
-w_2 .
-w_1
-w_2
-p .
-\mathbit r \mathbit i
-\mathbit s \mathbit i
-r >s >0
+z_1𝐖
+z_2𝐖𝐖.
+d_U𝐖(w_1𝐖,𝐖w_2𝐖)𝐖=\ln𝐖((w_1𝐖,𝐖w_2𝐖;𝐖p,𝐖q)),𝐖
+p,𝐖q
+w_1𝐖
+w_2𝐖𝐖.
+w_1𝐖
+w_2𝐖
+p𝐖.
+\mathbit𝐖r𝐖\mathbit𝐖i𝐖
+\mathbit𝐖s𝐖\mathbit𝐖i𝐖
+r𝐖>s𝐖>0
 ri
 si
 ri
 si
 0
-\infty .
-d_U (ri, si) & \lt mi/> =\ln ((ri, si; 0, \infty)) \\ \~ & \lt mi/> =\frac{ri -0}{ri -\infty} \cdot \frac{si -\infty}{si -0} \\ \~ & \lt mi/> =\ln (\frac{r}{s}) .
-w_1
-w_2
-\mathbb U,
-V^{ -1}
-w_1
-w_2
-\mathbb D .
-z_1 =V^{ -1} (w_1)
-z_2 =V^{ -1} (w_2) .
-S(z) =e^{i\theta} \frac{z -z_1}{1 -\overline{z_1}z}
-(\mathbb D, \mscrH)
-z_1
-\theta
-z_2
-z_2
+\infty𝐖𝐖.
+d_U𝐖(ri,𝐖si)𝐖&𝐖\lt𝐖mi/>𝐖=\ln𝐖((ri,𝐖si;𝐖0,𝐖\infty𝐖))𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{ri𝐖-0}{ri𝐖-\infty𝐖}𝐖\cdot𝐖\frac{si𝐖-\infty𝐖}{si𝐖-0}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\ln𝐖(\frac{r}{s})𝐖.
+w_1𝐖
+w_2𝐖
+\mathbb𝐖U𝐖,𝐖
+V^{𝐖-1}𝐖
+w_1𝐖
+w_2𝐖
+\mathbb𝐖D𝐖𝐖.
+z_1𝐖𝐖=V^{𝐖-1}𝐖(w_1𝐖)
+z_2𝐖𝐖=V^{𝐖-1}𝐖(w_2𝐖)𝐖.
+S(z)𝐖=e^{i\theta𝐖}𝐖\frac{z𝐖-z_1𝐖}{1𝐖-\overline{z_1𝐖}z}
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
+z_1𝐖
+\theta𝐖
+z_2𝐖
+z_2𝐖
 ki
-k =| S(z_2)| =| S(V^{ -1} (w_2))|
-0 \lt k \lt 1
+k𝐖=|𝐖S(z_2𝐖)|𝐖=|𝐖S(V^{𝐖-1}𝐖(w_2𝐖))|
+0𝐖\lt𝐖k𝐖\lt𝐖1
 V
 0
 i
 ki
-\frac{1 +k}{1 -k}i .
-V \circ S \circ V^{ -1}
-w_1
+\frac{1𝐖+k}{1𝐖-k}i𝐖.
+V𝐖\circ𝐖S𝐖\circ𝐖V^{𝐖-1}𝐖
+w_1𝐖
 i
-w_2
-\frac{1 +k}{1 -k}i,
-d_U (w_1, w_2) =\ln (1 +k) -\ln (1 -k) .
+w_2𝐖
+\frac{1𝐖+k}{1𝐖-k}i,𝐖
+d_U𝐖(w_1𝐖,𝐖w_2𝐖)𝐖=\ln𝐖(1𝐖+k)𝐖-\ln𝐖(1𝐖-k)𝐖.
 k
-w_1
-w_2
-ds =\frac{2| dz|}{1 -| z|^2} .
-z =V^{ -1} (w) =\frac{iw +1}{w +i}
-dw .
-ds & \lt mi/> =\frac{2| dz|}{1 -| z|^2} \\ (z =\frac{iw +1}{w +i}) & \~ & \lt mi/> =\frac{2| d(\frac{iw +1}{w +i})|}{1 -| \frac{iw +1}{w +i}|^2} \\ (chain\space rule) & \~ & \lt mi/> =\frac{2| i(w +i)dw -(iw +1)dw|}{| w +i|^2}/[1 -\frac{| iw +1|^2}{| w +i|^2}] \\ \~ & \lt mi/> =\frac{4| dw|}{| w +i|^2 -| iw +1|^2} \\ \~ & \lt mi/> =\frac{4| dw|}{(w +i)(\overline{w} -i) -(iw +1)( -i\overline{w} +1)} \\ \~ & \lt mi/> =\frac{4| dw|}{2i(\overline{w} -w)} \\ \~ & \lt mi/> =\frac{| dw|}{Im(w)} .
-\mathbit r (t)
-a \le t \le b
-(\mathbb U, \mathscr U),
-\mathcal L (\mathbit r),
-\mathcal L (\mathbit r) =\int_a^b \frac{| \mathbit r '(t)|}{Im(\mathbit r (t))}dt .
-\mathbit r (t) =t +ki
-a \le t \le b,
-\mathbit r '(t) =1
-\~Im(\mathbit r (t)) =k .
-\mathcal L (\mathbit r) =\int_a^b \frac{1}{k}dt =\frac{b -a}{k} .
-ds =\frac{dw}{Im(w)}
-(\mathbb U, \mathscr U)
+w_1𝐖
+w_2𝐖
+ds𝐖=\frac{2|𝐖dz|}{1𝐖-|𝐖z|^2𝐖}𝐖.
+z𝐖=V^{𝐖-1}𝐖(w)𝐖=\frac{iw𝐖+1}{w𝐖+i}
+dw𝐖.
+ds𝐖&𝐖\lt𝐖mi/>𝐖=\frac{2|𝐖dz|}{1𝐖-|𝐖z|^2𝐖}𝐖\\𝐖(z𝐖=\frac{iw𝐖+1}{w𝐖+i})𝐖&𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{2|𝐖d(\frac{iw𝐖+1}{w𝐖+i})|}{1𝐖-|𝐖\frac{iw𝐖+1}{w𝐖+i}|^2𝐖}𝐖\\𝐖(chain\space𝐖rule)𝐖&𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{2|𝐖i(w𝐖+i)dw𝐖-(iw𝐖+1)dw|}{|𝐖w𝐖+i|^2𝐖}/[1𝐖-\frac{|𝐖iw𝐖+1|^2𝐖}{|𝐖w𝐖+i|^2𝐖}]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{4|𝐖dw|}{|𝐖w𝐖+i|^2𝐖𝐖-|𝐖iw𝐖+1|^2𝐖}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{4|𝐖dw|}{(w𝐖+i)(\overline{w}𝐖-i)𝐖-(iw𝐖+1)(𝐖-i\overline{w}𝐖+1)}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{4|𝐖dw|}{2i(\overline{w}𝐖-w)}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{|𝐖dw|}{Im(w)}𝐖.
+\mathbit𝐖r𝐖(t)
+a𝐖\le𝐖t𝐖\le𝐖b
+(\mathbb𝐖U𝐖,𝐖\mathscr𝐖U𝐖),𝐖
+\mathcal𝐖L𝐖(\mathbit𝐖r𝐖),𝐖
+\mathcal𝐖L𝐖(\mathbit𝐖r𝐖)𝐖=\int𝐖_a^b𝐖\frac{|𝐖\mathbit𝐖r𝐖'(t)|}{Im(\mathbit𝐖r𝐖(t))}dt𝐖.
+\mathbit𝐖r𝐖(t)𝐖=t𝐖+ki
+a𝐖\le𝐖t𝐖\le𝐖b,𝐖
+\mathbit𝐖r𝐖'(t)𝐖=1
+\~Im(\mathbit𝐖r𝐖(t))𝐖=k𝐖.
+\mathcal𝐖L𝐖(\mathbit𝐖r𝐖)𝐖=\int𝐖_a^b𝐖\frac{1}{k}dt𝐖=\frac{b𝐖-a}{k}𝐖.
+ds𝐖=\frac{dw}{Im(w)}
+(\mathbb𝐖U𝐖,𝐖\mathscr𝐖U𝐖)
 R
-A(R),
-A(R) =\iint_R \frac{1}{y^2}dxdy .
-\frac{\mathbf 2}{\mathbf 3}
-w \in \mathbb U
+A(R),𝐖
+A(R)𝐖=\iint𝐖_R𝐖\frac{1}{y^2𝐖}dxdy𝐖.
+\frac{\mathbf𝐖2𝐖}{\mathbf𝐖3𝐖}
+w𝐖\in𝐖\mathbb𝐖U𝐖
 \frac{2}{3}
-1w\infty
+1w\infty𝐖
 w
-\alpha,
-w =e^{i(\pi -\alpha)}
-0 \lt \alpha \lt \pi .
+\alpha𝐖,𝐖
+w𝐖=e^{i(\pi𝐖𝐖-\alpha𝐖)}𝐖
+0𝐖\lt𝐖\alpha𝐖𝐖\lt𝐖\pi𝐖𝐖.
 \frac{2}{3}
-A & \lt mi/> =\int_{\cos (\pi -\alpha)}^1 \int_{\sqrt{1 -x^2}}^\infty \frac{1}{y^2}dydx \\ \~ & \lt mi/> =\int_{\cos (\pi -\alpha)}^1 \frac{1}{\sqrt{1 -x^2}}dx .
-\cos (\theta) =x,
-\sqrt{1 -x^2} =\sin (\theta)
--\sin (\theta)d\theta =dx,
-\~ & \lt mi/> =\int_{\pi -\alpha}^0 \frac{ -\sin (\theta)}{\sin (\theta)}d\theta \\ \~ & \lt mi/> =\pi -\alpha .
+A𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_{\cos𝐖(\pi𝐖𝐖-\alpha𝐖)}^1𝐖\int𝐖_{\sqrt{1𝐖-x^2𝐖}}^\infty𝐖𝐖\frac{1}{y^2𝐖}dydx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_{\cos𝐖(\pi𝐖𝐖-\alpha𝐖)}^1𝐖\frac{1}{\sqrt{1𝐖-x^2𝐖}}dx𝐖.
+\cos𝐖(\theta𝐖)𝐖=x,𝐖
+\sqrt{1𝐖-x^2𝐖}𝐖=\sin𝐖(\theta𝐖)
+𝐖-\sin𝐖(\theta𝐖)d\theta𝐖𝐖=dx,𝐖
+\~𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_{\pi𝐖𝐖-\alpha𝐖}^0𝐖\frac{𝐖-\sin𝐖(\theta𝐖)}{\sin𝐖(\theta𝐖)}d\theta𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\pi𝐖𝐖-\alpha𝐖𝐖.
 \frac{2}{3}
-1w\infty
+1w\infty𝐖
 w
 \frac{2}{3}
 \frac{2}{3}
-\alpha
-\pi -\alpha .
+\alpha𝐖
+\pi𝐖𝐖-\alpha𝐖𝐖.
 \frac{2}{3}
-\infty
-V^{ -1}
+\infty𝐖
+V^{𝐖-1}𝐖
 pqst
-(\mathbb D, \mscrH)
-C_1
-C_2,
-L_1
-L_2
-\lt mi/>\circ .
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
+C_1𝐖
+C_2𝐖,𝐖
+L_1𝐖
+L_2𝐖
+\lt𝐖mi/>\circ𝐖.
 i
 V
-\mathbb U ?
+\mathbb𝐖U𝐖𝐖?
 pq
 st
 c
 pt
-C_1,
+C_1𝐖,𝐖
 d
 sq
-C_2 .
-c =e^x d
+C_2𝐖𝐖.
+c𝐖=e^x𝐖d
 x
-c -d .
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
+c𝐖-d𝐖.
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
 X
-\mathbb R^3,
-\mathbb R^3
-\mathbb R^3
-H_g
-C_g,
-g,
+\mathbb𝐖R𝐖^3𝐖,𝐖
+\mathbb𝐖R𝐖^3𝐖
+\mathbb𝐖R𝐖^3𝐖
+H_g𝐖
+C_g𝐖,𝐖
+g,𝐖
 360\circ
-\lt mi/>\circ,
-\lt mi/>\circ .
-360\circ .
-\mathbit C_\mathbf 3
-C_3 =\mathbb P^2 \#\mathbb P^2 \#\mathbb P^2,
-a_1 a_1 a_2 a_2 a_3 a_3,
-120\circ .
-60\circ .
-\lt mi/>\circ .
-\lt mi/>\circ .
+\lt𝐖mi/>\circ,𝐖
+\lt𝐖mi/>\circ𝐖.
+360\circ𝐖.
+\mathbit𝐖C𝐖_\mathbf𝐖3𝐖𝐖
+C_3𝐖𝐖=\mathbb𝐖P𝐖^2𝐖\#\mathbb𝐖P𝐖^2𝐖\#\mathbb𝐖P𝐖^2𝐖,𝐖
+a_1𝐖a_1𝐖a_2𝐖a_2𝐖a_3𝐖a_3𝐖,𝐖
+120\circ𝐖.
+60\circ𝐖.
+\lt𝐖mi/>\circ𝐖.
+\lt𝐖mi/>\circ𝐖.
 60\circ
-C_3
-C_3
-C_3
-abcabc .
-\lt mi/>\circ
-\mathbb P^2 .
-\lt mi/>\circ,
-\lt mi/>\circ .
-H_0
-C_1
-H_1
-C_2
-H_g
-g \ge 2
-C_g
-g \ge 3
-\mathbb S^2 .
-\pi /2,
-\pi,
-H_g
-g \ge 2
-C_g
-g \ge 3
+C_3𝐖
+C_3𝐖
+C_3𝐖
+abcabc𝐖.
+\lt𝐖mi/>\circ
+\mathbb𝐖P𝐖^2𝐖𝐖.
+\lt𝐖mi/>\circ,𝐖
+\lt𝐖mi/>\circ𝐖.
+H_0𝐖
+C_1𝐖
+H_1𝐖
+C_2𝐖
+H_g𝐖
+g𝐖\ge𝐖2
+C_g𝐖
+g𝐖\ge𝐖3
+\mathbb𝐖S𝐖^2𝐖𝐖.
+\pi𝐖/2,𝐖
+\pi𝐖,𝐖
+H_g𝐖
+g𝐖\ge𝐖2
+C_g𝐖
+g𝐖\ge𝐖3
 n
-n \ge 6 .
-n
-n
-(n -2)\pi /n
-(n -2)\pi
-2\pi
-n \ge 6 .
-n
-(n -2)\pi
-2\pi
-n
-\pi
+n𝐖\ge𝐖6𝐖.
 n
 n
-c_i,
-d_i,
-e_i
-H_2
+(n𝐖-2)\pi𝐖/n
+(n𝐖-2)\pi𝐖
+2\pi𝐖
+n𝐖\ge𝐖6𝐖.
+n
+(n𝐖-2)\pi𝐖
+2\pi𝐖
+n
+\pi𝐖
+n
+n
+c_i𝐖,𝐖
+d_i𝐖,𝐖
+e_i𝐖
+H_2𝐖
 90\circ
-(a, b, c)
-\mathbb D
-a, b,
-c .
-a_1, a_2, a_3, b_1, b_2,
-b_3
-k \not= 0)
-\mathbb P^2
-\mathbb D .
-k \not= 0 .
-C_3
-k = -8 .
-k \lt 0
-\mathbb C
-1/\sqrt{| k|} .
-C_3
-\pi
-k .
-k,
+(a,𝐖b,𝐖c)
+\mathbb𝐖D𝐖
+a,𝐖b,𝐖
+c𝐖.
+a_1𝐖,𝐖a_2𝐖,𝐖a_3𝐖,𝐖b_1𝐖,𝐖b_2𝐖,𝐖
+b_3𝐖
+k𝐖\not=𝐖0)
+\mathbb𝐖P𝐖^2𝐖
+\mathbb𝐖D𝐖𝐖.
+k𝐖\not=𝐖0𝐖.
+C_3𝐖
+k𝐖=𝐖-8𝐖.
+k𝐖\lt𝐖0
+\mathbb𝐖C𝐖
+1/\sqrt{|𝐖k|}𝐖.
+C_3𝐖
+\pi𝐖
+k𝐖.
+k,𝐖
 k
-\chi
-kA =2\pi \chi .
-\chi
-\chi \lt 2
-\lt mi/>^2
-\lt mi/>^2 .
-H_3
-\lt mi/>^2 .
-C_3
-H_g
-g \ge 2
-g .
+\chi𝐖
+kA𝐖=2\pi𝐖\chi𝐖𝐖.
+\chi𝐖
+\chi𝐖𝐖\lt𝐖2
+\lt𝐖mi/>^2𝐖
+\lt𝐖mi/>^2𝐖𝐖.
+H_3𝐖
+\lt𝐖mi/>^2𝐖𝐖.
+C_3𝐖
+H_g𝐖
+g𝐖\ge𝐖2
+g𝐖.
 n
-(\mathbb D, \mscrH)
-v_k =re^{i\frac{k}{n}2\pi}
-k =0, 1, \ldots, n -1
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
+v_k𝐖𝐖=re^{i\frac{k}{n}2\pi𝐖}𝐖
+k𝐖=0,𝐖1,𝐖\ldots𝐖,𝐖n𝐖-1
 n
-2\pi .
-r =\sqrt{\cos (2\pi /n)} .
-n =8 .
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\lt mi/>\circ .
-\lt mi/>^3
-\lt mi/>^3
+2\pi𝐖𝐖.
+r𝐖=\sqrt{\cos𝐖(2\pi𝐖/n)}𝐖.
+n𝐖=8𝐖.
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\lt𝐖mi/>\circ𝐖.
+\lt𝐖mi/>^3𝐖
+\lt𝐖mi/>^3𝐖
 A
 B
 A
-B .
+B𝐖.
 A
 B
 A
-B .
+B𝐖.
 a
 b
 c
 A
-B .
+B𝐖.
 A
-B .
-\lt mi/>\circ .
-\lt mi/>\circ,
-\lt mi/>\circ .
-\lt mi/>\circ
-A,
-B,
-C,
+B𝐖.
+\lt𝐖mi/>\circ𝐖.
+\lt𝐖mi/>\circ,𝐖
+\lt𝐖mi/>\circ𝐖.
+\lt𝐖mi/>\circ
+A,𝐖
+B,𝐖
+C,𝐖
 C
 C
 C
-\theta
-\theta
-S(\theta)
-\theta .
+\theta𝐖
+\theta𝐖
+S(\theta𝐖)
+\theta𝐖𝐖.
 C
-\Delta
-\theta
-\Delta,
-C,
-ABCC ?
-\theta >2\pi .
-S(\theta)
-\theta
-\pi
-S(\theta)
-\pi
-\pi
-S(\theta)
-a,
-a .
-H,
+\Delta𝐖
+\theta𝐖
+\Delta𝐖,𝐖
+C,𝐖
+ABCC𝐖?
+\theta𝐖𝐖>2\pi𝐖𝐖.
+S(\theta𝐖)
+\theta𝐖
+\pi𝐖
+S(\theta𝐖)
+\pi𝐖
+\pi𝐖
+S(\theta𝐖)
+a,𝐖
+a𝐖.
+H,𝐖
 a
 a
-\lt mi/>\circ,
-\lt mi/>\circ;
-\lt mi/>\circ .
-\lt mi/>\circ .
-\lt mi/>\circ
-\lt mi/>\circ,
-\lt mi/>\circ,
+\lt𝐖mi/>\circ,𝐖
+\lt𝐖mi/>\circ;𝐖
+\lt𝐖mi/>\circ𝐖.
+\lt𝐖mi/>\circ𝐖.
+\lt𝐖mi/>\circ
+\lt𝐖mi/>\circ,𝐖
+\lt𝐖mi/>\circ,𝐖
 P
-r >0,
+r𝐖>0,𝐖
 P
 r
 r
-P,
-C =2\pi r
-C >2\pi r
-C \lt 2\pi r ?
-C =2\pi r
-C >2\pi r
-C \lt 2\pi r ?
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
+P,𝐖
+C𝐖=2\pi𝐖r
+C𝐖>2\pi𝐖r
+C𝐖\lt𝐖2\pi𝐖r𝐖?
+C𝐖=2\pi𝐖r
+C𝐖>2\pi𝐖r
+C𝐖\lt𝐖2\pi𝐖r𝐖?
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
 G
 A
 G
 G
-T \colon A \to A
-T(a) =a
-a \in A .
+T𝐖\colon𝐖A𝐖\to𝐖A
+T(a)𝐖=a
+a𝐖\in𝐖A𝐖.
 T
 S
-G,
-T \circ S
-G .
+G,𝐖
+T𝐖\circ𝐖S
+G𝐖.
 T
-G,
-T^{ -1}
-G .
-R, S,
+G,𝐖
+T^{𝐖-1}𝐖
+G𝐖.
+R,𝐖S,𝐖
 T
-A,
-(R \circ S) \circ T
-R \circ (S \circ T) .
-\mathscr T
-\mathbb C .
-b \in \mathbb C,
-T_b \colon \mathbb C \to \mathbb C
-T_b (z) =z +b .
-\mathscr T
-T_b,
-b \in \mathbb C .
-\mathscr T =\{T_b |b \in \mathbb C \} .
-\mathscr T
+A,𝐖
+(R𝐖\circ𝐖S)𝐖\circ𝐖T
+R𝐖\circ𝐖(S𝐖\circ𝐖T)𝐖.
+\mathscr𝐖T𝐖
+\mathbb𝐖C𝐖𝐖.
+b𝐖\in𝐖\mathbb𝐖C𝐖,𝐖
+T_b𝐖𝐖\colon𝐖\mathbb𝐖C𝐖𝐖\to𝐖\mathbb𝐖C𝐖
+T_b𝐖(z)𝐖=z𝐖+b𝐖.
+\mathscr𝐖T𝐖
+T_b𝐖,𝐖
+b𝐖\in𝐖\mathbb𝐖C𝐖𝐖.
+\mathscr𝐖T𝐖𝐖=\{T_b𝐖|b𝐖\in𝐖\mathbb𝐖C𝐖\}𝐖.
+\mathscr𝐖T𝐖
 S
 G
-S .
-(S, G)
+S𝐖.
+(S,𝐖G)
 A
-S .
+S𝐖.
 S
 A
 B
-A \cong B,
+A𝐖\cong𝐖B,𝐖
 T
 G
-T(A) =B .
-(S, G)
-S,
-a \cong b
+T(A)𝐖=B𝐖.
+(S,𝐖G)
+S,𝐖
+a𝐖\cong𝐖b
 a
 b
 S
-\{a\} \cong \{b\} .
-a \cong b
-(S, G)
-T \in G
-T(a) =b .
-H =\{R_0, R_{\pi /2}, R_\pi, R_{3\pi /2} \}
-\mathbb C
-\pi /2,
-\pi,
-3\pi /2
+\{a\}𝐖\cong𝐖\{b\}𝐖.
+a𝐖\cong𝐖b
+(S,𝐖G)
+T𝐖\in𝐖G
+T(a)𝐖=b𝐖.
+H𝐖=\{R_0𝐖,𝐖R_{\pi𝐖/2}𝐖,𝐖R_\pi𝐖𝐖,𝐖R_{3\pi𝐖/2}𝐖\}
+\mathbb𝐖C𝐖
+\pi𝐖/2,𝐖
+\pi𝐖,𝐖
+3\pi𝐖/2
 H
-R_0 (z) =e^{i0} z =z,
+R_0𝐖(z)𝐖=e^{i0}𝐖z𝐖=z,𝐖
 H
-\mathbb C .
-R_{3\pi /2} \circ R_\pi =R_{\pi /2} .
+\mathbb𝐖C𝐖𝐖.
+R_{3\pi𝐖/2}𝐖𝐖\circ𝐖R_\pi𝐖𝐖𝐖=R_{\pi𝐖/2}𝐖𝐖.
 H
-H .
-R_0^{ -1} =R_0,
-R_{\pi /2}^{ -1} =R_{3\pi /2},
-R_\pi^{ -1} =R_\pi,
-R_{3\pi /2}^{ -1} =R_{\pi /2} .
+H𝐖.
+R_0^{𝐖-1}𝐖𝐖=R_0𝐖,𝐖
+R_{\pi𝐖/2}^{𝐖-1}𝐖𝐖=R_{3\pi𝐖/2}𝐖,𝐖
+R_\pi𝐖^{𝐖-1}𝐖𝐖=R_\pi𝐖𝐖,𝐖
+R_{3\pi𝐖/2}^{𝐖-1}𝐖𝐖=R_{\pi𝐖/2}𝐖𝐖.
 H
-(\mathbb C, H) .
+(\mathbb𝐖C𝐖,𝐖H)𝐖.
 C
-| z -i| =.5
+|𝐖z𝐖-i|𝐖=.5
 D
-| z| =.5 ?
+|𝐖z|𝐖=.5𝐖?
 H
 C
-D ?
+D𝐖?
 C
 C
-\pi /2,
-\pi,
-3\pi /2
-z \not= 0
-z,
-e^{i\pi /2} z,
-e^{i\pi} z,
-e^{i3\pi /2} z .
-z =0 ?
-y =x,
-y =x +1 .
-\mathbb C
-r(z) =\overline{z} .
-r \circ r
-G =\{1, r\}
-\mathbb C,
-(\mathbb C, G) .
-3 +i
-3 -i
--3 +i .
-| z -2i| =1
-| z +2i| =1
-| z -3i| =1 .
-\mathscr T
-(\mathbb C, \mathscr T) .
+\pi𝐖/2,𝐖
+\pi𝐖,𝐖
+3\pi𝐖/2
+z𝐖\not=𝐖0
+z,𝐖
+e^{i\pi𝐖/2}𝐖z,𝐖
+e^{i\pi𝐖}𝐖z,𝐖
+e^{i3\pi𝐖/2}𝐖z𝐖.
+z𝐖=0𝐖?
+y𝐖=x,𝐖
+y𝐖=x𝐖+1𝐖.
+\mathbb𝐖C𝐖
+r(z)𝐖=\overline{z}𝐖.
+r𝐖\circ𝐖r
+G𝐖=\{1,𝐖r\}
+\mathbb𝐖C𝐖,𝐖
+(\mathbb𝐖C𝐖,𝐖G)𝐖.
+3𝐖+i
+3𝐖-i
+𝐖-3𝐖+i𝐖.
+|𝐖z𝐖-2i|𝐖=1
+|𝐖z𝐖+2i|𝐖=1
+|𝐖z𝐖-3i|𝐖=1𝐖.
+\mathscr𝐖T𝐖
+(\mathbb𝐖C𝐖,𝐖\mathscr𝐖T𝐖)𝐖.
 H
-L .
-\mathscr D
-(S, G)
+L𝐖.
+\mathscr𝐖D𝐖
+(S,𝐖G)
 A
-\mathscr D
+\mathscr𝐖D𝐖
 T
-G,
+G,𝐖
 T(A)
-\mathscr D .
+\mathscr𝐖D𝐖𝐖.
 f
-\mathscr D
-f(B) =f(T(B))
+\mathscr𝐖D𝐖
+f(B)𝐖=f(T(B))
 B
-\mathscr D
+\mathscr𝐖D𝐖
 T
-G .
-\mathscr D
-\mathbb C .
+G𝐖.
+\mathscr𝐖D𝐖
+\mathbb𝐖C𝐖𝐖.
 f
-(\mathbb C, \mathscr T),
-\mathscr D
+(\mathbb𝐖C𝐖,𝐖\mathscr𝐖T𝐖),𝐖
+\mathscr𝐖D𝐖
 A
-T(A),
+T(A),𝐖
 T
-\mathscr T .
+\mathscr𝐖T𝐖𝐖.
 f
-\mathscr D
+\mathscr𝐖D𝐖
 A
 B
-\mathscr D
-\mathscr D
-\mathscr D
-\mathscr D
-(S, G)
-\mathscr D
+\mathscr𝐖D𝐖
+\mathscr𝐖D𝐖
+\mathscr𝐖D𝐖
+\mathscr𝐖D𝐖
+(S,𝐖G)
+\mathscr𝐖D𝐖
 A
-(S, G),
-\mathscr A =\{T(A)|T \in G\}
-(\mathbb C, \mscrE),
-\mscrE
-T(z) =e^{i\theta} z +b,
-\theta
+(S,𝐖G),𝐖
+\mathscr𝐖A𝐖𝐖=\{T(A)|T𝐖\in𝐖G\}
+(\mathbb𝐖C𝐖,𝐖\mscrE𝐖),𝐖
+\mscrE𝐖
+T(z)𝐖=e^{i\theta𝐖}𝐖z𝐖+b,𝐖
+\theta𝐖
 b
-\mathbb C .
-\mscrE
-T(z) =az +b
-| a| =1 .
-\mscrE
-z_1
-z_2
-| z_1 -z_2 | .
-(\mathbb C, \mscrE),
+\mathbb𝐖C𝐖𝐖.
+\mscrE𝐖
+T(z)𝐖=az𝐖+b
+|𝐖a|𝐖=1𝐖.
+\mscrE𝐖
+z_1𝐖
+z_2𝐖
+|𝐖z_1𝐖𝐖-z_2𝐖|𝐖.
+(\mathbb𝐖C𝐖,𝐖\mscrE𝐖),𝐖
 T
-\mscrE,
-z_1
-z_2
-T(z_1)
-T(z_2) \colon
-| T(z_1) -T(z_2)| & \lt mi/> =| (e^{i\theta} z_1 +b) -(e^{i\theta} z_2 +b)| \\ \~ & \lt mi/> =| e^{i\theta} (z_1 -z_2)| \\ \~ & \lt mi/> =| e^{i\theta} || z_1 -z_2 | \\ \~ & \lt mi/> =| z_1 -z_2 | & (since\~| e^{i\theta} | =1) .
-(\mathbb C, \mscrE) .
-(\mathbb C, \mscrE) .
-(S, G)
+\mscrE𝐖,𝐖
+z_1𝐖
+z_2𝐖
+T(z_1𝐖)
+T(z_2𝐖)𝐖\colon𝐖
+|𝐖T(z_1𝐖)𝐖-T(z_2𝐖)|𝐖&𝐖\lt𝐖mi/>𝐖=|𝐖(e^{i\theta𝐖}𝐖z_1𝐖𝐖+b)𝐖-(e^{i\theta𝐖}𝐖z_2𝐖𝐖+b)|𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=|𝐖e^{i\theta𝐖}𝐖(z_1𝐖𝐖-z_2𝐖)|𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=|𝐖e^{i\theta𝐖}𝐖||𝐖z_1𝐖𝐖-z_2𝐖|𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=|𝐖z_1𝐖𝐖-z_2𝐖|𝐖&𝐖(since\~|𝐖e^{i\theta𝐖}𝐖|𝐖=1)𝐖.
+(\mathbb𝐖C𝐖,𝐖\mscrE𝐖)𝐖.
+(\mathbb𝐖C𝐖,𝐖\mscrE𝐖)𝐖.
+(S,𝐖G)
 S
-S .
-(\mathbb C, \mathscr T)
-\mathbb C
-\mathbb C .
-\mathbb C
-(\mathbb C, \mathscr T)
+S𝐖.
+(\mathbb𝐖C𝐖,𝐖\mathscr𝐖T𝐖)
+\mathbb𝐖C𝐖
+\mathbb𝐖C𝐖𝐖.
+\mathbb𝐖C𝐖
+(\mathbb𝐖C𝐖,𝐖\mathscr𝐖T𝐖)
 p
 q
-\mathbb C .
+\mathbb𝐖C𝐖𝐖.
 T
-\mathscr T
-T(p) =q .
-w =q -p,
-T_w
-\mathscr T .
-T_w (p) =p +w =p +(q -p) =q .
-T_w (p) =q
-p \cong q .
+\mathscr𝐖T𝐖
+T(p)𝐖=q𝐖.
+w𝐖=q𝐖-p,𝐖
+T_w𝐖
+\mathscr𝐖T𝐖𝐖.
+T_w𝐖(p)𝐖=p𝐖+w𝐖=p𝐖+(q𝐖-p)𝐖=q𝐖.
+T_w𝐖(p)𝐖=q
+p𝐖\cong𝐖q𝐖.
 p
 q
-\mathbb C
-(\mathbb C, \mathscr T)
-(\mathbb C, \mscrE)
-(S, G)
-d \colon S \times S \to \mathbb R
-(x, y)
+\mathbb𝐖C𝐖
+(\mathbb𝐖C𝐖,𝐖\mathscr𝐖T𝐖)
+(\mathbb𝐖C𝐖,𝐖\mscrE𝐖)
+(S,𝐖G)
+d𝐖\colon𝐖S𝐖\times𝐖S𝐖\to𝐖\mathbb𝐖R𝐖
+(x,𝐖y)
 S
-d(x, y) \ge 0
-x, y \in S
-d(x, y) =0
-x =y .
-d(x, y) =d(y, x)
-x, y \in S .
-d(x, z) \le d(x, y) +d(y, z)
-x, y, z \in S .
-d(z, w) =| z -w| .
+d(x,𝐖y)𝐖\ge𝐖0
+x,𝐖y𝐖\in𝐖S
+d(x,𝐖y)𝐖=0
+x𝐖=y𝐖.
+d(x,𝐖y)𝐖=d(y,𝐖x)
+x,𝐖y𝐖\in𝐖S𝐖.
+d(x,𝐖z)𝐖\le𝐖d(x,𝐖y)𝐖+d(y,𝐖z)
+x,𝐖y,𝐖z𝐖\in𝐖S𝐖.
+d(z,𝐖w)𝐖=|𝐖z𝐖-w|𝐖.
 d
-z, w, v
-\mathbb C,
-| z -w| \le | z -v| +| v -w| .
-H \cong L
-\mathscr A
-\mathbb C
+z,𝐖w,𝐖v
+\mathbb𝐖C𝐖,𝐖
+|𝐖z𝐖-w|𝐖\le𝐖|𝐖z𝐖-v|𝐖+|𝐖v𝐖-w|𝐖.
+H𝐖\cong𝐖L
+\mathscr𝐖A𝐖
+\mathbb𝐖C𝐖
 G
-\mathscr A .
-G =\{i_C |C \in \mathscr A \} .
+\mathscr𝐖A𝐖𝐖.
+G𝐖=\{i_C𝐖|C𝐖\in𝐖\mathscr𝐖A𝐖\}𝐖.
 G
-\mathbb C^+ ?
-\mscrE
-\mathbb C
+\mathbb𝐖C𝐖^+𝐖𝐖?
+\mscrE𝐖
+\mathbb𝐖C𝐖
 G
-\mathbb C^+ .
-G =\{T(z) =kz|k \in \mathbb R, k >0\} .
+\mathbb𝐖C𝐖^+𝐖𝐖.
+G𝐖=\{T(z)𝐖=kz|k𝐖\in𝐖\mathbb𝐖R𝐖,𝐖k𝐖>0\}𝐖.
 G
-\mathbb C^+ ?
-(\mathbb C, \mscrE) .
-(\mathbb C, \mscrE) .
-\mathscr D
-(S, G),
-\mathscr D
-\mathscr D
+\mathbb𝐖C𝐖^+𝐖𝐖?
+(\mathbb𝐖C𝐖,𝐖\mscrE𝐖)𝐖.
+(\mathbb𝐖C𝐖,𝐖\mscrE𝐖)𝐖.
+\mathscr𝐖D𝐖
+(S,𝐖G),𝐖
+\mathscr𝐖D𝐖
+\mathscr𝐖D𝐖
 D
-(\mathbb C, \mscrR)
-\mscrR
-\mscrR =\{R_\theta (z) =e^{i\theta} z|\theta \in \mathbb R \} .
-\mscrR
-\mathscr D =\{
-\mathbb C \}
-| z -(2 +i)| =4 .
-(\mathbb C, \mscrR)
-v(z_1, z_2) =z_1 -z_2
-(\mathbb C, \mathscr T)
-(\mathbb C, \mscrR) .
-(S, G) .
-d(x, y) =\{0 & if\~x =y; \\ 1 & if\~x \not= y \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/> .
-(\mathbb C, \mscrE)
-\mscrE
-\mathbb C .
-(\mathbb C, \mscrE) ?
-\mathbb Z =
-\{\ldots, -2, -1, 0, 1, 2, \ldots \} .
-n,
-T_n \colon \mathbb C \to \mathbb C
-T_n (z) =z +ni .
+(\mathbb𝐖C𝐖,𝐖\mscrR𝐖)
+\mscrR𝐖
+\mscrR𝐖𝐖=\{R_\theta𝐖𝐖(z)𝐖=e^{i\theta𝐖}𝐖z|\theta𝐖𝐖\in𝐖\mathbb𝐖R𝐖\}𝐖.
+\mscrR𝐖
+\mathscr𝐖D𝐖𝐖=\{
+\mathbb𝐖C𝐖\}
+|𝐖z𝐖-(2𝐖+i)|𝐖=4𝐖.
+(\mathbb𝐖C𝐖,𝐖\mscrR𝐖)
+v(z_1𝐖,𝐖z_2𝐖)𝐖=z_1𝐖𝐖-z_2𝐖
+(\mathbb𝐖C𝐖,𝐖\mathscr𝐖T𝐖)
+(\mathbb𝐖C𝐖,𝐖\mscrR𝐖)𝐖.
+(S,𝐖G)𝐖.
+d(x,𝐖y)𝐖=\{0𝐖&𝐖if\~x𝐖=y;𝐖𝐖\\𝐖1𝐖&𝐖if\~x𝐖\not=𝐖y𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>𝐖.
+(\mathbb𝐖C𝐖,𝐖\mscrE𝐖)
+\mscrE𝐖
+\mathbb𝐖C𝐖𝐖.
+(\mathbb𝐖C𝐖,𝐖\mscrE𝐖)𝐖?
+\mathbb𝐖Z𝐖𝐖=
+\{\ldots𝐖,𝐖𝐖-2,𝐖𝐖-1,𝐖0,𝐖1,𝐖2,𝐖\ldots𝐖\}𝐖.
+n,𝐖
+T_n𝐖𝐖\colon𝐖\mathbb𝐖C𝐖𝐖\to𝐖\mathbb𝐖C𝐖
+T_n𝐖(z)𝐖=z𝐖+ni𝐖.
 G
-T_n
-n .
-G =\{T_n |n \in \mathbb Z \} .
-(\mathbb C, G)
-\mathscr D
-\mathscr D
-(\mathbb C, G) ?
-y =x +8 .
-\mathbb C
+T_n𝐖
+n𝐖.
+G𝐖=\{T_n𝐖|n𝐖\in𝐖\mathbb𝐖Z𝐖\}𝐖.
+(\mathbb𝐖C𝐖,𝐖G)
+\mathscr𝐖D𝐖
+\mathscr𝐖D𝐖
+(\mathbb𝐖C𝐖,𝐖G)𝐖?
+y𝐖=x𝐖+8𝐖.
+\mathbb𝐖C𝐖
 i
-\mathbb C
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
+\mathbb𝐖C𝐖
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
 z
-w \not= 0,
-\frac{z}{w},
+w𝐖\not=𝐖0,𝐖
+\frac{z}{w},𝐖
 u
-z =w \cdot u .
-\frac{1}{i} = -i
-1 =i \cdot ( -i) .
-\frac{2 +i}{3 +2i} & \lt mi/> =\frac{2 +i}{3 +2i} \cdot \frac{3 -2i}{3 -2i} \\ \~ & \lt mi/> =\frac{(6 +2) +( -4 +3)i}{9 +4} \\ \~ & \lt mi/> =\frac{8 -i}{13} \\ \~ & \lt mi/> =\frac{8}{13} -\frac{1}{13}i .
+z𝐖=w𝐖\cdot𝐖u𝐖.
+\frac{1}{i}𝐖=𝐖-i
+1𝐖=i𝐖\cdot𝐖(𝐖-i)𝐖.
+\frac{2𝐖+i}{3𝐖+2i}𝐖&𝐖\lt𝐖mi/>𝐖=\frac{2𝐖+i}{3𝐖+2i}𝐖\cdot𝐖\frac{3𝐖-2i}{3𝐖-2i}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{(6𝐖+2)𝐖+(𝐖-4𝐖+3)i}{9𝐖+4}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{8𝐖-i}{13}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{8}{13}𝐖-\frac{1}{13}i𝐖.
 z/w
-z =re^{i\theta}
-w =se^{i\beta} \not= 0 .
-\frac{1}{w} =\frac{1}{s}e^{ -i\beta} .
-\frac{z}{w} & \lt mi/> =z \cdot \frac{1}{w} \\ \~ & \lt mi/> =re^{i\theta} \cdot \frac{1}{s}e^{ -i\beta} \\ \~ & \lt mi/> =\frac{r}{s}e^{i(\theta -\beta)} .
-arg(\frac{z}{w}) =arg(z) -arg(w)
-2\pi .
-\frac{1 +i}{ -3 +3i} =\frac{\sqrt{2}e^{i\pi /4}}{\sqrt{18}e^{i3\pi /4}} =\frac{1}{3}e^{ -i\pi /2} = -\frac{1}{3}i .
-L_1
-L_2
-\angle (L_1, L_2)
-L_1
-L_2
-L_1
-L_2 .
-L_1
-L_2
-2\pi .
-\angle (L_1, L_2) = - \angle (L_2, L_1) .
-\angle (L_1, L_2)
-z_0
-z_1
-L_1,
-z_2
-L_2 .
-\angle (L_1, L_2) & \lt mi/> =arg(\frac{z_2 -z_0}{z_1 -z_0}) \\ \~ & \lt mi/> =arg(z_2 -z_0) -arg(z_1 -z_0) .
-L_1
-L_2
-2 +2i .
-L_1
-y =x
-L_2
-y =3 -x/2
-\theta
-z_1 =3 +3i
-z_2 =4 +i .
-\angle (L_1, L_2) =arg(2 -i) -arg(1 +i) = -\tan^{ -1} (1/2) -\pi /4 \approx -71.6\circ .
-L_1
-L_2
-\lt mi/>\circ
-u, v,
+z𝐖=re^{i\theta𝐖}𝐖
+w𝐖=se^{i\beta𝐖}𝐖𝐖\not=𝐖0𝐖.
+\frac{1}{w}𝐖=\frac{1}{s}e^{𝐖-i\beta𝐖}𝐖𝐖.
+\frac{z}{w}𝐖&𝐖\lt𝐖mi/>𝐖=z𝐖\cdot𝐖\frac{1}{w}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=re^{i\theta𝐖}𝐖𝐖\cdot𝐖\frac{1}{s}e^{𝐖-i\beta𝐖}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{r}{s}e^{i(\theta𝐖𝐖-\beta𝐖)}𝐖𝐖.
+arg(\frac{z}{w})𝐖=arg(z)𝐖-arg(w)
+2\pi𝐖𝐖.
+\frac{1𝐖+i}{𝐖-3𝐖+3i}𝐖=\frac{\sqrt{2}e^{i\pi𝐖/4}𝐖}{\sqrt{18}e^{i3\pi𝐖/4}𝐖}𝐖=\frac{1}{3}e^{𝐖-i\pi𝐖/2}𝐖𝐖=𝐖-\frac{1}{3}i𝐖.
+L_1𝐖
+L_2𝐖
+𝐖\angle𝐖(L_1𝐖,𝐖L_2𝐖)
+L_1𝐖
+L_2𝐖
+L_1𝐖
+L_2𝐖𝐖.
+L_1𝐖
+L_2𝐖
+2\pi𝐖𝐖.
+𝐖\angle𝐖(L_1𝐖,𝐖L_2𝐖)𝐖=𝐖-𝐖\angle𝐖(L_2𝐖,𝐖L_1𝐖)𝐖.
+𝐖\angle𝐖(L_1𝐖,𝐖L_2𝐖)
+z_0𝐖
+z_1𝐖
+L_1𝐖,𝐖
+z_2𝐖
+L_2𝐖𝐖.
+𝐖\angle𝐖(L_1𝐖,𝐖L_2𝐖)𝐖&𝐖\lt𝐖mi/>𝐖=arg(\frac{z_2𝐖𝐖-z_0𝐖}{z_1𝐖𝐖-z_0𝐖})𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=arg(z_2𝐖𝐖-z_0𝐖)𝐖-arg(z_1𝐖𝐖-z_0𝐖)𝐖.
+L_1𝐖
+L_2𝐖
+2𝐖+2i𝐖.
+L_1𝐖
+y𝐖=x
+L_2𝐖
+y𝐖=3𝐖-x/2
+\theta𝐖
+z_1𝐖𝐖=3𝐖+3i
+z_2𝐖𝐖=4𝐖+i𝐖.
+𝐖\angle𝐖(L_1𝐖,𝐖L_2𝐖)𝐖=arg(2𝐖-i)𝐖-arg(1𝐖+i)𝐖=𝐖-\tan𝐖^{𝐖-1}𝐖(1/2)𝐖-\pi𝐖/4𝐖\approx𝐖𝐖-71.6\circ𝐖.
+L_1𝐖
+L_2𝐖
+\lt𝐖mi/>\circ
+u,𝐖v,𝐖
 w
-\angle uvw
-\theta
+𝐖\angle𝐖uvw
+\theta𝐖
 \vec{vu}
-\vec{vw} .
-\angle uvw =\theta =arg(\frac{w -v}{u -v}) .
-u =1
-v =0
-\mathbb C,
+\vec{vw}𝐖.
+𝐖\angle𝐖uvw𝐖=\theta𝐖𝐖=arg(\frac{w𝐖-v}{u𝐖-v})𝐖.
+u𝐖=1
+v𝐖=0
+\mathbb𝐖C𝐖,𝐖
 z
-\mathbb C,
-\angle uvz =arg(z) .
-\frac{1}{x +yi}
-a +bi .
-\frac{1}{2i}, \frac{1}{1 +i}, \frac{4 +i}{1 -2i}, \frac{2}{3 +i} .
-| z/w| =| z|/| w|,
-\overline{z/w} =\overline{z}/\overline{w} .
-z =re^{i\theta}
-w =se^{i\alpha}
-u =z \cdot w .
-\Delta 01z
-\Delta 0wu
-\angle uvw
-u =2 +i,
-v =1 +2i,
-w = -1 +i .
+\mathbb𝐖C𝐖,𝐖
+𝐖\angle𝐖uvz𝐖=arg(z)𝐖.
+\frac{1}{x𝐖+yi}
+a𝐖+bi𝐖.
+\frac{1}{2i},𝐖\frac{1}{1𝐖+i},𝐖\frac{4𝐖+i}{1𝐖-2i},𝐖\frac{2}{3𝐖+i}𝐖.
+|𝐖z/w|𝐖=|𝐖z|/|𝐖w|,𝐖
+\overline{z/w}𝐖=\overline{z}/\overline{w}𝐖.
+z𝐖=re^{i\theta𝐖}𝐖
+w𝐖=se^{i\alpha𝐖}𝐖
+u𝐖=z𝐖\cdot𝐖w𝐖.
+\Delta𝐖01z
+\Delta𝐖0wu
+𝐖\angle𝐖uvw
+u𝐖=2𝐖+i,𝐖
+v𝐖=1𝐖+2i,𝐖
+w𝐖=𝐖-1𝐖+i𝐖.
 z
-a =1
-b = -1 .
-\angle bza =\pi /2 .
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\lt mi/>' .
-5 ' ' .
-\lt mi/>\circ .
+a𝐖=1
+b𝐖=𝐖-1𝐖.
+𝐖\angle𝐖bza𝐖=\pi𝐖/2𝐖.
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\lt𝐖mi/>'𝐖.
+5𝐖'𝐖'𝐖.
+\lt𝐖mi/>\circ𝐖.
 5'
-\lt mi/>\circ,
-\lt mi/>\circ,
-c^2 =a^2 +b^2
+\lt𝐖mi/>\circ,𝐖
+\lt𝐖mi/>\circ,𝐖
+c^2𝐖𝐖=a^2𝐖𝐖+b^2𝐖
 c
-\lt mi/>\circ .
-\lt mi/>\circ .
+\lt𝐖mi/>\circ𝐖.
+\lt𝐖mi/>\circ𝐖.
 BD
-AC .
-\angle BAC = \angle ABD .
-\lt mi/>\circ .
+AC𝐖.
+𝐖\angle𝐖BAC𝐖=𝐖\angle𝐖ABD𝐖.
+\lt𝐖mi/>\circ𝐖.
 CD
-AB .
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
-\mscrE,
-\mscrH
-(\mathbb D, \mscrH)
-\mathbb D
-\mathbb S_\infty^1 .
-\mathbb S_\infty^1
-\infty .
-\mathbb S_\infty^1
-\infty
-(\mathbb D, \mscrH),
-z_0
+AB𝐖.
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
+\mscrE𝐖,𝐖
+\mscrH𝐖
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
+\mathbb𝐖D𝐖
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖𝐖.
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖
+\infty𝐖𝐖.
+\mathbb𝐖S𝐖_\infty𝐖^1𝐖
+\infty𝐖
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖),𝐖
+z_0𝐖
 L
-z_0,
-z_0
-L .
+z_0𝐖,𝐖
+z_0𝐖
+L𝐖.
 L
-L .
+L𝐖.
 L
-M,
+M,𝐖
 M
-N,
+N,𝐖
 L
-N .
-\mathbb D
-\Delta pqr
-\mscrH
-\mscrH .
-p,
+N𝐖.
+\mathbb𝐖D𝐖
+\Delta𝐖pqr
+\mscrH𝐖
+\mscrH𝐖𝐖.
+p,𝐖
 p
 p
-p^\ast .
-\mscrH,
+p^\ast𝐖𝐖𝐖.
+\mscrH𝐖,𝐖
 p
-p^\ast
-p .
+p^\ast𝐖𝐖
+p𝐖.
 p
-\mathbb D,
-p^\ast
+\mathbb𝐖D𝐖,𝐖
+p^\ast𝐖𝐖
 p
-\mathbit p
+\mathbit𝐖p𝐖
 C
-\mathbb D
+\mathbb𝐖D𝐖
 p
-p^\ast .
+p^\ast𝐖𝐖𝐖.
 p
-q .
+q𝐖.
 p
-q .
+q𝐖.
 p
 q
-\mathbb D,
+\mathbb𝐖D𝐖,𝐖
 p
-q .
+q𝐖.
 C
-z_0
-p .
+z_0𝐖
+p𝐖.
 L
 C
-p,
+p,𝐖
 L
-z_0 p .
+z_0𝐖p𝐖.
 p
-\mathbb D,
-p^\ast
+\mathbb𝐖D𝐖,𝐖
+p^\ast𝐖𝐖
 p
 q
-\mathbb D .
-p,
-q,
-p^\ast .
-C .
+\mathbb𝐖D𝐖𝐖.
+p,𝐖
+q,𝐖
+p^\ast𝐖𝐖𝐖.
+C𝐖.
 C
 C
-\mathbb D .
+\mathbb𝐖D𝐖𝐖.
 p
-q .
-\mathbb D ?
+q𝐖.
+\mathbb𝐖D𝐖𝐖?
 L
-C .
-C ?
+C𝐖.
+C𝐖?
 p
 q
 p
 q
-\mathbb D,
+\mathbb𝐖D𝐖,𝐖
 q
 p
-p^\ast
+p^\ast𝐖𝐖
 p
-p,
-p^\ast,
-q .
-o .
-oq .
+p,𝐖
+p^\ast𝐖𝐖,𝐖
+q𝐖.
+o𝐖.
+oq𝐖.
 oq
-q .
+q𝐖.
 p
-p^\ast .
-o' .
+p^\ast𝐖𝐖𝐖.
+o'𝐖.
 o'
-q .
+q𝐖.
 q
-p .
-z_0
-\mathbb C
-k >0
-k \lt 0
-(X_k, G_k)
+p𝐖.
+z_0𝐖
+\mathbb𝐖C𝐖
+k𝐖>0
+k𝐖\lt𝐖0
+(X_k𝐖,𝐖G_k𝐖)
 E
 G
 G
-r_{obs}
-2r_{obs},
+r_{obs}𝐖
+2r_{obs}𝐖,𝐖
 G
-G .
+G𝐖.
 G
 G
 G
 N
 N
-N(N -1)/2
-N(N -1)/2
+N(N𝐖-1)/2
+N(N𝐖-1)/2
 N
-\sqrt{10^2 +14^2} \approx 17.2,
-\mathbb C /\Gamma
+\sqrt{10^2𝐖𝐖+14^2𝐖}𝐖\approx𝐖17.2,𝐖
+\mathbb𝐖C𝐖/\Gamma𝐖
 T
-d(p, T(p)) =d(q, T(q))
+d(p,𝐖T(p))𝐖=d(q,𝐖T(q))
 p
 q
-\mathbb C
-\{p, T(p)\},
+\mathbb𝐖C𝐖
+\{p,𝐖T(p)\},𝐖
 T
 T
 T
-\{p, q\}
-T(p), T(q),
-d(p, q) =d(T(p), T(q)),
+\{p,𝐖q\}
+T(p),𝐖T(q),𝐖
+d(p,𝐖q)𝐖=d(T(p),𝐖T(q)),𝐖
 N
-P =N(N -1)/2
+P𝐖=N(N𝐖-1)/2
 P
-\Delta_i
-(i +1)
+\Delta𝐖_i𝐖
+(i𝐖+1)
 i
-\Delta_i \ge 0
-i,
+\Delta𝐖_i𝐖𝐖\ge𝐖0
+i,𝐖
 i
-P -1 .
-\Delta_i =0
+P𝐖-1𝐖.
+\Delta𝐖_i𝐖𝐖=0
 i
-\Delta_i =0
-\{p, q\}
-\{T(p), T(q)\}
+\Delta𝐖_i𝐖𝐖=0
+\{p,𝐖q\}
+\{T(p),𝐖T(q)\}
 Z
-\Delta_i
-R =\frac{Z}{P -1}
+\Delta𝐖_i𝐖
+R𝐖=\frac{Z}{P𝐖-1}
 Z
-Z_\epsilon
-\Delta_i
-\epsilon,
-\epsilon
-\mathbb C
-T_1 (z) =z +i
-T_2 (z) =\overline{z} +1 +i .
-\mathbb C .
+Z_\epsilon𝐖𝐖
+\Delta𝐖_i𝐖
+\epsilon𝐖,𝐖
+\epsilon𝐖
+\mathbb𝐖C𝐖
+T_1𝐖(z)𝐖=z𝐖+i
+T_2𝐖(z)𝐖=\overline{z}𝐖+1𝐖+i𝐖.
+\mathbb𝐖C𝐖𝐖.
 a
 b
-\mathbb C .
-T_1
-T_2
-T_1^{ -1}
-T_2^{ -1} .
-T_1, T_2, T_1^{ -1},
-T_2^{ -1}
-\mathbb C
-\mathbb C .
-T_2 \circ T_1 =T_1^{ -1} \circ T_2 .
-T_1
-\mathbb C
-T_2
-T_a
-\mathbb D
-\mathbb D
+\mathbb𝐖C𝐖𝐖.
+T_1𝐖
+T_2𝐖
+T_1^{𝐖-1}𝐖
+T_2^{𝐖-1}𝐖𝐖.
+T_1𝐖,𝐖T_2𝐖,𝐖T_1^{𝐖-1}𝐖,𝐖
+T_2^{𝐖-1}𝐖
+\mathbb𝐖C𝐖
+\mathbb𝐖C𝐖𝐖.
+T_2𝐖𝐖\circ𝐖T_1𝐖𝐖=T_1^{𝐖-1}𝐖𝐖\circ𝐖T_2𝐖𝐖.
+T_1𝐖
+\mathbb𝐖C𝐖
+T_2𝐖
+T_a𝐖
+\mathbb𝐖D𝐖
+\mathbb𝐖D𝐖
 n
-H_g
-g \ge 2,
+H_g𝐖
+g𝐖\ge𝐖2,𝐖
 4g
-k = -1 .
-r_{obs} ?
-(\mathbb D, \mscrH)
-r_{obs} ?
-A(O .U .)/A(F .D .)
-r_{obs}
-g .
-g =2 .
-r_{obs}
-r_{obs}
-g =4
-g =6 .
-C_g .
+k𝐖=𝐖-1𝐖.
+r_{obs}𝐖𝐖?
+(\mathbb𝐖D𝐖,𝐖\mscrH𝐖)
+r_{obs}𝐖𝐖?
+A(O𝐖.U𝐖.)/A(F𝐖.D𝐖.)
+r_{obs}𝐖
+g𝐖.
+g𝐖=2𝐖.
+r_{obs}𝐖
+r_{obs}𝐖
+g𝐖=4
+g𝐖=6𝐖.
+C_g𝐖𝐖.

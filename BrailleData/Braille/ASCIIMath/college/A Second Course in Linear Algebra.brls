@@ -210,12 +210,12 @@ A
 m xx n
 cc L(A) = cc N(A^t) sube CC^m
 bb y in cc L(A)
-A^t bb y = '\\y01d7ce'
-['\\y01d7ce'^t, "<mi//>"=(A^t bb y)^t, \ , "Definition LNS"], [\ , "<mi//>"=bb y^t(A^t)^t, \ , "Theorem MMT"], [\ , "<mi//>"=bb y^t A, \ , "Theorem TT"]
+A^t bb y = bb 0
+[bb 0^t, "<mi//>"=(A^t bb y)^t, \ , "Definition LNS"], [\ , "<mi//>"=bb y^t(A^t)^t, \ , "Theorem MMT"], [\ , "<mi//>"=bb y^t A, \ , "Theorem TT"]
 bb y^t A
 bb y
 A
-'\\y01d7ce'^t
+bb 0^t
 L
 A
 A
@@ -407,7 +407,7 @@ T(bb x)
 T(bb y)
 V
 T:U -> V
-T('\\y01d7ce') = '\\y01d7ce'
+T(bb 0) = bb 0
 S([[0], [0], [0]]) = [[0], [0], [-2]]
 S
 [S(0+0x+0x^2+0x^3), "<mi//>"=[[0, 0], [0, 0]]]
@@ -417,7 +417,7 @@ V
 T(bb x) = bb y
 T(bb u) = bb v = T(bb w)
 bb t
-T('\\y01d7ce'_U) = '\\y01d7ce'_V
+T(bb 0_U) = bb 0_V
 A
 m xx n
 T:CC^n -> CC^m
@@ -563,12 +563,12 @@ bb u, bb v in CC^m
 bb u+bb v = bb v+bb u
 bb u, bb v, bb w in CC^m
 bb u+(bb v+bb w) = (bb u+bb v)+bb w
-'\\y01d7ce'
-bb u+'\\y01d7ce' = bb u
+bb 0
+bb u+bb 0 = bb u
 bb u in CC^m
 bb u in CC^m
 -bb u in CC^m
-bb u+(-bb u) = '\\y01d7ce'
+bb u+(-bb u) = bb 0
 alpha, beta in CC^\
 bb u in CC^m
 alpha(beta bb u) = (alpha beta)bb u
@@ -582,19 +582,19 @@ bb u in CC^m
 1bb u = bb u
 -bb u
 bb u
-'\\y01d7ce'
+bb 0
 -bb u
 [-bb u]_i = -[bb u]_i = (-1)[bb u]_i = [(-1)bb u]_i
 (bb u+bb v)+(bb w+(bb x+bb y))
 bb u+bb v+bb w+bb x+bb y
 T:V -> V
 p > 0
-T^p(bb v) = '\\y01d7ce'
+T^p(bb v) = bb 0
 bb v in V.
 p
 T.
 T
-T(bb v) = '\\y01d7ce'
+T(bb v) = bb 0
 1.
 T:V -> V
 lambda
@@ -610,7 +610,7 @@ T:V -> V
 p
 dim(V) = n.
 0 <= p <= n
-{'\\y01d7ce'} = cc K(T^0)'\\x00228a'cc K(T^1)'\\x00228a'cc K(T^2)'\\x00228a'cdots'\\x00228a'cc K(T^p) = cc K(T^(p+1)) = cdots = V
+{bb 0} = cc K(T^0)'\\x00228a'cc K(T^1)'\\x00228a'cc K(T^2)'\\x00228a'cdots'\\x00228a'cc K(T^p) = cc K(T^(p+1)) = cdots = V
 n xx n
 A,
 A^n,
@@ -704,8 +704,8 @@ n
 m = n
 n
 A
-cc L cc S(A, '\\y01d7ce')
-{'\\y01d7ce'}
+cc L cc S(A, bb 0)
+{bb 0}
 A
 A
 5 xx 7
@@ -719,7 +719,7 @@ B
 A
 A
 A
-cc N(A) = {'\\y01d7ce'}
+cc N(A) = {bb 0}
 A
 A
 cc L cc S(A, bb b)
@@ -730,7 +730,7 @@ A
 A
 A
 A
-cc N(A) = {'\\y01d7ce'}
+cc N(A) = {bb 0}
 cc L cc S(A, bb b)
 bb b
 T:U -> V
@@ -1036,8 +1036,8 @@ CC^m
 bb u
 CC^m
 '\\x0027e8'bb u, bb u'\\x0027e9' >= 0
-bb u = '\\y01d7ce'
-[bb u in CC^m, "<mi//>"=>'\\x0027e8'bb u,bb u'\\x0027e9'>=0], [bb u='\\y01d7ce', "<mi//>"=>'\\x0027e8'bb u,bb u'\\x0027e9'=0], ['\\x0027e8'bb u,bb u'\\x0027e9'=0, "<mi//>"=>bb u='\\y01d7ce']
+bb u = bb 0
+[bb u in CC^m, "<mi//>"=>'\\x0027e8'bb u,bb u'\\x0027e9'>=0], [bb u=bb 0, "<mi//>"=>'\\x0027e8'bb u,bb u'\\x0027e9'=0], ['\\x0027e8'bb u,bb u'\\x0027e9'=0, "<mi//>"=>bb u=bb 0]
 bb u
 bb v
 CC^m
@@ -1211,7 +1211,7 @@ T.
 T,
 cc R(T),
 T
-{'\\y01d7ce'}
+{bb 0}
 T.
 T:V -> V
 k
@@ -1276,7 +1276,7 @@ CC^m
 V
 V
 S = {bb u_1, bb u_2, bb u_3, ..., bb u_n}
-alpha_1 bb u_1+alpha_2 bb u_2+alpha_3 bb u_3+cdots+alpha_n bb u_n = '\\y01d7ce'
+alpha_1 bb u_1+alpha_2 bb u_2+alpha_3 bb u_3+cdots+alpha_n bb u_n = bb 0
 S
 alpha_i = 0
 1 <= i <= n
@@ -1521,7 +1521,7 @@ T:CC^3 -> CC^5, \ T([[x_1], [x_2], [x_3]]) = [[-x_1+x_2+x_3], [-x_1+2x_2+2x_3], 
 '\\x0025fb'
 [{\ }]
 '\\x0025fb'
-cc K(T) = {'\\y01d7ce'}
+cc K(T) = {bb 0}
 T
 '\\x0025fb'
 [{[[-1], [-1], [1], [2], [-2]],[[1], [2], [1], [3], [1]],[[1], [2], [3], [1], [3]]}]
@@ -1558,10 +1558,10 @@ T:U -> V
 U
 T:U -> V
 T
-cc K(T) = {<mo fence="true" stretchy="true" symmetric="true"//>bb u in U|T(bb u) = '\\y01d7ce'}
+cc K(T) = {<mo fence="true" stretchy="true" symmetric="true"//>bb u in U|T(bb u) = bb 0}
 T
-'\\y01d7ce'
-T^(-1)('\\y01d7ce')
+bb 0
+T^(-1)(bb 0)
 T:U -> V
 T
 cc K(T)
@@ -1573,16 +1573,16 @@ bb u in T^(-1)(bb v)
 T^(-1)(bb v) = {<mo fence="true" stretchy="true" symmetric="true"//>bb u+bb z|bb z in cc K(T)} = bb u+cc K(T)
 T(bb u_i) = bb v_i
 i = 1, 2, 3
-T('\\y01d7ce'_U) = '\\y01d7ce'_V
+T(bb 0_U) = bb 0_V
 T^(-1)(bb v_2)
-T^(-1)('\\y01d7ce'_V)
+T^(-1)(bb 0_V)
 cc K(T)
 U
 bb x, bb y in V
 T:U -> V
 T
 T
-cc K(T) = {'\\y01d7ce'}
+cc K(T) = {bb 0}
 T:U -> V
 [S, "<mi//>"={bb u_1,bb u_2,bb u_3,...,bb u_t}]
 U
@@ -1661,7 +1661,7 @@ n
 A
 A
 A
-cc N(A) = {'\\y01d7ce'}
+cc N(A) = {bb 0}
 cc L cc S(A, bb b)
 bb b
 A
@@ -1811,7 +1811,7 @@ P
 P^2 = P.
 P
 bb x in cc C(P).
-Pbb x-bb x = '\\y01d7ce'.
+Pbb x-bb x = bb 0.
 P
 n
 bb x in CC^n
@@ -1859,7 +1859,7 @@ Pbb x-bb x
 U.
 U,
 A.
-[\ , A^** (Pbb x-bb x)='\\y01d7ce'], [\ , A^**Abb w-A^**bb x='\\y01d7ce'], [\ , A^**Abb w=A^**bb x]
+[\ , A^** (Pbb x-bb x)=bb 0], [\ , A^**Abb w-A^**bb x=bb 0], [\ , A^**Abb w=A^**bb x]
 A
 A^**A
 Pbb x = Abb w = A(A^**A)^(-1)A^**bb x
@@ -1884,14 +1884,14 @@ U^**U,
 U
 A
 '\\x0027e8'bb x, Abb x'\\x0027e9' > 0
-bb x != '\\y01d7ce'.
+bb x != bb 0.
 A
 U,
 A = U^**U.
 A.
 A
 n xx n
-[A, "<mi//>"=[[a, bb y^** ], [bb y, B]]], [\ , "<mi//>"=[[sqrt(a), '\\y01d7ce'^** ], [1/(sqrt(a)) bb y, I]][[1, '\\y01d7ce'^** ], ['\\y01d7ce', B-1/a bb y bb y^** ]][[sqrt(a), 1/(sqrt(a)) bb y^** ], ['\\y01d7ce', I]]], [\ , "<mi//>"=U_1^**A_1 U_1]
+[A, "<mi//>"=[[a, bb y^** ], [bb y, B]]], [\ , "<mi//>"=[[sqrt(a), bb 0^** ], [1/(sqrt(a)) bb y, I]][[1, bb 0^** ], [bb 0, B-1/a bb y bb y^** ]][[sqrt(a), 1/(sqrt(a)) bb y^** ], [bb 0, I]]], [\ , "<mi//>"=U_1^**A_1 U_1]
 A,
 bb x = bb e_1
 a = '\\x0027e8'bb e_1, Abb e_1'\\x0027e9' > 0.
@@ -1907,7 +1907,7 @@ A
 [A]_(ij)
 bb v
 [bb v]_i
-'\\y01d7ce'
+bb 0
 cc L cc S(A, bb b)
 [<mo fence="true" stretchy="true" symmetric="true"//>A|bb b]
 R_i harr R_j
@@ -1975,10 +1975,10 @@ T:V -> V
 dim(V) = n.
 m,
 0 <= m <= n,
-{'\\y01d7ce'} = cc K(T^0)'\\x00228a'cc K(T^1)'\\x00228a'cc K(T^2)'\\x00228a'cdots'\\x00228a'cc K(T^m) = cc K(T^(m+1)) = cc K(T^(m+2)) = cdots
+{bb 0} = cc K(T^0)'\\x00228a'cc K(T^1)'\\x00228a'cc K(T^2)'\\x00228a'cdots'\\x00228a'cc K(T^m) = cc K(T^(m+1)) = cc K(T^(m+2)) = cdots
 T:V -> V
-bb x != '\\y01d7ce',
-(T-lambda I_V)^k(bb x) = '\\y01d7ce'
+bb x != bb 0,
+(T-lambda I_V)^k(bb x) = bb 0
 k > 0.
 bb x
 T
@@ -1986,7 +1986,7 @@ lambda.
 T:V -> V
 T
 lambda
-cc G_T(lambda) = {bb x|(T-lambda I_V)^k(bb x) = '\\y01d7ce'"\for some\ "k >= 0}
+cc G_T(lambda) = {bb x|(T-lambda I_V)^k(bb x) = bb 0"\for some\ "k >= 0}
 V.
 V
 T.
@@ -2128,7 +2128,7 @@ n
 A
 A
 A
-cc N(A) = {'\\y01d7ce'}
+cc N(A) = {bb 0}
 cc L cc S(A, bb b)
 bb b
 A
@@ -2182,7 +2182,7 @@ CC^m
 '\\x0025fb'
 [B, "<mi//>"={[[0], [2], [3], [3], [1]],[[3], [4], [1], [3], [3]],[[5], [3], [0], [0], [2]],[[-3], [1], [0], [2], [0]],[[1], [-1], [2], [0], [0]]}, \ , "(Domain, codomain basis)"], [M_(B,B)^T, "<mi//>"=[[-1, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 1, 0, 0], [0, 0, 0, 1, 0], [0, 0, 0, 0, 1]]]
 S = {bb u_1, bb u_2, bb u_3, ..., bb u_n}
-alpha_1 bb u_1+alpha_2 bb u_2+alpha_3 bb u_3+cdots+alpha_n bb u_n = '\\y01d7ce'
+alpha_1 bb u_1+alpha_2 bb u_2+alpha_3 bb u_3+cdots+alpha_n bb u_n = bb 0
 S
 alpha_i = 0
 1 <= i <= n
@@ -2198,7 +2198,7 @@ A
 m xx n
 S
 S
-cc L cc S(A, '\\y01d7ce')
+cc L cc S(A, bb 0)
 r
 r
 n
@@ -2227,7 +2227,7 @@ A
 A
 A
 A
-cc N(A) = {'\\y01d7ce'}
+cc N(A) = {bb 0}
 cc L cc S(A, bb b)
 bb b
 A
@@ -2321,12 +2321,12 @@ n+1
 r < n
 n+1
 cc L cc S(A, bb b)
-bb b = '\\y01d7ce'
+bb b = bb 0
 n
 x_1 = 0
 x_2 = 0
 x_n = 0
-bb x = '\\y01d7ce'
+bb x = bb 0
 m
 n
 n > m
@@ -2334,7 +2334,7 @@ n = m
 n > m
 A
 cc N(A)
-cc L cc S(A, '\\y01d7ce')
+cc L cc S(A, bb 0)
 n
 bb u_1, bb u_2, bb u_3, ..., bb u_n
 CC^m
@@ -2512,7 +2512,7 @@ CC^m
 [[[12, -5, 1, -1], [-39, 18, -7, 3], [27/7, -13/7, 6/7, -1/7], [26/7, -12/7, 5/7, -2/7]][[33, -16, 10, -2], [99, -47, 27, -7], [78, -36, 17, -6], [-9, 2, 3, 4]][[1, 2, 1, 17], [2, 5, 1, 45], [0, 2, 0, 21], [1, 1, 7, 0]], "<mi//>"=[[-1, 0, 0, 0], [0, 2, 0, 0], [0, 0, 3, 0], [0, 0, 0, 3]]]
 A
 n
-bb x != '\\y01d7ce'
+bb x != bb 0
 CC^n
 lambda
 CC^\
@@ -2522,9 +2522,9 @@ lambda
 Abb x = lambda bb x
 A
 A
-Abb x = lambda bb x'\\x0027fa'Abb x-lambda I_n bb x = '\\y01d7ce''\\x0027fa'(A-lambda I_n)bb x = '\\y01d7ce'
+Abb x = lambda bb x'\\x0027fa'Abb x-lambda I_n bb x = bb 0'\\x0027fa'(A-lambda I_n)bb x = bb 0
 lambda
-bb x != '\\y01d7ce'
+bb x != bb 0
 bb x
 A-lambda I_n
 A-lambda I_n
@@ -2545,7 +2545,7 @@ lambda
 cc E_A(lambda)
 A
 lambda
-'\\y01d7ce'
+bb 0
 A
 n
 lambda
@@ -2660,12 +2660,12 @@ bb u, bb v in V
 bb u+bb v = bb v+bb u
 bb u, bb v, bb w in V
 bb u+(bb v+bb w) = (bb u+bb v)+bb w
-'\\y01d7ce'
-bb u+'\\y01d7ce' = bb u
+bb 0
+bb u+bb 0 = bb u
 bb u in V
 bb u in V
 -bb u in V
-bb u+(-bb u) = '\\y01d7ce'
+bb u+(-bb u) = bb 0
 alpha, beta in CC^\
 bb u in V
 alpha(beta bb u) = (alpha beta)bb u
@@ -2696,19 +2696,19 @@ M_(mn)
 P_n
 V
 V
-'\\y01d7ce'
+bb 0
 V
 bb u in V
 -bb u
 V
 bb u in V
-0bb u = '\\y01d7ce'
+0bb u = bb 0
 V
 alpha in CC^\
-alpha'\\y01d7ce' = '\\y01d7ce'
+alpha bb 0 = bb 0
 bb u^'\\x00266f'
 bb u
-bb u+bb u^'\\x00266f' = '\\y01d7ce'
+bb u+bb u^'\\x00266f' = bb 0
 bb u^'\\x00266f' = (-1)bb u
 V
 bb u in V
@@ -2721,9 +2721,9 @@ alpha = 0
 beta = 0
 V
 alpha in CC^\
-alpha bb u = '\\y01d7ce'
+alpha bb u = bb 0
 alpha = 0
-bb u = '\\y01d7ce'
+bb u = bb 0
 V
 bb u_1, bb u_2, bb u_3 in V
 5bb u_1+7bb u_2-13bb u_3
@@ -2765,8 +2765,8 @@ i
 [bb v]_i
 m
 m
-['\\y01d7ce'=[[0], [0], [0], [vdots], [0]]]
-['\\y01d7ce']_i = 0
+[bb 0=[[0], [0], [0], [vdots], [0]]]
+[bb 0]_i = 0
 1 <= i <= m
 [a_(11)x_1+a_(12)x_2+a_(13)x_3+cdots+a_(1n)x_n, "<mi//>"=b_1], [a_(21)x_1+a_(22)x_2+a_(23)x_3+cdots+a_(2n)x_n, "<mi//>"=b_2], [a_(31)x_1+a_(32)x_2+a_(33)x_3+cdots+a_(3n)x_n, "<mi//>"=b_3], [vdots, \ ], [a_(m1)x_1+a_(m2)x_2+a_(m3)x_3+cdots+a_(mn)x_n, "<mi//>"=b_m]
 m xx n
@@ -2945,7 +2945,7 @@ n
 A
 A
 A
-cc N(A) = {'\\y01d7ce'}
+cc N(A) = {bb 0}
 cc L cc S(A, bb b)
 bb b
 A
@@ -3037,10 +3037,10 @@ bb v in V,
 bb u in U,
 bb w in W
 bb v = bb u+bb w.
-'\\y01d7ce' = bb u+bb w
+bb 0 = bb u+bb w
 bb u in U,
 bb w in W
-bb u = bb w = '\\y01d7ce'.
+bb u = bb w = bb 0.
 U
 W
 V.
@@ -3049,7 +3049,7 @@ bb v in V,
 bb u in U,
 bb w in W
 bb v = bb u+bb w.
-U nn W = {'\\y01d7ce'}.
+U nn W = {bb 0}.
 U
 W
 V
@@ -3566,7 +3566,7 @@ n
 A
 A
 A
-cc N(A) = {'\\y01d7ce'}
+cc N(A) = {bb 0}
 cc L cc S(A, bb b)
 bb b
 A
@@ -3710,10 +3710,10 @@ CC^2
 V
 V
 V
-Z = {'\\y01d7ce'}
+Z = {bb 0}
 V
 V
-{'\\y01d7ce'}
+{bb 0}
 A
 m xx n
 A
@@ -3883,7 +3883,7 @@ bb b
 bb w+cc K(T) = {<mo fence="true" stretchy="true" symmetric="true"//>bb w+bb z|bb z in cc K(T)}
 T
 D
-cc L cc S(D, '\\y01d7ce')
+cc L cc S(D, bb 0)
 D
 bb b
 bb d = [[2], [3], [2]]
@@ -4095,7 +4095,7 @@ delta_i,
 A^**A.
 Abb x_i = sqrt(delta_i)bb y_bb i,
 1 <= i <= r
-Abb x_i = '\\y01d7ce',
+Abb x_i = bb 0,
 r+1 <= i <= n.
 bb y_i,
 r+1 <= i <= m,
@@ -4216,7 +4216,7 @@ n
 A
 A
 A
-cc N(A) = {'\\y01d7ce'}
+cc N(A) = {bb 0}
 cc L cc S(A, bb b)
 bb b
 A
@@ -4337,7 +4337,7 @@ n
 A
 A
 A
-cc N(A) = {'\\y01d7ce'}
+cc N(A) = {bb 0}
 cc L cc S(A, bb b)
 bb b
 A
@@ -4956,7 +4956,7 @@ n
 A
 A
 A
-cc N(A) = {'\\y01d7ce'}
+cc N(A) = {bb 0}
 cc L cc S(A, bb b)
 bb b
 A

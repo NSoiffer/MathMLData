@@ -1,79 +1,79 @@
-(0, 0)
-(4, 3)
-a +b
-(0, 0)
-(a, b)
-(m, n)
-m, n \in \mathbb Z .
-(0, 0)
-y = -x +4
-(0, 0)
-y =10 -x
-2^n =\binom{n}{0} +\binom{n}{1} +\ldots +\binom{n}{n}
-\binom{n}{k} =\binom{n -1}{k} +\binom{n -1}{k -1}
-(0, 0)
-x +2y =n
-(0, 0, 0)
-x +y +z =2
-(0, 0)
-(n, n)
-y =x .
-T_n =\frac{n(n +1)}{2}
-n^{th}
-T_n +T_{n +1} =(n +1)^2 .
-T_n +T_m +mn =T_{m +n}
-T_n^2 +T_{n -1}^2 =T_{n^2}
-3T_n +T_{n +1} =T_{2n +1}
-3T_n +T_{n -1} =T_{2n}
-T_6, T_{66}, T_{666}, T_{6666}, \ldots
-T_3 +T_6 +T_9 +\ldots +T_{3n} .
-1 +3 +6 +10 +15 =1^2 +3^2 +5^2
-1 +3 +6 +10 +15 +21 =2^2 +4^2 +6^2
-F_1 +F_2 +\ldots +F_n =F_{n +2} -1
-F_1^2 +F_2^2 +\ldots +F_n^2 =F_n F_{n +1}
-F_{n +1}^2 -F_n F_{n +2} =( -1)^n
-F_{n +2} =\binom{n +1}{0} +\binom{n}{1} +\binom{n -1}{2} +\cdots
-F_n =\frac{\alpha^n -\beta^n}{\alpha -\beta}
-\alpha, \beta
-x^2 -x -1 =0
-\binom{n}{0}F_0 +\binom{n}{1}F_1 +\ldots +\binom{n}{n}F_0 =F_{2n} .
-F_n
-F_n =[\binom{n}{1} +\binom{n}{3}5 +\binom{n}{5}5^2 \ldots] +[\binom{n}{0} +\binom{n}{2} +\binom{n}{4} +\ldots] .
-Q = \begin{pmatrix} 1 & 1 \\ 1 & 0 \end{pmatrix}
-Q^n = \begin{pmatrix} F_{n +1} & F_n \\ F_n & F_{n -1} \end{pmatrix}
-Q^2 =Q +I;
-Q^{2n}
-Q^{2n +1} =Q^n Q^{n +1}
-F_{2n +1} =F_{n +1}^2 +F_n^2
-x^2 =x +1
-x^n =F_n x +F_{n -1}
-n \ge 2
-F_n =\frac{\alpha^n -\beta^n}{\alpha -\beta}
-(1 +x +x^2)^2,
-(1 +x +x^2)^3,
-(1 +x +x^2)^4 .
-1^2 +2^2 +3^2 +2^2 +1^2
-(1 +x +x^2)^n
-(x +y +z)^n .
-(1 +x +x^2 +x^3)^n
-(1 +x +x^2 +\ldots +x^k)^n
-\binom{n}{2} +\binom{n +1}{2} =n^2
-\binom{n}{3} +4\binom{n +1}{3} +\binom{n +2}{3} =n^3
-1^2 +2^2 +3^2 +\ldots +n^2
-1^3 +2^3 +3^3 +\ldots +n^3
-n^4
-1^4 +2^4 +3^4 +\ldots +n^4
-a,
-b,
-c,
+(0,𝐖0)
+(4,𝐖3)
+a𝐖+b
+(0,𝐖0)
+(a,𝐖b)
+(m,𝐖n)
+m,𝐖n𝐖\in𝐖\mathbb𝐖Z𝐖𝐖.
+(0,𝐖0)
+y𝐖=𝐖-x𝐖+4
+(0,𝐖0)
+y𝐖=10𝐖-x
+2^n𝐖𝐖=\binom{n}{0}𝐖+\binom{n}{1}𝐖+\ldots𝐖𝐖+\binom{n}{n}
+\binom{n}{k}𝐖=\binom{n𝐖-1}{k}𝐖+\binom{n𝐖-1}{k𝐖-1}
+(0,𝐖0)
+x𝐖+2y𝐖=n
+(0,𝐖0,𝐖0)
+x𝐖+y𝐖+z𝐖=2
+(0,𝐖0)
+(n,𝐖n)
+y𝐖=x𝐖.
+T_n𝐖𝐖=\frac{n(n𝐖+1)}{2}
+n^{th}𝐖
+T_n𝐖𝐖+T_{n𝐖+1}𝐖𝐖=(n𝐖+1)^2𝐖𝐖.
+T_n𝐖𝐖+T_m𝐖𝐖+mn𝐖=T_{m𝐖+n}𝐖
+T_n^2𝐖𝐖+T_{n𝐖-1}^2𝐖𝐖=T_{n^2𝐖}𝐖
+3T_n𝐖𝐖+T_{n𝐖+1}𝐖𝐖=T_{2n𝐖+1}𝐖
+3T_n𝐖𝐖+T_{n𝐖-1}𝐖𝐖=T_{2n}𝐖
+T_6𝐖,𝐖T_{66}𝐖,𝐖T_{666}𝐖,𝐖T_{6666}𝐖,𝐖\ldots𝐖
+T_3𝐖𝐖+T_6𝐖𝐖+T_9𝐖𝐖+\ldots𝐖𝐖+T_{3n}𝐖𝐖.
+1𝐖+3𝐖+6𝐖+10𝐖+15𝐖=1^2𝐖𝐖+3^2𝐖𝐖+5^2𝐖
+1𝐖+3𝐖+6𝐖+10𝐖+15𝐖+21𝐖=2^2𝐖𝐖+4^2𝐖𝐖+6^2𝐖
+F_1𝐖𝐖+F_2𝐖𝐖+\ldots𝐖𝐖+F_n𝐖𝐖=F_{n𝐖+2}𝐖𝐖-1
+F_1^2𝐖𝐖+F_2^2𝐖𝐖+\ldots𝐖𝐖+F_n^2𝐖𝐖=F_n𝐖F_{n𝐖+1}𝐖
+F_{n𝐖+1}^2𝐖𝐖-F_n𝐖F_{n𝐖+2}𝐖𝐖=(𝐖-1)^n𝐖
+F_{n𝐖+2}𝐖𝐖=\binom{n𝐖+1}{0}𝐖+\binom{n}{1}𝐖+\binom{n𝐖-1}{2}𝐖+\cdots𝐖
+F_n𝐖𝐖=\frac{\alpha𝐖^n𝐖𝐖-\beta𝐖^n𝐖}{\alpha𝐖𝐖-\beta𝐖}
+\alpha𝐖,𝐖\beta𝐖
+x^2𝐖𝐖-x𝐖-1𝐖=0
+\binom{n}{0}F_0𝐖𝐖+\binom{n}{1}F_1𝐖𝐖+\ldots𝐖𝐖+\binom{n}{n}F_0𝐖𝐖=F_{2n}𝐖𝐖.
+F_n𝐖
+F_n𝐖𝐖=[\binom{n}{1}𝐖+\binom{n}{3}5𝐖+\binom{n}{5}5^2𝐖\ldots𝐖]𝐖+[\binom{n}{0}𝐖+\binom{n}{2}𝐖+\binom{n}{4}𝐖+\ldots𝐖]𝐖.
+Q𝐖=𝐖\begin{pmatrix}𝐖1𝐖&𝐖1𝐖\\𝐖1𝐖&𝐖0𝐖\end{pmatrix}𝐖
+Q^n𝐖𝐖=𝐖\begin{pmatrix}𝐖F_{n𝐖+1}𝐖𝐖&𝐖F_n𝐖𝐖\\𝐖F_n𝐖𝐖&𝐖F_{n𝐖-1}𝐖𝐖\end{pmatrix}𝐖
+Q^2𝐖𝐖=Q𝐖+I;𝐖
+Q^{2n}𝐖
+Q^{2n𝐖+1}𝐖𝐖=Q^n𝐖Q^{n𝐖+1}𝐖
+F_{2n𝐖+1}𝐖𝐖=F_{n𝐖+1}^2𝐖𝐖+F_n^2𝐖
+x^2𝐖𝐖=x𝐖+1
+x^n𝐖𝐖=F_n𝐖x𝐖+F_{n𝐖-1}𝐖
+n𝐖\ge𝐖2
+F_n𝐖𝐖=\frac{\alpha𝐖^n𝐖𝐖-\beta𝐖^n𝐖}{\alpha𝐖𝐖-\beta𝐖}
+(1𝐖+x𝐖+x^2𝐖)^2𝐖,𝐖
+(1𝐖+x𝐖+x^2𝐖)^3𝐖,𝐖
+(1𝐖+x𝐖+x^2𝐖)^4𝐖𝐖.
+1^2𝐖𝐖+2^2𝐖𝐖+3^2𝐖𝐖+2^2𝐖𝐖+1^2𝐖
+(1𝐖+x𝐖+x^2𝐖)^n𝐖
+(x𝐖+y𝐖+z)^n𝐖𝐖.
+(1𝐖+x𝐖+x^2𝐖𝐖+x^3𝐖)^n𝐖
+(1𝐖+x𝐖+x^2𝐖𝐖+\ldots𝐖𝐖+x^k𝐖)^n𝐖
+\binom{n}{2}𝐖+\binom{n𝐖+1}{2}𝐖=n^2𝐖
+\binom{n}{3}𝐖+4\binom{n𝐖+1}{3}𝐖+\binom{n𝐖+2}{3}𝐖=n^3𝐖
+1^2𝐖𝐖+2^2𝐖𝐖+3^2𝐖𝐖+\ldots𝐖𝐖+n^2𝐖
+1^3𝐖𝐖+2^3𝐖𝐖+3^3𝐖𝐖+\ldots𝐖𝐖+n^3𝐖
+n^4𝐖
+1^4𝐖𝐖+2^4𝐖𝐖+3^4𝐖𝐖+\ldots𝐖𝐖+n^4𝐖
+a,𝐖
+b,𝐖
+c,𝐖
 d
-1^4 +2^4 +3^4 +\ldots +n^4 =a\binom{n +1}{5} +b\binom{n +2}{5} +c\binom{n +3}{5} +d\binom{n +4}{5}
-n =1, 2, 3, 4 .
-n^5
-1^5 +2^5 +3^5 +\ldots +n^5
-n^2, n^3, n^4,
-n^5
-\begin{bmatrix} n \\ k \end{bmatrix}
+1^4𝐖𝐖+2^4𝐖𝐖+3^4𝐖𝐖+\ldots𝐖𝐖+n^4𝐖𝐖=a\binom{n𝐖+1}{5}𝐖+b\binom{n𝐖+2}{5}𝐖+c\binom{n𝐖+3}{5}𝐖+d\binom{n𝐖+4}{5}
+n𝐖=1,𝐖2,𝐖3,𝐖4𝐖.
+n^5𝐖
+1^5𝐖𝐖+2^5𝐖𝐖+3^5𝐖𝐖+\ldots𝐖𝐖+n^5𝐖
+n^2𝐖,𝐖n^3𝐖,𝐖n^4𝐖,𝐖
+n^5𝐖
+𝐖\begin{bmatrix}𝐖n𝐖\\𝐖k𝐖\end{bmatrix}𝐖
 \frac{1}{1}
 \frac{1}{2}
 \frac{1}{2}
@@ -89,147 +89,147 @@ n^5
 \frac{1}{30}
 \frac{1}{20}
 \frac{1}{5}
-\begin{bmatrix} n \\ k \end{bmatrix}
-1 \times 12
-2 \times 11
-3 \times 10
-4 \times 9
-5 \times 8
-6 \times 7
-7 \times 6
-8 \times 5
-9 \times 4
-10 \times 3
-11 \times 2
-12 \times 1
-1 \cdot n +2(n -1) +3(n -2) +\cdots +n \cdot 1
-1 \cdot n +2(n -1) +3(n -2) +\cdots +n \cdot 1 =\binom{n +2}{3}
-n,
-x_1 +x_2 +\cdots +x_k =n
-x_i
+𝐖\begin{bmatrix}𝐖n𝐖\\𝐖k𝐖\end{bmatrix}𝐖
+1𝐖\times𝐖12
+2𝐖\times𝐖11
+3𝐖\times𝐖10
+4𝐖\times𝐖9
+5𝐖\times𝐖8
+6𝐖\times𝐖7
+7𝐖\times𝐖6
+8𝐖\times𝐖5
+9𝐖\times𝐖4
+10𝐖\times𝐖3
+11𝐖\times𝐖2
+12𝐖\times𝐖1
+1𝐖\cdot𝐖n𝐖+2(n𝐖-1)𝐖+3(n𝐖-2)𝐖+\cdots𝐖𝐖+n𝐖\cdot𝐖1
+1𝐖\cdot𝐖n𝐖+2(n𝐖-1)𝐖+3(n𝐖-2)𝐖+\cdots𝐖𝐖+n𝐖\cdot𝐖1𝐖=\binom{n𝐖+2}{3}
+n,𝐖
+x_1𝐖𝐖+x_2𝐖𝐖+\cdots𝐖𝐖+x_k𝐖𝐖=n
+x_i𝐖
 k
-n .
+n𝐖.
 n
-n .
+n𝐖.
 k
-p(k);
-p(3) =3 .
-\lambda
-\lambda =1, 1, 1,
-\gamma =2, 1
-\tau =3
-\lambda =1^3
-\lambda =1, 1, 1,
-\lambda \dashv 3
-\lambda
-p(4) =5
-4 =1 +1 +1 +1,
-4 =2 +1 +1,
-4 =2 +2,
-4 =3 +1,
-4 =4 .
-p(5) .
-\mathbit k
-\mathbit n
+p(k);𝐖
+p(3)𝐖=3𝐖.
+\lambda𝐖
+\lambda𝐖𝐖=1,𝐖1,𝐖1,𝐖
+\gamma𝐖𝐖=2,𝐖1
+\tau𝐖𝐖=3
+\lambda𝐖𝐖=1^3𝐖
+\lambda𝐖𝐖=1,𝐖1,𝐖1,𝐖
+\lambda𝐖𝐖\dashv𝐖3
+\lambda𝐖
+p(4)𝐖=5
+4𝐖=1𝐖+1𝐖+1𝐖+1,𝐖
+4𝐖=2𝐖+1𝐖+1,𝐖
+4𝐖=2𝐖+2,𝐖
+4𝐖=3𝐖+1,𝐖
+4𝐖=4𝐖.
+p(5)𝐖.
+\mathbit𝐖k𝐖
+\mathbit𝐖n𝐖
 n
-k .
-p_n (k)
-k
-n
-p_n (k)
+k𝐖.
+p_n𝐖(k)
 k
 n
-6 +1,
-5 +2,
-4 +3 .
-p_2 (7) =3 .
-p_3 (6)
-x_1 +x_2 +x_3 =7
-x_1 \ge x_2 \ge x_3 ?
+p_n𝐖(k)
 k
 n
-x_1, x_2, \ldots, x_n
-x_1 +x_2 +\cdots +x_n =k
-x_1 \ge x_2 \ge \ldots \ge x_n .
-p_n (k)
-\frac{1}{n!}\binom{k -1}{n -1} .
+6𝐖+1,𝐖
+5𝐖+2,𝐖
+4𝐖+3𝐖.
+p_2𝐖(7)𝐖=3𝐖.
+p_3𝐖(6)
+x_1𝐖𝐖+x_2𝐖𝐖+x_3𝐖𝐖=7
+x_1𝐖𝐖\ge𝐖x_2𝐖𝐖\ge𝐖x_3𝐖𝐖?
 k
-(x_1, x_2, \ldots, x_n)
-x_1 +2x_2 +\ldots kx_k =k .
-(2, 1)
-(2, 1, 0, 0) .
+n
+x_1𝐖,𝐖x_2𝐖,𝐖\ldots𝐖,𝐖x_n𝐖
+x_1𝐖𝐖+x_2𝐖𝐖+\cdots𝐖𝐖+x_n𝐖𝐖=k
+x_1𝐖𝐖\ge𝐖x_2𝐖𝐖\ge𝐖\ldots𝐖𝐖\ge𝐖x_n𝐖𝐖.
+p_n𝐖(k)
+\frac{1}{n!}\binom{k𝐖-1}{n𝐖-1}𝐖.
 k
-k +1
-\lambda =\lambda_1, \lambda_2, \ldots, \lambda_n,
-\lambda_i
-(t_1, t_2, \ldots, t_m)
-\lambda =1^{t_1} 2^{t_2} \cdots m^{t_m}
-\lambda =m^{t_m} (m -1)^{t_{m -1}} \cdots 2^{t_2} 1^{t_1} .
-\lambda =\lambda_1^{i_1} \lambda_2^{i_2} \cdots \lambda_n^{i_n},
-\lambda_i >\lambda_i +1 .
-p_n (k),
-p(k) .
-p_n (k)
-k \setminus n
-p_3 (7) =4 \colon
-(5, 1, 1),
-(4, 2, 1),
-(3, 3, 1),
-(3, 2, 2) .
+(x_1𝐖,𝐖x_2𝐖,𝐖\ldots𝐖,𝐖x_n𝐖)
+x_1𝐖𝐖+2x_2𝐖𝐖+\ldots𝐖kx_k𝐖𝐖=k𝐖.
+(2,𝐖1)
+(2,𝐖1,𝐖0,𝐖0)𝐖.
+k
+k𝐖+1
+\lambda𝐖𝐖=\lambda𝐖_1𝐖,𝐖\lambda𝐖_2𝐖,𝐖\ldots𝐖,𝐖\lambda𝐖_n𝐖,𝐖
+\lambda𝐖_i𝐖
+(t_1𝐖,𝐖t_2𝐖,𝐖\ldots𝐖,𝐖t_m𝐖)
+\lambda𝐖𝐖=1^{t_1𝐖}𝐖2^{t_2𝐖}𝐖\cdots𝐖m^{t_m𝐖}𝐖
+\lambda𝐖𝐖=m^{t_m𝐖}𝐖(m𝐖-1)^{t_{m𝐖-1}𝐖}𝐖\cdots𝐖2^{t_2𝐖}𝐖1^{t_1𝐖}𝐖𝐖.
+\lambda𝐖𝐖=\lambda𝐖_1^{i_1𝐖}𝐖\lambda𝐖_2^{i_2𝐖}𝐖\cdots𝐖\lambda𝐖_n^{i_n𝐖}𝐖,𝐖
+\lambda𝐖_i𝐖𝐖>\lambda𝐖_i𝐖𝐖+1𝐖.
+p_n𝐖(k),𝐖
+p(k)𝐖.
+p_n𝐖(k)
+k𝐖\setminus𝐖n
+p_3𝐖(7)𝐖=4𝐖\colon𝐖
+(5,𝐖1,𝐖1),𝐖
+(4,𝐖2,𝐖1),𝐖
+(3,𝐖3,𝐖1),𝐖
+(3,𝐖2,𝐖2)𝐖.
 S
-S .
+S𝐖.
 k
 n
-(\lambda_1, \lambda_2, \ldots \lambda_n),
-\lambda_1
-\lambda_2
-p_2 (6)
-p_3 (7)
-p_4 (9)
+(\lambda𝐖_1𝐖,𝐖\lambda𝐖_2𝐖,𝐖\ldots𝐖\lambda𝐖_n𝐖),𝐖
+\lambda𝐖_1𝐖
+\lambda𝐖_2𝐖
+p_2𝐖(6)
+p_3𝐖(7)
+p_4𝐖(9)
 n
-p_3 (7) =4 ?
+p_3𝐖(7)𝐖=4𝐖?
 9
 7
-p_3 (7) =4 ?
+p_3𝐖(7)𝐖=4𝐖?
 9
-p_n (k) .
-p_n (k) =\sum_{i =1}^n p_i (k -n) =p_1 (k -n) +p_2 (k -n) +\cdots +p_n (k -n) .
-p_4 (9) =p_1 (5) +p_2 (5) +p_3 (5) +p_4 (5) =1 +2 +2 +1 =6
-p_n (k)
-p_n (k) \colon
-p_n (k) =p_n (k -n) +p_{n -1} (k -1) .
-p_4 (9) .
-p_5 (13) .
-p_5 (13) .
-(\lambda_1, \lambda_2, \ldots, \lambda_n)
-(\gamma_1, \gamma_2, \ldots, \gamma_m)
+p_n𝐖(k)𝐖.
+p_n𝐖(k)𝐖=\sum𝐖_{i𝐖=1}^n𝐖p_i𝐖(k𝐖-n)𝐖=p_1𝐖(k𝐖-n)𝐖+p_2𝐖(k𝐖-n)𝐖+\cdots𝐖𝐖+p_n𝐖(k𝐖-n)𝐖.
+p_4𝐖(9)𝐖=p_1𝐖(5)𝐖+p_2𝐖(5)𝐖+p_3𝐖(5)𝐖+p_4𝐖(5)𝐖=1𝐖+2𝐖+2𝐖+1𝐖=6
+p_n𝐖(k)
+p_n𝐖(k)𝐖\colon𝐖
+p_n𝐖(k)𝐖=p_n𝐖(k𝐖-n)𝐖+p_{n𝐖-1}𝐖(k𝐖-1)𝐖.
+p_4𝐖(9)𝐖.
+p_5𝐖(13)𝐖.
+p_5𝐖(13)𝐖.
+(\lambda𝐖_1𝐖,𝐖\lambda𝐖_2𝐖,𝐖\ldots𝐖,𝐖\lambda𝐖_n𝐖)
+(\gamma𝐖_1𝐖,𝐖\gamma𝐖_2𝐖,𝐖\ldots𝐖,𝐖\gamma𝐖_m𝐖)
 k
-m ?
+m𝐖?
 k
 k
-k =10 \colon
-(10) \\ (8, 2) \\ (6, 4) \\ (6, 2, 2) \\ (4, 4, 2) \\ (4, 2, 2, 2) \\ (2, 2, 2, 2, 2)
-(9, 1) \\ (8, 2) \\ (7, 3) \\ (6, 4) \\ (5, 5) \\ (4, 3, 2, 1)
-(5, 5) \\ (4, 4, 1, 1) \\ (3, 3, 2, 2) \\ (3, 3, 1, 1, 1, 1) \\ (2, 2, 2, 2, 1, 1) \\ (2, 2, 1, 1, 1, 1, 1, 1) \\ (1, 1, 1, 1, 1, 1, 1, 1, 1, 1)
+k𝐖=10𝐖\colon𝐖
+(10)𝐖\\𝐖(8,𝐖2)𝐖\\𝐖(6,𝐖4)𝐖\\𝐖(6,𝐖2,𝐖2)𝐖\\𝐖(4,𝐖4,𝐖2)𝐖\\𝐖(4,𝐖2,𝐖2,𝐖2)𝐖\\𝐖(2,𝐖2,𝐖2,𝐖2,𝐖2)
+(9,𝐖1)𝐖\\𝐖(8,𝐖2)𝐖\\𝐖(7,𝐖3)𝐖\\𝐖(6,𝐖4)𝐖\\𝐖(5,𝐖5)𝐖\\𝐖(4,𝐖3,𝐖2,𝐖1)
+(5,𝐖5)𝐖\\𝐖(4,𝐖4,𝐖1,𝐖1)𝐖\\𝐖(3,𝐖3,𝐖2,𝐖2)𝐖\\𝐖(3,𝐖3,𝐖1,𝐖1,𝐖1,𝐖1)𝐖\\𝐖(2,𝐖2,𝐖2,𝐖2,𝐖1,𝐖1)𝐖\\𝐖(2,𝐖2,𝐖1,𝐖1,𝐖1,𝐖1,𝐖1,𝐖1)𝐖\\𝐖(1,𝐖1,𝐖1,𝐖1,𝐖1,𝐖1,𝐖1,𝐖1,𝐖1,𝐖1)
 k
 k
 k
 3k
-k -1
-3k -4
-k -2
-3k -4
+k𝐖-1
+3k𝐖-4
+k𝐖-2
+3k𝐖-4
 k
 k
 n
-m .
+m𝐖.
 m
 n
 m'
 n'
-m' \ge m
-n' \ge n,
-(5, 3, 3, 2)
+m'𝐖\ge𝐖m
+n'𝐖\ge𝐖n,𝐖
+(5,𝐖3,𝐖3,𝐖2)
 m'
 n'
 m'
@@ -240,657 +240,657 @@ m'
 n'
 k
 n
-m,
-q_n (k)
+m,𝐖
+q_n𝐖(k)
 k
 10
-p_n (k)
-q_n (m)
-m .
+p_n𝐖(k)
+q_n𝐖(m)
+m𝐖.
 m
-q_n (k)
-q_m (k -n)
-m .
+q_n𝐖(k)
+q_m𝐖(k𝐖-n)
+m𝐖.
 k
 k
-k \not= \frac{3j^2 +j}{2},
+k𝐖\not=𝐖\frac{3j^2𝐖𝐖+j}{2},𝐖
 k
 k
-q_n (k) \le \frac{1}{n!}\binom{k -1}{n -1} .
+q_n𝐖(k)𝐖\le𝐖\frac{1}{n!}\binom{k𝐖-1}{n𝐖-1}𝐖.
 k
 k
-m,
+m,𝐖
 m
 k
-x =0
-x =m
-m .
+x𝐖=0
+x𝐖=m
+m𝐖.
 m
-\frac{1}{(1 -x)(1 -x^2)(1 -x^3)\cdots} =(1 +x +x^2 +x^3 +\cdots)(1 +x^2 +x^4 +\cdots)(1 +x^3 +\cdots)\cdots .
-x^4
-x^4
-x^{2 \cdot 2} .
-x^4
-x^4
-(x^2)^2
-x^4
-x^4
-1 \cdot 1 \cdot 1 \cdot x^4 & \lt mi/> \leftrightarrow (4) \\ x \cdot 1 \cdot x^3 \cdot 1 & \lt mi/> \leftrightarrow (3, 1) \\ 1 \cdot x^4 \cdot 1 \cdot 1 & \lt mi/> \leftrightarrow (2, 2) \\ x^2 \cdot x^2 \cdot 1 \cdot 1 & \lt mi/> \leftrightarrow (2, 1, 1) \\ x^4 \cdot 1 \cdot 1 \cdot 1 & \lt mi/> \leftrightarrow (1, 1, 1, 1)
-x^5
-\frac{1}{(1 -x^2)(1 -x^4)(1 -x^6)\cdots}
+\frac{1}{(1𝐖-x)(1𝐖-x^2𝐖)(1𝐖-x^3𝐖)\cdots𝐖}𝐖=(1𝐖+x𝐖+x^2𝐖𝐖+x^3𝐖𝐖+\cdots𝐖)(1𝐖+x^2𝐖𝐖+x^4𝐖𝐖+\cdots𝐖)(1𝐖+x^3𝐖𝐖+\cdots𝐖)\cdots𝐖𝐖.
+x^4𝐖
+x^4𝐖
+x^{2𝐖\cdot𝐖2}𝐖𝐖.
+x^4𝐖
+x^4𝐖
+(x^2𝐖)^2𝐖
+x^4𝐖
+x^4𝐖
+1𝐖\cdot𝐖1𝐖\cdot𝐖1𝐖\cdot𝐖x^4𝐖𝐖&𝐖\lt𝐖mi/>𝐖\leftrightarrow𝐖(4)𝐖\\𝐖x𝐖\cdot𝐖1𝐖\cdot𝐖x^3𝐖𝐖\cdot𝐖1𝐖&𝐖\lt𝐖mi/>𝐖\leftrightarrow𝐖(3,𝐖1)𝐖\\𝐖1𝐖\cdot𝐖x^4𝐖𝐖\cdot𝐖1𝐖\cdot𝐖1𝐖&𝐖\lt𝐖mi/>𝐖\leftrightarrow𝐖(2,𝐖2)𝐖\\𝐖x^2𝐖𝐖\cdot𝐖x^2𝐖𝐖\cdot𝐖1𝐖\cdot𝐖1𝐖&𝐖\lt𝐖mi/>𝐖\leftrightarrow𝐖(2,𝐖1,𝐖1)𝐖\\𝐖x^4𝐖𝐖\cdot𝐖1𝐖\cdot𝐖1𝐖\cdot𝐖1𝐖&𝐖\lt𝐖mi/>𝐖\leftrightarrow𝐖(1,𝐖1,𝐖1,𝐖1)
+x^5𝐖
+\frac{1}{(1𝐖-x^2𝐖)(1𝐖-x^4𝐖)(1𝐖-x^6𝐖)\cdots𝐖}
 m
-\frac{x^m}{(1 -x)(1 -x^2)\cdots (1 -x^m)} .
+\frac{x^m𝐖}{(1𝐖-x)(1𝐖-x^2𝐖)\cdots𝐖(1𝐖-x^m𝐖)}𝐖.
 m
-\frac{x^{\frac{m(m +1)}{2}}}{(1 -x)(1 -x^2)\cdots (1 -x^m)} .
-m =3 .
-\frac{1}{(1 -x)(1 -x^2)(1 -x^3)} =1 +x +2x^2 +3x^3 +4x^5 +7x^6 +\cdots .
-n =6
-7 .
-(6) \\ (5, 1) \\ (4, 2) \\ (4, 1, 1) \\ (3, 3) \\ (3, 2, 1) \\ (2, 2, 2) .
-x^3 .
-3x^6
+\frac{x^{\frac{m(m𝐖+1)}{2}}𝐖}{(1𝐖-x)(1𝐖-x^2𝐖)\cdots𝐖(1𝐖-x^m𝐖)}𝐖.
+m𝐖=3𝐖.
+\frac{1}{(1𝐖-x)(1𝐖-x^2𝐖)(1𝐖-x^3𝐖)}𝐖=1𝐖+x𝐖+2x^2𝐖𝐖+3x^3𝐖𝐖+4x^5𝐖𝐖+7x^6𝐖𝐖+\cdots𝐖𝐖.
+n𝐖=6
+7𝐖.
+(6)𝐖\\𝐖(5,𝐖1)𝐖\\𝐖(4,𝐖2)𝐖\\𝐖(4,𝐖1,𝐖1)𝐖\\𝐖(3,𝐖3)𝐖\\𝐖(3,𝐖2,𝐖1)𝐖\\𝐖(2,𝐖2,𝐖2)𝐖.
+x^3𝐖𝐖.
+3x^6𝐖
 3
-n =6
-x^{\frac{m(m +1)}{2}} =x^6
-m =3
-x^6 +x^7 +2x^8 +3x^9 +4x^{10} +\cdots .
-n =6
+n𝐖=6
+x^{\frac{m(m𝐖+1)}{2}}𝐖𝐖=x^6𝐖
+m𝐖=3
+x^6𝐖𝐖+x^7𝐖𝐖+2x^8𝐖𝐖+3x^9𝐖𝐖+4x^{10}𝐖𝐖+\cdots𝐖𝐖.
+n𝐖=6
 4
-n =10
-(7, 2, 1) \\ (6, 3, 1) \\ (5, 4, 1) \\ (5, 3, 2) .
+n𝐖=10
+(7,𝐖2,𝐖1)𝐖\\𝐖(6,𝐖3,𝐖1)𝐖\\𝐖(5,𝐖4,𝐖1)𝐖\\𝐖(5,𝐖3,𝐖2)𝐖.
 n
-\{3, 8\} .
-\frac{1 -x^{2i}}{1 -x^i} =1 +x^i
+\{3,𝐖8\}𝐖.
+\frac{1𝐖-x^{2i}𝐖}{1𝐖-x^i𝐖}𝐖=1𝐖+x^i𝐖
 k
 k
-n =5
+n𝐖=5
 10
-m,
-m,
-(1 +x)(1 +x^2)(1 +x^4)(1 +x^8)\cdots =\frac{1}{(1 -x)(1 -x^3)(1 -x^5)\cdots} .
-\frac{1}{1 -x} =(1 +x +x^2 +\cdots +x^9)(1 +x^{10} +\cdots +x^{90})(1 +x^{100} +\cdots +x^{900})\cdots .
+m,𝐖
+m,𝐖
+(1𝐖+x)(1𝐖+x^2𝐖)(1𝐖+x^4𝐖)(1𝐖+x^8𝐖)\cdots𝐖𝐖=\frac{1}{(1𝐖-x)(1𝐖-x^3𝐖)(1𝐖-x^5𝐖)\cdots𝐖}𝐖.
+\frac{1}{1𝐖-x}𝐖=(1𝐖+x𝐖+x^2𝐖𝐖+\cdots𝐖𝐖+x^9𝐖)(1𝐖+x^{10}𝐖𝐖+\cdots𝐖𝐖+x^{90}𝐖)(1𝐖+x^{100}𝐖𝐖+\cdots𝐖𝐖+x^{900}𝐖)\cdots𝐖𝐖.
 n
-(1 +x +x^2)(1 +x^3 +x^6)(1 +x^9 +x^{18})(1 +x^{27} +x^{54})\cdots .
-S_1 .
-S_1,
-S_2,
-S_3
-(S_n)_{n \ge 1}
-2, 3, 5, 8, 13, \ldots .
-S_n =S_{n -1} +S_{n -2} .
-S_1 =2
-S_2 =3 .
-S_n
-S_n =S_{n -1} +S_{n -2} .
-n,
-n -1
-n -2
-n -1
-n -2
-n
-n
-a_n
-[n] .
-(a_n)_{n \ge 0} .
-k_n
-n
-(k_n)_{n \ge 1}
-b_n
+(1𝐖+x𝐖+x^2𝐖)(1𝐖+x^3𝐖𝐖+x^6𝐖)(1𝐖+x^9𝐖𝐖+x^{18}𝐖)(1𝐖+x^{27}𝐖𝐖+x^{54}𝐖)\cdots𝐖𝐖.
+S_1𝐖𝐖.
+S_1𝐖,𝐖
+S_2𝐖,𝐖
+S_3𝐖
+(S_n𝐖)_{n𝐖\ge𝐖1}𝐖
+2,𝐖3,𝐖5,𝐖8,𝐖13,𝐖\ldots𝐖𝐖.
+S_n𝐖𝐖=S_{n𝐖-1}𝐖𝐖+S_{n𝐖-2}𝐖𝐖.
+S_1𝐖𝐖=2
+S_2𝐖𝐖=3𝐖.
+S_n𝐖
+S_n𝐖𝐖=S_{n𝐖-1}𝐖𝐖+S_{n𝐖-2}𝐖𝐖.
+n,𝐖
+n𝐖-1
+n𝐖-2
+n𝐖-1
+n𝐖-2
 n
 n
-(b_n)_{n \ge 1}
+a_n𝐖
+[n]𝐖.
+(a_n𝐖)_{n𝐖\ge𝐖0}𝐖𝐖.
+k_n𝐖
 n
-m_n
-m_n .
-n
-r_n
+(k_n𝐖)_{n𝐖\ge𝐖1}𝐖
+b_n𝐖
 n
 n
+(b_n𝐖)_{n𝐖\ge𝐖1}𝐖
+n
+m_n𝐖
+m_n𝐖𝐖.
+n
+r_n𝐖
 n
 n
-1 \times 1
-1 \times 2
-1 \times n
-n =4,
-ssss,
-ssd,
-sds,
-dss,
-dd,
+n
+n
+1𝐖\times𝐖1
+1𝐖\times𝐖2
+1𝐖\times𝐖n
+n𝐖=4,𝐖
+ssss,𝐖
+ssd,𝐖
+sds,𝐖
+dss,𝐖
+dd,𝐖
 s
 d
-a_n
-1 \times n
-(a_n)_{n \ge 1},
-b_n
-(b_n)_{n \ge 1} .
+a_n𝐖
+1𝐖\times𝐖n
+(a_n𝐖)_{n𝐖\ge𝐖1}𝐖,𝐖
+b_n𝐖
+(b_n𝐖)_{n𝐖\ge𝐖1}𝐖𝐖.
 n
 n
-n =5
-t_n
-(t_n)_{n \ge 3} .
-(a_n)_{n \ge 1}
-a_n =\sum_{i =1}^{n -1} a_i .
-(a_n)_{n \le 0}
-a_n =a_{n -1} +3
-a_0 =2 .
-a_n
+n𝐖=5
+t_n𝐖
+(t_n𝐖)_{n𝐖\ge𝐖3}𝐖𝐖.
+(a_n𝐖)_{n𝐖\ge𝐖1}𝐖
+a_n𝐖𝐖=\sum𝐖_{i𝐖=1}^{n𝐖-1}𝐖a_i𝐖𝐖.
+(a_n𝐖)_{n𝐖\le𝐖0}𝐖
+a_n𝐖𝐖=a_{n𝐖-1}𝐖𝐖+3
+a_0𝐖𝐖=2𝐖.
+a_n𝐖
 n
-a_n
-(a_n)_{n \le 0}
-a_n =3a_{n -1}
-a_0 =2 .
-a_n
+a_n𝐖
+(a_n𝐖)_{n𝐖\le𝐖0}𝐖
+a_n𝐖𝐖=3a_{n𝐖-1}𝐖
+a_0𝐖𝐖=2𝐖.
+a_n𝐖
 n
-a_n
-(a_n)_{n \ge 1},
-(b_n)_{n \ge 1}
-b_n =\sum_{i =1}^n a_n .
-b_n
+a_n𝐖
+(a_n𝐖)_{n𝐖\ge𝐖1}𝐖,𝐖
+(b_n𝐖)_{n𝐖\ge𝐖1}𝐖
+b_n𝐖𝐖=\sum𝐖_{i𝐖=1}^n𝐖a_n𝐖𝐖.
+b_n𝐖
 n
-(a_n) .
-(b_n)
-b_n =b_{n -1} +a_n,
-b_n -b_{n -1} =a_n .
-(a_n)
-(a_n)_{n \ge 1}
-1, 2, 3, 4, \ldots,,
-(a_n)_{n \ge 1}
-1, 3, 5, 7, 9, \ldots,
-(b_n) .
-a_n =\binom{n}{2},
-(b_n) .
-(F_n)_{n \ge 1},
-1, 1, 2, 3, 5, \ldots,
-F_n =F_{n -1} +F_{n -2} .
-(a_n)_{n \ge 1}
-a_n =dn +c
+(a_n𝐖)𝐖.
+(b_n𝐖)
+b_n𝐖𝐖=b_{n𝐖-1}𝐖𝐖+a_n𝐖,𝐖
+b_n𝐖𝐖-b_{n𝐖-1}𝐖𝐖=a_n𝐖𝐖.
+(a_n𝐖)
+(a_n𝐖)_{n𝐖\ge𝐖1}𝐖
+1,𝐖2,𝐖3,𝐖4,𝐖\ldots𝐖,𝐖,𝐖
+(a_n𝐖)_{n𝐖\ge𝐖1}𝐖
+1,𝐖3,𝐖5,𝐖7,𝐖9,𝐖\ldots𝐖,𝐖
+(b_n𝐖)𝐖.
+a_n𝐖𝐖=\binom{n}{2},𝐖
+(b_n𝐖)𝐖.
+(F_n𝐖)_{n𝐖\ge𝐖1}𝐖,𝐖
+1,𝐖1,𝐖2,𝐖3,𝐖5,𝐖\ldots𝐖,𝐖
+F_n𝐖𝐖=F_{n𝐖-1}𝐖𝐖+F_{n𝐖-2}𝐖𝐖.
+(a_n𝐖)_{n𝐖\ge𝐖1}𝐖
+a_n𝐖𝐖=dn𝐖+c
 d
-c =a_1 -d =a_0,
-a_0
-b_n =\sum_{i =1}^n a_i ?
-2 +5 +8 +11 +\cdots +470 ?
+c𝐖=a_1𝐖𝐖-d𝐖=a_0𝐖,𝐖
+a_0𝐖
+b_n𝐖𝐖=\sum𝐖_{i𝐖=1}^n𝐖a_i𝐖𝐖?
+2𝐖+5𝐖+8𝐖+11𝐖+\cdots𝐖𝐖+470𝐖?
 S
-S =
+S𝐖=
 2
 +
 5
 +
 8
-+\cdots +
+𝐖+\cdots𝐖𝐖+
 467
 +
-+S =
+𝐖+S𝐖=
 470
 +
 467
 +
 464
-+\cdots +
+𝐖+\cdots𝐖𝐖+
 5
 +
-2S =
+2S𝐖=
 472
 +
 472
 +
 472
-+\cdots +
+𝐖+\cdots𝐖𝐖+
 472
 +
 472
-b_n =\sum_{i =1}^n a_i .
-(b_n)_{n \ge 1}
-b_n =an^2 +bn +c,
-a_n =b_n -b_{n -1} ?
-3 +6 +12 +24 +\cdots +12288 ?
+b_n𝐖𝐖=\sum𝐖_{i𝐖=1}^n𝐖a_i𝐖𝐖.
+(b_n𝐖)_{n𝐖\ge𝐖1}𝐖
+b_n𝐖𝐖=an^2𝐖𝐖+bn𝐖+c,𝐖
+a_n𝐖𝐖=b_n𝐖𝐖-b_{n𝐖-1}𝐖𝐖?
+3𝐖+6𝐖+12𝐖+24𝐖+\cdots𝐖𝐖+12288𝐖?
 S
-S -2S .
-S =
-3 +
-6 +12 +24 +\cdots +12288
--2S =
-6 +12 +24 +\cdots +12288
-+24576
--S =
-3 +
-0 +0 +0 +\cdots +0
--24576
--1
-S .
-S_n =2 +10 +50 +\cdots +2 \cdot 5^n .
-N =0.464646\ldots
-N -0.01N .
+S𝐖-2S𝐖.
+S𝐖=
+3𝐖+
+6𝐖+12𝐖+24𝐖+\cdots𝐖𝐖+12288
+𝐖-2S𝐖=
+6𝐖+12𝐖+24𝐖+\cdots𝐖𝐖+12288
+𝐖+24576
+𝐖-S𝐖=
+3𝐖+
+0𝐖+0𝐖+0𝐖+\cdots𝐖𝐖+0
+𝐖-24576
+𝐖-1
+S𝐖.
+S_n𝐖𝐖=2𝐖+10𝐖+50𝐖+\cdots𝐖𝐖+2𝐖\cdot𝐖5^n𝐖𝐖.
+N𝐖=0.464646\ldots𝐖
+N𝐖-0.01N𝐖.
 S
-S -\frac{3}{4}S
-4^7 -3^7 .
+S𝐖-\frac{3}{4}S
+4^7𝐖𝐖-3^7𝐖𝐖.
 n
-a_n =5a_{n -1} -6a_{n -2} .
-a_n =2^n
-a_n =3^n
-\alpha
-\beta
-a_n =\alpha 2^n +\beta 3^n
-a_n =r^n
-r .
-r =2
-r =3 .
-a_n
-a_{n -1}
-a_{n -2}
-\alpha
-\beta .
-(a_n)_{n \ge 1}
-a_n =3a_{n -1} +4a_{n -2}
-a_1 =3
-a_2 =13 .
-1 \times n
-1 \times 1
-1 \times 2
+a_n𝐖𝐖=5a_{n𝐖-1}𝐖𝐖-6a_{n𝐖-2}𝐖𝐖.
+a_n𝐖𝐖=2^n𝐖
+a_n𝐖𝐖=3^n𝐖
+\alpha𝐖
+\beta𝐖
+a_n𝐖𝐖=\alpha𝐖2^n𝐖𝐖+\beta𝐖3^n𝐖
+a_n𝐖𝐖=r^n𝐖
+r𝐖.
+r𝐖=2
+r𝐖=3𝐖.
+a_n𝐖
+a_{n𝐖-1}𝐖
+a_{n𝐖-2}𝐖
+\alpha𝐖
+\beta𝐖𝐖.
+(a_n𝐖)_{n𝐖\ge𝐖1}𝐖
+a_n𝐖𝐖=3a_{n𝐖-1}𝐖𝐖+4a_{n𝐖-2}𝐖
+a_1𝐖𝐖=3
+a_2𝐖𝐖=13𝐖.
+1𝐖\times𝐖n
+1𝐖\times𝐖1
+1𝐖\times𝐖2
 n
-F_n,
-F_1 =1 =F_2
-F_n =F_{n -1} +F_{n -2} .
-a_n =2a_{n -1} -a_{n -2}
-a_0 =1
-a_1 =2 .
-a_n =\alpha r^n +\beta nr^n,
+F_n𝐖,𝐖
+F_1𝐖𝐖=1𝐖=F_2𝐖
+F_n𝐖𝐖=F_{n𝐖-1}𝐖𝐖+F_{n𝐖-2}𝐖𝐖.
+a_n𝐖𝐖=2a_{n𝐖-1}𝐖𝐖-a_{n𝐖-2}𝐖
+a_0𝐖𝐖=1
+a_1𝐖𝐖=2𝐖.
+a_n𝐖𝐖=\alpha𝐖r^n𝐖𝐖+\beta𝐖nr^n𝐖,𝐖
 r
-\alpha
-\beta
+\alpha𝐖
+\beta𝐖
 n
-a_n =4a_{n -1} -4a_{n -2} .
-\alpha
-\beta
-a_0 =1
-a_1 =2 .
-a_0 =1
-a_1 =8 .
-F_n
+a_n𝐖𝐖=4a_{n𝐖-1}𝐖𝐖-4a_{n𝐖-2}𝐖𝐖.
+\alpha𝐖
+\beta𝐖
+a_0𝐖𝐖=1
+a_1𝐖𝐖=2𝐖.
+a_0𝐖𝐖=1
+a_1𝐖𝐖=8𝐖.
+F_n𝐖
 n
-F_0 =0
-F_1 =1,
-n,
-F_n =F_{n -1} +F_{n -2} .
-F_0 +F_1 +F_2 +\ldots +F_n .
-F_0 +F_2 +F_4 +\ldots +F_{2n} .
-F_{n +1}^2 -F_n^2 =F_{n -1} F_{n +2} .
-F_k^2 =F_k (F_{k +1} -F_{k -1}) .
-F_0 F_3 +F_1 F_4 +\cdots +F_{n -1} F_{n +2}
-F_1^2 +F_2^2 +\ldots +F_n^2
-2 \times 2
-Q = \begin{pmatrix} 0 & 1 \\ 1 & 1 \end{pmatrix} .
-Q^2 =Q \cdot Q,
-Q^3,
-Q^n
-F_{n -1} F_{n +1} -F_n^2 =( -1)^n
-1, 2, 3, 4, \ldots ?
-Q^{2n +1} =Q^n Q^{n +1}
-F_{2n +1} =F_{n +1}^2 +F_n^2
-F_n =\frac{a^n -b^n}{a -b}
+F_0𝐖𝐖=0
+F_1𝐖𝐖=1,𝐖
+n,𝐖
+F_n𝐖𝐖=F_{n𝐖-1}𝐖𝐖+F_{n𝐖-2}𝐖𝐖.
+F_0𝐖𝐖+F_1𝐖𝐖+F_2𝐖𝐖+\ldots𝐖𝐖+F_n𝐖𝐖.
+F_0𝐖𝐖+F_2𝐖𝐖+F_4𝐖𝐖+\ldots𝐖𝐖+F_{2n}𝐖𝐖.
+F_{n𝐖+1}^2𝐖𝐖-F_n^2𝐖𝐖=F_{n𝐖-1}𝐖F_{n𝐖+2}𝐖𝐖.
+F_k^2𝐖𝐖=F_k𝐖(F_{k𝐖+1}𝐖𝐖-F_{k𝐖-1}𝐖)𝐖.
+F_0𝐖F_3𝐖𝐖+F_1𝐖F_4𝐖𝐖+\cdots𝐖𝐖+F_{n𝐖-1}𝐖F_{n𝐖+2}𝐖
+F_1^2𝐖𝐖+F_2^2𝐖𝐖+\ldots𝐖𝐖+F_n^2𝐖
+2𝐖\times𝐖2
+Q𝐖=𝐖\begin{pmatrix}𝐖0𝐖&𝐖1𝐖\\𝐖1𝐖&𝐖1𝐖\end{pmatrix}𝐖𝐖.
+Q^2𝐖𝐖=Q𝐖\cdot𝐖Q,𝐖
+Q^3𝐖,𝐖
+Q^n𝐖
+F_{n𝐖-1}𝐖F_{n𝐖+1}𝐖𝐖-F_n^2𝐖𝐖=(𝐖-1)^n𝐖
+1,𝐖2,𝐖3,𝐖4,𝐖\ldots𝐖𝐖?
+Q^{2n𝐖+1}𝐖𝐖=Q^n𝐖Q^{n𝐖+1}𝐖
+F_{2n𝐖+1}𝐖𝐖=F_{n𝐖+1}^2𝐖𝐖+F_n^2𝐖
+F_n𝐖𝐖=\frac{a^n𝐖𝐖-b^n𝐖}{a𝐖-b}
 a
 b
-x^2 -x -1 .
-\binom{n}{0}F_0 +\binom{n}{1}F_1 +\ldots +\binom{n}{n}F_n =F_{2n}
-\sum_{n =2}^\infty \frac{1}{F_{n -1} F_{n +1}} =1 .
-\sum_{n =2}^\infty \frac{F_n}{F_{n -1} F_{n +1}} =2.
-F_n,
-\lim_{n \to \infty} \frac{F_{n +1}}{F_n} =\frac{1 +\sqrt{5}}{2} .
+x^2𝐖𝐖-x𝐖-1𝐖.
+\binom{n}{0}F_0𝐖𝐖+\binom{n}{1}F_1𝐖𝐖+\ldots𝐖𝐖+\binom{n}{n}F_n𝐖𝐖=F_{2n}𝐖
+\sum𝐖_{n𝐖=2}^\infty𝐖𝐖\frac{1}{F_{n𝐖-1}𝐖F_{n𝐖+1}𝐖}𝐖=1𝐖.
+\sum𝐖_{n𝐖=2}^\infty𝐖𝐖\frac{F_n𝐖}{F_{n𝐖-1}𝐖F_{n𝐖+1}𝐖}𝐖=2.
+F_n𝐖,𝐖
+\lim𝐖_{n𝐖\to𝐖\infty𝐖}𝐖\frac{F_{n𝐖+1}𝐖}{F_n𝐖}𝐖=\frac{1𝐖+\sqrt{5}}{2}𝐖.
 n
-F^n
-\frac{1}{F_1} +\frac{1}{F_2} +\frac{1}{F_4} +\frac{1}{F_8} +\ldots .
-\binom{n}{0} +\binom{n -1}{1} +\binom{n -2}{2} +\cdots .
-F_{5n +5} =3F_{5n} +5F_{5n +1} .
-\varphi
-x^2 -x -1 =0 .
-\varphi^n =F_n \varphi +F_{n -1} .
+F^n𝐖
+\frac{1}{F_1𝐖}𝐖+\frac{1}{F_2𝐖}𝐖+\frac{1}{F_4𝐖}𝐖+\frac{1}{F_8𝐖}𝐖+\ldots𝐖𝐖.
+\binom{n}{0}𝐖+\binom{n𝐖-1}{1}𝐖+\binom{n𝐖-2}{2}𝐖+\cdots𝐖𝐖.
+F_{5n𝐖+5}𝐖𝐖=3F_{5n}𝐖𝐖+5F_{5n𝐖+1}𝐖𝐖.
+\varphi𝐖
+x^2𝐖𝐖-x𝐖-1𝐖=0𝐖.
+\varphi𝐖^n𝐖𝐖=F_n𝐖\varphi𝐖𝐖+F_{n𝐖-1}𝐖𝐖.
 n
-1 -5 +10 -10 +5 -1 ?
-1 +3 +6 +10 +15 ?
-1 +7 +15 +10 +1 ?
+1𝐖-5𝐖+10𝐖-10𝐖+5𝐖-1𝐖?
+1𝐖+3𝐖+6𝐖+10𝐖+15𝐖?
+1𝐖+7𝐖+15𝐖+10𝐖+1𝐖?
 x
 y
-(0, 0)
-(3, 2) \colon
-(0, 0)
-(3, 1) ?
-(0, 0)
-(2, 2) ?
-(0, 0)
-(3, 2) ?
+(0,𝐖0)
+(3,𝐖2)𝐖\colon𝐖
+(0,𝐖0)
+(3,𝐖1)𝐖?
+(0,𝐖0)
+(2,𝐖2)𝐖?
+(0,𝐖0)
+(3,𝐖2)𝐖?
 A
 B
-B;
-A \subseteq B .
-B =\{1, 2, 3, 4, 5\}
-\{2, 4, 5\},
-\{1, 2, 3, 4, 5\}
-\varnothing .
-\{1, 2, 3, \ldots, n\},
+B;𝐖
+A𝐖\subseteq𝐖B𝐖.
+B𝐖=\{1,𝐖2,𝐖3,𝐖4,𝐖5\}
+\{2,𝐖4,𝐖5\},𝐖
+\{1,𝐖2,𝐖3,𝐖4,𝐖5\}
+\varnothing𝐖𝐖.
+\{1,𝐖2,𝐖3,𝐖\ldots𝐖,𝐖n\},𝐖
 [n]
-[3] =\{1, 2, 3\} .
-[4],
+[3]𝐖=\{1,𝐖2,𝐖3\}𝐖.
+[4],𝐖
 [5]
-\mathbit n
-n .
-\mathbf B_k^n
+\mathbit𝐖n𝐖
+n𝐖.
+\mathbf𝐖B𝐖_k^n𝐖
 n
-k .
-\mathbf B_3^5
+k𝐖.
+\mathbf𝐖B𝐖_3^5𝐖
 111001010101101.
 3
 4
 5
 4
-(x +y)^3 .
-(x +y)^4
-(x +y)^5 .
-x^3 y^2
-(x +y)^5 ?
-x^2 y^2
-x^3 y
-(x +y)^4 ?
-x^7 y^4
-(x +y)^{11}
-(0, 0)
-(k, n -k)
+(x𝐖+y)^3𝐖𝐖.
+(x𝐖+y)^4𝐖
+(x𝐖+y)^5𝐖𝐖.
+x^3𝐖y^2𝐖
+(x𝐖+y)^5𝐖𝐖?
+x^2𝐖y^2𝐖
+x^3𝐖y
+(x𝐖+y)^4𝐖𝐖?
+x^7𝐖y^4𝐖
+(x𝐖+y)^{11}𝐖
+(0,𝐖0)
+(k,𝐖n𝐖-k)
 n
-k .
+k𝐖.
 n
 k
 k
-[n] =\{1, 2, 3, \ldots, n\} .
+[n]𝐖=\{1,𝐖2,𝐖3,𝐖\ldots𝐖,𝐖n\}𝐖.
 k
 [n]
-x^k y^{n -k}
-(x +y)^n .
-f \colon X \to Y
+x^k𝐖y^{n𝐖-k}𝐖
+(x𝐖+y)^n𝐖𝐖.
+f𝐖\colon𝐖X𝐖\to𝐖Y
 X
 Y
-X =[4] .
+X𝐖=[4]𝐖.
 Y
-f \colon X \to Y ?
+f𝐖\colon𝐖X𝐖\to𝐖Y𝐖?
 Y
-f .
-f \colon X \to Y
-Y ?
-f \colon X \to Y
-Y ?
-f \colon X \to Y
+f𝐖.
+f𝐖\colon𝐖X𝐖\to𝐖Y
+Y𝐖?
+f𝐖\colon𝐖X𝐖\to𝐖Y
+Y𝐖?
+f𝐖\colon𝐖X𝐖\to𝐖Y
 X
 Y
-f \colon X \to Y
+f𝐖\colon𝐖X𝐖\to𝐖Y
 n
 k
 k
-[n] .
+[n]𝐖.
 n
 k
 k
 [n]
-f \colon X \to Y
+f𝐖\colon𝐖X𝐖\to𝐖Y
 X
-(0, 0)
-(k, n -k)
+(0,𝐖0)
+(k,𝐖n𝐖-k)
 Y
 n
-k .
+k𝐖.
 f
-f \colon X \to Y
+f𝐖\colon𝐖X𝐖\to𝐖Y
 X
 n
 k
 Y
 k
-[n] =\{1, 2, 3, \ldots, n\} .
+[n]𝐖=\{1,𝐖2,𝐖3,𝐖\ldots𝐖,𝐖n\}𝐖.
 f
-(0, 0)
-(k, n -k)
+(0,𝐖0)
+(k,𝐖n𝐖-k)
 k
-[n] ?
+[n]𝐖?
 \binom{n}{k}
 k
-n .
+n𝐖.
 n
-k,
-\binom{5}{1} =5,
-\binom{n}{0} =\binom{n}{n} =1
+k,𝐖
+\binom{5}{1}𝐖=5,𝐖
+\binom{n}{0}𝐖=\binom{n}{n}𝐖=1
 n
-\binom{n}{k}
-n
-k
-\binom{n}{k}
-\binom{n}{k}
-\binom{\mathbit n}{\mathbit k}
-n \ge 0
-k
-0 \le k \le n
-\binom{n}{k},
-n
-k
-n
-k,
-\binom{n}{k} =| \mathbf B_k^n | .
-\binom{n}{k}
-n
-k .
 \binom{n}{k}
 n
 k
 \binom{n}{k}
-x^k y^{n -k}
-(x +y)^n .
+\binom{n}{k}
+\binom{\mathbit𝐖n𝐖}{\mathbit𝐖k𝐖}
+n𝐖\ge𝐖0
+k
+0𝐖\le𝐖k𝐖\le𝐖n
+\binom{n}{k},𝐖
+n
+k
+n
+k,𝐖
+\binom{n}{k}𝐖=|𝐖\mathbf𝐖B𝐖_k^n𝐖|𝐖.
+\binom{n}{k}
+n
+k𝐖.
+\binom{n}{k}
+n
+k
+\binom{n}{k}
+x^k𝐖y^{n𝐖-k}𝐖
+(x𝐖+y)^n𝐖𝐖.
 \binom{n}{k}
 k
 n
-\binom{n}{0} =\binom{n}{n} =1
-n \ge 1
-1 \lt k \lt n
-\binom{n}{k} =\binom{n -1}{k -1} +\binom{n -1}{k} .
+\binom{n}{0}𝐖=\binom{n}{n}𝐖=1
+n𝐖\ge𝐖1
+1𝐖\lt𝐖k𝐖\lt𝐖n
+\binom{n}{k}𝐖=\binom{n𝐖-1}{k𝐖-1}𝐖+\binom{n𝐖-1}{k}𝐖.
 3
 \binom{5}{3}
 \binom{5}{3}
-\{1, 2, 3, 4, 5\}
+\{1,𝐖2,𝐖3,𝐖4,𝐖5\}
 3
 \binom{5}{3}
 \binom{5}{3}
 \binom{5}{3}
 \binom{5}{3}
-x^3 y^2
-(x +y)^5 ?
-x .
+x^3𝐖y^2𝐖
+(x𝐖+y)^5𝐖𝐖?
+x𝐖.
 \binom{5}{3}
-\binom{5}{3} .
-\binom{n}{k},
+\binom{5}{3}𝐖.
+\binom{n}{k},𝐖
 n
-k .
+k𝐖.
 \binom{n}{k}
-(x +y)^n .
-\binom{\mathbit n}{\mathbit k}
-n \ge 1
-0 \lt k \lt n \colon
-\binom{n}{k} =\binom{n -1}{k -1} +\binom{n -1}{k} .
-| \mathbf B_k^n | =| \mathbf B_{k -1}^{n -1} | +| \mathbf B_k^{n -1} | .
-(x +y)^n
-\binom{10}{3},
+(x𝐖+y)^n𝐖𝐖.
+\binom{\mathbit𝐖n𝐖}{\mathbit𝐖k𝐖}
+n𝐖\ge𝐖1
+0𝐖\lt𝐖k𝐖\lt𝐖n𝐖\colon𝐖
+\binom{n}{k}𝐖=\binom{n𝐖-1}{k𝐖-1}𝐖+\binom{n𝐖-1}{k}𝐖.
+|𝐖\mathbf𝐖B𝐖_k^n𝐖|𝐖=|𝐖\mathbf𝐖B𝐖_{k𝐖-1}^{n𝐖-1}𝐖|𝐖+|𝐖\mathbf𝐖B𝐖_k^{n𝐖-1}𝐖|𝐖.
+(x𝐖+y)^n𝐖
+\binom{10}{3},𝐖
 ab
 a
 b
 a
 b
-a =2k +1
-b =2m +1
+a𝐖=2k𝐖+1
+b𝐖=2m𝐖+1
 k
-m .
-ab & \lt mi/> =(2k +1)(2m +1) \\ \~ & \lt mi/> =4km +2k +2m +1 \\ \~ & \lt mi/> =2(2km +k +m) +1.
+m𝐖.
+ab𝐖&𝐖\lt𝐖mi/>𝐖=(2k𝐖+1)(2m𝐖+1)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=4km𝐖+2k𝐖+2m𝐖+1𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=2(2km𝐖+k𝐖+m)𝐖+1.
 ab
 a
 b
 a
 b
-a =2k
-k .
-ab & \lt mi/> =(2k)b \\ \~ & \lt mi/> =2(kb) .
+a𝐖=2k
+k𝐖.
+ab𝐖&𝐖\lt𝐖mi/>𝐖=(2k)b𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=2(kb)𝐖.
 ab
 ab
 a
 b
-ab =2n,
-a =2k +1
-b =2j +1
-n,
-k,
-j .
-2n & \lt mi/> =(2k +1)(2j +1) \\ 2n & \lt mi/> =4kj +2k +2j +1 \\ n & \lt mi/> =2kj +k +j +\frac{1}{2} .
-2kj +k +j
+ab𝐖=2n,𝐖
+a𝐖=2k𝐖+1
+b𝐖=2j𝐖+1
+n,𝐖
+k,𝐖
+j𝐖.
+2n𝐖&𝐖\lt𝐖mi/>𝐖=(2k𝐖+1)(2j𝐖+1)𝐖\\𝐖2n𝐖&𝐖\lt𝐖mi/>𝐖=4kj𝐖+2k𝐖+2j𝐖+1𝐖\\𝐖n𝐖&𝐖\lt𝐖mi/>𝐖=2kj𝐖+k𝐖+j𝐖+\frac{1}{2}𝐖.
+2kj𝐖+k𝐖+j
 n
 ab
-ab =2n,
+ab𝐖=2n,𝐖
 a
-a =2k +1 .
-ab & \lt mi/> =(2k +1)b \\ 2n & \lt mi/> =2kb +b \\ 2n -2kb & \lt mi/> =b \\ 2(n -kb) & \lt mi/> =b .
+a𝐖=2k𝐖+1𝐖.
+ab𝐖&𝐖\lt𝐖mi/>𝐖=(2k𝐖+1)b𝐖\\𝐖2n𝐖&𝐖\lt𝐖mi/>𝐖=2kb𝐖+b𝐖\\𝐖2n𝐖-2kb𝐖&𝐖\lt𝐖mi/>𝐖=b𝐖\\𝐖2(n𝐖-kb)𝐖&𝐖\lt𝐖mi/>𝐖=b𝐖.
 b
-4 \times 10^{18},
-p .
-N =p! +1 .
-p! +1
+4𝐖\times𝐖10^{18}𝐖,𝐖
+p𝐖.
+N𝐖=p!𝐖+1𝐖.
+p!𝐖+1
 N
-p .
+p𝐖.
 p!
 N
-p .
+p𝐖.
 p!
-p,
-p! +1
+p,𝐖
+p!𝐖+1
 N
-p .
+p𝐖.
 N
-N,
+N,𝐖
 p
 N
-p .
+p𝐖.
 p
-p .
-P \to Q
-P .
-Q .
-\forall x(P(x) \to Q(x)) .
+p𝐖.
+P𝐖\to𝐖Q
+P𝐖.
+Q𝐖.
+𝐖\forall𝐖x(P(x)𝐖\to𝐖Q(x))𝐖.
 P(x)
-Q(x) .
-x ?
-x .
+Q(x)𝐖.
+x𝐖?
+x𝐖.
 x
-n,
+n,𝐖
 n
-n^2
-a,
-b,
-c,
+n^2𝐖
+a,𝐖
+b,𝐖
+c,𝐖
 a|b
 b|c
-a|c .
-x|y,
+a|c𝐖.
+x|y,𝐖
 x
 y
 y
-x,
+x,𝐖
 x
 y
-P \to Q
-\lnot Q \to \lnot P .
-P \to Q
-\lnot Q .
-\lnot P .
-n,
-n^2
+P𝐖\to𝐖Q
+𝐖\lnot𝐖Q𝐖\to𝐖𝐖\lnot𝐖P𝐖.
+P𝐖\to𝐖Q
+𝐖\lnot𝐖Q𝐖.
+𝐖\lnot𝐖P𝐖.
+n,𝐖
+n^2𝐖
 n
 a
-b,
-a +b
+b,𝐖
+a𝐖+b
 a
 b
-p,
-p =2
+p,𝐖
+p𝐖=2
 p
-p,
-p \not= 2,
+p,𝐖
+p𝐖\not=𝐖2,𝐖
 p
 \sqrt{2}
-P .
-\lnot P \to Q
+P𝐖.
+𝐖\lnot𝐖P𝐖\to𝐖Q
 Q
 Q
-\lnot P ?
+𝐖\lnot𝐖P𝐖?
 P
-\lnot P
-\lnot P
+𝐖\lnot𝐖P
+𝐖\lnot𝐖P
 P
 P
 P
 \sqrt{2}
 x
 y
-x^2 =4y +2 .
+x^2𝐖𝐖=4y𝐖+2𝐖.
 n
 n
-n^2
+n^2𝐖
 n
 n
-n =4
-\forall xP(x),
+n𝐖=4
+𝐖\forall𝐖xP(x),𝐖
 n
-n^2 -n +41
-n .
+n^2𝐖𝐖-n𝐖+41
+n𝐖.
 n
-n^2 -n +41
-n,
-n^2 -n +41
+n^2𝐖𝐖-n𝐖+41
+n,𝐖
+n^2𝐖𝐖-n𝐖+41
 n
-n^2 -n +41
-n =41
-41^2
-n^2 -n +41
+n^2𝐖𝐖-n𝐖+41
+n𝐖=41
+41^2𝐖
+n^2𝐖𝐖-n𝐖+41
 a
-b,
-a +b
+b,𝐖
+a𝐖+b
 a
 b
 P
-Q \to P
-\lnot Q \to P
-Q .
+Q𝐖\to𝐖P
+𝐖\lnot𝐖Q𝐖\to𝐖P
+Q𝐖.
 Q
 P
-P .
-Q_1, Q_2, \ldots, Q_n
-Q_1 \to P
-Q_2 \to P
-Q_n \to P,
-P .
-Q_i
-n,
-(n^3 -n)
+P𝐖.
+Q_1𝐖,𝐖Q_2𝐖,𝐖\ldots𝐖,𝐖Q_n𝐖
+Q_1𝐖𝐖\to𝐖P
+Q_2𝐖𝐖\to𝐖P
+Q_n𝐖𝐖\to𝐖P,𝐖
+P𝐖.
+Q_i𝐖
+n,𝐖
+(n^3𝐖𝐖-n)
 a
-b,
-a +b
+b,𝐖
+a𝐖+b
 a
 b
 x
 y
 x
-x =6y +3 .
-n,
+x𝐖=6y𝐖+3𝐖.
+n,𝐖
 n
 n
 a
-b,
-a^2 +b^2
+b,𝐖
+a^2𝐖𝐖+b^2𝐖
 a
 b
-n,
+n,𝐖
 n
 8n
-n,
+n,𝐖
 n
 3n
 n
@@ -899,77 +899,77 @@ n
 n
 \sqrt{3}
 a
-b,
+b,𝐖
 a
 b
 ab
-n,
+n,𝐖
 5n
 n
-a,
-b,
-c,
-a^2 +b^2 =c^2,
+a,𝐖
+b,𝐖
+c,𝐖
+a^2𝐖𝐖+b^2𝐖𝐖=c^2𝐖,𝐖
 a
 b
-n,
+n,𝐖
 n
 n
-x =y
-xy =\frac{(x +y)^2}{4} .
-\log (7)
-x^2 =4y +3 .
-1 =3 .
-1 =3 ?
-n \times n
-n ?
+x𝐖=y
+xy𝐖=\frac{(x𝐖+y)^2𝐖}{4}𝐖.
+\log𝐖(7)
+x^2𝐖𝐖=4y𝐖+3𝐖.
+1𝐖=3𝐖.
+1𝐖=3𝐖?
+n𝐖\times𝐖n
+n𝐖?
 n
-n \times n
+n𝐖\times𝐖n
 n
 k
 n
-V =\{a, b, c, d, e\},
-E =\{\{a, b\}, \{a, c\}, \{a, d\}, \{a, e\}, \{b, c\}, \{d, e\}\} .
-V =\{v_1, v_2, v_3, v_4, v_5 \},
-E =\{\{v_1, v_3 \}, \{v_1, v_5 \}, \{v_2, v_4 \}, \{v_2, v_5 \}, \{v_3, v_5 \}, \{v_4, v_5 \}\} .
-G =(V, E)
+V𝐖=\{a,𝐖b,𝐖c,𝐖d,𝐖e\},𝐖
+E𝐖=\{\{a,𝐖b\},𝐖\{a,𝐖c\},𝐖\{a,𝐖d\},𝐖\{a,𝐖e\},𝐖\{b,𝐖c\},𝐖\{d,𝐖e\}\}𝐖.
+V𝐖=\{v_1𝐖,𝐖v_2𝐖,𝐖v_3𝐖,𝐖v_4𝐖,𝐖v_5𝐖\},𝐖
+E𝐖=\{\{v_1𝐖,𝐖v_3𝐖\},𝐖\{v_1𝐖,𝐖v_5𝐖\},𝐖\{v_2𝐖,𝐖v_4𝐖\},𝐖\{v_2𝐖,𝐖v_5𝐖\},𝐖\{v_3𝐖,𝐖v_5𝐖\},𝐖\{v_4𝐖,𝐖v_5𝐖\}\}𝐖.
+G𝐖=(V,𝐖E)
 V
 E
-V .
-(\{a, b, c, d\}, \{\{a, b\}, \{a, c\}, \{b, c\}, \{b, d\}, \{c, d\}\}) .
-a, b, c, d
-\{a, b\}, \{a, c\}, \{b, c\}, \{b, d\}, \{c, d\})
-G_1 =(\{a, b, c\}, \{\{a, b\}, \{b, c\}\}); G_2 =(\{a, b, c\}, \{\{a, c\}, \{c, b\}\})
-G_1 =\{V_1, E_1 \}
-V_1 =\{a, b, c\}
-E_1 =\{\{a, b\}, \{a, c\}, \{b, c\}\};
-G_2 =\{V_2, E_2 \}
-V_2 =\{u, v, w\}
-E_2 =\{\{u, v\}, \{u, w\}, \{v, w\}\} .
-G_1
-G_2
-f \colon V_1 \to V_2
-\{a, b\}
-G_1
-\{f(a), f(b)\}
-G_2 .
-G_1 \cong G_2 .
-G_1 =\{V_1, E_1 \}
-G_2 =\{V_2, E_2 \}
-V_1 =\{a, b, c, d\},
-E_1 =\{\{a, b\}, \{a, c\}, \{a, d\}, \{c, d\}\}
-V_2 =\{a, b, c, d\},
-E_2 =\{\{a, b\}, \{a, c\}, \{b, c\}, \{c, d\}\}
-K_n
-\mathbit G_\mathbf 1
-V_1 =\{a, b, c, d, e, f, g\}
-E_1 =\{\{a, b\}, \{a, d\}, \{b, c\}, \{b, d\}, \{b, e\}, \{b, f\}, \{c, g\}, \{d, e\},
-\{e, f\}, \{f, g\}\} .
-\mathbit G_\mathbf 2
-V_2 =\{v_1, v_2, v_3, v_4, v_5, v_6, v_7 \},
-E_2 =\{\{v_1, v_4 \}, \{v_1, v_5 \}, \{v_1, v_7 \}, \{v_2, v_3 \}, \{v_2, v_6 \},
-\{v_3, v_5 \}, \{v_3, v_7 \}, \{v_4, v_5 \}, \{v_5, v_6 \}, \{v_5, v_7 \}\}
-f \colon G_1 \to G_2
+V𝐖.
+(\{a,𝐖b,𝐖c,𝐖d\},𝐖\{\{a,𝐖b\},𝐖\{a,𝐖c\},𝐖\{b,𝐖c\},𝐖\{b,𝐖d\},𝐖\{c,𝐖d\}\})𝐖.
+a,𝐖b,𝐖c,𝐖d
+\{a,𝐖b\},𝐖\{a,𝐖c\},𝐖\{b,𝐖c\},𝐖\{b,𝐖d\},𝐖\{c,𝐖d\})
+G_1𝐖𝐖=(\{a,𝐖b,𝐖c\},𝐖\{\{a,𝐖b\},𝐖\{b,𝐖c\}\});𝐖G_2𝐖𝐖=(\{a,𝐖b,𝐖c\},𝐖\{\{a,𝐖c\},𝐖\{c,𝐖b\}\})
+G_1𝐖𝐖=\{V_1𝐖,𝐖E_1𝐖\}
+V_1𝐖𝐖=\{a,𝐖b,𝐖c\}
+E_1𝐖𝐖=\{\{a,𝐖b\},𝐖\{a,𝐖c\},𝐖\{b,𝐖c\}\};𝐖
+G_2𝐖𝐖=\{V_2𝐖,𝐖E_2𝐖\}
+V_2𝐖𝐖=\{u,𝐖v,𝐖w\}
+E_2𝐖𝐖=\{\{u,𝐖v\},𝐖\{u,𝐖w\},𝐖\{v,𝐖w\}\}𝐖.
+G_1𝐖
+G_2𝐖
+f𝐖\colon𝐖V_1𝐖𝐖\to𝐖V_2𝐖
+\{a,𝐖b\}
+G_1𝐖
+\{f(a),𝐖f(b)\}
+G_2𝐖𝐖.
+G_1𝐖𝐖\cong𝐖G_2𝐖𝐖.
+G_1𝐖𝐖=\{V_1𝐖,𝐖E_1𝐖\}
+G_2𝐖𝐖=\{V_2𝐖,𝐖E_2𝐖\}
+V_1𝐖𝐖=\{a,𝐖b,𝐖c,𝐖d\},𝐖
+E_1𝐖𝐖=\{\{a,𝐖b\},𝐖\{a,𝐖c\},𝐖\{a,𝐖d\},𝐖\{c,𝐖d\}\}
+V_2𝐖𝐖=\{a,𝐖b,𝐖c,𝐖d\},𝐖
+E_2𝐖𝐖=\{\{a,𝐖b\},𝐖\{a,𝐖c\},𝐖\{b,𝐖c\},𝐖\{c,𝐖d\}\}
+K_n𝐖
+\mathbit𝐖G𝐖_\mathbf𝐖1𝐖𝐖
+V_1𝐖𝐖=\{a,𝐖b,𝐖c,𝐖d,𝐖e,𝐖f,𝐖g\}
+E_1𝐖𝐖=\{\{a,𝐖b\},𝐖\{a,𝐖d\},𝐖\{b,𝐖c\},𝐖\{b,𝐖d\},𝐖\{b,𝐖e\},𝐖\{b,𝐖f\},𝐖\{c,𝐖g\},𝐖\{d,𝐖e\},𝐖
+\{e,𝐖f\},𝐖\{f,𝐖g\}\}𝐖.
+\mathbit𝐖G𝐖_\mathbf𝐖2𝐖𝐖
+V_2𝐖𝐖=\{v_1𝐖,𝐖v_2𝐖,𝐖v_3𝐖,𝐖v_4𝐖,𝐖v_5𝐖,𝐖v_6𝐖,𝐖v_7𝐖\},𝐖
+E_2𝐖𝐖=\{\{v_1𝐖,𝐖v_4𝐖\},𝐖\{v_1𝐖,𝐖v_5𝐖\},𝐖\{v_1𝐖,𝐖v_7𝐖\},𝐖\{v_2𝐖,𝐖v_3𝐖\},𝐖\{v_2𝐖,𝐖v_6𝐖\},𝐖
+\{v_3𝐖,𝐖v_5𝐖\},𝐖\{v_3𝐖,𝐖v_7𝐖\},𝐖\{v_4𝐖,𝐖v_5𝐖\},𝐖\{v_5𝐖,𝐖v_6𝐖\},𝐖\{v_5𝐖,𝐖v_7𝐖\}\}
+f𝐖\colon𝐖G_1𝐖𝐖\to𝐖G_2𝐖
 x
 a
 b
@@ -979,280 +979,280 @@ e
 f
 g
 f(x)
-v_4
-v_5
-v_1
-v_6
-v_2
-v_3
-v_7
+v_4𝐖
+v_5𝐖
+v_1𝐖
+v_6𝐖
+v_2𝐖
+v_3𝐖
+v_7𝐖
 f
 g
-g \not= f
-G' =(V', E')
-G =(V, E),
-G' \subseteq G,
-V' \subseteq V
-E' \subseteq E .
-G' =(V', E')
-G =(V, E)
-V' \subseteq V
+g𝐖\not=𝐖f
+G'𝐖=(V',𝐖E')
+G𝐖=(V,𝐖E),𝐖
+G'𝐖\subseteq𝐖G,𝐖
+V'𝐖\subseteq𝐖V
+E'𝐖\subseteq𝐖E𝐖.
+G'𝐖=(V',𝐖E')
+G𝐖=(V,𝐖E)
+V'𝐖\subseteq𝐖V
 E
 V'
-E' .
-G_2
-G_3
-G_1 .
-G_2
-G_1
-G_2
-G_2 .
-G_3,
-\{a, b\}
-E_1
-E_3,
+E'𝐖.
+G_2𝐖
+G_3𝐖
+G_1𝐖𝐖.
+G_2𝐖
+G_1𝐖
+G_2𝐖
+G_2𝐖𝐖.
+G_3𝐖,𝐖
+\{a,𝐖b\}
+E_1𝐖
+E_3𝐖,𝐖
 a
 b
-V_3 .
-G_4
-G_1,
-e .
-E_4
-\{c, f\}
-E_1,
-E_4 \subseteq E_1 .
+V_3𝐖𝐖.
+G_4𝐖
+G_1𝐖,𝐖
+e𝐖.
+E_4𝐖
+\{c,𝐖f\}
+E_1𝐖,𝐖
+E_4𝐖𝐖\subseteq𝐖E_1𝐖𝐖.
 a
-b \colon
-K_n
+b𝐖\colon𝐖
+K_n𝐖
 n
-K_n
-n -1
-K_n
-n -1 .
-K_n
-n(n -1),
-n -1
+K_n𝐖
+n𝐖-1
+K_n𝐖
+n𝐖-1𝐖.
+K_n𝐖
+n(n𝐖-1),𝐖
+n𝐖-1
 n
-n(n -1)/2
-K_n .
+n(n𝐖-1)/2
+K_n𝐖𝐖.
 A
-B,
+B,𝐖
 A
 B
 A
-B .
+B𝐖.
 A
-B,
-K_{m, n},
-| A| =m
-| B| =n .
-K_{3, 3} .
-\mathbit K_\mathbit n
+B,𝐖
+K_{m,𝐖n}𝐖,𝐖
+|𝐖A|𝐖=m
+|𝐖B|𝐖=n𝐖.
+K_{3,𝐖3}𝐖𝐖.
+\mathbit𝐖K𝐖_\mathbit𝐖n𝐖𝐖
 n
-\mathbit K_{\mathbit m, \mathbit n}
+\mathbit𝐖K𝐖_{\mathbit𝐖m𝐖,𝐖\mathbit𝐖n𝐖}𝐖
 m
 n
-\mathbit C_\mathbit n
+\mathbit𝐖C𝐖_\mathbit𝐖n𝐖𝐖
 n
-\mathbit P_\mathbit n
-n +1
+\mathbit𝐖P𝐖_\mathbit𝐖n𝐖𝐖
+n𝐖+1
 n
 V
 E
 V
 E
-V .
+V𝐖.
 H
 G
 H
-G .
+G𝐖.
 H
 G
 H
 G
 H
 H
-G .
-3 +7 =12
-1 +3 +5 +7 +\cdots +2n +1 .
-3 +x =12
-3 +x =12
+G𝐖.
+3𝐖+7𝐖=12
+1𝐖+3𝐖+5𝐖+7𝐖+\cdots𝐖𝐖+2n𝐖+1𝐖.
+3𝐖+x𝐖=12
+3𝐖+x𝐖=12
 x
-3 +x =12
-x =9,
-x,
-3 +x =12,
-P, Q, R, S, \ldots .
-\wedge,
-\vee,
-\to,
-\leftrightarrow,
-\lnot .
-P \wedge Q
+3𝐖+x𝐖=12
+x𝐖=9,𝐖
+x,𝐖
+3𝐖+x𝐖=12,𝐖
+P,𝐖Q,𝐖R,𝐖S,𝐖\ldots𝐖𝐖.
+𝐖\wedge𝐖,𝐖
+𝐖\vee𝐖,𝐖
+𝐖\to𝐖,𝐖
+𝐖\leftrightarrow𝐖,𝐖
+𝐖\lnot𝐖𝐖.
+P𝐖\wedge𝐖Q
 P
-Q,
-P \vee Q
+Q,𝐖
+P𝐖\vee𝐖Q
 P
-Q,
-P \to Q
+Q,𝐖
+P𝐖\to𝐖Q
 P
-Q,
-P \leftrightarrow Q
+Q,𝐖
+P𝐖\leftrightarrow𝐖Q
 P
-Q,
-\lnot P
-P,
-P \wedge Q
-P
-Q
-P \vee Q
+Q,𝐖
+𝐖\lnot𝐖P
+P,𝐖
+P𝐖\wedge𝐖Q
 P
 Q
-P \to Q
+P𝐖\vee𝐖Q
 P
 Q
-P \leftrightarrow Q
+P𝐖\to𝐖Q
 P
 Q
-\lnot P
-P
-P \vee Q
+P𝐖\leftrightarrow𝐖Q
 P
 Q
-P \to Q
-P \to Q
+𝐖\lnot𝐖P
+P
+P𝐖\vee𝐖Q
 P
 Q
+P𝐖\to𝐖Q
+P𝐖\to𝐖Q
 P
 Q
 P
 Q
-P \to Q
 P
 Q
-a^2 +b^2 =c^2 .
-1^2 +5^2 =2^2 ???
+P𝐖\to𝐖Q
+P
+Q
+a^2𝐖𝐖+b^2𝐖𝐖=c^2𝐖𝐖.
+1^2𝐖𝐖+5^2𝐖𝐖=2^2𝐖???
 a
 b
 c
 a
 b
-c,
-a^2 +b^2 =c^2 .
+c,𝐖
+a^2𝐖𝐖+b^2𝐖𝐖=c^2𝐖𝐖.
 P
 Q
 P
-P \to Q
+P𝐖\to𝐖Q
 Q
-P \to Q .
-P \to Q
-P
-Q
-P \to Q
+P𝐖\to𝐖Q𝐖.
+P𝐖\to𝐖Q
 P
 Q
-P
-Q .
-P \to Q
-P
-Q,
+P𝐖\to𝐖Q
 P
 Q
-1 =1,
-0 =1,
-1 =1 .
-\pi
-\pi
-2 +2 =4 .
-P \to Q,
-P,
-Q .
-P \to Q
+P
+Q𝐖.
+P𝐖\to𝐖Q
+P
+Q,𝐖
+P
+Q
+1𝐖=1,𝐖
+0𝐖=1,𝐖
+1𝐖=1𝐖.
+\pi𝐖
+\pi𝐖
+2𝐖+2𝐖=4𝐖.
+P𝐖\to𝐖Q,𝐖
+P,𝐖
+Q𝐖.
+P𝐖\to𝐖Q
 Q
 P
 Q
 P
 a
 b
-a +b
-P \to Q
-Q \to P .
-P \to Q
-\lnot Q \to \lnot P .
-a^2 +b^2 =c^2,
-a,
-b,
+a𝐖+b
+P𝐖\to𝐖Q
+Q𝐖\to𝐖P𝐖.
+P𝐖\to𝐖Q
+𝐖\lnot𝐖Q𝐖\to𝐖𝐖\lnot𝐖P𝐖.
+a^2𝐖𝐖+b^2𝐖𝐖=c^2𝐖,𝐖
+a,𝐖
+b,𝐖
 c
-P \to Q
-Q \to P
+P𝐖\to𝐖Q
+Q𝐖\to𝐖P
 P
 Q
-P \leftrightarrow Q .
-P \leftrightarrow Q
-(P \to Q) \wedge (Q \to P) .
-n,
+P𝐖\leftrightarrow𝐖Q𝐖.
+P𝐖\leftrightarrow𝐖Q
+(P𝐖\to𝐖Q)𝐖\wedge𝐖(Q𝐖\to𝐖P)𝐖.
+n,𝐖
 n
-n^2
+n^2𝐖
 n
-n^2
-n^2
+n^2𝐖
+n^2𝐖
 n
-(P \to Q)
-P \leftarrow Q,
-Q \to P
-P \to Q
+(P𝐖\to𝐖Q)
+P𝐖\leftarrow𝐖Q,𝐖
+Q𝐖\to𝐖P
+P𝐖\to𝐖Q
 P
 Q
-P \to Q
-Q \to P .
-P \to Q .
+P𝐖\to𝐖Q
+Q𝐖\to𝐖P𝐖.
+P𝐖\to𝐖Q𝐖.
 P
 Q
-Q \to P .
+Q𝐖\to𝐖P𝐖.
 P
 Q
-P \to Q .
+P𝐖\to𝐖Q𝐖.
 P
-Q,
-P \leftrightarrow Q .
-c,
-c,
-f(x) =| x|
+Q,𝐖
+P𝐖\leftrightarrow𝐖Q𝐖.
+c,𝐖
+c,𝐖
+f(x)𝐖=|𝐖x|
 n
-n +7
-P(n) \to \lnot P(n +7)
+n𝐖+7
+P(n)𝐖\to𝐖𝐖\lnot𝐖P(n𝐖+7)
 P(n)
 n
-n,
-n,
-n,
+n,𝐖
+n,𝐖
+n,𝐖
 n
-n +7
-\exists
-\exists x(x \lt 0)
-\forall
-\forall x(x \ge 0)
-\forall x \exists y(y \lt x) .
+n𝐖+7
+\exists𝐖
+𝐖\exists𝐖x(x𝐖\lt𝐖0)
+\forall𝐖
+𝐖\forall𝐖x(x𝐖\ge𝐖0)
+𝐖\forall𝐖x𝐖\exists𝐖y(y𝐖\lt𝐖x)𝐖.
 x
 y
 y
-x .
-x,
+x𝐖.
+x,𝐖
 y
-x -1 ?
-x =0 ?
-y = -1
-\exists x \forall y(y \ge x) .
-\lnot \forall xP(x)
-\exists x \lnot P(x) .
-\lnot \exists xP(x)
-\forall x \lnot P(x) .
+x𝐖-1𝐖?
+x𝐖=0𝐖?
+y𝐖=𝐖-1
+𝐖\exists𝐖x𝐖\forall𝐖y(y𝐖\ge𝐖x)𝐖.
+𝐖\lnot𝐖𝐖\forall𝐖xP(x)
+𝐖\exists𝐖x𝐖\lnot𝐖P(x)𝐖.
+𝐖\lnot𝐖𝐖\exists𝐖xP(x)
+𝐖\forall𝐖x𝐖\lnot𝐖P(x)𝐖.
 S(x)
 x
 R(x)
 x
-S(x) \to R(x) .
-\forall x(S(x) \to R(x)),
+S(x)𝐖\to𝐖R(x)𝐖.
+𝐖\forall𝐖x(S(x)𝐖\to𝐖R(x)),𝐖
 P(n)
 n
 P(n)
@@ -1260,181 +1260,181 @@ n
 n
 P
 Q
-P \colon
-Q \colon
-P \vee Q
-\lnot (P \wedge Q) \to Q
+P𝐖\colon𝐖
+Q𝐖\colon𝐖
+P𝐖\vee𝐖Q
+𝐖\lnot𝐖(P𝐖\wedge𝐖Q)𝐖\to𝐖Q
 P(x)
-3x +1
+3x𝐖+1
 P(5)
-\exists xP(x)
-P(5) ?
-\forall xP(x)
-P(5) ?
+𝐖\exists𝐖xP(x)
+P(5)𝐖?
+𝐖\forall𝐖xP(x)
+P(5)𝐖?
 P(x)
-4x +1
+4x𝐖+1
 P(5)
-\exists xP(x)
-P(5) ?
-\forall xP(x)
-P(5) ?
-P(x),
-\forall xP(x)
-\exists xP(x)
+𝐖\exists𝐖xP(x)
+P(5)𝐖?
+𝐖\forall𝐖xP(x)
+P(5)𝐖?
+P(x),𝐖
+𝐖\forall𝐖xP(x)
+𝐖\exists𝐖xP(x)
 n
 P(n)
 P(n)
 n
 P(n)
-\forall xP(x)
-\forall xP(x)
-\exists xP(x)
-\exists xP(x)
-P(x, y)
-P(x, y)
+𝐖\forall𝐖xP(x)
+𝐖\forall𝐖xP(x)
+𝐖\exists𝐖xP(x)
+𝐖\exists𝐖xP(x)
+P(x,𝐖y)
+P(x,𝐖y)
 x
 y
-P(1, 3)
-\forall x \exists yP(x, y) .
-\forall y \exists xP(x, y) .
-\exists x \forall yP(x, y) .
-\exists y \forall xP(x, y) .
+P(1,𝐖3)
+𝐖\forall𝐖x𝐖\exists𝐖yP(x,𝐖y)𝐖.
+𝐖\forall𝐖y𝐖\exists𝐖xP(x,𝐖y)𝐖.
+𝐖\exists𝐖x𝐖\forall𝐖yP(x,𝐖y)𝐖.
+𝐖\exists𝐖y𝐖\forall𝐖xP(x,𝐖y)𝐖.
 E(x)
 x
 O(x)
 x
-\forall x(E(x) \to E(x +2)) .
-\forall x \exists y(\sin (x) =y) .
-\forall y \exists x(\sin (x) =y) .
-\forall x \forall y(x^3 =y^3 \to x =y) .
+𝐖\forall𝐖x(E(x)𝐖\to𝐖E(x𝐖+2))𝐖.
+𝐖\forall𝐖x𝐖\exists𝐖y(\sin𝐖(x)𝐖=y)𝐖.
+𝐖\forall𝐖y𝐖\exists𝐖x(\sin𝐖(x)𝐖=y)𝐖.
+𝐖\forall𝐖x𝐖\forall𝐖y(x^3𝐖𝐖=y^3𝐖𝐖\to𝐖x𝐖=y)𝐖.
 P(x)
-\forall xP(x)
-\exists xP(x)
-\forall xP(x) \to \exists xP(x)
-\forall x \exists y(y^2 =x) .
-\forall x \forall y(x \lt y \to \exists z(x \lt z \lt y)) .
-\exists x \forall y \forall z(y \lt z \to y \le x \le z) .
-n,
+𝐖\forall𝐖xP(x)
+𝐖\exists𝐖xP(x)
+𝐖\forall𝐖xP(x)𝐖\to𝐖𝐖\exists𝐖xP(x)
+𝐖\forall𝐖x𝐖\exists𝐖y(y^2𝐖𝐖=x)𝐖.
+𝐖\forall𝐖x𝐖\forall𝐖y(x𝐖\lt𝐖y𝐖\to𝐖𝐖\exists𝐖z(x𝐖\lt𝐖z𝐖\lt𝐖y))𝐖.
+𝐖\exists𝐖x𝐖\forall𝐖y𝐖\forall𝐖z(y𝐖\lt𝐖z𝐖\to𝐖y𝐖\le𝐖x𝐖\le𝐖z)𝐖.
+n,𝐖
 n
 n
-n,
+n,𝐖
 P
 S
 n
-2n,
-(0, 0)
-(n, n)
-y =x ?
-(3, 3)
-(0, 0)
-(3, 3) .
+2n,𝐖
+(0,𝐖0)
+(n,𝐖n)
+y𝐖=x𝐖?
+(3,𝐖3)
+(0,𝐖0)
+(3,𝐖3)𝐖.
 2n
 n
 n
 2n
-1, 2, \ldots, 2n
+1,𝐖2,𝐖\ldots𝐖,𝐖2n
 n
-n =3,
-n +1
-a_1 a_2 \cdots a_n a_{n +1},
+n𝐖=3,𝐖
+n𝐖+1
+a_1𝐖a_2𝐖\cdots𝐖a_n𝐖a_{n𝐖+1}𝐖,𝐖
 n
-n =3,
-(ab)(cd)((ab)c)da(b(cd))(a(bc))da((bc)d) .
-(n +2)
-n =3
-n +1
-(C_n)_{n \ge 0}
-1, 1, 2, 5, 14, 42, 132, \ldots .
-(0, 0)
-(n, n)
-y =x
+n𝐖=3,𝐖
+(ab)(cd)((ab)c)da(b(cd))(a(bc))da((bc)d)𝐖.
+(n𝐖+2)
+n𝐖=3
+n𝐖+1
+(C_n𝐖)_{n𝐖\ge𝐖0}𝐖
+1,𝐖1,𝐖2,𝐖5,𝐖14,𝐖42,𝐖132,𝐖\ldots𝐖𝐖.
+(0,𝐖0)
+(n,𝐖n)
+y𝐖=x
 x
-y,
+y,𝐖
 y
 x
 2n
-C_n .
+C_n𝐖𝐖.
 2n
 2n
-2 \times n
-n +1
-C_n
-n +1
-n +1
-C_{n +1} =\sum_{i =0}^n C_i C_{n -i} =C_0 C_n +C_1 C_{n -1} +\ldots +C_n C_0
-C_0 =1 .
-n +2
-C_n .
-C_n
-(0, 0)
-(n, n)
-y =x
-(0, 0)
-(n, n) .
-(0, 0)
-(n, n)
-y =x
-(0, 0)
-(n, n)
-y =x +1 .
-(0, 0)
-(n, n)
-y =x +1
-( -1, 1)
-(n, n) .
-(0, 0)
-(n, n)
-y =x .
-C_n .
-C_n =\binom{2n}{n} -\binom{2n}{n +1} .
-C_n =\frac{1}{n +1}\binom{2n}{n} .
-\binom{2n}{n} -\binom{2n}{n +1} =\frac{1}{n +1}\binom{2n}{n}
-C_n =\frac{1}{n +1}\binom{2n}{n +1}
-C_6
-C_7
-C_4 =14
-C_4 =14
-abcde,
-C_n
+2𝐖\times𝐖n
+n𝐖+1
+C_n𝐖
+n𝐖+1
+n𝐖+1
+C_{n𝐖+1}𝐖𝐖=\sum𝐖_{i𝐖=0}^n𝐖C_i𝐖C_{n𝐖-i}𝐖𝐖=C_0𝐖C_n𝐖𝐖+C_1𝐖C_{n𝐖-1}𝐖𝐖+\ldots𝐖𝐖+C_n𝐖C_0𝐖
+C_0𝐖𝐖=1𝐖.
+n𝐖+2
+C_n𝐖𝐖.
+C_n𝐖
+(0,𝐖0)
+(n,𝐖n)
+y𝐖=x
+(0,𝐖0)
+(n,𝐖n)𝐖.
+(0,𝐖0)
+(n,𝐖n)
+y𝐖=x
+(0,𝐖0)
+(n,𝐖n)
+y𝐖=x𝐖+1𝐖.
+(0,𝐖0)
+(n,𝐖n)
+y𝐖=x𝐖+1
+(𝐖-1,𝐖1)
+(n,𝐖n)𝐖.
+(0,𝐖0)
+(n,𝐖n)
+y𝐖=x𝐖.
+C_n𝐖𝐖.
+C_n𝐖𝐖=\binom{2n}{n}𝐖-\binom{2n}{n𝐖+1}𝐖.
+C_n𝐖𝐖=\frac{1}{n𝐖+1}\binom{2n}{n}𝐖.
+\binom{2n}{n}𝐖-\binom{2n}{n𝐖+1}𝐖=\frac{1}{n𝐖+1}\binom{2n}{n}
+C_n𝐖𝐖=\frac{1}{n𝐖+1}\binom{2n}{n𝐖+1}
+C_6𝐖
+C_7𝐖
+C_4𝐖𝐖=14
+C_4𝐖𝐖=14
+abcde,𝐖
+C_n𝐖
 2n
-n,
+n,𝐖
 2n
-n -1
+n𝐖-1
 2n
 n
-C_n =\binom{2n}{n} -\binom{2n}{n -1} ?
-n +1
-n +2
-n =3 .
-C_n =\frac{1}{n +1}\binom{2n}{n} .
-C_n =\binom{n}{1}C_{n -1} -\binom{n -1}{2}C_{n -2} +\binom{n -2}{3}C_{n -3} -\cdots
-C_n .
-n
-2n
-2n
+C_n𝐖𝐖=\binom{2n}{n}𝐖-\binom{2n}{n𝐖-1}𝐖?
+n𝐖+1
+n𝐖+2
+n𝐖=3𝐖.
+C_n𝐖𝐖=\frac{1}{n𝐖+1}\binom{2n}{n}𝐖.
+C_n𝐖𝐖=\binom{n}{1}C_{n𝐖-1}𝐖𝐖-\binom{n𝐖-1}{2}C_{n𝐖-2}𝐖𝐖+\binom{n𝐖-2}{3}C_{n𝐖-3}𝐖𝐖-\cdots𝐖
+C_n𝐖𝐖.
 n
 2n
 2n
-P_n
-n
-n +1
-v .
-2n
-v ?
-n
-n
-\frac{n(n +1)}{2}
 n
 2n
-(a, b)
-(a +1, b +1)
-(a +1, b -1) .
-(0, 0)
-(2n, 0)
+2n
+P_n𝐖
+n
+n𝐖+1
+v𝐖.
+2n
+v𝐖?
+n
+n
+\frac{n(n𝐖+1)}{2}
+n
+2n
+(a,𝐖b)
+(a𝐖+1,𝐖b𝐖+1)
+(a𝐖+1,𝐖b𝐖-1)𝐖.
+(0,𝐖0)
+(2n,𝐖0)
 x
 [n]
 abc
-a \lt b \lt c ?
+a𝐖\lt𝐖b𝐖\lt𝐖c𝐖?
 1324
 1423
 2341
@@ -1442,71 +1442,71 @@ a \lt b \lt c ?
 k
 n
 \binom{n}{k}
-\binom{n}{k} =\frac{n!}{(n -k)!k!} .
-P(n, k) =\binom{n}{k}k!,
-P(n, k) =\frac{n!}{(n -k)!},
-\binom{n}{k} .
-\{a, b, c, d, e\}
-\binom{5}{3},
-5 \cdot 4 \cdot 3
-\{a, c, d\} .
-\{c, d, e\} ?
-\{a, b, c, d, e\}
-\{a, b, c, d, e\} .
-S,
-\sim,
+\binom{n}{k}𝐖=\frac{n!}{(n𝐖-k)!k!}𝐖.
+P(n,𝐖k)𝐖=\binom{n}{k}k!,𝐖
+P(n,𝐖k)𝐖=\frac{n!}{(n𝐖-k)!},𝐖
+\binom{n}{k}𝐖.
+\{a,𝐖b,𝐖c,𝐖d,𝐖e\}
+\binom{5}{3},𝐖
+5𝐖\cdot𝐖4𝐖\cdot𝐖3
+\{a,𝐖c,𝐖d\}𝐖.
+\{c,𝐖d,𝐖e\}𝐖?
+\{a,𝐖b,𝐖c,𝐖d,𝐖e\}
+\{a,𝐖b,𝐖c,𝐖d,𝐖e\}𝐖.
+S,𝐖
+𝐖\sim𝐖,𝐖
 S
-\sim
-\{x \in S \colon x \sim a\}
+\sim𝐖
+\{x𝐖\in𝐖S𝐖\colon𝐖x𝐖\sim𝐖a\}
 a
-\{a, b, c, d, e\} .
-S .
-T,
-\sim
+\{a,𝐖b,𝐖c,𝐖d,𝐖e\}𝐖.
+S𝐖.
+T,𝐖
+\sim𝐖
 T
 S
-T/ \sim .
-T/ \sim,
-S .
-T/ \sim
+T/𝐖\sim𝐖𝐖.
+T/𝐖\sim𝐖,𝐖
+S𝐖.
+T/𝐖\sim𝐖
 T
-\sim .
+𝐖\sim𝐖𝐖.
 T
-\sim .
-| T/ \sim | =| T|/| A|
+𝐖\sim𝐖𝐖.
+|𝐖T/𝐖\sim𝐖|𝐖𝐖=|𝐖T|/|𝐖A|
 A
-\sim .
+𝐖\sim𝐖𝐖.
 p
 q
-r,
-q =p/r .
+r,𝐖
+q𝐖=p/r𝐖.
 n
 n
 2n
-\binom{n}{k} =\frac{n!}{(n -k)!k!}
-\binom{n}{k} =\frac{P(n, k)}{k!} .
-P(n, k)
+\binom{n}{k}𝐖=\frac{n!}{(n𝐖-k)!k!}
+\binom{n}{k}𝐖=\frac{P(n,𝐖k)}{k!}𝐖.
+P(n,𝐖k)
 n!
-(n -k)!k!
+(n𝐖-k)!k!
 \binom{n}{k}
 \binom{n}{k}
-P(n, k)
+P(n,𝐖k)
 k
 n
 \binom{n}{k}
-P(n, k)
-f \colon [k] \to [n]
-f \colon [k] \to [n]
+P(n,𝐖k)
+f𝐖\colon𝐖[k]𝐖\to𝐖[n]
+f𝐖\colon𝐖[k]𝐖\to𝐖[n]
 n
 k
-\binom{n}{k},
+\binom{n}{k},𝐖
 k
-n -k
+n𝐖-k
 4
 [7]
-\{1, 3, 3, 6\},
-\{1, 6, 3, 3\}
-\{1, 3, 6\}
+\{1,𝐖3,𝐖3,𝐖6\},𝐖
+\{1,𝐖6,𝐖3,𝐖3\}
+\{1,𝐖3,𝐖6\}
 k
 [n]
 n
@@ -1514,48 +1514,48 @@ k
 \binom{n}{k}
 k
 [n]
-\mathbit n
-\mathbit k
-(\binom{n}{k}) .
-(\binom{n}{k}) \not= \frac{n^k}{k!}
-n^k ?
+\mathbit𝐖n𝐖
+\mathbit𝐖k𝐖
+(\binom{n}{k})𝐖.
+(\binom{n}{k})𝐖\not=𝐖\frac{n^k𝐖}{k!}
+n^k𝐖𝐖?
 (\binom{n}{k})
 n
 k
 k
 [n]
 n
-f \colon [5] \to [7]
-f = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 \\ 2 & 5 & 5 & 6 & 7 \end{pmatrix} .
+f𝐖\colon𝐖[5]𝐖\to𝐖[7]
+f𝐖=𝐖\begin{pmatrix}𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖&𝐖5𝐖\\𝐖2𝐖&𝐖5𝐖&𝐖5𝐖&𝐖6𝐖&𝐖7𝐖\end{pmatrix}𝐖𝐖.
 (\binom{n}{k})
 n
 k
 k
-[n] .
-x_1 +x_2 +x_3 +x_4 =10 ?
-P(n, k)
+[n]𝐖.
+x_1𝐖𝐖+x_2𝐖𝐖+x_3𝐖𝐖+x_4𝐖𝐖=10𝐖?
+P(n,𝐖k)
 k
 n
 k
 n
-(\binom{n}{k}) .
+(\binom{n}{k})𝐖.
 k
 [n]
 3
-[5] .
-\{1, 1, 1\},
-\{2, 4, 5\} .
-P(n, k)
+[5]𝐖.
+\{1,𝐖1,𝐖1\},𝐖
+\{2,𝐖4,𝐖5\}𝐖.
+P(n,𝐖k)
 k
 n
 \binom{n}{k}
 k
 n
-(\binom{n}{k}),
-n^k .
+(\binom{n}{k}),𝐖
+n^k𝐖𝐖.
 k
 n
-i -1
+i𝐖-1
 i
 i
 S
@@ -1563,49 +1563,49 @@ T
 S
 T
 S
-f \colon S \to T,
-f^{ -1} (t) =\{s \in S \colon f(s) =t\}
-t \in T .
+f𝐖\colon𝐖S𝐖\to𝐖T,𝐖
+f^{𝐖-1}𝐖(t)𝐖=\{s𝐖\in𝐖S𝐖\colon𝐖f(s)𝐖=t\}
+t𝐖\in𝐖T𝐖.
 t
 k
 n
-\prod_{i =1}^k (n -1 +i) =\frac{(n -1 +k)!}{(n -1)!} =P(n -1 +k, k) .
+\prod𝐖_{i𝐖=1}^k𝐖(n𝐖-1𝐖+i)𝐖=\frac{(n𝐖-1𝐖+k)!}{(n𝐖-1)!}𝐖=P(n𝐖-1𝐖+k,𝐖k)𝐖.
 7
 6
 k
 k!
 k
 [n]
-(\binom{n}{k}) =\frac{P(n -1 +k, k)}{k!} =\binom{n -1 +k}{k}
+(\binom{n}{k})𝐖=\frac{P(n𝐖-1𝐖+k,𝐖k)}{k!}𝐖=\binom{n𝐖-1𝐖+k}{k}
 k
 [n]
 k
-n -1 +k
-(n -1 +k)
-k .
+n𝐖-1𝐖+k
+(n𝐖-1𝐖+k)
+k𝐖.
 k
-n -1
+n𝐖-1
 4
-[3] .
-\binom{6}{4} =15
+[3]𝐖.
+\binom{6}{4}𝐖=15
 \binom{6}{4}
 4
 2
 n
 k
-\ast | | \ast \ast |
-\ast \ast \ast | \ast | | \ast \ast |
-x_1 +x_2 +x_3 +x_4 =6 .
-x_1 +x_2 +x_3 +x_4 =10 ?
-f \colon [5] \to [7]
-f = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 \\ 2 & 5 & 5 & 6 & 7 \end{pmatrix} .
+𝐖\ast𝐖|𝐖|𝐖𝐖\ast𝐖𝐖\ast𝐖|
+𝐖\ast𝐖𝐖\ast𝐖𝐖\ast𝐖|𝐖𝐖\ast𝐖|𝐖|𝐖𝐖\ast𝐖𝐖\ast𝐖|
+x_1𝐖𝐖+x_2𝐖𝐖+x_3𝐖𝐖+x_4𝐖𝐖=6𝐖.
+x_1𝐖𝐖+x_2𝐖𝐖+x_3𝐖𝐖+x_4𝐖𝐖=10𝐖?
+f𝐖\colon𝐖[5]𝐖\to𝐖[7]
+f𝐖=𝐖\begin{pmatrix}𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖&𝐖5𝐖\\𝐖2𝐖&𝐖5𝐖&𝐖5𝐖&𝐖6𝐖&𝐖7𝐖\end{pmatrix}𝐖𝐖.
 [n]
 k
 n
 k
 n
 n
-k .
+k𝐖.
 k
 n
 k
@@ -1614,15 +1614,15 @@ k
 n
 k
 n
-1 +3 +1 .
-\ast \Vert \ast \ast \ast \ast
-\binom{k -1}{n -1}
+1𝐖+3𝐖+1𝐖.
+𝐖\ast𝐖𝐖\Vert𝐖𝐖\ast𝐖𝐖\ast𝐖𝐖\ast𝐖𝐖\ast𝐖
+\binom{k𝐖-1}{n𝐖-1}
 k
 n
-4 +1
-3 +1 +1,
-1 +4
-1 +3 +1
+4𝐖+1
+3𝐖+1𝐖+1,𝐖
+1𝐖+4
+1𝐖+3𝐖+1
 k
 n
 k
@@ -1632,1008 +1632,1008 @@ S
 S
 k
 n
-L(k, n) .
-L(k, n)
-k!\binom{k -1}{n -1}/n! .
+L(k,𝐖n)𝐖.
+L(k,𝐖n)
+k!\binom{k𝐖-1}{n𝐖-1}/n!𝐖.
 k
 n
 \~
-f \colon X \to Y
-f,
+f𝐖\colon𝐖X𝐖\to𝐖Y
+f,𝐖
 X
-Y .
+Y𝐖.
 f
-f \colon \mathbb N \to \mathbb N
-f(x) =x^2 +3 .
-\{3, 4, 7, 12, 19, 28, \ldots \},
-f \colon \mathbb Z \to \mathbb Z
-f(n) =3n .
-g \colon \{1, 2, 3\} \to \{a, b, c\}
-g(1) =c,
-g(2) =a
-g(3) =a .
-\{1, 2, 3\},
-\{a, b, c\}
-\{a, c\} .
+f𝐖\colon𝐖\mathbb𝐖N𝐖𝐖\to𝐖\mathbb𝐖N𝐖
+f(x)𝐖=x^2𝐖𝐖+3𝐖.
+\{3,𝐖4,𝐖7,𝐖12,𝐖19,𝐖28,𝐖\ldots𝐖\},𝐖
+f𝐖\colon𝐖\mathbb𝐖Z𝐖𝐖\to𝐖\mathbb𝐖Z𝐖
+f(n)𝐖=3n𝐖.
+g𝐖\colon𝐖\{1,𝐖2,𝐖3\}𝐖\to𝐖\{a,𝐖b,𝐖c\}
+g(1)𝐖=c,𝐖
+g(2)𝐖=a
+g(3)𝐖=a𝐖.
+\{1,𝐖2,𝐖3\},𝐖
+\{a,𝐖b,𝐖c\}
+\{a,𝐖c\}𝐖.
 g(2)
 g(3)
-h \colon \{1, 2, 3, 4\} \to \mathbb N
+h𝐖\colon𝐖\{1,𝐖2,𝐖3,𝐖4\}𝐖\to𝐖\mathbb𝐖N𝐖
 x
 h(x)
-\{1, 2, 3, 4\}
-\mathbb N .
+\{1,𝐖2,𝐖3,𝐖4\}
+\mathbb𝐖N𝐖𝐖.
 f
-f \colon \mathbb N \to \mathbb N
-f(n) =\frac{n}{2} .
+f𝐖\colon𝐖\mathbb𝐖N𝐖𝐖\to𝐖\mathbb𝐖N𝐖
+f(n)𝐖=\frac{n}{2}𝐖.
 f
-f(3) =\frac{3}{2},
+f(3)𝐖=\frac{3}{2},𝐖
 \frac{3}{2}
-\mathbb N
-\mathbb N
-f \colon \{1, 2, 3\} \to \{1, 2, 3\} .
+\mathbb𝐖N𝐖
+\mathbb𝐖N𝐖
+f𝐖\colon𝐖\{1,𝐖2,𝐖3\}𝐖\to𝐖\{1,𝐖2,𝐖3\}𝐖.
 f
-f(x) =\{x +1 & \~if\~x =1 \\ x -1 & \~if\~x =2 \\ x & \~if\~x =3 \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/> .
+f(x)𝐖=\{x𝐖+1𝐖&𝐖\~if\~x𝐖=1𝐖\\𝐖x𝐖-1𝐖&𝐖\~if\~x𝐖=2𝐖\\𝐖x𝐖&𝐖\~if\~x𝐖=3𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>𝐖.
 x
 f(x)
-f = \begin{pmatrix} 0 & 1 & 2 & 3 & 4 \\ 3 & 3 & 2 & 4 & 1 \end{pmatrix} .
-X =\{1, 2, 3, 4\}
-Y =\{a, b, c, d\} .
-\mathbb N .
-f \colon \mathbb N \to \mathbb N
+f𝐖=𝐖\begin{pmatrix}𝐖0𝐖&𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖\\𝐖3𝐖&𝐖3𝐖&𝐖2𝐖&𝐖4𝐖&𝐖1𝐖\end{pmatrix}𝐖𝐖.
+X𝐖=\{1,𝐖2,𝐖3,𝐖4\}
+Y𝐖=\{a,𝐖b,𝐖c,𝐖d\}𝐖.
+\mathbb𝐖N𝐖𝐖.
+f𝐖\colon𝐖\mathbb𝐖N𝐖𝐖\to𝐖\mathbb𝐖N𝐖
 x
-\ldots
+\ldots𝐖
 f(x)
-\ldots
-f(6) ?
-f(6) =36,
-f(6) =42 .
-n,
-f(6) =n .
-f(6) =36,
-f(n) =n^2 .
-\mathbb N,
-f \colon \mathbb N \to \mathbb N
-f(0) =0
-f(n +1) =f(n) +2n +1 .
-f(6) .
-f \colon \mathbb N \to \mathbb N,
-f(0) .
-f(n +1)
+\ldots𝐖
+f(6)𝐖?
+f(6)𝐖=36,𝐖
+f(6)𝐖=42𝐖.
+n,𝐖
+f(6)𝐖=n𝐖.
+f(6)𝐖=36,𝐖
+f(n)𝐖=n^2𝐖𝐖.
+\mathbb𝐖N𝐖,𝐖
+f𝐖\colon𝐖\mathbb𝐖N𝐖𝐖\to𝐖\mathbb𝐖N𝐖
+f(0)𝐖=0
+f(n𝐖+1)𝐖=f(n)𝐖+2n𝐖+1𝐖.
+f(6)𝐖.
+f𝐖\colon𝐖\mathbb𝐖N𝐖𝐖\to𝐖\mathbb𝐖N𝐖,𝐖
+f(0)𝐖.
+f(n𝐖+1)
 f(n)
 n
-f \colon \mathbb N \to \mathbb N
+f𝐖\colon𝐖\mathbb𝐖N𝐖𝐖\to𝐖\mathbb𝐖N𝐖
 n
-g \colon \mathbb N \to \mathbb N
+g𝐖\colon𝐖\mathbb𝐖N𝐖𝐖\to𝐖\mathbb𝐖N𝐖
 n
-h \colon \mathbb N \to \mathbb N
-f(n) =n! .
-n! =1 \cdot 2 \cdot 3 \cdot \cdots \cdot (n -1) \cdot n
+h𝐖\colon𝐖\mathbb𝐖N𝐖𝐖\to𝐖\mathbb𝐖N𝐖
+f(n)𝐖=n!𝐖.
+n!𝐖=1𝐖\cdot𝐖2𝐖\cdot𝐖3𝐖\cdot𝐖\cdots𝐖𝐖\cdot𝐖(n𝐖-1)𝐖\cdot𝐖n
 1
-n .
-0! =1 .
-f \colon \mathbb Z \to \mathbb Z
-f(n) =3n .
-g \colon \{1, 2, 3\} \to \{a, b, c\}
-g = \begin{pmatrix} 1 & 2 & 3 \\ c & a & a \end{pmatrix} .
-h \colon \{1, 2, 3\} \to \{1, 2, 3\}
-f \colon \mathbb Z \to \mathbb Z
-f(n) =3n .
-g \colon \{1, 2, 3\} \to \{a, b, c\}
-g = \begin{pmatrix} 1 & 2 & 3 \\ c & a & a \end{pmatrix} .
-h \colon \{1, 2, 3\} \to \{1, 2, 3\}
+n𝐖.
+0!𝐖=1𝐖.
+f𝐖\colon𝐖\mathbb𝐖Z𝐖𝐖\to𝐖\mathbb𝐖Z𝐖
+f(n)𝐖=3n𝐖.
+g𝐖\colon𝐖\{1,𝐖2,𝐖3\}𝐖\to𝐖\{a,𝐖b,𝐖c\}
+g𝐖=𝐖\begin{pmatrix}𝐖1𝐖&𝐖2𝐖&𝐖3𝐖\\𝐖c𝐖&𝐖a𝐖&𝐖a𝐖\end{pmatrix}𝐖𝐖.
+h𝐖\colon𝐖\{1,𝐖2,𝐖3\}𝐖\to𝐖\{1,𝐖2,𝐖3\}
+f𝐖\colon𝐖\mathbb𝐖Z𝐖𝐖\to𝐖\mathbb𝐖Z𝐖
+f(n)𝐖=3n𝐖.
+g𝐖\colon𝐖\{1,𝐖2,𝐖3\}𝐖\to𝐖\{a,𝐖b,𝐖c\}
+g𝐖=𝐖\begin{pmatrix}𝐖1𝐖&𝐖2𝐖&𝐖3𝐖\\𝐖c𝐖&𝐖a𝐖&𝐖a𝐖\end{pmatrix}𝐖𝐖.
+h𝐖\colon𝐖\{1,𝐖2,𝐖3\}𝐖\to𝐖\{1,𝐖2,𝐖3\}
 x
-f(x),
+f(x),𝐖
 x
 y
 x
-f(x) =y,
-f \colon X \to Y
-A \subseteq X
+f(x)𝐖=y,𝐖
+f𝐖\colon𝐖X𝐖\to𝐖Y
+A𝐖\subseteq𝐖X
 f(A)
-\mathbit A
-\mathbit f
+\mathbit𝐖A𝐖
+\mathbit𝐖f𝐖
 Y
-A .
-f(A) =\{f(a) \in Y \colon a \in A\} .
-f \colon X \to Y
-B \subseteq Y
-f^{ -1} (B)
-\mathbit B
-\mathbit f
+A𝐖.
+f(A)𝐖=\{f(a)𝐖\in𝐖Y𝐖\colon𝐖a𝐖\in𝐖A\}𝐖.
+f𝐖\colon𝐖X𝐖\to𝐖Y
+B𝐖\subseteq𝐖Y
+f^{𝐖-1}𝐖(B)
+\mathbit𝐖B𝐖
+\mathbit𝐖f𝐖
 X
-B .
-f^{ -1} (B) =\{x \in X \colon f(x) \in B\} .
+B𝐖.
+f^{𝐖-1}𝐖(B)𝐖=\{x𝐖\in𝐖X𝐖\colon𝐖f(x)𝐖\in𝐖B\}𝐖.
 y
-f^{ -1} (\{y\})
+f^{𝐖-1}𝐖(\{y\})
 f
-y .
+y𝐖.
 y
 y
-f^{ -1} (\{y\}) =\varnothing .
-f
-y
+f^{𝐖-1}𝐖(\{y\})𝐖=\varnothing𝐖𝐖.
 f
 y
-f\inf (y)
-f^{ -1} (y)
-f^{ -1} (y)
-f .
-f^{ -1} (y)
-f^{ -1} (\{y\}) .
-f^{ -1} (y)
-\mathbit y
-\mathbit f
+f
 y
-f^{ -1}
-f^{ -1}
-f \colon \{1, 2, 3, 4, 5, 6\} \to \{a, b, c, d\}
-f = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 & 6 \\ a & a & b & b & b & c \end{pmatrix} .
-f(\{1, 2, 3\}),
-f\inf (\{a, b\}),
-f^{ -1} (d) .
-g \colon \mathbb Z \to \mathbb Z
-g(n) =n^2 +1 .
+f\inf𝐖(y)
+f^{𝐖-1}𝐖(y)
+f^{𝐖-1}𝐖(y)
+f𝐖.
+f^{𝐖-1}𝐖(y)
+f^{𝐖-1}𝐖(\{y\})𝐖.
+f^{𝐖-1}𝐖(y)
+\mathbit𝐖y𝐖
+\mathbit𝐖f𝐖
+y
+f^{𝐖-1}𝐖
+f^{𝐖-1}𝐖
+f𝐖\colon𝐖\{1,𝐖2,𝐖3,𝐖4,𝐖5,𝐖6\}𝐖\to𝐖\{a,𝐖b,𝐖c,𝐖d\}
+f𝐖=𝐖\begin{pmatrix}𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖&𝐖5𝐖&𝐖6𝐖\\𝐖a𝐖&𝐖a𝐖&𝐖b𝐖&𝐖b𝐖&𝐖b𝐖&𝐖c𝐖\end{pmatrix}𝐖𝐖.
+f(\{1,𝐖2,𝐖3\}),𝐖
+f\inf𝐖(\{a,𝐖b\}),𝐖
+f^{𝐖-1}𝐖(d)𝐖.
+g𝐖\colon𝐖\mathbb𝐖Z𝐖𝐖\to𝐖\mathbb𝐖Z𝐖
+g(n)𝐖=n^2𝐖𝐖+1𝐖.
 g(1)
-g(\{1\}) .
-g^{ -1} (1),
-g^{ -1} (2),
-g^{ -1} (3) .
-f^{ -1} (y)
-| f^{ -1} (y)|,
-y .
-f \colon \{1, 2, 3, 4, 5\} \to \mathbb N
-| f^{ -1} (7)| =5 .
-f \colon X \to Y
-f,
-X,
-Y .
-f = \begin{pmatrix} 1 & 2 & 3 & 4 \\ 2 & 1 & 3 & 1 \end{pmatrix} .
-f(x) =y
+g(\{1\})𝐖.
+g^{𝐖-1}𝐖(1),𝐖
+g^{𝐖-1}𝐖(2),𝐖
+g^{𝐖-1}𝐖(3)𝐖.
+f^{𝐖-1}𝐖(y)
+|𝐖f^{𝐖-1}𝐖(y)|,𝐖
+y𝐖.
+f𝐖\colon𝐖\{1,𝐖2,𝐖3,𝐖4,𝐖5\}𝐖\to𝐖\mathbb𝐖N𝐖
+|𝐖f^{𝐖-1}𝐖(7)|𝐖=5𝐖.
+f𝐖\colon𝐖X𝐖\to𝐖Y
+f,𝐖
+X,𝐖
+Y𝐖.
+f𝐖=𝐖\begin{pmatrix}𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖\\𝐖2𝐖&𝐖1𝐖&𝐖3𝐖&𝐖1𝐖\end{pmatrix}𝐖𝐖.
+f(x)𝐖=y
 x
 y
 y
 y
-\mathbit x
-\mathbit f
+\mathbit𝐖x𝐖
+\mathbit𝐖f𝐖
 x
 y
 x
 x
 f
-f(x) .
+f(x)𝐖.
 y
-f^{ -1} (y),
+f^{𝐖-1}𝐖(y),𝐖
 y
 A
-f(A) =\{f(a) \in Y \colon a \in A\} .
+f(A)𝐖=\{f(a)𝐖\in𝐖Y𝐖\colon𝐖a𝐖\in𝐖A\}𝐖.
 B
-f^{ -1} (B) =\{x \in X \colon f(x) \in B\} .
-f \colon \{1, 2, 3, 4\} \to \{1, 2, 3, 4\}
-f(n) = \begin{pmatrix} 1 & 2 & 3 & 4 \\ 4 & 1 & 3 & 4 \end{pmatrix} .
-f(1) .
+f^{𝐖-1}𝐖(B)𝐖=\{x𝐖\in𝐖X𝐖\colon𝐖f(x)𝐖\in𝐖B\}𝐖.
+f𝐖\colon𝐖\{1,𝐖2,𝐖3,𝐖4\}𝐖\to𝐖\{1,𝐖2,𝐖3,𝐖4\}
+f(n)𝐖=𝐖\begin{pmatrix}𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖\\𝐖4𝐖&𝐖1𝐖&𝐖3𝐖&𝐖4𝐖\end{pmatrix}𝐖𝐖.
+f(1)𝐖.
 n
-f(n) =1 .
+f(n)𝐖=1𝐖.
 n
-f(n) =n .
-\{1, 2, 3, 4, 5\}
-f = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 \\ 3 & 3 & 3 & 3 & 3 \end{pmatrix} .
-f = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 \\ 2 & 3 & 1 & 5 & 4 \end{pmatrix} .
-f(x) =6 -x .
-f(x) =\{x/2 & \~if\~x\~is\space even \\ (x +1)/2 & \~if\~x\~is\space odd \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/> .
-\{1, 2, 3, 4, 5\}
-\{1, 2, 3\} .
-f = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 \\ 1 & 2 & 1 & 2 & 1 \end{pmatrix} .
-f = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 \\ 1 & 2 & 3 & 1 & 2 \end{pmatrix} .
-f(x) =\{x & \~if\~x \le 3 \\ x -3 & \~if\~x >3 \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/> .
-\{1, 2, 3, 4\}
-\{1, 2, 3, 4, 5\} .
-f = \begin{pmatrix} 1 & 2 & 3 & 4 \\ 1 & 2 & 5 & 4 \end{pmatrix} .
-f = \begin{pmatrix} 1 & 2 & 3 & 4 \\ 1 & 2 & 3 & 2 \end{pmatrix} .
+f(n)𝐖=n𝐖.
+\{1,𝐖2,𝐖3,𝐖4,𝐖5\}
+f𝐖=𝐖\begin{pmatrix}𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖&𝐖5𝐖\\𝐖3𝐖&𝐖3𝐖&𝐖3𝐖&𝐖3𝐖&𝐖3𝐖\end{pmatrix}𝐖𝐖.
+f𝐖=𝐖\begin{pmatrix}𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖&𝐖5𝐖\\𝐖2𝐖&𝐖3𝐖&𝐖1𝐖&𝐖5𝐖&𝐖4𝐖\end{pmatrix}𝐖𝐖.
+f(x)𝐖=6𝐖-x𝐖.
+f(x)𝐖=\{x/2𝐖&𝐖\~if\~x\~is\space𝐖even𝐖\\𝐖(x𝐖+1)/2𝐖&𝐖\~if\~x\~is\space𝐖odd𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>𝐖.
+\{1,𝐖2,𝐖3,𝐖4,𝐖5\}
+\{1,𝐖2,𝐖3\}𝐖.
+f𝐖=𝐖\begin{pmatrix}𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖&𝐖5𝐖\\𝐖1𝐖&𝐖2𝐖&𝐖1𝐖&𝐖2𝐖&𝐖1𝐖\end{pmatrix}𝐖𝐖.
+f𝐖=𝐖\begin{pmatrix}𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖&𝐖5𝐖\\𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖1𝐖&𝐖2𝐖\end{pmatrix}𝐖𝐖.
+f(x)𝐖=\{x𝐖&𝐖\~if\~x𝐖\le𝐖3𝐖\\𝐖x𝐖-3𝐖&𝐖\~if\~x𝐖>3𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>𝐖.
+\{1,𝐖2,𝐖3,𝐖4\}
+\{1,𝐖2,𝐖3,𝐖4,𝐖5\}𝐖.
+f𝐖=𝐖\begin{pmatrix}𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖\\𝐖1𝐖&𝐖2𝐖&𝐖5𝐖&𝐖4𝐖\end{pmatrix}𝐖𝐖.
+f𝐖=𝐖\begin{pmatrix}𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖\\𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖2𝐖\end{pmatrix}𝐖𝐖.
 f(x)
-x .
-f(1) =3
-f \colon \{1, 2, 3\} \to \{a, b\}
-f \colon \{1, 2\} \to \{a, b, c\}
-f \colon \{1, 2, 3, 4, 5\} \to \{1, 2, 3, 4\}
+x𝐖.
+f(1)𝐖=3
+f𝐖\colon𝐖\{1,𝐖2,𝐖3\}𝐖\to𝐖\{a,𝐖b\}
+f𝐖\colon𝐖\{1,𝐖2\}𝐖\to𝐖\{a,𝐖b,𝐖c\}
+f𝐖\colon𝐖\{1,𝐖2,𝐖3,𝐖4,𝐖5\}𝐖\to𝐖\{1,𝐖2,𝐖3,𝐖4\}
 x
 f(x)
 f
 f
-f \colon \{1, 2, 3, 4\} \to \{1, 2, 3, 4\}
+f𝐖\colon𝐖\{1,𝐖2,𝐖3,𝐖4\}𝐖\to𝐖\{1,𝐖2,𝐖3,𝐖4\}
 f
 f
-f \colon \mathbb N \to \mathbb N
-f(0) =1
-f(n +1) =2 \cdot f(n) .
-f(10) .
-f \colon \mathbb N \to \mathbb N
-f(n +1) =f(n) +3 .
-f(5) .
-f(0) =0 .
-f(0) =1 .
-f(0) =2 .
-f(0) =100 .
-f \colon \mathbb N \to \mathbb N
-f(n +1) =\{\frac{f(n)}{2} & \~if\~f(n)\~is\space even \\ 3f(n) +1 & \~if\~f(n)\~is\space odd \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/> .
-f(0) =1,
-f(1) =4,
-f(2) =2,
-f(3) =1,
-f(4) =4,
+f𝐖\colon𝐖\mathbb𝐖N𝐖𝐖\to𝐖\mathbb𝐖N𝐖
+f(0)𝐖=1
+f(n𝐖+1)𝐖=2𝐖\cdot𝐖f(n)𝐖.
+f(10)𝐖.
+f𝐖\colon𝐖\mathbb𝐖N𝐖𝐖\to𝐖\mathbb𝐖N𝐖
+f(n𝐖+1)𝐖=f(n)𝐖+3𝐖.
+f(5)𝐖.
+f(0)𝐖=0𝐖.
+f(0)𝐖=1𝐖.
+f(0)𝐖=2𝐖.
+f(0)𝐖=100𝐖.
+f𝐖\colon𝐖\mathbb𝐖N𝐖𝐖\to𝐖\mathbb𝐖N𝐖
+f(n𝐖+1)𝐖=\{\frac{f(n)}{2}𝐖&𝐖\~if\~f(n)\~is\space𝐖even𝐖\\𝐖3f(n)𝐖+1𝐖&𝐖\~if\~f(n)\~is\space𝐖odd𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>𝐖.
+f(0)𝐖=1,𝐖
+f(1)𝐖=4,𝐖
+f(2)𝐖=2,𝐖
+f(3)𝐖=1,𝐖
+f(4)𝐖=4,𝐖
 f
 f
-f(0) =5,
+f(0)𝐖=5,𝐖
 f
 f
-f(0) =3,
+f(0)𝐖=3,𝐖
 f
 f
-f(0) =27,
-f(105) =10
+f(0)𝐖=27,𝐖
+f(105)𝐖=10
 f
-f \colon \mathbb N \to \mathbb N
-f(n) =n +4 .
-f \colon \mathbb Z \to \mathbb Z
-f(n) =n +4 .
-f \colon \mathbb Z \to \mathbb Z
-f(n) =5n -8 .
-f \colon \mathbb Z \to \mathbb Z
-f(n) =\{n/2 & \~if\~n\~is\space even \\ (n +1)/2 & \~if\~n\~is\space odd . \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
-A =\{1, 2, 3, \ldots, 10\} .
-f \colon \mathcal P (A) \to \mathbb N
-f(B) =| B| .
+f𝐖\colon𝐖\mathbb𝐖N𝐖𝐖\to𝐖\mathbb𝐖N𝐖
+f(n)𝐖=n𝐖+4𝐖.
+f𝐖\colon𝐖\mathbb𝐖Z𝐖𝐖\to𝐖\mathbb𝐖Z𝐖
+f(n)𝐖=n𝐖+4𝐖.
+f𝐖\colon𝐖\mathbb𝐖Z𝐖𝐖\to𝐖\mathbb𝐖Z𝐖
+f(n)𝐖=5n𝐖-8𝐖.
+f𝐖\colon𝐖\mathbb𝐖Z𝐖𝐖\to𝐖\mathbb𝐖Z𝐖
+f(n)𝐖=\{n/2𝐖&𝐖\~if\~n\~is\space𝐖even𝐖\\𝐖(n𝐖+1)/2𝐖&𝐖\~if\~n\~is\space𝐖odd𝐖.𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
+A𝐖=\{1,𝐖2,𝐖3,𝐖\ldots𝐖,𝐖10\}𝐖.
+f𝐖\colon𝐖\mathcal𝐖P𝐖(A)𝐖\to𝐖\mathbb𝐖N𝐖
+f(B)𝐖=|𝐖B|𝐖.
 f
 A
 f
 f
-f^{ -1} (1) .
-f^{ -1} (0) .
-f^{ -1} (12) .
-X =\{n \in \mathbb N \colon 0 \le n \le 999\}
-f \colon X \to \mathbb N
-f(abc) =a +b +c,
-a,
-b,
+f^{𝐖-1}𝐖(1)𝐖.
+f^{𝐖-1}𝐖(0)𝐖.
+f^{𝐖-1}𝐖(12)𝐖.
+X𝐖=\{n𝐖\in𝐖\mathbb𝐖N𝐖𝐖\colon𝐖0𝐖\le𝐖n𝐖\le𝐖999\}
+f𝐖\colon𝐖X𝐖\to𝐖\mathbb𝐖N𝐖
+f(abc)𝐖=a𝐖+b𝐖+c,𝐖
+a,𝐖
+b,𝐖
 c
 X
-f(253) =2 +5 +3 =10 .
-A =\{n \in X \colon 113 \le x \le 122\} .
-f(A) .
-f^{ -1} (\{1, 2\})
-f^{ -1} (3) .
-f^{ -1} (28) .
+f(253)𝐖=2𝐖+5𝐖+3𝐖=10𝐖.
+A𝐖=\{n𝐖\in𝐖X𝐖\colon𝐖113𝐖\le𝐖x𝐖\le𝐖122\}𝐖.
+f(A)𝐖.
+f^{𝐖-1}𝐖(\{1,𝐖2\})
+f^{𝐖-1}𝐖(3)𝐖.
+f^{𝐖-1}𝐖(28)𝐖.
 f
 f
-\mathbb N^2 =\mathbb N \times \mathbb N,
-(a, b)
+\mathbb𝐖N𝐖^2𝐖𝐖=\mathbb𝐖N𝐖𝐖\times𝐖\mathbb𝐖N𝐖,𝐖
+(a,𝐖b)
 a
 b
-f \colon \mathbb N^2 \to \mathbb N
-f((a, b)) =a +b .
-A =\{(a, b) \in \mathbb N^2 \colon a, b \le 10\} .
-f(A) .
-f^{ -1} (3)
-f^{ -1} (\{0, 1, 2, 3\}) .
-f^{ -1} (n)
-f^{ -1} (\{0, 1, \ldots, n\})
-n \ge 1 .
-| f^{ -1} (8)|
-| f^{ -1} (\{0, 1, \ldots, 8\})| .
-f \colon X \to Y
-3 \in Y .
-f^{ -1} (3)
+f𝐖\colon𝐖\mathbb𝐖N𝐖^2𝐖𝐖\to𝐖\mathbb𝐖N𝐖
+f((a,𝐖b))𝐖=a𝐖+b𝐖.
+A𝐖=\{(a,𝐖b)𝐖\in𝐖\mathbb𝐖N𝐖^2𝐖𝐖\colon𝐖a,𝐖b𝐖\le𝐖10\}𝐖.
+f(A)𝐖.
+f^{𝐖-1}𝐖(3)
+f^{𝐖-1}𝐖(\{0,𝐖1,𝐖2,𝐖3\})𝐖.
+f^{𝐖-1}𝐖(n)
+f^{𝐖-1}𝐖(\{0,𝐖1,𝐖\ldots𝐖,𝐖n\})
+n𝐖\ge𝐖1𝐖.
+|𝐖f^{𝐖-1}𝐖(8)|
+|𝐖f^{𝐖-1}𝐖(\{0,𝐖1,𝐖\ldots𝐖,𝐖8\})|𝐖.
+f𝐖\colon𝐖X𝐖\to𝐖Y
+3𝐖\in𝐖Y𝐖.
+f^{𝐖-1}𝐖(3)
 f
 f
 f
 X
-f \colon X \to \mathbb N
-f^{ -1} (0) \cup f^{ -1} (1) =X .
-X
-Y
-f \colon X \to Y ?
-f \colon X \to Y ?
-f \colon X \to Y ?
-f \colon X \to Y
-f
-f
-| X| =| Y|
-f
-| X| =| Y|
-f
-| X| =| Y|,
+f𝐖\colon𝐖X𝐖\to𝐖\mathbb𝐖N𝐖
+f^{𝐖-1}𝐖(0)𝐖\cup𝐖f^{𝐖-1}𝐖(1)𝐖=X𝐖.
 X
 Y
+f𝐖\colon𝐖X𝐖\to𝐖Y𝐖?
+f𝐖\colon𝐖X𝐖\to𝐖Y𝐖?
+f𝐖\colon𝐖X𝐖\to𝐖Y𝐖?
+f𝐖\colon𝐖X𝐖\to𝐖Y
 f
-| X| =| Y|,
+f
+|𝐖X|𝐖=|𝐖Y|
+f
+|𝐖X|𝐖=|𝐖Y|
+f
+|𝐖X|𝐖=|𝐖Y|,𝐖
 X
 Y
 f
-f \colon X \to Y
-g \colon Y \to Z
+|𝐖X|𝐖=|𝐖Y|,𝐖
+X
+Y
+f
+f𝐖\colon𝐖X𝐖\to𝐖Y
+g𝐖\colon𝐖Y𝐖\to𝐖Z
 f
 g
-g \circ f \colon X \to Z
-x \in X
-g(f(x)) .
+g𝐖\circ𝐖f𝐖\colon𝐖X𝐖\to𝐖Z
+x𝐖\in𝐖X
+g(f(x))𝐖.
 x
-f,
+f,𝐖
 g
 f
 g
-g \circ f
+g𝐖\circ𝐖f
 f
 g
-g \circ f
-g \circ f
+g𝐖\circ𝐖f
+g𝐖\circ𝐖f
 f
-g ?
-g \circ f
+g𝐖?
+g𝐖\circ𝐖f
 f
-g ?
-f \colon \mathbb Z \to \mathbb Z
-f(n) =\{n +1 & \~if\~n\~is\space even \\ n -3 & \~if\~n\~is\space odd . \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+g𝐖?
+f𝐖\colon𝐖\mathbb𝐖Z𝐖𝐖\to𝐖\mathbb𝐖Z𝐖
+f(n)𝐖=\{n𝐖+1𝐖&𝐖\~if\~n\~is\space𝐖even𝐖\\𝐖n𝐖-3𝐖&𝐖\~if\~n\~is\space𝐖odd𝐖.𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
 f
 f
-f \colon \mathbb N \to \mathbb N
+f𝐖\colon𝐖\mathbb𝐖N𝐖𝐖\to𝐖\mathbb𝐖N𝐖
 n
-f \colon X \to Y
-A \subseteq X
-| A|
-| f(A)| ?
+f𝐖\colon𝐖X𝐖\to𝐖Y
+A𝐖\subseteq𝐖X
+|𝐖A|
+|𝐖f(A)|𝐖?
 f
-f \colon X \to Y
-B \subseteq Y
-| B|
-| f^{ -1} (B)| ?
+f𝐖\colon𝐖X𝐖\to𝐖Y
+B𝐖\subseteq𝐖Y
+|𝐖B|
+|𝐖f^{𝐖-1}𝐖(B)|𝐖?
 f
-f \colon X \to Y
-A \subseteq X
-B \subseteq Y .
-f^{ -1} (f(A)) =A ?
-f(f^{ -1} (B)) =B ?
-f \colon X \to Y
-A, B \subseteq X
-f(A \cup B) =f(A) \cup f(B) ?
-f(A \cap B) =f(A) \cap f(B) ?
-f \colon X \to Y
-A, B \subseteq Y
-f^{ -1} (A \cup B) =f^{ -1} (A) \cup f^{ -1} (B) ?
-f^{ -1} (A \cap B) =f^{ -1} (A) \cap f^{ -1} (B) ?
-K_n,
-K_3
-K_3
-K_4,
-K_5
-K_{23}
-K_{7, 4}
-K_5 .
-K_5
+f𝐖\colon𝐖X𝐖\to𝐖Y
+A𝐖\subseteq𝐖X
+B𝐖\subseteq𝐖Y𝐖.
+f^{𝐖-1}𝐖(f(A))𝐖=A𝐖?
+f(f^{𝐖-1}𝐖(B))𝐖=B𝐖?
+f𝐖\colon𝐖X𝐖\to𝐖Y
+A,𝐖B𝐖\subseteq𝐖X
+f(A𝐖\cup𝐖B)𝐖=f(A)𝐖\cup𝐖f(B)𝐖?
+f(A𝐖\cap𝐖B)𝐖=f(A)𝐖\cap𝐖f(B)𝐖?
+f𝐖\colon𝐖X𝐖\to𝐖Y
+A,𝐖B𝐖\subseteq𝐖Y
+f^{𝐖-1}𝐖(A𝐖\cup𝐖B)𝐖=f^{𝐖-1}𝐖(A)𝐖\cup𝐖f^{𝐖-1}𝐖(B)𝐖?
+f^{𝐖-1}𝐖(A𝐖\cap𝐖B)𝐖=f^{𝐖-1}𝐖(A)𝐖\cap𝐖f^{𝐖-1}𝐖(B)𝐖?
+K_n𝐖,𝐖
+K_3𝐖
+K_3𝐖
+K_4𝐖,𝐖
+K_5𝐖
+K_{23}𝐖
+K_{7,𝐖4}𝐖
+K_5𝐖𝐖.
+K_5𝐖
 5
 7
-3f \le 2e .
-K_5,
-f =7,
-3f \le 20 .
-P \to Q \colon
+3f𝐖\le𝐖2e𝐖.
+K_5𝐖,𝐖
+f𝐖=7,𝐖
+3f𝐖\le𝐖20𝐖.
+P𝐖\to𝐖Q𝐖\colon𝐖
 P
 Q
-P \to Q
+P𝐖\to𝐖Q
 P
-Q,
-P \to Q
+Q,𝐖
+P𝐖\to𝐖Q
 Q
-P ?
+P𝐖?
 P
-\lnot P .
+𝐖\lnot𝐖P𝐖.
 P
-K_5
+K_5𝐖
 Q
-K_5
-K_{3, 3}
-K_5,
+K_5𝐖
+K_{3,𝐖3}𝐖
+K_5𝐖,𝐖
 f
-3f \le 2e ?
-3f \le 2e
-K_5
+3f𝐖\le𝐖2e𝐖?
+3f𝐖\le𝐖2e
+K_5𝐖
 f
-e .
+e𝐖.
 g
 g
-gf \le 2e .
-gf \le 2e ?
-K_5
-K_{3, 3}
-K_5
-K_{3, 3}
+gf𝐖\le𝐖2e𝐖.
+gf𝐖\le𝐖2e𝐖?
+K_5𝐖
+K_{3,𝐖3}𝐖
+K_5𝐖
+K_{3,𝐖3}𝐖
 v
 e
-e \le 3v -6 .
-8 -12 +6 =2,
+e𝐖\le𝐖3v𝐖-6𝐖.
+8𝐖-12𝐖+6𝐖=2,𝐖
 f
 k
 f
-k .
+k𝐖.
 f
-k .
+k𝐖.
 f
 k
 n
-n \ge 6 .
-A \cup B
+n𝐖\ge𝐖6𝐖.
+A𝐖\cup𝐖B
 A
-| A|
-A,
-| B|
-B,
-| A \cap B|
-A \cap B .
+|𝐖A|
+A,𝐖
+|𝐖B|
+B,𝐖
+|𝐖A𝐖\cap𝐖B|
+A𝐖\cap𝐖B𝐖.
 A
 B
-U,
-U -(A \cup B)
-| U|
-U,
-| A|
-A,
-| B|
-B,
-| A \cap B|
-A \cap B .
-A \cup B \cup C
-A,
-B,
+U,𝐖
+U𝐖-(A𝐖\cup𝐖B)
+|𝐖U|
+U,𝐖
+|𝐖A|
+A,𝐖
+|𝐖B|
+B,𝐖
+|𝐖A𝐖\cap𝐖B|
+A𝐖\cap𝐖B𝐖.
+A𝐖\cup𝐖B𝐖\cup𝐖C
+A,𝐖
+B,𝐖
 C
-| A \cup B \cup C| =| A| +| B| +| C| -| A \cap B| -| A \cap C| -| B \cap C| +| A \cap B \cap C| .
-A \cap B \cap C
-A_1 \cup A_2 \cup \cdots \cup A_n =\bigcup_{i =1}^n A_i
-A_i
-\bigcap_{i \colon i \in I} A_i
+|𝐖A𝐖\cup𝐖B𝐖\cup𝐖C|𝐖=|𝐖A|𝐖+|𝐖B|𝐖+|𝐖C|𝐖-|𝐖A𝐖\cap𝐖B|𝐖-|𝐖A𝐖\cap𝐖C|𝐖-|𝐖B𝐖\cap𝐖C|𝐖+|𝐖A𝐖\cap𝐖B𝐖\cap𝐖C|𝐖.
+A𝐖\cap𝐖B𝐖\cap𝐖C
+A_1𝐖𝐖\cup𝐖A_2𝐖𝐖\cup𝐖\cdots𝐖𝐖\cup𝐖A_n𝐖𝐖=\bigcup𝐖_{i𝐖=1}^n𝐖A_i𝐖
+A_i𝐖
+\bigcap𝐖_{i𝐖\colon𝐖i𝐖\in𝐖I}𝐖A_i𝐖
 i
 I
-A_i .
-(2.1) & \bigcap_{i \colon i \in \{1, 3, 4, 6\}} =A_1 \cap A_3 \cap A_4 \cap A_6 .
-\sum_{I \colon I \subseteq \{1, 2, 3, 4\}, |I| =2} |\cap_{i \in I} A_i | & \lt mi/> =|A_1 \cap A_2 | +|A_1 \cap A_3 | +|A_1 \cap A_4 | \\ (2.2) & \~ & \lt mi/> +|A_2 \cap A_3 | +|A_2 \cap A_4 | +|A_3 \cap A_4 | .
+A_i𝐖𝐖.
+(2.1)𝐖&𝐖\bigcap𝐖_{i𝐖\colon𝐖i𝐖\in𝐖\{1,𝐖3,𝐖4,𝐖6\}}𝐖𝐖=A_1𝐖𝐖\cap𝐖A_3𝐖𝐖\cap𝐖A_4𝐖𝐖\cap𝐖A_6𝐖𝐖.
+\sum𝐖_{I𝐖\colon𝐖I𝐖\subseteq𝐖\{1,𝐖2,𝐖3,𝐖4\},𝐖|I|𝐖=2}𝐖|\cap𝐖_{i𝐖\in𝐖I}𝐖A_i𝐖|𝐖&𝐖\lt𝐖mi/>𝐖=|A_1𝐖𝐖\cap𝐖A_2𝐖|𝐖+|A_1𝐖𝐖\cap𝐖A_3𝐖|𝐖+|A_1𝐖𝐖\cap𝐖A_4𝐖|𝐖\\𝐖(2.2)𝐖&𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖+|A_2𝐖𝐖\cap𝐖A_3𝐖|𝐖+|A_2𝐖𝐖\cap𝐖A_4𝐖|𝐖+|A_3𝐖𝐖\cap𝐖A_4𝐖|𝐖.
 n
 n
 f
 f(i)
 i
-A_1 \cup A_2 \cup \cdots \cup A_n =(A_1 \cup A_2 \cup \cdots \cup A_{n -1}) \cup A_n
-| A \cup B| =| A| +| B| -| A \cap B| .
+A_1𝐖𝐖\cup𝐖A_2𝐖𝐖\cup𝐖\cdots𝐖𝐖\cup𝐖A_n𝐖𝐖=(A_1𝐖𝐖\cup𝐖A_2𝐖𝐖\cup𝐖\cdots𝐖𝐖\cup𝐖A_{n𝐖-1}𝐖)𝐖\cup𝐖A_n𝐖
+|𝐖A𝐖\cup𝐖B|𝐖=|𝐖A|𝐖+|𝐖B|𝐖-|𝐖A𝐖\cap𝐖B|𝐖.
 A
-A_1, A_2, \ldots, A_n
+A_1𝐖,𝐖A_2𝐖,𝐖\ldots𝐖,𝐖A_n𝐖
 A
-A_i
-A,
-A \setminus \bigcup_{i =1}^n A_i,
+A_i𝐖
+A,𝐖
+A𝐖\setminus𝐖\bigcup𝐖_{i𝐖=1}^n𝐖A_i𝐖,𝐖
 A
-\overline{\bigcup_{i =1}^n A_i} .
-A_i
-A,
-| A| -\sum_{S \colon S \subseteq [n], S \not= \varnothing} ( -1)^{| S| -1} | \bigcap_{i \colon i \in S} A_i | .
-| A| =| \bigcap_{i \colon i \in \varnothing} A_i |,
-| \overline{\bigcup_{i =1}^n A_i}| =\sum_{S \colon S \subseteq [n]} ( -1)^{| S|} | \bigcap_{i \colon i \in S} A_i | .
+\overline{\bigcup𝐖_{i𝐖=1}^n𝐖A_i𝐖}𝐖.
+A_i𝐖
+A,𝐖
+|𝐖A|𝐖-\sum𝐖_{S𝐖\colon𝐖S𝐖\subseteq𝐖[n],𝐖S𝐖\not=𝐖\varnothing𝐖}𝐖(𝐖-1)^{|𝐖S|𝐖-1}𝐖|𝐖\bigcap𝐖_{i𝐖\colon𝐖i𝐖\in𝐖S}𝐖A_i𝐖|𝐖.
+|𝐖A|𝐖=|𝐖\bigcap𝐖_{i𝐖\colon𝐖i𝐖\in𝐖\varnothing𝐖}𝐖A_i𝐖|,𝐖
+|𝐖\overline{\bigcup𝐖_{i𝐖=1}^n𝐖A_i𝐖}|𝐖=\sum𝐖_{S𝐖\colon𝐖S𝐖\subseteq𝐖[n]}𝐖(𝐖-1)^{|𝐖S|}𝐖|𝐖\bigcap𝐖_{i𝐖\colon𝐖i𝐖\in𝐖S}𝐖A_i𝐖|𝐖.
 k
 n
 n
 n
 n
-\{1, 2, 3, \ldots, n\}
+\{1,𝐖2,𝐖3,𝐖\ldots𝐖,𝐖n\}
 6
-\{1, 2, 3\} \colon
+\{1,𝐖2,𝐖3\}𝐖\colon𝐖
 123\~132\~213\~231\~312321.
 123
 132
 231\~and\~312.
-4! =24
+4!𝐖=24
 [4]
-d_4 =4! -[\binom{4}{1}3! -\binom{4}{2}2! +\binom{4}{3}1! -\binom{4}{4}0!] .
-d_n
-n,
-d_0 =1
-d_1 =0 .
-d_n =(n -1)(d_{n -1} +d_{n -2}) .
-d_n
-n,
-d_0 =1
-d_1 =0 .
-\binom{n}{0}d_0 +\binom{n}{1}d_1 +\binom{n}{2}d_2 +\cdots +\binom{n}{n}d_n =n!
-d_n =nd_{n -1} +( -1)^n .
-d_3 =3! -(\binom{3}{1}2! -\binom{3}{2}1! +\binom{3}{3}0!) .
+d_4𝐖𝐖=4!𝐖-[\binom{4}{1}3!𝐖-\binom{4}{2}2!𝐖+\binom{4}{3}1!𝐖-\binom{4}{4}0!]𝐖.
+d_n𝐖
+n,𝐖
+d_0𝐖𝐖=1
+d_1𝐖𝐖=0𝐖.
+d_n𝐖𝐖=(n𝐖-1)(d_{n𝐖-1}𝐖𝐖+d_{n𝐖-2}𝐖)𝐖.
+d_n𝐖
+n,𝐖
+d_0𝐖𝐖=1
+d_1𝐖𝐖=0𝐖.
+\binom{n}{0}d_0𝐖𝐖+\binom{n}{1}d_1𝐖𝐖+\binom{n}{2}d_2𝐖𝐖+\cdots𝐖𝐖+\binom{n}{n}d_n𝐖𝐖=n!
+d_n𝐖𝐖=nd_{n𝐖-1}𝐖𝐖+(𝐖-1)^n𝐖𝐖.
+d_3𝐖𝐖=3!𝐖-(\binom{3}{1}2!𝐖-\binom{3}{2}1!𝐖+\binom{3}{3}0!)𝐖.
 \binom{n}{k}
 3!
-d_n .
-n,
-f \colon [3] \to [2],
-2^3 -2 .
-f \colon [3] \to [3] .
-3^3
-3! =6 .
-f \colon [3] \to [3] .
-3^3 -[\binom{3}{1}2^3 -\binom{3}{2}1^3 +\binom{3}{3}0^3] .
+d_n𝐖𝐖.
+n,𝐖
+f𝐖\colon𝐖[3]𝐖\to𝐖[2],𝐖
+2^3𝐖𝐖-2𝐖.
+f𝐖\colon𝐖[3]𝐖\to𝐖[3]𝐖.
+3^3𝐖
+3!𝐖=6𝐖.
+f𝐖\colon𝐖[3]𝐖\to𝐖[3]𝐖.
+3^3𝐖𝐖-[\binom{3}{1}2^3𝐖𝐖-\binom{3}{2}1^3𝐖𝐖+\binom{3}{3}0^3𝐖]𝐖.
 f
 k
 K
 n
-[n],
+[n],𝐖
 f
-A_i
-f(x) \not= i
+A_i𝐖
+f(x)𝐖\not=𝐖i
 x
-K .
+K𝐖.
 k
 n
-K_n
+K_n𝐖
 n
-K_n
+K_n𝐖
 n
-K_{m, n}
+K_{m,𝐖n}𝐖
 m
 n
-C_n
+C_n𝐖
 n
-P_n
-n +1
-\chi (G)
+P_n𝐖
+n𝐖+1
+\chi𝐖(G)
 G
-\chi '(G)
+\chi𝐖'(G)
 G
 N(S)
-S .
-P, Q, R, S, \ldots
-\wedge
-\vee
-\lnot
-\exists
-\forall
-\varnothing
-\mathscr U
-\mathbb N
-\mathbb Z
-\mathbb Q
-\mathbb R
-\mathcal P (A)
+S𝐖.
+P,𝐖Q,𝐖R,𝐖S,𝐖\ldots𝐖
+\wedge𝐖
+\vee𝐖
+\lnot𝐖
+\exists𝐖
+\forall𝐖
+\varnothing𝐖
+\mathscr𝐖U𝐖
+\mathbb𝐖N𝐖
+\mathbb𝐖Z𝐖
+\mathbb𝐖Q𝐖
+\mathbb𝐖R𝐖
+\mathcal𝐖P𝐖(A)
 A
-\{, \}
-\colon
-\in
-\subseteq
-\subset
-\cap
-\cup
-\times
-\setminus
+\{,𝐖\}
+\colon𝐖
+\in𝐖
+\subseteq𝐖
+\subset𝐖
+\cap𝐖
+\cup𝐖
+\times𝐖
+\setminus𝐖
 \overline{A}
 A
-| A|
+|𝐖A|
 A
-A \times B
+A𝐖\times𝐖B
 A
 B
 f(A)
 A
-f .
-f^{ -1} (B)
+f𝐖.
+f^{𝐖-1}𝐖(B)
 B
-f .
+f𝐖.
 P(n)
 n
 42
-G,
+G,𝐖
 k
-\mathbit k
+\mathbit𝐖k𝐖
 k
-k .
+k𝐖.
 k
 k
-\chi (G)
-K_n
-n .
-n,
-n,
+\chi𝐖(G)
+K_n𝐖
+n𝐖.
+n,𝐖
+n,𝐖
 G
 G
 G
 n
-\{1, 2, 3, 4, 5\}
+\{1,𝐖2,𝐖3,𝐖4,𝐖5\}
 v
 H
 v
-H ?
-v_1, v_2, v_3, v_4, v_5
+H𝐖?
+v_1𝐖,𝐖v_2𝐖,𝐖v_3𝐖,𝐖v_4𝐖,𝐖v_5𝐖
 v
-G .
-v_1, \ldots, v_5
-v,
-1, 2, 3, 4, 5
-H_{1, 3}
+G𝐖.
+v_1𝐖,𝐖\ldots𝐖,𝐖v_5𝐖
+v,𝐖
+1,𝐖2,𝐖3,𝐖4,𝐖5
+H_{1,𝐖3}𝐖
 H
-v_1
-v_3
-H_{1, 3} ?
-H_{2, 4},
+v_1𝐖
+v_3𝐖
+H_{1,𝐖3}𝐖𝐖?
+H_{2,𝐖4}𝐖,𝐖
 H
-v_2
-v_4,
-v_5,
-G,
+v_2𝐖
+v_4𝐖,𝐖
+v_5𝐖,𝐖
+G,𝐖
 G
-G .
-G,
+G𝐖.
+G,𝐖
 H
-k,
-G ?
+k,𝐖
+G𝐖?
 n
-K_n
-K_n
+K_n𝐖
+K_n𝐖
 n
 n
 n
-K_3
-K_4
-K_3
-K_3
+K_3𝐖
+K_4𝐖
+K_3𝐖
+K_3𝐖
 n
-n +1
-K_3
+n𝐖+1
+K_3𝐖
 G
-\chi (G) \le 4 .
+\chi𝐖(G)𝐖\le𝐖4𝐖.
 k
-\chi (G) \le k,
+\chi𝐖(G)𝐖\le𝐖k,𝐖
 G
 v
-k .
-H =G -v
+k𝐖.
+H𝐖=G𝐖-v
 v
-\chi (H) \lt k .
-\chi (G) ?
-v,
+\chi𝐖(H)𝐖\lt𝐖k𝐖.
+\chi𝐖(G)𝐖?
+v,𝐖
 d(v)
 v
-\Delta (G)
-\mathbit G
-\Delta (G) =\max \{d(v) \colon v \in G\} .
-G,
-\chi (G) \le \Delta (G) +1 .
-\chi (G) =\Delta (G) +1 .
+\Delta𝐖(G)
+\mathbit𝐖G𝐖
+\Delta𝐖(G)𝐖=\max𝐖\{d(v)𝐖\colon𝐖v𝐖\in𝐖G\}𝐖.
+G,𝐖
+\chi𝐖(G)𝐖\le𝐖\Delta𝐖(G)𝐖+1𝐖.
+\chi𝐖(G)𝐖=\Delta𝐖(G)𝐖+1𝐖.
 G
-\Delta (G) =2
-\chi (G) =3 .
-\Delta (K_n) =n -1
-\chi (K_n) =n .
+\Delta𝐖(G)𝐖=2
+\chi𝐖(G)𝐖=3𝐖.
+\Delta𝐖(K_n𝐖)𝐖=n𝐖-1
+\chi𝐖(K_n𝐖)𝐖=n𝐖.
 G
-\chi (G) \le \Delta (G),
+\chi𝐖(G)𝐖\le𝐖\Delta𝐖(G),𝐖
 G
-\chi (G) =\Delta (G) +1 .
+\chi𝐖(G)𝐖=\Delta𝐖(G)𝐖+1𝐖.
 G
-\Delta (G)
+\Delta𝐖(G)
 G
-\Delta (G) .
+\Delta𝐖(G)𝐖.
 G
-G,
-\chi '(G)
-K_5
-\chi '(G) \ge \Delta (G) .
-G,
-\chi '(G)
-\Delta (G)
-\Delta (G) +1 .
-\chi '(G) =\Delta (G)
-\chi '(G) =\Delta (G),
-\Delta (G) \ge 8
-2 \le \Delta (G) \le 5 .
-\Delta (G) =6
-\Delta (G) =7
-\Delta (G) =7
-\Delta (G) =6
+G,𝐖
+\chi𝐖'(G)
+K_5𝐖
+\chi𝐖'(G)𝐖\ge𝐖\Delta𝐖(G)𝐖.
+G,𝐖
+\chi𝐖'(G)
+\Delta𝐖(G)
+\Delta𝐖(G)𝐖+1𝐖.
+\chi𝐖'(G)𝐖=\Delta𝐖(G)
+\chi𝐖'(G)𝐖=\Delta𝐖(G),𝐖
+\Delta𝐖(G)𝐖\ge𝐖8
+2𝐖\le𝐖\Delta𝐖(G)𝐖\le𝐖5𝐖.
+\Delta𝐖(G)𝐖=6
+\Delta𝐖(G)𝐖=7
+\Delta𝐖(G)𝐖=7
+\Delta𝐖(G)𝐖=6
 n
-K_n
-K_{n +1},
-R =R(m, n)
-K_R
-K_m
-K_n .
-R(m, n)
-R(3, 3) =6 .
-R(4, 3) ?
-K_8
-K_4
-K_3 .
-R(4, 3) .
-R(m, n)
+K_n𝐖
+K_{n𝐖+1}𝐖,𝐖
+R𝐖=R(m,𝐖n)
+K_R𝐖
+K_m𝐖
+K_n𝐖𝐖.
+R(m,𝐖n)
+R(3,𝐖3)𝐖=6𝐖.
+R(4,𝐖3)𝐖?
+K_8𝐖
+K_4𝐖
+K_3𝐖𝐖.
+R(4,𝐖3)𝐖.
+R(m,𝐖n)
 m
-n .
-R(m, n) \le R(m -1, n) +R(m, n -1) .
-R(4, 4) ?
-R(4, 4) ?
-R(4, 4) =18
-R(5, 4) =R(4, 5) =25 .
-R(5, 5)
+n𝐖.
+R(m,𝐖n)𝐖\le𝐖R(m𝐖-1,𝐖n)𝐖+R(m,𝐖n𝐖-1)𝐖.
+R(4,𝐖4)𝐖?
+R(4,𝐖4)𝐖?
+R(4,𝐖4)𝐖=18
+R(5,𝐖4)𝐖=R(4,𝐖5)𝐖=25𝐖.
+R(5,𝐖5)
 m
 n
-R(10, 10)
-R(3, 3, 3) =17,
-K_{17}
-(4, 6) .
-(6, 5) .
-G =(V, E)
-v_0, v_1, v_2, \ldots, v_n
-\{v_i, v_{i +1} \} \in E
-0 \le i \lt n .
-v_1 =v_n
-v_0 =v_n .
-v_0 =v_n,
-v_1 e_1 v_2 e_2 v_3 \cdots e_{n -1} v_n
-v_i
-e_i,
-v_{i +1} .
-P_n
-n .
-C_n
+R(10,𝐖10)
+R(3,𝐖3,𝐖3)𝐖=17,𝐖
+K_{17}𝐖
+(4,𝐖6)𝐖.
+(6,𝐖5)𝐖.
+G𝐖=(V,𝐖E)
+v_0𝐖,𝐖v_1𝐖,𝐖v_2𝐖,𝐖\ldots𝐖,𝐖v_n𝐖
+\{v_i𝐖,𝐖v_{i𝐖+1}𝐖\}𝐖\in𝐖E
+0𝐖\le𝐖i𝐖\lt𝐖n𝐖.
+v_1𝐖𝐖=v_n𝐖
+v_0𝐖𝐖=v_n𝐖𝐖.
+v_0𝐖𝐖=v_n𝐖,𝐖
+v_1𝐖e_1𝐖v_2𝐖e_2𝐖v_3𝐖\cdots𝐖e_{n𝐖-1}𝐖v_n𝐖
+v_i𝐖
+e_i𝐖,𝐖
+v_{i𝐖+1}𝐖𝐖.
+P_n𝐖
+n𝐖.
+C_n𝐖
 n
 a
-a,
+a,𝐖
 G
 G
-P \to Q .
-(P \to Q) \vee (Q \to R)
-P \to Q
-Q \to R
+P𝐖\to𝐖Q𝐖.
+(P𝐖\to𝐖Q)𝐖\vee𝐖(Q𝐖\to𝐖R)
+P𝐖\to𝐖Q
+Q𝐖\to𝐖R
 P
 Q
 Q
 R
 P
 Q
-P \wedge Q
+P𝐖\wedge𝐖Q
 P
 Q
-P \vee Q
+P𝐖\vee𝐖Q
 P
 Q
-P \to Q
+P𝐖\to𝐖Q
 P
 Q
-P \leftrightarrow Q
+P𝐖\leftrightarrow𝐖Q
 P
-\lnot P
-\lnot P \vee Q .
-\lnot P \vee Q
-P \to Q \colon
-P
-Q
-P \to Q
-\lnot P \vee Q
+𝐖\lnot𝐖P
+𝐖\lnot𝐖P𝐖\vee𝐖Q𝐖.
+𝐖\lnot𝐖P𝐖\vee𝐖Q
+P𝐖\to𝐖Q𝐖\colon𝐖
 P
 Q
-\lnot P \vee Q
-P \to Q
+P𝐖\to𝐖Q
+𝐖\lnot𝐖P𝐖\vee𝐖Q
 P
 Q
+𝐖\lnot𝐖P𝐖\vee𝐖Q
+P𝐖\to𝐖Q
 P
 Q
 P
 Q
-\lnot (P \wedge Q)\~is\space logically\space equivalent\space to\~ \lnot P \vee \lnot Q .
-\lnot (P \vee Q)\~is\space logically\space equivalent\space to\~ \lnot P \wedge \lnot Q .
-P \to Q\~is\space logically\space equivalent\space to\~ \lnot P \vee Q .
-\lnot \lnot P\~is\space logically\space equivalent\space to\~P .
+P
+Q
+𝐖\lnot𝐖(P𝐖\wedge𝐖Q)\~is\space𝐖logically\space𝐖equivalent\space𝐖to\~𝐖\lnot𝐖P𝐖\vee𝐖𝐖\lnot𝐖Q𝐖.
+𝐖\lnot𝐖(P𝐖\vee𝐖Q)\~is\space𝐖logically\space𝐖equivalent\space𝐖to\~𝐖\lnot𝐖P𝐖\wedge𝐖𝐖\lnot𝐖Q𝐖.
+P𝐖\to𝐖Q\~is\space𝐖logically\space𝐖equivalent\space𝐖to\~𝐖\lnot𝐖P𝐖\vee𝐖Q𝐖.
+𝐖\lnot𝐖𝐖\lnot𝐖P\~is\space𝐖logically\space𝐖equivalent\space𝐖to\~P𝐖.
 c
 c
-\lnot (P \to Q)
-P \wedge \lnot Q
-\lnot (P \to Q)\~is\space logically\space equivalent\space to\~P \wedge \lnot Q .
-(P \vee Q) \to R
-(P \to R) \vee (Q \to R)
+𝐖\lnot𝐖(P𝐖\to𝐖Q)
+P𝐖\wedge𝐖𝐖\lnot𝐖Q
+𝐖\lnot𝐖(P𝐖\to𝐖Q)\~is\space𝐖logically\space𝐖equivalent\space𝐖to\~P𝐖\wedge𝐖𝐖\lnot𝐖Q𝐖.
+(P𝐖\vee𝐖Q)𝐖\to𝐖R
+(P𝐖\to𝐖R)𝐖\vee𝐖(Q𝐖\to𝐖R)
 P
 Q
-P \to Q
+P𝐖\to𝐖Q
 P
-\therefore
+\therefore𝐖
 Q
-P
-Q
-P \to Q
-P \to Q,
-P \to Q
-P .
-P
-P \to Q
-Q
-P \to Q
 P
 Q
-P \to Q
-\lnot P \to Q
-\therefore
+P𝐖\to𝐖Q
+P𝐖\to𝐖Q,𝐖
+P𝐖\to𝐖Q
+P𝐖.
+P
+P𝐖\to𝐖Q
 Q
-P \to R
-Q \to R
+P𝐖\to𝐖Q
+P
+Q
+P𝐖\to𝐖Q
+𝐖\lnot𝐖P𝐖\to𝐖Q
+\therefore𝐖
+Q
+P𝐖\to𝐖R
+Q𝐖\to𝐖R
 R
-\therefore
-P \vee Q
-\forall x((P(x) \wedge x >2) \to O(x)) .
+\therefore𝐖
+P𝐖\vee𝐖Q
+𝐖\forall𝐖x((P(x)𝐖\wedge𝐖x𝐖>2)𝐖\to𝐖O(x))𝐖.
 P(x)
 x
 O(x)
 x
-x .
+x𝐖.
 P
 O
-P,
-Q,
-\lnot \exists x \forall y(x \le y)
+P,𝐖
+Q,𝐖
+𝐖\lnot𝐖𝐖\exists𝐖x𝐖\forall𝐖y(x𝐖\le𝐖y)
 x
-y,
-x
-y
-\forall x \exists y(y \lt x) .
-y \lt x
-x \le y .
+y,𝐖
 x
 y
-x .
-\forall x \exists yP(x, y)and \exists y \forall xP(x, y) .
+𝐖\forall𝐖x𝐖\exists𝐖y(y𝐖\lt𝐖x)𝐖.
+y𝐖\lt𝐖x
+x𝐖\le𝐖y𝐖.
+x
+y
+x𝐖.
+𝐖\forall𝐖x𝐖\exists𝐖yP(x,𝐖y)and𝐖\exists𝐖y𝐖\forall𝐖xP(x,𝐖y)𝐖.
 P
-Q .
-(P \vee Q) \to (P \wedge Q) .
-\lnot P \wedge (Q \to P) .
+Q𝐖.
+(P𝐖\vee𝐖Q)𝐖\to𝐖(P𝐖\wedge𝐖Q)𝐖.
+𝐖\lnot𝐖P𝐖\wedge𝐖(Q𝐖\to𝐖P)𝐖.
 P
 Q
-\lnot P \to (Q \wedge R) .
-\lnot (P \to Q)
-P \wedge \lnot Q .
-P \to (Q \vee R)
-(P \to Q) \vee (P \to R)
-\lnot (P \to \lnot Q) .
-( \lnot P \vee \lnot Q) \to \lnot ( \lnot Q \wedge R) .
-\lnot ((P \to \lnot Q) \vee \lnot (R \wedge \lnot R)) .
-P,
-Q,
-E(x),
-\lnot (( \lnot P \wedge Q) \vee \lnot (R \vee \lnot S)) .
-\lnot (( \lnot P \to \lnot Q) \wedge ( \lnot Q \to R))
-(T \vee S) \to \lnot P .
-P, Q, R, S, T
-P \vee Q
-\lnot P
-\therefore
+𝐖\lnot𝐖P𝐖\to𝐖(Q𝐖\wedge𝐖R)𝐖.
+𝐖\lnot𝐖(P𝐖\to𝐖Q)
+P𝐖\wedge𝐖𝐖\lnot𝐖Q𝐖.
+P𝐖\to𝐖(Q𝐖\vee𝐖R)
+(P𝐖\to𝐖Q)𝐖\vee𝐖(P𝐖\to𝐖R)
+𝐖\lnot𝐖(P𝐖\to𝐖𝐖\lnot𝐖Q)𝐖.
+(𝐖\lnot𝐖P𝐖\vee𝐖𝐖\lnot𝐖Q)𝐖\to𝐖𝐖\lnot𝐖(𝐖\lnot𝐖Q𝐖\wedge𝐖R)𝐖.
+𝐖\lnot𝐖((P𝐖\to𝐖𝐖\lnot𝐖Q)𝐖\vee𝐖𝐖\lnot𝐖(R𝐖\wedge𝐖𝐖\lnot𝐖R))𝐖.
+P,𝐖
+Q,𝐖
+E(x),𝐖
+𝐖\lnot𝐖((𝐖\lnot𝐖P𝐖\wedge𝐖Q)𝐖\vee𝐖𝐖\lnot𝐖(R𝐖\vee𝐖𝐖\lnot𝐖S))𝐖.
+𝐖\lnot𝐖((𝐖\lnot𝐖P𝐖\to𝐖𝐖\lnot𝐖Q)𝐖\wedge𝐖(𝐖\lnot𝐖Q𝐖\to𝐖R))
+(T𝐖\vee𝐖S)𝐖\to𝐖𝐖\lnot𝐖P𝐖.
+P,𝐖Q,𝐖R,𝐖S,𝐖T
+P𝐖\vee𝐖Q
+𝐖\lnot𝐖P
+\therefore𝐖
 Q
-P \to (Q \vee R)
-\lnot (P \to Q)
-\therefore
+P𝐖\to𝐖(Q𝐖\vee𝐖R)
+𝐖\lnot𝐖(P𝐖\to𝐖Q)
+\therefore𝐖
 R
-(P \wedge Q) \to R
-\lnot P \vee \lnot Q
-\therefore
-\lnot R
-P \to Q
-Q \to R,
-P \to R ?
-P \to Q
-Q \to R
-\therefore
-P \to R
-n \ge 2 \colon
-P_1 \to P_2
-P_2 \to P_3
-\vdots
-P_{n -1} \to P_n
-\therefore
-P_1 \to P_n .
-2^n
-\lnot \exists x \forall y( \lnot O(x) \vee E(y)) .
-\lnot \forall x \lnot \forall y \lnot (x \lt y \wedge \exists z(x \lt z \vee y \lt z)) .
+(P𝐖\wedge𝐖Q)𝐖\to𝐖R
+𝐖\lnot𝐖P𝐖\vee𝐖𝐖\lnot𝐖Q
+\therefore𝐖
+𝐖\lnot𝐖R
+P𝐖\to𝐖Q
+Q𝐖\to𝐖R,𝐖
+P𝐖\to𝐖R𝐖?
+P𝐖\to𝐖Q
+Q𝐖\to𝐖R
+\therefore𝐖
+P𝐖\to𝐖R
+n𝐖\ge𝐖2𝐖\colon𝐖
+P_1𝐖𝐖\to𝐖P_2𝐖
+P_2𝐖𝐖\to𝐖P_3𝐖
+\vdots𝐖
+P_{n𝐖-1}𝐖𝐖\to𝐖P_n𝐖
+\therefore𝐖
+P_1𝐖𝐖\to𝐖P_n𝐖𝐖.
+2^n𝐖
+𝐖\lnot𝐖𝐖\exists𝐖x𝐖\forall𝐖y(𝐖\lnot𝐖O(x)𝐖\vee𝐖E(y))𝐖.
+𝐖\lnot𝐖𝐖\forall𝐖x𝐖\lnot𝐖𝐖\forall𝐖y𝐖\lnot𝐖(x𝐖\lt𝐖y𝐖\wedge𝐖𝐖\exists𝐖z(x𝐖\lt𝐖z𝐖\vee𝐖y𝐖\lt𝐖z))𝐖.
 n
 n
-n .
+n𝐖.
 n
 n
-\lnot \forall x \forall y(x \lt y \vee y \lt x) .
-\lnot ( \exists xP(x) \to \forall yP(y)) .
-n,
+𝐖\lnot𝐖𝐖\forall𝐖x𝐖\forall𝐖y(x𝐖\lt𝐖y𝐖\vee𝐖y𝐖\lt𝐖x)𝐖.
+𝐖\lnot𝐖(𝐖\exists𝐖xP(x)𝐖\to𝐖𝐖\forall𝐖yP(y))𝐖.
+n,𝐖
 n
-n +3
+n𝐖+3
 P
 Q
 P
 Q
-P \leftrightarrow Q
-P_1, P_2, \ldots, P_n
+P𝐖\leftrightarrow𝐖Q
+P_1𝐖,𝐖P_2𝐖,𝐖\ldots𝐖,𝐖P_n𝐖
 Q
-P_1
-P_2
-\vdots
-P_n
-\therefore
+P_1𝐖
+P_2𝐖
+\vdots𝐖
+P_n𝐖
+\therefore𝐖
 Q
-(P_1 \wedge P_2 \wedge \cdots \wedge P_n) \to Q
+(P_1𝐖𝐖\wedge𝐖P_2𝐖𝐖\wedge𝐖\cdots𝐖𝐖\wedge𝐖P_n𝐖)𝐖\to𝐖Q
 S
 S
-S .
+S𝐖.
 S
-\mathbf B_0^4 \cup \mathbf B_1^4 \cup \mathbf B_2^4 \cup \mathbf B_3^4 \cup \mathbf B_4^4 =\mathbf B^4 .
-\binom{4}{0} +\binom{4}{1} +\binom{4}{2} +\binom{4}{3} +\binom{4}{4} =2^4
+\mathbf𝐖B𝐖_0^4𝐖𝐖\cup𝐖\mathbf𝐖B𝐖_1^4𝐖𝐖\cup𝐖\mathbf𝐖B𝐖_2^4𝐖𝐖\cup𝐖\mathbf𝐖B𝐖_3^4𝐖𝐖\cup𝐖\mathbf𝐖B𝐖_4^4𝐖𝐖=\mathbf𝐖B𝐖^4𝐖𝐖.
+\binom{4}{0}𝐖+\binom{4}{1}𝐖+\binom{4}{2}𝐖+\binom{4}{3}𝐖+\binom{4}{4}𝐖=2^4𝐖
 n
-\binom{n}{0}d_0 +\binom{n}{1}d_1 +\binom{n}{2}d_2 +\ldots +\binom{n}{n}d_n =n!
+\binom{n}{0}d_0𝐖𝐖+\binom{n}{1}d_1𝐖𝐖+\binom{n}{2}d_2𝐖𝐖+\ldots𝐖𝐖+\binom{n}{n}d_n𝐖𝐖=n!
 n!
 [n]
-\binom{n}{k} =\frac{n!}{(n -k)!k!},
+\binom{n}{k}𝐖=\frac{n!}{(n𝐖-k)!k!},𝐖
 k
 [n]
 [n]
 \binom{n}{k}
 k
 n
-n^k
-P(n, k)
+n^k𝐖
+P(n,𝐖k)
 (\binom{n}{k})
-\binom{n}{k} .
+\binom{n}{k}𝐖.
 k
 n
 k
-n .
+n𝐖.
 3
 5
 3
 5
-S(k, n)
+S(k,𝐖n)
 [k]
 n
-S(k, n)
-S(k, n)
-S(n, k)
+S(k,𝐖n)
+S(k,𝐖n)
+S(n,𝐖k)
 k
 n
-S(n, k),
+S(n,𝐖k),𝐖
 [n]
 k
 [3]
-\{1, 2\}, \{3\}\{1, 3\}, \{2\}\{2, 3\}, \{1\}
-S(3, 2) =3 .
+\{1,𝐖2\},𝐖\{3\}\{1,𝐖3\},𝐖\{2\}\{2,𝐖3\},𝐖\{1\}
+S(3,𝐖2)𝐖=3𝐖.
 k
 n
-S(3, 1),
-S(4, 1)
-S(k, 1) .
-S(2, 2),
-S(3, 2)
-S(4, 2) .
-S(k, 2)
-S(3, 3),
-S(4, 3) .
-S(k, k)
-S(k, k -1) .
-S(1, 1),
-S(5, 2) =15 .
+S(3,𝐖1),𝐖
+S(4,𝐖1)
+S(k,𝐖1)𝐖.
+S(2,𝐖2),𝐖
+S(3,𝐖2)
+S(4,𝐖2)𝐖.
+S(k,𝐖2)
+S(3,𝐖3),𝐖
+S(4,𝐖3)𝐖.
+S(k,𝐖k)
+S(k,𝐖k𝐖-1)𝐖.
+S(1,𝐖1),𝐖
+S(5,𝐖2)𝐖=15𝐖.
 [5]
 3
 [4]
 3
-S(4, 3)
-[4],
-S(4, 2) =7
-S(4, 3) =6
-S(5, 3) =25 .
+S(4,𝐖3)
+[4],𝐖
+S(4,𝐖2)𝐖=7
+S(4,𝐖3)𝐖=6
+S(5,𝐖3)𝐖=25𝐖.
 [4]
-\{1\}, \{2, 3, 4\} & \lt mi/>\{1, 2\}, \{3, 4\} \\ \{2\}, \{1, 3, 4\} & \lt mi/>\{1, 3\}, \{2, 4\} \\ \{3\}, \{1, 2, 4\} & \lt mi/>\{2, 3\}, \{1, 4\} \\ \{4\}, \{1, 2, 3\} & \~
-\{3\}, \{1, 2\}, \{4\} \\ \{2\}, \{1, 3\}, \{4\} \\ \{2\}, \{1, 4\}, \{3\} \\ \{1\}, \{2, 3\}, \{4\} \\ \{1\}, \{2, 4\}, \{3\} \\ \{1\}, \{3, 4\}, \{2\}
+\{1\},𝐖\{2,𝐖3,𝐖4\}𝐖&𝐖\lt𝐖mi/>\{1,𝐖2\},𝐖\{3,𝐖4\}𝐖\\𝐖\{2\},𝐖\{1,𝐖3,𝐖4\}𝐖&𝐖\lt𝐖mi/>\{1,𝐖3\},𝐖\{2,𝐖4\}𝐖\\𝐖\{3\},𝐖\{1,𝐖2,𝐖4\}𝐖&𝐖\lt𝐖mi/>\{2,𝐖3\},𝐖\{1,𝐖4\}𝐖\\𝐖\{4\},𝐖\{1,𝐖2,𝐖3\}𝐖&𝐖\~
+\{3\},𝐖\{1,𝐖2\},𝐖\{4\}𝐖\\𝐖\{2\},𝐖\{1,𝐖3\},𝐖\{4\}𝐖\\𝐖\{2\},𝐖\{1,𝐖4\},𝐖\{3\}𝐖\\𝐖\{1\},𝐖\{2,𝐖3\},𝐖\{4\}𝐖\\𝐖\{1\},𝐖\{2,𝐖4\},𝐖\{3\}𝐖\\𝐖\{1\},𝐖\{3,𝐖4\},𝐖\{2\}
 \binom{4}{2}
-S(5, 3)
+S(5,𝐖3)
 [5]
 3
-3 \cdot 6
-S(5, 3) =7 +3 \cdot 6 .
-[k],
+3𝐖\cdot𝐖6
+S(5,𝐖3)𝐖=7𝐖+3𝐖\cdot𝐖6𝐖.
+[k],𝐖
 k
-S(k, n),
-k
-n
-L(k, n)
+S(k,𝐖n),𝐖
 k
 n
-n^k
-P(n, k)
+L(k,𝐖n)
+k
+n
+n^k𝐖
+P(n,𝐖k)
 f
 k
 K
@@ -2641,960 +2641,960 @@ n
 K
 x
 y
-f(x) =f(y) .
+f(x)𝐖=f(y)𝐖.
 f
 k
 n
-S(k, n)
+S(k,𝐖n)
 k
 K
 n
 N
 K
-N .
+N𝐖.
 J
 N
-j,
+j,𝐖
 J
 J
 J
-N .
+N𝐖.
 k
-B_k
+B_k𝐖
 k
-[3] \colon
-\{1\}, \{2\}, \{3\} \\ \{1, 2\}, \{3\}\{1, 3\}, \{2\}\{1\}, \{2, 3\} \\ \{1, 2, 3\}
-B_3 =S(3, 1) +S(3, 2) +S(3, 3) =1 +3 +1 .
-B_k =\sum_{n =1}^k S(k, n),
-n^k \not= \sum_{n =1}^k S(k, n)n! ?
-B_k
-B_n
-n \lt k
-B_k
-k =1, 2, 4, 5, 6 .
-S(k, 1) =1
-S(k, k) =1 .
-S(k, n) =nS(k -1, n) +S(k -1, n -1) .
+[3]𝐖\colon𝐖
+\{1\},𝐖\{2\},𝐖\{3\}𝐖\\𝐖\{1,𝐖2\},𝐖\{3\}\{1,𝐖3\},𝐖\{2\}\{1\},𝐖\{2,𝐖3\}𝐖\\𝐖\{1,𝐖2,𝐖3\}
+B_3𝐖𝐖=S(3,𝐖1)𝐖+S(3,𝐖2)𝐖+S(3,𝐖3)𝐖=1𝐖+3𝐖+1𝐖.
+B_k𝐖𝐖=\sum𝐖_{n𝐖=1}^k𝐖S(k,𝐖n),𝐖
+n^k𝐖𝐖\not=𝐖\sum𝐖_{n𝐖=1}^k𝐖S(k,𝐖n)n!𝐖?
+B_k𝐖
+B_n𝐖
+n𝐖\lt𝐖k
+B_k𝐖
+k𝐖=1,𝐖2,𝐖4,𝐖5,𝐖6𝐖.
+S(k,𝐖1)𝐖=1
+S(k,𝐖k)𝐖=1𝐖.
+S(k,𝐖n)𝐖=nS(k𝐖-1,𝐖n)𝐖+S(k𝐖-1,𝐖n𝐖-1)𝐖.
 [k]
 k
-S(k -1, n -1)
+S(k𝐖-1,𝐖n𝐖-1)
 n
 k
-S(k -1, n)
-[k -1]
+S(k𝐖-1,𝐖n)
+[k𝐖-1]
 n
 k
-n,
-S(k, k -1) =\binom{k}{2} .
+n,𝐖
+S(k,𝐖k𝐖-1)𝐖=\binom{k}{2}𝐖.
 [5]
 [5]
 [5]
-S(5, 3) ?
-S(k, k -2) .
-S(k, k -2) =\binom{k}{3} +3\binom{k}{4} .
+S(5,𝐖3)𝐖?
+S(k,𝐖k𝐖-2)𝐖.
+S(k,𝐖k𝐖-2)𝐖=\binom{k}{3}𝐖+3\binom{k}{4}𝐖.
 k
 n
-(a_1, a_2, \ldots, a_k)
-a_i
-i .
+(a_1𝐖,𝐖a_2𝐖,𝐖\ldots𝐖,𝐖a_k𝐖)
+a_i𝐖
+i𝐖.
 [5]
-(2, 0, 1, 0, 0),
-(1, 2, 0, 0, 0),
-\sum_{i =1}^k a_i =n
-\sum_{i =1}^k ia_i =k .
+(2,𝐖0,𝐖1,𝐖0,𝐖0),𝐖
+(1,𝐖2,𝐖0,𝐖0,𝐖0),𝐖
+\sum𝐖_{i𝐖=1}^k𝐖a_i𝐖𝐖=n
+\sum𝐖_{i𝐖=1}^k𝐖ia_i𝐖𝐖=k𝐖.
 [6]
-S(k, k -3) .
-\binom{k}{4},
-\binom{k}{5},
-\binom{k}{6} .
+S(k,𝐖k𝐖-3)𝐖.
+\binom{k}{4},𝐖
+\binom{k}{5},𝐖
+\binom{k}{6}𝐖.
 k
 n
-a_i
+a_i𝐖
 i
-i ?
-(a_1, a_2, \ldots, a_k),
+i𝐖?
+(a_1𝐖,𝐖a_2𝐖,𝐖\ldots𝐖,𝐖a_k𝐖),𝐖
 [k]
 n
-S(k, n)
-S(k, 2) =2^{k -1} -1 .
-S(k, 2)
+S(k,𝐖n)
+S(k,𝐖2)𝐖=2^{k𝐖-1}𝐖𝐖-1𝐖.
+S(k,𝐖2)
 k
 n
 n
 i
-j_i
-y_1, y_2, \ldots, y_n,
+j_i𝐖
+y_1𝐖,𝐖y_2𝐖,𝐖\ldots𝐖,𝐖y_n𝐖,𝐖
 k
 K
-N =\{y_1, y_2, \ldots y_n \}
-y_i
-j_i
-K ?
-\binom{k}{j_1, j_2, \ldots, j_n} .
-k
-K
-n
-N
+N𝐖=\{y_1𝐖,𝐖y_2𝐖,𝐖\ldots𝐖y_n𝐖\}
+y_i𝐖
+j_i𝐖
+K𝐖?
+\binom{k}{j_1𝐖,𝐖j_2𝐖,𝐖\ldots𝐖,𝐖j_n𝐖}𝐖.
 k
 K
 n
 N
 k
-x_1 +x_2 +\cdots +x_n ?
-\binom{n}{k},
-\binom{n}{k} =\binom{n -1}{k} +\binom{n -1}{k -1}
-\binom{n}{k} =\frac{n!}{k!(n -k)!} .
-S(k, n)
-S(k, n) =\frac{1}{n!}[n^k -\binom{n}{1}(n -1)^k +\binom{n}{2}(n -2)^k -\ldots +( -1)^{n -1} \binom{n}{n -1}1^k]
+K
+n
+N
+k
+x_1𝐖𝐖+x_2𝐖𝐖+\cdots𝐖𝐖+x_n𝐖𝐖?
+\binom{n}{k},𝐖
+\binom{n}{k}𝐖=\binom{n𝐖-1}{k}𝐖+\binom{n𝐖-1}{k𝐖-1}
+\binom{n}{k}𝐖=\frac{n!}{k!(n𝐖-k)!}𝐖.
+S(k,𝐖n)
+S(k,𝐖n)𝐖=\frac{1}{n!}[n^k𝐖𝐖-\binom{n}{1}(n𝐖-1)^k𝐖𝐖+\binom{n}{2}(n𝐖-2)^k𝐖𝐖-\ldots𝐖𝐖+(𝐖-1)^{n𝐖-1}𝐖\binom{n}{n𝐖-1}1^k𝐖]
 k
 n
-S(k, n)
-S(k, n) =\frac{1}{n!}\sum_{s =0}^n ( -1)^s \binom{n}{s}(n -s)^k . .
-S(k, 2)
-S(k, 3) ?
-x^k =S(k, 1)x +S(k, 2)x(x -1) +S(k, 3)x(x -1)(x -2) +\cdots +S(k, k)x(x -1)\cdots (x -k +1)
-S(k, n)
-x^k =S(k, 1)\binom{x}{1}1! +S(k, 2)\binom{x}{2}2! +\ldots +S(k, k)\binom{x}{k}k!
-x^3 .
-x^3 =S(3, 1)x +S(3, 2)x(x -1) +S(3, 3)x(x -1)(x -2) =x +3x(x -1) +x(x -1)(x -2) .
+S(k,𝐖n)
+S(k,𝐖n)𝐖=\frac{1}{n!}\sum𝐖_{s𝐖=0}^n𝐖(𝐖-1)^s𝐖\binom{n}{s}(n𝐖-s)^k𝐖𝐖.𝐖.
+S(k,𝐖2)
+S(k,𝐖3)𝐖?
+x^k𝐖𝐖=S(k,𝐖1)x𝐖+S(k,𝐖2)x(x𝐖-1)𝐖+S(k,𝐖3)x(x𝐖-1)(x𝐖-2)𝐖+\cdots𝐖𝐖+S(k,𝐖k)x(x𝐖-1)\cdots𝐖(x𝐖-k𝐖+1)
+S(k,𝐖n)
+x^k𝐖𝐖=S(k,𝐖1)\binom{x}{1}1!𝐖+S(k,𝐖2)\binom{x}{2}2!𝐖+\ldots𝐖𝐖+S(k,𝐖k)\binom{x}{k}k!
+x^3𝐖𝐖.
+x^3𝐖𝐖=S(3,𝐖1)x𝐖+S(3,𝐖2)x(x𝐖-1)𝐖+S(3,𝐖3)x(x𝐖-1)(x𝐖-2)𝐖=x𝐖+3x(x𝐖-1)𝐖+x(x𝐖-1)(x𝐖-2)𝐖.
 x
-x^3 =\binom{x}{1} +3\binom{x}{2}2! +\binom{x}{3}3! =\binom{x}{1} +6\binom{x}{2} +6\binom{x}{3} .
-1^3 +2^3 +3^3 +\cdots +n^3 =(\frac{n(n +1)}{2})^2 .
-\{a, b, c\}
-\{2, 3, 4, \ldots \}
-abc =2 \cdot 3 \cdot 5 \cdot 7 \cdot 11 \cdot 13 \cdot 17 ?
-S =\{2, 3, 4, \ldots \} .
-(a, b, c)
-S \times S \times S
-abc =2 \cdot 3 \cdot 5 \cdot 7 \cdot 11 \cdot 13 \cdot 17 ?
-a, b, c
-n^4 =24\binom{n}{4} +6a\binom{n}{3} +2b\binom{n}{2} +c\binom{n}{1} .
-a, b, c, d
-n^5 =5!\binom{n}{5} +a\binom{n}{4} +b\binom{n}{3} +c\binom{n}{2} +d\binom{n}{1} .
-1^4 +2^4 +3^4 +\cdots +n^4
-n .
-4^k -4 \cdot 3^k +6 \cdot 2^k -4
-B_k,
+x^3𝐖𝐖=\binom{x}{1}𝐖+3\binom{x}{2}2!𝐖+\binom{x}{3}3!𝐖=\binom{x}{1}𝐖+6\binom{x}{2}𝐖+6\binom{x}{3}𝐖.
+1^3𝐖𝐖+2^3𝐖𝐖+3^3𝐖𝐖+\cdots𝐖𝐖+n^3𝐖𝐖=(\frac{n(n𝐖+1)}{2})^2𝐖𝐖.
+\{a,𝐖b,𝐖c\}
+\{2,𝐖3,𝐖4,𝐖\ldots𝐖\}
+abc𝐖=2𝐖\cdot𝐖3𝐖\cdot𝐖5𝐖\cdot𝐖7𝐖\cdot𝐖11𝐖\cdot𝐖13𝐖\cdot𝐖17𝐖?
+S𝐖=\{2,𝐖3,𝐖4,𝐖\ldots𝐖\}𝐖.
+(a,𝐖b,𝐖c)
+S𝐖\times𝐖S𝐖\times𝐖S
+abc𝐖=2𝐖\cdot𝐖3𝐖\cdot𝐖5𝐖\cdot𝐖7𝐖\cdot𝐖11𝐖\cdot𝐖13𝐖\cdot𝐖17𝐖?
+a,𝐖b,𝐖c
+n^4𝐖𝐖=24\binom{n}{4}𝐖+6a\binom{n}{3}𝐖+2b\binom{n}{2}𝐖+c\binom{n}{1}𝐖.
+a,𝐖b,𝐖c,𝐖d
+n^5𝐖𝐖=5!\binom{n}{5}𝐖+a\binom{n}{4}𝐖+b\binom{n}{3}𝐖+c\binom{n}{2}𝐖+d\binom{n}{1}𝐖.
+1^4𝐖𝐖+2^4𝐖𝐖+3^4𝐖𝐖+\cdots𝐖𝐖+n^4𝐖
+n𝐖.
+4^k𝐖𝐖-4𝐖\cdot𝐖3^k𝐖𝐖+6𝐖\cdot𝐖2^k𝐖𝐖-4
+B_k𝐖,𝐖
 k
 k
 n
-S(k, n) .
-B_k =\sum_{n =1}^k S(k, n) .
-B_0 =1 .
-1, 1, 2, 5, 15, 52, 203, 877, 4140, 21147, 115975, \ldots
-C_n
-C_n \le B_n
-n .
-15 +20 +27 +37 +52 +52
-1, 3, 10, 37, 151, 674, \ldots
-\ldots
-\ldots
-\ldots
-\ldots
-\ldots
-\ldots
-\ldots
-B_0 =B_1
-B_1
-B_0 +B_1 =B_2
-B_2
-B_1 +B_2
-B_0 +2B_1 +B_2 =B_3
-B_3
-B_2 +B_3
-B_1 +B_2 +B_2 +B_3
-B_0 +3B_1 +3B_2 +B_3 =B_4
-(n +1)^{th}
-B_{n +1} =\binom{n}{0}B_0 +\binom{n}{1}B_1 +\binom{n}{2}B_2 +\ldots +\binom{n}{n}B_n .
+S(k,𝐖n)𝐖.
+B_k𝐖𝐖=\sum𝐖_{n𝐖=1}^k𝐖S(k,𝐖n)𝐖.
+B_0𝐖𝐖=1𝐖.
+1,𝐖1,𝐖2,𝐖5,𝐖15,𝐖52,𝐖203,𝐖877,𝐖4140,𝐖21147,𝐖115975,𝐖\ldots𝐖
+C_n𝐖
+C_n𝐖𝐖\le𝐖B_n𝐖
+n𝐖.
+15𝐖+20𝐖+27𝐖+37𝐖+52𝐖+52
+1,𝐖3,𝐖10,𝐖37,𝐖151,𝐖674,𝐖\ldots𝐖
+\ldots𝐖
+\ldots𝐖
+\ldots𝐖
+\ldots𝐖
+\ldots𝐖
+\ldots𝐖
+\ldots𝐖
+B_0𝐖𝐖=B_1𝐖
+B_1𝐖
+B_0𝐖𝐖+B_1𝐖𝐖=B_2𝐖
+B_2𝐖
+B_1𝐖𝐖+B_2𝐖
+B_0𝐖𝐖+2B_1𝐖𝐖+B_2𝐖𝐖=B_3𝐖
+B_3𝐖
+B_2𝐖𝐖+B_3𝐖
+B_1𝐖𝐖+B_2𝐖𝐖+B_2𝐖𝐖+B_3𝐖
+B_0𝐖𝐖+3B_1𝐖𝐖+3B_2𝐖𝐖+B_3𝐖𝐖=B_4𝐖
+(n𝐖+1)^{th}𝐖
+B_{n𝐖+1}𝐖𝐖=\binom{n}{0}B_0𝐖𝐖+\binom{n}{1}B_1𝐖𝐖+\binom{n}{2}B_2𝐖𝐖+\ldots𝐖𝐖+\binom{n}{n}B_n𝐖𝐖.
 n
-B_{k +1} =\binom{k}{0}B_0 +\binom{k}{1}B_1 +\binom{k}{2}B_2 +\ldots +\binom{k}{k}B_k
-B_k =S(k, 1) +S(k, 2) +\cdots +S(k, k),
-S(k, n)
+B_{k𝐖+1}𝐖𝐖=\binom{k}{0}B_0𝐖𝐖+\binom{k}{1}B_1𝐖𝐖+\binom{k}{2}B_2𝐖𝐖+\ldots𝐖𝐖+\binom{k}{k}B_k𝐖
+B_k𝐖𝐖=S(k,𝐖1)𝐖+S(k,𝐖2)𝐖+\cdots𝐖𝐖+S(k,𝐖k),𝐖
+S(k,𝐖n)
 k
 n
-B_3 =S(3, 1) +S(3, 2) +S(3, 3) =1 +3 +1 =5 .
-B_3 =5
-2 \times 3 \times 7,
-2 \times 21,
-3 \times 14,
-6 \times 7,
-42 .
-210,
-B_4 =15
-B_2 =2
-B_3 =5
-B_2 =2
-B_3
-B_5 =52
-C_4 =14
-[4] .
-C_4 =14
-\{u_0, u_1, u_2, \ldots \}
-u_0 =1,
-u_1 =x,
-u_2 =x(x -1),
-u_3 =x(x -1)(x -2),
+B_3𝐖𝐖=S(3,𝐖1)𝐖+S(3,𝐖2)𝐖+S(3,𝐖3)𝐖=1𝐖+3𝐖+1𝐖=5𝐖.
+B_3𝐖𝐖=5
+2𝐖\times𝐖3𝐖\times𝐖7,𝐖
+2𝐖\times𝐖21,𝐖
+3𝐖\times𝐖14,𝐖
+6𝐖\times𝐖7,𝐖
+42𝐖.
+210,𝐖
+B_4𝐖𝐖=15
+B_2𝐖𝐖=2
+B_3𝐖𝐖=5
+B_2𝐖𝐖=2
+B_3𝐖
+B_5𝐖𝐖=52
+C_4𝐖𝐖=14
+[4]𝐖.
+C_4𝐖𝐖=14
+\{u_0𝐖,𝐖u_1𝐖,𝐖u_2𝐖,𝐖\ldots𝐖\}
+u_0𝐖𝐖=1,𝐖
+u_1𝐖𝐖=x,𝐖
+u_2𝐖𝐖=x(x𝐖-1),𝐖
+u_3𝐖𝐖=x(x𝐖-1)(x𝐖-2),𝐖
 V
-P(x) =c_0 u_0 +c_1 u_1 +c_2 u_2 +\cdots
-V,
+P(x)𝐖=c_0𝐖u_0𝐖𝐖+c_1𝐖u_1𝐖𝐖+c_2𝐖u_2𝐖𝐖+\cdots𝐖
+V,𝐖
 L
-L[P(x)] =c_0 +c_1 +\cdots .
-L[P(x) +Q(x)] =L[P(x)] +L[Q(x)] .
-L[rP(x)] =rL[P(x)]
-r \in \mathbb R
-B_n =L[x^n]
-L[x^{n +1}] =L[(x +1)^n]
+L[P(x)]𝐖=c_0𝐖𝐖+c_1𝐖𝐖+\cdots𝐖𝐖.
+L[P(x)𝐖+Q(x)]𝐖=L[P(x)]𝐖+L[Q(x)]𝐖.
+L[rP(x)]𝐖=rL[P(x)]
+r𝐖\in𝐖\mathbb𝐖R𝐖
+B_n𝐖𝐖=L[x^n𝐖]
+L[x^{n𝐖+1}𝐖]𝐖=L[(x𝐖+1)^n𝐖]
 P(n)
 n
-n,
+n,𝐖
 P(n)
-P(1), P(2), P(3), P(4), \ldots,
+P(1),𝐖P(2),𝐖P(3),𝐖P(4),𝐖\ldots𝐖,𝐖
 T
 F
-F, F, F, F, T, F, F, T, F, T, F, F, T, \ldots
-P(1), P(2), P(3), P(4)
+F,𝐖F,𝐖F,𝐖F,𝐖T,𝐖F,𝐖F,𝐖T,𝐖F,𝐖T,𝐖F,𝐖F,𝐖T,𝐖\ldots𝐖
+P(1),𝐖P(2),𝐖P(3),𝐖P(4)
 P(5)
 P(n)
 n
 T
 F
 n
-a_n ?
-a_n,
+a_n𝐖𝐖?
+a_n𝐖,𝐖
 n
 n
 n
 n
 n
-P(n -1),
-P(n) ?
+P(n𝐖-1),𝐖
+P(n)𝐖?
 P(43)
 P(44)
 P(44)
 P(44)
 42
 P(1)
-P(k +1)
+P(k𝐖+1)
 P(k)
-P(k) .
+P(k)𝐖.
 P(28)
 P(k)
-k \ge 28 .
+k𝐖\ge𝐖28𝐖.
 P(28)
 P(k)
-P(k +1)
-k \ge 28
+P(k𝐖+1)
+k𝐖\ge𝐖28
 T
 T
 n
 P(n)
 P(n)
-n \ge 0,
+n𝐖\ge𝐖0,𝐖
 P(0)
-P(k) \to P(k +1)
-k \ge 0 .
-k \ge 0
+P(k)𝐖\to𝐖P(k𝐖+1)
+k𝐖\ge𝐖0𝐖.
+k𝐖\ge𝐖0
 P(k)
-P(k +1)
+P(k𝐖+1)
 P(k)
 P(k)
-P(k +1)
+P(k𝐖+1)
 P(n)
-n \ge 0 .
+n𝐖\ge𝐖0𝐖.
 P(n)
-n \ge 4,
-n,
-n \ge 1
-1 +2 +3 +\cdots +n =\frac{n(n +1)}{2} .
-P(k +1)
-P(k),
-P(k) .
-n \in \mathbb N,
-6^n -1
-6^k -1
-6^{k +1} -1
-n =1
-n =0 .
-n^2 \lt 2^n
-n \ge 5 .
-f(a) \lt g(a),
-f'(x) \lt g'(x)
-x >a,
-f(x) \lt g(x)
-x >a .
+n𝐖\ge𝐖4,𝐖
+n,𝐖
+n𝐖\ge𝐖1
+1𝐖+2𝐖+3𝐖+\cdots𝐖𝐖+n𝐖=\frac{n(n𝐖+1)}{2}𝐖.
+P(k𝐖+1)
+P(k),𝐖
+P(k)𝐖.
+n𝐖\in𝐖\mathbb𝐖N𝐖,𝐖
+6^n𝐖𝐖-1
+6^k𝐖𝐖-1
+6^{k𝐖+1}𝐖𝐖-1
+n𝐖=1
+n𝐖=0𝐖.
+n^2𝐖𝐖\lt𝐖2^n𝐖
+n𝐖\ge𝐖5𝐖.
+f(a)𝐖\lt𝐖g(a),𝐖
+f'(x)𝐖\lt𝐖g'(x)
+x𝐖>a,𝐖
+f(x)𝐖\lt𝐖g(x)
+x𝐖>a𝐖.
 P(k)
 P(n)
 k
-n .
+n𝐖.
 P(k)
-P(k +1)
+P(k𝐖+1)
 P(n)
 n
 P(1)
 P(k)
 k
-k +1
+k𝐖+1
 k
 P(k)
 k
 P(k)
-P(k +1)
+P(k𝐖+1)
 P(n)
-n .
+n𝐖.
 P(k)
-P(k +1)
-k \ge 2 .
+P(k𝐖+1)
+k𝐖\ge𝐖2𝐖.
 P(1)
 P(2)
-P(k +1)
+P(k𝐖+1)
 P(k)
-P(k -1)
-P(k -2)
+P(k𝐖-1)
+P(k𝐖-2)
 n
 n
-n =2,
-1 \times 2
-n =3,
-1 \times 3
-1 \times 2
-n =4 ?
-2 \times 2
-1 \times 4
-2 \times 2
-1 \times 4
-1 \times 2
-1 \times 3
+n𝐖=2,𝐖
+1𝐖\times𝐖2
+n𝐖=3,𝐖
+1𝐖\times𝐖3
+1𝐖\times𝐖2
+n𝐖=4𝐖?
+2𝐖\times𝐖2
+1𝐖\times𝐖4
+2𝐖\times𝐖2
+1𝐖\times𝐖4
+1𝐖\times𝐖2
+1𝐖\times𝐖3
 n
-n \colon
+n𝐖\colon𝐖
 n
-n -1
-(k +1)
+n𝐖-1
+(k𝐖+1)
 k
-k +1 .
+k𝐖+1𝐖.
 P(n)
-n .
-n_0
-P(n_0)
-n_0
+n𝐖.
+n_0𝐖
+P(n_0𝐖)
+n_0𝐖
 P(n)
-n \lt n_0 .
-P(n_0)
+n𝐖\lt𝐖n_0𝐖𝐖.
+P(n_0𝐖)
 P(n)
-n .
-P(1),
-P(2),
-P(3),
+n𝐖.
+P(1),𝐖
+P(2),𝐖
+P(3),𝐖
 P(k)
-P(k +1)
+P(k𝐖+1)
 P(k)
 P(n)
 P(0)
 P(k)
-k \lt n .
+k𝐖\lt𝐖n𝐖.
 P(n)
 P(n)
-n >0 .
+n𝐖>0𝐖.
 k
-k \lt n
-k \ge 28 .
-n >32,
-k =n -5
+k𝐖\lt𝐖n
+k𝐖\ge𝐖28𝐖.
+n𝐖>32,𝐖
+k𝐖=n𝐖-5
 n
 n
-n +1
-n \in \mathbb N
-\sum_{k =0}^n 2^k =2^{n +1} -1 .
-7^n -1
-n \in \mathbb N .
-1 +3 +5 +\cdots +(2n -1) =n^2
-n \ge 1 .
-F_0 +F_2 +F_4 +\cdots +F_{2n} =F_{2n +1} -1
-F_n
+n𝐖+1
+n𝐖\in𝐖\mathbb𝐖N𝐖
+\sum𝐖_{k𝐖=0}^n𝐖2^k𝐖𝐖=2^{n𝐖+1}𝐖𝐖-1𝐖.
+7^n𝐖𝐖-1
+n𝐖\in𝐖\mathbb𝐖N𝐖𝐖.
+1𝐖+3𝐖+5𝐖+\cdots𝐖𝐖+(2n𝐖-1)𝐖=n^2𝐖
+n𝐖\ge𝐖1𝐖.
+F_0𝐖𝐖+F_2𝐖𝐖+F_4𝐖𝐖+\cdots𝐖𝐖+F_{2n}𝐖𝐖=F_{2n𝐖+1}𝐖𝐖-1
+F_n𝐖
 n
-2^n \lt n!
-n \ge 4 .
-n! =1 \cdot 2 \cdot 3 \cdot \cdots \cdot n .
-F_0 +F_1 +F_2 +\cdots +F_n =F_{n +2} -1,
-F_n
+2^n𝐖𝐖\lt𝐖n!
+n𝐖\ge𝐖4𝐖.
+n!𝐖=1𝐖\cdot𝐖2𝐖\cdot𝐖3𝐖\cdot𝐖\cdots𝐖𝐖\cdot𝐖n𝐖.
+F_0𝐖𝐖+F_1𝐖𝐖+F_2𝐖𝐖+\cdots𝐖𝐖+F_n𝐖𝐖=F_{n𝐖+2}𝐖𝐖-1,𝐖
+F_n𝐖
 n
-F_0 =0,
-F_1 =1
-F_n =F_{n -1} +F_{n -2}
+F_0𝐖𝐖=0,𝐖
+F_1𝐖𝐖=1
+F_n𝐖𝐖=F_{n𝐖-1}𝐖𝐖+F_{n𝐖-2}𝐖
 n
-1^2 +2^2 +3^2 +\ldots +n^2 =\frac{n(n +1)(2n +1)}{6} .
+1^2𝐖𝐖+2^2𝐖𝐖+3^2𝐖𝐖+\ldots𝐖𝐖+n^2𝐖𝐖=\frac{n(n𝐖+1)(2n𝐖+1)}{6}𝐖.
 n
-(n -2) \cdot 180\circ .
+(n𝐖-2)𝐖\cdot𝐖180\circ𝐖.
 n
 n
-180\circ .
-n +3 =n +7
+180\circ𝐖.
+n𝐖+3𝐖=n𝐖+7
 n
-n +3 \lt n +7
-n \in \mathbb N .
-n \lt 100
-n \in \mathbb N .
-a_1, a_2, a_3, \ldots
-a_n \lt 100
-n \in \mathbb N .
-a_n \lt a_{n +1}
-n .
-n \in \mathbb N,
-n^2 +n
-n \in \mathbb N,
-n^2 +n
-a_0, a_1, a_2, \ldots
-a_0 +a_1 +a_2 +\cdots +a_n
+n𝐖+3𝐖\lt𝐖n𝐖+7
+n𝐖\in𝐖\mathbb𝐖N𝐖𝐖.
+n𝐖\lt𝐖100
+n𝐖\in𝐖\mathbb𝐖N𝐖𝐖.
+a_1𝐖,𝐖a_2𝐖,𝐖a_3𝐖,𝐖\ldots𝐖
+a_n𝐖𝐖\lt𝐖100
+n𝐖\in𝐖\mathbb𝐖N𝐖𝐖.
+a_n𝐖𝐖\lt𝐖a_{n𝐖+1}𝐖
+n𝐖.
+n𝐖\in𝐖\mathbb𝐖N𝐖,𝐖
+n^2𝐖𝐖+n
+n𝐖\in𝐖\mathbb𝐖N𝐖,𝐖
+n^2𝐖𝐖+n
+a_0𝐖,𝐖a_1𝐖,𝐖a_2𝐖,𝐖\ldots𝐖
+a_0𝐖𝐖+a_1𝐖𝐖+a_2𝐖𝐖+\cdots𝐖𝐖+a_n𝐖
 2
-n \in \mathbb N .
-a_{k +1}
+n𝐖\in𝐖\mathbb𝐖N𝐖𝐖.
+a_{k𝐖+1}𝐖
 n
-\frac{n(n -1)}{2} .
+\frac{n(n𝐖-1)}{2}𝐖.
 x
-x +\frac{1}{x}
-x^n +\frac{1}{x^n}
-n .
-\sum_{k =0}^n \binom{n}{k} =2^n .
+x𝐖+\frac{1}{x}
+x^n𝐖𝐖+\frac{1}{x^n𝐖}
+n𝐖.
+\sum𝐖_{k𝐖=0}^n𝐖\binom{n}{k}𝐖=2^n𝐖𝐖.
 n
-2^n .
-\binom{4}{0} +\binom{5}{1} +\binom{6}{2} +\cdots +\binom{4 +n}{n} =\binom{5 +n}{n} .
-\log (ab) =\log (a) +\log (b)
-n,
-\log (a^n) =n\log (a),
-n \ge 2 .
-f_1, f_2, \ldots, f_n
-(f_1 +f_2 +\cdots +f_n)' =f_1^' +f_2^' +\cdots +f_n^' .
-(f +g)' =f' +g'
+2^n𝐖𝐖.
+\binom{4}{0}𝐖+\binom{5}{1}𝐖+\binom{6}{2}𝐖+\cdots𝐖𝐖+\binom{4𝐖+n}{n}𝐖=\binom{5𝐖+n}{n}𝐖.
+\log𝐖(ab)𝐖=\log𝐖(a)𝐖+\log𝐖(b)
+n,𝐖
+\log𝐖(a^n𝐖)𝐖=n\log𝐖(a),𝐖
+n𝐖\ge𝐖2𝐖.
+f_1𝐖,𝐖f_2𝐖,𝐖\ldots𝐖,𝐖f_n𝐖
+(f_1𝐖𝐖+f_2𝐖𝐖+\cdots𝐖𝐖+f_n𝐖)'𝐖=f_1^'𝐖𝐖+f_2^'𝐖𝐖+\cdots𝐖𝐖+f_n^'𝐖𝐖.
+(f𝐖+g)'𝐖=f'𝐖+g'
 f
-g .
-f_1, f_2, \ldots, f_n
-(f_1 f_2 f_3 \cdots f_n)' =f_1^' f_2 f_3 \cdots f_n +f_1 f_2^' f_3 \cdots f_n +f_1 f_2 f_3^' \cdots f_n +\cdots +f_1 f_2 f_3 \cdots f_n^' .
-F_n^2 +F_{n +1}^2 =F_{2n +1} .
-F_m F_n +F_{m +1} F_{n +1} =F_{m +n +1},
-m =n
-m \ge 0
-n \ge 0
-(m, n),
-P(m, n)
-F_m F_n +F_{m +1} F_{n +1} =F_{m +n +1}
-m =0
-P(0, n)
-n \ge 0 .
+g𝐖.
+f_1𝐖,𝐖f_2𝐖,𝐖\ldots𝐖,𝐖f_n𝐖
+(f_1𝐖f_2𝐖f_3𝐖\cdots𝐖f_n𝐖)'𝐖=f_1^'𝐖f_2𝐖f_3𝐖\cdots𝐖f_n𝐖𝐖+f_1𝐖f_2^'𝐖f_3𝐖\cdots𝐖f_n𝐖𝐖+f_1𝐖f_2𝐖f_3^'𝐖\cdots𝐖f_n𝐖𝐖+\cdots𝐖𝐖+f_1𝐖f_2𝐖f_3𝐖\cdots𝐖f_n^'𝐖𝐖.
+F_n^2𝐖𝐖+F_{n𝐖+1}^2𝐖𝐖=F_{2n𝐖+1}𝐖𝐖.
+F_m𝐖F_n𝐖𝐖+F_{m𝐖+1}𝐖F_{n𝐖+1}𝐖𝐖=F_{m𝐖+n𝐖+1}𝐖,𝐖
+m𝐖=n
+m𝐖\ge𝐖0
+n𝐖\ge𝐖0
+(m,𝐖n),𝐖
+P(m,𝐖n)
+F_m𝐖F_n𝐖𝐖+F_{m𝐖+1}𝐖F_{n𝐖+1}𝐖𝐖=F_{m𝐖+n𝐖+1}𝐖
+m𝐖=0
+P(0,𝐖n)
+n𝐖\ge𝐖0𝐖.
 n
-P(m, n)
-m \ge 0 .
-P(m, n)
-m, n \ge 0 .
-P(2, 3)
+P(m,𝐖n)
+m𝐖\ge𝐖0𝐖.
+P(m,𝐖n)
+m,𝐖n𝐖\ge𝐖0𝐖.
+P(2,𝐖3)
 n
-n \ge 6 .
-A =\{1, 2, 3\} .
+n𝐖\ge𝐖6𝐖.
+A𝐖=\{1,𝐖2,𝐖3\}𝐖.
 A
-\{, \}
-a \in \{a, b, c\} .
-\in
+\{,𝐖\}
+a𝐖\in𝐖\{a,𝐖b,𝐖c\}𝐖.
+\in𝐖
 a
-a,
-b,
-c .
+a,𝐖
+b,𝐖
+c𝐖.
 d
-d \notin \{a, b, c\} .
-x \in A
+d𝐖\notin𝐖\{a,𝐖b,𝐖c\}𝐖.
+x𝐖\in𝐖A
 A
-x .
-A =\{1, b, \{x, y, z\}, \varnothing \} .
-\{x, y, z\},
-\varnothing =\{\},
+x𝐖.
+A𝐖=\{1,𝐖b,𝐖\{x,𝐖y,𝐖z\},𝐖\varnothing𝐖\}𝐖.
+\{x,𝐖y,𝐖z\},𝐖
+\varnothing𝐖𝐖=\{\},𝐖
 x
-A ?
+A𝐖?
 A
-x,
-x \notin A .
-B =\{1, b\} .
+x,𝐖
+x𝐖\notin𝐖A𝐖.
+B𝐖=\{1,𝐖b\}𝐖.
 B
-A,
+A,𝐖
 B
-A .
-B \notin A .
+A𝐖.
+B𝐖\notin𝐖A𝐖.
 B
-A,
-A .
+A,𝐖
+A𝐖.
 A
-A =\{0, 2, 4, 6, \ldots \},
-A =\{x \in \mathbb N \colon \exists n \in \mathbb N (x =2n)\} .
-\mathbb N
-\{0, 1, 2, 3, \ldots \} .
+A𝐖=\{0,𝐖2,𝐖4,𝐖6,𝐖\ldots𝐖\},𝐖
+A𝐖=\{x𝐖\in𝐖\mathbb𝐖N𝐖𝐖\colon𝐖𝐖\exists𝐖n𝐖\in𝐖\mathbb𝐖N𝐖(x𝐖=2n)\}𝐖.
+\mathbb𝐖N𝐖
+\{0,𝐖1,𝐖2,𝐖3,𝐖\ldots𝐖\}𝐖.
 x
 n
 x
-n .
-A =\{x \in \mathbb N \colon x\~is\space even\} .
-|
-\smallni
+n𝐖.
+A𝐖=\{x𝐖\in𝐖\mathbb𝐖N𝐖𝐖\colon𝐖x\~is\space𝐖even\}𝐖.
+|𝐖
+\smallni𝐖
 0
-\colon
-\{x \colon x +3 \in \mathbb N \} .
-\{x \in \mathbb N \colon x +3 \in \mathbb N \} .
-\{x \colon x \in \mathbb N \vee -x \in \mathbb N \} .
-\{x \colon x \in \mathbb N \wedge -x \in \mathbb N \} .
-\mathbb Z
-A =\{x \in \mathbb Z \colon x^2 \in \mathbb N \}
-B =\{x^2 \colon x \in \mathbb N \}
-\varnothing
-\mathbcal U
-\mathbb N
-\mathbb N =\{0, 1, 2, 3\ldots \} .
-\mathbb Z
-\mathbb Z =\{\ldots, -2, -1, 0, 1, 2, 3, \ldots \} .
-\mathbb Q
-\mathbb R
-\mathbcal P (\mathbit A)
+\colon𝐖
+\{x𝐖\colon𝐖x𝐖+3𝐖\in𝐖\mathbb𝐖N𝐖\}𝐖.
+\{x𝐖\in𝐖\mathbb𝐖N𝐖𝐖\colon𝐖x𝐖+3𝐖\in𝐖\mathbb𝐖N𝐖\}𝐖.
+\{x𝐖\colon𝐖x𝐖\in𝐖\mathbb𝐖N𝐖𝐖\vee𝐖𝐖-x𝐖\in𝐖\mathbb𝐖N𝐖\}𝐖.
+\{x𝐖\colon𝐖x𝐖\in𝐖\mathbb𝐖N𝐖𝐖\wedge𝐖𝐖-x𝐖\in𝐖\mathbb𝐖N𝐖\}𝐖.
+\mathbb𝐖Z𝐖
+A𝐖=\{x𝐖\in𝐖\mathbb𝐖Z𝐖𝐖\colon𝐖x^2𝐖𝐖\in𝐖\mathbb𝐖N𝐖\}
+B𝐖=\{x^2𝐖𝐖\colon𝐖x𝐖\in𝐖\mathbb𝐖N𝐖\}
+\varnothing𝐖
+\mathbcal𝐖U𝐖
+\mathbb𝐖N𝐖
+\mathbb𝐖N𝐖𝐖=\{0,𝐖1,𝐖2,𝐖3\ldots𝐖\}𝐖.
+\mathbb𝐖Z𝐖
+\mathbb𝐖Z𝐖𝐖=\{\ldots𝐖,𝐖𝐖-2,𝐖𝐖-1,𝐖0,𝐖1,𝐖2,𝐖3,𝐖\ldots𝐖\}𝐖.
+\mathbb𝐖Q𝐖
+\mathbb𝐖R𝐖
+\mathbcal𝐖P𝐖(\mathbit𝐖A𝐖)
 A
-A .
-\{, \}
-\{1, 2, 3\}
-\colon
-\{x \colon x >2\}
+A𝐖.
+\{,𝐖\}
+\{1,𝐖2,𝐖3\}
+\colon𝐖
+\{x𝐖\colon𝐖x𝐖>2\}
 x
 x
-\in
-2 \in \{1, 2, 3\}
-\{1, 2, 3\} .
-\notin
-4 \notin \{1, 2, 3\}
-\{1, 2, 3\} .
-\subseteq
-A \subseteq B
-\mathbit A
-\mathbit B
+\in𝐖
+2𝐖\in𝐖\{1,𝐖2,𝐖3\}
+\{1,𝐖2,𝐖3\}𝐖.
+\notin𝐖
+4𝐖\notin𝐖\{1,𝐖2,𝐖3\}
+\{1,𝐖2,𝐖3\}𝐖.
+\subseteq𝐖
+A𝐖\subseteq𝐖B
+\mathbit𝐖A𝐖
+\mathbit𝐖B𝐖
 A
-B .
-\subset
-A \subset B
-\mathbit A
-\mathbit B
+B𝐖.
+\subset𝐖
+A𝐖\subset𝐖B
+\mathbit𝐖A𝐖
+\mathbit𝐖B𝐖
 A
-B,
-A \not= B .
-\cap
-A \cap B
-\mathbit A
-\mathbit B
+B,𝐖
+A𝐖\not=𝐖B𝐖.
+\cap𝐖
+A𝐖\cap𝐖B
+\mathbit𝐖A𝐖
+\mathbit𝐖B𝐖
 A
-B .
-\cup
-A \cup B
-\mathbit A
-\mathbit B
+B𝐖.
+\cup𝐖
+A𝐖\cup𝐖B
+\mathbit𝐖A𝐖
+\mathbit𝐖B𝐖
 A
 B
-\times
-A \times B
-\mathbit A
-\mathbit B
-(a, b)
-a \in A
-b \in B .
-\setminus
-A \setminus B
-\mathbit A
-\mathbit B
+\times𝐖
+A𝐖\times𝐖B
+\mathbit𝐖A𝐖
+\mathbit𝐖B𝐖
+(a,𝐖b)
+a𝐖\in𝐖A
+b𝐖\in𝐖B𝐖.
+\setminus𝐖
+A𝐖\setminus𝐖B
+\mathbit𝐖A𝐖
+\mathbit𝐖B𝐖
 A
-B .
+B𝐖.
 \overline{A}
-\mathbit A
-A .
-| \mathbit A |
-\mathbit A
-A .
-A =\{3, 4, \ldots, 15\} .
-B =\{n \in \mathbb N \colon 2 \lt n \le 200\} .
-C =\{n \le 100 \colon n \in \mathbb N \wedge \exists m \in \mathbb N (n =2m +1)\} .
+\mathbit𝐖A𝐖
+A𝐖.
+|𝐖\mathbit𝐖A𝐖|
+\mathbit𝐖A𝐖
+A𝐖.
+A𝐖=\{3,𝐖4,𝐖\ldots𝐖,𝐖15\}𝐖.
+B𝐖=\{n𝐖\in𝐖\mathbb𝐖N𝐖𝐖\colon𝐖2𝐖\lt𝐖n𝐖\le𝐖200\}𝐖.
+C𝐖=\{n𝐖\le𝐖100𝐖\colon𝐖n𝐖\in𝐖\mathbb𝐖N𝐖𝐖\wedge𝐖𝐖\exists𝐖m𝐖\in𝐖\mathbb𝐖N𝐖(n𝐖=2m𝐖+1)\}𝐖.
 A
 B
-| A| =5,
-| B| =6,
-| A \cup B| =9 .
-| A \cap B| ?
+|𝐖A|𝐖=5,𝐖
+|𝐖B|𝐖=6,𝐖
+|𝐖A𝐖\cup𝐖B|𝐖=9𝐖.
+|𝐖A𝐖\cap𝐖B|𝐖?
 A
 B
-| A| =| B|
-| A \cup B| =7
-| A \cap B| =3 .
-| A| ?
-A =\{1, 2, \ldots, 10\} .
-\mscrB_2 =\{B \subseteq A \colon | B| =2\} .
-| \mscrB_2 | .
+|𝐖A|𝐖=|𝐖B|
+|𝐖A𝐖\cup𝐖B|𝐖=7
+|𝐖A𝐖\cap𝐖B|𝐖=3𝐖.
+|𝐖A|𝐖?
+A𝐖=\{1,𝐖2,𝐖\ldots𝐖,𝐖10\}𝐖.
+\mscrB𝐖_2𝐖𝐖=\{B𝐖\subseteq𝐖A𝐖\colon𝐖|𝐖B|𝐖=2\}𝐖.
+|𝐖\mscrB𝐖_2𝐖|𝐖.
 A
-B,
-AB =\{ab \colon a \in A \wedge b \in B\} .
-A =\{1, 2\}
-B =\{2, 3, 4\},
-| AB| ?
-| A \times B| ?
-\{1, 2, 3\} =\{2, 1, 3\} .
-\{1, 2, 3\} =\{1, 1 +1, 1 +1 +1\} =\{I, II, III\} =\{1, 2, 3, 1 +2\}
-A =\{1, 2, 3\}
-B =\{1, 2, 3, 4\} ?
-A \not= B,
+B,𝐖
+AB𝐖=\{ab𝐖\colon𝐖a𝐖\in𝐖A𝐖\wedge𝐖b𝐖\in𝐖B\}𝐖.
+A𝐖=\{1,𝐖2\}
+B𝐖=\{2,𝐖3,𝐖4\},𝐖
+|𝐖AB|𝐖?
+|𝐖A𝐖\times𝐖B|𝐖?
+\{1,𝐖2,𝐖3\}𝐖=\{2,𝐖1,𝐖3\}𝐖.
+\{1,𝐖2,𝐖3\}𝐖=\{1,𝐖1𝐖+1,𝐖1𝐖+1𝐖+1\}𝐖=\{I,𝐖II,𝐖III\}𝐖=\{1,𝐖2,𝐖3,𝐖1𝐖+2\}
+A𝐖=\{1,𝐖2,𝐖3\}
+B𝐖=\{1,𝐖2,𝐖3,𝐖4\}𝐖?
+A𝐖\not=𝐖B,𝐖
 A
-B .
+B𝐖.
 A
-B,
-A \subset B
-A \subseteq B .
+B,𝐖
+A𝐖\subset𝐖B
+A𝐖\subseteq𝐖B𝐖.
 A
-B,
-\subseteq .
-\lt
-\le .
-A =\{1, 2, 3, 4, 5, 6\},
-B =\{2, 4, 6\},
-C =\{1, 2, 3\}
-D =\{7, 8, 9\} .
-A \subset B .
-B \subset A .
-B \in C .
-\varnothing \in A .
-\varnothing \subset A .
-A \lt D .
-3 \in C .
-3 \subset C .
-\{3\} \subset C .
+B,𝐖
+𝐖\subseteq𝐖𝐖.
+\lt𝐖
+𝐖\le𝐖𝐖.
+A𝐖=\{1,𝐖2,𝐖3,𝐖4,𝐖5,𝐖6\},𝐖
+B𝐖=\{2,𝐖4,𝐖6\},𝐖
+C𝐖=\{1,𝐖2,𝐖3\}
+D𝐖=\{7,𝐖8,𝐖9\}𝐖.
+A𝐖\subset𝐖B𝐖.
+B𝐖\subset𝐖A𝐖.
+B𝐖\in𝐖C𝐖.
+\varnothing𝐖𝐖\in𝐖A𝐖.
+\varnothing𝐖𝐖\subset𝐖A𝐖.
+A𝐖\lt𝐖D𝐖.
+3𝐖\in𝐖C𝐖.
+3𝐖\subset𝐖C𝐖.
+\{3\}𝐖\subset𝐖C𝐖.
 B
-A .
-A .
+A𝐖.
+A𝐖.
 A
 A
-A,
-\mathcal P (A) .
-A =\{1, 2, 3\} .
-\mathcal P (A) .
+A,𝐖
+\mathcal𝐖P𝐖(A)𝐖.
+A𝐖=\{1,𝐖2,𝐖3\}𝐖.
+\mathcal𝐖P𝐖(A)𝐖.
 A
-B,
-C,
+B,𝐖
+C,𝐖
 D
-| A| =6,
-| B| =3,
-\{1, 2, 3, 2, 1\}
-\{1, 2, 3, 2, 1\}
-\{1, 2, 3\}
-\mathbb N,
-\mathbb Q
-\mathbb R
-A =\{23, 24, \ldots, 37, 38\} .
-B =\{1, \{2, 3, 4\}, \varnothing \} .
-C =\{1, 2, 3\},
-\mathcal P (C) ?
-C =A \cup B,
+|𝐖A|𝐖=6,𝐖
+|𝐖B|𝐖=3,𝐖
+\{1,𝐖2,𝐖3,𝐖2,𝐖1\}
+\{1,𝐖2,𝐖3,𝐖2,𝐖1\}
+\{1,𝐖2,𝐖3\}
+\mathbb𝐖N𝐖,𝐖
+\mathbb𝐖Q𝐖
+\mathbb𝐖R𝐖
+A𝐖=\{23,𝐖24,𝐖\ldots𝐖,𝐖37,𝐖38\}𝐖.
+B𝐖=\{1,𝐖\{2,𝐖3,𝐖4\},𝐖\varnothing𝐖\}𝐖.
+C𝐖=\{1,𝐖2,𝐖3\},𝐖
+\mathcal𝐖P𝐖(C)𝐖?
+C𝐖=A𝐖\cup𝐖B,𝐖
 C
 A
-B,
+B,𝐖
 C
 A
 B
-A =\{1, 2, 3\}
-B =\{2, 3, 4\},
-A \cup B =\{1, 2, 3, 4\} .
-C =A \cap B
+A𝐖=\{1,𝐖2,𝐖3\}
+B𝐖=\{2,𝐖3,𝐖4\},𝐖
+A𝐖\cup𝐖B𝐖=\{1,𝐖2,𝐖3,𝐖4\}𝐖.
+C𝐖=A𝐖\cap𝐖B
 C
 A
-B,
+B,𝐖
 C
 A
-B .
-A =\{1, 2, 3\}
-B =\{2, 3, 4\},
-A \cap B =\{2, 3\} .
-\mathbb N .
-\mathscr U .
+B𝐖.
+A𝐖=\{1,𝐖2,𝐖3\}
+B𝐖=\{2,𝐖3,𝐖4\},𝐖
+A𝐖\cap𝐖B𝐖=\{2,𝐖3\}𝐖.
+\mathbb𝐖N𝐖𝐖.
+\mathscr𝐖U𝐖𝐖.
 B
-A,
-B =\overline{A}
+A,𝐖
+B𝐖=\overline{A}
 B
-A .
-\{1, 2, \ldots, 9, 10\},
-A =\{2, 3, 5, 7\},
-\overline{A} =\{1, 4, 6, 8, 9, 10\} .
-A \cap \overline{B} .
+A𝐖.
+\{1,𝐖2,𝐖\ldots𝐖,𝐖9,𝐖10\},𝐖
+A𝐖=\{2,𝐖3,𝐖5,𝐖7\},𝐖
+\overline{A}𝐖=\{1,𝐖4,𝐖6,𝐖8,𝐖9,𝐖10\}𝐖.
+A𝐖\cap𝐖\overline{B}𝐖.
 A
-B .
+B𝐖.
 A
-B .
-A \cap \overline{B} =A \setminus B .
-A \cap B
-A \subseteq B
-3 +2
-3 \le 2
-A =\{1, 2, 3, 4, 5, 6\},
-B =\{2, 4, 6\},
-C =\{1, 2, 3\}
-D =\{7, 8, 9\} .
-\mathscr U =\{1, 2, \ldots, 10\},
-A \cup B .
-A \cap B .
-B \cap C .
-A \cap D .
-\overline{B \cup C} .
-A \setminus B .
-(D \cap \overline{C}) \cup \overline{A \cap B} .
-\varnothing \cup C .
-\varnothing \cap C .
-A =\{1, 2, 3\},
-A \cup \{4\} .
+B𝐖.
+A𝐖\cap𝐖\overline{B}𝐖=A𝐖\setminus𝐖B𝐖.
+A𝐖\cap𝐖B
+A𝐖\subseteq𝐖B
+3𝐖+2
+3𝐖\le𝐖2
+A𝐖=\{1,𝐖2,𝐖3,𝐖4,𝐖5,𝐖6\},𝐖
+B𝐖=\{2,𝐖4,𝐖6\},𝐖
+C𝐖=\{1,𝐖2,𝐖3\}
+D𝐖=\{7,𝐖8,𝐖9\}𝐖.
+\mathscr𝐖U𝐖𝐖=\{1,𝐖2,𝐖\ldots𝐖,𝐖10\},𝐖
+A𝐖\cup𝐖B𝐖.
+A𝐖\cap𝐖B𝐖.
+B𝐖\cap𝐖C𝐖.
+A𝐖\cap𝐖D𝐖.
+\overline{B𝐖\cup𝐖C}𝐖.
+A𝐖\setminus𝐖B𝐖.
+(D𝐖\cap𝐖\overline{C})𝐖\cup𝐖\overline{A𝐖\cap𝐖B}𝐖.
+\varnothing𝐖𝐖\cup𝐖C𝐖.
+\varnothing𝐖𝐖\cap𝐖C𝐖.
+A𝐖=\{1,𝐖2,𝐖3\},𝐖
+A𝐖\cup𝐖\{4\}𝐖.
 A
-A \setminus \{2\} .
-B =A \cup \{4\}
+A𝐖\setminus𝐖\{2\}𝐖.
+B𝐖=A𝐖\cup𝐖\{4\}
 B
 A
 x
-A \cup B ?
+A𝐖\cup𝐖B𝐖?
 x
 A
 x
 B
-x \in A \cup B \Leftrightarrow x \in A \vee x \in B .
-x \in A \cap B \Leftrightarrow x \in A \wedge x \in B .
-x \in \overline{A} \Leftrightarrow \lnot (x \in A) .
+x𝐖\in𝐖A𝐖\cup𝐖B𝐖\Leftrightarrow𝐖x𝐖\in𝐖A𝐖\vee𝐖x𝐖\in𝐖B𝐖.
+x𝐖\in𝐖A𝐖\cap𝐖B𝐖\Leftrightarrow𝐖x𝐖\in𝐖A𝐖\wedge𝐖x𝐖\in𝐖B𝐖.
+x𝐖\in𝐖\overline{A}𝐖\Leftrightarrow𝐖𝐖\lnot𝐖(x𝐖\in𝐖A)𝐖.
 x
 A
 x
-A .
-A \times B .
-(x, y) .
-A \times B =\{(a, b) \colon a \in A \wedge b \in B\} .
-A \times A =\{(a, b) \colon a, b \in A\}
-A^2
-A \times A,
-A =\{1, 2\}
-B =\{3, 4, 5\} .
-A \times B
-A \times A .
-B \times B ?
-A \cap B
-A \cap \overline{B},
-A \setminus B \colon
-(B \cap C) \cup (C \cap \overline{A}),
-C,
+A𝐖.
+A𝐖\times𝐖B𝐖.
+(x,𝐖y)𝐖.
+A𝐖\times𝐖B𝐖=\{(a,𝐖b)𝐖\colon𝐖a𝐖\in𝐖A𝐖\wedge𝐖b𝐖\in𝐖B\}𝐖.
+A𝐖\times𝐖A𝐖=\{(a,𝐖b)𝐖\colon𝐖a,𝐖b𝐖\in𝐖A\}
+A^2𝐖
+A𝐖\times𝐖A,𝐖
+A𝐖=\{1,𝐖2\}
+B𝐖=\{3,𝐖4,𝐖5\}𝐖.
+A𝐖\times𝐖B
+A𝐖\times𝐖A𝐖.
+B𝐖\times𝐖B𝐖?
+A𝐖\cap𝐖B
+A𝐖\cap𝐖\overline{B},𝐖
+A𝐖\setminus𝐖B𝐖\colon𝐖
+(B𝐖\cap𝐖C)𝐖\cup𝐖(C𝐖\cap𝐖\overline{A}),𝐖
+C,𝐖
 C
 A
-B .
-(A \cap C) \cap \overline{B} .
-C \cap \overline{((A \cap C) \cap \overline{B})} .
-(B \cap C) \cup (C \cap \overline{A}) =C \cap \overline{((A \cap C) \cap \overline{B})} .
-A =\{1, 4, 9\}
-B =\{1, 3, 6, 10\} .
-A \cup B .
-A \cap B .
-A \setminus B .
-B \setminus A .
-\{n \in \mathbb N \colon n^2 -3 \ge 2\} .
-\{n \ge 0 \colon n^2 -5 \in \mathbb N \} .
-\{n^2 +1 \colon n \in \mathbb N \} .
-\{n \in \mathbb N \colon n =k^2 +1\~for\space some\~k \in \mathbb N \} .
-| A|
-A =\{4, 5, 6, \ldots, 37\} .
-| A|
-A =\{x \in \mathbb Z \colon -2 \le x \le 100\} .
-| A \cap B|
-A =\{x \in \mathbb N \colon x \le 20\}
-B =\{x \in \mathbb N \colon x\~is\space prime\} .
-\{1, 2, 3, 4, 5\}
-\{2, 4, 6, 8, 10\} .
-\{1, 2, 3, 4, 5\}
-\{2, 4, 6, 8, 10\}
-A =\{n \in \mathbb N \colon 20 \le n \lt 50\}
-B =\{n \in \mathbb N \colon 10 \lt n \le 30\} .
+B𝐖.
+(A𝐖\cap𝐖C)𝐖\cap𝐖\overline{B}𝐖.
+C𝐖\cap𝐖\overline{((A𝐖\cap𝐖C)𝐖\cap𝐖\overline{B})}𝐖.
+(B𝐖\cap𝐖C)𝐖\cup𝐖(C𝐖\cap𝐖\overline{A})𝐖=C𝐖\cap𝐖\overline{((A𝐖\cap𝐖C)𝐖\cap𝐖\overline{B})}𝐖.
+A𝐖=\{1,𝐖4,𝐖9\}
+B𝐖=\{1,𝐖3,𝐖6,𝐖10\}𝐖.
+A𝐖\cup𝐖B𝐖.
+A𝐖\cap𝐖B𝐖.
+A𝐖\setminus𝐖B𝐖.
+B𝐖\setminus𝐖A𝐖.
+\{n𝐖\in𝐖\mathbb𝐖N𝐖𝐖\colon𝐖n^2𝐖𝐖-3𝐖\ge𝐖2\}𝐖.
+\{n𝐖\ge𝐖0𝐖\colon𝐖n^2𝐖𝐖-5𝐖\in𝐖\mathbb𝐖N𝐖\}𝐖.
+\{n^2𝐖𝐖+1𝐖\colon𝐖n𝐖\in𝐖\mathbb𝐖N𝐖\}𝐖.
+\{n𝐖\in𝐖\mathbb𝐖N𝐖𝐖\colon𝐖n𝐖=k^2𝐖𝐖+1\~for\space𝐖some\~k𝐖\in𝐖\mathbb𝐖N𝐖\}𝐖.
+|𝐖A|
+A𝐖=\{4,𝐖5,𝐖6,𝐖\ldots𝐖,𝐖37\}𝐖.
+|𝐖A|
+A𝐖=\{x𝐖\in𝐖\mathbb𝐖Z𝐖𝐖\colon𝐖𝐖-2𝐖\le𝐖x𝐖\le𝐖100\}𝐖.
+|𝐖A𝐖\cap𝐖B|
+A𝐖=\{x𝐖\in𝐖\mathbb𝐖N𝐖𝐖\colon𝐖x𝐖\le𝐖20\}
+B𝐖=\{x𝐖\in𝐖\mathbb𝐖N𝐖𝐖\colon𝐖x\~is\space𝐖prime\}𝐖.
+\{1,𝐖2,𝐖3,𝐖4,𝐖5\}
+\{2,𝐖4,𝐖6,𝐖8,𝐖10\}𝐖.
+\{1,𝐖2,𝐖3,𝐖4,𝐖5\}
+\{2,𝐖4,𝐖6,𝐖8,𝐖10\}
+A𝐖=\{n𝐖\in𝐖\mathbb𝐖N𝐖𝐖\colon𝐖20𝐖\le𝐖n𝐖\lt𝐖50\}
+B𝐖=\{n𝐖\in𝐖\mathbb𝐖N𝐖𝐖\colon𝐖10𝐖\lt𝐖n𝐖\le𝐖30\}𝐖.
 C
-C \subseteq A
-C \subseteq B .
-C ?
-A =\{1, 2, 3, 4, 5\}
-B =\{2, 3, 4\} .
+C𝐖\subseteq𝐖A
+C𝐖\subseteq𝐖B𝐖.
+C𝐖?
+A𝐖=\{1,𝐖2,𝐖3,𝐖4,𝐖5\}
+B𝐖=\{2,𝐖3,𝐖4\}𝐖.
 C
-C \subseteq A
-B \subseteq C .
-A =\{1, 2, 3, 4, 5\},
-B =\{3, 4, 5, 6, 7\},
-C =\{2, 3, 5\} .
-A \cap B .
-A \cup B .
-A \setminus B .
-A \cap \overline{(B \cup C)} .
-A =\{x \in \mathbb N \colon 4 \le x \lt 12\}
-B =\{x \in \mathbb N \colon x\~is\space even\} .
-A \cap B .
-A \setminus B .
-A =\{x \in \mathbb N \colon 3 \le x \le 13\},
-B =\{x \in \mathbb N \colon x\~is\space even\},
-C =\{x \in \mathbb N \colon x\~is\space odd\} .
-A \cap B .
-A \cup B .
-B \cap C .
-B \cup C .
-A
-B
-A \cap B =\{3, 5\}
-A \cup B =\{2, 3, 5, 7, 8\} .
+C𝐖\subseteq𝐖A
+B𝐖\subseteq𝐖C𝐖.
+A𝐖=\{1,𝐖2,𝐖3,𝐖4,𝐖5\},𝐖
+B𝐖=\{3,𝐖4,𝐖5,𝐖6,𝐖7\},𝐖
+C𝐖=\{2,𝐖3,𝐖5\}𝐖.
+A𝐖\cap𝐖B𝐖.
+A𝐖\cup𝐖B𝐖.
+A𝐖\setminus𝐖B𝐖.
+A𝐖\cap𝐖\overline{(B𝐖\cup𝐖C)}𝐖.
+A𝐖=\{x𝐖\in𝐖\mathbb𝐖N𝐖𝐖\colon𝐖4𝐖\le𝐖x𝐖\lt𝐖12\}
+B𝐖=\{x𝐖\in𝐖\mathbb𝐖N𝐖𝐖\colon𝐖x\~is\space𝐖even\}𝐖.
+A𝐖\cap𝐖B𝐖.
+A𝐖\setminus𝐖B𝐖.
+A𝐖=\{x𝐖\in𝐖\mathbb𝐖N𝐖𝐖\colon𝐖3𝐖\le𝐖x𝐖\le𝐖13\},𝐖
+B𝐖=\{x𝐖\in𝐖\mathbb𝐖N𝐖𝐖\colon𝐖x\~is\space𝐖even\},𝐖
+C𝐖=\{x𝐖\in𝐖\mathbb𝐖N𝐖𝐖\colon𝐖x\~is\space𝐖odd\}𝐖.
+A𝐖\cap𝐖B𝐖.
+A𝐖\cup𝐖B𝐖.
+B𝐖\cap𝐖C𝐖.
+B𝐖\cup𝐖C𝐖.
 A
 B
-A \subseteq B
-A \in B .
-\mathbb Z =\{\ldots, -2, -1, 0, 1, 2, \ldots \}
-\mathbb Z^+ =\{1, 2, 3, \ldots \}
-2\mathbb Z
-3\mathbb Z
-\mathbb Z^+ \subseteq 2\mathbb Z ?
-2\mathbb Z \subseteq \mathbb Z^+ ?
-2\mathbb Z \cap 3\mathbb Z .
-\{x \in \mathbb Z \colon \exists y \in \mathbb Z (x =2y \vee x =3y)\}
-A_2
-2 .
-A_3
-A_n
+A𝐖\cap𝐖B𝐖=\{3,𝐖5\}
+A𝐖\cup𝐖B𝐖=\{2,𝐖3,𝐖5,𝐖7,𝐖8\}𝐖.
+A
+B
+A𝐖\subseteq𝐖B
+A𝐖\in𝐖B𝐖.
+\mathbb𝐖Z𝐖𝐖=\{\ldots𝐖,𝐖𝐖-2,𝐖𝐖-1,𝐖0,𝐖1,𝐖2,𝐖\ldots𝐖\}
+\mathbb𝐖Z𝐖^+𝐖𝐖=\{1,𝐖2,𝐖3,𝐖\ldots𝐖\}
+2\mathbb𝐖Z𝐖
+3\mathbb𝐖Z𝐖
+\mathbb𝐖Z𝐖^+𝐖𝐖\subseteq𝐖2\mathbb𝐖Z𝐖𝐖?
+2\mathbb𝐖Z𝐖𝐖\subseteq𝐖\mathbb𝐖Z𝐖^+𝐖𝐖?
+2\mathbb𝐖Z𝐖𝐖\cap𝐖3\mathbb𝐖Z𝐖𝐖.
+\{x𝐖\in𝐖\mathbb𝐖Z𝐖𝐖\colon𝐖𝐖\exists𝐖y𝐖\in𝐖\mathbb𝐖Z𝐖(x𝐖=2y𝐖\vee𝐖x𝐖=3y)\}
+A_2𝐖
+2𝐖.
+A_3𝐖
+A_n𝐖
 n
-n,
-n \ge 2 .
-\overline{A_2 \cup A_3 \cup A_4 \cup \cdots} .
-A \cup \overline{B}
-\overline{(A \cup B)}
-A \cap (B \cup C)
-(A \cap B) \cup C
-\overline{A} \cap B \cap \overline{C}
-(A \cup B) \setminus C
+n,𝐖
+n𝐖\ge𝐖2𝐖.
+\overline{A_2𝐖𝐖\cup𝐖A_3𝐖𝐖\cup𝐖A_4𝐖𝐖\cup𝐖\cdots𝐖}𝐖.
+A𝐖\cup𝐖\overline{B}
+\overline{(A𝐖\cup𝐖B)}
+A𝐖\cap𝐖(B𝐖\cup𝐖C)
+(A𝐖\cap𝐖B)𝐖\cup𝐖C
+\overline{A}𝐖\cap𝐖B𝐖\cap𝐖\overline{C}
+(A𝐖\cup𝐖B)𝐖\setminus𝐖C
 A
 B
-A =\{a, b, c, d\} .
-\mathcal P (A) .
-A =\{1, 2, \ldots, 10\} .
+A𝐖=\{a,𝐖b,𝐖c,𝐖d\}𝐖.
+\mathcal𝐖P𝐖(A)𝐖.
+A𝐖=\{1,𝐖2,𝐖\ldots𝐖,𝐖10\}𝐖.
 A
-A =\{1, 2, 3, 4, 5, 6\} .
-B \in \mathcal P (A)
-\{2, 3, 5\} \subseteq B .
-A
-B
-| A| =4,
-| B| =5,
-| A \cup B| =9 .
+A𝐖=\{1,𝐖2,𝐖3,𝐖4,𝐖5,𝐖6\}𝐖.
+B𝐖\in𝐖\mathcal𝐖P𝐖(A)
+\{2,𝐖3,𝐖5\}𝐖\subseteq𝐖B𝐖.
 A
 B
-| A| =3,
-| B| =4,
-| A \cup B| =5 .
+|𝐖A|𝐖=4,𝐖
+|𝐖B|𝐖=5,𝐖
+|𝐖A𝐖\cup𝐖B|𝐖=9𝐖.
 A
 B
-| A| =| B|,
-| A \cup B| =10,
-| A \cap B| =5 ?
-A =\{2, 4, 6, 8\} .
+|𝐖A|𝐖=3,𝐖
+|𝐖B|𝐖=4,𝐖
+|𝐖A𝐖\cup𝐖B|𝐖=5𝐖.
+A
 B
-| B| =5 .
-| A \cup B| ?
-| A \cap B| ?
-| A \times B| ?
-X =\{n \in \mathbb N \colon 10 \le n \lt 20\} .
-A \subseteq \mathbb N
-| A| =10
-X \setminus A =\{10, 12, 14\} .
-B \in \mathcal P (X)
-| B| =5 .
-C \subseteq \mathcal P (X)
-| C| =5 .
-D \subseteq X \times X
-| D| =5
-E \subseteq X
-| E| \in E .
-A,
+|𝐖A|𝐖=|𝐖B|,𝐖
+|𝐖A𝐖\cup𝐖B|𝐖=10,𝐖
+|𝐖A𝐖\cap𝐖B|𝐖=5𝐖?
+A𝐖=\{2,𝐖4,𝐖6,𝐖8\}𝐖.
+B
+|𝐖B|𝐖=5𝐖.
+|𝐖A𝐖\cup𝐖B|𝐖?
+|𝐖A𝐖\cap𝐖B|𝐖?
+|𝐖A𝐖\times𝐖B|𝐖?
+X𝐖=\{n𝐖\in𝐖\mathbb𝐖N𝐖𝐖\colon𝐖10𝐖\le𝐖n𝐖\lt𝐖20\}𝐖.
+A𝐖\subseteq𝐖\mathbb𝐖N𝐖
+|𝐖A|𝐖=10
+X𝐖\setminus𝐖A𝐖=\{10,𝐖12,𝐖14\}𝐖.
+B𝐖\in𝐖\mathcal𝐖P𝐖(X)
+|𝐖B|𝐖=5𝐖.
+C𝐖\subseteq𝐖\mathcal𝐖P𝐖(X)
+|𝐖C|𝐖=5𝐖.
+D𝐖\subseteq𝐖X𝐖\times𝐖X
+|𝐖D|𝐖=5
+E𝐖\subseteq𝐖X
+|𝐖E|𝐖\in𝐖E𝐖.
+A,𝐖
 B
 C
-A \subseteq B
-B \subseteq C .
-A \subseteq C ?
-A \subseteq C
-x,
-x \in A
-x \in C .
-A \in B
-B \in C .
-A \in C ?
-| A| =| B| =| C| =2 .
+A𝐖\subseteq𝐖B
+B𝐖\subseteq𝐖C𝐖.
+A𝐖\subseteq𝐖C𝐖?
+A𝐖\subseteq𝐖C
+x,𝐖
+x𝐖\in𝐖A
+x𝐖\in𝐖C𝐖.
+A𝐖\in𝐖B
+B𝐖\in𝐖C𝐖.
+A𝐖\in𝐖C𝐖?
+|𝐖A|𝐖=|𝐖B|𝐖=|𝐖C|𝐖=2𝐖.
 A
-| A| =3
-B \in A,
-B \subseteq A .
+|𝐖A|𝐖=3
+B𝐖\in𝐖A,𝐖
+B𝐖\subseteq𝐖A𝐖.
 A
-B,
-A =\{3, | B|\}
-B =\{1, | A|, | B|\} .
+B,𝐖
+A𝐖=\{3,𝐖|𝐖B|\}
+B𝐖=\{1,𝐖|𝐖A|,𝐖|𝐖B|\}𝐖.
 A
-A =\{2, | A|\} .
-A,
-B,
+A𝐖=\{2,𝐖|𝐖A|\}𝐖.
+A,𝐖
+B,𝐖
 C
-A = & \lt mi/>\{1, | B|, | C|\} \\ B = & \lt mi/>\{2, | A|, | C|\} \\ C = & \lt mi/>\{1, 2, | A|, | B|\} .
+A𝐖=𝐖&𝐖\lt𝐖mi/>\{1,𝐖|𝐖B|,𝐖|𝐖C|\}𝐖\\𝐖B𝐖=𝐖&𝐖\lt𝐖mi/>\{2,𝐖|𝐖A|,𝐖|𝐖C|\}𝐖\\𝐖C𝐖=𝐖&𝐖\lt𝐖mi/>\{1,𝐖2,𝐖|𝐖A|,𝐖|𝐖B|\}𝐖.
 10
 7
-n \ge 0
-0 \le k \le n
-\binom{n}{k} =\binom{n}{n -k} .
-n \ge 0,
-\sum_{k =0}^n \binom{n}{k} =2^n .
+n𝐖\ge𝐖0
+0𝐖\le𝐖k𝐖\le𝐖n
+\binom{n}{k}𝐖=\binom{n}{n𝐖-k}𝐖.
+n𝐖\ge𝐖0,𝐖
+\sum𝐖_{k𝐖=0}^n𝐖\binom{n}{k}𝐖=2^n𝐖𝐖.
 n
-2^n .
-\binom{n}{k} =\frac{n!}{k!(n -k)!},
-r! =r \cdot (r -1) \cdot (r -2) \cdot \cdots \cdot 2 \cdot 1
+2^n𝐖𝐖.
+\binom{n}{k}𝐖=\frac{n!}{k!(n𝐖-k)!},𝐖
+r!𝐖=r𝐖\cdot𝐖(r𝐖-1)𝐖\cdot𝐖(r𝐖-2)𝐖\cdot𝐖\cdots𝐖𝐖\cdot𝐖2𝐖\cdot𝐖1
 r
-\binom{n}{k} =\binom{n}{n -k} .
-\binom{n}{k} =\binom{n}{n -k}
-n \ge 0,
-n .
+\binom{n}{k}𝐖=\binom{n}{n𝐖-k}𝐖.
+\binom{n}{k}𝐖=\binom{n}{n𝐖-k}
+n𝐖\ge𝐖0,𝐖
+n𝐖.
 \binom{n}{k}
 n
 k
-\binom{n}{n -k} ?
-\binom{n}{k} =\binom{n}{n -k} ?
-[n] =\{1, 2, \ldots, n\}
-\mathcal P ([n])
-[n] .
-f \colon \mathcal P ([n]) \to \mathcal P ([n])
-f(A) =[n] \setminus A
-A \in \mathcal P ([n])
+\binom{n}{n𝐖-k}𝐖?
+\binom{n}{k}𝐖=\binom{n}{n𝐖-k}𝐖?
+[n]𝐖=\{1,𝐖2,𝐖\ldots𝐖,𝐖n\}
+\mathcal𝐖P𝐖([n])
+[n]𝐖.
+f𝐖\colon𝐖\mathcal𝐖P𝐖([n])𝐖\to𝐖\mathcal𝐖P𝐖([n])
+f(A)𝐖=[n]𝐖\setminus𝐖A
+A𝐖\in𝐖\mathcal𝐖P𝐖([n])
 f(A)
 A
 [n]
 f
 f
-A \in \mathcal P ([n]),
-| A| =k,
-| f(A)| ?
+A𝐖\in𝐖\mathcal𝐖P𝐖([n]),𝐖
+|𝐖A|𝐖=k,𝐖
+|𝐖f(A)|𝐖?
 f
 [n]
-k ?
-\binom{n}{k} =\binom{n}{n -k} ?
-\binom{n}{k} =\binom{n}{n -k} .
-\binom{n}{k} =\binom{n}{n -k}
-\binom{n}{k} =\frac{n!}{k!(n -k!)},
-\sum_{k =0}^n \binom{n}{k}
-2^n .
-\sum_{k =0}^n \binom{n}{k} =2^n
-n,
+k𝐖?
+\binom{n}{k}𝐖=\binom{n}{n𝐖-k}𝐖?
+\binom{n}{k}𝐖=\binom{n}{n𝐖-k}𝐖.
+\binom{n}{k}𝐖=\binom{n}{n𝐖-k}
+\binom{n}{k}𝐖=\frac{n!}{k!(n𝐖-k!)},𝐖
+\sum𝐖_{k𝐖=0}^n𝐖\binom{n}{k}
+2^n𝐖𝐖.
+\sum𝐖_{k𝐖=0}^n𝐖\binom{n}{k}𝐖=2^n𝐖
+n,𝐖
 [n]
-2^n .
-2^n
-[n] .
-2^n
+2^n𝐖𝐖.
+2^n𝐖
+[n]𝐖.
+2^n𝐖
 n
-2^n -1
+2^n𝐖𝐖-1
 n
-[n] .
-(x +y)^n .
-x =y =1 ?
+[n]𝐖.
+(x𝐖+y)^n𝐖𝐖.
+x𝐖=y𝐖=1𝐖?
 A
 m
 B
 n
 A
 B
-m +n
+m𝐖+n
 A
 m
 A
@@ -3604,52 +3604,52 @@ A
 B
 A
 B
-m \cdot n
+m𝐖\cdot𝐖n
 A
 B
-A \cap B =\varnothing
-| A \cup B| =| A| +| B| .
-A \times B =\{(a, b) \colon a \in A, b \in B\}
+A𝐖\cap𝐖B𝐖=\varnothing𝐖
+|𝐖A𝐖\cup𝐖B|𝐖=|𝐖A|𝐖+|𝐖B|𝐖.
+A𝐖\times𝐖B𝐖=\{(a,𝐖b)𝐖\colon𝐖a𝐖\in𝐖A,𝐖b𝐖\in𝐖B\}
 A
-B;
+B;𝐖
 A
-B .
-A
-B
-| A \times B| =| A| \cdot | B|
+B𝐖.
 A
 B
-A \times B,
-4 \cdot 5 =20
-A ?
-B ?
+|𝐖A𝐖\times𝐖B|𝐖=|𝐖A|𝐖\cdot𝐖|𝐖B|
+A
+B
+A𝐖\times𝐖B,𝐖
+4𝐖\cdot𝐖5𝐖=20
+A𝐖?
+B𝐖?
 A
 B
 A
 B
-A \times B .
-(0, 0)
-(x, y)
-\binom{x +y}{x} .
-(0, 0)
-(10, 10)
-(4, 7) ?
-(0, 0)
-(10, 10)
-(4, 7) ?
-(0, 0)
-(10, 10)
-(4, 7)
-(7, 4) ?
-(0, 0)
-(10, 10)
-(4, 7)
-(7, 8) ?
+A𝐖\times𝐖B𝐖.
+(0,𝐖0)
+(x,𝐖y)
+\binom{x𝐖+y}{x}𝐖.
+(0,𝐖0)
+(10,𝐖10)
+(4,𝐖7)𝐖?
+(0,𝐖0)
+(10,𝐖10)
+(4,𝐖7)𝐖?
+(0,𝐖0)
+(10,𝐖10)
+(4,𝐖7)
+(7,𝐖4)𝐖?
+(0,𝐖0)
+(10,𝐖10)
+(4,𝐖7)
+(7,𝐖8)𝐖?
 A
 B
-| A \cup B| =| A| +| B| -| A \cap B| .
+|𝐖A𝐖\cup𝐖B|𝐖=|𝐖A|𝐖+|𝐖B|𝐖-|𝐖A𝐖\cap𝐖B|𝐖.
 n
-k,
+k,𝐖
 S
 n
 2n
@@ -3658,10 +3658,10 @@ n
 n
 k
 n
-k \le n,
+k𝐖\le𝐖n,𝐖
 k
 n
-k >n ?
+k𝐖>n𝐖?
 k
 n
 n!
@@ -3669,249 +3669,249 @@ n
 n!
 n
 k
-\mathbit k
-\mathbit n
-P(n, k)
+\mathbit𝐖k𝐖
+\mathbit𝐖n𝐖
+P(n,𝐖k)
 k
 n
 k
 n
-P(n, k) =n \cdot (n -1) \cdot (n -2) \cdot \cdots \cdot (n -k +1) =\frac{n!}{(n -k)!} .
-26 \cdot 25 \cdot 24 \cdot 23 \cdot 22 =P(26, 5)
-P(52, 52) =52!
+P(n,𝐖k)𝐖=n𝐖\cdot𝐖(n𝐖-1)𝐖\cdot𝐖(n𝐖-2)𝐖\cdot𝐖\cdots𝐖𝐖\cdot𝐖(n𝐖-k𝐖+1)𝐖=\frac{n!}{(n𝐖-k)!}𝐖.
+26𝐖\cdot𝐖25𝐖\cdot𝐖24𝐖\cdot𝐖23𝐖\cdot𝐖22𝐖=P(26,𝐖5)
+P(52,𝐖52)𝐖=52!
 [k]
 [n]
 n
-n -1
+n𝐖-1
 2
-P(n, k) .
+P(n,𝐖k)𝐖.
 k
 n
-\binom{n}{k} .
+\binom{n}{k}𝐖.
 k
 n
 k
-P(26, 5) .
-\binom{26}{5} \cdot 5! .
-P(26, 5)
-\binom{26}{5} .
-P(n, k) =\binom{n}{k} \cdot k!,
-\binom{n}{k} =\frac{n!}{(n -k)! \cdot k!} .
-P(n, k) =\binom{n}{k} \cdot k!,
-(x +1)^n =(x +1)^{n -1} +x(x +1)^{n -1}
-\binom{n}{k} =\frac{n!}{(n -k)!k!} .
-\binom{2n}{2} =2\binom{n}{2} +n^2 .
-\binom{n}{k} .
-\binom{m +n}{2} -\binom{m}{2} -\binom{n}{2} =mn .
-\binom{a +b +c}{3}
-\binom{n}{0} +\binom{n}{1} +\binom{n}{2} +\ldots +\binom{n}{n} =2^n .
-2^9 -1 .
-\binom{n}{1} +2\binom{n}{2} +3\binom{n}{3} +\ldots +n\binom{n}{n} =n2^{n -1} .
-n2^{n -1}
-(1 +x)^n;
-k\binom{n}{k} =n\binom{n -1}{k -1}
-\binom{n}{k} =\binom{n -1}{k -1} +\binom{n -1}{k} .
+P(26,𝐖5)𝐖.
+\binom{26}{5}𝐖\cdot𝐖5!𝐖.
+P(26,𝐖5)
+\binom{26}{5}𝐖.
+P(n,𝐖k)𝐖=\binom{n}{k}𝐖\cdot𝐖k!,𝐖
+\binom{n}{k}𝐖=\frac{n!}{(n𝐖-k)!𝐖\cdot𝐖k!}𝐖.
+P(n,𝐖k)𝐖=\binom{n}{k}𝐖\cdot𝐖k!,𝐖
+(x𝐖+1)^n𝐖𝐖=(x𝐖+1)^{n𝐖-1}𝐖𝐖+x(x𝐖+1)^{n𝐖-1}𝐖
+\binom{n}{k}𝐖=\frac{n!}{(n𝐖-k)!k!}𝐖.
+\binom{2n}{2}𝐖=2\binom{n}{2}𝐖+n^2𝐖𝐖.
+\binom{n}{k}𝐖.
+\binom{m𝐖+n}{2}𝐖-\binom{m}{2}𝐖-\binom{n}{2}𝐖=mn𝐖.
+\binom{a𝐖+b𝐖+c}{3}
+\binom{n}{0}𝐖+\binom{n}{1}𝐖+\binom{n}{2}𝐖+\ldots𝐖𝐖+\binom{n}{n}𝐖=2^n𝐖𝐖.
+2^9𝐖𝐖-1𝐖.
+\binom{n}{1}𝐖+2\binom{n}{2}𝐖+3\binom{n}{3}𝐖+\ldots𝐖𝐖+n\binom{n}{n}𝐖=n2^{n𝐖-1}𝐖𝐖.
+n2^{n𝐖-1}𝐖
+(1𝐖+x)^n𝐖;𝐖
+k\binom{n}{k}𝐖=n\binom{n𝐖-1}{k𝐖-1}
+\binom{n}{k}𝐖=\binom{n𝐖-1}{k𝐖-1}𝐖+\binom{n𝐖-1}{k}𝐖.
 [4]
-3, 1, 4, 2,
-3, 2, 4, 1
+3,𝐖1,𝐖4,𝐖2,𝐖
+3,𝐖2,𝐖4,𝐖1
 2
-d_n
-[n] .
-d_0 =1
-d_1 =0 .
-d_n =(n -1)(d_{n -1} +d_{n -2})
-n \ge 2 .
-d_n
-d_n =nd_{n -1} +( -1)^n,
-\binom{n}{0}^2 +\binom{n}{1}^2 +\binom{n}{2}^2 +\ldots +\binom{n}{n}^2 =\binom{2n}{n} .
-\binom{n}{1}^2 +2\binom{n}{2}^2 +3\binom{n}{3}^2 +\cdots +n\binom{n}{n}^2 .
-\binom{2}{2} +\binom{3}{2} +\binom{4}{2} +\ldots +\binom{n}{2} =\binom{n +1}{3} .
-1 \cdot n +2 \cdot (n -1) +3 \cdot (n -2) +\cdots +n \cdot 1 =\binom{n +2}{3}
-[n +2] .
-[n +3]
-1 \cdot 1! +2 \cdot 2! +3 \cdot 3! +\ldots +n \cdot n! =(n +1)! -1 .
-1 \cdot 1! +2 \cdot 2! +\cdots +n \cdot n!,
-(n +1)! -n! =n \cdot n!
+d_n𝐖
+[n]𝐖.
+d_0𝐖𝐖=1
+d_1𝐖𝐖=0𝐖.
+d_n𝐖𝐖=(n𝐖-1)(d_{n𝐖-1}𝐖𝐖+d_{n𝐖-2}𝐖)
+n𝐖\ge𝐖2𝐖.
+d_n𝐖
+d_n𝐖𝐖=nd_{n𝐖-1}𝐖𝐖+(𝐖-1)^n𝐖,𝐖
+\binom{n}{0}^2𝐖𝐖+\binom{n}{1}^2𝐖𝐖+\binom{n}{2}^2𝐖𝐖+\ldots𝐖𝐖+\binom{n}{n}^2𝐖𝐖=\binom{2n}{n}𝐖.
+\binom{n}{1}^2𝐖𝐖+2\binom{n}{2}^2𝐖𝐖+3\binom{n}{3}^2𝐖𝐖+\cdots𝐖𝐖+n\binom{n}{n}^2𝐖𝐖.
+\binom{2}{2}𝐖+\binom{3}{2}𝐖+\binom{4}{2}𝐖+\ldots𝐖𝐖+\binom{n}{2}𝐖=\binom{n𝐖+1}{3}𝐖.
+1𝐖\cdot𝐖n𝐖+2𝐖\cdot𝐖(n𝐖-1)𝐖+3𝐖\cdot𝐖(n𝐖-2)𝐖+\cdots𝐖𝐖+n𝐖\cdot𝐖1𝐖=\binom{n𝐖+2}{3}
+[n𝐖+2]𝐖.
+[n𝐖+3]
+1𝐖\cdot𝐖1!𝐖+2𝐖\cdot𝐖2!𝐖+3𝐖\cdot𝐖3!𝐖+\ldots𝐖𝐖+n𝐖\cdot𝐖n!𝐖=(n𝐖+1)!𝐖-1𝐖.
+1𝐖\cdot𝐖1!𝐖+2𝐖\cdot𝐖2!𝐖+\cdots𝐖𝐖+n𝐖\cdot𝐖n!,𝐖
+(n𝐖+1)!𝐖-n!𝐖=n𝐖\cdot𝐖n!
 n!
-(2! -1!) +(3! -2!) +\cdots +((n +1)! -n!) =(n +1)! -1 .
-k\binom{n}{k} =n\binom{n -1}{k -1} .
-\binom{n}{0}d_0 +\binom{n}{1}d_1 +\binom{n}{2}d_2 +\ldots +\binom{n}{n}d_n =n!
-d_n
+(2!𝐖-1!)𝐖+(3!𝐖-2!)𝐖+\cdots𝐖𝐖+((n𝐖+1)!𝐖-n!)𝐖=(n𝐖+1)!𝐖-1𝐖.
+k\binom{n}{k}𝐖=n\binom{n𝐖-1}{k𝐖-1}𝐖.
+\binom{n}{0}d_0𝐖𝐖+\binom{n}{1}d_1𝐖𝐖+\binom{n}{2}d_2𝐖𝐖+\ldots𝐖𝐖+\binom{n}{n}d_n𝐖𝐖=n!
+d_n𝐖
 n
-d_0 =1, d_1 =0 .
-\binom{m +n}{2} -\binom{m}{2} -\binom{n}{2} =mn .
+d_0𝐖𝐖=1,𝐖d_1𝐖𝐖=0𝐖.
+\binom{m𝐖+n}{2}𝐖-\binom{m}{2}𝐖-\binom{n}{2}𝐖=mn𝐖.
 x
 y
 m
 n
 mn
-m +n
-\binom{m +n}{2}
+m𝐖+n
+\binom{m𝐖+n}{2}
 m
-n,
-\binom{m +n}{2} -\binom{m}{2} -\binom{n}{2} =mn .
+n,𝐖
+\binom{m𝐖+n}{2}𝐖-\binom{m}{2}𝐖-\binom{n}{2}𝐖=mn𝐖.
 mn
 m
 n
-\binom{m +n}{2} -\binom{m}{2} -\binom{n}{2} =mn .
+\binom{m𝐖+n}{2}𝐖-\binom{m}{2}𝐖-\binom{n}{2}𝐖=mn𝐖.
 m
 n
 m
 \binom{m}{2}
 n
 \binom{n}{2}
-mn .
-\binom{m +n}{2}
-\binom{m}{2} +\binom{n}{2} +mn =\binom{m +n}{2} .
-m =3
-n =5 \colon
-\binom{3}{2} =3
-\binom{5}{2} =10
+mn𝐖.
+\binom{m𝐖+n}{2}
+\binom{m}{2}𝐖+\binom{n}{2}𝐖+mn𝐖=\binom{m𝐖+n}{2}𝐖.
+m𝐖=3
+n𝐖=5𝐖\colon𝐖
+\binom{3}{2}𝐖=3
+\binom{5}{2}𝐖=10
 \binom{8}{2}
-n^2 =\binom{n}{2} +\binom{n +1}{2} .
-1^2 +2^2 +3^2 +\cdots +n^2 =\binom{n +2}{3} +\binom{n +1}{3} .
-1^2 +3^2 +5^2 +\cdots +n^2 =\binom{n +2}{3}
-n .
+n^2𝐖𝐖=\binom{n}{2}𝐖+\binom{n𝐖+1}{2}𝐖.
+1^2𝐖𝐖+2^2𝐖𝐖+3^2𝐖𝐖+\cdots𝐖𝐖+n^2𝐖𝐖=\binom{n𝐖+2}{3}𝐖+\binom{n𝐖+1}{3}𝐖.
+1^2𝐖𝐖+3^2𝐖𝐖+5^2𝐖𝐖+\cdots𝐖𝐖+n^2𝐖𝐖=\binom{n𝐖+2}{3}
+n𝐖.
 n
-n +1
-1 \cdot n^2 +2(n -1)^2 +3(n -2)^2 +\cdots +n \cdot 1^2 =\binom{n +2}{4} +\binom{n +3}{4} .
+n𝐖+1
+1𝐖\cdot𝐖n^2𝐖𝐖+2(n𝐖-1)^2𝐖𝐖+3(n𝐖-2)^2𝐖𝐖+\cdots𝐖𝐖+n𝐖\cdot𝐖1^2𝐖𝐖=\binom{n𝐖+2}{4}𝐖+\binom{n𝐖+3}{4}𝐖.
 v
 e
 f
-(v, e, f)
-K_4
-(4, 6, 4) .
-(v, e, f) .
-(5, 9, 6) ?
-(5, 7, 5) ?
-(v, e, f)
-P_1
-(v, e, f) ?
-P_2 ?
-v,
-e,
+(v,𝐖e,𝐖f)
+K_4𝐖
+(4,𝐖6,𝐖4)𝐖.
+(v,𝐖e,𝐖f)𝐖.
+(5,𝐖9,𝐖6)𝐖?
+(5,𝐖7,𝐖5)𝐖?
+(v,𝐖e,𝐖f)
+P_1𝐖
+(v,𝐖e,𝐖f)𝐖?
+P_2𝐖𝐖?
+v,𝐖
+e,𝐖
 f
-P_2
-P_3
-(v, e, f) ?
-(a, b, c)
-G .
-G .
-v,
-e,
+P_2𝐖
+P_3𝐖
+(v,𝐖e,𝐖f)𝐖?
+(a,𝐖b,𝐖c)
+G𝐖.
+G𝐖.
+v,𝐖
+e,𝐖
 f
-(v, e, f)
-(v +1, e +1, f)
-(v, e +1, f +1) .
-e =v +f ?
-P_1
-1 =2 +1,
-v +f -e
-P_1,
-2 +1 -1 =2 .
+(v,𝐖e,𝐖f)
+(v𝐖+1,𝐖e𝐖+1,𝐖f)
+(v,𝐖e𝐖+1,𝐖f𝐖+1)𝐖.
+e𝐖=v𝐖+f𝐖?
+P_1𝐖
+1𝐖=2𝐖+1,𝐖
+v𝐖+f𝐖-e
+P_1𝐖,𝐖
+2𝐖+1𝐖-1𝐖=2𝐖.
 v
 e
 f
-v -e +f =2
-v -e +f =2
-6^n ?
-6^{217}
-6^{218}
-6^{217}
+v𝐖-e𝐖+f𝐖=2
+v𝐖-e𝐖+f𝐖=2
+6^n𝐖𝐖?
+6^{217}𝐖
+6^{218}𝐖
+6^{217}𝐖
 n
-6^n
-n \ge 1,
-6^n =6^{n -1} \cdot 6 .
-6^{n -1}
-x \cdot 6
-x,
-6 \cdot 6
-6^{n -1} ?
+6^n𝐖
+n𝐖\ge𝐖1,𝐖
+6^n𝐖𝐖=6^{n𝐖-1}𝐖𝐖\cdot𝐖6𝐖.
+6^{n𝐖-1}𝐖
+x𝐖\cdot𝐖6
+x,𝐖
+6𝐖\cdot𝐖6
+6^{n𝐖-1}𝐖𝐖?
 P(n)
-n \ge 0 .
+n𝐖\ge𝐖0𝐖.
 P(0)
-k,
-P(k -1)
+k,𝐖
+P(k𝐖-1)
 P(k)
-\forall k(P(k) \to P(k +1)) .
-k \ge 1
-P(0) \to P(1) \\ P(1) \to P(2) \\ P(2) \to P(3) \\ \vdots
+𝐖\forall𝐖k(P(k)𝐖\to𝐖P(k𝐖+1))𝐖.
+k𝐖\ge𝐖1
+P(0)𝐖\to𝐖P(1)𝐖\\𝐖P(1)𝐖\to𝐖P(2)𝐖\\𝐖P(2)𝐖\to𝐖P(3)𝐖\\𝐖\vdots𝐖
 P(n)
-n ?
-n .
-n =3 .
+n𝐖?
+n𝐖.
+n𝐖=3𝐖.
 P(0)
-P(0) \to P(1)
-P(1) .
+P(0)𝐖\to𝐖P(1)
+P(1)𝐖.
 P(1)
-P(1) \to P(2),
-P(2) .
+P(1)𝐖\to𝐖P(2),𝐖
+P(2)𝐖.
 P(2)
-P(2) \to P(3),
-P(3) .
-n,
+P(2)𝐖\to𝐖P(3),𝐖
+P(3)𝐖.
+n,𝐖
 n
 n
 P(n)
 P(0)
-n \ge 0,
-P(n) \to P(n +1) .
+n𝐖\ge𝐖0,𝐖
+P(n)𝐖\to𝐖P(n𝐖+1)𝐖.
 P(0)
-n \ge 0,
-n^2 +n
-n,
-n .
-n \ge 0,
+n𝐖\ge𝐖0,𝐖
+n^2𝐖𝐖+n
+n,𝐖
+n𝐖.
+n𝐖\ge𝐖0,𝐖
 n
 n
 n
-n +1
-n +1
+n𝐖+1
+n𝐖+1
 n
-v =n
-e =n -1
+v𝐖=n
+e𝐖=n𝐖-1
 T
 n
-n -1
-n -2
+n𝐖-1
+n𝐖-2
 T
-n -1
+n𝐖-1
 e
-G,
-G -e .
+G,𝐖
+G𝐖-e𝐖.
 G/e
 G
 e
 G
-e =\{u, v\},
+e𝐖=\{u,𝐖v\},𝐖
 G/e
 u
 v
 E
 E
 u
-v .
+v𝐖.
 G/e
 u
 v
 G
 u
-v,
+v,𝐖
 E
 G
 v
 e
 f
-e_0
-G .
-e_0
-v -e +f ?
-e_0
-e_0
-v -e +f
+e_0𝐖
+G𝐖.
+e_0𝐖
+v𝐖-e𝐖+f𝐖?
+e_0𝐖
+e_0𝐖
+v𝐖-e𝐖+f
 M
 M
-G .
+G𝐖.
 A
 B
 A
@@ -3920,420 +3920,420 @@ A
 B
 G
 G
-| A| =| B|,
-\mathbit A
+|𝐖A|𝐖=|𝐖B|,𝐖
+\mathbit𝐖A𝐖
 A
 A
 B
-a \in A
-b \in B
+a𝐖\in𝐖A
+b𝐖\in𝐖B
 a
-b .
-A \colon
-A ?
+b𝐖.
+A𝐖\colon𝐖
+A𝐖?
 G
 A
 B
 n
-n -1
-n,
+n𝐖-1
+n,𝐖
 n
-S \subseteq A
+S𝐖\subseteq𝐖A
 N(S)
-S .
+S𝐖.
 N(S)
 B
-S .
+S𝐖.
 N(S)
-S .
-G =\{A, B\}
-A,
-| N(S)| \ge | S|
-S \subseteq A .
+S𝐖.
+G𝐖=\{A,𝐖B\}
+A,𝐖
+|𝐖N(S)|𝐖\ge𝐖|𝐖S|
+S𝐖\subseteq𝐖A𝐖.
 G
-| N(S)| \ge | S|
-S \subseteq A
-G
-A
-B .
+|𝐖N(S)|𝐖\ge𝐖|𝐖S|
+S𝐖\subseteq𝐖A
 G
 A
-| N(S)| \ge | S|
-S \subseteq A .
+B𝐖.
+G
+A
+|𝐖N(S)|𝐖\ge𝐖|𝐖S|
+S𝐖\subseteq𝐖A𝐖.
 M
 G
-a \in A
-a .
+a𝐖\in𝐖A
+a𝐖.
 a
-A .
+A𝐖.
 A'
-S =A' \cup \{a\} .
-b \in B
+S𝐖=A'𝐖\cup𝐖\{a\}𝐖.
+b𝐖\in𝐖B
 S
 n
-K_n
-| V|
-| V|
-| N(S)| \ge | S|
-S \subseteq V,
-6 \times 6
-(4x +2x^2)(2x +4x^2) .
-\textquotesingle \backslash x00200b\textquotesingle x
-\textquotesingle \backslash x00200b\textquotesingle x^2
-x^3
-x^4
-x^5
-x^6
+K_n𝐖
+|𝐖V|
+|𝐖V|
+|𝐖N(S)|𝐖\ge𝐖|𝐖S|
+S𝐖\subseteq𝐖V,𝐖
+6𝐖\times𝐖6
+(4x𝐖+2x^2𝐖)(2x𝐖+4x^2𝐖)𝐖.
+𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖x
+𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖x^2𝐖
+x^3𝐖
+x^4𝐖
+x^5𝐖
+x^6𝐖
 x
-x^2
-x^3
-x^4
-x^5
-x^6
-(x +x^2 +\cdots +x^6)^2
-x +x^2 +x^3 +x^4 +x^5 +x^6 =x(1 +x +x^2)(1 +x)(1 -x +x^2) .
-x(x +1)(x^2 +x +1)
-x(x +1)(x^2 +x +1)(x^2 -x +1)^2 .
-x^7 .
-(1 +x +x^2 +x^3 +\cdots)(1 +x +x^2 +x^3 +\cdots) .
-(1 +x +x^2 +x^3 +\cdots)(x +2x^2 +3x^3 +4x^4 +\cdots) .
-\textquotesingle \backslash y01f34e\textquotesingle \textquotesingle \backslash y01f34e\textquotesingle \textquotesingle \backslash y01f34e\textquotesingle +\textquotesingle \backslash y01f350\textquotesingle \textquotesingle \backslash y01f350\textquotesingle \textquotesingle \backslash y01f350\textquotesingle +\textquotesingle \backslash y01f34c\textquotesingle \textquotesingle \backslash y01f34c\textquotesingle \textquotesingle \backslash y01f34c\textquotesingle +\textquotesingle \backslash y01f34e\textquotesingle \textquotesingle \backslash y01f34e\textquotesingle \textquotesingle \backslash y01f350\textquotesingle +\textquotesingle \backslash y01f34e\textquotesingle \textquotesingle \backslash y01f34e\textquotesingle \textquotesingle \backslash y01f34c\textquotesingle +\textquotesingle \backslash y01f34e\textquotesingle \textquotesingle \backslash y01f350\textquotesingle \textquotesingle \backslash y01f350\textquotesingle +\textquotesingle \backslash y01f350\textquotesingle \textquotesingle \backslash y01f350\textquotesingle \textquotesingle \backslash y01f34c\textquotesingle +\textquotesingle \backslash y01f34e\textquotesingle \textquotesingle \backslash y01f34c\textquotesingle \textquotesingle \backslash y01f34c\textquotesingle +\textquotesingle \backslash y01f350\textquotesingle \textquotesingle \backslash y01f34c\textquotesingle \textquotesingle \backslash y01f34c\textquotesingle +\textquotesingle \backslash y01f34e\textquotesingle \textquotesingle \backslash y01f350\textquotesingle \textquotesingle \backslash y01f34c\textquotesingle .
-\textquotesingle \backslash y01f34e\textquotesingle
-\textquotesingle \backslash y01f34e\textquotesingle \textquotesingle \backslash y01f350\textquotesingle
-\textquotesingle \backslash y01f34e\textquotesingle \textquotesingle \backslash y01f34e\textquotesingle
-\textquotesingle \backslash y01f34e\textquotesingle +\textquotesingle \backslash y01f34c\textquotesingle
-\textquotesingle \backslash y01f34e\textquotesingle \textquotesingle \backslash y01f34c\textquotesingle .
-\textquotesingle \backslash y01f34e\textquotesingle^3 +\textquotesingle \backslash y01f350\textquotesingle^3 +\textquotesingle \backslash y01f34c\textquotesingle^3 +\textquotesingle \backslash y01f34e\textquotesingle^2 \textquotesingle \backslash y01f350\textquotesingle +\textquotesingle \backslash y01f34e\textquotesingle^2 \textquotesingle \backslash y01f34c\textquotesingle +\textquotesingle \backslash y01f34e\textquotesingle \textquotesingle \backslash y01f350\textquotesingle^2 +\textquotesingle \backslash y01f350\textquotesingle^2 \textquotesingle \backslash y01f34c\textquotesingle +\textquotesingle \backslash y01f34e\textquotesingle \textquotesingle \backslash y01f34c\textquotesingle^2 +\textquotesingle \backslash y01f350\textquotesingle \textquotesingle \backslash y01f34c\textquotesingle^2 +\textquotesingle \backslash y01f34e\textquotesingle \textquotesingle \backslash y01f350\textquotesingle \textquotesingle \backslash y01f34c\textquotesingle .
-\textquotesingle \backslash y01f34e\textquotesingle^3
-\textquotesingle \backslash y01f34e\textquotesingle^2 \textquotesingle \backslash y01f34c\textquotesingle
-\{\textquotesingle \backslash y01f34e\textquotesingle, \textquotesingle \backslash y01f350\textquotesingle, \textquotesingle \backslash y01f34c\textquotesingle \} .
-\textquotesingle \backslash y01f34e\textquotesingle \textquotesingle \backslash y01f350\textquotesingle \textquotesingle \backslash y01f34c\textquotesingle & \lt mi/> +\textquotesingle \backslash y01f34e\textquotesingle^2 \textquotesingle \backslash y01f350\textquotesingle \textquotesingle \backslash y01f34c\textquotesingle & +\cdots & \lt mi/> +\textquotesingle \backslash y01f34e\textquotesingle^2 \textquotesingle \backslash y01f350\textquotesingle^2 \textquotesingle \backslash y01f34c\textquotesingle & +\cdots & \lt mi/> +\textquotesingle \backslash y01f34e\textquotesingle^2 \textquotesingle \backslash y01f350\textquotesingle^2 \textquotesingle \backslash y01f34c\textquotesingle^2 \\ (2.3) & \~ & \lt mi/> +\textquotesingle \backslash y01f34e\textquotesingle^3 \textquotesingle \backslash y01f350\textquotesingle \textquotesingle \backslash y01f34c\textquotesingle & +\cdots & \lt mi/> +\textquotesingle \backslash y01f34e\textquotesingle^3 \textquotesingle \backslash y01f350\textquotesingle^2 \textquotesingle \backslash y01f34c\textquotesingle & +\cdots & \lt mi/> +\textquotesingle \backslash y01f34e\textquotesingle^3 \textquotesingle \backslash y01f350\textquotesingle^2 \textquotesingle \backslash y01f34c\textquotesingle^2 .
+x^2𝐖
+x^3𝐖
+x^4𝐖
+x^5𝐖
+x^6𝐖
+(x𝐖+x^2𝐖𝐖+\cdots𝐖𝐖+x^6𝐖)^2𝐖
+x𝐖+x^2𝐖𝐖+x^3𝐖𝐖+x^4𝐖𝐖+x^5𝐖𝐖+x^6𝐖𝐖=x(1𝐖+x𝐖+x^2𝐖)(1𝐖+x)(1𝐖-x𝐖+x^2𝐖)𝐖.
+x(x𝐖+1)(x^2𝐖𝐖+x𝐖+1)
+x(x𝐖+1)(x^2𝐖𝐖+x𝐖+1)(x^2𝐖𝐖-x𝐖+1)^2𝐖𝐖.
+x^7𝐖𝐖.
+(1𝐖+x𝐖+x^2𝐖𝐖+x^3𝐖𝐖+\cdots𝐖)(1𝐖+x𝐖+x^2𝐖𝐖+x^3𝐖𝐖+\cdots𝐖)𝐖.
+(1𝐖+x𝐖+x^2𝐖𝐖+x^3𝐖𝐖+\cdots𝐖)(x𝐖+2x^2𝐖𝐖+3x^3𝐖𝐖+4x^4𝐖𝐖+\cdots𝐖)𝐖.
+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖𝐖.
+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖
+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖
+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖
+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖
+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖𝐖.
+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖^3𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖^3𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖^3𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖^2𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖^2𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖^2𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖^2𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖^2𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖^2𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖𝐖.
+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖^3𝐖
+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖^2𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖
+\{\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖,𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖,𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖\}𝐖.
+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖𝐖&𝐖\lt𝐖mi/>𝐖+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖^2𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖𝐖&𝐖𝐖+\cdots𝐖𝐖&𝐖\lt𝐖mi/>𝐖+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖^2𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖^2𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖𝐖&𝐖𝐖+\cdots𝐖𝐖&𝐖\lt𝐖mi/>𝐖+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖^2𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖^2𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖^2𝐖𝐖\\𝐖(2.3)𝐖&𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖^3𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖𝐖&𝐖𝐖+\cdots𝐖𝐖&𝐖\lt𝐖mi/>𝐖+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖^3𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖^2𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖𝐖&𝐖𝐖+\cdots𝐖𝐖&𝐖\lt𝐖mi/>𝐖+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖^3𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖^2𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖^2𝐖𝐖.
 A
 P
 B
-(A +A^2 +A^3)(P +P^2)(B +B^2)
+(A𝐖+A^2𝐖𝐖+A^3𝐖)(P𝐖+P^2𝐖)(B𝐖+B^2𝐖)
 x
-A,
+A,𝐖
 P
 B
-x .
-x^n .
-(2.4) & (\textquotesingle \backslash y01f34e\textquotesingle +\textquotesingle \backslash y01f34e\textquotesingle^2 +\textquotesingle \backslash y01f34e\textquotesingle^3)(\textquotesingle \backslash y01f350\textquotesingle +\textquotesingle \backslash y01f350\textquotesingle^2)(\textquotesingle \backslash y01f34c\textquotesingle +\textquotesingle \backslash y01f34c\textquotesingle^2) .
-\{\textquotesingle \backslash y01f34e\textquotesingle, \textquotesingle \backslash y01f350\textquotesingle, \textquotesingle \backslash y01f34c\textquotesingle \}
-\textquotesingle \backslash y01f34e\textquotesingle
-\textquotesingle \backslash y01f350\textquotesingle
-\textquotesingle \backslash y01f34c\textquotesingle
+x𝐖.
+x^n𝐖𝐖.
+(2.4)𝐖&𝐖(\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖^2𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖^3𝐖)(\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖^2𝐖)(\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖𝐖+\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖^2𝐖)𝐖.
+\{\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖,𝐖\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖,𝐖\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖\}
+\textquotesingle𝐖\backslash𝐖y01f34e\textquotesingle𝐖
+\textquotesingle𝐖\backslash𝐖y01f350\textquotesingle𝐖
+\textquotesingle𝐖\backslash𝐖y01f34c\textquotesingle𝐖
 P(s)
 s
 S
 P
 S
-E_P (S) =\sum_{s \colon s \in S} P(s) .
+E_P𝐖(S)𝐖=\sum𝐖_{s𝐖\colon𝐖s𝐖\in𝐖S}𝐖P(s)𝐖.
 S
 A
-A^2
-P^3
-A^2 P^3
-S_1
-S_2
-P_1
-P_2
-(x_1, x_2) \in S_1 \times S_2
-P((x_1, x_2)) =P_1 (x_1)P_2 (x_2),
+A^2𝐖
+P^3𝐖
+A^2𝐖P^3𝐖
+S_1𝐖
+S_2𝐖
+P_1𝐖
+P_2𝐖
+(x_1𝐖,𝐖x_2𝐖)𝐖\in𝐖S_1𝐖𝐖\times𝐖S_2𝐖
+P((x_1𝐖,𝐖x_2𝐖))𝐖=P_1𝐖(x_1𝐖)P_2𝐖(x_2𝐖),𝐖
 P
-S_1 \times S_2
-E_{P_1} (S_1)E_{P_2} (S_2) .
+S_1𝐖𝐖\times𝐖S_2𝐖
+E_{P_1𝐖}𝐖(S_1𝐖)E_{P_2𝐖}𝐖(S_2𝐖)𝐖.
 x
-x^n
+x^n𝐖
 n
-A,
-P,
+A,𝐖
+P,𝐖
 B
-x^n
+x^n𝐖
 n
-A,
-P,
+A,𝐖
+P,𝐖
 B
-x^n
+x^n𝐖
 n
-\{1, 2, \ldots, n\} .
-x_1
+\{1,𝐖2,𝐖\ldots𝐖,𝐖n\}𝐖.
+x_1𝐖
 i
-n,
-x_i
+n,𝐖
+x_i𝐖
 i
 i
 i
-[n] ?
-x_i
+[n]𝐖?
+x_i𝐖
 x
-x^k
+x^k𝐖
 k
-n ?
-(1 +x)^n
+n𝐖?
+(1𝐖+x)^n𝐖
 \binom{n}{k}
-x^k
-(1 +x)^n .
-(1 +x)^n
-\binom{n}{k} .
-a_i,
+x^k𝐖
+(1𝐖+x)^n𝐖𝐖.
+(1𝐖+x)^n𝐖
+\binom{n}{k}𝐖.
+a_i𝐖,𝐖
 i
-0 \le i \le n
-\sum_{i =0}^n a_i x^i =a_0 +a_1 x +a_2 x^2 +\cdots +a_n x^n,
-a_i
-i \ge 0
-\sum_{i =0}^\infty a_i x^i .
-1, 2, 4, 8, \ldots
-1 +2x +4x^2 +8x^3 +\cdots
-1 +(2x) +(2x)^2 +(2x)^3 +\cdots =\frac{1}{1 -2x} .
-1, 3, 5, 7, \ldots
-1 +3x +5x^2 +7x^3 +\cdots =\frac{1 +x}{(1 -x)^2} .
-y +1
+0𝐖\le𝐖i𝐖\le𝐖n
+\sum𝐖_{i𝐖=0}^n𝐖a_i𝐖x^i𝐖𝐖=a_0𝐖𝐖+a_1𝐖x𝐖+a_2𝐖x^2𝐖𝐖+\cdots𝐖𝐖+a_n𝐖x^n𝐖,𝐖
+a_i𝐖
+i𝐖\ge𝐖0
+\sum𝐖_{i𝐖=0}^\infty𝐖𝐖a_i𝐖x^i𝐖𝐖.
+1,𝐖2,𝐖4,𝐖8,𝐖\ldots𝐖
+1𝐖+2x𝐖+4x^2𝐖𝐖+8x^3𝐖𝐖+\cdots𝐖
+1𝐖+(2x)𝐖+(2x)^2𝐖𝐖+(2x)^3𝐖𝐖+\cdots𝐖𝐖=\frac{1}{1𝐖-2x}𝐖.
+1,𝐖3,𝐖5,𝐖7,𝐖\ldots𝐖
+1𝐖+3x𝐖+5x^2𝐖𝐖+7x^3𝐖𝐖+\cdots𝐖𝐖=\frac{1𝐖+x}{(1𝐖-x)^2𝐖}𝐖.
+y𝐖+1
 x
-\sum_{i =0}^\infty x^i,
-\sum_{i =0}^\infty (y +1)^i
-(y +1)^i
-y^0,
-y^i .
-y +y^2
-x .
-(a_0 +a_1 x +a_2 x^2)(b_0 +b_1 x +b_2 x^2 +b_3 x^3) .
-x^2 ?
-x^4 ?
-b_0
-b_1
-x^2
-b_0
-b_1
-x^4 ?
-x^4
-(a_0 +a_1 x +a_2 x^2 +a_3 x^3 +a_4 x^4)(b_0 +b_1 x +b_2 x^2 +b_3 x^3 +b_4 x^4) ?
-\sum_{i =0}^4 \~something,
-a_3 =0,
-a_4 =0
-b_4 =0 .
-a_i =0
-i >n
-b_j =0
-j >m,
-x^k
-(\sum_{i =0}^n a_i x^i)(\sum_{j =0}^m b_j x^j) .
-x^k
-(\sum_{i =0}^\infty a_i x^i)(\sum_{j =0}^\infty b_j x^j) .
-(\sum_{i =0}^\infty a_i x^i)(\sum_{j =0}^\infty b_j x^j)
-\sum_{k =0}^\infty c_k x^k,
-c_k
-(1 +x)^n \colon
-(1 +x)^n =\binom{n}{0} +\binom{n}{1}x +\binom{n}{2}x^2 +\cdots +\binom{n}{n}x^n .
-n .
+\sum𝐖_{i𝐖=0}^\infty𝐖𝐖x^i𝐖,𝐖
+\sum𝐖_{i𝐖=0}^\infty𝐖𝐖(y𝐖+1)^i𝐖
+(y𝐖+1)^i𝐖
+y^0𝐖,𝐖
+y^i𝐖𝐖.
+y𝐖+y^2𝐖
+x𝐖.
+(a_0𝐖𝐖+a_1𝐖x𝐖+a_2𝐖x^2𝐖)(b_0𝐖𝐖+b_1𝐖x𝐖+b_2𝐖x^2𝐖𝐖+b_3𝐖x^3𝐖)𝐖.
+x^2𝐖𝐖?
+x^4𝐖𝐖?
+b_0𝐖
+b_1𝐖
+x^2𝐖
+b_0𝐖
+b_1𝐖
+x^4𝐖𝐖?
+x^4𝐖
+(a_0𝐖𝐖+a_1𝐖x𝐖+a_2𝐖x^2𝐖𝐖+a_3𝐖x^3𝐖𝐖+a_4𝐖x^4𝐖)(b_0𝐖𝐖+b_1𝐖x𝐖+b_2𝐖x^2𝐖𝐖+b_3𝐖x^3𝐖𝐖+b_4𝐖x^4𝐖)𝐖?
+\sum𝐖_{i𝐖=0}^4𝐖\~something,𝐖
+a_3𝐖𝐖=0,𝐖
+a_4𝐖𝐖=0
+b_4𝐖𝐖=0𝐖.
+a_i𝐖𝐖=0
+i𝐖>n
+b_j𝐖𝐖=0
+j𝐖>m,𝐖
+x^k𝐖
+(\sum𝐖_{i𝐖=0}^n𝐖a_i𝐖x^i𝐖)(\sum𝐖_{j𝐖=0}^m𝐖b_j𝐖x^j𝐖)𝐖.
+x^k𝐖
+(\sum𝐖_{i𝐖=0}^\infty𝐖𝐖a_i𝐖x^i𝐖)(\sum𝐖_{j𝐖=0}^\infty𝐖𝐖b_j𝐖x^j𝐖)𝐖.
+(\sum𝐖_{i𝐖=0}^\infty𝐖𝐖a_i𝐖x^i𝐖)(\sum𝐖_{j𝐖=0}^\infty𝐖𝐖b_j𝐖x^j𝐖)
+\sum𝐖_{k𝐖=0}^\infty𝐖𝐖c_k𝐖x^k𝐖,𝐖
+c_k𝐖
+(1𝐖+x)^n𝐖𝐖\colon𝐖
+(1𝐖+x)^n𝐖𝐖=\binom{n}{0}𝐖+\binom{n}{1}x𝐖+\binom{n}{2}x^2𝐖𝐖+\cdots𝐖𝐖+\binom{n}{n}x^n𝐖𝐖.
+n𝐖.
 n
-(1 +x)^{ -n} =\frac{1}{(1 +x)^n}
+(1𝐖+x)^{𝐖-n}𝐖𝐖=\frac{1}{(1𝐖+x)^n𝐖}
 n
-(1 +x)^n
+(1𝐖+x)^n𝐖
 k
 [n]
 k
-[n] ?
-(\binom{n}{k}) =\binom{n +k -1}{k} .
+[n]𝐖?
+(\binom{n}{k})𝐖=\binom{n𝐖+k𝐖-1}{k}𝐖.
 i
-n .
-x^k
-1 ?
-x^k
+n𝐖.
+x^k𝐖
+1𝐖?
+x^k𝐖
 k
 [n]
 k
-\{i\} .
+\{i\}𝐖.
 k
-\{i\} \colon
+\{i\}𝐖\colon𝐖
 i
 k
-(1 -x)\sum_{k =0}^n x^k =(1 -x)(1 +x +x^2 +\cdots +x^n) .
-(1 -x)\sum_{k =0}^\infty x^k .
-S =1 +x +x^2 +\cdots .
-xS =x +x^2 +x^3 +\cdots .
-S -xS .
-S -xS =(1 -x)S =1,
+(1𝐖-x)\sum𝐖_{k𝐖=0}^n𝐖x^k𝐖𝐖=(1𝐖-x)(1𝐖+x𝐖+x^2𝐖𝐖+\cdots𝐖𝐖+x^n𝐖)𝐖.
+(1𝐖-x)\sum𝐖_{k𝐖=0}^\infty𝐖𝐖x^k𝐖𝐖.
+S𝐖=1𝐖+x𝐖+x^2𝐖𝐖+\cdots𝐖𝐖.
+xS𝐖=x𝐖+x^2𝐖𝐖+x^3𝐖𝐖+\cdots𝐖𝐖.
+S𝐖-xS𝐖.
+S𝐖-xS𝐖=(1𝐖-x)S𝐖=1,𝐖
 x
-1 +x +x^2 +\cdots =\frac{1}{1 -x} .
+1𝐖+x𝐖+x^2𝐖𝐖+\cdots𝐖𝐖=\frac{1}{1𝐖-x}𝐖.
 k
 [n]
 n
 k
-(1 +x)^{ -n} =\frac{1}{(1 +x)^n}
-\frac{1}{1 -x} =1 +x +x^2 +x^3 +\cdots .
-\frac{1}{(1 -x)^2} .
-\frac{1}{(1 -x)^3} .
+(1𝐖+x)^{𝐖-n}𝐖𝐖=\frac{1}{(1𝐖+x)^n𝐖}
+\frac{1}{1𝐖-x}𝐖=1𝐖+x𝐖+x^2𝐖𝐖+x^3𝐖𝐖+\cdots𝐖𝐖.
+\frac{1}{(1𝐖-x)^2𝐖}𝐖.
+\frac{1}{(1𝐖-x)^3𝐖}𝐖.
 n
-\frac{1}{(1 -x)^n} =\binom{n -1}{0} +\binom{n}{1}x +\binom{n +1}{2}x^2 +\cdots +\binom{n +k -1}{k}x^k +\cdots .
--x
+\frac{1}{(1𝐖-x)^n𝐖}𝐖=\binom{n𝐖-1}{0}𝐖+\binom{n}{1}x𝐖+\binom{n𝐖+1}{2}x^2𝐖𝐖+\cdots𝐖𝐖+\binom{n𝐖+k𝐖-1}{k}x^k𝐖𝐖+\cdots𝐖𝐖.
+𝐖-x
 x
 n
 j
 m
-a_n
-a_n
-a_i
-i \lt n .
-a_i =3a_{i -1} +2^i
-a_n =3a_{n -1} +4a_{n -2}
-a_1 =3
-a_2 =13
-a_i =5a_{i -1} -6a_{i -2} .
-a_i =3a_{i -1} +3^i
-a_0 =1 .
-f(x) =a_0 +a_1 x +a_2 x^2 +\cdots
-a_i
-3xf(x) .
+a_n𝐖
+a_n𝐖
+a_i𝐖
+i𝐖\lt𝐖n𝐖.
+a_i𝐖𝐖=3a_{i𝐖-1}𝐖𝐖+2^i𝐖
+a_n𝐖𝐖=3a_{n𝐖-1}𝐖𝐖+4a_{n𝐖-2}𝐖
+a_1𝐖𝐖=3
+a_2𝐖𝐖=13
+a_i𝐖𝐖=5a_{i𝐖-1}𝐖𝐖-6a_{i𝐖-2}𝐖𝐖.
+a_i𝐖𝐖=3a_{i𝐖-1}𝐖𝐖+3^i𝐖
+a_0𝐖𝐖=1𝐖.
+f(x)𝐖=a_0𝐖𝐖+a_1𝐖x𝐖+a_2𝐖x^2𝐖𝐖+\cdots𝐖
+a_i𝐖
+3xf(x)𝐖.
 3x
-f(x) -3xf(x)
-(1 -3x) \cdot f(x) .
-(a_n)
-f(x) =\frac{1}{(1 -3x)^2} .
-x^n
-\binom{n +1}{1}3^n
-(a_n) .
-a_i =3a_{i -1} +2^i .
-a_0 .
-a_i
-i,
-n .
-a_n
-n .
-a_0 =10,
-a_1 =10,
-a_2 =30,
-a_n =a_{n -1} +2a_{n -2} .
-\sum_{i =0}^\infty a_i x^i =\frac{10}{1 -x -2x^2} .
-a_i
-i;
+f(x)𝐖-3xf(x)
+(1𝐖-3x)𝐖\cdot𝐖f(x)𝐖.
+(a_n𝐖)
+f(x)𝐖=\frac{1}{(1𝐖-3x)^2𝐖}𝐖.
+x^n𝐖
+\binom{n𝐖+1}{1}3^n𝐖
+(a_n𝐖)𝐖.
+a_i𝐖𝐖=3a_{i𝐖-1}𝐖𝐖+2^i𝐖𝐖.
+a_0𝐖𝐖.
+a_i𝐖
+i,𝐖
+n𝐖.
+a_n𝐖
+n𝐖.
+a_0𝐖𝐖=10,𝐖
+a_1𝐖𝐖=10,𝐖
+a_2𝐖𝐖=30,𝐖
+a_n𝐖𝐖=a_{n𝐖-1}𝐖𝐖+2a_{n𝐖-2}𝐖𝐖.
+\sum𝐖_{i𝐖=0}^\infty𝐖𝐖a_i𝐖x^i𝐖𝐖=\frac{10}{1𝐖-x𝐖-2x^2𝐖}𝐖.
+a_i𝐖
+i;𝐖
 n
-\frac{x}{1 -x -x^2}
-F_{n +1} =\binom{n}{0} +\binom{n -1}{1} +\binom{n -2}{2} +\cdots
-(a_n)
-a_n =\binom{2n}{n} .
-\frac{1}{x -3} +\frac{2}{x -2}
+\frac{x}{1𝐖-x𝐖-x^2𝐖}
+F_{n𝐖+1}𝐖𝐖=\binom{n}{0}𝐖+\binom{n𝐖-1}{1}𝐖+\binom{n𝐖-2}{2}𝐖+\cdots𝐖
+(a_n𝐖)
+a_n𝐖𝐖=\binom{2n}{n}𝐖.
+\frac{1}{x𝐖-3}𝐖+\frac{2}{x𝐖-2}
 c
 d
-\frac{5x +1}{(x -3)(x +5)} =\frac{c}{x -3} +\frac{d}{x +5} .
+\frac{5x𝐖+1}{(x𝐖-3)(x𝐖+5)}𝐖=\frac{c}{x𝐖-3}𝐖+\frac{d}{x𝐖+5}𝐖.
 c
-d,
+d,𝐖
 c
-d .
-a,
-b,
-r_1,
-r_2
-r_1 \not= r_2
+d𝐖.
+a,𝐖
+b,𝐖
+r_1𝐖,𝐖
+r_2𝐖
+r_1𝐖𝐖\not=𝐖r_2𝐖
 c
 d
-\frac{ax +b}{(x -r_1)(x -r_2)} =\frac{c}{x -r_1} +\frac{d}{x -r_2} .
-a_n =3a_{n -1} +4a_{n -2}
-a_1 =3
-a_2 =13 .
-a_n =\frac{4}{5}4^n +\frac{1}{5}( -1)^n .
-f(x) =\frac{1}{1 -3x -4x^2} .
-(1 +x)(1 -4x) .
-\frac{1}{1 -3x -4x^2} =\frac{c}{1 +x} +\frac{d}{1 -4x}
+\frac{ax𝐖+b}{(x𝐖-r_1𝐖)(x𝐖-r_2𝐖)}𝐖=\frac{c}{x𝐖-r_1𝐖}𝐖+\frac{d}{x𝐖-r_2𝐖}𝐖.
+a_n𝐖𝐖=3a_{n𝐖-1}𝐖𝐖+4a_{n𝐖-2}𝐖
+a_1𝐖𝐖=3
+a_2𝐖𝐖=13𝐖.
+a_n𝐖𝐖=\frac{4}{5}4^n𝐖𝐖+\frac{1}{5}(𝐖-1)^n𝐖𝐖.
+f(x)𝐖=\frac{1}{1𝐖-3x𝐖-4x^2𝐖}𝐖.
+(1𝐖+x)(1𝐖-4x)𝐖.
+\frac{1}{1𝐖-3x𝐖-4x^2𝐖}𝐖=\frac{c}{1𝐖+x}𝐖+\frac{d}{1𝐖-4x}
 c
-d .
-1 =c(1 -4x) +d(1 +x)
-x = -1
-1 =5c
-c =\frac{1}{5} .
-x =\frac{1}{4}
-1 =\frac{5}{4}d
-d =\frac{4}{5} .
-a_n
-\frac{1/5}{1 +x}
-\frac{4/5}{1 -4x} .
-\frac{1/5}{1 +x} =\frac{1}{5}(1 -x +x^2 -x^3 +\cdots +( -1)^n x^n +\cdots);
-\frac{4/5}{(1 -4x)} =\frac{4}{5}(1 +4x +16x^2 +\cdots +4^n x^n +\cdots) .
--x
+d𝐖.
+1𝐖=c(1𝐖-4x)𝐖+d(1𝐖+x)
+x𝐖=𝐖-1
+1𝐖=5c
+c𝐖=\frac{1}{5}𝐖.
+x𝐖=\frac{1}{4}
+1𝐖=\frac{5}{4}d
+d𝐖=\frac{4}{5}𝐖.
+a_n𝐖
+\frac{1/5}{1𝐖+x}
+\frac{4/5}{1𝐖-4x}𝐖.
+\frac{1/5}{1𝐖+x}𝐖=\frac{1}{5}(1𝐖-x𝐖+x^2𝐖𝐖-x^3𝐖𝐖+\cdots𝐖𝐖+(𝐖-1)^n𝐖x^n𝐖𝐖+\cdots𝐖);𝐖
+\frac{4/5}{(1𝐖-4x)}𝐖=\frac{4}{5}(1𝐖+4x𝐖+16x^2𝐖𝐖+\cdots𝐖𝐖+4^n𝐖x^n𝐖𝐖+\cdots𝐖)𝐖.
+𝐖-x
 4x
-\frac{1}{1 -x} .
-a_n
-x^n,
-a_n =\frac{1}{5}( -1)^n +\frac{4}{5}4^n
-\frac{10}{1 -x -2x^2}
-a_n .
-a_{40}
-\frac{x -2}{3 -4x +x^2} =a_0 +a_1 x +a_2 x^2 +\cdots +a_{40} x^{40} +\cdots .
-x^2 +x -1 =0,
-x^2 +x -1 .
-\frac{1}{x^2 +x -1}
-\frac{c}{x -r_1} +\frac{d}{x -r_2} .
-\sum_{n =0}^\infty a_n x^i
-a_n .
-a_0 =1
-a_1 =1,
-a_n
-a_2
-a_8 .
+\frac{1}{1𝐖-x}𝐖.
+a_n𝐖
+x^n𝐖,𝐖
+a_n𝐖𝐖=\frac{1}{5}(𝐖-1)^n𝐖𝐖+\frac{4}{5}4^n𝐖
+\frac{10}{1𝐖-x𝐖-2x^2𝐖}
+a_n𝐖𝐖.
+a_{40}𝐖
+\frac{x𝐖-2}{3𝐖-4x𝐖+x^2𝐖}𝐖=a_0𝐖𝐖+a_1𝐖x𝐖+a_2𝐖x^2𝐖𝐖+\cdots𝐖𝐖+a_{40}𝐖x^{40}𝐖𝐖+\cdots𝐖𝐖.
+x^2𝐖𝐖+x𝐖-1𝐖=0,𝐖
+x^2𝐖𝐖+x𝐖-1𝐖.
+\frac{1}{x^2𝐖𝐖+x𝐖-1}
+\frac{c}{x𝐖-r_1𝐖}𝐖+\frac{d}{x𝐖-r_2𝐖}𝐖.
+\sum𝐖_{n𝐖=0}^\infty𝐖𝐖a_n𝐖x^i𝐖
+a_n𝐖𝐖.
+a_0𝐖𝐖=1
+a_1𝐖𝐖=1,𝐖
+a_n𝐖
+a_2𝐖
+a_8𝐖𝐖.
 b
-n,
+n,𝐖
 n
-b^n .
+b^n𝐖𝐖.
 b
-a_n =4a_{n -1} -4a_{n -2} .
+a_n𝐖𝐖=4a_{n𝐖-1}𝐖𝐖-4a_{n𝐖-2}𝐖𝐖.
 n
-a_n =\alpha r^n +\beta nr^n
-r .
-r,
-\frac{1}{(1 -rx)^2} =1 +2(rx) +3(rx)^2 +\cdots +(n +1)(rx)^n +\cdots,
+a_n𝐖𝐖=\alpha𝐖r^n𝐖𝐖+\beta𝐖nr^n𝐖
+r𝐖.
+r,𝐖
+\frac{1}{(1𝐖-rx)^2𝐖}𝐖=1𝐖+2(rx)𝐖+3(rx)^2𝐖𝐖+\cdots𝐖𝐖+(n𝐖+1)(rx)^n𝐖𝐖+\cdots𝐖,𝐖
 rx
-x .
-x^n
-(n +1)r^n =r^n +nr^n .
-C_n =\sum_{i =1}^{n -1} C_{i -1} C_{n -i} .
-C_0 =1
-C_1, C_2, C_3, C_4, C_5 .
+x𝐖.
+x^n𝐖
+(n𝐖+1)r^n𝐖𝐖=r^n𝐖𝐖+nr^n𝐖𝐖.
+C_n𝐖𝐖=\sum𝐖_{i𝐖=1}^{n𝐖-1}𝐖C_{i𝐖-1}𝐖C_{n𝐖-i}𝐖𝐖.
+C_0𝐖𝐖=1
+C_1𝐖,𝐖C_2𝐖,𝐖C_3𝐖,𝐖C_4𝐖,𝐖C_5𝐖𝐖.
 y
-\sum_{n =0}^\infty c_n x^n,
+\sum𝐖_{n𝐖=0}^\infty𝐖𝐖c_n𝐖x^n𝐖,𝐖
 y
-y .
-(1 +x)^r =\sum_{i =0}^\infty \binom{r}{i}x^i
-r,
+y𝐖.
+(1𝐖+x)^r𝐖𝐖=\sum𝐖_{i𝐖=0}^\infty𝐖𝐖\binom{r}{i}x^i𝐖
+r,𝐖
 \binom{r}{i}
-\frac{P(r, i)}{i!} =\frac{r(r -1)\cdots (r -i +1)}{i!} .
+\frac{P(r,𝐖i)}{i!}𝐖=\frac{r(r𝐖-1)\cdots𝐖(r𝐖-i𝐖+1)}{i!}𝐖.
 y
 y
-1, 1, 1, \ldots
-1 +x +x^2 +x^3 +\cdots
-\frac{1}{1 -x}
-1, 2, 4, 8, \ldots
-1 +2x +(2x)^2 +(2x)^3 +\cdots
-\frac{1}{1 -2x}
-1, -1, 1, -1, \ldots
-1 -x +x^2 -x^3 +\cdots
-\frac{1}{1 +x}
-0, 3, 3^2, 3^3, \ldots
-3x +(3x)^2 +(3x)^3 +\cdots
-\frac{3x}{1 -3x}
-1, a, a^2, \ldots \ldots
-1 +ax +(ax)^2 +\cdots
-\frac{1}{1 -ax}
-1, 2, 3, 4, \ldots
-1 +2x +3x^2 +4x^3 +\cdots
-\frac{1}{(1 -x)^2}
-0, 1, 2, 3, \ldots
-x +2x^2 +3x^3 +\cdots
-\frac{x}{(1 -x)^2}
-1, 0, 2, 0, 3, 0, \ldots
-1 +2x^2 +3x^4 +\cdots
-\frac{1}{(1 -x^2)^2}
-\binom{n}{0}, \binom{n}{1}, \binom{n}{2}, \ldots
-\binom{n}{0} +\binom{n}{1}x +\binom{n}{2}x^2 +\cdots
-(1 +x)^n
-\binom{2}{2}, \binom{3}{2}, \binom{4}{2}, \ldots
-\binom{2}{2} +\binom{3}{2}x +\binom{4}{2}x^2 +\cdots
-\frac{1}{(1 -x)^3}
-1, -2, 3, -4, \ldots
-1 -2x +3x^2 -4x^3 +\cdots
-\frac{1}{(1 +x)^2}
-1, 2(2), 3(2^2), \ldots
-1 +2(2x) +3(2x)^2 +\cdots
-\frac{1}{(1 -2x)^2}
-1, 1, \frac{1}{2!}, \frac{1}{3!}, \ldots
-1 +x +\frac{x^2}{2!} +\frac{x^3}{3!} +\cdots
-e^x
+1,𝐖1,𝐖1,𝐖\ldots𝐖
+1𝐖+x𝐖+x^2𝐖𝐖+x^3𝐖𝐖+\cdots𝐖
+\frac{1}{1𝐖-x}
+1,𝐖2,𝐖4,𝐖8,𝐖\ldots𝐖
+1𝐖+2x𝐖+(2x)^2𝐖𝐖+(2x)^3𝐖𝐖+\cdots𝐖
+\frac{1}{1𝐖-2x}
+1,𝐖𝐖-1,𝐖1,𝐖𝐖-1,𝐖\ldots𝐖
+1𝐖-x𝐖+x^2𝐖𝐖-x^3𝐖𝐖+\cdots𝐖
+\frac{1}{1𝐖+x}
+0,𝐖3,𝐖3^2𝐖,𝐖3^3𝐖,𝐖\ldots𝐖
+3x𝐖+(3x)^2𝐖𝐖+(3x)^3𝐖𝐖+\cdots𝐖
+\frac{3x}{1𝐖-3x}
+1,𝐖a,𝐖a^2𝐖,𝐖\ldots𝐖\ldots𝐖
+1𝐖+ax𝐖+(ax)^2𝐖𝐖+\cdots𝐖
+\frac{1}{1𝐖-ax}
+1,𝐖2,𝐖3,𝐖4,𝐖\ldots𝐖
+1𝐖+2x𝐖+3x^2𝐖𝐖+4x^3𝐖𝐖+\cdots𝐖
+\frac{1}{(1𝐖-x)^2𝐖}
+0,𝐖1,𝐖2,𝐖3,𝐖\ldots𝐖
+x𝐖+2x^2𝐖𝐖+3x^3𝐖𝐖+\cdots𝐖
+\frac{x}{(1𝐖-x)^2𝐖}
+1,𝐖0,𝐖2,𝐖0,𝐖3,𝐖0,𝐖\ldots𝐖
+1𝐖+2x^2𝐖𝐖+3x^4𝐖𝐖+\cdots𝐖
+\frac{1}{(1𝐖-x^2𝐖)^2𝐖}
+\binom{n}{0},𝐖\binom{n}{1},𝐖\binom{n}{2},𝐖\ldots𝐖
+\binom{n}{0}𝐖+\binom{n}{1}x𝐖+\binom{n}{2}x^2𝐖𝐖+\cdots𝐖
+(1𝐖+x)^n𝐖
+\binom{2}{2},𝐖\binom{3}{2},𝐖\binom{4}{2},𝐖\ldots𝐖
+\binom{2}{2}𝐖+\binom{3}{2}x𝐖+\binom{4}{2}x^2𝐖𝐖+\cdots𝐖
+\frac{1}{(1𝐖-x)^3𝐖}
+1,𝐖𝐖-2,𝐖3,𝐖𝐖-4,𝐖\ldots𝐖
+1𝐖-2x𝐖+3x^2𝐖𝐖-4x^3𝐖𝐖+\cdots𝐖
+\frac{1}{(1𝐖+x)^2𝐖}
+1,𝐖2(2),𝐖3(2^2𝐖),𝐖\ldots𝐖
+1𝐖+2(2x)𝐖+3(2x)^2𝐖𝐖+\cdots𝐖
+\frac{1}{(1𝐖-2x)^2𝐖}
+1,𝐖1,𝐖\frac{1}{2!},𝐖\frac{1}{3!},𝐖\ldots𝐖
+1𝐖+x𝐖+\frac{x^2𝐖}{2!}𝐖+\frac{x^3𝐖}{3!}𝐖+\cdots𝐖
+e^x𝐖

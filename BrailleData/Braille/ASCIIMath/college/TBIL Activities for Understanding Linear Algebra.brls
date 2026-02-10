@@ -499,9 +499,9 @@ A
 Abb x
 bb x
 Abb x?
-'\\y01d7ce'.
+bb 0.
 A
-A'\\y01d7ce'?
+Abb 0?
 I = [[1, 0, 0], [0, 1, 0], [0, 0, 1]]
 bb x = [[x_1], [x_2], [x_3]].
 Ibb x
@@ -526,12 +526,12 @@ A = [[3, -1, 0], [-2, 0, 6]], bb b = [[-6], [2]]
 [[1, 2, 0, -1], [2, 4, -3, -2], [-1, -2, 6, 1]]bb x = [[-1], [1], [5]].
 A
 m xx n
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 A.
-Abb x = '\\y01d7ce'
-bb x = '\\y01d7ce'.
+Abb x = bb 0
+bb x = bb 0.
 A.
-'\\y01d7ce',
+bb 0,
 A = [[1, 3, 2], [-3, 4, -1]], B = [[3, 0], [1, 2], [-2, -1]].
 AB.
 AB.
@@ -642,14 +642,14 @@ RR^4
 bb w_1,
 bb w_2,
 bb w_3
-'\\y01d7ce',
+bb 0,
 RR^(10)
 bb v_1, bb v_2, bb v_3
 RR^n.
 3bb v_1-5bb v_2 = bb v_3,
 {bb v_1, bb v_2, bb v_3}
-x_1 bb v_1+x_2 bb v_2+x_3 bb v_3 = '\\y01d7ce'?
-Abb x = '\\y01d7ce'
+x_1 bb v_1+x_2 bb v_2+x_3 bb v_3 = bb 0?
+Abb x = bb 0
 A.
 A = [[3, 2, 0], [-1, 0, -2], [2, 1, 1]]
 bb v_1,
@@ -658,13 +658,13 @@ bb v_3.
 bb v_1,
 bb v_2,
 bb v_3
-Abb x = '\\y01d7ce'.
-'\\y01d7ce'
-'\\y01d7ce'.
+Abb x = bb 0.
+bb 0
+bb 0.
 c_1,
 c_2,
 c_3
-c_1 bb v_1+c_2 bb v_2+c_3 bb v_3 = '\\y01d7ce'.
+c_1 bb v_1+c_2 bb v_2+c_3 bb v_3 = bb 0.
 RR^4
 3
 4
@@ -695,7 +695,7 @@ bb x
 T?
 T(bb x) = Abb x
 bb x
-T(bb x) = '\\y01d7ce'.
+T(bb x) = bb 0.
 A
 A = [[bb v_1, bb v_2]],
 T([[0], [1]])
@@ -806,28 +806,28 @@ Q.
 RR^p
 A
 bb x
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 A?
 A
 A
 A
 det A
-Abb x = '\\y01d7ce'?
+Abb x = bb 0?
 A
 A
 A
 A = [[3, -1, 1], [0, 2, 4], [1, 1, 3]].
 det A.
-Abb x = '\\y01d7ce'?
+Abb x = bb 0?
 "Nul"(A).
-(A-lambda I)bb v = '\\y01d7ce'.
-(A-lambda I)bb v = '\\y01d7ce',
+(A-lambda I)bb v = bb 0.
+(A-lambda I)bb v = bb 0,
 A-lambda I?
 A-lambda I
 A-lambda I
 A-lambda I
 A.
-(A-lambda I)bb v = '\\y01d7ce',
+(A-lambda I)bb v = bb 0,
 det(A-lambda I)?
 A-lambda I
 A-lambda I
@@ -847,7 +847,7 @@ det(A-lambda I) = 0.
 [[3, -1, 4], [0, -2, 3], [0, 0, 1]].
 A.
 lambda
-(A-lambda I)bb v = '\\y01d7ce'
+(A-lambda I)bb v = bb 0
 A-lambda I
 det(A-lambda I) = 0
 A.
@@ -1041,7 +1041,7 @@ bb v.
 A.
 A
 bb x
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 bb x
 "Nul"(A)
 "Col"(A)?
@@ -1076,10 +1076,10 @@ bb w_2*bb x = 0.
 bb x
 bb w_1
 bb w_2,
-Bbb x = '\\y01d7ce'
+Bbb x = bb 0
 B.
 B
-Bbb x = '\\y01d7ce'.
+Bbb x = bb 0.
 bb w_1 = [[1], [0], [-2]]
 bb w_2 = [[1], [1], [-1]]
 W,
@@ -1128,7 +1128,7 @@ bb v_1
 bb v_2.
 "Nul"(A^T),
 A^T,
-A^T bb x = '\\y01d7ce'.
+A^T bb x = bb 0.
 bb x
 "Nul"(A^T),
 bb x
@@ -1681,10 +1681,10 @@ A
 A = [[2, -1, 2, 3], [1, 0, 0, 2], [-2, 2, -4, -2]]~[[1, 0, 0, 2], [0, 1, -2, 1], [0, 0, 0, 0]].
 A
 RR^3?
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 bb w_1
 bb w_2
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 bb w_1
 bb w_2?
 A
@@ -1704,10 +1704,10 @@ RR^p
 RR^2.
 RR^2.
 RR^2
-'\\y01d7ce'.
+bb 0.
 S
 RR^2
-'\\y01d7ce'
+bb 0
 RR^2.
 S = RR^2
 RR^2.
@@ -1726,7 +1726,7 @@ A
 m xx n
 bb x
 RR^n
-Abb x = '\\y01d7ce'
+Abb x = bb 0
 A.
 "Nul"(A).
 A = [[1, 3, -1], [-2, 0, -4], [1, 2, 0]]
@@ -1797,7 +1797,7 @@ dim\ "Col"(A)
 A
 9 xx 9
 "Col"(A)?
-"Col"(A) = {'\\y01d7ce'},
+"Col"(A) = {bb 0},
 A?
 A.
 A?

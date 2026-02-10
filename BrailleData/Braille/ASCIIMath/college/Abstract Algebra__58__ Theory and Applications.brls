@@ -553,7 +553,7 @@ bb e
 Hbb x
 bb x
 bb e.
-Hbb x = H(bb c+bb e) = Hbb c+He = '\\y01d7ce'+He = He.
+Hbb x = H(bb c+bb e) = Hbb c+He = bb 0+He = He.
 He
 i
 H.
@@ -562,7 +562,7 @@ H
 bb r
 n
 bb r
-'\\y01d7ce',
+bb 0,
 bb r
 H,
 i
@@ -1070,7 +1070,7 @@ n xx(n-m)
 G = ( (I_(n-m))/A).
 bb x
 Gbb x = bb y
-Hbb y = '\\y01d7ce'.
+Hbb y = bb 0.
 bb x
 G
 bb y.
@@ -1083,7 +1083,7 @@ H
 1
 1
 bb x = (x_1, x_2, x_3, x_4, x_5, x_6),
-'\\y01d7ce' = Hbb x = ([x_2+x_3+x_4], [x_1+x_2+x_5], [x_1+x_3+x_6]),
+bb 0 = Hbb x = ([x_2+x_3+x_4], [x_1+x_2+x_5], [x_1+x_3+x_6]),
 [x_2+x_3+x_4, "<mi//>"=0], [x_1+x_2+x_5, "<mi//>"=0], [x_1+x_3+x_6, "<mi//>"=0.]
 x_4
 x_2
@@ -1129,7 +1129,7 @@ H in bbb M_(m xx n)(ZZ_2)
 bb x in ZZ_2^n
 n-m
 m
-Hbb x = '\\y01d7ce'.
+Hbb x = bb 0.
 m
 n-m
 H
@@ -1150,19 +1150,19 @@ G(bb x_1+bb x_2) = Gbb x_1+Gbb x_2 = bb y_1+bb y_2.
 Gbb x = Gbb y,
 bb x = bb y.
 Gbb x = Gbb y.
-Gbb x-Gbb y = G(bb x-bb y) = '\\y01d7ce'.
+Gbb x-Gbb y = G(bb x-bb y) = bb 0.
 k
 G(bb x-bb y)
 x_1-y_1, ..., x_k-y_k,
 I_k,
 G.
-G(bb x-bb y) = '\\y01d7ce'
+G(bb x-bb y) = bb 0
 bb x = bb y.
 H = (A'\\x002223'I_m)
 m xx n
 G = ( (I_(n-m))/A)
 n xx(n-m)
-HG = '\\y01d7ce'.
+HG = bb 0.
 C = HG.
 ij
 C
@@ -1177,19 +1177,19 @@ C
 G.
 bb y
 C
-Hbb y = '\\y01d7ce'.
+Hbb y = bb 0.
 C
 H.
 bb y in C.
 Gbb x = bb y
 bb x in ZZ_2^m.
-Hbb y = HGbb x = '\\y01d7ce'.
+Hbb y = HGbb x = bb 0.
 bb y = (y_1,...,y_n)^t
 H.
 bb x
 ZZ_2^(n-m)
 Gbb x^t = bb y.
-Hbb y = '\\y01d7ce',
+Hbb y = bb 0,
 [a_(11)y_1+a_(12)y_2+cdots+a_(1,n-m)y_(n-m)+y_(n-m+1), "<mi//>"=0], [a_(21)y_1+a_(22)y_2+cdots+a_(2,n-m)y_(n-m)+y_(n-m+2), "<mi//>"=0], [\ , "<mi//>" vdots], [a_(m1)y_1+a_(m2)y_2+cdots+a_(m,n-m)y_(n-m)+y_(n-m+m), "<mi//>"=0.]
 y_(n-m+1), ..., y_n
 y_1, ..., y_(n-m):
@@ -1232,7 +1232,7 @@ bb e_i
 H
 i
 H
-Hbb e_i != '\\y01d7ce'.
+Hbb e_i != bb 0.
 H_1 = ([1, 1, 1, 0, 0], [1, 0, 0, 1, 0], [1, 1, 0, 0, 1])
 H_2 = ([1, 1, 1, 0, 0], [1, 0, 0, 0, 0], [1, 1, 0, 0, 1]),
 H_1
@@ -1267,7 +1267,7 @@ i
 j
 w(bb e_i+bb e_j) = 2
 i != j.
-'\\y01d7ce' = H(bb e_i+bb e_j) = Hbb e_i+Hbb e_j
+bb 0 = H(bb e_i+bb e_j) = Hbb e_i+Hbb e_j
 i
 j
 H
@@ -1280,7 +1280,7 @@ m xx n
 n-m
 m
 2^m
-'\\y01d7ce', bb e_1, ..., bb e_m
+bb 0, bb e_1, ..., bb e_m
 2^m-(1+m)
 n
 O(n)
@@ -2354,7 +2354,7 @@ n = 12
 2^k,
 k > 2
 16.
-'\\y01d7cf''\\y01d7d3'
+bb 1bb 5
 Z_3><|Z_4
 n
 O(n)
@@ -3615,8 +3615,8 @@ w(bb x),
 bb x
 1
 bb x.
-w(bb x) = d(bb x, '\\y01d7ce'),
-'\\y01d7ce' = (00 cdots 0).
+w(bb x) = d(bb x, bb 0),
+bb 0 = (00 cdots 0).
 bb x = (10101),
 bb y = (11010),
 bb z = (00011)
@@ -3627,7 +3627,7 @@ bb x,
 bb y,
 bb z
 n
-w(bb x) = d(bb x, '\\y01d7ce');
+w(bb x) = d(bb x, bb 0);
 d(bb x, bb y) >= 0;
 d(bb x, bb y) = 0
 bb x = bb y;
@@ -5994,7 +5994,7 @@ D[x]
 ZZ_2^n.
 n
 n
-'\\y01d7ce'
+bb 0
 (11000101)+(11000101) = (00000000).
 [\ , "<mi//>"(0000000), \ , "<mi//>"(0001111), \ , "<mi//>"(0010101), \ , "<mi//>"(0011010)], [\ , "<mi//>"(0100110), \ , "<mi//>"(0101001), \ , "<mi//>"(0110011), \ , "<mi//>"(0111100)], [\ , "<mi//>"(1000011), \ , "<mi//>"(1001100), \ , "<mi//>"(1010110), \ , "<mi//>"(1011001)], [\ , "<mi//>"(1100101), \ , "<mi//>"(1101010), \ , "<mi//>"(1110000), \ , "<mi//>"(1111111).]
 ZZ_2^7
@@ -6019,8 +6019,8 @@ d_(min)
 C.
 d_(min)
 C.
-d_(min) = min{w(bb x):bb x != '\\y01d7ce'}.
-[d_(min), "<mi//>"=min{d(bb x,bb y):bb x!=bb y}], [\ , "<mi//>"=min{d(bb x,bb y):bb x+bb y!='\\y01d7ce'}], [\ , "<mi//>"=min{w(bb x+bb y):bb x+bb y!='\\y01d7ce'}], [\ , "<mi//>"=min{w(bb z):bb z!='\\y01d7ce'}.]
+d_(min) = min{w(bb x):bb x != bb 0}.
+[d_(min), "<mi//>"=min{d(bb x,bb y):bb x!=bb y}], [\ , "<mi//>"=min{d(bb x,bb y):bb x+bb y!=bb 0}], [\ , "<mi//>"=min{w(bb x+bb y):bb x+bb y!=bb 0}], [\ , "<mi//>"=min{w(bb z):bb z!=bb 0}.]
 3;
 n
 bb x*bb y = x_1 y_1+cdots+x_n y_n,
@@ -6042,7 +6042,7 @@ x_1+x_2+cdots+x_n = 0;
 bb x = (x_1,x_2,x_3,x_4)^t
 1
 x_1+x_2+x_3+x_4 = 0,
-bb x*'\\y01d7cf' = bb x^t'\\y01d7cf' = ([x_1, x_2, x_3, x_4])([1], [1], [1], [1]) = 0.
+bb x*bb 1 = bb x^t bb 1 = ([x_1, x_2, x_3, x_4])([1], [1], [1], [1]) = 0.
 bbb M_(m xx n)(ZZ_2)
 m xx n
 ZZ_2.
@@ -6050,14 +6050,14 @@ ZZ_2.
 H in bbb M_(m xx n)(ZZ_2)
 n
 bb x
-Hbb x = '\\y01d7ce'.
+Hbb x = bb 0.
 H
 "Null"(H).
 H = ([0, 1, 0, 1, 0], [1, 1, 1, 1, 0], [0, 0, 1, 1, 1]).
 5
 bb x = (x_1,x_2,x_3,x_4,x_5)^t
 H,
-Hbb x = '\\y01d7ce'.
+Hbb x = bb 0.
 [x_2+x_4, "<mi//>"=0], [x_1+x_2+x_3+x_4, "<mi//>"=0], [x_3+x_4+x_5, "<mi//>"=0.]
 5
 (00000)\ (11110)\ (10101)\ (01011).
@@ -6068,9 +6068,9 @@ ZZ_2^n
 bb x, bb y in "Null"(H)
 H
 bbb M_(m xx n)(ZZ_2).
-Hbb x = '\\y01d7ce'
-Hbb y = '\\y01d7ce'.
-H(bb x+bb y) = Hbb x+Hbb y = '\\y01d7ce'+'\\y01d7ce' = '\\y01d7ce'.
+Hbb x = bb 0
+Hbb y = bb 0.
+H(bb x+bb y) = Hbb x+Hbb y = bb 0+bb 0 = bb 0.
 bb x+bb y
 H
 H in bbb M_(m xx n)(ZZ_2).
@@ -10547,7 +10547,7 @@ alpha, beta in F
 u, v in V.
 V
 F
-'\\y01d7ce',
+bb 0,
 n
 RR^n,
 RR.
@@ -10590,26 +10590,26 @@ V.
 V.
 V
 F.
-0v = '\\y01d7ce'
+0v = bb 0
 v in V.
-alpha'\\y01d7ce' = '\\y01d7ce'
+alpha bb 0 = bb 0
 alpha in F.
-alpha v = '\\y01d7ce',
+alpha v = bb 0,
 alpha = 0
-v = '\\y01d7ce'.
+v = bb 0.
 (-1)v = -v
 v in V.
 -(alpha v) = (-alpha)v = alpha(-v)
 alpha in F
 v in V.
 0v = (0+0)v = 0v+0v;
-'\\y01d7ce'+0v = 0v+0v.
+bb 0+0v = 0v+0v.
 V
-'\\y01d7ce' = 0v.
+bb 0 = 0v.
 alpha = 0.
 alpha != 0.
-alpha v = '\\y01d7ce'
+alpha v = bb 0
 1//alpha,
-v = '\\y01d7ce'.
-v+(-1)v = 1v+(-1)v = (1-1)v = 0v = '\\y01d7ce',
+v = bb 0.
+v+(-1)v = 1v+(-1)v = (1-1)v = 0v = bb 0,
 -v = (-1)v.

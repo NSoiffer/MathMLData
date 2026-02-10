@@ -85,7 +85,7 @@ bb v = (v_1, v_2, v_3) in RR^3
 bb x = (x_1, x_2, x_3) in RR^3
 bb x
 bb v
-'\\y01d7ce' = (0, 0, 0).
+bb 0 = (0, 0, 0).
 bb v
 bb x
 bb v = (v_1, v_2, v_3) in RR^3
@@ -101,7 +101,7 @@ bb v = (v_1, v_2, v_3) in RR^3.
 bb v
 -bb v,
 bb v
-'\\y01d7ce' = (0, 0, 0).
+bb 0 = (0, 0, 0).
 -bb v
 bb v+-bb v = 0.
 bb v = (v_1, v_2, v_3) in RR^3
@@ -120,11 +120,11 @@ k in RR.
 T:bbb L_1'\\x0027f6'bbb L_2
 bbb L_1
 T
-'\\y01d7ce'in bbb L_2
+bb 0 in bbb L_2
 T
-"ker"(T) = {bb P in bbb L_1\ |\ T(bb P) = '\\y01d7ce'}
+"ker"(T) = {bb P in bbb L_1\ |\ T(bb P) = bb 0}
 T:bbb L_1'\\x0027f6'bbb L_2,
-"ker"(T) = {'\\y01d7ce'}
+"ker"(T) = {bb 0}
 T
 1-1.
 bb P
@@ -193,23 +193,23 @@ bb P+(bb Q+bb R) = (bb P+bb Q)+bb R
 a(bbb P) = (ab)bb P
 (a+b)bb P = abb P+bbb P
 a(bb P+bb Q) = abb P+abb Q
-'\\y01d7ce',
-bb P+'\\y01d7ce' = bb P
-abb P = '\\y01d7ce'
+bb 0,
+bb P+bb 0 = bb P
+abb P = bb 0
 a = 0
-bb P = '\\y01d7ce'
+bb P = bb 0
 bb Q
 bbb L,
 bb X
-bb Q+bb X = '\\y01d7ce'.
+bb Q+bb X = bb 0.
 bb Q
 bb Q in bbb L.
 bb Q
 -bb Q,
 bb Q
-'\\y01d7ce'in bbb L.
+bb 0 in bbb L.
 -bb Q
-bb Q+-bb Q = '\\y01d7ce'.
+bb Q+-bb Q = bb 0.
 bbb P = {c_0+c_1 x+c_2 x^2+cdots+c_k x^k|c_i in RR, k in ZZ^+ }.
 bbb P_n = {c_0+c_1 x+c_2 x^2+cdots+c_k x^k|c_i in RR, k in ZZ^+ , k < n}.
 bb P
@@ -217,7 +217,7 @@ bb Q
 bbb L,
 c in RR:
 c(bb Q-bb P) = cbb Q-cbb P
-'\\y01d7ce',
+bb 0,
 bbb L_1, bbb L_2
 bbb L_3
 f:bbb L_1'\\x0027f6'bbb L_2,
@@ -335,7 +335,7 @@ n xx n
 tt A,
 lambda
 RR^n
-'\\y01d7ce'.
+bb 0.
 tt A
 bb v
 lambda
@@ -371,7 +371,7 @@ bbb L.
 bbb L,
 bbb S
 bbb L
-'\\y01d7ce'in bbb S,
+bb 0 in bbb S,
 bbb S
 bb P
 bb P_1, bb P_2, ..., bb P_n
@@ -410,7 +410,7 @@ bbb S = {bb P_1, bb P_2, ..., bb P_n}
 bbb L.
 bbb S
 c_1, c_2, ..., c_n,
-c_1 bb P_1+c_2 bb P_2+cdots+c_n bb P_n = '\\y01d7ce'
+c_1 bb P_1+c_2 bb P_2+cdots+c_n bb P_n = bb 0
 c_i
 T:bbb L_1'\\x0027f6'bbb L_2
 bbb L_2
@@ -497,15 +497,15 @@ bb v,
 bb w
 bb u.
 bb v
-bb v_'\\y01d7cf' ,
-bb v_'\\y01d7d0' ,
+bb v_bb 1,
+bb v_bb 2,
 bb v_bb n
-bb v = t_1 bb v_'\\y01d7cf' +t_2 bb v_'\\y01d7d0' +cdots+t_n bb v_bb n
+bb v = t_1 bb v_bb 1+t_2 bb v_bb 2+cdots+t_n bb v_bb n
 t_i.
 t_i
-bbb S = {bb v_'\\y01d7cf' , bb v_'\\y01d7d0' , ..., bb v_bb n}
+bbb S = {bb v_bb 1, bb v_bb 2, ..., bb v_bb n}
 bbb S,
-"spanS" = {t_1 bb v_'\\y01d7cf' +t_2 bb v_'\\y01d7d0' +cdots+t_n bb v_bb n|t_i in RR}
+"spanS" = {t_1 bb v_bb 1+t_2 bb v_bb 2+cdots+t_n bb v_bb n|t_i in RR}
 bbb S,
 RR^3
 bbb S?
@@ -514,7 +514,7 @@ RR^3
 "spanS" = RR^3.
 RR^3
 bbb S.
-bbb S = {bb v_'\\y01d7cf' , bb v_'\\y01d7d0' , ..., bb v_bb n}
+bbb S = {bb v_bb 1, bb v_bb 2, ..., bb v_bb n}
 "spanS"
 bbb S
 RR^3

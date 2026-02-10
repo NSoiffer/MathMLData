@@ -1,4 +1,4 @@
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -373,7 +373,7 @@ theta = t^2
 (-4, 0, 1/4).
 (-4, 0, 1/4).
 (-4, 0, 1/4).
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -427,7 +427,7 @@ bb r'(t)
 bb v(bb r(t)).
 bb r'(t)
 bb v(bb r(t))
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 bb r'(t)
 bb v(bb r(t))
 bb r'(t) = (dx/dt(t), dy/dt(t))
@@ -477,8 +477,8 @@ dt
 dx/(v_1(x,y)) = dy/(v_2(x,y)) .
 dx/(v_1(x,y)) = dy/(v_2(x,y))
 '\\x002225'
-[\ , "<mi//>"(dx/dt(t), dy/dt(t))'\\x002225'(v_1(bb r(t)),v_2(bb r(t))], [\ , \ '\\x0027fa'(dx/dt(t), dy/dt(t),0) xx(v_1(bb r(t)),v_2(bb r(t)),0)='\\y01d7ce'], [\ , \ '\\x0027fa'dx/(v_1(x,y)) =dy/(v_2(x,y)) ]
-[\ , "<mi//>"(dx/dt(t), dy/dt(t), dz/dt(t))'\\x002225'(v_1(bb r(t)),v_2(bb r(t)),v_3(bb r(t)))], [\ , \ '\\x0027fa'(dx/dt(t), dy/dt(t), dz/dt(t)) xx(v_1(bb r(t)),v_2(bb r(t)),v_3(bb r(t)))='\\y01d7ce'], [\ , \ '\\x0027fa'dx/(v_1(x,y,z)) =dy/(v_2(x,y,z)) =dz/(v_3(x,y,z)) ]
+[\ , "<mi//>"(dx/dt(t), dy/dt(t))'\\x002225'(v_1(bb r(t)),v_2(bb r(t))], [\ , \ '\\x0027fa'(dx/dt(t), dy/dt(t),0) xx(v_1(bb r(t)),v_2(bb r(t)),0)=bb 0], [\ , \ '\\x0027fa'dx/(v_1(x,y)) =dy/(v_2(x,y)) ]
+[\ , "<mi//>"(dx/dt(t), dy/dt(t), dz/dt(t))'\\x002225'(v_1(bb r(t)),v_2(bb r(t)),v_3(bb r(t)))], [\ , \ '\\x0027fa'(dx/dt(t), dy/dt(t), dz/dt(t)) xx(v_1(bb r(t)),v_2(bb r(t)),v_3(bb r(t)))=bb 0], [\ , \ '\\x0027fa'dx/(v_1(x,y,z)) =dy/(v_2(x,y,z)) =dz/(v_3(x,y,z)) ]
 bb r'(t)'\\x002225'bb v(bb r(t))
 bb v(x, y) = Omega(-y hat('\\x000131''\\x000131')+x hat('\\x000237''\\x000237'))
 bb r'(t)
@@ -488,7 +488,7 @@ Omega
 [Omega xdx=-Omega ydy, '\\x0027fa'Omega int xdx=-Omega int ydy], [\ , '\\x0027fa'1/2 Omega x^2=-1/2 Omega y^2+C'], [\ , '\\x0027fa'x^2+y^2=C]
 C'
 C = 2/Omega C'
-[\ , "<mi//>"( (dx)/(dt) (t), (dy)/(dt) (t),0) xx(v_1(bb r(t)),v_2(bb r(t)),0)='\\y01d7ce'], [\ , \ '\\x0027fa'( (dx)/(dt) (t) hat('\\x000131''\\x000131')+ (dy)/(dt) (t) hat('\\x000237''\\x000237')) xx(-Omega y(t) hat('\\x000131''\\x000131')+Omega x(t) hat('\\x000237''\\x000237'))='\\y01d7ce'], [\ , \ '\\x0027fa'(Omega x(t) (dx)/(dt) (t)+Omega y(t) (dy)/(dt) (t)) hat bb k='\\y01d7ce'], [\ , \ '\\x0027fa'Omega x(t) (dx)/(dt) (t)+Omega y(t) (dy)/(dt) (t)=0], [\ , \ '\\x0027fa'd\ /(dt) (1/2 Omega x(t)^2+1/2 Omega y(t)^2)=0], [\ , \ "(Go ahead and evaluate the derivative.)"], [\ , \ '\\x0027fa'1/2 Omega(x(t)^2+y(t)^2)=C'], [\ , \ '\\x0027fa'x(t)^2+y(t)^2=C]
+[\ , "<mi//>"( (dx)/(dt) (t), (dy)/(dt) (t),0) xx(v_1(bb r(t)),v_2(bb r(t)),0)=bb 0], [\ , \ '\\x0027fa'( (dx)/(dt) (t) hat('\\x000131''\\x000131')+ (dy)/(dt) (t) hat('\\x000237''\\x000237')) xx(-Omega y(t) hat('\\x000131''\\x000131')+Omega x(t) hat('\\x000237''\\x000237'))=bb 0], [\ , \ '\\x0027fa'(Omega x(t) (dx)/(dt) (t)+Omega y(t) (dy)/(dt) (t)) hat bb k=bb 0], [\ , \ '\\x0027fa'Omega x(t) (dx)/(dt) (t)+Omega y(t) (dy)/(dt) (t)=0], [\ , \ '\\x0027fa'd\ /(dt) (1/2 Omega x(t)^2+1/2 Omega y(t)^2)=0], [\ , \ "(Go ahead and evaluate the derivative.)"], [\ , \ '\\x0027fa'1/2 Omega(x(t)^2+y(t)^2)=C'], [\ , \ '\\x0027fa'x(t)^2+y(t)^2=C]
 bb r'(t) = bb v(bb r(t))
 bb v(x, y) = Omega(-y hat('\\x000131''\\x000131')+x hat('\\x000237''\\x000237'))
 [dx/dt, "<mi//>"=-Omega y], [dy/dt, "<mi//>"=Omega x]
@@ -504,17 +504,17 @@ theta
 x(t) = Acos(Omega t-theta)
 x''+Omega^2 x = 0.
 y(t) = -1/Omega dx/dt = Asin(Omega t-theta)
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
+bb r'(t) xx bb v(bb r(t)) = bb 0
 a < b
 bb v(bb r)
 a < u < b,
 bb R(u)
 bb R'(u)
 bb v(bb R(u))
-bb R'(u) xx bb v(bb R(u)) = '\\y01d7ce'
+bb R'(u) xx bb v(bb R(u)) = bb 0
 {\ bb R(u)\ |\ a < u < b\ }
-bb R'(u) xx bb v(bb R(u)) = '\\y01d7ce'
+bb R'(u) xx bb v(bb R(u)) = bb 0
 bb R'(u)
 bb v(bb R(u))
 a(u)
@@ -549,10 +549,10 @@ bb v(x, y)
 x(t)
 y(t)
 bb R(u)
-bb R'(u) xx bb v(bb R(u)) = '\\y01d7ce'
+bb R'(u) xx bb v(bb R(u)) = bb 0
 bb R(u)
 bb v(x, y) = x hat('\\x000131''\\x000131').
-'\\y01d7ce'
+bb 0
 y
 hat('\\x000131''\\x000131')
 hat('\\x000131''\\x000131')
@@ -583,7 +583,7 @@ t
 D
 D
 bb R(u) = u hat('\\x000131''\\x000131')+D hat('\\x000237''\\x000237').
-bb R'(u) xx bb v(bb R(u)) = hat('\\x000131''\\x000131') xx(u hat('\\x000131''\\x000131')) = '\\y01d7ce'
+bb R'(u) xx bb v(bb R(u)) = hat('\\x000131''\\x000131') xx(u hat('\\x000131''\\x000131')) = bb 0
 u
 -oo
 +oo,
@@ -604,7 +604,7 @@ f
 bb F = 2y hat('\\x000131''\\x000131')+x/(y^2) hat('\\x000237''\\x000237')+e^y hat bb k
 (1, 1, e).
 bb F = x hat('\\x000131''\\x000131')+3y hat('\\x000237''\\x000237').
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -933,7 +933,7 @@ d omega = grad grad*bb F dx^^dy^^dz
 f = grad grad*bb F
 int_D d omega = int_(del D) omega
 ['\\x00222d'_V grad grad*bb F "dxdydz"=int_V d omega=int_(del V) omega='\\x00222c'_(del V)bb F*hat bb n dS]
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -1000,7 +1000,7 @@ rsin theta\ d varphi
 dV
 r\ d theta
 rsin theta\ d varphi
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -1212,11 +1212,11 @@ hat('\\x000237''\\x000237') = hat bb k xx hat('\\x000131''\\x000131').
 hat('\\x000131''\\x000131'), \ hat('\\x000237''\\x000237'), \ hat bb k
 bb e = (e_1, e_2, e_3)
 cc V bb e = [[0, -Omega k_3, Omega k_2], [Omega k_3, 0, -Omega k_1], [-Omega k_2, Omega k_1, 0]][[e_1], [e_2], [e_3]] = Omega[[k_2 e_3-k_3 e_2], [k_3 e_1-k_1 e_3], [k_1 e_2-k_2 e_1]] = Omega hat bb k xx bb e
-[cc V hat('\\x000131''\\x000131'), "<mi//>"=Omega hat bb k xx hat('\\x000131''\\x000131')=Omega hat('\\x000237''\\x000237'), cc V hat('\\x000237''\\x000237'), "<mi//>"=Omega hat bb k xx hat('\\x000237''\\x000237')=-Omega hat('\\x000131''\\x000131'), cc V hat bb k, "<mi//>"=Omega hat bb k xx hat bb k='\\y01d7ce'], [cc V^2 hat('\\x000131''\\x000131'), "<mi//>"=Omega cc V hat('\\x000237''\\x000237')=-Omega^2 hat('\\x000131''\\x000131'), cc V^2 hat('\\x000237''\\x000237'), "<mi//>"=-Omega cc V hat('\\x000131''\\x000131')=-Omega^2 hat('\\x000237''\\x000237'), cc V^2 hat bb k, "<mi//>"=cc V'\\y01d7ce'='\\y01d7ce'], [cc V^3 hat('\\x000131''\\x000131'), "<mi//>"=Omega cc V^2 hat('\\x000237''\\x000237')=-Omega^3 hat('\\x000237''\\x000237'), cc V^3 hat('\\x000237''\\x000237'), "<mi//>"=-Omega cc V^2 hat('\\x000131''\\x000131')=Omega^3 hat('\\x000131''\\x000131'), cc V^3 hat bb k, "<mi//>"=cc V^2'\\y01d7ce'='\\y01d7ce'], [cc V^4 hat('\\x000131''\\x000131'), "<mi//>"=Omega cc V^3 hat('\\x000237''\\x000237')=Omega^4 hat('\\x000131''\\x000131'), cc V^4 hat('\\x000237''\\x000237'), "<mi//>"=-Omega cc V^3 hat('\\x000131''\\x000131')=Omega^4 hat('\\x000237''\\x000237'), cc V^4 hat bb k, "<mi//>"=cc V^3'\\y01d7ce'='\\y01d7ce']
+[cc V hat('\\x000131''\\x000131'), "<mi//>"=Omega hat bb k xx hat('\\x000131''\\x000131')=Omega hat('\\x000237''\\x000237'), cc V hat('\\x000237''\\x000237'), "<mi//>"=Omega hat bb k xx hat('\\x000237''\\x000237')=-Omega hat('\\x000131''\\x000131'), cc V hat bb k, "<mi//>"=Omega hat bb k xx hat bb k=bb 0], [cc V^2 hat('\\x000131''\\x000131'), "<mi//>"=Omega cc V hat('\\x000237''\\x000237')=-Omega^2 hat('\\x000131''\\x000131'), cc V^2 hat('\\x000237''\\x000237'), "<mi//>"=-Omega cc V hat('\\x000131''\\x000131')=-Omega^2 hat('\\x000237''\\x000237'), cc V^2 hat bb k, "<mi//>"=cc V bb 0=bb 0], [cc V^3 hat('\\x000131''\\x000131'), "<mi//>"=Omega cc V^2 hat('\\x000237''\\x000237')=-Omega^3 hat('\\x000237''\\x000237'), cc V^3 hat('\\x000237''\\x000237'), "<mi//>"=-Omega cc V^2 hat('\\x000131''\\x000131')=Omega^3 hat('\\x000131''\\x000131'), cc V^3 hat bb k, "<mi//>"=cc V^2 bb 0=bb 0], [cc V^4 hat('\\x000131''\\x000131'), "<mi//>"=Omega cc V^3 hat('\\x000237''\\x000237')=Omega^4 hat('\\x000131''\\x000131'), cc V^4 hat('\\x000237''\\x000237'), "<mi//>"=-Omega cc V^3 hat('\\x000131''\\x000131')=Omega^4 hat('\\x000237''\\x000237'), cc V^4 hat bb k, "<mi//>"=cc V^3 bb 0=bb 0]
 n >= 1,
-cc V^n hat('\\x000131''\\x000131') = (-1)^((n-1)//2) Omega^n hat('\\x000237''\\x000237')\ cc V^n hat('\\x000237''\\x000237') = -(-1)^((n-1)//2) Omega^n hat('\\x000131''\\x000131')\ cc V^n hat bb k = '\\y01d7ce'
+cc V^n hat('\\x000131''\\x000131') = (-1)^((n-1)//2) Omega^n hat('\\x000237''\\x000237')\ cc V^n hat('\\x000237''\\x000237') = -(-1)^((n-1)//2) Omega^n hat('\\x000131''\\x000131')\ cc V^n hat bb k = bb 0
 n >= 2,
-cc V^n hat('\\x000131''\\x000131') = (-1)^(n//2) Omega^n hat('\\x000131''\\x000131')\ cc V^n hat('\\x000237''\\x000237') = (-1)^(n//2) Omega^n hat('\\x000237''\\x000237')\ cc V^n hat bb k = '\\y01d7ce'
+cc V^n hat('\\x000131''\\x000131') = (-1)^(n//2) Omega^n hat('\\x000131''\\x000131')\ cc V^n hat('\\x000237''\\x000237') = (-1)^(n//2) Omega^n hat('\\x000237''\\x000237')\ cc V^n hat bb k = bb 0
 [e^(cc V t) hat('\\x000131''\\x000131'), "<mi//>"=sum_(n=0)^ oo 1/(n!) (cc V t)^n hat('\\x000131''\\x000131')=sum_(n\ "even") ((-1)^(n//2))/(n!) (Omega t)^n hat('\\x000131''\\x000131')\ +sum_(n\ odd) ((-1)^((n-1)//2))/(n!) (Omega t)^n hat('\\x000237''\\x000237')], [\ , "<mi//>"=-cos(Omega t) hat('\\x000131''\\x000131')+sin(Omega t) hat('\\x000237''\\x000237')], [e^(cc V t) hat('\\x000237''\\x000237'), "<mi//>"=sum_(n=0)^ oo 1/(n!) (cc V t)^n hat('\\x000237''\\x000237')=sum_(n\ "even") ((-1)^(n//2))/(n!) (Omega t)^n hat('\\x000237''\\x000237')\ -sum_(n\ odd) ((-1)^((n-1)//2))/(n!) (Omega t)^n hat('\\x000131''\\x000131')], [\ , "<mi//>"=-sin(Omega t) hat('\\x000131''\\x000131')+cos(Omega t) hat('\\x000237''\\x000237')], [e^(cc V t) hat bb k, "<mi//>"=sum_(n=0)^ oo 1/(n!) (cc V t)^n hat bb k], [\ , "<mi//>"=hat bb k]
 e^(cc V t)
 Omega t
@@ -1309,7 +1309,7 @@ e^(0.4cc V) hat bb e^((k)) = e^(0.4(A+S)) hat bb e^((k))
 n
 [e^(0.4A//n)e^(0.4S//n)]^n hat bb e^((k))
 e^(0.4(A+S)) hat bb e^((k)).
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -1447,7 +1447,7 @@ S_2
 S_1.
 [\ , "<mi//>"'\\x00222c'_(S_2) grad grad xx bb F*hat bb n\ dS-'\\x00222c'_(S_1) grad grad xx bb F*hat bb n\ dS], [\ , "<mi//>"\ ='\\x00222c'_(S_2) grad grad xx bb F*hat N\ dS+'\\x00222c'_(S_1) grad grad xx bb F*hat N\ dS], [\ , "<mi//>"\ ='\\x00222c'_(del V) grad grad xx bb F*hat N\ dS], [\ , "<mi//>"\ ='\\x00222d'_V grad grad*(grad grad xx bb F)\ dV], [\ , \ "by the divergence theorem"], [\ , "<mi//>"\ =0]
 bb F
-grad grad xx bb F = '\\y01d7ce'
+grad grad xx bb F = bb 0
 oint_C bb F*dbb r = 0
 C,
 bb F
@@ -1568,7 +1568,7 @@ z
 x^2 = z-2y^2
 x
 z.
-[grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [cos x+y+z, x+z, x+y]]], [\ , "<mi//>"=hat('\\x000131''\\x000131')(1-1)-hat('\\x000237''\\x000237')(1-1)+hat bb k(1-1)], [\ , "<mi//>"='\\y01d7ce']
+[grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [cos x+y+z, x+z, x+y]]], [\ , "<mi//>"=hat('\\x000131''\\x000131')(1-1)-hat('\\x000237''\\x000237')(1-1)+hat bb k(1-1)], [\ , "<mi//>"=bb 0]
 bb F
 bb F = grad grad(sin x+xy+xz+yz).
 C
@@ -1863,7 +1863,7 @@ bb x
 S,
 S
 '\\x00222c'_S(grad grad xx bb E+ (del bb B)/(del t) )*hat bb n dS > 0,
-bb G = '\\y01d7ce'
+bb G = bb 0
 grad grad xx bb E+ (del bb B)/(del t) = 0
 S
 del S.
@@ -2216,7 +2216,7 @@ bb F = (y-z) hat('\\x000131''\\x000131')+(z-x) hat('\\x000237''\\x000237')+(x-y)
 S'
 '\\x00222c'_S(grad grad xx bb F)*hat bb n dS = '\\x00222c'_(S')(grad grad xx bb F)*hat bb n dS
 '\\x00222c'_(S')(grad grad xx bb F)*hat bb n dS.
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -2494,7 +2494,7 @@ S_1:
 (2, 2, 4),
 x = y.
 bb r(t) = 4 hat('\\x000131''\\x000131')+4 hat('\\x000237''\\x000237')+t hat bb k.
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -2625,7 +2625,7 @@ bb v(t) = (ds)/dt hat T(t),
 bb a(t) = (d^2 bb r)/(dt^2) = (d^2 s)/(dt^2) hat bb T+ (ds)/dt(d hat bb T)/dt = (d^2 s)/(dt^2) hat bb T+kappa( (ds)/dt)^2 hat bb N
 (x(t), y(t)),
 xy
-[bb v(t) xx bb a(t), "<mi//>"=( (ds)/(dt) (t) hat T(t)) xx( (d^2 s)/(dt^2) hat T+kappa( (ds)/(dt) )^2 hat N)], [\ , "<mi//>"=kappa( (ds)/(dt) )^3 hat T xx hat N\ "(since\ " hat T xx hat T='\\y01d7ce']
+[bb v(t) xx bb a(t), "<mi//>"=( (ds)/(dt) (t) hat T(t)) xx( (d^2 s)/(dt^2) hat T+kappa( (ds)/(dt) )^2 hat N)], [\ , "<mi//>"=kappa( (ds)/(dt) )^3 hat T xx hat N\ "(since\ " hat T xx hat T=bb 0]
 hat T
 hat N
 z
@@ -2660,7 +2660,7 @@ bb T(t) = (bb v(t))/(|bb v(t)|) = -sin t hat('\\x000131''\\x000131')+cos t hat('
 bb r(t)
 rho(t),
 hat bb N(T),
-bb r(t)+rho(t) hat bb N(t) = [acos t hat('\\x000131''\\x000131')+asin t hat('\\x000237''\\x000237')]+a[-cos t hat('\\x000131''\\x000131')-sin t hat('\\x000237''\\x000237')] = '\\y01d7ce'
+bb r(t)+rho(t) hat bb N(t) = [acos t hat('\\x000131''\\x000131')+asin t hat('\\x000237''\\x000237')]+a[-cos t hat('\\x000131''\\x000131')-sin t hat('\\x000237''\\x000237')] = bb 0
 x(t) = acos t,
 y(t) = asin t,
 [kappa(t), "<mi//>"= (|dx/dt(t) (d^2 y)/(dt^2) (t)-dy/dt(t) (d^2 x)/(dt^2) (t)|)/([(dx/dt(t))^2+(dy/dt(t))^2]^(3//2)) ], [\ , "<mi//>"= (|-asin t(-asin t)-acos t(-acos t)|)/([(-asin t)^2+(acos t)^2]^(3//2)) ], [\ , "<mi//>"=1/a]
@@ -2750,23 +2750,23 @@ kappa(x)
 kappa(x)
 x -> oo
 x -> -oo?
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -2814,7 +2814,7 @@ arctan x
 "arcsec"x != pi/2
 ["arccsc"(csc theta), "<mi//>"=theta, "<mi//>"-pi/2<=theta<=pi/2,\ theta!=0], ["arcsec"(sec theta), "<mi//>"=theta, 0<=theta<=pi,\ theta!=pi/2], ["arccot"(cot theta), "<mi//>"=theta, 0<theta<pi]
 [csc("arccsc"x), "<mi//>"=x, "<mi//>"|x|>=1], [sec("arcsec"x), "<mi//>"=x, "<mi//>"|x|>=1], [cot("arccot"x), "<mi//>"=x, "any real\ "x]
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -2895,11 +2895,11 @@ arctan g(x)
 1/(|x|sqrt(x^2-1))
 "arccot"x
 -1/(1+x^2)
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -2915,7 +2915,7 @@ bb n
 [bb T_u, "<mi//>"= (del\ )/(del u) bb r(u,v_0)|_(u=u_0)=( (del x)/(del u) (u_0,v_0), (del y)/(del u) (u_0,v_0), (del z)/(del u) (u_0,v_0))], [bb T_v, "<mi//>"= (del\ )/(del v) bb r(u_0,v)|_(v=v_0)=( (del x)/(del v) (u_0,v_0), (del y)/(del v) (u_0,v_0), (del z)/(del v) (u_0,v_0))]
 [bb n=bb T_u xx bb T_v=det|[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del x)/(del u) (u_0,v_0), (del y)/(del u) (u_0,v_0), (del z)/(del u) (u_0,v_0)], [ (del x)/(del v) (u_0,v_0), (del y)/(del v) (u_0,v_0), (del z)/(del v) (u_0,v_0)]|]
 (x_0, y_0, z_0),
-bb n != '\\y01d7ce'.
+bb n != bb 0.
 (x_0, y_0, z_0) = f(x_0, y_0)
 z = f(x, y).
 [bb n=-f_x(x_0,y_0) hat('\\x000131''\\x000131')-f_y(x_0,y_0) hat('\\x000237''\\x000237')+hat bb k]
@@ -2923,7 +2923,7 @@ z = f(x, y).
 G(x, y, z) = K,
 K
 (x_0, y_0, z_0)
-grad grad G(x_0, y_0, z_0) != '\\y01d7ce'.
+grad grad G(x_0, y_0, z_0) != bb 0.
 [bb n=grad grad G(x_0,y_0,z_0)]
 (x_0, y_0, z_0).
 bb n
@@ -2994,11 +2994,11 @@ grad grad G(x_0, y_0, z_0) = (2x_0, 2y_0, -2z_0) = -2(-x_0, -y_0, z_0)
 x^2+y^2-z^2 = 0
 (x_0, y_0, z_0)
 0 = bb n*(x-x_0, y-y_0, z-z_0) = -x_0(x-x_0)-y_0(y-y_0)+z_0(z-z_0)
-(x_0, y_0, z_0) != '\\y01d7ce'.
-(x_0, y_0, z_0) = '\\y01d7ce'
+(x_0, y_0, z_0) != bb 0.
+(x_0, y_0, z_0) = bb 0
 0 = 0
-bb T_u xx bb T_v = '\\y01d7ce'
-grad grad G(x_0, y_0, z_0) = '\\y01d7ce'
+bb T_u xx bb T_v = bb 0
+grad grad G(x_0, y_0, z_0) = bb 0
 bb r'(t) = 0.
 (x_0, y_0, z_0),
 bb r(u, v)
@@ -3012,7 +3012,7 @@ bb r(u, v) = ucos v hat('\\x000131''\\x000131')+usin v hat('\\x000237''\\x000237
 bb T_u = cos v_0 hat('\\x000131''\\x000131')+sin v_0 hat('\\x000237''\\x000237')
 bb T_v = -u_0 sin v_0 hat('\\x000131''\\x000131')+u_0 cos v_0 hat('\\x000237''\\x000237'),
 bb T_u xx bb T_v = u_0 hat bb k
-'\\y01d7ce'
+bb 0
 u_0 = 0.
 z = 0
 x^2+y^2 = z^2.
@@ -3037,7 +3037,7 @@ grad grad G(x_0, y_0, z_0) = (2x_0, 2y_0, -2z_0) = 2(x_0, y_0, -z_0)
 x^2+y^2-z^2 = 1
 (x_0, y_0, z_0)
 0 = bb n*(x-x_0, y-y_0, z-z_0) = x_0(x-x_0)+y_0(y-y_0)-z_0(z-z_0)
-bb n = (x_0, y_0, -z_0) != '\\y01d7ce',
+bb n = (x_0, y_0, -z_0) != bb 0,
 bb n = (x_0, y_0, -z_0)
 (x_0, y_0, z_0) = (0, 0, 0)
 (0, 0, 0)
@@ -3070,7 +3070,7 @@ x^2+y^2+(z+1)^2 = 1
 (0, 0, 0)?
 bb r_0 = (x_0, y_0, z_0)
 G(x, y, z) = 0.
-grad grad G(x_0, y_0, z_0) != '\\y01d7ce'.
+grad grad G(x_0, y_0, z_0) != bb 0.
 bb r(t) = (x(t), y(t), z(t))
 bb r(t_0) = bb r_0.
 bb r_0
@@ -3138,7 +3138,7 @@ z^3+xyz-2 = 0
 P.
 z = xye^(-(x^2+y^2)//2)
 z
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -3179,7 +3179,7 @@ x
 [kappa(x)= (| (d^2 y)/(dx^2) (x)|)/([1+(dy/dx(x))^2]^(3//2)) ]
 dx/dx = 1
 (d^2 x)/(dx^2) = 0.
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -3280,7 +3280,7 @@ bb r( (4 pi)/3) = (0, 0, 3)
 cos(2 pi)/3 = cos(4 pi)/3 = -1/2,
 sin(2 pi)/3 = (sqrt(3))/2
 sin(4 pi)/3 = - (sqrt(3))/2.
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -3407,7 +3407,7 @@ F_2(x, y, z)
 F_3(x, y, z)
 F_1(x, y, z) hat('\\x000131''\\x000131')+F_2(x, y, z) hat('\\x000237''\\x000237')+F_3(x, y, z) hat bb k
 (del F_1)/(del y) = (del F_2)/(del x) \ (del F_1)/(del z) = (del F_3)/(del x) \ (del F_2)/(del z) = (del F_3)/(del y)
-grad grad xx bb F = ( (del F_3)/(del y) - (del F_2)/(del z) ) hat('\\x000131''\\x000131')+( (del F_1)/(del z) - (del F_3)/(del x) ) hat('\\x000237''\\x000237')+( (del F_2)/(del x) - (del F_1)/(del y) ) hat bb k = '\\y01d7ce'
+grad grad xx bb F = ( (del F_3)/(del y) - (del F_2)/(del z) ) hat('\\x000131''\\x000131')+( (del F_1)/(del z) - (del F_3)/(del x) ) hat('\\x000237''\\x000237')+( (del F_2)/(del x) - (del F_1)/(del y) ) hat bb k = bb 0
 bb F
 F_1(x, y) hat('\\x000131''\\x000131')+F_2(x, y) hat('\\x000237''\\x000237')
 phi(x, y)
@@ -3428,7 +3428,7 @@ phi(x, y, z)
 (del\ )/(del z)
 (del\ )/(del y)
 [{ ( (del^2 phi)/(del z del y) = (del F_2)/(del z) )/( (del^2 phi)/(del y del z) = (del F_3)/(del y) ) }'\\x0027f9' (del F_2)/(del z) = (del F_3)/(del y) ]
-grad grad xx bb F = '\\y01d7ce'.
+grad grad xx bb F = bb 0.
 (del F_1)/(del y) != (del F_2)/(del x)
 bb F
 (del F_1)/(del y) = (del F_2)/(del x)
@@ -3444,10 +3444,10 @@ Omega = 0.
 Omega = 0
 bb F(x, y, z) = y hat('\\x000131''\\x000131')-z hat('\\x000237''\\x000237')+x hat bb k
 [grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del\ )/(del x) , (del\ )/(del y) , (del\ )/(del z) ], [y, -z, x]]=hat('\\x000131''\\x000131')-hat('\\x000237''\\x000237')-hat bb k]
-'\\y01d7ce',
+bb 0,
 bb F
 bb F(x, y, z) = (y^2+2xz^2-1) hat('\\x000131''\\x000131')+(2x+1)y hat('\\x000237''\\x000237')+(2x^2 z+z^3) hat bb k
-[grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del\ )/(del x) , (del\ )/(del y) , (del\ )/(del z) ], [y^2+2xz^2-1, (2x+1)y, 2x^2 z+z^3]]], [\ , "<mi//>"=0 hat('\\x000131''\\x000131')-(4xz-4xz) hat('\\x000237''\\x000237')+(2y-2y) hat bb k], [\ , "<mi//>"='\\y01d7ce']
+[grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del\ )/(del x) , (del\ )/(del y) , (del\ )/(del z) ], [y^2+2xz^2-1, (2x+1)y, 2x^2 z+z^3]]], [\ , "<mi//>"=0 hat('\\x000131''\\x000131')-(4xz-4xz) hat('\\x000237''\\x000237')+(2y-2y) hat bb k], [\ , "<mi//>"=bb 0]
 bb F
 phi(x, y, z)
 [ (del phi)/(del x) (x,y,z), "<mi//>"=y^2+2xz^2-1], [(**), (del phi)/(del y) (x,y,z), "<mi//>"=(2x+1)y], [ (del phi)/(del z) (x,y,z), "<mi//>"=2x^2 z+z^3]
@@ -3604,8 +3604,8 @@ bb F = 2f(x)f'(x) hat('\\x000131''\\x000131')+g'(y)h(z) hat('\\x000237''\\x00023
 bb F
 RR^3
 bb F = '\\x0027e8'xy, xz, y^2+z'\\x0027e9'
-'\\y01d7ce'.
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb 0.
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -4281,7 +4281,7 @@ RR^3
 S
 {\ (x, y, z)\ |\ f(x, y, z) = c\ }
 c in RR.
-grad grad f != '\\y01d7ce'
+grad grad f != bb 0
 S.
 bb F
 bb F = grad grad f.
@@ -4309,7 +4309,7 @@ cc S
 bb F
 cc S
 bb F = xy hat('\\x000131''\\x000131')+(z-xy) hat('\\x000237''\\x000237')
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -4580,7 +4580,7 @@ u = x^2+y^2+z^2.
 A
 B
 bb F
-grad grad xx bb F = '\\y01d7ce'?
+grad grad xx bb F = bb 0?
 {\ (x, y, z)\ |\ phi(x, y, z) >= -E\ }
 E
 1/2 m|bb v(t)|^2-phi(x(t), y(t), z(t)) = E
@@ -4590,7 +4590,7 @@ phi.
 f,
 g,
 h
-'\\y01d7ce'
+bb 0
 x
 y
 C!
@@ -4844,7 +4844,7 @@ C.
 R.
 S
 bb F(x, y, z) = F_1(x, y) hat('\\x000131''\\x000131')+F_2(x, y) hat('\\x000237''\\x000237').
-grad grad xx[varphi grad grad psi+psi grad grad varphi] = '\\y01d7ce'
+grad grad xx[varphi grad grad psi+psi grad grad varphi] = bb 0
 x^2+y^2 = 1,
 z = y^2,
 x^2+y^2 = 1.
@@ -4925,7 +4925,7 @@ V.
 '\\x00222c'_S grad grad xx bb F*hat bb n dS
 S.
 oint_C bb F*dbb r-oint_C bb G*dbb r = oint_C(bb F-bb G)*dbb r.
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -4979,11 +4979,11 @@ bb r(t)
 pi ab.
 1/2 r^2(d theta)/dt = h/2,
 [T^2=( (pi ab)/(h//2) )^2= (4 pi^2 a^2 b^2)/(h^2) = (4 pi^2 a^2 b^2)/(GMcc l) = (4 pi^2)/(GM) \ a^3\ "since\ "cc l= (b^2)/a]
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -5182,10 +5182,10 @@ x -> -x
 y -> -y.
 4.
 ["perimeter", "<mi//>"=4 int_0^(pi//2) (ds)/dt\ dt=4 int_0^(pi//2)3asin tcos t\ dt], [\ , "<mi//>"=6a int_0^(pi//2)sin(2t)\ dt=6a[- (cos(2t))/2]_0^(pi//2)], [\ , "<mi//>"=6a]
-bb r'(t) = '\\y01d7ce'
+bb r'(t) = bb 0
 bb r(t)
 bb r'(t)
-bb r'(t) = '\\y01d7ce'.
+bb r'(t) = bb 0.
 t
 bb r(t).
 bb r'(t) = 0,
@@ -5402,7 +5402,7 @@ bb r = bb r_0
 (dbb r)/dt = bb v_0
 t = 0,
 bb r(t).
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -5452,12 +5452,12 @@ y =
 z =
 z = 0,
 z != 0
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
 grad grad xx bb F = 0
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -5537,11 +5537,11 @@ arctan g(x)+C
 1/a arctan x/a+C
 1/(xsqrt(x^2-1))
 "arcsec"x+C"\for\ "x > 1
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -5565,7 +5565,7 @@ dS
 rho\ d phi
 rho sin phi\ d theta
 dV
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -5630,7 +5630,7 @@ bb F
 D,
 D
 RR^3
-grad grad xx bb F = '\\y01d7ce'
+grad grad xx bb F = bb 0
 oint_C bb F*dbb r
 C
 RR^3
@@ -5664,7 +5664,7 @@ RR^3
 P,
 Q,
 R
-grad grad xx bb F = '\\y01d7ce'
+grad grad xx bb F = bb 0
 RR^3
 bb F
 bb F = P hat('\\x000131''\\x000131')+Q hat('\\x000237''\\x000237')+R hat bb k
@@ -5883,7 +5883,7 @@ f,
 g
 RR^3
 C
-grad grad f = '\\y01d7ce',
+grad grad f = bb 0,
 int_C fds = 0.
 bb r(t)
 C
@@ -5915,7 +5915,7 @@ int_C bb F*dbb r
 C.
 grad grad f = 0,
 f
-grad grad xx bb F = '\\y01d7ce',
+grad grad xx bb F = bb 0,
 bb F
 grad grad*bb F = 0,
 '\\x00222c'_S bb F*hat bb n dS = 0
@@ -5958,12 +5958,12 @@ hat bb n.
 grad grad*grad grad f = 0
 bb F xx grad grad f = f grad grad*bb F
 grad grad^2 f = grad grad(grad grad*f)
-grad grad xx grad grad f = '\\y01d7ce'
+grad grad xx grad grad f = bb 0
 (grad grad xx f)+(grad grad xx g) = grad grad f xx grad grad g
 grad grad*grad grad xx bb F = 0
 grad grad*bb r/(|bb r|^2) = 0
-bb r != '\\y01d7ce'
-grad grad xx(omega omega xx bb r) = '\\y01d7ce'
+bb r != bb 0
+grad grad xx(omega omega xx bb r) = bb 0
 '\\x00222d'_ Omega f grad grad*bb F dV = -'\\x00222d'_ Omega grad grad f*bb F dV+'\\x00222c'_(del Omega)fbb F*hat bb n dS
 '\\x00222c'_(del Omega)f hat bb n dS = -'\\x00222d'_ Omega grad grad fdV
 RR^3.
@@ -5992,7 +5992,7 @@ D
 f in C^k
 f
 k
-grad grad xx(f grad grad f) = '\\y01d7ce'
+grad grad xx(f grad grad f) = bb 0
 C^2
 f
 RR^3.
@@ -6086,11 +6086,11 @@ oint_C bb F*dbb r = '\\x00222c'_S bb G*hat bb n dS,
 S
 C.
 bb G = grad grad xx bb F.
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -6122,7 +6122,7 @@ bb v(t) = (dbb r)/dt(t)
 bb r(t) xx bb v(t)
 bb r(t) xx bb v(t)
 Omega Omega(t) = bb r(t) xx bb v(t)
-[ (d Omega Omega)/dt(t), "<mi//>"=d\ /dt(bb r(t) xx bb v(t))=bb v(t) xx bb v(t)+bb r(t) xx bb a(t)], [\ , "<mi//>"=1/m bb r(t) xx bb F(bb r(t))], [(A), \ , "<mi//>"='\\y01d7ce']
+[ (d Omega Omega)/dt(t), "<mi//>"=d\ /dt(bb r(t) xx bb v(t))=bb v(t) xx bb v(t)+bb r(t) xx bb a(t)], [\ , "<mi//>"=1/m bb r(t) xx bb F(bb r(t))], [(A), \ , "<mi//>"=bb 0]
 bb r(t)
 bb F(bb r(t))
 Omega Omega(t)
@@ -6134,10 +6134,10 @@ bb r(t) xx bb v(t) = Omega Omega,
 bb r(t)
 Omega Omega
 bb r(t)*Omega Omega = 0
-Omega Omega != '\\y01d7ce',
+Omega Omega != bb 0,
 bb r(t)
 Omega Omega.
-Omega Omega = '\\y01d7ce',
+Omega Omega = bb 0,
 bb r(t)
 bb v(t)
 alpha(t)
@@ -6172,7 +6172,7 @@ alpha
 r^2 dot theta = h
 r
 h.
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -6228,12 +6228,12 @@ B_(d//2)(bb a)
 cc O.
 cc C = {\ (x, y) in RR^2\ |\ 0 <= x <= 1, \ 0 <= y <= 1\ }
 RR^2.
-'\\y01d7ce' = (0, 0)
+bb 0 = (0, 0)
 cc C.
 epsilon > 0
-B_ epsilon('\\y01d7ce')
+B_ epsilon(bb 0)
 cc C
-B_ epsilon('\\y01d7ce')
+B_ epsilon(bb 0)
 (-epsilon/2, 0),
 cc C.
 x
@@ -6425,7 +6425,7 @@ bb F = grad grad phi+sum_(cc l=1)^n alpha_cc l Theta Theta_cc l
 Theta Theta_cc l
 Theta Theta
 cc l^(th)
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -6594,7 +6594,7 @@ bb r(x, y, z) = x hat('\\x000131''\\x000131')+y hat('\\x000237''\\x000237')+z ha
 psi(x, y, z)
 grad grad*(bb r xx grad grad psi) = 0
 [grad grad*(bb r xx grad grad psi)=(grad grad xx bb r)*grad grad psi-bb r*(grad grad xx(grad grad psi))]
-grad grad xx bb r = ( (del z)/(del y) - (del y)/(del z) ) hat('\\x000131''\\x000131')-( (del z)/(del x) - (del x)/(del z) ) hat('\\x000237''\\x000237')+( (del y)/(del x) - (del x)/(del y) ) hat bb k = '\\y01d7ce'
+grad grad xx bb r = ( (del z)/(del y) - (del y)/(del z) ) hat('\\x000131''\\x000131')-( (del z)/(del x) - (del x)/(del z) ) hat('\\x000237''\\x000237')+( (del y)/(del x) - (del x)/(del y) ) hat bb k = bb 0
 grad grad*(bb r xx grad grad psi) = 0
 bb r(x, y, z).
 bb A
@@ -6606,7 +6606,7 @@ bb B,
 grad grad*bb B = 0
 bb A
 tilde A
-grad grad xx bb A = grad grad xx tilde A'\\x0027fa'grad grad xx(bb A-tilde A) = '\\y01d7ce'
+grad grad xx bb A = grad grad xx tilde A'\\x0027fa'grad grad xx(bb A-tilde A) = bb 0
 bb A-tilde A
 bb A
 bb B
@@ -6813,8 +6813,8 @@ z.
 ['\\x00222c'_(S_ epsilon)x^2 dS, "<mi//>"='\\x00222c'_(S_ epsilon)y^2 dS='\\x00222c'_(S_ epsilon)z^2 dS=1/3'\\x00222c'_(S_ epsilon)[x^2+y^2+z^2]dS], [\ , "<mi//>"=1/3'\\x00222c'_(S_ epsilon) epsilon^2 dS\ "since\ "x^2+y^2+z^2=epsilon^2 "\on\ "S_ epsilon], [\ , "<mi//>"=4/3 pi epsilon^4]
 S_ epsilon
 4 pi epsilon^2.
-[\ , "<mi//>"'\\x00222c'_(S_ epsilon)bb v(x,y,z)*hat bb n(x,y,z)dS=4/3 pi epsilon^3(bb B*hat('\\x000131''\\x000131')+bb C*hat('\\x000237''\\x000237')+bb D*hat bb k)], [\ , "<mi//>"\ +1/epsilon'\\x00222c'_(S_ epsilon)bb R(x,y,z)*(x,y,z)dS], [\ , "<mi//>"\ =4/3 pi epsilon^3 grad grad*bb v('\\y01d7ce')+1/epsilon'\\x00222c'_(S_ epsilon)bb R(x,y,z)*(x,y,z)dS], [\ , \ "(review the definitions of\ "bb B,bb C,bb D)]
-[\ , "<mi//>"lim_(epsilon->0) 1/(4/3 pi epsilon^3) '\\x00222c'_(S_ epsilon)bb v(x,y,z)*hat bb n(x,y,z)dS], [\ , "<mi//>"\ =grad grad*bb v('\\y01d7ce')+lim_(epsilon->0) 3/(4 pi epsilon^4) '\\x00222c'_(S_ epsilon)bb R(x,y,z)*(x,y,z)dS]
+[\ , "<mi//>"'\\x00222c'_(S_ epsilon)bb v(x,y,z)*hat bb n(x,y,z)dS=4/3 pi epsilon^3(bb B*hat('\\x000131''\\x000131')+bb C*hat('\\x000237''\\x000237')+bb D*hat bb k)], [\ , "<mi//>"\ +1/epsilon'\\x00222c'_(S_ epsilon)bb R(x,y,z)*(x,y,z)dS], [\ , "<mi//>"\ =4/3 pi epsilon^3 grad grad*bb v(bb 0)+1/epsilon'\\x00222c'_(S_ epsilon)bb R(x,y,z)*(x,y,z)dS], [\ , \ "(review the definitions of\ "bb B,bb C,bb D)]
+[\ , "<mi//>"lim_(epsilon->0) 1/(4/3 pi epsilon^3) '\\x00222c'_(S_ epsilon)bb v(x,y,z)*hat bb n(x,y,z)dS], [\ , "<mi//>"\ =grad grad*bb v(bb 0)+lim_(epsilon->0) 3/(4 pi epsilon^4) '\\x00222c'_(S_ epsilon)bb R(x,y,z)*(x,y,z)dS]
 |bb R(x, y, z)| <= K epsilon^2
 S_ epsilon,
 |(x, y, z)| = epsilon,
@@ -6822,13 +6822,13 @@ S_ epsilon,
 epsilon -> 0.
 bb v(x, y, z) = x hat('\\x000131''\\x000131')+y hat('\\x000237''\\x000237')+z hat bb k
 S_ epsilon.
-[grad grad*bb v('\\y01d7ce')=3]
+[grad grad*bb v(bb 0)=3]
 bb v(x, y, z) = -y hat('\\x000131''\\x000131')+x hat('\\x000237''\\x000237')
 S_ epsilon.
-[grad grad*bb v('\\y01d7ce')=0]
+[grad grad*bb v(bb 0)=0]
 bb v(x, y, z) = hat('\\x000131''\\x000131')
 S_ epsilon.
-[grad grad*bb v('\\y01d7ce')=0]
+[grad grad*bb v(bb 0)=0]
 grad grad xx bb v(bb r_0)*hat bb n
 hat bb n.
 grad grad xx bb v(bb r_0)*hat bb n
@@ -6906,14 +6906,14 @@ epsilon -> 0.
 hat bb n = hat bb k
 bb v(x, y, z) = x hat('\\x000131''\\x000131')+y hat('\\x000237''\\x000237')+z hat bb k
 C_ epsilon.
-[grad grad xx bb v('\\y01d7ce')=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [x, y, z]]='\\y01d7ce''\\x0027f9'grad grad xx bb v('\\y01d7ce')*hat bb k=0]
+[grad grad xx bb v(bb 0)=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [x, y, z]]=bb 0'\\x0027f9'grad grad xx bb v(bb 0)*hat bb k=0]
 bb v(x, y, z) = -y hat('\\x000131''\\x000131')+x hat('\\x000237''\\x000237')
 C_ epsilon.
-[grad grad xx bb v('\\y01d7ce')*hat bb k=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [-y, x, 0]]*hat bb k=2 hat bb k*hat bb k=2]
+[grad grad xx bb v(bb 0)*hat bb k=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [-y, x, 0]]*hat bb k=2 hat bb k*hat bb k=2]
 2.
 bb v(x, y, z) = hat('\\x000131''\\x000131')
 C_ epsilon.
-[1/2*grad grad xx bb v('\\y01d7ce')*hat bb k=1/2 det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [1, 0, 0]]*hat bb k='\\y01d7ce'*hat bb k=0]
+[1/2*grad grad xx bb v(bb 0)*hat bb k=1/2 det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [1, 0, 0]]*hat bb k=bb 0*hat bb k=0]
 bb F = P hat('\\x000131''\\x000131')+Q hat('\\x000237''\\x000237')
 A
 B
@@ -7027,7 +7027,7 @@ bb r(t) = tx hat('\\x000131''\\x000131')+ty hat('\\x000237''\\x000237')+tz hat b
 bb G(x, y, z) = int_0^1 tbb F(bb r(t)) xx(dbb r)/dt(t)dt
 grad grad xx bb G = bb F
 RR^3.
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -7105,15 +7105,15 @@ y_A <= a'\\x0027fa'E/(mg) <= a.
 y_A = 2/3 E/(mg) +a/3
 2a = 5/3 a+a/3,
 y_A <= 2a'\\x0027fa'E/(mg) <= 5/2 a.
-\ '\\y01d7ce' <= bb E/(bb m bb g) <= bb a\
+\ bb 0 <= bb E/(bb m bb g) <= bb a\
 \ 0 <= y_S <= y_A <= a\ .
 y_S <= a
-\ bb a <= bb E/(bb m bb g) <= '\\y01d7d3'/'\\y01d7d0'bb a\
+\ bb a <= bb E/(bb m bb g) <= bb 5/bb 2 bb a\
 \ a <= y_A <= y_S, 2a\ .
 y = y_A
 y = a
 y = 2a.
-\ '\\y01d7d3'/'\\y01d7d0'bb a < bb E/(bb m bb g) \
+\ bb 5/bb 2 bb a < bb E/(bb m bb g) \
 \ 2a < y_A < y_S\ .
 E/(mg) > 5/2 a > 2a,
 2a.
@@ -7193,7 +7193,7 @@ t.
 theta
 \ |bb v|^2 = 2gb(2 pi-theta).
 theta = 0.
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -7323,7 +7323,7 @@ cdots
 pi < x < 2 pi,
 cdots.
 bb v(x, y, z)
-bb V(x, y, z) = {[ (bb v(x,y,z))/(|bb v(x,y,z)|) , "if\ "bb v(x,y,z)!='\\y01d7ce'], ['\\y01d7ce', "if\ "bb v(x,y,z)='\\y01d7ce']<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
+bb V(x, y, z) = {[ (bb v(x,y,z))/(|bb v(x,y,z)|) , "if\ "bb v(x,y,z)!=bb 0], [bb 0, "if\ "bb v(x,y,z)=bb 0]<mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"//>
 bb v(x, y).
 x
 y
@@ -7383,7 +7383,7 @@ p
 bb V(x, y, z)
 (x, y, z)
 z = 0,
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -7579,7 +7579,7 @@ bb F
 V.
 bb F = bb r/(|bb r|^3) \ "where\ "bb r = x hat('\\x000131''\\x000131')+y hat('\\x000237''\\x000237')+z hat bb k
 V = {\ (x, y, z)\ |\ x^2+y^2+z^2 <= 1\ }.
-(x, y, z) != '\\y01d7ce',
+(x, y, z) != bb 0,
 [grad grad*bb F(x,y,z), "<mi//>"= (del)/(del x) x/([x^2+y^2+z^2]^(3//2)) + (del)/(del y) y/([x^2+y^2+z^2]^(3//2)) ], [\ , "<mi//>"\ + (del)/(del z) z/([x^2+y^2+z^2]^(3//2)) ], [\ , "<mi//>"= ([x^2+y^2+z^2]-x 3/2(2x))/([x^2+y^2+z^2]^(5//2)) + ([x^2+y^2+z^2]-y 3/2(2y))/([x^2+y^2+z^2]^(5//2)) ], [\ , "<mi//>"+ ([x^2+y^2+z^2]-z 3/2(2z))/([x^2+y^2+z^2]^(5//2)) ], [\ , "<mi//>"=0]
 V
 del V = {\ (x, y, z)\ |\ x^2+y^2+z^2 = 1\ }.
@@ -7740,7 +7740,7 @@ hat bb k,
 bb F
 bb a xx bb F,
 bb a
-[\ , "<mi//>"'\\x00222c'_(del V)(bb a xx bb F)*hat bb n\ dS='\\x00222d'_V grad grad*(bb a xx bb F)\ dV], [\ , "<mi//>"\ ='\\x00222d'_V[bb F*ubrace((grad grad xx bb a))_(='\\y01d7ce')-bb a*(grad grad xx bb F)]\ dV], [\ , "<mi//>"\ =-'\\x00222d'_V bb a*(grad grad xx bb F)\ dV=-bb a*'\\x00222d'_V grad grad xx bb F\ dV]
+[\ , "<mi//>"'\\x00222c'_(del V)(bb a xx bb F)*hat bb n\ dS='\\x00222d'_V grad grad*(bb a xx bb F)\ dV], [\ , "<mi//>"\ ='\\x00222d'_V[bb F*ubrace((grad grad xx bb a))_(=bb 0)-bb a*(grad grad xx bb F)]\ dV], [\ , "<mi//>"\ =-'\\x00222d'_V bb a*(grad grad xx bb F)\ dV=-bb a*'\\x00222d'_V grad grad xx bb F\ dV]
 bb a
 (bb a xx bb b)*bb c = bb a*(bb b xx bb c)
 (bb a xx bb F)*hat bb n = bb a*(bb F xx hat bb n)
@@ -7801,7 +7801,7 @@ bb T = '\\x00222c'_(del V)(bb r-bb r_0) xx(-p(bb r) hat bb n)dS = '\\x00222c'_(d
 bb r = (x, y, z)
 dS
 S.
-[bb T, "<mi//>"='\\x00222d'_V grad grad xx(P(bb r)(bb r-bb r_0))dV], [\ , "<mi//>"='\\x00222d'_V{grad grad P(bb r) xx(bb r-bb r_0)+P(bb r) ubrace(grad grad xx(bb r-bb r_0))_(='\\y01d7ce')}dV], [\ , "<mi//>"='\\x00222d'_V grad grad P(bb r) xx(bb r-bb r_0)dV]
+[bb T, "<mi//>"='\\x00222d'_V grad grad xx(P(bb r)(bb r-bb r_0))dV], [\ , "<mi//>"='\\x00222d'_V{grad grad P(bb r) xx(bb r-bb r_0)+P(bb r) ubrace(grad grad xx(bb r-bb r_0))_(=bb 0)}dV], [\ , "<mi//>"='\\x00222d'_V grad grad P(bb r) xx(bb r-bb r_0)dV]
 grad grad xx bb r_0 = 0,
 bb r_0
 grad grad xx bb r = det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [x, y, z]] = 0
@@ -7918,20 +7918,20 @@ bb p.
 -m_i g hat bb k,
 i,
 1 <= i <= n,
-'\\y01d6bd'
+bb Phi
 bb p.
-bb F = '\\y01d6bd'-sum_(i=1)^n m_i g hat bb k = '\\y01d6bd'-Mg hat bb k.
-'\\y01d6bd' = Mg hat bb k.
-bb T = bb p xx'\\y01d6bd'-sum_(i=1)^n m_i gbb r_i xx hat bb k = g(Mbb p-sum_(i=1)^n m_i bb r_i) xx hat bb k
+bb F = bb Phi-sum_(i=1)^n m_i g hat bb k = bb Phi-Mg hat bb k.
+bb Phi = Mg hat bb k.
+bb T = bb p xx bb Phi-sum_(i=1)^n m_i gbb r_i xx hat bb k = g(Mbb p-sum_(i=1)^n m_i bb r_i) xx hat bb k
 bb p = 1/M sum_(i=1)^n m_i bb r_i
 bb F_i,
 i,
 1 <= i <= n,
-'\\y01d6bd'
+bb Phi
 bb p.
-bb F = '\\y01d6bd'+sum_(i=1)^n bb F_i.
-'\\y01d6bd' = -sum_(i=1)^n bb F_i.
-bb T = bb p xx'\\y01d6bd'+sum_(i=1)^n bb r_i xx bb F_i = sum_(i=1)^n(bb r_i-bb p) xx bb F_i
+bb F = bb Phi+sum_(i=1)^n bb F_i.
+bb Phi = -sum_(i=1)^n bb F_i.
+bb T = bb p xx bb Phi+sum_(i=1)^n bb r_i xx bb F_i = sum_(i=1)^n(bb r_i-bb p) xx bb F_i
 bb p
 bb F_i,
 1 <= i <= n,
@@ -8472,7 +8472,7 @@ hat N
 hat bb k
 bb F
 S.
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -8604,7 +8604,7 @@ int_0^(2 pi)cos^2 tdt
 cc C_2
 bb r(t) = hat('\\x000131''\\x000131')
 t.
-(dbb r)/dt(t) = '\\y01d7ce'
+(dbb r)/dt(t) = bb 0
 int_(cc C_2)bb F*dbb r = 0.
 cc C_1
 cc C_2
@@ -8749,20 +8749,20 @@ int_cc C bb F*dbb r = phi(P_1)-phi(P_0)
 cc C
 P_0
 P_1.
-P_0 = '\\y01d7ce'.
-phi('\\y01d7ce') = 0.
+P_0 = bb 0.
+phi(bb 0) = 0.
 phi(P_1) = int_cc C bb F*dbb r
 cc C
-'\\y01d7ce'
+bb 0
 P_1.
 bb x,
 phi(bb x) = int_cc C bb F*dbb r
 cc C
-'\\y01d7ce'
+bb 0
 bb x.
 int_cc C bb F*dbb r
 cc C
-'\\y01d7ce'
+bb 0
 bb x.
 phi,
 bb F = grad grad phi.
@@ -8779,7 +8779,7 @@ t = 1.
 bb r_bb u^' (t) = bb u.
 phi(bb x+sbb u) = int_cc C bb F*dbb r
 cc C
-'\\y01d7ce'
+bb 0
 bb x+sbb u.
 phi(bb x+sbb u) = int_(cc C_bb x+cc D_(sbb u))bb F*dbb r
 C_bb x+D_(sbb u)
@@ -8802,7 +8802,7 @@ bb F
 RR^2
 RR^3
 bb F
-grad grad xx bb F = '\\y01d7ce',
+grad grad xx bb F = bb 0,
 bb F
 RR^2
 RR^3.
@@ -9242,7 +9242,7 @@ v = 3.
 ( (4sqrt(2))/3, (4sqrt(2))/3, 1),
 hat N
 -hat bb k
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -9347,7 +9347,7 @@ hat N(bb r(2 pi, 0)) = hat N(bb r(theta, 0))|_(theta=2 pi) = +[cos(theta/2) hat 
 hat bb N(bb r(2 pi, 0)) = hat bb N(cc l/(2 pi) hat('\\x000131''\\x000131'))
 hat bb N(cc l/(2 pi) hat('\\x000131''\\x000131')) = +hat bb k,
 -hat bb k.
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -9459,7 +9459,7 @@ C
 0 <= t <= 4.
 (x, y, z)
 rho(x, y, z) = ( (x+y)/2).
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -9806,7 +9806,7 @@ G.
 bb G
 bb F+bb G
 bb F = -bb G,
-bb F+bb G = '\\y01d7ce' = grad grad c
+bb F+bb G = bb 0 = grad grad c
 c.
 bb F = grad grad phi
 bb G = grad grad psi.
@@ -9844,7 +9844,7 @@ bb F
 a = 1,
 b = c = 0
 D = {\ (x, y, z)\ |\ x^2+y^2 != 0\ }.
-grad grad xx bb F = '\\y01d7ce'
+grad grad xx bb F = bb 0
 D
 int_C bb F*dbb r = 4 pi
 bb F
@@ -9871,11 +9871,11 @@ pi e^ pi
 alpha = 1,
 beta = gamma
 e^e-beta(e+1)
-'\\y01d7ce'
+bb 0
 bb F = grad grad f
 f = sin x+2y-cos y+e^z.
 -4
-grad grad xx bb F = '\\y01d7ce'.
+grad grad xx bb F = bb 0.
 bb F
 int_C bb F*dbb r = 2 pi^2
 a = -1,
@@ -9896,11 +9896,11 @@ C
 f(x, y, z) = ye^(yz)+ycos^2 x+C
 C
 2e^ pi-e^(-pi^2)-1
-'\\y01d7ce'.
+bb 0.
 bb F
 phi(x, y, z) = x^2+y^2+z^2.
 phi(a_1, a_2, a_3)-phi(0, 0, 0) = bb a*bb a.
-grad grad xx bb F = '\\y01d7ce'
+grad grad xx bb F = bb 0
 (pi e)/2-1
 f(x, y) = ysin(x^2)+cos(y)+C
 C.
@@ -10055,11 +10055,11 @@ pi/2
 pi/4+2/3
 -5/6
 grad grad*bb F = 3,
-grad grad xx bb F = '\\y01d7ce'
+grad grad xx bb F = bb 0
 grad grad*bb F = y^2-z^2+x^2,
 grad grad xx bb F = 2yz hat('\\x000131''\\x000131')-2xz hat('\\x000237''\\x000237')-2xy hat bb k
 grad grad*bb F = 1/(sqrt(x^2+y^2)) ,
-grad grad xx bb F = '\\y01d7ce'
+grad grad xx bb F = bb 0
 grad grad*bb F = 0,
 grad grad xx bb F = (hat bb k)/(sqrt(x^2+y^2))
 2/r
@@ -10078,7 +10078,7 @@ bb F
 bb A = 1/2(z^2-y^2)x hat('\\x000131''\\x000131')-1/2 yz^2 hat('\\x000237''\\x000237')
 bb A = 1/2 xz^2 hat('\\x000131''\\x000131')+1/2(x^2-z^2)y hat('\\x000237''\\x000237').
 D = {\ (x, y, z)\ |\ x^2+z^2 != 0\ }
-grad grad xx bb F = '\\y01d7ce'
+grad grad xx bb F = bb 0
 D
 grad grad*bb F = 1
 D
@@ -10120,8 +10120,8 @@ pi/2
 64/3 pi
 128/3 pi
 grad grad*bb F = 0
-(x, y, z) != '\\y01d7ce'
-(x, y, z) = '\\y01d7ce'.
+(x, y, z) != bb 0
+(x, y, z) = bb 0.
 4 pi
 0
 '\\x00222c'_(S_1)bb F*hat bb n dS
@@ -10298,11 +10298,11 @@ int_(cc C_1)bb F*dbb r > 0
 int_(cc C_2)bb F*dbb r < 0
 bb F
 bb r(t)
-'\\y01d7ce'.
+bb 0.
 2xy+e^y sin x+xe^(xz)
 y^3 hat('\\x000131''\\x000131')-z hat('\\x000237''\\x000237')
 8 pi b^2
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -10354,7 +10354,7 @@ underset(x->oo)(lim)log_q x = oo, \ underset(x->0+)(lim)log_q x = -oo
 log_(10)x
 log_q x,
 q > 1,
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -10370,7 +10370,7 @@ f.
 x_0 = 0
 f.
 [e^x, "<mi//>"=sum_(n=0)^ oo 1/(n!) x^n, \ , "for\ "-oo<x<oo], [\ , "<mi//>"=1+x+1/2 x^2+1/(3!) x^3+cdots+1/(n!) x^n+cdots], [sin x, "<mi//>"=sum_(n=0)^ oo((-1)^n)/((2n+1)!) x^(2n+1), \ , "for\ "-oo<x<oo], [\ , "<mi//>"=x-1/(3!) x^3+1/(5!) x^5-cdots+ ((-1)^n)/((2n+1)!) x^(2n+1)+cdots], [cos x, "<mi//>"=sum_(n=0)^ oo((-1)^n)/((2n)!) x^(2n), \ , "for\ "-oo<x<oo], [\ , "<mi//>"=1-1/(2!) x^2+1/(4!) x^4-cdots+ ((-1)^n)/((2n)!) x^(2n)+cdots], [1/(1-x) , "<mi//>"=sum_(n=0)^ oo x^n, \ , "for\ "-1<=x<1], [\ , "<mi//>"=1+x+x^2+x^3+cdots+x^n+cdots], [1/(1+x) , "<mi//>"=sum_(n=0)^ oo(-1)^n x^n, \ , "for\ "-1<x<=1], [\ , "<mi//>"=1-x+x^2-x^3+cdots+(-1)^n x^n+cdots], [ln(1-x), "<mi//>"=-sum_(n=1)^ oo 1/n x^n, \ , "for\ "-1<=x<1], [\ , "<mi//>"=-x-1/2 x^2-1/3 x^3-cdots-1/n x^n-cdots], [ln(1+x), "<mi//>"=-sum_(n=1)^ oo((-1)^n)/n x^n, \ , "for\ "-1<x<=1], [\ , "<mi//>"=x-1/2 x^2+1/3 x^3-cdots- ((-1)^n)/n x^n-cdots], [(1+x)^p, "<mi//>"=1+px+ (p(p-1))/2 x^2+ (p(p-1)(p-2))/(3!) x^3+cdots], [\ , "<mi//>"\ + (p(p-1)(p-2) cdots(p-n+1))/(n!) x^n+cdots]
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -10747,7 +10747,7 @@ bb F = y^2 hat('\\x000131''\\x000131')+x^2 hat('\\x000237''\\x000237')+3e^z hat 
 C,
 xy
 oint_C(y^3-y)dx-2x^3 dy
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -10891,11 +10891,11 @@ x
 y
 (x, y, z)
 (+-x, +-y, z)
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -11184,15 +11184,15 @@ y(2 pi) = 0
 C_1 = 0
 y(t) = C_2 sin t
 C_2
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -11408,7 +11408,7 @@ f(x, y) = sqrt(1- (x^2)/4- (y^2)/9).
 x^5
 y^3
 [int_S bb F*hat bb n dS, "<mi//>"='\\x00222c'_( (x^2)/4+ (y^2)/9<=1)[ ( (x^5)/4+ (2y^3)/9)/(sqrt(\ cdots\ )) +sqrt(1- (x^2)/4- (y^2)/9)]dxdy], [\ , "<mi//>"='\\x00222c'_( (x^2)/4+ (y^2)/9<=1)sqrt(1- (x^2)/4- (y^2)/9)\ dxdy]
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -11447,7 +11447,7 @@ x(t) = theta(t)\ y(t) = theta'(t)
 [x'(t), "<mi//>"=, theta'(t), "<mi//>"=y(t)], [y'(t), "<mi//>"=, \ theta''(t), "<mi//>"=-g/cc l sin x(t)-beta/m y(t)]
 bb V((x, y)) = (y, -g/cc l sin x-beta/m y)
 beta = 0,
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -11616,7 +11616,7 @@ y = rsin theta.
 r = f(theta)
 theta.
 r = a(1-cos theta).
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -11734,7 +11734,7 @@ t
 bb r(t+h)-bb r(t)
 s(t+h)-s(t).
 [d/dt[(bb r xx bb r')*bb r''], "<mi//>"=(bb r'xx bb r')*bb r''+(bb r xx bb r'')*bb r''+(bb r xx bb r')*bb r''']
-bb r'xx bb r' = '\\y01d7ce'.
+bb r'xx bb r' = bb 0.
 bb r xx bb r''
 bb r''.
 d/dt[(bb r xx bb r')*bb r''] = (bb r xx bb r')*bb r'''
@@ -11912,7 +11912,7 @@ bb c = (pi^2)/2 hat('\\x000131''\\x000131')+hat('\\x000237''\\x000237')-hat bb k
 [bb r(t)=( (pi^2 t)/2- (t^3)/2) hat('\\x000131''\\x000131')+(t-sin t) hat('\\x000237''\\x000237')+(1/2 e^(2t)-t) hat bb k+bb c]
 bb c.
 bb r(0) = bb r_0 = 1/2 hat bb k.
-bb c = '\\y01d7ce'
+bb c = bb 0
 [bb r(t)=( (pi^2 t)/2- (t^3)/2) hat('\\x000131''\\x000131')+(t-sin t) hat('\\x000237''\\x000237')+(1/2 e^(2t)-t) hat bb k]
 x = 0
 [0=( (pi^2 t)/2- (t^3)/2)=t/2(pi^2-t^2)'\\x0027fa't=0,+-pi]
@@ -12587,7 +12587,7 @@ bb R(1) = (1, 1, 1).
 [ (d hat bb T)/dt(t), "<mi//>"= (hat('\\x000237''\\x000237')+sqrt(3) hat bb k)/(sqrt(1+4t^2)) -4t(hat('\\x000131''\\x000131')+t hat('\\x000237''\\x000237')+sqrt(3)t hat bb k)/((1+4t^2)^(3//2)) = (-4t hat('\\x000131''\\x000131')+hat('\\x000237''\\x000237')+sqrt(3) hat bb k)/((1+4t^2)^(3//2)) ]
 [hat N(t), "<mi//>"= (-4t hat('\\x000131''\\x000131')+hat('\\x000237''\\x000237')+sqrt(3) hat bb k)/(|-4t hat('\\x000131''\\x000131')+hat('\\x000237''\\x000237')+sqrt(3) hat bb k|) = (-4t hat('\\x000131''\\x000131')+hat('\\x000237''\\x000237')+sqrt(3) hat bb k)/(2sqrt(1+4t^2)) ]
 [hat B(t), "<mi//>"=hat T(t) xx hat N(t)], [\ , "<mi//>"=1/(2(1+4t^2)) det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [1, t, sqrt(3)t], [-4t, 1, sqrt(3)]]], [\ , "<mi//>"= (-sqrt(3)(1+4t^2) hat('\\x000237''\\x000237')+(1+4t^2) hat bb k)/(2(1+4t^2)) ], [\ , "<mi//>"=- (sqrt(3))/2 hat('\\x000237''\\x000237')+1/2 hat bb k]
-bb r(0) = '\\y01d7ce'
+bb r(0) = bb 0
 - (sqrt(3))/2 hat('\\x000237''\\x000237')+1/2 hat bb k
 -sqrt(3)y+z = 0
 [kappa(t), "<mi//>"=| (d hat bb T)/dt(t)|//| (ds)/dt|= (|-4t hat('\\x000131''\\x000131')+hat('\\x000237''\\x000237')+sqrt(3) hat bb k|)/((1+4t^2)^(3//2)) 1/(|2 hat('\\x000131''\\x000131')+2t hat('\\x000237''\\x000237')+2sqrt(3)t hat bb k|) ], [\ , "<mi//>"= (sqrt(4+16t^2))/((1+4t^2)^(3//2)) 1/(2sqrt(1+4t^2)) =1/((1+4t^2)^(3//2)) ]
@@ -13147,7 +13147,7 @@ hat bb e_r(theta) xx hat bb e_r(theta) = hat bb e_ theta(theta) xx hat bb e_ the
 [f(theta)=a(1-cos theta)\ f'(theta)=asin theta\ f''(theta)=acos theta]
 [kappa(theta), "<mi//>"= (|f(theta)^2+2f'(theta)^2-f(theta)f''(theta)|)/([f(theta)^2+f'(theta)^2]^(3//2)) ], [\ , "<mi//>"= (|a^2-2a^2 cos theta+a^2 cos^2 theta+2a^2 sin^2 theta-a^2 cos theta+a^2 cos^2 theta|)/([a^2-2a^2 cos theta+a^2 cos^2 theta+a^2 sin^2 theta]^(3//2)) ], [\ , "<mi//>"= (3a^2-3a^2 cos theta)/([2a^2-2a^2 cos theta]^(3//2)) =3/(2^(3//2)asqrt(1-cos theta)) =3/(2sqrt(2ar(theta))) ]
 Omega Omega(t) = bb r(t) xx bb v(t)
-[ (d Omega Omega)/dt(t), "<mi//>"=d\ /dt(bb r(t) xx bb v(t))=bb v(t) xx bb v(t)+bb r(t) xx bb a(t)], [\ , "<mi//>"=mbb r(t) xx f(r(t))bb r(t))='\\y01d7ce']
+[ (d Omega Omega)/dt(t), "<mi//>"=d\ /dt(bb r(t) xx bb v(t))=bb v(t) xx bb v(t)+bb r(t) xx bb a(t)], [\ , "<mi//>"=mbb r(t) xx f(r(t))bb r(t))=bb 0]
 Omega Omega(t)
 t.
 Omega Omega.
@@ -13155,10 +13155,10 @@ bb r(t) xx bb v(t) = Omega Omega,
 bb r(t)
 Omega Omega
 bb r(t)*Omega Omega = 0
-Omega Omega != '\\y01d7ce',
+Omega Omega != bb 0,
 bb r(t)
 Omega Omega.
-Omega Omega = '\\y01d7ce',
+Omega Omega = bb 0,
 bb r(t)
 bb v(t)
 alpha(t)
@@ -13203,7 +13203,7 @@ f(r)
 -1/(r^3)
 bb a(t)
 bb r(t)
-d\ /dt(bb r(t) xx bb v(t)) = bb v(t) xx bb v(t)+bb r(t) xx bb a(t) = '\\y01d7ce'+'\\y01d7ce' = '\\y01d7ce'
+d\ /dt(bb r(t) xx bb v(t)) = bb v(t) xx bb v(t)+bb r(t) xx bb a(t) = bb 0+bb 0 = bb 0
 bb v(t) = (dr)/dt(t)\ hat bb r(theta(t))+r(t)\ (d theta)/dt(t)\ hat(theta theta)(theta(t)).
 bb r(t) = r(t) hat bb r(theta(t))
 hat bb r(theta(t))
@@ -13271,11 +13271,11 @@ bb v(1, 1) = hat('\\x000131''\\x000131')+hat('\\x000237''\\x000237').
 t = 0.01,
 (1, 1)+0.01(1, 1) = (1.01, 1.01)
 0
-bb v(0, 0) = '\\y01d7ce'.
+bb v(0, 0) = bb 0.
 t = 0.01,
 (0, 0)+0.01(0, 0) = (0, 0)
 0
-bb v(0, 0) = '\\y01d7ce'.
+bb v(0, 0) = bb 0.
 10,
 (0, 0).
 y
@@ -13469,11 +13469,11 @@ phi
 m
 g.
 y
-[bb F, "<mi//>"=x hat('\\x000131''\\x000131')+z hat('\\x000237''\\x000237')+y hat bb k], [grad grad xx bb F, "<mi//>"=( (del F_3)/(del y) - (del F_2)/(del z) ) hat('\\x000131''\\x000131')+( (del F_1)/(del z) - (del F_3)/(del x) ) hat('\\x000237''\\x000237')+( (del F_2)/(del x) - (del F_1)/(del y) ) hat bb k], [\ , "<mi//>"=(1-1) hat('\\x000131''\\x000131')+(0-0) hat('\\x000237''\\x000237')+(0-0) hat bb k='\\y01d7ce']
+[bb F, "<mi//>"=x hat('\\x000131''\\x000131')+z hat('\\x000237''\\x000237')+y hat bb k], [grad grad xx bb F, "<mi//>"=( (del F_3)/(del y) - (del F_2)/(del z) ) hat('\\x000131''\\x000131')+( (del F_1)/(del z) - (del F_3)/(del x) ) hat('\\x000237''\\x000237')+( (del F_2)/(del x) - (del F_1)/(del y) ) hat bb k], [\ , "<mi//>"=(1-1) hat('\\x000131''\\x000131')+(0-0) hat('\\x000237''\\x000237')+(0-0) hat bb k=bb 0]
 bb F
-[bb F, "<mi//>"=y^2 z hat('\\x000131''\\x000131')+x^2 z hat('\\x000237''\\x000237')+x^2 y hat bb k], [grad grad xx bb F, "<mi//>"=( (del F_3)/(del y) - (del F_2)/(del z) ) hat('\\x000131''\\x000131')+( (del F_1)/(del z) - (del F_3)/(del x) ) hat('\\x000237''\\x000237')+( (del F_2)/(del x) - (del F_1)/(del y) ) hat bb k], [\ , "<mi//>"=(x^2-x^2) hat('\\x000131''\\x000131')+(y^2-2xy) hat('\\x000237''\\x000237')+(2xz-2yz) hat bb k!='\\y01d7ce']
+[bb F, "<mi//>"=y^2 z hat('\\x000131''\\x000131')+x^2 z hat('\\x000237''\\x000237')+x^2 y hat bb k], [grad grad xx bb F, "<mi//>"=( (del F_3)/(del y) - (del F_2)/(del z) ) hat('\\x000131''\\x000131')+( (del F_1)/(del z) - (del F_3)/(del x) ) hat('\\x000237''\\x000237')+( (del F_2)/(del x) - (del F_1)/(del y) ) hat bb k], [\ , "<mi//>"=(x^2-x^2) hat('\\x000131''\\x000131')+(y^2-2xy) hat('\\x000237''\\x000237')+(2xz-2yz) hat bb k!=bb 0]
 bb F
-[bb F, "<mi//>"=(ye^(xy)+1) hat('\\x000131''\\x000131')+(xe^(xy)+z) hat('\\x000237''\\x000237')+(1/z+y) hat bb k], [grad grad xx bb F, "<mi//>"=( (del F_3)/(del y) - (del F_2)/(del z) ) hat('\\x000131''\\x000131')+( (del F_1)/(del z) - (del F_3)/(del x) ) hat('\\x000237''\\x000237')+( (del F_2)/(del x) - (del F_1)/(del y) ) hat bb k], [\ , "<mi//>"=(1-1) hat('\\x000131''\\x000131')+(0-0) hat('\\x000237''\\x000237')+(e^(xy)(xy+1)-e^(xy)(xy+1)) hat bb k='\\y01d7ce']
+[bb F, "<mi//>"=(ye^(xy)+1) hat('\\x000131''\\x000131')+(xe^(xy)+z) hat('\\x000237''\\x000237')+(1/z+y) hat bb k], [grad grad xx bb F, "<mi//>"=( (del F_3)/(del y) - (del F_2)/(del z) ) hat('\\x000131''\\x000131')+( (del F_1)/(del z) - (del F_3)/(del x) ) hat('\\x000237''\\x000237')+( (del F_2)/(del x) - (del F_1)/(del y) ) hat bb k], [\ , "<mi//>"=(1-1) hat('\\x000131''\\x000131')+(0-0) hat('\\x000237''\\x000237')+(e^(xy)(xy+1)-e^(xy)(xy+1)) hat bb k=bb 0]
 bb F
 [bb F, "<mi//>"=y cos(xy) hat('\\x000131''\\x000131')+x sin(xy) hat('\\x000237''\\x000237')], [ (del F_2)/(del x) , "<mi//>"=xy cos(xy)+sin(xy)], [ (del F_1)/(del y) , "<mi//>"=-xy sin(xy)+cos(xy)], [ (del F_2)/(del x) , "<mi//>"!= (del F_1)/(del y) ]
 bb F
@@ -13496,7 +13496,7 @@ G.
 bb G
 bb F+bb G
 bb F = -bb G,
-bb F+bb G = '\\y01d7ce' = grad grad c
+bb F+bb G = bb 0 = grad grad c
 c.
 bb F = grad grad phi
 bb G = grad grad psi.
@@ -13564,7 +13564,7 @@ x
 y
 bb F
 bb F = F_1 hat('\\x000131''\\x000131')+F_2 hat('\\x000237''\\x000237')+F_3 hat bb k
-grad grad xx bb F = '\\y01d7ce'.
+grad grad xx bb F = bb 0.
 [ (del F_1)/(del y) = (del F_2)/(del x) \ (del F_1)/(del z) = (del F_3)/(del x) \ (del F_2)/(del z) = (del F_3)/(del y) ]
 [ (del)/(del y) (e^((z^2))), "<mi//>"= (del)/(del x) (2Byz^3), \ , '\\x0027fa', 0, "<mi//>"=0], [ (del)/(del z) (e^((z^2))), "<mi//>"= (del)/(del x) ("Axze"^((z^2))+3By^2 z^2), \ , '\\x0027fa', 2ze^((z^2)), "<mi//>"=Aze^((z^2))], [ (del)/(del z) (2Byz^3), "<mi//>"= (del)/(del y) ("Axze"^((z^2))+3By^2 z^2), \ , '\\x0027fa', 6Bye^((z^2)), "<mi//>"=6Bye^((z^2))]
 A = 2
@@ -13626,7 +13626,7 @@ phi(x, y, z) = y+9/4 z^(4//3).
 [1/4, "<mi//>"=1/2*1/2|bb v|^2-phi(1,1,1)= (|bb v|^2)/4-(1+9/4)], [|bb v|, "<mi//>"=sqrt(14)]
 (1, 1, 1),
 sqrt(14).
-[grad grad xx bb F, "<mi//>"=( (del F_3)/(del y) - (del F_2)/(del z) ) hat('\\x000131''\\x000131')+( (del F_1)/(del z) - (del F_3)/(del x) ) hat('\\x000237''\\x000237')+( (del F_2)/(del x) - (del F_1)/(del y) ) hat bb k], [\ , "<mi//>"=(g'(y)h'(z)-g'(y)h'(z)) hat('\\x000131''\\x000131')+(0-0) hat('\\x000237''\\x000237')+(0-0) hat bb k='\\y01d7ce']
+[grad grad xx bb F, "<mi//>"=( (del F_3)/(del y) - (del F_2)/(del z) ) hat('\\x000131''\\x000131')+( (del F_1)/(del z) - (del F_3)/(del x) ) hat('\\x000237''\\x000237')+( (del F_2)/(del x) - (del F_1)/(del y) ) hat bb k], [\ , "<mi//>"=(g'(y)h'(z)-g'(y)h'(z)) hat('\\x000131''\\x000131')+(0-0) hat('\\x000237''\\x000237')+(0-0) hat bb k=bb 0]
 bb F = grad grad phi(x, y, z).
 (del phi)/(del x) = 2f(x)f'(x).
 phi = f^2(x)+psi_1(y, z).
@@ -13670,12 +13670,12 @@ y
 bb F
 RR^2
 RR^3.
-[bb F, "<mi//>"=x hat('\\x000131''\\x000131')+z hat('\\x000237''\\x000237')+y hat bb k], [grad grad xx bb F, "<mi//>"=( (del F_3)/(del y) - (del F_2)/(del z) ) hat('\\x000131''\\x000131')+( (del F_1)/(del z) - (del F_3)/(del x) ) hat('\\x000237''\\x000237')+( (del F_2)/(del x) - (del F_1)/(del y) ) hat bb k], [\ , "<mi//>"=(1-1) hat('\\x000131''\\x000131')+(0-0) hat('\\x000237''\\x000237')+(0-0) hat bb k='\\y01d7ce']
+[bb F, "<mi//>"=x hat('\\x000131''\\x000131')+z hat('\\x000237''\\x000237')+y hat bb k], [grad grad xx bb F, "<mi//>"=( (del F_3)/(del y) - (del F_2)/(del z) ) hat('\\x000131''\\x000131')+( (del F_1)/(del z) - (del F_3)/(del x) ) hat('\\x000237''\\x000237')+( (del F_2)/(del x) - (del F_1)/(del y) ) hat bb k], [\ , "<mi//>"=(1-1) hat('\\x000131''\\x000131')+(0-0) hat('\\x000237''\\x000237')+(0-0) hat bb k=bb 0]
 bb F
 RR^3,
-[bb F, "<mi//>"=y^2 z hat('\\x000131''\\x000131')+x^2 z hat('\\x000237''\\x000237')+x^2 y hat bb k], [grad grad xx bb F, "<mi//>"=( (del F_3)/(del y) - (del F_2)/(del z) ) hat('\\x000131''\\x000131')+( (del F_1)/(del z) - (del F_3)/(del x) ) hat('\\x000237''\\x000237')+( (del F_2)/(del x) - (del F_1)/(del y) ) hat bb k], [\ , "<mi//>"=(x^2-x^2) hat('\\x000131''\\x000131')+(y^2-2xy) hat('\\x000237''\\x000237')+(2xz-2yz) hat bb k!='\\y01d7ce']
+[bb F, "<mi//>"=y^2 z hat('\\x000131''\\x000131')+x^2 z hat('\\x000237''\\x000237')+x^2 y hat bb k], [grad grad xx bb F, "<mi//>"=( (del F_3)/(del y) - (del F_2)/(del z) ) hat('\\x000131''\\x000131')+( (del F_1)/(del z) - (del F_3)/(del x) ) hat('\\x000237''\\x000237')+( (del F_2)/(del x) - (del F_1)/(del y) ) hat bb k], [\ , "<mi//>"=(x^2-x^2) hat('\\x000131''\\x000131')+(y^2-2xy) hat('\\x000237''\\x000237')+(2xz-2yz) hat bb k!=bb 0]
 bb F
-[bb F, "<mi//>"=(ye^(xy)+1) hat('\\x000131''\\x000131')+(xe^(xy)+z) hat('\\x000237''\\x000237')+(z+y) hat bb k], [grad grad xx bb F, "<mi//>"=( (del F_3)/(del y) - (del F_2)/(del z) ) hat('\\x000131''\\x000131')+( (del F_1)/(del z) - (del F_3)/(del x) ) hat('\\x000237''\\x000237')+( (del F_2)/(del x) - (del F_1)/(del y) ) hat bb k], [\ , "<mi//>"=(1-1) hat('\\x000131''\\x000131')+(0-0) hat('\\x000237''\\x000237')+{e^(xy)(xy+1)-e^(xy)(xy+1)} hat bb k='\\y01d7ce']
+[bb F, "<mi//>"=(ye^(xy)+1) hat('\\x000131''\\x000131')+(xe^(xy)+z) hat('\\x000237''\\x000237')+(z+y) hat bb k], [grad grad xx bb F, "<mi//>"=( (del F_3)/(del y) - (del F_2)/(del z) ) hat('\\x000131''\\x000131')+( (del F_1)/(del z) - (del F_3)/(del x) ) hat('\\x000237''\\x000237')+( (del F_2)/(del x) - (del F_1)/(del y) ) hat bb k], [\ , "<mi//>"=(1-1) hat('\\x000131''\\x000131')+(0-0) hat('\\x000237''\\x000237')+{e^(xy)(xy+1)-e^(xy)(xy+1)} hat bb k=bb 0]
 bb F
 bb F
 RR^3,
@@ -13696,8 +13696,8 @@ bb F
 bb F
 RR^3.
 bb F
-grad grad xx bb F = '\\y01d7ce':
-['\\y01d7ce'=grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [e^x sin y, ae^x cos y+bz, cx]]], [\ , "<mi//>"=(0-b) hat('\\x000131''\\x000131')-(c-0) hat('\\x000237''\\x000237')+(ae^x cos y-e^x cos y) hat bb k]
+grad grad xx bb F = bb 0:
+[bb 0=grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [e^x sin y, ae^x cos y+bz, cx]]], [\ , "<mi//>"=(0-b) hat('\\x000131''\\x000131')-(c-0) hat('\\x000237''\\x000237')+(ae^x cos y-e^x cos y) hat bb k]
 a = 1, \ b = c = 0.
 cc C
 bb F
@@ -13757,7 +13757,7 @@ RR^3
 z
 [ (del)/(del y) ( (x-2y)/(x^2+y^2) ), "<mi//>"= (-2)/(x^2+y^2) - (2y(x-2y))/((x^2+y^2)^2) = (-2x^2+2y^2-2xy)/((x^2+y^2)^2) ], [ (del)/(del x) ( (2x+y)/(x^2+y^2) ), "<mi//>"=2/(x^2+y^2) - (2x(2x+y))/((x^2+y^2)^2) = (-2x^2+2y^2-2xy)/((x^2+y^2)^2) ]
 bb F
-[grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [ (x-2y)/(x^2+y^2) , (2x+y)/(x^2+y^2) , z]]], [\ , "<mi//>"=( (-2x^2+2y^2-2xy)/((x^2+y^2)^2) - (-2x^2+2y^2-2xy)/((x^2+y^2)^2) ) hat bb k], [\ , "<mi//>"='\\y01d7ce']
+[grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [ (x-2y)/(x^2+y^2) , (2x+y)/(x^2+y^2) , z]]], [\ , "<mi//>"=( (-2x^2+2y^2-2xy)/((x^2+y^2)^2) - (-2x^2+2y^2-2xy)/((x^2+y^2)^2) ) hat bb k], [\ , "<mi//>"=bb 0]
 bb F
 bb r(t) = 2cos t hat('\\x000131''\\x000131')+2sin t hat('\\x000237''\\x000237')+3 hat bb k\ bb r'(t) = -2sin t hat('\\x000131''\\x000131')+2cos t hat('\\x000237''\\x000237')
 0 <= theta <= 2 pi.
@@ -13887,7 +13887,7 @@ varphi(x, y, z) = yzsin x+y^2 z+cos z
 int_C bb F*dbb r
 C
 bb F = xy hat('\\x000237''\\x000237').
-grad grad xx bb F != '\\y01d7ce',
+grad grad xx bb F != bb 0,
 bb F
 C
 bb r(theta) = (x(theta), y(theta)) = (1-cos theta) hat('\\x000131''\\x000131')+sin theta hat('\\x000237''\\x000237')\ 0 <= theta <= pi
@@ -14010,7 +14010,7 @@ P_0 = (0^2, e^0, pi*0) = (0, 1, 0)
 P_1 = (1^2, e^1, pi*1) = (1, e, pi).
 int_C bb F*dbb r = phi(1, e, pi)-phi(0, 1, 0) = (e^e-beta e)-beta = e^e-beta(e+1)
 bb F
-[grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [cos x, 2+sin y, e^z]]='\\y01d7ce']
+[grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [cos x, 2+sin y, e^z]]=bb 0]
 F_1
 x,
 F_2
@@ -14042,7 +14042,7 @@ bb F = grad grad f,
 [int_C bb F*dbb r, "<mi//>"=f(bb r(3 pi))-f(bb r(0))], [\ , "<mi//>"=f(3 pi,-1,0)-f(0,1,0)], [\ , "<mi//>"=(0-2-cos(-1)+1)-(0+2-cos 1+1)]
 cos(-1) = cos 1.
 [\ , "<mi//>"=-4]
-[grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [z+e^y, xe^y-e^z sin y, 1+x+e^z cos y]]='\\y01d7ce']
+[grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [z+e^y, xe^y-e^z sin y, 1+x+e^z cos y]]=bb 0]
 bb F
 RR^3,
 phi(x, y, z) = xz+xe^y+e^z cos y+z
@@ -14061,7 +14061,7 @@ bb F = grad grad phi,
 phi = xz+xe^y+e^z cos y+z,
 [int_C bb F*dbb r, "<mi//>"=phi(bb r(pi))-phi(bb r(0))=[xz+xe^y+e^z cos y+z]_(bb r(0))^(bb r(pi))], [\ , "<mi//>"=[xz+xe^y+e^z cos y+z]_((0,0,1))^((pi^2,0,1))], [\ , "<mi//>"=(pi^2+pi^2+e+1)-(0+0+e+1)=2 pi^2]
 bb F
-['\\y01d7ce'=grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [(x-a)ye^x, xe^x+z^3, byz^2]]], [\ , "<mi//>"=(bz^2-3z^2) hat('\\x000131''\\x000131')-(0-0) hat('\\x000237''\\x000237')+(e^x+xe^x-(x-a)e^x) hat bb k]
+[bb 0=grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [(x-a)ye^x, xe^x+z^3, byz^2]]], [\ , "<mi//>"=(bz^2-3z^2) hat('\\x000131''\\x000131')-(0-0) hat('\\x000237''\\x000237')+(e^x+xe^x-(x-a)e^x) hat bb k]
 b = 3
 a = -1
 a = -1
@@ -14082,8 +14082,8 @@ bb F = grad grad f,
 int_C bb F*dbb r = int_C(x+1)ye^x dx+(xe^x+z^3)dy+3yz^2 dz
 [I, "<mi//>"=int_C bb F*dbb r+int_C yz^2 dz], [\ , "<mi//>"=pi e^ pi-2+int_0^ pi obrace((cos 2t))^y obrace(cos^2 t)^(z^2) obrace((-sin t)dt)^(dz)], [\ , "<mi//>"=pi e^ pi-2+int_0^ pi(2cos^2 t-1)cos^2 t(-sin t)dt], [\ , "<mi//>"=pi e^ pi-2+int_1^(-1)(2u^2-1)u^2 du\ "with\ "u=cos t,\ du=-sin tdt], [\ , "<mi//>"=pi e^ pi-2+[ (2u^5)/5- (u^3)/3]_1^(-1)], [\ , "<mi//>"=pi e^ pi-2+[-4/5+2/3]], [\ , "<mi//>"=pi e^ pi-32/15]
 bb F
-grad grad xx bb F = '\\y01d7ce'.
-['\\y01d7ce', "<mi//>"=grad grad xx bb F=det|[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [y^2 e^(3z)+Axy^3, 2xye^(3z)+3x^2 y^2, Bxy^2 e^(3z)]|], [\ , "<mi//>"=(2"Bxye"^(3z)-6xye^(3z)) hat('\\x000131''\\x000131')-(By^2 e^(3z)-3y^2 e^(3z)) hat('\\x000237''\\x000237')], [\ , "<mi//>"\ +(2ye^(3z)+6xy^2-2ye^(3z)-3Axy^2) hat bb k]
+grad grad xx bb F = bb 0.
+[bb 0, "<mi//>"=grad grad xx bb F=det|[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [y^2 e^(3z)+Axy^3, 2xye^(3z)+3x^2 y^2, Bxy^2 e^(3z)]|], [\ , "<mi//>"=(2"Bxye"^(3z)-6xye^(3z)) hat('\\x000131''\\x000131')-(By^2 e^(3z)-3y^2 e^(3z)) hat('\\x000237''\\x000237')], [\ , "<mi//>"\ +(2ye^(3z)+6xy^2-2ye^(3z)-3Axy^2) hat bb k]
 bb F
 A = 2
 B = 3.
@@ -14148,7 +14148,7 @@ F_2
 y,
 F_3
 z.
-[grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [2x, 2y, 2z]]=(0-0) hat('\\x000131''\\x000131')+(0-0) hat('\\x000237''\\x000237')+(0-0) hat bb k='\\y01d7ce']
+[grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [2x, 2y, 2z]]=(0-0) hat('\\x000131''\\x000131')+(0-0) hat('\\x000237''\\x000237')+(0-0) hat bb k=bb 0]
 bb F
 RR^3.
 bb F
@@ -14156,10 +14156,10 @@ phi = x^2+y^2+z^2.
 bb F = grad grad phi,
 [int_C bb F*dbb r, "<mi//>"=[x^2+y^2+z^2]_((0,0,0))^((a_1,a_2,a_3))=a_1^2+a_2^2+a_3^2=bb a*bb a]
 bb F
-[grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [e^(yz), xze^(yz)+ze^y, xye^(yz)+e^y]]], [\ , "<mi//>"=[(xe^(yz)+"xyze"^(yz)+e^y)-(xe^(yz)+"xyze"^(yz)+e^y)] hat('\\x000131''\\x000131')-[ye^(yz)-ye^(yz)] hat('\\x000237''\\x000237')], [\ , "<mi//>"\ +[ze^(yz)-ze^(yz)] hat bb k], [\ , "<mi//>"='\\y01d7ce']
+[grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [e^(yz), xze^(yz)+ze^y, xye^(yz)+e^y]]], [\ , "<mi//>"=[(xe^(yz)+"xyze"^(yz)+e^y)-(xe^(yz)+"xyze"^(yz)+e^y)] hat('\\x000131''\\x000131')-[ye^(yz)-ye^(yz)] hat('\\x000237''\\x000237')], [\ , "<mi//>"\ +[ze^(yz)-ze^(yz)] hat bb k], [\ , "<mi//>"=bb 0]
 bb F
 RR^3
-grad grad xx bb F = '\\y01d7ce'.
+grad grad xx bb F = bb 0.
 bb F
 phi
 bb F
@@ -14184,7 +14184,7 @@ bb F
 [int_C bb F*dbb r, "<mi//>"=f(bb r(pi))-f(bb r(pi/2))=f(0, pi)-f(1, pi/2)], [\ , "<mi//>"=(-1)-(pi/2 sin(1))], [\ , "<mi//>"=-1-pi/2 sin(1)]
 bb F
 RR^3,
-['\\y01d7ce', "<mi//>"=grad xx bb F=|[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [(mxyz+z^2-ny^2), (x^2 z-4xy), (x^2 y+pxz+qz^3)]|], [\ , "<mi//>"=hat('\\x000131''\\x000131')(x^2-x^2)-hat('\\x000237''\\x000237')(2xy+pz-mxy-2z)+hat bb k(2xz-4y-mxz+2ny).]
+[bb 0, "<mi//>"=grad xx bb F=|[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [(mxyz+z^2-ny^2), (x^2 z-4xy), (x^2 y+pxz+qz^3)]|], [\ , "<mi//>"=hat('\\x000131''\\x000131')(x^2-x^2)-hat('\\x000237''\\x000237')(2xy+pz-mxy-2z)+hat bb k(2xz-4y-mxz+2ny).]
 p = 2,
 m = 2,
 n = 2,
@@ -14503,7 +14503,7 @@ a = 4
 bb F
 [\ , grad grad xx bb F=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [(1+ax^2)ye^(3x^2)-bxzcos(x^2 z), xe^(3x^2), x^2 cos(x^2 z)]]], [\ , "<mi//>"\ =0 hat('\\x000131''\\x000131')+[-bxcos(x^2 z)+bx^3 zsin(x^2 z)-2xcos(x^2 z)+2x^3 zsin(x^2 z)] hat('\\x000237''\\x000237')], [\ , "<mi//>"\ +[e^(3x^2)+6x^2 e^(3x^2)-(1+ax^2)e^(3x^2)] hat bb k], [\ , "<mi//>"\ =[-(b+2)xcos(x^2 z)+(b+2)x^3 zsin(x^2 z)] hat('\\x000237''\\x000237')+(6-a)x^2 e^(3x^2) hat bb k]
 bb F
-grad grad xx bb F = '\\y01d7ce'.
+grad grad xx bb F = bb 0.
 b = -2
 a = 6.
 f
@@ -14536,7 +14536,7 @@ f
 [ (del f)/(del x) (x,y,z), "<mi//>"=sin y, '\\x0027f9'f(x,y,z), "<mi//>"=xsin y+psi_1(y,z)], [ (del f)/(del y) (x,y,z), "<mi//>"=xcos y+z, '\\x0027f9'f(x,y,z), "<mi//>"=xsin y+yz+psi_2(x,z)], [ (del f)/(del z) (x,y,z), "<mi//>"=y+z, '\\x0027f9'f(x,y,z), "<mi//>"=yz+1/2 z^2+psi_3(x,y)]
 f(x, y, z) = xsin y+yz+ (z^2)/2+C
 C.
-grad grad xx bb F = '\\y01d7ce'.
+grad grad xx bb F = bb 0.
 (del F_1)/(del y) = (del F_2)/(del x) \ (del F_1)/(del z) = (del F_3)/(del x) \ (del F_2)/(del z) = (del F_3)/(del y)
 [ (del)/(del y) (Ax^3 y^2 z), "<mi//>"= (del)/(del x) (z^3+Bx^4 yz), \ , \ '\\x0027fa'\ , 2Ax^3 yz, "<mi//>"=4Bx^3 yz], [ (del)/(del z) (Ax^3 y^2 z), "<mi//>"= (del)/(del x) (3yz^2-x^4 y^2), \ , \ '\\x0027fa'\ , Ax^3 y^2, "<mi//>"=-4x^3 y^2], [ (del)/(del z) (z^3+Bx^4 yz), "<mi//>"= (del)/(del y) (3yz^2-x^4 y^2), \ , \ '\\x0027fa'\ , 3z^2+Bx^4 y, "<mi//>"=3z^2-2x^4 y]
 A = -4,
@@ -15968,9 +15968,9 @@ z
 grad grad^2(fg) = grad grad*[grad grad(fg)].
 [grad grad(fg), "<mi//>"=hat('\\x000131''\\x000131') (del)/(del x) (fg)+hat('\\x000237''\\x000237') (del)/(del y) (fg)+hat bb k(del)/(del z) (fg)], [\ , "<mi//>"=+hat('\\x000131''\\x000131')g(del f)/(del x) +hat('\\x000237''\\x000237')g(del f)/(del y) +hat bb k g(del f)/(del z) ], [\ , "<mi//>"=+hat('\\x000131''\\x000131')f(del g)/(del x) +hat('\\x000237''\\x000237')f(del g)/(del y) +hat bb k f(del g)/(del z) ], [\ , "<mi//>"=g grad grad f+f grad grad g]
 [grad grad^2(fg), "<mi//>"=grad grad*(g grad grad f)+grad grad*(f grad grad g)], [\ , "<mi//>"=g(grad grad*grad grad f)+(grad grad g)*(grad grad f)+f(grad grad*grad grad g)+(grad grad f)*(grad grad g)], [\ , "<mi//>"=f grad grad^2 g+2 grad grad f*grad grad g+g grad grad^2 f]
-[grad grad*(x hat('\\x000131''\\x000131')+y hat('\\x000237''\\x000237')+z hat bb k), "<mi//>"= (del)/(del x) (x)+ (del)/(del y) (y)+ (del)/(del z) (z)=3], [grad grad xx(x hat('\\x000131''\\x000131')+y hat('\\x000237''\\x000237')+z hat bb k), "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [x, y, z]]='\\y01d7ce']
+[grad grad*(x hat('\\x000131''\\x000131')+y hat('\\x000237''\\x000237')+z hat bb k), "<mi//>"= (del)/(del x) (x)+ (del)/(del y) (y)+ (del)/(del z) (z)=3], [grad grad xx(x hat('\\x000131''\\x000131')+y hat('\\x000237''\\x000237')+z hat bb k), "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [x, y, z]]=bb 0]
 [grad grad*(xy^2 hat('\\x000131''\\x000131')-yz^2 hat('\\x000237''\\x000237')+zx^2 hat bb k), "<mi//>"= (del)/(del x) (xy^2)+ (del)/(del y) (-yz^2)+ (del)/(del z) (zx^2)], [\ , "<mi//>"=y^2-z^2+x^2], [grad grad xx(xy^2 hat('\\x000131''\\x000131')-yz^2 hat('\\x000237''\\x000237')+zx^2 hat bb k), "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [xy^2, -yz^2, zx^2]]], [\ , "<mi//>"=2yz hat('\\x000131''\\x000131')-2xz hat('\\x000237''\\x000237')-2xy hat bb k]
-[\ , grad grad*(x/(sqrt(x^2+y^2)) hat('\\x000131''\\x000131')+y/(sqrt(x^2+y^2)) hat('\\x000237''\\x000237'))], [\ , "<mi//>"\ = (del)/(del x) (x/(sqrt(x^2+y^2)) )+ (del)/(del y) (y/(sqrt(x^2+y^2)) )], [\ , "<mi//>"\ =1/(sqrt(x^2+y^2)) - (x^2)/([x^2+y^2]^(3//2)) +1/(sqrt(x^2+y^2)) - (y^2)/([x^2+y^2]^(3//2)) ], [\ , "<mi//>"\ = (x^2+y^2\ -x^2\ +x^2+y^2\ -\ y^2)/([x^2+y^2]^(3//2)) ], [\ , "<mi//>"\ =1/(sqrt(x^2+y^2)) ], [\ , grad grad xx(x/(sqrt(x^2+y^2)) hat('\\x000131''\\x000131')+y/(sqrt(x^2+y^2)) hat('\\x000237''\\x000237'))], [\ , "<mi//>"\ =det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [x/(sqrt(x^2+y^2)) , y/(sqrt(x^2+y^2)) , 0]]], [\ , "<mi//>"\ =(- (xy)/([x^2+y^2]^(3//2)) + (xy)/([x^2+y^2]^(3//2)) ) hat bb k], [\ , "<mi//>"\ ='\\y01d7ce']
+[\ , grad grad*(x/(sqrt(x^2+y^2)) hat('\\x000131''\\x000131')+y/(sqrt(x^2+y^2)) hat('\\x000237''\\x000237'))], [\ , "<mi//>"\ = (del)/(del x) (x/(sqrt(x^2+y^2)) )+ (del)/(del y) (y/(sqrt(x^2+y^2)) )], [\ , "<mi//>"\ =1/(sqrt(x^2+y^2)) - (x^2)/([x^2+y^2]^(3//2)) +1/(sqrt(x^2+y^2)) - (y^2)/([x^2+y^2]^(3//2)) ], [\ , "<mi//>"\ = (x^2+y^2\ -x^2\ +x^2+y^2\ -\ y^2)/([x^2+y^2]^(3//2)) ], [\ , "<mi//>"\ =1/(sqrt(x^2+y^2)) ], [\ , grad grad xx(x/(sqrt(x^2+y^2)) hat('\\x000131''\\x000131')+y/(sqrt(x^2+y^2)) hat('\\x000237''\\x000237'))], [\ , "<mi//>"\ =det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [x/(sqrt(x^2+y^2)) , y/(sqrt(x^2+y^2)) , 0]]], [\ , "<mi//>"\ =(- (xy)/([x^2+y^2]^(3//2)) + (xy)/([x^2+y^2]^(3//2)) ) hat bb k], [\ , "<mi//>"\ =bb 0]
 [\ , grad grad*(-y/(sqrt(x^2+y^2)) hat('\\x000131''\\x000131')+x/(sqrt(x^2+y^2)) hat('\\x000237''\\x000237'))], [\ , "<mi//>"\ = (del)/(del x) (-y/(sqrt(x^2+y^2)) )+ (del)/(del y) (x/(sqrt(x^2+y^2)) )], [\ , "<mi//>"\ = (xy)/([x^2+y^2]^(3//2)) - (xy)/([x^2+y^2]^(3//2)) ], [\ , "<mi//>"\ =0], [\ , grad grad xx(-y/(sqrt(x^2+y^2)) hat('\\x000131''\\x000131')+x/(sqrt(x^2+y^2)) hat('\\x000237''\\x000237'))], [\ , "<mi//>"\ =det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [-y/(sqrt(x^2+y^2)) , x/(sqrt(x^2+y^2)) , 0]]], [\ , "<mi//>"\ =(1/(sqrt(x^2+y^2)) - (x^2)/([x^2+y^2]^(3//2)) +1/(sqrt(x^2+y^2)) - (y^2)/([x^2+y^2]^(3//2)) ) hat bb k], [\ , "<mi//>"\ = (x^2+y^2\ -x^2\ +x^2+y^2\ -\ y^2)/([x^2+y^2]^(3//2)) \ hat bb k], [\ , "<mi//>"\ = (hat bb k)/(sqrt(x^2+y^2)) ]
 bb r/r = (x hat('\\x000131''\\x000131')+y hat('\\x000237''\\x000237')+z hat bb k)/([x^2+y^2+z^2]^(1//2)) .
 [ (del)/(del x) x/([x^2+y^2+z^2]^(1//2)) , "<mi//>"=1/([x^2+y^2+z^2]^(1//2)) -1/2(x(2x))/([x^2+y^2+z^2]^(3//2)) ], [\ , "<mi//>"= (y^2+z^2)/([x^2+y^2+z^2]^(3//2)) ], [ (del)/(del y) y/([x^2+y^2+z^2]^(1//2)) , "<mi//>"=1/([x^2+y^2+z^2]^(1//2)) -1/2(y(2y))/([x^2+y^2+z^2]^(3//2)) ], [\ , "<mi//>"= (x^2+z^2)/([x^2+y^2+z^2]^(3//2)) ], [ (del)/(del z) z/([x^2+y^2+z^2]^(1//2)) , "<mi//>"=1/([x^2+y^2+z^2]^(1//2)) -1/2(z(2z))/([x^2+y^2+z^2]^(3//2)) ], [\ , "<mi//>"= (x^2+y^2)/([x^2+y^2+z^2]^(3//2)) ]
@@ -16016,12 +16016,12 @@ x^2+z^2
 [D={\ (x,y,z)\ |\ x^2+z^2!=0\ }]
 [ (del)/(del z) ( (-z)/(x^2+z^2) ), "<mi//>"= (-1)/(x^2+z^2) - (2z(-z))/((x^2+z^2)^2) = (-x^2+z^2)/((x^2+z^2)^2) ], [ (del)/(del x) (x/(x^2+z^2) ), "<mi//>"=1/(x^2+z^2) - (2x(x))/((x^2+z^2)^2) = (-x^2+z^2)/((x^2+z^2)^2) ]
 bb F
-[grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [ (-z)/(x^2+z^2) , y, x/(x^2+z^2) ]]=-( (-x^2+z^2)/((x^2+z^2)^2) - (-x^2+z^2)/((x^2+z^2)^2) ) hat('\\x000237''\\x000237')], [\ , "<mi//>"='\\y01d7ce']
+[grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [ (-z)/(x^2+z^2) , y, x/(x^2+z^2) ]]=-( (-x^2+z^2)/((x^2+z^2)^2) - (-x^2+z^2)/((x^2+z^2)^2) ) hat('\\x000237''\\x000237')], [\ , "<mi//>"=bb 0]
 bb F
 [ (del)/(del x) ( (-z)/(x^2+z^2) ), "<mi//>"=- (2x(-z))/((x^2+z^2)^2) = (2xz)/((x^2+z^2)^2) ], [ (del)/(del z) (x/(x^2+z^2) ), "<mi//>"=- (2z(x))/((x^2+z^2)^2) = (-2xz)/((x^2+z^2)^2) ]
 bb F
 [grad grad*bb F, "<mi//>"= (del)/(del x) ( (-z)/(x^2+z^2) )+ (del)/(del y) (y)+ (del)/(del z) (x/(x^2+z^2) )=1]
-grad grad xx bb F = '\\y01d7ce'.
+grad grad xx bb F = bb 0.
 bb F
 bb F
 y = 0,
@@ -16071,7 +16071,7 @@ Omega Omega xx bb r.
 [grad grad*(bb F xx bb G), "<mi//>"=bb G*(grad grad xx bb F)-bb F*(grad grad xx bb G)], [grad grad xx(bb F xx bb G), "<mi//>"=bb F(grad grad*bb G)-(grad grad*bb F)bb G+(bb G*grad grad)bb F-(bb F*grad grad)bb G]
 Omega Omega
 [grad grad xx(Omega Omega xx bb r), "<mi//>"=Omega Omega(grad grad*bb r)-(grad grad*Omega Omega)bb r+(bb r*grad grad) Omega Omega-(Omega Omega*grad grad)bb r], [\ , "<mi//>"=Omega Omega(grad grad*bb r)-(Omega Omega*grad grad)bb r], [grad grad*(Omega Omega xx bb r), "<mi//>"=bb r*(grad grad xx Omega Omega)-Omega Omega*(grad grad xx bb r)=-Omega Omega*(grad grad xx bb r)]
-[grad grad*bb r, "<mi//>"= (del x)/(del x) + (del y)/(del y) + (del z)/(del z) =3], [grad grad xx bb r, "<mi//>"=( (del z)/(del y) - (del y)/(del z) ) hat('\\x000131''\\x000131')+( (del x)/(del z) - (del z)/(del x) ) hat('\\x000237''\\x000237')+( (del y)/(del x) - (del x)/(del y) ) hat bb k='\\y01d7ce'], [(Omega Omega*grad grad)bb r, "<mi//>"=(Omega_1(del)/(del x) +Omega_2(del)/(del y) +Omega_3(del)/(del z) )(x hat('\\x000131''\\x000131')+y hat('\\x000237''\\x000237')+z hat bb k)], [\ , "<mi//>"=Omega_1 hat('\\x000131''\\x000131')+Omega_2 hat('\\x000237''\\x000237')+Omega_3 hat bb k=Omega Omega]
+[grad grad*bb r, "<mi//>"= (del x)/(del x) + (del y)/(del y) + (del z)/(del z) =3], [grad grad xx bb r, "<mi//>"=( (del z)/(del y) - (del y)/(del z) ) hat('\\x000131''\\x000131')+( (del x)/(del z) - (del z)/(del x) ) hat('\\x000237''\\x000237')+( (del y)/(del x) - (del x)/(del y) ) hat bb k=bb 0], [(Omega Omega*grad grad)bb r, "<mi//>"=(Omega_1(del)/(del x) +Omega_2(del)/(del y) +Omega_3(del)/(del z) )(x hat('\\x000131''\\x000131')+y hat('\\x000237''\\x000237')+z hat bb k)], [\ , "<mi//>"=Omega_1 hat('\\x000131''\\x000131')+Omega_2 hat('\\x000237''\\x000237')+Omega_3 hat bb k=Omega Omega]
 grad grad xx(Omega Omega xx bb r) = 2 Omega Omega\ grad grad*(Omega Omega xx bb r) = 0
 6378sin(90\circ-49\circ) = 6378cos(49\circ) = 4184
 Omega = (2 pi)/24
@@ -16281,9 +16281,9 @@ x
 y
 '\\x00222c'_D bb F*(-hat bb k)dS = '\\x00222c'_D(x hat('\\x000131''\\x000131')+y hat('\\x000237''\\x000237')+0 hat bb k)*(-hat bb k)dS = 0
 '\\x00222c'_S bb F*hat bb n\ dS = '\\x00222d'_V 4\ dV = 16/3 pi
-(x, y, z) != '\\y01d7ce',
+(x, y, z) != bb 0,
 [\ , grad grad*bb F(x,y,z)= (del)/(del x) x/([x^2+y^2+z^2]^(3//2)) + (del)/(del y) y/([x^2+y^2+z^2]^(3//2)) ], [\ , "<mi//>"\ + (del)/(del z) z/([x^2+y^2+z^2]^(3//2)) ], [\ , "<mi//>"\ = ([x^2+y^2+z^2]-x 3/2(2x))/([x^2+y^2+z^2]^(5//2)) + ([x^2+y^2+z^2]-y 3/2(2y))/([x^2+y^2+z^2]^(5//2)) ], [\ , "<mi//>"\ + ([x^2+y^2+z^2]-z 3/2(2z))/([x^2+y^2+z^2]^(5//2)) ], [\ , "<mi//>"\ = (3[x^2+y^2+z^2]-3x^2-3y^2-3z^2)/([x^2+y^2+z^2]^(5//2)) ], [\ , "<mi//>"\ =0]
-(x, y, z) = '\\y01d7ce',
+(x, y, z) = bb 0,
 bb F(x, y, z)
 grad grad*bb F(x, y, z)
 a > 0.
@@ -16571,8 +16571,8 @@ D
 ['\\x00222c'_S bb F*hat N dS=-64/3 pi+16'\\x00222c'_D dS=-64/3 pi+16(4 pi)=128/3 pi]
 [ (del)/(del x) x/([x^2+y^2+z^2]^(3//2)) , "<mi//>"=1/([x^2+y^2+z^2]^(3//2)) -3/2(x(2x))/([x^2+y^2+z^2]^(5//2)) ], [\ , "<mi//>"= (-2x^2+y^2+z^2)/([x^2+y^2+z^2]^(5//2)) ], [ (del)/(del y) y/([x^2+y^2+z^2]^(3//2)) , "<mi//>"=1/([x^2+y^2+z^2]^(3//2)) -3/2(y(2y))/([x^2+y^2+z^2]^(5//2)) ], [\ , "<mi//>"= (x^2-2y^2+z^2)/([x^2+y^2+z^2]^(5//2)) ], [ (del)/(del z) z/([x^2+y^2+z^2]^(3//2)) , "<mi//>"=1/([x^2+y^2+z^2]^(3//2)) -3/2(z(2z))/([x^2+y^2+z^2]^(5//2)) ], [\ , "<mi//>"= (x^2+y^2-2z^2)/([x^2+y^2+z^2]^(5//2)) ]
 [grad grad*bb F, "<mi//>"= ((-2x^2+y^2+z^2)+(x^2-2y^2+z^2)+(x^2+y^2-2z^2))/([x^2+y^2+z^2]^(5//2)) =0]
-(x, y, z) != '\\y01d7ce'
-(x, y, z) = '\\y01d7ce'.
+(x, y, z) != bb 0
+(x, y, z) = bb 0.
 [V_1, "<mi//>"={\ (x,y,z)\ |\ x^2+(y-2)^2+z^2<=9\ }], [V_2, "<mi//>"={\ (x,y,z)\ |\ x^2+(y-2)^2+z^2<=1\ }]
 V_1
 V_2.
@@ -17055,7 +17055,7 @@ S_ epsilon,
 bb F
 bb a xx bb F,
 bb a
-[\ , "<mi//>"'\\x00222c'_(del Omega)(bb a xx bb F)*hat bb n\ dS='\\x00222d'_V grad grad*(bb a xx bb F)\ dV], [\ , "<mi//>"\ ='\\x00222d'_ Omega[bb F*ubrace((grad grad xx bb a))_(='\\y01d7ce')-bb a*(grad grad xx bb F)]\ dV], [\ , "<mi//>"\ =-'\\x00222d'_ Omega bb a*(grad grad xx bb F)\ dV=-bb a*'\\x00222d'_ Omega grad grad xx bb F\ dV]
+[\ , "<mi//>"'\\x00222c'_(del Omega)(bb a xx bb F)*hat bb n\ dS='\\x00222d'_V grad grad*(bb a xx bb F)\ dV], [\ , "<mi//>"\ ='\\x00222d'_ Omega[bb F*ubrace((grad grad xx bb a))_(=bb 0)-bb a*(grad grad xx bb F)]\ dV], [\ , "<mi//>"\ =-'\\x00222d'_ Omega bb a*(grad grad xx bb F)\ dV=-bb a*'\\x00222d'_ Omega grad grad xx bb F\ dV]
 bb a
 bb a*(bb b xx bb c) = (bb a xx bb b)*bb c
 (bb a xx bb F)*hat bb n = bb a*(bb F xx hat bb n)
@@ -17576,7 +17576,7 @@ C,
 bb F
 bb F
 (x, y) = (0, 0)
-grad grad xx bb F = '\\y01d7ce'
+grad grad xx bb F = bb 0
 (x, y) = (0, 0).
 cc R
 C.
@@ -17796,12 +17796,12 @@ grad grad xx bb F = det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'
 oint_C[varphi grad grad psi+psi grad grad varphi]*dbb r = 0.
 C = del S.
 oint_C[varphi grad grad psi+psi grad grad varphi]*dbb r = '\\x00222c'_S grad grad xx[varphi grad grad psi+psi grad grad varphi]*hat bb n dS
-grad grad xx[varphi grad grad psi+psi grad grad varphi] = '\\y01d7ce'.
-oint_C[varphi grad grad psi+psi grad grad varphi]*dbb r = '\\y01d7ce'.
-grad grad xx[varphi grad grad psi+psi grad grad varphi] = '\\y01d7ce'
-[grad grad xx[varphi grad grad psi+psi grad grad varphi], "<mi//>"=grad grad xx[grad grad(varphi psi)], \ , "<mi//>"("by part(c) of Theorem\ ""4.1.3")], [\ , "<mi//>"='\\y01d7ce', \ , "<mi//>"("by part(b) of Theorem\ ""4.1.7")]
-grad grad xx[varphi grad grad psi+psi grad grad varphi] = '\\y01d7ce'
-[grad grad xx[varphi grad grad psi+psi grad grad varphi], "<mi//>"=grad grad varphi xx grad grad psi+varphi grad grad xx(grad grad psi)+grad grad psi xx grad grad varphi+psi grad grad xx(grad grad varphi)], [\ , "<mi//>"=grad grad varphi xx grad grad psi+grad grad psi xx grad grad varphi], [\ , \ "since\ " varphi grad grad xx(grad grad psi)=psi grad grad xx(grad grad varphi)='\\y01d7ce'], [\ , "<mi//>"='\\y01d7ce']
+grad grad xx[varphi grad grad psi+psi grad grad varphi] = bb 0.
+oint_C[varphi grad grad psi+psi grad grad varphi]*dbb r = bb 0.
+grad grad xx[varphi grad grad psi+psi grad grad varphi] = bb 0
+[grad grad xx[varphi grad grad psi+psi grad grad varphi], "<mi//>"=grad grad xx[grad grad(varphi psi)], \ , "<mi//>"("by part(c) of Theorem\ ""4.1.3")], [\ , "<mi//>"=bb 0, \ , "<mi//>"("by part(b) of Theorem\ ""4.1.7")]
+grad grad xx[varphi grad grad psi+psi grad grad varphi] = bb 0
+[grad grad xx[varphi grad grad psi+psi grad grad varphi], "<mi//>"=grad grad varphi xx grad grad psi+varphi grad grad xx(grad grad psi)+grad grad psi xx grad grad varphi+psi grad grad xx(grad grad varphi)], [\ , "<mi//>"=grad grad varphi xx grad grad psi+grad grad psi xx grad grad varphi], [\ , \ "since\ " varphi grad grad xx(grad grad psi)=psi grad grad xx(grad grad varphi)=bb 0], [\ , "<mi//>"=bb 0]
 x(t) = cos t
 y(t) = sin t
 x(t)^2+y(t)^2 = 1.
@@ -18376,7 +18376,7 @@ C,
 S.
 [oint_C bb F*dbb r, "<mi//>"='\\x00222c'_S grad grad xx bb F*hat bb n dS='\\x00222c'_S grad grad xx bb F*(-hat bb k)dS], [\ , "<mi//>"=-'\\x00222c'_S(2x-1/x)dS], [\ , "<mi//>"=-int_2^4 dx int_2^4 dy\ (2x-1/x)=-int_2^4 dx\ 2(2x-1/x)], [\ , "<mi//>"=-2[x^2-ln x]_2^4=-2[12-ln 2]], [\ , "<mi//>"=2ln 2-24]
 grad grad xx bb F
-'\\y01d7ce',
+bb 0,
 bb F
 grad grad*(grad grad xx bb G) = 0
 [0, "<mi//>"=grad grad*bb F= (del)/(del x) (xz)+ (del)/(del y) (axe^y z+byz)+ (del)/(del z) (y^2-xe^y z^2)], [\ , "<mi//>"=z+(axe^y z+bz)+(-2xe^y z)], [\ , "<mi//>"=(1+b)z+(a-2)xe^y z]
@@ -18428,9 +18428,9 @@ bb F
 bb F
 bb F
 [grad grad xx bb F, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [y, 2x-10, 0]]=hat bb k]
-grad grad xx bb F != '\\y01d7ce',
+grad grad xx bb F != bb 0,
 bb F
-grad grad xx bb F != '\\y01d7ce'
+grad grad xx bb F != bb 0
 C.
 C
 C.
@@ -18485,7 +18485,7 @@ bb x
 S,
 S
 '\\x00222c'_S(grad grad xx bb E+1/c(del bb H)/(del t) )*hat bb n dS > 0,
-bb G = '\\y01d7ce'
+bb G = bb 0
 grad grad xx bb E+1/c(del bb H)/(del t) = 0
 [grad xx bb F, "<mi//>"=grad xx(z hat('\\x000131''\\x000131')+x hat('\\x000237''\\x000237')+y^3 z^3 hat bb k)], [\ , "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [z, x, y^3 z^3]]], [\ , "<mi//>"=3y^2 z^3 hat('\\x000131''\\x000131')+hat('\\x000237''\\x000237')+hat bb k]
 t,
@@ -18614,7 +18614,7 @@ kappa > 0,
 tau
 (d hat bb T)/(ds) = kappa hat bb N\ (d hat bb N)/(ds) = -kappa hat bb T
 bb c(s) = bb r(s)+1/kappa hat bb N(s).
-(dbb c)/(ds) = (dbb r)/(ds) +1/kappa(d hat bb N)/(ds) = hat bb T(s)+1/kappa(-kappa hat bb T(s)) = '\\y01d7ce'
+(dbb c)/(ds) = (dbb r)/(ds) +1/kappa(d hat bb N)/(ds) = hat bb T(s)+1/kappa(-kappa hat bb T(s)) = bb 0
 bb c(s)
 |bb r(s)-bb c| = 1/kappa
 1/kappa
@@ -18627,7 +18627,7 @@ bb v(t) = bb a t+bb v_0.
 bb r(t) = 1/2 bb a t^2+bb v_0 t+bb r_0.
 |bb v(t)| = |bb a t+bb v_0|
 bb a
-'\\y01d7ce',
+bb 0,
 bb r(t) = bb v_0 t+bb r_0
 bb a(t) = (d^2 s)/(dt^2) (t) hat bb T(t)+kappa(t)( (ds)/dt(t))^2 hat bb N(t)
 (ds)/dt
@@ -18637,7 +18637,7 @@ hat bb N(t),
 bb a = (a_1, a_2, a_3),
 [bb a xx bb r, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [a_1, a_2, a_3], [x, y, z]]=(a_2 z-a_3 y) hat('\\x000131''\\x000131')-(a_1 z-a_3 x) hat('\\x000237''\\x000237')+(a_1 y-a_2 x) hat('\\x000237''\\x000237')]
 [grad grad xx(bb a xx bb r), "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [a_2 z-a_3 y, -a_1 z+a_3 x, a_1 y-a_2 x]]], [\ , "<mi//>"=2a_1 hat('\\x000131''\\x000131')+2a_2 hat('\\x000237''\\x000237')+2a_3 hat bb k]
-bb a = '\\y01d7ce'.
+bb a = bb 0.
 f(x) = x^2,
 [grad grad*(grad grad f)=grad grad*(grad grad x^2)=grad grad*(2x hat('\\x000131''\\x000131'))=2]
 bb F = x^2 hat('\\x000131''\\x000131'),
@@ -18809,14 +18809,14 @@ T,
 T.
 bb F
 bb G(x, y) = -y/(x^2+y^2) hat('\\x000131''\\x000131')+x/(x^2+y^2) hat('\\x000237''\\x000237')
-grad grad xx bb G = '\\y01d7ce'
+grad grad xx bb G = bb 0
 oint_C bb G*dbb r = 2 pi
 cc R_1
 S
 T.
 cc R_1
 bb F,
-grad grad xx bb F = '\\y01d7ce'
+grad grad xx bb F = bb 0
 cc R_1.
 cc R_1
 S-T,
@@ -18830,7 +18830,7 @@ int_R bb G*dbb r != 0.
 Q
 bb F = bb G.
 int_S bb G*dbb r = int_T bb G*dbb r = 0
-grad grad xx bb G = '\\y01d7ce'
+grad grad xx bb G = bb 0
 S,
 P.
 int_U bb G*dbb r = int_R bb G*dbb r.
@@ -18839,7 +18839,7 @@ int_U bb G*dbb r = -2 pi.
 cc R_2
 U
 R.
-grad grad xx bb G = '\\y01d7ce'
+grad grad xx bb G = bb 0
 cc R_2.
 P.
 cc R_2
@@ -18900,7 +18900,7 @@ x^2+y^2+z^2 = 1.
 grad grad xx bb F
 bb F
 bb F
-bb F = '\\y01d7ce',
+bb F = bb 0,
 0.
 bb F = grad grad 1/(x^2+y^2)
 {\ (x, y, z)\ |\ (x, y) != (0, 0)\ }.
@@ -18927,7 +18927,7 @@ hat T(t_0)
 -hat T(t_0),
 bb F
 phi.
-grad grad xx bb F = '\\y01d7ce'
+grad grad xx bb F = bb 0
 P
 Q
 phi(P)-phi(Q) = 3
@@ -19066,7 +19066,7 @@ x^2+y^2 = 2
 {\ (x, y)\ |\ x^2+y^2 > 1\ }.
 {\ (x, y)\ |\ y > x^2\ }
 {\ (x, y)\ |\ y > x^2\ }.
-grad grad f = '\\y01d7ce'
+grad grad f = bb 0
 f
 f
 K,
@@ -19081,7 +19081,7 @@ bb r(t)
 int_C(bb F xx bb G)*dbb r
 C,
 bb F xx bb G
-grad grad xx(bb F xx bb G) = '\\y01d7ce'.
+grad grad xx(bb F xx bb G) = bb 0.
 bb H = x hat('\\x000237''\\x000237')
 grad grad xx bb H = hat bb k
 bb F xx bb G
@@ -19094,7 +19094,7 @@ int_C fds
 C
 f
 (del bb r)/(del u) xx(del bb r)/(del u)
-'\\y01d7ce'.
+bb 0.
 x(u, v)
 y(u, v).
 x(u, v) = 157u,
@@ -19156,7 +19156,7 @@ grad grad*grad grad f = 2.
 omega omega = (omega_1, omega_2, omega_3),
 [omega omega xx bb r, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [omega_1, omega_2, omega_3], [x, y, z]]], [\ , "<mi//>"=(omega_2 z-omega_3 y) hat('\\x000131''\\x000131')-(omega_1 z-omega_3 x) hat('\\x000237''\\x000237')+(omega_1 y-omega_2 x) hat('\\x000237''\\x000237')]
 [grad grad xx(omega omega xx bb r), "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [ (del)/(del x) , (del)/(del y) , (del)/(del z) ], [omega_2 z-omega_3 y, -omega_1 z+omega_3 x, omega_1 y-omega_2 x]]], [\ , "<mi//>"=2 omega_1 hat('\\x000131''\\x000131')+2 omega_2 hat('\\x000237''\\x000237')+2 omega_3 hat bb k]
-omega omega = '\\y01d7ce'.
+omega omega = bb 0.
 '\\x00222d'_ Omega grad grad*(fbb F)dV = '\\x00222c'_(del Omega)fbb F*hat bb n dS
 '\\x00222c'_(del Omega)f hat bb n dS = '\\x00222d'_ Omega grad grad fdV
 +
@@ -19173,14 +19173,14 @@ bb F.
 bb F = x hat('\\x000131''\\x000131')-y hat('\\x000237''\\x000237')
 grad grad*bb F = 0
 bb r(t)
-'\\y01d7ce'.
+bb 0.
 bb r(t)
 (dbb r)/dt
 C,
 d/dt(bb r(t)*bb r(t)) = 2bb r(t)* (dbb r)/dt(t) = 0
 x(t)^2+y(t)^2+z(t)^2 = bb r(t)*bb r(t)
 bb r(t)
-'\\y01d7ce',
+bb 0,
 x(t)^2+y(t)^2+z(t)^2 = a^2
 a > 0.
 kappa(t) = (| (d hat T)/dt(t)|)/(|bb r'(t)|)
@@ -19189,7 +19189,7 @@ t
 hat T
 bb r',
 kappa,
-bb F = '\\y01d7ce',
+bb F = bb 0,
 {\ (x, y, z)\ |\ x^2+y^2 > 0\ }
 0
 bb F = grad grad f
@@ -19213,10 +19213,10 @@ t
 bb r(t) = cos t hat('\\x000131''\\x000131')+sin t hat('\\x000237''\\x000237'),
 1
 -cos t hat('\\x000131''\\x000131')-sin t hat('\\x000237''\\x000237'),
-[grad grad xx(f grad grad f)=(grad grad f) xx(grad grad f)+f grad grad xx(grad grad f)='\\y01d7ce']
+[grad grad xx(f grad grad f)=(grad grad f) xx(grad grad f)+f grad grad xx(grad grad f)=bb 0]
 0
 hat T(s)
-(d hat T)/(ds) (s) = '\\y01d7ce'
+(d hat T)/(ds) (s) = bb 0
 bb r'(s) = hat T(s)
 hat T_0.
 bb r(s) = s hat T_0+bb r_0
@@ -19312,7 +19312,7 @@ bb G = 2x hat('\\x000131''\\x000131') = grad grad(x^2),
 oint_C bb F*dbb r = oint_C bb G*dbb r = 0
 C.
 Omega Omega(t) = bb r(t) xx bb v(t).
-[ (d Omega Omega)/dt, "<mi//>"= (dbb r)/dt xx bb v+bb r xx(dbb v)/dt], [\ , "<mi//>"=bb v xx bb v+bb r xx(f(bb r,bb v)bb r).], [\ , "<mi//>"='\\y01d7ce'+f(bb r,bb v)(bb r xx bb r)='\\y01d7ce'.]
+[ (d Omega Omega)/dt, "<mi//>"= (dbb r)/dt xx bb v+bb r xx(dbb v)/dt], [\ , "<mi//>"=bb v xx bb v+bb r xx(f(bb r,bb v)bb r).], [\ , "<mi//>"=bb 0+f(bb r,bb v)(bb r xx bb r)=bb 0.]
 Omega Omega
 cc R
 '\\x00222c'_cc S(x hat('\\x000131''\\x000131')-y hat('\\x000237''\\x000237')+z^2 hat bb k)*hat bb n dS = '\\x00222d'_cc R(1-1+2z)dV = 2'\\x00222d'_cc R zdV
@@ -19343,9 +19343,9 @@ bb x
 D,
 D
 '\\x00222c'_D(grad grad xx bb F-bb G)*hat bb n dS > 0,
-grad grad xx bb F-bb G = '\\y01d7ce'
+grad grad xx bb F-bb G = bb 0
 bb G = grad grad xx bb F.
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
@@ -19440,11 +19440,11 @@ z = arctan t,
 z?
 bb r(t) = (1/2 t^2, 1/3 t^3)
 t = -1.
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0
-bb r'(t) xx bb v(bb r(t)) = '\\y01d7ce'
+bb r'(t) xx bb v(bb r(t)) = bb 0
 '\\x00222c'_S rho dS
 du, dv
 grad grad xx bb F = 0

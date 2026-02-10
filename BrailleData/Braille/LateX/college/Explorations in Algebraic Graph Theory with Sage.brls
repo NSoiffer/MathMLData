@@ -1,62 +1,62 @@
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit S (\mathbf 5, \mathbf 6, \mathbf 1 \mathbf 2)
-S(5, 6, 12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖S𝐖(\mathbf𝐖5𝐖,𝐖\mathbf𝐖6𝐖,𝐖\mathbf𝐖1𝐖\mathbf𝐖2𝐖)
+S(5,𝐖6,𝐖12)
 132
 6
 12
 5
 12
-S(5, 6, 12)
+S(5,𝐖6,𝐖12)
 5
-(12, 6, 1)
+(12,𝐖6,𝐖1)
 12
 6
-K_6
+K_6𝐖
 6
-K_6
+K_6𝐖
 6
 11
 90
 15
-15 \cdot 3 =45
+15𝐖\cdot𝐖3𝐖=45
 40
-\binom{6}{3} =20
+\binom{6}{3}𝐖=20
 3
 3
 3
 3
-20 \cdot 2 =40
+20𝐖\cdot𝐖2𝐖=40
 132
-12 =6 +6
-132 =2 +15 \cdot 3 \cdot 2 +\binom{6}{3} \cdot 2
-S(5, 6, 12)
-M_{12}
-M_{12}
+12𝐖=6𝐖+6
+132𝐖=2𝐖+15𝐖\cdot𝐖3𝐖\cdot𝐖2𝐖+\binom{6}{3}𝐖\cdot𝐖2
+S(5,𝐖6,𝐖12)
+M_{12}𝐖
+M_{12}𝐖
 5
 5
 144
-12! =479\~001\~600
+12!𝐖=479\~001\~600
 12
-S(5, 6, 12)
+S(5,𝐖6,𝐖12)
 95\~040
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-f \colon =(1 +\sqrt{5})/2
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+f𝐖\colon𝐖=(1𝐖+\sqrt{5})/2
 1/f
-\frac{1}{2}( \pm 1, \pm 1, \pm 1, \pm 1)
-( \pm 1, 0, 0, 0)
-\frac{1}{2}( \pm 1, \pm f, \pm f^{ -1}, 0) .
-120 \times 4
+\frac{1}{2}(𝐖\pm𝐖1,𝐖𝐖\pm𝐖1,𝐖𝐖\pm𝐖1,𝐖𝐖\pm𝐖1)
+(𝐖\pm𝐖1,𝐖0,𝐖0,𝐖0)
+\frac{1}{2}(𝐖\pm𝐖1,𝐖𝐖\pm𝐖f,𝐖𝐖\pm𝐖f^{𝐖-1}𝐖,𝐖0)𝐖.
+120𝐖\times𝐖4
 U
-\mathbb Q (f)
+\mathbb𝐖Q𝐖(f)
 f
-f^2 -f -1
+f^2𝐖𝐖-f𝐖-1
 i
 j
 k
@@ -64,65 +64,65 @@ i
 5
 U
 U
-U^T U =30I
+U^T𝐖U𝐖=30I
 1/f
 Aut(DC)
 U
 q
-q +q^\ast
+q𝐖+q^\ast𝐖𝐖
 qu
 f
-1 -f
-SL(2, 5)
+1𝐖-f
+SL(2,𝐖5)
 f
-1 -f
+1𝐖-f
 DC
-th =( -1/2) +1/2 \ast i +1/2 \ast j +1/2 \ast k
+th𝐖=(𝐖-1/2)𝐖+1/2𝐖\ast𝐖i𝐖+1/2𝐖\ast𝐖j𝐖+1/2𝐖\ast𝐖k
 DC
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
 C(t)
-C(t) =1 +tC(t)^2 .
-C(t) =\frac{1}{2t}(1 -\sqrt{(1 -4t)}) .
-\Phi (u) \colon =1 +tu^2
+C(t)𝐖=1𝐖+tC(t)^2𝐖𝐖.
+C(t)𝐖=\frac{1}{2t}(1𝐖-\sqrt{(1𝐖-4t)})𝐖.
+\Phi𝐖(u)𝐖\colon𝐖=1𝐖+tu^2𝐖
 C(x)
-C(t) =\Phi (C(t));
+C(t)𝐖=\Phi𝐖(C(t));𝐖
 C(t)
-\mathbb Q [[t]]
-C_i (t)
-C_0 (t) =1
-C_{n +1} (t) =\Phi (C_n (t))
-C_1 (t) & \lt mi/> =1 +t \\ C_2 (t) & \lt mi/> =1 +t +2t^2 +t^3 \\ C_3 (t) & \lt mi/> =1 +t +2t^2 +5t^3 +6t^4 +6t^5 +4t^6 +t^7 .
-C_n (t)
+\mathbb𝐖Q𝐖[[t]]
+C_i𝐖(t)
+C_0𝐖(t)𝐖=1
+C_{n𝐖+1}𝐖(t)𝐖=\Phi𝐖(C_n𝐖(t))
+C_1𝐖(t)𝐖&𝐖\lt𝐖mi/>𝐖=1𝐖+t𝐖\\𝐖C_2𝐖(t)𝐖&𝐖\lt𝐖mi/>𝐖=1𝐖+t𝐖+2t^2𝐖𝐖+t^3𝐖𝐖\\𝐖C_3𝐖(t)𝐖&𝐖\lt𝐖mi/>𝐖=1𝐖+t𝐖+2t^2𝐖𝐖+5t^3𝐖𝐖+6t^4𝐖𝐖+6t^5𝐖𝐖+4t^6𝐖𝐖+t^7𝐖𝐖.
+C_n𝐖(t)
 n
-n \le 3
+n𝐖\le𝐖3
 n
-C_k (t)
-2^k
-k +1
-k +1
-C_k (t)
-k +2
-C_{k +1} (t)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-(S, \overline{S})
+C_k𝐖(t)
+2^k𝐖
+k𝐖+1
+k𝐖+1
+C_k𝐖(t)
+k𝐖+2
+C_{k𝐖+1}𝐖(t)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+(S,𝐖\overline{S})
 V(G)
 G
 S
@@ -133,259 +133,259 @@ G
 S
 u
 4
-(23, 7, 1)
-\{0, \ldots, 23\}
+(23,𝐖7,𝐖1)
+\{0,𝐖\ldots𝐖,𝐖23\}
 i
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-K_6
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-K_6
-K_6
-K_6
-K_6
-K_6
-K_6
-6! =720
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+K_6𝐖
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+K_6𝐖
+K_6𝐖
+K_6𝐖
+K_6𝐖
+K_6𝐖
+K_6𝐖
+6!𝐖=720
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
 G
-C \subseteq G
+C𝐖\subseteq𝐖G
 G
-X(G, C)
+X(G,𝐖C)
 C
 G
 C
 G
-GF(2)^d
+GF(2)^d𝐖
 d
 C
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
 n
 n
 R(x)
 n
-R(x) =x +x^2 +2x^2 +\ldots
+R(x)𝐖=x𝐖+x^2𝐖𝐖+2x^2𝐖𝐖+\ldots𝐖
 R(x)
-R(x) =x\exp (\sum_{k \ge 1} \frac{1}{k}R(x^k)) .
+R(x)𝐖=x\exp𝐖(\sum𝐖_{k𝐖\ge𝐖1}𝐖\frac{1}{k}R(x^k𝐖))𝐖.
 R(x)
-R =\Phi (R)
+R𝐖=\Phi𝐖(R)
 R
-\sum r_n x^n
-\sum r_n x^{ni}
+𝐖\sum𝐖r_n𝐖x^n𝐖
+𝐖\sum𝐖r_n𝐖x^{ni}𝐖
 T(x)
-T(x) =R(x) -\frac{1}{2}(R(x)^2 -R(x^2))
+T(x)𝐖=R(x)𝐖-\frac{1}{2}(R(x)^2𝐖𝐖-R(x^2𝐖))
 R(x)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
 G
-C =\{1, 2, 7, 8\}
-V(G) =\mathbb Z_9
+C𝐖=\{1,𝐖2,𝐖7,𝐖8\}
+V(G)𝐖=\mathbb𝐖Z𝐖_9𝐖
 i
 j
 C
 G
-(0, 1)
+(0,𝐖1)
 G
 S
 G
 S
 G
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbb Z_2^d
-d \times m
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbb𝐖Z𝐖_2^d𝐖
+d𝐖\times𝐖m
 M
 M
 d
-2^{d -1}
+2^{d𝐖-1}𝐖
 G
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-C(t) =\Phi (C(t))
-\Phi
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+C(t)𝐖=\Phi𝐖(C(t))
+\Phi𝐖
 u
-\Phi (C_0 +\delta) \approx \Phi (C_0) +\Phi '(C_0)\delta;
-\delta
+\Phi𝐖(C_0𝐖𝐖+\delta𝐖)𝐖\approx𝐖\Phi𝐖(C_0𝐖)𝐖+\Phi𝐖'(C_0𝐖)\delta𝐖;𝐖
+\delta𝐖
 t
-C_0
-\Phi (C(t)) =C(t)
-\delta
-C_0 +\delta =\Phi (C_0) +\Phi '(C_0)\delta,
-\delta =\frac{\Phi (C_0) -C_0}{1 -\Phi '(C_0)} .
-C_{n +1} =C_n +\frac{\Phi (C_n) -C_n}{1 -\Phi '(C_n)}
-\Phi '(C_n (t)) =2tC_n (t) .
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-K_n
+C_0𝐖
+\Phi𝐖(C(t))𝐖=C(t)
+\delta𝐖
+C_0𝐖𝐖+\delta𝐖𝐖=\Phi𝐖(C_0𝐖)𝐖+\Phi𝐖'(C_0𝐖)\delta𝐖,𝐖
+\delta𝐖𝐖=\frac{\Phi𝐖(C_0𝐖)𝐖-C_0𝐖}{1𝐖-\Phi𝐖'(C_0𝐖)}𝐖.
+C_{n𝐖+1}𝐖𝐖=C_n𝐖𝐖+\frac{\Phi𝐖(C_n𝐖)𝐖-C_n𝐖}{1𝐖-\Phi𝐖'(C_n𝐖)}
+\Phi𝐖'(C_n𝐖(t))𝐖=2tC_n𝐖(t)𝐖.
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+K_n𝐖
 r
 X
-\mathbit r
+\mathbit𝐖r𝐖
 f
 X
 Sym(r)
-F((v, u)) =f((u, v))^{ -1}
-X^f
-V(X) \times \{1, \ldots, r\}
-(u, i) \sim (v, j)
-j =i^{f(u, v)}
+F((v,𝐖u))𝐖=f((u,𝐖v))^{𝐖-1}𝐖
+X^f𝐖
+V(X)𝐖\times𝐖\{1,𝐖\ldots𝐖,𝐖r\}
+(u,𝐖i)𝐖\sim𝐖(v,𝐖j)
+j𝐖=i^{f(u,𝐖v)}𝐖
 V(X)
 r
 r
 r
-X^f
+X^f𝐖
 d
 d
-K_4
-K_5
-K_n
-(n, r, a_1, c_2)
+K_4𝐖
+K_5𝐖
+K_n𝐖
+(n,𝐖r,𝐖a_1𝐖,𝐖c_2𝐖)
 u
 u
-n(n -2 -a_2) =n(r -1)c_2
-(4.4.1) & n -1 -rc_2 =a_1 -c_2 .
-a_1 -c_2
-\delta
-K_n
-c_2
-(n, r, c_2)
+n(n𝐖-2𝐖-a_2𝐖)𝐖=n(r𝐖-1)c_2𝐖
+(4.4.1)𝐖&𝐖n𝐖-1𝐖-rc_2𝐖𝐖=a_1𝐖𝐖-c_2𝐖𝐖.
+a_1𝐖𝐖-c_2𝐖
+\delta𝐖
+K_n𝐖
+c_2𝐖
+(n,𝐖r,𝐖c_2𝐖)
 n
 r
 nr
 r
-(n, r, a_1, c_2)
-(4.4.2) & 2 \le r \le n -1.
-c_2
-n -1
-a_1
-na_1
-n -1 -a_1 =(r -1)c_2,
+(n,𝐖r,𝐖a_1𝐖,𝐖c_2𝐖)
+(4.4.2)𝐖&𝐖2𝐖\le𝐖r𝐖\le𝐖n𝐖-1.
+c_2𝐖
+n𝐖-1
+a_1𝐖
+na_1𝐖
+n𝐖-1𝐖-a_1𝐖𝐖=(r𝐖-1)c_2𝐖,𝐖
 n
 r
-c_2
-(4.4.3) & 1 \le c_2 \le \lfloor \frac{n -1}{r -1} \rfloor
-n >\theta > -1 >\tau
+c_2𝐖
+(4.4.3)𝐖&𝐖1𝐖\le𝐖c_2𝐖𝐖\le𝐖𝐖\lfloor𝐖\frac{n𝐖-1}{r𝐖-1}𝐖\rfloor𝐖
+n𝐖>\theta𝐖𝐖>𝐖-1𝐖>\tau𝐖
 n
--1
-n -1
--\theta \tau =n -1
-\theta
-\tau
-t^2 -\delta t -(n -1) .
-rn & \lt mi/> =1 +(n -1) +m_\theta +m_\tau \\ 0 & \lt mi/> =(n -1) +(n -1)( -1) +m_\theta \theta +m_\tau \tau
-(4.4.4) & m_\theta =\frac{(r -1)n( -\tau)}{\theta -\tau} .
-\theta
-\tau
-\theta =\sqrt{n -1}, \tau = -\sqrt{n -1}
-n(r -1)/2
-(4.4.5) & (\theta -\tau)^2 =\delta^2 +4(n -1) =(a_1 -c_2)^2 +4(n -1)
-\delta =n -1 -rc_2
-\theta
-\tau
-m_t h
-( -\tau, \theta, r)
-(a_1 -c_2)^2 +4(n -1)
-m_\theta =m_\tau
-\delta =0
-K_n
+𝐖-1
+n𝐖-1
+𝐖-\theta𝐖\tau𝐖𝐖=n𝐖-1
+\theta𝐖
+\tau𝐖
+t^2𝐖𝐖-\delta𝐖t𝐖-(n𝐖-1)𝐖.
+rn𝐖&𝐖\lt𝐖mi/>𝐖=1𝐖+(n𝐖-1)𝐖+m_\theta𝐖𝐖𝐖+m_\tau𝐖𝐖𝐖\\𝐖0𝐖&𝐖\lt𝐖mi/>𝐖=(n𝐖-1)𝐖+(n𝐖-1)(𝐖-1)𝐖+m_\theta𝐖𝐖\theta𝐖𝐖+m_\tau𝐖𝐖\tau𝐖
+(4.4.4)𝐖&𝐖m_\theta𝐖𝐖𝐖=\frac{(r𝐖-1)n(𝐖-\tau𝐖)}{\theta𝐖𝐖-\tau𝐖}𝐖.
+\theta𝐖
+\tau𝐖
+\theta𝐖𝐖=\sqrt{n𝐖-1},𝐖\tau𝐖𝐖=𝐖-\sqrt{n𝐖-1}
+n(r𝐖-1)/2
+(4.4.5)𝐖&𝐖(\theta𝐖𝐖-\tau𝐖)^2𝐖𝐖=\delta𝐖^2𝐖𝐖+4(n𝐖-1)𝐖=(a_1𝐖𝐖-c_2𝐖)^2𝐖𝐖+4(n𝐖-1)
+\delta𝐖𝐖=n𝐖-1𝐖-rc_2𝐖
+\theta𝐖
+\tau𝐖
+m_t𝐖h
+(𝐖-\tau𝐖,𝐖\theta𝐖,𝐖r)
+(a_1𝐖𝐖-c_2𝐖)^2𝐖𝐖+4(n𝐖-1)
+m_\theta𝐖𝐖𝐖=m_\tau𝐖𝐖
+\delta𝐖𝐖=0
+K_n𝐖
 r
-( -\tau, \theta)
-\theta
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-K_6
-K_6
-K_6
-K_6
+(𝐖-\tau𝐖,𝐖\theta𝐖)
+\theta𝐖
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+K_6𝐖
+K_6𝐖
+K_6𝐖
+K_6𝐖
 Q
-K_6
-K_6
+K_6𝐖
+K_6𝐖
 Q
-K_6
+K_6𝐖
 Q
-K_6
+K_6𝐖
 Q
-K_6
+K_6𝐖
 Q
-K_6
+K_6𝐖
 Q
-K_6
-K_6
-K_6
-Q
-Q
-K_6
-Q
-K_6
-Q
-K_6
-K_6
+K_6𝐖
+K_6𝐖
+K_6𝐖
 Q
 Q
+K_6𝐖
 Q
-K_6
-K_6
-K_6
+K_6𝐖
+Q
+K_6𝐖
+K_6𝐖
 Q
 Q
 Q
-K_6
+K_6𝐖
+K_6𝐖
+K_6𝐖
 Q
 Q
-K_6
-K_6
+Q
+K_6𝐖
+Q
+Q
+K_6𝐖
+K_6𝐖
 Q
 n
 n
@@ -394,73 +394,73 @@ A
 A
 A
 A
-K_6
+K_6𝐖
 n
-K_6
-K_6
+K_6𝐖
+K_6𝐖
 n
-n =6
+n𝐖=6
 Q
-K_6
+K_6𝐖
 Q
-K_6
+K_6𝐖
 2
-K_6
+K_6𝐖
 Q
-K_6
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
+K_6𝐖
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
 n
 2n
 2n
-\overline{C_{2n}}
+\overline{C_{2n}𝐖}
 n
 n
 2n
-\{1, \ldots, n\}
-i^+
-i^-
+\{1,𝐖\ldots𝐖,𝐖n\}
+i^+𝐖
+i^-𝐖
 n
-C_{2n}
+C_{2n}𝐖
 n
-K_{2n}
+K_{2n}𝐖
 n
-C_{10}
-C_{10}
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
+C_{10}𝐖
+C_{10}𝐖
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
 n
-2 -(n^2 +n +1, n +1, 1)
-n +1
-n^2 +n +1
+2𝐖-(n^2𝐖𝐖+n𝐖+1,𝐖n𝐖+1,𝐖1)
+n𝐖+1
+n^2𝐖𝐖+n𝐖+1
 2
 1
 n
-n +1
-n +1
+n𝐖+1
+n𝐖+1
 10
-K_6
-K_6
-K_6
-K_6
+K_6𝐖
+K_6𝐖
+K_6𝐖
+K_6𝐖
 21
 21
 5
@@ -470,131 +470,131 @@ K_6
 20
 21
 41
-2 -(21, 5, 1)
+2𝐖-(21,𝐖5,𝐖1)
 4
 21
-6 +15 =21 =4^2 +4 +1
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-\mathbf 1
+6𝐖+15𝐖=21𝐖=4^2𝐖𝐖+4𝐖+1
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+\mathbf𝐖1𝐖
 1
-K_6
-\binom{6}{2} =15
+K_6𝐖
+\binom{6}{2}𝐖=15
 5
 3
-K_6
-K_6
-K_6
-K_6
+K_6𝐖
+K_6𝐖
+K_6𝐖
+K_6𝐖
 5
 5
-K_6
-K_6
-K_6
-K_6
+K_6𝐖
+K_6𝐖
+K_6𝐖
+K_6𝐖
 2
 6
-K_6
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
+K_6𝐖
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
 X
 Y
 X
 Y
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
 L(t)
-\mathbb Q [[t]]
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
+\mathbb𝐖Q𝐖[[t]]
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
 u
 v
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
 1
-K_6
+K_6𝐖
 3
-K_6
-K_6
-K_6
+K_6𝐖
+K_6𝐖
+K_6𝐖
 6
-\binom{6}{2} =15
+\binom{6}{2}𝐖=15
 15
-K_6
+K_6𝐖
 2
 15
 15
-K_6
+K_6𝐖
 15
-K_6
+K_6𝐖
 8
 3
 8
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
 7
 5
 50
-K_6
-K_6
+K_6𝐖
+K_6𝐖
 14
 36
 6
-K_6
+K_6𝐖
 6
-K_6
+K_6𝐖
 2
 7
-(a, x)
-(b, y)
+(a,𝐖x)
+(b,𝐖y)
 x
 y
-\{a, b\}
+\{a,𝐖b\}
 x
 y
 7
 5
-50 =2 +6 +6 +6 \cdot 6
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
+50𝐖=2𝐖+6𝐖+6𝐖+6𝐖\cdot𝐖6
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
 x
-\ell
-\ell
+\ell𝐖
+\ell𝐖
 x
 GQ
 GQ
-K_6
-K_6
+K_6𝐖
+K_6𝐖
 GQ
 GQ
 s
 t
-t +1
-s +1
-GQ(2, 2)
+t𝐖+1
+s𝐖+1
+GQ(2,𝐖2)
 W(2)
 W(2)
-L(K_6)
+L(K_6𝐖)
 GQ
 GQ
 W(q)
@@ -604,13 +604,13 @@ V
 GF(q)
 V
 S
-S +S^T =0
+S𝐖+S^T𝐖𝐖=0
 q
 S
 q
 U
 V
-u^T Hv =0
+u^T𝐖Hv𝐖=0
 u
 v
 U
@@ -618,7 +618,7 @@ V
 W(q)
 u
 v
-\beta (u, v) =0
+\beta𝐖(u,𝐖v)𝐖=0
 L
 M
 V
@@ -627,17 +627,17 @@ GQ
 GQ
 W3d
 W3
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
 x
 y
 z
 C
 G
-x^i y^j z^k
-(i, j, k)
+x^i𝐖y^j𝐖z^k𝐖
+(i,𝐖j,𝐖k)
 C
 G
 G
@@ -650,105 +650,105 @@ G
 G
 0
 Aut(G)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
 A
 X
-H(t) =H_X (t)
-H =\exp (iAt)
+H(t)𝐖=H_X𝐖(t)
+H𝐖=\exp𝐖(iAt)
 H(t)
-| H(\tau)_{u, v} | =1
-\tau
+|𝐖H(\tau𝐖)_{u,𝐖v}𝐖|𝐖=1
+\tau𝐖
 u
 v
 A
-A =\sum_\theta \theta E_\theta
-H(t) =\sum_\theta \exp (i\theta t)E_\theta
+A𝐖=\sum𝐖_\theta𝐖𝐖\theta𝐖E_\theta𝐖𝐖
+H(t)𝐖=\sum𝐖_\theta𝐖𝐖\exp𝐖(i\theta𝐖t)E_\theta𝐖𝐖
 k
 AP
-\lambda
+\lambda𝐖
 v
-z_1, \ldots, z_m
-z_1 z_1^T +\cdots +z_m z_m^T
-\lambda
-\epsilon
-\epsilon
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\alpha
+z_1𝐖,𝐖\ldots𝐖,𝐖z_m𝐖
+z_1𝐖z_1^T𝐖𝐖+\cdots𝐖𝐖+z_m𝐖z_m^T𝐖
+\lambda𝐖
+\epsilon𝐖
+\epsilon𝐖
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\alpha𝐖
 L
-\alpha
+\alpha𝐖
 L
 n
 M
-\alpha
-\epsilon
-(8.1.1) & \epsilon +L(0 +1) =L +M .
-L\alpha
+\alpha𝐖
+\epsilon𝐖
+(8.1.1)𝐖&𝐖\epsilon𝐖𝐖+L(0𝐖+1)𝐖=L𝐖+M𝐖.
+L\alpha𝐖
 M
-\alpha =111
-L\alpha =M +M1 +M11.
-L\alpha
-\alpha \setminus \beta
-\beta_1
-\beta_0 \beta_1 =\beta
-\beta_0
-\alpha
-\alpha =100110, \beta =1011,
-\alpha \setminus \beta =\{11\}, \alpha \setminus \alpha =\{\epsilon, 0110\}
-L\alpha =M\alpha \setminus \alpha .
-\alpha \setminus \alpha
+\alpha𝐖𝐖=111
+L\alpha𝐖𝐖=M𝐖+M1𝐖+M11.
+L\alpha𝐖
+\alpha𝐖𝐖\setminus𝐖\beta𝐖
+\beta𝐖_1𝐖
+\beta𝐖_0𝐖\beta𝐖_1𝐖𝐖=\beta𝐖
+\beta𝐖_0𝐖
+\alpha𝐖
+\alpha𝐖𝐖=100110,𝐖\beta𝐖𝐖=1011,𝐖
+\alpha𝐖𝐖\setminus𝐖\beta𝐖𝐖=\{11\},𝐖\alpha𝐖𝐖\setminus𝐖\alpha𝐖𝐖=\{\epsilon𝐖,𝐖0110\}
+L\alpha𝐖𝐖=M\alpha𝐖𝐖\setminus𝐖\alpha𝐖𝐖.
+\alpha𝐖𝐖\setminus𝐖\alpha𝐖
 N
 N(t)
 t
 0
 1
-\ell
-t^\ell
+\ell𝐖
+t^\ell𝐖𝐖
 (8.1.1)
-1 +2tL(t) =L(t) +M(t)
-D =\alpha \setminus \alpha
-| \alpha |
-\alpha
-L(t)t^{| \alpha |} =M(t)D(t) .
-L(t) =(1 -2t +\frac{t^{| \alpha |}}{D(t)})^{ -1} .
-\alpha =111
-D(t) =1 +t +t^2
+1𝐖+2tL(t)𝐖=L(t)𝐖+M(t)
+D𝐖=\alpha𝐖𝐖\setminus𝐖\alpha𝐖
+|𝐖\alpha𝐖|
+\alpha𝐖
+L(t)t^{|𝐖\alpha𝐖|}𝐖𝐖=M(t)D(t)𝐖.
+L(t)𝐖=(1𝐖-2t𝐖+\frac{t^{|𝐖\alpha𝐖|}𝐖}{D(t)})^{𝐖-1}𝐖𝐖.
+\alpha𝐖𝐖=111
+D(t)𝐖=1𝐖+t𝐖+t^2𝐖
 L(t)
-\alpha
-\alpha \setminus \alpha
+\alpha𝐖
+\alpha𝐖𝐖\setminus𝐖\alpha𝐖
 L(2t)
-\mscrF =\{\alpha_1, \ldots, \alpha_d \}
+\mscrF𝐖𝐖=\{\alpha𝐖_1𝐖,𝐖\ldots𝐖,𝐖\alpha𝐖_d𝐖\}
 L
-\mscrF
-M_i
-\alpha_i
-\mscrF
-| \mscrF | =2
-\epsilon +L(0 +1) & \lt mi/> =L +M_1 +M_2 \\ L\alpha_1 & \lt mi/> =M_1 (\alpha_1 \setminus \alpha_1) +M_2 (\alpha_1 \setminus \alpha_2) \\ L\alpha_2 & \lt mi/> =M_1 (\alpha_2 \setminus \alpha_1) +M_2 (\alpha_2 \setminus \alpha_2) .
-\alpha_1
-\alpha_2
+\mscrF𝐖
+M_i𝐖
+\alpha𝐖_i𝐖
+\mscrF𝐖
+|𝐖\mscrF𝐖|𝐖=2
+\epsilon𝐖𝐖+L(0𝐖+1)𝐖&𝐖\lt𝐖mi/>𝐖=L𝐖+M_1𝐖𝐖+M_2𝐖𝐖\\𝐖L\alpha𝐖_1𝐖𝐖&𝐖\lt𝐖mi/>𝐖=M_1𝐖(\alpha𝐖_1𝐖𝐖\setminus𝐖\alpha𝐖_1𝐖)𝐖+M_2𝐖(\alpha𝐖_1𝐖𝐖\setminus𝐖\alpha𝐖_2𝐖)𝐖\\𝐖L\alpha𝐖_2𝐖𝐖&𝐖\lt𝐖mi/>𝐖=M_1𝐖(\alpha𝐖_2𝐖𝐖\setminus𝐖\alpha𝐖_1𝐖)𝐖+M_2𝐖(\alpha𝐖_2𝐖𝐖\setminus𝐖\alpha𝐖_2𝐖)𝐖.
+\alpha𝐖_1𝐖
+\alpha𝐖_2𝐖
 L
-M_1
-M_2
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
+M_1𝐖
+M_2𝐖
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
 K
 u
 i
 K
 LC
-C_8
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
+C_8𝐖
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
 u
 v
 X
@@ -757,14 +757,14 @@ u
 v
 u
 v
-X \setminus u
-X \setminus v
-X \setminus u
-X \setminus v
+X𝐖\setminus𝐖u
+X𝐖\setminus𝐖v
+X𝐖\setminus𝐖u
+X𝐖\setminus𝐖v
 u
 v
 C9
-\{0, \ldots, 8\}
+\{0,𝐖\ldots𝐖,𝐖8\}
 C9
 1
 4
@@ -778,33 +778,33 @@ D
 D
 G
 H
-G \setminus i
+G𝐖\setminus𝐖i
 G
 i
-D \setminus 3 \cong D \setminus 6
+D𝐖\setminus𝐖3𝐖\cong𝐖D𝐖\setminus𝐖6
 k
 LATEX
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-K_6
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
 1
 1
-K_6
-K_6
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
+K_6𝐖
+K_6𝐖
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
 D
 X
-DD^T =\Delta -A, D^T D =2I +S
-\Delta
+DD^T𝐖𝐖=\Delta𝐖𝐖-A,𝐖D^T𝐖D𝐖=2I𝐖+S
+\Delta𝐖
 X
 S
-\{0, 1, -1\}
+\{0,𝐖1,𝐖𝐖-1\}
 S
 S
 E(X)
@@ -818,47 +818,47 @@ T
 Y
 Z
 Y
-V(Y) \times \{0, 1\}
-(u, i)
-(v, j)
-u \sim v
-i =j, T_{u, v} =1
-i \not= j, T_{u, v} = -1.
-(u, i)
-(u, 1 -i)
+V(Y)𝐖\times𝐖\{0,𝐖1\}
+(u,𝐖i)
+(v,𝐖j)
+u𝐖\sim𝐖v
+i𝐖=j,𝐖T_{u,𝐖v}𝐖𝐖=1
+i𝐖\not=𝐖j,𝐖T_{u,𝐖v}𝐖𝐖=𝐖-1.
+(u,𝐖i)
+(u,𝐖1𝐖-i)
 Z
 Z
 A(Y)
-0 \to \begin{pmatrix} 0 & 0 \\ 0 & 0 \end{pmatrix}, 1 \to \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix} -1 \to \begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix} .
-\{(u, 0), (u, 1)\}
+0𝐖\to𝐖𝐖\begin{pmatrix}𝐖0𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖\end{pmatrix}𝐖,𝐖1𝐖\to𝐖𝐖\begin{pmatrix}𝐖1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖1𝐖\end{pmatrix}𝐖𝐖-1𝐖\to𝐖𝐖\begin{pmatrix}𝐖0𝐖&𝐖1𝐖\\𝐖1𝐖&𝐖0𝐖\end{pmatrix}𝐖𝐖.
+\{(u,𝐖0),𝐖(u,𝐖1)\}
 Y
-\phi (Z, t) =\phi (T, t)\phi (Y, t) .
-| S| =A(Y)
+\phi𝐖(Z,𝐖t)𝐖=\phi𝐖(T,𝐖t)\phi𝐖(Y,𝐖t)𝐖.
+|𝐖S|𝐖=A(Y)
 A
 B
 01
-A \circ B =0
-A -B
-\begin{pmatrix} A & B \\ B & A \end{pmatrix}
-\frac{1}{2} \begin{pmatrix} I & I \\ I & -I \end{pmatrix} \begin{pmatrix} A & B \\ B & A \end{pmatrix} \begin{pmatrix} I & I \\ I & -I \end{pmatrix} = \begin{pmatrix} A +B & 0 \\ 0 & A -B \end{pmatrix} .
-(u, v)
-\{u, v\}
+A𝐖\circ𝐖B𝐖=0
+A𝐖-B
+𝐖\begin{pmatrix}𝐖A𝐖&𝐖B𝐖\\𝐖B𝐖&𝐖A𝐖\end{pmatrix}𝐖
+\frac{1}{2}𝐖\begin{pmatrix}𝐖I𝐖&𝐖I𝐖\\𝐖I𝐖&𝐖𝐖-I𝐖\end{pmatrix}𝐖𝐖\begin{pmatrix}𝐖A𝐖&𝐖B𝐖\\𝐖B𝐖&𝐖A𝐖\end{pmatrix}𝐖𝐖\begin{pmatrix}𝐖I𝐖&𝐖I𝐖\\𝐖I𝐖&𝐖𝐖-I𝐖\end{pmatrix}𝐖𝐖=𝐖\begin{pmatrix}𝐖A𝐖+B𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖A𝐖-B𝐖\end{pmatrix}𝐖𝐖.
+(u,𝐖v)
+\{u,𝐖v\}
 X
 S
 A(L(X))
--1
-((u, v), i)
-(u, v)
-(u, v)
-((u, v), 0)
-(v, u)
-((u, v), 1)
-K_2
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
-\mathbit K_\mathbf 6
-K_6
-K_6
-S(5, 6, 12)
+𝐖-1
+((u,𝐖v),𝐖i)
+(u,𝐖v)
+(u,𝐖v)
+((u,𝐖v),𝐖0)
+(v,𝐖u)
+((u,𝐖v),𝐖1)
+K_2𝐖
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)
+\mathbit𝐖K𝐖_\mathbf𝐖6𝐖𝐖
+K_6𝐖
+K_6𝐖
+S(5,𝐖6,𝐖12)

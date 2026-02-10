@@ -124,7 +124,7 @@ A in M_(m xx n)(CC)
 r
 sigma_1 >= cdots >= sigma_n.
 m xx n
-Sigma = [[D, '\\y01d7ce'], ['\\y01d7ce', '\\y01d7ce']]"\where\ "D = [[sigma_1, \ , 0], [\ , ddots], [0, \ , sigma_r]]
+Sigma = [[D, bb 0], [bb 0, bb 0]]"\where\ "D = [[sigma_1, \ , 0], [\ , ddots], [0, \ , sigma_r]]
 U in M_m(CC)
 V in M_n(CC),
 A = U Sigma V^** .
@@ -146,9 +146,9 @@ CC^m.
 U
 u_i.
 A = U Sigma V^**
-Sigma = [[D, '\\y01d7ce'], ['\\y01d7ce', '\\y01d7ce']]"\and\ "D = [[sigma_1, \ , 0], [\ , ddots], [0, \ , sigma_r]].
-AV = [Av_1\ cdots\ Av_n] = [Av_1\ cdots\ Av_r\ '\\y01d7ce'\ cdots\ '\\y01d7ce'] = [sigma_1 u_1\ cdots\ sigma_r u_r\ '\\y01d7ce'cdots\ '\\y01d7ce']
-U Sigma = [u_1, ...\ u_m] = [[[sigma_1, \ , 0], [\ , ddots], [0, \ , sigma_r], '\\y01d7ce'], ['\\y01d7ce', '\\y01d7ce']] = [sigma_1 u_1\ ...sigma_r u_r\ '\\y01d7ce'\ ...\ '\\y01d7ce']
+Sigma = [[D, bb 0], [bb 0, bb 0]]"\and\ "D = [[sigma_1, \ , 0], [\ , ddots], [0, \ , sigma_r]].
+AV = [Av_1\ cdots\ Av_n] = [Av_1\ cdots\ Av_r\ bb 0\ cdots\ bb 0] = [sigma_1 u_1\ cdots\ sigma_r u_r\ bb 0 cdots\ bb 0]
+U Sigma = [u_1, ...\ u_m] = [[[sigma_1, \ , 0], [\ , ddots], [0, \ , sigma_r], bb 0], [bb 0, bb 0]] = [sigma_1 u_1\ ...sigma_r u_r\ bb 0\ ...\ bb 0]
 AV = U Sigma,
 V
 V^(-1) = V^**
@@ -240,7 +240,7 @@ u_i = 1/(sigma_i) Av_i
 CC^m.
 U = [u_1\ ...\ u_m],
 u_i
-A = U Sigma V^** = U[[[sigma_1, \ , 0], [\ , ddots], [0, \ , sigma_r], '\\y01d7ce'_(r xx(n-r))], ['\\y01d7ce'_((m-r) xx r), '\\y01d7ce'_((m-r) xx(n-r))]]V^** .
+A = U Sigma V^** = U[[[sigma_1, \ , 0], [\ , ddots], [0, \ , sigma_r], bb 0_(r xx(n-r))], [bb 0_((m-r) xx r), bb 0_((m-r) xx(n-r))]]V^** .
 A
 AA^**
 A
@@ -254,9 +254,9 @@ n
 A^**A,
 AA^**
 A^**A,
-A = U Sigma V^** = U[[[sigma_1, \ , 0], [\ , ddots], [0, \ , sigma_r], '\\y01d7ce'_(r xx(n-r))], ['\\y01d7ce'_((m-r) xx r), '\\y01d7ce'_((m-r) xx(n-r))]]V^** ,
+A = U Sigma V^** = U[[[sigma_1, \ , 0], [\ , ddots], [0, \ , sigma_r], bb 0_(r xx(n-r))], [bb 0_((m-r) xx r), bb 0_((m-r) xx(n-r))]]V^** ,
 U, V
-A^** = V Sigma^**U^** = V[[[sigma_1, \ , 0], [\ , ddots], [0, \ , sigma_r], '\\y01d7ce'_(r xx(m-r))], ['\\y01d7ce'_((n-r) xx r), '\\y01d7ce'_((n-r) xx(m-r))]]U^**
+A^** = V Sigma^**U^** = V[[[sigma_1, \ , 0], [\ , ddots], [0, \ , sigma_r], bb 0_(r xx(m-r))], [bb 0_((n-r) xx r), bb 0_((n-r) xx(m-r))]]U^**
 r xx r
 Sigma^**
 Sigma
@@ -358,7 +358,7 @@ m xx n
 A
 r,
 A = U Sigma V^** :
-["(3.6.2)", [ubrace(u_1\ cdots u_r)_("Col"A)\ ubrace(u_(r+1) cdots u_m)_("ker"A^** )][[[sigma_1, \ , 0], [\ , ddots], [0, \ , sigma_r], '\\y01d7ce'], ['\\y01d7ce', '\\y01d7ce']][[v_1^** ], [vdots], [v_r^** ], [v_(r+1)^** ], [vdots], [v_n^** ]][<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>}"Col"A^** ], [<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>}"ker"A]]
+["(3.6.2)", [ubrace(u_1\ cdots u_r)_("Col"A)\ ubrace(u_(r+1) cdots u_m)_("ker"A^** )][[[sigma_1, \ , 0], [\ , ddots], [0, \ , sigma_r], bb 0], [bb 0, bb 0]][[v_1^** ], [vdots], [v_r^** ], [v_(r+1)^** ], [vdots], [v_n^** ]][<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>}"Col"A^** ], [<mo data-mjx-texclass="OPEN" fence="true" stretchy="true" symmetric="true"//>}"ker"A]]
 {u_1, ..., u_m}
 CC^m
 {u_1, ..., u_r}
@@ -763,7 +763,7 @@ A = [[5, 6, 0], [0, 5, 8], [0, 0, 9]].
 chi_A(x) = (x-5)^2(x-9),
 lambda,
 "ker"(A-lambda I_3),
-(A-lambda I_3)x = '\\y01d7ce'.
+(A-lambda I_3)x = bb 0.
 A-9I = [[-4, 6, 0], [0, -4, 8], [0, 0, 0]]overset(RREF)(|->)[[1, 0, -3], [0, 1, -2], [0, 0, 0]],
 E_9(A) = "ker"(A-9I) = "Span"{[[3], [2], [1]]}.
 A-5I = [[0, 6, 0], [0, 0, 8], [0, 0, 4]]overset(RREF)(|->)[[0, 1, 0], [0, 0, 1], [0, 0, 0]],
@@ -994,18 +994,18 @@ v,
 W
 W,
 "proj"_W v = lambda_1 v_1+cdots+lambda_r v_r.
-lambda_1 v_1+cdots+lambda_r v_r = A'\\y01d740'
-'\\y01d740' = [[lambda_1], [vdots], [lambda_r]].
-"proj"_W v = A'\\y01d740'.
-v-"proj"_W v = v-A'\\y01d740'in W^_|_
+lambda_1 v_1+cdots+lambda_r v_r = Abb lambda
+bb lambda = [[lambda_1], [vdots], [lambda_r]].
+"proj"_W v = Abb lambda.
+v-"proj"_W v = v-Abb lambda in W^_|_
 j = 1, ..., r
-'\\x0027e8'v-A'\\y01d740', v_j'\\x0027e9' = v_j^** (v-A'\\y01d740') = 0.
+'\\x0027e8'v-Abb lambda, v_j'\\x0027e9' = v_j^** (v-Abb lambda) = 0.
 r
-A^** (v-A'\\y01d740') = 0"\or equivalently\ "A^**v = A^**A'\\y01d740'.
+A^** (v-Abb lambda) = 0"\or equivalently\ "A^**v = A^**Abb lambda.
 A^**A
-A^**v = A^**A'\\y01d740'
+A^**v = A^**Abb lambda
 A(A^**A)^(-1)
-A(A^**A)^(-1)A^**v = A(A^**A)^(-1)(A^**A)'\\y01d740' = A'\\y01d740' = "proj"_W v,
+A(A^**A)^(-1)A^**v = A(A^**A)^(-1)(A^**A)bb lambda = Abb lambda = "proj"_W v,
 r xx r
 A^**A
 A^**A
@@ -1497,16 +1497,16 @@ A
 AA^**
 A in M_n(F)
 f(x) = a_m x^m+cdots+a_0 in F[x]
-f(A) = a_m A^m+cdots+a_1 A+a_0 I_n = '\\y01d7ce',
+f(A) = a_m A^m+cdots+a_1 A+a_0 I_n = bb 0,
 M_n(F)
 n^2,
 {I_n, A, A^2, ..., A^(n^2)}
 a_0, a_1, ..., a_(n^2) in F,
-a_(n^2)A^(n^2)+cdots+a_1 A+a_0 I_n = '\\y01d7ce',
+a_(n^2)A^(n^2)+cdots+a_1 A+a_0 I_n = bb 0,
 f(x) = a_(n^2)x^(n^2)+cdots+a_0
 A.
 A in M_n(F),
-J = {f in F[x]'\\x002223'f(A) = '\\y01d7ce'}.
+J = {f in F[x]'\\x002223'f(A) = bb 0}.
 J
 F[x],
 F
@@ -1521,12 +1521,12 @@ mu_A.
 mu_A
 A.
 f, g in J,
-f(A) = g(A) = '\\y01d7ce',
+f(A) = g(A) = bb 0,
 h(A) = 0,
 h
 f
 g.
-f(A) = '\\y01d7ce',
+f(A) = bb 0,
 mu_A
 f,
 f,
@@ -1554,7 +1554,7 @@ I_n, A, A^2, ..., A^(n^2)
 A.
 A in M_n(F),
 chi_A(x) = det(xI_n-A)
-chi_A(A) = '\\y01d7ce',
+chi_A(A) = bb 0,
 chi_A
 n
 A.
@@ -2250,7 +2250,7 @@ m xx n
 A,
 U, V
 UAV
-UAV = [[I_r, '\\y01d7ce'], ['\\y01d7ce', '\\y01d7ce']].
+UAV = [[I_r, bb 0], [bb 0, bb 0]].
 I_r
 r xx r
 r = "rank"(A),
@@ -2870,22 +2870,22 @@ f^(-1)(y)
 y in Y,
 f^(-1)(y)
 T:V -> W,
-'\\y01d7ce'_W
+bb 0_W
 W
 T
-"ker"(T) = "Null"(T) = T^(-1)('\\y01d7ce'_W) = {v in V'\\x002223'T(v) = '\\y01d7ce'_W}.
-T('\\y01d7ce'_V) = '\\y01d7ce'_W,
-'\\y01d7ce'_V in "ker"(T),
+"ker"(T) = "Null"(T) = T^(-1)(bb 0_W) = {v in V'\\x002223'T(v) = bb 0_W}.
+T(bb 0_V) = bb 0_W,
+bb 0_V in "ker"(T),
 V.
 T,
 T(v) = T(v')
-T(v-v') = '\\y01d7ce'_W,
-'\\y01d7ce',
+T(v-v') = bb 0_W,
+bb 0,
 T:V -> W
-"ker"(T) = {'\\y01d7ce'}.
+"ker"(T) = {bb 0}.
 T^(-1)(w)
 w in W
-w = '\\y01d7ce'.
+w = bb 0.
 T(v_0) = w.
 T(v) = w
 v = v_0+k,
@@ -2903,22 +2903,22 @@ W.
 T
 {T(v_1), ..., T(v_n)}
 a_1, ..., a_n
-a_1 T(v_1)+cdots+a_n T(v_n) = '\\y01d7ce'.
-T(a_1 v_1+cdots+a_n v_n) = a_1 T(v_1)+cdots+a_r T(v_r) = '\\y01d7ce',
+a_1 T(v_1)+cdots+a_n T(v_n) = bb 0.
+T(a_1 v_1+cdots+a_n v_n) = a_1 T(v_1)+cdots+a_r T(v_r) = bb 0,
 (a_1 v_1+cdots+a_n v_n) in "ker"(T).
 '\\x00212c' = {v_1, ..., v_n}
 a_i
-"ker"(T) != {'\\y01d7ce'}
+"ker"(T) != {bb 0}
 T
 {T(v_1), ..., T(v_n)}
 W,
 T
-"ker"(T) != {'\\y01d7ce'},
+"ker"(T) != {bb 0},
 {v_1, ..., v_n}
 V,
 a_1, ..., a_n
 a_1 v_1+cdots+a_n v_n in "ker"(T).
-'\\y01d7ce' = T(a_1 v_1+cdots+a_n v_n) = a_1 T(v_1)+cdots+a_n T(v_n),
+bb 0 = T(a_1 v_1+cdots+a_n v_n) = a_1 T(v_1)+cdots+a_n T(v_n),
 {T(v_1), ..., T(v_n)}
 {T(v_1), ..., T(v_n)}
 W.
@@ -3072,13 +3072,13 @@ S
 V
 {v_1, ..., v_r} sube S,
 a_1, ..., a_r
-a_1 v_1+cdots+a_r v_r = '\\y01d7ce'.
+a_1 v_1+cdots+a_r v_r = bb 0.
 S sube V
 V
 S
 V
 {v_1, ..., v_r} sube S,
-a_1 v_1+cdots+a_r v_r = '\\y01d7ce'
+a_1 v_1+cdots+a_r v_r = bb 0
 a_i = 0.
 V
 W
@@ -3107,7 +3107,7 @@ T
 Ax = 0.
 T:V -> W
 T
-"ker"(T) = {v in V'\\x002223'T(v) = '\\y01d7ce'_W}.
+"ker"(T) = {v in V'\\x002223'T(v) = bb 0_W}.
 T:F^n -> F^m
 T(x) = Ax
 m xx n
@@ -3195,11 +3195,11 @@ lambda, mu in F
 u+v in V
 u+v = v+u
 (u+v)+w = u+(v+w)
-'\\y01d7ce'in V
-'\\y01d7ce'+u = u.
+bb 0 in V
+bb 0+u = u.
 u in V,
 -u in V
-u+-u = '\\y01d7ce'.
+u+-u = bb 0.
 lambda u in V.
 lambda(u+v) = lambda u+lambda v
 (lambda+mu)v = lambda v+mu v

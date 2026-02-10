@@ -1257,8 +1257,8 @@ grad grad f(a, b)
 bb d = hat('\\x000237''\\x000237')
 y
 grad grad f(a, b)
-grad grad f(a, b) = '\\y01d7ce'.
-grad grad f(a, b) = '\\y01d7ce'
+grad grad f(a, b) = bb 0.
+grad grad f(a, b) = bb 0
 (a, b)
 f(x, y)
 (x, y)
@@ -1271,7 +1271,7 @@ R
 f
 f
 (a, b).
-grad grad f(a, b) = '\\y01d7ce'.
+grad grad f(a, b) = bb 0.
 f(x, y)
 (a, b)
 grad grad f(a, b)
@@ -2389,7 +2389,7 @@ g(x, y, z)
 RR^3
 S
 g(x, y, z) = 0.
-grad grad g(x, y, z) != '\\y01d7ce'
+grad grad g(x, y, z) != bb 0
 S.
 f,
 S,
@@ -2451,7 +2451,7 @@ f(x, y, z)
 g(x, y, z) = 0,
 f(x, y, z)
 g(x, y, z)
-grad grad g(x, y, z) != '\\y01d7ce',
+grad grad g(x, y, z) != bb 0,
 (x, y, z)
 [f_x(x,y,z), "<mi//>"=lambda g_x(x,y,z)], [f_y(x,y,z), "<mi//>"=lambda g_y(x,y,z)], [f_z(x,y,z), "<mi//>"=lambda g_z(x,y,z)], [g(x,y,z), "<mi//>"=0]
 x,
@@ -2808,7 +2808,7 @@ f(x, y, z)
 (x_0, y_0, z_0)
 f
 S,
-bb d != '\\y01d7ce'.
+bb d != bb 0.
 S,
 bb d
 S
@@ -4216,7 +4216,7 @@ grad grad w(1, 3, 1) = '\\x0027e8'w_x(1, 3, 1), w_y(1, 3, 1), w_z(1, 3, 1)'\\x00
 [D_( ('\\x0027e8'1,0,1'\\x0027e9')/(|'\\x0027e8'1,0,1'\\x0027e9'|) )w(1,3,1), "<mi//>"=grad grad w(1,3,1)* ('\\x0027e8'1,0,1'\\x0027e9')/(|'\\x0027e8'1,0,1'\\x0027e9'|) ='\\x0027e8'4,1,4'\\x0027e9'* ('\\x0027e8'1,0,1'\\x0027e9')/(sqrt(2)) ], [\ , "<mi//>"=8/(sqrt(2)) =4sqrt(2)]
 w
 (1, 3, 1)
-bb t != '\\y01d7ce'
+bb t != bb 0
 0 = D_(bb t/(|bb t|) )w(1, 3, 1) = grad grad w(1, 3, 1)*bb t/(|bb t|) = '\\x0027e8'4, 1, 4'\\x0027e9'*bb t/(|bb t|)
 bb t
 '\\x0027e8'4, 1, 4'\\x0027e9'.
@@ -5712,7 +5712,7 @@ bb a*bb c
 bb a*(bb b-bb c) = 0.
 bb a
 bb b-bb c
-'\\y01d7ce'
+bb 0
 bb a = '\\x0027e8'1, 0, 0'\\x0027e9',
 bb b = '\\x0027e8'0, 1, 0'\\x0027e9', \ bb c = '\\x0027e8'0, 0, 1'\\x0027e9',
 bb b-bb c = '\\x0027e8'0, 1, -1'\\x0027e9'
@@ -5720,8 +5720,8 @@ bb a
 bb a*bb b = bb a*bb c.
 bb b
 bb c
-bb b xx bb c = '\\y01d7ce'
-bb a xx(bb b xx bb c) = '\\y01d7ce' = 0bb b+0bb c,
+bb b xx bb c = bb 0
+bb a xx(bb b xx bb c) = bb 0 = 0bb b+0bb c,
 bb b
 bb c
 alpha
@@ -5741,7 +5741,7 @@ bb d,
 P.
 bb b
 bb c
-bb b xx bb c = '\\y01d7ce'
+bb b xx bb c = bb 0
 bb a*(bb b xx bb c) = 0
 bb a.
 bb b
@@ -5907,13 +5907,13 @@ L(t)
 t.
 bb a
 bb b
-'\\y01d7ce', \ bb a, \ bb b
+bb 0, \ bb a, \ bb b
 bb a+bb b.
 t
 0
 1,
 t(bb a+bb b)
-'\\y01d7ce'
+bb 0
 bb a+bb b.
 s
 0
@@ -6708,22 +6708,22 @@ Z
 [L_1:\ '\\x0027e8'x,y,z-1'\\x0027e9', "<mi//>"=t'\\x0027e8'1,0,0'\\x0027e9', L_2:\ '\\x0027e8'x,y,z-2'\\x0027e9', "<mi//>"=t'\\x0027e8'0,1,0'\\x0027e9'], [L_3:\ '\\x0027e8'x,y,z-3'\\x0027e9', "<mi//>"=t'\\x0027e8'1,1,0'\\x0027e9', L_4:\ '\\x0027e8'x,y,z-4'\\x0027e9', "<mi//>"=t'\\x0027e8'1,-1,0'\\x0027e9']
 L_1
 L_2
-'\\x0027e8'1, 0, 0'\\x0027e9'xx'\\x0027e8'0, 1, 0'\\x0027e9' = '\\x0027e8'0, 0, 1'\\x0027e9' != '\\y01d7ce'.
+'\\x0027e8'1, 0, 0'\\x0027e9'xx'\\x0027e8'0, 1, 0'\\x0027e9' = '\\x0027e8'0, 0, 1'\\x0027e9' != bb 0.
 L_1
 L_3
-'\\x0027e8'1, 0, 0'\\x0027e9'xx'\\x0027e8'1, 1, 0'\\x0027e9' = '\\x0027e8'0, 0, 1'\\x0027e9' != '\\y01d7ce'.
+'\\x0027e8'1, 0, 0'\\x0027e9'xx'\\x0027e8'1, 1, 0'\\x0027e9' = '\\x0027e8'0, 0, 1'\\x0027e9' != bb 0.
 L_1
 L_4
-'\\x0027e8'1, 0, 0'\\x0027e9'xx'\\x0027e8'1, -1, 0'\\x0027e9' = '\\x0027e8'0, 0, -1'\\x0027e9' != '\\y01d7ce'.
+'\\x0027e8'1, 0, 0'\\x0027e9'xx'\\x0027e8'1, -1, 0'\\x0027e9' = '\\x0027e8'0, 0, -1'\\x0027e9' != bb 0.
 L_2
 L_3
-'\\x0027e8'0, 1, 0'\\x0027e9'xx'\\x0027e8'1, 1, 0'\\x0027e9' = '\\x0027e8'0, 0, -1'\\x0027e9' != '\\y01d7ce'.
+'\\x0027e8'0, 1, 0'\\x0027e9'xx'\\x0027e8'1, 1, 0'\\x0027e9' = '\\x0027e8'0, 0, -1'\\x0027e9' != bb 0.
 L_2
 L_4
-'\\x0027e8'0, 1, 0'\\x0027e9'xx'\\x0027e8'1, -1, 0'\\x0027e9' = '\\x0027e8'0, 0, -1'\\x0027e9' != '\\y01d7ce'.
+'\\x0027e8'0, 1, 0'\\x0027e9'xx'\\x0027e8'1, -1, 0'\\x0027e9' = '\\x0027e8'0, 0, -1'\\x0027e9' != bb 0.
 L_3
 L_4
-'\\x0027e8'1, 1, 0'\\x0027e9'xx'\\x0027e8'1, -1, 0'\\x0027e9' = '\\x0027e8'0, 0, -2'\\x0027e9' != '\\y01d7ce'.
+'\\x0027e8'1, 1, 0'\\x0027e9'xx'\\x0027e8'1, -1, 0'\\x0027e9' = '\\x0027e8'0, 0, -2'\\x0027e9' != bb 0.
 L_1
 z = 1
 L_2
@@ -7213,7 +7213,7 @@ t
 bb r(t+h)-bb r(t)
 s(t+h)-s(t).
 [d/dt[(bb r xx bb r')*bb r''], "<mi//>"=(bb r'xx bb r')*bb r''+(bb r xx bb r'')*bb r''+(bb r xx bb r')*bb r''']
-bb r'xx bb r' = '\\y01d7ce'.
+bb r'xx bb r' = bb 0.
 bb r xx bb r''
 bb r''.
 d/dt[(bb r xx bb r')*bb r''] = (bb r xx bb r')*bb r'''
@@ -7341,7 +7341,7 @@ bb c = (pi^2)/2 hat('\\x000131''\\x000131')+hat('\\x000237''\\x000237')-hat bb k
 [bb r(t)=( (pi^2 t)/2- (t^3)/2) hat('\\x000131''\\x000131')+(t-sin t) hat('\\x000237''\\x000237')+(1/2 e^(2t)-t) hat bb k+bb c]
 bb c.
 bb r(0) = bb r_0 = 1/2 hat bb k.
-bb c = '\\y01d7ce'
+bb c = bb 0
 [bb r(t)=( (pi^2 t)/2- (t^3)/2) hat('\\x000131''\\x000131')+(t-sin t) hat('\\x000237''\\x000237')+(1/2 e^(2t)-t) hat bb k]
 x = 0
 [0=( (pi^2 t)/2- (t^3)/2)=t/2(pi^2-t^2)'\\x0027fa't=0,+-pi]
@@ -11363,14 +11363,14 @@ x = +-1.
 f
 2.
 (x_0, y_0, z_0)
-bb d != '\\y01d7ce',
+bb d != bb 0,
 f
 f
 S
 (x_0, y_0, z_0).
 ["(E1)", D_(bb d//|bb d|)f(x_0,y_0,z_0)=grad grad f(x_0,y_0,z_0)*bb d/(|bb d|) <=0]
 (x_0, y_0, z_0)
--bb d != '\\y01d7ce',
+-bb d != bb 0,
 f
 f
 S
@@ -17992,7 +17992,7 @@ x^2+y^2+(z+1)^2 = 1
 (0, 0, 0)?
 bb r_0 = (x_0, y_0, z_0)
 G(x, y, z) = 0.
-grad grad G(x_0, y_0, z_0) != '\\y01d7ce'.
+grad grad G(x_0, y_0, z_0) != bb 0.
 bb r(t) = (x(t), y(t), z(t))
 bb r(t_0) = bb r_0.
 bb r_0
@@ -19994,7 +19994,7 @@ z
 x = y = 0.
 '\\x0027e8'x-x_0, y-y_0, z-z_0'\\x0027e9' = tbb d
 '\\x0027e8'x-x_0^' , y-y_0^' , z-z_0^' '\\x0027e9' = tbb d'
-bb d xx bb d' != '\\y01d7ce'.
+bb d xx bb d' != bb 0.
 A,
 B,
 C
@@ -21841,7 +21841,7 @@ s = -1
 -bb a.
 -'\\x0027e8'a_1, a_2'\\x0027e9' = '\\x0027e8'-a_1, -a_2'\\x0027e9'
 bb a+(-bb a)
-'\\y01d7ce',
+bb 0,
 bb b
 bb a
 -bb b
@@ -21860,7 +21860,7 @@ bb b
 bb c
 s
 t
-[\ , "<mi//>"(1)\ , \ , bb a+bb b=bb b+bb a\ , \ , "<mi//>"(2)\ , \ , bb a+(bb b+bb c)=(bb a+bb b)+bb c], [\ , "<mi//>"(3), \ , bb a+'\\y01d7ce'=bb a, \ , "<mi//>"(4), \ , bb a+(-bb a)='\\y01d7ce'], [\ , "<mi//>"(5), \ , s(bb a+bb b)=sbb a+sbb b, \ , "<mi//>"(6), \ , "<mi//>"(s+t)bb a=sbb a+tbb a], [\ , "<mi//>"(7), \ , "<mi//>"(st)bb a=s(tbb a), \ , "<mi//>"(8), \ , 1bb a=bb a]
+[\ , "<mi//>"(1)\ , \ , bb a+bb b=bb b+bb a\ , \ , "<mi//>"(2)\ , \ , bb a+(bb b+bb c)=(bb a+bb b)+bb c], [\ , "<mi//>"(3), \ , bb a+bb 0=bb a, \ , "<mi//>"(4), \ , bb a+(-bb a)=bb 0], [\ , "<mi//>"(5), \ , s(bb a+bb b)=sbb a+sbb b, \ , "<mi//>"(6), \ , "<mi//>"(s+t)bb a=sbb a+tbb a], [\ , "<mi//>"(7), \ , "<mi//>"(st)bb a=s(tbb a), \ , "<mi//>"(8), \ , 1bb a=bb a]
 bb a = '\\x0027e8'1, 2, 3'\\x0027e9'\ bb b = '\\x0027e8'3, 2, 1'\\x0027e9'\ bb c = '\\x0027e8'1, 0, 1'\\x0027e9'
 [2bb a, "<mi//>"=2'\\x0027e8'1,2,3'\\x0027e9', \ , "<mi//>"='\\x0027e8'2,4,6'\\x0027e9'], [-bb b, "<mi//>"=-'\\x0027e8'3,2,1'\\x0027e9', \ , "<mi//>"='\\x0027e8'-3,-2,-1'\\x0027e9'], [3bb c, "<mi//>"=3'\\x0027e8'1,0,1'\\x0027e9', \ , "<mi//>"='\\x0027e8'3,0,3'\\x0027e9']
 [2bb a-bb b+3bb c, "<mi//>"='\\x0027e8'2,4,6'\\x0027e9'+'\\x0027e8'-3,-2,-1'\\x0027e9'+'\\x0027e8'3,0,3'\\x0027e9'], [\ , "<mi//>"='\\x0027e8'2-3+3,4-2+0,6-1+3'\\x0027e9'], [\ , "<mi//>"='\\x0027e8'2,2,8'\\x0027e9']
@@ -21870,7 +21870,7 @@ bb b
 s
 \ bb a = sbb b\
 s > 0.
-'\\y01d7ce'.
+bb 0.
 hat('\\x000131''\\x000131') = '\\x0027e8'1, 0'\\x0027e9'\ hat('\\x000237''\\x000237') = '\\x0027e8'0, 1'\\x0027e9'
 hat('\\x000131''\\x000131') = '\\x0027e8'1, 0, 0'\\x0027e9'\ hat('\\x000237''\\x000237') = '\\x0027e8'0, 1, 0'\\x0027e9'\ hat bb k = '\\x0027e8'0, 0, 1'\\x0027e9'
 hat('\\x000131''\\x000131'),
@@ -21952,7 +21952,7 @@ bb a,
 bb b
 bb c
 s
-[\ , "<mi//>"(0)\ , \ , bb a,bb b "\are vectors and\ "bb a*bb b "\is a scalar"], [\ , "<mi//>"(1), \ , bb a*bb a=|bb a|^2], [\ , "<mi//>"(2), \ , bb a*bb b=bb b*bb a], [\ , "<mi//>"(3), \ , bb a*(bb b+bb c)=bb a*bb b+bb a*bb c,\ (bb a+bb b)*bb c=bb a*bb c+bb b*bb c], [\ , "<mi//>"(4), \ , "<mi//>"(sbb a)*bb b=s(bb a*bb b)], [\ , "<mi//>"(5), \ , '\\y01d7ce'*bb a=0], [\ , "<mi//>"(6), \ , bb a*bb b=|bb a||bb b|cos theta "\where\ " theta "\is the angle between\ "bb a "\and\ "bb b], [\ , "<mi//>"(7), \ , bb a*bb b=0'\\x0027fa'bb a='\\y01d7ce'"\or\ "bb b='\\y01d7ce'"\or\ "bb a_|_bb b]
+[\ , "<mi//>"(0)\ , \ , bb a,bb b "\are vectors and\ "bb a*bb b "\is a scalar"], [\ , "<mi//>"(1), \ , bb a*bb a=|bb a|^2], [\ , "<mi//>"(2), \ , bb a*bb b=bb b*bb a], [\ , "<mi//>"(3), \ , bb a*(bb b+bb c)=bb a*bb b+bb a*bb c,\ (bb a+bb b)*bb c=bb a*bb c+bb b*bb c], [\ , "<mi//>"(4), \ , "<mi//>"(sbb a)*bb b=s(bb a*bb b)], [\ , "<mi//>"(5), \ , bb 0*bb a=0], [\ , "<mi//>"(6), \ , bb a*bb b=|bb a||bb b|cos theta "\where\ " theta "\is the angle between\ "bb a "\and\ "bb b], [\ , "<mi//>"(7), \ , bb a*bb b=0'\\x0027fa'bb a=bb 0"\or\ "bb b=bb 0"\or\ "bb a_|_bb b]
 [bb a*(bb b+bb c), "<mi//>"='\\x0027e8'a_1,a_2'\\x0027e9'*'\\x0027e8'b_1+c_1,b_2+c_2'\\x0027e9'], [\ , "<mi//>"=a_1(b_1+c_1)+a_2(b_2+c_2)=a_1 b_1+a_1 c_1+a_2 b_2+a_2 c_2], [bb a*bb b+bb a*bb c, "<mi//>"='\\x0027e8'a_1,a_2'\\x0027e9'*'\\x0027e8'b_1,b_2'\\x0027e9'+'\\x0027e8'a_1,a_2'\\x0027e9'*'\\x0027e8'c_1,c_2'\\x0027e9'], [\ , "<mi//>"=a_1 b_1+a_2 b_2+a_1 c_1+a_2 c_2]
 |bb a-bb b|^2
 |bb a-bb b|^2
@@ -21981,8 +21981,8 @@ theta = pi/2,
 [bb a*bb b=|bb a||bb b|cos theta]
 bb a*bb b = |bb a||bb b|cos theta
 |bb a|, \ |bb b|, \ cos theta
-bb a = '\\y01d7ce'.
-bb b = '\\y01d7ce'.
+bb a = bb 0.
+bb b = bb 0.
 theta = +-pi/2+2k pi,
 k,
 bb a
@@ -22029,7 +22029,7 @@ bb b//|bb b|.
 -bb b//|bb b|.
 ["proj"_bb b bb a=- (bb a*bb b)/(|bb b|) \ (-bb b)/(|bb b|) = (bb a*bb b)/(|bb b|^2) \ bb b]
 "proj"_bb b bb a = (bb a*bb b)/(|bb b|^2) bb b
-bb b != '\\y01d7ce'.
+bb b != bb 0.
 "proj"_bb b bb a = (bb a*bb b)/(|bb b|) bb b/(|bb b|) .
 (bb a*bb b)/(|bb b|) ,
 bb b/(|bb b|) ,
@@ -22240,7 +22240,7 @@ bb a
 bb b.
 bb a = '\\x0027e8'3, 2, 1'\\x0027e9'
 bb b = '\\x0027e8'6, 4, 2'\\x0027e9'.
-'\\y01d7ce'.
+bb 0.
 bb a
 bb b = 2bb a
 bb a xx bb b,
@@ -22299,10 +22299,10 @@ hat('\\x000131''\\x000131')
 bb a xx bb b = alpha gamma hat bb k
 z
 bb a*bb b
-bb a = '\\y01d7ce'
-bb b = '\\y01d7ce'
+bb a = bb 0
+bb b = bb 0
 bb a_|_bb b
-bb a xx bb b = '\\y01d7ce''\\x0027fa'bb a = '\\y01d7ce'"\or\ "bb b = '\\y01d7ce'"\or\ "bb a'\\x002225'bb b.
+bb a xx bb b = bb 0'\\x0027fa'bb a = bb 0"\or\ "bb b = bb 0"\or\ "bb a'\\x002225'bb b.
 bb a, bb b
 bb a xx bb b
 bb a xx bb b
@@ -22315,7 +22315,7 @@ theta
 bb a, bb b,
 |hat bb n| = 1, \ hat bb n_|_bb a, bb b,
 (bb a, bb b, hat bb n)
-bb a xx bb b = '\\y01d7ce''\\x0027fa'bb a = '\\y01d7ce'"\or\ "bb b = '\\y01d7ce'"\or\ "bb a'\\x002225'bb b.
+bb a xx bb b = bb 0'\\x0027fa'bb a = bb 0"\or\ "bb b = bb 0"\or\ "bb a'\\x002225'bb b.
 bb a xx bb b = -bb b xx bb a
 (sbb a) xx bb b = bb a xx(sbb b) = s(bb a xx bb b)
 s.
@@ -22328,7 +22328,7 @@ bb a,
 bb b,
 bb c,
 [bb a xx bb b, "<mi//>"!=bb b xx bb a], [bb a xx(bb b xx bb c), "<mi//>"!=(bb a xx bb b) xx bb c]
-[hat('\\x000131''\\x000131') xx(hat('\\x000131''\\x000131') xx hat('\\x000237''\\x000237')), "<mi//>"=hat('\\x000131''\\x000131') xx hat bb k=-hat bb k xx hat('\\x000131''\\x000131')=-hat('\\x000237''\\x000237')], [(hat('\\x000131''\\x000131') xx hat('\\x000131''\\x000131')) xx hat('\\x000237''\\x000237'), "<mi//>"='\\y01d7ce'xx hat('\\x000237''\\x000237')='\\y01d7ce']
+[hat('\\x000131''\\x000131') xx(hat('\\x000131''\\x000131') xx hat('\\x000237''\\x000237')), "<mi//>"=hat('\\x000131''\\x000131') xx hat bb k=-hat bb k xx hat('\\x000131''\\x000131')=-hat('\\x000237''\\x000237')], [(hat('\\x000131''\\x000131') xx hat('\\x000131''\\x000131')) xx hat('\\x000237''\\x000237'), "<mi//>"=bb 0 xx hat('\\x000237''\\x000237')=bb 0]
 bb a = '\\x0027e8'a_1, a_2, a_3'\\x0027e9',
 bb b = '\\x0027e8'b_1, b_2, b_3'\\x0027e9',
 bb c = '\\x0027e8'c_1, c_2, c_3'\\x0027e9'
@@ -22374,14 +22374,14 @@ z
 |bb a*(bb b xx bb c)| = |'\\x0027e8'0, 1, 2'\\x0027e9'*'\\x0027e8'0, 0, 1'\\x0027e9'| = 2
 bb a*(bb b xx bb c) = (bb a xx bb b)*bb c
 bb a xx(bb b xx bb c) = (bb c*bb a)bb b-(bb b*bb a)bb c
-bb a xx(bb b xx bb c)+bb b xx(bb c xx bb a)+bb c xx(bb a xx bb b) = '\\y01d7ce'
+bb a xx(bb b xx bb c)+bb b xx(bb c xx bb a)+bb c xx(bb a xx bb b) = bb 0
 [bb a*bb b xx bb c, "<mi//>"=(a_1,a_2,a_3)*det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [b_1, b_2, b_3], [c_1, c_2, c_3]]], [\ , "<mi//>"=a_1 det[[b_2, b_3], [c_2, c_3]]-a_2 det[[b_1, b_3], [c_1, c_3]]+a_3 det[[b_1, b_2], [c_1, c_2]]], [\ , "<mi//>"=det[[a_1, a_2, a_3], [b_1, b_2, b_3], [c_1, c_2, c_3]]], [bb a xx bb b*bb c, "<mi//>"=det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [a_1, a_2, a_3], [b_1, b_2, b_3]]*(c_1,c_2,c_3)], [\ , "<mi//>"=c_1 det[[a_2, a_3], [b_2, b_3]]-c_2 det[[a_1, a_3 b_1, b_3]]+c_3 det[[a_1, a_2], [b_1, b_2]]], [\ , "<mi//>"=det[[c_1, c_2, c_3], [a_1, a_2, a_3], [b_1, b_2, b_3]]]
 3 xx 3
 3 xx 3
 bb b xx bb c\ = \ (b_2 c_3-b_3 c_2) hat('\\x000131''\\x000131')-(b_1 c_3-b_3 c_1) hat('\\x000237''\\x000237')+(b_1 c_2-b_2 c_1) hat bb k
 [bb a xx(bb b xx bb c)=-, det[[hat('\\x000131''\\x000131'), hat('\\x000237''\\x000237'), hat bb k], [a_1, a_2, a_3], [b_2 c_3-b_3 c_2, -b_1 c_3+b_3 c_1, b_1 c_2-b_2 c_1]]], [=-, hat('\\x000131''\\x000131')[a_2(b_1 c_2-b_2 c_1)-a_3(-b_1 c_3+b_3 c_1)]], [-, hat('\\x000237''\\x000237')[a_1(b_1 c_2-b_2 c_1)-a_3(b_2 c_3-b_3 c_2)]], [+, hat bb k[a_1(-b_1 c_3+b_3 c_1)-a_2(b_2 c_3-b_3 c_2)]]
 [(bb a*bb c)bb b-(bb a*bb b)bb c, "<mi//>"=(a_1 c_1+a_2 c_2+a_3 c_3)(b_1 hat('\\x000131''\\x000131')+b_2 hat('\\x000237''\\x000237')+b_3 hat bb k)], [\ , "<mi//>"\ -(a_1 b_1+a_2 b_2+a_3 b_3)(c_1 hat('\\x000131''\\x000131')+c_2 hat('\\x000237''\\x000237')+c_3 hat bb k)], [\ , "<mi//>"=-hat('\\x000131''\\x000131')\ [a_1 b_1 c_1+a_2 b_1 c_2+a_3 b_1 c_3-a_1 b_1 c_1-a_2 b_2 c_1-a_3 b_3 c_1]], [\ , "<mi//>"=+hat('\\x000237''\\x000237')\ [a_1 b_2 c_1+a_2 b_2 c_2+a_3 b_2 c_3-a_1 b_1 c_2-a_2 b_2 c_2-a_3 b_3 c_2]], [\ , "<mi//>"=+hat bb k\ [a_1 b_3 c_1+a_2 b_3 c_2+a_3 b_3 c_3-a_1 b_1 c_3-a_2 b_2 c_3-a_3 b_3 c_3]], [\ , "<mi//>"=-hat('\\x000131''\\x000131')\ [a_2 b_1 c_2+a_3 b_1 c_3-a_2 b_2 c_1-a_3 b_3 c_1]], [\ , "<mi//>"=+hat('\\x000237''\\x000237')\ [a_1 b_2 c_1+a_3 b_2 c_3-a_1 b_1 c_2-a_3 b_3 c_2]], [\ , "<mi//>"=+hat bb k\ [a_1 b_3 c_1+a_2 b_3 c_2-a_1 b_1 c_3-a_2 b_2 c_3]]
-[\ , bb a xx(bb b xx bb c)+bb b xx(bb c xx bb a)+bb c xx(bb a xx bb b)], [\ , "<mi//>"=(bb c*bb a)bb b-(bb b*bb a)bb c+(bb a*bb b)bb c-(bb c*bb b)bb a+(bb b*bb c)bb a-(bb a*bb c)bb b], [\ , "<mi//>"='\\y01d7ce']
+[\ , bb a xx(bb b xx bb c)+bb b xx(bb c xx bb a)+bb c xx(bb a xx bb b)], [\ , "<mi//>"=(bb c*bb a)bb b-(bb b*bb a)bb c+(bb a*bb b)bb c-(bb c*bb b)bb a+(bb b*bb c)bb a-(bb a*bb c)bb b], [\ , "<mi//>"=bb 0]
 Omega
 hat bb a.
 P
@@ -22414,14 +22414,14 @@ bb v_|_ hat bb a, bb r
 (hat bb a, bb r, bb v)
 bb v
 Omega hat bb a xx bb r.
-'\\y01d6c0' = Omega hat bb a.
+bb Omega = Omega hat bb a.
 P
-[bb v='\\y01d6c0'xx bb r]
+[bb v=bb Omega xx bb r]
 (X(t), Y(t), Z(t)).
 (x(t), y(t), z(t)).
 Z
 Omega
-'\\y01d6c0' = Omega hat bb k,
+bb Omega = Omega hat bb k,
 x
 y
 x
@@ -22457,33 +22457,33 @@ Omega t,
 [hat('\\x000131''\\x000131')(t), "<mi//>"=(cos(Omega t),sin(Omega t),0)], [hat('\\x000237''\\x000237')(t), "<mi//>"=(-sin(Omega t),cos(Omega t),0)], [hat bb k(t), "<mi//>"=(0,0,1)]
 [bb R(t), "<mi//>"=x(t) hat('\\x000131''\\x000131')(t)+y(t) hat('\\x000237''\\x000237')(t)+z(t) hat bb k(t)]
 [bb V(t)= (dbb R)/dt, "<mi//>"=+dx/dt(t)\ hat('\\x000131''\\x000131')(t)+dy/dt(t)\ hat('\\x000237''\\x000237')(t)+dz/dt(t)\ hat bb k(t)], [\ , "<mi//>"=+x(t) d/dt hat('\\x000131''\\x000131')(t)+y(t) d/dt hat('\\x000237''\\x000237')(t)+z(t) d/dt hat bb k(t)]
-[d/dt hat('\\x000131''\\x000131')(t)='\\y01d6c0'xx hat('\\x000131''\\x000131')(t)\ d/dt hat('\\x000237''\\x000237')(t)='\\y01d6c0'xx hat('\\x000237''\\x000237')(t)\ d/dt hat bb k(t)='\\y01d6c0'xx hat bb k(t)]
-'\\y01d6c0' = (0, 0, Omega)
-[bb V(t), "<mi//>"=(dx/dt(t)\ hat('\\x000131''\\x000131')(t)+dy/dt(t)\ hat('\\x000237''\\x000237')(t)+dz/dt(t)\ hat bb k(t))], [\ , "<mi//>"\ +'\\y01d6c0'xx(x(t)\ hat('\\x000131''\\x000131')(t)+y(t)\ hat('\\x000237''\\x000237')(t)+z(t)\ hat bb k(t))]
+[d/dt hat('\\x000131''\\x000131')(t)=bb Omega xx hat('\\x000131''\\x000131')(t)\ d/dt hat('\\x000237''\\x000237')(t)=bb Omega xx hat('\\x000237''\\x000237')(t)\ d/dt hat bb k(t)=bb Omega xx hat bb k(t)]
+bb Omega = (0, 0, Omega)
+[bb V(t), "<mi//>"=(dx/dt(t)\ hat('\\x000131''\\x000131')(t)+dy/dt(t)\ hat('\\x000237''\\x000237')(t)+dz/dt(t)\ hat bb k(t))], [\ , "<mi//>"\ +bb Omega xx(x(t)\ hat('\\x000131''\\x000131')(t)+y(t)\ hat('\\x000237''\\x000237')(t)+z(t)\ hat bb k(t))]
 bb F/m,
 bb F
 m
-[bb F/m=bb A(t)=, "<mi//>"( (d^2 x)/(dt^2) (t)\ hat('\\x000131''\\x000131')(t)+ (d^2 y)/(dt^2) (t)\ hat('\\x000237''\\x000237')(t)+ (d^2 z)/(dt^2) (t)\ hat bb k(t))], [\ , "<mi//>"+2'\\y01d6c0'xx(dx/dt(t)\ hat('\\x000131''\\x000131')(t)+dy/dt(t)\ hat('\\x000237''\\x000237')(t)+dz/dt(t)\ hat bb k(t))], [\ , "<mi//>"+'\\y01d6c0'xx('\\y01d6c0'xx[x(t)\ hat('\\x000131''\\x000131')(t)+y(t)\ hat('\\x000237''\\x000237')(t)+z(t)\ hat bb k(t)])]
-'\\y01d6c0' = (0, 0, Omega)
+[bb F/m=bb A(t)=, "<mi//>"( (d^2 x)/(dt^2) (t)\ hat('\\x000131''\\x000131')(t)+ (d^2 y)/(dt^2) (t)\ hat('\\x000237''\\x000237')(t)+ (d^2 z)/(dt^2) (t)\ hat bb k(t))], [\ , "<mi//>"+2bb Omega xx(dx/dt(t)\ hat('\\x000131''\\x000131')(t)+dy/dt(t)\ hat('\\x000237''\\x000237')(t)+dz/dt(t)\ hat bb k(t))], [\ , "<mi//>"+bb Omega xx(bb Omega xx[x(t)\ hat('\\x000131''\\x000131')(t)+y(t)\ hat('\\x000237''\\x000237')(t)+z(t)\ hat bb k(t)])]
+bb Omega = (0, 0, Omega)
 hat('\\x000131''\\x000131')(t)
 hat('\\x000131''\\x000131') = (1, 0, 0),
 hat('\\x000237''\\x000237')(t)
 hat('\\x000237''\\x000237') = (0, 1, 0),
 hat bb k(t)
 hat bb k = (0, 0, 1)
-[bb F/m, "<mi//>"=bb a(t)+2'\\y01d6c0'xx bb v(t)+'\\y01d6c0'xx['\\y01d6c0'xx bb r(t)]]
+[bb F/m, "<mi//>"=bb a(t)+2bb Omega xx bb v(t)+bb Omega xx[bb Omega xx bb r(t)]]
 [bb v(t), "<mi//>"=d/dt bb r(t), \ , "<mi//>"=(dx/dt(t), dy/dt(t), dz/dt(t))], [bb a(t), "<mi//>"= (d^2)/(dt^2) bb r(t), \ , "<mi//>"=( (d^2 x)/(dt^2) (t), (d^2 y)/(dt^2) (t), (d^2 z)/(dt^2) (t))]
-[bb a(t)=bb F/m-2'\\y01d6c0'xx bb v(t)-'\\y01d6c0'xx['\\y01d6c0'xx bb r(t)]]
+[bb a(t)=bb F/m-2bb Omega xx bb v(t)-bb Omega xx[bb Omega xx bb r(t)]]
 bb F
-bb F_(cor) = -2'\\y01d6c0'xx bb v(t)
--'\\y01d6c0'xx['\\y01d6c0'xx bb r(t)]
+bb F_(cor) = -2bb Omega xx bb v(t)
+-bb Omega xx[bb Omega xx bb r(t)]
 t = 0
 hat('\\x000131''\\x000131').
 bb F
-bb v(t) = '\\y01d7ce',
-bb F_(cor) = '\\y01d7ce',
+bb v(t) = bb 0,
+bb F_(cor) = bb 0,
 bb F
--'\\y01d6c0'xx['\\y01d6c0'xx bb r(t)]
+-bb Omega xx[bb Omega xx bb r(t)]
 hat('\\x000131''\\x000131')(t).
 Omega > 0.
 t = 0,
@@ -22526,8 +22526,8 @@ bb c
 hat('\\x000131''\\x000131') xx hat('\\x000237''\\x000237') = hat bb k,
 hat('\\x000237''\\x000237') xx hat bb k = hat('\\x000131''\\x000131'),
 hat bb k xx hat('\\x000131''\\x000131') = hat('\\x000237''\\x000237')
-bb a*(bb a xx bb b) = bb b*(bb a xx bb b) = '\\y01d7ce'
-bb a != '\\y01d7ce'
+bb a*(bb a xx bb b) = bb b*(bb a xx bb b) = bb 0
+bb a != bb 0
 bb a*bb b = bb a*bb c
 bb b = bb c.
 bb a xx(bb b xx bb c)
@@ -22609,7 +22609,7 @@ bb a.
 '\\x0027e8'2, -3, -5'\\x0027e9'xx'\\x0027e8'4, -2, 7'\\x0027e9'
 '\\x0027e8'-1, 0, 1'\\x0027e9'xx'\\x0027e8'0, 4, 5'\\x0027e9'
 bb p = '\\x0027e8'-1, 4, 2'\\x0027e9', \ bb q = '\\x0027e8'3, 1, -1'\\x0027e9', \ bb r = '\\x0027e8'2, -3, -1'\\x0027e9'.
-bb p xx bb p = '\\y01d7ce'
+bb p xx bb p = bb 0
 bb p xx bb q = -bb q xx bb p
 bb p xx(3bb r) = 3(bb p xx bb r)
 bb p xx(bb q+bb r) = bb p xx bb q+bb p xx bb r

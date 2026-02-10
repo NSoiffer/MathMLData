@@ -1,4 +1,3 @@
-"\\delimitershortfall"-1sp
 cos(alpha+beta)
 cos(alpha)+cos(beta)
 alpha
@@ -205,7 +204,6 @@ alpha,
 a
 b.
 26\circ.
-"\\delimitershortfall"-1sp
 c, \ a^2+b^2 = c^2.
 a^2+b^2 = c^2,
 theta
@@ -306,7 +304,6 @@ AGDE.
 bar(BC)
 BGDH.
 bar(AB)
-"\\delimitershortfall"-1sp
 theta,
 varphi,
 chi,
@@ -385,7 +382,7 @@ x/2 = 8/(x+2)
 1/x+2/(3x) = (x-2)/2
 x/12 = 3/x
 1+x/2 = (2x)/5
-ul( )
+ul\ \
 +-6
 -10
 4/x = 6/8
@@ -449,7 +446,6 @@ P.
 Q.
 Q
 A
-"\\delimitershortfall"-1sp
 y = sin(t), \ y = cos(t),
 y = tan(t)\
 y = sin(t).
@@ -741,10 +737,10 @@ t = pi/4+-2 pi k, \ (5 pi)/4+-2 pi k, \ "where\ "k"\is an integer."
 \ (5 pi)/3+-2 pi k
 h = f(t) = 100-100cos(pi/4 t)
 t
-'\\y01d7d0'
-[f('\\y01d7d0'), =100-100cos(pi/2)], [\ , =100-100(0)=100]
-'\\y01d7d2'
-[f('\\y01d7d2'), =100-100cos(pi)]
+bb 2
+[f(bb 2), =100-100cos(pi/2)], [\ , =100-100(0)=100]
+bb 4
+[f(bb 4), =100-100cos(pi)]
 h = f(t)
 h = 100,
 D(t) = 12.25-5.25cos(pi/6 t)
@@ -815,7 +811,7 @@ h(t) = 3
 m(t) = 6(2^t)
 m(3)
 m(t) = 3
-ul( )
+ul\ \
 26
 +-2
 -102
@@ -1048,7 +1044,6 @@ tan(x)
 \
 \
 y = tan(x).
-"\\delimitershortfall"-1sp
 y = Acos(x)\ or\ y = Asin(x)
 |A|.
 y = cos(Bx)\ or\ y = sin(Bx)
@@ -1319,15 +1314,13 @@ sqrt(2)cos(3 varphi) = 1
 15tan(1.4s-2) = 20
 8sin( (pi t)/6-pi/12) = 6
 12cos( (pi t)/2- (3 pi)/5) = 5
-"\\delimitershortfall"-1sp
 "bb A bb n bb g bb l bb e bb s bb a bb n bb d bb R bb o bb t bb a bb t bb i bb o bb n "
 "bb G bb r bb a bb p bb h bb s bb o bb f bb S bb i bb n bb e bb a bb n bb d bb C bb o bb s bb i bb n bb e "
 "bb P bb e bb r bb i bb o bb d bb i bb c bb F bb u bb n bb c bb t bb i bb o bb n bb s "
-"\\delimitershortfall"-1sp
 -16t^2+64t,
 t
--16('\\y01d7cf')^2+64(1'\\y01d7cf') = -16+64 = 48\ "feet"
--16('\\y01d7d0')^2+64('\\y01d7d0') = -64+128 = 64\ "feet"
+-16(bb 1)^2+64(1bb 1) = -16+64 = 48\ "feet"
+-16(bb 2)^2+64(bb 2) = -64+128 = 64\ "feet"
 sin(X),
 sin(X)
 sin(X)
@@ -1337,10 +1330,10 @@ Y = 135\circ.
 6tan(X)cos(Y)
 X
 Y,
-2tan('\\y01d7cf''\\y01d7d1''\\y01d7d3'\circ)+3sin('\\y01d7d1''\\y01d7ce'\circ)
-[2tan('\\y01d7cf''\\y01d7d1''\\y01d7d3'\circ)+3sin('\\y01d7d1''\\y01d7ce'\circ), =2(-1)+3(1/2)], [\ , =-2+3/2= (-1)/2]
+2tan(bb 1bb 3bb 5\circ)+3sin(bb 3bb 0\circ)
+[2tan(bb 1bb 3bb 5\circ)+3sin(bb 3bb 0\circ), =2(-1)+3(1/2)], [\ , =-2+3/2= (-1)/2]
 tan(X)cos(Y).
-[6tan(X)cos(Y), =6tan('\\y01d7d1''\\y01d7ce'\circ)cos('\\y01d7cf''\\y01d7d1''\\y01d7d3'\circ)], [\ , =6(1/(sqrt(3)) )( (-1)/(sqrt(2)) )], [\ , = (-6)/(sqrt(6)) =-sqrt(6)]
+[6tan(X)cos(Y), =6tan(bb 3bb 0\circ)cos(bb 1bb 3bb 5\circ)], [\ , =6(1/(sqrt(3)) )( (-1)/(sqrt(2)) )], [\ , = (-6)/(sqrt(6)) =-sqrt(6)]
 X = 30\circ,
 Y = 60\circ.
 4sin(3X+45\circ)
@@ -1355,8 +1348,8 @@ sin(x)
 tan(theta)
 [2x(x-6)+3(x+2), =2x^2-12x+3x+6], [\ , =2x^2-9x+6]
 x.
-x = '\\y01d7d1',
-[2('\\y01d7d1')('\\y01d7d1'-6)+3('\\y01d7d1'+2), =6(-3)+3(5)=-3], [and\ 2('\\y01d7d1')^2-9('\\y01d7d1')+6, =18-27+6=-3]
+x = bb 3,
+[2(bb 3)(bb 3-6)+3(bb 3+2), =6(-3)+3(5)=-3], [and\ 2(bb 3)^2-9(bb 3)+6, =18-27+6=-3]
 [\ , 8xy, \ , -, \ , 6xy, \ , =2xy], [\ , 8cos(theta)sin(theta), \ , -, \ , 6cos(theta)sin(theta), \ , =2cos(theta)sin(theta)]
 cos(theta)
 sin(theta)
@@ -1408,16 +1401,16 @@ x(3x-2) = 3x^2-2x
 (x-3)(x+5) = x^2+2x-15
 \ cos(t)(3cos(t)-2).
 cos(t)
-[cos(t)(3cos(t)-2), =(cos(t))(3cos(t))-(cos(t))*2], [\ , =3cos^2(t)-2cos(t)], ['\\y01d499'('\\y01d7d1''\\y01d499'-'\\y01d7d0'), ='\\y01d499'*'\\y01d7d1''\\y01d499'-'\\y01d499'*'\\y01d7d0'], [\ , ='\\y01d7d1''\\y01d499'^'\\y01d7d0' -'\\y01d7d0''\\y01d499']
+[cos(t)(3cos(t)-2), =(cos(t))(3cos(t))-(cos(t))*2], [\ , =3cos^2(t)-2cos(t)], [bii x(bb 3bii x-bb 2), =bii x*bb 3bii x-bii x*bb 2], [\ , =bb 3bii x^bb 2-bb 2bii x]
 (cos(t))^2
 cos^2(t).
 \ 2tan(beta)(4tan^2(beta)+tan(alpha))
 8tan^3(beta)+2tan(beta)tan(alpha)
-'\\y01d46d''\\y01d476''\\y01d470''\\y01d473'
-\ '\\y01d46d'
-'\\y01d476'
-'\\y01d470'
-'\\y01d473'
+bii Fbii Obii Ibii L
+\ bii F
+bii O
+bii I
+bii L
 \ (4sin(C)-1)(3sin(C)+2).
 (4x-1)(3x+2),
 x
@@ -1462,7 +1455,7 @@ tan^2(alpha)-3tan(alpha)-10 = (tan(alpha)-5)(tan(alpha)+2)
 6x^2-13x-15
 6x^2-x-12
 24x^2+10x-21
-ul( )
+ul\ \
 (2x-3)(x+4)
 (3x+4)(x-2)
 (4x-1)(3x+1)
@@ -1608,7 +1601,6 @@ sin^2(A)+5sin(A)-6
 6sin^2(alpha)-5sin(alpha)-1
 T^2-4T-12
 tan^2(alpha)-4tan(alpha)-12
-"\\delimitershortfall"-1sp
 180\circ.
 90\circ.
 30\circ-60\circ-90\circ
@@ -1660,7 +1652,6 @@ x
 y
 (sqrt(7))/4.
 150\circ,
-"\\delimitershortfall"-1sp
 "bb S bb i bb d bb e bb a bb n bb d bb A bb n bb g bb l bb e bb R bb e bb l bb a bb t bb i bb o bb n bb s bb h bb i bb p bb s "
 "bb R bb i bb g bb h bb t bb T bb r bb i bb a bb n bb g bb l bb e bb T bb r bb i bb g bb o bb n bb o bb m bb e bb t bb r bb y "
 "bb S bb o bb l bb v bb i bb n bb g bb R bb i bb g bb h bb t bb T bb r bb i bb a bb n bb g bb l bb e bb s "
@@ -1694,8 +1685,6 @@ h?
 6/w
 w.
 x
-"\\delimitershortfall"-1sp
-"\\delimitershortfall"-1sp
 sin(theta) = k
 -1 < k < 1
 0
@@ -1944,7 +1933,7 @@ B/1000 = 2 pi,
 B = 2000 pi.
 h(t) = -8sin(2000 pi t)+8
 h(t) = 14,
-[-8sin(2000 pi t)+8, =14, \ , "Subtract 8 from both sides."], [-8sin(2000 pi t), =6, \ , "Divide both sides by"-'\\y01d7d6'.], [sin(2000 pi t), = (-3)/4]
+[-8sin(2000 pi t)+8, =14, \ , "Subtract 8 from both sides."], [-8sin(2000 pi t), =6, \ , "Divide both sides by"-bb 8.], [sin(2000 pi t), = (-3)/4]
 theta = 2000 pi t
 sin theta = (-3)/4.
 theta = sin^(-1)( (-3)/4)2 pi = 5.4351\ and\ theta = pi-sin^(-1)( (-3)/4) = 3.9897
@@ -1963,7 +1952,7 @@ sqrt(2x-6) = 4
 |2x-6| = 4
 log 2x-6 = 4
 2^(2x-6) = 4
-ul( )
+ul\ \
 2, 4
 11
 25/8
@@ -2082,7 +2071,6 @@ h(t)
 t
 d(t)
 t
-"\\delimitershortfall"-1sp
 0\circ
 180\circ
 \ sin(theta) = 0.4226\
@@ -2150,7 +2138,7 @@ P
 theta
 (x, y)
 P
-'\\y01d499' = cos('\\y01d73d'), \ '\\y01d49a' = sin('\\y01d73d')
+bii x = cos(bb theta), \ bii y = sin(bb theta)
 P
 P
 x = cos(315\circ), \ y = sin(315\circ).
@@ -2188,7 +2176,7 @@ P
 r
 theta
 P
-'\\y01d499' = '\\y01d493'cos('\\y01d73d')\ and\ '\\y01d49a' = '\\y01d493'sin('\\y01d73d')
+bii x = bii rcos(bb theta)\ and\ bii y = bii rsin(bb theta)
 theta
 (cos(theta), sin(theta)),
 r,
@@ -2213,7 +2201,7 @@ P
 340\circ,
 theta
 90\circ,
-'\\y01d73d' = -"bearing"+'\\y01d7d7''\\y01d7ce'\circ
+bb theta = -"bearing"+bb 9bb 0\circ
 245\circ
 245\circ
 -245\circ+90\circ = -155\circ
@@ -2233,7 +2221,7 @@ alpha.
 alpha
 x
 m,
-tan('\\y01d736') = '\\y01d48e'
+tan(bb alpha) = bii m
 0\circ <= alpha <= 180\circ.
 y = 3/4 x-3.
 3/4.
@@ -2314,7 +2302,7 @@ t = 1
 y = 12.25,
 y = f(x)
 p
-'\\y01d487'('\\y01d499'+'\\y01d491') = '\\y01d487'('\\y01d499')
+bii f(bii x+bii p) = bii f(bii x)
 x.
 p
 20/50 = 0.4,
@@ -2324,7 +2312,7 @@ h(x) = 1/(x^2-1)
 H(x) = (-1)/((x+1)^2)
 G(x) = (2x+1)/x
 F(x) = x/(x-1)
-ul( )
+ul\ \
 x = 2, \ y = 0
 x = -3, \ y = 0
 x = -1, \ x = 1\ y = 0
@@ -2473,7 +2461,6 @@ y = 2f(x).
 y = 2+f(x).
 f(x)
 t = 12
-"\\delimitershortfall"-1sp
 theta = 108.8\circ
 alpha = 29\circ
 beta = 77\circ
@@ -5214,8 +5201,8 @@ bb i-sqrt(3)bb j
 '\\x002016'bb v'\\x002016' = 6.3\ "mi", \ theta = 288.4\circ
 7.64\ "km", \ theta = 30.31\circ
 8.46\ "mi", \ theta = 155.6\circ
-bb F_'\\y01d7cf' = -200bb i, \ bb F_'\\y01d7d0' = -60sqrt(2)bb i-60sqrt(2)bb j, \ bb F_'\\y01d7d1' = 50sqrt(3)bb i+50bb j,
-bb F_'\\y01d7d2' = -125bb i+125sqrt(3)bb j
+bb F_bb 1 = -200bb i, \ bb F_bb 2 = -60sqrt(2)bb i-60sqrt(2)bb j, \ bb F_bb 3 = 50sqrt(3)bb i+50bb j,
+bb F_bb 4 = -125bb i+125sqrt(3)bb j
 -73.25bb i+181.65bb j
 13bb i+5bb j
 -7bb i-14bb j
@@ -5751,16 +5738,14 @@ theta = pi/3, \
 (2 pi)/3, \
 (4 pi)/3, \
 (5 pi)/3
-"\\delimitershortfall"-1sp
 "bb T bb r bb a bb n bb s bb f bb o bb r bb m bb a bb t bb i bb o bb n bb s bb o bb f bb G bb r bb a bb p bb h bb s "
 "bb T bb h bb e bb G bb e bb n bb e bb r bb a bb l bb S bb i bb n bb u bb s bb o bb i bb d bb a bb l bb F bb u bb n bb c bb t bb i bb o bb n "
 "bb S bb o bb l bb v bb i bb n bb g bb E bb q bb u bb a bb t bb i bb o bb n bb s "
-"\\delimitershortfall"-1sp
 P
 theta
 (x, y)
 P
-'\\y01d499' = cos('\\y01d73d'), \ '\\y01d49a' = sin('\\y01d73d')
+bii x = cos(bb theta), \ bii y = sin(bb theta)
 r = 1.
 (1, 0).
 0.6
@@ -5813,7 +5798,7 @@ s = r theta.
 theta,
 theta = s/r,
 t
-cos('\\y01d495') = cos('\\y01d73d')\ and\ sin('\\y01d495') = sin('\\y01d73d')
+cos(bii t) = cos(bb theta)\ and\ sin(bii t) = sin(bb theta)
 theta = t\
 t,
 theta = t
@@ -5830,17 +5815,17 @@ T = 3.11\ sin\ (0.017n-1.38)+6.03
 T
 n = 1
 n = 182
-n = '\\y01d7cf'
-T = 3.11\ sin\ (0.017('\\y01d7cf')-1.38)+6.03 = 2.99
-n = '\\y01d7cf''\\y01d7d6''\\y01d7d0'
-T = 3.11\ sin\ (0.017('\\y01d7cf''\\y01d7d6''\\y01d7d0')-1.38)+6.03 = 9.11
+n = bb 1
+T = 3.11\ sin\ (0.017(bb 1)-1.38)+6.03 = 2.99
+n = bb 1bb 8bb 2
+T = 3.11\ sin\ (0.017(bb 1bb 8bb 2)-1.38)+6.03 = 9.11
 t
 M = 10.2-2.2\ cos\ (0.038t)
 8
 12.09
 P(x, y)
 t
-tan('\\y01d495') = '\\y01d49a'/'\\y01d499'
+tan(bii t) = bii y/bii x
 P
 theta = t
 cos(2) = -0.4161\ and\ sin(2) = 0.9093
@@ -5851,7 +5836,7 @@ tan(2) = -2.185
 P
 t
 t
-[cos('\\y01d495')\ , ='\\y01d499'], [sin('\\y01d495')\ , ='\\y01d49a'], [tan('\\y01d495')\ , = '\\y01d49a'/'\\y01d499' ,\ '\\y01d499'!='\\y01d7ce']
+[cos(bii t)\ , =bii x], [sin(bii t)\ , =bii y], [tan(bii t)\ , =bii y/bii x,\ bii x!=bb 0]
 cos(2.5), \ sin(2.5),
 tan(2.5).
 P,
@@ -5992,7 +5977,7 @@ m+ (3m)/8
 (5q)/6- (7q)/6
 2/3-5/3
 (2p)/3- (5p)/3
-ul( )
+ul\ \
 5/6
 (5x)/6
 1/8
@@ -6276,10 +6261,9 @@ x = rcos(theta), \ y = rsin(theta).
 48.6\circ
 y
 66.6\circ
-"\\delimitershortfall"-1sp
 theta
 P(x, y)
-["The"\ "secant":\ , sec('\\y01d73d')= '\\y01d493'/'\\y01d499' ], ["The"\ "cosecant":\ , csc('\\y01d73d')= '\\y01d493'/'\\y01d49a' ], ["The"\ "cotangent":\ , cot('\\y01d73d')= '\\y01d499'/'\\y01d49a' ]
+["The"\ "secant":\ , sec(bb theta)=bii r/bii x], ["The"\ "cosecant":\ , csc(bb theta)=bii r/bii y], ["The"\ "cotangent":\ , cot(bb theta)=bii x/bii y]
 sec(theta) = 3,
 -pi/2 <= theta <= 0,
 -pi/2 <= theta <= 0,
@@ -6295,12 +6279,12 @@ cos(theta) = (-sqrt(15))/4,
 \ tan(theta) = (-1)/(sqrt(15)) ,
 \ sec(theta) = (-4)/(sqrt(15)) ,
 \ cot(theta) = -sqrt(15)
-["The"\ "secant"\ "function":\ sec('\\y01d73d')= '\\y01d7cf'/(cos('\\y01d73d')) ], ["The"\ "cosecant"\ "function":\ csc('\\y01d73d')= '\\y01d7cf'/(sin('\\y01d73d')) ], ["The"\ "cotangent"\ "function":\ cot('\\y01d73d')= '\\y01d7cf'/(tan('\\y01d73d')) ]
+["The"\ "secant"\ "function":\ sec(bb theta)=bb 1/(cos(bb theta)) ], ["The"\ "cosecant"\ "function":\ csc(bb theta)=bb 1/(sin(bb theta)) ], ["The"\ "cotangent"\ "function":\ cot(bb theta)=bb 1/(tan(bb theta)) ]
 sec(47\circ)
-\
+\ \
 sec(47\circ) ~~ 1.466.
 cos(47\circ)
-\
+\ \
 |overline(underline(x^(-1)))|
 csc(132\circ)
 1.346
@@ -6328,8 +6312,8 @@ pi/2
 0
 sec(0.8)
 cos^(-1)(0.8).
-\ cos^(-'\\y01d7cf')('\\y01d7ce'.'\\y01d7d6')\
-\ sec('\\y01d7ce'.'\\y01d7d6')\
+\ cos^(-bb 1)(bb 0.bb 8)\
+\ sec(bb 0.bb 8)\
 1/(cos(0.8)) .
 cos^(-1)(0.8) = 0.6435\ "radians", \ and\ sec(0.8) = 1.4353
 cos(theta) = 0,
@@ -6347,7 +6331,7 @@ pi.
 tan(pi/2)
 cot(pi/2) = 0.
 theta
-[sec('\\y01d73d'), = ("hypotenuse")/("adjacent") ], [csc('\\y01d73d'), = ("hypotenuse")/("opposite") ], [cot('\\y01d73d'), = ("adjacent")/("opposite") ]
+[sec(bb theta), = ("hypotenuse")/("adjacent") ], [csc(bb theta), = ("hypotenuse")/("opposite") ], [cot(bb theta), = ("adjacent")/("opposite") ]
 L,
 h,
 theta,
@@ -6357,11 +6341,11 @@ theta
 20\circ
 L/h = cot(theta),
 L = hcot(theta).
-'\\y01d7d1'
+bb 3
 h
-'\\y01d7d0''\\y01d7ce'\circ
+bb 2bb 0\circ
 theta,
-L = '\\y01d7d1'cot('\\y01d7d0''\\y01d7ce'\circ) = 3(2.7475) = 8.24
+L = bb 3cot(bb 2bb 0\circ) = 3(2.7475) = 8.24
 A
 n
 L
@@ -6455,7 +6439,7 @@ csc(theta).
 sec(theta) = 1/(cos(theta)) ,
 1/(cos(theta)) = 3,
 cos(theta) = 1/3.
-[cos^2(theta)+sin^2(theta), =1, \ , "Substitute"\ '\\y01d7cf'/'\\y01d7d1' "\for\ "cos('\\y01d73d').], [(1/3)^2+sin^2(theta), =1, \ , "Subtract"\ ( '\\y01d7cf'/'\\y01d7d1' )^'\\y01d7d0' = '\\y01d7cf'/'\\y01d7d7' \ "from both sides."], [sin^2(theta), =1-1/9=8/9]
+[cos^2(theta)+sin^2(theta), =1, \ , "Substitute"\ bb 1/bb 3 "\for\ "cos(bb theta).], [(1/3)^2+sin^2(theta), =1, \ , "Subtract"\ (bb 1/bb 3)^bb 2=bb 1/bb 9\ "from both sides."], [sin^2(theta), =1-1/9=8/9]
 theta
 sin(theta).
 sin(theta),
@@ -6465,14 +6449,14 @@ sin(theta) = -sqrt(8/9) = (-2sqrt(2))/3, \ "\and\ "\ csc(theta) = 1/(sin(theta))
 pi <= theta <= (3 pi)/2,
 sec(theta).
 sec(theta) = (-sqrt(13))/2
-cot('\\y01d73d') = '\\y01d7cf'/(tan('\\y01d73d')) = (cos('\\y01d73d'))/(sin('\\y01d73d')) , \ sin('\\y01d73d') != '\\y01d7ce'
+cot(bb theta) = bb 1/(tan(bb theta)) = (cos(bb theta))/(sin(bb theta)) , \ sin(bb theta) != bb 0
 \ csc(x) = w
 0 < x < pi/2,
 cot(x).
 sin(x) = 1/(csc(x)) = 1/w.
-'\\y01d7cf'/'\\y01d498'
+bb 1/bii w
 sin(x)
-cos(x) = +-sqrt(1-sin^2(x)) = +-sqrt(1-( '\\y01d7cf'/'\\y01d498' )^2)
+cos(x) = +-sqrt(1-sin^2(x)) = +-sqrt(1-(bb 1/bii w)^2)
 cos(x) = sqrt(1-1/(w^2) ) = sqrt( (w^2-1)/(w^2) ) = (sqrt(w^2-1))/(|w|)
 |w|
 w
@@ -6498,7 +6482,7 @@ Y_2 = cos(theta)
 sin^2(x)(1+cot^2(x)) = sin^2(x)(1+ (cos^2(x))/(sin^2(x)) ) = sin^2(x)+cos^2(x) = 1
 tan(theta)
 cot(theta)
-'\\y01d7cf'+tan^'\\y01d7d0' ('\\y01d73d') = sec^'\\y01d7d0' ('\\y01d73d')\ '\\y01d7cf'+cot^'\\y01d7d0' ('\\y01d73d') = csc^'\\y01d7d0' ('\\y01d73d')
+bb 1+tan^bb 2(bb theta) = sec^bb 2(bb theta)\ bb 1+cot^bb 2(bb theta) = csc^bb 2(bb theta)
 sin^2(theta)+cos^2(theta) = 1.
 \ tan(alpha) = 3/5
 alpha
@@ -6554,7 +6538,7 @@ x
 f(x) = x/(|x|) .
 f(x) = (sqrt(x))^2
 g(x) = sqrt(x^2).
-ul( )
+ul\ \
 x = 1, \ 5
 x = -3, \ 11/3
 |x-4|
@@ -6876,7 +6860,6 @@ c,
 acsc(A) = bcsc(B) = ccsc(C)
 theta
 theta
-"\\delimitershortfall"-1sp
 bb v
 '\\x002016'bb v'\\x002016'.
 bb u
@@ -6985,7 +6968,6 @@ bb u = -27bb i+35bb j,
 bb v = -4bb i-3bb j, \ bb w = 4bb i-3bb j
 bb v = 8bb i-2bb j,
 \ bb w = -5bb i-bb j
-"\\delimitershortfall"-1sp
 x
 y
 x
@@ -7069,7 +7051,7 @@ rsin(theta)
 y,
 x^2+y^2 = 2y
 y.
-[x^2+y^2-2y, =0, \ , "Add 1 to both sides."], [x^2+(y^2-2y\ +'\\y01d7cf'), ='\\y01d7cf', \ , "Write the equation in standard form."], [(x-0)^2+(y-1)^2, =1]
+[x^2+y^2-2y, =0, \ , "Add 1 to both sides."], [x^2+(y^2-2y\ +bb 1), =bb 1, \ , "Write the equation in standard form."], [(x-0)^2+(y-1)^2, =1]
 (0, 1)
 1.
 r = 4cos(theta).
@@ -7187,7 +7169,7 @@ a = 3
 r = 3,
 r = 3
 theta
-[3, =3sin(2 theta), \ , "Divide both sides by\ "'\\y01d7d1'.], [1, =sin(2 theta), \ , "Apply the arcsine function to both sides."], [pi/2, =2 theta, \ , "Divide both sides by\ "'\\y01d7d0'.], [pi/4, =theta]
+[3, =3sin(2 theta), \ , "Divide both sides by\ "bb 3.], [1, =sin(2 theta), \ , "Apply the arcsine function to both sides."], [pi/2, =2 theta, \ , "Divide both sides by\ "bb 2.], [pi/4, =theta]
 theta = pi/4.
 (2 pi)/4 = pi/2,
 [theta, =pi/4+pi/2= (3 pi)/4], [theta, =pi/4+2(pi/2)= (5 pi)/4], [theta, =pi/4+3(pi/2)= (7 pi)/4]
@@ -7252,7 +7234,7 @@ f(theta) = g(theta).
 \ r = 2+2cos(theta).
 r
 theta.
-[r=2+2sin(theta), =r=2+2cos(theta)], [sin(theta), =cos(theta), \ , "Divide both sides by\ "cos('\\y01d73d').], [tan(theta), =1, \ , "Solve for\ "'\\y01d73d'.], [theta, =pi/4,\ (5 pi)/4]
+[r=2+2sin(theta), =r=2+2cos(theta)], [sin(theta), =cos(theta), \ , "Divide both sides by\ "cos(bb theta).], [tan(theta), =1, \ , "Solve for\ "bb theta.], [theta, =pi/4,\ (5 pi)/4]
 t
 ["when"\ theta=pi/4,\ r=2+2sin(pi/4)=2+(1/(sqrt(2)) )=2+sqrt(2)], ["when"\ theta= (5 pi)/4,\ r=2+2sin( (5 pi)/4)=2+( (-1)/(sqrt(2)) )=2-sqrt(2)]
 (2+sqrt(2), pi/4)
@@ -7260,8 +7242,8 @@ t
 theta
 r = 0.
 theta
-r = '\\y01d7ce'.
-['\\y01d7ce', =2+2sin(theta), '\\y01d7ce', =2+2cos(theta)], [-1, =sin(theta), -1, =cos theta], [\ ], [theta, = (3 pi)/2, theta, =pi]
+r = bb 0.
+[bb 0, =2+2sin(theta), bb 0, =2+2cos(theta)], [-1, =sin(theta), -1, =cos theta], [\ ], [theta, = (3 pi)/2, theta, =pi]
 (0, (3 pi)/2)
 (0, pi),
 (2+sqrt(2), pi/4),
@@ -7283,7 +7265,7 @@ sin(theta) = 11/(sqrt(2))
 cos(theta) = (-1)/2
 tan(theta) = -1
 cos(theta) = 0
-ul( )
+ul\ \
 pi/6,
 (11 pi)/6
 pi/4,
@@ -7831,19 +7813,15 @@ n
 r = 1-3cos(n theta)
 n = 2, 3, 4, 5, 6.
 n
-"\\delimitershortfall"-1sp
 "bb O bb b bb t bb u bb s bb e bb A bb n bb g bb l bb e bb s "
 "bb T bb h bb e bb L bb a bb w bb o bb f bb S bb i bb n bb e bb s "
 "bb T bb h bb e bb L bb a bb w bb o bb f bb C bb o bb s bb i bb n bb e bb s "
-"\\delimitershortfall"-1sp
 "bb S bb u bb m bb a bb n bb d bb D bb i bb f bb f bb e bb r bb e bb n bb c bb e bb F bb o bb r bb m bb u bb l bb a bb s "
 "bb I bb n bb v bb e bb r bb s bb e bb T bb r bb i bb g bb o bb n bb o bb m bb e bb t bb r bb i bb c bb F bb u bb n bb c bb t bb i bb o bb n bb s "
 "bb T bb h bb e bb R bb e bb c bb i bb p bb r bb o bb c bb a bb l bb F bb u bb n bb c bb t bb i bb o bb n bb s "
 theta
 Rcos theta,
 1/(cos theta) .
-"\\delimitershortfall"-1sp
-"\\delimitershortfall"-1sp
 P
 (r, theta),
 |r|
@@ -7907,7 +7885,7 @@ z^n = r^n(cos(n alpha)+isin(n alpha))
 z = r(cos(alpha)+isin(alpha))
 n
 n
-'\\y01d49b'_'\\y01d48c' = '\\y01d493'^('\\y01d7cf'//'\\y01d48f')(cos( ('\\y01d736'+'\\y01d7d0''\\y01d745''\\y01d48c')/'\\y01d48f' )+'\\y01d48a'sin( ('\\y01d736'+'\\y01d7d0''\\y01d745''\\y01d48c')/'\\y01d48f' ))
+bii z_bii k = bii r^(bb 1//bii n)(cos( (bb alpha+bb 2bb pi bii k)/bii n)+bii isin( (bb alpha+bb 2bb pi bii k)/bii n))
 k = 0, \ 1, \ 2, cdots, \ n-1.
 (4, (5 pi)/6)
 (1, (-5 pi)/3)
@@ -8015,8 +7993,6 @@ z^6+27 = 0
 z^4-6z^2+12 = 0
 z^4+2z^2+4 = 0
 z^6-8 = 0
-"\\delimitershortfall"-1sp
-"\\delimitershortfall"-1sp
 h
 /_\BCD
 /_\ABD,
@@ -8028,8 +8004,9 @@ h/a = sin(C).
 /_\ABD,
 h/c = sin(A).
 h:
-[h/a, =sin(C), \ , and, h/c, =sin(A), \ , "Solve each equation for\ "'\\y01d489'.], [h, =a sin(C), \ , and, h, =c sin(A), \ , "Equate the expressions for\ "'\\y01d489'.]
-⠀nA
+[h/a, =sin(C), \ , and, h/c, =sin(A), \ , "Solve each equation for\ "bii h.], [h, =a sin(C), \ , and, h, =c sin(A), \ , "Equate the expressions for\ "bii h.]
+[\ , \ , a sin(C), =c sin(A), \ , \ \ , \ , "Divide both sides by\ "bii abii c.], [\ , \ , (sin(C))/c, = (sin(A))/a]
+A
 C
 a
 c.
@@ -8039,8 +8016,8 @@ A, B,
 C,
 a, b,
 c,
-(sin('\\y01d468'))/'\\y01d482' = (sin('\\y01d469'))/'\\y01d483' = (sin('\\y01d46a'))/'\\y01d484'
-'\\y01d482'/(sin('\\y01d468')) = '\\y01d483'/(sin('\\y01d469')) = '\\y01d484'/(sin('\\y01d46a'))
+(sin(bii A))/bii a = (sin(bii B))/bii b = (sin(bii C))/bii c
+bii a/(sin(bii A)) = bii b/(sin(bii B)) = bii c/(sin(bii C))
 A
 B,
 A?
@@ -8065,13 +8042,13 @@ b.
 a
 A
 b.
-[a/(sin(A)) , =b/(sin(B)) , \ , "Substitute the given values."], [11/(sin(37\circ)) , =b/(sin(54\circ)) , \ , "Multiply both sides by"sin('\\y01d7d3''\\y01d7d2'\circ).], [11/(sin(37\circ)) *sin(54\circ), =b]
+[a/(sin(A)) , =b/(sin(B)) , \ , "Substitute the given values."], [11/(sin(37\circ)) , =b/(sin(54\circ)) , \ , "Multiply both sides by"sin(bb 5bb 4\circ).], [11/(sin(37\circ)) *sin(54\circ), =b]
 b ~~ 14.79.
 C = 180\circ-(37\circ+54\circ) = 89\circ.
 c.
 a,
 b.
-[a/(sin(A)) , =c/(sin(C)) , \ , "Substitute the known values."], [11/(sin(37\circ)) , =c/(sin(89\circ)) , \ , "Multiply both sides by"sin('\\y01d7d6''\\y01d7d7'\circ).], [11/(sin(37\circ)) *sin(89\circ), =c]
+[a/(sin(A)) , =c/(sin(C)) , \ , "Substitute the known values."], [11/(sin(37\circ)) , =c/(sin(89\circ)) , \ , "Multiply both sides by"sin(bb 8bb 9\circ).], [11/(sin(37\circ)) *sin(89\circ), =c]
 c ~~ 18.28.
 A = 65\circ, C = 42\circ, \ and\ c = 16
 B = 73\circ,
@@ -8086,7 +8063,7 @@ A = sin^(-1)(0.3723) ~~ 21.9\circ.
 C.
 [C, =180\circ-(B+A)], [\ , =180\circ-55\circ-21.9\circ=103.1\circ]
 c.
-[c/(sin(C)) , =b/(sin(B)) , \ , "Substitute the known values."], [c/(sin(103.1\circ)) , =11/(sin(55\circ)) , \ , ["Multiply both sides by\ "], [sin('\\y01d7cf''\\y01d7ce''\\y01d7d1'.'\\y01d7cf'\circ).]], [c, =11/(sin(55\circ)) *sin(103.1\circ)]
+[c/(sin(C)) , =b/(sin(B)) , \ , "Substitute the known values."], [c/(sin(103.1\circ)) , =11/(sin(55\circ)) , \ , ["Multiply both sides by\ "], [sin(bb 1bb 0bb 3.bb 1\circ).]], [c, =11/(sin(55\circ)) *sin(103.1\circ)]
 c ~~ 13.1.
 C = 93\circ, a = 7,
 c = 11.
@@ -8133,10 +8110,10 @@ r, \ /_ABC,
 /_BAC,
 /_BAC = 180\circ-(161.5\circ+15.9\circ) = 2.6\circ
 r.
-[r/(sin(161.5\circ)) , =20/(sin(2.6\circ)) , \ , "Solve for\ "'\\y01d493'.], [r, =sin(161.5\circ)*20/(sin 2.6\circ) ], [\ , ~~139.9]
+[r/(sin(161.5\circ)) , =20/(sin(2.6\circ)) , \ , "Solve for\ "bii r.], [r, =sin(161.5\circ)*20/(sin 2.6\circ) ], [\ , ~~139.9]
 r
 ADC
-[h/r, =sin(15.9)\circ, \ , "Solve for\ "'\\y01d489'.], [h, =r*sin(15.9)\circ~~38.33]
+[h/r, =sin(15.9)\circ, \ , "Solve for\ "bii h.], [h, =r*sin(15.9)\circ~~38.33]
 r,
 AB,
 /_\ABD
@@ -8151,7 +8128,7 @@ O.
 x
 x,
 (180\circ-0.001\circ)/2 = 89.999\circ.
-[x/(sin(89.999\circ)) , =1000/(sin(0.001\circ)) , \ , "Solve for\ "'\\y01d499'.], [x, =sin(89.999\circ)*1000/(sin(0.001\circ)) ], [x, ~~57,000,000]
+[x/(sin(89.999\circ)) , =1000/(sin(0.001\circ)) , \ , "Solve for\ "bii x.], [x, =sin(89.999\circ)*1000/(sin(0.001\circ)) ], [x, ~~57,000,000]
 0.0005\circ.
 0.0001\circ.
 1/60
@@ -8169,7 +8146,7 @@ bar(AB)
 ACO
 O.
 /_AOC = 1/2(0.85'') = 0.425''
-[tan 0.425'', = ("opposite")/("adjacent") ], [tan(0.425\circ//3600), =1/x, \ , "Solve for\ "'\\y01d499'.], [x, =1/(tan(0.425\circ//3600)) ~~485,000]
+[tan 0.425'', = ("opposite")/("adjacent") ], [tan(0.425\circ//3600), =1/x, \ , "Solve for\ "bii x.], [x, =1/(tan(0.425\circ//3600)) ~~485,000]
 485,000
 1''.
 1''.
@@ -8185,7 +8162,7 @@ O.
 \ \circ
 1'\ 5'' =
 \ \circ
-ul( )
+ul\ \
 0.41 bar 6
 0.625
 0.4
@@ -8343,7 +8320,6 @@ b.
 asin(A) = bsin(B)
 a/(sin(A)) = b/(sin(B))
 a/(sin(B)) = b/(sin(A))
-"\\delimitershortfall"-1sp
 35\circ
 125\circ
 B,
@@ -8577,7 +8553,7 @@ theta,
 sin(theta) = 0.25.
 sin(theta) = 0.25,
 theta = sin^(-1)(0.25).
-\
+\ \
 theta ~~ 14.5\circ.
 0.25.
 14.5\circ,
@@ -8592,15 +8568,15 @@ y = 4,
 r = sqrt(3^2+4^2) = sqrt(25) = 5
 cos(theta) = x/r = (-3)/5,
 theta = cos^(-1)( (-3)/5).
-\
+\ \
 theta ~~ 126.9\circ.
 tan(theta) = (-4)/3
 tan^(-1)( (-4)/3).
-\
+\ \
 theta ~~ -53.1\circ.
 tan(-53.1\circ) = (-4)/3,
 sin theta = 4/5,
-\
+\ \
 theta ~~ 53.1\circ.
 (3, 4),
 theta ~~ 180\circ-53.1\circ = 126.9\circ.
@@ -8668,11 +8644,11 @@ sin(theta) = h/a
 h
 h = asin(theta).
 h
-A = 1/2 b\ '\\y01d489' = 1/2 b\ '\\y01d482'sin('\\y01d73d')
+A = 1/2 b\ bii h = 1/2 b\ bii asin(bb theta)
 a
 b,
 theta,
-'\\y01d468' = '\\y01d7cf'/'\\y01d7d0' '\\y01d482''\\y01d483'sin('\\y01d73d')
+bii A = bb 1/bb 2 bii abii bsin(bb theta)
 a = 120.3,
 b = 141,
 theta = 95\circ.
@@ -8694,7 +8670,7 @@ A = 1/2(5c)sin(varphi).
 1/5
 1/6
 1/8
-ul( )
+ul\ \
 24
 24
 24
@@ -8924,7 +8900,6 @@ tan(theta) = q/(-7)
 theta
 tan(theta) = m
 cos(theta) = h
-"\\delimitershortfall"-1sp
 a
 c,
 B.
@@ -8945,7 +8920,7 @@ A, B,
 C,
 a, b,
 c,
-['\\y01d482'^'\\y01d7d0' ='\\y01d483'^'\\y01d7d0' +'\\y01d484'^'\\y01d7d0' -'\\y01d7d0''\\y01d483''\\y01d484'cos('\\y01d468')], ['\\y01d483'^'\\y01d7d0' ='\\y01d482'^'\\y01d7d0' +'\\y01d484'^'\\y01d7d0' -'\\y01d7d0''\\y01d482''\\y01d484'cos('\\y01d469')], ['\\y01d484'^'\\y01d7d0' ='\\y01d482'^'\\y01d7d0' +'\\y01d483'^'\\y01d7d0' -'\\y01d7d0''\\y01d482''\\y01d483'cos('\\y01d46a')]
+[bii a^bb 2=bii b^bb 2+bii c^bb 2-bb 2bii bbii ccos(bii A)], [bii b^bb 2=bii a^bb 2+bii c^bb 2-bb 2bii abii ccos(bii B)], [bii c^bb 2=bii a^bb 2+bii b^bb 2-bb 2bii abii bcos(bii C)]
 /_ABC = 35\circ+90\circ = 125\circ.
 /_\ABC
 a = 34, \ c = 48
@@ -8973,12 +8948,12 @@ c = 6.1.
 B,
 48.07\circ
 A
-[ (sin(A))/a, = (sin(C))/c, \ , "Substitute the known values."], [ (sin(A))/6, = (sin(115.4\circ))/11, \ , "Solve for"sin'\\y01d468'.], [sin(A), =6* (sin(115.4\circ))/11~~0.4928]
+[ (sin(A))/a, = (sin(C))/c, \ , "Substitute the known values."], [ (sin(A))/6, = (sin(115.4\circ))/11, \ , "Solve for"sin bii A.], [sin(A), =6* (sin(115.4\circ))/11~~0.4928]
 A = sin^(-1)(0.4928) = 29.5\circ.
 A
 B = 180\circ-(A+C) ~~ 35.1\circ
 A.
-[a^2, =b^2+c^2-2bccos(A), \ , "Substitute the known values."], [6^2, =7^2+11^2-2(7)(11)cos(A), \ , "Simplify each side."], [36, =49+121-154cos(A), \ , "Isolate the cosine term."], [-134, =-154cos(A), \ , "Solve for"cos('\\y01d468').], [67/77, =cos(A), \ , "Solve for A."], [A, =cos^(-1)(67/77)=29.5\circ]
+[a^2, =b^2+c^2-2bccos(A), \ , "Substitute the known values."], [6^2, =7^2+11^2-2(7)(11)cos(A), \ , "Simplify each side."], [36, =49+121-154cos(A), \ , "Isolate the cosine term."], [-134, =-154cos(A), \ , "Solve for"cos(bii A).], [67/77, =cos(A), \ , "Solve for A."], [A, =cos^(-1)(67/77)=29.5\circ]
 a
 b
 alpha
@@ -8995,7 +8970,7 @@ alpha
 a > b,
 a <= b.
 ax^2+bx+c = 0, \ a != 0,
-'\\y01d499' = (-'\\y01d483'+-sqrt('\\y01d483'^'\\y01d7d0' -'\\y01d7d2''\\y01d482''\\y01d484'))/('\\y01d7d0''\\y01d482')
+bii x = (-bii b+-sqrt(bii b^bb 2-bb 4bii abii c))/(bb 2bii a)
 b^2-4ac.
 /_\ABC, \ B = 14.4\circ, \ a = 8,
 b = 3.
@@ -9006,10 +8981,10 @@ c = 5.503
 c = 9.994,
 C
 c = 5.503,
-[c^2, =a^2+b^2-2ab cos(C), \ , "Substitute the known values."], [5.503^2, =8^2+3^2-2(8)(3)cos(C), \ , "Solve for"cos('\\y01d46a').], [cos(C), = (5.503^2-64-9)/(-48) =0.889876], [C, =cos^(-1)0.889876)=27.1\circ]
+[c^2, =a^2+b^2-2ab cos(C), \ , "Substitute the known values."], [5.503^2, =8^2+3^2-2(8)(3)cos(C), \ , "Solve for"cos(bii C).], [cos(C), = (5.503^2-64-9)/(-48) =0.889876], [C, =cos^(-1)0.889876)=27.1\circ]
 A = 180\circ-(14.4\circ+27.1\circ) = 138.5\circ.
 c = 9.994,
-[c^2, =a^2+b^2-2ab cos(C), \ , "Substitute the known values."], [9.994^2, =8^2+3^2-2(8)(3)cos(C), \ , "Solve for"cos('\\y01d46a').], [cos(C), = (9.994^2-64-9)/(-48) =-0.560027], [C, =cos^(-1)(-0.560027)=124.1\circ]
+[c^2, =a^2+b^2-2ab cos(C), \ , "Substitute the known values."], [9.994^2, =8^2+3^2-2(8)(3)cos(C), \ , "Solve for"cos(bii C).], [cos(C), = (9.994^2-64-9)/(-48) =-0.560027], [C, =cos^(-1)(-0.560027)=124.1\circ]
 A = 180\circ-(14.4\circ+124.1\circ) = 41.5\circ.
 0\circ
 180\circ
@@ -9029,7 +9004,7 @@ b
 /_A.
 [b^2, =a^2+c^2-2ac cos(B), \ , "Substitute the known values."], [\ , =12^2+18^2-2(12)18cos(160\circ), \ , "Evaluate."], [\ , =873.95, \ , "Take positive square root."], [b, =29.56]
 /_A.
-[a^2, =b^2+c^2-2bc cos(A), \ , "Substitute the known values."], [12^2, =29.56^2+18^2-2(29.56)(18)cos(A), \ , "Solve for"cos('\\y01d468').], [cos(A), = (12^2-29.56^2-18^2)/(-2(29.56)(18)) =0.9903], [C, =cos^(-1)(0.9903)=8\circ]
+[a^2, =b^2+c^2-2bc cos(A), \ , "Substitute the known values."], [12^2, =29.56^2+18^2-2(29.56)(18)cos(A), \ , "Solve for"cos(bii A).], [cos(A), = (12^2-29.56^2-18^2)/(-2(29.56)(18)) =0.9903], [C, =cos^(-1)(0.9903)=8\circ]
 x = 29.56
 theta = 8\circ+15\circ = 23\circ.
 23\circ
@@ -9055,7 +9030,7 @@ c
 3x(x+5) = 900
 2x^2-6x = 233.12
 0.5x^2+1.5x = 464
-ul( )
+ul\ \
 +-8
 +-25
 8, \ -6.5
@@ -9152,7 +9127,6 @@ a = b,
 c^2 = 2a^2(1-cos(C)).
 [1+cos(A), = ((a+b+c)(-a+b+C))/(2bc) ], [1-cos(A), = ((a-b+c)(-a+b+C))/(2bc) ]
 (cos(A))/a+ (cos(B))/b+ (cos(C))/c = (a^2+b^2+c^2)/(2abc)
-"\\delimitershortfall"-1sp
 bb F
 bb F = bb u+bb v,
 bb v
@@ -9166,7 +9140,7 @@ bb F
 bb v.
 bb F
 bb v
-"comp"_bb v bb F = '\\x002016'bb F'\\x002016'cos('\\y01d73d')
+"comp"_bb v bb F = '\\x002016'bb F'\\x002016'cos(bb theta)
 theta
 bb F
 bb v.
@@ -9210,7 +9184,7 @@ bb v = abb i+bbb j
 bb w = cbb i+dbb j,
 bb w
 bb v
-"comp"_bb v bb w = ('\\y01d482''\\y01d484'+'\\y01d483''\\y01d485')/('\\x002016'bb v'\\x002016')
+"comp"_bb v bb w = (bii abii c+bii bbii d)/('\\x002016'bb v'\\x002016')
 bb w
 bb w = bb u+bb v,
 bb u
@@ -9251,7 +9225,7 @@ bb i
 bb j
 \ bb v = v_1 bb i+v_2 bb j\
 \ bb w = w_1 bb i+w_2 bb j\
-bb v*bb w = '\\y01d497'_'\\y01d7cf' '\\y01d498'_'\\y01d7cf' +'\\y01d497'_'\\y01d7d0' '\\y01d498'_'\\y01d7d0'
+bb v*bb w = bii v_bb 1 bii w_bb 1+bii v_bb 2 bii w_bb 2
 bb v*bb w = bb w*bb v
 bb v = 5bb i-3bb j
 bb w = 4bb i+bb j.
@@ -9284,7 +9258,7 @@ bb v:
 '\\x002016'bb v'\\x002016''\\x002016'bb w'\\x002016'cos theta = bb v*bb w.
 bb v
 bb w
-bb v*bb w = '\\x002016'bb v'\\x002016''\\x002016'bb w'\\x002016'cos('\\y01d73d')
+bb v*bb w = '\\x002016'bb v'\\x002016''\\x002016'bb w'\\x002016'cos(bb theta)
 theta
 theta = 0\circ,
 bb v
@@ -9324,7 +9298,7 @@ bb u*bb v = -ab+ab = 0
 theta
 bb v
 bb w
-cos('\\y01d73d') = (bb v*bb w)/('\\x002016'bb v'\\x002016''\\x002016'bb w'\\x002016')
+cos(bb theta) = (bb v*bb w)/('\\x002016'bb v'\\x002016''\\x002016'bb w'\\x002016')
 bb u = -3bb i+2bb j
 bb v = 5bb i+3bb j.
 bb u*bb v
@@ -9344,7 +9318,7 @@ A
 C.
 C
 B?
-ul( )
+ul\ \
 1.55
 4.76
 19.57
@@ -9524,7 +9498,6 @@ bb u
 bb v
 bb u*bb v
 cos(beta-alpha) = cos(beta)cos(alpha)+sin(beta)sin(alpha)
-"\\delimitershortfall"-1sp
 90\circ.
 75\circ
 75\circ
@@ -9538,7 +9511,7 @@ cos(beta-alpha) = cos(beta)cos(alpha)+sin(beta)sin(alpha)
 90\circ
 (Delta y)/(Delta x) = 77/136 = 0.5662
 tan^(-1)
-\
+\ \
 tan^(-1)(0.5662) = 29.52\circ.
 29.52\circ
 0.5662.
@@ -9629,7 +9602,7 @@ sqrt(3/4)
 2/(sqrt(3))
 6/(sqrt(3))
 4/(sqrt(8))
-ul( )
+ul\ \
 2
 sqrt(3)
 2sqrt(2)
@@ -9801,7 +9774,6 @@ ABC
 P.
 /_\ABC
 AP.
-"\\delimitershortfall"-1sp
 360\circ.
 720\circ.
 1.5(360\circ) = 540\circ
@@ -9832,7 +9804,7 @@ theta
 theta
 (x, y)
 r = sqrt(x^2+y^2),
-sin('\\y01d73d') = '\\y01d49a'/'\\y01d493' \ cos('\\y01d73d') = '\\y01d499'/'\\y01d493' \ tan('\\y01d73d') = '\\y01d49a'/'\\y01d499'
+sin(bb theta) = bii y/bii r\ cos(bb theta) = bii x/bii r\ tan(bb theta) = bii y/bii x
 sin(theta)
 f(x).
 P,
@@ -10038,7 +10010,7 @@ G(-3)
 G(a+3)
 G(a)+G(3)
 G(3/2)
-ul( )
+ul\ \
 15
 a^2-8a+15
 a^2-2a-5
@@ -10247,7 +10219,6 @@ P
 270\circ
 360\circ
 P
-"\\delimitershortfall"-1sp
 theta
 x
 cos(theta) = x/r
@@ -10424,7 +10395,6 @@ C
 a/(sin(A)) ,
 b/(sin(B)) ,
 c/(sin(C))
-"\\delimitershortfall"-1sp
 "bb A bb r bb c bb l bb e bb n bb g bb t bb h "\ = \ ("bb f bb r bb a bb c bb t bb i bb o bb n bb o bb f bb o bb n bb e bb r bb e bb v bb o bb l bb u bb t bb i bb o bb n ")*(2 pi r)
 ("bb f bb r bb a bb c bb t bb i bb o bb n bb o bb f bb o bb n bb e bb r bb e bb v bb o bb l bb u bb t bb i bb o bb n " xx 2 pi)
 pi
@@ -10663,7 +10633,6 @@ x
 y.
 tan(t).
 t?
-"\\delimitershortfall"-1sp
 /_\FGH, /_F = 48\circ,
 /_G
 f
@@ -10693,7 +10662,7 @@ x
 c
 a
 b,
-'\\y01d482'^'\\y01d7d0' +'\\y01d483'^'\\y01d7d0' = '\\y01d484'^'\\y01d7d0'
+bii a^bb 2+bii b^bb 2 = bii c^bb 2
 h.
 c,
 b,
@@ -10722,7 +10691,7 @@ x < 0,
 -|x|
 -|-x|
 x^(-1)
-ul( )
+ul\ \
 x < 3
 x <= 8
 x <= -1
@@ -10752,9 +10721,7 @@ alpha, beta
 d.
 (p, q)
 a^2+b^2 = c^2.
-"\\delimitershortfall"-1sp
 sin(5 pi)/3 = (-sqrt(3))/2
-"\\delimitershortfall"-1sp
 x^2+3x = 10
 x = 2
 x = 5.
@@ -10869,7 +10836,7 @@ Y_1 = cos^2(theta)+sin^2(theta)
 Y_2 = 1.
 cos^2(theta)+sin^2(theta) = 1
 theta,
-cos^'\\y01d7d0' ('\\y01d73d')+sin^'\\y01d7d0' ('\\y01d73d') = '\\y01d7cf'
+cos^bb 2(bb theta)+sin^bb 2(bb theta) = bb 1
 \ cos^2(theta)+sin^2(theta)\
 theta.
 \ cos^2(27\circ)+sin^2(27\circ)\
@@ -10881,12 +10848,12 @@ cos^2(27\circ)+sin^2(27\circ) = 1.
 5
 cos^2(theta)
 sin^2(theta).
-[cos^'\\y01d7d0' ('\\y01d73d'), ='\\y01d7cf'-sin^'\\y01d7d0' ('\\y01d73d')], [sin^'\\y01d7d0' ('\\y01d73d'), ='\\y01d7cf'-cos^'\\y01d7d0' ('\\y01d73d')]
+[cos^bb 2(bb theta), =bb 1-sin^bb 2(bb theta)], [sin^bb 2(bb theta), =bb 1-cos^bb 2(bb theta)]
 sin(theta)cos^2(theta)
 sin(theta)
 cos^2(theta)
 1-sin^2(theta)
-[sin(theta)cos^'\\y01d7d0' ('\\y01d73d'), =sin(theta)('\\y01d7cf'-sin^'\\y01d7d0' ('\\y01d73d')), \ , "Apply the distributive law."], [\ , =sin(theta)-sin^3(theta)]
+[sin(theta)cos^bb 2(bb theta), =sin(theta)(bb 1-sin^bb 2(bb theta)), \ , "Apply the distributive law."], [\ , =sin(theta)-sin^3(theta)]
 sin(theta)cos^2(theta) = sin(theta)-sin^3(theta)
 [Y_1, =sin(X)cos^2(X)], [Y_2, =sin(X)-sin^3(X)]
 \ -360\circ <= X <= 360\circ, \
@@ -10929,11 +10896,11 @@ theta = 270\circ.
 tan(theta) = (sin(theta))/(cos(theta)) .
 90\circ
 270\circ,
-tan('\\y01d73d') = (sin('\\y01d73d'))/(cos('\\y01d73d'))
+tan(bb theta) = (sin(bb theta))/(cos(bb theta))
 \ cos(theta)tan(theta)+sin(theta).
 \ tan(theta)\
 \ (sin(theta))/(cos(theta)) \
-[cos(theta)tan('\\y01d73d')+sin(theta), =cos(theta)( (sin('\\y01d73d'))/(cos('\\y01d73d')) )+sin(theta)], [\ , =sin(theta)+sin(theta)=2sin(theta)]
+[cos(theta)tan(bb theta)+sin(theta), =cos(theta)( (sin(bb theta))/(cos(bb theta)) )+sin(theta)], [\ , =sin(theta)+sin(theta)=2sin(theta)]
 \ (1+tan^2(x))(1-cos^2(x)).
 tan^2(x)
 \ sin(theta) = 7/25\
@@ -10942,7 +10909,7 @@ cos(theta)
 tan(theta).
 \ sin(theta) = 7/25\
 \ cos^2(theta)+sin^2(theta) = 1\
-[cos^2(theta)+(7/25)^2, =1, \ , "Isolate\ "cos^'\\y01d7d0' ('\\y01d73d').], [cos^2(theta), =1-(7/25)^2, \ , '\\y01d7cf'-( '\\y01d7d5'/'\\y01d7d0''\\y01d7d3' )^'\\y01d7d0' ='\\y01d7cf'- '\\y01d7d2''\\y01d7d7'/'\\y01d7d4''\\y01d7d0''\\y01d7d3' = ('\\y01d7d4''\\y01d7d0''\\y01d7d3'-'\\y01d7d2''\\y01d7d7')/'\\y01d7d4''\\y01d7d0''\\y01d7d3' ], [cos^2(theta), =576/625, \ , "Take square roots."], [cos theta, =+-sqrt(576/625)], [\ , =+-24/25]
+[cos^2(theta)+(7/25)^2, =1, \ , "Isolate\ "cos^bb 2(bb theta).], [cos^2(theta), =1-(7/25)^2, \ , bb 1-(bb 7/bb 2bb 5)^bb 2=bb 1-bb 4bb 9/bb 6bb 2bb 5= (bb 6bb 2bb 5-bb 4bb 9)/bb 6bb 2bb 5], [cos^2(theta), =576/625, \ , "Take square roots."], [cos theta, =+-sqrt(576/625)], [\ , =+-24/25]
 theta
 90\circ
 180\circ,
@@ -10957,7 +10924,7 @@ r = 25,
 cos(theta)
 tan(theta),
 x
-[x^2+7^2, =25^2, \ , "Isolate\ "'\\y01d499'^'\\y01d7d0' .], [x^2, =576, \ , "Take square roots."], [x, =-24]
+[x^2+7^2, =25^2, \ , "Isolate\ "bii x^bb 2.], [x^2, =576, \ , "Take square roots."], [x, =-24]
 x
 (x, 7)
 cos(theta) = x/r = (-24)/25\ and\ tan(theta) = y/x = 7/(-24) = (-7)/24
@@ -10972,7 +10939,7 @@ sin(theta) = (-12)/13,
 \ cos^2(A)-sin^2(A)-sin(A) = 0\
 0\circ <= A <= 360\circ.
 cos^2(A) = 1-sin^2(A).
-[cos^2(A)-sin^2(A)-sin(A), =0, \ , "Replace\ "cos^'\\y01d7d0' ('\\y01d468')"\by\ "'\\y01d7cf'-sin^'\\y01d7d0' ('\\y01d468').], [(1-sin^2(A))-sin^2(A)-sin(A), =0, \ , "Combine like terms."], [1-2sin^2(A)-sin(A), =0, \ , "Multiply both sides by\ "-'\\y01d7cf'.], [2sin^2(A)+sin(A)-1, =0, \ , "Factor the left side."], [(2sin(A)-1)(sin(A)+1), =0]
+[cos^2(A)-sin^2(A)-sin(A), =0, \ , "Replace\ "cos^bb 2(bii A)"\by\ "bb 1-sin^bb 2(bii A).], [(1-sin^2(A))-sin^2(A)-sin(A), =0, \ , "Combine like terms."], [1-2sin^2(A)-sin(A), =0, \ , "Multiply both sides by\ "-bb 1.], [2sin^2(A)+sin(A)-1, =0, \ , "Factor the left side."], [(2sin(A)-1)(sin(A)+1), =0]
 sin(A) = 1/2
 sin(A) = -1.
 sin(A) = 1/2
@@ -10989,7 +10956,7 @@ A = 270\circ.
 \ 270\circ
 \ cos(B)+sqrt(3)sin(B) = 0\
 0\circ <= B <= 360\circ.
-[sqrt(3)sin(B), =-cos(B), \ , "Divide both sides by\ "cos('\\y01d469')"\and\ "sqrt('\\y01d7d1').], [ (sin(B))/(cos(B)) , = (-1)/(sqrt(3)) , \ , "Apply the tangent identity."], [tan(B), = (-1)/(sqrt(3)) ]
+[sqrt(3)sin(B), =-cos(B), \ , "Divide both sides by\ "cos(bii B)"\and\ "sqrt(bb 3).], [ (sin(B))/(cos(B)) , = (-1)/(sqrt(3)) , \ , "Apply the tangent identity."], [tan(B), = (-1)/(sqrt(3)) ]
 tan(30\circ) = (-1)/(sqrt(3)) ,
 B
 30\circ.
@@ -11006,10 +10973,10 @@ theta.
 1/(cos^2(t)) .
 1+tan^2(t) = 1+( (sin(t))/(cos(t)) )^2 = 1+ (sin^2(t))/(cos^2(t))
 (cos^2(t))/(cos^2(t)) .
-'\\y01d7cf'+ (sin^2(t))/(cos^2(t)) = (cos^'\\y01d7d0' ('\\y01d495'))/(cos^'\\y01d7d0' ('\\y01d495')) + (sin^2(t))/(cos^2(t)) = (cos^2(t)+sin^2(t))/(cos^2(t))
+bb 1+ (sin^2(t))/(cos^2(t)) = (cos^bb 2(bii t))/(cos^bb 2(bii t)) + (sin^2(t))/(cos^2(t)) = (cos^2(t)+sin^2(t))/(cos^2(t))
 (cos^2(t)+sin^2(t))/(cos^2(t)) = 1/(cos^2(t))
 1+tan^2(t) = 1/(cos^2(t)) ,
-[1+tan^2(t), =1+( (sin(t))/(cos(t)) )^2, \ , "Replace\ "tan('\\y01d495')"\by\ " (sin('\\y01d495'))/(cos('\\y01d495')) .], [\ , =1+ (sin^2(t))/(cos^2(t)) , \ , "Square the fraction."], [\ , = (cos^2(t))/(cos^2(t)) + (sin^2(t))/(cos^2(t)) , \ , "Replace 1 by\ " (cos^'\\y01d7d0' ('\\y01d495'))/(cos^'\\y01d7d0' ('\\y01d495')) .], [\ , = (cos^2(t)+sin^2(t))/(cos^2(t)) , \ , "Add fractions."], [\ , =1/(cos^2(t)) , \ , "Apply Pythagorean identity."]
+[1+tan^2(t), =1+( (sin(t))/(cos(t)) )^2, \ , "Replace\ "tan(bii t)"\by\ " (sin(bii t))/(cos(bii t)) .], [\ , =1+ (sin^2(t))/(cos^2(t)) , \ , "Square the fraction."], [\ , = (cos^2(t))/(cos^2(t)) + (sin^2(t))/(cos^2(t)) , \ , "Replace 1 by\ " (cos^bb 2(bii t))/(cos^bb 2(bii t)) .], [\ , = (cos^2(t)+sin^2(t))/(cos^2(t)) , \ , "Add fractions."], [\ , =1/(cos^2(t)) , \ , "Apply Pythagorean identity."]
 \ 2cos^2(x)-1 = 1-2sin^2(x)
 2cos^2(x)-1 = 2(1-sin^2(x)) = 2-2sin^2(x)-1 = 1-2sin^2(x)
 1/x+1/y
@@ -11020,7 +10987,7 @@ x-x/(x+1)
 (1- (x^2)/(y^2) )/(1+ (x^2)/(y^2) )
 ( (2a)/x)/(1- (a^2)/(x^2) )
 (a/x+b/y)/(1- (ab)/(xy) )
-ul( )
+ul\ \
 (x+y)/(xy)
 (x-1)/x
 (2x)/(x^2-1)
@@ -11118,7 +11085,7 @@ sin(varphi) = 1/7\
 \ 90\circ < \ varphi < 180\circ
 cos(t) = (-2)/3\
 \ 180\circ < \ t < 270\circ
-'\\y01d7cf'+tan^'\\y01d7d0' ('\\y01d73d') = '\\y01d7cf'/(cos^'\\y01d7d0' ('\\y01d73d'))
+bb 1+tan^bb 2(bb theta) = bb 1/(cos^bb 2(bb theta))
 tan(theta) = -1/2\
 \ 270\circ < \ theta < 360\circ
 tan(theta) = 2\
@@ -11164,7 +11131,6 @@ x.
 tan(theta)
 x
 y,
-"\\delimitershortfall"-1sp
 bb w
 theta = 29\circ,
 theta
@@ -11218,7 +11184,7 @@ bb v
 theta
 bb v
 bb v = abb i+bbb j,
-['\\y01d482', \ ='\\x002016'bb v'\\x002016'cos('\\y01d73d'), \ , \ , '\\x002016'bb v'\\x002016', \ =sqrt('\\y01d482'^'\\y01d7d0' +'\\y01d483'^'\\y01d7d0' )], ['\\y01d483', \ ='\\x002016'bb v'\\x002016'sin('\\y01d73d'), \ , \ , tan('\\y01d73d'), \ = '\\y01d483'/'\\y01d482' ]
+[bii a, \ ='\\x002016'bb v'\\x002016'cos(bb theta), \ , \ , '\\x002016'bb v'\\x002016', \ =sqrt(bii a^bb 2+bii b^bb 2)], [bii b, \ ='\\x002016'bb v'\\x002016'sin(bb theta), \ , \ , tan(bb theta), \ =bii b/bii a]
 bb w = -3bb i-2bb j.
 theta = 135\circ.
 bb w
@@ -11241,7 +11207,7 @@ bb u,
 bb v = 6bb i+4bb j.
 bb v = abb i+bbb j
 k
-'\\y01d48c'bb v = '\\y01d48c''\\y01d482'bb i+'\\y01d48c''\\y01d483'bb j
+bii kbb v = bii kbii abb i+bii kbii bbb j
 bb v
 bb v = 4bb i-7bb j.
 bb w = -1/2 bb v.
@@ -11287,7 +11253,7 @@ bb u
 bb v.
 bb u = abb i+bbb j
 bb v = cbb i+dbb j,
-bb u+bb v = ('\\y01d482'+'\\y01d484')bb i+('\\y01d483'+'\\y01d485')bb j
+bb u+bb v = (bii a+bii c)bb i+(bii b+bii d)bb j
 260\circ.
 [v_x, =15cos(225\circ)=-10.607], [v_y, =15sin(225\circ)=-10.607], [w_x, =20cos(190\circ)=-19.696], [w_y, =20sin(190\circ)=-3.473]
 bb v = -10.607bb i-10.607bb j\ and\ bb w = -19.696bb i-3.473bb j
@@ -11332,17 +11298,17 @@ bb v = 28bb i-6bb j,
 bb u
 bb v
 bb u+bb v
-'\\y01d7ce',
-'\\x002016''\\y01d7ce''\\x002016' = 0.
+bb 0,
+'\\x002016'bb 0'\\x002016' = 0.
 bb v
 bb v
 -bb v.
-bb v+-bb v = '\\y01d7ce'
-'\\y01d7ce',
+bb v+-bb v = bb 0
+bb 0,
 bb C
 bb C = -bb r = -(bb A+bb B)
 180\circ+46.33\circ = 226.33\circ.
-\ bb u+bb v+bb w = '\\y01d7ce', \
+\ bb u+bb v+bb w = bb 0, \
 bb u = -8bb i+32bb j
 bb v = 14bb i-26bb j.\
 bb w?
@@ -11350,7 +11316,7 @@ bb w = -6bb i-6bb j
 cos alpha = (-2)/(sqrt(5)) , \ 90\circ < alpha < 180\circ.
 cos(alpha+30\circ).
 tan(alpha-30\circ).
-ul( )
+ul\ \
 sin(alpha+beta) = sin(alpha)cos(beta)+cos(alpha)sin(beta)
 cos(alpha+beta) = cos(alpha)cos(beta)-sin(alpha)sin(beta)
 tan(alpha+beta) = (tan(alpha)+tan(beta))/(1tan(alpha)tan(beta))
@@ -11493,12 +11459,12 @@ theta = 315\circ.
 40\circ,
 320\circ,
 250\circ.
-bb F_'\\y01d7cf' = -3bb i+bb j,
-\ bb F_'\\y01d7d0' = 5bb i-2bb j,
-\ bb F_'\\y01d7d1' = -6bb i-4bb j
-bb F_'\\y01d7cf' = 10bb i+4bb j,
-\ bb F_'\\y01d7d0' = -12bb i-9bb j,
-\ bb F_'\\y01d7d1' = -3bb i+5bb j
+bb F_bb 1 = -3bb i+bb j,
+\ bb F_bb 2 = 5bb i-2bb j,
+\ bb F_bb 3 = -6bb i-4bb j
+bb F_bb 1 = 10bb i+4bb j,
+\ bb F_bb 2 = -12bb i-9bb j,
+\ bb F_bb 3 = -3bb i+5bb j
 bb v = 6bb i-8bb j,
 2bb v = 12bb i-16bb j,
 '\\x002016'2bb v'\\x002016' = 2'\\x002016'bb v'\\x002016'.
@@ -11512,9 +11478,8 @@ a
 b
 0,
 bb v/('\\x002016'bb v'\\x002016')
-"\\delimitershortfall"-1sp
-"We can find side"\ '\\y01d483'\ "with the Pythagorean theorem."
-"Can we find side"\ '\\y01d483'?
+"We can find side"\ bii b\ "with the Pythagorean theorem."
+"Can we find side"\ bii b?
 1/2,
 30\circ
 30\circ.
@@ -11537,7 +11502,7 @@ sin(theta) = 4/7,
 sin(theta) = 5/7,
 sin(theta) = 6/7.
 50\circ.
-"Which angle has the larger sine,"\ '\\y01d7d1''\\y01d7ce'\circ\ or\ '\\y01d7d3''\\y01d7ce'\circ?
+"Which angle has the larger sine,"\ bb 3bb 0\circ\ or\ bb 5bb 0\circ?
 50\circ
 30\circ?
 50\circ
@@ -11607,7 +11572,7 @@ theta
 50\circ
 50\circ
 ("opposite")/("hypotenuse")
-"In each triangle, the ratio"\ sin('\\y01d7d3''\\y01d7ce'\circ) = ("opposite")/("hypotenuse") = '\\y01d7ce'.'\\y01d7d5''\\y01d7d4''\\y01d7d4''\\y01d7ce'
+"In each triangle, the ratio"\ sin(bb 5bb 0\circ) = ("opposite")/("hypotenuse") = bb 0.bb 7bb 6bb 6bb 0
 50\circ
 ("opposite")/("hypotenuse")
 50\circ,
@@ -11698,7 +11663,7 @@ h = 16(0.9563) = 15.3008
 1.5
 12/x = 48
 60/x = 80
-ul( )
+ul\ \
 5/2, \ 20/8
 3/4, \ 12/16
 3/5, \ 12/20
@@ -11937,7 +11902,6 @@ tan(theta)
 \
 tan(theta)
 x
-"\\delimitershortfall"-1sp
 sin(X+Y)
 cos^2 theta
 (cos(theta))^2,
@@ -12050,7 +12014,6 @@ cos(x)+sin(x) = 0
 6tan(theta)cos(theta)+6 = 0
 cos^2(t)-sin^2(t) = 1
 5cos^2(beta)-5sin^2(beta) = -5
-"\\delimitershortfall"-1sp
 [5(2+6), =5(2)+5(6)], [sqrt(3^2+4^2), =3+4], [x^2+3x, =10]
 x = 2
 x = -5.
@@ -12058,7 +12021,7 @@ x = -5.
 x = 9.
 \ 2x+root(3)(x-1) = 20.
 x = 9
-[2x+root(3)(x-1), =2('\\y01d7d7')+root(3)('\\y01d7d7'-1)], [\ , =18+root(3)(8)=20]
+[2x+root(3)(x-1), =2(bb 9)+root(3)(bb 9-1)], [\ , =18+root(3)(8)=20]
 x
 2x+root(3)(x-1)
 x = 9,
@@ -12091,7 +12054,7 @@ h = 240,
 theta
 0\circ
 360\circ.
-[139-125cos(theta), =240, \ , "Subtract 139 from both sides."], [-125cos(theta), =101, \ , "Divide both sides by\ "-'\\y01d7cf''\\y01d7d0''\\y01d7d3'.], [cos(theta), =-0.808]
+[139-125cos(theta), =240, \ , "Subtract 139 from both sides."], [-125cos(theta), =101, \ , "Divide both sides by\ "-bb 1bb 2bb 5.], [cos(theta), =-0.808]
 theta.
 0\circ
 360\circ
@@ -12233,14 +12196,14 @@ theta = 42\circ,
 \ theta = 138\circ,
 \ theta = 199\circ\ ,
 \ theta = 341\circ
-(sin('\\y01d73d'_'\\y01d7cf' ))/(sin('\\y01d73d'_'\\y01d7d0' )) = ('\\y01d497'_'\\y01d7cf' )/('\\y01d497'_'\\y01d7d0' )
+(sin(bb theta_bb 1))/(sin(bb theta_bb 2)) = (bii v_bb 1)/(bii v_bb 2)
 theta_1
 v_1,
 theta_2
 v_2.
 23\circ
 theta
-[ (sin(23\circ))/(sin(theta)) , =1.1, \ , "Multiply both sides by"sin('\\y01d73d').], [sin(23\circ), =1.1sin(theta), \ , "Divide both sides by 1.1."], [sin(theta), = (sin(23\circ))/1.1=0.3552]
+[ (sin(23\circ))/(sin(theta)) , =1.1, \ , "Multiply both sides by"sin(bb theta).], [sin(23\circ), =1.1sin(theta), \ , "Divide both sides by 1.1."], [sin(theta), = (sin(23\circ))/1.1=0.3552]
 sin(theta) = 0.3552,
 \ theta = sin^(-1)(0.3552) = 20.8\circ.
 20.8\circ.
@@ -12250,7 +12213,7 @@ sin(theta) = 0.3552,
 [4x^2-5x, =12], [x^2, =3], [x, =sqrt(3)]
 [(2x+1)^2, =4], [2x+1, =2], [2x, =1], [x, =1/2]
 [2x^2-4x, =3], [2x(x-2), =3], [2x=3\ , x-2=3], [x=3/2\ , x=5]
-ul( )
+ul\ \
 x.\ x = 0, 5/3
 \ x = +-sqrt(3)
 \ x = (-3)/2, 1/2
@@ -12368,7 +12331,6 @@ theta
 tan(theta) = k,
 k < 0,
 180\circ.
-"\\delimitershortfall"-1sp
 i?
 \ z = 2+3i\
 \ iz = 2i-3\
@@ -12398,7 +12360,7 @@ theta
 theta = tan^(-1)(1/(sqrt(3)) ) = pi/6
 \ z = 2(cos(pi/6)+isin(pi/6))
 z = a+bi
-'\\y01d49b' = '\\y01d493'(cos('\\y01d73d')+'\\y01d48a'sin('\\y01d73d'))
+bii z = bii r(cos(bb theta)+bii isin(bb theta))
 \ r = sqrt(a^2+b^2)\
 theta
 a = rcos(theta), \ b = rsin(theta), \ 0 <= theta <= 2 pi
@@ -12409,7 +12371,7 @@ w = 2(cos pi/3+isin pi/3)
 [z, =2(cos(pi/6)+isin(pi/6))], [\ , =2( (sqrt(3))/2+i*1/2)=sqrt(3)+i]
 z_1 = r(cos(alpha)+isin(alpha))
 z_2 = R(cos(beta)+isin(beta)),
-'\\y01d49b'_'\\y01d7cf' '\\y01d49b'_'\\y01d7d0' = '\\y01d493''\\y01d479'((cos('\\y01d736'+'\\y01d737')+'\\y01d48a'sin('\\y01d736'+'\\y01d737'))
+bii z_bb 1 bii z_bb 2 = bii rbii R((cos(bb alpha+bb beta)+bii isin(bb alpha+bb beta))
 rR
 alpha+beta.
 z = 2(cos(pi/6)+isin(pi/6))
@@ -12440,7 +12402,7 @@ z = 3sqrt(2)(cos(pi/4)+isin(pi/4)),
 -12i
 z_1 = r(cos(alpha)+isin(alpha))
 z_2 = R((cos beta)+isin(beta)),
-('\\y01d49b'_'\\y01d7cf' )/('\\y01d49b'_'\\y01d7d0' ) = '\\y01d493'/'\\y01d479' (cos('\\y01d736'-'\\y01d737')+'\\y01d48a'sin('\\y01d736'-'\\y01d737'))
+(bii z_bb 1)/(bii z_bb 2) = bii r/bii R(cos(bb alpha-bb beta)+bii isin(bb alpha-bb beta))
 z = 2(cos(pi/6)+isin(pi/6))
 w = 2(cos(pi/3)+isin(pi/3)).
 2/2 = 1,
@@ -12461,7 +12423,7 @@ z^2 = r^2(cos(2 alpha)+isin(2 alpha))
 n,
 z = r(cos(alpha)+isin(alpha))
 n
-'\\y01d49b'^'\\y01d48f' = '\\y01d493'^'\\y01d48f' (cos('\\y01d48f''\\y01d736')+'\\y01d48a'sin('\\y01d48f''\\y01d736'))
+bii z^bii n = bii r^bii n(cos(bii nbb alpha)+bii isin(bii nbb alpha))
 z = sqrt(3)+i
 z = 2(cos(pi/6)+isin(pi/6)),
 [z^4, =2^4(cos(4*pi/6)+isin(4*pi/6))], [\ , =16(cos( (2 pi)/3)+isin( (2 pi)/3))]
@@ -12502,7 +12464,7 @@ z = 8(cos 2 pi+isin 2 pi)\ and\ z = 8(cos 4 pi+isin 4 pi)
 z = r(cos alpha+isin alpha)
 n
 n
-'\\y01d49b'_'\\y01d48c' = '\\y01d493'^('\\y01d7cf'//'\\y01d48f')(cos( ('\\y01d736'+'\\y01d7d0''\\y01d745''\\y01d48c')/'\\y01d48f' )+'\\y01d48a'sin( ('\\y01d736'+'\\y01d7d0''\\y01d745''\\y01d48c')/'\\y01d48f' ))
+bii z_bii k = bii r^(bb 1//bii n)(cos( (bb alpha+bb 2bb pi bii k)/bii n)+bii isin( (bb alpha+bb 2bb pi bii k)/bii n))
 k = 0, \ 1, \ 2, cdots, \ n-1.
 i
 i.
@@ -12519,7 +12481,7 @@ root(3)(z^5)
 root(3)((w-1)^2)
 z^3 root(5)(w^4)
 (a^2)/(root(4)(b^3))
-ul( )
+ul\ \
 a^(1//3)
 n^(-1//4)
 t^(3//4)
@@ -12695,7 +12657,6 @@ z_1 = r(cos(alpha)+isin(alpha))
 z_2 = R(cos(beta)+isin(beta)).
 w = r/R(cos(alpha-beta)+isin(alpha-beta)),
 z_1 = wz_2.
-"\\delimitershortfall"-1sp
 "bb P bb o bb l bb a bb r bb C bb o bb o bb r bb d bb i bb n bb a bb t bb e bb s "
 "bb P bb o bb l bb a bb r bb G bb r bb a bb p bb h bb s "
 "bb C bb o bb m bb p bb l bb e bb x bb N bb u bb m bb b bb e bb r bb s "
@@ -12716,7 +12677,6 @@ y
 c
 "https:////mathigon.org//world//Fractals"
 ["https:////www.mnn.com//earth-matters//wilderness-resources//blogs//"], ["14-amazing-fractals-found-in-nature"]
-"\\delimitershortfall"-1sp
 x
 y
 P(x, y)
@@ -12840,9 +12800,9 @@ tan^(-1)(sqrt(3)) = pi/3,
 (2, -5).
 (5.39, 5.09)
 (r, theta)
-['\\y01d499', \ ='\\y01d493'cos('\\y01d73d')], ['\\y01d49a', \ ='\\y01d493'sin('\\y01d73d')]
+[bii x, \ =bii rcos(bb theta)], [bii y, \ =bii rsin(bb theta)]
 (x, y)
-[\ , '\\y01d493'=sqrt('\\y01d499'^'\\y01d7d0' +'\\y01d49a'^'\\y01d7d0' )], [\ , tan('\\y01d73d')= '\\y01d49a'/'\\y01d499' ]
+[\ , bii r=sqrt(bii x^bb 2+bii y^bb 2)], [\ , tan(bb theta)=bii y/bii x]
 theta
 x
 rcos(theta)
@@ -12885,7 +12845,7 @@ x^2+y^2-4x+2y-4 = 0
 x^2+y^2 = 88+18y
 x^2+y^2+25 = 9-10x-9y
 5y^2 = 85-5x^2-10x
-ul( )
+ul\ \
 (x-2)^2+(y+1)^2 = 3^2
 x^2+(y-9)^2 = 13^2
 (x-5)^2+(y-3)^2 = (3sqrt(2))^2
@@ -12999,8 +12959,6 @@ x^2+y^2 = 4sqrt(x^2+y^2)
 (x^2+y^2)^3 = 9x^2 y^2
 d = sqrt(r_1^2+r_2^2-2r_1 r_2 cos(theta_2-theta_1))
 r = acos theta+bsin theta
-"\\delimitershortfall"-1sp
-"\\delimitershortfall"-1sp
 bar z
 pi
 theta
@@ -13014,8 +12972,6 @@ theta
 (theta)
 theta
 \ ^(-1)
-"\\delimitershortfall"-1sp
-"\\delimitershortfall"-1sp
 360\circ,
 180\circ
 90\circ
@@ -13116,7 +13072,7 @@ x-8 = 19-2x
 9+9x = -7+x
 [5x-2y, =-13, \ , \ ], [2x+3y, =-9, \ , \ ], [\ ]
 [4x+3y, =9, \ , \ ], [3x+2y, =8, \ , \ ]
-ul( )
+ul\ \
 9
 7
 -3
@@ -13162,7 +13118,6 @@ theta
 ABCD
 /_AQD = 130\circ.
 /_AOB = 140\circ.
-"\\delimitershortfall"-1sp
 y = sin(x).
 f(x) = sin(x)
 g(x) = sin(x-pi/4)
@@ -13235,23 +13190,23 @@ x+pi/3
 cos(x+pi/3)
 y = cos(x+pi/3)
 \
-'\\y01d7ce'
+bb 0
 \
 \
 \
-'\\y01d745'/'\\y01d7d0'
+bb pi/bb 2
 \
 \
 \
-'\\y01d745'
+bb pi
 \
 \
 \
-('\\y01d7d1''\\y01d745')/'\\y01d7d0'
+(bb 3bb pi)/bb 2
 \
 \
 \
-'\\y01d7d0''\\y01d745'
+bb 2bb pi
 \
 \
 x
@@ -13371,7 +13326,7 @@ f(x) = sin[2(x-pi/3)]
 pi/3
 g(x)
 g(x) = sin(2x-pi/3) = sin[2(x-pi/6)]
-'\\y01d49a' = '\\y01d468'sin('\\y01d469'('\\y01d499'-'\\y01d489'))+'\\y01d48c'\ and\ '\\y01d49a' = '\\y01d468'cos('\\y01d469'('\\y01d499'-'\\y01d489'))+'\\y01d48c'
+bii y = bii Asin(bii B(bii x-bii h))+bii k\ and\ bii y = bii Acos(bii B(bii x-bii h))+bii k
 |A|.
 y = k.
 (2 pi)/(|B|) , \ B != 0.
@@ -13526,7 +13481,7 @@ f(x) = 1/x, \ g(x) = f(x+1)
 f(x) = 1/(x^2) , \ g(x) = f(x-1)
 f(x) = |x|, \ g(x) = f(x-3)
 f(x) = 2^x, \ g(x) = f(x+3)
-ul( )
+ul\ \
 g(x) = (x-2)^2
 g(x) = sqrt(x+4)
 g(x) = 1/(x+1)
@@ -14131,11 +14086,9 @@ V(t)
 -3
 -0.17
 1
-"\\delimitershortfall"-1sp
 "bb A bb l bb g bb e bb b bb r bb a bb w bb i bb t bb h bb T bb r bb i bb g bb o bb n bb o bb m bb e bb t bb r bb i bb c bb R bb a bb t bb i bb o bb s "
 "bb S bb o bb l bb v bb i bb n bb g bb E bb q bb u bb a bb t bb i bb o bb n bb s "
 "bb T bb r bb i bb g bb o bb n bb o bb m bb e bb t bb r bb i bb c bb I bb d bb e bb n bb t bb i bb t bb i bb e bb s "
-"\\delimitershortfall"-1sp
 A
 B,
 C.
@@ -14215,7 +14168,6 @@ D?
 Delta ABD,
 C
 D
-"\\delimitershortfall"-1sp
 r = sqrt(x^2+y^2).
 theta
 (x, y)
@@ -14435,7 +14387,6 @@ y = sin theta
 theta
 y = sin theta
 y = tan theta
-"\\delimitershortfall"-1sp
 30\circ
 30\circ
 180\circ
@@ -14465,11 +14416,11 @@ bb w
 bb v
 (-4, 2).
 bb w
-bb v = '\\y01d7d1'bb w.
+bb v = bb 3bb w.
 bb v
 bb w.
 180\circ.
-bb u = - '\\y01d7cf'/'\\y01d7d0'bb w.
+bb u = -bb 1/bb 2 bb w.
 bb w,
 k
 kbb v
@@ -14666,7 +14617,7 @@ a = ?
 C = 87\circ, \ b = 11\ "inches", \ c = 13\ "inches", \ B = ?
 A = 37\circ, \ b = 6, \ c = 14\ , a = ?
 a = 9, \ b = 4, \ c = 7, \ B = ?
-ul( )
+ul\ \
 (sin A)/a = (sin B)/b,
 b/(sin B) = c/(sin C)
 a^2 = b^2+c^2-2bccos A,
@@ -14783,19 +14734,16 @@ bb A
 bb z,
 bb y,
 bb B
-"\\delimitershortfall"-1sp
 "bb A bb r bb c bb l bb e bb n bb g bb t bb h bb a bb n bb d bb R bb a bb d bb i bb a bb n bb s "
 "bb C bb i bb r bb c bb u bb l bb a bb r bb F bb u bb n bb c bb t bb i bb o bb n bb s "
 "bb G bb r bb a bb p bb h bb s bb o bb f bb t bb h bb e bb C bb i bb r bb c bb u bb l bb a bb r bb F bb u bb n bb c bb t bb i bb o bb n bb s "
-'\\y01d745'
+bb pi
 2 pi
 2 pi
 pi
-"\\delimitershortfall"-1sp
 "bb G bb e bb o bb m bb e bb t bb r bb i bb c bb F bb o bb r bb m "
 "bb C bb o bb o bb r bb d bb i bb n bb a bb t bb e bb F bb o bb r bb m "
 "bb T bb h bb e bb D bb o bb t bb P bb r bb o bb d bb u bb c bb t "
-"\\delimitershortfall"-1sp
 0.
 -7
 7.
@@ -15205,7 +15153,6 @@ y
 y
 0,
 0.
-"\\delimitershortfall"-1sp
 f(x) = 2sin(x)
 g(x) = 0.5sin(x)
 y = sin(x).
@@ -15233,15 +15180,15 @@ y = 0
 f
 0
 2 pi
-f(x) = cos('\\y01d7d0'x)
-(2 pi)/'\\y01d7d0' = pi.
+f(x) = cos(bb 2x)
+(2 pi)/bb 2 = pi.
 g(x) = cos(1/3 x)
 y = cos(x)
 0 <= x <= 6 pi.
-g(x) = cos( '\\y01d7cf'/'\\y01d7d1'x)
+g(x) = cos(bb 1/bb 3 x)
 0
 6 pi.
-(2 pi)/( '\\y01d7cf'/'\\y01d7d1' ) = 6 pi.
+(2 pi)/(bb 1/bb 3) = 6 pi.
 y = cos(Bt)
 (2 pi)/(|B|) ,
 y = sin(Bt).
@@ -15267,8 +15214,8 @@ y
 y = sin(x).
 f(x) = 2+sin(x)
 y = sin(x).
-f(x) = '\\y01d7d0'+sin(x)
-y = '\\y01d7d0'.
+f(x) = bb 2+sin(x)
+y = bb 2.
 g(x) = -3+cos(x)
 y = cos(x).
 g
@@ -15291,27 +15238,27 @@ cos(4t)
 3cos(4t)
 y = 2+cos(4t)
 \
-'\\y01d7ce'
+bb 0
 1
 \
 \
 \
-'\\y01d745'/'\\y01d7d0'
+bb pi/bb 2
 0
 \
 \
 \
-'\\y01d745'
+bb pi
 -1
 \
 \
 \
-('\\y01d7d1''\\y01d745')/'\\y01d7d0'
+(bb 3bb pi)/bb 2
 0
 \
 \
 \
-'\\y01d7d0''\\y01d745'
+bb 2bb pi
 1
 \
 \
@@ -15324,31 +15271,31 @@ t
 cos(4t)
 3cos(4t)
 y = 2+cos(4t)
-'\\y01d7ce'
+bb 0
 0
 1
 3
-'\\y01d7d3'
-'\\y01d745'/'\\y01d7d6'
+bb 5
+bb pi/bb 8
 pi/2
 0
 0
-'\\y01d7d0'
-'\\y01d745'/'\\y01d7d2'
+bb 2
+bb pi/bb 4
 pi
 -1
 -3
--'\\y01d7cf'
-('\\y01d7d1''\\y01d745')/'\\y01d7d6'
+-bb 1
+(bb 3bb pi)/bb 8
 (3 pi)/2
 0
 0
-'\\y01d7d0'
-'\\y01d745'/'\\y01d7d0'
+bb 2
+bb pi/bb 2
 2 pi
 1
 3
-'\\y01d7d3'
+bb 5
 t = 0
 t = pi/2,
 pi/2.
@@ -15361,23 +15308,23 @@ sin(t/3)
 -2sin(t/3)
 y = 4-2sin(t/3)
 \
-'\\y01d7ce'
+bb 0
 \
 \
 \
-'\\y01d745'/'\\y01d7d0'
+bb pi/bb 2
 \
 \
 \
-'\\y01d745'
+bb pi
 \
 \
 \
-('\\y01d7d1''\\y01d745')/'\\y01d7d0'
+(bb 3bb pi)/bb 2
 \
 \
 \
-'\\y01d7d0''\\y01d745'
+bb 2bb pi
 \
 \
 \
@@ -15435,23 +15382,23 @@ x
 tan(2x)
 1+3tan(2x)
 0
-'\\y01d7ce'
+bb 0
 0
 1
 pi/8
-'\\y01d745'/'\\y01d7d2'
+bb pi/bb 4
 1
 4
 pi/4
-'\\y01d745'/'\\y01d7d0'
+bb pi/bb 2
 ---
 ---
 (3 pi)/8
-('\\y01d7d1''\\y01d745')/'\\y01d7d2'
+(bb 3bb pi)/bb 4
 -1
 -2
 pi/2
-'\\y01d745'
+bb pi
 0
 1
 y = Atan(Bx)+k = 3tan(2x)+1
@@ -15513,7 +15460,7 @@ x+pi/3
 \
 \
 \
-ul( )
+ul\ \
 t
 0
 pi/2
@@ -15842,7 +15789,6 @@ G(x) = -1+3cos(3x)
 -1+3cos(3x) = 1
 F(x) = 4-3sin(2x)
 4-3sin(2x) = 2.5
-"\\delimitershortfall"-1sp
 "bb A bb n bb g bb l bb e bb s bb a bb n bb d bb T bb r bb i bb a bb n bb g bb l bb e bb s "
 "bb S bb i bb m bb i bb l bb a bb r bb T bb r bb i bb a bb n bb g bb l bb e bb s "
 "bb C bb i bb r bb c bb l bb e bb s "
@@ -15877,8 +15823,6 @@ a = sqrt(8),
 a = (sqrt(3))/2,
 \ b = 1/2,
 \ c = 1
-"\\delimitershortfall"-1sp
-"\\delimitershortfall"-1sp
 f(x) = x^2-2x+2
 x
 \ x^2-2x+2-0\
@@ -15891,14 +15835,14 @@ sqrt(-4)
 i
 -1.
 i
-'\\y01d48a'^'\\y01d7d0' = -'\\y01d7cf'\ or\ '\\y01d48a' = sqrt(-'\\y01d7cf')
+bii i^bb 2 = -bb 1\ or\ bii i = sqrt(-bb 1)
 i
 i
 [sqrt(-4), =sqrt(-1*4)], [\ , =sqrt(-1)sqrt(4)=i*2]
 sqrt(-4) = 2i.
 i
 a > 0,
-sqrt(-'\\y01d482') = sqrt(-'\\y01d7cf')sqrt('\\y01d482') = '\\y01d48a'sqrt('\\y01d482')
+sqrt(-bii a) = sqrt(-bb 1)sqrt(bii a) = bii isqrt(bii a)
 3i, \ 7/8 i, \ -38i,
 isqrt(5).
 sqrt(-25)
@@ -15919,7 +15863,7 @@ sqrt(-16)
 x = (2+-4i)/2 = 1+-2i
 1+2i
 1-2i.
-'\\y01d49b' = '\\y01d482'+'\\y01d483''\\y01d48a'
+bii z = bii a+bii bbii i
 a
 b
 3-5i, \ 2+sqrt(7)i, \ (4-i)/3, \ 6i, \ and\ -9
@@ -15943,8 +15887,8 @@ x = (-1)/2+-3/2 i
 [(4+5i)+(2-3i), =(4+2)+(5-3)i], [\ , =6+2i]
 z_1 = a+bi
 z_2 = c+di
-'\\y01d49b'_'\\y01d7cf' +'\\y01d49b'_'\\y01d7d0' = ('\\y01d482'+'\\y01d483''\\y01d48a')+('\\y01d484'+'\\y01d485''\\y01d48a') = ('\\y01d482'+'\\y01d484')+('\\y01d483'+'\\y01d485')'\\y01d48a'
-'\\y01d49b'_'\\y01d7cf' -'\\y01d49b'_'\\y01d7d0' = ('\\y01d482'+'\\y01d483''\\y01d48a')-('\\y01d484'+'\\y01d485''\\y01d48a') = ('\\y01d482'-'\\y01d484')+('\\y01d483'-'\\y01d485')'\\y01d48a'
+bii z_bb 1+bii z_bb 2 = (bii a+bii bbii i)+(bii c+bii dbii i) = (bii a+bii c)+(bii b+bii d)bii i
+bii z_bb 1-bii z_bb 2 = (bii a+bii bbii i)-(bii c+bii dbii i) = (bii a-bii c)+(bii b-bii d)bii i
 (8-6i)-(5+2i).
 [(8-6i)-(5+2i), =(8-5)+(-6-2)i], [\ , =3+(-8)i=3-8i]
 (-3+2i)-(-3-2i)
@@ -15963,7 +15907,7 @@ i^2 = -1,
 13
 z_1 = a+bi
 z_2 = c+di
-'\\y01d49b'_'\\y01d7cf' '\\y01d49b'_'\\y01d7d0' = ('\\y01d482'+'\\y01d483''\\y01d48a')('\\y01d484'+'\\y01d485''\\y01d48a') = ('\\y01d482''\\y01d484'-'\\y01d483''\\y01d485')+('\\y01d482''\\y01d485'+'\\y01d483''\\y01d484')'\\y01d48a'
+bii z_bb 1 bii z_bb 2 = (bii a+bii bbii i)(bii c+bii dbii i) = (bii abii c-bii bbii d)+(bii abii d+bii bbii c)bii i
 sqrt(ab) = sqrt(a)sqrt(b).
 a
 b
@@ -15975,7 +15919,7 @@ sqrt(ab) != sqrt(a)sqrt(b).
 i
 i = sqrt(-1)
 i
-[ ((3+4i)*i)/(2i*i) , = (3i+4i^2)/(2i^2) , \ , "Apply the distributive law."], [\ , = (3i-4)/(-2) , \ , "Recall that\ "'\\y01d48a'^'\\y01d7d0' =-'\\y01d7cf'.]
+[ ((3+4i)*i)/(2i*i) , = (3i+4i^2)/(2i^2) , \ , "Apply the distributive law."], [\ , = (3i-4)/(-2) , \ , "Recall that\ "bii i^bb 2=-bb 1.]
 a+bi,
 -2
 (3i)/(-2) -4/(-2) = (-3)/2 i+2
@@ -15985,7 +15929,7 @@ a+bi,
 5/(2+sqrt(3)) ,
 2-sqrt(3).
 z = a+bi,
-bar'\\y01d49b' = '\\y01d482'-'\\y01d483''\\y01d48a'
+bar bii z = bii a-bii bbii i
 z.
 z bar z = (a+bi)(a-bi) = a^2-b^2 i^2 = a^2-b^2(-1) = a^2+b^2
 5/(2+3i) .
@@ -15995,13 +15939,13 @@ z bar z = (a+bi)(a-bi) = a^2-b^2 i^2 = a^2-b^2(-1) = a^2+b^2
 5/(2+3i) * (2-3i)/(2-3i) = (10-15i)/13 = 10/13-15/13 i
 (2+3i)/(4-2i) .
 4+2i,
-[ (2+3i)/(4-2i) , = ((2+3i)('\\y01d7d2'+'\\y01d7d0''\\y01d48a'))/((4-2i)('\\y01d7d2'+'\\y01d7d0''\\y01d48a')) , \ , \ ["Expand numerator\ "], ["and denominator."]], [\ , = (8+4i+12i+6i^2)/(16+8i-8i-4i^2) , \ , "\Replace\ "\ '\\y01d48a'^'\\y01d7d0' \ "by"\ -'\\y01d7cf'.], [\ , = (8+16i-6)/(16-(-4)) , \ , "\Combine like terms."], [\ , = (2+16i)/20, \ , \ ["Divide 20 into each term"], ["\of numerator."]], [\ , =2/20+ (16i)/20=1/10+4/5 i]
+[ (2+3i)/(4-2i) , = ((2+3i)(bb 4+bb 2bii i))/((4-2i)(bb 4+bb 2bii i)) , \ , \ ["Expand numerator\ "], ["and denominator."]], [\ , = (8+4i+12i+6i^2)/(16+8i-8i-4i^2) , \ , "\Replace\ "\ bii i^bb 2\ "by"\ -bb 1.], [\ , = (8+16i-6)/(16-(-4)) , \ , "\Combine like terms."], [\ , = (2+16i)/20, \ , \ ["Divide 20 into each term"], ["\of numerator."]], [\ , =2/20+ (16i)/20=1/10+4/5 i]
 (4-2i)/(1+i)
 a+bi.
 1-3i
 z_1 = a+bi
 z_2 = c+di
-('\\y01d49b'_'\\y01d7cf' )/('\\y01d49b'_'\\y01d7d0' ) = ('\\y01d482'+'\\y01d483''\\y01d48a')/('\\y01d484'+'\\y01d485''\\y01d48a') = ('\\y01d482'+'\\y01d483''\\y01d48a')/('\\y01d484'+'\\y01d485''\\y01d48a') * ('\\y01d484'-'\\y01d485''\\y01d48a')/('\\y01d484'-'\\y01d485''\\y01d48a') = ('\\y01d482''\\y01d484'+'\\y01d483''\\y01d485')/('\\y01d484'^'\\y01d7d0' +'\\y01d485'^'\\y01d7d0' ) + ('\\y01d483''\\y01d484'-'\\y01d482''\\y01d485')/('\\y01d484'^'\\y01d7d0' +'\\y01d485'^'\\y01d7d0' ) '\\y01d48a'
+(bii z_bb 1)/(bii z_bb 2) = (bii a+bii bbii i)/(bii c+bii dbii i) = (bii a+bii bbii i)/(bii c+bii dbii i) * (bii c-bii dbii i)/(bii c-bii dbii i) = (bii abii c+bii bbii d)/(bii c^bb 2+bii d^bb 2) + (bii bbii c-bii abii d)/(bii c^bb 2+bii d^bb 2) bii i
 a+bi
 a
 b
@@ -16023,7 +15967,7 @@ z = 2-6i.
 |z|.
 z = a+bi,
 z = a+bi
-|'\\y01d49b'| = sqrt('\\y01d482'^'\\y01d7d0' +'\\y01d483'^'\\y01d7d0' )
+|bii z| = sqrt(bii a^bb 2+bii b^bb 2)
 z = 2+3i
 |z| = sqrt(2^2+3^2) = sqrt(13)
 |z| = 4.
@@ -16076,7 +16020,7 @@ z bar z
 z = a+bi, \ b != 0,
 p(x)
 bar z = a-bi
-'\\y01d491'('\\y01d499') = ('\\y01d499'-'\\y01d49b')('\\y01d499'-bar'\\y01d49b' ) = '\\y01d499'^'\\y01d7d0' -('\\y01d49b'+bar'\\y01d49b' )'\\y01d499'+'\\y01d49b'bar'\\y01d49b'
+bii p(bii x) = (bii x-bii z)(bii x-bar bii z) = bii x^bb 2-(bii z+bar bii z)bii x+bii z bar bii z
 z = 7-5i.
 (z+bar z)
 z bar z.
@@ -16138,7 +16082,7 @@ x^2+4x = 12
 2(x-3)^2 = 8
 3x^2-8 = 10x
 x^2-3x+1 = 0
-ul( )
+ul\ \
 0, \ 2
 (+-3)/4
 -6, \ 2
@@ -16281,12 +16225,11 @@ w = t+z,
 5-4i, \ -i
 1/2- (sqrt(3))/2 i, \ 3+2i
 - (sqrt(2))/2+ (sqrt(2))/2 i, \ 4-i
-"\\delimitershortfall"-1sp
 theta = 0\circ, \ 90\circ, \ 180\circ,
 270\circ.
 p = 0, \ p = 25, \ p = 50, \ and\ p = 75.
 t = 0, \ t = 2, \ t = 4, \ and\ t = 6
-'\\y01d46a' = '\\y01d7d0''\\y01d745''\\y01d493'
+bii C = bb 2bb pi bii r
 2 pi
 45\circ
 1/8
@@ -16302,7 +16245,7 @@ s
 A
 C,
 s = 3/4(2 pi r) = (3 pi)/2 r
-"bb A bb r bb c bb l bb e bb n bb g bb t bb h "\ = \ ("bb f bb r bb a bb c bb t bb i bb o bb n bb o bb f bb o bb n bb e bb r bb e bb v bb o bb l bb u bb t bb i bb o bb n ")*('\\y01d7d0''\\y01d745''\\y01d493')
+"bb A bb r bb c bb l bb e bb n bb g bb t bb h "\ = \ ("bb f bb r bb a bb c bb t bb i bb o bb n bb o bb f bb o bb n bb e bb r bb e bb v bb o bb l bb u bb t bb i bb o bb n ")*(bb 2bb pi bii r)
 C = 2 pi(100) = 628\ "feet"
 s = 0, \ s = 157, \ s = 314, \ and\ s = 471,
 120\circ
@@ -16314,9 +16257,9 @@ s = 1/3(2 pi*12) = (2 pi)/3*12 = 8 pi\ "cm"
 150\circ?
 261.8
 "bb A bb r bb c bb l bb e bb n bb g bb t bb h "\ = \ ("bb f bb r bb a bb c bb t bb i bb o bb n bb o bb f bb o bb n bb e bb r bb e bb v bb o bb l bb u bb t bb i bb o bb n ")*(2 pi r)
-"bb A bb r bb c bb l bb e bb n bb g bb t bb h "\ = \ ("bb f bb r bb a bb c bb t bb i bb o bb n bb o bb f bb o bb n bb e bb r bb e bb v bb o bb l bb u bb t bb i bb o bb n " xx'\\y01d7d0''\\y01d745')*'\\y01d493'
+"bb A bb r bb c bb l bb e bb n bb g bb t bb h "\ = \ ("bb f bb r bb a bb c bb t bb i bb o bb n bb o bb f bb o bb n bb e bb r bb e bb v bb o bb l bb u bb t bb i bb o bb n " xx bb 2bb pi)*bii r
 xx 2 pi
-("bb f bb r bb a bb c bb t bb i bb o bb n bb o bb f bb o bb n bb e bb r bb e bb v bb o bb l bb u bb t bb i bb o bb n " xx'\\y01d7d0''\\y01d745')
+("bb f bb r bb a bb c bb t bb i bb o bb n bb o bb f bb o bb n bb e bb r bb e bb v bb o bb l bb u bb t bb i bb o bb n " xx bb 2bb pi)
 360\circ,
 2 pi
 90\circ,
@@ -16368,19 +16311,19 @@ pi/3 ~~ 1.047
 135\circ
 (180\circ)/pi
 pi/(180\circ)
-('\\y01d7cf''\\y01d7d6''\\y01d7ce'\circ)/('\\y01d745'\ "radians") = '\\y01d7cf'
-'\\y01d7cf'\ "radian" = ('\\y01d7cf''\\y01d7d6''\\y01d7ce'\circ)/'\\y01d745' ~~ '\\y01d7d3''\\y01d7d5'.'\\y01d7d1'\circ
+(bb 1bb 8bb 0\circ)/(bb pi\ "radians") = bb 1
+bb 1\ "radian" = (bb 1bb 8bb 0\circ)/bb pi ~~ bb 5bb 7.bb 3\circ
 1\circ
 60\circ,
 theta.
-"bb A bb r bb c bb l bb e bb n bb g bb t bb h "\ = \ ("bb f bb r bb a bb c bb t bb i bb o bb n bb o bb f bb o bb n bb e bb r bb e bb v bb o bb l bb u bb t bb i bb o bb n " xx'\\y01d7d0''\\y01d745')*'\\y01d493'
+"bb A bb r bb c bb l bb e bb n bb g bb t bb h "\ = \ ("bb f bb r bb a bb c bb t bb i bb o bb n bb o bb f bb o bb n bb e bb r bb e bb v bb o bb l bb u bb t bb i bb o bb n " xx bb 2bb pi)*bii r
 xx 2 pi,
 theta
 s.
 r,
 s
 theta
-'\\y01d494' = '\\y01d493''\\y01d73d'
+bii s = bii rbb theta
 s = r theta = 6(2.5) = 15\ "inches"
 theta = s/r
 57.3\circ.
@@ -16400,7 +16343,7 @@ s = theta.
 (1\ "acre")/(0.405\ "hectare") = 1
 (1\ "horsepower")/(746\ "watts") = 1
 (1\ "troy ounce")/(480\ "grains") = 1
-ul( )
+ul\ \
 16.09
 31.08
 16.2
@@ -16630,7 +16573,6 @@ s,
 "(the fraction of a revolution)" xx "(circumference of the circle)"
 A,
 "(the fraction of a revolution)" xx "(area of the circle)"
-"\\delimitershortfall"-1sp
 sin^(-1),
 cos^(-1),
 tan^(-1)
@@ -16682,8 +16624,8 @@ g(x) = root(3)(x)
 f(x) = x^3
 x
 y
-[y, =x^3, \ , "Interchange\ "'\\y01d499'"\and\ "'\\y01d49a'.], [x, =y^3, \ , "Solve for\ "'\\y01d49a'.], [y, =root(3)(x), \ , "A formula for the inverse function."]
-'\\y01d487'^(-'\\y01d7cf')('\\y01d499')
+[y, =x^3, \ , "Interchange\ "bii x"\and\ "bii y.], [x, =y^3, \ , "Solve for\ "bii y.], [y, =root(3)(x), \ , "A formula for the inverse function."]
+bii f^(-bb 1)(bii x)
 f(x) = x^3
 f^(-1)(x) = root(3)(x).
 f^(-1)(x)
@@ -16779,7 +16721,7 @@ y = sin^(-1)(x),
 -1 <= x <= 1,
 (-pi)/2 <= y <= pi/2.
 f(x) = sin^(-1)(x)
-sin^(-'\\y01d7cf')('\\y01d499') = '\\y01d73d'\ "if and only if"\ sin('\\y01d73d') = '\\y01d499'\ and\ (-'\\y01d745')/'\\y01d7d0' <= '\\y01d73d' <= '\\y01d745'/'\\y01d7d0'
+sin^(-bb 1)(bii x) = bb theta\ "if and only if"\ sin(bb theta) = bii x\ and\ (-bb pi)/bb 2 <= bb theta <= bb pi/bb 2
 sin^(-1)(x)
 (-pi)/2
 pi/2
@@ -16805,8 +16747,8 @@ pi/3.
 theta = (-pi)/3,
 sin^(-1)( (-sqrt(3))/2) = (-pi)/3.
 sin^(-1)(sin(pi)) != pi
-sin('\\y01d745') = '\\y01d7ce',
-sin^(-1)(sin('\\y01d745')) = sin^(-1)('\\y01d7ce').
+sin(bb pi) = bb 0,
+sin^(-1)(sin(bb pi)) = sin^(-1)(bb 0).
 (-pi)/2 <= theta <= pi/2.
 sin^(-1)(sin(pi)) = 0.
 sin(pi) = 0,
@@ -16820,7 +16762,7 @@ theta = 0
 y
 0 <= theta <= pi,
 f(x) = cos^(-1)(x)
-cos^(-'\\y01d7cf')('\\y01d499') = '\\y01d73d'\ "if and only if"\ cos('\\y01d73d') = '\\y01d499'\ and\ '\\y01d7ce' <= '\\y01d73d' <= '\\y01d745'
+cos^(-bb 1)(bii x) = bb theta\ "if and only if"\ cos(bb theta) = bii x\ and\ bb 0 <= bb theta <= bb pi
 0 <= y <= pi,
 cos^(-1)( (-sqrt(3))/2)
 cos^(-1)[cos( (7 pi)/4)]
@@ -16843,7 +16785,7 @@ x
 (-pi)/2 < theta < pi/2,
 (-pi)/2 < y < pi/2.
 f(x) = tan^(-1)(x)
-tan^(-'\\y01d7cf')('\\y01d499') = '\\y01d73d'\ "if and only if"\ tan('\\y01d73d') = '\\y01d499'\ and\ (-'\\y01d745')/'\\y01d7d0' < '\\y01d73d' < '\\y01d745'/'\\y01d7d0'
+tan^(-bb 1)(bii x) = bb theta\ "if and only if"\ tan(bb theta) = bii x\ and\ (-bb pi)/bb 2 < bb theta < bb pi/bb 2
 tan^(-1)(-sqrt(3))
 tan^(-1)[tan( (7 pi)/4)]
 tan^(-1)(-sqrt(3))
@@ -16956,7 +16898,7 @@ F(x) = 2+1/x
 G(x) = 1/(x+5)
 h(x) = sqrt(x+2)
 H(x) = 3+root(3)(x)
-ul( )
+ul\ \
 f^(-1)(x) = 2x+8
 (-oo, oo)
 (-oo, oo)
@@ -17249,8 +17191,7 @@ x
 y
 x = t,
 0 <= t <= 1.
-"\\delimitershortfall"-1sp
-[\ , "Pythagorean identity", \ , sin^'\\y01d7d0' ('\\y01d73d')+cos^'\\y01d7d0' ('\\y01d73d')='\\y01d7cf'], [\ , "Tangent identity", \ , tan('\\y01d73d')= (sin('\\y01d73d'))/(cos('\\y01d73d')) ]
+[\ , "Pythagorean identity", \ , sin^bb 2(bb theta)+cos^bb 2(bb theta)=bb 1], [\ , "Tangent identity", \ , tan(bb theta)= (sin(bb theta))/(cos(bb theta)) ]
 27\circ,
 2(27\circ) = 54\circ
 cos(alpha)
@@ -17284,8 +17225,8 @@ sin(alpha)+sin(beta).
 alpha+beta
 alpha
 beta,
-cos('\\y01d736'+'\\y01d737') = cos('\\y01d736')cos('\\y01d737')-sin('\\y01d736')sin('\\y01d737')
-sin('\\y01d736'+'\\y01d737') = sin('\\y01d736')cos('\\y01d737')+cos('\\y01d736')sin('\\y01d737')
+cos(bb alpha+bb beta) = cos(bb alpha)cos(bb beta)-sin(bb alpha)sin(bb beta)
+sin(bb alpha+bb beta) = sin(bb alpha)cos(bb beta)+cos(bb alpha)sin(bb beta)
 alpha+beta
 alpha
 beta.
@@ -17324,11 +17265,11 @@ sin(-theta)
 sin(theta)?
 f(theta) = cos(theta).
 f(theta) = tan(theta).
-sin(-theta) =
-cos(-theta) =
-tan(-theta) =
-cos('\\y01d736'-'\\y01d737') = cos('\\y01d736')cos('\\y01d737')+sin('\\y01d736')sin('\\y01d737')
-sin('\\y01d736'-'\\y01d737') = sin('\\y01d736')cos('\\y01d737')-cos('\\y01d736')sin('\\y01d737')
+sin(-theta) = \ \
+cos(-theta) = \ \
+tan(-theta) = \ \
+cos(bb alpha-bb beta) = cos(bb alpha)cos(bb beta)+sin(bb alpha)sin(bb beta)
+sin(bb alpha-bb beta) = sin(bb alpha)cos(bb beta)-cos(bb alpha)sin(bb beta)
 pi/12 = pi/4-pi/6
 cos(pi/12)
 cos(pi/4) = (sqrt(2))/2, \ cos(pi/6) = (sqrt(3))/2, \ sin(pi/4) = (sqrt(2))/2,
@@ -17338,18 +17279,18 @@ cos(pi/12)
 (sqrt(6)+sqrt(2))/4.
 sin(pi/12)
 (sqrt(3)-1)/(2sqrt(2)) = (sqrt(6)-sqrt(2))/4
-tan('\\y01d736'+'\\y01d737') = (tan('\\y01d736')+tan('\\y01d737'))/('\\y01d7cf'-tan('\\y01d736')tan('\\y01d737'))
-tan('\\y01d736'-'\\y01d737') = (tan('\\y01d736')-tan('\\y01d737'))/('\\y01d7cf'+tan('\\y01d736')tan('\\y01d737'))
+tan(bb alpha+bb beta) = (tan(bb alpha)+tan(bb beta))/(bb 1-tan(bb alpha)tan(bb beta))
+tan(bb alpha-bb beta) = (tan(bb alpha)-tan(bb beta))/(bb 1+tan(bb alpha)tan(bb beta))
 tan(75\circ).
 75\circ = 45\circ+30\circ,
 tan(75\circ) = tan(45\circ+30\circ).
-[tan(45\circ+30\circ), = (tan(45\circ)+tan(30\circ))/(1-tan(45\circ)tan(30\circ)) ], [\ , = (1+1/(sqrt(3)) )/(1-1(1/(sqrt(3)) )) * (sqrt('\\y01d7d1'))/(sqrt('\\y01d7d1')) = (sqrt(3)+1)/(sqrt(3)-1) ]
+[tan(45\circ+30\circ), = (tan(45\circ)+tan(30\circ))/(1-tan(45\circ)tan(30\circ)) ], [\ , = (1+1/(sqrt(3)) )/(1-1(1/(sqrt(3)) )) * (sqrt(bb 3))/(sqrt(bb 3)) = (sqrt(3)+1)/(sqrt(3)-1) ]
 tan(pi/12)
 (sqrt(3)-1)/(sqrt(3)+1)
 alpha = beta = theta
-cos('\\y01d7d0''\\y01d73d') = cos^'\\y01d7d0' ('\\y01d73d')-sin^'\\y01d7d0' ('\\y01d73d')
-sin('\\y01d7d0''\\y01d73d') = '\\y01d7d0'sin('\\y01d73d')cos('\\y01d73d')
-tan('\\y01d7d0''\\y01d73d') = ('\\y01d7d0'tan('\\y01d73d'))/('\\y01d7cf'-tan^'\\y01d7d0' ('\\y01d73d'))
+cos(bb 2bb theta) = cos^bb 2(bb theta)-sin^bb 2(bb theta)
+sin(bb 2bb theta) = bb 2sin(bb theta)cos(bb theta)
+tan(bb 2bb theta) = (bb 2tan(bb theta))/(bb 1-tan^bb 2(bb theta))
 sin(2 theta)
 2sin(theta)!
 theta,
@@ -17372,7 +17313,7 @@ theta
 cos(2 theta) = 5/13, \ tan(2 theta) = 12/5
 cos(2 varphi)
 a.
-[a^2+b^2, =3^2, \ , "Solve for"\ '\\y01d483'.], [b, =sqrt(9-a^2)]
+[a^2+b^2, =3^2, \ , "Solve for"\ bii b.], [b, =sqrt(9-a^2)]
 varphi.
 cos(varphi) = a/3\ and\ sin(varphi) = (sqrt(9-a^2))/3
 [cos(2 varphi), =cos^2(varphi)-sin^2(varphi)], [\ , =(a/3)^2-( (sqrt(9-a^2))/3)^2], [\ , = (a^2)/9- (9-a^2)/9= (a^2-9)/9]
@@ -17381,7 +17322,7 @@ tan(2 varphi).
 sin(2 varphi) = (2asqrt(9-a^2))/9, \ tan(2 varphi) = (2asqrt(9-a^2))/(2a^2-9)
 [cos(2 theta), =cos^2(theta)-sin^2(theta)], [\ , =cos^2(theta)-(1-cos^2(theta))], [\ , =2cos^2(theta)-1]
 [cos(2 theta), =cos^2(theta)-sin^2(theta)], [\ , =(1-sin^2(theta))-sin^2(theta)], [\ , =1-2sin^2(theta)]
-[cos('\\y01d7d0''\\y01d73d'), =cos^'\\y01d7d0' ('\\y01d73d')-sin^'\\y01d7d0' ('\\y01d73d')], [\ , ='\\y01d7d0'cos^'\\y01d7d0' ('\\y01d73d')-'\\y01d7cf'], [\ , ='\\y01d7cf'-'\\y01d7d0'sin^'\\y01d7d0' ('\\y01d73d')]
+[cos(bb 2bb theta), =cos^bb 2(bb theta)-sin^bb 2(bb theta)], [\ , =bb 2cos^bb 2(bb theta)-bb 1], [\ , =bb 1-bb 2sin^bb 2(bb theta)]
 cos(2 beta)
 cos(beta) = x/4.
 cos(2 theta) = 2cos^2(theta)-1
@@ -17427,7 +17368,7 @@ f(x) = sqrt(x)
 f(x) = 1/x
 f(x) = |x|
 f(x) = 2^x
-ul( )
+ul\ \
 sqrt(2), \ sqrt(3), \ sqrt(5)
 1/2, \ 1/3, \ 1/5
 cos(alpha+beta)
@@ -17691,8 +17632,6 @@ A
 B.
 (AB)^2
 cos(alpha-beta) = cos(alpha)cos(beta)+sin(alpha)sin(beta).
-"\\delimitershortfall"-1sp
-"\\delimitershortfall"-1sp
 [d^2, =4^2+3^2=16+9=25], [d, =sqrt(25)=5]
 P_1
 P_2
@@ -17704,7 +17643,7 @@ d^2 = (x_2-x_1)^2+(y_2-y_1)^2
 d
 P_1(x_1, y_1)
 P_2(x_2, y_2)
-'\\y01d485' = sqrt(('\\y01d499'_'\\y01d7d0' -'\\y01d499'_'\\y01d7cf' )^'\\y01d7d0' +('\\y01d49a'_'\\y01d7d0' -'\\y01d49a'_'\\y01d7cf' )^'\\y01d7d0' )
+bii d = sqrt((bii x_bb 2-bii x_bb 1)^bb 2+(bii y_bb 2-bii y_bb 1)^bb 2)
 (2, -1)
 (4, 3).
 (2, -1)
@@ -17738,13 +17677,13 @@ r.
 sqrt((x-0)^2+(y-0)^2) = r
 (x-0)^2+(y-0)^2 = r^2
 r
-'\\y01d499'^'\\y01d7d0' +'\\y01d49a'^'\\y01d7d0' = '\\y01d493'^'\\y01d7d0'
+bii x^bb 2+bii y^bb 2 = bii r^bb 2
 x^2+y^2 = 4
 x
 -1.
-x = -'\\y01d7cf'
+x = -bb 1
 y.
-[(-'\\y01d7cf'^2)+y^2, =4], [y^2, =4-1=3], [y, =+-sqrt(3)]
+[(-bb 1^2)+y^2, =4], [y^2, =4-1=3], [y, =+-sqrt(3)]
 (-1, sqrt(3))
 (-1, sqrt(3)),
 sqrt(3) ~~ 1.732.
@@ -17753,7 +17692,7 @@ y
 1/2.
 ( (sqrt(3))/2, 1/2),
 ( (-sqrt(3))/2, 1/2)
-\ '\\y01d499'^'\\y01d7d0' +'\\y01d49a'^'\\y01d7d0' = '\\y01d7cf', \
+\ bii x^bb 2+bii y^bb 2 = bb 1, \
 3/4,
 3/4 = 6/8 = 75/100 = 0.75\ and\ 5/11 = 20/44 = 50/110 = 0.bar(45)
 0.bar(45)
@@ -17790,7 +17729,7 @@ pi/2
 2 pi
 25/17
 r
-'\\y01d46a' = '\\y01d7d0''\\y01d745''\\y01d493'
+bii C = bb 2bb pi bii r
 pi
 pi ~~ 3.14159.
 2 pi(4)
@@ -17801,7 +17740,7 @@ pi ~~ 3.14159.
 1/2
 (5 pi)/3 ~~ 5.24\ "inches"
 r
-'\\y01d468' = '\\y01d745''\\y01d493'^'\\y01d7d0'
+bii A = bb pi bii r^bb 2
 1/6
 1/6
 1/6 pi(4^2) = (8 pi)/3\ "square inches"
@@ -17920,7 +17859,6 @@ r
 (h, k).
 (x-4)^2+(y-5)^2 = 9
 (x+3)^2+(y-1)^2 = 25
-"\\delimitershortfall"-1sp
 theta,
 h,
 y
@@ -18060,7 +17998,7 @@ f(theta) = sin(theta)
 0\circ,
 360\circ.
 y = 0.
-\ Y_1 =
+\ \ \ Y_1 =
 |overline(underline(X,T, theta,n))|
 7
 theta = -360\circ
@@ -18453,11 +18391,11 @@ y = sin(theta),
 360\circ
 360\circ,
 120\circ.
-'\\y01d49a' = '\\y01d468'cos('\\y01d73d')\ or\ '\\y01d49a' = '\\y01d468'sin('\\y01d73d')
+bii y = bii Acos(bb theta)\ or\ bii y = bii Asin(bb theta)
 |A|.
-'\\y01d49a' = cos('\\y01d469''\\y01d73d')\ or\ '\\y01d49a' = sin'\\y01d7d7'
+bii y = cos(bii Bbb theta)\ or\ bii y = sin bb 9
 (360\circ)/(|B|) .
-'\\y01d49a' = '\\y01d48c'+cos('\\y01d73d')\ or\ '\\y01d49a' = '\\y01d48c'+sin('\\y01d73d')
+bii y = bii k+cos(bb theta)\ or\ bii y = bii k+sin(bb theta)
 y = k.
 y = cos theta.
 h(theta) = 2cos(theta)
@@ -18481,7 +18419,7 @@ p(t) = t^2-4
 q(t) = 9-t^2
 F(x) = 2-sqrt(z)
 G(z) = sqrt(4-z)
-ul( )
+ul\ \
 (0, -6),
 \ (9, 0)
 (0, 4),

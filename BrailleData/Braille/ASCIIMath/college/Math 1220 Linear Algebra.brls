@@ -1,5 +1,5 @@
-'\\y01d48f'
-'\\y01d48f'
+bii n
+bii n
 Ax+By+Cz = D
 A, B, C
 [x+y+z, =2], [x+2y+z, =3], [x+2y-3z, =2]
@@ -20,10 +20,10 @@ t.
 [2x-y+z, =1], [2x-y+z, =2], [2x-y+z, =3]
 [[2, -1, 1, 1], [2, -1, 1, 2], [2, -1, 1, 3]]
 [[1, -1/2, 1/2, 0], [0, 0, 0, 1], [0, 0, 0, 0]]
-'\\y01d48f'
-'\\y01d48f'
+bii n
+bii n
 n
-'\\y01d48f'
+bii n
 sin(x)
 cos(x)
 sin(x)
@@ -34,7 +34,7 @@ b
 theta
 [sin(theta)=b/c, cos(theta)=a/c, tan(theta)= (sin(theta))/(cos(theta)) =b/a], [cot(theta)= (cos(theta))/(sin(theta)) =a/b, csc(theta)=1/(sin(theta)) =c/b, sec(theta)=1/(cos(theta)) =c/a]
 theta
-'\\y01d7ce' = (0, 0)
+bb 0 = (0, 0)
 r = 1
 theta,
 theta
@@ -54,8 +54,8 @@ c,
 c
 theta,
 c^2 = a^2+b^2-2abcos theta
-sin('\\y01d499')
-cos('\\y01d499')
+sin(bii x)
+cos(bii x)
 sin(x):
 sin(x)
 0 < x < pi.
@@ -110,8 +110,8 @@ b,
 c
 d
 c^2+d^2 = 2a^2+2b^2
-sin('\\y01d499')
-cos('\\y01d499')
+sin(bii x)
+cos(bii x)
 sin(alpha),
 cos(alpha),
 sin(beta),
@@ -122,43 +122,43 @@ A = (cos(alpha), sin(alpha)),
 B = cos(alpha+beta), sin(alpha+beta))
 (0, 1)
 1.
-'\\y01d7ce'.
-'\\y01d7ce'
+bb 0.
+bb 0
 (1, 0)
-'\\y01d7ce'
+bb 0
 A.
 F
 E
 B
 E
-'\\y01d7ce'
+bb 0
 (1, 0)
 D = (d, 0).
 '\\x002016'BF'\\x002016' = sin(alpha+beta)
-'\\y01d7ce'BF
-'\\x002016''\\y01d7ce'D'\\x002016' = d
-'\\x002016''\\y01d7ce'E'\\x002016' = dcos(alpha) = cos(beta)
-'\\y01d7ce'DE
-'\\y01d7ce'BE,
+bb 0BF
+'\\x002016'bb 0D'\\x002016' = d
+'\\x002016'bb 0E'\\x002016' = dcos(alpha) = cos(beta)
+bb 0DE
+bb 0BE,
 d = (cos(beta))/(cos(alpha))
 '\\x002016'BD'\\x002016' = '\\x002016'BE'\\x002016'+'\\x002016'ED'\\x002016' = sin(beta)+dsin(alpha)
-'\\y01d7ce'BE
-'\\y01d7ce'DE
-'\\x002016'BF'\\x002016''\\x002016''\\y01d7ce'D'\\x002016' = dsin(alpha+beta)
-'\\x002016''\\y01d7ce'E'\\x002016''\\x002016'BD'\\x002016' = dcos(alpha)(sin(beta)+dsin(alpha))
+bb 0BE
+bb 0DE
+'\\x002016'BF'\\x002016''\\x002016'bb 0D'\\x002016' = dsin(alpha+beta)
+'\\x002016'bb 0E'\\x002016''\\x002016'BD'\\x002016' = dcos(alpha)(sin(beta)+dsin(alpha))
 sin(alpha+beta) = cos(alpha)sin(beta)+dcos(alpha)sin(alpha) = cos(alpha)sin(beta)+cos(beta)sin(alpha)
-'\\y01d7ce'ED,
+bb 0ED,
 D
 pi/2-alpha,
 BFD
 B
 alpha.
 '\\x002016'DF'\\x002016' = '\\x002016'BD'\\x002016'sin(alpha) = (sin(beta)+dsin(alpha))sin(alpha)
-'\\x002016''\\y01d7ce'F'\\x002016' = cos(alpha+beta)
-['\\x002016''\\y01d7ce'F'\\x002016', ='\\x002016''\\y01d7ce'D'\\x002016'-'\\x002016'DF'\\x002016'], [cos(alpha+beta), =d-(sin(beta)+d sin(alpha))sin(alpha)], [\ , =d-sin(beta)sin(alpha)-dsin^2(alpha)], [\ , =d(1-sin^2(alpha))-sin(beta)sin(alpha)], [\ , =dcos^2(alpha)-sin(beta)sin(alpha)], [\ , =cos(beta)cos(alpha)-sin(beta)sin(alpha)]
+'\\x002016'bb 0F'\\x002016' = cos(alpha+beta)
+['\\x002016'bb 0F'\\x002016', ='\\x002016'bb 0D'\\x002016'-'\\x002016'DF'\\x002016'], [cos(alpha+beta), =d-(sin(beta)+d sin(alpha))sin(alpha)], [\ , =d-sin(beta)sin(alpha)-dsin^2(alpha)], [\ , =d(1-sin^2(alpha))-sin(beta)sin(alpha)], [\ , =dcos^2(alpha)-sin(beta)sin(alpha)], [\ , =cos(beta)cos(alpha)-sin(beta)sin(alpha)]
 sin(alpha+beta) = sin(alpha)cos(beta)+cos(alpha)sin(beta)cos(alpha+beta) = cos(alpha)cos(beta)-sin(alpha)sin(beta)
-sin('\\y01d499')
-cos('\\y01d499')
+sin(bii x)
+cos(bii x)
 sin(alpha+beta) = sin(alpha)cos(beta)+cos(alpha)sin(beta)cos(alpha+beta) = cos(alpha)cos(beta)-sin(alpha)sin(beta)
 a,
 b
@@ -185,10 +185,10 @@ a,
 b
 c
 (sin(alpha))/a = (sin(beta))/b = (sin(gamma))/c
-'\\y01d48f'
+bii n
 RR^n
 RR^n
-'\\y01d48f'
+bii n
 E = [e_(i,j)]
 EA
 A.
@@ -311,7 +311,7 @@ E_3
 A
 A = F_1 F_2 cdots F_t
 F_i
-'\\y01d48f'
+bii n
 A.
 m
 n
@@ -340,7 +340,7 @@ A^m A^n = A^(m+n)
 (A^(-1))^(-1) = A
 A^n)^(-1) = (A^(-1))^n
 (rA)^(-1) = 1/r A^(-1)
-'\\y01d48f'
+bii n
 A = [a_(i,j)]
 r
 C = [c_(i,j)] = rA
@@ -373,26 +373,26 @@ B
 r
 s
 rA+sB
-'\\y01d468'
-'\\y01d469'.
+bii A
+bii B.
 A_1, A_2, ..., A_n
 r_1, r_2, ..., r_n,
 r_1 A_1+r_2 A_2+cdots+r_n A_n
-'\\y01d468'_'\\y01d7cf' , '\\y01d468'_'\\y01d7d0' , ..., '\\y01d468'_'\\y01d48f'
+bii A_bb 1, bii A_bb 2, ..., bii A_bii n
 A = [[1, 2, 3], [3, 2, 1]]
 2A
 -2A
 1/2 A
 (-1)A
 0A
-'\\y01d7ce'
-A+(-1)A = '\\y01d7ce'.
+bb 0
+A+(-1)A = bb 0.
 A
 r
-0A = r'\\y01d7ce'
-'\\y01d7ce'
+0A = rbb 0
+bb 0
 A.
-'\\y01d48f'
+bii n
 **
 0.
 [\ , [[1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 12, 15]], \ , [R_2 larr R_2-4R_1], [R_3 larr R_3-7R_1], [R_4 larr R_4-10R_1]], [\ , [[1, 2, 3], [0, -3, -6], [0, -6, -12], [0, -8, -15]], \ , [R_2 larr-1/3 R_2]], [\ , [[1, 2, 3], [0, 1, 2], [0, -6, -12], [0, -8, -15]], \ , [R_1 larr R_1-2R_2], [R_3 larr R_3+6R_2], [R_4 larr R_4+8R_2]], [\ , [[1, 0, -1], [0, 1, 2], [0, 0, 0], [0, 0, 1]], \ , [R_3 harr R_4]], [\ , [[1, 0, -1], [0, 1, 2], [0, 0, 1], [0, 0, 0]], \ , [R_1 larr R_1+R_3], [R_2 larr R_2-2R_3]], [\ , [[1, 0, 0], [0, 1, 0], [0, 0, 1], [0, 0, 0]]]
@@ -454,7 +454,7 @@ A
 x = y
 y = z,
 [3x+y-2z, "<mi//>"=2, x+y-z, "<mi//>"=1], [-x+3y-z, "<mi//>"=1, -3x+y+z, "<mi//>"=-1]
-'\\y01d48f'
+bii n
 n xx n.
 n
 3:
@@ -526,7 +526,7 @@ A^(-1)
 3:
 [[1, 0, 0], [0, 1, 0], [0, 0, 1]]\ [[1, 0, 0], [0, 0, 1], [0, 1, 0]]\ [[0, 1, 0], [1, 0, 0], [0, 0, 1]]
 [[0, 0, 1], [1, 0, 0], [0, 1, 0]]\ [[0, 0, 1], [0, 1, 0], [1, 0, 0]]\ [[0, 1, 0], [0, 0, 1], [1, 0, 0]]
-'\\y01d48f'
+bii n
 A,
 A,
 A
@@ -550,9 +550,9 @@ Abb x = bb b
 bb b
 Abb x = bb b
 bb b
-'\\y01d48f'
-'\\y01d48f'
-'\\y01d48f'
+bii n
+bii n
+bii n
 RR^n
 RR^3
 RR^3
@@ -560,10 +560,10 @@ RR^3
 RR^2
 RR^n
 RR^n
-'\\y01d48f'
+bii n
 n
-'\\y01d48f'
-'\\y01d48f'
+bii n
+bii n
 A
 A^T
 A
@@ -588,13 +588,13 @@ A
 A
 n
 "tr"A = a_(1,1)+a_(2,2)+cdots+a_(n,n) = sum_(i=1)^n a_(i,i)
-'\\y01d468''\\y01d469'
-'\\y01d469''\\y01d468'
+bii Abii B
+bii Bbii A
 AB
 BA
 "tr"(AB) = "tr"(BA)
-'\\y01d48f'
-'\\y01d468'
+bii n
+bii A
 A
 B
 n,
@@ -620,7 +620,7 @@ m
 n
 A^m A^n = ubrace(A cdots A)_(m"\factors")\ ubrace(A cdots A)_(n"\factors") = ubrace(A cdots A)_(m+n"\factors") = A^(m+n),
 (A^m)^n = ubrace((ubrace(A cdots A)_(m"\factors"))(ubrace(A cdots A)_(m"\factors")) cdots(ubrace(A cdots A)_(m"\factors")))_(n"\times") = A^(mn)
-'\\y01d468'^'\\y01d7ce' ?
+bii A^bb 0?
 A^0
 A^n A^0 = A^(n+0) = A^n
 A^0 = I,
@@ -643,7 +643,7 @@ B
 P(B) = 0,
 B
 p(x).
-'\\y01d48f'
+bii n
 [2x+4y, "<mi//>"=5], [-x-2y, "<mi//>"=1]
 2
 x.
@@ -666,8 +666,8 @@ y = t.
 x = -2t-1.
 t
 (x, y) = (-2t-1, t)
-'\\y01d48f'
-'\\y01d48f'
+bii n
+bii n
 1.25,
 1.333... = 4/3
 sqrt(2)
@@ -703,8 +703,8 @@ xy = yx
 \
 x(y+z) = xy+xz
 (x+y)z = xz+yz
-'\\y01d48f'
-'\\y01d48f'
+bii n
+bii n
 b/a
 b*1/a.
 1/a
@@ -739,7 +739,7 @@ A
 B
 AB = BA = I
 B
-'\\y01d468'
+bii A
 A^(-1).
 A
 A^(-1)
@@ -767,13 +767,13 @@ A
 I_n,
 A
 I.
-bb x = '\\y01d7ce',
-Mbb x = '\\y01d7ce'.
+bb x = bb 0,
+Mbb x = bb 0.
 bb x
 M
 M
-Mx = '\\y01d7ce'
-bb x = '\\y01d7ce'.
+Mx = bb 0
+bb x = bb 0.
 AB = I
 B
 A
@@ -810,7 +810,7 @@ A = [[1, 2, 1], [2, 3, 5], [1, 2, 0]],
 [A'\\x002223'I] = [[1, 2, 1, 1, 0, 0], [2, 3, 5, 0, 1, 0], [1, 2, 0, 0, 0, 1]]
 [I'\\x002223'A^(-1)] = [[1, 0, 0, -10, 2, 7], [0, 1, 0, 5, -1, -3], [0, 0, 1, 1, 0, -1]]
 A^(-1) = [[]-10, 2, 7], [5, -1, -3], [1, 0, -1]].
-'\\y01d7d1'xx'\\y01d7d0'
+bb 3 xx bb 2
 A = [[a, b], [c, d]]
 [[a, b, 1, 0\ R_1 larr 1/a R_1], [c, d, 0, 1]][[1, b/a, 1/a, 0], [c, d, 0, 1\ R_2 larr R_2-cR_1]][[1, b/a, 1/a, 0], [0, d- (bc)/a, -c/a, 1]]"(Rewrite last row)"[[1, b/a, 1/a, 0], [0, (ad-bc)/a, -c/a, 1\ R_2 larr a/(ad-bc) R_2]][[1, b/a, 1/a, 0], [0, 1, -c/(ad-cb) , a/(ad-cb) \ R_1 larr R_1-b/a R_2]][[1, 0, d/(ad-cb) , -b/(ad-cb) ], [0, 1, -c/(ad-cb) , a/(ad-cb) ]]
 A^(-1) = [[d/(ad-cb) , -b/(ad-cb) ], [-c/(ad-cb) , a/(ad-cb) ]] = 1/(ad-cb) [[d, -b], [-c, a]]
@@ -832,7 +832,7 @@ Ax = b.
 A^(-1) = [[-10, 2, 7], [5, -1, -3], [1, 0, -1]].
 x = [[-10, 2, 7], [5, -1, -3], [1, 0, -1]][[1], [1], [1]] = [[-1], [1], [0]],
 x_1 = -1, x_2 = 1, x_3 = 0.
-'\\y01d48f'
+bii n
 sum_(|overline(underline(k=1))|)^(|overline(underline(5))|)|overline(underline(2k))|
 Sigma
 k = 1.
@@ -896,9 +896,9 @@ j
 1
 n.
 mn
-'\\y01d48f'
-'\\y01d48f'
-'\\y01d48f'
+bii n
+bii n
+bii n
 [[1, 0, 0, 0, 1], [0, 1, 0, 0, 2], [0, 0, 1, 0, 5], [0, 0, 0, 1, -1]]
 [x_1, \ , \ , \ , =, 1], [\ , x_2, \ , \ , =, 2], [\ , \ , x_3, \ , =, 5], [\ , \ , \ , x_4, =, -1]
 [[1, 1, 4], [0, 2, 6]]
@@ -1002,9 +1002,9 @@ c-3 != 0,
 b = a
 c = 3
 [x+2y-z, "<mi//>"=2], [x+y-z, "<mi//>"=0], [2x-y+z, "<mi//>"=3]
-'\\y01d48f'
-'\\y01d48f'
-'\\y01d48f'
+bii n
+bii n
+bii n
 [2x+3y, "<mi//>"=5], [3x+2y, "<mi//>"=7]
 x
 y
@@ -1022,9 +1022,9 @@ y = 1/5.
 x
 y
 (x, y) = (11/5, 1/5),
-'\\y01d48f'
-'\\y01d48f'
-'\\y01d48f'
+bii n
+bii n
+bii n
 n
 x_1, x_2, ..., x_n
 a_1 x_1+a_2 x_2+cdots+a_n x_n = b
@@ -1035,15 +1035,15 @@ a_1
 x_1,
 a_2
 x_2,
-'\\y01d48f'
+bii n
 2x = 4
 4x-2y = 7
 1/2 x-3/5 y+pi z = 0
 x_1-3x_2+4x_3-7x_4 = 100
 1
 3x_1+15x_5 = -10
-'\\y01d48e'
-'\\y01d48f'
+bii m
+bii n
 m
 n
 [x-y+z, "<mi//>"=1], [2x+3y-z, "<mi//>"=2]
@@ -1122,7 +1122,7 @@ I_n
 0
 [I_n'\\x002223'B]
 B = [[b_1], [b_2], [vdots], [b_n]]
-'\\y01d48f'
+bii n
 [[1, 2, -1, 4], [2, 1, 3, 0], [4, 4, 3, 1]]
 R_1, R_2, ...
 C_1, C_2, ....
@@ -1159,9 +1159,9 @@ a_(i,j) = b_(i,j), "\for\ "i = 1, 2, ..., m"\and\ "j = 1, 2, ..., n.
 x = y = 1
 m xx n
 mn
-'\\y01d7ce',
+bb 0,
 0.
-'\\y01d7ce' = [[0, 0, cdots, 0], [0, 0, cdots, 0], [\ , \ , vdots, \ ], [0, 0, cdots, 0]]
+bb 0 = [[0, 0, cdots, 0], [0, 0, cdots, 0], [\ , \ , vdots, \ ], [0, 0, cdots, 0]]
 I,
 0
 1.
@@ -1170,7 +1170,7 @@ n xx n,
 I_n.
 I_n = [a_(i,j)],
 a_(i,j) = {[1, "if\ "i=j], [0, "if\ "i!=j]<mo fence="true" stretchy="true" symmetric="true"//>
-'\\y01d48f'
+bii n
 A = [a_(i,j)]
 B = [b_(i,j)],
 C = [c_(i,j)]
@@ -1196,9 +1196,9 @@ m xx n
 A+B.
 A+B = B+A\
 (A+B)+C = A+(B+C)\
-'\\y01d48f'
+bii n
 n
-'\\y01d48f'
+bii n
 A
 B
 m xx n
@@ -1282,7 +1282,7 @@ A,
 B
 C
 A(BC) = (AB)C.
-'\\y01d468''\\y01d47f' = '\\y01d469'
+bii Abii X = bii B
 A
 m xx n
 B
@@ -1369,8 +1369,8 @@ A_n
 I_n,
 n,
 n.
-'\\y01d48f'
-'\\y01d48f'
+bii n
+bii n
 m xx n
 i
 j,
@@ -1389,7 +1389,7 @@ i
 R_i larr lambda R_i
 larr
 lambda
-'\\y01d740'
+bb lambda
 [2x+3y-z, =2], [-x+y+z, =4], [3x-y-z, =3]
 [[2, 3, -1, 2], [-1, 1, 1, 4], [3, -1, -1, 3]]
 2
@@ -1417,8 +1417,8 @@ a_(i,k) != 0
 1
 a_(i,k) != 0,
 0
-'\\y01d7ce'
-'\\y01d7cf'
+bb 0
+bb 1
 a_(i,k) != 0,
 1.
 k

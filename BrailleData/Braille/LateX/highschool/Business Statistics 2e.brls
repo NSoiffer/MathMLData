@@ -8,308 +8,308 @@
 \overline{X}
 \overline{X}
 \sqrt{2}
-\mu =\frac{a +b}{2}
-\sigma =\sqrt{\frac{(b\~\textendash \~a)^2}{12}}
-f(x) =\frac{1}{b -a}
-a \le X \le b
-(\frac{1}{b -a})
-(\frac{1}{b -a})
-(\frac{1}{b -a})
-f(x) =\frac{1}{b -a}
-\frac{x -a}{b -a}
-\frac{a +b}{2}
-=\sqrt{\frac{(b -a)^2}{12}}
-(\frac{1}{b \textendash a})
+\mu𝐖𝐖=\frac{a𝐖+b}{2}
+\sigma𝐖𝐖=\sqrt{\frac{(b\~\textendash𝐖\~a)^2𝐖}{12}}
+f(x)𝐖=\frac{1}{b𝐖-a}
+a𝐖\le𝐖X𝐖\le𝐖b
+(\frac{1}{b𝐖-a})
+(\frac{1}{b𝐖-a})
+(\frac{1}{b𝐖-a})
+f(x)𝐖=\frac{1}{b𝐖-a}
+\frac{x𝐖-a}{b𝐖-a}
+\frac{a𝐖+b}{2}
+𝐖=\sqrt{\frac{(b𝐖-a)^2𝐖}{12}}
+(\frac{1}{b𝐖\textendash𝐖a})
 \frac{1}{m}
-P(X =x) =\frac{\mu^x e^{ -\mu}}{x!}
-r =\frac{\frac{1}{n -1} \Sigma (X_{1i} -\overline{X}_1)(X_{2i} -\overline{X}_2)}{s_{x_1} s_{x_2}}
-r =\frac{ \sum (X_1_i -\overline{X}_1)(X_2_i -\overline{X}_2)}{\sqrt{ \sum (X_1_i -\overline{X}_1)^2 \sum (X\~_2_i -\overline{X}_2)^2}}
-\overline{X}_1
-\overline{X}_2
-P(A \cap B) =P(B)P(A|B)
-P(A|B) =\frac{P(A \cap B)}{P(B)}
-P(A|B) =P(A)
-P(A \cap B) =P(A|B)P(B)
-P(A \cap B) =P(A)(B)
-P(A|B) =P(A)
-P(A \cup B) =P(A) +P(B) -P(A \cap B)
-P(A \cap B) =0
-P(A \cup B) =P(A) +P(B) -P(A \cap B)
-P(A \cup B) =P(A) +P(B)
-P(A \cap B) =0
-P(A \cup B) =P(A) +P(B) =0.6 +0.35 =0.95
-P(A) =0.25
-P(B) =0.65
+P(X𝐖=x)𝐖=\frac{\mu𝐖^x𝐖e^{𝐖-\mu𝐖}𝐖}{x!}
+r𝐖=\frac{\frac{1}{n𝐖-1}𝐖\Sigma𝐖(X_{1i}𝐖𝐖-\overline{X}_1𝐖)(X_{2i}𝐖𝐖-\overline{X}_2𝐖)}{s_{x_1𝐖}𝐖s_{x_2𝐖}𝐖}
+r𝐖=\frac{𝐖\sum𝐖(X_1𝐖_i𝐖𝐖-\overline{X}_1𝐖)(X_2𝐖_i𝐖𝐖-\overline{X}_2𝐖)}{\sqrt{𝐖\sum𝐖(X_1𝐖_i𝐖𝐖-\overline{X}_1𝐖)^2𝐖𝐖\sum𝐖(X\~_2𝐖_i𝐖𝐖-\overline{X}_2𝐖)^2𝐖}}
+\overline{X}_1𝐖
+\overline{X}_2𝐖
+P(A𝐖\cap𝐖B)𝐖=P(B)P(A|B)
+P(A|B)𝐖=\frac{P(A𝐖\cap𝐖B)}{P(B)}
+P(A|B)𝐖=P(A)
+P(A𝐖\cap𝐖B)𝐖=P(A|B)P(B)
+P(A𝐖\cap𝐖B)𝐖=P(A)(B)
+P(A|B)𝐖=P(A)
+P(A𝐖\cup𝐖B)𝐖=P(A)𝐖+P(B)𝐖-P(A𝐖\cap𝐖B)
+P(A𝐖\cap𝐖B)𝐖=0
+P(A𝐖\cup𝐖B)𝐖=P(A)𝐖+P(B)𝐖-P(A𝐖\cap𝐖B)
+P(A𝐖\cup𝐖B)𝐖=P(A)𝐖+P(B)
+P(A𝐖\cap𝐖B)𝐖=0
+P(A𝐖\cup𝐖B)𝐖=P(A)𝐖+P(B)𝐖=0.6𝐖+0.35𝐖=0.95
+P(A)𝐖=0.25
+P(B)𝐖=0.65
 P(AANDB)
 P(AORB)
-|
-P(A \cap B) =P(B \cap A)
-|
-\cap
-|
-\cup
-\cup
-\cap
-\cap
-\cap
-\cap
-\cap
-\cap
+|𝐖
+P(A𝐖\cap𝐖B)𝐖=P(B𝐖\cap𝐖A)
+|𝐖
+\cap𝐖
+|𝐖
+\cup𝐖
+\cup𝐖
+\cap𝐖
+\cap𝐖
+\cap𝐖
+\cap𝐖
+\cap𝐖
+\cap𝐖
 \frac{28}{150}
 \frac{80}{150}
 \frac{40}{150}
-\cap
-\cap
-|
-|
-\cap
-|
-\cup
-\cap
-|
-\cap
-|
-\cap
-\cup
-|
-\cap
-|
-\cup
-\cap
-|
-|
-\cap
-\cap
-|
-|
-\cap
-|
-|
-\cap
-|
-\cap
-|
-f(x) =\frac{1}{\sigma \cdot \sqrt{2 \cdot \pi}} \cdot \~e^{ -\frac{1}{2} \cdot (\frac{x -\mu}{\sigma})^2}
-\mu
+\cap𝐖
+\cap𝐖
+|𝐖
+|𝐖
+\cap𝐖
+|𝐖
+\cup𝐖
+\cap𝐖
+|𝐖
+\cap𝐖
+|𝐖
+\cap𝐖
+\cup𝐖
+|𝐖
+\cap𝐖
+|𝐖
+\cup𝐖
+\cap𝐖
+|𝐖
+|𝐖
+\cap𝐖
+\cap𝐖
+|𝐖
+|𝐖
+\cap𝐖
+|𝐖
+|𝐖
+\cap𝐖
+|𝐖
+\cap𝐖
+|𝐖
+f(x)𝐖=\frac{1}{\sigma𝐖𝐖\cdot𝐖\sqrt{2𝐖\cdot𝐖\pi𝐖}}𝐖\cdot𝐖\~e^{𝐖-\frac{1}{2}𝐖\cdot𝐖(\frac{x𝐖-\mu𝐖}{\sigma𝐖})^2𝐖}𝐖
+\mu𝐖
 \overline{x}
 \overline{x}
 \overline{x}
-p' =\frac{x}{n}
+p'𝐖=\frac{x}{n}
 \overline{x}
-\mathrm{\mu} =np
+\mathrm{\mu}𝐖=np
 p
 p
 \overline{x}
 p
-\sigma_{p'}
-\mathrm{\mu}_{p'}
-\sigma_{p'}
+\sigma𝐖_{p'}𝐖
+\mathrm{\mu}_{p'}𝐖
+\sigma𝐖_{p'}𝐖
 p
-E(p') =E(\frac{x}{n}) =(\frac{1}{n})E(x) =(\frac{1}{n})np =p
-\sigma_{p'}^2 =Var(p') =Var(\frac{x}{n}) =\frac{1}{n^2}(Var(x)) =\frac{1}{n^2}(np(1 -p)) =\frac{p(1 -p)}{n}
-\sigma_{p'} =\sqrt{\frac{p(1 -P)}{n}}
-p \textquotesingle =\frac{x}{n}
-\sigma =\sqrt{npq}
-\sigma_{p'} =\sqrt{\frac{p(1 -p)}{n}}
+E(p')𝐖=E(\frac{x}{n})𝐖=(\frac{1}{n})E(x)𝐖=(\frac{1}{n})np𝐖=p
+\sigma𝐖_{p'}𝐖^2𝐖𝐖=Var(p')𝐖=Var(\frac{x}{n})𝐖=\frac{1}{n^2𝐖}(Var(x))𝐖=\frac{1}{n^2𝐖}(np(1𝐖-p))𝐖=\frac{p(1𝐖-p)}{n}
+\sigma𝐖_{p'}𝐖𝐖=\sqrt{\frac{p(1𝐖-P)}{n}}
+p𝐖\textquotesingle𝐖𝐖=\frac{x}{n}
+\sigma𝐖𝐖=\sqrt{npq}
+\sigma𝐖_{p'}𝐖𝐖=\sqrt{\frac{p(1𝐖-p)}{n}}
 p'
 \overline{x}
-\hat y =b_0 +b, X_{1i} +\cdots +b_k X_{ki}
-x =x_p
-\overline{\overparen}y = \pm \frac{t_\alpha}{2}s_e \sqrt{\frac{1}{n} +\frac{n(x_p -\overline{x})^2}{n( \sum x^2) -( \sum x)^2}}
-x =x_p
-\overset{\overparen}{y} = \pm \frac{t_\alpha}{2}s_e \sqrt{1 +\frac{1}{n} +\frac{n(x_p -\overline{x})^2}{n( \sum x^2) -( \sum x)^2}}
+\hat𝐖y𝐖𝐖=b_0𝐖𝐖+b,𝐖X_{1i}𝐖𝐖+\cdots𝐖𝐖+b_k𝐖X_{ki}𝐖
+x𝐖=x_p𝐖
+\overline{\overparen𝐖}y𝐖=𝐖\pm𝐖\frac{t_\alpha𝐖𝐖}{2}s_e𝐖\sqrt{\frac{1}{n}𝐖+\frac{n(x_p𝐖𝐖-\overline{x})^2𝐖}{n(𝐖\sum𝐖x^2𝐖)𝐖-(𝐖\sum𝐖x)^2𝐖}}
+x𝐖=x_p𝐖
+\overset{\overparen𝐖}{y}𝐖=𝐖\pm𝐖\frac{t_\alpha𝐖𝐖}{2}s_e𝐖\sqrt{1𝐖+\frac{1}{n}𝐖+\frac{n(x_p𝐖𝐖-\overline{x})^2𝐖}{n(𝐖\sum𝐖x^2𝐖)𝐖-(𝐖\sum𝐖x)^2𝐖}}
 \overline{X}
-\hat{y} = -173.51 +4.83(73) =179.08
-\hat{y} =\textendash 173.51 +4.83(90) =261.19
-d =\frac{\overline{x}_1 \textendash \overline{x}_2}{s_{pooled}}
-s_{pooled} =\sqrt{\frac{(n_1 \textendash 1)s_1^2 +(n_2 \textendash 1)s_2^2}{n_1 +n_2 \textendash 2}}
-\sigma_{\chi^2} =\sqrt{2(df)}
-\chi^2 =
-\frac{(n -1)s^2}{\sigma_0^2}
-\sigma_0
-\frac{(n \textendash 1)s^2}{\sigma_0^2}
-\sum_k \frac{(O -E)^2}{E}
-\sum_{i \cdot j} \frac{(O -E)^2}{E}
-E =\frac{(row\space total)(column\space total)}{total\space surveyed}
-\sum_{i \cdot j} \frac{(O -E)^2}{E}
-\overline{X}_1 -\overline{X}_2
-E(\mathrm{\mu}_{\overline{x}_1} -\mathrm{\mu}_{\overline{x}_2}) =\mathrm{\mu}_1 -\mathrm{\mu}_2
-\overline{X}_1
-\overline{X}_2
-\sqrt{\frac{(s_1)^2}{n_1} +\frac{(s_2)^2}{n_2}}
-t_c =\frac{(\overline{x}_1 \textendash \overline{x}_2) \textendash \delta_0}{\sqrt{\frac{(s_1)^2}{n_1} +\frac{(s_2)^2}{n_2}}}
-\overline{x}_1
-\overline{x}_2
-\delta
-v =n_1 +n_2 -2
-(n_1 +n_2)
-The\~standard\~error\~is\colon \~df =\frac{(\frac{(s_1)^2}{n_1} +\frac{(s_2)^2}{n_2})^2}{(\frac{1}{n_1 \textendash 1})(\frac{(s_1)^2}{n_1})^2 +(\frac{1}{n_2 \textendash 1})(\frac{(s_2)^2}{n_2})^2}
-n_1 +n_2 -2
-H_0 \colon \mathrm{\mu}_1 -\mathrm{\mu}_2 =\delta_0
-H_a \colon \mathrm{\mu}_1 -\mathrm{\mu}_2 \not= \delta_0
-H_0 \colon \mathrm{\mu}_1 =\mathrm{\mu}_2
-H_a \colon \mathrm{\mu}_1 \not= \mathrm{\mu}_2
-\overline{X}_g -\overline{X}_b
-t_c =\frac{(\overline{X}_1 -\overline{X}_2) -\delta_0}{\sqrt{\frac{S_1^2}{n_1} +\frac{S_2^2}{n_2}}} = -3.01
-\overline{X}_A -\overline{X}_B
-H_\O \colon \mu_A \le \mu_B
-H_a \colon \mu_A >\mu_B
-t_c =\frac{(\overline{X}_1 -\overline{X}_2) -\delta_0}{\sqrt{\frac{S_1^2}{n_1} +\frac{S_2^2}{n_2}}} =0.89
-t_c =\frac{(\overline{x}_1 -\overline{x}_2) -\delta_0}{\sqrt{\frac{s^2}{n_1} +\frac{s^2}{n_2}}} =\frac{(74 -76) -0}{\sqrt{\frac{16^2}{35} +\frac{9^2}{40}}} = -0.65
+𝐖\hat{y}𝐖𝐖=𝐖-173.51𝐖+4.83(73)𝐖=179.08
+𝐖\hat{y}𝐖𝐖=\textendash𝐖173.51𝐖+4.83(90)𝐖=261.19
+d𝐖=\frac{\overline{x}_1𝐖𝐖\textendash𝐖\overline{x}_2𝐖}{s_{pooled}𝐖}
+s_{pooled}𝐖𝐖=\sqrt{\frac{(n_1𝐖𝐖\textendash𝐖1)s_1^2𝐖𝐖+(n_2𝐖𝐖\textendash𝐖1)s_2^2𝐖}{n_1𝐖𝐖+n_2𝐖𝐖\textendash𝐖2}}
+\sigma𝐖_{\chi𝐖^2𝐖}𝐖𝐖=\sqrt{2(df)}
+\chi𝐖^2𝐖𝐖=
+\frac{(n𝐖-1)s^2𝐖}{\sigma𝐖_0^2𝐖}
+\sigma𝐖_0𝐖
+\frac{(n𝐖\textendash𝐖1)s^2𝐖}{\sigma𝐖_0^2𝐖}
+\sum𝐖_k𝐖\frac{(O𝐖-E)^2𝐖}{E}
+\sum𝐖_{i𝐖\cdot𝐖j}𝐖\frac{(O𝐖-E)^2𝐖}{E}
+E𝐖=\frac{(row\space𝐖total)(column\space𝐖total)}{total\space𝐖surveyed}
+\sum𝐖_{i𝐖\cdot𝐖j}𝐖\frac{(O𝐖-E)^2𝐖}{E}
+\overline{X}_1𝐖𝐖-\overline{X}_2𝐖
+E(\mathrm{\mu}_{\overline{x}_1𝐖}𝐖𝐖-\mathrm{\mu}_{\overline{x}_2𝐖}𝐖)𝐖=\mathrm{\mu}_1𝐖𝐖-\mathrm{\mu}_2𝐖
+\overline{X}_1𝐖
+\overline{X}_2𝐖
+\sqrt{\frac{(s_1𝐖)^2𝐖}{n_1𝐖}𝐖+\frac{(s_2𝐖)^2𝐖}{n_2𝐖}}
+t_c𝐖𝐖=\frac{(\overline{x}_1𝐖𝐖\textendash𝐖\overline{x}_2𝐖)𝐖\textendash𝐖\delta𝐖_0𝐖}{\sqrt{\frac{(s_1𝐖)^2𝐖}{n_1𝐖}𝐖+\frac{(s_2𝐖)^2𝐖}{n_2𝐖}}}
+\overline{x}_1𝐖
+\overline{x}_2𝐖
+\delta𝐖
+v𝐖=n_1𝐖𝐖+n_2𝐖𝐖-2
+(n_1𝐖𝐖+n_2𝐖)
+The\~standard\~error\~is\colon𝐖\~df𝐖=\frac{(\frac{(s_1𝐖)^2𝐖}{n_1𝐖}𝐖+\frac{(s_2𝐖)^2𝐖}{n_2𝐖})^2𝐖}{(\frac{1}{n_1𝐖𝐖\textendash𝐖1})(\frac{(s_1𝐖)^2𝐖}{n_1𝐖})^2𝐖𝐖+(\frac{1}{n_2𝐖𝐖\textendash𝐖1})(\frac{(s_2𝐖)^2𝐖}{n_2𝐖})^2𝐖}
+n_1𝐖𝐖+n_2𝐖𝐖-2
+H_0𝐖𝐖\colon𝐖\mathrm{\mu}_1𝐖𝐖-\mathrm{\mu}_2𝐖𝐖=\delta𝐖_0𝐖
+H_a𝐖𝐖\colon𝐖\mathrm{\mu}_1𝐖𝐖-\mathrm{\mu}_2𝐖𝐖\not=𝐖\delta𝐖_0𝐖
+H_0𝐖𝐖\colon𝐖\mathrm{\mu}_1𝐖𝐖=\mathrm{\mu}_2𝐖
+H_a𝐖𝐖\colon𝐖\mathrm{\mu}_1𝐖𝐖\not=𝐖\mathrm{\mu}_2𝐖
+\overline{X}_g𝐖𝐖-\overline{X}_b𝐖
+t_c𝐖𝐖=\frac{(\overline{X}_1𝐖𝐖-\overline{X}_2𝐖)𝐖-\delta𝐖_0𝐖}{\sqrt{\frac{S_1^2𝐖}{n_1𝐖}𝐖+\frac{S_2^2𝐖}{n_2𝐖}}}𝐖=𝐖-3.01
+\overline{X}_A𝐖𝐖-\overline{X}_B𝐖
+H_\O𝐖𝐖\colon𝐖\mu𝐖_A𝐖𝐖\le𝐖\mu𝐖_B𝐖
+H_a𝐖𝐖\colon𝐖\mu𝐖_A𝐖𝐖>\mu𝐖_B𝐖
+t_c𝐖𝐖=\frac{(\overline{X}_1𝐖𝐖-\overline{X}_2𝐖)𝐖-\delta𝐖_0𝐖}{\sqrt{\frac{S_1^2𝐖}{n_1𝐖}𝐖+\frac{S_2^2𝐖}{n_2𝐖}}}𝐖=0.89
+t_c𝐖𝐖=\frac{(\overline{x}_1𝐖𝐖-\overline{x}_2𝐖)𝐖-\delta𝐖_0𝐖}{\sqrt{\frac{s^2𝐖}{n_1𝐖}𝐖+\frac{s^2𝐖}{n_2𝐖}}}𝐖=\frac{(74𝐖-76)𝐖-0}{\sqrt{\frac{16^2𝐖}{35}𝐖+\frac{9^2𝐖}{40}}}𝐖=𝐖-0.65
 \overline{x}
-s_x
-X
-\overline{X}
-\overline{x}
-s_x
+s_x𝐖
 X
 \overline{X}
 \overline{x}
-s_x
+s_x𝐖
 X
-\overset{-}{X}
-\overset{-}{x}
-s_x
-X
-\overline{X}
-\overline{x} =\$251, 854.23
-s =\$521, 130.41
-\overline{x}
-s_x
-X
-\overline{X}
-\overset{-}{X}
-\overset{-}{x}
-s_x
-X
-\overset{-}{X}
-\overset{-}{x}
-\overset{-}{X}
-\overset{-}{X}
-\overset{-}{x}
 \overline{X}
 \overline{x}
+s_x𝐖
+X
+\overset{-}{X}
+\overset{-}{x}
+s_x𝐖
+X
+\overline{X}
+\overline{x}𝐖=\$251,𝐖854.23
+s𝐖=\$521,𝐖130.41
+\overline{x}
+s_x𝐖
+X
+\overline{X}
+\overset{-}{X}
+\overset{-}{x}
+s_x𝐖
+X
 \overset{-}{X}
 \overset{-}{x}
 \overset{-}{X}
-\frac{z^2 pq}{e^2}
-(\overline{X} -\mu)
-n =\frac{Z_{\frac{\alpha}{2}}^2 \sigma^2}{(\overline{X} -\mu)^2} =\frac{Z_{\frac{\alpha}{2}}^2 \sigma^2}{e^2}
+\overset{-}{X}
+\overset{-}{x}
 \overline{X}
-n =\frac{Z_{\frac{\alpha}{2}}^2 pq}{e^2}
-z_{\frac{\alpha}{2}}
-n =\frac{z^2 p'q'}{e^2}
-n =\frac{1.645^2 (0.5)(0.5)}{0.03^2} =751.7
-\overline{X_1} \textendash \overline{X_2}
-\sqrt{\frac{(\sigma_1)^2}{n_1} +\frac{(\sigma_2)^2}{n_2}}
-Z_c =\frac{(\overline{x}_1 \textendash \overline{x}_2) \textendash \delta_0}{\sqrt{\frac{(\sigma_1)^2}{n_1} +\frac{(\sigma_2)^2}{n_2}}}
-\overline{X}_1 \textendash \~\overline{X}_2
-H_0 \colon \mu_1 \le \mu_2
-H_a \colon \mu_1 >\mu_2
-Z_c =\frac{(\mu_1 -\mu_2) -\delta_0}{\sqrt{\frac{\sigma_1^2}{n_1} +\frac{\sigma_2^2}{n_2}}} =0.1
-\overline{X}_1
-\overline{X}_2
-\overline{X}_1 \~\textendash \~\overline{X}_2
-H_0 \colon \mu_1 \le \mu_2
-H_0 \colon \mu_1 -\mu_2 \le 0
-H_a \colon \mu_1 >\mu_2
-H_a \colon \mu_1 -\mu_2 >0
-i =(\frac{k}{100})(n +1)
+\overline{x}
+\overset{-}{X}
+\overset{-}{x}
+\overset{-}{X}
+\frac{z^2𝐖pq}{e^2𝐖}
+(\overline{X}𝐖-\mu𝐖)
+n𝐖=\frac{Z_{\frac{\alpha𝐖}{2}}𝐖^2𝐖\sigma𝐖^2𝐖}{(\overline{X}𝐖-\mu𝐖)^2𝐖}𝐖=\frac{Z_{\frac{\alpha𝐖}{2}}𝐖^2𝐖\sigma𝐖^2𝐖}{e^2𝐖}
+\overline{X}
+n𝐖=\frac{Z_{\frac{\alpha𝐖}{2}}𝐖^2𝐖pq}{e^2𝐖}
+z_{\frac{\alpha𝐖}{2}}𝐖
+n𝐖=\frac{z^2𝐖p'q'}{e^2𝐖}
+n𝐖=\frac{1.645^2𝐖(0.5)(0.5)}{0.03^2𝐖}𝐖=751.7
+\overline{X_1𝐖}𝐖\textendash𝐖\overline{X_2𝐖}
+\sqrt{\frac{(\sigma𝐖_1𝐖)^2𝐖}{n_1𝐖}𝐖+\frac{(\sigma𝐖_2𝐖)^2𝐖}{n_2𝐖}}
+Z_c𝐖𝐖=\frac{(\overline{x}_1𝐖𝐖\textendash𝐖\overline{x}_2𝐖)𝐖\textendash𝐖\delta𝐖_0𝐖}{\sqrt{\frac{(\sigma𝐖_1𝐖)^2𝐖}{n_1𝐖}𝐖+\frac{(\sigma𝐖_2𝐖)^2𝐖}{n_2𝐖}}}
+\overline{X}_1𝐖\textendash𝐖\~\overline{X}_2𝐖
+H_0𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖\le𝐖\mu𝐖_2𝐖
+H_a𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖>\mu𝐖_2𝐖
+Z_c𝐖𝐖=\frac{(\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖)𝐖-\delta𝐖_0𝐖}{\sqrt{\frac{\sigma𝐖_1^2𝐖}{n_1𝐖}𝐖+\frac{\sigma𝐖_2^2𝐖}{n_2𝐖}}}𝐖=0.1
+\overline{X}_1𝐖
+\overline{X}_2𝐖
+\overline{X}_1𝐖\~\textendash𝐖\~\overline{X}_2𝐖
+H_0𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖\le𝐖\mu𝐖_2𝐖
+H_0𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖𝐖\le𝐖0
+H_a𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖>\mu𝐖_2𝐖
+H_a𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖𝐖>0
+i𝐖=(\frac{k}{100})(n𝐖+1)
 (\frac{x\~+\~0.5y}{n})
-\mu =\frac{ \sum fm}{ \sum f}
+\mu𝐖𝐖=\frac{𝐖\sum𝐖fm}{𝐖\sum𝐖f}
 \overline{x}
-\overline{x} =\frac{Sum\~of\~all\~values\~in\~the\~sample}{Number\~of\~values\~in\~the\~sample}
-\mu =\frac{Sum\~of\~all\~values\~in\~the\~population}{Number\~of\~values\~in\~the\~population}
-\overset{\textasciitilde}{x} =(\prod_{i =1}^n x_i)^{\frac{1}{n}} =\sqrt[n]{x_1 \cdotp x_2 \cdotp \cdotp \cdotp x_n} =(x_1 \cdotp x_2 \cdotp \cdotp \cdotp x_n)^{\frac{1}{n}}
-a_3 = \sum \frac{(x_i -\overline{x})^3}{ns^3}
-CV =\frac{s}{\overline{x}} \cdotp 100conditioned\space upon\overline{x} \not= 0
-s_x =\sqrt{\frac{ \sum fm^2}{n} -\overline{x}^2}
-s_x =\~sample\~standard\~deviation \\ \overline{x}\~=\~sample\~mean
-s =\sqrt{\frac{\Sigma (x -\overline{x})^2}{n -1}}
-s =\sqrt{\frac{\Sigma f(x -\overline{x})^2}{n -1}}
-s =\sqrt{\frac{(\sum_{i =1}^n x^2) -n\overline{x}^2}{n -1}}
-\sigma =\sqrt{\frac{\Sigma (x -\mu)^2}{N}}
-\sigma =\sqrt{\frac{\Sigma f(x \textendash \mu)^2}{N}}
-\sigma =\sqrt{\frac{\sum_{i =1}^N x_i^2}{N} -\mu^2}
+\overline{x}𝐖=\frac{Sum\~of\~all\~values\~in\~the\~sample}{Number\~of\~values\~in\~the\~sample}
+\mu𝐖𝐖=\frac{Sum\~of\~all\~values\~in\~the\~population}{Number\~of\~values\~in\~the\~population}
+\overset{\textasciitilde𝐖}{x}𝐖=(\prod𝐖_{i𝐖=1}^n𝐖x_i𝐖)^{\frac{1}{n}}𝐖𝐖=\sqrt[n]{x_1𝐖𝐖\cdotp𝐖x_2𝐖\cdotp𝐖\cdotp𝐖\cdotp𝐖x_n𝐖}𝐖=(x_1𝐖𝐖\cdotp𝐖x_2𝐖\cdotp𝐖\cdotp𝐖\cdotp𝐖x_n𝐖)^{\frac{1}{n}}𝐖
+a_3𝐖𝐖=𝐖\sum𝐖\frac{(x_i𝐖𝐖-\overline{x})^3𝐖}{ns^3𝐖}
+CV𝐖=\frac{s}{\overline{x}}𝐖\cdotp𝐖100conditioned\space𝐖upon\overline{x}𝐖\not=𝐖0
+s_x𝐖𝐖=\sqrt{\frac{𝐖\sum𝐖fm^2𝐖}{n}𝐖-\overline{x}^2𝐖}
+s_x𝐖𝐖=\~sample\~standard\~deviation𝐖\\𝐖\overline{x}\~=\~sample\~mean
+s𝐖=\sqrt{\frac{\Sigma𝐖(x𝐖-\overline{x})^2𝐖}{n𝐖-1}}
+s𝐖=\sqrt{\frac{\Sigma𝐖f(x𝐖-\overline{x})^2𝐖}{n𝐖-1}}
+s𝐖=\sqrt{\frac{(\sum𝐖_{i𝐖=1}^n𝐖x^2𝐖)𝐖-n\overline{x}^2𝐖}{n𝐖-1}}
+\sigma𝐖𝐖=\sqrt{\frac{\Sigma𝐖(x𝐖-\mu𝐖)^2𝐖}{N}}
+\sigma𝐖𝐖=\sqrt{\frac{\Sigma𝐖f(x𝐖\textendash𝐖\mu𝐖)^2𝐖}{N}}
+\sigma𝐖𝐖=\sqrt{\frac{\sum𝐖_{i𝐖=1}^N𝐖x_i^2𝐖}{N}𝐖-\mu𝐖^2𝐖}
 \overline{x}
-\overline{x} =\frac{Sum\~of\~all\~values\~in\~the\~sample}{Number\~of\~values\~in\~the\~sample}
-\mu =\frac{Sum\~of\~all\~values\~in\~the\~population}{Number\~of\~values\~in\~the\~population}
+\overline{x}𝐖=\frac{Sum\~of\~all\~values\~in\~the\~sample}{Number\~of\~values\~in\~the\~sample}
+\mu𝐖𝐖=\frac{Sum\~of\~all\~values\~in\~the\~population}{Number\~of\~values\~in\~the\~population}
 \overline{x}
 \overline{x}
-p +q =1
-q =1 -p .
+p𝐖+q𝐖=1
+q𝐖=1𝐖-p𝐖.
 1/6
-q =5/6,
-(5/6)(5/6)(5/6)(5/6)(1/6) =0.0804
-P(x =n +k|x \ge k +1) =P(x =n),
-\mu =E(x) =\frac{1}{p} \approx 2.8
-P(x \ge 3)
-P(x \ge 3) =1 -P(x \lt 3)
-P(x >n) =(1 -p)^n
-P(x \lt n) =1 -(1 -p)^n
-P(X =x) =(1 -p)^{x -1} p
-x =1, 2, 3, \ldots .
-\mu =\frac{1}{p}
-(1 -p)
-x -1
-\sigma =\sqrt{(\frac{1}{p})(\frac{1}{p} -1)}
-P(X =x) =(1 -p)^x p
-x =0, 1, 2, 3, \ldots .
-\mu =\frac{1 -p}{p}
-\sigma =\sqrt{(\frac{1 -p}{p})}
-GEOMETRIC\colon P =.02, Commonratio =r =.98
-x =1
-x =2
-P(X =3) =0.019208
-\frac{P(x =5)}{P(x =4)} =\frac{0.018447}{0.018823} =0.98
-P(x =6)
-P(x =7)
-P(x =7) =(0.018078) \times 0.98 =0 .017716,
-P(x =x_a)
-\mu =50
-\mu =\frac{1}{p} =\frac{1}{0.02} =50
-P(X =x) =(1 -p)^{x -1} p
-x =1, 2, 3, \ldots .
-\sigma^2 =(\frac{1}{p})(\frac{1}{p} -1) =(\frac{1}{0.02})(\frac{1}{0.02} -1) =2,450
-\sigma =\sqrt{(\frac{1}{p})(\frac{1}{p} -1)} =\sqrt{(\frac{1}{0.02})(\frac{1}{0.02} -1)} =49.5
-(\frac{1}{p})(\frac{1}{p} -1)
-(\frac{1}{0.02})(\frac{1}{0.02} -1)
-\sqrt{(\frac{1}{p})(\frac{1}{p} -1)}
-\sqrt{(\frac{1}{0.02})(\frac{1}{0.02} -1)}
-P(x =9) =(1 -0.015)^9 \times 0.015 =0.0131
-P(x =20) =(1 -0.015)^{19} \times 0.015 =0.0113
-Mean =\mu =\frac{(1 -p)}{p} =\frac{(1 -0.015)}{0.015} =65.67
-StandardDeviation =\sigma =\sqrt{\frac{(1 -p)}{p^2}} =\sqrt{\frac{(1 -0.015)}{0.015^2}} =66.16
-\mu =\frac{1}{p} =\frac{1}{0.320} =3.125 \approx 3
-|
-|
-\cap
-\cap
-\cap
-\cup
-\cup
-\cup
+q𝐖=5/6,𝐖
+(5/6)(5/6)(5/6)(5/6)(1/6)𝐖=0.0804
+P(x𝐖=n𝐖+k|x𝐖\ge𝐖k𝐖+1)𝐖=P(x𝐖=n),𝐖
+\mu𝐖𝐖=E(x)𝐖=\frac{1}{p}𝐖\approx𝐖2.8
+P(x𝐖\ge𝐖3)
+P(x𝐖\ge𝐖3)𝐖=1𝐖-P(x𝐖\lt𝐖3)
+P(x𝐖>n)𝐖=(1𝐖-p)^n𝐖
+P(x𝐖\lt𝐖n)𝐖=1𝐖-(1𝐖-p)^n𝐖
+P(X𝐖=x)𝐖=(1𝐖-p)^{x𝐖-1}𝐖p
+x𝐖=1,𝐖2,𝐖3,𝐖\ldots𝐖𝐖.
+\mu𝐖𝐖=\frac{1}{p}
+(1𝐖-p)
+x𝐖-1
+\sigma𝐖𝐖=\sqrt{(\frac{1}{p})(\frac{1}{p}𝐖-1)}
+P(X𝐖=x)𝐖=(1𝐖-p)^x𝐖p
+x𝐖=0,𝐖1,𝐖2,𝐖3,𝐖\ldots𝐖𝐖.
+\mu𝐖𝐖=\frac{1𝐖-p}{p}
+\sigma𝐖𝐖=\sqrt{(\frac{1𝐖-p}{p})}
+GEOMETRIC\colon𝐖P𝐖=.02,𝐖Commonratio𝐖=r𝐖=.98
+x𝐖=1
+x𝐖=2
+P(X𝐖=3)𝐖=0.019208
+\frac{P(x𝐖=5)}{P(x𝐖=4)}𝐖=\frac{0.018447}{0.018823}𝐖=0.98
+P(x𝐖=6)
+P(x𝐖=7)
+P(x𝐖=7)𝐖=(0.018078)𝐖\times𝐖0.98𝐖=0𝐖.017716,𝐖
+P(x𝐖=x_a𝐖)
+\mu𝐖𝐖=50
+\mu𝐖𝐖=\frac{1}{p}𝐖=\frac{1}{0.02}𝐖=50
+P(X𝐖=x)𝐖=(1𝐖-p)^{x𝐖-1}𝐖p
+x𝐖=1,𝐖2,𝐖3,𝐖\ldots𝐖𝐖.
+\sigma𝐖^2𝐖𝐖=(\frac{1}{p})(\frac{1}{p}𝐖-1)𝐖=(\frac{1}{0.02})(\frac{1}{0.02}𝐖-1)𝐖=2,450
+\sigma𝐖𝐖=\sqrt{(\frac{1}{p})(\frac{1}{p}𝐖-1)}𝐖=\sqrt{(\frac{1}{0.02})(\frac{1}{0.02}𝐖-1)}𝐖=49.5
+(\frac{1}{p})(\frac{1}{p}𝐖-1)
+(\frac{1}{0.02})(\frac{1}{0.02}𝐖-1)
+\sqrt{(\frac{1}{p})(\frac{1}{p}𝐖-1)}
+\sqrt{(\frac{1}{0.02})(\frac{1}{0.02}𝐖-1)}
+P(x𝐖=9)𝐖=(1𝐖-0.015)^9𝐖𝐖\times𝐖0.015𝐖=0.0131
+P(x𝐖=20)𝐖=(1𝐖-0.015)^{19}𝐖𝐖\times𝐖0.015𝐖=0.0113
+Mean𝐖=\mu𝐖𝐖=\frac{(1𝐖-p)}{p}𝐖=\frac{(1𝐖-0.015)}{0.015}𝐖=65.67
+StandardDeviation𝐖=\sigma𝐖𝐖=\sqrt{\frac{(1𝐖-p)}{p^2𝐖}}𝐖=\sqrt{\frac{(1𝐖-0.015)}{0.015^2𝐖}}𝐖=66.16
+\mu𝐖𝐖=\frac{1}{p}𝐖=\frac{1}{0.320}𝐖=3.125𝐖\approx𝐖3
+|𝐖
+|𝐖
+\cap𝐖
+\cap𝐖
+\cap𝐖
+\cup𝐖
+\cup𝐖
+\cup𝐖
 \overline{X}
-(\mu_{\overline{x}},\~\frac{\sigma}{\sqrt{n}})
-Z =\frac{\overline{X} -\mu_{\overline{X}}}{\sigma_{\overline{X}}} =\frac{\overline{X} -\mu}{\sigma /\sqrt{n}}
-\overline{X} \colon \mu_{\overline{x}}
-z =\frac{\overline{x} -\mu_{\overline{x}}}{(\frac{\sigma}{\sqrt{n}})}
+(\mu𝐖_{\overline{x}}𝐖,\~\frac{\sigma𝐖}{\sqrt{n}})
+Z𝐖=\frac{\overline{X}𝐖-\mu𝐖_{\overline{X}}𝐖}{\sigma𝐖_{\overline{X}}𝐖}𝐖=\frac{\overline{X}𝐖-\mu𝐖}{\sigma𝐖/\sqrt{n}}
+\overline{X}𝐖\colon𝐖\mu𝐖_{\overline{x}}𝐖
+z𝐖=\frac{\overline{x}𝐖-\mu𝐖_{\overline{x}}𝐖}{(\frac{\sigma𝐖}{\sqrt{n}})}
 \overline{X}
-\frac{\sigma}{\sqrt{n}}
-Z =\frac{\overline{x} -\mu}{\frac{\sigma}{\sqrt{n}} \cdotp \sqrt{\frac{N -n}{N -1}}}
-\sigma_{p'} =\sqrt{\frac{p(1 -p)}{n}} \times \sqrt{\frac{N -n}{N -1}}
-t_c =\frac{(\overline{x}_1 -\overline{x}_2) -\delta_0}{\sqrt{S\overset{2}{p}(\frac{1}{n_1} +\frac{1}{n_2})}}
+\frac{\sigma𝐖}{\sqrt{n}}
+Z𝐖=\frac{\overline{x}𝐖-\mu𝐖}{\frac{\sigma𝐖}{\sqrt{n}}𝐖\cdotp𝐖\sqrt{\frac{N𝐖-n}{N𝐖-1}}}
+\sigma𝐖_{p'}𝐖𝐖=\sqrt{\frac{p(1𝐖-p)}{n}}𝐖\times𝐖\sqrt{\frac{N𝐖-n}{N𝐖-1}}
+t_c𝐖𝐖=\frac{(\overline{x}_1𝐖𝐖-\overline{x}_2𝐖)𝐖-\delta𝐖_0𝐖}{\sqrt{S\overset{2}{p}(\frac{1}{n_1𝐖}𝐖+\frac{1}{n_2𝐖})}}
 S\overset{2}{p}
-s_p^2 =\frac{(n1 -1)s_1^2 +(n_2 -1)s_2^2}{n_1 +n_2 -2}
+s_p^2𝐖𝐖=\frac{(n1𝐖-1)s_1^2𝐖𝐖+(n_2𝐖𝐖-1)s_2^2𝐖}{n_1𝐖𝐖+n_2𝐖𝐖-2}
 S\overset{2}{p}
-t_c =\frac{(\overline{x}_1 -\overline{x}_2) -\delta_0}{\sqrt{S\overset{2}{p}(\frac{1}{n_1} +\frac{1}{n_2})}} =\frac{(8 -4) -0}{\sqrt{20.4933(\frac{1}{18} +\frac{1}{11})}} =2.31
-t_\alpha =1.703atdf =n_1 +n_2 -2 =18 +11 -2 =27
+t_c𝐖𝐖=\frac{(\overline{x}_1𝐖𝐖-\overline{x}_2𝐖)𝐖-\delta𝐖_0𝐖}{\sqrt{S\overset{2}{p}(\frac{1}{n_1𝐖}𝐖+\frac{1}{n_2𝐖})}}𝐖=\frac{(8𝐖-4)𝐖-0}{\sqrt{20.4933(\frac{1}{18}𝐖+\frac{1}{11})}}𝐖=2.31
+t_\alpha𝐖𝐖𝐖=1.703atdf𝐖=n_1𝐖𝐖+n_2𝐖𝐖-2𝐖=18𝐖+11𝐖-2𝐖=27
 (\frac{larger\~+\~smaller\~dimension}{larger\~dimension})
-p2022 \le p2021
-p2022 \ge p2021
-\mu 2022 \le \mu 2021
-p2022 >p2021
-\overline{x}_d
+p2022𝐖\le𝐖p2021
+p2022𝐖\ge𝐖p2021
+\mu𝐖2022𝐖\le𝐖\mu𝐖2021
+p2022𝐖>p2021
+\overline{x}_d𝐖
 \frac{8.4}{\sqrt{6}}
 (32,\~\frac{1}{3})
 \frac{1}{2}
@@ -319,9 +319,9 @@ p2022 >p2021
 \frac{29}{192}
 \frac{1}{p}
 \frac{1}{0.25}
-\sqrt{\frac{1 -p}{p^2}}
-\sqrt{\frac{1 -0.25}{0.25^2}}
-\sigma \~=\~\sqrt{5.5}
+\sqrt{\frac{1𝐖-p}{p^2𝐖}}
+\sqrt{\frac{1𝐖-0.25}{0.25^2𝐖}}
+\sigma𝐖\~=\~\sqrt{5.5}
 \overline{X}
 \overline{X}
 \overline{X}
@@ -350,224 +350,224 @@ p2022 >p2021
 (4.59,\~\frac{16}{0.10})
 \overline{X}
 (4.59,\~\frac{\sqrt{16}}{0.10})
-Z_1 =\frac{\overline{X} -\mu_{\overline{X}}}{\sigma_{\overline{X}}} =\frac{\overline{X} -\mu}{\frac{\sigma}{\sqrt{n}}}
-\mathrm{\mu}_{\overline{x}}
-\mathrm{\mu}_{\overline{x}}
-\sigma_{\overline{x}}
-\frac{\sigma}{\sqrt{n}}
+Z_1𝐖𝐖=\frac{\overline{X}𝐖-\mu𝐖_{\overline{X}}𝐖}{\sigma𝐖_{\overline{X}}𝐖}𝐖=\frac{\overline{X}𝐖-\mu𝐖}{\frac{\sigma𝐖}{\sqrt{n}}}
+\mathrm{\mu}_{\overline{x}}𝐖
+\mathrm{\mu}_{\overline{x}}𝐖
+\sigma𝐖_{\overline{x}}𝐖
+\frac{\sigma𝐖}{\sqrt{n}}
 \overline{X}
-\sigma_{\overline{x}}
-\mu =\overline{X} \pm Z_1 \frac{\sigma}{\sqrt{n}}
+\sigma𝐖_{\overline{x}}𝐖
+\mu𝐖𝐖=\overline{X}𝐖\pm𝐖Z_1𝐖\frac{\sigma𝐖}{\sqrt{n}}
 \overline{X}
-\overline{X} -Z_\alpha (\frac{\sigma}{\sqrt{n}}) \le \mu \le \overline{X} +Z_\alpha (\frac{\sigma}{\sqrt{n}})
+\overline{X}𝐖-Z_\alpha𝐖𝐖(\frac{\sigma𝐖}{\sqrt{n}})𝐖\le𝐖\mu𝐖𝐖\le𝐖\overline{X}𝐖+Z_\alpha𝐖𝐖(\frac{\sigma𝐖}{\sqrt{n}})
 \overline{X}
-\mu =\overline{X} \pm Z_\alpha (\frac{\sigma}{\sqrt{n}}) =2 \pm 1.96(0.1) =2 \pm 0.1961.804 \le \mu \le 2.196
-\overline{X} -Z_\alpha (\frac{\sigma}{\sqrt{n}}) \le \mu \le \overline{X} +Z_\alpha (\frac{\sigma}{\sqrt{n}})
-Z_\alpha
-\mu =\overline{x} \pm Z_\alpha (\frac{\sigma}{\sqrt{n}})
-Z\alpha
-Z\alpha
+\mu𝐖𝐖=\overline{X}𝐖\pm𝐖Z_\alpha𝐖𝐖(\frac{\sigma𝐖}{\sqrt{n}})𝐖=2𝐖\pm𝐖1.96(0.1)𝐖=2𝐖\pm𝐖0.1961.804𝐖\le𝐖\mu𝐖𝐖\le𝐖2.196
+\overline{X}𝐖-Z_\alpha𝐖𝐖(\frac{\sigma𝐖}{\sqrt{n}})𝐖\le𝐖\mu𝐖𝐖\le𝐖\overline{X}𝐖+Z_\alpha𝐖𝐖(\frac{\sigma𝐖}{\sqrt{n}})
+Z_\alpha𝐖𝐖
+\mu𝐖𝐖=\overline{x}𝐖\pm𝐖Z_\alpha𝐖𝐖(\frac{\sigma𝐖}{\sqrt{n}})
+Z\alpha𝐖
+Z\alpha𝐖
 n
 \overline{X}
-\overline{X} -Z_\alpha (\frac{\sigma}{\sqrt{n}}) \le \mu \le \overline{X} +Z_\alpha (\frac{\sigma}{\sqrt{n}})
-\sigma =3
-n =36
-\overline{X} =68
-\overline{X} -Z_\alpha (\frac{\sigma}{\sqrt{n}}) \le \mu \le \overline{X} +Z_\alpha (\frac{\sigma}{\sqrt{n}})
-68 -1.645(\frac{3}{\sqrt{36}}) \le \mu \le 68 +1.645(\frac{3}{\sqrt{36}})
-68 -0.8225 \le \mu \le 68 +0.8225
-67.1775 \le \mu \le 68.8225
-\mu =\overline{x} \pm Z_\alpha (\frac{\sigma}{\sqrt{n}})
-\mu =68 \pm 1.96(\frac{3}{\sqrt{36}})
-67.02 \le \mu \le 68.98
-Z_{\frac{\alpha}{2}} =Z_{0.025} =1.96
-\overline{X} -Z_\alpha (\frac{\sigma}{\sqrt{n}}) \le \mu \le \overline{X} +Z_\alpha (\frac{\sigma}{\sqrt{n}})
-\frac{\sigma}{\sqrt{n}}
+\overline{X}𝐖-Z_\alpha𝐖𝐖(\frac{\sigma𝐖}{\sqrt{n}})𝐖\le𝐖\mu𝐖𝐖\le𝐖\overline{X}𝐖+Z_\alpha𝐖𝐖(\frac{\sigma𝐖}{\sqrt{n}})
+\sigma𝐖𝐖=3
+n𝐖=36
+\overline{X}𝐖=68
+\overline{X}𝐖-Z_\alpha𝐖𝐖(\frac{\sigma𝐖}{\sqrt{n}})𝐖\le𝐖\mu𝐖𝐖\le𝐖\overline{X}𝐖+Z_\alpha𝐖𝐖(\frac{\sigma𝐖}{\sqrt{n}})
+68𝐖-1.645(\frac{3}{\sqrt{36}})𝐖\le𝐖\mu𝐖𝐖\le𝐖68𝐖+1.645(\frac{3}{\sqrt{36}})
+68𝐖-0.8225𝐖\le𝐖\mu𝐖𝐖\le𝐖68𝐖+0.8225
+67.1775𝐖\le𝐖\mu𝐖𝐖\le𝐖68.8225
+\mu𝐖𝐖=\overline{x}𝐖\pm𝐖Z_\alpha𝐖𝐖(\frac{\sigma𝐖}{\sqrt{n}})
+\mu𝐖𝐖=68𝐖\pm𝐖1.96(\frac{3}{\sqrt{36}})
+67.02𝐖\le𝐖\mu𝐖𝐖\le𝐖68.98
+Z_{\frac{\alpha𝐖}{2}}𝐖𝐖=Z_{0.025}𝐖𝐖=1.96
+\overline{X}𝐖-Z_\alpha𝐖𝐖(\frac{\sigma𝐖}{\sqrt{n}})𝐖\le𝐖\mu𝐖𝐖\le𝐖\overline{X}𝐖+Z_\alpha𝐖𝐖(\frac{\sigma𝐖}{\sqrt{n}})
+\frac{\sigma𝐖}{\sqrt{n}}
 n
 n
-\mu =\overline{x} \pm Z_\alpha (\frac{\sigma}{\sqrt{n}})
-\mu =68 \pm 1.645(\frac{3}{\sqrt{100}})
-67.5065 \le \mu \le 68.4935
-\mu =\overline{x} \pm Z_\alpha (\frac{\sigma}{\sqrt{n}})
-\mu =68 \pm 1.645(\frac{3}{\sqrt{25}})
-67.013 \le \mu \le 68.987
-\mu =\overline{x} \pm [Z_{(a\space /2)} \frac{s}{\sqrt{n}}]
-\mu =593.84 \pm [1.75\frac{369.34}{\sqrt{80}}]
-Z_{(a/2)}
-\mu =593.84 \pm 72.2636 =(521.57, 666.10)
-\$521.58 \le \mu \le \$666.10
-\overline{X} -Z_\alpha (\frac{\sigma}{\sqrt{n}}) \le \mu \le \overline{X} +Z_\alpha (\frac{\sigma}{\sqrt{n}})
-z_{\frac{\alpha}{2}}
-\frac{\propto}{2}
-y_i =\beta_0 +\beta_1 X_{1i} +\beta_2 X_{2i} +\cdots +\beta_k X_{ki} +\varepsilon_i
+\mu𝐖𝐖=\overline{x}𝐖\pm𝐖Z_\alpha𝐖𝐖(\frac{\sigma𝐖}{\sqrt{n}})
+\mu𝐖𝐖=68𝐖\pm𝐖1.645(\frac{3}{\sqrt{100}})
+67.5065𝐖\le𝐖\mu𝐖𝐖\le𝐖68.4935
+\mu𝐖𝐖=\overline{x}𝐖\pm𝐖Z_\alpha𝐖𝐖(\frac{\sigma𝐖}{\sqrt{n}})
+\mu𝐖𝐖=68𝐖\pm𝐖1.645(\frac{3}{\sqrt{25}})
+67.013𝐖\le𝐖\mu𝐖𝐖\le𝐖68.987
+\mu𝐖𝐖=\overline{x}𝐖\pm𝐖[Z_{(a\space𝐖/2)}𝐖\frac{s}{\sqrt{n}}]
+\mu𝐖𝐖=593.84𝐖\pm𝐖[1.75\frac{369.34}{\sqrt{80}}]
+Z_{(a/2)}𝐖
+\mu𝐖𝐖=593.84𝐖\pm𝐖72.2636𝐖=(521.57,𝐖666.10)
+\$521.58𝐖\le𝐖\mu𝐖𝐖\le𝐖\$666.10
+\overline{X}𝐖-Z_\alpha𝐖𝐖(\frac{\sigma𝐖}{\sqrt{n}})𝐖\le𝐖\mu𝐖𝐖\le𝐖\overline{X}𝐖+Z_\alpha𝐖𝐖(\frac{\sigma𝐖}{\sqrt{n}})
+z_{\frac{\alpha𝐖}{2}}𝐖
+\frac{\propto𝐖}{2}
+y_i𝐖𝐖=\beta𝐖_0𝐖𝐖+\beta𝐖_1𝐖X_{1i}𝐖𝐖+\beta𝐖_2𝐖X_{2i}𝐖𝐖+\cdots𝐖𝐖+\beta𝐖_k𝐖X_{ki}𝐖𝐖+\varepsilon𝐖_i𝐖
 \overline{X}
-y_i =b_0 +b_1 x_{1i} +b_2 x_{2i} +e_i
-x_i
-\hat{y} =a +bx.
-\hat{C}
-y_0 -\hat y_0 =e_0
-y_0 -\hat y_0 =e_0
-\hat y =b_0 +b_1 x
-b_0 =\overline{y} -b_1 \overline{x}
-b_1 =\frac{ \Sigma (x -\overline{x})(y -\overline{y})}{ \Sigma (x -\overline{x})^2} =\frac{cov(x, y)}{s_x^2}
+y_i𝐖𝐖=b_0𝐖𝐖+b_1𝐖x_{1i}𝐖𝐖+b_2𝐖x_{2i}𝐖𝐖+e_i𝐖
+x_i𝐖
+𝐖\hat{y}𝐖𝐖=a𝐖+bx.
+𝐖\hat{C}𝐖
+y_0𝐖𝐖-\hat𝐖y𝐖_0𝐖𝐖=e_0𝐖
+y_0𝐖𝐖-\hat𝐖y𝐖_0𝐖𝐖=e_0𝐖
+\hat𝐖y𝐖𝐖=b_0𝐖𝐖+b_1𝐖x
+b_0𝐖𝐖=\overline{y}𝐖-b_1𝐖\overline{x}
+b_1𝐖𝐖=\frac{𝐖\Sigma𝐖(x𝐖-\overline{x})(y𝐖-\overline{y})}{𝐖\Sigma𝐖(x𝐖-\overline{x})^2𝐖}𝐖=\frac{cov(x,𝐖y)}{s_x𝐖^2𝐖}
 \overline{x}
 \overline{y}
 \overline{x}
 \overline{y}
-b_1 =r_{y,x} (\frac{s_y}{s_x})
-\mathrm{\mu}_{\overline{x}}
-s_e^2 =\frac{ \Sigma (y_i -\hat y_i)^2}{n -k} =\frac{ \Sigma e_i^2}{n -k}
-(y_i -\hat y_i)^2
-(n -k)
-H_0 \colon \beta_1 =0
-H_a \colon \beta_1 \not= 0
-t_c =\frac{b_1 -\beta_1}{S_{b_1}}
-S_{b_1}
-S_{b_1}
-S_{b_1} =\frac{S_e}{\sqrt{\Sigma (x_i -\overset{\textendash}{x})^2}}
-S_{b_1} =\frac{S_e}{\sqrt{(n -1)S_x^2}}
-b_0
-(1 -\alpha)
-x_1
-x_2
-b_1 =\frac{s_y (r_{x_1 y} -r_{x_1 x_2} r_{x_2 y})}{s_{x_1} (1 -r_{x_1 x_2}^2)}
-b_2 =\frac{s_y (r_{x_2 y} -r_{x_1 x_2} r_{x_1 y})}{s_{x_2} (1 -r_{x_1 x_2}^2)}
-b_0 =\overset{-}{y} -b_1 \overline{x}_1 -b_2 \overline{x}_2
-x_1
-x_2
-r_{x_1 x_2}^2
-b_1
-b_2
-s_{b_1}^2 =\frac{s_e^2}{(n -1)s_{x_1}^2 (1 -r_{x_1 x_2}^2)}
-s_{b_2}^2 =\frac{s_e^2}{(n -1)s_{x_2}^2 (1 -r_{x_1 x_2}^2)}
-x_1
-x_2
-R^2 =\frac{SSR}{SST}
-(\hat y -\overline{y})
-y_i -\overline{y}
-y_i -\hat y
-\hat y -\overline{y}
-\overline{R}^2
-H_o \colon \beta_1 =\beta_2 =\ldots =\beta_i =0
-H_a \colon
-F_c =\frac{(\frac{SSR}{k})}{(\frac{SSE}{n -k -1})}
-F_c =\frac{n -k -1}{k} \cdotp \frac{R^2}{1 -R^2}
-\hat y =b_0 +b_2 x_2 +b_1 x_1
-x_2 =0, 1
-\overline{R}^2
-H_0 \colon \beta_3 =0|\beta_1 =0, \beta_2 =0
-H_a \colon \beta_3 \not= 0|\beta_1 \not= 0, \beta_2 \not= 0
+b_1𝐖𝐖=r_{y,x}𝐖(\frac{s_y𝐖}{s_x𝐖})
+\mathrm{\mu}_{\overline{x}}𝐖
+s_e^2𝐖𝐖=\frac{𝐖\Sigma𝐖(y_i𝐖𝐖-\hat𝐖y𝐖_i𝐖)^2𝐖}{n𝐖-k}𝐖=\frac{𝐖\Sigma𝐖e_i𝐖^2𝐖}{n𝐖-k}
+(y_i𝐖𝐖-\hat𝐖y𝐖_i𝐖)^2𝐖
+(n𝐖-k)
+H_0𝐖𝐖\colon𝐖\beta𝐖_1𝐖𝐖=0
+H_a𝐖𝐖\colon𝐖\beta𝐖_1𝐖𝐖\not=𝐖0
+t_c𝐖𝐖=\frac{b_1𝐖𝐖-\beta𝐖_1𝐖}{S_{b_1𝐖}𝐖}
+S_{b_1𝐖}𝐖
+S_{b_1𝐖}𝐖
+S_{b_1𝐖}𝐖𝐖=\frac{S_e𝐖}{\sqrt{\Sigma𝐖(x_i𝐖𝐖-\overset{\textendash𝐖}{x})^2𝐖}}
+S_{b_1𝐖}𝐖𝐖=\frac{S_e𝐖}{\sqrt{(n𝐖-1)S_x^2𝐖}}
+b_0𝐖
+(1𝐖-\alpha𝐖)
+x_1𝐖
+x_2𝐖
+b_1𝐖𝐖=\frac{s_y𝐖(r_{x_1𝐖y}𝐖𝐖-r_{x_1𝐖x_2𝐖}𝐖r_{x_2𝐖y}𝐖)}{s_{x_1𝐖}𝐖(1𝐖-r_{x_1𝐖x_2𝐖}^2𝐖)}
+b_2𝐖𝐖=\frac{s_y𝐖(r_{x_2𝐖y}𝐖𝐖-r_{x_1𝐖x_2𝐖}𝐖r_{x_1𝐖y}𝐖)}{s_{x_2𝐖}𝐖(1𝐖-r_{x_1𝐖x_2𝐖}^2𝐖)}
+b_0𝐖𝐖=\overset{-}{y}𝐖-b_1𝐖\overline{x}_1𝐖𝐖-b_2𝐖\overline{x}_2𝐖
+x_1𝐖
+x_2𝐖
+r_{x_1𝐖x_2𝐖}^2𝐖
+b_1𝐖
+b_2𝐖
+s_{b_1𝐖}^2𝐖𝐖=\frac{s_e^2𝐖}{(n𝐖-1)s_{x_1𝐖}^2𝐖(1𝐖-r_{x_1𝐖x_2𝐖}^2𝐖)}
+s_{b_2𝐖}^2𝐖𝐖=\frac{s_e^2𝐖}{(n𝐖-1)s_{x_2𝐖}^2𝐖(1𝐖-r_{x_1𝐖x_2𝐖}^2𝐖)}
+x_1𝐖
+x_2𝐖
+R^2𝐖𝐖=\frac{SSR}{SST}
+(\hat𝐖y𝐖𝐖-\overline{y})
+y_i𝐖𝐖-\overline{y}
+y_i𝐖𝐖-\hat𝐖y𝐖
+\hat𝐖y𝐖𝐖-\overline{y}
+\overline{R}^2𝐖
+H_o𝐖𝐖\colon𝐖\beta𝐖_1𝐖𝐖=\beta𝐖_2𝐖𝐖=\ldots𝐖𝐖=\beta𝐖_i𝐖𝐖=0
+H_a𝐖𝐖\colon𝐖
+F_c𝐖𝐖=\frac{(\frac{SSR}{k})}{(\frac{SSE}{n𝐖-k𝐖-1})}
+F_c𝐖𝐖=\frac{n𝐖-k𝐖-1}{k}𝐖\cdotp𝐖\frac{R^2𝐖}{1𝐖-R^2𝐖}
+\hat𝐖y𝐖𝐖=b_0𝐖𝐖+b_2𝐖x_2𝐖𝐖+b_1𝐖x_1𝐖
+x_2𝐖𝐖=0,𝐖1
+\overline{R}^2𝐖
+H_0𝐖𝐖\colon𝐖\beta𝐖_3𝐖𝐖=0|\beta𝐖_1𝐖𝐖=0,𝐖\beta𝐖_2𝐖𝐖=0
+H_a𝐖𝐖\colon𝐖\beta𝐖_3𝐖𝐖\not=𝐖0|\beta𝐖_1𝐖𝐖\not=𝐖0,𝐖\beta𝐖_2𝐖𝐖\not=𝐖0
 \overline{x}
-\overline{x} =\frac{1 +1 +1 +2 +2 +3 +4 +4 +4 +4 +4}{11} =2.7
-\overline{x} =\frac{3(1) +2(2) +1(3) +5(4)}{11} =2.7
-\frac{n +1}{2}
-\frac{n +1}{2}
-\frac{97 +1}{2}
-\frac{n +1}{2}
-\frac{100 +1}{2}
-\overline{x} =\frac{[3 +4 +(8)(2) +10 +11 +12 +13 +14 +(15)(2) +(16)(2) +... +35 +37 +40 +(44)(2) +47]}{40} =23.6
-\frac{n +1}{2} =\frac{40 +1}{2} =20.5
-M =\frac{24 +24}{2} =24
-\overline{x} =\frac{5,000,000 +49(30, 000)}{50} =129,400
+\overline{x}𝐖=\frac{1𝐖+1𝐖+1𝐖+2𝐖+2𝐖+3𝐖+4𝐖+4𝐖+4𝐖+4𝐖+4}{11}𝐖=2.7
+\overline{x}𝐖=\frac{3(1)𝐖+2(2)𝐖+1(3)𝐖+5(4)}{11}𝐖=2.7
+\frac{n𝐖+1}{2}
+\frac{n𝐖+1}{2}
+\frac{97𝐖+1}{2}
+\frac{n𝐖+1}{2}
+\frac{100𝐖+1}{2}
+\overline{x}𝐖=\frac{[3𝐖+4𝐖+(8)(2)𝐖+10𝐖+11𝐖+12𝐖+13𝐖+14𝐖+(15)(2)𝐖+(16)(2)𝐖+...𝐖+35𝐖+37𝐖+40𝐖+(44)(2)𝐖+47]}{40}𝐖=23.6
+\frac{n𝐖+1}{2}𝐖=\frac{40𝐖+1}{2}𝐖=20.5
+M𝐖=\frac{24𝐖+24}{2}𝐖=24
+\overline{x}𝐖=\frac{5,000,000𝐖+49(30,𝐖000)}{50}𝐖=129,400
 \frac{data\~sum}{number\~of\~data\~values}
-\frac{lower\~boundary +upper\~boundary}{2}
-Mean\~of\~Frequency\~Table =\frac{ \sum fm}{ \sum f}
-\sum^\textquotesingle \backslash x00200b\textquotesingle fm
-53.25(1) +59.5(0) +65.5(4) +71.5(4) +77.5(2) +83.5(3) +89.5(4) +95.5(1) =1460.25
-\mu =\frac{ \sum fm}{ \sum f} =\frac{1460.25}{19} =76.86
-E(\mu_{\overline{x}}) =\mu
-\underset{n \to \infty}{\lim}P(| \overline{X}_n -\mu |) >\varepsilon =0
-P(\underset{n \to \infty}{\lim}| \overline{X}_n =\mu |) \lt \varepsilon =1
-\overline{X}_n
-\overline{X}_n
-\frac{\sigma}{\sqrt{n}}
+\frac{lower\~boundary𝐖+upper\~boundary}{2}
+Mean\~of\~Frequency\~Table𝐖=\frac{𝐖\sum𝐖fm}{𝐖\sum𝐖f}
+\sum𝐖^\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖𝐖fm
+53.25(1)𝐖+59.5(0)𝐖+65.5(4)𝐖+71.5(4)𝐖+77.5(2)𝐖+83.5(3)𝐖+89.5(4)𝐖+95.5(1)𝐖=1460.25
+\mu𝐖𝐖=\frac{𝐖\sum𝐖fm}{𝐖\sum𝐖f}𝐖=\frac{1460.25}{19}𝐖=76.86
+E(\mu𝐖_{\overline{x}}𝐖)𝐖=\mu𝐖
+\underset{n𝐖\to𝐖\infty𝐖}{\lim𝐖}P(|𝐖\overline{X}_n𝐖𝐖-\mu𝐖|)𝐖>\varepsilon𝐖𝐖=0
+P(\underset{n𝐖\to𝐖\infty𝐖}{\lim𝐖}|𝐖\overline{X}_n𝐖𝐖=\mu𝐖|)𝐖\lt𝐖\varepsilon𝐖𝐖=1
+\overline{X}_n𝐖
+\overline{X}_n𝐖
+\frac{\sigma𝐖}{\sqrt{n}}
 \overline{x}
-\mu_{\overline{x}}
+\mu𝐖_{\overline{x}}𝐖
 \overline{X}
-\frac{\sigma}{\sqrt{n}}
+\frac{\sigma𝐖}{\sqrt{n}}
 \overline{x}
-\mu_{\overline{x}}
-\sigma_{\overline{x}} =\frac{\sigma}{\sqrt{n}}
+\mu𝐖_{\overline{x}}𝐖
+\sigma𝐖_{\overline{x}}𝐖𝐖=\frac{\sigma𝐖}{\sqrt{n}}
 \overline{x}
 \overline{x}
-\mathrm{\mu}_{\overline{x}}
+\mathrm{\mu}_{\overline{x}}𝐖
 \overline{X}
 \overline{X}
 \overline{X}
-\frac{\sigma}{\sqrt{n}}
-\frac{\sigma}{\sqrt{n}}
+\frac{\sigma𝐖}{\sqrt{n}}
+\frac{\sigma𝐖}{\sqrt{n}}
 \overline{x}
 \overline{x}\~=\~\frac{Sum\~of\~all\~values\~in\~the\~sample}{Number\~of\~values\~in\~the\~sample}
-\mu \~=\~\frac{Sum\~of\~all\~values\~in\~the\~population}{Number\~of\~values\~in\~the\~population}
-f(x)\~=\~\frac{1}{\sigma \sqrt{2\pi}}e^{\frac{ \textendash (x \textendash \mu)^2}{2\sigma^2}}
-\frac{\sigma}{\sqrt{n}}
+\mu𝐖\~=\~\frac{Sum\~of\~all\~values\~in\~the\~population}{Number\~of\~values\~in\~the\~population}
+f(x)\~=\~\frac{1}{\sigma𝐖\sqrt{2\pi𝐖}}e^{\frac{𝐖\textendash𝐖(x𝐖\textendash𝐖\mu𝐖)^2𝐖}{2\sigma𝐖^2𝐖}}𝐖
+\frac{\sigma𝐖}{\sqrt{n}}
 \frac{1}{5}
 \frac{1}{12}
 \frac{1}{3}
-P(x >\frac{3}{2}) .
-|
+P(x𝐖>\frac{3}{2})𝐖.
+|𝐖
 \overline{x}
 \overline{x}
-|
+|𝐖
 \frac{3}{4}
 (\frac{8}{31})
-RF =\frac{f}{n}
+RF𝐖=\frac{f}{n}
 \frac{f}{n}
 \frac{3}{40}
-74.05 -59.95 =14.1 \\ 14.1 \div 8 =1.76
-6.5 -0.5 =6 \\ 6 \div 1 =6
+74.05𝐖-59.95𝐖=14.1𝐖\\𝐖14.1𝐖\div𝐖8𝐖=1.76
+6.5𝐖-0.5𝐖=6𝐖\\𝐖6𝐖\div𝐖1𝐖=6
 \overline{x}
 \overline{x}
-s =\sqrt{\frac{\Sigma (x -\overline{x})^2}{n -1}}
-s =\sqrt{\frac{\Sigma f(x -\overline{x})^2}{n -1}}
-s =\sqrt{\frac{(\sum_{i =1}^n x^2) -n\overline{x}^2}{n -1}}
-\sigma =\sqrt{\frac{\Sigma (x -\mu)^2}{N}}
-\sigma =\sqrt{\frac{\Sigma f(x \textendash \mu)^2}{N}}
-\sigma =\sqrt{\frac{\sum_{i =1}^N x_i^2}{N} -\mu^2}
-\overline{x} =\frac{9\~+\~9.5(2)\~+\~10(4)\~+\~10.5(4)\~+\~11(6)\~+\~11.5(3)}{20} =10.525
+s𝐖=\sqrt{\frac{\Sigma𝐖(x𝐖-\overline{x})^2𝐖}{n𝐖-1}}
+s𝐖=\sqrt{\frac{\Sigma𝐖f(x𝐖-\overline{x})^2𝐖}{n𝐖-1}}
+s𝐖=\sqrt{\frac{(\sum𝐖_{i𝐖=1}^n𝐖x^2𝐖)𝐖-n\overline{x}^2𝐖}{n𝐖-1}}
+\sigma𝐖𝐖=\sqrt{\frac{\Sigma𝐖(x𝐖-\mu𝐖)^2𝐖}{N}}
+\sigma𝐖𝐖=\sqrt{\frac{\Sigma𝐖f(x𝐖\textendash𝐖\mu𝐖)^2𝐖}{N}}
+\sigma𝐖𝐖=\sqrt{\frac{\sum𝐖_{i𝐖=1}^N𝐖x_i^2𝐖}{N}𝐖-\mu𝐖^2𝐖}
+\overline{x}𝐖=\frac{9\~+\~9.5(2)\~+\~10(4)\~+\~10.5(4)\~+\~11(6)\~+\~11.5(3)}{20}𝐖=10.525
 \overline{x}
 \overline{x}
 \overline{x}
-s^2 =\frac{9.7375}{20 -1} =0.5125
-s =\sqrt{0.5125} =0.715891,
-MeanofFrequencyTable =\frac{ \sum fm}{ \sum f}
-f =
-f \cdotp m
-f(m -\overline{x})^2
-1 \cdotp 1 =1
-1(1 -6.88)^2 =34.57
-6 \cdotp 4 =24
-6(4 -6.88)^2 =49.77
-10 \cdotp 7 =70
-10(7 -6.88)^2 =0.14
-7 \cdotp 10 =70
-7(10 -6.88)^2 =68.14
-0 \cdotp 13 =0
-0(13 -6.88)^2 =0
-\overline{x} =\frac{165}{24} =6.88
-s^2 =\frac{152.62}{24 -1} =6.64
+s^2𝐖𝐖=\frac{9.7375}{20𝐖-1}𝐖=0.5125
+s𝐖=\sqrt{0.5125}𝐖=0.715891,𝐖
+MeanofFrequencyTable𝐖=\frac{𝐖\sum𝐖fm}{𝐖\sum𝐖f}
+f𝐖=
+f𝐖\cdotp𝐖m
+f(m𝐖-\overline{x})^2𝐖
+1𝐖\cdotp𝐖1𝐖=1
+1(1𝐖-6.88)^2𝐖𝐖=34.57
+6𝐖\cdotp𝐖4𝐖=24
+6(4𝐖-6.88)^2𝐖𝐖=49.77
+10𝐖\cdotp𝐖7𝐖=70
+10(7𝐖-6.88)^2𝐖𝐖=0.14
+7𝐖\cdotp𝐖10𝐖=70
+7(10𝐖-6.88)^2𝐖𝐖=68.14
+0𝐖\cdotp𝐖13𝐖=0
+0(13𝐖-6.88)^2𝐖𝐖=0
+\overline{x}𝐖=\frac{165}{24}𝐖=6.88
+s^2𝐖𝐖=\frac{152.62}{24𝐖-1}𝐖=6.64
 \overline{x}
-s_x =\sqrt{\frac{\Sigma (m -\overline{x})^2 f}{n -1}}
+s_x𝐖𝐖=\sqrt{\frac{\Sigma𝐖(m𝐖-\overline{x})^2𝐖f}{n𝐖-1}}
 \overline{x}
-\#ofSTDEVs =\frac{x\~\textendash \~mean}{standard\~deviation}
+𝐖\#ofSTDEVs𝐖=\frac{x\~\textendash𝐖\~mean}{standard\~deviation}
 x
 \overline{x}
-z =\frac{x -\overline{x}}{s}
+z𝐖=\frac{x𝐖-\overline{x}}{s}
 x
-\mu
-z =\frac{x -\mu}{\sigma}
-z = \#\space of\space STDEVs =\frac{value\~ \textendash mean}{standard\~deviation} =\frac{x -\mu}{\sigma}
-z = \#ofSTDEVs =\frac{2.85 -3.0}{0.7} = -0.21
-z = \#ofSTDEVs =\frac{77 -80}{10} = -0.3
-CV =\frac{s}{\overline{x}}^* 100conditioned\space upon\overline{x} \not= 0,wheresis\space the\space standard\space deviation\space of\space the\space data\space and\overline{x}is\space the\space mean.
-\cup
-\cap
-|
-|
-|
-|
-\cup
-\cap
+\mu𝐖
+z𝐖=\frac{x𝐖-\mu𝐖}{\sigma𝐖}
+z𝐖=𝐖\#\space𝐖of\space𝐖STDEVs𝐖=\frac{value\~𝐖\textendash𝐖mean}{standard\~deviation}𝐖=\frac{x𝐖-\mu𝐖}{\sigma𝐖}
+z𝐖=𝐖\#ofSTDEVs𝐖=\frac{2.85𝐖-3.0}{0.7}𝐖=𝐖-0.21
+z𝐖=𝐖\#ofSTDEVs𝐖=\frac{77𝐖-80}{10}𝐖=𝐖-0.3
+CV𝐖=\frac{s}{\overline{x}}^*𝐖100conditioned\space𝐖upon\overline{x}𝐖\not=𝐖0,wheresis\space𝐖the\space𝐖standard\space𝐖deviation\space𝐖of\space𝐖the\space𝐖data\space𝐖and\overline{x}is\space𝐖the\space𝐖mean.
+\cup𝐖
+\cap𝐖
+|𝐖
+|𝐖
+|𝐖
+|𝐖
+\cup𝐖
+\cap𝐖
 \frac{15}{42}
 \frac{5}{14}
 \frac{5}{42}
@@ -575,7 +575,7 @@ CV =\frac{s}{\overline{x}}^* 100conditioned\space upon\overline{x} \not= 0,where
 \frac{2}{15}
 \frac{22}{150}
 \frac{11}{75}
-\frac{150 -22 -38 -20 -28 -26}{150}
+\frac{150𝐖-22𝐖-38𝐖-20𝐖-28𝐖-26}{150}
 \frac{16}{150}
 \frac{8}{75}
 \frac{47}{194}
@@ -586,12 +586,12 @@ CV =\frac{s}{\overline{x}}^* 100conditioned\space upon\overline{x} \not= 0,where
 \frac{1}{4}
 \frac{3}{6}
 \frac{1}{2}
-P(R) =\frac{4}{8} =0.5
-\cup
-|
-|
-\cup
-P(Q \cap R) =P(Q)P(R)
+P(R)𝐖=\frac{4}{8}𝐖=0.5
+\cup𝐖
+|𝐖
+|𝐖
+\cup𝐖
+P(Q𝐖\cap𝐖R)𝐖=P(Q)P(R)
 P(ZANDS)
 P(ZANDS)
 ZANDS
@@ -600,7 +600,7 @@ P(ZORS)
 P(ZORS)
 ZORS
 ZORS
-\cap
+\cap𝐖
 \frac{15}{130}
 \frac{3}{26}
 \frac{35,065}{100,450}
@@ -612,14 +612,14 @@ ZORS
 \frac{15}{64}
 \frac{15}{64}
 \frac{55}{64}
-|
+|𝐖
 \frac{5}{8}
-|
-|
-\cap
-\cap
-\cap
-\cap
+|𝐖
+|𝐖
+\cap𝐖
+\cap𝐖
+\cap𝐖
+\cap𝐖
 \frac{6}{38}
 \frac{3}{38}
 \frac{1}{38}
@@ -627,35 +627,35 @@ ZORS
 \frac{2}{38}
 \frac{5}{38}
 \frac{3}{38}
-\frac{5}{8}\lt mtext/>
-\frac{2}{3}\lt mtext/>
-\frac{2}{8}\lt mtext/>
-\frac{6}{8}\lt mtext/>
-\cap
+\frac{5}{8}\lt𝐖mtext/>
+\frac{2}{3}\lt𝐖mtext/>
+\frac{2}{8}\lt𝐖mtext/>
+\frac{6}{8}\lt𝐖mtext/>
+\cap𝐖
 (\frac{3}{10})
 (\frac{1}{2})
 \frac{3}{20}
-\cap
-\cap
+\cap𝐖
+\cap𝐖
 \frac{3}{20}
 \frac{4}{8}
-\cap
-\cap
-\cup
-|
-|
-|
-|
-\cup
-\cap
-\cup
+\cap𝐖
+\cap𝐖
+\cup𝐖
+|𝐖
+|𝐖
+|𝐖
+|𝐖
+\cup𝐖
+\cap𝐖
+\cup𝐖
 \frac{10}{67}
 \frac{10}{34}
-\frac{8,395}{21,081} \approx 0.3982
-\frac{1,061}{21,081} \approx 0.0503
-\frac{1,885}{21,081} \approx 0.0894
-\frac{9,219}{21,081} \approx 0.4373
-\frac{1,595}{3,656} \approx 0.4363
+\frac{8,395}{21,081}𝐖\approx𝐖0.3982
+\frac{1,061}{21,081}𝐖\approx𝐖0.0503
+\frac{1,885}{21,081}𝐖\approx𝐖0.0894
+\frac{9,219}{21,081}𝐖\approx𝐖0.4373
+\frac{1,595}{3,656}𝐖\approx𝐖0.4363
 \frac{26}{106}
 \frac{33}{106}
 \frac{21}{106}
@@ -664,229 +664,229 @@ ZORS
 (\frac{21}{106})
 (\frac{38}{106})
 \frac{21}{33}
-(J \cup K) =P( J) +P(K) -P(J \cap K);
-0.45 =0.18 +0.37 -P(J \cap K);
-P(J \cap K) =0.10
-P(NOT(J \cap K)) =1 -P(J \cap K)
-=1 -0.10 =0.90
-P(NOT(J \cup K)) =1 -P(J \cup K)
-=1 -0.45 =0.55
-Y =b_0 +b_1 X_1 +b_2 X_2 +b_3 X_3 +e
-Quantity\space of\space roses\space sold =183,475 -1.76Price\space of\space roses +1.33Price\space of\space carnations +3.03Income
-H_0 \colon \beta_1 =0
-H_a \colon \beta_1 \not= 0
-t_c =\frac{b_1 -\beta_0}{S_{b_1}}
-H_0 \colon \beta_1 =\beta_2 = \ldots =\beta i =0
-H_a \colon "at\space least\space one\space of\space the\beta_i is\space not\space equal\space to\space 0"
-\frac{1}{\sigma \sqrt{2\pi}}\~e^{\frac{ \textendash (x \textendash \mu)}{2\sigma^2}^2}
-\frac{x -\mu}{\sigma}
-\frac{| x \textendash \mu |}{\sigma}
+(J𝐖\cup𝐖K)𝐖=P(𝐖J)𝐖+P(K)𝐖-P(J𝐖\cap𝐖K);𝐖
+0.45𝐖=0.18𝐖+0.37𝐖-P(J𝐖\cap𝐖K);𝐖
+P(J𝐖\cap𝐖K)𝐖=0.10
+P(NOT(J𝐖\cap𝐖K))𝐖=1𝐖-P(J𝐖\cap𝐖K)
+𝐖=1𝐖-0.10𝐖=0.90
+P(NOT(J𝐖\cup𝐖K))𝐖=1𝐖-P(J𝐖\cup𝐖K)
+𝐖=1𝐖-0.45𝐖=0.55
+Y𝐖=b_0𝐖𝐖+b_1𝐖X_1𝐖𝐖+b_2𝐖X_2𝐖𝐖+b_3𝐖X_3𝐖𝐖+e
+Quantity\space𝐖of\space𝐖roses\space𝐖sold𝐖=183,475𝐖-1.76Price\space𝐖of\space𝐖roses𝐖+1.33Price\space𝐖of\space𝐖carnations𝐖+3.03Income
+H_0𝐖𝐖\colon𝐖\beta𝐖_1𝐖𝐖=0
+H_a𝐖𝐖\colon𝐖\beta𝐖_1𝐖𝐖\not=𝐖0
+t_c𝐖𝐖=\frac{b_1𝐖𝐖-\beta𝐖_0𝐖}{S_{b_1𝐖}𝐖}
+H_0𝐖𝐖\colon𝐖\beta𝐖_1𝐖𝐖=\beta𝐖_2𝐖𝐖=𝐖\ldots𝐖𝐖=\beta𝐖i𝐖=0
+H_a𝐖𝐖\colon𝐖"at\space𝐖least\space𝐖one\space𝐖of\space𝐖the\beta𝐖_i𝐖is\space𝐖not\space𝐖equal\space𝐖to\space𝐖0"
+\frac{1}{\sigma𝐖\sqrt{2\pi𝐖}}\~e^{\frac{𝐖\textendash𝐖(x𝐖\textendash𝐖\mu𝐖)}{2\sigma𝐖^2𝐖}^2𝐖}𝐖
+\frac{x𝐖-\mu𝐖}{\sigma𝐖}
+\frac{|𝐖x𝐖\textendash𝐖\mu𝐖|}{\sigma𝐖}
 \overline{X}
 \overline{X}
-\overline{X} \sim N(\mu, \frac{\sigma_X}{\sqrt{n}})
-\overline{X} \sim N(16.43, \frac{0.8}{\sqrt{15}})
+\overline{X}𝐖\sim𝐖N(\mu𝐖,𝐖\frac{\sigma𝐖_X𝐖}{\sqrt{n}})
+\overline{X}𝐖\sim𝐖N(16.43,𝐖\frac{0.8}{\sqrt{15}})
 \overline{x}
-\alpha >
-t_c =\frac{\overline{x} -\mathrm{\mu}_0}{\frac{s}{\sqrt{n}}} =\frac{108 -100}{(\frac{12}{\sqrt{16}})} =2.67
-t_a =1.753
+\alpha𝐖𝐖>
+t_c𝐖𝐖=\frac{\overline{x}𝐖-\mathrm{\mu}_0𝐖}{\frac{s}{\sqrt{n}}}𝐖=\frac{108𝐖-100}{(\frac{12}{\sqrt{16}})}𝐖=2.67
+t_a𝐖𝐖=1.753
 t
-(t_a)
-s^2
-H_0 \colon \mu =8
-H_a \colon \mu \not= 8
-Z_c =\frac{\overline{x} -\mu_0}{\frac{s}{\sqrt{n}}} =\frac{7.91 -8}{\frac{.173}{\sqrt{35}}} = -3.07
-\mu =np
-\sigma =\sqrt{npq}
-q =1 \textendash p
-Z =\frac{p' -p}{\sqrt{\frac{pq}{n}}}
-p_0
-Z_c =\frac{p' -p_0}{\sqrt{\frac{p_0 q_0}{n}}}
-Z =\frac{p' -p_0}{\sqrt{\frac{p_0 q_0}{n}}} =\frac{.53 -.50}{\sqrt{\frac{.5(.5)}{100}}} =0.60
-H_0 \colon p =0.3
-H_a \colon p \not= 0.3
-n =150
-p\textquotesingle =\frac{x}{n} =\frac{43}{150} =0.287
-Z_c =\frac{p' -p_0}{\sqrt{\frac{p_0 q_0}{n}}} =\frac{0.287 -0.3}{\sqrt{\frac{.3(.7)}{150}}} =0.347
-\frac{x\~\textendash \~\mu}{\sigma}
-\frac{| x \textendash \mu |}{\sigma}
-\underset{k}{\Sigma}\frac{(O -E)^2}{E}
-\frac{(O -E)^2}{E}
-\frac{(O\~\textendash \~E)^2}{E}
-\chi_c^2 =\underset{k}{\Sigma}\frac{(O -E)^2}{E} =3
-\chi_4^2
-\chi_2^2
-H_0 \colon \frac{\sigma_1^2}{\sigma_2^2} =\delta_0
-H_a \colon \frac{\sigma_1^2}{\sigma_2^2} \not= \delta_0
-H_0 \colon \sigma_1^2 =\sigma_2^2
-H_a \colon \sigma_1^2 \not= \sigma_2
-F_c =\frac{S_1^2}{S_2^2}
-SS_{between} =\sum^\textquotesingle \backslash x00200b\textquotesingle [\frac{(s_j)^2}{n_j}] -\frac{(\sum^\textquotesingle \backslash x00200b\textquotesingle s_j)^2}{n}
-SS_{total} =\sum^\textquotesingle \backslash x00200b\textquotesingle x^2 -\frac{(\sum^\textquotesingle \backslash x00200b\textquotesingle x)^2}{n}
-SS_{within} =SS_{total} -SS_{between}
-\frac{SS_{between}}{df_{between}}
-\frac{SS_{within}}{df_{within}}
-\frac{MS_{between}}{MS_{within}}
-s_{\overline{x}}2
-s2_{pooled}
-x_1
-x_1
-x_1
-f(x) =\frac{1}{\sigma \cdot \sqrt{2 \cdot \pi}} \cdot \~e^{ -\frac{1}{2} \cdot (\frac{x -\mu}{\sigma})^2}
-Z =\frac{x -\mu}{\sigma}
-Z =\frac{| x -\mu |}{\sigma}
-Z_1 =\frac{x_1 -\mu}{\sigma} =\frac{65 -63}{5} =0.4
-\frac{65\~\textendash \~63}{5}
-Z =\frac{x -\mu}{\sigma} =\frac{85 -63}{5} =4.4
-f(Z) =0.5 -0.25 =0.25
-\approx -0.675
-Z =\frac{x -\mu}{\sigma} =\frac{x -2}{0.5} = -0.675
-= -0.675^* 0.5 +2 =1.66
-Z_1 =\frac{6 -5.85}{.24} =.625
-f(Z) =\frac{0.20}{2} =0.10
-\approx \pm 0.25
-Z =\frac{x -\mu}{\sigma} =\frac{x -5.85}{0.24} = \pm 0.25 \to \pm 0.25 \cdotp 0.24 +5.85 =(5.79, 5.91)
-P(C) =
-P(P|C) =
-P(P|C') =
-P(H \cap G)
-P(H \cup G) .
-(H \cap G) .
-(H \cup G) .
+(t_a𝐖)
+s^2𝐖
+H_0𝐖𝐖\colon𝐖\mu𝐖𝐖=8
+H_a𝐖𝐖\colon𝐖\mu𝐖𝐖\not=𝐖8
+Z_c𝐖𝐖=\frac{\overline{x}𝐖-\mu𝐖_0𝐖}{\frac{s}{\sqrt{n}}}𝐖=\frac{7.91𝐖-8}{\frac{.173}{\sqrt{35}}}𝐖=𝐖-3.07
+\mu𝐖𝐖=np
+\sigma𝐖𝐖=\sqrt{npq}
+q𝐖=1𝐖\textendash𝐖p
+Z𝐖=\frac{p'𝐖-p}{\sqrt{\frac{pq}{n}}}
+p_0𝐖
+Z_c𝐖𝐖=\frac{p'𝐖-p_0𝐖}{\sqrt{\frac{p_0𝐖q_0𝐖}{n}}}
+Z𝐖=\frac{p'𝐖-p_0𝐖}{\sqrt{\frac{p_0𝐖q_0𝐖}{n}}}𝐖=\frac{.53𝐖-.50}{\sqrt{\frac{.5(.5)}{100}}}𝐖=0.60
+H_0𝐖𝐖\colon𝐖p𝐖=0.3
+H_a𝐖𝐖\colon𝐖p𝐖\not=𝐖0.3
+n𝐖=150
+p\textquotesingle𝐖𝐖=\frac{x}{n}𝐖=\frac{43}{150}𝐖=0.287
+Z_c𝐖𝐖=\frac{p'𝐖-p_0𝐖}{\sqrt{\frac{p_0𝐖q_0𝐖}{n}}}𝐖=\frac{0.287𝐖-0.3}{\sqrt{\frac{.3(.7)}{150}}}𝐖=0.347
+\frac{x\~\textendash𝐖\~\mu𝐖}{\sigma𝐖}
+\frac{|𝐖x𝐖\textendash𝐖\mu𝐖|}{\sigma𝐖}
+\underset{k}{\Sigma𝐖}\frac{(O𝐖-E)^2𝐖}{E}
+\frac{(O𝐖-E)^2𝐖}{E}
+\frac{(O\~\textendash𝐖\~E)^2𝐖}{E}
+\chi𝐖_c^2𝐖𝐖=\underset{k}{\Sigma𝐖}\frac{(O𝐖-E)^2𝐖}{E}𝐖=3
+\chi𝐖_4^2𝐖
+\chi𝐖_2^2𝐖
+H_0𝐖𝐖\colon𝐖\frac{\sigma𝐖_1^2𝐖}{\sigma𝐖_2^2𝐖}𝐖=\delta𝐖_0𝐖
+H_a𝐖𝐖\colon𝐖\frac{\sigma𝐖_1^2𝐖}{\sigma𝐖_2^2𝐖}𝐖\not=𝐖\delta𝐖_0𝐖
+H_0𝐖𝐖\colon𝐖\sigma𝐖_1^2𝐖𝐖=\sigma𝐖_2^2𝐖
+H_a𝐖𝐖\colon𝐖\sigma𝐖_1^2𝐖𝐖\not=𝐖\sigma𝐖_2𝐖
+F_c𝐖𝐖=\frac{S_1^2𝐖}{S_2^2𝐖}
+SS_{between}𝐖𝐖=\sum𝐖^\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖𝐖[\frac{(s_j𝐖)^2𝐖}{n_j𝐖}]𝐖-\frac{(\sum𝐖^\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖𝐖s_j𝐖)^2𝐖}{n}
+SS_{total}𝐖𝐖=\sum𝐖^\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖𝐖x^2𝐖𝐖-\frac{(\sum𝐖^\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖𝐖x)^2𝐖}{n}
+SS_{within}𝐖𝐖=SS_{total}𝐖𝐖-SS_{between}𝐖
+\frac{SS_{between}𝐖}{df_{between}𝐖}
+\frac{SS_{within}𝐖}{df_{within}𝐖}
+\frac{MS_{between}𝐖}{MS_{within}𝐖}
+s_{\overline{x}}2𝐖
+s2_{pooled}𝐖
+x_1𝐖
+x_1𝐖
+x_1𝐖
+f(x)𝐖=\frac{1}{\sigma𝐖𝐖\cdot𝐖\sqrt{2𝐖\cdot𝐖\pi𝐖}}𝐖\cdot𝐖\~e^{𝐖-\frac{1}{2}𝐖\cdot𝐖(\frac{x𝐖-\mu𝐖}{\sigma𝐖})^2𝐖}𝐖
+Z𝐖=\frac{x𝐖-\mu𝐖}{\sigma𝐖}
+Z𝐖=\frac{|𝐖x𝐖-\mu𝐖|}{\sigma𝐖}
+Z_1𝐖𝐖=\frac{x_1𝐖𝐖-\mu𝐖}{\sigma𝐖}𝐖=\frac{65𝐖-63}{5}𝐖=0.4
+\frac{65\~\textendash𝐖\~63}{5}
+Z𝐖=\frac{x𝐖-\mu𝐖}{\sigma𝐖}𝐖=\frac{85𝐖-63}{5}𝐖=4.4
+f(Z)𝐖=0.5𝐖-0.25𝐖=0.25
+𝐖\approx𝐖𝐖-0.675
+Z𝐖=\frac{x𝐖-\mu𝐖}{\sigma𝐖}𝐖=\frac{x𝐖-2}{0.5}𝐖=𝐖-0.675
+𝐖=𝐖-0.675^*𝐖0.5𝐖+2𝐖=1.66
+Z_1𝐖𝐖=\frac{6𝐖-5.85}{.24}𝐖=.625
+f(Z)𝐖=\frac{0.20}{2}𝐖=0.10
+𝐖\approx𝐖𝐖\pm𝐖0.25
+Z𝐖=\frac{x𝐖-\mu𝐖}{\sigma𝐖}𝐖=\frac{x𝐖-5.85}{0.24}𝐖=𝐖\pm𝐖0.25𝐖\to𝐖𝐖\pm𝐖0.25𝐖\cdotp𝐖0.24𝐖+5.85𝐖=(5.79,𝐖5.91)
+P(C)𝐖=
+P(P|C)𝐖=
+P(P|C')𝐖=
+P(H𝐖\cap𝐖G)
+P(H𝐖\cup𝐖G)𝐖.
+(H𝐖\cap𝐖G)𝐖.
+(H𝐖\cup𝐖G)𝐖.
 J
-K \colon P(J) =0.18;
-P(K) =0.37;
-P(J \cup K) =0.45
-P(J \cap K) .
-(J \cap K) .
-(J \cap K) .
-\overline{x} =
-s^2 =
-\cup
-\cap
-\sqrt{\frac{\sum^\textquotesingle \backslash x00200b\textquotesingle (x -\overline{x})^2}{n -1}}
-\sqrt{\frac{\sum^\textquotesingle \backslash x00200b\textquotesingle f(x -\overline{x})^2}{n -1}}
-\sqrt{\frac{\sum^\textquotesingle \backslash x00200b\textquotesingle (x -\mu)^2}{N}}
-\sqrt{\frac{\sum^\textquotesingle \backslash x00200b\textquotesingle f(x -\mu)^2}{N}}
+K𝐖\colon𝐖P(J)𝐖=0.18;𝐖
+P(K)𝐖=0.37;𝐖
+P(J𝐖\cup𝐖K)𝐖=0.45
+P(J𝐖\cap𝐖K)𝐖.
+(J𝐖\cap𝐖K)𝐖.
+(J𝐖\cap𝐖K)𝐖.
+\overline{x}𝐖=
+s^2𝐖𝐖=
+\cup𝐖
+\cap𝐖
+\sqrt{\frac{\sum𝐖^\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖𝐖(x𝐖-\overline{x})^2𝐖}{n𝐖-1}}
+\sqrt{\frac{\sum𝐖^\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖𝐖f(x𝐖-\overline{x})^2𝐖}{n𝐖-1}}
+\sqrt{\frac{\sum𝐖^\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖𝐖(x𝐖-\mu𝐖)^2𝐖}{N}}
+\sqrt{\frac{\sum𝐖^\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖𝐖f(x𝐖-\mu𝐖)^2𝐖}{N}}
 \sqrt{npq}
-\begin{pmatrix} n \\ x \end{pmatrix}
+𝐖\begin{pmatrix}𝐖n𝐖\\𝐖x𝐖\end{pmatrix}𝐖
 \frac{1}{p}
-\sqrt{\frac{1}{p}(\frac{1}{p} -1)}
-P(X =x) =p(1 -p)^x
-\mu =\frac{1 -p}{p}
-\sigma \~=\~\sqrt{\mu}
-P(x) =\frac{\mu^x e^{ -\mu}}{x!}
-P(x) =\frac{\mu^x e^{ -\mu}}{x!}
-x^{ -n} =\frac{1}{x^n}
-\sigma =\sqrt{\mu}
+\sqrt{\frac{1}{p}(\frac{1}{p}𝐖-1)}
+P(X𝐖=x)𝐖=p(1𝐖-p)^x𝐖
+\mu𝐖𝐖=\frac{1𝐖-p}{p}
+\sigma𝐖\~=\~\sqrt{\mu𝐖}
+P(x)𝐖=\frac{\mu𝐖^x𝐖e^{𝐖-\mu𝐖}𝐖}{x!}
+P(x)𝐖=\frac{\mu𝐖^x𝐖e^{𝐖-\mu𝐖}𝐖}{x!}
+x^{𝐖-n}𝐖𝐖=\frac{1}{x^n𝐖}
+\sigma𝐖𝐖=\sqrt{\mu𝐖}
 \frac{1}{4}
 (\frac{1}{8})
-1 -[P(x =0) +P(x =1)]
-P(x) =\frac{\mu^x e^{ -\mu}}{x!}
-P(x >1) =1 -P(x \le 1)
-=1 -[P(x =0) +P(x =1)]
-=1 -[\frac{0.75^0 e^{ -0.75}}{0!} +\frac{0.75^1 e^{ -0.75}}{1!}]
-=1 -[\frac{(1)(0.4724)}{1} +\frac{(0.75)(0.4724)}{1}]
-=1 -[0.4724 +0.3543] =0.1733
-\sigma =\sqrt{\mu} =\sqrt{147} \approx 12.1244
+1𝐖-[P(x𝐖=0)𝐖+P(x𝐖=1)]
+P(x)𝐖=\frac{\mu𝐖^x𝐖e^{𝐖-\mu𝐖}𝐖}{x!}
+P(x𝐖>1)𝐖=1𝐖-P(x𝐖\le𝐖1)
+𝐖=1𝐖-[P(x𝐖=0)𝐖+P(x𝐖=1)]
+𝐖=1𝐖-[\frac{0.75^0𝐖e^{𝐖-0.75}𝐖}{0!}𝐖+\frac{0.75^1𝐖e^{𝐖-0.75}𝐖}{1!}]
+𝐖=1𝐖-[\frac{(1)(0.4724)}{1}𝐖+\frac{(0.75)(0.4724)}{1}]
+𝐖=1𝐖-[0.4724𝐖+0.3543]𝐖=0.1733
+\sigma𝐖𝐖=\sqrt{\mu𝐖}𝐖=\sqrt{147}𝐖\approx𝐖12.1244
 \frac{41.5}{24}
-P(x =2) =\frac{\mu^x e^{-\mu}}{x!} =\frac{1.729^2 e^{ -1.729}}{2!} =0.265
-P(x >2) =1 -P(x \le 2) =1 -[\frac{7^0 e^{ -7}}{0!} +\frac{7^1 e^{ -7}}{1!} +\frac{7^2 e^{ -7}}{2!}] =0.250
-P(x =10) =\frac{200!}{10!(200 -10)!} \times .0102^{10} \times .9898^{190} =0.000039
-P(x =10) =\frac{\mu^x e^{-\mu}}{x!} =\frac{2.04^{10} e^{ -2.04}}{10!} =0.000045
-n \cdotp p =500 \cdotp 0.01 =5 =\mathrm{\mu}
-P(0) =\frac{500!}{0!(500 -0)!}0.01^0 (1 -0.01)^{500^{-^0}} =0.00657
-P(1) =\frac{500!}{1!(500 -1)!}0.01^1 (1 -0.01)^{500^{-^1}} =0.03318
-P(2) =\frac{500!}{2!(500 -2)!}0.01^2 (1 -0.01)^{500^{-^2}} =0.08363
-1 -0.12339 =0.87661
-n \cdotp p =500 \cdotp 0.01 =5 =\mu
-n \cdotp p \cdotp (1 -p) =500 \cdotp 0.01 \cdotp (0.99) \approx 5 =\sigma^2 =\mu
-P(X) =\frac{e^{\minus np} (np)^x}{x!} =\{P(0) =\frac{e^{ -5} \cdotp 5^0}{0!}\} +\{P(1) =\frac{e^{ -5} \cdotp 5^1}{1!}\} +\{P(2) =\frac{e^{ -5} \cdotp 5^2}{2!}\}
-0.0067 +0.0337 +0.0842 =0.1247
-1 -0.1247 =0.8753
-H_0 \colon \mu_1 \le \mu_2
-H_a \colon \mu_1 >\mu_2
-H_0 \colon \mu_1 =\mu_2
-H_a \colon \mu_1 \not= \mu_2
-H_0 \colon \mu_1 \ge \mu_2
-H_a \colon \mu_1 \lt \mu_2
-\overline{X}_1 \textendash \overline{X}_2
-H_0 \colon \mu_1 \ge \mu_2
-H_a \colon \mu_1 \lt \mu_2
-\overline{X}_1 -\overline{X}_2
-H_0 \colon \mu_1 =\mu_2
-H_a \colon \mu_1 \not= \mu_2
-\overline{X}_1 -\overline{X}_2
-H_0 \colon \mu_1 =\mu_2
-H_a \colon \mu_1 \not= \mu_2
-\mu_1
-\mu_2
-\overline{X}_1 -\overline{X}_2
-H_0 \colon \mu_1 -\mu_2 =0, H_a \colon \mu_1 -\mu_2 \lt 0
-H0s \colon \mu 1 =\mu 2, Ha \colon \mu 1 \lt \mu 2
-df =n_1 +n_2 -2 =33 +33 -2 =64
-t_c =\frac{(\overline{X}_1 -\overline{X}_2) -0}{\sqrt{\frac{s_1^2}{n_1} +\frac{s_2^2}{n_2}}} =\frac{(74.64 -111.56) -0}{\sqrt{\frac{49.36^2}{33} +\frac{66.90^2}{33}}} = -2.55
-t_c = -2.55
-df =64
-H_0
-H_0 \colon p_1 =p_2
-H_a \colon p_1 \not= p_2
-H_0 \colon p_1 =p_2
-H_a \colon p_1 \not= p_2
-H_0 \colon p_1 =p_2
-H_a \colon p_1 >p_2
-H_0 \colon p_1 \le p_2
-H_a \colon p_1 >p_2
-P'_1 -P'_2
-H_0 \colon p_1 =p_2
-H_a \colon p_1 \not= p_2
-P'_1 -P'_2
-H_0 \colon \mu_1 \le \mu_2
-H_a \colon \mu_1 >\mu_2
-H_0 \colon \mu_1 \ge \mu_2
-H_a \colon \mu_1 \lt \mu_2
-\overline{X}_d
-\overline{X}_d
+P(x𝐖=2)𝐖=\frac{\mu𝐖^x𝐖e^{-\mu𝐖}𝐖}{x!}𝐖=\frac{1.729^2𝐖e^{𝐖-1.729}𝐖}{2!}𝐖=0.265
+P(x𝐖>2)𝐖=1𝐖-P(x𝐖\le𝐖2)𝐖=1𝐖-[\frac{7^0𝐖e^{𝐖-7}𝐖}{0!}𝐖+\frac{7^1𝐖e^{𝐖-7}𝐖}{1!}𝐖+\frac{7^2𝐖e^{𝐖-7}𝐖}{2!}]𝐖=0.250
+P(x𝐖=10)𝐖=\frac{200!}{10!(200𝐖-10)!}𝐖\times𝐖.0102^{10}𝐖𝐖\times𝐖.9898^{190}𝐖𝐖=0.000039
+P(x𝐖=10)𝐖=\frac{\mu𝐖^x𝐖e^{-\mu𝐖}𝐖}{x!}𝐖=\frac{2.04^{10}𝐖e^{𝐖-2.04}𝐖}{10!}𝐖=0.000045
+n𝐖\cdotp𝐖p𝐖=500𝐖\cdotp𝐖0.01𝐖=5𝐖=\mathrm{\mu}
+P(0)𝐖=\frac{500!}{0!(500𝐖-0)!}0.01^0𝐖(1𝐖-0.01)^{500^{-^0𝐖}𝐖}𝐖𝐖=0.00657
+P(1)𝐖=\frac{500!}{1!(500𝐖-1)!}0.01^1𝐖(1𝐖-0.01)^{500^{-^1𝐖}𝐖}𝐖𝐖=0.03318
+P(2)𝐖=\frac{500!}{2!(500𝐖-2)!}0.01^2𝐖(1𝐖-0.01)^{500^{-^2𝐖}𝐖}𝐖𝐖=0.08363
+1𝐖-0.12339𝐖=0.87661
+n𝐖\cdotp𝐖p𝐖=500𝐖\cdotp𝐖0.01𝐖=5𝐖=\mu𝐖
+n𝐖\cdotp𝐖p𝐖\cdotp𝐖(1𝐖-p)𝐖=500𝐖\cdotp𝐖0.01𝐖\cdotp𝐖(0.99)𝐖\approx𝐖5𝐖=\sigma𝐖^2𝐖𝐖=\mu𝐖
+P(X)𝐖=\frac{e^{\minus𝐖np}𝐖(np)^x𝐖}{x!}𝐖=\{P(0)𝐖=\frac{e^{𝐖-5}𝐖𝐖\cdotp𝐖5^0𝐖}{0!}\}𝐖+\{P(1)𝐖=\frac{e^{𝐖-5}𝐖𝐖\cdotp𝐖5^1𝐖}{1!}\}𝐖+\{P(2)𝐖=\frac{e^{𝐖-5}𝐖𝐖\cdotp𝐖5^2𝐖}{2!}\}
+0.0067𝐖+0.0337𝐖+0.0842𝐖=0.1247
+1𝐖-0.1247𝐖=0.8753
+H_0𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖\le𝐖\mu𝐖_2𝐖
+H_a𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖>\mu𝐖_2𝐖
+H_0𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖=\mu𝐖_2𝐖
+H_a𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖\not=𝐖\mu𝐖_2𝐖
+H_0𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖\ge𝐖\mu𝐖_2𝐖
+H_a𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖\lt𝐖\mu𝐖_2𝐖
+\overline{X}_1𝐖𝐖\textendash𝐖\overline{X}_2𝐖
+H_0𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖\ge𝐖\mu𝐖_2𝐖
+H_a𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖\lt𝐖\mu𝐖_2𝐖
+\overline{X}_1𝐖𝐖-\overline{X}_2𝐖
+H_0𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖=\mu𝐖_2𝐖
+H_a𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖\not=𝐖\mu𝐖_2𝐖
+\overline{X}_1𝐖𝐖-\overline{X}_2𝐖
+H_0𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖=\mu𝐖_2𝐖
+H_a𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖\not=𝐖\mu𝐖_2𝐖
+\mu𝐖_1𝐖
+\mu𝐖_2𝐖
+\overline{X}_1𝐖𝐖-\overline{X}_2𝐖
+H_0𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖𝐖=0,𝐖H_a𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖𝐖\lt𝐖0
+H0s𝐖\colon𝐖\mu𝐖1𝐖=\mu𝐖2,𝐖Ha𝐖\colon𝐖\mu𝐖1𝐖\lt𝐖\mu𝐖2
+df𝐖=n_1𝐖𝐖+n_2𝐖𝐖-2𝐖=33𝐖+33𝐖-2𝐖=64
+t_c𝐖𝐖=\frac{(\overline{X}_1𝐖𝐖-\overline{X}_2𝐖)𝐖-0}{\sqrt{\frac{s_1^2𝐖}{n_1𝐖}𝐖+\frac{s_2^2𝐖}{n_2𝐖}}}𝐖=\frac{(74.64𝐖-111.56)𝐖-0}{\sqrt{\frac{49.36^2𝐖}{33}𝐖+\frac{66.90^2𝐖}{33}}}𝐖=𝐖-2.55
+t_c𝐖𝐖=𝐖-2.55
+df𝐖=64
+H_0𝐖
+H_0𝐖𝐖\colon𝐖p_1𝐖𝐖=p_2𝐖
+H_a𝐖𝐖\colon𝐖p_1𝐖𝐖\not=𝐖p_2𝐖
+H_0𝐖𝐖\colon𝐖p_1𝐖𝐖=p_2𝐖
+H_a𝐖𝐖\colon𝐖p_1𝐖𝐖\not=𝐖p_2𝐖
+H_0𝐖𝐖\colon𝐖p_1𝐖𝐖=p_2𝐖
+H_a𝐖𝐖\colon𝐖p_1𝐖𝐖>p_2𝐖
+H_0𝐖𝐖\colon𝐖p_1𝐖𝐖\le𝐖p_2𝐖
+H_a𝐖𝐖\colon𝐖p_1𝐖𝐖>p_2𝐖
+P'_1𝐖𝐖-P'_2𝐖
+H_0𝐖𝐖\colon𝐖p_1𝐖𝐖=p_2𝐖
+H_a𝐖𝐖\colon𝐖p_1𝐖𝐖\not=𝐖p_2𝐖
+P'_1𝐖𝐖-P'_2𝐖
+H_0𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖\le𝐖\mu𝐖_2𝐖
+H_a𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖>\mu𝐖_2𝐖
+H_0𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖\ge𝐖\mu𝐖_2𝐖
+H_a𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖\lt𝐖\mu𝐖_2𝐖
+\overline{X}_d𝐖
+\overline{X}_d𝐖
 \overline{X}
 \overline{x}
-s_x
+s_x𝐖
 \overline{X}
-\alpha
-z_{(\frac{a}{2})}
-P' \sim N(0.8, \sqrt{\frac{(0.8)(0.2)}{80}})
-N(244, \frac{15}{\sqrt{50}})
+\alpha𝐖
+z_{(\frac{a}{2})}𝐖
+P'𝐖\sim𝐖N(0.8,𝐖\sqrt{\frac{(0.8)(0.2)}{80}})
+N(244,𝐖\frac{15}{\sqrt{50}})
 \overset{-}{X}
 \overset{-}{x}
 \overset{-}{X}
-t_{34}
+t_{34}𝐖
 \overline{x}
-s_x
-\overline{x} =\$251, 854.23
-s =\$521, 130.41
-\frac{\alpha}{2} =0.02t_{\frac{\alpha}{2}} =t_{0.02}
-EBM =t_{\frac{\alpha}{2}} (\frac{s}{\sqrt{n}}) =2.150(\frac{521, 130.41}{\sqrt{30}}) \sim \$204, 561.66
+s_x𝐖
+\overline{x}𝐖=\$251,𝐖854.23
+s𝐖=\$521,𝐖130.41
+\frac{\alpha𝐖}{2}𝐖=0.02t_{\frac{\alpha𝐖}{2}}𝐖𝐖=t_{0.02}𝐖
+EBM𝐖=t_{\frac{\alpha𝐖}{2}}𝐖(\frac{s}{\sqrt{n}})𝐖=2.150(\frac{521,𝐖130.41}{\sqrt{30}})𝐖\sim𝐖\$204,𝐖561.66
 \overset{-}{x}
 \overset{-}{x}
 \overline{x}
-s_x
+s_x𝐖
 \overline{X}
-N(0.61, \sqrt{\frac{(0.61)(0.39)}{1200}})
+N(0.61,𝐖\sqrt{\frac{(0.61)(0.39)}{1200}})
 p'
 p'
-N(0.2, \sqrt{\frac{(0.2)(0.8)}{1000}})
+N(0.2,𝐖\sqrt{\frac{(0.2)(0.8)}{1000}})
 p'
 \frac{(0.55\~+\~0.49)}{2}
-\frac{\alpha}{2} =0.125z_{\frac{\alpha}{2}} =1.150
-EBP =(1.150)\sqrt{\frac{0.52(0.48)}{1,000}} \approx 0.018
+\frac{\alpha𝐖}{2}𝐖=0.125z_{\frac{\alpha𝐖}{2}}𝐖𝐖=1.150
+EBP𝐖=(1.150)\sqrt{\frac{0.52(0.48)}{1,000}}𝐖\approx𝐖0.018
 \overline{x}
 \overline{x}
-\sigma
+\sigma𝐖
 \overline{X}
-N(23.6, \frac{7}{\sqrt{100}})
+N(23.6,𝐖\frac{7}{\sqrt{100}})
 \overline{X}
 7.9(\frac{2.5}{\sqrt{20}})
 \overset{-}{x}
-z_{\frac{\alpha}{2}}
-z_{0.025} \frac{\sigma}{\sqrt{n}}
+z_{\frac{\alpha𝐖}{2}}𝐖
+z_{0.025}𝐖\frac{\sigma𝐖}{\sqrt{n}}
 \frac{909200}{\sqrt{40}}
 \overset{-}{x}
 \overset{-}{x}
@@ -898,193 +898,193 @@ z_{0.025} \frac{\sigma}{\sqrt{n}}
 \overline{X}
 \overline{X}
 \overline{X}
-P' & = & \~
+P'𝐖&𝐖=𝐖&𝐖\~
 \overline{X}
-\chi^2
-\chi_3^2
-\chi_c^2
-\overline{X}_1 -\overline{X}_2
-p'_A \textendash p'_B =
-\overline{X}_1 -\overline{X}_2
-\overline{x}_d
+\chi𝐖^2𝐖
+\chi𝐖_3^2𝐖
+\chi𝐖_c^2𝐖
+\overline{X}_1𝐖𝐖-\overline{X}_2𝐖
+p'_A𝐖𝐖\textendash𝐖p'_B𝐖𝐖=
+\overline{X}_1𝐖𝐖-\overline{X}_2𝐖
+\overline{x}_d𝐖
 \overline{x}
 \overline{x}
 \overline{X}
-N(7.24, \frac{1.93}{\sqrt{22}})
-N(7.24, 1.93)
-\sigma =\sqrt{npq}
-P(X =x) = \begin{pmatrix} n \\ x \end{pmatrix} p^x q^{n -x}
-\mu
+N(7.24,𝐖\frac{1.93}{\sqrt{22}})
+N(7.24,𝐖1.93)
+\sigma𝐖𝐖=\sqrt{npq}
+P(X𝐖=x)𝐖=𝐖\begin{pmatrix}𝐖n𝐖\\𝐖x𝐖\end{pmatrix}𝐖p^x𝐖q^{n𝐖-x}𝐖
+\mu𝐖
 \overline{X}
-\overline{X} \sim N(\mu, \frac{\sigma}{\sqrt{n}})
-\frac{\sigma}{\sqrt{n}}
-f(x) =\frac{1}{\sigma \sqrt{2\pi}}e^{\frac{ -(x -\mu)^2}{2\sigma^2}}
-y =a +bx
-y =3 +2x
-y =\textendash 0.01 +1.2x
-\chi \sim \chi_{df}^2
-\sigma =\sqrt{2(df)}
-\chi_{1,000}^2
+\overline{X}𝐖\sim𝐖N(\mu𝐖,𝐖\frac{\sigma𝐖}{\sqrt{n}})
+\frac{\sigma𝐖}{\sqrt{n}}
+f(x)𝐖=\frac{1}{\sigma𝐖\sqrt{2\pi𝐖}}e^{\frac{𝐖-(x𝐖-\mu𝐖)^2𝐖}{2\sigma𝐖^2𝐖}}𝐖
+y𝐖=a𝐖+bx
+y𝐖=3𝐖+2x
+y𝐖=\textendash𝐖0.01𝐖+1.2x
+\chi𝐖𝐖\sim𝐖\chi𝐖_{df}^2𝐖
+\sigma𝐖𝐖=\sqrt{2(df)}
+\chi𝐖_{1,000}^2𝐖
 \sqrt{2(1,000)}
-P(A|B) =P(A)
-P(B|A) =P(B)
-P(A \cap B) =P(A)P(B)
-P(A \cap B) =0
-\cap
-P(A \cap B) =\frac{2}{10}
-P(A \cap C) =0
+P(A|B)𝐖=P(A)
+P(B|A)𝐖=P(B)
+P(A𝐖\cap𝐖B)𝐖=P(A)P(B)
+P(A𝐖\cap𝐖B)𝐖=0
+\cap𝐖
+P(A𝐖\cap𝐖B)𝐖=\frac{2}{10}
+P(A𝐖\cap𝐖C)𝐖=0
 \frac{3}{4}
 \frac{1}{4}
-P(B \cap C) =0
+P(B𝐖\cap𝐖C)𝐖=0
 \frac{1}{4}
 \frac{2}{4}
 \frac{3}{4}
 \frac{3}{4}
 \frac{2}{4}
 \frac{2}{4}
-P(F \cap G)
-P(J \cap H)
+P(F𝐖\cap𝐖G)
+P(J𝐖\cap𝐖H)
 \frac{3}{6}
 \frac{3}{6}
-P(C \cap D) =0
-P(C \cap E) =\frac{1}{6}
-P(C \cap E)
+P(C𝐖\cap𝐖D)𝐖=0
+P(C𝐖\cap𝐖E)𝐖=\frac{1}{6}
+P(C𝐖\cap𝐖E)
 P(C|A)
 P(C|A)
-P(C|A) =\frac{2}{3}
-A \cap B =
-P(A) =0.4
-P(B) =0.2
-P(A \cap B) =0.08
-P(A|B) =P(A)
-P(B|A) =P(B)
-P(A \cap B) =P(A)P(B)
-\cap
-P(G) =0.6, P(H) =0.5
-P(G \cap H) =0.3 .
-P(G|H) =P(G)
-P(H|G) =P(H)
-P(G \cap H) =P(G)P(H)
-P(G|H) =P(G)
-P(G|H) =\frac{P(G \~\cap H)}{P(H)} =\frac{0.3}{0.5} =0.6 =P(G)
-P(G \cap H) =P(G)P(H)
-P(G)P(H) =(0.6)(0.5) =0.3 =P(G \cap H)
-P(H|G) =P(H)
-P(G \cap O)
-P(C) =0.75
-P(D) =0.3
-P(C|D) =0.75
-P(C \cap D) =0.225
+P(C|A)𝐖=\frac{2}{3}
+A𝐖\cap𝐖B𝐖=
+P(A)𝐖=0.4
+P(B)𝐖=0.2
+P(A𝐖\cap𝐖B)𝐖=0.08
+P(A|B)𝐖=P(A)
+P(B|A)𝐖=P(B)
+P(A𝐖\cap𝐖B)𝐖=P(A)P(B)
+\cap𝐖
+P(G)𝐖=0.6,𝐖P(H)𝐖=0.5
+P(G𝐖\cap𝐖H)𝐖=0.3𝐖.
+P(G|H)𝐖=P(G)
+P(H|G)𝐖=P(H)
+P(G𝐖\cap𝐖H)𝐖=P(G)P(H)
+P(G|H)𝐖=P(G)
+P(G|H)𝐖=\frac{P(G𝐖\~\cap𝐖H)}{P(H)}𝐖=\frac{0.3}{0.5}𝐖=0.6𝐖=P(G)
+P(G𝐖\cap𝐖H)𝐖=P(G)P(H)
+P(G)P(H)𝐖=(0.6)(0.5)𝐖=0.3𝐖=P(G𝐖\cap𝐖H)
+P(H|G)𝐖=P(H)
+P(G𝐖\cap𝐖O)
+P(C)𝐖=0.75
+P(D)𝐖=0.3
+P(C|D)𝐖=0.75
+P(C𝐖\cap𝐖D)𝐖=0.225
 P(D|C)
-P(C|D) =P(C)
-P(C \cap D)
-P(D|C) =\frac{P(C \cap D)}{P(C)} =\frac{0.225}{0.75} =0.3
-P(B) =0.40
-P(D) =0.30
-P(B \cap D) =0.20
+P(C|D)𝐖=P(C)
+P(C𝐖\cap𝐖D)
+P(D|C)𝐖=\frac{P(C𝐖\cap𝐖D)}{P(C)}𝐖=\frac{0.225}{0.75}𝐖=0.3
+P(B)𝐖=0.40
+P(D)𝐖=0.30
+P(B𝐖\cap𝐖D)𝐖=0.20
 P(B|D)
 P(D|B)
-P(R) =\frac{3}{8} .P(B) =\frac{5}{8} .P(R \cap B) =0
-P(E) =\frac{3}{8}
-P(E|B) =\frac{2}{5}
-P(B|E) =\frac{2}{3}
-P(R \cap B) =0
-P(G) =\frac{2}{8}
-P(G|H) =\frac{1}{4}
+P(R)𝐖=\frac{3}{8}𝐖.P(B)𝐖=\frac{5}{8}𝐖.P(R𝐖\cap𝐖B)𝐖=0
+P(E)𝐖=\frac{3}{8}
+P(E|B)𝐖=\frac{2}{5}
+P(B|E)𝐖=\frac{2}{3}
+P(R𝐖\cap𝐖B)𝐖=0
+P(G)𝐖=\frac{2}{8}
+P(G|H)𝐖=\frac{1}{4}
 \frac{2}{8}
 \frac{1}{4}
-P(G) =P(G|H)
-P(F)=0.60; P(L)=0.50
-P(F \cap L) =0.45
-P(L|F) =0.75
-P(F \cap L) =P(F)P(L)
-P(F \cap L) =0.45
-P(F)P(L) =(0.60)(0.50) =0.30
-P(F \cap L)
+P(G)𝐖=P(G|H)
+P(F)=0.60;𝐖P(L)=0.50
+P(F𝐖\cap𝐖L)𝐖=0.45
+P(L|F)𝐖=0.75
+P(F𝐖\cap𝐖L)𝐖=P(F)P(L)
+P(F𝐖\cap𝐖L)𝐖=0.45
+P(F)P(L)𝐖=(0.60)(0.50)𝐖=0.30
+P(F𝐖\cap𝐖L)
 P(F)P(L)
 P(L|F)
 P(L)
-P(L|F) =0.75
-P(L) =0.50
-P(I) =0.44
-P(F) =0.56
-P(I \cap F) =0
-P(I \cup F)
-P(A \cap B)
-P(A \cap B) =0
-P(A \cap B) =P(A)P(B)
-P(A \cap B) =P(A)P(B)
+P(L|F)𝐖=0.75
+P(L)𝐖=0.50
+P(I)𝐖=0.44
+P(F)𝐖=0.56
+P(I𝐖\cap𝐖F)𝐖=0
+P(I𝐖\cup𝐖F)
+P(A𝐖\cap𝐖B)
+P(A𝐖\cap𝐖B)𝐖=0
+P(A𝐖\cap𝐖B)𝐖=P(A)P(B)
+P(A𝐖\cap𝐖B)𝐖=P(A)P(B)
 \frac{3}{12}
 \frac{1}{12}
-P(A \cap B) =0
-P(A \cap B) =0.P(A)P(B) =(\frac{3}{12}).P(A \cap B)does\space not\space equalP(A)P(B), soAandBare\space dependent.
+P(A𝐖\cap𝐖B)𝐖=0
+P(A𝐖\cap𝐖B)𝐖=0.P(A)P(B)𝐖=(\frac{3}{12}).P(A𝐖\cap𝐖B)does\space𝐖not\space𝐖equalP(A)P(B),𝐖soAandBare\space𝐖dependent.
 P(T)
 P(T|F)
 x
 y
-P(A) =\frac{number\space of\space ways\space to\space get\space A}{Total\space number\space of\space possible\space outcomes}
-\begin{pmatrix} n \\ x \end{pmatrix} =\lt mtext/>_n C_x =\frac{n!}{x!(n -x)!}
-\begin{pmatrix} 4 \\ 2 \end{pmatrix} =\frac{4!}{(4 -2)!2!} =\frac{4 \cdotp 3 \cdotp 2 \cdotp 1}{2 \cdotp 1 \cdotp 2 \cdotp 1} =6
-\begin{pmatrix} 52 \\ 5 \end{pmatrix}
-\mu =np
+P(A)𝐖=\frac{number\space𝐖of\space𝐖ways\space𝐖to\space𝐖get\space𝐖A}{Total\space𝐖number\space𝐖of\space𝐖possible\space𝐖outcomes}
+𝐖\begin{pmatrix}𝐖n𝐖\\𝐖x𝐖\end{pmatrix}𝐖𝐖=\lt𝐖mtext/>_n𝐖C_x𝐖𝐖=\frac{n!}{x!(n𝐖-x)!}
+𝐖\begin{pmatrix}𝐖4𝐖\\𝐖2𝐖\end{pmatrix}𝐖𝐖=\frac{4!}{(4𝐖-2)!2!}𝐖=\frac{4𝐖\cdotp𝐖3𝐖\cdotp𝐖2𝐖\cdotp𝐖1}{2𝐖\cdotp𝐖1𝐖\cdotp𝐖2𝐖\cdotp𝐖1}𝐖=6
+𝐖\begin{pmatrix}𝐖52𝐖\\𝐖5𝐖\end{pmatrix}𝐖
+\mu𝐖𝐖=np
 7
-np =10
-n(1 -p) =90
+np𝐖=10
+n(1𝐖-p)𝐖=90
 \sqrt{npq}
-Z =\frac{x -\mu}{\sigma} =\frac{16 -10}{3} =2
-1 -[p(X =0) +p(X =1) +p(X =2) +\ldots +p(X =16)] =p(X >16) =p(Z >2) =0.0228
-\sqrt{\frac{(s_1)^2}{n_1} +\frac{(s_2)^2}{n_2}}
-\frac{(\overline{x}_1 -\overline{x}_2) -\delta_0}{\sqrt{\frac{(s_1)^2}{n_1} +\frac{(s_2)^2}{n_2}}}
-df =\frac{(\frac{(s_1)^2}{n_1} +\frac{(s_2)^2}{n_2})^2}{(\frac{1}{n_1 -1})(\frac{(s_1)^2}{n_1})^2 +(\frac{1}{n_2 -1})(\frac{(s_2)^2}{n_2})^2}
-s_1
-s_2
-n_1
-n_2
-\overline{x}_1
-\overline{x}_2
-d =\frac{\overline{x}_1 -\overline{x}_2}{s_{pooled}}
-s_{pooled} =\sqrt{\frac{(n_1 -1)s_1^2 +(n_2 -1)s_2^2}{n_1 +n_2 -2}}
-t_c =\frac{(\overline{x}_1 -\overline{x}_2) -\delta_0}{\sqrt{S\overset{2}{p}(\frac{1}{n_1} +\frac{1}{n_2})}}
+Z𝐖=\frac{x𝐖-\mu𝐖}{\sigma𝐖}𝐖=\frac{16𝐖-10}{3}𝐖=2
+1𝐖-[p(X𝐖=0)𝐖+p(X𝐖=1)𝐖+p(X𝐖=2)𝐖+\ldots𝐖𝐖+p(X𝐖=16)]𝐖=p(X𝐖>16)𝐖=p(Z𝐖>2)𝐖=0.0228
+\sqrt{\frac{(s_1𝐖)^2𝐖}{n_1𝐖}𝐖+\frac{(s_2𝐖)^2𝐖}{n_2𝐖}}
+\frac{(\overline{x}_1𝐖𝐖-\overline{x}_2𝐖)𝐖-\delta𝐖_0𝐖}{\sqrt{\frac{(s_1𝐖)^2𝐖}{n_1𝐖}𝐖+\frac{(s_2𝐖)^2𝐖}{n_2𝐖}}}
+df𝐖=\frac{(\frac{(s_1𝐖)^2𝐖}{n_1𝐖}𝐖+\frac{(s_2𝐖)^2𝐖}{n_2𝐖})^2𝐖}{(\frac{1}{n_1𝐖𝐖-1})(\frac{(s_1𝐖)^2𝐖}{n_1𝐖})^2𝐖𝐖+(\frac{1}{n_2𝐖𝐖-1})(\frac{(s_2𝐖)^2𝐖}{n_2𝐖})^2𝐖}
+s_1𝐖
+s_2𝐖
+n_1𝐖
+n_2𝐖
+\overline{x}_1𝐖
+\overline{x}_2𝐖
+d𝐖=\frac{\overline{x}_1𝐖𝐖-\overline{x}_2𝐖}{s_{pooled}𝐖}
+s_{pooled}𝐖𝐖=\sqrt{\frac{(n_1𝐖𝐖-1)s_1^2𝐖𝐖+(n_2𝐖𝐖-1)s_2^2𝐖}{n_1𝐖𝐖+n_2𝐖𝐖-2}}
+t_c𝐖𝐖=\frac{(\overline{x}_1𝐖𝐖-\overline{x}_2𝐖)𝐖-\delta𝐖_0𝐖}{\sqrt{S\overset{2}{p}(\frac{1}{n_1𝐖}𝐖+\frac{1}{n_2𝐖})}}
 S\overset{2}{p}
-S\overset{2}{p} =\frac{(n_1 -1)s_1^2 -(n_2 -1)s_2^2}{n_1 +n_2 -2}
-\frac{x_A +x_B}{n_A +n_B}
-Z_c =\frac{(p'{}A- p'{}B)}{\sqrt{p_c (1 -p_c)(\frac{1}{n_A} +\frac{1}{n_B})}}
-p_A^\textquotesingle
-p_B^\textquotesingle
-p_A
-p_B
-Z_c =\frac{(\overline{x}_1 -\overline{x}_2) -\delta_0}{\sqrt{\frac{(\sigma_1)^2}{n_1} +\frac{(\sigma_2)^2}{n_2}}}
-\sigma_1
-\sigma_2
-\overline{x}_1
-\overline{x}_2
-\frac{\overline{x}_d -\mu_d}{(\frac{s_d}{\sqrt{n}})}
-\overline{x}_d
-df =
-\chi^2
-\sigma_1^2
-\sigma_2^2
-s_1^2
-s_2^2
-F =\frac{[\frac{s_1^2}{\sigma_1^2}]}{[\frac{s_2^2}{\sigma_2^2}]}
-\sigma_1^2 =\sigma_2^2
-F_c =\frac{[\frac{s_1^2}{\sigma_1^2}]}{[\frac{s_2^2}{\sigma_2^2}]} =\frac{s_1^2}{s_2^2}
-H_0 \colon \frac{\sigma_1^2}{\sigma_2^2} =\delta_0
-H_a \colon \frac{\sigma_1^2}{\sigma_2^2} \not= \delta_0
-s_1^2
-s_2^2
-F_c =\frac{s_1^2}{s_2^2}
-s_1^2
-s_2^2
-s_1^2
-\frac{s_1^2}{s_2^2}
-s_1^2
-s_2^2
-F_c =\frac{s_1^2}{s_2^2}
-\sigma_1^2 \ge \sigma_2^2
-\sigma_1^2 \~\lt \~\sigma_2^2
-(\sigma_1^2 \~\ge \~\sigma_2^2)
-F_c =\frac{s_2^2}{s_1^2} =\frac{89.9}{52.3} =1.719
+S\overset{2}{p}𝐖=\frac{(n_1𝐖𝐖-1)s_1^2𝐖𝐖-(n_2𝐖𝐖-1)s_2^2𝐖}{n_1𝐖𝐖+n_2𝐖𝐖-2}
+\frac{x_A𝐖𝐖+x_B𝐖}{n_A𝐖𝐖+n_B𝐖}
+Z_c𝐖𝐖=\frac{(p'{}A-𝐖p'{}B)𝐖}{\sqrt{p_c𝐖(1𝐖-p_c𝐖)(\frac{1}{n_A𝐖}𝐖+\frac{1}{n_B𝐖})}}
+p_A^\textquotesingle𝐖𝐖
+p_B^\textquotesingle𝐖𝐖
+p_A𝐖
+p_B𝐖
+Z_c𝐖𝐖=\frac{(\overline{x}_1𝐖𝐖-\overline{x}_2𝐖)𝐖-\delta𝐖_0𝐖}{\sqrt{\frac{(\sigma𝐖_1𝐖)^2𝐖}{n_1𝐖}𝐖+\frac{(\sigma𝐖_2𝐖)^2𝐖}{n_2𝐖}}}
+\sigma𝐖_1𝐖
+\sigma𝐖_2𝐖
+\overline{x}_1𝐖
+\overline{x}_2𝐖
+\frac{\overline{x}_d𝐖𝐖-\mu𝐖_d𝐖}{(\frac{s_d𝐖}{\sqrt{n}})}
+\overline{x}_d𝐖
+df𝐖=
+\chi𝐖^2𝐖
+\sigma𝐖_1^2𝐖
+\sigma𝐖_2^2𝐖
+s_1^2𝐖
+s_2^2𝐖
+F𝐖=\frac{[\frac{s_1𝐖^2𝐖}{\sigma𝐖_1𝐖^2𝐖}]}{[\frac{s_2𝐖^2𝐖}{\sigma𝐖_2𝐖^2𝐖}]}
+\sigma𝐖_1^2𝐖𝐖=\sigma𝐖_2^2𝐖
+F_c𝐖𝐖=\frac{[\frac{s_1𝐖^2𝐖}{\sigma𝐖_1𝐖^2𝐖}]}{[\frac{s_2𝐖^2𝐖}{\sigma𝐖_2𝐖^2𝐖}]}𝐖=\frac{s_1𝐖^2𝐖}{s_2𝐖^2𝐖}
+H_0𝐖𝐖\colon𝐖\frac{\sigma𝐖_1𝐖^2𝐖}{\sigma𝐖_2𝐖^2𝐖}𝐖=\delta𝐖_0𝐖
+H_a𝐖𝐖\colon𝐖\frac{\sigma𝐖_1𝐖^2𝐖}{\sigma𝐖_2𝐖^2𝐖}𝐖\not=𝐖\delta𝐖_0𝐖
+s_1^2𝐖
+s_2^2𝐖
+F_c𝐖𝐖=\frac{s_1𝐖^2𝐖}{s_2𝐖^2𝐖}
+s_1^2𝐖
+s_2^2𝐖
+s_1^2𝐖
+\frac{s_1𝐖^2𝐖}{s_2𝐖^2𝐖}
+s_1^2𝐖
+s_2^2𝐖
+F_c𝐖𝐖=\frac{s_1𝐖^2𝐖}{s_2𝐖^2𝐖}
+\sigma𝐖_1^2𝐖𝐖\ge𝐖\sigma𝐖_2^2𝐖
+\sigma𝐖_1^2𝐖\~\lt𝐖\~\sigma𝐖_2^2𝐖
+(\sigma𝐖_1^2𝐖\~\ge𝐖\~\sigma𝐖_2^2𝐖)
+F_c𝐖𝐖=\frac{s_2𝐖^2𝐖}{s_1𝐖^2𝐖}𝐖=\frac{89.9}{52.3}𝐖=1.719
 X
 \frac{2}{19}
 \frac{3}{19}
@@ -1095,127 +1095,127 @@ X
 \frac{2}{19}
 \frac{1}{19}
 \frac{1}{19}
-f(x) =a(b)^x
-x_1
-x_2
-x_1
-f(x) =\frac{1}{\mu}e^{\frac{x}{\mu}}
-\mu
-\mu
-P(X \le x)
-\frac{1}{\mu}e^{\frac{x}{\mu}}
-x =0
-x =60
-F(x) =P(X \le x) =\int_0^x \frac{1}{\mu}e^{\frac{x}{\mu}} dx =1 -e^{\frac{x}{\mu}}
-1/ \mathrm{\mu}
-\mathrm{\mu} =30
-x =60
-P(x \le 60) =1 -e^{\frac{x}{\mu}} =1 -e^{\frac{60}{30}} =0.865
-P(X \ge x_\alpha) =1 -(1 -e^{\frac{x}{\mu}}) =e^{\frac{x}{\mu}}
-x =730
-P(X \ge x) =e^{\frac{x}{\mu}} =e^{\frac{730}{750}} =0.378
-x_o
-x_1
-P(x_0 \le x \le x_1) =P(X \ge x_0) -P(X \ge x_1) =e^{\frac{x_0}{\mu}} -e^{\frac{x_1}{\mu}}
-P(3 \le x \le 5) =e^{\frac{3}{4}} -e^{\frac{5}{4}} =0.186
-\frac{x}{\mu}
-f(x) =me^{ -m}
-F(x) =\int_0^x me^{ -mt} dt =1 -e^{ -mx}
-m =\frac{1}{\mu}
-x_1
-x_1
-P(X_\alpha \le x_1) >P(X_b \le x_1) >P(X_c \le x_1)
-Y =2^x
-x =4
-x =5
-x =10
-x =11
-X = \textendash 4
-x = -5
-X = \textendash 10
-X = \textendash 11
-m =\frac{1}{\mu} .Therefore,m =\frac{1}{4} =0.25
-f(x) =me^{ -mx}
-\frac{1}{\mu}
-f(x) =\frac{1}{\mu}e^{ -\frac{1}{\mu}x}
-m =\frac{1}{\mu} =\frac{1}{10} =0.1
+f(x)𝐖=a(b)^x𝐖
+x_1𝐖
+x_2𝐖
+x_1𝐖
+f(x)𝐖=\frac{1}{\mu𝐖}e^{\frac{x}{\mu𝐖}}𝐖
+\mu𝐖
+\mu𝐖
+P(X𝐖\le𝐖x)
+\frac{1}{\mu𝐖}e^{\frac{x}{\mu𝐖}}𝐖
+x𝐖=0
+x𝐖=60
+F(x)𝐖=P(X𝐖\le𝐖x)𝐖=\int𝐖_0^x𝐖\frac{1}{\mu𝐖}e^{\frac{x}{\mu𝐖}}𝐖dx𝐖=1𝐖-e^{\frac{x}{\mu𝐖}}𝐖
+1/𝐖\mathrm{\mu}
+𝐖\mathrm{\mu}𝐖=30
+x𝐖=60
+P(x𝐖\le𝐖60)𝐖=1𝐖-e^{\frac{x}{\mu𝐖}}𝐖𝐖=1𝐖-e^{\frac{60}{30}}𝐖𝐖=0.865
+P(X𝐖\ge𝐖x_\alpha𝐖𝐖)𝐖=1𝐖-(1𝐖-e^{\frac{x}{\mu𝐖}}𝐖)𝐖=e^{\frac{x}{\mu𝐖}}𝐖
+x𝐖=730
+P(X𝐖\ge𝐖x)𝐖=e^{\frac{x}{\mu𝐖}}𝐖𝐖=e^{\frac{730}{750}}𝐖𝐖=0.378
+x_o𝐖
+x_1𝐖
+P(x_0𝐖𝐖\le𝐖x𝐖\le𝐖x_1𝐖)𝐖=P(X𝐖\ge𝐖x_0𝐖)𝐖-P(X𝐖\ge𝐖x_1𝐖)𝐖=e^{\frac{x_0𝐖}{\mu𝐖}}𝐖𝐖-e^{\frac{x_1𝐖}{\mu𝐖}}𝐖
+P(3𝐖\le𝐖x𝐖\le𝐖5)𝐖=e^{\frac{3}{4}}𝐖𝐖-e^{\frac{5}{4}}𝐖𝐖=0.186
+\frac{x}{\mu𝐖}
+f(x)𝐖=me^{𝐖-m}𝐖
+F(x)𝐖=\int𝐖_0^x𝐖me^{𝐖-mt}𝐖dt𝐖=1𝐖-e^{𝐖-mx}𝐖
+m𝐖=\frac{1}{\mu𝐖}
+x_1𝐖
+x_1𝐖
+P(X_\alpha𝐖𝐖𝐖\le𝐖x_1𝐖)𝐖>P(X_b𝐖𝐖\le𝐖x_1𝐖)𝐖>P(X_c𝐖𝐖\le𝐖x_1𝐖)
+Y𝐖=2^x𝐖
+x𝐖=4
+x𝐖=5
+x𝐖=10
+x𝐖=11
+X𝐖=𝐖\textendash𝐖4
+x𝐖=𝐖-5
+X𝐖=𝐖\textendash𝐖10
+X𝐖=𝐖\textendash𝐖11
+m𝐖=\frac{1}{\mu𝐖}𝐖.Therefore,m𝐖=\frac{1}{4}𝐖=0.25
+f(x)𝐖=me^{𝐖-mx}𝐖
+\frac{1}{\mu𝐖}
+f(x)𝐖=\frac{1}{\mu𝐖}e^{𝐖-\frac{1}{\mu𝐖}x}𝐖
+m𝐖=\frac{1}{\mu𝐖}𝐖=\frac{1}{10}𝐖=0.1
 \frac{1}{12}
 \frac{1}{12}
 \frac{1}{20}
 \frac{1}{2}
-e^{( \textendash 0.5)(1)}
+e^{(𝐖\textendash𝐖0.5)(1)}𝐖
 \frac{1}{4}
-P(X =x) =\frac{\mu^x e^{ -\mu}}{x!}
-P(X =x) =me^{ -mx} =\frac{1}{\mu}e^{ -\frac{1}{\mu}x}
-f(x) =me^{ -mx} \lt mo/>or \lt mo/>f(x) =\frac{1}{\mu}e^{ -\frac{1}{\mu}x}
-P(x) =\frac{\mu^x e^{ -\mu}}{x!}
+P(X𝐖=x)𝐖=\frac{\mu𝐖^x𝐖e^{𝐖-\mu𝐖}𝐖}{x!}
+P(X𝐖=x)𝐖=me^{𝐖-mx}𝐖𝐖=\frac{1}{\mu𝐖}e^{𝐖-\frac{1}{\mu𝐖}x}𝐖
+f(x)𝐖=me^{𝐖-mx}𝐖𝐖\lt𝐖mo/>or𝐖\lt𝐖mo/>f(x)𝐖=\frac{1}{\mu𝐖}e^{𝐖-\frac{1}{\mu𝐖}x}𝐖
+P(x)𝐖=\frac{\mu𝐖^x𝐖e^{𝐖-\mu𝐖}𝐖}{x!}
 x
-\mu =10
-f(x) =\frac{10^x e^{ -10}}{x!}
-P(x =15) =\frac{10^{15} e^{ -10}}{15!} =0.0347
-x =15
-f(x) =\frac{1}{.1}e^{\frac{-x}{.1}} =10e^{ -10x}
-p(x \le 9) =1 -10e^{ -10x}
-p(x =.15) =1 -10e^{ -10(.15)} =0.7769
-\mu =0.25
-m =4
-P(T \lt t) =1 -e -4t^\~)
-tenseconds =\frac{1}{6}minute
-P(T \lt \frac{1}{6}) =1 -e^{ -4(\frac{1}{6})} =0 .4866 .
-X \sim Poisson(4)
-P(X =5) =\frac{4^5 e^{ -4}}{5!} \approx 0 .1563 .5! =(5)(4)(3)(2)(1)
-P(X \lt 5) =P(X \le 4)
-P(X =0) +P(X =1) +P(X =2) +P(X =3) +P(X =4)
-P(X \le 4) =0.6288
-Y \sim Poisson(32)
-P(Y >40) =1 -P(Y \le 40) =1 -0.9294 =0.0707
-\beta_i =0
-Y_i =\beta_0 +\beta_1 X_{1i} +\beta_2 X_{2i} +\beta_3 X_{3i} +\beta_4 X_{4i} +e_i
-\beta_1 =0
-X_2
-X_3
-X_4
-\beta_4 =0
-X_1
-X_2
-X_3
-X_1
-X_2
-X_3
-H_0 \colon \beta = -1
-\alpha =0.05
-\alpha =0.01
-Y_j =b_0 +b_1 \cdot X_1 +b_2 \cdot X_2 +b_3 \cdot X_3 +b_4 \cdot X_4 +b_5 \cdot X_6 +e_j
-\hat{y} = -3.6 +(3.1 \cdot 7) =18.1
-H_0
-B_1 = -5
-H_A
-B_1 \not= -5
-t_{calculated} =\frac{ -5 -( -4)}{1} = -1
-t_{critical} = -1.96
-t_{calc}
-t_{crit}
-B_1 = -5
-80 +1.5 \cdot 4 =86
-r = -.77
-\beta_2
-X_2
-\beta_2
+𝐖\mu𝐖𝐖=10
+f(x)𝐖=\frac{10^x𝐖e^{𝐖-10}𝐖}{x!}
+P(x𝐖=15)𝐖=\frac{10^{15}𝐖e^{𝐖-10}𝐖}{15!}𝐖=0.0347
+x𝐖=15
+f(x)𝐖=\frac{1}{.1}e^{\frac{-x}{.1}}𝐖𝐖=10e^{𝐖-10x}𝐖
+p(x𝐖\le𝐖9)𝐖=1𝐖-10e^{𝐖-10x}𝐖
+p(x𝐖=.15)𝐖=1𝐖-10e^{𝐖-10(.15)}𝐖𝐖=0.7769
+\mu𝐖𝐖=0.25
+m𝐖=4
+P(T𝐖\lt𝐖t)𝐖=1𝐖-e𝐖-4t^\~𝐖)
+tenseconds𝐖=\frac{1}{6}minute
+P(T𝐖\lt𝐖\frac{1}{6})𝐖=1𝐖-e^{𝐖-4(\frac{1}{6})}𝐖𝐖=0𝐖.4866𝐖.
+X𝐖\sim𝐖Poisson(4)
+P(X𝐖=5)𝐖=\frac{4^5𝐖e^{𝐖-4}𝐖}{5!}𝐖\approx𝐖0𝐖.1563𝐖.5!𝐖=(5)(4)(3)(2)(1)
+P(X𝐖\lt𝐖5)𝐖=P(X𝐖\le𝐖4)
+P(X𝐖=0)𝐖+P(X𝐖=1)𝐖+P(X𝐖=2)𝐖+P(X𝐖=3)𝐖+P(X𝐖=4)
+P(X𝐖\le𝐖4)𝐖=0.6288
+Y𝐖\sim𝐖Poisson(32)
+P(Y𝐖>40)𝐖=1𝐖-P(Y𝐖\le𝐖40)𝐖=1𝐖-0.9294𝐖=0.0707
+\beta𝐖_i𝐖𝐖=0
+Y_i𝐖𝐖=\beta𝐖_0𝐖𝐖+\beta𝐖_1𝐖X_{1i}𝐖𝐖+\beta𝐖_2𝐖X_{2i}𝐖𝐖+\beta𝐖_3𝐖X_{3i}𝐖𝐖+\beta𝐖_4𝐖X_{4i}𝐖𝐖+e_i𝐖
+\beta𝐖_1𝐖𝐖=0
+X_2𝐖
+X_3𝐖
+X_4𝐖
+\beta𝐖_4𝐖𝐖=0
+X_1𝐖
+X_2𝐖
+X_3𝐖
+X_1𝐖
+X_2𝐖
+X_3𝐖
+H_0𝐖𝐖\colon𝐖\beta𝐖𝐖=𝐖-1
+\alpha𝐖𝐖=0.05
+\alpha𝐖𝐖=0.01
+Y_j𝐖𝐖=b_0𝐖𝐖+b_1𝐖𝐖\cdot𝐖X_1𝐖𝐖+b_2𝐖𝐖\cdot𝐖X_2𝐖𝐖+b_3𝐖𝐖\cdot𝐖X_3𝐖𝐖+b_4𝐖𝐖\cdot𝐖X_4𝐖𝐖+b_5𝐖𝐖\cdot𝐖X_6𝐖𝐖+e_j𝐖
+𝐖\hat{y}𝐖𝐖=𝐖-3.6𝐖+(3.1𝐖\cdot𝐖7)𝐖=18.1
+H_0𝐖
+B_1𝐖𝐖=𝐖-5
+H_A𝐖
+B_1𝐖𝐖\not=𝐖𝐖-5
+t_{calculated}𝐖𝐖=\frac{𝐖-5𝐖-(𝐖-4)}{1}𝐖=𝐖-1
+t_{critical}𝐖𝐖=𝐖-1.96
+t_{calc}𝐖
+t_{crit}𝐖
+B_1𝐖𝐖=𝐖-5
+80𝐖+1.5𝐖\cdot𝐖4𝐖=86
+r𝐖=𝐖-.77
+\beta𝐖_2𝐖
+X_2𝐖
+\beta𝐖_2𝐖
 \overline{x}
-s_x
+s_x𝐖
 \overline{X}
 \overline{x}
-s_x
+s_x𝐖
 \overline{X}
 \overline{x}
-s_x
+s_x𝐖
 \overline{X}
 \overline{x}
-\sigma_x
+\sigma𝐖_x𝐖
 \overline{x}
-s_x
+s_x𝐖
 \overset{-}{x}
-s_x
+s_x𝐖
 p'
 p'
 \overset{-}{x}
@@ -1227,58 +1227,58 @@ p'
 \overset{-}{x}
 \overset{-}{X}
 \overset{-}{x}
-\sigma_x
-\frac{\alpha}{2}
-Y =a +b_1 X +b_2 X^2
-\cap
-\cup
-|
-|
-\frac{number\~of\~cell\~phone\~users}{total\~number\~in\~study} =\frac{305}{755}
-\frac{number\~that\~had\~no\~violation}{total\~number\~in\~study} =\frac{685}{755}
+\sigma𝐖_x𝐖
+\frac{\alpha𝐖}{2}
+Y𝐖=a𝐖+b_1𝐖X𝐖+b_2𝐖X^2𝐖
+\cap𝐖
+\cup𝐖
+|𝐖
+|𝐖
+\frac{number\~of\~cell\~phone\~users}{total\~number\~in\~study}𝐖=\frac{305}{755}
+\frac{number\~that\~had\~no\~violation}{total\~number\~in\~study}𝐖=\frac{685}{755}
 \frac{280}{755}
-(\frac{305}{755} +\frac{685}{755}) -\frac{280}{755} =\frac{710}{755}
+(\frac{305}{755}𝐖+\frac{685}{755})𝐖-\frac{280}{755}𝐖=\frac{710}{755}
 \frac{25}{70}
 \frac{405}{450}
-|
-P(F \cap C)
-P(F \cap C) =\frac{18}{100}
+|𝐖
+P(F𝐖\cap𝐖C)
+P(F𝐖\cap𝐖C)𝐖=\frac{18}{100}
 (\frac{45}{100})(\frac{34}{100})
-P(F \cap C)
-|
-|
+P(F𝐖\cap𝐖C)
+|𝐖
+|𝐖
 \frac{25}{41}
-P(F \cap P)
-P(F \cup P)
+P(F𝐖\cap𝐖P)
+P(F𝐖\cup𝐖P)
 \frac{45}{100}
 \frac{25}{100}
-P(F \cap P)
+P(F𝐖\cap𝐖P)
 \frac{11}{100}
-P(F \cup P)
+P(F𝐖\cup𝐖P)
 \frac{45}{100}
 \frac{25}{100}
 \frac{11}{100}
 \frac{59}{100}
-\frac{1}{5}\lt mtext/>
-\frac{4}{5}\lt mtext/>
+\frac{1}{5}\lt𝐖mtext/>
+\frac{4}{5}\lt𝐖mtext/>
 \frac{1}{4}
 \frac{3}{4}
 \frac{1}{2}
 \frac{1}{2}
 \frac{1}{3}
-\frac{1}{15}\lt mtext/>
-\frac{1}{12}\lt mtext/>
-\frac{1}{6}\lt mtext/>
+\frac{1}{15}\lt𝐖mtext/>
+\frac{1}{12}\lt𝐖mtext/>
+\frac{1}{6}\lt𝐖mtext/>
 \frac{4}{15}
 \frac{3}{12}
 \frac{1}{6}
-\frac{1}{15} =(\frac{1}{5})(\frac{1}{3})
-P(Door\space One \cap Caught)
-\frac{4}{15} =(\frac{4}{5})(\frac{1}{3})
-P(Door\space One \cap Not\space Caught)
-\frac{1}{15}\lt mtext/>
-\frac{1}{12}\lt mtext/>
-\frac{1}{6}\lt mtext/>
+\frac{1}{15}𝐖=(\frac{1}{5})(\frac{1}{3})
+P(Door\space𝐖One𝐖\cap𝐖Caught)
+\frac{4}{15}𝐖=(\frac{4}{5})(\frac{1}{3})
+P(Door\space𝐖One𝐖\cap𝐖Not\space𝐖Caught)
+\frac{1}{15}\lt𝐖mtext/>
+\frac{1}{12}\lt𝐖mtext/>
+\frac{1}{6}\lt𝐖mtext/>
 \frac{19}{60}
 \frac{4}{15}
 \frac{3}{12}
@@ -1288,14 +1288,14 @@ P(Door\space One \cap Not\space Caught)
 \frac{4}{12}
 \frac{2}{6}
 \frac{41}{60}
-\cup
+\cup𝐖
 \frac{9}{19}
-\frac{1}{4},
+\frac{1}{4},𝐖
 \frac{3}{4}.
-\frac{1}{2},
-\frac{1}{2} .
-\frac{1}{5},
-\frac{1}{5} .
+\frac{1}{2},𝐖
+\frac{1}{2}𝐖.
+\frac{1}{5},𝐖
+\frac{1}{5}𝐖.
 \frac{1}{3}
 \frac{1}{12}
 \frac{1}{6}
@@ -1303,137 +1303,137 @@ P(Door\space One \cap Not\space Caught)
 \frac{1}{4}
 \frac{1}{6}
 \frac{1}{15}
-(\frac{1}{4})(\frac{1}{3}) =\frac{1}{12} .
-(\frac{3}{4})(\frac{1}{3}) =\frac{1}{4} .
+(\frac{1}{4})(\frac{1}{3})𝐖=\frac{1}{12}𝐖.
+(\frac{3}{4})(\frac{1}{3})𝐖=\frac{1}{4}𝐖.
 (\frac{3}{11})(\frac{3}{11})
 \frac{9}{121}
-P(RB \cup BR)
-P(RB \cup BR)
+P(RB𝐖\cup𝐖BR)
+P(RB𝐖\cup𝐖BR)
 (\frac{3}{11})(\frac{8}{11})
 (\frac{8}{11})(\frac{3}{11})
 \frac{48}{121}
-P(Ron\space 1st\space draw \cap Bon\space 2nd\space draw)
-P(Ron\space 1st\space draw \cap Bon\space 2nd\space draw)
+P(Ron\space𝐖1st\space𝐖draw𝐖\cap𝐖Bon\space𝐖2nd\space𝐖draw)
+P(Ron\space𝐖1st\space𝐖draw𝐖\cap𝐖Bon\space𝐖2nd\space𝐖draw)
 (\frac{3}{11})(\frac{8}{11})
 \frac{24}{121}
-|
-|
-|
+|𝐖
+|𝐖
+|𝐖
 \frac{24}{88}
 \frac{3}{11}
 \frac{24}{88}
 \frac{3}{11}
 \frac{64}{121}
-|
-|
+|𝐖
+|𝐖
 \frac{8}{11}
 \frac{24}{33}
-(\frac{3}{11})(\frac{2}{10}) =\frac{6}{110}
-\frac{56 +24 +24 +6}{110} =\frac{110}{110} =1
-(\frac{3}{11})(\frac{2}{10}) =\frac{6}{110}
-P(RB \cup BR)
-(\frac{3}{11})(\frac{8}{10}) +\~(\_\_\_)(\_\_\_)\~ =\frac{48}{110}
-P(RB \cup BR)
+(\frac{3}{11})(\frac{2}{10})𝐖=\frac{6}{110}
+\frac{56𝐖+24𝐖+24𝐖+6}{110}𝐖=\frac{110}{110}𝐖=1
+(\frac{3}{11})(\frac{2}{10})𝐖=\frac{6}{110}
+P(RB𝐖\cup𝐖BR)
+(\frac{3}{11})(\frac{8}{10})𝐖+\~(\_\_\_)(\_\_\_)\~𝐖=\frac{48}{110}
+P(RB𝐖\cup𝐖BR)
 (\frac{3}{11})(\frac{8}{10})
 (\frac{8}{11})(\frac{3}{10})
 \frac{48}{110}
-|
-|
+|𝐖
+|𝐖
 \frac{3}{10}
-P(Ron\space 1st \cap Bon\space 2nd)
+P(Ron\space𝐖1st𝐖\cap𝐖Bon\space𝐖2nd)
 \frac{24}{110}
-P(Ron\space 1st \cap Bon\space 2nd)
+P(Ron\space𝐖1st𝐖\cap𝐖Bon\space𝐖2nd)
 (\frac{3}{11})(\frac{8}{10})
 \frac{24}{110}
 (\frac{8}{11})(\frac{7}{10})
-|
-|
-|
+|𝐖
+|𝐖
+|𝐖
 \frac{8}{10}
-|
-|
-|
-|
-|
-|
-|
-|
-P(FN \cup NF)
-|
+|𝐖
+|𝐖
+|𝐖
+|𝐖
+|𝐖
+|𝐖
+|𝐖
+|𝐖
+P(FN𝐖\cup𝐖NF)
+|𝐖
 (\frac{1}{2})(\frac{1}{2})
 (\frac{4}{9})(\frac{4}{9})
 (\frac{4}{9})(\frac{3}{8})
 (\frac{4}{9})(\frac{5}{9})
 (\frac{4}{9})(\frac{5}{9})
 (\frac{4}{9})(\frac{5}{8})
-(\frac{4}{9})(\frac{5}{9}) +(\frac{5}{9})(\frac{4}{9})
-(\frac{4}{9})(\frac{5}{8}) +(\frac{5}{9})(\frac{4}{8})
+(\frac{4}{9})(\frac{5}{9})𝐖+(\frac{5}{9})(\frac{4}{9})
+(\frac{4}{9})(\frac{5}{8})𝐖+(\frac{5}{9})(\frac{4}{8})
 \frac{4}{8}
 \frac{32}{72}
-\frac{\overline{x} \textendash \mu}{(\frac{s}{\sqrt{n}})}
+\frac{\overline{x}𝐖\textendash𝐖\mu𝐖}{(\frac{s}{\sqrt{n}})}
 \overline{x}
-(x \textendash \overline{x}values)
+(x𝐖\textendash𝐖\overline{x}values)
 \overline{x}
-t =\frac{z}{\sqrt{\frac{\chi^2}{v}}}
-t =\frac{\frac{(\overline{x} -\mu)}{\sigma}}{\sqrt{\frac{\frac{s^2}{(n -1)}}{\frac{\sigma^2}{(n -1)}}}} =\frac{\frac{(\overline{x} -\mu)}{\sigma}}{\sqrt{\frac{s^2}{\sigma^2}}} =\frac{\frac{(\overline{x} -\mu)}{\sigma}}{\frac{s}{\sigma}} =\frac{\overline{x} -\mu}{\frac{s}{\sqrt{n}}}
-t =\frac{s}{\sqrt{n}}
-\overline{x} -t_{v,\alpha} (\frac{s}{\sqrt{n}}) \le \mu \le \overline{x} +t_{v,\alpha} (\frac{s}{\sqrt{n}})
+t𝐖=\frac{z}{\sqrt{\frac{\chi𝐖^2𝐖}{v}}}
+t𝐖=\frac{\frac{(\overline{x}𝐖-\mu𝐖)}{\sigma𝐖}}{\sqrt{\frac{\frac{s^2𝐖}{(n𝐖-1)}}{\frac{\sigma𝐖^2𝐖}{(n𝐖-1)}}}}𝐖=\frac{\frac{(\overline{x}𝐖-\mu𝐖)}{\sigma𝐖}}{\sqrt{\frac{s^2𝐖}{\sigma𝐖^2𝐖}}}𝐖=\frac{\frac{(\overline{x}𝐖-\mu𝐖)}{\sigma𝐖}}{\frac{s}{\sigma𝐖}}𝐖=\frac{\overline{x}𝐖-\mu𝐖}{\frac{s}{\sqrt{n}}}
+t𝐖=\frac{s}{\sqrt{n}}
+\overline{x}𝐖-t_{v,\alpha𝐖}𝐖(\frac{s}{\sqrt{n}})𝐖\le𝐖\mu𝐖𝐖\le𝐖\overline{x}𝐖+t_{v,\alpha𝐖}𝐖(\frac{s}{\sqrt{n}})
 \overline{X}
-\overline{x} -t_{v,\alpha} (\frac{s}{\sqrt{n}}) \le \mu \le \overline{x} +t_{v,\alpha} (\frac{s}{\sqrt{n}})
+\overline{x}𝐖-t_{v,\alpha𝐖}𝐖(\frac{s}{\sqrt{n}})𝐖\le𝐖\mu𝐖𝐖\le𝐖\overline{x}𝐖+t_{v,\alpha𝐖}𝐖(\frac{s}{\sqrt{n}})
 \overline{X}
-\mu =\overline{X} \pm t_{\alpha /2,df=n-1} \frac{s}{\sqrt{n}} =1.851 \pm 3.2498\frac{0.395}{\sqrt{10}} =1.8551 \pm 0.406
-1.445 \le \mu \le 2.257
+\mu𝐖𝐖=\overline{X}𝐖\pm𝐖t_{\alpha𝐖/2,df=n-1}𝐖\frac{s}{\sqrt{n}}𝐖=1.851𝐖\pm𝐖3.2498\frac{0.395}{\sqrt{10}}𝐖=1.8551𝐖\pm𝐖0.406
+1.445𝐖\le𝐖\mu𝐖𝐖\le𝐖2.257
 \frac{1}{20}
 \frac{1}{20}
 \frac{1}{20}
 \frac{1}{20}
 \frac{1}{20}
 \frac{1}{20}
-AREA =20(\frac{1}{20}) =1
+AREA𝐖=20(\frac{1}{20})𝐖=1
 \frac{1}{20}
-AREA\~ =(2 \textendash 0)(\frac{1}{20}) =0.1
-(2\lt mtext/> \textendash \lt mtext/>0)\lt mtext/> =\lt mtext/>2\lt mtext/> =base\space of\space a\space rectangle
+AREA\~𝐖=(2𝐖\textendash𝐖0)(\frac{1}{20})𝐖=0.1
+(2\lt𝐖mtext/>𝐖\textendash𝐖\lt𝐖mtext/>0)\lt𝐖mtext/>𝐖=\lt𝐖mtext/>2\lt𝐖mtext/>𝐖=base\space𝐖of\space𝐖a\space𝐖rectangle
 \frac{1}{20}
-AREA\~ =(15 \textendash 4)(\frac{1}{20}) =0.55
-(15 \textendash 4) =11 =\~the\~base\~of\~a\~rectangle
+AREA\~𝐖=(15𝐖\textendash𝐖4)(\frac{1}{20})𝐖=0.55
+(15𝐖\textendash𝐖4)𝐖=11𝐖=\~the\~base\~of\~a\~rectangle
 (\frac{1}{20})
 \frac{1}{20}
-P(2.3 \lt x \lt 12.7) =(base)(height) =(12.7 -2.3)(\frac{1}{20}) =0.52
+P(2.3𝐖\lt𝐖x𝐖\lt𝐖12.7)𝐖=(base)(height)𝐖=(12.7𝐖-2.3)(\frac{1}{20})𝐖=0.52
 \frac{1}{8}
-t_c =\frac{r}{\sqrt{\frac{(1 -r^2)}{(n -2)}}}
+t_c𝐖𝐖=\frac{r}{\sqrt{\frac{(1𝐖-r^2𝐖)}{(n𝐖-2)}}}
 OR
-t_c =\frac{r\sqrt{n -2}}{\sqrt{1 -r^2}}
-| r| \ge \frac{2}{\sqrt{n}}
-\underset{(i \cdot j)}{\Sigma}\frac{(O \textendash E)^2}{E}
-i \cdot j
-\frac{(O \textendash E)^2}{E}
-\cap
-\cap
-\cap
-\frac{y}{755} =(\frac{70}{755})(\frac{305}{755})
-\frac{(70)(305)}{755} =28.3
-H_0
-E =\frac{(row\space total)(column\space total)}{total\space number\space surveyed}
-E =\frac{(row\~total)(column\~total)}{total\~number\~surveyed} =\frac{(255)(298)}{839} =90.57
-\chi_4^2
-\chi_c^2
-E =\frac{(row\space total)(column\space total)}{total\space surveyed} =\frac{155 \cdot 57}{400} =22.09
-E =\frac{(row\space total)(column\space total)}{total\space surveyed} =8.19
-|
-\frac{P(A \cap B)}{P(B)}
+t_c𝐖𝐖=\frac{r\sqrt{n𝐖-2}}{\sqrt{1𝐖-r^2𝐖}}
+|𝐖r|𝐖\ge𝐖\frac{2}{\sqrt{n}}
+\underset{(i𝐖\cdot𝐖j)}{\Sigma𝐖}\frac{(O𝐖\textendash𝐖E)^2𝐖}{E}
+i𝐖\cdot𝐖j
+\frac{(O𝐖\textendash𝐖E)^2𝐖}{E}
+\cap𝐖
+\cap𝐖
+\cap𝐖
+\frac{y}{755}𝐖=(\frac{70}{755})(\frac{305}{755})
+\frac{(70)(305)}{755}𝐖=28.3
+H_0𝐖
+E𝐖=\frac{(row\space𝐖total)(column\space𝐖total)}{total\space𝐖number\space𝐖surveyed}
+E𝐖=\frac{(row\~total)(column\~total)}{total\~number\~surveyed}𝐖=\frac{(255)(298)}{839}𝐖=90.57
+\chi𝐖_4^2𝐖
+\chi𝐖_c^2𝐖
+E𝐖=\frac{(row\space𝐖total)(column\space𝐖total)}{total\space𝐖surveyed}𝐖=\frac{155𝐖\cdot𝐖57}{400}𝐖=22.09
+E𝐖=\frac{(row\space𝐖total)(column\space𝐖total)}{total\space𝐖surveyed}𝐖=8.19
+|𝐖
+\frac{P(A𝐖\cap𝐖B)}{P(B)}
 A
 B
-P(A \cap B) =P(A)P(B),
-P(A|B) =P(A)
-P(B|A) =P(B) .
+P(A𝐖\cap𝐖B)𝐖=P(A)P(B),𝐖
+P(A|B)𝐖=P(A)
+P(B|A)𝐖=P(B)𝐖.
 A
 B
-P(A \cup B) =P(A) +P(B)
-P(A \cap B) =0 .
-\cap
-|
-\cup
-\cap
+P(A𝐖\cup𝐖B)𝐖=P(A)𝐖+P(B)
+P(A𝐖\cap𝐖B)𝐖=0𝐖.
+\cap𝐖
+|𝐖
+\cup𝐖
+\cap𝐖
 \frac{3}{20}
 \frac{5}{20}
 \frac{3}{20}
@@ -1490,251 +1490,251 @@ P(A \cap B) =0 .
 \frac{7}{19}
 \frac{12}{19}
 \frac{7}{19}
-\overline{X}_d =\frac{ \sum (x_1 -x_2)}{n}
-H_0 \colon \mathrm{\mu}_d =0
-H_a \colon \mathrm{\mu}_d \not= 0
-t_c =\frac{\overline{x}_d -\mu_d}{(\frac{s_d}{\sqrt{n}})}
-H_0 \colon \mathrm{\mu}_d \le 0
-H_a \colon \mathrm{\mu}_d >0
-Test\space Statistic\colon t_c =\frac{\overline{X}_d -\mathrm{\mu}_d}{\frac{S_d}{\sqrt{n}}} =\frac{(23.9 -20.4) -0}{(\frac{3.8}{\sqrt{20}})} =4.12
-\overline{X}_d =\frac{ \sum (x_1 -x_2)}{n}
-S_d =\sqrt{\frac{ \sum (d_i -\overline{X}_d)^2}{n -1}}whered_i =x_1_i -x_2_i
-\overline{x}_d =\textendash 3.13
-s_d =2.91
-\mu_d
+\overline{X}_d𝐖𝐖=\frac{𝐖\sum𝐖(x_1𝐖𝐖-x_2𝐖)}{n}
+H_0𝐖𝐖\colon𝐖\mathrm{\mu}_d𝐖𝐖=0
+H_a𝐖𝐖\colon𝐖\mathrm{\mu}_d𝐖𝐖\not=𝐖0
+t_c𝐖𝐖=\frac{\overline{x}_d𝐖𝐖-\mu𝐖_d𝐖}{(\frac{s_d𝐖}{\sqrt{n}})}
+H_0𝐖𝐖\colon𝐖\mathrm{\mu}_d𝐖𝐖\le𝐖0
+H_a𝐖𝐖\colon𝐖\mathrm{\mu}_d𝐖𝐖>0
+Test\space𝐖Statistic\colon𝐖t_c𝐖𝐖=\frac{\overline{X}_d𝐖𝐖-\mathrm{\mu}_d𝐖}{\frac{S_d𝐖}{\sqrt{n}}}𝐖=\frac{(23.9𝐖-20.4)𝐖-0}{(\frac{3.8}{\sqrt{20}})}𝐖=4.12
+\overline{X}_d𝐖𝐖=\frac{𝐖\sum𝐖(x_1𝐖𝐖-x_2𝐖)}{n}
+S_d𝐖𝐖=\sqrt{\frac{𝐖\sum𝐖(d_i𝐖𝐖-\overline{X}_d𝐖)^2𝐖}{n𝐖-1}}whered_i𝐖𝐖=x_1𝐖_i𝐖𝐖-x_2𝐖_i𝐖
+\overline{x}_d𝐖𝐖=\textendash𝐖3.13
+s_d𝐖𝐖=2.91
+\mu𝐖_d𝐖
 d
-\overline{X}_d
-\overline{X}_d
-\overline{x}_d
-\overline{s}_d
-\overline{x}_d
-\overline{X}_d
-\begin{pmatrix} 4 \\ 2 \end{pmatrix} =\frac{4!}{2!(4 -2)!} =6
-\begin{pmatrix} 48 \\ 3 \end{pmatrix} =\frac{48!}{3!45!} =17,296
-\frac{ \begin{pmatrix} 4 \\ 2 \end{pmatrix} \begin{pmatrix} 48 \\ 3 \end{pmatrix}}{ \begin{pmatrix} 52 \\ 5 \end{pmatrix}} =.0399
-h(x) =\frac{ \begin{pmatrix} A \\ x \end{pmatrix} \begin{pmatrix} N -A \\ n -x \end{pmatrix}}{ \begin{pmatrix} N \\ n \end{pmatrix}}
-P(x =5)
-P(x =5) =\frac{(\overset{30}{5})(\overset{20}{5})}{(\overset{50}{10})}
-P(x =5) =0.215
-P(x) =\frac{ \begin{pmatrix} 5 \\ 3 \end{pmatrix} \begin{pmatrix} 95 \\ 17 \end{pmatrix}}{ \begin{pmatrix} 100 \\ 20 \end{pmatrix}} =0.048
+\overline{X}_d𝐖
+\overline{X}_d𝐖
+\overline{x}_d𝐖
+\overline{s}_d𝐖
+\overline{x}_d𝐖
+\overline{X}_d𝐖
+𝐖\begin{pmatrix}𝐖4𝐖\\𝐖2𝐖\end{pmatrix}𝐖𝐖=\frac{4!}{2!(4𝐖-2)!}𝐖=6
+𝐖\begin{pmatrix}𝐖48𝐖\\𝐖3𝐖\end{pmatrix}𝐖𝐖=\frac{48!}{3!45!}𝐖=17,296
+\frac{𝐖\begin{pmatrix}𝐖4𝐖\\𝐖2𝐖\end{pmatrix}𝐖𝐖\begin{pmatrix}𝐖48𝐖\\𝐖3𝐖\end{pmatrix}𝐖}{𝐖\begin{pmatrix}𝐖52𝐖\\𝐖5𝐖\end{pmatrix}𝐖}𝐖=.0399
+h(x)𝐖=\frac{𝐖\begin{pmatrix}𝐖A𝐖\\𝐖x𝐖\end{pmatrix}𝐖𝐖\begin{pmatrix}𝐖N𝐖-A𝐖\\𝐖n𝐖-x𝐖\end{pmatrix}𝐖}{𝐖\begin{pmatrix}𝐖N𝐖\\𝐖n𝐖\end{pmatrix}𝐖}
+P(x𝐖=5)
+P(x𝐖=5)𝐖=\frac{(\overset{30}{5})(\overset{20}{5})}{(\overset{50}{10})}
+P(x𝐖=5)𝐖=0.215
+P(x)𝐖=\frac{𝐖\begin{pmatrix}𝐖5𝐖\\𝐖3𝐖\end{pmatrix}𝐖𝐖\begin{pmatrix}𝐖95𝐖\\𝐖17𝐖\end{pmatrix}𝐖}{𝐖\begin{pmatrix}𝐖100𝐖\\𝐖20𝐖\end{pmatrix}𝐖}𝐖=0.048
 \overline{x}
 \overline{x}
 \overline{x}
 \overline{x}
-\frac{\sigma}{\sqrt{n}} =\frac{1}{\sqrt{100}} =0.1
+\frac{\sigma𝐖}{\sqrt{n}}𝐖=\frac{1}{\sqrt{100}}𝐖=0.1
 \overline{x}
 \overline{x}
 \overline{x}
 \overline{x}
-\overline{x} -\~0.2
-\overline{x} +\~0.2
-\overline{x} =\~2
-\overline{x} -0.2 =2 -0.2 =1.8
-\overline{x} +0.2 =2 +0.2 =2.2
+\overline{x}𝐖-\~0.2
+\overline{x}𝐖+\~0.2
+\overline{x}𝐖=\~2
+\overline{x}𝐖-0.2𝐖=2𝐖-0.2𝐖=1.8
+\overline{x}𝐖+0.2𝐖=2𝐖+0.2𝐖=2.2
 \overline{x}
-\mu =\overline{X} \pm Z_\alpha \frac{\sigma}{\sqrt{n}}
-\overline{X} -Z_\alpha \frac{\sigma}{\sqrt{n}} \le \mu \le \overline{X} +Z_\alpha \frac{\sigma}{\sqrt{n}}
+\mu𝐖𝐖=\overline{X}𝐖\pm𝐖Z_\alpha𝐖𝐖\frac{\sigma𝐖}{\sqrt{n}}
+\overline{X}𝐖-Z_\alpha𝐖𝐖\frac{\sigma𝐖}{\sqrt{n}}𝐖\le𝐖\mu𝐖𝐖\le𝐖\overline{X}𝐖+Z_\alpha𝐖𝐖\frac{\sigma𝐖}{\sqrt{n}}
 \overline{X}
-Z_\alpha
-\frac{\sigma}{\sqrt{n}}
-\sqrt{\~ \\ \~}
-\pi
+Z_\alpha𝐖𝐖
+\frac{\sigma𝐖}{\sqrt{n}}
+\sqrt{\~𝐖\\𝐖\~}
+\pi𝐖
 \overline{x}
-\mu
-s^2
-\sigma
-\sigma^2
-\Sigma
+\mu𝐖
+s^2𝐖
+\sigma𝐖
+\sigma𝐖^2𝐖
+\Sigma𝐖
 \{\}
 S
 A
 P(A)
 P(A|B)
-P(A \cup B)
-P(A \cap B)
-\lt mi/> \ge \lt mi/>
-\lt mi/> \le \lt mi/>
+P(A𝐖\cup𝐖B)
+P(A𝐖\cap𝐖B)
+\lt𝐖mi/>𝐖\ge𝐖\lt𝐖mi/>
+\lt𝐖mi/>𝐖\le𝐖\lt𝐖mi/>
 \overline{X}
-\mu_{\overline{x}}
-\sigma_{\overline{x}}
-t_{\frac{\alpha}{2}}
+\mu𝐖_{\overline{x}}𝐖
+\sigma𝐖_{\overline{x}}𝐖
+t_{\frac{\alpha𝐖}{2}}𝐖
 p'
 q'
-H_0
-H_a
-H_1
-\alpha
-\beta
-\overline{X1} \textendash \overline{X2}
-\mu_1 -\mu_2
-P'_1 -P'_2
-p_1 -p_2
-\Chi^2
+H_0𝐖
+H_a𝐖
+H_1𝐖
+\alpha𝐖
+\beta𝐖
+\overline{X1}𝐖\textendash𝐖\overline{X2}
+\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+P'_1𝐖𝐖-P'_2𝐖
+p_1𝐖𝐖-p_2𝐖
+\Chi𝐖^2𝐖
 O
 E
-\hat{y}
+𝐖\hat{y}𝐖
 r
-\varepsilon
+\varepsilon𝐖
 N
 n
-\mu
+\mu𝐖
 \overline{x}
-\sigma^2
-s^2
-\sigma
+\sigma𝐖^2𝐖
+s^2𝐖
+\sigma𝐖
 s
 p
-p'
-\mu =E(x) =\frac{1}{N}\sum_{i =1}^N (x_i)
-\overline{x} =\frac{1}{n}\sum_{i =1}^n (x_i)
-\overset{\textasciitilde}{x} =(\prod_{i =1}^n X_i)^{\frac{1}{n}}
-Q_3 =\frac{3(n +1)}{4}
-Q_1 =\frac{(n +1)}{4}
-IQR =Q_3 -Q_1
-Q_3 =\frac{3(n +1)}{4}
-Q_1 =\frac{(n +1)}{4}
-\sigma^2 =\frac{1}{N}\sum_{i =1}^N (x_i -\mu)^2
-s^2 =\frac{1}{n}\sum_{i =1}^n (x_i -\overline{x})^2
-\mu =E(x) =\frac{1}{N}\sum_{i =1}^N (m_i \cdotp f_i)
-\overline{x} =\frac{1}{n}\sum_{i =1}^n (m_i \cdotp f_i)
-\overset{\textasciitilde}{x} =(\prod_{i =1}^n X_i)^{\frac{1}{n}}
-\sigma^2 =\frac{1}{N}\sum_{i =1}^N (m_i -\mu)^2 \cdotp f_i
-s^2 =\frac{1}{n}\sum_{i =1}^n (m_i -\overline{x})^2 \cdotp f_i
-CV =\frac{\sigma}{\mu} \cdotp 100
-CV =\frac{s}{\overline{x}} \cdotp 100
-P(A \cap B) =P(A|B) \cdotp P(B)
-P(A \cup B) =P(A) +P(B) -P(A \cap B)
-P(A \cap B) =P(A) \cdotp P(B)
-P(A|B) =P(A)
-nCx =\binom{n}{x} =\frac{n!}{x!(n -x)!}
-P(x) =\frac{\binom{A}{x}\binom{N -A}{n -x}}{\binom{N}{n}}
-E(X) =\mu =np
-\sigma^2 =(\frac{N -n}{N -1})np(q)
-P(x) =\frac{n!}{x!(n -x)!}p^x (q)^{n -x}
-E(X) =\mu =np
-\sigma^2 =np(q)
-P(X =x) =(1 -p)^{x -1} (p)
+p'𝐖
+\mu𝐖𝐖=E(x)𝐖=\frac{1}{N}\sum𝐖_{i𝐖=1}^N𝐖(x_i𝐖)
+\overline{x}𝐖=\frac{1}{n}\sum𝐖_{i𝐖=1}^n𝐖(x_i𝐖)
+\overset{\textasciitilde𝐖}{x}𝐖=(\prod𝐖_{i𝐖=1}^n𝐖X_i𝐖)^{\frac{1}{n}}𝐖
+Q_3𝐖𝐖=\frac{3(n𝐖+1)}{4}
+Q_1𝐖𝐖=\frac{(n𝐖+1)}{4}
+IQR𝐖=Q_3𝐖𝐖-Q_1𝐖
+Q_3𝐖𝐖=\frac{3(n𝐖+1)}{4}
+Q_1𝐖𝐖=\frac{(n𝐖+1)}{4}
+\sigma𝐖^2𝐖𝐖=\frac{1}{N}\sum𝐖_{i𝐖=1}^N𝐖(x_i𝐖𝐖-\mu𝐖)^2𝐖
+s^2𝐖𝐖=\frac{1}{n}\sum𝐖_{i𝐖=1}^n𝐖(x_i𝐖𝐖-\overline{x})^2𝐖
+\mu𝐖𝐖=E(x)𝐖=\frac{1}{N}\sum𝐖_{i𝐖=1}^N𝐖(m_i𝐖𝐖\cdotp𝐖f_i𝐖)
+\overline{x}𝐖=\frac{1}{n}\sum𝐖_{i𝐖=1}^n𝐖(m_i𝐖𝐖\cdotp𝐖f_i𝐖)
+\overset{\textasciitilde𝐖}{x}𝐖=(\prod𝐖_{i𝐖=1}^n𝐖X_i𝐖)^{\frac{1}{n}}𝐖
+\sigma𝐖^2𝐖𝐖=\frac{1}{N}\sum𝐖_{i𝐖=1}^N𝐖(m_i𝐖𝐖-\mu𝐖)^2𝐖𝐖\cdotp𝐖f_i𝐖
+s^2𝐖𝐖=\frac{1}{n}\sum𝐖_{i𝐖=1}^n𝐖(m_i𝐖𝐖-\overline{x})^2𝐖𝐖\cdotp𝐖f_i𝐖
+CV𝐖=\frac{\sigma𝐖}{\mu𝐖}𝐖\cdotp𝐖100
+CV𝐖=\frac{s}{\overline{x}}𝐖\cdotp𝐖100
+P(A𝐖\cap𝐖B)𝐖=P(A|B)𝐖\cdotp𝐖P(B)
+P(A𝐖\cup𝐖B)𝐖=P(A)𝐖+P(B)𝐖-P(A𝐖\cap𝐖B)
+P(A𝐖\cap𝐖B)𝐖=P(A)𝐖\cdotp𝐖P(B)
+P(A|B)𝐖=P(A)
+nCx𝐖=\binom{n}{x}𝐖=\frac{n!}{x!(n𝐖-x)!}
+P(x)𝐖=\frac{\binom{A}{x}\binom{N𝐖-A}{n𝐖-x}}{\binom{N}{n}}
+E(X)𝐖=\mu𝐖𝐖=np
+\sigma𝐖^2𝐖𝐖=(\frac{N𝐖-n}{N𝐖-1})np(q)
+P(x)𝐖=\frac{n!}{x!(n𝐖-x)!}p^x𝐖(q)^{n𝐖-x}𝐖
+E(X)𝐖=\mu𝐖𝐖=np
+\sigma𝐖^2𝐖𝐖=np(q)
+P(X𝐖=x)𝐖=(1𝐖-p)^{x𝐖-1}𝐖(p)
 x
 x
-P(X =x) =(1 -p)^x (p)
-\mu =\frac{1}{p}
-\mu =\frac{1 -p}{p}
-\sigma^2 =\frac{(1 -p)}{p^2}
-\sigma^2 =\frac{(1 -p)}{p^2}
-P(x) =\frac{e^{ -\mu} \mu^x}{x!}
-E(X) =\mu
-\sigma^2 =\mu
-f(x) =\frac{1}{b -a}
-a \le x \le b
-E(X) =\mu =\frac{a +b}{2}
-\sigma^2 =\frac{(b -a)^2}{12}
-P(X \le x) =1 -e^{ -mx}
-E(X) =\mu =\frac{1}{m}
-m =\frac{1}{\mu}
-\sigma^2 =\frac{1}{m^2} =\mu^2
+P(X𝐖=x)𝐖=(1𝐖-p)^x𝐖(p)
+\mu𝐖𝐖=\frac{1}{p}
+\mu𝐖𝐖=\frac{1𝐖-p}{p}
+\sigma𝐖^2𝐖𝐖=\frac{(1𝐖-p)}{p^2𝐖}
+\sigma𝐖^2𝐖𝐖=\frac{(1𝐖-p)}{p^2𝐖}
+P(x)𝐖=\frac{e^{𝐖-\mu𝐖}𝐖\mu𝐖^x𝐖}{x!}
+E(X)𝐖=\mu𝐖
+\sigma𝐖^2𝐖𝐖=\mu𝐖
+f(x)𝐖=\frac{1}{b𝐖-a}
+a𝐖\le𝐖x𝐖\le𝐖b
+E(X)𝐖=\mu𝐖𝐖=\frac{a𝐖+b}{2}
+\sigma𝐖^2𝐖𝐖=\frac{(b𝐖-a)^2𝐖}{12}
+P(X𝐖\le𝐖x)𝐖=1𝐖-e^{𝐖-mx}𝐖
+E(X)𝐖=\mu𝐖𝐖=\frac{1}{m}
+m𝐖=\frac{1}{\mu𝐖}
+\sigma𝐖^2𝐖𝐖=\frac{1}{m^2𝐖}𝐖=\mu𝐖^2𝐖
 Z
 t
-\chi^2
+\chi𝐖^2𝐖
 F
-Z =\frac{x -\mu}{\sigma}
-Z =\frac{x -np'}{\sqrt{np'(q')}}
-Z_c =\frac{\overline{x} -\mu_0}{\frac{\sigma}{\sqrt{n}}}
-\overline{x} \pm [Z_{(\alpha /2)} \frac{\sigma}{\sqrt{n}}]
-Z_c =\frac{\overline{x} -\mu_0}{\frac{s}{\sqrt{n}}}
-n >30
-\overline{x} \pm [Z_{(\alpha /2)} \frac{s}{\sqrt{n}}]
-t_c =\frac{\overline{x} -\mu_0}{\frac{s}{\sqrt{n}}}
-n \lt 30
-\overline{x} \pm [t_{(n -1), (\alpha /2)} \frac{s}{\sqrt{n}}]
-Z_c =\frac{p' -p_0}{\sqrt{\frac{p_0 q_0}{n}}}
-p' \pm [Z_{(\alpha /2)} \sqrt{\frac{p'q'}{n}}]
-t_c =\frac{\overline{d} -\delta_0}{\frac{s_d}{\sqrt{n}}}
-\overline{d} \pm [t_{(n -1), (\alpha /2)} \frac{s_d}{\sqrt{n}}]
-s_d
-Z_c =\frac{(\overline{x_1} -\overline{x_2}) -\delta_0}{\sqrt{\frac{\sigma_1^2}{n_1} +\frac{\sigma_2^2}{n_2}}}
-(\overline{x_1} -\overline{x_2}) \pm [Z_{(\alpha /2)} \sqrt{\frac{\sigma_1^2}{n_1} +\frac{\sigma_2^2}{n_2}}]
-t_c =\frac{(\overline{x}_1 -\overline{x}_2) -\delta_0}{\sqrt{(\frac{(s_1)^2}{n_1} +\frac{(s_2)^2}{n_2})}}
-(\overline{x}_1 -\overline{x}_2) \pm [t_{df, (\alpha /2)} \sqrt{(\frac{(s_1)^2}{n_1} +\frac{(s_2)^2}{n_2})}]
-df =\frac{(\frac{(s_1)^2}{n_1} +\frac{(s_2)^2}{n_2})^2}{(\frac{1}{n_1 -1})(\frac{(s_1)^2}{n_1}) +(\frac{1}{n_2 -1})(\frac{(s_2)^2}{n_2})}
-Z_c =\frac{(p'_1 -p'_2) -\delta_0}{\sqrt{\frac{p'_1 (q'_1)}{n_1} +\frac{p'_2 (q'_2)}{n_2}}}
-(p'_1 -p'_2) \pm [Z_{(\alpha /2)} \sqrt{\frac{p'_1 (q'_1)}{n_1} +\frac{p'_2 (q'_2)}{n_2}}]
-\chi_c^2 =\frac{(n -1)s^2}{\sigma_0^2}
-\chi_c^2 = \Sigma \frac{(O -E)^2}{E}
-F_c =\frac{s_1^2}{s_2^2}
-s_1^2
-n =\frac{Z_{(\frac{a}{2})}^2 \sigma^2}{E^2}
-E =\overline{x} -\mu
-n =\frac{Z_{(\frac{a}{2})}^2 (0.25)}{E^2}
+Z𝐖=\frac{x𝐖-\mu𝐖}{\sigma𝐖}
+Z𝐖=\frac{x𝐖-np'}{\sqrt{np'(q')}}
+Z_c𝐖𝐖=\frac{\overline{x}𝐖-\mu𝐖_0𝐖}{\frac{\sigma𝐖}{\sqrt{n}}}
+\overline{x}𝐖\pm𝐖[Z_{(\alpha𝐖/2)}𝐖\frac{\sigma𝐖}{\sqrt{n}}]
+Z_c𝐖𝐖=\frac{\overline{x}𝐖-\mu𝐖_0𝐖}{\frac{s}{\sqrt{n}}}
+n𝐖>30
+\overline{x}𝐖\pm𝐖[Z_{(\alpha𝐖/2)}𝐖\frac{s}{\sqrt{n}}]
+t_c𝐖𝐖=\frac{\overline{x}𝐖-\mu𝐖_0𝐖}{\frac{s}{\sqrt{n}}}
+n𝐖\lt𝐖30
+\overline{x}𝐖\pm𝐖[t_{(n𝐖-1),𝐖(\alpha𝐖/2)}𝐖\frac{s}{\sqrt{n}}]
+Z_c𝐖𝐖=\frac{p'𝐖-p_0𝐖}{\sqrt{\frac{p_0𝐖q_0𝐖}{n}}}
+p'𝐖\pm𝐖[Z_{(\alpha𝐖/2)}𝐖\sqrt{\frac{p'q'}{n}}]
+t_c𝐖𝐖=\frac{\overline{d}𝐖-\delta𝐖_0𝐖}{\frac{s_d𝐖}{\sqrt{n}}}
+\overline{d}𝐖\pm𝐖[t_{(n𝐖-1),𝐖(\alpha𝐖/2)}𝐖\frac{s_d𝐖}{\sqrt{n}}]
+s_d𝐖
+Z_c𝐖𝐖=\frac{(\overline{x_1𝐖}𝐖-\overline{x_2𝐖})𝐖-\delta𝐖_0𝐖}{\sqrt{\frac{\sigma𝐖_1^2𝐖}{n_1𝐖}𝐖+\frac{\sigma𝐖_2^2𝐖}{n_2𝐖}}}
+(\overline{x_1𝐖}𝐖-\overline{x_2𝐖})𝐖\pm𝐖[Z_{(\alpha𝐖/2)}𝐖\sqrt{\frac{\sigma𝐖_1^2𝐖}{n_1𝐖}𝐖+\frac{\sigma𝐖_2^2𝐖}{n_2𝐖}}]
+t_c𝐖𝐖=\frac{(\overline{x}_1𝐖𝐖-\overline{x}_2𝐖)𝐖-\delta𝐖_0𝐖}{\sqrt{(\frac{(s_1𝐖)^2𝐖}{n_1𝐖}𝐖+\frac{(s_2𝐖)^2𝐖}{n_2𝐖})}}
+(\overline{x}_1𝐖𝐖-\overline{x}_2𝐖)𝐖\pm𝐖[t_{df,𝐖(\alpha𝐖/2)}𝐖\sqrt{(\frac{(s_1𝐖)^2𝐖}{n_1𝐖}𝐖+\frac{(s_2𝐖)^2𝐖}{n_2𝐖})}]
+df𝐖=\frac{(\frac{(s_1𝐖)^2𝐖}{n_1𝐖}𝐖+\frac{(s_2𝐖)^2𝐖}{n_2𝐖})^2𝐖}{(\frac{1}{n_1𝐖𝐖-1})(\frac{(s_1𝐖)^2𝐖}{n_1𝐖})𝐖+(\frac{1}{n_2𝐖𝐖-1})(\frac{(s_2𝐖)^2𝐖}{n_2𝐖})}
+Z_c𝐖𝐖=\frac{(p'_1𝐖𝐖-p'_2𝐖)𝐖-\delta𝐖_0𝐖}{\sqrt{\frac{p'_1𝐖(q'_1𝐖)}{n_1𝐖}𝐖+\frac{p'_2𝐖(q'_2𝐖)}{n_2𝐖}}}
+(p'_1𝐖𝐖-p'_2𝐖)𝐖\pm𝐖[Z_{(\alpha𝐖/2)}𝐖\sqrt{\frac{p'_1𝐖(q'_1𝐖)}{n_1𝐖}𝐖+\frac{p'_2𝐖(q'_2𝐖)}{n_2𝐖}}]
+\chi𝐖_c^2𝐖𝐖=\frac{(n𝐖-1)s^2𝐖}{\sigma𝐖_0^2𝐖}
+\chi𝐖_c^2𝐖𝐖=𝐖\Sigma𝐖\frac{(O𝐖-E)^2𝐖}{E}
+F_c𝐖𝐖=\frac{s_1^2𝐖}{s_2^2𝐖}
+s_1^2𝐖
+n𝐖=\frac{Z_{(\frac{a}{2})}^2𝐖\sigma𝐖^2𝐖}{E^2𝐖}
+E𝐖=\overline{x}𝐖-\mu𝐖
+n𝐖=\frac{Z_{(\frac{a}{2})}^2𝐖(0.25)}{E^2𝐖}
 p'
-E =p' -p
-n =\frac{Z_{(\frac{a}{2})}^2 [p'(q')]}{E^2}
+E𝐖=p'𝐖-p
+n𝐖=\frac{Z_{(\frac{a}{2})}^2𝐖[p'(q')]}{E^2𝐖}
 p'
-E =p' -p
-y =a +b(x)
-r =\frac{ \Sigma [(x -\overline{x})(y -\overline{y})]}{\sqrt{ \Sigma (x -\overline{x})^2 * \Sigma (y -\overline{y})^2}} =\frac{S_{xy}}{S_x S_y} =\sqrt{\frac{SSR}{SST}}
-b =\frac{ \Sigma [(x -\overline{x})(y -\overline{y})]}{ \Sigma (x -\overline{x})^2} =\frac{S_{xy}}{SS_x} =r_{y, x} (\frac{s_y}{s_x})
-a =\overline{y} -b(\overline{x})
-s_e^2 =\frac{ \Sigma (y_i - \hat{y}_i)^2}{n -k} =\frac{\overset{\overset{i =1}{\Sigma}}e_i^2}{n -k}
-S_b =\frac{s_e^2}{\sqrt{(x_i -\overline{x})^2}} =\frac{s_e^2}{(n -1)s_x^2}
-t_c =\frac{b -\beta_0}{s_b}
-b \pm [t_{n -2, \alpha /2} S_b]
-\hat{y} \pm [t_{\alpha /2}^* s_e (\sqrt{\frac{1}{n} +\frac{(x_p -\overline{x})^2}{s_x}})]
-\hat{y} \pm [t_{\alpha /2}^* s_e (\sqrt{1 +\frac{1}{n} +\frac{(x_p -\overline{x})^2}{s_x}})]
-SSR =\overset{\overset{i =1}{\Sigma}}( \hat{y}_i -\overline{y})^2
-SSE =\overset{\overset{i =1}{\Sigma}}( \hat{y}_i -\overline{y}_i)^2
-SST =\overset{\overset{i =1}{\Sigma}}(y_i -\overline{y})^2
-R^2 =\frac{SSR}{SST}
+E𝐖=p'𝐖-p
+y𝐖=a𝐖+b(x)
+r𝐖=\frac{𝐖\Sigma𝐖[(x𝐖-\overline{x})(y𝐖-\overline{y})]}{\sqrt{𝐖\Sigma𝐖(x𝐖-\overline{x})^2𝐖𝐖*𝐖\Sigma𝐖(y𝐖-\overline{y})^2𝐖}}𝐖=\frac{S_{xy}𝐖}{S_x𝐖S_y𝐖}𝐖=\sqrt{\frac{SSR}{SST}}
+b𝐖=\frac{𝐖\Sigma𝐖[(x𝐖-\overline{x})(y𝐖-\overline{y})]}{𝐖\Sigma𝐖(x𝐖-\overline{x})^2𝐖}𝐖=\frac{S_{xy}𝐖}{SS_x𝐖}𝐖=r_{y,𝐖x}𝐖(\frac{s_y𝐖}{s_x𝐖})
+a𝐖=\overline{y}𝐖-b(\overline{x})
+s_e^2𝐖𝐖=\frac{𝐖\Sigma𝐖(y_i𝐖𝐖-𝐖\hat{y}𝐖_i𝐖)^2𝐖}{n𝐖-k}𝐖=\frac{\overset{\overset{i𝐖=1}{\Sigma𝐖}}e_i^2𝐖}{n𝐖-k}
+S_b𝐖𝐖=\frac{s_e^2𝐖}{\sqrt{(x_i𝐖𝐖-\overline{x})^2𝐖}}𝐖=\frac{s_e^2𝐖}{(n𝐖-1)s_x^2𝐖}
+t_c𝐖𝐖=\frac{b𝐖-\beta𝐖_0𝐖}{s_b𝐖}
+b𝐖\pm𝐖[t_{n𝐖-2,𝐖\alpha𝐖/2}𝐖S_b𝐖]
+𝐖\hat{y}𝐖𝐖\pm𝐖[t_{\alpha𝐖/2}𝐖^*𝐖s_e𝐖(\sqrt{\frac{1}{n}𝐖+\frac{(x_p𝐖𝐖-\overline{x})^2𝐖}{s_x𝐖}})]
+𝐖\hat{y}𝐖𝐖\pm𝐖[t_{\alpha𝐖/2}𝐖^*𝐖s_e𝐖(\sqrt{1𝐖+\frac{1}{n}𝐖+\frac{(x_p𝐖𝐖-\overline{x})^2𝐖}{s_x𝐖}})]
+SSR𝐖=\overset{\overset{i𝐖=1}{\Sigma𝐖}}(𝐖\hat{y}𝐖_i𝐖𝐖-\overline{y})^2𝐖
+SSE𝐖=\overset{\overset{i𝐖=1}{\Sigma𝐖}}(𝐖\hat{y}𝐖_i𝐖𝐖-\overline{y}_i𝐖)^2𝐖
+SST𝐖=\overset{\overset{i𝐖=1}{\Sigma𝐖}}(y_i𝐖𝐖-\overline{y})^2𝐖
+R^2𝐖𝐖=\frac{SSR}{SST}
 SSR
 1
-k -1
-MSR =\frac{SSR}{df_R}
-F =\frac{MSR}{MSE}
+k𝐖-1
+MSR𝐖=\frac{SSR}{df_R𝐖}
+F𝐖=\frac{MSR}{MSE}
 SSE
-n -k
-MSE =\frac{SSE}{df_E}
+n𝐖-k
+MSE𝐖=\frac{SSE}{df_E𝐖}
 SST
-n -1
-\mathrm{\mu} =np
-\sigma^\angle =npq
-(p_A^' -p_B^')
-p'_A =\frac{X_A}{n_A}
-p'_B =\frac{X'_B}{n_{\~_B}}
-H_0 \colon p_1 -p_2 =\mathmit{\delta}_0
-H_1 \colon p_1 -p_2 \not= \mathmit{\delta}_0
-H_0 \colon p_A =p_B
-H_a \colon p_A \not= p_B
-p_c =\frac{x_A +x_B}{n_A +n_B}
-Z_c =\frac{(p_A^' -p_B^') -\delta_0}{\sqrt{p_c (1 -p_c)(\frac{1}{n_A} +\frac{1}{n_B})}}
-H_0 \colon p_A =p_B
-H_a \colon p_A \not= p_B
-p_c =\frac{x_A +x_B}{n_A +n_B} =\frac{20 +12}{200 +200} =0.081 \textendash p_c =0.92
-p'_A =\frac{x_A}{n_A} =\frac{20}{200} =0.1
-p'_B =\frac{x_B}{n_B} =\frac{12}{200} =0.06
-Z_c =\frac{(P'_A -P'_B) -\delta_0}{\sqrt{P_c (1 -P_c)(\frac{1}{n_A} +\frac{1}{n_B})}} =1.47
-|
-|
-|
+n𝐖-1
+𝐖\mathrm{\mu}𝐖=np
+\sigma𝐖^\angle𝐖𝐖𝐖=npq
+(p_A^'𝐖𝐖-p_B^'𝐖)
+p'_A𝐖𝐖=\frac{X_A𝐖}{n_A𝐖}
+p'_B𝐖𝐖=\frac{X'_B𝐖}{n_{\~_B𝐖}𝐖}
+H_0𝐖𝐖\colon𝐖p_1𝐖𝐖-p_2𝐖𝐖=\mathmit{\delta}_0𝐖
+H_1𝐖𝐖\colon𝐖p_1𝐖𝐖-p_2𝐖𝐖\not=𝐖\mathmit{\delta}_0𝐖
+H_0𝐖𝐖\colon𝐖p_A𝐖𝐖=p_B𝐖
+H_a𝐖𝐖\colon𝐖p_A𝐖𝐖\not=𝐖p_B𝐖
+p_c𝐖𝐖=\frac{x_A𝐖𝐖+x_B𝐖}{n_A𝐖𝐖+n_B𝐖}
+Z_c𝐖𝐖=\frac{(p_A^'𝐖𝐖-p_B^'𝐖)𝐖-\delta𝐖_0𝐖}{\sqrt{p_c𝐖(1𝐖-p_c𝐖)(\frac{1}{n_A𝐖}𝐖+\frac{1}{n_B𝐖})}}
+H_0𝐖𝐖\colon𝐖p_A𝐖𝐖=p_B𝐖
+H_a𝐖𝐖\colon𝐖p_A𝐖𝐖\not=𝐖p_B𝐖
+p_c𝐖𝐖=\frac{x_A𝐖𝐖+x_B𝐖}{n_A𝐖𝐖+n_B𝐖}𝐖=\frac{20𝐖+12}{200𝐖+200}𝐖=0.081𝐖\textendash𝐖p_c𝐖𝐖=0.92
+p'_A𝐖𝐖=\frac{x_A𝐖}{n_A𝐖}𝐖=\frac{20}{200}𝐖=0.1
+p'_B𝐖𝐖=\frac{x_B𝐖}{n_B𝐖}𝐖=\frac{12}{200}𝐖=0.06
+Z_c𝐖𝐖=\frac{(P'_A𝐖𝐖-P'_B𝐖)𝐖-\delta𝐖_0𝐖}{\sqrt{P_c𝐖(1𝐖-P_c𝐖)(\frac{1}{n_A𝐖}𝐖+\frac{1}{n_B𝐖})}}𝐖=1.47
+|𝐖
+|𝐖
+|𝐖
 \frac{1}{20}
 \overline{X}
-\overline{X}_1
-\overline{X}_1
-\overline{X}_2
-\overline{X}_2
-\overline{x} =
-s^2 =
-\overline{x} =
-s^2 =
-t =\frac{\overline{x} -\mu}{\frac{s}{\sqrt{n}}}
-\overline{x} \pm (t_{\frac{\alpha}{2}})\frac{s}{\sqrt{n}}
-t_{\frac{\alpha}{2}}
-\frac{\alpha}{2}
-t_{\frac{\alpha}{2}}
+\overline{X}_1𝐖
+\overline{X}_1𝐖
+\overline{X}_2𝐖
+\overline{X}_2𝐖
+\overline{x}𝐖=
+s^2𝐖𝐖=
+\overline{x}𝐖=
+s^2𝐖𝐖=
+t𝐖=\frac{\overline{x}𝐖-\mu𝐖}{\frac{s}{\sqrt{n}}}
+\overline{x}𝐖\pm𝐖(t_{\frac{\alpha𝐖}{2}}𝐖)\frac{s}{\sqrt{n}}
+t_{\frac{\alpha𝐖}{2}}𝐖
+\frac{\alpha𝐖}{2}
+t_{\frac{\alpha𝐖}{2}}𝐖
 p'
 q'
 p'
-p' -Z_\alpha \sqrt{\frac{p'\textquotesingle qq'}{n}} \le p \le p' +Z_\alpha \sqrt{\frac{p'\textquotesingle qq'}{n}}
-n =\frac{Z_\alpha^2 \sigma^2}{(\overline{x} -\mu)^2}
-n =\frac{Z_\alpha^2 pq}{e^2}
+p'𝐖-Z_\alpha𝐖𝐖\sqrt{\frac{p'\textquotesingle𝐖qq'}{n}}𝐖\le𝐖p𝐖\le𝐖p'𝐖+Z_\alpha𝐖𝐖\sqrt{\frac{p'\textquotesingle𝐖qq'}{n}}
+n𝐖=\frac{Z_\alpha𝐖^2𝐖\sigma𝐖^2𝐖}{(\overline{x}𝐖-\mu𝐖)^2𝐖}
+n𝐖=\frac{Z_\alpha𝐖^2𝐖pq}{e^2𝐖}
 \frac{382}{1043}
 \overline{x}
 \overline{x}
@@ -1742,120 +1742,120 @@ n =\frac{Z_\alpha^2 pq}{e^2}
 s
 \overline{x}
 \overline{x}
-b_0
-\beta_0
-b_1
-\beta_1
-R^2
-R^2 =\frac{SSR}{SST}
-y_0 - \hat{y}_0 =e_0
+b_0𝐖
+\beta𝐖_0𝐖
+b_1𝐖
+\beta𝐖_1𝐖
+R^2𝐖
+R^2𝐖𝐖=\frac{SSR}{SST}
+y_0𝐖𝐖-𝐖\hat{y}𝐖_0𝐖𝐖=e_0𝐖
 R
-\hat{y}
-\frac{x +0.5y}{n}
-\frac{143 +0.5(1)}{180}
+𝐖\hat{y}𝐖
+\frac{x𝐖+0.5y}{n}
+\frac{143𝐖+0.5(1)}{180}
 \frac{738}{27}
-\frac{0.158\~\textendash \~0.166}{0.012}
-\frac{0.177\~\textendash \~0.189}{0.015}
-s_x =\sqrt{\frac{ \sum fm^2}{n} -\overline{x}^2} =\sqrt{\frac{193157.45}{30} -79.5^2} =10.88
-s_x =\sqrt{\frac{ \sum fm^2}{n} -\overline{x}^2} =\sqrt{\frac{380945.3}{101} -60.94^2} =7.62
-s_x =\sqrt{\frac{ \sum fm^2}{n} -\overline{x}^2} =\sqrt{\frac{440051.5}{86} -70.66^2} =11.14
-\overline{x} =\frac{1328.65}{50} =26.75
-\overline{x} =23.32
-s_x =12.95.
-|
-\cup
+\frac{0.158\~\textendash𝐖\~0.166}{0.012}
+\frac{0.177\~\textendash𝐖\~0.189}{0.015}
+s_x𝐖𝐖=\sqrt{\frac{𝐖\sum𝐖fm^2𝐖}{n}𝐖-\overline{x}^2𝐖}𝐖=\sqrt{\frac{193157.45}{30}𝐖-79.5^2𝐖}𝐖=10.88
+s_x𝐖𝐖=\sqrt{\frac{𝐖\sum𝐖fm^2𝐖}{n}𝐖-\overline{x}^2𝐖}𝐖=\sqrt{\frac{380945.3}{101}𝐖-60.94^2𝐖}𝐖=7.62
+s_x𝐖𝐖=\sqrt{\frac{𝐖\sum𝐖fm^2𝐖}{n}𝐖-\overline{x}^2𝐖}𝐖=\sqrt{\frac{440051.5}{86}𝐖-70.66^2𝐖}𝐖=11.14
+\overline{x}𝐖=\frac{1328.65}{50}𝐖=26.75
+\overline{x}𝐖=23.32
+s_x𝐖𝐖=12.95.
+|𝐖
+\cup𝐖
 E
 F
-P(E) =0.4;
-P(F) =0.5 .
-P(E \mid F) .
+P(E)𝐖=0.4;𝐖
+P(F)𝐖=0.5𝐖.
+P(E𝐖\mid𝐖F)𝐖.
 J
 K
-P(J|K) =0.3 .
-P(J) .
-P(U \cap V) =
-P(U|V) =
-P(U \cup V) =
+P(J|K)𝐖=0.3𝐖.
+P(J)𝐖.
+P(U𝐖\cap𝐖V)𝐖=
+P(U|V)𝐖=
+P(U𝐖\cup𝐖V)𝐖=
 Q
 R
-P(Q) =0.4
-P(Q \cap R) =0.1 .
-P(R) .
-P(Z \cap S)
-Z \cap S
-P(Z \cup S)
-Z \cup S
-\cap
-\cup
-b(x) = \begin{pmatrix} n \\ x \end{pmatrix} p^x q^{n -x}
-\mu =np
-\sigma =\sqrt{npq}
+P(Q)𝐖=0.4
+P(Q𝐖\cap𝐖R)𝐖=0.1𝐖.
+P(R)𝐖.
+P(Z𝐖\cap𝐖S)
+Z𝐖\cap𝐖S
+P(Z𝐖\cup𝐖S)
+Z𝐖\cup𝐖S
+\cap𝐖
+\cup𝐖
+b(x)𝐖=𝐖\begin{pmatrix}𝐖n𝐖\\𝐖x𝐖\end{pmatrix}𝐖p^x𝐖q^{n𝐖-x}𝐖
+\mu𝐖𝐖=np
+\sigma𝐖𝐖=\sqrt{npq}
 x
 \sqrt{npq}
-P(x =15)
-P(x \lt 15)
-P(x \lt 15)
-P \colon (x =0, 1, 2, \ldots .14)
-P(x >3)
-P(x >3) =P(x =4) +P(x =5) =0.0146 +0.0007 =0.0153
-\mu =np =1.25
-p =0.25
-P(x =x_0) & = & \begin{pmatrix} n \\ x \end{pmatrix} p^x (1 -p)^{n -x} \\ \~ & = & \begin{pmatrix} 5 \\ x_0 \end{pmatrix} \cdotp 25^{x_0} \cdotp 75^{5 -x_0} \\ \~ & \~ & etc . \\ \mu & = & np =1.25
-\sum_{(ij)} \frac{(O -E)^2}{E}
-x^2 =x_7^2 =\frac{(n \textendash 1)s^2}{25^2} =\frac{(8 \textendash 1)(34.29)^2}{25^2} =13.169
-\frac{1}{\mu}
+P(x𝐖=15)
+P(x𝐖\lt𝐖15)
+P(x𝐖\lt𝐖15)
+P𝐖\colon𝐖(x𝐖=0,𝐖1,𝐖2,𝐖\ldots𝐖.14)
+P(x𝐖>3)
+P(x𝐖>3)𝐖=P(x𝐖=4)𝐖+P(x𝐖=5)𝐖=0.0146𝐖+0.0007𝐖=0.0153
+\mu𝐖𝐖=np𝐖=1.25
+p𝐖=0.25
+P(x𝐖=x_0𝐖)𝐖&𝐖=𝐖&𝐖𝐖\begin{pmatrix}𝐖n𝐖\\𝐖x𝐖\end{pmatrix}𝐖p^x𝐖(1𝐖-p)^{n𝐖-x}𝐖𝐖\\𝐖\~𝐖&𝐖=𝐖&𝐖𝐖\begin{pmatrix}𝐖5𝐖\\𝐖x_0𝐖𝐖\end{pmatrix}𝐖𝐖\cdotp𝐖25^{x_0𝐖}𝐖𝐖\cdotp𝐖75^{5𝐖-x_0𝐖}𝐖𝐖\\𝐖\~𝐖&𝐖\~𝐖&𝐖etc𝐖.𝐖\\𝐖\mu𝐖𝐖&𝐖=𝐖&𝐖np𝐖=1.25
+\sum𝐖_{(ij)}𝐖\frac{(O𝐖-E)^2𝐖}{E}
+x^2𝐖𝐖=x_7^2𝐖𝐖=\frac{(n𝐖\textendash𝐖1)s^2𝐖}{25^2𝐖}𝐖=\frac{(8𝐖\textendash𝐖1)(34.29)^2𝐖}{25^2𝐖}𝐖=13.169
+\frac{1}{\mu𝐖}
 \frac{1}{m}
 \frac{1}{m}
-f(x) =me^{ -mx}
-f(x) =\frac{1}{\mu}e^{ -\frac{1}{\mu}x}
-P(X \le x) =1 -e^{ -mx}
-P(X \le x) =1 -e^{ -\frac{1}{\mu}x}
-P(X =x) =\frac{\mu^x e^{ -\mu}}{x!}
-\frac{a +b}{2}
-\sigma =\sqrt{\frac{(b -a)^2}{12}}
-\frac{1}{b -a}
-\frac{x -a}{b -a}
+f(x)𝐖=me^{𝐖-mx}𝐖
+f(x)𝐖=\frac{1}{\mu𝐖}e^{𝐖-\frac{1}{\mu𝐖}x}𝐖
+P(X𝐖\le𝐖x)𝐖=1𝐖-e^{𝐖-mx}𝐖
+P(X𝐖\le𝐖x)𝐖=1𝐖-e^{𝐖-\frac{1}{\mu𝐖}x}𝐖
+P(X𝐖=x)𝐖=\frac{\mu𝐖^x𝐖e^{𝐖-\mu𝐖}𝐖}{x!}
+\frac{a𝐖+b}{2}
+\sigma𝐖𝐖=\sqrt{\frac{(b𝐖-a)^2𝐖}{12}}
+\frac{1}{b𝐖-a}
+\frac{x𝐖-a}{b𝐖-a}
 \overline{x}
-\sigma_{p'} =\sqrt{\frac{p(1 -p)}{n}}
-|
-|
-|
-|
-|
-\cap
-\cap
-\cup
-|
-\cap
-\cup
-|
-|
-|
-\cap
-\cup
-|
-\cup
-\cap
-\cup
-|
-\cup
-P(E') =
-P(E) =
-P(S \cap E') =
-P(S|E') =
-|
-|
-|
-|
-\cap
-|
-\cup
+\sigma𝐖_{p'}𝐖𝐖=\sqrt{\frac{p(1𝐖-p)}{n}}
+|𝐖
+|𝐖
+|𝐖
+|𝐖
+|𝐖
+\cap𝐖
+\cap𝐖
+\cup𝐖
+|𝐖
+\cap𝐖
+\cup𝐖
+|𝐖
+|𝐖
+|𝐖
+\cap𝐖
+\cup𝐖
+|𝐖
+\cup𝐖
+\cap𝐖
+\cup𝐖
+|𝐖
+\cup𝐖
+P(E')𝐖=
+P(E)𝐖=
+P(S𝐖\cap𝐖E')𝐖=
+P(S|E')𝐖=
+|𝐖
+|𝐖
+|𝐖
+|𝐖
+\cap𝐖
+|𝐖
+\cup𝐖
 \frac{1518}{2873}
 \frac{2873}{12351}
 \frac{583}{12351}
 \frac{4189}{12351}
 \frac{4189}{12351}
-\frac{ \lt mo/>117}{1723}
+\frac{𝐖\lt𝐖mo/>117}{1723}
 \frac{1723}{4189}
 \frac{117}{12351}
 \frac{2}{3}
@@ -1869,22 +1869,22 @@ P(S|E') =
 \frac{10}{12}
 \frac{6}{36}
 p'
-P' =\frac{X}{n}
-\hat{P}
+P'𝐖=\frac{X}{n}
+𝐖\hat{P}𝐖
 p'
 p'
-\sigma_{p'} =\sqrt{\frac{p(1 -p)}{n}}
-p =p' \pm [Z_{(\frac{a}{2})} \sqrt{\frac{p'(1 -p')}{n}}]
-Z_{(\frac{a}{2})}
-\sqrt{\frac{p'(1 -p')}{n}}
-p'
-q'
+\sigma𝐖_{p'}𝐖𝐖=\sqrt{\frac{p(1𝐖-p)}{n}}
+p𝐖=p'𝐖\pm𝐖[Z_{(\frac{a}{2})}𝐖\sqrt{\frac{p'(1𝐖-p')}{n}}]
+Z_{(\frac{a}{2})}𝐖
+\sqrt{\frac{p'(1𝐖-p')}{n}}
 p'
 q'
-\mu =np
-\sigma =\sqrt{npq}
-Z =\frac{p' -p}{\sqrt{(\frac{pq}{n})}}
-p' -Z_{\frac{\alpha}{2}} \sqrt{\frac{p'q'}{n}} \le p \le p' +Z_{\frac{\alpha}{2}} \sqrt{\frac{p'q'}{n}}
+p'
+q'
+\mu𝐖𝐖=np
+\sigma𝐖𝐖=\sqrt{npq}
+Z𝐖=\frac{p'𝐖-p}{\sqrt{(\frac{pq}{n})}}
+p'𝐖-Z_{\frac{\alpha𝐖}{2}}𝐖\sqrt{\frac{p'q'}{n}}𝐖\le𝐖p𝐖\le𝐖p'𝐖+Z_{\frac{\alpha𝐖}{2}}𝐖\sqrt{\frac{p'q'}{n}}
 p'
 p
 p'
@@ -1895,518 +1895,518 @@ nq'
 p
 p'
 q'
-p' =\frac{x}{n} =\frac{421}{500} =0.842
+p'𝐖=\frac{x}{n}𝐖=\frac{421}{500}𝐖=0.842
 p'
 q'
 p'
-(\frac{\alpha}{2})
-z_{\frac{\alpha}{2}} =z_{0.025} =1.96
-p' -Z_\alpha \sqrt{\frac{p'q'}{n}} \le p \le p' +Z_\alpha \sqrt{\frac{p'q'}{n}}
-Substituting\space in\space the\space values\space from\space above\space we\space find\space the\space confidence\space interval\space is\space \colon 0.810 \le p \le 0.874
-p =p' \pm [Z_{(\frac{a}{2})} \sqrt{\frac{p'(1 -p')}{n}}]
-p' =\frac{0.08 +0.16}{2} =0.12
-[Z \cdot \sqrt{\frac{0.12(1 -0.12)}{150}}] =0.04
-p(Z =1.51) =0.4345
-p(Z) \cdot 2 =0.8690
+(\frac{\alpha𝐖}{2})
+z_{\frac{\alpha𝐖}{2}}𝐖𝐖=z_{0.025}𝐖𝐖=1.96
+p'𝐖-Z_\alpha𝐖𝐖\sqrt{\frac{p'q'}{n}}𝐖\le𝐖p𝐖\le𝐖p'𝐖+Z_\alpha𝐖𝐖\sqrt{\frac{p'q'}{n}}
+Substituting\space𝐖in\space𝐖the\space𝐖values\space𝐖from\space𝐖above\space𝐖we\space𝐖find\space𝐖the\space𝐖confidence\space𝐖interval\space𝐖is\space𝐖\colon𝐖0.810𝐖\le𝐖p𝐖\le𝐖0.874
+p𝐖=p'𝐖\pm𝐖[Z_{(\frac{a}{2})}𝐖\sqrt{\frac{p'(1𝐖-p')}{n}}]
+p'𝐖=\frac{0.08𝐖+0.16}{2}𝐖=0.12
+[Z𝐖\cdot𝐖\sqrt{\frac{0.12(1𝐖-0.12)}{150}}]𝐖=0.04
+p(Z𝐖=1.51)𝐖=0.4345
+p(Z)𝐖\cdot𝐖2𝐖=0.8690
 86.90%
-p' =\frac{x}{n} =\frac{300}{500} =0.600
-q' =1 -p' =1 -0.600 =0.400
-(\frac{\alpha}{2})
-Z_{\frac{\alpha}{2}}
-p' -Z_\alpha \sqrt{\frac{p'\textquotesingle qq'}{n}} \le p \le p' +Z_\alpha \sqrt{\frac{p'\textquotesingle qq'}{n}}
-6.8 +7.2 =14 \\ 14 \div 2 =7
+p'𝐖=\frac{x}{n}𝐖=\frac{300}{500}𝐖=0.600
+q'𝐖=1𝐖-p'𝐖=1𝐖-0.600𝐖=0.400
+(\frac{\alpha𝐖}{2})
+Z_{\frac{\alpha𝐖}{2}}𝐖
+p'𝐖-Z_\alpha𝐖𝐖\sqrt{\frac{p'\textquotesingle𝐖qq'}{n}}𝐖\le𝐖p𝐖\le𝐖p'𝐖+Z_\alpha𝐖𝐖\sqrt{\frac{p'\textquotesingle𝐖qq'}{n}}
+6.8𝐖+7.2𝐖=14𝐖\\𝐖14𝐖\div𝐖2𝐖=7
 \frac{230,500\~+\~387,000}{2}
 \frac{639,000\~+\~659,000}{2}
-i =\frac{k}{100}(n +1)
+i𝐖=\frac{k}{100}(n𝐖+1)
 \frac{k}{100}
 \frac{70}{100}
 \frac{k}{100}
 \frac{83}{100}
-i =\frac{80}{100}(50 +1) =40.8
-i =\frac{90}{100}(50 +1) =45.9
-i =\frac{25}{100}(50 +1) =12.75
-\frac{x +0.5y}{n}
-\frac{x +0.5y}{n}
-\frac{18 +0.5(1)}{29}
-\frac{x +0.5y}{n}
-\frac{3 +0.5(1)}{29}
+i𝐖=\frac{80}{100}(50𝐖+1)𝐖=40.8
+i𝐖=\frac{90}{100}(50𝐖+1)𝐖=45.9
+i𝐖=\frac{25}{100}(50𝐖+1)𝐖=12.75
+\frac{x𝐖+0.5y}{n}
+\frac{x𝐖+0.5y}{n}
+\frac{18𝐖+0.5(1)}{29}
+\frac{x𝐖+0.5y}{n}
+\frac{3𝐖+0.5(1)}{29}
 \frac{3}{2}
 \frac{1}{3}
 \frac{1}{9}
 \frac{3.5}{7}
-\frac{1}{m} =\frac{1}{0.75} \approx 1.33
-f(x) =\frac{1}{8}
-1 \le x \le 9
+\frac{1}{m}𝐖=\frac{1}{0.75}𝐖\approx𝐖1.33
+f(x)𝐖=\frac{1}{8}
+1𝐖\le𝐖x𝐖\le𝐖9
 \frac{15}{32}
 \frac{333}{800}
 \frac{2}{3}
-f(x) =\frac{1}{8}
+f(x)𝐖=\frac{1}{8}
 \frac{1}{8}
 \frac{1}{8}
-\frac{1}{25 -16} =\frac{1}{9}
+\frac{1}{25𝐖-16}𝐖=\frac{1}{9}
 (\frac{1}{9})
 \frac{6}{9}
 \frac{2}{3}
 (\frac{1}{9})
 \frac{3}{9}
 \frac{1}{3}
-|
-\frac{1}{(25 -18)}
+|𝐖
+\frac{1}{(25𝐖-18)}
 \frac{1}{7}
-|
+|𝐖
 (\frac{1}{7})
-|
-\frac{P(x >21 \cap x >18)}{P(x >18)}
-\frac{P(x >21)}{P(x >18)}
-\frac{(25 -21)}{(25 -18)}
+|𝐖
+\frac{P(x𝐖>21𝐖\cap𝐖x𝐖>18)}{P(x𝐖>18)}
+\frac{P(x𝐖>21)}{P(x𝐖>18)}
+\frac{(25𝐖-21)}{(25𝐖-18)}
 \frac{4}{7}
-\frac{700 -650}{700 -300} =\frac{50}{400} =\frac{1}{8}
-\frac{650 -400}{700 -300} =\frac{250}{400}
-\frac{3^0 e^{ \textendash 3}}{0!}
+\frac{700𝐖-650}{700𝐖-300}𝐖=\frac{50}{400}𝐖=\frac{1}{8}
+\frac{650𝐖-400}{700𝐖-300}𝐖=\frac{250}{400}
+\frac{3^0𝐖e^{𝐖\textendash𝐖3}𝐖}{0!}
 \frac{1}{3}
 \frac{1}{3}
-\frac{1}{\mu}
+\frac{1}{\mu𝐖}
 \frac{100}{9}
 \frac{1}{9}
-P(X \lt x) =1 -e^{ -\frac{x}{9}}
-1 -(1 -e^{ -\frac{20}{9}}) \approx 0.1084.
-(\frac{8}{9})^{20} \approx 0.0948
+P(X𝐖\lt𝐖x)𝐖=1𝐖-e^{𝐖-\frac{x}{9}}𝐖
+1𝐖-(1𝐖-e^{𝐖-\frac{20}{9}}𝐖)𝐖\approx𝐖0.1084.
+(\frac{8}{9})^{20}𝐖𝐖\approx𝐖0.0948
 \frac{1}{7}
-1 -e^{\frac{t}{7}}
-1 -e^{ -\frac{2}{7}}
-1 -P(T \lt 15) =1 -(1 -e^{ -\frac{15}{7}}) \approx e^{ -\frac{15}{7}} \approx 0.1173
-1 -(1 -e^{ -\frac{5}{7}}) =e^{ -\frac{5}{7}} \approx 0.4895
+1𝐖-e^{\frac{t}{7}}𝐖
+1𝐖-e^{𝐖-\frac{2}{7}}𝐖
+1𝐖-P(T𝐖\lt𝐖15)𝐖=1𝐖-(1𝐖-e^{𝐖-\frac{15}{7}}𝐖)𝐖\approx𝐖e^{𝐖-\frac{15}{7}}𝐖𝐖\approx𝐖0.1173
+1𝐖-(1𝐖-e^{𝐖-\frac{5}{7}}𝐖)𝐖=e^{𝐖-\frac{5}{7}}𝐖𝐖\approx𝐖0.4895
 \frac{30}{7}
 (\frac{30}{7})
-\overset{\textasciitilde}{x}
-\overset{\textasciitilde}{x} =(\prod_{i =1}^n x_i)^{\frac{1}{n}} =\sqrt[n]{x_1 \cdotp x_2 \cdotp \cdotp \cdotp x_n} =(x_1 \cdotp x_2 \cdotp \cdotp \cdotp x_n)^{\frac{1}{n}}
-\pi
-x_i
-x_i
-r_s =(x_1 \cdotp x_2 \cdotp \cdotp \cdotp x_n)^{\frac{1}{n}} -1
-a_0
-a_n
+\overset{\textasciitilde𝐖}{x}
+\overset{\textasciitilde𝐖}{x}𝐖=(\prod𝐖_{i𝐖=1}^n𝐖x_i𝐖)^{\frac{1}{n}}𝐖𝐖=\sqrt[n]{x_1𝐖𝐖\cdotp𝐖x_2𝐖\cdotp𝐖\cdotp𝐖\cdotp𝐖x_n𝐖}𝐖=(x_1𝐖𝐖\cdotp𝐖x_2𝐖\cdotp𝐖\cdotp𝐖\cdotp𝐖x_n𝐖)^{\frac{1}{n}}𝐖
+\pi𝐖
+x_i𝐖
+x_i𝐖
+r_s𝐖𝐖=(x_1𝐖𝐖\cdotp𝐖x_2𝐖𝐖\cdotp𝐖\cdotp𝐖\cdotp𝐖x_n𝐖)^{\frac{1}{n}}𝐖𝐖-1
+a_0𝐖
+a_n𝐖
 n
-(\frac{a_n}{a_0})^{\frac{1}{n}} =\overset{\textasciitilde}{x}
-r_s =\overset{\textasciitilde}{x} -1
-r_s
-\overset{\textasciitilde}{x}
-H_0 \colon \mu_1 =\mu_2 =\mu_3 = .\space .\space .\mu_k
-H_a
-\mu_1, \mu_2, \mu_3, .\space .\space .\space,\mu_k
-\mu_i \not= \mu_j
-i \not= j
-Z =\frac{\overline{x} -\mathrm{\mu}}{\frac{\sigma}{\sqrt{n}} \cdotp \sqrt{\frac{N -n}{N -1}}}
-\sigma_{p'} =\sqrt{\frac{p(1 -p)}{n}} \times \sqrt{\frac{N -n}{N -1}}
-N =4000, n =100, \sigma =10.37, \mathrm{\mu} =75.45, (\overline{x} -\mathrm{\mu}) = \pm 2
-Z =\frac{\overline{x} -\mathrm{\mu}}{\frac{\sigma}{\sqrt{n}} \cdotp \sqrt{\frac{N -n}{N -1}}} =\frac{ \pm 2}{\frac{10.37}{\sqrt{100}} \cdotp \sqrt{\frac{4000 -100}{4000 -1}}} = \pm 1.95
-f(Z) =0.4744 \cdotp 2 =0.9488
-N =3000, n =360, p =0.06
-\sigma_{p'} =\sqrt{\frac{p(1 -p)}{n}} \times \sqrt{\frac{N -n}{N -1}} =\sqrt{\frac{0.06(1 -0.06)}{360}} \times \sqrt{\frac{3000 -360}{3000 -1}} =0.0117
-p_1 =\frac{10}{360} =0.0278, p_2 =\frac{20}{360} =0.0556
-Z =\frac{p' -p}{\sqrt{\frac{p(1 -p)}{n}} \cdotp \sqrt{\frac{N -n}{N -1}}} =\frac{0.0278 -0.06}{0.011744} = -2.74
-Z =\frac{p' -p}{\sqrt{\frac{p(1 -p)}{n}} \cdotp \sqrt{\frac{N -n}{N -1}}} =\frac{0.0556 -0.06}{0.011744} = -0.38
-p(\frac{0.0278 -0.06}{0.011744} \lt z \lt \frac{0.0556 -0.06}{0.011744}) =p( -2.74 \lt z \lt -0.38) =0.4969 -0.1480 =0.3489
-t_c =\frac{\overline{X} -\mu_0}{s/\sqrt{n}}
-Z_c =\frac{\overline{X} -\mu_0}{\sigma /\sqrt{n}}
-Z_c =\frac{\overline{X} -\mu_0}{s/\sqrt{n}}
-Z_c =\frac{\overline{X} -\mu_0}{\sigma /\sqrt{n}}
-Z_c =\frac{p' \textendash p_0}{\sqrt{\frac{p_0 p_0}{n}}}
-a_3 = \sum \frac{(x_i -\overline{x})^3}{ns^3}
-a_3 = \sum \frac{(x_i -\overline{x})^3}{ns^3}
+(\frac{a_n𝐖}{a_0𝐖})^{\frac{1}{n}}𝐖𝐖=\overset{\textasciitilde𝐖}{x}
+r_s𝐖𝐖=\overset{\textasciitilde𝐖}{x}𝐖-1
+r_s𝐖
+\overset{\textasciitilde𝐖}{x}
+H_0𝐖𝐖\colon𝐖\mu𝐖_1𝐖𝐖=\mu𝐖_2𝐖𝐖=\mu𝐖_3𝐖𝐖=𝐖.\space𝐖.\space𝐖.\mu𝐖_k𝐖
+H_a𝐖
+\mu𝐖_1𝐖,𝐖\mu𝐖_2𝐖,𝐖\mu𝐖_3𝐖,𝐖𝐖.\space𝐖.\space𝐖.\space𝐖,\mu𝐖_k𝐖
+\mu𝐖_i𝐖𝐖\not=𝐖\mu𝐖_j𝐖
+i𝐖\not=𝐖j
+Z𝐖=\frac{\overline{x}𝐖-\mathrm{\mu}}{\frac{\sigma𝐖}{\sqrt{n}}𝐖\cdotp𝐖\sqrt{\frac{N𝐖-n}{N𝐖-1}}}
+\sigma𝐖_{p'}𝐖𝐖=\sqrt{\frac{p(1𝐖-p)}{n}}𝐖\times𝐖\sqrt{\frac{N𝐖-n}{N𝐖-1}}
+N𝐖=4000,𝐖n𝐖=100,𝐖\sigma𝐖𝐖=10.37,𝐖\mathrm{\mu}𝐖=75.45,𝐖(\overline{x}𝐖-\mathrm{\mu})𝐖=𝐖\pm𝐖2
+Z𝐖=\frac{\overline{x}𝐖-\mathrm{\mu}}{\frac{\sigma𝐖}{\sqrt{n}}𝐖\cdotp𝐖\sqrt{\frac{N𝐖-n}{N𝐖-1}}}𝐖=\frac{𝐖\pm𝐖2}{\frac{10.37}{\sqrt{100}}𝐖\cdotp𝐖\sqrt{\frac{4000𝐖-100}{4000𝐖-1}}}𝐖=𝐖\pm𝐖1.95
+f(Z)𝐖=0.4744𝐖\cdotp𝐖2𝐖=0.9488
+N𝐖=3000,𝐖n𝐖=360,𝐖p𝐖=0.06
+\sigma𝐖_{p'}𝐖𝐖=\sqrt{\frac{p(1𝐖-p)}{n}}𝐖\times𝐖\sqrt{\frac{N𝐖-n}{N𝐖-1}}𝐖=\sqrt{\frac{0.06(1𝐖-0.06)}{360}}𝐖\times𝐖\sqrt{\frac{3000𝐖-360}{3000𝐖-1}}𝐖=0.0117
+p_1𝐖𝐖=\frac{10}{360}𝐖=0.0278,𝐖p_2𝐖𝐖=\frac{20}{360}𝐖=0.0556
+Z𝐖=\frac{p'𝐖-p}{\sqrt{\frac{p(1𝐖-p)}{n}}𝐖\cdotp𝐖\sqrt{\frac{N𝐖-n}{N𝐖-1}}}𝐖=\frac{0.0278𝐖-0.06}{0.011744}𝐖=𝐖-2.74
+Z𝐖=\frac{p'𝐖-p}{\sqrt{\frac{p(1𝐖-p)}{n}}𝐖\cdotp𝐖\sqrt{\frac{N𝐖-n}{N𝐖-1}}}𝐖=\frac{0.0556𝐖-0.06}{0.011744}𝐖=𝐖-0.38
+p(\frac{0.0278𝐖-0.06}{0.011744}𝐖\lt𝐖z𝐖\lt𝐖\frac{0.0556𝐖-0.06}{0.011744})𝐖=p(𝐖-2.74𝐖\lt𝐖z𝐖\lt𝐖𝐖-0.38)𝐖=0.4969𝐖-0.1480𝐖=0.3489
+t_c𝐖𝐖=\frac{\overline{X}𝐖-\mu𝐖_0𝐖}{s/\sqrt{n}}
+Z_c𝐖𝐖=\frac{\overline{X}𝐖-\mu𝐖_0𝐖}{\sigma𝐖/\sqrt{n}}
+Z_c𝐖𝐖=\frac{\overline{X}𝐖-\mu𝐖_0𝐖}{s/\sqrt{n}}
+Z_c𝐖𝐖=\frac{\overline{X}𝐖-\mu𝐖_0𝐖}{\sigma𝐖/\sqrt{n}}
+Z_c𝐖𝐖=\frac{p'𝐖\textendash𝐖p_0𝐖}{\sqrt{\frac{p_0𝐖p_0𝐖}{n}}}
+a_3𝐖𝐖=𝐖\sum𝐖\frac{(x_i𝐖𝐖-\overline{x})^3𝐖}{ns^3𝐖}
+a_3𝐖𝐖=𝐖\sum𝐖\frac{(x_i𝐖𝐖-\overline{x})^3𝐖}{ns^3𝐖}
 s
-X_i
+X_i𝐖
 \overline{x}
 n
-X_i
+X_i𝐖
 \frac{2}{4}
 \frac{2}{6}
 \frac{2}{6}
 \frac{2}{6}
 \frac{2}{6}
-A \cup B
-A \cup B
-A \cap B
-A \cap B
+A𝐖\cup𝐖B
+A𝐖\cup𝐖B
+A𝐖\cap𝐖B
+A𝐖\cap𝐖B
 \frac{4}{6}
 \frac{2}{6}
-\frac{4}{6} +\frac{2}{6}
-|
-|
-|
-|
-\frac{P(A \cap B)}{P(B)}
-|
-|
-\frac{P(A \cap B)}{P(B)} =\frac{\frac{(the\space number\space of\space outcomes\space that\space are\space 2\space or\space 3\space and\space even\space inS)}{6}}{\frac{(the\space number\space of\space outcomes\space that\space are\space even\space inS)}{6}} =\frac{\frac{1}{6}}{\frac{3}{6}} =\frac{1}{3}
-\frac{P(A)}{1 -P(A)}
-\cap
-\cap
-\cup
-|
-|
+\frac{4}{6}𝐖+\frac{2}{6}
+|𝐖
+|𝐖
+|𝐖
+|𝐖
+\frac{P(A𝐖\cap𝐖B)}{P(B)}
+|𝐖
+|𝐖
+\frac{P(A𝐖\cap𝐖B)}{P(B)}𝐖=\frac{\frac{(the\space𝐖number\space𝐖of\space𝐖outcomes\space𝐖that\space𝐖are\space𝐖2\space𝐖or\space𝐖3\space𝐖and\space𝐖even\space𝐖inS)}{6}}{\frac{(the\space𝐖number\space𝐖of\space𝐖outcomes\space𝐖that\space𝐖are\space𝐖even\space𝐖inS)}{6}}𝐖=\frac{\frac{1}{6}}{\frac{3}{6}}𝐖=\frac{1}{3}
+\frac{P(A)}{1𝐖-P(A)}
+\cap𝐖
+\cap𝐖
+\cup𝐖
+|𝐖
+|𝐖
 \frac{9}{19}
 \frac{6}{19}
-\cap
-\cap
+\cap𝐖
+\cap𝐖
 \frac{3}{19}
-\cup
+\cup𝐖
 \frac{12}{19}
 \frac{10}{19}
 \frac{9}{19}
 \frac{10}{19}
-|
-\frac{P(A \cap B)}{P(B)}
+|𝐖
+\frac{P(A𝐖\cap𝐖B)}{P(B)}
 \frac{3}{6}
-|
-\frac{P(A \cap B)}{P(A)}
+|𝐖
+\frac{P(A𝐖\cap𝐖B)}{P(A)}
 \frac{3}{9}
-\cap
-\cup
-\cap
-\cup
-|
-|
-|
-|
-\cap
-\cup
-\cup
+\cap𝐖
+\cup𝐖
+\cap𝐖
+\cup𝐖
+|𝐖
+|𝐖
+|𝐖
+|𝐖
+\cap𝐖
+\cup𝐖
+\cup𝐖
 \frac{1}{6}
 \frac{1}{2}
 \frac{1}{2}
 \frac{1}{2}
-|
-|
+|𝐖
+|𝐖
 \frac{1}{3}
-|
-|
+|𝐖
+|𝐖
 \frac{1}{3}
-\cap
-\cap
+\cap𝐖
+\cap𝐖
 \frac{1}{6}
-\cup
-\cup
+\cup𝐖
+\cup𝐖
 \frac{5}{6}
-\cup
-\cup
+\cup𝐖
+\cup𝐖
 \frac{2}{3}
 \frac{1}{2}
-\cap
-\cap
-\cup
-\cup
-\cup
-|
-|
-|
-\cap
-\cap
-\cup
-\cup
-\cup
-|
-|
-|
-\mu =\frac{1}{N}\sum_{i =1}^N x_i
-\overline{x} =\frac{1}{n}\sum_{i =1}^n x_i
+\cap𝐖
+\cap𝐖
+\cup𝐖
+\cup𝐖
+\cup𝐖
+|𝐖
+|𝐖
+|𝐖
+\cap𝐖
+\cap𝐖
+\cup𝐖
+\cup𝐖
+\cup𝐖
+|𝐖
+|𝐖
+|𝐖
+\mu𝐖𝐖=\frac{1}{N}\sum𝐖_{i𝐖=1}^N𝐖x_i𝐖
+\overline{x}𝐖=\frac{1}{n}\sum𝐖_{i𝐖=1}^n𝐖x_i𝐖
 \overline{x}
 \overline{x}
-\cup
-|
-\cap
-|
-\cap
-|
-|
-\cap
-SS_{total} = \sum x^2 \frac{( \sum x)^2}{n}
-\sum [\frac{(s_j)^2}{n_j}] -\frac{( \sum s_j)^2}{n}
-SS_{within} =SS_{total} \textendash SS_{between}
-df_{between}
-\frac{SS_{between}}{df_{between}}
-\frac{SS_{within}}{df_{within}}
-MS_{between} =\frac{SS_{between}}{df_{between}} =\frac{SS_{between}}{k -1}
-MS_{within} =\frac{SS_{within}}{df_{within}} =\frac{SS_{within}}{n -k}
-F =\frac{MS_{between}}{MS_{within}}
-F =\frac{n \cdot s_{\overline{x}}2}{s2_{pooled}}
-s_{\overline{x}}2
-SS(between) = \sum [\frac{(s_j)^2}{n_j}] -\frac{( \sum s_j)^2}{n}
-=\frac{s_1^2}{4} +\frac{s_2^2}{3} +\frac{s_3^2}{3} -\frac{(s_1 +s_2 +s_3)^2}{10}
-=\frac{(16.5)^2}{4} +\frac{(15)^2}{3} +\frac{(15.5)^2}{3} -\frac{(16.5 +15 +15.5)^2}{10}
-SS(between) =2.2458
-S(total) = \sum x^2 -\frac{( \sum x)^2}{n}
-=(5^2 +4.5^2 +4^2 +3^2 +3.5^2 +7^2 +4.5^2 +8^2 +4^2 +3.5^2)
--\frac{(5 +4.5 +4 +3 +3.5 +7 +4.5 +8 +4 +3.5)^2}{10}
-=244 -\frac{47^2}{10} =244 -220.9
-SS(total) =23.1
-SS(within) =SS(total) -SS(between)
-=23.1 -2.2458
-SS(within) =20.8542
+\cup𝐖
+|𝐖
+\cap𝐖
+|𝐖
+\cap𝐖
+|𝐖
+|𝐖
+\cap𝐖
+SS_{total}𝐖𝐖=𝐖\sum𝐖x^2𝐖\frac{(𝐖\sum𝐖x)^2𝐖}{n}
+𝐖\sum𝐖[\frac{(s_j𝐖)^2𝐖}{n_j𝐖}]𝐖-\frac{(𝐖\sum𝐖s_j𝐖)^2𝐖}{n}
+SS_{within}𝐖𝐖=SS_{total}𝐖𝐖\textendash𝐖SS_{between}𝐖
+df_{between}𝐖
+\frac{SS_{between}𝐖}{df_{between}𝐖}
+\frac{SS_{within}𝐖}{df_{within}𝐖}
+MS_{between}𝐖𝐖=\frac{SS_{between}𝐖}{df_{between}𝐖}𝐖=\frac{SS_{between}𝐖}{k𝐖-1}
+MS_{within}𝐖𝐖=\frac{SS_{within}𝐖}{df_{within}𝐖}𝐖=\frac{SS_{within}𝐖}{n𝐖-k}
+F𝐖=\frac{MS_{between}𝐖}{MS_{within}𝐖}
+F𝐖=\frac{n𝐖\cdot𝐖s_{\overline{x}}2𝐖}{s2_{pooled}𝐖}
+s_{\overline{x}}2𝐖
+SS(between)𝐖=𝐖\sum𝐖[\frac{(s_j𝐖)^2𝐖}{n_j𝐖}]𝐖-\frac{(𝐖\sum𝐖s_j𝐖)^2𝐖}{n}
+𝐖=\frac{s_1^2𝐖}{4}𝐖+\frac{s_2^2𝐖}{3}𝐖+\frac{s_3^2𝐖}{3}𝐖-\frac{(s_1𝐖𝐖+s_2𝐖𝐖+s_3𝐖)^2𝐖}{10}
+𝐖=\frac{(16.5)^2𝐖}{4}𝐖+\frac{(15)^2𝐖}{3}𝐖+\frac{(15.5)^2𝐖}{3}𝐖-\frac{(16.5𝐖+15𝐖+15.5)^2𝐖}{10}
+SS(between)𝐖=2.2458
+S(total)𝐖=𝐖\sum𝐖x^2𝐖𝐖-\frac{(𝐖\sum𝐖x)^2𝐖}{n}
+𝐖=(5^2𝐖𝐖+4.5^2𝐖𝐖+4^2𝐖𝐖+3^2𝐖𝐖+3.5^2𝐖𝐖+7^2𝐖𝐖+4.5^2𝐖𝐖+8^2𝐖𝐖+4^2𝐖𝐖+3.5^2𝐖)
+𝐖-\frac{(5𝐖+4.5𝐖+4𝐖+3𝐖+3.5𝐖+7𝐖+4.5𝐖+8𝐖+4𝐖+3.5)^2𝐖}{10}
+𝐖=244𝐖-\frac{47^2𝐖}{10}𝐖=244𝐖-220.9
+SS(total)𝐖=23.1
+SS(within)𝐖=SS(total)𝐖-SS(between)
+𝐖=23.1𝐖-2.2458
+SS(within)𝐖=20.8542
 \frac{36,648,561}{4}\~=\~9,162,140
 \frac{9,162,140}{2,044,672.6}\~=\~4.4810
 \frac{20,446,726}{10}\~=\~2,044,672.6
-\mu_1 =\mu_2 =\mu_3 =\mu_4
-\mu_1, \mu_2, \mu_3, \mu_4
-\frac{n \cdot s_{\overline{x}}2}{s2_{pooled}}
-s_{\overline{x}}2
-ns_{\overline{x}}2
-F =\frac{MS_{between}}{MS_{within}} =\frac{ns_{\overline{x}}2}{s2_{pooled}} =\frac{(5)(0.413)}{15.433} =0.134
-\mu =\frac{df(num)}{df(denom) \textendash 2}
-H_0 \colon \beta = -1
-H_0
-\hat{y} = -2.5x +60
-\hat{y} =15dollars
-\hat{y}
-\hat{y} =15dollars
-\hat{y} = -15dollars
-\hat{y} = -15dollars
-\hat{y}_i = -3.6 +3.1 \cdot X_i
-X_j =amount\space of\space chemical
-Y_J =B_0 +B_1 \cdot X_J +E_J
-H_0
-B_1 = -5
-n =25
-H_0
-\alpha =.02
-H_0
-\alpha =.01
-\hat{y}_j =80 +1.5 \cdot X_j
-Y_j
-X_j
-r =0.5
-r =1.18
-r = -.77
-r =.68
-\hat{y}_j =b_0 +b_1 \cdot X_{1j} +b_2 \cdot X_{2j} +b_3 \cdot X_{3j}
-b_i
-S_{b_i}
-b_2
-b_i
-\beta_2
-\mu =\frac{a +b}{2}
-\sigma =\sqrt{\frac{(b -a)^2}{12}}
-f(x) =\frac{1}{b -a}
-\frac{x -a}{b -a}
-\frac{1}{\mu}
-f(x) =\frac{1}{\mu}e^{ -x/\mu}
-\mu
+\mu𝐖_1𝐖𝐖=\mu𝐖_2𝐖𝐖=\mu𝐖_3𝐖𝐖=\mu𝐖_4𝐖
+\mu𝐖_1𝐖,𝐖\mu𝐖_2𝐖,𝐖\mu𝐖_3𝐖,𝐖\mu𝐖_4𝐖
+\frac{n𝐖\cdot𝐖s_{\overline{x}}2𝐖}{s2_{pooled}𝐖}
+s_{\overline{x}}2𝐖
+ns_{\overline{x}}2𝐖
+F𝐖=\frac{MS_{between}𝐖}{MS_{within}𝐖}𝐖=\frac{ns_{\overline{x}}2𝐖}{s2_{pooled}𝐖}𝐖=\frac{(5)(0.413)}{15.433}𝐖=0.134
+\mu𝐖𝐖=\frac{df(num)}{df(denom)𝐖\textendash𝐖2}
+H_0𝐖𝐖\colon𝐖\beta𝐖𝐖=𝐖-1
+H_0𝐖
+𝐖\hat{y}𝐖𝐖=𝐖-2.5x𝐖+60
+𝐖\hat{y}𝐖𝐖=15dollars
+𝐖\hat{y}𝐖
+𝐖\hat{y}𝐖𝐖=15dollars
+𝐖\hat{y}𝐖𝐖=𝐖-15dollars
+𝐖\hat{y}𝐖𝐖=𝐖-15dollars
+𝐖\hat{y}𝐖_i𝐖𝐖=𝐖-3.6𝐖+3.1𝐖\cdot𝐖X_i𝐖
+X_j𝐖𝐖=amount\space𝐖of\space𝐖chemical
+Y_J𝐖𝐖=B_0𝐖𝐖+B_1𝐖𝐖\cdot𝐖X_J𝐖𝐖+E_J𝐖
+H_0𝐖
+B_1𝐖𝐖=𝐖-5
+n𝐖=25
+H_0𝐖
+\alpha𝐖𝐖=.02
+H_0𝐖
+\alpha𝐖𝐖=.01
+𝐖\hat{y}𝐖_j𝐖𝐖=80𝐖+1.5𝐖\cdot𝐖X_j𝐖
+Y_j𝐖
+X_j𝐖
+r𝐖=0.5
+r𝐖=1.18
+r𝐖=𝐖-.77
+r𝐖=.68
+𝐖\hat{y}𝐖_j𝐖𝐖=b_0𝐖𝐖+b_1𝐖𝐖\cdot𝐖X_{1j}𝐖𝐖+b_2𝐖𝐖\cdot𝐖X_{2j}𝐖𝐖+b_3𝐖𝐖\cdot𝐖X_{3j}𝐖
+b_i𝐖
+S_{b_i𝐖}𝐖
+b_2𝐖
+b_i𝐖
+\beta𝐖_2𝐖
+\mu𝐖𝐖=\frac{a𝐖+b}{2}
+\sigma𝐖𝐖=\sqrt{\frac{(b𝐖-a)^2𝐖}{12}}
+f(x)𝐖=\frac{1}{b𝐖-a}
+\frac{x𝐖-a}{b𝐖-a}
+\frac{1}{\mu𝐖}
+f(x)𝐖=\frac{1}{\mu𝐖}e^{𝐖-x/\mu𝐖}𝐖
+\mu𝐖
 \overline{x}
-\overline{X} \sim N(\mu_X, \frac{\sigma_X}{\sqrt{n}})
-\mu
+\overline{X}𝐖\sim𝐖N(\mu𝐖_X𝐖,𝐖\frac{\sigma𝐖_X𝐖}{\sqrt{n}})
+\mu𝐖
 \overline{x}
-t_d_f
+t_d𝐖_f𝐖
 p
 p'
-P' \sim N(p, \sqrt{\frac{p \cdotp q}{n}})
-np >5
-nq >5
-\mu =p
-\sigma =\sqrt{\frac{pq}{n}}
-q =1 -pq
-Z_c =\frac{\overline{x} -\mu_0}{\sigma /\sqrt{n}}
+P'𝐖\sim𝐖N(p,𝐖\sqrt{\frac{p𝐖\cdotp𝐖q}{n}})
+np𝐖>5
+nq𝐖>5
+\mu𝐖𝐖=p
+\sigma𝐖𝐖=\sqrt{\frac{pq}{n}}
+q𝐖=1𝐖-pq
+Z_c𝐖𝐖=\frac{\overline{x}𝐖-\mu𝐖_0𝐖}{\sigma𝐖/\sqrt{n}}
 \overline{X}
-\overline{X}_1
-\overline{X}_3
+\overline{X}_1𝐖
+\overline{X}_3𝐖
 \overline{X}
 \overline{X}
-Z_{\frac{\alpha}{2}}
--Z_{\frac{\alpha}{2}}
+Z_{\frac{\alpha𝐖}{2}}𝐖
+-Z_{\frac{\alpha𝐖}{2}}𝐖
 \overline{X}
-\overline{X}_1
-\overline{X}_3
+\overline{X}_1𝐖
+\overline{X}_3𝐖
 \overline{x}
-| Z_c |
-Z_{\frac{\alpha}{2}}
-| Z_c |
-Z_{\frac{\alpha}{2}}
+|𝐖Z_c𝐖|
+Z_{\frac{\alpha𝐖}{2}}𝐖
+|𝐖Z_c𝐖|
+Z_{\frac{\alpha𝐖}{2}}𝐖
 \overline{X}
-t_c =\frac{\overline{X} -\mu_0}{s/\sqrt{n}}
-Z_c =\frac{\overline{X} -\mu_0}{\sigma /\sqrt{n}}
-Z_c =\frac{\overline{X} -\mu_0}{s/\sqrt{n}}
-Z_c =\frac{\overline{X} -\mu_0}{\sigma /\sqrt{n}}
-H_0 \colon \sigma_1 =\sigma_2
-H_a \colon \sigma_1 \lt \sigma_2
-\sigma_1^2 \~=\~\sigma_2^2
-\sigma_1^2 \lt \sigma_2^2
-H_0 \colon \~\sigma_1^2 =\sigma_2^2
-H_a \colon \sigma_1^2 \not= \sigma_1^2
-\sigma_1^2
-\sigma_2^2
-\sigma_1^2
-\sigma_1^2
-H_0 \colon \mathrm{\mu}_1 =\mathrm{\mu}_2 =\mathrm{\mu}_3
-H_a \colon \mathrm{\mu}_i \not=;
-i \not= j
-A \cap B =\{6\}
-A \cup B =\{1,\space 2,\space 3,\space 4,\space 5,\space 6,\space 7,\space 8,\space 9\}.
-\cap
-A \cap B
-\cap
-A \cap B
-\cup
-A \cup B =
-\cap
-\cup
-C \cap P =\{blue\}
-C \cup P =\{green,\space blue,\space purple,\space red,\space yellow\}
-A \cap B =\{TT\}
-A \cup B =\{TH,\space TT,\space HT\}
-A \cap B =\{3,\space 5\}
-A \cup B =\{1,\space 2,\space 3,\space 5\}
-P(O \cap R) =
-P(O \cup R) =
-P(C \cap PT) =0.05
-P(C|PT) \lt mo/> = \lt mo/>\frac{P(C \cap PT)}{P(PT)} \lt mo/> = \lt mo/>\frac{0.05}{0.50} \lt mo/> = \lt mo/>0.1
-P(C \cup PT) =P(C) +P(PT) -P(C \cap PT) =0.40 +0.50 -0.05 =0.85
-|
-Male \cap Brown
-Male \cup Brown =Male +Brown -Male \cap Brown
-\cap
+t_c𝐖𝐖=\frac{\overline{X}𝐖-\mu𝐖_0𝐖}{s/\sqrt{n}}
+Z_c𝐖𝐖=\frac{\overline{X}𝐖-\mu𝐖_0𝐖}{\sigma𝐖/\sqrt{n}}
+Z_c𝐖𝐖=\frac{\overline{X}𝐖-\mu𝐖_0𝐖}{s/\sqrt{n}}
+Z_c𝐖𝐖=\frac{\overline{X}𝐖-\mu𝐖_0𝐖}{\sigma𝐖/\sqrt{n}}
+H_0𝐖𝐖\colon𝐖\sigma𝐖_1𝐖𝐖=\sigma𝐖_2𝐖
+H_a𝐖𝐖\colon𝐖\sigma𝐖_1𝐖𝐖\lt𝐖\sigma𝐖_2𝐖
+\sigma𝐖_1^2𝐖\~=\~\sigma𝐖_2^2𝐖
+\sigma𝐖_1^2𝐖𝐖\lt𝐖\sigma𝐖_2^2𝐖
+H_0𝐖\colon𝐖\~\sigma𝐖_1^2𝐖𝐖=\sigma𝐖_2^2𝐖
+H_a𝐖𝐖\colon𝐖\sigma𝐖_1^2𝐖𝐖\not=𝐖\sigma𝐖_1^2𝐖
+\sigma𝐖_1^2𝐖
+\sigma𝐖_2^2𝐖
+\sigma𝐖_1^2𝐖
+\sigma𝐖_1^2𝐖
+H_0𝐖𝐖\colon𝐖\mathrm{\mu}_1𝐖𝐖=\mathrm{\mu}_2𝐖𝐖=\mathrm{\mu}_3𝐖
+H_a𝐖𝐖\colon𝐖\mathrm{\mu}_i𝐖𝐖\not=𝐖;𝐖
+i𝐖\not=𝐖j
+A𝐖\cap𝐖B𝐖=\{6\}
+A𝐖\cup𝐖B𝐖=\{1,\space𝐖2,\space𝐖3,\space𝐖4,\space𝐖5,\space𝐖6,\space𝐖7,\space𝐖8,\space𝐖9\}.
+\cap𝐖
+A𝐖\cap𝐖B
+\cap𝐖
+A𝐖\cap𝐖B
+\cup𝐖
+A𝐖\cup𝐖B𝐖=
+\cap𝐖
+\cup𝐖
+C𝐖\cap𝐖P𝐖=\{blue\}
+C𝐖\cup𝐖P𝐖=\{green,\space𝐖blue,\space𝐖purple,\space𝐖red,\space𝐖yellow\}
+A𝐖\cap𝐖B𝐖=\{TT\}
+A𝐖\cup𝐖B𝐖=\{TH,\space𝐖TT,\space𝐖HT\}
+A𝐖\cap𝐖B𝐖=\{3,\space𝐖5\}
+A𝐖\cup𝐖B𝐖=\{1,\space𝐖2,\space𝐖3,\space𝐖5\}
+P(O𝐖\cap𝐖R)𝐖=
+P(O𝐖\cup𝐖R)𝐖=
+P(C𝐖\cap𝐖PT)𝐖=0.05
+P(C|PT)𝐖\lt𝐖mo/>𝐖=𝐖\lt𝐖mo/>\frac{P(C𝐖\cap𝐖PT)}{P(PT)}𝐖\lt𝐖mo/>𝐖=𝐖\lt𝐖mo/>\frac{0.05}{0.50}𝐖\lt𝐖mo/>𝐖=𝐖\lt𝐖mo/>0.1
+P(C𝐖\cup𝐖PT)𝐖=P(C)𝐖+P(PT)𝐖-P(C𝐖\cap𝐖PT)𝐖=0.40𝐖+0.50𝐖-0.05𝐖=0.85
+|𝐖
+Male𝐖\cap𝐖Brown
+Male𝐖\cup𝐖Brown𝐖=Male𝐖+Brown𝐖-Male𝐖\cap𝐖Brown
+\cap𝐖
 A'
 A
 \overline{A}
 A'
-P(A \cup B) =P(A) +P(B) -P(A \cap B)
-P(A) =\frac{20}{50} =0.40
-P(B) =\frac{15}{50} =0.30
-P(A \cap B) =\frac{5}{50} =0.10
-P(A \cap B) =0.40 +0.30 -0.10 =0.60
-P(A \cup B) =P(A) +P(B) -0
-P(A \cap B) =P(A|B) \cdot P(B)
-P(A|B) =\frac{P(A \cap B)}{P(B)}
-P(A|B) =\frac{0.10}{0.30} =\frac{1}{3}
-P(A|B) =P(A)
-P(B|A) =P(B)
-P(A \cap B) =P(A) \cdot P(B)
-\cap
-\frac{30}{200} =0.15
-\cup
-\cap
-\cup
-\frac{80}{200} +\frac{90}{200} -\frac{30}{200} =\frac{140}{200} =0.70
-|
-\frac{P(HS\space Grad \cap Man)}{P(Man)} =\frac{(\frac{15}{200})}{(\frac{120}{200})} =\frac{15}{120} =0.125
-\cap
-\cap
-\frac{30}{200} \not= \frac{90}{200} \cdot \frac{80}{200}
-|
-\frac{15}{120} \not= \frac{27}{200}
-z =\frac{720 -520}{115} =1.74
-\frac{X\~\textendash \~\mu}{\sigma}
-\frac{700\~\textendash \~514}{117}
-\frac{Y\~\textendash \~\mu}{\sigma}
-\frac{30\~\textendash \~21}{5.3}
+P(A𝐖\cup𝐖B)𝐖=P(A)𝐖+P(B)𝐖-P(A𝐖\cap𝐖B)
+P(A)𝐖=\frac{20}{50}𝐖=0.40
+P(B)𝐖=\frac{15}{50}𝐖=0.30
+P(A𝐖\cap𝐖B)𝐖=\frac{5}{50}𝐖=0.10
+P(A𝐖\cap𝐖B)𝐖=0.40𝐖+0.30𝐖-0.10𝐖=0.60
+P(A𝐖\cup𝐖B)𝐖=P(A)𝐖+P(B)𝐖-0
+P(A𝐖\cap𝐖B)𝐖=P(A|B)𝐖\cdot𝐖P(B)
+P(A|B)𝐖=\frac{P(A𝐖\cap𝐖B)}{P(B)}
+P(A|B)𝐖=\frac{0.10}{0.30}𝐖=\frac{1}{3}
+P(A|B)𝐖=P(A)
+P(B|A)𝐖=P(B)
+P(A𝐖\cap𝐖B)𝐖=P(A)𝐖\cdot𝐖P(B)
+\cap𝐖
+\frac{30}{200}𝐖=0.15
+\cup𝐖
+\cap𝐖
+\cup𝐖
+\frac{80}{200}𝐖+\frac{90}{200}𝐖-\frac{30}{200}𝐖=\frac{140}{200}𝐖=0.70
+|𝐖
+\frac{P(HS\space𝐖Grad𝐖\cap𝐖Man)}{P(Man)}𝐖=\frac{(\frac{15}{200})}{(\frac{120}{200})}𝐖=\frac{15}{120}𝐖=0.125
+\cap𝐖
+\cap𝐖
+\frac{30}{200}𝐖\not=𝐖\frac{90}{200}𝐖\cdot𝐖\frac{80}{200}
+|𝐖
+\frac{15}{120}𝐖\not=𝐖\frac{27}{200}
+z𝐖=\frac{720𝐖-520}{115}𝐖=1.74
+\frac{X\~\textendash𝐖\~\mu𝐖}{\sigma𝐖}
+\frac{700\~\textendash𝐖\~514}{117}
+\frac{Y\~\textendash𝐖\~\mu𝐖}{\sigma𝐖}
+\frac{30\~\textendash𝐖\~21}{5.3}
 \sqrt{npq}
 \sqrt{(100)(0.1)(0.9)}
-z = \pm 1 \colon x_1 =\mathrm{\mu} +z\sigma =10 +1(3) =13
-x2 =\mathrm{\mu} \textendash z\sigma =10 \textendash 1(3) =7.68%
-z = \pm 2 \colon x_1 =\mathrm{\mu} +z\sigma =10 +2(3) =16
-x2 =\mathrm{\mu} \textendash z\sigma =10 \textendash 2(3) =4.\space 95\space %
-z = \pm 3 \colon x_1 =\mathrm{\mu} +z\sigma =10 +3(3) =19
-x2 =\mathrm{\mu} \textendash z\sigma =10 \textendash 3(3) =1.\space 99.7%
+z𝐖=𝐖\pm𝐖1𝐖\colon𝐖x_1𝐖𝐖=\mathrm{\mu}𝐖+z\sigma𝐖𝐖=10𝐖+1(3)𝐖=13
+x2𝐖=\mathrm{\mu}𝐖\textendash𝐖z\sigma𝐖𝐖=10𝐖\textendash𝐖1(3)𝐖=7.68%
+z𝐖=𝐖\pm𝐖2𝐖\colon𝐖x_1𝐖𝐖=\mathrm{\mu}𝐖+z\sigma𝐖𝐖=10𝐖+2(3)𝐖=16
+x2𝐖=\mathrm{\mu}𝐖\textendash𝐖z\sigma𝐖𝐖=10𝐖\textendash𝐖2(3)𝐖=4.\space𝐖95\space𝐖%
+z𝐖=𝐖\pm𝐖3𝐖\colon𝐖x_1𝐖𝐖=\mathrm{\mu}𝐖+z\sigma𝐖𝐖=10𝐖+3(3)𝐖=19
+x2𝐖=\mathrm{\mu}𝐖\textendash𝐖z\sigma𝐖𝐖=10𝐖\textendash𝐖3(3)𝐖=1.\space𝐖99.7%
 \frac{1}{5}
 \sqrt{npq}
 \sqrt{(190)(0.2)(0.8)}
-h(x) =\frac{ \begin{pmatrix} A \\ x \end{pmatrix} \begin{pmatrix} N -A \\ n -x \end{pmatrix}}{ \begin{pmatrix} N \\ n \end{pmatrix}}
+h(x)𝐖=\frac{𝐖\begin{pmatrix}𝐖A𝐖\\𝐖x𝐖\end{pmatrix}𝐖𝐖\begin{pmatrix}𝐖N𝐖-A𝐖\\𝐖n𝐖-x𝐖\end{pmatrix}𝐖}{𝐖\begin{pmatrix}𝐖N𝐖\\𝐖n𝐖\end{pmatrix}𝐖}
 \sqrt{npq}
-P(x) =\frac{n!}{x!(n -x)!} \cdotp p^x q^{(n -x)}
-P(X =x) =p(1 -p)^{x -1}
+P(x)𝐖=\frac{n!}{x!(n𝐖-x)!}𝐖\cdotp𝐖p^x𝐖q^{(n𝐖-x)}𝐖
+P(X𝐖=x)𝐖=p(1𝐖-p)^{x𝐖-1}𝐖
 \frac{1}{p}
-\sqrt{\frac{1 \textendash p}{p^2}}
-\sqrt{\frac{1}{p}(\frac{1}{p} -1)}
-\sigma \~=\~\sqrt{\mu}
+\sqrt{\frac{1𝐖\textendash𝐖p}{p^2𝐖}}
+\sqrt{\frac{1}{p}(\frac{1}{p}𝐖-1)}
+\sigma𝐖\~=\~\sqrt{\mu𝐖}
 x
 r
-P(X =x) =(e^{ -\mu})\frac{\mu^x}{x!}
-P(x) =\frac{\mu^x e^{ -\mu}}{x!}
-\begin{pmatrix} n \\ x \end{pmatrix} =\lt mtext/>_n C_x =\frac{n!}{x!(n -x)!}
-h(x) =\frac{ \begin{pmatrix} A \\ x \end{pmatrix} \begin{pmatrix} N -A \\ n -x \end{pmatrix}}{ \begin{pmatrix} N \\ n \end{pmatrix}}
+P(X𝐖=x)𝐖=(e^{𝐖-\mu𝐖}𝐖)\frac{\mu𝐖^x𝐖}{x!}
+P(x)𝐖=\frac{\mu𝐖^x𝐖e^{𝐖-\mu𝐖}𝐖}{x!}
+𝐖\begin{pmatrix}𝐖n𝐖\\𝐖x𝐖\end{pmatrix}𝐖𝐖=\lt𝐖mtext/>_n𝐖C_x𝐖𝐖=\frac{n!}{x!(n𝐖-x)!}
+h(x)𝐖=\frac{𝐖\begin{pmatrix}𝐖A𝐖\\𝐖x𝐖\end{pmatrix}𝐖𝐖\begin{pmatrix}𝐖N𝐖-A𝐖\\𝐖n𝐖-x𝐖\end{pmatrix}𝐖}{𝐖\begin{pmatrix}𝐖N𝐖\\𝐖n𝐖\end{pmatrix}𝐖}
 \sqrt{npq}
-P(x) =\frac{n!}{x!(n -x)!} \cdotp p^x q^{(n -x)}
+P(x)𝐖=\frac{n!}{x!(n𝐖-x)!}𝐖\cdotp𝐖p^x𝐖q^{(n𝐖-x)}𝐖
 1/p
-P(X =x) =(1 -p)^{x -1} p
-P(X =x) =p(1 -p)^x
-\mu =\frac{1 -p}{p}
-P(x) =\frac{\mu^x e^{ -\mu}}{x!}
-\frac{x -\mu}{\sigma}
-z =\frac{x \textendash \mu}{\sigma}
-z =\frac{x \textendash \mu}{\sigma} =\frac{17 \textendash 5}{6} =2
-\frac{x \textendash \mu}{\sigma}
-\frac{1 \textendash 5}{6}
+P(X𝐖=x)𝐖=(1𝐖-p)^{x𝐖-1}𝐖p
+P(X𝐖=x)𝐖=p(1𝐖-p)^x𝐖
+\mu𝐖𝐖=\frac{1𝐖-p}{p}
+P(x)𝐖=\frac{\mu𝐖^x𝐖e^{𝐖-\mu𝐖}𝐖}{x!}
+\frac{x𝐖-\mu𝐖}{\sigma𝐖}
+z𝐖=\frac{x𝐖\textendash𝐖\mu𝐖}{\sigma𝐖}
+z𝐖=\frac{x𝐖\textendash𝐖\mu𝐖}{\sigma𝐖}𝐖=\frac{17𝐖\textendash𝐖5}{6}𝐖=2
+\frac{x𝐖\textendash𝐖\mu𝐖}{\sigma𝐖}
+\frac{1𝐖\textendash𝐖5}{6}
 \overline{X}
 \overline{X}
 \overline{X}
-\mu_{\overline{x}} and\space E(\mu_{\overline{x}}) =\mu
-\sigma_{\overline{x}} =\frac{\sigma}{\sqrt{n}}
+\mu𝐖_{\overline{x}}𝐖and\space𝐖E(\mu𝐖_{\overline{x}}𝐖)𝐖=\mu𝐖
+\sigma𝐖_{\overline{x}}𝐖𝐖=\frac{\sigma𝐖}{\sqrt{n}}
 \overline{X}
-Z =\frac{\overline{X} -\mu_{\overline{X}}}{\sigma_{\overline{X}}} =\frac{\overline{X} -\mu}{\frac{\sigma}{\sqrt{n}}}
-\mathrm{\mu}_{\overline{X}}
-\mathrm{\mu}_{\overline{X}}
+Z𝐖=\frac{\overline{X}𝐖-\mu𝐖_{\overline{X}}𝐖}{\sigma𝐖_{\overline{X}}𝐖}𝐖=\frac{\overline{X}𝐖-\mu𝐖}{\frac{\sigma𝐖}{\sqrt{n}}}
+\mathrm{\mu}_{\overline{X}}𝐖
+\mathrm{\mu}_{\overline{X}}𝐖
 X
 Y
 Y
-Price\space elasticity\colon \eta_p =\frac{(%\Delta Q)}{(%\Delta P)}
-Income\space elasticity\colon \eta_Y =\frac{(%\Delta Q)}{(%\Delta Y)}
-Cross-Price\space elasticity\colon \eta_{p1} =\frac{(%\Delta Q_1)}{(%\Delta P_2)}
-\eta_p =\frac{(%\Delta Q)}{(%\Delta P)} =\frac{dQ}{dP}(\frac{P}{Q}) =b(\frac{P}{Q})
+Price\space𝐖elasticity\colon𝐖\eta𝐖_p𝐖𝐖=\frac{(%\Delta𝐖Q)}{(%\Delta𝐖P)}
+Income\space𝐖elasticity\colon𝐖\eta𝐖_Y𝐖𝐖=\frac{(%\Delta𝐖Q)}{(%\Delta𝐖Y)}
+Cross-Price\space𝐖elasticity\colon𝐖\eta𝐖_{p1}𝐖𝐖=\frac{(%\Delta𝐖Q_1𝐖)}{(%\Delta𝐖P_2𝐖)}
+\eta𝐖_p𝐖𝐖=\frac{(%\Delta𝐖Q)}{(%\Delta𝐖P)}𝐖=\frac{dQ}{dP}(\frac{P}{Q})𝐖=b(\frac{P}{Q})
 b
 (\frac{dQ}{dP})
 \frac{P}{Q}
-\eta_p =b(\frac{\overline{P}}{\overline{Q}})
+\eta𝐖_p𝐖𝐖=b(\frac{\overline{P}}{\overline{Q}})
 \overline{P}
 \overline{Q}
 b
-Y =a +bX
-b =\frac{dY}{dX}
-\log (Y) =a +bX
-d(\log_Y) =bdX
-\frac{dY}{Y} =bdX
-100b =\frac{%\Delta Y}{Unit\space \Delta X}
+Y𝐖=a𝐖+bX
+b𝐖=\frac{dY}{dX}
+\log𝐖(Y)𝐖=a𝐖+bX
+d(\log𝐖_Y𝐖)𝐖=bdX
+\frac{dY}{Y}𝐖=bdX
+100b𝐖=\frac{%\Delta𝐖Y}{Unit\space𝐖\Delta𝐖X}
 100b
-Y =a +B\log (X)
-dY =bd(\log X)
-dY =b\frac{dX}{X}
-\frac{b}{100} =\frac{dY}{100\frac{dX}{X}} =\frac{Unit\space \Delta Y}{%\Delta X}
+Y𝐖=a𝐖+B\log𝐖(X)
+dY𝐖=bd(\log𝐖X)
+dY𝐖=b\frac{dX}{X}
+\frac{b}{100}𝐖=\frac{dY}{100\frac{dX}{X}}𝐖=\frac{Unit\space𝐖\Delta𝐖Y}{%\Delta𝐖X}
 \frac{b}{100}
-\log Y =a +b\log X
-d(\log Y) =bd(\log X)
-d(\log Y) =b\frac{1}{X}dX
-\frac{1}{Y}dY =b\frac{1}{X}dXOR\frac{dY}{Y} =b\frac{dX}{X}ORb =\frac{dY}{dX}(\frac{X}{Y})
-b =\frac{%\Delta Y}{%\Delta X}
-\chi_c^2 =\frac{(n -1)s^2}{\sigma_0^2}
-\sigma_0^2
-H_0 \colon \sigma^2 =\sigma_0^2
-H_a \colon \sigma^2 \not= \sigma_0^2
-\chi_{24}^2
-\chi_c^2 =\frac{(n -1)s^2}{\sigma^2} =\frac{(25 -1)(3.5)^2}{7.2^2} =5.67
-H_0 \colon \sigma^2 =0.04
-H_0 \colon \sigma^2 \not= 0.04
-\chi \overset{2}{c} =\frac{(n -1)s^2}{\sigma_o^2} =\frac{(24 -1)0.11^2}{0.04^2} =6.9575
-\chi^2
-\frac{1}{b -a}
-\mu =\frac{a +b}{2}
-\sigma =\sqrt{\frac{(b -a)^2}{12}}
-\frac{1}{15 -0}
+\log𝐖Y𝐖=a𝐖+b\log𝐖X
+d(\log𝐖Y)𝐖=bd(\log𝐖X)
+d(\log𝐖Y)𝐖=b\frac{1}{X}dX
+\frac{1}{Y}dY𝐖=b\frac{1}{X}dXOR\frac{dY}{Y}𝐖=b\frac{dX}{X}ORb𝐖=\frac{dY}{dX}(\frac{X}{Y})
+b𝐖=\frac{%\Delta𝐖Y}{%\Delta𝐖X}
+\chi𝐖_c^2𝐖𝐖=\frac{(n𝐖-1)s^2𝐖}{\sigma𝐖_0^2𝐖}
+\sigma𝐖_0^2𝐖
+H_0𝐖𝐖\colon𝐖\sigma𝐖^2𝐖𝐖=\sigma𝐖_0^2𝐖
+H_a𝐖𝐖\colon𝐖\sigma𝐖^2𝐖𝐖\not=𝐖\sigma𝐖_0^2𝐖
+\chi𝐖_{24}^2𝐖
+\chi𝐖_c^2𝐖𝐖=\frac{(n𝐖-1)s^2𝐖}{\sigma𝐖^2𝐖}𝐖=\frac{(25𝐖-1)(3.5)^2𝐖}{7.2^2𝐖}𝐖=5.67
+H_0𝐖𝐖\colon𝐖\sigma𝐖^2𝐖𝐖=0.04
+H_0𝐖𝐖\colon𝐖\sigma𝐖^2𝐖𝐖\not=𝐖0.04
+\chi𝐖\overset{2}{c}𝐖=\frac{(n𝐖-1)s^2𝐖}{\sigma𝐖_o^2𝐖}𝐖=\frac{(24𝐖-1)0.11^2𝐖}{0.04^2𝐖}𝐖=6.9575
+\chi𝐖^2𝐖
+\frac{1}{b𝐖-a}
+\mu𝐖𝐖=\frac{a𝐖+b}{2}
+\sigma𝐖𝐖=\sqrt{\frac{(b𝐖-a)^2𝐖}{12}}
+\frac{1}{15𝐖-0}
 \frac{1}{15}
-P(x \lt k) =(base)(height) =(12.5 -0)(\frac{1}{15}) =0.8333
-\frac{a +b}{2}
-\frac{15 +0}{2}
-\sqrt{\frac{(b -a)^2}{12}} =\sqrt{\frac{(15 -0)^2}{12}}
-P(x \lt k) =(base)(height) =(k -0)(\frac{1}{15})
-0.90 =(k)(\frac{1}{15})
-k =(0.90)(15) =13.5
+P(x𝐖\lt𝐖k)𝐖=(base)(height)𝐖=(12.5𝐖-0)(\frac{1}{15})𝐖=0.8333
+\frac{a𝐖+b}{2}
+\frac{15𝐖+0}{2}
+\sqrt{\frac{(b𝐖-a)^2𝐖}{12}}𝐖=\sqrt{\frac{(15𝐖-0)^2𝐖}{12}}
+P(x𝐖\lt𝐖k)𝐖=(base)(height)𝐖=(k𝐖-0)(\frac{1}{15})
+0.90𝐖=(k)(\frac{1}{15})
+k𝐖=(0.90)(15)𝐖=13.5
 \sqrt{npq}
-P(X =x) = \begin{pmatrix} n \\ x \end{pmatrix} p^x q^{n -x}
-f(x) =\frac{1}{\sigma \sqrt{2\pi}}e^{ \textendash (x \textendash \mu)^2 /2\sigma^2}
+P(X𝐖=x)𝐖=𝐖\begin{pmatrix}𝐖n𝐖\\𝐖x𝐖\end{pmatrix}𝐖p^x𝐖q^{n𝐖-x}𝐖
+f(x)𝐖=\frac{1}{\sigma𝐖\sqrt{2\pi𝐖}}e^{𝐖\textendash𝐖(x𝐖\textendash𝐖\mu𝐖)^2𝐖/2\sigma𝐖^2𝐖}𝐖
 0
 z
-z =\frac{x -\mu}{\sigma}
-t =\frac{\overline{x} -\mu}{\frac{s}{\sqrt{n}}}
-\overline{x} -t_{v,\alpha} (\frac{s}{\sqrt{n}}) \le \mu \le \overline{x} +t_{v,\alpha} (\frac{s}{\sqrt{n}})
+z𝐖=\frac{x𝐖-\mu𝐖}{\sigma𝐖}
+t𝐖=\frac{\overline{x}𝐖-\mu𝐖}{\frac{s}{\sqrt{n}}}
+\overline{x}𝐖-t_{v,\alpha𝐖}𝐖(\frac{s}{\sqrt{n}})𝐖\le𝐖\mu𝐖𝐖\le𝐖\overline{x}𝐖+t_{v,\alpha𝐖}𝐖(\frac{s}{\sqrt{n}})
 \frac{x}{n}
 p'
-p' -Z_\alpha \sqrt{\frac{p'\textquotesingle qq'}{n}} \le p \le p' +Z_\alpha \sqrt{\frac{p'\textquotesingle qq'}{n}}
-n =\frac{Z_{\frac{\alpha}{2}} {}2p' q'}{e^2}
-\frac{Z^2 \sigma^2}{(\overline{x} -\mu)^2}
-n =\frac{Z_\alpha^2 pq}{e^2}
+p'𝐖-Z_\alpha𝐖𝐖\sqrt{\frac{p'\textquotesingle𝐖qq'}{n}}𝐖\le𝐖p𝐖\le𝐖p'𝐖+Z_\alpha𝐖𝐖\sqrt{\frac{p'\textquotesingle𝐖qq'}{n}}
+n𝐖=\frac{Z_{\frac{\alpha𝐖}{2}}𝐖{}2p'𝐖q'}{e^2𝐖}
+\frac{Z^2𝐖\sigma𝐖^2𝐖}{(\overline{x}𝐖-\mu𝐖)^2𝐖}
+n𝐖=\frac{Z_\alpha𝐖^2𝐖pq}{e^2𝐖}

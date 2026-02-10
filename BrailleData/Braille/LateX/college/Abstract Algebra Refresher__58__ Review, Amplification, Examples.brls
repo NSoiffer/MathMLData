@@ -1,436 +1,436 @@
 H
 K
-G .
+G𝐖.
 G
 H
-K ?
+K𝐖?
 G
 H
 K
-\langle H, K \rangle \colon =\bigcap_{J \supseteq H \cup K} J
+𝐖\langle𝐖H,𝐖K𝐖\rangle𝐖𝐖\colon𝐖=\bigcap𝐖_{J𝐖\supseteq𝐖H𝐖\cup𝐖K}𝐖J
 J
 G
 H
-K .
+K𝐖.
 J
 G
 H
-K,
+K,𝐖
 hk
 kh
-k \in K
-h \in H .
+k𝐖\in𝐖K
+h𝐖\in𝐖H𝐖.
 H
 K
-G,
-HK \colon =\{hk \mid h \in H, k \in K\}
-G,
+G,𝐖
+HK𝐖\colon𝐖=\{hk𝐖\mid𝐖h𝐖\in𝐖H,𝐖k𝐖\in𝐖K\}
+G,𝐖
 HK
 KH
 H
 K
-G .
+G𝐖.
 K
-G,
+G,𝐖
 H
-N_G (K),
-K .
-HK =KH
-G,
+N_G𝐖(K),𝐖
+K𝐖.
+HK𝐖=KH
+G,𝐖
 G
 H
-K .
-HK =KH
+K𝐖.
+HK𝐖=KH
 H
 K
-h \in H, k \in K,
-h' \in H, k' \in K
-hk =k'h' .
-HK .
-h, h' \in H, k, k' \in K,
-(hk)(h'k') =h''k''
-h'' \in H
-k'' \in K .
-(hk)(h'k') =h(h'h^{ ' -1})k(h'k') =(hh')(h^{ ' -1} kh')k' =h''k''
-h'' =hh'
-k'' =(h^{ ' -1} kh')k',
-H \subseteq N_G (K) .
-h \in H, k \in K,
-(hk)^{ -1} =h'k'
-h' \in H
-k' \in K .
-(hk)^{ -1} =k^{ -1} h^{ -1} =(h^{ -1} h)k^{ -1} h^{ -1} =h^{ -1} (hk^{ -1} h^{ -1}) =h'k' .
-HK =HK,
-HK \subseteq KH
-KH \subseteq HK .
-hk & \lt mi/> =hk(h^{ -1} h) =(hkh^{ -1})h =k'h \\ kh & \lt mi/> =(hh^{ -1})kh =h(h^{ -1} kh) =hk' .
-G =S_3,
-K = \langle (123) \rangle = \langle (132) \rangle
+h𝐖\in𝐖H,𝐖k𝐖\in𝐖K,𝐖
+h'𝐖\in𝐖H,𝐖k'𝐖\in𝐖K
+hk𝐖=k'h'𝐖.
+HK𝐖.
+h,𝐖h'𝐖\in𝐖H,𝐖k,𝐖k'𝐖\in𝐖K,𝐖
+(hk)(h'k')𝐖=h''k''
+h''𝐖\in𝐖H
+k''𝐖\in𝐖K𝐖.
+(hk)(h'k')𝐖=h(h'h^{𝐖'𝐖-1}𝐖)k(h'k')𝐖=(hh')(h^{𝐖'𝐖-1}𝐖kh')k'𝐖=h''k''
+h''𝐖=hh'
+k''𝐖=(h^{𝐖'𝐖-1}𝐖kh')k',𝐖
+H𝐖\subseteq𝐖N_G𝐖(K)𝐖.
+h𝐖\in𝐖H,𝐖k𝐖\in𝐖K,𝐖
+(hk)^{𝐖-1}𝐖𝐖=h'k'
+h'𝐖\in𝐖H
+k'𝐖\in𝐖K𝐖.
+(hk)^{𝐖-1}𝐖𝐖=k^{𝐖-1}𝐖h^{𝐖-1}𝐖𝐖=(h^{𝐖-1}𝐖h)k^{𝐖-1}𝐖h^{𝐖-1}𝐖𝐖=h^{𝐖-1}𝐖(hk^{𝐖-1}𝐖h^{𝐖-1}𝐖)𝐖=h'k'𝐖.
+HK𝐖=HK,𝐖
+HK𝐖\subseteq𝐖KH
+KH𝐖\subseteq𝐖HK𝐖.
+hk𝐖&𝐖\lt𝐖mi/>𝐖=hk(h^{𝐖-1}𝐖h)𝐖=(hkh^{𝐖-1}𝐖)h𝐖=k'h𝐖\\𝐖kh𝐖&𝐖\lt𝐖mi/>𝐖=(hh^{𝐖-1}𝐖)kh𝐖=h(h^{𝐖-1}𝐖kh)𝐖=hk'𝐖.
+G𝐖=S_3𝐖,𝐖
+K𝐖=𝐖\langle𝐖(123)𝐖\rangle𝐖𝐖=𝐖\langle𝐖(132)𝐖\rangle𝐖
 H
 HK
-G;
-G =HK,
+G;𝐖
+G𝐖=HK,𝐖
 R
 I
-J .
-I +J
+J𝐖.
+I𝐖+J
 R
 I
-J .
-IJ,
+J𝐖.
+IJ,𝐖
 R
 ij
-i \in I
-j \in J .
-I \cap J
-I +J & \lt mi/> =\{i +j \mid i \in I, j \in J\} \\ IJ & \lt mi/> =\{\sum_{k =1}^r i_k j_k \mid i_k \in I, j_k \in J\} \\ I \cap J & \lt mi/> =\{k \mid k \in I\~and\~k \in J\}
+i𝐖\in𝐖I
+j𝐖\in𝐖J𝐖.
+I𝐖\cap𝐖J
+I𝐖+J𝐖&𝐖\lt𝐖mi/>𝐖=\{i𝐖+j𝐖\mid𝐖i𝐖\in𝐖I,𝐖j𝐖\in𝐖J\}𝐖\\𝐖IJ𝐖&𝐖\lt𝐖mi/>𝐖=\{\sum𝐖_{k𝐖=1}^r𝐖i_k𝐖j_k𝐖𝐖\mid𝐖i_k𝐖𝐖\in𝐖I,𝐖j_k𝐖𝐖\in𝐖J\}𝐖\\𝐖I𝐖\cap𝐖J𝐖&𝐖\lt𝐖mi/>𝐖=\{k𝐖\mid𝐖k𝐖\in𝐖I\~and\~k𝐖\in𝐖J\}
 IJ
-ij .
-R =\mathbb Z
-I, J
-\mathbb Z
-I =12\mathbb Z
-J =4\mathbb Z
-I =12\mathbb Z
-J =15\mathbb Z
-I =12\mathbb Z
-J =5\mathbb Z
-I +J, IJ,
-I \cap J
-I +J =4\mathbb Z;
-IJ =48\mathbb Z;
-I \cap J =12\mathbb Z
-I +J =3\mathbb Z;
-IJ =180\mathbb Z;
-I \cap J =60\mathbb Z
-I +J =\mathbb Z;
-IJ =60\mathbb Z;
-I \cap J =60\mathbb Z
-R =\mathbb Z
-I =m\mathbb Z
-J =n\mathbb Z
-I +J, IJ,
-I \cap J
+ij𝐖.
+R𝐖=\mathbb𝐖Z𝐖
+I,𝐖J
+\mathbb𝐖Z𝐖
+I𝐖=12\mathbb𝐖Z𝐖
+J𝐖=4\mathbb𝐖Z𝐖
+I𝐖=12\mathbb𝐖Z𝐖
+J𝐖=15\mathbb𝐖Z𝐖
+I𝐖=12\mathbb𝐖Z𝐖
+J𝐖=5\mathbb𝐖Z𝐖
+I𝐖+J,𝐖IJ,𝐖
+I𝐖\cap𝐖J
+I𝐖+J𝐖=4\mathbb𝐖Z𝐖;𝐖
+IJ𝐖=48\mathbb𝐖Z𝐖;𝐖
+I𝐖\cap𝐖J𝐖=12\mathbb𝐖Z𝐖
+I𝐖+J𝐖=3\mathbb𝐖Z𝐖;𝐖
+IJ𝐖=180\mathbb𝐖Z𝐖;𝐖
+I𝐖\cap𝐖J𝐖=60\mathbb𝐖Z𝐖
+I𝐖+J𝐖=\mathbb𝐖Z𝐖;𝐖
+IJ𝐖=60\mathbb𝐖Z𝐖;𝐖
+I𝐖\cap𝐖J𝐖=60\mathbb𝐖Z𝐖
+R𝐖=\mathbb𝐖Z𝐖
+I𝐖=m\mathbb𝐖Z𝐖
+J𝐖=n\mathbb𝐖Z𝐖
+I𝐖+J,𝐖IJ,𝐖
+I𝐖\cap𝐖J
 m
-n .
-(I +J) \cdot (I \cap J) =IJ .
-(I +J) \cdot (I \cap J)
-\mathbb Z ?
-n \times n
-(n \ge 2),
-\mathbb H,
-\mathbb R
-\{1, i, j, k\}
-ij =k = -ji
-i^2 =j^2 =k^2 = -1.
-\mathbb Z,
-\mathbb Z /n\mathbb Z,
-\mathbb Z,
-\mathbb Z /n\mathbb Z
+n𝐖.
+(I𝐖+J)𝐖\cdot𝐖(I𝐖\cap𝐖J)𝐖=IJ𝐖.
+(I𝐖+J)𝐖\cdot𝐖(I𝐖\cap𝐖J)
+\mathbb𝐖Z𝐖𝐖?
+n𝐖\times𝐖n
+(n𝐖\ge𝐖2),𝐖
+\mathbb𝐖H𝐖,𝐖
+\mathbb𝐖R𝐖
+\{1,𝐖i,𝐖j,𝐖k\}
+ij𝐖=k𝐖=𝐖-ji
+i^2𝐖𝐖=j^2𝐖𝐖=k^2𝐖𝐖=𝐖-1.
+\mathbb𝐖Z𝐖,𝐖
+\mathbb𝐖Z𝐖/n\mathbb𝐖Z𝐖,𝐖
+\mathbb𝐖Z𝐖,𝐖
+\mathbb𝐖Z𝐖/n\mathbb𝐖Z𝐖
 n
-X,
-S_X
-f \colon X \to X .
-S_X
-(f, g) \mapsto f \circ g,
-f \circ g(x) =f(g(x)) .
-id_X \colon X \to X
-id_X (x) =x
-x \in X .
-f \in S_X
+X,𝐖
+S_X𝐖
+f𝐖\colon𝐖X𝐖\to𝐖X𝐖.
+S_X𝐖
+(f,𝐖g)𝐖\mapsto𝐖f𝐖\circ𝐖g,𝐖
+f𝐖\circ𝐖g(x)𝐖=f(g(x))𝐖.
+id_X𝐖𝐖\colon𝐖X𝐖\to𝐖X
+id_X𝐖(x)𝐖=x
+x𝐖\in𝐖X𝐖.
+f𝐖\in𝐖S_X𝐖
 f
 X
-| X| =n,
-X =\{1, 2, \ldots, n\}
-S_n
-S_X .
-| S_n | =n! .
-S_n
+|𝐖X|𝐖=n,𝐖
+X𝐖=\{1,𝐖2,𝐖\ldots𝐖,𝐖n\}
+S_n𝐖
+S_X𝐖𝐖.
+|𝐖S_n𝐖|𝐖=n!𝐖.
+S_n𝐖
 n
-S_n
-S_1 =\{id\}
-S_2 =\{id, \sigma \}
-\sigma
-n \ge 3,
-S_n
-\sigma \in S_{11}
-\sigma = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 \\ 5 & 1 & 3 & 2 & 7 & 6 & 4 & 9 & 8 & 11 & 10 \end{pmatrix}
-\sigma
-\sigma
+S_n𝐖
+S_1𝐖𝐖=\{id\}
+S_2𝐖𝐖=\{id,𝐖\sigma𝐖\}
+\sigma𝐖
+n𝐖\ge𝐖3,𝐖
+S_n𝐖
+\sigma𝐖𝐖\in𝐖S_{11}𝐖
+\sigma𝐖𝐖=𝐖\begin{pmatrix}𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖&𝐖5𝐖&𝐖6𝐖&𝐖7𝐖&𝐖8𝐖&𝐖9𝐖&𝐖10𝐖&𝐖11𝐖\\𝐖5𝐖&𝐖1𝐖&𝐖3𝐖&𝐖2𝐖&𝐖7𝐖&𝐖6𝐖&𝐖4𝐖&𝐖9𝐖&𝐖8𝐖&𝐖11𝐖&𝐖10𝐖\end{pmatrix}𝐖
+\sigma𝐖
+\sigma𝐖
 k
 k
-\tau \in S_X,
-a_1, \ldots, a_k \in X
-\tau (a_i) =a_{i +1} \~for\~1 \le i \le k, \tau (a_k) =a_1, \~and\~\tau (x) =x\~for\space all\space other\~x \in X .
-\tau
-\tau =(a_1 a_2 \cdots a_k) .
-\sigma = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 \\ 5 & 1 & 3 & 2 & 7 & 6 & 4 & 9 & 8 & 11 & 10 \end{pmatrix}
-\sigma =\underset{5 -cycle}{\underset{\underbrace}{(15742)}}\underset{1 -cycles}{\underset{\underbrace}{(3)(6)}}\underset{2 -cycles}{\underset{\underbrace}{(89)(1011)}} .
-(a_1 \ldots a_r) =(a_2 a_3 \ldots a_r a_1) =(a_3 a_4 \ldots, a_r a_1 a_2) =\cdots
-\sigma
-S_n
-G = \langle \sigma \rangle
-\sigma .
+\tau𝐖𝐖\in𝐖S_X𝐖,𝐖
+a_1𝐖,𝐖\ldots𝐖,𝐖a_k𝐖𝐖\in𝐖X
+\tau𝐖(a_i𝐖)𝐖=a_{i𝐖+1}𝐖\~for\~1𝐖\le𝐖i𝐖\le𝐖k,𝐖\tau𝐖(a_k𝐖)𝐖=a_1𝐖,𝐖\~and\~\tau𝐖(x)𝐖=x\~for\space𝐖all\space𝐖other\~x𝐖\in𝐖X𝐖.
+\tau𝐖
+\tau𝐖𝐖=(a_1𝐖a_2𝐖\cdots𝐖a_k𝐖)𝐖.
+\sigma𝐖𝐖=𝐖\begin{pmatrix}𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖&𝐖5𝐖&𝐖6𝐖&𝐖7𝐖&𝐖8𝐖&𝐖9𝐖&𝐖10𝐖&𝐖11𝐖\\𝐖5𝐖&𝐖1𝐖&𝐖3𝐖&𝐖2𝐖&𝐖7𝐖&𝐖6𝐖&𝐖4𝐖&𝐖9𝐖&𝐖8𝐖&𝐖11𝐖&𝐖10𝐖\end{pmatrix}𝐖
+\sigma𝐖𝐖=\underset{5𝐖-cycle}{\underset{\underbrace𝐖}{(15742)}}\underset{1𝐖-cycles}{\underset{\underbrace𝐖}{(3)(6)}}\underset{2𝐖-cycles}{\underset{\underbrace𝐖}{(89)(1011)}}𝐖.
+(a_1𝐖\ldots𝐖a_r𝐖)𝐖=(a_2𝐖a_3𝐖\ldots𝐖a_r𝐖a_1𝐖)𝐖=(a_3𝐖a_4𝐖\ldots𝐖,𝐖a_r𝐖a_1𝐖a_2𝐖)𝐖=\cdots𝐖
+\sigma𝐖
+S_n𝐖
+G𝐖=𝐖\langle𝐖\sigma𝐖𝐖\rangle𝐖
+\sigma𝐖𝐖.
 G
-X =\{1, \ldots, n\}
-(\tau, k) \mapsto \tau (k) .
+X𝐖=\{1,𝐖\ldots𝐖,𝐖n\}
+(\tau𝐖,𝐖k)𝐖\mapsto𝐖\tau𝐖(k)𝐖.
 X
-G \cdot k =Orbit\space of\~(k) =\{\tau (k) \mid \tau \in \langle \sigma \rangle \} .
-(k\sigma (k)\sigma^2 (k)\cdots \sigma^{\ell -1} (k))
-\ell
-\sigma^\ell (k) =k .
-\langle \sigma \rangle
+G𝐖\cdot𝐖k𝐖=Orbit\space𝐖of\~(k)𝐖=\{\tau𝐖(k)𝐖\mid𝐖\tau𝐖𝐖\in𝐖𝐖\langle𝐖\sigma𝐖𝐖\rangle𝐖\}𝐖.
+(k\sigma𝐖(k)\sigma𝐖^2𝐖(k)\cdots𝐖\sigma𝐖^{\ell𝐖𝐖-1}𝐖(k))
+\ell𝐖
+\sigma𝐖^\ell𝐖𝐖(k)𝐖=k𝐖.
+𝐖\langle𝐖\sigma𝐖𝐖\rangle𝐖
 X
-S_n
+S_n𝐖
 r
-\sigma =(a_1 a_2 \cdots a_r)
-r .
-\sigma
-a_i
-a_{i +1}
-1 \le i \le r
-a_r
-a_1,
-\sigma^j
-a_i
-a_{i +j}
-i +j
-r .
-\sigma
-r .
-\sigma \in S_n
-\sigma =\sigma_1 \cdots \sigma_s .
-\sigma
-\sigma_i .
-m_j
-\sigma_j,
-M =lcm\{m_1, \ldots, m_s \} .
-\sigma^M =(\sigma_1 \cdots \sigma_s)^M =\sigma_1^M \cdots \sigma_s^M =1
-m_j
-M .
-\sigma
-M .
-N =| \sigma |,
-\sigma^N =(\sigma_1 \cdots \sigma_s)^N =\sigma_1^N \cdots \sigma_s^N =1,
-\sigma_1^{ -N} =\sigma_2^n \cdots \sigma_t^N .
-\sigma_j
-\sigma_1
-\sigma_2, \ldots, \sigma_s,
+\sigma𝐖𝐖=(a_1𝐖a_2𝐖\cdots𝐖a_r𝐖)
+r𝐖.
+\sigma𝐖
+a_i𝐖
+a_{i𝐖+1}𝐖
+1𝐖\le𝐖i𝐖\le𝐖r
+a_r𝐖
+a_1𝐖,𝐖
+\sigma𝐖^j𝐖
+a_i𝐖
+a_{i𝐖+j}𝐖
+i𝐖+j
+r𝐖.
+\sigma𝐖
+r𝐖.
+\sigma𝐖𝐖\in𝐖S_n𝐖
+\sigma𝐖𝐖=\sigma𝐖_1𝐖\cdots𝐖\sigma𝐖_s𝐖𝐖.
+\sigma𝐖
+\sigma𝐖_i𝐖𝐖.
+m_j𝐖
+\sigma𝐖_j𝐖,𝐖
+M𝐖=lcm\{m_1𝐖,𝐖\ldots𝐖,𝐖m_s𝐖\}𝐖.
+\sigma𝐖^M𝐖𝐖=(\sigma𝐖_1𝐖\cdots𝐖\sigma𝐖_s𝐖)^M𝐖𝐖=\sigma𝐖_1^M𝐖\cdots𝐖\sigma𝐖_s^M𝐖𝐖=1
+m_j𝐖
+M𝐖.
+\sigma𝐖
+M𝐖.
+N𝐖=|𝐖\sigma𝐖|,𝐖
+\sigma𝐖^N𝐖𝐖=(\sigma𝐖_1𝐖\cdots𝐖\sigma𝐖_s𝐖)^N𝐖𝐖=\sigma𝐖_1^N𝐖\cdots𝐖\sigma𝐖_s^N𝐖𝐖=1,𝐖
+\sigma𝐖_1^{𝐖-N}𝐖𝐖=\sigma𝐖_2^n𝐖\cdots𝐖\sigma𝐖_t^N𝐖𝐖.
+\sigma𝐖_j𝐖
+\sigma𝐖_1𝐖
+\sigma𝐖_2𝐖,𝐖\ldots𝐖,𝐖\sigma𝐖_s𝐖,𝐖
 N
-\sigma_1^{ -N} =1 =\sigma_1^N .
-m_1 \mid N .
-\sigma_j
-m_j \mid N
-j,
-M \mid N .
-| \sigma | =M .
-\sigma \in S_n
-\sigma =\sigma_1 \cdots \sigma_r,
-a_i
-\sigma_i .
-n .
-\sigma =\sigma_1 \cdots \sigma_r
-a_1 \ge \cdots \ge a_r \ge 1,
+\sigma𝐖_1^{𝐖-N}𝐖𝐖=1𝐖=\sigma𝐖_1^N𝐖𝐖.
+m_1𝐖𝐖\mid𝐖N𝐖.
+\sigma𝐖_j𝐖
+m_j𝐖𝐖\mid𝐖N
+j,𝐖
+M𝐖\mid𝐖N𝐖.
+|𝐖\sigma𝐖|𝐖=M𝐖.
+\sigma𝐖𝐖\in𝐖S_n𝐖
+\sigma𝐖𝐖=\sigma𝐖_1𝐖\cdots𝐖\sigma𝐖_r𝐖,𝐖
+a_i𝐖
+\sigma𝐖_i𝐖𝐖.
+n𝐖.
+\sigma𝐖𝐖=\sigma𝐖_1𝐖\cdots𝐖\sigma𝐖_r𝐖
+a_1𝐖𝐖\ge𝐖\cdots𝐖𝐖\ge𝐖a_r𝐖𝐖\ge𝐖1,𝐖
 r
-(a_1, \ldots, a_r)
-\sigma .
-\tau =(a_1 a_2 \cdots a_k)
+(a_1𝐖,𝐖\ldots𝐖,𝐖a_r𝐖)
+\sigma𝐖𝐖.
+\tau𝐖𝐖=(a_1𝐖a_2𝐖\cdots𝐖a_k𝐖)
 k
-\sigma,
-\sigma \tau \sigma^{ -1} =(\sigma (a_1)\sigma (a_2)\cdots \sigma (a_k)),
+\sigma𝐖,𝐖
+\sigma𝐖\tau𝐖\sigma𝐖^{𝐖-1}𝐖𝐖=(\sigma𝐖(a_1𝐖)\sigma𝐖(a_2𝐖)\cdots𝐖\sigma𝐖(a_k𝐖)),𝐖
 k
 k
-\ell =\sigma (a_i)
-i .
-k,
-\sigma \tau \sigma^{ -1} =(\sigma (a_1)\sigma (a_2)\cdots \sigma (a_k)),
-\sigma \tau \sigma^{ -1}
-\ell
-\ell \not= \sigma (a_i)
-i .
-\sigma^{ -1} (\ell) \not= a_i
-i,
-\tau
-\sigma
-\ell .
-\sigma (a_i)
-\sigma \tau \sigma^{ -1},
-\tau, \tau ' \in S_n
-k .
-\sigma \in S_n
-\tau ' =\sigma \tau \sigma^{ -1} .
+\ell𝐖𝐖=\sigma𝐖(a_i𝐖)
+i𝐖.
+k,𝐖
+\sigma𝐖\tau𝐖\sigma𝐖^{𝐖-1}𝐖𝐖=(\sigma𝐖(a_1𝐖)\sigma𝐖(a_2𝐖)\cdots𝐖\sigma𝐖(a_k𝐖)),𝐖
+\sigma𝐖\tau𝐖\sigma𝐖^{𝐖-1}𝐖
+\ell𝐖
+\ell𝐖𝐖\not=𝐖\sigma𝐖(a_i𝐖)
+i𝐖.
+\sigma𝐖^{𝐖-1}𝐖(\ell𝐖)𝐖\not=𝐖a_i𝐖
+i,𝐖
+\tau𝐖
+\sigma𝐖
+\ell𝐖𝐖.
+\sigma𝐖(a_i𝐖)
+\sigma𝐖\tau𝐖\sigma𝐖^{𝐖-1}𝐖,𝐖
+\tau𝐖,𝐖\tau𝐖'𝐖\in𝐖S_n𝐖
+k𝐖.
+\sigma𝐖𝐖\in𝐖S_n𝐖
+\tau𝐖'𝐖=\sigma𝐖\tau𝐖\sigma𝐖^{𝐖-1}𝐖𝐖.
 k
-S_n
-\tau =(a_1 a_2 \cdots a_k)
-\mu =(b_1 b_2 \cdots b_k) .
-\sigma
-a_i \mapsto b_i
-S_n
-n .
-\sigma \in S_n
-\sigma
-\sigma =\sigma_1 \cdots \sigma_r \~with\~m_i =| \sigma_i | .
-m_1, \ldots, m_r
-n .
-\tau \sigma \tau^{ -1} =\tau \sigma \tau^{ -1} \cdots \tau \sigma_r \tau^{ -1},
-\tau \sigma_j \tau^{ -1}
-m_j,
-\tau \sigma \tau^{ -1}
-n .
-n,
-n,
-sgn \colon S_n \to \{ \pm 1\}
-\sigma \in S_n,
-\sigma
-\sigma =\sigma_1 \cdots \sigma_t .
-sgn(\sigma) =( -1)^{n -t} .
-sgn(1) =1 =( -1)^{n -n},
-sgn((ab)) =( -1)^{n -(n -1)} = -1.
-\sigma,
-sgn(\sigma)
-(a_1 a_2 \cdots a_r) =(a_1 a_r)\cdots (a_1 a_3)(a_1 a_2),
-\sigma =\tau_1 \cdots \tau_r,
-\tau_i
-sgn(\sigma) =( -1)^r .
-sgn \colon S_n \to \{ \pm 1\}
-n \ge 2.
-A_n .
-n \ge 2,
-A_n
-S_n .
-n \ge 3,
-n \ge 5,
-p(x) =x^7 +12x^3 +2x +6 \in \mathbb Z [x],
-p =2
+S_n𝐖
+\tau𝐖𝐖=(a_1𝐖a_2𝐖\cdots𝐖a_k𝐖)
+\mu𝐖𝐖=(b_1𝐖b_2𝐖\cdots𝐖b_k𝐖)𝐖.
+\sigma𝐖
+a_i𝐖𝐖\mapsto𝐖b_i𝐖
+S_n𝐖
+n𝐖.
+\sigma𝐖𝐖\in𝐖S_n𝐖
+\sigma𝐖
+\sigma𝐖𝐖=\sigma𝐖_1𝐖\cdots𝐖\sigma𝐖_r𝐖\~with\~m_i𝐖𝐖=|𝐖\sigma𝐖_i𝐖|𝐖.
+m_1𝐖,𝐖\ldots𝐖,𝐖m_r𝐖
+n𝐖.
+\tau𝐖\sigma𝐖\tau𝐖^{𝐖-1}𝐖𝐖=\tau𝐖\sigma𝐖\tau𝐖^{𝐖-1}𝐖\cdots𝐖\tau𝐖\sigma𝐖_r𝐖\tau𝐖^{𝐖-1}𝐖,𝐖
+\tau𝐖\sigma𝐖_j𝐖\tau𝐖^{𝐖-1}𝐖
+m_j𝐖,𝐖
+\tau𝐖\sigma𝐖\tau𝐖^{𝐖-1}𝐖
+n𝐖.
+n,𝐖
+n,𝐖
+sgn𝐖\colon𝐖S_n𝐖𝐖\to𝐖\{𝐖\pm𝐖1\}
+\sigma𝐖𝐖\in𝐖S_n𝐖,𝐖
+\sigma𝐖
+\sigma𝐖𝐖=\sigma𝐖_1𝐖\cdots𝐖\sigma𝐖_t𝐖𝐖.
+sgn(\sigma𝐖)𝐖=(𝐖-1)^{n𝐖-t}𝐖𝐖.
+sgn(1)𝐖=1𝐖=(𝐖-1)^{n𝐖-n}𝐖,𝐖
+sgn((ab))𝐖=(𝐖-1)^{n𝐖-(n𝐖-1)}𝐖𝐖=𝐖-1.
+\sigma𝐖,𝐖
+sgn(\sigma𝐖)
+(a_1𝐖a_2𝐖\cdots𝐖a_r𝐖)𝐖=(a_1𝐖a_r𝐖)\cdots𝐖(a_1𝐖a_3𝐖)(a_1𝐖a_2𝐖),𝐖
+\sigma𝐖𝐖=\tau𝐖_1𝐖\cdots𝐖\tau𝐖_r𝐖,𝐖
+\tau𝐖_i𝐖
+sgn(\sigma𝐖)𝐖=(𝐖-1)^r𝐖𝐖.
+sgn𝐖\colon𝐖S_n𝐖𝐖\to𝐖\{𝐖\pm𝐖1\}
+n𝐖\ge𝐖2.
+A_n𝐖𝐖.
+n𝐖\ge𝐖2,𝐖
+A_n𝐖
+S_n𝐖𝐖.
+n𝐖\ge𝐖3,𝐖
+n𝐖\ge𝐖5,𝐖
+p(x)𝐖=x^7𝐖𝐖+12x^3𝐖𝐖+2x𝐖+6𝐖\in𝐖\mathbb𝐖Z𝐖[x],𝐖
+p𝐖=2
 p
-\mathbb Q .
-p ?
+\mathbb𝐖Q𝐖𝐖.
+p𝐖?
 p
-\mathbb C
-\mathbb C
-\mathbb Q [x]
-x^2 -3 \in (\mathbb Z /5\mathbb Z)[x] .
-\mathbb Z /5\mathbb Z .
+\mathbb𝐖C𝐖
+\mathbb𝐖C𝐖
+\mathbb𝐖Q𝐖[x]
+x^2𝐖𝐖-3𝐖\in𝐖(\mathbb𝐖Z𝐖/5\mathbb𝐖Z𝐖)[x]𝐖.
+\mathbb𝐖Z𝐖/5\mathbb𝐖Z𝐖𝐖.
 K
-p \in K[x]
+p𝐖\in𝐖K[x]
 (p)
 K[x]/(p)
 K
-p .
+p𝐖.
 K
-\mathbb Q
-p(x) =x^7 -10.
-p =2, 5
-\mathbb Q [x],
-\mathbb Q .
-\mathbb Q [x]/(x^7 -10)
-K .
+\mathbb𝐖Q𝐖
+p(x)𝐖=x^7𝐖𝐖-10.
+p𝐖=2,𝐖5
+\mathbb𝐖Q𝐖[x],𝐖
+\mathbb𝐖Q𝐖𝐖.
+\mathbb𝐖Q𝐖[x]/(x^7𝐖𝐖-10)
+K𝐖.
 \sqrt[7]{10}
-\mathbb C .
-\varphi \colon \mathbb Q [x] \to \mathbb Q [\sqrt[7]{10}]
-\varphi (f(x)) =f(\sqrt[7]{10}),
-x^7 -10
-\varphi
-\mathbb Q [\sqrt[7]{10}]
-\mathbb C .
-(x^7 -10) \subseteq \ker \varphi,
-(x^7 -10)
-x^7 -10
-\mathbb Q [x]
-\varphi
-\ker \varphi =(x^7 -10) .
-\mathbb Q [x]/(x^7 -10) \cong \mathbb Q [\sqrt[7]{10}] .
-\mathbb Q [\sqrt[7]{10}]
-\varphi_\ast,
-\alpha =x +(x^7 -10) \in \mathbb Q [x]/(x^7 -10)
-\sqrt[7]{10} \in \mathbb Q [\sqrt[7]{10}] .
-\mathbb Q
-\mathbb Q [x]/(x^7 -10) .
-\mathbb Q \to \mathbb Q [x] \to \mathbb Q [x]/(x^7 -10)
-a \in \mathbb Q
-a +(x^7 -10) .
-10 \mapsto \~the\space coset\~10 +(x^7 -10) .
-\alpha^7 -10 \in \mathbb Q [x]/(x^7 -10),
-\alpha^7 -[10 +(x^7 -10)] ?
-I =(x^7 -10) .
-\alpha^7 -[10 +I] =[x +I]^7 -[10 +I] =[x^7 +I] -[10 +I] =[x^7 -10] +I =0 +I
-\alpha =x +I \in K =\mathbb Q [x]/I
+\mathbb𝐖C𝐖𝐖.
+\varphi𝐖𝐖\colon𝐖\mathbb𝐖Q𝐖[x]𝐖\to𝐖\mathbb𝐖Q𝐖[\sqrt[7]{10}]
+\varphi𝐖(f(x))𝐖=f(\sqrt[7]{10}),𝐖
+x^7𝐖𝐖-10
+\varphi𝐖
+\mathbb𝐖Q𝐖[\sqrt[7]{10}]
+\mathbb𝐖C𝐖𝐖.
+(x^7𝐖𝐖-10)𝐖\subseteq𝐖\ker𝐖\varphi𝐖,𝐖
+(x^7𝐖𝐖-10)
+x^7𝐖𝐖-10
+\mathbb𝐖Q𝐖[x]
+\varphi𝐖
+\ker𝐖\varphi𝐖𝐖=(x^7𝐖𝐖-10)𝐖.
+\mathbb𝐖Q𝐖[x]/(x^7𝐖𝐖-10)𝐖\cong𝐖\mathbb𝐖Q𝐖[\sqrt[7]{10}]𝐖.
+\mathbb𝐖Q𝐖[\sqrt[7]{10}]
+\varphi𝐖_\ast𝐖𝐖,𝐖
+\alpha𝐖𝐖=x𝐖+(x^7𝐖𝐖-10)𝐖\in𝐖\mathbb𝐖Q𝐖[x]/(x^7𝐖𝐖-10)
+\sqrt[7]{10}𝐖\in𝐖\mathbb𝐖Q𝐖[\sqrt[7]{10}]𝐖.
+\mathbb𝐖Q𝐖
+\mathbb𝐖Q𝐖[x]/(x^7𝐖𝐖-10)𝐖.
+\mathbb𝐖Q𝐖𝐖\to𝐖\mathbb𝐖Q𝐖[x]𝐖\to𝐖\mathbb𝐖Q𝐖[x]/(x^7𝐖𝐖-10)
+a𝐖\in𝐖\mathbb𝐖Q𝐖
+a𝐖+(x^7𝐖𝐖-10)𝐖.
+10𝐖\mapsto𝐖\~the\space𝐖coset\~10𝐖+(x^7𝐖𝐖-10)𝐖.
+\alpha𝐖^7𝐖𝐖-10𝐖\in𝐖\mathbb𝐖Q𝐖[x]/(x^7𝐖𝐖-10),𝐖
+\alpha𝐖^7𝐖𝐖-[10𝐖+(x^7𝐖𝐖-10)]𝐖?
+I𝐖=(x^7𝐖𝐖-10)𝐖.
+\alpha𝐖^7𝐖𝐖-[10𝐖+I]𝐖=[x𝐖+I]^7𝐖𝐖-[10𝐖+I]𝐖=[x^7𝐖𝐖+I]𝐖-[10𝐖+I]𝐖=[x^7𝐖𝐖-10]𝐖+I𝐖=0𝐖+I
+\alpha𝐖𝐖=x𝐖+I𝐖\in𝐖K𝐖=\mathbb𝐖Q𝐖[x]/I
 F
-p \in F[x]
-K \colon =F[x]/(p)
+p𝐖\in𝐖F[x]
+K𝐖\colon𝐖=F[x]/(p)
 F
-\alpha =x +(p(x))
-p,
+\alpha𝐖𝐖=x𝐖+(p(x))
+p,𝐖
 K
-K =F(\alpha)
+K𝐖=F(\alpha𝐖)
 F
-\alpha .
-\mathbb Q (\sqrt{2})
-\mathbb Q (\sqrt[7]{10}),
-p(x) =x^7 +12x^3 +2x +6
-\mathbb Q [x],
-\mathbb Q (\alpha),
-\alpha
-p .
-\mathbb Q [\sqrt[7]{10}]
-\mathbb Q (\sqrt{2})
-F[\alpha]
+\alpha𝐖𝐖.
+\mathbb𝐖Q𝐖(\sqrt{2})
+\mathbb𝐖Q𝐖(\sqrt[7]{10}),𝐖
+p(x)𝐖=x^7𝐖𝐖+12x^3𝐖𝐖+2x𝐖+6
+\mathbb𝐖Q𝐖[x],𝐖
+\mathbb𝐖Q𝐖(\alpha𝐖),𝐖
+\alpha𝐖
+p𝐖.
+\mathbb𝐖Q𝐖[\sqrt[7]{10}]
+\mathbb𝐖Q𝐖(\sqrt{2})
+F[\alpha𝐖]
 F
-\alpha
-F(\alpha)
+\alpha𝐖
+F(\alpha𝐖)
 F
-\alpha
-\alpha
-F,
-F[\alpha] \cong F[x]/(p)
+\alpha𝐖
+\alpha𝐖
+F,𝐖
+F[\alpha𝐖]𝐖\cong𝐖F[x]/(p)
 (p)
-F[\alpha]
-F(\alpha),
+F[\alpha𝐖]
+F(\alpha𝐖),𝐖
 F
-\alpha .
-F[\alpha]
-a_0 +a_1 \alpha +\cdots +a_n \alpha^n
+\alpha𝐖𝐖.
+F[\alpha𝐖]
+a_0𝐖𝐖+a_1𝐖\alpha𝐖𝐖+\cdots𝐖𝐖+a_n𝐖\alpha𝐖^n𝐖
 n
-a_i \in F .
-1/\alpha
-F[\alpha]
-\alpha
+a_i𝐖𝐖\in𝐖F𝐖.
+1/\alpha𝐖
+F[\alpha𝐖]
+\alpha𝐖
 p
-F .
+F𝐖.
 F
-p \in F[x]
-d .
+p𝐖\in𝐖F[x]
+d𝐖.
 F[x]/(p)
 F
 d
-\{\overline{1}, \overline{x}, \ldots, \overline{x}^{d -1} \} .
-\overline{x}^j =x^j +(p) .
-F[\alpha] \cong F[x]/(p),
-F[\alpha]
-a_0 +a_1 \alpha +\cdots +a_{d -1} \alpha^{d -1}
-a_i \in F .
-f(x) \in F[x]
-f(x) =p(x)q(x) +r(x)
-r =0
-\deg r \lt \deg p =d .
-f(x) +(p) =r(x) +(p) .
-\{\overline{1}, \overline{x}, \ldots, \overline{x}^{d -1} \}
+\{\overline{1},𝐖\overline{x},𝐖\ldots𝐖,𝐖\overline{x}^{d𝐖-1}𝐖\}𝐖.
+\overline{x}^j𝐖𝐖=x^j𝐖𝐖+(p)𝐖.
+F[\alpha𝐖]𝐖\cong𝐖F[x]/(p),𝐖
+F[\alpha𝐖]
+a_0𝐖𝐖+a_1𝐖\alpha𝐖𝐖+\cdots𝐖𝐖+a_{d𝐖-1}𝐖\alpha𝐖^{d𝐖-1}𝐖
+a_i𝐖𝐖\in𝐖F𝐖.
+f(x)𝐖\in𝐖F[x]
+f(x)𝐖=p(x)q(x)𝐖+r(x)
+r𝐖=0
+\deg𝐖r𝐖\lt𝐖\deg𝐖p𝐖=d𝐖.
+f(x)𝐖+(p)𝐖=r(x)𝐖+(p)𝐖.
+\{\overline{1},𝐖\overline{x},𝐖\ldots𝐖,𝐖\overline{x}^{d𝐖-1}𝐖\}
 F[x]/(p)
-F .
-a_0 +a_1 \overline{x} +\cdots +a_{d -1} \overline{x}^{d -1} =\overline{0}\~in\~F[x]/(p) .
-a_0 +a_1 x +\cdots +a_{d -1} x^{d -1} \in (p) .
-\deg p =d,
-a_i =0.
+F𝐖.
+a_0𝐖𝐖+a_1𝐖\overline{x}𝐖+\cdots𝐖𝐖+a_{d𝐖-1}𝐖\overline{x}^{d𝐖-1}𝐖𝐖=\overline{0}\~in\~F[x]/(p)𝐖.
+a_0𝐖𝐖+a_1𝐖x𝐖+\cdots𝐖𝐖+a_{d𝐖-1}𝐖x^{d𝐖-1}𝐖𝐖\in𝐖(p)𝐖.
+\deg𝐖p𝐖=d,𝐖
+a_i𝐖𝐖=0.
 p
-p .
+p𝐖.
 G
 n
 p
-n .
-n =p^k n_0
-p \nmid n_0,
+n𝐖.
+n𝐖=p^k𝐖n_0𝐖
+p𝐖\nmid𝐖n_0𝐖,𝐖
 k
-p^k \mid n .
+p^k𝐖𝐖\mid𝐖n𝐖.
 p
 H
 G
@@ -438,506 +438,506 @@ p
 p
 G
 p
-p^k .
+p^k𝐖𝐖.
 G
-n =p^k n_0
+n𝐖=p^k𝐖n_0𝐖
 p
-p \nmid n_0 .
+p𝐖\nmid𝐖n_0𝐖𝐖.
 G
-p^\ell
-1 \le \ell \le k .
+p^\ell𝐖𝐖
+1𝐖\le𝐖\ell𝐖𝐖\le𝐖k𝐖.
 p
 p
-| G| .
+|𝐖G|𝐖.
 p
 G
 p
-G .
-p,
+G𝐖.
+p,𝐖
 P
 Q
 p
-G,
-g \in G
-P =gQg^{ -1} .
-n_p
+G,𝐖
+g𝐖\in𝐖G
+P𝐖=gQg^{𝐖-1}𝐖𝐖.
+n_p𝐖
 p
-G .
-n_p \equiv 1( modp)
-n_p \mid n_0 =| G|/p^k .
+G𝐖.
+n_p𝐖𝐖\equiv𝐖1(𝐖modp)
+n_p𝐖𝐖\mid𝐖n_0𝐖𝐖=|𝐖G|/p^k𝐖𝐖.
 p
-| G|,
+|𝐖G|,𝐖
 X
 p
-G .
+G𝐖.
 X
 G
 X
-P \in X,
-x \mapsto gxg^{ -1}
-gPg^{ -1}
+P𝐖\in𝐖X,𝐖
+x𝐖\mapsto𝐖gxg^{𝐖-1}𝐖
+gPg^{𝐖-1}𝐖
 G
-P,
-X .
-P \in X
+P,𝐖
+X𝐖.
+P𝐖\in𝐖X
 p
-G \cdot P =X;
+G𝐖\cdot𝐖P𝐖=X;𝐖
 G
-X .
-n_p
+X𝐖.
+n_p𝐖
 p
-G,
-X .
-n_p =| X| =| G \cdot P| =[G \colon N_G (P)],
-P \le N_G (P) \le G
-n_0 =\frac{| G|}{| P|} =[G \colon P] =[G \colon N_G (P)][N_G (P) \colon P] =n_p [N_G (P) \colon P] .
-n_p \mid n_0,
+G,𝐖
+X𝐖.
+n_p𝐖𝐖=|𝐖X|𝐖=|𝐖G𝐖\cdot𝐖P|𝐖=[G𝐖\colon𝐖N_G𝐖(P)],𝐖
+P𝐖\le𝐖N_G𝐖(P)𝐖\le𝐖G
+n_0𝐖𝐖=\frac{|𝐖G|}{|𝐖P|}𝐖=[G𝐖\colon𝐖P]𝐖=[G𝐖\colon𝐖N_G𝐖(P)][N_G𝐖(P)𝐖\colon𝐖P]𝐖=n_p𝐖[N_G𝐖(P)𝐖\colon𝐖P]𝐖.
+n_p𝐖𝐖\mid𝐖n_0𝐖,𝐖
 G
 G
 \{e\}
 p
-n_p =1
+n_p𝐖𝐖=1
 p
-n_p =1
+n_p𝐖𝐖=1
 P
 p
-g \in G,
-gPg^{ -1}
+g𝐖\in𝐖G,𝐖
+gPg^{𝐖-1}𝐖
 p
-P =gPg^{ -1}
-g \in G,
-P \trianglelefteq G .
+P𝐖=gPg^{𝐖-1}𝐖
+g𝐖\in𝐖G,𝐖
+P𝐖\trianglelefteq𝐖G𝐖.
 P
 p
 Q
 p
-Q =gPg^{ -1}
-g \in G .
+Q𝐖=gPg^{𝐖-1}𝐖
+g𝐖\in𝐖G𝐖.
 P
-Q =P,
-n_p =1.
-G_1
-G_2,
-G_1 \times G_2,
+Q𝐖=P,𝐖
+n_p𝐖𝐖=1.
+G_1𝐖
+G_2𝐖,𝐖
+G_1𝐖𝐖\times𝐖G_2𝐖,𝐖
 G
-H,
+H,𝐖
 K
 H
 K
-H \cap K =\{e\}
-G =HK( =KH)
-H \times K \to HK =G
-(h, k) \mapsto hk
+H𝐖\cap𝐖K𝐖=\{e\}
+G𝐖=HK(𝐖=KH)
+H𝐖\times𝐖K𝐖\to𝐖HK𝐖=G
+(h,𝐖k)𝐖\mapsto𝐖hk
 G
 H
-K .
-\varphi \colon H \times K \to G
-\varphi ((h, k)) =hk .
-\varphi
-hk =h'k' \iff (h')^{ -1} h =k'k^{ -1},
-H \cap K =\{e\},
-(h')^{ -1} h =k'k^{ -1} =e,
-(h, k) =(h', k') .
-\varphi
-\varphi ((h_1, k_1)(h_2, k_2)) & \lt mi/> =\varphi ((h_1 h_2, k_1 k_2)) =h_1 h_2 k_1 k_2 \\ \varphi ((h_1, k_1))\varphi ((h_2, k_2)) & \lt mi/> =h_1 k_1 h_2 k_2 .
-h_1 h_2 k_1 k_2 =h_1 k_1 h_2 k_2 \iff h_2 k_1 =k_1 h_2
-h_i \in H
-k_i \in K .
-HK =KH
+K𝐖.
+\varphi𝐖𝐖\colon𝐖H𝐖\times𝐖K𝐖\to𝐖G
+\varphi𝐖((h,𝐖k))𝐖=hk𝐖.
+\varphi𝐖
+hk𝐖=h'k'𝐖\iff𝐖(h')^{𝐖-1}𝐖h𝐖=k'k^{𝐖-1}𝐖,𝐖
+H𝐖\cap𝐖K𝐖=\{e\},𝐖
+(h')^{𝐖-1}𝐖h𝐖=k'k^{𝐖-1}𝐖𝐖=e,𝐖
+(h,𝐖k)𝐖=(h',𝐖k')𝐖.
+\varphi𝐖
+\varphi𝐖((h_1𝐖,𝐖k_1𝐖)(h_2𝐖,𝐖k_2𝐖))𝐖&𝐖\lt𝐖mi/>𝐖=\varphi𝐖((h_1𝐖h_2𝐖,𝐖k_1𝐖k_2𝐖))𝐖=h_1𝐖h_2𝐖k_1𝐖k_2𝐖𝐖\\𝐖\varphi𝐖((h_1𝐖,𝐖k_1𝐖))\varphi𝐖((h_2𝐖,𝐖k_2𝐖))𝐖&𝐖\lt𝐖mi/>𝐖=h_1𝐖k_1𝐖h_2𝐖k_2𝐖𝐖.
+h_1𝐖h_2𝐖k_1𝐖k_2𝐖𝐖=h_1𝐖k_1𝐖h_2𝐖k_2𝐖𝐖\iff𝐖h_2𝐖k_1𝐖𝐖=k_1𝐖h_2𝐖
+h_i𝐖𝐖\in𝐖H
+k_i𝐖𝐖\in𝐖K𝐖.
+HK𝐖=KH
 G
-hk =kh \iff h^{ -1} k^{ -1} hk =e,
-h^{ -1} k^{ -1} hk & \lt mi/> =(h^{ -1} k^{ -1} h)k \in K \\ h^{ -1} k^{ -1} hk & \lt mi/> =h^{ -1} (k^{ -1} hk) \in H
-H \cap K =\{e\},
-\varphi
-Z_n
-n,
-Z_n \cong \mathbb Z /n\mathbb Z .
-Z_m \times Z_n \cong Z_{mn} \~iff\~\gcd (m, n) =1.
-d =\gcd (m, n),
-\frac{mn}{d} =m\frac{n}{d} =n\frac{m}{d}
-Z_m \times Z_n
-mn/d .
-d >1,
+hk𝐖=kh𝐖\iff𝐖h^{𝐖-1}𝐖k^{𝐖-1}𝐖hk𝐖=e,𝐖
+h^{𝐖-1}𝐖k^{𝐖-1}𝐖hk𝐖&𝐖\lt𝐖mi/>𝐖=(h^{𝐖-1}𝐖k^{𝐖-1}𝐖h)k𝐖\in𝐖K𝐖\\𝐖h^{𝐖-1}𝐖k^{𝐖-1}𝐖hk𝐖&𝐖\lt𝐖mi/>𝐖=h^{𝐖-1}𝐖(k^{𝐖-1}𝐖hk)𝐖\in𝐖H
+H𝐖\cap𝐖K𝐖=\{e\},𝐖
+\varphi𝐖
+Z_n𝐖
+n,𝐖
+Z_n𝐖𝐖\cong𝐖\mathbb𝐖Z𝐖/n\mathbb𝐖Z𝐖𝐖.
+Z_m𝐖𝐖\times𝐖Z_n𝐖𝐖\cong𝐖Z_{mn}𝐖\~iff\~\gcd𝐖(m,𝐖n)𝐖=1.
+d𝐖=\gcd𝐖(m,𝐖n),𝐖
+\frac{mn}{d}𝐖=m\frac{n}{d}𝐖=n\frac{m}{d}
+Z_m𝐖𝐖\times𝐖Z_n𝐖
+mn/d𝐖.
+d𝐖>1,𝐖
 mn
-Z_m \times Z_n,
-d =1.
-x \in Z_m
+Z_m𝐖𝐖\times𝐖Z_n𝐖,𝐖
+d𝐖=1.
+x𝐖\in𝐖Z_m𝐖
 m
-y \in Z_n
-n,
-z =(x, y) \in Z_m \times Z_n .
-z =(x, y) =(x, e)(e, y) =(e, y)(x, e)
+y𝐖\in𝐖Z_n𝐖
+n,𝐖
+z𝐖=(x,𝐖y)𝐖\in𝐖Z_m𝐖𝐖\times𝐖Z_n𝐖𝐖.
+z𝐖=(x,𝐖y)𝐖=(x,𝐖e)(e,𝐖y)𝐖=(e,𝐖y)(x,𝐖e)
 z
-mn .
+mn𝐖.
 z
-mn .
-\ell
-z .
-z^\ell =(x^\ell, y^\ell) =(e, e) .
+mn𝐖.
+\ell𝐖
+z𝐖.
+z^\ell𝐖𝐖𝐖=(x^\ell𝐖𝐖,𝐖y^\ell𝐖𝐖)𝐖=(e,𝐖e)𝐖.
 m
-x,
-m \mid \ell,
+x,𝐖
+m𝐖\mid𝐖\ell𝐖,𝐖
 n
-y,
-n \mid \ell .
-d =\gcd (m, n) =1
-mn \mid \ell .
-\ell =mn
-Z_m \times Z_n
-mn,
-Z_m \times Z_n \cong Z_{mn}
-p \lt q
-p \nmid (q -1) .
+y,𝐖
+n𝐖\mid𝐖\ell𝐖𝐖.
+d𝐖=\gcd𝐖(m,𝐖n)𝐖=1
+mn𝐖\mid𝐖\ell𝐖𝐖.
+\ell𝐖𝐖=mn
+Z_m𝐖𝐖\times𝐖Z_n𝐖
+mn,𝐖
+Z_m𝐖𝐖\times𝐖Z_n𝐖𝐖\cong𝐖Z_{mn}𝐖
+p𝐖\lt𝐖q
+p𝐖\nmid𝐖(q𝐖-1)𝐖.
 pq
-G .
-H_p
-H_q
+G𝐖.
+H_p𝐖
+H_q𝐖
 p
 q
-G .
-H_p \cong Z_p
-H_q \cong Z_q .
+G𝐖.
+H_p𝐖𝐖\cong𝐖Z_p𝐖
+H_q𝐖𝐖\cong𝐖Z_q𝐖𝐖.
 G
-H_p
-H_q .
-| H_p H_q | =pq,
-G =H_p H_q .
-[G \colon H_q] =p
-G,
-n_p =n_q =1.
-n_p \equiv 1( modp)\~and\~n_p \mid q, \~while\~n_q \equiv 1( modq)\~and\~n_q \mid p .
-n_q \mid p,
-n_q =1
-p .
-n_q =p,
-n_q =p \equiv 1( modq)
-q \mid (p -1) .
-p \lt q
-n_q =1
-H_q
-n_p =1
-q .
-n_p =q,
-n_p =q \equiv 1( modp),
-p \mid (q -1),
-G,
-G \cong H_p \times H_q \cong Z_p \times Z_q \cong Z_{pq}
-p \nmid (q -1)
-6 =2 \cdot 3 .
-2 \mid (3 -1)
-G =S_3,
-H_3
-n_2 =3,
-S_3 \not\cong H_2 \times H_3
-S_3
-G =\mathbb Z /6\mathbb Z,
-G \cong H_2 \times H_3 .
-q,
-2 \mid (q -1),
+H_p𝐖
+H_q𝐖𝐖.
+|𝐖H_p𝐖H_q𝐖|𝐖=pq,𝐖
+G𝐖=H_p𝐖H_q𝐖𝐖.
+[G𝐖\colon𝐖H_q𝐖]𝐖=p
+G,𝐖
+n_p𝐖𝐖=n_q𝐖𝐖=1.
+n_p𝐖𝐖\equiv𝐖1(𝐖modp)\~and\~n_p𝐖𝐖\mid𝐖q,𝐖\~while\~n_q𝐖𝐖\equiv𝐖1(𝐖modq)\~and\~n_q𝐖𝐖\mid𝐖p𝐖.
+n_q𝐖𝐖\mid𝐖p,𝐖
+n_q𝐖𝐖=1
+p𝐖.
+n_q𝐖𝐖=p,𝐖
+n_q𝐖𝐖=p𝐖\equiv𝐖1(𝐖modq)
+q𝐖\mid𝐖(p𝐖-1)𝐖.
+p𝐖\lt𝐖q
+n_q𝐖𝐖=1
+H_q𝐖
+n_p𝐖𝐖=1
+q𝐖.
+n_p𝐖𝐖=q,𝐖
+n_p𝐖𝐖=q𝐖\equiv𝐖1(𝐖modp),𝐖
+p𝐖\mid𝐖(q𝐖-1),𝐖
+G,𝐖
+G𝐖\cong𝐖H_p𝐖𝐖\times𝐖H_q𝐖𝐖\cong𝐖Z_p𝐖𝐖\times𝐖Z_q𝐖𝐖\cong𝐖Z_{pq}𝐖
+p𝐖\nmid𝐖(q𝐖-1)
+6𝐖=2𝐖\cdot𝐖3𝐖.
+2𝐖\mid𝐖(3𝐖-1)
+G𝐖=S_3𝐖,𝐖
+H_3𝐖
+n_2𝐖𝐖=3,𝐖
+S_3𝐖𝐖\not\cong𝐖H_2𝐖𝐖\times𝐖H_3𝐖
+S_3𝐖
+G𝐖=\mathbb𝐖Z𝐖/6\mathbb𝐖Z𝐖,𝐖
+G𝐖\cong𝐖H_2𝐖𝐖\times𝐖H_3𝐖𝐖.
+q,𝐖
+2𝐖\mid𝐖(q𝐖-1),𝐖
 2q
 2n
-n \ge 3.
+n𝐖\ge𝐖3.
 G
-H, K
-G =HK,
-H \cap K =\{e\}
+H,𝐖K
+G𝐖=HK,𝐖
+H𝐖\cap𝐖K𝐖=\{e\}
 H
 K
 G
 H
-K .
-\varphi \colon H \times K \to G
-(h, k) \mapsto hk
+K𝐖.
+\varphi𝐖𝐖\colon𝐖H𝐖\times𝐖K𝐖\to𝐖G
+(h,𝐖k)𝐖\mapsto𝐖hk
 G
 n
-n =p_1^{e_1} \cdots p_r^{e_r} .
-H_i
-p_i
-G .
-G \cong H_1 \times \cdots \times H_r .
-r .
+n𝐖=p_1^{e_1𝐖}𝐖\cdots𝐖p_r^{e_r𝐖}𝐖𝐖.
+H_i𝐖
+p_i𝐖
+G𝐖.
+G𝐖\cong𝐖H_1𝐖𝐖\times𝐖\cdots𝐖𝐖\times𝐖H_r𝐖𝐖.
+r𝐖.
 G
 G
-r =1
-r =2
-r =3 .
-H \colon =H_1 H_2 \cong H_1 \times H_2 .
+r𝐖=1
+r𝐖=2
+r𝐖=3𝐖.
+H𝐖\colon𝐖=H_1𝐖H_2𝐖𝐖\cong𝐖H_1𝐖𝐖\times𝐖H_2𝐖𝐖.
 H
 G
-H \cap H_3 =\{e\}
-G =HH_3 \cong H \times H_3 \cong H_1 \times H_2 \times H_3 .
-r \ge 4,
-H \colon =H_1 \cdots H_{r -1} \cong H_1 \times \cdots \times H_{r -1} .
-G =HH_r \cong H \times H_r
+H𝐖\cap𝐖H_3𝐖𝐖=\{e\}
+G𝐖=HH_3𝐖𝐖\cong𝐖H𝐖\times𝐖H_3𝐖𝐖\cong𝐖H_1𝐖𝐖\times𝐖H_2𝐖𝐖\times𝐖H_3𝐖𝐖.
+r𝐖\ge𝐖4,𝐖
+H𝐖\colon𝐖=H_1𝐖\cdots𝐖H_{r𝐖-1}𝐖𝐖\cong𝐖H_1𝐖𝐖\times𝐖\cdots𝐖𝐖\times𝐖H_{r𝐖-1}𝐖𝐖.
+G𝐖=HH_r𝐖𝐖\cong𝐖H𝐖\times𝐖H_r𝐖
 p
 p
 G
-p^n
+p^n𝐖
 p
-n \ge 1 .
-G \cong Z_{p^{a_1}} \times Z_{p^{a_2}} \times \cdots \times Z_{p^{a_r}}
-a_1 \ge a_2 \ge \cdots \ge a_r \ge 1
-\sum_{i =1}^r a_i =n .
-H \cong Z_{p^{b_1}} \times Z_{p^{b_2}} \times \cdots \times Z_{p^{b_s}}
-b_1 \ge b_2 \ge \cdots \ge b_s \ge 1
-\sum_{i =1}^s b_i =n,
-G \cong H
-r =s
-a_i =b_i
-1 \le i \le r .
-p^{a_i},
-G .
-a_1 \ge a_2 \ge \cdots \ge a_r \ge 1
-\sum_{i =1}^r a_i =n
-n .
-p(n),
-n .
-p(0) \colon =1; p(1) =1; p(2) =2; p(5) =7; p(10) =42, \ldots .
-p(20) & \lt mi/> =627 \\ p(40) & \lt mi/> =37338 \\ p(100) & \lt mi/> =190,569,292 \\ p(200) & \lt mi/> =3,972,999,029,388
-p(n) \sim \frac{e^{\kappa \sqrt{n}}}{4n\sqrt{3}}
-n \to \infty
-\kappa =\pi \sqrt{2/3},
-\prod_{m =1}^\infty (\frac{1}{1 -x^m}) =\sum_{n =0}^\infty p(n)x^n .
-p^5,
-p^5 .
-5 =4 +1 =3 +2 =3 +1 +1 =2 +2 +1 =2 +1 +1 +1 =1 +1 +1 +1 +1
-p(5) =7,
-p^a
+n𝐖\ge𝐖1𝐖.
+G𝐖\cong𝐖Z_{p^{a_1𝐖}𝐖}𝐖𝐖\times𝐖Z_{p^{a_2𝐖}𝐖}𝐖𝐖\times𝐖\cdots𝐖𝐖\times𝐖Z_{p^{a_r𝐖}𝐖}𝐖
+a_1𝐖𝐖\ge𝐖a_2𝐖𝐖\ge𝐖\cdots𝐖𝐖\ge𝐖a_r𝐖𝐖\ge𝐖1
+\sum𝐖_{i𝐖=1}^r𝐖a_i𝐖𝐖=n𝐖.
+H𝐖\cong𝐖Z_{p^{b_1𝐖}𝐖}𝐖𝐖\times𝐖Z_{p^{b_2𝐖}𝐖}𝐖𝐖\times𝐖\cdots𝐖𝐖\times𝐖Z_{p^{b_s𝐖}𝐖}𝐖
+b_1𝐖𝐖\ge𝐖b_2𝐖𝐖\ge𝐖\cdots𝐖𝐖\ge𝐖b_s𝐖𝐖\ge𝐖1
+\sum𝐖_{i𝐖=1}^s𝐖b_i𝐖𝐖=n,𝐖
+G𝐖\cong𝐖H
+r𝐖=s
+a_i𝐖𝐖=b_i𝐖
+1𝐖\le𝐖i𝐖\le𝐖r𝐖.
+p^{a_i𝐖}𝐖,𝐖
+G𝐖.
+a_1𝐖𝐖\ge𝐖a_2𝐖𝐖\ge𝐖\cdots𝐖𝐖\ge𝐖a_r𝐖𝐖\ge𝐖1
+\sum𝐖_{i𝐖=1}^r𝐖a_i𝐖𝐖=n
+n𝐖.
+p(n),𝐖
+n𝐖.
+p(0)𝐖\colon𝐖=1;𝐖p(1)𝐖=1;𝐖p(2)𝐖=2;𝐖p(5)𝐖=7;𝐖p(10)𝐖=42,𝐖\ldots𝐖𝐖.
+p(20)𝐖&𝐖\lt𝐖mi/>𝐖=627𝐖\\𝐖p(40)𝐖&𝐖\lt𝐖mi/>𝐖=37338𝐖\\𝐖p(100)𝐖&𝐖\lt𝐖mi/>𝐖=190,569,292𝐖\\𝐖p(200)𝐖&𝐖\lt𝐖mi/>𝐖=3,972,999,029,388
+p(n)𝐖\sim𝐖\frac{e^{\kappa𝐖\sqrt{n}}𝐖}{4n\sqrt{3}}
+n𝐖\to𝐖\infty𝐖
+\kappa𝐖𝐖=\pi𝐖\sqrt{2/3},𝐖
+\prod𝐖_{m𝐖=1}^\infty𝐖𝐖(\frac{1}{1𝐖-x^m𝐖})𝐖=\sum𝐖_{n𝐖=0}^\infty𝐖𝐖p(n)x^n𝐖𝐖.
+p^5𝐖,𝐖
+p^5𝐖𝐖.
+5𝐖=4𝐖+1𝐖=3𝐖+2𝐖=3𝐖+1𝐖+1𝐖=2𝐖+2𝐖+1𝐖=2𝐖+1𝐖+1𝐖+1𝐖=1𝐖+1𝐖+1𝐖+1𝐖+1
+p(5)𝐖=7,𝐖
+p^a𝐖
 G
-\~ & Z_{p^5} \\ \~ & Z_{p^4} \times Z_p \\ \~ & Z_{p^3} \times Z_{p^2} \\ \~ & Z_{p^3} \times Z_p \times Z_p \\ \~ & Z_{p^2} \times Z_{p^2} \times Z_p \\ \~ & Z_{p^2} \times Z_p \times Z_p \times Z_p \\ \~ & Z_p \times Z_p \times Z_p \times Z_p \times Z_p .
-Z_{n_1} \times Z_{n_2} \times \cdots \times Z_{n_r}
-n_1 \mid n_2 \mid \cdots \mid n_r \ge 2 .
-| G| =n_1 n_2 \cdots n_r .
-n_i
-G .
+\~𝐖&𝐖Z_{p^5𝐖}𝐖𝐖\\𝐖\~𝐖&𝐖Z_{p^4𝐖}𝐖𝐖\times𝐖Z_p𝐖𝐖\\𝐖\~𝐖&𝐖Z_{p^3𝐖}𝐖𝐖\times𝐖Z_{p^2𝐖}𝐖𝐖\\𝐖\~𝐖&𝐖Z_{p^3𝐖}𝐖𝐖\times𝐖Z_p𝐖𝐖\times𝐖Z_p𝐖𝐖\\𝐖\~𝐖&𝐖Z_{p^2𝐖}𝐖𝐖\times𝐖Z_{p^2𝐖}𝐖𝐖\times𝐖Z_p𝐖𝐖\\𝐖\~𝐖&𝐖Z_{p^2𝐖}𝐖𝐖\times𝐖Z_p𝐖𝐖\times𝐖Z_p𝐖𝐖\times𝐖Z_p𝐖𝐖\\𝐖\~𝐖&𝐖Z_p𝐖𝐖\times𝐖Z_p𝐖𝐖\times𝐖Z_p𝐖𝐖\times𝐖Z_p𝐖𝐖\times𝐖Z_p𝐖𝐖.
+Z_{n_1𝐖}𝐖𝐖\times𝐖Z_{n_2𝐖}𝐖𝐖\times𝐖\cdots𝐖𝐖\times𝐖Z_{n_r𝐖}𝐖
+n_1𝐖𝐖\mid𝐖n_2𝐖𝐖\mid𝐖\cdots𝐖𝐖\mid𝐖n_r𝐖𝐖\ge𝐖2𝐖.
+|𝐖G|𝐖=n_1𝐖n_2𝐖\cdots𝐖n_r𝐖𝐖.
+n_i𝐖
+G𝐖.
 p
-Z_{20} \times Z_{300} & \lt mi/> \cong (Z_4 \times Z_5) \times (Z_4 \times Z_3 \times Z_{25}) \\ \~ & \lt mi/> \cong (Z_4 \times Z_4) \times Z_3 \times (Z_5 \times Z_{25}) \\ \~ & \lt mi/> \cong H_2 \times H_3 \times H_5 \~(Sylow\space subgroups)\~
-(Z_p \times Z_{p^2} \times Z_{p^3}) \times (Z_q \times Z_{q^5}) & \lt mi/> \cong (Z_p) \times (Z_{p^2} \times Z_q) \times (Z_{p^3} \times Z_{q^5}) \\ \~ & \lt mi/> \cong Z_p \times Z_{p^2 q} \times Z_{p^3 q^5} =Z_{n_1} \times Z_{n_2} \times Z_{n_3} .
-G \cong Z_{n_1} \times Z_{n_2} \times \cdots \times Z_{n_r}
-n_1 \mid n_2 \mid \cdots \mid n_r \ge 2,
-n =n_1 \cdots n_r
-n .
-n_r .
-6125 =5^3 \cdot 7^2 .
+Z_{20}𝐖𝐖\times𝐖Z_{300}𝐖𝐖&𝐖\lt𝐖mi/>𝐖\cong𝐖(Z_4𝐖𝐖\times𝐖Z_5𝐖)𝐖\times𝐖(Z_4𝐖𝐖\times𝐖Z_3𝐖𝐖\times𝐖Z_{25}𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\cong𝐖(Z_4𝐖𝐖\times𝐖Z_4𝐖)𝐖\times𝐖Z_3𝐖𝐖\times𝐖(Z_5𝐖𝐖\times𝐖Z_{25}𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\cong𝐖H_2𝐖𝐖\times𝐖H_3𝐖𝐖\times𝐖H_5𝐖\~(Sylow\space𝐖subgroups)\~
+(Z_p𝐖𝐖\times𝐖Z_{p^2𝐖}𝐖𝐖\times𝐖Z_{p^3𝐖}𝐖)𝐖\times𝐖(Z_q𝐖𝐖\times𝐖Z_{q^5𝐖}𝐖)𝐖&𝐖\lt𝐖mi/>𝐖\cong𝐖(Z_p𝐖)𝐖\times𝐖(Z_{p^2𝐖}𝐖𝐖\times𝐖Z_q𝐖)𝐖\times𝐖(Z_{p^3𝐖}𝐖𝐖\times𝐖Z_{q^5𝐖}𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\cong𝐖Z_p𝐖𝐖\times𝐖Z_{p^2𝐖q}𝐖𝐖\times𝐖Z_{p^3𝐖q^5𝐖}𝐖𝐖=Z_{n_1𝐖}𝐖𝐖\times𝐖Z_{n_2𝐖}𝐖𝐖\times𝐖Z_{n_3𝐖}𝐖𝐖.
+G𝐖\cong𝐖Z_{n_1𝐖}𝐖𝐖\times𝐖Z_{n_2𝐖}𝐖𝐖\times𝐖\cdots𝐖𝐖\times𝐖Z_{n_r𝐖}𝐖
+n_1𝐖𝐖\mid𝐖n_2𝐖𝐖\mid𝐖\cdots𝐖𝐖\mid𝐖n_r𝐖𝐖\ge𝐖2,𝐖
+n𝐖=n_1𝐖\cdots𝐖n_r𝐖
+n𝐖.
+n_r𝐖𝐖.
+6125𝐖=5^3𝐖𝐖\cdot𝐖7^2𝐖𝐖.
 G
-G \cong H_5 \times H_7
-| H_5 | =5^3
-| H_7 | =7^2 .
-Partitions\space of\space 3\colon \~ & 3 =2 +1 =1 +1 +1 \\ Partitions\space of\space 2\colon \~ & 2 =1 +1
-H_5 \cong Z_{5^3} & \~or\~Z_{5^2} \times Z_5, \~or\~Z_5 \times Z_5 \times Z_5 \\ H_7 \cong Z_{7^2} & \~or\~Z_7 \times Z_7 .
-\~ & \mathbb Z_{5^3} \times \mathbb Z_{7^2} & \~ & \mathbb Z_{6125} \\ \~ & \mathbb Z_{5^3} \times \mathbb Z_7 \times \mathbb Z_7 & \~ & \mathbb Z_7 \times \mathbb Z_{875} \\ \~ & \mathbb Z_5 \times \mathbb Z_{5^2} \times \mathbb Z_{7^2} & \~ & \mathbb Z_5 \times \mathbb Z_{1225} \\ \~ & \mathbb Z_5 \times \mathbb Z_{5^2} \times \mathbb Z_7 \times \mathbb Z_7 & \~ & \mathbb Z_{35} \times \mathbb Z_{175} \\ \~ & \mathbb Z_5 \times \mathbb Z_5 \times \mathbb Z_5 \times \mathbb Z_{7^2} & \~ & \mathbb Z_5 \times \mathbb Z_5 \times \mathbb Z_{245} \\ \~ & \mathbb Z_5 \times \mathbb Z_5 \times \mathbb Z_5 \times \mathbb Z_7 \times \mathbb Z_7 & \~ & \mathbb Z_5 \times \mathbb Z_{35} \times \mathbb Z_{35} \\ \~ & elementary\space divisors & \~ & invariant\space factors
-G =Z_{25} \times Z_{245}
-R, S
-\varphi \colon R \to S
-\ker \varphi \colon =\{r \in R \mid \varphi (r) =0\},
-R .
-\varphi \colon R \to S
-I \subseteq \ker \varphi,
-\varphi_\ast \colon R/I \to S
-\varphi_\ast \circ \pi =\varphi .
-\pi \colon R \to R/I
-R/\ker \varphi \cong Im\varphi .
-R, S
-\varphi \colon R \to S
-\varphi (1_R)
-S,
-\varphi (1_R) =1_S
-S .
-s \colon =\varphi (1_R) =\varphi (1_R \cdot 1_R) =\varphi (1_R)\varphi (1_R) =s^2
-\varphi (1_R)
-\varphi (1_R)(\varphi (1_R) -1_S) =0
+G𝐖\cong𝐖H_5𝐖𝐖\times𝐖H_7𝐖
+|𝐖H_5𝐖|𝐖=5^3𝐖
+|𝐖H_7𝐖|𝐖=7^2𝐖𝐖.
+Partitions\space𝐖of\space𝐖3\colon𝐖\~𝐖&𝐖3𝐖=2𝐖+1𝐖=1𝐖+1𝐖+1𝐖\\𝐖Partitions\space𝐖of\space𝐖2\colon𝐖\~𝐖&𝐖2𝐖=1𝐖+1
+H_5𝐖𝐖\cong𝐖Z_{5^3𝐖}𝐖𝐖&𝐖\~or\~Z_{5^2𝐖}𝐖𝐖\times𝐖Z_5𝐖,𝐖\~or\~Z_5𝐖𝐖\times𝐖Z_5𝐖𝐖\times𝐖Z_5𝐖𝐖\\𝐖H_7𝐖𝐖\cong𝐖Z_{7^2𝐖}𝐖𝐖&𝐖\~or\~Z_7𝐖𝐖\times𝐖Z_7𝐖𝐖.
+\~𝐖&𝐖\mathbb𝐖Z𝐖_{5^3𝐖}𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_{7^2𝐖}𝐖𝐖&𝐖\~𝐖&𝐖\mathbb𝐖Z𝐖_{6125}𝐖𝐖\\𝐖\~𝐖&𝐖\mathbb𝐖Z𝐖_{5^3𝐖}𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_7𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_7𝐖𝐖&𝐖\~𝐖&𝐖\mathbb𝐖Z𝐖_7𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_{875}𝐖𝐖\\𝐖\~𝐖&𝐖\mathbb𝐖Z𝐖_5𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_{5^2𝐖}𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_{7^2𝐖}𝐖𝐖&𝐖\~𝐖&𝐖\mathbb𝐖Z𝐖_5𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_{1225}𝐖𝐖\\𝐖\~𝐖&𝐖\mathbb𝐖Z𝐖_5𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_{5^2𝐖}𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_7𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_7𝐖𝐖&𝐖\~𝐖&𝐖\mathbb𝐖Z𝐖_{35}𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_{175}𝐖𝐖\\𝐖\~𝐖&𝐖\mathbb𝐖Z𝐖_5𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_5𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_5𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_{7^2𝐖}𝐖𝐖&𝐖\~𝐖&𝐖\mathbb𝐖Z𝐖_5𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_5𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_{245}𝐖𝐖\\𝐖\~𝐖&𝐖\mathbb𝐖Z𝐖_5𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_5𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_5𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_7𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_7𝐖𝐖&𝐖\~𝐖&𝐖\mathbb𝐖Z𝐖_5𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_{35}𝐖𝐖\times𝐖\mathbb𝐖Z𝐖_{35}𝐖𝐖\\𝐖\~𝐖&𝐖elementary\space𝐖divisors𝐖&𝐖\~𝐖&𝐖invariant\space𝐖factors
+G𝐖=Z_{25}𝐖𝐖\times𝐖Z_{245}𝐖
+R,𝐖S
+\varphi𝐖𝐖\colon𝐖R𝐖\to𝐖S
+\ker𝐖\varphi𝐖𝐖\colon𝐖=\{r𝐖\in𝐖R𝐖\mid𝐖\varphi𝐖(r)𝐖=0\},𝐖
+R𝐖.
+\varphi𝐖𝐖\colon𝐖R𝐖\to𝐖S
+I𝐖\subseteq𝐖\ker𝐖\varphi𝐖,𝐖
+\varphi𝐖_\ast𝐖𝐖𝐖\colon𝐖R/I𝐖\to𝐖S
+\varphi𝐖_\ast𝐖𝐖𝐖\circ𝐖\pi𝐖𝐖=\varphi𝐖𝐖.
+\pi𝐖𝐖\colon𝐖R𝐖\to𝐖R/I
+R/\ker𝐖\varphi𝐖𝐖\cong𝐖Im\varphi𝐖𝐖.
+R,𝐖S
+\varphi𝐖𝐖\colon𝐖R𝐖\to𝐖S
+\varphi𝐖(1_R𝐖)
+S,𝐖
+\varphi𝐖(1_R𝐖)𝐖=1_S𝐖
+S𝐖.
+s𝐖\colon𝐖=\varphi𝐖(1_R𝐖)𝐖=\varphi𝐖(1_R𝐖𝐖\cdot𝐖1_R𝐖)𝐖=\varphi𝐖(1_R𝐖)\varphi𝐖(1_R𝐖)𝐖=s^2𝐖
+\varphi𝐖(1_R𝐖)
+\varphi𝐖(1_R𝐖)(\varphi𝐖(1_R𝐖)𝐖-1_S𝐖)𝐖=0
 S
-\varphi (1_R) =1_S .
+\varphi𝐖(1_R𝐖)𝐖=1_S𝐖𝐖.
 A
 A[x]
 x
-A .
-a \in A .
-p \in A[x]
-p(x) =c_0 +c_1 (x -a) +\cdots +c_n (x -a)^n
-c_i \in A .
-A[x]/(x -a) \cong A
-p(x) =b_0 +b_1 x +\cdots +b_n x^n
-q(x) =p(x +a) .
+A𝐖.
+a𝐖\in𝐖A𝐖.
+p𝐖\in𝐖A[x]
+p(x)𝐖=c_0𝐖𝐖+c_1𝐖(x𝐖-a)𝐖+\cdots𝐖𝐖+c_n𝐖(x𝐖-a)^n𝐖
+c_i𝐖𝐖\in𝐖A𝐖.
+A[x]/(x𝐖-a)𝐖\cong𝐖A
+p(x)𝐖=b_0𝐖𝐖+b_1𝐖x𝐖+\cdots𝐖𝐖+b_n𝐖x^n𝐖
+q(x)𝐖=p(x𝐖+a)𝐖.
 q(x)
-q(x) =c_0 +c_1 x +\cdots +c_n x^n,
-c_i \in A .
-p(x) =q(x -a) =c_0 +c_1 (x -a) +\cdots +c_n (x -a)^n .
-ev_a \colon A[x] \to A
-p(x) \mapsto p(a) .
-ev_a
-p \in A[x]
+q(x)𝐖=c_0𝐖𝐖+c_1𝐖x𝐖+\cdots𝐖𝐖+c_n𝐖x^n𝐖,𝐖
+c_i𝐖𝐖\in𝐖A𝐖.
+p(x)𝐖=q(x𝐖-a)𝐖=c_0𝐖𝐖+c_1𝐖(x𝐖-a)𝐖+\cdots𝐖𝐖+c_n𝐖(x𝐖-a)^n𝐖𝐖.
+ev_a𝐖𝐖\colon𝐖A[x]𝐖\to𝐖A
+p(x)𝐖\mapsto𝐖p(a)𝐖.
+ev_a𝐖
+p𝐖\in𝐖A[x]
 p
-p(x) =c_0 +c_1 (x -a) +\cdots +c_n (x -a)^n .
-ev_a (p) =0 \iff p(a) =0 \iff c_0 =0 .
-\ker ev_a =(x -a),
-S, T
-R,
+p(x)𝐖=c_0𝐖𝐖+c_1𝐖(x𝐖-a)𝐖+\cdots𝐖𝐖+c_n𝐖(x𝐖-a)^n𝐖𝐖.
+ev_a𝐖(p)𝐖=0𝐖\iff𝐖p(a)𝐖=0𝐖\iff𝐖c_0𝐖𝐖=0𝐖.
+\ker𝐖ev_a𝐖𝐖=(x𝐖-a),𝐖
+S,𝐖T
+R,𝐖
 (S)
-(T) .
-(S) =(T) \iff S \subseteq (T)\~and\~T \subseteq (S),
-(S) \subseteq (T)
-S \subset (T) .
-f(x) =x -3
-g(x) =(x -3)(x -5) +7
-\mathbb Z [x] .
-I =(f, g)
-\mathbb Z [x]
-\mathbb Q [x] .
-\mathbb Z [x]
-\mathbb Q [x]
-I =(f, g) =(f, 7) .
-f, g \in (f, 7)
-f, 7 \in (f, g) .
-g =f(x -5) +7 \in (f, 7)
-7 =g -f(x -5) \in (f, g)
-I =(x -3, 7) .
-7 \in \mathbb Q^\times =\mathbb Q [x]^\times,
-\mathbb Q [x],
-I =\mathbb Q [x] .
-\mathbb Z [x],
+(T)𝐖.
+(S)𝐖=(T)𝐖\iff𝐖S𝐖\subseteq𝐖(T)\~and\~T𝐖\subseteq𝐖(S),𝐖
+(S)𝐖\subseteq𝐖(T)
+S𝐖\subset𝐖(T)𝐖.
+f(x)𝐖=x𝐖-3
+g(x)𝐖=(x𝐖-3)(x𝐖-5)𝐖+7
+\mathbb𝐖Z𝐖[x]𝐖.
+I𝐖=(f,𝐖g)
+\mathbb𝐖Z𝐖[x]
+\mathbb𝐖Q𝐖[x]𝐖.
+\mathbb𝐖Z𝐖[x]
+\mathbb𝐖Q𝐖[x]
+I𝐖=(f,𝐖g)𝐖=(f,𝐖7)𝐖.
+f,𝐖g𝐖\in𝐖(f,𝐖7)
+f,𝐖7𝐖\in𝐖(f,𝐖g)𝐖.
+g𝐖=f(x𝐖-5)𝐖+7𝐖\in𝐖(f,𝐖7)
+7𝐖=g𝐖-f(x𝐖-5)𝐖\in𝐖(f,𝐖g)
+I𝐖=(x𝐖-3,𝐖7)𝐖.
+7𝐖\in𝐖\mathbb𝐖Q𝐖^\times𝐖𝐖𝐖=\mathbb𝐖Q𝐖[x]^\times𝐖𝐖,𝐖
+\mathbb𝐖Q𝐖[x],𝐖
+I𝐖=\mathbb𝐖Q𝐖[x]𝐖.
+\mathbb𝐖Z𝐖[x],𝐖
 I
-\mathbb Z [x]/I =\mathbb Z [x]/(x -3, 7) \cong \mathbb Z /7\mathbb Z .
-h \cdot 7 +h' \cdot (x -3)
-h, h' \in \mathbb Z [x] .
-\mathbb Z
-I =n\mathbb Z =(n)
-n \in \mathbb Z .
+\mathbb𝐖Z𝐖[x]/I𝐖=\mathbb𝐖Z𝐖[x]/(x𝐖-3,𝐖7)𝐖\cong𝐖\mathbb𝐖Z𝐖/7\mathbb𝐖Z𝐖𝐖.
+h𝐖\cdot𝐖7𝐖+h'𝐖\cdot𝐖(x𝐖-3)
+h,𝐖h'𝐖\in𝐖\mathbb𝐖Z𝐖[x]𝐖.
+\mathbb𝐖Z𝐖
+I𝐖=n\mathbb𝐖Z𝐖𝐖=(n)
+n𝐖\in𝐖\mathbb𝐖Z𝐖𝐖.
 I
-\mathbb Z,
-I =n\mathbb Z
-\mathbb Z .
-n \in \mathbb Z .
-I =(n, x)
-\mathbb Z [x]
-n \not= \pm 1.
-n = \pm 1,
+\mathbb𝐖Z𝐖,𝐖
+I𝐖=n\mathbb𝐖Z𝐖
+\mathbb𝐖Z𝐖𝐖.
+n𝐖\in𝐖\mathbb𝐖Z𝐖𝐖.
+I𝐖=(n,𝐖x)
+\mathbb𝐖Z𝐖[x]
+n𝐖\not=𝐖𝐖\pm𝐖1.
+n𝐖=𝐖\pm𝐖1,𝐖
 I
-\mathbb Z [x],
-I =\mathbb Z [x] .
-n \not= \pm 1
-1 \notin I .
-1 =f \cdot n +g \cdot x
-f, g \in \mathbb Z [x] .
-g \cdot x
-f \cdot n +g \cdot x
-g,
-a_0
-f,
-1 =f \cdot n +g \cdot x,
-1 =a_0 \cdot n .
-a_0, n
-\mathbb Z [x]^\times =\mathbb Z^\times =\{ \pm 1\}
-I, J
+\mathbb𝐖Z𝐖[x],𝐖
+I𝐖=\mathbb𝐖Z𝐖[x]𝐖.
+n𝐖\not=𝐖𝐖\pm𝐖1
+1𝐖\notin𝐖I𝐖.
+1𝐖=f𝐖\cdot𝐖n𝐖+g𝐖\cdot𝐖x
+f,𝐖g𝐖\in𝐖\mathbb𝐖Z𝐖[x]𝐖.
+g𝐖\cdot𝐖x
+f𝐖\cdot𝐖n𝐖+g𝐖\cdot𝐖x
+g,𝐖
+a_0𝐖
+f,𝐖
+1𝐖=f𝐖\cdot𝐖n𝐖+g𝐖\cdot𝐖x,𝐖
+1𝐖=a_0𝐖𝐖\cdot𝐖n𝐖.
+a_0𝐖,𝐖n
+\mathbb𝐖Z𝐖[x]^\times𝐖𝐖𝐖=\mathbb𝐖Z𝐖^\times𝐖𝐖𝐖=\{𝐖\pm𝐖1\}
+I,𝐖J
 R
-I +J,
-IJ,
-I \cap J
+I𝐖+J,𝐖
+IJ,𝐖
+I𝐖\cap𝐖J
 R
 P
-R .
+R𝐖.
 P
 P
-a, b \in R,
-ab \in P,
-a \in P
-b \in P .
+a,𝐖b𝐖\in𝐖R,𝐖
+ab𝐖\in𝐖P,𝐖
+a𝐖\in𝐖P
+b𝐖\in𝐖P𝐖.
 P
 P
-I, J \subset R,
-IJ \subseteq P
-I \subseteq P
-J \subseteq P .
+I,𝐖J𝐖\subset𝐖R,𝐖
+IJ𝐖\subseteq𝐖P
+I𝐖\subseteq𝐖P
+J𝐖\subseteq𝐖P𝐖.
 R
 M
-R .
+R𝐖.
 M
 M
 I
 R
-M \subseteq I \subseteq R,
-I =M
-R .
+M𝐖\subseteq𝐖I𝐖\subseteq𝐖R,𝐖
+I𝐖=M
+R𝐖.
 R
-I, J
+I,𝐖J
 R
-I +J =R .
-M_1 \not= M_2
+I𝐖+J𝐖=R𝐖.
+M_1𝐖𝐖\not=𝐖M_2𝐖
 R
-M_i \subsetneq M_1 +M_2 \subseteq R
-M_i
-M_1 +M_2 =R .
-I =(x -2),
-J =(x +2)
+M_i𝐖𝐖\subsetneq𝐖M_1𝐖𝐖+M_2𝐖𝐖\subseteq𝐖R
+M_i𝐖
+M_1𝐖𝐖+M_2𝐖𝐖=R𝐖.
+I𝐖=(x𝐖-2),𝐖
+J𝐖=(x𝐖+2)
 R[x]
-R =\mathbb Z
-\mathbb Q .
-I, J
-\mathbb Q [x],
-\mathbb Z [x] .
-4 \in I +J .
-\mathbb Q [x],
-I +J =\mathbb Q [x] .
-\mathbb Z [x],
-I +J
+R𝐖=\mathbb𝐖Z𝐖
+\mathbb𝐖Q𝐖𝐖.
+I,𝐖J
+\mathbb𝐖Q𝐖[x],𝐖
+\mathbb𝐖Z𝐖[x]𝐖.
+4𝐖\in𝐖I𝐖+J𝐖.
+\mathbb𝐖Q𝐖[x],𝐖
+I𝐖+J𝐖=\mathbb𝐖Q𝐖[x]𝐖.
+\mathbb𝐖Z𝐖[x],𝐖
+I𝐖+J
 R
-I, J
-R .
-(I +J)(I \cap J) \subseteq IJ \subseteq I \cap J
-IJ \subset I \cap J
-I, J
-R .
-i \in I, j \in J, k \in I \cap J .
-(i +j)k \in IJ .
-ik \in IJ
-k \in J,
-jk \in JI
-k \in I,
-IJ =JI
+I,𝐖J
+R𝐖.
+(I𝐖+J)(I𝐖\cap𝐖J)𝐖\subseteq𝐖IJ𝐖\subseteq𝐖I𝐖\cap𝐖J
+IJ𝐖\subset𝐖I𝐖\cap𝐖J
+I,𝐖J
+R𝐖.
+i𝐖\in𝐖I,𝐖j𝐖\in𝐖J,𝐖k𝐖\in𝐖I𝐖\cap𝐖J𝐖.
+(i𝐖+j)k𝐖\in𝐖IJ𝐖.
+ik𝐖\in𝐖IJ
+k𝐖\in𝐖J,𝐖
+jk𝐖\in𝐖JI
+k𝐖\in𝐖I,𝐖
+IJ𝐖=JI
 R
-I, J
-IJ =I \cap J
-I +J +R,
-I \cap J \subseteq IJ \subseteq I \cap J .
+I,𝐖J
+IJ𝐖=I𝐖\cap𝐖J
+I𝐖+J𝐖+R,𝐖
+I𝐖\cap𝐖J𝐖\subseteq𝐖IJ𝐖\subseteq𝐖I𝐖\cap𝐖J𝐖.
 R
-I, J
-R/IJ =R/(I \cap J) \cong R/I \times R/J .
-IJ =I \cap J .
-R \to R/I \times R/J\~given\space by\~r \mapsto (r +I, r +J) .
-I \cap J .
-I, J
-I +J =R,
-i \in I,
-j \in J
-i +j =1.
-(a +I, b +J)
-r =bi +aj .
-r +I =a +I\~and\~r +J =b +J .
-r +I =a +I \iff r -a \in I \iff (bi +aj) -a \in I \iff a(j -1) \in I
-i +j =1,
-(j -1) =i \in I .
-b +J .
-m, n
-\mathbb Z,
-m\mathbb Z +n\mathbb Z =\mathbb Z,
-\mathbb Z /mn\mathbb Z \cong \mathbb Z /m\mathbb Z \times \mathbb Z /n\mathbb Z
-\mathbb Q [x]/(x^2 -4) \cong \mathbb Q [x]/(x -2) \times \mathbb Q [x]/(x +2) \cong \mathbb Q \times \mathbb Q .
+I,𝐖J
+R/IJ𝐖=R/(I𝐖\cap𝐖J)𝐖\cong𝐖R/I𝐖\times𝐖R/J𝐖.
+IJ𝐖=I𝐖\cap𝐖J𝐖.
+R𝐖\to𝐖R/I𝐖\times𝐖R/J\~given\space𝐖by\~r𝐖\mapsto𝐖(r𝐖+I,𝐖r𝐖+J)𝐖.
+I𝐖\cap𝐖J𝐖.
+I,𝐖J
+I𝐖+J𝐖=R,𝐖
+i𝐖\in𝐖I,𝐖
+j𝐖\in𝐖J
+i𝐖+j𝐖=1.
+(a𝐖+I,𝐖b𝐖+J)
+r𝐖=bi𝐖+aj𝐖.
+r𝐖+I𝐖=a𝐖+I\~and\~r𝐖+J𝐖=b𝐖+J𝐖.
+r𝐖+I𝐖=a𝐖+I𝐖\iff𝐖r𝐖-a𝐖\in𝐖I𝐖\iff𝐖(bi𝐖+aj)𝐖-a𝐖\in𝐖I𝐖\iff𝐖a(j𝐖-1)𝐖\in𝐖I
+i𝐖+j𝐖=1,𝐖
+(j𝐖-1)𝐖=i𝐖\in𝐖I𝐖.
+b𝐖+J𝐖.
+m,𝐖n
+\mathbb𝐖Z𝐖,𝐖
+m\mathbb𝐖Z𝐖𝐖+n\mathbb𝐖Z𝐖𝐖=\mathbb𝐖Z𝐖,𝐖
+\mathbb𝐖Z𝐖/mn\mathbb𝐖Z𝐖𝐖\cong𝐖\mathbb𝐖Z𝐖/m\mathbb𝐖Z𝐖𝐖\times𝐖\mathbb𝐖Z𝐖/n\mathbb𝐖Z𝐖
+\mathbb𝐖Q𝐖[x]/(x^2𝐖𝐖-4)𝐖\cong𝐖\mathbb𝐖Q𝐖[x]/(x𝐖-2)𝐖\times𝐖\mathbb𝐖Q𝐖[x]/(x𝐖+2)𝐖\cong𝐖\mathbb𝐖Q𝐖𝐖\times𝐖\mathbb𝐖Q𝐖𝐖.
 R
-P,
+P,𝐖
 M
-R .
+R𝐖.
 P
 R/P
 M
 R/M
 (0)
 (0)
-n \not= 0,
-n\mathbb Z
-\mathbb Z
-n\mathbb Z
-\mathbb Z
-n\mathbb Z =p\mathbb Z
+n𝐖\not=𝐖0,𝐖
+n\mathbb𝐖Z𝐖
+\mathbb𝐖Z𝐖
+n\mathbb𝐖Z𝐖
+\mathbb𝐖Z𝐖
+n\mathbb𝐖Z𝐖𝐖=p\mathbb𝐖Z𝐖
 p
 (x)
 R[x]
@@ -946,513 +946,513 @@ R
 R[x]
 R
 R
-a \in R .
-R \to R/(a)
-R[x] \to R/(a)[x]
-f(x) \in R[x]
-\overline{f}(x) \in R/(a)[x]
+a𝐖\in𝐖R𝐖.
+R𝐖\to𝐖R/(a)
+R[x]𝐖\to𝐖R/(a)[x]
+f(x)𝐖\in𝐖R[x]
+\overline{f}(x)𝐖\in𝐖R/(a)[x]
 f
-R/(a),
+R/(a),𝐖
 R
-a \in R,
-f(x) \in R[x] .
-R[x]/(f(x), a) \cong (R/(a))[x]/(\overline{f}(x)) .
-f(x) =x -3
-g(x) =(x -3)(x -5) +7
-\mathbb Z [x] .
-I =(f, g)
-\mathbb Z [x] .
-I =(f, g) =(f, 7) .
-\mathbb Z [x]/I =\mathbb Z [x]/(f(x), 7) \cong (\mathbb Z /7\mathbb Z)[x]/(\overline{f}(x)) =(\mathbb Z /7\mathbb Z)[x]/(x -\overline{3}) \cong \mathbb Z /7\mathbb Z
-\mathbb Z [x]/I
+a𝐖\in𝐖R,𝐖
+f(x)𝐖\in𝐖R[x]𝐖.
+R[x]/(f(x),𝐖a)𝐖\cong𝐖(R/(a))[x]/(\overline{f}(x))𝐖.
+f(x)𝐖=x𝐖-3
+g(x)𝐖=(x𝐖-3)(x𝐖-5)𝐖+7
+\mathbb𝐖Z𝐖[x]𝐖.
+I𝐖=(f,𝐖g)
+\mathbb𝐖Z𝐖[x]𝐖.
+I𝐖=(f,𝐖g)𝐖=(f,𝐖7)𝐖.
+\mathbb𝐖Z𝐖[x]/I𝐖=\mathbb𝐖Z𝐖[x]/(f(x),𝐖7)𝐖\cong𝐖(\mathbb𝐖Z𝐖/7\mathbb𝐖Z𝐖)[x]/(\overline{f}(x))𝐖=(\mathbb𝐖Z𝐖/7\mathbb𝐖Z𝐖)[x]/(x𝐖-\overline{3})𝐖\cong𝐖\mathbb𝐖Z𝐖/7\mathbb𝐖Z𝐖
+\mathbb𝐖Z𝐖[x]/I
 I
-\mathbb Z [x] .
-\varphi \colon
-R[x] \to (R/(a))[x] \to (R/(a))[x]/(\overline{f}(x)) .
-(a, f)
-a, f
-(a, f) \subseteq \ker \varphi .
-g(x) =b_0 +\cdots +b_n x^n \in R[x] .
-g \in \ker \varphi
-\overline{g} \in (\overline{f}(x)) .
-f(x) =c_0 +\cdots +c_m x^m \in R[x],
-\overline{g}(x) =\overline{f}(x) \cdot \overline{h}(x),
-\overline{h}(x) =\overline{a}_0 +\cdots +\overline{a}_d x^d .
-x^j
+\mathbb𝐖Z𝐖[x]𝐖.
+\varphi𝐖𝐖\colon𝐖
+R[x]𝐖\to𝐖(R/(a))[x]𝐖\to𝐖(R/(a))[x]/(\overline{f}(x))𝐖.
+(a,𝐖f)
+a,𝐖f
+(a,𝐖f)𝐖\subseteq𝐖\ker𝐖\varphi𝐖𝐖.
+g(x)𝐖=b_0𝐖𝐖+\cdots𝐖𝐖+b_n𝐖x^n𝐖𝐖\in𝐖R[x]𝐖.
+g𝐖\in𝐖\ker𝐖\varphi𝐖
+\overline{g}𝐖\in𝐖(\overline{f}(x))𝐖.
+f(x)𝐖=c_0𝐖𝐖+\cdots𝐖𝐖+c_m𝐖x^m𝐖𝐖\in𝐖R[x],𝐖
+\overline{g}(x)𝐖=\overline{f}(x)𝐖\cdot𝐖\overline{h}(x),𝐖
+\overline{h}(x)𝐖=\overline{a}_0𝐖𝐖+\cdots𝐖𝐖+\overline{a}_d𝐖x^d𝐖𝐖.
+x^j𝐖
 \overline{g}
-\overline{b}_j =\sum_{k =0}^j \overline{c}_k \overline{a}_{j -k},
-R/(a),
-b_j +aR =\sum_{k =0}^j c_k a_{j -k} +aR
-h(x) =a_0 +\cdots +a_d x^d \in R[x]
-b_j -\sum_{k =0}^j c_k a_{j -k}
+\overline{b}_j𝐖𝐖=\sum𝐖_{k𝐖=0}^j𝐖\overline{c}_k𝐖\overline{a}_{j𝐖-k}𝐖,𝐖
+R/(a),𝐖
+b_j𝐖𝐖+aR𝐖=\sum𝐖_{k𝐖=0}^j𝐖c_k𝐖a_{j𝐖-k}𝐖𝐖+aR
+h(x)𝐖=a_0𝐖𝐖+\cdots𝐖𝐖+a_d𝐖x^d𝐖𝐖\in𝐖R[x]
+b_j𝐖𝐖-\sum𝐖_{k𝐖=0}^j𝐖c_k𝐖a_{j𝐖-k}𝐖
 j
-f -gh
-aR .
-g -fh =\sum_{j =0}^n [b_j -\sum_{k =0}^j c_k a_{j -k}]x^j \in aR[x],
-g \in (a, f) \subseteq R[x] .
+f𝐖-gh
+aR𝐖.
+g𝐖-fh𝐖=\sum𝐖_{j𝐖=0}^n𝐖[b_j𝐖𝐖-\sum𝐖_{k𝐖=0}^j𝐖c_k𝐖a_{j𝐖-k}𝐖]x^j𝐖𝐖\in𝐖aR[x],𝐖
+g𝐖\in𝐖(a,𝐖f)𝐖\subseteq𝐖R[x]𝐖.
 R
-p, q \in R[x] \setminus \{0\} .
-\deg (pq) =\deg (p) +\deg (q) .
-R[x]^\times =R^\times .
+p,𝐖q𝐖\in𝐖R[x]𝐖\setminus𝐖\{0\}𝐖.
+\deg𝐖(pq)𝐖=\deg𝐖(p)𝐖+\deg𝐖(q)𝐖.
+R[x]^\times𝐖𝐖𝐖=R^\times𝐖𝐖𝐖.
 R[x]
 R
-R[x_1, \ldots, x_n] .
-R[x_1, \ldots, x_n],
+R[x_1𝐖,𝐖\ldots𝐖,𝐖x_n𝐖]𝐖.
+R[x_1𝐖,𝐖\ldots𝐖,𝐖x_n𝐖],𝐖
 n
 R
-S[x_n],
-S =R[x_1, \ldots, x_{n -1}] .
+S[x_n𝐖],𝐖
+S𝐖=R[x_1𝐖,𝐖\ldots𝐖,𝐖x_{n𝐖-1}𝐖]𝐖.
 n
-R[x, y]
-x^i y^j
-a_{ij} \in R \colon
-p(x, y) =\sum_{i, j} a_{ij} x^i y^j .
-p \in R[x, y]
-(R[x])[y],
-p(x, y) =\sum_{i, j} a_{ij} x^i y^j =\sum_k \phi_k (x)y^k =\phi_0 (x) +\phi_1 (x)y +\cdots +\phi_n (x)y^n,
-\phi_k (x) \in R[x] .
-\mathbb Z [x, y] \colon
-\mathbb Z [x, y] \colon & 2 +7y +4xy +3x^5 y \\ \mathbb Z [x][y] \colon & 2 +(7 +4x +3x^5)y \\ \mathbb Z [y][x] \colon & (2 +7y) +(4y)x +(3y)x^5
-y .
-\mathbb Q [x],
-x^2 -4
-x^2 +4
-x^2 +4y -y^2 -1
-\mathbb Q [x, y],
-x^2 -4
-\mathbb Q [y][x]
-x^2 -(y -1)^2 =(x -(y -1))(x +(y -1)) .
-a, b
+R[x,𝐖y]
+x^i𝐖y^j𝐖
+a_{ij}𝐖𝐖\in𝐖R𝐖\colon𝐖
+p(x,𝐖y)𝐖=\sum𝐖_{i,𝐖j}𝐖a_{ij}𝐖x^i𝐖y^j𝐖𝐖.
+p𝐖\in𝐖R[x,𝐖y]
+(R[x])[y],𝐖
+p(x,𝐖y)𝐖=\sum𝐖_{i,𝐖j}𝐖a_{ij}𝐖x^i𝐖y^j𝐖𝐖=\sum𝐖_k𝐖\phi𝐖_k𝐖(x)y^k𝐖𝐖=\phi𝐖_0𝐖(x)𝐖+\phi𝐖_1𝐖(x)y𝐖+\cdots𝐖𝐖+\phi𝐖_n𝐖(x)y^n𝐖,𝐖
+\phi𝐖_k𝐖(x)𝐖\in𝐖R[x]𝐖.
+\mathbb𝐖Z𝐖[x,𝐖y]𝐖\colon𝐖
+\mathbb𝐖Z𝐖[x,𝐖y]𝐖\colon𝐖𝐖&𝐖2𝐖+7y𝐖+4xy𝐖+3x^5𝐖y𝐖\\𝐖\mathbb𝐖Z𝐖[x][y]𝐖\colon𝐖𝐖&𝐖2𝐖+(7𝐖+4x𝐖+3x^5𝐖)y𝐖\\𝐖\mathbb𝐖Z𝐖[y][x]𝐖\colon𝐖𝐖&𝐖(2𝐖+7y)𝐖+(4y)x𝐖+(3y)x^5𝐖
+y𝐖.
+\mathbb𝐖Q𝐖[x],𝐖
+x^2𝐖𝐖-4
+x^2𝐖𝐖+4
+x^2𝐖𝐖+4y𝐖-y^2𝐖𝐖-1
+\mathbb𝐖Q𝐖[x,𝐖y],𝐖
+x^2𝐖𝐖-4
+\mathbb𝐖Q𝐖[y][x]
+x^2𝐖𝐖-(y𝐖-1)^2𝐖𝐖=(x𝐖-(y𝐖-1))(x𝐖+(y𝐖-1))𝐖.
+a,𝐖b
 R
-a =ubv
-u, v
-R .
-a =bv .
+a𝐖=ubv
+u,𝐖v
+R𝐖.
+a𝐖=bv𝐖.
 R
-I, J
+I,𝐖J
 R
-I +J =R .
+I𝐖+J𝐖=R𝐖.
 X
 X
-R \subseteq X \times X,
-(x, y) \in R,
-x \sim y
+R𝐖\subseteq𝐖X𝐖\times𝐖X,𝐖
+(x,𝐖y)𝐖\in𝐖R,𝐖
+x𝐖\sim𝐖y
 x
-y .
+y𝐖.
 X
-x \sim x
-(x, x) \in R
-x \in X .
-x \sim y,
-y \sim x,
-(x, y) \in R,
-(y, x) \in R .
-x \sim y
-y \sim z,
-x \sim z,
-(x, y), (y, z) \in R,
-(x, z) .
+x𝐖\sim𝐖x
+(x,𝐖x)𝐖\in𝐖R
+x𝐖\in𝐖X𝐖.
+x𝐖\sim𝐖y,𝐖
+y𝐖\sim𝐖x,𝐖
+(x,𝐖y)𝐖\in𝐖R,𝐖
+(y,𝐖x)𝐖\in𝐖R𝐖.
+x𝐖\sim𝐖y
+y𝐖\sim𝐖z,𝐖
+x𝐖\sim𝐖z,𝐖
+(x,𝐖y),𝐖(y,𝐖z)𝐖\in𝐖R,𝐖
+(x,𝐖z)𝐖.
 R
-d \colon R \setminus \{0\} \to \mathbb Z_{ \ge 0}
-a, b \in R
-b \not= 0,
-q, r \in R
-a =bq +r,
-r =0
-d(r) \lt d(b) .
+d𝐖\colon𝐖R𝐖\setminus𝐖\{0\}𝐖\to𝐖\mathbb𝐖Z𝐖_{𝐖\ge𝐖0}𝐖
+a,𝐖b𝐖\in𝐖R
+b𝐖\not=𝐖0,𝐖
+q,𝐖r𝐖\in𝐖R
+a𝐖=bq𝐖+r,𝐖
+r𝐖=0
+d(r)𝐖\lt𝐖d(b)𝐖.
 G
-x \in G .
+x𝐖\in𝐖G𝐖.
 n
-x^n =e
+x^n𝐖𝐖=e
 n
-x^n =e
-x \in G,
+x^n𝐖𝐖=e
+x𝐖\in𝐖G,𝐖
 n
 G
-\ast
+\ast𝐖
 G
-a, b \in G
-a \ast b \in G .
-\ast
-e \in G,
-e \ast g =g \ast e =g
-g \in G .
-g \in G,
-h \in G
-g \ast h =h \ast g =e .
+a,𝐖b𝐖\in𝐖G
+a𝐖\ast𝐖b𝐖\in𝐖G𝐖.
+\ast𝐖
+e𝐖\in𝐖G,𝐖
+e𝐖\ast𝐖g𝐖=g𝐖\ast𝐖e𝐖=g
+g𝐖\in𝐖G𝐖.
+g𝐖\in𝐖G,𝐖
+h𝐖\in𝐖G
+g𝐖\ast𝐖h𝐖=h𝐖\ast𝐖g𝐖=e𝐖.
 g
-g^{ -1} .
+g^{𝐖-1}𝐖𝐖.
 R
-a, b \in R,
-a, b
-d \in R
-d \mid a
-d \mid b
+a,𝐖b𝐖\in𝐖R,𝐖
+a,𝐖b
+d𝐖\in𝐖R
+d𝐖\mid𝐖a
+d𝐖\mid𝐖b
 d
-d' \mid a
-d' \mid b,
-d' \mid d,
-d,
+d'𝐖\mid𝐖a
+d'𝐖\mid𝐖b,𝐖
+d'𝐖\mid𝐖d,𝐖
+d,𝐖
 d
 R
-I \subseteq R
+I𝐖\subseteq𝐖R
 I
-R,
-R \cdot I \subseteq I
-I \cdot R \subset I .
+R,𝐖
+R𝐖\cdot𝐖I𝐖\subseteq𝐖I
+I𝐖\cdot𝐖R𝐖\subset𝐖I𝐖.
 R/I
 R
-s \in R
-s^2 =s .
-f \colon X \to Y
+s𝐖\in𝐖R
+s^2𝐖𝐖=s𝐖.
+f𝐖\colon𝐖X𝐖\to𝐖Y
 X
 Y
-x, x' \in X,
-f(x) =f(x')
-x =x' .
+x,𝐖x'𝐖\in𝐖X,𝐖
+f(x)𝐖=f(x')
+x𝐖=x'𝐖.
 F
-z =a +bi \in \mathbb C
-a, b \in \mathbb R
-i^2 = -1
-z,
-\overline{z} =a -bi .
-z \in \mathbb R,
-z =a =a +0i \in \mathbb C,
-z =\overline{z} .
+z𝐖=a𝐖+bi𝐖\in𝐖\mathbb𝐖C𝐖
+a,𝐖b𝐖\in𝐖\mathbb𝐖R𝐖
+i^2𝐖𝐖=𝐖-1
+z,𝐖
+\overline{z}𝐖=a𝐖-bi𝐖.
+z𝐖\in𝐖\mathbb𝐖R𝐖,𝐖
+z𝐖=a𝐖=a𝐖+0i𝐖\in𝐖\mathbb𝐖C𝐖,𝐖
+z𝐖=\overline{z}𝐖.
 absolutevalue
-z =a +bi
-| z| =\sqrt{a^2 +b^2} .
+z𝐖=a𝐖+bi
+|𝐖z|𝐖=\sqrt{a^2𝐖𝐖+b^2𝐖}𝐖.
 V
-F .
-\langle \cdot, \cdot \rangle \colon V \times V \to F
-u, v, w \in V
-\lambda \in F \colon
-\langle u +v, w \rangle = \langle u, w \rangle + \langle v, w \rangle
-\langle \lambda v, w \rangle =\lambda \langle v, w \rangle
-\overline{ \langle v, w \rangle} = \langle w, v \rangle,
-\langle v, v \rangle
-v \not= 0.
+F𝐖.
+𝐖\langle𝐖𝐖\cdot𝐖,𝐖𝐖\cdot𝐖𝐖\rangle𝐖𝐖\colon𝐖V𝐖\times𝐖V𝐖\to𝐖F
+u,𝐖v,𝐖w𝐖\in𝐖V
+\lambda𝐖𝐖\in𝐖F𝐖\colon𝐖
+𝐖\langle𝐖u𝐖+v,𝐖w𝐖\rangle𝐖𝐖=𝐖\langle𝐖u,𝐖w𝐖\rangle𝐖𝐖+𝐖\langle𝐖v,𝐖w𝐖\rangle𝐖
+𝐖\langle𝐖\lambda𝐖v,𝐖w𝐖\rangle𝐖𝐖=\lambda𝐖𝐖\langle𝐖v,𝐖w𝐖\rangle𝐖
+\overline{𝐖\langle𝐖v,𝐖w𝐖\rangle𝐖}𝐖=𝐖\langle𝐖w,𝐖v𝐖\rangle𝐖,𝐖
+𝐖\langle𝐖v,𝐖v𝐖\rangle𝐖
+v𝐖\not=𝐖0.
 V
-F =\mathbb R
-\mathbb C
-F =\mathbb R,
+F𝐖=\mathbb𝐖R𝐖
+\mathbb𝐖C𝐖
+F𝐖=\mathbb𝐖R𝐖,𝐖
 V
-F =\mathbb C,
+F𝐖=\mathbb𝐖C𝐖,𝐖
 V
 R
-\pi \in R
-\pi \not= 0,
-\pi \notin R^\times,
-\pi =ab,
+\pi𝐖𝐖\in𝐖R
+\pi𝐖𝐖\not=𝐖0,𝐖
+\pi𝐖𝐖\notin𝐖R^\times𝐖𝐖,𝐖
+\pi𝐖𝐖=ab,𝐖
 a
 b
-R .
-\delta_{ij} =\{1 & if\~i =j \\ 0 & otherwise. \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+R𝐖.
+\delta𝐖_{ij}𝐖𝐖=\{1𝐖&𝐖if\~i𝐖=j𝐖\\𝐖0𝐖&𝐖otherwise.𝐖\lt𝐖mo\space𝐖data-mjx-texclass="CLOSE"\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
 R
 M
-R .
+R𝐖.
 M
 M
 I
 R
-M \subseteq I \subseteq R,
-I =M
-R .
+M𝐖\subseteq𝐖I𝐖\subseteq𝐖R,𝐖
+I𝐖=M
+R𝐖.
 G
 H
-G .
+G𝐖.
 H
-G .
-gHg^{ -1} =H
-g \in G
-gH =Hg
-g \in G
-gHg^{ -1} \subseteq H
-g \in G
+G𝐖.
+gHg^{𝐖-1}𝐖𝐖=H
+g𝐖\in𝐖G
+gH𝐖=Hg
+g𝐖\in𝐖G
+gHg^{𝐖-1}𝐖𝐖\subseteq𝐖H
+g𝐖\in𝐖G
 G
 H
-G .
+G𝐖.
 H
 G
-N_G (H) =\{g \in G \mid gHg^{ -1} =H\} .
+N_G𝐖(H)𝐖=\{g𝐖\in𝐖G𝐖\mid𝐖gHg^{𝐖-1}𝐖𝐖=H\}𝐖.
 K
 G
-N_G (K) =G .
+N_G𝐖(K)𝐖=G𝐖.
 X
 X
-P =\{X_i \mid i \in I\}
-X =\bigcup_{i \in I} X_i,
-X_i \cap X_j =\varnothing
-i \not= j .
+P𝐖=\{X_i𝐖𝐖\mid𝐖i𝐖\in𝐖I\}
+X𝐖=\bigcup𝐖_{i𝐖\in𝐖I}𝐖X_i𝐖,𝐖
+X_i𝐖𝐖\cap𝐖X_j𝐖𝐖=\varnothing𝐖
+i𝐖\not=𝐖j𝐖.
 R
-\pi \in R
-\pi \not= 0,
-\pi \notin R^\times,
-a, b \in R
-\pi \mid ab,
-\pi \mid a
-\pi \mid b .
+\pi𝐖𝐖\in𝐖R
+\pi𝐖𝐖\not=𝐖0,𝐖
+\pi𝐖𝐖\notin𝐖R^\times𝐖𝐖,𝐖
+a,𝐖b𝐖\in𝐖R
+\pi𝐖𝐖\mid𝐖ab,𝐖
+\pi𝐖𝐖\mid𝐖a
+\pi𝐖𝐖\mid𝐖b𝐖.
 R
 P
-R .
+R𝐖.
 P
 P
-a, b \in R,
-ab \in P,
-a \in P
-b \in P .
+a,𝐖b𝐖\in𝐖R,𝐖
+ab𝐖\in𝐖P,𝐖
+a𝐖\in𝐖P
+b𝐖\in𝐖P𝐖.
 P
 P
-I, J \subset R,
-IJ \subseteq P
-I \subseteq P
-J \subseteq P .
+I,𝐖J𝐖\subset𝐖R,𝐖
+IJ𝐖\subseteq𝐖P
+I𝐖\subseteq𝐖P
+J𝐖\subseteq𝐖P𝐖.
 R
-p(x) =a_0 +a_1 x +\cdots +a_n x^n \in R[x] .
+p(x)𝐖=a_0𝐖𝐖+a_1𝐖x𝐖+\cdots𝐖𝐖+a_n𝐖x^n𝐖𝐖\in𝐖R[x]𝐖.
 p
-\gcd (a_1, \ldots, a_n) =1,
-p \in R[x]
-p =c(p)p_0
-p_0
-c(p) \in R
-p .
+\gcd𝐖(a_1𝐖,𝐖\ldots𝐖,𝐖a_n𝐖)𝐖=1,𝐖
+p𝐖\in𝐖R[x]
+p𝐖=c(p)p_0𝐖
+p_0𝐖
+c(p)𝐖\in𝐖R
+p𝐖.
 R
-+,
-\times
-(R, +)
-\times
-(a +b) \times c =(a \times c) +(b \times c)
-a \times (b +c) =(a \times b) +(a \times c)
-\times
+𝐖+,𝐖
+\times𝐖
+(R,𝐖𝐖+)
+\times𝐖
+(a𝐖+b)𝐖\times𝐖c𝐖=(a𝐖\times𝐖c)𝐖+(b𝐖\times𝐖c)
+a𝐖\times𝐖(b𝐖+c)𝐖=(a𝐖\times𝐖b)𝐖+(a𝐖\times𝐖c)
+\times𝐖
 R
-1 \in R
-1 \times r =r \times 1 =r
-r \in R .
+1𝐖\in𝐖R
+1𝐖\times𝐖r𝐖=r𝐖\times𝐖1𝐖=r
+r𝐖\in𝐖R𝐖.
 rs
-r \times s .
-r \in R,
--r
-r^{ -1}
-R^\times
+r𝐖\times𝐖s𝐖.
+r𝐖\in𝐖R,𝐖
+𝐖-r
+r^{𝐖-1}𝐖
+R^\times𝐖𝐖
 R
 H
 G
 G
-x, y \in H,
-xy^{ -1} \in H .
-H \le G
-H \lt G
-f \colon X \to Y
+x,𝐖y𝐖\in𝐖H,𝐖
+xy^{𝐖-1}𝐖𝐖\in𝐖H𝐖.
+H𝐖\le𝐖G
+H𝐖\lt𝐖G
+f𝐖\colon𝐖X𝐖\to𝐖Y
 X
 Y
-y \in Y,
-x \in X
-f(x) =y .
+y𝐖\in𝐖Y,𝐖
+x𝐖\in𝐖X
+f(x)𝐖=y𝐖.
 R
-u \in R
-R,
-v \in R,
-uv =vu =1.
+u𝐖\in𝐖R
+R,𝐖
+v𝐖\in𝐖R,𝐖
+uv𝐖=vu𝐖=1.
 V
-F,
-+,
-u, v, w \in V,
-\lambda, \mu \in F
-u +v \in V
-u +v =v +u
-(u +v) +w =u +(v +w)
-\mathbf 0 \in V
-\mathbf 0 +u =u .
-u \in V,
--u \in V
-u + -u =\mathbf 0 .
-\lambda u \in V .
-\lambda (u +v) =\lambda u +\lambda v
-(\lambda +\mu)v =\lambda v +\mu v
-(\lambda \mu)v =\lambda (\mu v)
+F,𝐖
+𝐖+,𝐖
+u,𝐖v,𝐖w𝐖\in𝐖V,𝐖
+\lambda𝐖,𝐖\mu𝐖𝐖\in𝐖F
+u𝐖+v𝐖\in𝐖V
+u𝐖+v𝐖=v𝐖+u
+(u𝐖+v)𝐖+w𝐖=u𝐖+(v𝐖+w)
+\mathbf𝐖0𝐖𝐖\in𝐖V
+\mathbf𝐖0𝐖𝐖+u𝐖=u𝐖.
+u𝐖\in𝐖V,𝐖
+𝐖-u𝐖\in𝐖V
+u𝐖+𝐖-u𝐖=\mathbf𝐖0𝐖𝐖.
+\lambda𝐖u𝐖\in𝐖V𝐖.
+\lambda𝐖(u𝐖+v)𝐖=\lambda𝐖u𝐖+\lambda𝐖v
+(\lambda𝐖𝐖+\mu𝐖)v𝐖=\lambda𝐖v𝐖+\mu𝐖v
+(\lambda𝐖\mu𝐖)v𝐖=\lambda𝐖(\mu𝐖v)
 V
-1 \in F
-1v =v .
+1𝐖\in𝐖F
+1v𝐖=v𝐖.
 a
 R
-b \in R
-ab =0
-ba =0 .
+b𝐖\in𝐖R
+ab𝐖=0
+ba𝐖=0𝐖.
 H
 G
 F
-G =GL_n (F),
-n \times n
+G𝐖=GL_n𝐖(F),𝐖
+n𝐖\times𝐖n
 F
-R =M_n (F)
-n \times n
-F,
-G =R^\times,
-R .
-K =SL_n (F),
+R𝐖=M_n𝐖(F)
+n𝐖\times𝐖n
+F,𝐖
+G𝐖=R^\times𝐖𝐖,𝐖
+R𝐖.
+K𝐖=SL_n𝐖(F),𝐖
 K
-G,
+G,𝐖
 K
 K
-g \in G
-k \in K .
-gkg^{ -1} \in K,
-\det (gkg^{ -1}) =\det (g)\det (k)\det (g)^{ -1} =\det (k) =1
-gkg^{ -1} \in K .
-\deg (g^{ -1}) =\det (g)^{ -1},
-\det g, \det k
-F,
+g𝐖\in𝐖G
+k𝐖\in𝐖K𝐖.
+gkg^{𝐖-1}𝐖𝐖\in𝐖K,𝐖
+\det𝐖(gkg^{𝐖-1}𝐖)𝐖=\det𝐖(g)\det𝐖(k)\det𝐖(g)^{𝐖-1}𝐖𝐖=\det𝐖(k)𝐖=1
+gkg^{𝐖-1}𝐖𝐖\in𝐖K𝐖.
+\deg𝐖(g^{𝐖-1}𝐖)𝐖=\det𝐖(g)^{𝐖-1}𝐖,𝐖
+\det𝐖g,𝐖\det𝐖k
+F,𝐖
 K
-\varphi \colon GL_n (F) \to F^\times
-\varphi (g) =\det g .
+\varphi𝐖𝐖\colon𝐖GL_n𝐖(F)𝐖\to𝐖F^\times𝐖𝐖
+\varphi𝐖(g)𝐖=\det𝐖g𝐖.
 K
-GL_n (F)/SL_n (F)
-K =SL_n (F)
-G =GL_n (F),
-gKg'K =g'KgK
-gKg'K =g'KgK \iff gg'K =g'gK \iff g^{ -1} g^{ ' -1} gg' \in K
+GL_n𝐖(F)/SL_n𝐖(F)
+K𝐖=SL_n𝐖(F)
+G𝐖=GL_n𝐖(F),𝐖
+gKg'K𝐖=g'KgK
+gKg'K𝐖=g'KgK𝐖\iff𝐖gg'K𝐖=g'gK𝐖\iff𝐖g^{𝐖-1}𝐖g^{𝐖'𝐖-1}𝐖gg'𝐖\in𝐖K
 G/K
-\varphi \colon GL_n (F) \to F^\times
-\varphi (g) =\det g .
-\varphi
-\alpha \in F^\times,
-\varphi
-diag(\alpha, 1, \ldots, 1)
-\alpha .
-GL_n (F)/SL_n (F) \cong F^\times
-H, K
-G,
-H \subseteq N_G (K)
-K \trianglelefteq G) .
-HK \le G,
-K \trianglelefteq HK
-HK/K \cong H/(H \cap K) .
-H \subseteq N_G (K)
+\varphi𝐖𝐖\colon𝐖GL_n𝐖(F)𝐖\to𝐖F^\times𝐖𝐖
+\varphi𝐖(g)𝐖=\det𝐖g𝐖.
+\varphi𝐖
+\alpha𝐖𝐖\in𝐖F^\times𝐖𝐖,𝐖
+\varphi𝐖
+diag(\alpha𝐖,𝐖1,𝐖\ldots𝐖,𝐖1)
+\alpha𝐖𝐖.
+GL_n𝐖(F)/SL_n𝐖(F)𝐖\cong𝐖F^\times𝐖𝐖
+H,𝐖K
+G,𝐖
+H𝐖\subseteq𝐖N_G𝐖(K)
+K𝐖\trianglelefteq𝐖G)𝐖.
+HK𝐖\le𝐖G,𝐖
+K𝐖\trianglelefteq𝐖HK
+HK/K𝐖\cong𝐖H/(H𝐖\cap𝐖K)𝐖.
+H𝐖\subseteq𝐖N_G𝐖(K)
 HK
-G,
-K \trianglelefteq HK .
-\varphi \colon H \to HK/K
-H \to HK\~via\~h \mapsto h \cdot 1 \in HK
-HK \to HK/K\~via\~hk \mapsto hkK,
-\varphi (h) =hK .
-hkK =hK,
-\varphi
-\varphi (h) =hK =K
-h \in H \cap K,
-H, K
-HK .
+G,𝐖
+K𝐖\trianglelefteq𝐖HK𝐖.
+\varphi𝐖𝐖\colon𝐖H𝐖\to𝐖HK/K
+H𝐖\to𝐖HK\~via\~h𝐖\mapsto𝐖h𝐖\cdot𝐖1𝐖\in𝐖HK
+HK𝐖\to𝐖HK/K\~via\~hk𝐖\mapsto𝐖hkK,𝐖
+\varphi𝐖(h)𝐖=hK𝐖.
+hkK𝐖=hK,𝐖
+\varphi𝐖
+\varphi𝐖(h)𝐖=hK𝐖=K
+h𝐖\in𝐖H𝐖\cap𝐖K,𝐖
+H,𝐖K
+HK𝐖.
 F
-G =GL_n (F),
-K =SL_n (F),
-H =D_n (F)
-G .
+G𝐖=GL_n𝐖(F),𝐖
+K𝐖=SL_n𝐖(F),𝐖
+H𝐖=D_n𝐖(F)
+G𝐖.
 K
-G .
-H =D_n (F)
-G .
+G𝐖.
+H𝐖=D_n𝐖(F)
+G𝐖.
 A
 P
-P^{ -1} AP =D
-PDP^{ -1} =A
-\begin{bmatrix} 2 & 1 \\ 1 & 1 \end{bmatrix} \begin{bmatrix} 1 & 0 \\ 0 & 2 \end{bmatrix} \begin{bmatrix} 2 & 1 \\ 1 & 1 \end{bmatrix}^{ -1} = \begin{bmatrix} 0 & 2 \\ -1 & 3 \end{bmatrix} .
-G =HK .
-A \in G =GL_n (F),
-\alpha =\det A \in F^\times .
-diag(\alpha^{ -1}, 1, \ldots, 1)A \in SL_n (F),
-G =GL_n (F) \subseteq HK,
-HK \subseteq G,
-H, K .
-K \trianglelefteq G,
-GL_n (F)/SL_n (F) =HK/K \cong H/(H \cap K) \cong F^\times .
-H .
+P^{𝐖-1}𝐖AP𝐖=D
+PDP^{𝐖-1}𝐖𝐖=A
+𝐖\begin{bmatrix}𝐖2𝐖&𝐖1𝐖\\𝐖1𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖2𝐖\end{bmatrix}𝐖𝐖\begin{bmatrix}𝐖2𝐖&𝐖1𝐖\\𝐖1𝐖&𝐖1𝐖\end{bmatrix}𝐖^{𝐖-1}𝐖𝐖=𝐖\begin{bmatrix}𝐖0𝐖&𝐖2𝐖\\𝐖𝐖-1𝐖&𝐖3𝐖\end{bmatrix}𝐖𝐖.
+G𝐖=HK𝐖.
+A𝐖\in𝐖G𝐖=GL_n𝐖(F),𝐖
+\alpha𝐖𝐖=\det𝐖A𝐖\in𝐖F^\times𝐖𝐖𝐖.
+diag(\alpha𝐖^{𝐖-1}𝐖,𝐖1,𝐖\ldots𝐖,𝐖1)A𝐖\in𝐖SL_n𝐖(F),𝐖
+G𝐖=GL_n𝐖(F)𝐖\subseteq𝐖HK,𝐖
+HK𝐖\subseteq𝐖G,𝐖
+H,𝐖K𝐖.
+K𝐖\trianglelefteq𝐖G,𝐖
+GL_n𝐖(F)/SL_n𝐖(F)𝐖=HK/K𝐖\cong𝐖H/(H𝐖\cap𝐖K)𝐖\cong𝐖F^\times𝐖𝐖𝐖.
+H𝐖.
 G
-H, K,
-H \le K .
-K/H \trianglelefteq G/H,
-(G/H)/(K/H) \cong G/K .
-H, K
-G,
-H \trianglelefteq K,
-G/H,
-G/K,
+H,𝐖K,𝐖
+H𝐖\le𝐖K𝐖.
+K/H𝐖\trianglelefteq𝐖G/H,𝐖
+(G/H)/(K/H)𝐖\cong𝐖G/K𝐖.
+H,𝐖K
+G,𝐖
+H𝐖\trianglelefteq𝐖K,𝐖
+G/H,𝐖
+G/K,𝐖
 K/H
-\pi \colon G \to G/K
-G/H,
-\pi_\ast \colon G/H \to G/K
-\pi_\ast (gH) =gK .
-\ker \pi_\ast =\{gH \in G/H \mid gK =K\} =\{gH \in G/H \mid g \in K\} =K/H .
-G =\mathbb Z,
-m, n,
-K =m\mathbb Z
-H =mn\mathbb Z .
-(\mathbb Z /mn\mathbb Z)/(m\mathbb Z /mn\mathbb Z) \cong \mathbb Z /m\mathbb Z .
-\varphi \colon G \to G'
-G, G'
-K .
+\pi𝐖𝐖\colon𝐖G𝐖\to𝐖G/K
+G/H,𝐖
+\pi𝐖_\ast𝐖𝐖𝐖\colon𝐖G/H𝐖\to𝐖G/K
+\pi𝐖_\ast𝐖𝐖(gH)𝐖=gK𝐖.
+\ker𝐖\pi𝐖_\ast𝐖𝐖𝐖=\{gH𝐖\in𝐖G/H𝐖\mid𝐖gK𝐖=K\}𝐖=\{gH𝐖\in𝐖G/H𝐖\mid𝐖g𝐖\in𝐖K\}𝐖=K/H𝐖.
+G𝐖=\mathbb𝐖Z𝐖,𝐖
+m,𝐖n,𝐖
+K𝐖=m\mathbb𝐖Z𝐖
+H𝐖=mn\mathbb𝐖Z𝐖𝐖.
+(\mathbb𝐖Z𝐖/mn\mathbb𝐖Z𝐖)/(m\mathbb𝐖Z𝐖/mn\mathbb𝐖Z𝐖)𝐖\cong𝐖\mathbb𝐖Z𝐖/m\mathbb𝐖Z𝐖𝐖.
+\varphi𝐖𝐖\colon𝐖G𝐖\to𝐖G'
+G,𝐖G'
+K𝐖.
 G'
 G
-K .
-H' & \lt mi/> \le G' \mapsto \varphi^{ -1} (H') =\{g \in G \mid \varphi (g) \in H'\} \le G, \\ H & \lt mi/> \le G \mapsto \varphi (H) .
-H \le G,
-\varphi^{ -1} (\varphi (H)) =HK,
-K \le H,
-HK =H .
-\mathbb Z /24\mathbb Z ?
-\varphi \colon \mathbb Z \to \mathbb Z /24\mathbb Z,
-\mathbb Z /24\mathbb Z
-\mathbb Z
-24\mathbb Z
-\mathbb Z
-n\mathbb Z
-n,
-n\mathbb Z \supseteq 24\mathbb Z
-n \mid 24 .
-\mathbb Z
-24\mathbb Z
-d\mathbb Z \~for\~d =1, 2, 3, 4, 6, 8, 12, 24,
+K𝐖.
+H'𝐖&𝐖\lt𝐖mi/>𝐖\le𝐖G'𝐖\mapsto𝐖\varphi𝐖^{𝐖-1}𝐖(H')𝐖=\{g𝐖\in𝐖G𝐖\mid𝐖\varphi𝐖(g)𝐖\in𝐖H'\}𝐖\le𝐖G,𝐖𝐖\\𝐖H𝐖&𝐖\lt𝐖mi/>𝐖\le𝐖G𝐖\mapsto𝐖\varphi𝐖(H)𝐖.
+H𝐖\le𝐖G,𝐖
+\varphi𝐖^{𝐖-1}𝐖(\varphi𝐖(H))𝐖=HK,𝐖
+K𝐖\le𝐖H,𝐖
+HK𝐖=H𝐖.
+\mathbb𝐖Z𝐖/24\mathbb𝐖Z𝐖𝐖?
+\varphi𝐖𝐖\colon𝐖\mathbb𝐖Z𝐖𝐖\to𝐖\mathbb𝐖Z𝐖/24\mathbb𝐖Z𝐖,𝐖
+\mathbb𝐖Z𝐖/24\mathbb𝐖Z𝐖
+\mathbb𝐖Z𝐖
+24\mathbb𝐖Z𝐖
+\mathbb𝐖Z𝐖
+n\mathbb𝐖Z𝐖
+n,𝐖
+n\mathbb𝐖Z𝐖𝐖\supseteq𝐖24\mathbb𝐖Z𝐖
+n𝐖\mid𝐖24𝐖.
+\mathbb𝐖Z𝐖
+24\mathbb𝐖Z𝐖
+d\mathbb𝐖Z𝐖\~for\~d𝐖=1,𝐖2,𝐖3,𝐖4,𝐖6,𝐖8,𝐖12,𝐖24,𝐖
 d
-\mathbb Z /24\mathbb Z
-d\mathbb Z /24\mathbb Z .
-T \colon V \to W
+\mathbb𝐖Z𝐖/24\mathbb𝐖Z𝐖
+d\mathbb𝐖Z𝐖/24\mathbb𝐖Z𝐖𝐖.
+T𝐖\colon𝐖V𝐖\to𝐖W
 F
-v, v' \in V
-\lambda \in F,
-T(v +v') =T(v) +T(v')\~and\~T(\lambda v) =\lambda T(v),
+v,𝐖v'𝐖\in𝐖V
+\lambda𝐖𝐖\in𝐖F,𝐖
+T(v𝐖+v')𝐖=T(v)𝐖+T(v')\~and\~T(\lambda𝐖v)𝐖=\lambda𝐖T(v),𝐖
 V
-W .
-\varphi \colon G \to H
-G, H
-g, g' \in G,
-\varphi (g \ast g') =\varphi (g) \ast \varphi (g')
+W𝐖.
+\varphi𝐖𝐖\colon𝐖G𝐖\to𝐖H
+G,𝐖H
+g,𝐖g'𝐖\in𝐖G,𝐖
+\varphi𝐖(g𝐖\ast𝐖g')𝐖=\varphi𝐖(g)𝐖\ast𝐖\varphi𝐖(g')
 G
-H .
-\varphi \colon R \to S
-R, S
-r, r' \in R
-\varphi (r +r') =\varphi (r) +\varphi (r')\~and\~\varphi (r \ast r') =\varphi (r) \ast \varphi (r'),
+H𝐖.
+\varphi𝐖𝐖\colon𝐖R𝐖\to𝐖S
+R,𝐖S
+r,𝐖r'𝐖\in𝐖R
+\varphi𝐖(r𝐖+r')𝐖=\varphi𝐖(r)𝐖+\varphi𝐖(r')\~and\~\varphi𝐖(r𝐖\ast𝐖r')𝐖=\varphi𝐖(r)𝐖\ast𝐖\varphi𝐖(r'),𝐖
 R
-S .
-\varphi \colon X \to Y
+S𝐖.
+\varphi𝐖𝐖\colon𝐖X𝐖\to𝐖Y
 X
-Y,
-\varphi \colon X \to Y
-\psi \colon Y \to X,
-\varphi \circ \psi =id_Y
-\psi \circ \varphi =id_X .
-\varphi
-\varphi \colon X \to Y
-\psi,
-\varphi \colon [0, 1) \to S^1 =\{z \in \mathbb C \mid | z| =1\}
-\varphi (x) =e^{2\pi ix} .
+Y,𝐖
+\varphi𝐖𝐖\colon𝐖X𝐖\to𝐖Y
+\psi𝐖𝐖\colon𝐖Y𝐖\to𝐖X,𝐖
+\varphi𝐖𝐖\circ𝐖\psi𝐖𝐖=id_Y𝐖
+\psi𝐖𝐖\circ𝐖\varphi𝐖𝐖=id_X𝐖𝐖.
+\varphi𝐖
+\varphi𝐖𝐖\colon𝐖X𝐖\to𝐖Y
+\psi𝐖,𝐖
+\varphi𝐖𝐖\colon𝐖[0,𝐖1)𝐖\to𝐖S^1𝐖𝐖=\{z𝐖\in𝐖\mathbb𝐖C𝐖𝐖\mid𝐖|𝐖z|𝐖=1\}
+\varphi𝐖(x)𝐖=e^{2\pi𝐖ix}𝐖𝐖.
 X
 Y
 X/Y
-\varphi \colon X \to Y
-X/\ker \varphi \cong Im\varphi
-\ker \varphi,
-X/\ker \varphi
+\varphi𝐖𝐖\colon𝐖X𝐖\to𝐖Y
+X/\ker𝐖\varphi𝐖𝐖\cong𝐖Im\varphi𝐖
+\ker𝐖\varphi𝐖,𝐖
+X/\ker𝐖\varphi𝐖
 W
-V,
+V,𝐖
 V/W
 H
 G
@@ -1460,368 +1460,368 @@ G/H
 S
 R
 R/S
-G,
-H,
-x \in G,
+G,𝐖
+H,𝐖
+x𝐖\in𝐖G,𝐖
 xH
 Hx
 R
 I
-R/I .
-x +I
-I +x
+R/I𝐖.
+x𝐖+I
+I𝐖+x
 G
 H
-x \in G .
-xH & \lt mi/> =\{y \in G \mid y =xh\~for\space some\~h \in H\} =\{xh \mid h \in H\} \\ x +H & \lt mi/> =\{y \in G \mid y =x +h\~for\space some\~h \in H\} =\{x +h \mid h \in H\}
-G/H =\{xH \mid x \in G\}\~or\~\{x +H \mid x \in G\}
-G,
-G .
-e,
-H,
-x \in G
+x𝐖\in𝐖G𝐖.
+xH𝐖&𝐖\lt𝐖mi/>𝐖=\{y𝐖\in𝐖G𝐖\mid𝐖y𝐖=xh\~for\space𝐖some\~h𝐖\in𝐖H\}𝐖=\{xh𝐖\mid𝐖h𝐖\in𝐖H\}𝐖\\𝐖x𝐖+H𝐖&𝐖\lt𝐖mi/>𝐖=\{y𝐖\in𝐖G𝐖\mid𝐖y𝐖=x𝐖+h\~for\space𝐖some\~h𝐖\in𝐖H\}𝐖=\{x𝐖+h𝐖\mid𝐖h𝐖\in𝐖H\}
+G/H𝐖=\{xH𝐖\mid𝐖x𝐖\in𝐖G\}\~or\~\{x𝐖+H𝐖\mid𝐖x𝐖\in𝐖G\}
+G,𝐖
+G𝐖.
+e,𝐖
+H,𝐖
+x𝐖\in𝐖G
 xH
-x =xe \in xH .
-G =\bigcup_{x \in G} xH,
+x𝐖=xe𝐖\in𝐖xH𝐖.
+G𝐖=\bigcup𝐖_{x𝐖\in𝐖G}𝐖xH,𝐖
 H
 G
 xH
-yH .
-z \in xH \cap yH .
-xH =yH
-xH \subseteq yH
-yH \subseteq xH .
-xH \subseteq yH .
-z \in xH \cap yH
-z =xh_1 =yh_2 \~for\space some\~h_1, h_2 \in H,
-x =yh_2 h_1^{ -1} \in yH,
-xh \in xH
-xh =yh_2 h_1^{ -1} h \in yH
-xH \subseteq yH .
-G =\bigcup_{x \in G} xH
-\{xH \mid x \in G\} .
-G =S_3,
-\{1, 2, 3\} .
-H =\{e, (12)\}
-(12) .
-G/H =\{H, (13)H, (23)H\} =\{H, (123)H, (132)H\}
-H =(12)H, (13)H =(123)H, \~and\~(23)H =(132)H .
+yH𝐖.
+z𝐖\in𝐖xH𝐖\cap𝐖yH𝐖.
+xH𝐖=yH
+xH𝐖\subseteq𝐖yH
+yH𝐖\subseteq𝐖xH𝐖.
+xH𝐖\subseteq𝐖yH𝐖.
+z𝐖\in𝐖xH𝐖\cap𝐖yH
+z𝐖=xh_1𝐖𝐖=yh_2𝐖\~for\space𝐖some\~h_1𝐖,𝐖h_2𝐖𝐖\in𝐖H,𝐖
+x𝐖=yh_2𝐖h_1^{𝐖-1}𝐖𝐖\in𝐖yH,𝐖
+xh𝐖\in𝐖xH
+xh𝐖=yh_2𝐖h_1^{𝐖-1}𝐖h𝐖\in𝐖yH
+xH𝐖\subseteq𝐖yH𝐖.
+G𝐖=\bigcup𝐖_{x𝐖\in𝐖G}𝐖xH
+\{xH𝐖\mid𝐖x𝐖\in𝐖G\}𝐖.
+G𝐖=S_3𝐖,𝐖
+\{1,𝐖2,𝐖3\}𝐖.
+H𝐖=\{e,𝐖(12)\}
+(12)𝐖.
+G/H𝐖=\{H,𝐖(13)H,𝐖(23)H\}𝐖=\{H,𝐖(123)H,𝐖(132)H\}
+H𝐖=(12)H,𝐖(13)H𝐖=(123)H,𝐖\~and\~(23)H𝐖=(132)H𝐖.
 G
-\mathcal P_L =\{P_1 =\{1, (12)\}, P_2 =\{(13), (123)\}, P_3 =\{(23), (132)\},
-P_i
+\mathcal𝐖P𝐖_L𝐖𝐖=\{P_1𝐖𝐖=\{1,𝐖(12)\},𝐖P_2𝐖𝐖=\{(13),𝐖(123)\},𝐖P_3𝐖𝐖=\{(23),𝐖(132)\},𝐖
+P_i𝐖
 H
 G
-H \setminus G =\{H, H(13), H(23)\} =\{H, H(132), H(123)\}
+H𝐖\setminus𝐖G𝐖=\{H,𝐖H(13),𝐖H(23)\}𝐖=\{H,𝐖H(132),𝐖H(123)\}
 G
-\mathcal P_R =\{Q_1 =\{1, (12)\}, Q_2 =\{(13), (132)\}, Q_3 =\{(23), (123)\} .
+\mathcal𝐖P𝐖_R𝐖𝐖=\{Q_1𝐖𝐖=\{1,𝐖(12)\},𝐖Q_2𝐖𝐖=\{(13),𝐖(132)\},𝐖Q_3𝐖𝐖=\{(23),𝐖(123)\}𝐖.
 G
 H
 xH
 yH
-y^{ -1} x \in H
-x =yh
-h \in H
-x^{ -1} y \in H
-y =xh
-h \in H
-xH =yH .
-xH =yH,
-xH \cap yH \not= \varnothing .
-x \in yH
-y \in xH
-x +H
-y +H
--y +x \in H
-x =y +h
-h \in H
--x +y \in H
-y =x +h
-h \in H
+y^{𝐖-1}𝐖x𝐖\in𝐖H
+x𝐖=yh
+h𝐖\in𝐖H
+x^{𝐖-1}𝐖y𝐖\in𝐖H
+y𝐖=xh
+h𝐖\in𝐖H
+xH𝐖=yH𝐖.
+xH𝐖=yH,𝐖
+xH𝐖\cap𝐖yH𝐖\not=𝐖\varnothing𝐖𝐖.
+x𝐖\in𝐖yH
+y𝐖\in𝐖xH
+x𝐖+H
+y𝐖+H
+𝐖-y𝐖+x𝐖\in𝐖H
+x𝐖=y𝐖+h
+h𝐖\in𝐖H
+𝐖-x𝐖+y𝐖\in𝐖H
+y𝐖=x𝐖+h
+h𝐖\in𝐖H
 G
-H .
+H𝐖.
 H
-G .
+G𝐖.
 G
 H
-G .
+G𝐖.
 H
-G .
-gHg^{ -1} =H
-g \in G
-gH =Hg
-g \in G
-gHg^{ -1} \subseteq H
-g \in G
-gHg^{ -1} \subseteq H
-g \in G
-gHg^{ -1} =H
-g \in G .
-g \in G
-gHg^{ -1} \subseteq H;
-H \subseteq gHg^{ -1} .
-xHx^{ -1} \subseteq H
-x \in G,
-x =g^{ -1} .
-g^{ -1} Hg \subseteq H\~which\space implies\~H \subseteq gHg^{ -1},
-G/H =\{xH \mid x \in G\} .
-xH \cdot yH =zH
-z \in G .
-xH \cdot yH =xyH,
-G =S_3
-H =\{e, (12)\} .
-H =eH =(12)H, (13)H =(123)H, \~and\~(23)H =(132)H .
-(12)H \cdot (13)H =eH \cdot (123)H,
-(12)H \cdot (13)H =(132)H\~while\~eH \cdot (123)H =(123)H
+G𝐖.
+gHg^{𝐖-1}𝐖𝐖=H
+g𝐖\in𝐖G
+gH𝐖=Hg
+g𝐖\in𝐖G
+gHg^{𝐖-1}𝐖𝐖\subseteq𝐖H
+g𝐖\in𝐖G
+gHg^{𝐖-1}𝐖𝐖\subseteq𝐖H
+g𝐖\in𝐖G
+gHg^{𝐖-1}𝐖𝐖=H
+g𝐖\in𝐖G𝐖.
+g𝐖\in𝐖G
+gHg^{𝐖-1}𝐖𝐖\subseteq𝐖H;𝐖
+H𝐖\subseteq𝐖gHg^{𝐖-1}𝐖𝐖.
+xHx^{𝐖-1}𝐖𝐖\subseteq𝐖H
+x𝐖\in𝐖G,𝐖
+x𝐖=g^{𝐖-1}𝐖𝐖.
+g^{𝐖-1}𝐖Hg𝐖\subseteq𝐖H\~which\space𝐖implies\~H𝐖\subseteq𝐖gHg^{𝐖-1}𝐖,𝐖
+G/H𝐖=\{xH𝐖\mid𝐖x𝐖\in𝐖G\}𝐖.
+xH𝐖\cdot𝐖yH𝐖=zH
+z𝐖\in𝐖G𝐖.
+xH𝐖\cdot𝐖yH𝐖=xyH,𝐖
+G𝐖=S_3𝐖
+H𝐖=\{e,𝐖(12)\}𝐖.
+H𝐖=eH𝐖=(12)H,𝐖(13)H𝐖=(123)H,𝐖\~and\~(23)H𝐖=(132)H𝐖.
+(12)H𝐖\cdot𝐖(13)H𝐖=eH𝐖\cdot𝐖(123)H,𝐖
+(12)H𝐖\cdot𝐖(13)H𝐖=(132)H\~while\~eH𝐖\cdot𝐖(123)H𝐖=(123)H
 V
-W,
+W,𝐖
 V
 W
-V/W =\{v +W \mid v \in V\}
-(v +W) +(v' +W) =(v +v') +W .
+V/W𝐖=\{v𝐖+W𝐖\mid𝐖v𝐖\in𝐖V\}
+(v𝐖+W)𝐖+(v'𝐖+W)𝐖=(v𝐖+v')𝐖+W𝐖.
 V/W
-\lambda (v +W) =\lambda v +W,
+\lambda𝐖(v𝐖+W)𝐖=\lambda𝐖v𝐖+W,𝐖
 R
-S,
-R/S =\{r +S \mid r \in R\}
+S,𝐖
+R/S𝐖=\{r𝐖+S𝐖\mid𝐖r𝐖\in𝐖R\}
 R/S
 S
 R
-R/S =\{r +S \mid r \in R\} .
-(r +S) \cdot (r' +S) =rr' +S,
-s, t \in S,
-(r +s +S) \cdot (r' +t +S) =rr' +S,
-rr' +rt +sr' +st +S =rr' +S .
+R/S𝐖=\{r𝐖+S𝐖\mid𝐖r𝐖\in𝐖R\}𝐖.
+(r𝐖+S)𝐖\cdot𝐖(r'𝐖+S)𝐖=rr'𝐖+S,𝐖
+s,𝐖t𝐖\in𝐖S,𝐖
+(r𝐖+s𝐖+S)𝐖\cdot𝐖(r'𝐖+t𝐖+S)𝐖=rr'𝐖+S,𝐖
+rr'𝐖+rt𝐖+sr'𝐖+st𝐖+S𝐖=rr'𝐖+S𝐖.
 S
-st \in S,
-rt +sr' \in S
-s, t \in S .
+st𝐖\in𝐖S,𝐖
+rt𝐖+sr'𝐖\in𝐖S
+s,𝐖t𝐖\in𝐖S𝐖.
 S
-R,
-R,
-R \cdot S \subseteq S\~and\~S \cdot R \subseteq S .
+R,𝐖
+R,𝐖
+R𝐖\cdot𝐖S𝐖\subseteq𝐖S\~and\~S𝐖\cdot𝐖R𝐖\subseteq𝐖S𝐖.
 G
 G
 H
-G/H ?
-\mathbb Z .
-n >1
--1,
-n \lt -1 ?
-\mathbb Z
-\mathbb Z
-p \ge 2
-\pm 1,
-R,
-6 =2 \cdot 3 =3 \cdot 2 \cdot 1 =( -2) \cdot ( -3) .
-\mathbb Z,
-\mathbb Q [x],
-f(x) =2x
-2x =2 \cdot x =(2/3) \cdot (3x) =\cdots .
-\mathbb Z [x],
+G/H𝐖?
+\mathbb𝐖Z𝐖𝐖.
+n𝐖>1
+𝐖-1,𝐖
+n𝐖\lt𝐖𝐖-1𝐖?
+\mathbb𝐖Z𝐖
+\mathbb𝐖Z𝐖
+p𝐖\ge𝐖2
+𝐖\pm𝐖1,𝐖
+R,𝐖
+6𝐖=2𝐖\cdot𝐖3𝐖=3𝐖\cdot𝐖2𝐖\cdot𝐖1𝐖=(𝐖-2)𝐖\cdot𝐖(𝐖-3)𝐖.
+\mathbb𝐖Z𝐖,𝐖
+\mathbb𝐖Q𝐖[x],𝐖
+f(x)𝐖=2x
+2x𝐖=2𝐖\cdot𝐖x𝐖=(2/3)𝐖\cdot𝐖(3x)𝐖=\cdots𝐖𝐖.
+\mathbb𝐖Z𝐖[x],𝐖
 2x
-f(x) =2x =2 \cdot x
+f(x)𝐖=2x𝐖=2𝐖\cdot𝐖x
 x
-\mathbb Z [x] .
+\mathbb𝐖Z𝐖[x]𝐖.
 a
 R
 a
-a =a_1 b_1
-a_1, b_1
-a_1
-a_1
-a_1 =a_2 b_2
-R .
+a𝐖=a_1𝐖b_1𝐖
+a_1𝐖,𝐖b_1𝐖
+a_1𝐖
+a_1𝐖
+a_1𝐖𝐖=a_2𝐖b_2𝐖
+R𝐖.
 b
 a
-b \mid a
-c \in R
-a =bc,
+b𝐖\mid𝐖a
+c𝐖\in𝐖R
+a𝐖=bc,𝐖
 b
-a .
-b \mid a,
+a𝐖.
+b𝐖\mid𝐖a,𝐖
 bu
 u
-a =bc =(bu)(u^{ -1} c) .
-b \mid a
-(a) \subseteq (b),
-(b) =(b')
+a𝐖=bc𝐖=(bu)(u^{𝐖-1}𝐖c)𝐖.
+b𝐖\mid𝐖a
+(a)𝐖\subseteq𝐖(b),𝐖
+(b)𝐖=(b')
 b
 b'
 a
-a =a_1 b_1,
-a_1
-a_1 =a_2 b_2
-a_2, b_2
-(a) \subsetneq (a_1) \subsetneq (a_2) \subsetneq \cdots .
+a𝐖=a_1𝐖b_1𝐖,𝐖
+a_1𝐖
+a_1𝐖𝐖=a_2𝐖b_2𝐖
+a_2𝐖,𝐖b_2𝐖
+(a)𝐖\subsetneq𝐖(a_1𝐖)𝐖\subsetneq𝐖(a_2𝐖)𝐖\subsetneq𝐖\cdots𝐖𝐖.
 R
 R
-I_1 \subseteq I_2 \subseteq I_3 \subseteq \cdots
-R,
-r \ge 1
-I_r =I_{r +1} =I_{r +2} =\cdots .
-I \subseteq R
+I_1𝐖𝐖\subseteq𝐖I_2𝐖𝐖\subseteq𝐖I_3𝐖𝐖\subseteq𝐖\cdots𝐖
+R,𝐖
+r𝐖\ge𝐖1
+I_r𝐖𝐖=I_{r𝐖+1}𝐖𝐖=I_{r𝐖+2}𝐖𝐖=\cdots𝐖𝐖.
+I𝐖\subseteq𝐖R
 R
 R
-a =\pi_1 a_1
-\pi_1
-a_1
-a_1 =\pi_2 a_2
-\pi_2
-a_2
-a_3 =\pi_3 a_3 .
-(a) \subsetneq (a_1) \subsetneq (a_2) \subsetneq \cdots
-a_{r -1} =\pi_r a_r
-\pi_r
-a_r
-\mathbb Z [\sqrt{ -5}] =\{a +b\sqrt{ -5} \mid a, b \in \mathbb Z \}
-\mathbb Z .
-\mathbb Z
-\mathbb Z [\sqrt{ -5}]
-\mathbb Z
-\mathbb Z [\sqrt{ -5}] .
-R =\mathbb Z [\sqrt{ -5}]
-\mathbb Z
-\mathbb Z [x] .
+a𝐖=\pi𝐖_1𝐖a_1𝐖
+\pi𝐖_1𝐖
+a_1𝐖
+a_1𝐖𝐖=\pi𝐖_2𝐖a_2𝐖
+\pi𝐖_2𝐖
+a_2𝐖
+a_3𝐖𝐖=\pi𝐖_3𝐖a_3𝐖𝐖.
+(a)𝐖\subsetneq𝐖(a_1𝐖)𝐖\subsetneq𝐖(a_2𝐖)𝐖\subsetneq𝐖\cdots𝐖
+a_{r𝐖-1}𝐖𝐖=\pi𝐖_r𝐖a_r𝐖
+\pi𝐖_r𝐖
+a_r𝐖
+\mathbb𝐖Z𝐖[\sqrt{𝐖-5}]𝐖=\{a𝐖+b\sqrt{𝐖-5}𝐖\mid𝐖a,𝐖b𝐖\in𝐖\mathbb𝐖Z𝐖\}
+\mathbb𝐖Z𝐖𝐖.
+\mathbb𝐖Z𝐖
+\mathbb𝐖Z𝐖[\sqrt{𝐖-5}]
+\mathbb𝐖Z𝐖
+\mathbb𝐖Z𝐖[\sqrt{𝐖-5}]𝐖.
+R𝐖=\mathbb𝐖Z𝐖[\sqrt{𝐖-5}]
+\mathbb𝐖Z𝐖
+\mathbb𝐖Z𝐖[x]𝐖.
 R
-\mathbb Z [x]
-x \mapsto \sqrt{ -5} .
-\mathbb C .
-6 =2 \cdot 3 =(1 +\sqrt{ -5})(1 -\sqrt{ -5})
-2, 3, 1 \pm \sqrt{ -5}
-N \colon \mathbb Z [\sqrt{ -5}] \to \mathbb Z
-N(a +b\sqrt{ -5}) =(a +b\sqrt{ -5})(a -b\sqrt{ -5}) =a^2 +5b^2 .
-N(\alpha) =\alpha \overline{\alpha},
-N(\alpha \beta) =N(\alpha)N(\beta)
-\alpha, \beta \in R =\mathbb Z [\sqrt{ -5}] .
-\alpha
-\mathbb Z [\sqrt{ -5}]
-N(\alpha) = \pm 1
-+1
-a^2 +5b^2 \ge 0
-a, b
-\mathbb Z [\sqrt{ -5}] =\{ \pm 1\},
-2, 3, 1 \pm \sqrt{ -5}
-\mathbb Z [\sqrt{ -5}] .
-2 =\alpha \beta
-\alpha, \beta
-4 =N(2) =N(\alpha)N(\beta),
-\mathbb Z
-N(\alpha) =1, 2,
-N(\alpha) =1
-\alpha
-N(\alpha) =4
-\beta
-N(\alpha) =N(\beta) =2.
-a^2 +5b^2 =2
-a, b \in \mathbb Z,
-\alpha
-\beta
+\mathbb𝐖Z𝐖[x]
+x𝐖\mapsto𝐖\sqrt{𝐖-5}𝐖.
+\mathbb𝐖C𝐖𝐖.
+6𝐖=2𝐖\cdot𝐖3𝐖=(1𝐖+\sqrt{𝐖-5})(1𝐖-\sqrt{𝐖-5})
+2,𝐖3,𝐖1𝐖\pm𝐖\sqrt{𝐖-5}
+N𝐖\colon𝐖\mathbb𝐖Z𝐖[\sqrt{𝐖-5}]𝐖\to𝐖\mathbb𝐖Z𝐖
+N(a𝐖+b\sqrt{𝐖-5})𝐖=(a𝐖+b\sqrt{𝐖-5})(a𝐖-b\sqrt{𝐖-5})𝐖=a^2𝐖𝐖+5b^2𝐖𝐖.
+N(\alpha𝐖)𝐖=\alpha𝐖\overline{\alpha𝐖},𝐖
+N(\alpha𝐖\beta𝐖)𝐖=N(\alpha𝐖)N(\beta𝐖)
+\alpha𝐖,𝐖\beta𝐖𝐖\in𝐖R𝐖=\mathbb𝐖Z𝐖[\sqrt{𝐖-5}]𝐖.
+\alpha𝐖
+\mathbb𝐖Z𝐖[\sqrt{𝐖-5}]
+N(\alpha𝐖)𝐖=𝐖\pm𝐖1
+𝐖+1
+a^2𝐖𝐖+5b^2𝐖𝐖\ge𝐖0
+a,𝐖b
+\mathbb𝐖Z𝐖[\sqrt{𝐖-5}]𝐖=\{𝐖\pm𝐖1\},𝐖
+2,𝐖3,𝐖1𝐖\pm𝐖\sqrt{𝐖-5}
+\mathbb𝐖Z𝐖[\sqrt{𝐖-5}]𝐖.
+2𝐖=\alpha𝐖\beta𝐖
+\alpha𝐖,𝐖\beta𝐖
+4𝐖=N(2)𝐖=N(\alpha𝐖)N(\beta𝐖),𝐖
+\mathbb𝐖Z𝐖
+N(\alpha𝐖)𝐖=1,𝐖2,𝐖
+N(\alpha𝐖)𝐖=1
+\alpha𝐖
+N(\alpha𝐖)𝐖=4
+\beta𝐖
+N(\alpha𝐖)𝐖=N(\beta𝐖)𝐖=2.
+a^2𝐖𝐖+5b^2𝐖𝐖=2
+a,𝐖b𝐖\in𝐖\mathbb𝐖Z𝐖,𝐖
+\alpha𝐖
+\beta𝐖
 2
-\mathbb Z [\sqrt{ -5}] .
-\mathbb Z [\sqrt{ -5}]
-6 =2 \cdot 3 =(1 +\sqrt{ -5})(1 -\sqrt{ -5})
-2, 3, 1 \pm \sqrt{ -5}
-2 \mid (1 +\sqrt{ -5})(1 -\sqrt{ -5}) .
+\mathbb𝐖Z𝐖[\sqrt{𝐖-5}]𝐖.
+\mathbb𝐖Z𝐖[\sqrt{𝐖-5}]
+6𝐖=2𝐖\cdot𝐖3𝐖=(1𝐖+\sqrt{𝐖-5})(1𝐖-\sqrt{𝐖-5})
+2,𝐖3,𝐖1𝐖\pm𝐖\sqrt{𝐖-5}
+2𝐖\mid𝐖(1𝐖+\sqrt{𝐖-5})(1𝐖-\sqrt{𝐖-5})𝐖.
 2
-1 +\sqrt{ -5}
-\pi_1 \mid \pi_2
-\pi_i
-\pm 1,
-\mathbb Z [\sqrt{ -5}] .
+1𝐖+\sqrt{𝐖-5}
+\pi𝐖_1𝐖𝐖\mid𝐖\pi𝐖_2𝐖
+\pi𝐖_i𝐖
+𝐖\pm𝐖1,𝐖
+\mathbb𝐖Z𝐖[\sqrt{𝐖-5}]𝐖.
 R
 R
 R
-a =\pi_1 \cdots \pi_r =\pi_1^' \cdots \pi_s^'
+a𝐖=\pi𝐖_1𝐖\cdots𝐖\pi𝐖_r𝐖𝐖=\pi𝐖_1^'𝐖\cdots𝐖\pi𝐖_s^'𝐖
 a
-r =s,
-\pi_j
-\pi_j^'
-j =1, \ldots, r .
-\mathbb Z,
-r .
-r =1,
-s =1
-\pi_1 =\pi_1^' .
-r \ge 2,
-\pi_1 \mid a,
-\pi_1 \mid \pi_1^' \cdots \pi_s^' .
-\pi_1
-\pi_1 \mid \pi_1^' .
-\pi_1 \cdots \pi_r =\pi_1^' \cdots \pi_s^' =\pi_1 \pi_2^'' \pi_3^' \cdots \pi_s^',
-\pi_2^''
-\pi_2^' .
-\pi_2 \cdots \pi_r =\pi_2^'' \pi_3^' \cdots \pi_s^',
+r𝐖=s,𝐖
+\pi𝐖_j𝐖
+\pi𝐖_j^'𝐖
+j𝐖=1,𝐖\ldots𝐖,𝐖r𝐖.
+\mathbb𝐖Z𝐖,𝐖
+r𝐖.
+r𝐖=1,𝐖
+s𝐖=1
+\pi𝐖_1𝐖𝐖=\pi𝐖_1^'𝐖𝐖.
+r𝐖\ge𝐖2,𝐖
+\pi𝐖_1𝐖𝐖\mid𝐖a,𝐖
+\pi𝐖_1𝐖𝐖\mid𝐖\pi𝐖_1^'𝐖\cdots𝐖\pi𝐖_s^'𝐖𝐖.
+\pi𝐖_1𝐖
+\pi𝐖_1𝐖𝐖\mid𝐖\pi𝐖_1^'𝐖𝐖.
+\pi𝐖_1𝐖\cdots𝐖\pi𝐖_r𝐖𝐖=\pi𝐖_1^'𝐖\cdots𝐖\pi𝐖_s^'𝐖𝐖=\pi𝐖_1𝐖\pi𝐖_2^''𝐖\pi𝐖_3^'𝐖\cdots𝐖\pi𝐖_s^'𝐖,𝐖
+\pi𝐖_2^''𝐖
+\pi𝐖_2^'𝐖𝐖.
+\pi𝐖_2𝐖\cdots𝐖\pi𝐖_r𝐖𝐖=\pi𝐖_2^''𝐖\pi𝐖_3^'𝐖\cdots𝐖\pi𝐖_s^'𝐖,𝐖
 G
 H
-G .
-| G| =[G \colon H] \cdot | H|,
-[G \colon H]
-G/H .
+G𝐖.
+|𝐖G|𝐖=[G𝐖\colon𝐖H]𝐖\cdot𝐖|𝐖H|,𝐖
+[G𝐖\colon𝐖H]
+G/H𝐖.
 H
 G
-G .
-G/H =\{g_k H \mid k =1, \ldots, r\},
-r =[G \colon H] .
+G𝐖.
+G/H𝐖=\{g_k𝐖H𝐖\mid𝐖k𝐖=1,𝐖\ldots𝐖,𝐖r\},𝐖
+r𝐖=[G𝐖\colon𝐖H]𝐖.
 G
-G =\bigcup_{k =1}^r g_k H\~but\space also\~| G| =\sum_{k =1}^r | g_k H| .
-| H|,
-| G| =\sum_{k =1}^r | H| =r| H| =[G \colon H]| H| .
-x \in G
-H = \langle x \rangle
-H, K
-G .
-HK =\{hk \mid h \in H, k \in K\}
-| HK| =\frac{| H|| K|}{| H \cap K|} .
+G𝐖=\bigcup𝐖_{k𝐖=1}^r𝐖g_k𝐖H\~but\space𝐖also\~|𝐖G|𝐖=\sum𝐖_{k𝐖=1}^r𝐖|𝐖g_k𝐖H|𝐖.
+|𝐖H|,𝐖
+|𝐖G|𝐖=\sum𝐖_{k𝐖=1}^r𝐖|𝐖H|𝐖=r|𝐖H|𝐖=[G𝐖\colon𝐖H]|𝐖H|𝐖.
+x𝐖\in𝐖G
+H𝐖=𝐖\langle𝐖x𝐖\rangle𝐖
+H,𝐖K
+G𝐖.
+HK𝐖=\{hk𝐖\mid𝐖h𝐖\in𝐖H,𝐖k𝐖\in𝐖K\}
+|𝐖HK|𝐖=\frac{|𝐖H||𝐖K|}{|𝐖H𝐖\cap𝐖K|}𝐖.
 HK
-G,
+G,𝐖
 HK
-HK =\{hk \mid h \in H, k \in K\} =\bigcup_{h \in H} hK .
+HK𝐖=\{hk𝐖\mid𝐖h𝐖\in𝐖H,𝐖k𝐖\in𝐖K\}𝐖=\bigcup𝐖_{h𝐖\in𝐖H}𝐖hK𝐖.
 hK
-K,
-| HK| =| K| \cdot number\space of\space distinct\space cosets .
-h_1, h_2 \in H,
-h_1 K =h_2 K \iff h_2^{ -1} h_1 \in K \iff h_2^{ -1} h_1 \in H \cap K \iff h_1 H \cap K =h_2 H \cap K .
-\{hK \mid h \in H\}
-\{h(H \cap K) \mid h \in H\} .
+K,𝐖
+|𝐖HK|𝐖=|𝐖K|𝐖\cdot𝐖number\space𝐖of\space𝐖distinct\space𝐖cosets𝐖.
+h_1𝐖,𝐖h_2𝐖𝐖\in𝐖H,𝐖
+h_1𝐖K𝐖=h_2𝐖K𝐖\iff𝐖h_2^{𝐖-1}𝐖h_1𝐖𝐖\in𝐖K𝐖\iff𝐖h_2^{𝐖-1}𝐖h_1𝐖𝐖\in𝐖H𝐖\cap𝐖K𝐖\iff𝐖h_1𝐖H𝐖\cap𝐖K𝐖=h_2𝐖H𝐖\cap𝐖K𝐖.
+\{hK𝐖\mid𝐖h𝐖\in𝐖H\}
+\{h(H𝐖\cap𝐖K)𝐖\mid𝐖h𝐖\in𝐖H\}𝐖.
 H
-H \cap K
-H \cap K
+H𝐖\cap𝐖K
+H𝐖\cap𝐖K
 H
-| H/H \cap K| =| H|/| H \cap K| .
-| HK| =| K| \cdot number\space of\space distinct\space cosets =| K|\frac{| H|}{| H \cap K|} .
+|𝐖H/H𝐖\cap𝐖K|𝐖=|𝐖H|/|𝐖H𝐖\cap𝐖K|𝐖.
+|𝐖HK|𝐖=|𝐖K|𝐖\cdot𝐖number\space𝐖of\space𝐖distinct\space𝐖cosets𝐖=|𝐖K|\frac{|𝐖H|}{|𝐖H𝐖\cap𝐖K|}𝐖.
 HK
 G
 G
-S_3,
-H = \langle (12) \rangle
-K = \langle (23) \rangle
-H \cap K =\{1\},
-| HK| =\frac{2 \cdot 2}{1} =4.
-4 \nmid 6,
+S_3𝐖,𝐖
+H𝐖=𝐖\langle𝐖(12)𝐖\rangle𝐖
+K𝐖=𝐖\langle𝐖(23)𝐖\rangle𝐖
+H𝐖\cap𝐖K𝐖=\{1\},𝐖
+|𝐖HK|𝐖=\frac{2𝐖\cdot𝐖2}{1}𝐖=4.
+4𝐖\nmid𝐖6,𝐖
 HK
-G .
-G =S_3,
-H = \langle (12) \rangle
-K = \langle (123) \rangle,
+G𝐖.
+G𝐖=S_3𝐖,𝐖
+H𝐖=𝐖\langle𝐖(12)𝐖\rangle𝐖
+K𝐖=𝐖\langle𝐖(123)𝐖\rangle𝐖,𝐖
 H
 K
-| H \cap K| =1
-| H \cap K|
-| H| =2
-| K| =3,
+|𝐖H𝐖\cap𝐖K|𝐖=1
+|𝐖H𝐖\cap𝐖K|
+|𝐖H|𝐖=2
+|𝐖K|𝐖=3,𝐖
 HK
-HK =G .
+HK𝐖=G𝐖.
 HK
 R
-d \colon R \setminus \{0\} \to \mathbb Z_{ \ge 0}
-a, b \in R
-b \not= 0,
-q, r \in R
-a =bq +r,
-r =0
-d(r) \lt d(b) .
-\mathbb Z
-d(a) =| a|
+d𝐖\colon𝐖R𝐖\setminus𝐖\{0\}𝐖\to𝐖\mathbb𝐖Z𝐖_{𝐖\ge𝐖0}𝐖
+a,𝐖b𝐖\in𝐖R
+b𝐖\not=𝐖0,𝐖
+q,𝐖r𝐖\in𝐖R
+a𝐖=bq𝐖+r,𝐖
+r𝐖=0
+d(r)𝐖\lt𝐖d(b)𝐖.
+\mathbb𝐖Z𝐖
+d(a)𝐖=|𝐖a|
 k
 k[x]
 d
@@ -1829,112 +1829,112 @@ R
 R
 R
 R
-\pi \in R
-\pi
-\pi =ab .
-\pi \mid ab
-\pi
+\pi𝐖𝐖\in𝐖R
+\pi𝐖
+\pi𝐖𝐖=ab𝐖.
+\pi𝐖𝐖\mid𝐖ab
+\pi𝐖
 a
-b,
-a =\pi a_0 .
-\pi =ab =\pi a_0 b,
-\pi (a_0 b -1) =0.
+b,𝐖
+a𝐖=\pi𝐖a_0𝐖𝐖.
+\pi𝐖𝐖=ab𝐖=\pi𝐖a_0𝐖b,𝐖
+\pi𝐖(a_0𝐖b𝐖-1)𝐖=0.
 R
-\pi \not= 0,
-a_0 b =1
-b \in R^\times .
+\pi𝐖𝐖\not=𝐖0,𝐖
+a_0𝐖b𝐖=1
+b𝐖\in𝐖R^\times𝐖𝐖𝐖.
 R
-\pi \in R
-\pi
-\pi \mid ab .
-ab =0,
+\pi𝐖𝐖\in𝐖R
+\pi𝐖
+\pi𝐖𝐖\mid𝐖ab𝐖.
+ab𝐖=0,𝐖
 a
 b
-\pi \mid 0
-ab \not= 0.
-\pi \mid ab,
+\pi𝐖𝐖\mid𝐖0
+ab𝐖\not=𝐖0.
+\pi𝐖𝐖\mid𝐖ab,𝐖
 ab
 ab
-ab =\pi_1 \cdots \pi_r \cdot \pi_1^' \cdots \pi_s^'
-\pi_i \mid a,
-\pi_j^' \mid b
+ab𝐖=\pi𝐖_1𝐖\cdots𝐖\pi𝐖_r𝐖𝐖\cdot𝐖\pi𝐖_1^'𝐖\cdots𝐖\pi𝐖_s^'𝐖
+\pi𝐖_i𝐖𝐖\mid𝐖a,𝐖
+\pi𝐖_j^'𝐖𝐖\mid𝐖b
 r
 s
-\pi \mid ab,
-\pi
-\pi_i
-\pi_j^'
-\pi \mid a
-\pi \mid b .
-\pi
-R,
-(\pi) \subseteq I \subseteq R .
+\pi𝐖𝐖\mid𝐖ab,𝐖
+\pi𝐖
+\pi𝐖_i𝐖
+\pi𝐖_j^'𝐖
+\pi𝐖𝐖\mid𝐖a
+\pi𝐖𝐖\mid𝐖b𝐖.
+\pi𝐖
+R,𝐖
+(\pi𝐖)𝐖\subseteq𝐖I𝐖\subseteq𝐖R𝐖.
 R
-I =(r)
-r \in R,
-(\pi) \subseteq (r)
-\pi =rs
-s \in R .
-\pi
+I𝐖=(r)
+r𝐖\in𝐖R,𝐖
+(\pi𝐖)𝐖\subseteq𝐖(r)
+\pi𝐖𝐖=rs
+s𝐖\in𝐖R𝐖.
+\pi𝐖
 r
 s
 r
-I =R .
+I𝐖=R𝐖.
 s
 r
-\pi
-I =(r) =(\pi) .
-(\pi)
-(\pi)
-\pi
-\pi
-\pi
-P =(\pi)
-ab \in P =(\pi) .
-ab =\pi c
-c \in R .
-\pi
+\pi𝐖
+I𝐖=(r)𝐖=(\pi𝐖)𝐖.
+(\pi𝐖)
+(\pi𝐖)
+\pi𝐖
+\pi𝐖
+\pi𝐖
+P𝐖=(\pi𝐖)
+ab𝐖\in𝐖P𝐖=(\pi𝐖)𝐖.
+ab𝐖=\pi𝐖c
+c𝐖\in𝐖R𝐖.
+\pi𝐖
 a
-b .
-a \in P
-b \in P .
-P =(\pi)
-\pi
-\pi \mid ab .
-ab \in P =(\pi) .
+b𝐖.
+a𝐖\in𝐖P
+b𝐖\in𝐖P𝐖.
+P𝐖=(\pi𝐖)
+\pi𝐖
+\pi𝐖𝐖\mid𝐖ab𝐖.
+ab𝐖\in𝐖P𝐖=(\pi𝐖)𝐖.
 P
 a
 b
-P =(\pi),
-\pi \mid a
-\pi \mid b .
+P𝐖=(\pi𝐖),𝐖
+\pi𝐖𝐖\mid𝐖a
+\pi𝐖𝐖\mid𝐖b𝐖.
 R
 I
-R .
-I \not= (0) .
-d,
-b \in I
+R𝐖.
+I𝐖\not=𝐖(0)𝐖.
+d,𝐖
+b𝐖\in𝐖I
 d(b)
-I =(b) .
-(b) \subseteq I,
-a \in I .
-a =bq +r
-r =0
-d(r) \lt d(b) .
+I𝐖=(b)𝐖.
+(b)𝐖\subseteq𝐖I,𝐖
+a𝐖\in𝐖I𝐖.
+a𝐖=bq𝐖+r
+r𝐖=0
+d(r)𝐖\lt𝐖d(b)𝐖.
 b
 d(b)
-r =0
-a \in (b) .
-I =(b),
+r𝐖=0
+a𝐖\in𝐖(b)𝐖.
+I𝐖=(b),𝐖
 R
 R
 R
-\pi
-R .
-(\pi)
-\pi
+\pi𝐖
+R𝐖.
+(\pi𝐖)
+\pi𝐖
 R
-R =\mathbb Z [\frac{1 +\sqrt{ -d}}{2}]\~where\~d =19, 43, 67, 163
+R𝐖=\mathbb𝐖Z𝐖[\frac{1𝐖+\sqrt{𝐖-d}}{2}]\~where\~d𝐖=19,𝐖43,𝐖67,𝐖163
 d
 A[x]
 A
@@ -1942,801 +1942,801 @@ A[x]
 A
 A[x]
 A[x]
-A .
-A[x]/(x) \cong A,
+A𝐖.
+A[x]/(x)𝐖\cong𝐖A,𝐖
 (x)
 x
-A[x]/(x) \cong A
+A[x]/(x)𝐖\cong𝐖A
 A[x]
 R
 R[x]
-\mathbb Z
-\mathbb Q
+\mathbb𝐖Z𝐖
+\mathbb𝐖Q𝐖
 A
 K
-A .
+A𝐖.
 K[x]
 A
 A[x]
-K[x] .
+K[x]𝐖.
 A[x]
-K[x] .
-p(x) =2x
-\mathbb Q [x],
-\mathbb Z [x] .
-\mathbb Z [x]
-\mathbb Q [x, y]
-\mathbb Z
-\mathbb Z [x]
-\mathbb Q [x]
-\mathbb Q [x, y] =\mathbb Q [x][y]
-\mathbb Z [x]
-\mathbb Q [x, y]
-(2, x)
-\mathbb Z [x] .
-(x, y)
-\mathbb Q [x, y] .
-\mathbb Z
-\mathbb Q
-\mathbb Z [x], \mathbb Q [x], \mathbb Z [x, y], \mathbb Q [x, y],
-p(x) \in \mathbb Z [x] .
+K[x]𝐖.
+p(x)𝐖=2x
+\mathbb𝐖Q𝐖[x],𝐖
+\mathbb𝐖Z𝐖[x]𝐖.
+\mathbb𝐖Z𝐖[x]
+\mathbb𝐖Q𝐖[x,𝐖y]
+\mathbb𝐖Z𝐖
+\mathbb𝐖Z𝐖[x]
+\mathbb𝐖Q𝐖[x]
+\mathbb𝐖Q𝐖[x,𝐖y]𝐖=\mathbb𝐖Q𝐖[x][y]
+\mathbb𝐖Z𝐖[x]
+\mathbb𝐖Q𝐖[x,𝐖y]
+(2,𝐖x)
+\mathbb𝐖Z𝐖[x]𝐖.
+(x,𝐖y)
+\mathbb𝐖Q𝐖[x,𝐖y]𝐖.
+\mathbb𝐖Z𝐖
+\mathbb𝐖Q𝐖
+\mathbb𝐖Z𝐖[x],𝐖\mathbb𝐖Q𝐖[x],𝐖\mathbb𝐖Z𝐖[x,𝐖y],𝐖\mathbb𝐖Q𝐖[x,𝐖y],𝐖
+p(x)𝐖\in𝐖\mathbb𝐖Z𝐖[x]𝐖.
 p
 p
-\mathbb Z [x],
-\mathbb Q [x] ?
+\mathbb𝐖Z𝐖[x],𝐖
+\mathbb𝐖Q𝐖[x]𝐖?
 p
-\mathbb Q [x],
-\mathbb Z [x] ?
+\mathbb𝐖Q𝐖[x],𝐖
+\mathbb𝐖Z𝐖[x]𝐖?
 p
-\mathbb Z [x],
-\mathbb Z [x, y] ?
-\mathbb Z [x]
-\mathbb Z [x, y]
-\mathbb Z [x] \subset \mathbb Z [x, y] .
-\mathbb Z [x]
-\mathbb Z [x, y],
-\mathbb Z,
-R[x],
+\mathbb𝐖Z𝐖[x],𝐖
+\mathbb𝐖Z𝐖[x,𝐖y]𝐖?
+\mathbb𝐖Z𝐖[x]
+\mathbb𝐖Z𝐖[x,𝐖y]
+\mathbb𝐖Z𝐖[x]𝐖\subset𝐖\mathbb𝐖Z𝐖[x,𝐖y]𝐖.
+\mathbb𝐖Z𝐖[x]
+\mathbb𝐖Z𝐖[x,𝐖y],𝐖
+\mathbb𝐖Z𝐖,𝐖
+R[x],𝐖
 R
-\mathbb Z,
-\gcd (12, -30) = +6,
+\mathbb𝐖Z𝐖,𝐖
+\gcd𝐖(12,𝐖𝐖-30)𝐖=𝐖+6,𝐖
 R
-a, b \in R,
-a, b
-d \in R
-d \mid a
-d \mid b
+a,𝐖b𝐖\in𝐖R,𝐖
+a,𝐖b
+d𝐖\in𝐖R
+d𝐖\mid𝐖a
+d𝐖\mid𝐖b
 d
-d' \mid a
-d' \mid b,
-d' \mid d,
-d,
+d'𝐖\mid𝐖a
+d'𝐖\mid𝐖b,𝐖
+d'𝐖\mid𝐖d,𝐖
+d,𝐖
 d
-R,
-d, d'
-a, b
-d =d' \cdot u
-u \in R^\times .
-\mathbb Z
-\pm 1,
-\mathbb Z,
-\mathbb Z
+R,𝐖
+d,𝐖d'
+a,𝐖b
+d𝐖=d'𝐖\cdot𝐖u
+u𝐖\in𝐖R^\times𝐖𝐖𝐖.
+\mathbb𝐖Z𝐖
+𝐖\pm𝐖1,𝐖
+\mathbb𝐖Z𝐖,𝐖
+\mathbb𝐖Z𝐖
 R
-d \colon R \setminus \{0\} \to \mathbb Z_{ \ge 0} .
+d𝐖\colon𝐖R𝐖\setminus𝐖\{0\}𝐖\to𝐖\mathbb𝐖Z𝐖_{𝐖\ge𝐖0}𝐖𝐖.
 R
-\mathbb Z,
-\gcd (a, b) =ax +by
-x, y \in R .
-\mathbb Z,
-a =bq +r,
-\gcd (a, b) =\gcd (b, r)
-\gcd (a, b)
+\mathbb𝐖Z𝐖,𝐖
+\gcd𝐖(a,𝐖b)𝐖=ax𝐖+by
+x,𝐖y𝐖\in𝐖R𝐖.
+\mathbb𝐖Z𝐖,𝐖
+a𝐖=bq𝐖+r,𝐖
+\gcd𝐖(a,𝐖b)𝐖=\gcd𝐖(b,𝐖r)
+\gcd𝐖(a,𝐖b)
 R
-a, b \in R,
-(a, b)
-(d) =(a, b),
+a,𝐖b𝐖\in𝐖R,𝐖
+(a,𝐖b)
+(d)𝐖=(a,𝐖b),𝐖
 d
-a, b .
-(a, b) =(d),
+a,𝐖b𝐖.
+(a,𝐖b)𝐖=(d),𝐖
 d
-a, b .
-(a, b) =\{ax +by \mid x, y \in R\},
-(d) =(a, b),
-d =ax_0 +by_0
-x_0, y_0 \in R .
+a,𝐖b𝐖.
+(a,𝐖b)𝐖=\{ax𝐖+by𝐖\mid𝐖x,𝐖y𝐖\in𝐖R\},𝐖
+(d)𝐖=(a,𝐖b),𝐖
+d𝐖=ax_0𝐖𝐖+by_0𝐖
+x_0𝐖,𝐖y_0𝐖𝐖\in𝐖R𝐖.
 d
 R
-a, b \in R,
+a,𝐖b𝐖\in𝐖R,𝐖
 a
 b
 a
 b
 a
-b .
-R,
-R[x]^\times =R^\times
+b𝐖.
+R,𝐖
+R[x]^\times𝐖𝐖𝐖=R^\times𝐖𝐖
 R
-\mathbb Z,
-F .
+\mathbb𝐖Z𝐖,𝐖
+F𝐖.
 F[x]
 F
-p \in F[x]
-(x -a) \mid p
-p(a) =0.
-F[x],
-(x -a)
-p(x),
+p𝐖\in𝐖F[x]
+(x𝐖-a)𝐖\mid𝐖p
+p(a)𝐖=0.
+F[x],𝐖
+(x𝐖-a)
+p(x),𝐖
 a
 R
 K
-R =\mathbb Z
-K =\mathbb Q
-p(x) =a_n x^n +\cdots +a_1 x +a_0 \in R[x] .
-r, s \in R
-\gcd (r, s) =1 .
-\alpha =r/s \in K
+R𝐖=\mathbb𝐖Z𝐖
+K𝐖=\mathbb𝐖Q𝐖
+p(x)𝐖=a_n𝐖x^n𝐖𝐖+\cdots𝐖𝐖+a_1𝐖x𝐖+a_0𝐖𝐖\in𝐖R[x]𝐖.
+r,𝐖s𝐖\in𝐖R
+\gcd𝐖(r,𝐖s)𝐖=1𝐖.
+\alpha𝐖𝐖=r/s𝐖\in𝐖K
 p
-r \mid a_0
-s \mid a_n .
+r𝐖\mid𝐖a_0𝐖
+s𝐖\mid𝐖a_n𝐖𝐖.
 p
-R .
-\alpha
-p,
+R𝐖.
+\alpha𝐖
+p,𝐖
 p
-\alpha
-a_n r^n +a_{n -1} r^{n -1} s +\cdots +a_1 rs^{n -1} +a_0 s^n =0.
-a_n r^n = & \lt mi/> -(a_{n -1} r^{n -1} s +\cdots +a_1 rs^{n -1} +a_0 s^n) \\ a_0 s^n = & \lt mi/> -(a_n r^n +a_{n -1} r^{n -1} s +\cdots +a_1 rs^{n -1})
-s \mid a_n r^n \~and\~r \mid a_0 s^n .
-\gcd (r, s) =1,
-r \mid a_0
-s \mid a_n .
+\alpha𝐖
+a_n𝐖r^n𝐖𝐖+a_{n𝐖-1}𝐖r^{n𝐖-1}𝐖s𝐖+\cdots𝐖𝐖+a_1𝐖rs^{n𝐖-1}𝐖𝐖+a_0𝐖s^n𝐖𝐖=0.
+a_n𝐖r^n𝐖𝐖=𝐖&𝐖\lt𝐖mi/>𝐖-(a_{n𝐖-1}𝐖r^{n𝐖-1}𝐖s𝐖+\cdots𝐖𝐖+a_1𝐖rs^{n𝐖-1}𝐖𝐖+a_0𝐖s^n𝐖)𝐖\\𝐖a_0𝐖s^n𝐖𝐖=𝐖&𝐖\lt𝐖mi/>𝐖-(a_n𝐖r^n𝐖𝐖+a_{n𝐖-1}𝐖r^{n𝐖-1}𝐖s𝐖+\cdots𝐖𝐖+a_1𝐖rs^{n𝐖-1}𝐖)
+s𝐖\mid𝐖a_n𝐖r^n𝐖\~and\~r𝐖\mid𝐖a_0𝐖s^n𝐖𝐖.
+\gcd𝐖(r,𝐖s)𝐖=1,𝐖
+r𝐖\mid𝐖a_0𝐖
+s𝐖\mid𝐖a_n𝐖𝐖.
 R
-K[x],
+K[x],𝐖
 K
 K[x]
 R[x]
-K[x] .
+K[x]𝐖.
 R
-p(x) =a_0 +a_1 x +\cdots +a_n x^n \in R[x] .
+p(x)𝐖=a_0𝐖𝐖+a_1𝐖x𝐖+\cdots𝐖𝐖+a_n𝐖x^n𝐖𝐖\in𝐖R[x]𝐖.
 p
-\gcd (a_0, \ldots, a_n) =1,
-p \in R[x]
-p =C(p)p_0
-p_0
-C(p) \in R;
+\gcd𝐖(a_0𝐖,𝐖\ldots𝐖,𝐖a_n𝐖)𝐖=1,𝐖
+p𝐖\in𝐖R[x]
+p𝐖=C(p)p_0𝐖
+p_0𝐖
+C(p)𝐖\in𝐖R;𝐖
 C(p)
-p .
+p𝐖.
 R
 K
-p(x) =a_0 +\cdots +a_n x^n
-R[x] .
+p(x)𝐖=a_0𝐖𝐖+\cdots𝐖𝐖+a_n𝐖x^n𝐖
+R[x]𝐖.
 p
 K[x]
-p(x) =F(X)G(X) .
-\alpha, \beta \in K^\times
-f =\alpha F \in R[x], g =\beta G \in R[x], \~and\~p =fg .
-p, q \in R[x],
-C(pq) =C(p)C(q),
+p(x)𝐖=F(X)G(X)𝐖.
+\alpha𝐖,𝐖\beta𝐖𝐖\in𝐖K^\times𝐖𝐖
+f𝐖=\alpha𝐖F𝐖\in𝐖R[x],𝐖g𝐖=\beta𝐖G𝐖\in𝐖R[x],𝐖\~and\~p𝐖=fg𝐖.
+p,𝐖q𝐖\in𝐖R[x],𝐖
+C(pq)𝐖=C(p)C(q),𝐖
 R[x]
-K[x] .
+K[x]𝐖.
 R
 K
-p \in R[x] .
+p𝐖\in𝐖R[x]𝐖.
 p
 R[x]
 p
 R[x]
-K[x] .
+K[x]𝐖.
 p
-R[x],
-K[x],
-p =FG
-K[x] .
-\alpha, \beta \in K^\times
-f =\alpha F \in R[x], g =\beta G \in R[x], \~and\~p =fg .
-\deg f, \deg g \ge 1,
+R[x],𝐖
+K[x],𝐖
+p𝐖=FG
+K[x]𝐖.
+\alpha𝐖,𝐖\beta𝐖𝐖\in𝐖K^\times𝐖𝐖
+f𝐖=\alpha𝐖F𝐖\in𝐖R[x],𝐖g𝐖=\beta𝐖G𝐖\in𝐖R[x],𝐖\~and\~p𝐖=fg𝐖.
+\deg𝐖f,𝐖\deg𝐖g𝐖\ge𝐖1,𝐖
 p
-R[x],
+R[x],𝐖
 p
-K[x] .
-R[x],
-p =fg
-f, g \in R[x]
-\deg f, \deg g \ge 1
+K[x]𝐖.
+R[x],𝐖
+p𝐖=fg
+f,𝐖g𝐖\in𝐖R[x]
+\deg𝐖f,𝐖\deg𝐖g𝐖\ge𝐖1
 p
 f
 g
-K[x],
+K[x],𝐖
 p
-K[x],
-p(x) =x^3 +82x^2 +3456782 \in \mathbb Z [x] .
+K[x],𝐖
+p(x)𝐖=x^3𝐖𝐖+82x^2𝐖𝐖+3456782𝐖\in𝐖\mathbb𝐖Z𝐖[x]𝐖.
 p(r)
-r \mid 3456782 .
+r𝐖\mid𝐖3456782𝐖.
 R
-p \in R[x]
+p𝐖\in𝐖R[x]
 I
-R,
-R[x] \to (R/I)[x],
-p \mapsto \overline{p} .
+R,𝐖
+R[x]𝐖\to𝐖(R/I)[x],𝐖
+p𝐖\mapsto𝐖\overline{p}𝐖.
 \overline{p}
 p
-R[x] .
+R[x]𝐖.
 \overline{p}
 p
-R[x],
-p =fg .
+R[x],𝐖
+p𝐖=fg𝐖.
 p
-f, g
-\deg f, \deg g \ge 1
-f(x) =a_m x^m +\cdots +a_0 \~and\~g(x) =b_n x^n +\cdots +b_0 .
-a_m, b_n \in R^\times .
-I \colon
-p =fg \mapsto \overline{p} =\overline{fg} =\overline{f} \cdot \overline{g} \in (R/I)[x] .
-\overline{f} =(a_m +I)x^m +\cdots +(a_0 +I)\~and\~\overline{g} =(b_n +I)x^n +\cdots +(b_0 +I) .
-a_m, b_n \in R^\times
+f,𝐖g
+\deg𝐖f,𝐖\deg𝐖g𝐖\ge𝐖1
+f(x)𝐖=a_m𝐖x^m𝐖𝐖+\cdots𝐖𝐖+a_0𝐖\~and\~g(x)𝐖=b_n𝐖x^n𝐖𝐖+\cdots𝐖𝐖+b_0𝐖𝐖.
+a_m𝐖,𝐖b_n𝐖𝐖\in𝐖R^\times𝐖𝐖𝐖.
+I𝐖\colon𝐖
+p𝐖=fg𝐖\mapsto𝐖\overline{p}𝐖=\overline{fg}𝐖=\overline{f}𝐖\cdot𝐖\overline{g}𝐖\in𝐖(R/I)[x]𝐖.
+\overline{f}𝐖=(a_m𝐖𝐖+I)x^m𝐖𝐖+\cdots𝐖𝐖+(a_0𝐖𝐖+I)\~and\~\overline{g}𝐖=(b_n𝐖𝐖+I)x^n𝐖𝐖+\cdots𝐖𝐖+(b_0𝐖𝐖+I)𝐖.
+a_m𝐖,𝐖b_n𝐖𝐖\in𝐖R^\times𝐖𝐖
 I
-a_m +I \not= 0 +I
-b_n +I \not= 0 +I,
-\deg \overline{f}, \deg \overline{g} \ge 1
+a_m𝐖𝐖+I𝐖\not=𝐖0𝐖+I
+b_n𝐖𝐖+I𝐖\not=𝐖0𝐖+I,𝐖
+\deg𝐖\overline{f},𝐖\deg𝐖\overline{g}𝐖\ge𝐖1
 \overline{p}
-p(x) =x^3 +82x^2 +3456782 \in \mathbb Z [x]
-I =2\mathbb Z .
-\overline{p} =x^3 =x \cdot x^2
-I =3\mathbb Z .
-\overline{p} =x^3 +x +2 \in \mathbb Z /3\mathbb Z [x] .
+p(x)𝐖=x^3𝐖𝐖+82x^2𝐖𝐖+3456782𝐖\in𝐖\mathbb𝐖Z𝐖[x]
+I𝐖=2\mathbb𝐖Z𝐖𝐖.
+\overline{p}𝐖=x^3𝐖𝐖=x𝐖\cdot𝐖x^2𝐖
+I𝐖=3\mathbb𝐖Z𝐖𝐖.
+\overline{p}𝐖=x^3𝐖𝐖+x𝐖+2𝐖\in𝐖\mathbb𝐖Z𝐖/3\mathbb𝐖Z𝐖[x]𝐖.
 \overline{p}
-\mathbb Z /3\mathbb Z
-\mathbb Z /3\mathbb Z
+\mathbb𝐖Z𝐖/3\mathbb𝐖Z𝐖
+\mathbb𝐖Z𝐖/3\mathbb𝐖Z𝐖
 \overline{p}
-\mathbb Z /3\mathbb Z,
-p(x) =x^3 +82x^2 +3456782
-\mathbb Z [x] .
-p(x, y) = -1 +x -y +x^2 y +y^3 \in \mathbb Q [x, y] .
+\mathbb𝐖Z𝐖/3\mathbb𝐖Z𝐖,𝐖
+p(x)𝐖=x^3𝐖𝐖+82x^2𝐖𝐖+3456782
+\mathbb𝐖Z𝐖[x]𝐖.
+p(x,𝐖y)𝐖=𝐖-1𝐖+x𝐖-y𝐖+x^2𝐖y𝐖+y^3𝐖𝐖\in𝐖\mathbb𝐖Q𝐖[x,𝐖y]𝐖.
 p
-p =y^3 +(x^2 -1)y +(x -1) \in \mathbb Q [x][y] .
-R =\mathbb Q [x] .
+p𝐖=y^3𝐖𝐖+(x^2𝐖𝐖-1)y𝐖+(x𝐖-1)𝐖\in𝐖\mathbb𝐖Q𝐖[x][y]𝐖.
+R𝐖=\mathbb𝐖Q𝐖[x]𝐖.
 p
-R[y] .
-I =(x) \subsetneq R .
-R/I =\mathbb Q [x]/(x) \cong \mathbb Q
-x \mapsto 0
-\overline{p} \in (R/I)[y] \cong \mathbb Q [y]
-x =0,
-\overline{p} =y^3 -y -1 \in \mathbb Q [y] .
+R[y]𝐖.
+I𝐖=(x)𝐖\subsetneq𝐖R𝐖.
+R/I𝐖=\mathbb𝐖Q𝐖[x]/(x)𝐖\cong𝐖\mathbb𝐖Q𝐖
+x𝐖\mapsto𝐖0
+\overline{p}𝐖\in𝐖(R/I)[y]𝐖\cong𝐖\mathbb𝐖Q𝐖[y]
+x𝐖=0,𝐖
+\overline{p}𝐖=y^3𝐖𝐖-y𝐖-1𝐖\in𝐖\mathbb𝐖Q𝐖[y]𝐖.
 \overline{p}
-\pm 1,
+𝐖\pm𝐖1,𝐖
 p
-\mathbb Q [x, y] .
+\mathbb𝐖Q𝐖[x,𝐖y]𝐖.
 R
-p =a_n x^n +\cdots +a_0 \in R[x]
-\pi \in R
-\pi \mid a_i, i =0\ldots, n -1, \pi \nmid a_n, \~and\~\pi^2 \nmid a_0 .
+p𝐖=a_n𝐖x^n𝐖𝐖+\cdots𝐖𝐖+a_0𝐖𝐖\in𝐖R[x]
+\pi𝐖𝐖\in𝐖R
+\pi𝐖𝐖\mid𝐖a_i𝐖,𝐖i𝐖=0\ldots𝐖,𝐖n𝐖-1,𝐖\pi𝐖𝐖\nmid𝐖a_n𝐖,𝐖\~and\~\pi𝐖^2𝐖𝐖\nmid𝐖a_0𝐖𝐖.
 p
-R[x] .
+R[x]𝐖.
 p
-R[x] .
+R[x]𝐖.
 p
-p =fg\~where\~f, g \in R[x], \~with\~\deg f, \deg g \ge 1,
-f =b_0 +\cdots +b_r x^r \~and\~g =c_0 +\cdots +c_s x^s .
-\pi
-\pi \mid a_0 =b_0 c_0,
-b_0
-c_0,
-\pi^2 \nmid a_0
-\pi \mid b_0
-\pi \nmid c_0 .
-\pi \nmid a_n =b_r c_s,
-\pi \nmid b_r
-\pi \nmid c_s .
-\pi \mid c_0,
-\pi \nmid c_s,
-\ell
-\pi \nmid c_\ell .
-0 \lt \ell \le s \lt n\~and\~a_\ell =b_\ell c_0 +b_{\ell -1} c_1 +\cdots +b_0 c_\ell .
-\ell \lt n,
-\pi \mid a_\ell,
-\ell,
-\pi \mid c_0, \ldots, c_{\ell -1},
-\pi \mid b_0 c_\ell .
-\pi
-\pi \mid b_0
-\pi \mid c_\ell,
-n \ge 1
-\mathbb Z [x] .
+p𝐖=fg\~where\~f,𝐖g𝐖\in𝐖R[x],𝐖\~with\~\deg𝐖f,𝐖\deg𝐖g𝐖\ge𝐖1,𝐖
+f𝐖=b_0𝐖𝐖+\cdots𝐖𝐖+b_r𝐖x^r𝐖\~and\~g𝐖=c_0𝐖𝐖+\cdots𝐖𝐖+c_s𝐖x^s𝐖𝐖.
+\pi𝐖
+\pi𝐖𝐖\mid𝐖a_0𝐖𝐖=b_0𝐖c_0𝐖,𝐖
+b_0𝐖
+c_0𝐖,𝐖
+\pi𝐖^2𝐖𝐖\nmid𝐖a_0𝐖
+\pi𝐖𝐖\mid𝐖b_0𝐖
+\pi𝐖𝐖\nmid𝐖c_0𝐖𝐖.
+\pi𝐖𝐖\nmid𝐖a_n𝐖𝐖=b_r𝐖c_s𝐖,𝐖
+\pi𝐖𝐖\nmid𝐖b_r𝐖
+\pi𝐖𝐖\nmid𝐖c_s𝐖𝐖.
+\pi𝐖𝐖\mid𝐖c_0𝐖,𝐖
+\pi𝐖𝐖\nmid𝐖c_s𝐖,𝐖
+\ell𝐖
+\pi𝐖𝐖\nmid𝐖c_\ell𝐖𝐖𝐖.
+0𝐖\lt𝐖\ell𝐖𝐖\le𝐖s𝐖\lt𝐖n\~and\~a_\ell𝐖𝐖𝐖=b_\ell𝐖𝐖c_0𝐖𝐖+b_{\ell𝐖𝐖-1}𝐖c_1𝐖𝐖+\cdots𝐖𝐖+b_0𝐖c_\ell𝐖𝐖𝐖.
+\ell𝐖𝐖\lt𝐖n,𝐖
+\pi𝐖𝐖\mid𝐖a_\ell𝐖𝐖,𝐖
+\ell𝐖,𝐖
+\pi𝐖𝐖\mid𝐖c_0𝐖,𝐖\ldots𝐖,𝐖c_{\ell𝐖𝐖-1}𝐖,𝐖
+\pi𝐖𝐖\mid𝐖b_0𝐖c_\ell𝐖𝐖𝐖.
+\pi𝐖
+\pi𝐖𝐖\mid𝐖b_0𝐖
+\pi𝐖𝐖\mid𝐖c_\ell𝐖𝐖,𝐖
+n𝐖\ge𝐖1
+\mathbb𝐖Z𝐖[x]𝐖.
 p
-\mathbb Z .
-x^n \pm p
-\mathbb Z [x] .
-x^{907} +27x^3 +15x^2 -81x +6
-\mathbb Z [x] .
-p =3.
-p = -1 +x -y +x^2 y +y^3
-\mathbb Q [x, y] .
-R =\mathbb Q [x]
+\mathbb𝐖Z𝐖𝐖.
+x^n𝐖𝐖\pm𝐖p
+\mathbb𝐖Z𝐖[x]𝐖.
+x^{907}𝐖𝐖+27x^3𝐖𝐖+15x^2𝐖𝐖-81x𝐖+6
+\mathbb𝐖Z𝐖[x]𝐖.
+p𝐖=3.
+p𝐖=𝐖-1𝐖+x𝐖-y𝐖+x^2𝐖y𝐖+y^3𝐖
+\mathbb𝐖Q𝐖[x,𝐖y]𝐖.
+R𝐖=\mathbb𝐖Q𝐖[x]
 p
 R[y]
-p =y^3 +(x^2 -1)y +(x -1) .
-\pi =(x -1) \in R =\mathbb Q [x]
-R,
+p𝐖=y^3𝐖𝐖+(x^2𝐖𝐖-1)y𝐖+(x𝐖-1)𝐖.
+\pi𝐖𝐖=(x𝐖-1)𝐖\in𝐖R𝐖=\mathbb𝐖Q𝐖[x]
+R,𝐖
 R[x]
-\varphi \colon R[x] \to R[x]
-p \in R[x]
-\varphi (p)
-R[x] =\varphi (R[x]) .
-f(x) \mapsto f(x \pm a)
-a \in R,
+\varphi𝐖𝐖\colon𝐖R[x]𝐖\to𝐖R[x]
+p𝐖\in𝐖R[x]
+\varphi𝐖(p)
+R[x]𝐖=\varphi𝐖(R[x])𝐖.
+f(x)𝐖\mapsto𝐖f(x𝐖\pm𝐖a)
+a𝐖\in𝐖R,𝐖
 f(x)
-f(x \pm a)
+f(x𝐖\pm𝐖a)
 p
-\mathbb Z .
-f(x) =1 +x +x^2 +\cdots +x^{p -1} =\frac{x^p -1}{x -1}
-\mathbb Z [x] .
-g(x) =f(x +1) .
+\mathbb𝐖Z𝐖𝐖.
+f(x)𝐖=1𝐖+x𝐖+x^2𝐖𝐖+\cdots𝐖𝐖+x^{p𝐖-1}𝐖𝐖=\frac{x^p𝐖𝐖-1}{x𝐖-1}
+\mathbb𝐖Z𝐖[x]𝐖.
+g(x)𝐖=f(x𝐖+1)𝐖.
 f
 g
-g(x) = & f(x +1) =\frac{(x +1)^p -1}{(x +1) -1} \\ = & \frac{x^p +\binom{p}{1}x^{p -1} +\cdots +\binom{p}{p -1}x +1 -1}{x} \\ = & x^{p -1} +\binom{p}{1}x^{p -2} +\cdots +\binom{p}{p -1}
-\mathbb Z [x]
+g(x)𝐖=𝐖&𝐖f(x𝐖+1)𝐖=\frac{(x𝐖+1)^p𝐖𝐖-1}{(x𝐖+1)𝐖-1}𝐖\\𝐖=𝐖&𝐖\frac{x^p𝐖𝐖+\binom{p}{1}x^{p𝐖-1}𝐖𝐖+\cdots𝐖𝐖+\binom{p}{p𝐖-1}x𝐖+1𝐖-1}{x}𝐖\\𝐖=𝐖&𝐖x^{p𝐖-1}𝐖𝐖+\binom{p}{1}x^{p𝐖-2}𝐖𝐖+\cdots𝐖𝐖+\binom{p}{p𝐖-1}
+\mathbb𝐖Z𝐖[x]
 p
-p \mid \binom{p}{k}
-1 \le k \le p -1
-\binom{p}{p -1} =p .
+p𝐖\mid𝐖\binom{p}{k}
+1𝐖\le𝐖k𝐖\le𝐖p𝐖-1
+\binom{p}{p𝐖-1}𝐖=p𝐖.
 G
 X
 G
 X
-G \times X \to X,
-(g, x) \mapsto g \cdot x,
-e \cdot x =x\~for\space all\~x \in X .
+G𝐖\times𝐖X𝐖\to𝐖X,𝐖
+(g,𝐖x)𝐖\mapsto𝐖g𝐖\cdot𝐖x,𝐖
+e𝐖\cdot𝐖x𝐖=x\~for\space𝐖all\~x𝐖\in𝐖X𝐖.
 e
-G .
-g_1 \cdot (g_2 \cdot x) =(g_1 g_2) \cdot x
-g_1, g_2 \in G
-x \in X .
+G𝐖.
+g_1𝐖𝐖\cdot𝐖(g_2𝐖𝐖\cdot𝐖x)𝐖=(g_1𝐖g_2𝐖)𝐖\cdot𝐖x
+g_1𝐖,𝐖g_2𝐖𝐖\in𝐖G
+x𝐖\in𝐖X𝐖.
 G
-X =G
-G \times G \to G
-(g, x) \mapsto gxg^{ -1} .
+X𝐖=G
+G𝐖\times𝐖G𝐖\to𝐖G
+(g,𝐖x)𝐖\mapsto𝐖gxg^{𝐖-1}𝐖𝐖.
 G
 H
-X =G/H
+X𝐖=G/H
 G
 G/H
-G \times G/H \to G/H
-(g, xH) \mapsto gxH .
+G𝐖\times𝐖G/H𝐖\to𝐖G/H
+(g,𝐖xH)𝐖\mapsto𝐖gxH𝐖.
 G
-p,
-p^m \mid | G| .
-X =\{H \le G \mid | H| =p^m \} .
+p,𝐖
+p^m𝐖𝐖\mid𝐖|𝐖G|𝐖.
+X𝐖=\{H𝐖\le𝐖G𝐖\mid𝐖|𝐖H|𝐖=p^m𝐖\}𝐖.
 X
 G
 X
-(g, H) \mapsto gHg^{ -1} .
-g \in G,
-\varphi_g \colon G \to G
-\varphi_g (x) =gxg^{ -1}
-gHg^{ -1} =\varphi_g (H)
+(g,𝐖H)𝐖\mapsto𝐖gHg^{𝐖-1}𝐖𝐖.
+g𝐖\in𝐖G,𝐖
+\varphi𝐖_g𝐖𝐖\colon𝐖G𝐖\to𝐖G
+\varphi𝐖_g𝐖(x)𝐖=gxg^{𝐖-1}𝐖
+gHg^{𝐖-1}𝐖𝐖=\varphi𝐖_g𝐖(H)
 G
-H,
-X .
+H,𝐖
+X𝐖.
 G
-X,
-\varphi \colon G \to Per(X),
+X,𝐖
+\varphi𝐖𝐖\colon𝐖G𝐖\to𝐖Per(X),𝐖
 Per(X)
-X \to X
+X𝐖\to𝐖X
 G
 X
-G \times X \to X,
-G \to Per(X)
-(g, x) \mapsto g \cdot x,
-\varphi \colon G \to Per(X)
-\varphi (g) =\varphi_g \in Per(X)\~where\~\varphi_g (x) =g \cdot x .
-\varphi \colon G \to Per(X)
-\varphi (g) =\varphi_g \in Per(X),
-G \times X \to X
-(g, x) \mapsto \varphi_g (x) .
-\varphi \colon G \to Per(X)
-X \to X .
+G𝐖\times𝐖X𝐖\to𝐖X,𝐖
+G𝐖\to𝐖Per(X)
+(g,𝐖x)𝐖\mapsto𝐖g𝐖\cdot𝐖x,𝐖
+\varphi𝐖𝐖\colon𝐖G𝐖\to𝐖Per(X)
+\varphi𝐖(g)𝐖=\varphi𝐖_g𝐖𝐖\in𝐖Per(X)\~where\~\varphi𝐖_g𝐖(x)𝐖=g𝐖\cdot𝐖x𝐖.
+\varphi𝐖𝐖\colon𝐖G𝐖\to𝐖Per(X)
+\varphi𝐖(g)𝐖=\varphi𝐖_g𝐖𝐖\in𝐖Per(X),𝐖
+G𝐖\times𝐖X𝐖\to𝐖X
+(g,𝐖x)𝐖\mapsto𝐖\varphi𝐖_g𝐖(x)𝐖.
+\varphi𝐖𝐖\colon𝐖G𝐖\to𝐖Per(X)
+X𝐖\to𝐖X𝐖.
 X
-\varphi (g)
-\varphi (g) =\varphi_g
-\varphi_g \colon X \to X
-G \times X \to X
-\varphi \colon G \to Per(X)
+\varphi𝐖(g)
+\varphi𝐖(g)𝐖=\varphi𝐖_g𝐖
+\varphi𝐖_g𝐖𝐖\colon𝐖X𝐖\to𝐖X
+G𝐖\times𝐖X𝐖\to𝐖X
+\varphi𝐖𝐖\colon𝐖G𝐖\to𝐖Per(X)
 G
-G \times G \to G
-(g, x) \mapsto gx
+G𝐖\times𝐖G𝐖\to𝐖G
+(g,𝐖x)𝐖\mapsto𝐖gx
 gx
-\varphi \colon G \to Per(G)\~given\space by\~\varphi (g) =\varphi_g \~with\~\varphi_g (x) =gx,
-G .
-\varphi ?
-\ker \varphi =\{g \in G \mid \varphi (g) =\varphi_g =e_{Per(G)} \},
-\varphi_g (x) =gx =x
-x \in X =G .
-x =e_G
-g =e,
+\varphi𝐖𝐖\colon𝐖G𝐖\to𝐖Per(G)\~given\space𝐖by\~\varphi𝐖(g)𝐖=\varphi𝐖_g𝐖\~with\~\varphi𝐖_g𝐖(x)𝐖=gx,𝐖
+G𝐖.
+\varphi𝐖𝐖?
+\ker𝐖\varphi𝐖𝐖=\{g𝐖\in𝐖G𝐖\mid𝐖\varphi𝐖(g)𝐖=\varphi𝐖_g𝐖𝐖=e_{Per(G)}𝐖\},𝐖
+\varphi𝐖_g𝐖(x)𝐖=gx𝐖=x
+x𝐖\in𝐖X𝐖=G𝐖.
+x𝐖=e_G𝐖
+g𝐖=e,𝐖
 G
-Per(G) .
+Per(G)𝐖.
 G
-| G| =n,
+|𝐖G|𝐖=n,𝐖
 G
-S_n .
+S_n𝐖𝐖.
 G
 X
-x \in X .
+x𝐖\in𝐖X𝐖.
 x
-G_x \colon =\{g \in G \mid g \cdot x =x\} .
+G_x𝐖𝐖\colon𝐖=\{g𝐖\in𝐖G𝐖\mid𝐖g𝐖\cdot𝐖x𝐖=x\}𝐖.
 x
-Gx =G \cdot x \colon =\{g \cdot x \mid g \in G\} =\{y \in X \mid y =g \cdot x\~for\space some\~g \in G\} .
-G_x
-G,
+Gx𝐖=G𝐖\cdot𝐖x𝐖\colon𝐖=\{g𝐖\cdot𝐖x𝐖\mid𝐖g𝐖\in𝐖G\}𝐖=\{y𝐖\in𝐖X𝐖\mid𝐖y𝐖=g𝐖\cdot𝐖x\~for\space𝐖some\~g𝐖\in𝐖G\}𝐖.
+G_x𝐖
+G,𝐖
 Gx
-X .
+X𝐖.
 G
-x \in X .
-Gx =\{gxg^{ -1} \mid g \in G\}
-x,
-G_x =\{g \in G \mid gxg^{ -1} =x\}
-x .
+x𝐖\in𝐖X𝐖.
+Gx𝐖=\{gxg^{𝐖-1}𝐖𝐖\mid𝐖g𝐖\in𝐖G\}
+x,𝐖
+G_x𝐖𝐖=\{g𝐖\in𝐖G𝐖\mid𝐖gxg^{𝐖-1}𝐖𝐖=x\}
+x𝐖.
 G
-X =\{H \le G\}
-G .
-G
-X
-x =H \in X .
-Gx =\{gHg^{ -1} \mid g \in G\}
-H,
-G_x =\{g \in G \mid gHg^{ -1} =H\}
-H .
+X𝐖=\{H𝐖\le𝐖G\}
+G𝐖.
 G
 X
+x𝐖=H𝐖\in𝐖X𝐖.
+Gx𝐖=\{gHg^{𝐖-1}𝐖𝐖\mid𝐖g𝐖\in𝐖G\}
+H,𝐖
+G_x𝐖𝐖=\{g𝐖\in𝐖G𝐖\mid𝐖gHg^{𝐖-1}𝐖𝐖=H\}
+H𝐖.
 G
-H ?
-H =gHg^{ -1}
-g \in G,
+X
+G
+H𝐖?
+H𝐖=gHg^{𝐖-1}𝐖
+g𝐖\in𝐖G,𝐖
 H
 H
-G,
-| Gx| =1 \iff G_x =G .
-G =S_3
+G,𝐖
+|𝐖Gx|𝐖=1𝐖\iff𝐖G_x𝐖𝐖=G𝐖.
+G𝐖=S_3𝐖
 X
-S_3 .
-x \in X,
-S_3
+S_3𝐖𝐖.
+x𝐖\in𝐖X,𝐖
+S_3𝐖
 e
 t
-(12),
-(23),
-(13),
+(12),𝐖
+(23),𝐖
+(13),𝐖
 T
 (123)
-(132) .
-x & \lt mi/> =\{e\}Gx =\{e\}G_x =G . \\ x & \lt mi/> = \langle t \rangle Gx =\{ \langle (12) \rangle, \langle (23) \rangle, \langle (13) \rangle \}G_x = \langle t \rangle . \\ x & \lt mi/> = \langle T \rangle Gx =\{x\}G_x =G . \\ x & \lt mi/> =S_3 Gx =\{x\}G_x =G .
+(132)𝐖.
+x𝐖&𝐖\lt𝐖mi/>𝐖=\{e\}Gx𝐖=\{e\}G_x𝐖𝐖=G𝐖.𝐖\\𝐖x𝐖&𝐖\lt𝐖mi/>𝐖=𝐖\langle𝐖t𝐖\rangle𝐖Gx𝐖=\{𝐖\langle𝐖(12)𝐖\rangle𝐖,𝐖𝐖\langle𝐖(23)𝐖\rangle𝐖,𝐖𝐖\langle𝐖(13)𝐖\rangle𝐖\}G_x𝐖𝐖=𝐖\langle𝐖t𝐖\rangle𝐖𝐖.𝐖\\𝐖x𝐖&𝐖\lt𝐖mi/>𝐖=𝐖\langle𝐖T𝐖\rangle𝐖Gx𝐖=\{x\}G_x𝐖𝐖=G𝐖.𝐖\\𝐖x𝐖&𝐖\lt𝐖mi/>𝐖=S_3𝐖Gx𝐖=\{x\}G_x𝐖𝐖=G𝐖.
 G
-X,
-x \in X .
-G/G_x \leftrightarrow Gx
-G/G_x
+X,𝐖
+x𝐖\in𝐖X𝐖.
+G/G_x𝐖𝐖\leftrightarrow𝐖Gx
+G/G_x𝐖
 Gx
-gG_x \leftrightarrow gx .
-[G \colon G_x] =| Gx|,
-gG_x \mapsto gx
-gG_x =hG_x .
-h^{ -1} g \in G_x,
-gG_x =hG_x
-h^{ -1} gx =x
-gx =hx
-gx \in Gx,
-gG_x
-| Gx| =| G/G_x | =[G \colon G_x],
-G_x
+gG_x𝐖𝐖\leftrightarrow𝐖gx𝐖.
+[G𝐖\colon𝐖G_x𝐖]𝐖=|𝐖Gx|,𝐖
+gG_x𝐖𝐖\mapsto𝐖gx
+gG_x𝐖𝐖=hG_x𝐖𝐖.
+h^{𝐖-1}𝐖g𝐖\in𝐖G_x𝐖,𝐖
+gG_x𝐖𝐖=hG_x𝐖
+h^{𝐖-1}𝐖gx𝐖=x
+gx𝐖=hx
+gx𝐖\in𝐖Gx,𝐖
+gG_x𝐖
+|𝐖Gx|𝐖=|𝐖G/G_x𝐖|𝐖=[G𝐖\colon𝐖G_x𝐖],𝐖
+G_x𝐖
 G
-G,
-X .
+G,𝐖
+X𝐖.
 G
-X .
-\{Gx \mid x \in X\}
-X .
+X𝐖.
+\{Gx𝐖\mid𝐖x𝐖\in𝐖X\}
+X𝐖.
 X
-e \cdot x =x
-x \in X,
-x \in Gx
+e𝐖\cdot𝐖x𝐖=x
+x𝐖\in𝐖X,𝐖
+x𝐖\in𝐖Gx
 G
-z \in Gx \cap Gy .
-Gx =Gy .
-Gx \subseteq Gy .
-z \in Gx \cap Gy,
-z =g_1 x =g_2 y .
-x =(g_1^{ -1} g_2)y,
-g \in G,
-gx =(gg_1^{ -1} g_2)y \in Gy
+z𝐖\in𝐖Gx𝐖\cap𝐖Gy𝐖.
+Gx𝐖=Gy𝐖.
+Gx𝐖\subseteq𝐖Gy𝐖.
+z𝐖\in𝐖Gx𝐖\cap𝐖Gy,𝐖
+z𝐖=g_1𝐖x𝐖=g_2𝐖y𝐖.
+x𝐖=(g_1^{𝐖-1}𝐖g_2𝐖)y,𝐖
+g𝐖\in𝐖G,𝐖
+gx𝐖=(gg_1^{𝐖-1}𝐖g_2𝐖)y𝐖\in𝐖Gy
 H
-[G \colon H] =2
-H) .
+[G𝐖\colon𝐖H]𝐖=2
+H)𝐖.
 G
 H
-[G \colon H] =p,
-G .
+[G𝐖\colon𝐖H]𝐖=p,𝐖
+G𝐖.
 H
-G .
+G𝐖.
 G
 H
 G
 G/H
-\varphi \colon G \to Per(G/H)
-\ker \varphi \le H .
-\varphi
-\varphi (g) =\varphi_g \~where\~\varphi_g (xH) =gxH .
-k \in \ker \varphi
-\varphi (k) =\varphi_k
-k \in \ker \varphi,
-\varphi_k (xH) =kxH =xH
-x \in G .
-x =e
-kH =H
-k \in H .
+\varphi𝐖𝐖\colon𝐖G𝐖\to𝐖Per(G/H)
+\ker𝐖\varphi𝐖𝐖\le𝐖H𝐖.
+\varphi𝐖
+\varphi𝐖(g)𝐖=\varphi𝐖_g𝐖\~where\~\varphi𝐖_g𝐖(xH)𝐖=gxH𝐖.
+k𝐖\in𝐖\ker𝐖\varphi𝐖
+\varphi𝐖(k)𝐖=\varphi𝐖_k𝐖
+k𝐖\in𝐖\ker𝐖\varphi𝐖,𝐖
+\varphi𝐖_k𝐖(xH)𝐖=kxH𝐖=xH
+x𝐖\in𝐖G𝐖.
+x𝐖=e
+kH𝐖=H
+k𝐖\in𝐖H𝐖.
 G
 H
-[G \colon H] =p,
-G .
+[G𝐖\colon𝐖H]𝐖=p,𝐖
+G𝐖.
 G
 G/H
-K =\ker \varphi \subseteq H .
+K𝐖=\ker𝐖\varphi𝐖𝐖\subseteq𝐖H𝐖.
 H
-H =K
-K \subseteq H \subseteq G
-G/K \cong Im\varphi \le Per(G/H)
-| G/K| =[G \colon K] \mid [G \colon H]! =| Per(G/H)| =p! .
-[G \colon K] =[G \colon H][H \colon K] =p[H \colon K] .
-[H \colon K] \mid (p -1)! .
-[H \colon K] \mid | H| \mid | G|,
-[H \colon K] \mid \gcd (| G|, (p -1)!) =1
+H𝐖=K
+K𝐖\subseteq𝐖H𝐖\subseteq𝐖G
+G/K𝐖\cong𝐖Im\varphi𝐖𝐖\le𝐖Per(G/H)
+|𝐖G/K|𝐖=[G𝐖\colon𝐖K]𝐖\mid𝐖[G𝐖\colon𝐖H]!𝐖=|𝐖Per(G/H)|𝐖=p!𝐖.
+[G𝐖\colon𝐖K]𝐖=[G𝐖\colon𝐖H][H𝐖\colon𝐖K]𝐖=p[H𝐖\colon𝐖K]𝐖.
+[H𝐖\colon𝐖K]𝐖\mid𝐖(p𝐖-1)!𝐖.
+[H𝐖\colon𝐖K]𝐖\mid𝐖|𝐖H|𝐖\mid𝐖|𝐖G|,𝐖
+[H𝐖\colon𝐖K]𝐖\mid𝐖\gcd𝐖(|𝐖G|,𝐖(p𝐖-1)!)𝐖=1
 p
-| G| .
-[H \colon K] =1,
-H =K
-G .
-p^2
+|𝐖G|𝐖.
+[H𝐖\colon𝐖K]𝐖=1,𝐖
+H𝐖=K
+G𝐖.
+p^2𝐖
 p
-p
-G
-G
-z \in G
-Z(G),
-G
-z,
-C_G (z),
-G .
-G
-G
-G =Gg_1 \sqcup Gg_2 \sqcup \cdots \sqcup Gg_t,
-G .
-G
-g_1, \ldots, g_r
-G
-Z(G) .
-| G| =| Z(G)| +\sum_{i =1}^r [G \colon G_{g_i}] =| Z(G)| +\sum_{i =1}^r [G \colon C_G (g_i)] .
-G
-G =Gh_1 \sqcup \cdots \sqcup Gh_t \sqcup Gg_1 \sqcup Gg_2 \sqcup \cdots \sqcup Gg_r
-h_i
-g_i
-| G| =\sum_{i =1}^t | Gh_i | +\sum_{i =1}^r | Gg_i | .
-| Gg_i | =[G \colon G_{g_i}] =[G \colon C_G (g_i)]
-p,
-p
-p .
-G
 p
 G
-p \mid | Z(G)| .
-| G| =| Z(G)| +\sum_{i =1}^r [G \colon C_G (g_i)],
-g_1, \ldots, g_r
-[G \colon C_G (g_i)] >1
-[G \colon C_G (g_i)] \mid | G|
-[G \colon C_G (g_i)]
-p,
-p .
-| Z(G)| \equiv | G| -\sum_{i =1}^r [G \colon C_G (g_i)] \equiv 0( modp) .
+G
+z𝐖\in𝐖G
+Z(G),𝐖
+G
+z,𝐖
+C_G𝐖(z),𝐖
+G𝐖.
+G
+G
+G𝐖=Gg_1𝐖𝐖\sqcup𝐖Gg_2𝐖𝐖\sqcup𝐖\cdots𝐖𝐖\sqcup𝐖Gg_t𝐖,𝐖
+G𝐖.
+G
+g_1𝐖,𝐖\ldots𝐖,𝐖g_r𝐖
+G
+Z(G)𝐖.
+|𝐖G|𝐖=|𝐖Z(G)|𝐖+\sum𝐖_{i𝐖=1}^r𝐖[G𝐖\colon𝐖G_{g_i𝐖}𝐖]𝐖=|𝐖Z(G)|𝐖+\sum𝐖_{i𝐖=1}^r𝐖[G𝐖\colon𝐖C_G𝐖(g_i𝐖)]𝐖.
+G
+G𝐖=Gh_1𝐖𝐖\sqcup𝐖\cdots𝐖𝐖\sqcup𝐖Gh_t𝐖𝐖\sqcup𝐖Gg_1𝐖𝐖\sqcup𝐖Gg_2𝐖𝐖\sqcup𝐖\cdots𝐖𝐖\sqcup𝐖Gg_r𝐖
+h_i𝐖
+g_i𝐖
+|𝐖G|𝐖=\sum𝐖_{i𝐖=1}^t𝐖|𝐖Gh_i𝐖|𝐖+\sum𝐖_{i𝐖=1}^r𝐖|𝐖Gg_i𝐖|𝐖.
+|𝐖Gg_i𝐖|𝐖=[G𝐖\colon𝐖G_{g_i𝐖}𝐖]𝐖=[G𝐖\colon𝐖C_G𝐖(g_i𝐖)]
+p,𝐖
+p
+p𝐖.
+G
+p
+G
+p𝐖\mid𝐖|𝐖Z(G)|𝐖.
+|𝐖G|𝐖=|𝐖Z(G)|𝐖+\sum𝐖_{i𝐖=1}^r𝐖[G𝐖\colon𝐖C_G𝐖(g_i𝐖)],𝐖
+g_1𝐖,𝐖\ldots𝐖,𝐖g_r𝐖
+[G𝐖\colon𝐖C_G𝐖(g_i𝐖)]𝐖>1
+[G𝐖\colon𝐖C_G𝐖(g_i𝐖)]𝐖\mid𝐖|𝐖G|
+[G𝐖\colon𝐖C_G𝐖(g_i𝐖)]
+p,𝐖
+p𝐖.
+|𝐖Z(G)|𝐖\equiv𝐖|𝐖G|𝐖-\sum𝐖_{i𝐖=1}^r𝐖[G𝐖\colon𝐖C_G𝐖(g_i𝐖)]𝐖\equiv𝐖0(𝐖modp)𝐖.
 G
 G/Z(G)
 G
 Z
-Z(G) .
+Z(G)𝐖.
 G/Z
-G/Z = \langle xZ \rangle
-x \in G .
+G/Z𝐖=𝐖\langle𝐖xZ𝐖\rangle𝐖
+x𝐖\in𝐖G𝐖.
 G
-g, h \in G
-gZ =x^m Z
-hZ =x^n Z
-m, n .
-g =x^m z_1
-h =x^n z_2
-z_i \in Z .
-gh =x^m z_1 x^n z_2 =z_1 x^{m +n} z_2 =z_2 x^{n +m} z_1 =z_2 x^n x^m z_1 =x^n z_2 x^m z_1 =hg
-z_i
-x^m x^n =x^n x^m .
+g,𝐖h𝐖\in𝐖G
+gZ𝐖=x^m𝐖Z
+hZ𝐖=x^n𝐖Z
+m,𝐖n𝐖.
+g𝐖=x^m𝐖z_1𝐖
+h𝐖=x^n𝐖z_2𝐖
+z_i𝐖𝐖\in𝐖Z𝐖.
+gh𝐖=x^m𝐖z_1𝐖x^n𝐖z_2𝐖𝐖=z_1𝐖x^{m𝐖+n}𝐖z_2𝐖𝐖=z_2𝐖x^{n𝐖+m}𝐖z_1𝐖𝐖=z_2𝐖x^n𝐖x^m𝐖z_1𝐖𝐖=x^n𝐖z_2𝐖x^m𝐖z_1𝐖𝐖=hg
+z_i𝐖
+x^m𝐖x^n𝐖𝐖=x^n𝐖x^m𝐖𝐖.
 G
-p^2 .
+p^2𝐖𝐖.
 G
-| Z(G)| =p
-p^2 .
-| Z(G)| =p^2,
-G =Z(G),
-| Z(G)| =p
+|𝐖Z(G)|𝐖=p
+p^2𝐖𝐖.
+|𝐖Z(G)|𝐖=p^2𝐖,𝐖
+G𝐖=Z(G),𝐖
+|𝐖Z(G)|𝐖=p
 G
-Z(G) \trianglelefteq G,
+Z(G)𝐖\trianglelefteq𝐖G,𝐖
 G/Z(G)
-p,
+p,𝐖
 G
-X,
+X,𝐖
 X
 X
 X
-P =\{X_i \mid i \in I\}
-X =\bigcup_{i \in I} X_i,
-X_i \cap X_j =\varnothing
-i \not= j .
+P𝐖=\{X_i𝐖𝐖\mid𝐖i𝐖\in𝐖I\}
+X𝐖=\bigcup𝐖_{i𝐖\in𝐖I}𝐖X_i𝐖,𝐖
+X_i𝐖𝐖\cap𝐖X_j𝐖𝐖=\varnothing𝐖
+i𝐖\not=𝐖j𝐖.
 X
 X
-R \subseteq X \times X,
-(x, y) \in R,
-x \sim y
+R𝐖\subseteq𝐖X𝐖\times𝐖X,𝐖
+(x,𝐖y)𝐖\in𝐖R,𝐖
+x𝐖\sim𝐖y
 x
-y .
+y𝐖.
 X
-x \sim x
-(x, x) \in R
-x \in X .
-x \sim y,
-y \sim x,
-(x, y) \in R,
-(y, x) \in R .
-x \sim y
-y \sim z,
-x \sim z,
-(x, y), (y, z) \in R,
-(x, z) .
-\sim
-X .
-x \in X,
+x𝐖\sim𝐖x
+(x,𝐖x)𝐖\in𝐖R
+x𝐖\in𝐖X𝐖.
+x𝐖\sim𝐖y,𝐖
+y𝐖\sim𝐖x,𝐖
+(x,𝐖y)𝐖\in𝐖R,𝐖
+(y,𝐖x)𝐖\in𝐖R𝐖.
+x𝐖\sim𝐖y
+y𝐖\sim𝐖z,𝐖
+x𝐖\sim𝐖z,𝐖
+(x,𝐖y),𝐖(y,𝐖z)𝐖\in𝐖R,𝐖
+(x,𝐖z)𝐖.
+\sim𝐖
+X𝐖.
+x𝐖\in𝐖X,𝐖
 x
-[x] =\{y \in X \mid y \sim x\} .
-x \in [x],
-y \sim x,
-x \sim y
-\sim
-X .
-P =\{[x] \mid x \in X\}
-X .
-P =\{X_i \mid i \in I\}
-X,
-x \sim y
-x, y \in X_j
-j \in I
+[x]𝐖=\{y𝐖\in𝐖X𝐖\mid𝐖y𝐖\sim𝐖x\}𝐖.
+x𝐖\in𝐖[x],𝐖
+y𝐖\sim𝐖x,𝐖
+x𝐖\sim𝐖y
+\sim𝐖
+X𝐖.
+P𝐖=\{[x]𝐖\mid𝐖x𝐖\in𝐖X\}
+X𝐖.
+P𝐖=\{X_i𝐖𝐖\mid𝐖i𝐖\in𝐖I\}
+X,𝐖
+x𝐖\sim𝐖y
+x,𝐖y𝐖\in𝐖X_j𝐖
+j𝐖\in𝐖I
 X
 n
-\mathbb Z .
-n,
-j \sim k\~iff\~j \equiv k( modn) .
+\mathbb𝐖Z𝐖𝐖.
+n,𝐖
+j𝐖\sim𝐖k\~iff\~j𝐖\equiv𝐖k(𝐖modn)𝐖.
 n
-\mathbb Z_n \~(or)\~\mathbb Z /n\mathbb Z =\{[k] \mid k \in \mathbb Z \} .
-\mathbb Z_n
+\mathbb𝐖Z𝐖_n𝐖\~(or)\~\mathbb𝐖Z𝐖/n\mathbb𝐖Z𝐖𝐖=\{[k]𝐖\mid𝐖k𝐖\in𝐖\mathbb𝐖Z𝐖\}𝐖.
+\mathbb𝐖Z𝐖_n𝐖
 n
-[0], [1], \ldots, [n -1] .
+[0],𝐖[1],𝐖\ldots𝐖,𝐖[n𝐖-1]𝐖.
 F
-A, B \in M_n (F)
+A,𝐖B𝐖\in𝐖M_n𝐖(F)
 P
-B =P^{ -1} AP .
+B𝐖=P^{𝐖-1}𝐖AP𝐖.
 A
 B
 [A]
-A .
-\mathbb Z_n,
-\mathbb Z_n
-[a] +[b] =[a +b]\~and\~[a][b] =[ab]
-\mathbb Z_n
-\mathbb Q,
-\frac{2}{5} +\frac{3}{7} =\frac{29}{35} .
-\frac{a}{b} +\frac{c}{d} ?
-\frac{1}{2} =\frac{2}{4} =\frac{5}{10}, \~etc. ?
+A𝐖.
+\mathbb𝐖Z𝐖_n𝐖,𝐖
+\mathbb𝐖Z𝐖_n𝐖
+[a]𝐖+[b]𝐖=[a𝐖+b]\~and\~[a][b]𝐖=[ab]
+\mathbb𝐖Z𝐖_n𝐖
+\mathbb𝐖Q𝐖,𝐖
+\frac{2}{5}𝐖+\frac{3}{7}𝐖=\frac{29}{35}𝐖.
+\frac{a}{b}𝐖+\frac{c}{d}𝐖?
+\frac{1}{2}𝐖=\frac{2}{4}𝐖=\frac{5}{10},𝐖\~etc.𝐖?
 \frac{a}{b}
 a/b
 a/b
-(a, b)
-\frac{1}{2} =\frac{2}{4},
-(1, 2) =(2, 4) .
+(a,𝐖b)
+\frac{1}{2}𝐖=\frac{2}{4},𝐖
+(1,𝐖2)𝐖=(2,𝐖4)𝐖.
 X
-X =\mathbb Z \times \mathbb Z \setminus \{0\},
-(a, b) \sim (c, d)\~iff\~ad -bc =0.
-(a, b)
-[(a, b)],
+X𝐖=\mathbb𝐖Z𝐖𝐖\times𝐖\mathbb𝐖Z𝐖𝐖\setminus𝐖\{0\},𝐖
+(a,𝐖b)𝐖\sim𝐖(c,𝐖d)\~iff\~ad𝐖-bc𝐖=0.
+(a,𝐖b)
+[(a,𝐖b)],𝐖
 a/b
-\frac{a}{b} .
-X, Y
-\varphi \colon X \to Y
-\varphi
-\ker \varphi =\{x \in X \mid \varphi (x) =e\}
+\frac{a}{b}𝐖.
+X,𝐖Y
+\varphi𝐖𝐖\colon𝐖X𝐖\to𝐖Y
+\varphi𝐖
+\ker𝐖\varphi𝐖𝐖=\{x𝐖\in𝐖X𝐖\mid𝐖\varphi𝐖(x)𝐖=e\}
 e
-e =0
-X/\ker \varphi
-X,
-G, H
-\varphi \colon G \to H
+e𝐖=0
+X/\ker𝐖\varphi𝐖
+X,𝐖
+G,𝐖H
+\varphi𝐖𝐖\colon𝐖G𝐖\to𝐖H
 K
 G
-K \subseteq \ker \varphi,
-\pi \colon G \to G/K
-g \mapsto gK
-\varphi_\ast \colon G/K \to H,
-g \in G,
-\varphi (g) =\varphi_\ast (\pi (g)) .
-\varphi
+K𝐖\subseteq𝐖\ker𝐖\varphi𝐖,𝐖
+\pi𝐖𝐖\colon𝐖G𝐖\to𝐖G/K
+g𝐖\mapsto𝐖gK
+\varphi𝐖_\ast𝐖𝐖𝐖\colon𝐖G/K𝐖\to𝐖H,𝐖
+g𝐖\in𝐖G,𝐖
+\varphi𝐖(g)𝐖=\varphi𝐖_\ast𝐖𝐖(\pi𝐖(g))𝐖.
+\varphi𝐖
 G/K
-\varphi_\ast
-\varphi,
-\ker \varphi_\ast =\ker \varphi /K .
-\varphi (g) =\varphi_\ast (\pi (g))
-\varphi_\ast (gK) =\varphi (\pi (g)) =\varphi (g)
-\varphi_\ast
-\varphi
-\varphi_\ast
-\varphi_\ast
-\varphi_\ast (gKg'K) =\varphi_\ast (gg'K) =\varphi (gg') =\varphi (g)\varphi (g') =\varphi_\ast (gK)\varphi_\ast (g'K),
+\varphi𝐖_\ast𝐖𝐖
+\varphi𝐖,𝐖
+\ker𝐖\varphi𝐖_\ast𝐖𝐖𝐖=\ker𝐖\varphi𝐖/K𝐖.
+\varphi𝐖(g)𝐖=\varphi𝐖_\ast𝐖𝐖(\pi𝐖(g))
+\varphi𝐖_\ast𝐖𝐖(gK)𝐖=\varphi𝐖(\pi𝐖(g))𝐖=\varphi𝐖(g)
+\varphi𝐖_\ast𝐖𝐖
+\varphi𝐖
+\varphi𝐖_\ast𝐖𝐖
+\varphi𝐖_\ast𝐖𝐖
+\varphi𝐖_\ast𝐖𝐖(gKg'K)𝐖=\varphi𝐖_\ast𝐖𝐖(gg'K)𝐖=\varphi𝐖(gg')𝐖=\varphi𝐖(g)\varphi𝐖(g')𝐖=\varphi𝐖_\ast𝐖𝐖(gK)\varphi𝐖_\ast𝐖𝐖(g'K),𝐖
 G/K
-\varphi
-\varphi_\ast (gK) =\varphi_\ast (gkK)\~for\space any\~k \in K .
-\varphi_\ast (gkK) =\varphi (gk) =\varphi (g)\varphi (k) =\varphi (g) =\varphi_\ast (gK)
-\varphi (k) =e
-K \subseteq \ker \varphi .
-\ker \varphi_\ast =\{gK \in G/K \mid \varphi_\ast (gK) =\varphi (g) =e_H \},
-\ker \varphi_\ast =\{gK \in G/K \mid g \in \ker \varphi \} =\ker \varphi /K .
-G, H
-\varphi \colon G \to H
-G/\ker \varphi \cong Im\varphi .
-K =\ker \varphi .
-\varphi_\ast \colon G/K \to Im\varphi
-K/K =eK =e_{G/K},
-G/K,
-\varphi_\ast
-\Psi \colon G/N \to H
-\psi \colon G \to H
-N .
-\Psi \colon G/N \to H
-n,
-\mathbb Z_n
-n .
-n\mathbb Z
+\varphi𝐖
+\varphi𝐖_\ast𝐖𝐖(gK)𝐖=\varphi𝐖_\ast𝐖𝐖(gkK)\~for\space𝐖any\~k𝐖\in𝐖K𝐖.
+\varphi𝐖_\ast𝐖𝐖(gkK)𝐖=\varphi𝐖(gk)𝐖=\varphi𝐖(g)\varphi𝐖(k)𝐖=\varphi𝐖(g)𝐖=\varphi𝐖_\ast𝐖𝐖(gK)
+\varphi𝐖(k)𝐖=e
+K𝐖\subseteq𝐖\ker𝐖\varphi𝐖𝐖.
+\ker𝐖\varphi𝐖_\ast𝐖𝐖𝐖=\{gK𝐖\in𝐖G/K𝐖\mid𝐖\varphi𝐖_\ast𝐖𝐖(gK)𝐖=\varphi𝐖(g)𝐖=e_H𝐖\},𝐖
+\ker𝐖\varphi𝐖_\ast𝐖𝐖𝐖=\{gK𝐖\in𝐖G/K𝐖\mid𝐖g𝐖\in𝐖\ker𝐖\varphi𝐖\}𝐖=\ker𝐖\varphi𝐖/K𝐖.
+G,𝐖H
+\varphi𝐖𝐖\colon𝐖G𝐖\to𝐖H
+G/\ker𝐖\varphi𝐖𝐖\cong𝐖Im\varphi𝐖𝐖.
+K𝐖=\ker𝐖\varphi𝐖𝐖.
+\varphi𝐖_\ast𝐖𝐖𝐖\colon𝐖G/K𝐖\to𝐖Im\varphi𝐖
+K/K𝐖=eK𝐖=e_{G/K}𝐖,𝐖
+G/K,𝐖
+\varphi𝐖_\ast𝐖𝐖
+\Psi𝐖𝐖\colon𝐖G/N𝐖\to𝐖H
+\psi𝐖𝐖\colon𝐖G𝐖\to𝐖H
+N𝐖.
+\Psi𝐖𝐖\colon𝐖G/N𝐖\to𝐖H
+n,𝐖
+\mathbb𝐖Z𝐖_n𝐖
+n𝐖.
+n\mathbb𝐖Z𝐖
 n
-\mathbb Z,
-\mathbb Z /n\mathbb Z
-\mathbb Z /n\mathbb Z \cong \mathbb Z_n .
-m +n\mathbb Z \mapsto [m]_n,
-\varphi \colon \mathbb Z \to \mathbb Z_n
+\mathbb𝐖Z𝐖,𝐖
+\mathbb𝐖Z𝐖/n\mathbb𝐖Z𝐖
+\mathbb𝐖Z𝐖/n\mathbb𝐖Z𝐖𝐖\cong𝐖\mathbb𝐖Z𝐖_n𝐖𝐖.
+m𝐖+n\mathbb𝐖Z𝐖𝐖\mapsto𝐖[m]_n𝐖,𝐖
+\varphi𝐖𝐖\colon𝐖\mathbb𝐖Z𝐖𝐖\to𝐖\mathbb𝐖Z𝐖_n𝐖
 m
-[m]_n
-n .
-\mathbb Z_n
-m +m' \mapsto [m +m']_n =[m]_n +[m']_n
-\varphi ?
-\ker \varphi =\{m \in \mathbb Z \mid [m]_n =[0]_n \} =n\mathbb Z .
-X, Y
-\varphi \colon X \to Y
-Z \subseteq \ker \varphi
+[m]_n𝐖
+n𝐖.
+\mathbb𝐖Z𝐖_n𝐖
+m𝐖+m'𝐖\mapsto𝐖[m𝐖+m']_n𝐖𝐖=[m]_n𝐖𝐖+[m']_n𝐖
+\varphi𝐖𝐖?
+\ker𝐖\varphi𝐖𝐖=\{m𝐖\in𝐖\mathbb𝐖Z𝐖𝐖\mid𝐖[m]_n𝐖𝐖=[0]_n𝐖\}𝐖=n\mathbb𝐖Z𝐖𝐖.
+X,𝐖Y
+\varphi𝐖𝐖\colon𝐖X𝐖\to𝐖Y
+Z𝐖\subseteq𝐖\ker𝐖\varphi𝐖
 X/Z
 X
-Y .
-\pi \colon X \to X/Z
-\varphi_\ast \colon X/Z \to Y
-\varphi =\varphi_\ast \circ \pi
-\varphi,
-\ker \varphi_\ast =\ker \varphi /Z .
-\varphi_\ast
-\varphi_\ast
+Y𝐖.
+\pi𝐖𝐖\colon𝐖X𝐖\to𝐖X/Z
+\varphi𝐖_\ast𝐖𝐖𝐖\colon𝐖X/Z𝐖\to𝐖Y
+\varphi𝐖𝐖=\varphi𝐖_\ast𝐖𝐖𝐖\circ𝐖\pi𝐖
+\varphi𝐖,𝐖
+\ker𝐖\varphi𝐖_\ast𝐖𝐖𝐖=\ker𝐖\varphi𝐖/Z𝐖.
+\varphi𝐖_\ast𝐖𝐖
+\varphi𝐖_\ast𝐖𝐖
 Z
-\varphi_\ast
-x +Z
-\varphi (x) .
+\varphi𝐖_\ast𝐖𝐖
+x𝐖+Z
+\varphi𝐖(x)𝐖.
 X/Z
-\varphi
-\varphi_\ast ((x +Z)(x' +Z)) & \lt mi/> =\varphi_\ast (xx' +Z) =\varphi (xx') \\ \~ & \lt mi/> =\varphi (x)\varphi (x') =\varphi_\ast (x +Z)\varphi_\ast (x' +Z) .
-\mathbb Z /n\mathbb Z \cong \mathbb Z_n
+\varphi𝐖
+\varphi𝐖_\ast𝐖𝐖((x𝐖+Z)(x'𝐖+Z))𝐖&𝐖\lt𝐖mi/>𝐖=\varphi𝐖_\ast𝐖𝐖(xx'𝐖+Z)𝐖=\varphi𝐖(xx')𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\varphi𝐖(x)\varphi𝐖(x')𝐖=\varphi𝐖_\ast𝐖𝐖(x𝐖+Z)\varphi𝐖_\ast𝐖𝐖(x'𝐖+Z)𝐖.
+\mathbb𝐖Z𝐖/n\mathbb𝐖Z𝐖𝐖\cong𝐖\mathbb𝐖Z𝐖_n𝐖

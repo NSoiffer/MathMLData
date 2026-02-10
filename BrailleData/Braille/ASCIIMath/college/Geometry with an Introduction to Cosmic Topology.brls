@@ -68,7 +68,7 @@ k = 2,
 [d'(x), "<mi//>"=lim_(h->0) (d(w))/h], [\ , "<mi//>"=lim_(h->0) (d(w))/(|w|) (|w|)/h], [\ , "<mi//>"=lim_(h->0)[2*h/((1-x^2-hx)h) ]], [\ , "<mi//>"=2/(1-x^2) .]
 d(x)
 ["(partial~fractions)", int 2/(1-x^2) \ dx, "<mi//>"=int(1/(1-x) +1/(1+x) )\ dx], [\ , "<mi//>"=-ln(1-x)+ln(1+x)], [d(x), "<mi//>"=ln( (1+x)/(1-x) ),]
-'\\y01d49b'
+bii z
 z
 bbb D
 d_H(0, z) = ln( (1+|z|)/(1-|z|) ).
@@ -140,53 +140,53 @@ d_H(p, q) ~~ 1.49
 d_H(z, w) ~~ 4.64
 p
 q.
-'\\y01d493':[a, b] -> CC
-'\\y01d493''(t)
+bii r:[a, b] -> CC
+bii r'(t)
 t
 0.
-'\\y01d493'(t) = x(t)+iy(t),
-'\\y01d493''(t) = x'(t)+iy'(t).
-'\\y01d493'(t) = x(t)+iy(t)
-[Delta s, "<mi//>"=|'\\y01d493'(t+Delta t)-'\\y01d493'(t)|], [\ , "<mi//>"=sqrt([x(t+Delta t)-x(t)]^2+[y(t+Delta t)-y(t)]^2)], [\ , "<mi//>"=sqrt([ (x(t+Delta t)-x(t))/(Delta t) ]^2+[ (y(t+Delta t)-y(t))/(Delta t) ]^2)|Delta t|.]
+bii r(t) = x(t)+iy(t),
+bii r'(t) = x'(t)+iy'(t).
+bii r(t) = x(t)+iy(t)
+[Delta s, "<mi//>"=|bii r(t+Delta t)-bii r(t)|], [\ , "<mi//>"=sqrt([x(t+Delta t)-x(t)]^2+[y(t+Delta t)-y(t)]^2)], [\ , "<mi//>"=sqrt([ (x(t+Delta t)-x(t))/(Delta t) ]^2+[ (y(t+Delta t)-y(t))/(Delta t) ]^2)|Delta t|.]
 Delta t -> 0
 ds = sqrt((dx//dt)^2+(dy//dt)^2)\ dt,
-ds = |'\\y01d493''(t)|\ dt.
+ds = |bii r'(t)|\ dt.
 a
-'\\y01d493':[0, 2 pi] -> CC
-'\\y01d493'(t) = acos(t)+iasin(t).
+bii r:[0, 2 pi] -> CC
+bii r(t) = acos(t)+iasin(t).
 a
-cc L('\\y01d493'),
-[cc L('\\y01d493'), "<mi//>"=int_0^(2 pi)|'\\y01d493''(t)|\ dt], [\ , "<mi//>"=int_0^(2 pi)|-asin(t)+iacos(t)|\ dt], [\ , "<mi//>"=int_0^(2 pi)sqrt(a^2 sin^2(t)+a^2 cos^2(t))\ dt], [\ , "<mi//>"=int_0^(2 pi)a\ dt], [\ , "<mi//>"=2 pi a.]
-'\\y01d493'
+cc L(bii r),
+[cc L(bii r), "<mi//>"=int_0^(2 pi)|bii r'(t)|\ dt], [\ , "<mi//>"=int_0^(2 pi)|-asin(t)+iacos(t)|\ dt], [\ , "<mi//>"=int_0^(2 pi)sqrt(a^2 sin^2(t)+a^2 cos^2(t))\ dt], [\ , "<mi//>"=int_0^(2 pi)a\ dt], [\ , "<mi//>"=2 pi a.]
+bii r
 bbb D
-'\\y01d493'(t) = x(t)+iy(t),
+bii r(t) = x(t)+iy(t),
 a <= t <= b.
-'\\y01d493'(t)
-'\\y01d493'(t+Delta t),
-d_H('\\y01d493'(t), '\\y01d493'(t+Delta t)).
-'\\y01d493'(t)
-T(z) = (z-'\\y01d493'(t))/(1-bar('\\y01d493'(t))z) ,
-d_H('\\y01d493'(t), '\\y01d493'(t+Delta t)) = ln[1+|T('\\y01d493'(t+Delta t))|]-ln[1-|T('\\y01d493'(t+Delta t))|].
+bii r(t)
+bii r(t+Delta t),
+d_H(bii r(t), bii r(t+Delta t)).
+bii r(t)
+T(z) = (z-bii r(t))/(1-bar(bii r(t))z) ,
+d_H(bii r(t), bii r(t+Delta t)) = ln[1+|T(bii r(t+Delta t))|]-ln[1-|T(bii r(t+Delta t))|].
 Delta t
-T('\\y01d493'(t+Delta t))
-T('\\y01d493'(t)),
+T(bii r(t+Delta t))
+T(bii r(t)),
 ln(1+x) ~~ x
 x
 Delta t,
-[d_H('\\y01d493'(t),'\\y01d493'(t+Delta t)), "<mi//>"~~|T('\\y01d493'(t+Delta t))|+|T('\\y01d493'(t+Delta t))|], [\ , "<mi//>"=2*| ('\\y01d493'(t+Delta t)-'\\y01d493'(t))/(1-bar('\\y01d493'(t))'\\y01d493'(t+Delta t)) |], [\ , "<mi//>"=2* (| ('\\y01d493'(t+Delta t)-'\\y01d493'(t))/(Delta t) |)/(|1-bar('\\y01d493'(t))'\\y01d493'(t+Delta t)|) *|Delta t|.]
+[d_H(bii r(t),bii r(t+Delta t)), "<mi//>"~~|T(bii r(t+Delta t))|+|T(bii r(t+Delta t))|], [\ , "<mi//>"=2*| (bii r(t+Delta t)-bii r(t))/(1-bar(bii r(t))bii r(t+Delta t)) |], [\ , "<mi//>"=2* (| (bii r(t+Delta t)-bii r(t))/(Delta t) |)/(|1-bar(bii r(t))bii r(t+Delta t)|) *|Delta t|.]
 Delta t -> 0,
-|'\\y01d493''(t)|
-1-|'\\y01d493'(t)|^2,
-'\\y01d493':[a, b] -> bbb D
-'\\y01d493'
-cc L('\\y01d493'),
-cc L('\\y01d493') = int_a^b 2/(1-|'\\y01d493'(t)|^2) \ |'\\y01d493''(t)|dt.
+|bii r'(t)|
+1-|bii r(t)|^2,
+bii r:[a, b] -> bbb D
+bii r
+cc L(bii r),
+cc L(bii r) = int_a^b 2/(1-|bii r(t)|^2) \ |bii r'(t)|dt.
 bbb D
-'\\y01d493'
+bii r
 bbb D,
 T
 cc c,
-cc L('\\y01d493') = cc L(T('\\y01d493')).
+cc L(bii r) = cc L(T(bii r)).
 cc c
 bbb D.
 p
@@ -195,21 +195,21 @@ p
 q
 (bbb D, cc c)
 c
-'\\y01d493'(t) = x(t)+iy(t)
+bii r(t) = x(t)+iy(t)
 a <= t <= b,
 c
-'\\y01d493'(a) = 0
-'\\y01d493'(b) = c
+bii r(a) = 0
+bii r(b) = c
 x(t)
 x
-cc L('\\y01d493') = int_a^b 2/(1-[(x(t))^2+(y(t))^2]) sqrt((x'(t))^2+(y'(t))^2)\ dt.
+cc L(bii r) = int_a^b 2/(1-[(x(t))^2+(y(t))^2]) sqrt((x'(t))^2+(y'(t))^2)\ dt.
 c
-'\\y01d493'_0(t) = x(t)+0i
+bii r_0(t) = x(t)+0i
 a <= t <= b,
-cc L('\\y01d493'_0) = int_a^b 2/(1-[x(t)]^2) sqrt((x'(t))^2)\ dt.
-'\\y01d493'_0
-'\\y01d493'
-cc L('\\y01d493') >= cc L('\\y01d493'_0).
+cc L(bii r_0) = int_a^b 2/(1-[x(t)]^2) sqrt((x'(t))^2)\ dt.
+bii r_0
+bii r
+cc L(bii r) >= cc L(bii r_0).
 cc c
 bbb D
 p, q, u
@@ -219,22 +219,22 @@ d_H(p, q) = 0
 p = q;
 d_H(p, q) = d_H(q, p);
 d_H(p, q)+d_H(q, u) >= d_H(p, u).
-'\\y01d491'
-'\\y01d492'
+bii p
+bii q
 p = .5i
 q = .5+.5i
 p
 q,
-'\\y01d493'
+bii r
 p
 q
 bbb D
 p
 q.
-'\\y01d493'(t) = t+1/2 i
+bii r(t) = t+1/2 i
 0 <= t <= 1/2.
-'\\y01d493''(t) = 1
-[cc L('\\y01d493'), "<mi//>"=int_0^(1/2) 2/(1-(t^2+1/4)) dt], [\ , "<mi//>"~~1.52.]
+bii r'(t) = 1
+[cc L(bii r), "<mi//>"=int_0^(1/2) 2/(1-(t^2+1/4)) dt], [\ , "<mi//>"~~1.52.]
 p
 q
 (bbb D, cc c)
@@ -300,12 +300,12 @@ k < 0
 p
 q
 CC^+ ,
-'\\y01d491'
-'\\y01d492'
+bii p
+bii q
 p
 q,
-'\\y01d491'
-'\\y01d492'
+bii p
+bii q
 p
 q
 p
@@ -476,7 +476,7 @@ oo.
 oo
 z_ oo.
 T(z_ oo) = oo.
-'\\y01d47b'
+bii T
 oo
 w_ oo.
 T(oo) = w_ oo.
@@ -498,7 +498,7 @@ oo,
 oo
 w_ oo,
 T(z) = (w_ oo z-pq)/(z-z_ oo) .
-'\\y01d48a' |-> oo
+bii i |-> oo
 oo
 -i,
 T(z) = (-iz-(1)(-1))/(z-i) = (-iz+1)/(z-i) .
@@ -533,9 +533,9 @@ z_ oo = -3,
 w_ oo = 6+3i.
 z_ oo,
 w_ oo,
-'\\y01d48a'
-'\\y01d7ce'
-'\\y01d7cf' |-> '\\y01d7d0'
+bii i
+bb 0
+bb 1 |-> bb 2
 (T(z)-i)/(T(z)-0) = lambda(z-i)/(z-0) .
 T(1) = 2
 (2-i)/2 = lambda(1-i).
@@ -567,9 +567,9 @@ U
 U(z) = z+d
 d.
 S@T = U@S
-'\\y01d47b'
-'\\y01d491' != oo
-'\\y01d491' != oo
+bii T
+bii p != oo
+bii p != oo
 1/(T(z)-p) = 1/(z-p) +d
 U(z) = z+d
 d
@@ -669,11 +669,11 @@ CC
 k > 0
 k < 0
 (X_k, G_k)
-'\\y01d493':[a, b] -> bbb P^2
+bii r:[a, b] -> bbb P^2
 (bbb P^2, cc S),
-'\\y01d493'
-cc L('\\y01d493'),
-cc L('\\y01d493') = int_a^b(2|'\\y01d493''(t)|)/(1+|'\\y01d493'(t)|^2) \ dt.
+bii r
+cc L(bii r),
+cc L(bii r) = int_a^b(2|bii r'(t)|)/(1+|bii r(t)|^2) \ dt.
 R
 bbb P^2,
 A(R),
@@ -685,8 +685,8 @@ p
 q.
 p
 q,
-'\\y01d491'
-'\\y01d492'
+bii p
+bii q
 d_S(p, q),
 p
 q,
@@ -761,7 +761,7 @@ alpha.
 (bbb P^2, cc S),
 alpha
 2 alpha.
-(bbb P^'\\y01d7d0' , '\\y01d4e2')
+(bbb P^bb 2, '\\y01d4e2')
 Delta pqr
 2 pi
 [2 pi+2*A(Delta pqr), "<mi//>"=A("Lune"\ p)+A("Lune"\ q)+A("Lune"\ r)], [2 pi+2*A(Delta pqr), "<mi//>"=(2 alpha+2 beta+2 gamma)], [A(Delta pqr), "<mi//>"=(alpha+beta+gamma)-pi.]
@@ -862,28 +862,28 @@ n
 RR^n.
 RR^n
 n
-'\\y01d491' = (x_1, x_2, ..., x_n).
-'\\y01d48f'
-'\\y01d491'
+bii p = (x_1, x_2, ..., x_n).
+bii n
+bii p
 RR^n
 r > 0,
-B_n('\\y01d491', r),
-B_n('\\y01d491', r) = {'\\y01d499'in RR^n\ |\ |'\\y01d499'-'\\y01d491'| < r},
-|'\\y01d499'-'\\y01d491'|
-'\\y01d499'
-'\\y01d491'.
+B_n(bii p, r),
+B_n(bii p, r) = {bii x in RR^n\ |\ |bii x-bii p| < r},
+|bii x-bii p|
+bii x
+bii p.
 RR.
 B_2(z_0, r)
 z
 CC
 |z-z_0| < r.
-B_3('\\y01d491', r)
+B_3(bii p, r)
 RR^3
-'\\y01d491'
+bii p
 r.
 n
 n = 1, 2, 3.
-'\\y01d48f'
+bii n
 X
 X
 n
@@ -944,14 +944,14 @@ X
 bbb S^2#X = X
 X.
 g >= 1,
-'\\y01d488'
+bii g
 H_g,
 H_g = obrace(bbb T^2#bbb T^2#cdots#bbb T^2)^(g\ "copies").
 H_g
 g
 H_0 = bbb S^2.
 g >= 1,
-'\\y01d488'
+bii g
 C_g = obrace(bbb P^2#bbb P^2#cdots#bbb P^2)^(g\ "copies").
 bbb P^2.
 C_g
@@ -996,8 +996,8 @@ C_g
 a_1
 H_g
 g >= 0)
-'\\y01d48f'
-'\\y01d48f'
+bii n
+bii n
 n
 RR^n.
 C
@@ -1010,7 +1010,7 @@ X
 C
 X.
 bbb S^2.
-'\\y01d46f'_'\\y01d7cf'
+bii H_bb 1
 S,
 chi(S),
 chi(S) = v-e+f
@@ -1319,19 +1319,19 @@ T:CC -> CC
 T(z) = 2z+(4-i)
 T(D)
 4+3i
-'\\y01d493':[a, b] -> CC
-'\\y01d493'_1
-'\\y01d493'_2
+bii r:[a, b] -> CC
+bii r_1
+bii r_2
 CC
-'\\y01d493'_1
-'\\y01d493'_2,
-/_('\\y01d493'_1, '\\y01d493'_2),
+bii r_1
+bii r_2,
+/_(bii r_1, bii r_2),
 T
 CC
-'\\y01d49b'_'\\y01d7ce'
-/_('\\y01d493'_1, '\\y01d493'_2) = /_(T('\\y01d493'_1), T('\\y01d493'_2))
-'\\y01d493'_1
-'\\y01d493'_2
+bii z_bb 0
+/_(bii r_1, bii r_2) = /_(T(bii r_1), T(bii r_2))
+bii r_1
+bii r_2
 z_0.
 T
 CC
@@ -1339,9 +1339,9 @@ CC.
 T
 CC
 CC,
-|/_('\\y01d493'_1, '\\y01d493'_2)| = |/_(T('\\y01d493'_1), T('\\y01d493'_2))|
-'\\y01d493'_1
-'\\y01d493'_2
+|/_(bii r_1, bii r_2)| = |/_(T(bii r_1), T(bii r_2))|
+bii r_1
+bii r_2
 T:A -> A
 a
 A
@@ -1375,7 +1375,7 @@ T(z) = az+b
 [|T(z)-T(w)|, "<mi//>"=|az+b-(aw+b)|], [\ , "<mi//>"=|a(z-w)|], [\ , "<mi//>"=|a||z-w|.]
 |T(z)-T(w)| = |z-w|'\\x0027fa'|a| = 1.
 CC
-'\\y01d473'
+bii L
 CC
 L
 z
@@ -1819,7 +1819,7 @@ CC^+ .
 CC^+
 bbb S^2
 CC^+ .
-bbb S^'\\y01d7d0'
+bbb S^bb 2
 bbb S^2
 bbb S^2
 CC^+ .
@@ -1864,7 +1864,7 @@ varphi^(-1)
 bbb S^2
 -2x_0 x-2y_o y+(1-|w_0|^2+r^2)z+(1+|w_0|^2-r^2) = 0
 w_0 = x_0+y_0 i.
-'\\y01d753'
+bb phi
 bbb S^2
 x = -1/2.
 A = 2, B = C = 0,
@@ -1874,7 +1874,7 @@ varphi
 (u+2)^2+v^2 = 3
 (-2, 0)
 sqrt(3).
-'\\y01d753'
+bb phi
 |w-(3+2i)| = 4
 CC
 bbb S^2
@@ -1921,7 +1921,7 @@ CC
 k > 0
 k < 0
 (X_k, G_k)
-'\\y01d48c' < '\\y01d7ce'
+bii k < bb 0
 k < 0
 k.
 bbb D_k
@@ -1936,7 +1936,7 @@ cc c_k
 bbb D_k
 (bbb D_k, cc c_k)
 k < 0
-'\\y01d48c'.
+bii k.
 z
 z^**
 T(z)
@@ -1956,9 +1956,9 @@ CC^+
 z
 (-1)/(k bar z) .
 k.
-'\\y01d493'
+bii r
 bbb D_k
-cc L('\\y01d493') = int_a^b(2|'\\y01d493''(t)|)/(1+k|'\\y01d493'(t)|^2) \ dt.
+cc L(bii r) = int_a^b(2|bii r'(t)|)/(1+k|bii r(t)|^2) \ dt.
 R
 A(R) = '\\x00222c'_R(4r)/((1+kr^2)^2) drd theta.
 k
@@ -1991,8 +1991,8 @@ theta
 z
 L.
 theta,
-'\\y01d49b'
-'\\y01d473'
+bii z
+bii L
 z
 d
 L.
@@ -2127,7 +2127,7 @@ r -> 0^+ .
 r
 p
 c.
-'\\y01d491'
+bii p
 k = -3lim_(r->0^+ ) (d^2)/(dr^2) [c/(2 pi r) ].
 s
 N
@@ -2163,14 +2163,14 @@ CC
 k > 0
 k < 0
 (X_k, G_k)
-('\\y01d47f'_'\\y01d48c' , '\\y01d46e'_'\\y01d48c' )
+(bii X_bii k, bii G_bii k)
 (bbb P_k^2, cc S_k)
 k > 0
 (bbb D_k, cc c_k)
 k < 0.
 k.
 k
-('\\y01d47f'_'\\y01d48c' , '\\y01d46e'_'\\y01d48c' )
+(bii X_bii k, bii G_bii k)
 X_k = {[bbb D_k, "\if\ "k<0";\ "], [CC, "\if\ "k=0";\ "], [bbb P_k^2, "\if\ "k>0",\ "]<mo fence="true" stretchy="true" symmetric="true"//>
 G_k
 T(z) = e^(i theta) (z-z_0)/(1+k bar(z_0)z) ,
@@ -2182,8 +2182,8 @@ q
 (X_k, G_k)
 p, q,
 -1//(k bar p).
-'\\y01d493':[a, b] -> X_k
-cc L('\\y01d493') = int_a^b(2|'\\y01d493''(t)|)/(1+k|'\\y01d493'(t)|^2) \ dt.
+bii r:[a, b] -> X_k
+cc L(bii r) = int_a^b(2|bii r'(t)|)/(1+k|bii r(t)|^2) \ dt.
 R
 (X_k, G_k)
 A(R) = '\\x00222c'_R(4r)/((1+kr^2)^2) drd theta.
@@ -2300,7 +2300,7 @@ k < 0
 k > 0
 k = 0
 k = 0
-('\\y01d47f'_'\\y01d48c' , '\\y01d46e'_'\\y01d48c' )
+(bii X_bii k, bii G_bii k)
 k in RR,
 s = 1/(sqrt(|k|))
 0 < x < s
@@ -2625,7 +2625,7 @@ CC
 k > 0
 k < 0
 (X_k, G_k)
-'\\y01d48c' > '\\y01d7ce'
+bii k > bb 0
 k > 0,
 k.
 1//sqrt(k)
@@ -2653,7 +2653,7 @@ T in cc S_k
 "if\ "\ z_a = -1/(k bar z) \ "then\ "\ T(z_a) = -1/(k bar(T(z))) .
 (bbb P_k^2, cc S_k)
 k > 0
-'\\y01d48c'
+bii k
 (bbb P_1^2, cc S_1)
 CC^+
 cc S_k
@@ -2664,9 +2664,9 @@ k
 z
 z_a = -1/(k bar z) .
 bbb S_k^2.
-'\\y01d493'
+bii r
 bbb P_k^2
-cc L('\\y01d493') = int_a^b(2|'\\y01d493''(t)|)/(1+k|'\\y01d493'(t)|^2) \ dt.
+cc L(bii r) = int_a^b(2|bii r'(t)|)/(1+k|bii r(t)|^2) \ dt.
 (bbb P_k^2, cc S_k)
 pi//(2sqrt(k)).
 R
@@ -2813,7 +2813,7 @@ cosh(x),
 sinh(x) = (e^x-e^(-x))/2 "\and\ "cosh(x) = (e^x+e^(-x))/2.
 r
 4 pi sinh^2(r//2).
-'\\y01d7d0'/'\\y01d7d1'
+bb 2/bb 3
 2/3
 alpha
 pi-alpha.
@@ -3121,7 +3121,7 @@ re^(i theta)*se^(i beta) = (rs)e^(i(theta+beta)).
 2 pi.
 "arg"(vw) = "arg"(v)+"arg"(w)+2 pi k
 k.
-'\\y01d493' >= '\\y01d7ce'
+bii r >= bb 0
 z
 z = re^(i theta),
 r
@@ -3376,7 +3376,7 @@ k < 0
 C
 r
 z_0.
-'\\y01d46a'
+bii C
 z != z_0
 z^**
 z_0
@@ -3416,9 +3416,9 @@ z^** = (1//|z|^2)z.
 |z|^2 = z*bar z,
 bbb S^1
 i_(bbb S^1)(z) = 1//bar z.
-'\\y01d46a'
-'\\y01d49b'_'\\y01d7ce'
-'\\y01d493'
+bii C
+bii z_bb 0
+bii r
 C
 z_0
 r
@@ -3508,8 +3508,8 @@ CC
 |z-p| = k|z-q|.
 D
 k
-'\\y01d491'
-'\\y01d492'
+bii p
+bii q
 p
 q
 p
@@ -3604,7 +3604,7 @@ p
 bbb I^2,
 bbb I^2
 bbb I^2
-'\\y01d47a'
+bii S
 R
 S xx S.
 R
@@ -3631,7 +3631,7 @@ x~y
 y~z
 x~z.
 a in A,
-'\\y01d482'
+bii a
 [a],
 A
 a
@@ -3743,7 +3743,7 @@ X//G
 G
 G
 X
-'\\y01d47f'
+bii X
 G
 X//G
 X
@@ -3796,7 +3796,7 @@ bbb S^2,
 G
 M
 M//G.
-'\\y01d46f'_'\\y01d7cf'
+bii H_bb 1
 CC
 a
 b
@@ -3845,16 +3845,16 @@ w
 [u]
 [v].
 CC.
-bbb P^'\\y01d7d0'
-bbb S^'\\y01d7d0'
+bbb P^bb 2
+bbb S^bb 2
 T_a:bbb S^2 -> bbb S^2
 T_a(P) = -P.
 bbb S^2
 T_a^(-1) = T_a,
 T_a
 bbb S^2//'\\x0027e8'T_a'\\x0027e9'
-'\\y01d46f'_'\\y01d7d0'
-bbb D^'\\y01d7d0'
+bii H_bb 2
+bbb D^bb 2
 pi//4
 T_a
 a
@@ -3892,7 +3892,7 @@ bbb S^2,
 G
 x
 M
-'\\y01d499'
+bii x
 y
 M
 d(x, y) <= d(x, T(y))
@@ -3965,13 +3965,13 @@ k < 0
 RR^3
 (x, y, z),
 RR^3,
-'\\y01d497'
+bii v
 RR^3.
 RR^3
 RR^3.
-'\\y01d497' = (x_1, y_1, z_1)
-'\\y01d498' = (x_2, y_2, z_2)
-|'\\y01d497'-'\\y01d498'| = sqrt((x_1-x_2)^2+(y_1-y_2)^2+(z_1-z_2)^2).
+bii v = (x_1, y_1, z_1)
+bii w = (x_2, y_2, z_2)
+|bii v-bii w| = sqrt((x_1-x_2)^2+(y_1-y_2)^2+(z_1-z_2)^2).
 RR^3
 bbb H^3
 RR^3.
@@ -3981,15 +3981,15 @@ bbb H^3,
 bbb H^3.
 S
 RR^3
-'\\y01d497'_'\\y01d7ce'
+bii v_bb 0
 r,
-'\\y01d497'
+bii v
 RR^3.
-'\\y01d497'
+bii v
 S
-'\\y01d497'^**
-vec('\\y01d497'_'\\y01d7ce' '\\y01d497')
-|'\\y01d497'-'\\y01d497'_'\\y01d7ce' ||'\\y01d497'^** -'\\y01d497'_'\\y01d7ce' | = r^2.
+bii v^**
+vec(bii v_bb 0 bii v)
+|bii v-bii v_bb 0||bii v^** -bii v_bb 0| = r^2.
 S
 S
 bbb S_ oo^2
@@ -4126,7 +4126,7 @@ x^2+y^2+z^2 <= 1.
 z
 t
 |z|^2+t^2 = 1.
-'\\y01d473'('\\y01d491', '\\y01d492')
+bii L(bii p, bii q)
 (z, t)
 (e^((2 pi q//p)i)z, -t).
 (0, 1)
@@ -4509,8 +4509,8 @@ w_2.
 w_1
 w_2
 p.
-'\\y01d493''\\y01d48a'
-'\\y01d494''\\y01d48a'
+bii rbii i
+bii sbii i
 r > s > 0
 ri
 si
@@ -4555,22 +4555,22 @@ ds = (2|dz|)/(1-|z|^2) .
 z = V^(-1)(w) = (iw+1)/(w+i)
 dw.
 [ds, "<mi//>"= (2|dz|)/(1-|z|^2) ], [(z= (iw+1)/(w+i) ), \ , "<mi//>"= (2|d( (iw+1)/(w+i) )|)/(1-| (iw+1)/(w+i) |^2) ], ["(chain rule)", \ , "<mi//>"= (2|i(w+i)dw-(iw+1)dw|)/(|w+i|^2) //[1- (|iw+1|^2)/(|w+i|^2) ]], [\ , "<mi//>"= (4|dw|)/(|w+i|^2-|iw+1|^2) ], [\ , "<mi//>"= (4|dw|)/((w+i)(bar w-i)-(iw+1)(-i bar w+1)) ], [\ , "<mi//>"= (4|dw|)/(2i(bar w-w)) ], [\ , "<mi//>"= (|dw|)/("Im"(w)) .]
-'\\y01d493'(t)
+bii r(t)
 a <= t <= b
 (bbb U, cc U),
-cc L('\\y01d493'),
-cc L('\\y01d493') = int_a^b(|'\\y01d493''(t)|)/("Im"('\\y01d493'(t))) \ dt.
-'\\y01d493'(t) = t+ki
+cc L(bii r),
+cc L(bii r) = int_a^b(|bii r'(t)|)/("Im"(bii r(t))) \ dt.
+bii r(t) = t+ki
 a <= t <= b,
-'\\y01d493''(t) = 1
-"\Im"('\\y01d493'(t)) = k.
-cc L('\\y01d493') = int_a^b 1/k\ dt = (b-a)/k.
+bii r'(t) = 1
+"\Im"(bii r(t)) = k.
+cc L(bii r) = int_a^b 1/k\ dt = (b-a)/k.
 ds = (dw)/("Im"(w))
 (bbb U, cc U)
 R
 A(R),
 A(R) = '\\x00222c'_R 1/(y^2) \ "dxdy".
-'\\y01d7d0'/'\\y01d7d1'
+bb 2/bb 3
 w in bbb U
 2/3
 1w oo
@@ -4630,7 +4630,7 @@ g,
 "<mi//>"\circ,
 "<mi//>"\circ.
 360\circ.
-'\\y01d46a'_'\\y01d7d1'
+bii C_bb 3
 C_3 = bbb P^2#bbb P^2#bbb P^2,
 a_1 a_1 a_2 a_2 a_3 a_3,
 120\circ.
@@ -5228,7 +5228,7 @@ p
 bbb D,
 p^**
 p
-'\\y01d491'
+bii p
 C
 bbb D
 p

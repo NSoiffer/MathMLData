@@ -1,1810 +1,1810 @@
-\mathbb R^p
-A = \begin{bmatrix} 1 & 0 & 0 & 3 \\ 0 & 0 & 1 & -1 \\ 0 & 0 & 0 & 0 \end{bmatrix}
-B = \begin{bmatrix} 1 & 2 & 4 & 3 \\ 0 & 0 & 1 & -1 \\ 0 & 0 & 0 & 0 \end{bmatrix}
-C = \begin{bmatrix} 0 & 0 & 0 & 0 \\ 1 & 2 & 0 & 3 \\ 0 & 0 & 1 & -1 \end{bmatrix}
-D = \begin{bmatrix} 1 & 0 & 2 & -3 \\ 0 & 3 & 3 & -3 \\ 0 & 0 & 0 & 0 \end{bmatrix}
-E = \begin{bmatrix} 0 & 1 & 0 & 7 \\ 1 & 0 & 0 & 4 \\ 0 & 0 & 0 & 0 \end{bmatrix}
-F = \begin{bmatrix} 1 & 0 & 0 & 4 \\ 0 & 1 & 0 & 7 \\ 0 & 0 & 1 & 0 \end{bmatrix}
-\begin{bmatrix} 2 & 4 & 6 & -1 \\ -3 & 1 & 5 & 0 \\ 1 & 3 & 5 & 1 \end{bmatrix} \sim \begin{bmatrix} 1 & 0 & -1 & 0 \\ 0 & 1 & 2 & 0 \\ 0 & 0 & 0 & 1 \end{bmatrix} .
-3 \times 5
-5 \times 3
-(i) \begin{bmatrix} 1 & 0 & 0 & 3 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & -2 \\ 0 & 0 & 0 & 0 \end{bmatrix}
-(ii) \begin{bmatrix} 1 & 0 & 2 & 3 \\ 0 & 1 & -1 & 0 \\ 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 \end{bmatrix}
-(iii) \begin{bmatrix} 1 & 0 & 2 & 0 \\ 0 & 1 & -1 & 0 \\ 0 & 0 & 0 & 1 \\ 0 & 0 & 0 & 0 \end{bmatrix}
-3 \times 5
-3 \times 5
-\begin{bmatrix} 1 & 0 & 0 & 0 & -1 \\ 0 & 1 & 0 & 0 & 2 \\ 0 & 0 & 1 & 0 & 0 \\ 0 & 0 & 0 & 1 & -3 \end{bmatrix}
-(i) \begin{bmatrix} 1 & 0 & 0 & 3 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & -2 \\ 0 & 0 & 0 & 0 \end{bmatrix}
-(ii) \begin{bmatrix} 1 & 0 & 2 & 3 \\ 0 & 1 & -1 & 0 \\ 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 \end{bmatrix}
-(iii) \begin{bmatrix} 1 & 0 & 2 & 0 \\ 0 & 1 & -1 & 0 \\ 0 & 0 & 0 & 1 \\ 0 & 0 & 0 & 0 \end{bmatrix}
-3 \times 5
-5 \times 3
-\mathbb R^p
-\mathbb R^p
-\mathbf v = \begin{bmatrix} 3 \\ 1 \end{bmatrix}, \mathbf w = \begin{bmatrix} -1 \\ 2 \end{bmatrix} .
-\mathbf v, & 2\mathbf v, & -\mathbf v, & -2\mathbf v, \\ \mathbf w, & 2\mathbf w, & -\mathbf w, & -2\mathbf w .
+\mathbb𝐖R𝐖^p𝐖
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖0𝐖&𝐖3𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖&𝐖𝐖-1𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖
+B𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖&𝐖4𝐖&𝐖3𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖&𝐖𝐖-1𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖
+C𝐖=𝐖\begin{bmatrix}𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\\𝐖1𝐖&𝐖2𝐖&𝐖0𝐖&𝐖3𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖
+D𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖2𝐖&𝐖𝐖-3𝐖\\𝐖0𝐖&𝐖3𝐖&𝐖3𝐖&𝐖𝐖-3𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖
+E𝐖=𝐖\begin{bmatrix}𝐖0𝐖&𝐖1𝐖&𝐖0𝐖&𝐖7𝐖\\𝐖1𝐖&𝐖0𝐖&𝐖0𝐖&𝐖4𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖
+F𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖0𝐖&𝐖4𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖0𝐖&𝐖7𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖&𝐖0𝐖\end{bmatrix}𝐖
+𝐖\begin{bmatrix}𝐖2𝐖&𝐖4𝐖&𝐖6𝐖&𝐖𝐖-1𝐖\\𝐖𝐖-3𝐖&𝐖1𝐖&𝐖5𝐖&𝐖0𝐖\\𝐖1𝐖&𝐖3𝐖&𝐖5𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖\sim𝐖𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖𝐖-1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖2𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖.
+3𝐖\times𝐖5
+5𝐖\times𝐖3
+(i)𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖0𝐖&𝐖3𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖0𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖&𝐖𝐖-2𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖
+(ii)𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖2𝐖&𝐖3𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖𝐖-1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖
+(iii)𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖2𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖𝐖-1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖
+3𝐖\times𝐖5
+3𝐖\times𝐖5
+𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖𝐖-1𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖0𝐖&𝐖0𝐖&𝐖2𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖&𝐖0𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖1𝐖&𝐖𝐖-3𝐖\end{bmatrix}𝐖
+(i)𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖0𝐖&𝐖3𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖0𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖&𝐖𝐖-2𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖
+(ii)𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖2𝐖&𝐖3𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖𝐖-1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖
+(iii)𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖2𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖𝐖-1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖
+3𝐖\times𝐖5
+5𝐖\times𝐖3
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^p𝐖
+\mathbf𝐖v𝐖𝐖=𝐖\begin{bmatrix}𝐖3𝐖\\𝐖1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖w𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖2𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖v𝐖,𝐖𝐖&𝐖2\mathbf𝐖v𝐖,𝐖𝐖&𝐖𝐖-\mathbf𝐖v𝐖,𝐖𝐖&𝐖𝐖-2\mathbf𝐖v𝐖,𝐖𝐖\\𝐖\mathbf𝐖w𝐖,𝐖𝐖&𝐖2\mathbf𝐖w𝐖,𝐖𝐖&𝐖𝐖-\mathbf𝐖w𝐖,𝐖𝐖&𝐖𝐖-2\mathbf𝐖w𝐖𝐖.
 xy
-\mathbf v = \begin{bmatrix} 3 \\ 1 \end{bmatrix}, \mathbf w = \begin{bmatrix} -1 \\ 2 \end{bmatrix} .
-\mathbf v, \mathbf w, \mathbf v +\mathbf w
+\mathbf𝐖v𝐖𝐖=𝐖\begin{bmatrix}𝐖3𝐖\\𝐖1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖w𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖2𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖v𝐖,𝐖\mathbf𝐖w𝐖,𝐖\mathbf𝐖v𝐖𝐖+\mathbf𝐖w𝐖
 xy
-\mathbf v +a\mathbf w
+\mathbf𝐖v𝐖𝐖+a\mathbf𝐖w𝐖
 a
-a = -2, -1, 0, 1,
-2 .
-\mathbf v
-\mathbf w .
-\mathbf w
-\mathbf v .
-(0, 0)
-\mathbf v +\mathbf w .
-\mathbf v = \begin{bmatrix} 3 \\ 1 \end{bmatrix}, \mathbf w = \begin{bmatrix} -1 \\ 2 \end{bmatrix} .
-a
-b
-a\mathbf v +b\mathbf w
-\mathbf v
-\mathbf w .
-a = -2
-b =1 .
-\begin{bmatrix} -31 \\ 37 \end{bmatrix}
-\mathbf v
-\mathbf w ?
-\mathbf v = \begin{bmatrix} 2 \\ 1 \end{bmatrix}, \mathbf w = \begin{bmatrix} 1 \\ 2 \end{bmatrix}
-a
-b .
-b
-a
-b =0 ?
-\mathbf v
-\mathbf w
-a =1
-b = -2 ?
-b
-a
-\mathbf v
-\mathbf w .
-\mathbf w
-\mathbf v .
-(0, 0)
-\mathbf v +\mathbf w .
-\begin{bmatrix} 0 \\ 0 \end{bmatrix}
-\mathbf v
-\mathbf w ?
-a
-b ?
-\begin{bmatrix} 3 \\ 0 \end{bmatrix}
-\mathbf v
-\mathbf w ?
-a
-b ?
+a𝐖=𝐖-2,𝐖𝐖-1,𝐖0,𝐖1,𝐖
+2𝐖.
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖𝐖.
+\mathbf𝐖w𝐖
+\mathbf𝐖v𝐖𝐖.
+(0,𝐖0)
+\mathbf𝐖v𝐖𝐖+\mathbf𝐖w𝐖𝐖.
+\mathbf𝐖v𝐖𝐖=𝐖\begin{bmatrix}𝐖3𝐖\\𝐖1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖w𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖2𝐖\end{bmatrix}𝐖𝐖.
 a
 b
-\begin{bmatrix} 3 \\ 0 \end{bmatrix} .
-\begin{bmatrix} 1.3 \\ -1.7 \end{bmatrix}
-\mathbf v
-\mathbf w ?
-\begin{bmatrix} 15.2 \\ 7.1 \end{bmatrix} ?
-\mathbf v
-\mathbf w ?
-\mathbf v_1 = \begin{bmatrix} 4 \\ 0 \\ 2 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 1 \\ -3 \\ 3 \\ 1 \end{bmatrix}, \mathbf v_3 = \begin{bmatrix} -2 \\ 1 \\ 1 \\ 0 \end{bmatrix}, \mathbf b = \begin{bmatrix} 0 \\ 1 \\ 2 \\ -2 \end{bmatrix},
-\mathbf b
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3 .
-c_1,
-c_2,
-c_3
-3x_1 & \lt mi/> + & 2x_2 & \lt mi/> -x_3 & \lt mi/> = & 4 \\ x_1 & \~ & \~ & \lt mi/> +2x_3 & \lt mi/> = & 0 \\ -x_1 & \lt mi/> - & x_2 & \lt mi/> +3x_3 & \lt mi/> = & 1
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3,
-\mathbf b
-\mathbf b
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3 ?
-\mathbf v_1 = \begin{bmatrix} 0 \\ -2 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 1 \\ 1 \\ -1 \end{bmatrix}, \mathbf v_3 = \begin{bmatrix} 2 \\ 0 \\ -1 \end{bmatrix}, \mathbf b = \begin{bmatrix} -1 \\ 3 \\ -1 \end{bmatrix} .
-\mathbf b ?
-\mathbf b
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3
-\mathbf b
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3
-\mathbf b
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3 .
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3,
-\mathbf b
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3
-\mathbf b
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3
-\mathbf b
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3 .
-\begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \mathbf v_3 \end{bmatrix}
-\mathbf v_1 = \begin{bmatrix} 0 \\ -2 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 1 \\ 1 \\ -1 \end{bmatrix}, \mathbf v_3 = \begin{bmatrix} 1 \\ -1 \\ -2 \end{bmatrix}, \mathbf b = \begin{bmatrix} 0 \\ 8 \\ -4 \end{bmatrix} .
-\mathbf b ?
-\mathbf b
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3
-\mathbf b
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3
-\mathbf b
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3 .
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3
-\mathbf b
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3
-\mathbf b
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3
-\mathbf b
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3 .
-\begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \mathbf v_3 \end{bmatrix}
-\mathbb R^p
+a\mathbf𝐖v𝐖𝐖+b\mathbf𝐖w𝐖
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖𝐖.
+a𝐖=𝐖-2
+b𝐖=1𝐖.
+𝐖\begin{bmatrix}𝐖𝐖-31𝐖\\𝐖37𝐖\end{bmatrix}𝐖
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖𝐖?
+\mathbf𝐖v𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖w𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖2𝐖\end{bmatrix}𝐖
+a
+b𝐖.
+b
+a
+b𝐖=0𝐖?
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖
+a𝐖=1
+b𝐖=𝐖-2𝐖?
+b
+a
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖𝐖.
+\mathbf𝐖w𝐖
+\mathbf𝐖v𝐖𝐖.
+(0,𝐖0)
+\mathbf𝐖v𝐖𝐖+\mathbf𝐖w𝐖𝐖.
+𝐖\begin{bmatrix}𝐖0𝐖\\𝐖0𝐖\end{bmatrix}𝐖
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖𝐖?
+a
+b𝐖?
+𝐖\begin{bmatrix}𝐖3𝐖\\𝐖0𝐖\end{bmatrix}𝐖
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖𝐖?
+a
+b𝐖?
+a
+b
+𝐖\begin{bmatrix}𝐖3𝐖\\𝐖0𝐖\end{bmatrix}𝐖𝐖.
+𝐖\begin{bmatrix}𝐖1.3𝐖\\𝐖𝐖-1.7𝐖\end{bmatrix}𝐖
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖𝐖?
+𝐖\begin{bmatrix}𝐖15.2𝐖\\𝐖7.1𝐖\end{bmatrix}𝐖𝐖?
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖𝐖?
+\mathbf𝐖v𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖4𝐖\\𝐖0𝐖\\𝐖2𝐖\\𝐖1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖𝐖-3𝐖\\𝐖3𝐖\\𝐖1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_3𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-2𝐖\\𝐖1𝐖\\𝐖1𝐖\\𝐖0𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖b𝐖𝐖=𝐖\begin{bmatrix}𝐖0𝐖\\𝐖1𝐖\\𝐖2𝐖\\𝐖𝐖-2𝐖\end{bmatrix}𝐖,𝐖
+\mathbf𝐖b𝐖
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖𝐖.
+c_1𝐖,𝐖
+c_2𝐖,𝐖
+c_3𝐖
+3x_1𝐖𝐖&𝐖\lt𝐖mi/>𝐖+𝐖&𝐖2x_2𝐖𝐖&𝐖\lt𝐖mi/>𝐖-x_3𝐖𝐖&𝐖\lt𝐖mi/>𝐖=𝐖&𝐖4𝐖\\𝐖x_1𝐖𝐖&𝐖\~𝐖&𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖+2x_3𝐖𝐖&𝐖\lt𝐖mi/>𝐖=𝐖&𝐖0𝐖\\𝐖𝐖-x_1𝐖𝐖&𝐖\lt𝐖mi/>𝐖-𝐖&𝐖x_2𝐖𝐖&𝐖\lt𝐖mi/>𝐖+3x_3𝐖𝐖&𝐖\lt𝐖mi/>𝐖=𝐖&𝐖1
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖,𝐖
+\mathbf𝐖b𝐖
+\mathbf𝐖b𝐖
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖𝐖?
+\mathbf𝐖v𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖0𝐖\\𝐖𝐖-2𝐖\\𝐖1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖1𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_3𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖0𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖b𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖3𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖b𝐖𝐖?
+\mathbf𝐖b𝐖
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖
+\mathbf𝐖b𝐖
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖
+\mathbf𝐖b𝐖
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖𝐖.
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖,𝐖
+\mathbf𝐖b𝐖
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖
+\mathbf𝐖b𝐖
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖
+\mathbf𝐖b𝐖
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖𝐖.
+𝐖\begin{bmatrix}𝐖\mathbf𝐖v𝐖_1𝐖𝐖&𝐖\mathbf𝐖v𝐖_2𝐖𝐖&𝐖\mathbf𝐖v𝐖_3𝐖𝐖\end{bmatrix}𝐖
+\mathbf𝐖v𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖0𝐖\\𝐖𝐖-2𝐖\\𝐖1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖1𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_3𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖𝐖-1𝐖\\𝐖𝐖-2𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖b𝐖𝐖=𝐖\begin{bmatrix}𝐖0𝐖\\𝐖8𝐖\\𝐖𝐖-4𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖b𝐖𝐖?
+\mathbf𝐖b𝐖
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖
+\mathbf𝐖b𝐖
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖
+\mathbf𝐖b𝐖
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖𝐖.
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖
+\mathbf𝐖b𝐖
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖
+\mathbf𝐖b𝐖
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖
+\mathbf𝐖b𝐖
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖𝐖.
+𝐖\begin{bmatrix}𝐖\mathbf𝐖v𝐖_1𝐖𝐖&𝐖\mathbf𝐖v𝐖_2𝐖𝐖&𝐖\mathbf𝐖v𝐖_3𝐖𝐖\end{bmatrix}𝐖
+\mathbb𝐖R𝐖^p𝐖
 P
-Q .
+Q𝐖.
 P
 P
-Q .
-Q,
+Q𝐖.
+Q,𝐖
 Q
-P .
-P_k
-Q_k
-k .
+P𝐖.
+P_k𝐖
+Q_k𝐖
+k𝐖.
 P
-P_k
-Q_k .
-P_{k +1} & \lt mi/> =0.8P_k +0.4Q_k \\ Q_{k +1} & \lt mi/> =0.2P_k +0.6Q_k .
-\mathbf x_k = \begin{bmatrix} P_k \\ Q_k \end{bmatrix}
-k,
+P_k𝐖
+Q_k𝐖𝐖.
+P_{k𝐖+1}𝐖𝐖&𝐖\lt𝐖mi/>𝐖=0.8P_k𝐖𝐖+0.4Q_k𝐖𝐖\\𝐖Q_{k𝐖+1}𝐖𝐖&𝐖\lt𝐖mi/>𝐖=0.2P_k𝐖𝐖+0.6Q_k𝐖𝐖.
+\mathbf𝐖x𝐖_k𝐖𝐖=𝐖\begin{bmatrix}𝐖P_k𝐖𝐖\\𝐖Q_k𝐖𝐖\end{bmatrix}𝐖
+k,𝐖
 A
-\mathbf x_{k +1} =A\mathbf x_k .
-A .
-P .
-\mathbf x_0
-A .
-\mathbf x_k
-A .
-P,
-Q,
-R .
-P_k,
-Q_k,
-R_k
-k .
+\mathbf𝐖x𝐖_{k𝐖+1}𝐖𝐖=A\mathbf𝐖x𝐖_k𝐖𝐖.
+A𝐖.
+P𝐖.
+\mathbf𝐖x𝐖_0𝐖
+A𝐖.
+\mathbf𝐖x𝐖_k𝐖
+A𝐖.
+P,𝐖
+Q,𝐖
+R𝐖.
+P_k𝐖,𝐖
+Q_k𝐖,𝐖
+R_k𝐖
+k𝐖.
 P
 Q
-P_{k +1},
-Q_{k +1},
-R_{k +1}
-P_k,
-Q_k,
-R_k .
-\mathbf x_k = \begin{bmatrix} P_k \\ Q_k \\ R_k \end{bmatrix},
+P_{k𝐖+1}𝐖,𝐖
+Q_{k𝐖+1}𝐖,𝐖
+R_{k𝐖+1}𝐖
+P_k𝐖,𝐖
+Q_k𝐖,𝐖
+R_k𝐖𝐖.
+\mathbf𝐖x𝐖_k𝐖𝐖=𝐖\begin{bmatrix}𝐖P_k𝐖𝐖\\𝐖Q_k𝐖𝐖\\𝐖R_k𝐖𝐖\end{bmatrix}𝐖,𝐖
 A
-\mathbf x_{k +1} =A\mathbf x_k .
+\mathbf𝐖x𝐖_{k𝐖+1}𝐖𝐖=A\mathbf𝐖x𝐖_k𝐖𝐖.
 A
-P,
-Q,
-R .
-\mathbf x_0
-\mathbf x_0
-\mathbf x_1,
-\mathbf x_1
-\mathbf x_k
-k .
+P,𝐖
+Q,𝐖
+R𝐖.
+\mathbf𝐖x𝐖_0𝐖
+\mathbf𝐖x𝐖_0𝐖
+\mathbf𝐖x𝐖_1𝐖,𝐖
+\mathbf𝐖x𝐖_1𝐖
+\mathbf𝐖x𝐖_k𝐖
+k𝐖.
 A
 A
-E_1
-\mathbb R^3 .
-\mathbf v = \begin{bmatrix} 1 \\ 2 \\ 2 \end{bmatrix}
-E_1 .
-E_1
-\mathbf v,
-E_1
-E_1 .
-\mathbf x_k
+E_1𝐖
+\mathbb𝐖R𝐖^3𝐖𝐖.
+\mathbf𝐖v𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖2𝐖\\𝐖2𝐖\end{bmatrix}𝐖
+E_1𝐖𝐖.
+E_1𝐖
+\mathbf𝐖v𝐖,𝐖
+E_1𝐖
+E_1𝐖𝐖.
+\mathbf𝐖x𝐖_k𝐖
 A
-\mathbf q
-A\mathbf q =\mathbf q .
+\mathbf𝐖q𝐖
+A\mathbf𝐖q𝐖𝐖=\mathbf𝐖q𝐖𝐖.
 A
-\mathbf x_k
-\mathbf x_k
-A = \begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix} .
+\mathbf𝐖x𝐖_k𝐖
+\mathbf𝐖x𝐖_k𝐖
+A𝐖=𝐖\begin{bmatrix}𝐖0𝐖&𝐖1𝐖\\𝐖1𝐖&𝐖0𝐖\end{bmatrix}𝐖𝐖.
 A
-A .
-A .
-\mathbf x_0 = \begin{bmatrix} 1 \\ 0 \end{bmatrix}
-\mathbf x_{k +1} =A\mathbf x_k .
+A𝐖.
+A𝐖.
+\mathbf𝐖x𝐖_0𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\end{bmatrix}𝐖
+\mathbf𝐖x𝐖_{k𝐖+1}𝐖𝐖=A\mathbf𝐖x𝐖_k𝐖𝐖.
 N
 A
 x0
-A ?
-B = \begin{bmatrix} 0.4 & 0.3 \\ 0.6 & 0.7 \end{bmatrix} .
+A𝐖?
+B𝐖=𝐖\begin{bmatrix}𝐖0.4𝐖&𝐖0.3𝐖\\𝐖0.6𝐖&𝐖0.7𝐖\end{bmatrix}𝐖𝐖.
 B
-B .
-\mathbf x_0 = \begin{bmatrix} 1 \\ 0 \end{bmatrix}
-\mathbf x_{k +1} =B\mathbf x_k .
-B ?
+B𝐖.
+\mathbf𝐖x𝐖_0𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\end{bmatrix}𝐖
+\mathbf𝐖x𝐖_{k𝐖+1}𝐖𝐖=B\mathbf𝐖x𝐖_k𝐖𝐖.
+B𝐖?
 A
 A
-A^k
+A^k𝐖
 A
-\lambda_1 =1
-| \lambda_j | \lt 1
-j >1 .
+\lambda𝐖_1𝐖𝐖=1
+|𝐖\lambda𝐖_j𝐖|𝐖\lt𝐖1
+j𝐖>1𝐖.
 A
-\mathbf q
+\mathbf𝐖q𝐖
 A
-\mathbf q .
-C = \begin{bmatrix} 0 & 0.5 \\ 1 & 0.5 \end{bmatrix} .
+\mathbf𝐖q𝐖𝐖.
+C𝐖=𝐖\begin{bmatrix}𝐖0𝐖&𝐖0.5𝐖\\𝐖1𝐖&𝐖0.5𝐖\end{bmatrix}𝐖𝐖.
 C
-C^k .
+C^k𝐖𝐖.
 C
-\mathbf x_0 = \begin{bmatrix} 1 \\ 0 \end{bmatrix}
-\mathbf x_k
+\mathbf𝐖x𝐖_0𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\end{bmatrix}𝐖
+\mathbf𝐖x𝐖_k𝐖
 k
-\mathbf x_0 = \begin{bmatrix} 0.2 \\ 0.8 \end{bmatrix}
-\mathbf x_k
+\mathbf𝐖x𝐖_0𝐖𝐖=𝐖\begin{bmatrix}𝐖0.2𝐖\\𝐖0.8𝐖\end{bmatrix}𝐖
+\mathbf𝐖x𝐖_k𝐖
 k
-D = \begin{bmatrix} 0 & 0.5 & 0 \\ 1 & 0.5 & 0 \\ 0 & 0 & 1 \end{bmatrix}
+D𝐖=𝐖\begin{bmatrix}𝐖0𝐖&𝐖0.5𝐖&𝐖0𝐖\\𝐖1𝐖&𝐖0.5𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖\end{bmatrix}𝐖
 D
 D
 D
 D
-\mathbf x_0 = \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix} ?
-\mathbf x_0 = \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix} ?
+\mathbf𝐖x𝐖_0𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\\𝐖0𝐖\end{bmatrix}𝐖𝐖?
+\mathbf𝐖x𝐖_0𝐖𝐖=𝐖\begin{bmatrix}𝐖0𝐖\\𝐖0𝐖\\𝐖1𝐖\end{bmatrix}𝐖𝐖?
 C
-D,
-C
-D
+D,𝐖
 C
 D
 C
-D .
+D
 C
-D .
-\mathbb R^p
-\mathbf v_1 = \begin{bmatrix} 2 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 1 \\ 2 \end{bmatrix}
-\mathbb R^2 .
-\mathbf v_1 -2\mathbf v_2 .
-\begin{bmatrix} -3 \\ 0 \end{bmatrix}
-\mathbf v_1
-\mathbf v_2 .
-10\mathbf v_1 -13\mathbf v_2 .
-\begin{bmatrix} 16 \\ -4 \end{bmatrix}
-\mathbf v_1
-\mathbf v_2 .
-\mathbb R^2
-\mathbf v_1
-\mathbf v_2
-\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_n
-\mathbb R^m
-\mathbb R^m
-\mathbb R^m
-\mathbb R^n
-\mathbb R^2 \colon
-\mathbf v_1 = \begin{bmatrix} 2 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 1 \\ 2 \end{bmatrix} .
-\mathbb R^2 .
-\mathbb R^3
-\mathbf v_1 = \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 0 \\ 1 \\ -1 \end{bmatrix}, \mathbf v_3 = \begin{bmatrix} 1 \\ 0 \\ -1 \end{bmatrix} .
-\mathbb R^3 .
-\mathbf v_1 = \begin{bmatrix} -2 \\ 1 \\ 3 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 3 \\ 0 \\ -1 \end{bmatrix}, \mathbf v_3 = \begin{bmatrix} 1 \\ 1 \\ 0 \end{bmatrix}, \mathbf v_4 = \begin{bmatrix} 0 \\ 3 \\ -2 \end{bmatrix}
-\mathbb R^3 ?
-\mathbf e_1, \mathbf e_2, \mathbf e_3
-\mathbb R^3 .
-\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_n
-\mathbb R^m,
-\begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \ldots & \mathbf v_n \end{bmatrix} ?
-\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_n
-\mathbb R^{10},
-\{\mathbf v_1, \mathbf v_2, \mathbf v_3, \mathbf v_4 \}
-\mathbb R^4,
-[\mathbf v_1 \mathbf v_2 \mathbf v_3 \mathbf v_4]
-RREF[\vec{v}_1 \vec{v}_2 \vec{v}_3 \vec{v}_4] = \begin{bmatrix} ? & ? & ? & ? \\ ? & ? & ? & ? \\ ? & ? & ? & ? \\ ? & ? & ? & ? \end{bmatrix}
-A, B, C, D, E
-\mathbb R^4
-\mathbb R^4
-\mathbb R^4
-\mathbb R^4
+D𝐖.
+C
+D𝐖.
+\mathbb𝐖R𝐖^p𝐖
+\mathbf𝐖v𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖2𝐖\end{bmatrix}𝐖
+\mathbb𝐖R𝐖^2𝐖𝐖.
+\mathbf𝐖v𝐖_1𝐖𝐖-2\mathbf𝐖v𝐖_2𝐖𝐖.
+𝐖\begin{bmatrix}𝐖𝐖-3𝐖\\𝐖0𝐖\end{bmatrix}𝐖
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖.
+10\mathbf𝐖v𝐖_1𝐖𝐖-13\mathbf𝐖v𝐖_2𝐖𝐖.
+𝐖\begin{bmatrix}𝐖16𝐖\\𝐖𝐖-4𝐖\end{bmatrix}𝐖
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖.
+\mathbb𝐖R𝐖^2𝐖
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖
+\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\ldots𝐖,𝐖\mathbf𝐖v𝐖_n𝐖
+\mathbb𝐖R𝐖^m𝐖
+\mathbb𝐖R𝐖^m𝐖
+\mathbb𝐖R𝐖^m𝐖
+\mathbb𝐖R𝐖^n𝐖
+\mathbb𝐖R𝐖^2𝐖𝐖\colon𝐖
+\mathbf𝐖v𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖2𝐖\end{bmatrix}𝐖𝐖.
+\mathbb𝐖R𝐖^2𝐖𝐖.
+\mathbb𝐖R𝐖^3𝐖
+\mathbf𝐖v𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖1𝐖\\𝐖1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖0𝐖\\𝐖1𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_3𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖.
+\mathbb𝐖R𝐖^3𝐖𝐖.
+\mathbf𝐖v𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-2𝐖\\𝐖1𝐖\\𝐖3𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖3𝐖\\𝐖0𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_3𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖1𝐖\\𝐖0𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_4𝐖𝐖=𝐖\begin{bmatrix}𝐖0𝐖\\𝐖3𝐖\\𝐖𝐖-2𝐖\end{bmatrix}𝐖
+\mathbb𝐖R𝐖^3𝐖𝐖?
+\mathbf𝐖e𝐖_1𝐖,𝐖\mathbf𝐖e𝐖_2𝐖,𝐖\mathbf𝐖e𝐖_3𝐖
+\mathbb𝐖R𝐖^3𝐖𝐖.
+\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\ldots𝐖,𝐖\mathbf𝐖v𝐖_n𝐖
+\mathbb𝐖R𝐖^m𝐖,𝐖
+𝐖\begin{bmatrix}𝐖\mathbf𝐖v𝐖_1𝐖𝐖&𝐖\mathbf𝐖v𝐖_2𝐖𝐖&𝐖\ldots𝐖𝐖&𝐖\mathbf𝐖v𝐖_n𝐖𝐖\end{bmatrix}𝐖𝐖?
+\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\ldots𝐖,𝐖\mathbf𝐖v𝐖_n𝐖
+\mathbb𝐖R𝐖^{10}𝐖,𝐖
+\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\mathbf𝐖v𝐖_3𝐖,𝐖\mathbf𝐖v𝐖_4𝐖\}
+\mathbb𝐖R𝐖^4𝐖,𝐖
+[\mathbf𝐖v𝐖_1𝐖\mathbf𝐖v𝐖_2𝐖\mathbf𝐖v𝐖_3𝐖\mathbf𝐖v𝐖_4𝐖]
+RREF[\vec{v}_1𝐖\vec{v}_2𝐖\vec{v}_3𝐖\vec{v}_4𝐖]𝐖=𝐖\begin{bmatrix}𝐖?𝐖&𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\\𝐖?𝐖&𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\\𝐖?𝐖&𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\\𝐖?𝐖&𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\end{bmatrix}𝐖
+A,𝐖B,𝐖C,𝐖D,𝐖E
+\mathbb𝐖R𝐖^4𝐖
+\mathbb𝐖R𝐖^4𝐖
+\mathbb𝐖R𝐖^4𝐖
+\mathbb𝐖R𝐖^4𝐖
 RREF
-A & \lt mi/> =\{ \begin{bmatrix} 1 \\ 0 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 0 \\ 1 \end{bmatrix} \} & B & \lt mi/> =\{ \begin{bmatrix} 2 \\ 3 \\ 0 \\ -1 \end{bmatrix}, \begin{bmatrix} 2 \\ 0 \\ 0 \\ 3 \end{bmatrix}, \begin{bmatrix} 4 \\ 3 \\ 0 \\ 2 \end{bmatrix}, \begin{bmatrix} -3 \\ 0 \\ 1 \\ 3 \end{bmatrix} \} \\ C & \lt mi/> =\{ \begin{bmatrix} 2 \\ 3 \\ 0 \\ -1 \end{bmatrix}, \begin{bmatrix} 2 \\ 0 \\ 0 \\ 3 \end{bmatrix}, \begin{bmatrix} 3 \\ 13 \\ 7 \\ 16 \end{bmatrix}, \begin{bmatrix} -1 \\ 10 \\ 7 \\ 14 \end{bmatrix}, \begin{bmatrix} 4 \\ 3 \\ 0 \\ 2 \end{bmatrix} \} & D & \lt mi/> =\{ \begin{bmatrix} 2 \\ 3 \\ 0 \\ -1 \end{bmatrix}, \begin{bmatrix} 4 \\ 3 \\ 0 \\ 2 \end{bmatrix}, \begin{bmatrix} -3 \\ 0 \\ 1 \\ 3 \end{bmatrix}, \begin{bmatrix} 3 \\ 6 \\ 1 \\ 5 \end{bmatrix} \} \\ E & \lt mi/> =\{ \begin{bmatrix} 5 \\ 3 \\ 0 \\ -1 \end{bmatrix}, \begin{bmatrix} -2 \\ 1 \\ 0 \\ 3 \end{bmatrix}, \begin{bmatrix} 4 \\ 5 \\ 1 \\ 3 \end{bmatrix} \}
-\mscrB =\{\mathbf v_1, \mathbf v_2 \}
-\mathbb R^2
-\mathbf v_1 = \begin{bmatrix} 3 \\ -2 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 2 \\ 1 \end{bmatrix} .
-\mathbf x
-\mscrB
-\{\mathbf x \}_\mscrB = \begin{bmatrix} -2 \\ 4 \end{bmatrix},
-\mathbf x ?
-\mathbf x = \begin{bmatrix} 3 \\ 5 \end{bmatrix},
-\mathbf x
-\mscrB;
-\{\mathbf x \}_\mscrB .
+A𝐖&𝐖\lt𝐖mi/>𝐖=\{𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\\𝐖0𝐖\\𝐖0𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖0𝐖\\𝐖1𝐖\\𝐖0𝐖\\𝐖0𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖0𝐖\\𝐖0𝐖\\𝐖1𝐖\\𝐖0𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖0𝐖\\𝐖0𝐖\\𝐖0𝐖\\𝐖1𝐖\end{bmatrix}𝐖\}𝐖&𝐖B𝐖&𝐖\lt𝐖mi/>𝐖=\{𝐖\begin{bmatrix}𝐖2𝐖\\𝐖3𝐖\\𝐖0𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖2𝐖\\𝐖0𝐖\\𝐖0𝐖\\𝐖3𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖4𝐖\\𝐖3𝐖\\𝐖0𝐖\\𝐖2𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖𝐖-3𝐖\\𝐖0𝐖\\𝐖1𝐖\\𝐖3𝐖\end{bmatrix}𝐖\}𝐖\\𝐖C𝐖&𝐖\lt𝐖mi/>𝐖=\{𝐖\begin{bmatrix}𝐖2𝐖\\𝐖3𝐖\\𝐖0𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖2𝐖\\𝐖0𝐖\\𝐖0𝐖\\𝐖3𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖3𝐖\\𝐖13𝐖\\𝐖7𝐖\\𝐖16𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖10𝐖\\𝐖7𝐖\\𝐖14𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖4𝐖\\𝐖3𝐖\\𝐖0𝐖\\𝐖2𝐖\end{bmatrix}𝐖\}𝐖&𝐖D𝐖&𝐖\lt𝐖mi/>𝐖=\{𝐖\begin{bmatrix}𝐖2𝐖\\𝐖3𝐖\\𝐖0𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖4𝐖\\𝐖3𝐖\\𝐖0𝐖\\𝐖2𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖𝐖-3𝐖\\𝐖0𝐖\\𝐖1𝐖\\𝐖3𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖3𝐖\\𝐖6𝐖\\𝐖1𝐖\\𝐖5𝐖\end{bmatrix}𝐖\}𝐖\\𝐖E𝐖&𝐖\lt𝐖mi/>𝐖=\{𝐖\begin{bmatrix}𝐖5𝐖\\𝐖3𝐖\\𝐖0𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖𝐖-2𝐖\\𝐖1𝐖\\𝐖0𝐖\\𝐖3𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖4𝐖\\𝐖5𝐖\\𝐖1𝐖\\𝐖3𝐖\end{bmatrix}𝐖\}
+\mscrB𝐖𝐖=\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖\}
+\mathbb𝐖R𝐖^2𝐖
+\mathbf𝐖v𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖3𝐖\\𝐖𝐖-2𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖1𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖x𝐖
+\mscrB𝐖
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-2𝐖\\𝐖4𝐖\end{bmatrix}𝐖,𝐖
+\mathbf𝐖x𝐖𝐖?
+\mathbf𝐖x𝐖𝐖=𝐖\begin{bmatrix}𝐖3𝐖\\𝐖5𝐖\end{bmatrix}𝐖,𝐖
+\mathbf𝐖x𝐖
+\mscrB𝐖;𝐖
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖𝐖.
 A
-\mathbf x,
-\mathbf x =A\{\mathbf x \}_\mscrB .
+\mathbf𝐖x𝐖,𝐖
+\mathbf𝐖x𝐖𝐖=A\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖𝐖.
 B
-\mathbf x,
-\{\mathbf x \}_\mscrB =B\mathbf x .
-\mathscr C =\{ \begin{bmatrix} 1 \\ 2 \end{bmatrix}, \begin{bmatrix} -2 \\ 1 \end{bmatrix} \} .
+\mathbf𝐖x𝐖,𝐖
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖𝐖=B\mathbf𝐖x𝐖𝐖.
+\mathscr𝐖C𝐖𝐖=\{𝐖\begin{bmatrix}𝐖1𝐖\\𝐖2𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖𝐖-2𝐖\\𝐖1𝐖\end{bmatrix}𝐖\}𝐖.
 M
-\mathscr C
-\mscrB
-\{\mathbf x \}_\mscrB =M\{\mathbf x \}_\mathscr C .
-\mathscr C
-\mscrB .
-\mscrE =\{\mathbf e_1, \mathbf e_2 \} .
-\mathbf x
-\{\mathbf x \}_\mscrE ?
-\mathbb R^p
-A\mathbf x =\mathbf b
-\begin{bmatrix} A & \mathbf b \end{bmatrix} .
+\mathscr𝐖C𝐖
+\mscrB𝐖
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖𝐖=M\{\mathbf𝐖x𝐖\}_\mathscr𝐖C𝐖𝐖𝐖.
+\mathscr𝐖C𝐖
+\mscrB𝐖𝐖.
+\mscrE𝐖𝐖=\{\mathbf𝐖e𝐖_1𝐖,𝐖\mathbf𝐖e𝐖_2𝐖\}𝐖.
+\mathbf𝐖x𝐖
+\{\mathbf𝐖x𝐖\}_\mscrE𝐖𝐖𝐖?
+\mathbb𝐖R𝐖^p𝐖
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖b𝐖
+𝐖\begin{bmatrix}𝐖A𝐖&𝐖\mathbf𝐖b𝐖𝐖\end{bmatrix}𝐖𝐖.
 A
-A = \begin{bmatrix} 1 & 0 & -2 \\ -2 & 2 & 2 \\ 1 & 1 & -3 \end{bmatrix} .
-\mathbf b = \begin{bmatrix} 2 \\ 2 \\ 5 \end{bmatrix},
-A\mathbf x =\mathbf b
-\mathbf b = \begin{bmatrix} 2 \\ 2 \\ 6 \end{bmatrix},
-A\mathbf x =\mathbf b
-A .
-\mathbf b,
-A\mathbf x =\mathbf b
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖𝐖-2𝐖\\𝐖𝐖-2𝐖&𝐖2𝐖&𝐖2𝐖\\𝐖1𝐖&𝐖1𝐖&𝐖𝐖-3𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖b𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖2𝐖\\𝐖5𝐖\end{bmatrix}𝐖,𝐖
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖b𝐖
+\mathbf𝐖b𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖2𝐖\\𝐖6𝐖\end{bmatrix}𝐖,𝐖
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖b𝐖
+A𝐖.
+\mathbf𝐖b𝐖,𝐖
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖b𝐖
 A
-\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_n
-\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_n
-\mathbf b
-\begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \ldots & \mathbf v_n \end{bmatrix} \mathbf x =\mathbf b
-\mathbf v = \begin{bmatrix} 1 \\ 2 \end{bmatrix}, \mathbf w = \begin{bmatrix} -2 \\ -4 \end{bmatrix} .
-\mathbf v
-\mathbf w
-a =2
-b =0 ?
-a =1
-b =1 ?
-a =0
-b = -1 ?
-\begin{bmatrix} 2 \\ 4 \end{bmatrix}
-\mathbf v
-\mathbf w ?
-\begin{bmatrix} 2 \\ 4 \end{bmatrix}
-\mathbf v
-\mathbf w ?
-\begin{bmatrix} 3 \\ 0 \end{bmatrix}
-\mathbf v
-\mathbf w ?
-\begin{bmatrix} 3 \\ 0 \end{bmatrix}
-\mathbf v
-\mathbf w ?
-\mathbf v
-\mathbf w .
-\mathbf b
-\begin{bmatrix} 1 & -2 \\ 2 & -4 \end{bmatrix} \mathbf x =\mathbf b
-\mathbf v = \begin{bmatrix} 2 \\ 1 \end{bmatrix}, \mathbf w = \begin{bmatrix} 1 \\ 2 \end{bmatrix} .
-\mathbf v
-\mathbf w
-a =2
-b =0 ?
-a =1
-b =1 ?
-a =0
-b = -1 ?
-\begin{bmatrix} -2 \\ 2 \end{bmatrix}
-\mathbf v
-\mathbf w ?
-\begin{bmatrix} -2 \\ 2 \end{bmatrix}
-\mathbf v
-\mathbf w ?
-\begin{bmatrix} 3 \\ 0 \end{bmatrix}
-\mathbf v
-\mathbf w ?
-\begin{bmatrix} 3 \\ 0 \end{bmatrix}
-\mathbf v
-\mathbf w ?
-\mathbf v
-\mathbf w .
-\mathbf b
-\begin{bmatrix} 2 & 1 \\ 1 & 2 \end{bmatrix} \mathbf x =\mathbf b
-\mathbb R^3 .
-\mathbb R^3 .
-\mathbf v = \begin{bmatrix} 1 \\ 2 \\ 1 \end{bmatrix} .
-Span\{\mathbf v \}
-\mathbf e_1 = \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}, \mathbf e_2 = \begin{bmatrix} 0 \\ 1 \\ 0 \end{bmatrix} .
-Span\{\mathbf e_1, \mathbf e_2 \}
-\mathbf b = \begin{bmatrix} b_1 \\ b_2 \\ b_3 \end{bmatrix} .
-b_1,
-b_2,
-b_3
-\mathbf b
-Span\{\mathbf e_1, \mathbf e_2 \}
-\begin{bmatrix} \mathbf e_1 & \mathbf e_2 \end{bmatrix} \mathbf x =\mathbf b
-\begin{bmatrix} 1 & 0 \\ 0 & 1 \\ 0 & 0 \end{bmatrix} \mathbf x = \begin{bmatrix} b_1 \\ b_2 \\ b_3 \end{bmatrix} .
-Span\{\mathbf e_1, \mathbf e_2 \} .
-\mathbf v_1 = \begin{bmatrix} 1 \\ 1 \\ -1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 0 \\ 2 \\ 1 \end{bmatrix} .
-\mathbf b = \begin{bmatrix} 1 \\ -2 \\ 4 \end{bmatrix}
-Span\{\mathbf v_1, \mathbf v_2 \} ?
-\mathbf b = \begin{bmatrix} -2 \\ 0 \\ 3 \end{bmatrix}
-Span\{\mathbf v_1, \mathbf v_2 \} ?
-Span\{\mathbf v_1, \mathbf v_2 \} ?
-Span\{\mathbf v_1, \mathbf v_2 \}
-\mathbb R^2 .
-Span\{\mathbf v_1, \mathbf v_2 \}
-\mathbb R^3 .
-Span\{\mathbf v_1, \mathbf v_2 \}
-real^3 .
-Span\{\mathbf v_1, \mathbf v_2 \}
-real^3 .
-\mathbf v_1 = \begin{bmatrix} 1 \\ 1 \\ -1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 0 \\ 2 \\ 1 \end{bmatrix}, \mathbf v_3 = \begin{bmatrix} 1 \\ -2 \\ 4 \end{bmatrix} .
-\begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \mathbf v_3 \end{bmatrix}
-Span\{\mathbf v_1, \mathbf v_2, \mathbf v_3 \} ?
-Span\{\mathbf v_1, \mathbf v_2, \mathbf v_3 \} =Span\{\mathbf v_1, \mathbf v_2 \} .
-Span\{\mathbf v_1, \mathbf v_2, \mathbf v_3 \} =Span\{\mathbf v_2, \mathbf v_3 \} .
-Span\{\mathbf v_1, \mathbf v_2, \mathbf v_3 \} =Span\{\mathbf v_1 \} .
-Span\{\mathbf v_1, \mathbf v_2, \mathbf v_3 \} =\mathbb R^3 .
-\mathbb R^3 ?
-\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_n
-\mathbb R^3,
-\begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \ldots & \mathbf v_n \end{bmatrix} ?
-Span\{\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_n \} =\mathbb R^3 ?
-\begin{bmatrix} -1 \\ -6 \\ 1 \end{bmatrix}
-span\{ \begin{bmatrix} 1 \\ 0 \\ -3 \end{bmatrix}, \begin{bmatrix} -1 \\ -3 \\ 2 \end{bmatrix} \}
-x_1 \begin{bmatrix} 1 \\ 0 \\ -3 \end{bmatrix} +x_2 \begin{bmatrix} -1 \\ -3 \\ 2 \end{bmatrix} = \begin{bmatrix} -1 \\ -6 \\ 1 \end{bmatrix} .
+\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\ldots𝐖,𝐖\mathbf𝐖v𝐖_n𝐖
+\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\ldots𝐖,𝐖\mathbf𝐖v𝐖_n𝐖
+\mathbf𝐖b𝐖
+𝐖\begin{bmatrix}𝐖\mathbf𝐖v𝐖_1𝐖𝐖&𝐖\mathbf𝐖v𝐖_2𝐖𝐖&𝐖\ldots𝐖𝐖&𝐖\mathbf𝐖v𝐖_n𝐖𝐖\end{bmatrix}𝐖\mathbf𝐖x𝐖𝐖=\mathbf𝐖b𝐖
+\mathbf𝐖v𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖2𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖w𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-2𝐖\\𝐖𝐖-4𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖
+a𝐖=2
+b𝐖=0𝐖?
+a𝐖=1
+b𝐖=1𝐖?
+a𝐖=0
+b𝐖=𝐖-1𝐖?
+𝐖\begin{bmatrix}𝐖2𝐖\\𝐖4𝐖\end{bmatrix}𝐖
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖𝐖?
+𝐖\begin{bmatrix}𝐖2𝐖\\𝐖4𝐖\end{bmatrix}𝐖
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖𝐖?
+𝐖\begin{bmatrix}𝐖3𝐖\\𝐖0𝐖\end{bmatrix}𝐖
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖𝐖?
+𝐖\begin{bmatrix}𝐖3𝐖\\𝐖0𝐖\end{bmatrix}𝐖
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖𝐖?
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖𝐖.
+\mathbf𝐖b𝐖
+𝐖\begin{bmatrix}𝐖1𝐖&𝐖𝐖-2𝐖\\𝐖2𝐖&𝐖𝐖-4𝐖\end{bmatrix}𝐖\mathbf𝐖x𝐖𝐖=\mathbf𝐖b𝐖
+\mathbf𝐖v𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖w𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖2𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖
+a𝐖=2
+b𝐖=0𝐖?
+a𝐖=1
+b𝐖=1𝐖?
+a𝐖=0
+b𝐖=𝐖-1𝐖?
+𝐖\begin{bmatrix}𝐖𝐖-2𝐖\\𝐖2𝐖\end{bmatrix}𝐖
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖𝐖?
+𝐖\begin{bmatrix}𝐖𝐖-2𝐖\\𝐖2𝐖\end{bmatrix}𝐖
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖𝐖?
+𝐖\begin{bmatrix}𝐖3𝐖\\𝐖0𝐖\end{bmatrix}𝐖
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖𝐖?
+𝐖\begin{bmatrix}𝐖3𝐖\\𝐖0𝐖\end{bmatrix}𝐖
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖𝐖?
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖𝐖.
+\mathbf𝐖b𝐖
+𝐖\begin{bmatrix}𝐖2𝐖&𝐖1𝐖\\𝐖1𝐖&𝐖2𝐖\end{bmatrix}𝐖\mathbf𝐖x𝐖𝐖=\mathbf𝐖b𝐖
+\mathbb𝐖R𝐖^3𝐖𝐖.
+\mathbb𝐖R𝐖^3𝐖𝐖.
+\mathbf𝐖v𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖2𝐖\\𝐖1𝐖\end{bmatrix}𝐖𝐖.
+Span\{\mathbf𝐖v𝐖\}
+\mathbf𝐖e𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\\𝐖0𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖e𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖0𝐖\\𝐖1𝐖\\𝐖0𝐖\end{bmatrix}𝐖𝐖.
+Span\{\mathbf𝐖e𝐖_1𝐖,𝐖\mathbf𝐖e𝐖_2𝐖\}
+\mathbf𝐖b𝐖𝐖=𝐖\begin{bmatrix}𝐖b_1𝐖𝐖\\𝐖b_2𝐖𝐖\\𝐖b_3𝐖𝐖\end{bmatrix}𝐖𝐖.
+b_1𝐖,𝐖
+b_2𝐖,𝐖
+b_3𝐖
+\mathbf𝐖b𝐖
+Span\{\mathbf𝐖e𝐖_1𝐖,𝐖\mathbf𝐖e𝐖_2𝐖\}
+𝐖\begin{bmatrix}𝐖\mathbf𝐖e𝐖_1𝐖𝐖&𝐖\mathbf𝐖e𝐖_2𝐖𝐖\end{bmatrix}𝐖\mathbf𝐖x𝐖𝐖=\mathbf𝐖b𝐖
+𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖\mathbf𝐖x𝐖𝐖=𝐖\begin{bmatrix}𝐖b_1𝐖𝐖\\𝐖b_2𝐖𝐖\\𝐖b_3𝐖𝐖\end{bmatrix}𝐖𝐖.
+Span\{\mathbf𝐖e𝐖_1𝐖,𝐖\mathbf𝐖e𝐖_2𝐖\}𝐖.
+\mathbf𝐖v𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖1𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖0𝐖\\𝐖2𝐖\\𝐖1𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖b𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖𝐖-2𝐖\\𝐖4𝐖\end{bmatrix}𝐖
+Span\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖\}𝐖?
+\mathbf𝐖b𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-2𝐖\\𝐖0𝐖\\𝐖3𝐖\end{bmatrix}𝐖
+Span\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖\}𝐖?
+Span\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖\}𝐖?
+Span\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖\}
+\mathbb𝐖R𝐖^2𝐖𝐖.
+Span\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖\}
+\mathbb𝐖R𝐖^3𝐖𝐖.
+Span\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖\}
+real^3𝐖𝐖.
+Span\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖\}
+real^3𝐖𝐖.
+\mathbf𝐖v𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖1𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖0𝐖\\𝐖2𝐖\\𝐖1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_3𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖𝐖-2𝐖\\𝐖4𝐖\end{bmatrix}𝐖𝐖.
+𝐖\begin{bmatrix}𝐖\mathbf𝐖v𝐖_1𝐖𝐖&𝐖\mathbf𝐖v𝐖_2𝐖𝐖&𝐖\mathbf𝐖v𝐖_3𝐖𝐖\end{bmatrix}𝐖
+Span\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\mathbf𝐖v𝐖_3𝐖\}𝐖?
+Span\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\mathbf𝐖v𝐖_3𝐖\}𝐖=Span\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖\}𝐖.
+Span\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\mathbf𝐖v𝐖_3𝐖\}𝐖=Span\{\mathbf𝐖v𝐖_2𝐖,𝐖\mathbf𝐖v𝐖_3𝐖\}𝐖.
+Span\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\mathbf𝐖v𝐖_3𝐖\}𝐖=Span\{\mathbf𝐖v𝐖_1𝐖\}𝐖.
+Span\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\mathbf𝐖v𝐖_3𝐖\}𝐖=\mathbb𝐖R𝐖^3𝐖𝐖.
+\mathbb𝐖R𝐖^3𝐖𝐖?
+\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\ldots𝐖,𝐖\mathbf𝐖v𝐖_n𝐖
+\mathbb𝐖R𝐖^3𝐖,𝐖
+𝐖\begin{bmatrix}𝐖\mathbf𝐖v𝐖_1𝐖𝐖&𝐖\mathbf𝐖v𝐖_2𝐖𝐖&𝐖\ldots𝐖𝐖&𝐖\mathbf𝐖v𝐖_n𝐖𝐖\end{bmatrix}𝐖𝐖?
+Span\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\ldots𝐖,𝐖\mathbf𝐖v𝐖_n𝐖\}𝐖=\mathbb𝐖R𝐖^3𝐖𝐖?
+𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖𝐖-6𝐖\\𝐖1𝐖\end{bmatrix}𝐖
+span\{𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\\𝐖𝐖-3𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖𝐖-3𝐖\\𝐖2𝐖\end{bmatrix}𝐖\}
+x_1𝐖𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\\𝐖𝐖-3𝐖\end{bmatrix}𝐖𝐖+x_2𝐖𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖𝐖-3𝐖\\𝐖2𝐖\end{bmatrix}𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖𝐖-6𝐖\\𝐖1𝐖\end{bmatrix}𝐖𝐖.
 RREF
-\begin{bmatrix} -1 \\ -6 \\ 1 \end{bmatrix}
-span\{ \begin{bmatrix} 1 \\ 0 \\ -3 \end{bmatrix}, \begin{bmatrix} -1 \\ -3 \\ 2 \end{bmatrix} \} ?
-\begin{bmatrix} -1 \\ -9 \\ 0 \end{bmatrix}
-span\{ \begin{bmatrix} 1 \\ 0 \\ -3 \end{bmatrix}, \begin{bmatrix} -1 \\ -3 \\ 2 \end{bmatrix} \}
-\mathbb R^p
-x,
-y,
+𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖𝐖-6𝐖\\𝐖1𝐖\end{bmatrix}𝐖
+span\{𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\\𝐖𝐖-3𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖𝐖-3𝐖\\𝐖2𝐖\end{bmatrix}𝐖\}𝐖?
+𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖𝐖-9𝐖\\𝐖0𝐖\end{bmatrix}𝐖
+span\{𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\\𝐖𝐖-3𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖𝐖-3𝐖\\𝐖2𝐖\end{bmatrix}𝐖\}
+\mathbb𝐖R𝐖^p𝐖
+x,𝐖
+y,𝐖
 z
-3 \times 5
-\mathbb R^p
+3𝐖\times𝐖5
+\mathbb𝐖R𝐖^p𝐖
 A
-\mathbf x
+\mathbf𝐖x𝐖
 A
-\mathbf x
+\mathbf𝐖x𝐖
 A
-m \times n
-\mathbf x
+m𝐖\times𝐖n
+\mathbf𝐖x𝐖
 n
-A\mathbf x
+A\mathbf𝐖x𝐖
 m
-A = \begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \ldots & \mathbf v_n \end{bmatrix}, \mathbf x = \begin{bmatrix} c_1 \\ c_2 \\ \vdots \\ c_n \end{bmatrix},
-A\mathbf x =c_1 \mathbf v_1 +c_2 \mathbf v_2 +\ldots c_n \mathbf v_n .
-\begin{bmatrix} 1 & 2 & 0 & -1 \\ 2 & 4 & -3 & -2 \\ -1 & -2 & 6 & 1 \end{bmatrix} \begin{bmatrix} 3 \\ 1 \\ -1 \\ 1 \end{bmatrix} .
+A𝐖=𝐖\begin{bmatrix}𝐖\mathbf𝐖v𝐖_1𝐖𝐖&𝐖\mathbf𝐖v𝐖_2𝐖𝐖&𝐖\ldots𝐖𝐖&𝐖\mathbf𝐖v𝐖_n𝐖𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖x𝐖𝐖=𝐖\begin{bmatrix}𝐖c_1𝐖𝐖\\𝐖c_2𝐖𝐖\\𝐖\vdots𝐖𝐖\\𝐖c_n𝐖𝐖\end{bmatrix}𝐖,𝐖
+A\mathbf𝐖x𝐖𝐖=c_1𝐖\mathbf𝐖v𝐖_1𝐖𝐖+c_2𝐖\mathbf𝐖v𝐖_2𝐖𝐖+\ldots𝐖c_n𝐖\mathbf𝐖v𝐖_n𝐖𝐖.
+𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖&𝐖0𝐖&𝐖𝐖-1𝐖\\𝐖2𝐖&𝐖4𝐖&𝐖𝐖-3𝐖&𝐖𝐖-2𝐖\\𝐖𝐖-1𝐖&𝐖𝐖-2𝐖&𝐖6𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖\begin{bmatrix}𝐖3𝐖\\𝐖1𝐖\\𝐖𝐖-1𝐖\\𝐖1𝐖\end{bmatrix}𝐖𝐖.
 A
-\begin{bmatrix} 3 & -1 & 0 \\ 0 & -2 & 4 \\ 2 & 1 & 5 \\ 1 & 0 & 3 \end{bmatrix} .
-A\mathbf x
-\mathbf x
-A\mathbf x ?
-\mathbf 0 .
+𝐖\begin{bmatrix}𝐖3𝐖&𝐖𝐖-1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖𝐖-2𝐖&𝐖4𝐖\\𝐖2𝐖&𝐖1𝐖&𝐖5𝐖\\𝐖1𝐖&𝐖0𝐖&𝐖3𝐖\end{bmatrix}𝐖𝐖.
+A\mathbf𝐖x𝐖
+\mathbf𝐖x𝐖
+A\mathbf𝐖x𝐖𝐖?
+\mathbf𝐖0𝐖𝐖.
 A
-A\mathbf 0 ?
-I = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}
-\mathbf x = \begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix} .
-I\mathbf x
+A\mathbf𝐖0𝐖𝐖?
+I𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖\end{bmatrix}𝐖
+\mathbf𝐖x𝐖𝐖=𝐖\begin{bmatrix}𝐖x_1𝐖𝐖\\𝐖x_2𝐖𝐖\\𝐖x_3𝐖𝐖\end{bmatrix}𝐖𝐖.
+I\mathbf𝐖x𝐖
 I
 A
-A = \begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \ldots & \mathbf v_n \end{bmatrix} .
-\mathbf e_1 = \begin{bmatrix} 1 \\ 0 \\ \vdots \\ 0 \end{bmatrix},
-A\mathbf e_1 ?
-A = \begin{bmatrix} 1 & 2 \\ -1 & 1 \end{bmatrix}, \mathbf b = \begin{bmatrix} 6 \\ 0 \end{bmatrix} .
-\mathbf x
-A\mathbf x =\mathbf b ?
-A\mathbf x =\mathbf b
-\mathbf x
-2x & \lt mi/> + & y & \lt mi/> - & 3z & \lt mi/> = & 4 \\ -x & \lt mi/> + & 2y & \lt mi/> + & z & \lt mi/> = & 3 \\ 3x & \lt mi/> - & y & \~ & \~ & \lt mi/> = & \lt mi/> -4 .
+A𝐖=𝐖\begin{bmatrix}𝐖\mathbf𝐖v𝐖_1𝐖𝐖&𝐖\mathbf𝐖v𝐖_2𝐖𝐖&𝐖\ldots𝐖𝐖&𝐖\mathbf𝐖v𝐖_n𝐖𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖e𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\\𝐖\vdots𝐖𝐖\\𝐖0𝐖\end{bmatrix}𝐖,𝐖
+A\mathbf𝐖e𝐖_1𝐖𝐖?
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖\\𝐖𝐖-1𝐖&𝐖1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖b𝐖𝐖=𝐖\begin{bmatrix}𝐖6𝐖\\𝐖0𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖x𝐖
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖b𝐖𝐖?
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖b𝐖
+\mathbf𝐖x𝐖
+2x𝐖&𝐖\lt𝐖mi/>𝐖+𝐖&𝐖y𝐖&𝐖\lt𝐖mi/>𝐖-𝐖&𝐖3z𝐖&𝐖\lt𝐖mi/>𝐖=𝐖&𝐖4𝐖\\𝐖𝐖-x𝐖&𝐖\lt𝐖mi/>𝐖+𝐖&𝐖2y𝐖&𝐖\lt𝐖mi/>𝐖+𝐖&𝐖z𝐖&𝐖\lt𝐖mi/>𝐖=𝐖&𝐖3𝐖\\𝐖3x𝐖&𝐖\lt𝐖mi/>𝐖-𝐖&𝐖y𝐖&𝐖\~𝐖&𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=𝐖&𝐖\lt𝐖mi/>𝐖-4𝐖.
 A
-\mathbf b
-A\mathbf x =\mathbf b .
+\mathbf𝐖b𝐖
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖b𝐖𝐖.
 A
-\mathbf b
-A\mathbf x =\mathbf b .
-A = \begin{bmatrix} 3 & -1 & 0 \\ -2 & 0 & 6 \end{bmatrix}, \mathbf b = \begin{bmatrix} -6 \\ 2 \end{bmatrix}
-\begin{bmatrix} 1 & 2 & 0 & -1 \\ 2 & 4 & -3 & -2 \\ -1 & -2 & 6 & 1 \end{bmatrix} \mathbf x = \begin{bmatrix} -1 \\ 1 \\ 5 \end{bmatrix} .
+\mathbf𝐖b𝐖
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖b𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖3𝐖&𝐖𝐖-1𝐖&𝐖0𝐖\\𝐖𝐖-2𝐖&𝐖0𝐖&𝐖6𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖b𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-6𝐖\\𝐖2𝐖\end{bmatrix}𝐖
+𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖&𝐖0𝐖&𝐖𝐖-1𝐖\\𝐖2𝐖&𝐖4𝐖&𝐖𝐖-3𝐖&𝐖𝐖-2𝐖\\𝐖𝐖-1𝐖&𝐖𝐖-2𝐖&𝐖6𝐖&𝐖1𝐖\end{bmatrix}𝐖\mathbf𝐖x𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖1𝐖\\𝐖5𝐖\end{bmatrix}𝐖𝐖.
 A
-m \times n
-A\mathbf x =\mathbf 0 .
-A .
-A\mathbf x =\mathbf 0
-\mathbf x =\mathbf 0 .
-A .
-\mathbf 0,
-A = \begin{bmatrix} 1 & 3 & 2 \\ -3 & 4 & -1 \end{bmatrix}, B = \begin{bmatrix} 3 & 0 \\ 1 & 2 \\ -2 & -1 \end{bmatrix} .
-AB .
-AB .
+m𝐖\times𝐖n
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖0𝐖𝐖.
+A𝐖.
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖0𝐖
+\mathbf𝐖x𝐖𝐖=\mathbf𝐖0𝐖𝐖.
+A𝐖.
+\mathbf𝐖0𝐖,𝐖
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖3𝐖&𝐖2𝐖\\𝐖𝐖-3𝐖&𝐖4𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖B𝐖=𝐖\begin{bmatrix}𝐖3𝐖&𝐖0𝐖\\𝐖1𝐖&𝐖2𝐖\\𝐖𝐖-2𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖.
+AB𝐖.
+AB𝐖.
 A
 B
-AB .
-BA ?
-BA .
-AB =BA ?
-A = \begin{bmatrix} 1 & 2 \\ 3 & -2 \end{bmatrix}, B = \begin{bmatrix} 0 & 4 \\ 2 & -1 \end{bmatrix}, C = \begin{bmatrix} -1 & 3 \\ 4 & 3 \end{bmatrix} .
-A(B +C)
-AB +AC .
+AB𝐖.
+BA𝐖?
+BA𝐖.
+AB𝐖=BA𝐖?
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖\\𝐖3𝐖&𝐖𝐖-2𝐖\end{bmatrix}𝐖,𝐖B𝐖=𝐖\begin{bmatrix}𝐖0𝐖&𝐖4𝐖\\𝐖2𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖C𝐖=𝐖\begin{bmatrix}𝐖𝐖-1𝐖&𝐖3𝐖\\𝐖4𝐖&𝐖3𝐖\end{bmatrix}𝐖𝐖.
+A(B𝐖+C)
+AB𝐖+AC𝐖.
 A(BC)
 (AB)C
-a \not= 0
-ab =ac,
-b =c .
-A = \begin{bmatrix} 1 & 2 \\ -2 & -4 \end{bmatrix}, B = \begin{bmatrix} 3 & 0 \\ 1 & 3 \end{bmatrix}, C = \begin{bmatrix} 1 & 2 \\ 2 & 2 \end{bmatrix} .
+a𝐖\not=𝐖0
+ab𝐖=ac,𝐖
+b𝐖=c𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖\\𝐖𝐖-2𝐖&𝐖𝐖-4𝐖\end{bmatrix}𝐖,𝐖B𝐖=𝐖\begin{bmatrix}𝐖3𝐖&𝐖0𝐖\\𝐖1𝐖&𝐖3𝐖\end{bmatrix}𝐖,𝐖C𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖\\𝐖2𝐖&𝐖2𝐖\end{bmatrix}𝐖𝐖.
 AB
-AC .
-AB =AC,
-B =C ?
-ab =0,
-a =0
-b =0 .
-A = \begin{bmatrix} 1 & 2 \\ -2 & -4 \end{bmatrix}, B = \begin{bmatrix} 2 & -4 \\ -1 & 2 \end{bmatrix} .
-AB .
-AB =0,
-A =0
-B =0 ?
-\mathbb R^p
--x_1 +2x_2 & \lt mi/> =5 \\ 2x_1 -4x_2 & \lt mi/> =6
--x_1 +2x_2 & \lt mi/> = -3 \\ 2x_1 -4x_2 & \lt mi/> =6
-x_2 =a
+AC𝐖.
+AB𝐖=AC,𝐖
+B𝐖=C𝐖?
+ab𝐖=0,𝐖
+a𝐖=0
+b𝐖=0𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖\\𝐖𝐖-2𝐖&𝐖𝐖-4𝐖\end{bmatrix}𝐖,𝐖B𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖𝐖-4𝐖\\𝐖𝐖-1𝐖&𝐖2𝐖\end{bmatrix}𝐖𝐖.
+AB𝐖.
+AB𝐖=0,𝐖
+A𝐖=0
+B𝐖=0𝐖?
+\mathbb𝐖R𝐖^p𝐖
+𝐖-x_1𝐖𝐖+2x_2𝐖𝐖&𝐖\lt𝐖mi/>𝐖=5𝐖\\𝐖2x_1𝐖𝐖-4x_2𝐖𝐖&𝐖\lt𝐖mi/>𝐖=6
+𝐖-x_1𝐖𝐖+2x_2𝐖𝐖&𝐖\lt𝐖mi/>𝐖=𝐖-3𝐖\\𝐖2x_1𝐖𝐖-4x_2𝐖𝐖&𝐖\lt𝐖mi/>𝐖=6
+x_2𝐖𝐖=a
 a
-x_1
-a .
-\{ \begin{bmatrix} ? \\ a \end{bmatrix} |a \in \mathbb R \}
-x_1 & + & 2x_2 & \~ & \~ & - & x_4 & = & 3 \\ \~ & \~ & \~ & \~ & x_3 & + & 4x_4 & = & \lt mi/> -2
-\{ \begin{bmatrix} ? \\ a \\ ? \\ b \end{bmatrix} |a, b \in \mathbb R \}
-x_2 =a
-x_4 =b,
-x_1
-x_3 .
+x_1𝐖
+a𝐖.
+\{𝐖\begin{bmatrix}𝐖?𝐖\\𝐖a𝐖\end{bmatrix}𝐖|a𝐖\in𝐖\mathbb𝐖R𝐖\}
+x_1𝐖𝐖&𝐖+𝐖&𝐖2x_2𝐖𝐖&𝐖\~𝐖&𝐖\~𝐖&𝐖-𝐖&𝐖x_4𝐖𝐖&𝐖=𝐖&𝐖3𝐖\\𝐖\~𝐖&𝐖\~𝐖&𝐖\~𝐖&𝐖\~𝐖&𝐖x_3𝐖𝐖&𝐖+𝐖&𝐖4x_4𝐖𝐖&𝐖=𝐖&𝐖\lt𝐖mi/>𝐖-2
+\{𝐖\begin{bmatrix}𝐖?𝐖\\𝐖a𝐖\\𝐖?𝐖\\𝐖b𝐖\end{bmatrix}𝐖|a,𝐖b𝐖\in𝐖\mathbb𝐖R𝐖\}
+x_2𝐖𝐖=a
+x_4𝐖𝐖=b,𝐖
+x_1𝐖
+x_3𝐖𝐖.
 x
 y
-\begin{bmatrix} 1 & 0 & 3 \\ 0 & 1 & 0 \\ 0 & 0 & 0 \end{bmatrix} .
+𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖3𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖𝐖.
 x
 y
-\begin{bmatrix} 1 & 0 & 3 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix} .
-x & + & 2y & + & z & = & 3 \\ -x & - & y & + & z & = & 1 \\ 2x & + & 5y & + & 3z & = & 7
-2x & + & 5y & + & 3z & = & 7 \\ -x & - & y & + & z & = & 1 \\ x & + & 2y & + & z & = & 3
-x & \~ & \~ & - & z & = & 1 \\ \~ & \~ & y & + & 2z & = & 4 \\ \~ & \~ & y & + & z & = & 1
-x & + & 2y & + & z & = & 3 \\ \~ & \~ & y & + & 2z & = & 4 \\ 2x & + & 5y & + & 3z & = & 7
-x & \~ & \~ & - & z & = & 1 \\ \~ & \~ & y & + & z & = & 1 \\ \~ & \~ & \~ & \~ & z & = & 3
-x & + & 2y & + & z & = & 3 \\ \~ & \~ & y & + & 2z & = & 4 \\ \~ & \~ & y & + & z & = & 1
-\begin{bmatrix} 2 & 5 & 3 & 7 \\ -1 & -1 & 1 & 1 \\ 1 & 2 & 1 & 3 \end{bmatrix} & \lt mi/> \sim & \begin{bmatrix} \boxed{1} & 2 & 1 & 3 \\ -1 & -1 & 1 & 1 \\ 2 & 5 & 3 & 7 \end{bmatrix} & \lt mi/> \sim & \begin{bmatrix} \boxed{1} & 2 & 1 & 3 \\ 0 & 1 & 2 & 4 \\ 2 & 5 & 3 & 7 \end{bmatrix} \sim \\ \begin{bmatrix} \boxed{1} & 2 & 1 & 3 \\ 0 & \boxed{1} & 2 & 4 \\ 0 & 1 & 1 & 1 \end{bmatrix} & \lt mi/> \sim & \begin{bmatrix} \boxed{1} & 0 & -1 & 1 \\ 0 & \boxed{1} & 2 & 4 \\ 0 & 1 & 1 & 1 \end{bmatrix} & \lt mi/> \sim & \begin{bmatrix} \boxed{1} & 0 & -1 & 1 \\ 0 & \boxed{1} & 1 & 1 \\ 0 & 0 & -1 & -3 \end{bmatrix}
-\ast
-\begin{bmatrix} \ast & \ast & \ast & \ast & \ast & \ast \\ \ast & \ast & \ast & \ast & \ast & \ast \\ \ast & \ast & \ast & \ast & \ast & \ast \end{bmatrix} .
-\begin{bmatrix} 1 & 2 & 0 & 0 & 3 & 2 \\ 0 & 0 & 1 & 2 & -1 & -1 \\ 0 & 0 & 0 & 0 & 0 & 0 \end{bmatrix} .
-\begin{bmatrix} 2 & 6 & -1 & 6 \\ 1 & 3 & -1 & 2 \\ -1 & -3 & 2 & 0 \end{bmatrix} .
-R_2 +R_3 \to R_2
-R_3 +R_2 \to R_3
-R_1 \leftrightarrow R_2
-R_1 -2R_2 \to R_1
-\begin{bmatrix} \boxed{1} & 3 & -1 & 2 \\ 2 & 6 & -1 & 6 \\ -1 & -3 & 2 & 0 \end{bmatrix} .
-R_3 +R_1 \to R_3
-R_2 -2R_1 \to R_2
-R_3 +2R_2 \to R_3
-R_2 +2R_3 \to R_2
-\begin{bmatrix} \boxed{1} & 3 & -1 & 2 \\ 0 & 0 & 1 & 2 \\ 0 & 0 & 1 & 2 \end{bmatrix} .
-R_2 +R_1 \to R_2
-R_2 -R_3 \to R_2
-R_3 -R_2 \to R_3
-R_1 +R_2 \to R_1
-x & \lt mi/> + & y & \lt mi/> + & 2z & \lt mi/> = & 1 \\ 2x & \lt mi/> - & y & \lt mi/> - & 2z & \lt mi/> = & 2 \\ -x & \lt mi/> + & y & \lt mi/> + & z & \lt mi/> = & 0
--x & \lt mi/> - & 2y & \lt mi/> + & 2z & \lt mi/> = & \lt mi/> -1 \\ 2x & \lt mi/> + & 4y & \lt mi/> - & z & \lt mi/> = & 5 \\ x & \lt mi/> + & 2y & \~ & \~ & \lt mi/> = & 3
--x & \lt mi/> - & 2y & \lt mi/> + & 2z & \lt mi/> = & \lt mi/> -1 \\ 2x & \lt mi/> + & 4y & \lt mi/> - & z & \lt mi/> = & 5 \\ x & \lt mi/> + & 2y & \~ & \~ & \lt mi/> = & 2
-\begin{bmatrix} 2 & 1 & 0 \\ 1 & 0 & 0 \\ 3 & -1 & 1 \end{bmatrix} .
-A = \begin{bmatrix} 2 & 3 & 2 & 3 \\ -2 & 1 & 6 & 1 \\ -1 & -3 & -4 & 1 \end{bmatrix} .
-RREF(A) .
-A = \begin{bmatrix} 2 & 4 & 2 & -4 \\ -2 & -4 & 1 & 1 \\ 3 & 6 & -1 & -4 \end{bmatrix} .
-RREF(A) .
-\mathbb R^p
-\mathbb R^3 \colon
-\mathbf v_1 = \begin{bmatrix} 0 \\ -1 \\ 2 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 3 \\ 1 \\ -1 \end{bmatrix}, \mathbf v_3 = \begin{bmatrix} 2 \\ 0 \\ 1 \end{bmatrix} .
-Span\{\mathbf v_1, \mathbf v_2, \mathbf v_3 \} .
-\mathbf w_1 = \begin{bmatrix} 0 \\ -1 \\ 2 \end{bmatrix}, \mathbf w_2 = \begin{bmatrix} 3 \\ 1 \\ -1 \end{bmatrix}, \mathbf w_3 = \begin{bmatrix} 3 \\ 0 \\ 1 \end{bmatrix} .
-Span\{\mathbf w_1, \mathbf w_2, \mathbf w_3 \} .
-\mathbf w_3
-\mathbf w_1
-\mathbf w_2
-\mathbf w_3 =a\mathbf w_1 +b\mathbf w_2 .
-\mathbf w_1,
-\mathbf w_2,
-\mathbf w_3,
-c_1 \mathbf w_1 +c_2 \mathbf w_2 +c_3 \mathbf w_3
-\mathbf w_1
-\mathbf w_2 .
-Span\{\mathbf w_1, \mathbf w_2, \mathbf w_3 \} =Span\{\mathbf w_1, \mathbf w_2 \} .
-\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_n
-\{ \begin{bmatrix} -4 \\ 2 \\ 3 \\ 0 \\ -1 \end{bmatrix}, \begin{bmatrix} 1 \\ 2 \\ 0 \\ 0 \\ 3 \end{bmatrix}, \begin{bmatrix} 1 \\ 10 \\ 10 \\ 2 \\ 6 \end{bmatrix}, \begin{bmatrix} 3 \\ 4 \\ 7 \\ 2 \\ 1 \end{bmatrix} \}
-\mathbb R^4
-\begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \mathbf v_3 & \mathbf v_4 & \mathbf v_5 \end{bmatrix} \sim \begin{bmatrix} 1 & 0 & -1 & 0 & 2 \\ 0 & 1 & 2 & 0 & 3 \\ 0 & 0 & 0 & 1 & -1 \\ 0 & 0 & 0 & 0 & 0 \end{bmatrix} .
-\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_5
-\mathbb R^4
-\begin{bmatrix} \mathbf w_1 & \mathbf w_2 & \mathbf w_3 \end{bmatrix} \sim \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \\ 0 & 0 & 0 \end{bmatrix} .
-\mathbf w_1,
-\mathbf w_2,
-\mathbf w_3
-\mathbf 0,
-\mathbb R^{10}
-\mathbf v_1, \mathbf v_2, \mathbf v_3
-\mathbb R^n .
-3\mathbf v_1 -5\mathbf v_2 =\mathbf v_3,
-\{\mathbf v_1, \mathbf v_2, \mathbf v_3 \}
-x_1 \mathbf v_1 +x_2 \mathbf v_2 +x_3 \mathbf v_3 =\mathbf 0 ?
-A\mathbf x =\mathbf 0
-A .
-A = \begin{bmatrix} 3 & 2 & 0 \\ -1 & 0 & -2 \\ 2 & 1 & 1 \end{bmatrix}
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3 .
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3
-A\mathbf x =\mathbf 0 .
-\mathbf 0
-\mathbf 0 .
-c_1,
-c_2,
-c_3
-c_1 \mathbf v_1 +c_2 \mathbf v_2 +c_3 \mathbf v_3 =\mathbf 0 .
-\mathbb R^4
+𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖3𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖.
+x𝐖&𝐖+𝐖&𝐖2y𝐖&𝐖+𝐖&𝐖z𝐖&𝐖=𝐖&𝐖3𝐖\\𝐖𝐖-x𝐖&𝐖-𝐖&𝐖y𝐖&𝐖+𝐖&𝐖z𝐖&𝐖=𝐖&𝐖1𝐖\\𝐖2x𝐖&𝐖+𝐖&𝐖5y𝐖&𝐖+𝐖&𝐖3z𝐖&𝐖=𝐖&𝐖7
+2x𝐖&𝐖+𝐖&𝐖5y𝐖&𝐖+𝐖&𝐖3z𝐖&𝐖=𝐖&𝐖7𝐖\\𝐖𝐖-x𝐖&𝐖-𝐖&𝐖y𝐖&𝐖+𝐖&𝐖z𝐖&𝐖=𝐖&𝐖1𝐖\\𝐖x𝐖&𝐖+𝐖&𝐖2y𝐖&𝐖+𝐖&𝐖z𝐖&𝐖=𝐖&𝐖3
+x𝐖&𝐖\~𝐖&𝐖\~𝐖&𝐖-𝐖&𝐖z𝐖&𝐖=𝐖&𝐖1𝐖\\𝐖\~𝐖&𝐖\~𝐖&𝐖y𝐖&𝐖+𝐖&𝐖2z𝐖&𝐖=𝐖&𝐖4𝐖\\𝐖\~𝐖&𝐖\~𝐖&𝐖y𝐖&𝐖+𝐖&𝐖z𝐖&𝐖=𝐖&𝐖1
+x𝐖&𝐖+𝐖&𝐖2y𝐖&𝐖+𝐖&𝐖z𝐖&𝐖=𝐖&𝐖3𝐖\\𝐖\~𝐖&𝐖\~𝐖&𝐖y𝐖&𝐖+𝐖&𝐖2z𝐖&𝐖=𝐖&𝐖4𝐖\\𝐖2x𝐖&𝐖+𝐖&𝐖5y𝐖&𝐖+𝐖&𝐖3z𝐖&𝐖=𝐖&𝐖7
+x𝐖&𝐖\~𝐖&𝐖\~𝐖&𝐖-𝐖&𝐖z𝐖&𝐖=𝐖&𝐖1𝐖\\𝐖\~𝐖&𝐖\~𝐖&𝐖y𝐖&𝐖+𝐖&𝐖z𝐖&𝐖=𝐖&𝐖1𝐖\\𝐖\~𝐖&𝐖\~𝐖&𝐖\~𝐖&𝐖\~𝐖&𝐖z𝐖&𝐖=𝐖&𝐖3
+x𝐖&𝐖+𝐖&𝐖2y𝐖&𝐖+𝐖&𝐖z𝐖&𝐖=𝐖&𝐖3𝐖\\𝐖\~𝐖&𝐖\~𝐖&𝐖y𝐖&𝐖+𝐖&𝐖2z𝐖&𝐖=𝐖&𝐖4𝐖\\𝐖\~𝐖&𝐖\~𝐖&𝐖y𝐖&𝐖+𝐖&𝐖z𝐖&𝐖=𝐖&𝐖1
+𝐖\begin{bmatrix}𝐖2𝐖&𝐖5𝐖&𝐖3𝐖&𝐖7𝐖\\𝐖𝐖-1𝐖&𝐖𝐖-1𝐖&𝐖1𝐖&𝐖1𝐖\\𝐖1𝐖&𝐖2𝐖&𝐖1𝐖&𝐖3𝐖\end{bmatrix}𝐖𝐖&𝐖\lt𝐖mi/>𝐖\sim𝐖𝐖&𝐖𝐖\begin{bmatrix}𝐖\boxed{1}𝐖&𝐖2𝐖&𝐖1𝐖&𝐖3𝐖\\𝐖𝐖-1𝐖&𝐖𝐖-1𝐖&𝐖1𝐖&𝐖1𝐖\\𝐖2𝐖&𝐖5𝐖&𝐖3𝐖&𝐖7𝐖\end{bmatrix}𝐖𝐖&𝐖\lt𝐖mi/>𝐖\sim𝐖𝐖&𝐖𝐖\begin{bmatrix}𝐖\boxed{1}𝐖&𝐖2𝐖&𝐖1𝐖&𝐖3𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖2𝐖&𝐖4𝐖\\𝐖2𝐖&𝐖5𝐖&𝐖3𝐖&𝐖7𝐖\end{bmatrix}𝐖𝐖\sim𝐖𝐖\\𝐖𝐖\begin{bmatrix}𝐖\boxed{1}𝐖&𝐖2𝐖&𝐖1𝐖&𝐖3𝐖\\𝐖0𝐖&𝐖\boxed{1}𝐖&𝐖2𝐖&𝐖4𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖1𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖&𝐖\lt𝐖mi/>𝐖\sim𝐖𝐖&𝐖𝐖\begin{bmatrix}𝐖\boxed{1}𝐖&𝐖0𝐖&𝐖𝐖-1𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖\boxed{1}𝐖&𝐖2𝐖&𝐖4𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖1𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖&𝐖\lt𝐖mi/>𝐖\sim𝐖𝐖&𝐖𝐖\begin{bmatrix}𝐖\boxed{1}𝐖&𝐖0𝐖&𝐖𝐖-1𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖\boxed{1}𝐖&𝐖1𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖𝐖-1𝐖&𝐖𝐖-3𝐖\end{bmatrix}𝐖
+\ast𝐖
+𝐖\begin{bmatrix}𝐖\ast𝐖𝐖&𝐖\ast𝐖𝐖&𝐖\ast𝐖𝐖&𝐖\ast𝐖𝐖&𝐖\ast𝐖𝐖&𝐖\ast𝐖𝐖\\𝐖\ast𝐖𝐖&𝐖\ast𝐖𝐖&𝐖\ast𝐖𝐖&𝐖\ast𝐖𝐖&𝐖\ast𝐖𝐖&𝐖\ast𝐖𝐖\\𝐖\ast𝐖𝐖&𝐖\ast𝐖𝐖&𝐖\ast𝐖𝐖&𝐖\ast𝐖𝐖&𝐖\ast𝐖𝐖&𝐖\ast𝐖𝐖\end{bmatrix}𝐖𝐖.
+𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖&𝐖0𝐖&𝐖0𝐖&𝐖3𝐖&𝐖2𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖&𝐖2𝐖&𝐖𝐖-1𝐖&𝐖𝐖-1𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖𝐖.
+𝐖\begin{bmatrix}𝐖2𝐖&𝐖6𝐖&𝐖𝐖-1𝐖&𝐖6𝐖\\𝐖1𝐖&𝐖3𝐖&𝐖𝐖-1𝐖&𝐖2𝐖\\𝐖𝐖-1𝐖&𝐖𝐖-3𝐖&𝐖2𝐖&𝐖0𝐖\end{bmatrix}𝐖𝐖.
+R_2𝐖𝐖+R_3𝐖𝐖\to𝐖R_2𝐖
+R_3𝐖𝐖+R_2𝐖𝐖\to𝐖R_3𝐖
+R_1𝐖𝐖\leftrightarrow𝐖R_2𝐖
+R_1𝐖𝐖-2R_2𝐖𝐖\to𝐖R_1𝐖
+𝐖\begin{bmatrix}𝐖\boxed{1}𝐖&𝐖3𝐖&𝐖𝐖-1𝐖&𝐖2𝐖\\𝐖2𝐖&𝐖6𝐖&𝐖𝐖-1𝐖&𝐖6𝐖\\𝐖𝐖-1𝐖&𝐖𝐖-3𝐖&𝐖2𝐖&𝐖0𝐖\end{bmatrix}𝐖𝐖.
+R_3𝐖𝐖+R_1𝐖𝐖\to𝐖R_3𝐖
+R_2𝐖𝐖-2R_1𝐖𝐖\to𝐖R_2𝐖
+R_3𝐖𝐖+2R_2𝐖𝐖\to𝐖R_3𝐖
+R_2𝐖𝐖+2R_3𝐖𝐖\to𝐖R_2𝐖
+𝐖\begin{bmatrix}𝐖\boxed{1}𝐖&𝐖3𝐖&𝐖𝐖-1𝐖&𝐖2𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖&𝐖2𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖&𝐖2𝐖\end{bmatrix}𝐖𝐖.
+R_2𝐖𝐖+R_1𝐖𝐖\to𝐖R_2𝐖
+R_2𝐖𝐖-R_3𝐖𝐖\to𝐖R_2𝐖
+R_3𝐖𝐖-R_2𝐖𝐖\to𝐖R_3𝐖
+R_1𝐖𝐖+R_2𝐖𝐖\to𝐖R_1𝐖
+x𝐖&𝐖\lt𝐖mi/>𝐖+𝐖&𝐖y𝐖&𝐖\lt𝐖mi/>𝐖+𝐖&𝐖2z𝐖&𝐖\lt𝐖mi/>𝐖=𝐖&𝐖1𝐖\\𝐖2x𝐖&𝐖\lt𝐖mi/>𝐖-𝐖&𝐖y𝐖&𝐖\lt𝐖mi/>𝐖-𝐖&𝐖2z𝐖&𝐖\lt𝐖mi/>𝐖=𝐖&𝐖2𝐖\\𝐖𝐖-x𝐖&𝐖\lt𝐖mi/>𝐖+𝐖&𝐖y𝐖&𝐖\lt𝐖mi/>𝐖+𝐖&𝐖z𝐖&𝐖\lt𝐖mi/>𝐖=𝐖&𝐖0
+𝐖-x𝐖&𝐖\lt𝐖mi/>𝐖-𝐖&𝐖2y𝐖&𝐖\lt𝐖mi/>𝐖+𝐖&𝐖2z𝐖&𝐖\lt𝐖mi/>𝐖=𝐖&𝐖\lt𝐖mi/>𝐖-1𝐖\\𝐖2x𝐖&𝐖\lt𝐖mi/>𝐖+𝐖&𝐖4y𝐖&𝐖\lt𝐖mi/>𝐖-𝐖&𝐖z𝐖&𝐖\lt𝐖mi/>𝐖=𝐖&𝐖5𝐖\\𝐖x𝐖&𝐖\lt𝐖mi/>𝐖+𝐖&𝐖2y𝐖&𝐖\~𝐖&𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=𝐖&𝐖3
+𝐖-x𝐖&𝐖\lt𝐖mi/>𝐖-𝐖&𝐖2y𝐖&𝐖\lt𝐖mi/>𝐖+𝐖&𝐖2z𝐖&𝐖\lt𝐖mi/>𝐖=𝐖&𝐖\lt𝐖mi/>𝐖-1𝐖\\𝐖2x𝐖&𝐖\lt𝐖mi/>𝐖+𝐖&𝐖4y𝐖&𝐖\lt𝐖mi/>𝐖-𝐖&𝐖z𝐖&𝐖\lt𝐖mi/>𝐖=𝐖&𝐖5𝐖\\𝐖x𝐖&𝐖\lt𝐖mi/>𝐖+𝐖&𝐖2y𝐖&𝐖\~𝐖&𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=𝐖&𝐖2
+𝐖\begin{bmatrix}𝐖2𝐖&𝐖1𝐖&𝐖0𝐖\\𝐖1𝐖&𝐖0𝐖&𝐖0𝐖\\𝐖3𝐖&𝐖𝐖-1𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖3𝐖&𝐖2𝐖&𝐖3𝐖\\𝐖𝐖-2𝐖&𝐖1𝐖&𝐖6𝐖&𝐖1𝐖\\𝐖𝐖-1𝐖&𝐖𝐖-3𝐖&𝐖𝐖-4𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖.
+RREF(A)𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖4𝐖&𝐖2𝐖&𝐖𝐖-4𝐖\\𝐖𝐖-2𝐖&𝐖𝐖-4𝐖&𝐖1𝐖&𝐖1𝐖\\𝐖3𝐖&𝐖6𝐖&𝐖𝐖-1𝐖&𝐖𝐖-4𝐖\end{bmatrix}𝐖𝐖.
+RREF(A)𝐖.
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^3𝐖𝐖\colon𝐖
+\mathbf𝐖v𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖0𝐖\\𝐖𝐖-1𝐖\\𝐖2𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖3𝐖\\𝐖1𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_3𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖0𝐖\\𝐖1𝐖\end{bmatrix}𝐖𝐖.
+Span\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\mathbf𝐖v𝐖_3𝐖\}𝐖.
+\mathbf𝐖w𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖0𝐖\\𝐖𝐖-1𝐖\\𝐖2𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖w𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖3𝐖\\𝐖1𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖w𝐖_3𝐖𝐖=𝐖\begin{bmatrix}𝐖3𝐖\\𝐖0𝐖\\𝐖1𝐖\end{bmatrix}𝐖𝐖.
+Span\{\mathbf𝐖w𝐖_1𝐖,𝐖\mathbf𝐖w𝐖_2𝐖,𝐖\mathbf𝐖w𝐖_3𝐖\}𝐖.
+\mathbf𝐖w𝐖_3𝐖
+\mathbf𝐖w𝐖_1𝐖
+\mathbf𝐖w𝐖_2𝐖
+\mathbf𝐖w𝐖_3𝐖𝐖=a\mathbf𝐖w𝐖_1𝐖𝐖+b\mathbf𝐖w𝐖_2𝐖𝐖.
+\mathbf𝐖w𝐖_1𝐖,𝐖
+\mathbf𝐖w𝐖_2𝐖,𝐖
+\mathbf𝐖w𝐖_3𝐖,𝐖
+c_1𝐖\mathbf𝐖w𝐖_1𝐖𝐖+c_2𝐖\mathbf𝐖w𝐖_2𝐖𝐖+c_3𝐖\mathbf𝐖w𝐖_3𝐖
+\mathbf𝐖w𝐖_1𝐖
+\mathbf𝐖w𝐖_2𝐖𝐖.
+Span\{\mathbf𝐖w𝐖_1𝐖,𝐖\mathbf𝐖w𝐖_2𝐖,𝐖\mathbf𝐖w𝐖_3𝐖\}𝐖=Span\{\mathbf𝐖w𝐖_1𝐖,𝐖\mathbf𝐖w𝐖_2𝐖\}𝐖.
+\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\ldots𝐖,𝐖\mathbf𝐖v𝐖_n𝐖
+\{𝐖\begin{bmatrix}𝐖𝐖-4𝐖\\𝐖2𝐖\\𝐖3𝐖\\𝐖0𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖1𝐖\\𝐖2𝐖\\𝐖0𝐖\\𝐖0𝐖\\𝐖3𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖1𝐖\\𝐖10𝐖\\𝐖10𝐖\\𝐖2𝐖\\𝐖6𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖3𝐖\\𝐖4𝐖\\𝐖7𝐖\\𝐖2𝐖\\𝐖1𝐖\end{bmatrix}𝐖\}
+\mathbb𝐖R𝐖^4𝐖
+𝐖\begin{bmatrix}𝐖\mathbf𝐖v𝐖_1𝐖𝐖&𝐖\mathbf𝐖v𝐖_2𝐖𝐖&𝐖\mathbf𝐖v𝐖_3𝐖𝐖&𝐖\mathbf𝐖v𝐖_4𝐖𝐖&𝐖\mathbf𝐖v𝐖_5𝐖𝐖\end{bmatrix}𝐖𝐖\sim𝐖𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖𝐖-1𝐖&𝐖0𝐖&𝐖2𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖2𝐖&𝐖0𝐖&𝐖3𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖1𝐖&𝐖𝐖-1𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\ldots𝐖,𝐖\mathbf𝐖v𝐖_5𝐖
+\mathbb𝐖R𝐖^4𝐖
+𝐖\begin{bmatrix}𝐖\mathbf𝐖w𝐖_1𝐖𝐖&𝐖\mathbf𝐖w𝐖_2𝐖𝐖&𝐖\mathbf𝐖w𝐖_3𝐖𝐖\end{bmatrix}𝐖𝐖\sim𝐖𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖w𝐖_1𝐖,𝐖
+\mathbf𝐖w𝐖_2𝐖,𝐖
+\mathbf𝐖w𝐖_3𝐖
+\mathbf𝐖0𝐖,𝐖
+\mathbb𝐖R𝐖^{10}𝐖
+\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\mathbf𝐖v𝐖_3𝐖
+\mathbb𝐖R𝐖^n𝐖𝐖.
+3\mathbf𝐖v𝐖_1𝐖𝐖-5\mathbf𝐖v𝐖_2𝐖𝐖=\mathbf𝐖v𝐖_3𝐖,𝐖
+\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\mathbf𝐖v𝐖_3𝐖\}
+x_1𝐖\mathbf𝐖v𝐖_1𝐖𝐖+x_2𝐖\mathbf𝐖v𝐖_2𝐖𝐖+x_3𝐖\mathbf𝐖v𝐖_3𝐖𝐖=\mathbf𝐖0𝐖𝐖?
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖0𝐖
+A𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖3𝐖&𝐖2𝐖&𝐖0𝐖\\𝐖𝐖-1𝐖&𝐖0𝐖&𝐖𝐖-2𝐖\\𝐖2𝐖&𝐖1𝐖&𝐖1𝐖\end{bmatrix}𝐖
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖𝐖.
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖0𝐖𝐖.
+\mathbf𝐖0𝐖
+\mathbf𝐖0𝐖𝐖.
+c_1𝐖,𝐖
+c_2𝐖,𝐖
+c_3𝐖
+c_1𝐖\mathbf𝐖v𝐖_1𝐖𝐖+c_2𝐖\mathbf𝐖v𝐖_2𝐖𝐖+c_3𝐖\mathbf𝐖v𝐖_3𝐖𝐖=\mathbf𝐖0𝐖𝐖.
+\mathbb𝐖R𝐖^4𝐖
 3
 4
 5
-\mathbb R^p
-\mathbb R^n .
-4 \times 4
-\mathbb R^n
-\mathbb R^p
-\mathbb R^p
-\mathbb R^p
-\mathbb R^p
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^n𝐖𝐖.
+4𝐖\times𝐖4
+\mathbb𝐖R𝐖^n𝐖
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^p𝐖
 A
-A = \begin{bmatrix} 2 & 1 \\ 1 & 2 \end{bmatrix} .
-T(\mathbf x) =A\mathbf x
-T( \begin{bmatrix} -2 \\ 3 \end{bmatrix}) =A \begin{bmatrix} -2 \\ 3 \end{bmatrix} = \begin{bmatrix} 2 & 1 \\ 1 & 2 \end{bmatrix} \begin{bmatrix} -2 \\ 3 \end{bmatrix} = \begin{bmatrix} -1 \\ 4 \end{bmatrix} .
+A𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖1𝐖\\𝐖1𝐖&𝐖2𝐖\end{bmatrix}𝐖𝐖.
+T(\mathbf𝐖x𝐖)𝐖=A\mathbf𝐖x𝐖
+T(𝐖\begin{bmatrix}𝐖𝐖-2𝐖\\𝐖3𝐖\end{bmatrix}𝐖)𝐖=A𝐖\begin{bmatrix}𝐖𝐖-2𝐖\\𝐖3𝐖\end{bmatrix}𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖1𝐖\\𝐖1𝐖&𝐖2𝐖\end{bmatrix}𝐖𝐖\begin{bmatrix}𝐖𝐖-2𝐖\\𝐖3𝐖\end{bmatrix}𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖4𝐖\end{bmatrix}𝐖𝐖.
 T
-\begin{bmatrix} -2 \\ 3 \end{bmatrix}
-\begin{bmatrix} -1 \\ 4 \end{bmatrix}
-T( \begin{bmatrix} 1 \\ -2 \end{bmatrix}) ?
-T( \begin{bmatrix} 1 \\ 0 \end{bmatrix}) ?
-T( \begin{bmatrix} 0 \\ 1 \end{bmatrix}) ?
-\mathbf x
-T(\mathbf x) = \begin{bmatrix} 3 \\ 0 \end{bmatrix} ?
-T(\mathbf x) =A\mathbf x
-A = \begin{bmatrix} 3 & 3 & -2 & 1 \\ 0 & 2 & 1 & -3 \\ -2 & 1 & 4 & -4 \end{bmatrix} .
-\mathbf x
-T ?
-T(\mathbf x) =A\mathbf x
-\mathbf x
-T(\mathbf x) =\mathbf 0 .
+𝐖\begin{bmatrix}𝐖𝐖-2𝐖\\𝐖3𝐖\end{bmatrix}𝐖
+𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖4𝐖\end{bmatrix}𝐖
+T(𝐖\begin{bmatrix}𝐖1𝐖\\𝐖𝐖-2𝐖\end{bmatrix}𝐖)𝐖?
+T(𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\end{bmatrix}𝐖)𝐖?
+T(𝐖\begin{bmatrix}𝐖0𝐖\\𝐖1𝐖\end{bmatrix}𝐖)𝐖?
+\mathbf𝐖x𝐖
+T(\mathbf𝐖x𝐖)𝐖=𝐖\begin{bmatrix}𝐖3𝐖\\𝐖0𝐖\end{bmatrix}𝐖𝐖?
+T(\mathbf𝐖x𝐖)𝐖=A\mathbf𝐖x𝐖
+A𝐖=𝐖\begin{bmatrix}𝐖3𝐖&𝐖3𝐖&𝐖𝐖-2𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖2𝐖&𝐖1𝐖&𝐖𝐖-3𝐖\\𝐖𝐖-2𝐖&𝐖1𝐖&𝐖4𝐖&𝐖𝐖-4𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖x𝐖
+T𝐖?
+T(\mathbf𝐖x𝐖)𝐖=A\mathbf𝐖x𝐖
+\mathbf𝐖x𝐖
+T(\mathbf𝐖x𝐖)𝐖=\mathbf𝐖0𝐖𝐖.
 A
-A = \begin{bmatrix} \mathbf v_1 & \mathbf v_2 \end{bmatrix},
-T( \begin{bmatrix} 0 \\ 1 \end{bmatrix})
-\mathbf v_1
-\mathbf v_2 ?
+A𝐖=𝐖\begin{bmatrix}𝐖\mathbf𝐖v𝐖_1𝐖𝐖&𝐖\mathbf𝐖v𝐖_2𝐖𝐖\end{bmatrix}𝐖,𝐖
+T(𝐖\begin{bmatrix}𝐖0𝐖\\𝐖1𝐖\end{bmatrix}𝐖)
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖?
 A
-3 \times 2
-T(\mathbf x) =A\mathbf x .
-T( \begin{bmatrix} 1 \\ 0 \end{bmatrix}) = \begin{bmatrix} 3 \\ -1 \\ 1 \end{bmatrix}, T( \begin{bmatrix} 0 \\ 1 \end{bmatrix}) = \begin{bmatrix} 2 \\ 2 \\ -1 \end{bmatrix},
-A ?
-T \colon \mathbb R^3 \to \mathbb R^2
-T( \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}) = \begin{bmatrix} 2 \\ 1 \end{bmatrix}
-T( \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix}) = \begin{bmatrix} -3 \\ 2 \end{bmatrix} .
-T( \begin{bmatrix} 1 \\ 0 \\ 1 \end{bmatrix}) ?
-\begin{bmatrix} 2 \\ 1 \end{bmatrix}
-\begin{bmatrix} 3 \\ -1 \end{bmatrix}
-\begin{bmatrix} -1 \\ 3 \end{bmatrix}
-\begin{bmatrix} 5 \\ -8 \end{bmatrix}
-T \colon \mathbb R^3 \to \mathbb R^2
-T( \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}) = \begin{bmatrix} 2 \\ 1 \end{bmatrix}
-T( \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix}) = \begin{bmatrix} -3 \\ 2 \end{bmatrix} .
-T( \begin{bmatrix} 0 \\ 4 \\ -1 \end{bmatrix}) ?
-T( \begin{bmatrix} 0 \\ -4 \\ 0 \end{bmatrix}) .
-T( \begin{bmatrix} 0 \\ 1 \\ 0 \end{bmatrix}) .
-T( \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix}) .
-T \colon \mathbb R^4 \to \mathbb R^3
-T(\mathbf e_1) = \begin{bmatrix} 0 \\ 3 \\ -2 \end{bmatrix} T(\mathbf e_2) = \begin{bmatrix} -3 \\ 0 \\ 1 \end{bmatrix} T(\mathbf e_3) = \begin{bmatrix} 4 \\ -2 \\ 1 \end{bmatrix} T(\mathbf e_4) = \begin{bmatrix} 2 \\ 0 \\ 0 \end{bmatrix}
-[T(\mathbf e_1)\cdots T(\mathbf e_n)]
-T .
+3𝐖\times𝐖2
+T(\mathbf𝐖x𝐖)𝐖=A\mathbf𝐖x𝐖𝐖.
+T(𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\end{bmatrix}𝐖)𝐖=𝐖\begin{bmatrix}𝐖3𝐖\\𝐖𝐖-1𝐖\\𝐖1𝐖\end{bmatrix}𝐖,𝐖T(𝐖\begin{bmatrix}𝐖0𝐖\\𝐖1𝐖\end{bmatrix}𝐖)𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖2𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖
+A𝐖?
+T𝐖\colon𝐖\mathbb𝐖R𝐖^3𝐖𝐖\to𝐖\mathbb𝐖R𝐖^2𝐖
+T(𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\\𝐖0𝐖\end{bmatrix}𝐖)𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖1𝐖\end{bmatrix}𝐖
+T(𝐖\begin{bmatrix}𝐖0𝐖\\𝐖0𝐖\\𝐖1𝐖\end{bmatrix}𝐖)𝐖=𝐖\begin{bmatrix}𝐖𝐖-3𝐖\\𝐖2𝐖\end{bmatrix}𝐖𝐖.
+T(𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\\𝐖1𝐖\end{bmatrix}𝐖)𝐖?
+𝐖\begin{bmatrix}𝐖2𝐖\\𝐖1𝐖\end{bmatrix}𝐖
+𝐖\begin{bmatrix}𝐖3𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖
+𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖3𝐖\end{bmatrix}𝐖
+𝐖\begin{bmatrix}𝐖5𝐖\\𝐖𝐖-8𝐖\end{bmatrix}𝐖
+T𝐖\colon𝐖\mathbb𝐖R𝐖^3𝐖𝐖\to𝐖\mathbb𝐖R𝐖^2𝐖
+T(𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\\𝐖0𝐖\end{bmatrix}𝐖)𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖1𝐖\end{bmatrix}𝐖
+T(𝐖\begin{bmatrix}𝐖0𝐖\\𝐖0𝐖\\𝐖1𝐖\end{bmatrix}𝐖)𝐖=𝐖\begin{bmatrix}𝐖𝐖-3𝐖\\𝐖2𝐖\end{bmatrix}𝐖𝐖.
+T(𝐖\begin{bmatrix}𝐖0𝐖\\𝐖4𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖)𝐖?
+T(𝐖\begin{bmatrix}𝐖0𝐖\\𝐖𝐖-4𝐖\\𝐖0𝐖\end{bmatrix}𝐖)𝐖.
+T(𝐖\begin{bmatrix}𝐖0𝐖\\𝐖1𝐖\\𝐖0𝐖\end{bmatrix}𝐖)𝐖.
+T(𝐖\begin{bmatrix}𝐖1𝐖\\𝐖1𝐖\\𝐖1𝐖\end{bmatrix}𝐖)𝐖.
+T𝐖\colon𝐖\mathbb𝐖R𝐖^4𝐖𝐖\to𝐖\mathbb𝐖R𝐖^3𝐖
+T(\mathbf𝐖e𝐖_1𝐖)𝐖=𝐖\begin{bmatrix}𝐖0𝐖\\𝐖3𝐖\\𝐖𝐖-2𝐖\end{bmatrix}𝐖T(\mathbf𝐖e𝐖_2𝐖)𝐖=𝐖\begin{bmatrix}𝐖𝐖-3𝐖\\𝐖0𝐖\\𝐖1𝐖\end{bmatrix}𝐖T(\mathbf𝐖e𝐖_3𝐖)𝐖=𝐖\begin{bmatrix}𝐖4𝐖\\𝐖𝐖-2𝐖\\𝐖1𝐖\end{bmatrix}𝐖T(\mathbf𝐖e𝐖_4𝐖)𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖0𝐖\\𝐖0𝐖\end{bmatrix}𝐖
+[T(\mathbf𝐖e𝐖_1𝐖)\cdots𝐖T(\mathbf𝐖e𝐖_n𝐖)]
+T𝐖.
 A
-T .
-T \colon \mathbb R^3 \to \mathbb R^2
-T( \begin{bmatrix} x \\ y \\ z \end{bmatrix}) = \begin{bmatrix} x +3z \\ 2x -y -4z \end{bmatrix}
-T(\mathbf e_1),
-T(\mathbf e_2),
-T(\mathbf e_3) .
-T,
-T(\mathbf x) =A\mathbf x .
-x_1
-x_2
+T𝐖.
+T𝐖\colon𝐖\mathbb𝐖R𝐖^3𝐖𝐖\to𝐖\mathbb𝐖R𝐖^2𝐖
+T(𝐖\begin{bmatrix}𝐖x𝐖\\𝐖y𝐖\\𝐖z𝐖\end{bmatrix}𝐖)𝐖=𝐖\begin{bmatrix}𝐖x𝐖+3z𝐖\\𝐖2x𝐖-y𝐖-4z𝐖\end{bmatrix}𝐖
+T(\mathbf𝐖e𝐖_1𝐖),𝐖
+T(\mathbf𝐖e𝐖_2𝐖),𝐖
+T(\mathbf𝐖e𝐖_3𝐖)𝐖.
+T,𝐖
+T(\mathbf𝐖x𝐖)𝐖=A\mathbf𝐖x𝐖𝐖.
+x_1𝐖
+x_2𝐖
 C
-D ?
-E ?
-\mathbf x = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix} .
-\begin{bmatrix} C \\ D \\ E \end{bmatrix}
-C,
-D,
+D𝐖?
+E𝐖?
+\mathbf𝐖x𝐖𝐖=𝐖\begin{bmatrix}𝐖x_1𝐖𝐖\\𝐖x_2𝐖𝐖\end{bmatrix}𝐖𝐖.
+𝐖\begin{bmatrix}𝐖C𝐖\\𝐖D𝐖\\𝐖E𝐖\end{bmatrix}𝐖
+C,𝐖
+D,𝐖
 E
-T(\mathbf x) = \begin{bmatrix} C \\ D \\ E \end{bmatrix}
-\begin{bmatrix} C \\ D \\ E \end{bmatrix}
-\mathbf x = \begin{bmatrix} x_1 \\ x_2 \end{bmatrix} .
-T(\mathbf x) =A\mathbf x,
-A ?
-T( \begin{bmatrix} 1 \\ 0 \end{bmatrix})
-T( \begin{bmatrix} 0 \\ 1 \end{bmatrix})
-A .
+T(\mathbf𝐖x𝐖)𝐖=𝐖\begin{bmatrix}𝐖C𝐖\\𝐖D𝐖\\𝐖E𝐖\end{bmatrix}𝐖
+𝐖\begin{bmatrix}𝐖C𝐖\\𝐖D𝐖\\𝐖E𝐖\end{bmatrix}𝐖
+\mathbf𝐖x𝐖𝐖=𝐖\begin{bmatrix}𝐖x_1𝐖𝐖\\𝐖x_2𝐖𝐖\end{bmatrix}𝐖𝐖.
+T(\mathbf𝐖x𝐖)𝐖=A\mathbf𝐖x𝐖,𝐖
+A𝐖?
+T(𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\end{bmatrix}𝐖)
+T(𝐖\begin{bmatrix}𝐖0𝐖\\𝐖1𝐖\end{bmatrix}𝐖)
+A𝐖.
 C
 D
 E
 F
-S ?
+S𝐖?
 B
-R( \begin{bmatrix} C \\ D \\ E \end{bmatrix}) = \begin{bmatrix} F \\ S \end{bmatrix} .
-P(\mathbf x) = \begin{bmatrix} F \\ S \end{bmatrix}
-x_1
-x_2
-P .
+R(𝐖\begin{bmatrix}𝐖C𝐖\\𝐖D𝐖\\𝐖E𝐖\end{bmatrix}𝐖)𝐖=𝐖\begin{bmatrix}𝐖F𝐖\\𝐖S𝐖\end{bmatrix}𝐖𝐖.
+P(\mathbf𝐖x𝐖)𝐖=𝐖\begin{bmatrix}𝐖F𝐖\\𝐖S𝐖\end{bmatrix}𝐖
+x_1𝐖
+x_2𝐖
+P𝐖.
 P
-Q,
+Q,𝐖
 P
-P .
-Q .
+P𝐖.
+Q𝐖.
 Q
 Q
-P .
-\mathbf x = \begin{bmatrix} P \\ Q \end{bmatrix}
+P𝐖.
+\mathbf𝐖x𝐖𝐖=𝐖\begin{bmatrix}𝐖P𝐖\\𝐖Q𝐖\end{bmatrix}𝐖
 P
 Q
-T(\mathbf x) = \begin{bmatrix} P' \\ Q' \end{bmatrix}
+T(\mathbf𝐖x𝐖)𝐖=𝐖\begin{bmatrix}𝐖P'𝐖\\𝐖Q'𝐖\end{bmatrix}𝐖
 P
 Q
 P
-Q .
-T( \begin{bmatrix} 1000 \\ 0 \end{bmatrix}) ?
-T( \begin{bmatrix} 1 \\ 0 \end{bmatrix}) ?
+Q𝐖.
+T(𝐖\begin{bmatrix}𝐖1000𝐖\\𝐖0𝐖\end{bmatrix}𝐖)𝐖?
+T(𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\end{bmatrix}𝐖)𝐖?
 Q
-P .
-T( \begin{bmatrix} 0 \\ 1000 \end{bmatrix}) ?
+P𝐖.
+T(𝐖\begin{bmatrix}𝐖0𝐖\\𝐖1000𝐖\end{bmatrix}𝐖)𝐖?
 A
-T(\mathbf x) =A\mathbf x .
+T(\mathbf𝐖x𝐖)𝐖=A\mathbf𝐖x𝐖𝐖.
 P
 Q
 P
 Q
 Q
 S
-\mathbf x
-S ?
+\mathbf𝐖x𝐖
+S𝐖?
 R
-\mathbf x
-R ?
-P .
-Q .
-P,
-Q .
-P,
-Q .
-\mathbb R^p
+\mathbf𝐖x𝐖
+R𝐖?
+P𝐖.
+Q𝐖.
+P,𝐖
+Q𝐖.
+P,𝐖
+Q𝐖.
+\mathbb𝐖R𝐖^p𝐖
 A
-\mathbf x
-A\mathbf x =\mathbf 0 .
-A ?
-A
-A
-A
-\det A
-A\mathbf x =\mathbf 0 ?
+\mathbf𝐖x𝐖
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖0𝐖𝐖.
+A𝐖?
 A
 A
 A
-A = \begin{bmatrix} 3 & -1 & 1 \\ 0 & 2 & 4 \\ 1 & 1 & 3 \end{bmatrix} .
-\det A .
-A\mathbf x =\mathbf 0 ?
-Nul(A) .
-(A -\lambda I)\mathbf v =\mathbf 0 .
-(A -\lambda I)\mathbf v =\mathbf 0,
-A -\lambda I ?
-A -\lambda I
-A -\lambda I
-A -\lambda I
-A .
-(A -\lambda I)\mathbf v =\mathbf 0,
-\det (A -\lambda I) ?
-A -\lambda I
-A -\lambda I
+\det𝐖A
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖0𝐖𝐖?
 A
-\lambda I .
-A = \begin{bmatrix} 1 & 2 \\ 2 & 1 \end{bmatrix}
-A -\lambda I = \begin{bmatrix} 1 & 2 \\ 2 & 1 \end{bmatrix} -\lambda \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix} = \begin{bmatrix} 1 -\lambda & 2 \\ 2 & 1 -\lambda \end{bmatrix} .
-\det (A -\lambda I) .
-\det (A -\lambda I) =0 ?
-\lambda
-\det (A -\lambda I) =0 .
 A
-A = \begin{bmatrix} 2 & 1 \\ 0 & 2 \end{bmatrix}
-\det (A -\lambda I) =0 .
-A = \begin{bmatrix} 0 & -1 \\ 1 & 0 \end{bmatrix}
-\det (A -\lambda I) =0 .
-\begin{bmatrix} 3 & -1 & 4 \\ 0 & -2 & 3 \\ 0 & 0 & 1 \end{bmatrix} .
-A .
-\lambda
-(A -\lambda I)\mathbf v =\mathbf 0
-A -\lambda I
-\det (A -\lambda I) =0
-A .
-A .
-A -\lambda I .
-A = \begin{bmatrix} 1 & 2 \\ 2 & 1 \end{bmatrix} .
-\lambda =3
-A -3I
-E_3 =Nul(A -3I) .
-\mathbf v,
-A\mathbf v =3\mathbf v .
-\lambda = -1
-A -( -1)I
-E_{ -1} .
-\mathbf v,
-A\mathbf v = -\mathbf v .
-\mathbb R^2
-A ?
-A = \begin{bmatrix} 3 & 0 \\ 0 & 3 \end{bmatrix} .
 A
-A .
-E_\lambda .
-\mathbb R^2
-A ?
-A = \begin{bmatrix} 2 & 1 \\ 0 & 2 \end{bmatrix} .
+A𝐖=𝐖\begin{bmatrix}𝐖3𝐖&𝐖𝐖-1𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖2𝐖&𝐖4𝐖\\𝐖1𝐖&𝐖1𝐖&𝐖3𝐖\end{bmatrix}𝐖𝐖.
+\det𝐖A𝐖.
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖0𝐖𝐖?
+Nul(A)𝐖.
+(A𝐖-\lambda𝐖I)\mathbf𝐖v𝐖𝐖=\mathbf𝐖0𝐖𝐖.
+(A𝐖-\lambda𝐖I)\mathbf𝐖v𝐖𝐖=\mathbf𝐖0𝐖,𝐖
+A𝐖-\lambda𝐖I𝐖?
+A𝐖-\lambda𝐖I
+A𝐖-\lambda𝐖I
+A𝐖-\lambda𝐖I
+A𝐖.
+(A𝐖-\lambda𝐖I)\mathbf𝐖v𝐖𝐖=\mathbf𝐖0𝐖,𝐖
+\det𝐖(A𝐖-\lambda𝐖I)𝐖?
+A𝐖-\lambda𝐖I
+A𝐖-\lambda𝐖I
 A
-A .
-E_\lambda .
-\mathbb R^2
-A ?
-A = \begin{bmatrix} 4 & 0 \\ 0 & -1 \end{bmatrix} .
-A .
-A .
-A,
-E_\lambda
-Nul(A -\lambda I) .
-n \times n
-(2 -\lambda)^3 ( -3 -\lambda)^{10} (5 -\lambda) .
-\mathbb R^n
-A = \begin{bmatrix} 0 & -1 \\ 4 & -4 \end{bmatrix} .
+\lambda𝐖I𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖\\𝐖2𝐖&𝐖1𝐖\end{bmatrix}𝐖
+A𝐖-\lambda𝐖I𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖\\𝐖2𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖-\lambda𝐖𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖-\lambda𝐖𝐖&𝐖2𝐖\\𝐖2𝐖&𝐖1𝐖-\lambda𝐖𝐖\end{bmatrix}𝐖𝐖.
+\det𝐖(A𝐖-\lambda𝐖I)𝐖.
+\det𝐖(A𝐖-\lambda𝐖I)𝐖=0𝐖?
+\lambda𝐖
+\det𝐖(A𝐖-\lambda𝐖I)𝐖=0𝐖.
 A
-\mathbb R^2
-A = \begin{bmatrix} -1 & 0 & 2 \\ -2 & -2 & -4 \\ 0 & 0 & -2 \end{bmatrix}
-( -2 -\lambda)^2 ( -1 -\lambda) =0 .
-\lambda,
-E_\lambda
-\mathbb R^3
-A ?
-A = \begin{bmatrix} -5 & -2 & -6 \\ -2 & -2 & -4 \\ 2 & 1 & 2 \end{bmatrix}
-( -2 -\lambda)^2 ( -1 -\lambda) =0 .
-\lambda,
-E_\lambda
-\mathbb R^3
-A ?
-A = \begin{bmatrix} -5 & -2 & -6 \\ 4 & 1 & 8 \\ 2 & 1 & 2 \end{bmatrix}
-( -2 -\lambda)(1 -\lambda)( -1 -\lambda) =0 .
-\lambda,
-E_\lambda
-\mathbb R^3
-A ?
-\mathbb R^p
-\mathbb R^p
-\mathbb R^p
-\mathbf v
-\mathbf w,
-\mathbf v \cdot \mathbf w
-\mathbf v \cdot \mathbf w = \begin{bmatrix} v_1 \\ v_2 \end{bmatrix} \cdot \begin{bmatrix} w_1 \\ w_2 \end{bmatrix} =v_1 w_1 +v_2 w_2 .
+A𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖2𝐖\end{bmatrix}𝐖
+\det𝐖(A𝐖-\lambda𝐖I)𝐖=0𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖0𝐖&𝐖𝐖-1𝐖\\𝐖1𝐖&𝐖0𝐖\end{bmatrix}𝐖
+\det𝐖(A𝐖-\lambda𝐖I)𝐖=0𝐖.
+𝐖\begin{bmatrix}𝐖3𝐖&𝐖𝐖-1𝐖&𝐖4𝐖\\𝐖0𝐖&𝐖𝐖-2𝐖&𝐖3𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖.
+A𝐖.
+\lambda𝐖
+(A𝐖-\lambda𝐖I)\mathbf𝐖v𝐖𝐖=\mathbf𝐖0𝐖
+A𝐖-\lambda𝐖I
+\det𝐖(A𝐖-\lambda𝐖I)𝐖=0
+A𝐖.
+A𝐖.
+A𝐖-\lambda𝐖I𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖\\𝐖2𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖.
+\lambda𝐖𝐖=3
+A𝐖-3I
+E_3𝐖𝐖=Nul(A𝐖-3I)𝐖.
+\mathbf𝐖v𝐖,𝐖
+A\mathbf𝐖v𝐖𝐖=3\mathbf𝐖v𝐖𝐖.
+\lambda𝐖𝐖=𝐖-1
+A𝐖-(𝐖-1)I
+E_{𝐖-1}𝐖𝐖.
+\mathbf𝐖v𝐖,𝐖
+A\mathbf𝐖v𝐖𝐖=𝐖-\mathbf𝐖v𝐖𝐖.
+\mathbb𝐖R𝐖^2𝐖
+A𝐖?
+A𝐖=𝐖\begin{bmatrix}𝐖3𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖3𝐖\end{bmatrix}𝐖𝐖.
+A
+A𝐖.
+E_\lambda𝐖𝐖𝐖.
+\mathbb𝐖R𝐖^2𝐖
+A𝐖?
+A𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖2𝐖\end{bmatrix}𝐖𝐖.
+A
+A𝐖.
+E_\lambda𝐖𝐖𝐖.
+\mathbb𝐖R𝐖^2𝐖
+A𝐖?
+A𝐖=𝐖\begin{bmatrix}𝐖4𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖.
+A𝐖.
+A𝐖.
+A,𝐖
+E_\lambda𝐖𝐖
+Nul(A𝐖-\lambda𝐖I)𝐖.
+n𝐖\times𝐖n
+(2𝐖-\lambda𝐖)^3𝐖(𝐖-3𝐖-\lambda𝐖)^{10}𝐖(5𝐖-\lambda𝐖)𝐖.
+\mathbb𝐖R𝐖^n𝐖
+A𝐖=𝐖\begin{bmatrix}𝐖0𝐖&𝐖𝐖-1𝐖\\𝐖4𝐖&𝐖𝐖-4𝐖\end{bmatrix}𝐖𝐖.
+A
+\mathbb𝐖R𝐖^2𝐖
+A𝐖=𝐖\begin{bmatrix}𝐖𝐖-1𝐖&𝐖0𝐖&𝐖2𝐖\\𝐖𝐖-2𝐖&𝐖𝐖-2𝐖&𝐖𝐖-4𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖𝐖-2𝐖\end{bmatrix}𝐖
+(𝐖-2𝐖-\lambda𝐖)^2𝐖(𝐖-1𝐖-\lambda𝐖)𝐖=0𝐖.
+\lambda𝐖,𝐖
+E_\lambda𝐖𝐖
+\mathbb𝐖R𝐖^3𝐖
+A𝐖?
+A𝐖=𝐖\begin{bmatrix}𝐖𝐖-5𝐖&𝐖𝐖-2𝐖&𝐖𝐖-6𝐖\\𝐖𝐖-2𝐖&𝐖𝐖-2𝐖&𝐖𝐖-4𝐖\\𝐖2𝐖&𝐖1𝐖&𝐖2𝐖\end{bmatrix}𝐖
+(𝐖-2𝐖-\lambda𝐖)^2𝐖(𝐖-1𝐖-\lambda𝐖)𝐖=0𝐖.
+\lambda𝐖,𝐖
+E_\lambda𝐖𝐖
+\mathbb𝐖R𝐖^3𝐖
+A𝐖?
+A𝐖=𝐖\begin{bmatrix}𝐖𝐖-5𝐖&𝐖𝐖-2𝐖&𝐖𝐖-6𝐖\\𝐖4𝐖&𝐖1𝐖&𝐖8𝐖\\𝐖2𝐖&𝐖1𝐖&𝐖2𝐖\end{bmatrix}𝐖
+(𝐖-2𝐖-\lambda𝐖)(1𝐖-\lambda𝐖)(𝐖-1𝐖-\lambda𝐖)𝐖=0𝐖.
+\lambda𝐖,𝐖
+E_\lambda𝐖𝐖
+\mathbb𝐖R𝐖^3𝐖
+A𝐖?
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^p𝐖
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖,𝐖
+\mathbf𝐖v𝐖𝐖\cdot𝐖\mathbf𝐖w𝐖
+\mathbf𝐖v𝐖𝐖\cdot𝐖\mathbf𝐖w𝐖𝐖=𝐖\begin{bmatrix}𝐖v_1𝐖𝐖\\𝐖v_2𝐖𝐖\end{bmatrix}𝐖𝐖\cdot𝐖𝐖\begin{bmatrix}𝐖w_1𝐖𝐖\\𝐖w_2𝐖𝐖\end{bmatrix}𝐖𝐖=v_1𝐖w_1𝐖𝐖+v_2𝐖w_2𝐖𝐖.
 n
-\mathbf v
-\mathbf w,
-\mathbf v \cdot \mathbf w
-\mathbf v \cdot \mathbf w =v_1 w_1 +v_2 w_2 +\cdots +v_n w_n .
-\mathbf v = \begin{bmatrix} 3 \\ 4 \end{bmatrix}
-\mathbf w = \begin{bmatrix} 2 \\ -2 \end{bmatrix} .
-\mathbf v \cdot \mathbf w .
-\mathbf v .
-\mathbf v .
-\mathbf v \cdot \mathbf v .
-\mathbf v ?
-\mathbf v,
-| \mathbf v |,
-| \mathbf v | =\sqrt{(v_1)^2 +(v_2)^2 +\cdots +(v_n)^2} .
-\mathbf v \cdot \mathbf v =| \mathbf v |^2 .
-\mathbf v
-\mathbf w
-\mathbf v \cdot \mathbf w =0 .
-\mathbf v = \begin{bmatrix} 3 \\ 2 \end{bmatrix}
-\mathbf w = \begin{bmatrix} -1 \\ 3 \end{bmatrix} .
-| \mathbf v |
-| \mathbf w |
-\mathbf v \cdot \mathbf w .
-\mathbf v
-\mathbf w
-\mathbf x = \begin{bmatrix} -2 \\ 3 \end{bmatrix} .
-\mathbf v \cdot \mathbf x .
-\mathbf v
-\mathbf x
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖,𝐖
+\mathbf𝐖v𝐖𝐖\cdot𝐖\mathbf𝐖w𝐖
+\mathbf𝐖v𝐖𝐖\cdot𝐖\mathbf𝐖w𝐖𝐖=v_1𝐖w_1𝐖𝐖+v_2𝐖w_2𝐖𝐖+\cdots𝐖𝐖+v_n𝐖w_n𝐖𝐖.
+\mathbf𝐖v𝐖𝐖=𝐖\begin{bmatrix}𝐖3𝐖\\𝐖4𝐖\end{bmatrix}𝐖
+\mathbf𝐖w𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖𝐖-2𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖v𝐖𝐖\cdot𝐖\mathbf𝐖w𝐖𝐖.
+\mathbf𝐖v𝐖𝐖.
+\mathbf𝐖v𝐖𝐖.
+\mathbf𝐖v𝐖𝐖\cdot𝐖\mathbf𝐖v𝐖𝐖.
+\mathbf𝐖v𝐖𝐖?
+\mathbf𝐖v𝐖,𝐖
+|𝐖\mathbf𝐖v𝐖|,𝐖
+|𝐖\mathbf𝐖v𝐖|𝐖=\sqrt{(v_1𝐖)^2𝐖𝐖+(v_2𝐖)^2𝐖𝐖+\cdots𝐖𝐖+(v_n𝐖)^2𝐖}𝐖.
+\mathbf𝐖v𝐖𝐖\cdot𝐖\mathbf𝐖v𝐖𝐖=|𝐖\mathbf𝐖v𝐖|^2𝐖𝐖.
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖
+\mathbf𝐖v𝐖𝐖\cdot𝐖\mathbf𝐖w𝐖𝐖=0𝐖.
+\mathbf𝐖v𝐖𝐖=𝐖\begin{bmatrix}𝐖3𝐖\\𝐖2𝐖\end{bmatrix}𝐖
+\mathbf𝐖w𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖3𝐖\end{bmatrix}𝐖𝐖.
+|𝐖\mathbf𝐖v𝐖|
+|𝐖\mathbf𝐖w𝐖|
+\mathbf𝐖v𝐖𝐖\cdot𝐖\mathbf𝐖w𝐖𝐖.
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖
+\mathbf𝐖x𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-2𝐖\\𝐖3𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖v𝐖𝐖\cdot𝐖\mathbf𝐖x𝐖𝐖.
+\mathbf𝐖v𝐖
+\mathbf𝐖x𝐖
 k
-\begin{bmatrix} 6 \\ k \end{bmatrix}
-\mathbf w ?
-\mathbf v = \begin{bmatrix} 2 \\ 0 \\ 3 \\ -2 \end{bmatrix}, \mathbf w = \begin{bmatrix} 1 \\ -3 \\ 4 \\ 1 \end{bmatrix} .
-| \mathbf v | .
-| \mathbf w | .
-\mathbf v \cdot \mathbf w .
-\mathbb R^p
-\mathbb R^p
-\mathbb R^p
-\mathbb R^p
-\mathbb R^n
-\mathbb R^p
-\mathbf v_1
-\mathbf v_2
-\mathbf v_1
-\mathbf v_2
-180\circ;
-180\circ .
-2 \times 2
+𝐖\begin{bmatrix}𝐖6𝐖\\𝐖k𝐖\end{bmatrix}𝐖
+\mathbf𝐖w𝐖𝐖?
+\mathbf𝐖v𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖0𝐖\\𝐖3𝐖\\𝐖𝐖-2𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖w𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖𝐖-3𝐖\\𝐖4𝐖\\𝐖1𝐖\end{bmatrix}𝐖𝐖.
+|𝐖\mathbf𝐖v𝐖|𝐖.
+|𝐖\mathbf𝐖w𝐖|𝐖.
+\mathbf𝐖v𝐖𝐖\cdot𝐖\mathbf𝐖w𝐖𝐖.
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^n𝐖
+\mathbb𝐖R𝐖^p𝐖
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖
+180\circ;𝐖
+180\circ𝐖.
+2𝐖\times𝐖2
 A
-\mathbf v_1
-\mathbf v_2 .
-A,
-\det A,
-\mathbf v_1
-\mathbf v_2 .
-\det A
-2 \times 2
-\begin{bmatrix} -\frac{1}{2} & 0 \\ 0 & 2 \end{bmatrix} .
-\begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix} .
-\begin{bmatrix} 2 & 1 \\ 0 & 1 \end{bmatrix} .
-\begin{bmatrix} 2 & k \\ 0 & 1 \end{bmatrix} ?
-\begin{bmatrix} 2 & 0 \\ 1 & 1 \end{bmatrix} .
-\begin{bmatrix} 1 & -1 \\ -2 & 2 \end{bmatrix} .
-A = \begin{bmatrix} 2 & 1 \\ 2 & -1 \end{bmatrix}, B = \begin{bmatrix} 1 & 0 \\ 0 & 2 \end{bmatrix} .
-A,
-B,
-AB .
-\det (AB)
-\det A
-\det B ?
-U_1 = \begin{bmatrix} 1 & -1 & 2 \\ 0 & 2 & 4 \\ 0 & 0 & -2 \end{bmatrix}, U_2 = \begin{bmatrix} 1 & -1 & 2 \\ 0 & 2 & 4 \\ 0 & 0 & 0 \end{bmatrix} .
-U_1
-U_2
-\det U_1
-\det U_2 .
-A = \begin{bmatrix} 1 & -1 & 2 \\ -2 & 2 & -6 \\ 3 & -1 & 10 \end{bmatrix}
-A = \begin{bmatrix} 1 & -1 & 2 \\ -2 & 2 & -6 \\ 3 & -1 & 10 \end{bmatrix} \sim \begin{bmatrix} 1 & -1 & 2 \\ 0 & 0 & -2 \\ 3 & -1 & 10 \end{bmatrix} =A_1 .
-\det A
-\det A_1 ?
-A_1 = \begin{bmatrix} 1 & -1 & 2 \\ 0 & 0 & -2 \\ 3 & -1 & 10 \end{bmatrix} \sim \begin{bmatrix} 1 & -1 & 2 \\ 0 & 0 & -2 \\ 0 & 2 & 4 \end{bmatrix} =A_2 .
-\det A
-\det A_2 ?
-A_2 = \begin{bmatrix} 1 & -1 & 2 \\ 0 & 0 & -2 \\ 0 & 2 & 4 \end{bmatrix} \sim \begin{bmatrix} 1 & -1 & 2 \\ 0 & 2 & 4 \\ 0 & 0 & -2 \end{bmatrix} =U
-U .
-\det A
-\det U ?
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖.
+A,𝐖
+\det𝐖A,𝐖
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖.
+\det𝐖A
+2𝐖\times𝐖2
+𝐖\begin{bmatrix}𝐖𝐖-\frac{1}{2}𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖2𝐖\end{bmatrix}𝐖𝐖.
+𝐖\begin{bmatrix}𝐖0𝐖&𝐖1𝐖\\𝐖1𝐖&𝐖0𝐖\end{bmatrix}𝐖𝐖.
+𝐖\begin{bmatrix}𝐖2𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖.
+𝐖\begin{bmatrix}𝐖2𝐖&𝐖k𝐖\\𝐖0𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖?
+𝐖\begin{bmatrix}𝐖2𝐖&𝐖0𝐖\\𝐖1𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖.
+𝐖\begin{bmatrix}𝐖1𝐖&𝐖𝐖-1𝐖\\𝐖𝐖-2𝐖&𝐖2𝐖\end{bmatrix}𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖1𝐖\\𝐖2𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖B𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖2𝐖\end{bmatrix}𝐖𝐖.
+A,𝐖
+B,𝐖
+AB𝐖.
+\det𝐖(AB)
+\det𝐖A
+\det𝐖B𝐖?
+U_1𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖𝐖-1𝐖&𝐖2𝐖\\𝐖0𝐖&𝐖2𝐖&𝐖4𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖𝐖-2𝐖\end{bmatrix}𝐖,𝐖U_2𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖𝐖-1𝐖&𝐖2𝐖\\𝐖0𝐖&𝐖2𝐖&𝐖4𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖𝐖.
+U_1𝐖
+U_2𝐖
+\det𝐖U_1𝐖
+\det𝐖U_2𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖𝐖-1𝐖&𝐖2𝐖\\𝐖𝐖-2𝐖&𝐖2𝐖&𝐖𝐖-6𝐖\\𝐖3𝐖&𝐖𝐖-1𝐖&𝐖10𝐖\end{bmatrix}𝐖
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖𝐖-1𝐖&𝐖2𝐖\\𝐖𝐖-2𝐖&𝐖2𝐖&𝐖𝐖-6𝐖\\𝐖3𝐖&𝐖𝐖-1𝐖&𝐖10𝐖\end{bmatrix}𝐖𝐖\sim𝐖𝐖\begin{bmatrix}𝐖1𝐖&𝐖𝐖-1𝐖&𝐖2𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖𝐖-2𝐖\\𝐖3𝐖&𝐖𝐖-1𝐖&𝐖10𝐖\end{bmatrix}𝐖𝐖=A_1𝐖𝐖.
+\det𝐖A
+\det𝐖A_1𝐖𝐖?
+A_1𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖𝐖-1𝐖&𝐖2𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖𝐖-2𝐖\\𝐖3𝐖&𝐖𝐖-1𝐖&𝐖10𝐖\end{bmatrix}𝐖𝐖\sim𝐖𝐖\begin{bmatrix}𝐖1𝐖&𝐖𝐖-1𝐖&𝐖2𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖𝐖-2𝐖\\𝐖0𝐖&𝐖2𝐖&𝐖4𝐖\end{bmatrix}𝐖𝐖=A_2𝐖𝐖.
+\det𝐖A
+\det𝐖A_2𝐖𝐖?
+A_2𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖𝐖-1𝐖&𝐖2𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖𝐖-2𝐖\\𝐖0𝐖&𝐖2𝐖&𝐖4𝐖\end{bmatrix}𝐖𝐖\sim𝐖𝐖\begin{bmatrix}𝐖1𝐖&𝐖𝐖-1𝐖&𝐖2𝐖\\𝐖0𝐖&𝐖2𝐖&𝐖4𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖𝐖-2𝐖\end{bmatrix}𝐖𝐖=U
+U𝐖.
+\det𝐖A
+\det𝐖U𝐖?
 U
-\det A .
-\det A ?
+\det𝐖A𝐖.
+\det𝐖A𝐖?
 A
-A = \begin{bmatrix} 1 & -1 & 3 \\ 0 & 2 & -2 \\ 2 & 1 & 3 \end{bmatrix} .
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖𝐖-1𝐖&𝐖3𝐖\\𝐖0𝐖&𝐖2𝐖&𝐖𝐖-2𝐖\\𝐖2𝐖&𝐖1𝐖&𝐖3𝐖\end{bmatrix}𝐖𝐖.
 U
-A .
-\det A .
+A𝐖.
+\det𝐖A𝐖.
 A
 A
-A' .
-\det A \not= 0
-\det A' \not= 0 .
-n \times n
+A'𝐖.
+\det𝐖A𝐖\not=𝐖0
+\det𝐖A'𝐖\not=𝐖0𝐖.
+n𝐖\times𝐖n
 A
-\det A \not= 0 .
+\det𝐖A𝐖\not=𝐖0𝐖.
 A
-\det A = -3,
-\det A^{ -1} ?
-\det \begin{bmatrix} 2 & 0 & -1 \\ 3 & 1 & 2 \\ -2 & 4 & -3 \end{bmatrix} = -36 .
-\begin{bmatrix} -3 & 0 & 0 & 0 \\ 4 & 1 & 0 & 0 \\ -1 & 4 & -4 & 0 \\ 0 & 3 & 2 & 3 \end{bmatrix} .
-\begin{bmatrix} 2 & 1 & -2 & -3 \\ 3 & 0 & -1 & -2 \\ -3 & 4 & 1 & 2 \\ 1 & 3 & 3 & -1 \end{bmatrix} .
-\mathbb R^p
-\mathbf v = \begin{bmatrix} -1 \\ 2 \end{bmatrix} .
-\mathbf v
-\mathbf x
-\mathbf v,
-\mathbf v \cdot \mathbf x ?
-\mathbf x = \begin{bmatrix} x \\ y \end{bmatrix},
-\mathbf v
+\det𝐖A𝐖=𝐖-3,𝐖
+\det𝐖A^{𝐖-1}𝐖𝐖?
+\det𝐖𝐖\begin{bmatrix}𝐖2𝐖&𝐖0𝐖&𝐖𝐖-1𝐖\\𝐖3𝐖&𝐖1𝐖&𝐖2𝐖\\𝐖𝐖-2𝐖&𝐖4𝐖&𝐖𝐖-3𝐖\end{bmatrix}𝐖𝐖=𝐖-36𝐖.
+𝐖\begin{bmatrix}𝐖𝐖-3𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\\𝐖4𝐖&𝐖1𝐖&𝐖0𝐖&𝐖0𝐖\\𝐖𝐖-1𝐖&𝐖4𝐖&𝐖𝐖-4𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖3𝐖&𝐖2𝐖&𝐖3𝐖\end{bmatrix}𝐖𝐖.
+𝐖\begin{bmatrix}𝐖2𝐖&𝐖1𝐖&𝐖𝐖-2𝐖&𝐖𝐖-3𝐖\\𝐖3𝐖&𝐖0𝐖&𝐖𝐖-1𝐖&𝐖𝐖-2𝐖\\𝐖𝐖-3𝐖&𝐖4𝐖&𝐖1𝐖&𝐖2𝐖\\𝐖1𝐖&𝐖3𝐖&𝐖3𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖.
+\mathbb𝐖R𝐖^p𝐖
+\mathbf𝐖v𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖2𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖v𝐖
+\mathbf𝐖x𝐖
+\mathbf𝐖v𝐖,𝐖
+\mathbf𝐖v𝐖𝐖\cdot𝐖\mathbf𝐖x𝐖𝐖?
+\mathbf𝐖x𝐖𝐖=𝐖\begin{bmatrix}𝐖x𝐖\\𝐖y𝐖\end{bmatrix}𝐖,𝐖
+\mathbf𝐖v𝐖
 x
-y .
-\mathbf v .
+y𝐖.
+\mathbf𝐖v𝐖𝐖.
 Col(A)
 Nul(A)
-A .
+A𝐖.
 A
-\mathbf x
-A\mathbf x =\mathbf 0 .
-\mathbf x
+\mathbf𝐖x𝐖
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖0𝐖𝐖.
+\mathbf𝐖x𝐖
 Nul(A)
-Col(A) ?
-A\mathbf x =\mathbf b
-\mathbf b
+Col(A)𝐖?
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖b𝐖
+\mathbf𝐖b𝐖
 Nul(A)
-Col(A) ?
+Col(A)𝐖?
 W
-\mathbb R^m,
+\mathbb𝐖R𝐖^m𝐖,𝐖
 W
-\mathbb R^m
-W .
-W^\perp .
-W^\perp .
-\mathbf w_1 = \begin{bmatrix} 1 \\ 0 \\ -2 \end{bmatrix}
-\mathbf w_2 = \begin{bmatrix} 1 \\ 1 \\ -1 \end{bmatrix}
-W,
-\mathbb R^3 .
-\mathbf x
-\mathbf w_1 .
-\mathbf x = \begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix},
-\mathbf w_1 \cdot \mathbf x =0
-x_1,
-x_2,
-x_3 .
-\mathbf x
-\mathbf w_2 .
-x_1,
-x_2,
-x_3
-\mathbf w_2 \cdot \mathbf x =0 .
-\mathbf x
-\mathbf w_1
-\mathbf w_2,
-B\mathbf x =\mathbf 0
-B .
+\mathbb𝐖R𝐖^m𝐖
+W𝐖.
+W^\perp𝐖𝐖𝐖.
+W^\perp𝐖𝐖𝐖.
+\mathbf𝐖w𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\\𝐖𝐖-2𝐖\end{bmatrix}𝐖
+\mathbf𝐖w𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖1𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖
+W,𝐖
+\mathbb𝐖R𝐖^3𝐖𝐖.
+\mathbf𝐖x𝐖
+\mathbf𝐖w𝐖_1𝐖𝐖.
+\mathbf𝐖x𝐖𝐖=𝐖\begin{bmatrix}𝐖x_1𝐖𝐖\\𝐖x_2𝐖𝐖\\𝐖x_3𝐖𝐖\end{bmatrix}𝐖,𝐖
+\mathbf𝐖w𝐖_1𝐖𝐖\cdot𝐖\mathbf𝐖x𝐖𝐖=0
+x_1𝐖,𝐖
+x_2𝐖,𝐖
+x_3𝐖𝐖.
+\mathbf𝐖x𝐖
+\mathbf𝐖w𝐖_2𝐖𝐖.
+x_1𝐖,𝐖
+x_2𝐖,𝐖
+x_3𝐖
+\mathbf𝐖w𝐖_2𝐖𝐖\cdot𝐖\mathbf𝐖x𝐖𝐖=0𝐖.
+\mathbf𝐖x𝐖
+\mathbf𝐖w𝐖_1𝐖
+\mathbf𝐖w𝐖_2𝐖,𝐖
+B\mathbf𝐖x𝐖𝐖=\mathbf𝐖0𝐖
+B𝐖.
 B
-B\mathbf x =\mathbf 0 .
-\mathbf w_1 = \begin{bmatrix} 1 \\ 0 \\ -2 \end{bmatrix}
-\mathbf w_2 = \begin{bmatrix} 1 \\ 1 \\ -1 \end{bmatrix}
-W,
-\mathbb R^3 .
-\mathbf w_1
-\mathbf w_2
-W,
-\mathbf w
+B\mathbf𝐖x𝐖𝐖=\mathbf𝐖0𝐖𝐖.
+\mathbf𝐖w𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\\𝐖𝐖-2𝐖\end{bmatrix}𝐖
+\mathbf𝐖w𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖1𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖
+W,𝐖
+\mathbb𝐖R𝐖^3𝐖𝐖.
+\mathbf𝐖w𝐖_1𝐖
+\mathbf𝐖w𝐖_2𝐖
+W,𝐖
+\mathbf𝐖w𝐖
 W
-\mathbf w =c_1 \mathbf w_1 +c_2 \mathbf w_2 .
-\mathbf x
-\mathbf w_1
-\mathbf w_2,
-\mathbf x
-\mathbf w .
-W^\perp
-\dim W^\perp .
-(W^\perp)^\perp,
-W^\perp .
-m \times n
+\mathbf𝐖w𝐖𝐖=c_1𝐖\mathbf𝐖w𝐖_1𝐖𝐖+c_2𝐖\mathbf𝐖w𝐖_2𝐖𝐖.
+\mathbf𝐖x𝐖
+\mathbf𝐖w𝐖_1𝐖
+\mathbf𝐖w𝐖_2𝐖,𝐖
+\mathbf𝐖x𝐖
+\mathbf𝐖w𝐖𝐖.
+W^\perp𝐖𝐖
+\dim𝐖W^\perp𝐖𝐖𝐖.
+(W^\perp𝐖𝐖)^\perp𝐖𝐖,𝐖
+W^\perp𝐖𝐖𝐖.
+m𝐖\times𝐖n
 A
-n \times m
-A^T
-A .
-B = \begin{bmatrix} 3 & 4 \\ -1 & 2 \\ 0 & -2 \end{bmatrix},
-B^T .
-A^T
-A .
-\mathbf v_1 = \begin{bmatrix} 2 \\ 0 \\ -2 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} 1 \\ 1 \\ 2 \end{bmatrix}, \mathbf w = \begin{bmatrix} -2 \\ 2 \\ 3 \end{bmatrix} .
-\mathbf v_1 \cdot \mathbf w
-\mathbf v_2 \cdot \mathbf w .
-A = \begin{bmatrix} \mathbf v_1 & \mathbf v_2 \end{bmatrix}
-A^T .
-A^T \mathbf w
-\mathbf v_1 \cdot \mathbf w
-\mathbf v_2 \cdot \mathbf w .
-\mathbf x
-\mathbf v_1
-\mathbf v_2 .
-\mathbf v_1 \cdot \mathbf x
-\mathbf v_2 \cdot \mathbf x ?
-A^T \mathbf x ?
-A^T
-\mathbf x
-\mathbf v_1
-\mathbf v_2 .
-Nul(A^T),
-A^T,
-A^T \mathbf x =\mathbf 0 .
-\mathbf x
-Nul(A^T),
-\mathbf x
-\mathbf v_1
-\mathbf v_2 .
-Col(A),
-A,
-A .
+n𝐖\times𝐖m
+A^T𝐖
+A𝐖.
+B𝐖=𝐖\begin{bmatrix}𝐖3𝐖&𝐖4𝐖\\𝐖𝐖-1𝐖&𝐖2𝐖\\𝐖0𝐖&𝐖𝐖-2𝐖\end{bmatrix}𝐖,𝐖
+B^T𝐖𝐖.
+A^T𝐖
+A𝐖.
+\mathbf𝐖v𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖0𝐖\\𝐖𝐖-2𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖1𝐖\\𝐖2𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖w𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-2𝐖\\𝐖2𝐖\\𝐖3𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖v𝐖_1𝐖𝐖\cdot𝐖\mathbf𝐖w𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖\cdot𝐖\mathbf𝐖w𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖\mathbf𝐖v𝐖_1𝐖𝐖&𝐖\mathbf𝐖v𝐖_2𝐖𝐖\end{bmatrix}𝐖
+A^T𝐖𝐖.
+A^T𝐖\mathbf𝐖w𝐖
+\mathbf𝐖v𝐖_1𝐖𝐖\cdot𝐖\mathbf𝐖w𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖\cdot𝐖\mathbf𝐖w𝐖𝐖.
+\mathbf𝐖x𝐖
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖.
+\mathbf𝐖v𝐖_1𝐖𝐖\cdot𝐖\mathbf𝐖x𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖\cdot𝐖\mathbf𝐖x𝐖𝐖?
+A^T𝐖\mathbf𝐖x𝐖𝐖?
+A^T𝐖
+\mathbf𝐖x𝐖
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖.
+Nul(A^T𝐖),𝐖
+A^T𝐖,𝐖
+A^T𝐖\mathbf𝐖x𝐖𝐖=\mathbf𝐖0𝐖𝐖.
+\mathbf𝐖x𝐖
+Nul(A^T𝐖),𝐖
+\mathbf𝐖x𝐖
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖.
+Col(A),𝐖
+A,𝐖
+A𝐖.
 Col(A)
-c_1 \mathbf v_1 +c_2 \mathbf v_2 .
-\mathbf x
-Nul(A^T),
-\mathbf x
-Col(A) .
-A = \begin{bmatrix} 1 & 0 & -3 \\ 2 & -2 & 1 \end{bmatrix}, B = \begin{bmatrix} 3 & -4 & 1 \\ 0 & 1 & 2 \end{bmatrix}, C = \begin{bmatrix} 1 & 0 & -3 \\ 2 & -2 & 1 \\ 3 & 2 & 0 \end{bmatrix} .
-(A +B)^T
-A^T +B^T .
-(A^T)^T ?
-\det (C)
-\det (C^T) .
+c_1𝐖\mathbf𝐖v𝐖_1𝐖𝐖+c_2𝐖\mathbf𝐖v𝐖_2𝐖𝐖.
+\mathbf𝐖x𝐖
+Nul(A^T𝐖),𝐖
+\mathbf𝐖x𝐖
+Col(A)𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖𝐖-3𝐖\\𝐖2𝐖&𝐖𝐖-2𝐖&𝐖1𝐖\end{bmatrix}𝐖,𝐖B𝐖=𝐖\begin{bmatrix}𝐖3𝐖&𝐖𝐖-4𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖2𝐖\end{bmatrix}𝐖,𝐖C𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖𝐖-3𝐖\\𝐖2𝐖&𝐖𝐖-2𝐖&𝐖1𝐖\\𝐖3𝐖&𝐖2𝐖&𝐖0𝐖\end{bmatrix}𝐖𝐖.
+(A𝐖+B)^T𝐖
+A^T𝐖𝐖+B^T𝐖𝐖.
+(A^T𝐖)^T𝐖𝐖?
+\det𝐖(C)
+\det𝐖(C^T𝐖)𝐖.
 AC
-(AC)^T .
-A^T C^T ?
-C^T A^T
-(AC)^T .
-I ?
+(AC)^T𝐖𝐖.
+A^T𝐖C^T𝐖𝐖?
+C^T𝐖A^T𝐖
+(AC)^T𝐖𝐖.
+I𝐖?
 D
-D^T
-(D^T)^{ -1} =(D^{ -1})^T .
+D^T𝐖
+(D^T𝐖)^{𝐖-1}𝐖𝐖=(D^{𝐖-1}𝐖)^T𝐖𝐖.
 W
 5
-\mathbb R^9
+\mathbb𝐖R𝐖^9𝐖
 A
-W;
-Col(A) =W .
-A ?
-A ?
-A^T ?
-A^T ?
-\dim Nul(A^T) ?
-\dim W^\perp ?
+W;𝐖
+Col(A)𝐖=W𝐖.
+A𝐖?
+A𝐖?
+A^T𝐖𝐖?
+A^T𝐖𝐖?
+\dim𝐖Nul(A^T𝐖)𝐖?
+\dim𝐖W^\perp𝐖𝐖𝐖?
 W
-W^\perp
+W^\perp𝐖𝐖
 W
-\mathbb R^4
-\mathbf w_1 = \begin{bmatrix} 1 \\ 0 \\ 2 \\ -1 \end{bmatrix}, \mathbf w_2 = \begin{bmatrix} -1 \\ 2 \\ -6 \\ 3 \end{bmatrix} .
-\dim W
-\dim W^\perp .
-W^\perp .
-Nul(A) .
-W^\perp
-W .
-\mathbb R^p
-4 \times 4
-2 \times 2
-4 \times 4
-A\mathbf v
-\mathbb R^p
-\mathbb R^n
-\mathbb R^3 .
-\mathbb R^p
-A = \begin{bmatrix} 1 & 0 & 2 \\ 2 & 2 & 1 \\ 1 & 1 & 1 \end{bmatrix}, B = \begin{bmatrix} 1 & 2 & -4 \\ -1 & -1 & 3 \\ 0 & -1 & 2 \end{bmatrix} .
-BA =I
-B =A^{ -1} .
-A\mathbf x = \begin{bmatrix} 4 \\ -1 \\ 4 \end{bmatrix}
-A^{ -1} .
+\mathbb𝐖R𝐖^4𝐖
+\mathbf𝐖w𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖0𝐖\\𝐖2𝐖\\𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖w𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖2𝐖\\𝐖𝐖-6𝐖\\𝐖3𝐖\end{bmatrix}𝐖𝐖.
+\dim𝐖W
+\dim𝐖W^\perp𝐖𝐖𝐖.
+W^\perp𝐖𝐖𝐖.
+Nul(A)𝐖.
+W^\perp𝐖𝐖
+W𝐖.
+\mathbb𝐖R𝐖^p𝐖
+4𝐖\times𝐖4
+2𝐖\times𝐖2
+4𝐖\times𝐖4
+A\mathbf𝐖v𝐖
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^n𝐖
+\mathbb𝐖R𝐖^3𝐖𝐖.
+\mathbb𝐖R𝐖^p𝐖
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖2𝐖\\𝐖2𝐖&𝐖2𝐖&𝐖1𝐖\\𝐖1𝐖&𝐖1𝐖&𝐖1𝐖\end{bmatrix}𝐖,𝐖B𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖&𝐖𝐖-4𝐖\\𝐖𝐖-1𝐖&𝐖𝐖-1𝐖&𝐖3𝐖\\𝐖0𝐖&𝐖𝐖-1𝐖&𝐖2𝐖\end{bmatrix}𝐖𝐖.
+BA𝐖=I
+B𝐖=A^{𝐖-1}𝐖𝐖.
+A\mathbf𝐖x𝐖𝐖=𝐖\begin{bmatrix}𝐖4𝐖\\𝐖𝐖-1𝐖\\𝐖4𝐖\end{bmatrix}𝐖
+A^{𝐖-1}𝐖𝐖.
 A
 B
-AB ?
+AB𝐖?
 A
-n \times n
-A^{ -1} .
-A\mathbf x =\mathbf b
-\mathbf x =A^{ -1} \mathbf b .
-A
-A
-\mathbb R^3 .
-A
-n \times n
-A^{ -1} .
-A\mathbf x =\mathbf b
-\mathbf x =A^{ -1} \mathbf b .
-A ?
+n𝐖\times𝐖n
+A^{𝐖-1}𝐖𝐖.
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖b𝐖
+\mathbf𝐖x𝐖𝐖=A^{𝐖-1}𝐖\mathbf𝐖b𝐖𝐖.
 A
 A
+\mathbb𝐖R𝐖^3𝐖𝐖.
+A
+n𝐖\times𝐖n
+A^{𝐖-1}𝐖𝐖.
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖b𝐖
+\mathbf𝐖x𝐖𝐖=A^{𝐖-1}𝐖\mathbf𝐖b𝐖𝐖.
+A𝐖?
 A
 A
-4 \times 4
-A = \begin{bmatrix} 1 & 2 \\ 1 & 3 \end{bmatrix}
-A^{ -1} .
+A
+A
+4𝐖\times𝐖4
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖\\𝐖1𝐖&𝐖3𝐖\end{bmatrix}𝐖
+A^{𝐖-1}𝐖𝐖.
 B
-B =A^{ -1} .
-AB =I .
-B = \begin{bmatrix} \mathbf b_1 & \mathbf b_2 \end{bmatrix},
-AB = \begin{bmatrix} A\mathbf b_1 & A\mathbf b_2 \end{bmatrix} = \begin{bmatrix} \mathbf e_1 & \mathbf e_2 \end{bmatrix} =I .
-A\mathbf b_1 & \lt mi/> =\mathbf e_1 \\ A\mathbf b_2 & \lt mi/> =\mathbf e_2 .
-B .
-B ?
-AB =I
-BA =I .
-B,
-A\mathbf b_1 =\mathbf e_1
-A\mathbf b_2 =\mathbf e_2 .
+B𝐖=A^{𝐖-1}𝐖𝐖.
+AB𝐖=I𝐖.
+B𝐖=𝐖\begin{bmatrix}𝐖\mathbf𝐖b𝐖_1𝐖𝐖&𝐖\mathbf𝐖b𝐖_2𝐖𝐖\end{bmatrix}𝐖,𝐖
+AB𝐖=𝐖\begin{bmatrix}𝐖A\mathbf𝐖b𝐖_1𝐖𝐖&𝐖A\mathbf𝐖b𝐖_2𝐖𝐖\end{bmatrix}𝐖𝐖=𝐖\begin{bmatrix}𝐖\mathbf𝐖e𝐖_1𝐖𝐖&𝐖\mathbf𝐖e𝐖_2𝐖𝐖\end{bmatrix}𝐖𝐖=I𝐖.
+A\mathbf𝐖b𝐖_1𝐖𝐖&𝐖\lt𝐖mi/>𝐖=\mathbf𝐖e𝐖_1𝐖𝐖\\𝐖A\mathbf𝐖b𝐖_2𝐖𝐖&𝐖\lt𝐖mi/>𝐖=\mathbf𝐖e𝐖_2𝐖𝐖.
+B𝐖.
+B𝐖?
+AB𝐖=I
+BA𝐖=I𝐖.
+B,𝐖
+A\mathbf𝐖b𝐖_1𝐖𝐖=\mathbf𝐖e𝐖_1𝐖
+A\mathbf𝐖b𝐖_2𝐖𝐖=\mathbf𝐖e𝐖_2𝐖𝐖.
 A
-\begin{bmatrix} A & \mathbf e_1 \end{bmatrix} & \~ \\ \begin{bmatrix} A & \mathbf e_2 \end{bmatrix} & \~
-\begin{bmatrix} A & \mathbf e_1 & \mathbf e_2 \end{bmatrix}
+𝐖\begin{bmatrix}𝐖A𝐖&𝐖\mathbf𝐖e𝐖_1𝐖𝐖\end{bmatrix}𝐖𝐖&𝐖\~𝐖\\𝐖𝐖\begin{bmatrix}𝐖A𝐖&𝐖\mathbf𝐖e𝐖_2𝐖𝐖\end{bmatrix}𝐖𝐖&𝐖\~
+𝐖\begin{bmatrix}𝐖A𝐖&𝐖\mathbf𝐖e𝐖_1𝐖𝐖&𝐖\mathbf𝐖e𝐖_2𝐖𝐖\end{bmatrix}𝐖
 A
 I
-\begin{bmatrix} A & I \end{bmatrix} .
-A^{ -1} .
+𝐖\begin{bmatrix}𝐖A𝐖&𝐖I𝐖\end{bmatrix}𝐖𝐖.
+A^{𝐖-1}𝐖𝐖.
 A
-\begin{bmatrix} A & I \end{bmatrix} \sim \begin{bmatrix} I & A^{ -1} \end{bmatrix} .
+𝐖\begin{bmatrix}𝐖A𝐖&𝐖I𝐖\end{bmatrix}𝐖𝐖\sim𝐖𝐖\begin{bmatrix}𝐖I𝐖&𝐖A^{𝐖-1}𝐖𝐖\end{bmatrix}𝐖𝐖.
 A
-A = \begin{bmatrix} 1 & -2 & -1 \\ -1 & 5 & 6 \\ 5 & -4 & 6 \end{bmatrix} .
-\begin{bmatrix} -4 & 2 \\ -2 & 1 \end{bmatrix} ?
-n \times n
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖𝐖-2𝐖&𝐖𝐖-1𝐖\\𝐖𝐖-1𝐖&𝐖5𝐖&𝐖6𝐖\\𝐖5𝐖&𝐖𝐖-4𝐖&𝐖6𝐖\end{bmatrix}𝐖𝐖.
+𝐖\begin{bmatrix}𝐖𝐖-4𝐖&𝐖2𝐖\\𝐖𝐖-2𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖?
+n𝐖\times𝐖n
 C
 D
-(D^{ -1} C^{ -1})(CD) ?
+(D^{𝐖-1}𝐖C^{𝐖-1}𝐖)(CD)𝐖?
 CD
-(CD)^{ -1} =D^{ -1} C^{ -1} .
-A \colon
-\begin{bmatrix} ? & ? & ? \\ ? & ? & ? \\ ? & ? & ? \end{bmatrix} \begin{bmatrix} 2 & 7 & -1 \\ 0 & 3 & 2 \\ 1 & 1 & -1 \end{bmatrix} = \begin{bmatrix} 2 & 7 & -1 \\ 0 & 3 & 2 \\ 2 & 2 & -2 \end{bmatrix}
-A \colon
-\begin{bmatrix} ? & ? & ? \\ ? & ? & ? \\ ? & ? & ? \end{bmatrix} \begin{bmatrix} 2 & 7 & -1 \\ 0 & 3 & 2 \\ 1 & 1 & -1 \end{bmatrix} = \begin{bmatrix} 2 & 7 & -1 \\ 1 & 1 & -1 \\ 0 & 3 & 2 \end{bmatrix}
+(CD)^{𝐖-1}𝐖𝐖=D^{𝐖-1}𝐖C^{𝐖-1}𝐖𝐖.
+A𝐖\colon𝐖
+𝐖\begin{bmatrix}𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\\𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\\𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\end{bmatrix}𝐖𝐖\begin{bmatrix}𝐖2𝐖&𝐖7𝐖&𝐖𝐖-1𝐖\\𝐖0𝐖&𝐖3𝐖&𝐖2𝐖\\𝐖1𝐖&𝐖1𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖7𝐖&𝐖𝐖-1𝐖\\𝐖0𝐖&𝐖3𝐖&𝐖2𝐖\\𝐖2𝐖&𝐖2𝐖&𝐖𝐖-2𝐖\end{bmatrix}𝐖
+A𝐖\colon𝐖
+𝐖\begin{bmatrix}𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\\𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\\𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\end{bmatrix}𝐖𝐖\begin{bmatrix}𝐖2𝐖&𝐖7𝐖&𝐖𝐖-1𝐖\\𝐖0𝐖&𝐖3𝐖&𝐖2𝐖\\𝐖1𝐖&𝐖1𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖7𝐖&𝐖𝐖-1𝐖\\𝐖1𝐖&𝐖1𝐖&𝐖𝐖-1𝐖\\𝐖0𝐖&𝐖3𝐖&𝐖2𝐖\end{bmatrix}𝐖
 5
 A
-\begin{bmatrix} ? & ? & ? \\ ? & ? & ? \\ ? & ? & ? \end{bmatrix} \begin{bmatrix} 2 & 7 & -1 \\ 0 & 3 & 2 \\ 1 & 1 & -1 \end{bmatrix} = \begin{bmatrix} 2 +5(1) & 7 +5(1) & -1 +5( -1) \\ 0 & 3 & 2 \\ 1 & 1 & -1 \end{bmatrix}
-R_2 \leftrightarrow R_3
-R_1 +R_2 \to R_1
-A \sim B \colon
-A = \begin{bmatrix} -1 & 4 & 5 \\ 0 & 3 & -1 \\ 1 & 2 & 3 \end{bmatrix} & \lt mi/> \sim \begin{bmatrix} -1 & 4 & 5 \\ 1 & 2 & 3 \\ 0 & 3 & -1 \end{bmatrix} \\ \~ & \lt mi/> \sim \begin{bmatrix} -1 +1 & 4 +2 & 5 +3 \\ 1 & 2 & 3 \\ 0 & 3 & -1 \end{bmatrix} = \begin{bmatrix} 0 & 6 & 8 \\ 1 & 2 & 3 \\ 0 & 3 & -1 \end{bmatrix} =B
+𝐖\begin{bmatrix}𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\\𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\\𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\end{bmatrix}𝐖𝐖\begin{bmatrix}𝐖2𝐖&𝐖7𝐖&𝐖𝐖-1𝐖\\𝐖0𝐖&𝐖3𝐖&𝐖2𝐖\\𝐖1𝐖&𝐖1𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖+5(1)𝐖&𝐖7𝐖+5(1)𝐖&𝐖𝐖-1𝐖+5(𝐖-1)𝐖\\𝐖0𝐖&𝐖3𝐖&𝐖2𝐖\\𝐖1𝐖&𝐖1𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖
+R_2𝐖𝐖\leftrightarrow𝐖R_3𝐖
+R_1𝐖𝐖+R_2𝐖𝐖\to𝐖R_1𝐖
+A𝐖\sim𝐖B𝐖\colon𝐖
+A𝐖=𝐖\begin{bmatrix}𝐖𝐖-1𝐖&𝐖4𝐖&𝐖5𝐖\\𝐖0𝐖&𝐖3𝐖&𝐖𝐖-1𝐖\\𝐖1𝐖&𝐖2𝐖&𝐖3𝐖\end{bmatrix}𝐖𝐖&𝐖\lt𝐖mi/>𝐖\sim𝐖𝐖\begin{bmatrix}𝐖𝐖-1𝐖&𝐖4𝐖&𝐖5𝐖\\𝐖1𝐖&𝐖2𝐖&𝐖3𝐖\\𝐖0𝐖&𝐖3𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\sim𝐖𝐖\begin{bmatrix}𝐖𝐖-1𝐖+1𝐖&𝐖4𝐖+2𝐖&𝐖5𝐖+3𝐖\\𝐖1𝐖&𝐖2𝐖&𝐖3𝐖\\𝐖0𝐖&𝐖3𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖=𝐖\begin{bmatrix}𝐖0𝐖&𝐖6𝐖&𝐖8𝐖\\𝐖1𝐖&𝐖2𝐖&𝐖3𝐖\\𝐖0𝐖&𝐖3𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖=B
 B
-A \colon
-B = \begin{bmatrix} ? & ? & ? \\ ? & ? & ? \\ ? & ? & ? \end{bmatrix} \begin{bmatrix} ? & ? & ? \\ ? & ? & ? \\ ? & ? & ? \end{bmatrix} A
-A = \begin{bmatrix} 1 & 2 & 1 \\ 2 & 0 & -2 \\ -1 & 2 & -1 \end{bmatrix} .
-A,
--2
-A_1 .
-A = \begin{bmatrix} 1 & 2 & 1 \\ 2 & 0 & -2 \\ -1 & 2 & -1 \end{bmatrix} \sim \begin{bmatrix} 1 & 2 & 1 \\ 0 & -4 & -4 \\ -1 & 2 & -1 \end{bmatrix} =A_1 .
+A𝐖\colon𝐖
+B𝐖=𝐖\begin{bmatrix}𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\\𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\\𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\end{bmatrix}𝐖𝐖\begin{bmatrix}𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\\𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\\𝐖?𝐖&𝐖?𝐖&𝐖?𝐖\end{bmatrix}𝐖A
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖&𝐖1𝐖\\𝐖2𝐖&𝐖0𝐖&𝐖𝐖-2𝐖\\𝐖𝐖-1𝐖&𝐖2𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖.
+A,𝐖
+𝐖-2
+A_1𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖&𝐖1𝐖\\𝐖2𝐖&𝐖0𝐖&𝐖𝐖-2𝐖\\𝐖𝐖-1𝐖&𝐖2𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖\sim𝐖𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖𝐖-4𝐖&𝐖𝐖-4𝐖\\𝐖𝐖-1𝐖&𝐖2𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖=A_1𝐖𝐖.
 A
-L_1 = \begin{bmatrix} 1 & 0 & 0 \\ -2 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}
-L_1 A =A_1 .
-L_1
-L_1^{ -1} .
-L_1
-L_1^{ -1} .
+L_1𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖0𝐖\\𝐖𝐖-2𝐖&𝐖1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖\end{bmatrix}𝐖
+L_1𝐖A𝐖=A_1𝐖𝐖.
+L_1𝐖
+L_1^{𝐖-1}𝐖𝐖.
+L_1𝐖
+L_1^{𝐖-1}𝐖𝐖.
 A
 U
-A = \begin{bmatrix} 1 & 2 & 1 \\ 2 & 0 & -2 \\ -1 & 2 & -1 \end{bmatrix} \sim \begin{bmatrix} 1 & 2 & 1 \\ 0 & -4 & -4 \\ 0 & 0 & -4 \end{bmatrix} =U .
-L_2
-L_3
-L_3 L_2 L_1 A =U .
-L_3 L_2 L_1
-A =LU .
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖&𝐖1𝐖\\𝐖2𝐖&𝐖0𝐖&𝐖𝐖-2𝐖\\𝐖𝐖-1𝐖&𝐖2𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖\sim𝐖𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖𝐖-4𝐖&𝐖𝐖-4𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖𝐖-4𝐖\end{bmatrix}𝐖𝐖=U𝐖.
+L_2𝐖
+L_3𝐖
+L_3𝐖L_2𝐖L_1𝐖A𝐖=U𝐖.
+L_3𝐖L_2𝐖L_1𝐖
+A𝐖=LU𝐖.
 L
-L ?
-S = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 3 & 0 \\ 0 & 0 & 1 \end{bmatrix}, P = \begin{bmatrix} 0 & 0 & 1 \\ 0 & 1 & 0 \\ 1 & 0 & 0 \end{bmatrix} .
+L𝐖?
+S𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖3𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖\end{bmatrix}𝐖,𝐖P𝐖=𝐖\begin{bmatrix}𝐖0𝐖&𝐖0𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖0𝐖\\𝐖1𝐖&𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖𝐖.
 A
 S
 P
 S
 P
-\mathbb R^p
+\mathbb𝐖R𝐖^p𝐖
 A
-T(\mathbf x) =A\mathbf x .
-A = \begin{bmatrix} 2 & 0 \\ 0 & 1 \end{bmatrix} .
-A = \begin{bmatrix} 2 & 0 \\ 0 & 2 \end{bmatrix} .
-A = \begin{bmatrix} 0 & -1 \\ 1 & 0 \end{bmatrix} .
-A = \begin{bmatrix} 1 & 1 \\ 0 & 1 \end{bmatrix} .
-A = \begin{bmatrix} -1 & 0 \\ 0 & 1 \end{bmatrix} .
-A = \begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix} .
-A = \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix} .
-A = \begin{bmatrix} 1 & -1 \\ -2 & 2 \end{bmatrix} .
-T \colon \mathbb R^2 \to \mathbb R^2 .
-T(\mathbf x) =\mathbf x .
-I .
-\mathbb R^2
-y =x .
-y =x
-T \colon \mathbb R^2 \to \mathbb R^2 .
-90\circ .
+T(\mathbf𝐖x𝐖)𝐖=A\mathbf𝐖x𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖2𝐖\end{bmatrix}𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖0𝐖&𝐖𝐖-1𝐖\\𝐖1𝐖&𝐖0𝐖\end{bmatrix}𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖𝐖-1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖𝐖-1𝐖\\𝐖𝐖-2𝐖&𝐖2𝐖\end{bmatrix}𝐖𝐖.
+T𝐖\colon𝐖\mathbb𝐖R𝐖^2𝐖𝐖\to𝐖\mathbb𝐖R𝐖^2𝐖𝐖.
+T(\mathbf𝐖x𝐖)𝐖=\mathbf𝐖x𝐖𝐖.
+I𝐖.
+\mathbb𝐖R𝐖^2𝐖
+y𝐖=x𝐖.
+y𝐖=x
+T𝐖\colon𝐖\mathbb𝐖R𝐖^2𝐖𝐖\to𝐖\mathbb𝐖R𝐖^2𝐖𝐖.
+90\circ𝐖.
 90\circ
-y =x
-y =x
-90\circ .
+y𝐖=x
+y𝐖=x
+90\circ𝐖.
 90\circ
 90\circ
 T
-90\circ,
-T \circ T \circ T \circ T .
-\theta
-\begin{bmatrix} \cos \theta & -\sin \theta \\ \sin \theta & \cos \theta \end{bmatrix} .
-\mathbb R^p
-A =PDP^{ -1}
-P = \begin{bmatrix} 1 & -1 \\ 1 & 2 \end{bmatrix}, D = \begin{bmatrix} 2 & 0 \\ 0 & -3 \end{bmatrix} .
+90\circ,𝐖
+T𝐖\circ𝐖T𝐖\circ𝐖T𝐖\circ𝐖T𝐖.
+\theta𝐖
+𝐖\begin{bmatrix}𝐖\cos𝐖\theta𝐖𝐖&𝐖𝐖-\sin𝐖\theta𝐖𝐖\\𝐖\sin𝐖\theta𝐖𝐖&𝐖\cos𝐖\theta𝐖𝐖\end{bmatrix}𝐖𝐖.
+\mathbb𝐖R𝐖^p𝐖
+A𝐖=PDP^{𝐖-1}𝐖
+P𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖𝐖-1𝐖\\𝐖1𝐖&𝐖2𝐖\end{bmatrix}𝐖,𝐖D𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖𝐖-3𝐖\end{bmatrix}𝐖𝐖.
 A
-\mscrB
-\mathbb R^2
+\mscrB𝐖
+\mathbb𝐖R𝐖^2𝐖
 A
-\mathbf x = \begin{bmatrix} 1 \\ 4 \end{bmatrix}
-A\mathbf x
-\{\mathbf x \}_\mscrB,
-\mathbf x
-\mscrB ?
-\{A\mathbf x \}_\mscrB,
-A\mathbf x
-\mscrB ?
-\{A^4 \mathbf x \}_\mscrB,
-A^4 \mathbf x
-\mscrB ?
+\mathbf𝐖x𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖4𝐖\end{bmatrix}𝐖
+A\mathbf𝐖x𝐖
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖,𝐖
+\mathbf𝐖x𝐖
+\mscrB𝐖𝐖?
+\{A\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖,𝐖
+A\mathbf𝐖x𝐖
+\mscrB𝐖𝐖?
+\{A^4𝐖\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖,𝐖
+A^4𝐖\mathbf𝐖x𝐖
+\mscrB𝐖𝐖?
 R
 S
-R_0
-S_0;
+R_0𝐖
+S_0𝐖;𝐖
 k
-R_k
-S_k .
-R_{k +1} & \lt mi/> =0.9R_k +0.8S_k \\ S_{k +1} & \lt mi/> =0.2R_k +0.9S_k .
-\mathbf x_k = \begin{bmatrix} R_k \\ S_k \end{bmatrix}
-\mathbf x_{k +1} =A\mathbf x_k
-A = \begin{bmatrix} 0.9 & 0.8 \\ 0.2 & 0.9 \end{bmatrix} .
-\mathbf v_1 = \begin{bmatrix} 2 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} -2 \\ 1 \end{bmatrix}
+R_k𝐖
+S_k𝐖𝐖.
+R_{k𝐖+1}𝐖𝐖&𝐖\lt𝐖mi/>𝐖=0.9R_k𝐖𝐖+0.8S_k𝐖𝐖\\𝐖S_{k𝐖+1}𝐖𝐖&𝐖\lt𝐖mi/>𝐖=0.2R_k𝐖𝐖+0.9S_k𝐖𝐖.
+\mathbf𝐖x𝐖_k𝐖𝐖=𝐖\begin{bmatrix}𝐖R_k𝐖𝐖\\𝐖S_k𝐖𝐖\end{bmatrix}𝐖
+\mathbf𝐖x𝐖_{k𝐖+1}𝐖𝐖=A\mathbf𝐖x𝐖_k𝐖
+A𝐖=𝐖\begin{bmatrix}𝐖0.9𝐖&𝐖0.8𝐖\\𝐖0.2𝐖&𝐖0.9𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖v𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-2𝐖\\𝐖1𝐖\end{bmatrix}𝐖
 A
-\mathbf x_0 = \begin{bmatrix} 2 \\ 3 \end{bmatrix} .
-\mathbf x_0
-\mathbf v_1
-\mathbf v_2 .
-\mathbf x_1,
-\mathbf x_2,
-\mathbf x_3
-\mathbf v_1
-\mathbf v_2 .
+\mathbf𝐖x𝐖_0𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖3𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖x𝐖_0𝐖
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖.
+\mathbf𝐖x𝐖_1𝐖,𝐖
+\mathbf𝐖x𝐖_2𝐖,𝐖
+\mathbf𝐖x𝐖_3𝐖
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖.
 k
-R_k /S_k ?
-R_{k +1} & \lt mi/> =0.9R_k +0.8S_k \\ S_{k +1} & \lt mi/> =0.2R_k +0.9S_k .
-\mathbf x_k = \begin{bmatrix} R_k \\ S_k \end{bmatrix}
-\mathbf x_{k +1} =A\mathbf x_k
-A = \begin{bmatrix} 0.9 & 0.8 \\ 0.2 & 0.9 \end{bmatrix} .
-\mathbf x_0 = \begin{bmatrix} 4 \\ 4 \end{bmatrix} .
-R_k /S_k
+R_k𝐖/S_k𝐖𝐖?
+R_{k𝐖+1}𝐖𝐖&𝐖\lt𝐖mi/>𝐖=0.9R_k𝐖𝐖+0.8S_k𝐖𝐖\\𝐖S_{k𝐖+1}𝐖𝐖&𝐖\lt𝐖mi/>𝐖=0.2R_k𝐖𝐖+0.9S_k𝐖𝐖.
+\mathbf𝐖x𝐖_k𝐖𝐖=𝐖\begin{bmatrix}𝐖R_k𝐖𝐖\\𝐖S_k𝐖𝐖\end{bmatrix}𝐖
+\mathbf𝐖x𝐖_{k𝐖+1}𝐖𝐖=A\mathbf𝐖x𝐖_k𝐖
+A𝐖=𝐖\begin{bmatrix}𝐖0.9𝐖&𝐖0.8𝐖\\𝐖0.2𝐖&𝐖0.9𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖x𝐖_0𝐖𝐖=𝐖\begin{bmatrix}𝐖4𝐖\\𝐖4𝐖\end{bmatrix}𝐖𝐖.
+R_k𝐖/S_k𝐖
 k
-R_k /S_k
+R_k𝐖/S_k𝐖
 k
 R
 S
 R
 S
 k
-\mathbf x_k = \begin{bmatrix} R_k \\ S_k \end{bmatrix}
-\mathbf x_{k +1} =A\mathbf x_k .
-2 \times 2
-\mathbf x_{k +1} =A\mathbf x_k,
-| \lambda_1 |, | \lambda_2 | \lt 1
-| \lambda_1 | >1
-| \lambda_2 | \lt 1
-E_{\lambda_1} .
-| \lambda_1 |, | \lambda_2 | >1
-A = \begin{bmatrix} 0.7 & 0 \\ 0 & 1.6 \end{bmatrix} .
-A = \begin{bmatrix} 0.7 & 0.3 \\ 0 & 1.6 \end{bmatrix} .
+\mathbf𝐖x𝐖_k𝐖𝐖=𝐖\begin{bmatrix}𝐖R_k𝐖𝐖\\𝐖S_k𝐖𝐖\end{bmatrix}𝐖
+\mathbf𝐖x𝐖_{k𝐖+1}𝐖𝐖=A\mathbf𝐖x𝐖_k𝐖𝐖.
+2𝐖\times𝐖2
+\mathbf𝐖x𝐖_{k𝐖+1}𝐖𝐖=A\mathbf𝐖x𝐖_k𝐖,𝐖
+|𝐖\lambda𝐖_1𝐖|,𝐖|𝐖\lambda𝐖_2𝐖|𝐖\lt𝐖1
+|𝐖\lambda𝐖_1𝐖|𝐖>1
+|𝐖\lambda𝐖_2𝐖|𝐖\lt𝐖1
+E_{\lambda𝐖_1𝐖}𝐖𝐖.
+|𝐖\lambda𝐖_1𝐖|,𝐖|𝐖\lambda𝐖_2𝐖|𝐖>1
+A𝐖=𝐖\begin{bmatrix}𝐖0.7𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖1.6𝐖\end{bmatrix}𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖0.7𝐖&𝐖0.3𝐖\\𝐖0𝐖&𝐖1.6𝐖\end{bmatrix}𝐖𝐖.
 S
-R .
-A = \begin{bmatrix} 0.7 & 0.5 \\ -0.4 & 1.6 \end{bmatrix} .
-A = \begin{bmatrix} 0.5 & 0.2 \\ -0.4 & 1.1 \end{bmatrix} .
-J_k,
-Y_k,
-A_k,
-k .
-J_{k +1} =0.4A_k .
-Y_{k +1}
-A_{k +1}
-J_k,
-Y_k,
-A_k .
-\mathbf x_k = \begin{bmatrix} J_k \\ Y_k \\ A_k \end{bmatrix} .
+R𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖0.7𝐖&𝐖0.5𝐖\\𝐖𝐖-0.4𝐖&𝐖1.6𝐖\end{bmatrix}𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖0.5𝐖&𝐖0.2𝐖\\𝐖𝐖-0.4𝐖&𝐖1.1𝐖\end{bmatrix}𝐖𝐖.
+J_k𝐖,𝐖
+Y_k𝐖,𝐖
+A_k𝐖,𝐖
+k𝐖.
+J_{k𝐖+1}𝐖𝐖=0.4A_k𝐖𝐖.
+Y_{k𝐖+1}𝐖
+A_{k𝐖+1}𝐖
+J_k𝐖,𝐖
+Y_k𝐖,𝐖
+A_k𝐖𝐖.
+\mathbf𝐖x𝐖_k𝐖𝐖=𝐖\begin{bmatrix}𝐖J_k𝐖𝐖\\𝐖Y_k𝐖𝐖\\𝐖A_k𝐖𝐖\end{bmatrix}𝐖𝐖.
 A
-\mathbf x_{k +1} =A\mathbf x_k .
-A .
-A =PEP^{ -1}
+\mathbf𝐖x𝐖_{k𝐖+1}𝐖𝐖=A\mathbf𝐖x𝐖_k𝐖𝐖.
+A𝐖.
+A𝐖=PEP^{𝐖-1}𝐖
 E
 P
-E & \lt mi/> = \begin{bmatrix} 1.058 & 0 & 0 \\ 0 & -0.128 & -0.506 \\ 0 & 0.506 & -0.128 \end{bmatrix}, \\ \~ \\ P & \lt mi/> = \begin{bmatrix} 1 & 1 & 0 \\ 0.756 & -0.378 & 1.486 \\ 2.644 & -0.322 & -1.264 \end{bmatrix} .
-\mathbf x_k .
-\mathbb R^p
-\mathbb R^2
-\mscrB =\{\mathbf v_1, \mathbf v_2 \} .
-\mscrB
-\mathbf v_1 = \begin{bmatrix} 1 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} -1 \\ 0 \end{bmatrix} .
-\mathbf x
-\mscrB
-\{\mathbf x \}_\mscrB = \begin{bmatrix} -3 \\ 2 \end{bmatrix} .
-\mathbf x = \begin{bmatrix} 4 \\ 5 \end{bmatrix}
-\{\mathbf x \}_\mscrB
-\mscrB .
-C_\mscrB = \begin{bmatrix} \mathbf v_1 & \mathbf v_2 \end{bmatrix}
-\{\mathbf x \}_\mscrB
-\mscrB
-\mathbf x ?
-\mathbf x
-\{\mathbf x \}_\mscrB ?
+E𝐖&𝐖\lt𝐖mi/>𝐖=𝐖\begin{bmatrix}𝐖1.058𝐖&𝐖0𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖𝐖-0.128𝐖&𝐖𝐖-0.506𝐖\\𝐖0𝐖&𝐖0.506𝐖&𝐖𝐖-0.128𝐖\end{bmatrix}𝐖,𝐖𝐖\\𝐖\~𝐖\\𝐖P𝐖&𝐖\lt𝐖mi/>𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖1𝐖&𝐖0𝐖\\𝐖0.756𝐖&𝐖𝐖-0.378𝐖&𝐖1.486𝐖\\𝐖2.644𝐖&𝐖𝐖-0.322𝐖&𝐖𝐖-1.264𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖x𝐖_k𝐖𝐖.
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^2𝐖
+\mscrB𝐖𝐖=\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖\}𝐖.
+\mscrB𝐖
+\mathbf𝐖v𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖0𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖x𝐖
+\mscrB𝐖
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-3𝐖\\𝐖2𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖x𝐖𝐖=𝐖\begin{bmatrix}𝐖4𝐖\\𝐖5𝐖\end{bmatrix}𝐖
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖
+\mscrB𝐖𝐖.
+C_\mscrB𝐖𝐖𝐖=𝐖\begin{bmatrix}𝐖\mathbf𝐖v𝐖_1𝐖𝐖&𝐖\mathbf𝐖v𝐖_2𝐖𝐖\end{bmatrix}𝐖
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖
+\mscrB𝐖
+\mathbf𝐖x𝐖𝐖?
+\mathbf𝐖x𝐖
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖𝐖?
 A
-\mathbf v_1
-\mathbf v_2
-\lambda_1 =4
-\lambda_2 =2 .
-A( -3\mathbf v_1 +5\mathbf v_2)
-\mathbf v_1
-\mathbf v_2 .
-\{\mathbf x \}_\mscrB = \begin{bmatrix} -3 \\ 5 \end{bmatrix},
-\{A\mathbf x \}_\mscrB .
-A = \begin{bmatrix} 1 & 2 \\ 2 & 1 \end{bmatrix}, D = \begin{bmatrix} 3 & 0 \\ 0 & -1 \end{bmatrix} .
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖
+\lambda𝐖_1𝐖𝐖=4
+\lambda𝐖_2𝐖𝐖=2𝐖.
+A(𝐖-3\mathbf𝐖v𝐖_1𝐖𝐖+5\mathbf𝐖v𝐖_2𝐖)
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖.
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-3𝐖\\𝐖5𝐖\end{bmatrix}𝐖,𝐖
+\{A\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖\\𝐖2𝐖&𝐖1𝐖\end{bmatrix}𝐖,𝐖D𝐖=𝐖\begin{bmatrix}𝐖3𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖.
 A
-\mathbf v_1 = \begin{bmatrix} 1 \\ 1 \end{bmatrix}
-\mathbf v_2 = \begin{bmatrix} -1 \\ 1 \end{bmatrix}
-\lambda_1 =3
-\lambda_2 = -1 .
-\mathbb R^2
-\mscrB =\{\mathbf v_1, \mathbf v_2 \} .
-\mathbf x =2\mathbf v_1 -3\mathbf v_2,
-A\mathbf x
-\mathbf v_1
-\mathbf v_2 .
-\{\mathbf x \}_\mscrB = \begin{bmatrix} 2 \\ -3 \end{bmatrix},
-\{A\mathbf x \}_\mscrB,
-A\mathbf x
-\mscrB .
-\{\mathbf x \}_\mscrB = \begin{bmatrix} c_1 \\ c_2 \end{bmatrix},
-\{A\mathbf x \}_\mscrB,
-A\mathbf x
-\mscrB .
-\{A\mathbf x \}_\mscrB =D\{\mathbf x \}_\mscrB .
-C_\mscrB^{ -1} A\mathbf x =DC_\mscrB^{ -1} \mathbf x
-\mathbf x
-C_\mscrB^{ -1} A =DC_\mscrB^{ -1} .
-A =C_\mscrB DC_\mscrB^{ -1}
-C_\mscrB DC_\mscrB^{ -1}
+\mathbf𝐖v𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖1𝐖\end{bmatrix}𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖1𝐖\end{bmatrix}𝐖
+\lambda𝐖_1𝐖𝐖=3
+\lambda𝐖_2𝐖𝐖=𝐖-1𝐖.
+\mathbb𝐖R𝐖^2𝐖
+\mscrB𝐖𝐖=\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖\}𝐖.
+\mathbf𝐖x𝐖𝐖=2\mathbf𝐖v𝐖_1𝐖𝐖-3\mathbf𝐖v𝐖_2𝐖,𝐖
+A\mathbf𝐖x𝐖
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖.
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖𝐖-3𝐖\end{bmatrix}𝐖,𝐖
+\{A\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖,𝐖
+A\mathbf𝐖x𝐖
+\mscrB𝐖𝐖.
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖𝐖=𝐖\begin{bmatrix}𝐖c_1𝐖𝐖\\𝐖c_2𝐖𝐖\end{bmatrix}𝐖,𝐖
+\{A\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖,𝐖
+A\mathbf𝐖x𝐖
+\mscrB𝐖𝐖.
+\{A\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖𝐖=D\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖𝐖.
+C_\mscrB𝐖^{𝐖-1}𝐖A\mathbf𝐖x𝐖𝐖=DC_\mscrB𝐖^{𝐖-1}𝐖\mathbf𝐖x𝐖
+\mathbf𝐖x𝐖
+C_\mscrB𝐖^{𝐖-1}𝐖A𝐖=DC_\mscrB𝐖^{𝐖-1}𝐖𝐖.
+A𝐖=C_\mscrB𝐖𝐖DC_\mscrB𝐖^{𝐖-1}𝐖
+C_\mscrB𝐖𝐖DC_\mscrB𝐖^{𝐖-1}𝐖
 A
 D
 P
-A =PDP^{ -1} .
-A,
-A = \begin{bmatrix} 3 & -2 \\ 6 & -5 \end{bmatrix} .
-A = \begin{bmatrix} 2 & 0 \\ 0 & -5 \end{bmatrix}
+A𝐖=PDP^{𝐖-1}𝐖𝐖.
+A,𝐖
+A𝐖=𝐖\begin{bmatrix}𝐖3𝐖&𝐖𝐖-2𝐖\\𝐖6𝐖&𝐖𝐖-5𝐖\end{bmatrix}𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖𝐖-5𝐖\end{bmatrix}𝐖
 P
-D .
-A,
-A = \begin{bmatrix} -2 & 0 & 0 \\ 1 & -3 & 0 \\ 2 & 0 & -3 \end{bmatrix} .
-A,
-A = \begin{bmatrix} -2 & 0 & 0 \\ 1 & -3 & 0 \\ 2 & 1 & -3 \end{bmatrix} .
-A =PDP^{ -1}
-D = \begin{bmatrix} 3 & 0 \\ 0 & -1 \end{bmatrix}, P = \begin{bmatrix} \mathbf v_2 & \mathbf v_1 \end{bmatrix} = \begin{bmatrix} 2 & 2 \\ 1 & -1 \end{bmatrix} .
+D𝐖.
+A,𝐖
+A𝐖=𝐖\begin{bmatrix}𝐖𝐖-2𝐖&𝐖0𝐖&𝐖0𝐖\\𝐖1𝐖&𝐖𝐖-3𝐖&𝐖0𝐖\\𝐖2𝐖&𝐖0𝐖&𝐖𝐖-3𝐖\end{bmatrix}𝐖𝐖.
+A,𝐖
+A𝐖=𝐖\begin{bmatrix}𝐖𝐖-2𝐖&𝐖0𝐖&𝐖0𝐖\\𝐖1𝐖&𝐖𝐖-3𝐖&𝐖0𝐖\\𝐖2𝐖&𝐖1𝐖&𝐖𝐖-3𝐖\end{bmatrix}𝐖𝐖.
+A𝐖=PDP^{𝐖-1}𝐖
+D𝐖=𝐖\begin{bmatrix}𝐖3𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖P𝐖=𝐖\begin{bmatrix}𝐖\mathbf𝐖v𝐖_2𝐖𝐖&𝐖\mathbf𝐖v𝐖_1𝐖𝐖\end{bmatrix}𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖2𝐖\\𝐖1𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖.
 A
-A^{ -1} .
-A^3 .
-D = \begin{bmatrix} 2 & 0 \\ 0 & -1 \end{bmatrix} .
-D^2,
-D^3,
-D^4 .
-D^k
-k ?
+A^{𝐖-1}𝐖𝐖.
+A^3𝐖𝐖.
+D𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖.
+D^2𝐖,𝐖
+D^3𝐖,𝐖
+D^4𝐖𝐖.
+D^k𝐖
+k𝐖?
 A
-\mathbf v
-\lambda;
-A\mathbf v =\lambda \mathbf v .
-A^2 \mathbf v,
-\mathbf v
+\mathbf𝐖v𝐖
+\lambda𝐖;𝐖
+A\mathbf𝐖v𝐖𝐖=\lambda𝐖\mathbf𝐖v𝐖𝐖.
+A^2𝐖\mathbf𝐖v𝐖,𝐖
+\mathbf𝐖v𝐖
 A
-\lambda^2 .
-A =PDP^{ -1}
-D = \begin{bmatrix} 2 & 0 \\ 0 & -1 \end{bmatrix} .
+\lambda𝐖^2𝐖𝐖.
+A𝐖=PDP^{𝐖-1}𝐖
+D𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖𝐖.
 P
-A,
-A^2
-A^2 .
-A^2
-A^2 =(PDP^{ -1})(PDP^{ -1}) =PD(P^{ -1} P)DP^{ -1} .
-A^3,
-A^4,
-A^k .
+A,𝐖
+A^2𝐖
+A^2𝐖𝐖.
+A^2𝐖
+A^2𝐖𝐖=(PDP^{𝐖-1}𝐖)(PDP^{𝐖-1}𝐖)𝐖=PD(P^{𝐖-1}𝐖P)DP^{𝐖-1}𝐖𝐖.
+A^3𝐖,𝐖
+A^4𝐖,𝐖
+A^k𝐖𝐖.
 A
-2 \times 2
-\lambda_1 =0.5
-\lambda_2 =0.1 .
-A^k
+2𝐖\times𝐖2
+\lambda𝐖_1𝐖𝐖=0.5
+\lambda𝐖_2𝐖𝐖=0.1𝐖.
+A^k𝐖
 k
 A
 B
 P
-A =PBP^{ -1} .
+A𝐖=PBP^{𝐖-1}𝐖𝐖.
 A
 C
-A .
+A𝐖.
 A
-\lambda =a +bi,
+\lambda𝐖𝐖=a𝐖+bi,𝐖
 A
-C = \begin{bmatrix} a & -b \\ b & a \end{bmatrix} .
+C𝐖=𝐖\begin{bmatrix}𝐖a𝐖&𝐖𝐖-b𝐖\\𝐖b𝐖&𝐖a𝐖\end{bmatrix}𝐖𝐖.
 C
 r
-\theta .
-\begin{bmatrix} a & -b \\ b & a \end{bmatrix} = \begin{bmatrix} r\cos \theta & -r\sin \theta \\ r\sin \theta & r\cos \theta \end{bmatrix} = \begin{bmatrix} r & 0 \\ 0 & r \end{bmatrix} \begin{bmatrix} \cos \theta & -\sin \theta \\ \sin \theta & \cos \theta \end{bmatrix} .
+\theta𝐖𝐖.
+𝐖\begin{bmatrix}𝐖a𝐖&𝐖𝐖-b𝐖\\𝐖b𝐖&𝐖a𝐖\end{bmatrix}𝐖𝐖=𝐖\begin{bmatrix}𝐖r\cos𝐖\theta𝐖𝐖&𝐖𝐖-r\sin𝐖\theta𝐖𝐖\\𝐖r\sin𝐖\theta𝐖𝐖&𝐖r\cos𝐖\theta𝐖𝐖\end{bmatrix}𝐖𝐖=𝐖\begin{bmatrix}𝐖r𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖r𝐖\end{bmatrix}𝐖𝐖\begin{bmatrix}𝐖\cos𝐖\theta𝐖𝐖&𝐖𝐖-\sin𝐖\theta𝐖𝐖\\𝐖\sin𝐖\theta𝐖𝐖&𝐖\cos𝐖\theta𝐖𝐖\end{bmatrix}𝐖𝐖.
 C
-\theta
-r .
-A \colon
-A = \begin{bmatrix} -2 & 2 \\ -5 & 4 \end{bmatrix}
-\lambda_1 =1 +i
-\lambda_2 =1 -i .
-\lambda_1 =a +bi =1 +i .
+\theta𝐖
+r𝐖.
+A𝐖\colon𝐖
+A𝐖=𝐖\begin{bmatrix}𝐖𝐖-2𝐖&𝐖2𝐖\\𝐖𝐖-5𝐖&𝐖4𝐖\end{bmatrix}𝐖
+\lambda𝐖_1𝐖𝐖=1𝐖+i
+\lambda𝐖_2𝐖𝐖=1𝐖-i𝐖.
+\lambda𝐖_1𝐖𝐖=a𝐖+bi𝐖=1𝐖+i𝐖.
 C
 a
-b .
-(a, b)
+b𝐖.
+(a,𝐖b)
 r
-\theta .
-C .
-P = \begin{bmatrix} 1 & 1 \\ 2 & 1 \end{bmatrix} .
-A =PCP^{ -1} .
-A^k =PC^k P^{ -1} .
+\theta𝐖𝐖.
+C𝐖.
+P𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖1𝐖\\𝐖2𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖.
+A𝐖=PCP^{𝐖-1}𝐖𝐖.
+A^k𝐖𝐖=PC^k𝐖P^{𝐖-1}𝐖𝐖.
 C
-\lambda_1 =1 +i .
-\lambda_2 =1 -i .
+\lambda𝐖_1𝐖𝐖=1𝐖+i𝐖.
+\lambda𝐖_2𝐖𝐖=1𝐖-i𝐖.
 C'
-C' .
-P' = \begin{bmatrix} 1 & -1 \\ 2 & -1 \end{bmatrix},
-A =P'C'P^{ ' -1} .
-\mathbb R^p
-\mathbb R^p
-\mathbb R^p
+C'𝐖.
+P'𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖𝐖-1𝐖\\𝐖2𝐖&𝐖𝐖-1𝐖\end{bmatrix}𝐖,𝐖
+A𝐖=P'C'P^{𝐖'𝐖-1}𝐖𝐖.
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^p𝐖
 A
-2 \times 2
-\mathbf v_1
-\mathbf v_2
-A\mathbf v_1 =3\mathbf v_1, A\mathbf v_2 = -\mathbf v_2 .
-\mathbf v_1
-\mathbf v_2 .
-A(4\mathbf v_1) .
-A(\mathbf v_1 +\mathbf v_2) .
-A(4\mathbf v_1 -3\mathbf v_2) .
-A^2 \mathbf v_1 .
-A^2 (4\mathbf v_1 -3\mathbf v_2) .
-A^4 \mathbf v_1 .
-n \times n
-A,
-\mathbf v
+2𝐖\times𝐖2
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖
+A\mathbf𝐖v𝐖_1𝐖𝐖=3\mathbf𝐖v𝐖_1𝐖,𝐖A\mathbf𝐖v𝐖_2𝐖𝐖=𝐖-\mathbf𝐖v𝐖_2𝐖𝐖.
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖.
+A(4\mathbf𝐖v𝐖_1𝐖)𝐖.
+A(\mathbf𝐖v𝐖_1𝐖𝐖+\mathbf𝐖v𝐖_2𝐖)𝐖.
+A(4\mathbf𝐖v𝐖_1𝐖𝐖-3\mathbf𝐖v𝐖_2𝐖)𝐖.
+A^2𝐖\mathbf𝐖v𝐖_1𝐖𝐖.
+A^2𝐖(4\mathbf𝐖v𝐖_1𝐖𝐖-3\mathbf𝐖v𝐖_2𝐖)𝐖.
+A^4𝐖\mathbf𝐖v𝐖_1𝐖𝐖.
+n𝐖\times𝐖n
+A,𝐖
+\mathbf𝐖v𝐖
 A
-\lambda
-A\mathbf v =\lambda \mathbf v .
-\lambda
-\mathbf v .
-\mathbf v
-\lambda
-\mathbf v
-\lambda \mathbf v ?
-A\mathbf v =\lambda \mathbf v .
-\mathbf v
-A\mathbf v .
-A\mathbf v =\lambda \mathbf v,
-\mathbf v
-A\mathbf v ?
-A = \begin{bmatrix} 1 & 2 \\ 2 & 1 \end{bmatrix} .
-\mathbf v
-\mathbf v
-A\mathbf v,
-\mathbf v
-\mathbf v
-2,
-\mathbf v
-A = \begin{bmatrix} 2 & 1 \\ 0 & 2 \end{bmatrix} .
-A = \begin{bmatrix} 0 & -1 \\ 1 & 0 \end{bmatrix} .
-A ?
+\lambda𝐖
+A\mathbf𝐖v𝐖𝐖=\lambda𝐖\mathbf𝐖v𝐖𝐖.
+\lambda𝐖
+\mathbf𝐖v𝐖𝐖.
+\mathbf𝐖v𝐖
+\lambda𝐖
+\mathbf𝐖v𝐖
+\lambda𝐖\mathbf𝐖v𝐖𝐖?
+A\mathbf𝐖v𝐖𝐖=\lambda𝐖\mathbf𝐖v𝐖𝐖.
+\mathbf𝐖v𝐖
+A\mathbf𝐖v𝐖𝐖.
+A\mathbf𝐖v𝐖𝐖=\lambda𝐖\mathbf𝐖v𝐖,𝐖
+\mathbf𝐖v𝐖
+A\mathbf𝐖v𝐖𝐖?
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖\\𝐖2𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖v𝐖
+\mathbf𝐖v𝐖
+A\mathbf𝐖v𝐖,𝐖
+\mathbf𝐖v𝐖
+\mathbf𝐖v𝐖
+2,𝐖
+\mathbf𝐖v𝐖
+A𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖2𝐖\end{bmatrix}𝐖𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖0𝐖&𝐖𝐖-1𝐖\\𝐖1𝐖&𝐖0𝐖\end{bmatrix}𝐖𝐖.
+A𝐖?
 P
-Q .
+Q𝐖.
 P
 P
-Q .
+Q𝐖.
 Q
 Q
-P .
-P
-Q
+P𝐖.
 P
 Q
 P
 Q
-P_k
-Q_k
 P
-Q,
-k,
-P_{k +1} & \lt mi/> =0.8P_k +0.6Q_k \\ Q_{k +1} & \lt mi/> =0.2P_k +0.4Q_k .
-\mathbf x_k = \begin{bmatrix} P_k \\ Q_k \end{bmatrix}
-k,
-\mathbf x_{k +1} & \lt mi/> = \begin{bmatrix} 0.8 & 0.6 \\ 0.2 & 0.4 \end{bmatrix} \mathbf x_k \\ \~ \\ or\mathbf x_{k +1} & \lt mi/> =A\mathbf x_k
-A = \begin{bmatrix} 0.8 & 0.6 \\ 0.2 & 0.4 \end{bmatrix} .
-\mathbf v_1 = \begin{bmatrix} 3 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} -1 \\ 1 \end{bmatrix} .
-A\mathbf v_1
-A\mathbf v_2
-\mathbf v_1
-\mathbf v_2
-A .
-\lambda_1
-\lambda_2 ?
-\mathbf v_1 = \begin{bmatrix} 3 \\ 1 \end{bmatrix}, \mathbf v_2 = \begin{bmatrix} -1 \\ 1 \end{bmatrix}
+Q
+P_k𝐖
+Q_k𝐖
 P
-Q .
-\mathbf x_0 = \begin{bmatrix} 1000 \\ 0 \end{bmatrix} .
-\mathbf x_0
-\mathbf v_1
-\mathbf v_2 .
-\mathbf v_1
-\mathbf v_2
-A .
-\mathbf x_1 =A\mathbf x_0,
-\mathbf v_1
-\mathbf v_2 .
-\mathbf x_2 =A\mathbf x_1
-\mathbf v_1
-\mathbf v_2 .
-\mathbf v_1
-\mathbf v_2 \colon
-\mathbf x_3 =A\mathbf x_2 .
-\mathbf x_4 =A\mathbf x_3 .
-\mathbf x_5 =A\mathbf x_4 .
-\mathbf x_6 =A\mathbf x_5 .
-\mathbf x_0
-\mathbb R^p
-\mathbb R^p
-\mscrB =\{\mathbf v_1, \mathbf v_2, \ldots, \mathbf v_m \}
-\mathbb R^m .
-\{\mathbf x \}_\mscrB
-\mathbf x
-\mscrB ?
-\{\mathbf x \}_\mscrB
-\mathbf x
-\{\mathbf x \}_\mscrB = \begin{bmatrix} c_1 \\ c_2 \\ \vdots \\ c_m \end{bmatrix}
-\mathbf x =c_1 \mathbf v_1 +c_2 \mathbf v_2 +\ldots +c_m \mathbf v_m .
-\{\mathbf x \}_\mscrB,
-\mathbf x ?
-\mathbf x,
-\{\mathbf x \}_\mscrB ?
-\mscrB =\{ \begin{bmatrix} 1 \\ 3 \end{bmatrix}, \begin{bmatrix} 1 \\ 1 \end{bmatrix} \}
-\mathbb R^2 .
-\{\mathbf x \}_\mscrB = \begin{bmatrix} 1 \\ -2 \end{bmatrix},
-\mathbf x .
-\mathbf x = \begin{bmatrix} 2 \\ -4 \end{bmatrix},
-\{\mathbf x \}_\mscrB .
-\mathbb R^p
-\mathbb R^p
+Q,𝐖
+k,𝐖
+P_{k𝐖+1}𝐖𝐖&𝐖\lt𝐖mi/>𝐖=0.8P_k𝐖𝐖+0.6Q_k𝐖𝐖\\𝐖Q_{k𝐖+1}𝐖𝐖&𝐖\lt𝐖mi/>𝐖=0.2P_k𝐖𝐖+0.4Q_k𝐖𝐖.
+\mathbf𝐖x𝐖_k𝐖𝐖=𝐖\begin{bmatrix}𝐖P_k𝐖𝐖\\𝐖Q_k𝐖𝐖\end{bmatrix}𝐖
+k,𝐖
+\mathbf𝐖x𝐖_{k𝐖+1}𝐖𝐖&𝐖\lt𝐖mi/>𝐖=𝐖\begin{bmatrix}𝐖0.8𝐖&𝐖0.6𝐖\\𝐖0.2𝐖&𝐖0.4𝐖\end{bmatrix}𝐖\mathbf𝐖x𝐖_k𝐖𝐖\\𝐖\~𝐖\\𝐖or\mathbf𝐖x𝐖_{k𝐖+1}𝐖𝐖&𝐖\lt𝐖mi/>𝐖=A\mathbf𝐖x𝐖_k𝐖
+A𝐖=𝐖\begin{bmatrix}𝐖0.8𝐖&𝐖0.6𝐖\\𝐖0.2𝐖&𝐖0.4𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖v𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖3𝐖\\𝐖1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖1𝐖\end{bmatrix}𝐖𝐖.
+A\mathbf𝐖v𝐖_1𝐖
+A\mathbf𝐖v𝐖_2𝐖
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖
+A𝐖.
+\lambda𝐖_1𝐖
+\lambda𝐖_2𝐖𝐖?
+\mathbf𝐖v𝐖_1𝐖𝐖=𝐖\begin{bmatrix}𝐖3𝐖\\𝐖1𝐖\end{bmatrix}𝐖,𝐖\mathbf𝐖v𝐖_2𝐖𝐖=𝐖\begin{bmatrix}𝐖𝐖-1𝐖\\𝐖1𝐖\end{bmatrix}𝐖
+P
+Q𝐖.
+\mathbf𝐖x𝐖_0𝐖𝐖=𝐖\begin{bmatrix}𝐖1000𝐖\\𝐖0𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖x𝐖_0𝐖
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖.
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖
+A𝐖.
+\mathbf𝐖x𝐖_1𝐖𝐖=A\mathbf𝐖x𝐖_0𝐖,𝐖
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖.
+\mathbf𝐖x𝐖_2𝐖𝐖=A\mathbf𝐖x𝐖_1𝐖
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖.
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖\colon𝐖
+\mathbf𝐖x𝐖_3𝐖𝐖=A\mathbf𝐖x𝐖_2𝐖𝐖.
+\mathbf𝐖x𝐖_4𝐖𝐖=A\mathbf𝐖x𝐖_3𝐖𝐖.
+\mathbf𝐖x𝐖_5𝐖𝐖=A\mathbf𝐖x𝐖_4𝐖𝐖.
+\mathbf𝐖x𝐖_6𝐖𝐖=A\mathbf𝐖x𝐖_5𝐖𝐖.
+\mathbf𝐖x𝐖_0𝐖
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^p𝐖
+\mscrB𝐖𝐖=\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\ldots𝐖,𝐖\mathbf𝐖v𝐖_m𝐖\}
+\mathbb𝐖R𝐖^m𝐖𝐖.
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖
+\mathbf𝐖x𝐖
+\mscrB𝐖𝐖?
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖
+\mathbf𝐖x𝐖
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖𝐖=𝐖\begin{bmatrix}𝐖c_1𝐖𝐖\\𝐖c_2𝐖𝐖\\𝐖\vdots𝐖𝐖\\𝐖c_m𝐖𝐖\end{bmatrix}𝐖
+\mathbf𝐖x𝐖𝐖=c_1𝐖\mathbf𝐖v𝐖_1𝐖𝐖+c_2𝐖\mathbf𝐖v𝐖_2𝐖𝐖+\ldots𝐖𝐖+c_m𝐖\mathbf𝐖v𝐖_m𝐖𝐖.
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖,𝐖
+\mathbf𝐖x𝐖𝐖?
+\mathbf𝐖x𝐖,𝐖
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖𝐖?
+\mscrB𝐖𝐖=\{𝐖\begin{bmatrix}𝐖1𝐖\\𝐖3𝐖\end{bmatrix}𝐖,𝐖𝐖\begin{bmatrix}𝐖1𝐖\\𝐖1𝐖\end{bmatrix}𝐖\}
+\mathbb𝐖R𝐖^2𝐖𝐖.
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖𝐖-2𝐖\end{bmatrix}𝐖,𝐖
+\mathbf𝐖x𝐖𝐖.
+\mathbf𝐖x𝐖𝐖=𝐖\begin{bmatrix}𝐖2𝐖\\𝐖𝐖-4𝐖\end{bmatrix}𝐖,𝐖
+\{\mathbf𝐖x𝐖\}_\mscrB𝐖𝐖𝐖.
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^p𝐖
 A
-A = \begin{bmatrix} 2 & -1 & 2 & 3 \\ 1 & 0 & 0 & 2 \\ -2 & 2 & -4 & -2 \end{bmatrix} \sim \begin{bmatrix} 1 & 0 & 0 & 2 \\ 0 & 1 & -2 & 1 \\ 0 & 0 & 0 & 0 \end{bmatrix} .
+A𝐖=𝐖\begin{bmatrix}𝐖2𝐖&𝐖𝐖-1𝐖&𝐖2𝐖&𝐖3𝐖\\𝐖1𝐖&𝐖0𝐖&𝐖0𝐖&𝐖2𝐖\\𝐖𝐖-2𝐖&𝐖2𝐖&𝐖𝐖-4𝐖&𝐖𝐖-2𝐖\end{bmatrix}𝐖𝐖\sim𝐖𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖0𝐖&𝐖2𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖𝐖-2𝐖&𝐖1𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖𝐖.
 A
-\mathbb R^3 ?
-A\mathbf x =\mathbf 0 .
-\mathbf w_1
-\mathbf w_2
-A\mathbf x =\mathbf 0 .
-\mathbf w_1
-\mathbf w_2 ?
+\mathbb𝐖R𝐖^3𝐖𝐖?
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖0𝐖𝐖.
+\mathbf𝐖w𝐖_1𝐖
+\mathbf𝐖w𝐖_2𝐖
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖0𝐖𝐖.
+\mathbf𝐖w𝐖_1𝐖
+\mathbf𝐖w𝐖_2𝐖𝐖?
 A
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3,
-\mathbf v_4 .
-\mathbf v_3
-\mathbf v_4
-\mathbf v_1
-\mathbf v_2 .
-\mathbf v_1
-\mathbf v_2
-Span\{\mathbf v_1, \mathbf v_2 \} =Span\{\mathbf v_1, \mathbf v_2, \mathbf v_3, \mathbf v_4 \} .
-\mathbb R^p
-\mathbb R^p
-\mathbb R^2 .
-\mathbb R^2 .
-\mathbb R^2
-\mathbf 0 .
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖,𝐖
+\mathbf𝐖v𝐖_4𝐖𝐖.
+\mathbf𝐖v𝐖_3𝐖
+\mathbf𝐖v𝐖_4𝐖
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖𝐖.
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖
+Span\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖\}𝐖=Span\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖,𝐖\mathbf𝐖v𝐖_3𝐖,𝐖\mathbf𝐖v𝐖_4𝐖\}𝐖.
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^p𝐖
+\mathbb𝐖R𝐖^2𝐖𝐖.
+\mathbb𝐖R𝐖^2𝐖𝐖.
+\mathbb𝐖R𝐖^2𝐖
+\mathbf𝐖0𝐖𝐖.
 S
-\mathbb R^2
-\mathbf 0
-\mathbb R^2 .
-S =\mathbb R^2
-\mathbb R^2 .
-\mathbf v
-\mathbf w
-S,
-Span\{\mathbf v, \mathbf w \}
+\mathbb𝐖R𝐖^2𝐖
+\mathbf𝐖0𝐖
+\mathbb𝐖R𝐖^2𝐖𝐖.
+S𝐖=\mathbb𝐖R𝐖^2𝐖
+\mathbb𝐖R𝐖^2𝐖𝐖.
+\mathbf𝐖v𝐖
+\mathbf𝐖w𝐖
+S,𝐖
+Span\{\mathbf𝐖v𝐖,𝐖\mathbf𝐖w𝐖\}
 S
 S
-\mathbb R^p
+\mathbb𝐖R𝐖^p𝐖
 S
-S .
-S,
-\dim S,
+S𝐖.
+S,𝐖
+\dim𝐖S,𝐖
 A
-m \times n
-\mathbf x
-\mathbb R^n
-A\mathbf x =\mathbf 0
-A .
-Nul(A) .
-A = \begin{bmatrix} 1 & 3 & -1 \\ -2 & 0 & -4 \\ 1 & 2 & 0 \end{bmatrix}
-Nul(A) .
-Nul(A) .
+m𝐖\times𝐖n
+\mathbf𝐖x𝐖
+\mathbb𝐖R𝐖^n𝐖
+A\mathbf𝐖x𝐖𝐖=\mathbf𝐖0𝐖
+A𝐖.
+Nul(A)𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖3𝐖&𝐖𝐖-1𝐖\\𝐖𝐖-2𝐖&𝐖0𝐖&𝐖𝐖-4𝐖\\𝐖1𝐖&𝐖2𝐖&𝐖0𝐖\end{bmatrix}𝐖
+Nul(A)𝐖.
+Nul(A)𝐖.
 Nul(A)
-\mathbb R^p
-p ?
+\mathbb𝐖R𝐖^p𝐖
+p𝐖?
 A
-A \sim \begin{bmatrix} 1 & 2 & 0 & -3 \\ 0 & 0 & 1 & 2 \end{bmatrix} .
-Nul(A) .
-Nul(A) .
-Nul(A) ?
+A𝐖\sim𝐖𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖&𝐖0𝐖&𝐖𝐖-3𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖&𝐖2𝐖\end{bmatrix}𝐖𝐖.
+Nul(A)𝐖.
+Nul(A)𝐖.
+Nul(A)𝐖?
 Nul(A)
-\mathbb R^p
-p ?
-A,
+\mathbb𝐖R𝐖^p𝐖
+p𝐖?
+A,𝐖
 A
-Nul(A) ?
+Nul(A)𝐖?
 A
-Nul(A) ?
+Nul(A)𝐖?
 A
-n \times n
-Nul(A) ?
+n𝐖\times𝐖n
+Nul(A)𝐖?
 A
-5 \times 10
-Nul(A) =\mathbb R^{10} .
-A ?
-A,
-rank(A),
-A .
+5𝐖\times𝐖10
+Nul(A)𝐖=\mathbb𝐖R𝐖^{10}𝐖𝐖.
+A𝐖?
+A,𝐖
+rank(A),𝐖
+A𝐖.
 A
-m \times n
+m𝐖\times𝐖n
 A
-Col(A) .
-A = \begin{bmatrix} \mathbf v_1 & \mathbf v_2 & \mathbf v_3 \end{bmatrix} = \begin{bmatrix} 1 & 3 & -1 \\ -2 & 0 & -4 \\ 1 & 2 & 0 \end{bmatrix} .
+Col(A)𝐖.
+A𝐖=𝐖\begin{bmatrix}𝐖\mathbf𝐖v𝐖_1𝐖𝐖&𝐖\mathbf𝐖v𝐖_2𝐖𝐖&𝐖\mathbf𝐖v𝐖_3𝐖𝐖\end{bmatrix}𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖3𝐖&𝐖𝐖-1𝐖\\𝐖𝐖-2𝐖&𝐖0𝐖&𝐖𝐖-4𝐖\\𝐖1𝐖&𝐖2𝐖&𝐖0𝐖\end{bmatrix}𝐖𝐖.
 Col(A)
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3
-Col(A) .
-\mathbf v_3
-\mathbf v_1
-\mathbf v_2
-Col(A) =Span\{\mathbf v_1, \mathbf v_2 \} .
-\mathbf v_1
-\mathbf v_2
-Col(A) .
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖
+Col(A)𝐖.
+\mathbf𝐖v𝐖_3𝐖
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖
+Col(A)𝐖=Span\{\mathbf𝐖v𝐖_1𝐖,𝐖\mathbf𝐖v𝐖_2𝐖\}𝐖.
+\mathbf𝐖v𝐖_1𝐖
+\mathbf𝐖v𝐖_2𝐖
+Col(A)𝐖.
 Col(A)
-\mathbb R^3
-\mathbb R^3 .
+\mathbb𝐖R𝐖^3𝐖
+\mathbb𝐖R𝐖^3𝐖𝐖.
 A
-A = \begin{bmatrix} -2 & -4 & 0 & 6 \\ 1 & 2 & 0 & -3 \end{bmatrix} \sim \begin{bmatrix} 1 & 2 & 0 & -3 \\ 0 & 0 & 0 & 0 \end{bmatrix} .
-\mathbf v_1,
-\mathbf v_2,
-\mathbf v_3,
-\mathbf v_4 .
-\mathbf v_2,
-\mathbf v_3,
-\mathbf v_4
-\mathbf v_1 .
+A𝐖=𝐖\begin{bmatrix}𝐖𝐖-2𝐖&𝐖𝐖-4𝐖&𝐖0𝐖&𝐖6𝐖\\𝐖1𝐖&𝐖2𝐖&𝐖0𝐖&𝐖𝐖-3𝐖\end{bmatrix}𝐖𝐖\sim𝐖𝐖\begin{bmatrix}𝐖1𝐖&𝐖2𝐖&𝐖0𝐖&𝐖𝐖-3𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖\end{bmatrix}𝐖𝐖.
+\mathbf𝐖v𝐖_1𝐖,𝐖
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖,𝐖
+\mathbf𝐖v𝐖_4𝐖𝐖.
+\mathbf𝐖v𝐖_2𝐖,𝐖
+\mathbf𝐖v𝐖_3𝐖,𝐖
+\mathbf𝐖v𝐖_4𝐖
+\mathbf𝐖v𝐖_1𝐖𝐖.
 Col(A)
-\mathbb R^2
-\dim Col(A)
-rank(A) ?
+\mathbb𝐖R𝐖^2𝐖
+\dim𝐖Col(A)
+rank(A)𝐖?
 Col(A)
-Nul(A) ?
+Nul(A)𝐖?
 A
-9 \times 9
-Col(A) ?
-Col(A) =\{\mathbf 0 \},
-A ?
-A .
-A ?
-A .
-A ?
-A = \begin{bmatrix} 1 & -3 & 2 \\ 2 & -6 & 0 \\ 0 & 0 & 1 \\ -1 & 3 & 1 \end{bmatrix} .
+9𝐖\times𝐖9
+Col(A)𝐖?
+Col(A)𝐖=\{\mathbf𝐖0𝐖\},𝐖
+A𝐖?
+A𝐖.
+A𝐖?
+A𝐖.
+A𝐖?
+A𝐖=𝐖\begin{bmatrix}𝐖1𝐖&𝐖𝐖-3𝐖&𝐖2𝐖\\𝐖2𝐖&𝐖𝐖-6𝐖&𝐖0𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖\\𝐖𝐖-1𝐖&𝐖3𝐖&𝐖1𝐖\end{bmatrix}𝐖𝐖.
 A
-m \times n
-\dim Nul(A) +\dim Col(A) =n
-A .
+m𝐖\times𝐖n
+\dim𝐖Nul(A)𝐖+\dim𝐖Col(A)𝐖=n
+A𝐖.

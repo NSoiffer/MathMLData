@@ -280,7 +280,7 @@ A = [[-1, 0, 3], [1, -1, 0], [1, 0, 1]],
 2
 bb x
 A,
-["(4.1.1)", (A-lambda I_n)bb x='\\y01d7ce',]
+["(4.1.1)", (A-lambda I_n)bb x=bb 0,]
 I_n
 n xx n
 lambda
@@ -304,7 +304,7 @@ A
 lambda:
 lambda
 A.
-E_ lambda(A) != {'\\y01d7ce'}
+E_ lambda(A) != {bb 0}
 det(A-lambda I_n) = 0
 p_A(x) = det(xI_n-A)
 A.
@@ -437,20 +437,20 @@ bb v_1
 k-1
 bb v_1, ..., bb v_k
 lambda_1, ..., lambda_k.
-c_1 bb v_1+c_2 bb v_2+cdots+c_k bb v_k = '\\y01d7ce',
+c_1 bb v_1+c_2 bb v_2+cdots+c_k bb v_k = bb 0,
 c_1, ..., c_k.
 A,
-["(4.1.3)", '\\y01d7ce', "<mi//>"=A'\\y01d7ce'], ["(4.1.4)", A(c_1 bb v_1+c_2 bb v_2+cdots+c_k bb v_k)], ["(4.1.5)", \ , "<mi//>"=c_1 Abb v_1+c_2 Abb v_2+cdots+c_k Abb v_k], ["(4.1.6)", \ , "<mi//>"=c_1 lambda_1 bb v_1+c_2 lambda_2 bb v_2+cdots+c_k lambda_k bb v_k.]
+["(4.1.3)", bb 0, "<mi//>"=Abb 0], ["(4.1.4)", A(c_1 bb v_1+c_2 bb v_2+cdots+c_k bb v_k)], ["(4.1.5)", \ , "<mi//>"=c_1 Abb v_1+c_2 Abb v_2+cdots+c_k Abb v_k], ["(4.1.6)", \ , "<mi//>"=c_1 lambda_1 bb v_1+c_2 lambda_2 bb v_2+cdots+c_k lambda_k bb v_k.]
 lambda_1,
-["(4.1.7)", '\\y01d7ce'=c_1 lambda_1 bb v_1+c_2 lambda_1 bb v_2+cdots+c_k lambda_1 bb v_k.]
-c_2(lambda_2-lambda_1)bb v_2+cdots+c_k(lambda_k-lambda_1)bb v_k = '\\y01d7ce'.
+["(4.1.7)", bb 0=c_1 lambda_1 bb v_1+c_2 lambda_1 bb v_2+cdots+c_k lambda_1 bb v_k.]
+c_2(lambda_2-lambda_1)bb v_2+cdots+c_k(lambda_k-lambda_1)bb v_k = bb 0.
 {bb v_2, ..., bb v_k}
 k-1
 lambda_j-lambda_1 != 0
 j = 2, ..., k,
 c_2 = 0, ..., c_k = 0.
-c_1 bb v_1 = '\\y01d7ce',
-bb z_1 != '\\y01d7ce',
+c_1 bb v_1 = bb 0,
+bb z_1 != bb 0,
 c_1 = 0
 E_ lambda(A)
 lambda,
@@ -542,7 +542,7 @@ V
 T,
 T
 "ker"T
-T(bb v) = '\\y01d7ce'
+T(bb v) = bb 0
 bb v in "ker"T.
 E_ lambda(T) = "ker"(T-lambda I),
 T-lambda I
@@ -555,7 +555,7 @@ G_ lambda(T)
 k
 G_ lambda(T).
 T:V -> V
-{'\\y01d7ce'} sube "ker"T sube "ker"T^2 sube cdots sube "ker"T^k sube cdots
+{bb 0} sube "ker"T sube "ker"T^2 sube cdots sube "ker"T^k sube cdots
 "ker"T^(k+1) = "ker"T^k
 k,
 "ker"T^(k+m) = "ker"T^k
@@ -952,9 +952,9 @@ T(bb u_i) in U
 i = 1, 2, ..., k.
 T:V -> V,
 T
-{'\\y01d7ce'}, V, "ker"T, "\and\ ""im"T.
+{bb 0}, V, "ker"T, "\and\ ""im"T.
 T
-"ker"T = {'\\y01d7ce'}
+"ker"T = {bb 0}
 "im"T = V.
 T,
 "ker"T
@@ -1006,7 +1006,7 @@ lambda,
 T:V -> V,
 E_ lambda(T) = "ker"(T-lambda 1_V) = {bb v in V|T(bb v) = lambda bb v}.
 lambda,
-E_ lambda(T) = {'\\y01d7ce'}.
+E_ lambda(T) = {bb 0}.
 lambda
 E_ lambda(T)
 T.
@@ -1036,9 +1036,9 @@ bb v in U+W,
 bb u in U
 bb w in W
 bb v = bb u+bb w,
-U nn W = {'\\y01d7ce'}.
+U nn W = {bb 0}.
 U+W
-U nn W = {'\\y01d7ce'}
+U nn W = {bb 0}
 Uo+W.
 V.
 V = Uo+W,
@@ -1056,15 +1056,15 @@ B = {bb e_1, ..., bb e_k, bb e_(k+1), ..., bb e_n}
 V.
 W = "span"{bb e_(k+1), ..., bb e_n}.
 U+W = V,
-U nn W = {'\\y01d7ce'},
+U nn W = {bb 0},
 bb v in U nn W,
 bb v in U
 bb v in W,
 bb v = a_1 bb e_1+cdots+a_k bb e_bb k = b_1 bb e_(k+1)+cdots+b_(n-k)e_n,
-a_1 bb e_1+cdots+a_k bb e_k-b_1 bb e_(k+1)-cdots-b_(n-k)bb e_n = '\\y01d7ce',
+a_1 bb e_1+cdots+a_k bb e_k-b_1 bb e_(k+1)-cdots-b_(n-k)bb e_n = bb 0,
 a_1 = cdots b_(n-k) = 0
 B,
-bb v = '\\y01d7ce'.
+bb v = bb 0.
 V = Uo+W,
 {bb u_1, bb u_2, ..., bb u_k}
 U
@@ -1077,9 +1077,9 @@ V,
 V
 bb v = bb u+bb w
 bb u in U, bb w in W.
-a_1 bb u_1+cdots+a_k bb u_k+b_1 bb w_1+cdots b_l bb w_l = '\\y01d7ce'
+a_1 bb u_1+cdots+a_k bb u_k+b_1 bb w_1+cdots b_l bb w_l = bb 0
 a_1 bb u_1+cdots+a_k bb u_k = -b_1 bb w_1-cdots-b_l bb w_l,
-U nn W = {'\\y01d7ce'}.
+U nn W = {bb 0}.
 {bb u_1, bb u_2, ..., bb u_k}
 a_i
 {bb w_1, bb w_2, ..., bb w_l}
@@ -1191,7 +1191,7 @@ V
 V,
 bb v in V,
 varphi(bb v, bb v) >= 0,
-bb v = '\\y01d7ce'.
+bb v = bb 0.
 omega
 V
 V,
@@ -1276,7 +1276,7 @@ lambda_+- = 1/2(1+-sqrt(5)),
 bb x_+- = [[1], [lambda_+- ]].
 P = [[1, 1], [lambda_+ , lambda_- ]],
 D = [[lambda_+ , 0], [0, lambda_- ]],
-bb a_'\\y01d7ce' = [[a_0], [a_1]] = P^(-1)bb v_0,
+bb a_bb 0 = [[a_0], [a_1]] = P^(-1)bb v_0,
 bb v_0 = [[1], [1]]
 [bb v_n, "<mi//>"=PD^n P^(-1)bb v_0], [\ , "<mi//>"=a_0 lambda_+^n bb x_+ +a_1 lambda_-^n bb x_- .]
 lambda_+
@@ -1457,14 +1457,14 @@ bb u
 bb u
 S = {bb v_1, ..., bb v_n}
 bb u!in"span"S.
-abb u+c_1 bb v_1+c_2 bb v_2+cdots+c_n bb b_n = '\\y01d7ce'
+abb u+c_1 bb v_1+c_2 bb v_2+cdots+c_n bb b_n = bb 0
 a, c_1, ..., c_n.
 a = 0;
 1/a
 bb u = - (c_1)/a bb v_1-cdots- (c_n)/a bb v_n,
 bb u in "span"S,
 a = 0
-c_1 bb v_1+c_2 bb v_2+cdots+c_n bb b_n = '\\y01d7ce',
+c_1 bb v_1+c_2 bb v_2+cdots+c_n bb b_n = bb 0,
 S
 c_1 = c_2 = cdots = c_n = 0.
 a = 0,
@@ -1500,7 +1500,7 @@ bb v,
 {bb v}
 V,
 V
-bb v != '\\y01d7ce'
+bb v != bb 0
 V,
 {bb v}
 V,
@@ -1704,7 +1704,7 @@ bb v_(m+1) = bb x-( (bb x*bb v_1)/('\\x002016'bb v_1'\\x002016'^2) bb v_1+cdots+
 bb v_(m+1)*bb v_i = 0
 i = 1, ..., m.
 bb x!in"span"{bb v_1, ..., bb v_m},
-bb v_(m+1) != '\\y01d7ce',
+bb v_(m+1) != bb 0,
 {bb v_1, ..., bb v_m, bb v_(m+1)}
 bb v_(m+1).
 bb v_i*bb v_j = 0
@@ -1713,13 +1713,13 @@ i = 1, ...m,
 bb v_(m+1)*bb v_i = bb x*bb v_i- (bb x*bb v_i)/('\\x002016'bb v_i'\\x002016'^2) (bb v_i*bb v_i) = 0,
 bb v_i*bb v_j = 0
 i != j.
-bb v_(m+1) = '\\y01d7ce'
+bb v_(m+1) = bb 0
 bb x in "span"{bb v_1, ..., bb v_m},
 {bb v_1, ..., bb v_m, bb v_(m+1)}
 U sube RR^n,
 U
 U.
-U = {'\\y01d7ce'},
+U = {bb 0},
 bb x_1 in U,
 bb v_1.
 U != "span"{bb v_1},
@@ -1830,8 +1830,8 @@ V
 U sube V
 U
 V
-'\\y01d7ce'in U,
-'\\y01d7ce'
+bb 0 in U,
+bb 0
 V.
 U
 bb u_1, bb u_2 in U,
@@ -1842,18 +1842,18 @@ c in RR,
 cbb u in U.
 U
 bb u in U,
-'\\y01d7ce' = 0bb u in U.
+bb 0 = 0bb u in U.
 U
 V;
 (-1)bb u in U
 bb u in U,
 (-1)bb u = -bb u
-'\\y01d7ce'in U
+bb 0 in U
 U
-'\\y01d7ce'
-0bb v = '\\y01d7ce'.
+bb 0
+0bb v = bb 0.
 V,
-{'\\y01d7ce'}
+{bb 0}
 V = P(RR)
 n,
 U
@@ -1870,8 +1870,8 @@ S = {(x, y)|x = y^2}
 2(1, 1) = (2, 2)
 S.
 RR^3,
-{'\\y01d7ce'} sube RR^3,
-{tbb v|bb v in RR^3, bb v != '\\y01d7ce'}.
+{bb 0} sube RR^3,
+{tbb v|bb v in RR^3, bb v != bb 0}.
 bb v.
 {sbb v+tbb w|bb v, bb w in RR^3},
 bb v, bb w
@@ -1881,7 +1881,7 @@ bb w = cbb v
 c,
 sbb v+tbb w = sbb v+t(cbb v) = sbb v+(tc)bb v = (s+tc)bb v,
 bb v;
-bb v xx bb w != '\\y01d7ce'.
+bb v xx bb w != bb 0.
 bb v xx bb w
 RR^3 sube RR^3
 RR^3
@@ -1931,8 +1931,8 @@ p(1) = p(2)
 a+b+c+d = 8a+4b+2c+d,
 7a+3b+c = 0,
 7a+3b+c = 0,
-'\\y01d7ce'
-'\\y01d7ce'(1) = '\\y01d7ce'(2),
+bb 0
+bb 0(1) = bb 0(2),
 p(x), q(x)
 p(1) = p(2)
 q(1) = q(2).
@@ -2192,7 +2192,7 @@ z =
 bbb F.
 bbb F = RR.
 bbb F = ZZ_2 = {0, 1},
-bb v+bb v = '\\y01d7ce',
+bb v+bb v = bb 0,
 1+1 = 0.
 RR
 CC,
@@ -2216,7 +2216,7 @@ CC^n:
 '\\x0027e8'bb z, bb z'\\x0027e9' = z_1 bar z_1+z_2 bar z_2+cdots+z_n bar z_n = |z_1|^2+|z_2|^2+cdots+|z_n|^2,
 '\\x0027e8'bb z, bb z'\\x0027e9' >= 0,
 '\\x0027e8'bb z, bb z'\\x0027e9' = 0
-bb z = '\\y01d7ce'.
+bb z = bb 0.
 bb z = (2-i, 3i, 4+2i)
 bb w = (3i, 4-5i, -2+2i).
 -22-6i
@@ -2229,7 +2229,7 @@ alpha,
 '\\x0027e8'bb z_2, bb z_1'\\x0027e9' = bar('\\x0027e8'bb z_1,bb z_2'\\x0027e9')
 '\\x0027e8'bb z_1, bb z_1'\\x0027e9' >= 0,
 '\\x0027e8'bb z_1, bb z_1'\\x0027e9' = 0
-bb z_1 = '\\y01d7ce'.
+bb z_1 = bb 0.
 ['\\x0027e8'bb z_1+bb z_2,bb z_3'\\x0027e9', "<mi//>"=(bb z_1+bb z_2)^T bar(bb z_3)], [\ , "<mi//>"=(bb z_1^T+bb z_2^T) bar(bb z_3)], [\ , "<mi//>"=bb z_1^T bar(bb z_3)+bb z_2^T bar(bb z_3)], [\ , "<mi//>"='\\x0027e8'bb z_1,bb z_3'\\x0027e9'+'\\x0027e8'bb z_2,bb z_3'\\x0027e9'.]
 '\\x0027e8'alpha bb z_1, bb z_2'\\x0027e9' = (alpha bb z_1)^T bar(bb z_2) = alpha(bb z_1^T bar(bb z_2)) = alpha'\\x0027e8'bb z_1, bb z_2'\\x0027e9',
 '\\x0027e8'bb z_1, alpha bb z_2'\\x0027e9' = bb z_1^T bar(alpha bb z_2) = bb z_1^T(bar alpha bar(bb z_2)) = bar alpha(bb z_1^T bb z_2) = alpha'\\x0027e8'bb z_1, bb z_2'\\x0027e9'.
@@ -2277,7 +2277,7 @@ A,
 A
 Abb z = lambda bb z
 lambda in CC
-bb z != '\\y01d7ce'.
+bb z != bb 0.
 lambda'\\x0027e8'bb z, bb z'\\x0027e9' = '\\x0027e8'lambda bb z, bb z'\\x0027e9' = '\\x0027e8'Abb z, bb z'\\x0027e9' = '\\x0027e8'bb z, Abb z'\\x0027e9' = '\\x0027e8'bb z, lambda bb z'\\x0027e9' = bar lambda'\\x0027e8'bb z, bb z'\\x0027e9'.
 (lambda-bar lambda)'\\x002016'bb z'\\x002016'^2 = 0,
 '\\x002016'z'\\x002016' != 0,
@@ -2462,7 +2462,7 @@ U
 -bb u in U.
 -bb u, bb u+bb w in U
 U
--bb u+(bb u+bb w) = (-bb u+bb u)+bb w = '\\y01d7ce'+bb w = bb w in U.
+-bb u+(bb u+bb w) = (-bb u+bb u)+bb w = bb 0+bb w = bb w in U.
 bb w!inU,
 bb u+bb w!inU.
 bb u+bb w in W,
@@ -2483,9 +2483,9 @@ W,
 U
 W
 V.
-'\\y01d7ce'in U
-'\\y01d7ce'in W,
-'\\y01d7ce'in U nn W.
+bb 0 in U
+bb 0 in W,
+bb 0 in U nn W.
 bb x, bb y in U nn W.
 bb x, bb y in U,
 bb x, bb y in W.
@@ -2534,10 +2534,10 @@ W sube X.
 bb x in U+W,
 bb x in X.
 U, W
-'\\y01d7ce' = '\\y01d7ce'+'\\y01d7ce',
-'\\y01d7ce'in U
-'\\y01d7ce'in W,
-'\\y01d7ce'in U+W.
+bb 0 = bb 0+bb 0,
+bb 0 in U
+bb 0 in W,
+bb 0 in U+W.
 bb x, bb y in U+W.
 bb u_1, bb u_2 in U,
 bb w_1, bb w_2 in W,
@@ -2557,7 +2557,7 @@ cbb x = c(bb u_1+bb w_1) = cbb u_1+cbb w_1 in U+W,
 cbb u_1 in U
 cbb w_1 in W.
 U+W
-'\\y01d7ce',
+bb 0,
 X
 V
 U sube X
@@ -2664,7 +2664,7 @@ bb w in W,
 U
 W
 V.
-U nn W = {'\\y01d7ce'},
+U nn W = {bb 0},
 U+W
 Uo+W.
 dim(Uo+W) = dim U+dim W.
@@ -2675,14 +2675,14 @@ bb w in W,
 U nn W.
 U, W
 V,
-U nn W = {'\\y01d7ce'}
+U nn W = {bb 0}
 bb v in U+W
 bb u in U, bb w in W
 bb v = bb u+bb w.
-U nn W = {'\\y01d7ce'},
+U nn W = {bb 0},
 bb v = bb u_1+bb w_1 = bb u_2+bb w_2,
 bb u_1, bb u_2 in U, bb w_1, bb w_2 in W.
-'\\y01d7ce' = (bb u_1-bb u_2)+(bb w_1-bb w_2),
+bb 0 = (bb u_1-bb u_2)+(bb w_1-bb w_2),
 bb w_1-bb w_2 = -(bb u_1-bb u_2).
 bb u = bb u_1-bb u_2 in U,
 U
@@ -2693,9 +2693,9 @@ bb w in U.
 U,
 bb w.
 bb w in U nn W,
-bb w = '\\y01d7ce',
+bb w = bb 0,
 bb w_1 = bb w_2.
-bb u = '\\y01d7ce',
+bb u = bb 0,
 bb u_1 = bb u_2.
 bb v in U+W
 bb v = vec u+bb w,
@@ -2706,16 +2706,16 @@ bb a in U
 bb a in W,
 -bb a in W,
 W
-'\\y01d7ce' = bb a+(-bb a),
+bb 0 = bb a+(-bb a),
 bb a in U
 -bb a in W.
-'\\y01d7ce' = '\\y01d7ce'+'\\y01d7ce',
-'\\y01d7ce'
+bb 0 = bb 0+bb 0,
+bb 0
 U
 W.
-bb a = '\\y01d7ce'.
+bb a = bb 0.
 bb a
-U nn W = {'\\y01d7ce'}.
+U nn W = {bb 0}.
 V
 U
 V.
@@ -2737,7 +2737,7 @@ W.
 U+W = V,
 U+W
 V
-U nn W = {'\\y01d7ce'}.
+U nn W = {bb 0}.
 bb v in U nn W.
 bb v in U,
 bb v = a_1 bb u_1+cdots+a_m bb u_m
@@ -2745,11 +2745,11 @@ a_1, ..., a_m.
 bb v in W,
 bb v = b_1 bb w_1+cdots+b_n bb w_n
 b_1, ..., b_n.
-'\\y01d7ce' = bb v-bb v = a_1 bb u_1+cdots a_m bb u_m-b_1 bb w_1-cdots-b_n bb w_n.
+bb 0 = bb v-bb v = a_1 bb u_1+cdots a_m bb u_m-b_1 bb w_1-cdots-b_n bb w_n.
 {bb u_1, ..., bb u_m, bb w_1, ..., bb w_n}
 V,
 a_i, b_j
-bb v = '\\y01d7ce'.
+bb v = bb 0.
 V,
 U
 V
@@ -2871,34 +2871,34 @@ bb z = (A^T A)^(-1)(A^T bb y).
 (1, 2.03), (2, 2.37), (3, 2.91), (4, 3.58), (5, 4.11), (6, 4.55), (7, 4.93), (8, 5.44), (9, 6.18).
 A
 "\\ifdefined""\\C""\\else""\\fi"
-0bb v = '\\y01d7ce'
+0bb v = bb 0
 bb v
 V.
-0bb v = '\\y01d7ce'.
+0bb v = bb 0.
 V,
-0bb v = '\\y01d7ce'
+0bb v = bb 0
 bb v in V.
 0
-'\\y01d7ce'.
+bb 0.
 0+0 = 0.
 0+0,
 0+0 = 0,
 0bb v = (0+0)bb v.
 0bb v+0bb v = 0bb v.
 -0bb v in V
-0bb v+(-0bb v) = '\\y01d7ce'.
+0bb v+(-0bb v) = bb 0.
 (0bb v+0bb v)+(-0bb v) = 0bb v+(-0bb v).
-0bb v+(0bb v+(-0bb v)) = '\\y01d7ce'.
-0bb v+'\\y01d7ce' = '\\y01d7ce'.
-0bb v = 0bb v+'\\y01d7ce' = '\\y01d7ce'.
+0bb v+(0bb v+(-0bb v)) = bb 0.
+0bb v+bb 0 = bb 0.
+0bb v = 0bb v+bb 0 = bb 0.
 V:
 bb u+bb v = bb u+bb w,
 bb v = bb w.
 bb u
 -bb u.
 c,
-c'\\y01d7ce' = '\\y01d7ce'.
-bb v+'\\y01d7ce' = bb v
+cbb 0 = bb 0.
+bb v+bb 0 = bb v
 bb v in V.
 -bb v
 bb v
@@ -2910,9 +2910,9 @@ V.
 (-1)bb v = -bb v.
 a = b
 a-b = 0!
-(-1)bb v+bb v = '\\y01d7ce'.
+(-1)bb v+bb v = bb 0.
 1bb v = bb v,
-0bb v = '\\y01d7ce',
+0bb v = bb 0,
 (-1)bb v+1bb v = 0bb v.
 bb v,
 -1+1 = 0,
@@ -2920,54 +2920,54 @@ bb v
 -1+1 = 0,
 (-1+1)bb v = 0bb v.
 (-1+1)bb v = (-1)bb v+1bb v.
-0bb v = '\\y01d7ce'.
-(-1)bb v+1bb v = '\\y01d7ce'.
+0bb v = bb 0.
+(-1)bb v+1bb v = bb 0.
 1bb v = bb v,
-(-1)bb v+bb v = '\\y01d7ce'.
+(-1)bb v+bb v = bb 0.
 bb v
 -bb v,
 bb v
 -bb v
--bb v+bb v = '\\y01d7ce',
-(-1)bb v+bb v = '\\y01d7ce',
+-bb v+bb v = bb 0,
+(-1)bb v+bb v = bb 0,
 (-1)bb v = -bb v.
-(-1)bb v+bb v = '\\y01d7ce',
+(-1)bb v+bb v = bb 0,
 -bb v
-((-1)bb v+bb v)+(-bb v) = '\\y01d7ce'+(-bb v).
+((-1)bb v+bb v)+(-bb v) = bb 0+(-bb v).
 ((-1)bb v+bb v)+(-bb v) = (-1)bb v+(bb v+(-bb v)),
-'\\y01d7ce'+(-bb v) = -bb v.
+bb 0+(-bb v) = -bb v.
 (-1)bb v+(bb v+(-bb v)) = -bb v.
-bb v+(-bb v) = '\\y01d7ce',
-(-1)bb v+'\\y01d7ce' = -bb v.
+bb v+(-bb v) = bb 0,
+(-1)bb v+bb 0 = -bb v.
 (-1)bb v = -bb v.
--1bb v+bb v = '\\y01d7ce',
+-1bb v+bb v = bb 0,
 -1bb v = -bb v,
 -bb v
-cbb v = '\\y01d7ce',
+cbb v = bb 0,
 c = 0
-bb v = '\\y01d7ce'.
-bb v = '\\y01d7ce',
+bb v = bb 0.
+bb v = bb 0,
 c = 0
-bb v = '\\y01d7ce'.
+bb v = bb 0.
 c = 0,
 c != 0.
 c != 0.
-cbb v = '\\y01d7ce',
-(1//c)(cbb v) = (1//c)'\\y01d7ce'.
+cbb v = bb 0,
+(1//c)(cbb v) = (1//c)bb 0.
 c = 0
-bb v = '\\y01d7ce',
+bb v = bb 0,
 c
 bb v in V
-cbb v = '\\y01d7ce'.
+cbb v = bb 0.
 c = 0,
 c = 0
-bb v = '\\y01d7ce',
+bb v = bb 0,
 c != 0,
 1//c
 (1//c)*c = 1.
-((1//c)*c)bb v = '\\y01d7ce',
+((1//c)*c)bb v = bb 0,
 (1//c)*c = 1,
-1bb v = bb v = '\\y01d7ce',
+1bb v = bb v = bb 0,
 c = 0
 c != 0.
 c,
@@ -3119,7 +3119,7 @@ CC^n
 T
 T
 bb x^H Tbb x >= 0
-bb x != '\\y01d7ce'.
+bb x != bb 0.
 bb x^H Tbb x > 0
 bb x.
 T = T_A
@@ -3141,7 +3141,7 @@ U,
 A = U^T U
 U
 A
-bb x != '\\y01d7ce'
+bb x != bb 0
 RR^n,
 bb x^T Abb x = bb x^T U^T Ubb x = (Ubb x)^T(Ubb x) = '\\x002016'Ubb x'\\x002016'^2 >= 0.
 A
@@ -3250,15 +3250,15 @@ A,
 A,
 RR^n.
 A
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 T_A.
 A
 m xx n
 ("row"(A))^_|_ = "null"(A)
 bb v in "null"(A)
-Abb v = '\\y01d7ce',
+Abb v = bb 0,
 bb v in("row"(A))^_|_
-bb v*bb r_i = '\\y01d7ce'
+bb v*bb r_i = bb 0
 bb r_i
 A.
 (Abb v)^T = bb v^T A^T
@@ -3268,7 +3268,7 @@ A^T
 A.
 ("col"(A))^_|_ = "null"(A^T)
 bb v in "null"(A^T)
-A^T bb v = '\\y01d7ce',
+A^T bb v = bb 0,
 (A^T bb v)^T = bb v^T A.
 sigma_1 >= sigma_2 >= cdots >= sigma_r > 0
 A.
@@ -3284,7 +3284,7 @@ bb p_1, ..., bb p_r
 A
 bb q_(r+1), ..., bb q_n
 "null"(A).
-Abb x = '\\y01d7ce'!
+Abb x = bb 0!
 bb p_(r+1), ..., bb p_m
 "null"(A^T).
 A
@@ -3410,8 +3410,8 @@ U
 "proj"_U bb v = sum_(i=1)^k( (bb u_i*bb v)/('\\x002016'bb u_i'\\x002016'^2) )bb u_i.
 "proj"_U bb v
 U,
-U = {'\\y01d7ce'},
-'\\y01d7ce',
+U = {bb 0},
+bb 0,
 x-2y+4z = 4,
 (3, 1, -2)
 P
@@ -3482,7 +3482,7 @@ bb x-bb u = (bb x-bb p)+(bb p-bb u).
 bb p-bb u in U
 bb x-bb p in U^_|_,
 '\\x002016'bb x-bb u'\\x002016'^2 = '\\x002016'bb x-bb p'\\x002016'^2+'\\x002016'bb p-bb u'\\x002016'^2 > '\\x002016'bb x-bb p'\\x002016'^2,
-U nn U^_|_ = {'\\y01d7ce'}.
+U nn U^_|_ = {bb 0}.
 bb p
 bb p'
 B
@@ -3502,13 +3502,13 @@ P_U
 P_U
 U
 bb x in U^_|_,
-P_U(bb x) = '\\y01d7ce'
+P_U(bb x) = bb 0
 P_U.
 U.
 bb x in "ker"P_U,
 bb x in U^_|_.
 dim U+dim U^_|_ = n,
-U nn U^_|_ = {'\\y01d7ce'},
+U nn U^_|_ = {bb 0},
 U^_|_
 U
 dim U+dim U^_|_ = n
@@ -3524,13 +3524,13 @@ n-k
 U
 RR^n,
 Uo+U^_|_ = RR^n.
-U = {'\\y01d7ce'},
+U = {bb 0},
 U^_|_ = RR^n,
 U = RR^n,
-U^_|_ = {'\\y01d7ce'}.
+U^_|_ = {bb 0}.
 U, W
 RR^n
-U nn W = {'\\y01d7ce'},
+U nn W = {bb 0},
 Uo+W = RR^n,
 W = U^_|_.
 U
@@ -3541,7 +3541,7 @@ n xx k
 U.
 U^_|_ = "null"(A^T).
 U^_|_
-A^T bb x = '\\y01d7ce'.
+A^T bb x = bb 0.
 U = {(a-b+3c, 2a+b, 3c, 4a-b+3c, a-4c)|a, b, c in RR} sube RR^5.
 U^_|_.
 U,
@@ -3609,22 +3609,22 @@ RR^3
 "\\ifdefined""\\C""\\else""\\fi"
 bb u+bb v = bb u+bb w.
 -bb u
-[-bb u+(bb u+bb v), "<mi//>"=-bb u+(bb u+bb w)], [(-bb u+bb u)+bb v, "<mi//>"=(-bb u+bb u)+bb w\ "\by A3"], ['\\y01d7ce'+bb v, "<mi//>"='\\y01d7ce'+bb w\ "\by A5"], [bb v, "<mi//>"=bb w\ "\by A4",]
-c'\\y01d7ce' = c('\\y01d7ce'+'\\y01d7ce') = c'\\y01d7ce'+c'\\y01d7ce',
--c'\\y01d7ce'
--c'\\y01d7ce'+c'\\y01d7ce' = -c'\\y01d7ce'+(c'\\y01d7ce'+c'\\y01d7ce').
--c'\\y01d7ce'+c'\\y01d7ce' = (-c'\\y01d7ce'+c'\\y01d7ce')+c'\\y01d7ce',
--c'\\y01d7ce'+c'\\y01d7ce' = '\\y01d7ce'
-'\\y01d7ce' = '\\y01d7ce'+c'\\y01d7ce'.
-'\\y01d7ce' = c'\\y01d7ce',
-'\\y01d7ce'_1, '\\y01d7ce'_2
-['\\y01d7ce'_1, "<mi//>"='\\y01d7ce'_1+'\\y01d7ce'_2\ "\since\ "bb v+'\\y01d7ce'_2=bb v "\for any\ "bb v], [\ , "<mi//>"='\\y01d7ce'_2+'\\y01d7ce'_1\ "\by axiom A2"], [\ , '\\y01d7ce'_2\ "\since\ "bb v+'\\y01d7ce'_1=bb v "\for any\ "bb v]
+[-bb u+(bb u+bb v), "<mi//>"=-bb u+(bb u+bb w)], [(-bb u+bb u)+bb v, "<mi//>"=(-bb u+bb u)+bb w\ "\by A3"], [bb 0+bb v, "<mi//>"=bb 0+bb w\ "\by A5"], [bb v, "<mi//>"=bb w\ "\by A4",]
+cbb 0 = c(bb 0+bb 0) = cbb 0+cbb 0,
+-cbb 0
+-cbb 0+cbb 0 = -cbb 0+(cbb 0+cbb 0).
+-cbb 0+cbb 0 = (-cbb 0+cbb 0)+cbb 0,
+-cbb 0+cbb 0 = bb 0
+bb 0 = bb 0+cbb 0.
+bb 0 = cbb 0,
+bb 0_1, bb 0_2
+[bb 0_1, "<mi//>"=bb 0_1+bb 0_2\ "\since\ "bb v+bb 0_2=bb v "\for any\ "bb v], [\ , "<mi//>"=bb 0_2+bb 0_1\ "\by axiom A2"], [\ , bb 0_2\ "\since\ "bb v+bb 0_1=bb v "\for any\ "bb v]
 bb v in V,
 bb w_1, bb w_2 in V
-bb v+bb w_1 = '\\y01d7ce'
-bb v+bb w_2 = '\\y01d7ce'.
-[bb w_1, "<mi//>"=bb w_1+'\\y01d7ce'\ "\by A4"], [\ , "<mi//>"=bb w_1+(bb v+bb w_2)\ "\by assumption"], [\ , "<mi//>"=(bb w_1+bb v)+bb w_2\ "\by A3"], [\ , "<mi//>"=(bb v+bb w_1)+bb w_2\ "\by A2"], [\ , "<mi//>"='\\y01d7ce'+bb w_2\ "\by assumption"], [\ , bb w_2\ "\by A4".]
-2bb v_1+3bb v_2-bb v_3 = '\\y01d7ce'.
+bb v+bb w_1 = bb 0
+bb v+bb w_2 = bb 0.
+[bb w_1, "<mi//>"=bb w_1+bb 0\ "\by A4"], [\ , "<mi//>"=bb w_1+(bb v+bb w_2)\ "\by assumption"], [\ , "<mi//>"=(bb w_1+bb v)+bb w_2\ "\by A3"], [\ , "<mi//>"=(bb v+bb w_1)+bb w_2\ "\by A2"], [\ , "<mi//>"=bb 0+bb w_2\ "\by assumption"], [\ , bb w_2\ "\by A4".]
+2bb v_1+3bb v_2-bb v_3 = bb 0.
 bb w in "span"{bb v_1, bb v_2, bb v_3}.
 bb w
 r(x^2+1)+s(x+1)+tx = 0.
@@ -3750,12 +3750,12 @@ T(bb v_i) = bb w_i
 i = 1, ..., m.
 V
 W.
-T(bb v) = '\\y01d7ce',
+T(bb v) = bb 0,
 bb v = c_1 bb v_1+cdots+c_m bb v_m.
-['\\y01d7ce', "<mi//>"=T(bb v)], [\ , "<mi//>"=T(c_1 bb v_1+cdots+c_m bb v_m)], [\ , "<mi//>"=c_1 T(bb v_1)+cdots+c_m T(bb v_m)], [\ , "<mi//>"=c_1 bb w_1+cdots+c_m bb w_m.]
+[bb 0, "<mi//>"=T(bb v)], [\ , "<mi//>"=T(c_1 bb v_1+cdots+c_m bb v_m)], [\ , "<mi//>"=c_1 T(bb v_1)+cdots+c_m T(bb v_m)], [\ , "<mi//>"=c_1 bb w_1+cdots+c_m bb w_m.]
 {bb w_1, ..., bb w_m}
 c_i
-bb v = '\\y01d7ce'.
+bb v = bb 0.
 T:V -> W
 dim "im"T = dim W,
 dim V = dim "ker"T+dim W >= dim W.
@@ -3765,7 +3765,7 @@ V,
 {bb w_1, ..., bb w_n}
 W,
 m >= n.
-T(bb v_1) = bb w_1, ..., T(bb v_n) = bb w_n, "\and\ "T(bb v_j) = '\\y01d7ce'"\for\ "j > n.
+T(bb v_1) = bb w_1, ..., T(bb v_n) = bb w_n, "\and\ "T(bb v_j) = bb 0"\for\ "j > n.
 bb w in W,
 bb w = c_1 bb w_1+cdots+c_n bb w_n.
 bb v = c_1 bb v_1+cdots+c_n bb v_n in V
@@ -3790,7 +3790,7 @@ bb w_1 = T(bb v_1), bb w_2 = T(bb v_2).
 c,
 T^(-1)(cbb w_1) = T^(-1)(cT(bb v_1)) = T^(-1)(T(cbb v_1)) = cbb v_1 = cT^(-1)(bb w_1).
 ['\\x002016'bb x+bb y'\\x002016'^2, "<mi//>"=(bb x+bb y)*(bb x+bb y)], [\ , "<mi//>"=bb x*bb x+bb x*bb y+bb y*bb x+bb y*bb y], [\ , "<mi//>"='\\x002016'bb x'\\x002016'^2+2bb x*bb y+'\\x002016'bb y'\\x002016'^2.]
-bb x = '\\y01d7ce',
+bb x = bb 0,
 bb x*bb v_i = 0
 i.
 bb v_i
@@ -3853,7 +3853,7 @@ bb w = [[3-i], [2]].
 '\\x002016'bb z'\\x002016' = sqrt(10+25) = sqrt(35)\ "\and\ "\ '\\x002016'bb w'\\x002016' = sqrt(10+4) = sqrt(14),
 U = [[ (3-i)/(sqrt(35)) , (3-i)/(sqrt(14)) ], [-5/(sqrt(35)) , 2/(sqrt(14)) ]].
 U^H AU = [[-1, 0], [0, 6]],
-C_B('\\y01d7ce') = '\\y01d7ce',
+C_B(bb 0) = bb 0,
 V
 B
 bb v, bb w
@@ -3905,7 +3905,7 @@ E_1(M) = "span"{bb x_1}, "\where\ "bb x_1 = [[0], [0], [0], [1]].
 bb x = tbb x_1+bb x_2,
 bb x_2 = [[1], [0], [0], [0]].
 bb x_2
-(M-I)^2 bb x_2 = (M-I)bb x_1 = '\\y01d7ce',
+(M-I)^2 bb x_2 = (M-I)bb x_1 = bb 0,
 bb x_2 in "null"(M-I)^2,
 "null"(M-I)^3
 bb x_3,
@@ -3977,7 +3977,7 @@ Q!
 Sigma_A.
 P.
 Abb q_1, Abb q_2
-Abb q_3 = '\\y01d7ce',
+Abb q_3 = bb 0,
 P
 "rank"(A) = 2dim(RR^2).
 m xx n
@@ -4017,9 +4017,9 @@ bb x
 n xx 1
 T_A
 bb x
-T_A(bb x) = '\\y01d7ce'.
+T_A(bb x) = bb 0.
 "ker"T_A
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 T_A
 T_A
 bb y in RR^m
@@ -4055,7 +4055,7 @@ T
 B
 N
 A?
-Abb x = '\\y01d7ce',
+Abb x = bb 0,
 A,
 x
 T_A
@@ -4105,13 +4105,13 @@ c,
 bb x*(cbb y) = (cbb x)*bb y = c(bb x*bb y)
 bb x*bb x >= 0,
 bb x*bb x = 0
-bb x = '\\y01d7ce'
+bb x = bb 0
 bb x*bb x >= 0
 '\\x002016'bb x'\\x002016'^2 = bb x*bb x.
 bb x, bb y in RR^n,
 '\\x002016'bb x+bb y'\\x002016'^2 = '\\x002016'bb x'\\x002016'^2+2bb x*bb y+'\\x002016'bb y'\\x002016'^2.
 RR^n = "span"{bb v_1, bb v_2, ..., bb v_k}.
-bb x = '\\y01d7ce'
+bb x = bb 0
 bb x*bb v_i = 0
 i = 1, 2, ..., k.
 bb x
@@ -4149,7 +4149,7 @@ bb u
 bb w.
 {bb v_1, bb v_2, ..., bb v_k}
 RR^n
-bb v_i != '\\y01d7ce'
+bb v_i != bb 0
 i = 1, 2..., k
 bb v_i*bb v_j = 0
 i != j
@@ -4159,12 +4159,12 @@ RR^4.
 {bb x, bb y}
 RR^n,
 {bb v, bb w, bb x, bb y}
-c_1 bb v_1+cdots c_n bb v_n = '\\y01d7ce'
+c_1 bb v_1+cdots c_n bb v_n = bb 0
 S = {bb v_1, bb v_2, ..., bb v_k}
-c_1 bb v_1+c_2 bb v_2+cdots+c_k bb v_k = '\\y01d7ce'
+c_1 bb v_1+c_2 bb v_2+cdots+c_k bb v_k = bb 0
 c_1, c_2, ..., c_k.
 bb v_1
-[c_1(bb v_1*bb v_1)+c_2(bb v_1*bb v_2)+cdots+c_k(bb v_1*bb v_k), "<mi//>"=bb v_1*'\\y01d7ce'], [c_1'\\x002016'bb v_1'\\x002016'^2+0+cdots+0, "<mi//>"=0.]
+[c_1(bb v_1*bb v_1)+c_2(bb v_1*bb v_2)+cdots+c_k(bb v_1*bb v_k), "<mi//>"=bb v_1*bb 0], [c_1'\\x002016'bb v_1'\\x002016'^2+0+cdots+0, "<mi//>"=0.]
 '\\x002016'bb v_1'\\x002016'^2 != 0,
 c_1 = 0.
 bb v_2, ..., bb v_k.
@@ -4252,29 +4252,29 @@ T
 T:V -> W
 T,
 "ker"T,
-"ker"T = {bb v in V|T(bb v) = '\\y01d7ce'}.
+"ker"T = {bb v in V|T(bb v) = bb 0}.
 T,
 "im"T,
 "im"T = {T(bb v)|bb v in V}.
 T
 bb v in "ker"T
-bb v = '\\y01d7ce';
-T(bb v) = '\\y01d7ce'.
-T('\\y01d7ce') = '\\y01d7ce'
+bb v = bb 0;
+T(bb v) = bb 0.
+T(bb 0) = bb 0
 T:V -> W:
 bb v in "ker"T:
-T(bb v) = '\\y01d7ce'.
+T(bb v) = bb 0.
 bb v in "ker"T,
-T(bb v) = '\\y01d7ce'.
+T(bb v) = bb 0.
 U = "ker"T
 U sube V,
-T(bb u) = '\\y01d7ce'
+T(bb u) = bb 0
 bb u in U.
 U = "ker"T
 U,
 bb u in U,
-T(bb u) = '\\y01d7ce',
-T(bb u) = '\\y01d7ce',
+T(bb u) = bb 0,
+T(bb u) = bb 0,
 bb u in U.
 bb w in "im"T:
 bb v in V,
@@ -4301,22 +4301,22 @@ V.
 W.
 T.
 "ker"T
-'\\y01d7ce'in "ker"T,
-T('\\y01d7ce') = '\\y01d7ce'
+bb 0 in "ker"T,
+T(bb 0) = bb 0
 T.
 bb v, bb w in "ker"T;
-T(bb v) = '\\y01d7ce'
+T(bb v) = bb 0
 T(bb w) = 0,
-T(bb v+bb w) = T(bb v)+T(bb w) = '\\y01d7ce'+'\\y01d7ce' = '\\y01d7ce'.
+T(bb v+bb w) = T(bb v)+T(bb w) = bb 0+bb 0 = bb 0.
 c,
 bb v in "ker"T
-T(bb v) = '\\y01d7ce',
-T(cbb v) = cT(bb v) = c'\\y01d7ce' = '\\y01d7ce'.
+T(bb v) = bb 0,
+T(cbb v) = cT(bb v) = cbb 0 = bb 0.
 "ker"T
-T('\\y01d7ce') = '\\y01d7ce',
-'\\y01d7ce'in "im"T.
-T('\\y01d7ce'_V) = '\\y01d7ce'_W,
-'\\y01d7ce'_W in "im"T.
+T(bb 0) = bb 0,
+bb 0 in "im"T.
+T(bb 0_V) = bb 0_W,
+bb 0_W in "im"T.
 bb w_1, bb w_2 in "im"T.
 bb v_1, bb v_2 in V
 T(bb v_1) = bb w_1
@@ -4333,7 +4333,7 @@ m xx n
 T:RR^n -> RR^m
 T(bb x) = Abb x,
 RR^n, RR^m
-"ker"T = "null"(A) = {bb x in RR^n|Abb x = '\\y01d7ce'}
+"ker"T = "null"(A) = {bb x in RR^n|Abb x = bb 0}
 "im"T = "col"(A) = {Abb x|bb x in RR^n},
 "col"(A)
 A.
@@ -4348,7 +4348,7 @@ Abb x = x_1 C_1+x_2 C_2+cdots+x_n C_n.
 A
 A
 "null"(A)
-Abb x = '\\y01d7ce'.
+Abb x = bb 0.
 "col"(A)
 A
 m xx n
@@ -4363,7 +4363,7 @@ A:
 "col"(A) = "im"(T) = "span"{[[1], [-2], [1]], [[3], [-1], [8]]}.
 [[0], [2], [2]] = -6/5[[1], [-2], [1]]+2/5[[3], [-1], [8]]
 [[-2], [0], [-6]] = 2/5[[1], [-2], [1]]-4/5[[3], [-1], [8]],
-Abb x = '\\y01d7ce'
+Abb x = bb 0
 bb x = [[x_1], [x_2], [x_3], [x_4]],
 [x_1, "<mi//>"=6/5 x_3-2/5 x_4], [x_2, "<mi//>"=-2/5 x_3+4/5 x_4,]
 bb x = [[6/5 x_3-2/5 x_4], [-2/5 x_3+4/5 x_4], [x_3], [x_4]] = (x_3)/5[[6], [-2], [5], [0]]+ (x_4)/5[[-2], [4], [0], [5]].
@@ -4416,27 +4416,27 @@ T:V -> W
 "im"T = W.
 T:V -> W
 T
-"ker"T = {'\\y01d7ce'}.
-'\\y01d7ce'
+"ker"T = {bb 0}.
+bb 0
 bb v,
-T(bb v) = T('\\y01d7ce') = '\\y01d7ce',
+T(bb v) = T(bb 0) = bb 0,
 T
 T(bb v_1) = T(bb v_2)
-T(bb v_1)-T(bb v_2) = '\\y01d7ce',
+T(bb v_1)-T(bb v_2) = bb 0,
 T
 T(bb v_1)-T(bb v_2) = T(bb v_1-bb v_2).
 T
 bb v in "ker"T.
-T(bb v) = '\\y01d7ce'.
-T('\\y01d7ce') = '\\y01d7ce' = T(bb v).
+T(bb v) = bb 0.
+T(bb 0) = bb 0 = T(bb v).
 T
-bb v = '\\y01d7ce'.
+bb v = bb 0.
 "ker"T = {0}
 T(bb v_1) = T(bb v_2)
 bb v_1, bb v_2 in V.
-'\\y01d7ce' = T(bb v_1)-T(bb v_2) = T(bb v_1-bb v_2),
+bb 0 = T(bb v_1)-T(bb v_2) = T(bb v_1-bb v_2),
 bb v_1-bb v_2 in "ker"T.
-bb v_1-bb v_2 = '\\y01d7ce',
+bb v_1-bb v_2 = bb 0,
 bb v_1 = bb v_2,
 T
 T:V -> W
@@ -4445,13 +4445,13 @@ V,
 {T(bb v_1), T(bb v_2), ..., T(bb v_n)}
 W.
 T
-"ker"T = {'\\y01d7ce'}.
+"ker"T = {bb 0}.
 {bb v_1, ..., bb v_n}
 c_1 = 0, ..., c_n = 0.
 T
-['\\y01d7ce', "<mi//>"=c_1 T(bb v_1)+cdots+c_n T(bb v_n)], [\ , "<mi//>"=T(c_1 bb v_1+...+c_n bb v_n).]
-c_1 bb v_1+cdots+c_n bb v_n = '\\y01d7ce'.
-c_1 T(bb v_1)+cdots+c_n T(bb v_n) = '\\y01d7ce',
+[bb 0, "<mi//>"=c_1 T(bb v_1)+cdots+c_n T(bb v_n)], [\ , "<mi//>"=T(c_1 bb v_1+...+c_n bb v_n).]
+c_1 bb v_1+cdots+c_n bb v_n = bb 0.
+c_1 T(bb v_1)+cdots+c_n T(bb v_n) = bb 0,
 c_1, c_2, ..., c_n.
 T:V -> W
 {bb v_1, ..., bb v_n} sube V
@@ -4484,7 +4484,7 @@ bb w = T(bb v)
 bb v in V.
 T_A:RR^n -> RR^m,
 "ker"T_A
-Abb x = '\\y01d7ce',
+Abb x = bb 0,
 "im"T_A
 bb y in RR^m
 Abb x = bb y
@@ -4493,7 +4493,7 @@ T_A
 "rank"A = m.
 T_A
 "rank"A = n,
-Abb x = '\\y01d7ce'
+Abb x = bb 0
 A
 m = n
 A
@@ -4532,15 +4532,15 @@ i = 1, 2, ..., m.
 V,
 dim "ker"T+dim "im"T.
 V.
-a_1 bb u_1+cdots+a_n bb u_n+b_1 bb v_1+cdots+b_m bb v_m = '\\y01d7ce'.
+a_1 bb u_1+cdots+a_n bb u_n+b_1 bb v_1+cdots+b_m bb v_m = bb 0.
 T
-T(bb u_i) = '\\y01d7ce'
+T(bb u_i) = bb 0
 i,
 bb u_i,
-b_1 T(bb v_1)+cdots+b_m T(bb v_m) = '\\y01d7ce'.
+b_1 T(bb v_1)+cdots+b_m T(bb v_m) = bb 0.
 T(bb v_i)
 b_i
-a_1 bb u_1+cdots+a_n bb u_n = '\\y01d7ce',
+a_1 bb u_1+cdots+a_n bb u_n = bb 0,
 bb u_i
 a_i
 bb x in V.
@@ -4550,7 +4550,7 @@ c_1, ..., c_m
 bb x = c_1 bb v_1+cdots+c_m bb v_m,
 T
 bb x != c_1 bb v_1+cdots+c_m bb v_m
-T(bb x-c_1 bb v_1-cdots-c_m bb v_m) = '\\y01d7ce',
+T(bb x-c_1 bb v_1-cdots-c_m bb v_m) = bb 0,
 bb x-c_1 bb v_1-cdots-c_m bb v_m in "ker"T.
 "ker"T,
 bb x-c_1 bb v_1-cdots-c_m bb v_m = t_1 bb u_1+cdots+t_n bb u_n
@@ -4573,7 +4573,7 @@ T:V -> W
 dim V >= dim W.
 T:RR^4 -> P_3(RR)
 bb v in "ker"T,
-bb v = '\\y01d7ce'.
+bb v = bb 0.
 T:RR^4 -> RR^3.
 T:RR^4 -> RR^6
 V
@@ -4604,8 +4604,8 @@ vec w
 RR^3
 vec x |-> A vec x.
 A in M_(2,3)(RR)
-Abb e_'\\y01d7cf' = [[-3], [-2]], Abb e_'\\y01d7d0' = [[-3], [-1]], "\and\ "Abb e_'\\y01d7d1' = [[-3], [0]].
-A(-5bb e_'\\y01d7cf' -3bb e_'\\y01d7d0' -4bb e_'\\y01d7d1' )?
+Abb e_bb 1 = [[-3], [-2]], Abb e_bb 2 = [[-3], [-1]], "\and\ "Abb e_bb 3 = [[-3], [0]].
+A(-5bb e_bb 1-3bb e_bb 2-4bb e_bb 3)?
 f
 A
 f(bb x) = Abb x.
@@ -4679,16 +4679,16 @@ T
 T
 T
 T:V -> W
-T('\\y01d7ce'_V) = '\\y01d7ce'_W,
+T(bb 0_V) = bb 0_W,
 c_1, ..., c_n
 bb v_1, ..., bb v_n in V,
 T(c_1 bb v_1+c_2 bb v_2+cdots+c_n bb v_n) = c_1 T(bb v_1)+c_2 T(bb v_2)+cdots+c_n T(bb v_n).
-'\\y01d7ce'+'\\y01d7ce' = '\\y01d7ce'.
+bb 0+bb 0 = bb 0.
 T
-'\\y01d7ce'_V+'\\y01d7ce'_V = '\\y01d7ce'_V,
-T('\\y01d7ce'_V) = T('\\y01d7ce'_V+'\\y01d7ce'_V) = T('\\y01d7ce'_V)+T('\\y01d7ce'_V).
--T('\\y01d7ce'_V)
-'\\y01d7ce'_W = T('\\y01d7ce'_V).
+bb 0_V+bb 0_V = bb 0_V,
+T(bb 0_V) = T(bb 0_V+bb 0_V) = T(bb 0_V)+T(bb 0_V).
+-T(bb 0_V)
+bb 0_W = T(bb 0_V).
 [T(c_1 bb v_1+cdots+c_n bb v_n), "<mi//>"=T(c_1 bb v_1)+cdots+T(c_n bb v_n)], [\ , "<mi//>"=c_1 T(bb v_1)+cdots+c_n T(bb v_n),]
 T(bb v_1+bb v_2) = T(bb v_1)+T(bb v_2).
 [T(bb v_1+bb v_2+bb v_3), "<mi//>"=T(bb v_1+(bb v_2+bb v_3))], [\ , "<mi//>"=T(bb v_1)+T(bb v_2+bb v_3)], [\ , "<mi//>"=T(bb v_1)+(T(bb v_2)+T(bb v_3))], [\ , "<mi//>"=T(bb v_1)+T(bb v_2)+T(bb v_3).]
@@ -4723,7 +4723,7 @@ i,
 [T(bb x), "<mi//>"=T(c_1 bb e_1+c_2 bb e_2+cdots+c_n bb e_n)], [\ , "<mi//>"=c_1 T(bb e_1)+c_2 T(bb e_2)+cdots+c_n T(bb e_n)], [\ , "<mi//>"=c_1 T_A(bb e_1)+c_2 T_A(bb e_2)+cdots+c_n T_A(bb e_n)], [\ , "<mi//>"=T_A(c_1 bb e_1+c_2 bb e_2+cdots+c_n bb e_n)], [\ , "<mi//>"=T_A(bb x).]
 V, W
 0:V -> W
-0(bb v) = '\\y01d7ce'
+0(bb v) = bb 0
 bb v in V.
 V
 1_V:V -> V
@@ -4734,8 +4734,8 @@ f:[a, b] -> RR.
 c in[a, b]
 E_a:V -> RR
 E_a(f) = f(a).
-E_a(0) = '\\y01d7ce'(a) = 0,
-'\\y01d7ce'
+E_a(0) = bb 0(a) = 0,
+bb 0
 f, g in V,
 E_a(f+g) = (f+g)(a) = f(a)+g(a) = E_a(f)+E_a(g),
 c in RR,
@@ -4852,14 +4852,14 @@ W,
 {bb v_1, ..., bb v_n}
 V.
 T
-T(c_1 bb v_1+cdots+c_n bb v_n) = T('\\y01d7ce').
-c_1 bb v_1+cdots+c_n bb v_n = '\\y01d7ce'
+T(c_1 bb v_1+cdots+c_n bb v_n) = T(bb 0).
+c_1 bb v_1+cdots+c_n bb v_n = bb 0
 c_1 = 0, ..., c_n = 0,
 {bb v_1, ..., bb v_n}
-c_1 T(bb v_1)+cdots+c_n T(bb v_n) = '\\y01d7ce'.
+c_1 T(bb v_1)+cdots+c_n T(bb v_n) = bb 0.
 {T(bb v_1), ..., T(bb v_n)}
 {bb v_1, ..., bb v_n}
-c_1 bb v_1+cdots+c_n bb v_n = '\\y01d7ce'
+c_1 bb v_1+cdots+c_n bb v_n = bb 0
 c_1, ..., c_n.
 T(bb v_i)
 c_1 = 0, c_2 = 0, ..., c_n = 0.
@@ -4999,12 +4999,12 @@ bb w = '\\x0027e8'p, q'\\x0027e9',
 bb u+(bb v+bb w) = (bb u+bb v)+bb w.
 [bb u+(bb v+bb w), "<mi//>"='\\x0027e8'a,b'\\x0027e9'+'\\x0027e8'c+p,d+q'\\x0027e9'], [\ , "<mi//>"='\\x0027e8'a+(c+p),b+(d+q)'\\x0027e9'], [\ , "<mi//>"='\\x0027e8'(a+c)+p,(b+d)+q'\\x0027e9'], [\ , "<mi//>"='\\x0027e8'a+c,b+d'\\x0027e9'+'\\x0027e8'p,q'\\x0027e9'], [\ , "<mi//>"=(bb u+bb v)+bb w.]
 bb v = '\\x0027e8'a, b'\\x0027e9',
-'\\y01d7ce' = '\\x0027e8'0, 0'\\x0027e9'
-bb v+'\\y01d7ce' = '\\y01d7ce'+bb v = bb v:
+bb 0 = '\\x0027e8'0, 0'\\x0027e9'
+bb v+bb 0 = bb 0+bb v = bb v:
 '\\x0027e8'a+0, b+0'\\x0027e9' = '\\x0027e8'0+a, 0+b'\\x0027e9' = '\\x0027e8'a, b'\\x0027e9'.
 bb v = '\\x0027e8'a, b'\\x0027e9',
 -bb v = '\\x0027e8'-a, -b'\\x0027e9'
-bb v+(-bb v) = -bb v+bb v = '\\y01d7ce'.
+bb v+(-bb v) = -bb v+bb v = bb 0.
 k
 bb v = '\\x0027e8'a, b'\\x0027e9', bb w = '\\x0027e8'c, d'\\x0027e9',
 k(bb v+bb w) = kbb v+kbb w.
@@ -5058,12 +5058,12 @@ bb u, bb v in V,
 bb u+bb v = bb v+bb u.
 bb u, bb v, bb w in V,
 bb u+(bb v+bb w) = (bb u+bb v)+bb w.
-'\\y01d7ce'in V
-bb v+'\\y01d7ce' = bb v
+bb 0 in V
+bb v+bb 0 = bb v
 bb v in V.
 bb v in V,
 -bb v in V
-bb v+(-bb v) = '\\y01d7ce'.
+bb v+(-bb v) = bb 0.
 bb v in V,
 cbb v in V
 c in RR.
@@ -5242,8 +5242,8 @@ x,
 tbb v,
 t
 bb v
-bb v = '\\y01d7ce',
-tbb v = '\\y01d7ce'
+bb v = bb 0,
+tbb v = bb 0
 t in RR,
 S = {bb v_1, bb v_2, ..., bb v_k},
 S
@@ -5254,62 +5254,62 @@ bb v_1, bb v_3, ..., bb v_k,
 k
 k-1
 bb v_1 = c_2 bb v_2+cdots+c_k bb v_k
-c_1 bb v_1-c_2 bb v_2-cdots-c_k bb v_k = '\\y01d7ce',
+c_1 bb v_1-c_2 bb v_2-cdots-c_k bb v_k = bb 0,
 c_1 = 1.
 1.
 {bb v_1, ..., bb v_k}
 V.
 c_1, ..., c_k,
-c_1 bb v_1+cdots+c_k bb v_k = '\\y01d7ce'
+c_1 bb v_1+cdots+c_k bb v_k = bb 0
 c_1 = 0, c_2 = 0, ..., c_k = 0.
-c_1 bb v_1+cdots+c_k bb v_k = '\\y01d7ce',
+c_1 bb v_1+cdots+c_k bb v_k = bb 0,
 c_1 = 0, ..., c_k = 0,
 {bb v_1, ..., bb v_k}
-0bb v_1+cdots+0bb v_k = '\\y01d7ce',
-c_1 bb v_1+c_2 bb v_2 cdots+c_k bb v_k = '\\y01d7ce'
+0bb v_1+cdots+0bb v_k = bb 0,
+c_1 bb v_1+c_2 bb v_2 cdots+c_k bb v_k = bb 0
 c_1 != 0.
 1//c_1
 bb v_1 = - (c_2)/(c_1) bb v_2-cdots- (c_k)/(c_1) bb v_k.
-c_1 bb v_1+cdots+c_k bb v_k = '\\y01d7ce'
+c_1 bb v_1+cdots+c_k bb v_k = bb 0
 c_1, ..., c_k,
 c_1 = 0, ..., c_k = 0.
-c_1 bb v_1+cdots+c_k bb v_k = '\\y01d7ce'
+c_1 bb v_1+cdots+c_k bb v_k = bb 0
 c_1, ..., c_k,
 {bb v_1, ..., bb v_k}
 c_1, ..., c_k,
-c_1 bb v_1+cdots+c_k bb v = '\\y01d7ce'.
+c_1 bb v_1+cdots+c_k bb v = bb 0.
 c_1 = 0, ..., c_k = 0,
-c_1 bb v_1+cdots+c_k bb v = '\\y01d7ce'.
-c_1 bb v_1+cdots+c_k bb v_k = '\\y01d7ce',
+c_1 bb v_1+cdots+c_k bb v = bb 0.
+c_1 bb v_1+cdots+c_k bb v_k = bb 0,
 c_1 = 0, ..., c_k = 0.
 c_1, ..., c_k,
-c_1 bb v_1+cdots+c_k bb v = '\\y01d7ce'.
+c_1 bb v_1+cdots+c_k bb v = bb 0.
 c_1, ..., c_k
-c_1 bb v_1+cdots+c_k bb v = '\\y01d7ce'
+c_1 bb v_1+cdots+c_k bb v = bb 0
 c_1 = 0, ..., c_k = 0.
 V:
-bb v != '\\y01d7ce',
+bb v != bb 0,
 {bb v}
 S sube V
 S
-cbb v = '\\y01d7ce'
+cbb v = bb 0
 c,
 c = 0.
-cbb v = '\\y01d7ce',
+cbb v = bb 0,
 c = 0
-bb v = '\\y01d7ce'.
-bb v = '\\y01d7ce',
+bb v = bb 0.
+bb v = bb 0,
 c?
-'\\y01d7ce'
+bb 0
 {bb v_1, ..., bb v_k}
-'\\y01d7ce'
-'\\y01d7ce' = 0bb v_1+0bb v_2+cdots+0bb v_k.
+bb 0
+bb 0 = 0bb v_1+0bb v_2+cdots+0bb v_k.
 bb u = [[1], [-1], [4]], bb v = [[0], [2], [-3]], bb w = [[4], [0], [-3]]
 RR^3.
-xbb u+ybb v+zbb w = '\\y01d7ce',
+xbb u+ybb v+zbb w = bb 0,
 [[1, 0, 4], [-1, 2, 0], [4, -3, -3]][[x], [y], [z]] = [[0], [0], [0]].
 A = [[1, 0, 4], [-1, 2, 0], [4, -3, -3]]
-[[x], [y], [z]] = A^(-1)'\\y01d7ce' = '\\y01d7ce'.
+[[x], [y], [z]] = A^(-1)bb 0 = bb 0.
 A.
 RR^3.
 3 xx 4
@@ -5655,8 +5655,8 @@ G_ lambda(T)
 bb v, Nbb v, N^2 bb v, ..., N^(m-1)bb v,
 bb v = bb v_m,
 bb v_1 = N^(m-1)bb v
-N^m bb v = (T-lambda I)bb v_1 = '\\y01d7ce',
-N^m bb v_j = '\\y01d7ce'
+N^m bb v = (T-lambda I)bb v_1 = bb 0,
+N^m bb v_j = bb 0
 j = 1, ..., m.
 dim E_ lambda(T) > 1
 T
@@ -5914,7 +5914,7 @@ A
 bb x_1, bb x_2
 A
 Abb x_1 = lambda_1 bb x_1\ "\and\ "Abb x_2 = lambda_2 bb x_2,
-bb x_1 != '\\y01d7ce', bb x_2 != '\\y01d7ce',
+bb x_1 != bb 0, bb x_2 != bb 0,
 lambda_1 != lambda_2.
 A
 lambda_1(bb x_1*bb x_2) = (lambda_1 bb x_1)*bb x_2 = (Abb x_1)*bb x_2 = bb x_1*(Abb x_2) = bb x_1(lambda_2 bb x_2) = lambda_2(bb x_1*bb x_2).
