@@ -3,7 +3,7 @@ from __future__ import annotations
 from pathlib import Path
 import sys
 from typing import Any
-
+import re
 import pandas as pd
 from pandas import DataFrame, ExcelWriter
 
@@ -76,17 +76,19 @@ def _create_scatter_chart(
 def _compute_histogram_for_code(
     base_dir: str,
     code: str,
-    levels: list[str],
 ) -> DataFrame:
-    lengths: list[int] = []
+    """
+    Load a single merged <code>.brls file and compute the histogram.
+    """
+    file_path = Path(base_dir) / f"{code}.brls"
 
-    for level in levels:
-        directory = Path(base_dir) / code / level
-        files = sorted(directory.glob("*.brls"))
-        for file in files:
-            with open(file, "r", encoding="utf-8") as f:
-                for line in f:
-                    lengths.append(len(line.rstrip("\n")))
+    if not file_path.is_file():
+        return pd.DataFrame()
+
+    lengths: list[int] = []
+    with open(file_path, "r", encoding="utf-8") as f:
+        for line in f:
+            lengths.append(len(line.rstrip("\n")))
 
     if not lengths:
         return pd.DataFrame()
@@ -354,7 +356,7 @@ def generate_summary_sheet(
     dist_chart = _create_scatter_chart(
         workbook, sheet_name, start_row, x_end_row, freq_series, "Distribution"
     )
-    dist_chart.set_y_axis({"min": 0, "max": 30, "major_unit": 10})
+    dist_chart.set_y_axis({"min": 0, "max": 20, "major_unit": 10})
     worksheet.insert_chart("D90", dist_chart)
 
     cum_chart = _create_scatter_chart(
@@ -373,11 +375,12 @@ def generate_summary_sheet(
         dist_chart = _create_scatter_chart(
             workbook, sheet_name, start_row, x_end_row, freq_s, f"{code} Distribution"
         )
-        dist_chart.set_y_axis({"min": 0, "max": 30, "major_unit": 10})
+        dist_chart.set_y_axis({"min": 0, "max": 20, "major_unit": 10})
         worksheet.insert_chart(f"D{row}", dist_chart)
 
         cum_chart = _create_scatter_chart(
-            workbook, sheet_name, start_row, x_end_row, cum_s, f"{code} Cumulative"  # pyright: ignore[reportArgumentType]
+            workbook, sheet_name, start_row, x_end_row, cum_s,   # pyright: ignore[reportArgumentType]
+            f"{code} Cumulative"
         )
         cum_chart.set_y_axis({"min": 0, "max": 100, "major_unit": 10})
         worksheet.insert_chart(f"L{row}", cum_chart)
@@ -387,20 +390,86 @@ def generate_summary_sheet(
     print(f"Successfully added summary sheet '{sheet_name}' to workbook.")
 
 
+def _load_simplespeak_mmls() -> list[str]:
+    """
+    Load ../SimpleSpeakData.mmls relative to the program's execution directory.
+    This will later be used to filter which lines from the other six code files
+    are included in graphs and tables.
+    """
+    file_path = Path("..") / "SimpleSpeakData.mmls"
+
+    if not file_path.is_file():
+        print(f"WARNING: SimpleSpeakData.mmls not found at {file_path}")
+        return []
+
+    lines: list[str] = []
+    with open(file_path, "r", encoding="utf-8") as f:
+        for line in f:
+            lines.append(line.rstrip("\n"))
+
+    print(f"Loaded {len(lines)} lines from {file_path}")
+    return lines
+
+
+# Allow whitespace between tags and around content
+_SIMPLE_MI_MN_PATTERN = re.compile(
+    r"""^\s*
+        <math>\s*                # <math> with optional whitespace
+        <(mi|mn)>\s*             # <mi> or <mn>
+        .*?                      # the content (xxx)
+        \s*</\1>\s*              # matching </mi> or </mn>
+        </math>\s*               # </math> with optional whitespace
+        $""",
+    re.VERBOSE,
+)
+
+
+_SIMPLE_MI_MN_PATTERN = re.compile(
+    r"""^\s*
+        <math>\s*                # <math> with optional whitespace
+        <(mi|mn)>\s*             # <mi> or <mn>
+        .*?                      # the content (xxx)
+        \s*</\1>\s*              # matching </mi> or </mn>
+        </math>\s*               # </math> with optional whitespace
+        $""",
+    re.VERBOSE,
+)
+
+
+def filter_simple_mi_mn(textbook_lines: list[str]) -> list[int]:
+    """
+    Return the line numbers (0-based) of textbook_lines that match the simple
+    MathML patterns:
+        <math><mi>xxx</mi></math>
+        <math><mn>xxx</mn></math>
+    allowing arbitrary whitespace between tags.
+    """
+    selected: list[int] = []
+
+    for idx, line in enumerate(textbook_lines):
+        if _SIMPLE_MI_MN_PATTERN.match(line):
+            selected.append(idx)
+
+    return selected
+
+
 def main() -> None:
     codes: list[str] = [
         "Nemeth",
         "UEB",
         "LaTeX",
-        "LaTeX6",
+        "LaTeX-6",
         "ASCIIMath",
-        "ASCIIMath6",
+        "ASCIIMath-6",
     ]
-    levels = ["highschool", "college"]
-    base_dir = "Braille"
+
+    base_dir: str = "Braille"
 
     writer: ExcelWriter | None = None
     hist_by_code: dict[str, DataFrame] = {}
+
+    # --- Load SimpleSpeakData.mmls (not used yet) ---
+    simplespeak_lines: list[str] = _load_simplespeak_mmls()
 
     try:
         try:
@@ -413,12 +482,13 @@ def main() -> None:
             )
             sys.exit(1)
 
+        # Load histograms from <code>.brls files
         for code in codes:
-            hist = _compute_histogram_for_code(base_dir, code, levels)
+            hist = _compute_histogram_for_code(base_dir, code)
             if not hist.empty:
                 hist_by_code[code] = hist
 
-        if hist_by_code:
+        if hist_by_code and writer is not None:
             generate_summary_sheet(writer, hist_by_code, codes)
 
     finally:
