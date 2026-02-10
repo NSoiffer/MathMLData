@@ -101,7 +101,7 @@ def ProcessFile(file_name: str, dest_dir: str, config: dict[str, str | bool]):
                     out_stream.write("\n")
                 except Exception as e:
                     print(f"Error in {file_path} -> {brailleCode}: see mml2brl.log for details")
-                    out_stream.write("⠀n")   # write something to the output file to keep the line count aligned
+                    out_stream.write("⠀\n")   # write something to the output file to keep the line count aligned
                     debug_logger.error(
                         f"File: {file_path} -> {brailleCode}\nMathML:\n{line}\nError: {e}\n{'-'*60}"
                     )
@@ -145,19 +145,6 @@ def ProcessFileList(file_paths: list[str], dest_dir: str,
     }
 
 
-def ProcessAllFilesInDir(source_dir: str, dest_dir: str,
-                         config: dict[str, str | bool], max_workers: int):
-
-    file_paths: list[str] = []
-    for root, dirs, files in os.walk(source_dir):
-        file_paths.extend(
-            f"{root}/{f}" for f in files
-            if f.endswith("no-dups.mmls")
-        )
-
-    return ProcessFileList(file_paths, dest_dir, config, max_workers)
-
-
 def parse_args():
     parser = argparse.ArgumentParser(
         description="Batch process MathML files into braille output"
@@ -183,6 +170,12 @@ def parse_args():
         nargs="+",
         required=True,
         help="One or more braille codes (e.g., Nemeth UEB)"
+    )
+
+    parser.add_argument(
+        "--use-dups",
+        action="store_true",
+        help="Enable use-dups mode (default: off)"
     )
 
     parser.add_argument(
@@ -232,7 +225,9 @@ def main():
         for source_dir in args.dir:
             for root, dirs, files in os.walk(source_dir):
                 for f in files:
-                    if f.endswith("no-dups.mmls"):
+                    if args.use_dups and f.endswith("no-dups.mmls"):
+                        file_list.append(f"{root}/{f}")
+                    elif not args.use_dups and f.find("no-dups") == -1:   # avoid no-dups.mmls and no-dups-cnclz.mmls
                         file_list.append(f"{root}/{f}")
         mode = "dirs"
 
