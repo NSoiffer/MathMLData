@@ -3,7 +3,6 @@ from __future__ import annotations
 
 from pathlib import Path
 import sys
-import os
 from typing import Any
 import re
 import math
@@ -32,14 +31,6 @@ def _apply_x_axis(chart: Any) -> None:
 
 
 # ---------- Chart helpers ----------
-def _apply_legend_visibility(chart: Any, series_count: int) -> None:
-    """Hide legend if only one series; show it otherwise."""
-    if series_count <= 1:
-        chart.set_legend({"none": True})  # type: ignore[attr-defined]
-    else:
-        chart.set_legend({"none": False})  # type: ignore[attr-defined]
-
-
 def _create_scatter_chart(
     workbook: Any,
     sheet_name: str,
@@ -322,47 +313,6 @@ def _insert_width_fit_table_generic(
             worksheet.write(excel_row, start_col + 1 + j, int(round(float(rows.iloc[0]))), number_fmt)
 
 
-def _append_summary_statistics(
-    worksheet: Any,
-    combined_df: DataFrame,
-    start_row: int,
-    data_rows: int,
-) -> None:
-    """
-    Append mean and median rows for frequency columns only,
-    placed two rows after the last data row.
-    """
-    first_data_excel_row: int = start_row + 1
-    last_data_excel_row: int = start_row + data_rows
-    stats_excel_row: int = last_data_excel_row + 2
-    stats_row: int = stats_excel_row - 1
-
-    freq_cols: list[str] = [
-        col for col in combined_df.columns
-        if col.startswith("Frequency %_")
-    ]
-
-    worksheet.write(stats_row, 0, "Mean")        # type: ignore[attr-defined]
-    worksheet.write(stats_row + 1, 0, "Median")  # type: ignore[attr-defined] # noqa: E501
-    for col in freq_cols:
-        col_idx: int = combined_df.columns.get_loc(col)  # type: ignore[arg-type]
-        excel_col: str = chr(ord("A") + col_idx)  # type: ignore[operator]
-
-        data_start: int = first_data_excel_row
-        data_end: int = last_data_excel_row
-
-        worksheet.write_formula(  # type: ignore[attr-defined]
-            stats_row,
-            col_idx,
-            f"=ROUND(AVERAGE({excel_col}{data_start}:{excel_col}{data_end}), 2)",
-        )
-        worksheet.write_formula(  # type: ignore[attr-defined]
-            stats_row + 1,
-            col_idx,
-            f"=ROUND(MEDIAN({excel_col}{data_start}:{excel_col}{data_end}), 2)",
-        )
-
-
 # ---------- Summary sheet orchestrator ----------
 def generate_summary_sheet(
     writer: ExcelWriter,
@@ -578,7 +528,6 @@ def _load_filtered_code_lengths(
 
     return lengths
 
-_SIMPLE_TAGS = {"mi", "mn", "mo", "mtext"}
 
 def _parse_mathml_lines(lines: list[str]) -> list[ET.Element]:
     parsed = []
@@ -589,109 +538,6 @@ def _parse_mathml_lines(lines: list[str]) -> list[ET.Element]:
             # Skip malformed MathML
             continue
     return parsed
-
-
-def analyze_2d_child_simplicity_by_tag(textbook_lines: list[str]) -> dict:
-    """
-    For each 2-D MathML tag, compute:
-      - % of all 2D elements that are this tag
-      - % of elements of this tag with at least one simple child
-      - % simple for child positions 1–3 (mi, mn, mo, mtext)
-    Also compute:
-      - totals per child (across all tags)
-      - grand total: % of 2D elements with at least one simple child
-    """
-    two_d_tags_set = set(_TWO_D_TAGS)
-
-    simple_counts = {tag: [0, 0, 0] for tag in two_d_tags_set}
-    total_counts  = {tag: [0, 0, 0] for tag in two_d_tags_set}
-
-    has_simple_count = {tag: 0 for tag in two_d_tags_set}
-    tag_total        = {tag: 0 for tag in two_d_tags_set}
-
-    total_2d_elements = 0
-
-    for line in textbook_lines:
-        try:
-            root = ET.fromstring(line)
-        except ET.ParseError:
-            continue
-
-        for elem in root.iter():
-            tag = elem.tag.split("}")[-1]
-            if tag not in two_d_tags_set:
-                continue
-
-            total_2d_elements += 1
-            tag_total[tag] += 1
-
-            children = list(elem)
-            found_simple = False
-
-            for i, child in enumerate(children[:3]):
-                child_tag = child.tag.split("}")[-1]
-                total_counts[tag][i] += 1
-
-                if child_tag in _SIMPLE_TAGS:
-                    simple_counts[tag][i] += 1
-                    found_simple = True
-
-            if found_simple:
-                has_simple_count[tag] += 1
-
-    # Per-tag rows: [occ_pct, pct_has_simple, child1_pct/None, child2_pct/None, child3_pct/None]
-    per_tag: dict[str, list[float | None]] = {}
-    for tag in two_d_tags_set:
-        row: list[float | None] = []
-
-        # % of all 2D elements that are this tag
-        if total_2d_elements == 0:
-            occ_pct = 0.0
-        else:
-            occ_pct = round(100 * tag_total[tag] / total_2d_elements, 2)
-        row.append(occ_pct)
-
-        # % of this tag's elements with at least one simple child
-        if tag_total[tag] == 0:
-            pct_has_simple = 0.0
-        else:
-            pct_has_simple = round(100 * has_simple_count[tag] / tag_total[tag], 2)
-        row.append(pct_has_simple)
-
-        # Child1–3 simple %
-        for i in range(3):
-            if total_counts[tag][i] == 0:
-                row.append(None)  # leave blank in sheet
-            else:
-                pct = 100 * simple_counts[tag][i] / total_counts[tag][i]
-                row.append(round(pct, 2))
-
-        per_tag[tag] = row
-
-    # Totals per child (across all tags)
-    totals: list[float | None] = []
-    for i in range(3):
-        total_simple = sum(simple_counts[tag][i] for tag in two_d_tags_set)
-        total_total  = sum(total_counts[tag][i] for tag in two_d_tags_set)
-        if total_total == 0:
-            totals.append(None)
-        else:
-            totals.append(round(100 * total_simple / total_total, 2))
-
-    # Grand total: % of 2D elements with at least one simple child
-    if total_2d_elements == 0:
-        grand = 0.0
-    else:
-        grand = round(
-            100 * sum(has_simple_count[tag] for tag in two_d_tags_set) / total_2d_elements,
-            2,
-        )
-
-    return {
-        "per_tag": per_tag,
-        "totals": totals,
-        "grand": grand,
-    }
 
 
 def analyze_2d_structure(mathml_lines: list[Element]) -> dict[str, Any]:
@@ -1127,21 +973,6 @@ def _write_filtered_sheet_2d(
         sheet_name="2D exprs",
         total_unfiltered_count=total_unfiltered_count,
     )
-
-
-def build_line_to_code_map(
-    codes: list[str],
-    code_line_indices: dict[str, list[int]],
-) -> dict[int, str]:
-    """
-    Build a mapping from line index -> code name.
-    Example: { 0: "LaTeX", 1: "LaTeX", 2: "ASCIIMath", ... }
-    """
-    mapping: dict[int, str] = {}
-    for code in codes:
-        for idx in code_line_indices[code]:
-            mapping[idx] = code
-    return mapping
 
 
 NON_ALNUM = r"[^A-Za-z0-9]"
