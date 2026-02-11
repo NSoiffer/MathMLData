@@ -1,5 +1,9 @@
 from pathlib import Path
 from collections import defaultdict
+import sys
+
+sys.stdout.reconfigure(encoding="utf-8")  # type: ignore[attr-defined]
+
 
 # The 7 parallel directories you listed
 ROOT_DIRS = [
@@ -52,7 +56,7 @@ def collect_files():
                     continue
 
                 # Skip any file containing "-no-dups"
-                if "-no-dups" in file.name:
+                if "-no-dups" in file.name or "-cnclz" in file.name:
                     continue
 
                 key = (sub, base_name(file))

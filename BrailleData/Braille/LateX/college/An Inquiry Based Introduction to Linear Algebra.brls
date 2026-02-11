@@ -1,583 +1,583 @@
-\beta𝐖,𝐖
-\mathbf𝐖P𝐖
-\mathbf𝐖P𝐖
-\beta𝐖𝐖.
-\lt𝐖mi/>_\beta𝐖𝐖𝐖=𝐖\begin{bmatrix}𝐖c_1𝐖𝐖\\𝐖c_2𝐖𝐖\\𝐖\vdots𝐖𝐖\\𝐖c_n𝐖𝐖\end{bmatrix}𝐖𝐖\in𝐖\mathbb𝐖R𝐖^n𝐖
-\mathtt𝐖A𝐖_{r𝐖\times𝐖c}𝐖𝐖=[a_{ij}𝐖]𝐖=𝐖\begin{bmatrix}𝐖a_{11}𝐖𝐖&𝐖a_{12}𝐖𝐖&𝐖\cdots𝐖𝐖&𝐖a_{1c}𝐖𝐖\\𝐖a_{21}𝐖𝐖&𝐖a_{22}𝐖𝐖&𝐖\cdots𝐖𝐖&𝐖a_{2c}𝐖𝐖\\𝐖\vdots𝐖𝐖&𝐖\vdots𝐖𝐖&𝐖\ddots𝐖𝐖&𝐖\vdots𝐖𝐖\\𝐖a_{r1}𝐖𝐖&𝐖a_{r2}𝐖𝐖&𝐖\cdots𝐖𝐖&𝐖a_{rc}𝐖𝐖\end{bmatrix}𝐖
-\mathtt𝐖A𝐖_{r𝐖\times𝐖c}𝐖𝐖=[a_{ij}𝐖]
-\mathtt𝐖B𝐖_{m𝐖\times𝐖n}𝐖𝐖=[b_{ij}𝐖]
-\mathtt𝐖A𝐖
-\mathtt𝐖B𝐖
-r𝐖=m
-c𝐖=n
-\mathtt𝐖A𝐖𝐖+\mathtt𝐖B𝐖𝐖=[s_{ij}𝐖]\~where\~s_{ij}𝐖𝐖=a_{ij}𝐖𝐖+b_{ij}𝐖
-t𝐖\in𝐖\mathbb𝐖R𝐖
-\mathtt𝐖A𝐖
-t\mathtt𝐖A𝐖𝐖=[q_{ij}𝐖]\~where\~q_{ij}𝐖𝐖=ta_{ij}𝐖
-\mathtt𝐖A𝐖
-\mathtt𝐖B𝐖
-c𝐖=m
-\mathtt𝐖A𝐖\mathtt𝐖B𝐖𝐖=[p_{ij}𝐖]\~where\~p_{ij}𝐖𝐖=a_{i1}𝐖b_{1j}𝐖𝐖+a_{i2}𝐖b_{2j}𝐖𝐖+\cdots𝐖𝐖+a_{in}𝐖b_{nj}𝐖
-n𝐖\times𝐖n
-n𝐖\times𝐖n
-\mathtt𝐖O𝐖
-n𝐖\times𝐖n
-\mathtt𝐖M𝐖,𝐖
-\mathtt𝐖M𝐖𝐖+\mathtt𝐖O𝐖𝐖=\mathtt𝐖M𝐖𝐖.
-\mathtt𝐖O𝐖
-n𝐖\times𝐖n
-n𝐖\times𝐖n
-\mathtt𝐖I𝐖
-n𝐖\times𝐖n
-\mathtt𝐖M𝐖,𝐖
-\mathtt𝐖M𝐖\mathtt𝐖I𝐖𝐖=\mathtt𝐖M𝐖
-\mathtt𝐖I𝐖\mathtt𝐖M𝐖𝐖=\mathtt𝐖M𝐖𝐖.
-\mathtt𝐖A𝐖
-\mathtt𝐖A𝐖^{𝐖-1}𝐖
-\mathtt𝐖A𝐖\mathtt𝐖A𝐖^{𝐖-1}𝐖𝐖=\mathtt𝐖I𝐖
-\mathtt𝐖A𝐖^{𝐖-1}𝐖\mathtt𝐖A𝐖𝐖=\mathtt𝐖I𝐖
-2𝐖\times𝐖2
-\mathtt𝐖A𝐖𝐖=𝐖\begin{bmatrix}𝐖a_{11}𝐖𝐖&𝐖a_{12}𝐖𝐖\\𝐖a_{21}𝐖𝐖&𝐖a_{22}𝐖𝐖\end{bmatrix}𝐖𝐖&𝐖\mathtt𝐖B𝐖𝐖=𝐖\begin{bmatrix}𝐖b_{11}𝐖𝐖&𝐖b_{12}𝐖𝐖\\𝐖b_{21}𝐖𝐖&𝐖b_{22}𝐖𝐖\end{bmatrix}𝐖𝐖&𝐖\mathtt𝐖C𝐖𝐖=𝐖\begin{bmatrix}𝐖c_{11}𝐖𝐖&𝐖c_{12}𝐖𝐖\\𝐖c_{21}𝐖𝐖&𝐖c_{22}𝐖𝐖\end{bmatrix}𝐖
-k(\mathtt𝐖A𝐖\mathtt𝐖B𝐖)𝐖=(k\mathtt𝐖A𝐖)\mathtt𝐖B𝐖𝐖=\mathtt𝐖A𝐖(k\mathtt𝐖B𝐖)
-(\mathtt𝐖A𝐖\mathtt𝐖B𝐖)\mathtt𝐖C𝐖𝐖=\mathtt𝐖A𝐖(B\mathtt𝐖C𝐖)
-\mathtt𝐖A𝐖𝐖+\mathtt𝐖B𝐖𝐖=\mathtt𝐖B𝐖𝐖+\mathtt𝐖A𝐖
-\mathtt𝐖A𝐖(\mathtt𝐖B𝐖𝐖+\mathtt𝐖C𝐖)𝐖=\mathtt𝐖A𝐖\mathtt𝐖B𝐖𝐖+\mathtt𝐖A𝐖\mathtt𝐖C𝐖
-\mathtt𝐖A𝐖^{𝐖-1}𝐖𝐖=\frac{1}{a_{11}𝐖a_{22}𝐖𝐖-a_{12}𝐖a_{21}𝐖}𝐖\begin{bmatrix}𝐖a_{22}𝐖𝐖&𝐖𝐖-a_{12}𝐖𝐖\\𝐖𝐖-a_{21}𝐖𝐖&𝐖a_{11}𝐖𝐖\end{bmatrix}𝐖\~if\~sersera_{11}𝐖a_{22}𝐖𝐖-a_{12}𝐖a_{21}𝐖𝐖\not=𝐖0
-\mathtt𝐖A𝐖\mathtt𝐖B𝐖𝐖=\mathtt𝐖A𝐖\mathtt𝐖C𝐖\~and\~\mathtt𝐖A𝐖𝐖\not=𝐖\mathtt𝐖O𝐖)𝐖\implies𝐖\mathtt𝐖B𝐖𝐖=\mathtt𝐖C𝐖
-\mathtt𝐖A𝐖\mathtt𝐖B𝐖𝐖=\mathtt𝐖O𝐖𝐖\implies𝐖(\mathtt𝐖A𝐖𝐖=\mathtt𝐖O𝐖\~or\~\mathtt𝐖B𝐖𝐖=\mathtt𝐖O𝐖)
+\beta,
+\mathbf P
+\mathbf P
+\beta .
+\lt mi/>_\beta = \begin{bmatrix} c_1 \\ c_2 \\ \vdots \\ c_n \end{bmatrix} \in \mathbb R^n
+\mathtt A_{r \times c} =[a_{ij}] = \begin{bmatrix} a_{11} & a_{12} & \cdots & a_{1c} \\ a_{21} & a_{22} & \cdots & a_{2c} \\ \vdots & \vdots & \ddots & \vdots \\ a_{r1} & a_{r2} & \cdots & a_{rc} \end{bmatrix}
+\mathtt A_{r \times c} =[a_{ij}]
+\mathtt B_{m \times n} =[b_{ij}]
+\mathtt A
+\mathtt B
+r =m
+c =n
+\mathtt A +\mathtt B =[s_{ij}]\~where\~s_{ij} =a_{ij} +b_{ij}
+t \in \mathbb R
+\mathtt A
+t\mathtt A =[q_{ij}]\~where\~q_{ij} =ta_{ij}
+\mathtt A
+\mathtt B
+c =m
+\mathtt A \mathtt B =[p_{ij}]\~where\~p_{ij} =a_{i1} b_{1j} +a_{i2} b_{2j} +\cdots +a_{in} b_{nj}
+n \times n
+n \times n
+\mathtt O
+n \times n
+\mathtt M,
+\mathtt M +\mathtt O =\mathtt M .
+\mathtt O
+n \times n
+n \times n
+\mathtt I
+n \times n
+\mathtt M,
+\mathtt M \mathtt I =\mathtt M
+\mathtt I \mathtt M =\mathtt M .
+\mathtt A
+\mathtt A^{ -1}
+\mathtt A \mathtt A^{ -1} =\mathtt I
+\mathtt A^{ -1} \mathtt A =\mathtt I
+2 \times 2
+\mathtt A = \begin{bmatrix} a_{11} & a_{12} \\ a_{21} & a_{22} \end{bmatrix} & \mathtt B = \begin{bmatrix} b_{11} & b_{12} \\ b_{21} & b_{22} \end{bmatrix} & \mathtt C = \begin{bmatrix} c_{11} & c_{12} \\ c_{21} & c_{22} \end{bmatrix}
+k(\mathtt A \mathtt B) =(k\mathtt A)\mathtt B =\mathtt A (k\mathtt B)
+(\mathtt A \mathtt B)\mathtt C =\mathtt A (B\mathtt C)
+\mathtt A +\mathtt B =\mathtt B +\mathtt A
+\mathtt A (\mathtt B +\mathtt C) =\mathtt A \mathtt B +\mathtt A \mathtt C
+\mathtt A^{ -1} =\frac{1}{a_{11} a_{22} -a_{12} a_{21}} \begin{bmatrix} a_{22} & -a_{12} \\ -a_{21} & a_{11} \end{bmatrix} \~if\~sersera_{11} a_{22} -a_{12} a_{21} \not= 0
+\mathtt A \mathtt B =\mathtt A \mathtt C \~and\~\mathtt A \not= \mathtt O) \implies \mathtt B =\mathtt C
+\mathtt A \mathtt B =\mathtt O \implies (\mathtt A =\mathtt O \~or\~\mathtt B =\mathtt O)
 f
-g,𝐖
-c,𝐖
-f𝐖+g
+g,
+c,
+f +g
 cf
-x,𝐖
-(f𝐖+g)(x)𝐖\colon𝐖=f(x)𝐖+g(x)
-(cf)(x)𝐖\colon𝐖=c𝐖\cdot𝐖f(x)𝐖.
+x,
+(f +g)(x) \colon =f(x) +g(x)
+(cf)(x) \colon =c \cdot f(x) .
 f
 x
-\lim𝐖_{w𝐖\to𝐖x}𝐖f(w)𝐖=f(x)𝐖.
-\mathbf𝐖P𝐖
-\mathbf𝐖Q𝐖
-\mathbb𝐖L𝐖,𝐖
-\mathbf𝐖Y𝐖
-\mathbf𝐖P𝐖𝐖+\mathbf𝐖Y𝐖𝐖=\mathbf𝐖Q𝐖𝐖.
-\mathbf𝐖P𝐖
-\mathbf𝐖Q𝐖
-\mathbb𝐖L𝐖𝐖.
-\mathbf𝐖Q𝐖
-\mathbf𝐖P𝐖
-\mathbf𝐖Q𝐖𝐖-\mathbf𝐖P𝐖,𝐖
-\mathbf𝐖P𝐖
-\mathbf𝐖Q𝐖𝐖.
-\mathbf𝐖Q𝐖𝐖-\mathbf𝐖P𝐖
-\mathbf𝐖P𝐖𝐖+(\mathbf𝐖Q𝐖𝐖-\mathbf𝐖P𝐖)𝐖=\mathbf𝐖Q𝐖𝐖.
-\mathbf𝐖v𝐖𝐖=(v_1𝐖,𝐖v_2𝐖,𝐖v_3𝐖)
-t𝐖\in𝐖\mathbb𝐖R𝐖𝐖.
+\lim_{w \to x} f(w) =f(x) .
+\mathbf P
+\mathbf Q
+\mathbb L,
+\mathbf Y
+\mathbf P +\mathbf Y =\mathbf Q .
+\mathbf P
+\mathbf Q
+\mathbb L .
+\mathbf Q
+\mathbf P
+\mathbf Q -\mathbf P,
+\mathbf P
+\mathbf Q .
+\mathbf Q -\mathbf P
+\mathbf P +(\mathbf Q -\mathbf P) =\mathbf Q .
+\mathbf v =(v_1, v_2, v_3)
+t \in \mathbb R .
 t
-\mathbf𝐖v𝐖
-t\mathbf𝐖v𝐖𝐖=(tv_1𝐖,𝐖tv_2𝐖,𝐖tv_3𝐖)
-\mathbf𝐖v𝐖𝐖=(v_1𝐖,𝐖v_2𝐖,𝐖v_3𝐖)
-\mathbf𝐖w𝐖𝐖=(w_1𝐖,𝐖w_2𝐖,𝐖w_3𝐖)𝐖.
-\mathbf𝐖v𝐖
-\mathbf𝐖w𝐖
-\mathbf𝐖v𝐖𝐖+\mathbf𝐖w𝐖𝐖=(v_1𝐖𝐖+w_1𝐖,𝐖v_2𝐖𝐖+w_2𝐖,𝐖v_3𝐖𝐖+w_3𝐖)𝐖.
-\mathbf𝐖v𝐖𝐖=(v_1𝐖,𝐖v_2𝐖,𝐖v_3𝐖)𝐖\in𝐖\mathbb𝐖R𝐖^3𝐖
-\mathbf𝐖x𝐖𝐖=(x_1𝐖,𝐖x_2𝐖,𝐖x_3𝐖)𝐖\in𝐖\mathbb𝐖R𝐖^3𝐖
-\mathbf𝐖x𝐖
-\mathbf𝐖v𝐖
-\mathbf𝐖0𝐖𝐖=(0,𝐖0,𝐖0)𝐖.
-\mathbf𝐖v𝐖
-\mathbf𝐖x𝐖
-\mathbf𝐖v𝐖𝐖=(v_1𝐖,𝐖v_2𝐖,𝐖v_3𝐖)𝐖\in𝐖\mathbb𝐖R𝐖^3𝐖
-\mathbf𝐖w𝐖𝐖=(w_1𝐖,𝐖w_2𝐖,𝐖w_3𝐖)𝐖\in𝐖\mathbb𝐖R𝐖^3𝐖
-\mathbf𝐖y𝐖𝐖=(y_1𝐖,𝐖y_2𝐖,𝐖y_3𝐖)𝐖\in𝐖\mathbb𝐖R𝐖^3𝐖
-\mathbf𝐖y𝐖
-\mathbf𝐖v𝐖
-\mathbf𝐖w𝐖𝐖=(w_1𝐖,𝐖w_2𝐖,𝐖w_3𝐖)𝐖.
-\mathbf𝐖v𝐖
-\mathbf𝐖w𝐖
-\mathbf𝐖y𝐖
-\mathbf𝐖v𝐖𝐖=(v_1𝐖,𝐖v_2𝐖,𝐖v_3𝐖)𝐖\in𝐖\mathbb𝐖R𝐖^3𝐖𝐖.
-\mathbf𝐖v𝐖
-𝐖-\mathbf𝐖v𝐖,𝐖
-\mathbf𝐖v𝐖
-\mathbf𝐖0𝐖𝐖=(0,𝐖0,𝐖0)𝐖.
-𝐖-\mathbf𝐖v𝐖
-\mathbf𝐖v𝐖𝐖+𝐖-\mathbf𝐖v𝐖𝐖=0𝐖.
-\mathbf𝐖v𝐖𝐖=(v_1𝐖,𝐖v_2𝐖,𝐖v_3𝐖)𝐖\in𝐖\mathbb𝐖R𝐖^3𝐖
-\mathbf𝐖w𝐖𝐖=(w_1𝐖,𝐖w_2𝐖,𝐖w_3𝐖)𝐖\in𝐖\mathbb𝐖R𝐖^3𝐖𝐖.
-\mathbf𝐖w𝐖
-\mathbf𝐖v𝐖
-\mathbf𝐖w𝐖𝐖-\mathbf𝐖v𝐖,𝐖
-\mathbf𝐖v𝐖
-\mathbf𝐖w𝐖𝐖.
-\mathbf𝐖w𝐖𝐖-\mathbf𝐖v𝐖
-\mathbf𝐖v𝐖𝐖+(\mathbf𝐖w𝐖𝐖-\mathbf𝐖v𝐖)𝐖=\mathbf𝐖w𝐖𝐖.
-\mathbf𝐖v𝐖𝐖=(v_1𝐖,𝐖v_2𝐖,𝐖v_3𝐖)𝐖\in𝐖\mathbb𝐖R𝐖^3𝐖
-k𝐖\in𝐖\mathbb𝐖R𝐖𝐖.
-𝐖\Vert𝐖k\mathbf𝐖v𝐖𝐖\Vert𝐖𝐖=k𝐖\Vert𝐖\mathbf𝐖v𝐖𝐖\Vert𝐖𝐖?
-𝐖\Vert𝐖\mathbf𝐖v𝐖𝐖+\mathbf𝐖w𝐖𝐖\Vert𝐖𝐖=𝐖\Vert𝐖\mathbf𝐖v𝐖𝐖\Vert𝐖𝐖+𝐖\Vert𝐖\mathbf𝐖w𝐖𝐖\Vert𝐖𝐖?
-T𝐖\colon𝐖\mathbb𝐖L𝐖_1𝐖𝐖\longrightarrow𝐖\mathbb𝐖L𝐖_2𝐖
-\mathbb𝐖L𝐖_1𝐖
+\mathbf v
+t\mathbf v =(tv_1, tv_2, tv_3)
+\mathbf v =(v_1, v_2, v_3)
+\mathbf w =(w_1, w_2, w_3) .
+\mathbf v
+\mathbf w
+\mathbf v +\mathbf w =(v_1 +w_1, v_2 +w_2, v_3 +w_3) .
+\mathbf v =(v_1, v_2, v_3) \in \mathbb R^3
+\mathbf x =(x_1, x_2, x_3) \in \mathbb R^3
+\mathbf x
+\mathbf v
+\mathbf 0 =(0, 0, 0) .
+\mathbf v
+\mathbf x
+\mathbf v =(v_1, v_2, v_3) \in \mathbb R^3
+\mathbf w =(w_1, w_2, w_3) \in \mathbb R^3
+\mathbf y =(y_1, y_2, y_3) \in \mathbb R^3
+\mathbf y
+\mathbf v
+\mathbf w =(w_1, w_2, w_3) .
+\mathbf v
+\mathbf w
+\mathbf y
+\mathbf v =(v_1, v_2, v_3) \in \mathbb R^3 .
+\mathbf v
+-\mathbf v,
+\mathbf v
+\mathbf 0 =(0, 0, 0) .
+-\mathbf v
+\mathbf v + -\mathbf v =0 .
+\mathbf v =(v_1, v_2, v_3) \in \mathbb R^3
+\mathbf w =(w_1, w_2, w_3) \in \mathbb R^3 .
+\mathbf w
+\mathbf v
+\mathbf w -\mathbf v,
+\mathbf v
+\mathbf w .
+\mathbf w -\mathbf v
+\mathbf v +(\mathbf w -\mathbf v) =\mathbf w .
+\mathbf v =(v_1, v_2, v_3) \in \mathbb R^3
+k \in \mathbb R .
+\Vert k\mathbf v \Vert =k \Vert \mathbf v \Vert ?
+\Vert \mathbf v +\mathbf w \Vert = \Vert \mathbf v \Vert + \Vert \mathbf w \Vert ?
+T \colon \mathbb L_1 \longrightarrow \mathbb L_2
+\mathbb L_1
 T
-\mathbf𝐖0𝐖𝐖\in𝐖\mathbb𝐖L𝐖_2𝐖
+\mathbf 0 \in \mathbb L_2
 T
-\ker𝐖(T)𝐖=\{\mathbf𝐖P𝐖𝐖\in𝐖\mathbb𝐖L𝐖_1𝐖|T(\mathbf𝐖P𝐖)𝐖=\mathbf𝐖0𝐖\}
-T𝐖\colon𝐖\mathbb𝐖L𝐖_1𝐖𝐖\longrightarrow𝐖\mathbb𝐖L𝐖_2𝐖,𝐖
-\ker𝐖(T)𝐖=\{\mathbf𝐖0𝐖\}
+\ker (T) =\{\mathbf P \in \mathbb L_1 |T(\mathbf P) =\mathbf 0 \}
+T \colon \mathbb L_1 \longrightarrow \mathbb L_2,
+\ker (T) =\{\mathbf 0 \}
 T
-1𝐖-1𝐖.
-\mathbf𝐖P𝐖
-\mathbb𝐖L𝐖𝐖\colon𝐖
-1\mathbf𝐖P𝐖𝐖=\mathbf𝐖P𝐖
-\mathbb𝐖S𝐖
-\mathbb𝐖L𝐖
-\mathbb𝐖S𝐖
-\mathbb𝐖S𝐖
-\mathbb𝐖S𝐖𝐖.
-\mathbf𝐖v𝐖𝐖=(v_1𝐖,𝐖v_2𝐖,𝐖v_3𝐖)
-v_1𝐖,𝐖
-v_2𝐖,𝐖
-v_3𝐖
-𝐖\in𝐖\mathbb𝐖R𝐖𝐖.
-\mathbf𝐖v𝐖𝐖=(v_1𝐖,𝐖v_2𝐖,𝐖v_3𝐖),𝐖
-v_1𝐖
-v_2𝐖
-v_3𝐖
-\mathbf𝐖v𝐖𝐖=(v_1𝐖,𝐖v_2𝐖,𝐖v_3𝐖),𝐖
-v_1𝐖
-v_2𝐖
-v_3𝐖
-\mathbb𝐖R𝐖^3𝐖𝐖.
-\mathbb𝐖R𝐖^3𝐖𝐖=\{(v_1𝐖,𝐖v_2𝐖,𝐖v_3𝐖)|v_1𝐖,𝐖v_2𝐖,𝐖v_3𝐖𝐖\in𝐖\mathbb𝐖R𝐖\}
-\mathbf𝐖v𝐖𝐖=(v_1𝐖,𝐖v_2𝐖,𝐖v_3𝐖)𝐖\in𝐖\mathbb𝐖R𝐖^3𝐖𝐖.
-𝐖\Vert𝐖\mathbf𝐖v𝐖𝐖\Vert𝐖,𝐖
-\mathbf𝐖v𝐖
-\mathbf𝐖v𝐖
+1 -1 .
+\mathbf P
+\mathbb L \colon
+1\mathbf P =\mathbf P
+\mathbb S
+\mathbb L
+\mathbb S
+\mathbb S
+\mathbb S .
+\mathbf v =(v_1, v_2, v_3)
+v_1,
+v_2,
+v_3
+\in \mathbb R .
+\mathbf v =(v_1, v_2, v_3),
+v_1
+v_2
+v_3
+\mathbf v =(v_1, v_2, v_3),
+v_1
+v_2
+v_3
+\mathbb R^3 .
+\mathbb R^3 =\{(v_1, v_2, v_3)|v_1, v_2, v_3 \in \mathbb R \}
+\mathbf v =(v_1, v_2, v_3) \in \mathbb R^3 .
+\Vert \mathbf v \Vert,
+\mathbf v
+\mathbf v
 a
 b
-c𝐖\colon𝐖
-a^2𝐖𝐖+b^2𝐖𝐖=c^2𝐖
-\mathbf𝐖v𝐖𝐖=(v_1𝐖,𝐖v_2𝐖,𝐖v_3𝐖)
-v_1𝐖,𝐖
-v_2𝐖,𝐖
-v_3𝐖
-\mathbf𝐖v𝐖
-𝐖\Vert𝐖\mathbf𝐖v𝐖𝐖\Vert𝐖𝐖=\sqrt{v_1^2𝐖𝐖+v_2^2𝐖𝐖+v_3^2𝐖}
-\mathbf𝐖v𝐖𝐖=(v_1𝐖,𝐖v_2𝐖,𝐖v_3𝐖)
-\mathbf𝐖v𝐖
-𝐖\Vert𝐖\mathbf𝐖v𝐖𝐖\Vert𝐖_{spherical}𝐖𝐖=
-𝐖\Vert𝐖\mathbf𝐖v𝐖𝐖\Vert𝐖_{cylindrical}𝐖𝐖=
-\mathbb𝐖L𝐖
-\mathbb𝐖B𝐖𝐖=\{\mathbf𝐖P𝐖_1𝐖,𝐖\mathbf𝐖P𝐖_2𝐖,𝐖\ldots𝐖,𝐖\mathbf𝐖P𝐖_n𝐖\}
+c \colon
+a^2 +b^2 =c^2
+\mathbf v =(v_1, v_2, v_3)
+v_1,
+v_2,
+v_3
+\mathbf v
+\Vert \mathbf v \Vert =\sqrt{v_1^2 +v_2^2 +v_3^2}
+\mathbf v =(v_1, v_2, v_3)
+\mathbf v
+\Vert \mathbf v \Vert_{spherical} =
+\Vert \mathbf v \Vert_{cylindrical} =
+\mathbb L
+\mathbb B =\{\mathbf P_1, \mathbf P_2, \ldots, \mathbf P_n \}
 n
 n
-\mathbb𝐖R𝐖^3𝐖,𝐖
-\mathbb𝐖R𝐖^2𝐖,𝐖
-\mathbb𝐖R𝐖^5𝐖𝐖?
-\mathbb𝐖R𝐖^3𝐖
-2𝐖\times𝐖2
-\mathbb𝐖L𝐖
-\mathbf𝐖P𝐖
-\mathbf𝐖Q𝐖
-\mathbb𝐖L𝐖
+\mathbb R^3,
+\mathbb R^2,
+\mathbb R^5 ?
+\mathbb R^3
+2 \times 2
+\mathbb L
+\mathbf P
+\mathbf Q
+\mathbb L
 t
-\~𝐖&𝐖\lt𝐖mi/>𝐖\vysmblkcircle𝐖𝐖&𝐖\~𝐖&𝐖\mathbf𝐖P𝐖𝐖+\mathbf𝐖Q𝐖𝐖&𝐖\~𝐖&𝐖called\space𝐖the\space𝐖sum\space𝐖of\~\mathbf𝐖P𝐖\~and\~\mathbf𝐖Q𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\vysmblkcircle𝐖𝐖&𝐖\~𝐖&𝐖t\mathbf𝐖P𝐖𝐖&𝐖\~𝐖&𝐖called\space𝐖the\space𝐖scalar\space𝐖product\space𝐖of\~t\~and\~\mathbf𝐖P𝐖
-\mathbf𝐖P𝐖,𝐖
-\mathbf𝐖Q𝐖,𝐖
-\mathbf𝐖R𝐖
-𝐖\in𝐖\mathbb𝐖L𝐖
-a,𝐖b𝐖\in𝐖\mathbb𝐖R𝐖𝐖\colon𝐖
-\mathbf𝐖P𝐖𝐖+\mathbf𝐖Q𝐖𝐖=\mathbf𝐖Q𝐖𝐖+\mathbf𝐖P𝐖
-\mathbf𝐖P𝐖𝐖+(\mathbf𝐖Q𝐖𝐖+\mathbf𝐖R𝐖)𝐖=(\mathbf𝐖P𝐖𝐖+\mathbf𝐖Q𝐖)𝐖+\mathbf𝐖R𝐖
-a(b\mathbf𝐖P𝐖)𝐖=(ab)\mathbf𝐖P𝐖
-(a𝐖+b)\mathbf𝐖P𝐖𝐖=a\mathbf𝐖P𝐖𝐖+b\mathbf𝐖P𝐖
-a(\mathbf𝐖P𝐖𝐖+\mathbf𝐖Q𝐖)𝐖=a\mathbf𝐖P𝐖𝐖+a\mathbf𝐖Q𝐖
-\mathbf𝐖0𝐖,𝐖
-\mathbf𝐖P𝐖𝐖+\mathbf𝐖0𝐖𝐖=\mathbf𝐖P𝐖
-a\mathbf𝐖P𝐖𝐖=\mathbf𝐖0𝐖
-a𝐖=0
-\mathbf𝐖P𝐖𝐖=\mathbf𝐖0𝐖
-\mathbf𝐖Q𝐖
-\mathbb𝐖L𝐖,𝐖
-\mathbf𝐖X𝐖
-\mathbf𝐖Q𝐖𝐖+\mathbf𝐖X𝐖𝐖=\mathbf𝐖0𝐖𝐖.
-\mathbf𝐖Q𝐖
-\mathbf𝐖Q𝐖𝐖\in𝐖\mathbb𝐖L𝐖𝐖.
-\mathbf𝐖Q𝐖
-𝐖-\mathbf𝐖Q𝐖,𝐖
-\mathbf𝐖Q𝐖
-\mathbf𝐖0𝐖𝐖\in𝐖\mathbb𝐖L𝐖𝐖.
-𝐖-\mathbf𝐖Q𝐖
-\mathbf𝐖Q𝐖𝐖+𝐖-\mathbf𝐖Q𝐖𝐖=\mathbf𝐖0𝐖𝐖.
-\mathbb𝐖P𝐖𝐖=\{c_0𝐖𝐖+c_1𝐖x𝐖+c_2𝐖x^2𝐖𝐖+\cdots𝐖𝐖+c_k𝐖x^k𝐖|c_i𝐖𝐖\in𝐖\mathbb𝐖R𝐖,𝐖k𝐖\in𝐖\mathbb𝐖Z𝐖^+𝐖\}𝐖.
-\mathbb𝐖P𝐖_n𝐖𝐖=\{c_0𝐖𝐖+c_1𝐖x𝐖+c_2𝐖x^2𝐖𝐖+\cdots𝐖𝐖+c_k𝐖x^k𝐖|c_i𝐖𝐖\in𝐖\mathbb𝐖R𝐖,𝐖k𝐖\in𝐖\mathbb𝐖Z𝐖^+𝐖,𝐖k𝐖\lt𝐖n\}𝐖.
-\mathbf𝐖P𝐖
-\mathbf𝐖Q𝐖
-\mathbb𝐖L𝐖,𝐖
-c𝐖\in𝐖\mathbb𝐖R𝐖𝐖\colon𝐖
-c(\mathbf𝐖Q𝐖𝐖-\mathbf𝐖P𝐖)𝐖=c\mathbf𝐖Q𝐖𝐖-c\mathbf𝐖P𝐖
-\mathbf𝐖0𝐖,𝐖
-\mathbb𝐖L𝐖_1𝐖,𝐖\mathbb𝐖L𝐖_2𝐖
-\mathbb𝐖L𝐖_3𝐖
-f𝐖\colon𝐖\mathbb𝐖L𝐖_1𝐖𝐖\longrightarrow𝐖\mathbb𝐖L𝐖_2𝐖,𝐖
-\mathbf𝐖P𝐖,𝐖
-\mathbf𝐖Q𝐖𝐖\in𝐖\mathbb𝐖L𝐖_1𝐖,𝐖
-c𝐖\in𝐖\mathbb𝐖R𝐖𝐖\colon𝐖
-f(\mathbf𝐖P𝐖𝐖+\mathbf𝐖Q𝐖)𝐖=f(\mathbf𝐖P𝐖)𝐖+f(\mathbf𝐖Q𝐖)\~and\~f(c\mathbf𝐖P𝐖)𝐖=cf(\mathbf𝐖P𝐖)
-f(\mathbf𝐖P𝐖𝐖+\mathbf𝐖Q𝐖)𝐖=f(\mathbf𝐖P𝐖)𝐖+f(\mathbf𝐖Q𝐖)
-f(c\mathbf𝐖P𝐖)𝐖=cf(\mathbf𝐖P𝐖)
-\mathbb𝐖L𝐖_1𝐖,𝐖
-\mathbb𝐖L𝐖_2𝐖
-\mathbb𝐖L𝐖_3𝐖
-T𝐖\colon𝐖\mathbb𝐖L𝐖_1𝐖𝐖\longrightarrow𝐖\mathbb𝐖L𝐖_2𝐖
-1𝐖-1
-\mathbb𝐖L𝐖_2𝐖
-T^{𝐖-1}𝐖𝐖\colon𝐖\mathbb𝐖L𝐖_2𝐖𝐖\longrightarrow𝐖\mathbb𝐖L𝐖_1𝐖
-T_1𝐖𝐖\colon𝐖\mathbb𝐖L𝐖_1𝐖𝐖\longrightarrow𝐖\mathbb𝐖L𝐖_2𝐖
-T_2𝐖𝐖\colon𝐖\mathbb𝐖L𝐖_2𝐖𝐖\longrightarrow𝐖\mathbb𝐖L𝐖_3𝐖
-1𝐖-1,𝐖
-T_2𝐖𝐖\circ𝐖T_1𝐖
-n𝐖\times𝐖n
-\mathtt𝐖A𝐖
-\mathtt𝐖B𝐖𝐖\colon𝐖
-\det𝐖(\mathtt𝐖A𝐖\mathtt𝐖B𝐖)𝐖=\det𝐖(\mathtt𝐖A𝐖)\det𝐖(\mathtt𝐖B𝐖)
-\mathbb𝐖S𝐖
-\mathbb𝐖L𝐖
-\mathbb𝐖L𝐖𝐖.
-\mathbb𝐖S𝐖
-\mathbb𝐖L𝐖
-\mathbb𝐖S𝐖
-\mathbb𝐖M𝐖
-\mathbb𝐖L𝐖
-\mathbb𝐖L𝐖
-\mathbb𝐖M𝐖
-\mathbb𝐖M𝐖𝐖\subseteq𝐖\mathbb𝐖L𝐖
-\vysmblkcircle𝐖
-\mathbb𝐖M𝐖
-\mathbf𝐖P𝐖,𝐖
-\mathbf𝐖Q𝐖𝐖\in𝐖\mathbb𝐖M𝐖𝐖\Rightarrow𝐖\mathbf𝐖P𝐖𝐖+\mathbf𝐖Q𝐖𝐖\in𝐖\mathbb𝐖M𝐖
-\vysmblkcircle𝐖
-\mathbb𝐖M𝐖
-c𝐖\in𝐖\mathbb𝐖R𝐖,𝐖
-\mathbf𝐖P𝐖𝐖\in𝐖\mathbb𝐖M𝐖𝐖\Rightarrow𝐖
-\mathbf𝐖P𝐖𝐖\in𝐖\mathbb𝐖M𝐖
-\mathbb𝐖M𝐖
-1𝐖-7
-\mathbb𝐖M𝐖
-\mathbb𝐖L𝐖𝐖.
-\mathbb𝐖M𝐖
-\mathbb𝐖L𝐖
-\mathbb𝐖M𝐖
-\mathbb𝐖M𝐖
-\mathbb𝐖L𝐖
-\mathbb𝐖L𝐖
-\mathbf𝐖P𝐖
-\mathbf𝐖Q𝐖
-\mathbb𝐖M𝐖
+\~ & \lt mi/> \vysmblkcircle & \~ & \mathbf P +\mathbf Q & \~ & called\space the\space sum\space of\~\mathbf P \~and\~\mathbf Q \\ \~ & \lt mi/> \vysmblkcircle & \~ & t\mathbf P & \~ & called\space the\space scalar\space product\space of\~t\~and\~\mathbf P
+\mathbf P,
+\mathbf Q,
+\mathbf R
+\in \mathbb L
+a, b \in \mathbb R \colon
+\mathbf P +\mathbf Q =\mathbf Q +\mathbf P
+\mathbf P +(\mathbf Q +\mathbf R) =(\mathbf P +\mathbf Q) +\mathbf R
+a(b\mathbf P) =(ab)\mathbf P
+(a +b)\mathbf P =a\mathbf P +b\mathbf P
+a(\mathbf P +\mathbf Q) =a\mathbf P +a\mathbf Q
+\mathbf 0,
+\mathbf P +\mathbf 0 =\mathbf P
+a\mathbf P =\mathbf 0
+a =0
+\mathbf P =\mathbf 0
+\mathbf Q
+\mathbb L,
+\mathbf X
+\mathbf Q +\mathbf X =\mathbf 0 .
+\mathbf Q
+\mathbf Q \in \mathbb L .
+\mathbf Q
+-\mathbf Q,
+\mathbf Q
+\mathbf 0 \in \mathbb L .
+-\mathbf Q
+\mathbf Q + -\mathbf Q =\mathbf 0 .
+\mathbb P =\{c_0 +c_1 x +c_2 x^2 +\cdots +c_k x^k |c_i \in \mathbb R, k \in \mathbb Z^+ \} .
+\mathbb P_n =\{c_0 +c_1 x +c_2 x^2 +\cdots +c_k x^k |c_i \in \mathbb R, k \in \mathbb Z^+, k \lt n\} .
+\mathbf P
+\mathbf Q
+\mathbb L,
+c \in \mathbb R \colon
+c(\mathbf Q -\mathbf P) =c\mathbf Q -c\mathbf P
+\mathbf 0,
+\mathbb L_1, \mathbb L_2
+\mathbb L_3
+f \colon \mathbb L_1 \longrightarrow \mathbb L_2,
+\mathbf P,
+\mathbf Q \in \mathbb L_1,
+c \in \mathbb R \colon
+f(\mathbf P +\mathbf Q) =f(\mathbf P) +f(\mathbf Q)\~and\~f(c\mathbf P) =cf(\mathbf P)
+f(\mathbf P +\mathbf Q) =f(\mathbf P) +f(\mathbf Q)
+f(c\mathbf P) =cf(\mathbf P)
+\mathbb L_1,
+\mathbb L_2
+\mathbb L_3
+T \colon \mathbb L_1 \longrightarrow \mathbb L_2
+1 -1
+\mathbb L_2
+T^{ -1} \colon \mathbb L_2 \longrightarrow \mathbb L_1
+T_1 \colon \mathbb L_1 \longrightarrow \mathbb L_2
+T_2 \colon \mathbb L_2 \longrightarrow \mathbb L_3
+1 -1,
+T_2 \circ T_1
+n \times n
+\mathtt A
+\mathtt B \colon
+\det (\mathtt A \mathtt B) =\det (\mathtt A)\det (\mathtt B)
+\mathbb S
+\mathbb L
+\mathbb L .
+\mathbb S
+\mathbb L
+\mathbb S
+\mathbb M
+\mathbb L
+\mathbb L
+\mathbb M
+\mathbb M \subseteq \mathbb L
+\vysmblkcircle
+\mathbb M
+\mathbf P,
+\mathbf Q \in \mathbb M \Rightarrow \mathbf P +\mathbf Q \in \mathbb M
+\vysmblkcircle
+\mathbb M
+c \in \mathbb R,
+\mathbf P \in \mathbb M \Rightarrow
+\mathbf P \in \mathbb M
+\mathbb M
+1 -7
+\mathbb M
+\mathbb L .
+\mathbb M
+\mathbb L
+\mathbb M
+\mathbb M
+\mathbb L
+\mathbb L
+\mathbf P
+\mathbf Q
+\mathbb M
 a
-b,𝐖
-a\mathbf𝐖P𝐖𝐖+b\mathbf𝐖Q𝐖𝐖\in𝐖\mathbb𝐖M𝐖𝐖.
-\mathbb𝐖S𝐖
-\mathbb𝐖L𝐖
-\mathbb𝐖S𝐖
-\mathbb𝐖L𝐖𝐖.
-\mathbb𝐖S𝐖
-\mathbb𝐖L𝐖
-\mathbb𝐖S𝐖
-\mathbb𝐖L𝐖
-\mathbb𝐖S𝐖
-\mathbb𝐖L𝐖𝐖.
-\mathbb𝐖L𝐖
-\mathbb𝐖B𝐖𝐖=\{\mathbf𝐖P𝐖_1𝐖,𝐖\mathbf𝐖P𝐖_2𝐖,𝐖\ldots𝐖,𝐖\mathbf𝐖P𝐖_n𝐖\}
+b,
+a\mathbf P +b\mathbf Q \in \mathbb M .
+\mathbb S
+\mathbb L
+\mathbb S
+\mathbb L .
+\mathbb S
+\mathbb L
+\mathbb S
+\mathbb L
+\mathbb S
+\mathbb L .
+\mathbb L
+\mathbb B =\{\mathbf P_1, \mathbf P_2, \ldots, \mathbf P_n \}
 n
 n
 n
 n
-\mathbb𝐖L𝐖
+\mathbb L
 n
-\mathbb𝐖L𝐖
-\mathbb𝐖L𝐖,𝐖
-\mathbb𝐖L𝐖
-\mathbb𝐖S𝐖
-\mathbb𝐖L𝐖
-\mathbf𝐖P𝐖
-\mathbb𝐖L𝐖,𝐖
-spanS,𝐖
-\mathbb𝐖S𝐖𝐖\cup𝐖\{\mathbf𝐖P𝐖\}
-\mathbb𝐖B𝐖
-\mathbb𝐖L𝐖
-\mathbb𝐖L𝐖
-\mathbb𝐖B𝐖𝐖.
-\mathbb𝐖B𝐖
-\mathbb𝐖L𝐖
-\mathbb𝐖L𝐖
-F𝐖\colon𝐖\mathbb𝐖L𝐖_1𝐖𝐖\longrightarrow𝐖\mathbb𝐖L𝐖_2𝐖
+\mathbb L
+\mathbb L,
+\mathbb L
+\mathbb S
+\mathbb L
+\mathbf P
+\mathbb L,
+spanS,
+\mathbb S \cup \{\mathbf P \}
+\mathbb B
+\mathbb L
+\mathbb L
+\mathbb B .
+\mathbb B
+\mathbb L
+\mathbb L
+F \colon \mathbb L_1 \longrightarrow \mathbb L_2
 F
-1𝐖-1
-\mathbb𝐖L𝐖_2𝐖𝐖.
-\mathbb𝐖R𝐖^n𝐖
-n𝐖\times𝐖n
-\mathtt𝐖A𝐖
-\mathtt𝐖A𝐖
-\mathbf𝐖v𝐖
-\lambda𝐖,𝐖
-\mathtt𝐖A𝐖^{𝐖-1}𝐖
-\mathbf𝐖v𝐖,𝐖
-\frac{1}{\lambda𝐖}𝐖.
-\mathtt𝐖A𝐖,𝐖
-\mathbf𝐖v𝐖
-\mathtt𝐖A𝐖\mathbf𝐖v𝐖𝐖=\lambda𝐖\mathbf𝐖v𝐖
-\lambda𝐖
-\mathtt𝐖A𝐖,𝐖
-\lambda𝐖
-n𝐖\times𝐖n
-\mathtt𝐖A𝐖,𝐖
-\lambda𝐖
-\mathbb𝐖R𝐖^n𝐖
-\mathbf𝐖0𝐖𝐖.
-\mathtt𝐖A𝐖
-\mathbf𝐖v𝐖
-\lambda𝐖
-k𝐖\in𝐖\mathbb𝐖R𝐖𝐖.
-k\mathtt𝐖A𝐖𝐖?
-\mathtt𝐖A𝐖^k𝐖𝐖?
+1 -1
+\mathbb L_2 .
+\mathbb R^n
+n \times n
+\mathtt A
+\mathtt A
+\mathbf v
+\lambda,
+\mathtt A^{ -1}
+\mathbf v,
+\frac{1}{\lambda} .
+\mathtt A,
+\mathbf v
+\mathtt A \mathbf v =\lambda \mathbf v
+\lambda
+\mathtt A,
+\lambda
+n \times n
+\mathtt A,
+\lambda
+\mathbb R^n
+\mathbf 0 .
+\mathtt A
+\mathbf v
+\lambda
+k \in \mathbb R .
+k\mathtt A ?
+\mathtt A^k ?
 k
-\mathtt𝐖A𝐖
-\mathbf𝐖v𝐖
-\mathbf𝐖w𝐖,𝐖
-\lambda𝐖_\mathbf𝐖v𝐖𝐖
-\lambda𝐖_\mathbf𝐖w𝐖𝐖𝐖.
-\lambda𝐖_\mathbf𝐖v𝐖𝐖𝐖\not=𝐖\lambda𝐖_\mathbf𝐖w𝐖𝐖
-\mathbf𝐖v𝐖
-\mathbf𝐖w𝐖
-\mathtt𝐖A𝐖
-\mathbf𝐖u𝐖,𝐖
-\mathbf𝐖v𝐖
-\mathbf𝐖w𝐖,𝐖
-\lambda𝐖_\mathbf𝐖u𝐖𝐖,𝐖
-\lambda𝐖_\mathbf𝐖v𝐖𝐖
-\lambda𝐖_\mathbf𝐖w𝐖𝐖,𝐖
-\mathbf𝐖u𝐖,𝐖
-\mathbf𝐖v𝐖
-\mathbf𝐖w𝐖
-\mathbb𝐖S𝐖
-\mathbb𝐖L𝐖
-\mathbf𝐖P𝐖
-\mathbb𝐖S𝐖
-\mathbf𝐖P𝐖𝐖\in𝐖span(\mathbb𝐖S𝐖𝐖-\{\mathbf𝐖P𝐖\})
-\mathbb𝐖S𝐖𝐖-\{\mathbf𝐖P𝐖\}
-\mathbb𝐖L𝐖𝐖.
-\mathbb𝐖L𝐖,𝐖
-\mathbb𝐖S𝐖
-\mathbb𝐖L𝐖
-\mathbf𝐖0𝐖𝐖\in𝐖\mathbb𝐖S𝐖,𝐖
-\mathbb𝐖S𝐖
-\mathbf𝐖P𝐖
-\mathbf𝐖P𝐖_1𝐖,𝐖\mathbf𝐖P𝐖_2𝐖,𝐖\ldots𝐖,𝐖\mathbf𝐖P𝐖_n𝐖
-\mathbf𝐖P𝐖𝐖=t_1𝐖\mathbf𝐖P𝐖_1𝐖𝐖+t_2𝐖\mathbf𝐖P𝐖_2𝐖𝐖+\cdots𝐖𝐖+t_n𝐖\mathbf𝐖P𝐖_n𝐖
-t_i𝐖𝐖.
-\mathbb𝐖S𝐖𝐖=\{\mathbf𝐖P𝐖_1𝐖,𝐖\mathbf𝐖P𝐖_2𝐖,𝐖\ldots𝐖,𝐖\mathbf𝐖P𝐖_n𝐖\}
-\mathbb𝐖S𝐖,𝐖
-spanS𝐖=\{t_1𝐖\mathbf𝐖P𝐖_1𝐖𝐖+t_2𝐖\mathbf𝐖P𝐖_2𝐖𝐖+\cdots𝐖𝐖+t_n𝐖\mathbf𝐖P𝐖_n𝐖|t_i𝐖𝐖\in𝐖\mathbb𝐖R𝐖\}
-\mathbb𝐖S𝐖
-\mathbb𝐖L𝐖
-\mathbb𝐖L𝐖
-spanS𝐖=\mathbb𝐖L𝐖𝐖.
-\mathbb𝐖L𝐖
-\mathbb𝐖S𝐖𝐖.
-\mathbb𝐖S𝐖
-\mathbb𝐖L𝐖,𝐖
+\mathtt A
+\mathbf v
+\mathbf w,
+\lambda_\mathbf v
+\lambda_\mathbf w .
+\lambda_\mathbf v \not= \lambda_\mathbf w
+\mathbf v
+\mathbf w
+\mathtt A
+\mathbf u,
+\mathbf v
+\mathbf w,
+\lambda_\mathbf u,
+\lambda_\mathbf v
+\lambda_\mathbf w,
+\mathbf u,
+\mathbf v
+\mathbf w
+\mathbb S
+\mathbb L
+\mathbf P
+\mathbb S
+\mathbf P \in span(\mathbb S -\{\mathbf P \})
+\mathbb S -\{\mathbf P \}
+\mathbb L .
+\mathbb L,
+\mathbb S
+\mathbb L
+\mathbf 0 \in \mathbb S,
+\mathbb S
+\mathbf P
+\mathbf P_1, \mathbf P_2, \ldots, \mathbf P_n
+\mathbf P =t_1 \mathbf P_1 +t_2 \mathbf P_2 +\cdots +t_n \mathbf P_n
+t_i .
+\mathbb S =\{\mathbf P_1, \mathbf P_2, \ldots, \mathbf P_n \}
+\mathbb S,
+spanS =\{t_1 \mathbf P_1 +t_2 \mathbf P_2 +\cdots +t_n \mathbf P_n |t_i \in \mathbb R \}
+\mathbb S
+\mathbb L
+\mathbb L
+spanS =\mathbb L .
+\mathbb L
+\mathbb S .
+\mathbb S
+\mathbb L,
 spanS
-\mathbb𝐖L𝐖𝐖.
+\mathbb L .
 spanS
-\mathbb𝐖L𝐖
-\mathbb𝐖S𝐖,𝐖
-\mathbb𝐖L𝐖
-\mathbb𝐖S𝐖
-spanS𝐖.
-\mathbb𝐖S𝐖𝐖=\{\mathbf𝐖P𝐖_1𝐖,𝐖\mathbf𝐖P𝐖_2𝐖,𝐖\ldots𝐖,𝐖\mathbf𝐖P𝐖_n𝐖\}
-\mathbb𝐖L𝐖
-\mathbf𝐖Q𝐖
+\mathbb L
+\mathbb S,
+\mathbb L
+\mathbb S
+spanS .
+\mathbb S =\{\mathbf P_1, \mathbf P_2, \ldots, \mathbf P_n \}
+\mathbb L
+\mathbf Q
 spanS
-\mathbb𝐖S𝐖𝐖.
-a_1𝐖,𝐖a_2𝐖,𝐖\ldots𝐖,𝐖a_n𝐖
-b_1𝐖,𝐖b_2𝐖,𝐖\ldots𝐖,𝐖b_n𝐖𝐖\colon𝐖
-a_1𝐖\mathbf𝐖P𝐖_1𝐖𝐖+a_2𝐖\mathbf𝐖P𝐖_2𝐖𝐖+\cdots𝐖𝐖+a_n𝐖\mathbf𝐖P𝐖_n𝐖𝐖=b_1𝐖\mathbf𝐖P𝐖_1𝐖𝐖+b_2𝐖\mathbf𝐖P𝐖_2𝐖𝐖+\cdots𝐖𝐖+b_n𝐖\mathbf𝐖P𝐖_n𝐖𝐖\implies𝐖a_1𝐖𝐖=b_1𝐖,𝐖\ldots𝐖a_n𝐖𝐖=b_n𝐖
-\mathbb𝐖S𝐖
-\mathbb𝐖S𝐖
-\mathbb𝐖S𝐖𝐖=\{\mathbf𝐖P𝐖_1𝐖,𝐖\mathbf𝐖P𝐖_2𝐖,𝐖\ldots𝐖,𝐖\mathbf𝐖P𝐖_n𝐖\}
-\mathbb𝐖L𝐖𝐖.
-\mathbb𝐖S𝐖
-c_1𝐖,𝐖c_2𝐖,𝐖\ldots𝐖,𝐖c_n𝐖,𝐖
-c_1𝐖\mathbf𝐖P𝐖_1𝐖𝐖+c_2𝐖\mathbf𝐖P𝐖_2𝐖𝐖+\cdots𝐖𝐖+c_n𝐖\mathbf𝐖P𝐖_n𝐖𝐖=\mathbf𝐖0𝐖
-c_i𝐖
-T𝐖\colon𝐖\mathbb𝐖L𝐖_1𝐖𝐖\longrightarrow𝐖\mathbb𝐖L𝐖_2𝐖
-\mathbb𝐖L𝐖_2𝐖
+\mathbb S .
+a_1, a_2, \ldots, a_n
+b_1, b_2, \ldots, b_n \colon
+a_1 \mathbf P_1 +a_2 \mathbf P_2 +\cdots +a_n \mathbf P_n =b_1 \mathbf P_1 +b_2 \mathbf P_2 +\cdots +b_n \mathbf P_n \implies a_1 =b_1, \ldots a_n =b_n
+\mathbb S
+\mathbb S
+\mathbb S =\{\mathbf P_1, \mathbf P_2, \ldots, \mathbf P_n \}
+\mathbb L .
+\mathbb S
+c_1, c_2, \ldots, c_n,
+c_1 \mathbf P_1 +c_2 \mathbf P_2 +\cdots +c_n \mathbf P_n =\mathbf 0
+c_i
+T \colon \mathbb L_1 \longrightarrow \mathbb L_2
+\mathbb L_2
 T
-\mathbb𝐖L𝐖_1𝐖
+\mathbb L_1
 T
-T(\mathbb𝐖L𝐖_1𝐖)𝐖=\{T(\mathbf𝐖P𝐖)|\mathbf𝐖P𝐖𝐖\in𝐖\mathbb𝐖L𝐖_1𝐖\}
-T𝐖\colon𝐖\mathbb𝐖L𝐖_1𝐖𝐖\longrightarrow𝐖\mathbb𝐖L𝐖_2𝐖
-T,𝐖
-\ker𝐖(T)
-\mathbb𝐖L𝐖_1𝐖
-T,𝐖
-T(\mathbb𝐖L𝐖_1𝐖)
-\mathbb𝐖L𝐖_2𝐖
-T𝐖\colon𝐖\mathbb𝐖L𝐖_1𝐖𝐖\longrightarrow𝐖\mathbb𝐖L𝐖_2𝐖
-\mathbb𝐖L𝐖_1𝐖
-\dim𝐖(\ker𝐖(T))𝐖+\dim𝐖(T(\mathbb𝐖L𝐖_1𝐖))𝐖=\dim𝐖(\mathbb𝐖L𝐖_1𝐖)
-\mathbb𝐖S𝐖
-\mathbb𝐖R𝐖^n𝐖
-\mathbf𝐖P𝐖
-\mathbb𝐖S𝐖𝐖.
-\mathbf𝐖Q𝐖
-\mathbf𝐖P𝐖
-\mathbf𝐖P𝐖
-\mathbf𝐖P𝐖
-\mathbb𝐖S𝐖
-\mathbb𝐖S𝐖'
-\mathbb𝐖S𝐖
-\mathbf𝐖P𝐖
-\mathbf𝐖Q𝐖𝐖.
-\mathbb𝐖S𝐖'
-\mathbb𝐖S𝐖𝐖.
-\mathbb𝐖s𝐖\mathbb𝐖p𝐖\mathbb𝐖a𝐖\mathbb𝐖n𝐖\mathbb𝐖S𝐖'𝐖=spanS𝐖.
-\mathbb𝐖S𝐖''
-\mathbb𝐖S𝐖''
-\mathbb𝐖S𝐖
-\mathbb𝐖L𝐖,𝐖
-\mathbf𝐖Q𝐖𝐖\in𝐖\mathbb𝐖L𝐖
-\mathbf𝐖P𝐖
-\mathbb𝐖S𝐖
-\mathbf𝐖Q𝐖
-\mathbb𝐖S𝐖,𝐖
-\mathbf𝐖P𝐖
-\mathbb𝐖S𝐖'
-\mathbb𝐖S𝐖
-\mathbf𝐖P𝐖
-\mathbf𝐖Q𝐖,𝐖
-\mathbb𝐖S𝐖'
-\mathbb𝐖L𝐖𝐖.
-n𝐖\times𝐖n
-\mathtt𝐖P𝐖
-\mathtt𝐖D𝐖
-\mathtt𝐖A𝐖𝐖=\mathtt𝐖P𝐖\~\mathtt𝐖D𝐖\mathtt𝐖P𝐖^{𝐖-1}𝐖
-n𝐖\times𝐖n
-\mathtt𝐖A𝐖
-\mathtt𝐖A𝐖
-a_1𝐖x𝐖+a_2𝐖y𝐖+a_3𝐖z𝐖=b
-a_i𝐖
+T(\mathbb L_1) =\{T(\mathbf P)|\mathbf P \in \mathbb L_1 \}
+T \colon \mathbb L_1 \longrightarrow \mathbb L_2
+T,
+\ker (T)
+\mathbb L_1
+T,
+T(\mathbb L_1)
+\mathbb L_2
+T \colon \mathbb L_1 \longrightarrow \mathbb L_2
+\mathbb L_1
+\dim (\ker (T)) +\dim (T(\mathbb L_1)) =\dim (\mathbb L_1)
+\mathbb S
+\mathbb R^n
+\mathbf P
+\mathbb S .
+\mathbf Q
+\mathbf P
+\mathbf P
+\mathbf P
+\mathbb S
+\mathbb S '
+\mathbb S
+\mathbf P
+\mathbf Q .
+\mathbb S '
+\mathbb S .
+\mathbb s \mathbb p \mathbb a \mathbb n \mathbb S ' =spanS .
+\mathbb S ''
+\mathbb S ''
+\mathbb S
+\mathbb L,
+\mathbf Q \in \mathbb L
+\mathbf P
+\mathbb S
+\mathbf Q
+\mathbb S,
+\mathbf P
+\mathbb S '
+\mathbb S
+\mathbf P
+\mathbf Q,
+\mathbb S '
+\mathbb L .
+n \times n
+\mathtt P
+\mathtt D
+\mathtt A =\mathtt P \~\mathtt D \mathtt P^{ -1}
+n \times n
+\mathtt A
+\mathtt A
+a_1 x +a_2 y +a_3 z =b
+a_i
 b
-x,𝐖
+x,
 y
 z
-(x,𝐖y,𝐖z)
-x,𝐖
+(x, y, z)
+x,
 y
 z
-\mathbb𝐖S𝐖𝐖=\{(,𝐖,𝐖)|\}𝐖.
-𝐖\begin{bmatrix}𝐖a_{11}𝐖x𝐖&𝐖+𝐖&𝐖a_{12}𝐖y𝐖&𝐖+𝐖&𝐖a_{13}𝐖z𝐖&𝐖=𝐖&𝐖b_1𝐖𝐖\\𝐖a_{21}𝐖x𝐖&𝐖+𝐖&𝐖a_{22}𝐖y𝐖&𝐖+𝐖&𝐖a_{23}𝐖z𝐖&𝐖=𝐖&𝐖b_2𝐖𝐖\\𝐖a_{31}𝐖x𝐖&𝐖+𝐖&𝐖a_{32}𝐖y𝐖&𝐖+𝐖&𝐖a_{33}𝐖z𝐖&𝐖=𝐖&𝐖b_3𝐖𝐖\end{bmatrix}𝐖𝐖&𝐖or𝐖&𝐖𝐖\begin{bmatrix}𝐖a_{11}𝐖𝐖&𝐖a_{12}𝐖𝐖&𝐖a_{13}𝐖𝐖&𝐖\colon𝐖𝐖&𝐖b_1𝐖𝐖\\𝐖a_{21}𝐖𝐖&𝐖a_{22}𝐖𝐖&𝐖a_{23}𝐖𝐖&𝐖\colon𝐖𝐖&𝐖b_2𝐖𝐖\\𝐖a_{31}𝐖𝐖&𝐖a_{32}𝐖𝐖&𝐖a_{33}𝐖𝐖&𝐖\colon𝐖𝐖&𝐖b_3𝐖𝐖\end{bmatrix}𝐖
-𝐖\begin{bmatrix}𝐖x𝐖&𝐖\~𝐖&𝐖\~𝐖&𝐖\~𝐖&𝐖\~𝐖&𝐖=𝐖&𝐖s_1𝐖𝐖\\𝐖\~𝐖&𝐖\~𝐖&𝐖y𝐖&𝐖\~𝐖&𝐖\~𝐖&𝐖=𝐖&𝐖s_2𝐖𝐖\\𝐖\~𝐖&𝐖\~𝐖&𝐖\~𝐖&𝐖\~𝐖&𝐖z𝐖&𝐖=𝐖&𝐖s_3𝐖𝐖\end{bmatrix}𝐖𝐖&𝐖or𝐖&𝐖𝐖\begin{bmatrix}𝐖1𝐖&𝐖0𝐖&𝐖0𝐖&𝐖\colon𝐖𝐖&𝐖s_1𝐖𝐖\\𝐖0𝐖&𝐖1𝐖&𝐖0𝐖&𝐖\colon𝐖𝐖&𝐖s_2𝐖𝐖\\𝐖0𝐖&𝐖0𝐖&𝐖1𝐖&𝐖\colon𝐖𝐖&𝐖s_3𝐖𝐖\end{bmatrix}𝐖
-\mathbb𝐖S𝐖𝐖=\{(x,𝐖y,𝐖z)|x𝐖=s_1𝐖,𝐖y𝐖=s_2𝐖,𝐖z𝐖=s_3𝐖\}𝐖=\{(s_1𝐖,𝐖s_2𝐖,𝐖s_3𝐖)\}
-\mathbf𝐖v𝐖
-\mathbf𝐖w𝐖
-\mathbf𝐖v𝐖𝐖\not=𝐖\mathbf𝐖w𝐖
-\mathbf𝐖v𝐖
-\mathbf𝐖w𝐖𝐖.
-\mathbf𝐖v𝐖,𝐖
-\mathbf𝐖w𝐖
-\mathbf𝐖u𝐖,𝐖
-\mathbf𝐖v𝐖𝐖\not=𝐖\mathbf𝐖w𝐖,𝐖
-\mathbf𝐖u𝐖
-\mathbf𝐖v𝐖
-\mathbf𝐖w𝐖,𝐖
-\mathbf𝐖v𝐖,𝐖
-\mathbf𝐖w𝐖
-\mathbf𝐖u𝐖𝐖.
-\mathbf𝐖v𝐖
-\mathbf𝐖v𝐖_\mathbf𝐖1𝐖𝐖,𝐖
-\mathbf𝐖v𝐖_\mathbf𝐖2𝐖𝐖,𝐖
-\mathbf𝐖v𝐖_\mathbf𝐖n𝐖𝐖
-\mathbf𝐖v𝐖𝐖=t_1𝐖\mathbf𝐖v𝐖_\mathbf𝐖1𝐖𝐖𝐖+t_2𝐖\mathbf𝐖v𝐖_\mathbf𝐖2𝐖𝐖𝐖+\cdots𝐖𝐖+t_n𝐖\mathbf𝐖v𝐖_\mathbf𝐖n𝐖𝐖
-t_i𝐖𝐖.
-t_i𝐖
-\mathbb𝐖S𝐖𝐖=\{\mathbf𝐖v𝐖_\mathbf𝐖1𝐖𝐖,𝐖\mathbf𝐖v𝐖_\mathbf𝐖2𝐖𝐖,𝐖\ldots𝐖,𝐖\mathbf𝐖v𝐖_\mathbf𝐖n𝐖𝐖\}
-\mathbb𝐖S𝐖,𝐖
-spanS𝐖=\{t_1𝐖\mathbf𝐖v𝐖_\mathbf𝐖1𝐖𝐖𝐖+t_2𝐖\mathbf𝐖v𝐖_\mathbf𝐖2𝐖𝐖𝐖+\cdots𝐖𝐖+t_n𝐖\mathbf𝐖v𝐖_\mathbf𝐖n𝐖𝐖|t_i𝐖𝐖\in𝐖\mathbb𝐖R𝐖\}
-\mathbb𝐖S𝐖,𝐖
-\mathbb𝐖R𝐖^3𝐖
-\mathbb𝐖S𝐖𝐖?
-\mathbb𝐖R𝐖^3𝐖
-\mathbb𝐖R𝐖^3𝐖
-spanS𝐖=\mathbb𝐖R𝐖^3𝐖𝐖.
-\mathbb𝐖R𝐖^3𝐖
-\mathbb𝐖S𝐖𝐖.
-\mathbb𝐖S𝐖𝐖=\{\mathbf𝐖v𝐖_\mathbf𝐖1𝐖𝐖,𝐖\mathbf𝐖v𝐖_\mathbf𝐖2𝐖𝐖,𝐖\ldots𝐖,𝐖\mathbf𝐖v𝐖_\mathbf𝐖n𝐖𝐖\}
+\mathbb S =\{(,,)|\} .
+\begin{bmatrix} a_{11} x & + & a_{12} y & + & a_{13} z & = & b_1 \\ a_{21} x & + & a_{22} y & + & a_{23} z & = & b_2 \\ a_{31} x & + & a_{32} y & + & a_{33} z & = & b_3 \end{bmatrix} & or & \begin{bmatrix} a_{11} & a_{12} & a_{13} & \colon & b_1 \\ a_{21} & a_{22} & a_{23} & \colon & b_2 \\ a_{31} & a_{32} & a_{33} & \colon & b_3 \end{bmatrix}
+\begin{bmatrix} x & \~ & \~ & \~ & \~ & = & s_1 \\ \~ & \~ & y & \~ & \~ & = & s_2 \\ \~ & \~ & \~ & \~ & z & = & s_3 \end{bmatrix} & or & \begin{bmatrix} 1 & 0 & 0 & \colon & s_1 \\ 0 & 1 & 0 & \colon & s_2 \\ 0 & 0 & 1 & \colon & s_3 \end{bmatrix}
+\mathbb S =\{(x, y, z)|x =s_1, y =s_2, z =s_3 \} =\{(s_1, s_2, s_3)\}
+\mathbf v
+\mathbf w
+\mathbf v \not= \mathbf w
+\mathbf v
+\mathbf w .
+\mathbf v,
+\mathbf w
+\mathbf u,
+\mathbf v \not= \mathbf w,
+\mathbf u
+\mathbf v
+\mathbf w,
+\mathbf v,
+\mathbf w
+\mathbf u .
+\mathbf v
+\mathbf v_\mathbf 1,
+\mathbf v_\mathbf 2,
+\mathbf v_\mathbf n
+\mathbf v =t_1 \mathbf v_\mathbf 1 +t_2 \mathbf v_\mathbf 2 +\cdots +t_n \mathbf v_\mathbf n
+t_i .
+t_i
+\mathbb S =\{\mathbf v_\mathbf 1, \mathbf v_\mathbf 2, \ldots, \mathbf v_\mathbf n \}
+\mathbb S,
+spanS =\{t_1 \mathbf v_\mathbf 1 +t_2 \mathbf v_\mathbf 2 +\cdots +t_n \mathbf v_\mathbf n |t_i \in \mathbb R \}
+\mathbb S,
+\mathbb R^3
+\mathbb S ?
+\mathbb R^3
+\mathbb R^3
+spanS =\mathbb R^3 .
+\mathbb R^3
+\mathbb S .
+\mathbb S =\{\mathbf v_\mathbf 1, \mathbf v_\mathbf 2, \ldots, \mathbf v_\mathbf n \}
 spanS
-\mathbb𝐖S𝐖
-\mathbb𝐖R𝐖^3𝐖
-\mathbb𝐖R𝐖^3𝐖𝐖.
-\beta𝐖𝐖=\{(1,𝐖0,𝐖0),𝐖(0,𝐖1,𝐖0),𝐖(0,𝐖0,𝐖1)\}
-(1,𝐖2,𝐖3)𝐖=1(1,𝐖0,𝐖0)𝐖+2(0,𝐖1,𝐖0)𝐖+3(0,𝐖0,𝐖1)𝐖.
-\alpha𝐖𝐖=\{(1,𝐖1,𝐖1),𝐖(0,𝐖1,𝐖1),𝐖(0,𝐖0,𝐖1)\},𝐖
-(1,𝐖2,𝐖3)𝐖=1(1,𝐖1,𝐖1)𝐖+1(0,𝐖1,𝐖1)𝐖+1(0,𝐖0,𝐖1)𝐖.
-[(1,𝐖2,𝐖3)]_\beta𝐖𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖2𝐖\\𝐖3𝐖\end{bmatrix}𝐖𝐖&𝐖\~𝐖&𝐖[(1,𝐖2,𝐖3)]_\alpha𝐖𝐖𝐖=𝐖\begin{bmatrix}𝐖1𝐖\\𝐖1𝐖\\𝐖1𝐖\end{bmatrix}𝐖
-\sigma𝐖
-\tau𝐖
-\mathbb𝐖R𝐖^3𝐖𝐖.
-[\mathbf𝐖v𝐖]_\sigma𝐖𝐖,𝐖
-\mathbf𝐖v𝐖𝐖\in𝐖\mathbb𝐖R𝐖^3𝐖
-\sigma𝐖
-[\mathbf𝐖v𝐖]_\tau𝐖𝐖,𝐖
-\tau𝐖,𝐖
-\mathbf𝐖v𝐖𝐖=(v_1𝐖,𝐖v_2𝐖,𝐖\ldots𝐖,𝐖v_n𝐖)𝐖\in𝐖\mathbb𝐖R𝐖^n𝐖
-\beta𝐖
-n𝐖\times𝐖1
-\mathbf𝐖v𝐖𝐖=[(v_1𝐖,𝐖v_2𝐖,𝐖𝐖.𝐖.,𝐖v_n𝐖)]_\beta𝐖𝐖𝐖=𝐖\begin{bmatrix}𝐖v_1𝐖𝐖\\𝐖v_2𝐖𝐖\\𝐖\vdots𝐖𝐖\\𝐖v_n𝐖𝐖\end{bmatrix}𝐖
-n𝐖\times𝐖n
-\mathtt𝐖M𝐖
-\mathbf𝐖b𝐖𝐖\in𝐖\mathbb𝐖R𝐖^n𝐖
-\mathtt𝐖M𝐖\mathbf𝐖v𝐖𝐖=\mathbf𝐖b𝐖𝐖.
-\mathtt𝐖A𝐖
-n𝐖\times𝐖n
-\det𝐖(A)𝐖\not=𝐖0
-\mathtt𝐖A𝐖
-\mathbb𝐖R𝐖^n𝐖
-\mathtt𝐖A𝐖
-\mathtt𝐖A𝐖\mathbf𝐖x𝐖𝐖=\mathbf𝐖b𝐖
-x𝐖\in𝐖\mathbb𝐖R𝐖^n𝐖,𝐖
-\mathbf𝐖b𝐖
-\mathbb𝐖R𝐖^n𝐖
-\mathtt𝐖A𝐖
-\mathtt𝐖A𝐖
-\mathbb𝐖R𝐖^n𝐖
-f𝐖\colon𝐖\mathbb𝐖R𝐖^m𝐖𝐖\longrightarrow𝐖\mathbb𝐖R𝐖^n𝐖
-f(\mathbf𝐖v𝐖)𝐖=\mathtt𝐖A𝐖\mathbf𝐖v𝐖𝐖.
-\underset{\textasciimacron𝐖}{\~}𝐖\times𝐖\underset{\textasciimacron𝐖}{\~}𝐖.
-\mathtt𝐖A𝐖,𝐖
-T_\mathtt𝐖A𝐖𝐖𝐖\colon𝐖\mathbb𝐖R𝐖^m𝐖𝐖\longrightarrow𝐖\mathbb𝐖R𝐖^n𝐖𝐖.
-\mathtt𝐖A𝐖
-T_\mathtt𝐖A𝐖𝐖
-\mathtt𝐖A𝐖
-T_\mathtt𝐖A𝐖𝐖
-1𝐖-1𝐖?
-T𝐖\colon𝐖\mathbb𝐖L𝐖_1𝐖𝐖\longrightarrow𝐖\mathbb𝐖L𝐖_2𝐖
-\alpha𝐖
-\mathbb𝐖L𝐖_1𝐖
-\beta𝐖
-\mathbb𝐖L𝐖_2𝐖
-[T]_{\beta𝐖,𝐖\alpha𝐖}𝐖𝐖.
-[T(P)]_\beta𝐖𝐖𝐖=[T]_{\beta𝐖,𝐖\alpha𝐖}𝐖[P]_\alpha𝐖𝐖
-[T_2𝐖𝐖\circ𝐖T_1𝐖]_{\gamma𝐖,𝐖\alpha𝐖}𝐖
-[T_2𝐖]_{\gamma𝐖,𝐖\beta𝐖}𝐖[T_1𝐖]_{\beta𝐖,𝐖\alpha𝐖}𝐖𝐖.
-n𝐖\times𝐖n
-\mathtt𝐖A𝐖
-\mathtt𝐖A𝐖
-|𝐖\mathtt𝐖A𝐖|𝐖.
-2𝐖\times𝐖2
-\mathtt𝐖A𝐖𝐖=𝐖\begin{bmatrix}𝐖a𝐖&𝐖b𝐖\\𝐖c𝐖&𝐖d𝐖\end{bmatrix}𝐖
-𝐖\begin{vmatrix}𝐖a𝐖&𝐖b𝐖\\𝐖c𝐖&𝐖d𝐖\end{vmatrix}𝐖𝐖=ad𝐖-bc
-3𝐖\times𝐖3
-𝐖\begin{vmatrix}𝐖a𝐖&𝐖b𝐖&𝐖c𝐖\\𝐖d𝐖&𝐖e𝐖&𝐖f𝐖\\𝐖g𝐖&𝐖h𝐖&𝐖i𝐖\end{vmatrix}𝐖𝐖=aei𝐖+bfg𝐖+cdh𝐖-ceg𝐖-bdi𝐖-afh
+\mathbb S
+\mathbb R^3
+\mathbb R^3 .
+\beta =\{(1, 0, 0), (0, 1, 0), (0, 0, 1)\}
+(1, 2, 3) =1(1, 0, 0) +2(0, 1, 0) +3(0, 0, 1) .
+\alpha =\{(1, 1, 1), (0, 1, 1), (0, 0, 1)\},
+(1, 2, 3) =1(1, 1, 1) +1(0, 1, 1) +1(0, 0, 1) .
+[(1, 2, 3)]_\beta = \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix} & \~ & [(1, 2, 3)]_\alpha = \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix}
+\sigma
+\tau
+\mathbb R^3 .
+[\mathbf v]_\sigma,
+\mathbf v \in \mathbb R^3
+\sigma
+[\mathbf v]_\tau,
+\tau,
+\mathbf v =(v_1, v_2, \ldots, v_n) \in \mathbb R^n
+\beta
+n \times 1
+\mathbf v =[(v_1, v_2, . ., v_n)]_\beta = \begin{bmatrix} v_1 \\ v_2 \\ \vdots \\ v_n \end{bmatrix}
+n \times n
+\mathtt M
+\mathbf b \in \mathbb R^n
+\mathtt M \mathbf v =\mathbf b .
+\mathtt A
+n \times n
+\det (A) \not= 0
+\mathtt A
+\mathbb R^n
+\mathtt A
+\mathtt A \mathbf x =\mathbf b
+x \in \mathbb R^n,
+\mathbf b
+\mathbb R^n
+\mathtt A
+\mathtt A
+\mathbb R^n
+f \colon \mathbb R^m \longrightarrow \mathbb R^n
+f(\mathbf v) =\mathtt A \mathbf v .
+\underset{\textasciimacron}{\~} \times \underset{\textasciimacron}{\~} .
+\mathtt A,
+T_\mathtt A \colon \mathbb R^m \longrightarrow \mathbb R^n .
+\mathtt A
+T_\mathtt A
+\mathtt A
+T_\mathtt A
+1 -1 ?
+T \colon \mathbb L_1 \longrightarrow \mathbb L_2
+\alpha
+\mathbb L_1
+\beta
+\mathbb L_2
+[T]_{\beta, \alpha} .
+[T(P)]_\beta =[T]_{\beta, \alpha} [P]_\alpha
+[T_2 \circ T_1]_{\gamma, \alpha}
+[T_2]_{\gamma, \beta} [T_1]_{\beta, \alpha} .
+n \times n
+\mathtt A
+\mathtt A
+| \mathtt A | .
+2 \times 2
+\mathtt A = \begin{bmatrix} a & b \\ c & d \end{bmatrix}
+\begin{vmatrix} a & b \\ c & d \end{vmatrix} =ad -bc
+3 \times 3
+\begin{vmatrix} a & b & c \\ d & e & f \\ g & h & i \end{vmatrix} =aei +bfg +cdh -ceg -bdi -afh

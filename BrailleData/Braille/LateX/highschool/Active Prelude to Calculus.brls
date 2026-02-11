@@ -1,295 +1,295 @@
-f(t)𝐖=ab^t𝐖
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-2𝐖+3𝐖=5𝐖\colon𝐖
+f(t) =b^t
+2 +3 =5 \colon
 5
 2
-3𝐖.
-2𝐖\cdot𝐖3𝐖=6𝐖.
-g𝐖\colon𝐖A𝐖\to𝐖B
-f𝐖\colon𝐖B𝐖\to𝐖C,𝐖
-f𝐖\circ𝐖g𝐖\colon𝐖A𝐖\to𝐖C
-(f𝐖\circ𝐖g)(x)𝐖=f(g(x))𝐖.
-f𝐖\circ𝐖g
+3 .
+2 \cdot 3 =6 .
+g \colon A \to B
+f \colon B \to C,
+f \circ g \colon A \to C
+(f \circ g)(x) =f(g(x)) .
+f \circ g
 g
-f𝐖.
+f .
 f
 g
 p
 q
-(2,𝐖2)
-q,𝐖
-(3,𝐖𝐖-3)
-p𝐖.
+(2, 2)
+q,
+(3, -3)
+p .
 x
 f(x)
 g(x)
 f
-g𝐖.
+g .
 p
-q𝐖.
-h(x)𝐖=f(x)𝐖+g(x)𝐖.
-h(3)𝐖.
-r(x)𝐖=p(x)𝐖-q(x)𝐖.
-r(𝐖-1)
+q .
+h(x) =f(x) +g(x) .
+h(3) .
+r(x) =p(x) -q(x) .
+r( -1)
 x
-r(x)𝐖=0𝐖?
-k(x)𝐖=f(x)𝐖\cdot𝐖g(x)𝐖.
-k(0)𝐖.
-s(x)𝐖=\frac{p(x)}{q(x)}𝐖.
+r(x) =0 ?
+k(x) =f(x) \cdot g(x) .
+k(0) .
+s(x) =\frac{p(x)}{q(x)} .
 s(1)
 x
-𝐖-4𝐖\le𝐖x𝐖\le𝐖4
+-4 \le x \le 4
 s(x)
-x^2𝐖𝐖-4x𝐖-5𝐖=0𝐖?
-3x𝐖-4y𝐖=7𝐖?
-f(x)𝐖=\sqrt{x^2𝐖𝐖+1}
-x𝐖=𝐖-2𝐖?
-(x,𝐖f(x))𝐖.
-q(x)𝐖=𝐖-3x^2𝐖𝐖+5x𝐖-7
-c(x)𝐖=𝐖-7,𝐖
-s(x)𝐖=5x
-(0,𝐖0)
-m𝐖=5,𝐖
-w(x)𝐖=𝐖-3x^2𝐖𝐖.
-c,𝐖
-s,𝐖
+x^2 -4x -5 =0 ?
+3x -4y =7 ?
+f(x) =\sqrt{x^2 +1}
+x = -2 ?
+(x, f(x)) .
+q(x) = -3x^2 +5x -7
+c(x) = -7,
+s(x) =5x
+(0, 0)
+m =5,
+w(x) = -3x^2 .
+c,
+s,
 w
 q
-p(x)𝐖=(3x^2𝐖𝐖+4)(9𝐖-2x^2𝐖),𝐖
-f(x)𝐖=3x^2𝐖𝐖+4
-g(x)𝐖=9𝐖-2x^2𝐖
-p𝐖.
+p(x) =(3x^2 +4)(9 -2x^2),
+f(x) =3x^2 +4
+g(x) =9 -2x^2
+p .
 f
 g
 f
 g
-f𝐖+g
-(f𝐖+g)(x)𝐖=f(x)𝐖+g(x)𝐖.
+f +g
+(f +g)(x) =f(x) +g(x) .
 f
 g
-f𝐖-g
-(f𝐖-g)(x)𝐖=f(x)𝐖-g(x)𝐖.
+f -g
+(f -g)(x) =f(x) -g(x) .
 f
 g
-f𝐖\cdot𝐖g
-(f𝐖\cdot𝐖g)(x)𝐖=f(x)𝐖\cdot𝐖g(x)𝐖.
+f \cdot g
+(f \cdot g)(x) =f(x) \cdot g(x) .
 f
 g
 \frac{f}{g}
-(\frac{f}{g})(x)𝐖=\frac{f(x)}{g(x)}
+(\frac{f}{g})(x) =\frac{f(x)}{g(x)}
 x
-g(x)𝐖\not=𝐖0𝐖.
+g(x) \not= 0 .
 f
 g
-(0,𝐖2.5)
-(3,𝐖𝐖-0.5)
-f,𝐖
-(𝐖-1,𝐖3)
-(1.5,𝐖1.5)
-g𝐖.
-f𝐖.
-g𝐖.
-(f𝐖+g)(0)𝐖.
-(g𝐖-f)(1)𝐖.
-(f𝐖\cdot𝐖g)(𝐖-1)𝐖.
+(0, 2.5)
+(3, -0.5)
+f,
+( -1, 3)
+(1.5, 1.5)
+g .
+f .
+g .
+(f +g)(0) .
+(g -f)(1) .
+(f \cdot g)( -1) .
 x
 (\frac{f}{g})(x)
 x
-(f𝐖\cdot𝐖g)(x)𝐖=0𝐖?
+(f \cdot g)(x) =0 ?
 x
-(f𝐖-g)(x)𝐖=0𝐖?
+(f -g)(x) =0 ?
 P(t)
 t
-AV_{[5,𝐖11]}𝐖,𝐖
-AV_{[5,𝐖11]}𝐖
-AV_{[5,𝐖11]}𝐖
+AV_{[5, 11]},
+AV_{[5, 11]}
+AV_{[5, 11]}
 5
-11𝐖.
+11 .
 N(t)
-t,𝐖
-t𝐖=0
+t,
+t =0
 S(t)
-t;𝐖
+t;
 S(t)
-V(t),𝐖
+V(t),
 t
 N(t)
 S(t)
-N(t)shares𝐖\cdot𝐖S(t)dollars\space𝐖per\space𝐖share,𝐖
-V(t)𝐖=N(t)𝐖\cdot𝐖S(t)𝐖.
+N(t)shares \cdot S(t)dollars\space per\space share,
+V(t) =N(t) \cdot S(t) .
 f
 v
 f(v)
-f(60)𝐖=0.04𝐖.
-f(60)𝐖=0.04
-g(v)𝐖=\frac{1}{f(v)}𝐖.
-g(60)𝐖?
-g𝐖?
+f(60) =0.04 .
+f(60) =0.04
+g(v) =\frac{1}{f(v)} .
+g(60) ?
+g ?
 g
-h(v)𝐖=v𝐖\cdot𝐖f(v)𝐖.
-h(60)𝐖?
-h𝐖?
+h(v) =v \cdot f(v) .
+h(60) ?
+h ?
 h
-f(60),𝐖
-g(60),𝐖
+f(60),
+g(60),
 h(60)
-f(70)𝐖=0.045𝐖.
+f(70) =0.045 .
 f
-[60,𝐖70]𝐖.
-f𝐖?
-A(x)𝐖=|𝐖x|𝐖.
-x𝐖\ge𝐖0,𝐖
-|𝐖x|𝐖=x,𝐖
-x𝐖\lt𝐖0,𝐖
-|𝐖x|𝐖=𝐖-x𝐖.
-A(x)𝐖=|𝐖x|,𝐖
-A(x)𝐖=\{𝐖-x,𝐖𝐖&𝐖x𝐖\lt𝐖0𝐖\\𝐖x,𝐖𝐖&𝐖x𝐖\ge𝐖0𝐖\lt𝐖mo\space𝐖data-mjx-texclass="CLOSE"\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
-A(x)𝐖=|𝐖x|𝐖.
+[60, 70] .
+f ?
+A(x) =| x| .
+x \ge 0,
+| x| =x,
+x \lt 0,
+| x| = -x .
+A(x) =| x|,
+A(x) =\{ -x, & x \lt 0 \\ x, & x \ge 0 \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+A(x) =| x| .
 x
-0,𝐖
-y𝐖=𝐖-x
+0,
+y = -x
 x
-0,𝐖
-y𝐖=x𝐖.
+0,
+y =x .
 p
-p(x)𝐖=\{𝐖-(x𝐖+2)^2𝐖𝐖+2,𝐖𝐖&𝐖x𝐖\lt𝐖0𝐖\\𝐖\frac{1}{2}(x𝐖-2)^2𝐖𝐖+1,𝐖𝐖&𝐖x𝐖\ge𝐖0𝐖\lt𝐖mo\space𝐖data-mjx-texclass="CLOSE"\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
-p(𝐖-4),𝐖
-p(𝐖-2),𝐖
-p(0),𝐖
-p(2),𝐖
-p(4)𝐖?
+p(x) =\{ -(x +2)^2 +2, & x \lt 0 \\ \frac{1}{2}(x -2)^2 +1, & x \ge 0 \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
+p( -4),
+p( -2),
+p(0),
+p(2),
+p(4) ?
 p
-x𝐖\lt𝐖0𝐖?
+x \lt 0 ?
 p
-x𝐖\ge𝐖0𝐖?
+x \ge 0 ?
 x
-p(x)𝐖=0𝐖?
+p(x) =0 ?
 y
-p𝐖?
-y𝐖=p(x)
-y𝐖=p(x)𝐖.
-y𝐖=f(x)𝐖.
+p ?
+y =p(x)
+y =p(x) .
+y =f(x) .
 f
 f
-y𝐖=p(x)
+y =p(x)
 f
 g
 p
-p(x)𝐖=(f𝐖\cdot𝐖g)(x)𝐖=f(x)𝐖\cdot𝐖g(x)𝐖.
+p(x) =(f \cdot g)(x) =f(x) \cdot g(x) .
 f
 g
 P
-P(x)𝐖=\{f(x),𝐖𝐖&𝐖x𝐖\lt𝐖a𝐖\\𝐖g(x),𝐖𝐖&𝐖x𝐖\ge𝐖a𝐖\lt𝐖mo\space𝐖data-mjx-texclass="CLOSE"\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
+P(x) =\{f(x), & x \lt a \\ g(x), & x \ge a \lt mo\space data-mjx-texclass="CLOSE"\space fence="true"\space stretchy="true"\space symmetric="true"/>
 x
-a,𝐖
-f,𝐖
+a,
+f,
 x
-a,𝐖
-g𝐖.
-f(x)𝐖=2x𝐖+4
-g(x)𝐖=5x𝐖-4,𝐖
-(f𝐖-g)(x)𝐖=
-(f𝐖-g)(𝐖-4)𝐖=
-f(t)𝐖=t𝐖-2
-g(t)𝐖=t𝐖-3,𝐖
-(\frac{f}{g})(t)𝐖=
-(\frac{f}{g})(𝐖-4)𝐖=
-f(x)𝐖=2𝐖+x^2𝐖
-g(x)𝐖=2x𝐖-1,𝐖
-(f𝐖\cdot𝐖g)(x)𝐖=
-(f𝐖\cdot𝐖g)(𝐖-3)𝐖=
+a,
+g .
+f(x) =2x +4
+g(x) =5x -4,
+(f -g)(x) =
+(f -g)( -4) =
+f(t) =t -2
+g(t) =t -3,
+(\frac{f}{g})(t) =
+(\frac{f}{g})( -4) =
+f(x) =2 +x^2
+g(x) =2x -1,
+(f \cdot g)(x) =
+(f \cdot g)( -3) =
 f
 g
-f(3)𝐖=
-g(3)𝐖=
-f(3)𝐖+g(3)𝐖=
-(f𝐖-g)(3)𝐖=
+f(3) =
+g(3) =
+f(3) +g(3) =
+(f -g)(3) =
 f
 g
-f(𝐖-2)𝐖=
-g(𝐖-2)𝐖=
-(f𝐖+g)(𝐖-2)𝐖=
-(g𝐖-f)(𝐖-2)𝐖=
+f( -2) =
+g( -2) =
+(f +g)( -2) =
+(g -f)( -2) =
 x
 f(x)
 g(x)
 1
-𝐖-3
+-3
 2
 2
 3
 4
 3
 1
-𝐖-4
+-4
 4
-𝐖-4
-𝐖-1
+-4
+-1
 5
 2
 5
 f
 g
-(f𝐖-g)(4)𝐖=
-(f𝐖+g)(4)𝐖-(g𝐖-f)(5)𝐖=
-(\frac{f}{g})(4)𝐖=
-r(t)𝐖=2t𝐖-3
-s(t)𝐖=5𝐖-3t𝐖.
-f(t)𝐖=(r𝐖+s)(t)
-g(t)𝐖=(\frac{s}{r})(t)
-h(t)𝐖=(r𝐖\cdot𝐖s)(t)
-q(t)𝐖=(s𝐖\circ𝐖r)(t)
-w(t)𝐖=r(t𝐖-4)𝐖+7
+(f -g)(4) =
+(f +g)(4) -(g -f)(5) =
+(\frac{f}{g})(4) =
+r(t) =2t -3
+s(t) =5 -3t .
+f(t) =(r +s)(t)
+g(t) =(\frac{s}{r})(t)
+h(t) =(r \cdot s)(t)
+q(t) =(s \circ r)(t)
+w(t) =r(t -4) +7
 s
 g
-s𝐖.
-g𝐖.
-y𝐖=s(t)
-t𝐖.
-y𝐖=g(x)
-x𝐖.
-(s𝐖\cdot𝐖g)(1)
-(g𝐖-s)(3)
-(s𝐖\circ𝐖g)(1.5)
-(g𝐖\circ𝐖s)(𝐖-4)
+s .
+g .
+y =s(t)
+t .
+y =g(x)
+x .
+(s \cdot g)(1)
+(g -s)(3)
+(s \circ g)(1.5)
+(g \circ s)( -4)
 v
-t,𝐖
-d,𝐖
-d𝐖=v𝐖\cdot𝐖t
+t,
+d,
+d =v \cdot t
 2.4
 112
 26.2
-t𝐖.
+t .
 2.5
 2.4
 3
@@ -300,179 +300,179 @@ t𝐖.
 0.03
 8.5
 s(t)
-V,𝐖
-f(t)𝐖=ab^t𝐖
+V,
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t
 3
-f(t)𝐖=\cos𝐖(t)
-g(t)𝐖=\sin𝐖(t𝐖+\frac{\pi𝐖}{2})
+f(t) =\cos (t)
+g(t) =\sin (t +\frac{\pi}{2})
 t
-(𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2}),𝐖
-y𝐖=\tan𝐖(t)
-t𝐖=\arctan𝐖(y)𝐖.
+( -\frac{\pi}{2}, \frac{\pi}{2}),
+y =\tan (t)
+t =\arctan (y) .
 t
-\cos𝐖(t)𝐖\not=𝐖0,𝐖
-t,𝐖
-\sec𝐖(t),𝐖
-\sec𝐖(t)𝐖=\frac{1}{\cos𝐖(t)}𝐖.
+\cos (t) \not= 0,
+t,
+\sec (t),
+\sec (t) =\frac{1}{\cos (t)} .
 t
-\sin𝐖(t)𝐖\not=𝐖0,𝐖
-t,𝐖
-\csc𝐖(t),𝐖
-\csc𝐖(t)𝐖=\frac{1}{\sin𝐖(t)}𝐖.
+\sin (t) \not= 0,
+t,
+\csc (t),
+\csc (t) =\frac{1}{\sin (t)} .
 t
-\sin𝐖(t)𝐖\not=𝐖0,𝐖
-t,𝐖
-\cot𝐖(t),𝐖
-\cot𝐖(t)𝐖=\frac{\cos𝐖(t)}{\sin𝐖(t)}𝐖.
-\theta𝐖,𝐖
-\sin𝐖(\theta𝐖),𝐖
-\cos𝐖(\theta𝐖),𝐖
-\tan𝐖(\theta𝐖)
-\sec𝐖(\theta𝐖)𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{\cos𝐖(\theta𝐖)}𝐖=\frac{1}{\frac{adj}{hyp}}𝐖=\frac{hyp}{adj}𝐖\\𝐖\csc𝐖(\theta𝐖)𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{\sin𝐖(\theta𝐖)}𝐖=\frac{1}{\frac{opp}{hyp}}𝐖=\frac{hyp}{opp}𝐖\\𝐖\cot𝐖(\theta𝐖)𝐖&𝐖\lt𝐖mi/>𝐖=\frac{\cos𝐖(\theta𝐖)}{\sin𝐖(\theta𝐖)}𝐖=\frac{\frac{adj}{hyp}}{\frac{opp}{hyp}}𝐖=\frac{adj}{opp}
-\theta𝐖𝐖.
+\sin (t) \not= 0,
+t,
+\cot (t),
+\cot (t) =\frac{\cos (t)}{\sin (t)} .
+\theta,
+\sin (\theta),
+\cos (\theta),
+\tan (\theta)
+\sec (\theta) & \lt mi/> =\frac{1}{\cos (\theta)} =\frac{1}{\frac{adj}{hyp}} =\frac{hyp}{adj} \\ \csc (\theta) & \lt mi/> =\frac{1}{\sin (\theta)} =\frac{1}{\frac{opp}{hyp}} =\frac{hyp}{opp} \\ \cot (\theta) & \lt mi/> =\frac{\cos (\theta)}{\sin (\theta)} =\frac{\frac{adj}{hyp}}{\frac{opp}{hyp}} =\frac{adj}{opp}
+\theta .
 61
-11𝐖.
-\alpha𝐖
-11𝐖.
-\alpha𝐖𝐖.
-\csc𝐖(\alpha𝐖)𝐖=\frac{5}{3},𝐖
-\sin𝐖(\alpha𝐖)𝐖=\frac{3}{5}𝐖.
-\csc𝐖(\alpha𝐖)𝐖=\frac{5}{3},𝐖
-\alpha𝐖
+11 .
+\alpha
+11 .
+\alpha .
+\csc (\alpha) =\frac{5}{3},
+\sin (\alpha) =\frac{3}{5} .
+\csc (\alpha) =\frac{5}{3},
+\alpha
 3
-5,𝐖
-\csc𝐖(\alpha𝐖)𝐖=\frac{hyp}{opp}𝐖.
-\alpha𝐖
-4,𝐖
-\triangle𝐖OPQ
+5,
+\csc (\alpha) =\frac{hyp}{opp} .
+\alpha
+4,
+\triangle OPQ
 3
 4
 5
-\sin𝐖(\alpha𝐖)𝐖=\frac{3}{5}
-\sin𝐖(\alpha𝐖)𝐖=\frac{\frac{3}{5}}{1},𝐖
+\sin (\alpha) =\frac{3}{5}
+\sin (\alpha) =\frac{\frac{3}{5}}{1},
 1
-\frac{3}{5}𝐖.
+\frac{3}{5} .
 3
 4
 5
-\frac{\sqrt{3}}{2},𝐖
-\frac{\sqrt{2}}{2},𝐖
+\frac{\sqrt{3}}{2},
+\frac{\sqrt{2}}{2},
 \frac{1}{2}
-\beta𝐖
-\sec𝐖(\beta𝐖)𝐖=𝐖-2𝐖.
-\beta𝐖𝐖.
-\sec𝐖(t)𝐖=\frac{1}{\cos𝐖(t)},𝐖
-\cos𝐖(t)𝐖=0,𝐖
-\sec𝐖(t)
-|𝐖\cos𝐖(t)|𝐖\le𝐖1
-t,𝐖
-|𝐖\sec𝐖(t)|𝐖\ge𝐖1
+\beta
+\sec (\beta) = -2 .
+\beta .
+\sec (t) =\frac{1}{\cos (t)},
+\cos (t) =0,
+\sec (t)
+| \cos (t)| \le 1
+t,
+| \sec (t)| \ge 1
 t
 t
 0
-\frac{\pi𝐖}{6}
-\frac{\pi𝐖}{4}
-\frac{\pi𝐖}{3}
-\frac{\pi𝐖}{2}
-\frac{2\pi𝐖}{3}
-\frac{3\pi𝐖}{4}
-\frac{5\pi𝐖}{6}
-\pi𝐖
-\cos𝐖(t)
+\frac{\pi}{6}
+\frac{\pi}{4}
+\frac{\pi}{3}
+\frac{\pi}{2}
+\frac{2\pi}{3}
+\frac{3\pi}{4}
+\frac{5\pi}{6}
+\pi
+\cos (t)
 1
 \frac{\sqrt{3}}{2}
 \frac{\sqrt{2}}{2}
 \frac{1}{2}
 0
-𝐖-\frac{1}{2}
-𝐖-\frac{\sqrt{2}}{2}
-𝐖-\frac{\sqrt{3}}{2}
-𝐖-1
-\sec𝐖(t)
+-\frac{1}{2}
+-\frac{\sqrt{2}}{2}
+-\frac{\sqrt{3}}{2}
+-1
+\sec (t)
 1
 \frac{2}{\sqrt{3}}
 \sqrt{2}
 2
-𝐖-2
-𝐖-\sqrt{2}
-𝐖-\frac{2}{\sqrt{3}}
-𝐖-1
+-2
+-\sqrt{2}
+-\frac{2}{\sqrt{3}}
+-1
 t
-\frac{7\pi𝐖}{6}
-\frac{5\pi𝐖}{4}
-\frac{4\pi𝐖}{3}
-\frac{3\pi𝐖}{2}
-\frac{5\pi𝐖}{3}
-\frac{7\pi𝐖}{4}
-\frac{11\pi𝐖}{6}
-2\pi𝐖
-\cos𝐖(t)
-𝐖-\frac{\sqrt{3}}{2}
-𝐖-\frac{\sqrt{2}}{2}
-𝐖-\frac{1}{2}
+\frac{7\pi}{6}
+\frac{5\pi}{4}
+\frac{4\pi}{3}
+\frac{3\pi}{2}
+\frac{5\pi}{3}
+\frac{7\pi}{4}
+\frac{11\pi}{6}
+2\pi
+\cos (t)
+-\frac{\sqrt{3}}{2}
+-\frac{\sqrt{2}}{2}
+-\frac{1}{2}
 0
 \frac{1}{2}
 \frac{\sqrt{2}}{2}
 \frac{\sqrt{3}}{2}
 0
-\sec𝐖(t)
-𝐖-\frac{2}{\sqrt{3}}
-𝐖-\sqrt{2}
-𝐖-2
+\sec (t)
+-\frac{2}{\sqrt{3}}
+-\sqrt{2}
+-2
 2
 \sqrt{2}
 \frac{2}{\sqrt{3}}
 1
-\sec𝐖(t)
-\cos𝐖(t)
+\sec (t)
+\cos (t)
 t
-\frac{\pi𝐖}{2},𝐖
-\cos𝐖(t)
+\frac{\pi}{2},
+\cos (t)
 0
-1,𝐖
+1,
 0
-\sec𝐖(t)
+\sec (t)
 t
-\frac{\pi𝐖}{2}
+\frac{\pi}{2}
 t
-\frac{\pi𝐖}{2}
-\cos𝐖(t)
-\sec𝐖(t)
+\frac{\pi}{2}
+\cos (t)
+\sec (t)
 0
 t
-\frac{\pi𝐖}{2}
-p(t)𝐖=\sec𝐖(t)
-t𝐖=\frac{\pi𝐖}{2};𝐖
-\cos𝐖(t)
-P𝐖=2\pi𝐖𝐖.
-p(t)𝐖=\sec𝐖(t),𝐖
-t𝐖=\frac{\pi𝐖}{2}𝐖\pm𝐖k\pi𝐖
+\frac{\pi}{2}
+p(t) =\sec (t)
+t =\frac{\pi}{2};
+\cos (t)
+P =2\pi .
+p(t) =\sec (t),
+t =\frac{\pi}{2} \pm k\pi
 k
 y
-|𝐖y|𝐖\ge𝐖1;𝐖
-P𝐖=2\pi𝐖𝐖.
-q(t)𝐖=\csc𝐖(t)𝐖.
-q(t)𝐖=\csc𝐖(t)𝐖.
+| y| \ge 1;
+P =2\pi .
+q(t) =\csc (t) .
+q(t) =\csc (t) .
 u
-q(t)𝐖=\csc𝐖(t)
+q(t) =\csc (t)
 t
 0
-\frac{\pi𝐖}{6}
-\frac{\pi𝐖}{4}
-\frac{\pi𝐖}{3}
-\frac{\pi𝐖}{2}
-\frac{2\pi𝐖}{3}
-\frac{3\pi𝐖}{4}
-\frac{5\pi𝐖}{6}
-\pi𝐖
-\sin𝐖(t)
+\frac{\pi}{6}
+\frac{\pi}{4}
+\frac{\pi}{3}
+\frac{\pi}{2}
+\frac{2\pi}{3}
+\frac{3\pi}{4}
+\frac{5\pi}{6}
+\pi
+\sin (t)
 0
 \frac{1}{2}
 \frac{\sqrt{2}}{2}
@@ -482,43 +482,43 @@ t
 \frac{\sqrt{2}}{2}
 \frac{1}{2}
 0
-\csc𝐖(t)
+\csc (t)
 t
-\frac{7\pi𝐖}{6}
-\frac{5\pi𝐖}{4}
-\frac{4\pi𝐖}{3}
-\frac{3\pi𝐖}{2}
-\frac{5\pi𝐖}{3}
-\frac{7\pi𝐖}{4}
-\frac{11\pi𝐖}{6}
-2\pi𝐖
-\sin𝐖(t)
-𝐖-\frac{1}{2}
-𝐖-\frac{\sqrt{2}}{2}
-𝐖-\frac{\sqrt{3}}{2}
-𝐖-1
-𝐖-\frac{\sqrt{3}}{2}
-𝐖-\frac{\sqrt{2}}{2}
-𝐖-\frac{1}{2}
+\frac{7\pi}{6}
+\frac{5\pi}{4}
+\frac{4\pi}{3}
+\frac{3\pi}{2}
+\frac{5\pi}{3}
+\frac{7\pi}{4}
+\frac{11\pi}{6}
+2\pi
+\sin (t)
+-\frac{1}{2}
+-\frac{\sqrt{2}}{2}
+-\frac{\sqrt{3}}{2}
+-1
+-\frac{\sqrt{3}}{2}
+-\frac{\sqrt{2}}{2}
+-\frac{1}{2}
 0
-\csc𝐖(t)
-q(t)𝐖=\csc𝐖(t)
+\csc (t)
+q(t) =\csc (t)
 t
-q(t)𝐖=\csc𝐖(t)
-q(t)𝐖=\csc𝐖(t)
-r(t)𝐖=\cot𝐖(t)𝐖.
-r(t)𝐖=\cot𝐖(t)
+q(t) =\csc (t)
+q(t) =\csc (t)
+r(t) =\cot (t) .
+r(t) =\cot (t)
 t
 0
-\frac{\pi𝐖}{6}
-\frac{\pi𝐖}{4}
-\frac{\pi𝐖}{3}
-\frac{\pi𝐖}{2}
-\frac{2\pi𝐖}{3}
-\frac{3\pi𝐖}{4}
-\frac{5\pi𝐖}{6}
-\pi𝐖
-\sin𝐖(t)
+\frac{\pi}{6}
+\frac{\pi}{4}
+\frac{\pi}{3}
+\frac{\pi}{2}
+\frac{2\pi}{3}
+\frac{3\pi}{4}
+\frac{5\pi}{6}
+\pi
+\sin (t)
 0
 \frac{1}{2}
 \frac{\sqrt{2}}{2}
@@ -528,440 +528,440 @@ t
 \frac{\sqrt{2}}{2}
 \frac{1}{2}
 0
-\cos𝐖(t)
+\cos (t)
 1
 \frac{\sqrt{3}}{2}
 \frac{\sqrt{2}}{2}
 \frac{1}{2}
 0
-𝐖-\frac{1}{2}
-𝐖-\frac{\sqrt{2}}{2}
-𝐖-\frac{\sqrt{3}}{2}
-𝐖-1
-\tan𝐖(t)
+-\frac{1}{2}
+-\frac{\sqrt{2}}{2}
+-\frac{\sqrt{3}}{2}
+-1
+\tan (t)
 0
 \frac{1}{\sqrt{3}}
 1
 \frac{3}{\sqrt{3}}
-𝐖-\frac{3}{\sqrt{3}}
-𝐖-1
-𝐖-\frac{1}{\sqrt{3}}
+-\frac{3}{\sqrt{3}}
+-1
+-\frac{1}{\sqrt{3}}
 0
-\cot𝐖(t)
+\cot (t)
 t
-\frac{7\pi𝐖}{6}
-\frac{5\pi𝐖}{4}
-\frac{4\pi𝐖}{3}
-\frac{3\pi𝐖}{2}
-\frac{5\pi𝐖}{3}
-\frac{7\pi𝐖}{4}
-\frac{11\pi𝐖}{6}
-2\pi𝐖
-\sin𝐖(t)
-𝐖-\frac{1}{2}
-𝐖-\frac{\sqrt{2}}{2}
-𝐖-\frac{\sqrt{3}}{2}
-𝐖-1
-𝐖-\frac{\sqrt{3}}{2}
-𝐖-\frac{\sqrt{2}}{2}
-𝐖-\frac{1}{2}
+\frac{7\pi}{6}
+\frac{5\pi}{4}
+\frac{4\pi}{3}
+\frac{3\pi}{2}
+\frac{5\pi}{3}
+\frac{7\pi}{4}
+\frac{11\pi}{6}
+2\pi
+\sin (t)
+-\frac{1}{2}
+-\frac{\sqrt{2}}{2}
+-\frac{\sqrt{3}}{2}
+-1
+-\frac{\sqrt{3}}{2}
+-\frac{\sqrt{2}}{2}
+-\frac{1}{2}
 0
-\cos𝐖(t)
-𝐖-\frac{\sqrt{3}}{2}
-𝐖-\frac{\sqrt{2}}{2}
-𝐖-\frac{1}{2}
+\cos (t)
+-\frac{\sqrt{3}}{2}
+-\frac{\sqrt{2}}{2}
+-\frac{1}{2}
 0
 \frac{1}{2}
 \frac{\sqrt{2}}{2}
 \frac{\sqrt{3}}{2}
 1
-\tan𝐖(t)
+\tan (t)
 \frac{1}{\sqrt{3}}
 1
 \frac{3}{\sqrt{3}}
-𝐖-\frac{3}{\sqrt{3}}
-𝐖-1
-𝐖-\frac{1}{\sqrt{3}}
+-\frac{3}{\sqrt{3}}
+-1
+-\frac{1}{\sqrt{3}}
 0
-\cot𝐖(t)
-r(t)𝐖=\cot𝐖(t)
+\cot (t)
+r(t) =\cot (t)
 t
-r(t)𝐖=\cot𝐖(t)
-r(t)𝐖=\cot𝐖(t)
-r(t)𝐖=\cot𝐖(t)𝐖.
-r(t)𝐖=\cot𝐖(t)
+r(t) =\cot (t)
+r(t) =\cot (t)
+r(t) =\cot (t) .
+r(t) =\cot (t)
 x
-(x𝐖+1)^2𝐖𝐖=x^2𝐖𝐖+2x𝐖+1,𝐖
-x,𝐖
-\theta𝐖,𝐖
-(4.5.1)𝐖&𝐖\cos𝐖^2𝐖(\theta𝐖)𝐖+\sin𝐖^2𝐖(\theta𝐖)𝐖=1.
-\cos𝐖^2𝐖(\theta𝐖)𝐖+\sin𝐖^2𝐖(\theta𝐖)
-1,𝐖
-\cos𝐖^2𝐖(\theta𝐖)
-1𝐖-\sin𝐖^2𝐖(\theta𝐖)𝐖.
-\cos𝐖^2𝐖(\theta𝐖)
-\sin𝐖^2𝐖(\theta𝐖)𝐖.
-\cos𝐖^2𝐖(\theta𝐖)
-\cos𝐖(\theta𝐖)𝐖\not=𝐖0
-1𝐖+\frac{\sin𝐖^2𝐖(\theta𝐖)}{\cos𝐖^2𝐖(\theta𝐖)}𝐖=\frac{1}{\cos𝐖^2𝐖(\theta𝐖)},𝐖
-1𝐖+\tan𝐖^2𝐖(\theta𝐖)𝐖=\sec𝐖^2𝐖(\theta𝐖)𝐖.
-\sin𝐖^2𝐖(\theta𝐖)
-\sin𝐖(\theta𝐖)𝐖\not=𝐖0
-\cot𝐖^2𝐖(\theta𝐖)𝐖+1𝐖=\csc𝐖^2𝐖(\theta𝐖)𝐖.
-\alpha𝐖
-\beta𝐖,𝐖
-\cos𝐖(\alpha𝐖𝐖+\beta𝐖)𝐖=\cos𝐖(\alpha𝐖)\cos𝐖(\beta𝐖)𝐖-\sin𝐖(\alpha𝐖)\sin𝐖(\beta𝐖)𝐖.
-\alpha𝐖
-\beta𝐖,𝐖
-\sin𝐖(\alpha𝐖𝐖+\beta𝐖)𝐖=\sin𝐖(\alpha𝐖)\cos𝐖(\beta𝐖)𝐖+\cos𝐖(\alpha𝐖)\sin𝐖(\beta𝐖)𝐖.
-\theta𝐖,𝐖
-\cos𝐖(2\theta𝐖)𝐖=\cos𝐖^2𝐖(\theta𝐖)𝐖-\sin𝐖^2𝐖(\theta𝐖)𝐖.
-\theta𝐖,𝐖
-\sin𝐖(2\theta𝐖)𝐖=2\sin𝐖(\theta𝐖)\cos𝐖(\theta𝐖)𝐖.
+(x +1)^2 =x^2 +2x +1,
+x,
+\theta,
+(4.5.1) & \cos^2 (\theta) +\sin^2 (\theta) =1.
+\cos^2 (\theta) +\sin^2 (\theta)
+1,
+\cos^2 (\theta)
+1 -\sin^2 (\theta) .
+\cos^2 (\theta)
+\sin^2 (\theta) .
+\cos^2 (\theta)
+\cos (\theta) \not= 0
+1 +\frac{\sin^2 (\theta)}{\cos^2 (\theta)} =\frac{1}{\cos^2 (\theta)},
+1 +\tan^2 (\theta) =\sec^2 (\theta) .
+\sin^2 (\theta)
+\sin (\theta) \not= 0
+\cot^2 (\theta) +1 =\csc^2 (\theta) .
+\alpha
+\beta,
+\cos (\alpha +\beta) =\cos (\alpha)\cos (\beta) -\sin (\alpha)\sin (\beta) .
+\alpha
+\beta,
+\sin (\alpha +\beta) =\sin (\alpha)\cos (\beta) +\cos (\alpha)\sin (\beta) .
+\theta,
+\cos (2\theta) =\cos^2 (\theta) -\sin^2 (\theta) .
+\theta,
+\sin (2\theta) =2\sin (\theta)\cos (\theta) .
 f
-[a,𝐖a𝐖+h],𝐖
-AV_{[a,𝐖a𝐖+h]}𝐖𝐖=\frac{f(a𝐖+h)𝐖-f(a)}{h}𝐖.
-f(x)𝐖=\sin𝐖(x)𝐖.
-AV_{[a,𝐖a𝐖+h]}𝐖
-[a,𝐖a𝐖+h]𝐖.
-\sin𝐖(\alpha𝐖𝐖+\beta𝐖)𝐖=\sin𝐖(\alpha𝐖)\cos𝐖(\beta𝐖)𝐖+\cos𝐖(\alpha𝐖)\sin𝐖(\beta𝐖),𝐖
-\sin𝐖(a𝐖+h)𝐖.
-AV_{[a,𝐖a𝐖+h]}𝐖𝐖=\sin𝐖(a)𝐖\cdot𝐖\frac{\cos𝐖(h)𝐖-1}{h}𝐖-\cos𝐖(a)𝐖\cdot𝐖\frac{\sin𝐖(h)}{h}𝐖.
+[a, a +h],
+AV_{[a, a +h]} =\frac{f(a +h) -f(a)}{h} .
+f(x) =\sin (x) .
+AV_{[a, a +h]}
+[a, a +h] .
+\sin (\alpha +\beta) =\sin (\alpha)\cos (\beta) +\cos (\alpha)\sin (\beta),
+\sin (a +h) .
+AV_{[a, a +h]} =\sin (a) \cdot \frac{\cos (h) -1}{h} -\cos (a) \cdot \frac{\sin (h)}{h} .
 h
 0
-\frac{\cos𝐖(h)𝐖-1}{h}
+\frac{\cos (h) -1}{h}
 h
-0𝐖.
-\frac{\sin𝐖(h)}{h}
-h𝐖?
-AV_{[a,𝐖a𝐖+h]}𝐖
+0 .
+\frac{\sin (h)}{h}
+h ?
+AV_{[a, a +h]}
 h
-0𝐖?
-\sec𝐖(t)𝐖=\frac{1}{\cos𝐖(t)},𝐖\csc𝐖(t)𝐖=\frac{1}{\sin𝐖(t)},𝐖\~and\~\cot𝐖(t)𝐖=\frac{1}{\tan𝐖(t)}𝐖.
-\tan𝐖(t)𝐖=0
-\tan𝐖(t)
+0 ?
+\sec (t) =\frac{1}{\cos (t)}, \csc (t) =\frac{1}{\sin (t)}, \~and\~\cot (t) =\frac{1}{\tan (t)} .
+\tan (t) =0
+\tan (t)
 y
-|𝐖y|𝐖\ge𝐖1
-\tan𝐖^2𝐖(t)𝐖+1𝐖=\sec𝐖^2𝐖(t)
+| y| \ge 1
+\tan^2 (t) +1 =\sec^2 (t)
 t
-t𝐖=\frac{\pi𝐖}{2}𝐖\pm𝐖k\pi𝐖𝐖.
-f(t)𝐖=\sec𝐖^2𝐖(t)𝐖-\tan𝐖^2𝐖(t)
+t =\frac{\pi}{2} \pm k\pi .
+f(t) =\sec^2 (t) -\tan^2 (t)
 f
-1𝐖.
-\tan𝐖(\frac{7\pi𝐖}{4})
-\tan𝐖(\frac{5\pi𝐖}{4})
-\cot𝐖(\frac{5\pi𝐖}{3})
-\sec𝐖(\frac{3\pi𝐖}{4})
-\csc𝐖(\frac{\pi𝐖}{3})
-\theta𝐖
-0𝐖\le𝐖\theta𝐖𝐖\le𝐖\pi𝐖/2,𝐖
-\cos𝐖(\theta𝐖)𝐖=\frac{1}{8}𝐖.
-\csc𝐖(\theta𝐖)
-\cot𝐖(\theta𝐖)
-\theta𝐖
-\frac{3\pi𝐖}{2}𝐖\le𝐖\theta𝐖𝐖\le𝐖2\pi𝐖,𝐖
-\tan𝐖(\theta𝐖)𝐖=\frac{𝐖-2}{3}𝐖.
-\sec𝐖(\theta𝐖)
-\sin𝐖(\theta𝐖)
-\beta𝐖
-\cos𝐖(\beta𝐖)𝐖=𝐖-\frac{12}{13}𝐖.
-\beta𝐖
-\beta𝐖
-f(t)𝐖=5\sec𝐖(t𝐖-\frac{\pi𝐖}{2})𝐖+3
-g(t)𝐖=𝐖-\frac{1}{3}\csc𝐖(2t)𝐖-4
-h(t)𝐖=𝐖-7\tan𝐖(t𝐖+\frac{\pi𝐖}{4})𝐖+1
-j(t)𝐖=\frac{1}{2}\cot𝐖(4t)𝐖-2
-x,𝐖
-\theta𝐖
-x,𝐖
-x𝐖.
-\sin𝐖(\theta𝐖)
-\sec𝐖(\theta𝐖)
-\csc𝐖(\theta𝐖)
-\tan𝐖(\theta𝐖)
-\cos𝐖(\arcsin𝐖(x))
-\cot𝐖(\arcsin𝐖(x))
-f(t)𝐖=ab^t𝐖
+1 .
+\tan (\frac{7\pi}{4})
+\tan (\frac{5\pi}{4})
+\cot (\frac{5\pi}{3})
+\sec (\frac{3\pi}{4})
+\csc (\frac{\pi}{3})
+\theta
+0 \le \theta \le \pi /2,
+\cos (\theta) =\frac{1}{8} .
+\csc (\theta)
+\cot (\theta)
+\theta
+\frac{3\pi}{2} \le \theta \le 2\pi,
+\tan (\theta) =\frac{ -2}{3} .
+\sec (\theta)
+\sin (\theta)
+\beta
+\cos (\beta) = -\frac{12}{13} .
+\beta
+\beta
+f(t) =5\sec (t -\frac{\pi}{2}) +3
+g(t) = -\frac{1}{3}\csc (2t) -4
+h(t) = -7\tan (t +\frac{\pi}{4}) +1
+j(t) =\frac{1}{2}\cot (4t) -2
+x,
+\theta
+x,
+x .
+\sin (\theta)
+\sec (\theta)
+\csc (\theta)
+\tan (\theta)
+\cos (\arcsin (x))
+\cot (\arcsin (x))
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t
 f
 g
-f𝐖.
+f .
 g
-g(f(x))𝐖=x
+g(f(x)) =x
 x
-f,𝐖
-f(g(y))𝐖=y
+f,
+f(g(y)) =y
 y
-f𝐖.
+f .
 g
-f,𝐖
-g𝐖=f^{𝐖-1}𝐖𝐖.
+f,
+g =f^{ -1} .
 f
 f
 f
-y𝐖=f(t)
-t𝐖=f^{𝐖-1}𝐖(y)
-f(t)𝐖=\sin𝐖(t),𝐖
-g(t)𝐖=\cos𝐖(t),𝐖
-h(t)𝐖=\tan𝐖(t)
-\frac{\sqrt{3}}{2}𝐖=\cos𝐖(\frac{\pi𝐖}{6})and\frac{\pi𝐖}{6}𝐖=\cos𝐖^{𝐖-1}𝐖(\frac{\sqrt{3}}{2})
-2.5,𝐖
-4𝐖.
-\theta𝐖
-2.5,𝐖
-\sin𝐖(\theta𝐖)𝐖=\frac{2.5}{4}𝐖.
-\theta𝐖𝐖.
-f(t)𝐖=\sin𝐖(t),𝐖
-g(t)𝐖=\cos𝐖(t),𝐖
-h(t)𝐖=\tan𝐖(t)
-[0,𝐖\pi𝐖]𝐖.
-[𝐖-\frac{5\pi𝐖}{2},𝐖\frac{5\pi𝐖}{2}]
-[0,𝐖\pi𝐖]
+y =f(t)
+t =f^{ -1} (y)
+f(t) =\sin (t),
+g(t) =\cos (t),
+h(t) =\tan (t)
+\frac{\sqrt{3}}{2} =\cos (\frac{\pi}{6})and\frac{\pi}{6} =\cos^{ -1} (\frac{\sqrt{3}}{2})
+2.5,
+4 .
+\theta
+2.5,
+\sin (\theta) =\frac{2.5}{4} .
+\theta .
+f(t) =\sin (t),
+g(t) =\cos (t),
+h(t) =\tan (t)
+[0, \pi] .
+[ -\frac{5\pi}{2}, \frac{5\pi}{2}]
+[0, \pi]
 g
-0𝐖\le𝐖t𝐖\le𝐖\pi𝐖
-g(t)𝐖=\cos𝐖(t)𝐖.
+0 \le t \le \pi
+g(t) =\cos (t) .
 g
-g𝐖?
-g𝐖?
+g ?
+g ?
 g
 g
-g^{𝐖-1}𝐖,𝐖
-g^{𝐖-1}𝐖𝐖.
-g(\frac{\pi𝐖}{4})𝐖=\frac{\sqrt{2}}{2}𝐖.
-g^{𝐖-1}𝐖(\frac{\sqrt{2}}{2})𝐖?
-g^{𝐖-1}𝐖(𝐖-\frac{\sqrt{2}}{2})𝐖?
-g^{𝐖-1}𝐖(𝐖-\frac{1}{2}),𝐖
-g^{𝐖-1}𝐖(\frac{\sqrt{3}}{2}),𝐖
-g^{𝐖-1}𝐖(0),𝐖
-g^{𝐖-1}𝐖(𝐖-1)𝐖.
-[0,𝐖\pi𝐖]
-y𝐖=g(t)𝐖=\cos𝐖(t)
-[0,𝐖\pi𝐖],𝐖
-g𝐖\colon𝐖[0,𝐖\pi𝐖]𝐖\to𝐖[𝐖-1,𝐖1]𝐖.
+g^{ -1},
+g^{ -1} .
+g(\frac{\pi}{4}) =\frac{\sqrt{2}}{2} .
+g^{ -1} (\frac{\sqrt{2}}{2}) ?
+g^{ -1} ( -\frac{\sqrt{2}}{2}) ?
+g^{ -1} ( -\frac{1}{2}),
+g^{ -1} (\frac{\sqrt{3}}{2}),
+g^{ -1} (0),
+g^{ -1} ( -1) .
+[0, \pi]
+y =g(t) =\cos (t)
+[0, \pi],
+g \colon [0, \pi] \to [ -1, 1] .
 y
-𝐖-1𝐖\le𝐖y𝐖\le𝐖1,𝐖
+-1 \le y \le 1,
 y
-\arccos𝐖(y)
+\arccos (y)
 t
-0𝐖\le𝐖t𝐖\le𝐖\pi𝐖
-\cos𝐖(t)𝐖=y𝐖.
-𝐖-1𝐖\le𝐖y𝐖\le𝐖1,𝐖
-(1,𝐖0)
-y𝐖.
-y𝐖=\cos𝐖(t)
-y
-t
-t𝐖=\arccos𝐖(y)
-t
-y
-y𝐖=f(t)
-t𝐖=f^{𝐖-1}𝐖(y)
-y𝐖=\cos𝐖(t)\~and\~t𝐖=\arccos𝐖(y)
-t
-0𝐖\le𝐖t𝐖\le𝐖\pi𝐖𝐖.
-t𝐖=\cos𝐖^{𝐖-1}𝐖(y)
-t𝐖=\arccos𝐖(y)𝐖.
-t𝐖=\cos𝐖^{𝐖-1}𝐖(y)
-t
+0 \le t \le \pi
+\cos (t) =y .
+-1 \le y \le 1,
+(1, 0)
+y .
+y =\cos (t)
 y
 t
+t =\arccos (y)
+t
 y
-y𝐖=g(t)𝐖=\cos𝐖(t),𝐖
-[0,𝐖\pi𝐖]
-[𝐖-1,𝐖1]𝐖.
-t𝐖=g^{𝐖-1}𝐖(y)𝐖=\arccos𝐖(y)𝐖.
-y𝐖=g^{𝐖-1}𝐖(t)𝐖=\arccos𝐖(t)
-[𝐖-1,𝐖1]
-[0,𝐖\pi𝐖]𝐖.
-y𝐖=e^t𝐖
-t𝐖=\ln𝐖(y)
-\cos𝐖(\frac{\pi𝐖}{2})𝐖=0
-\frac{\pi𝐖}{2}𝐖=\arccos𝐖(0),𝐖
-\frac{\pi𝐖}{2}
+y =f(t)
+t =f^{ -1} (y)
+y =\cos (t)\~and\~t =\arccos (y)
+t
+0 \le t \le \pi .
+t =\cos^{ -1} (y)
+t =\arccos (y) .
+t =\cos^{ -1} (y)
+t
+y
+t
+y
+y =g(t) =\cos (t),
+[0, \pi]
+[ -1, 1] .
+t =g^{ -1} (y) =\arccos (y) .
+y =g^{ -1} (t) =\arccos (t)
+[ -1, 1]
+[0, \pi] .
+y =e^t
+t =\ln (y)
+\cos (\frac{\pi}{2}) =0
+\frac{\pi}{2} =\arccos (0),
+\frac{\pi}{2}
 0
-(a,𝐖b)
-y𝐖=\cos𝐖(t)
-(b,𝐖a)
-y𝐖=\arccos𝐖(t)𝐖.
-\arccos𝐖(\frac{1}{2})
-\arccos𝐖(\frac{\sqrt{2}}{2})
-\arccos𝐖(\frac{\sqrt{3}}{2})
-\arccos𝐖(𝐖-\frac{1}{2})
-\arccos𝐖(𝐖-\frac{\sqrt{2}}{2})
-\arccos𝐖(𝐖-\frac{\sqrt{3}}{2})
-\arccos𝐖(𝐖-1)
-\arccos𝐖(0)
-\cos𝐖(\arccos𝐖(𝐖-\frac{1}{2}))
-\arccos𝐖(\cos𝐖(\frac{7\pi𝐖}{6}))
-[𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2}]
-f(t)𝐖=\sin𝐖(t)
-f(t)𝐖=\sin𝐖(t)
-f𝐖\colon𝐖[𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2}]𝐖\to𝐖[𝐖-1,𝐖1]
-y𝐖=f(t)𝐖=\sin𝐖(t)
-[𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2}],𝐖
-f𝐖\colon𝐖[𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2}]𝐖\to𝐖[𝐖-1,𝐖1]𝐖.
+(a, b)
+y =\cos (t)
+(b, a)
+y =\arccos (t) .
+\arccos (\frac{1}{2})
+\arccos (\frac{\sqrt{2}}{2})
+\arccos (\frac{\sqrt{3}}{2})
+\arccos ( -\frac{1}{2})
+\arccos ( -\frac{\sqrt{2}}{2})
+\arccos ( -\frac{\sqrt{3}}{2})
+\arccos ( -1)
+\arccos (0)
+\cos (\arccos ( -\frac{1}{2}))
+\arccos (\cos (\frac{7\pi}{6}))
+[ -\frac{\pi}{2}, \frac{\pi}{2}]
+f(t) =\sin (t)
+f(t) =\sin (t)
+f \colon [ -\frac{\pi}{2}, \frac{\pi}{2}] \to [ -1, 1]
+y =f(t) =\sin (t)
+[ -\frac{\pi}{2}, \frac{\pi}{2}],
+f \colon [ -\frac{\pi}{2}, \frac{\pi}{2}] \to [ -1, 1] .
 y
-𝐖-1𝐖\le𝐖y𝐖\le𝐖1,𝐖
+-1 \le y \le 1,
 y
-\arcsin𝐖(y)
+\arcsin (y)
 t
-𝐖-\frac{\pi𝐖}{2}𝐖\le𝐖t𝐖\le𝐖\frac{\pi𝐖}{2}
-\sin𝐖(t)𝐖=y𝐖.
-\arcsin𝐖(𝐖-1),𝐖
-\arcsin𝐖(𝐖-\frac{\sqrt{2}}{2}),𝐖
-\arcsin𝐖(0),𝐖
-\arcsin𝐖(\frac{1}{2}),𝐖
-\arcsin𝐖(\frac{\sqrt{3}}{2})𝐖.
-[𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2}]
-y𝐖=t
-\arcsin𝐖(\sin𝐖(5\pi𝐖))𝐖=5\pi𝐖𝐖.
-(𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2})
-h(t)𝐖=\tan𝐖(t)
-y𝐖=h(t)𝐖=\tan𝐖(t)
-(𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2}),𝐖
-h𝐖\colon𝐖(𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2})𝐖\to𝐖(𝐖-\infty𝐖,𝐖\infty𝐖)𝐖.
-y,𝐖
+-\frac{\pi}{2} \le t \le \frac{\pi}{2}
+\sin (t) =y .
+\arcsin ( -1),
+\arcsin ( -\frac{\sqrt{2}}{2}),
+\arcsin (0),
+\arcsin (\frac{1}{2}),
+\arcsin (\frac{\sqrt{3}}{2}) .
+[ -\frac{\pi}{2}, \frac{\pi}{2}]
+y =t
+\arcsin (\sin (5\pi)) =5\pi .
+( -\frac{\pi}{2}, \frac{\pi}{2})
+h(t) =\tan (t)
+y =h(t) =\tan (t)
+( -\frac{\pi}{2}, \frac{\pi}{2}),
+h \colon ( -\frac{\pi}{2}, \frac{\pi}{2}) \to ( -\infty, \infty) .
+y,
 y
-\arctan𝐖(y)
+\arctan (y)
 t
-𝐖-\frac{\pi𝐖}{2}𝐖\lt𝐖t𝐖\lt𝐖\frac{\pi𝐖}{2}
-\tan𝐖(t)𝐖=y𝐖.
-\arctan𝐖(𝐖-\sqrt{3}),𝐖
-\arctan𝐖(𝐖-1),𝐖
-\arctan𝐖(0),𝐖
-\arctan𝐖(\frac{1}{\sqrt{3}})𝐖.
-(𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2})
-y𝐖=t
+-\frac{\pi}{2} \lt t \lt \frac{\pi}{2}
+\tan (t) =y .
+\arctan ( -\sqrt{3}),
+\arctan ( -1),
+\arctan (0),
+\arctan (\frac{1}{\sqrt{3}}) .
+( -\frac{\pi}{2}, \frac{\pi}{2})
+y =t
 t
-\arctan𝐖(t)
-\ldots𝐖
-[0,𝐖\pi𝐖],𝐖
-[𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2}],𝐖
-(𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2})𝐖.
-[𝐖-1,𝐖1],𝐖
+\arctan (t)
+\ldots
+[0, \pi],
+[ -\frac{\pi}{2}, \frac{\pi}{2}],
+( -\frac{\pi}{2}, \frac{\pi}{2}) .
+[ -1, 1],
 y
-𝐖-1𝐖\le𝐖y𝐖\le𝐖1,𝐖
+-1 \le y \le 1,
 y
-\arccos𝐖(y)
+\arccos (y)
 t
-[0,𝐖\pi𝐖]
-\cos𝐖(t)𝐖=y𝐖.
+[0, \pi]
+\cos (t) =y .
 t
-y𝐖.
+y .
 y
-𝐖-1𝐖\le𝐖y𝐖\le𝐖1,𝐖
+-1 \le y \le 1,
 y
-\arcsin𝐖(y)
+\arcsin (y)
 t
-[𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2}]
-\sin𝐖(t)𝐖=y𝐖.
+[ -\frac{\pi}{2}, \frac{\pi}{2}]
+\sin (t) =y .
 t
-y𝐖.
-y,𝐖
+y .
+y,
 y
-\arctan𝐖(y)
+\arctan (y)
 t
-(𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2})
-\tan𝐖(t)𝐖=y𝐖.
+( -\frac{\pi}{2}, \frac{\pi}{2})
+\tan (t) =y .
 t
-y𝐖.
+y .
 t
-y𝐖=g^{𝐖-1}𝐖(t)𝐖=\arccos𝐖(t)
-[𝐖-1,𝐖1]
-[0,𝐖\pi𝐖],𝐖
-[0,𝐖\pi𝐖]𝐖.
-y𝐖=g^{𝐖-1}𝐖(t)𝐖=\arccos𝐖(t)
-y𝐖=f^{𝐖-1}𝐖(t)𝐖=\arcsin𝐖(t)
-y𝐖=f^{𝐖-1}𝐖(t)𝐖=\arcsin𝐖(t)
-[𝐖-1,𝐖1]
-[𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2}],𝐖
-[𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2}]𝐖.
-y𝐖=f^{𝐖-1}𝐖(t)𝐖=\arctan𝐖(t)
-(𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2}),𝐖
-(𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2})𝐖.
-y𝐖=h^{𝐖-1}𝐖(t)𝐖=\arctan𝐖(t)
-\cos𝐖(\theta𝐖)𝐖=\frac{\sqrt{3}}{2}
-0𝐖\le𝐖\theta𝐖𝐖\le𝐖2\pi𝐖𝐖.
-\theta𝐖
-\sin𝐖(\theta𝐖)𝐖=\frac{\sqrt{2}}{2}
-0𝐖\le𝐖\theta𝐖𝐖\le𝐖2\pi𝐖𝐖.
-\theta𝐖
-\tan𝐖(\theta𝐖)𝐖=1
-0𝐖\le𝐖\theta𝐖𝐖\le𝐖2\pi𝐖𝐖.
-\theta𝐖
+y =g^{ -1} (t) =\arccos (t)
+[ -1, 1]
+[0, \pi],
+[0, \pi] .
+y =g^{ -1} (t) =\arccos (t)
+y =f^{ -1} (t) =\arcsin (t)
+y =f^{ -1} (t) =\arcsin (t)
+[ -1, 1]
+[ -\frac{\pi}{2}, \frac{\pi}{2}],
+[ -\frac{\pi}{2}, \frac{\pi}{2}] .
+y =f^{ -1} (t) =\arctan (t)
+( -\frac{\pi}{2}, \frac{\pi}{2}),
+( -\frac{\pi}{2}, \frac{\pi}{2}) .
+y =h^{ -1} (t) =\arctan (t)
+\cos (\theta) =\frac{\sqrt{3}}{2}
+0 \le \theta \le 2\pi .
+\theta
+\sin (\theta) =\frac{\sqrt{2}}{2}
+0 \le \theta \le 2\pi .
+\theta
+\tan (\theta) =1
+0 \le \theta \le 2\pi .
+\theta
 t
-0𝐖\le𝐖t𝐖\le𝐖2\pi𝐖𝐖.
-\sin𝐖(t)𝐖=\frac{\sqrt{3}}{2}
-t𝐖=
-\cos𝐖(t)𝐖=\frac{\sqrt{2}}{2}
-t𝐖=
-\tan𝐖(t)𝐖=𝐖-\sqrt{3}
-t𝐖=
-\arcsin𝐖(\frac{1}{2})
-\arctan𝐖(𝐖-1)
-\arcsin𝐖(𝐖-\frac{\sqrt{3}}{2})
-\arctan𝐖(𝐖-\frac{1}{\sqrt{3}})
-\arccos𝐖(\sin𝐖(\frac{\pi𝐖}{3}))
-\cos𝐖(\arcsin𝐖(𝐖-\frac{\sqrt{3}}{2}))
-\tan𝐖(\arcsin𝐖(𝐖-\frac{\sqrt{2}}{2}))
-\arctan𝐖(\sin𝐖(\frac{\pi𝐖}{2}))
-\sin𝐖(\arcsin𝐖(𝐖-\frac{1}{2}))
-\arctan𝐖(\tan𝐖(\frac{7\pi𝐖}{4}))
+0 \le t \le 2\pi .
+\sin (t) =\frac{\sqrt{3}}{2}
+t =
+\cos (t) =\frac{\sqrt{2}}{2}
+t =
+\tan (t) = -\sqrt{3}
+t =
+\arcsin (\frac{1}{2})
+\arctan ( -1)
+\arcsin ( -\frac{\sqrt{3}}{2})
+\arctan ( -\frac{1}{\sqrt{3}})
+\arccos (\sin (\frac{\pi}{3}))
+\cos (\arcsin ( -\frac{\sqrt{3}}{2}))
+\tan (\arcsin ( -\frac{\sqrt{2}}{2}))
+\arctan (\sin (\frac{\pi}{2}))
+\sin (\arcsin ( -\frac{1}{2}))
+\arctan (\tan (\frac{7\pi}{4}))
 y
-𝐖-1𝐖\le𝐖y𝐖\le𝐖1,𝐖
-\sin𝐖(\arcsin𝐖(y))𝐖=y𝐖.
-t,𝐖
-\arcsin𝐖(\sin𝐖(t))𝐖=t𝐖.
-t,𝐖
-\arccos𝐖(\cos𝐖(t))𝐖=t𝐖.
+-1 \le y \le 1,
+\sin (\arcsin (y)) =y .
+t,
+\arcsin (\sin (t)) =t .
+t,
+\arccos (\cos (t)) =t .
 y
-𝐖-1𝐖\le𝐖y𝐖\le𝐖1,𝐖
-\cos𝐖(\arccos𝐖(y))𝐖=y𝐖.
-y,𝐖
-\tan𝐖(\arctan𝐖(y))𝐖=y𝐖.
-t,𝐖
-\arctan𝐖(\tan𝐖(t))𝐖=t𝐖.
-h(x)𝐖=\cos𝐖(\arcsin𝐖(x))𝐖.
+-1 \le y \le 1,
+\cos (\arccos (y)) =y .
+y,
+\tan (\arctan (y)) =y .
+t,
+\arctan (\tan (t)) =t .
+h(x) =\cos (\arcsin (x)) .
 h
-h𝐖?
-h𝐖?
-\theta𝐖𝐖=\arcsin𝐖(x),𝐖
-\theta𝐖
-x𝐖.
-\theta𝐖
+h ?
+h ?
+\theta =\arcsin (x),
+\theta
+x .
+\theta
 1
-x,𝐖
-x𝐖.
-\theta𝐖𝐖=\arcsin𝐖(x)𝐖.
-\alpha𝐖𝐖=\arctan𝐖(x)𝐖.
-\cos𝐖(\theta𝐖)
-x𝐖?
-h(x)𝐖=\cos𝐖(\arcsin𝐖(x))𝐖?
-p(x)𝐖=\cos𝐖(\arctan𝐖(x))𝐖?
+x,
+x .
+\theta =\arcsin (x) .
+\alpha =\arctan (x) .
+\cos (\theta)
+x ?
+h(x) =\cos (\arcsin (x)) ?
+p(x) =\cos (\arctan (x)) ?
 p
-\alpha𝐖𝐖=\arctan𝐖(x)
-f(t)𝐖=ab^t𝐖
+\alpha =\arctan (x)
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t
 T
 N
 N
@@ -970,13 +970,13 @@ N
 120
 160
 T
-\lt𝐖mi/>\circ
+\lt mi/>\circ
 50\circ
 60\circ
 70\circ
 80\circ
-(1.2.1)𝐖&𝐖T𝐖=40𝐖+0.25N
-70𝐖=40𝐖+0.25(120)𝐖.
+(1.2.1) & T =40 +0.25N
+70 =40 +0.25(120) .
 50\circ
 85\circ
 92
@@ -985,19 +985,19 @@ T
 65
 75
 50\circ
-85\circ𝐖.
+85\circ .
 40
 180
 D
-80𝐖&𝐖\lt𝐖mi/>\overset{D}{\to𝐖}60𝐖\\𝐖120𝐖&𝐖\lt𝐖mi/>\overset{D}{\to𝐖}70𝐖\\𝐖N𝐖&𝐖\lt𝐖mi/>\overset{D}{\to𝐖}40𝐖+0.25N
-80\overset{D}{\to𝐖}60
-D(80)𝐖=60
+80 & \lt mi/>\overset{D}{\to}60 \\ 120 & \lt mi/>\overset{D}{\to}70 \\ N & \lt mi/>\overset{D}{\to}40 +0.25N
+80\overset{D}{\to}60
+D(80) =60
 80
 60
-T𝐖=D(N)𝐖=40𝐖+0.25N
-T,𝐖
-N,𝐖
-D(N)𝐖=40𝐖+0.25N𝐖.
+T =D(N) =40 +0.25N
+T,
+N,
+D(N) =40 +0.25N .
 N
 T
 40
@@ -1010,108 +1010,108 @@ T
 80
 180
 85
-T𝐖=D(N)𝐖=40𝐖+0.25N𝐖.
-T𝐖=D(N)𝐖=40𝐖+0.25N
-(120,𝐖70)
+T =D(N) =40 +0.25N .
+T =D(N) =40 +0.25N
+(120, 70)
 120
-D,𝐖
+D,
 70
-D(120)𝐖=70𝐖.
+D(120) =70 .
 D
 120
 70
 F
 F
 A
-B,𝐖
+B,
 F
 A
-B,𝐖
-F𝐖\colon𝐖A𝐖\to𝐖B𝐖.
-F,𝐖
-t,𝐖
-z,𝐖
-F(t)𝐖=z
+B,
+F \colon A \to B .
+F,
+t,
+z,
+F(t) =z
 F
 t
-z𝐖.
+z .
 t
 z
 z
-t𝐖.
+t .
 F
 A
-B𝐖.
+B .
 A
 F
-F;𝐖
+F;
 B
 F
-F𝐖.
-D(N)𝐖=40𝐖+0.25N
-A𝐖=[40,𝐖180]
-[40,𝐖180]
+F .
+D(N) =40 +0.25N
+A =[40, 180]
+[40, 180]
 x
-40𝐖\le𝐖x𝐖\le𝐖80
+40 \le x \le 80
 F
 A
-B𝐖.
+B .
 F
 y
 B
 x
 A
-F(x)𝐖=y𝐖.
+F(x) =y .
 D
-T𝐖=50
-T𝐖=85
+T =50
+T =85
 D
-[50,𝐖85]𝐖.
+[50, 85] .
 4
 V
 h
 V
 h
-V𝐖=f(h)𝐖=\frac{\pi𝐖}{3}h^2𝐖(12𝐖-h)𝐖.
+V =f(h) =\frac{\pi}{3}h^2 (12 -h) .
 h
 V
 f
-f(2),𝐖
-f(4),𝐖
-f(8)𝐖.
-f(8)𝐖?
-f(9)𝐖=\frac{\pi𝐖}{3}9^2𝐖(12𝐖-9)𝐖=81\pi𝐖𝐖\approx𝐖254.47,𝐖
+f(2),
+f(4),
+f(8) .
+f(8) ?
+f(9) =\frac{\pi}{3}9^2 (12 -9) =81\pi \approx 254.47,
 9
 254.47
-f(13)𝐖=𝐖-\frac{169\pi𝐖}{3}
+f(13) = -\frac{169\pi}{3}
 h
-f(h)𝐖=300
-T𝐖=D(N)𝐖=40𝐖+0.25N,𝐖
-V𝐖=f(h)𝐖=\frac{\pi𝐖}{3}h^2𝐖(12𝐖-h)
+f(h) =300
+T =D(N) =40 +0.25N,
+V =f(h) =\frac{\pi}{3}h^2 (12 -h)
 4
 48
 32
 t
-t𝐖=0
-h𝐖=g(t)𝐖=𝐖-16t^2𝐖𝐖+32t𝐖+48𝐖.
+t =0
+h =g(t) = -16t^2 +32t +48 .
 g
 f
-y𝐖=f(x)𝐖=𝐖-16x^2𝐖𝐖+32x𝐖+48𝐖.
-y𝐖=f(x)𝐖=𝐖-16x^2𝐖𝐖+32x𝐖+48𝐖.
+y =f(x) = -16x^2 +32x +48 .
+y =f(x) = -16x^2 +32x +48 .
 f
-𝐖-16,𝐖
-x𝐖=\frac{𝐖-32}{2(𝐖-16)}𝐖=1,𝐖
+-16,
+x =\frac{ -32}{2( -16)} =1,
 y
-(0,𝐖48),𝐖
+(0, 48),
 x
-(𝐖-1,𝐖0)
-(3,𝐖0)
-𝐖-16x^2𝐖𝐖+32x𝐖+48𝐖=𝐖-16(x^2𝐖𝐖-2x𝐖-3)𝐖=𝐖-16(x𝐖-3)(x𝐖+1)𝐖.
+( -1, 0)
+(3, 0)
+-16x^2 +32x +48 = -16(x^2 -2x -3) = -16(x -3)(x +1) .
 x
 f(x)
-𝐖-2
-𝐖-80
-𝐖-1
+-2
+-80
+-1
 0
 0
 48
@@ -1122,34 +1122,34 @@ f(x)
 3
 0
 4
-𝐖-80
-y𝐖=f(x)𝐖=𝐖-16x^2𝐖𝐖+32x𝐖+48𝐖.
-y𝐖=f(x)
+-80
+y =f(x) = -16x^2 +32x +48 .
+y =f(x)
 x
-f(x)𝐖=𝐖-16x^2𝐖𝐖+32x𝐖+48
+f(x) = -16x^2 +32x +48
 x
-f(x)𝐖=𝐖-16x^2𝐖𝐖+32x𝐖+48
+f(x) = -16x^2 +32x +48
 f
 f
-y𝐖=64𝐖.
+y =64 .
 y
-64,𝐖
+64,
 f
-64𝐖.
-(𝐖-\infty𝐖,𝐖64]𝐖.
-(𝐖-\infty𝐖,𝐖64]
-64𝐖.
-𝐖-\infty𝐖
-h𝐖=g(t)𝐖=𝐖-16t^2𝐖𝐖+32t𝐖+48
-h,𝐖
+64 .
+( -\infty, 64] .
+( -\infty, 64]
+64 .
+-\infty
+h =g(t) = -16t^2 +32t +48
+h,
 t
-t𝐖\ge𝐖0𝐖.
-t𝐖\le𝐖3𝐖.
+t \ge 0 .
+t \le 3 .
 g
-[0,𝐖3]𝐖.
+[0, 3] .
 h
-[0,𝐖\infty𝐖)𝐖.
-[0,𝐖64],𝐖
+[0, \infty) .
+[0, 64],
 t
 g(t)
 0
@@ -1160,8 +1160,8 @@ g(t)
 48
 3
 0
-h𝐖=g(t)𝐖=𝐖-16t^2𝐖𝐖+32t𝐖+48𝐖.
-h𝐖=g(t)
+h =g(t) = -16t^2 +32t +48 .
+h =g(t)
 4
 0.5
 V
@@ -1169,27 +1169,27 @@ t
 h
 V
 t
-V𝐖=p(t)𝐖=\frac{256\pi𝐖}{3}𝐖-\frac{\pi𝐖}{24}t^2𝐖(24𝐖-t)𝐖.
-h𝐖=q(t)
-t𝐖.
-t𝐖=0𝐖?
-t𝐖=1𝐖?
-t𝐖=2𝐖?
-h𝐖=q(t)𝐖?
-V𝐖=p(t)𝐖?
-h𝐖=q(t)𝐖?
-V𝐖=p(t)𝐖?
-V𝐖=p(t)𝐖=\frac{256\pi𝐖}{3}𝐖-\frac{\pi𝐖}{24}t^2𝐖(24𝐖-t),𝐖
-V𝐖=p(t)𝐖.
-V𝐖=p(t)𝐖=\frac{256\pi𝐖}{3}𝐖-\frac{\pi𝐖}{24}t^2𝐖(24𝐖-t)
-y𝐖=r(x)𝐖=\frac{256\pi𝐖}{3}𝐖-\frac{\pi𝐖}{24}x^2𝐖(24𝐖-x)𝐖?
-h𝐖=q(t)
-q𝐖?
-\ldots𝐖
+V =p(t) =\frac{256\pi}{3} -\frac{\pi}{24}t^2 (24 -t) .
+h =q(t)
+t .
+t =0 ?
+t =1 ?
+t =2 ?
+h =q(t) ?
+V =p(t) ?
+h =q(t) ?
+V =p(t) ?
+V =p(t) =\frac{256\pi}{3} -\frac{\pi}{24}t^2 (24 -t),
+V =p(t) .
+V =p(t) =\frac{256\pi}{3} -\frac{\pi}{24}t^2 (24 -t)
+y =r(x) =\frac{256\pi}{3} -\frac{\pi}{24}x^2 (24 -x) ?
+h =q(t)
+q ?
+\ldots
 x
 y
 y
-x𝐖.
+x .
 x
 y
 x
@@ -1208,33 +1208,33 @@ y
 x
 y
 x
-f,𝐖
-f(4)𝐖=11𝐖.
+f,
+f(4) =11 .
 f
-\{1,𝐖2,𝐖3,𝐖4,𝐖5\},𝐖
-\{10,𝐖11,𝐖13\}𝐖.
+\{1, 2, 3, 4, 5\},
+\{10, 11, 13\} .
 x
 y
 y
 x
 x
-y𝐖.
+y .
 y
 \sqrt{7}
 x
-𝐖-3𝐖.
+-3 .
 x
-y𝐖.
-x𝐖=𝐖-1,𝐖
+y .
+x = -1,
 y
-y𝐖=3𝐖.
+y =3 .
 4
-(0,𝐖0)𝐖.
-g𝐖.
+(0, 0) .
+g .
 x
 y
 y
-x𝐖.
+x .
 x
 y
 x
@@ -1249,53 +1249,53 @@ y
 13
 14
 15
-x𝐖=𝐖-3
-y𝐖=𝐖-\sqrt{7}
-y𝐖=\sqrt{7},𝐖
+x = -3
+y = -\sqrt{7}
+y =\sqrt{7},
 y
-x𝐖.
-F𝐖\colon𝐖A𝐖\to𝐖B,𝐖
+x .
+F \colon A \to B,
 A
 B
 F
-(x,𝐖y)
-y𝐖=F(x)𝐖.
-g,𝐖
-(x,𝐖g(x)),𝐖
+(x, y)
+y =F(x) .
+g,
+(x, g(x)),
 x
 y
 f(x)
 g(x)
-f(x)𝐖=g(x)
-x𝐖=20,𝐖
-x𝐖=25,𝐖
-x𝐖=29,𝐖
+f(x) =g(x)
+x =20,
+x =25,
+x =29,
 f(5.2)
-g(x)𝐖.
+g(x) .
 x
-f(x)𝐖=2.9𝐖?
-x𝐖=
+f(x) =2.9 ?
+x =
 x
-f(x)𝐖=g(x)𝐖?
-x𝐖=
-A𝐖=f(d),𝐖
+f(x) =g(x) ?
+x =
+A =f(d),
 A
 d
-f(20)𝐖=
+f(20) =
 f(t)
 t
-f(4)𝐖=21𝐖?
-f(a)𝐖=20𝐖?
+f(4) =21 ?
+f(a) =20 ?
 a
 a
 a
 a
-f(20)𝐖=b𝐖?
+f(20) =b ?
 b
 b
 b
 b
-n𝐖=f(t)𝐖?
+n =f(t) ?
 t
 n
 n
@@ -1304,60 +1304,60 @@ n
 t
 t
 n
-R𝐖=f(t)
-t,𝐖
-t𝐖=1,𝐖
-f(t)𝐖=3.4𝐖.
-t𝐖=
-f(t)𝐖=3.4
-f(t)𝐖=f(5)𝐖.
-t𝐖=
-f(t)𝐖=f(5)
+R =f(t)
+t,
+t =1,
+f(t) =3.4 .
+t =
+f(t) =3.4
+f(t) =f(5) .
+t =
+f(t) =f(5)
 F
-t𝐖=0
-t𝐖=1
+t =0
+t =1
 t
-F𝐖?
-g(t)𝐖=F
-t𝐖.
-g(t)𝐖=125𝐖.
-t𝐖=
+F ?
+g(t) =F
+t .
+g(t) =125 .
+t =
 x
 V
-x𝐖.
-V𝐖=
-a𝐖=𝐖?
-a𝐖=
-b𝐖=𝐖?
-b𝐖=
+x .
+V =
+a = ?
+a =
+b = ?
+b =
 3
 2
 0.75
-V𝐖=f(t)
+V =f(t)
 t
-h𝐖=g(t)
-t𝐖.
+h =g(t)
+t .
 r
 h
-V𝐖=\frac{1}{3}\pi𝐖r^2𝐖h𝐖.
-V𝐖=f(t)
-h𝐖=g(t),𝐖
-h𝐖=g(t)𝐖?
+V =\frac{1}{3}\pi r^2 h .
+V =f(t)
+h =g(t),
+h =g(t) ?
 g
-g(t)𝐖=(\frac{t}{\pi𝐖})^{1/3}𝐖𝐖.
-h𝐖=g(t)𝐖=(\frac{t}{\pi𝐖})^{1/3}𝐖
-y𝐖=p(t)𝐖=(\frac{t}{\pi𝐖})^{1/3}𝐖
-g𝐖.
+g(t) =(\frac{t}{\pi})^{1/3} .
+h =g(t) =(\frac{t}{\pi})^{1/3}
+y =p(t) =(\frac{t}{\pi})^{1/3}
+g .
 p
-g𝐖?
+g ?
 v
 t
-t𝐖=2𝐖?
-t𝐖=7𝐖?
-v𝐖=3
-4𝐖\le𝐖t𝐖\le𝐖5𝐖.
-[1,𝐖3]
-[6,𝐖8]𝐖?
+t =2 ?
+t =7 ?
+v =3
+4 \le t \le 5 .
+[1, 3]
+[6, 8] ?
 D
 0
 50
@@ -1380,101 +1380,101 @@ G
 4.0
 11.0
 9.5
-G,𝐖
-D𝐖?
-f(t)𝐖=ab^t𝐖
+G,
+D ?
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-\arccos𝐖(x)𝐖=\theta𝐖\~and\~\cos𝐖(\theta𝐖)𝐖=x
-\arccos𝐖(x)
+f(t) =b^t
+\arccos (x) =\theta \~and\~\cos (\theta) =x
+\arccos (x)
 x
 3
-\sqrt{3}𝐖.
-\theta𝐖
-\sin𝐖(\theta𝐖)𝐖?
-\arcsin𝐖(\mdwhtsquare𝐖)𝐖=\Delta𝐖,𝐖
-\mdwhtsquare𝐖
-\Delta𝐖
-\theta𝐖𝐖?
-\arcsin𝐖(𝐖-\frac{\sqrt{3}}{2})𝐖=𝐖-\frac{\pi𝐖}{3},𝐖
-\arccos𝐖(𝐖-\frac{\sqrt{3}}{2})𝐖=\frac{5\pi𝐖}{6},𝐖
-\arctan𝐖(𝐖-\frac{1}{\sqrt{3}})𝐖=𝐖-\frac{\pi𝐖}{6}𝐖.
-[0,𝐖\pi𝐖],𝐖
-[𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2}]
-(𝐖-\frac{\pi𝐖}{2},𝐖\frac{\pi𝐖}{2}),𝐖
+\sqrt{3} .
+\theta
+\sin (\theta) ?
+\arcsin (\mdwhtsquare) =\Delta,
+\mdwhtsquare
+\Delta
+\theta ?
+\arcsin ( -\frac{\sqrt{3}}{2}) = -\frac{\pi}{3},
+\arccos ( -\frac{\sqrt{3}}{2}) =\frac{5\pi}{6},
+\arctan ( -\frac{1}{\sqrt{3}}) = -\frac{\pi}{6} .
+[0, \pi],
+[ -\frac{\pi}{2}, \frac{\pi}{2}]
+( -\frac{\pi}{2}, \frac{\pi}{2}),
 1
-3𝐖.
-\alpha𝐖
-\alpha𝐖,𝐖
-\sin𝐖(\alpha𝐖)𝐖=\frac{1}{3}𝐖.
-\alpha𝐖𝐖=\arcsin𝐖(\frac{1}{3}),𝐖
-\alpha𝐖𝐖.
-\alpha𝐖
-\alpha𝐖𝐖\approx𝐖0.3398
+3 .
+\alpha
+\alpha,
+\sin (\alpha) =\frac{1}{3} .
+\alpha =\arcsin (\frac{1}{3}),
+\alpha .
+\alpha
+\alpha \approx 0.3398
 x
-x^2𝐖𝐖+1^2𝐖𝐖=3^2𝐖,𝐖
-x^2𝐖𝐖=8
-x𝐖=\sqrt{8}𝐖\approx𝐖2.8284𝐖.
-\beta𝐖,𝐖
-\alpha𝐖𝐖+\beta𝐖𝐖=\frac{\pi𝐖}{2},𝐖
-\beta𝐖𝐖=\frac{\pi𝐖}{2}𝐖-\arcsin𝐖(\frac{1}{3})𝐖\approx𝐖1.2310𝐖.
+x^2 +1^2 =3^2,
+x^2 =8
+x =\sqrt{8} \approx 2.8284 .
+\beta,
+\alpha +\beta =\frac{\pi}{2},
+\beta =\frac{\pi}{2} -\arcsin (\frac{1}{3}) \approx 1.2310 .
 11
-13𝐖.
-\alpha𝐖
+13 .
+\alpha
 x
-\cos𝐖(\alpha𝐖)𝐖=𝐖-\frac{1}{2}
-\alpha𝐖
-\alpha𝐖
-\sin𝐖(\alpha𝐖)𝐖?
-\beta𝐖
-\sin𝐖(\beta𝐖)𝐖=0.1
-\beta𝐖
-\beta𝐖
-\cos𝐖(\beta𝐖)𝐖?
+\cos (\alpha) = -\frac{1}{2}
+\alpha
+\alpha
+\sin (\alpha) ?
+\beta
+\sin (\beta) =0.1
+\beta
+\beta
+\cos (\beta) ?
 7
 12
-\frac{7}{12}𝐖.
+\frac{7}{12} .
 90
 10
 4000
-\theta𝐖
+\theta
 3000
 3000
-h𝐖.
-\theta𝐖
-h,𝐖
-\theta𝐖
-[3000,𝐖3500],𝐖
-[5000,𝐖5500],𝐖
-[7000,𝐖7500]𝐖.
+h .
+\theta
+h,
+\theta
+[3000, 3500],
+[5000, 5500],
+[7000, 7500] .
 opp
 adj
-\tan𝐖(\theta𝐖)𝐖=\frac{opp}{adj},𝐖
-\theta𝐖𝐖=\arctan𝐖(\frac{opp}{adj})𝐖.
+\tan (\theta) =\frac{opp}{adj},
+\theta =\arctan (\frac{opp}{adj}) .
 16
-\arccos𝐖(\frac{1}{2})𝐖=\frac{\pi𝐖}{3}
-\arccos𝐖(\frac{1}{3}),𝐖
-\arccos𝐖(\frac{1}{3})
-\frac{1}{3}𝐖.
-\cos𝐖(\phi𝐖)𝐖=0.7087
-3\pi𝐖/2𝐖\le𝐖\phi𝐖𝐖\le𝐖2\pi𝐖,𝐖
-\sin𝐖(\phi𝐖)
-\tan𝐖(\phi𝐖)
-\sin𝐖\theta𝐖𝐖=\frac{x}{7}
-\theta𝐖
-\cos𝐖(\theta𝐖)
-\tan𝐖(\theta𝐖)
-x𝐖.
-\cos𝐖(\theta𝐖)
-\tan𝐖(\theta𝐖)
-\cos𝐖(x)𝐖=0.7
-0𝐖\le𝐖x𝐖\le𝐖4\pi𝐖𝐖.
-x𝐖=
+\arccos (\frac{1}{2}) =\frac{\pi}{3}
+\arccos (\frac{1}{3}),
+\arccos (\frac{1}{3})
+\frac{1}{3} .
+\cos (\phi) =0.7087
+3\pi /2 \le \phi \le 2\pi,
+\sin (\phi)
+\tan (\phi)
+\sin \theta =\frac{x}{7}
+\theta
+\cos (\theta)
+\tan (\theta)
+x .
+\cos (\theta)
+\tan (\theta)
+\cos (x) =0.7
+0 \le x \le 4\pi .
+x =
 2000
 7500
 6000
@@ -1483,134 +1483,134 @@ x𝐖=
 850
 200
 275
-\theta𝐖
+\theta
 h
-\theta𝐖
-h𝐖.
-AV_{[200,𝐖275]}𝐖
-\theta𝐖
+\theta
+h .
+AV_{[200, 275]}
+\theta
 h
 5
 12
-\alpha𝐖
-\beta𝐖
-\cos𝐖(\alpha𝐖)𝐖?
-\sin𝐖(\beta𝐖)𝐖?
-\tan𝐖(\beta𝐖)𝐖?
-\tan𝐖(\alpha𝐖)𝐖?
-\alpha𝐖𝐖?
-\beta𝐖𝐖?
-\theta𝐖
-\gamma𝐖
-\theta𝐖𝐖+\gamma𝐖𝐖=\frac{\pi𝐖}{2}
-\cos𝐖(\theta𝐖)𝐖=\sin𝐖(\gamma𝐖)𝐖.
-f(t)𝐖=ab^t𝐖
+\alpha
+\beta
+\cos (\alpha) ?
+\sin (\beta) ?
+\tan (\beta) ?
+\tan (\alpha) ?
+\alpha ?
+\beta ?
+\theta
+\gamma
+\theta +\gamma =\frac{\pi}{2}
+\cos (\theta) =\sin (\gamma) .
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t
 y
-x,𝐖
+x,
 x
-y𝐖?
-F𝐖=g(C)𝐖=\frac{9}{5}C𝐖+32
-F𝐖=\frac{9}{5}C𝐖+32
+y ?
+F =g(C) =\frac{9}{5}C +32
+F =\frac{9}{5}C +32
 C
 F
-C𝐖=\frac{5}{9}(F𝐖-32)𝐖.
-C𝐖=\frac{5}{9}(F𝐖-32)
+C =\frac{5}{9}(F -32) .
+C =\frac{5}{9}(F -32)
 C
-F𝐖.
+F .
 h
-C𝐖=h(F)𝐖=\frac{5}{9}(F𝐖-32)𝐖.
-j(C)𝐖=h(g(C))𝐖.
-k(F)𝐖=g(h(F))𝐖.
+C =h(F) =\frac{5}{9}(F -32) .
+j(C) =h(g(C)) .
+k(F) =g(h(F)) .
 j
 k
 g
 h
-F𝐖=g(C)𝐖=\frac{9}{5}C𝐖+32,𝐖
+F =g(C) =\frac{9}{5}C +32,
 C
 F
-C𝐖=h(F)𝐖=\frac{5}{9}(F𝐖-32)𝐖.
-g,𝐖
-h,𝐖
+C =h(F) =\frac{5}{9}(F -32) .
+g,
+h,
 h
-g,𝐖
+g,
 g
-h𝐖.
-h(g(C))𝐖=C
-g(h(F))𝐖=F𝐖.
-C,𝐖
-h(g(C))𝐖=C𝐖.
-f𝐖\colon𝐖A𝐖\to𝐖B
-g𝐖\colon𝐖B𝐖\to𝐖A
-g(f(a))𝐖=a\~and\~f(g(b))𝐖=b
+h .
+h(g(C)) =C
+g(h(F)) =F .
+C,
+h(g(C)) =C .
+f \colon A \to B
+g \colon B \to A
+g(f(a)) =a\~and\~f(g(b)) =b
 a
 A
 b
-B,𝐖
+B,
 f
 g
 f
-g(f(a))𝐖=a
+g(f(a)) =a
 a
-f,𝐖
+f,
 g
 f
 a
 f(a)
 g
 f(a)
-a𝐖.
+a .
 f
-g,𝐖
+g,
 g
-f^{𝐖-1}𝐖,𝐖
+f^{ -1},
 f
-g(f(a))𝐖=a
-f^{𝐖-1}𝐖(f(a))𝐖=a,𝐖
+g(f(a)) =a
+f^{ -1} (f(a)) =a,
 f
 f(a)
 a
-f(f^{𝐖-1}𝐖(b))𝐖=b𝐖.
-F𝐖=D(N)𝐖=40𝐖+\frac{1}{4}N
-N,𝐖
+f(f^{ -1} (b)) =b .
+F =D(N) =40 +\frac{1}{4}N
+N,
 D
-[40,𝐖180]
+[40, 180]
 D
-[50,𝐖85],𝐖
-F𝐖=40𝐖+\frac{1}{4}N
+[50, 85],
+F =40 +\frac{1}{4}N
 N
-F𝐖.
-N𝐖=E(F)𝐖.
-N𝐖=E(F)𝐖.
+F .
+N =E(F) .
+N =E(F) .
 E
-j(N)𝐖=E(D(N))𝐖.
-k(F)𝐖=D(E(F))𝐖.
+j(N) =E(D(N)) .
+k(F) =D(E(F)) .
 j
-k𝐖?
-F𝐖=40𝐖+\frac{1}{4}N
-N𝐖=4(F𝐖-40)𝐖.
+k ?
+F =40 +\frac{1}{4}N
+N =4(F -40) .
 F
-N,𝐖
-y𝐖=f(t)𝐖=2t𝐖+1,𝐖
-g(f(t))𝐖=g(2t𝐖+1)𝐖=\frac{(2t𝐖+1)𝐖-1}{2}𝐖=\frac{2t}{2}𝐖=t𝐖.
-f(g(y))𝐖=f(\frac{y𝐖-1}{2})𝐖=2(\frac{y𝐖-1}{2})𝐖+1𝐖=y𝐖-1𝐖+1𝐖=y𝐖.
-t𝐖=g(y)𝐖=\frac{y𝐖-1}{2}
+N,
+y =f(t) =2t +1,
+g(f(t)) =g(2t +1) =\frac{(2t +1) -1}{2} =\frac{2t}{2} =t .
+f(g(y)) =f(\frac{y -1}{2}) =2(\frac{y -1}{2}) +1 =y -1 +1 =y .
+t =g(y) =\frac{y -1}{2}
 f
-g𝐖=f^{𝐖-1}𝐖𝐖.
-y𝐖=f(t)𝐖=2t𝐖+1\~and\~t𝐖=f^{𝐖-1}𝐖(y)𝐖=\frac{y𝐖-1}{2}
+g =f^{ -1} .
+y =f(t) =2t +1\~and\~t =f^{ -1} (y) =\frac{y -1}{2}
 y
-t,𝐖
+t,
 t
-y𝐖.
-y𝐖=f(t)
-y𝐖=f(t)\~and\~t𝐖=f^{𝐖-1}𝐖(y)
-\ldots𝐖𝐖.
+y .
+y =f(t)
+y =f(t)\~and\~t =f^{ -1} (y)
+\ldots .
 f
 g
 x
@@ -1625,7 +1625,7 @@ f(x)
 3
 4
 6
-f𝐖.
+f .
 x
 0
 1
@@ -1638,253 +1638,253 @@ g(x)
 4
 2
 0
-g𝐖.
+g .
 f
-g,𝐖
+g,
 f
-f(0)𝐖=6
-f(4)𝐖=6𝐖.
+f(0) =6
+f(4) =6 .
 6
 0
-4𝐖.
+4 .
 g
-3,𝐖
-1,𝐖
-4,𝐖
-2,𝐖
+3,
+1,
+4,
+2,
 0
-0,𝐖
-1,𝐖
-2,𝐖
-3,𝐖
+0,
+1,
+2,
+3,
 4
-g^{𝐖-1}𝐖(4)𝐖=2,𝐖
-g(2)𝐖=4,𝐖
-f(0)𝐖=f(4)𝐖=6
+g^{ -1} (4) =2,
+g(2) =4,
+f(0) =f(4) =6
 p
 q
-p𝐖.
-p𝐖.
-(a,𝐖c)
-p,𝐖
-x𝐖=a,𝐖
-y𝐖=c
-p(a)𝐖=c𝐖.
+p .
+p .
+(a, c)
+p,
+x =a,
+y =c
+p(a) =c .
 p
 p
 p
 x
-y,𝐖
+y,
 c
 a
-b𝐖.
-y𝐖=c
+b .
+y =c
 p
-(a,𝐖c)
-(b,𝐖c)
+(a, c)
+(b, c)
 y
 x
 p
 q
 x
 y
-y,𝐖
+y,
 x
-y𝐖.
-y𝐖=c
+y .
+y =c
 y
-q,𝐖
-x𝐖=a
+q,
+x =a
 q
-y,𝐖
+y,
 x
-y𝐖.
+y .
 q
-q^{𝐖-1}𝐖(c)𝐖=a,𝐖
-q(a)𝐖=c𝐖.
+q^{ -1} (c) =a,
+q(a) =c .
 q
 x
 y
 r
 s
-y𝐖=r(t)𝐖=3𝐖-\frac{1}{5}(t𝐖-1)^3𝐖\~and\~y𝐖=s(t)𝐖=3𝐖-\frac{1}{5}(t𝐖-1)^2𝐖
-y𝐖=f(t),𝐖
+y =r(t) =3 -\frac{1}{5}(t -1)^3 \~and\~y =s(t) =3 -\frac{1}{5}(t -1)^2
+y =f(t),
 t
 y
-y𝐖=f(t)
+y =f(t)
 t
-y𝐖.
-y𝐖=3𝐖-\frac{1}{5}(t𝐖-1)^3𝐖,𝐖
+y .
+y =3 -\frac{1}{5}(t -1)^3,
 t
 3
-y𝐖-3𝐖=𝐖-\frac{1}{5}(t𝐖-1)^3𝐖𝐖.
-𝐖-5,𝐖
-(t𝐖-1)^3𝐖𝐖=𝐖-5(y𝐖-3)𝐖.
-\sqrt[3]{z^3𝐖}𝐖=z
+y -3 = -\frac{1}{5}(t -1)^3 .
+-5,
+(t -1)^3 = -5(y -3) .
+\sqrt[3]{z^3} =z
 z
-t𝐖-1𝐖=\sqrt[3]{𝐖-5(y𝐖-3)}𝐖.
+t -1 =\sqrt[3]{ -5(y -3)} .
 1
-t𝐖=1𝐖+\sqrt[3]{𝐖-5(y𝐖-3)}𝐖.
+t =1 +\sqrt[3]{ -5(y -3)} .
 t
 y
-y,𝐖
+y,
 r
-t𝐖=r^{𝐖-1}𝐖(y)𝐖=1𝐖+\sqrt[3]{𝐖-5(y𝐖-3)}𝐖.
-y𝐖=3𝐖-\frac{1}{5}(t𝐖-1)^2𝐖𝐖.
-t,𝐖
+t =r^{ -1} (y) =1 +\sqrt[3]{ -5(y -3)} .
+y =3 -\frac{1}{5}(t -1)^2 .
+t,
 3
-y𝐖-3𝐖=𝐖-\frac{1}{5}(t𝐖-1)^2𝐖𝐖.
-𝐖-5,𝐖
-(t𝐖-1)^2𝐖𝐖=𝐖-5(y𝐖-3)𝐖.
-t𝐖.
-g(x)𝐖=x^2𝐖
-(𝐖-5)^2𝐖𝐖=25𝐖=(5)^2𝐖
-t𝐖-1𝐖=\sqrt{𝐖-5(y𝐖-3)}\~or\~t𝐖-1𝐖=𝐖-\sqrt{𝐖-5(y𝐖-3)}𝐖.
+y -3 = -\frac{1}{5}(t -1)^2 .
+-5,
+(t -1)^2 = -5(y -3) .
+t .
+g(x) =x^2
+( -5)^2 =25 =(5)^2
+t -1 =\sqrt{ -5(y -3)}\~or\~t -1 = -\sqrt{ -5(y -3)} .
 t
-y,𝐖
-t𝐖=1𝐖+\sqrt{𝐖-5(y𝐖-3)}\~or\~t𝐖=1𝐖-\sqrt{𝐖-5(y𝐖-3)}𝐖.
+y,
+t =1 +\sqrt{ -5(y -3)}\~or\~t =1 -\sqrt{ -5(y -3)} .
 t
-y,𝐖
-y𝐖=s(t)𝐖=3𝐖-\frac{1}{5}(t𝐖-1)^2𝐖
-y𝐖=r(t)𝐖=3𝐖-\frac{1}{5}(t𝐖-1)^3𝐖
-y𝐖=s(t)𝐖=3𝐖-\frac{1}{5}(t𝐖-1)^2𝐖
+y,
+y =s(t) =3 -\frac{1}{5}(t -1)^2
+y =r(t) =3 -\frac{1}{5}(t -1)^3
+y =s(t) =3 -\frac{1}{5}(t -1)^2
 r
 r
 s
-y𝐖=2
+y =2
 s
-y𝐖=r(t)𝐖=3𝐖-\frac{1}{5}(t𝐖-1)^3𝐖𝐖.
-y𝐖=s(t)𝐖=3𝐖-\frac{1}{5}(t𝐖-1)^2𝐖𝐖.
-s^{𝐖-1}𝐖(3)𝐖=1
-f𝐖\colon𝐖S𝐖\to𝐖S
-S𝐖=\{0,𝐖1,𝐖2,𝐖3,𝐖4\}𝐖.
-y𝐖=f(x)𝐖.
+y =r(t) =3 -\frac{1}{5}(t -1)^3 .
+y =s(t) =3 -\frac{1}{5}(t -1)^2 .
+s^{ -1} (3) =1
+f \colon S \to S
+S =\{0, 1, 2, 3, 4\} .
+y =f(x) .
 x
 f(x)
-g𝐖\colon𝐖S𝐖\to𝐖S
-S𝐖=\{0,𝐖1,𝐖2,𝐖3,𝐖4\}𝐖.
-y𝐖=g(x)𝐖.
+g \colon S \to S
+S =\{0, 1, 2, 3, 4\} .
+y =g(x) .
 x
 g(x)
 p
-p(t)𝐖=7𝐖-\frac{3}{5}t𝐖.
+p(t) =7 -\frac{3}{5}t .
 p
 q
-q(t)𝐖=7𝐖-\frac{3}{5}t^4𝐖𝐖.
+q(t) =7 -\frac{3}{5}t^4 .
 q
 r
 s
-y𝐖=r(t)𝐖.
-y𝐖=s(t)𝐖.
-f𝐖\colon𝐖A𝐖\to𝐖B
+y =r(t) .
+y =s(t) .
+f \colon A \to B
 A
 B
 f
-f^{𝐖-1}𝐖𝐖.
-f^{𝐖-1}𝐖𝐖\colon𝐖B𝐖\to𝐖A,𝐖
-f^{𝐖-1}𝐖
+f^{ -1} .
+f^{ -1} \colon B \to A,
+f^{ -1}
 B
-A𝐖.
+A .
 f
-f^{𝐖-1}𝐖
-f^{𝐖-1}𝐖(f(a))𝐖=a
+f^{ -1}
+f^{ -1} (f(a)) =a
 a
-f,𝐖
-f(f^{𝐖-1}𝐖(b))𝐖=b
+f,
+f(f^{ -1} (b)) =b
 b
-f^{𝐖-1}𝐖𝐖.
-y𝐖=f(t),𝐖
-t𝐖=f^{𝐖-1}𝐖(y)𝐖.
+f^{ -1} .
+y =f(t),
+t =f^{ -1} (y) .
 A
 B
-(x,𝐖y)
-f,𝐖
-y𝐖=f(x)𝐖.
-x𝐖=f^{𝐖-1}𝐖(y)𝐖.
-(y,𝐖x)
-x𝐖=f^{𝐖-1}𝐖(y)𝐖.
+(x, y)
+f,
+y =f(x) .
+x =f^{ -1} (y) .
+(y, x)
+x =f^{ -1} (y) .
 f
-f^{𝐖-1}𝐖
+f^{ -1}
 x
 y
-f,𝐖
-f(𝐖-1)𝐖=\frac{1}{2},𝐖
-f^{𝐖-1}𝐖(\frac{1}{2})𝐖=𝐖-1𝐖.
-(𝐖-1,𝐖\frac{1}{2})
-(\frac{1}{2},𝐖𝐖-1)
-y𝐖=x𝐖.
-(x,𝐖y)
-f,𝐖
+f,
+f( -1) =\frac{1}{2},
+f^{ -1} (\frac{1}{2}) = -1 .
+( -1, \frac{1}{2})
+(\frac{1}{2}, -1)
+y =x .
+(x, y)
+f,
 f
-f^{𝐖-1}𝐖
-y𝐖=x,𝐖
+f^{ -1}
+y =x,
 f
-f^{𝐖-1}𝐖𝐖.
+f^{ -1} .
 10
 g
-R,𝐖
-t𝐖=0
-t𝐖=10𝐖\colon𝐖
-R𝐖=g(t)𝐖=\frac{4}{t𝐖+2}𝐖+1𝐖.
+R,
+t =0
+t =10 \colon
+R =g(t) =\frac{4}{t +2} +1 .
 g(3)
 g
-[3,𝐖5]
-y𝐖=g(t)
-[0,𝐖10],𝐖
-g𝐖?
+[3, 5]
+y =g(t)
+[0, 10],
+g ?
 g
-g^{𝐖-1}𝐖(\frac{9}{5})
-g,𝐖
+g^{ -1} (\frac{9}{5})
+g,
 1
-f𝐖\colon𝐖A𝐖\to𝐖B
-g𝐖\colon𝐖B𝐖\to𝐖A
-f𝐖.
+f \colon A \to B
+g \colon B \to A
+f .
 g
-g(f(a))𝐖=a
+g(f(a)) =a
 a
-f,𝐖
-f(g(b))𝐖=b
+f,
+f(g(b)) =b
 b
-f𝐖.
+f .
 f
 f
-f,𝐖
+f,
 f
-f,𝐖
-y𝐖=f(t),𝐖
+f,
+y =f(t),
 f
 t
-t𝐖=f^{𝐖-1}𝐖(y)𝐖.
-P𝐖=f(t)
-t𝐖.
-f^{𝐖-1}𝐖𝐖?
-t
-P
-P
+t =f^{ -1} (y) .
+P =f(t)
+t .
+f^{ -1} ?
 t
 P
-N𝐖=f(t)
+P
 t
-f^{𝐖-1}𝐖𝐖?
+P
+N =f(t)
+t
+f^{ -1} ?
 N
 N
 t
 t
 x
-C𝐖=g(x)𝐖=560𝐖+40x𝐖.
-g^{𝐖-1}𝐖(C)𝐖.
-g^{𝐖-1}𝐖(C)𝐖=
-s𝐖.
-P𝐖=f(s)𝐖=
-f(4)𝐖=
-f(4)𝐖?
+C =g(x) =560 +40x .
+g^{ -1} (C) .
+g^{ -1} (C) =
+s .
+P =f(s) =
+f(4) =
+f(4) ?
 P
-f^{𝐖-1}𝐖(32)𝐖=
-f^{𝐖-1}𝐖(32)𝐖?
-f^{𝐖-1}𝐖(P)𝐖=
-V𝐖=f(t)
+f^{ -1} (32) =
+f^{ -1} (32) ?
+f^{ -1} (P) =
+V =f(t)
 t
-f^{𝐖-1}𝐖
+f^{ -1}
 V
 V
 V
@@ -1892,167 +1892,167 @@ t
 G(t)
 t
 G
-G^{𝐖-1}𝐖(9873)
+G^{ -1} (9873)
 G(11)
 p
 q
 p
-q𝐖.
-p^{𝐖-1}𝐖(2.5),𝐖
-p^{𝐖-1}𝐖(𝐖-2),𝐖
-p^{𝐖-1}𝐖(0),𝐖
-q^{𝐖-1}𝐖(2)𝐖.
-(2.5,𝐖𝐖-3.5)
-p^{𝐖-1}𝐖𝐖.
-(a),𝐖
-p^{𝐖-1}𝐖𝐖.
+q .
+p^{ -1} (2.5),
+p^{ -1} ( -2),
+p^{ -1} (0),
+q^{ -1} (2) .
+(2.5, -3.5)
+p^{ -1} .
+(a),
+p^{ -1} .
 6
-y𝐖=p^{𝐖-1}𝐖(x)𝐖.
-y𝐖=p^{𝐖-1}𝐖(x)𝐖.
+y =p^{ -1} (x) .
+y =p^{ -1} (x) .
 p
-p^{𝐖-1}𝐖
+p^{ -1}
 2
 4
 0.25
-V𝐖=g(t)𝐖.
-h,𝐖
+V =g(t) .
+h,
 t
-h𝐖=f(t)𝐖=0.25t𝐖.
+h =f(t) =0.25t .
 2.5
-V,𝐖
+V,
 t
-V𝐖=g(t)𝐖.
+V =g(t) .
 g
 r
 h
-V𝐖=\frac{\pi𝐖}{3}r^2𝐖h𝐖.
+V =\frac{\pi}{3}r^2 h .
 r
 h
-r𝐖=\frac{1}{2}h,𝐖
-(1.7.1)𝐖&𝐖V𝐖=\frac{\pi𝐖}{3}(\frac{1}{2}h)^2𝐖h𝐖=\frac{\pi𝐖}{12}h^3𝐖𝐖.
-h𝐖=f(t)𝐖=0.25t
-V𝐖=g(t)𝐖.
-V𝐖=g(t)
-V𝐖=g(t)
-V𝐖=g(t)
+r =\frac{1}{2}h,
+(1.7.1) & V =\frac{\pi}{3}(\frac{1}{2}h)^2 h =\frac{\pi}{12}h^3 .
+h =f(t) =0.25t
+V =g(t) .
+V =g(t)
+V =g(t)
+V =g(t)
 t
-t𝐖=g^{𝐖-1}𝐖(V)𝐖.
-\frac{8}{3}\pi𝐖
-(1.7.2)𝐖&𝐖C𝐖=H(N)𝐖=\frac{40}{9}𝐖+\frac{5}{36}N𝐖.
-H𝐖?
+t =g^{ -1} (V) .
+\frac{8}{3}\pi
+(1.7.2) & C =H(N) =\frac{40}{9} +\frac{5}{36}N .
+H ?
 H
-N𝐖=H^{𝐖-1}𝐖(C)𝐖.
-72𝐖=H^{𝐖-1}𝐖(\frac{130}{9})𝐖?
+N =H^{ -1} (C) .
+72 =H^{ -1} (\frac{130}{9}) ?
 H
-[40,𝐖50]𝐖.
-H^{𝐖-1}𝐖
-[15,𝐖20]𝐖.
-f(t)𝐖=ab^t𝐖
+[40, 50] .
+H^{ -1}
+[15, 20] .
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t
 1
-(0,𝐖0)𝐖.
-(x,𝐖y)
-|𝐖x|
-|𝐖y|,𝐖
-x^2𝐖𝐖+y^2𝐖𝐖=1,𝐖
-(x,𝐖y)
-x^2𝐖𝐖+y^2𝐖𝐖=1𝐖.
-(1,𝐖0)
-t_0𝐖
+(0, 0) .
+(x, y)
+| x|
+| y|,
+x^2 +y^2 =1,
+(x, y)
+x^2 +y^2 =1 .
+(1, 0)
+t_0
 1/24
-C𝐖=2\pi𝐖r𝐖=2\pi𝐖,𝐖
-t_0𝐖
-t_1𝐖
-d𝐖=\frac{1}{24}𝐖\cdot𝐖2\pi𝐖𝐖=\frac{\pi𝐖}{12}𝐖.
-\pi𝐖
-2\pi𝐖,𝐖
-\frac{1}{24}𝐖\cdot𝐖2\pi𝐖𝐖=\frac{\pi𝐖}{12}
-(1,𝐖0)
-t𝐖=\frac{\pi𝐖}{12}
-t𝐖=2𝐖\cdot𝐖\frac{\pi𝐖}{12}𝐖=\frac{\pi𝐖}{6}
-(1,𝐖0)𝐖.
+C =2\pi r =2\pi,
+t_0
+t_1
+d =\frac{1}{24} \cdot 2\pi =\frac{\pi}{12} .
+\pi
+2\pi,
+\frac{1}{24} \cdot 2\pi =\frac{\pi}{12}
+(1, 0)
+t =\frac{\pi}{12}
+t =2 \cdot \frac{\pi}{12} =\frac{\pi}{6}
+(1, 0) .
 24
-(1,𝐖0);𝐖
+(1, 0);
 \frac{1}{4}
 \frac{5}{8}
-(0,𝐖0)
+(0, 0)
 1
 1
 1
-\theta𝐖
+\theta
 1
-\alpha𝐖
-\beta𝐖
-\alpha𝐖𝐖=\frac{\pi𝐖}{3}
-\beta𝐖𝐖=\frac{3\pi𝐖}{4}𝐖.
-\alpha𝐖
-\beta𝐖
-(0,𝐖0)
+\alpha
+\beta
+\alpha =\frac{\pi}{3}
+\beta =\frac{3\pi}{4} .
+\alpha
+\beta
+(0, 0)
 x
-\alpha𝐖
-\beta𝐖
+\alpha
+\beta
 90\circ
 1
 1
 1
 1
-2\pi𝐖
-\frac{1}{4}𝐖\cdot𝐖2\pi𝐖𝐖=\frac{\pi𝐖}{2}
+2\pi
+\frac{1}{4} \cdot 2\pi =\frac{\pi}{2}
 \frac{1}{4}
 \frac{1}{4}
-90\circ𝐖.
-\pi𝐖
-180\circ;𝐖
+90\circ .
+\pi
+180\circ;
 1
-\frac{180}{\pi𝐖}\circ𝐖.
+\frac{180}{\pi}\circ .
 1\circ
-\frac{\pi𝐖}{180}𝐖.
+\frac{\pi}{180} .
 30\circ
-\frac{2\pi𝐖}{3}
-\frac{5\pi𝐖}{4}
+\frac{2\pi}{3}
+\frac{5\pi}{4}
 240\circ
 17\circ
 2
 24
-(1,𝐖0)𝐖.
+(1, 0) .
 x
 x
 45\circ
@@ -2068,9 +2068,9 @@ x
 90\circ
 x
 y
-1,𝐖
+1,
 x
-y𝐖?
+y ?
 30\circ
 60\circ
 90\circ
@@ -2079,7 +2079,7 @@ x
 x
 x
 x
-y𝐖?
+y ?
 30\circ
 60\circ
 90\circ
@@ -2089,170 +2089,170 @@ x
 x
 y
 30\circ
-\frac{\pi𝐖}{6}
+\frac{\pi}{6}
 45\circ
-\frac{\pi𝐖}{4}
+\frac{\pi}{4}
 60\circ
-\frac{\pi𝐖}{3}
-\frac{\pi𝐖}{6}
-\frac{\pi𝐖}{4}
-\frac{\pi𝐖}{3}
+\frac{\pi}{3}
+\frac{\pi}{6}
+\frac{\pi}{4}
+\frac{\pi}{3}
 12
 9
 16
-0,𝐖
-\frac{\pi𝐖}{2},𝐖
-\pi𝐖,𝐖
-\frac{3\pi𝐖}{2}
+0,
+\frac{\pi}{2},
+\pi,
+\frac{3\pi}{2}
 0
-𝐖\pm𝐖1
-(x,𝐖y)
-x^2𝐖𝐖+y^2𝐖𝐖=1,𝐖
+\pm 1
+(x, y)
+x^2 +y^2 =1,
 x
 y
-7,𝐖
-7,𝐖
-\theta𝐖𝐖=\frac{2\pi𝐖}{3}
-(𝐖-\frac{7}{2},𝐖\frac{7\sqrt{3}}{2})𝐖.
-(0,𝐖0)
-(𝐖-\frac{7}{2},𝐖\frac{7\sqrt{3}}{2})
-7𝐖\cdot𝐖\frac{2\pi𝐖}{3},𝐖
-\frac{2\pi𝐖}{3}𝐖.
+7,
+7,
+\theta =\frac{2\pi}{3}
+( -\frac{7}{2}, \frac{7\sqrt{3}}{2}) .
+(0, 0)
+( -\frac{7}{2}, \frac{7\sqrt{3}}{2})
+7 \cdot \frac{2\pi}{3},
+\frac{2\pi}{3} .
 r
-\theta𝐖
-s,𝐖
+\theta
+s,
 r
-\theta𝐖
+\theta
 s
-r,𝐖
-s𝐖=r\theta𝐖𝐖.
-r𝐖=1,𝐖
-s𝐖=r\theta𝐖
+r,
+s =r\theta .
+r =1,
+s =r\theta
 1
-11,𝐖
-\frac{5\pi𝐖}{3}𝐖.
-3,𝐖
-\frac{\pi𝐖}{4}𝐖.
-\frac{7\pi𝐖}{6}
-\frac{\pi𝐖}{2}𝐖.
+11,
+\frac{5\pi}{3} .
+3,
+\frac{\pi}{4} .
+\frac{7\pi}{6}
+\frac{\pi}{2} .
 5
-\frac{25\pi𝐖}{6}
-(5,𝐖0)𝐖.
+\frac{25\pi}{6}
+(5, 0) .
 1
-(1,𝐖0)
-30\circ,𝐖
-45\circ,𝐖
-60\circ,𝐖
+(1, 0)
+30\circ,
+45\circ,
+60\circ,
 30\circ
-30\circ,𝐖
-60\circ,𝐖
-90\circ,𝐖
-120\circ,𝐖
-45\circ,𝐖
-45\circ,𝐖
-90\circ,𝐖
-135\circ,𝐖
-\frac{\pi𝐖}{6},𝐖
-\frac{\pi𝐖}{4},𝐖
-\frac{\pi𝐖}{3},𝐖
-\frac{\pi𝐖}{2},𝐖
-\frac{2\pi𝐖}{3},𝐖
-\frac{3\pi𝐖}{4},𝐖
+30\circ,
+60\circ,
+90\circ,
+120\circ,
+45\circ,
+45\circ,
+90\circ,
+135\circ,
+\frac{\pi}{6},
+\frac{\pi}{4},
+\frac{\pi}{3},
+\frac{\pi}{2},
+\frac{2\pi}{3},
+\frac{3\pi}{4},
 45\circ
 45\circ
 90\circ
 30\circ
 60\circ
 90\circ
-r,𝐖
-\theta𝐖
-s,𝐖
-s𝐖=r\theta𝐖𝐖.
-s,𝐖
-r,𝐖
+r,
+\theta
+s,
+s =r\theta .
+s,
+r,
 t
-P(0,𝐖1),𝐖
-t𝐖=
-P(𝐖-\frac{\sqrt{2}}{2},𝐖\frac{\sqrt{2}}{2}),𝐖
-t𝐖=
-P(𝐖-1,𝐖0),𝐖
-t𝐖=
-P(𝐖-\frac{\sqrt{2}}{2},𝐖𝐖-\frac{\sqrt{2}}{2}),𝐖
-t𝐖=
-P(0,𝐖𝐖-1),𝐖
-t𝐖=
-P(\frac{\sqrt{2}}{2},𝐖𝐖-\frac{\sqrt{2}}{2}),𝐖
-t𝐖=
+P(0, 1),
+t =
+P( -\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2}),
+t =
+P( -1, 0),
+t =
+P( -\frac{\sqrt{2}}{2}, -\frac{\sqrt{2}}{2}),
+t =
+P(0, -1),
+t =
+P(\frac{\sqrt{2}}{2}, -\frac{\sqrt{2}}{2}),
+t =
 45\circ
-\pi𝐖𝐖?
+\pi ?
 45\circ
 22\circ
-\pi𝐖𝐖?
+\pi ?
 22\circ
 6
-90\circ𝐖.
-\frac{5\pi𝐖}{6}
-(x,𝐖y)
-x𝐖=𝐖-0.3
+90\circ .
+\frac{5\pi}{6}
+(x, y)
+x = -0.3
 y
-y𝐖.
-(x,𝐖y)
-x𝐖=𝐖-2y𝐖.
+y .
+(x, y)
+x = -2y .
 x
-y𝐖.
-(x,𝐖y)
-\frac{29\pi𝐖}{6}
-(1,𝐖0)𝐖.
+y .
+(x, y)
+\frac{29\pi}{6}
+(1, 0) .
 x
-y𝐖.
-y𝐖=\frac{1}{2}x𝐖+\frac{1}{2}
-(0,𝐖0)
-r𝐖=1,𝐖
-(x,𝐖y)
-x^2𝐖𝐖+y^2𝐖𝐖=1𝐖.
-(x,𝐖y)
+y .
+y =\frac{1}{2}x +\frac{1}{2}
+(0, 0)
+r =1,
+(x, y)
+x^2 +y^2 =1 .
+(x, y)
 r
-(h,𝐖k)
-(x𝐖-h)^2𝐖𝐖+(y𝐖-k)^2𝐖𝐖=r^2𝐖𝐖.
-(𝐖-3,𝐖5)
-r𝐖=2𝐖.
+(h, k)
+(x -h)^2 +(y -k)^2 =r^2 .
+( -3, 5)
+r =2 .
 5
 4
 7
-\frac{2\pi𝐖}{3}
-(x𝐖-1)^2𝐖𝐖+(y𝐖-3)^2𝐖𝐖=16𝐖?
-(𝐖-2,𝐖𝐖-1)
-(4,𝐖2)
-(0,𝐖0)
-r𝐖=5𝐖.
-(x,𝐖y)
-(5,𝐖0),𝐖
-(5,𝐖0)
-d𝐖.
-(a,𝐖b)
-\theta𝐖
-(5,𝐖0),𝐖
-(0,𝐖0),𝐖
-(a,𝐖b)𝐖.
-\theta𝐖𝐖=\frac{\pi𝐖}{6},𝐖
+\frac{2\pi}{3}
+(x -1)^2 +(y -3)^2 =16 ?
+( -2, -1)
+(4, 2)
+(0, 0)
+r =5 .
+(x, y)
+(5, 0),
+(5, 0)
+d .
+(a, b)
+\theta
+(5, 0),
+(0, 0),
+(a, b) .
+\theta =\frac{\pi}{6},
 a
-b𝐖?
-\theta𝐖𝐖=\frac{\pi𝐖}{4}
-\theta𝐖𝐖=\frac{\pi𝐖}{3}𝐖.
-(x,𝐖y)
-h𝐖=f(d)
-(x,𝐖y)
-d,𝐖
-(5,𝐖0)𝐖.
+b ?
+\theta =\frac{\pi}{4}
+\theta =\frac{\pi}{3} .
+(x, y)
+h =f(d)
+(x, y)
+d,
+(5, 0) .
 f
-f(t)𝐖=ab^t𝐖
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t
 4
 2
 3
@@ -2267,7 +2267,7 @@ f(t)𝐖=b^t𝐖
 1
 t
 V
-t,𝐖
+t,
 t
 V
 0
@@ -2282,30 +2282,30 @@ V
 2.0
 5
 2.5
-(t,𝐖V)
+(t, V)
 t
-(0,𝐖0),𝐖
+(0, 0),
 V
-(0,𝐖0)𝐖.
-V,𝐖
-l,𝐖
-w,𝐖
+(0, 0) .
+V,
+l,
+w,
 h
-V𝐖=l𝐖\cdot𝐖w𝐖\cdot𝐖h,𝐖
-l𝐖=4
-w𝐖=2
-V𝐖=4𝐖\cdot𝐖2𝐖\cdot𝐖h𝐖=8h𝐖.
+V =l \cdot w \cdot h,
+l =4
+w =2
+V =4 \cdot 2 \cdot h =8h .
 V
 h
-V𝐖=8h,𝐖
+V =8h,
 h
 V
-h𝐖=\frac{1}{8}V𝐖.
+h =\frac{1}{8}V .
 2
 4
 0.75
-V,𝐖
-t,𝐖
+V,
+t,
 t
 V
 0
@@ -2314,23 +2314,23 @@ V
 3
 4
 5
-h,𝐖
+h,
 h
-t,𝐖
+t,
 h
 t
 r
 h
-V𝐖=\frac{1}{3}\pi𝐖r^2𝐖h𝐖.
+V =\frac{1}{3}\pi r^2 h .
 r
 h
 V
 2
 4
-\frac{r}{h}𝐖=\frac{2}{4}𝐖.
-r,𝐖
-r𝐖=\frac{1}{2}h;𝐖
-V𝐖=\frac{1}{3}\pi𝐖(\frac{1}{2}h)^2𝐖h𝐖=\frac{\pi𝐖}{12}h^3𝐖𝐖.
+\frac{r}{h} =\frac{2}{4} .
+r,
+r =\frac{1}{2}h;
+V =\frac{1}{3}\pi (\frac{1}{2}h)^2 h =\frac{\pi}{12}h^3 .
 V
 h
 0.75
@@ -2348,14 +2348,14 @@ V
 2.25
 3.0
 3.75
-V𝐖=\frac{\pi𝐖}{12}h^3𝐖,𝐖
-h,𝐖
-h^3𝐖𝐖=\frac{12}{\pi𝐖}V,𝐖
-(1.1.1)𝐖&𝐖h𝐖=\sqrt[3]{\frac{12}{\pi𝐖}V}𝐖.
-V𝐖=0.75,𝐖
-h𝐖=\sqrt[3]{\frac{12}{\pi𝐖}0.75}𝐖\approx𝐖1.42𝐖.
+V =\frac{\pi}{12}h^3,
+h,
+h^3 =\frac{12}{\pi}V,
+(1.1.1) & h =\sqrt[3]{\frac{12}{\pi}V} .
+V =0.75,
+h =\sqrt[3]{\frac{12}{\pi}0.75} \approx 1.42 .
 V
-h𝐖.
+h .
 t
 0
 1
@@ -2379,18 +2379,18 @@ h
 2.43
 V
 h
-t𝐖.
+t .
 V
-t𝐖.
+t .
 h
-t𝐖.
+t .
 3
 1.2
 r
-V𝐖=\frac{4}{3}\pi𝐖r^3𝐖𝐖.
-t𝐖=0
-V,𝐖
-t,𝐖
+V =\frac{4}{3}\pi r^3 .
+t =0
+V,
+t,
 t
 V
 0
@@ -2399,7 +2399,7 @@ V
 60
 80
 94.24
-t𝐖=0𝐖?
+t =0 ?
 h
 t
 3
@@ -2409,9 +2409,9 @@ t
 V
 t
 h
-t𝐖.
-V_{full}𝐖𝐖=\pi𝐖(20𝐖+\frac{38}{3}\sqrt{2})𝐖\approx𝐖119.11
-h_{full}𝐖𝐖=\sqrt{8}𝐖+5𝐖\approx𝐖7.83
+t .
+V_{full} =\pi (20 +\frac{38}{3}\sqrt{2}) \approx 119.11
+h_{full} =\sqrt{8} +5 \approx 7.83
 V
 t
 h
@@ -2421,7 +2421,7 @@ t
 V
 t
 h
-t𝐖.
+t .
 V
 h
 V
@@ -2429,159 +2429,159 @@ t
 h
 t
 0.25
-s,𝐖
+s,
 t
-s𝐖=500
+s =500
 500
-(4,𝐖6)
+(4, 6)
 4
 6000
-t𝐖=2
-t𝐖=10𝐖?
-t𝐖=0
-t𝐖=5
+t =2
+t =10 ?
+t =0
+t =5
 1000
-t𝐖=5,𝐖
+t =5,
 2
-t𝐖=7,𝐖
+t =7,
 800
 5
-t𝐖=0,𝐖5,𝐖7,𝐖12𝐖.
+t =0, 5, 7, 12 .
 s
 t
-f(t)𝐖=ab^t𝐖
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-a,𝐖
-k,𝐖
+f(t) =b^t
+a,
+k,
 c
-F(t)𝐖=c𝐖+ae^{𝐖-kt}𝐖
-f(t)𝐖=ab^t𝐖
-b𝐖>0
-b𝐖\not=𝐖1,𝐖
-g(t)𝐖=ab^t𝐖𝐖+c
+F(t) =c +ae^{ -kt}
+f(t) =ab^t
+b >0
+b \not= 1,
+g(t) =ab^t +c
 e
-(3.6.1)𝐖&𝐖g(t)𝐖=ae^{kt}𝐖𝐖+c
+(3.6.1) & g(t) =ae^{kt} +c
 k
-e^k𝐖𝐖=b𝐖.
+e^k =b .
 c
-c𝐖.
-a,𝐖
-k,𝐖
-c;𝐖
-\ln𝐖(b^k𝐖)𝐖=k\ln𝐖(b)𝐖.
-a^k𝐖𝐖=b
+c .
+a,
+k,
+c;
+\ln (b^k) =k\ln (b) .
+a^k =b
 k
 a
 b
 k
-\ln𝐖(a^k𝐖)𝐖=\ln𝐖(b),𝐖
-k\ln𝐖(a)𝐖=\ln𝐖(b),𝐖
-k𝐖=\frac{\ln𝐖(b)}{\ln𝐖(a)}𝐖.
+\ln (a^k) =\ln (b),
+k\ln (a) =\ln (b),
+k =\frac{\ln (b)}{\ln (a)} .
 k
 k
-F(t)𝐖=275𝐖-203e^{𝐖-kt}𝐖,𝐖
+F(t) =275 -203e^{ -kt},
 20
-F(20)𝐖=101𝐖.
-k𝐖.
-F(t)𝐖=a𝐖+37.4e^{𝐖-0.05t}𝐖,𝐖
-39.8\circ𝐖.
-e^{𝐖-0.05t}𝐖
-a𝐖.
-P(t)𝐖=\frac{A}{1𝐖+Me^{𝐖-kt}𝐖}𝐖.
-(3.6.2)𝐖&𝐖3𝐖=\frac{10}{1𝐖+x}𝐖.
-x𝐖.
-y𝐖=a𝐖+be^{𝐖-kt}𝐖𝐖.
+F(20) =101 .
+k .
+F(t) =a +37.4e^{ -0.05t},
+39.8\circ .
+e^{ -0.05t}
+a .
+P(t) =\frac{A}{1 +Me^{ -kt}} .
+(3.6.2) & 3 =\frac{10}{1 +x} .
+x .
+y =a +be^{ -kt} .
 t
-a,𝐖
-b,𝐖
-k,𝐖
-y𝐖.
-F(t)𝐖=ab^t𝐖𝐖+c𝐖.
-e,𝐖
-0𝐖\lt𝐖b𝐖\lt𝐖1
-(3.6.3)𝐖&𝐖F(t)𝐖=ae^{𝐖-kt}𝐖𝐖+c
-a,𝐖
-c,𝐖
-k,𝐖
-k𝐖>0𝐖.
-a,𝐖
-b,𝐖
+a,
+b,
+k,
+y .
+F(t) =ab^t +c .
+e,
+0 \lt b \lt 1
+(3.6.3) & F(t) =ae^{ -kt} +c
+a,
+c,
+k,
+k >0 .
+a,
+b,
 k
 F
-t𝐖=0,𝐖
-t,𝐖
+t =0,
+t,
 t
-e^{𝐖-kt}𝐖
+e^{ -kt}
 0
 t
-F(t)𝐖=ae^{𝐖-kt}𝐖𝐖+c
-a,𝐖
-c,𝐖
+F(t) =ae^{ -kt} +c
+a,
+c,
 k
-k𝐖>0𝐖.
-e^{𝐖-kt}𝐖
+k >0 .
+e^{ -kt}
 0
 t
 F(t)
 c
 t
 c
-e^0𝐖𝐖=1,𝐖
-F(0)𝐖=a𝐖+c,𝐖
-a𝐖+c𝐖.
+e^0 =1,
+F(0) =a +c,
+a +c .
 a
 a
-c,𝐖
+c,
 k
 F(t)
-t𝐖.
+t .
 72.3\circ
-t𝐖=0
-37.7\circ𝐖.
+t =0
+37.7\circ .
 30
-59.5\circ𝐖.
+59.5\circ .
 F(t)
 t
-a,𝐖
-c,𝐖
+a,
+c,
 k
-F(t)𝐖=ae^{𝐖-kt}𝐖𝐖+c𝐖.
-42.4\circ𝐖.
-a,𝐖
-c,𝐖
+F(t) =ae^{ -kt} +c .
+42.4\circ .
+a,
+c,
 k
-F𝐖.
+F .
 F
-[25,𝐖30]𝐖.
-F(0),𝐖
-F(0)𝐖=65,𝐖
+[25, 30] .
+F(0),
+F(0) =65,
 k
-P(t)𝐖=Ae^{kt}𝐖
+P(t) =Ae^{kt}
 A
 k
-k𝐖>0,𝐖
-e^{kt}𝐖
-P(t)𝐖=Ae^{kt}𝐖
-(3.6.4)𝐖&𝐖P(t)𝐖=\frac{A}{1𝐖+Me^{𝐖-kt}𝐖},𝐖
-A,𝐖
-M,𝐖
+k >0,
+e^{kt}
+P(t) =Ae^{kt}
+(3.6.4) & P(t) =\frac{A}{1 +Me^{ -kt}},
+A,
+M,
 k
-k𝐖>0,𝐖
-e^{𝐖-kt}𝐖𝐖\to𝐖0
+k >0,
+e^{ -kt} \to 0
 t
 P
 1
@@ -2589,79 +2589,79 @@ P(t)
 A
 t
 A
-P(t)𝐖=\frac{A}{1𝐖+Me^{𝐖-kt}𝐖}
-A,𝐖
-M,𝐖
-k𝐖.
-0.01𝐖\le𝐖A𝐖\le𝐖10;𝐖
-0.01𝐖\le𝐖M𝐖\le𝐖10;𝐖
-0.01𝐖\le𝐖k𝐖\le𝐖5.
+P(t) =\frac{A}{1 +Me^{ -kt}}
+A,
+M,
+k .
+0.01 \le A \le 10;
+0.01 \le M \le 10;
+0.01 \le k \le 5.
 P(t)
-A,𝐖
-M,𝐖
+A,
+M,
 k
-P𝐖.
-P𝐖.
-A𝐖?
-1𝐖+Me^{𝐖-kt}𝐖
+P .
+P .
+A ?
+1 +Me^{ -kt}
 t
 P
-P(0)𝐖=2,𝐖
-P(2)𝐖=4,𝐖
+P(0) =2,
+P(2) =4,
 P(t)
 9
 t
-A,𝐖
-M,𝐖
+A,
+M,
 k
 P
 t
-P(0)𝐖=2.45,𝐖
-P(3)𝐖=4.52,𝐖
+P(0) =2.45,
+P(3) =4.52,
 t
 P(t)
-11.7𝐖.
-A,𝐖
-M,𝐖
+11.7 .
+A,
+M,
 k
-P(t)𝐖=\frac{A}{1𝐖+Me^{𝐖-kt}𝐖}𝐖.
+P(t) =\frac{A}{1 +Me^{ -kt}} .
 P
-[0,𝐖2],𝐖
-[2,𝐖4],𝐖
-[4,𝐖6],𝐖
-[6,𝐖8]𝐖.
+[0, 2],
+[2, 4],
+[4, 6],
+[6, 8] .
 10
-F(t)𝐖=c𝐖+ae^{𝐖-kt}𝐖
+F(t) =c +ae^{ -kt}
 c
-e^{𝐖-kt}𝐖𝐖\to𝐖0
-a𝐖+c,𝐖
+e^{ -kt} \to 0
+a +c,
 k
 a
 c
 k
-t𝐖.
-P(t)𝐖=Ae^{kt}𝐖
+t .
+P(t) =Ae^{kt}
 t
-P(t)𝐖=\frac{A}{1𝐖+Me^{𝐖-kt}𝐖}
+P(t) =\frac{A}{1 +Me^{ -kt}}
 P
-A𝐖.
+A .
 210
 1.5
 195
 78
 155
 155
-t,𝐖
-k𝐖=1.8𝐖.
-P𝐖=
-N(t)𝐖\colon𝐖
-N(t)𝐖=\frac{L}{1𝐖+Ab^{𝐖-kt}𝐖}𝐖.
+t,
+k =1.8 .
+P =
+N(t) \colon
+N(t) =\frac{L}{1 +Ab^{ -kt}} .
 A
 A
-k𝐖=0.18𝐖.
-A𝐖.
+k =0.18 .
+A .
 t
-N(t)𝐖=
+N(t) =
 71\circ
 t
 t
@@ -2671,132 +2671,132 @@ F(t)
 34.2
 41.7
 F
-e^t𝐖,𝐖
-F(t)𝐖=c𝐖-ae^{𝐖-kt}𝐖,𝐖
-a,𝐖
-c,𝐖
+e^t,
+F(t) =c -ae^{ -kt},
+a,
+c,
 k
-a,𝐖
-c,𝐖
+a,
+c,
 k
-F(t)𝐖=c𝐖-ae^{𝐖-kt}𝐖𝐖.
-60\circ𝐖.
+F(t) =c -ae^{ -kt} .
+60\circ .
 5000
 S(t)
 t
-S,𝐖
-S(t)𝐖=\frac{A}{1𝐖+Me^{𝐖-kt}𝐖}
-A,𝐖
-M,𝐖
-k𝐖.
+S,
+S(t) =\frac{A}{1 +Me^{ -kt}}
+A,
+M,
+k .
 1
 20
-S(0)𝐖=5
-S(1)𝐖=20𝐖.
+S(0) =5
+S(1) =20 .
 5000
-A,𝐖
-M,𝐖
+A,
+M,
 k
 4000
 S
-[1,𝐖2],𝐖
-[3,𝐖4],𝐖
-[5,𝐖7]𝐖.
+[1, 2],
+[3, 4],
+[5, 7] .
 100
 t
-A(t),𝐖
-t𝐖=0
+A(t),
+t =0
 t
 A(t)
-A(t)𝐖=ae^{𝐖-kt}𝐖𝐖+c
-a,𝐖
-c,𝐖
-k𝐖.
-A(t)𝐖=𝐖-500e^{𝐖-0.25t}𝐖𝐖+750𝐖.
+A(t) =ae^{ -kt} +c
+a,
+c,
+k .
+A(t) = -500e^{ -0.25t} +750 .
 A(t)
 t
 500
-f(t)𝐖=ab^t𝐖
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-h(x)𝐖=f(g(x)),𝐖
+f(t) =b^t
+h(x) =f(g(x)),
 f
 g
-h𝐖?
-AV_{[a,𝐖a𝐖+h]}𝐖
+h ?
+AV_{[a, a +h]}
 y
 x
-y𝐖=f(x)𝐖=x^2𝐖𝐖-1
+y =f(x) =x^2 -1
 x
 t
-x𝐖=g(t)𝐖=3t𝐖-4𝐖.
+x =g(t) =3t -4 .
 y
-t𝐖?
+t ?
 y
 x
 x
-t,𝐖
+t,
 y
-t𝐖.
+t .
 f
 f
-1𝐖.
+1 .
 f
-f(\mdwhtsquare𝐖)𝐖=\mdwhtsquare𝐖^2𝐖𝐖-1𝐖.
-y𝐖=f(x)𝐖=x^2𝐖𝐖-1
-x𝐖=g(t)𝐖=3t𝐖-4,𝐖
+f(\mdwhtsquare) =\mdwhtsquare^2 -1 .
+y =f(x) =x^2 -1
+x =g(t) =3t -4,
 g(t)
 x
-f𝐖.
-y𝐖&𝐖\lt𝐖mi/>𝐖=f(x)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=f(g(t))𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=f(3t𝐖-4)𝐖.
+f .
+y & \lt mi/> =f(x) \\ \~ & \lt mi/> =f(g(t)) \\ \~ & \lt mi/> =f(3t -4) .
 f
-3t𝐖-4,𝐖
-y𝐖=(3t𝐖-4)^2𝐖𝐖-1,𝐖
+3t -4,
+y =(3t -4)^2 -1,
 y
-t𝐖.
-h(t)𝐖=f(g(t))
-h,𝐖
+t .
+h(t) =f(g(t))
+h,
 f
-g𝐖.
-y𝐖=p(x)𝐖=3x𝐖-4
-x𝐖=q(t)𝐖=t^2𝐖𝐖-1𝐖.
-r(t)𝐖=p(q(t))𝐖.
+g .
+y =p(x) =3x -4
+x =q(t) =t^2 -1 .
+r(t) =p(q(t)) .
 r
 t
 p
-q𝐖.
+q .
 p
-q𝐖.
-t𝐖=s(z)𝐖=\frac{1}{z𝐖+4}
-x𝐖=q(t)𝐖=t^2𝐖𝐖-1𝐖.
-x𝐖=q(s(z))
-z𝐖.
-h(t)𝐖=\sqrt{2t^2𝐖𝐖+5}𝐖.
-y𝐖=f(x)
-x𝐖=g(t),𝐖
-h(t)𝐖=f(g(t))𝐖.
-g𝐖\colon𝐖A𝐖\to𝐖B
-f𝐖\colon𝐖B𝐖\to𝐖C,𝐖
+q .
+t =s(z) =\frac{1}{z +4}
+x =q(t) =t^2 -1 .
+x =q(s(z))
+z .
+h(t) =\sqrt{2t^2 +5} .
+y =f(x)
+x =g(t),
+h(t) =f(g(t)) .
+g \colon A \to B
+f \colon B \to C,
 g
-f,𝐖
+f,
 f
-g𝐖.
-f
-g
-g𝐖\colon𝐖A𝐖\to𝐖B
-f𝐖\colon𝐖B𝐖\to𝐖C,𝐖
+g .
 f
 g
-h𝐖\colon𝐖A𝐖\to𝐖C
-h(t)𝐖=f(g(t))𝐖.
-h𝐖=f𝐖\circ𝐖g,𝐖
-f𝐖\circ𝐖g
-(f𝐖\circ𝐖g)(t)𝐖=f(g(t))𝐖.
+g \colon A \to B
+f \colon B \to C,
+f
+g
+h \colon A \to C
+h(t) =f(g(t)) .
+h =f \circ g,
+f \circ g
+(f \circ g)(t) =f(g(t)) .
 g
 f
 p
@@ -2807,144 +2807,144 @@ x
 f(x)
 g(x)
 f
-g𝐖.
+g .
 p
-q𝐖.
+q .
 p(q(0))
 q(p(0))
-(p𝐖\circ𝐖p)(𝐖-1)
-(f𝐖\circ𝐖g)(2)
-(g𝐖\circ𝐖f)(3)
+(p \circ p)( -1)
+(f \circ g)(2)
+(g \circ f)(3)
 g(f(0))
 x
-f(g(x))𝐖=4𝐖?
+f(g(x)) =4 ?
 x
-q(p(x))𝐖=1𝐖?
-T𝐖=D(N)𝐖=40𝐖+0.25N,𝐖
-T𝐖.
+q(p(x)) =1 ?
+T =D(N) =40 +0.25N,
+T .
 D
-[40,𝐖160]
-[50,𝐖85]𝐖.
+[40, 160]
+[50, 85] .
 T
 F
-C𝐖=G(F)𝐖=\frac{5}{9}(F𝐖-32)𝐖.
+C =G(F) =\frac{5}{9}(F -32) .
 32
-C𝐖=G(32)𝐖=0
-F𝐖=D(N)𝐖=40𝐖+0.25N
-C𝐖=G(F)𝐖=\frac{5}{9}(F𝐖-32)
-H𝐖=(G𝐖\circ𝐖D)
-N𝐖.
-H𝐖=(G𝐖\circ𝐖D)
-y𝐖=H(N)𝐖=(G𝐖\circ𝐖D)(N)
-H𝐖=(G𝐖\circ𝐖D)(N)𝐖.
-H𝐖=G𝐖\circ𝐖D𝐖?
+C =G(32) =0
+F =D(N) =40 +0.25N
+C =G(F) =\frac{5}{9}(F -32)
+H =(G \circ D)
+N .
+H =(G \circ D)
+y =H(N) =(G \circ D)(N)
+H =(G \circ D)(N) .
+H =G \circ D ?
 f
-[a,𝐖b]
-AV_{[a,𝐖b]}𝐖𝐖=\frac{f(b)𝐖-f(a)}{b𝐖-a}𝐖.
-AV_{[a,𝐖b]}𝐖
-(a,𝐖f(a))
-(b,𝐖f(b))
-f𝐖.
-[a,𝐖b]
-AV_{[a,𝐖b]}𝐖
-(a,𝐖f(a))
-(b,𝐖f(b))
-f𝐖.
-AV_{[a,𝐖a𝐖+h]}𝐖
-(a,𝐖f(a))
-(a,𝐖f(a𝐖+h))
-f𝐖.
-[a,𝐖b]
+[a, b]
+AV_{[a, b]} =\frac{f(b) -f(a)}{b -a} .
+AV_{[a, b]}
+(a, f(a))
+(b, f(b))
+f .
+[a, b]
+AV_{[a, b]}
+(a, f(a))
+(b, f(b))
+f .
+AV_{[a, a +h]}
+(a, f(a))
+(a, f(a +h))
+f .
+[a, b]
 a
 b
-b𝐖=a𝐖+h,𝐖
+b =a +h,
 h
 b
-a𝐖.
+a .
 h
 0
 0
-AV_{[a,𝐖a𝐖+h]}𝐖𝐖=\frac{f(a𝐖+h)𝐖-f(a)}{a𝐖+h𝐖-a}𝐖=\frac{f(a𝐖+h)𝐖-f(a)}{h}
+AV_{[a, a +h]} =\frac{f(a +h) -f(a)}{a +h -a} =\frac{f(a +h) -f(a)}{h}
 f
-[a,𝐖a𝐖+h]𝐖.
-AV_{[a,𝐖a𝐖+h]}𝐖,𝐖
-f(a𝐖+h)
-AV_{[a,𝐖a𝐖+h]}𝐖
+[a, a +h] .
+AV_{[a, a +h]},
+f(a +h)
+AV_{[a, a +h]}
 f
-(a𝐖+h)𝐖.
-f(x)𝐖=x^2𝐖𝐖.
-AV_{[3,𝐖3𝐖+h]}𝐖,𝐖
+(a +h) .
+f(x) =x^2 .
+AV_{[3, 3 +h]},
 f
-[3,𝐖3𝐖+h]𝐖.
-AV_{[3,𝐖3𝐖+h]}𝐖𝐖=\frac{f(3𝐖+h)𝐖-f(3)}{h}𝐖.
-f,𝐖
-AV_{[3,𝐖3𝐖+h]}𝐖𝐖=\frac{(3𝐖+h)^2𝐖𝐖-(3)^2𝐖}{h}𝐖.
-AV_{[3,𝐖3𝐖+h]}𝐖𝐖&𝐖\lt𝐖mi/>𝐖=\frac{(9𝐖+6h𝐖+h^2𝐖)𝐖-9}{h}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{6h𝐖+h^2𝐖}{h}𝐖.
+[3, 3 +h] .
+AV_{[3, 3 +h]} =\frac{f(3 +h) -f(3)}{h} .
+f,
+AV_{[3, 3 +h]} =\frac{(3 +h)^2 -(3)^2}{h} .
+AV_{[3, 3 +h]} & \lt mi/> =\frac{(9 +6h +h^2) -9}{h} \\ \~ & \lt mi/> =\frac{6h +h^2}{h} .
 h
-h𝐖\not=𝐖0,𝐖
-AV_{[3,𝐖3𝐖+h]}𝐖𝐖&𝐖\lt𝐖mi/>𝐖=\frac{h(6𝐖+h)}{h}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=6𝐖+h𝐖.
-AV_{[3,𝐖3𝐖+h]}𝐖𝐖=6𝐖+h,𝐖
-f(x)𝐖=x^2𝐖
-[3,𝐖3𝐖+h]𝐖.
-6𝐖+h
-h𝐖.
-f(x)𝐖=2x^2𝐖𝐖-3x𝐖+1
-g(x)𝐖=\frac{5}{x}𝐖.
-f(1𝐖+h)
+h \not= 0,
+AV_{[3, 3 +h]} & \lt mi/> =\frac{h(6 +h)}{h} \\ \~ & \lt mi/> =6 +h .
+AV_{[3, 3 +h]} =6 +h,
+f(x) =x^2
+[3, 3 +h] .
+6 +h
+h .
+f(x) =2x^2 -3x +1
+g(x) =\frac{5}{x} .
+f(1 +h)
 f
-[1,𝐖1𝐖+h]𝐖.
-AV_{[1,𝐖1𝐖+h]}𝐖
+[1, 1 +h] .
+AV_{[1, 1 +h]}
 f
-g(1𝐖+h)𝐖.
-g(1𝐖+h)
+g(1 +h) .
+g(1 +h)
 g
-[1,𝐖1𝐖+h]𝐖.
-AV_{[1,𝐖1𝐖+h]}𝐖
+[1, 1 +h] .
+AV_{[1, 1 +h]}
 g
-AV_{[a,𝐖a𝐖+h]}𝐖𝐖=\frac{f(a𝐖+h)𝐖-f(a)}{h}
+AV_{[a, a +h]} =\frac{f(a +h) -f(a)}{h}
 h
 h
-0,𝐖
-f(x)𝐖=2x^2𝐖𝐖-3x𝐖+1,𝐖
-AV_{[1,𝐖1𝐖+h]}𝐖𝐖=2h𝐖+1,𝐖
+0,
+f(x) =2x^2 -3x +1,
+AV_{[1, 1 +h]} =2h +1,
 f
 g
-f𝐖\circ𝐖g
-(f𝐖\circ𝐖g)(x)𝐖=f(g(x))𝐖.
+f \circ g
+(f \circ g)(x) =f(g(x)) .
 g
-x,𝐖
+x,
 f
 g(x)
-g𝐖.
-h(x)𝐖=f(g(x)),𝐖
+g .
+h(x) =f(g(x)),
 g
-f𝐖.
+f .
 x
 g
-f𝐖\colon𝐖
+f \colon
 g
-f𝐖.
-g𝐖\colon𝐖A𝐖\to𝐖B
-f𝐖\colon𝐖B𝐖\to𝐖C,𝐖
-f𝐖\circ𝐖g𝐖\colon𝐖A𝐖\to𝐖C𝐖.
-AV_{[a,𝐖a𝐖+h]}𝐖
-AV_{[a,𝐖a𝐖+h]}𝐖𝐖=\frac{f(a𝐖+h)𝐖-f(a)}{h}
-f(a𝐖+h),𝐖
-[a,𝐖a𝐖+h]
-r𝐖=f(t)
+f .
+g \colon A \to B
+f \colon B \to C,
+f \circ g \colon A \to C .
+AV_{[a, a +h]}
+AV_{[a, a +h]} =\frac{f(a +h) -f(a)}{h}
+f(a +h),
+[a, a +h]
+r =f(t)
 t
 A(r)
 r
-A(f(t))𝐖?
+A(f(t)) ?
 r
 t
 t
 f
-L𝐖=f(t)
+L =f(t)
 t
 P(L)
-L𝐖.
-P(f(t))𝐖?
+L .
+P(f(t)) ?
 P
 t
 P
@@ -2954,65 +2954,65 @@ L
 P
 t
 s
-V𝐖=s^3𝐖𝐖.
-A𝐖=6s^2𝐖𝐖.
-s𝐖=f(A)𝐖.
-s𝐖=f(A)𝐖=
-s𝐖=f(A)𝐖?
+V =s^3 .
+A =6s^2 .
+s =f(A) .
+s =f(A) =
+s =f(A) ?
 A
 V
 s
 s
-V𝐖=g(s),𝐖
-g(f(A))𝐖.
-g(f(A))𝐖=
-g(f(A))𝐖?
+V =g(s),
+g(f(A)) .
+g(f(A)) =
+g(f(A)) ?
 s
 s
 A
 V
-f(x)𝐖=5x𝐖-6
-g(x)𝐖=2x𝐖-2,𝐖
-f𝐖\circ𝐖g(x)
-g𝐖\circ𝐖f(x)
-f𝐖\circ𝐖f(x)
-g𝐖\circ𝐖g(x)
-f(x)𝐖=x^3𝐖𝐖-27
-g(x)𝐖=x𝐖-3𝐖.
-𝐖-27𝐖+x^6𝐖
-9𝐖+3x𝐖+x^2𝐖
-729𝐖-54x^3𝐖𝐖+x^6𝐖
-𝐖-30𝐖+x^3𝐖
-N(T)𝐖=27T^2𝐖𝐖-97T𝐖+51,𝐖
-3𝐖\lt𝐖T𝐖\lt𝐖33
+f(x) =5x -6
+g(x) =2x -2,
+f \circ g(x)
+g \circ f(x)
+f \circ f(x)
+g \circ g(x)
+f(x) =x^3 -27
+g(x) =x -3 .
+-27 +x^6
+9 +3x +x^2
+729 -54x^3 +x^6
+-30 +x^3
+N(T) =27T^2 -97T +51,
+3 \lt T \lt 33
 T
-T(t)𝐖=4t𝐖+1.7
+T(t) =4t +1.7
 t
-N(T(t))𝐖\colon𝐖
-N(T(t))𝐖=
-f(x)𝐖=5x𝐖+2
-g(x)𝐖=4x^2𝐖𝐖+3x𝐖.
-(f𝐖\circ𝐖g)(𝐖-2)𝐖=
-(f𝐖\circ𝐖g)(x)𝐖=
+N(T(t)) \colon
+N(T(t)) =
+f(x) =5x +2
+g(x) =4x^2 +3x .
+(f \circ g)( -2) =
+(f \circ g)(x) =
 f
 g
-f(𝐖-1)𝐖=1,𝐖
+f( -1) =1,
 f(3)
-y𝐖=f(x)𝐖.
-y𝐖=g(x)𝐖.
+y =f(x) .
+y =g(x) .
 f(g(1))
-g(f(𝐖-2))𝐖.
+g(f( -2)) .
 x
 g(f(x))
 r
 s
 r
-s𝐖.
+s .
 t
-𝐖-4
-𝐖-3
-𝐖-2
-𝐖-1
+-4
+-3
+-2
+-1
 0
 1
 2
@@ -3024,118 +3024,118 @@ r(t)
 2
 3
 0
-𝐖-3
+-3
 2
-𝐖-1
-𝐖-4
+-1
+-4
 s(t)
-𝐖-5
-𝐖-6
-𝐖-7
-𝐖-8
+-5
+-6
+-7
+-8
 0
 8
 7
 6
 5
-(s𝐖\circ𝐖r)(3),𝐖
-(s𝐖\circ𝐖r)(𝐖-4),𝐖
-(s𝐖\circ𝐖r)(a)
+(s \circ r)(3),
+(s \circ r)( -4),
+(s \circ r)(a)
 a
 r
 s
 b
-(r𝐖\circ𝐖s)(b)𝐖?
-m(u)𝐖=u^3𝐖𝐖+4u^2𝐖𝐖-5u𝐖+1𝐖.
-m(x^2𝐖),𝐖
-m(2𝐖+h),𝐖
-m(a𝐖+h)𝐖.
-F(x)𝐖=4𝐖-3x𝐖-x^2𝐖,𝐖
-AV_{[2,𝐖2𝐖+h]}𝐖𝐖.
-F,𝐖
-N,𝐖
-F𝐖=D(N)𝐖=40𝐖+\frac{1}{4}N𝐖.
-F𝐖=40𝐖+\frac{1}{4}N
+(r \circ s)(b) ?
+m(u) =u^3 +4u^2 -5u +1 .
+m(x^2),
+m(2 +h),
+m(a +h) .
+F(x) =4 -3x -x^2,
+AV_{[2, 2 +h]} .
+F,
+N,
+F =D(N) =40 +\frac{1}{4}N .
+F =40 +\frac{1}{4}N
 N
-F𝐖.
-N𝐖=g(F)
+F .
+N =g(F)
 82
-g𝐖?
-C𝐖=G(F)𝐖=\frac{5}{9}(F𝐖-32)𝐖.
-C𝐖=\frac{5}{9}(F𝐖-32)
+g ?
+C =G(F) =\frac{5}{9}(F -32) .
+C =\frac{5}{9}(F -32)
 F
-C𝐖.
-F𝐖=p(C)𝐖.
+C .
+F =p(C) .
 N
 C
 f
 g
-g𝐖\circ𝐖f𝐖.
-h(x)𝐖=(x^2𝐖𝐖+7)^3𝐖
-r(x)𝐖=\sqrt{5𝐖-x^3𝐖}
-m(x)𝐖=\frac{1}{x^4𝐖𝐖+2x^2𝐖𝐖+1}
-w(x)𝐖=2^{3𝐖-x^2𝐖}𝐖
+g \circ f .
+h(x) =(x^2 +7)^3
+r(x) =\sqrt{5 -x^3}
+m(x) =\frac{1}{x^4 +2x^2 +1}
+w(x) =2^{3 -x^2}
 4
 0.4
 V
 h
 t
-V,𝐖
-h,𝐖
-(1.6.1)𝐖&𝐖V𝐖=f(h)𝐖=\frac{\pi𝐖}{3}h^2𝐖(12𝐖-h)𝐖.
+V,
+h,
+(1.6.1) & V =f(h) =\frac{\pi}{3}h^2 (12 -h) .
 0.4
 h
 t
-h𝐖=p(t)𝐖?
-p(t)𝐖.
-h𝐖=p(t)𝐖?
+h =p(t) ?
+p(t) .
+h =p(t) ?
 V
-h,𝐖
+h,
 h
-t𝐖.
+t .
 V
-t𝐖.
-V𝐖=q(t)𝐖.
-q𝐖?
-h𝐖=p(t)
-V𝐖=q(t),𝐖
-f(t)𝐖=ab^t𝐖
+t .
+V =q(t) .
+q ?
+h =p(t)
+V =q(t),
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-y𝐖=f(x)𝐖=7𝐖-3x𝐖.
-AV_{[𝐖-3,𝐖𝐖-1]}𝐖,𝐖
-AV_{[2,𝐖5]}𝐖,𝐖
-AV_{[4,𝐖10]}𝐖
-f𝐖.
-y𝐖=g(x)
-y𝐖=g(x)𝐖.
+f(t) =b^t
+y =f(x) =7 -3x .
+AV_{[ -3, -1]},
+AV_{[2, 5]},
+AV_{[4, 10]}
+f .
+y =g(x)
+y =g(x) .
 x
-𝐖-5
-𝐖-4
-𝐖-3
-𝐖-2
-𝐖-1
+-5
+-4
+-3
+-2
+-1
 0
 1
 2
@@ -3143,84 +3143,84 @@ x
 4
 5
 g(x)
-𝐖-2.75
-𝐖-2.25
-𝐖-1.75
-𝐖-1.25
-𝐖-0.75
-𝐖-0.25
+-2.75
+-2.25
+-1.75
+-1.25
+-0.75
+-0.25
 0.25
 0.75
 1.25
 1.75
 2.25
-AV_{[𝐖-5,𝐖𝐖-2]}𝐖,𝐖
-AV_{[𝐖-1,𝐖1]}𝐖,𝐖
-AV_{[0,𝐖4]}𝐖
-g𝐖.
-y𝐖=h(x)
-y𝐖=h(x)𝐖.
-AV_{[𝐖-5,𝐖𝐖-2]}𝐖,𝐖
-AV_{[𝐖-1,𝐖1]}𝐖,𝐖
-AV_{[0,𝐖4]}𝐖
-h𝐖.
-y𝐖=f(x)𝐖=7𝐖-3x
-AV_{[a,𝐖b]}𝐖𝐖=\frac{f(b)𝐖-f(a)}{b𝐖-a}
-a𝐖\not=𝐖b𝐖.
-y𝐖=f(x)𝐖=7𝐖-3x,𝐖
-[a,𝐖b]𝐖.
-AV_{[a,𝐖b]}𝐖𝐖&𝐖\lt𝐖mi/>𝐖=\frac{f(b)𝐖-f(a)}{b𝐖-a}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{(7𝐖-3b)𝐖-(7𝐖-3a)}{b𝐖-a}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{7𝐖-3b𝐖-7𝐖+3a}{b𝐖-a}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{𝐖-3b𝐖+3a}{b𝐖-a}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{𝐖-3(b𝐖-a)}{b𝐖-a}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=𝐖-3.
-y𝐖=f(x)𝐖=7𝐖-3x,𝐖
-𝐖-3,𝐖
+AV_{[ -5, -2]},
+AV_{[ -1, 1]},
+AV_{[0, 4]}
+g .
+y =h(x)
+y =h(x) .
+AV_{[ -5, -2]},
+AV_{[ -1, 1]},
+AV_{[0, 4]}
+h .
+y =f(x) =7 -3x
+AV_{[a, b]} =\frac{f(b) -f(a)}{b -a}
+a \not= b .
+y =f(x) =7 -3x,
+[a, b] .
+AV_{[a, b]} & \lt mi/> =\frac{f(b) -f(a)}{b -a} \\ \~ & \lt mi/> =\frac{(7 -3b) -(7 -3a)}{b -a} \\ \~ & \lt mi/> =\frac{7 -3b -7 +3a}{b -a} \\ \~ & \lt mi/> =\frac{ -3b +3a}{b -a} \\ \~ & \lt mi/> =\frac{ -3(b -a)}{b -a} \\ \~ & \lt mi/> = -3.
+y =f(x) =7 -3x,
+-3,
 f
 a
 b
-a𝐖\not=𝐖b,𝐖
-\frac{f(b)𝐖-f(a)}{b𝐖-a}𝐖=m
-m𝐖.
+a \not= b,
+\frac{f(b) -f(a)}{b -a} =m
+m .
 m
-f𝐖.
+f .
 f
-AV_{[a,𝐖b]}𝐖𝐖=m
-y_0𝐖
-x_0𝐖𝐖.
-f(x_0𝐖)𝐖=y_0𝐖𝐖.
-y𝐖=f(x)
-x𝐖.
-(x_0𝐖,𝐖f(x_0𝐖))
-(x,𝐖f(x))
-m𝐖.
-\frac{f(x)𝐖-f(x_0𝐖)}{x𝐖-x_0𝐖}𝐖=m𝐖.
-y𝐖=f(x),𝐖
-f(x)𝐖.
-(x𝐖-x_0𝐖),𝐖
-f(x)𝐖-f(x_0𝐖)𝐖=m(x𝐖-x_0𝐖)𝐖.
-f(x_0𝐖)
-(1.4.1)𝐖&𝐖f(x)𝐖=f(x_0𝐖)𝐖+m(x𝐖-x_0𝐖)𝐖.
+AV_{[a, b]} =m
+y_0
+x_0 .
+f(x_0) =y_0 .
+y =f(x)
+x .
+(x_0, f(x_0))
+(x, f(x))
+m .
+\frac{f(x) -f(x_0)}{x -x_0} =m .
+y =f(x),
+f(x) .
+(x -x_0),
+f(x) -f(x_0) =m(x -x_0) .
+f(x_0)
+(1.4.1) & f(x) =f(x_0) +m(x -x_0) .
 f
-m𝐖=𝐖-\frac{1}{4}
-(𝐖-7,𝐖𝐖-5)𝐖.
-m𝐖=𝐖-\frac{1}{4}
-f(𝐖-7)𝐖=𝐖-5
-x_0𝐖𝐖=𝐖-7
-f(x_0𝐖)𝐖=𝐖-5
-f(x)𝐖=𝐖-5𝐖-\frac{1}{4}(x𝐖-(𝐖-7))𝐖=𝐖-5𝐖-\frac{1}{4}(x𝐖+7)𝐖.
+m = -\frac{1}{4}
+( -7, -5) .
+m = -\frac{1}{4}
+f( -7) = -5
+x_0 = -7
+f(x_0) = -5
+f(x) = -5 -\frac{1}{4}(x -( -7)) = -5 -\frac{1}{4}(x +7) .
 f(x)
 y
-f(x_0𝐖)
-y_0𝐖,𝐖
+f(x_0)
+y_0,
 m
 m
-(x_0𝐖,𝐖y_0𝐖)
-y𝐖=y_0𝐖𝐖+m(x𝐖-x_0𝐖)𝐖.
+(x_0, y_0)
+y =y_0 +m(x -x_0) .
 \frac{3}{7}
-(𝐖-11,𝐖𝐖-17)𝐖.
-(𝐖-2,𝐖5)
-(3,𝐖𝐖-1)𝐖.
-(4,𝐖9)
-2x𝐖-3y𝐖=5𝐖.
+( -11, -17) .
+( -2, 5)
+(3, -1) .
+(4, 9)
+2x -3y =5 .
 f
-f(x)𝐖.
+f(x) .
 x
 f(x)
 1
@@ -3230,880 +3230,880 @@ f(x)
 4
 1
 7
-𝐖-5
-f𝐖.
-h𝐖.
-(x_0𝐖,𝐖y_0𝐖)
-m,𝐖
-y𝐖=y_0𝐖𝐖+m(x𝐖-x_0𝐖)𝐖.
-(x_0𝐖,𝐖y_0𝐖)
-(x,𝐖y),𝐖
-y𝐖-y_0𝐖
-x𝐖-x_0𝐖𝐖.
-AV_{[x_0𝐖,𝐖x]}𝐖𝐖=m𝐖=\frac{y𝐖-y_0𝐖}{x𝐖-x_0𝐖}𝐖.
-m𝐖=\frac{y𝐖-y_0𝐖}{x𝐖-x_0𝐖}
-y𝐖=y_0𝐖𝐖+m(x𝐖-x_0𝐖)𝐖.
-m𝐖=0
-x_0𝐖𝐖=0𝐖.
+-5
+f .
+h .
+(x_0, y_0)
+m,
+y =y_0 +m(x -x_0) .
+(x_0, y_0)
+(x, y),
+y -y_0
+x -x_0 .
+AV_{[x_0, x]} =m =\frac{y -y_0}{x -x_0} .
+m =\frac{y -y_0}{x -x_0}
+y =y_0 +m(x -x_0) .
+m =0
+x_0 =0 .
 y
 y
 m
-(0,𝐖y_0𝐖),𝐖
-y𝐖=y_0𝐖𝐖+mx𝐖.
-x_0𝐖
+(0, y_0),
+y =y_0 +mx .
+x_0
 0
-y𝐖=y_0𝐖𝐖+m(x𝐖-0)𝐖=y_0𝐖𝐖+mx𝐖.
-y𝐖=mx𝐖+b
+y =y_0 +m(x -0) =y_0 +mx .
+y =mx +b
 y
-y𝐖=𝐖-3𝐖-2.5(x𝐖-5),𝐖
-m𝐖=𝐖-2.5
-(5,𝐖𝐖-3)𝐖.
-y𝐖=6𝐖+0.25x,𝐖
-m𝐖=0.25
-(0,𝐖6),𝐖
+y = -3 -2.5(x -5),
+m = -2.5
+(5, -3) .
+y =6 +0.25x,
+m =0.25
+(0, 6),
 y
-T𝐖=D(N)𝐖=40𝐖+0.25N
-m𝐖=0.25𝐖.
+T =D(N) =40 +0.25N
+m =0.25 .
 T
 N
-m𝐖=AV_{[a,𝐖b]}𝐖𝐖=0.25
-D𝐖.
+m =AV_{[a, b]} =0.25
+D .
 0.25
 0.25
-T(60)𝐖=55
-T(61)𝐖=55.25𝐖\colon𝐖
+T(60) =55
+T(61) =55.25 \colon
 0.25
-(40,𝐖50)
-(120,𝐖70)
-m𝐖&𝐖\lt𝐖mi/>𝐖=\frac{70𝐖-50}{120𝐖-40}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{20}{80}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=0.25\frac{degrees\space𝐖F}{chirp\space𝐖per\space𝐖minute}𝐖.
-m𝐖=0.25
+(40, 50)
+(120, 70)
+m & \lt mi/> =\frac{70 -50}{120 -40} \\ \~ & \lt mi/> =\frac{20}{80} \\ \~ & \lt mi/> =0.25\frac{degrees\space F}{chirp\space per\space minute} .
+m =0.25
 y
 t
-y𝐖=b𝐖+mt
+y =b +mt
 b
 m
 b
-t𝐖=0;𝐖
+t =0;
 m
 1
 m
 t
 t
-0𝐖.
+0 .
 y
 y
-t,𝐖
+t,
 b
-t𝐖.
-t𝐖=0
+t .
+t =0
 1951
-\lt𝐖mi/>^2𝐖;𝐖
+\lt mi/>^2;
 1555
-\lt𝐖mi/>^2𝐖𝐖.
-A𝐖=f(t)
-A,𝐖
+\lt mi/>^2 .
+A =f(t)
+A,
 t
 t
 A
-f(17)𝐖.
-A𝐖=f(t)𝐖?
+f(17) .
+A =f(t) ?
 28750
 825
-P𝐖=f(t)
-t𝐖.
+P =f(t)
+t .
 Q
-Q𝐖=g(t)𝐖=42505𝐖-465t𝐖.
-\frac{32\pi𝐖}{3}
+Q =g(t) =42505 -465t .
+\frac{32\pi}{3}
 1.2
-V𝐖=p(t)
-t𝐖.
+V =p(t)
+t .
 h
 t
-h𝐖=q(t)𝐖=0.65t𝐖.
+h =q(t) =0.65t .
 5
-10200,𝐖
+10200,
 10
-4600𝐖.
-C𝐖=L(t)
-t𝐖.
+4600 .
+C =L(t)
+t .
 f
-[a,𝐖b]
-y𝐖=f(x)
-y𝐖=f(x)𝐖=y_0𝐖𝐖+m(x𝐖-x_0𝐖),𝐖
+[a, b]
+y =f(x)
+y =f(x) =y_0 +m(x -x_0),
 m
-(x_0𝐖,𝐖y_0𝐖)
-f(x_0𝐖)𝐖=y_0𝐖𝐖.
-m,𝐖
+(x_0, y_0)
+f(x_0) =y_0 .
+m,
 1
 2000
-t𝐖=0𝐖.
-P,𝐖
-t𝐖.
+t =0 .
+P,
+t .
 90
-P𝐖=
+P =
 1
-P𝐖=
+P =
 t
 r(t)
-r(t)𝐖=600𝐖-30t𝐖.
-r(5)𝐖=
+r(t) =600 -30t .
+r(5) =
 r(5)
-r(t)𝐖.
-r(t)𝐖.
-0𝐖\le𝐖t𝐖\le𝐖30,𝐖
-t𝐖=
-0𝐖\le𝐖t𝐖\le𝐖30,𝐖
-t𝐖=
+r(t) .
+r(t) .
+0 \le t \le 30,
+t =
+0 \le t \le 30,
+t =
 r(t)
-0𝐖\le𝐖t𝐖\le𝐖30,𝐖
-r(t)𝐖?
-r𝐖\colon𝐖
-25.5km^2𝐖
-16.5km^2𝐖
-A𝐖=f(t)
+0 \le t \le 30,
+r(t) ?
+r \colon
+25.5km^2
+16.5km^2
+A =f(t)
 t
-f(t)𝐖=16.2𝐖-0.062t𝐖.
-62,000m^2𝐖
-16.2km^2𝐖
-62m^2𝐖
-0.062km^2𝐖
-16.2km^2𝐖
+f(t) =16.2 -0.062t .
+62,000m^2
+16.2km^2
+62m^2
+0.062km^2
+16.2km^2
 A
-16.2km^2𝐖
-16.2km^2𝐖𝐖.
-0.062km^2𝐖
-16.2km^2𝐖
-0.062km^2𝐖
-f(t)𝐖=9,𝐖
+16.2km^2
+16.2km^2 .
+0.062km^2
+16.2km^2
+0.062km^2
+f(t) =9,
 t
 f(9)
-km^2𝐖
-9km^2𝐖𝐖.
-km^2𝐖
-9km^2𝐖𝐖.
-km^2𝐖
-f(9)𝐖=
-km^2𝐖
-f(t)𝐖=9
-t𝐖=
-p𝐖=f(h)𝐖=
+km^2
+9km^2 .
+km^2
+9km^2 .
+km^2
+f(9) =
+km^2
+f(t) =9
+t =
+p =f(h) =
 L
 x
 Q
 y
 P
-y𝐖=x^2𝐖𝐖+2𝐖.
-y𝐖=
+y =x^2 +2 .
+y =
 A
 R
-A𝐖=f(R),𝐖
-f𝐖?
-A𝐖=f(R)𝐖.
+A =f(R),
+f ?
+A =f(R) .
 10
-A𝐖=f(t)
-D𝐖=g(t)
-A𝐖=f(t)
-D𝐖=g(t)𝐖.
-A𝐖?
+A =f(t)
+D =g(t)
+A =f(t)
+D =g(t) .
+A ?
 D
-[4,𝐖8]𝐖?
+[4, 8] ?
 4
 2
 1.5
-V𝐖=f(t)
+V =f(t)
 t
-h𝐖=g(t)
-t,𝐖
+h =g(t)
+t,
 t
-t𝐖=0
-V,𝐖
-t,𝐖
-V𝐖=f(t)𝐖.
-f𝐖?
-f(t)𝐖=ab^t𝐖
+t =0
+V,
+t,
+V =f(t) .
+f ?
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-y𝐖=g(x)𝐖=af(x𝐖-b)𝐖+c
-y𝐖=f(x)𝐖?
-f𝐖?
-L(x)𝐖=x
-Q(x)𝐖=x^2𝐖𝐖.
-Q(x)𝐖=x^2𝐖,𝐖
-g(x)𝐖=𝐖-3(x𝐖-5)^2𝐖𝐖+4
+f(t) =b^t
+y =g(x) =af(x -b) +c
+y =f(x) ?
+f ?
+L(x) =x
+Q(x) =x^2 .
+Q(x) =x^2,
+g(x) = -3(x -5)^2 +4
 g
-Q𝐖.
-a,𝐖
-b,𝐖
+Q .
+a,
+b,
 c
-g(x)𝐖=af(x𝐖-b)𝐖+c
-f𝐖.
-f(x)𝐖=x^2𝐖𝐖.
-𝐖-4𝐖\le𝐖x𝐖\le𝐖4
-𝐖-10𝐖\le𝐖y𝐖\le𝐖10𝐖.
-g(x)𝐖=f(x)𝐖+a𝐖.
-a𝐖.
+g(x) =af(x -b) +c
+f .
+f(x) =x^2 .
+-4 \le x \le 4
+-10 \le y \le 10 .
+g(x) =f(x) +a .
+a .
 a
 a
-g𝐖.
-h(x)𝐖=f(x𝐖-b)𝐖.
-b𝐖.
+g .
+h(x) =f(x -b) .
+b .
 b
 b
-h𝐖.
-p(x)𝐖=cf(x)𝐖.
-c𝐖.
+h .
+p(x) =cf(x) .
+c .
 c
 c
-p𝐖.
-c𝐖=𝐖-1,𝐖
+p .
+c = -1,
 p
-f𝐖?
-g,𝐖
-h,𝐖
+f ?
+g,
+h,
 p
-f𝐖.
-f(x)𝐖=x^2𝐖𝐖+2x𝐖+3
-f(x)𝐖=x^3𝐖𝐖-1𝐖.
-a,𝐖
-b,𝐖
+f .
+f(x) =x^2 +2x +3
+f(x) =x^3 -1 .
+a,
+b,
 c
-g,𝐖
-h,𝐖
+g,
+h,
 p
-y𝐖=f(x)
-a,𝐖
-y𝐖=g(x)𝐖=f(x)𝐖+a
-f𝐖.
-(x,𝐖f(x))
+y =f(x)
+a,
+y =g(x) =f(x) +a
+f .
+(x, f(x))
 f
-(x,𝐖f(x)𝐖+a)
-g𝐖.
+(x, f(x) +a)
+g .
 a
-y𝐖=f(x)𝐖+a,𝐖
-y𝐖=f(x)
+y =f(x) +a,
+y =f(x)
 g
 f
-a𝐖>0,𝐖
+a >0,
 g
 f
-a𝐖\lt𝐖0𝐖.
-f(x)𝐖=|𝐖x|
-g(x)𝐖=f(x)𝐖-3,𝐖
+a \lt 0 .
+f(x) =| x|
+g(x) =f(x) -3,
 3
 f
 3
-g,𝐖
-y𝐖=f(x)𝐖=|𝐖x|𝐖.
-h,𝐖
-y𝐖=f(x)𝐖.
+g,
+y =f(x) =| x| .
+h,
+y =f(x) .
 f
 2
-h𝐖.
+h .
 f
-y𝐖=f(x),𝐖
-y𝐖=h(x)𝐖=f(x𝐖-b),𝐖
-h(x𝐖+b)𝐖=f((x𝐖+b)𝐖-b)𝐖=f(x)𝐖.
-x𝐖+b
-h,𝐖
+y =f(x),
+y =h(x) =f(x -b),
+h(x +b) =f((x +b) -b) =f(x) .
+x +b
+h,
 h
 f
-x𝐖.
+x .
 h
 f
-h(x)𝐖=f(x𝐖-2),𝐖
-x𝐖+2
+h(x) =f(x -2),
+x +2
 h
 x
-f𝐖.
-h(2)𝐖=f(0),𝐖
+f .
+h(2) =f(0),
 h
 f
 2
 b
-y𝐖=f(x𝐖-b),𝐖
-y𝐖=f(x)
-y𝐖=f(x)
-b,𝐖
-y𝐖=h(x)𝐖=f(x𝐖-b)
-f𝐖.
-(x,𝐖f(x))
+y =f(x -b),
+y =f(x)
+y =f(x)
+b,
+y =h(x) =f(x -b)
+f .
+(x, f(x))
 f
-(x𝐖+b,𝐖f(x))
-g𝐖.
-h(x)𝐖=f(x𝐖-b),𝐖
-b𝐖>0
+(x +b, f(x))
+g .
+h(x) =f(x -b),
+b >0
 h
 b
-f,𝐖
-b𝐖\lt𝐖0,𝐖
+f,
+b \lt 0,
 h
 b
-f𝐖.
+f .
 r
 s
-r𝐖.
-s𝐖.
-y𝐖=r(x),𝐖
-y𝐖=g(x)𝐖=r(x)𝐖+2,𝐖
-y𝐖=h(x)𝐖=r(x𝐖+1),𝐖
-y𝐖=f(x)𝐖=r(x𝐖+1)𝐖+2𝐖.
-g,𝐖
-h,𝐖
+r .
+s .
+y =r(x),
+y =g(x) =r(x) +2,
+y =h(x) =r(x +1),
+y =f(x) =r(x +1) +2 .
+g,
+h,
 f
-(𝐖-2,𝐖𝐖-1)
-r𝐖.
-g,𝐖
-h,𝐖
-f𝐖.
-y𝐖=s(x),𝐖
-y𝐖=k(x)𝐖=s(x)𝐖-1,𝐖
-y𝐖=j(x)𝐖=s(x𝐖-2),𝐖
-y𝐖=m(x)𝐖=s(x𝐖-2)𝐖-1𝐖.
-k,𝐖
-j,𝐖
+( -2, -1)
+r .
+g,
+h,
+f .
+y =s(x),
+y =k(x) =s(x) -1,
+y =j(x) =s(x -2),
+y =m(x) =s(x -2) -1 .
+k,
+j,
 m
-(𝐖-2,𝐖𝐖-3)
-s𝐖.
-k,𝐖
-j,𝐖
-m𝐖.
-q(x)𝐖=x^2𝐖𝐖.
-p(x)𝐖=q(x𝐖+3)𝐖-4𝐖.
+( -2, -3)
+s .
+k,
+j,
+m .
+q(x) =x^2 .
+p(x) =q(x +3) -4 .
 p
-q𝐖?
-f(x)𝐖+a
+q ?
+f(x) +a
 f(x)
-f(x𝐖+b),𝐖
+f(x +b),
 f(x)
-y𝐖=f(x)
-y𝐖=v(x)𝐖=cf(x)
-c𝐖?
-c𝐖=2
-c𝐖=\frac{1}{2}𝐖.
-v(x)𝐖=2f(x),𝐖
+y =f(x)
+y =v(x) =cf(x)
+c ?
+c =2
+c =\frac{1}{2} .
+v(x) =2f(x),
 f
-2𝐖.
-f(x)𝐖=0,𝐖
+2 .
+f(x) =0,
 f
 x
-2𝐖.
+2 .
 y
-y𝐖=f(x)
+y =f(x)
 v
-u𝐖.
-y𝐖=f(x)
-z,𝐖
-w𝐖.
-u(x)𝐖=\frac{1}{2}f(x)
-\frac{1}{2},𝐖
+u .
+y =f(x)
+z,
+w .
+u(x) =\frac{1}{2}f(x)
+\frac{1}{2},
 f
 x
 f
-\frac{1}{2}𝐖.
-(0,𝐖𝐖-2)
+\frac{1}{2} .
+(0, -2)
 f
-(0,𝐖𝐖-1)
-u,𝐖
-c𝐖\lt𝐖0,𝐖
-c𝐖=𝐖-1
-z(x)𝐖=𝐖-f(x)𝐖.
+(0, -1)
+u,
+c \lt 0,
+c = -1
+z(x) = -f(x) .
 f
-𝐖-1;𝐖
-(x,𝐖y)
-(x,𝐖𝐖-y),𝐖
+-1;
+(x, y)
+(x, -y),
 x
-y𝐖=z(x)
-y𝐖=f(x)
+y =z(x)
+y =f(x)
 x
-c𝐖=𝐖-2,𝐖
-y𝐖=w(x)𝐖=𝐖-2f(x)𝐖.
-𝐖-2
-𝐖-2𝐖=2(𝐖-1)𝐖\colon𝐖
-𝐖-1
+c = -2,
+y =w(x) = -2f(x) .
+-2
+-2 =2( -1) \colon
+-1
 f
 x
 z
 2
 z
-w,𝐖
+w,
 c
-y𝐖=cf(x),𝐖
-y𝐖=f(x)
-y𝐖=f(x)
-c𝐖>0,𝐖
-y𝐖=v(x)𝐖=cf(x)
-f𝐖.
-(x,𝐖f(x))
+y =cf(x),
+y =f(x)
+y =f(x)
+c >0,
+y =v(x) =cf(x)
+f .
+(x, f(x))
 f
-(x,𝐖cf(x))
-v𝐖.
-0𝐖\lt𝐖c𝐖\lt𝐖1,𝐖
+(x, cf(x))
+v .
+0 \lt c \lt 1,
 v
 f
 x
-c𝐖>1,𝐖
+c >1,
 v
 f
 x
-f(x)𝐖=0
-y𝐖=f(x)
-c𝐖\lt𝐖0,𝐖
-y𝐖=v(x)𝐖=cf(x)
+f(x) =0
+y =f(x)
+c \lt 0,
+y =v(x) =cf(x)
 f
 x
-|𝐖c|𝐖.
+| c| .
 r
 s
-r𝐖.
-s𝐖.
-y𝐖=r(x),𝐖
-y𝐖=g(x)𝐖=3r(x)
-y𝐖=h(x)𝐖=\frac{1}{3}r(x)𝐖.
+r .
+s .
+y =r(x),
+y =g(x) =3r(x)
+y =h(x) =\frac{1}{3}r(x) .
 g
 h
-(𝐖-2,𝐖𝐖-1)
-r𝐖.
+( -2, -1)
+r .
 g
 h
-r𝐖.
-y𝐖=s(x),𝐖
-y𝐖=k(x)𝐖=𝐖-s(x)
-y𝐖=j(x)𝐖=𝐖-\frac{1}{2}s(x)𝐖.
+r .
+y =s(x),
+y =k(x) = -s(x)
+y =j(x) = -\frac{1}{2}s(x) .
 k
 j
-(𝐖-2,𝐖𝐖-3)
-s𝐖.
+( -2, -3)
+s .
 k
 j
-s𝐖.
-y𝐖=m(x)𝐖=2r(x𝐖+1)𝐖-1
-y𝐖=n(x)𝐖=\frac{1}{2}s(x𝐖-2)𝐖+2𝐖.
-y𝐖=m(x)𝐖=2r(x𝐖+1)𝐖-1
-y𝐖=r(x)𝐖.
-y𝐖=m(x)𝐖=2r(x𝐖+1)𝐖-1
-r𝐖.
+s .
+y =m(x) =2r(x +1) -1
+y =n(x) =\frac{1}{2}s(x -2) +2 .
+y =m(x) =2r(x +1) -1
+y =r(x) .
+y =m(x) =2r(x +1) -1
+r .
 1
 1
-2𝐖.
-m,𝐖
-m(x)𝐖=2r(x𝐖+1)𝐖-1𝐖.
+2 .
+m,
+m(x) =2r(x +1) -1 .
 x
-m,𝐖
+m,
 1
 x
 r
-x𝐖+1;𝐖
-r(x𝐖+1)
-2;𝐖
+x +1;
+r(x +1)
+2;
 1
-2r(x𝐖+1)𝐖.
+2r(x +1) .
 r
 1
-2;𝐖
-𝐖-1
+2;
+-1
 p
 1
-y𝐖=r(x)𝐖.
-y𝐖=r(x)
-y𝐖=p(x)𝐖=r(x𝐖+1)𝐖.
-q(x)𝐖=2p(x)𝐖=2r(x𝐖+1),𝐖
+y =r(x) .
+y =r(x)
+y =p(x) =r(x +1) .
+q(x) =2p(x) =2r(x +1),
 p
 x
-2,𝐖
-y𝐖=q(x)𝐖=2p(x)𝐖=2r(x𝐖+1)
+2,
+y =q(x) =2p(x) =2r(x +1)
 p
-r𝐖.
-y𝐖=m(x)𝐖=q(x)𝐖-1𝐖=2r(x𝐖+1)𝐖-1
-q,𝐖
+r .
+y =m(x) =q(x) -1 =2r(x +1) -1
+q,
 p
-r𝐖.
-y𝐖=m(x)𝐖=2r(x𝐖+1)𝐖-1
+r .
+y =m(x) =2r(x +1) -1
 1
-q(x)𝐖=2r(x𝐖+1);𝐖
-𝐖-1
+q(x) =2r(x +1);
+-1
 m
-(2,𝐖𝐖-1)
+(2, -1)
 1
-(1,𝐖𝐖-1),𝐖
+(1, -1),
 2
 x
-(1,𝐖𝐖-2),𝐖
+(1, -2),
 1
-(1,𝐖𝐖-3),𝐖
-m𝐖.
-2r(x𝐖+1)𝐖-1𝐖\not=𝐖2[r(x𝐖+1)𝐖-1]𝐖.
-2r(x𝐖+1)𝐖-1
-r(x𝐖+1)
+(1, -3),
+m .
+2r(x +1) -1 \not= 2[r(x +1) -1] .
+2r(x +1) -1
+r(x +1)
 2
-2[r(x𝐖+1)𝐖-1]
-r(x𝐖+1)
+2[r(x +1) -1]
+r(x +1)
 1
-2𝐖.
-(1,𝐖𝐖-1)
-r(x𝐖+1)
-(1,𝐖𝐖-2)
-(1,𝐖𝐖-4),𝐖
-(1,𝐖𝐖-3)
-m(x)𝐖=2r(x𝐖+1)𝐖-1𝐖.
+2 .
+(1, -1)
+r(x +1)
+(1, -2)
+(1, -4),
+(1, -3)
+m(x) =2r(x +1) -1 .
 f
 g
-f𝐖.
-g𝐖.
-y𝐖=p(x)𝐖=𝐖-\frac{1}{2}f(x𝐖-1)𝐖+2𝐖.
-p,𝐖
+f .
+g .
+y =p(x) = -\frac{1}{2}f(x -1) +2 .
+p,
 p
-(𝐖-2,𝐖2)
-f𝐖.
-y𝐖=q(x)𝐖=2g(x𝐖+0.5)𝐖-0.75𝐖.
-q,𝐖
+( -2, 2)
+f .
+y =q(x) =2g(x +0.5) -0.75 .
+q,
 q
-(1.5,𝐖1.5)
-g𝐖.
-y𝐖=r(x)𝐖=\frac{1}{2}(𝐖-f(x𝐖-1)𝐖-4)
+(1.5, 1.5)
+g .
+y =r(x) =\frac{1}{2}( -f(x -1) -4)
 p
 p
-r,𝐖
-f𝐖.
-y𝐖=s(x)
+r,
+f .
+y =s(x)
 g
-g𝐖\colon𝐖
+g \colon
 1.25
 x
 2.5
 1.75
 s
-g𝐖.
-y𝐖=g(x)𝐖=af(x𝐖-b)𝐖+c
-y𝐖=f(x)
-|𝐖b|
-b𝐖>0
-b𝐖\lt𝐖0
-|𝐖a|
-y𝐖=0
-a𝐖\lt𝐖0
+g .
+y =g(x) =af(x -b) +c
+y =f(x)
+| b|
+b >0
+b \lt 0
+| a|
+y =0
+a \lt 0
 c
 f
-y𝐖=0
+y =0
 x
-y𝐖=x^2𝐖
-y𝐖=
-y𝐖=
+y =x^2
+y =
+y =
 f(x)
-g(x)𝐖=Af(x𝐖+B)𝐖+C
-A,𝐖
-B,𝐖
+g(x) =Af(x +B) +C
+A,
+B,
 C
-A,𝐖
-B,𝐖
-C𝐖?
-A𝐖=
-B𝐖=
-C𝐖=
-f(x)𝐖=(x𝐖-6)^2𝐖
-g(x)𝐖=(x𝐖+3)^2𝐖
-h(x)𝐖=x^2𝐖𝐖-5
-m(t)𝐖.
-n(t)𝐖=m(t)𝐖+2,𝐖
-k(t)𝐖=m(t𝐖+1.5),𝐖
-w(t)𝐖=m(t𝐖-0.5)𝐖-2.5
-p(t)𝐖=m(t𝐖-1)𝐖.
-n(𝐖-3)
+A,
+B,
+C ?
+A =
+B =
+C =
+f(x) =(x -6)^2
+g(x) =(x +3)^2
+h(x) =x^2 -5
+m(t) .
+n(t) =m(t) +2,
+k(t) =m(t +1.5),
+w(t) =m(t -0.5) -2.5
+p(t) =m(t -1) .
+n( -3)
 n(1)
 k(2)
 w(1.5)
-w(𝐖-1.5)
+w( -1.5)
 p(2)
 f(x)
-(9,𝐖4)𝐖.
-(a,𝐖b)
-f(x𝐖-6)
-f(x)𝐖-5
-f(x𝐖+2)𝐖+7
-f(x)𝐖=x^2𝐖𝐖.
-g(x)𝐖=f(x)𝐖+5𝐖.
-AV_{[𝐖-3,𝐖𝐖-1]}𝐖
-AV_{[2,𝐖5]}𝐖
+(9, 4) .
+(a, b)
+f(x -6)
+f(x) -5
+f(x +2) +7
+f(x) =x^2 .
+g(x) =f(x) +5 .
+AV_{[ -3, -1]}
+AV_{[2, 5]}
 f
-g𝐖.
-h(x)𝐖=f(x𝐖-2)𝐖.
-f,𝐖
-AV_{[𝐖-3,𝐖𝐖-1]}𝐖
-AV_{[2,𝐖5]}𝐖
-AV_{[𝐖-1,𝐖1]}𝐖
-AV_{[4,𝐖7]}𝐖
-h𝐖.
-k(x)𝐖=3f(x)𝐖.
-AV_{[𝐖-3,𝐖𝐖-1]}𝐖
-AV_{[2,𝐖5]}𝐖
-k,𝐖
-AV_{[𝐖-3,𝐖𝐖-1]}𝐖
-AV_{[2,𝐖5]}𝐖
-f𝐖.
-m(x)𝐖=3f(x𝐖-2)𝐖+5𝐖.
-AV_{[𝐖-3,𝐖𝐖-1]}𝐖
+g .
+h(x) =f(x -2) .
+f,
+AV_{[ -3, -1]}
+AV_{[2, 5]}
+AV_{[ -1, 1]}
+AV_{[4, 7]}
+h .
+k(x) =3f(x) .
+AV_{[ -3, -1]}
+AV_{[2, 5]}
+k,
+AV_{[ -3, -1]}
+AV_{[2, 5]}
+f .
+m(x) =3f(x -2) +5 .
+AV_{[ -3, -1]}
 f
-AV_{[𝐖-1,𝐖1]}𝐖
-m𝐖?
-y𝐖=f(x)𝐖=x𝐖.
-y𝐖=L(x)𝐖=𝐖-4(x𝐖-3)𝐖+5𝐖.
+AV_{[ -1, 1]}
+m ?
+y =f(x) =x .
+y =L(x) = -4(x -3) +5 .
 L
-f𝐖?
-3,𝐖
-𝐖-4,𝐖
-5,𝐖
-P(x)𝐖=m(x𝐖-x_0𝐖)𝐖+y_0𝐖
-f(x)𝐖=x𝐖.
-f(x)𝐖=x
+f ?
+3,
+-4,
+5,
+P(x) =m(x -x_0) +y_0
+f(x) =x .
+f(x) =x
 7
-y𝐖=0
+y =0
 3
 x
-𝐖-11
-y𝐖=f(x)𝐖+a,𝐖
-y𝐖=f(x𝐖+a),𝐖
-y𝐖=af(x)𝐖.
+-11
+y =f(x) +a,
+y =f(x +a),
+y =af(x) .
 a
 f
-y𝐖=f(ax)𝐖.
-f(x)𝐖=(x𝐖-2)^2𝐖𝐖+1𝐖.
-g(x)𝐖=f(4x),𝐖
-h(x)𝐖=f(2x),𝐖
-k(x)𝐖=f(0.5x),𝐖
-m(x)𝐖=f(0.25x)𝐖.
-g,𝐖
-h,𝐖
-k,𝐖
+y =f(ax) .
+f(x) =(x -2)^2 +1 .
+g(x) =f(4x),
+h(x) =f(2x),
+k(x) =f(0.5x),
+m(x) =f(0.25x) .
+g,
+h,
+k,
 m
-f𝐖.
+f .
 y
 x
-f,𝐖
-g,𝐖
-h,𝐖
-k,𝐖
+f,
+g,
+h,
+k,
 m
-f,𝐖
-r,𝐖
+f,
+r,
 s
-y𝐖=f(ax)
-a𝐖>0𝐖?
-f𝐖?
+y =f(ax)
+a >0 ?
+f ?
 f
-r(x)𝐖=f(𝐖-x)𝐖.
-r(𝐖-1)𝐖=f(1),𝐖
-r(2)𝐖=f(𝐖-2),𝐖
-y𝐖=r(x)
-y𝐖=f(x)𝐖?
+r(x) =f( -x) .
+r( -1) =f(1),
+r(2) =f( -2),
+y =r(x)
+y =f(x) ?
 f
 r
-s(x)𝐖=f(𝐖-2x)
-y𝐖=f(ax)
-y𝐖=f(x)
-a𝐖\lt𝐖0𝐖?
-f(t)𝐖=ab^t𝐖
+s(x) =f( -2x)
+y =f(ax)
+y =f(x)
+a \lt 0 ?
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-\cos𝐖(\theta𝐖)
-\sin𝐖(\theta𝐖)
-1𝐖?
-\cos𝐖(\theta𝐖)
-\sin𝐖(\theta𝐖)
-(1,𝐖0)𝐖.
+f(t) =b^t
+\cos (\theta)
+\sin (\theta)
+1 ?
+\cos (\theta)
+\sin (\theta)
+(1, 0) .
 t
-(1,𝐖0),𝐖
-\cos𝐖(t)
+(1, 0),
+\cos (t)
 x
-\sin𝐖(t)
+\sin (t)
 y
-\theta𝐖
+\theta
 t
 t
-\theta𝐖
+\theta
 x
-(\cos𝐖(\theta𝐖),𝐖0),𝐖
-(0,𝐖0),𝐖
-(\cos𝐖(\theta𝐖),𝐖\sin𝐖(\theta𝐖)),𝐖
-\cos𝐖(\theta𝐖)
-\sin𝐖(\theta𝐖),𝐖
-\cos𝐖(t)
-\sin𝐖(t)
-\cos𝐖(\theta𝐖)
-\sin𝐖(\theta𝐖)
+(\cos (\theta), 0),
+(0, 0),
+(\cos (\theta), \sin (\theta)),
+\cos (\theta)
+\sin (\theta),
+\cos (t)
+\sin (t)
+\cos (\theta)
+\sin (\theta)
 a
 b
-c,𝐖
-a^2𝐖𝐖+b^2𝐖𝐖=c^2𝐖𝐖.
-\theta𝐖,𝐖
-\cos𝐖^2𝐖(\theta𝐖)𝐖+\sin𝐖^2𝐖(\theta𝐖)𝐖=1𝐖.
+c,
+a^2 +b^2 =c^2 .
+\theta,
+\cos^2 (\theta) +\sin^2 (\theta) =1 .
 1
-\frac{3}{5}𝐖.
+\frac{3}{5} .
 1
-\frac{\pi𝐖}{3}𝐖.
+\frac{\pi}{3} .
 7
-6𝐖.
+6 .
 5
-\frac{\pi𝐖}{4}𝐖.
+\frac{\pi}{4} .
 1
-\cos𝐖(0.7)𝐖.
+\cos (0.7) .
 1
-\cos𝐖(1.1)
-\sin𝐖(1.1),𝐖
+\cos (1.1)
+\sin (1.1),
 6
 3
 3
-\pi𝐖
+\pi
 180\circ
-\frac{\pi𝐖}{2}
+\frac{\pi}{2}
 90\circ
-\cos𝐖(t)
-\sin𝐖(t)
+\cos (t)
+\sin (t)
 5
 1
 1
 k
 k
 OPQ
-OP𝐖=r
-r𝐖>1𝐖.
+OP =r
+r >1 .
 M
 \overline{OP}
 O
 P
-OM𝐖=1,𝐖
+OM =1,
 N
 \overline{OQ}
-𝐖\angle𝐖ONM
+\angle ONM
 O
-(0,𝐖0),𝐖
+(0, 0),
 Q
-(x,𝐖0),𝐖
+(x, 0),
 P
-(x,𝐖y)
-OQ𝐖=x
-PQ𝐖=y𝐖.
-\theta𝐖
-𝐖\angle𝐖POQ𝐖.
-\triangle𝐖OPQ
-\triangle𝐖OMN𝐖.
-\triangle𝐖OPQ
-\triangle𝐖OMN
-\frac{OP}{OM}𝐖?
+(x, y)
+OQ =x
+PQ =y .
+\theta
+\angle POQ .
+\triangle OPQ
+\triangle OMN .
+\triangle OPQ
+\triangle OMN
+\frac{OP}{OM} ?
 \frac{OQ}{ON}
-\frac{PQ}{MN}𝐖?
+\frac{PQ}{MN} ?
 ON
-\theta𝐖𝐖?
+\theta ?
 MN
-\theta𝐖𝐖?
+\theta ?
 x
 y
 r
-\theta𝐖𝐖.
+\theta .
 1
 x
-\theta𝐖,𝐖
+\theta,
 1
-\cos𝐖(\theta𝐖)
-\sin𝐖(\theta𝐖)𝐖.
-r𝐖\not=𝐖1,𝐖
-1𝐖.
+\cos (\theta)
+\sin (\theta) .
+r \not= 1,
+1 .
 r
-r\cos𝐖(\theta𝐖)
-r\sin𝐖(\theta𝐖),𝐖
+r\cos (\theta)
+r\sin (\theta),
 r
-\theta𝐖
-(4.1.1)𝐖&𝐖\frac{r}{1}𝐖=\frac{r\cos𝐖(\theta𝐖)}{\cos𝐖(\theta𝐖)}𝐖.
+\theta
+(4.1.1) & \frac{r}{1} =\frac{r\cos (\theta)}{\cos (\theta)} .
 r
-\cos𝐖(\theta𝐖),𝐖
-(4.1.2)𝐖&𝐖\frac{\cos𝐖(\theta𝐖)}{1}𝐖=\frac{r\cos𝐖(\theta𝐖)}{r}𝐖.
+\cos (\theta),
+(4.1.2) & \frac{\cos (\theta)}{1} =\frac{r\cos (\theta)}{r} .
 r
-\cos𝐖(\theta𝐖),𝐖
-\theta𝐖
-(4.1.3)𝐖&𝐖\frac{r}{1}𝐖=\frac{r\sin𝐖(\theta𝐖)}{\sin𝐖(\theta𝐖)},𝐖
-(4.1.4)𝐖&𝐖\frac{\sin𝐖(\theta𝐖)}{1}𝐖=\frac{r\sin𝐖(\theta𝐖)}{r}𝐖.
+\cos (\theta),
+\theta
+(4.1.3) & \frac{r}{1} =\frac{r\sin (\theta)}{\sin (\theta)},
+(4.1.4) & \frac{\sin (\theta)}{1} =\frac{r\sin (\theta)}{r} .
 r
-\sin𝐖(\theta𝐖),𝐖
-\theta𝐖
-\theta𝐖,𝐖
-\theta𝐖,𝐖
-\theta𝐖,𝐖
-\cos𝐖(\theta𝐖)𝐖=\frac{adj}{hyp}\~and\~\sin𝐖(\theta𝐖)𝐖=\frac{opp}{hyp}𝐖.
+\sin (\theta),
+\theta
+\theta,
+\theta,
+\theta,
+\cos (\theta) =\frac{adj}{hyp}\~and\~\sin (\theta) =\frac{opp}{hyp} .
 7
-\frac{\pi𝐖}{7}𝐖.
-\alpha𝐖
-\sin𝐖(\alpha𝐖)𝐖=\frac{3}{5}𝐖.
+\frac{\pi}{7} .
+\alpha
+\sin (\alpha) =\frac{3}{5} .
 1.2
-2.7𝐖.
+2.7 .
 13
-6.5𝐖.
+6.5 .
 5
-12𝐖.
-\frac{\pi𝐖}{5}
-4𝐖.
+12 .
+\frac{\pi}{5}
+4 .
 6
-\beta𝐖𝐖=\frac{\pi𝐖}{5}
-4𝐖.
-\beta𝐖𝐖=\frac{\pi𝐖}{5}
-\beta𝐖
-4𝐖.
-\beta𝐖𝐖=\frac{\pi𝐖}{5},𝐖
-\alpha𝐖𝐖=\frac{\pi𝐖}{2}𝐖-\frac{\pi𝐖}{5}𝐖=\frac{3\pi𝐖}{10}𝐖.
-(4.1.5)𝐖&𝐖\sin𝐖(\frac{\pi𝐖}{5})𝐖=\frac{4}{h}
-(4.1.6)𝐖&𝐖\cos𝐖(\frac{\pi𝐖}{5})𝐖=\frac{x}{h}
-h,𝐖
-(4.1.7)𝐖&𝐖h𝐖=\frac{4}{\sin𝐖(\frac{\pi𝐖}{5})},𝐖
-h𝐖.
-(4.1.8)𝐖&𝐖\cos𝐖(\frac{\pi𝐖}{5})𝐖=\frac{x}{\frac{4}{\sin𝐖(\frac{\pi𝐖}{5})}}𝐖.
+\beta =\frac{\pi}{5}
+4 .
+\beta =\frac{\pi}{5}
+\beta
+4 .
+\beta =\frac{\pi}{5},
+\alpha =\frac{\pi}{2} -\frac{\pi}{5} =\frac{3\pi}{10} .
+(4.1.5) & \sin (\frac{\pi}{5}) =\frac{4}{h}
+(4.1.6) & \cos (\frac{\pi}{5}) =\frac{x}{h}
+h,
+(4.1.7) & h =\frac{4}{\sin (\frac{\pi}{5})},
+h .
+(4.1.8) & \cos (\frac{\pi}{5}) =\frac{x}{\frac{4}{\sin (\frac{\pi}{5})}} .
 x
-x𝐖=\frac{4\cos𝐖(\frac{\pi𝐖}{5})}{\sin𝐖(\frac{\pi𝐖}{5})}𝐖.
+x =\frac{4\cos (\frac{\pi}{5})}{\sin (\frac{\pi}{5})} .
 x
 h
-x𝐖\approx𝐖5.506
-h𝐖\approx𝐖6.805𝐖.
+x \approx 5.506
+h \approx 6.805 .
 A
 B
 50
 B
 P
-𝐖\angle𝐖BPA𝐖.
-𝐖\angle𝐖BPA
-56.4\circ,𝐖
-1,𝐖
-\cos𝐖(\theta𝐖)
-\theta𝐖
-\sin𝐖(\theta𝐖)
-\theta𝐖,𝐖
+\angle BPA .
+\angle BPA
+56.4\circ,
+1,
+\cos (\theta)
+\theta
+\sin (\theta)
+\theta,
 r
-1,𝐖
-r,𝐖
-\theta𝐖
-r\cos𝐖(\theta𝐖),𝐖
-\theta𝐖
-r\sin𝐖(\theta𝐖),𝐖
-\theta𝐖,𝐖
-\cos𝐖(\theta𝐖)𝐖=\frac{adj}{hyp}\~and\~\sin𝐖(\theta𝐖)𝐖=\frac{opp}{hyp}𝐖.
-BC𝐖=3
-\alpha𝐖𝐖=65\circ,𝐖
-\beta𝐖
-a,𝐖
+1,
+r,
+\theta
+r\cos (\theta),
+\theta
+r\sin (\theta),
+\theta,
+\cos (\theta) =\frac{adj}{hyp}\~and\~\sin (\theta) =\frac{opp}{hyp} .
+BC =3
+\alpha =65\circ,
+\beta
+a,
 b
 c
 a
-A,𝐖
+A,
 b
-B,𝐖
+B,
 c
-a𝐖=17
-B𝐖=33\circ,𝐖
+a =17
+B =33\circ,
 b
 c
 A
@@ -4112,26 +4112,26 @@ A
 27.5\circ
 17.4\circ
 1650
-4'𝐖\times𝐖24'
+4' \times 24'
 2
-V(\theta𝐖),𝐖
-\theta𝐖𝐖.
-f(t)𝐖=ab^t𝐖
+V(\theta),
+\theta .
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t
 10
 10
 e
@@ -4141,425 +4141,425 @@ f
 g
 f
 f
-g𝐖.
-y𝐖=f(x)
-f𝐖\colon𝐖A𝐖\to𝐖B
-g𝐖\colon𝐖B𝐖\to𝐖A
-g(f(x))𝐖=x
+g .
+y =f(x)
+f \colon A \to B
+g \colon B \to A
+g(f(x)) =x
 x
-A,𝐖
-f(g(y))𝐖=y
+A,
+f(g(y)) =y
 y
-B𝐖.
-f,𝐖
+B .
+f,
 f
 f
-f^{𝐖-1}𝐖
-y𝐖=f(x)
-x𝐖=f^{𝐖-1}𝐖(y)
+f^{ -1}
+y =f(x)
+x =f^{ -1} (y)
 P(t)
-P(t)𝐖=10^t𝐖𝐖.
-P𝐖.
+P(t) =10^t .
+P .
 10
 t
-y𝐖=P(t)𝐖=10^t𝐖
+y =P(t) =10^t
 P
 P
-L,𝐖
-y𝐖=P(t)
-t𝐖=L(y)
+L,
+y =P(t)
+t =L(y)
 P
 10
 L
-10,𝐖
-L𝐖.
+10,
+L .
 L
-P𝐖.
+P .
 y
-10^{𝐖-3}𝐖
-10^{𝐖-2}𝐖
-10^{𝐖-1}𝐖
-10^0𝐖
-10^1𝐖
-10^2𝐖
-10^3𝐖
+10^{ -3}
+10^{ -2}
+10^{ -1}
+10^0
+10^1
+10^2
+10^3
 L(y)
-P𝐖?
-L𝐖?
+P ?
+L ?
 10
 10
-P(t)𝐖=10^t𝐖
-b𝐖>1𝐖.
+P(t) =10^t
+b >1 .
 P
 P
-L,𝐖
-y𝐖=P(t)
-t𝐖=L(y)𝐖.
-P(2)𝐖=100
-P(𝐖-3)𝐖=\frac{1}{1000},𝐖
-L(100)𝐖=2
-L(\frac{1}{1000})𝐖=𝐖-3𝐖.
+L,
+y =P(t)
+t =L(y) .
+P(2) =100
+P( -3) =\frac{1}{1000},
+L(100) =2
+L(\frac{1}{1000}) = -3 .
 L
 10
-y,𝐖
+y,
 10
 y
 10
-y𝐖.
-\log𝐖_{10}𝐖(y)
+y .
+\log_{10} (y)
 10
-y𝐖.
+y .
 10
 10
-P(t)𝐖=10^t𝐖
+P(t) =10^t
 10
 10
 10
 10
 P
 L
-(3.4.1)𝐖&𝐖10^2𝐖𝐖=100\~and\~\log𝐖_{10}𝐖(100)𝐖=2
+(3.4.1) & 10^2 =100\~and\~\log_{10} (100) =2
 100
 10
 2
 2
 10
 100
-(3.4.2)𝐖&𝐖10^{𝐖-3}𝐖𝐖=\frac{1}{1000}\~and\~\log𝐖_{10}𝐖(\frac{1}{1000})𝐖=𝐖-3.
+(3.4.2) & 10^{ -3} =\frac{1}{1000}\~and\~\log_{10} (\frac{1}{1000}) = -3.
 10
 10
-\log𝐖_{10}𝐖(100)𝐖=2
-100𝐖=10^2𝐖
-(3.4.3)𝐖&𝐖\log𝐖_{10}𝐖(10^2𝐖)𝐖=2.
+\log_{10} (100) =2
+100 =10^2
+(3.4.3) & \log_{10} (10^2) =2.
 10
-10^2𝐖,𝐖
+10^2,
 2
 10
 10
-𝐖-3
-\log𝐖_{10}𝐖(\frac{1}{1000})
-(3.4.4)𝐖&𝐖10^{\log𝐖_{10}𝐖(\frac{1}{1000})}𝐖𝐖=\frac{1}{1000}𝐖.
+-3
+\log_{10} (\frac{1}{1000})
+(3.4.4) & 10^{\log_{10} (\frac{1}{1000})} =\frac{1}{1000} .
 10
 10
-\frac{1}{1000},𝐖
+\frac{1}{1000},
 \frac{1}{1000}
 10
 10
-P(t)𝐖=10^t𝐖
-L(y)𝐖=\log𝐖_{10}𝐖(y)
+P(t) =10^t
+L(y) =\log_{10} (y)
 P
 P
 L
 L
-t,𝐖
-\log𝐖_{10}𝐖(10^t𝐖)𝐖=t𝐖.
-L(P(t))𝐖=t𝐖.
-y,𝐖
-10^{\log𝐖_{10}𝐖(y)}𝐖𝐖=y𝐖.
-P(L(y))𝐖=y𝐖.
-10^0𝐖𝐖=1
-\log𝐖_{10}𝐖(1)𝐖=0𝐖.
+t,
+\log_{10} (10^t) =t .
+L(P(t)) =t .
+y,
+10^{\log_{10} (y)} =y .
+P(L(y)) =y .
+10^0 =1
+\log_{10} (1) =0 .
 10
 10
-10𝐖.
+10 .
 10
 10
-y𝐖.
-10^t𝐖𝐖=5,𝐖
-t𝐖=\log𝐖_{10}𝐖(5)
+y .
+10^t =5,
+t =\log_{10} (5)
 \sqrt{2}
-\cos𝐖(1),𝐖
-\log𝐖_{10}𝐖(5)
-\sqrt{2}𝐖\approx𝐖1.414,𝐖
-\cos𝐖(1)𝐖\approx𝐖0.540,𝐖
-\log𝐖_{10}𝐖(5)𝐖\approx𝐖0.699𝐖.
-y𝐖=\log𝐖_{10}𝐖(2),𝐖
-y𝐖\approx𝐖0.301𝐖.
-10^t𝐖𝐖=0.00001
-\log𝐖_{10}𝐖(1000000)𝐖=t
-10^t𝐖𝐖=37
-\log𝐖_{10}𝐖(y)𝐖=1.375
-10^t𝐖𝐖=0.04
-3𝐖\cdot𝐖10^t𝐖𝐖+11𝐖=147
-2\log𝐖_{10}𝐖(y)𝐖+5𝐖=1
+\cos (1),
+\log_{10} (5)
+\sqrt{2} \approx 1.414,
+\cos (1) \approx 0.540,
+\log_{10} (5) \approx 0.699 .
+y =\log_{10} (2),
+y \approx 0.301 .
+10^t =0.00001
+\log_{10} (1000000) =t
+10^t =37
+\log_{10} (y) =1.375
+10^t =0.04
+3 \cdot 10^t +11 =147
+2\log_{10} (y) +5 =1
 10
 10
 2
 3
 2
-3𝐖.
-e^t𝐖
-e^t𝐖,𝐖
-y,𝐖
+3 .
+e^t
+e^t,
+y,
 y
 e
-y𝐖.
-\ln𝐖(y)
-y𝐖.
-\ln𝐖(y),𝐖
+y .
+\ln (y)
+y .
+\ln (y),
 e
-\ln𝐖(e^{𝐖-1}𝐖)𝐖=𝐖-1
-e^{\ln𝐖(2)}𝐖𝐖=2𝐖.
+\ln (e^{ -1}) = -1
+e^{\ln (2)} =2 .
 e
-e^{𝐖-1}𝐖
-𝐖-1
+e^{ -1}
+-1
 e
 e
-2,𝐖
+2,
 2
-E(t)𝐖=e^t𝐖
-N(y)𝐖=\ln𝐖(y)
-E𝐖?
-N𝐖?
-\ln𝐖(e^t𝐖)
-t𝐖?
-e^{\ln𝐖(y)}𝐖
-y𝐖?
+E(t) =e^t
+N(y) =\ln (y)
+E ?
+N ?
+\ln (e^t)
+t ?
+e^{\ln (y)}
+y ?
 E
-N𝐖.
+N .
 N
-t,𝐖
-N(t)𝐖=\ln𝐖(t)
+t,
+N(t) =\ln (t)
 t
 y
-y𝐖=E(t)𝐖.
+y =E(t) .
 t
-𝐖-2
-𝐖-1
+-2
+-1
 0
 1
 2
-E(t)𝐖=e^t𝐖
-e^{𝐖-2}𝐖𝐖\approx𝐖0.135
-t𝐖=N(y)𝐖.
+E(t) =e^t
+e^{ -2} \approx 0.135
+t =N(y) .
 y
-e^{𝐖-2}𝐖
-e^{𝐖-1}𝐖
+e^{ -2}
+e^{ -1}
 1
-e^1𝐖
-e^2𝐖
-N(y)𝐖=\ln𝐖(y)
-𝐖-2
-f(t)𝐖=b^t𝐖
-f(t)𝐖=b^t𝐖
+e^1
+e^2
+N(y) =\ln (y)
+-2
+f(t) =b^t
+f(t) =b^t
 b
-b𝐖>1
-0𝐖\lt𝐖b𝐖\lt𝐖1
+b >1
+0 \lt b \lt 1
 e
-f(t)𝐖=b^t𝐖
-E(t)𝐖=e^t𝐖
-b^t𝐖𝐖=f(t)𝐖=E(kt)𝐖=e^{kt}𝐖
-k𝐖.
+f(t) =b^t
+E(t) =e^t
+b^t =f(t) =E(kt) =e^{kt}
+k .
 k
 k
-f(t)𝐖=3^t𝐖𝐖=e^{kt}𝐖𝐖.
-3^t𝐖𝐖=e^{kt}𝐖
+f(t) =3^t =e^{kt} .
+3^t =e^{kt}
 t
-e^{kt}𝐖𝐖=(e^k𝐖)^t𝐖,𝐖
-3^t𝐖𝐖=(e^k𝐖)^t𝐖,𝐖
-3𝐖=e^k𝐖𝐖.
+e^{kt} =(e^k)^t,
+3^t =(e^k)^t,
+3 =e^k .
 k
 e
-3,𝐖
-k𝐖=\ln𝐖(3)𝐖.
-e^k𝐖𝐖=3𝐖.
-e,𝐖
-e^t𝐖𝐖=\frac{1}{10}
-5e^t𝐖𝐖=7
-\ln𝐖(t)𝐖=𝐖-\frac{1}{3}
-e^{1𝐖-3t}𝐖𝐖=4
-2\ln𝐖(t)𝐖+1𝐖=4
-4𝐖-3e^{2t}𝐖𝐖=2
-4𝐖+3e^{2t}𝐖𝐖=2
-\ln𝐖(5𝐖-6t)𝐖=𝐖-2
+3,
+k =\ln (3) .
+e^k =3 .
+e,
+e^t =\frac{1}{10}
+5e^t =7
+\ln (t) = -\frac{1}{3}
+e^{1 -3t} =4
+2\ln (t) +1 =4
+4 -3e^{2t} =2
+4 +3e^{2t} =2
+\ln (5 -6t) = -2
 10
-y,𝐖
-\log𝐖_{10}𝐖(y),𝐖
+y,
+\log_{10} (y),
 10
-y𝐖.
-\log𝐖_{10}𝐖(1000)𝐖=3,𝐖
-10^3𝐖𝐖=1000𝐖.
-L(y)𝐖=\log𝐖_{10}𝐖(y)
+y .
+\log_{10} (1000) =3,
+10^3 =1000 .
+L(y) =\log_{10} (y)
 10
-P(t)𝐖=10^t𝐖𝐖.
-N(y)𝐖=\ln𝐖(y)
+P(t) =10^t .
+N(y) =\ln (y)
 10
 e
-10,𝐖
-\ln𝐖(y)
+10,
+\ln (y)
 e
-y𝐖.
-N(y)𝐖=\ln𝐖(y)
-E(t)𝐖=e^t𝐖𝐖.
+y .
+N(y) =\ln (y)
+E(t) =e^t .
 e
-2e^{3t𝐖-4}𝐖𝐖+5𝐖=13,𝐖
-e^{3t𝐖-4}𝐖
+2e^{3t -4} +5 =13,
+e^{3t -4}
 5
 2
-e^{3t𝐖-4}𝐖𝐖=4𝐖.
+e^{3t -4} =4 .
 e
 4
-\ln𝐖(4)𝐖=3t𝐖-4𝐖.
-\ln𝐖(4)
-t𝐖.
-3t𝐖=4𝐖+\ln𝐖(4),𝐖
-t𝐖=\frac{1}{3}(4𝐖+\ln𝐖(4))𝐖.
-\ln𝐖4𝐖=x
-e^A𝐖𝐖=B𝐖.
-\ln𝐖x𝐖=3
-e^C𝐖𝐖=D𝐖.
-\ln𝐖e^9𝐖𝐖=
-e^{\ln𝐖2}𝐖𝐖=
-e^{\ln𝐖\sqrt{3}}𝐖𝐖=
-\ln𝐖(1/e^2𝐖)𝐖=
-20e^x𝐖𝐖-1𝐖=15
-x𝐖=
-e^{2x𝐖+1}𝐖𝐖=18
-x𝐖=
-6𝐖-\ln𝐖(5𝐖-x)𝐖=0
-x𝐖=
-y𝐖=f(x)
-y𝐖=f(x)
-x𝐖=f^{𝐖-1}𝐖(y)
+\ln (4) =3t -4 .
+\ln (4)
+t .
+3t =4 +\ln (4),
+t =\frac{1}{3}(4 +\ln (4)) .
+\ln 4 =x
+e^A =B .
+\ln x =3
+e^C =D .
+\ln e^9 =
+e^{\ln 2} =
+e^{\ln \sqrt{3}} =
+\ln (1/e^2) =
+20e^x -1 =15
+x =
+e^{2x +1} =18
+x =
+6 -\ln (5 -x) =0
+x =
+y =f(x)
+y =f(x)
+x =f^{ -1} (y)
 y
-x,𝐖
+x,
 x
-y𝐖.
-y𝐖=f(x)𝐖=e^x𝐖,𝐖
-x𝐖=f^{𝐖-1}𝐖(y)𝐖=\ln𝐖(y)𝐖.
-y𝐖=f(x)𝐖=ae^{𝐖-kx}𝐖𝐖+c
+y .
+y =f(x) =e^x,
+x =f^{ -1} (y) =\ln (y) .
+y =f(x) =ae^{ -kx} +c
 x
-y𝐖.
-y𝐖=g(x)𝐖=e^{𝐖-0.25x}𝐖
-y𝐖=h(x)𝐖=2e^x𝐖𝐖+1
-y𝐖=r(x)𝐖=21𝐖+15e^{𝐖-0.1x}𝐖
-y𝐖=s(x)𝐖=72𝐖-40e^{𝐖-0.05x}𝐖
-y𝐖=u(x)𝐖=𝐖-5e^{3x𝐖-4}𝐖𝐖+8
-y𝐖=w(x)𝐖=3\ln𝐖(x)𝐖+4
-y𝐖=z(x)𝐖=𝐖-0.2\ln𝐖(2x𝐖-5)𝐖+1
-f(t)𝐖=b^t𝐖
-b𝐖>0,𝐖
-b𝐖\not=𝐖1
-f(t)𝐖=e^{kt}𝐖
-k,𝐖
-f(t)𝐖=b^t𝐖
-E(t)𝐖=e^t𝐖𝐖.
-b𝐖>1𝐖.
-y𝐖=f(t)𝐖=b^t𝐖
-b𝐖=10
-b𝐖=e𝐖.
+y .
+y =g(x) =e^{ -0.25x}
+y =h(x) =2e^x +1
+y =r(x) =21 +15e^{ -0.1x}
+y =s(x) =72 -40e^{ -0.05x}
+y =u(x) = -5e^{3x -4} +8
+y =w(x) =3\ln (x) +4
+y =z(x) = -0.2\ln (2x -5) +1
+f(t) =b^t
+b >0,
+b \not= 1
+f(t) =e^{kt}
+k,
+f(t) =b^t
+E(t) =e^t .
+b >1 .
+y =f(t) =b^t
+b =10
+b =e .
 b
-\log𝐖_b𝐖(y)
+\log_b (y)
 b
-y𝐖.
-y𝐖=f(t)𝐖=b^t𝐖
-t𝐖=f^{𝐖-1}𝐖(y)𝐖=\log𝐖_b𝐖(y)𝐖.
+y .
+y =f(t) =b^t
+t =f^{ -1} (y) =\log_b (y) .
 10
 2
-k𝐖.
+k .
 0.01
-15,𝐖
-f(t)𝐖=\log𝐖_2𝐖(t)
+15,
+f(t) =\log_2 (t)
 k
-\log𝐖_2𝐖(t)𝐖=k\ln𝐖(t)𝐖?
-g(t)𝐖=\log𝐖_3𝐖(t),𝐖
-h(t)𝐖=\log𝐖_5𝐖(t),𝐖
-p(t)𝐖=\log𝐖_{1.25}𝐖(t)𝐖.
-b𝐖>1,𝐖
-\log𝐖_b𝐖(t)
-\ln𝐖(t)𝐖.
-\frac{1}{\ln𝐖(2)},𝐖
-\frac{1}{\ln𝐖(3)},𝐖
-\frac{1}{\ln𝐖(5)},𝐖
-\frac{1}{\ln𝐖(1.25)}𝐖.
+\log_2 (t) =k\ln (t) ?
+g(t) =\log_3 (t),
+h(t) =\log_5 (t),
+p(t) =\log_{1.25} (t) .
+b >1,
+\log_b (t)
+\ln (t) .
+\frac{1}{\ln (2)},
+\frac{1}{\ln (3)},
+\frac{1}{\ln (5)},
+\frac{1}{\ln (1.25)} .
 k
-t𝐖=0
-F(t),𝐖
-F(t)𝐖=74.4𝐖-38.8e^{𝐖-0.05t}𝐖𝐖.
-50\circ𝐖.
-36\circ𝐖?
-t𝐖>0𝐖.
-y𝐖=F(t)𝐖.
-f(t)𝐖=ab^t𝐖
+t =0
+F(t),
+F(t) =74.4 -38.8e^{ -0.05t} .
+50\circ .
+36\circ ?
+t >0 .
+y =F(t) .
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-\sin𝐖(t)
-\cos𝐖(t),𝐖
+f(t) =b^t
+\sin (t)
+\cos (t),
 16
 16
-t𝐖=0,𝐖
-h,𝐖
-t,𝐖
-(t,𝐖h)
-f(\frac{\pi𝐖}{4})𝐖?
-f(\frac{\pi𝐖}{3})𝐖?
+t =0,
+h,
+t,
+(t, h)
+f(\frac{\pi}{4}) ?
+f(\frac{\pi}{3}) ?
 h
 h
-t𝐖.
+t .
 t
 0
-\frac{\pi𝐖}{6}
-\frac{\pi𝐖}{4}
-\frac{\pi𝐖}{3}
-\frac{\pi𝐖}{2}
-\frac{2\pi𝐖}{3}
-\frac{3\pi𝐖}{4}
-\frac{5\pi𝐖}{6}
-\pi𝐖
+\frac{\pi}{6}
+\frac{\pi}{4}
+\frac{\pi}{3}
+\frac{\pi}{2}
+\frac{2\pi}{3}
+\frac{3\pi}{4}
+\frac{5\pi}{6}
+\pi
 h
 t
-\pi𝐖
-\frac{7\pi𝐖}{6}
-\frac{5\pi𝐖}{4}
-\frac{4\pi𝐖}{3}
-\frac{3\pi𝐖}{2}
-\frac{5\pi𝐖}{3}
-\frac{7\pi𝐖}{4}
-\frac{11\pi𝐖}{6}
-2\pi𝐖
+\pi
+\frac{7\pi}{6}
+\frac{5\pi}{4}
+\frac{4\pi}{3}
+\frac{3\pi}{2}
+\frac{5\pi}{3}
+\frac{7\pi}{4}
+\frac{11\pi}{6}
+2\pi
 h
-f(\frac{11\pi𝐖}{4})𝐖?
-f(\frac{14\pi𝐖}{3})𝐖?
+f(\frac{11\pi}{4}) ?
+f(\frac{14\pi}{3}) ?
 t
-f(t)𝐖=𝐖-\frac{\sqrt{3}}{2}𝐖.
-(1,𝐖0)
+f(t) = -\frac{\sqrt{3}}{2} .
+(1, 0)
 t
-(1,𝐖0)
-(a,𝐖b),𝐖
+(1, 0)
+(a, b),
 t
-\sin𝐖(t),𝐖
-\sin𝐖(t)𝐖=b𝐖.
-t𝐖.
-\sin𝐖(t)
+\sin (t),
+\sin (t) =b .
+t .
+\sin (t)
 y
 t
-(1,𝐖0)𝐖.
-\sin𝐖(𝐖-\frac{\pi𝐖}{2})𝐖=𝐖-1𝐖.
-h(t)𝐖=\sin𝐖(t)
+(1, 0) .
+\sin ( -\frac{\pi}{2}) = -1 .
+h(t) =\sin (t)
 t
 0
-\frac{\pi𝐖}{6}
-\frac{\pi𝐖}{4}
-\frac{\pi𝐖}{3}
-\frac{\pi𝐖}{2}
-\frac{2\pi𝐖}{3}
-\frac{3\pi𝐖}{4}
-\frac{5\pi𝐖}{6}
-\pi𝐖
-\sin𝐖(t)
+\frac{\pi}{6}
+\frac{\pi}{4}
+\frac{\pi}{3}
+\frac{\pi}{2}
+\frac{2\pi}{3}
+\frac{3\pi}{4}
+\frac{5\pi}{6}
+\pi
+\sin (t)
 0
 \frac{1}{2}
 \frac{\sqrt{2}}{2}
@@ -4570,279 +4570,279 @@ t
 \frac{1}{2}
 0
 t
-\pi𝐖
-\frac{7\pi𝐖}{6}
-\frac{5\pi𝐖}{4}
-\frac{4\pi𝐖}{3}
-\frac{3\pi𝐖}{2}
-\frac{5\pi𝐖}{3}
-\frac{7\pi𝐖}{4}
-\frac{11\pi𝐖}{6}
-2\pi𝐖
-\sin𝐖(t)
+\pi
+\frac{7\pi}{6}
+\frac{5\pi}{4}
+\frac{4\pi}{3}
+\frac{3\pi}{2}
+\frac{5\pi}{3}
+\frac{7\pi}{4}
+\frac{11\pi}{6}
+2\pi
+\sin (t)
 0
-𝐖-\frac{1}{2}
-𝐖-\frac{\sqrt{2}}{2}
-𝐖-\frac{\sqrt{3}}{2}
-𝐖-1
-𝐖-\frac{\sqrt{3}}{2}
-𝐖-\frac{\sqrt{2}}{2}
-𝐖-\frac{1}{2}
+-\frac{1}{2}
+-\frac{\sqrt{2}}{2}
+-\frac{\sqrt{3}}{2}
+-1
+-\frac{\sqrt{3}}{2}
+-\frac{\sqrt{2}}{2}
+-\frac{1}{2}
 0
-[𝐖-\frac{\pi𝐖}{4},𝐖\frac{7\pi𝐖}{4}]𝐖.
+[ -\frac{\pi}{4}, \frac{7\pi}{4}] .
 t
-(1,𝐖0),𝐖
-(a,𝐖b)
+(1, 0),
+(a, b)
 y
-t,𝐖
+t,
 x
-t𝐖.
+t .
 t
-(1,𝐖0)
-(a,𝐖b),𝐖
+(1, 0)
+(a, b),
 t
-\cos𝐖(t),𝐖
-\cos𝐖(t)𝐖=a𝐖.
-t𝐖.
-\cos𝐖(t)
+\cos (t),
+\cos (t) =a .
+t .
+\cos (t)
 x
 t
-(1,𝐖0)𝐖.
-\cos𝐖(t)
-k𝐖=g(t)
+(1, 0) .
+\cos (t)
+k =g(t)
 x
-(1,𝐖0)𝐖.
-g(t)𝐖=\cos𝐖(t)𝐖.
-\cos𝐖(\frac{\pi𝐖}{6})𝐖?
-\cos𝐖(\frac{5\pi𝐖}{6})𝐖?
-\cos𝐖(𝐖-\frac{\pi𝐖}{3})𝐖?
+(1, 0) .
+g(t) =\cos (t) .
+\cos (\frac{\pi}{6}) ?
+\cos (\frac{5\pi}{6}) ?
+\cos ( -\frac{\pi}{3}) ?
 k
-k𝐖=g(t)𝐖=\cos𝐖(t)𝐖.
+k =g(t) =\cos (t) .
 t
 0
-\frac{\pi𝐖}{6}
-\frac{\pi𝐖}{4}
-\frac{\pi𝐖}{3}
-\frac{\pi𝐖}{2}
-\frac{2\pi𝐖}{3}
-\frac{3\pi𝐖}{4}
-\frac{5\pi𝐖}{6}
-\pi𝐖
+\frac{\pi}{6}
+\frac{\pi}{4}
+\frac{\pi}{3}
+\frac{\pi}{2}
+\frac{2\pi}{3}
+\frac{3\pi}{4}
+\frac{5\pi}{6}
+\pi
 k
 t
-\pi𝐖
-\frac{7\pi𝐖}{6}
-\frac{5\pi𝐖}{4}
-\frac{4\pi𝐖}{3}
-\frac{3\pi𝐖}{2}
-\frac{5\pi𝐖}{3}
-\frac{7\pi𝐖}{4}
-\frac{11\pi𝐖}{6}
-2\pi𝐖
+\pi
+\frac{7\pi}{6}
+\frac{5\pi}{4}
+\frac{4\pi}{3}
+\frac{3\pi}{2}
+\frac{5\pi}{3}
+\frac{7\pi}{4}
+\frac{11\pi}{6}
+2\pi
 k
-k𝐖=\cos𝐖(t)𝐖.
-k𝐖=\cos𝐖(t)𝐖.
-\cos𝐖(\frac{11\pi𝐖}{4})𝐖?
-\cos𝐖(\frac{14\pi𝐖}{3})𝐖?
+k =\cos (t) .
+k =\cos (t) .
+\cos (\frac{11\pi}{4}) ?
+\cos (\frac{14\pi}{3}) ?
 t
-\cos𝐖(t)𝐖=𝐖-\frac{\sqrt{3}}{2}𝐖.
-k𝐖=\cos𝐖(t)
-h𝐖=\sin𝐖(t)𝐖?
+\cos (t) = -\frac{\sqrt{3}}{2} .
+k =\cos (t)
+h =\sin (t) ?
 y
 x
-f(t)𝐖=\sin𝐖(t)
-g(t)𝐖=\cos𝐖(t),𝐖
-[𝐖-1,𝐖1];𝐖
-y𝐖=0;𝐖
-a𝐖=1;𝐖
-p𝐖=2\pi𝐖𝐖.
-\frac{\pi𝐖}{2}
-t,𝐖
-\sin𝐖(t)𝐖=\cos𝐖(t𝐖-\frac{\pi𝐖}{2})𝐖.
-\cos𝐖(t)𝐖=\sin𝐖(t𝐖+\frac{\pi𝐖}{2})𝐖.
-t,𝐖
-(x,𝐖y)
-(\cos𝐖(t),𝐖\sin𝐖(t)),𝐖
+f(t) =\sin (t)
+g(t) =\cos (t),
+[ -1, 1];
+y =0;
+a =1;
+p =2\pi .
+\frac{\pi}{2}
+t,
+\sin (t) =\cos (t -\frac{\pi}{2}) .
+\cos (t) =\sin (t +\frac{\pi}{2}) .
+t,
+(x, y)
+(\cos (t), \sin (t)),
 t
-(1,𝐖0),𝐖
-(0,𝐖0),𝐖
-(x,𝐖y)𝐖.
-x^2𝐖𝐖+y^2𝐖𝐖=1,𝐖
-\cos𝐖^2𝐖(t)𝐖+\sin𝐖^2𝐖(t)𝐖=1𝐖.
-t,𝐖
-\cos𝐖^2𝐖(t)𝐖+\sin𝐖^2𝐖(t)𝐖=1𝐖.
-f(t)𝐖=\sin𝐖(t)
-f(t)𝐖=\sin𝐖(t)
-g(t)𝐖=\cos𝐖(t)
-g(t)𝐖=\cos𝐖(t)
-g(t)𝐖=\cos𝐖(t)
-[\pi𝐖,𝐖\pi𝐖𝐖+0.1]
-[\frac{3\pi𝐖}{2},𝐖\frac{3\pi𝐖}{2}𝐖+0.1]𝐖?
+(1, 0),
+(0, 0),
+(x, y) .
+x^2 +y^2 =1,
+\cos^2 (t) +\sin^2 (t) =1 .
+t,
+\cos^2 (t) +\sin^2 (t) =1 .
+f(t) =\sin (t)
+f(t) =\sin (t)
+g(t) =\cos (t)
+g(t) =\cos (t)
+g(t) =\cos (t)
+[\pi, \pi +0.1]
+[\frac{3\pi}{2}, \frac{3\pi}{2} +0.1] ?
 x
 y
-\cos𝐖(t)
+\cos (t)
 t
-\sin𝐖(t)
-\cos𝐖(t)
+\sin (t)
+\cos (t)
 t
-t𝐖\pm𝐖2j\pi𝐖,𝐖
+t \pm 2j\pi,
 j
-\sin𝐖(1.35)
-\cos𝐖(\frac{\pi𝐖}{5})
+\sin (1.35)
+\cos (\frac{\pi}{5})
 5
 x
 y
-y𝐖=𝐖-\frac{3}{4}𝐖.
+y = -\frac{3}{4} .
 y
 x
-t𝐖=2
+t =2
 x
 x
-t𝐖=𝐖-3.05
+t = -3.05
 x
-\cos𝐖(t)
+\cos (t)
 t
-\sin𝐖(t)𝐖=\frac{1}{2}𝐖.
-\sin𝐖(t)
+\sin (t) =\frac{1}{2} .
+\sin (t)
 t
-\cos𝐖(t)𝐖=𝐖-0.7𝐖.
-f(t)𝐖=\sin𝐖(t)
-[0.1,𝐖0.2]
-[0.8,𝐖0.9]𝐖.
-g(t)𝐖=\cos𝐖(t)
-[0.1,𝐖0.2]
-[0.8,𝐖0.9]𝐖.
+\cos (t) = -0.7 .
+f(t) =\sin (t)
+[0.1, 0.2]
+[0.8, 0.9] .
+g(t) =\cos (t)
+[0.1, 0.2]
+[0.8, 0.9] .
 y
 x
-(1,𝐖0)𝐖.
-\sin𝐖(t)
+(1, 0) .
+\sin (t)
 y
 t
-(1,𝐖0)
+(1, 0)
 t
-\cos𝐖(t)
+\cos (t)
 x
-[𝐖-1,𝐖1]
-y𝐖=0
-a𝐖=1
-P𝐖=2\pi𝐖
-\frac{\pi𝐖}{2}
-\sin𝐖(t)𝐖=\cos𝐖(t𝐖-\frac{\pi𝐖}{2})
-t𝐖.
+[ -1, 1]
+y =0
+a =1
+P =2\pi
+\frac{\pi}{2}
+\sin (t) =\cos (t -\frac{\pi}{2})
+t .
 t
-\sin𝐖(t)
-\cos𝐖(t)
-t,𝐖
-\cos𝐖(\frac{4\pi𝐖}{3})
-\cos𝐖(𝐖-225\circ)
+\sin (t)
+\cos (t)
+t,
+\cos (\frac{4\pi}{3})
+\cos ( -225\circ)
 =
-\sin𝐖(135\circ)
+\sin (135\circ)
 =
-\cos𝐖(𝐖-150\circ)
+\cos ( -150\circ)
 =
-\sin𝐖(240\circ)
+\sin (240\circ)
 =
-\cos𝐖(225\circ)
+\cos (225\circ)
 =
-\sin𝐖(𝐖-180\circ)
+\sin ( -180\circ)
 =
-\sin𝐖(70\circ)
-\cos𝐖(138\circ)
-\sin𝐖(\frac{15\pi𝐖}{16})
-\cos𝐖(\frac{20\pi𝐖}{21})
+\sin (70\circ)
+\cos (138\circ)
+\sin (\frac{15\pi}{16})
+\cos (\frac{20\pi}{21})
 a
 h
 S
 T
-a𝐖=1.6
-h𝐖=0.01𝐖.
-\sin𝐖(𝐖-\frac{11\pi𝐖}{4})
-\cos𝐖(\frac{29\pi𝐖}{6})
-\cos𝐖(\frac{17\pi𝐖}{3})
-\sin𝐖(47\pi𝐖)
-\cos𝐖(𝐖-113\pi𝐖)
+a =1.6
+h =0.01 .
+\sin ( -\frac{11\pi}{4})
+\cos (\frac{29\pi}{6})
+\cos (\frac{17\pi}{3})
+\sin (47\pi)
+\cos ( -113\pi)
 t
-\cos𝐖(t)𝐖=𝐖-\frac{\sqrt{3}}{2}
+\cos (t) = -\frac{\sqrt{3}}{2}
 t
-\sin𝐖(t)𝐖=𝐖-\frac{\sqrt{3}}{2}
-\sin𝐖(t𝐖+\frac{\pi𝐖}{2})𝐖=\cos𝐖(t),𝐖
-\cos𝐖(t𝐖-\frac{\pi𝐖}{2})𝐖=\sin𝐖(t),𝐖
-\cos𝐖^2𝐖(t)𝐖+\sin𝐖^2𝐖(t)𝐖=1𝐖.
+\sin (t) = -\frac{\sqrt{3}}{2}
+\sin (t +\frac{\pi}{2}) =\cos (t),
+\cos (t -\frac{\pi}{2}) =\sin (t),
+\cos^2 (t) +\sin^2 (t) =1 .
 t
-\cos𝐖(t𝐖+2\pi𝐖)𝐖=\cos𝐖(t)
-\sin𝐖(t𝐖-\pi𝐖)𝐖=𝐖-\sin𝐖(t)
-\cos𝐖(t𝐖-\frac{3\pi𝐖}{2})𝐖=\sin𝐖(t)
-\sin𝐖^2𝐖(t)𝐖=1𝐖-\cos𝐖^2𝐖(t)
-\sin𝐖(t)𝐖+\cos𝐖(t)𝐖=1
-\sin𝐖(t)𝐖+\sin𝐖(\frac{\pi𝐖}{2})𝐖=\cos𝐖(t)
-f(t)𝐖=ab^t𝐖
+\cos (t +2\pi) =\cos (t)
+\sin (t -\pi) = -\sin (t)
+\cos (t -\frac{3\pi}{2}) =\sin (t)
+\sin^2 (t) =1 -\cos^2 (t)
+\sin (t) +\cos (t) =1
+\sin (t) +\sin (\frac{\pi}{2}) =\cos (t)
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t
 A
 B
 z
-w,𝐖
-w𝐖=50𝐖\cdot𝐖\frac{\sin𝐖(56.4)}{\cos𝐖(56.4)}𝐖.
+w,
+w =50 \cdot \frac{\sin (56.4)}{\cos (56.4)} .
 t
-\cos𝐖(t)𝐖\not=𝐖0,𝐖
+\cos (t) \not= 0,
 t
-\tan𝐖(t),𝐖
-\tan𝐖(t)𝐖=\frac{\sin𝐖(t)}{\cos𝐖(t)}𝐖.
-\tan𝐖(t)
-t𝐖=\frac{\pi𝐖}{6},𝐖\frac{\pi𝐖}{4},𝐖\frac{\pi𝐖}{3},𝐖\frac{2\pi𝐖}{3},𝐖\frac{3\pi𝐖}{4},𝐖\frac{5\pi𝐖}{6}𝐖.
-\tan𝐖(\frac{\pi𝐖}{2})
+\tan (t),
+\tan (t) =\frac{\sin (t)}{\cos (t)} .
+\tan (t)
+t =\frac{\pi}{6}, \frac{\pi}{4}, \frac{\pi}{3}, \frac{2\pi}{3}, \frac{3\pi}{4}, \frac{5\pi}{6} .
+\tan (\frac{\pi}{2})
 x
-\tan𝐖(x)
-T(x)𝐖=\tan𝐖(x)𝐖.
-x𝐖=\frac{11\pi𝐖}{24},𝐖
-y𝐖=T(\frac{11\pi𝐖}{24})𝐖.
-\sin𝐖(\frac{11\pi𝐖}{24})
-\cos𝐖(\frac{11\pi𝐖}{24})𝐖?
-\tan𝐖(\frac{11\pi𝐖}{24})
-\tan𝐖(x)
-T(x)𝐖=\tan𝐖(x)
-y𝐖=\tan𝐖(x)𝐖?
-y𝐖=\tan𝐖(x)𝐖?
-y𝐖=\tan𝐖(x)𝐖?
+\tan (x)
+T(x) =\tan (x) .
+x =\frac{11\pi}{24},
+y =T(\frac{11\pi}{24}) .
+\sin (\frac{11\pi}{24})
+\cos (\frac{11\pi}{24}) ?
+\tan (\frac{11\pi}{24})
+\tan (x)
+T(x) =\tan (x)
+y =\tan (x) ?
+y =\tan (x) ?
+y =\tan (x) ?
 t
-(1,𝐖0)
-(a,𝐖b)𝐖.
-\theta𝐖𝐖.
-\tan𝐖(t)𝐖=\frac{\sin𝐖(t)}{\cos𝐖(t)},𝐖
+(1, 0)
+(a, b) .
+\theta .
+\tan (t) =\frac{\sin (t)}{\cos (t)},
 t
-(a,𝐖b),𝐖
-\cos𝐖(t)𝐖=a
-\sin𝐖(t)𝐖=b,𝐖
-\tan𝐖(t)𝐖=\frac{\sin𝐖(t)}{\cos𝐖(t)}𝐖=\frac{b}{a}𝐖.
-\theta𝐖,𝐖
-\sin𝐖(\theta𝐖)𝐖=\frac{opp}{hyp}
-\cos𝐖(\theta𝐖)𝐖=\frac{adj}{hyp}𝐖.
-\sin𝐖(\theta𝐖)
-\cos𝐖(\theta𝐖)
-\tan𝐖(\theta𝐖)𝐖=\frac{\sin𝐖(\theta𝐖)}{\cos𝐖(\theta𝐖)}𝐖=\frac{\frac{opp}{hyp}}{\frac{adj}{hyp}}𝐖=\frac{opp}{adj}𝐖.
+(a, b),
+\cos (t) =a
+\sin (t) =b,
+\tan (t) =\frac{\sin (t)}{\cos (t)} =\frac{b}{a} .
+\theta,
+\sin (\theta) =\frac{opp}{hyp}
+\cos (\theta) =\frac{adj}{hyp} .
+\sin (\theta)
+\cos (\theta)
+\tan (\theta) =\frac{\sin (\theta)}{\cos (\theta)} =\frac{\frac{opp}{hyp}}{\frac{adj}{hyp}} =\frac{opp}{adj} .
 y
 x
-\tan𝐖(t)
+\tan (t)
 t
-\tan𝐖(\frac{\pi𝐖}{6})𝐖=\frac{\sin𝐖(\frac{\pi𝐖}{6})}{\cos𝐖(\frac{\pi𝐖}{6})}𝐖=\frac{\frac{1}{2}}{\frac{\sqrt{3}}{2}}𝐖=\frac{1}{\sqrt{3}}𝐖.
-\cos𝐖(t)𝐖=0,𝐖
-\tan𝐖(t)
+\tan (\frac{\pi}{6}) =\frac{\sin (\frac{\pi}{6})}{\cos (\frac{\pi}{6})} =\frac{\frac{1}{2}}{\frac{\sqrt{3}}{2}} =\frac{1}{\sqrt{3}} .
+\cos (t) =0,
+\tan (t)
 t
 0
-\frac{\pi𝐖}{6}
-\frac{\pi𝐖}{4}
-\frac{\pi𝐖}{3}
-\frac{\pi𝐖}{2}
-\frac{2\pi𝐖}{3}
-\frac{3\pi𝐖}{4}
-\frac{5\pi𝐖}{6}
-\pi𝐖
-\sin𝐖(t)
+\frac{\pi}{6}
+\frac{\pi}{4}
+\frac{\pi}{3}
+\frac{\pi}{2}
+\frac{2\pi}{3}
+\frac{3\pi}{4}
+\frac{5\pi}{6}
+\pi
+\sin (t)
 0
 \frac{1}{2}
 \frac{\sqrt{2}}{2}
@@ -4852,598 +4852,598 @@ t
 \frac{\sqrt{2}}{2}
 \frac{1}{2}
 0
-\cos𝐖(t)
+\cos (t)
 1
 \frac{\sqrt{3}}{2}
 \frac{\sqrt{2}}{2}
 \frac{1}{2}
 0
-𝐖-\frac{1}{2}
-𝐖-\frac{\sqrt{2}}{2}
-𝐖-\frac{\sqrt{3}}{2}
-𝐖-1
-\tan𝐖(t)
+-\frac{1}{2}
+-\frac{\sqrt{2}}{2}
+-\frac{\sqrt{3}}{2}
+-1
+\tan (t)
 0
 \frac{1}{\sqrt{3}}
 1
 \sqrt{3}
-𝐖-\sqrt{3}
-𝐖-1
-𝐖-\frac{1}{\sqrt{3}}
+-\sqrt{3}
+-1
+-\frac{1}{\sqrt{3}}
 0
 t
-\frac{7\pi𝐖}{6}
-\frac{5\pi𝐖}{4}
-\frac{4\pi𝐖}{3}
-\frac{3\pi𝐖}{2}
-\frac{5\pi𝐖}{3}
-\frac{7\pi𝐖}{4}
-\frac{11\pi𝐖}{6}
-2\pi𝐖
-\sin𝐖(t)
-𝐖-\frac{1}{2}
-𝐖-\frac{\sqrt{2}}{2}
-𝐖-\frac{\sqrt{3}}{2}
-𝐖-1
-𝐖-\frac{\sqrt{3}}{2}
-𝐖-\frac{\sqrt{2}}{2}
-𝐖-\frac{1}{2}
+\frac{7\pi}{6}
+\frac{5\pi}{4}
+\frac{4\pi}{3}
+\frac{3\pi}{2}
+\frac{5\pi}{3}
+\frac{7\pi}{4}
+\frac{11\pi}{6}
+2\pi
+\sin (t)
+-\frac{1}{2}
+-\frac{\sqrt{2}}{2}
+-\frac{\sqrt{3}}{2}
+-1
+-\frac{\sqrt{3}}{2}
+-\frac{\sqrt{2}}{2}
+-\frac{1}{2}
 0
-\cos𝐖(t)
-𝐖-\frac{\sqrt{3}}{2}
-𝐖-\frac{\sqrt{2}}{2}
-𝐖-\frac{1}{2}
+\cos (t)
+-\frac{\sqrt{3}}{2}
+-\frac{\sqrt{2}}{2}
+-\frac{1}{2}
 0
 \frac{1}{2}
 \frac{\sqrt{2}}{2}
 \frac{\sqrt{3}}{2}
 0
-\tan𝐖(t)
+\tan (t)
 \frac{1}{\sqrt{3}}
 1
 \sqrt{3}
-𝐖-\sqrt{3}
-𝐖-1
-𝐖-\frac{1}{\sqrt{3}}
+-\sqrt{3}
+-1
+-\frac{1}{\sqrt{3}}
 0
-\tan𝐖(t)
+\tan (t)
 t
-\frac{\pi𝐖}{2},𝐖
-\sin𝐖(t)
-1,𝐖
-\cos𝐖(t)
+\frac{\pi}{2},
+\sin (t)
+1,
+\cos (t)
 0
-\frac{\pi𝐖}{2}𝐖\approx𝐖1.57,𝐖
-\tan𝐖(1.47)𝐖=\frac{\sin𝐖(1.47)}{\cos𝐖(1.47)}𝐖\approx𝐖\frac{0.995}{0.101}𝐖=9.887
-\tan𝐖(1.56)𝐖=\frac{\sin𝐖(1.56)}{\cos𝐖(1.56)}𝐖\approx𝐖\frac{0.9994}{0.0108}𝐖=92.6205𝐖.
+\frac{\pi}{2} \approx 1.57,
+\tan (1.47) =\frac{\sin (1.47)}{\cos (1.47)} \approx \frac{0.995}{0.101} =9.887
+\tan (1.56) =\frac{\sin (1.56)}{\cos (1.56)} \approx \frac{0.9994}{0.0108} =92.6205 .
 1
 0
-\tan𝐖(t)
+\tan (t)
 t
-\frac{\pi𝐖}{2}
+\frac{\pi}{2}
 t
-\frac{\pi𝐖}{2}
-\sin𝐖(t)
-1,𝐖
-\cos𝐖(t)
-\cos𝐖(1.58)𝐖\approx𝐖𝐖-0.0092𝐖.
-\tan𝐖(t)
+\frac{\pi}{2}
+\sin (t)
+1,
+\cos (t)
+\cos (1.58) \approx -0.0092 .
+\tan (t)
 0
 t
-\frac{\pi𝐖}{2}
-h(t)𝐖=\tan𝐖(t)
-t𝐖=\frac{\pi𝐖}{2}𝐖.
-\sin𝐖(t)
-\cos𝐖(t)
-P𝐖=\pi𝐖
-h(t)𝐖=\tan𝐖(t),𝐖
-t𝐖=\frac{\pi𝐖}{2}𝐖\pm𝐖k\pi𝐖
+\frac{\pi}{2}
+h(t) =\tan (t)
+t =\frac{\pi}{2} .
+\sin (t)
+\cos (t)
+P =\pi
+h(t) =\tan (t),
+t =\frac{\pi}{2} \pm k\pi
 k
-P𝐖=\pi𝐖;𝐖
-w,𝐖
-\tan𝐖(\theta𝐖)𝐖=\frac{opp}{adj}
-\tan𝐖(56.4\circ)𝐖=\frac{w}{50}
-w𝐖=50\tan𝐖(56.4)
-w𝐖\approx𝐖75.256𝐖.
+P =\pi;
+w,
+\tan (\theta) =\frac{opp}{adj}
+\tan (56.4\circ) =\frac{w}{50}
+w =50\tan (56.4)
+w \approx 75.256 .
 P
-A,𝐖
+A,
 6
 225
 32.5\circ
-1𝐖\colon𝐖10,𝐖
-1𝐖\colon𝐖24𝐖.
+1 \colon 10,
+1 \colon 24 .
 635
-s,𝐖
-d,𝐖
-19\circ𝐖.
+s,
+d,
+19\circ .
 1000
-25\circ,𝐖
+25\circ,
 h
 x
 25\circ
 x
-h𝐖.
+h .
 19\circ
 x
-h𝐖.
+h .
 x
-h𝐖.
+h .
 h
-x𝐖.
+x .
 x
 3
 h
 3
 78
-\tan𝐖(t)𝐖=\frac{\sin𝐖(t)}{\cos𝐖(t)}
+\tan (t) =\frac{\sin (t)}{\cos (t)}
 t
-\cos𝐖(t)𝐖\not=𝐖0𝐖.
-\cos𝐖(t)𝐖=0,𝐖
-\frac{\sin𝐖(t)}{\cos𝐖(t)}
-P𝐖=2\pi𝐖,𝐖
-P𝐖=\pi𝐖
-\alpha𝐖,𝐖
-\tan𝐖(\alpha𝐖)𝐖=\frac{opp}{adj}
+\cos (t) \not= 0 .
+\cos (t) =0,
+\frac{\sin (t)}{\cos (t)}
+P =2\pi,
+P =\pi
+\alpha,
+\tan (\alpha) =\frac{opp}{adj}
 t
-\sin𝐖(t)𝐖\lt𝐖0
-\cos𝐖(t)𝐖\lt𝐖0,𝐖
-\sin𝐖(t)𝐖>0
-\cos𝐖(t)𝐖\lt𝐖0,𝐖
-\sin𝐖(t)𝐖>0
-\cos𝐖(t)𝐖>0,𝐖
-\sin𝐖(t)𝐖\lt𝐖0
-\cos𝐖(t)𝐖>0,𝐖
-BC𝐖=6
-\alpha𝐖𝐖=65\circ,𝐖
-\beta𝐖
-AC𝐖=7
-\beta𝐖𝐖=45\circ,𝐖
-\alpha𝐖
-\cos𝐖(\phi𝐖)𝐖=0.8347
-3\pi𝐖/2𝐖\le𝐖\phi𝐖𝐖\le𝐖2\pi𝐖,𝐖
-\sin𝐖(\phi𝐖)
-\tan𝐖(\phi𝐖)
-\sin𝐖\theta𝐖𝐖=\frac{x}{8}
-\theta𝐖
-\cos𝐖(\theta𝐖)
-\tan𝐖(\theta𝐖)
-x𝐖.
-\cos𝐖(\theta𝐖)
-\tan𝐖(\theta𝐖)
+\sin (t) \lt 0
+\cos (t) \lt 0,
+\sin (t) >0
+\cos (t) \lt 0,
+\sin (t) >0
+\cos (t) >0,
+\sin (t) \lt 0
+\cos (t) >0,
+BC =6
+\alpha =65\circ,
+\beta
+AC =7
+\beta =45\circ,
+\alpha
+\cos (\phi) =0.8347
+3\pi /2 \le \phi \le 2\pi,
+\sin (\phi)
+\tan (\phi)
+\sin \theta =\frac{x}{8}
+\theta
+\cos (\theta)
+\tan (\theta)
+x .
+\cos (\theta)
+\tan (\theta)
 t
-0𝐖\le𝐖t𝐖\le𝐖2\pi𝐖𝐖.
-\sin𝐖(t)𝐖=\frac{\sqrt{2}}{2}
-t𝐖=
-\cos𝐖(t)𝐖=𝐖-\frac{\sqrt{2}}{2}
-t𝐖=
-\tan𝐖(t)𝐖=𝐖-\frac{1}{\sqrt{3}}
-t𝐖=
-4\circ𝐖.
+0 \le t \le 2\pi .
+\sin (t) =\frac{\sqrt{2}}{2}
+t =
+\cos (t) = -\frac{\sqrt{2}}{2}
+t =
+\tan (t) = -\frac{1}{\sqrt{3}}
+t =
+4\circ .
 3
 170
-40\circ𝐖.
-50\circ𝐖.
+40\circ .
+50\circ .
 2400
-36\circ;𝐖
+36\circ;
 2
-41\circ𝐖.
-f(t)𝐖=ab^t𝐖
+41\circ .
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-\infty𝐖
-e^x𝐖,𝐖
-\ln𝐖(x),𝐖
-x^2𝐖,𝐖
-\frac{1}{x}𝐖?
-p(t)𝐖=2^t𝐖
-q(t)𝐖=(\frac{1}{2})^t𝐖,𝐖
+f(t) =b^t
+\infty
+e^x,
+\ln (x),
+x^2,
+\frac{1}{x} ?
+p(t) =2^t
+q(t) =(\frac{1}{2})^t,
 t
 p(t)
 q(t)
 0
-p(t)𝐖\to𝐖\infty𝐖\~as\~t𝐖\to𝐖\infty𝐖
-q(t)𝐖\to𝐖0\~as\~t𝐖\to𝐖\infty𝐖𝐖.
-\infty𝐖
-F(t)𝐖=72𝐖-45e^{𝐖-0.05t}𝐖,𝐖
-F(t)𝐖\to𝐖72
-t𝐖\to𝐖\infty𝐖,𝐖
-e^{𝐖-0.05t}𝐖𝐖\to𝐖0
+p(t) \to \infty \~as\~t \to \infty
+q(t) \to 0\~as\~t \to \infty .
+\infty
+F(t) =72 -45e^{ -0.05t},
+F(t) \to 72
+t \to \infty,
+e^{ -0.05t} \to 0
 t
 F
-F(0)𝐖=72𝐖-45𝐖=27
+F(0) =72 -45 =27
 72
-y𝐖=72
-F𝐖.
-\infty𝐖𝐖.
-\infty𝐖
-𝐖-\infty𝐖𝐖.
-t𝐖\to𝐖\infty𝐖,𝐖
-e^{𝐖-t}𝐖𝐖\to𝐖
-t𝐖\to𝐖\infty𝐖,𝐖
-\ln𝐖(t)𝐖\to𝐖
-t𝐖\to𝐖\infty𝐖,𝐖
-e^t𝐖𝐖\to𝐖
-t𝐖\to𝐖0^+𝐖,𝐖
-e^{𝐖-t}𝐖𝐖\to𝐖
-t𝐖\to𝐖0^+𝐖,𝐖
+y =72
+F .
+\infty .
+\infty
+-\infty .
+t \to \infty,
+e^{ -t} \to
+t \to \infty,
+\ln (t) \to
+t \to \infty,
+e^t \to
+t \to 0^+,
+e^{ -t} \to
+t \to 0^+,
 t
-0,𝐖
+0,
 t
-t𝐖\to𝐖\infty𝐖,𝐖
-35𝐖+53e^{𝐖-0.025t}𝐖𝐖\to𝐖
-t𝐖\to𝐖\frac{\pi𝐖}{2}^-𝐖,𝐖
-\tan𝐖(t)𝐖\to𝐖
-t𝐖\to𝐖\frac{\pi𝐖}{2}^-𝐖,𝐖
+t \to \infty,
+35 +53e^{ -0.025t} \to
+t \to \frac{\pi}{2}^-,
+\tan (t) \to
+t \to \frac{\pi}{2}^-,
 t
-\frac{\pi𝐖}{2}^-𝐖,𝐖
+\frac{\pi}{2}^-,
 t
-\frac{\pi𝐖}{2}𝐖.
-t𝐖\to𝐖\frac{\pi𝐖}{2}^+𝐖,𝐖
-\tan𝐖(t)𝐖\to𝐖
-t𝐖\to𝐖\frac{\pi𝐖}{2}^+𝐖,𝐖
+\frac{\pi}{2} .
+t \to \frac{\pi}{2}^+,
+\tan (t) \to
+t \to \frac{\pi}{2}^+,
 t
-\frac{\pi𝐖}{2}^+𝐖,𝐖
+\frac{\pi}{2}^+,
 t
-\frac{\pi𝐖}{2}𝐖.
-t𝐖\to𝐖\infty𝐖,𝐖
-e^{𝐖-t}𝐖𝐖\to𝐖0,𝐖
+\frac{\pi}{2} .
+t \to \infty,
+e^{ -t} \to 0,
 t
-e^{𝐖-t}𝐖
+e^{ -t}
 0
-e^{𝐖-t}𝐖
-0,𝐖
-e^{𝐖-t}𝐖
-y𝐖=e^t𝐖
-y𝐖=e^{𝐖-t}𝐖𝐖.
-y𝐖=e^t𝐖
-y𝐖=\ln𝐖(t)𝐖.
-e^t𝐖𝐖\to𝐖\infty𝐖
-t𝐖\to𝐖\infty𝐖,𝐖
-\ln𝐖(t)𝐖\to𝐖\infty𝐖
-t𝐖\to𝐖\infty𝐖,𝐖
-\ln𝐖(t)𝐖\to𝐖𝐖-\infty𝐖
-t𝐖\to𝐖0^+𝐖𝐖.
+e^{ -t}
+0,
+e^{ -t}
+y =e^t
+y =e^{ -t} .
+y =e^t
+y =\ln (t) .
+e^t \to \infty
+t \to \infty,
+\ln (t) \to \infty
+t \to \infty,
+\ln (t) \to -\infty
+t \to 0^+ .
 L
 f
 f(t)
 L
 t
-\lim𝐖_{t𝐖\to𝐖\infty𝐖}𝐖f(t)𝐖=L
+\lim_{t \to \infty} f(t) =L
 f
 t
 L
 f(t)
 t
-\lim𝐖_{t𝐖\to𝐖\infty𝐖}𝐖f(t)𝐖=\infty𝐖𝐖.
+\lim_{t \to \infty} f(t) =\infty .
 f
 L
-t𝐖\to𝐖\infty𝐖,𝐖
+t \to \infty,
 f
-t𝐖\to𝐖\infty𝐖
-t𝐖\to𝐖𝐖-\infty𝐖
+t \to \infty
+t \to -\infty
 t
-f(t)𝐖\to𝐖𝐖-\infty𝐖
+f(t) \to -\infty
 f
 t
 a
 f
-\lim𝐖_{t𝐖\to𝐖0^+𝐖}𝐖\ln𝐖(t)𝐖=𝐖-\infty𝐖
+\lim_{t \to 0^+} \ln (t) = -\infty
 0
-\lim𝐖_{t𝐖\to𝐖\infty𝐖}𝐖f(t)𝐖=L,𝐖
+\lim_{t \to \infty} f(t) =L,
 f
-y𝐖=L
+y =L
 t
-\lim𝐖_{t𝐖\to𝐖a}𝐖f(t)𝐖=\infty𝐖,𝐖
+\lim_{t \to a} f(t) =\infty,
 f
-x𝐖=a
-a𝐖.
+x =a
+a .
 t
 x
-\infty𝐖,𝐖
-𝐖-\infty𝐖,𝐖
-0,𝐖
+\infty,
+-\infty,
+0,
 x
-x𝐖\to𝐖\infty𝐖
-x𝐖\to𝐖𝐖-\infty𝐖𝐖.
+x \to \infty
+x \to -\infty .
 f(x)
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖f(x)
-\lim𝐖_{x𝐖\to𝐖𝐖-\infty𝐖}𝐖f(x)
-e^x𝐖
-e^{𝐖-x}𝐖
-\ln𝐖(x)
+\lim_{x \to \infty} f(x)
+\lim_{x \to -\infty} f(x)
+e^x
+e^{ -x}
+\ln (x)
 x
-x^2𝐖
-x^3𝐖
-x^4𝐖
+x^2
+x^3
+x^4
 \frac{1}{x}
-\frac{1}{x^2𝐖}
-\sin𝐖(x)
-y𝐖=mx𝐖+b,𝐖
-y𝐖=ax^2𝐖𝐖+bx𝐖+c,𝐖
-y𝐖=a\sin𝐖(k(x𝐖-b))𝐖+c
-y𝐖=a\cos𝐖(k(x𝐖-b))𝐖+c,𝐖
-y𝐖=ae^{kx}𝐖𝐖+c,𝐖
-y𝐖=a\ln𝐖(x)𝐖+c𝐖.
-\sin𝐖(x),𝐖
-\cos𝐖(x),𝐖
-e^x𝐖,𝐖
-\ln𝐖(x)𝐖.
-x,𝐖
-x^2𝐖,𝐖
-x𝐖.
-f(x)𝐖=x^p𝐖
+\frac{1}{x^2}
+\sin (x)
+y =mx +b,
+y =ax^2 +bx +c,
+y =a\sin (k(x -b)) +c
+y =a\cos (k(x -b)) +c,
+y =ae^{kx} +c,
+y =a\ln (x) +c .
+\sin (x),
+\cos (x),
+e^x,
+\ln (x) .
+x,
+x^2,
+x .
+f(x) =x^p
 p
 p
-y𝐖=x^n𝐖
-n𝐖\ge𝐖1𝐖.
-n𝐖.
-y𝐖=x,𝐖
-y𝐖=x^2𝐖,𝐖
-\ldots𝐖,𝐖
-y𝐖=x^8𝐖
-0𝐖\lt𝐖x𝐖\lt𝐖1,𝐖
-x^a𝐖
-x^b𝐖
-a𝐖\lt𝐖b𝐖?
-𝐖-10𝐖\le𝐖x𝐖\le𝐖10
-𝐖-10,000𝐖\le𝐖y𝐖\le𝐖10,000𝐖.
-y𝐖=x,𝐖
-y𝐖=x^2𝐖,𝐖
-\ldots𝐖,𝐖
-y𝐖=x^8𝐖
-x𝐖>1,𝐖
-x^a𝐖
-x^b𝐖
-a𝐖\lt𝐖b𝐖?
+y =x^n
+n \ge 1 .
+n .
+y =x,
+y =x^2,
+\ldots,
+y =x^8
+0 \lt x \lt 1,
+x^a
+x^b
+a \lt b ?
+-10 \le x \le 10
+-10,000 \le y \le 10,000 .
+y =x,
+y =x^2,
+\ldots,
+y =x^8
+x >1,
+x^a
+x^b
+a \lt b ?
 p
-x^{𝐖-n}𝐖𝐖=\frac{1}{x^n𝐖}
-p(x)𝐖=x^{𝐖-2}𝐖,𝐖
-p(x)𝐖=\frac{1}{x^2𝐖}𝐖.
-x𝐖=0𝐖.
+x^{ -n} =\frac{1}{x^n}
+p(x) =x^{ -2},
+p(x) =\frac{1}{x^2} .
+x =0 .
 x
-x𝐖=0𝐖.
-y𝐖=x^n𝐖
-n𝐖\le𝐖𝐖-1𝐖.
-n𝐖.
-y𝐖=x^{𝐖-1}𝐖,𝐖
-y𝐖=x^{𝐖-2}𝐖,𝐖
-\ldots𝐖,𝐖
-y𝐖=x^{𝐖-8}𝐖
-1𝐖\lt𝐖x,𝐖
-x^a𝐖
-x^b𝐖
-a𝐖\lt𝐖b𝐖?
-𝐖-3𝐖\lt𝐖𝐖-2𝐖.
-0𝐖\lt𝐖x𝐖\lt𝐖1𝐖?
-𝐖-10𝐖\le𝐖x𝐖\le𝐖10
-𝐖-10,000𝐖\le𝐖y𝐖\le𝐖10,000𝐖.
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖\frac{1}{x^n𝐖}𝐖=0
-n𝐖=1,𝐖2,𝐖\ldots𝐖𝐖.
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖f(x)𝐖=L
+x =0 .
+y =x^n
+n \le -1 .
+n .
+y =x^{ -1},
+y =x^{ -2},
+\ldots,
+y =x^{ -8}
+1 \lt x,
+x^a
+x^b
+a \lt b ?
+-3 \lt -2 .
+0 \lt x \lt 1 ?
+-10 \le x \le 10
+-10,000 \le y \le 10,000 .
+\lim_{x \to \infty} \frac{1}{x^n} =0
+n =1, 2, \ldots .
+\lim_{x \to \infty} f(x) =L
 f(x)
 L
 x
 f
-y𝐖=L
-f𝐖.
-\lim𝐖_{x𝐖\to𝐖a}𝐖f(x)𝐖=\infty𝐖
+y =L
+f .
+\lim_{x \to a} f(x) =\infty
 f(x)
 x
-a𝐖.
+a .
 f
 a
 f
-x𝐖=a𝐖.
+x =a .
 x
-x𝐖\to𝐖\infty𝐖
-x𝐖\to𝐖𝐖-\infty𝐖𝐖.
+x \to \infty
+x \to -\infty .
 f(x)
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖f(x)
-\lim𝐖_{x𝐖\to𝐖𝐖-\infty𝐖}𝐖f(x)
-e^x𝐖
-\infty𝐖
+\lim_{x \to \infty} f(x)
+\lim_{x \to -\infty} f(x)
+e^x
+\infty
 0
-e^{𝐖-x}𝐖
+e^{ -x}
 0
-\infty𝐖
-\ln𝐖(x)
-\infty𝐖
+\infty
+\ln (x)
+\infty
 x
-\infty𝐖
-𝐖-\infty𝐖
-x^2𝐖
-\infty𝐖
-\infty𝐖
-x^3𝐖
-\infty𝐖
-𝐖-\infty𝐖
-x^4𝐖
-\infty𝐖
-\infty𝐖
+\infty
+-\infty
+x^2
+\infty
+\infty
+x^3
+\infty
+-\infty
+x^4
+\infty
+\infty
 \frac{1}{x}
 0
 0
-\frac{1}{x^2𝐖}
+\frac{1}{x^2}
 0
 0
-\sin𝐖(x)
-𝐖-1
+\sin (x)
+-1
 1
-x𝐖\to𝐖\infty𝐖𝐖.
+x \to \infty .
 x
-\infty𝐖
-x𝐖\to𝐖a
+\infty
+x \to a
 a
 f(x)
-\lim𝐖_{x𝐖\to𝐖a^-𝐖}𝐖f(x)
-\lim𝐖_{x𝐖\to𝐖a^+𝐖}𝐖f(x)
-\ln𝐖(x)
-\lim𝐖_{x𝐖\to𝐖0^+𝐖}𝐖\ln𝐖(x)𝐖=𝐖-\infty𝐖
+\lim_{x \to a^-} f(x)
+\lim_{x \to a^+} f(x)
+\ln (x)
+\lim_{x \to 0^+} \ln (x) = -\infty
 \frac{1}{x}
-\lim𝐖_{x𝐖\to𝐖0^-𝐖}𝐖\frac{1}{x}𝐖=𝐖-\infty𝐖
-\lim𝐖_{x𝐖\to𝐖0^+𝐖}𝐖\frac{1}{x}𝐖=\infty𝐖
-\frac{1}{x^2𝐖}
-\lim𝐖_{x𝐖\to𝐖0^-𝐖}𝐖\frac{1}{x^2𝐖}𝐖=\infty𝐖
-\lim𝐖_{x𝐖\to𝐖0^+𝐖}𝐖\frac{1}{x^2𝐖}𝐖=\infty𝐖
-\tan𝐖(x)
-\lim𝐖_{x𝐖\to𝐖\frac{\pi𝐖}{2}^-𝐖}𝐖\tan𝐖(x)𝐖=\infty𝐖
-\lim𝐖_{x𝐖\to𝐖\frac{\pi𝐖}{2}^+𝐖}𝐖\tan𝐖(x)𝐖=𝐖-\infty𝐖
-\sec𝐖(x)
-\lim𝐖_{x𝐖\to𝐖\frac{\pi𝐖}{2}^-𝐖}𝐖\sec𝐖(x)𝐖=\infty𝐖
-\lim𝐖_{x𝐖\to𝐖\frac{\pi𝐖}{2}^+𝐖}𝐖\sec𝐖(x)𝐖=𝐖-\infty𝐖
-\csc𝐖(x)
-\lim𝐖_{x𝐖\to𝐖0^-𝐖}𝐖\csc𝐖(x)𝐖=𝐖-\infty𝐖
-\lim𝐖_{x𝐖\to𝐖0^+𝐖}𝐖\csc𝐖(x)𝐖=\infty𝐖
-f(x)𝐖=x^p𝐖
+\lim_{x \to 0^-} \frac{1}{x} = -\infty
+\lim_{x \to 0^+} \frac{1}{x} =\infty
+\frac{1}{x^2}
+\lim_{x \to 0^-} \frac{1}{x^2} =\infty
+\lim_{x \to 0^+} \frac{1}{x^2} =\infty
+\tan (x)
+\lim_{x \to \frac{\pi}{2}^-} \tan (x) =\infty
+\lim_{x \to \frac{\pi}{2}^+} \tan (x) = -\infty
+\sec (x)
+\lim_{x \to \frac{\pi}{2}^-} \sec (x) =\infty
+\lim_{x \to \frac{\pi}{2}^+} \sec (x) = -\infty
+\csc (x)
+\lim_{x \to 0^-} \csc (x) = -\infty
+\lim_{x \to 0^+} \csc (x) =\infty
+f(x) =x^p
 p
 p
-p𝐖=1,𝐖2,𝐖3,𝐖\ldots𝐖,𝐖
-f(x)𝐖=x^p𝐖
-x𝐖\to𝐖\infty𝐖,𝐖
-f(x)𝐖\to𝐖\infty𝐖𝐖.
-x𝐖\to𝐖𝐖-\infty𝐖,𝐖
+p =1, 2, 3, \ldots,
+f(x) =x^p
+x \to \infty,
+f(x) \to \infty .
+x \to -\infty,
 p
 p
-f(x)𝐖\to𝐖\infty𝐖
-x𝐖\to𝐖𝐖-\infty𝐖;𝐖
+f(x) \to \infty
+x \to -\infty;
 p
-f(x)𝐖\to𝐖𝐖-\infty𝐖
-x𝐖\to𝐖𝐖-\infty𝐖𝐖.
-f(x)𝐖=x^p𝐖
+f(x) \to -\infty
+x \to -\infty .
+f(x) =x^p
 p
-f(x)𝐖=x^p𝐖
+f(x) =x^p
 p
-p𝐖=𝐖-1,𝐖𝐖-2,𝐖𝐖-3,𝐖\ldots𝐖,𝐖
-f(x)𝐖=x^p𝐖
-x𝐖=0,𝐖
-x𝐖\to𝐖𝐖\pm𝐖\infty𝐖,𝐖
-f(x)𝐖\to𝐖0𝐖.
-y𝐖=0𝐖.
+p = -1, -2, -3, \ldots,
+f(x) =x^p
+x =0,
+x \to \pm \infty,
+f(x) \to 0 .
+y =0 .
 p
-p𝐖=𝐖-1,𝐖𝐖-2,𝐖𝐖-3,𝐖\ldots𝐖
-\lim𝐖_{x𝐖\to𝐖0^+𝐖}𝐖f(x)𝐖=\infty𝐖𝐖.
+p = -1, -2, -3, \ldots
+\lim_{x \to 0^+} f(x) =\infty .
 0
 p
 p
-f(x)𝐖\to𝐖\infty𝐖
-x𝐖\to𝐖0^-𝐖;𝐖
+f(x) \to \infty
+x \to 0^-;
 p
-f(x)𝐖\to𝐖𝐖-\infty𝐖
-x𝐖\to𝐖0^-𝐖𝐖.
-f(x)𝐖=x^p𝐖
+f(x) \to -\infty
+x \to 0^- .
+f(x) =x^p
 p
-\frac{1}{x},𝐖
-f(x)𝐖=x^p𝐖
+\frac{1}{x},
+f(x) =x^p
 p
-\frac{1}{x^2𝐖}𝐖.
-\infty𝐖
-𝐖-\infty𝐖,𝐖
-x𝐖\to𝐖𝐖-\infty𝐖,𝐖
-𝐖-6x^{𝐖-3}𝐖𝐖\to𝐖
-x𝐖\to𝐖\infty𝐖,𝐖
-(14𝐖-6x^3𝐖)𝐖\to𝐖
-\underset{t𝐖\to𝐖𝐖-\infty𝐖}{\lim𝐖}(\frac{1}{t^2𝐖}𝐖+3)𝐖=
-\infty𝐖
-𝐖-\infty𝐖𝐖.
-\underset{t𝐖\to𝐖\infty𝐖}{\lim𝐖}3\frac{1}{y}𝐖=
-\infty𝐖
-𝐖-\infty𝐖𝐖.
-g(x)𝐖=\frac{(𝐖-x^3𝐖)^5𝐖}{9}
-g(x)𝐖=kx^p𝐖
+\frac{1}{x^2} .
+\infty
+-\infty,
+x \to -\infty,
+-6x^{ -3} \to
+x \to \infty,
+(14 -6x^3) \to
+\underset{t \to -\infty}{\lim}(\frac{1}{t^2} +3) =
+\infty
+-\infty .
+\underset{t \to \infty}{\lim}3\frac{1}{y} =
+\infty
+-\infty .
+g(x) =\frac{( -x^3)^5}{9}
+g(x) =kx^p
 k
-p𝐖.
-k𝐖=
-p𝐖=
-x𝐖\to𝐖\infty𝐖,𝐖
-f(x)𝐖=\ln𝐖(x),𝐖
-g(x)𝐖=x^2𝐖,𝐖
-h(x)𝐖=e^x𝐖𝐖.
-f(10),𝐖
-g(10),𝐖
-h(10),𝐖
-f(100),𝐖
-g(100),𝐖
-h(100)𝐖.
-f,𝐖
-g,𝐖
-h,𝐖
-10^{10}𝐖𝐖?
-r(x)𝐖=\frac{g(x)}{h(x)}𝐖=\frac{x^2𝐖}{e^x𝐖}𝐖.
-r(10),𝐖
-r(100),𝐖
-r(1000)𝐖.
-r𝐖?
-x^2𝐖
-e^x𝐖
-f(x)𝐖=\frac{1}{x},𝐖
-x𝐖=0
-y𝐖=0,𝐖
+p .
+k =
+p =
+x \to \infty,
+f(x) =\ln (x),
+g(x) =x^2,
+h(x) =e^x .
+f(10),
+g(10),
+h(10),
+f(100),
+g(100),
+h(100) .
+f,
+g,
+h,
+10^{10} ?
+r(x) =\frac{g(x)}{h(x)} =\frac{x^2}{e^x} .
+r(10),
+r(100),
+r(1000) .
+r ?
+x^2
+e^x
+f(x) =\frac{1}{x},
+x =0
+y =0,
 g
-x𝐖=𝐖-1
-y𝐖=𝐖-2𝐖.
-y𝐖=f(x)𝐖=\frac{1}{x}𝐖.
-y𝐖=g(x)𝐖.
+x = -1
+y = -2 .
+y =f(x) =\frac{1}{x} .
+y =g(x) .
 g
-f𝐖?
+f ?
 g
-f𝐖.
+f .
 g
-x𝐖.
-g𝐖?
+x .
+g ?
 g
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖g(x)𝐖=𝐖-2
-\lim𝐖_{x𝐖\to𝐖𝐖-1^+𝐖}𝐖g(x)𝐖=\infty𝐖𝐖.
+\lim_{x \to \infty} g(x) = -2
+\lim_{x \to -1^+} g(x) =\infty .
 h
 f
-x𝐖=5
-y𝐖=10𝐖.
-h(x)𝐖?
-r(x)𝐖=\frac{1}{x𝐖+35}𝐖-27𝐖.
+x =5
+y =10 .
+h(x) ?
+r(x) =\frac{1}{x +35} -27 .
 r
-f(x)𝐖=x^{2.4}𝐖,𝐖
-g(x)𝐖=x^{2.5}𝐖,𝐖
-h(x)𝐖=x^{2.6}𝐖𝐖.
-f,𝐖
-g,𝐖
-h𝐖.
-f(x)𝐖=x^{2.4}𝐖
-f(x)𝐖=x^{24/10}𝐖𝐖=x^{12/5}𝐖𝐖.
+f(x) =x^{2.4},
+g(x) =x^{2.5},
+h(x) =x^{2.6} .
+f,
+g,
+h .
+f(x) =x^{2.4}
+f(x) =x^{24/10} =x^{12/5} .
 f
-f(x)𝐖=\sqrt[5]{x^{12}𝐖}𝐖.
+f(x) =\sqrt[5]{x^{12}} .
 g
 h
 g
 f
-h𝐖.
-f,𝐖
-g,𝐖
+h .
+f,
+g,
 h
-y𝐖=x^2𝐖
-y𝐖=x^3𝐖𝐖?
-p(x)𝐖=x^{𝐖-2.4}𝐖,𝐖
-q(x)𝐖=x^{𝐖-2.5}𝐖,𝐖
-r(x)𝐖=x^{𝐖-2.6}𝐖𝐖.
-f(t)𝐖=ab^t𝐖
+y =x^2
+y =x^3 ?
+p(x) =x^{ -2.4},
+q(x) =x^{ -2.5},
+r(x) =x^{ -2.6} .
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t
 0
 e
 y
@@ -5451,171 +5451,171 @@ y
 b
 e
 n
-f(t)𝐖=ab^t𝐖
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-\sqrt{2},𝐖
-1.414𝐖.
-e^{𝐖-1}𝐖,𝐖
-\cos𝐖(2),𝐖
-\ln𝐖(7)
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+\sqrt{2},
+1.414 .
+e^{ -1},
+\cos (2),
+\ln (7)
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t
 4
-V,𝐖
-h,𝐖
-V𝐖=f(h)𝐖=\frac{\pi𝐖}{3}h^2𝐖(12𝐖-h)𝐖.
+V,
+h,
+V =f(h) =\frac{\pi}{3}h^2 (12 -h) .
 f
 3
-h𝐖=0
-h𝐖=12𝐖.
-4,𝐖
-8,𝐖
-V𝐖=f(h)𝐖=\frac{\pi𝐖}{3}h^2𝐖(12𝐖-h)
-0𝐖\le𝐖h𝐖\le𝐖8𝐖.
+h =0
+h =12 .
+4,
+8,
+V =f(h) =\frac{\pi}{3}h^2 (12 -h)
+0 \le h \le 8 .
 h
-12𝐖\times𝐖18
+12 \times 18
 x
 V
-x𝐖\times𝐖x
-V𝐖?
+x \times x
+V ?
 x
 x
-x𝐖\times𝐖x
-V𝐖?
+x \times x
+V ?
 V
-l,𝐖
-w,𝐖
+l,
+w,
 h
-(5.3.1)𝐖&𝐖V𝐖=lwh𝐖.
+(5.3.1) & V =lwh .
 r
 h
-(5.3.2)𝐖&𝐖V𝐖=\pi𝐖r^2𝐖h
-\pi𝐖r^2𝐖𝐖.
-l,𝐖
-w,𝐖
-h,𝐖
+(5.3.2) & V =\pi r^2 h
+\pi r^2 .
+l,
+w,
+h,
 3
-lw,𝐖
-lh,𝐖
-wh𝐖.
-(5.3.3)𝐖&𝐖SA𝐖=2lw𝐖+2lh𝐖+2wh𝐖.
-\pi𝐖r^2𝐖
-h,𝐖
-2\pi𝐖r𝐖.
-2\pi𝐖r𝐖\cdot𝐖h,𝐖
-(5.3.4)𝐖&𝐖SA𝐖=2\pi𝐖r^2𝐖𝐖+2\pi𝐖rh𝐖.
+lw,
+lh,
+wh .
+(5.3.3) & SA =2lw +2lh +2wh .
+\pi r^2
+h,
+2\pi r .
+2\pi r \cdot h,
+(5.3.4) & SA =2\pi r^2 +2\pi rh .
 120
 x
-y,𝐖
+y,
 x
 y
 120
 x
-y𝐖?
-V,𝐖
+y ?
+V,
 V
 x
 y
-0𝐖.
+0 .
 60
 r
-h𝐖.
+h .
 60
 r
-h𝐖.
+h .
 h
-r𝐖.
-V𝐖=\pi𝐖r^2𝐖h𝐖.
+r .
+V =\pi r^2 h .
 V
-r;𝐖
+r;
 V
-r𝐖?
-(x(t),𝐖y(t)),𝐖
-x(t)𝐖=(1𝐖-t)^3𝐖x_0𝐖𝐖+3(1𝐖-t)^2𝐖tx_1𝐖𝐖+3(1𝐖-t)t^2𝐖x_2𝐖𝐖+t^3𝐖x_3𝐖
-y(t)𝐖=(1𝐖-t)^3𝐖y_0𝐖𝐖+3(1𝐖-t)^2𝐖ty_1𝐖𝐖+3(1𝐖-t)t^2𝐖y_2𝐖𝐖+t^3𝐖y_3𝐖𝐖.
-A𝐖=(x_0𝐖,𝐖y_0𝐖)
-B𝐖=(x_3𝐖,𝐖y_3𝐖)
-C𝐖=(x_1𝐖,𝐖y_1𝐖)
-D𝐖=(x_2𝐖,𝐖y_2𝐖)
-(1𝐖-t)^3𝐖,𝐖3(1𝐖-t)^2𝐖t,𝐖3(1𝐖-t)t^2𝐖,𝐖\~and\~t^3𝐖𝐖.
-f(t)𝐖=\sin𝐖(t)𝐖\colon𝐖
+r ?
+(x(t), y(t)),
+x(t) =(1 -t)^3 x_0 +3(1 -t)^2 tx_1 +3(1 -t)t^2 x_2 +t^3 x_3
+y(t) =(1 -t)^3 y_0 +3(1 -t)^2 ty_1 +3(1 -t)t^2 y_2 +t^3 y_3 .
+A =(x_0, y_0)
+B =(x_3, y_3)
+C =(x_1, y_1)
+D =(x_2, y_2)
+(1 -t)^3, 3(1 -t)^2 t, 3(1 -t)t^2, \~and\~t^3 .
+f(t) =\sin (t) \colon
 t
-\sin𝐖(t)
+\sin (t)
 y
-t,𝐖
-\sin𝐖(t)𝐖.
-\sin𝐖(\frac{\pi𝐖}{3})𝐖=\frac{\sqrt{3}}{2}𝐖.
-\sin𝐖(t)𝐖.
-\sin𝐖(1.35)𝐖.
-T_1𝐖(x),𝐖
-T_3𝐖(x),𝐖
-T_5𝐖(x),𝐖
-T_7𝐖(x),𝐖
-\ldots𝐖𝐖.
+t,
+\sin (t) .
+\sin (\frac{\pi}{3}) =\frac{\sqrt{3}}{2} .
+\sin (t) .
+\sin (1.35) .
+T_1 (x),
+T_3 (x),
+T_5 (x),
+T_7 (x),
+\ldots .
 x
-\sin𝐖(x)𝐖\approx𝐖T_1𝐖(x)𝐖?
+\sin (x) \approx T_1 (x) ?
 x
-\sin𝐖(x)𝐖\approx𝐖T_3𝐖(x)𝐖?
+\sin (x) \approx T_3 (x) ?
 x
-\sin𝐖(x)𝐖\approx𝐖T_5𝐖(x)𝐖?
-T_{19}𝐖(x)𝐖?
-y𝐖=\cos𝐖(x)
-P_2𝐖(x)𝐖=1𝐖-\frac{x^2𝐖}{2!}
-P_4𝐖(x)𝐖=1𝐖-\frac{x^2𝐖}{2!}𝐖+\frac{x^4𝐖}{4!}𝐖.
-\sin𝐖(x)
-P_2𝐖
-P_4𝐖
-P_6𝐖,𝐖
-P_8𝐖,𝐖
-P_{18}𝐖
-y𝐖=\cos𝐖(x)
-V𝐖=\pi𝐖r^2𝐖h𝐖.
-h𝐖=\frac{100𝐖-2\pi𝐖r^2𝐖}{2\pi𝐖r},𝐖
-V𝐖=\pi𝐖r^2𝐖\frac{100𝐖-2\pi𝐖r^2𝐖}{2\pi𝐖r}𝐖=r(50𝐖-\pi𝐖r^2𝐖),𝐖
-\sin𝐖(x)𝐖\approx𝐖x𝐖-\frac{1}{3!}x^3𝐖𝐖+\frac{1}{5!}x^5𝐖𝐖-\frac{1}{7!}x^7𝐖,𝐖
+\sin (x) \approx T_5 (x) ?
+T_{19} (x) ?
+y =\cos (x)
+P_2 (x) =1 -\frac{x^2}{2!}
+P_4 (x) =1 -\frac{x^2}{2!} +\frac{x^4}{4!} .
+\sin (x)
+P_2
+P_4
+P_6,
+P_8,
+P_{18}
+y =\cos (x)
+V =\pi r^2 h .
+h =\frac{100 -2\pi r^2}{2\pi r},
+V =\pi r^2 \frac{100 -2\pi r^2}{2\pi r} =r(50 -\pi r^2),
+\sin (x) \approx x -\frac{1}{3!}x^3 +\frac{1}{5!}x^5 -\frac{1}{7!}x^7,
 x
-x𝐖=0𝐖.
+x =0 .
 0.5ft
 1ft
 x
-(x𝐖+2)
-(x𝐖-1)
+(x +2)
+(x -1)
 x
-M,𝐖
-M(x)𝐖=
+M,
+M(x) =
 6in
 14in
 x
-V,𝐖
-x𝐖.
-V(x)𝐖=
+V,
+x .
+V(x) =
 x
 s
-l𝐖.
+l .
 100
-s𝐖?
+s ?
 s
-l𝐖.
+l .
 s
 l
 100
 s
 l
 l
-s𝐖.
-V,𝐖
+s .
+V,
 s
 V
 2
@@ -5623,317 +5623,317 @@ V
 10
 8
 r
-h,𝐖
-A,𝐖
-r𝐖?
+h,
+A,
+r ?
 8
 h
-r𝐖.
-A𝐖=2\pi𝐖r^2𝐖𝐖+2\pi𝐖rh𝐖.
+r .
+A =2\pi r^2 +2\pi rh .
 A
-r𝐖.
-A𝐖?
+r .
+A ?
 A
-r𝐖.
-f(t)𝐖=ab^t𝐖
+r .
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t
 f
-t𝐖=2,𝐖
-AV_{[2,𝐖2𝐖+h]}𝐖𝐖=\frac{f(2𝐖+h)𝐖-f(2)}{h}𝐖.
+t =2,
+AV_{[2, 2 +h]} =\frac{f(2 +h) -f(2)}{h} .
 f
 t
-f(t)𝐖=𝐖-16t^2𝐖𝐖+32t𝐖+48,𝐖
-2𝐖.
-[2,𝐖2𝐖+h]
-AV_{[2,𝐖2𝐖+h]}𝐖𝐖&𝐖\lt𝐖mi/>𝐖=\frac{f(2𝐖+h)𝐖-f(2)}{h}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{𝐖-16(2𝐖+h)^2𝐖𝐖+32(2𝐖+h)𝐖+48𝐖-(𝐖-16𝐖\cdot𝐖4𝐖+32𝐖\cdot𝐖2𝐖+48)}{h}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{𝐖-64𝐖-64h𝐖-16h^2𝐖𝐖+64𝐖+32h𝐖+48𝐖-(48)}{h}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{𝐖-32h𝐖-16h^2𝐖}{h}𝐖.
-AV_{[2,𝐖2𝐖+h]}𝐖
-𝐖-32h𝐖-16h^2𝐖
-h𝐖.
-h𝐖.
-h𝐖\to𝐖0,𝐖
-t𝐖=2𝐖.
-AV_{[2,𝐖2𝐖+h]}𝐖
-h𝐖=0𝐖.
-0,𝐖
+f(t) = -16t^2 +32t +48,
+2 .
+[2, 2 +h]
+AV_{[2, 2 +h]} & \lt mi/> =\frac{f(2 +h) -f(2)}{h} \\ \~ & \lt mi/> =\frac{ -16(2 +h)^2 +32(2 +h) +48 -( -16 \cdot 4 +32 \cdot 2 +48)}{h} \\ \~ & \lt mi/> =\frac{ -64 -64h -16h^2 +64 +32h +48 -(48)}{h} \\ \~ & \lt mi/> =\frac{ -32h -16h^2}{h} .
+AV_{[2, 2 +h]}
+-32h -16h^2
+h .
+h .
+h \to 0,
+t =2 .
+AV_{[2, 2 +h]}
+h =0 .
+0,
 C(q)
 q
-C𝐖?
+C ?
 1000
 1000
 10000
 10000
-A(q),𝐖
+A(q),
 q
-A(q)𝐖?
+A(q) ?
 A
-A(q)𝐖=2500𝐖+\frac{5000000}{q}𝐖.
-A𝐖?
-AV_{[2,𝐖2𝐖+h]}𝐖𝐖=\frac{𝐖-32h𝐖-16h^2𝐖}{h}
-A(q)𝐖=\frac{5000000𝐖+2500q}{q}
+A(q) =2500 +\frac{5000000}{q} .
+A ?
+AV_{[2, 2 +h]} =\frac{ -32h -16h^2}{h}
+A(q) =\frac{5000000 +2500q}{q}
 r
 r
 p
-q𝐖.
+q .
 r
 p
-q,𝐖
-r(x)𝐖=\frac{p(x)}{q(x)}𝐖.
-0𝐖?
-p(x)𝐖=x^{𝐖-n}𝐖
-n𝐖=1,𝐖2,𝐖\ldots𝐖𝐖.
-p(x)𝐖=\frac{1}{x^n𝐖}
-n𝐖>0
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖\frac{1}{x^n𝐖}𝐖=0
-x^n𝐖
-x𝐖\to𝐖\infty𝐖𝐖.
-x𝐖\to𝐖𝐖-\infty𝐖𝐖\colon𝐖
-\lim𝐖_{x𝐖\to𝐖𝐖-\infty𝐖}𝐖\frac{1}{x^n𝐖}𝐖=0𝐖.
-\frac{1}{x^3𝐖},𝐖
+q,
+r(x) =\frac{p(x)}{q(x)} .
+0 ?
+p(x) =x^{ -n}
+n =1, 2, \ldots .
+p(x) =\frac{1}{x^n}
+n >0
+\lim_{x \to \infty} \frac{1}{x^n} =0
+x^n
+x \to \infty .
+x \to -\infty \colon
+\lim_{x \to -\infty} \frac{1}{x^n} =0 .
+\frac{1}{x^3},
 0
 x
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖\frac{2500}{x^2𝐖}𝐖=0
+\lim_{x \to \infty} \frac{2500}{x^2} =0
 2500
 0
 0
 x
-r(x)𝐖=\frac{3x^2𝐖𝐖-5x𝐖+1}{7x^2𝐖𝐖+2x𝐖-11}𝐖.
+r(x) =\frac{3x^2 -5x +1}{7x^2 +2x -11} .
 x
 r(x)
-x^2𝐖𝐖.
-3x^2𝐖
-7x^2𝐖
+x^2 .
+3x^2
+7x^2
 r
 x
-r,𝐖
+r,
 r
 1
-1𝐖=\frac{\frac{1}{x^2𝐖}}{\frac{1}{x^2𝐖}}𝐖.
+1 =\frac{\frac{1}{x^2}}{\frac{1}{x^2}} .
 r
-r,𝐖
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖r(x)𝐖.
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖r(x)𝐖=\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖\frac{3𝐖-\frac{5}{x}𝐖+\frac{1}{x^2𝐖}}{7𝐖+\frac{2}{x}𝐖-\frac{11}{x^2𝐖}}𝐖.
-\lim𝐖_{x𝐖\to𝐖𝐖-\infty𝐖}𝐖r(x)𝐖=\lim𝐖_{x𝐖\to𝐖𝐖-\infty𝐖}𝐖\frac{3𝐖-\frac{5}{x}𝐖+\frac{1}{x^2𝐖}}{7𝐖+\frac{2}{x}𝐖-\frac{11}{x^2𝐖}}𝐖.
+r,
+\lim_{x \to \infty} r(x) .
+\lim_{x \to \infty} r(x) =\lim_{x \to \infty} \frac{3 -\frac{5}{x} +\frac{1}{x^2}}{7 +\frac{2}{x} -\frac{11}{x^2}} .
+\lim_{x \to -\infty} r(x) =\lim_{x \to -\infty} \frac{3 -\frac{5}{x} +\frac{1}{x^2}}{7 +\frac{2}{x} -\frac{11}{x^2}} .
 r
-[𝐖-10,𝐖10]𝐖.
-y𝐖=\frac{3}{7}𝐖.
-s(x)𝐖=\frac{3x𝐖-5}{7x^2𝐖𝐖+2x𝐖-11}
-u(x)𝐖=\frac{3x^2𝐖𝐖-5x𝐖+1}{7x𝐖+2}𝐖.
-x𝐖\to𝐖\infty𝐖,𝐖
-x^2𝐖
+[ -10, 10] .
+y =\frac{3}{7} .
+s(x) =\frac{3x -5}{7x^2 +2x -11}
+u(x) =\frac{3x^2 -5x +1}{7x +2} .
+x \to \infty,
+x^2
 s
-u𝐖.
+u .
 s(x)
-1𝐖=\frac{\frac{1}{x^2𝐖}}{\frac{1}{x^2𝐖}}
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖\frac{3x𝐖-5}{7x^2𝐖𝐖+2x𝐖-11}𝐖.
-y𝐖=s(x)
-[𝐖-10,𝐖10]𝐖.
+1 =\frac{\frac{1}{x^2}}{\frac{1}{x^2}}
+\lim_{x \to \infty} \frac{3x -5}{7x^2 +2x -11} .
+y =s(x)
+[ -10, 10] .
 u(x)
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖\frac{3x^2𝐖𝐖-5x𝐖+1}{7x𝐖+2}𝐖.
-y𝐖=u(x)
-[𝐖-10,𝐖10]𝐖.
+\lim_{x \to \infty} \frac{3x^2 -5x +1}{7x +2} .
+y =u(x)
+[ -10, 10] .
 p
 q
-r(x)𝐖=\frac{p(x)}{q(x)}
+r(x) =\frac{p(x)}{q(x)}
 p
 n
-a_n𝐖x^n𝐖
+a_n x^n
 q
 m
-b_m𝐖x^m𝐖
-a_n𝐖
-b_m𝐖𝐖.
-n𝐖\lt𝐖m,𝐖
-n𝐖=m,𝐖
-n𝐖>m
-r𝐖\colon𝐖
-n𝐖\lt𝐖m,𝐖
-\lim𝐖_{n𝐖\to𝐖\infty𝐖}𝐖r(x)𝐖=\lim𝐖_{n𝐖\to𝐖\infty𝐖}𝐖\frac{a_n𝐖x^n𝐖𝐖+\cdots𝐖𝐖+a_0𝐖}{b_m𝐖x^m𝐖𝐖+\cdots𝐖𝐖+b_0𝐖}𝐖=0,𝐖
-y𝐖=0
-r;𝐖
-n𝐖=m,𝐖
-\lim𝐖_{n𝐖\to𝐖\infty𝐖}𝐖r(x)𝐖=\lim𝐖_{n𝐖\to𝐖\infty𝐖}𝐖\frac{a_n𝐖x^n𝐖𝐖+\cdots𝐖𝐖+a_0𝐖}{b_n𝐖x^n𝐖𝐖+\cdots𝐖𝐖+b_0𝐖}𝐖=\frac{a_n𝐖}{b_n𝐖},𝐖
-y𝐖=\frac{a_n𝐖}{b_n𝐖}
+b_m x^m
+a_n
+b_m .
+n \lt m,
+n =m,
+n >m
+r \colon
+n \lt m,
+\lim_{n \to \infty} r(x) =\lim_{n \to \infty} \frac{a_n x^n +\cdots +a_0}{b_m x^m +\cdots +b_0} =0,
+y =0
+r;
+n =m,
+\lim_{n \to \infty} r(x) =\lim_{n \to \infty} \frac{a_n x^n +\cdots +a_0}{b_n x^n +\cdots +b_0} =\frac{a_n}{b_n},
+y =\frac{a_n}{b_n}
 p
 q
-r;𝐖
-n𝐖>m,𝐖
-\lim𝐖_{n𝐖\to𝐖\infty𝐖}𝐖r(x)𝐖=\lim𝐖_{n𝐖\to𝐖\infty𝐖}𝐖\frac{a_n𝐖x^n𝐖𝐖+\cdots𝐖𝐖+a_0𝐖}{b_m𝐖x^m𝐖𝐖+\cdots𝐖𝐖+b_0𝐖}𝐖=𝐖\pm𝐖\infty𝐖,𝐖
-a_n𝐖
-b_m𝐖
+r;
+n >m,
+\lim_{n \to \infty} r(x) =\lim_{n \to \infty} \frac{a_n x^n +\cdots +a_0}{b_m x^m +\cdots +b_0} = \pm \infty,
+a_n
+b_m
 r
-\lim𝐖_{x𝐖\to𝐖𝐖-\infty𝐖}𝐖r(x)
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖r(x)𝐖.
-r(x)𝐖=\frac{p(x)}{q(x)}
+\lim_{x \to -\infty} r(x)
+\lim_{x \to \infty} r(x) .
+r(x) =\frac{p(x)}{q(x)}
 p
-q,𝐖
+q,
 p
 q
-r(x)𝐖=\frac{p(x)}{q(x)}
+r(x) =\frac{p(x)}{q(x)}
 r
-q(x)𝐖=0𝐖.
-r(x)𝐖=\frac{5x^3𝐖𝐖+17x^2𝐖𝐖-9x𝐖+4}{2x^3𝐖𝐖-6x^2𝐖𝐖-8x}𝐖.
-2x^3𝐖𝐖-6x^2𝐖𝐖-8x𝐖=2x(x^2𝐖𝐖-3x𝐖-4)𝐖=2x(x𝐖+1)(x𝐖-4)𝐖.
+q(x) =0 .
+r(x) =\frac{5x^3 +17x^2 -9x +4}{2x^3 -6x^2 -8x} .
+2x^3 -6x^2 -8x =2x(x^2 -3x -4) =2x(x +1)(x -4) .
 r
-x𝐖=0,𝐖
-x𝐖=𝐖-1,𝐖
-x𝐖=4𝐖.
+x =0,
+x = -1,
+x =4 .
 r
-𝐖-1,𝐖
-0,𝐖
-4𝐖.
-0𝐖.
-f(x)𝐖=\frac{x^2𝐖𝐖-1}{x^2𝐖𝐖+1}
-g(x)𝐖=\frac{x^2𝐖𝐖-1}{x^2𝐖𝐖+3x𝐖-4}
-h(x)𝐖=\frac{1}{x}𝐖+\frac{1}{x𝐖-1}𝐖+\frac{1}{x𝐖-2}
-j(x)𝐖=\frac{(x𝐖+5)(x𝐖-3)(x𝐖+1)(x𝐖-4)}{(x𝐖+1)(x𝐖+3)(x𝐖-5)}
-k(x)𝐖=\frac{2x^2𝐖𝐖+7}{3x^3𝐖𝐖-12x}
-m(x)𝐖=\frac{5x^2𝐖𝐖-45}{7(x𝐖-2)(x𝐖-3)^2𝐖(x^2𝐖𝐖+9)(x𝐖+1)}
-AV_{[2,𝐖2𝐖+h]}𝐖𝐖=\frac{𝐖-32h𝐖-16h^2𝐖}{h}𝐖.
+-1,
+0,
+4 .
+0 .
+f(x) =\frac{x^2 -1}{x^2 +1}
+g(x) =\frac{x^2 -1}{x^2 +3x -4}
+h(x) =\frac{1}{x} +\frac{1}{x -1} +\frac{1}{x -2}
+j(x) =\frac{(x +5)(x -3)(x +1)(x -4)}{(x +1)(x +3)(x -5)}
+k(x) =\frac{2x^2 +7}{3x^3 -12x}
+m(x) =\frac{5x^2 -45}{7(x -2)(x -3)^2 (x^2 +9)(x +1)}
+AV_{[2, 2 +h]} =\frac{ -32h -16h^2}{h} .
 10
-S𝐖=10𝐖=2\pi𝐖r^2𝐖𝐖+2\pi𝐖rh
-h𝐖=\frac{10𝐖-2\pi𝐖r^2𝐖}{2\pi𝐖r}𝐖.
-V𝐖=\pi𝐖r^2𝐖h,𝐖
-V𝐖=\pi𝐖r^2𝐖h𝐖=\pi𝐖r^2𝐖(\frac{10𝐖-2\pi𝐖r^2𝐖}{2\pi𝐖r})𝐖=r(5𝐖-\pi𝐖r^2𝐖),𝐖
-r𝐖.
+S =10 =2\pi r^2 +2\pi rh
+h =\frac{10 -2\pi r^2}{2\pi r} .
+V =\pi r^2 h,
+V =\pi r^2 h =\pi r^2 (\frac{10 -2\pi r^2}{2\pi r}) =r(5 -\pi r^2),
+r .
 20
-S𝐖=2\pi𝐖r^2𝐖𝐖+2\pi𝐖rh𝐖.
+S =2\pi r^2 +2\pi rh .
 r
-h𝐖.
-V𝐖=20𝐖=\pi𝐖r^2𝐖h,𝐖
+h .
+V =20 =\pi r^2 h,
 h
-h𝐖=\frac{20}{\pi𝐖r^2𝐖}𝐖.
+h =\frac{20}{\pi r^2} .
 h
-S𝐖=2\pi𝐖r^2𝐖𝐖+2\pi𝐖r𝐖\cdot𝐖\frac{20}{\pi𝐖r^2𝐖}𝐖=2\pi𝐖r^2𝐖𝐖+\frac{40}{r}𝐖.
+S =2\pi r^2 +2\pi r \cdot \frac{20}{\pi r^2} =2\pi r^2 +\frac{40}{r} .
 S
-S(r)𝐖=\frac{2\pi𝐖r^3𝐖𝐖+40}{r}
+S(r) =\frac{2\pi r^3 +40}{r}
 S
-r𝐖.
+r .
 S
-r,𝐖
+r,
 S
 15
 x
 h
-x𝐖?
+x ?
 x
-h,𝐖
+h,
 h
-x𝐖.
-S,𝐖
+x .
+S,
 x
-h𝐖.
-S,𝐖
-x𝐖.
-S𝐖?
+h .
+S,
+x .
+S ?
 S
 15
-r(x)𝐖=\frac{7x^3𝐖𝐖-5x𝐖+16}{𝐖-4x^4𝐖𝐖+2x^3𝐖𝐖-11x𝐖+3}
-r(x)𝐖=\frac{p(x)}{q(x)}
+r(x) =\frac{7x^3 -5x +16}{ -4x^4 +2x^3 -11x +3}
+r(x) =\frac{p(x)}{q(x)}
 p
 q
 r
 x
-q(x)𝐖=0𝐖.
+q(x) =0 .
 r
 p
-q𝐖\colon𝐖
+q \colon
 p
-q,𝐖
+q,
 r
-y𝐖=0;𝐖
+y =0;
 p
-q,𝐖
+q,
 r
-y𝐖=\frac{a_n𝐖}{b_n𝐖},𝐖
-a_n𝐖
-b_n𝐖
+y =\frac{a_n}{b_n},
+a_n
+b_n
 p
 q
 p
-q,𝐖
+q,
 r
-g(x)𝐖=\frac{(𝐖-1𝐖-x)(𝐖-7𝐖-2x)}{2x^2𝐖𝐖+1}
-x𝐖\to𝐖𝐖\pm𝐖\infty𝐖𝐖\colon𝐖
-f(x)𝐖=\frac{x^3𝐖𝐖+3}{x^3𝐖𝐖-8}
-g(x)𝐖=\frac{x^2𝐖𝐖+3}{x^3𝐖𝐖-8}
-h(x)𝐖=\frac{x^4𝐖𝐖+3}{x^3𝐖𝐖-8}
+g(x) =\frac{( -1 -x)( -7 -2x)}{2x^2 +1}
+x \to \pm \infty \colon
+f(x) =\frac{x^3 +3}{x^3 -8}
+g(x) =\frac{x^2 +3}{x^3 -8}
+h(x) =\frac{x^4 +3}{x^3 -8}
 f(x)
-y𝐖=
-x𝐖\to𝐖𝐖\pm𝐖\infty𝐖𝐖.
+y =
+x \to \pm \infty .
 g(x)
-y𝐖=
-x𝐖\to𝐖𝐖\pm𝐖\infty𝐖𝐖.
+y =
+x \to \pm \infty .
 h(x)
-y𝐖=
-x𝐖\to𝐖𝐖\pm𝐖\infty𝐖𝐖.
-r(x)𝐖=\frac{p(x)}{q(x)},𝐖
+y =
+x \to \pm \infty .
+r(x) =\frac{p(x)}{q(x)},
 p
 q
 m
 n
-r(x)𝐖\to𝐖0
-x𝐖\to𝐖\infty𝐖,𝐖
-m𝐖>n
-m𝐖=n
-m𝐖\lt𝐖n
-r(x)𝐖\to𝐖k
-x𝐖\to𝐖\infty𝐖,𝐖
-k𝐖\not=𝐖0,𝐖
-m𝐖\lt𝐖n
-m𝐖>n
-m𝐖=n
-f(x)𝐖=\frac{x𝐖+6}{(x𝐖+9)^2𝐖}𝐖.
-x𝐖=
-x𝐖=
-y𝐖\to𝐖
-x𝐖\to𝐖𝐖\pm𝐖\infty𝐖
-f(x)𝐖=\frac{x^2𝐖𝐖-16}{𝐖-x^3𝐖𝐖-16x^2𝐖}𝐖.
-x𝐖=
-y𝐖=
-x𝐖=
-y𝐖=
-y𝐖=f(x)
-\infty𝐖
-𝐖-\infty𝐖,𝐖
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖f(x)𝐖=
-\lim𝐖_{x𝐖\to𝐖𝐖-\infty𝐖}𝐖f(x)𝐖=
-\lim𝐖_{x𝐖\to𝐖1^+𝐖}𝐖f(x)𝐖=
-\lim𝐖_{x𝐖\to𝐖1^-𝐖}𝐖f(x)𝐖=
-y𝐖=1/x
-f(x)𝐖=\frac{1}{x𝐖+A}𝐖+B
+r(x) \to 0
+x \to \infty,
+m >n
+m =n
+m \lt n
+r(x) \to k
+x \to \infty,
+k \not= 0,
+m \lt n
+m >n
+m =n
+f(x) =\frac{x +6}{(x +9)^2} .
+x =
+x =
+y \to
+x \to \pm \infty
+f(x) =\frac{x^2 -16}{ -x^3 -16x^2} .
+x =
+y =
+x =
+y =
+y =f(x)
+\infty
+-\infty,
+\lim_{x \to \infty} f(x) =
+\lim_{x \to -\infty} f(x) =
+\lim_{x \to 1^+} f(x) =
+\lim_{x \to 1^-} f(x) =
+y =1/x
+f(x) =\frac{1}{x +A} +B
 A
-B𝐖.
+B .
 A
-B𝐖.
-A𝐖=
-B𝐖=
-f(x)𝐖=\frac{Mx𝐖+C}{x𝐖+D}
+B .
+A =
+B =
+f(x) =\frac{Mx +C}{x +D}
 M
-C,𝐖
-D𝐖.
+C,
+D .
 M
-C,𝐖
-D𝐖?
-M𝐖=
-C𝐖=
-D𝐖=
+C,
+D ?
+M =
+C =
+D =
 x
 y
-f(x)𝐖=\frac{x^2𝐖𝐖-1}{x^2𝐖𝐖+1}𝐖.
-x𝐖=
-y𝐖=
-x𝐖=
-y𝐖=
-f(x)𝐖=\frac{17x^2𝐖𝐖+34}{19x^2𝐖𝐖-76}
-g(x)𝐖=\frac{29}{53}𝐖+\frac{1}{x𝐖-2}
-h(x)𝐖=\frac{4𝐖-31x}{11x𝐖-7}
-r(x)𝐖=\frac{151(x𝐖-4)(x𝐖+5)^2𝐖(x𝐖-2)}{537(x𝐖+5)(x𝐖+1)(x^2𝐖𝐖+1)(x𝐖-15)}
+f(x) =\frac{x^2 -1}{x^2 +1} .
+x =
+y =
+x =
+y =
+f(x) =\frac{17x^2 +34}{19x^2 -76}
+g(x) =\frac{29}{53} +\frac{1}{x -2}
+h(x) =\frac{4 -31x}{11x -7}
+r(x) =\frac{151(x -4)(x +5)^2 (x -2)}{537(x +5)(x +1)(x^2 +1)(x -15)}
 1.5
 3.75
 2.50
@@ -5942,320 +5942,320 @@ x
 h
 x
 h
-S,𝐖
-C,𝐖
+S,
+C,
 x
-h𝐖.
+h .
 x
-h,𝐖
+h,
 h
-x𝐖.
-C,𝐖
-x𝐖.
+x .
+C,
+x .
 16
 0.11
 0.07
-f(t)𝐖=ab^t𝐖
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t
 g
-g(x)𝐖=af(x𝐖-b)𝐖+c
-f,𝐖
-a,𝐖
-b,𝐖
+g(x) =af(x -b) +c
+f,
+a,
+b,
 c
-a𝐖\not=𝐖0𝐖.
-f(t)𝐖=\cos𝐖(t)𝐖.
+a \not= 0 .
+f(t) =\cos (t) .
 g
 h
 f
 g
-h𝐖.
-g(t)𝐖=3\cos𝐖(t)
-h(t)𝐖=𝐖-\frac{1}{4}\cos𝐖(t)
-g(t)𝐖=\cos𝐖(t𝐖-\pi𝐖)
-h(t)𝐖=\cos𝐖(t𝐖+\frac{\pi𝐖}{2})
-g(t)𝐖=\cos𝐖(t)𝐖+4
-h(t)𝐖=\cos𝐖(t)𝐖-2
-g(t)𝐖=3\cos𝐖(t𝐖-\pi𝐖)𝐖+4
-h(t)𝐖=𝐖-\frac{1}{4}\cos𝐖(t𝐖+\frac{\pi𝐖}{2})𝐖-2
-f(t)𝐖=\sin𝐖(t)
-g(t)𝐖=\cos𝐖(t)
-y𝐖=0,𝐖
-a𝐖=1,𝐖
-p𝐖=2\pi𝐖,𝐖
-[𝐖-1,𝐖1]𝐖.
-a,𝐖
-b,𝐖
+h .
+g(t) =3\cos (t)
+h(t) = -\frac{1}{4}\cos (t)
+g(t) =\cos (t -\pi)
+h(t) =\cos (t +\frac{\pi}{2})
+g(t) =\cos (t) +4
+h(t) =\cos (t) -2
+g(t) =3\cos (t -\pi) +4
+h(t) = -\frac{1}{4}\cos (t +\frac{\pi}{2}) -2
+f(t) =\sin (t)
+g(t) =\cos (t)
+y =0,
+a =1,
+p =2\pi,
+[ -1, 1] .
+a,
+b,
 c
-a𝐖\not=𝐖0,𝐖
-k(t)𝐖=a\cos𝐖(t𝐖-b)𝐖+c\~and\~h(t)𝐖=a\sin𝐖(t𝐖-b)𝐖+c
+a \not= 0,
+k(t) =a\cos (t -b) +c\~and\~h(t) =a\sin (t -b) +c
 b
-|𝐖a|
-a𝐖\lt𝐖0,𝐖
+| a|
+a \lt 0,
 x
 c
-\cos𝐖(t)
-\sin𝐖(t),𝐖
-y𝐖=c,𝐖
-|𝐖a|,𝐖
-[c𝐖-|𝐖a|,𝐖c𝐖+|𝐖a|],𝐖
-p𝐖=2\pi𝐖𝐖.
-(b,𝐖a𝐖+c)
+\cos (t)
+\sin (t),
+y =c,
+| a|,
+[c -| a|, c +| a|],
+p =2\pi .
+(b, a +c)
 k
-(b,𝐖c)
-h𝐖.
-k(t)𝐖=a\cos𝐖(t𝐖-b)𝐖+c
-y𝐖=\cos𝐖(t)
+(b, c)
+h .
+k(t) =a\cos (t -b) +c
+y =\cos (t)
 b
-y𝐖=\cos𝐖(t𝐖-b)𝐖.
+y =\cos (t -b) .
 a
-y𝐖=a\cos𝐖(t𝐖-b)𝐖.
+y =a\cos (t -b) .
 c
-y𝐖=a\cos𝐖(t𝐖-b)𝐖+c
-y𝐖=\cos𝐖(t)𝐖.
-(0,𝐖1)
-y𝐖=\cos𝐖(t),𝐖
-(b,𝐖a𝐖+c)
-k(t)𝐖=a\cos𝐖(t𝐖-b)𝐖+c
-(b,𝐖a𝐖+c)
-t𝐖=b,𝐖
-k(b)𝐖=a\cos𝐖(b𝐖-b)𝐖+c𝐖=a\cos𝐖(0)𝐖+c𝐖.
-(0,𝐖1)
-(0,𝐖0)
-(b,𝐖a𝐖+c)
-k(t)𝐖=a\cos𝐖(t𝐖-b)𝐖+c,𝐖
-(b,𝐖c)
-h(t)𝐖=a\sin𝐖(t𝐖-b)𝐖+c,𝐖
-(b,𝐖a𝐖+c)
-y𝐖=a\cos𝐖(t𝐖-b)𝐖+c
-(0,𝐖1)
-y𝐖=\cos𝐖(t)𝐖.
+y =a\cos (t -b) +c
+y =\cos (t) .
+(0, 1)
+y =\cos (t),
+(b, a +c)
+k(t) =a\cos (t -b) +c
+(b, a +c)
+t =b,
+k(b) =a\cos (b -b) +c =a\cos (0) +c .
+(0, 1)
+(0, 0)
+(b, a +c)
+k(t) =a\cos (t -b) +c,
+(b, c)
+h(t) =a\sin (t -b) +c,
+(b, a +c)
+y =a\cos (t -b) +c
+(0, 1)
+y =\cos (t) .
 d(t)
 t
 2
 7
-2\pi𝐖𝐖.
-d(0)𝐖=4.5
-d(\frac{\pi𝐖}{2})𝐖=2𝐖.
+2\pi .
+d(0) =4.5
+d(\frac{\pi}{2}) =2 .
 d(t)
-d(t)𝐖=a\cos𝐖(t𝐖-b)𝐖+c
-d(t)𝐖=a\sin𝐖(t𝐖-b)𝐖+c𝐖.
-y𝐖=f(x),𝐖
-g(x)𝐖=f(kx),𝐖
+d(t) =a\cos (t -b) +c
+d(t) =a\sin (t -b) +c .
+y =f(x),
+g(x) =f(kx),
 k
-g(t)𝐖=f(kt),𝐖
-f(t)𝐖=\sin𝐖(t)𝐖.
+g(t) =f(kt),
+f(t) =\sin (t) .
 k
-y𝐖=f(kt)𝐖.
-y𝐖=f(t)
+y =f(kt) .
+y =f(t)
 k
-h(t)𝐖=f(kt)
-f(t)𝐖.
-k𝐖=2,𝐖
+h(t) =f(kt)
+f(t) .
+k =2,
 h
 f
-h(t)𝐖=f(2t)
+h(t) =f(2t)
 f
-k𝐖=\frac{1}{2},𝐖
+k =\frac{1}{2},
 h
-f,𝐖
-h(t)𝐖=f(\frac{1}{2}t)
+f,
+h(t) =f(\frac{1}{2}t)
 f(t)
-h(t)𝐖=f(2t),𝐖
-t,𝐖
+h(t) =f(2t),
+t,
 t
-2,𝐖
+2,
 f
-h(\frac{1}{2}t)𝐖=f(2𝐖\cdot𝐖\frac{1}{2}t)𝐖=f(t)𝐖.
-(\frac{1}{2}t,𝐖f(t))
+h(\frac{1}{2}t) =f(2 \cdot \frac{1}{2}t) =f(t) .
+(\frac{1}{2}t, f(t))
 h
 \frac{1}{2}t
 h
-f(t)𝐖.
-(t,𝐖f(t))
-f𝐖.
+f(t) .
+(t, f(t))
+f .
 f
 h
-h(t)𝐖=f(2t)
-(t,𝐖f(t))𝐖\to𝐖(\frac{1}{2}t,𝐖f(t))𝐖.
-h(t)𝐖=f(2t)
+h(t) =f(2t)
+(t, f(t)) \to (\frac{1}{2}t, f(t)) .
+h(t) =f(2t)
 f
 f(t)
-h(t)𝐖=f(\frac{1}{2}t)
+h(t) =f(\frac{1}{2}t)
 f
-y𝐖=f(t)
-k𝐖>0,𝐖
-y𝐖=h(t)𝐖=f(kt)
-f𝐖.
-(t,𝐖f(t))
+y =f(t)
+k >0,
+y =h(t) =f(kt)
+f .
+(t, f(t))
 f
-(\frac{1}{k}t,𝐖f(t))
-h𝐖.
-0𝐖\lt𝐖k𝐖\lt𝐖1,𝐖
+(\frac{1}{k}t, f(t))
+h .
+0 \lt k \lt 1,
 h
 f
 y
-\frac{1}{k};𝐖
-k𝐖>1,𝐖
+\frac{1}{k};
+k >1,
 h
 f
 y
-\frac{1}{k}𝐖.
+\frac{1}{k} .
 f
-(0,𝐖f(0))𝐖.
+(0, f(0)) .
 f
 g
-f𝐖.
-g𝐖.
-y𝐖=f(t),𝐖
-y𝐖=h(t)𝐖=f(\frac{1}{3}t)
-y𝐖=j(t)𝐖=f(4t)𝐖.
-f,𝐖
-h,𝐖
+f .
+g .
+y =f(t),
+y =h(t) =f(\frac{1}{3}t)
+y =j(t) =f(4t) .
+f,
+h,
 j
 h
 j
-f𝐖.
-y𝐖=g(t),𝐖
-y𝐖=k(t)𝐖=g(2t)
-y𝐖=m(t)𝐖=g(\frac{1}{2}t)𝐖.
-g,𝐖
-k,𝐖
+f .
+y =g(t),
+y =k(t) =g(2t)
+y =m(t) =g(\frac{1}{2}t) .
+g,
+k,
 m
 k
 m
-g𝐖.
-y𝐖=r(t)𝐖=2f(\frac{1}{2}t)
-y𝐖=s(t)𝐖=\frac{1}{2}g(2t)𝐖.
-y𝐖=r(t)𝐖=2f(\frac{1}{2}t)
-y𝐖=f(t)𝐖.
-2\pi𝐖,𝐖
-2\pi𝐖𝐖.
-2\pi𝐖𝐖.
+g .
+y =r(t) =2f(\frac{1}{2}t)
+y =s(t) =\frac{1}{2}g(2t) .
+y =r(t) =2f(\frac{1}{2}t)
+y =f(t) .
+2\pi,
+2\pi .
+2\pi .
 5
-P𝐖=5𝐖.
-f(t)𝐖=\sin𝐖(t)
-g(t)𝐖=f(2t)𝐖=\sin𝐖(2t)𝐖.
-\sin𝐖(t)
+P =5 .
+f(t) =\sin (t)
+g(t) =f(2t) =\sin (2t) .
+\sin (t)
 \frac{1}{2}
 y
-f𝐖.
-f(t)𝐖=\sin𝐖(t)
-g(t)𝐖=f(2t)𝐖=\sin𝐖(2t)
-g(t)𝐖=\sin𝐖(2t)
-f(t)𝐖=\sin𝐖(t),𝐖
+f .
+f(t) =\sin (t)
+g(t) =f(2t) =\sin (2t)
+g(t) =\sin (2t)
+f(t) =\sin (t),
 g
-[0,𝐖\pi𝐖],𝐖
-f𝐖.
+[0, \pi],
+f .
 2
 f(2t)
 f
 \frac{1}{2}
 g
-P𝐖=\frac{1}{2}(2\pi𝐖)𝐖=\pi𝐖𝐖.
-f(t)𝐖=\sin𝐖(t)
-h(t)𝐖=f(\frac{1}{2}t)𝐖=\sin𝐖(\frac{1}{2}t)
-h(t)𝐖=f(\frac{1}{2}t)𝐖=\sin𝐖(\frac{1}{2}t),𝐖
+P =\frac{1}{2}(2\pi) =\pi .
+f(t) =\sin (t)
+h(t) =f(\frac{1}{2}t) =\sin (\frac{1}{2}t)
+h(t) =f(\frac{1}{2}t) =\sin (\frac{1}{2}t),
 h
 y
-2𝐖.
-f,𝐖
+2 .
+f,
 h
-P𝐖=2𝐖\cdot𝐖2\pi𝐖𝐖=4\pi𝐖,𝐖
-k𝐖>0𝐖.
-k𝐖=2,𝐖
-g(t)𝐖=\sin𝐖(2t)
-P𝐖=\frac{1}{2}𝐖\cdot𝐖2\pi𝐖,𝐖
-k𝐖=\frac{1}{2},𝐖
-h(t)𝐖=\sin𝐖(\frac{1}{2}t)
-P𝐖=2𝐖\cdot𝐖2\pi𝐖𝐖=\frac{1}{\frac{1}{2}}𝐖\cdot𝐖2\pi𝐖𝐖.
-k𝐖>0,𝐖
-\sin𝐖(kt)
-\cos𝐖(kt)
-P𝐖=\frac{2\pi𝐖}{k}𝐖.
+P =2 \cdot 2\pi =4\pi,
+k >0 .
+k =2,
+g(t) =\sin (2t)
+P =\frac{1}{2} \cdot 2\pi,
+k =\frac{1}{2},
+h(t) =\sin (\frac{1}{2}t)
+P =2 \cdot 2\pi =\frac{1}{\frac{1}{2}} \cdot 2\pi .
+k >0,
+\sin (kt)
+\cos (kt)
+P =\frac{2\pi}{k} .
 k
 k
-k𝐖=\frac{2\pi𝐖}{P}𝐖.
-p(x)𝐖=\sin𝐖(10x)𝐖+2
-q(x)𝐖=𝐖-3\cos𝐖(0.25x)𝐖-4
-r(x)𝐖=2\sin𝐖(\frac{\pi𝐖}{4}x)𝐖+5
-w(x)𝐖=2\cos𝐖(\frac{\pi𝐖}{2}(x𝐖-3))𝐖+5
-u(x)𝐖=𝐖-0.25\sin𝐖(3x𝐖-6)𝐖+5
+k =\frac{2\pi}{P} .
+p(x) =\sin (10x) +2
+q(x) = -3\cos (0.25x) -4
+r(x) =2\sin (\frac{\pi}{4}x) +5
+w(x) =2\cos (\frac{\pi}{2}(x -3)) +5
+u(x) = -0.25\sin (3x -6) +5
 d(t)
 t
 1.5
 4
-3,𝐖
-d(0.5)𝐖=2.75
-d(1.25)𝐖=4𝐖.
+3,
+d(0.5) =2.75
+d(1.25) =4 .
 d(t)
-a\cos𝐖(k(t𝐖-b))𝐖+c
-a\sin𝐖(k(t𝐖-b))𝐖+c𝐖.
-a,𝐖
-b,𝐖
+a\cos (k(t -b)) +c
+a\sin (k(t -b)) +c .
+a,
+b,
 c
-a𝐖\not=𝐖0,𝐖
-k(t)𝐖=a\cos𝐖(t𝐖-b)𝐖+c\~and\~h(t)𝐖=a\sin𝐖(t𝐖-b)𝐖+c
+a \not= 0,
+k(t) =a\cos (t -b) +c\~and\~h(t) =a\sin (t -b) +c
 b
-|𝐖a|
+| a|
 x
-a𝐖\lt𝐖0
+a \lt 0
 c
-\cos𝐖(t)
-\sin𝐖(t),𝐖
-y𝐖=c,𝐖
-|𝐖a|,𝐖
-[c𝐖-|𝐖a|,𝐖c𝐖+|𝐖a|],𝐖
-p𝐖=2\pi𝐖𝐖.
-(b,𝐖a𝐖+c)
+\cos (t)
+\sin (t),
+y =c,
+| a|,
+[c -| a|, c +| a|],
+p =2\pi .
+(b, a +c)
 k
-(b,𝐖c)
-h𝐖.
+(b, c)
+h .
 f
-k𝐖>0,𝐖
-h(t)𝐖=f(kt)
+k >0,
+h(t) =f(kt)
 f
-\frac{1}{k}𝐖.
-k𝐖>1,𝐖
+\frac{1}{k} .
+k >1,
 f
 y
 \frac{1}{k}
-h,𝐖
-0𝐖\lt𝐖k𝐖\lt𝐖1,𝐖
+h,
+0 \lt k \lt 1,
 f
 y
 \frac{1}{k}
-h𝐖.
-k(t)𝐖=a\cos𝐖(k(t𝐖-b))𝐖+c\~or\~h(t)𝐖=a\sin𝐖(k(t𝐖-b))𝐖+c𝐖.
-y𝐖=c,𝐖
-|𝐖a|,𝐖
-P𝐖=\frac{2\pi𝐖}{k}𝐖.
-(b,𝐖a𝐖+c)
+h .
+k(t) =a\cos (k(t -b)) +c\~or\~h(t) =a\sin (k(t -b)) +c .
+y =c,
+| a|,
+P =\frac{2\pi}{k} .
+(b, a +c)
 k
-(b,𝐖c)
-h𝐖.
-y𝐖=\sin𝐖(t)𝐖+2
-y𝐖=\sin𝐖(t𝐖+2)
-y𝐖=\sin𝐖(2t)
-y𝐖=2\sin𝐖(t)
-y𝐖=𝐖-6\cos𝐖(7\pi𝐖x𝐖+2)𝐖-9
-y𝐖=
-y𝐖=
+(b, c)
+h .
+y =\sin (t) +2
+y =\sin (t +2)
+y =\sin (2t)
+y =2\sin (t)
+y = -6\cos (7\pi x +2) -9
+y =
+y =
 x
-f(x)𝐖=
+f(x) =
 x
-f(x)𝐖=
-t𝐖=0
+f(x) =
+t =0
 f(t)
 t
-f(t)𝐖.
-f(t)𝐖=
+f(t) .
+f(t) =
 x
 g(x)
 15
@@ -6266,61 +6266,61 @@ g(x)
 9
 0
 31
-355,𝐖
+355,
 9.0086
 t
-t𝐖=0
+t =0
 s(t)
 t
 s(t)
-h(t)𝐖=f(kt)
-k𝐖>0
-f𝐖.
-k𝐖\lt𝐖0𝐖.
-k𝐖=𝐖-1𝐖.
-f(t)𝐖=2t𝐖-1,𝐖
-g(t)𝐖=f(𝐖-1𝐖\cdot𝐖t)𝐖=f(𝐖-t)𝐖=𝐖-2t𝐖-1𝐖.
+h(t) =f(kt)
+k >0
+f .
+k \lt 0 .
+k = -1 .
+f(t) =2t -1,
+g(t) =f( -1 \cdot t) =f( -t) = -2t -1 .
 f
 g
-p,𝐖
-y𝐖=q(t)𝐖=p(𝐖-t)
-p𝐖?
-y𝐖=\sin𝐖(𝐖-3t)
-y𝐖=\sin𝐖(t)𝐖?
-y𝐖=\cos𝐖(𝐖-3t)
-y𝐖=\cos𝐖(t)𝐖?
+p,
+y =q(t) =p( -t)
+p ?
+y =\sin ( -3t)
+y =\sin (t) ?
+y =\cos ( -3t)
+y =\cos (t) ?
 p
-k𝐖\lt𝐖0,𝐖
-y𝐖=q(t)𝐖=p(kt)
-p𝐖?
-\sin𝐖(𝐖-t)
-\sin𝐖(t)
-\cos𝐖(t)
-\cos𝐖(𝐖-t)
-f(t)𝐖=ab^t𝐖
+k \lt 0,
+y =q(t) =p(kt)
+p ?
+\sin ( -t)
+\sin (t)
+\cos (t)
+\cos ( -t)
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-F(t)𝐖=ab^t𝐖𝐖+c𝐖?
-r,𝐖
+f(t) =b^t
+F(t) =ab^t +c ?
+r,
 t
-A(t)𝐖=a(1𝐖+r)^t𝐖,𝐖
+A(t) =a(1 +r)^t,
 a
-t𝐖=0𝐖.
+t =0 .
 186\circ
-71\circ,𝐖
+71\circ,
 71\circ
 t
 t
@@ -6351,191 +6351,191 @@ F(t)
 111
 107
 104
-f(t)𝐖=ab^t𝐖
+f(t) =ab^t
 71\circ
-g(t)𝐖=ab^t𝐖𝐖+c
-a,𝐖
-b,𝐖
+g(t) =ab^t +c
+a,
+b,
 c
-g(t)𝐖=ab^t𝐖𝐖+c𝐖.
-g(t)𝐖=ab^t𝐖𝐖+c
-a,𝐖
-b,𝐖
-c𝐖.
+g(t) =ab^t +c .
+g(t) =ab^t +c
+a,
+b,
+c .
 a
-a𝐖=5
-a𝐖=50,𝐖
+a =5
+a =50,
 b
-b𝐖=0.7
-b𝐖=1.3,𝐖
+b =0.7
+b =1.3,
 c
-c𝐖=𝐖-5
-c𝐖=5
-P𝐖=(0,𝐖g(0))
+c = -5
+c =5
+P =(0, g(0))
 t
-𝐖-30𝐖\le𝐖t𝐖\le𝐖30𝐖.
-b𝐖=1.1
+-30 \le t \le 30 .
+b =1.1
 a
-c𝐖.
-b𝐖=0.9
-a𝐖=5
-c𝐖=4𝐖.
-b;𝐖
+c .
+b =0.9
+a =5
+c =4 .
+b;
 b
-0𝐖\lt𝐖b𝐖\lt𝐖1,𝐖
+0 \lt b \lt 1,
 g
 t
-f(t)𝐖=ab^t𝐖
+f(t) =ab^t
 a
 b
-b𝐖\not=𝐖1
+b \not= 1
 t
-p(t)𝐖=2^t𝐖
-q(t)𝐖=(\frac{1}{2})^t𝐖
-t𝐖=10,𝐖
-t𝐖=20,𝐖
-t𝐖=30,𝐖
+p(t) =2^t
+q(t) =(\frac{1}{2})^t
+t =10,
+t =20,
+t =30,
 t
 p(t)
 10
-2^{10}𝐖𝐖=1024
+2^{10} =1024
 20
-2^{20}𝐖𝐖=1048576
+2^{20} =1048576
 30
-2^{30}𝐖𝐖=1073741824
-p(t)𝐖=2^t𝐖𝐖.
+2^{30} =1073741824
+p(t) =2^t .
 t
 q(t)
 10
-(\frac{1}{2})^{10}𝐖𝐖=\frac{1}{1024}𝐖\approx𝐖0.00097656
+(\frac{1}{2})^{10} =\frac{1}{1024} \approx 0.00097656
 20
-(\frac{1}{2})^{20}𝐖𝐖=\frac{1}{1048576}𝐖\approx𝐖0.00000095367
+(\frac{1}{2})^{20} =\frac{1}{1048576} \approx 0.00000095367
 30
-(\frac{1}{2})^{30}𝐖𝐖=\frac{1}{1073741824}𝐖\approx𝐖0.00000000093192
-q(t)𝐖=(\frac{1}{2})^t𝐖𝐖.
-p(t)𝐖=2^t𝐖,𝐖
+(\frac{1}{2})^{30} =\frac{1}{1073741824} \approx 0.00000000093192
+q(t) =(\frac{1}{2})^t .
+p(t) =2^t,
 p(t)
 t
 t
 p(t)
-q(t)𝐖=(\frac{1}{2})^t𝐖,𝐖
+q(t) =(\frac{1}{2})^t,
 q(t)
-0𝐖.
-2^t𝐖
-\frac{1}{2^t𝐖}𝐖=(\frac{1}{2})^t𝐖
+0 .
+2^t
+\frac{1}{2^t} =(\frac{1}{2})^t
 t
 q(t)
 0
 0
-q(t)𝐖\to𝐖0
+q(t) \to 0
 t
-\infty𝐖
-p(t)𝐖\to𝐖\infty𝐖
+\infty
+p(t) \to \infty
 t
 p(t)
 b
-f(t)𝐖=ab^t𝐖,𝐖
-b𝐖>1
-0𝐖\lt𝐖b𝐖\lt𝐖1
+f(t) =ab^t,
+b >1
+0 \lt b \lt 1
 t
-(1.01)^t𝐖
+(1.01)^t
 t
-(1.01)^t𝐖
-2^t𝐖𝐖.
-(0.99)^t𝐖
+(1.01)^t
+2^t .
+(0.99)^t
 0
 t
-(0.99)^t𝐖
+(0.99)^t
 0
-(\frac{1}{2})^t𝐖𝐖.
-b,𝐖
-f(t)𝐖=b^t𝐖
-b𝐖>0
-b𝐖\not=𝐖1𝐖.
-0𝐖\lt𝐖b𝐖\lt𝐖1,𝐖
-b^t𝐖𝐖\to𝐖0
-t𝐖\to𝐖\infty𝐖𝐖.
-b^t𝐖
+(\frac{1}{2})^t .
+b,
+f(t) =b^t
+b >0
+b \not= 1 .
+0 \lt b \lt 1,
+b^t \to 0
+t \to \infty .
+b^t
 0
 t
-b𝐖>1,𝐖
-b^t𝐖𝐖\to𝐖\infty𝐖
-t𝐖\to𝐖\infty𝐖𝐖.
-b^t𝐖
+b >1,
+b^t \to \infty
+t \to \infty .
+b^t
 t
-q(t)𝐖=(\frac{1}{2})^t𝐖,𝐖
-(\frac{1}{2})^t𝐖𝐖=\frac{1}{2^t𝐖}𝐖=2^{𝐖-t}𝐖𝐖.
-y𝐖=h(𝐖-t)
-y𝐖=h(t)
+q(t) =(\frac{1}{2})^t,
+(\frac{1}{2})^t =\frac{1}{2^t} =2^{ -t} .
+y =h( -t)
+y =h(t)
 y
-p(t)𝐖=2^t𝐖
-q(t)𝐖=(\frac{1}{2})^t𝐖𝐖=2^{𝐖-t}𝐖
+p(t) =2^t
+q(t) =(\frac{1}{2})^t =2^{ -t}
 y
-p(𝐖-t)𝐖=2^{𝐖-t}𝐖𝐖=q(t)𝐖.
-p(t)𝐖=2^t𝐖
-q(t)𝐖=2^{𝐖-t}𝐖𝐖.
-b^t𝐖
-\frac{1}{b^t𝐖}𝐖=b^{𝐖-t}𝐖
-b𝐖\not=𝐖1𝐖.
+p( -t) =2^{ -t} =q(t) .
+p(t) =2^t
+q(t) =2^{ -t} .
+b^t
+\frac{1}{b^t} =b^{ -t}
+b \not= 1 .
 c
-g(t)𝐖=ab^t𝐖𝐖+c
-g(t)𝐖=ab^t𝐖𝐖+c
-f(t)𝐖=ab^t𝐖𝐖.
+g(t) =ab^t +c
+g(t) =ab^t +c
+f(t) =ab^t .
 f(t)
 a
-b𝐖.
+b .
 c
 g
-f𝐖.
-f(t)𝐖=ab^t𝐖𝐖.
-g(t)𝐖=ab^t𝐖𝐖+c𝐖.
-g(t)𝐖=ab^t𝐖𝐖+c
-a𝐖>0,𝐖
-b𝐖>0
-b𝐖\not=𝐖1,𝐖
+f .
+f(t) =ab^t .
+g(t) =ab^t +c .
+g(t) =ab^t +c
+a >0,
+b >0
+b \not= 1,
 c
-0𝐖\lt𝐖b𝐖\lt𝐖1,𝐖
-g(t)𝐖=ab^t𝐖𝐖+c𝐖\to𝐖c
-t𝐖\to𝐖\infty𝐖𝐖.
+0 \lt b \lt 1,
+g(t) =ab^t +c \to c
+t \to \infty .
 g
 y
-(0,𝐖a𝐖+c)𝐖.
-c𝐖.
-b𝐖>1,𝐖
-g(t)𝐖=ab^t𝐖𝐖+c𝐖\to𝐖\infty𝐖
-t𝐖\to𝐖\infty𝐖𝐖.
+(0, a +c) .
+c .
+b >1,
+g(t) =ab^t +c \to \infty
+t \to \infty .
 g
 y
-(0,𝐖a𝐖+c)𝐖.
-c𝐖.
-a𝐖\lt𝐖0𝐖.
-g(t)𝐖=ab^t𝐖
-f(t)𝐖=b^t𝐖
+(0, a +c) .
+c .
+a \lt 0 .
+g(t) =ab^t
+f(t) =b^t
 x
-|𝐖a|,𝐖
+| a|,
 g
-0𝐖\lt𝐖b𝐖\lt𝐖1
+0 \lt b \lt 1
 f
 g
-b𝐖>1
+b >1
 f
 g
 g
-a𝐖>0,𝐖
+a >0,
 g
-g(t)𝐖=ab^t𝐖𝐖+c
-a,𝐖
-b,𝐖
-c𝐖.
+g(t) =ab^t +c
+a,
+b,
+c .
 y
-p(t)𝐖=4372(1.000235)^t𝐖𝐖+92856
-q(t)𝐖=27931(0.97231)^t𝐖𝐖+549786
-r(t)𝐖=𝐖-17398(0.85234)^t𝐖
-s(t)𝐖=𝐖-17398(0.85234)^t𝐖𝐖+19411
-u(t)𝐖=𝐖-7522(1.03817)^t𝐖
-v(t)𝐖=𝐖-7522(1.03817)^t𝐖𝐖+6731
-71\circ,𝐖
-F(t)𝐖-71
+p(t) =4372(1.000235)^t +92856
+q(t) =27931(0.97231)^t +549786
+r(t) = -17398(0.85234)^t
+s(t) = -17398(0.85234)^t +19411
+u(t) = -7522(1.03817)^t
+v(t) = -7522(1.03817)^t +6731
+71\circ,
+F(t) -71
 t
 t
 0
@@ -6565,7 +6565,7 @@ F(t)
 111
 107
 104
-f(t)𝐖=F(t)𝐖-71
+f(t) =F(t) -71
 115
 108
 104
@@ -6579,220 +6579,220 @@ f(t)𝐖=F(t)𝐖-71
 40
 36
 33
-\frac{73}{85}𝐖\approx𝐖0.86,𝐖\frac{64}{73}𝐖\approx𝐖0.88,𝐖\frac{56}{64}𝐖\approx𝐖0.88,𝐖\frac{49}{56}𝐖\approx𝐖0.88,𝐖\frac{45}{49}𝐖\approx𝐖0.92,𝐖and\frac{40}{45}𝐖\approx𝐖0.89𝐖.
+\frac{73}{85} \approx 0.86, \frac{64}{73} \approx 0.88, \frac{56}{64} \approx 0.88, \frac{49}{56} \approx 0.88, \frac{45}{49} \approx 0.92, and\frac{40}{45} \approx 0.89 .
 0
 F(t)
-71𝐖.
-f(t)𝐖=103.503(0.974)^t𝐖𝐖.
-F(t)𝐖=103.503(0.974)^t𝐖𝐖+71.
-(18,𝐖64)
-(23,𝐖56),𝐖
-f(t)𝐖=ab^t𝐖,𝐖
+71 .
+f(t) =103.503(0.974)^t .
+F(t) =103.503(0.974)^t +71.
+(18, 64)
+(23, 56),
+f(t) =ab^t,
 a
-b𝐖.
-a𝐖\approx𝐖103.503
-b𝐖\approx𝐖0.974,𝐖
-f(t)𝐖=103.503(0.974)^t𝐖𝐖.
-f(t)𝐖=F(t)𝐖-71,𝐖
-F(t)𝐖=f(t)𝐖+71,𝐖
-F(t)𝐖=103.503(0.974)^t𝐖𝐖+71.
+b .
+a \approx 103.503
+b \approx 0.974,
+f(t) =103.503(0.974)^t .
+f(t) =F(t) -71,
+F(t) =f(t) +71,
+F(t) =103.503(0.974)^t +71.
 f
 F
-t𝐖=18
-t𝐖=23
-t𝐖.
-F(t)𝐖=ab^t𝐖𝐖+c𝐖.
-t𝐖=0
-F(t),𝐖
-F(t)𝐖=42𝐖+30(0.95)^t𝐖𝐖.
-p(t)𝐖=(0.95)^t𝐖𝐖.
+t =18
+t =23
+t .
+F(t) =ab^t +c .
+t =0
+F(t),
+F(t) =42 +30(0.95)^t .
+p(t) =(0.95)^t .
 p
-r(t)𝐖=30(0.95)^t𝐖,𝐖
-p𝐖?
+r(t) =30(0.95)^t,
+p ?
 t
 r
-F(t)𝐖=42𝐖+30(0.95)^t𝐖
-F𝐖.
+F(t) =42 +30(0.95)^t
+F .
 F
-[10,𝐖20],𝐖
-[20,𝐖30],𝐖
-[30,𝐖40]𝐖.
+[10, 20],
+[20, 30],
+[30, 40] .
 68\circ
 350\circ
-t𝐖=0𝐖.
+t =0 .
 t
-F(t)𝐖=a𝐖-b(0.98)^t𝐖
+F(t) =a -b(0.98)^t
 a
-b,𝐖
+b,
 F
 t
-F(0)𝐖?
-a𝐖-b𝐖?
-F(t)𝐖?
-(0.98)^t𝐖
-a𝐖.
-b𝐖?
+F(0) ?
+a -b ?
+F(t) ?
+(0.98)^t
+a .
+b ?
 F
 325
-F𝐖.
-F(t)𝐖=a𝐖-b(0.98)^t𝐖
-f(t)𝐖=(0.98)^t𝐖𝐖?
-f(t)𝐖=b^t𝐖,𝐖
-0𝐖\lt𝐖b𝐖\lt𝐖1,𝐖
-f(t)𝐖=b^t𝐖𝐖\to𝐖0
-t𝐖\to𝐖\infty𝐖,𝐖
-b𝐖>1,𝐖
-f(t)𝐖=b^t𝐖𝐖\to𝐖\infty𝐖
-t𝐖\to𝐖\infty𝐖𝐖.
+F .
+F(t) =a -b(0.98)^t
+f(t) =(0.98)^t ?
+f(t) =b^t,
+0 \lt b \lt 1,
+f(t) =b^t \to 0
+t \to \infty,
+b >1,
+f(t) =b^t \to \infty
+t \to \infty .
 f
 a
-ab^t𝐖
+ab^t
 0
 b
-1𝐖.
-f(t)𝐖=b^t𝐖
-(0,𝐖1),𝐖
+1 .
+f(t) =b^t
+(0, 1),
 a
 y
-(0,𝐖a)𝐖.
-g(t)𝐖=ab^t𝐖𝐖+c,𝐖
+(0, a) .
+g(t) =ab^t +c,
 g
-c𝐖.
+c .
 y
 g
-(0,𝐖a𝐖+c)𝐖.
-a𝐖\lt𝐖0,𝐖
-g(t)𝐖=ab^t𝐖
-f(t)𝐖=b^t𝐖
+(0, a +c) .
+a \lt 0,
+g(t) =ab^t
+f(t) =b^t
 x
-|𝐖a|,𝐖
+| a|,
 g
-0𝐖\lt𝐖b𝐖\lt𝐖1
+0 \lt b \lt 1
 f
 g
-b𝐖>1
+b >1
 f
 g
-a𝐖\lt𝐖0,𝐖
-g(t)𝐖=ab^t𝐖𝐖+c
-c𝐖.
-F(t)𝐖=ab^t𝐖𝐖+c𝐖.
-b𝐖>1,𝐖
-y𝐖=ab^t𝐖
-t𝐖\to𝐖𝐖-\infty𝐖𝐖?
-𝐖\pm𝐖\infty𝐖
-t𝐖\to𝐖𝐖-\infty𝐖
-\infty𝐖
-𝐖-\infty𝐖
-x𝐖\longrightarrow𝐖\infty𝐖,𝐖
-18(0.8)^x𝐖𝐖\longrightarrow𝐖
-t𝐖\longrightarrow𝐖𝐖-\infty𝐖,𝐖
-9(2.2)^t𝐖𝐖\longrightarrow𝐖
-t𝐖\longrightarrow𝐖\infty𝐖,𝐖
-0.6(2𝐖+(0.1)^t𝐖)𝐖\longrightarrow𝐖
-t_0𝐖
-t_0𝐖
+a \lt 0,
+g(t) =ab^t +c
+c .
+F(t) =ab^t +c .
+b >1,
+y =ab^t
+t \to -\infty ?
+\pm \infty
+t \to -\infty
+\infty
+-\infty
+x \longrightarrow \infty,
+18(0.8)^x \longrightarrow
+t \longrightarrow -\infty,
+9(2.2)^t \longrightarrow
+t \longrightarrow \infty,
+0.6(2 +(0.1)^t) \longrightarrow
+t_0
+t_0
 r
-f(t)𝐖=a(1𝐖+r)^t𝐖
+f(t) =a(1 +r)^t
 r
-t_0𝐖
+t_0
 41\circ
-72\circ𝐖.
+72\circ .
 F(t)
 t
-t𝐖=0
+t =0
 F
-F(t)𝐖=ab^t𝐖𝐖+c
-a,𝐖
-b,𝐖
-c,𝐖
-0𝐖\lt𝐖b𝐖\lt𝐖1𝐖.
+F(t) =ab^t +c
+a,
+b,
+c,
+0 \lt b \lt 1 .
 F(0)
-a,𝐖
-b,𝐖
-c𝐖?
+a,
+b,
+c ?
 F(t)
-a,𝐖
-b,𝐖
-c𝐖?
+a,
+b,
+c ?
 a
-c𝐖.
-b𝐖=0.931𝐖.
+c .
+b =0.931 .
 10
-p,𝐖
-q,𝐖
-r,𝐖
-s𝐖.
-ab^t𝐖𝐖+c𝐖.
-p,𝐖
-q,𝐖
-r,𝐖
-s,𝐖
-a𝐖>0
-a𝐖\lt𝐖0;𝐖
-0𝐖\lt𝐖b𝐖\lt𝐖1
-b𝐖>1;𝐖
-c𝐖>0,𝐖
-c𝐖=0,𝐖
-c𝐖\lt𝐖0;𝐖
-c𝐖.
-C(t),𝐖
-C(0)𝐖=95𝐖.
-C(10)𝐖=80𝐖.
+p,
+q,
+r,
+s .
+ab^t +c .
+p,
+q,
+r,
+s,
+a >0
+a \lt 0;
+0 \lt b \lt 1
+b >1;
+c >0,
+c =0,
+c \lt 0;
+c .
+C(t),
+C(0) =95 .
+C(10) =80 .
 0\circ
 C(t)
-t𝐖.
-F𝐖=\frac{9}{5}C𝐖+32
-C𝐖=\frac{5}{9}(F𝐖-32)𝐖.
-F(t),𝐖
-t𝐖.
+t .
+F =\frac{9}{5}C +32
+C =\frac{5}{9}(F -32) .
+F(t),
+t .
 C(t)
-F(t)𝐖?
-f(t)𝐖=ab^t𝐖
+F(t) ?
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-h,𝐖
-d,𝐖
-h,𝐖
-d,𝐖
+f(t) =b^t
+h,
+d,
+h,
+d,
 150
-C,𝐖
-r,𝐖
-C𝐖=2\pi𝐖r𝐖.
+C,
+r,
+C =2\pi r .
 1/4
-\frac{150}{\pi𝐖}𝐖\approx𝐖47.75
+\frac{150}{\pi} \approx 47.75
 h
-d𝐖?
+d ?
 d
-h𝐖?
+h ?
 24
-h,𝐖
-d,𝐖
+h,
+d,
 \frac{1}{8}
-24𝐖\cdot𝐖\frac{1}{8}𝐖=3
+24 \cdot \frac{1}{8} =3
 3
-C𝐖=24𝐖.
-C𝐖=24,𝐖
-24𝐖=2\pi𝐖r
-r𝐖=\frac{12}{\pi𝐖}𝐖\approx𝐖3.82𝐖.
-d𝐖=6
+C =24 .
+C =24,
+24 =2\pi r
+r =\frac{12}{\pi} \approx 3.82 .
+d =6
 1/4
-h𝐖=\frac{12}{\pi𝐖}𝐖\approx𝐖3.82𝐖.
-d𝐖=12
-h𝐖=\frac{24}{\pi𝐖}𝐖\approx𝐖7.64𝐖.
-d𝐖=3
-d𝐖=15
-h𝐖\approx𝐖1.1
-d𝐖=3
-h𝐖\approx𝐖6.5
-d𝐖=15
-h,𝐖
-d𝐖.
+h =\frac{12}{\pi} \approx 3.82 .
+d =12
+h =\frac{24}{\pi} \approx 7.64 .
+d =3
+d =15
+h \approx 1.1
+d =3
+h \approx 6.5
+d =15
+h,
+d .
 d
 0
 3
@@ -6815,8 +6815,8 @@ h
 0
 d
 h
-h,𝐖
-d𝐖.
+h,
+d .
 d
 24
 27
@@ -6837,35 +6837,35 @@ h
 3.82
 1.1
 0
-h𝐖=f(d)𝐖.
-h,𝐖
+h =f(d) .
+h,
 24
-d,𝐖
-h𝐖=f(d)
+d,
+h =f(d)
 x
 x
 y
-(2,𝐖2)
-8𝐖.
+(2, 2)
+8 .
 y
 h
-P_0𝐖
+P_0
 h
-d𝐖.
-P_1𝐖
-P_0𝐖𝐖?
-P_2𝐖,𝐖
-P_3𝐖,𝐖
-\ldots𝐖
+d .
+P_1
+P_0 ?
+P_2,
+P_3,
+\ldots
 y
-P_2𝐖𝐖?
-P_4𝐖𝐖?
+P_2 ?
+P_4 ?
 y
-h,𝐖
-d𝐖.
+h,
+d .
 d
 h
-d𝐖.
+d .
 d
 0
 1
@@ -6888,45 +6888,45 @@ h
 2
 h
 d
-0𝐖\le𝐖d𝐖\le𝐖16𝐖.
+0 \le d \le 16 .
 h
-d𝐖=51𝐖?
-d𝐖=102𝐖?
+d =51 ?
+d =102 ?
 y
 a
-(k,𝐖m)𝐖.
-p𝐖.
+(k, m) .
+p .
 h
-d𝐖.
+d .
 P
-y𝐖=m𝐖+a,𝐖
-y𝐖=m
-Q𝐖.
-y𝐖=m𝐖-a
-R,𝐖
-y𝐖=m
-S,𝐖
-y𝐖=m𝐖+a
-d,𝐖
-y𝐖=m
+y =m +a,
+y =m
+Q .
+y =m -a
+R,
+y =m
+S,
+y =m +a
+d,
+y =m
 y
-y𝐖=m
+y =m
 y
-a,𝐖
-y𝐖=m
+a,
+y =m
 a
-[m𝐖-a,𝐖m𝐖+a]𝐖.
+[m -a, m +a] .
 f
 f
 k
-f(x𝐖+k)𝐖=f(x)
-x𝐖.
+f(x +k) =f(x)
+x .
 p
-f(x𝐖+p)𝐖=f(x)
+f(x +p) =f(x)
 x
-f𝐖.
+f .
 p
-h𝐖=f(t)
+h =f(t)
 t
 f
 t
@@ -6965,55 +6965,55 @@ f(t)
 9.913
 4
 8.000
-p,𝐖
-y𝐖=m,𝐖
+p,
+y =m,
 a
-f𝐖.
-f𝐖?
+f .
+f ?
 f
-[4,𝐖4.25]
-[4.75,𝐖5]𝐖.
-f(6.75)𝐖?
-f(11.25)𝐖?
+[4, 4.25]
+[4.75, 5] .
+f(6.75) ?
+f(11.25) ?
 1
-(0,𝐖0),𝐖
+(0, 0),
 d
-(1,𝐖0)𝐖.
-h𝐖=f(d)
+(1, 0) .
+h =f(d)
 d
-(1,𝐖0)𝐖.
+(1, 0) .
 f
 h
 h
 P
 Q
-AV_{[P,𝐖Q]}𝐖𝐖=\frac{change\space𝐖in\space𝐖height}{distance\space𝐖along\space𝐖the\space𝐖circle},𝐖
+AV_{[P, Q]} =\frac{change\space in\space height}{distance\space along\space the\space circle},
 P
-Q𝐖.
-P,𝐖
-Q,𝐖
+Q .
+P,
+Q,
 R
 Q
 1/8
-P,𝐖
+P,
 R
 1/8
-Q𝐖.
-d_1𝐖
+Q .
+d_1
 P
 Q
-d_2𝐖
+d_2
 Q
-R,𝐖
-d_1𝐖𝐖=d_2𝐖𝐖.
-h_1𝐖
+R,
+d_1 =d_2 .
+h_1
 P
 Q
-h_2𝐖
+h_2
 Q
-R,𝐖
-h_1𝐖𝐖>h_2𝐖𝐖.
-AV_{[P,𝐖Q]}𝐖𝐖=\frac{h_1𝐖}{d_1𝐖}𝐖>\frac{h_2𝐖}{d_2𝐖}𝐖=AV_{[Q,𝐖R]}𝐖𝐖.
+R,
+h_1 >h_2 .
+AV_{[P, Q]} =\frac{h_1}{d_1} >\frac{h_2}{d_2} =AV_{[Q, R]} .
 1/8
 1/20
 1/20
@@ -7021,17 +7021,17 @@ P
 Q
 1/20
 R
-S,𝐖
-d_1𝐖𝐖=d_5𝐖𝐖.
-h_1𝐖𝐖>h_5𝐖
-h_1𝐖𝐖\approx𝐖d_1𝐖
-h_1𝐖𝐖\lt𝐖d_1𝐖
-AV_{[P,𝐖Q]}𝐖𝐖=\frac{h_1𝐖}{d_1𝐖}𝐖\approx𝐖1𝐖.
-h_5𝐖
-d_5𝐖,𝐖
-AV_{[R,𝐖S]}𝐖𝐖=\frac{h_5𝐖}{d_5𝐖}𝐖\approx𝐖0𝐖.
-AV_{[P,𝐖Q]}𝐖𝐖\approx𝐖1\~and\~AV_{[R,𝐖S]}𝐖𝐖\approx𝐖0𝐖.
-h𝐖=f(t)
+S,
+d_1 =d_5 .
+h_1 >h_5
+h_1 \approx d_1
+h_1 \lt d_1
+AV_{[P, Q]} =\frac{h_1}{d_1} \approx 1 .
+h_5
+d_5,
+AV_{[R, S]} =\frac{h_5}{d_5} \approx 0 .
+AV_{[P, Q]} \approx 1\~and\~AV_{[R, S]} \approx 0 .
+h =f(t)
 t
 f
 t
@@ -7070,61 +7070,61 @@ f(t)
 9.913
 4
 8.000
-AV_{[2,𝐖2.25]}𝐖,𝐖
-AV_{[2.25,𝐖2.5]}𝐖,𝐖
-AV_{[2.5,𝐖2.75]}𝐖,𝐖
-AV_{[2.75,𝐖3]}𝐖𝐖.
-[2,𝐖3]𝐖?
+AV_{[2, 2.25]},
+AV_{[2.25, 2.5]},
+AV_{[2.5, 2.75]},
+AV_{[2.75, 3]} .
+[2, 3] ?
 0.25
 f
 f
 f
 f
 p
-f(x𝐖+p)𝐖=f(x)
+f(x +p) =f(x)
 x
-y𝐖=f(x)
-t𝐖=0
-h𝐖=f(t)
+y =f(x)
+t =0
+h =f(t)
 t
-h𝐖=f(t)𝐖?
-h𝐖=f(t)𝐖?
-h𝐖=
-h𝐖=f(t)𝐖?
-h𝐖=f(t)
+h =f(t) ?
+h =f(t) ?
+h =
+h =f(t) ?
+h =f(t)
 d
-d𝐖=11cm𝐖.
+d =11cm .
 d
-t,𝐖
-d𝐖=f(t)𝐖.
-d𝐖=f(t)
-t𝐖.
-d𝐖=f(t)
-d𝐖=f(t)𝐖?
-10{}\circ𝐖C𝐖
-135{}\circ𝐖C𝐖𝐖.
-t𝐖=0,𝐖
-y𝐖=H(t)
+t,
+d =f(t) .
+d =f(t)
+t .
+d =f(t)
+d =f(t) ?
+10{}\circ C
+135{}\circ C .
+t =0,
+y =H(t)
 t
-y𝐖=H(t)𝐖?
-y𝐖=H(t)𝐖?
-y𝐖=
-y𝐖=H(t)𝐖?
-y𝐖=H(t)
-(2,𝐖2)
-8𝐖.
+y =H(t) ?
+y =H(t) ?
+y =
+y =H(t) ?
+y =H(t)
+(2, 2)
+8 .
 x
 k
-P_0𝐖
+P_0
 k
-d𝐖.
+d .
 8
-r𝐖=\frac{8}{2\pi𝐖}𝐖\approx𝐖1.2732𝐖.
-P_0𝐖𝐖?
-k,𝐖
-d𝐖.
+r =\frac{8}{2\pi} \approx 1.2732 .
+P_0 ?
+k,
+d .
 k
-d𝐖.
+d .
 d
 0
 1
@@ -7147,277 +7147,277 @@ k
 0.73
 k
 d
-0𝐖\le𝐖d𝐖\le𝐖16𝐖.
+0 \le d \le 16 .
 k
-d𝐖=51𝐖?
-d𝐖=102𝐖?
+d =51 ?
+d =102 ?
 f
-g,𝐖
+g,
 y
 f
-g𝐖.
-f𝐖.
-g𝐖.
-(0,𝐖m)
-r𝐖.
+g .
+f .
+g .
+(0, m)
+r .
 m
-r𝐖?
-t𝐖=0
+r ?
+t =0
 1
 1
 7
 92
 h
 d
-h𝐖=f(d)
-h𝐖=f(d),𝐖
+h =f(d)
+h =f(d),
 h
-f(t)𝐖=ab^t𝐖
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t
 e
-f(t)𝐖=b^t𝐖
-b𝐖>0
-b𝐖\not=𝐖1
+f(t) =b^t
+b >0
+b \not= 1
 e
-f(t)𝐖=b^t𝐖
-b𝐖\lt𝐖1
-b𝐖>1𝐖.
-b𝐖>1,𝐖
+f(t) =b^t
+b \lt 1
+b >1 .
+b >1,
 b
-p,𝐖
-q,𝐖
-r,𝐖
+p,
+q,
+r,
 s
-b^t𝐖
-b𝐖>1𝐖.
-(0,𝐖1)
-e,𝐖
-f(t)𝐖=b^t𝐖
-E(t)𝐖=e^t𝐖𝐖?
-f(t)𝐖=2^t𝐖,𝐖
-g(t)𝐖=3^t𝐖,𝐖
-h(t)𝐖=(\frac{1}{3})^t𝐖,𝐖
-p(t)𝐖=f(kt)𝐖.
-p,𝐖
-k,𝐖
-𝐖-2𝐖\le𝐖k𝐖\le𝐖2𝐖.
-k,𝐖
+b^t
+b >1 .
+(0, 1)
+e,
+f(t) =b^t
+E(t) =e^t ?
+f(t) =2^t,
+g(t) =3^t,
+h(t) =(\frac{1}{3})^t,
+p(t) =f(kt) .
+p,
+k,
+-2 \le k \le 2 .
+k,
 k
-p(t)𝐖=f(kt)𝐖=2^{kt}𝐖
-g(t)𝐖=3^t𝐖𝐖.
-k𝐖?
+p(t) =f(kt) =2^{kt}
+g(t) =3^t .
+k ?
 k
-p(t)𝐖=f(kt)𝐖=2^{kt}𝐖
-h(t)𝐖=(\frac{1}{3})^t𝐖𝐖.
-k𝐖?
+p(t) =f(kt) =2^{kt}
+h(t) =(\frac{1}{3})^t .
+k ?
 k
-2^k𝐖𝐖.
+2^k .
 k
-2^k𝐖𝐖.
-b^t𝐖,𝐖
+2^k .
+b^t,
 k
-p(t)𝐖=f(kt)𝐖=2^{kt}𝐖
-b^t𝐖𝐖?
+p(t) =f(kt) =2^{kt}
+b^t ?
 e
 k
-b,𝐖
-b^t𝐖
-2^t𝐖
-b^t𝐖𝐖=2^{kt}𝐖𝐖.
+b,
+b^t
+2^t
+b^t =2^{kt} .
 2
-b^t𝐖
-3^t𝐖
-4^t𝐖,𝐖
+b^t
+3^t
+4^t,
 k
-e^t𝐖𝐖.
+e^t .
 e
-\pi𝐖,𝐖
+\pi,
 e
-e𝐖.
+e .
 e
 e
-e𝐖=1𝐖+\frac{1}{1!}𝐖+\frac{1}{2!}𝐖+\frac{1}{3!}𝐖+\frac{1}{4!}𝐖+\cdots𝐖
-e𝐖\approx𝐖2.718281828𝐖.
-1𝐖+\frac{1}{1}𝐖+\frac{1}{2}𝐖+\frac{1}{6}𝐖+\frac{1}{24}𝐖+\frac{1}{120}𝐖=\frac{163}{60}𝐖\approx𝐖2.7167
+e =1 +\frac{1}{1!} +\frac{1}{2!} +\frac{1}{3!} +\frac{1}{4!} +\cdots
+e \approx 2.718281828 .
+1 +\frac{1}{1} +\frac{1}{2} +\frac{1}{6} +\frac{1}{24} +\frac{1}{120} =\frac{163}{60} \approx 2.7167
 e
 6
 e
-2𝐖\lt𝐖e𝐖\lt𝐖3,𝐖
-e^t𝐖
-2^t𝐖
-3^t𝐖𝐖.
+2 \lt e \lt 3,
+e^t
+2^t
+3^t .
 t
-𝐖-2
-𝐖-1
+-2
+-1
 0
 1
 2
-2^t𝐖
+2^t
 0.25
 0.5
 1
 2
 4
 t
-𝐖-2
-𝐖-1
+-2
+-1
 0
 1
 2
-e^t𝐖
+e^t
 0.135
 0.368
 1
 2.718
 7.389
 t
-𝐖-2
-𝐖-1
+-2
+-1
 0
 1
 2
-3^t𝐖
+3^t
 0.111
 0.333
 1
 3
 9
-2^t𝐖,𝐖
-e^t𝐖,𝐖
-3^t𝐖
+2^t,
+e^t,
+3^t
 3
-e^t𝐖
-2^t𝐖
-3^t𝐖𝐖.
-e^t𝐖
-2^t𝐖𝐖\lt𝐖e^t𝐖𝐖\lt𝐖3^t𝐖
-t𝐖.
+e^t
+2^t
+3^t .
+e^t
+2^t \lt e^t \lt 3^t
+t .
 t
-2,𝐖
-e,𝐖
-3𝐖.
-2^2𝐖𝐖\lt𝐖e^2𝐖𝐖\lt𝐖3^2𝐖,𝐖
-\frac{1}{3^2𝐖}𝐖\lt𝐖\frac{1}{e^2𝐖}𝐖\lt𝐖\frac{1}{2^2𝐖},𝐖
-3^{𝐖-2}𝐖𝐖\lt𝐖e^{𝐖-2}𝐖𝐖\lt𝐖2^{𝐖-2}𝐖𝐖.
-t𝐖\lt𝐖0,𝐖
-3^t𝐖𝐖\lt𝐖e^t𝐖𝐖\lt𝐖2^t𝐖
-2^t𝐖
-3^t𝐖,𝐖
-e^t𝐖
-(0,𝐖1)
+2,
+e,
+3 .
+2^2 \lt e^2 \lt 3^2,
+\frac{1}{3^2} \lt \frac{1}{e^2} \lt \frac{1}{2^2},
+3^{ -2} \lt e^{ -2} \lt 2^{ -2} .
+t \lt 0,
+3^t \lt e^t \lt 2^t
+2^t
+3^t,
+e^t
+(0, 1)
 f
-[a,𝐖b]
-AV_{[a,𝐖b]}𝐖𝐖=\frac{f(b)𝐖-f(a)}{b𝐖-a}𝐖.
+[a, b]
+AV_{[a, b]} =\frac{f(b) -f(a)}{b -a} .
 f
-[a,𝐖a𝐖+h],𝐖
-AV_{[a,𝐖a𝐖+h]}𝐖𝐖=\frac{f(a𝐖+h)𝐖-f(a)}{h}𝐖.
-f(t)𝐖=e^t𝐖
-t𝐖=1
-t𝐖=2𝐖.
-f(t)𝐖=e^t𝐖
+[a, a +h],
+AV_{[a, a +h]} =\frac{f(a +h) -f(a)}{h} .
+f(t) =e^t
+t =1
+t =2 .
+f(t) =e^t
 A
-A(h)𝐖=\frac{f(1𝐖+h)𝐖-f(1)}{h}𝐖.
+A(h) =\frac{f(1 +h) -f(1)}{h} .
 A(0.5)
 f
 A(h)
 6
-h,𝐖
-h𝐖=0.0001𝐖.
-e^t𝐖
-t𝐖=1𝐖.
+h,
+h =0.0001 .
+e^t
+t =1 .
 A
 1
 2
-A(h)𝐖=\frac{f(2𝐖+h)𝐖-f(2)}{h}𝐖.
+A(h) =\frac{f(2 +h) -f(2)}{h} .
 A(h)
 f(2)
-h𝐖?
+h ?
 e
-f(t)𝐖=b^t𝐖
-g(t)𝐖=2^t𝐖,𝐖
-2^t𝐖𝐖.
-e^t𝐖
-E(t)𝐖=e^t𝐖
-f(t)𝐖=b^t𝐖𝐖.
-b𝐖>0
-b𝐖\not=𝐖1
+f(t) =b^t
+g(t) =2^t,
+2^t .
+e^t
+E(t) =e^t
+f(t) =b^t .
+b >0
+b \not= 1
 k
-b^t𝐖𝐖=f(t)𝐖=E(kt)𝐖=e^{kt}𝐖𝐖.
-b^t𝐖𝐖=(e^k𝐖)^t𝐖𝐖.
-t,𝐖
-b𝐖=e^k𝐖𝐖.
+b^t =f(t) =E(kt) =e^{kt} .
+b^t =(e^k)^t .
+t,
+b =e^k .
 E(t)
 f(t)
-b,𝐖
+b,
 k
-b𝐖=e^k𝐖𝐖.
-b𝐖>0,𝐖
+b =e^k .
+b >0,
 k
-e^k𝐖𝐖=b
-f(t)𝐖=e^t𝐖
-f(t)𝐖=e^t𝐖
+e^k =b
+f(t) =e^t
+f(t) =e^t
 b
 b
-f(t)𝐖=e^t𝐖,𝐖
+f(t) =e^t,
 x
 x
 k
-b𝐖.
+b .
 k
 b
-f(t)𝐖=e^t𝐖
-f(t)𝐖=e^t𝐖
+f(t) =e^t
+f(t) =e^t
 g
-y𝐖=f(t)
-t𝐖=g(y)𝐖.
+y =f(t)
+t =g(y) .
 g
 k
-b𝐖.
-k𝐖.
-f(t)𝐖=e^t𝐖
-e^t𝐖𝐖=2
-e^{3t}𝐖𝐖=5
-2e^t𝐖𝐖-4𝐖=7
-3e^{0.25t}𝐖𝐖+2𝐖=6
-4𝐖-2e^{𝐖-0.7t}𝐖𝐖=3
-2e^{1.2t}𝐖𝐖=1.5e^{1.6t}𝐖
-f(t)𝐖=b^t𝐖
-E(t)𝐖=e^t𝐖
+b .
+k .
+f(t) =e^t
+e^t =2
+e^{3t} =5
+2e^t -4 =7
+3e^{0.25t} +2 =6
+4 -2e^{ -0.7t} =3
+2e^{1.2t} =1.5e^{1.6t}
+f(t) =b^t
+E(t) =e^t
 k
-E(kt)𝐖=e^{kt}𝐖𝐖=b^t𝐖𝐖=f(t)
-t𝐖.
-e^t𝐖
+E(kt) =e^{kt} =b^t =f(t)
+t .
+e^t
 b
 k
-e^k𝐖𝐖=b,𝐖
-e^{kt}𝐖𝐖=b^t𝐖𝐖.
+e^k =b,
+e^{kt} =b^t .
 e
 e
-e𝐖\approx𝐖2.7182818𝐖.
+e \approx 2.7182818 .
 t
-m(t)𝐖=175e^{𝐖-0.015t}𝐖
+m(t) =175e^{ -0.015t}
 m(t)
-t𝐖=0𝐖.
-f(x)𝐖=𝐖-e^x𝐖
-g(x)𝐖=e^x𝐖
+t =0 .
+f(x) = -e^x
+g(x) =e^x
 g(x)
 y
 g(x)
 x
 f(x)
-f(x)𝐖\lt𝐖A,𝐖
-A𝐖.
+f(x) \lt A,
+A .
 A
 f(x)
-(𝐖-\infty𝐖,𝐖\infty𝐖)𝐖?
-f(x)𝐖=e^{𝐖-x}𝐖𝐖-4
-g(x)𝐖=e^x𝐖
+( -\infty, \infty) ?
+f(x) =e^{ -x} -4
+g(x) =e^x
 g(x)
 y
 g(x)
@@ -7427,553 +7427,553 @@ g(x)
 g(x)
 g(x)
 f(x)
-f(x)𝐖>A,𝐖
-A𝐖.
+f(x) >A,
+A .
 A
 f(x)
-(𝐖-\infty𝐖,𝐖\infty𝐖)𝐖?
-\infty𝐖
-𝐖-\infty𝐖
-t𝐖\to𝐖𝐖-\infty𝐖,𝐖
-11e^{0.14t}𝐖𝐖\to𝐖
-\infty𝐖
-𝐖-\infty𝐖
-\lim𝐖_{t𝐖\to𝐖\infty𝐖}𝐖(12e^{𝐖-0.15t}𝐖𝐖+17)𝐖=
-P,𝐖
+( -\infty, \infty) ?
+\infty
+-\infty
+t \to -\infty,
+11e^{0.14t} \to
+\infty
+-\infty
+\lim_{t \to \infty} (12e^{ -0.15t} +17) =
+P,
 r
-r𝐖=0.05
+r =0.05
 5
 n
 t
-A(t)𝐖=P(1𝐖+\frac{r}{n})^{nt}𝐖𝐖.
+A(t) =P(1 +\frac{r}{n})^{nt} .
 100
 8
 A(1)
-n𝐖=4
+n =4
 A(1)
 A(1)
 A(1)
 P
 t
 r
-A(t)𝐖=Pe^{rt}𝐖,𝐖
+A(t) =Pe^{rt},
 e
 A(1)
 25
-g(t)𝐖=e^{kt}𝐖
-k𝐖.
-𝐖-2𝐖\le𝐖k𝐖\le𝐖2,𝐖
-k𝐖\not=𝐖0𝐖.
+g(t) =e^{kt}
+k .
+-2 \le k \le 2,
+k \not= 0 .
 k
-k𝐖.
-k
-g
+k .
 k
 g
 k
 g
-[0,𝐖1]
-k𝐖=𝐖-0.1
-k𝐖=𝐖-0.05𝐖?
-g
-k𝐖\lt𝐖0𝐖?
 k
-g(2)𝐖=\frac{1}{2}𝐖.
-e^{2k}𝐖𝐖.
-t𝐖=0
-F(t),𝐖
-F(t)𝐖=74.4𝐖-38.8e^{𝐖-0.05t}𝐖𝐖.
-g(t)𝐖=e^{𝐖-0.05t}𝐖𝐖?
-F(t)𝐖=74.4𝐖-38.8e^{𝐖-0.05t}𝐖𝐖?
+g
+[0, 1]
+k = -0.1
+k = -0.05 ?
+g
+k \lt 0 ?
+k
+g(2) =\frac{1}{2} .
+e^{2k} .
+t =0
+F(t),
+F(t) =74.4 -38.8e^{ -0.05t} .
+g(t) =e^{ -0.05t} ?
+F(t) =74.4 -38.8e^{ -0.05t} ?
 F
-[10,𝐖20],𝐖
-[20,𝐖30],𝐖
-[30,𝐖40]𝐖.
+[10, 20],
+[20, 30],
+[30, 40] .
 F
-f(t)𝐖=ab^t𝐖
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t
 1
-L(x)𝐖=b𝐖+mx,𝐖
-Q(x)𝐖=c𝐖+bx𝐖+ax^2𝐖,𝐖
-L(x)𝐖=a_0𝐖𝐖+a_1𝐖x
-a_0𝐖
-a_1𝐖
-Q(x)𝐖=a_0𝐖𝐖+a_1𝐖x𝐖+a_2𝐖x^2𝐖
-a_0𝐖,𝐖
-a_1𝐖,𝐖
-a_2𝐖
-a_0𝐖,𝐖a_1𝐖,𝐖\ldots𝐖,𝐖a_n𝐖
-a_n𝐖𝐖\not=𝐖0,𝐖
-P(x)𝐖=a_0𝐖𝐖+a_1𝐖x𝐖+a_2𝐖x^2𝐖𝐖+\cdots𝐖𝐖+a_{n𝐖-1}𝐖x^{n𝐖-1}𝐖𝐖+a_n𝐖x^n𝐖
+L(x) =b +mx,
+Q(x) =c +bx +ax^2,
+L(x) =a_0 +a_1 x
+a_0
+a_1
+Q(x) =a_0 +a_1 x +a_2 x^2
+a_0,
+a_1,
+a_2
+a_0, a_1, \ldots, a_n
+a_n \not= 0,
+P(x) =a_0 +a_1 x +a_2 x^2 +\cdots +a_{n -1} x^{n -1} +a_n x^n
 n
-a_i𝐖
-a_i𝐖x^i𝐖
+a_i
+a_i x^i
 x
-P(x)𝐖=0
-P(x)𝐖=3𝐖-7x𝐖+4x^2𝐖𝐖-2x^3𝐖𝐖+9x^5𝐖
-5,𝐖
-3,𝐖
-𝐖-7x𝐖.
-p(x)𝐖=x^n𝐖
+P(x) =0
+P(x) =3 -7x +4x^2 -2x^3 +9x^5
+5,
+3,
+-7x .
+p(x) =x^n
 n
 4
-p(x)𝐖=a_0𝐖𝐖+a_1𝐖x𝐖+a_2𝐖x^2𝐖𝐖+a_3𝐖x^3𝐖𝐖+a_4𝐖x^4𝐖,𝐖
-a_0𝐖,𝐖\ldots𝐖,𝐖a_4𝐖
-a_0𝐖,𝐖\ldots𝐖,𝐖a_4𝐖
+p(x) =a_0 +a_1 x +a_2 x^2 +a_3 x^3 +a_4 x^4,
+a_0, \ldots, a_4
+a_0, \ldots, a_4
 4
-a_4𝐖𝐖\not=𝐖0
+a_4 \not= 0
 p
 4
 p(x)
 x
-a_0𝐖,𝐖\ldots𝐖,𝐖a_4𝐖
-p(x)𝐖.
-p(x)𝐖?
+a_0, \ldots, a_4
+p(x) .
+p(x) ?
 p(x)
-a_0𝐖,𝐖\ldots𝐖,𝐖a_4𝐖
-p(x)𝐖.
-p(x)𝐖?
-p(x)𝐖?
-\lim𝐖_{x𝐖\to𝐖𝐖-\infty𝐖}𝐖p(x)
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖p(x)𝐖?
-y𝐖=a_4𝐖x^4𝐖
+a_0, \ldots, a_4
+p(x) .
+p(x) ?
+p(x) ?
+\lim_{x \to -\infty} p(x)
+\lim_{x \to \infty} p(x) ?
+y =a_4 x^4
 p(x)
-a_4𝐖x^4𝐖𝐖?
-n𝐖.
+a_4 x^4 ?
+n .
 n
-p(x)𝐖=a_0𝐖𝐖+a_1𝐖x𝐖+\cdots𝐖𝐖+a_{n𝐖-1}𝐖x^{n𝐖-1}𝐖𝐖+a_n𝐖x^n𝐖,𝐖
+p(x) =a_0 +a_1 x +\cdots +a_{n -1} x^{n -1} +a_n x^n,
 n
 n
 n
-p(x)𝐖=(x𝐖-1)^2𝐖𝐖=x^2𝐖𝐖-2x𝐖+1
-x𝐖=1𝐖.
-x,𝐖
-x^2𝐖,𝐖
-\ldots𝐖,𝐖
-x^n𝐖
-x𝐖\to𝐖\infty𝐖𝐖.
-x^5𝐖
-x^4𝐖
-x,𝐖
-p(x)𝐖=a_0𝐖𝐖+a_1𝐖x𝐖+a_2𝐖x^2𝐖𝐖+a_3𝐖x^3𝐖𝐖+a_4𝐖x^4𝐖
-y𝐖=a_4𝐖x^4𝐖𝐖.
+p(x) =(x -1)^2 =x^2 -2x +1
+x =1 .
+x,
+x^2,
+\ldots,
+x^n
+x \to \infty .
+x^5
+x^4
+x,
+p(x) =a_0 +a_1 x +a_2 x^2 +a_3 x^3 +a_4 x^4
+y =a_4 x^4 .
 n
-p(x)𝐖=a_0𝐖𝐖+a_1𝐖x𝐖+\cdots𝐖𝐖+a_{n𝐖-1}𝐖x^{n𝐖-1}𝐖𝐖+a_n𝐖x^n𝐖,𝐖
-q(x)𝐖=a_n𝐖x^n𝐖𝐖.
-\cup𝐖
-𝐖\cap𝐖,𝐖
-x^2𝐖
-𝐖-x^2𝐖
-x^3𝐖
-𝐖-x^3𝐖
+p(x) =a_0 +a_1 x +\cdots +a_{n -1} x^{n -1} +a_n x^n,
+q(x) =a_n x^n .
+\cup
+\cap,
+x^2
+-x^2
+x^3
+-x^3
 7
-q(x)𝐖=𝐖-x^7𝐖
+q(x) = -x^7
 7
-p𝐖.
+p .
 7
-p,𝐖
+p,
 n
-n𝐖-1,𝐖
+n -1,
 4
-n𝐖-1;𝐖
-n𝐖-1
-n𝐖-1
+n -1;
+n -1
+n -1
 7
 n
-p(x)𝐖=a_0𝐖𝐖+a_1𝐖x𝐖+\cdots𝐖𝐖+a_{n𝐖-1}𝐖x^{n𝐖-1}𝐖𝐖+a_n𝐖x^n𝐖,𝐖
+p(x) =a_0 +a_1 x +\cdots +a_{n -1} x^{n -1} +a_n x^n,
 n
-n𝐖-1,𝐖
-n𝐖-3,𝐖
-\ldots𝐖,𝐖
-1,𝐖
+n -1,
+n -3,
+\ldots,
+1,
 n
-n𝐖-1,𝐖
-n𝐖-3,𝐖
-\ldots𝐖,𝐖
-0𝐖.
+n -1,
+n -3,
+\ldots,
+0 .
 5
 p
 5
 3
 4
-\lim𝐖_{x𝐖\to𝐖𝐖-\infty𝐖}𝐖p(x)𝐖=𝐖+\infty𝐖
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖p(x)𝐖=𝐖-\infty𝐖𝐖.
+\lim_{x \to -\infty} p(x) = +\infty
+\lim_{x \to \infty} p(x) = -\infty .
 p
 4
 4
 3
-\lim𝐖_{x𝐖\to𝐖𝐖-\infty𝐖}𝐖p(x)𝐖=𝐖+\infty𝐖
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖p(x)𝐖=𝐖-\infty𝐖𝐖.
+\lim_{x \to -\infty} p(x) = +\infty
+\lim_{x \to \infty} p(x) = -\infty .
 p
 6
 2
 3
-\lim𝐖_{x𝐖\to𝐖𝐖-\infty𝐖}𝐖p(x)𝐖=𝐖-\infty𝐖
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖p(x)𝐖=𝐖-\infty𝐖𝐖.
+\lim_{x \to -\infty} p(x) = -\infty
+\lim_{x \to \infty} p(x) = -\infty .
 p
 5
 5
 3
-\lim𝐖_{x𝐖\to𝐖𝐖-\infty𝐖}𝐖p(x)𝐖=𝐖+\infty𝐖
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖p(x)𝐖=𝐖-\infty𝐖𝐖.
-q(x)𝐖=ax^2𝐖𝐖+bx𝐖+c,𝐖
-q(x)𝐖=a(x𝐖-h)^2𝐖𝐖+k,𝐖
-q(x)𝐖=a(x𝐖-r_1𝐖)(x𝐖-r_2𝐖)
-0,𝐖
-0𝐖.
+\lim_{x \to -\infty} p(x) = +\infty
+\lim_{x \to \infty} p(x) = -\infty .
+q(x) =ax^2 +bx +c,
+q(x) =a(x -h)^2 +k,
+q(x) =a(x -r_1)(x -r_2)
+0,
+0 .
 n
 n
-r_1𝐖,𝐖
-r_2𝐖,𝐖
-\ldots𝐖,𝐖
-r_n𝐖,𝐖
-p(x)𝐖=a_n𝐖(x𝐖-r_1𝐖)(x𝐖-r_2𝐖)\cdots𝐖(x𝐖-r_n𝐖)𝐖.
-p(x)𝐖=2(x𝐖+7)(x𝐖+1)(x𝐖-2)(x𝐖-5),𝐖
-p(x)𝐖=0
-(x𝐖+7),𝐖
-(x𝐖+1),𝐖
-(x𝐖-2),𝐖
-(x𝐖-5)
-0,𝐖
-x𝐖=𝐖-7,𝐖
-x𝐖=𝐖-1,𝐖
-x𝐖=2,𝐖
-x𝐖=5𝐖.
+r_1,
+r_2,
+\ldots,
+r_n,
+p(x) =a_n (x -r_1)(x -r_2)\cdots (x -r_n) .
+p(x) =2(x +7)(x +1)(x -2)(x -5),
+p(x) =0
+(x +7),
+(x +1),
+(x -2),
+(x -5)
+0,
+x = -7,
+x = -1,
+x =2,
+x =5 .
 x
 x
-p(x)𝐖=k(x𝐖-1)(x𝐖-a)(x𝐖-b)𝐖.
-1𝐖\lt𝐖a𝐖\lt𝐖b
-k𝐖\lt𝐖0𝐖.
+p(x) =k(x -1)(x -a)(x -b) .
+1 \lt a \lt b
+k \lt 0 .
 p
-p(x)𝐖=k(x𝐖-1)(x𝐖-a)(x𝐖-b),𝐖
+p(x) =k(x -1)(x -a)(x -b),
 p
 3
 3
-x𝐖=1,𝐖a,𝐖b𝐖.
-1𝐖\lt𝐖a𝐖\lt𝐖b
-k𝐖\lt𝐖0𝐖.
-p(x),𝐖
-p(x)𝐖=kx^3𝐖𝐖+\cdots𝐖,𝐖
+x =1, a, b .
+1 \lt a \lt b
+k \lt 0 .
+p(x),
+p(x) =kx^3 +\cdots,
 p(x)
-kx^3𝐖,𝐖
-k𝐖\lt𝐖0
-\lim𝐖_{x𝐖\to𝐖𝐖-\infty𝐖}𝐖p(x)𝐖=𝐖+\infty𝐖
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖p(x)𝐖=𝐖-\infty𝐖𝐖.
+kx^3,
+k \lt 0
+\lim_{x \to -\infty} p(x) = +\infty
+\lim_{x \to \infty} p(x) = -\infty .
 p
 3
-x𝐖=1,𝐖a,𝐖b,𝐖
-p(x)𝐖=0𝐖.
-x𝐖\lt𝐖1,𝐖
-x𝐖-1𝐖\lt𝐖0𝐖.
-1𝐖\lt𝐖a𝐖\lt𝐖b,𝐖
-x𝐖\lt𝐖1,𝐖
+x =1, a, b,
+p(x) =0 .
+x \lt 1,
+x -1 \lt 0 .
+1 \lt a \lt b,
+x \lt 1,
 x
-1,𝐖
-a,𝐖
-b,𝐖
-x𝐖-a
-x𝐖-b
-k𝐖\lt𝐖0𝐖.
-x𝐖\lt𝐖1,𝐖
-p(x)𝐖=k(x𝐖-1)(x𝐖-a)(x𝐖-b)
-𝐖-𝐖-𝐖-𝐖-
+1,
+a,
+b,
+x -a
+x -b
+k \lt 0 .
+x \lt 1,
+p(x) =k(x -1)(x -a)(x -b)
+- - - -
 +
-𝐖-𝐖-𝐖-𝐖-
-p(x)𝐖=k(x𝐖-1)(x𝐖-a)(x𝐖-b)𝐖.
-1𝐖\lt𝐖x𝐖\lt𝐖a,𝐖
-(x𝐖-1)
-x𝐖>1𝐖.
-x𝐖-a
-x𝐖-b
-k,𝐖
-𝐖-𝐖+𝐖-𝐖-
+- - - -
+p(x) =k(x -1)(x -a)(x -b) .
+1 \lt x \lt a,
+(x -1)
+x >1 .
+x -a
+x -b
+k,
+- + - -
 -
-p,𝐖
+p,
 a
-b,𝐖
+b,
 p
-p(x)𝐖=k(x𝐖-1)(x𝐖-a)(x𝐖-b)𝐖.
-p(x)𝐖=4692(x𝐖+1520)(x^2𝐖𝐖+10000)(x𝐖-3471)^2𝐖(x𝐖-9738)𝐖.
-p𝐖?
-(x^2𝐖𝐖+10000)𝐖?
-p𝐖?
+p(x) =k(x -1)(x -a)(x -b) .
+p(x) =4692(x +1520)(x^2 +10000)(x -3471)^2 (x -9738) .
+p ?
+(x^2 +10000) ?
+p ?
 p
-p𝐖.
+p .
 p
 p
 x
-p𝐖?
-p(x)𝐖=4692(x𝐖+1520)(x^2𝐖𝐖+10000)(x𝐖-3471)^2𝐖(x𝐖-9738)
-(x𝐖-r)^n𝐖𝐖.
-(x𝐖-r)^n𝐖
-p,𝐖
+p ?
+p(x) =4692(x +1520)(x^2 +10000)(x -3471)^2 (x -9738)
+(x -r)^n .
+(x -r)^n
+p,
 p
 n
-x𝐖=r𝐖.
+x =r .
 4
 4
-f(x)𝐖=x^4𝐖,𝐖
-x𝐖=0,𝐖0,𝐖0,𝐖0𝐖.
-x𝐖-0
+f(x) =x^4,
+x =0, 0, 0, 0 .
+x -0
 4
-x𝐖=0
-4𝐖.
+x =0
+4 .
 4
-g(x)𝐖=x^3𝐖(x𝐖-1),𝐖
+g(x) =x^3 (x -1),
 3
-x𝐖=0
+x =0
 1
-x𝐖=1𝐖.
-g(x)𝐖=x^3𝐖(x𝐖-1)
-x𝐖=0
+x =1 .
+g(x) =x^3 (x -1)
+x =0
 3
-x𝐖=1
-1𝐖.
-x𝐖=0
-3,𝐖
+x =1
+1 .
+x =0
+3,
 g
-𝐖-x^3𝐖𝐖.
-1,𝐖
+-x^3 .
+1,
 g
 1
-g(x)𝐖=x^3𝐖(x𝐖-1)
-x𝐖=0
-3𝐖.
-g(x)𝐖=x^3𝐖(x𝐖-1)
-x𝐖=1
-1𝐖.
-h(x)𝐖=x^2𝐖(x𝐖-1)^2𝐖,𝐖
+g(x) =x^3 (x -1)
+x =0
+3 .
+g(x) =x^3 (x -1)
+x =1
+1 .
+h(x) =x^2 (x -1)^2,
 h
-2𝐖.
+2 .
 h
 h
-k(x)𝐖=x^2𝐖(x𝐖-1)(x𝐖+1),𝐖
-x𝐖=𝐖-1
-x𝐖=1
+k(x) =x^2 (x -1)(x +1),
+x = -1
+x =1
 1
-x𝐖=0
+x =0
 2
-h(x)𝐖=x^2𝐖(x𝐖-1)^2𝐖
-x𝐖=0
-x𝐖=1
-2𝐖.
-k(x)𝐖=x^2𝐖(x𝐖-1)(x𝐖+1)
-x𝐖=0
+h(x) =x^2 (x -1)^2
+x =0
+x =1
+2 .
+k(x) =x^2 (x -1)(x +1)
+x =0
 2
-x𝐖=𝐖-1
-x𝐖=1
-1𝐖.
-m(x)𝐖=(x𝐖+1)x(x𝐖-1)(x𝐖-2),𝐖
+x = -1
+x =1
+1 .
+m(x) =(x +1)x(x -1)(x -2),
 4
-1,𝐖
+1,
 x
-m(x)𝐖=(x𝐖+1)x(x𝐖-1)(x𝐖-2)
+m(x) =(x +1)x(x -1)(x -2)
 4
-1𝐖.
+1 .
 4
 n
-(x𝐖-r)^n𝐖
-p,𝐖
-x𝐖=r
+(x -r)^n
+p,
+x =r
 p
-n,𝐖
-x𝐖=r
+n,
+x =r
 p
-𝐖-x^n𝐖
-x^n𝐖
-x𝐖=0𝐖.
+-x^n
+x^n
+x =0 .
 f
 10
-x𝐖=𝐖-12
+x = -12
 3
-x𝐖=𝐖-9
+x = -9
 2
-x𝐖=4
+x =4
 4
-x𝐖=10
+x =10
 1
 f
-f(0)𝐖=21𝐖.
-\lim𝐖_{x𝐖\to𝐖𝐖-\infty𝐖}𝐖f(x)
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖f(x)𝐖?
+f(0) =21 .
+\lim_{x \to -\infty} f(x)
+\lim_{x \to \infty} f(x) ?
 p
 9
-p(0)𝐖=𝐖-2
+p(0) = -2
 p
 q
 8
 3
 q
-q(0)𝐖=𝐖-10𝐖.
-p𝐖.
-q𝐖.
+q(0) = -10 .
+p .
+q .
 q
 9
 3
 q
-q(0)𝐖=𝐖-10𝐖.
+q(0) = -10 .
 p
 11
-p(0)𝐖=𝐖-2
+p(0) = -2
 p
 p
-p(x)𝐖=a_0𝐖𝐖+a_1𝐖x𝐖+a_2𝐖x^2𝐖𝐖+\cdots𝐖𝐖+a_{n𝐖-1}𝐖x^{n𝐖-1}𝐖𝐖+a_n𝐖x^n𝐖,𝐖
+p(x) =a_0 +a_1 x +a_2 x^2 +\cdots +a_{n -1} x^{n -1} +a_n x^n,
 n
 p
-a_n𝐖x^n𝐖
-a_n𝐖x^n𝐖𝐖.
+a_n x^n
+a_n x^n .
 p
 n
 n
-\lim𝐖_{n𝐖\to𝐖\infty𝐖}𝐖p(x)
-𝐖+\infty𝐖
-𝐖-\infty𝐖
-a_n𝐖𝐖.
-p(x)𝐖=a_n𝐖(x𝐖-r_1𝐖)(x𝐖-r_2𝐖)\cdots𝐖(x𝐖-r_n𝐖)
-r_i𝐖
+\lim_{n \to \infty} p(x)
++\infty
+-\infty
+a_n .
+p(x) =a_n (x -r_1)(x -r_2)\cdots (x -r_n)
+r_i
 n
 p
-p(x)𝐖=(x𝐖-5)(x𝐖-5)(x𝐖-5)𝐖=(x𝐖-5)^3𝐖,𝐖
-x𝐖=5
-3𝐖.
-x𝐖=5
+p(x) =(x -5)(x -5)(x -5) =(x -5)^3,
+x =5
+3 .
+x =5
 p
 x
-(x𝐖-r)^n𝐖
+(x -r)^n
 p
-x𝐖=r
-n,𝐖
-x𝐖=r
-x^n𝐖
-x𝐖=0𝐖.
-f(x)𝐖=6^x𝐖𝐖+4
-g(x)𝐖=x^6𝐖𝐖+4
-f(x)𝐖=6x^{3.7}𝐖𝐖+2
-g(x)𝐖=6x^2𝐖𝐖+3.7
-h(x)𝐖=2x^{𝐖-6}𝐖𝐖+3.7
-y𝐖=9x^6𝐖𝐖-3961x^2𝐖𝐖+6𝐖.
-\infty𝐖
-𝐖-\infty𝐖𝐖.
+x =r
+n,
+x =r
+x^n
+x =0 .
+f(x) =6^x +4
+g(x) =x^6 +4
+f(x) =6x^{3.7} +2
+g(x) =6x^2 +3.7
+h(x) =2x^{ -6} +3.7
+y =9x^6 -3961x^2 +6 .
+\infty
+-\infty .
 y
-x𝐖\to𝐖\infty𝐖
+x \to \infty
 y
-x𝐖\to𝐖𝐖-\infty𝐖𝐖.
-y𝐖=8x^3𝐖𝐖+\frac{6x^4𝐖}{x^{𝐖-6}𝐖}𝐖-7x^5𝐖𝐖+1𝐖.
-\infty𝐖
-𝐖-\infty𝐖𝐖.
+x \to -\infty .
+y =8x^3 +\frac{6x^4}{x^{ -6}} -7x^5 +1 .
+\infty
+-\infty .
 y
-x𝐖\to𝐖\infty𝐖𝐖.
+x \to \infty .
 y
-x𝐖\to𝐖𝐖-\infty𝐖𝐖.
-f(x)𝐖=x^4𝐖𝐖+16x^3𝐖𝐖+93x^2𝐖𝐖+231x𝐖+206𝐖.
-x𝐖=
-f(x)𝐖=x^2𝐖(7𝐖-8x^9𝐖)𝐖.
+x \to -\infty .
+f(x) =x^4 +16x^3 +93x^2 +231x +206 .
+x =
+f(x) =x^2 (7 -8x^9) .
 f(x)
-x𝐖=
-x𝐖\to𝐖\infty𝐖,𝐖
-f(x)𝐖\to𝐖
-x𝐖\to𝐖𝐖-\infty𝐖,𝐖
-f(x)𝐖\to𝐖
-f(x)𝐖=(5𝐖-6x)(2x𝐖-4)^2𝐖𝐖.
+x =
+x \to \infty,
+f(x) \to
+x \to -\infty,
+f(x) \to
+f(x) =(5 -6x)(2x -4)^2 .
 f(x)
-x𝐖=
-x𝐖\to𝐖\infty𝐖,𝐖
-f(x)𝐖\to𝐖
-x𝐖\to𝐖𝐖-\infty𝐖,𝐖
-f(x)𝐖\to𝐖
-p(x)𝐖=0.0005(x𝐖+21.7)^3𝐖(x𝐖-20.9)^2𝐖(x𝐖-31.4)(x^2𝐖𝐖+100)𝐖.
-p𝐖?
-p𝐖?
-p(x)𝐖.
+x =
+x \to \infty,
+f(x) \to
+x \to -\infty,
+f(x) \to
+p(x) =0.0005(x +21.7)^3 (x -20.9)^2 (x -31.4)(x^2 +100) .
+p ?
+p ?
+p(x) .
 p
-q(x)𝐖=𝐖-0.0005(x𝐖+21.7)^3𝐖(x𝐖-20.9)^2𝐖(x𝐖-31.4)(x^2𝐖𝐖+100)(x𝐖-92.3)𝐖.
-q𝐖?
-q𝐖?
-r(x)𝐖=e^{𝐖-x^2𝐖}𝐖(x^2𝐖𝐖+1)(x𝐖-2)(x𝐖-3)𝐖.
-r(x)𝐖?
-e^\mdwhtsquare𝐖𝐖
-r(x)𝐖.
+q(x) = -0.0005(x +21.7)^3 (x -20.9)^2 (x -31.4)(x^2 +100)(x -92.3) .
+q ?
+q ?
+r(x) =e^{ -x^2} (x^2 +1)(x -2)(x -3) .
+r(x) ?
+e^\mdwhtsquare
+r(x) .
 r(x)
 r
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖r(x)𝐖?
-f(x)𝐖=(x^2𝐖𝐖+1)(x𝐖-2)(x𝐖-3)
-x𝐖\to𝐖\infty𝐖𝐖?
+\lim_{x \to \infty} r(x) ?
+f(x) =(x^2 +1)(x -2)(x -3)
+x \to \infty ?
 q
-x𝐖=𝐖-7
-x𝐖=11
+x = -7
+x =11
 y
-42𝐖.
+42 .
 r
 4
-x𝐖=𝐖-3
-x𝐖=5,𝐖
-2,𝐖
+x = -3
+x =5,
+2,
 y
-(0,𝐖28)𝐖.
+(0, 28) .
 f
 11
 1
-x𝐖=𝐖-3
-x𝐖=5,𝐖
+x = -3
+x =5,
 2
-x𝐖=𝐖-2
-x𝐖=3,𝐖
+x = -2
+x =3,
 3
-x𝐖=1𝐖.
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖f(x)𝐖=𝐖-\infty𝐖𝐖.
+x =1 .
+\lim_{x \to \infty} f(x) = -\infty .
 g
 g(x)
-g𝐖.
-p(t)𝐖=a\cos𝐖(k(t𝐖-b))𝐖+c
-F(t)𝐖=a𝐖+be^{𝐖-kt}𝐖,𝐖
-a𝐖>0
-p(x)𝐖=x^3𝐖𝐖-a^2𝐖x𝐖.
-p𝐖?
-p𝐖?
-a,𝐖
-p𝐖?
-p𝐖.
+g .
+p(t) =a\cos (k(t -b)) +c
+F(t) =a +be^{ -kt},
+a >0
+p(x) =x^3 -a^2 x .
+p ?
+p ?
+a,
+p ?
+p .
 a
-p𝐖?
-f(t)𝐖=ab^t𝐖
+p ?
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t
 e
-f(t)𝐖=ab^t𝐖
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t
 0
 e
 y
@@ -7981,75 +7981,75 @@ y
 b
 e
 n
-f(t)𝐖=ab^t𝐖
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-q(x)𝐖=ax^2𝐖𝐖+bx𝐖+c,𝐖
-a,𝐖
-b,𝐖
+f(t) =b^t
+q(x) =ax^2 +bx +c,
+a,
+b,
 c
-a𝐖\not=𝐖0𝐖.
-h,𝐖
-t,𝐖
-h𝐖=q(t)𝐖=𝐖-5t^2𝐖𝐖+20t𝐖+25𝐖.
+a \not= 0 .
+h,
+t,
+h =q(t) = -5t^2 +20t +25 .
 t
-h𝐖=q(t)
+h =q(t)
 0
-q(0)𝐖=25
+q(0) =25
 1
 2
 3
 4
 5
 h
-[a,𝐖b]
-AV_{[a,𝐖b]}𝐖
-[0,𝐖1]
-AV_{[0,𝐖1]}𝐖𝐖=15
-[1,𝐖2]
-[2,𝐖3]
-[3,𝐖4]
-[4,𝐖5]
+[a, b]
+AV_{[a, b]}
+[0, 1]
+AV_{[0, 1]} =15
+[1, 2]
+[2, 3]
+[3, 4]
+[4, 5]
 h
-h𝐖=q(t)
-[4.9,𝐖5]𝐖?
-y𝐖=q(x)𝐖=ax^2𝐖𝐖+bx𝐖+c
-a,𝐖
-b,𝐖
+h =q(t)
+[4.9, 5] ?
+y =q(x) =ax^2 +bx +c
+a,
+b,
 c
-a𝐖\not=𝐖0𝐖.
-q(x)𝐖=ax^2𝐖𝐖+bx𝐖+c
-a,𝐖
-b,𝐖
-c𝐖.
-a,𝐖
-b,𝐖
-c𝐖.
+a \not= 0 .
+q(x) =ax^2 +bx +c
+a,
+b,
+c .
+a,
+b,
+c .
 a
-q𝐖.
+q .
 b
-q𝐖.
+q .
 c
-q𝐖.
-(0,𝐖8),𝐖
-(1,𝐖12),𝐖
-(2,𝐖12)𝐖?
-q(x)𝐖=0
-a,𝐖
-b,𝐖
+q .
+(0, 8),
+(1, 12),
+(2, 12) ?
+q(x) =0
+a,
+b,
 c
-a𝐖\not=𝐖0𝐖.
-ax^2𝐖𝐖+bx𝐖+c𝐖=0
-0,𝐖
-1,𝐖
+a \not= 0 .
+ax^2 +bx +c =0
+0,
+1,
 2
-x𝐖=\frac{𝐖-b𝐖\pm𝐖\sqrt{b^2𝐖𝐖-4ac}}{2a},𝐖
-b^2𝐖𝐖-4ac𝐖\ge𝐖0𝐖.
+x =\frac{ -b \pm \sqrt{b^2 -4ac}}{2a},
+b^2 -4ac \ge 0 .
 x
 0
 p
@@ -8057,202 +8057,202 @@ p
 q
 r
 x
-q(x)𝐖=0,𝐖
-q(x)𝐖=x^2𝐖𝐖-5x𝐖+6,𝐖
+q(x) =0,
+q(x) =x^2 -5x +6,
 x
-x^2𝐖𝐖-5x𝐖+6𝐖=(x𝐖-2)(x𝐖-3),𝐖
-(2,𝐖0)
-(3,𝐖0)
+x^2 -5x +6 =(x -2)(x -3),
+(2, 0)
+(3, 0)
 x
-q𝐖.
+q .
 x
-(r,𝐖0)
-(s,𝐖0),𝐖
-q(x)𝐖=a(x𝐖-r)(x𝐖-s)𝐖.
+(r, 0)
+(s, 0),
+q(x) =a(x -r)(x -s) .
 y
-y𝐖=q(x)𝐖=ax^2𝐖𝐖+bx𝐖+c,𝐖
+y =q(x) =ax^2 +bx +c,
 y
-(0,𝐖c),𝐖
-a𝐖>0
-a𝐖\lt𝐖0𝐖.
-y𝐖=q(x)𝐖=ax^2𝐖𝐖+bx𝐖+c
-(𝐖-\frac{b}{2a},𝐖q(𝐖-\frac{b}{2a}))𝐖.
-a𝐖>0,𝐖
-q,𝐖
-a𝐖\lt𝐖0,𝐖
+(0, c),
+a >0
+a \lt 0 .
+y =q(x) =ax^2 +bx +c
+( -\frac{b}{2a}, q( -\frac{b}{2a})) .
+a >0,
+q,
+a \lt 0,
 q
-x𝐖=𝐖-\frac{b}{2a}𝐖.
+x = -\frac{b}{2a} .
 x
 x
-y𝐖=q(x)𝐖=0.25x^2𝐖𝐖-x𝐖+3.5𝐖.
-a,𝐖
-h,𝐖
+y =q(x) =0.25x^2 -x +3.5 .
+a,
+h,
 k
-q(x)𝐖=a(x𝐖-h)^2𝐖𝐖+k,𝐖
-q𝐖.
+q(x) =a(x -h)^2 +k,
+q .
 q
-q(x)𝐖=0.25x^2𝐖𝐖-x𝐖+3.5
-q(x)𝐖=a(x𝐖-h)^2𝐖𝐖+k
+q(x) =0.25x^2 -x +3.5
+q(x) =a(x -h)^2 +k
 0.25
-q(x)𝐖=0.25(x^2𝐖𝐖-4x)𝐖+3.5𝐖.
-(x𝐖-2)^2𝐖𝐖=x^2𝐖𝐖-4x𝐖+4,𝐖
-4𝐖.
+q(x) =0.25(x^2 -4x) +3.5 .
+(x -2)^2 =x^2 -4x +4,
+4 .
 4
 4
-0.25,𝐖
+0.25,
 1
-1,𝐖
-q(x)𝐖=0.25(x^2𝐖𝐖-4x𝐖+4)𝐖+3.5𝐖-1.
-q(x)𝐖=0.25(x𝐖-2)^2𝐖𝐖+2.5𝐖.
+1,
+q(x) =0.25(x^2 -4x +4) +3.5 -1.
+q(x) =0.25(x -2)^2 +2.5 .
 q
-(2,𝐖2.5)𝐖.
-(x𝐖-2)^2𝐖
-0,𝐖
+(2, 2.5) .
+(x -2)^2
+0,
 0
-x𝐖=2𝐖.
-x𝐖=2,𝐖
-q(2)𝐖=2.5𝐖.
-q(x)𝐖=0.25x^2𝐖𝐖-x𝐖+3.5,𝐖
-a𝐖=0.25
-b𝐖=𝐖-1,𝐖
-x𝐖=𝐖-\frac{b}{2a}𝐖=\frac{1}{0.5}𝐖=2𝐖.
-q(2)𝐖=2.5𝐖.
-q(x)𝐖=0.25(x𝐖-2)^2𝐖𝐖+2.5
+x =2 .
+x =2,
+q(2) =2.5 .
+q(x) =0.25x^2 -x +3.5,
+a =0.25
+b = -1,
+x = -\frac{b}{2a} =\frac{1}{0.5} =2 .
+q(2) =2.5 .
+q(x) =0.25(x -2)^2 +2.5
 q
-x𝐖=2𝐖.
-x𝐖=2
+x =2 .
+x =2
 x
 z
-x𝐖=2𝐖-z
-x𝐖=2𝐖+z𝐖.
-q(2𝐖-z)𝐖&𝐖\lt𝐖mi/>𝐖=0.25(2𝐖-z𝐖-2)^2𝐖𝐖+2.5𝐖&𝐖q(2𝐖+z)𝐖&𝐖\lt𝐖mi/>𝐖=0.25(2𝐖+z𝐖-2)^2𝐖𝐖+2.5𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=0.25(𝐖-z)^2𝐖𝐖+2.5𝐖&𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=0.25(z)^2𝐖𝐖+2.5𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=0.25z^2𝐖𝐖+2.5𝐖&𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=0.25z^2𝐖𝐖+2.5
-q(2𝐖-z)𝐖=q(2𝐖+z)
-z,𝐖
-q(x)𝐖=a(x𝐖-h)^2𝐖𝐖+k𝐖.
-(h,𝐖k)
-y𝐖=a(x𝐖-h)^2𝐖𝐖+k𝐖.
+x =2 -z
+x =2 +z .
+q(2 -z) & \lt mi/> =0.25(2 -z -2)^2 +2.5 & q(2 +z) & \lt mi/> =0.25(2 +z -2)^2 +2.5 \\ \~ & \lt mi/> =0.25( -z)^2 +2.5 & \~ & \lt mi/> =0.25(z)^2 +2.5 \\ \~ & \lt mi/> =0.25z^2 +2.5 & \~ & \lt mi/> =0.25z^2 +2.5
+q(2 -z) =q(2 +z)
+z,
+q(x) =a(x -h)^2 +k .
+(h, k)
+y =a(x -h)^2 +k .
 a
-x𝐖\not=𝐖h𝐖.
+x \not= h .
 x
-(𝐖-5,𝐖0)
-(10,𝐖0)
+( -5, 0)
+(10, 0)
 y
-(0,𝐖𝐖-1)𝐖?
+(0, -1) ?
 q
-(𝐖-3,𝐖𝐖-4)
+( -3, -4)
 x
-q(𝐖-1)𝐖=𝐖-3𝐖.
-q𝐖?
-p(x)𝐖=𝐖-3(x𝐖+1)^2𝐖𝐖+9
-0,𝐖
-1,𝐖
+q( -1) = -3 .
+q ?
+p(x) = -3(x +1)^2 +9
+0,
+1,
 2
 x
-w(x)𝐖=𝐖-2x^2𝐖𝐖+10x𝐖-20
-0,𝐖
-1,𝐖
+w(x) = -2x^2 +10x -20
+0,
+1,
 2
 x
-g𝐖=32
+g =32
 t
-s_0𝐖
-v_0𝐖
+s_0
+v_0
 t
-h(t)𝐖=𝐖-16t^2𝐖𝐖+v_0𝐖t𝐖+s_0𝐖
-g𝐖=9.8
+h(t) = -16t^2 +v_0 t +s_0
+g =9.8
 h
-h(t)𝐖=𝐖-4.9t^2𝐖𝐖+v_0𝐖t𝐖+s_0𝐖𝐖.
-g𝐖=32𝐖.
-s(t),𝐖
-t𝐖.
+h(t) = -4.9t^2 +v_0 t +s_0 .
+g =32 .
+s(t),
+t .
 s
-[1.5,𝐖2],𝐖
-[2,𝐖2.5],𝐖
-[2.5,𝐖3]𝐖.
+[1.5, 2],
+[2, 2.5],
+[2.5, 3] .
 s
-h,𝐖
-t,𝐖
-a𝐖=𝐖-5
-a𝐖=𝐖-4.9
-h𝐖=q(t)𝐖=𝐖-5t^2𝐖𝐖+20t𝐖+25𝐖.
+h,
+t,
+a = -5
+a = -4.9
+h =q(t) = -5t^2 +20t +25 .
 t
-h𝐖=q(t)
+h =q(t)
 0
-q(0)𝐖=25
+q(0) =25
 1
-q(1)𝐖=40
+q(1) =40
 2
-q(2)𝐖=45
+q(2) =45
 3
-q(3)𝐖=40
+q(3) =40
 4
-q(4)𝐖=25
+q(4) =25
 5
-q(5)𝐖=0
+q(5) =0
 h
-[a,𝐖b]
-AV_{[a,𝐖b]}𝐖
-[0,𝐖1]
-AV_{[0,𝐖1]}𝐖𝐖=15
-[1,𝐖2]
-AV_{[1,𝐖2]}𝐖𝐖=5
-[2,𝐖3]
-AV_{[2,𝐖3]}𝐖𝐖=𝐖-5
-[3,𝐖4]
-AV_{[3,𝐖4]}𝐖𝐖=𝐖-15
-[4,𝐖5]
-AV_{[4,𝐖5]}𝐖𝐖=𝐖-25
+[a, b]
+AV_{[a, b]}
+[0, 1]
+AV_{[0, 1]} =15
+[1, 2]
+AV_{[1, 2]} =5
+[2, 3]
+AV_{[2, 3]} = -5
+[3, 4]
+AV_{[3, 4]} = -15
+[4, 5]
+AV_{[4, 5]} = -25
 h
-[a,𝐖b]𝐖.
+[a, b] .
 AV
-r,𝐖
+r,
 r
-a𝐖.
+a .
 a
 r(a)
 0
-r(0)𝐖=15
+r(0) =15
 1
-r(1)𝐖=5
+r(1) =5
 2
-r(2)𝐖=𝐖-5
+r(2) = -5
 3
-r(3)𝐖=𝐖-15
+r(3) = -15
 4
-r(4)𝐖=𝐖-25
-h(t)𝐖=𝐖-5t^2𝐖𝐖+20t𝐖+25
+r(4) = -25
+h(t) = -5t^2 +20t +25
 h
 h
 1
 1
-(a,𝐖b),𝐖
+(a, b),
 f
-(a,𝐖b),𝐖
+(a, b),
 f
-(a,𝐖b)
+(a, b)
 f
-(a,𝐖b),𝐖
+(a, b),
 f
-(a,𝐖b)
-q(x)𝐖=ax^2𝐖𝐖+bx𝐖+c
-a𝐖>0
-a𝐖\lt𝐖0
+(a, b)
+q(x) =ax^2 +bx +c
+a >0
+a \lt 0
 q
-q(x)𝐖=ax^2𝐖𝐖+bx𝐖+c
-a𝐖\not=𝐖0
+q(x) =ax^2 +bx +c
+a \not= 0
 1
-a𝐖>0
-a𝐖\lt𝐖0
+a >0
+a \lt 0
 1
 h
 t
-v_0𝐖
-s_0𝐖
-h𝐖=q(t)𝐖=𝐖-16t^2𝐖𝐖+v_0𝐖t𝐖+s_0𝐖𝐖.
+v_0
+s_0
+h =q(t) = -16t^2 +v_0 t +s_0 .
 h
-v_0𝐖
-𝐖-16
-𝐖-4.9𝐖.
+v_0
+-16
+-4.9 .
 q
 1
 2
@@ -8262,62 +8262,62 @@ q
 1
 2
 x
-r𝐖=s𝐖.
-q(x)𝐖=ax^2𝐖𝐖+bx𝐖+c
-q(x)𝐖=a(x𝐖-h)^2𝐖𝐖+k
-q(x)𝐖=a(x𝐖-r)(x𝐖-s)
+r =s .
+q(x) =ax^2 +bx +c
+q(x) =a(x -h)^2 +k
+q(x) =a(x -r)(x -s)
 y
-(0,𝐖c)
-(0,𝐖ah^2𝐖𝐖+k)
-(0,𝐖ars)
+(0, c)
+(0, ah^2 +k)
+(0, ars)
 x
-b^2𝐖𝐖-4ac𝐖\ge𝐖0
-𝐖-\frac{k}{a}𝐖\ge𝐖0
-(\frac{𝐖-b𝐖\pm𝐖\sqrt{b^2𝐖𝐖-4ac}}{2a},𝐖0)
-(h𝐖\pm𝐖\sqrt{𝐖-\frac{k}{a}},𝐖0)
-(r,𝐖0),𝐖
-(s,𝐖0)
-(𝐖-\frac{b}{2a},𝐖q(𝐖-\frac{b}{2a}))
-(h,𝐖k)
-(\frac{r𝐖+s}{2},𝐖q(\frac{r𝐖+s}{2}))
-f(x)𝐖=x^2𝐖𝐖-5x𝐖-24𝐖.
+b^2 -4ac \ge 0
+-\frac{k}{a} \ge 0
+(\frac{ -b \pm \sqrt{b^2 -4ac}}{2a}, 0)
+(h \pm \sqrt{ -\frac{k}{a}}, 0)
+(r, 0),
+(s, 0)
+( -\frac{b}{2a}, q( -\frac{b}{2a}))
+(h, k)
+(\frac{r +s}{2}, q(\frac{r +s}{2}))
+f(x) =x^2 -5x -24 .
 x
-x𝐖=
+x =
 y
-y𝐖=
-f(x)𝐖=(x𝐖-3)^2𝐖
-g(x)𝐖=(x𝐖+4)^2𝐖
-h(x)𝐖=x^2𝐖𝐖-2
-y𝐖=4(x𝐖+8)^2𝐖𝐖-8𝐖.
-x𝐖=
-y𝐖=x^2𝐖𝐖-15x𝐖+50
-x𝐖=
+y =
+f(x) =(x -3)^2
+g(x) =(x +4)^2
+h(x) =x^2 -2
+y =4(x +8)^2 -8 .
+x =
+y =x^2 -15x +50
+x =
 100
 t
-y𝐖=100t𝐖-16t^2𝐖𝐖.
-t𝐖=2
+y =100t -16t^2 .
+t =2
 0.5
 0.1
 0.01
-t𝐖=2𝐖.
+t =2 .
 f
-g,𝐖
+g,
 f
-g𝐖.
-f𝐖?
-g𝐖?
+g .
+f ?
+g ?
 h
-h(x)𝐖=2x^2𝐖𝐖-8x𝐖+6𝐖.
+h(x) =2x^2 -8x +6 .
 h
-f𝐖?
+f ?
 h
-g𝐖?
+g ?
 f
-f(x)𝐖=\frac{1}{2}(x𝐖-2)^2𝐖𝐖+1𝐖.
-f𝐖.
+f(x) =\frac{1}{2}(x -2)^2 +1 .
+f .
 f
-0,𝐖
-1,𝐖
+0,
+1,
 2
 x
 x
@@ -8331,39 +8331,39 @@ f(x)
 4
 5
 f
-[a,𝐖b]
-AV_{[a,𝐖b]}𝐖
-[0,𝐖1]
-[1,𝐖2]
-[2,𝐖3]
-[3,𝐖4]
-[4,𝐖5]
+[a, b]
+AV_{[a, b]}
+[0, 1]
+[1, 2]
+[2, 3]
+[3, 4]
+[4, 5]
 f
 56.3
 1.2
-t𝐖=2.4𝐖?
-t𝐖=1.2𝐖?
-f(t)𝐖=ab^t𝐖
+t =2.4 ?
+t =1.2 ?
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-r(x)𝐖=\frac{p(x)}{q(x)},𝐖
-p(x)𝐖=0
-q(x)𝐖=0𝐖.
-\frac{1}{x},𝐖
-r(x)𝐖=\frac{x^2𝐖𝐖-1}{x^2𝐖𝐖-3x𝐖-4},𝐖
-p(x)𝐖=x^2𝐖𝐖-1
+f(t) =b^t
+r(x) =\frac{p(x)}{q(x)},
+p(x) =0
+q(x) =0 .
+\frac{1}{x},
+r(x) =\frac{x^2 -1}{x^2 -3x -4},
+p(x) =x^2 -1
 r(x)
-q(x)𝐖=x^2𝐖𝐖-3x𝐖-4
+q(x) =x^2 -3x -4
 r(x)
 x
-p(x)𝐖=0𝐖?
+p(x) =0 ?
 x
-q(x)𝐖=0𝐖?
+q(x) =0 ?
 r(x)
 r
 x
@@ -8384,31 +8384,31 @@ r(x)
 0.999
 x
 r(x)
-𝐖-1.1
-𝐖-1.01
-𝐖-1.001
-𝐖-0.9
-𝐖-0.99
-𝐖-0.999
+-1.1
+-1.01
+-1.001
+-0.9
+-0.99
+-0.999
 r
-x𝐖=4𝐖?
+x =4 ?
 r
-x𝐖=1𝐖?
+x =1 ?
 r
-x𝐖=𝐖-1𝐖?
+x = -1 ?
 r
-r(x)𝐖=\frac{p(x)}{q(x)}
-0𝐖.
+r(x) =\frac{p(x)}{q(x)}
+0 .
 0
-\frac{0.1}{0.9}𝐖=0.111111\cdots𝐖,𝐖\frac{0.01}{0.99}𝐖=0.010101\cdots𝐖,𝐖\frac{0.001}{0.999}𝐖=0.001001\cdots𝐖𝐖.
+\frac{0.1}{0.9} =0.111111\cdots, \frac{0.01}{0.99} =0.010101\cdots, \frac{0.001}{0.999} =0.001001\cdots .
 0
-0,𝐖
-0𝐖.
+0,
+0 .
 0
-\frac{0.9}{0.1}𝐖=9,𝐖\frac{0.99}{0.01}𝐖=99,𝐖\frac{0.999}{0.001}𝐖=999𝐖.
+\frac{0.9}{0.1} =9, \frac{0.99}{0.01} =99, \frac{0.999}{0.001} =999 .
 0
-0,𝐖
-r(x)𝐖=\frac{p(x)}{q(x)}
+0,
+r(x) =\frac{p(x)}{q(x)}
 p(x)
 q(x)
 r
@@ -8416,557 +8416,557 @@ q(x)
 p(x)
 p(x)
 q(x)
-0,𝐖
-\frac{0.2}{0.1}𝐖=2,𝐖\frac{0.02}{0.01}𝐖=2,𝐖\frac{0.002}{0.001}𝐖=2𝐖.
-0,𝐖
-2𝐖.
-r(x)𝐖=\frac{x^2𝐖𝐖-1}{x^2𝐖𝐖-3x𝐖-4}
-p(x)𝐖=x^2𝐖𝐖-1
-q(x)𝐖=x^2𝐖𝐖-3x𝐖-4𝐖.
+0,
+\frac{0.2}{0.1} =2, \frac{0.02}{0.01} =2, \frac{0.002}{0.001} =2 .
+0,
+2 .
+r(x) =\frac{x^2 -1}{x^2 -3x -4}
+p(x) =x^2 -1
+q(x) =x^2 -3x -4 .
 r
-r𝐖.
-p(x)𝐖=x^2𝐖𝐖-1𝐖=(x𝐖-1)(x𝐖+1)
-q(x)𝐖=x^2𝐖𝐖-3x𝐖-4𝐖=(x𝐖+1)(x𝐖-4)𝐖.
+r .
+p(x) =x^2 -1 =(x -1)(x +1)
+q(x) =x^2 -3x -4 =(x +1)(x -4) .
 r
-x𝐖=𝐖-1
-x𝐖=4,𝐖
-q(x)𝐖\not=𝐖0𝐖.
+x = -1
+x =4,
+q(x) \not= 0 .
 r
-x𝐖=𝐖-1,𝐖
+x = -1,
 r
-x𝐖=𝐖-1,𝐖
-r(𝐖-1)
-r(𝐖-1)
-r(x)𝐖=\frac{x^2𝐖𝐖-1}{x^2𝐖𝐖-3x𝐖-4}𝐖.
+x = -1,
+r( -1)
+r( -1)
+r(x) =\frac{x^2 -1}{x^2 -3x -4} .
 r(x)
-x𝐖=𝐖-1𝐖.
+x = -1 .
 r(x)
-x𝐖=𝐖-1𝐖.
-q(x)𝐖=(x𝐖+1)(x𝐖-4),𝐖
+x = -1 .
+q(x) =(x +1)(x -4),
 r
-x𝐖=𝐖-1𝐖.
+x = -1 .
 q
 0
 x
-𝐖-1,𝐖
-p(x)𝐖=(x𝐖-1)(x𝐖+1)𝐖.
-x𝐖=𝐖-1,𝐖
-r(x)𝐖=\frac{x^2𝐖𝐖-1}{x^2𝐖𝐖-3x𝐖-4}
-x𝐖=𝐖-1𝐖.
+-1,
+p(x) =(x -1)(x +1) .
+x = -1,
+r(x) =\frac{x^2 -1}{x^2 -3x -4}
+x = -1 .
 x
-𝐖-1.1
-𝐖-1.01
-𝐖-1.001
+-1.1
+-1.01
+-1.001
 r(x)
-\frac{0.21}{0.51}𝐖\approx𝐖0.4118
-\frac{0.0201}{0.0501}𝐖\approx𝐖0.4012
-\frac{0.002001}{0.005001}𝐖\approx𝐖0.4001
+\frac{0.21}{0.51} \approx 0.4118
+\frac{0.0201}{0.0501} \approx 0.4012
+\frac{0.002001}{0.005001} \approx 0.4001
 x
-𝐖-0.9
-𝐖-0.99
-𝐖-0.999
+-0.9
+-0.99
+-0.999
 r(x)
-\frac{𝐖-0.19}{𝐖-0.49}𝐖\approx𝐖0.3878
-\frac{𝐖-0.0199}{𝐖-0.0499}𝐖\approx𝐖0.3989
-\frac{𝐖-0.001999}{𝐖-0.004999}𝐖\approx𝐖0.3999
+\frac{ -0.19}{ -0.49} \approx 0.3878
+\frac{ -0.0199}{ -0.0499} \approx 0.3989
+\frac{ -0.001999}{ -0.004999} \approx 0.3999
 0
 x
-𝐖-1,𝐖
-y𝐖=0.4𝐖.
-r,𝐖
-r(𝐖-1)
+-1,
+y =0.4 .
+r,
+r( -1)
 r
-x𝐖=𝐖-1
-(𝐖-1,𝐖0.4)
-r(𝐖-1)
+x = -1
+( -1, 0.4)
+r( -1)
 r
-x𝐖=𝐖-1𝐖.
-p(1)𝐖=0
-q(1)𝐖=𝐖-6,𝐖
-x𝐖=1,𝐖
+x = -1 .
+p(1) =0
+q(1) = -6,
+x =1,
 r(x)
-q(4)𝐖=0
-p(4)𝐖=15
+q(4) =0
+p(4) =15
 r(x)
-x𝐖=4𝐖.
+x =4 .
 r(x)
 0.4
 x
-𝐖-1,𝐖
-\lim𝐖_{x𝐖\to𝐖𝐖-1}𝐖r(x)𝐖=0.4
+-1,
+\lim_{x \to -1} r(x) =0.4
 r
-\infty𝐖
-r(𝐖-1)
-x𝐖=𝐖-1
+\infty
+r( -1)
+x = -1
 0.4
-(𝐖-1,𝐖0.4),𝐖
+( -1, 0.4),
 a
 L
 r
-x𝐖=a,𝐖
-x𝐖=a
+x =a,
+x =a
 r(x)
 L
 x
-a,𝐖
-\lim𝐖_{x𝐖\to𝐖a}𝐖r(x)𝐖=L
+a,
+\lim_{x \to a} r(x) =L
 r
 x
 a
 L
-r(x)𝐖=\frac{p(x)}{q(x)}
-p(a)𝐖=0
-q(a)𝐖\not=𝐖0,𝐖
-r(a)𝐖=0,𝐖
+r(x) =\frac{p(x)}{q(x)}
+p(a) =0
+q(a) \not= 0,
+r(a) =0,
 r
-x𝐖=a𝐖.
-q(a)𝐖=0
-p(a)𝐖\not=𝐖0,𝐖
+x =a .
+q(a) =0
+p(a) \not= 0,
 r(a)
 r
-x𝐖=a𝐖.
-p(a)𝐖=0
-q(a)𝐖=0
+x =a .
+p(a) =0
+q(a) =0
 L
-\lim𝐖_{x𝐖\to𝐖a}𝐖r(x)𝐖=L,𝐖
+\lim_{x \to a} r(x) =L,
 r(a)
 r
-(a,𝐖L)𝐖.
-p(a)𝐖=0
-q(a)𝐖=0
+(a, L) .
+p(a) =0
+q(a) =0
 r
-x𝐖=a𝐖.
-f(x)𝐖=\frac{x^3𝐖𝐖-6x^2𝐖𝐖+5x}{x^2𝐖𝐖-1}
-g(x)𝐖=\frac{11(x^2𝐖𝐖+1)(x𝐖-7)}{23(x𝐖-1)(x^2𝐖𝐖+4)}
-h(x)𝐖=\frac{x^2𝐖𝐖-8x𝐖+12}{x^2𝐖𝐖-3x𝐖-18}
-q(x)𝐖=\frac{(x𝐖-2)(x^2𝐖𝐖-9)}{(x𝐖-3)(x^2𝐖𝐖+4)}
-r(x)𝐖=\frac{19(x𝐖-2)(x𝐖-3)^2𝐖(x𝐖+1)}{17(x𝐖+1)(x𝐖-4)^2𝐖(x𝐖-5)}
-s(x)𝐖=\frac{1}{x^2𝐖𝐖+1}
+x =a .
+f(x) =\frac{x^3 -6x^2 +5x}{x^2 -1}
+g(x) =\frac{11(x^2 +1)(x -7)}{23(x -1)(x^2 +4)}
+h(x) =\frac{x^2 -8x +12}{x^2 -3x -18}
+q(x) =\frac{(x -2)(x^2 -9)}{(x -3)(x^2 +4)}
+r(x) =\frac{19(x -2)(x -3)^2 (x +1)}{17(x +1)(x -4)^2 (x -5)}
+s(x) =\frac{1}{x^2 +1}
 x
-r(x)𝐖=0,𝐖
+r(x) =0,
 x
 r
-q(x)𝐖=\frac{(x𝐖-2)(x^2𝐖𝐖-9)}{(x𝐖-3)(x𝐖-1)^2𝐖}𝐖.
+q(x) =\frac{(x -2)(x^2 -9)}{(x -3)(x -1)^2} .
 q
 q
 x
-x^2𝐖𝐖-9𝐖=(x𝐖-3)(x𝐖+3),𝐖
-q(x)𝐖=\frac{(x𝐖-2)(x𝐖-3)(x𝐖+3)}{(x𝐖-3)(x𝐖-1)^2𝐖}𝐖.
+x^2 -9 =(x -3)(x +3),
+q(x) =\frac{(x -2)(x -3)(x +3)}{(x -3)(x -1)^2} .
 q
-x𝐖=3
-x𝐖=1
-x𝐖-3𝐖=0
-(x𝐖-1)^2𝐖𝐖=0𝐖.
+x =3
+x =1
+x -3 =0
+(x -1)^2 =0 .
 q
-x𝐖=1
-x𝐖=3𝐖.
-x𝐖=2
-x𝐖=𝐖-3
+x =1
+x =3 .
+x =2
+x = -3
 q
 q
-x𝐖=3
+x =3
 x
-0𝐖.
+0 .
 q
 x
-x𝐖=3
-\lim𝐖_{x𝐖\to𝐖3}𝐖q(x)𝐖=1.5,𝐖
+x =3
+\lim_{x \to 3} q(x) =1.5,
 q
-x𝐖=3𝐖.
+x =3 .
 x
-x𝐖=𝐖-3,𝐖
-x𝐖=1,𝐖
-x𝐖=2𝐖.
-q(x)𝐖=\frac{(x𝐖-2)(x𝐖-3)(x𝐖+3)}{(x𝐖-3)(x𝐖-1)^2𝐖}
-x𝐖\lt𝐖𝐖-3,𝐖
-(x𝐖-2)𝐖\lt𝐖0,𝐖
-(x𝐖-3)𝐖\lt𝐖0,𝐖
-(x𝐖+3)𝐖\lt𝐖0,𝐖
-(x𝐖-1)^2𝐖𝐖>0𝐖.
-x𝐖\lt𝐖𝐖-3,𝐖
+x = -3,
+x =1,
+x =2 .
+q(x) =\frac{(x -2)(x -3)(x +3)}{(x -3)(x -1)^2}
+x \lt -3,
+(x -2) \lt 0,
+(x -3) \lt 0,
+(x +3) \lt 0,
+(x -1)^2 >0 .
+x \lt -3,
 q
-\frac{𝐖-𝐖-𝐖-}{𝐖-𝐖+}𝐖=𝐖+
-𝐖-3𝐖\lt𝐖x𝐖\lt𝐖1,𝐖
-(x𝐖-2)𝐖\lt𝐖0,𝐖
-(x𝐖-3)𝐖\lt𝐖0,𝐖
-(x𝐖+3)𝐖>0,𝐖
-(x𝐖-1)^2𝐖𝐖>0𝐖.
+\frac{ - - -}{ - +} = +
+-3 \lt x \lt 1,
+(x -2) \lt 0,
+(x -3) \lt 0,
+(x +3) >0,
+(x -1)^2 >0 .
 x
 q
-\frac{𝐖-𝐖-𝐖+}{𝐖-𝐖+}𝐖=𝐖-𝐖.
-q,𝐖
-(3,𝐖1.5),𝐖
-q𝐖.
-q𝐖.
+\frac{ - - +}{ - +} = - .
+q,
+(3, 1.5),
+q .
+q .
 q
-x𝐖=𝐖-3
-x𝐖=2,𝐖
-x𝐖=1𝐖.
+x = -3
+x =2,
+x =1 .
 q
-(x𝐖-1)^2𝐖
+(x -1)^2
 r
 r
-x𝐖=𝐖-2,𝐖
-x𝐖=1,𝐖
-x𝐖=5,𝐖
-y𝐖=𝐖-3𝐖.
+x = -2,
+x =1,
+x =5,
+y = -3 .
 u
-3,𝐖
-3,𝐖
-x𝐖=𝐖-4
-y𝐖=\frac{3}{7}𝐖.
+3,
+3,
+x = -4
+y =\frac{3}{7} .
 w
-w(5)𝐖=0
-w(x)𝐖>0
+w(5) =0
+w(x) >0
 x
-x𝐖>3𝐖.
+x >3 .
 z
 z
 x
-w𝐖.
-z𝐖.
+w .
+z .
 f
-r(x)𝐖=\frac{p(x)}{q(x)}
-p(a)𝐖=0
-q(a)𝐖=0
-\lim𝐖_{x𝐖\to𝐖a}𝐖r(x)𝐖=L,𝐖
+r(x) =\frac{p(x)}{q(x)}
+p(a) =0
+q(a) =0
+\lim_{x \to a} r(x) =L,
 r
-(a,𝐖L)𝐖.
-(x𝐖-a)
+(a, L) .
+(x -a)
 p
-q𝐖.
-r(x)𝐖=\frac{p(x)}{q(x)},𝐖
-0𝐖.
-p(a)𝐖=0
-q(a)𝐖\not=𝐖0,𝐖
-r(a)𝐖=0,𝐖
+q .
+r(x) =\frac{p(x)}{q(x)},
+0 .
+p(a) =0
+q(a) \not= 0,
+r(a) =0,
 r
-x𝐖=a𝐖.
-q(a)𝐖=0
-p(a)𝐖\not=𝐖0,𝐖
+x =a .
+q(a) =0
+p(a) \not= 0,
 r(a)
 r
-x𝐖=a𝐖.
+x =a .
 x
-y𝐖=1/x
-f(x)𝐖=\frac{1}{x𝐖+A}𝐖+B
+y =1/x
+f(x) =\frac{1}{x +A} +B
 A
-B𝐖.
+B .
 A
-B𝐖.
-A𝐖=
-B𝐖=
-f(x)𝐖=\frac{Mx𝐖+C}{x𝐖+D}
+B .
+A =
+B =
+f(x) =\frac{Mx +C}{x +D}
 M
-C,𝐖
-D𝐖.
+C,
+D .
 M
-C,𝐖
-D𝐖?
-M𝐖=
-C𝐖=
-D𝐖=
+C,
+D ?
+M =
+C =
+D =
 x
 y
 x
-(1,𝐖0),𝐖
+(1, 0),
 y
-(0,𝐖𝐖-0.25)𝐖.
-y𝐖=𝐖-1
-x𝐖=4𝐖.
-f(x)𝐖=
+(0, -0.25) .
+y = -1
+x =4 .
+f(x) =
 x
-(5,𝐖0)
-(𝐖-4,𝐖0),𝐖
+(5, 0)
+( -4, 0),
 y
-(0,𝐖𝐖-\frac{5}{3})𝐖.
-y𝐖=𝐖-1,𝐖
-x𝐖=𝐖-3,𝐖
-x𝐖=4𝐖.
-f(x)𝐖=
-f(x)𝐖=\frac{6x𝐖-6}{7x𝐖+4}𝐖.
-f^{𝐖-1}𝐖(x)𝐖=
+(0, -\frac{5}{3}) .
+y = -1,
+x = -3,
+x =4 .
+f(x) =
+f(x) =\frac{6x -6}{7x +4} .
+f^{ -1} (x) =
 t
-t𝐖=0,𝐖
+t =0,
 t
-f(t)𝐖=\frac{t^2𝐖𝐖-t𝐖+1}{t^2𝐖𝐖+1}𝐖.
-f(0)𝐖=1
+f(t) =\frac{t^2 -t +1}{t^2 +1} .
+f(0) =1
 80
-r(x)𝐖=\frac{𝐖-19(x𝐖+11.3)^2𝐖(x𝐖-15.1)(x𝐖-17.3)}{41(x𝐖+5.7)(x𝐖+11.3)(x𝐖-8.4)(x𝐖-15.1)}
-s(x)𝐖=\frac{𝐖-29(x^2𝐖𝐖-16)(x^2𝐖𝐖+99)(x𝐖-53)}{101(x^2𝐖𝐖-4)(x𝐖-13)^2𝐖(x𝐖+104)}
-u(x)𝐖=\frac{𝐖-71(x^2𝐖𝐖-13x𝐖+36)(x𝐖-58.4)(x𝐖+78.2)}{83(x𝐖+58.4)(x𝐖-78.2)(x^2𝐖𝐖-12x𝐖+27)}
+r(x) =\frac{ -19(x +11.3)^2 (x -15.1)(x -17.3)}{41(x +5.7)(x +11.3)(x -8.4)(x -15.1)}
+s(x) =\frac{ -29(x^2 -16)(x^2 +99)(x -53)}{101(x^2 -4)(x -13)^2 (x +104)}
+u(x) =\frac{ -71(x^2 -13x +36)(x -58.4)(x +78.2)}{83(x +58.4)(x -78.2)(x^2 -12x +27)}
 r(x)
-r(x)𝐖=\frac{k}{x𝐖-a}𝐖+b
+r(x) =\frac{k}{x -a} +b
 r
-y𝐖=𝐖-\frac{3}{7},𝐖
-x𝐖=\frac{5}{2},𝐖
-r(0)𝐖=4𝐖.
+y = -\frac{3}{7},
+x =\frac{5}{2},
+r(0) =4 .
 s(x)
-x𝐖=𝐖-5
-x𝐖=3,𝐖
-x𝐖=𝐖-1,𝐖
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖s(x)𝐖=𝐖-\infty𝐖
-\lim𝐖_{x𝐖\to𝐖𝐖-\infty𝐖}𝐖s(x)𝐖=𝐖+\infty𝐖𝐖.
+x = -5
+x =3,
+x = -1,
+\lim_{x \to \infty} s(x) = -\infty
+\lim_{x \to -\infty} s(x) = +\infty .
 u(x)
-x𝐖\lt𝐖𝐖-4,𝐖
-𝐖-4𝐖\lt𝐖x𝐖\lt𝐖𝐖-2,𝐖
-𝐖-2𝐖\lt𝐖x𝐖\lt𝐖1,𝐖
-1𝐖\lt𝐖x𝐖\lt𝐖5,𝐖
-x𝐖>5𝐖.
+x \lt -4,
+-4 \lt x \lt -2,
+-2 \lt x \lt 1,
+1 \lt x \lt 5,
+x >5 .
 u
-x𝐖=𝐖-4
-x𝐖=𝐖-2𝐖.
+x = -4
+x = -2 .
 u
-x𝐖=4𝐖.
+x =4 .
 w(x)
-w𝐖.
-r(x)𝐖=𝐖-\frac{3}{x𝐖-4}𝐖+5
-s(x)𝐖=\frac{4𝐖-3x}{7x𝐖-2}
-u(x)𝐖=\frac{2x𝐖-1}{(x𝐖-1)^2𝐖}
-w(x)𝐖=\frac{11}{(x𝐖+4)^3𝐖}𝐖-7
-r(x)𝐖=\frac{x^2𝐖𝐖-16}{x𝐖+4}
-s(x)𝐖=\frac{(x𝐖-2)^2𝐖(x𝐖+3)}{x^2𝐖𝐖-5x𝐖-6}
-u(x)𝐖=\frac{(x𝐖-2)^3𝐖(x𝐖+3)}{(x^2𝐖𝐖-5x𝐖-6)(x𝐖-7)}
-w(x)𝐖=\frac{x^2𝐖𝐖+x𝐖-6}{(x^2𝐖𝐖+5x𝐖+6)(x𝐖+3)}
-r(x)𝐖=\frac{p(x)}{q(x)},𝐖
-p(a)𝐖=0
-q(a)𝐖=0,𝐖
+w .
+r(x) = -\frac{3}{x -4} +5
+s(x) =\frac{4 -3x}{7x -2}
+u(x) =\frac{2x -1}{(x -1)^2}
+w(x) =\frac{11}{(x +4)^3} -7
+r(x) =\frac{x^2 -16}{x +4}
+s(x) =\frac{(x -2)^2 (x +3)}{x^2 -5x -6}
+u(x) =\frac{(x -2)^3 (x +3)}{(x^2 -5x -6)(x -7)}
+w(x) =\frac{x^2 +x -6}{(x^2 +5x +6)(x +3)}
+r(x) =\frac{p(x)}{q(x)},
+p(a) =0
+q(a) =0,
 r
-x𝐖=a𝐖.
-[1,𝐖x]𝐖.
-f(x)𝐖=x^2𝐖
+x =a .
+[1, x] .
+f(x) =x^2
 A(x)
 f
-[1,𝐖x]𝐖.
+[1, x] .
 A
-x𝐖.
-A𝐖?
+x .
+A ?
 A
 A
 f
-[1,𝐖x]
+[1, x]
 x
-1𝐖?
-g(x)𝐖=x^3𝐖
+1 ?
+g(x) =x^3
 B(x)
 B
-[1,𝐖x]𝐖.
+[1, x] .
 B
-A𝐖.
-h(x)𝐖=x^4𝐖
+A .
+h(x) =x^4
 C(x)
 C
-[1,𝐖x]𝐖.
+[1, x] .
 C
-A𝐖.
-f(t)𝐖=ab^t𝐖
+A .
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t
 s
-t,𝐖
+t,
 s
-[a,𝐖b]
-AV_{[a,𝐖b]}𝐖𝐖=\frac{s(b)𝐖-s(a)}{b𝐖-a}𝐖.
+[a, b]
+AV_{[a, b]} =\frac{s(b) -s(a)}{b -a} .
 s
-[a,𝐖b]
-s(t)𝐖=64𝐖-16(t𝐖-1)^2𝐖,𝐖
+[a, b]
+s(t) =64 -16(t -1)^2,
 t
 s
-AV_{[1.5,𝐖2.5]}𝐖𝐖.
-AV_{[1.5,𝐖2.5]}𝐖𝐖?
-s(t)𝐖=64𝐖-16(t𝐖-1)^2𝐖
-(1.5,𝐖s(1.5))
-(2.5,𝐖s(2.5))𝐖.
-(1.5,𝐖s(1.5))
-(2.5,𝐖s(2.5))𝐖.
-y𝐖=mt𝐖+b
-AV_{[1.5,𝐖2.5]}𝐖
-[0.25,𝐖0.75]𝐖?
-[0.5,𝐖1.5]𝐖?
-[1,𝐖3]𝐖?
-AV_{[1.5,𝐖2.5]}𝐖𝐖=𝐖-32
-𝐖-32
+AV_{[1.5, 2.5]} .
+AV_{[1.5, 2.5]} ?
+s(t) =64 -16(t -1)^2
+(1.5, s(1.5))
+(2.5, s(2.5)) .
+(1.5, s(1.5))
+(2.5, s(2.5)) .
+y =mt +b
+AV_{[1.5, 2.5]}
+[0.25, 0.75] ?
+[0.5, 1.5] ?
+[1, 3] ?
+AV_{[1.5, 2.5]} = -32
+-32
 s
-[1.5,𝐖2.5]
+[1.5, 2.5]
 f
-[a,𝐖b]𝐖.
+[a, b] .
 f
-[a,𝐖b],𝐖
+[a, b],
 f
-[a,𝐖b]
-AV_{[a,𝐖b]}𝐖𝐖=\frac{f(b)𝐖-f(a)}{b𝐖-a}𝐖.
+[a, b]
+AV_{[a, b]} =\frac{f(b) -f(a)}{b -a} .
 f
-[a,𝐖b]
-(a,𝐖f(a))
-(b,𝐖f(b)),𝐖
+[a, b]
+(a, f(a))
+(b, f(b)),
 10
 K(Y)
 Y
 W(Y)
-Y𝐖.
-AV_{[1990,𝐖2010]}𝐖
+Y .
+AV_{[1990, 2010]}
 K
-W𝐖.
-[1990,𝐖2010]𝐖.
-\ldots𝐖
-[2000,𝐖2010]𝐖?
-AV_{[1970,𝐖2000]}𝐖
-AV_{[1970,𝐖2000]}𝐖𝐖=\frac{574,336𝐖-411,044}{30}𝐖=5443.07,𝐖
+W .
+[1990, 2010] .
+\ldots
+[2000, 2010] ?
+AV_{[1970, 2000]}
+AV_{[1970, 2000]} =\frac{574,336 -411,044}{30} =5443.07,
 5443
 5443
-AV_{[1990,𝐖2000]}𝐖𝐖=\frac{574,336𝐖-500,631}{10}𝐖=7370.5,𝐖
+AV_{[1990, 2000]} =\frac{574,336 -500,631}{10} =7370.5,
 7370
 7370.5
-K(2002)𝐖\approx𝐖K(2000)𝐖+2𝐖\cdot𝐖7370.5𝐖=574,336𝐖+14,741𝐖=589,077.
-s(t)𝐖=64𝐖-16(t𝐖-1)^2𝐖,𝐖
-AV_{[1.5,𝐖2.5]}𝐖𝐖=𝐖-32,𝐖
-[1.5,𝐖2.5],𝐖
+K(2002) \approx K(2000) +2 \cdot 7370.5 =574,336 +14,741 =589,077.
+s(t) =64 -16(t -1)^2,
+AV_{[1.5, 2.5]} = -32,
+[1.5, 2.5],
 32
-AV_{[1990,𝐖2000]}𝐖𝐖=7370.5,𝐖
-[1990,𝐖2000]
+AV_{[1990, 2000]} =7370.5,
+[1990, 2000]
 7370.5
 f
-(a,𝐖b)
+(a, b)
 x
-a𝐖\lt𝐖x𝐖\lt𝐖b
+a \lt x \lt b
 f
-(a,𝐖b)
+(a, b)
 x
 y
-(a,𝐖b),𝐖
-x𝐖\lt𝐖y,𝐖
-f(x)𝐖\lt𝐖f(y)𝐖.
+(a, b),
+x \lt y,
+f(x) \lt f(y) .
 f
-(a,𝐖b)
+(a, b)
 x
 y
-(a,𝐖b),𝐖
-x𝐖\lt𝐖y,𝐖
-f(x)𝐖>f(y)𝐖.
+(a, b),
+x \lt y,
+f(x) >f(y) .
 q
 h
-q(x)𝐖=4𝐖-(x𝐖-2)^2𝐖𝐖.
-AV_{[0,𝐖1]}𝐖,𝐖
-AV_{[1,𝐖2]}𝐖,𝐖
-AV_{[2,𝐖3]}𝐖,𝐖
-AV_{[3,𝐖4]}𝐖𝐖.
+q(x) =4 -(x -2)^2 .
+AV_{[0, 1]},
+AV_{[1, 2]},
+AV_{[2, 3]},
+AV_{[3, 4]} .
 q
-[2,𝐖4]𝐖?
-h(t)𝐖=3𝐖-2(0.5)^t𝐖𝐖.
-AV_{[𝐖-1,𝐖1]}𝐖,𝐖
-AV_{[1,𝐖3]}𝐖,𝐖
-AV_{[3,𝐖5]}𝐖𝐖.
+[2, 4] ?
+h(t) =3 -2(0.5)^t .
+AV_{[ -1, 1]},
+AV_{[1, 3]},
+AV_{[3, 5]} .
 h
-[𝐖-1,𝐖5]𝐖?
+[ -1, 5] ?
 q
 h
-AV_{[0,𝐖3]}𝐖𝐖=1,𝐖
+AV_{[0, 3]} =1,
 q
-(0,𝐖3)𝐖.
-AV_{[𝐖-3,𝐖2]}𝐖𝐖=1.75
-f,𝐖
-x𝐖=𝐖-3
-x𝐖=2
+(0, 3) .
+AV_{[ -3, 2]} =1.75
+f,
+x = -3
+x =2
 1.75
 f(2)
-f(𝐖-3)
-f(2)𝐖-f(𝐖-3)𝐖=1.75𝐖\cdot𝐖5𝐖=8.75
-\frac{f(2)𝐖-f(𝐖-3)}{2𝐖-(𝐖-3)}𝐖=1.75𝐖.
+f( -3)
+f(2) -f( -3) =1.75 \cdot 5 =8.75
+\frac{f(2) -f( -3)}{2 -( -3)} =1.75 .
 f
-[𝐖-1,𝐖7]
-f(1)𝐖=4
-AV_{[1,𝐖3]}𝐖𝐖=𝐖-2𝐖.
+[ -1, 7]
+f(1) =4
+AV_{[1, 3]} = -2 .
 g
-[𝐖-1,𝐖7]
-g(4)𝐖=3,𝐖
-AV_{[0,𝐖4]}𝐖𝐖=0.5,𝐖
+[ -1, 7]
+g(4) =3,
+AV_{[0, 4]} =0.5,
 g
-(0,𝐖4)𝐖.
+(0, 4) .
 h
-[𝐖-1,𝐖7]
-h(2)𝐖=5,𝐖
-h(4)𝐖=3
-AV_{[2,𝐖4]}𝐖𝐖=𝐖-2𝐖.
+[ -1, 7]
+h(2) =5,
+h(4) =3
+AV_{[2, 4]} = -2 .
 f
-[a,𝐖b],𝐖
+[a, b],
 f
-[a,𝐖b]
-AV_{[a,𝐖b]}𝐖𝐖=\frac{f(b)𝐖-f(a)}{b𝐖-a}𝐖.
-AV_{[a,𝐖b]}𝐖𝐖=\frac{f(b)𝐖-f(a)}{b𝐖-a}
-AV_{[3,𝐖7]}𝐖𝐖=0.75,𝐖
+[a, b]
+AV_{[a, b]} =\frac{f(b) -f(a)}{b -a} .
+AV_{[a, b]} =\frac{f(b) -f(a)}{b -a}
+AV_{[3, 7]} =0.75,
 1
 x
-[3,𝐖7],𝐖
+[3, 7],
 0.75
-AV_{[a,𝐖b]}𝐖
-AV_{[a,𝐖b]}𝐖𝐖=\frac{f(b)𝐖-f(a)}{b𝐖-a}
-(a,𝐖f(a))
-(b,𝐖f(b))
-f,𝐖
-P_1𝐖
-P_2𝐖
-P_1𝐖
-P_2𝐖
-g(x)𝐖=𝐖-6𝐖-5x
-(𝐖-4,𝐖14)
-(5,𝐖𝐖-31)𝐖?
+AV_{[a, b]}
+AV_{[a, b]} =\frac{f(b) -f(a)}{b -a}
+(a, f(a))
+(b, f(b))
+f,
+P_1
+P_2
+P_1
+P_2
+g(x) = -6 -5x
+( -4, 14)
+(5, -31) ?
 g
-𝐖-4𝐖\le𝐖x𝐖\le𝐖5𝐖.
-f(x)𝐖=3x^2𝐖𝐖+7
-(3,𝐖34)
-(5,𝐖82)
-(c,𝐖k)
-(q,𝐖t)
-(x,𝐖f(x))
-(x𝐖+h,𝐖f(x𝐖+h))
+-4 \le x \le 5 .
+f(x) =3x^2 +7
+(3, 34)
+(5, 82)
+(c, k)
+(q, t)
+(x, f(x))
+(x +h, f(x +h))
 f(x)
 g(x)
 f(x)
-2.2𝐖\le𝐖x𝐖\le𝐖6.1
+2.2 \le x \le 6.1
 g(x)
-2.2𝐖\le𝐖x𝐖\le𝐖6.1
+2.2 \le x \le 6.1
 D
 t
-\Delta𝐖D
-\Delta𝐖t
-\Delta𝐖D
-\Delta𝐖t
+\Delta D
+\Delta t
+\Delta D
+\Delta t
 D
-D𝐖?
-\frac{\Delta𝐖D}{\Delta𝐖t}𝐖=
-f(x)𝐖=36𝐖-x^2𝐖𝐖.
-\frac{f(4)𝐖-f(0)}{4𝐖-0}𝐖=
-\frac{f(6)𝐖-f(4)}{6𝐖-4}𝐖=
-\frac{f(6)𝐖-f(0)}{6𝐖-0}𝐖=
-\frac{f(4)𝐖-f(0)}{4𝐖-0}
-\frac{f(6)𝐖-f(4)}{6𝐖-4}
-\frac{f(6)𝐖-f(0)}{6𝐖-0}
-T,𝐖
-d,𝐖
-d,\space𝐖depth(m)
-T,\space𝐖temp(C\circ)
-\Delta𝐖T/\Delta𝐖d
-125𝐖\le𝐖d𝐖\le𝐖275
-\Delta𝐖T/\Delta𝐖d
-25𝐖\le𝐖d𝐖\le𝐖125
-\Delta𝐖T/\Delta𝐖d
-75𝐖\le𝐖d𝐖\le𝐖200
-\Delta𝐖T/\Delta𝐖d
-75𝐖\le𝐖d𝐖\le𝐖200
-d𝐖=75𝐖.
+D ?
+\frac{\Delta D}{\Delta t} =
+f(x) =36 -x^2 .
+\frac{f(4) -f(0)}{4 -0} =
+\frac{f(6) -f(4)}{6 -4} =
+\frac{f(6) -f(0)}{6 -0} =
+\frac{f(4) -f(0)}{4 -0}
+\frac{f(6) -f(4)}{6 -4}
+\frac{f(6) -f(0)}{6 -0}
+T,
+d,
+d,\space depth(m)
+T,\space temp(C\circ)
+\Delta T/\Delta d
+125 \le d \le 275
+\Delta T/\Delta d
+25 \le d \le 125
+\Delta T/\Delta d
+75 \le d \le 200
+\Delta T/\Delta d
+75 \le d \le 200
+d =75 .
 F
 5
 t
@@ -8987,96 +8987,96 @@ F
 61.97
 64.19
 65.92
-AV_{[0,𝐖5]}𝐖,𝐖
-AV_{[5,𝐖10]}𝐖,𝐖
-AV_{[10,𝐖15]}𝐖,𝐖
-\ldots𝐖,𝐖
-\ldots𝐖
-\ldots𝐖
+AV_{[0, 5]},
+AV_{[5, 10]},
+AV_{[10, 15]},
+\ldots,
+\ldots
+\ldots
 1
-\ldots𝐖
-[10,𝐖20]
-[25,𝐖35]𝐖?
-t𝐖=37
+\ldots
+[10, 20]
+[25, 35] ?
+t =37
 t
-y𝐖=s(t)
-(2,𝐖4)
-y𝐖=s(t),𝐖
+y =s(t)
+(2, 4)
+y =s(t),
 t
-[0,𝐖1],𝐖
-[1,𝐖2],𝐖
-[2,𝐖3],𝐖
-[3,𝐖4],𝐖
-[4,𝐖5],𝐖
-[0,𝐖12]𝐖.
+[0, 1],
+[1, 2],
+[2, 3],
+[3, 4],
+[4, 5],
+[0, 12] .
 s
-[3,𝐖4],𝐖
-[4,𝐖6],𝐖
-[5,𝐖8]𝐖.
-AV_{[a,𝐖b]}𝐖
-s,𝐖
-AV_{[3,𝐖4]}𝐖,𝐖
-AV_{[4,𝐖6]}𝐖,𝐖
-AV_{[5,𝐖8]}𝐖
+[3, 4],
+[4, 6],
+[5, 8] .
+AV_{[a, b]}
+s,
+AV_{[3, 4]},
+AV_{[4, 6]},
+AV_{[5, 8]}
 5000
 3
 2
 0.75
-V𝐖=f(t)
+V =f(t)
 t
-h𝐖=g(t)
-t𝐖.
+h =g(t)
+t .
 g
-g(t)𝐖=(\frac{t}{\pi𝐖})^{1/3}𝐖𝐖.
-h𝐖=g(t)
-h𝐖=g(t)𝐖=(\frac{t}{\pi𝐖})^{1/3}𝐖,𝐖
-AV_{[0,𝐖2]}𝐖,𝐖
-AV_{[2,𝐖4]}𝐖,𝐖
-AV_{[4,𝐖6]}𝐖𝐖.
-[a,𝐖b]
-AV_{[a,𝐖b]}𝐖𝐖=2
-V𝐖=f(t)𝐖.
-f,𝐖
-[0,𝐖2],𝐖
-[2,𝐖4],𝐖
-[4,𝐖6]𝐖?
-f(t)𝐖=ab^t𝐖
+g(t) =(\frac{t}{\pi})^{1/3} .
+h =g(t)
+h =g(t) =(\frac{t}{\pi})^{1/3},
+AV_{[0, 2]},
+AV_{[2, 4]},
+AV_{[4, 6]} .
+[a, b]
+AV_{[a, b]} =2
+V =f(t) .
+f,
+[0, 2],
+[2, 4],
+[4, 6] ?
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t
 100
 100000
 10
-100,𝐖
+100,
 1
-100,𝐖
+100,
 10
-100,𝐖
-100\overset{year\~1}{\longrightarrow𝐖}100𝐖+0.1(100)𝐖=1.1(100)𝐖.
-100000,𝐖
+100,
+100\overset{year\~1}{\longrightarrow}100 +0.1(100) =1.1(100) .
+100000,
 1
-100000,𝐖
+100000,
 10
-100000,𝐖
-100000\overset{year\~1}{\longrightarrow𝐖}100000𝐖+0.1(100000)𝐖=1.1(100000)𝐖.
-P,𝐖
+100000,
+100000\overset{year\~1}{\longrightarrow}100000 +0.1(100000) =1.1(100000) .
+P,
 1
-1.1P𝐖.
-1.1(100)\overset{year\~2}{\longrightarrow𝐖}1.1(100)𝐖+0.1(1.1(100))𝐖=1.1(1.1(100))𝐖=1.1^2𝐖(100)𝐖.
-1.1(100000)\overset{year\~2}{\longrightarrow𝐖}1.1(100000)𝐖+0.1(1.1(100000))𝐖=1.1(1.1(100000))𝐖=1.1^2𝐖(100000),𝐖
+1.1P .
+1.1(100)\overset{year\~2}{\longrightarrow}1.1(100) +0.1(1.1(100)) =1.1(1.1(100)) =1.1^2 (100) .
+1.1(100000)\overset{year\~2}{\longrightarrow}1.1(100000) +0.1(1.1(100000)) =1.1(1.1(100000)) =1.1^2 (100000),
 P
 2
-1.1^2𝐖P𝐖.
+1.1^2 P .
 3
 10
 P
-1.1^3𝐖P𝐖.
+1.1^3 P .
 10
-1.1,𝐖
+1.1,
 1.1
 20
 20000
@@ -9088,97 +9088,97 @@ I(t)
 t
 V(t)
 t
-I(0),𝐖
-I(1),𝐖
-I(2),𝐖
-I(3)𝐖.
+I(0),
+I(1),
+I(2),
+I(3) .
 12
 88
-V(0),𝐖
-V(1),𝐖
-V(2),𝐖
-V(3)𝐖.
+V(0),
+V(1),
+V(2),
+V(3) .
 I(t)
-V(t)𝐖.
+V(t) .
 I(t)
-V(t)𝐖.
-0𝐖\le𝐖t𝐖\le𝐖20
+V(t) .
+0 \le t \le 20
 I(20)
 V(20)
 I
-V𝐖.
-f(t)𝐖=ab^t𝐖
+V .
+f(t) =ab^t
 I(t)
 V(t)
-g(t)𝐖=ab^t𝐖
+g(t) =ab^t
 a
 b
-b𝐖\not=𝐖1𝐖.
+b \not= 1 .
 a
-b^t𝐖,𝐖
+b^t,
 b
-b𝐖>0
-b𝐖\not=𝐖1𝐖.
-f(t)𝐖=b^t𝐖
-b𝐖.
-f(t)𝐖=b^t𝐖,𝐖
-f(0)𝐖=b^0𝐖𝐖=1,𝐖
-(0,𝐖1)𝐖.
-2^{10}𝐖𝐖=1024
-2^{𝐖-10}𝐖𝐖=\frac{1}{2^{10}𝐖}𝐖=\frac{1}{1024}
-f(t)𝐖=b^t𝐖
+b >0
+b \not= 1 .
+f(t) =b^t
+b .
+f(t) =b^t,
+f(0) =b^0 =1,
+(0, 1) .
+2^{10} =1024
+2^{ -10} =\frac{1}{2^{10}} =\frac{1}{1024}
+f(t) =b^t
 x
 I(t)
 V(t)
-ab^t𝐖,𝐖
-I(t)𝐖=20000(1.08)^t𝐖
-V(t)𝐖=20000(0.88)^t𝐖𝐖.
+ab^t,
+I(t) =20000(1.08)^t
+V(t) =20000(0.88)^t .
 1.08
 I
 0.88
-V𝐖.
+V .
 0.08
 I
-𝐖-0.12
-V,𝐖
-f(t)𝐖=ab^t𝐖,𝐖
+-0.12
+V,
+f(t) =ab^t,
 b
-b𝐖=1𝐖+r,𝐖
+b =1 +r,
 r
-b𝐖>1,𝐖
+b >1,
 f
-0𝐖\lt𝐖b𝐖\lt𝐖1,𝐖
+0 \lt b \lt 1,
 f
-f(t)𝐖=ab^t𝐖
-g(t)𝐖=ab^t𝐖
+f(t) =ab^t
+g(t) =ab^t
 a
 b
 0.1
-10𝐖.
+10 .
 g
-b𝐖\not=𝐖1,𝐖
+b \not= 1,
 b
-g(t)𝐖=ab^t𝐖𝐖?
-g(t)𝐖=ab^t𝐖𝐖?
+g(t) =ab^t ?
+g(t) =ab^t ?
 y
-g(t)𝐖=ab^t𝐖𝐖?
+g(t) =ab^t ?
 b
-g(t)𝐖=ab^t𝐖𝐖?
+g(t) =ab^t ?
 b
 b
 p
 q
-p(t)𝐖=ab^t𝐖
-q(t)𝐖=cd^t𝐖,𝐖
-a,𝐖
-b,𝐖
-c,𝐖
+p(t) =ab^t
+q(t) =cd^t,
+a,
+b,
+c,
 d
-b𝐖\not=𝐖1
-d𝐖\not=𝐖1
-1𝐖?
+b \not= 1
+d \not= 1
+1 ?
 p
-q𝐖.
+q .
 a
 b
 r
@@ -9193,7 +9193,7 @@ r(t)
 10
 8
 6
-r𝐖.
+r .
 t
 0
 3
@@ -9204,82 +9204,82 @@ s(t)
 9
 6.75
 5.0625
-s𝐖.
-\triangle𝐖r𝐖=𝐖-2
-\triangle𝐖t𝐖=3𝐖.
+s .
+\triangle r = -2
+\triangle t =3 .
 r
-m𝐖=𝐖-\frac{2}{3}𝐖.
+m = -\frac{2}{3} .
 y
-(0,𝐖12),𝐖
-y𝐖=r(t)𝐖=12𝐖-\frac{2}{3}t𝐖.
+(0, 12),
+y =r(t) =12 -\frac{2}{3}t .
 s
-\frac{9}{12}𝐖=\frac{3}{4},𝐖\frac{6.75}{9}𝐖=0.75𝐖=\frac{3}{4},𝐖\~and\~\frac{5.0625}{6.75}𝐖=0.75𝐖=\frac{3}{4}𝐖.
+\frac{9}{12} =\frac{3}{4}, \frac{6.75}{9} =0.75 =\frac{3}{4}, \~and\~\frac{5.0625}{6.75} =0.75 =\frac{3}{4} .
 a
 b
 p
-p(2)𝐖=11
-p(5)𝐖=18𝐖.
+p(2) =11
+p(5) =18 .
 a
 b
-p(t)𝐖=ab^t𝐖𝐖.
-p(t)𝐖=ab^t𝐖,𝐖
+p(t) =ab^t .
+p(t) =ab^t,
 a
-b𝐖.
-t𝐖=2,𝐖
-(3.1.1)𝐖&𝐖ab^2𝐖𝐖=11,𝐖
-t𝐖=5
-(3.1.2)𝐖&𝐖ab^5𝐖𝐖=18.
-\frac{18}{11}𝐖.
-\frac{18}{11}𝐖=\frac{ab^5𝐖}{ab^2𝐖}𝐖.
-\frac{18}{11}𝐖=b^3𝐖𝐖.
-b,𝐖
-b𝐖=\sqrt[3]{\frac{18}{11}}
-b𝐖.
+b .
+t =2,
+(3.1.1) & ab^2 =11,
+t =5
+(3.1.2) & ab^5 =18.
+\frac{18}{11} .
+\frac{18}{11} =\frac{ab^5}{ab^2} .
+\frac{18}{11} =b^3 .
+b,
+b =\sqrt[3]{\frac{18}{11}}
+b .
 b
-a(\sqrt[3]{\frac{18}{11}})^2𝐖𝐖=11,𝐖
-a𝐖=\frac{11}{(\frac{18}{11})^{2/3}𝐖}𝐖.
-p(t)𝐖=\frac{11}{(\frac{18}{11})^{2/3}𝐖}(\sqrt[3]{\frac{18}{11}})^t𝐖𝐖\approx𝐖7.9215𝐖\cdot𝐖1.1784^t𝐖,𝐖
-y𝐖=p(t)
-(2,𝐖11)
-(5,𝐖18)
-p(t)𝐖=ab^t𝐖
-(2,𝐖11)
-(5,𝐖18)𝐖.
+a(\sqrt[3]{\frac{18}{11}})^2 =11,
+a =\frac{11}{(\frac{18}{11})^{2/3}} .
+p(t) =\frac{11}{(\frac{18}{11})^{2/3}}(\sqrt[3]{\frac{18}{11}})^t \approx 7.9215 \cdot 1.1784^t,
+y =p(t)
+(2, 11)
+(5, 18)
+p(t) =ab^t
+(2, 11)
+(5, 18) .
 3
-12500;𝐖
+12500;
 7
-6500𝐖.
+6500 .
 t
 V(t)
 V
-V(t)𝐖=ab^t𝐖,𝐖
+V(t) =ab^t,
 a
-b𝐖?
+b ?
 a
 b
-1000𝐖.
+1000 .
 L
 L(t)
-1000𝐖.
-f𝐖.
-g𝐖.
+1000 .
+f .
+g .
 f
-b𝐖>1,𝐖
+b >1,
 b
-(1.2)^3𝐖𝐖>(1.2)^2𝐖
-0𝐖\lt𝐖b𝐖\lt𝐖1,𝐖
+(1.2)^3 >(1.2)^2
+0 \lt b \lt 1,
 1
-(0.9)^3𝐖𝐖\lt𝐖(0.9)^2𝐖
+(0.9)^3 \lt (0.9)^2
 f
 g
 1
-AV_{[t,𝐖t𝐖+1]}𝐖𝐖=\frac{f(t𝐖+1)𝐖-f(t)}{t𝐖+1𝐖-t}𝐖=f(t𝐖+1)𝐖-f(t)𝐖.
+AV_{[t, t +1]} =\frac{f(t +1) -f(t)}{t +1 -t} =f(t +1) -f(t) .
 1
-f(t)𝐖=2(1.25)^t𝐖
-g(t)𝐖=8(0.75)^t𝐖
+f(t) =2(1.25)^t
+g(t) =8(0.75)^t
 t
 f(t)
-AV_{[t,𝐖t𝐖+1]}𝐖
+AV_{[t, t +1]}
 0
 2
 0.5
@@ -9292,146 +9292,146 @@ AV_{[t,𝐖t𝐖+1]}𝐖
 3
 3.90625
 0.97656
-f(t)𝐖=2(1.25)^t𝐖𝐖.
+f(t) =2(1.25)^t .
 t
 g(t)
-AV_{[t,𝐖t𝐖+1]}𝐖
+AV_{[t, t +1]}
 0
 8
-𝐖-2
+-2
 1
 6
-𝐖-1.5
+-1.5
 2
 4.5
-𝐖-1.125
+-1.125
 3
 3.375
-𝐖-0.84375
-g(t)𝐖=8(0.75)^t𝐖𝐖.
-t𝐖.
+-0.84375
+g(t) =8(0.75)^t .
+t .
 f
-g,𝐖
-t𝐖.
+g,
+t .
 g
-t𝐖.
+t .
 g
 g
-f(t)𝐖=ab^t𝐖
+f(t) =ab^t
 a
 b
-b𝐖\not=𝐖1,𝐖
-b𝐖>1,𝐖
+b \not= 1,
+b >1,
 f
-0𝐖\lt𝐖b𝐖\lt𝐖1,𝐖
+0 \lt b \lt 1,
 f
 p
 q
 r
-t𝐖\lt𝐖2,𝐖
-t𝐖>2,𝐖
+t \lt 2,
+t >2,
 s
 u
-f(t)𝐖=ab^t𝐖
+f(t) =ab^t
 a
 b
-b𝐖\not=𝐖1𝐖.
-f(t)𝐖=b^t𝐖,𝐖
+b \not= 1 .
+f(t) =b^t,
 a
-a𝐖=1𝐖.
-f(t)𝐖=ab^t𝐖,𝐖
-a,𝐖
-t𝐖=0
-r,𝐖
-f(t)𝐖=a(1𝐖+r)^t𝐖𝐖.
+a =1 .
+f(t) =ab^t,
+a,
+t =0
+r,
+f(t) =a(1 +r)^t .
 r
 7
-r𝐖=0.07,𝐖
-b𝐖=1.07
+r =0.07,
+b =1.07
 a
 b
-f(t)𝐖=ab^t𝐖
+f(t) =ab^t
 a
 b
-b𝐖\not=𝐖1
+b \not= 1
 y
-f(t)𝐖=ab^t𝐖
-(0,𝐖a)
+f(t) =ab^t
+(0, a)
 x
-b𝐖>1,𝐖
-0𝐖\lt𝐖b𝐖\lt𝐖1,𝐖
-Q𝐖=30.8(0.751)^t𝐖𝐖.
-a,𝐖
-b,𝐖
+b >1,
+0 \lt b \lt 1,
+Q =30.8(0.751)^t .
+a,
+b,
 r
-Q𝐖=a𝐖\cdot𝐖b^t𝐖𝐖=a(1𝐖+r)^t𝐖𝐖.
-a𝐖=
-b𝐖=
-r𝐖=
-P𝐖=f(t),𝐖
-t𝐖=0
+Q =a \cdot b^t =a(1 +r)^t .
+a =
+b =
+r =
+P =f(t),
+t =0
 2090
 3.7
-P𝐖=f(t)𝐖=
+P =f(t) =
 3.8
-p,𝐖
+p,
 t
-P𝐖=f(t)𝐖=
+P =f(t) =
 30
-N,𝐖
+N,
 t
-N𝐖=
-N𝐖=
-N𝐖=
-P,𝐖
+N =
+N =
+N =
+P,
 t
-P𝐖=800(0.78)^t𝐖
-P𝐖=900(1.06)^t𝐖
-P𝐖=1600(0.96)^t𝐖
-P𝐖=1400(1.187)^t𝐖
-P𝐖=500(1.14)^t𝐖
-P𝐖=2800(0.8)^t𝐖
-x𝐖=
-h(x)𝐖=
-h(x)𝐖=
-x𝐖=
-i(x)𝐖=
-i(x)𝐖=
-t𝐖=0,𝐖
+P =800(0.78)^t
+P =900(1.06)^t
+P =1600(0.96)^t
+P =1400(1.187)^t
+P =500(1.14)^t
+P =2800(0.8)^t
+x =
+h(x) =
+h(x) =
+x =
+i(x) =
+i(x) =
+t =0,
 t
-P,𝐖
-t𝐖.
-P(t)𝐖=
-P,𝐖
-t𝐖.
-P(t)𝐖=
+P,
+t .
+P(t) =
+P,
+t .
+P(t) =
 142
 4.4
 G(t)
-t,𝐖
+t,
 t
 G(t)
 G
 G
-G,𝐖
+G,
 f
 f
-f𝐖.
+f .
 a
 b
 f
-[2,𝐖7]
-[7,𝐖12]𝐖.
+[2, 7]
+[7, 12] .
 L
-(2,𝐖20)
-(7,𝐖5)𝐖.
+(2, 20)
+(7, 5) .
 f
-[0,𝐖2]
+[0, 2]
 L
-[0,𝐖2]𝐖?
+[0, 2] ?
 0
-F,𝐖
-t𝐖.
+F,
+t .
 t
 0
 2
@@ -9446,297 +9446,297 @@ F(t)
 71.15
 52.71
 39.05
-F𝐖.
+F .
 F
-F𝐖?
+F ?
 F
-[4,𝐖6]𝐖?
+[4, 6] ?
 A(t)
 t
-A(3)𝐖=22.7
-A(6)𝐖=15.2𝐖.
+A(3) =22.7
+A(6) =15.2 .
 A
-A(t)𝐖=ab^t𝐖,𝐖
+A(t) =ab^t,
 a
 b
 8
 1
 A
-[3,𝐖5],𝐖
-[5,𝐖7],𝐖
-[7,𝐖9]𝐖.
+[3, 5],
+[5, 7],
+[7, 9] .
 A(t)
-f(t)𝐖=ab^t𝐖
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-e^k𝐖𝐖=3
-k𝐖.
-\log𝐖_{10}𝐖(a𝐖\cdot𝐖b)
-\log𝐖_{10}𝐖(a)
-\log𝐖_{10}𝐖(b)𝐖.
-10^x𝐖𝐖\cdot𝐖10^y𝐖
+f(t) =b^t
+e^k =3
+k .
+\log_{10} (a \cdot b)
+\log_{10} (a)
+\log_{10} (b) .
+10^x \cdot 10^y
 10
-10^x𝐖𝐖\cdot𝐖10^y𝐖𝐖=10^\mdwhtsquare𝐖𝐖
+10^x \cdot 10^y =10^\mdwhtsquare
 x
-y𝐖.
-\log𝐖_{10}𝐖10^x𝐖𝐖?
-\log𝐖_{10}𝐖10^y𝐖𝐖?
-\log𝐖_{10}𝐖(10^x𝐖𝐖\cdot𝐖10^y𝐖)𝐖&𝐖\lt𝐖mi/>𝐖=\log𝐖_{10}𝐖(10^{x𝐖+y}𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=x𝐖+y𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\log𝐖_{10}𝐖(10^x𝐖)𝐖+\log𝐖_{10}𝐖(10^y𝐖)𝐖.
+y .
+\log_{10} 10^x ?
+\log_{10} 10^y ?
+\log_{10} (10^x \cdot 10^y) & \lt mi/> =\log_{10} (10^{x +y}) \\ \~ & \lt mi/> =x +y \\ \~ & \lt mi/> =\log_{10} (10^x) +\log_{10} (10^y) .
 a
 b
 a
-10^x𝐖
+10^x
 x
 b
-10^y𝐖
-y𝐖.
-a𝐖=10^x𝐖
-b𝐖=10^y𝐖𝐖.
-\log𝐖_{10}𝐖(ab)𝐖?
-\log𝐖_{10}𝐖(ab)𝐖=\log𝐖_{10}𝐖(a)𝐖+\log𝐖_{10}𝐖(b)
+10^y
+y .
+a =10^x
+b =10^y .
+\log_{10} (ab) ?
+\log_{10} (ab) =\log_{10} (a) +\log_{10} (b)
 a
-b𝐖.
+b .
 a
 b
-x𝐖=\ln𝐖(a)
-y𝐖=\ln𝐖(b)
-a𝐖=e^x𝐖\~and\~b𝐖=e^y𝐖𝐖.
-\ln𝐖(a𝐖\cdot𝐖b)𝐖=\ln𝐖(e^x𝐖𝐖\cdot𝐖e^y𝐖)𝐖.
-\ln𝐖(e^x𝐖𝐖\cdot𝐖e^y𝐖)𝐖=\ln𝐖(e^{x𝐖+y}𝐖),𝐖
-\ln𝐖(e^{x𝐖+y}𝐖)𝐖=x𝐖+y𝐖.
-\ln𝐖(a𝐖\cdot𝐖b)𝐖=x𝐖+y𝐖.
-x𝐖=\ln𝐖(a)
-y𝐖=\ln𝐖(b),𝐖
-\ln𝐖(a𝐖\cdot𝐖b)𝐖=\ln𝐖(a)𝐖+\ln𝐖(b)
+x =\ln (a)
+y =\ln (b)
+a =e^x \~and\~b =e^y .
+\ln (a \cdot b) =\ln (e^x \cdot e^y) .
+\ln (e^x \cdot e^y) =\ln (e^{x +y}),
+\ln (e^{x +y}) =x +y .
+\ln (a \cdot b) =x +y .
+x =\ln (a)
+y =\ln (b),
+\ln (a \cdot b) =\ln (a) +\ln (b)
 a
-b𝐖.
-\ln𝐖(\frac{a}{b})𝐖.
-\ln𝐖(\frac{a}{b})𝐖&𝐖\lt𝐖mi/>𝐖=\ln𝐖(\frac{e^x𝐖}{e^y𝐖})𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\ln𝐖(e^{x𝐖-y}𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=x𝐖-y𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\ln𝐖(a)𝐖-\ln𝐖(b)𝐖.
+b .
+\ln (\frac{a}{b}) .
+\ln (\frac{a}{b}) & \lt mi/> =\ln (\frac{e^x}{e^y}) \\ \~ & \lt mi/> =\ln (e^{x -y}) \\ \~ & \lt mi/> =x -y \\ \~ & \lt mi/> =\ln (a) -\ln (b) .
 a
-b,𝐖
-\ln𝐖(a𝐖\cdot𝐖b)𝐖=\ln𝐖(a)𝐖+\ln𝐖(b)
-\ln𝐖(\frac{a}{b})𝐖=\ln𝐖(a)𝐖-\ln𝐖(b)
-\ln𝐖(a^3𝐖)𝐖=\ln𝐖(a𝐖\cdot𝐖a𝐖\cdot𝐖a),𝐖
-\ln𝐖(a^3𝐖)𝐖=\ln𝐖(a)𝐖+\ln𝐖(a)𝐖+\ln𝐖(a)𝐖=3\ln𝐖(a)𝐖.
-n,𝐖
-\ln𝐖(a^n𝐖)𝐖=n\ln𝐖(a)𝐖.
-t𝐖.
+b,
+\ln (a \cdot b) =\ln (a) +\ln (b)
+\ln (\frac{a}{b}) =\ln (a) -\ln (b)
+\ln (a^3) =\ln (a \cdot a \cdot a),
+\ln (a^3) =\ln (a) +\ln (a) +\ln (a) =3\ln (a) .
+n,
+\ln (a^n) =n\ln (a) .
+t .
 a
-t,𝐖
-\ln𝐖(a^t𝐖)𝐖=t\ln𝐖(a)𝐖.
-\ln𝐖(a^t𝐖)𝐖=t\ln𝐖(a)
-7𝐖\cdot𝐖3^t𝐖𝐖-1𝐖=5
-t𝐖.
-t,𝐖
-3^t𝐖𝐖.
+t,
+\ln (a^t) =t\ln (a) .
+\ln (a^t) =t\ln (a)
+7 \cdot 3^t -1 =5
+t .
+t,
+3^t .
 1
-7,𝐖
-3^t𝐖𝐖=\frac{6}{7}𝐖.
-\ln𝐖(3^t𝐖)𝐖=\ln𝐖(\frac{6}{7})𝐖.
-t\ln𝐖(3)𝐖=\ln𝐖(\frac{6}{7})𝐖.
-\ln𝐖(3)
-\ln𝐖(\frac{6}{7})
-t𝐖=\frac{\ln𝐖(\frac{6}{7})}{\ln𝐖(3)}𝐖.
-p𝐖\cdot𝐖q^t𝐖𝐖+r𝐖=s,𝐖
+7,
+3^t =\frac{6}{7} .
+\ln (3^t) =\ln (\frac{6}{7}) .
+t\ln (3) =\ln (\frac{6}{7}) .
+\ln (3)
+\ln (\frac{6}{7})
+t =\frac{\ln (\frac{6}{7})}{\ln (3)} .
+p \cdot q^t +r =s,
 t
-q^t𝐖
-3^t𝐖𝐖=5
-4𝐖\cdot𝐖2^t𝐖𝐖-2𝐖=3
-3.7𝐖\cdot𝐖(0.9)^{0.3t}𝐖𝐖+1.5𝐖=2.1
-72𝐖-30(0.7)^{0.05t}𝐖𝐖=60
-\ln𝐖(t)𝐖=𝐖-2
-3𝐖+2\log𝐖_{10}𝐖(t)𝐖=3.5
-E(x)𝐖=e^x𝐖,𝐖
-N(x)𝐖=\ln𝐖(x)
-E(x)𝐖=e^x𝐖,𝐖
-y𝐖=x,𝐖
-[𝐖-3,𝐖3]𝐖.
-[𝐖-15,𝐖15]𝐖.
-(a,𝐖b)
-E(x)𝐖=e^x𝐖,𝐖
-(b,𝐖a)
-N(x)𝐖=\ln𝐖(x)𝐖.
-y𝐖=\ln𝐖(x)
-y𝐖=\ln𝐖(x)
-(1,𝐖0);𝐖
-E(x)𝐖=e^x𝐖
+q^t
+3^t =5
+4 \cdot 2^t -2 =3
+3.7 \cdot (0.9)^{0.3t} +1.5 =2.1
+72 -30(0.7)^{0.05t} =60
+\ln (t) = -2
+3 +2\log_{10} (t) =3.5
+E(x) =e^x,
+N(x) =\ln (x)
+E(x) =e^x,
+y =x,
+[ -3, 3] .
+[ -15, 15] .
+(a, b)
+E(x) =e^x,
+(b, a)
+N(x) =\ln (x) .
+y =\ln (x)
+y =\ln (x)
+(1, 0);
+E(x) =e^x
 x
-N(x)𝐖=\ln𝐖(x)
+N(x) =\ln (x)
 x
-\ln𝐖(x)
+\ln (x)
 x
 x
-\ln𝐖(x)𝐖=100,𝐖
-x𝐖=e^{100}𝐖,𝐖
-\ln𝐖(e^{100}𝐖)𝐖=100𝐖.
-f(t)𝐖=1𝐖-e^{𝐖-(t𝐖-1)}𝐖
-g(t)𝐖=\ln𝐖(t)𝐖.
+\ln (x) =100,
+x =e^{100},
+\ln (e^{100}) =100 .
+f(t) =1 -e^{ -(t -1)}
+g(t) =\ln (t) .
 t
 y
-h(t)𝐖=a𝐖-be^{𝐖-k(t𝐖-c)}𝐖,𝐖
-a,𝐖
-b,𝐖
-c,𝐖
+h(t) =a -be^{ -k(t -c)},
+a,
+b,
+c,
 k
 h
-E(t)𝐖=e^t𝐖𝐖.
-r(t)𝐖=a𝐖+b\ln𝐖(t𝐖-c),𝐖
-a,𝐖
-b,𝐖
+E(t) =e^t .
+r(t) =a +b\ln (t -c),
+a,
+b,
 c
 r
-L(t)𝐖=\ln𝐖(t)𝐖.
+L(t) =\ln (t) .
 t
 t
 t
 h(t)
-p(t)𝐖=a𝐖+b\ln𝐖(t𝐖-c)
-q(t)𝐖=m𝐖+ne^{𝐖-rt}𝐖𝐖.
-e^{kt}𝐖
+p(t) =a +b\ln (t -c)
+q(t) =m +ne^{ -rt} .
+e^{kt}
 k
-e^{kt}𝐖
-k𝐖>0
-k𝐖\lt𝐖0
+e^{kt}
+k >0
+k \lt 0
 k
 t
-P,𝐖
-P(0)𝐖=2.475
-P(10)𝐖=4.298𝐖.
-P(t)𝐖=Ae^{kt}𝐖
+P,
+P(0) =2.475
+P(10) =4.298 .
+P(t) =Ae^{kt}
 k
 1
-P(t)𝐖=Ae^{kt}𝐖,𝐖
-P(0)𝐖=A𝐖.
-P(0)𝐖=2.475,𝐖
-A𝐖=2.475𝐖.
-k,𝐖
-P(10)𝐖=4.298𝐖.
-A𝐖=2.475,𝐖
-P(t)𝐖=Ae^{kt}𝐖,𝐖
-4.298𝐖=2.475e^{k𝐖\cdot𝐖10}𝐖𝐖.
-k,𝐖
-e^{10k}𝐖
+P(t) =Ae^{kt},
+P(0) =A .
+P(0) =2.475,
+A =2.475 .
+k,
+P(10) =4.298 .
+A =2.475,
+P(t) =Ae^{kt},
+4.298 =2.475e^{k \cdot 10} .
+k,
+e^{10k}
 2.475
-e^{10k}𝐖𝐖=\frac{4.298}{2.475}𝐖.
-10k𝐖=\ln𝐖(\frac{4.298}{2.475}),𝐖
-k𝐖=\frac{1}{10}\ln𝐖(\frac{4.298}{2.475})𝐖\approx𝐖0.05519𝐖.
+e^{10k} =\frac{4.298}{2.475} .
+10k =\ln (\frac{4.298}{2.475}),
+k =\frac{1}{10}\ln (\frac{4.298}{2.475}) \approx 0.05519 .
 1
-P(t)𝐖=1000𝐖.
+P(t) =1000 .
 A
-k,𝐖
-1000𝐖=2.475e^{\frac{1}{10}\ln𝐖(\frac{4.298}{2.475})t}𝐖𝐖.
+k,
+1000 =2.475e^{\frac{1}{10}\ln (\frac{4.298}{2.475})t} .
 2.475
-e^{\frac{1}{10}\ln𝐖(\frac{4.298}{2.475})t}𝐖𝐖=\frac{1000}{2.475},𝐖
-\frac{1}{10}\ln𝐖(\frac{4.298}{2.475})t𝐖=\ln𝐖(\frac{1000}{2.475}),𝐖
-t𝐖=\frac{10\ln𝐖(\frac{1000}{2.475})}{\ln𝐖(\frac{4.298}{2.475})}𝐖\approx𝐖108.741𝐖.
-k𝐖.
-41𝐖=50e^{𝐖-k𝐖\cdot𝐖7}𝐖
-65𝐖=34𝐖+47e^{𝐖-k𝐖\cdot𝐖45}𝐖
-7e^{2k𝐖-1}𝐖𝐖+4𝐖=32
-\frac{5}{1𝐖+2e^{𝐖-10k}𝐖}𝐖=4
+e^{\frac{1}{10}\ln (\frac{4.298}{2.475})t} =\frac{1000}{2.475},
+\frac{1}{10}\ln (\frac{4.298}{2.475})t =\ln (\frac{1000}{2.475}),
+t =\frac{10\ln (\frac{1000}{2.475})}{\ln (\frac{4.298}{2.475})} \approx 108.741 .
+k .
+41 =50e^{ -k \cdot 7}
+65 =34 +47e^{ -k \cdot 45}
+7e^{2k -1} +4 =32
+\frac{5}{1 +2e^{ -10k}} =4
 a
 m
-n𝐖\colon𝐖
-a^m𝐖𝐖\cdot𝐖a^n𝐖𝐖=a^{m𝐖+n}𝐖,𝐖\frac{a^m𝐖}{a^n𝐖}𝐖=a^{m𝐖-n}𝐖,𝐖\~and\~(a^m𝐖)^n𝐖𝐖=a^{mn}𝐖𝐖.
+n \colon
+a^m \cdot a^n =a^{m +n}, \frac{a^m}{a^n} =a^{m -n}, \~and\~(a^m)^n =a^{mn} .
 a
 b
-t𝐖\colon𝐖
-\ln𝐖(a𝐖\cdot𝐖b)𝐖=\ln𝐖(a)𝐖+\ln𝐖(b),𝐖\ln𝐖(\frac{a}{b})𝐖=\ln𝐖(a)𝐖-\ln𝐖(b),𝐖\~and\~\ln𝐖(a^t𝐖)𝐖=t\ln𝐖(a)𝐖.
-(1,𝐖0),𝐖
-a^b𝐖𝐖=c,𝐖
+t \colon
+\ln (a \cdot b) =\ln (a) +\ln (b), \ln (\frac{a}{b}) =\ln (a) -\ln (b), \~and\~\ln (a^t) =t\ln (a) .
+(1, 0),
+a^b =c,
 a
 c
 b
-\ln𝐖(a^b𝐖)𝐖=\ln𝐖(c)
-b\ln𝐖(a)𝐖=\ln𝐖(c),𝐖
-b𝐖=\frac{\ln𝐖(c)}{\ln𝐖(a)}𝐖.
-x𝐖\colon𝐖
-3^x𝐖𝐖=38
-x𝐖=
-x𝐖\colon𝐖
-6𝐖\cdot𝐖4^{4x𝐖-4}𝐖𝐖=65
-x𝐖=
-11𝐖+5^{5x}𝐖𝐖=16
-x𝐖=
-1000(1.04)^{2t}𝐖𝐖=50000
-t𝐖=
-19𝐖-\ln𝐖(3𝐖-x)𝐖=0
-x𝐖=
-P(t)𝐖=Ae^{kt}𝐖,𝐖
-P(t)𝐖=Ae^{kt}𝐖,𝐖
+\ln (a^b) =\ln (c)
+b\ln (a) =\ln (c),
+b =\frac{\ln (c)}{\ln (a)} .
+x \colon
+3^x =38
+x =
+x \colon
+6 \cdot 4^{4x -4} =65
+x =
+11 +5^{5x} =16
+x =
+1000(1.04)^{2t} =50000
+t =
+19 -\ln (3 -x) =0
+x =
+P(t) =Ae^{kt},
+P(t) =Ae^{kt},
 t
 100
 3
 A
 k
-P(4)𝐖=250
-P(11)𝐖=500𝐖.
+P(4) =250
+P(11) =500 .
 2000
-t𝐖=21𝐖.
+t =21 .
 k
 k
-28000𝐖.
+28000 .
 1
-23200𝐖.
-V,𝐖
+23200 .
+V,
 t
-V(t)𝐖=Ae^{𝐖-kt}𝐖𝐖.
+V(t) =Ae^{ -kt} .
 A
 k
-10000𝐖?
-0,𝐖
-500𝐖.
-V(t)𝐖=Ae^{𝐖-kt}𝐖𝐖+c
-V(0)𝐖=28000
-V(1)𝐖=23200
+10000 ?
+0,
+500 .
+V(t) =Ae^{ -kt} +c
+V(0) =28000
+V(1) =23200
 500
-A,𝐖
-k,𝐖
+A,
+k,
 c
-V(t)𝐖=Ae^{𝐖-kt}𝐖𝐖+c𝐖.
+V(t) =Ae^{ -kt} +c .
 A
 k
-y𝐖=\log𝐖_b𝐖(x)
-y𝐖=\ln𝐖(x)𝐖.
-\log𝐖_b𝐖(x)
+y =\log_b (x)
+y =\ln (x) .
+\log_b (x)
 b
-x𝐖.
-y𝐖=\log𝐖_b𝐖(x)
-y𝐖.
+x .
+y =\log_b (x)
+y .
 y
-\ln𝐖(x)
-\ln𝐖(b)𝐖.
-y𝐖=\log𝐖_b𝐖(x)𝐖.
-\log𝐖_b𝐖(x)𝐖=\frac{\ln𝐖(x)}{\ln𝐖(b)}𝐖.
+\ln (x)
+\ln (b) .
+y =\log_b (x) .
+\log_b (x) =\frac{\ln (x)}{\ln (b)} .
 k
-y𝐖=\log𝐖_b𝐖(x)
-y𝐖=\ln𝐖(x)𝐖?
-f(t)𝐖=ab^t𝐖
+y =\log_b (x)
+y =\ln (x) ?
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
-f(t)𝐖=ab^t𝐖
+f(t) =b^t
+f(t) =ab^t
 c
-g(t)𝐖=ab^t𝐖𝐖+c
+g(t) =ab^t +c
 e
 e
 e
 10
-f(t)𝐖=b^t𝐖
+f(t) =b^t

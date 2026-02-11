@@ -1,348 +1,348 @@
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
 X
 X
-\pi𝐖
+\pi
 F(X)
 X
-[a,𝐖b]
-f(x)𝐖=\frac{1}{b𝐖-a},𝐖\~for\space𝐖all\~a𝐖\le𝐖x𝐖\le𝐖b𝐖.
-\pi𝐖
-\pi𝐖(1)^2𝐖𝐖=\pi𝐖𝐖.
-(area\space𝐖of\space𝐖circle)/(area\space𝐖of\space𝐖square)𝐖=\pi𝐖/4,𝐖
-\pi𝐖
-\pi𝐖𝐖\approx𝐖4𝐖\cdot𝐖\frac{points\space𝐖in\space𝐖circle}{total\space𝐖points}
+[a, b]
+f(x) =\frac{1}{b -a}, \~for\space all\~a \le x \le b .
+\pi
+\pi (1)^2 =\pi .
+(area\space of\space circle)/(area\space of\space square) =\pi /4,
+\pi
+\pi \approx 4 \cdot \frac{points\space in\space circle}{total\space points}
 X
-\beta𝐖
-f(x)𝐖=\frac{1}{\beta𝐖}e^{𝐖-x/\beta𝐖}𝐖\~for\~x𝐖>0
-E(X)𝐖=\beta𝐖
-1/\beta𝐖
-1/\beta𝐖,𝐖
-\beta𝐖
+\beta
+f(x) =\frac{1}{\beta}e^{ -x/\beta} \~for\~x >0
+E(X) =\beta
+1/\beta
+1/\beta,
+\beta
 X
 Exp(b)
-P(X𝐖\le𝐖q)
+P(X \le q)
 X
-\beta𝐖𝐖=120
-1/120,𝐖
-P(X𝐖>200)
-\int𝐖_{200}^\infty𝐖𝐖\frac{1}{120}e^{𝐖-x/120}𝐖dx
+\beta =120
+1/120,
+P(X >200)
+\int_{200}^\infty \frac{1}{120}e^{ -x/120} dx
 X
-\beta𝐖𝐖=2
+\beta =2
 f(x)
 F(x)
-f(x)𝐖=\frac{1}{2}e^{𝐖-x/2}𝐖
-x𝐖>0,𝐖
+f(x) =\frac{1}{2}e^{ -x/2}
+x >0,
 x
-t,𝐖s𝐖>0,𝐖
-P(X𝐖>t𝐖+s|X𝐖>s)𝐖=P(X𝐖>t)𝐖.
+t, s >0,
+P(X >t +s|X >s) =P(X >t) .
 t
 t
 s
 t
-P(X𝐖>t)
-P(X𝐖>t𝐖+s|X𝐖>s)
-\mathtt𝐖g𝐖\mathtt𝐖a𝐖\mathtt𝐖m𝐖\mathtt𝐖m𝐖\mathtt𝐖a𝐖(\alpha𝐖,𝐖\beta𝐖)
-\alpha𝐖
-\beta𝐖
-1/\beta𝐖
-\alpha𝐖
-1/\beta𝐖
-\beta𝐖
+P(X >t)
+P(X >t +s|X >s)
+\mathtt g \mathtt a \mathtt m \mathtt m \mathtt a (\alpha, \beta)
+\alpha
+\beta
+1/\beta
+\alpha
+1/\beta
+\beta
 X
-\mathtt𝐖g𝐖\mathtt𝐖a𝐖\mathtt𝐖m𝐖\mathtt𝐖m𝐖\mathtt𝐖a𝐖(a,𝐖b)
-P(X𝐖\le𝐖q)
+\mathtt g \mathtt a \mathtt m \mathtt m \mathtt a (a, b)
+P(X \le q)
 X
-\alpha𝐖𝐖=3
-\beta𝐖𝐖=4
-P(4𝐖\lt𝐖X𝐖\lt𝐖12)
-\alpha𝐖
-1/\beta𝐖
-\mathtt𝐖g𝐖\mathtt𝐖a𝐖\mathtt𝐖m𝐖\mathtt𝐖m𝐖\mathtt𝐖a𝐖(3,𝐖4)
-\alpha𝐖𝐖=1,𝐖
-\beta𝐖
-\beta𝐖
+\alpha =3
+\beta =4
+P(4 \lt X \lt 12)
+\alpha
+1/\beta
+\mathtt g \mathtt a \mathtt m \mathtt m \mathtt a (3, 4)
+\alpha =1,
+\beta
+\beta
 X
-P(X𝐖\le𝐖5)
-\nu𝐖,𝐖
-\nu𝐖
-\chi𝐖^2𝐖(\nu𝐖),𝐖
-\alpha𝐖𝐖=\nu𝐖/2
-\beta𝐖𝐖=2
-x𝐖=7
-v𝐖=10,𝐖
-(\alpha𝐖,𝐖\beta𝐖)
+P(X \le 5)
+\nu,
+\nu
+\chi^2 (\nu),
+\alpha =\nu /2
+\beta =2
+x =7
+v =10,
+(\alpha, \beta)
 X
 X
-\alpha𝐖𝐖=1,𝐖
-\beta𝐖𝐖=3.5
+\alpha =1,
+\beta =3.5
 X
-f(x)𝐖=\frac{3}{8}(2𝐖-x)^2𝐖
-0𝐖\le𝐖x𝐖\le𝐖2
-P(X𝐖>1.2)
-P(X𝐖>1.2)𝐖=\int𝐖_{1.2}^2𝐖\frac{3}{8}(2𝐖-x)^2𝐖dx𝐖.
-f(x),𝐖
-P(X𝐖\ge𝐖1.2)
-\int𝐖_a^b𝐖f(x)dx
+f(x) =\frac{3}{8}(2 -x)^2
+0 \le x \le 2
+P(X >1.2)
+P(X >1.2) =\int_{1.2}^2 \frac{3}{8}(2 -x)^2 dx .
+f(x),
+P(X \ge 1.2)
+\int_a^b f(x)dx
 n
-P(X𝐖>1.2)
-n𝐖=100
-n𝐖=1000
-P(0.5𝐖\lt𝐖X𝐖\lt𝐖1.1)
+P(X >1.2)
+n =100
+n =1000
+P(0.5 \lt X \lt 1.1)
 F(X)
 F(x)
-F(x)𝐖=P(X𝐖\le𝐖x)
+F(x) =P(X \le x)
 X
-f(x)𝐖=(3/8)(2𝐖-x)^2𝐖
-0𝐖\lt𝐖x𝐖\lt𝐖2
+f(x) =(3/8)(2 -x)^2
+0 \lt x \lt 2
 b
-F(b)𝐖=\int𝐖_0^b𝐖f(x)dx,𝐖
-E(X^n𝐖)
+F(b) =\int_0^b f(x)dx,
+E(X^n)
 n
-E(X),𝐖
-V(X)𝐖=E(X^2𝐖)𝐖-E(X)^2𝐖𝐖.
+E(X),
+V(X) =E(X^2) -E(X)^2 .
 X
-f(x),𝐖
-E(X^n𝐖)𝐖=\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖x^n𝐖𝐖\cdot𝐖f(x)𝐖.
-x^n𝐖𝐖\cdot𝐖f(X)
-X,𝐖
-E(X)𝐖=\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖x𝐖\cdot𝐖f(x)dx𝐖.
-x𝐖\cdot𝐖f(x)
-\int𝐖_0^2𝐖x𝐖\cdot𝐖(3/8)(2𝐖-x)^2𝐖dx𝐖=0.5.
-V(X)𝐖=E(X^2𝐖)𝐖-E(X)^2𝐖𝐖.
+f(x),
+E(X^n) =\int_{ -\infty}^\infty x^n \cdot f(x) .
+x^n \cdot f(X)
+X,
+E(X) =\int_{ -\infty}^\infty x \cdot f(x)dx .
+x \cdot f(x)
+\int_0^2 x \cdot (3/8)(2 -x)^2 dx =0.5.
+V(X) =E(X^2) -E(X)^2 .
 X
-E(X^2𝐖)
-\int𝐖_0^2𝐖x^2𝐖𝐖\cdot𝐖(3/8)(2𝐖-x)^2𝐖dx𝐖=0.4,𝐖
-V(X)𝐖=0.4𝐖-(0.5)^2𝐖𝐖=0.15.
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+E(X^2)
+\int_0^2 x^2 \cdot (3/8)(2 -x)^2 dx =0.4,
+V(X) =0.4 -(0.5)^2 =0.15.
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
 X
 X
-\pi𝐖
+\pi
 F(X)
-\approx𝐖
-\frac{26𝐖\cdot𝐖26𝐖\cdot𝐖26𝐖\cdot𝐖\binom{3}{2}𝐖\cdot𝐖1𝐖\cdot𝐖1𝐖\cdot𝐖9}{26^3𝐖𝐖\cdot𝐖10^3𝐖}𝐖=\frac{27}{1000}𝐖=0.027.
-\frac{7^4𝐖𝐖\cdot𝐖3}{10^5𝐖}𝐖\approx𝐖.07203𝐖.
-\frac{\binom{100}{6}𝐖\cdot𝐖\binom{200}{2}}{\binom{300}{8}}𝐖+\frac{\binom{100}{7}𝐖\cdot𝐖\binom{200}{1}}{\binom{300}{8}}𝐖+\frac{\binom{100}{8}𝐖\cdot𝐖\binom{200}{0}}{\binom{300}{8}},𝐖
-\frac{\binom{10}{343}𝐖+\binom{10}{523}𝐖+\binom{10}{541}}{\binom{12}{543}}
-𝐖\approx𝐖0.288
+\approx
+\frac{26 \cdot 26 \cdot 26 \cdot \binom{3}{2} \cdot 1 \cdot 1 \cdot 9}{26^3 \cdot 10^3} =\frac{27}{1000} =0.027.
+\frac{7^4 \cdot 3}{10^5} \approx .07203 .
+\frac{\binom{100}{6} \cdot \binom{200}{2}}{\binom{300}{8}} +\frac{\binom{100}{7} \cdot \binom{200}{1}}{\binom{300}{8}} +\frac{\binom{100}{8} \cdot \binom{200}{0}}{\binom{300}{8}},
+\frac{\binom{10}{343} +\binom{10}{523} +\binom{10}{541}}{\binom{12}{543}}
+\approx 0.288
 n
 n
 n
-\frac{364}{365},𝐖
+\frac{364}{365},
 n
-(\frac{364}{365})^n𝐖
+(\frac{364}{365})^n
 n
-1𝐖-(\frac{364}{365})^n𝐖
+1 -(\frac{364}{365})^n
 n
 n
 n
-\frac{P_r^n𝐖}{365^n𝐖}𝐖=\frac{365𝐖\cdot𝐖364𝐖\cdot𝐖\cdots𝐖𝐖\cdot𝐖(365𝐖-n𝐖+1)}{365^n𝐖}𝐖.
-1𝐖-\frac{365𝐖\cdot𝐖364𝐖\cdot𝐖\cdots𝐖𝐖\cdot𝐖(365𝐖-n𝐖+1)}{365^n𝐖}𝐖.
-1𝐖-1𝐖\cdot𝐖\frac{364}{365}𝐖\cdot𝐖\frac{363}{365}𝐖\cdot𝐖\frac{362}{365}𝐖\cdot𝐖\frac{361}{365}𝐖\cdot𝐖\frac{360}{365}𝐖\approx𝐖0.04.
+\frac{P_r^n}{365^n} =\frac{365 \cdot 364 \cdot \cdots \cdot (365 -n +1)}{365^n} .
+1 -\frac{365 \cdot 364 \cdot \cdots \cdot (365 -n +1)}{365^n} .
+1 -1 \cdot \frac{364}{365} \cdot \frac{363}{365} \cdot \frac{362}{365} \cdot \frac{361}{365} \cdot \frac{360}{365} \approx 0.04.
 n
-1𝐖\le𝐖n𝐖\le𝐖100
+1 \le n \le 100
 X
-X𝐖=6
+X =6
 X
-\ldots𝐖
+\ldots
 X
-p(x)𝐖=\frac{F_{x𝐖+1}𝐖}{2^x𝐖}\~for\~x𝐖=2,𝐖3,𝐖4,𝐖\ldots𝐖,𝐖
-F_n𝐖
+p(x) =\frac{F_{x +1}}{2^x}\~for\~x =2, 3, 4, \ldots,
+F_n
 n
-F_n𝐖
-F_1𝐖𝐖=F_2𝐖𝐖=1,𝐖
-n𝐖\ge𝐖3,𝐖
-F_n𝐖𝐖=F_{n𝐖-1}𝐖𝐖+F_{n𝐖-2}𝐖
-F_{x𝐖+1}𝐖/2^x𝐖
-4𝐖\times𝐖3
-i,𝐖
+F_n
+F_1 =F_2 =1,
+n \ge 3,
+F_n =F_{n -1} +F_{n -2}
+F_{x +1} /2^x
+4 \times 3
+i,
 i
 i
-n𝐖=16
-p𝐖=.37,𝐖
-1/p,𝐖
-1/.37,𝐖
+n =16
+p =.37,
+1/p,
+1/.37,
 2.7
-n𝐖\to𝐖\infty𝐖,𝐖
-e,𝐖
+n \to \infty,
+e,
 1/e
-n𝐖\to𝐖\infty𝐖
-n,𝐖
+n \to \infty
+n,
 1/e
-n𝐖\to𝐖\infty𝐖
+n \to \infty
 k
-k𝐖=1,𝐖2,𝐖\ldots𝐖52
+k =1, 2, \ldots 52
 k
-k𝐖-1
-k𝐖=1,𝐖2,𝐖3
-k𝐖=4
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+k -1
+k =1, 2, 3
+k =4
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
 X
 X
-\pi𝐖
+\pi
 F(X)
-S𝐖=\{H,𝐖T\}
+S =\{H, T\}
 H
 T
-S𝐖=\{1,𝐖2,𝐖3,𝐖4,𝐖5,𝐖6\}
-S𝐖=\{HHH,𝐖HHT,𝐖HTH,𝐖THH,𝐖HTT,𝐖THT,𝐖TTH,𝐖TTT\}
-S𝐖=\{0,𝐖1,𝐖2,𝐖3\},𝐖
-S𝐖=\{111,𝐖1101,𝐖1011,𝐖0111,𝐖11001,𝐖10101,𝐖01101,𝐖10011,𝐖01011,𝐖00111,𝐖\ldots𝐖\},𝐖
-S𝐖=\{0,𝐖1,𝐖2,𝐖3,𝐖4,𝐖\ldots𝐖\}
+S =\{1, 2, 3, 4, 5, 6\}
+S =\{HHH, HHT, HTH, THH, HTT, THT, TTH, TTT\}
+S =\{0, 1, 2, 3\},
+S =\{111, 1101, 1011, 0111, 11001, 10101, 01101, 10011, 01011, 00111, \ldots \},
+S =\{0, 1, 2, 3, 4, \ldots \}
 S
 S
-I𝐖=[0,𝐖1],𝐖
-S,𝐖
+I =[0, 1],
+S,
 S
 m
-m(s)𝐖\ge𝐖0
-s𝐖\in𝐖S,𝐖
-\sum𝐖_{s𝐖\in𝐖S}𝐖m(s)𝐖=1.
+m(s) \ge 0
+s \in S,
+\sum_{s \in S} m(s) =1.
 E
 S
-P(E)𝐖=\sum𝐖_{s𝐖\in𝐖E}𝐖m(s)𝐖.
-S𝐖=\{H,𝐖T\},𝐖
-m(H)𝐖=\frac{1}{2},𝐖m(T)𝐖=\frac{1}{2}𝐖.
-m(i)𝐖=\frac{1}{6}
-i𝐖=1,𝐖2,𝐖3,𝐖4,𝐖5,𝐖6
+P(E) =\sum_{s \in E} m(s) .
+S =\{H, T\},
+m(H) =\frac{1}{2}, m(T) =\frac{1}{2} .
+m(i) =\frac{1}{6}
+i =1, 2, 3, 4, 5, 6
 E
-P(E)𝐖=\sum𝐖_{s𝐖\in𝐖E}𝐖m(s)𝐖=p(2)𝐖+p(3)𝐖+p(5)𝐖=1/2.
+P(E) =\sum_{s \in E} m(s) =p(2) +p(3) +p(5) =1/2.
 S
-m(s)𝐖=1/8
-s𝐖\in𝐖S
+m(s) =1/8
+s \in S
 m(s)
 X
 Y
-X,𝐖
+X,
 X
 X
-S𝐖=\{HHH,𝐖HHT,𝐖HTH,𝐖THH,𝐖HTT,𝐖THT,𝐖TTH,𝐖TTT\}𝐖.
-X𝐖=the\space𝐖number\space𝐖of\space𝐖heads\space𝐖in\space𝐖three\space𝐖flips𝐖.
+S =\{HHH, HHT, HTH, THH, HTT, THT, TTH, TTT\} .
+X =the\space number\space of\space heads\space in\space three\space flips .
 X
-\{0,𝐖1,𝐖2,𝐖3\}
-Y𝐖=\{1𝐖&𝐖if\space𝐖we\space𝐖ever\space𝐖flipped\space𝐖consecutive\space𝐖heads𝐖\\𝐖0𝐖&𝐖else.𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
+\{0, 1, 2, 3\}
+Y =\{1 & if\space we\space ever\space flipped\space consecutive\space heads \\ 0 & else. \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
 Y
-\{0,𝐖1\}
+\{0, 1\}
 X
 Y
-S,𝐖
+S,
 X
-S,𝐖
+S,
 X
 x
 X
-x,𝐖
-P(X𝐖=x)
-p(x),𝐖
+x,
+P(X =x)
+p(x),
 S
 x
 p(x)
-X,𝐖
+X,
 X
 x
 p(x)
 X
-Y,𝐖
-m(s)𝐖=1/8
-s𝐖\in𝐖S
-x𝐖&𝐖0𝐖&𝐖1𝐖&𝐖2𝐖&𝐖3𝐖\\𝐖p(x)𝐖&𝐖1/8𝐖&𝐖3/8𝐖&𝐖3/8𝐖&𝐖1/8
-y𝐖&𝐖0𝐖&𝐖1𝐖\\𝐖p(y)𝐖&𝐖5/8𝐖&𝐖3/8
-(r,𝐖b)
+Y,
+m(s) =1/8
+s \in S
+x & 0 & 1 & 2 & 3 \\ p(x) & 1/8 & 3/8 & 3/8 & 1/8
+y & 0 & 1 \\ p(y) & 5/8 & 3/8
+(r, b)
 r
 b
-6𝐖\times𝐖6
-X,𝐖
-6𝐖\times𝐖6
+6 \times 6
+X,
+6 \times 6
 S
 X
-x𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖&𝐖5𝐖&𝐖6𝐖&𝐖7𝐖&𝐖8𝐖&𝐖9𝐖&𝐖10𝐖&𝐖11𝐖&𝐖12𝐖\\𝐖p(x)𝐖&𝐖1/36𝐖&𝐖2/36𝐖&𝐖3/36𝐖&𝐖4/36𝐖&𝐖5/36𝐖&𝐖6/36𝐖&𝐖5/36𝐖&𝐖4/36𝐖&𝐖3/36𝐖&𝐖2/36𝐖&𝐖1/36
-p(x)𝐖=\frac{6𝐖-|𝐖x𝐖-7|}{36}for\~x𝐖=2,𝐖3,𝐖\ldots𝐖,𝐖12.
+x & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 & 12 \\ p(x) & 1/36 & 2/36 & 3/36 & 4/36 & 5/36 & 6/36 & 5/36 & 4/36 & 3/36 & 2/36 & 1/36
+p(x) =\frac{6 -| x -7|}{36}for\~x =2, 3, \ldots, 12.
 Y
 Y
-y𝐖&𝐖0𝐖&𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖&𝐖5𝐖\\𝐖p(x)𝐖&𝐖6/36𝐖&𝐖10/36𝐖&𝐖8/36𝐖&𝐖6/36𝐖&𝐖4/36𝐖&𝐖2/36
+y & 0 & 1 & 2 & 3 & 4 & 5 \\ p(x) & 6/36 & 10/36 & 8/36 & 6/36 & 4/36 & 2/36
 S
 s
 S
-m(s),𝐖
+m(s),
 s
 m(s)
 A
 A
 S
-P(A)𝐖=\sum𝐖_{s𝐖\in𝐖A}𝐖m(s)𝐖.
+P(A) =\sum_{s \in A} m(s) .
 X
-S,𝐖
-P(X𝐖=x)
+S,
+P(X =x)
 m(s)
 s
 x
 X
 X
 a
-c,𝐖
+c,
 b
 b
 c
-a,𝐖
+a,
 d
 d
-X,𝐖
+X,
 s
-S,𝐖
-m(s)𝐖=1/24
+S,
+m(s) =1/24
 X
-x𝐖&𝐖0𝐖&𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖\\𝐖p(x)𝐖&𝐖9/24𝐖&𝐖8/24𝐖&𝐖6/24𝐖&𝐖0𝐖&𝐖1/24
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+x & 0 & 1 & 2 & 3 & 4 \\ p(x) & 9/24 & 8/24 & 6/24 & 0 & 1/24
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
 X
 X
-\pi𝐖
+\pi
 F(X)
 X
 E(X)
-E(X^2𝐖)
-\mu𝐖𝐖=E(X)
-\sigma𝐖^2𝐖𝐖=E(X^2𝐖)𝐖-E(X)^2𝐖
+E(X^2)
+\mu =E(X)
+\sigma^2 =E(X^2) -E(X)^2
 X
-k𝐖\ge𝐖1
+k \ge 1
 k
 X
-E(X^k𝐖)
-c𝐖\in𝐖\mathbb𝐖R𝐖,𝐖
-E((X𝐖-c)^k𝐖)
+E(X^k)
+c \in \mathbb R,
+E((X -c)^k)
 k
 X
-x𝐖=c
+x =c
 X
 p(x)
 h
-t𝐖\in𝐖(𝐖-h,𝐖h),𝐖
-E(e^{tx}𝐖)
+t \in ( -h, h),
+E(e^{tx})
 t
-m(t)𝐖=E(e^{tx}𝐖)
+m(t) =E(e^{tx})
 X
 X
-x𝐖&𝐖0𝐖&𝐖1𝐖&𝐖2𝐖&𝐖3𝐖\\𝐖p(x)𝐖&𝐖.1𝐖&𝐖.2𝐖&𝐖.3𝐖&𝐖.4
-t,𝐖
-m(t)𝐖&𝐖\lt𝐖mi/>𝐖=E(e^{tx}𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=0}^3𝐖e^{tx}𝐖𝐖\cdot𝐖p(x)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=e^0𝐖𝐖\cdot𝐖(.1)𝐖+e^t𝐖𝐖\cdot𝐖(.2)𝐖+e^{2t}𝐖𝐖\cdot𝐖(.3)𝐖+e^{3t}𝐖𝐖\cdot𝐖(.4)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=.1𝐖+.2e^t𝐖𝐖+.3e^{2t}𝐖𝐖+.4e^{3t}𝐖,𝐖
-𝐖-\infty𝐖𝐖\lt𝐖t𝐖\lt𝐖\infty𝐖,𝐖
+x & 0 & 1 & 2 & 3 \\ p(x) & .1 & .2 & .3 & .4
+t,
+m(t) & \lt mi/> =E(e^{tx}) \\ \~ & \lt mi/> =\sum_{x =0}^3 e^{tx} \cdot p(x) \\ \~ & \lt mi/> =e^0 \cdot (.1) +e^t \cdot (.2) +e^{2t} \cdot (.3) +e^{3t} \cdot (.4) \\ \~ & \lt mi/> =.1 +.2e^t +.3e^{2t} +.4e^{3t},
+-\infty \lt t \lt \infty,
 X
 m(t)
-E(X),𝐖E(X^2𝐖),𝐖E(X^3𝐖),𝐖\ldots𝐖
+E(X), E(X^2), E(X^3), \ldots
 X
 m(t)
 t
@@ -350,429 +350,429 @@ k
 X
 k
 m(t)
-t𝐖=0
-E(X^k𝐖)𝐖=m^{(k)}𝐖(0)𝐖.
+t =0
+E(X^k) =m^{(k)} (0) .
 X
-m(t)𝐖=\sum𝐖_{all\~x}𝐖e^{tx}𝐖𝐖\cdot𝐖p(x)𝐖.
+m(t) =\sum_{all\~x} e^{tx} \cdot p(x) .
 m(t)
 t
-m'(t)𝐖=\sum𝐖_{all\~x}𝐖x𝐖\cdot𝐖e^{tx}𝐖𝐖\cdot𝐖p(x),𝐖
-t𝐖=0
-m'(0)𝐖=\sum𝐖_{all\~x}𝐖x𝐖\cdot𝐖e^0𝐖𝐖\cdot𝐖p(x),𝐖
+m'(t) =\sum_{all\~x} x \cdot e^{tx} \cdot p(x),
+t =0
+m'(0) =\sum_{all\~x} x \cdot e^0 \cdot p(x),
 E(X)
-e^0𝐖𝐖=1
+e^0 =1
 m(t)
-m𝐖'𝐖'(t)𝐖&𝐖\lt𝐖mi/>𝐖=\frac{d}{dt}[m'(t)]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{all\~x}𝐖x^2𝐖𝐖\cdot𝐖e^{tx}𝐖𝐖\cdot𝐖p(x)
-t𝐖=0
-m𝐖'𝐖'(t)𝐖=\sum𝐖_{all\~x}𝐖x^2𝐖𝐖\cdot𝐖1𝐖\cdot𝐖p(x)𝐖=E(X^2𝐖)𝐖.
-k𝐖\ge𝐖1,𝐖
+m ' '(t) & \lt mi/> =\frac{d}{dt}[m'(t)] \\ \~ & \lt mi/> =\sum_{all\~x} x^2 \cdot e^{tx} \cdot p(x)
+t =0
+m ' '(t) =\sum_{all\~x} x^2 \cdot 1 \cdot p(x) =E(X^2) .
+k \ge 1,
 k
 m(t)
-m^{(k)}𝐖(t)𝐖=\sum𝐖_{all\~x}𝐖x^k𝐖𝐖\cdot𝐖e^{tx}𝐖𝐖\cdot𝐖p(x),𝐖
-E(X^k𝐖)
-t𝐖=0
+m^{(k)} (t) =\sum_{all\~x} x^k \cdot e^{tx} \cdot p(x),
+E(X^k)
+t =0
 X
-p,𝐖
-p(x)𝐖=(1𝐖-p)^{x𝐖-1}𝐖𝐖\cdot𝐖p,𝐖
-x𝐖=1,𝐖2,𝐖3,𝐖\ldots𝐖,𝐖
-m(t)𝐖&𝐖\lt𝐖mi/>𝐖=E(e^{tx}𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=1}^\infty𝐖𝐖e^{tx}𝐖(1𝐖-p)^{x𝐖-1}𝐖𝐖\cdot𝐖p𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=pe^t𝐖\sum𝐖_{x𝐖=1}^\infty𝐖𝐖e^{t(x𝐖-1)}𝐖(1𝐖-p)^{x𝐖-1}𝐖𝐖&𝐖since\~e^t𝐖𝐖\cdot𝐖e^{t(x𝐖-1)}𝐖𝐖=e^{tx}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=pe^t𝐖\sum𝐖_{x𝐖=1}^\infty𝐖𝐖[e^t𝐖(1𝐖-p)]^{x𝐖-1}𝐖𝐖&𝐖𝐖=pe^t𝐖\sum𝐖_{k𝐖=0}^\infty𝐖𝐖[e^t𝐖(1𝐖-p)]^k𝐖𝐖&𝐖where\~k𝐖=x𝐖-1\~is\space𝐖a\space𝐖change\space𝐖of\space𝐖index𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=pe^t𝐖\frac{1}{1𝐖-e^t𝐖(1𝐖-p)}
-|𝐖e^t𝐖(1𝐖-p)|𝐖\lt𝐖1
-0𝐖\le𝐖|𝐖e^t𝐖(1𝐖-p)|𝐖=e^t𝐖(1𝐖-p),𝐖
-e^t𝐖(1𝐖-p)𝐖\lt𝐖1
-e^t𝐖(1𝐖-p)𝐖\lt𝐖1𝐖&𝐖\lt𝐖mi/>𝐖\iff𝐖e^t𝐖𝐖\lt𝐖\frac{1}{1𝐖-p}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\iff𝐖t𝐖\lt𝐖\ln𝐖(\frac{1}{1𝐖-p})𝐖.
+p,
+p(x) =(1 -p)^{x -1} \cdot p,
+x =1, 2, 3, \ldots,
+m(t) & \lt mi/> =E(e^{tx}) \\ \~ & \lt mi/> =\sum_{x =1}^\infty e^{tx} (1 -p)^{x -1} \cdot p \\ \~ & \lt mi/> =pe^t \sum_{x =1}^\infty e^{t(x -1)} (1 -p)^{x -1} & since\~e^t \cdot e^{t(x -1)} =e^{tx} \\ \~ & \lt mi/> =pe^t \sum_{x =1}^\infty [e^t (1 -p)]^{x -1} & =pe^t \sum_{k =0}^\infty [e^t (1 -p)]^k & where\~k =x -1\~is\space a\space change\space of\space index \\ \~ & \lt mi/> =pe^t \frac{1}{1 -e^t (1 -p)}
+| e^t (1 -p)| \lt 1
+0 \le | e^t (1 -p)| =e^t (1 -p),
+e^t (1 -p) \lt 1
+e^t (1 -p) \lt 1 & \lt mi/> \iff e^t \lt \frac{1}{1 -p} \\ \~ & \lt mi/> \iff t \lt \ln (\frac{1}{1 -p}) .
 m(t)
 t
 X
-\lambda𝐖
-e^{junk}𝐖
-\sum𝐖_{x𝐖=0}^\infty𝐖𝐖\frac{(junk)^x𝐖}{x!}
-e^{junk}𝐖
-m(t)𝐖&𝐖\lt𝐖mi/>𝐖=E(e^{tx}𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=0}^\infty𝐖𝐖e^{tx}𝐖\frac{\lambda𝐖^x𝐖e^{𝐖-\lambda𝐖}𝐖}{x!}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=e^{𝐖-\lambda𝐖}𝐖\sum𝐖_{x𝐖=0}^\infty𝐖𝐖\frac{(\lambda𝐖e^t𝐖)^x𝐖}{x!}𝐖&𝐖here\space𝐖it\space𝐖is!𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=e^{𝐖-\lambda𝐖}𝐖e^{[\lambda𝐖e^t𝐖]}𝐖𝐖&𝐖for\space𝐖all\~𝐖-\infty𝐖𝐖\lt𝐖t𝐖\lt𝐖\infty𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=e^{\lambda𝐖(e^t𝐖𝐖-1)}𝐖𝐖.
-\mu𝐖
-\sigma𝐖
-m'(t)𝐖=e^{\lambda𝐖(e^t𝐖𝐖-1)}𝐖𝐖\cdot𝐖\lambda𝐖e^t𝐖,𝐖
-m'(0)𝐖=e^{\lambda𝐖(1𝐖-1)}𝐖𝐖\cdot𝐖\lambda𝐖e^0𝐖𝐖=\lambda𝐖𝐖.
-m𝐖'𝐖'(t)𝐖=(e^{\lambda𝐖(e^t𝐖𝐖-1)}𝐖𝐖\cdot𝐖\lambda𝐖e^t𝐖)𝐖\cdot𝐖\lambda𝐖e^t𝐖𝐖+e^{\lambda𝐖(e^t𝐖𝐖-1)}𝐖𝐖\cdot𝐖\lambda𝐖e^t𝐖,𝐖
-m𝐖'𝐖'(0)𝐖=\lambda𝐖^2𝐖𝐖+\lambda𝐖𝐖.
-\mu𝐖𝐖=m'(0)𝐖=\lambda𝐖,𝐖
-\sigma𝐖^2𝐖𝐖=m𝐖'𝐖'(0)𝐖-[m'(0)]^2𝐖𝐖=(\lambda𝐖^2𝐖𝐖+\lambda𝐖)𝐖-\lambda𝐖^2𝐖𝐖=\lambda𝐖,𝐖
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+\lambda
+e^{junk}
+\sum_{x =0}^\infty \frac{(junk)^x}{x!}
+e^{junk}
+m(t) & \lt mi/> =E(e^{tx}) \\ \~ & \lt mi/> =\sum_{x =0}^\infty e^{tx} \frac{\lambda^x e^{ -\lambda}}{x!} \\ \~ & \lt mi/> =e^{ -\lambda} \sum_{x =0}^\infty \frac{(\lambda e^t)^x}{x!} & here\space it\space is! \\ \~ & \lt mi/> =e^{ -\lambda} e^{[\lambda e^t]} & for\space all\~ -\infty \lt t \lt \infty \\ \~ & \lt mi/> =e^{\lambda (e^t -1)} .
+\mu
+\sigma
+m'(t) =e^{\lambda (e^t -1)} \cdot \lambda e^t,
+m'(0) =e^{\lambda (1 -1)} \cdot \lambda e^0 =\lambda .
+m ' '(t) =(e^{\lambda (e^t -1)} \cdot \lambda e^t) \cdot \lambda e^t +e^{\lambda (e^t -1)} \cdot \lambda e^t,
+m ' '(0) =\lambda^2 +\lambda .
+\mu =m'(0) =\lambda,
+\sigma^2 =m ' '(0) -[m'(0)]^2 =(\lambda^2 +\lambda) -\lambda^2 =\lambda,
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
 X
 X
-\pi𝐖
+\pi
 F(X)
-\theta𝐖_1𝐖𝐖\lt𝐖\theta𝐖_2𝐖
+\theta_1 \lt \theta_2
 X
-[\theta𝐖_1𝐖,𝐖\theta𝐖_2𝐖]
-f(x)𝐖=\{\frac{1}{\theta𝐖_2𝐖𝐖-\theta𝐖_1𝐖}𝐖&𝐖\~if\~\theta𝐖_1𝐖𝐖\le𝐖x𝐖\le𝐖\theta𝐖_2𝐖𝐖\\𝐖0𝐖&𝐖\~else.𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
-X𝐖\sim𝐖U(\theta𝐖_1𝐖,𝐖\theta𝐖_2𝐖)
+[\theta_1, \theta_2]
+f(x) =\{\frac{1}{\theta_2 -\theta_1} & \~if\~\theta_1 \le x \le \theta_2 \\ 0 & \~else. \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+X \sim U(\theta_1, \theta_2)
 X
-[\theta𝐖_1𝐖,𝐖\theta𝐖_2𝐖]
-\theta𝐖_1𝐖
-\theta𝐖_2𝐖
+[\theta_1, \theta_2]
+\theta_1
+\theta_2
 n
-[a,𝐖b]
-f(x)𝐖=x^2𝐖
+[a, b]
+f(x) =x^2
 f
-[a,𝐖b]
-\frac{1}{b𝐖-a}\int𝐖_a^b𝐖f(x)dx,𝐖
-\frac{1}{2}\int𝐖_0^2𝐖x^2𝐖dx𝐖=\frac{1}{6}x^3𝐖|𝐖_0^2𝐖𝐖=4/3𝐖\approx𝐖1.333.
+[a, b]
+\frac{1}{b -a}\int_a^b f(x)dx,
+\frac{1}{2}\int_0^2 x^2 dx =\frac{1}{6}x^3 |_0^2 =4/3 \approx 1.333.
 X
-U(\theta𝐖_1𝐖,𝐖\theta𝐖_2𝐖),𝐖
-E(X)𝐖=\frac{\theta𝐖_1𝐖𝐖+\theta𝐖_2𝐖}{2},𝐖\~and\~V(X)𝐖=\frac{(\theta𝐖_2𝐖𝐖-\theta𝐖_1𝐖)^2𝐖}{12}𝐖.
+U(\theta_1, \theta_2),
+E(X) =\frac{\theta_1 +\theta_2}{2}, \~and\~V(X) =\frac{(\theta_2 -\theta_1)^2}{12} .
 X
-f(x)𝐖=\{\frac{1}{\theta𝐖_2𝐖𝐖-\theta𝐖_1𝐖}𝐖&𝐖\~if\~\theta𝐖_1𝐖𝐖\le𝐖x𝐖\le𝐖\theta𝐖_2𝐖𝐖\\𝐖0𝐖&𝐖\~else.𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
-E(X)𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_{\theta𝐖_1𝐖}^{\theta𝐖_2𝐖}𝐖x𝐖\cdot𝐖\frac{1}{\theta𝐖_2𝐖𝐖-\theta𝐖_1𝐖}dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{\theta𝐖_2𝐖𝐖-\theta𝐖_1𝐖}𝐖\cdot𝐖\frac{1}{2}x^2𝐖|𝐖_{\theta𝐖_1𝐖}^{\theta𝐖_2𝐖}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{\theta𝐖_2𝐖𝐖-\theta𝐖_1𝐖}𝐖\cdot𝐖\frac{1}{2}(\theta𝐖_2^2𝐖𝐖-\theta𝐖_1^2𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{\theta𝐖_2𝐖𝐖-\theta𝐖_1𝐖}𝐖\cdot𝐖\frac{1}{2}(\theta𝐖_2𝐖𝐖-\theta𝐖_1𝐖)(\theta𝐖_2𝐖𝐖+\theta𝐖_1𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{\theta𝐖_1𝐖𝐖+\theta𝐖_2𝐖}{2}𝐖.
-E(X^2𝐖)𝐖=\int𝐖_{\theta𝐖_1𝐖}^{\theta𝐖_2𝐖}𝐖x^2𝐖𝐖\cdot𝐖\frac{1}{\theta𝐖_2𝐖𝐖-\theta𝐖_1𝐖}dx𝐖=\cdots𝐖𝐖=\frac{\theta𝐖_2^2𝐖𝐖+\theta𝐖_1𝐖\theta𝐖_2𝐖𝐖+\theta𝐖_1^2𝐖}{3},𝐖
-V(X)𝐖=E(X^2𝐖)𝐖-E(X)^2𝐖𝐖=\frac{(\theta𝐖_2𝐖𝐖-\theta𝐖_1𝐖)^2𝐖}{12}𝐖.
+f(x) =\{\frac{1}{\theta_2 -\theta_1} & \~if\~\theta_1 \le x \le \theta_2 \\ 0 & \~else. \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+E(X) & \lt mi/> =\int_{\theta_1}^{\theta_2} x \cdot \frac{1}{\theta_2 -\theta_1}dx \\ \~ & \lt mi/> =\frac{1}{\theta_2 -\theta_1} \cdot \frac{1}{2}x^2 |_{\theta_1}^{\theta_2} \\ \~ & \lt mi/> =\frac{1}{\theta_2 -\theta_1} \cdot \frac{1}{2}(\theta_2^2 -\theta_1^2) \\ \~ & \lt mi/> =\frac{1}{\theta_2 -\theta_1} \cdot \frac{1}{2}(\theta_2 -\theta_1)(\theta_2 +\theta_1) \\ \~ & \lt mi/> =\frac{\theta_1 +\theta_2}{2} .
+E(X^2) =\int_{\theta_1}^{\theta_2} x^2 \cdot \frac{1}{\theta_2 -\theta_1}dx =\cdots =\frac{\theta_2^2 +\theta_1 \theta_2 +\theta_1^2}{3},
+V(X) =E(X^2) -E(X)^2 =\frac{(\theta_2 -\theta_1)^2}{12} .
 X
-\beta𝐖
-Exp(\beta𝐖)
-f(x)𝐖=\frac{1}{\beta𝐖}e^{𝐖-(x/\beta𝐖)}𝐖\~for\~x𝐖\ge𝐖0\~(and\~f(x)𝐖=0\~else.)
+\beta
+Exp(\beta)
+f(x) =\frac{1}{\beta}e^{ -(x/\beta)} \~for\~x \ge 0\~(and\~f(x) =0\~else.)
 f(x)
-\int𝐖_0^\infty𝐖𝐖\frac{1}{\beta𝐖}e^{𝐖-x/\beta𝐖}𝐖dx𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{b𝐖\to𝐖\infty𝐖}𝐖[\int𝐖_0^b𝐖\frac{1}{\beta𝐖}e^{𝐖-x/\beta𝐖}𝐖dx]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{b𝐖\to𝐖\infty𝐖}𝐖[𝐖-e^{𝐖-x/\beta𝐖}𝐖|_0^b𝐖]𝐖&𝐖(try\space𝐖u-sub.u𝐖=𝐖-x/\beta𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{b𝐖\to𝐖\infty𝐖}𝐖[1𝐖-\frac{1}{e^{b/\beta𝐖}𝐖}]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=1.
+\int_0^\infty \frac{1}{\beta}e^{ -x/\beta} dx & \lt mi/> =\lim_{b \to \infty} [\int_0^b \frac{1}{\beta}e^{ -x/\beta} dx] \\ \~ & \lt mi/> =\lim_{b \to \infty} [ -e^{ -x/\beta} |_0^b] & (try\space u-sub.u = -x/\beta \\ \~ & \lt mi/> =\lim_{b \to \infty} [1 -\frac{1}{e^{b/\beta}}] \\ \~ & \lt mi/> =1.
 X
-Exp(\beta𝐖)
-x𝐖\ge𝐖0,𝐖
-F(x)𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_0^x𝐖\frac{1}{\beta𝐖}e^{𝐖-t/beta}𝐖dt𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=1𝐖-e^{𝐖-x/\beta𝐖}𝐖𝐖.
+Exp(\beta)
+x \ge 0,
+F(x) & \lt mi/> =\int_0^x \frac{1}{\beta}e^{ -t/beta} dt \\ \~ & \lt mi/> =1 -e^{ -x/\beta} .
 X
-P(X𝐖\lt𝐖8)
-P(X𝐖\lt𝐖8)𝐖&𝐖\lt𝐖mi/>𝐖=F(8)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=1𝐖-e^{𝐖-8/4}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=1𝐖-e^{𝐖-2}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\approx𝐖.865𝐖.
+P(X \lt 8)
+P(X \lt 8) & \lt mi/> =F(8) \\ \~ & \lt mi/> =1 -e^{ -8/4} \\ \~ & \lt mi/> =1 -e^{ -2} \\ \~ & \lt mi/> \approx .865 .
 X
-Exp(\beta𝐖)),𝐖
-E(X)𝐖=\beta𝐖,𝐖\~and\~V(X)𝐖=\beta𝐖^2𝐖𝐖.
-E(X)𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_0^\infty𝐖𝐖x𝐖\cdot𝐖\frac{1}{\beta𝐖}e^{𝐖-x/\beta𝐖}𝐖dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{b𝐖\to𝐖\infty𝐖}𝐖[\int𝐖_0^b𝐖x𝐖\cdot𝐖\frac{1}{\beta𝐖}e^{𝐖-x/\beta𝐖}𝐖dx]
-u𝐖=x
-dv𝐖=e^{𝐖-x/\beta𝐖}𝐖dx
-E(X)𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{b𝐖\to𝐖\infty𝐖}𝐖[\int𝐖_0^b𝐖x𝐖\cdot𝐖\frac{1}{\beta𝐖}e^{𝐖-x/\beta𝐖}𝐖dx]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{b𝐖\to𝐖\infty𝐖}𝐖[𝐖-xe^{𝐖-x/\beta𝐖}𝐖𝐖-\beta𝐖e^{𝐖-x/\beta𝐖}𝐖|_0^b𝐖]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{b𝐖\to𝐖\infty𝐖}𝐖[(\frac{𝐖-b}{e^{b/\beta𝐖}𝐖}𝐖-\frac{\beta𝐖}{e^{b/\beta𝐖}𝐖})𝐖-(0𝐖-\beta𝐖)]𝐖.
-\frac{b}{e^{b/\beta𝐖}𝐖}𝐖\to𝐖0
-\frac{\beta𝐖}{e^{b/\beta𝐖}𝐖}𝐖\to𝐖0
-b𝐖\to𝐖\infty𝐖,𝐖
-E(X)𝐖=\beta𝐖𝐖.
-V(X)𝐖=\beta𝐖^2𝐖,𝐖
-E(X^2𝐖)𝐖=\int𝐖_0^\infty𝐖𝐖x^2𝐖f(x)dx
-V(X)𝐖=E(X^2𝐖)𝐖-E(X)^2𝐖
+Exp(\beta)),
+E(X) =\beta, \~and\~V(X) =\beta^2 .
+E(X) & \lt mi/> =\int_0^\infty x \cdot \frac{1}{\beta}e^{ -x/\beta} dx \\ \~ & \lt mi/> =\lim_{b \to \infty} [\int_0^b x \cdot \frac{1}{\beta}e^{ -x/\beta} dx]
+u =x
+dv =e^{ -x/\beta} dx
+E(X) & \lt mi/> =\lim_{b \to \infty} [\int_0^b x \cdot \frac{1}{\beta}e^{ -x/\beta} dx] \\ \~ & \lt mi/> =\lim_{b \to \infty} [ -xe^{ -x/\beta} -\beta e^{ -x/\beta} |_0^b] \\ \~ & \lt mi/> =\lim_{b \to \infty} [(\frac{ -b}{e^{b/\beta}} -\frac{\beta}{e^{b/\beta}}) -(0 -\beta)] .
+\frac{b}{e^{b/\beta}} \to 0
+\frac{\beta}{e^{b/\beta}} \to 0
+b \to \infty,
+E(X) =\beta .
+V(X) =\beta^2,
+E(X^2) =\int_0^\infty x^2 f(x)dx
+V(X) =E(X^2) -E(X)^2
 X
-\mu𝐖
-\sigma𝐖𝐖>0
-N(\mu𝐖,𝐖\sigma𝐖)
-f(x)𝐖=\frac{1}{\sigma𝐖\sqrt{2\pi𝐖}}e^{𝐖-\frac{(x𝐖-\mu𝐖)^2𝐖}{2\sigma𝐖^2𝐖}}𝐖,𝐖\~for\~𝐖-\infty𝐖𝐖\lt𝐖x𝐖\lt𝐖\infty𝐖𝐖.
-x𝐖=\mu𝐖,𝐖
-x𝐖=\mu𝐖𝐖\pm𝐖\sigma𝐖,𝐖
+\mu
+\sigma >0
+N(\mu, \sigma)
+f(x) =\frac{1}{\sigma \sqrt{2\pi}}e^{ -\frac{(x -\mu)^2}{2\sigma^2}}, \~for\~ -\infty \lt x \lt \infty .
+x =\mu,
+x =\mu \pm \sigma,
 f
 X
-N(\mu𝐖,𝐖\sigma𝐖),𝐖
-E(X)𝐖=\mu𝐖,𝐖\~and\~V(X)𝐖=\sigma𝐖^2𝐖𝐖.
-N(0,𝐖1)
+N(\mu, \sigma),
+E(X) =\mu, \~and\~V(X) =\sigma^2 .
+N(0, 1)
 Z
-N(0,𝐖1),𝐖
-f(z)𝐖=\frac{1}{\sqrt{2\pi𝐖}}e^{𝐖-z^2𝐖/2}𝐖,𝐖\~for\space𝐖all\space𝐖real\space𝐖numbers\~z𝐖.
-N(\mu𝐖,𝐖\sigma𝐖)
+N(0, 1),
+f(z) =\frac{1}{\sqrt{2\pi}}e^{ -z^2 /2}, \~for\space all\space real\space numbers\~z .
+N(\mu, \sigma)
 X
-N(\mu𝐖,𝐖\sigma𝐖)
-Z𝐖=(X𝐖-\mu𝐖)/\sigma𝐖
-N(0,𝐖1)
+N(\mu, \sigma)
+Z =(X -\mu)/\sigma
+N(0, 1)
 X
-Z𝐖=\frac{X𝐖-\mu𝐖}{\sigma𝐖}
+Z =\frac{X -\mu}{\sigma}
 X
 X
 X
-N(\mu𝐖,𝐖\sigma𝐖)
-N(10,𝐖3),𝐖
-N(35,𝐖9),𝐖
-N(24,𝐖5)
-N(35,𝐖9),𝐖
-Z𝐖=\frac{50𝐖-35}{9}𝐖=\frac{5}{3}𝐖\approx𝐖1.67.
-N(24,𝐖5),𝐖
-Z𝐖=\frac{35𝐖-24}{5}𝐖=\frac{11}{5}𝐖=2.2.
-N(24,𝐖5)
-\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖e^{𝐖-x^2𝐖/2}𝐖dx𝐖=\sqrt{2\pi𝐖}𝐖.
-\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖e^{𝐖-x/2}𝐖dx𝐖.
+N(\mu, \sigma)
+N(10, 3),
+N(35, 9),
+N(24, 5)
+N(35, 9),
+Z =\frac{50 -35}{9} =\frac{5}{3} \approx 1.67.
+N(24, 5),
+Z =\frac{35 -24}{5} =\frac{11}{5} =2.2.
+N(24, 5)
+\int_{ -\infty}^\infty e^{ -x^2 /2} dx =\sqrt{2\pi} .
+\int_{ -\infty}^\infty e^{ -x/2} dx .
 A
-A^2𝐖
-A^2𝐖
-A^2𝐖𝐖&𝐖\lt𝐖mi/>𝐖=(\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖e^{𝐖-x^2𝐖/2}𝐖dx)(\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖e^{𝐖-y^2𝐖/2}𝐖dy)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖e^{𝐖-x^2𝐖/2}𝐖e^{𝐖-y^2𝐖/2}𝐖dxdy𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖e^{\frac{𝐖-(x^2𝐖𝐖+y^2𝐖)}{2}}𝐖dxdy𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_0^{2\pi𝐖}𝐖\int𝐖_0^\infty𝐖𝐖e^{𝐖-r^2𝐖/2}𝐖rdrd\theta𝐖𝐖&𝐖\~change\space𝐖to\space𝐖polar\space𝐖coordinates𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=2\pi𝐖\int𝐖_0^\infty𝐖𝐖e^{𝐖-r^2𝐖/2}𝐖rdr𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=𝐖-\pi𝐖\int𝐖_0^\infty𝐖𝐖e^{𝐖-u}𝐖du𝐖&𝐖\~let\~u𝐖=r^2𝐖/2𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=2\pi𝐖[𝐖-e^{𝐖-u}𝐖|_0^\infty𝐖𝐖]𝐖&𝐖𝐖=2\pi𝐖[𝐖-0𝐖+1]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=2\pi𝐖
-A^2𝐖𝐖=2\pi𝐖,𝐖
-A𝐖=\sqrt{2\pi𝐖}
-f(x)𝐖=\frac{1}{\sqrt{2\pi𝐖}}e^{𝐖-x^2𝐖/2}𝐖,𝐖
-𝐖-\infty𝐖𝐖\lt𝐖x𝐖\lt𝐖\infty𝐖,𝐖
-f(x)𝐖\ge𝐖0
-x,𝐖
-\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖f(x)dx𝐖=1.
-f(x)𝐖=\frac{1}{\sigma𝐖\sqrt{2\pi𝐖}}e^{𝐖-(x𝐖-\mu𝐖)^2𝐖/(2\sigma𝐖^2𝐖)}𝐖,𝐖
-𝐖-\infty𝐖𝐖\lt𝐖x𝐖\lt𝐖\infty𝐖,𝐖
-f(x)𝐖\ge𝐖0
-x,𝐖
+A^2
+A^2
+A^2 & \lt mi/> =(\int_{ -\infty}^\infty e^{ -x^2 /2} dx)(\int_{ -\infty}^\infty e^{ -y^2 /2} dy) \\ \~ & \lt mi/> =\int_{ -\infty}^\infty \int_{ -\infty}^\infty e^{ -x^2 /2} e^{ -y^2 /2} dxdy \\ \~ & \lt mi/> =\int_{ -\infty}^\infty \int_{ -\infty}^\infty e^{\frac{ -(x^2 +y^2)}{2}} dxdy \\ \~ & \lt mi/> =\int_0^{2\pi} \int_0^\infty e^{ -r^2 /2} rdrd\theta & \~change\space to\space polar\space coordinates \\ \~ & \lt mi/> =2\pi \int_0^\infty e^{ -r^2 /2} rdr \\ \~ & \lt mi/> = -\pi \int_0^\infty e^{ -u} du & \~let\~u =r^2 /2 \\ \~ & \lt mi/> =2\pi [ -e^{ -u} |_0^\infty] & =2\pi [ -0 +1] \\ \~ & \lt mi/> =2\pi
+A^2 =2\pi,
+A =\sqrt{2\pi}
+f(x) =\frac{1}{\sqrt{2\pi}}e^{ -x^2 /2},
+-\infty \lt x \lt \infty,
+f(x) \ge 0
+x,
+\int_{ -\infty}^\infty f(x)dx =1.
+f(x) =\frac{1}{\sigma \sqrt{2\pi}}e^{ -(x -\mu)^2 /(2\sigma^2)},
+-\infty \lt x \lt \infty,
+f(x) \ge 0
+x,
 u
-u𝐖=(x𝐖-\mu𝐖)/\sigma𝐖,𝐖
-\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖f(x)dx𝐖=1
-\alpha𝐖
-\beta𝐖,𝐖
-\alpha𝐖
-\beta𝐖
-1/\beta𝐖
+u =(x -\mu)/\sigma,
+\int_{ -\infty}^\infty f(x)dx =1
+\alpha
+\beta,
+\alpha
+\beta
+1/\beta
 X
-\alpha𝐖𝐖>0
-\beta𝐖𝐖>0
-\mathtt𝐖g𝐖\mathtt𝐖a𝐖\mathtt𝐖m𝐖\mathtt𝐖m𝐖\mathtt𝐖a𝐖(\alpha𝐖,𝐖\beta𝐖)
-f(x)𝐖=\frac{1}{\beta𝐖^\alpha𝐖𝐖\Gamma𝐖(\alpha𝐖)}x^{\alpha𝐖𝐖-1}𝐖e^{𝐖-(x/\beta𝐖)}𝐖\~for\~x𝐖\ge𝐖0\~(and\~f(x)𝐖=0\~else)
-\Gamma𝐖(\alpha𝐖)𝐖=\int𝐖_0^\infty𝐖𝐖t^{\alpha𝐖𝐖-1}𝐖e^{𝐖-t}𝐖dt
-\Gamma𝐖(\alpha𝐖)
-n𝐖>0
-\Gamma𝐖(n𝐖+1)𝐖=n𝐖\cdot𝐖\Gamma𝐖(n)𝐖.
-\Gamma𝐖(n𝐖+1)𝐖=\int𝐖_0^\infty𝐖𝐖t^{(n𝐖+1)𝐖-1}𝐖e^{𝐖-t}𝐖dt𝐖=\int𝐖_0^\infty𝐖𝐖t^n𝐖e^{𝐖-t}𝐖dt𝐖.
-u𝐖=t^n𝐖,𝐖
-dv𝐖=e^{𝐖-t}𝐖dt
-du𝐖=nt^{n𝐖-1}𝐖dt
-v𝐖=𝐖-e^{𝐖-t}𝐖,𝐖
-\int𝐖_0^\infty𝐖𝐖t^n𝐖e^{𝐖-t}𝐖dt𝐖&𝐖\lt𝐖mi/>𝐖=𝐖-t^n𝐖e^{𝐖-t}𝐖|𝐖_0^\infty𝐖𝐖𝐖-\int𝐖_0^\infty𝐖𝐖nt^{n𝐖-1}𝐖(𝐖-e^{𝐖-t}𝐖)dt𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{b𝐖\to𝐖\infty𝐖}𝐖[𝐖-t^n𝐖e^{𝐖-t}𝐖|_0^b𝐖]𝐖+n\int𝐖_0^\infty𝐖𝐖t^{n𝐖-1}𝐖e^{𝐖-t}𝐖dt
-\Gamma𝐖(n)
-\Gamma𝐖(n𝐖+1)𝐖=n𝐖\cdot𝐖\Gamma𝐖(n)𝐖.
-\Gamma𝐖(n)𝐖=(n𝐖-1)!
+\alpha >0
+\beta >0
+\mathtt g \mathtt a \mathtt m \mathtt m \mathtt a (\alpha, \beta)
+f(x) =\frac{1}{\beta^\alpha \Gamma (\alpha)}x^{\alpha -1} e^{ -(x/\beta)} \~for\~x \ge 0\~(and\~f(x) =0\~else)
+\Gamma (\alpha) =\int_0^\infty t^{\alpha -1} e^{ -t} dt
+\Gamma (\alpha)
+n >0
+\Gamma (n +1) =n \cdot \Gamma (n) .
+\Gamma (n +1) =\int_0^\infty t^{(n +1) -1} e^{ -t} dt =\int_0^\infty t^n e^{ -t} dt .
+u =t^n,
+dv =e^{ -t} dt
+du =nt^{n -1} dt
+v = -e^{ -t},
+\int_0^\infty t^n e^{ -t} dt & \lt mi/> = -t^n e^{ -t} |_0^\infty -\int_0^\infty nt^{n -1} ( -e^{ -t})dt \\ \~ & \lt mi/> =\lim_{b \to \infty} [ -t^n e^{ -t} |_0^b] +n\int_0^\infty t^{n -1} e^{ -t} dt
+\Gamma (n)
+\Gamma (n +1) =n \cdot \Gamma (n) .
+\Gamma (n) =(n -1)!
 n
-\Gamma𝐖(1)𝐖=1
-\Gamma𝐖(1)𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_0^\infty𝐖𝐖t^0𝐖e^{𝐖-t}𝐖dt𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{b𝐖\to𝐖\infty𝐖}𝐖[\int𝐖_0^b𝐖e^{𝐖-t}𝐖dt]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{b𝐖\to𝐖\infty𝐖}^\infty𝐖𝐖[𝐖-e^{𝐖-t}𝐖|_0^b𝐖]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{b𝐖\to𝐖\infty𝐖}^\infty𝐖𝐖[𝐖-e^{𝐖-b}𝐖𝐖+1]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=1.
-\Gamma𝐖(2),𝐖\Gamma𝐖(3),𝐖\Gamma𝐖(4)
-\Gamma𝐖(1)𝐖=1
-\Gamma𝐖(k)𝐖=(k𝐖-1)!
-k𝐖\ge𝐖1
-\Gamma𝐖(k𝐖+1)𝐖&𝐖\lt𝐖mi/>𝐖=k𝐖\cdot𝐖\Gamma𝐖(k)𝐖&𝐖\~by\space𝐖the\space𝐖lemma\~𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=k𝐖\cdot𝐖(k𝐖-1)!𝐖&𝐖\~by\space𝐖substitution𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=k!
-\Gamma𝐖(n)𝐖=(n𝐖-1)!
+\Gamma (1) =1
+\Gamma (1) & \lt mi/> =\int_0^\infty t^0 e^{ -t} dt \\ \~ & \lt mi/> =\lim_{b \to \infty} [\int_0^b e^{ -t} dt] \\ \~ & \lt mi/> =\lim_{b \to \infty}^\infty [ -e^{ -t} |_0^b] \\ \~ & \lt mi/> =\lim_{b \to \infty}^\infty [ -e^{ -b} +1] \\ \~ & \lt mi/> =1.
+\Gamma (2), \Gamma (3), \Gamma (4)
+\Gamma (1) =1
+\Gamma (k) =(k -1)!
+k \ge 1
+\Gamma (k +1) & \lt mi/> =k \cdot \Gamma (k) & \~by\space the\space lemma\~ \\ \~ & \lt mi/> =k \cdot (k -1)! & \~by\space substitution \\ \~ & \lt mi/> =k!
+\Gamma (n) =(n -1)!
 n
 X
-\mathtt𝐖g𝐖\mathtt𝐖a𝐖\mathtt𝐖m𝐖\mathtt𝐖m𝐖\mathtt𝐖a𝐖(\alpha𝐖,𝐖\beta𝐖)),𝐖
-E(X)𝐖=\alpha𝐖\beta𝐖,𝐖\~and\~V(X)𝐖=\alpha𝐖\beta𝐖^2𝐖𝐖.
-\mathtt𝐖g𝐖\mathtt𝐖a𝐖\mathtt𝐖m𝐖\mathtt𝐖m𝐖\mathtt𝐖a𝐖(\alpha𝐖,𝐖\beta𝐖)
-f',𝐖
-\alpha𝐖𝐖\le𝐖1,𝐖
-f'(x)𝐖\lt𝐖0
-x𝐖>0,𝐖
+\mathtt g \mathtt a \mathtt m \mathtt m \mathtt a (\alpha, \beta)),
+E(X) =\alpha \beta, \~and\~V(X) =\alpha \beta^2 .
+\mathtt g \mathtt a \mathtt m \mathtt m \mathtt a (\alpha, \beta)
+f',
+\alpha \le 1,
+f'(x) \lt 0
+x >0,
 f
-x𝐖=0
-\alpha𝐖𝐖>1,𝐖
-X𝐖\sim𝐖\mathtt𝐖g𝐖\mathtt𝐖a𝐖\mathtt𝐖m𝐖\mathtt𝐖m𝐖\mathtt𝐖a𝐖(\alpha𝐖,𝐖\beta𝐖)
-x𝐖=(\alpha𝐖𝐖-1)\beta𝐖𝐖.
-\alpha𝐖𝐖=1
-\mathtt𝐖g𝐖\mathtt𝐖a𝐖\mathtt𝐖m𝐖\mathtt𝐖m𝐖\mathtt𝐖a𝐖(1,𝐖\beta𝐖)𝐖=Exp(\beta𝐖),𝐖
-\nu𝐖
+x =0
+\alpha >1,
+X \sim \mathtt g \mathtt a \mathtt m \mathtt m \mathtt a (\alpha, \beta)
+x =(\alpha -1)\beta .
+\alpha =1
+\mathtt g \mathtt a \mathtt m \mathtt m \mathtt a (1, \beta) =Exp(\beta),
+\nu
 X
-\nu𝐖
+\nu
 X
-\chi𝐖^2𝐖(\nu𝐖)
+\chi^2 (\nu)
 X
-\mathtt𝐖g𝐖\mathtt𝐖a𝐖\mathtt𝐖m𝐖\mathtt𝐖m𝐖\mathtt𝐖a𝐖(\alpha𝐖𝐖=\nu𝐖/2,𝐖\beta𝐖𝐖=2)𝐖.
-\alpha𝐖
-\beta𝐖
+\mathtt g \mathtt a \mathtt m \mathtt m \mathtt a (\alpha =\nu /2, \beta =2) .
+\alpha
+\beta
 X
-\alpha𝐖𝐖>0
-\beta𝐖𝐖>0
-f(x)𝐖=\frac{\Gamma𝐖(\alpha𝐖𝐖+\beta𝐖)}{\Gamma𝐖(\alpha𝐖)𝐖\cdot𝐖\Gamma𝐖(\beta𝐖)}x^{\alpha𝐖𝐖-1}𝐖(1𝐖-x)^{\beta𝐖𝐖-1}𝐖\~for\~0𝐖\le𝐖x𝐖\le𝐖1\~(and\~f(x)𝐖=0\~else)
-X
-X
-\mathtt𝐖b𝐖\mathtt𝐖e𝐖\mathtt𝐖t𝐖\mathtt𝐖a𝐖(\alpha𝐖,𝐖\beta𝐖)
-n,𝐖
-\Gamma𝐖(n)𝐖=(n𝐖-1)!
-\alpha𝐖
-\beta𝐖,𝐖
-X𝐖\sim𝐖\mathtt𝐖b𝐖\mathtt𝐖e𝐖\mathtt𝐖t𝐖\mathtt𝐖a𝐖(1,𝐖1)𝐖\Rightarrow𝐖f(x)𝐖=\frac{\Gamma𝐖(2)}{\Gamma𝐖(1)\Gamma𝐖(1)}x^0𝐖(1𝐖-x)^0𝐖𝐖=1
-beta(1,𝐖1)
-U(0,𝐖1)𝐖.
-X𝐖\sim𝐖\mathtt𝐖b𝐖\mathtt𝐖e𝐖\mathtt𝐖t𝐖\mathtt𝐖a𝐖(1,𝐖2)𝐖\Rightarrow𝐖f(x)𝐖=2(1𝐖-x)
-X𝐖\sim𝐖\mathtt𝐖b𝐖\mathtt𝐖e𝐖\mathtt𝐖t𝐖\mathtt𝐖a𝐖(2,𝐖1)𝐖\Rightarrow𝐖f(x)𝐖=2x
-X𝐖\sim𝐖\mathtt𝐖b𝐖\mathtt𝐖e𝐖\mathtt𝐖t𝐖\mathtt𝐖a𝐖(2,𝐖2)𝐖\Rightarrow𝐖f(x)𝐖=6x(1𝐖-x)
-X𝐖\sim𝐖\mathtt𝐖b𝐖\mathtt𝐖e𝐖\mathtt𝐖t𝐖\mathtt𝐖a𝐖(n,𝐖1)𝐖\Rightarrow𝐖f(x)𝐖=nx^{n𝐖-1}𝐖
-X𝐖\sim𝐖\mathtt𝐖b𝐖\mathtt𝐖e𝐖\mathtt𝐖t𝐖\mathtt𝐖a𝐖(1,𝐖n)𝐖\Rightarrow𝐖f(x)𝐖=n(1𝐖-x)^{n𝐖-1}𝐖
-X
-\mathtt𝐖b𝐖\mathtt𝐖e𝐖\mathtt𝐖t𝐖\mathtt𝐖a𝐖(\alpha𝐖,𝐖\beta𝐖)),𝐖
-E(X)𝐖=\frac{\alpha𝐖}{\alpha𝐖𝐖+\beta𝐖},𝐖\~and\~V(X)𝐖=\frac{\alpha𝐖\beta𝐖}{(\alpha𝐖𝐖+\beta𝐖)^2𝐖(\alpha𝐖𝐖+\beta𝐖𝐖+1)}𝐖.
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+\alpha >0
+\beta >0
+f(x) =\frac{\Gamma (\alpha +\beta)}{\Gamma (\alpha) \cdot \Gamma (\beta)}x^{\alpha -1} (1 -x)^{\beta -1} \~for\~0 \le x \le 1\~(and\~f(x) =0\~else)
 X
 X
-\pi𝐖
+\mathtt b \mathtt e \mathtt t \mathtt a (\alpha, \beta)
+n,
+\Gamma (n) =(n -1)!
+\alpha
+\beta,
+X \sim \mathtt b \mathtt e \mathtt t \mathtt a (1, 1) \Rightarrow f(x) =\frac{\Gamma (2)}{\Gamma (1)\Gamma (1)}x^0 (1 -x)^0 =1
+beta(1, 1)
+U(0, 1) .
+X \sim \mathtt b \mathtt e \mathtt t \mathtt a (1, 2) \Rightarrow f(x) =2(1 -x)
+X \sim \mathtt b \mathtt e \mathtt t \mathtt a (2, 1) \Rightarrow f(x) =2x
+X \sim \mathtt b \mathtt e \mathtt t \mathtt a (2, 2) \Rightarrow f(x) =6x(1 -x)
+X \sim \mathtt b \mathtt e \mathtt t \mathtt a (n, 1) \Rightarrow f(x) =nx^{n -1}
+X \sim \mathtt b \mathtt e \mathtt t \mathtt a (1, n) \Rightarrow f(x) =n(1 -x)^{n -1}
+X
+\mathtt b \mathtt e \mathtt t \mathtt a (\alpha, \beta)),
+E(X) =\frac{\alpha}{\alpha +\beta}, \~and\~V(X) =\frac{\alpha \beta}{(\alpha +\beta)^2 (\alpha +\beta +1)} .
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
+X
+X
+\pi
 F(X)
 p
 q
-q𝐖=1𝐖-p
-p𝐖=1/6
-q𝐖=5/6
+q =1 -p
+p =1/6
+q =5/6
 n
-p𝐖=1/n
-q𝐖=(n𝐖-1)/n
-X
-n
-p
+p =1/n
+q =(n -1)/n
 X
 n
 p
 X
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(n,𝐖p)
+n
+p
 X
-\{0,𝐖1,𝐖\ldots𝐖,𝐖n\},𝐖
-x𝐖=0,𝐖1,𝐖\ldots𝐖,𝐖n,𝐖
-p(x)𝐖=\binom{n}{x}p^x𝐖(1𝐖-p)^{n𝐖-x}𝐖𝐖.
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (n, p)
+X
+\{0, 1, \ldots, n\},
+x =0, 1, \ldots, n,
+p(x) =\binom{n}{x}p^x (1 -p)^{n -x} .
 x
 n
 x
 n
 \binom{n}{x}
 x
-p,𝐖
-n𝐖-x
-q𝐖=1𝐖-p
+p,
+n -x
+q =1 -p
 x
-n𝐖-x
-\binom{n}{x}p^x𝐖(1𝐖-p)^{n𝐖-x}𝐖𝐖.
-\sum𝐖_{x𝐖=0}^n𝐖p(x)𝐖=(p𝐖+(1𝐖-p))^n𝐖𝐖=1.
+n -x
+\binom{n}{x}p^x (1 -p)^{n -x} .
+\sum_{x =0}^n p(x) =(p +(1 -p))^n =1.
 X
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(n,𝐖p),𝐖
-E(X)𝐖=np\~and\~V(X)𝐖=np(1𝐖-p)𝐖.
-E(X)𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=0}^n𝐖x𝐖\cdot𝐖p(x)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=1}^n𝐖x𝐖\cdot𝐖p(x)𝐖&𝐖since\space𝐖the\~x𝐖=0\~term\space𝐖is\~0𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=1}^n𝐖x\binom{n}{x}p^x𝐖(1𝐖-p)^{n𝐖-x}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=1}^n𝐖x\frac{n!}{(n𝐖-x)!x!}p^x𝐖(1𝐖-p)^{n𝐖-x}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=1}^n𝐖\frac{n!}{(n𝐖-x)!(x𝐖-1)!}p^x𝐖(1𝐖-p)^{n𝐖-x}𝐖𝐖&𝐖cancelling\space𝐖an\~x𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=np\sum𝐖_{x𝐖=1}^n𝐖\frac{(n𝐖-1)!}{(n𝐖-x)!(x𝐖-1)!}p^{x𝐖-1}𝐖(1𝐖-p)^{n𝐖-x}𝐖𝐖&𝐖\~pull\space𝐖out\~n\~from\~n!\~and\space𝐖one\~p𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=np\sum𝐖_{x𝐖=1}^n𝐖\binom{n𝐖-1}{x𝐖-1}p^{x𝐖-1}𝐖(1𝐖-p)^{(n𝐖-1)𝐖-(x𝐖-1)}𝐖
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(n𝐖-1,𝐖p)
-E(X)𝐖=np
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (n, p),
+E(X) =np\~and\~V(X) =np(1 -p) .
+E(X) & \lt mi/> =\sum_{x =0}^n x \cdot p(x) \\ \~ & \lt mi/> =\sum_{x =1}^n x \cdot p(x) & since\space the\~x =0\~term\space is\~0 \\ \~ & \lt mi/> =\sum_{x =1}^n x\binom{n}{x}p^x (1 -p)^{n -x} \\ \~ & \lt mi/> =\sum_{x =1}^n x\frac{n!}{(n -x)!x!}p^x (1 -p)^{n -x} \\ \~ & \lt mi/> =\sum_{x =1}^n \frac{n!}{(n -x)!(x -1)!}p^x (1 -p)^{n -x} & cancelling\space an\~x \\ \~ & \lt mi/> =np\sum_{x =1}^n \frac{(n -1)!}{(n -x)!(x -1)!}p^{x -1} (1 -p)^{n -x} & \~pull\space out\~n\~from\~n!\~and\space one\~p \\ \~ & \lt mi/> =np\sum_{x =1}^n \binom{n -1}{x -1}p^{x -1} (1 -p)^{(n -1) -(x -1)}
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (n -1, p)
+E(X) =np
 V(X)
-E(X(X𝐖-1))𝐖=E(X^2𝐖𝐖-X)𝐖=E(X^2𝐖)𝐖-E(X),𝐖
-E(X^2𝐖)𝐖=E(X(X𝐖-1))𝐖+E(X)𝐖.
+E(X(X -1)) =E(X^2 -X) =E(X^2) -E(X),
+E(X^2) =E(X(X -1)) +E(X) .
 E(X)
-E(X(X𝐖-1))
-E(X(X𝐖-1))𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=0}^n𝐖x(x𝐖-1)\binom{n}{x}p^x𝐖(1𝐖-p)^{n𝐖-x}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=2}^n𝐖x(x𝐖-1)\binom{n}{x}p^x𝐖(1𝐖-p)^{n𝐖-x}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=2}^n𝐖x(x𝐖-1)\frac{n!}{(n𝐖-x)!x!}p^x𝐖(1𝐖-p)^{n𝐖-x}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=2}^n𝐖\frac{n!}{(n𝐖-x)!(x𝐖-2)!}p^x𝐖(1𝐖-p)^{n𝐖-x}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=n(n𝐖-1)p^2𝐖\sum𝐖_{x𝐖=2}^n𝐖\frac{(n𝐖-2)!}{(n𝐖-x)!(x𝐖-2)!}p^{x𝐖-2}𝐖(1𝐖-p)^{n𝐖-x}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=n(n𝐖-1)p^2𝐖\sum𝐖_{x𝐖=2}^n𝐖\binom{n𝐖-2}{x𝐖-2}p^{x𝐖-2}𝐖(1𝐖-p)^{(n𝐖-2)𝐖-(x𝐖-2)}𝐖
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(n𝐖-2,𝐖p)
-E(X(X𝐖-1))𝐖=n(n𝐖-1)p^2𝐖,𝐖
-E(X^2𝐖)𝐖=E(X(X𝐖-1))𝐖+E(X)𝐖=n(n𝐖-1)p^2𝐖𝐖+np𝐖.
-V(X)𝐖&𝐖\lt𝐖mi/>𝐖=E(X^2𝐖)𝐖-E(X)^2𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=n(n𝐖-1)p^2𝐖𝐖+np𝐖-(np)^2𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=n^2𝐖p^2𝐖𝐖-np^2𝐖𝐖+np𝐖-n^2𝐖p^2𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=np(1𝐖-p)
+E(X(X -1))
+E(X(X -1)) & \lt mi/> =\sum_{x =0}^n x(x -1)\binom{n}{x}p^x (1 -p)^{n -x} \\ \~ & \lt mi/> =\sum_{x =2}^n x(x -1)\binom{n}{x}p^x (1 -p)^{n -x} \\ \~ & \lt mi/> =\sum_{x =2}^n x(x -1)\frac{n!}{(n -x)!x!}p^x (1 -p)^{n -x} \\ \~ & \lt mi/> =\sum_{x =2}^n \frac{n!}{(n -x)!(x -2)!}p^x (1 -p)^{n -x} \\ \~ & \lt mi/> =n(n -1)p^2 \sum_{x =2}^n \frac{(n -2)!}{(n -x)!(x -2)!}p^{x -2} (1 -p)^{n -x} \\ \~ & \lt mi/> =n(n -1)p^2 \sum_{x =2}^n \binom{n -2}{x -2}p^{x -2} (1 -p)^{(n -2) -(x -2)}
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (n -2, p)
+E(X(X -1)) =n(n -1)p^2,
+E(X^2) =E(X(X -1)) +E(X) =n(n -1)p^2 +np .
+V(X) & \lt mi/> =E(X^2) -E(X)^2 \\ \~ & \lt mi/> =n(n -1)p^2 +np -(np)^2 \\ \~ & \lt mi/> =n^2 p^2 -np^2 +np -n^2 p^2 \\ \~ & \lt mi/> =np(1 -p)
 X
 X
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(n𝐖=15,𝐖p𝐖=1/4)
-P(X𝐖\ge𝐖10)𝐖=\sum𝐖_{x𝐖=10}^{15}𝐖\binom{15}{x}(\frac{1}{4})^x𝐖(\frac{3}{4})^{15𝐖-x}𝐖𝐖\approx𝐖.0008𝐖.
-P(X𝐖\le𝐖x)
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (n =15, p =1/4)
+P(X \ge 10) =\sum_{x =10}^{15} \binom{15}{x}(\frac{1}{4})^x (\frac{3}{4})^{15 -x} \approx .0008 .
+P(X \le x)
 X
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(n,𝐖p),𝐖
-P(X𝐖\le𝐖x)
-P(X𝐖\ge𝐖10)𝐖=1𝐖-P(X𝐖\le𝐖9)𝐖=
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (n, p),
+P(X \le x)
+P(X \ge 10) =1 -P(X \le 9) =
 X
-E(X)𝐖=15𝐖\cdot𝐖\frac{1}{4}𝐖=3.75
+E(X) =15 \cdot \frac{1}{4} =3.75
 Y
 Y
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(n𝐖=15,𝐖p𝐖=1/3),𝐖
-P(Y𝐖\ge𝐖10)𝐖=\sum𝐖_{y𝐖=10}^{15}𝐖\binom{15}{y}(\frac{1}{3})^y𝐖(\frac{2}{3})^{15𝐖-y}𝐖𝐖\approx𝐖.0085,𝐖
-E(Y)𝐖=15𝐖\cdot𝐖\frac{1}{3}𝐖=5.
-p𝐖=.03
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (n =15, p =1/3),
+P(Y \ge 10) =\sum_{y =10}^{15} \binom{15}{y}(\frac{1}{3})^y (\frac{2}{3})^{15 -y} \approx .0085,
+E(Y) =15 \cdot \frac{1}{3} =5.
+p =.03
 X
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(100,𝐖.03),𝐖
-E(X)𝐖=100𝐖\cdot𝐖(.03)𝐖=3
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (100, .03),
+E(X) =100 \cdot (.03) =3
 C
 X
-C(x)𝐖=\{0𝐖&𝐖\~if\~x𝐖=0,𝐖1𝐖\\𝐖10𝐖&𝐖\~if\~x𝐖=2𝐖\\𝐖10𝐖+25(x𝐖-2)𝐖&𝐖\~if\~x𝐖\ge𝐖3𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
-E(C),𝐖
-E(C)𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=0}^{100}𝐖C(x)𝐖\cdot𝐖p(x)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=C(2)𝐖\cdot𝐖p(2)𝐖+\sum𝐖_{x𝐖=3}^{100}𝐖(10𝐖+25𝐖\cdot𝐖(x𝐖-2))𝐖\cdot𝐖p(x)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=10𝐖\cdot𝐖p(2)𝐖+\sum𝐖_{x𝐖=3}^{100}𝐖(25x𝐖-40)𝐖\cdot𝐖p(x)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=10𝐖\cdot𝐖p(2)𝐖+(E(25X𝐖-40)𝐖-\sum𝐖_{x𝐖=0}^2𝐖(25x𝐖-40)𝐖\cdot𝐖p(x))𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=10𝐖\cdot𝐖p(2)𝐖+[25𝐖\cdot𝐖E(X)𝐖-40]𝐖-(𝐖-40𝐖\cdot𝐖p(0)𝐖-15𝐖\cdot𝐖p(1)𝐖+10𝐖\ast𝐖p(2))𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=[25E(X)𝐖-40]𝐖+40𝐖\cdot𝐖p(0)𝐖+15𝐖\cdot𝐖p(1)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=[(25𝐖\cdot𝐖3)𝐖-40]𝐖+40𝐖\cdot𝐖(.97)^{100}𝐖𝐖+15𝐖\cdot𝐖100(.03)(.97)^{99}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\approx𝐖39.10.
+C(x) =\{0 & \~if\~x =0, 1 \\ 10 & \~if\~x =2 \\ 10 +25(x -2) & \~if\~x \ge 3 \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+E(C),
+E(C) & \lt mi/> =\sum_{x =0}^{100} C(x) \cdot p(x) \\ \~ & \lt mi/> =C(2) \cdot p(2) +\sum_{x =3}^{100} (10 +25 \cdot (x -2)) \cdot p(x) \\ \~ & \lt mi/> =10 \cdot p(2) +\sum_{x =3}^{100} (25x -40) \cdot p(x) \\ \~ & \lt mi/> =10 \cdot p(2) +(E(25X -40) -\sum_{x =0}^2 (25x -40) \cdot p(x)) \\ \~ & \lt mi/> =10 \cdot p(2) +[25 \cdot E(X) -40] -( -40 \cdot p(0) -15 \cdot p(1) +10 \ast p(2)) \\ \~ & \lt mi/> =[25E(X) -40] +40 \cdot p(0) +15 \cdot p(1) \\ \~ & \lt mi/> =[(25 \cdot 3) -40] +40 \cdot (.97)^{100} +15 \cdot 100(.03)(.97)^{99} \\ \~ & \lt mi/> \approx 39.10.
 X
 X
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(10,𝐖.1),𝐖
-E(X)𝐖=10𝐖\cdot𝐖.1𝐖=1.
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (10, .1),
+E(X) =10 \cdot .1 =1.
 C
 X
-C𝐖&𝐖\lt𝐖mi/>𝐖=50𝐖+150(10𝐖-X)𝐖+300X𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=1550𝐖+150X𝐖.
-E(C)𝐖&𝐖\lt𝐖mi/>𝐖=E(1550𝐖+150X)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=E(1550)𝐖+150E(X)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=1550𝐖+150𝐖\cdot𝐖1𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=1700.
+C & \lt mi/> =50 +150(10 -X) +300X \\ \~ & \lt mi/> =1550 +150X .
+E(C) & \lt mi/> =E(1550 +150X) \\ \~ & \lt mi/> =E(1550) +150E(X) \\ \~ & \lt mi/> =1550 +150 \cdot 1 \\ \~ & \lt mi/> =1700.
 X
 X
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(n𝐖=20,𝐖p𝐖=.05)
-P(X𝐖=2)
-P(X𝐖=2)𝐖=\binom{20}{2}p^2𝐖𝐖\cdot𝐖(1𝐖-p)^{18}𝐖𝐖\approx𝐖.189𝐖.
-P(X𝐖\le𝐖1)𝐖=\sum𝐖_{x𝐖=0}^1𝐖\binom{20}{x}p^x𝐖(1𝐖-p)^{20𝐖-x}𝐖,𝐖
-P(X𝐖\le𝐖1)
-\approx𝐖
-P(X𝐖>3)𝐖=1𝐖-P(X𝐖\le𝐖3),𝐖
-\approx𝐖
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (n =20, p =.05)
+P(X =2)
+P(X =2) =\binom{20}{2}p^2 \cdot (1 -p)^{18} \approx .189 .
+P(X \le 1) =\sum_{x =0}^1 \binom{20}{x}p^x (1 -p)^{20 -x},
+P(X \le 1)
+\approx
+P(X >3) =1 -P(X \le 3),
+\approx
 X
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(60,𝐖1/4)
-\mu𝐖𝐖=60𝐖\cdot𝐖\frac{1}{4}𝐖=15
-\sigma𝐖^2𝐖𝐖=60𝐖\cdot𝐖\frac{1}{4}𝐖\cdot𝐖\frac{3}{4}𝐖=11.25.
-15𝐖-2𝐖\cdot𝐖\sqrt{11.25}
-15𝐖+2𝐖\cdot𝐖\sqrt{11.25},𝐖
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (60, 1/4)
+\mu =60 \cdot \frac{1}{4} =15
+\sigma^2 =60 \cdot \frac{1}{4} \cdot \frac{3}{4} =11.25.
+15 -2 \cdot \sqrt{11.25}
+15 +2 \cdot \sqrt{11.25},
 p(x)
 x
 p
 X
 X
 p
-\mathtt𝐖g𝐖\mathtt𝐖e𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(p)
+\mathtt g \mathtt e \mathtt o \mathtt m (p)
 X
-p(x)𝐖=q^{x𝐖-1}𝐖𝐖\cdot𝐖p,𝐖
-x𝐖=1,𝐖2,𝐖3,𝐖\ldots𝐖,𝐖
-q𝐖=1𝐖-p
-\sum𝐖_{x𝐖=0}^\infty𝐖𝐖p(x)𝐖=p𝐖+pq𝐖+pq^2𝐖𝐖+\cdots𝐖
-|𝐖q|𝐖\lt𝐖1
-\sum𝐖_{n𝐖=0}^\infty𝐖𝐖pq^n𝐖𝐖=\frac{p}{1𝐖-q}𝐖.
+p(x) =q^{x -1} \cdot p,
+x =1, 2, 3, \ldots,
+q =1 -p
+\sum_{x =0}^\infty p(x) =p +pq +pq^2 +\cdots
+| q| \lt 1
+\sum_{n =0}^\infty pq^n =\frac{p}{1 -q} .
 p(x)
-k,𝐖
-P(X𝐖>k)𝐖&𝐖\lt𝐖mi/>𝐖=p(X𝐖=k𝐖+1)𝐖+p(X𝐖=k𝐖+2)𝐖+p(X𝐖=k𝐖+3)𝐖+\cdots𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=pq^k𝐖𝐖+pq^{k𝐖+1}𝐖𝐖+pq^{k𝐖+2}𝐖𝐖+\cdots𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=pq^k𝐖(1𝐖+q𝐖+q^2𝐖𝐖+\cdots𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=pq^k𝐖𝐖\cdot𝐖\frac{1}{1𝐖-q}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=q^k𝐖𝐖.
-p,𝐖
-q𝐖=1𝐖-p𝐖.
+k,
+P(X >k) & \lt mi/> =p(X =k +1) +p(X =k +2) +p(X =k +3) +\cdots \\ \~ & \lt mi/> =pq^k +pq^{k +1} +pq^{k +2} +\cdots \\ \~ & \lt mi/> =pq^k (1 +q +q^2 +\cdots) \\ \~ & \lt mi/> =pq^k \cdot \frac{1}{1 -q} \\ \~ & \lt mi/> =q^k .
+p,
+q =1 -p .
 T
 k
-P(T𝐖>k)𝐖=q^k𝐖
+P(T >k) =q^k
 X
-\mathtt𝐖g𝐖\mathtt𝐖e𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(p)
-0𝐖\lt𝐖p𝐖\le𝐖1,𝐖
-E(X)𝐖=\frac{1}{p}\~and\~V(X)𝐖=\frac{1𝐖-p}{p^2𝐖}𝐖.
-𝐖\sum𝐖q^x𝐖
-𝐖-1𝐖\lt𝐖q𝐖\lt𝐖1,𝐖
-(provided\space𝐖|q|\lt𝐖1)𝐖&𝐖\sum𝐖_{x𝐖=0}^\infty𝐖𝐖q^x𝐖𝐖=\frac{1}{1𝐖-q}
+\mathtt g \mathtt e \mathtt o \mathtt m (p)
+0 \lt p \le 1,
+E(X) =\frac{1}{p}\~and\~V(X) =\frac{1 -p}{p^2} .
+\sum q^x
+-1 \lt q \lt 1,
+(provided\space |q|\lt 1) & \sum_{x =0}^\infty q^x =\frac{1}{1 -q}
 q
-q,𝐖
-𝐖-1𝐖\lt𝐖q𝐖\lt𝐖1
-\frac{d}{dq}[\sum𝐖_{x𝐖=0}^\infty𝐖𝐖q^x𝐖]𝐖&𝐖\lt𝐖mi/>𝐖=\frac{d}{dq}[\frac{1}{1𝐖-q}]𝐖\\𝐖\frac{d}{dq}[1𝐖+q𝐖+q^2𝐖𝐖+q^3𝐖𝐖+\cdots𝐖]𝐖&𝐖\lt𝐖mi/>𝐖=\frac{d}{dq}[\frac{1}{1𝐖-q}]𝐖\\𝐖[0𝐖+1𝐖+2q𝐖+3q^2𝐖𝐖+\cdots𝐖]𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{(1𝐖-q)^2𝐖}𝐖\\𝐖\sum𝐖_{x𝐖=1}^\infty𝐖𝐖xq^{x𝐖-1}𝐖𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{(1𝐖-q)^2𝐖}𝐖.
-E(X)𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=1}^\infty𝐖𝐖x𝐖\cdot𝐖q^{x𝐖-1}𝐖𝐖\cdot𝐖p𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=p\sum𝐖_{x𝐖=1}^\infty𝐖𝐖x𝐖\cdot𝐖q^{x𝐖-1}𝐖𝐖.
-E(X)𝐖=p𝐖\cdot𝐖\frac{1}{(1𝐖-q)^2𝐖}𝐖=\frac{1}{p}𝐖.
-V(X)𝐖=\frac{1𝐖-p}{p^2𝐖}
+q,
+-1 \lt q \lt 1
+\frac{d}{dq}[\sum_{x =0}^\infty q^x] & \lt mi/> =\frac{d}{dq}[\frac{1}{1 -q}] \\ \frac{d}{dq}[1 +q +q^2 +q^3 +\cdots] & \lt mi/> =\frac{d}{dq}[\frac{1}{1 -q}] \\ [0 +1 +2q +3q^2 +\cdots] & \lt mi/> =\frac{1}{(1 -q)^2} \\ \sum_{x =1}^\infty xq^{x -1} & \lt mi/> =\frac{1}{(1 -q)^2} .
+E(X) & \lt mi/> =\sum_{x =1}^\infty x \cdot q^{x -1} \cdot p \\ \~ & \lt mi/> =p\sum_{x =1}^\infty x \cdot q^{x -1} .
+E(X) =p \cdot \frac{1}{(1 -q)^2} =\frac{1}{p} .
+V(X) =\frac{1 -p}{p^2}
 X
 X
-\mathtt𝐖g𝐖\mathtt𝐖e𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(p𝐖=.01)
-P(X𝐖>600)𝐖=q^{600}𝐖𝐖\approx𝐖.0024𝐖.
-E(X)𝐖=1/p𝐖=100,𝐖
-p,𝐖
+\mathtt g \mathtt e \mathtt o \mathtt m (p =.01)
+P(X >600) =q^{600} \approx .0024 .
+E(X) =1/p =100,
+p,
 r
-r𝐖\ge𝐖1
-r𝐖=3,𝐖
-X𝐖=7
+r \ge 1
+r =3,
+X =7
 S
 F
-FFFSFSSFSFFS\ldots𝐖
+FFFSFSSFSFFS\ldots
 S
 X
 r
 X
 r
 p
-\mathtt𝐖n𝐖\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(r,𝐖p)
+\mathtt n \mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (r, p)
 X
-\{r,𝐖r𝐖+1,𝐖r𝐖+2,𝐖\ldots𝐖\}
+\{r, r +1, r +2, \ldots \}
 x
 X
 X
-p(x)𝐖=\binom{r𝐖-1}{x𝐖-1}p^r𝐖(1𝐖-p)^{x𝐖-r}𝐖𝐖.
-r𝐖=1
+p(x) =\binom{r -1}{x -1}p^r (1 -p)^{x -r} .
+r =1
 X
-\mathtt𝐖n𝐖\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(r,𝐖p)
-0𝐖\lt𝐖p𝐖\le𝐖1
-E(X)𝐖=\frac{r}{p}\~and\~V(X)𝐖=\frac{r(1𝐖-p)}{p^2𝐖}𝐖.
-p𝐖=5/36
+\mathtt n \mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (r, p)
+0 \lt p \le 1
+E(X) =\frac{r}{p}\~and\~V(X) =\frac{r(1 -p)}{p^2} .
+p =5/36
 X
-\mathtt𝐖n𝐖\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(r𝐖=4,𝐖p𝐖=5/36),𝐖
-E(X)𝐖=\frac{4}{5/36}𝐖=28.8.
-V(X)𝐖=\frac{4𝐖\cdot𝐖(31/36)}{(5/36)^2𝐖}𝐖\approx𝐖178.6,𝐖
-\sigma𝐖𝐖=\sqrt{V(X)}𝐖\approx𝐖13.36
+\mathtt n \mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (r =4, p =5/36),
+E(X) =\frac{4}{5/36} =28.8.
+V(X) =\frac{4 \cdot (31/36)}{(5/36)^2} \approx 178.6,
+\sigma =\sqrt{V(X)} \approx 13.36
 N
 m
 n
-m𝐖+n𝐖=N
+m +n =N
 N
 m
 n
@@ -780,335 +780,335 @@ k
 X
 k
 X
-m,𝐖n,𝐖
+m, n,
 k
-\mathtt𝐖h𝐖\mathtt𝐖y𝐖\mathtt𝐖p𝐖\mathtt𝐖e𝐖\mathtt𝐖r𝐖(m,𝐖n,𝐖k)
+\mathtt h \mathtt y \mathtt p \mathtt e \mathtt r (m, n, k)
 X
-x𝐖=0,𝐖1,𝐖\ldots𝐖,𝐖k
-m𝐖\ge𝐖k,𝐖
-0,𝐖1,𝐖\ldots𝐖,𝐖m
-m𝐖\lt𝐖k
+x =0, 1, \ldots, k
+m \ge k,
+0, 1, \ldots, m
+m \lt k
 x
-X,𝐖
-p(x)𝐖=\frac{\binom{m}{x}\binom{n}{k𝐖-x}}{\binom{N}{k}},𝐖
-N𝐖=m𝐖+n
+X,
+p(x) =\frac{\binom{m}{x}\binom{n}{k -x}}{\binom{N}{k}},
+N =m +n
 X
-\mathtt𝐖h𝐖\mathtt𝐖y𝐖\mathtt𝐖p𝐖\mathtt𝐖e𝐖\mathtt𝐖r𝐖(m,𝐖n,𝐖k)
-E(X)𝐖=k𝐖\cdot𝐖\frac{m}{N}\~and\~V(X)𝐖=k(\frac{m}{N})(\frac{n}{N})(\frac{N𝐖-k}{N𝐖-1}),𝐖
-N𝐖=m𝐖+n
-X
-X
-\mathtt𝐖h𝐖\mathtt𝐖y𝐖\mathtt𝐖p𝐖\mathtt𝐖e𝐖\mathtt𝐖r𝐖(30,𝐖90,𝐖10),𝐖
-P(X𝐖>5)𝐖=\sum𝐖_{x𝐖=6}^{10}𝐖\frac{\binom{30}{x}\binom{90}{10𝐖-x}}{\binom{120}{10}}𝐖\approx𝐖.0153𝐖.
-E(X)𝐖=10𝐖\cdot𝐖\frac{30}{120}𝐖=2.5.
+\mathtt h \mathtt y \mathtt p \mathtt e \mathtt r (m, n, k)
+E(X) =k \cdot \frac{m}{N}\~and\~V(X) =k(\frac{m}{N})(\frac{n}{N})(\frac{N -k}{N -1}),
+N =m +n
 X
 X
-\lambda𝐖,𝐖
+\mathtt h \mathtt y \mathtt p \mathtt e \mathtt r (30, 90, 10),
+P(X >5) =\sum_{x =6}^{10} \frac{\binom{30}{x}\binom{90}{10 -x}}{\binom{120}{10}} \approx .0153 .
+E(X) =10 \cdot \frac{30}{120} =2.5.
 X
-\lambda𝐖𝐖>0,𝐖
-\mathtt𝐖P𝐖\mathtt𝐖o𝐖\mathtt𝐖i𝐖\mathtt𝐖s𝐖\mathtt𝐖s𝐖\mathtt𝐖o𝐖\mathtt𝐖n𝐖(\lambda𝐖)
-p(x)𝐖=\frac{\lambda𝐖^x𝐖e^{𝐖-\lambda𝐖}𝐖}{x!}\~for\~x𝐖=0,𝐖1,𝐖2,𝐖\ldots𝐖𝐖.
+X
+\lambda,
+X
+\lambda >0,
+\mathtt P \mathtt o \mathtt i \mathtt s \mathtt s \mathtt o \mathtt n (\lambda)
+p(x) =\frac{\lambda^x e^{ -\lambda}}{x!}\~for\~x =0, 1, 2, \ldots .
 E(X)
 V(X)
-\lambda𝐖𝐖>0,𝐖
+\lambda >0,
 p(x)
-e^\lambda𝐖𝐖
-\lambda𝐖
-e^\lambda𝐖𝐖𝐖=\sum𝐖_{k𝐖=0}^\infty𝐖𝐖\frac{\lambda𝐖^k𝐖}{k!},𝐖
-\sum𝐖_{x𝐖=0}^\infty𝐖𝐖\frac{\lambda𝐖^x𝐖e^{𝐖-\lambda𝐖}𝐖}{x!}𝐖&𝐖\lt𝐖mi/>𝐖=e^{𝐖-\lambda𝐖}𝐖\sum𝐖_{x𝐖=0}^\infty𝐖𝐖\frac{\lambda𝐖^x𝐖}{x!}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=e^{𝐖-\lambda𝐖}𝐖𝐖\cdot𝐖e^\lambda𝐖𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=1.
+e^\lambda
+\lambda
+e^\lambda =\sum_{k =0}^\infty \frac{\lambda^k}{k!},
+\sum_{x =0}^\infty \frac{\lambda^x e^{ -\lambda}}{x!} & \lt mi/> =e^{ -\lambda} \sum_{x =0}^\infty \frac{\lambda^x}{x!} \\ \~ & \lt mi/> =e^{ -\lambda} \cdot e^\lambda \\ \~ & \lt mi/> =1.
 X
-\mathtt𝐖P𝐖\mathtt𝐖o𝐖\mathtt𝐖i𝐖\mathtt𝐖s𝐖\mathtt𝐖s𝐖\mathtt𝐖o𝐖\mathtt𝐖n𝐖(\lambda𝐖),𝐖
-E(X)𝐖=\lambda𝐖
-V(X)𝐖=\lambda𝐖
-E(X)𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=0}^\infty𝐖𝐖x𝐖\cdot𝐖p(x)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=1}^\infty𝐖𝐖x𝐖\cdot𝐖\frac{\lambda𝐖^x𝐖e^{𝐖-\lambda𝐖}𝐖}{x!}𝐖&𝐖since\~x𝐖=1\~term\space𝐖is\~0𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=e^{𝐖-\lambda𝐖}𝐖\sum𝐖_{x𝐖=1}^\infty𝐖𝐖\frac{\lambda𝐖^x𝐖}{(x𝐖-1)!}𝐖&𝐖since\~\frac{x}{x!}𝐖=\frac{1}{(x𝐖-1)!}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lambda𝐖e^{𝐖-\lambda𝐖}𝐖\sum𝐖_{x𝐖=1}^\infty𝐖𝐖\frac{\lambda𝐖^{x𝐖-1}𝐖}{(x𝐖-1)!}𝐖&𝐖pulling\space𝐖out\space𝐖one\~\lambda𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lambda𝐖e^{𝐖-\lambda𝐖}𝐖\sum𝐖_{k𝐖=0}^\infty𝐖𝐖\frac{\lambda𝐖^k𝐖}{(k)!}𝐖&𝐖letting\~k𝐖=x𝐖-1𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lambda𝐖e^{𝐖-\lambda𝐖}𝐖𝐖\cdot𝐖e^\lambda𝐖𝐖𝐖&𝐖power\space𝐖series\space𝐖for\~e^\lambda𝐖𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lambda𝐖𝐖.
-\mu𝐖𝐖=\lambda𝐖
-V(X),𝐖
-E(X(X𝐖-1))
+\mathtt P \mathtt o \mathtt i \mathtt s \mathtt s \mathtt o \mathtt n (\lambda),
+E(X) =\lambda
+V(X) =\lambda
+E(X) & \lt mi/> =\sum_{x =0}^\infty x \cdot p(x) \\ \~ & \lt mi/> =\sum_{x =1}^\infty x \cdot \frac{\lambda^x e^{ -\lambda}}{x!} & since\~x =1\~term\space is\~0 \\ \~ & \lt mi/> =e^{ -\lambda} \sum_{x =1}^\infty \frac{\lambda^x}{(x -1)!} & since\~\frac{x}{x!} =\frac{1}{(x -1)!} \\ \~ & \lt mi/> =\lambda e^{ -\lambda} \sum_{x =1}^\infty \frac{\lambda^{x -1}}{(x -1)!} & pulling\space out\space one\~\lambda \\ \~ & \lt mi/> =\lambda e^{ -\lambda} \sum_{k =0}^\infty \frac{\lambda^k}{(k)!} & letting\~k =x -1 \\ \~ & \lt mi/> =\lambda e^{ -\lambda} \cdot e^\lambda & power\space series\space for\~e^\lambda \\ \~ & \lt mi/> =\lambda .
+\mu =\lambda
+V(X),
+E(X(X -1))
 E(X)
-E(X(X𝐖-1))𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=0}^\infty𝐖𝐖x(x𝐖-1)𝐖\cdot𝐖\frac{\lambda𝐖^x𝐖e^{𝐖-\lambda𝐖}𝐖}{x!}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=e^{𝐖-\lambda𝐖}𝐖\sum𝐖_{x𝐖=2}^\infty𝐖𝐖\frac{x(x𝐖-1)}{x!}𝐖\cdot𝐖\lambda𝐖^x𝐖𝐖&𝐖since\~x𝐖=0,𝐖1\~terms\space𝐖are\~0.𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=e^{𝐖-\lambda𝐖}𝐖\sum𝐖_{x𝐖=2}^\infty𝐖𝐖\frac{1}{(x𝐖-2)!}𝐖\cdot𝐖\lambda𝐖^x𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lambda𝐖^2𝐖e^{𝐖-\lambda𝐖}𝐖\sum𝐖_{x𝐖=2}^\infty𝐖𝐖\frac{1}{(x𝐖-2)!}𝐖\cdot𝐖\lambda𝐖^{x𝐖-2}𝐖𝐖&𝐖pulling\space𝐖out\~\lambda𝐖^2𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lambda𝐖^2𝐖e^{𝐖-\lambda𝐖}𝐖\sum𝐖_{k𝐖=0}^\infty𝐖𝐖\frac{1}{(k)!}𝐖\cdot𝐖\lambda𝐖^k𝐖𝐖&𝐖letting\~k𝐖=x𝐖-2𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lambda𝐖^2𝐖e^{𝐖-\lambda𝐖}𝐖𝐖\cdot𝐖e^\lambda𝐖𝐖𝐖&𝐖power\space𝐖series\space𝐖for\~e^\lambda𝐖𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lambda𝐖^2𝐖𝐖.
+E(X(X -1)) & \lt mi/> =\sum_{x =0}^\infty x(x -1) \cdot \frac{\lambda^x e^{ -\lambda}}{x!} \\ \~ & \lt mi/> =e^{ -\lambda} \sum_{x =2}^\infty \frac{x(x -1)}{x!} \cdot \lambda^x & since\~x =0, 1\~terms\space are\~0. \\ \~ & \lt mi/> =e^{ -\lambda} \sum_{x =2}^\infty \frac{1}{(x -2)!} \cdot \lambda^x \\ \~ & \lt mi/> =\lambda^2 e^{ -\lambda} \sum_{x =2}^\infty \frac{1}{(x -2)!} \cdot \lambda^{x -2} & pulling\space out\~\lambda^2 \\ \~ & \lt mi/> =\lambda^2 e^{ -\lambda} \sum_{k =0}^\infty \frac{1}{(k)!} \cdot \lambda^k & letting\~k =x -2 \\ \~ & \lt mi/> =\lambda^2 e^{ -\lambda} \cdot e^\lambda & power\space series\space for\~e^\lambda \\ \~ & \lt mi/> =\lambda^2 .
 V(X)
-V(X)𝐖&𝐖\lt𝐖mi/>𝐖=E(X^2𝐖)𝐖-\mu𝐖^2𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=[E(X(X𝐖-1))𝐖+E(X)]𝐖-\mu𝐖^2𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=[\lambda𝐖^2𝐖𝐖+\lambda𝐖]𝐖-\lambda𝐖^2𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lambda𝐖𝐖.
+V(X) & \lt mi/> =E(X^2) -\mu^2 \\ \~ & \lt mi/> =[E(X(X -1)) +E(X)] -\mu^2 \\ \~ & \lt mi/> =[\lambda^2 +\lambda] -\lambda^2 \\ \~ & \lt mi/> =\lambda .
 X
 X
-\lambda𝐖𝐖=2
-P(X𝐖\le𝐖1)𝐖&𝐖\lt𝐖mi/>𝐖=P(X𝐖=0)𝐖+P(X𝐖=1)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{2^0𝐖e^{𝐖-2}𝐖}{0!}𝐖+\frac{2^1𝐖e^{𝐖-2}𝐖}{1!}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=e^{𝐖-2}𝐖𝐖+2e^{𝐖-2}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=3e^{𝐖-2}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\approx𝐖0.406.
-P(X𝐖>5)𝐖&𝐖\lt𝐖mi/>𝐖=1𝐖-P(X𝐖\le𝐖5)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=1𝐖-[\frac{2^0𝐖e^{𝐖-2}𝐖}{0!}𝐖+\frac{2^1𝐖e^{𝐖-2}𝐖}{1!}𝐖+\cdots𝐖𝐖+\frac{2^5𝐖e^{𝐖-2}𝐖}{5!}]
-P(X𝐖\le𝐖k)
+\lambda =2
+P(X \le 1) & \lt mi/> =P(X =0) +P(X =1) \\ \~ & \lt mi/> =\frac{2^0 e^{ -2}}{0!} +\frac{2^1 e^{ -2}}{1!} \\ \~ & \lt mi/> =e^{ -2} +2e^{ -2} \\ \~ & \lt mi/> =3e^{ -2} \\ \~ & \lt mi/> \approx 0.406.
+P(X >5) & \lt mi/> =1 -P(X \le 5) \\ \~ & \lt mi/> =1 -[\frac{2^0 e^{ -2}}{0!} +\frac{2^1 e^{ -2}}{1!} +\cdots +\frac{2^5 e^{ -2}}{5!}]
+P(X \le k)
 X
-\mathtt𝐖P𝐖\mathtt𝐖o𝐖\mathtt𝐖i𝐖\mathtt𝐖s𝐖\mathtt𝐖s𝐖\mathtt𝐖o𝐖\mathtt𝐖n𝐖(\lambda𝐖)
-P(X𝐖>5)𝐖=1𝐖-P(X𝐖\le𝐖5)
-\approx𝐖
-P(X𝐖\ge𝐖20),𝐖
-P(X𝐖\ge𝐖20)𝐖&𝐖\lt𝐖mi/>𝐖=1𝐖-P(X𝐖\le𝐖19)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=1𝐖-\mathtt𝐖p𝐖\mathtt𝐖p𝐖\mathtt𝐖o𝐖\mathtt𝐖i𝐖\mathtt𝐖s𝐖(19,𝐖8)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\approx𝐖.00025𝐖.
+\mathtt P \mathtt o \mathtt i \mathtt s \mathtt s \mathtt o \mathtt n (\lambda)
+P(X >5) =1 -P(X \le 5)
+\approx
+P(X \ge 20),
+P(X \ge 20) & \lt mi/> =1 -P(X \le 19) \\ \~ & \lt mi/> =1 -\mathtt p \mathtt p \mathtt o \mathtt i \mathtt s (19, 8) \\ \~ & \lt mi/> \approx .00025 .
 n
 p
-1𝐖-p
+1 -p
 X
 X
 n
 p
-n,𝐖
+n,
 p
-n𝐖\cdot𝐖p
-\lambda𝐖𝐖=np
-textttbinom(n,𝐖p)
-\lim𝐖_{n𝐖\to𝐖\infty𝐖}𝐖\binom{n}{x}p^x𝐖(1𝐖-p)^{n𝐖-x}𝐖𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{n𝐖\to𝐖\infty𝐖}𝐖\frac{n𝐖\cdot𝐖(n𝐖-1)𝐖\cdot𝐖\cdots𝐖𝐖\cdot𝐖(n𝐖-x𝐖+1)}{x!}(\frac{\lambda𝐖}{n})^x𝐖(1𝐖-\frac{\lambda𝐖}{n})^{n𝐖-x}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{n𝐖\to𝐖\infty𝐖}𝐖\frac{\lambda𝐖^x𝐖}{x!}𝐖\cdot𝐖\frac{n𝐖\cdot𝐖(n𝐖-1)𝐖\cdot𝐖\cdots𝐖𝐖\cdot𝐖(n𝐖-x𝐖+1)}{n^x𝐖}𝐖\cdot𝐖(1𝐖-\frac{\lambda𝐖}{n})^n𝐖(1𝐖-\frac{\lambda𝐖}{n})^{𝐖-x}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{\lambda𝐖^x𝐖}{x!}\lim𝐖_{n𝐖\to𝐖\infty𝐖}𝐖(1𝐖-\frac{\lambda𝐖}{n})^n𝐖(1𝐖-\frac{\lambda𝐖}{n})^{𝐖-x}𝐖𝐖\cdot𝐖\frac{n}{n}𝐖\cdot𝐖\frac{n𝐖-1}{n}𝐖\cdot𝐖\frac{n𝐖-2}{n}𝐖\cdot𝐖\cdots𝐖𝐖\cdot𝐖\frac{n𝐖-x𝐖+1}{n}𝐖.
-(1𝐖-\lambda𝐖/n)^n𝐖𝐖\to𝐖e^{𝐖-\lambda𝐖}𝐖
-n𝐖\to𝐖\infty𝐖
-\lim𝐖_{n𝐖\to𝐖\infty𝐖}𝐖(1𝐖+\frac{x}{n})^n𝐖𝐖=e^x𝐖
+n \cdot p
+\lambda =np
+textttbinom(n, p)
+\lim_{n \to \infty} \binom{n}{x}p^x (1 -p)^{n -x} & \lt mi/> =\lim_{n \to \infty} \frac{n \cdot (n -1) \cdot \cdots \cdot (n -x +1)}{x!}(\frac{\lambda}{n})^x (1 -\frac{\lambda}{n})^{n -x} \\ \~ & \lt mi/> =\lim_{n \to \infty} \frac{\lambda^x}{x!} \cdot \frac{n \cdot (n -1) \cdot \cdots \cdot (n -x +1)}{n^x} \cdot (1 -\frac{\lambda}{n})^n (1 -\frac{\lambda}{n})^{ -x} \\ \~ & \lt mi/> =\frac{\lambda^x}{x!}\lim_{n \to \infty} (1 -\frac{\lambda}{n})^n (1 -\frac{\lambda}{n})^{ -x} \cdot \frac{n}{n} \cdot \frac{n -1}{n} \cdot \frac{n -2}{n} \cdot \cdots \cdot \frac{n -x +1}{n} .
+(1 -\lambda /n)^n \to e^{ -\lambda}
+n \to \infty
+\lim_{n \to \infty} (1 +\frac{x}{n})^n =e^x
 x
-(1𝐖-\lambda𝐖/n)^{𝐖-x}𝐖𝐖\to𝐖1^{𝐖-x}𝐖𝐖=1
-\lambda𝐖/n𝐖\to𝐖0
-n𝐖\to𝐖\infty𝐖
-k𝐖\ge𝐖0,𝐖
-\lim𝐖_{n𝐖\to𝐖\infty𝐖}𝐖\frac{n𝐖-k}{n}𝐖=1
+(1 -\lambda /n)^{ -x} \to 1^{ -x} =1
+\lambda /n \to 0
+n \to \infty
+k \ge 0,
+\lim_{n \to \infty} \frac{n -k}{n} =1
 np
-n𝐖\to𝐖\infty𝐖,𝐖
-n𝐖\to𝐖\infty𝐖
-textttbinom(n,𝐖p)
-\mathtt𝐖P𝐖\mathtt𝐖o𝐖\mathtt𝐖i𝐖\mathtt𝐖s𝐖\mathtt𝐖s𝐖\mathtt𝐖o𝐖\mathtt𝐖n𝐖(\lambda𝐖)
-\lambda𝐖𝐖=np
+n \to \infty,
+n \to \infty
+textttbinom(n, p)
+\mathtt P \mathtt o \mathtt i \mathtt s \mathtt s \mathtt o \mathtt n (\lambda)
+\lambda =np
 np
 X
 n
-p,𝐖
+p,
 p
 n
 p
 np
-n,𝐖
-\lambda𝐖𝐖=np,𝐖
-\mathtt𝐖P𝐖\mathtt𝐖o𝐖\mathtt𝐖i𝐖\mathtt𝐖s𝐖\mathtt𝐖s𝐖\mathtt𝐖o𝐖\mathtt𝐖n𝐖(\lambda𝐖)𝐖\sim𝐖\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(n,𝐖p)
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(10,𝐖.4),𝐖
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(40,𝐖.1),𝐖
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(400,𝐖.01)
-\mathtt𝐖P𝐖\mathtt𝐖o𝐖\mathtt𝐖i𝐖\mathtt𝐖s𝐖\mathtt𝐖s𝐖\mathtt𝐖o𝐖\mathtt𝐖n𝐖(4)
+n,
+\lambda =np,
+\mathtt P \mathtt o \mathtt i \mathtt s \mathtt s \mathtt o \mathtt n (\lambda) \sim \mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (n, p)
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (10, .4),
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (40, .1),
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (400, .01)
+\mathtt P \mathtt o \mathtt i \mathtt s \mathtt s \mathtt o \mathtt n (4)
 X
 X
-\lambda𝐖𝐖=6
-P(X𝐖\ge𝐖10)𝐖=1𝐖-P(X𝐖\le𝐖9)𝐖=
-P(X𝐖\ge𝐖15),𝐖
+\lambda =6
+P(X \ge 10) =1 -P(X \le 9) =
+P(X \ge 15),
 X
-\mathtt𝐖P𝐖\mathtt𝐖o𝐖\mathtt𝐖i𝐖\mathtt𝐖s𝐖\mathtt𝐖s𝐖\mathtt𝐖o𝐖\mathtt𝐖n𝐖(9)
+\mathtt P \mathtt o \mathtt i \mathtt s \mathtt s \mathtt o \mathtt n (9)
 X
-\lambda𝐖𝐖=100,𝐖
-\mu𝐖𝐖=100
-\sigma𝐖𝐖=\sqrt{100}𝐖=10.
+\lambda =100,
+\mu =100
+\sigma =\sqrt{100} =10.
 k
-1𝐖-1/k^2𝐖𝐖=5/9
-P(|𝐖X𝐖-\mu𝐖|𝐖\lt𝐖k\sigma𝐖)𝐖\ge𝐖5/9,𝐖
-(\mu𝐖𝐖-k\sigma𝐖,𝐖\mu𝐖𝐖+k\sigma𝐖)
-1𝐖-\frac{1}{k^2𝐖}𝐖=\frac{5}{9}
-k𝐖>0
-k𝐖=\frac{3}{2},𝐖
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+1 -1/k^2 =5/9
+P(| X -\mu | \lt k\sigma) \ge 5/9,
+(\mu -k\sigma, \mu +k\sigma)
+1 -\frac{1}{k^2} =\frac{5}{9}
+k >0
+k =\frac{3}{2},
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
 X
 X
-\pi𝐖
+\pi
 F(X)
 S
 B
-A,𝐖
+A,
 B
 P(A|B)
 X
 A
 B
-P(A)𝐖=1/6
+P(A) =1/6
 B
 A
 B
-P(A|B)𝐖=1/3.
-A,𝐖
+P(A|B) =1/3.
+A,
 B
-P(A|B),𝐖
-(5.1)𝐖&𝐖P(A|B)𝐖=\frac{P(A𝐖\cap𝐖B)}{P(B)},𝐖
-P(B)𝐖>0
+P(A|B),
+(5.1) & P(A|B) =\frac{P(A \cap B)}{P(B)},
+P(B) >0
 A
 B
 P(A|B)
 A
 B
-A𝐖\cap𝐖B
-A,𝐖
-P(A|B)𝐖&𝐖\lt𝐖mi/>𝐖=\frac{P(A𝐖\cap𝐖B)}{P(B)}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{P(A)}{P(B)}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{.31}{.71}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\approx𝐖.437𝐖.
-P(A𝐖\cap𝐖B)𝐖=P(B)𝐖\cdot𝐖P(A|B),𝐖\~provided\~P(B)𝐖>0,𝐖
-P(A𝐖\cap𝐖B)𝐖=P(A)𝐖\cdot𝐖P(B|A),𝐖\~provided\~P(A)𝐖>0.
-P(A|B)𝐖&𝐖\lt𝐖mi/>𝐖=P(A)𝐖\\𝐖P(B|A)𝐖&𝐖\lt𝐖mi/>𝐖=P(B)𝐖\\𝐖P(A𝐖\cap𝐖B)𝐖&𝐖\lt𝐖mi/>𝐖=P(A)𝐖\cdot𝐖P(B)
-S𝐖=\{1,𝐖2,𝐖3,𝐖4,𝐖5,𝐖6\}
-A𝐖&𝐖\lt𝐖mi/>𝐖=\{1,𝐖3,𝐖5\}𝐖\\𝐖B𝐖&𝐖\lt𝐖mi/>𝐖=\{1\}𝐖\\𝐖C𝐖&𝐖\lt𝐖mi/>𝐖=\{2\}𝐖\\𝐖D𝐖&𝐖\lt𝐖mi/>𝐖=\{1,𝐖2\}
-P(A)𝐖=1/2,𝐖P(B)𝐖=1/6,𝐖P(C)𝐖=1/6,𝐖
-P(D)𝐖=1/3.
+A \cap B
+A,
+P(A|B) & \lt mi/> =\frac{P(A \cap B)}{P(B)} \\ \~ & \lt mi/> =\frac{P(A)}{P(B)} \\ \~ & \lt mi/> =\frac{.31}{.71} \\ \~ & \lt mi/> \approx .437 .
+P(A \cap B) =P(B) \cdot P(A|B), \~provided\~P(B) >0,
+P(A \cap B) =P(A) \cdot P(B|A), \~provided\~P(A) >0.
+P(A|B) & \lt mi/> =P(A) \\ P(B|A) & \lt mi/> =P(B) \\ P(A \cap B) & \lt mi/> =P(A) \cdot P(B)
+S =\{1, 2, 3, 4, 5, 6\}
+A & \lt mi/> =\{1, 3, 5\} \\ B & \lt mi/> =\{1\} \\ C & \lt mi/> =\{2\} \\ D & \lt mi/> =\{1, 2\}
+P(A) =1/2, P(B) =1/6, P(C) =1/6,
+P(D) =1/3.
 A
 D
-A𝐖\cap𝐖D𝐖=\{1\},𝐖
-P(A|D)𝐖=\frac{P(A𝐖\cap𝐖D)}{P(D)}𝐖=\frac{1/6}{1/3}𝐖=1/2𝐖=P(A)𝐖.
+A \cap D =\{1\},
+P(A|D) =\frac{P(A \cap D)}{P(D)} =\frac{1/6}{1/3} =1/2 =P(A) .
 B
 C
-B𝐖\cap𝐖C𝐖=\varnothing𝐖,𝐖
-P(B|C)𝐖=\frac{P(B𝐖\cap𝐖C)}{P(C)}𝐖=\frac{0}{1/6}𝐖=0𝐖\not=𝐖P(B)𝐖.
+B \cap C =\varnothing,
+P(B|C) =\frac{P(B \cap C)}{P(C)} =\frac{0}{1/6} =0 \not= P(B) .
 A
 D
 B
 C
-S𝐖=\{all\space𝐖plumbing\space𝐖jobs\space𝐖in\space𝐖the\space𝐖town\space𝐖over\space𝐖the\space𝐖last\space𝐖5\space𝐖years\}𝐖.
-A𝐖=\{jobs\space𝐖handled\space𝐖by\space𝐖Frances\}𝐖.
-B𝐖=\{jobs\space𝐖in\space𝐖which\space𝐖the\space𝐖customer\space𝐖is\space𝐖unhappy\}𝐖.
-P(B|A)𝐖.
-𝐖\Rightarrow𝐖P(B)𝐖=0.1
-𝐖\Rightarrow𝐖P(A)𝐖=0.4
-𝐖\Rightarrow𝐖P(A|B)𝐖=0.25
-P(B|A)𝐖&𝐖\lt𝐖mi/>𝐖=\frac{P(A𝐖\cap𝐖B)}{P(A)}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{P(A|B)𝐖\cdot𝐖P(B)}{P(A)}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{(0.25)(0.1)}{(0.4)}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=0.0625.
-A𝐖=\{first\space𝐖die\space𝐖is\space𝐖less\space𝐖than\space𝐖3\}
-B𝐖=\{second\space𝐖die\space𝐖is\space𝐖less\space𝐖than\space𝐖3\}𝐖.
-P(A)𝐖=P(B)𝐖=2/6𝐖=1/3.
-P(A𝐖\cap𝐖B)𝐖.
+S =\{all\space plumbing\space jobs\space in\space the\space town\space over\space the\space last\space 5\space years\} .
+A =\{jobs\space handled\space by\space Frances\} .
+B =\{jobs\space in\space which\space the\space customer\space is\space unhappy\} .
+P(B|A) .
+\Rightarrow P(B) =0.1
+\Rightarrow P(A) =0.4
+\Rightarrow P(A|B) =0.25
+P(B|A) & \lt mi/> =\frac{P(A \cap B)}{P(A)} \\ \~ & \lt mi/> =\frac{P(A|B) \cdot P(B)}{P(A)} \\ \~ & \lt mi/> =\frac{(0.25)(0.1)}{(0.4)} \\ \~ & \lt mi/> =0.0625.
+A =\{first\space die\space is\space less\space than\space 3\}
+B =\{second\space die\space is\space less\space than\space 3\} .
+P(A) =P(B) =2/6 =1/3.
+P(A \cap B) .
 A
 B
-P(A𝐖\cap𝐖B)𝐖=P(A)𝐖\cdot𝐖P(B)𝐖=(1/3)𝐖\cdot𝐖(1/3)𝐖=1/9.
+P(A \cap B) =P(A) \cdot P(B) =(1/3) \cdot (1/3) =1/9.
 S
 S
-(i,𝐖j)
-i,𝐖j𝐖\in𝐖\mathbb𝐖N𝐖
-1𝐖\le𝐖i,𝐖j𝐖\le𝐖6,𝐖
-|𝐖S|𝐖=6^2𝐖
-E,𝐖
-(i,𝐖j)
+(i, j)
+i, j \in \mathbb N
+1 \le i, j \le 6,
+| S| =6^2
+E,
+(i, j)
 S
-i,𝐖j𝐖\le𝐖2
-|𝐖E|𝐖=2^2𝐖,𝐖
-P(E)𝐖=4/36𝐖=1/9
-\frac{2}{6}𝐖\cdot𝐖\frac{2}{6},𝐖,𝐖
-\frac{2𝐖\cdot𝐖2}{6𝐖\cdot𝐖6}
-P(first\space𝐖4\space𝐖on\space𝐖roll\space𝐖8)𝐖=(\frac{5}{6})^7𝐖𝐖\cdot𝐖(\frac{1}{6})𝐖.
+i, j \le 2
+| E| =2^2,
+P(E) =4/36 =1/9
+\frac{2}{6} \cdot \frac{2}{6},,
+\frac{2 \cdot 2}{6 \cdot 6}
+P(first\space 4\space on\space roll\space 8) =(\frac{5}{6})^7 \cdot (\frac{1}{6}) .
 n
-n𝐖\in𝐖\mathbb𝐖N𝐖
-P(first\space𝐖4\space𝐖on\space𝐖roll\~n)𝐖=(\frac{5}{6})^{n𝐖-1}𝐖𝐖\cdot𝐖(\frac{1}{6})𝐖.
+n \in \mathbb N
+P(first\space 4\space on\space roll\~n) =(\frac{5}{6})^{n -1} \cdot (\frac{1}{6}) .
 A
 B
-P(A𝐖\cap𝐖B)𝐖&𝐖\lt𝐖mi/>𝐖=P(A)𝐖\cdot𝐖P(B|A)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(B)𝐖\cdot𝐖(A|B)
-P(A𝐖\cup𝐖B)𝐖=P(A)𝐖+P(B)𝐖-P(A𝐖\cap𝐖B)𝐖.
+P(A \cap B) & \lt mi/> =P(A) \cdot P(B|A) \\ \~ & \lt mi/> =P(B) \cdot (A|B)
+P(A \cup B) =P(A) +P(B) -P(A \cap B) .
 A
-B,𝐖
-|𝐖A𝐖\cup𝐖B|𝐖=|𝐖A|𝐖+|𝐖B|𝐖-|𝐖A𝐖\cap𝐖B|,𝐖
+B,
+| A \cup B| =| A| +| B| -| A \cap B|,
 A
-B,𝐖
-A𝐖\cup𝐖B
-A𝐖\cup𝐖B𝐖=A𝐖\cup𝐖(\overline{A}𝐖\cap𝐖B)𝐖.
-P(A𝐖\cup𝐖B)𝐖=P(A)𝐖+P(\overline{A}𝐖\cap𝐖B)𝐖.
+B,
+A \cup B
+A \cup B =A \cup (\overline{A} \cap B) .
+P(A \cup B) =P(A) +P(\overline{A} \cap B) .
 B
-B𝐖=(\overline{A}𝐖\cap𝐖B)𝐖\cup𝐖(A𝐖\cap𝐖B)𝐖.
-P(B)𝐖=P(\overline{A}𝐖\cap𝐖B)𝐖+P(A𝐖\cap𝐖B)𝐖.
-P(A𝐖\cup𝐖B)𝐖=P(A)𝐖+[P(B)𝐖-P(A𝐖\cap𝐖B)]𝐖.
-A_1𝐖,𝐖A_2𝐖,𝐖A_3𝐖
-P(A_1𝐖𝐖\cap𝐖A_2𝐖𝐖\cap𝐖A_3𝐖)𝐖&𝐖\lt𝐖mi/>𝐖=P((A_1𝐖𝐖\cap𝐖A_2𝐖)𝐖\cap𝐖A_3𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(A_1𝐖𝐖\cap𝐖A_2𝐖)𝐖\cdot𝐖P(A_3𝐖|A_1𝐖𝐖\cap𝐖A_2𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(A_1𝐖)𝐖\cdot𝐖P(A_2𝐖|A_1𝐖)𝐖\cdot𝐖P(A_3𝐖|A_1𝐖𝐖\cap𝐖A_2𝐖)𝐖.
-(5.2)𝐖&𝐖P(A_1𝐖𝐖\cap𝐖\cdots𝐖𝐖\cap𝐖A_k𝐖)𝐖=P(A_1𝐖)𝐖\cdot𝐖P(A_2𝐖|A_1𝐖)𝐖\cap𝐖\cdots𝐖𝐖\cap𝐖P(A_k𝐖|(A_1𝐖𝐖\cap𝐖\cdots𝐖𝐖\cap𝐖A_{k𝐖-1}𝐖))
-A_i𝐖
+B =(\overline{A} \cap B) \cup (A \cap B) .
+P(B) =P(\overline{A} \cap B) +P(A \cap B) .
+P(A \cup B) =P(A) +[P(B) -P(A \cap B)] .
+A_1, A_2, A_3
+P(A_1 \cap A_2 \cap A_3) & \lt mi/> =P((A_1 \cap A_2) \cap A_3) \\ \~ & \lt mi/> =P(A_1 \cap A_2) \cdot P(A_3 |A_1 \cap A_2) \\ \~ & \lt mi/> =P(A_1) \cdot P(A_2 |A_1) \cdot P(A_3 |A_1 \cap A_2) .
+(5.2) & P(A_1 \cap \cdots \cap A_k) =P(A_1) \cdot P(A_2 |A_1) \cap \cdots \cap P(A_k |(A_1 \cap \cdots \cap A_{k -1}))
+A_i
 i
-i𝐖=1,𝐖2,𝐖3,𝐖4
-P(A_1𝐖𝐖\cap𝐖A_2𝐖𝐖\cap𝐖A_3𝐖𝐖\cap𝐖A_4𝐖),𝐖
-P(A_1𝐖𝐖\cap𝐖A_2𝐖𝐖\cap𝐖A_3𝐖𝐖\cap𝐖A_4𝐖)𝐖&𝐖\lt𝐖mi/>𝐖=P(A_1𝐖)𝐖\cdot𝐖P(A_2𝐖|A_1𝐖)𝐖\cdot𝐖P(A_3𝐖|A_1𝐖𝐖\cap𝐖A_2𝐖)𝐖\cdot𝐖P(A_4𝐖|A_1𝐖𝐖\cap𝐖A_2𝐖𝐖\cap𝐖A_3𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{13}{52}𝐖\cdot𝐖\frac{12}{51}𝐖\cdot𝐖\frac{11}{50}𝐖\cdot𝐖\frac{10}{49}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\approx𝐖0.0026.
-\frac{5}{9}𝐖\cdot𝐖\frac{4}{10}𝐖\cdot𝐖\frac{3}{10}𝐖\cdot𝐖\frac{2}{10}𝐖\approx𝐖0.0133.
-A,𝐖
-P(\overline{A})𝐖=1𝐖-P(A)𝐖.
-P(A𝐖\cup𝐖\overline{A})𝐖=P(A)𝐖+P(\overline{A})𝐖-P(A𝐖\cap𝐖\overline{A})𝐖.
-A𝐖\cup𝐖\overline{A}𝐖=S
-A𝐖\cap𝐖\overline{A}𝐖=\varnothing𝐖,𝐖
-P(A𝐖\cup𝐖\overline{A})𝐖=1
-P(A𝐖\cap𝐖\overline{A})𝐖=0,𝐖
-1𝐖=P(A)𝐖+P(\overline{A}),𝐖
+i =1, 2, 3, 4
+P(A_1 \cap A_2 \cap A_3 \cap A_4),
+P(A_1 \cap A_2 \cap A_3 \cap A_4) & \lt mi/> =P(A_1) \cdot P(A_2 |A_1) \cdot P(A_3 |A_1 \cap A_2) \cdot P(A_4 |A_1 \cap A_2 \cap A_3) \\ \~ & \lt mi/> =\frac{13}{52} \cdot \frac{12}{51} \cdot \frac{11}{50} \cdot \frac{10}{49} \\ \~ & \lt mi/> \approx 0.0026.
+\frac{5}{9} \cdot \frac{4}{10} \cdot \frac{3}{10} \cdot \frac{2}{10} \approx 0.0133.
+A,
+P(\overline{A}) =1 -P(A) .
+P(A \cup \overline{A}) =P(A) +P(\overline{A}) -P(A \cap \overline{A}) .
+A \cup \overline{A} =S
+A \cap \overline{A} =\varnothing,
+P(A \cup \overline{A}) =1
+P(A \cap \overline{A}) =0,
+1 =P(A) +P(\overline{A}),
 A
 B
-P(A𝐖\cup𝐖B)𝐖=P(A)𝐖+P(B)𝐖.
-A𝐖\cap𝐖B𝐖=\varnothing𝐖,𝐖
-P(A𝐖\cap𝐖B)𝐖=0
-A,𝐖B,𝐖C
-P(A𝐖\cup𝐖B𝐖\cup𝐖C)𝐖&𝐖\lt𝐖mi/>𝐖=P(A)𝐖+P(B)𝐖+P(C)𝐖\\𝐖\~𝐖&𝐖𝐖-[P(A𝐖\cap𝐖B)𝐖+P(A𝐖\cap𝐖C)𝐖+P(B𝐖\cap𝐖C)]𝐖\\𝐖\~𝐖&𝐖𝐖+P(A𝐖\cap𝐖B𝐖\cap𝐖C)𝐖.
-P(A𝐖\cap𝐖B𝐖\cap𝐖C)𝐖=P(A)𝐖\cdot𝐖P(B|𝐖A)𝐖\cdot𝐖P(C|A𝐖\cap𝐖B)𝐖.
-P(A𝐖\cup𝐖B𝐖\cup𝐖C)𝐖&𝐖\lt𝐖mi/>𝐖=P(A𝐖\cup𝐖(B𝐖\cup𝐖C))𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(A)𝐖+P(B𝐖\cup𝐖C)𝐖-P(A𝐖\cap𝐖(B𝐖\cup𝐖C))𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(A)𝐖+[P(B)𝐖+P(C)𝐖-P(B𝐖\cap𝐖C)]𝐖-P((A𝐖\cap𝐖B)𝐖\cup𝐖(A𝐖\cap𝐖C))𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(A)𝐖+P(B)𝐖+P(C)𝐖-P(B𝐖\cap𝐖C)𝐖\\𝐖\~𝐖&𝐖𝐖-[P(A𝐖\cap𝐖B)𝐖+P(A𝐖\cap𝐖C)𝐖-P((A𝐖\cap𝐖B)𝐖\cap𝐖(A𝐖\cap𝐖C))]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(A)𝐖+P(B)𝐖+P(C)𝐖\\𝐖\~𝐖&𝐖𝐖-[P(A𝐖\cap𝐖B)𝐖+P(A𝐖\cap𝐖C)𝐖+P(B𝐖\cap𝐖C)]𝐖\\𝐖\~𝐖&𝐖𝐖+P((A𝐖\cap𝐖B)𝐖\cap𝐖(A𝐖\cap𝐖C))
-A𝐖\cap𝐖B𝐖\cap𝐖A𝐖\cap𝐖C𝐖=A𝐖\cap𝐖B𝐖\cap𝐖C
-RHS\~𝐖=P(A)𝐖\cdot𝐖\frac{P(A𝐖\cap𝐖B)}{P(A)}𝐖\cdot𝐖\frac{P(C𝐖\cap𝐖A𝐖\cap𝐖B)}{P(A𝐖\cap𝐖B)},𝐖
+P(A \cup B) =P(A) +P(B) .
+A \cap B =\varnothing,
+P(A \cap B) =0
+A, B, C
+P(A \cup B \cup C) & \lt mi/> =P(A) +P(B) +P(C) \\ \~ & -[P(A \cap B) +P(A \cap C) +P(B \cap C)] \\ \~ & +P(A \cap B \cap C) .
+P(A \cap B \cap C) =P(A) \cdot P(B| A) \cdot P(C|A \cap B) .
+P(A \cup B \cup C) & \lt mi/> =P(A \cup (B \cup C)) \\ \~ & \lt mi/> =P(A) +P(B \cup C) -P(A \cap (B \cup C)) \\ \~ & \lt mi/> =P(A) +[P(B) +P(C) -P(B \cap C)] -P((A \cap B) \cup (A \cap C)) \\ \~ & \lt mi/> =P(A) +P(B) +P(C) -P(B \cap C) \\ \~ & -[P(A \cap B) +P(A \cap C) -P((A \cap B) \cap (A \cap C))] \\ \~ & \lt mi/> =P(A) +P(B) +P(C) \\ \~ & -[P(A \cap B) +P(A \cap C) +P(B \cap C)] \\ \~ & +P((A \cap B) \cap (A \cap C))
+A \cap B \cap A \cap C =A \cap B \cap C
+RHS\~ =P(A) \cdot \frac{P(A \cap B)}{P(A)} \cdot \frac{P(C \cap A \cap B)}{P(A \cap B)},
 A
 B
-6𝐖\times𝐖6
-P(A)𝐖=\frac{3}{36},𝐖P(B)𝐖=\frac{27}{36}𝐖.
-n𝐖\in𝐖\mathbb𝐖N𝐖,𝐖
+6 \times 6
+P(A) =\frac{3}{36}, P(B) =\frac{27}{36} .
+n \in \mathbb N,
 n
-P(winning)𝐖=\sum𝐖_{n𝐖=1}^\infty𝐖𝐖P(winning\space𝐖on\space𝐖roll\~n)𝐖.
+P(winning) =\sum_{n =1}^\infty P(winning\space on\space roll\~n) .
 P(A)
-P(B)𝐖\cdot𝐖P(A)
-P(B)𝐖\cdot𝐖P(B)𝐖\cdot𝐖P(A),𝐖
+P(B) \cdot P(A)
+P(B) \cdot P(B) \cdot P(A),
 n
-P(B)^{n𝐖-1}𝐖𝐖\cdot𝐖P(A)𝐖.
-P(4\space𝐖before\space𝐖7)𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{n𝐖=1}^\infty𝐖𝐖P(B)^{n𝐖-1}𝐖P(A)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(A)\sum𝐖_{n𝐖=0}^\infty𝐖𝐖P(B)^n𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=(3/36)\sum𝐖_{n𝐖=0}^\infty𝐖𝐖(27/36)^n𝐖
-(5.3)𝐖&𝐖\sum𝐖_{n𝐖=0}^\infty𝐖𝐖r^n𝐖𝐖=\frac{1}{1𝐖-r}\~if\~|𝐖r|𝐖\lt𝐖1
-r𝐖=27/36,𝐖
-P(4\space𝐖before\space𝐖7)𝐖=\frac{1}{3}𝐖.
-\{B_1𝐖,𝐖B_2𝐖,𝐖\ldots𝐖,𝐖B_n𝐖\}
+P(B)^{n -1} \cdot P(A) .
+P(4\space before\space 7) & \lt mi/> =\sum_{n =1}^\infty P(B)^{n -1} P(A) \\ \~ & \lt mi/> =P(A)\sum_{n =0}^\infty P(B)^n \\ \~ & \lt mi/> =(3/36)\sum_{n =0}^\infty (27/36)^n
+(5.3) & \sum_{n =0}^\infty r^n =\frac{1}{1 -r}\~if\~| r| \lt 1
+r =27/36,
+P(4\space before\space 7) =\frac{1}{3} .
+\{B_1, B_2, \ldots, B_n \}
 S
 S
-S𝐖=B_1𝐖𝐖\cup𝐖B_2𝐖𝐖\cup𝐖\cdots𝐖𝐖\cup𝐖B_n𝐖,𝐖
-\{B_1𝐖,𝐖B_2𝐖,𝐖\ldots𝐖B_k𝐖\}
-S,𝐖
-P(B_i𝐖)𝐖>0
-i𝐖=1,𝐖2,𝐖\ldots𝐖k
-A,𝐖
-P(A)𝐖=\sum𝐖_{i𝐖=1}^k𝐖P(A|B_i𝐖)𝐖\cdot𝐖P(B_i𝐖)𝐖.
-A𝐖&𝐖\lt𝐖mi/>𝐖=A𝐖\cap𝐖S𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=A𝐖\cap𝐖(B_1𝐖𝐖\cup𝐖B_2𝐖𝐖\cup𝐖\cdots𝐖𝐖\cup𝐖B_k𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=(A𝐖\cap𝐖B_1𝐖)𝐖\cup𝐖(A𝐖\cap𝐖B_2𝐖)𝐖\cup𝐖\cdots𝐖𝐖\cup𝐖(A𝐖\cap𝐖B_k𝐖)𝐖.
-B_i𝐖
-(A𝐖\cap𝐖B_i𝐖)
-P(A)𝐖=\sum𝐖_{i𝐖=1}^k𝐖P(A𝐖\cap𝐖B_i𝐖)𝐖.
-P(A𝐖\cap𝐖B_i𝐖)𝐖=P(A|B_i𝐖)𝐖\cdot𝐖P(B_i𝐖)
-S𝐖=\{\~all\space𝐖potential\space𝐖buyers\~\}
+S =B_1 \cup B_2 \cup \cdots \cup B_n,
+\{B_1, B_2, \ldots B_k \}
+S,
+P(B_i) >0
+i =1, 2, \ldots k
+A,
+P(A) =\sum_{i =1}^k P(A|B_i) \cdot P(B_i) .
+A & \lt mi/> =A \cap S \\ \~ & \lt mi/> =A \cap (B_1 \cup B_2 \cup \cdots \cup B_k) \\ \~ & \lt mi/> =(A \cap B_1) \cup (A \cap B_2) \cup \cdots \cup (A \cap B_k) .
+B_i
+(A \cap B_i)
+P(A) =\sum_{i =1}^k P(A \cap B_i) .
+P(A \cap B_i) =P(A|B_i) \cdot P(B_i)
+S =\{\~all\space potential\space buyers\~\}
 A
 B
 C
 P(A)
-P(B)𝐖=1/50,𝐖
-P(C)𝐖=1/5,𝐖
-P(B𝐖\cap𝐖C)𝐖=1/100,𝐖
-P(A|B𝐖\cup𝐖C)𝐖=1/3,𝐖
-P(A|\overline{B𝐖\cup𝐖C})𝐖=1/10.
-P(B𝐖\cup𝐖C)𝐖=\frac{1}{50}𝐖+\frac{1}{5}𝐖-\frac{1}{100}𝐖=\frac{21}{100},𝐖
-P(\overline{B𝐖\cup𝐖C})𝐖=1𝐖-\frac{21}{100}𝐖=\frac{79}{100}𝐖.
-B𝐖\cup𝐖C
-\overline{B𝐖\cup𝐖C}
-A𝐖=[A𝐖\cap𝐖(B𝐖\cup𝐖C)]𝐖\cup𝐖[A𝐖\cap𝐖(\overline{B𝐖\cup𝐖C})],𝐖
-P(A)𝐖&𝐖\lt𝐖mi/>𝐖=P(A𝐖\cap𝐖(B𝐖\cup𝐖C))𝐖+P(A𝐖\cap𝐖(\overline{B𝐖\cup𝐖C)})𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(B𝐖\cup𝐖C)𝐖\cdot𝐖P(A|B𝐖\cup𝐖C)𝐖+P(\overline{B𝐖\cup𝐖C})𝐖\cdot𝐖P(A|\overline{B𝐖\cup𝐖C})𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{21}{100}𝐖\cdot𝐖13𝐖+\frac{79}{100}𝐖\cdot𝐖110𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{7}{100}𝐖\cdot𝐖\frac{7.9}{100}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=0.149.
+P(B) =1/50,
+P(C) =1/5,
+P(B \cap C) =1/100,
+P(A|B \cup C) =1/3,
+P(A|\overline{B \cup C}) =1/10.
+P(B \cup C) =\frac{1}{50} +\frac{1}{5} -\frac{1}{100} =\frac{21}{100},
+P(\overline{B \cup C}) =1 -\frac{21}{100} =\frac{79}{100} .
+B \cup C
+\overline{B \cup C}
+A =[A \cap (B \cup C)] \cup [A \cap (\overline{B \cup C})],
+P(A) & \lt mi/> =P(A \cap (B \cup C)) +P(A \cap (\overline{B \cup C)}) \\ \~ & \lt mi/> =P(B \cup C) \cdot P(A|B \cup C) +P(\overline{B \cup C}) \cdot P(A|\overline{B \cup C}) \\ \~ & \lt mi/> =\frac{21}{100} \cdot 13 +\frac{79}{100} \cdot 110 \\ \~ & \lt mi/> =\frac{7}{100} \cdot \frac{7.9}{100} \\ \~ & \lt mi/> =0.149.
 A
 B
 P(B|A)
-P(A|B)𝐖=1
-P(A|\overline{B})𝐖=0.1.
-\{B_1𝐖,𝐖B_2𝐖,𝐖\ldots𝐖B_k𝐖\}
-S,𝐖
-P(B_i𝐖)𝐖>0
-i𝐖=1,𝐖2,𝐖\ldots𝐖k
-B_j𝐖,𝐖
-P(B_j𝐖|A)𝐖=\frac{P(A|B_j𝐖)𝐖\cdot𝐖P(B_j𝐖)}{\sum𝐖_{i𝐖=1}^k𝐖P(A|B_i𝐖)𝐖\cdot𝐖P(B_i𝐖)}𝐖.
+P(A|B) =1
+P(A|\overline{B}) =0.1.
+\{B_1, B_2, \ldots B_k \}
+S,
+P(B_i) >0
+i =1, 2, \ldots k
+B_j,
+P(B_j |A) =\frac{P(A|B_j) \cdot P(B_j)}{\sum_{i =1}^k P(A|B_i) \cdot P(B_i)} .
 S
-B_1𝐖
+B_1
 S
-B_2𝐖
+B_2
 S
-B_i𝐖
+B_i
 S
 A
 S
-P(B_1𝐖)𝐖=.7,𝐖
-P(B_2𝐖)𝐖=.3
-P(A|B_1𝐖)𝐖=.08,𝐖
-P(A|B_2𝐖)𝐖=.15
-P(B_2𝐖|A)
-P(B_2𝐖|A)𝐖=\frac{P(A|B_2𝐖)𝐖\cdot𝐖P(B_1𝐖)}{P(A|𝐖B_1𝐖)𝐖\cdot𝐖P(B_2𝐖)𝐖+P(A|B_2𝐖)𝐖\cdot𝐖P(B_2𝐖)}𝐖.
-P(B_2𝐖|A)𝐖=\frac{(.15)(.3)}{(.08)(.7)𝐖+(.15)(.3)}𝐖\approx𝐖.446𝐖.
-(.7)(.08)𝐖+(.3)(.15)
-(.3)(.15),𝐖
-\frac{(.3)(.15)}{(.7)(.08)𝐖+(.3)(.15)}𝐖.
+P(B_1) =.7,
+P(B_2) =.3
+P(A|B_1) =.08,
+P(A|B_2) =.15
+P(B_2 |A)
+P(B_2 |A) =\frac{P(A|B_2) \cdot P(B_1)}{P(A| B_1) \cdot P(B_2) +P(A|B_2) \cdot P(B_2)} .
+P(B_2 |A) =\frac{(.15)(.3)}{(.08)(.7) +(.15)(.3)} \approx .446 .
+(.7)(.08) +(.3)(.15)
+(.3)(.15),
+\frac{(.3)(.15)}{(.7)(.08) +(.3)(.15)} .
 A
 B
 A
@@ -1124,548 +1124,548 @@ B
 B
 F
 P(A|F)
-P(A)𝐖=.7,𝐖
-P(B)𝐖=.3,𝐖
-P(F|A)𝐖=.2,𝐖
-P(F|B)𝐖=.1
-P(A|F)𝐖&𝐖\lt𝐖mi/>𝐖=\frac{P(A)𝐖\cdot𝐖P(F|A)}{P(A)𝐖\cdot𝐖P(F|A)𝐖+P(B)𝐖\cdot𝐖P(F|B)}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{(.7)(.2)}{(.7)(.2)𝐖+(.3)(.1)}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\approx𝐖.82𝐖.
+P(A) =.7,
+P(B) =.3,
+P(F|A) =.2,
+P(F|B) =.1
+P(A|F) & \lt mi/> =\frac{P(A) \cdot P(F|A)}{P(A) \cdot P(F|A) +P(B) \cdot P(F|B)} \\ \~ & \lt mi/> =\frac{(.7)(.2)}{(.7)(.2) +(.3)(.1)} \\ \~ & \lt mi/> \approx .82 .
 A
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
 X
 X
-\pi𝐖
+\pi
 F(X)
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
 X
 X
-\pi𝐖
+\pi
 F(X)
 n
 x
 p(x)
 n
 n
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
 X
 X
-\pi𝐖
+\pi
 F(X)
 X
 X
-X,𝐖
+X,
 X
 p(x)
 x
 X
-p(x)𝐖\ge𝐖0,𝐖
+p(x) \ge 0,
 p(x)
 X
 Y
-X,𝐖
-Y,𝐖
-\binom{5}{2}𝐖=10
+X,
+Y,
+\binom{5}{2} =10
 S
-X𝐖=4,𝐖
+X =4,
 X
 S
 X
-x𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖&𝐖5𝐖\\𝐖p(x)𝐖&𝐖.1𝐖&𝐖.2𝐖&𝐖.3𝐖&𝐖.4
+x & 2 & 3 & 4 & 5 \\ p(x) & .1 & .2 & .3 & .4
 Y
-y𝐖&𝐖3𝐖&𝐖4𝐖&𝐖5𝐖&𝐖6𝐖&𝐖7𝐖&𝐖8𝐖&𝐖9𝐖\\𝐖p(y)𝐖&𝐖.1𝐖&𝐖.1𝐖&𝐖.2𝐖&𝐖.2𝐖&𝐖.2𝐖&𝐖.1𝐖&𝐖.1
-\sum𝐖_x𝐖p(x)𝐖=1
-\sum𝐖_y𝐖p(y)𝐖=1
+y & 3 & 4 & 5 & 6 & 7 & 8 & 9 \\ p(y) & .1 & .1 & .2 & .2 & .2 & .1 & .1
+\sum_x p(x) =1
+\sum_y p(y) =1
 X
 X
 X
 X
-\mathbb𝐖N𝐖𝐖=\{1,𝐖2,𝐖3,𝐖\ldots𝐖\}
-x,𝐖
-x𝐖\ge𝐖1,𝐖
-P(X𝐖=x)𝐖=(\frac{5}{6})^{x𝐖-1}𝐖𝐖\cdot𝐖\frac{1}{6}𝐖.
-\sum𝐖_{x𝐖=1}^\infty𝐖𝐖(\frac{5}{6})^{x𝐖-1}𝐖\frac{1}{6}𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{6}\sum𝐖_{x𝐖=0}^\infty𝐖𝐖(\frac{5}{6})^x𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{6}𝐖\cdot𝐖\frac{1}{1𝐖-5/6}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=1.
+\mathbb N =\{1, 2, 3, \ldots \}
+x,
+x \ge 1,
+P(X =x) =(\frac{5}{6})^{x -1} \cdot \frac{1}{6} .
+\sum_{x =1}^\infty (\frac{5}{6})^{x -1} \frac{1}{6} & \lt mi/> =\frac{1}{6}\sum_{x =0}^\infty (\frac{5}{6})^x \\ \~ & \lt mi/> =\frac{1}{6} \cdot \frac{1}{1 -5/6} \\ \~ & \lt mi/> =1.
 X
-Y,𝐖
+Y,
 X
 X
 X
-p(x),𝐖
+p(x),
 X
-E(X),𝐖
-E(X)𝐖=\sum𝐖_{all\~x}𝐖x𝐖\cdot𝐖p(x)𝐖.
+E(X),
+E(X) =\sum_{all\~x} x \cdot p(x) .
 E(X)
 X
-\mu𝐖_X𝐖,𝐖
-\mu𝐖
+\mu_X,
+\mu
 X
-X,𝐖
-E(X)𝐖=2𝐖\cdot𝐖0.1𝐖+3𝐖\cdot𝐖0.2𝐖+4𝐖\cdot𝐖0.3𝐖+𝐖\cdot𝐖0.4𝐖=4.
+X,
+E(X) =2 \cdot 0.1 +3 \cdot 0.2 +4 \cdot 0.3 + \cdot 0.4 =4.
 X
-Y,𝐖
-E(Y)𝐖=3𝐖\cdot𝐖.1𝐖+4𝐖\cdot𝐖.1𝐖+5𝐖\cdot𝐖.2𝐖+6𝐖\cdot𝐖.2𝐖+7𝐖\cdot𝐖.2𝐖+8𝐖\cdot𝐖.1𝐖+9𝐖\cdot𝐖.1𝐖=6.
+Y,
+E(Y) =3 \cdot .1 +4 \cdot .1 +5 \cdot .2 +6 \cdot .2 +7 \cdot .2 +8 \cdot .1 +9 \cdot .1 =6.
 Y
-E(X)𝐖=\sum𝐖_{x𝐖=1}^\infty𝐖𝐖x𝐖\cdot𝐖(5/6)^{x𝐖-1}𝐖𝐖\cdot𝐖(1/6)𝐖.
-S𝐖=\{(r,𝐖b,𝐖g)|1𝐖\le𝐖r,𝐖b,𝐖g𝐖\le𝐖6\}
+E(X) =\sum_{x =1}^\infty x \cdot (5/6)^{x -1} \cdot (1/6) .
+S =\{(r, b, g)|1 \le r, b, g \le 6\}
 r
 b
 g
-|𝐖S|𝐖=6^3𝐖𝐖=216,𝐖
+| S| =6^3 =216,
 X
 X
-\{0,𝐖1,𝐖2,𝐖3\}
-X,𝐖
+\{0, 1, 2, 3\}
+X,
 x
 p(0)
-(5/6)^3𝐖𝐖=125/216.
+(5/6)^3 =125/216.
 p(3)
-(1/6)^3𝐖𝐖=1/216
+(1/6)^3 =1/216
 p(1)
-(1/6)𝐖\cdot𝐖(5/6)𝐖\cdot𝐖(5/6)𝐖.
-(5/6)𝐖\cdot𝐖(1/6)𝐖\cdot𝐖(5/6)𝐖.
-(5/6)𝐖\cdot𝐖(5/6)𝐖\cdot𝐖(1/6)𝐖.
-p(1)𝐖=3𝐖\cdot𝐖(1/6)𝐖\cdot𝐖(5/6)^2𝐖𝐖=75/216
+(1/6) \cdot (5/6) \cdot (5/6) .
+(5/6) \cdot (1/6) \cdot (5/6) .
+(5/6) \cdot (5/6) \cdot (1/6) .
+p(1) =3 \cdot (1/6) \cdot (5/6)^2 =75/216
 p(2)
-p(2)𝐖=3𝐖\cdot𝐖(1/6)^2𝐖𝐖\cdot𝐖(5/6)𝐖=15/216.
+p(2) =3 \cdot (1/6)^2 \cdot (5/6) =15/216.
 X
-x𝐖&𝐖0𝐖&𝐖1𝐖&𝐖2𝐖&𝐖3𝐖\\𝐖p(x)𝐖&𝐖125/216𝐖&𝐖75/216𝐖&𝐖15/216𝐖&𝐖1/216
+x & 0 & 1 & 2 & 3 \\ p(x) & 125/216 & 75/216 & 15/216 & 1/216
 X
-E(X)𝐖=0𝐖\cdot𝐖(125/216)𝐖+1𝐖\cdot𝐖(75/216)𝐖+2𝐖\cdot𝐖(15/216)𝐖+3𝐖\cdot𝐖(1/216)𝐖=1/2.
+E(X) =0 \cdot (125/216) +1 \cdot (75/216) +2 \cdot (15/216) +3 \cdot (1/216) =1/2.
 X
-X𝐖=1,𝐖
-X𝐖=2,𝐖
-X𝐖=3
-X𝐖=0
+X =1,
+X =2,
+X =3
+X =0
 X
-X,𝐖
+X,
 X
 X
-p(x),𝐖
+p(x),
 g(X)
 X
 g(X)
-E(g(X))𝐖=\sum𝐖_{all\~x}𝐖g(x)𝐖\cdot𝐖p(x)𝐖.
+E(g(X)) =\sum_{all\~x} g(x) \cdot p(x) .
 W
 W
-X,𝐖
-x𝐖&𝐖0𝐖&𝐖1𝐖&𝐖2𝐖&𝐖3𝐖\\𝐖p(x)𝐖&𝐖125/216𝐖&𝐖75/216𝐖&𝐖15/216𝐖&𝐖1/216𝐖\\𝐖w𝐖&𝐖𝐖-1𝐖&𝐖1𝐖&𝐖2𝐖&𝐖5
-E(W)𝐖=𝐖-1𝐖\cdot𝐖(125/216)𝐖+1𝐖\cdot𝐖(75/216)𝐖+2𝐖\cdot𝐖(15/216)𝐖+5𝐖\cdot𝐖(1/216)
-𝐖-15/216𝐖\approx𝐖𝐖-.07
+X,
+x & 0 & 1 & 2 & 3 \\ p(x) & 125/216 & 75/216 & 15/216 & 1/216 \\ w & -1 & 1 & 2 & 5
+E(W) = -1 \cdot (125/216) +1 \cdot (75/216) +2 \cdot (15/216) +5 \cdot (1/216)
+-15/216 \approx -.07
 X
-x𝐖&𝐖0𝐖&𝐖10𝐖&𝐖20𝐖&𝐖30𝐖&𝐖40𝐖&𝐖50𝐖\\𝐖p(x)𝐖&𝐖.1𝐖&𝐖.2𝐖&𝐖.1𝐖&𝐖.1𝐖&𝐖.4𝐖&𝐖.1
+x & 0 & 10 & 20 & 30 & 40 & 50 \\ p(x) & .1 & .2 & .1 & .1 & .4 & .1
 X
-E(3X^2𝐖𝐖+1)
-E(3X^2𝐖𝐖+1)𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{all\~x}𝐖(3x^2𝐖𝐖+1)𝐖\cdot𝐖p(x)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=0𝐖\cdot𝐖.1𝐖+301𝐖\cdot𝐖.2𝐖+1201𝐖\cdot𝐖.1𝐖+2701𝐖\cdot𝐖.1𝐖+4801𝐖\cdot𝐖.4𝐖+7501𝐖\cdot𝐖.1𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=3120
+E(3X^2 +1)
+E(3X^2 +1) & \lt mi/> =\sum_{all\~x} (3x^2 +1) \cdot p(x) \\ \~ & \lt mi/> =0 \cdot .1 +301 \cdot .2 +1201 \cdot .1 +2701 \cdot .1 +4801 \cdot .4 +7501 \cdot .1 \\ \~ & \lt mi/> =3120
 X
-E(X)𝐖=\mu𝐖,𝐖
+E(X) =\mu,
 X
-V(X),𝐖
-V(X)𝐖=E((X𝐖-\mu𝐖)^2𝐖)𝐖.
+V(X),
+V(X) =E((X -\mu)^2) .
 X
-\sigma𝐖_X^2𝐖,𝐖
-\sigma𝐖^2𝐖
-\sqrt{V(X)},𝐖
-\sigma𝐖_X𝐖
-\sigma𝐖,𝐖
+\sigma_X^2,
+\sigma^2
+\sqrt{V(X)},
+\sigma_X
+\sigma,
 X
 X
 Y
-x𝐖&𝐖0𝐖&𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖\\𝐖p(x)𝐖&𝐖.2𝐖&𝐖.3𝐖&𝐖.3𝐖&𝐖.1𝐖&𝐖.1
-y𝐖&𝐖0𝐖&𝐖1𝐖&𝐖2𝐖&𝐖3𝐖&𝐖4𝐖\\𝐖p(y)𝐖&𝐖.6𝐖&𝐖0𝐖&𝐖0𝐖&𝐖0𝐖&𝐖.4
+x & 0 & 1 & 2 & 3 & 4 \\ p(x) & .2 & .3 & .3 & .1 & .1
+y & 0 & 1 & 2 & 3 & 4 \\ p(y) & .6 & 0 & 0 & 0 & .4
 X
-E(X)𝐖=0𝐖+(1)(.3)𝐖+(2)(.3)𝐖+(3)(.1)𝐖+(4)(.1)𝐖=1.6,𝐖
+E(X) =0 +(1)(.3) +(2)(.3) +(3)(.1) +(4)(.1) =1.6,
 Y
-E(Y)𝐖=0𝐖+(4)(.4)𝐖=1.6,𝐖
-E(X)𝐖=E(Y),𝐖
-\mu𝐖_X𝐖𝐖=\mu𝐖_Y𝐖
+E(Y) =0 +(4)(.4) =1.6,
+E(X) =E(Y),
+\mu_X =\mu_Y
 X
-V(X)𝐖=E((X𝐖-\mu𝐖_X𝐖)^2𝐖)𝐖=\sum𝐖_{x𝐖=0}^4𝐖[(x𝐖-1.6)^2𝐖𝐖\cdot𝐖p(x)]𝐖=1.44.
+V(X) =E((X -\mu_X)^2) =\sum_{x =0}^4 [(x -1.6)^2 \cdot p(x)] =1.44.
 Y
-V(Y)𝐖=E((Y𝐖-\mu𝐖_Y𝐖)^2𝐖)𝐖=\sum𝐖_{y𝐖=0}^4𝐖[(y𝐖-1.6)^2𝐖𝐖\cdot𝐖p(y)]𝐖=3.84.
-\mu𝐖
+V(Y) =E((Y -\mu_Y)^2) =\sum_{y =0}^4 [(y -1.6)^2 \cdot p(y)] =3.84.
+\mu
 Y
 X
 p
-\sum𝐖_{n𝐖=1}^\infty𝐖𝐖\frac{1}{n^p𝐖}
-p𝐖>1,𝐖
-p𝐖=1
-\sum𝐖_{n𝐖=1}^\infty𝐖𝐖\frac{1}{n^3𝐖}𝐖=c𝐖.
+\sum_{n =1}^\infty \frac{1}{n^p}
+p >1,
+p =1
+\sum_{n =1}^\infty \frac{1}{n^3} =c .
 c
 X
-p(x)𝐖=\frac{1}{cx^3𝐖}\~for\~x𝐖=1,𝐖2,𝐖3,𝐖\ldots𝐖𝐖.
-E(X)𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=1}^\infty𝐖𝐖x𝐖\cdot𝐖\frac{1}{cx^3𝐖}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{c}𝐖\sum𝐖x𝐖=1^\infty𝐖𝐖\frac{1}{x^2𝐖}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{\pi𝐖^2𝐖}{6c},𝐖
+p(x) =\frac{1}{cx^3}\~for\~x =1, 2, 3, \ldots .
+E(X) & \lt mi/> =\sum_{x =1}^\infty x \cdot \frac{1}{cx^3} \\ \~ & \lt mi/> =\frac{1}{c} \sum x =1^\infty \frac{1}{x^2} \\ \~ & \lt mi/> =\frac{\pi^2}{6c},
 p
-\sum𝐖_{n𝐖=1}^\infty𝐖𝐖(1/n^2𝐖)𝐖=\pi𝐖^2𝐖/6.
+\sum_{n =1}^\infty (1/n^2) =\pi^2 /6.
 E(X)
-E(X^2𝐖)𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{x𝐖=1}^\infty𝐖𝐖x^2𝐖𝐖\cdot𝐖\frac{1}{cx^3𝐖}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{c}𝐖\sum𝐖x𝐖=1^\infty𝐖𝐖\frac{1}{x},𝐖
+E(X^2) & \lt mi/> =\sum_{x =1}^\infty x^2 \cdot \frac{1}{cx^3} \\ \~ & \lt mi/> =\frac{1}{c} \sum x =1^\infty \frac{1}{x},
 V(X)
 X
-c𝐖\in𝐖\mathbb𝐖R𝐖
-g,𝐖
-g_1𝐖,𝐖
-g_2𝐖
+c \in \mathbb R
+g,
+g_1,
+g_2
 X
-E(c)𝐖=c
-E(c𝐖\cdot𝐖g(X))𝐖=cE(g(X))
-E(g_1𝐖(X)𝐖\pm𝐖g_2𝐖(X))𝐖=E(g_1𝐖(X)𝐖\pm𝐖g_2𝐖(X))
+E(c) =c
+E(c \cdot g(X)) =cE(g(X))
+E(g_1 (X) \pm g_2 (X)) =E(g_1 (X) \pm g_2 (X))
 x
 X
-E(X)𝐖=1.6
-E(4𝐖+3X)𝐖&𝐖\lt𝐖mi/>𝐖=E(4)𝐖+E(3X)𝐖&𝐖\~by\space𝐖property\space𝐖3𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=4𝐖+3E(X)𝐖&𝐖\~by\space𝐖properties\space𝐖1\space𝐖and\space𝐖2𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=4𝐖+3𝐖\cdot𝐖1.6𝐖&𝐖\~since\~E(X)𝐖=1.6𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=8.8.𝐖&𝐖\~Nice.
-c,𝐖
-X,𝐖
-f(x)𝐖=c
-E(c)𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{all\~x}𝐖c𝐖\cdot𝐖p(x)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=c\sum𝐖_{all\~x}𝐖p(x)
+E(X) =1.6
+E(4 +3X) & \lt mi/> =E(4) +E(3X) & \~by\space property\space 3 \\ \~ & \lt mi/> =4 +3E(X) & \~by\space properties\space 1\space and\space 2 \\ \~ & \lt mi/> =4 +3 \cdot 1.6 & \~since\~E(X) =1.6 \\ \~ & \lt mi/> =8.8. & \~Nice.
+c,
+X,
+f(x) =c
+E(c) & \lt mi/> =\sum_{all\~x} c \cdot p(x) \\ \~ & \lt mi/> =c\sum_{all\~x} p(x)
 x
 p(x)
-E(c𝐖\cdot𝐖g(X))𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{all\~x}𝐖c𝐖\cdot𝐖g(x)𝐖\cdot𝐖p(x)𝐖&𝐖\~𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=c\sum𝐖_{all\~x}𝐖g(x)p(x)𝐖&𝐖by\space𝐖arithmetic𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=cE(g(X))𝐖&𝐖\~
-E(g_1𝐖(x)𝐖\pm𝐖g_2𝐖(x))𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{all\~x}𝐖(g_1𝐖(x)𝐖\pm𝐖g_2𝐖(x))𝐖\cdot𝐖p(x)𝐖&𝐖\~𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{all\~x}𝐖(g_1𝐖(x)p(x)𝐖\pm𝐖g_2𝐖(x)p(x))𝐖&𝐖by\space𝐖arithmetic𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\sum𝐖_{all\~x}𝐖g_1𝐖(x)p(x)𝐖\pm𝐖\sum𝐖_{all\~x}𝐖g_2𝐖(x)p(x)𝐖&𝐖by\space𝐖arithmetic𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=E(g_1𝐖(X))𝐖\pm𝐖E(g_2𝐖(X))𝐖&𝐖\~
+E(c \cdot g(X)) & \lt mi/> =\sum_{all\~x} c \cdot g(x) \cdot p(x) & \~ \\ \~ & \lt mi/> =c\sum_{all\~x} g(x)p(x) & by\space arithmetic \\ \~ & \lt mi/> =cE(g(X)) & \~
+E(g_1 (x) \pm g_2 (x)) & \lt mi/> =\sum_{all\~x} (g_1 (x) \pm g_2 (x)) \cdot p(x) & \~ \\ \~ & \lt mi/> =\sum_{all\~x} (g_1 (x)p(x) \pm g_2 (x)p(x)) & by\space arithmetic \\ \~ & \lt mi/> =\sum_{all\~x} g_1 (x)p(x) \pm \sum_{all\~x} g_2 (x)p(x) & by\space arithmetic \\ \~ & \lt mi/> =E(g_1 (X)) \pm E(g_2 (X)) & \~
 N
 r
 N
 R
-N𝐖=k\pi𝐖R^2𝐖,𝐖
+N =k\pi R^2,
 k
 R
-k𝐖=8,𝐖
+k =8,
 R
-r𝐖&𝐖21𝐖&𝐖22𝐖&𝐖23𝐖&𝐖24𝐖&𝐖25𝐖&𝐖26𝐖\\𝐖p(r)𝐖&𝐖.05𝐖&𝐖.20𝐖&𝐖.30𝐖&𝐖.25𝐖&𝐖.15𝐖&𝐖.05
-E(N),𝐖
-E(N)𝐖=E(8\pi𝐖R^2𝐖)𝐖=8\pi𝐖E(R^2𝐖),𝐖
-E(N)𝐖&𝐖\lt𝐖mi/>𝐖=8\pi𝐖(21^2𝐖𝐖\cdot𝐖.05𝐖+22^2𝐖𝐖\cdot𝐖.20𝐖+23^2𝐖𝐖\cdot𝐖.30𝐖+24^2𝐖𝐖\cdot𝐖.25𝐖+25^2𝐖𝐖\cdot𝐖.15𝐖+26^2𝐖𝐖\cdot𝐖.05)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=8\pi𝐖(549.1)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\approx𝐖13,𝐖800\~homes
+r & 21 & 22 & 23 & 24 & 25 & 26 \\ p(r) & .05 & .20 & .30 & .25 & .15 & .05
+E(N),
+E(N) =E(8\pi R^2) =8\pi E(R^2),
+E(N) & \lt mi/> =8\pi (21^2 \cdot .05 +22^2 \cdot .20 +23^2 \cdot .30 +24^2 \cdot .25 +25^2 \cdot .15 +26^2 \cdot .05) \\ \~ & \lt mi/> =8\pi (549.1) \\ \~ & \lt mi/> \approx 13, 800\~homes
 X
 p(x)
-E(X)𝐖=\mu𝐖
-V(X)𝐖=E(X^2𝐖)𝐖-\mu𝐖^2𝐖𝐖.
-V(X)𝐖&𝐖\lt𝐖mi/>𝐖=E((X𝐖-\mu𝐖)^2𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=E(X^2𝐖𝐖-2\mu𝐖X𝐖+\mu𝐖^2𝐖)𝐖&𝐖by\space𝐖expanding𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=E(X^2𝐖)𝐖-E(2\mu𝐖X)𝐖+E(\mu𝐖^2𝐖)𝐖&𝐖by\space𝐖E()\space𝐖Property\space𝐖3𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=E(X^2𝐖)𝐖-2\mu𝐖E(X)𝐖+\mu𝐖^2𝐖𝐖&𝐖by\space𝐖E()\space𝐖Properties\space𝐖2\space𝐖and\space𝐖1𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=E(X^2𝐖)𝐖-2\mu𝐖^2𝐖𝐖+\mu𝐖^2𝐖𝐖&𝐖since\~E(X)𝐖=\mu𝐖𝐖\\𝐖V(X)𝐖&𝐖\lt𝐖mi/>𝐖=E(X^2𝐖)𝐖-\mu𝐖^2𝐖
-E(X^2𝐖)
-E(X^2𝐖)𝐖=V(X)𝐖+\mu𝐖^2𝐖,𝐖
-E(X^2𝐖)𝐖=\sigma𝐖^2𝐖𝐖+\mu𝐖^2𝐖𝐖.
+E(X) =\mu
+V(X) =E(X^2) -\mu^2 .
+V(X) & \lt mi/> =E((X -\mu)^2) \\ \~ & \lt mi/> =E(X^2 -2\mu X +\mu^2) & by\space expanding \\ \~ & \lt mi/> =E(X^2) -E(2\mu X) +E(\mu^2) & by\space E()\space Property\space 3 \\ \~ & \lt mi/> =E(X^2) -2\mu E(X) +\mu^2 & by\space E()\space Properties\space 2\space and\space 1 \\ \~ & \lt mi/> =E(X^2) -2\mu^2 +\mu^2 & since\~E(X) =\mu \\ V(X) & \lt mi/> =E(X^2) -\mu^2
+E(X^2)
+E(X^2) =V(X) +\mu^2,
+E(X^2) =\sigma^2 +\mu^2 .
 X
-\mu𝐖𝐖=5
-\sigma𝐖^2𝐖𝐖=6
-E(3𝐖+2X𝐖+4X^2𝐖)
-E(3𝐖+2X𝐖+4X^2𝐖)𝐖&𝐖\lt𝐖mi/>𝐖=E(3)𝐖+2E(X)𝐖+4E(X^2𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=3𝐖+2𝐖\cdot𝐖\mu𝐖𝐖+4[\sigma𝐖^2𝐖𝐖+\mu𝐖^2𝐖]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=3𝐖+2𝐖\cdot𝐖5𝐖+4[6𝐖+5^2𝐖]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=3𝐖+10𝐖+124𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=137.
+\mu =5
+\sigma^2 =6
+E(3 +2X +4X^2)
+E(3 +2X +4X^2) & \lt mi/> =E(3) +2E(X) +4E(X^2) \\ \~ & \lt mi/> =3 +2 \cdot \mu +4[\sigma^2 +\mu^2] \\ \~ & \lt mi/> =3 +2 \cdot 5 +4[6 +5^2] \\ \~ & \lt mi/> =3 +10 +124 \\ \~ & \lt mi/> =137.
 X
-E(X)𝐖=\mu𝐖
-V(X)𝐖=\sigma𝐖^2𝐖𝐖>0
-k𝐖>0,𝐖
-P(|𝐖X𝐖-\mu𝐖|𝐖\lt𝐖k\sigma𝐖)𝐖\ge𝐖1𝐖-\frac{1}{k^2𝐖}𝐖.
-P(|𝐖X𝐖-\mu𝐖|𝐖\ge𝐖k\sigma𝐖)𝐖\le𝐖\frac{1}{k^2𝐖}𝐖.
-k𝐖=2,𝐖
-X,𝐖
+E(X) =\mu
+V(X) =\sigma^2 >0
+k >0,
+P(| X -\mu | \lt k\sigma) \ge 1 -\frac{1}{k^2} .
+P(| X -\mu | \ge k\sigma) \le \frac{1}{k^2} .
+k =2,
+X,
 X
-k𝐖=1
+k =1
 X
-k𝐖>0
-V(X)𝐖=\sum𝐖_{all\~x}𝐖(x𝐖-\mu𝐖)^2𝐖p(x),𝐖
+k >0
+V(X) =\sum_{all\~x} (x -\mu)^2 p(x),
 X
 x
-\mu𝐖𝐖\pm𝐖k\sigma𝐖
-V(X)𝐖=\sum𝐖_{all\~x𝐖\le𝐖\mu𝐖𝐖-k\sigma𝐖}𝐖(x𝐖-\mu𝐖)^2𝐖p(x)𝐖+\sum𝐖_{all\~x\~s.t.\~|𝐖x𝐖-\mu𝐖|𝐖\lt𝐖k\sigma𝐖}𝐖(x𝐖-\mu𝐖)^2𝐖p(x)𝐖+\sum𝐖_{all\~x𝐖\ge𝐖\mu𝐖𝐖+k\sigma𝐖}𝐖(x𝐖-\mu𝐖)^2𝐖p(x)
-(x𝐖-\mu𝐖)^2𝐖𝐖\ge𝐖k^2𝐖\sigma𝐖^2𝐖
+\mu \pm k\sigma
+V(X) =\sum_{all\~x \le \mu -k\sigma} (x -\mu)^2 p(x) +\sum_{all\~x\~s.t.\~| x -\mu | \lt k\sigma} (x -\mu)^2 p(x) +\sum_{all\~x \ge \mu +k\sigma} (x -\mu)^2 p(x)
+(x -\mu)^2 \ge k^2 \sigma^2
 x
-V(x)𝐖\ge𝐖\sum𝐖_{all\~x𝐖\le𝐖\mu𝐖𝐖-k\sigma𝐖}𝐖k^2𝐖\sigma𝐖^2𝐖p(x)𝐖+0𝐖+\sum𝐖_{all\~x𝐖\ge𝐖\mu𝐖𝐖+k\sigma𝐖}𝐖k^2𝐖\sigma𝐖^2𝐖p(x)𝐖.
-\sigma𝐖^2𝐖𝐖&𝐖\lt𝐖mi/>𝐖\ge𝐖\sum𝐖_{all\~x𝐖\le𝐖\mu𝐖𝐖-k\sigma𝐖}𝐖k^2𝐖\sigma𝐖^2𝐖p(x)𝐖+0𝐖+\sum𝐖_{all\~x𝐖\ge𝐖\mu𝐖𝐖+k\sigma𝐖}𝐖k^2𝐖\sigma𝐖^2𝐖p(x)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=k^2𝐖\sigma𝐖^2𝐖(\sum𝐖_{all\~x𝐖\le𝐖\mu𝐖𝐖-k\sigma𝐖}𝐖p(x)𝐖+\sum𝐖_{all\~x𝐖\ge𝐖\mu𝐖𝐖+k\sigma𝐖}𝐖p(x))𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=k^2𝐖\sigma𝐖^2𝐖(P(X𝐖\le𝐖\mu𝐖𝐖-k\sigma𝐖)𝐖+P(X𝐖\ge𝐖\mu𝐖𝐖+k\sigma𝐖))𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=k^2𝐖\sigma𝐖^2𝐖P(|X𝐖-\mu𝐖|𝐖\ge𝐖k\sigma𝐖)
-k^2𝐖\sigma𝐖^2𝐖
-P(|𝐖X𝐖-\mu𝐖|𝐖\ge𝐖k\sigma𝐖)𝐖\le𝐖\frac{1}{k^2𝐖}𝐖.
+V(x) \ge \sum_{all\~x \le \mu -k\sigma} k^2 \sigma^2 p(x) +0 +\sum_{all\~x \ge \mu +k\sigma} k^2 \sigma^2 p(x) .
+\sigma^2 & \lt mi/> \ge \sum_{all\~x \le \mu -k\sigma} k^2 \sigma^2 p(x) +0 +\sum_{all\~x \ge \mu +k\sigma} k^2 \sigma^2 p(x) \\ \~ & \lt mi/> =k^2 \sigma^2 (\sum_{all\~x \le \mu -k\sigma} p(x) +\sum_{all\~x \ge \mu +k\sigma} p(x)) \\ \~ & \lt mi/> =k^2 \sigma^2 (P(X \le \mu -k\sigma) +P(X \ge \mu +k\sigma)) \\ \~ & \lt mi/> =k^2 \sigma^2 P(|X -\mu | \ge k\sigma)
+k^2 \sigma^2
+P(| X -\mu | \ge k\sigma) \le \frac{1}{k^2} .
 X
-E(X)𝐖=70
-V(X)𝐖=25,𝐖
-\mu𝐖𝐖=70
-\sigma𝐖𝐖=\sqrt{25}𝐖=5
-k𝐖=2,𝐖
+E(X) =70
+V(X) =25,
+\mu =70
+\sigma =\sqrt{25} =5
+k =2,
 X
-k𝐖=3,𝐖
+k =3,
 X
-P(|𝐖X𝐖-\mu𝐖|𝐖\lt𝐖2\sigma𝐖)𝐖=.75
+P(| X -\mu | \lt 2\sigma) =.75
 X
-x𝐖&𝐖𝐖-1𝐖&𝐖0𝐖&𝐖1𝐖\\𝐖p(x)𝐖&𝐖.125𝐖&𝐖.75𝐖&𝐖.125
-\mu𝐖𝐖=E(X)𝐖=(𝐖-1)(.125)𝐖+(0)(.75)𝐖+(1)(.125)𝐖=0,𝐖
-\sigma𝐖^2𝐖𝐖&𝐖\lt𝐖mi/>𝐖=E(X^2𝐖)𝐖-\mu𝐖^2𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=(𝐖-1)^2𝐖(.125)𝐖+0^2𝐖(.75)𝐖+1^2𝐖(.125)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=.25,𝐖
-\sigma𝐖𝐖=0.5,𝐖
-P(|X𝐖-\mu𝐖|𝐖\lt𝐖2\sigma𝐖)𝐖&𝐖\lt𝐖mi/>𝐖=P(|X|𝐖\lt𝐖1)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(𝐖-1𝐖\lt𝐖X𝐖\lt𝐖1)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(X𝐖=0)𝐖&𝐖\~since\space𝐖the\space𝐖space\space𝐖of\~X\~is\~\{𝐖-1,𝐖0,𝐖1\}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=.75𝐖.
-P(|𝐖X𝐖-\mu𝐖|𝐖\lt𝐖2\sigma𝐖)𝐖=.75
-k𝐖>0
-x𝐖&𝐖𝐖-1𝐖&𝐖0𝐖&𝐖1𝐖\\𝐖p(x)𝐖&𝐖\frac{1}{2k^2𝐖}𝐖&𝐖1𝐖-\frac{1}{k^2𝐖}𝐖&𝐖\frac{1}{2k^2𝐖}
-P(|𝐖X𝐖-\mu𝐖|𝐖\lt𝐖2\sigma𝐖)𝐖=1𝐖-\frac{1}{k^2𝐖},𝐖
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+x & -1 & 0 & 1 \\ p(x) & .125 & .75 & .125
+\mu =E(X) =( -1)(.125) +(0)(.75) +(1)(.125) =0,
+\sigma^2 & \lt mi/> =E(X^2) -\mu^2 \\ \~ & \lt mi/> =( -1)^2 (.125) +0^2 (.75) +1^2 (.125) \\ \~ & \lt mi/> =.25,
+\sigma =0.5,
+P(|X -\mu | \lt 2\sigma) & \lt mi/> =P(|X| \lt 1) \\ \~ & \lt mi/> =P( -1 \lt X \lt 1) \\ \~ & \lt mi/> =P(X =0) & \~since\space the\space space\space of\~X\~is\~\{ -1, 0, 1\} \\ \~ & \lt mi/> =.75 .
+P(| X -\mu | \lt 2\sigma) =.75
+k >0
+x & -1 & 0 & 1 \\ p(x) & \frac{1}{2k^2} & 1 -\frac{1}{k^2} & \frac{1}{2k^2}
+P(| X -\mu | \lt 2\sigma) =1 -\frac{1}{k^2},
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
 X
 X
-\pi𝐖
+\pi
 F(X)
 X
-X,𝐖
-F(x),𝐖
+X,
+F(x),
 x
-F(x)𝐖=P(X𝐖\le𝐖x)𝐖.
+F(x) =P(X \le x) .
 X
-x𝐖&𝐖0𝐖&𝐖1𝐖&𝐖2𝐖&𝐖3𝐖\\𝐖p(x)𝐖&𝐖1/8𝐖&𝐖3/8𝐖&𝐖3/8𝐖&𝐖1/8
-F(𝐖-2.7)𝐖=P(X𝐖\le𝐖𝐖-2.7)𝐖=0,𝐖
-F(1.3)𝐖=P(X𝐖\le𝐖1.3)𝐖=1/8𝐖+3/8𝐖=4/8
+x & 0 & 1 & 2 & 3 \\ p(x) & 1/8 & 3/8 & 3/8 & 1/8
+F( -2.7) =P(X \le -2.7) =0,
+F(1.3) =P(X \le 1.3) =1/8 +3/8 =4/8
 X
-X𝐖=0
-X𝐖=1
+X =0
+X =1
 X
-F(x)𝐖=\{0𝐖&𝐖\~if\~x𝐖\lt𝐖0𝐖\\𝐖1/8𝐖&𝐖\~if\~0𝐖\le𝐖x𝐖\lt𝐖1𝐖\\𝐖4/8𝐖&𝐖\~if\~1𝐖\le𝐖x𝐖\lt𝐖2𝐖\\𝐖7/8𝐖&𝐖\~if\~2𝐖\le𝐖x𝐖\lt𝐖3𝐖\\𝐖1𝐖&𝐖\~if\~x𝐖\ge𝐖3𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
+F(x) =\{0 & \~if\~x \lt 0 \\ 1/8 & \~if\~0 \le x \lt 1 \\ 4/8 & \~if\~1 \le x \lt 2 \\ 7/8 & \~if\~2 \le x \lt 3 \\ 1 & \~if\~x \ge 3 \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
 F(x)
-𝐖-\infty𝐖𝐖\lt𝐖x𝐖\lt𝐖\infty𝐖
+-\infty \lt x \lt \infty
 F
 X
 X
 F(x)
-\lim𝐖_{x𝐖\to𝐖𝐖-\infty𝐖}𝐖F(x)𝐖=0
+\lim_{x \to -\infty} F(x) =0
 F
-x_1𝐖𝐖\le𝐖x_2𝐖
-F(x_1𝐖)𝐖\le𝐖F(x_2𝐖)
-\lim𝐖_{x𝐖\to𝐖\infty𝐖}𝐖F(x)𝐖=1
+x_1 \le x_2
+F(x_1) \le F(x_2)
+\lim_{x \to \infty} F(x) =1
 F
 x
-(𝐖-\infty𝐖,𝐖\infty𝐖)
+( -\infty, \infty)
 x
-𝐖-\infty𝐖
-\infty𝐖,𝐖
+-\infty
+\infty,
 F(x)
 F
 X
-F,𝐖
+F,
 X
 X
 f(x)
 f(x)
 f(x)
-X,𝐖
-f(x)𝐖\ge𝐖0
-x,𝐖
-\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖f(x)dx𝐖=1
-f(x)𝐖=F'(x)
+X,
+f(x) \ge 0
+x,
+\int_{ -\infty}^\infty f(x)dx =1
+f(x) =F'(x)
 f(x)
-F,𝐖
-f(x)𝐖\ge𝐖0
+F,
+f(x) \ge 0
 F
-f,𝐖
+f,
 f
-\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖f(x)dx
-\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖f(x)dx𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_{𝐖-\infty𝐖}^0𝐖f(x)dx𝐖+\int𝐖_0^\infty𝐖𝐖f(x)dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{a𝐖\to𝐖𝐖-\infty𝐖}𝐖\int𝐖_a^0𝐖f(x)dx𝐖+\lim𝐖_{b𝐖\to𝐖\infty𝐖}𝐖\int𝐖_0^b𝐖f(x)dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{a𝐖\to𝐖𝐖-\infty𝐖}𝐖[F(0)𝐖-F(a)]𝐖+\lim𝐖_{b𝐖\to𝐖\infty𝐖}𝐖[F(b)𝐖-F(0)]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=(F(0)𝐖-0)𝐖+(1𝐖-F(0))𝐖&𝐖\~by\space𝐖limit\space𝐖properties\space𝐖of\~F𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=1.
+\int_{ -\infty}^\infty f(x)dx
+\int_{ -\infty}^\infty f(x)dx & \lt mi/> =\int_{ -\infty}^0 f(x)dx +\int_0^\infty f(x)dx \\ \~ & \lt mi/> =\lim_{a \to -\infty} \int_a^0 f(x)dx +\lim_{b \to \infty} \int_0^b f(x)dx \\ \~ & \lt mi/> =\lim_{a \to -\infty} [F(0) -F(a)] +\lim_{b \to \infty} [F(b) -F(0)] \\ \~ & \lt mi/> =(F(0) -0) +(1 -F(0)) & \~by\space limit\space properties\space of\~F \\ \~ & \lt mi/> =1.
 F
-c𝐖>0
-x𝐖=0
-x𝐖=c
-f(x)𝐖=F'(x)
-(x,𝐖F(X))
-f(x)𝐖=\{0𝐖&𝐖\~if\~x𝐖\lt𝐖0𝐖\\𝐖1/c𝐖&𝐖\~if\~0𝐖\lt𝐖x𝐖\lt𝐖c𝐖\\𝐖0𝐖&𝐖\~if\~x𝐖>c,𝐖𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
+c >0
+x =0
+x =c
+f(x) =F'(x)
+(x, F(X))
+f(x) =\{0 & \~if\~x \lt 0 \\ 1/c & \~if\~0 \lt x \lt c \\ 0 & \~if\~x >c, \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
 f
-f(x)𝐖\ge𝐖0
+f(x) \ge 0
 x
-\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖f(x)dx𝐖=\int𝐖_0^c𝐖f(x)dx
-f(x)𝐖>0
+\int_{ -\infty}^\infty f(x)dx =\int_0^c f(x)dx
+f(x) >0
 c
-1/c,𝐖
+1/c,
 k
-f(x)𝐖=\{kx^8𝐖𝐖&𝐖\~if\~0𝐖\le𝐖x𝐖\le𝐖1𝐖\\𝐖0𝐖&𝐖\~else.𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
-k𝐖\ge𝐖0
-f(x)𝐖\ge𝐖0
+f(x) =\{kx^8 & \~if\~0 \le x \le 1 \\ 0 & \~else. \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+k \ge 0
+f(x) \ge 0
 x
-1𝐖=\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖f(x)dx𝐖=\int𝐖_0^1𝐖kx^8𝐖dx𝐖=\frac{k}{9}x^9𝐖|𝐖_0^1𝐖𝐖.
-k𝐖=9
+1 =\int_{ -\infty}^\infty f(x)dx =\int_0^1 kx^8 dx =\frac{k}{9}x^9 |_0^1 .
+k =9
 X
-0𝐖\lt𝐖p𝐖\lt𝐖1,𝐖
+0 \lt p \lt 1,
 p
-X,𝐖
-\phi𝐖_p𝐖,𝐖
-F(\phi𝐖_p𝐖)𝐖\ge𝐖p
+X,
+\phi_p,
+F(\phi_p) \ge p
 X
-\phi𝐖_p𝐖
-F(\phi𝐖_p𝐖)𝐖=p
-\phi𝐖_{.25}𝐖,𝐖
-Q1,𝐖
-\phi𝐖_{.5}𝐖,𝐖
-M,𝐖
-\phi𝐖_{.75}𝐖,𝐖
-Q3,𝐖
+\phi_p
+F(\phi_p) =p
+\phi_{.25},
+Q1,
+\phi_{.5},
+M,
+\phi_{.75},
+Q3,
 X
-f,𝐖
-a𝐖\lt𝐖b,𝐖
-P(a𝐖\le𝐖X𝐖\le𝐖b)𝐖=\int𝐖_a^b𝐖f(x)dx𝐖.
+f,
+a \lt b,
+P(a \le X \le b) =\int_a^b f(x)dx .
 F
-f,𝐖
-\int𝐖_a^b𝐖f(x)dx𝐖&𝐖\lt𝐖mi/>𝐖=F(b)𝐖-F(a)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(X𝐖\le𝐖b)𝐖-P(X𝐖\le𝐖a)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(a𝐖\lt𝐖X𝐖\le𝐖b)𝐖&𝐖\~since\~a𝐖\lt𝐖b𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(a𝐖\le𝐖X𝐖\le𝐖b)𝐖&𝐖\~since\~P(X𝐖=a)𝐖=0
-X,𝐖
-a𝐖\lt𝐖b,𝐖
-P(a𝐖\lt𝐖X𝐖\lt𝐖b)𝐖=P(a𝐖\le𝐖X𝐖\lt𝐖b)𝐖=P(a𝐖\lt𝐖X𝐖\le𝐖b)𝐖=P(a𝐖\le𝐖X𝐖\le𝐖B)
-P(X𝐖=c)𝐖=0
+f,
+\int_a^b f(x)dx & \lt mi/> =F(b) -F(a) \\ \~ & \lt mi/> =P(X \le b) -P(X \le a) \\ \~ & \lt mi/> =P(a \lt X \le b) & \~since\~a \lt b \\ \~ & \lt mi/> =P(a \le X \le b) & \~since\~P(X =a) =0
+X,
+a \lt b,
+P(a \lt X \lt b) =P(a \le X \lt b) =P(a \lt X \le b) =P(a \le X \le B)
+P(X =c) =0
 c
 X
-f(x)𝐖=\{\frac{3}{8}x^2𝐖𝐖&𝐖\~if\~0𝐖\le𝐖x𝐖\le𝐖2𝐖\\𝐖0𝐖&𝐖\~else.𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
-f(x)𝐖\ge𝐖0
+f(x) =\{\frac{3}{8}x^2 & \~if\~0 \le x \le 2 \\ 0 & \~else. \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+f(x) \ge 0
 x
-\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖f(x)dx𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_0^2𝐖\frac{3}{8}x^2𝐖dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{8}x^3𝐖|𝐖_0^2𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=1.
-P(1𝐖\le𝐖X𝐖\le𝐖2)
-P(1𝐖\le𝐖X𝐖\le𝐖2)𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_1^2𝐖\frac{3}{8}x^2𝐖dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{8}x^3𝐖|𝐖_1^2𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=1𝐖-\frac{1}{8}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{7}{8}𝐖.
+\int_{ -\infty}^\infty f(x)dx & \lt mi/> =\int_0^2 \frac{3}{8}x^2 dx \\ \~ & \lt mi/> =\frac{1}{8}x^3 |_0^2 \\ \~ & \lt mi/> =1.
+P(1 \le X \le 2)
+P(1 \le X \le 2) & \lt mi/> =\int_1^2 \frac{3}{8}x^2 dx \\ \~ & \lt mi/> =\frac{1}{8}x^3 |_1^2 \\ \~ & \lt mi/> =1 -\frac{1}{8} \\ \~ & \lt mi/> =\frac{7}{8} .
 X
 X
 X
 X
-f(x)𝐖=\{0𝐖&𝐖\~if\~x𝐖\lt𝐖1𝐖\\𝐖\frac{1}{x^2𝐖}𝐖&𝐖\~if\~x𝐖\ge𝐖1.𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
-\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖f(x)dx𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_1^\infty𝐖𝐖x^{𝐖-2}𝐖dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{b𝐖\to𝐖\infty𝐖}𝐖[\int𝐖_1^b𝐖x^{𝐖-2}𝐖dx]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{b𝐖\to𝐖\infty𝐖}𝐖[𝐖-\frac{1}{x}|_1^b𝐖]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\lim𝐖_{b𝐖\to𝐖\infty𝐖}𝐖[𝐖-\frac{1}{b}𝐖+1]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=1.
-1/b𝐖\to𝐖0
-b𝐖\to𝐖\infty𝐖
-F(x),𝐖
-x,𝐖
-F(x)𝐖=\int𝐖_{𝐖-\infty𝐖}^x𝐖f(t)dt,𝐖
+f(x) =\{0 & \~if\~x \lt 1 \\ \frac{1}{x^2} & \~if\~x \ge 1. \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+\int_{ -\infty}^\infty f(x)dx & \lt mi/> =\int_1^\infty x^{ -2} dx \\ \~ & \lt mi/> =\lim_{b \to \infty} [\int_1^b x^{ -2} dx] \\ \~ & \lt mi/> =\lim_{b \to \infty} [ -\frac{1}{x}|_1^b] \\ \~ & \lt mi/> =\lim_{b \to \infty} [ -\frac{1}{b} +1] \\ \~ & \lt mi/> =1.
+1/b \to 0
+b \to \infty
+F(x),
+x,
+F(x) =\int_{ -\infty}^x f(t)dt,
 f
-(𝐖-\infty𝐖,𝐖x]
+( -\infty, x]
 f
 F
-F(x)𝐖=\{\int𝐖_{𝐖-\infty𝐖}^x𝐖0dt𝐖&𝐖\~if\~x𝐖\lt𝐖1𝐖\\𝐖\int𝐖_{𝐖-\infty𝐖}^1𝐖0dt𝐖+\int𝐖_1^x𝐖\frac{1}{t^2𝐖}dt𝐖&𝐖\~if\~x𝐖\ge𝐖1.𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
-F(x)𝐖=\{0𝐖&𝐖\~if\~x𝐖\lt𝐖1𝐖\\𝐖1𝐖-\frac{1}{x}𝐖&𝐖\~if\~x𝐖\ge𝐖1.𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
-P(1𝐖\lt𝐖X𝐖\lt𝐖3)𝐖.
-P(1𝐖\lt𝐖X𝐖\lt𝐖3)𝐖=\int𝐖_1^3𝐖f(x)dx𝐖=F(3)𝐖-F(1),𝐖
-P(1𝐖\lt𝐖X𝐖\lt𝐖3)𝐖=(1𝐖-1/3)𝐖-(1𝐖-1/1)𝐖=2/3.
+F(x) =\{\int_{ -\infty}^x 0dt & \~if\~x \lt 1 \\ \int_{ -\infty}^1 0dt +\int_1^x \frac{1}{t^2}dt & \~if\~x \ge 1. \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+F(x) =\{0 & \~if\~x \lt 1 \\ 1 -\frac{1}{x} & \~if\~x \ge 1. \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+P(1 \lt X \lt 3) .
+P(1 \lt X \lt 3) =\int_1^3 f(x)dx =F(3) -F(1),
+P(1 \lt X \lt 3) =(1 -1/3) -(1 -1/1) =2/3.
 X
-f(x),𝐖
+f(x),
 X
-E(X),𝐖
-E(X)𝐖=\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖x𝐖\cdot𝐖f(x)dx,𝐖
+E(X),
+E(X) =\int_{ -\infty}^\infty x \cdot f(x)dx,
 E(X)
 X
-\mu𝐖_X𝐖,𝐖
-\mu𝐖
+\mu_X,
+\mu
 X
 g(X)
 X
-E(g(X))𝐖=\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖g(x)𝐖\cdot𝐖f(x)dx,𝐖
+E(g(X)) =\int_{ -\infty}^\infty g(x) \cdot f(x)dx,
 X
-V(X)𝐖=E((X𝐖-\mu𝐖_X𝐖)^2𝐖),𝐖
-V(X)𝐖=E(X^2𝐖)𝐖-E(X)^2𝐖,𝐖
+V(X) =E((X -\mu_X)^2),
+V(X) =E(X^2) -E(X)^2,
 E(X)
 V(X)
 X
 X
-f(x)𝐖=3x^2𝐖/8
-0𝐖\le𝐖x𝐖\le𝐖2
-E(X)𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_0^2𝐖x𝐖\cdot𝐖3x^2𝐖/8dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{3}{8}\int𝐖_0^2𝐖x^3𝐖dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{3}{8}\frac{1}{4}x^4𝐖|𝐖_0^2𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{3}{2}𝐖.
-E(X^2𝐖)
-E(X^2𝐖)𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_0^2𝐖x^2𝐖𝐖\cdot𝐖3x^2𝐖/8dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{3}{8}\int𝐖_0^2𝐖x^4𝐖dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{3}{8}\frac{1}{5}x^5𝐖|𝐖_0^2𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{12}{5}𝐖.
-V(X)𝐖&𝐖\lt𝐖mi/>𝐖=E(X^2𝐖)𝐖-E(X)^2𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=(12/5)𝐖-(3/2)^2𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=0.15.
+f(x) =3x^2 /8
+0 \le x \le 2
+E(X) & \lt mi/> =\int_0^2 x \cdot 3x^2 /8dx \\ \~ & \lt mi/> =\frac{3}{8}\int_0^2 x^3 dx \\ \~ & \lt mi/> =\frac{3}{8}\frac{1}{4}x^4 |_0^2 \\ \~ & \lt mi/> =\frac{3}{2} .
+E(X^2)
+E(X^2) & \lt mi/> =\int_0^2 x^2 \cdot 3x^2 /8dx \\ \~ & \lt mi/> =\frac{3}{8}\int_0^2 x^4 dx \\ \~ & \lt mi/> =\frac{3}{8}\frac{1}{5}x^5 |_0^2 \\ \~ & \lt mi/> =\frac{12}{5} .
+V(X) & \lt mi/> =E(X^2) -E(X)^2 \\ \~ & \lt mi/> =(12/5) -(3/2)^2 \\ \~ & \lt mi/> =0.15.
 X
-c𝐖\in𝐖\mathbb𝐖R𝐖
-g,𝐖
-g_1𝐖,𝐖
-g_2𝐖
+c \in \mathbb R
+g,
+g_1,
+g_2
 X
-E(c)𝐖=c
-E(c𝐖\cdot𝐖g(X))𝐖=cE(g(X))
-E(g_1𝐖(X)𝐖\pm𝐖g_2𝐖(X))𝐖=E(g_1𝐖(X)𝐖\pm𝐖g_2𝐖(X))
-c,𝐖
-E(c)𝐖=\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖c𝐖\cdot𝐖f(x)dx𝐖=c\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖f(x)dx,𝐖
+E(c) =c
+E(c \cdot g(X)) =cE(g(X))
+E(g_1 (X) \pm g_2 (X)) =E(g_1 (X) \pm g_2 (X))
+c,
+E(c) =\int_{ -\infty}^\infty c \cdot f(x)dx =c\int_{ -\infty}^\infty f(x)dx,
 X
-E(X)𝐖=\mu𝐖
-V(X)𝐖=\sigma𝐖^2𝐖,𝐖
-a,𝐖b
-E(aX𝐖+b)𝐖=aE(X)𝐖+b𝐖=a\mu𝐖𝐖+b𝐖.
-V(aX𝐖+b)𝐖=a^2𝐖V(X)𝐖=a^2𝐖\sigma𝐖^2𝐖𝐖.
-Y𝐖=aX𝐖+b
-E(Y)𝐖=a\mu𝐖𝐖+b,𝐖
-V(Y)𝐖&𝐖\lt𝐖mi/>𝐖=E((Y𝐖-(a\mu𝐖𝐖+b))^2𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=E(((aX𝐖+b)𝐖-(a\mu𝐖𝐖+b))^2𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=E((aX𝐖-a\mu𝐖)^2𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=a^2𝐖E((X𝐖-\mu𝐖)^2𝐖)
-E((X𝐖-\mu𝐖)^2𝐖)𝐖=V(X)
+E(X) =\mu
+V(X) =\sigma^2,
+a, b
+E(aX +b) =aE(X) +b =a\mu +b .
+V(aX +b) =a^2 V(X) =a^2 \sigma^2 .
+Y =aX +b
+E(Y) =a\mu +b,
+V(Y) & \lt mi/> =E((Y -(a\mu +b))^2) \\ \~ & \lt mi/> =E(((aX +b) -(a\mu +b))^2) \\ \~ & \lt mi/> =E((aX -a\mu)^2) \\ \~ & \lt mi/> =a^2 E((X -\mu)^2)
+E((X -\mu)^2) =V(X)
 X
-f(x)𝐖=\{1.5x^2𝐖𝐖+x𝐖&𝐖\~if\~0𝐖\le𝐖x𝐖\le𝐖1𝐖\\𝐖0𝐖&𝐖\~else.\~𝐖\lt𝐖mo\space𝐖fence="true"\space𝐖stretchy="true"\space𝐖symmetric="true"/>
-W𝐖=5𝐖-0.5X
+f(x) =\{1.5x^2 +x & \~if\~0 \le x \le 1 \\ 0 & \~else.\~ \lt mo\space fence="true"\space stretchy="true"\space symmetric="true"/>
+W =5 -0.5X
 W
 X
-E(X)𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_0^1𝐖x𝐖\cdot𝐖(1.5x^2𝐖𝐖+x)dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_0^1𝐖1.5x^3𝐖𝐖+x^2𝐖dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1.5}{4}x^4𝐖𝐖+\frac{1}{3}x^3𝐖|𝐖_0^1𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{17}{24}𝐖.
-E(X^2𝐖)𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_0^1𝐖x^2𝐖𝐖\cdot𝐖(1.5x^2𝐖𝐖+x)dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_0^1𝐖1.5x^4𝐖𝐖+x^3𝐖dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1.5}{5}x^5𝐖𝐖+\frac{1}{4}x^4𝐖|𝐖_0^1𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{11}{20}𝐖.
-V(X)𝐖=(11/20)𝐖-(17/24)^2𝐖𝐖\approx𝐖0.0483.
-E(W)𝐖=E(5𝐖-0.5X)𝐖=5𝐖-0.5E(X)𝐖=5𝐖-0.5𝐖\cdot𝐖(17/24)𝐖=4.65,𝐖
-V(W)𝐖=V(5𝐖-0.5X)𝐖=0.25V(X)𝐖\approx𝐖0.012,𝐖
-\sigma𝐖𝐖=\sqrt{V(W)}𝐖\approx𝐖0.11
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+E(X) & \lt mi/> =\int_0^1 x \cdot (1.5x^2 +x)dx \\ \~ & \lt mi/> =\int_0^1 1.5x^3 +x^2 dx \\ \~ & \lt mi/> =\frac{1.5}{4}x^4 +\frac{1}{3}x^3 |_0^1 \\ \~ & \lt mi/> =\frac{17}{24} .
+E(X^2) & \lt mi/> =\int_0^1 x^2 \cdot (1.5x^2 +x)dx \\ \~ & \lt mi/> =\int_0^1 1.5x^4 +x^3 dx \\ \~ & \lt mi/> =\frac{1.5}{5}x^5 +\frac{1}{4}x^4 |_0^1 \\ \~ & \lt mi/> =\frac{11}{20} .
+V(X) =(11/20) -(17/24)^2 \approx 0.0483.
+E(W) =E(5 -0.5X) =5 -0.5E(X) =5 -0.5 \cdot (17/24) =4.65,
+V(W) =V(5 -0.5X) =0.25V(X) \approx 0.012,
+\sigma =\sqrt{V(W)} \approx 0.11
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
 X
 X
-\pi𝐖
+\pi
 F(X)
 A
 B
 m
 n
-A𝐖\cup𝐖B
-m𝐖+n
+A \cup B
+m +n
 A
 m
 B
 n
-m𝐖\cdot𝐖n
-15𝐖\cdot𝐖15𝐖=225
+m \cdot n
+15 \cdot 15 =225
 k
-n_1𝐖,𝐖n_2𝐖,𝐖\ldots𝐖,𝐖n_k𝐖
-n_1𝐖𝐖\cdot𝐖n_2𝐖𝐖\cdot𝐖\cdots𝐖𝐖\cdot𝐖n_k𝐖
-15^2𝐖
-5𝐖\cdot𝐖7𝐖\cdot𝐖4𝐖=140
-\underset{\textasciimacron𝐖}{\~}\underset{\textasciimacron𝐖}{\~}\underset{\textasciimacron𝐖}{\~}\underset{\textasciimacron𝐖}{\~}\underset{\textasciimacron𝐖}{\~}\underset{\textasciimacron𝐖}{\~}
-\underset{\textasciimacron𝐖}{36}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{36}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{36}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{36}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{36}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{36}𝐖=36^6𝐖𝐖=2,𝐖176,𝐖782,𝐖336,𝐖
-\underset{\textasciimacron𝐖}{8}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{10}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{10}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{10}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{10}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{10}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{10}𝐖=8𝐖\cdot𝐖10^6𝐖,𝐖
-\underset{\textasciimacron𝐖}{13}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{12}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{11}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{10}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{9}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{8}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{7}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{6}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{5}𝐖=259,𝐖459,𝐖200.
-\underset{\textasciimacron𝐖}{\~}\underset{\textasciimacron𝐖}{\~}\underset{\textasciimacron𝐖}{\~}\underset{\textasciimacron𝐖}{\~}
-\underset{\textasciimacron𝐖}{3}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{4}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{3}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{2}𝐖=72
+n_1, n_2, \ldots, n_k
+n_1 \cdot n_2 \cdot \cdots \cdot n_k
+15^2
+5 \cdot 7 \cdot 4 =140
+\underset{\textasciimacron}{\~}\underset{\textasciimacron}{\~}\underset{\textasciimacron}{\~}\underset{\textasciimacron}{\~}\underset{\textasciimacron}{\~}\underset{\textasciimacron}{\~}
+\underset{\textasciimacron}{36} \cdot \underset{\textasciimacron}{36} \cdot \underset{\textasciimacron}{36} \cdot \underset{\textasciimacron}{36} \cdot \underset{\textasciimacron}{36} \cdot \underset{\textasciimacron}{36} =36^6 =2, 176, 782, 336,
+\underset{\textasciimacron}{8} \cdot \underset{\textasciimacron}{10} \cdot \underset{\textasciimacron}{10} \cdot \underset{\textasciimacron}{10} \cdot \underset{\textasciimacron}{10} \cdot \underset{\textasciimacron}{10} \cdot \underset{\textasciimacron}{10} =8 \cdot 10^6,
+\underset{\textasciimacron}{13} \cdot \underset{\textasciimacron}{12} \cdot \underset{\textasciimacron}{11} \cdot \underset{\textasciimacron}{10} \cdot \underset{\textasciimacron}{9} \cdot \underset{\textasciimacron}{8} \cdot \underset{\textasciimacron}{7} \cdot \underset{\textasciimacron}{6} \cdot \underset{\textasciimacron}{5} =259, 459, 200.
+\underset{\textasciimacron}{\~}\underset{\textasciimacron}{\~}\underset{\textasciimacron}{\~}\underset{\textasciimacron}{\~}
+\underset{\textasciimacron}{3} \cdot \underset{\textasciimacron}{4} \cdot \underset{\textasciimacron}{3} \cdot \underset{\textasciimacron}{2} =72
 k
 A
-M𝐖=\{
+M =\{
 \}
-\underset{\textasciimacron𝐖}{4}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{4}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{4}𝐖=4^3𝐖𝐖=64.
-\underset{\textasciimacron𝐖}{4}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{3}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{2}𝐖=24.
+\underset{\textasciimacron}{4} \cdot \underset{\textasciimacron}{4} \cdot \underset{\textasciimacron}{4} =4^3 =64.
+\underset{\textasciimacron}{4} \cdot \underset{\textasciimacron}{3} \cdot \underset{\textasciimacron}{2} =24.
 n
 r
-P_r^n𝐖
-P_r^n𝐖
+P_r^n
+P_r^n
 r
 n
-P_9^{13}𝐖𝐖=259,𝐖459,𝐖200.
-P_r^n𝐖𝐖=n𝐖\cdot𝐖(n𝐖-1)𝐖\cdot𝐖\cdots𝐖𝐖\cdot𝐖(n𝐖-r𝐖+1),𝐖
-P_r^n𝐖
+P_9^{13} =259, 459, 200.
+P_r^n =n \cdot (n -1) \cdot \cdots \cdot (n -r +1),
+P_r^n
 n!
-\lt𝐖mo/>
-n!𝐖=n𝐖\cdot𝐖(n𝐖-1)𝐖\cdot𝐖\cdots𝐖𝐖\cdot𝐖2𝐖\cdot𝐖1.
-5!𝐖=5𝐖\cdot𝐖4𝐖\cdot𝐖3𝐖\cdot𝐖2𝐖\cdot𝐖1𝐖=120
-0!𝐖=1
-n!𝐖=n𝐖\cdot𝐖(n𝐖-1)!,𝐖
-\frac{n!}{(n𝐖-1)!}𝐖=n
-P_r^n𝐖
-(4.1)𝐖&𝐖P_r^n𝐖𝐖=\frac{n!}{(n𝐖-r)!}𝐖.
-4!𝐖=24
-C_r^n𝐖
+\lt mo/>
+n! =n \cdot (n -1) \cdot \cdots \cdot 2 \cdot 1.
+5! =5 \cdot 4 \cdot 3 \cdot 2 \cdot 1 =120
+0! =1
+n! =n \cdot (n -1)!,
+\frac{n!}{(n -1)!} =n
+P_r^n
+(4.1) & P_r^n =\frac{n!}{(n -r)!} .
+4! =24
+C_r^n
 r
 n
 \binom{n}{k}
 \binom{4}{2}
-\binom{4}{2}𝐖=6
-\{A,𝐖B,𝐖C,𝐖D\}
-\{A,𝐖B\},𝐖
-\{A,𝐖C\},𝐖
-\{A,𝐖D\},𝐖
-\{B,𝐖C\},𝐖
-\{B,𝐖D\},𝐖
-\{C,𝐖D\}
+\binom{4}{2} =6
+\{A, B, C, D\}
+\{A, B\},
+\{A, C\},
+\{A, D\},
+\{B, C\},
+\{B, D\},
+\{C, D\}
 \binom{n}{r}
-(4.2)𝐖&𝐖C_r^n𝐖𝐖=\binom{n}{r}𝐖=\frac{n!}{(n𝐖-r)!𝐖\cdot𝐖r!}𝐖.
+(4.2) & C_r^n =\binom{n}{r} =\frac{n!}{(n -r)! \cdot r!} .
 r
 n
 r
@@ -1674,53 +1674,53 @@ n
 r
 r!
 r
-n,𝐖
-\binom{n}{r}𝐖\cdot𝐖r!
+n,
+\binom{n}{r} \cdot r!
 r
-n,𝐖
-P_r^n𝐖,𝐖
-P_r^n𝐖𝐖=\binom{n}{r}𝐖\cdot𝐖r!,𝐖
-P_r^n𝐖𝐖=n!/(n𝐖-r)!,𝐖
-C_r^n𝐖𝐖=\binom{n}{r}𝐖=\frac{n!}{(n𝐖-r)!𝐖\cdot𝐖r!}𝐖.
+n,
+P_r^n,
+P_r^n =\binom{n}{r} \cdot r!,
+P_r^n =n!/(n -r)!,
+C_r^n =\binom{n}{r} =\frac{n!}{(n -r)! \cdot r!} .
 \binom{n}{r}
-n𝐖\ge𝐖1
-0𝐖\le𝐖r𝐖\le𝐖n
-\binom{n}{0}𝐖=1
-\binom{n}{1}𝐖=n
-\binom{n}{n}𝐖=1.
-\binom{n}{r}𝐖=\binom{n}{n𝐖-r}
-\binom{n}{r}𝐖=\binom{n𝐖-1}{r𝐖-1}𝐖+\binom{n𝐖-1}{r}
-x,𝐖y
-n𝐖\in𝐖\mathbb𝐖N𝐖,𝐖
-(x𝐖+y)^n𝐖𝐖=\sum𝐖_{r𝐖=0}^n𝐖\binom{n}{r}x^{n𝐖-r}𝐖y^r𝐖𝐖.
-\sum𝐖_{r𝐖=0}^n𝐖\binom{n}{r}𝐖=2^n𝐖𝐖.
+n \ge 1
+0 \le r \le n
+\binom{n}{0} =1
+\binom{n}{1} =n
+\binom{n}{n} =1.
+\binom{n}{r} =\binom{n}{n -r}
+\binom{n}{r} =\binom{n -1}{r -1} +\binom{n -1}{r}
+x, y
+n \in \mathbb N,
+(x +y)^n =\sum_{r =0}^n \binom{n}{r}x^{n -r} y^r .
+\sum_{r =0}^n \binom{n}{r} =2^n .
 \binom{n}{k}
-\binom{7}{3}𝐖=35
-\binom{7}{3}𝐖&𝐖\lt𝐖mi/>𝐖=\frac{7!}{4!𝐖\cdot𝐖3!}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{7𝐖\cdot𝐖6𝐖\cdot𝐖5𝐖\cdot𝐖4!}{4!𝐖\cdot𝐖3!}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{7𝐖\cdot𝐖6𝐖\cdot𝐖5}{3!}𝐖&𝐖\~canceling\space𝐖the\~4!\~terms𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{7𝐖\cdot𝐖6𝐖\cdot𝐖5}{6}𝐖&𝐖\~since\~3!𝐖=6𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=7𝐖\cdot𝐖5𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=35.
+\binom{7}{3} =35
+\binom{7}{3} & \lt mi/> =\frac{7!}{4! \cdot 3!} \\ \~ & \lt mi/> =\frac{7 \cdot 6 \cdot 5 \cdot 4!}{4! \cdot 3!} \\ \~ & \lt mi/> =\frac{7 \cdot 6 \cdot 5}{3!} & \~canceling\space the\~4!\~terms \\ \~ & \lt mi/> =\frac{7 \cdot 6 \cdot 5}{6} & \~since\~3! =6 \\ \~ & \lt mi/> =7 \cdot 5 \\ \~ & \lt mi/> =35.
 \binom{20}{8}
-\binom{20}{8}𝐖=125,970
+\binom{20}{8} =125,970
 \binom{20}{12}
-\binom{20}{5}𝐖=\frac{20!}{15!𝐖\cdot𝐖5!}𝐖=15,𝐖504.
+\binom{20}{5} =\frac{20!}{15! \cdot 5!} =15, 504.
 A
-A,𝐖
-|𝐖A|
-|𝐖\overline{A}|,𝐖
+A,
+| A|
+| \overline{A}|,
 A
-|𝐖\overline{A}|𝐖=\binom{17}{5}𝐖=6188.
-\underset{\textasciimacron𝐖}{20}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{19}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{18}𝐖\cdot𝐖\underset{\textasciimacron𝐖}{17}𝐖=116,280
+| \overline{A}| =\binom{17}{5} =6188.
+\underset{\textasciimacron}{20} \cdot \underset{\textasciimacron}{19} \cdot \underset{\textasciimacron}{18} \cdot \underset{\textasciimacron}{17} =116,280
 \binom{20}{4}
-\binom{20}{4}𝐖\cdot𝐖20𝐖=\frac{20𝐖\cdot𝐖19𝐖\cdot𝐖18𝐖\cdot𝐖17}{4!}𝐖\cdot𝐖20𝐖=96,𝐖900.
-\binom{52}{5}𝐖=\frac{52!}{47!𝐖\cdot𝐖5!}𝐖=2,𝐖595,𝐖960.
+\binom{20}{4} \cdot 20 =\frac{20 \cdot 19 \cdot 18 \cdot 17}{4!} \cdot 20 =96, 900.
+\binom{52}{5} =\frac{52!}{47! \cdot 5!} =2, 595, 960.
 \binom{4}{3}
 \binom{12}{2}
-4𝐖\cdot𝐖4
-13𝐖\cdot𝐖\binom{4}{3}𝐖\cdot𝐖\binom{12}{2}𝐖\cdot𝐖4𝐖\cdot𝐖4𝐖=54912.
-\frac{54912}{\binom{52}{5}}𝐖\approx𝐖0.021.
-\binom{13}{1}𝐖=13
+4 \cdot 4
+13 \cdot \binom{4}{3} \cdot \binom{12}{2} \cdot 4 \cdot 4 =54912.
+\frac{54912}{\binom{52}{5}} \approx 0.021.
+\binom{13}{1} =13
 \binom{4}{3}
-\binom{12}{1}𝐖=12
+\binom{12}{1} =12
 \binom{4}{2}
-\binom{13}{1}𝐖\cdot𝐖\binom{4}{3}𝐖\cdot𝐖\binom{12}{1}𝐖\cdot𝐖\binom{4}{2}𝐖=3744
+\binom{13}{1} \cdot \binom{4}{3} \cdot \binom{12}{1} \cdot \binom{4}{2} =3744
 \binom{13}{2}
 \binom{4}{2}
 \binom{4}{2}
@@ -1730,1176 +1730,1176 @@ A
 \binom{12}{1}
 \binom{4}{2}
 \binom{44}{1}
-\binom{13}{2}𝐖\cdot𝐖\binom{4}{2}𝐖\cdot𝐖\binom{4}{2}𝐖\cdot𝐖\binom{44}{1}𝐖=123552.
-\binom{13}{1}𝐖\cdot𝐖\binom{4}{2}𝐖\cdot𝐖\binom{12}{1}𝐖\cdot𝐖\binom{4}{2}𝐖\cdot𝐖\binom{44}{1}𝐖=247104.
+\binom{13}{2} \cdot \binom{4}{2} \cdot \binom{4}{2} \cdot \binom{44}{1} =123552.
+\binom{13}{1} \cdot \binom{4}{2} \cdot \binom{12}{1} \cdot \binom{4}{2} \cdot \binom{44}{1} =247104.
 \binom{n}{r}
 r
 n
 \binom{n}{r}
 n
 r
-n𝐖-r
+n -r
 k
-k𝐖\ge𝐖2
-\binom{n}{n_1𝐖,𝐖n_2𝐖,𝐖\cdots𝐖,𝐖n_k𝐖}
+k \ge 2
+\binom{n}{n_1, n_2, \cdots, n_k}
 n
 k
-n_1𝐖,𝐖n_2𝐖,𝐖\ldots𝐖,𝐖n_k𝐖,𝐖
-n_1𝐖𝐖+n_2𝐖𝐖+\cdots𝐖𝐖+n_k𝐖𝐖=n
-(4.3)𝐖&𝐖\binom{n}{n_1𝐖,𝐖n_2𝐖,𝐖\cdots𝐖,𝐖n_k𝐖}𝐖=\frac{n!}{n_1𝐖!𝐖\cdot𝐖n_2𝐖!𝐖\cdot𝐖\cdots𝐖𝐖\cdot𝐖n_k𝐖!}
+n_1, n_2, \ldots, n_k,
+n_1 +n_2 +\cdots +n_k =n
+(4.3) & \binom{n}{n_1, n_2, \cdots, n_k} =\frac{n!}{n_1 ! \cdot n_2 ! \cdot \cdots \cdot n_k !}
 \binom{n}{r}
-\binom{n}{r,𝐖n𝐖-r}
-\binom{15}{3,𝐖3,𝐖3,𝐖3,𝐖3}𝐖=\frac{15!}{(3!)^5𝐖}𝐖=168,168,000
+\binom{n}{r, n -r}
+\binom{15}{3, 3, 3, 3, 3} =\frac{15!}{(3!)^5} =168,168,000
 7!
 \binom{5}{2}
-\binom{3}{3}𝐖=1
-7𝐖\cdot𝐖6𝐖\cdot𝐖\binom{5}{2}𝐖\cdot𝐖33𝐖=420
-\binom{7}{3,𝐖2,𝐖1,𝐖1}𝐖=420
-n_i𝐖
+\binom{3}{3} =1
+7 \cdot 6 \cdot \binom{5}{2} \cdot 33 =420
+\binom{7}{3, 2, 1, 1} =420
+n_i
 i
 i
-(n_1𝐖,𝐖n_2𝐖,𝐖\ldots𝐖,𝐖n_8𝐖)
-n_i𝐖𝐖\ge𝐖1
-n_i𝐖
+(n_1, n_2, \ldots, n_8)
+n_i \ge 1
+n_i
 n
 r
-\binom{n𝐖+r𝐖-1}{r𝐖-1}𝐖.
-\underset{\textasciimacron𝐖}{|𝐖\~oo\~|}\underset{\textasciimacron𝐖}{|𝐖\~oooo\~|}\underset{\textasciimacron𝐖}{|𝐖\~oo\~|}
-\underset{\textasciimacron𝐖}{|𝐖\~oo\~|\~oooo\~|𝐖\~oo\~|}
-oo|𝐖oooo|oo
+\binom{n +r -1}{r -1} .
+\underset{\textasciimacron}{| \~oo\~|}\underset{\textasciimacron}{| \~oooo\~|}\underset{\textasciimacron}{| \~oo\~|}
+\underset{\textasciimacron}{| \~oo\~|\~oooo\~| \~oo\~|}
+oo| oooo|oo
 \binom{10}{2}
 n
 r
-r𝐖-1
-\binom{n𝐖+r𝐖-1}{r𝐖-1}𝐖.
-\binom{30𝐖+8𝐖-1}{8𝐖-1}𝐖=\binom{37}{7},𝐖
-\binom{22𝐖+8𝐖-1}{8𝐖-1}𝐖=\binom{29}{7},𝐖
+r -1
+\binom{n +r -1}{r -1} .
+\binom{30 +8 -1}{8 -1} =\binom{37}{7},
+\binom{22 +8 -1}{8 -1} =\binom{29}{7},
 A
-S,𝐖
+S,
 S
 A
 A
 S
-P(A)𝐖=\frac{|𝐖A|}{|𝐖S|}𝐖.
+P(A) =\frac{| A|}{| S|} .
 S
-|𝐖S|𝐖=\binom{8}{4}𝐖.
+| S| =\binom{8}{4} .
 A
-\binom{3}{3}𝐖=1
-\binom{5}{1}𝐖=5.
-|𝐖A|
-P(|A|)𝐖&𝐖\lt𝐖mi/>𝐖=\frac{5}{(8𝐖\cdot𝐖7𝐖\cdot𝐖6𝐖\cdot𝐖5)/4!}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{4!}{8𝐖\cdot𝐖7𝐖\cdot𝐖6}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{4𝐖\cdot𝐖3𝐖\cdot𝐖2}{8𝐖\cdot𝐖7𝐖\cdot𝐖6}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{3}{7𝐖\cdot𝐖6}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{7𝐖\cdot𝐖2}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{14}𝐖.
+\binom{3}{3} =1
+\binom{5}{1} =5.
+| A|
+P(|A|) & \lt mi/> =\frac{5}{(8 \cdot 7 \cdot 6 \cdot 5)/4!} \\ \~ & \lt mi/> =\frac{4!}{8 \cdot 7 \cdot 6} \\ \~ & \lt mi/> =\frac{4 \cdot 3 \cdot 2}{8 \cdot 7 \cdot 6} \\ \~ & \lt mi/> =\frac{3}{7 \cdot 6} \\ \~ & \lt mi/> =\frac{1}{7 \cdot 2} \\ \~ & \lt mi/> =\frac{1}{14} .
 S
-|𝐖S|𝐖=\binom{8}{3}𝐖=56.
-A,𝐖
-|𝐖A|𝐖=\binom{2}{2}𝐖\cdot𝐖\binom{6}{1}𝐖=6
-P(A)𝐖=\frac{6}{56},𝐖
+| S| =\binom{8}{3} =56.
+A,
+| A| =\binom{2}{2} \cdot \binom{6}{1} =6
+P(A) =\frac{6}{56},
 S
-|𝐖S|𝐖=\binom{3000}{50}𝐖.
+| S| =\binom{3000}{50} .
 A
-\binom{2925}{50}𝐖\cdot𝐖\binom{75}{0}𝐖.
-\binom{2925}{49}𝐖\cdot𝐖\binom{75}{1}𝐖.
-\binom{2925}{48}𝐖\cdot𝐖\binom{75}{2}𝐖.
-|𝐖A|𝐖=|𝐖S|𝐖-[\binom{2925}{50}𝐖\cdot𝐖\binom{75}{0}𝐖+\binom{2925}{49}𝐖\cdot𝐖\binom{75}{1}𝐖+\binom{2925}{48}𝐖\cdot𝐖\binom{75}{2}],𝐖
-P(A)𝐖=\frac{|𝐖A|}{|𝐖S|}𝐖\approx𝐖0.1279.
-S𝐖=\{all\space𝐖possible\space𝐖5\space𝐖card\space𝐖hands\},𝐖
-|𝐖S|𝐖=\binom{52}{5}
-9𝐖\cdot𝐖4𝐖=36
-P(Straight\space𝐖Flush)𝐖=\frac{36}{\binom{52}{5}}𝐖\approx𝐖0.00001385.
-9𝐖\cdot𝐖4^5𝐖
-9𝐖\cdot𝐖4^5𝐖𝐖-36𝐖=9180
-P(Straight)𝐖=\frac{9180}{\binom{52}{5}}𝐖\approx𝐖0.00353.
+\binom{2925}{50} \cdot \binom{75}{0} .
+\binom{2925}{49} \cdot \binom{75}{1} .
+\binom{2925}{48} \cdot \binom{75}{2} .
+| A| =| S| -[\binom{2925}{50} \cdot \binom{75}{0} +\binom{2925}{49} \cdot \binom{75}{1} +\binom{2925}{48} \cdot \binom{75}{2}],
+P(A) =\frac{| A|}{| S|} \approx 0.1279.
+S =\{all\space possible\space 5\space card\space hands\},
+| S| =\binom{52}{5}
+9 \cdot 4 =36
+P(Straight\space Flush) =\frac{36}{\binom{52}{5}} \approx 0.00001385.
+9 \cdot 4^5
+9 \cdot 4^5 -36 =9180
+P(Straight) =\frac{9180}{\binom{52}{5}} \approx 0.00353.
 \binom{4}{1}
 \binom{13}{5}
-\binom{4}{1}𝐖\cdot𝐖\binom{13}{5}𝐖=5148
-5148𝐖-36𝐖=5112.
-P(Flush)𝐖=\frac{5112}{\binom{52}{5}}𝐖=.00197𝐖.
+\binom{4}{1} \cdot \binom{13}{5} =5148
+5148 -36 =5112.
+P(Flush) =\frac{5112}{\binom{52}{5}} =.00197 .
 S
-|𝐖S|𝐖=10^3𝐖𝐖\cdot𝐖26^3𝐖,𝐖
+| S| =10^3 \cdot 26^3,
 A
-\binom{3}{2}𝐖=3
+\binom{3}{2} =3
 9
-26^3𝐖
-P(A)𝐖=\frac{3𝐖\cdot𝐖9𝐖\cdot𝐖26^3𝐖}{10^3𝐖𝐖\cdot𝐖26^3𝐖}𝐖=\frac{27}{1000}𝐖=0.027.
+26^3
+P(A) =\frac{3 \cdot 9 \cdot 26^3}{10^3 \cdot 26^3} =\frac{27}{1000} =0.027.
 S
-(4,𝐖5,𝐖2,𝐖9,𝐖5)
-S,𝐖
-|𝐖S|𝐖=10^5𝐖
-A𝐖=\{roll\space𝐖7\space𝐖or\space𝐖lower\space𝐖in\space𝐖the\space𝐖first\space𝐖four\space𝐖rolls\space𝐖and\space𝐖8\space𝐖or\space𝐖higher\space𝐖on\space𝐖the\space𝐖5th\}𝐖.
-|𝐖A|𝐖=7^4𝐖𝐖\cdot𝐖3
-P(A)𝐖=\frac{7^4𝐖𝐖\cdot𝐖3}{10^5𝐖}𝐖.
+(4, 5, 2, 9, 5)
+S,
+| S| =10^5
+A =\{roll\space 7\space or\space lower\space in\space the\space first\space four\space rolls\space and\space 8\space or\space higher\space on\space the\space 5th\} .
+| A| =7^4 \cdot 3
+P(A) =\frac{7^4 \cdot 3}{10^5} .
 S
-|𝐖S|𝐖&𝐖\lt𝐖mi/>𝐖=\binom{12}{5,𝐖4,𝐖3}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{12!}{5!𝐖\cdot𝐖4!𝐖\cdot𝐖3!}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{12𝐖\cdot𝐖11𝐖\cdot𝐖10𝐖\cdot𝐖9𝐖\cdot𝐖8𝐖\cdot𝐖7𝐖\cdot𝐖6}{24𝐖\cdot𝐖6}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=27,𝐖720.
-A,𝐖
-|𝐖A|
-\binom{10}{3,𝐖4,𝐖3}
-\binom{10}{5,𝐖2,𝐖3}𝐖.
-\binom{10}{5,𝐖4,𝐖1}
-|𝐖A|𝐖=\binom{10}{3,𝐖4,𝐖3}𝐖+\binom{10}{5,𝐖2,𝐖3}𝐖+\binom{10}{5,𝐖4,𝐖1},𝐖
-|𝐖A|𝐖=7980
-P(A)𝐖=\frac{7980}{27720}𝐖\approx𝐖0.288.
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+| S| & \lt mi/> =\binom{12}{5, 4, 3} \\ \~ & \lt mi/> =\frac{12!}{5! \cdot 4! \cdot 3!} \\ \~ & \lt mi/> =\frac{12 \cdot 11 \cdot 10 \cdot 9 \cdot 8 \cdot 7 \cdot 6}{24 \cdot 6} \\ \~ & \lt mi/> =27, 720.
+A,
+| A|
+\binom{10}{3, 4, 3}
+\binom{10}{5, 2, 3} .
+\binom{10}{5, 4, 1}
+| A| =\binom{10}{3, 4, 3} +\binom{10}{5, 2, 3} +\binom{10}{5, 4, 1},
+| A| =7980
+P(A) =\frac{7980}{27720} \approx 0.288.
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
 X
 X
-\pi𝐖
+\pi
 F(X)
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
 X
 X
-\pi𝐖
+\pi
 F(X)
 p(x)
-P(X𝐖\le𝐖q)
+P(X \le q)
 x
-P(X𝐖\le𝐖x)𝐖=p
+P(X \le x) =p
 n
-X𝐖\sim𝐖\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(n,𝐖p)
+X \sim \mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (n, p)
 X
 n
 p
 X
-x𝐖=0,𝐖1,𝐖\ldots𝐖,𝐖n
-x𝐖=0,𝐖1,𝐖\ldots𝐖,𝐖n,𝐖
-p(x)𝐖=\binom{n}{x}p^x𝐖(1𝐖-p)^{n𝐖-x}𝐖𝐖.
-P(X𝐖=x)
-X𝐖\sim𝐖\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(n,𝐖p)
-\binom{5}{2}(.3)^2𝐖(.7)^3𝐖𝐖.
-P(X𝐖\le𝐖q)
-X𝐖\sim𝐖binom(n,𝐖p)
-\sum𝐖_{x𝐖=0}^q𝐖p(x)𝐖=\sum𝐖_{x𝐖=0}^q𝐖\binom{n}{x}p^x𝐖(1𝐖-p)^{n𝐖-x}𝐖𝐖.
-P(X𝐖\le𝐖2)
+x =0, 1, \ldots, n
+x =0, 1, \ldots, n,
+p(x) =\binom{n}{x}p^x (1 -p)^{n -x} .
+P(X =x)
+X \sim \mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (n, p)
+\binom{5}{2}(.3)^2 (.7)^3 .
+P(X \le q)
+X \sim binom(n, p)
+\sum_{x =0}^q p(x) =\sum_{x =0}^q \binom{n}{x}p^x (1 -p)^{n -x} .
+P(X \le 2)
 X
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(5,𝐖.3)
-0𝐖\lt𝐖p𝐖\lt𝐖1,𝐖
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (5, .3)
+0 \lt p \lt 1,
 p
-X,𝐖
-\phi𝐖_p𝐖,𝐖
-P(X𝐖\le𝐖\phi𝐖_p𝐖)𝐖\ge𝐖p
-\phi𝐖_p𝐖
+X,
+\phi_p,
+P(X \le \phi_p) \ge p
+\phi_p
 X
-\phi𝐖_q𝐖
-X𝐖\sim𝐖\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(n,𝐖p)
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(100,𝐖.5)
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(20,𝐖.4)
+\phi_q
+X \sim \mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (n, p)
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (100, .5)
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (20, .4)
 X
-p,𝐖
-q𝐖=1𝐖-p
+p,
+q =1 -p
 X
 p
 X
 (p)
 X
-x𝐖=1,𝐖2,𝐖\ldots𝐖
-x𝐖=1,𝐖2,𝐖3,𝐖\ldots𝐖,𝐖
-p(x)𝐖=q^{x𝐖-1}𝐖p𝐖.
-x,𝐖
-p𝐖=.3
-p𝐖=.3
+x =1, 2, \ldots
+x =1, 2, 3, \ldots,
+p(x) =q^{x -1} p .
+x,
+p =.3
+p =.3
 X
 X
-p𝐖=1/6,𝐖
-q𝐖=5/6
-p,𝐖
-q𝐖=1𝐖-p
+p =1/6,
+q =5/6
+p,
+q =1 -p
 X
 r
-r𝐖\ge𝐖1
+r \ge 1
 X
 p
 r
 X
-\mathtt𝐖n𝐖\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(r,𝐖p)
+\mathtt n \mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (r, p)
 X
-x𝐖=r,𝐖r𝐖+1,𝐖r𝐖+2,𝐖\ldots𝐖
-x𝐖=r,𝐖r𝐖+1,𝐖r𝐖+2,𝐖\ldots𝐖,𝐖
-p(x)𝐖=\binom{x𝐖-1}{r𝐖-1}p^r𝐖q^{x𝐖-r}𝐖𝐖.
+x =r, r +1, r +2, \ldots
+x =r, r +1, r +2, \ldots,
+p(x) =\binom{x -1}{r -1}p^r q^{x -r} .
 X
 X
-P(X𝐖=10)
-P(X𝐖=10)𝐖=\binom{9}{2}0.2^3𝐖.8^7𝐖𝐖.
-X𝐖\sim𝐖\mathtt𝐖n𝐖\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(3,𝐖.2)
+P(X =10)
+P(X =10) =\binom{9}{2}0.2^3 .8^7 .
+X \sim \mathtt n \mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (3, .2)
 N
 N
 m
 n
-m𝐖+n𝐖=N
-k,𝐖
+m +n =N
+k,
 X
 X
-m,𝐖
-n,𝐖
+m,
+n,
 k
 X
-\mathtt𝐖h𝐖\mathtt𝐖y𝐖\mathtt𝐖p𝐖\mathtt𝐖e𝐖\mathtt𝐖r𝐖(m,𝐖n,𝐖k)
+\mathtt h \mathtt y \mathtt p \mathtt e \mathtt r (m, n, k)
 X
-x𝐖=0,𝐖1,𝐖2,𝐖\ldots𝐖,𝐖k
-x𝐖\le𝐖m
-k𝐖-x𝐖\le𝐖n
-p(x)𝐖=\frac{\binom{m}{x}\binom{n}{k𝐖-x}}{\binom{m𝐖+n}{k}}𝐖.
-X
-X
-m𝐖=4
-n𝐖=6
-k𝐖=5
-X𝐖=2
+x =0, 1, 2, \ldots, k
+x \le m
+k -x \le n
+p(x) =\frac{\binom{m}{x}\binom{n}{k -x}}{\binom{m +n}{k}} .
 X
 X
-m𝐖=50,𝐖
-n𝐖=450,𝐖
-k𝐖=10
-P(X𝐖>3)𝐖=1𝐖-P(X𝐖\le𝐖3)
+m =4
+n =6
+k =5
+X =2
 X
 X
-\lambda𝐖,𝐖
+m =50,
+n =450,
+k =10
+P(X >3) =1 -P(X \le 3)
 X
-\mathtt𝐖P𝐖\mathtt𝐖o𝐖\mathtt𝐖i𝐖\mathtt𝐖s𝐖\mathtt𝐖s𝐖\mathtt𝐖o𝐖\mathtt𝐖n𝐖(\lambda𝐖)
 X
-x𝐖=0,𝐖1,𝐖2,𝐖\ldots𝐖,𝐖
-p(x)𝐖=\frac{\lambda𝐖^x𝐖}{x!}e^{𝐖-\lambda𝐖}𝐖
+\lambda,
 X
-P(X𝐖\ge𝐖10)
-P(X𝐖\ge𝐖10)𝐖=1𝐖-P(X𝐖\lt𝐖10)𝐖=1𝐖-P(X𝐖\le𝐖9)
+\mathtt P \mathtt o \mathtt i \mathtt s \mathtt s \mathtt o \mathtt n (\lambda)
 X
-\alpha𝐖
-\mathtt𝐖P𝐖\mathtt𝐖o𝐖\mathtt𝐖i𝐖\mathtt𝐖s𝐖\mathtt𝐖s𝐖\mathtt𝐖o𝐖\mathtt𝐖n𝐖(3.87)
+x =0, 1, 2, \ldots,
+p(x) =\frac{\lambda^x}{x!}e^{ -\lambda}
+X
+P(X \ge 10)
+P(X \ge 10) =1 -P(X \lt 10) =1 -P(X \le 9)
+X
+\alpha
+\mathtt P \mathtt o \mathtt i \mathtt s \mathtt s \mathtt o \mathtt n (3.87)
 X
 p(x)
-x𝐖&𝐖5𝐖&𝐖6𝐖&𝐖7𝐖&𝐖8𝐖&𝐖9𝐖\\𝐖p(x)𝐖&𝐖0.1𝐖&𝐖0.1𝐖&𝐖0.3𝐖&𝐖0.4𝐖&𝐖0.1
+x & 5 & 6 & 7 & 8 & 9 \\ p(x) & 0.1 & 0.1 & 0.3 & 0.4 & 0.1
 X
 X
-p(x),𝐖
+p(x),
 X
-E(X)𝐖=\sum𝐖_{all\~x}𝐖x𝐖\cdot𝐖p(x)
+E(X) =\sum_{all\~x} x \cdot p(x)
 X
 Px
 E(X)
 x
 X
 X
-V(X)𝐖=E[(X𝐖-\mu𝐖)^2𝐖],𝐖
-\mu𝐖𝐖=E(X)
-V(X)𝐖=E(X^2𝐖)𝐖-\mu𝐖^2𝐖𝐖.
+V(X) =E[(X -\mu)^2],
+\mu =E(X)
+V(X) =E(X^2) -\mu^2 .
 X
 X
-|𝐖X|𝐖=n
-p(x)𝐖=\frac{1}{n}
-x𝐖\in𝐖X
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+| X| =n
+p(x) =\frac{1}{n}
+x \in X
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
 X
 X
-\pi𝐖
+\pi
 F(X)
-\theta𝐖
-𝐖\hat{\theta𝐖}𝐖_L𝐖
-𝐖\hat{\theta𝐖}𝐖_U𝐖
-P(𝐖\hat{\theta𝐖}𝐖_L𝐖𝐖\le𝐖\theta𝐖𝐖\le𝐖𝐖\hat{\theta𝐖_U𝐖}𝐖)𝐖=1𝐖-\alpha𝐖
-1𝐖-\alpha𝐖
-X_1𝐖,𝐖\ldots𝐖,𝐖X_n𝐖
-\theta𝐖,𝐖
-\theta𝐖
-\mu𝐖
-X_1𝐖,𝐖\ldots𝐖,𝐖X_n𝐖,𝐖
-X_i𝐖
-N(\mu𝐖,𝐖\sigma𝐖),𝐖
-T𝐖=\frac{\overline{X}𝐖-\mu𝐖}{S/\sqrt{n}}𝐖.
-\mu𝐖,𝐖
-t(n𝐖-1)
-\mu𝐖
+\theta
+\hat{\theta}_L
+\hat{\theta}_U
+P( \hat{\theta}_L \le \theta \le \hat{\theta_U}) =1 -\alpha
+1 -\alpha
+X_1, \ldots, X_n
+\theta,
+\theta
+\mu
+X_1, \ldots, X_n,
+X_i
+N(\mu, \sigma),
+T =\frac{\overline{X} -\mu}{S/\sqrt{n}} .
+\mu,
+t(n -1)
+\mu
 p
-𝐖\hat{p}𝐖
+\hat{p}
 n
-Z𝐖=\frac{𝐖\hat{p}𝐖𝐖-p}{\sqrt{𝐖\hat{p}𝐖(1𝐖-𝐖\hat{p}𝐖)/n}}
-N(0,𝐖1),𝐖
+Z =\frac{ \hat{p} -p}{\sqrt{ \hat{p} (1 - \hat{p})/n}}
+N(0, 1),
 p
-X_1𝐖,𝐖\ldots𝐖,𝐖X_n𝐖
-U(0,𝐖\theta𝐖)
-Y𝐖=\max𝐖(X_1𝐖,𝐖\ldots𝐖,𝐖X_n𝐖)
-F_Y𝐖(y)𝐖=(\frac{y}{\theta𝐖})^n𝐖\~and\~f_Y𝐖(y)𝐖=\frac{n}{\theta𝐖^n𝐖}y^{n𝐖-1}𝐖,𝐖
-0𝐖\le𝐖y𝐖\le𝐖\theta𝐖
-U𝐖=\frac{1}{\theta𝐖}Y,𝐖
-\theta𝐖
+X_1, \ldots, X_n
+U(0, \theta)
+Y =\max (X_1, \ldots, X_n)
+F_Y (y) =(\frac{y}{\theta})^n \~and\~f_Y (y) =\frac{n}{\theta^n}y^{n -1},
+0 \le y \le \theta
+U =\frac{1}{\theta}Y,
+\theta
 U
-F_U𝐖(u)𝐖&𝐖\lt𝐖mi/>𝐖=P(U𝐖\le𝐖u)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(Y/\theta𝐖𝐖\le𝐖u)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(Y𝐖\le𝐖u𝐖\cdot𝐖\theta𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=F_Y𝐖(u\theta𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=(\frac{u\theta𝐖}{\theta𝐖})^n𝐖𝐖&𝐖\~for\~0𝐖\le𝐖u𝐖\le𝐖1𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=u^n𝐖𝐖&𝐖\~for\~0𝐖\le𝐖u𝐖\le𝐖1,𝐖
-\theta𝐖
-U𝐖=Y/\theta𝐖
+F_U (u) & \lt mi/> =P(U \le u) \\ \~ & \lt mi/> =P(Y/\theta \le u) \\ \~ & \lt mi/> =P(Y \le u \cdot \theta) \\ \~ & \lt mi/> =F_Y (u\theta) \\ \~ & \lt mi/> =(\frac{u\theta}{\theta})^n & \~for\~0 \le u \le 1 \\ \~ & \lt mi/> =u^n & \~for\~0 \le u \le 1,
+\theta
+U =Y/\theta
 U
-\theta𝐖
-X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖,𝐖X_n𝐖
-U(0,𝐖\theta𝐖)
-𝐖\hat{\theta𝐖}𝐖_L𝐖
-𝐖\hat{\theta𝐖}𝐖_U𝐖
-P(𝐖\hat{\theta𝐖}𝐖_L𝐖𝐖\le𝐖\theta𝐖𝐖\le𝐖𝐖\hat{\theta𝐖}𝐖_U𝐖)𝐖=.95
-U𝐖=Y/\theta𝐖,𝐖
+\theta
+X_1, X_2, \ldots, X_n
+U(0, \theta)
+\hat{\theta}_L
+\hat{\theta}_U
+P( \hat{\theta}_L \le \theta \le \hat{\theta}_U) =.95
+U =Y/\theta,
 Y
 a
 b
-P(U𝐖\lt𝐖a)𝐖=0.025
-P(U𝐖>b)𝐖=0.025
-.025𝐖=P(U𝐖\lt𝐖a)𝐖=F_U𝐖(a)𝐖=a^n𝐖𝐖\implies𝐖a𝐖=\sqrt[n]{.025}
-.025𝐖=P(U𝐖>b)𝐖=1𝐖-F_U𝐖(b)𝐖=1𝐖-b^n𝐖𝐖\implies𝐖b𝐖=\sqrt[n]{.975}𝐖.
-\theta𝐖
-.95𝐖&𝐖\lt𝐖mi/>𝐖=P(\frac{1}{\sqrt[n]{.025}}𝐖\lt𝐖U𝐖\lt𝐖\frac{1}{\sqrt[n]{.975}})𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(\frac{1}{\sqrt[n]{.025}}𝐖\lt𝐖\frac{Y}{\theta𝐖}𝐖\lt𝐖\frac{1}{\sqrt[n]{.975}})𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(\frac{1}{\sqrt[n]{.025}}𝐖>\frac{\theta𝐖}{Y}𝐖>\frac{1}{\sqrt[n]{.975}})𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(\frac{Y}{\sqrt[n]{.975}}𝐖\lt𝐖\theta𝐖𝐖\lt𝐖\frac{Y}{\sqrt[n]{.025}})𝐖.
-𝐖\hat{\theta𝐖}𝐖_L𝐖𝐖=\frac{Y}{\sqrt[n]{.975}}
-𝐖\hat{\theta𝐖}𝐖_U𝐖𝐖=\frac{Y}{\sqrt[n]{.025}}
-U(0,𝐖64)
-\theta𝐖𝐖=64
-\theta𝐖,𝐖
-\theta𝐖
-\theta𝐖
-\theta𝐖
-\theta𝐖
-\theta𝐖
-[𝐖\hat{\theta𝐖}𝐖_L𝐖,𝐖𝐖\hat{\theta𝐖}𝐖_U𝐖],𝐖
-P(𝐖\hat{\theta𝐖}𝐖_L𝐖𝐖\le𝐖\theta𝐖𝐖\le𝐖𝐖\hat{\theta𝐖}𝐖_U𝐖)𝐖=1𝐖-\alpha𝐖,𝐖
-\theta𝐖
-[𝐖\hat{\theta𝐖}𝐖_L𝐖,𝐖\infty𝐖),𝐖
-P(𝐖\hat{\theta𝐖}𝐖_L𝐖𝐖\le𝐖\theta𝐖)𝐖=1𝐖-\alpha𝐖,𝐖
-(𝐖-\infty𝐖,𝐖𝐖\hat{\theta𝐖}𝐖_U𝐖],𝐖
-P(\theta𝐖𝐖\le𝐖𝐖\hat{\theta𝐖}𝐖_U𝐖)𝐖=1𝐖-\alpha𝐖
-[𝐖\hat{\theta𝐖}𝐖_L𝐖,𝐖\infty𝐖)
-𝐖\hat{\theta𝐖}𝐖_L𝐖
-(𝐖-\infty𝐖,𝐖𝐖\hat{\theta𝐖}𝐖_U𝐖]
-𝐖\hat{\theta𝐖}𝐖_U𝐖
-\theta𝐖
-\theta𝐖
-𝐖\hat{\theta𝐖}𝐖
-\theta𝐖
-𝐖\hat{\theta𝐖}𝐖
-N(\theta𝐖,𝐖\sigma𝐖_{𝐖\hat{\theta𝐖}𝐖}𝐖)
-Z𝐖=\frac{𝐖\hat{\theta𝐖}𝐖𝐖-\theta𝐖}{\sigma𝐖_{𝐖\hat{\theta𝐖}𝐖}𝐖}
-N(0,𝐖1)
-1𝐖-\alpha𝐖
-\alpha𝐖𝐖=.05,𝐖
-𝐖\pm𝐖z_{\alpha𝐖/2}𝐖
-N(0,𝐖1)
-P(𝐖-z_{\alpha𝐖/2}𝐖𝐖\le𝐖Z𝐖\le𝐖z_{\alpha𝐖/2}𝐖)𝐖=1𝐖-\alpha𝐖,𝐖
-𝐖\pm𝐖z_{\alpha𝐖/2}𝐖
-P(𝐖-z_{\alpha𝐖/2}𝐖𝐖\le𝐖Z𝐖\le𝐖z_{\alpha𝐖/2}𝐖)𝐖&𝐖\lt𝐖mi/>𝐖=1𝐖-\alpha𝐖𝐖\\𝐖P(𝐖-z_{\alpha𝐖/2}𝐖𝐖\le𝐖\frac{𝐖\hat{\theta𝐖}𝐖𝐖-\theta𝐖}{\sigma𝐖_{𝐖\hat{\theta𝐖}𝐖}𝐖}𝐖\le𝐖z_{\alpha𝐖/2}𝐖)𝐖&𝐖\lt𝐖mi/>𝐖=1𝐖-\alpha𝐖𝐖\\𝐖P(𝐖\hat{\theta𝐖}𝐖𝐖-z_{\alpha𝐖/2}𝐖\sigma𝐖_{𝐖\hat{\theta𝐖}𝐖}𝐖𝐖\le𝐖\theta𝐖𝐖\le𝐖𝐖\hat{\theta𝐖}𝐖𝐖+z_{\alpha𝐖/2}𝐖\sigma𝐖_{𝐖\hat{\theta𝐖}𝐖}𝐖)𝐖&𝐖\lt𝐖mi/>𝐖=1𝐖-\alpha𝐖
-(1𝐖-\alpha𝐖)
-\theta𝐖
-(𝐖\hat{\theta𝐖}𝐖𝐖-z_{\alpha𝐖/2}𝐖\sigma𝐖_{𝐖\hat{\theta𝐖}𝐖}𝐖,𝐖𝐖\hat{\theta𝐖}𝐖𝐖+z_{\alpha𝐖/2}𝐖\sigma𝐖_{𝐖\hat{\theta𝐖}𝐖}𝐖)𝐖.
-𝐖-z_{\alpha𝐖/2}𝐖𝐖=
-(\alpha𝐖/2),𝐖
-z_{\alpha𝐖/2}𝐖𝐖=
-(\alpha𝐖/2)
-(1𝐖-\alpha𝐖𝐖+\alpha𝐖/2)
-(1𝐖-\alpha𝐖)
-\theta𝐖
-𝐖\hat{\theta𝐖}𝐖𝐖-z_\alpha𝐖𝐖𝐖\cdot𝐖\sigma𝐖_{𝐖\hat{\theta𝐖}𝐖}𝐖
-[𝐖\hat{\theta𝐖}𝐖𝐖-z_\alpha𝐖𝐖𝐖\cdot𝐖\sigma𝐖_{𝐖\hat{\theta𝐖}𝐖}𝐖,𝐖\infty𝐖)
-(1𝐖-\alpha𝐖)
-\theta𝐖
-𝐖\hat{\theta𝐖}𝐖𝐖+z_\alpha𝐖𝐖𝐖\cdot𝐖\sigma𝐖_{𝐖\hat{\theta𝐖}𝐖}𝐖
-(𝐖-\infty𝐖,𝐖𝐖\hat{\theta𝐖}𝐖𝐖+z_\alpha𝐖𝐖𝐖\cdot𝐖\sigma𝐖_{𝐖\hat{\theta𝐖}𝐖}𝐖]
-z_\alpha𝐖𝐖𝐖=
-(\alpha𝐖)
-\mu𝐖,𝐖
-\overline{X},𝐖
-p,𝐖
-𝐖\hat{p}𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-\overline{X_1𝐖}𝐖-\overline{X_2𝐖},𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-𝐖\hat{p_1𝐖}𝐖𝐖-𝐖\hat{p_2𝐖}𝐖
-(1𝐖-\alpha𝐖)
-\mu𝐖
-\overline{X}𝐖\pm𝐖z_{\alpha𝐖/2}𝐖𝐖\cdot𝐖\frac{\sigma𝐖}{\sqrt{n}}
+P(U \lt a) =0.025
+P(U >b) =0.025
+.025 =P(U \lt a) =F_U (a) =a^n \implies a =\sqrt[n]{.025}
+.025 =P(U >b) =1 -F_U (b) =1 -b^n \implies b =\sqrt[n]{.975} .
+\theta
+.95 & \lt mi/> =P(\frac{1}{\sqrt[n]{.025}} \lt U \lt \frac{1}{\sqrt[n]{.975}}) \\ \~ & \lt mi/> =P(\frac{1}{\sqrt[n]{.025}} \lt \frac{Y}{\theta} \lt \frac{1}{\sqrt[n]{.975}}) \\ \~ & \lt mi/> =P(\frac{1}{\sqrt[n]{.025}} >\frac{\theta}{Y} >\frac{1}{\sqrt[n]{.975}}) \\ \~ & \lt mi/> =P(\frac{Y}{\sqrt[n]{.975}} \lt \theta \lt \frac{Y}{\sqrt[n]{.025}}) .
+\hat{\theta}_L =\frac{Y}{\sqrt[n]{.975}}
+\hat{\theta}_U =\frac{Y}{\sqrt[n]{.025}}
+U(0, 64)
+\theta =64
+\theta,
+\theta
+\theta
+\theta
+\theta
+\theta
+[ \hat{\theta}_L, \hat{\theta}_U],
+P( \hat{\theta}_L \le \theta \le \hat{\theta}_U) =1 -\alpha,
+\theta
+[ \hat{\theta}_L, \infty),
+P( \hat{\theta}_L \le \theta) =1 -\alpha,
+( -\infty, \hat{\theta}_U],
+P(\theta \le \hat{\theta}_U) =1 -\alpha
+[ \hat{\theta}_L, \infty)
+\hat{\theta}_L
+( -\infty, \hat{\theta}_U]
+\hat{\theta}_U
+\theta
+\theta
+\hat{\theta}
+\theta
+\hat{\theta}
+N(\theta, \sigma_{ \hat{\theta}})
+Z =\frac{ \hat{\theta} -\theta}{\sigma_{ \hat{\theta}}}
+N(0, 1)
+1 -\alpha
+\alpha =.05,
+\pm z_{\alpha /2}
+N(0, 1)
+P( -z_{\alpha /2} \le Z \le z_{\alpha /2}) =1 -\alpha,
+\pm z_{\alpha /2}
+P( -z_{\alpha /2} \le Z \le z_{\alpha /2}) & \lt mi/> =1 -\alpha \\ P( -z_{\alpha /2} \le \frac{ \hat{\theta} -\theta}{\sigma_{ \hat{\theta}}} \le z_{\alpha /2}) & \lt mi/> =1 -\alpha \\ P( \hat{\theta} -z_{\alpha /2} \sigma_{ \hat{\theta}} \le \theta \le \hat{\theta} +z_{\alpha /2} \sigma_{ \hat{\theta}}) & \lt mi/> =1 -\alpha
+(1 -\alpha)
+\theta
+( \hat{\theta} -z_{\alpha /2} \sigma_{ \hat{\theta}}, \hat{\theta} +z_{\alpha /2} \sigma_{ \hat{\theta}}) .
+-z_{\alpha /2} =
+(\alpha /2),
+z_{\alpha /2} =
+(\alpha /2)
+(1 -\alpha +\alpha /2)
+(1 -\alpha)
+\theta
+\hat{\theta} -z_\alpha \cdot \sigma_{ \hat{\theta}}
+[ \hat{\theta} -z_\alpha \cdot \sigma_{ \hat{\theta}}, \infty)
+(1 -\alpha)
+\theta
+\hat{\theta} +z_\alpha \cdot \sigma_{ \hat{\theta}}
+( -\infty, \hat{\theta} +z_\alpha \cdot \sigma_{ \hat{\theta}}]
+z_\alpha =
+(\alpha)
+\mu,
+\overline{X},
+p,
+\hat{p},
+\mu_1 -\mu_2,
+\overline{X_1} -\overline{X_2},
+p_1 -p_2,
+\hat{p_1} - \hat{p_2}
+(1 -\alpha)
+\mu
+\overline{X} \pm z_{\alpha /2} \cdot \frac{\sigma}{\sqrt{n}}
 p
-𝐖\hat{p}𝐖𝐖\pm𝐖z_{\alpha𝐖/2}𝐖\sqrt{\frac{p(1𝐖-p)}{n}}
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
-(\overline{X_1𝐖}𝐖-\overline{X_2𝐖})𝐖\pm𝐖z_{\alpha𝐖/2}𝐖\frac{\sigma𝐖_1^2𝐖}{n_1𝐖}𝐖+\frac{\sigma𝐖_2^2𝐖}{n_2𝐖}
-p_1𝐖𝐖-p_2𝐖
-(𝐖\hat{p}𝐖_1𝐖𝐖-𝐖\hat{p}𝐖_2𝐖)𝐖\pm𝐖z_{\alpha𝐖/2}𝐖\sqrt{\frac{p_1𝐖(1𝐖-p_1𝐖)}{n_1𝐖}𝐖+\frac{p_2𝐖(1𝐖-p_2𝐖)}{n_2𝐖}}
-n𝐖\ge𝐖30
+\hat{p} \pm z_{\alpha /2} \sqrt{\frac{p(1 -p)}{n}}
+\mu_1 -\mu_2
+(\overline{X_1} -\overline{X_2}) \pm z_{\alpha /2} \frac{\sigma_1^2}{n_1} +\frac{\sigma_2^2}{n_2}
+p_1 -p_2
+( \hat{p}_1 - \hat{p}_2) \pm z_{\alpha /2} \sqrt{\frac{p_1 (1 -p_1)}{n_1} +\frac{p_2 (1 -p_2)}{n_2}}
+n \ge 30
 S
-\sigma𝐖
-𝐖\hat{p}𝐖
+\sigma
+\hat{p}
 p
-\sigma𝐖
-T𝐖=\frac{\overline{X}𝐖-\mu𝐖}{S/\sqrt{n}}
-\mu𝐖
-\sigma𝐖
-\mu𝐖
-\overline{X}𝐖\pm𝐖t_{\alpha𝐖/2}𝐖𝐖\cdot𝐖\frac{S}{\sqrt{n}}
-n𝐖=20
-N(\mu𝐖,𝐖2)
-\overline{x}𝐖=16.3
-\mu𝐖
-𝐖\leftrightarrow𝐖\alpha𝐖𝐖=0.02,𝐖
-z_{\alpha𝐖/2}𝐖𝐖=z_{.01}𝐖
-\mu𝐖
-\overline{x}𝐖\pm𝐖2.326𝐖\cdot𝐖\frac{2}{\sqrt{20}},𝐖
-16.3𝐖\pm𝐖1.04,𝐖
+\sigma
+T =\frac{\overline{X} -\mu}{S/\sqrt{n}}
+\mu
+\sigma
+\mu
+\overline{X} \pm t_{\alpha /2} \cdot \frac{S}{\sqrt{n}}
+n =20
+N(\mu, 2)
+\overline{x} =16.3
+\mu
+\leftrightarrow \alpha =0.02,
+z_{\alpha /2} =z_{.01}
+\mu
+\overline{x} \pm 2.326 \cdot \frac{2}{\sqrt{20}},
+16.3 \pm 1.04,
 15.26\~to\~17.34.
-\sigma𝐖𝐖=2,𝐖
-N(\mu𝐖,𝐖\sigma𝐖),𝐖
-\overline{x}𝐖=16.3
-s𝐖=2.13
-\mu𝐖
+\sigma =2,
+N(\mu, \sigma),
+\overline{x} =16.3
+s =2.13
+\mu
 s
-\sigma𝐖
+\sigma
 t
 z
-z_{.01}𝐖𝐖=2.326,𝐖
-t_{.01}𝐖(19),𝐖
-t_{.01}𝐖(19)
-\sigma𝐖
-\overline{x}𝐖\pm𝐖2.539𝐖\cdot𝐖\frac{2.13}{\sqrt{20}},𝐖
-16.3𝐖\pm𝐖1.21,𝐖
+z_{.01} =2.326,
+t_{.01} (19),
+t_{.01} (19)
+\sigma
+\overline{x} \pm 2.539 \cdot \frac{2.13}{\sqrt{20}},
+16.3 \pm 1.21,
 15.09\~to\~17.51.
-p,𝐖
+p,
 p
-n𝐖=500,𝐖
-𝐖\hat{p}𝐖𝐖=260/500𝐖=.52,𝐖
-\alpha𝐖𝐖=0.1,𝐖
-z_{\alpha𝐖/2}𝐖𝐖=z_{.05}𝐖𝐖=1.645,𝐖
-𝐖\hat{p}𝐖𝐖\pm𝐖z_{\alpha𝐖/2}𝐖\sqrt{\frac{𝐖\hat{p}𝐖(1𝐖-𝐖\hat{p}𝐖)}{n}}𝐖&𝐖\lt𝐖mi/>𝐖=.52𝐖\pm𝐖1.645\sqrt{\frac{(.52)(.48)}{500}}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=.52𝐖\pm𝐖.037𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=.483\~to\~.557𝐖.
-p𝐖>.5
-\mu𝐖,𝐖
-\mu𝐖
-\mu𝐖𝐖=28.12\circ,𝐖
-\mu𝐖𝐖=15.66\circ,𝐖
-\mu𝐖
-t_{\alpha𝐖/2}𝐖,𝐖
-z_{\alpha𝐖/2}𝐖,𝐖
-\alpha𝐖𝐖=.05
-\alpha𝐖𝐖=.05,𝐖
-z_{\alpha𝐖/2}𝐖𝐖=z_{.025}𝐖𝐖\approx𝐖1.96.
+n =500,
+\hat{p} =260/500 =.52,
+\alpha =0.1,
+z_{\alpha /2} =z_{.05} =1.645,
+\hat{p} \pm z_{\alpha /2} \sqrt{\frac{ \hat{p} (1 - \hat{p})}{n}} & \lt mi/> =.52 \pm 1.645\sqrt{\frac{(.52)(.48)}{500}} \\ \~ & \lt mi/> =.52 \pm .037 \\ \~ & \lt mi/> =.483\~to\~.557 .
+p >.5
+\mu,
+\mu
+\mu =28.12\circ,
+\mu =15.66\circ,
+\mu
+t_{\alpha /2},
+z_{\alpha /2},
+\alpha =.05
+\alpha =.05,
+z_{\alpha /2} =z_{.025} \approx 1.96.
 n
 s
-\sigma𝐖
-\overline{x}𝐖\pm𝐖z_{\alpha𝐖/2}𝐖𝐖\cdot𝐖\frac{\sigma𝐖}{\sqrt{n}}
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
-n_1𝐖,𝐖
-\overline{x}_1𝐖,𝐖
-s_1𝐖,𝐖
-n_2𝐖,𝐖
-\overline{x}_2𝐖,𝐖
-s_2𝐖
-N(\mu𝐖_1𝐖,𝐖\sigma𝐖_1𝐖)
-N(\mu𝐖_2𝐖,𝐖\sigma𝐖_2𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
-(\overline{X_1𝐖}𝐖-\overline{X_2𝐖})𝐖\pm𝐖z_{\alpha𝐖/2}𝐖\frac{\sigma𝐖_1^2𝐖}{n_1𝐖}𝐖+\frac{\sigma𝐖_2^2𝐖}{n_2𝐖}𝐖.
-\sigma𝐖_1𝐖
-\sigma𝐖_2𝐖
-n_1𝐖
-n_2𝐖
-\sigma𝐖_1𝐖
-\sigma𝐖_2𝐖
-s_1𝐖
-s_2𝐖,𝐖
-n_1𝐖,𝐖n_2𝐖
-𝐖\le𝐖30
-\sigma𝐖_1𝐖
-\sigma𝐖_2𝐖
-\sigma𝐖^2𝐖
-s_p^2𝐖𝐖=\frac{(n_1𝐖𝐖-1)s_1^2𝐖𝐖+(n_2𝐖𝐖-1)s_2^2𝐖}{n_1𝐖𝐖+n_2𝐖𝐖-2}
-\sigma𝐖^2𝐖
-(1𝐖-\alpha𝐖)
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
-(\overline{X_1𝐖}𝐖-\overline{X_2𝐖})𝐖\pm𝐖t_{\alpha𝐖/2}𝐖S_p𝐖\sqrt{\frac{1}{n_1𝐖}𝐖+\frac{1}{n_2𝐖}},𝐖
-t_{\alpha𝐖/2}𝐖
-n_1𝐖𝐖+n_2𝐖𝐖-2
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
-s_p𝐖𝐖=\sqrt{\frac{8𝐖\cdot𝐖s_1^2𝐖𝐖+6𝐖\cdot𝐖s_2^2𝐖}{14}}𝐖\approx𝐖.474,𝐖
-t^\ast𝐖𝐖
-\mu𝐖_1𝐖𝐖=\mu𝐖_2𝐖
+\sigma
+\overline{x} \pm z_{\alpha /2} \cdot \frac{\sigma}{\sqrt{n}}
+\mu_1 -\mu_2
+n_1,
+\overline{x}_1,
+s_1,
+n_2,
+\overline{x}_2,
+s_2
+N(\mu_1, \sigma_1)
+N(\mu_2, \sigma_2
+\mu_1 -\mu_2
+(\overline{X_1} -\overline{X_2}) \pm z_{\alpha /2} \frac{\sigma_1^2}{n_1} +\frac{\sigma_2^2}{n_2} .
+\sigma_1
+\sigma_2
+n_1
+n_2
+\sigma_1
+\sigma_2
+s_1
+s_2,
+n_1, n_2
+\le 30
+\sigma_1
+\sigma_2
+\sigma^2
+s_p^2 =\frac{(n_1 -1)s_1^2 +(n_2 -1)s_2^2}{n_1 +n_2 -2}
+\sigma^2
+(1 -\alpha)
+\mu_1 -\mu_2
+(\overline{X_1} -\overline{X_2}) \pm t_{\alpha /2} S_p \sqrt{\frac{1}{n_1} +\frac{1}{n_2}},
+t_{\alpha /2}
+n_1 +n_2 -2
+\mu_1 -\mu_2
+s_p =\sqrt{\frac{8 \cdot s_1^2 +6 \cdot s_2^2}{14}} \approx .474,
+t^\ast
+\mu_1 =\mu_2
 0.62\~to\~1.64.
-\mu𝐖_1𝐖
-\mu𝐖_2𝐖
-\sigma𝐖_1^2𝐖
-\sigma𝐖_2^2𝐖
-\sigma𝐖_1^2𝐖
-\sigma𝐖_2^2𝐖
-(1𝐖-\alpha𝐖)
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
-\overline{X}_1𝐖𝐖-\overline{X}_2𝐖𝐖\pm𝐖t_{\alpha𝐖/2}𝐖𝐖\cdot𝐖\sqrt{\frac{s_1^2𝐖}{n_1𝐖}𝐖+\frac{s_2^2𝐖}{n_2𝐖}}
-t_{\alpha𝐖/2}𝐖
-n_1𝐖𝐖-1
-n_2𝐖𝐖-1
-t^\ast𝐖𝐖
-0.574\~to\~1.686,𝐖
-\mu𝐖_1𝐖
-\mu𝐖_2𝐖
-\mu𝐖_1𝐖
-\mu𝐖_2𝐖
-\mu𝐖_1𝐖𝐖\not=𝐖\mu𝐖_2𝐖
-\mu𝐖_X𝐖𝐖-\mu𝐖_Y𝐖
-x_i𝐖
-\mu𝐖𝐖\ge𝐖2
-\mu𝐖,𝐖
-n𝐖=9
-\sigma𝐖
-n𝐖=9,𝐖
+\mu_1
+\mu_2
+\sigma_1^2
+\sigma_2^2
+\sigma_1^2
+\sigma_2^2
+(1 -\alpha)
+\mu_1 -\mu_2
+\overline{X}_1 -\overline{X}_2 \pm t_{\alpha /2} \cdot \sqrt{\frac{s_1^2}{n_1} +\frac{s_2^2}{n_2}}
+t_{\alpha /2}
+n_1 -1
+n_2 -1
+t^\ast
+0.574\~to\~1.686,
+\mu_1
+\mu_2
+\mu_1
+\mu_2
+\mu_1 \not= \mu_2
+\mu_X -\mu_Y
+x_i
+\mu \ge 2
+\mu,
+n =9
+\sigma
+n =9,
 \overline{x}
 s
-\alpha𝐖𝐖=.05
-t_\alpha𝐖𝐖𝐖=t_{.05}𝐖(8)𝐖=qt(.95,𝐖8)𝐖=1.86,𝐖
-(\overline{x}𝐖-t_{.05}𝐖(8)𝐖\cdot𝐖\frac{s}{\sqrt{n}},𝐖\infty𝐖)𝐖&𝐖\lt𝐖mi/>𝐖=(1.9987𝐖-1.86𝐖\cdot𝐖\frac{0.0122}{\sqrt{9}},𝐖\infty𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=(1.991,𝐖\infty𝐖)
-\mu𝐖𝐖\ge𝐖2
-[2.01,𝐖\infty𝐖),𝐖
-\mu𝐖
-[1.991,𝐖\infty𝐖),𝐖
-\mu𝐖𝐖\ge𝐖1.99
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+\alpha =.05
+t_\alpha =t_{.05} (8) =qt(.95, 8) =1.86,
+(\overline{x} -t_{.05} (8) \cdot \frac{s}{\sqrt{n}}, \infty) & \lt mi/> =(1.9987 -1.86 \cdot \frac{0.0122}{\sqrt{9}}, \infty) \\ \~ & \lt mi/> =(1.991, \infty)
+\mu \ge 2
+[2.01, \infty),
+\mu
+[1.991, \infty),
+\mu \ge 1.99
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
 X
 X
-\pi𝐖
+\pi
 F(X)
-X,𝐖
-m_X𝐖(t)𝐖=E(e^{tX}𝐖)
+X,
+m_X (t) =E(e^{tX})
 t
 X
 k
 m
-t𝐖=0
+t =0
 k
-k𝐖=1,𝐖2,𝐖3,𝐖\ldots𝐖,𝐖
-m_X^{(k)}𝐖(0)𝐖=E(X^k𝐖)𝐖.
-X,𝐖
-m_X𝐖(t)
-m_Y𝐖(t)
+k =1, 2, 3, \ldots,
+m_X^{(k)} (0) =E(X^k) .
+X,
+m_X (t)
+m_Y (t)
 X
-Y,𝐖
-m_X𝐖(t)𝐖=m_Y𝐖(t)
+Y,
+m_X (t) =m_Y (t)
 t
 X
 Y
-Z𝐖\sim𝐖N(0,𝐖1)
-m_Z𝐖(t)𝐖&𝐖\lt𝐖mi/>𝐖=E(e^{tZ}𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖\frac{1}{\sqrt{2\pi𝐖}}e^{𝐖-z^2𝐖/2}𝐖𝐖\cdot𝐖e^{tz}𝐖dz𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{\sqrt{2\pi𝐖}}\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖e^{tz𝐖-z^2𝐖/2}𝐖dz𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{\sqrt{2\pi𝐖}}\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖e^{𝐖-\frac{1}{2}(z𝐖-t)^2𝐖𝐖+\frac{1}{2}t^2𝐖}𝐖dz𝐖&𝐖complete\space𝐖the\space𝐖square𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=e^{\frac{1}{2}t^2𝐖}𝐖[\frac{1}{\sqrt{2\pi𝐖}}\int𝐖_{𝐖-\infty𝐖}^\infty𝐖𝐖e^{𝐖-\frac{1}{2}(z𝐖-t)^2𝐖}𝐖dz]
-t,𝐖
-N(t,𝐖1)
-m_Z𝐖(t)𝐖=e^{\frac{1}{2}t^2𝐖}𝐖,𝐖
-𝐖-\infty𝐖𝐖\lt𝐖t𝐖\lt𝐖\infty𝐖
-X𝐖\sim𝐖N(\mu𝐖,𝐖\sigma𝐖),𝐖
-(11.1)𝐖&𝐖m(t)𝐖=e^{(\mu𝐖t𝐖+\frac{\sigma𝐖^2𝐖}{2}t^2𝐖)}𝐖
+Z \sim N(0, 1)
+m_Z (t) & \lt mi/> =E(e^{tZ}) \\ \~ & \lt mi/> =\int_{ -\infty}^\infty \frac{1}{\sqrt{2\pi}}e^{ -z^2 /2} \cdot e^{tz} dz \\ \~ & \lt mi/> =\frac{1}{\sqrt{2\pi}}\int_{ -\infty}^\infty e^{tz -z^2 /2} dz \\ \~ & \lt mi/> =\frac{1}{\sqrt{2\pi}}\int_{ -\infty}^\infty e^{ -\frac{1}{2}(z -t)^2 +\frac{1}{2}t^2} dz & complete\space the\space square \\ \~ & \lt mi/> =e^{\frac{1}{2}t^2} [\frac{1}{\sqrt{2\pi}}\int_{ -\infty}^\infty e^{ -\frac{1}{2}(z -t)^2} dz]
+t,
+N(t, 1)
+m_Z (t) =e^{\frac{1}{2}t^2},
+-\infty \lt t \lt \infty
+X \sim N(\mu, \sigma),
+(11.1) & m(t) =e^{(\mu t +\frac{\sigma^2}{2}t^2)}
 X
-N(\mu𝐖,𝐖\sigma𝐖)
-Z𝐖=\frac{X𝐖-\mu𝐖}{\sigma𝐖},𝐖
+N(\mu, \sigma)
+Z =\frac{X -\mu}{\sigma},
 Z
-N(0,𝐖1)
+N(0, 1)
 X
-N(\mu𝐖,𝐖\sigma𝐖),𝐖
-Z𝐖=\frac{X𝐖-\mu𝐖}{\sigma𝐖}
+N(\mu, \sigma),
+Z =\frac{X -\mu}{\sigma}
 Z
-m_Z𝐖(t)𝐖&𝐖\lt𝐖mi/>𝐖=E[e^{tZ}𝐖]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=E[e^{t(\frac{X𝐖-\mu𝐖}{\sigma𝐖})}𝐖]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=E[e^{\frac{Xt}{\sigma𝐖}𝐖-\frac{\mu𝐖t}{\sigma𝐖}}𝐖]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=E[e^{Xt/\sigma𝐖}𝐖𝐖\cdot𝐖e^{𝐖-\mu𝐖t/\sigma𝐖}𝐖]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=e^{𝐖-\mu𝐖t/\sigma𝐖}𝐖𝐖\cdot𝐖E[e^{Xt/\sigma𝐖}𝐖]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=e^{𝐖-\mu𝐖t/\sigma𝐖}𝐖𝐖\cdot𝐖m_X𝐖(t/\sigma𝐖)
-E[e^{Xt/\sigma𝐖}𝐖]
+m_Z (t) & \lt mi/> =E[e^{tZ}] \\ \~ & \lt mi/> =E[e^{t(\frac{X -\mu}{\sigma})}] \\ \~ & \lt mi/> =E[e^{\frac{Xt}{\sigma} -\frac{\mu t}{\sigma}}] \\ \~ & \lt mi/> =E[e^{Xt/\sigma} \cdot e^{ -\mu t/\sigma}] \\ \~ & \lt mi/> =e^{ -\mu t/\sigma} \cdot E[e^{Xt/\sigma}] \\ \~ & \lt mi/> =e^{ -\mu t/\sigma} \cdot m_X (t/\sigma)
+E[e^{Xt/\sigma}]
 X
-t/\sigma𝐖
-m_Z𝐖(t)𝐖&𝐖\lt𝐖mi/>𝐖=e^{𝐖-\mu𝐖t/\sigma𝐖}𝐖𝐖\cdot𝐖e^{(\mu𝐖(t/\sigma𝐖)𝐖+\frac{\sigma𝐖^2𝐖}{2}(t/\sigma𝐖)^2𝐖)}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=e^{t^2𝐖/2}𝐖
-N(0,𝐖1),𝐖
-Z𝐖=(X𝐖-\mu𝐖)/\sigma𝐖
-N(0,𝐖1)
+t/\sigma
+m_Z (t) & \lt mi/> =e^{ -\mu t/\sigma} \cdot e^{(\mu (t/\sigma) +\frac{\sigma^2}{2}(t/\sigma)^2)} \\ \~ & \lt mi/> =e^{t^2 /2}
+N(0, 1),
+Z =(X -\mu)/\sigma
+N(0, 1)
 Z
-N(0,𝐖1)
-Z^2𝐖
-\chi𝐖^2𝐖(1)
-X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖,𝐖X_n𝐖
-m_1𝐖(t),𝐖m_2𝐖(t),𝐖\ldots𝐖m_n𝐖(t),𝐖
-U𝐖=X_1𝐖𝐖+X_2𝐖𝐖+\cdots𝐖𝐖+X_n𝐖
-m_U𝐖(t)𝐖=m_1𝐖(t)𝐖\cdot𝐖m_2𝐖(t)𝐖\cdot𝐖\cdots𝐖𝐖\cdot𝐖m_n𝐖(t)𝐖.
-m_U𝐖(t)𝐖&𝐖\lt𝐖mi/>𝐖=E[e^{tU}𝐖]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=E[e^{t(X_1𝐖𝐖+X_2𝐖𝐖+\cdots𝐖X_n𝐖)}𝐖]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=E[e^{tX_1𝐖}𝐖𝐖\cdot𝐖e^{tX_2𝐖}𝐖𝐖\cdot𝐖\cdots𝐖𝐖\cdot𝐖e^{tX_n𝐖}𝐖]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=E[e^{tX_1𝐖}𝐖]𝐖\cdot𝐖E[e^{tX_2𝐖}𝐖]𝐖\cdot𝐖\cdots𝐖𝐖\cdot𝐖E[e^{tX_n𝐖}𝐖]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=m_1𝐖(t)𝐖\cdot𝐖m_2𝐖(t)𝐖\cdot𝐖\cdots𝐖𝐖\cdot𝐖m_n𝐖(t)
+N(0, 1)
+Z^2
+\chi^2 (1)
+X_1, X_2, \ldots, X_n
+m_1 (t), m_2 (t), \ldots m_n (t),
+U =X_1 +X_2 +\cdots +X_n
+m_U (t) =m_1 (t) \cdot m_2 (t) \cdot \cdots \cdot m_n (t) .
+m_U (t) & \lt mi/> =E[e^{tU}] \\ \~ & \lt mi/> =E[e^{t(X_1 +X_2 +\cdots X_n)}] \\ \~ & \lt mi/> =E[e^{tX_1} \cdot e^{tX_2} \cdot \cdots \cdot e^{tX_n}] \\ \~ & \lt mi/> =E[e^{tX_1}] \cdot E[e^{tX_2}] \cdot \cdots \cdot E[e^{tX_n}] \\ \~ & \lt mi/> =m_1 (t) \cdot m_2 (t) \cdot \cdots \cdot m_n (t)
 E[]
-X_i𝐖
-X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖,𝐖X_n𝐖
-X_i𝐖𝐖\sim𝐖N(\mu𝐖_i𝐖,𝐖\sigma𝐖_i𝐖),𝐖
-a_1𝐖,𝐖a_2𝐖,𝐖\ldots𝐖,𝐖a_n𝐖
-U𝐖=\sum𝐖_{i𝐖=1}^n𝐖a_i𝐖X_i𝐖,𝐖
+X_i
+X_1, X_2, \ldots, X_n
+X_i \sim N(\mu_i, \sigma_i),
+a_1, a_2, \ldots, a_n
+U =\sum_{i =1}^n a_i X_i,
 U
-\mu𝐖𝐖=\sum𝐖_{i𝐖=1}^n𝐖a_i𝐖\mu𝐖_i𝐖\~and\~\sigma𝐖^2𝐖𝐖=\sum𝐖_{i𝐖=1}^n𝐖a_i^2𝐖\sigma𝐖_i^2𝐖𝐖.
-X_i𝐖
-N(\mu𝐖_i𝐖,𝐖\sigma𝐖_i𝐖),𝐖
-X_i𝐖
-m_{X_i𝐖}𝐖(t)𝐖=e^{(\mu𝐖_i𝐖t𝐖+\sigma𝐖_i^2𝐖t^2𝐖/2)}𝐖,𝐖
-a_i𝐖,𝐖
-a_i𝐖X_i𝐖
-m_{a_i𝐖X_i𝐖}𝐖(t)𝐖=E(e^{a_i𝐖X_i𝐖t}𝐖)𝐖=m_{X_i𝐖}𝐖(a_i𝐖t)𝐖=e^{(\mu𝐖_i𝐖a_i𝐖t𝐖+a_i^2𝐖\sigma𝐖_i^2𝐖t^2𝐖/2)}𝐖𝐖.
-U𝐖=𝐖\sum𝐖a_i𝐖X_i𝐖,𝐖
-m_U𝐖(t)𝐖&𝐖\lt𝐖mi/>𝐖=\prod𝐖_{i𝐖=1}^n𝐖m_{a_i𝐖X_i𝐖}𝐖(t)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\prod𝐖_{i𝐖=1}^n𝐖e^{(\mu𝐖_i𝐖a_i𝐖t𝐖+a_i^2𝐖\sigma𝐖_i^2𝐖t^2𝐖/2)}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=e^{(t𝐖\sum𝐖a_i𝐖\mu𝐖_i𝐖𝐖+\frac{t^2𝐖}{2}𝐖\sum𝐖a_i^2𝐖\mu𝐖_i^2𝐖)}𝐖
-𝐖\sum𝐖a_i𝐖\mu𝐖
-𝐖\sum𝐖a_i^2𝐖\sigma𝐖_i^2𝐖,𝐖
-X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖,𝐖X_n𝐖
-X_i𝐖𝐖\sim𝐖N(\mu𝐖_i𝐖,𝐖\sigma𝐖_i𝐖),𝐖
-Z_i𝐖𝐖=\frac{X_i𝐖𝐖-\mu𝐖_i𝐖}{\sigma𝐖_i𝐖}
-i𝐖=1,𝐖\ldots𝐖,𝐖n
-X_1𝐖
-X_2𝐖,𝐖
-X_n𝐖,𝐖
-(n𝐖-1)
+\mu =\sum_{i =1}^n a_i \mu_i \~and\~\sigma^2 =\sum_{i =1}^n a_i^2 \sigma_i^2 .
+X_i
+N(\mu_i, \sigma_i),
+X_i
+m_{X_i} (t) =e^{(\mu_i t +\sigma_i^2 t^2 /2)},
+a_i,
+a_i X_i
+m_{a_i X_i} (t) =E(e^{a_i X_i t}) =m_{X_i} (a_i t) =e^{(\mu_i a_i t +a_i^2 \sigma_i^2 t^2 /2)} .
+U = \sum a_i X_i,
+m_U (t) & \lt mi/> =\prod_{i =1}^n m_{a_i X_i} (t) \\ \~ & \lt mi/> =\prod_{i =1}^n e^{(\mu_i a_i t +a_i^2 \sigma_i^2 t^2 /2)} \\ \~ & \lt mi/> =e^{(t \sum a_i \mu_i +\frac{t^2}{2} \sum a_i^2 \mu_i^2)}
+\sum a_i \mu
+\sum a_i^2 \sigma_i^2,
+X_1, X_2, \ldots, X_n
+X_i \sim N(\mu_i, \sigma_i),
+Z_i =\frac{X_i -\mu_i}{\sigma_i}
+i =1, \ldots, n
+X_1
+X_2,
+X_n,
+(n -1)
 n
-X_i𝐖
-f_{X_i𝐖}𝐖(x_i𝐖)𝐖=\frac{1}{\theta𝐖}e^{𝐖-x_i𝐖/\theta𝐖}𝐖,𝐖
-x_i𝐖𝐖>0
+X_i
+f_{X_i} (x_i) =\frac{1}{\theta}e^{ -x_i /\theta},
+x_i >0
 U
 n
-U𝐖=X_1𝐖𝐖+X_2𝐖𝐖+\cdots𝐖𝐖+X_n𝐖,𝐖
-m_U𝐖(t)𝐖=m_1𝐖(t)𝐖\cdot𝐖\cdots𝐖𝐖\cdot𝐖m_n𝐖(t)𝐖=(1𝐖-\theta𝐖t)^{𝐖-n}𝐖𝐖.
-(\alpha𝐖𝐖=n,𝐖\beta𝐖𝐖=\theta𝐖)
+U =X_1 +X_2 +\cdots +X_n,
+m_U (t) =m_1 (t) \cdot \cdots \cdot m_n (t) =(1 -\theta t)^{ -n} .
+(\alpha =n, \beta =\theta)
 U
-(n,𝐖\theta𝐖)
-f_U𝐖(u)𝐖=\frac{1}{(n𝐖-1)!\theta𝐖^n𝐖}u^{n𝐖-1}𝐖e^{𝐖-u/\theta𝐖}𝐖,𝐖
-u𝐖>0
-Y_1𝐖
-N(10,𝐖.5)
-Y_2𝐖
-N(4,𝐖.2)
-U𝐖=100𝐖+7Y_1𝐖𝐖+3Y_2𝐖,𝐖
+(n, \theta)
+f_U (u) =\frac{1}{(n -1)!\theta^n}u^{n -1} e^{ -u/\theta},
+u >0
+Y_1
+N(10, .5)
+Y_2
+N(4, .2)
+U =100 +7Y_1 +3Y_2,
 U
 U
 U
-E(U)𝐖=100𝐖+7𝐖\cdot𝐖10𝐖+3𝐖\cdot𝐖4𝐖=182,𝐖
-V(U)𝐖=0𝐖+7^2𝐖𝐖\cdot𝐖(.5)^2𝐖𝐖+3^2𝐖𝐖\cdot𝐖(.2)^2𝐖𝐖=12.61,𝐖
-\sigma𝐖_U𝐖𝐖=\sqrt{12.61}𝐖=3.55.
-X𝐖\sim𝐖U(\theta𝐖_1𝐖,𝐖\theta𝐖_2𝐖)
-m_X𝐖(t)𝐖&𝐖\lt𝐖mi/>𝐖=E(e^{tX}𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_{\theta𝐖_1𝐖}^{\theta𝐖_2𝐖}𝐖e^{tx}𝐖\frac{1}{\theta𝐖_2𝐖𝐖-\theta𝐖_1𝐖}dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{\theta𝐖_2𝐖𝐖-\theta𝐖_1𝐖}\frac{1}{t}e^{tx}𝐖|𝐖_{\theta𝐖_1𝐖}^{\theta𝐖_2𝐖}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{e^{t(\theta𝐖_2𝐖𝐖-\theta𝐖_1𝐖)}𝐖}{t(\theta𝐖_2𝐖𝐖-\theta𝐖_1𝐖)}𝐖.
-X𝐖\sim𝐖gamma(\alpha𝐖,𝐖\beta𝐖)
+E(U) =100 +7 \cdot 10 +3 \cdot 4 =182,
+V(U) =0 +7^2 \cdot (.5)^2 +3^2 \cdot (.2)^2 =12.61,
+\sigma_U =\sqrt{12.61} =3.55.
+X \sim U(\theta_1, \theta_2)
+m_X (t) & \lt mi/> =E(e^{tX}) \\ \~ & \lt mi/> =\int_{\theta_1}^{\theta_2} e^{tx} \frac{1}{\theta_2 -\theta_1}dx \\ \~ & \lt mi/> =\frac{1}{\theta_2 -\theta_1}\frac{1}{t}e^{tx} |_{\theta_1}^{\theta_2} \\ \~ & \lt mi/> =\frac{e^{t(\theta_2 -\theta_1)}}{t(\theta_2 -\theta_1)} .
+X \sim gamma(\alpha, \beta)
 E(X)
 V(X)
-m_X𝐖(t)𝐖&𝐖\lt𝐖mi/>𝐖=E(e^{tX}𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\int𝐖_0^\infty𝐖𝐖e^{tx}𝐖𝐖\cdot𝐖\frac{1}{\beta𝐖^\alpha𝐖𝐖\Gamma𝐖(\alpha𝐖)}x^{\alpha𝐖𝐖-1}𝐖e^{𝐖-(x/\beta𝐖)}𝐖dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{\beta𝐖^\alpha𝐖𝐖\Gamma𝐖(\alpha𝐖)}\int𝐖_0^\infty𝐖𝐖x^{\alpha𝐖𝐖-1}𝐖e^{𝐖-x(1/\beta𝐖𝐖-t)}𝐖dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{\beta𝐖^\alpha𝐖𝐖\Gamma𝐖(\alpha𝐖)}𝐖\cdot𝐖(\frac{1}{1/\beta𝐖𝐖-t})^\alpha𝐖𝐖\Gamma𝐖(\alpha𝐖)\int𝐖_0^\infty𝐖𝐖\frac{x^{\alpha𝐖𝐖-1}𝐖e^{𝐖-x(1/\beta𝐖𝐖-t)}𝐖}{(\frac{1}{1/\beta𝐖𝐖-t})^\alpha𝐖𝐖\Gamma𝐖(\alpha𝐖)}𝐖\cdot𝐖dx𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{\beta𝐖^\alpha𝐖𝐖\Gamma𝐖(\alpha𝐖)}𝐖\cdot𝐖(\frac{1}{1/\beta𝐖𝐖-t})^\alpha𝐖𝐖\Gamma𝐖(\alpha𝐖)
-gamma(\alpha𝐖,𝐖\beta𝐖)
-m_X𝐖(t)𝐖=(1𝐖-\beta𝐖t)^{𝐖-\alpha𝐖}𝐖𝐖.
-m_X^'𝐖(t)𝐖&𝐖\lt𝐖mi/>𝐖=𝐖-\alpha𝐖(1𝐖-\beta𝐖t)^{𝐖-\alpha𝐖𝐖-1}𝐖𝐖\cdot𝐖(𝐖-\beta𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\alpha𝐖\beta𝐖(1𝐖-\beta𝐖t)^{𝐖-\alpha𝐖𝐖-1}𝐖,𝐖
-E(X)𝐖=m_X^'𝐖(0)𝐖=\alpha𝐖\beta𝐖𝐖.
-m_X^{𝐖'𝐖'}𝐖(t)𝐖&𝐖\lt𝐖mi/>𝐖=(𝐖-\alpha𝐖𝐖-1)\alpha𝐖\beta𝐖(1𝐖-\beta𝐖t)^{𝐖-\alpha𝐖𝐖-2}𝐖𝐖\cdot𝐖(\beta𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\alpha𝐖(\alpha𝐖𝐖+1)\beta𝐖^2𝐖(1𝐖-\beta𝐖t)^{𝐖-\alpha𝐖𝐖-2}𝐖,𝐖
-E(X^2𝐖)𝐖=m_X^{𝐖'𝐖'}𝐖(0)𝐖=\alpha𝐖(\alpha𝐖𝐖+1)\beta𝐖^2𝐖𝐖.
-V(X)𝐖=E(X^2𝐖)𝐖-E(X)^2𝐖𝐖=\alpha𝐖(\alpha𝐖𝐖+1)\beta𝐖^2𝐖𝐖-(\alpha𝐖\beta𝐖)^2𝐖𝐖=\alpha𝐖\beta𝐖^2𝐖𝐖.
-f(v)𝐖=\frac{v^3𝐖e^{𝐖-v/500}𝐖}{6𝐖\cdot𝐖500^4𝐖},𝐖
-v𝐖>0
+m_X (t) & \lt mi/> =E(e^{tX}) \\ \~ & \lt mi/> =\int_0^\infty e^{tx} \cdot \frac{1}{\beta^\alpha \Gamma (\alpha)}x^{\alpha -1} e^{ -(x/\beta)} dx \\ \~ & \lt mi/> =\frac{1}{\beta^\alpha \Gamma (\alpha)}\int_0^\infty x^{\alpha -1} e^{ -x(1/\beta -t)} dx \\ \~ & \lt mi/> =\frac{1}{\beta^\alpha \Gamma (\alpha)} \cdot (\frac{1}{1/\beta -t})^\alpha \Gamma (\alpha)\int_0^\infty \frac{x^{\alpha -1} e^{ -x(1/\beta -t)}}{(\frac{1}{1/\beta -t})^\alpha \Gamma (\alpha)} \cdot dx \\ \~ & \lt mi/> =\frac{1}{\beta^\alpha \Gamma (\alpha)} \cdot (\frac{1}{1/\beta -t})^\alpha \Gamma (\alpha)
+gamma(\alpha, \beta)
+m_X (t) =(1 -\beta t)^{ -\alpha} .
+m_X^' (t) & \lt mi/> = -\alpha (1 -\beta t)^{ -\alpha -1} \cdot ( -\beta) \\ \~ & \lt mi/> =\alpha \beta (1 -\beta t)^{ -\alpha -1},
+E(X) =m_X^' (0) =\alpha \beta .
+m_X^{ ' '} (t) & \lt mi/> =( -\alpha -1)\alpha \beta (1 -\beta t)^{ -\alpha -2} \cdot (\beta) \\ \~ & \lt mi/> =\alpha (\alpha +1)\beta^2 (1 -\beta t)^{ -\alpha -2},
+E(X^2) =m_X^{ ' '} (0) =\alpha (\alpha +1)\beta^2 .
+V(X) =E(X^2) -E(X)^2 =\alpha (\alpha +1)\beta^2 -(\alpha \beta)^2 =\alpha \beta^2 .
+f(v) =\frac{v^3 e^{ -v/500}}{6 \cdot 500^4},
+v >0
 K
 m
 V
-K𝐖=\frac{1}{2}mV^2𝐖
+K =\frac{1}{2}mV^2
 E(K)
-E(K)𝐖&𝐖\lt𝐖mi/>𝐖=E(\frac{1}{2}mV^2𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{2}mE(V^2𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{2}m(\sigma𝐖_V^2𝐖𝐖+\mu𝐖_V^2𝐖)
+E(K) & \lt mi/> =E(\frac{1}{2}mV^2) \\ \~ & \lt mi/> =\frac{1}{2}mE(V^2) \\ \~ & \lt mi/> =\frac{1}{2}m(\sigma_V^2 +\mu_V^2)
 V
-\mu𝐖_V𝐖𝐖=4𝐖\cdot𝐖500𝐖=2000
-\sigma𝐖_V𝐖𝐖=4𝐖\cdot𝐖500^2𝐖,𝐖
-E(K)𝐖=2500000m\~units𝐖.
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+\mu_V =4 \cdot 500 =2000
+\sigma_V =4 \cdot 500^2,
+E(K) =2500000m\~units .
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
 X
 X
-\pi𝐖
+\pi
 F(X)
-\mathbb𝐖N𝐖𝐖=\{1,𝐖2,𝐖3,𝐖\ldots𝐖\},𝐖
-\mathbb𝐖Z𝐖𝐖=\{\ldots𝐖,𝐖𝐖-2,𝐖𝐖-1,𝐖0,𝐖1,𝐖2,𝐖\ldots𝐖\},𝐖
-\mathbb𝐖R𝐖,𝐖
-I𝐖=[0,𝐖1]𝐖=\{x𝐖\in𝐖\mathbb𝐖R𝐖|0𝐖\le𝐖x𝐖\le𝐖1\},𝐖
-\varnothing𝐖,𝐖
+\mathbb N =\{1, 2, 3, \ldots \},
+\mathbb Z =\{\ldots, -2, -1, 0, 1, 2, \ldots \},
+\mathbb R,
+I =[0, 1] =\{x \in \mathbb R |0 \le x \le 1\},
+\varnothing,
 x
-A,𝐖
-x𝐖\in𝐖A
+A,
+x \in A
 x
-A,𝐖
-x𝐖\notin𝐖A
+A,
+x \notin A
 x
 A
 A
 B
 A
-B,𝐖
-A𝐖\subseteq𝐖B,𝐖
-x𝐖\in𝐖A
-x𝐖\in𝐖B
+B,
+A \subseteq B,
+x \in A
+x \in B
 A
-B,𝐖
-A𝐖\subset𝐖B,𝐖
-A𝐖\subseteq𝐖B
-x𝐖\in𝐖B
-x𝐖\notin𝐖A
+B,
+A \subset B,
+A \subseteq B
+x \in B
+x \notin A
 A
 B
-A𝐖=B,𝐖
-A𝐖\subseteq𝐖B
-B𝐖\subseteq𝐖A
-A𝐖=\{2,𝐖4,𝐖6,𝐖8,𝐖\ldots𝐖\},𝐖
-B𝐖=\{8,𝐖4\}
-C𝐖=\{x𝐖\in𝐖\mathbb𝐖R𝐖||𝐖x𝐖-3|𝐖>2\}𝐖.
+A =B,
+A \subseteq B
+B \subseteq A
+A =\{2, 4, 6, 8, \ldots \},
+B =\{8, 4\}
+C =\{x \in \mathbb R || x -3| >2\} .
 x
-S𝐖=\{all\space𝐖spiders\space𝐖on\space𝐖Earth\space𝐖alive\space𝐖today\}
-18𝐖\in𝐖A
-19𝐖\notin𝐖A
-A,𝐖B𝐖\subset𝐖\mathbb𝐖N𝐖,𝐖
-C𝐖\subset𝐖\mathbb𝐖R𝐖,𝐖
-B𝐖\subset𝐖A
-6.7𝐖\in𝐖C,𝐖
-4.1𝐖\notin𝐖C
-\varnothing𝐖𝐖\subset𝐖A
-\varnothing𝐖𝐖\subseteq𝐖X
+S =\{all\space spiders\space on\space Earth\space alive\space today\}
+18 \in A
+19 \notin A
+A, B \subset \mathbb N,
+C \subset \mathbb R,
+B \subset A
+6.7 \in C,
+4.1 \notin C
+\varnothing \subset A
+\varnothing \subseteq X
 X
 S
 A
-B,𝐖
+B,
 A
 B
-A𝐖\cup𝐖B𝐖=\{x|x𝐖\in𝐖A\~or\~x𝐖\in𝐖B\}𝐖.
+A \cup B =\{x|x \in A\~or\~x \in B\} .
 A
 B
-A𝐖\cap𝐖B𝐖=\{x|x𝐖\in𝐖A\~and\~x𝐖\in𝐖B\}𝐖.
+A \cap B =\{x|x \in A\~and\~x \in B\} .
 A
 B
-A𝐖-B𝐖=\{x|x𝐖\in𝐖A\~and\~x𝐖\notin𝐖B\}𝐖.
-A𝐖=\{2,𝐖4,𝐖6,𝐖8\}
-B𝐖=\{0,𝐖1,𝐖2,𝐖3,𝐖5,𝐖8\}𝐖.
-A𝐖\cup𝐖B
+A -B =\{x|x \in A\~and\~x \notin B\} .
+A =\{2, 4, 6, 8\}
+B =\{0, 1, 2, 3, 5, 8\} .
+A \cup B
 A
 B
-A𝐖\cup𝐖B𝐖=\{0,𝐖1,𝐖2,𝐖3,𝐖4,𝐖5,𝐖6,𝐖8\}𝐖.
-A𝐖\cap𝐖B
+A \cup B =\{0, 1, 2, 3, 4, 5, 6, 8\} .
+A \cap B
 A
 B
-A𝐖\cap𝐖B𝐖=\{2,𝐖8\},𝐖
-A𝐖-B
+A \cap B =\{2, 8\},
+A -B
 A
 B
-A𝐖-B𝐖=\{4,𝐖6\}𝐖.
-(A𝐖\cap𝐖B)𝐖\cup𝐖(A𝐖-B)𝐖=A,𝐖
-A𝐖\subseteq𝐖U
+A -B =\{4, 6\} .
+(A \cap B) \cup (A -B) =A,
+A \subseteq U
 U
-U,𝐖
-\overline{A},𝐖
+U,
+\overline{A},
 U
 A
-\overline{A}𝐖=\{x𝐖\in𝐖U|x𝐖\notin𝐖A\}𝐖.
-E𝐖=\{2,𝐖4,𝐖6,𝐖\ldots𝐖\}
-\mathbb𝐖N𝐖,𝐖
-\overline{E}𝐖=\{1,𝐖3,𝐖5,𝐖\ldots𝐖\},𝐖
-[0,𝐖1]
-A𝐖=(0.3,𝐖0.7)
-\overline{A}𝐖=[0,𝐖0.3]𝐖\cup𝐖[0.7,𝐖1]𝐖.
-A𝐖\cap𝐖B𝐖=\varnothing𝐖,𝐖
+\overline{A} =\{x \in U|x \notin A\} .
+E =\{2, 4, 6, \ldots \}
+\mathbb N,
+\overline{E} =\{1, 3, 5, \ldots \},
+[0, 1]
+A =(0.3, 0.7)
+\overline{A} =[0, 0.3] \cup [0.7, 1] .
+A \cap B =\varnothing,
 A
 B
-k𝐖\ge𝐖2,𝐖
-A_1𝐖,𝐖A_2𝐖,𝐖\ldots𝐖,𝐖A_k𝐖
-A,𝐖
-B,𝐖
+k \ge 2,
+A_1, A_2, \ldots, A_k
+A,
+B,
 C
 U
-A𝐖\cap𝐖\overline{A}𝐖=\varnothing𝐖
-A𝐖\cup𝐖\overline{A}𝐖=U𝐖.
-A𝐖\cap𝐖(B𝐖\cup𝐖C)𝐖=(A𝐖\cup𝐖B)𝐖\cap𝐖(A𝐖\cup𝐖C)𝐖.
-A𝐖\cup𝐖(B𝐖\cap𝐖C)𝐖=(A𝐖\cap𝐖B)𝐖\cup𝐖(A𝐖\cap𝐖C)𝐖.
-\overline{A𝐖\cup𝐖B}𝐖=\overline{A}𝐖\cap𝐖\overline{B}𝐖.
-\overline{A𝐖\cap𝐖B}𝐖=\overline{A}𝐖\cup𝐖\overline{B}𝐖.
-x𝐖\in𝐖\overline{A𝐖\cup𝐖B}𝐖&𝐖\lt𝐖mi/>𝐖\iff𝐖x𝐖\notin𝐖A𝐖\cup𝐖B𝐖&𝐖\~by\space𝐖def\textquotesingle𝐖n\space𝐖of\space𝐖complement𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\iff𝐖x𝐖\notin𝐖A\~and\~x𝐖\notin𝐖B𝐖&𝐖\~by\space𝐖def\textquotesingle𝐖n\space𝐖of\space𝐖union𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\iff𝐖x𝐖\in𝐖\overline{A}\~and\~x𝐖\in𝐖\overline{B}𝐖&𝐖\~by\space𝐖def\textquotesingle𝐖n\space𝐖of\space𝐖complement𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖\iff𝐖x𝐖\in𝐖\overline{A}𝐖\cap𝐖\overline{B}𝐖&𝐖\~by\space𝐖def\textquotesingle𝐖n\space𝐖of\space𝐖intersection
-\overline{A𝐖\cup𝐖B}𝐖\subseteq𝐖\overline{A}𝐖\cap𝐖\overline{B}
-\overline{A}𝐖\cap𝐖\overline{B}𝐖\subseteq𝐖\overline{A𝐖\cup𝐖B},𝐖
-A,𝐖
-|𝐖A|
+A \cap \overline{A} =\varnothing
+A \cup \overline{A} =U .
+A \cap (B \cup C) =(A \cup B) \cap (A \cup C) .
+A \cup (B \cap C) =(A \cap B) \cup (A \cap C) .
+\overline{A \cup B} =\overline{A} \cap \overline{B} .
+\overline{A \cap B} =\overline{A} \cup \overline{B} .
+x \in \overline{A \cup B} & \lt mi/> \iff x \notin A \cup B & \~by\space def\textquotesingle n\space of\space complement \\ \~ & \lt mi/> \iff x \notin A\~and\~x \notin B & \~by\space def\textquotesingle n\space of\space union \\ \~ & \lt mi/> \iff x \in \overline{A}\~and\~x \in \overline{B} & \~by\space def\textquotesingle n\space of\space complement \\ \~ & \lt mi/> \iff x \in \overline{A} \cap \overline{B} & \~by\space def\textquotesingle n\space of\space intersection
+\overline{A \cup B} \subseteq \overline{A} \cap \overline{B}
+\overline{A} \cap \overline{B} \subseteq \overline{A \cup B},
+A,
+| A|
 A
-|𝐖A|𝐖=8,𝐖|𝐖B|𝐖=9,𝐖|𝐖A𝐖\cup𝐖B|𝐖=15,𝐖
-|𝐖A𝐖\cap𝐖B|𝐖=2
+| A| =8, | B| =9, | A \cup B| =15,
+| A \cap B| =2
 A
 B
-|𝐖A𝐖\cup𝐖B|𝐖=|𝐖A|𝐖+|𝐖B|𝐖-|𝐖A𝐖\cap𝐖B|𝐖.
-\mathbb𝐖N𝐖𝐖=\{1,𝐖2,𝐖3,𝐖4,𝐖\ldots𝐖\}𝐖.
-\{2,𝐖4,𝐖6,𝐖\ldots𝐖\}
+| A \cup B| =| A| +| B| -| A \cap B| .
+\mathbb N =\{1, 2, 3, 4, \ldots \} .
+\{2, 4, 6, \ldots \}
 I
 n
-n𝐖\ge𝐖100
-(0,𝐖\infty𝐖),𝐖
+n \ge 100
+(0, \infty),
 A
 B
-|𝐖A|,𝐖
+| A|,
 A
-A𝐖\cup𝐖B
-A𝐖\cap𝐖B
-A𝐖-B
-A𝐖=B
-3𝐖\in𝐖A
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+A \cup B
+A \cap B
+A -B
+A =B
+3 \in A
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
 X
 X
-\pi𝐖
+\pi
 F(X)
-X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖,𝐖X_n𝐖
+X_1, X_2, \ldots, X_n
 n
-N(\mu𝐖,𝐖\sigma𝐖)
-X_i𝐖𝐖=x_i𝐖
-\overline{x}𝐖=\frac{1}{n}\sum𝐖_{i𝐖=1}^n𝐖x_i𝐖𝐖.
-\overline{X}𝐖=\frac{1}{n}\sum𝐖_{i𝐖=1}^n𝐖X_i𝐖𝐖.
-X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖,𝐖X_n𝐖
-N(\mu𝐖,𝐖\sigma𝐖)
-\overline{X}𝐖=\frac{1}{n}\sum𝐖_{i𝐖=1}^n𝐖X_i𝐖\~is\~N(\mu𝐖,𝐖\frac{\sigma𝐖}{\sqrt{n}})𝐖.
-a_i𝐖𝐖=1/n
+N(\mu, \sigma)
+X_i =x_i
+\overline{x} =\frac{1}{n}\sum_{i =1}^n x_i .
+\overline{X} =\frac{1}{n}\sum_{i =1}^n X_i .
+X_1, X_2, \ldots, X_n
+N(\mu, \sigma)
+\overline{X} =\frac{1}{n}\sum_{i =1}^n X_i \~is\~N(\mu, \frac{\sigma}{\sqrt{n}}) .
+a_i =1/n
 X
 X
-\mu𝐖
-\sigma𝐖𝐖=30
-\mu𝐖
-X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖,𝐖X_{25}𝐖
-X_i𝐖𝐖\sim𝐖N(\mu𝐖,𝐖30),𝐖
-\overline{X}𝐖\sim𝐖N(\mu𝐖,𝐖\frac{30}{\sqrt{25}})𝐖=N(\mu𝐖,𝐖6)𝐖.
-P(|𝐖\overline{X}𝐖-\mu𝐖|𝐖\lt𝐖5)𝐖.
-P(|\overline{X}𝐖-\mu𝐖|𝐖\lt𝐖5)𝐖&𝐖\lt𝐖mi/>𝐖=P(𝐖-5𝐖\lt𝐖\overline{X}𝐖-\mu𝐖𝐖\lt𝐖5)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(\frac{𝐖-5}{6}𝐖\lt𝐖\frac{\overline{X}𝐖-\mu𝐖}{6}𝐖\lt𝐖\frac{5}{6})𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(𝐖-5/6𝐖\lt𝐖Z𝐖\lt𝐖5/6)𝐖.
-P(𝐖-5/6𝐖\lt𝐖Z𝐖\lt𝐖5/6)
-\mu𝐖
+\mu
+\sigma =30
+\mu
+X_1, X_2, \ldots, X_{25}
+X_i \sim N(\mu, 30),
+\overline{X} \sim N(\mu, \frac{30}{\sqrt{25}}) =N(\mu, 6) .
+P(| \overline{X} -\mu | \lt 5) .
+P(|\overline{X} -\mu | \lt 5) & \lt mi/> =P( -5 \lt \overline{X} -\mu \lt 5) \\ \~ & \lt mi/> =P(\frac{ -5}{6} \lt \frac{\overline{X} -\mu}{6} \lt \frac{5}{6}) \\ \~ & \lt mi/> =P( -5/6 \lt Z \lt 5/6) .
+P( -5/6 \lt Z \lt 5/6)
+\mu
 n
-P(\frac{𝐖-5}{30/\sqrt{n}}𝐖\lt𝐖Z𝐖\lt𝐖\frac{5}{30/\sqrt{n}})𝐖=.95𝐖.
+P(\frac{ -5}{30/\sqrt{n}} \lt Z \lt \frac{5}{30/\sqrt{n}}) =.95 .
 n
-P(Z𝐖\lt𝐖\frac{𝐖-5}{30/\sqrt{n}})𝐖=.025𝐖.
-N(0,𝐖1),𝐖
-P(Z𝐖\lt𝐖𝐖-1.96)𝐖=.025
-\frac{𝐖-5}{30/\sqrt{n}}𝐖=𝐖-1.96,𝐖
+P(Z \lt \frac{ -5}{30/\sqrt{n}}) =.025 .
+N(0, 1),
+P(Z \lt -1.96) =.025
+\frac{ -5}{30/\sqrt{n}} = -1.96,
 n
-n𝐖=139
-X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖,𝐖X_n𝐖
-N(\mu𝐖,𝐖\sigma𝐖)
-\overline{X}𝐖=\frac{1}{n}\sum𝐖_{i𝐖=1}^n𝐖X_i𝐖\~and\~S^2𝐖𝐖=\frac{1}{n𝐖-1}\sum𝐖_{i𝐖=1}^n𝐖(X_i𝐖𝐖-\overline{X})^2𝐖𝐖.
-\frac{n𝐖-1}{\sigma𝐖^2𝐖}S^2𝐖𝐖\sim𝐖\chi𝐖^2𝐖(n𝐖-1),𝐖
+n =139
+X_1, X_2, \ldots, X_n
+N(\mu, \sigma)
+\overline{X} =\frac{1}{n}\sum_{i =1}^n X_i \~and\~S^2 =\frac{1}{n -1}\sum_{i =1}^n (X_i -\overline{X})^2 .
+\frac{n -1}{\sigma^2}S^2 \sim \chi^2 (n -1),
 \overline{X}
-S^2𝐖
+S^2
 \overline{X}
-S^2𝐖
-n𝐖=25
-N(10,𝐖2)
-\overline{X}𝐖\sim𝐖N(10,𝐖2/\sqrt{25})𝐖=N(10,𝐖0.4)
-6S^2𝐖𝐖\sim𝐖\chi𝐖^2𝐖(24)
-\frac{n𝐖-1}{\sigma𝐖^2𝐖}𝐖=6
+S^2
+n =25
+N(10, 2)
+\overline{X} \sim N(10, 2/\sqrt{25}) =N(10, 0.4)
+6S^2 \sim \chi^2 (24)
+\frac{n -1}{\sigma^2} =6
 \overline{X}
-S^2𝐖
+S^2
 25
-N(10,𝐖2)
+N(10, 2)
 \overline{x}
-s^2𝐖
+s^2
 \overline{x}
-N(10,𝐖0.4)
-\frac{n𝐖-1}{\sigma𝐖^2𝐖}s^2𝐖
-\chi𝐖^2𝐖(24)
+N(10, 0.4)
+\frac{n -1}{\sigma^2}s^2
+\chi^2 (24)
 \overline{x}
-s^2𝐖
+s^2
 \overline{x}
-s^2𝐖
-Z𝐖\sim𝐖N(0,𝐖1)
-W𝐖\sim𝐖\chi𝐖^2𝐖(\nu𝐖)
+s^2
+Z \sim N(0, 1)
+W \sim \chi^2 (\nu)
 Z
 W
-\frac{Z}{\sqrt{W/\nu𝐖}}
-\nu𝐖
-\mu𝐖,𝐖
+\frac{Z}{\sqrt{W/\nu}}
+\nu
+\mu,
 \overline{x}
-\mu𝐖,𝐖
-\sigma𝐖
-\sigma𝐖
-\mu𝐖
-\sigma𝐖,𝐖
-\sigma𝐖
-s,𝐖
+\mu,
+\sigma
+\sigma
+\mu
+\sigma,
+\sigma
+s,
 Z
-z𝐖=\frac{\overline{x}𝐖-\mu𝐖}{\sigma𝐖/\sqrt{n}}𝐖.
-\sigma𝐖
+z =\frac{\overline{x} -\mu}{\sigma /\sqrt{n}} .
+\sigma
 s
-Z𝐖=\frac{\overline{X}𝐖-\mu𝐖}{\sigma𝐖/\sqrt{n}}
-N(0,𝐖1)
-\frac{(n𝐖-1)S^2𝐖}{\sigma𝐖^2𝐖}
-\chi𝐖^2𝐖(n𝐖-1),𝐖
-\frac{Z}{\sqrt{\frac{(n𝐖-1)S^2𝐖}{\sigma𝐖^2𝐖}/(n𝐖-1)}}
-(n𝐖-1)
-\frac{Z}{\sqrt{\frac{(n𝐖-1)S^2𝐖}{\sigma𝐖^2𝐖}/(n𝐖-1)}}𝐖&𝐖\lt𝐖mi/>𝐖=\frac{\frac{\overline{X}𝐖-\mu𝐖}{\sigma𝐖/\sqrt{n}}}{s/\sigma𝐖}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{\overline{X}𝐖-\mu𝐖}{\sigma𝐖/\sqrt{n}}𝐖\cdot𝐖(\sigma𝐖/s)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{\overline{X}𝐖-\mu𝐖}{s/\sqrt{n}}𝐖.
-X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖,𝐖X_n𝐖
-N(\mu𝐖,𝐖\sigma𝐖)
-\overline{X}𝐖\sim𝐖N(\mu𝐖,𝐖\sigma𝐖/\sqrt{n})
-Z𝐖=\frac{\overline{X}𝐖-\mu𝐖}{\sigma𝐖/\sqrt{n}}
-N(0,𝐖1)
-T𝐖=\frac{\overline{X}𝐖-\mu𝐖}{s/\sqrt{n}}
-n𝐖-1
+Z =\frac{\overline{X} -\mu}{\sigma /\sqrt{n}}
+N(0, 1)
+\frac{(n -1)S^2}{\sigma^2}
+\chi^2 (n -1),
+\frac{Z}{\sqrt{\frac{(n -1)S^2}{\sigma^2}/(n -1)}}
+(n -1)
+\frac{Z}{\sqrt{\frac{(n -1)S^2}{\sigma^2}/(n -1)}} & \lt mi/> =\frac{\frac{\overline{X} -\mu}{\sigma /\sqrt{n}}}{s/\sigma} \\ \~ & \lt mi/> =\frac{\overline{X} -\mu}{\sigma /\sqrt{n}} \cdot (\sigma /s) \\ \~ & \lt mi/> =\frac{\overline{X} -\mu}{s/\sqrt{n}} .
+X_1, X_2, \ldots, X_n
+N(\mu, \sigma)
+\overline{X} \sim N(\mu, \sigma /\sqrt{n})
+Z =\frac{\overline{X} -\mu}{\sigma /\sqrt{n}}
+N(0, 1)
+T =\frac{\overline{X} -\mu}{s/\sqrt{n}}
+n -1
 t
 k
 t(k)
 t(k)
-𝐖-\infty𝐖𝐖\lt𝐖t𝐖\lt𝐖\infty𝐖,𝐖
-f(t)𝐖=\frac{\Gamma𝐖(\frac{k𝐖+1}{2})}{\sqrt{k\pi𝐖}\Gamma𝐖(k/2)}(1𝐖+\frac{t^2𝐖}{2})^{𝐖-(\frac{k𝐖+1}{2})}𝐖
-T𝐖\sim𝐖t(k)
-E(T)𝐖=0
+-\infty \lt t \lt \infty,
+f(t) =\frac{\Gamma (\frac{k +1}{2})}{\sqrt{k\pi}\Gamma (k/2)}(1 +\frac{t^2}{2})^{ -(\frac{k +1}{2})}
+T \sim t(k)
+E(T) =0
 y
-N(0,𝐖1),𝐖
-a𝐖>0,𝐖
-P(t𝐖>a)𝐖>P(Z𝐖>a)
-k𝐖\to𝐖\infty𝐖,𝐖
-t(k)𝐖\to𝐖N(0,𝐖1)
-\lt𝐖mi/>^2𝐖
-X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖,𝐖X_9𝐖
-X_i𝐖𝐖\sim𝐖N(\mu𝐖,𝐖\sigma𝐖)
-\mu𝐖,𝐖
-\sigma𝐖
-g_1𝐖
-g_2𝐖
-P(g_1𝐖𝐖\le𝐖\overline{X}𝐖-\mu𝐖𝐖\le𝐖g_2𝐖)𝐖=.9𝐖.
-g_1𝐖
-g_2𝐖
-\mu𝐖
-T𝐖=\frac{\sqrt{n}(\overline{X}𝐖-\mu𝐖)}{S}
+N(0, 1),
+a >0,
+P(t >a) >P(Z >a)
+k \to \infty,
+t(k) \to N(0, 1)
+\lt mi/>^2
+X_1, X_2, \ldots, X_9
+X_i \sim N(\mu, \sigma)
+\mu,
+\sigma
+g_1
+g_2
+P(g_1 \le \overline{X} -\mu \le g_2) =.9 .
+g_1
+g_2
+\mu
+T =\frac{\sqrt{n}(\overline{X} -\mu)}{S}
 t(8)
 t(8)
 c
-𝐖-c
+-c
 c
-𝐖-c
-P(𝐖-1.86𝐖\lt𝐖T𝐖\lt𝐖1.86)𝐖=.9,𝐖
-T𝐖=3(\overline{X}𝐖-\mu𝐖)/S,𝐖
-.9𝐖&𝐖\lt𝐖mi/>𝐖=P(𝐖-1.86𝐖\lt𝐖T𝐖\lt𝐖1.86)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(𝐖-1.86𝐖\lt𝐖3(\overline{X}𝐖-\mu𝐖)/S𝐖\lt𝐖1.86)𝐖\lt𝐖1.86)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(\frac{𝐖-1.86}{3}S𝐖\lt𝐖\overline{X}𝐖-\mu𝐖𝐖\lt𝐖\frac{1.86}{3}S)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(𝐖-.62S𝐖\lt𝐖\overline{X}𝐖-\mu𝐖𝐖\lt𝐖.62S)
-g_1𝐖𝐖=𝐖-.62S
-g_2𝐖𝐖=.62S
-n𝐖=9,𝐖
-\mu𝐖
-(\overline{X}𝐖-.62S,𝐖\overline{X}𝐖+.62S)𝐖.
-\lt𝐖mi/>^2𝐖
-\mu𝐖
-\lt𝐖mi/>^2𝐖
-\lt𝐖mi/>^2𝐖
-\mu𝐖
-X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖,𝐖X_n𝐖
-E(X_i𝐖)𝐖=\mu𝐖
-V(X_i𝐖)𝐖=\sigma𝐖^2𝐖
-i𝐖=1,𝐖2,𝐖\ldots𝐖,𝐖n
-\overline{X}𝐖=\frac{1}{n}\sum𝐖_{i𝐖=1}^n𝐖X_i𝐖\~and\~U_n𝐖𝐖=\frac{\overline{X}𝐖-\mu𝐖}{\sigma𝐖/\sqrt{n}}𝐖.
-U_n𝐖
-n𝐖\to𝐖\infty𝐖
-n,𝐖
-\frac{\overline{X}𝐖-\mu𝐖}{\sigma𝐖/\sqrt{n}}𝐖\sim𝐖N(0,𝐖1)
-\mu𝐖
-\sigma𝐖,𝐖
-N(\mu𝐖,𝐖\sigma𝐖/\sqrt{n})
-\frac{\overline{X}𝐖-\mu𝐖}{S/\sqrt{n}}
-t(n𝐖-1)
-n𝐖=20
+-c
+P( -1.86 \lt T \lt 1.86) =.9,
+T =3(\overline{X} -\mu)/S,
+.9 & \lt mi/> =P( -1.86 \lt T \lt 1.86) \\ \~ & \lt mi/> =P( -1.86 \lt 3(\overline{X} -\mu)/S \lt 1.86) \lt 1.86) \\ \~ & \lt mi/> =P(\frac{ -1.86}{3}S \lt \overline{X} -\mu \lt \frac{1.86}{3}S) \\ \~ & \lt mi/> =P( -.62S \lt \overline{X} -\mu \lt .62S)
+g_1 = -.62S
+g_2 =.62S
+n =9,
+\mu
+(\overline{X} -.62S, \overline{X} +.62S) .
+\lt mi/>^2
+\mu
+\lt mi/>^2
+\lt mi/>^2
+\mu
+X_1, X_2, \ldots, X_n
+E(X_i) =\mu
+V(X_i) =\sigma^2
+i =1, 2, \ldots, n
+\overline{X} =\frac{1}{n}\sum_{i =1}^n X_i \~and\~U_n =\frac{\overline{X} -\mu}{\sigma /\sqrt{n}} .
+U_n
+n \to \infty
+n,
+\frac{\overline{X} -\mu}{\sigma /\sqrt{n}} \sim N(0, 1)
+\mu
+\sigma,
+N(\mu, \sigma /\sqrt{n})
+\frac{\overline{X} -\mu}{S/\sqrt{n}}
+t(n -1)
+n =20
 \overline{x}
 s
-T𝐖=\frac{\overline{X}𝐖-\mu𝐖}{S/\sqrt{n}}
+T =\frac{\overline{X} -\mu}{S/\sqrt{n}}
 c
-P(|𝐖(\overline{x}𝐖-\mu𝐖)/(s/\sqrt{n})|𝐖\lt𝐖c)𝐖=.95𝐖.
+P(| (\overline{x} -\mu)/(s/\sqrt{n})| \lt c) =.95 .
 X
-(n,𝐖p),𝐖
+(n, p),
 X
-X𝐖=\sum𝐖_{i𝐖=1^n𝐖}𝐖Y_i𝐖
-Y_i𝐖
-(1,𝐖p)
-P(Y_i𝐖𝐖=1)𝐖=p
-P(Y_i𝐖𝐖=0)𝐖=1𝐖-p,𝐖
-\mu𝐖_{Y_i𝐖}𝐖𝐖=p\~and\~\sigma𝐖_{Y_i𝐖}𝐖𝐖=\sqrt{p(1𝐖-p)}𝐖.
-\frac{1}{n}X𝐖=\frac{1}{n}\sum𝐖_{i𝐖=1}^n𝐖Y_i𝐖𝐖.
-n,𝐖
+X =\sum_{i =1^n} Y_i
+Y_i
+(1, p)
+P(Y_i =1) =p
+P(Y_i =0) =1 -p,
+\mu_{Y_i} =p\~and\~\sigma_{Y_i} =\sqrt{p(1 -p)} .
+\frac{1}{n}X =\frac{1}{n}\sum_{i =1}^n Y_i .
+n,
 \frac{1}{n}X
-N(p,𝐖\sqrt{p(1𝐖-p)/n})
+N(p, \sqrt{p(1 -p)/n})
 X
-binom(n,𝐖p)
+binom(n, p)
 X
-N(np,𝐖\sqrt{np(1𝐖-p)})
+N(np, \sqrt{np(1 -p)})
 n
-n𝐖=100
+n =100
 X
-x𝐖=0,𝐖1,𝐖\ldots𝐖,𝐖100,𝐖
-p(x)𝐖=\frac{\binom{4400}{x}\binom{5600}{100𝐖-x}}{\binom{10000}{100}},𝐖
-P(X𝐖\ge𝐖51)𝐖=\sum𝐖_{x𝐖=51}^{100}𝐖p(x),𝐖
-p𝐖=.44
+x =0, 1, \ldots, 100,
+p(x) =\frac{\binom{4400}{x}\binom{5600}{100 -x}}{\binom{10000}{100}},
+P(X \ge 51) =\sum_{x =51}^{100} p(x),
+p =.44
 X
-binom(n𝐖=100,𝐖p𝐖=.44),𝐖
-P(X𝐖\ge𝐖51)
-n𝐖=10000
-n𝐖=1000
+binom(n =100, p =.44),
+P(X \ge 51)
+n =10000
+n =1000
 X
-N(44,𝐖\sqrt{100(.44)(.56)}),𝐖
-N(44,𝐖4.964)
-P(X𝐖\ge𝐖51)𝐖=1𝐖-P(X𝐖\lt𝐖51)
+N(44, \sqrt{100(.44)(.56)}),
+N(44, 4.964)
+P(X \ge 51) =1 -P(X \lt 51)
 X
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(100,𝐖.44),𝐖
-P(51𝐖\le𝐖X𝐖\le𝐖55)
-N(44,𝐖\sqrt{100(.44)(.56)})
-P(X𝐖=x)
-x𝐖=51,𝐖\ldots𝐖,𝐖55.
-N(44,𝐖\sqrt{100(.44)(.56)})
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (100, .44),
+P(51 \le X \le 55)
+N(44, \sqrt{100(.44)(.56)})
+P(X =x)
+x =51, \ldots, 55.
+N(44, \sqrt{100(.44)(.56)})
 f(x)
 f
-P(51𝐖\le𝐖X𝐖\le𝐖55)
-\int𝐖_{51}^{55}𝐖f(x)dx,𝐖
-\int𝐖_{50.5}^{55.5}𝐖f(x)dx𝐖.
-P(51𝐖\le𝐖X𝐖\le𝐖55)
+P(51 \le X \le 55)
+\int_{51}^{55} f(x)dx,
+\int_{50.5}^{55.5} f(x)dx .
+P(51 \le X \le 55)
 A
-P(X𝐖\ge𝐖51)
-P(460𝐖\le𝐖X𝐖\le𝐖480)
+P(X \ge 51)
+P(460 \le X \le 480)
 X
-\mathtt𝐖b𝐖\mathtt𝐖i𝐖\mathtt𝐖n𝐖\mathtt𝐖o𝐖\mathtt𝐖m𝐖(1000,𝐖.5)
-P(460𝐖\le𝐖X𝐖\le𝐖480)𝐖\approx𝐖P(459.5𝐖\le𝐖Y𝐖\le𝐖480.5),𝐖
-Y𝐖\sim𝐖N(500,𝐖\sqrt{1000(.5)(.5)})
-\mu𝐖,𝐖
-p,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖,𝐖
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
+\mathtt b \mathtt i \mathtt n \mathtt o \mathtt m (1000, .5)
+P(460 \le X \le 480) \approx P(459.5 \le Y \le 480.5),
+Y \sim N(500, \sqrt{1000(.5)(.5)})
+\mu,
+p,
+\mu_1 -\mu_2,
+p_1 -p_2,
+\mu_1 -\mu_2
 X
 X
-\pi𝐖
+\pi
 F(X)
-\theta𝐖
-X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖X_n𝐖
-𝐖\hat{\theta𝐖}𝐖
-X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖X_n𝐖
-\theta𝐖
-E(𝐖\hat{\theta𝐖}𝐖)𝐖=\theta𝐖
-𝐖\hat{\theta𝐖}𝐖_n𝐖
-B(𝐖\hat{\theta𝐖}𝐖)𝐖=E(𝐖\hat{\theta𝐖}𝐖)𝐖-\theta𝐖
-𝐖\hat{\theta𝐖}𝐖_n𝐖
-(𝐖\hat{\theta𝐖}𝐖)𝐖=E[(𝐖\hat{\theta𝐖}𝐖𝐖-\theta𝐖)^2𝐖]
-\theta𝐖
-𝐖\hat{\theta𝐖}𝐖
-𝐖\hat{\theta𝐖}𝐖
-𝐖\hat{\theta𝐖}𝐖
-\theta𝐖
-\theta𝐖
-X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖,𝐖X_n𝐖
-U(0,𝐖\theta𝐖),𝐖
-\theta𝐖
-X_i𝐖
-\theta𝐖
-\theta𝐖
-\overline{X}𝐖=\frac{1}{n}\sum𝐖_{i𝐖=1}^n𝐖X_i𝐖𝐖.
-E(\overline{X})𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{n}\sum𝐖_{i𝐖=1}^n𝐖E(X_i𝐖)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{1}{n}\sum𝐖_{i𝐖=1}^n𝐖\frac{\theta𝐖}{2}
-X_i𝐖
-U(0,𝐖\theta𝐖),𝐖
-E(X_i𝐖)𝐖=\frac{0𝐖+\theta𝐖}{2}
-E(\overline{X})𝐖=\frac{1}{n}𝐖\cdot𝐖n𝐖\cdot𝐖\frac{\theta𝐖}{2}𝐖=\frac{\theta𝐖}{2}𝐖.
-E(\overline{X})𝐖\not=𝐖\theta𝐖,𝐖
+\theta
+X_1, X_2, \ldots X_n
+\hat{\theta}
+X_1, X_2, \ldots X_n
+\theta
+E( \hat{\theta}) =\theta
+\hat{\theta}_n
+B( \hat{\theta}) =E( \hat{\theta}) -\theta
+\hat{\theta}_n
+( \hat{\theta}) =E[( \hat{\theta} -\theta)^2]
+\theta
+\hat{\theta}
+\hat{\theta}
+\hat{\theta}
+\theta
+\theta
+X_1, X_2, \ldots, X_n
+U(0, \theta),
+\theta
+X_i
+\theta
+\theta
+\overline{X} =\frac{1}{n}\sum_{i =1}^n X_i .
+E(\overline{X}) & \lt mi/> =\frac{1}{n}\sum_{i =1}^n E(X_i) \\ \~ & \lt mi/> =\frac{1}{n}\sum_{i =1}^n \frac{\theta}{2}
+X_i
+U(0, \theta),
+E(X_i) =\frac{0 +\theta}{2}
+E(\overline{X}) =\frac{1}{n} \cdot n \cdot \frac{\theta}{2} =\frac{\theta}{2} .
+E(\overline{X}) \not= \theta,
 \overline{X}
-\theta𝐖
+\theta
 E(\overline{X})
-\theta𝐖,𝐖
+\theta,
 \overline{X}
-\theta𝐖
-(unbiased\space𝐖estimator\space𝐖1)𝐖&𝐖𝐖\hat{\theta𝐖}𝐖_1𝐖𝐖=2\overline{X}
-\theta𝐖
-Y𝐖=\max𝐖\{X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖,𝐖X_n𝐖\}𝐖.
-E(Y)𝐖=\frac{n}{n𝐖+1}\theta𝐖𝐖.
-(unbiased\space𝐖estimator\space𝐖2)𝐖&𝐖𝐖\hat{\theta𝐖}𝐖_2𝐖𝐖=\frac{n𝐖+1}{n}𝐖\cdot𝐖Y
-\theta𝐖
-𝐖\hat{\theta𝐖}𝐖_1𝐖
-𝐖\hat{\theta𝐖}𝐖_2𝐖
-𝐖\hat{\theta𝐖}𝐖_1𝐖
-\theta𝐖,𝐖
-𝐖\hat{\theta𝐖}𝐖_2𝐖
-\theta𝐖
-n𝐖=10,𝐖
-\theta𝐖_1𝐖
-\theta𝐖_2𝐖,𝐖
-X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖,𝐖X_n𝐖
-f_X𝐖(x),𝐖
-Y𝐖=\max𝐖\{X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖,𝐖X_n𝐖\}𝐖.
+\theta
+(unbiased\space estimator\space 1) & \hat{\theta}_1 =2\overline{X}
+\theta
+Y =\max \{X_1, X_2, \ldots, X_n \} .
+E(Y) =\frac{n}{n +1}\theta .
+(unbiased\space estimator\space 2) & \hat{\theta}_2 =\frac{n +1}{n} \cdot Y
+\theta
+\hat{\theta}_1
+\hat{\theta}_2
+\hat{\theta}_1
+\theta,
+\hat{\theta}_2
+\theta
+n =10,
+\theta_1
+\theta_2,
+X_1, X_2, \ldots, X_n
+f_X (x),
+Y =\max \{X_1, X_2, \ldots, X_n \} .
 Y
-y,𝐖
-F_Y𝐖(y)𝐖&𝐖\lt𝐖mi/>𝐖=P(Y𝐖\le𝐖y)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(all\~X_i𝐖𝐖\le𝐖y)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=P(X_1𝐖𝐖\le𝐖y,𝐖X_2𝐖𝐖\le𝐖y,𝐖\ldots𝐖,𝐖X_n𝐖𝐖\le𝐖y)𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=[F_X𝐖(y)]^n𝐖𝐖.
-F_Y𝐖
-f_Y𝐖
-(density\space𝐖for\space𝐖the\space𝐖max\space𝐖of\space𝐖sample)𝐖&𝐖f_Y𝐖𝐖=n[F_X𝐖(y)]^{n𝐖-1}𝐖𝐖\cdot𝐖f_X𝐖(y)𝐖.
+y,
+F_Y (y) & \lt mi/> =P(Y \le y) \\ \~ & \lt mi/> =P(all\~X_i \le y) \\ \~ & \lt mi/> =P(X_1 \le y, X_2 \le y, \ldots, X_n \le y) \\ \~ & \lt mi/> =[F_X (y)]^n .
+F_Y
+f_Y
+(density\space for\space the\space max\space of\space sample) & f_Y =n[F_X (y)]^{n -1} \cdot f_X (y) .
 X
-U(0,𝐖\theta𝐖)
-f_X𝐖(x)𝐖=1/\theta𝐖,𝐖
-F_X𝐖(x)𝐖=x/\theta𝐖,𝐖
-0𝐖\le𝐖x𝐖\le𝐖\theta𝐖
-Y𝐖=\max𝐖(X_i𝐖),𝐖
-X_i𝐖
-U(0,𝐖\theta𝐖)
-f_Y𝐖(y)𝐖&𝐖\lt𝐖mi/>𝐖=n[\frac{y}{\theta𝐖}]^{n𝐖-1}𝐖𝐖\cdot𝐖\frac{1}{\theta𝐖}𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\frac{n}{\theta𝐖^n𝐖}y^{n𝐖-1}𝐖,𝐖
-0𝐖\le𝐖y𝐖\le𝐖\theta𝐖,𝐖
-E(Y)𝐖=\int𝐖_0^\theta𝐖𝐖y𝐖\cdot𝐖\frac{n}{\theta𝐖^n𝐖}y^{n𝐖-1}𝐖dy𝐖=\cdots𝐖𝐖=\frac{n}{n𝐖+1}\theta𝐖,𝐖
+U(0, \theta)
+f_X (x) =1/\theta,
+F_X (x) =x/\theta,
+0 \le x \le \theta
+Y =\max (X_i),
+X_i
+U(0, \theta)
+f_Y (y) & \lt mi/> =n[\frac{y}{\theta}]^{n -1} \cdot \frac{1}{\theta} \\ \~ & \lt mi/> =\frac{n}{\theta^n}y^{n -1},
+0 \le y \le \theta,
+E(Y) =\int_0^\theta y \cdot \frac{n}{\theta^n}y^{n -1} dy =\cdots =\frac{n}{n +1}\theta,
 \overline{X}
-(X_i𝐖)
-\mu𝐖,𝐖
-X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖,𝐖X_n𝐖
-\mu𝐖
-\sigma𝐖
+(X_i)
+\mu,
+X_1, X_2, \ldots, X_n
+\mu
+\sigma
 \overline{X}
-E(\overline{X})𝐖=\mu𝐖
-\sigma𝐖/\sqrt{n}
+E(\overline{X}) =\mu
+\sigma /\sqrt{n}
 \overline{X}
-\mu𝐖,𝐖
-\sigma𝐖/\sqrt{n}
-p,𝐖
-X_1𝐖,𝐖X_2𝐖,𝐖\ldots𝐖,𝐖X_n𝐖
-b(1,𝐖n)
-X𝐖=X_1𝐖𝐖+X_2𝐖𝐖+\cdots𝐖𝐖+X_n𝐖
+\mu,
+\sigma /\sqrt{n}
+p,
+X_1, X_2, \ldots, X_n
+b(1, n)
+X =X_1 +X_2 +\cdots +X_n
 n
-𝐖\hat{p}𝐖𝐖=X/n
-E(𝐖\hat{p}𝐖)𝐖=p
-\sqrt{\frac{p(1𝐖-p)}{n}}
-𝐖\hat{p}𝐖
-p,𝐖
-\sqrt{\frac{p(1𝐖-p)}{n}}
-p,𝐖
+\hat{p} =X/n
+E( \hat{p}) =p
+\sqrt{\frac{p(1 -p)}{n}}
+\hat{p}
+p,
+\sqrt{\frac{p(1 -p)}{n}}
+p,
 p
-𝐖\hat{p}𝐖𝐖=24/65𝐖\approx𝐖.369𝐖.
-𝐖\hat{p}𝐖𝐖\sim𝐖N(p,𝐖\sqrt{p(1𝐖-p)/n}),𝐖
-P(|𝐖𝐖\hat{p}𝐖𝐖-p|𝐖\lt𝐖2𝐖\cdot𝐖\sqrt{p(1𝐖-p)/n})𝐖\approx𝐖0.95.
+\hat{p} =24/65 \approx .369 .
+\hat{p} \sim N(p, \sqrt{p(1 -p)/n}),
+P(| \hat{p} -p| \lt 2 \cdot \sqrt{p(1 -p)/n}) \approx 0.95.
 p
-\sqrt{p(1𝐖-p)/n}𝐖.
-n,𝐖
-\sqrt{x(1𝐖-x)/n}
-\sqrt{𝐖\hat{p}𝐖(1𝐖-𝐖\hat{p}𝐖)/n}𝐖\approx𝐖\sqrt{p(1𝐖-p)/n},𝐖
-P(|𝐖𝐖\hat{p}𝐖𝐖-p|𝐖\lt𝐖2𝐖\cdot𝐖\sqrt{𝐖\hat{p}𝐖(1𝐖-𝐖\hat{p}𝐖)/n})𝐖\approx𝐖0.95.
-𝐖\hat{p}𝐖𝐖\approx𝐖.37,𝐖
-2𝐖\cdot𝐖\sqrt{p(1𝐖-p)/n}𝐖\approx𝐖0.12,𝐖
-|𝐖.37𝐖-p|𝐖\lt𝐖0.12
-.25𝐖\lt𝐖p𝐖\lt𝐖.49
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖,𝐖
-X_1𝐖,𝐖\ldots𝐖,𝐖X_{n_1𝐖}𝐖𝐖\sim𝐖N(\mu𝐖_1𝐖,𝐖\sigma𝐖_1𝐖)
-Y_1𝐖,𝐖\ldots𝐖,𝐖Y_{n_2𝐖}𝐖𝐖\sim𝐖N(\mu𝐖_2𝐖,𝐖\sigma𝐖_2𝐖)
+\sqrt{p(1 -p)/n} .
+n,
+\sqrt{x(1 -x)/n}
+\sqrt{ \hat{p} (1 - \hat{p})/n} \approx \sqrt{p(1 -p)/n},
+P(| \hat{p} -p| \lt 2 \cdot \sqrt{ \hat{p} (1 - \hat{p})/n}) \approx 0.95.
+\hat{p} \approx .37,
+2 \cdot \sqrt{p(1 -p)/n} \approx 0.12,
+| .37 -p| \lt 0.12
+.25 \lt p \lt .49
+\mu_1 -\mu_2,
+X_1, \ldots, X_{n_1} \sim N(\mu_1, \sigma_1)
+Y_1, \ldots, Y_{n_2} \sim N(\mu_2, \sigma_2)
 \overline{X}
 \overline{Y}
-\overline{X}𝐖-\overline{Y}
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
-\overline{X}𝐖-\overline{Y}
-\overline{X}𝐖-\overline{Y}
-E(\overline{X}𝐖-\overline{Y})𝐖=E(\overline{X})𝐖-E(\overline{Y})𝐖=\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
-V(\overline{X}𝐖-\overline{Y})𝐖=V(\overline{X})𝐖+V(\overline{Y})𝐖=\frac{\sigma𝐖_1^2𝐖}{n_1𝐖}𝐖+\frac{\sigma𝐖_2^2𝐖}{n_2𝐖}
-\overline{X}𝐖-\overline{Y}
-\mu𝐖_1𝐖𝐖-\mu𝐖_2𝐖
-\sqrt{\sigma𝐖_1^2𝐖/n_1𝐖𝐖+\sigma𝐖_2^2𝐖/n_2𝐖}𝐖.
-p_1𝐖𝐖-p_2𝐖,𝐖
-p_1𝐖𝐖-p_2𝐖
-𝐖\hat{p}𝐖_1𝐖𝐖-𝐖\hat{p}𝐖_2𝐖,𝐖
-𝐖\hat{p}𝐖_i𝐖
-n_i𝐖
+\overline{X} -\overline{Y}
+\mu_1 -\mu_2
+\overline{X} -\overline{Y}
+\overline{X} -\overline{Y}
+E(\overline{X} -\overline{Y}) =E(\overline{X}) -E(\overline{Y}) =\mu_1 -\mu_2
+V(\overline{X} -\overline{Y}) =V(\overline{X}) +V(\overline{Y}) =\frac{\sigma_1^2}{n_1} +\frac{\sigma_2^2}{n_2}
+\overline{X} -\overline{Y}
+\mu_1 -\mu_2
+\sqrt{\sigma_1^2 /n_1 +\sigma_2^2 /n_2} .
+p_1 -p_2,
+p_1 -p_2
+\hat{p}_1 - \hat{p}_2,
+\hat{p}_i
+n_i
 i
-p_i𝐖
-𝐖\hat{p}𝐖_1𝐖𝐖-𝐖\hat{p}𝐖_2𝐖
-p_1𝐖𝐖-p_2𝐖
-\sqrt{\frac{p_1𝐖(1𝐖-p_1𝐖)}{n_1𝐖}𝐖+\frac{p_2𝐖(1𝐖-p_2𝐖)}{n_2𝐖}}
-p_i𝐖
+p_i
+\hat{p}_1 - \hat{p}_2
+p_1 -p_2
+\sqrt{\frac{p_1 (1 -p_1)}{n_1} +\frac{p_2 (1 -p_2)}{n_2}}
+p_i
 i
-i𝐖=1,𝐖2
-p_1𝐖𝐖-p_2𝐖,𝐖
-n_1𝐖𝐖=120
-𝐖\hat{p}𝐖_1𝐖𝐖=.375
-n_2𝐖𝐖=80
-𝐖\hat{p}𝐖_2𝐖𝐖=.45
-𝐖\hat{p}𝐖_1𝐖𝐖-𝐖\hat{p}𝐖_2𝐖𝐖=𝐖-.075𝐖.
-𝐖\hat{p}𝐖_1𝐖𝐖-𝐖\hat{p}𝐖_2𝐖
-N(p_1𝐖𝐖-p_2𝐖,𝐖\sqrt{\frac{𝐖\hat{p}𝐖_1𝐖(1𝐖-𝐖\hat{p}𝐖_1𝐖)}{n_1𝐖}𝐖+\frac{𝐖\hat{p}𝐖_2𝐖(1𝐖-𝐖\hat{p}𝐖_2𝐖)}{n_2𝐖}})
-𝐖\hat{p}𝐖_i𝐖
-p_i𝐖
-𝐖\hat{p}𝐖_i𝐖
-P(|𝐖(𝐖\hat{p}𝐖_1𝐖𝐖-𝐖\hat{p}𝐖_2𝐖)𝐖-(p_1𝐖𝐖-p_2𝐖)|𝐖\lt𝐖c)𝐖\approx𝐖.95,𝐖
-c𝐖=2𝐖\cdot𝐖\sqrt{\frac{𝐖\hat{p}𝐖_1𝐖(1𝐖-𝐖\hat{p}𝐖_1𝐖)}{n_1𝐖}𝐖+\frac{𝐖\hat{p}𝐖_2𝐖(1𝐖-𝐖\hat{p}𝐖_2𝐖)}{n_2𝐖}}𝐖.
-𝐖\hat{p}𝐖_1𝐖𝐖-𝐖\hat{p}𝐖_2𝐖𝐖-c𝐖\lt𝐖p_1𝐖𝐖-p_2𝐖𝐖\lt𝐖𝐖\hat{p}𝐖_1𝐖𝐖-𝐖\hat{p}𝐖_2𝐖𝐖+c
-𝐖-0.217𝐖\lt𝐖p_1𝐖𝐖-p_2𝐖𝐖\lt𝐖0.067.
+i =1, 2
+p_1 -p_2,
+n_1 =120
+\hat{p}_1 =.375
+n_2 =80
+\hat{p}_2 =.45
+\hat{p}_1 - \hat{p}_2 = -.075 .
+\hat{p}_1 - \hat{p}_2
+N(p_1 -p_2, \sqrt{\frac{ \hat{p}_1 (1 - \hat{p}_1)}{n_1} +\frac{ \hat{p}_2 (1 - \hat{p}_2)}{n_2}})
+\hat{p}_i
+p_i
+\hat{p}_i
+P(| ( \hat{p}_1 - \hat{p}_2) -(p_1 -p_2)| \lt c) \approx .95,
+c =2 \cdot \sqrt{\frac{ \hat{p}_1 (1 - \hat{p}_1)}{n_1} +\frac{ \hat{p}_2 (1 - \hat{p}_2)}{n_2}} .
+\hat{p}_1 - \hat{p}_2 -c \lt p_1 -p_2 \lt \hat{p}_1 - \hat{p}_2 +c
+-0.217 \lt p_1 -p_2 \lt 0.067.

@@ -1,1586 +1,1586 @@
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
 I
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
 m
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\mathbb𝐖Z𝐖
-\mathbb𝐖Z𝐖
+\mathbb Z
+\mathbb Z
 R
 R
-a,𝐖b,𝐖c𝐖\in𝐖R
-c𝐖\not=𝐖0
-ac𝐖=bc,𝐖
-a𝐖=b𝐖.
-\mathbb𝐖Z𝐖,𝐖
+a, b, c \in R
+c \not= 0
+ac =bc,
+a =b .
+\mathbb Z,
 R
-a,𝐖b𝐖\in𝐖R𝐖.
+a, b \in R .
 a
 b
-a𝐖\mid𝐖b
-c𝐖\in𝐖R
-ac𝐖=b𝐖.
+a \mid b
+c \in R
+ac =b .
 a
-b𝐖.
+b .
 \overline{2}
-\mathbb𝐖Z𝐖_5𝐖
-\mathbb𝐖Z𝐖_6𝐖
-\mathbb𝐖Z𝐖_{10}𝐖
-\mathbb𝐖Z𝐖
+\mathbb Z_5
+\mathbb Z_6
+\mathbb Z_{10}
+\mathbb Z
 R
-a𝐖\in𝐖R
-a𝐖\mid𝐖bc
-b,𝐖c𝐖\in𝐖R,𝐖
+a \in R
+a \mid bc
+b, c \in R,
 a|b
-a|c𝐖.
+a|c .
 R
-a𝐖\in𝐖R
-a𝐖=bc
-b,𝐖c𝐖\in𝐖R,𝐖
+a \in R
+a =bc
+b, c \in R,
 b
 c
-\mathbb𝐖R𝐖
-\mathbb𝐖Z𝐖
-\mathbb𝐖Z𝐖_5𝐖
-\mathbb𝐖Z𝐖_6𝐖
+\mathbb R
+\mathbb Z
+\mathbb Z_5
+\mathbb Z_6
 R
-a𝐖\in𝐖R
+a \in R
 a
-\mathbb𝐖Z𝐖
+\mathbb Z
 R
-p𝐖\in𝐖R
+p \in R
 p
 R
-\mathbb𝐖Z𝐖[x]
-R𝐖=\{a_0𝐖𝐖+a_2𝐖x^2𝐖𝐖+\cdots𝐖𝐖+a_{n𝐖-1}𝐖x^{n𝐖-1}𝐖𝐖+a_n𝐖x^n𝐖𝐖\colon𝐖a_i𝐖𝐖\in𝐖\mathbb𝐖Z𝐖,𝐖n𝐖\in𝐖\mathbb𝐖N𝐖_0𝐖\}𝐖.
+\mathbb Z [x]
+R =\{a_0 +a_2 x^2 +\cdots +a_{n -1} x^{n -1} +a_n x^n \colon a_i \in \mathbb Z, n \in \mathbb N_0 \} .
 R
-x^n𝐖
+x^n
 R
-\mathbb𝐖Z𝐖
-\mathbb𝐖Z𝐖
-\leqslant𝐖
-\mathbb𝐖Z𝐖
+\mathbb Z
+\mathbb Z
+\leqslant
+\mathbb Z
 R
-a,𝐖b𝐖\in𝐖R𝐖.
-d𝐖\in𝐖R
+a, b \in R .
+d \in R
 a
 b
-d𝐖\mid𝐖a
-d𝐖\mid𝐖b
-e𝐖\in𝐖R
-e𝐖\mid𝐖a
-e𝐖\mid𝐖b,𝐖
-e𝐖\mid𝐖d𝐖.
+d \mid a
+d \mid b
+e \in R
+e \mid a
+e \mid b,
+e \mid d .
 R
-a,𝐖b𝐖\in𝐖R
+a, b \in R
 d
 a
-b𝐖.
+b .
 d
 a
-b𝐖.
-\Rightarrow𝐖
-\Rightarrow𝐖
-\Rightarrow𝐖
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+b .
+\Rightarrow
+\Rightarrow
+\Rightarrow
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
 A
 +
-0,𝐖
+0,
 x
 x
 A
-p𝐖=a_0𝐖𝐖+a_1𝐖x𝐖+a_2𝐖x^2𝐖𝐖+\cdots𝐖𝐖+a_n𝐖x^n𝐖,𝐖
-a_n𝐖𝐖\not=𝐖0𝐖.
-n𝐖\in𝐖\mathbb𝐖N𝐖_0𝐖
-p,𝐖
-\deg𝐖(p)𝐖=n,𝐖
-a_0𝐖,𝐖a_1𝐖,𝐖\ldots𝐖,𝐖a_n𝐖
-a_n𝐖
-p,𝐖
-a_n𝐖x^n𝐖
-p𝐖.
-A[x]𝐖\colon𝐖=\{a_0𝐖𝐖+a_1𝐖x𝐖+a_2𝐖x𝐖+\cdots𝐖𝐖+a_n𝐖x^n𝐖𝐖\colon𝐖n𝐖\in𝐖\mathbb𝐖N𝐖_0𝐖,𝐖a_i𝐖𝐖\in𝐖A\}
-A𝐖.
+p =a_0 +a_1 x +a_2 x^2 +\cdots +a_n x^n,
+a_n \not= 0 .
+n \in \mathbb N_0
+p,
+\deg (p) =n,
+a_0, a_1, \ldots, a_n
+a_n
+p,
+a_n x^n
+p .
+A[x] \colon =\{a_0 +a_1 x +a_2 x +\cdots +a_n x^n \colon n \in \mathbb N_0, a_i \in A\}
+A .
 A[x]
-0,𝐖
-0𝐖.
-𝐖-\infty𝐖𝐖.
+0,
+0 .
+-\infty .
 A[x]
-A𝐖.
-\mathbb𝐖N𝐖
-\mathbb𝐖Z𝐖
-2\mathbb𝐖Z𝐖
-\mathbb𝐖Q𝐖
-\mathbb𝐖Q𝐖[x]
-\mathbb𝐖Z𝐖_8𝐖
-\mathbb𝐖Z𝐖_2𝐖
-\mathbb𝐖R𝐖
-\mathbb𝐖C𝐖
-\mscrM𝐖_2𝐖(\mathbb𝐖R𝐖)
-\cdot𝐖
+A .
+\mathbb N
+\mathbb Z
+2\mathbb Z
+\mathbb Q
+\mathbb Q [x]
+\mathbb Z_8
+\mathbb Z_2
+\mathbb R
+\mathbb C
+\mscrM_2 (\mathbb R)
+\cdot
 +
-\cdot𝐖
-\cdot𝐖
-\cdot𝐖
-F[x],𝐖
+\cdot
+\cdot
+\cdot
+F[x],
 F
 R
 +
-𝐖\cdot𝐖,𝐖
-(R,𝐖𝐖+,𝐖𝐖\cdot𝐖),𝐖
-a,𝐖b,𝐖c𝐖\in𝐖R,𝐖
-(a𝐖+b)𝐖+c𝐖=a𝐖+(b𝐖+c)𝐖.
-a,𝐖b𝐖\in𝐖R,𝐖
-a𝐖+b𝐖=b𝐖+a𝐖.
-0_R𝐖𝐖\in𝐖R
-a𝐖\in𝐖R,𝐖
-a𝐖+0_R𝐖𝐖=0_R𝐖𝐖+a𝐖=a𝐖.
-a𝐖\in𝐖R
-b𝐖\in𝐖R
-a𝐖+b𝐖=b𝐖+a𝐖=0_R𝐖𝐖.
-a,𝐖b,𝐖c𝐖\in𝐖R,𝐖
-(a𝐖\cdot𝐖b)𝐖\cdot𝐖c𝐖=a𝐖\cdot𝐖(b𝐖\cdot𝐖c)𝐖.
-a,𝐖b,𝐖c𝐖\in𝐖R,𝐖
-a𝐖\cdot𝐖(b𝐖+c)𝐖=a𝐖\cdot𝐖b𝐖+a𝐖\cdot𝐖c𝐖.
-a,𝐖b,𝐖c𝐖\in𝐖R,𝐖
-(a𝐖+b)𝐖\cdot𝐖c𝐖=a𝐖\cdot𝐖c𝐖+b𝐖\cdot𝐖c𝐖.
+\cdot,
+(R, +, \cdot),
+a, b, c \in R,
+(a +b) +c =a +(b +c) .
+a, b \in R,
+a +b =b +a .
+0_R \in R
+a \in R,
+a +0_R =0_R +a =a .
+a \in R
+b \in R
+a +b =b +a =0_R .
+a, b, c \in R,
+(a \cdot b) \cdot c =a \cdot (b \cdot c) .
+a, b, c \in R,
+a \cdot (b +c) =a \cdot b +a \cdot c .
+a, b, c \in R,
+(a +b) \cdot c =a \cdot c +b \cdot c .
 R
 0
-0_R𝐖𝐖.
+0_R .
 R
-a,𝐖b𝐖\in𝐖R,𝐖
-ab𝐖=ba𝐖.
+a, b \in R,
+ab =ba .
 R
-1_R𝐖𝐖\in𝐖R
-a𝐖\in𝐖R,𝐖
-a𝐖\cdot𝐖1_R𝐖𝐖=1_R𝐖𝐖\cdot𝐖a𝐖=a𝐖.
+1_R \in R
+a \in R,
+a \cdot 1_R =1_R \cdot a =a .
 R
-e𝐖\in𝐖R
-r𝐖\in𝐖R,𝐖
-er𝐖=r
-re𝐖=r
+e \in R
+r \in R,
+er =r
+re =r
 R
 e
-er𝐖=re𝐖=r
-r𝐖\in𝐖R,𝐖
+er =re =r
+r \in R,
 e
-\overset{\textasciidieresis𝐖}{\smile𝐖}
+\overset{\textasciidieresis}{\smile}
 R
 R
-1_R𝐖
+1_R
 R[x]
-1_{R[x]}𝐖𝐖=1_R𝐖
-V𝐖\subseteq𝐖\mathbb𝐖R𝐖^n𝐖
-W𝐖\subseteq𝐖V,𝐖
-V𝐖=W𝐖+W^\perp𝐖𝐖
-(R,𝐖𝐖+,𝐖𝐖\cdot𝐖)
-S𝐖\subseteq𝐖R𝐖.
+1_{R[x]} =1_R
+V \subseteq \mathbb R^n
+W \subseteq V,
+V =W +W^\perp
+(R, +, \cdot)
+S \subseteq R .
 S
 +
-𝐖\cdot𝐖,𝐖
+\cdot,
 S
-R𝐖.
+R .
 R
-S𝐖.
+S .
 S
 R
-R𝐖.
+R .
 R
 S
-R𝐖.
+R .
 S
-S𝐖\not=𝐖\varnothing𝐖;𝐖
+S \not= \varnothing;
 S
 S
 S
-R𝐖.
-S𝐖=\mathbb𝐖Z𝐖,𝐖
-R𝐖=\mathbb𝐖Q𝐖
-S𝐖=\mathbb𝐖Z𝐖_5𝐖,𝐖
-R𝐖=\mathbb𝐖Z𝐖_7𝐖
+R .
+S =\mathbb Z,
+R =\mathbb Q
+S =\mathbb Z_5,
+R =\mathbb Z_7
 S
-R𝐖=S[x]
-S𝐖=\mathbb𝐖R𝐖,𝐖
-R𝐖=\mathbb𝐖C𝐖
+R =S[x]
+S =\mathbb R,
+R =\mathbb C
 R
-u𝐖\in𝐖R
-v𝐖\in𝐖R
-uv𝐖=vu𝐖=1,𝐖
+u \in R
+v \in R
+uv =vu =1,
 u
-R𝐖.
+R .
 R
-R^\times𝐖𝐖𝐖.
-x,𝐖y𝐖\in𝐖R
-u𝐖\in𝐖R^\times𝐖𝐖
-x𝐖=uy𝐖.
-\mathbb𝐖Z𝐖^\times𝐖𝐖𝐖.
-\mathbb𝐖Z𝐖𝐖?
+R^\times .
+x, y \in R
+u \in R^\times
+x =uy .
+\mathbb Z^\times .
+\mathbb Z ?
 R
-R𝐖=\mathbb𝐖Z𝐖_3𝐖
-R𝐖=\mathbb𝐖Z𝐖_3𝐖𝐖.
-𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖𝐖+
-\overline{0}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-\overline{1}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-\overline{2}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖\overline{0}
-𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖\overline{0}
-\overline{1}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖\overline{2}
-𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖\overline{1}
-\overline{1}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-\overline{2}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-\overline{0}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖\overline{2}
-\overline{2}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-\overline{0}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-\overline{1}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-R𝐖=\mathbb𝐖Z𝐖_3𝐖𝐖.
-𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖𝐖\cdot𝐖
-\overline{0}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-\overline{1}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-\overline{2}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖\overline{0}
-𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖\overline{0}
-\overline{0}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖\overline{0}
-𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖\overline{1}
-\overline{0}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-\overline{1}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-\overline{2}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖\overline{2}
-\overline{0}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-\overline{2}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-\overline{1}𝐖\textquotesingle𝐖\backslash𝐖x00200b\textquotesingle𝐖
-R𝐖=\mathbb𝐖Z𝐖_5𝐖
-R𝐖=\mathbb𝐖Z𝐖_6𝐖
+R =\mathbb Z_3
+R =\mathbb Z_3 .
+\textquotesingle \backslash x00200b\textquotesingle +
+\overline{0} \textquotesingle \backslash x00200b\textquotesingle
+\overline{1} \textquotesingle \backslash x00200b\textquotesingle
+\overline{2} \textquotesingle \backslash x00200b\textquotesingle
+\textquotesingle \backslash x00200b\textquotesingle \overline{0}
+\textquotesingle \backslash x00200b\textquotesingle \overline{0}
+\overline{1} \textquotesingle \backslash x00200b\textquotesingle
+\textquotesingle \backslash x00200b\textquotesingle \overline{2}
+\textquotesingle \backslash x00200b\textquotesingle \overline{1}
+\overline{1} \textquotesingle \backslash x00200b\textquotesingle
+\overline{2} \textquotesingle \backslash x00200b\textquotesingle
+\overline{0} \textquotesingle \backslash x00200b\textquotesingle
+\textquotesingle \backslash x00200b\textquotesingle \overline{2}
+\overline{2} \textquotesingle \backslash x00200b\textquotesingle
+\overline{0} \textquotesingle \backslash x00200b\textquotesingle
+\overline{1} \textquotesingle \backslash x00200b\textquotesingle
+R =\mathbb Z_3 .
+\textquotesingle \backslash x00200b\textquotesingle \cdot
+\overline{0} \textquotesingle \backslash x00200b\textquotesingle
+\overline{1} \textquotesingle \backslash x00200b\textquotesingle
+\overline{2} \textquotesingle \backslash x00200b\textquotesingle
+\textquotesingle \backslash x00200b\textquotesingle \overline{0}
+\textquotesingle \backslash x00200b\textquotesingle \overline{0}
+\overline{0} \textquotesingle \backslash x00200b\textquotesingle
+\textquotesingle \backslash x00200b\textquotesingle \overline{0}
+\textquotesingle \backslash x00200b\textquotesingle \overline{1}
+\overline{0} \textquotesingle \backslash x00200b\textquotesingle
+\overline{1} \textquotesingle \backslash x00200b\textquotesingle
+\overline{2} \textquotesingle \backslash x00200b\textquotesingle
+\textquotesingle \backslash x00200b\textquotesingle \overline{2}
+\overline{0} \textquotesingle \backslash x00200b\textquotesingle
+\overline{2} \textquotesingle \backslash x00200b\textquotesingle
+\overline{1} \textquotesingle \backslash x00200b\textquotesingle
+R =\mathbb Z_5
+R =\mathbb Z_6
 R
-z𝐖\in𝐖R
-x𝐖\in𝐖R
-zx𝐖=0
-xz𝐖=0𝐖.
-\mathbb𝐖Z𝐖
-\mathbb𝐖R𝐖𝐖.
-(x𝐖-2)(x𝐖+5)𝐖=0,𝐖
-x𝐖-2𝐖=0
-x𝐖+5𝐖=0
-\mathbb𝐖Z𝐖_{10}𝐖
-\mathbb𝐖Z𝐖_{11}𝐖𝐖.
-\mathbb𝐖Z𝐖_m𝐖,𝐖
-m𝐖>1𝐖.
+z \in R
+x \in R
+zx =0
+xz =0 .
+\mathbb Z
+\mathbb R .
+(x -2)(x +5) =0,
+x -2 =0
+x +5 =0
+\mathbb Z_{10}
+\mathbb Z_{11} .
+\mathbb Z_m,
+m >1 .
 R
-a,𝐖b𝐖\in𝐖R
+a, b \in R
 ab
 a
 b
 R
-u𝐖\in𝐖R^\times𝐖𝐖𝐖.
+u \in R^\times .
 u
 R
 R
-\mathbb𝐖Z𝐖
-\mathbb𝐖Z𝐖_8𝐖
-\mathbb𝐖Z𝐖_{19}𝐖
-\mathbb𝐖R𝐖
-\mathbb𝐖Q𝐖[x]
-m𝐖>1
-R𝐖=\mathbb𝐖Z𝐖_m𝐖𝐖.
+\mathbb Z
+\mathbb Z_8
+\mathbb Z_{19}
+\mathbb R
+\mathbb Q [x]
+m >1
+R =\mathbb Z_m .
 R
 R
 R
 S
 R
-1_S𝐖𝐖=1_R𝐖,𝐖
+1_S =1_R,
 S
 R
-R[x]𝐖.
-F,𝐖
+R[x] .
+F,
 F[x]
 R
-p(x),𝐖q(x)𝐖\in𝐖R[x]
-\deg𝐖(p(x)q(x))𝐖=\deg𝐖(p(x))𝐖+\deg𝐖(q(x))𝐖.
+p(x), q(x) \in R[x]
+\deg (p(x)q(x)) =\deg (p(x)) +\deg (q(x)) .
 R
-R[x]𝐖?
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+R[x] ?
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-L𝐖\colon𝐖V𝐖\to𝐖W
-L(\mathbf𝐖v𝐖𝐖+\mathbf𝐖u𝐖)𝐖=L(\mathbf𝐖v𝐖)𝐖+L(\mathbf𝐖u𝐖)
-L(c\mathbf𝐖u𝐖)𝐖=cL(\mathbf𝐖u𝐖)
+L \colon V \to W
+L(\mathbf v +\mathbf u) =L(\mathbf v) +L(\mathbf u)
+L(c\mathbf u) =cL(\mathbf u)
 R
 S
-\varphi𝐖𝐖\colon𝐖R𝐖\to𝐖S
+\varphi \colon R \to S
 R
-S𝐖.
-x,𝐖y𝐖\in𝐖R𝐖\colon𝐖
-\varphi𝐖(x𝐖+y)𝐖=\varphi𝐖(x)𝐖+\varphi𝐖(y),𝐖
-\varphi𝐖(xy)𝐖=\varphi𝐖(x)\varphi𝐖(y),𝐖
-\varphi𝐖(1_R𝐖)𝐖=1_S𝐖𝐖.
-\varphi𝐖
-\varphi𝐖
-R𝐖\cong𝐖S𝐖.
-\varphi𝐖𝐖\colon𝐖R𝐖\to𝐖R
-\varphi𝐖
-R𝐖.
+S .
+x, y \in R \colon
+\varphi (x +y) =\varphi (x) +\varphi (y),
+\varphi (xy) =\varphi (x)\varphi (y),
+\varphi (1_R) =1_S .
+\varphi
+\varphi
+R \cong S .
+\varphi \colon R \to R
+\varphi
+R .
 R
 F
-\varphi𝐖𝐖\colon𝐖R𝐖\to𝐖R
-\varphi𝐖(x)𝐖=x
-\psi𝐖𝐖\colon𝐖R𝐖\to𝐖R
-\psi𝐖(x)𝐖=𝐖-x
-\alpha𝐖𝐖\colon𝐖\mathbb𝐖Z𝐖𝐖\to𝐖\mathbb𝐖Z𝐖
-\alpha𝐖(x)𝐖=5x
-F𝐖\colon𝐖\mathbb𝐖Z𝐖_2𝐖[x]𝐖\to𝐖\mathbb𝐖Z𝐖_2𝐖[x]
-F(p)𝐖=p^2𝐖
-\iota𝐖𝐖\colon𝐖\mathbb𝐖C𝐖𝐖\to𝐖\mathbb𝐖C𝐖
-\iota𝐖(a𝐖+bi)𝐖=a𝐖-bi,𝐖
-a,𝐖b𝐖\in𝐖\mathbb𝐖R𝐖,𝐖i^2𝐖𝐖=𝐖-1
-\beta𝐖𝐖\colon𝐖\mathbb𝐖Z𝐖𝐖\to𝐖\mathbb𝐖Z𝐖_5𝐖
-\beta𝐖(x)𝐖=\overline{x}
-\epsilon𝐖_r𝐖𝐖\colon𝐖F[x]𝐖\to𝐖F
-\epsilon𝐖_r𝐖(p(x))𝐖=p(r),𝐖
-p(x)𝐖=a_0𝐖𝐖+a_1𝐖x𝐖+\cdots𝐖𝐖+a_n𝐖x^n𝐖,𝐖
+\varphi \colon R \to R
+\varphi (x) =x
+\psi \colon R \to R
+\psi (x) = -x
+\alpha \colon \mathbb Z \to \mathbb Z
+\alpha (x) =5x
+F \colon \mathbb Z_2 [x] \to \mathbb Z_2 [x]
+F(p) =p^2
+\iota \colon \mathbb C \to \mathbb C
+\iota (a +bi) =a -bi,
+a, b \in \mathbb R, i^2 = -1
+\beta \colon \mathbb Z \to \mathbb Z_5
+\beta (x) =\overline{x}
+\epsilon_r \colon F[x] \to F
+\epsilon_r (p(x)) =p(r),
+p(x) =a_0 +a_1 x +\cdots +a_n x^n,
 p(r)
 r
 p
-p(r)𝐖=a_0𝐖𝐖+a_1𝐖r𝐖+\cdots𝐖𝐖+a_n𝐖r^n𝐖
+p(r) =a_0 +a_1 r +\cdots +a_n r^n
 r
-\xi𝐖𝐖\colon𝐖\mathbb𝐖Z𝐖_5𝐖𝐖\to𝐖\mathbb𝐖Z𝐖_{10}𝐖
-\xi𝐖(\overline{x})𝐖=\overline{5x}
-\varphi𝐖𝐖\colon𝐖R𝐖\to𝐖S
-\ker𝐖\varphi𝐖𝐖=\{r𝐖\in𝐖R𝐖\colon𝐖\varphi𝐖(r)𝐖=0_S𝐖\}
-\varphi𝐖𝐖.
-\varphi𝐖𝐖\colon𝐖R𝐖\to𝐖S,𝐖
-\ker𝐖\varphi𝐖
-\varphi𝐖𝐖\colon𝐖R𝐖\to𝐖S
-\varphi𝐖
-\ker𝐖\varphi𝐖𝐖=\{0\}𝐖.
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\xi \colon \mathbb Z_5 \to \mathbb Z_{10}
+\xi (\overline{x}) =\overline{5x}
+\varphi \colon R \to S
+\ker \varphi =\{r \in R \colon \varphi (r) =0_S \}
+\varphi .
+\varphi \colon R \to S,
+\ker \varphi
+\varphi \colon R \to S
+\varphi
+\ker \varphi =\{0\} .
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\mathbb𝐖Z𝐖,𝐖\mathbb𝐖Q𝐖,𝐖\mathbb𝐖R𝐖,𝐖\mathbb𝐖C𝐖,𝐖
+\mathbb Z, \mathbb Q, \mathbb R, \mathbb C,
 I
-I𝐖.
+I .
 m
-\mathbb𝐖Z𝐖𝐖.
+\mathbb Z .
 R
 I
-R,𝐖
-a,𝐖b𝐖\in𝐖R𝐖.
+R,
+a, b \in R .
 a
 b
 I
-b𝐖-a𝐖\in𝐖I𝐖.
-a𝐖+I𝐖=b𝐖+I𝐖.
-a𝐖+I𝐖=b𝐖+I
-R𝐖.
-a𝐖=9,𝐖
-b𝐖=3,𝐖
-I𝐖=𝐖\langle𝐖6𝐖\rangle𝐖,𝐖
-R𝐖=\mathbb𝐖Z𝐖
-a𝐖=10,𝐖
-b𝐖=4,𝐖
-I𝐖=𝐖\langle𝐖7𝐖\rangle𝐖,𝐖
-R𝐖=\mathbb𝐖Z𝐖
-a𝐖=9,𝐖
-b𝐖=3,𝐖
-I𝐖=𝐖\langle𝐖6𝐖\rangle𝐖,𝐖
-R𝐖=\mathbb𝐖Z𝐖[x]
-a𝐖=x^2𝐖𝐖+x𝐖-2,𝐖
-b𝐖=x𝐖-1,𝐖
-I𝐖=𝐖\langle𝐖x𝐖+1𝐖\rangle𝐖,𝐖
-R𝐖=\mathbb𝐖Q𝐖[x]
-a𝐖=x^3𝐖,𝐖
-b𝐖=x^2𝐖𝐖+2x,𝐖
-I𝐖=𝐖\langle𝐖y𝐖-x^2𝐖,𝐖y𝐖-x𝐖-2𝐖\rangle𝐖,𝐖
-R𝐖=\mathbb𝐖Q𝐖[x,𝐖y]
-R,𝐖
-I,𝐖
-a𝐖\in𝐖R,𝐖
-a𝐖+I𝐖=0𝐖+I𝐖=I𝐖?
-b𝐖-a𝐖\in𝐖I,𝐖
-x𝐖\in𝐖I
-b𝐖-a𝐖=x,𝐖
-b𝐖=a𝐖+x𝐖.
-\mathbb𝐖Z𝐖_m𝐖,𝐖
+b -a \in I .
+a +I =b +I .
+a +I =b +I
+R .
+a =9,
+b =3,
+I = \langle 6 \rangle,
+R =\mathbb Z
+a =10,
+b =4,
+I = \langle 7 \rangle,
+R =\mathbb Z
+a =9,
+b =3,
+I = \langle 6 \rangle,
+R =\mathbb Z [x]
+a =x^2 +x -2,
+b =x -1,
+I = \langle x +1 \rangle,
+R =\mathbb Q [x]
+a =x^3,
+b =x^2 +2x,
+I = \langle y -x^2, y -x -2 \rangle,
+R =\mathbb Q [x, y]
+R,
+I,
+a \in R,
+a +I =0 +I =I ?
+b -a \in I,
+x \in I
+b -a =x,
+b =a +x .
+\mathbb Z_m,
 I
 R
 I
-R𝐖.
+R .
 I
-R𝐖.
-R/I𝐖.
-R𝐖.
+R .
+R/I .
+R .
 R
 I
-R𝐖.
-a,𝐖b,𝐖c,𝐖d𝐖\in𝐖R
-a𝐖+I𝐖=b𝐖+I
-c𝐖+I𝐖=d𝐖+I,𝐖
-(a𝐖+c)𝐖+I𝐖=(b𝐖+d)𝐖+I𝐖.
+R .
+a, b, c, d \in R
+a +I =b +I
+c +I =d +I,
+(a +c) +I =(b +d) +I .
 R
 I
-R𝐖.
-a,𝐖b,𝐖c,𝐖d𝐖\in𝐖R
-a𝐖+I𝐖=b𝐖+I
-c𝐖+I𝐖=d𝐖+I,𝐖
-ac𝐖+I𝐖=bd𝐖+I𝐖.
+R .
+a, b, c, d \in R
+a +I =b +I
+c +I =d +I,
+ac +I =bd +I .
 R/I
-R,𝐖
+R,
 R
-1_R𝐖,𝐖
+1_R,
 I
-R,𝐖
-a,𝐖b𝐖\in𝐖R𝐖.
-I,𝐖
-R/I,𝐖
-R
-I
-1_R𝐖𝐖+I
-(a𝐖+I)𝐖+(b𝐖+I)𝐖&𝐖\lt𝐖mi/>𝐖\colon𝐖=(a𝐖+b)𝐖+I𝐖\\𝐖(a𝐖+I)𝐖\cdot𝐖(b𝐖+I)𝐖&𝐖\lt𝐖mi/>𝐖\colon𝐖=(ab)𝐖+I𝐖.
+R,
+a, b \in R .
+I,
+R/I,
 R
 I
-R,𝐖
-R/I𝐖.
-R𝐖=\mathbb𝐖Z𝐖
-I𝐖=𝐖\langle𝐖8𝐖\rangle𝐖𝐖.
-(3𝐖+I)𝐖+(7𝐖+I)
-(4𝐖+I)𝐖\cdot𝐖(6𝐖+I)𝐖.
-R𝐖=\mathbb𝐖Z𝐖_3𝐖[x]
-J𝐖=𝐖\langle𝐖x^2𝐖𝐖\rangle𝐖𝐖.
+1_R +I
+(a +I) +(b +I) & \lt mi/> \colon =(a +b) +I \\ (a +I) \cdot (b +I) & \lt mi/> \colon =(ab) +I .
+R
+I
+R,
+R/I .
+R =\mathbb Z
+I = \langle 8 \rangle .
+(3 +I) +(7 +I)
+(4 +I) \cdot (6 +I) .
+R =\mathbb Z_3 [x]
+J = \langle x^2 \rangle .
 R/J
-R𝐖=\mathbb𝐖R𝐖[x]
-I𝐖=𝐖\langle𝐖x^2𝐖𝐖-1𝐖\rangle𝐖𝐖.
-f𝐖+I𝐖\in𝐖R/I
-(f𝐖+I)(2x𝐖+2𝐖+I)𝐖=I𝐖.
+R =\mathbb R [x]
+I = \langle x^2 -1 \rangle .
+f +I \in R/I
+(f +I)(2x +2 +I) =I .
 R/I
 R/I
-R𝐖=\mathbb𝐖Z𝐖_2𝐖[x]
-I𝐖=𝐖\langle𝐖x^2𝐖𝐖-1𝐖\rangle𝐖
-J𝐖=𝐖\langle𝐖x^3𝐖𝐖-x𝐖-1𝐖\rangle𝐖𝐖.
+R =\mathbb Z_2 [x]
+I = \langle x^2 -1 \rangle
+J = \langle x^3 -x -1 \rangle .
 R/I
-R/J𝐖.
-x^2𝐖
+R/J .
+x^2
 R
-R/I𝐖?
-x^3𝐖
+R/I ?
+x^3
 R
-R/J𝐖?
+R/J ?
 x
 I
-J𝐖?
+J ?
 R/I
-R/J𝐖.
+R/J .
 f
 F
-R𝐖=F[x,𝐖y]
-I𝐖\subseteq𝐖R
-I,𝐖
-Z(I),𝐖
-(a,𝐖b)𝐖\in𝐖F^2𝐖
-f(a,𝐖b)𝐖=0
-f𝐖\in𝐖I𝐖.
-I𝐖=𝐖\langle𝐖f_1𝐖,𝐖f_2𝐖,𝐖\ldots𝐖,𝐖f_n𝐖𝐖\rangle𝐖𝐖.
-(a,𝐖b)𝐖\in𝐖Z(I)
-f_j𝐖(a,𝐖b)𝐖=0
-j𝐖\in𝐖\{1,𝐖\ldots𝐖,𝐖n\}𝐖.
+R =F[x, y]
+I \subseteq R
+I,
+Z(I),
+(a, b) \in F^2
+f(a, b) =0
+f \in I .
+I = \langle f_1, f_2, \ldots, f_n \rangle .
+(a, b) \in Z(I)
+f_j (a, b) =0
+j \in \{1, \ldots, n\} .
 Z(I)
-I𝐖.
+I .
 Z(I)
-I𝐖=𝐖\langle𝐖y𝐖-x^2𝐖𝐖\rangle𝐖𝐖.
-I𝐖=𝐖\langle𝐖y𝐖-x^2𝐖𝐖\rangle𝐖
-J𝐖=𝐖\langle𝐖y𝐖-x𝐖-2𝐖\rangle𝐖,𝐖
-Z(I𝐖+J)
-Z(I𝐖\cap𝐖J)𝐖.
-I𝐖=𝐖\langle𝐖y𝐖-x^2𝐖𝐖\rangle𝐖,𝐖
+I = \langle y -x^2 \rangle .
+I = \langle y -x^2 \rangle
+J = \langle y -x -2 \rangle,
+Z(I +J)
+Z(I \cap J) .
+I = \langle y -x^2 \rangle,
 x
 y
-R/I𝐖.
-y𝐖=x^2𝐖𝐖?
+R/I .
+y =x^2 ?
 R/I
 R
-P𝐖\subsetneq𝐖R
+P \subsetneq R
 P
-a,𝐖b𝐖\in𝐖R
-ab𝐖\in𝐖P,𝐖
-a𝐖\in𝐖P
-b𝐖\in𝐖P𝐖.
+a, b \in R
+ab \in P,
+a \in P
+b \in P .
 R
-p𝐖\in𝐖R
-𝐖\langle𝐖p𝐖\rangle𝐖
-𝐖\langle𝐖9𝐖\rangle𝐖
-\mathbb𝐖Z𝐖
-𝐖\langle𝐖11𝐖\rangle𝐖
-\mathbb𝐖Z𝐖
-𝐖\langle𝐖x^2𝐖𝐖+1𝐖\rangle𝐖
-\mathbb𝐖R𝐖[x]
-𝐖\langle𝐖x^2𝐖𝐖-1𝐖\rangle𝐖
-\mathbb𝐖R𝐖[x]
-𝐖\langle𝐖x^2𝐖𝐖-5x𝐖+6,𝐖x^4𝐖𝐖+2x^3𝐖𝐖-10x^2𝐖𝐖+5x𝐖-2𝐖\rangle𝐖
-\mathbb𝐖R𝐖[x]
+p \in R
+\langle p \rangle
+\langle 9 \rangle
+\mathbb Z
+\langle 11 \rangle
+\mathbb Z
+\langle x^2 +1 \rangle
+\mathbb R [x]
+\langle x^2 -1 \rangle
+\mathbb R [x]
+\langle x^2 -5x +6, x^4 +2x^3 -10x^2 +5x -2 \rangle
+\mathbb R [x]
 R
 I
-R𝐖.
+R .
 I
 R/I
 R
-M𝐖\subsetneq𝐖R
+M \subsetneq R
 M
 R
-M𝐖.
+M .
 J
-M𝐖\subseteq𝐖J𝐖\subseteq𝐖R,𝐖
-J𝐖=M
-J𝐖=R𝐖.
-M𝐖\not=𝐖R
+M \subseteq J \subseteq R,
+J =M
+J =R .
+M \not= R
 R
-0_R𝐖𝐖\not=𝐖1_R𝐖
+0_R \not= 1_R
 I
 R/I
 R
 M
-R𝐖.
-x𝐖\in𝐖R𝐖\setminus𝐖M,𝐖
-J𝐖=\{xr𝐖+y𝐖\colon𝐖r𝐖\in𝐖R,𝐖y𝐖\in𝐖M\}𝐖.
+R .
+x \in R \setminus M,
+J =\{xr +y \colon r \in R, y \in M\} .
 J
-R;𝐖
-M𝐖\subsetneq𝐖J;𝐖
-r'𝐖\in𝐖R,𝐖
-y'𝐖\in𝐖M
-1𝐖=xr'𝐖+y'𝐖.
+R;
+M \subsetneq J;
+r' \in R,
+y' \in M
+1 =xr' +y' .
 R
 I
-R𝐖.
+R .
 I
 R/I
-x𝐖+I
-x𝐖\in𝐖R𝐖\setminus𝐖I𝐖.
-\mathbb𝐖Z𝐖
-\mathbb𝐖Q𝐖[x]𝐖.
+x +I
+x \in R \setminus I .
+\mathbb Z
+\mathbb Q [x] .
 I
-\mathbb𝐖Z𝐖/I
-\mathbb𝐖Q𝐖[x]𝐖.
-R,𝐖
+\mathbb Z /I
+\mathbb Q [x] .
+R,
 P
-R𝐖.
-\varphi𝐖𝐖\colon𝐖R𝐖\to𝐖S
-R,𝐖
-\ker𝐖\varphi𝐖𝐖.
-R,𝐖
-R𝐖.
+R .
+\varphi \colon R \to S
+R,
+\ker \varphi .
+R,
+R .
 R
 I
-R𝐖.
-\varphi𝐖𝐖\colon𝐖R𝐖\to𝐖R/I
-\varphi𝐖(r)𝐖=r𝐖+I𝐖.
-\varphi𝐖
-\ker𝐖\varphi𝐖𝐖=I𝐖.
+R .
+\varphi \colon R \to R/I
+\varphi (r) =r +I .
+\varphi
+\ker \varphi =I .
 R
 S
-\varphi𝐖𝐖\colon𝐖R𝐖\to𝐖S
-im\varphi𝐖𝐖=\{s𝐖\in𝐖S𝐖\colon𝐖\varphi𝐖(r)𝐖=s\~for\space𝐖some\~r𝐖\in𝐖R\}𝐖.
-f𝐖\colon𝐖R/\ker𝐖\varphi𝐖𝐖\to𝐖im\varphi𝐖
-f(r𝐖+\ker𝐖\varphi𝐖)𝐖=\varphi𝐖(r)𝐖.
+\varphi \colon R \to S
+im\varphi =\{s \in S \colon \varphi (r) =s\~for\space some\~r \in R\} .
+f \colon R/\ker \varphi \to im\varphi
+f(r +\ker \varphi) =\varphi (r) .
 f
 f
 f
 f
-\varphi𝐖𝐖\colon𝐖R𝐖\to𝐖S
-R/\ker𝐖\varphi𝐖𝐖\cong𝐖im\varphi𝐖𝐖.
-\varphi𝐖𝐖\colon𝐖R𝐖\to𝐖S
-R/\ker𝐖\varphi𝐖𝐖\cong𝐖S𝐖.
+\varphi \colon R \to S
+R/\ker \varphi \cong im\varphi .
+\varphi \colon R \to S
+R/\ker \varphi \cong S .
 R/I
-S𝐖\colon𝐖
-R𝐖\to𝐖S
-I𝐖.
-\mathbb𝐖Z𝐖/𝐖\langle𝐖m𝐖\rangle𝐖𝐖\cong𝐖\mathbb𝐖Z𝐖_m𝐖
-\mathbb𝐖Q𝐖[x]/𝐖\langle𝐖x𝐖-5𝐖\rangle𝐖𝐖\cong𝐖\mathbb𝐖Q𝐖
-\mathbb𝐖R𝐖[x]/𝐖\langle𝐖x^2𝐖𝐖+1𝐖\rangle𝐖𝐖\cong𝐖\mathbb𝐖C𝐖
-R𝐖=\mathbb𝐖Z𝐖_6𝐖
-\varphi𝐖𝐖\colon𝐖\mathbb𝐖Z𝐖_6𝐖𝐖\to𝐖\mathbb𝐖Z𝐖_2𝐖
-\varphi𝐖(\overline{x})𝐖=\overline{x}𝐖.
-\varphi𝐖
-\overline{x}𝐖\in𝐖\mathbb𝐖Z𝐖_6𝐖
-x𝐖\in𝐖\mathbb𝐖Z𝐖
+S \colon
+R \to S
+I .
+\mathbb Z / \langle m \rangle \cong \mathbb Z_m
+\mathbb Q [x]/ \langle x -5 \rangle \cong \mathbb Q
+\mathbb R [x]/ \langle x^2 +1 \rangle \cong \mathbb C
+R =\mathbb Z_6
+\varphi \colon \mathbb Z_6 \to \mathbb Z_2
+\varphi (\overline{x}) =\overline{x} .
+\varphi
+\overline{x} \in \mathbb Z_6
+x \in \mathbb Z
 x
-\mathbb𝐖Z𝐖_2𝐖𝐖.
-\varphi𝐖
-\varphi𝐖
-\varphi𝐖
-\ker𝐖\varphi𝐖
-\varphi𝐖
-\ker𝐖\varphi𝐖
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\mathbb Z_2 .
+\varphi
+\varphi
+\varphi
+\ker \varphi
+\varphi
+\ker \varphi
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\mathbb𝐖Z𝐖
-F[x]𝐖?
-\mathbb𝐖Z𝐖
+\mathbb Z
+F[x] ?
+\mathbb Z
 F[x]
-\mathbb𝐖Z𝐖
-F[x]𝐖.
-\mathbb𝐖Z𝐖
+\mathbb Z
+F[x] .
+\mathbb Z
 F[x]
-f(x),𝐖g(x)𝐖\in𝐖F[x],𝐖
-\gcd𝐖(f(x),𝐖g(x))𝐖.
-F[x]𝐖.
+f(x), g(x) \in F[x],
+\gcd (f(x), g(x)) .
+F[x] .
 R
-p(x)𝐖=a_0𝐖𝐖+a_1𝐖x𝐖+\cdots𝐖𝐖+a_n𝐖x^n𝐖𝐖\in𝐖R[x],𝐖
-p_f𝐖𝐖\colon𝐖R𝐖\to𝐖R
-p_f𝐖(r)𝐖=a_0𝐖𝐖+a_1𝐖r𝐖+\cdots𝐖𝐖+a_n𝐖r^n𝐖𝐖.
+p(x) =a_0 +a_1 x +\cdots +a_n x^n \in R[x],
+p_f \colon R \to R
+p_f (r) =a_0 +a_1 r +\cdots +a_n r^n .
 p(r)
-p_f𝐖(r)
-p(x)𝐖\in𝐖R[x],𝐖
-r𝐖\in𝐖R
-p(r)𝐖=0𝐖.
+p_f (r)
+p(x) \in R[x],
+r \in R
+p(r) =0 .
 R
-p(x)𝐖\in𝐖R[x]𝐖.
-r𝐖\in𝐖R
+p(x) \in R[x] .
+r \in R
 p(x)
-p(r)𝐖=0𝐖.
-p(x)𝐖=a_0𝐖𝐖+a_1𝐖x𝐖+a_2𝐖x^2𝐖𝐖+\cdots𝐖𝐖+a_n𝐖x^n𝐖𝐖\in𝐖\mathbb𝐖Z𝐖[x]
-a_0𝐖,𝐖a_n𝐖𝐖\not=𝐖0𝐖.
-r,𝐖s𝐖\in𝐖\mathbb𝐖Z𝐖
-s𝐖\not=𝐖0,𝐖\gcd𝐖(r,𝐖s)𝐖=1,𝐖
-p(r/s)𝐖=0,𝐖
-r|a_0𝐖
-s|a_n𝐖𝐖.
-p(x)𝐖=40𝐖-58x𝐖-13x^2𝐖𝐖+25x^3𝐖𝐖+6x^4𝐖𝐖.
-\mathbb𝐖Z𝐖[x]
-\mathbb𝐖Q𝐖𝐖.
-q(x)𝐖\in𝐖\mathbb𝐖Z𝐖[x]
-\mathbb𝐖Z𝐖[x]
-q(x)𝐖\in𝐖\mathbb𝐖Z𝐖[x]
-\mathbb𝐖Q𝐖
-\mathbb𝐖Z𝐖
+p(r) =0 .
+p(x) =a_0 +a_1 x +a_2 x^2 +\cdots +a_n x^n \in \mathbb Z [x]
+a_0, a_n \not= 0 .
+r, s \in \mathbb Z
+s \not= 0, \gcd (r, s) =1,
+p(r/s) =0,
+r|a_0
+s|a_n .
+p(x) =40 -58x -13x^2 +25x^3 +6x^4 .
+\mathbb Z [x]
+\mathbb Q .
+q(x) \in \mathbb Z [x]
+\mathbb Z [x]
+q(x) \in \mathbb Z [x]
+\mathbb Q
+\mathbb Z
 F
-p(x)𝐖\in𝐖F[x]𝐖.
-\alpha𝐖𝐖\in𝐖F
+p(x) \in F[x] .
+\alpha \in F
 p(x)
-x𝐖-\alpha𝐖
-p(x)𝐖.
+x -\alpha
+p(x) .
 F[x]
-F,𝐖
-F[x],𝐖
-F[x]𝐖?
-f(x)𝐖\in𝐖F[x]
-F𝐖.
+F,
+F[x],
+F[x] ?
+f(x) \in F[x]
+F .
 F[x]
-f(x)𝐖\in𝐖F[x]
+f(x) \in F[x]
 F
-F𝐖.
-\mathbb𝐖Z𝐖_2𝐖𝐖\colon𝐖
-x^2𝐖𝐖+1,𝐖
-x^2𝐖𝐖+x,𝐖
-x^2𝐖𝐖+x𝐖+1,𝐖
-x^3𝐖𝐖+x^2𝐖𝐖+1,𝐖
-x^4𝐖𝐖+x^2𝐖𝐖+1𝐖.
-\mathbb𝐖Z𝐖_3𝐖𝐖\colon𝐖
-x^2𝐖𝐖+1,𝐖
-x^2𝐖𝐖+x,𝐖
-x^2𝐖𝐖+x𝐖+1,𝐖
-x^2𝐖𝐖+x𝐖+2,𝐖
-x^3𝐖𝐖+x𝐖+1,𝐖
-x^3𝐖𝐖+x^2𝐖𝐖+1,𝐖
-x^3𝐖𝐖+x^2𝐖𝐖+x𝐖+1𝐖.
-F[x],𝐖
+F .
+\mathbb Z_2 \colon
+x^2 +1,
+x^2 +x,
+x^2 +x +1,
+x^3 +x^2 +1,
+x^4 +x^2 +1 .
+\mathbb Z_3 \colon
+x^2 +1,
+x^2 +x,
+x^2 +x +1,
+x^2 +x +2,
+x^3 +x +1,
+x^3 +x^2 +1,
+x^3 +x^2 +x +1 .
+F[x],
 F
-p(x),𝐖f(x),𝐖g(x)𝐖\in𝐖F[x]
+p(x), f(x), g(x) \in F[x]
 p(x)
 p(x)
-f(x)g(x)𝐖.
+f(x)g(x) .
 p(x)
 f(x)
 p(x)
-g(x)𝐖.
-\mathbb𝐖C𝐖
-\mathbb𝐖C𝐖𝐖.
-\mathbb𝐖C𝐖[x]
-\mathbb𝐖C𝐖[x]𝐖?
-\mathbb𝐖C𝐖[x]
-\mathbb𝐖C𝐖
-x^2𝐖𝐖+1𝐖\in𝐖\mathbb𝐖R𝐖[x]
-\mathbb𝐖R𝐖
-p𝐖\in𝐖F[x]
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+g(x) .
+\mathbb C
+\mathbb C .
+\mathbb C [x]
+\mathbb C [x] ?
+\mathbb C [x]
+\mathbb C
+x^2 +1 \in \mathbb R [x]
+\mathbb R
+p \in F[x]
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\mathbb𝐖Z𝐖
-F[x]𝐖.
-\mathbb𝐖Z𝐖
+\mathbb Z
+F[x] .
+\mathbb Z
 F[x]
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
 R
 R
-R𝐖.
-s𝐖\in𝐖R
-s𝐖=p_1𝐖p_2𝐖\cdots𝐖p_k𝐖\~and\~s𝐖=q_1𝐖q_2𝐖\cdots𝐖q_m𝐖
-p_i𝐖,𝐖q_j𝐖𝐖\in𝐖R,𝐖
-k𝐖=m
-p_i𝐖
-q_i𝐖𝐖.
-\mathbb𝐖Z𝐖
-\mathbb𝐖Z𝐖
+R .
+s \in R
+s =p_1 p_2 \cdots p_k \~and\~s =q_1 q_2 \cdots q_m
+p_i, q_j \in R,
+k =m
+p_i
+q_i .
+\mathbb Z
+\mathbb Z
 R
 R
-I_1𝐖𝐖\subseteq𝐖I_2𝐖𝐖\subseteq𝐖I_3𝐖𝐖\subseteq𝐖\cdots𝐖
-R,𝐖
+I_1 \subseteq I_2 \subseteq I_3 \subseteq \cdots
+R,
 n
-I_n𝐖𝐖=I_{n𝐖+1}𝐖𝐖=I_{n𝐖+2}𝐖𝐖=\cdots𝐖𝐖.
-I_1𝐖𝐖=𝐖\langle𝐖30𝐖\rangle𝐖
-\mathbb𝐖Z𝐖
-J_1𝐖𝐖=𝐖\langle𝐖32𝐖\rangle𝐖𝐖.
-I_1𝐖
-J_1𝐖
-I_1𝐖𝐖\subseteq𝐖I_2𝐖𝐖\subseteq𝐖I_3𝐖𝐖\subseteq𝐖\cdots𝐖
-I𝐖=𝐖\cup𝐖I_j𝐖𝐖.
+I_n =I_{n +1} =I_{n +2} =\cdots .
+I_1 = \langle 30 \rangle
+\mathbb Z
+J_1 = \langle 32 \rangle .
+I_1
+J_1
+I_1 \subseteq I_2 \subseteq I_3 \subseteq \cdots
+I = \cup I_j .
 I
 R
-r𝐖\in𝐖R
+r \in R
 r
-r𝐖\in𝐖R
-r𝐖=r_1𝐖r_2𝐖𝐖.
+r \in R
+r =r_1 r_2 .
 R
 R
-R𝐖.
+R .
 R
-p𝐖\in𝐖R
-a𝐖\in𝐖R
-p𝐖\nmid𝐖a𝐖.
-1𝐖\in𝐖I𝐖=\{ax𝐖+py𝐖\colon𝐖x,𝐖y𝐖\in𝐖R\}
-s,𝐖t𝐖\in𝐖R
-1𝐖=as𝐖+pt𝐖.
+p \in R
+a \in R
+p \nmid a .
+1 \in I =\{ax +py \colon x, y \in R\}
+s, t \in R
+1 =as +pt .
 R
-p𝐖\in𝐖R𝐖.
+p \in R .
 p
 p
 R
-p𝐖\in𝐖R
-p|ab,𝐖
+p \in R
+p|ab,
 p|a
-p|b𝐖.
+p|b .
 F
 F[x]
-f(x)𝐖\in𝐖F[x]
-\deg𝐖(f(x))𝐖\geqslant𝐖1,𝐖
+f(x) \in F[x]
+\deg (f(x)) \geqslant 1,
 f(x)
-F[x]𝐖.
-f(x)𝐖=p_1𝐖(x)p_2𝐖(x)\cdots𝐖p_k𝐖(x)\~and\~f(x)𝐖=q_1𝐖(x)q_2𝐖(x)\cdots𝐖q_m𝐖(x)
+F[x] .
+f(x) =p_1 (x)p_2 (x)\cdots p_k (x)\~and\~f(x) =q_1 (x)q_2 (x)\cdots q_m (x)
 f
-p_i𝐖,𝐖q_j𝐖,𝐖
-m𝐖=k
-p_j𝐖
-q_j𝐖
-\deg𝐖(f(x))
+p_i, q_j,
+m =k
+p_j
+q_j
+\deg (f(x))
 R
 R[x]
-\mathbb𝐖Z𝐖[x]
-\mathbb𝐖Z𝐖[x]
-\mathbb𝐖Z𝐖[x]
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\mathbb Z [x]
+\mathbb Z [x]
+\mathbb Z [x]
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\mathbb𝐖Z𝐖𝐖.
-a,𝐖b𝐖\in𝐖\mathbb𝐖Z𝐖𝐖.
+\mathbb Z .
+a, b \in \mathbb Z .
 a
-b,𝐖
-a𝐖\mid𝐖b,𝐖
+b,
+a \mid b,
 c
-ac𝐖=b𝐖.
+ac =b .
 a
 c
-b𝐖.
-c𝐖\in𝐖\mathbb𝐖Z𝐖
-a𝐖\nmid𝐖b𝐖.
-|𝐖
-2|4,𝐖
-2𝐖\mid𝐖4𝐖=2𝐖.
-4𝐖\div𝐖2𝐖=2
-\frac{4}{2}𝐖=2
-a𝐖\mid𝐖b
-a𝐖=3,𝐖
-b𝐖=𝐖-15
-a𝐖=4,𝐖
-b𝐖=18
-a𝐖=𝐖-7,𝐖
-b𝐖=0
-a𝐖=0,𝐖
-b𝐖=0
-\mathbb𝐖Z𝐖
-a,𝐖b,𝐖c𝐖\in𝐖\mathbb𝐖Z𝐖𝐖.
-a𝐖\mid𝐖b
-a𝐖\mid𝐖c,𝐖
-a𝐖\mid𝐖(b𝐖+c)𝐖.
-a,𝐖b,𝐖c𝐖\in𝐖\mathbb𝐖Z𝐖𝐖.
-a𝐖\mid𝐖b,𝐖
-a𝐖\mid𝐖bc𝐖.
-a,𝐖b,𝐖c𝐖\in𝐖\mathbb𝐖Z𝐖
-a|bc,𝐖
+b .
+c \in \mathbb Z
+a \nmid b .
+|
+2|4,
+2 \mid 4 =2 .
+4 \div 2 =2
+\frac{4}{2} =2
+a \mid b
+a =3,
+b = -15
+a =4,
+b =18
+a = -7,
+b =0
+a =0,
+b =0
+\mathbb Z
+a, b, c \in \mathbb Z .
+a \mid b
+a \mid c,
+a \mid (b +c) .
+a, b, c \in \mathbb Z .
+a \mid b,
+a \mid bc .
+a, b, c \in \mathbb Z
+a|bc,
 a|b
-a|c𝐖?
-a,𝐖b,𝐖c,𝐖d𝐖\in𝐖\mathbb𝐖Z𝐖𝐖.
-a𝐖=b𝐖+c
+a|c ?
+a, b, c, d \in \mathbb Z .
+a =b +c
 d
-a,𝐖b,𝐖c,𝐖
+a, b, c,
 d
-\mathbb𝐖Z𝐖,𝐖
-a,𝐖b
-a𝐖\mid𝐖b
-b𝐖\mid𝐖a𝐖.
-a,𝐖b𝐖\in𝐖\mathbb𝐖N𝐖𝐖.
-\mathbb𝐖N𝐖
-a,𝐖b𝐖\in𝐖\mathbb𝐖N𝐖𝐖.
-q,𝐖r
-a𝐖=bq𝐖+r,𝐖
-0𝐖\leqslant𝐖r𝐖\lt𝐖b𝐖.
+\mathbb Z,
+a, b
+a \mid b
+b \mid a .
+a, b \in \mathbb N .
+\mathbb N
+a, b \in \mathbb N .
+q, r
+a =bq +r,
+0 \leqslant r \lt b .
 q
 r
 q
 r
-a𝐖=bq𝐖+r
-a𝐖=bq'𝐖+r',𝐖
-r,𝐖r'
-q𝐖=q'
-r𝐖=r'𝐖.
-S𝐖=\{a𝐖-bs𝐖\colon𝐖s𝐖\in𝐖\mathbb𝐖N𝐖_0𝐖,𝐖a𝐖-bs𝐖\geqslant𝐖0\}𝐖.
-\mathbb𝐖Z𝐖,𝐖
-\mathbb𝐖Z𝐖
-a,𝐖b𝐖\in𝐖\mathbb𝐖Z𝐖
-b𝐖\not=𝐖0𝐖.
-q,𝐖r
-a𝐖=bq𝐖+r,𝐖
-0𝐖\leqslant𝐖r𝐖\lt𝐖|𝐖b|𝐖.
-a,𝐖b𝐖\in𝐖\mathbb𝐖Z𝐖
+a =bq +r
+a =bq' +r',
+r, r'
+q =q'
+r =r' .
+S =\{a -bs \colon s \in \mathbb N_0, a -bs \geqslant 0\} .
+\mathbb Z,
+\mathbb Z
+a, b \in \mathbb Z
+b \not= 0 .
+q, r
+a =bq +r,
+0 \leqslant r \lt | b| .
+a, b \in \mathbb Z
 a
 b
 a
-b,𝐖
-\gcd𝐖(a,𝐖b),𝐖
+b,
+\gcd (a, b),
 d
-d𝐖\mid𝐖a
-d𝐖\mid𝐖b
-e𝐖\in𝐖\mathbb𝐖N𝐖
-e𝐖\mid𝐖a
-e𝐖\mid𝐖b,𝐖
-e𝐖\mid𝐖d𝐖.
-\gcd𝐖(a,𝐖b)𝐖=1,𝐖
+d \mid a
+d \mid b
+e \in \mathbb N
+e \mid a
+e \mid b,
+e \mid d .
+\gcd (a, b) =1,
 a
 b
-d𝐖\geqslant𝐖e
-\mathbb𝐖Z𝐖
-\mathbb𝐖Z𝐖𝐖.
-\gcd𝐖(a,𝐖b)
-a𝐖=123,𝐖
-b𝐖=141
-a𝐖=0,𝐖
-b𝐖=169
-a𝐖=85,𝐖
-b𝐖=48
-\gcd𝐖(a,𝐖b),𝐖
-a,𝐖b,𝐖c𝐖\in𝐖\mathbb𝐖Z𝐖
-a𝐖=b𝐖+c
+d \geqslant e
+\mathbb Z
+\mathbb Z .
+\gcd (a, b)
+a =123,
+b =141
+a =0,
+b =169
+a =85,
+b =48
+\gcd (a, b),
+a, b, c \in \mathbb Z
+a =b +c
 a
 b
-\gcd𝐖(a,𝐖b)𝐖=\gcd𝐖(b,𝐖c)𝐖.
-a,𝐖b,𝐖c𝐖\in𝐖\mathbb𝐖Z𝐖
-q𝐖\in𝐖\mathbb𝐖Z𝐖
-a𝐖=bq𝐖+c
+\gcd (a, b) =\gcd (b, c) .
+a, b, c \in \mathbb Z
+q \in \mathbb Z
+a =bq +c
 a
 b
-\gcd𝐖(a,𝐖b)𝐖=\gcd𝐖(b,𝐖c)𝐖.
-a,𝐖b𝐖\in𝐖\mathbb𝐖N𝐖𝐖.
-\gcd𝐖(a,𝐖b)𝐖.
-\gcd𝐖(a,𝐖b)
-a,𝐖b𝐖\in𝐖\mathbb𝐖Z𝐖𝐖?
-\gcd𝐖(18489,𝐖17304)𝐖.
+\gcd (a, b) =\gcd (b, c) .
+a, b \in \mathbb N .
+\gcd (a, b) .
+\gcd (a, b)
+a, b \in \mathbb Z ?
+\gcd (18489, 17304) .
 a
 b
 x
 y
-ax𝐖+by𝐖=\gcd𝐖(a,𝐖b)𝐖.
-S𝐖=\{as𝐖+bt𝐖\colon𝐖s,𝐖t𝐖\in𝐖\mathbb𝐖Z𝐖,𝐖as𝐖+bt𝐖>0\}𝐖.
-a,𝐖b,𝐖
+ax +by =\gcd (a, b) .
+S =\{as +bt \colon s, t \in \mathbb Z, as +bt >0\} .
+a, b,
 c
 a|bc
-\gcd𝐖(a,𝐖b)𝐖=1,𝐖
-a|c𝐖.
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\gcd (a, b) =1,
+a|c .
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
 R
-\{I_\alpha𝐖𝐖\}_{\alpha𝐖𝐖\in𝐖\Gamma𝐖}𝐖
-I𝐖=\bigcap𝐖_{\alpha𝐖𝐖\in𝐖\Gamma𝐖}𝐖I_\alpha𝐖𝐖
+\{I_\alpha \}_{\alpha \in \Gamma}
+I =\bigcap_{\alpha \in \Gamma} I_\alpha
 R
-I,𝐖J𝐖\subseteq𝐖R
-I𝐖\cup𝐖J
-R𝐖?
+I, J \subseteq R
+I \cup J
+R ?
 R
-I,𝐖J𝐖\subseteq𝐖R
-R𝐖.
+I, J \subseteq R
+R .
 I
-J,𝐖
-I𝐖+J𝐖\colon𝐖=\{x𝐖+y𝐖\colon𝐖x𝐖\in𝐖I,𝐖y𝐖\in𝐖J\},𝐖
-R𝐖.
+J,
+I +J \colon =\{x +y \colon x \in I, y \in J\},
+R .
 I
-J,𝐖
-IJ𝐖\colon𝐖=\{x_1𝐖y_1𝐖𝐖+x_2𝐖y_2𝐖𝐖+\cdots𝐖𝐖+x_n𝐖y_n𝐖𝐖\colon𝐖n𝐖\geqslant𝐖1,𝐖x_i𝐖𝐖\in𝐖I,𝐖y_j𝐖𝐖\in𝐖J\}
-R𝐖.
+J,
+IJ \colon =\{x_1 y_1 +x_2 y_2 +\cdots +x_n y_n \colon n \geqslant 1, x_i \in I, y_j \in J\}
+R .
 R
-S𝐖\subseteq𝐖R
-(4.1.1)𝐖&𝐖𝐖\langle𝐖S𝐖\rangle𝐖𝐖\colon𝐖=\bigcap𝐖_{J𝐖\supseteq𝐖S𝐖\\𝐖J\~is\space𝐖an\space𝐖ideal\~}𝐖J
+S \subseteq R
+(4.1.1) & \langle S \rangle \colon =\bigcap_{J \supseteq S \\ J\~is\space an\space ideal\~} J
 S
 S
 R
-𝐖\langle𝐖\varnothing𝐖𝐖\rangle𝐖𝐖=\{0\}𝐖.
-𝐖\langle𝐖S𝐖\rangle𝐖
-S𝐖.
+\langle \varnothing \rangle =\{0\} .
+\langle S \rangle
+S .
 R
 S
-R,𝐖
-𝐖\langle𝐖S𝐖\rangle𝐖
+R,
+\langle S \rangle
 S
 J
 R
-S,𝐖
-𝐖\langle𝐖S𝐖\rangle𝐖𝐖\subseteq𝐖J𝐖.
-𝐖\langle𝐖S𝐖\rangle𝐖𝐖.
+S,
+\langle S \rangle \subseteq J .
+\langle S \rangle .
 R
 S
-R𝐖\colon𝐖
-I𝐖=\{r_1𝐖s_1𝐖𝐖+r_2𝐖s_2𝐖𝐖+\cdots𝐖𝐖+r_n𝐖s_n𝐖𝐖\colon𝐖r_i𝐖𝐖\in𝐖R,𝐖s_j𝐖𝐖\in𝐖S,𝐖n𝐖\geqslant𝐖1\}
-R;𝐖
-S𝐖\subseteq𝐖I;𝐖
-I𝐖=𝐖\langle𝐖S𝐖\rangle𝐖𝐖.
-𝐖\langle𝐖S𝐖\rangle𝐖
+R \colon
+I =\{r_1 s_1 +r_2 s_2 +\cdots +r_n s_n \colon r_i \in R, s_j \in S, n \geqslant 1\}
+R;
+S \subseteq I;
+I = \langle S \rangle .
+\langle S \rangle
 R
-S;𝐖
-S𝐖.
+S;
+S .
 R
-S𝐖=\{s_1𝐖,𝐖s_2𝐖,𝐖\ldots𝐖,𝐖s_n𝐖\}
-R,𝐖
+S =\{s_1, s_2, \ldots, s_n \}
+R,
 I
 S
-I𝐖=𝐖\langle𝐖s_1𝐖,𝐖s_2𝐖,𝐖\ldots𝐖,𝐖s_n𝐖𝐖\rangle𝐖,𝐖
+I = \langle s_1, s_2, \ldots, s_n \rangle,
 I
-\mathbb𝐖Z𝐖[x]
-I𝐖=𝐖\langle𝐖2,𝐖x𝐖\rangle𝐖𝐖.
+\mathbb Z [x]
+I = \langle 2, x \rangle .
 S
 R
 R
 I
 R
 I
-I𝐖.
+I .
 R
-I_1𝐖𝐖\subseteq𝐖I_2𝐖𝐖\subseteq𝐖I_3𝐖𝐖\subseteq𝐖\cdots𝐖
-I𝐖=\bigcup𝐖_{j𝐖=1}^\infty𝐖𝐖I_j𝐖
+I_1 \subseteq I_2 \subseteq I_3 \subseteq \cdots
+I =\bigcup_{j =1}^\infty I_j
 R
 R
 R
 I
-R,𝐖
-R𝐖=\mathbb𝐖Q𝐖[x_1𝐖,𝐖x_2𝐖,𝐖x_3𝐖,𝐖\ldots𝐖]
-\mathbb𝐖Q𝐖
+R,
+R =\mathbb Q [x_1, x_2, x_3, \ldots]
+\mathbb Q
 G
-V𝐖=\{x_1𝐖,𝐖x_2𝐖,𝐖\ldots𝐖,𝐖x_n𝐖\}
+V =\{x_1, x_2, \ldots, x_n \}
 E
-x_i𝐖x_j𝐖𝐖.
+x_i x_j .
 K
 G
-V𝐖=\{x_1𝐖,𝐖x_2𝐖,𝐖\ldots𝐖,𝐖x_n𝐖\}
-E,𝐖
-R𝐖=K[x_1𝐖,𝐖x_2𝐖,𝐖\ldots𝐖,𝐖x_n𝐖]
+V =\{x_1, x_2, \ldots, x_n \}
+E,
+R =K[x_1, x_2, \ldots, x_n]
 G
-K𝐖.
+K .
 G
-I(G)𝐖\colon𝐖=𝐖\langle𝐖x_i𝐖x_j𝐖𝐖\mid𝐖x_i𝐖x_j𝐖𝐖\in𝐖E𝐖\rangle𝐖𝐖.
+I(G) \colon = \langle x_i x_j \mid x_i x_j \in E \rangle .
 I(G)
 G
 I(G)
 I(G)
-G𝐖.
-G,𝐖
+G .
+G,
 G
-I(G)𝐖.
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+I(G) .
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\mathbb𝐖N𝐖
-\mathbb𝐖Z𝐖
-\mathbb𝐖Z𝐖_m𝐖
+\mathbb N
+\mathbb Z
+\mathbb Z_m
 I
 m
-\mathbb𝐖N𝐖
-\mathbb𝐖Z𝐖
-\mathbb𝐖Z𝐖
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\mathbb N
+\mathbb Z
+\mathbb Z
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
 m
-m𝐖?
-\mathbb𝐖Z𝐖_m𝐖
-\mathbb𝐖Z𝐖𝐖?
+m ?
+\mathbb Z_m
+\mathbb Z ?
 S
-T,𝐖
+T,
 S
-T,𝐖
-S𝐖\times𝐖T
+T,
+S \times T
 S
 T
 S
-T𝐖.
-S𝐖\times𝐖T𝐖=\{(s,𝐖t)𝐖\colon𝐖s𝐖\in𝐖S,𝐖t𝐖\in𝐖T\}𝐖.
+T .
+S \times T =\{(s, t) \colon s \in S, t \in T\} .
 S
 R
 S
-S𝐖\times𝐖S𝐖.
-x,𝐖y𝐖\in𝐖S
-(x,𝐖y)𝐖\in𝐖R,𝐖
+S \times S .
+x, y \in S
+(x, y) \in R,
 xRy
 x
 y
 R
-S𝐖\times𝐖S
-S𝐖.
-\lt𝐖
-𝐖=𝐖.
+S \times S
+S .
+\lt
+= .
 S
-\sim𝐖
+\sim
 S
-\sim𝐖
-a𝐖\in𝐖S,𝐖
-a𝐖\sim𝐖a𝐖.
-\sim𝐖
-a,𝐖b𝐖\in𝐖S
-a𝐖\sim𝐖b,𝐖
-b𝐖\sim𝐖a𝐖.
-\sim𝐖
-a,𝐖b,𝐖c𝐖\in𝐖S
-a𝐖\sim𝐖b
-b𝐖\sim𝐖c,𝐖
-a𝐖\sim𝐖c𝐖.
-x𝐖\in𝐖S,𝐖
-\overline{x}𝐖=\{y𝐖\in𝐖S𝐖\colon𝐖x𝐖\sim𝐖y\}
+\sim
+a \in S,
+a \sim a .
+\sim
+a, b \in S
+a \sim b,
+b \sim a .
+\sim
+a, b, c \in S
+a \sim b
+b \sim c,
+a \sim c .
+x \in S,
+\overline{x} =\{y \in S \colon x \sim y\}
 x
-z𝐖\in𝐖\overline{x}
+z \in \overline{x}
 P
-\leqslant𝐖
-\mathbb𝐖Z𝐖𝐖.
+\leqslant
+\mathbb Z .
 m
-a,𝐖b𝐖\in𝐖\mathbb𝐖Z𝐖
-m𝐖\in𝐖\mathbb𝐖N𝐖,𝐖
-m𝐖>1𝐖.
+a, b \in \mathbb Z
+m \in \mathbb N,
+m >1 .
 a
 b
 m
-m𝐖\mid𝐖a𝐖-b𝐖.
-a𝐖\equiv𝐖b𝐖modm𝐖.
-18𝐖\equiv𝐖6𝐖mod12
-47𝐖\equiv𝐖8𝐖mod13
-71𝐖\equiv𝐖1𝐖mod5
-21𝐖\equiv𝐖𝐖-1𝐖mod11
-24𝐖\equiv𝐖0𝐖mod6
-m𝐖>1,𝐖
+m \mid a -b .
+a \equiv b modm .
+18 \equiv 6 mod12
+47 \equiv 8 mod13
+71 \equiv 1 mod5
+21 \equiv -1 mod11
+24 \equiv 0 mod6
+m >1,
 m
-\mathbb𝐖Z𝐖𝐖.
-\mathbb𝐖Z𝐖
+\mathbb Z .
+\mathbb Z
 m
 m
-\mathbb𝐖Z𝐖_m𝐖
-\mathbb𝐖Z𝐖_5𝐖
-\mathbb𝐖Z𝐖_7𝐖𝐖.
-a,𝐖b,𝐖c,𝐖d𝐖\in𝐖\mathbb𝐖Z𝐖
-m𝐖>1
-a𝐖\equiv𝐖c𝐖modm
-b𝐖\equiv𝐖d𝐖modm𝐖.
-a𝐖+b𝐖\equiv𝐖c𝐖+d𝐖modm𝐖.
-a,𝐖b,𝐖c,𝐖d𝐖\in𝐖\mathbb𝐖Z𝐖
-m𝐖>1
-a𝐖\equiv𝐖c𝐖modm
-b𝐖\equiv𝐖d𝐖modm𝐖.
-ab𝐖\equiv𝐖cd𝐖modm𝐖.
+\mathbb Z_m
+\mathbb Z_5
+\mathbb Z_7 .
+a, b, c, d \in \mathbb Z
+m >1
+a \equiv c modm
+b \equiv d modm .
+a +b \equiv c +d modm .
+a, b, c, d \in \mathbb Z
+m >1
+a \equiv c modm
+b \equiv d modm .
+ab \equiv cd modm .
 S
-\sim𝐖
-S𝐖.
+\sim
+S .
 P
 S
-\overline{x}𝐖=\overline{y},𝐖
-P(\overline{x})𝐖=P(\overline{y})𝐖.
-m𝐖>1
-\overline{a},𝐖\overline{b}𝐖\in𝐖\mathbb𝐖Z𝐖_m𝐖𝐖.
+\overline{x} =\overline{y},
+P(\overline{x}) =P(\overline{y}) .
+m >1
+\overline{a}, \overline{b} \in \mathbb Z_m .
 m
-\overline{a}𝐖+\overline{b}𝐖\colon𝐖=\overline{a𝐖+b}𝐖.
+\overline{a} +\overline{b} \colon =\overline{a +b} .
 m
-\overline{a}𝐖\cdot𝐖\overline{b}𝐖\colon𝐖=\overline{a𝐖\cdot𝐖b}𝐖.
-\mathbb𝐖Z𝐖_m𝐖
-\mathbb𝐖Z𝐖𝐖.
-m|a𝐖-c
-m|b𝐖-d
-m|(a𝐖+b)𝐖-(c𝐖+d)𝐖.
-Z_m𝐖
-\mathbb𝐖Z𝐖
+\overline{a} \cdot \overline{b} \colon =\overline{a \cdot b} .
+\mathbb Z_m
+\mathbb Z .
+m|a -c
+m|b -d
+m|(a +b) -(c +d) .
+Z_m
+\mathbb Z
 m
-\mathbb𝐖Z𝐖_m𝐖
-\mathbb𝐖Z𝐖,𝐖
-\overline{5}𝐖+\overline{11}
-\mathbb𝐖Z𝐖_9𝐖
-\overline{𝐖-3}𝐖+\overline{𝐖-3}
-\mathbb𝐖Z𝐖_6𝐖
-\overline{8}𝐖\cdot𝐖\overline{3}
-\mathbb𝐖Z𝐖_{19}𝐖
-\overline{𝐖-1}𝐖\cdot𝐖(\overline{3}𝐖+\overline{8})
-\mathbb𝐖Z𝐖_7𝐖
-\overline{3}𝐖\cdot𝐖(\overline{5}^2𝐖𝐖+\overline{3}^3𝐖)
-\mathbb𝐖Z𝐖_{20}𝐖
-\mathbb𝐖Z𝐖_m𝐖𝐖.
-\overline{a},𝐖\overline{b},𝐖\overline{c}𝐖\in𝐖\mathbb𝐖Z𝐖_m𝐖
-\overline{c}𝐖\not=𝐖\overline{0}
-m𝐖>1𝐖.
-\overline{a}𝐖\cdot𝐖\overline{c}𝐖=\overline{b}𝐖\cdot𝐖\overline{c},𝐖
-\overline{a}𝐖=\overline{b}𝐖?
-a,𝐖b,𝐖c,𝐖
+\mathbb Z_m
+\mathbb Z,
+\overline{5} +\overline{11}
+\mathbb Z_9
+\overline{ -3} +\overline{ -3}
+\mathbb Z_6
+\overline{8} \cdot \overline{3}
+\mathbb Z_{19}
+\overline{ -1} \cdot (\overline{3} +\overline{8})
+\mathbb Z_7
+\overline{3} \cdot (\overline{5}^2 +\overline{3}^3)
+\mathbb Z_{20}
+\mathbb Z_m .
+\overline{a}, \overline{b}, \overline{c} \in \mathbb Z_m
+\overline{c} \not= \overline{0}
+m >1 .
+\overline{a} \cdot \overline{c} =\overline{b} \cdot \overline{c},
+\overline{a} =\overline{b} ?
+a, b, c,
 m
-m𝐖>1
-\gcd𝐖(c,𝐖m)𝐖=1𝐖.
-x𝐖\in𝐖\mathbb𝐖Z𝐖
-\overline{c}\overline{x}𝐖=\overline{1}𝐖.
-\overline{a}𝐖\cdot𝐖\overline{c}𝐖=\overline{b}𝐖\cdot𝐖\overline{c}
-\mathbb𝐖Z𝐖_m𝐖
-\overline{a}𝐖=\overline{b}𝐖.
-p𝐖\in𝐖\mathbb𝐖N𝐖
-\overline{a},𝐖\overline{b},𝐖\overline{c}𝐖\in𝐖\mathbb𝐖Z𝐖_p𝐖
-\overline{c}𝐖\not=𝐖\overline{0}𝐖.
-\overline{x}𝐖\in𝐖\mathbb𝐖Z𝐖_p𝐖
-\overline{c}𝐖\cdot𝐖\overline{x}𝐖=\overline{1};𝐖
-\overline{a}𝐖\cdot𝐖\overline{c}𝐖=\overline{b}𝐖\cdot𝐖\overline{c},𝐖
-\overline{a}𝐖=\overline{b}𝐖.
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+m >1
+\gcd (c, m) =1 .
+x \in \mathbb Z
+\overline{c}\overline{x} =\overline{1} .
+\overline{a} \cdot \overline{c} =\overline{b} \cdot \overline{c}
+\mathbb Z_m
+\overline{a} =\overline{b} .
+p \in \mathbb N
+\overline{a}, \overline{b}, \overline{c} \in \mathbb Z_p
+\overline{c} \not= \overline{0} .
+\overline{x} \in \mathbb Z_p
+\overline{c} \cdot \overline{x} =\overline{1};
+\overline{a} \cdot \overline{c} =\overline{b} \cdot \overline{c},
+\overline{a} =\overline{b} .
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\mathbb𝐖Q𝐖,𝐖
-\mathbb𝐖Q𝐖𝐖=\{\frac{a}{b}𝐖\colon𝐖a,𝐖b𝐖\in𝐖\mathbb𝐖Z𝐖,𝐖b𝐖\not=𝐖0\}𝐖.
-\frac{a}{b},𝐖\frac{c}{d}𝐖\in𝐖\mathbb𝐖Q𝐖
-ad𝐖=bc𝐖.
-\mathbb𝐖R𝐖,𝐖
-\mathbb𝐖R𝐖
-\mathbb𝐖R𝐖
-a𝐖+bi,𝐖
-a,𝐖b𝐖\in𝐖\mathbb𝐖R𝐖
-i^2𝐖𝐖=𝐖-1𝐖.
-z𝐖=a𝐖+bi,𝐖
+\mathbb Q,
+\mathbb Q =\{\frac{a}{b} \colon a, b \in \mathbb Z, b \not= 0\} .
+\frac{a}{b}, \frac{c}{d} \in \mathbb Q
+ad =bc .
+\mathbb R,
+\mathbb R
+\mathbb R
+a +bi,
+a, b \in \mathbb R
+i^2 = -1 .
+z =a +bi,
 a
 z
 b
-\mathbb𝐖C𝐖𝐖.
+\mathbb C .
 X
-𝐖\star𝐖𝐖\colon𝐖X𝐖\times𝐖X𝐖\to𝐖X
-\star𝐖
-X,𝐖
+\star \colon X \times X \to X
+\star
+X,
 X
-\star𝐖
-a,𝐖b𝐖\in𝐖X,𝐖
-a𝐖\star𝐖b
-𝐖\star𝐖(a,𝐖b)𝐖.
-𝐖+,𝐖𝐖-,𝐖𝐖\cdot𝐖,𝐖𝐖\div𝐖
-\mathbb𝐖R𝐖𝐖?
-\mathbb𝐖Q𝐖𝐖?
-\mathbb𝐖Z𝐖𝐖?
-\mathbb𝐖N𝐖𝐖?
-\mathbb𝐖C𝐖𝐖?
-a_1𝐖𝐖+b_1𝐖i,𝐖a_2𝐖𝐖+b_2𝐖i𝐖\in𝐖\mathbb𝐖C𝐖,𝐖
-(a_1𝐖𝐖+b_1𝐖i)𝐖+(a_2𝐖𝐖+b_2𝐖i)𝐖\colon𝐖=(a_1𝐖𝐖+a_2𝐖)𝐖+(b_1𝐖𝐖+b_2𝐖)i
-(a_1𝐖𝐖+b_1𝐖i)(a_2𝐖𝐖+b_2𝐖i)𝐖\colon𝐖=(a_1𝐖a_2𝐖𝐖-b_1𝐖b_2𝐖)𝐖+(a_1𝐖b_2𝐖𝐖+b_1𝐖a_2𝐖)i𝐖.
+\star
+a, b \in X,
+a \star b
+\star (a, b) .
++, -, \cdot, \div
+\mathbb R ?
+\mathbb Q ?
+\mathbb Z ?
+\mathbb N ?
+\mathbb C ?
+a_1 +b_1 i, a_2 +b_2 i \in \mathbb C,
+(a_1 +b_1 i) +(a_2 +b_2 i) \colon =(a_1 +a_2) +(b_1 +b_2)i
+(a_1 +b_1 i)(a_2 +b_2 i) \colon =(a_1 a_2 -b_1 b_2) +(a_1 b_2 +b_1 a_2)i .
 X
 F
 +
-𝐖\cdot𝐖,𝐖
-(F,𝐖𝐖+,𝐖𝐖\cdot𝐖),𝐖
-a,𝐖b,𝐖c𝐖\in𝐖F,𝐖
-(a𝐖+b)𝐖+c𝐖=a𝐖+(b𝐖+c)𝐖.
-a,𝐖b𝐖\in𝐖F,𝐖
-a𝐖+b𝐖=b𝐖+a𝐖.
-0_F𝐖𝐖\in𝐖F
-a𝐖\in𝐖F,𝐖
-a𝐖+0_F𝐖𝐖=0_F𝐖𝐖+a𝐖=a𝐖.
-a𝐖\in𝐖F
-b𝐖\in𝐖F
-a𝐖+b𝐖=b𝐖+a𝐖=0_F𝐖𝐖.
-a,𝐖b,𝐖c𝐖\in𝐖F,𝐖
-(a𝐖\cdot𝐖b)𝐖\cdot𝐖c𝐖=a𝐖\cdot𝐖(b𝐖\cdot𝐖c)𝐖.
-a,𝐖b𝐖\in𝐖F,𝐖
-a𝐖\cdot𝐖b𝐖=b𝐖\cdot𝐖a𝐖.
-1_F𝐖𝐖\in𝐖F
-a𝐖\in𝐖F,𝐖
-1_F𝐖𝐖\cdot𝐖a𝐖=a𝐖\cdot𝐖1_F𝐖𝐖=a𝐖.
-a𝐖\in𝐖F,𝐖
-a𝐖\not=𝐖0_F𝐖,𝐖
-b𝐖\in𝐖F
-a𝐖\cdot𝐖b𝐖=b𝐖\cdot𝐖a𝐖=1_F𝐖𝐖.
-a,𝐖b,𝐖c𝐖\in𝐖F,𝐖
-a𝐖\cdot𝐖(b𝐖+c)𝐖=a𝐖\cdot𝐖b𝐖+a𝐖\cdot𝐖c𝐖.
-a,𝐖b,𝐖c𝐖\in𝐖F,𝐖
-(a𝐖+b)𝐖\cdot𝐖c𝐖=a𝐖\cdot𝐖c𝐖+b𝐖\cdot𝐖c𝐖.
-a𝐖\cdot𝐖b
-ab𝐖.
-0,𝐖1
-\mathbb𝐖N𝐖
-\mathbb𝐖Z𝐖
-2\mathbb𝐖Z𝐖,𝐖
-\mathbb𝐖Q𝐖
-\mathbb𝐖Z𝐖_6𝐖
-\mathbb𝐖Z𝐖_5𝐖
-\mathbb𝐖R𝐖
-\mathbb𝐖C𝐖
-\mscrM𝐖_2𝐖(\mathbb𝐖R𝐖)𝐖\colon𝐖=\{𝐖\begin{pmatrix}𝐖a𝐖&𝐖b𝐖\\𝐖c𝐖&𝐖d𝐖\end{pmatrix}𝐖𝐖\colon𝐖a,𝐖b,𝐖c,𝐖d𝐖\in𝐖\mathbb𝐖R𝐖\}
-2𝐖\times𝐖2
-𝐖\begin{pmatrix}𝐖a_1𝐖𝐖&𝐖b_1𝐖𝐖\\𝐖c_1𝐖𝐖&𝐖d_1𝐖𝐖\end{pmatrix}𝐖,𝐖𝐖\begin{pmatrix}𝐖a_2𝐖𝐖&𝐖b_2𝐖𝐖\\𝐖c_2𝐖𝐖&𝐖d_2𝐖𝐖\end{pmatrix}𝐖𝐖\in𝐖\mscrM𝐖_2𝐖(\mathbb𝐖R𝐖),𝐖
-𝐖\begin{pmatrix}𝐖a_1𝐖𝐖&𝐖b_1𝐖𝐖\\𝐖c_1𝐖𝐖&𝐖d_1𝐖𝐖\end{pmatrix}𝐖𝐖\cdot𝐖𝐖\begin{pmatrix}𝐖a_2𝐖𝐖&𝐖b_2𝐖𝐖\\𝐖c_2𝐖𝐖&𝐖d_2𝐖𝐖\end{pmatrix}𝐖𝐖=𝐖\begin{pmatrix}𝐖a_1𝐖a_2𝐖𝐖+b_1𝐖c_2𝐖𝐖&𝐖a_1𝐖b_2𝐖𝐖+b_1𝐖d_2𝐖𝐖\\𝐖c_1𝐖a_2𝐖𝐖+d_1𝐖c_2𝐖𝐖&𝐖c_1𝐖b_2𝐖𝐖+d_1𝐖d_2𝐖𝐖\end{pmatrix}𝐖𝐖.
+\cdot,
+(F, +, \cdot),
+a, b, c \in F,
+(a +b) +c =a +(b +c) .
+a, b \in F,
+a +b =b +a .
+0_F \in F
+a \in F,
+a +0_F =0_F +a =a .
+a \in F
+b \in F
+a +b =b +a =0_F .
+a, b, c \in F,
+(a \cdot b) \cdot c =a \cdot (b \cdot c) .
+a, b \in F,
+a \cdot b =b \cdot a .
+1_F \in F
+a \in F,
+1_F \cdot a =a \cdot 1_F =a .
+a \in F,
+a \not= 0_F,
+b \in F
+a \cdot b =b \cdot a =1_F .
+a, b, c \in F,
+a \cdot (b +c) =a \cdot b +a \cdot c .
+a, b, c \in F,
+(a +b) \cdot c =a \cdot c +b \cdot c .
+a \cdot b
+ab .
+0, 1
+\mathbb N
+\mathbb Z
+2\mathbb Z,
+\mathbb Q
+\mathbb Z_6
+\mathbb Z_5
+\mathbb R
+\mathbb C
+\mscrM_2 (\mathbb R) \colon =\{ \begin{pmatrix} a & b \\ c & d \end{pmatrix} \colon a, b, c, d \in \mathbb R \}
+2 \times 2
+\begin{pmatrix} a_1 & b_1 \\ c_1 & d_1 \end{pmatrix}, \begin{pmatrix} a_2 & b_2 \\ c_2 & d_2 \end{pmatrix} \in \mscrM_2 (\mathbb R),
+\begin{pmatrix} a_1 & b_1 \\ c_1 & d_1 \end{pmatrix} \cdot \begin{pmatrix} a_2 & b_2 \\ c_2 & d_2 \end{pmatrix} = \begin{pmatrix} a_1 a_2 +b_1 c_2 & a_1 b_2 +b_1 d_2 \\ c_1 a_2 +d_1 c_2 & c_1 b_2 +d_1 d_2 \end{pmatrix} .
 F
 0
-a𝐖\in𝐖F,𝐖
-a𝐖\cdot𝐖0𝐖=0𝐖\cdot𝐖a𝐖=0𝐖.
+a \in F,
+a \cdot 0 =0 \cdot a =0 .
 1
-(𝐖-1)𝐖\cdot𝐖(𝐖-1)𝐖=1
-a𝐖\in𝐖F,𝐖
-b𝐖\in𝐖F𝐖\setminus𝐖\{0\},𝐖
-𝐖-a
-a,𝐖
-b^{𝐖-1}𝐖
-b𝐖.
-n𝐖>1
-\mathbb𝐖Z𝐖_n𝐖
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+( -1) \cdot ( -1) =1
+a \in F,
+b \in F \setminus \{0\},
+-a
+a,
+b^{ -1}
+b .
+n >1
+\mathbb Z_n
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-(x,𝐖y,𝐖z)
-x^n𝐖𝐖+y^n𝐖𝐖=z^n𝐖
-n𝐖\geqslant𝐖3𝐖.
-x^p𝐖𝐖+y^p𝐖,𝐖
+(x, y, z)
+x^n +y^n =z^n
+n \geqslant 3 .
+x^p +y^p,
 p
-x^p𝐖𝐖+y^p𝐖𝐖=(x𝐖+y)(x𝐖+\zeta𝐖y)\cdots𝐖(x𝐖+\zeta𝐖^{p𝐖-1}𝐖y),𝐖
-\zeta𝐖𝐖=e^{2\pi𝐖i/p}𝐖
+x^p +y^p =(x +y)(x +\zeta y)\cdots (x +\zeta^{p -1} y),
+\zeta =e^{2\pi i/p}
 p
-\mathbb𝐖C𝐖𝐖.
-\mathbb𝐖Z𝐖[\zeta𝐖]𝐖=\{a_0𝐖𝐖+a_1𝐖\zeta𝐖𝐖+a_2𝐖\zeta𝐖^2𝐖𝐖+\cdots𝐖𝐖+a_{p𝐖-1}𝐖\zeta𝐖^{p𝐖-1}𝐖𝐖\colon𝐖a_i𝐖𝐖\in𝐖\mathbb𝐖Z𝐖\}
+\mathbb C .
+\mathbb Z [\zeta] =\{a_0 +a_1 \zeta +a_2 \zeta^2 +\cdots +a_{p -1} \zeta^{p -1} \colon a_i \in \mathbb Z \}
 R
-R𝐖.
-R𝐖&𝐖\lt𝐖mi/>𝐖=\mathbb𝐖Z𝐖𝐖+x\mathbb𝐖Q𝐖[x]𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=\{a𝐖+b_1𝐖x𝐖+b_2𝐖x^2𝐖𝐖+\cdots𝐖𝐖+b_n𝐖x^n𝐖𝐖\colon𝐖a𝐖\in𝐖\mathbb𝐖Z𝐖,𝐖b_1𝐖,𝐖\ldots𝐖,𝐖b_n𝐖𝐖\in𝐖\mathbb𝐖Q𝐖,𝐖n𝐖\geqslant𝐖0\},𝐖
+R .
+R & \lt mi/> =\mathbb Z +x\mathbb Q [x] \\ \~ & \lt mi/> =\{a +b_1 x +b_2 x^2 +\cdots +b_n x^n \colon a \in \mathbb Z, b_1, \ldots, b_n \in \mathbb Q, n \geqslant 0\},
 R
 R
 R
-R𝐖.
+R .
 x
 R
-x𝐖=m(\frac{x}{m})𝐖.
+x =m(\frac{x}{m}) .
 x
-R𝐖.
-R𝐖=\mathbb𝐖Z𝐖[\sqrt{𝐖-7}]𝐖=\{a𝐖+b\sqrt{𝐖-7}𝐖\colon𝐖a,𝐖b𝐖\in𝐖\mathbb𝐖Z𝐖\}𝐖.
-8𝐖=(1𝐖+\sqrt{𝐖-7})(1𝐖-\sqrt{𝐖-7})𝐖.
-\delta𝐖
-\mathbb𝐖Z𝐖[\sqrt{𝐖-7}]𝐖.
-\delta𝐖𝐖\colon𝐖R𝐖\to𝐖\mathbb𝐖N𝐖_0𝐖
-\delta𝐖(a𝐖+b\sqrt{𝐖-7})𝐖=a^2𝐖𝐖+7b^2𝐖𝐖.
-x,𝐖y𝐖\in𝐖R,𝐖
-\delta𝐖(xy)𝐖=\delta𝐖(x)\delta𝐖(y)𝐖.
-u𝐖\in𝐖R
-\delta𝐖(u)𝐖=1𝐖.
-x,𝐖y𝐖\in𝐖\mathbb𝐖N𝐖_0𝐖
-2𝐖=x^2𝐖𝐖+7y^2𝐖𝐖.
-1𝐖+\sqrt{𝐖-7},𝐖
-1𝐖-\sqrt{𝐖-7}
-R𝐖.
+R .
+R =\mathbb Z [\sqrt{ -7}] =\{a +b\sqrt{ -7} \colon a, b \in \mathbb Z \} .
+8 =(1 +\sqrt{ -7})(1 -\sqrt{ -7}) .
+\delta
+\mathbb Z [\sqrt{ -7}] .
+\delta \colon R \to \mathbb N_0
+\delta (a +b\sqrt{ -7}) =a^2 +7b^2 .
+x, y \in R,
+\delta (xy) =\delta (x)\delta (y) .
+u \in R
+\delta (u) =1 .
+x, y \in \mathbb N_0
+2 =x^2 +7y^2 .
+1 +\sqrt{ -7},
+1 -\sqrt{ -7}
+R .
 R
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
 LATEX
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-p𝐖>1
+p >1
 p
-a,𝐖b𝐖\in𝐖\mathbb𝐖Z𝐖
-p𝐖\mid𝐖ab,𝐖
-p𝐖\mid𝐖a
-p𝐖\mid𝐖b𝐖.
-m𝐖>1
-p𝐖>1
-p𝐖\in𝐖\mathbb𝐖N𝐖,𝐖
-p𝐖>1,𝐖
+a, b \in \mathbb Z
+p \mid ab,
+p \mid a
+p \mid b .
+m >1
+p >1
+p \in \mathbb N,
+p >1,
 p
-m𝐖\in𝐖\mathbb𝐖N𝐖
-p,𝐖
-m𝐖=p
-m𝐖=1𝐖.
-m𝐖\in𝐖\mathbb𝐖N𝐖
-6𝐖=2𝐖\cdot𝐖3𝐖=1𝐖\cdot𝐖2𝐖\cdot𝐖3𝐖=1𝐖\cdot𝐖1𝐖\cdot𝐖2𝐖\cdot𝐖3
-a𝐖\in𝐖\mathbb𝐖N𝐖
-a𝐖>1𝐖.
+m \in \mathbb N
+p,
+m =p
+m =1 .
+m \in \mathbb N
+6 =2 \cdot 3 =1 \cdot 2 \cdot 3 =1 \cdot 1 \cdot 2 \cdot 3
+a \in \mathbb N
+a >1 .
 p
-p𝐖\mid𝐖a𝐖.
+p \mid a .
 p
 q
-p|q𝐖.
-p𝐖=q𝐖.
-n𝐖>1
-n𝐖>1,𝐖
-p_1𝐖,𝐖p_2𝐖,𝐖\ldots𝐖,𝐖p_m𝐖
-r_1𝐖,𝐖r_2𝐖,𝐖\ldots𝐖,𝐖r_m𝐖
-n𝐖=p_1^{r_1𝐖}𝐖p_2^{r_2𝐖}𝐖\cdots𝐖p_m^{r_m𝐖}𝐖𝐖.
+p|q .
+p =q .
+n >1
+n >1,
+p_1, p_2, \ldots, p_m
+r_1, r_2, \ldots, r_m
+n =p_1^{r_1} p_2^{r_2} \cdots p_m^{r_m} .
 p
-q_1𝐖,𝐖q_2𝐖,𝐖\ldots𝐖,𝐖q_n𝐖
+q_1, q_2, \ldots, q_n
 k
-pk𝐖=q_1𝐖q_2𝐖\ldots𝐖q_n𝐖𝐖.
-p𝐖=q_i𝐖
-i𝐖.
+pk =q_1 q_2 \ldots q_n .
+p =q_i
+i .
 n
-\{p_1𝐖,𝐖p_2𝐖,𝐖\ldots𝐖,𝐖p_m𝐖\}
-\{q_1𝐖,𝐖q_2𝐖,𝐖\ldots𝐖,𝐖q_s𝐖\}
-p_i𝐖𝐖\not=𝐖p_j𝐖
-i𝐖\not=𝐖j
-q_i𝐖𝐖\not=𝐖q_j𝐖
-i𝐖\not=𝐖j𝐖.
-\{r_1𝐖,𝐖r_2𝐖,𝐖\ldots𝐖,𝐖r_m𝐖\}
-\{t_1𝐖,𝐖t_2𝐖,𝐖\ldots𝐖,𝐖t_s𝐖\}
-n𝐖&𝐖\lt𝐖mi/>𝐖=p_1^{r_1𝐖}𝐖p_2^{r_2𝐖}𝐖\cdots𝐖p_m^{r_m𝐖}𝐖𝐖\\𝐖\~𝐖&𝐖\lt𝐖mi/>𝐖=q_1^{t_1𝐖}𝐖q_2^{t_2𝐖}𝐖\cdots𝐖q_s^{t_s𝐖}𝐖𝐖.
-m𝐖=s
-\{p_1𝐖,𝐖p_2𝐖,𝐖\ldots𝐖,𝐖p_m𝐖\}𝐖=\{q_1𝐖,𝐖q_2𝐖,𝐖\ldots𝐖,𝐖q_s𝐖\}𝐖.
-p_i𝐖
-q_i𝐖
-p_i𝐖𝐖=q_j𝐖,𝐖
-r_i𝐖𝐖=t_j𝐖𝐖.
-n𝐖>2
-\mathbb𝐖Z𝐖
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\{p_1, p_2, \ldots, p_m \}
+\{q_1, q_2, \ldots, q_s \}
+p_i \not= p_j
+i \not= j
+q_i \not= q_j
+i \not= j .
+\{r_1, r_2, \ldots, r_m \}
+\{t_1, t_2, \ldots, t_s \}
+n & \lt mi/> =p_1^{r_1} p_2^{r_2} \cdots p_m^{r_m} \\ \~ & \lt mi/> =q_1^{t_1} q_2^{t_2} \cdots q_s^{t_s} .
+m =s
+\{p_1, p_2, \ldots, p_m \} =\{q_1, q_2, \ldots, q_s \} .
+p_i
+q_i
+p_i =q_j,
+r_i =t_j .
+n >2
+\mathbb Z
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\mathbb𝐖N𝐖𝐖?
-\mathbb𝐖N𝐖,𝐖
-\mathbb𝐖N𝐖𝐖=\{1,𝐖2,𝐖3,𝐖\ldots𝐖\}𝐖.
-\mathbb𝐖N𝐖_0𝐖
-\mathbb𝐖N𝐖𝐖\cup𝐖\{0\}𝐖=\{0,𝐖1,𝐖2,𝐖3,𝐖\ldots𝐖\}𝐖.
-\mathbb𝐖N𝐖
-\mathbb𝐖N𝐖
-\mathbb𝐖N𝐖_0𝐖
-\leqslant𝐖
-\mathbb𝐖R𝐖
-𝐖\leqslant𝐖,𝐖
-\mathbb𝐖R𝐖𝐖.
+\mathbb N ?
+\mathbb N,
+\mathbb N =\{1, 2, 3, \ldots \} .
+\mathbb N_0
+\mathbb N \cup \{0\} =\{0, 1, 2, 3, \ldots \} .
+\mathbb N
+\mathbb N
+\mathbb N_0
+\leqslant
+\mathbb R
+\leqslant,
+\mathbb R .
 S
 f
 x
-f(2)𝐖=f(𝐖-2)𝐖=0
-f(0)𝐖=𝐖-4𝐖.
-f𝐖\in𝐖S
-g𝐖\notin𝐖S𝐖.
-D𝐖=\{\deg𝐖f𝐖\colon𝐖f𝐖\in𝐖S\}
-S𝐖.
-D𝐖\not=𝐖\varnothing𝐖
-D𝐖\subseteq𝐖\mathbb𝐖N𝐖_0𝐖𝐖.
+f(2) =f( -2) =0
+f(0) = -4 .
+f \in S
+g \notin S .
+D =\{\deg f \colon f \in S\}
+S .
+D \not= \varnothing
+D \subseteq \mathbb N_0 .
 D
-S𝐖?
-\mathbb𝐖Z𝐖𝐖\colon𝐖
-\mathbb𝐖Z𝐖𝐖=\{\ldots𝐖,𝐖𝐖-3,𝐖𝐖-2,𝐖𝐖-1,𝐖0,𝐖1,𝐖2,𝐖3,𝐖\ldots𝐖\}𝐖.
+S ?
+\mathbb Z \colon
+\mathbb Z =\{\ldots, -3, -2, -1, 0, 1, 2, 3, \ldots \} .
 P(m)
 m
 m
-3m^2𝐖𝐖+m𝐖+2
-k_0𝐖𝐖\in𝐖\mathbb𝐖N𝐖
-P(k_0𝐖)
-n𝐖\geqslant𝐖k_0𝐖
+3m^2 +m +2
+k_0 \in \mathbb N
+P(k_0)
+n \geqslant k_0
 k
-k_0𝐖𝐖\leqslant𝐖k𝐖\leqslant𝐖n,𝐖
+k_0 \leqslant k \leqslant n,
 P(k)
-P(n𝐖+1)
+P(n +1)
 P(m)
-m𝐖\geqslant𝐖k_0𝐖
-k_0𝐖
+m \geqslant k_0
+k_0
 n
-(n𝐖+1)
-k_0𝐖,𝐖
-k_0𝐖𝐖+1𝐖.
-k_0𝐖𝐖+1,𝐖
-k_0𝐖𝐖+2𝐖.
-n𝐖\geqslant𝐖1,𝐖
-1𝐖+2𝐖+3𝐖+\cdots𝐖𝐖+n𝐖=\frac{n(n𝐖+1)}{2}𝐖.
-n𝐖=1,𝐖
-1𝐖=\frac{1𝐖\cdot𝐖(1𝐖+1)}{2}
+(n +1)
+k_0,
+k_0 +1 .
+k_0 +1,
+k_0 +2 .
+n \geqslant 1,
+1 +2 +3 +\cdots +n =\frac{n(n +1)}{2} .
+n =1,
+1 =\frac{1 \cdot (1 +1)}{2}
 n
-k𝐖\leqslant𝐖n,𝐖
-(1.1.1)𝐖&𝐖1𝐖+2𝐖+3𝐖+\cdots𝐖𝐖+k𝐖=\frac{k(k𝐖+1)}{2}
-P(n𝐖+1)
-(1.1.2)𝐖&𝐖1𝐖+2𝐖+3𝐖+\cdots𝐖𝐖+n𝐖+(n𝐖+1)𝐖=\frac{(n𝐖+1)((n𝐖+1)𝐖+1)}{2}𝐖.
-(1.1.3)𝐖&𝐖1𝐖+2𝐖+3𝐖+\cdots𝐖𝐖+n𝐖+(n𝐖+1)𝐖=[\frac{n(n𝐖+1)}{2}]𝐖+(n𝐖+1)𝐖.
-(1.1.4)𝐖&𝐖\frac{n(n𝐖+1)}{2}𝐖+\frac{2(n𝐖+1)}{2}𝐖=\frac{n(n𝐖+1)𝐖+2(n𝐖+1)}{2}𝐖=\frac{(n𝐖+1)(n𝐖+2)}{2}𝐖.
-1𝐖+2𝐖+3𝐖+\cdots𝐖𝐖+n𝐖+(n𝐖+1)𝐖=\frac{(n𝐖+1)((n𝐖+1)𝐖+1)}{2},𝐖
-k𝐖\geqslant𝐖1,𝐖
-3^k𝐖𝐖>k𝐖.
+k \leqslant n,
+(1.1.1) & 1 +2 +3 +\cdots +k =\frac{k(k +1)}{2}
+P(n +1)
+(1.1.2) & 1 +2 +3 +\cdots +n +(n +1) =\frac{(n +1)((n +1) +1)}{2} .
+(1.1.3) & 1 +2 +3 +\cdots +n +(n +1) =[\frac{n(n +1)}{2}] +(n +1) .
+(1.1.4) & \frac{n(n +1)}{2} +\frac{2(n +1)}{2} =\frac{n(n +1) +2(n +1)}{2} =\frac{(n +1)(n +2)}{2} .
+1 +2 +3 +\cdots +n +(n +1) =\frac{(n +1)((n +1) +1)}{2},
+k \geqslant 1,
+3^k >k .
 n
-\frac{n^2𝐖(n𝐖+1)^2𝐖}{4}𝐖.
-1^3𝐖𝐖+2^3𝐖𝐖+3^3𝐖𝐖+\cdots𝐖𝐖+n^3𝐖𝐖=\frac{n^2𝐖(n𝐖+1)^2𝐖}{4}𝐖.
-b𝐖>𝐖-1,𝐖
-(1𝐖+b)^n𝐖𝐖\geqslant𝐖1𝐖+bn
-n𝐖\in𝐖\mathbb𝐖N𝐖_0𝐖𝐖.
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\frac{n^2 (n +1)^2}{4} .
+1^3 +2^3 +3^3 +\cdots +n^3 =\frac{n^2 (n +1)^2}{4} .
+b > -1,
+(1 +b)^n \geqslant 1 +bn
+n \in \mathbb N_0 .
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\mathbb𝐖Z𝐖[x]
-\mathbb𝐖Q𝐖
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\mathbb Z [x]
+\mathbb Q
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\backslash𝐖newtheoremtheoremTheorem[section]\backslash𝐖newtheoremconj[theorem]Conjecture\backslash𝐖newtheoremlemma[theorem]Lemma\backslash𝐖newtheoremprop[theorem]Proposition\backslash𝐖newtheoremclaim[theorem]Claim\backslash𝐖newtheoremexample[theorem]Example\backslash𝐖newtheoremdefinition[theorem]Definition\backslash𝐖newtheoreminvestigation[theorem]Investigation
+\backslash newtheoremtheoremTheorem[section]\backslash newtheoremconj[theorem]Conjecture\backslash newtheoremlemma[theorem]Lemma\backslash newtheoremprop[theorem]Proposition\backslash newtheoremclaim[theorem]Claim\backslash newtheoremexample[theorem]Example\backslash newtheoremdefinition[theorem]Definition\backslash newtheoreminvestigation[theorem]Investigation
 m
 I
-\mathbb𝐖Z𝐖𝐖.
+\mathbb Z .
 I
 R
-0𝐖\in𝐖I
-x,𝐖y𝐖\in𝐖I,𝐖
-x𝐖+y𝐖\in𝐖I;𝐖
-x𝐖\in𝐖I
-r𝐖\in𝐖R,𝐖
-xr𝐖\in𝐖I
-rx𝐖\in𝐖I𝐖.
+0 \in I
+x, y \in I,
+x +y \in I;
+x \in I
+r \in R,
+xr \in I
+rx \in I .
 I
 R
 R
 R
 R
 \{0\}
-R𝐖.
+R .
 I
 R
 I
-R𝐖.
-I𝐖=R
+R .
+I =R
 I
-R𝐖.
+R .
 R
-a𝐖\in𝐖R𝐖.
-𝐖\langle𝐖a𝐖\rangle𝐖𝐖=\{ra𝐖\colon𝐖r𝐖\in𝐖R\}
+a \in R .
+\langle a \rangle =\{ra \colon r \in R\}
 a
 a
-𝐖\langle𝐖a𝐖\rangle𝐖𝐖.
+\langle a \rangle .
 R
-x,𝐖y,𝐖z𝐖\in𝐖R𝐖.
-z𝐖\in𝐖𝐖\langle𝐖x𝐖\rangle𝐖
-𝐖\langle𝐖x𝐖\rangle𝐖𝐖\subseteq𝐖𝐖\langle𝐖y𝐖\rangle𝐖𝐖.
-z𝐖\in𝐖𝐖\langle𝐖x𝐖\rangle𝐖𝐖\Leftrightarrow𝐖
-𝐖\langle𝐖x𝐖\rangle𝐖𝐖\subseteq𝐖𝐖\langle𝐖y𝐖\rangle𝐖𝐖\Leftrightarrow𝐖
+x, y, z \in R .
+z \in \langle x \rangle
+\langle x \rangle \subseteq \langle y \rangle .
+z \in \langle x \rangle \Leftrightarrow
+\langle x \rangle \subseteq \langle y \rangle \Leftrightarrow
 R
-a𝐖\in𝐖R𝐖.
-𝐖\langle𝐖a𝐖\rangle𝐖𝐖=𝐖\langle𝐖ua𝐖\rangle𝐖,𝐖
+a \in R .
+\langle a \rangle = \langle ua \rangle,
 u
-R𝐖.
-R𝐖=\mathbb𝐖Z𝐖,𝐖
-𝐖-9
+R .
+R =\mathbb Z,
+-9
 R
-\mathbb𝐖Z𝐖
-\mathbb𝐖Z𝐖,𝐖
+\mathbb Z
+\mathbb Z,
 d
-I𝐖=𝐖\langle𝐖d𝐖\rangle𝐖𝐖\subseteq𝐖\mathbb𝐖Z𝐖,𝐖
-I𝐖=\{4x𝐖+10y𝐖\colon𝐖x,𝐖y𝐖\in𝐖\mathbb𝐖Z𝐖\}
-I𝐖=\{6s𝐖+7t𝐖\colon𝐖s,𝐖t𝐖\in𝐖\mathbb𝐖Z𝐖\}
-I𝐖=\{9w𝐖+12z𝐖\colon𝐖w,𝐖z𝐖\in𝐖\mathbb𝐖Z𝐖\}
-I𝐖=\{am𝐖+bn𝐖\colon𝐖m,𝐖n𝐖\in𝐖\mathbb𝐖Z𝐖\}
+I = \langle d \rangle \subseteq \mathbb Z,
+I =\{4x +10y \colon x, y \in \mathbb Z \}
+I =\{6s +7t \colon s, t \in \mathbb Z \}
+I =\{9w +12z \colon w, z \in \mathbb Z \}
+I =\{am +bn \colon m, n \in \mathbb Z \}
 R
-x,𝐖y𝐖\in𝐖R
-I𝐖=\{xm𝐖+yn𝐖\colon𝐖m,𝐖n𝐖\in𝐖R\}𝐖.
+x, y \in R
+I =\{xm +yn \colon m, n \in R\} .
 I
-d𝐖\in𝐖R
-I𝐖=𝐖\langle𝐖d𝐖\rangle𝐖;𝐖
+d \in R
+I = \langle d \rangle;
 d
 x
-y𝐖.
-s,𝐖t𝐖\in𝐖R
-d𝐖=xs𝐖+yt𝐖.
-\mathbb𝐖Z𝐖
-\mathbb𝐖Z𝐖
+y .
+s, t \in R
+d =xs +yt .
+\mathbb Z
+\mathbb Z
 R
-r,𝐖s𝐖\in𝐖R,𝐖
+r, s \in R,
 r
 s
 R
-\mathbb𝐖N𝐖_0𝐖,𝐖
+\mathbb N_0,
 R
 R
-\delta𝐖𝐖\colon𝐖R𝐖\setminus𝐖\{0\}𝐖\to𝐖\mathbb𝐖N𝐖_0𝐖
-a,𝐖b𝐖\in𝐖R𝐖\setminus𝐖\{0\},𝐖
-\delta𝐖(a)𝐖\leqslant𝐖\delta𝐖(ab)𝐖.
-a,𝐖b𝐖\in𝐖R,𝐖
-b𝐖\not=𝐖0,𝐖
-q,𝐖r𝐖\in𝐖R
-a𝐖=bq𝐖+r,𝐖
-r𝐖=0
-\delta𝐖(r)𝐖\lt𝐖\delta𝐖(b)𝐖.
-\delta𝐖
-R𝐖.
-\mathbb𝐖Q𝐖
-\delta𝐖(x)𝐖=0
-x𝐖\in𝐖\mathbb𝐖Q𝐖𝐖.
-\mathbb𝐖Z𝐖
-\delta𝐖,𝐖
+\delta \colon R \setminus \{0\} \to \mathbb N_0
+a, b \in R \setminus \{0\},
+\delta (a) \leqslant \delta (ab) .
+a, b \in R,
+b \not= 0,
+q, r \in R
+a =bq +r,
+r =0
+\delta (r) \lt \delta (b) .
+\delta
+R .
+\mathbb Q
+\delta (x) =0
+x \in \mathbb Q .
+\mathbb Z
+\delta,
 F
-S𝐖\subseteq𝐖F[x]
+S \subseteq F[x]
 S
 f
-\deg𝐖(f)𝐖\leqslant𝐖\deg𝐖(g)
-g𝐖\in𝐖S𝐖.
+\deg (f) \leqslant \deg (g)
+g \in S .
 F
-f(x),𝐖g(x)𝐖\in𝐖F[x]
-g(x)𝐖\not=𝐖0𝐖.
-\deg𝐖f(x)𝐖\geqslant𝐖\deg𝐖g(x)𝐖>0,𝐖
-f(x)𝐖=a_0𝐖𝐖+a_1𝐖x𝐖+\cdots𝐖𝐖+a_m𝐖x^m𝐖
-g(x)𝐖=b_0𝐖𝐖+b_1𝐖x𝐖+\cdots𝐖𝐖+b_n𝐖x^n𝐖,𝐖
-h(x)𝐖=f(x)𝐖-a_m𝐖b_n^{𝐖-1}𝐖x^{m𝐖-n}𝐖g(x)
-\deg𝐖f(x)𝐖.
+f(x), g(x) \in F[x]
+g(x) \not= 0 .
+\deg f(x) \geqslant \deg g(x) >0,
+f(x) =a_0 +a_1 x +\cdots +a_m x^m
+g(x) =b_0 +b_1 x +\cdots +b_n x^n,
+h(x) =f(x) -a_m b_n^{ -1} x^{m -n} g(x)
+\deg f(x) .
 F
-f(x),𝐖g(x)𝐖\in𝐖F[x]
-g(x)𝐖\not=𝐖0𝐖.
-q(x),𝐖r(x)𝐖\in𝐖F[x]
-f(x)𝐖=g(x)q(x)𝐖+r(x),𝐖
-\deg𝐖(r(x))𝐖\lt𝐖\deg𝐖g(x)𝐖.
-f(x)𝐖=0;𝐖
-f(x)𝐖\not=𝐖0
-\deg𝐖f𝐖\lt𝐖\deg𝐖g;𝐖
-f(x)𝐖\not=𝐖0
-\deg𝐖f𝐖\geqslant𝐖\deg𝐖g𝐖.
-m𝐖=\deg𝐖f(x)𝐖.
+f(x), g(x) \in F[x]
+g(x) \not= 0 .
+q(x), r(x) \in F[x]
+f(x) =g(x)q(x) +r(x),
+\deg (r(x)) \lt \deg g(x) .
+f(x) =0;
+f(x) \not= 0
+\deg f \lt \deg g;
+f(x) \not= 0
+\deg f \geqslant \deg g .
+m =\deg f(x) .
 F
 F[x]
 F[x]
-F𝐖?
-\delta𝐖,𝐖
+F ?
+\delta,
