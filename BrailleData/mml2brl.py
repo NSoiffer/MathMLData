@@ -225,6 +225,8 @@ def main():
         for source_dir in args.dir:
             for root, dirs, files in os.walk(source_dir):
                 for f in files:
+                    if f.find("cnclz") >= 0:
+                        continue   # skip canonicalized files
                     if args.use_dups and f.endswith("no-dups.mmls"):
                         file_list.append(f"{root}/{f}")
                     elif not args.use_dups and f.find("no-dups") == -1:   # avoid no-dups.mmls and no-dups-cnclz.mmls
