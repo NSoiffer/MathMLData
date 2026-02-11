@@ -76,6 +76,7 @@ class RunConfig(NamedTuple):
     service_tier: str
     apiKeyName: str
     batch_size: int
+    start_index: int
     n_examples: int
     symbol_mappings: list[SymbolMapping]
     example_braille_file: str
@@ -94,7 +95,7 @@ class RunConfig(NamedTuple):
         lines.append(f"  Batch Size: {self.batch_size}")
         lines.append(f"  Number of Examples: {self.n_examples}")
         if n_tests is not None:
-            lines.append(f"  Number of Tests: {n_tests}")
+            lines.append(f"  Number of Tests: {n_tests} starting at {self.start_index}")
         lines.append(f"  Example Braille File: {self.example_braille_file}")
         lines.append(f"  Example MathML File: {self.example_mathml_file}")
         lines.append(f"  Input Braille Dir: {self.input_braille_file}")
@@ -1244,6 +1245,7 @@ def prepare_conversion_config(
     gen_braille: bool,
     braille_code: str,
     n_examples: int | None,
+    start_index: int,
     n_tests: int | None,
     batch_size: int,
     ai_provider: str,
@@ -1302,6 +1304,17 @@ def prepare_conversion_config(
 
     # Use n_tests parameter, default to len(mathml) if not provided
     print(f"n_tests: {n_tests}, len(mathml): {len(mathml)}")
+    # Apply --start offset
+    if start_index < 0:
+        start_index = 0
+    if start_index >= len(mathml):
+        print(f"Error: start index {start_index} is beyond available tests ({len(mathml)}).")
+        sys.exit(1)
+
+    braille = braille[start_index:]
+    mathml = mathml[start_index:]
+
+    # Apply -t NUM limit
     n_tests_actual = min(n_tests, len(mathml)) if n_tests is not None else len(mathml)
     braille = braille[:n_tests_actual]
     mathml = mathml[:n_tests_actual]
@@ -1318,6 +1331,7 @@ def prepare_conversion_config(
         service_tier=service_tier,
         apiKeyName=apiKeyName,
         batch_size=batch_size,
+        start_index=start_index,
         n_examples=n_examples,
         symbol_mappings=symbol_mappings,
         example_braille_file=example_braille_file,
@@ -1362,7 +1376,7 @@ def run_conversion(
         total_tokens['time'] = round(1000 * total_generation_time)  # ms -- needs to be an int
         output_filename = (
             f"{'to-' if config.gen_braille else 'from-'}{config.braille_code}-{config.model}-"
-            f"{config.n_examples}exs-{len(test_input)}tests.txt"
+            f"{config.n_examples}exs-{config.start_index}-{config.start_index + len(test_input)}tests.txt"
         )
         write_results_to_file(test_input, computed, expected, total_tokens,
                               output_filename, config=config)
@@ -1396,6 +1410,12 @@ Note:
                         help='AI provider: "gemini" or "openai" (case-insensitive)')
     parser.add_argument('-e', '--examples', type=int, required=True,
                         help=('Number of examples to use. A negative number means use all available examples.'))
+    parser.add_argument(
+        '-s', '--start',
+        type=int,
+        default=0,
+        help='Start at test index NUM (0-based). Default: 0.'
+    )
     parser.add_argument('-t', '--tests', type=int, required=True,
                         help=('Number of tests to process. A negative number means use all available tests.'))
     parser.add_argument('-b', '--batch-size', type=int, default=80,
@@ -1490,19 +1510,21 @@ Note:
     for gen_braille, braille_code in conversion_params:
         try:
             config_data = prepare_conversion_config(
-                gen_braille, braille_code, n_examples, n_tests, args.batch_size, ai_provider, args.service_tier, model,
-                apiKeyName, symbol_mappings
-            )
+                    gen_braille, braille_code, n_examples, args.start, n_tests,
+                    args.batch_size, ai_provider, args.service_tier, model,
+                    apiKeyName, symbol_mappings
+                )
             configs_data.append(config_data)
         except Exception as e:
             print(f"Error preparing config for {braille_code} ({'braille' if gen_braille else 'MathML'}): {e}")
             sys.exit(1)
 
+    # Create threads for each conversion
     # Display first configuration
     print("\n=== Full Configuration ===")
     config, examples, test_input, expected = configs_data[0]
     conversion_type = f"{'Generate Braille' if config.gen_braille else 'Generate MathML'} ({config.braille_code})"
-    print(f"\n--- Configuration 1/{len(configs_data)}: {conversion_type} ---")
+    print(f"\n--Configuration 1/{len(configs_data)}: {conversion_type} ---")
     config_str = config.print_config(n_tests=len(test_input), short=True)
     print(config_str)
 
@@ -1514,8 +1536,6 @@ Note:
     if not confirmed:
         print("Exiting without processing.")
         sys.exit(0)
-
-    # Create threads for each conversion
     threads = []
     for config, examples, test_input, expected in configs_data:
         thread = threading.Thread(
