@@ -1,0 +1,95 @@
+File: Active Prelude to Calculus-no-dups-cnclz.mmls
+Line: 207
+Input: <math> <mrow> <mrow> <mrow> <mi>cot</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mfrac> <mrow> <mi>cos</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> <
+Error: Invalid MathML input:
+<math> <mrow> <mrow> <mrow> <mi>cot</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mfrac> <mrow> <mi>cos</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>t</mi> <mo>)</mo> <
+Error is: XML parsing error at 203: {ExpectedElementName}
+
+
+File: Algebra and Trigonometry 2e-no-dups-cnclz.mmls
+Line: 36
+Input: <math> <mrow> <mi>n</mi> <mo>-</mo> <mn>1</mn>
+Error: Invalid MathML input:
+<math> <mrow> <mi>n</mi> <mo>-</mo> <mn>1</mn>
+Error is: XML parsing error at 46: {UnclosedElement}
+
+
+File: Intermediate Algebra 2e-no-dups-cnclz.mmls
+Line: 36
+Input: <math> <mrow> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> <
+Error: Invalid MathML input:
+<math> <mrow> <mrow> <mrow> <mi>f</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mi>x</mi> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mrow> <mi>a</mi> <mo>⁢</mo> <msup> <mi>x</mi> <mn>2</mn> </msup> <
+Error is: XML parsing error at 195: {ExpectedElementName}
+
+
+File: Elementary Algebra-no-dups-cnclz.mmls
+Line: 48
+Input: <math> <mtable> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mrow> <mrow> <mn>8</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>21</mn> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mo>(</mo> <mrow> <mrow> <mo>-</mo> <mn>3</mn> </mrow> <mo>,</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mtd> </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mrow> <mn>5</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>=</mo> <mrow> <mi>y</mi> <mo>-</mo> <m
+Error: Invalid MathML input:
+<math> <mtable> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mrow> <mrow> <mn>8</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>+</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mi>y</mi> </mrow> </mrow> <mo>=</mo> <mn>21</mn> </mrow> </mtd> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mo>(</mo> <mrow> <mrow> <mo>-</mo> <mn>3</mn> </mrow> <mo>,</mo> <mn>1</mn> </mrow> <mo>)</mo> </mrow> </mtd> </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mrow> <mn>5</mn> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>=</mo> <mrow> <mi>y</mi> <mo>-</mo> <m
+Error is: XML parsing error at 531: {ExpectedElementEnd, ExpectedElementSelfClosed, ExpectedWhitespace}
+
+
+File: Intermediate Algebra_50_ Functions and Graphs-no-dups-cnclz.mmls
+Line: 107
+Input: <math> <mrow> <mi>k
+Error: Invalid MathML input:
+<math> <mrow> <mi>k
+Error is: XML parsing error at 19: {UnclosedElement}
+
+
+File: Math in Society__58__ Mathematics for liberal arts majors-no-dups-cnclz.mmls
+Line: 302
+Input: <math> <mfrac bevelled="true"> <mn>1</mn> <mn>1833</mn> </mfrac> </math
+Error: Invalid MathML input:
+<math> <mfrac bevelled="true"> <mn>1</mn> <mn>1833</mn> </mfrac> </math
+Error is: XML parsing error at 71: {Expected(">")}
+
+
+File: Modeling, Functions, and Graphs-no-dups-cnclz.mmls
+Line: 54
+Input: <math> <mrow> <msub> <mi>y</mi> <mn>2</mn> </msub> <mo>=</mo> <mrow> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <msup> <mi>e</mi> <mrow> <mo>-</mo> <mrow> <mo>
+Error: Invalid MathML input:
+<math> <mrow> <msub> <mi>y</mi> <mn>2</mn> </msub> <mo>=</mo> <mrow> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>-</mo> <mn>2</mn> </mrow> <mo>)</mo> </mrow> <mo>⁢</mo> <msup> <mi>e</mi> <mrow> <mo>-</mo> <mrow> <mo>
+Error is: XML parsing error at 214: {UnclosedElement}
+
+
+File: Statistics-no-dups-cnclz.mmls
+Line: 49
+Input: <math> <mfrac> <mrow> <mi>P</mi> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>&gt;</mo> <mrow> <mn>21</mn> <mo>⁢</mo> <mtext> AND </mtext> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>&gt;</mo> <mn>18</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mrow> <mi>P</mi> <mo>⁢</mo> <mro
+Error: Invalid MathML input:
+<math> <mfrac> <mrow> <mi>P</mi> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>x</mi> <mo>&#x003E;</mo> <mrow> <mn>21</mn> <mo>⁢</mo> <mtext> AND </mtext> <mo>⁢</mo> <mi>x</mi> </mrow> <mo>&#x003E;</mo> <mn>18</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mrow> <mi>P</mi> <mo>⁢</mo> <mro
+Error is: XML parsing error at 285: {ExpectedElementEnd, ExpectedElementSelfClosed, ExpectedWhitespace}
+
+
+File: Trigonometry-no-dups-cnclz.mmls
+Line: 14
+Input: <math> <mrow> <msup> <mi data-maybe-chemistry="1" data-split="true">SIN</mi> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </msup> <msup> <mo>,</mo> <mi>COS</mi> <mrow> <mo>-</mo> <mn>1</mn> </mrow> </msup> <mo>,</mo> </mrow> </math>
+Error: msup should have 2 children:
+ <msup>
+  <mo>,</mo>
+  <mi>COS</mi>
+  <mrow>
+    <mo>-</mo>
+    <mn>1</mn>
+  </mrow>
+ </msup>
+
+
+
+File: Trigonometry-no-dups-cnclz.mmls
+Line: 27
+Input: <math> <mrow> <mrow> 
+Error: Invalid MathML input:
+<math> <mrow> <mrow> 
+Error is: XML parsing error at 21: {UnclosedElement}
+
+
+File: PreAlgebra 2e-no-dups-cnclz.mmls
+Line: 182
+Input: <math> <
+Error: Invalid MathML input:
+<math> <
+Error is: XML parsing error at 8: {ExpectedElementName}
+
+
