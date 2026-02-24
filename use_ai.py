@@ -137,22 +137,33 @@ def build_instructions(
                 "  1. at the start of a line, after a space, or after punctuation. \n"
                 "  2. if a digit follows a minus sign that is at the start of a line, after a space, or after "
                 "punctuation.\n"
-                "- the English letter indicator ⠰ that precedes Roman letters is ONLY needed in these two cases: \n"
-                "  1. at the start of a line, after punctuation, or after whitespace.\n"
-                "  2. if a letter follows a minus sign that is at the start of a line, after a space, or after "
-                "punctuation on the left and right of the letter, ignoring any intervening open or close characters.\n"
-                "- the English letter indicator ⠰ is never needed between two Roman letters.\n"
+                "- the English letter indicator ⠰ that precedes Roman letters is ONLY needed in these five cases:\n"
+                "  1. after a space;\n"
+                "  2. before a single lowercase English letter when it is isolated or followed only by punctuation, "
+                'potentially with intervening open or close characters;\n'
+                "  3. if the MathML consists of only an 'mi' or 'mtext' element, "
+                "and that element contains a single letter;\n"
+                "  4. if the letter is in bold, italic, or some other non-Roman style;\n"
+                "  5. if the lowercase letter is part of a Roman numeral.\n"
+                "- the English letter indicator ⠰ is NEVER needed between two Roman letters, "
+                "following a function name, before an operator, or after an operator.\n"
                 "- a letter with an integer subscript should NOT use a subscript indicator if the subscript is not "
-                "inside of a subscript or superscript."
+                "inside of a subscript or superscript.\n"
+                "- the braille should never start or end with a braille space."
             )
         else:  # UEB
             test_prolog += (
                 "Some things to remember about UEB Braille:\n"
-                " - grade 1 indicators ⠰, grade 1 word indicators ⠰⠰, and grade 1 passage indicators ⠰⠰⠰ are "
+                "- grade 1 symbol indicators ⠰, grade 1 word indicators ⠰⠰, and grade 1 passage indicators ⠰⠰⠰ are "
                 "often needed at the start of a line.\n"
-                " - in general, you want to minimize the use of grade 1 indicators (each ⠰ counts as an instance of "
-                "a grade 1 indicator). Choose word or passage indicators when they result in fewer grade 1 "
-                "indicators. If there are more than two braille spaces (⠀), use the grade 1 passage indicators.\n"
+                "- in general, you want to minimize the use of grade 1 symbol indicators. "
+                "Use them only when they result in shorter braille than using grade 1 word or passage indicators. "
+                "If there are more than two braille spaces (⠀), and a grade 1 indicator is needed "
+                "in the first three braille characters, use the grade 1 passage indicators.\n"
+                "- A grade 1 indicator only sets grade 1 mode for the next symbol and is not needed "
+                "before the letters 'a', 'i', and 'o'.\n"
+                "- A grade 1 word indicator only sets grade 1 mode until the next space.\n"
+                "- A number sign indicator ⠼ sets grade 1 word mode.\n"
                 "- A letter or unbroken sequence of letters is 'standing alone' if the symbols before and after the "
                 "letter or sequence are spaces, hyphens, dashes, or any combination thereof, including some common "
                 "punctuation. An opening bracketing character before a sequence or closing bracketing character after "
@@ -160,13 +171,15 @@ def build_instructions(
                 "a, i and o) is considered 'standing alone' if it is preceded by a space.\n"
                 "- A grade 1 indicator ⠰ is needed before a standing alone letter or sequence of letters.\n"
                 "- the number sign indicator ⠼ is ONLY needed before digits and starts numeric mode.\n"
-                "- All fraction, root, subscript, superscript, etc., indicators MUST use grade 1 mode.\n"
+                "- All fraction, root, subscript, superscript, etc., start, middle, and end indicators MUST "
+                "be in grade 1 mode; a grade 1 indicator is required before the fraction, etc., indicator if it is not "
+                " already in grade 1 mode.\n"
                 "- Numeric mode includes the digits and the fraction line (⠌) for simple numeric fractions. It also "
                 "includes ',', '.', and spaces when they appear inside of MathML mn elements.\n"
                 "- if the lowercase letters a-j follow a digit, you MUST use a grade 1 indicator ⠰ before the letter.\n"
                 "- numeric fraction do not use start or end fraction indicators, but all other fractions start with ⠷, "
                 "end with ⠾, and use ⠨⠌ as the fraction bar.\n"
-                "- all subscripts MUST start with the subscript indicator ⠢.\n"
+                "- all subscripts MUST start with the subscript indicator ⠢, and must be in grade 1 mode.\n"
             )
         symbols_text = (
             "Here is a reminder of the mapping of some Unicode characters to their "
@@ -698,16 +711,16 @@ def convert_input_with_model(
     if not api_key:
         raise ValueError(f"Please set the {config.apiKeyName} environment variable.")
 
-    if ai_provider == "gemini":
-        client = create_gemini_client(api_key)
-        generate_func = generate_with_retry_gemini
-        retry_exceptions = (google_exceptions.ServiceUnavailable, google_exceptions.ServerError)
-    elif ai_provider == "openai":
-        client = create_openai_client(api_key)
-        generate_func = generate_with_retry_openai
-        retry_exceptions = (APIError, RateLimitError, APIConnectionError)
-    else:
-        raise ValueError(f"Unknown AI provider: {ai_provider}. Must be 'gemini' or 'openai'")
+    # if ai_provider == "gemini":
+    #     client = create_gemini_client(api_key)
+    #     generate_func = generate_with_retry_gemini
+    #     retry_exceptions = (google_exceptions.ServiceUnavailable, google_exceptions.ServerError)
+    # elif ai_provider == "openai":
+    #     client = create_openai_client(api_key)
+    #     generate_func = generate_with_retry_openai
+    #     retry_exceptions = (APIError, RateLimitError, APIConnectionError)
+    # else:
+    #     raise ValueError(f"Unknown AI provider: {ai_provider}. Must be 'gemini' or 'openai'")
 
     # 1. Initialize accumulators
     all_results = ""
@@ -731,6 +744,18 @@ def convert_input_with_model(
         gemini_cache_id = ""
     # 2. Loop through the data in chunks
     for i in range(0, len(tests), config.batch_size):
+        # I thought we could do this once at the beginning, but it seems to be necessary to reestablish the connection when there are lots of batches
+        if ai_provider == "gemini":
+            client = create_gemini_client(api_key)
+            generate_func = generate_with_retry_gemini
+            retry_exceptions = (google_exceptions.ServiceUnavailable, google_exceptions.ServerError)
+        elif ai_provider == "openai":
+            client = create_openai_client(api_key)
+            generate_func = generate_with_retry_openai
+            retry_exceptions = (APIError, RateLimitError, APIConnectionError)
+        else:
+            raise ValueError(f"Unknown AI provider: {ai_provider}. Must be 'gemini' or 'openai'")
+
         batch = tests[i:i + config.batch_size]
         batch_id = (i // config.batch_size) + 1
         print(
