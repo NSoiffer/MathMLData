@@ -37,7 +37,7 @@
    tag: "!*"
    match: "contains(@intent, ':blank')"
    replace: 
-   - t: "⠬"
+   - t: "⠿"
 
 -
    name: default
@@ -263,10 +263,13 @@
 # rule 57 -- there is no way to get this rule completely right because some require knowing what the omitted symbol should to get spacing right (e.g., 57(3): "7×2?14") 
 #  Here we pick off cases that seem likely and doable
 #  Note: '?' is sometimes used with mover/munder and '=' or other chars, so we need to make sure the parent is mrow
+#  Also, "?" is sometimes used to end a sentence, so we exclude that case (last token in <math> and not preceded by an operator)
 - name: omissions
   tag: [mo, mtext]
   match:
-  - "((.='?' or .='-?-') and parent::*[1][self::m:mrow]) or .='\u00A0'"
+  - "(( (.='?' and name(EdgeNode(., 'right', 'math'))!='math') or 
+        .='-?-') and parent::*[1][self::m:mrow]) or
+     (.='\u00A0' and @data-width > 0)"
   variables:
   # guess whether this needs spacing or not
   - IsComparisonOp: "not(

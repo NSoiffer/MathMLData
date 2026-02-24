@@ -321,7 +321,24 @@
           then: [x: "concat('\uF8FE', DefinitionValue($Word, 'Speech', 'PluralForms'))"]
           else: [x: "concat('\uF8FE', $Word)", ct: "s"]
 
-    
+# need to reverse the order of speech: $ 3 -> 3 dollars
+- name: currency
+  tag: mrow
+  match: "count(*)=3 and DefinitionValue(*[1], 'Speech', 'CurrencySymbols') != ''"
+  variables:
+    # If the amount is singular, we don't add the plural ending.
+  - IsSingular: "*[3][self::m:mn and .=1] and *[2]='\u2062'"
+  replace:
+  - bookmark: "*[3]/@id"
+  - x: "*[3]"
+  - test:
+    - if: "$IsSingular"
+      then: [x: "DefinitionValue(*[1], 'Speech', 'CurrencySymbols')"]
+    - else_if: "DefinitionValue(*[1], 'Speech', 'PluralForms') != ''"
+      then: [x: "DefinitionValue(*[1], 'Speech', 'PluralForms')"]
+      else: [x: "DefinitionValue(*[1], 'Speech', 'CurrencySymbols')", ct: "s"]
+
+
 - name: sin
   tag: mi
   match: ".='sin'"

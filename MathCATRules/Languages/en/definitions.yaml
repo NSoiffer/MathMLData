@@ -260,6 +260,12 @@
     "mpg": "mile per gallon",
   }
 
+- CurrencySymbols: {
+    "$": "dollar", "¢": "cent", "€": "euro", "£": "pound", "₡": "colón", "₤": "lira", "₨": "rupee",
+    "₩": "won", "₪": "shekel", "₱": "peso", "₹": "rupee", "₺": "lira", "₿": "bitcoin",
+    # could add more currencies...
+  }
+
 - PluralForms: {
   # FIX: this needs to be flushed out
     "inch": "inches", "square inch": "square inches", "cubic inch": "cubic inches",
@@ -272,6 +278,7 @@
     "revolution per minute": "revolutions per minute",
     "mile per hour": "miles per hour",
     "mile per gallon": "miles per gallon",
+    "colón": "colones", "lira": "lire", "won": "won", "bitcoin": "bitcoin"
   }
 
 # Lines starting with "#" are a comment
