@@ -35,7 +35,7 @@ def setMathCATPreferences(braille_code, dir: str = "."):
         sys.exit(f"problem with finding the MathCAT rules: {e}")
 
     try:
-        # libmathcat.SetPreference("BrailleNavHighlight", "Off")
+        libmathcat.SetPreference("BrailleNavHighlight", "Off")
         libmathcat.SetPreference("BrailleCode", braille_code)
     except Exception as e:
         sys.exit(f"problem with setting a preference: {e}")
@@ -93,17 +93,19 @@ def ProcessFile(file_name: str, dest_dir: str, config: dict[str, str | bool]):
     try:
         with open(file_path, 'r', encoding='utf8') as in_stream, \
              open(out_path, 'w', encoding='utf8') as out_stream:
-            for line in in_stream.readlines():
+            for i, line in enumerate(in_stream.readlines()):
                 try:
                     setMathMLForMathCAT(line)
                     braille = getBraille()
+                    # technically, the braille spaces are probably correct to be there, but this normalizes things
+                    braille = braille.strip("⠀")
                     out_stream.write(braille)
                     out_stream.write("\n")
                 except Exception as e:
-                    print(f"Error in {file_path} -> {brailleCode}: see mml2brl.log for details")
+                    print(f"Error in {file_path} -> {brailleCode} on line {i+1}: see mml2brl.log for details")
                     out_stream.write("⠀\n")   # write something to the output file to keep the line count aligned
                     debug_logger.error(
-                        f"File: {file_path} -> {brailleCode}\nMathML:\n{line}\nError: {e}\n{'-'*60}"
+                        f"File: {file_path} -> {brailleCode} on line {i+1}\nMathML:\n{line}\nError: {e}\n{'-'*60}"
                     )
                     # Continue processing the rest of the file
                     continue
