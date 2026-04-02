@@ -34,65 +34,62 @@
 <math> <mrow> <mrow> <mn>250</mn> <mo>-</mo> <mn>95</mn> </mrow> <mo>=</mo> <mn>155</mn> </mrow> </math>
 <math> <mrow> <mrow> <mn>128</mn> <mo>+</mo> <mn>52</mn> <mo>+</mo> <mn>43</mn> </mrow> <mo>=</mo> <mn>223</mn> </mrow> </math>
 <math> <mrow> <mrow> <mn>180</mn> <mo>+</mo> <mn>95</mn> <mo>-</mo> <mn>52</mn> </mrow> <mo>=</mo> <mn>223</mn> </mrow> </math>
-<math> <mtable> <mtr> <mtd> <mrow> <mtext>P(summer birthday)</mtext> <mo>=</mo> <mrow> <mn>60</mn> <mo>%</mo> </mrow> </mrow> </mtd> </mtr> </mtable> </math>
-<math> <mrow> <mtext>P(A)</mtext> <mo>=</mo> <mrow> <mn>40</mn> <mo>/</mo> <mn>75</mn> </mrow> </mrow> </math>
-<math> <mrow> <mtext>P(A given B)</mtext> <mo>=</mo> <mrow> <mn>30</mn> <mo>/</mo> <mn>80</mn> </mrow> </mrow> </math>
-<math> <mn>70</mn> </math>
-<math> <mn>5</mn> </math>
-<math> <mn>14</mn> </math>
-<math> <mn>7</mn> </math>
-<math> <mn>8</mn> </math>
-<math> <mn>42</mn> </math>
-<math> <mn>102</mn> </math>
-<math> <mn>19</mn> </math>
-<math> <mn>17</mn> </math>
-<math> <mn>9</mn> </math>
-<math> <mi>d</mi> </math>
-<math> <mi>r</mi> </math>
-<math> <mrow> <mrow> <mi>$</mi> <mo>⁢</mo> <mn>15,000</mn> </mrow> <mo>–</mo> <mrow> <mrow> <mi>$</mi> <mo>⁢</mo> <mn>3,000</mn> </mrow> <mo>=</mo> <mrow> <mi>$</mi> <mo>⁢</mo> <mn>12,000</mn> </mrow> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mi>r</mi> <mo>=</mo> <mn>.0275</mn> </mrow> <mo>,</mo> </mrow> </math>
-<math> <mrow> <mrow> <mi>P</mi> <mo>=</mo> <mn>12000</mn> </mrow> <mo>,</mo> </mrow> </math>
+<math> <mrow> <mtext>P(A and B)</mtext> <mo>=</mo> <mrow> <mn>10</mn> <mo>/</mo> <mn>75</mn> </mrow> </mrow> </math>
+<math> <mrow> <mtext>P(not B)</mtext> <mo>=</mo> <mrow> <mn>45</mn> <mo>/</mo> <mn>75</mn> </mrow> </mrow> </math>
+<math> <mrow> <mtext>P(Not A and Not B)</mtext> <mo>=</mo> <mrow> <mn>10</mn> <mo>/</mo> <mn>120</mn> </mrow> </mrow> </math>
+<math> <mn>30</mn> </math>
+<math> <mn>6</mn> </math>
+<math> <mn>20</mn> </math>
+<math> <mn>25</mn> </math>
+<math> <mn>16</mn> </math>
+<math> <mn>53</mn> </math>
+<math> <mn>45</mn> </math>
+<math> <mn>18</mn> </math>
+<math> <mn>11</mn> </math>
+<math> <mn>2</mn> </math>
+<math> <mrow> <mi>P</mi> <mo>=</mo> <mrow> <mfrac> <mrow> <mi>d</mi> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>-</mo> <msup> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <mfrac> <mi>r</mi> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mrow> <mrow> <mo>-</mo> <mi>n</mi> </mrow> <mo>⁢</mo> <mi>t</mi> </mrow> </msup> </mrow> <mo>)</mo> </mrow> </mrow> <mrow> <mo>(</mo> <mfrac> <mi>r</mi> <mi>n</mi> </mfrac> <mo>)</mo> </mrow> </mfrac> <mo>⁢</mo> <mtext> or </mtext> <mo>⁢</mo> <mi>d</mi> </mrow> <mo>=</mo> <mfrac> <mrow> <mi>P</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mfrac> <mi>r</mi> <mi>n</mi> </mfrac> <mo>)</mo> </mrow> </mrow> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>-</mo> <msup> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <mfrac> <mi>r</mi> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mrow> <mrow> <mo>-</mo> <mi>n</mi> </mrow> <mo>⁢</mo> <mi>t</mi> </mrow> </msup> </mrow> <mo>)</mo> </mrow> </mfrac> </mrow> </math>
+<math> <mi>n</mi> </math>
+<math> <mrow> <mi>d</mi> <mo>:</mo> </mrow> </math>
+<math> <mrow> <mrow> <mi>t</mi> <mo>=</mo> <mn>3</mn> </mrow> <mo>,</mo> </mrow> </math>
 <math> <mrow> <mrow> <mi>r</mi> <mo>=</mo> <mn>.04</mn> </mrow> <mo>,</mo> </mrow> </math>
-<math> <mtable> <mtr> <mtd> <mi>d</mi> </mtd> <mtd> <mrow> <mi>&lt;mi/&gt;</mi> <mo>=</mo> <mfrac> <mrow> <mi>P</mi> <mrow> <mo>(</mo> <mfrac> <mi>r</mi> <mi>n</mi> </mfrac> <mo>)</mo> </mrow> </mrow> <mrow> <mo>(</mo> <mn>1</mn> <mo>-</mo> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <mfrac> <mi>r</mi> <mi>n</mi> </mfrac> <mo>)</mo> </mrow> <mrow> <mo>-</mo> <mi>n</mi> <mi>t</mi> </mrow> </msup> <mo>)</mo> </mrow> </mfrac> </mrow> </mtd> </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mi>&lt;mi/&gt;</mi> <mo>=</mo> <mfrac> <mrow> <mn>12000</mn> <mrow> <mo>(</mo> <mfrac> <mn>0.04</mn> <mn>12</mn> </mfrac> <mo>)</mo> </mrow> </mrow> <mrow> <mo>(</mo> <mn>1</mn> <mo>-</mo> <msup> <mrow> <mo>(</mo> <mn>1</mn> <mo>+</mo> <mfrac> <mn>0.04</mn> <mn>12</mn> </mfrac> <mo>)</mo> </mrow> <mrow> <mo>-</mo> <mn>12</mn> <mo>⋅</mo> <mn>3</mn> </mrow> </msup> <mo>)</mo> </mrow> </mfrac> </mrow> </mtd> </mtr> <mtr> <mtd> <mtext> </mtext> </mtd> <mtd> <mrow> <mi>&lt;mi/&gt;</mi> <mo>≈</mo> <mi>$</mi> <mn>221.00</mn> </mrow> </mtd> </mtr> </mtable> </math>
-<math> <mrow> <mrow> <mrow> <mrow> <mi>$</mi> <mo>⁢</mo> <mn>221.00</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mn>12</mn> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mn>5</mn> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>$</mi> <mo>⁢</mo> <mn>13</mn> </mrow> </mrow> <mo>,</mo> <mn>260.00</mn> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mi>A</mi> <mo>=</mo> <mrow> <mi>P</mi> <mo>⁢</mo> <msup> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <mfrac> <mi>r</mi> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mrow> <mi>n</mi> <mo>⁢</mo> <mi>t</mi> </mrow> </msup> <mo>⁢</mo> <mtext> or </mtext> <mo>⁢</mo> <mi>P</mi> </mrow> <mo>=</mo> <mfrac> <mi>A</mi> <msup> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <mfrac> <mi>r</mi> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mrow> <mi>n</mi> <mo>⁢</mo> <mi>t</mi> </mrow> </msup> </mfrac> </mrow> </math>
-<math> <mrow> <mi>P</mi> <mo>=</mo> <mrow> <mfrac> <mrow> <mi>d</mi> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>-</mo> <msup> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <mfrac> <mi>r</mi> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mrow> <mrow> <mo>-</mo> <mi>n</mi> </mrow> <mo>⁢</mo> <mi>t</mi> </mrow> </msup> </mrow> <mo>)</mo> </mrow> </mrow> <mfrac> <mi>r</mi> <mi>n</mi> </mfrac> </mfrac> <mo>⁢</mo> <mtext> or </mtext> <mo>⁢</mo> <mi>d</mi> </mrow> <mo>=</mo> <mfrac> <mrow> <mi>P</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mfrac> <mi>r</mi> <mi>n</mi> </mfrac> <mo>)</mo> </mrow> </mrow> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>-</mo> <msup> <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <mfrac> <mi>r</mi> <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mrow> <mrow> <mo>-</mo> <mi>n</mi> </mrow> <mo>⁢</mo> <mi>t</mi> </mrow> </msup> </mrow> <mo>)</mo> </mrow> </mfrac> </mrow> </math>
-<math> <mfrac> <mn>1</mn> <mn>3</mn> </mfrac> </math>
-<math> <mrow> <mrow> <mn>6</mn> <mo>⋅</mo> <mfrac> <mn>1</mn> <mn>3</mn> </mfrac> </mrow> <mo>=</mo> <mrow> <mfrac> <mn>6</mn> <mn>1</mn> </mfrac> <mo>⋅</mo> <mfrac> <mn>1</mn> <mn>3</mn> </mfrac> </mrow> <mo>=</mo> <mfrac> <mn>6</mn> <mn>3</mn> </mfrac> <mo>=</mo> <mn>2</mn> </mrow> </math>
-<math> <mrow> <mn>55</mn> <mo>%</mo> </mrow> </math>
-<math> <mrow> <mrow> <mn>4</mn> <mo>-</mo> <mn>4</mn> </mrow> <mo>=</mo> <mn>0</mn> </mrow> </math>
-<math> <mfrac> <mrow> <mtext>Party A Surplus Votes </mtext> <mo>-</mo> <mtext> Party B Surplus Votes</mtext> </mrow> <mtext>Total Votes</mtext> </mfrac> </math>
-<math> <mrow> <mn>100</mn> <mo>%</mo> <mrow> <mo>÷</mo> <mn>5</mn> </mrow> </mrow> </math>
-<math> <mrow> <mfrac> <mn>1</mn> <mn>5</mn> </mfrac> <mo>=</mo> <mn>0.20</mn> </mrow> </math>
-<math> <mrow> <mrow> <mn>7</mn> <mo>-</mo> <mn>4</mn> </mrow> <mo>=</mo> <mn>3</mn> </mrow> </math>
-<math> <mrow> <mrow> <mn>37.1</mn> <mo>%</mo> <mrow> <mo>÷</mo> <mn>20</mn> </mrow> <mo>%</mo> </mrow> <mo>=</mo> <mn>1.855</mn> </mrow> </math>
-<math> <mrow> <mrow> <mn>8.57</mn> <mo>%</mo> <mrow> <mo>÷</mo> <mn>20</mn> </mrow> <mo>%</mo> </mrow> <mo>=</mo> <mn>0.4285</mn> </mrow> </math>
-<math> <mrow> <mi>A</mi> <mo>∧</mo> <mi>B</mi> </mrow> </math>
-<math> <mrow> <mi>A</mi> <mo>∨</mo> <mi>B</mi> </mrow> </math>
-<math> <mrow> <mtext>If </mtext> <mo>⁢</mo> <mi>A</mi> <mo>⁢</mo> <mtext>, then </mtext> <mo>⁢</mo> <mi>B</mi> </mrow> </math>
-<math> <mrow> <mrow> <mn>1</mn> <mo>+</mo> <mn>3</mn> <mo>+</mo> <mn>3</mn> <mo>+</mo> <mn>3</mn> </mrow> <mo>=</mo> <mn>10</mn> </mrow> </math>
-<math> <mn>3</mn> </math>
-<math> <mrow> <mrow> <mrow> <mn>13</mn> <mo>÷</mo> <mn>2</mn> </mrow> <mo>=</mo> <mn>6.5</mn> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mrow> <mn>5</mn> <mo>+</mo> <mn>1</mn> </mrow> <mo>=</mo> <mn>6</mn> </mrow> </math>
-<math> <mrow> <mrow> <mn>7</mn> <mo>+</mo> <mn>1</mn> </mrow> <mo>=</mo> <mn>8</mn> </mrow> </math>
-<math> <mrow> <mrow> <mn>10</mn> <mo>+</mo> <mn>1</mn> </mrow> <mo>=</mo> <mn>11</mn> </mrow> </math>
-<math> <mrow> <mrow> <mrow> <mn>1</mn> <mo>⋅</mo> <mn>14</mn> </mrow> <mo>+</mo> <mrow> <mn>2</mn> <mo>⋅</mo> <mn>35</mn> </mrow> <mo>+</mo> <mrow> <mn>3</mn> <mo>⋅</mo> <mn>0</mn> </mrow> <mo>+</mo> <mrow> <mn>4</mn> <mo>⋅</mo> <mn>31</mn> </mrow> </mrow> <mo>=</mo> <mn>208</mn> </mrow> </math>
-<math> <mrow> <mrow> <mrow> <mn>1</mn> <mo>⋅</mo> <mn>31</mn> </mrow> <mo>+</mo> <mrow> <mn>2</mn> <mo>⋅</mo> <mn>0</mn> </mrow> <mo>+</mo> <mrow> <mn>3</mn> <mo>⋅</mo> <mn>35</mn> </mrow> <mo>+</mo> <mrow> <mn>4</mn> <mo>⋅</mo> <mn>14</mn> </mrow> </mrow> <mo>=</mo> <mn>192</mn> </mrow> </math>
-<math> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </math>
-<math> <mrow> <mrow> <mrow> <mo>±</mo> <mn>4</mn> </mrow> <mo>%</mo> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mi>σ</mi> <mo>.</mo> </mrow> </math>
-<math> <mtable> <mtr> <mtd> <mrow> <mrow> <mtext>Mean</mtext> <mo>-</mo> <mrow> <mn>1</mn> <mo>⁢</mo> <mtext> standard deviation</mtext> </mrow> </mrow> <mo>=</mo> <mrow> <mn>18</mn> <mo>-</mo> <mn>4</mn> </mrow> <mo>=</mo> <mn>14</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <mrow> <mtext>Mean</mtext> <mo>-</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mtext> standard deviations</mtext> </mrow> </mrow> <mo>=</mo> <mrow> <mn>18</mn> <mo>-</mo> <mrow> <mn>2</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mn>4</mn> <mo>)</mo> </mrow> </mrow> </mrow> <mo>=</mo> <mn>10</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mrow> <mrow> <mtext>Mean</mtext> <mo>-</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mtext> standard deviations</mtext> </mrow> </mrow> <mo>=</mo> <mrow> <mn>18</mn> <mo>-</mo> <mrow> <mn>3</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mn>4</mn> <mo>)</mo> </mrow> </mrow> </mrow> <mo>=</mo> <mn>6</mn> </mrow> </mtd> </mtr> </mtable> </math>
-<math> <mrow> <mrow> <mn>95</mn> <mo>%</mo> <mrow> <mo>-</mo> <mn>68</mn> </mrow> <mo>%</mo> </mrow> <mo>=</mo> <mrow> <mn>27</mn> <mo>%</mo> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mn>99.7</mn> <mo>%</mo> <mrow> <mo>-</mo> <mn>95</mn> </mrow> <mo>%</mo> </mrow> <mo>=</mo> <mrow> <mn>4.7</mn> <mo>%</mo> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mn>100</mn> <mo>%</mo> <mrow> <mo>-</mo> <mn>99.7</mn> </mrow> <mo>%</mo> </mrow> <mo>=</mo> <mrow> <mn>0.3</mn> <mo>%</mo> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mn>13.5</mn> <mo>%</mo> <mrow> <mo>+</mo> <mn>2.35</mn> </mrow> <mo>%</mo> </mrow> <mo>=</mo> <mrow> <mrow> <mn>15.85</mn> <mo>%</mo> </mrow> <mo>.</mo> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mn>0.15</mn> <mo>%</mo> <mrow> <mo>+</mo> <mn>2.35</mn> </mrow> <mo>%</mo> <mrow> <mo>+</mo> <mn>13.5</mn> </mrow> <mo>%</mo> <mrow> <mo>+</mo> <mn>13.5</mn> </mrow> <mo>%</mo> <mrow> <mo>+</mo> <mn>2.35</mn> </mrow> <mo>%</mo> <mrow> <mo>+</mo> <mn>0.15</mn> </mrow> <mo>%</mo> </mrow> <mo>=</mo> <mrow> <mrow> <mn>32</mn> <mo>%</mo> </mrow> <mo>.</mo> </mrow> </mrow> </math>
-<math> <mrow> <mrow> <mi>P</mi> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>X</mi> <mo>≤</mo> <mtext>value</mtext> </mrow> <mo>)</mo> </mrow> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mrow> <mn>6.68</mn> <mo>%</mo> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mrow> <mn>1.22</mn> <mo>%</mo> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mrow> <mn>18.66</mn> <mo>%</mo> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mrow> <mn>14.57</mn> <mo>%</mo> </mrow> <mo>.</mo> </mrow> </math>
-<math> <mrow> <mrow> <mi>Z</mi> <mo>=</mo> <mfrac> <mrow> <mn>27</mn> <mo>-</mo> <mn>18</mn> </mrow> <mn>4</mn> </mfrac> <mo>=</mo> <mfrac> <mn>9</mn> <mn>4</mn> </mfrac> <mo>=</mo> <mrow> <mn>2.25</mn> <mo>⁢</mo> <mtext> standard deviations</mtext> </mrow> </mrow> <mo>.</mo> </mrow> </math>
+<math> <mrow> <mrow> <mrow> <mrow> <mi>$</mi> <mo>⁢</mo> <mn>347.65</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mn>12</mn> <mo>)</mo> </mrow> <mo>⁢</mo> <mrow> <mo>(</mo> <mn>3</mn> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mi>$</mi> <mo>⁢</mo> <mn>12</mn> </mrow> </mrow> <mo>,</mo> <mn>515.40</mn> </mrow> <mo>.</mo> </mrow> </math>
+<math> <mrow> <mi>I</mi> <mo>=</mo> <mrow> <mi>P</mi> <mo>⁢</mo> <mi>r</mi> <mo>⁢</mo> <mi>t</mi> <mo>⁢</mo> <mtext> or </mtext> <mo>⁢</mo> <mi>A</mi> </mrow> <mo>=</mo> <mrow> <mi>P</mi> <mo>+</mo> <mrow> <mi>P</mi> <mo>⁢</mo> <mi>r</mi> <mo>⁢</mo> <mi>t</mi> </mrow> </mrow> </mrow> </math>
+<math> <mrow> <mi>A</mi> <mo>=</mo> <mrow> <mi>P</mi> <mo>⁢</mo> <msup> <mi>e</mi> <mrow> <mi>r</mi> <mo>⁢</mo> <mi>t</mi> </mrow> </msup> <mo>⁢</mo> <mtext> or </mtext> <mo>⁢</mo> <mi>P</mi> </mrow> <mo>=</mo> <mfrac> <mi>A</mi> <msup> <mi>e</mi> <mrow> <mi>r</mi> <mo>⁢</mo> <mi>t</mi> </mrow> </msup> </mfrac> </mrow> </math>
+<math> <mi>e</mi> </math>
+<math> <mfrac> <mn>2</mn> <mn>3</mn> </mfrac> </math>
+<math> <mrow> <mrow> <mn>6</mn> <mo>⋅</mo> <mfrac> <mn>2</mn> <mn>3</mn> </mfrac> </mrow> <mo>=</mo> <mrow> <mfrac> <mn>6</mn> <mn>1</mn> </mfrac> <mo>⋅</mo> <mfrac> <mn>2</mn> <mn>3</mn> </mfrac> </mrow> <mo>=</mo> <mfrac> <mn>12</mn> <mn>3</mn> </mfrac> <mo>=</mo> <mn>4</mn> </mrow> </math>
+<math> <mrow> <mn>45</mn> <mo>%</mo> </mrow> </math>
+<math> <mrow> <mrow> <mn>5</mn> <mo>-</mo> <mn>4</mn> </mrow> <mo>=</mo> <mn>1</mn> </mrow> </math>
+<math> <mrow> <mfrac> <mrow> <mn>13</mn> <mo>-</mo> <mn>2</mn> </mrow> <mn>35</mn> </mfrac> <mo>=</mo> <mrow> <mfrac> <mn>11</mn> <mn>35</mn> </mfrac> <mo>≈</mo> <mn>0.314</mn> </mrow> </mrow> </math>
+<math> <mrow> <mrow> <mo>=</mo> <mrow> <mn>20</mn> <mo>%</mo> </mrow> </mrow> <mo>,</mo> </mrow> </math>
+<math> <mrow> <mn>20</mn> <mo>%</mo> </mrow> </math>
+<math> <mrow> <mfrac> <mrow> <mtext>Party A Surplus Votes </mtext> <mo>-</mo> <mtext> Party B Surplus Votes</mtext> </mrow> <mtext>Total Votes</mtext> </mfrac> <mo>=</mo> <mfrac> <mrow> <mn>14</mn> <mo>-</mo> <mn>1</mn> </mrow> <mn>35</mn> </mfrac> <mo>=</mo> <mrow> <mfrac> <mn>13</mn> <mn>35</mn> </mfrac> <mo>≈</mo> <mn>0.371</mn> </mrow> </mrow> </math>
+<math> <mrow> <mfrac> <mrow> <mtext>Party A Surplus Votes </mtext> <mo>-</mo> <mtext> Party B Surplus Votes</mtext> </mrow> <mtext>Total Votes</mtext> </mfrac> <mo>=</mo> <mfrac> <mrow> <mn>9</mn> <mo>-</mo> <mn>6</mn> </mrow> <mn>35</mn> </mfrac> <mo>=</mo> <mrow> <mfrac> <mn>3</mn> <mn>35</mn> </mfrac> <mo>≈</mo> <mn>0.0857</mn> </mrow> </mrow> </math>
+<math> <mrow> <mi>A</mi> <mo>⁢</mo> <mtext> and </mtext> <mo>⁢</mo> <mi>B</mi> </mrow> </math>
+<math> <mrow> <mi>A</mi> <mo>⁢</mo> <mtext> or </mtext> <mo>⁢</mo> <mi>B</mi> </mrow> </math>
+<math> <mrow> <mtext>not </mtext> <mo>⁢</mo> <mi>A</mi> </mrow> </math>
+<math> <mrow> <mi>A</mi> <mo>→</mo> <mi>B</mi> </mrow> </math>
+<math> <mrow> <mrow> <mn>1</mn> <mo>+</mo> <mn>3</mn> </mrow> <mo>=</mo> <mn>4</mn> </mrow> </math>
+<math> <mrow> <mrow> <mrow> <mn>10</mn> <mo>÷</mo> <mn>2</mn> </mrow> <mo>=</mo> <mn>5</mn> </mrow> <mo>.</mo> </mrow> </math>
+<math> <mrow> <mrow> <mn>3</mn> <mo>+</mo> <mn>5</mn> </mrow> <mo>=</mo> <mn>8</mn> </mrow> </math>
+<math> <mn>1</mn> </math>
+<math> <mrow> <mrow> <mn>8</mn> <mo>+</mo> <mn>2</mn> </mrow> <mo>=</mo> <mn>10</mn> </mrow> </math>
+<math> <mrow> <mrow> <mn>8</mn> <mo>+</mo> <mn>5</mn> </mrow> <mo>=</mo> <mn>13</mn> </mrow> </math>
+<math> <mrow> <mrow> <mrow> <mn>1</mn> <mo>⋅</mo> <mn>10</mn> </mrow> <mo>+</mo> <mrow> <mn>2</mn> <mo>⋅</mo> <mn>31</mn> </mrow> <mo>+</mo> <mrow> <mn>3</mn> <mo>⋅</mo> <mn>14</mn> </mrow> <mo>+</mo> <mrow> <mn>4</mn> <mo>⋅</mo> <mn>25</mn> </mrow> </mrow> <mo>=</mo> <mn>214</mn> </mrow> </math>
+<math> <mrow> <mrow> <mrow> <mn>1</mn> <mo>⋅</mo> <mn>25</mn> </mrow> <mo>+</mo> <mrow> <mn>2</mn> <mo>⋅</mo> <mn>14</mn> </mrow> <mo>+</mo> <mrow> <mn>3</mn> <mo>⋅</mo> <mn>31</mn> </mrow> <mo>+</mo> <mrow> <mn>4</mn> <mo>⋅</mo> <mn>10</mn> </mrow> </mrow> <mo>=</mo> <mn>186</mn> </mrow> </math>
+<math> <mrow> <mrow> <mn>1</mn> <mo>+</mo> <mn>3</mn> <mo>+</mo> <mn>3</mn> </mrow> <mo>=</mo> <mn>7</mn> </mrow> </math>
+<math> <mrow> <mi>μ</mi> <mo>.</mo> </mrow> </math>
+<math> <mrow> <mrow> <mn>68</mn> <mo>%</mo> <mrow> <mo>÷</mo> <mn>2</mn> </mrow> </mrow> <mo>=</mo> <mrow> <mn>34</mn> <mo>%</mo> </mrow> </mrow> </math>
+<math> <mrow> <mrow> <mn>27</mn> <mo>%</mo> <mrow> <mo>÷</mo> <mn>2</mn> </mrow> </mrow> <mo>=</mo> <mrow> <mn>13.5</mn> <mo>%</mo> </mrow> </mrow> </math>
+<math> <mrow> <mrow> <mn>4.7</mn> <mo>%</mo> <mrow> <mo>÷</mo> <mn>2</mn> </mrow> </mrow> <mo>=</mo> <mrow> <mn>2.35</mn> <mo>%</mo> </mrow> </mrow> </math>
+<math> <mrow> <mrow> <mn>0.3</mn> <mo>%</mo> <mrow> <mo>÷</mo> <mn>2</mn> </mrow> </mrow> <mo>=</mo> <mrow> <mn>0.15</mn> <mo>%</mo> </mrow> </mrow> </math>
+<math> <mrow> <mrow> <mn>34</mn> <mo>%</mo> <mrow> <mo>+</mo> <mn>34</mn> </mrow> <mo>%</mo> <mrow> <mo>+</mo> <mn>13.5</mn> </mrow> <mo>%</mo> <mrow> <mo>+</mo> <mn>2.35</mn> </mrow> <mo>%</mo> <mrow> <mo>+</mo> <mn>0.15</mn> </mrow> <mo>%</mo> </mrow> <mo>=</mo> <mrow> <mrow> <mn>84</mn> <mo>%</mo> </mrow> <mo>.</mo> </mrow> </mrow> </math>
+<math> <mrow> <mrow> <mn>100</mn> <mo>%</mo> <mrow> <mo>-</mo> <mn>68</mn> </mrow> <mo>%</mo> </mrow> <mo>=</mo> <mrow> <mrow> <mn>32</mn> <mo>%</mo> </mrow> <mo>.</mo> </mrow> </mrow> </math>
+<math> <mn>0.0668</mn> </math>
+<math> <mn>0.0122</mn> </math>
+<math> <mn>0.1866</mn> </math>
+<math> <mn>0.1457</mn> </math>
+<math> <mrow> <mi>Z</mi> <mo>=</mo> <mfrac> <mrow> <mtext>data value </mtext> <mo>-</mo> <mtext> mean</mtext> </mrow> <mtext>standard deviation</mtext> </mfrac> </mrow> </math>
 <math> <mrow> <mrow> <mn>54.5</mn> <mo>-</mo> <mrow> <mn>1.96</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mn>1.75</mn> <mo>)</mo> </mrow> </mrow> </mrow> <mo>=</mo> <mrow> <mn>51.07</mn> <mo>⁢</mo> <mtext> inches</mtext> </mrow> </mrow> </math>
 <math> <mrow> <mn>1.96</mn> <mo>×</mo> <mtext>SE</mtext> </mrow> </math>
 <math> <mi>X</mi> </math>
@@ -117,4 +114,7 @@
 <math> <mrow> <mi>I</mi> <mo>=</mo> <mrow> <mi>P</mi> <mo>⁢</mo> <mi>r</mi> <mo>⁢</mo> <mi>t</mi> </mrow> </mrow> </math>
 <math> <mrow> <mfrac> <mn>0.06</mn> <mn>12</mn> </mfrac> <mo>=</mo> <mn>0.005</mn> </mrow> </math>
 <math> <mrow> <mfrac> <mn>0.03</mn> <mn>12</mn> </mfrac> <mo>=</mo> <mn>0.0025</mn> </mrow> </math>
-<math> <mtable> <mtr> <mtd> <mi>P</mi> </mtd> <mtd> <mrow> <mi>&lt;mi/&gt;</mi> <mo>=</mo> <mi>$</mi> <mn>1002.50</mn> </mrow> </mtd> </mtr> <mtr> <mtd> <mi>I</mi> </mtd> <mtd> <mrow> <mi>&lt;mi/&gt;</mi> <mo>=</mo> <mi>$</mi> <mn>1002.50</mn> <mo>(</mo> <mn>0.0025</mn> <mo>)</mo> <mo>=</mo> <mi>$</mi> <mn>2.51</mn> <mtext> (rounded)</mtext> </mrow> </mtd> </mtr> <mtr> <mtd> <mi>A</mi> </mtd> <mtd> <mrow> <mi>&lt;mi/&gt;</mi> <mo>=</mo> <mi>$</mi> <mn>1002.50</mn> <mo>+</mo> <mi>$</mi> <mn>2.51</mn> <mo>=</mo> <mi>$</mi> <mn>1005.01</mn> </mrow> </mtd> </mtr> </mtable> </math>
+<math> <mrow> <mrow> <msup> <mn>1</mn> <mtext>st</mtext> </msup> <mo>⁢</mo> <mtext> Month </mtext> <mo>⁢</mo> <mi>A</mi> </mrow> <mo>=</mo> <mrow> <mn>1.0025</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>$</mi> <mo>⁢</mo> <mn>1000</mn> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </math>
+<math> <mrow> <mrow> <msup> <mn>3</mn> <mtext>rd</mtext> </msup> <mo>⁢</mo> <mtext> Month </mtext> <mo>⁢</mo> <mi>A</mi> </mrow> <mo>=</mo> <mrow> <mn>1.0025</mn> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <msup> <mn>1.0025</mn> <mn>2</mn> </msup> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>$</mi> <mo>⁢</mo> <mn>1000</mn> </mrow> <mo>)</mo> </mrow> </mrow> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <msup> <mn>1.0025</mn> <mn>3</mn> </msup> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>$</mi> <mo>⁢</mo> <mn>1000</mn> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </math>
+<math> <mrow> <mrow> <msup> <mi>n</mi> <mtext>th</mtext> </msup> <mo>⁢</mo> <mtext> Month </mtext> <mo>⁢</mo> <mi>A</mi> </mrow> <mo>=</mo> <mrow> <msup> <mn>1.0025</mn> <mi>n</mi> </msup> <mo>⁢</mo> <mrow> <mo>(</mo> <mrow> <mi>$</mi> <mo>⁢</mo> <mn>1000</mn> </mrow> <mo>)</mo> </mrow> </mrow> </mrow> </math>
+<math> <mrow> <mrow> <mi>n</mi> <mo>=</mo> <mn>52</mn> </mrow> <mo>.</mo> </mrow> </math>

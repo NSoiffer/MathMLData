@@ -1,16 +1,12 @@
 <math><mrow><mn>5</mn><mo>,</mo><mn>9</mn><mo>,</mo><mn>13</mn><mo>,</mo><mn>17</mn><mo>,</mo><mn>21</mn><mo>,</mo><mn>25</mn><mtext>,</mtext><mspace width="0.2em"></mspace><mtext>…</mtext></mrow></math>
-<math><mtable><mtr><mtd columnalign="left"><mtable><mtr/><mtr/><mtr/><mtr/><mtr><mtd columnalign="left"><mtext>Find the difference of</mtext></mtd></mtr><mtr><mtd columnalign="left"><mtext>the consecutive terms.</mtext></mtd></mtr></mtable></mtd><mtd/><mtd/><mtd/><mtd/><mtd columnalign="center"><mtable><mtr><mtd columnalign="center"><mrow><mn>5</mn><mo>,</mo></mrow></mtd><mtd/><mtd columnalign="center"><mrow><mspace width="1em"></mspace><mn>9</mn><mo>,</mo></mrow></mtd><mtd/><mtd columnalign="center"><mrow><mspace width="1em"></mspace><mn>13</mn><mo>,</mo></mrow></mtd><mtd/><mtd columnalign="center"><mrow><mspace width="1em"></mspace><mn>17</mn></mrow></mtd><mtd/><mtd columnalign="center"><mrow><mspace width="1em"></mspace><mn>21</mn><mo>,</mo></mrow></mtd><mtd columnalign="center"><mrow><mspace width="0.6em"></mspace><mn>25</mn><mo>,</mo><mo>…</mo></mrow></mtd></mtr><mtr/><mtr/><mtr><mtd columnalign="center"><mrow><mn>9</mn><mo>−</mo><mn>5</mn></mrow></mtd><mtd/><mtd columnalign="center"><mrow><mspace width="1em"></mspace><mn>13</mn><mo>−</mo><mn>9</mn></mrow></mtd><mtd/><mtd columnalign="center"><mrow><mspace width="1em"></mspace><mn>17</mn><mo>−</mo><mn>13</mn></mrow></mtd><mtd/><mtd columnalign="center"><mrow><mspace width="1em"></mspace><mn>21</mn><mo>−</mo><mn>17</mn></mrow></mtd><mtd/><mtd columnalign="center"><mrow><mspace width="1em"></mspace><mn>25</mn><mo>−</mo><mn>21</mn></mrow></mtd><mtd/><mtd/></mtr><mtr><mtd columnalign="center"><mn>4</mn></mtd><mtd/><mtd columnalign="center"><mrow><mspace width="1em"></mspace><mn>4</mn></mrow></mtd><mtd/><mtd columnalign="center"><mrow><mspace width="1em"></mspace><mn>4</mn></mrow></mtd><mtd/><mtd columnalign="center"><mrow><mspace width="1em"></mspace><mn>4</mn></mrow></mtd><mtd/><mtd columnalign="center"><mrow><mspace width="1em"></mspace><mn>4</mn></mrow></mtd><mtd/><mtd/></mtr></mtable></mtd></mtr><mtr/><mtr/><mtr><mtd/><mtd/><mtd/><mtd/><mtd/><mtd columnalign="left"><mrow><mtext>The sequence is arithmetic. The common difference is</mtext><mspace width="0.2em"></mspace><mi>d</mi><mo>=</mo><mn>4</mn><mtext>.</mtext></mrow></mtd></mtr></mtable></math>
 <math><mrow><mi>d</mi><mo>=</mo><mn>−6</mn><mo>.</mo></mrow></math>
-<math><mrow><mn>5</mn><mo>,</mo><mn>−1</mn><mo>,</mo><mn>−7</mn><mo>,</mo><mn>−13</mn><mo>,</mo><mn>−19</mn><mtext>,</mtext><mspace width="0.2em"></mspace><mtext>…</mtext></mrow></math>
-<math><mtable><mtr><mtd columnalign="center"><msub><mi>a</mi><mn>1</mn></msub></mtd><mtd/><mtd/><mtd columnalign="center"><msub><mi>a</mi><mn>2</mn></msub></mtd><mtd/><mtd/><mtd columnalign="center"><msub><mi>a</mi><mn>3</mn></msub></mtd><mtd/><mtd/><mtd columnalign="center"><msub><mi>a</mi><mn>4</mn></msub></mtd><mtd/><mtd/><mtd columnalign="center"><msub><mi>a</mi><mn>5</mn></msub></mtd><mtd/><mtd/></mtr><mtr><mtd><mn>-4</mn></mtd></mtr></mtable></math>
+<math><mrow><mi>d</mi><mo>=</mo><mn>7</mn><mo>.</mo></mrow></math>
 <math><mi>d</mi></math>
 <math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>3</mn></mrow></math>
 <math><mrow><mi>n</mi><mo>=</mo><mn>21</mn></mrow></math>
-<math><mtable><mtr><mtd><mrow><msub><mi>a</mi><mn>21</mn></msub><mo>=</mo><mn>3</mn><mo>+</mo><mo>(</mo><mn>20</mn><mo>)</mo><mo>(</mo><mn>8</mn><mo>)</mo></mrow></mtd></mtr><mtr><mtd><mrow><msub><mi>a</mi><mn>21</mn></msub><mo>=</mo><mn>3</mn><mo>+</mo><mn>160</mn></mrow></mtd></mtr><mtr><mtd><mrow><msub><mi>a</mi><mn>21</mn></msub><mo>=</mo><mn>163</mn></mrow></mtd></mtr></mtable></math>
-<math><mrow><mi>d</mi><mo>=</mo><mn>5</mn></mrow></math>
-<math><mtable><mtr><mtd><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mo>(</mo><mi>n</mi><mo>-</mo><mn>1</mn><mo>)</mo><mi>d</mi></mrow></mtd></mtr><mtr><mtd><mrow><msub><mi>a</mi><mn>3</mn></msub><mo>=</mo><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mo>(</mo><mn>3</mn><mo>-</mo><mn>1</mn><mo>)</mo><mo>(</mo><mn>5</mn><mo>)</mo></mrow></mtd></mtr><mtr><mtd><mrow><mn>19</mn><mo>=</mo><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mo>(</mo><mn>2</mn><mo>)</mo><mo>(</mo><mn>5</mn><mo>)</mo></mrow></mtd></mtr><mtr><mtd><mrow><mn>19</mn><mo>=</mo><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mn>10</mn></mrow></mtd></mtr><mtr><mtd><msub><mi>a</mi><mrow><mn>1</mn><mo>=</mo><mn>9</mn></mrow></msub></mtd></mtr></mtable></math>
+<math><mrow><msub><mi>a</mi><mn>3</mn></msub><mo>=</mo><mn>19</mn></mrow></math>
+<math><mrow><mi>n</mi><mo>=</mo><mn>3</mn></mrow></math>
 <math><mrow><mi>n</mi><mo>=</mo><mn>11</mn></mrow></math>
-<math><mrow><mi>a</mi><mo>=</mo><mn>9</mn></mrow></math>
 <math><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mo>(</mo><mi>n</mi><mo>–</mo><mn>1</mn><mo>)</mo><mi>d</mi></mrow></math>
 <math><mrow><mo>{</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>8</mn><mo>,</mo><mn>16</mn><mo>,</mo><mn>...</mn><mo>}</mo></mrow></math>
 <math><mi>a</mi></math>
@@ -23,98 +19,102 @@
 <math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>8</mn></mrow></math>
 <math><msub><mi>a</mi><mn>5</mn></msub></math>
 <math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mn>3</mn><mi>d</mi><mo>=</mo><mn>8</mn><mo>+</mo><mn>3</mn><mi>d</mi></mrow></math>
-<math><mrow><msub><mi>a</mi><mn>5</mn></msub><mo>=</mo><msub><mi>a</mi><mn>4</mn></msub><mo>+</mo><mn>2</mn><mo>=</mo><mn>16</mn></mrow></math>
-<math><mrow><msub><mi>a</mi><mn>5</mn></msub><mo>=</mo><mn>17</mn></mrow></math>
-<math><mtable columnalign="left"><mtr columnalign="left"><mtd columnalign="left"><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msub><mi>a</mi><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow></msub><mo>+</mo><mi>d</mi></mrow></mtd><mtd columnalign="left"><mrow/></mtd><mtd columnalign="left"><mrow/></mtd><mtd columnalign="left"><mrow/></mtd><mtd columnalign="left"><mrow><mi>n</mi><mo>≥</mo><mn>2</mn></mrow></mtd></mtr></mtable></math>
+<math><mrow><msub><mi>a</mi><mn>3</mn></msub><mo>=</mo><mn>7</mn></mrow></math>
+<math><msub><mi>a</mi><mn>2</mn></msub></math>
 <math><mn>−18</mn></math>
-<math><mtable columnalign="left"><mtr columnalign="left"><mtd columnalign="left"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mo>−</mo><mn>18</mn></mrow></mtd></mtr><mtr columnalign="left"><mtd columnalign="left"><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msub><mi>a</mi><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow></msub><mo>+</mo><mn>11</mn><mo>,</mo><mspace width="0.5em"></mspace><mtext>for </mtext><mi>n</mi><mo>≥</mo><mn>2</mn></mrow></mtd></mtr></mtable></math>
-<math><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mi>d</mi><mo stretchy="false">(</mo><mi>n</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></math>
-<math><mi>y</mi></math>
-<math><mrow><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>b</mi><mo>.</mo></mrow></math>
-<math><mrow><mi>x</mi><mo>.</mo></mrow></math>
-<math><mn>250</mn></math>
-<math><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mn>200</mn><mo>−</mo><mn>50</mn><mo stretchy="false">(</mo><mi>n</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mi>n</mi><mtext>th</mtext></mrow></math>
-<math><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mi>d</mi><mo stretchy="false">(</mo><mi>n</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mo>.</mo></mrow></math>
-<math><mtable columnalign="left"><mtr columnalign="left"><mtd columnalign="left"><mi>d</mi></mtd><mtd columnalign="left"><mrow><mo>=</mo><msub><mi>a</mi><mn>2</mn></msub><mo>−</mo><msub><mi>a</mi><mn>1</mn></msub></mrow></mtd></mtr><mtr columnalign="left"><mtd columnalign="left"><mrow/></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>12</mn><mo>−</mo><mn>2</mn></mrow></mtd></mtr><mtr columnalign="left"><mtd columnalign="left"><mrow/></mtd><mtd columnalign="left"><mrow><mo>=</mo><mn>10</mn></mrow></mtd></mtr></mtable></math>
-<math><mrow><mo>−</mo><mn>8</mn></mrow></math>
-<math><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msub><mi>a</mi><mn>1</mn></msub><mo>+</mo><mi>d</mi><mo stretchy="false">(</mo><mi>n</mi><mo>–</mo><mn>1</mn><mo stretchy="false">)</mo><mo>.</mo></mrow></math>
-<math><mrow><mo>{</mo><mn>8</mn><mtext>, </mtext><mn>1</mn><mtext>, </mtext><mn>–6</mn><mtext>, </mtext><mn>...</mn><mtext>, </mtext><mn>–41</mn><mo>}</mo></mrow></math>
-<math><mrow><mo>−</mo><mn>7</mn></mrow></math>
+<math><mrow><mo>{</mo><mn>25</mn><mtext>, </mtext><mo> </mo><mn>37</mn><mtext>, </mtext><mo> </mo><mn>49</mn><mtext>, </mtext><mo> </mo><mn>61</mn><mtext>, </mtext><mo> </mo><mtext>…</mtext><mo>}</mo></mrow></math>
+<math><mrow><mo>−</mo><mn>50</mn></mrow></math>
+<math><mrow><mn>200</mn><mo>:</mo><mspace width="0.5em"></mspace><mn>200</mn><mo>−</mo><mo stretchy="false">(</mo><mo>−</mo><mn>50</mn><mo stretchy="false">)</mo><mo>=</mo><mn>200</mn><mo>+</mo><mn>50</mn><mo>=</mo><mn>250</mn></mrow></math>
+<math><msub><mi>a</mi><mi>n</mi></msub></math>
+<math><mi>m</mi></math>
+<math><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mo>−</mo><mn>50</mn><mi>n</mi><mo>+</mo><mn>250</mn></mrow></math>
+<math><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mo>−</mo><mn>50</mn><mi>n</mi><mo>+</mo><mn>250.</mn></mrow></math>
+<math><mrow><msub><mi>a</mi><mn>2</mn></msub><mo>−</mo><msub><mi>a</mi><mn>1</mn></msub><mo>.</mo></mrow></math>
+<math><mrow><mo>{</mo><mn>2</mn><mtext>, </mtext><mn>12</mn><mtext>, </mtext><mn>22</mn><mtext>, </mtext><mn>32</mn><mtext>, </mtext><mn>42</mn><mtext>, …</mtext><mo>}</mo></mrow></math>
+<math><mrow><mo>{</mo><mn>50</mn><mo>,</mo><mn>47</mn><mo>,</mo><mn>44</mn><mo>,</mo><mn>41</mn><mo>,</mo><mo>…</mo><mo>}</mo></mrow></math>
+<math><mrow><mi>n</mi><mo>.</mo></mrow></math>
+<math><mrow><mn>1</mn><mo>−</mo><mn>8</mn><mo>=</mo><mo>−</mo><mn>7</mn></mrow></math>
 <math><mrow><mo>−</mo><mn>41</mn></mrow></math>
-<math><mrow><mo>{</mo><mn>6</mn><mtext>, </mtext><mn>11</mn><mtext>, </mtext><mn>16</mn><mtext>, </mtext><mn>...</mn><mtext>, </mtext><mn>56</mn><mo>}</mo></mrow></math>
-<math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>.</mo></mrow></math>
-<math><mi>A</mi></math>
-<math><mrow><mn>16</mn><mo>−</mo><mn>5</mn><mo>=</mo><mn>11</mn></mrow></math>
-<math><mrow><mo>{</mo><mn>5</mn><mo>,</mo><mn>11</mn><mo>,</mo><mn>17</mn><mo>,</mo><mn>23</mn><mo>,</mo><mn>29</mn><mo>,</mo><mn>...</mn><mo>}</mo></mrow></math>
-<math><mrow><mo>{</mo><mn>11.4</mn><mo>,</mo><mn>9.3</mn><mo>,</mo><mn>7.2</mn><mo>,</mo><mn>5.1</mn><mo>,</mo><mn>3</mn><mo>,</mo><mn>...</mn><mo>}</mo></mrow></math>
-<math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−25</mn></mrow></math>
-<math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>0</mn></mrow></math>
-<math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>17</mn><mo>,</mo><mspace width="0.5em"></mspace><msub><mi>a</mi><mn>7</mn></msub><mo>=</mo><mo>−</mo><mn>31</mn></mrow></math>
-<math><mrow><msub><mi>a</mi><mn>6</mn></msub><mo>=</mo><mn>12</mn></mrow></math>
-<math><mrow><msub><mi>a</mi><mn>7</mn></msub><mo>=</mo><mn>21</mn></mrow></math>
-<math><mrow><msub><mi>a</mi><mn>8</mn></msub><mo>=</mo><mn>40</mn></mrow></math>
-<math><mrow><msub><mi>a</mi><mn>9</mn></msub><mo>=</mo><mn>54</mn></mrow></math>
-<math><mrow><msub><mi>a</mi><mn>11</mn></msub><mo>=</mo><mn>11</mn></mrow></math>
-<math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>33</mn></mrow></math>
-<math><mrow><msub><mi>a</mi><mn>4</mn></msub><mo>.</mo></mrow></math>
-<math><mrow><msub><mi>a</mi><mn>10</mn></msub><mo>=</mo><mo>−</mo><mn>15.7.</mn></mrow></math>
-<math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>39</mn><mo>;</mo><mspace width="0.5em"></mspace><mtext>&lt;mtext/&gt;</mtext><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msub><mi>a</mi><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow></msub><mo>−</mo><mn>3</mn></mrow></math>
-<math><mrow><mi>a</mi><mo>=</mo><mrow><mo>{</mo><mrow><mn>40</mn><mo>,</mo><mn>60</mn><mo>,</mo><mn>80</mn><mo>,</mo><mn>...</mn></mrow><mo>}</mo></mrow></mrow></math>
-<math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mo>−</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>5</mn><mo>,</mo><mn>...</mn><mo>}</mo></mrow></math>
-<math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mo>−</mo><mn>15</mn><mo>,</mo><mo>−</mo><mn>7</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>...</mn><mo>}</mo></mrow></math>
-<math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mo>−</mo><mn>0.52</mn><mo>,</mo><mo>−</mo><mn>1.02</mn><mo>,</mo><mo>−</mo><mn>1.52</mn><mo>,</mo><mn>...</mn><mo>}</mo></mrow></math>
-<math><mrow><mi>a</mi><mo>=</mo><mrow><mo>{</mo><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mo>−</mo><mfrac><mn>5</mn><mn>4</mn></mfrac><mo>,</mo><mo>−</mo><mn>2</mn><mo>,</mo><mn>...</mn></mrow><mo>}</mo></mrow></mrow></math>
-<math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mn>7</mn><mtext>, </mtext><mn>4</mn><mtext>, </mtext><mn>1</mn><mtext>, </mtext><mn>...</mn><mo>}</mo><mo>;</mo></mrow></math>
-<math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mn>2</mn><mtext>, </mtext><mn>6</mn><mtext>, </mtext><mn>10</mn><mtext>, </mtext><mn>...</mn><mo>}</mo><mo>;</mo></mrow></math>
-<math><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>n</mi><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></math>
-<math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mn>32</mn><mo>,</mo><mn>24</mn><mo>,</mo><mn>16</mn><mo>,</mo><mn>...</mn><mo>}</mo></mrow></math>
-<math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mn>−17</mn><mtext>, </mtext><mn>−217</mn><mtext>, </mtext><mn>−417</mn><mtext>,</mtext><mn>...</mn><mo>}</mo></mrow></math>
-<math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mn>−18.1</mn><mo>,</mo><mn>−16.2</mn><mo>,</mo><mn>−14.3</mn><mo>,</mo><mn>...</mn><mo>}</mo></mrow></math>
-<math><mrow><mi>a</mi><mo>=</mo><mrow><mo>{</mo><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>,</mo><mo>−</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mo>,</mo><mn>−3</mn><mtext>, </mtext><mn>...</mn></mrow><mo>}</mo></mrow></mrow></math>
-<math><mrow><mi>a</mi><mo>=</mo><mrow><mo>{</mo><mrow><mo>−</mo><mn>5</mn><mo>,</mo><mo>−</mo><mfrac><mn>10</mn><mn>3</mn></mfrac><mo>,</mo><mo>−</mo><mfrac><mn>5</mn><mn>3</mn></mfrac><mo>,</mo><mo>…</mo></mrow><mo>}</mo></mrow></mrow></math>
-<math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mn>1.2</mn><mo>,</mo><mn>1.4</mn><mo>,</mo><mn>1.6</mn><mo>,</mo><mn>...</mn><mo>,</mo><mn>3.8</mn><mo>}</mo></mrow></math>
-<math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>0</mn><mo>,</mo><mi>d</mi><mo>=</mo><mn>4</mn></mrow></math>
-<math><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mo>−</mo><mn>12</mn><mo>+</mo><mn>5</mn><mi>n</mi></mrow></math>
-<math><mrow><mi>n</mi><mtext>Min</mtext></mrow></math>
-<math><mrow><mi>u</mi><mo stretchy="false">(</mo><mi>n</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mi>u</mi><mo stretchy="false">(</mo><mi>n</mi><mtext>Min)</mtext></mrow></math>
-<math><mrow><mtext>TblStart</mtext><mo>=</mo><mn>1</mn></mrow></math>
-<math><mrow><mi>u</mi><mo stretchy="false">(</mo><mi>n</mi><mo stretchy="false">)</mo><mtext>?</mtext></mrow></math>
-<math><mrow><mi>n</mi><mtext>Max</mtext><mo>=</mo><mn>5</mn></mrow></math>
-<math><mrow><mi>x</mi><mtext>Max</mtext><mo>=</mo><mn>6</mn></mrow></math>
-<math><mrow><mi>y</mi><mtext>Max</mtext><mo>=</mo><mn>14.</mn></mrow></math>
-<math><mn>9.</mn></math>
-<math><mrow><mo>{</mo><mn>9</mn><mi>b</mi><mo>,</mo><mn>5</mn><mi>b</mi><mo>,</mo><mi>b</mi><mo>,</mo><mo>…</mo><mo>}</mo><mo>.</mo></mrow></math>
-<math><mrow><mo>{</mo><mn>5.4</mn><mo>,</mo><mn>14.5</mn><mo>,</mo><mn>23.6</mn><mo>,</mo><mn>...</mn><mo>}</mo></mrow></math>
-<math><mrow><mo>{</mo><mrow><mfrac><mn>5</mn><mn>2</mn></mfrac><mo>,</mo><mfrac><mn>19</mn><mn>8</mn></mfrac><mo>,</mo><mfrac><mn>9</mn><mn>4</mn></mfrac><mo>,</mo><mn>...</mn><mo>,</mo><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow><mo>}</mo></mrow></math>
-<math><mrow><mn>64</mn><mo>÷</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>⋅</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>14</mn><mo>÷</mo><mn>7</mn></mrow></math>
-<math><mrow><mn>5</mn><mi>x</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>−11</mn></mrow></math>
-<math><mrow><mn>9</mn><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>÷</mo><mn>3</mn><mo>⋅</mo><mn>2</mn><mo>+</mo><mn>1</mn></mrow></math>
-<math><mfrac><mn>5</mn><mn>6</mn></mfrac></math>
-<math><mrow><msup><mn>2</mn><mn>2</mn></msup><mo>⋅</mo><msup><mn>2</mn><mn>4</mn></msup></mrow></math>
-<math><msup><mrow><mo>(</mo><mfrac><msup><mi>a</mi><mn>2</mn></msup><msup><mi>b</mi><mn>3</mn></msup></mfrac><mo>)</mo></mrow><mn>4</mn></msup></math>
-<math><mrow><mfrac><msup><mrow><mo>(</mo><mrow><mi>x</mi><mi>y</mi></mrow><mo>)</mo></mrow><mn>4</mn></msup><msup><mi>y</mi><mn>3</mn></msup></mfrac><mo>⋅</mo><mfrac><mn>2</mn><msup><mi>x</mi><mn>5</mn></msup></mfrac></mrow></math>
-<math><msup><mrow><mo>(</mo><mfrac><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup></mrow><mi>y</mi></mfrac><mo>)</mo></mrow><mn>−2</mn></msup></math>
-<math><mrow><mn>2.1314</mn><mspace width="0.5em"></mspace><mo>×</mo><mspace width="0.5em"></mspace><msup><mn>10</mn><mn>−6</mn></msup></mrow></math>
-<math><msqrt><mn>196</mn></msqrt></math>
-<math><msqrt><mn>75</mn></msqrt></math>
-<math><msqrt><mfrac><mn>32</mn><mn>25</mn></mfrac></msqrt></math>
-<math><msqrt><mfrac><mn>49</mn><mn>1250</mn></mfrac></msqrt></math>
-<math><mrow><mn>4</mn><msqrt><mn>3</mn></msqrt><mo>+</mo><mn>6</mn><msqrt><mn>3</mn></msqrt></mrow></math>
-<math><mroot><mn>−243</mn><mn>5</mn></mroot></math>
-<math><mrow><mo>(</mo><mn>3</mn><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>)</mo><mo>+</mo><mo>(</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>7</mn><mo>)</mo></mrow></math>
-<math><mrow><mo>(</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>6</mn><mo>)</mo><mo>+</mo><mo>(</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>9</mn><mo>)</mo></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mi>k</mi><mo>+</mo><mn>3</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>k</mi><mo>−</mo><mn>6</mn><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></math>
-<math><mrow><mrow><mo>(</mo><mrow><mi>a</mi><mo>+</mo><mn>2</mn><mi>b</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mi>a</mi><mo>−</mo><mi>b</mi></mrow><mo>)</mo></mrow></mrow></math>
-<math><mrow><mn>81</mn><mi>p</mi><mo>+</mo><mn>9</mn><mi>p</mi><mi>q</mi><mo>−</mo><mn>27</mn><msup><mi>p</mi><mn>2</mn></msup><msup><mi>q</mi><mn>2</mn></msup></mrow></math>
-<math><mrow><mn>88</mn><msup><mi>a</mi><mn>3</mn></msup><mi>b</mi><mo>+</mo><mn>4</mn><msup><mi>a</mi><mn>2</mn></msup><mi>b</mi><mo>−</mo><mn>144</mn><msup><mi>a</mi><mn>2</mn></msup></mrow></math>
-<math><mrow><mn>8</mn><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>30</mn><mi>a</mi><mo>−</mo><mn>27</mn></mrow></math>
-<math><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>10</mn><mi>x</mi><mo>+</mo><mn>25</mn></mrow></math>
-<math><mrow><mn>4</mn><msup><mi>h</mi><mn>2</mn></msup><mo>−</mo><mn>12</mn><mi>h</mi><mi>k</mi><mo>+</mo><mn>9</mn><msup><mi>k</mi><mn>2</mn></msup></mrow></math>
-<math><mrow><msup><mi>p</mi><mn>3</mn></msup><mo>+</mo><mn>216</mn></mrow></math>
-<math><mrow><mn>64</mn><msup><mi>q</mi><mn>3</mn></msup><mo>−</mo><mn>27</mn><msup><mi>p</mi><mn>3</mn></msup></mrow></math>
-<math><mrow><mn>3</mn><mi>p</mi><msup><mrow><mo>(</mo><mrow><mi>p</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></msup><mn>−8</mn><msup><mrow><mo>(</mo><mrow><mi>p</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mfrac><mn>4</mn><mn>3</mn></mfrac></msup></mrow></math>
-<math><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>−</mo><mn>12</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>16</mn></mrow></mfrac></math>
-<math><mrow><mfrac><mrow><mn>2</mn><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mi>a</mi><mo>−</mo><mn>3</mn></mrow><mrow><mn>2</mn><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>a</mi><mo>−</mo><mn>8</mn></mrow></mfrac><mo>⋅</mo><mfrac><mrow><mn>5</mn><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>19</mn><mi>a</mi><mo>−</mo><mn>4</mn></mrow><mrow><mn>10</mn><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>13</mn><mi>a</mi><mo>−</mo><mn>3</mn></mrow></mfrac></mrow></math>
+<math><msub><mi>a</mi><mn>0</mn></msub></math>
+<math><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msub><mi>a</mi><mn>0</mn></msub><mo>+</mo><mi>d</mi><mi>n</mi></mrow></math>
+<math><mrow><msub><mi>A</mi><mi>n</mi></msub><mo>=</mo><mn>1</mn><mo>+</mo><mn>2</mn><mi>n</mi></mrow></math>
+<math><mrow><msub><mi>A</mi><mn>11</mn></msub><mo>=</mo><mn>1</mn><mo>+</mo><mn>2</mn><mo stretchy="false">(</mo><mn>11</mn><mo stretchy="false">)</mo><mo>=</mo><mn>23</mn></mrow></math>
+<math><mrow><mo>{</mo><mrow><mn>0</mn><mo>,</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mn>1</mn><mo>,</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>,</mo><mn>2</mn><mo>,</mo><mn>...</mn></mrow><mo>}</mo></mrow></math>
+<math><mrow><mo>{</mo><mn>4</mn><mo>,</mo><mn>16</mn><mo>,</mo><mn>64</mn><mo>,</mo><mn>256</mn><mo>,</mo><mn>1024</mn><mo>,</mo><mn>...</mn><mo>}</mo></mrow></math>
+<math><mrow><mi>d</mi><mo>=</mo><mn>−9</mn></mrow></math>
+<math><mrow><mi>d</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></math>
+<math><mrow><msub><mi>a</mi><mn>13</mn></msub><mo>=</mo><mo>−</mo><mn>60</mn><mo>,</mo><mspace width="0.5em"></mspace><msub><mi>a</mi><mn>33</mn></msub><mo>=</mo><mo>−</mo><mn>160</mn></mrow></math>
+<math><mrow><msub><mi>a</mi><mn>14</mn></msub><mo>=</mo><mn>28.</mn></mrow></math>
+<math><mrow><msub><mi>a</mi><mn>15</mn></msub><mo>=</mo><mn>42.</mn></mrow></math>
+<math><mrow><msub><mi>a</mi><mn>23</mn></msub><mo>=</mo><mn>115.</mn></mrow></math>
+<math><mrow><msub><mi>a</mi><mn>17</mn></msub><mo>=</mo><mn>102.</mn></mrow></math>
+<math><mrow><msub><mi>a</mi><mn>21</mn></msub><mo>=</mo><mn>16.</mn></mrow></math>
+<math><mrow><msub><mi>a</mi><mn>7</mn></msub><mo>=</mo><mo>−</mo><mn>15.</mn></mrow></math>
+<math><mrow><msub><mi>a</mi><mn>3</mn></msub><mo>=</mo><mo>−</mo><mn>17.1</mn></mrow></math>
+<math><mrow><msub><mi>a</mi><mn>21</mn></msub><mo>.</mo></mrow></math>
+<math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mo>−</mo><mn>19</mn><mo>;</mo><mspace width="0.5em"></mspace><mtext>&lt;mtext/&gt;</mtext><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msub><mi>a</mi><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow></msub><mo>−</mo><mn>1.4</mn></mrow></math>
+<math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mn>17</mn><mo>,</mo><mn>26</mn><mo>,</mo><mn>35</mn><mo>,</mo><mn>...</mn><mo>}</mo></mrow></math>
+<math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mn>12</mn><mo>,</mo><mn>17</mn><mo>,</mo><mn>22</mn><mo>,</mo><mn>...</mn><mo>}</mo></mrow></math>
+<math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mn>8.9</mn><mo>,</mo><mn>10.3</mn><mo>,</mo><mn>11.7</mn><mo>,</mo><mn>...</mn><mo>}</mo></mrow></math>
+<math><mrow><mi>a</mi><mo>=</mo><mrow><mo>{</mo><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>,</mo><mfrac><mn>9</mn><mn>20</mn></mfrac><mo>,</mo><mfrac><mn>7</mn><mn>10</mn></mfrac><mo>,</mo><mn>...</mn></mrow><mo>}</mo></mrow></mrow></math>
+<math><mrow><mi>a</mi><mo>=</mo><mrow><mo>{</mo><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>,</mo><mo>−</mo><mfrac><mn>11</mn><mn>12</mn></mfrac><mo>,</mo><mo>−</mo><mn>2</mn><mo>,</mo><mn>...</mn></mrow><mo>}</mo></mrow></mrow></math>
+<math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mn>4</mn><mtext>, </mtext><mn>11</mn><mtext>, </mtext><mn>18</mn><mtext>, </mtext><mn>...</mn><mo>}</mo><mo>;</mo></mrow></math>
+<math><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mn>24</mn><mo>−</mo><mn>4</mn><mi>n</mi></mrow></math>
+<math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mn>3</mn><mo>,</mo><mn>5</mn><mo>,</mo><mn>7</mn><mo>,</mo><mn>...</mn><mo>}</mo></mrow></math>
+<math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mo>−</mo><mn>5</mn><mtext>, </mtext><mn>95</mn><mtext>, </mtext><mn>195</mn><mtext>, </mtext><mn>...</mn><mo>}</mo></mrow></math>
+<math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mn>1.8</mn><mtext>, </mtext><mn>3.6</mn><mtext>, </mtext><mn>5.4</mn><mtext>, </mtext><mn>...</mn><mo>}</mo></mrow></math>
+<math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mn>15.8</mn><mo>,</mo><mn>18.5</mn><mo>,</mo><mn>21.2</mn><mo>,</mo><mn>...</mn><mo>}</mo></mrow></math>
+<math><mrow><mi>a</mi><mo>=</mo><mrow><mo>{</mo><mrow><mn>0</mn><mo>,</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>,</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>,</mo><mn>...</mn></mrow><mo>}</mo></mrow></mrow></math>
+<math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mn>3</mn><mtext>,</mtext><mo>−</mo><mn>4</mn><mtext>,</mtext><mo>−</mo><mn>11</mn><mtext>, </mtext><mn>...</mn><mtext>,</mtext><mo>−</mo><mn>60</mn><mo>}</mo></mrow></math>
+<math><mrow><mi>a</mi><mo>=</mo><mrow><mo>{</mo><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mn>2</mn><mo>,</mo><mfrac><mn>7</mn><mn>2</mn></mfrac><mo>,</mo><mn>...</mn><mo>,</mo><mn>8</mn></mrow><mo>}</mo></mrow></mrow></math>
+<math><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>9</mn><mo>;</mo><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msub><mi>a</mi><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow></msub><mo>−</mo><mn>10</mn></mrow></math>
+<math><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mn>3</mn><mi>n</mi><mo>−</mo><mn>2</mn></mrow></math>
+<math><mrow><mi>n</mi><mtext>Min</mtext><mo>=</mo><mn>1</mn></mrow></math>
+<math><mrow><mi>u</mi><mo stretchy="false">(</mo><mi>n</mi><mo stretchy="false">)</mo><mo>=</mo><mn>3</mn><mi>n</mi><mo>−</mo><mn>2</mn></mrow></math>
+<math><mrow><mi>u</mi><mo stretchy="false">(</mo><mi>n</mi><mtext>Min)</mtext><mo>=</mo><mn>1</mn></mrow></math>
+<math><mrow><mi>Δ</mi><mtext>Tbl</mtext><mo>=</mo><mn>1</mn></mrow></math>
+<math><mrow><mi>n</mi><mo>=</mo><mn>50.</mn></mrow></math>
+<math><mrow><mi>x</mi><mtext>Min</mtext><mo>=</mo><mn>0</mn></mrow></math>
+<math><mrow><mi>y</mi><mtext>Min</mtext><mo>=</mo><mo>−</mo><mn>1</mn></mrow></math>
+<math><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>n</mi><mo>+</mo><mn>5</mn></mrow></math>
+<math><mn>206.</mn></math>
+<math><mrow><mo>{</mo><mn>3</mn><mi>a</mi><mo>−</mo><mn>2</mn><mi>b</mi><mo>,</mo><mi>a</mi><mo>+</mo><mn>2</mn><mi>b</mi><mo>,</mo><mo>−</mo><mi>a</mi><mo>+</mo><mn>6</mn><mi>b</mi><mo>…</mo><mo>}</mo><mo>.</mo></mrow></math>
+<math><mrow><mo>{</mo><mrow><mfrac><mn>17</mn><mn>3</mn></mfrac><mo>,</mo><mfrac><mn>31</mn><mn>6</mn></mfrac><mo>,</mo><mfrac><mn>14</mn><mn>3</mn></mfrac><mo>,</mo><mn>...</mn></mrow><mo>}</mo></mrow></math>
+<math><mrow><msup><mrow><mo>(</mo><mrow><mn>5</mn><mo>−</mo><mn>3</mn><mo>⋅</mo><mn>2</mn></mrow><mo>)</mo></mrow><mn>2</mn></msup><mo>−</mo><mn>6</mn></mrow></math>
+<math><mrow><mn>2</mn><mo>⋅</mo><msup><mn>5</mn><mn>2</mn></msup><mo>+</mo><mn>6</mn><mo>÷</mo><mn>2</mn></mrow></math>
+<math><mrow><mn>2</mn><mi>y</mi><mo>+</mo><msup><mn>4</mn><mn>2</mn></msup><mo>=</mo><mn>64</mn></mrow></math>
+<math><mrow><mn>3</mn><mi>m</mi><mrow><mo>(</mo><mrow><mn>4</mn><mo>+</mo><mn>7</mn></mrow><mo>)</mo></mrow><mo>−</mo><mi>m</mi></mrow></math>
+<math><msqrt><mn>11</mn></msqrt></math>
+<math><mfrac><msup><mn>4</mn><mn>5</mn></msup><msup><mn>4</mn><mn>3</mn></msup></mfrac></math>
+<math><mfrac><mrow><mn>6</mn><msup><mi>a</mi><mn>2</mn></msup><mo>⋅</mo><msup><mi>a</mi><mn>0</mn></msup></mrow><mrow><mn>2</mn><msup><mi>a</mi><mn>−4</mn></msup></mrow></mfrac></math>
+<math><mfrac><mrow><msup><mn>4</mn><mn>−2</mn></msup><msup><mi>x</mi><mn>3</mn></msup><msup><mi>y</mi><mn>−3</mn></msup></mrow><mrow><mn>2</mn><msup><mi>x</mi><mn>0</mn></msup></mrow></mfrac></math>
+<math><mrow><mrow><mo>(</mo><mfrac><mrow><mn>16</mn><msup><mi>a</mi><mn>3</mn></msup></mrow><msup><mi>b</mi><mn>2</mn></msup></mfrac><mo>)</mo></mrow><msup><mrow><mo>(</mo><mrow><mn>4</mn><mi>a</mi><msup><mi>b</mi><mn>−1</mn></msup></mrow><mo>)</mo></mrow><mn>−2</mn></msup></mrow></math>
+<math><msqrt><mn>121</mn></msqrt></math>
+<math><msqrt><mn>361</mn></msqrt></math>
+<math><msqrt><mn>162</mn></msqrt></math>
+<math><msqrt><mfrac><mn>80</mn><mn>81</mn></mfrac></msqrt></math>
+<math><mfrac><mn>2</mn><mrow><mn>4</mn><mo>+</mo><msqrt><mn>2</mn></msqrt></mrow></mfrac></math>
+<math><mrow><mn>12</mn><msqrt><mn>5</mn></msqrt><mo>−</mo><mn>13</mn><msqrt><mn>5</mn></msqrt></mrow></math>
+<math><mfrac><mroot><mn>250</mn><mn>3</mn></mroot><mroot><mn>−8</mn><mn>3</mn></mroot></mfrac></math>
+<math><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mi>y</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><mn>2</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>y</mi><mo>−</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></math>
+<math><mrow><mrow><mo>(</mo><mrow><mn>6</mn><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>a</mi><mo>+</mo><mn>10</mn></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><mn>6</mn><msup><mi>a</mi><mn>2</mn></msup><mn>−3</mn><mi>a</mi><mo>+</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></math>
+<math><mrow><mo stretchy="false">(</mo><mn>2</mn><mi>h</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>3</mn><mi>h</mi><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo></mrow></math>
+<math><mrow><mo stretchy="false">(</mo><mi>m</mi><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo><mo>(</mo><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>m</mi><mo>−</mo><mn>3</mn><mo>)</mo></mrow></math>
+<math><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mi>y</mi></mrow><mo>)</mo></mrow></mrow></math>
+<math><mrow><mn>12</mn><msup><mi>x</mi><mn>2</mn></msup><mi>y</mi><mo>+</mo><mn>4</mn><mi>x</mi><msup><mi>y</mi><mn>2</mn></msup><mn>−18</mn><mi>x</mi><mi>y</mi></mrow></math>
+<math><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>9</mn><mi>x</mi><mo>−</mo><mn>18</mn></mrow></math>
+<math><mrow><msup><mi>d</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>d</mi><mo>−</mo><mn>66</mn></mrow></math>
+<math><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>y</mi><mo>+</mo><mn>9</mn></mrow></math>
+<math><mrow><mn>361</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>121</mn></mrow></math>
+<math><mrow><mn>8</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>125</mn></mrow></math>
+<math><mrow><mn>4</mn><mi>x</mi><msup><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>+</mo><mn>3</mn><msup><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo></mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></msup></mrow></math>
+<math><mrow><mn>4</mn><mi>r</mi><msup><mrow><mo>(</mo><mrow><mn>2</mn><mi>r</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup><mo>−</mo><mn>5</mn><msup><mrow><mo>(</mo><mrow><mn>2</mn><mi>r</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></msup></mrow></math>
+<math><mfrac><mrow><mn>4</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>25</mn></mrow><mrow><mn>4</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>20</mn><mi>y</mi><mo>+</mo><mn>25</mn></mrow></mfrac></math>
+<math><mrow><mfrac><mrow><mi>d</mi><mo>−</mo><mn>4</mn></mrow><mrow><msup><mi>d</mi><mn>2</mn></msup><mo>−</mo><mn>9</mn></mrow></mfrac><mo>⋅</mo><mfrac><mrow><mi>d</mi><mo>−</mo><mn>3</mn></mrow><mrow><msup><mi>d</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn></mrow></mfrac></mrow></math>
+<math><mrow><mfrac><mrow><mn>4</mn><msup><mi>d</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>d</mi><mo>−</mo><mn>2</mn></mrow><mrow><mn>6</mn><msup><mi>d</mi><mn>2</mn></msup><mo>−</mo><mn>17</mn><mi>d</mi><mo>+</mo><mn>10</mn></mrow></mfrac><mo>÷</mo><mfrac><mrow><mn>8</mn><msup><mi>d</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>d</mi><mo>+</mo><mn>1</mn></mrow><mrow><mn>6</mn><msup><mi>d</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn><mi>d</mi><mo>−</mo><mn>10</mn></mrow></mfrac></mrow></math>
+<math><mrow><mfrac><mn>12</mn><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>a</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mo>−</mo><mfrac><mn>3</mn><mrow><msup><mi>a</mi><mn>2</mn></msup><mn>−1</mn></mrow></mfrac></mrow></math>
+<math><mfrac><mrow><mfrac><mn>3</mn><mi>x</mi></mfrac><mo>−</mo><mfrac><mn>7</mn><mi>y</mi></mfrac></mrow><mfrac><mn>2</mn><mi>x</mi></mfrac></mfrac></math>
+<math><mrow><mrow><mo>{</mo><mrow><mn>0</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mn>...</mn></mrow><mo>}</mo></mrow><mo>.</mo></mrow></math>
+<math><mrow><mrow><mo>{</mo><mrow><mrow><mrow><mfrac><mi>m</mi><mi>n</mi></mfrac><mspace width="0.5em"></mspace></mrow><mo>|</mo></mrow><mi>m</mi><mspace width="0.5em"></mspace><mtext>and </mtext><mi>n</mi><mspace width="0.5em"></mspace><mtext>are integers and </mtext><mi>n</mi><mo>≠</mo><mn>0</mn></mrow><mo>}</mo></mrow><mo>.</mo></mrow></math>
+<math><mrow><mfrac><mn>4</mn><mn>11</mn></mfrac><mo>=</mo><mn>0.36363636</mn><mo>…</mo><mo>=</mo><mn>0.</mn><mover accent="true"><mn>36</mn><mo stretchy="true">¯</mo></mover></mrow></math>
+<math><mrow><mn>0</mn><mo>=</mo><mfrac><mn>0</mn><mn>1</mn></mfrac></mrow></math>

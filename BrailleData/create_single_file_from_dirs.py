@@ -32,11 +32,10 @@ def merge_subdirs_to_single_file(root_dir: Path, suffix: str) -> None:
     def filtered_files(directory: Path) -> List[Path]:
         return sorted(
             f for f in directory.glob(f"*{suffix}")
-            if "-cnclz" not in f.name
+            if "-no-dups" not in f.name
         )
 
     files: List[Path] = filtered_files(high) + filtered_files(col)
-    print("First 5 files being read:", "\n".join(str(f) for f in files[:5]))
 
     # Output file: <root><suffix> at the same level as root_dir
     out_file = root_dir.with_suffix(suffix)

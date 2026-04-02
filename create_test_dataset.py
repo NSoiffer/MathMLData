@@ -57,6 +57,15 @@ def sample_aligned_data(nemeth_file, ueb_file, mathml_file, sample_size):
     return nemeth_samples, ueb_samples, mathml_samples
 
 
+def filter_out_mtable_elements(mathml_lines, nemeth_lines, ueb_lines) -> tuple[list[str], list[str], list[str]]:
+    # Use zip to pair them, filter out 'mtable', then unpack them back into lists
+    mathml, nemeth, ueb = zip(*[
+        (m, n, u) for m, n, u in zip(mathml_lines, nemeth_lines, ueb_lines)
+        if "mtable" not in m
+    ])
+    return list(mathml), list(nemeth), list(ueb)
+
+
 def write_samples(output_dir, subfolder, source_name, extension, lines):
     """Write sampled lines to output file."""
     output_subdir = output_dir / subfolder
@@ -90,6 +99,7 @@ def split_aligned_data(nemeth_file, ueb_file, mathml_file, sample_size):
             'example_mathml': [],
         }
 
+    mathml_lines, nemeth_lines, ueb_lines = filter_out_mtable_elements(mathml_lines, nemeth_lines, ueb_lines)
     n_lines = len(nemeth_lines)
     test_size = min(2*sample_size, n_lines)
 

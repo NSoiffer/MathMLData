@@ -55,9 +55,8 @@
 <math><mrow><mi>A</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">|</mo><mi>x</mi><mo stretchy="false">|</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mo stretchy="false">|</mo><mi>x</mi><mo stretchy="false">|</mo><mo>=</mo><mi>x</mi><mtext>,</mtext></mrow></math>
 <math><mrow><mo stretchy="false">|</mo><mi>x</mi><mo stretchy="false">|</mo><mo>=</mo><mo>−</mo><mi>x</mi><mtext>.</mtext></mrow></math>
-<math><mrow><mi>A</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">{</mo><mtable columnalign="left left" columnspacing="1em" rowspacing=".2em"><mtr><mtd><mrow><mo>−</mo><mi>x</mi><mo>,</mo></mrow></mtd><mtd><mrow><mi>x</mi><mo>&lt;</mo><mn>0</mn></mrow></mtd></mtr><mtr><mtd><mrow><mi>x</mi><mo>,</mo></mrow></mtd><mtd><mrow><mi>x</mi><mo>≥</mo><mn>0</mn></mrow></mtd></mtr></mtable><mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true">&lt;mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"/&gt;</mo></mrow></mrow></math>
-<math><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mi>x</mi></mrow></math>
-<math><mrow><mi>p</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">{</mo><mtable columnalign="left left" columnspacing="1em" rowspacing=".2em"><mtr><mtd><mrow><mo>−</mo><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mn>2</mn><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><mn>2</mn><mo>,</mo></mrow></mtd><mtd><mrow><mi>x</mi><mo>&lt;</mo><mn>0</mn></mrow></mtd></mtr><mtr><mtd><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mn>2</mn><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><mn>1</mn><mo>,</mo></mrow></mtd><mtd><mrow><mi>x</mi><mo>≥</mo><mn>0</mn></mrow></mtd></mtr></mtable><mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true">&lt;mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"/&gt;</mo></mrow></mrow></math>
+<math><mrow><mn>0</mn><mtext>,</mtext></mrow></math>
+<math><mrow><mi>y</mi><mo>=</mo><mi>x</mi><mtext>.</mtext></mrow></math>
 <math><mrow><mi>p</mi><mo stretchy="false">(</mo><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
 <math><mrow><mi>p</mi><mo stretchy="false">(</mo><mn>2</mn><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
 <math><mrow><mi>x</mi><mo>&lt;</mo><mn>0</mn><mtext>?</mtext></mrow></math>
@@ -65,45 +64,44 @@
 <math><mrow><mi>p</mi><mtext>?</mtext></mrow></math>
 <math><mrow><mi>y</mi><mo>=</mo><mi>p</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math>
 <math><mrow><mi>p</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi>f</mi><mo>⋅</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>⋅</mo><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math>
-<math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">{</mo><mtable columnalign="left left" columnspacing="1em" rowspacing=".2em"><mtr><mtd><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>,</mo></mrow></mtd><mtd><mrow><mi>x</mi><mo>&lt;</mo><mi>a</mi></mrow></mtd></mtr><mtr><mtd><mrow><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>,</mo></mrow></mtd><mtd><mrow><mi>x</mi><mo>≥</mo><mi>a</mi></mrow></mtd></mtr></mtable><mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true">&lt;mo data-mjx-texclass="CLOSE" fence="true" stretchy="true" symmetric="true"/&gt;</mo></mrow></mrow></math>
-<math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>4</mn></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>−</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo></mrow></math>
-<math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mi>t</mi><mo>−</mo><mn>2</mn></mrow></math>
-<math><mrow><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mfrac><mi>f</mi><mi>g</mi></mfrac><mo data-mjx-texclass="CLOSE">)</mo></mrow><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo></mrow></math>
-<math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>2</mn><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>⋅</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo></mrow></math>
-<math><mrow><mi>f</mi><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math>
-<math><mrow><mi>f</mi><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>+</mo><mi>g</mi><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math>
-<math><mrow><mi>f</mi><mo stretchy="false">(</mo><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>+</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math>
-<math><mn>1</mn></math>
-<math><mn>3</mn></math>
-<math><mrow><mo>−</mo><mn>4</mn></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>−</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>4</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math>
-<math><mrow><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mfrac><mi>f</mi><mi>g</mi></mfrac><mo data-mjx-texclass="CLOSE">)</mo></mrow><mo stretchy="false">(</mo><mn>4</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math>
-<math><mrow><mi>s</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mn>5</mn><mo>−</mo><mn>3</mn><mi>t</mi><mtext>.</mtext></mrow></math>
-<math><mrow><mi>g</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mfrac><mi>s</mi><mi>r</mi></mfrac><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mi>q</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi>s</mi><mo>∘</mo><mi>r</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mi>s</mi></math>
-<math><mrow><mi>y</mi><mo>=</mo><mi>s</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mi>y</mi><mo>=</mo><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mi>s</mi><mo>⋅</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mi>s</mi><mo>∘</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>1.5</mn><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mi>d</mi><mtext>,</mtext></mrow></math>
-<math><mn>2.4</mn></math>
-<math><mn>26.2</mn></math>
-<math><mn>0.05</mn></math>
-<math><mn>0.03</mn></math>
-<math><mrow><mi>s</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mi>cos</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mo stretchy="false">(</mo><mo>−</mo><mfrac><mi>π</mi><mn>2</mn></mfrac><mo>,</mo><mfrac><mi>π</mi><mn>2</mn></mfrac><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
-<math><mrow><mi>t</mi><mo>=</mo><mi>arctan</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>y</mi><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math>
-<math><mrow><mi>sec</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
-<math><mrow><mi>sin</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>≠</mo><mn>0</mn><mtext>,</mtext></mrow></math>
-<math><mrow><mi>csc</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mrow><mi>sin</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></mfrac><mtext>.</mtext></mrow></math>
-<math><mrow><mi>cot</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mi>cos</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow><mrow><mi>sin</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></mfrac><mtext>.</mtext></mrow></math>
-<math><mrow><mi>sin</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>θ</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
-<math><mrow><mi>tan</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>θ</mi><mo stretchy="false">)</mo></mrow></math>
+<math><mrow><mi>a</mi><mtext>,</mtext></mrow></math>
+<math><mrow><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>4</mn><mtext>,</mtext></mrow></math>
+<math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>−</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mo>−</mo><mn>4</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math>
+<math><mrow><mi>g</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mi>t</mi><mo>−</mo><mn>3</mn><mtext>,</mtext></mrow></math>
+<math><mrow><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mfrac><mi>f</mi><mi>g</mi></mfrac><mo data-mjx-texclass="CLOSE">)</mo></mrow><mo stretchy="false">(</mo><mo>−</mo><mn>4</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math>
+<math><mrow><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn><mtext>,</mtext></mrow></math>
+<math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>⋅</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mo>−</mo><mn>3</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math>
+<math><mrow><mi>g</mi><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math>
+<math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>−</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math>
+<math><mrow><mi>g</mi><mo stretchy="false">(</mo><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math>
+<math><mrow><mo stretchy="false">(</mo><mi>g</mi><mo>−</mo><mi>f</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math>
+<math><mrow><mo>−</mo><mn>3</mn></mrow></math>
+<math><mn>4</mn></math>
+<math><mrow><mo>−</mo><mn>1</mn></mrow></math>
+<math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>+</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>4</mn><mo stretchy="false">)</mo><mo>−</mo><mo stretchy="false">(</mo><mi>g</mi><mo>−</mo><mi>f</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>5</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math>
+<math><mrow><mi>r</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mn>2</mn><mi>t</mi><mo>−</mo><mn>3</mn></mrow></math>
+<math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi>r</mi><mo>+</mo><mi>s</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></math>
+<math><mrow><mi>h</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi>r</mi><mo>⋅</mo><mi>s</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></math>
+<math><mrow><mi>w</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mi>r</mi><mo stretchy="false">(</mo><mi>t</mi><mo>−</mo><mn>4</mn><mo stretchy="false">)</mo><mo>+</mo><mn>7</mn></mrow></math>
+<math><mrow><mi>s</mi><mtext>.</mtext></mrow></math>
+<math><mrow><mi>t</mi><mtext>.</mtext></mrow></math>
+<math><mrow><mi>x</mi><mtext>.</mtext></mrow></math>
+<math><mrow><mo stretchy="false">(</mo><mi>g</mi><mo>−</mo><mi>s</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></math>
+<math><mrow><mo stretchy="false">(</mo><mi>g</mi><mo>∘</mo><mi>s</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mo>−</mo><mn>4</mn><mo stretchy="false">)</mo></mrow></math>
+<math><mrow><mi>d</mi><mo>=</mo><mi>v</mi><mo>⋅</mo><mi>t</mi></mrow></math>
+<math><mn>112</mn></math>
+<math><mn>2.5</mn></math>
+<math><mn>21</mn></math>
+<math><mn>8.5</mn></math>
+<math><mrow><mi>V</mi><mtext>,</mtext></mrow></math>
+<math><mrow><mi>g</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mi>sin</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>t</mi><mo>+</mo><mfrac><mi>π</mi><mn>2</mn></mfrac><mo stretchy="false">)</mo></mrow></math>
+<math><mrow><mi>y</mi><mo>=</mo><mi>tan</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></math>
+<math><mrow><mi>cos</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>≠</mo><mn>0</mn><mtext>,</mtext></mrow></math>
+<math><mrow><mi>sec</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mrow><mi>cos</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow></mfrac><mtext>.</mtext></mrow></math>
+<math><mrow><mi>csc</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
+<math><mrow><mi>cot</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
+<math><mrow><mi>θ</mi><mtext>,</mtext></mrow></math>
+<math><mrow><mi>cos</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>θ</mi><mo stretchy="false">)</mo><mtext>,</mtext></mrow></math>
 <math><mrow><mi>θ</mi><mtext>.</mtext></mrow></math>
 <math><mi>α</mi></math>
 <math><mrow><mi>csc</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>α</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>5</mn><mn>3</mn></mfrac><mtext>,</mtext></mrow></math>
@@ -118,3 +116,5 @@
 <math><mrow><mo stretchy="false">|</mo><mi>cos</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo stretchy="false">|</mo><mo>≤</mo><mn>1</mn></mrow></math>
 <math><mn>0</mn></math>
 <math><mfrac><mi>π</mi><mn>4</mn></mfrac></math>
+<math><mfrac><mi>π</mi><mn>2</mn></mfrac></math>
+<math><mfrac><mrow><mn>3</mn><mi>π</mi></mrow><mn>4</mn></mfrac></math>

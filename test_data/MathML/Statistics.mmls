@@ -1,67 +1,65 @@
 <math><mrow><mi>i</mi><mo>=</mo><mrow><mo>(</mo><mfrac><mi>k</mi><mn>100</mn></mfrac><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></math>
 <math><mrow><mi>μ</mi><mo>=</mo><mfrac><mrow><mo>∑</mo><mrow><mi>f</mi><mi>m</mi></mrow></mrow><mrow><mo>∑</mo><mi>f</mi></mrow></mfrac></mrow></math>
-<math><mtable columnalign="left"><mtr><mtd><mrow><msub><mi>s</mi><mi>x</mi></msub><mo>=</mo><mtext> sample standard deviation</mtext></mrow></mtd></mtr><mtr><mtd><mrow><mover accent="true"><mi>x</mi><mo stretchy="true">¯</mo></mover><mtext> = sample mean</mtext></mrow></mtd></mtr></mtable></math>
-<math><mrow><mi>z</mi><mo>=</mo><mfrac><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mi>μ</mi><mo>)</mo></mrow><mi>θ</mi></mfrac><mtext>.</mtext></mrow></math>
-<math><mrow><mi>X</mi><mo>=</mo><mtext> number of diamonds</mtext></mrow></math>
-<math><mrow><mi>N</mi><mo stretchy="false">(</mo><mn>7.24</mn><mo>,</mo><mfrac><mn>1.93</mn><msqrt><mn>22</mn></msqrt></mfrac><mo stretchy="false">)</mo></mrow></math>
-<math><msup><mi>p</mi><mo>′</mo></msup></math>
-<math><msubsup><mi>σ</mi><mn>1</mn><mn>2</mn></msubsup></math>
-<math><msubsup><mi>s</mi><mn>1</mn><mn>2</mn></msubsup></math>
-<math><mrow><mi>F</mi><mo>=</mo><mfrac><mrow><mo>[</mo><mfrac><msup><mrow><mo stretchy="false">(</mo><msub><mi>s</mi><mn>1</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup><msup><mrow><mo stretchy="false">(</mo><msub><mi>σ</mi><mn>1</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mfrac><mo>]</mo></mrow><mrow><mo>[</mo><mfrac><msup><mrow><mo stretchy="false">(</mo><msub><mi>s</mi><mn>2</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup><msup><mrow><mo stretchy="false">(</mo><msub><mi>σ</mi><mn>2</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mfrac><mo>]</mo></mrow></mfrac><mo>.</mo></mrow></math>
-<math><mrow><mi>F</mi><mo>=</mo><mfrac><mrow><mo>[</mo><mfrac><msup><mrow><mo stretchy="false">(</mo><msub><mi>s</mi><mn>1</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup><msup><mrow><mo stretchy="false">(</mo><msub><mi>σ</mi><mn>1</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mfrac><mo>]</mo></mrow><mrow><mo>[</mo><mfrac><msup><mrow><mo stretchy="false">(</mo><msub><mi>s</mi><mn>2</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup><msup><mrow><mo stretchy="false">(</mo><msub><mi>σ</mi><mn>2</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mfrac><mo>]</mo></mrow></mfrac><mo>=</mo><mfrac><msup><mrow><mo stretchy="false">(</mo><msub><mi>s</mi><mn>1</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup><msup><mrow><mo stretchy="false">(</mo><msub><mi>s</mi><mn>2</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mfrac></mrow></math>
-<math><mrow><mi>F</mi><mo>=</mo><mfrac><msup><mrow><mo stretchy="false">(</mo><msub><mi>s</mi><mn>1</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup><msup><mrow><mo stretchy="false">(</mo><msub><mi>s</mi><mn>2</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mfrac></mrow></math>
-<math><mrow><msubsup><mi>σ</mi><mn>1</mn><mn>2</mn></msubsup><mtext> &lt; </mtext><msubsup><mi>σ</mi><mn>2</mn><mn>2</mn></msubsup></mrow></math>
-<math><mrow><mi>F</mi><mo>=</mo><mfrac><mrow><mo>[</mo><mfrac><msup><mrow><mo stretchy="false">(</mo><msub><mi>s</mi><mn>1</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup><msup><mrow><mo stretchy="false">(</mo><msub><mi>σ</mi><mn>1</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mfrac><mo>]</mo></mrow><mrow><mo>[</mo><mfrac><msup><mrow><mo stretchy="false">(</mo><msub><mi>s</mi><mn>2</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup><msup><mrow><mo stretchy="false">(</mo><msub><mi>σ</mi><mn>2</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mfrac><mo>]</mo></mrow></mfrac><mo>=</mo><mfrac><msup><mrow><mo stretchy="false">(</mo><msub><mi>s</mi><mn>1</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup><msup><mrow><mo stretchy="false">(</mo><msub><mi>s</mi><mn>2</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mfrac><mo>=</mo><mfrac><mn>52.3</mn><mn>89.9</mn></mfrac><mo>=</mo><mn>0.5818.</mn></mrow></math>
-<math><msqrt><mo>(</mo><mn>89.9</mn><mo>)</mo></msqrt></math>
-<math><mfrac><mn>3</mn><mn>2</mn></mfrac></math>
-<math><mfrac><mn>1</mn><mn>9</mn></mfrac></math>
-<math><mrow><mfrac><mn>1</mn><mi>m</mi></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>0.75</mn></mfrac><mo>≈</mo><mn>1.33</mn></mrow></math>
-<math><mrow><mn>1</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>9</mn></mrow></math>
-<math><mfrac><mn>333</mn><mn>800</mn></mfrac></math>
-<math><mfrac><mn>1</mn><mn>8</mn></mfrac></math>
-<math><mrow><mo>(</mo><mfrac><mn>1</mn><mn>9</mn></mfrac><mo>)</mo></mrow></math>
-<math><mfrac><mn>3</mn><mn>9</mn></mfrac></math>
-<math><mfrac><mn>1</mn><mn>7</mn></mfrac></math>
-<math><mfrac><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>x</mi><mo>&gt;</mo><mn>21</mn><mtext> AND </mtext><mi>x</mi><mo>&gt;</mo><mn>18</mn><mo stretchy="false">)</mo></mrow><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>x</mi><mo>&gt;</mo><mn>18</mn><mo stretchy="false">)</mo></mrow></mfrac></math>
-<math><mfrac><mrow><mo stretchy="false">(</mo><mn>25</mn><mo>−</mo><mn>21</mn><mo stretchy="false">)</mo></mrow><mrow><mo stretchy="false">(</mo><mn>25</mn><mo>−</mo><mn>18</mn><mo stretchy="false">)</mo></mrow></mfrac></math>
-<math><mrow><mfrac><mrow><mn>700</mn><mo>−</mo><mn>650</mn></mrow><mrow><mn>700</mn><mo>−</mo><mn>300</mn></mrow></mfrac><mo>=</mo><mfrac><mn>50</mn><mn>400</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow></math>
-<math><mfrac><mtext>width</mtext><mrow><mtext>700</mtext><mo>−</mo><mtext>300</mtext></mrow></mfrac></math>
-<math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>T</mi><mo>&lt;</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mn>1</mn><mo>−</mo><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mi>t</mi><mi>8</mi></mfrac></mrow></msup></mrow></math>
-<math><mrow><mo>=</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>–</mo><msup><mi>e</mi><mrow><mo>–</mo><mfrac><mn>1</mn><mn>8</mn></mfrac><mo>*</mo><mn>10</mn></mrow></msup></mrow><mo>)</mo></mrow><mo>–</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>–</mo><msup><mi>e</mi><mrow><mo>–</mo><mfrac><mn>1</mn><mn>8</mn></mfrac><mo>*</mo><mn>6</mn></mrow></msup></mrow><mo>)</mo></mrow></mrow></math>
-<math><mrow><mo>–</mo><mfrac><mi>t</mi><mn>8</mn></mfrac></mrow></math>
-<math><mrow><mfrac><mrow><mi>ln</mi><mtext>(area_to_the_right)</mtext></mrow><mrow><mtext>(</mtext><mo>–</mo><mtext>m)</mtext></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>ln</mi><mtext>(1</mtext><mo>–</mo><mn>0.2</mn><mo stretchy="false">)</mo></mrow><mrow><mo>–</mo><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow></mfrac></mrow></math>
-<math><mfrac><mrow><msup><mn>3</mn><mn>0</mn></msup><msup><mi>e</mi><mrow><mo>–</mo><mn>3</mn></mrow></msup></mrow><mrow><mn>0</mn><mtext>!</mtext></mrow></mfrac></math>
-<math><mfrac><mn>100</mn><mn>9</mn></mfrac></math>
-<math><mrow><mn>1</mn><mo>−</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>−</mo><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mn>20</mn><mn>9</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow><mo>≈</mo><mn>0.1084.</mn></mrow></math>
-<math><mrow><msup><mrow><mo>(</mo><mfrac><mn>8</mn><mn>9</mn></mfrac><mo>)</mo></mrow><mn>20</mn></msup><mo>≈</mo><mn>0.0948</mn></mrow></math>
-<math><mrow><mn>1</mn><mo>−</mo><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mn>2</mn><mn>7</mn></mfrac></mrow></msup></mrow></math>
-<math><mrow><mn>1</mn><mo>−</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>−</mo><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mn>5</mn><mn>7</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow><mo>=</mo><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mn>5</mn><mn>7</mn></mfrac></mrow></msup><mo>≈</mo><mn>0.4895</mn></mrow></math>
-<math><mrow><mo>(</mo><mfrac><mn>30</mn><mn>7</mn></mfrac><mo>)</mo></mrow></math>
-<math><mrow><mo>(</mo><mrow><mtext>4</mtext><mtext>.59, </mtext><mfrac><mn>16</mn><mn>0.10</mn></mfrac></mrow><mo>)</mo></mrow></math>
-<math><mfrac><mn>1</mn><mn>4</mn></mfrac></math>
-<math><mfrac><mn>3</mn><mn>4</mn></mfrac></math>
-<math><mrow><mi>n</mi><mo>!</mo><mo>=</mo><mi>n</mi><mo>(</mo><mi>n</mi><mo>−</mo><mn>1</mn><mo>)</mo><mo>(</mo><mi>n</mi><mo>−</mo><mn>2</mn><mo>)</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>(</mo><mn>1</mn><mo>)</mo><mtext>&lt;mtext/&gt;</mtext></mrow></math>
-<math><mrow><mrow><mo>(</mo><mtable columnalign="left"><mtr><mtd><mi>n</mi></mtd></mtr><mtr><mtd><mi>r</mi></mtd></mtr></mtable><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>n</mi><mo>!</mo></mrow><mrow><mo stretchy="false">(</mo><mi>n</mi><mo>−</mo><mi>r</mi><mo stretchy="false">)</mo><mo>!</mo><mi>r</mi><mo>!</mo></mrow></mfrac></mrow></math>
-<math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>X</mi><mo>=</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mrow><mo>(</mo><mtable><mtr><mtd><mi>n</mi></mtd></mtr><mtr><mtd><mi>x</mi></mtd></mtr></mtable><mo>)</mo></mrow><msup><mi>p</mi><mi>x</mi></msup><msup><mi>q</mi><mrow><mi>n</mi><mo>−</mo><mi>x</mi></mrow></msup></mrow></math>
-<math><mrow><mi>X</mi><mspace width="2px"></mspace><mo>~</mo><mspace width="2px"></mspace><mi>G</mi><mo stretchy="false">(</mo><mi>p</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mi>x</mi><mo>=</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo></mrow></math>
-<math><mrow><mi>P</mi><mtext>(</mtext><mi>X</mi><mo>=</mo><mi>x</mi><mtext>)</mtext><mo>=</mo><mrow><mo>(</mo><mfrac><mrow><mrow><mo>(</mo><mfrac linethickness="0"><mi>r</mi><mi>x</mi></mfrac><mo>)</mo></mrow><mrow><mo>(</mo><mfrac linethickness="0"><mi>b</mi><mrow><mi>n</mi><mo>−</mo><mi>x</mi></mrow></mfrac><mo>)</mo></mrow></mrow><mrow><mo>(</mo><mfrac linethickness="0"><mrow><mi>r</mi><mo>+</mo><mi>b</mi></mrow><mi>n</mi></mfrac><mo>)</mo></mrow></mfrac><mo>)</mo></mrow></mrow></math>
-<math><mrow><mi>P</mi><mtext>(</mtext><mi>X</mi><mo>=</mo><mi>x</mi><mtext>)</mtext><mo>=</mo><mfrac><mrow><msup><mi>μ</mi><mi>x</mi></msup><msup><mi>e</mi><mrow><mo>−</mo><mi>μ</mi></mrow></msup></mrow><mrow><mi>x</mi><mo>!</mo></mrow></mfrac></mrow></math>
-<math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mrow><mi>b</mi><mo>−</mo><mi>a</mi></mrow></mfrac></mrow></math>
-<math><mrow><mi>X</mi><mspace width="2px"></mspace><mo>~</mo><mspace width="2px"></mspace><mi>E</mi><mi>x</mi><mi>p</mi><mo stretchy="false">(</mo><mi>m</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mi>X</mi><mspace width="2px"></mspace><mo>~</mo><mspace width="2px"></mspace><mi>N</mi><mo stretchy="false">(</mo><mi>μ</mi><mo>,</mo><msup><mi>σ</mi><mn>2</mn></msup><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mspace width="12pt"></mspace><mo>–</mo><mi>∞</mi><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mi>∞</mi></mrow></math>
-<math><mrow><mi>z</mi><mo>&gt;</mo><mi>0</mi></mrow></math>
-<math><mrow><mi>Γ</mi><mo>(</mo><mi>m</mi><mo>+</mo><mn>1</mn><mo>)</mo><mo>=</mo><mi>m</mi><mo>!</mo></mrow></math>
-<math><mrow><mi>Γ</mi><mo stretchy="false">(</mo><mi>a</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo><mo>=</mo><mi>a</mi><mi>Γ</mi><mo stretchy="false">(</mo><mi>a</mi><mo stretchy="false">)</mo></mrow></math>
-<math><mrow><mi>f</mi><mtext>(</mtext><mi>x</mi><mtext>)</mtext><mo>=</mo><mfrac><mrow><msup><mrow><mo>(</mo><mrow><mn>1</mn><mo>+</mo><mfrac><msup><mi>x</mi><mn>2</mn></msup><mi>n</mi></mfrac></mrow><mo>)</mo></mrow><mfrac><mrow><mo>−</mo><mo>(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mn>2</mn></mfrac></msup><mi>Γ</mi><mrow><mo>(</mo><mfrac><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mn>2</mn></mfrac><mo>)</mo></mrow></mrow><mrow><msqrt><mi>nπ</mi></msqrt><mi>Γ</mi><mrow><mo>(</mo><mfrac><mi>n</mi><mn>2</mn></mfrac><mo>)</mo></mrow></mrow></mfrac></mrow></math>
-<math><mrow><mi>Z</mi><mspace width="2px"></mspace><mo>~</mo><mspace width="2px"></mspace><mi>N</mi><mo stretchy="false">(</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo stretchy="false">),</mo><mspace width="2px"></mspace><mi>Y</mi><mspace width="2px"></mspace><mo>~</mo><mspace width="2px"></mspace><msubsup><mi>Χ</mi><mrow><mi>d</mi><mi>f</mi></mrow><mn>2</mn></msubsup></mrow></math>
-<math><mrow><mi>X</mi><mspace width="2px"></mspace><mo>~</mo><mspace width="2px"></mspace><msubsup><mi>Χ</mi><mrow><mi>d</mi><mi>f</mi></mrow><mn>2</mn></msubsup></mrow></math>
-<math><mrow><mi>x</mi><mo>&gt;</mo><mi>0</mi></mrow></math>
-<math><mrow><mi>d</mi><mi>f</mi><mo stretchy="false">(</mo><mi>n</mi><mo stretchy="false">)</mo><mspace width="2px"></mspace><mo>=</mo><mspace width="2px"></mspace></mrow></math>
-<math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mi>Γ</mi><mo stretchy="false">(</mo><mfrac><mrow><mi>u</mi><mo>+</mo><mi>v</mi></mrow><mn>2</mn></mfrac><mo stretchy="false">)</mo></mrow><mrow><mi>Γ</mi><mo stretchy="false">(</mo><mfrac><mi>u</mi><mn>2</mn></mfrac><mo stretchy="false">)</mo><mi>Γ</mi><mo stretchy="false">(</mo><mfrac><mi>v</mi><mn>2</mn></mfrac><mo stretchy="false">)</mo></mrow></mfrac><msup><mrow><mo stretchy="false">(</mo><mfrac><mi>u</mi><mi>v</mi></mfrac><mo stretchy="false">)</mo></mrow><mfrac><mi>u</mi><mn>2</mn></mfrac></msup><msup><mi>x</mi><mrow><mo stretchy="false">(</mo><mfrac><mi>u</mi><mn>2</mn></mfrac><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo></mrow></msup><mo stretchy="false">[</mo><mn>1</mn><mo>+</mo><mo stretchy="false">(</mo><mfrac><mi>u</mi><mi>v</mi></mfrac><mo stretchy="false">)</mo><msup><mi>x</mi><mrow><mo>−</mo><mn>0.5</mn><mo stretchy="false">(</mo><mi>u</mi><mo>+</mo><mi>v</mi><mo stretchy="false">)</mo></mrow></msup><mo stretchy="false">]</mo></mrow></math>
-<math><mi>Y</mi></math>
-<math><msqrt><mtable><mtr><mtd><mtext>  </mtext></mtd></mtr><mtr><mtd><mtext>      </mtext></mtd></mtr></mtable></msqrt></math>
+<math><mrow><mi>z</mi><mo>=</mo><mfrac><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mover accent="true"><mi>x</mi><mo stretchy="true">¯</mo></mover><mtext>)</mtext></mrow><mi>s</mi></mfrac></mrow></math>
+<math><mover accent="true"><mi>X</mi><mo>¯</mo></mover></math>
+<math><mover accent="true"><mi>x</mi><mo>¯</mo></mover></math>
+<math><mrow><mi>N</mi><mo stretchy="false">(</mo><mn>7.24</mn><mo>,</mo><mn>1.93</mn><mo stretchy="false">)</mo></mrow></math>
+<math><mrow><mover accent="true"><mi>x</mi><mo>¯</mo></mover><mo>=</mo></mrow></math>
+<math><msubsup><mi>σ</mi><mn>2</mn><mn>2</mn></msubsup></math>
+<math><msubsup><mi>s</mi><mn>2</mn><mn>2</mn></msubsup></math>
+<math><mrow><msubsup><mi>σ</mi><mn>1</mn><mn>2</mn></msubsup><mo>=</mo><msubsup><mi>σ</mi><mn>2</mn><mn>2</mn></msubsup></mrow></math>
+<math><mfrac><msup><mrow><mo stretchy="false">(</mo><msub><mi>s</mi><mn>2</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup><msup><mrow><mo stretchy="false">(</mo><msub><mi>s</mi><mn>1</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mfrac></math>
+<math><mfrac><msup><mrow><mo stretchy="false">(</mo><msub><mi>s</mi><mn>1</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup><msup><mrow><mo stretchy="false">(</mo><msub><mi>s</mi><mn>2</mn></msub><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mfrac></math>
+<math><mrow><mtext>(</mtext><msubsup><mi>σ</mi><mtext>1</mtext><mtext>2</mtext></msubsup><mtext> = </mtext><msubsup><mi>σ</mi><mtext>2</mtext><mtext>2</mtext></msubsup><mtext>)</mtext></mrow></math>
+<math><msqrt><mo>(</mo><mn>52.3</mn><mo>)</mo></msqrt></math>
+<math><mo>&lt;</mo></math>
+<math><mfrac><mn>1</mn><mn>3</mn></mfrac></math>
+<math><mfrac><mn>3.5</mn><mn>7</mn></mfrac></math>
+<math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow></math>
+<math><mfrac><mn>15</mn><mn>32</mn></mfrac></math>
+<math><mfrac><mn>2</mn><mn>3</mn></mfrac></math>
+<math><mrow><mfrac><mn>1</mn><mrow><mn>25</mn><mo>−</mo><mn>16</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>9</mn></mfrac></mrow></math>
+<math><mfrac><mn>6</mn><mn>9</mn></mfrac></math>
+<math><mfrac><mn>1</mn><mrow><mo stretchy="false">(</mo><mn>25</mn><mo>−</mo><mn>18</mn><mo stretchy="false">)</mo></mrow></mfrac></math>
+<math><mrow><mo>(</mo><mfrac><mn>1</mn><mn>7</mn></mfrac><mo>)</mo></mrow></math>
+<math><mfrac><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>x</mi><mo>&gt;</mo><mn>21</mn><mo stretchy="false">)</mo></mrow><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>x</mi><mo>&gt;</mo><mn>18</mn><mo stretchy="false">)</mo></mrow></mfrac></math>
+<math><mfrac><mn>4</mn><mn>7</mn></mfrac></math>
+<math><mrow><mfrac><mrow><mn>650</mn><mo>−</mo><mn>400</mn></mrow><mrow><mn>700</mn><mo>−</mo><mn>300</mn></mrow></mfrac><mo>=</mo><mfrac><mn>250</mn><mn>400</mn></mfrac></mrow></math>
+<math><mrow><mo>(</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>)</mo></mrow></math>
+<math><mrow><mo>–</mo><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow></math>
+<math><mrow><mo>=</mo><mi>P</mi><mo stretchy="false">(</mo><mi>T</mi><mo>&gt;</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mn>1</mn><mo>–</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>–</mo><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mi>t</mi><mn>8</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow><mo>=</mo><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mi>t</mi><mn>8</mn></mfrac></mrow></msup><mo>.</mo></mrow></math>
+<math><mrow><mfrac><mrow><mi>l</mi><mi>n</mi><mtext>(area_to_the_right)</mtext></mrow><mrow><mo stretchy="false">(</mo><mo>–</mo><mi>m</mi><mo stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>l</mi><mi>n</mi><mtext>(0</mtext><mtext>.70)</mtext></mrow><mrow><mo>–</mo><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow></mfrac><mo>≈</mo><mn>2.</mn><mtext>85 years</mtext></mrow></math>
+<math><mrow><mn>1</mn><mo>–</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>–</mo><msup><mi>e</mi><mrow><mo>–</mo><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow><mo>=</mo><msup><mi>e</mi><mrow><mo>–</mo><mfrac><mn>1</mn><mn>8</mn></mfrac></mrow></msup><mo>≈</mo><mn>0.8825</mn></mrow></math>
+<math><mfrac><mn>1</mn><mi>μ</mi></mfrac></math>
+<math><mrow><mi>P</mi><mrow><mo>(</mo><mrow><mi>X</mi><mo>&lt;</mo><mi>x</mi></mrow><mo>)</mo></mrow><mo>=</mo><mn>1</mn><mo>−</mo><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mi>x</mi><mn>9</mn></mfrac></mrow></msup></mrow></math>
+<math><mfrac><mn>8</mn><mn>9</mn></mfrac></math>
+<math><mrow><mn>1</mn><mo>−</mo><msup><mi>e</mi><mfrac><mi>t</mi><mn>7</mn></mfrac></msup></mrow></math>
+<math><mrow><mn>1</mn><mo>−</mo><mi>P</mi><mrow><mo>(</mo><mrow><mi>T</mi><mo>&lt;</mo><mn>15</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>1</mn><mo>−</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>−</mo><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mn>15</mn><mn>7</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow><mo>≈</mo><msup><mi>e</mi><mrow><mo>−</mo><mfrac><mn>15</mn><mn>7</mn></mfrac></mrow></msup><mo>≈</mo><mn>0.1173</mn></mrow></math>
+<math><mfrac><mn>30</mn><mn>7</mn></mfrac></math>
+<math><mrow><mo>(</mo><mrow><mtext>4</mtext><mtext>.59, </mtext><mfrac><mn>0.10</mn><msqrt><mn>16</mn></msqrt></mfrac></mrow><mo>)</mo></mrow></math>
+<math><mrow><mo>(</mo><mrow><mtext>4</mtext><mtext>.59, </mtext><mfrac><msqrt><mn>16</mn></msqrt><mn>0.10</mn></mfrac></mrow><mo>)</mo></mrow></math>
+<math><mfrac><mn>1</mn><mn>2</mn></mfrac></math>
+<math><mfrac><mn>3</mn><mn>8</mn></mfrac></math>
+<math><mrow><mn>0</mn><mo>!</mo><mo>=</mo><mn>1</mn><mtext>&lt;mtext/&gt;</mtext></mrow></math>
+<math><mrow><mi>x</mi><mo>=</mo><mn>0</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mo>.</mo><mo>.</mo><mo>.</mo><mo>,</mo><mi>n</mi></mrow></math>
+<math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>X</mi><mo>=</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><msup><mi>q</mi><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup><mi>p</mi></mrow></math>
+<math><mrow><mi>X</mi><mspace width="2px"></mspace><mo>~</mo><mspace width="2px"></mspace><mi>H</mi><mo stretchy="false">(</mo><mi>r</mi><mo>,</mo><mi>b</mi><mo>,</mo><mi>n</mi><mo stretchy="false">)</mo></mrow></math>
+<math><mrow><mi>X</mi><mspace width="2px"></mspace><mo>~</mo><mspace width="2px"></mspace><mi>P</mi><mo stretchy="false">(</mo><mi>μ</mi><mo stretchy="false">)</mo></mrow></math>
+<math><mrow><mi>X</mi><mspace width="2px"></mspace><mo>~</mo><mspace width="2px"></mspace><mi>U</mi><mo stretchy="false">(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo stretchy="false">)</mo></mrow></math>
+<math><mrow><mi>a</mi><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mi>b</mi></mrow></math>
+<math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mi>m</mi><msup><mi>e</mi><mrow><mo>−</mo><mi>m</mi><mi>x</mi></mrow></msup><mi>m</mi><mo>&gt;</mo><mn>0</mn><mo>,</mo><mi>x</mi><mo>≥</mo><mn>0</mn></mrow></math>
+<math><mrow><mi>f</mi><mtext>(</mtext><mi>x</mi><mtext>)</mtext><mo>=</mo><mfrac><mn>1</mn><mrow><mi>σ</mi><msqrt><mn>2</mn><mi>π</mi></msqrt></mrow></mfrac><msup><mi>e</mi><mfrac><msup><mrow><mo>−</mo><mo>(</mo><mi>x</mi><mo>−</mo><mi>μ</mi><mo>)</mo></mrow><mn>2</mn></msup><msup><mrow><mn>2</mn><mi>σ</mi></mrow><mn>2</mn></msup></mfrac></msup></mrow></math>
+<math><mrow><mi>Γ</mi><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo><mo>=</mo><munderover><msup><mo>∫</mo><mtext>​</mtext></msup><mi>∞</mi><mn>0</mn></munderover><msup><mi>x</mi><mrow><mi>z</mi><mo>−</mo><mn>1</mn></mrow></msup><msup><mi>e</mi><mrow><mo>−</mo><mi>x</mi></mrow></msup><mi>d</mi><mi>x</mi></mrow></math>
+<math><mrow><mi>Γ</mi><mo>(</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>)</mo><mo>=</mo><msqrt><mi>π</mi></msqrt><mi>&lt;mi/&gt;</mi></mrow></math>
+<math><mi>m</mi></math>
+<math><mrow><mi>X</mi><mspace width="2px"></mspace><mo>~</mo><mspace width="2px"></mspace><msub><mi>t</mi><mrow><mi>d</mi><mi>f</mi></mrow></msub></mrow></math>
+<math><mrow><mi>X</mi><mo>=</mo><mfrac><mi>Z</mi><msqrt><mfrac><mi>Y</mi><mi>n</mi></mfrac></msqrt></mfrac></mrow></math>
+<math><mi>n</mi></math>
+<math><mrow><mi>f</mi><mtext>(</mtext><mi>x</mi><mtext>)</mtext><mo>=</mo><mfrac><mrow><msup><mi>x</mi><mfrac><mrow><mi>n</mi><mo>−</mo><mn>2</mn></mrow><mn>2</mn></mfrac></msup><msup><mi>e</mi><mfrac><mrow><mo>−</mo><mi>x</mi></mrow><mn>2</mn></mfrac></msup></mrow><mrow><msup><mn>2</mn><mfrac><mi>n</mi><mn>2</mn></mfrac></msup><mi>Γ</mi><mrow><mo>(</mo><mfrac><mi>n</mi><mn>2</mn></mfrac><mo>)</mo></mrow></mrow></mfrac></mrow></math>
+<math><mrow><mi>X</mi><mspace width="2px"></mspace><mo>~</mo><mspace width="2px"></mspace><msub><mi>F</mi><mrow><mi>d</mi><mi>f</mi><mo stretchy="false">(</mo><mi>n</mi><mo stretchy="false">)</mo><mo>,</mo><mi>d</mi><mi>f</mi><mo stretchy="false">(</mo><mi>d</mi><mo stretchy="false">)</mo></mrow></msub></mrow></math>
+<math><mrow><mi>d</mi><mi>f</mi><mo stretchy="false">(</mo><mi>d</mi><mo stretchy="false">)</mo><mspace width="2px"></mspace><mo>=</mo><mspace width="2px"></mspace></mrow></math>
+<math><mrow><mi>X</mi><mo>=</mo><mfrac><msub><mi>Y</mi><mi>u</mi></msub><msub><mi>W</mi><mi>v</mi></msub></mfrac></mrow></math>
+<math><mi>W</mi></math>
 <math><mi>μ</mi></math>
 <math><msubsup><mi>s</mi><mi>x</mi><mn>2</mn></msubsup></math>
 <math><msub><mi>σ</mi><mi>x</mi></msub></math>
@@ -118,3 +116,5 @@
 <math><mrow><mfrac><mtext>36,648,561</mtext><mtext>4</mtext></mfrac><mtext> = 9,162,140</mtext></mrow></math>
 <math><mrow><mfrac><mtext>20,446,726</mtext><mtext>10</mtext></mfrac><mtext> = 2,044,672</mtext><mtext>.6</mtext></mrow></math>
 <math><mrow><msub><mi>s</mi><mover accent="true"><mi>x</mi><mo>¯</mo></mover></msub><msup><mrow/><mn>2</mn></msup></mrow></math>
+<math><mrow><mi>F</mi><mo>=</mo><mfrac><mrow><mi>M</mi><msub><mi>S</mi><mtext>between</mtext></msub></mrow><mrow><mi>M</mi><msub><mi>S</mi><mtext>within</mtext></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>n</mi><msub><mi>s</mi><mover accent="true"><mi>x</mi><mo>¯</mo></mover></msub><msup><mrow/><mn>2</mn></msup></mrow><mrow><msup><mi>s</mi><mn>2</mn></msup><msub><mrow/><mrow><mi>p</mi><mi>o</mi><mi>o</mi><mi>l</mi><mi>e</mi><mi>d</mi></mrow></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mo stretchy="false">(</mo><mn>5</mn><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>0.413</mn><mo stretchy="false">)</mo></mrow><mn>15.433</mn></mfrac><mo>=</mo><mn>0.134</mn><mtext>.</mtext></mrow></math>
+<math><mrow><mi>p</mi><mo>′</mo><mtext> = </mtext><mfrac><mi>x</mi><mi>n</mi></mfrac></mrow></math>

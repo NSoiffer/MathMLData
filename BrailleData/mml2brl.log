@@ -1,0 +1,44 @@
+File: ..\SimpleSpeakData\highschool\Trigonometry-no-dups.mmls -> UEB on line 14
+MathML:
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>S</mi><mi>I</mi><msup><mi>N</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mo>,</mo><mtext> </mtext><mi>C</mi><mi>O</mi><msup><mi>S</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mn>1</mn></mrow></msup><mtext>,</mtext></math>
+
+Error: MathCAT crash! Please report the following information: 'is_changed_after_unmarking_chemistry: error no preceding children to merge. mathml=
+ <msup>
+  <mi data-maybe-chemistry='1' mathvariant='normal' data-split='true'>SIN</mi>
+  <mrow data-mjx-texclass='ORD'>
+    <mo>-</mo>
+    <mn>1</mn>
+  </mrow>
+ </msup>
+' at C:\Users\neils\MathCAT\src\chemistry.rs:595:0
+
+------------------------------------------------------------
+ERROR:mml2brl:File: ..\SimpleSpeakData\highschool\Trigonometry-no-dups.mmls -> UEB on line 14
+MathML:
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>S</mi><mi>I</mi><msup><mi>N</mi><mrow data-mjx-texclass="ORD"><mo>\u2212</mo><mn>1</mn></mrow></msup><mo>,</mo><mtext>�</mtext><mi>C</mi><mi>O</mi><msup><mi>S</mi><mrow data-mjx-texclass="ORD"><mo>\u2212</mo><mn>1</mn></mrow></msup><mtext>,</mtext></math>
+
+Error: MathCAT crash! Please report the following information: 'is_changed_after_unmarking_chemistry: error no preceding children to merge. mathml=
+ <msup>
+  <mi data-maybe-chemistry='1' mathvariant='normal' data-split='true'>SIN</mi>
+  <mrow data-mjx-texclass='ORD'>
+    <mo>-</mo>
+    <mn>1</mn>
+  </mrow>
+ </msup>
+' at C:\Users\neils\MathCAT\src\chemistry.rs:595:0
+
+------------------------------------------------------------
+File: ..\SimpleSpeakData\highschool\Algebra and Trigonometry 2e-no-dups.mmls -> UEB on line 8965
+MathML:
+<math><mrow><mi>β</mi><mo>=</mo><mn>50°</mn><mo>,</mo><mi>a</mi><mo>=</mo><mn>105</mn><mo>,</mo><mi>b</mi><mo>=</mo><mn>45</mn><mmultiscripts><mrow/><mprescripts>&lt;mprescripts/&gt;</mprescripts><mrow/><mrow/></mmultiscripts></mrow></math>
+
+Error: MathCAT crash! Please report the following information: 'index out of bounds: the len is 2 but the index is 2' at C:\Users\neils\MathCAT\src\chemistry.rs:830:0
+
+------------------------------------------------------------
+ERROR:mml2brl:File: ..\SimpleSpeakData\highschool\Algebra and Trigonometry 2e-no-dups.mmls -> UEB on line 8965
+MathML:
+<math><mrow><mi>\u03b2</mi><mo>=</mo><mn>50�</mn><mo>,</mo><mi>a</mi><mo>=</mo><mn>105</mn><mo>,</mo><mi>b</mi><mo>=</mo><mn>45</mn><mmultiscripts><mrow/><mprescripts>&lt;mprescripts/&gt;</mprescripts><mrow/><mrow/></mmultiscripts></mrow></math>
+
+Error: MathCAT crash! Please report the following information: 'index out of bounds: the len is 2 but the index is 2' at C:\Users\neils\MathCAT\src\chemistry.rs:830:0
+
+------------------------------------------------------------
