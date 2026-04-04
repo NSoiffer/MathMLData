@@ -1,0 +1,120 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>m</mi><mrow data-mjx-texclass="ORD"><mo>/</mo></mrow><mi>n</mi></mrow></msup></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>c</mi></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mi>a</mi><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>b</mi><mi>x</mi><mo>+</mo><mi>c</mi></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mroot><msup><mi>x</mi><mi>n</mi></msup><mi>n</mi></mroot></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Y</mi><mn>1</mn></msub><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mn>5</mn><mrow><mn>1</mn><mo>+</mo><mn>4</mn><msup><mi>e</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mi>t</mi></mrow></msup></mrow></mfrac></mstyle></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Y</mi><mn>1</mn></msub></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>P</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mrow><mi>K</mi><msub><mi>P</mi><mn>0</mn></msub></mrow><mrow><msub><mi>P</mi><mn>0</mn></msub><mo>+</mo><mo stretchy="false">(</mo><mi>K</mi><mo>−</mo><msub><mi>P</mi><mn>0</mn></msub><mo stretchy="false">)</mo><msup><mi>e</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mi>r</mi><mi>t</mi></mrow></msup></mrow></mfrac></mstyle></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>P</mi><mn>0</mn></msub><mtext>,</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>K</mi></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>P</mi><mn>0</mn></msub><mo>=</mo><mn>1</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>P</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mrow><mn>10</mn><msub><mi>P</mi><mn>0</mn></msub></mrow><mrow><msub><mi>P</mi><mn>0</mn></msub><mo>+</mo><mo stretchy="false">(</mo><mn>10</mn><mo>−</mo><msub><mi>P</mi><mn>0</mn></msub><mo stretchy="false">)</mo><msup><mi>e</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mi>t</mi></mrow></msup></mrow></mfrac></mstyle></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>4</mn><mtext>,</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>P</mi><mn>0</mn></msub></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>r</mi><mo>=</mo><mn>0.5</mn><mtext>,</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2</mn><mtext>.</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><msup><mi>e</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></msup><mtext>,</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>m</mi><mo>=</mo><mo>−</mo><mn>1</mn><mtext>,</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>m</mi></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>s</mi></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2.5</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>s</mi><mo>=</mo><mn>0.5</mn><mtext>,</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1.2</mn><mtext>.</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Xmin</mtext><mo>=</mo><mo>−</mo><mn>2</mn><mtext>,</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Ymin</mtext><mo>=</mo><mo>−</mo><mn>1</mn><mtext>,</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>y</mi><mn>2</mn></msub><mo>=</mo><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo><msup><mi>e</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo></mrow></msup></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>y</mi><mn>1</mn></msub><mtext>?</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>b</mi></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Xmin</mtext><mo>=</mo><mo>−</mo><mn>5</mn><mtext>,</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Ymin</mtext><mo>=</mo><mo>−</mo><mn>20</mn><mtext>,</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>C</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mi>a</mi><mi>b</mi></mfrac></mstyle><mo>−</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mrow><mi>a</mi><mo>−</mo><mi>b</mi></mrow><mi>b</mi></mfrac></mstyle><msup><mi>e</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><mi>b</mi><mi>t</mi></mrow></msup></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>C</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>b</mi><mo>=</mo><mn>0.028</mn><mtext>.</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Xmax</mtext><mo>=</mo><mn>200</mn><mtext>,</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Ymax</mtext><mo>=</mo><mn>1.5</mn><mtext>.</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>log</mi><mn>8</mn></msub><mo data-mjx-texclass="NONE">⁡</mo><mn>20</mn><mtext>.</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>10</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>log</mi><mn>8</mn></msub><mo data-mjx-texclass="NONE">⁡</mo><mn>5</mn><mtext>.</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>Q</mi></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>b</mi><mo>&gt;</mo><mn>1</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>log</mi><mrow data-mjx-texclass="ORD"><mn>10</mn></mrow></msub><mo data-mjx-texclass="NONE">⁡</mo><mi>Q</mi><mtext>.</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>ln</mi><mo data-mjx-texclass="NONE">⁡</mo><mi>Q</mi><mtext>.</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>Y</mi><mn>1</mn></msub><mo>=</mo><mi>log</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo><mo>+</mo><mi>log</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>e</mi><mtext>.</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><msub><mi>log</mi><mn>2</mn></msub><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>log</mi><mn>3</mn></msub><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo stretchy="false">)</mo><mo>−</mo><msub><mi>log</mi><mn>3</mn></msub><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo stretchy="false">)</mo><mo>=</mo><mn>3</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mo>=</mo><mi>P</mi><mo stretchy="false">(</mo><mn>1</mn><mo>+</mo><mi>r</mi><msup><mo stretchy="false">)</mo><mi>n</mi></msup><mtext>.</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mi>a</mi><mi>b</mi><mo data-mjx-texclass="CLOSE">|</mo></mrow><mo>=</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mi>a</mi><mo data-mjx-texclass="CLOSE">|</mo></mrow><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mi>b</mi><mo data-mjx-texclass="CLOSE">|</mo></mrow></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mi>x</mi><mo data-mjx-texclass="CLOSE">|</mo></mrow></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mn>1</mn><msup><mi>x</mi><mn>2</mn></msup></mfrac></mstyle></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mroot><mi>x</mi><mn>3</mn></mroot></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mtext>.</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mi>a</mi><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mi>x</mi><mo>−</mo><mi>a</mi><mo data-mjx-texclass="CLOSE">|</mo></mrow><mtext>.</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi><mi>x</mi><mo>+</mo><mi>b</mi><mo>=</mo><mi>c</mi><mtext> or </mtext><mi>a</mi><mi>x</mi><mo>+</mo><mi>b</mi><mo>=</mo><mo>−</mo><mi>c</mi></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>s</mi><mtext>,</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mi>a</mi><mi>x</mi><mo>+</mo><mi>b</mi><mo data-mjx-texclass="CLOSE">|</mo></mrow><mo>&lt;</mo><mi>c</mi></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mi>a</mi><mi>x</mi><mo>+</mo><mi>b</mi><mo data-mjx-texclass="CLOSE">|</mo></mrow><mo>&gt;</mo><mi>c</mi></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>&gt;</mo><mi>s</mi><mtext>.</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">(</mo><mn>7</mn><mi>x</mi><mo>−</mo><mn>1</mn><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>=</mo><mn>15</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mrow><mn>2</mn><mi>p</mi></mrow><mn>5</mn></mfrac></mstyle><mo data-mjx-texclass="CLOSE">)</mo></mrow><mn>2</mn></msup><mo>=</mo><mo>−</mo><mn>3</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>V</mi><mo>=</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mn>4</mn><mn>3</mn></mfrac></mstyle><mi>π</mi><msup><mi>r</mi><mn>3</mn></msup><mtext>,</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2464.20</mn><mtext>.</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>6474.74</mn><mtext>.</mtext></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true" scriptlevel="0"><mfrac><mn>1</mn><mrow><mn>1</mn><mo>−</mo><mi>t</mi></mrow></mfrac></mstyle><mo>=</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mn>2</mn><mn>3</mn></mfrac></mstyle></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>15</mn><mo>=</mo><mn>3</mn><msqrt><mi>w</mi><mo>+</mo><mn>1</mn></msqrt></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>5</mn><msup><mi>s</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mo>=</mo><mn>3</mn><msup><mi>s</mi><mn>2</mn></msup><mo>+</mo><mn>31</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>54</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>12</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mo>−</mo><mn>2</mn><mo>⋅</mo><mo stretchy="false">(</mo><mn>3</mn><mo>−</mo><mn>18</mn><mo stretchy="false">)</mo><mo data-mjx-texclass="CLOSE">|</mo></mrow></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mo>−</mo><mn>2</mn><mo>⋅</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mn>3</mn><mo>−</mo><mn>18</mn><mo data-mjx-texclass="CLOSE">|</mo></mrow></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mi>x</mi><mn>2</mn></mfrac></mstyle><mo>−</mo><mn>1</mn><mo data-mjx-texclass="CLOSE">|</mo></mrow><mo>=</mo><mn>2</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mi>x</mi><mn>2</mn></mfrac></mstyle><mo>−</mo><mn>1</mn><mo data-mjx-texclass="CLOSE">|</mo></mrow><mo>≥</mo><mn>2</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true" scriptlevel="0"><mfrac><mrow><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup></mrow><mn>2</mn></mfrac></mstyle><mo>+</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>=</mo><mo>−</mo><mn>3</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true" scriptlevel="0"><mfrac><mrow><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup></mrow><mn>2</mn></mfrac></mstyle><mo>+</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>≤</mo><mo>−</mo><mn>3</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2</mn><mo>=</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mn>6</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></mstyle></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2</mn><mo>&lt;</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mn>6</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></mstyle></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>8</mn><mo>=</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo data-mjx-texclass="CLOSE">|</mo></mrow></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>8</mn><mo>&lt;</mo><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo data-mjx-texclass="CLOSE">|</mo></mrow></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>F</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mn>1</mn><mi>t</mi></mfrac></mstyle><mo>−</mo><mn>2</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>g</mi><mo stretchy="false">(</mo><mi>u</mi><mo stretchy="false">)</mo><mo>=</mo><msqrt><mi>u</mi><mo>+</mo><mn>2</mn></msqrt><mo>−</mo><mn>3</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>H</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mn>1</mn><mrow><mo stretchy="false">(</mo><mi>t</mi><mo>−</mo><mn>2</mn><msup><mo stretchy="false">)</mo><mn>2</mn></msup></mrow></mfrac></mstyle><mo>+</mo><mn>3</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>H</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mn>1</mn><mn>2</mn></mfrac></mstyle><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mi>s</mi><mo data-mjx-texclass="CLOSE">|</mo></mrow></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>3</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>5</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>243</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>27</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>6</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mo>−</mo><mn>243</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mo>−</mo><mn>27</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mo>−</mo><mn>3</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>57</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>273</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>297</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>24</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>16</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>48</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>32</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>70</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>62</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>38</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>8</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>30</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>40</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>75</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>140</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>240</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>340</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0.2</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>0.4</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>95</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>55</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>7.1</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>4.3</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mn>37</mn></math>
+<math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>66</mn><mrow data-mjx-texclass="ORD"><mo>∘</mo></mrow></msup></math>
