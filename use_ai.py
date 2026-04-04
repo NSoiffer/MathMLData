@@ -1469,9 +1469,9 @@ Note:
     if ai_provider == "gemini":
         # model = "gemini-2.5-flash"   # for quick testings
         model = "gemini-2.5-pro"
-        model = "gemini-3-pro-preview"
+        # model = "gemini-3.1-pro-preview"
         apiKeyName = "GEMINI_API_KEY"
-        apiKeyName = "GEMINI_PAID_API_KEY"
+        # apiKeyName = "GEMINI_PAID_API_KEY"
     elif ai_provider == "openai":
         model = "gpt-5-mini"
         # model = "gpt-5-nano"  # nano doesn't seem to understand braille instructions
