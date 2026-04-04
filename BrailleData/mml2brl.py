@@ -105,7 +105,7 @@ def ProcessFile(file_name: str, dest_dir: str, config: dict[str, str | bool]):
                     print(f"Error in {file_path} -> {brailleCode} on line {i+1}: see mml2brl.log for details")
                     out_stream.write("⠀\n")   # write something to the output file to keep the line count aligned
                     debug_logger.error(
-                        f"File: {file_path} -> {brailleCode} on line {i+1}\nMathML:\n{line}\nError: {e}\n{'-'*60}"
+                        f"File: {file_path} -> {brailleCode} on line {i+1}\nMathML:\n{line.rstrip()}\nError: {e}\n{'-'*60}"
                     )
                     # Continue processing the rest of the file
                     continue
