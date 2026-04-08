@@ -16,6 +16,8 @@ def process_files(filenames):
                     # Stop processing if we hit the specific section header
                     if line.startswith("# Normalized MathML") or line.startswith("Normalized MathML"):
                         is_to_mathml = True
+                        remaining_content = f.read()
+                        bad_mathml_count = remaining_content.count('<--bad MathML-->')
                         break
 
                     # Check the first character of the line
@@ -25,8 +27,6 @@ def process_files(filenames):
                             not_table_check_count += 1
                     elif line.startswith("✗"):
                         cross_count += 1
-                        if line.find("Bad MathML") != -1:
-                            bad_mathml_count += 1
                         if line.find("</mtable>") == -1:
                             not_table_cross_count += 1
 
@@ -41,10 +41,10 @@ def process_files(filenames):
                     not_table_percentage = int((not_table_check_count / not_table_total) * 100)
 
                 # Print: File Name, Count of ✓, Total (✓+✗), Percentage
-                bad_mml_str = f", bad MML: {bad_mathml_count}" if is_to_mathml else ""
+                bad_mml_str = f"bad MML: {bad_mathml_count}" if is_to_mathml else ""
                 print(
                     f"{percentage}%: {check_count}/{total}, "
-                    f"not table: {not_table_percentage}% {not_table_check_count}/{not_table_total} "
+                    # f"not table: {not_table_percentage}% {not_table_check_count}/{not_table_total} "
                     f"{bad_mml_str} ({filename})"
                 )
 
