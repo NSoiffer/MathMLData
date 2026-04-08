@@ -422,6 +422,7 @@ def generate_with_retry_gemini(
             parts=[types.Part.from_text(text=numbered_tests)]
         )
 
+        is_gemma = "gemma" in config.model.lower()
         gemini_config = types.GenerateContentConfig(
             safety_settings=[
                 types.SafetySetting(
@@ -430,6 +431,7 @@ def generate_with_retry_gemini(
                 )
             ],
             temperature=0.0,
+            max_output_tokens=4096 if is_gemma else None,
         )
         if gemini_cache_id:
             gemini_config.cached_content = gemini_cache_id
@@ -460,8 +462,11 @@ def generate_with_retry_gemini(
         run_info: str,
         indent: str
     ) -> tuple[bool, str | None]:
-        if "503" in str(e) or "UNAVAILABLE" in str(e):
+        err = str(e)
+        if "503" in err or "UNAVAILABLE" in err:
             return True, f"[!] 503 Unavailable (Attempt {attempt}/{max_retries}) {run_info}."
+        if "499" in err or "CANCELLED" in err:
+            return True, f"[!] 499 Cancelled (Attempt {attempt}/{max_retries}) {run_info}."
         return False, None
 
     return _generate_with_retry_common(
@@ -1469,13 +1474,14 @@ Note:
     if ai_provider == "gemini":
         # model = "gemini-2.5-flash"   # for quick testings
         model = "gemini-2.5-pro"
+        model = "gemma-4-31b-it"
         # model = "gemini-3.1-pro-preview"
         apiKeyName = "GEMINI_API_KEY"
         # apiKeyName = "GEMINI_PAID_API_KEY"
     elif ai_provider == "openai":
         model = "gpt-5-mini"
         # model = "gpt-5-nano"  # nano doesn't seem to understand braille instructions
-        model = "gpt-5.2"
+        model = "gpt-5.4"
         apiKeyName = "OPENAI_API_KEY"
     else:
         raise ValueError(f"Unknown AI provider: {ai_provider}")
