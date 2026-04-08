@@ -58,7 +58,7 @@ def build_config_from_cli(provider: str, ai_service_tier: str) -> ModelConfig:
 
         config = ModelConfig(
             provider="openai",
-            model="gpt-5.2",                     # generation model
+            model="gpt-5.4",                     # generation model
             embedding_model="text-embedding-3-large",  # embeddings model
             openai_api_key=api_key,
             service_tier=service_tier,
@@ -78,7 +78,7 @@ def build_config_from_cli(provider: str, ai_service_tier: str) -> ModelConfig:
 
         config = ModelConfig(
             provider="azure",
-            model="gpt-5.2",                 # your Azure *generation* deployment
+            model="gpt-5.4",                 # your Azure *generation* deployment
             embedding_model="text-embedding-3-large-deployment",  # your Azure *embedding* deployment
             azure_api_key=api_key,
             azure_endpoint=endpoint,

@@ -78,6 +78,7 @@ def load_tests_triple(
         ueb = [line.strip() for line in f_u if line.strip()]
 
     if not (len(mathml) == len(nemeth) == len(ueb)):
+        print(mathml_path)
         raise ValueError(
             f"Line count mismatch: MathML={len(mathml)}, "
             f"Nemeth={len(nemeth)}, UEB={len(ueb)}"
@@ -1375,7 +1376,7 @@ def run_tests(
             use_mathml=False
         )
     one_based_test_start = test_start + 1 if test_start == 0 else test_start
-    output_path_suffix = f"gpt-5.2-{one_based_test_start}-{one_based_test_start+n_tests-1}-tests.txt"
+    output_path_suffix = f"gpt-5.4-{one_based_test_start}-{one_based_test_start+n_tests-1}-tests.txt"
 
     # ---------------------------------------------------------
     # Translation configurations
