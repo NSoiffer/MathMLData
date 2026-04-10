@@ -1,0 +1,138 @@
+# Configuration:
+#   Braille Code: nemeth
+#   Generate Braille: True
+#   Model: gemini-3.1-pro-preview 
+#   API Key: GEMINI_API_KEY
+#   Batch Size: 40
+#   Number of Examples: 2471
+#   Example Braille File: RustTestData/Nemeth.brls
+#   Example MathML File: RustTestData/Nemeth.mmls
+#   Input Braille Dir: test_data/nemeth.brls
+#   Input MathML Dir: test_data/mathml.mmls
+#
+# 122 items. Usage info: prompt=1295257, candidates=8673, total=1386910, time=35067ms, TPS=4043.2376340366654.2f
+#
+# Match | Test Input | Expected | Computed
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext> </mtext><mtext> </mtext><mtext> </mtext><mstyle displaystyle="true" scriptlevel="0"><mfrac><mrow><mn>3</mn><mi>x</mi></mrow><mn>4</mn></mfrac></mstyle><mo>−</mo><mn>1</mn><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mn>9</mn><mn>2</mn></mfrac></mstyle></math> | ⠿⠹⠒⠭⠌⠲⠼⠤⠂⠀⠨⠅⠀⠼⠆⠭⠬⠹⠔⠌⠆⠼ | ⠿⠿⠿⠹⠒⠭⠌⠲⠼⠤⠂⠀⠨⠅⠀⠼⠆⠭⠬⠹⠔⠌⠆⠼
+✗ | <math><mrow><mi>a</mi><mo>=</mo><mover accent="true"><mi>y</mi><mo>¯</mo></mover><mo>−</mo><mi>b</mi><mover accent="true"><mi>x</mi><mo>¯</mo></mover></mrow></math> | ⠁⠀⠨⠅⠀⠽⠱⠤⠃⠭⠱ | ⠨⠁
+✗ | <math><mi>c</mi></math> | ⠰⠉ | ⠭⠘⠆⠐⠬⠦⠭⠬⠂⠖
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>100</mn></math> | ⠼⠂⠴⠴ | ⠹⠖⠌⠢⠴⠼
+✗ | <math><mrow><msup><mtext>(e</mtext><mn>3</mn></msup><mo>,</mo><mn>3</mn><mo stretchy="false">)</mo><mo>,</mo></mrow></math> | ⠷⠑⠘⠒⠠⠀⠼⠒⠾⠠ | ⠽⠱
+✗ | <math><mtext>800%</mtext></math> | ⠼⠦⠴⠴⠈⠴ | ⠼⠂⠤⠹⠎⠊⠝⠀⠷⠭⠾⠌⠉⠎⠉⠀⠷⠭⠾⠼
+✗ | <math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>⋅</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mtext>.</mtext></mrow></math> | ⠷⠋⠡⠛⠾⠷⠤⠂⠾⠸⠲ | ⠹⠂⠌⠣⠖⠜⠁⠘⠒⠐⠻⠼
+✗ | <math><mfrac><mn>3</mn><mn>100</mn></mfrac></math> | ⠹⠒⠌⠂⠴⠴⠼ | ⠷⠲⠨⠢⠔⠠⠀⠹⠴⠨⠂⠴⠌⠜⠂⠖⠻⠼⠾
+✗ | <math><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mn>3</mn><mo stretchy="false">)</mo></mrow></math> | ⠷⠭⠤⠒⠾ | ⠼⠒⠘⠹⠆⠌⠒⠼⠐⠡⠒⠘⠹⠲⠌⠒⠼
+✗ | <math><mrow><mn>67</mn><mo>.</mo><mn>1775</mn><mo>≤</mo><mo> </mo><mi>μ</mi><mo>≤</mo><mn>68</mn><mo>.</mo><mn>8225</mn></mrow></math> | ⠼⠖⠶⠨⠂⠶⠶⠢⠀⠐⠅⠱⠀⠨⠍⠀⠐⠅⠱⠀⠼⠖⠦⠨⠦⠆⠆⠢ | ⠹⠵⠘⠹⠆⠌⠒⠼⠐⠌⠵⠘⠹⠢⠌⠒⠼⠐⠼
+✗ | <math><mrow><mi>cos</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo>=</mo><mn>0</mn><mtext>,</mtext></mrow></math> | ⠉⠕⠎⠀⠷⠞⠾⠀⠨⠅⠀⠼⠴⠠ | ⠷⠺⠘⠢⠐⠾⠘⠆⠀⠨⠅⠀⠺⠘⠢⠐⠡⠺⠘⠢⠀⠨⠅⠀⠺⠘⠂⠴
+✗ | <math><mrow><mi>r</mi><mo>≈</mo><mn>0</mn></mrow></math> | ⠗⠀⠈⠱⠈⠱⠀⠼⠴ | ⠜⠭⠻
+✗ | <math><mover><mi>p</mi><mo>^</mo></mover></math> | ⠐⠏⠣⠸⠣⠻ | ⠷⠋⠤⠛⠾⠷⠤⠲⠾⠀⠨⠅
+✗ | <math><mn>−125</mn></math> | ⠤⠼⠂⠆⠢ | ⠽⠀⠨⠅⠀⠍⠭⠬⠃⠸⠲
+✗ | <math><mrow><mi>T</mi><mo>,</mo></mrow></math> | ⠰⠠⠞⠠ | ⠨⠁
+✗ | <math><mrow><mi>t</mi><mo>=</mo><mn>3</mn><mtext>,</mtext></mrow></math> | ⠞⠀⠨⠅⠀⠼⠒⠠ | ⠁⠲⠀⠨⠅⠀⠼⠂⠲
+✗ | <math><mrow><mi>A</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">|</mo><mi>x</mi><mo stretchy="false">|</mo><mtext>.</mtext></mrow></math> | ⠠⠁⠷⠭⠾⠀⠨⠅⠀⠳⠭⠳⠸⠲ | ⠼⠒⠖⠸⠌⠆⠂⠖⠀⠨⠅⠀⠼⠴⠨⠂⠖⠶
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true" scriptlevel="0"><msup><mi>t</mi><mrow><mo>−</mo><mn>3</mn><mrow><mo>/</mo></mrow><mn>2</mn></mrow></msup></mstyle></math> | ⠞⠘⠤⠒⠸⠌⠆ | ⠁⠢⠀⠨⠅⠀⠼⠂⠶
+✗ | <math><mrow><msup><mn>4</mn><mn>5</mn></msup><mo>+</mo><msup><mn>3</mn><mn>2</mn></msup></mrow></math> | ⠼⠲⠘⠢⠐⠬⠒⠘⠆ | ⠤⠼⠦
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true" scriptlevel="0"><mi>tan</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>ϕ</mi><mo stretchy="false">)</mo></mstyle></math> | ⠞⠁⠝⠀⠷⠨⠋⠾ | ⠠⠁⠴
+✗ | <math><mrow><mi>E</mi><mi>B</mi><mi>M</mi><mo>=</mo><mtext> </mtext><msub><mi>t</mi><mfrac><mi>α</mi><mn>2</mn></mfrac></msub><mrow><mo>(</mo><mfrac><mi>s</mi><msqrt><mi>n</mi></msqrt></mfrac><mo>)</mo></mrow><mo>=</mo><mrow><mo>(</mo><mn>2.093</mn><mo>)</mo></mrow><mrow><mo>(</mo><mfrac><mn>0.3</mn><msqrt><mn>20</mn></msqrt></mfrac><mo>)</mo></mrow><mo>=</mo><mtext> </mtext><mn>0.140</mn></mrow></math> | ⠠⠑⠠⠃⠠⠍⠀⠨⠅⠀⠞⠰⠹⠨⠁⠌⠆⠼⠐⠷⠹⠎⠌⠜⠝⠻⠼⠾⠀⠨⠅⠀⠷⠆⠨⠴⠔⠒⠾⠷⠹⠴⠨⠒⠌⠜⠆⠴⠻⠼⠾⠀⠨⠅⠀⠼⠴⠨⠂⠲⠴ | ⠼⠒⠘⠲
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Tax</mtext></math> | ⠠⠞⠁⠭ | ⠼⠒⠨
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">(</mo><mo>−</mo><mn>2</mn><mo>,</mo><mn>5</mn><mo stretchy="false">)</mo></math> | ⠷⠤⠆⠠⠀⠢⠾ | ⠃⠈⠡⠭
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>37.9</mn></math> | ⠼⠒⠶⠨⠔ | ⠽⠀⠨⠅⠀⠼⠒⠭⠤⠲
+✗ | <math><mover><mi>q</mi><mo>^</mo></mover></math> | ⠐⠟⠣⠸⠣⠻ | ⠁
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true" scriptlevel="0"><mfrac><mn>1</mn><mn>2</mn></mfrac></mstyle></math> | ⠹⠂⠌⠆⠼ | ⠼⠖⠢⠈⠴
+✗ | <math><mfrac><mn>12</mn><mn>19</mn></mfrac></math> | ⠹⠂⠆⠌⠂⠔⠼ | ⠰⠅⠠
+✗ | <math><mi>b</mi></math> | ⠰⠃ | ⠰⠛⠠
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>32</mn></math> | ⠼⠒⠆ | ⠋⠷⠭⠾⠀⠨⠅⠀⠑⠘⠤⠭⠘⠘⠆⠐⠠
+✗ | <math><mrow><msup><mi>z</mi><mfrac><mn>1</mn><mn>8</mn></mfrac></msup><mo>·</mo><msup><mi>z</mi><mfrac><mn>7</mn><mn>8</mn></mfrac></msup></mrow></math> | ⠵⠘⠹⠂⠌⠦⠼⠐⠡⠵⠘⠹⠶⠌⠦⠼ | ⠋⠬⠛
+✗ | <math><mrow><msub><mi>n</mi><mn>1</mn></msub><mo>+</mo><msub><mi>n</mi><mn>2</mn></msub><mo>−</mo><mn>2</mn></mrow></math> | ⠝⠂⠬⠝⠆⠤⠆ | ⠷⠶⠃⠘⠒⠐⠤⠖⠾⠘⠆
+✗ | <math><mrow><mn>45</mn><mi mathvariant="normal">%</mi></mrow></math> | ⠼⠲⠢⠈⠴ | ⠛⠷⠭⠾⠀⠨⠅⠀⠼⠆⠘⠭⠤⠂⠸⠲
+✗ | <math><mrow><mfrac><mrow><mtext>Party A Surplus Votes </mtext><mo>−</mo><mtext> Party B Surplus Votes</mtext></mrow><mtext>Total Votes</mtext></mfrac><mo>=</mo><mfrac><mrow><mn>9</mn><mo>−</mo><mn>6</mn></mrow><mn>35</mn></mfrac><mo>=</mo><mfrac><mn>3</mn><mn>35</mn></mfrac><mo>≈</mo><mn>0.0857</mn></mrow></math> | ⠹⠠⠏⠁⠗⠞⠽⠀⠰⠠⠁⠀⠠⠎⠥⠗⠏⠇⠥⠎⠀⠠⠧⠕⠞⠑⠎⠀⠤⠀⠠⠏⠁⠗⠞⠽⠀⠰⠠⠃⠀⠠⠎⠥⠗⠏⠇⠥⠎⠀⠠⠧⠕⠞⠑⠎⠌⠠⠞⠕⠞⠁⠇⠀⠠⠧⠕⠞⠑⠎⠼⠀⠨⠅⠀⠹⠔⠤⠖⠌⠒⠢⠼⠀⠨⠅⠀⠹⠒⠌⠒⠢⠼⠀⠈⠱⠈⠱⠀⠼⠴⠨⠴⠦⠢⠶ | ⠰⠍
+✗ | <math><mrow><mi>y</mi><mo>=</mo><mfrac><mn>6</mn><mn>2</mn></mfrac></mrow></math> | ⠽⠀⠨⠅⠀⠹⠖⠌⠆⠼ | ⠷⠆⠽⠬⠔⠺⠾⠷⠆⠽⠤⠔⠺⠾
+✗ | <math><mfrac><mtext>50</mtext><mtext>10,000</mtext></mfrac></math> | ⠹⠢⠴⠌⠂⠴⠠⠴⠴⠴⠼ | ⠁⠘⠍⠸⠌⠝
+✗ | <math><mrow><msub><mi>σ</mi><msup><mi>χ</mi><mn>2</mn></msup></msub><mtext>=</mtext><msqrt><mrow><mn>2</mn><mrow><mo>(</mo><mrow><mi>d</mi><mi>f</mi></mrow><mo>)</mo></mrow></mrow></msqrt></mrow></math> | ⠨⠎⠰⠨⠯⠰⠘⠆⠀⠨⠅⠀⠜⠆⠷⠙⠋⠾⠻ | ⠃⠀⠨⠅⠀⠼⠢
+✗ | <math><mrow><mi>σ</mi><mo>=</mo><msqrt><mfrac><msup><mrow><mo>(</mo><mrow><mi>b</mi><mo>−</mo><mi>a</mi></mrow><mo>)</mo></mrow><mn>2</mn></msup><mn>12</mn></mfrac></msqrt></mrow></math> | ⠨⠎⠀⠨⠅⠀⠜⠹⠷⠃⠤⠁⠾⠘⠆⠐⠌⠂⠆⠼⠻ | ⠛⠷⠥⠾⠀⠨⠅⠀⠜⠥⠬⠆⠻⠤⠒
+✗ | <math><mrow><mn>3</mn><msup><mrow><mo>(</mo><mrow><mn>5</mn><mi>z</mi></mrow><mo>)</mo></mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></msup></mrow></math> | ⠼⠒⠷⠢⠵⠾⠘⠹⠂⠌⠲⠼ | ⠊⠀⠨⠅⠀⠷⠹⠅⠌⠂⠴⠴⠼⠾⠷⠝⠬⠂⠾
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>54</mn></math> | ⠼⠢⠲ | ⠨⠅⠀⠠⠹⠹⠒⠌⠂⠔⠼⠠⠌⠹⠖⠌⠂⠔⠼⠠⠼
+✗ | <math><mrow><mn>1</mn><mo>/</mo><mn>6</mn></mrow></math> | ⠼⠂⠸⠌⠖ | ⠼⠆⠨⠏⠠
+✗ | <math><mi>α</mi></math> | ⠨⠁ | ⠹⠖⠌⠆⠴⠼
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true" scriptlevel="0"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>16</mn></mstyle></math> | ⠭⠘⠆⠐⠬⠦⠭⠬⠂⠖ | ⠼⠆⠢⠖⠀⠨⠅⠀⠼⠲⠘⠭⠤⠢⠸⠲
+✗ | <math><mfrac><mn>6</mn><mn>50</mn></mfrac></math> | ⠹⠖⠌⠢⠴⠼ | ⠨⠎⠀⠨⠅⠀⠜⠹⠨⠠⠎⠋⠷⠭⠤⠨⠍⠾⠘⠆⠐⠌⠠⠝⠼⠻
+✗ | <math><mover accent="true"><mi>y</mi><mo>¯</mo></mover></math> | ⠽⠱ | ⠼⠂⠦⠬⠂⠔
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo>−</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mrow><mi>sin</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow><mrow><mi>csc</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></mfrac></mstyle></math> | ⠼⠂⠤⠹⠎⠊⠝⠀⠷⠭⠾⠌⠉⠎⠉⠀⠷⠭⠾⠼ | ⠛⠷⠭⠾⠀⠨⠅⠀⠼⠆⠭⠤⠂⠠
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true" scriptlevel="0"><mstyle displaystyle="true" scriptlevel="0"><mfrac><mn>1</mn><mroot><msup><mi>a</mi><mn>3</mn></msup><mn>6</mn></mroot></mfrac></mstyle></mstyle></math> | ⠹⠂⠌⠣⠖⠜⠁⠘⠒⠐⠻⠼ | ⠼⠖
+✗ | <math><mrow><mo>(</mo><mrow><mtext>4</mtext><mtext>.59, </mtext><mfrac><mn>0.10</mn><msqrt><mn>16</mn></msqrt></mfrac></mrow><mo>)</mo></mrow></math> | ⠷⠲⠨⠢⠔⠠⠀⠹⠴⠨⠂⠴⠌⠜⠂⠖⠻⠼⠾ | ⠈⠎⠲⠲⠠⠴⠢⠢⠸⠲
+✗ | <math><mrow><msup><mn>3</mn><mfrac><mn>2</mn><mn>3</mn></mfrac></msup><mo>·</mo><msup><mn>3</mn><mfrac><mn>4</mn><mn>3</mn></mfrac></msup></mrow></math> | ⠼⠒⠘⠹⠆⠌⠒⠼⠐⠡⠒⠘⠹⠲⠌⠒⠼ | ⠁⠀⠨⠅⠀⠨⠷⠆⠠⠀⠖⠠⠀⠂⠴⠠⠀⠨⠨⠨⠨⠾⠸⠆
+✗ | <math><mfrac><msup><mi>z</mi><mfrac><mn>2</mn><mn>3</mn></mfrac></msup><msup><mi>z</mi><mfrac><mn>5</mn><mn>3</mn></mfrac></msup></mfrac></math> | ⠹⠵⠘⠹⠆⠌⠒⠼⠐⠌⠵⠘⠹⠢⠌⠒⠼⠐⠼ | ⠼⠒⠖⠈⠡⠢⠀⠨⠅⠀⠼⠖⠘⠆⠐⠈⠡⠢
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">(</mo><msup><mi>w</mi><mn>5</mn></msup><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>=</mo><msup><mi>w</mi><mn>5</mn></msup><mo>⋅</mo><msup><mi>w</mi><mn>5</mn></msup><mo>=</mo><msup><mi>w</mi><mrow data-mjx-texclass="ORD"><mn>10</mn></mrow></msup></mstyle></math> | ⠷⠺⠘⠢⠐⠾⠘⠆⠀⠨⠅⠀⠺⠘⠢⠐⠡⠺⠘⠢⠀⠨⠅⠀⠺⠘⠂⠴ | ⠋⠷⠭⠾⠀⠨⠅⠀⠹⠭⠘⠆⠐⠤⠂⠌⠭⠘⠒⠐⠬⠔⠭⠘⠆⠐⠬⠂⠲⠭⠼
+✗ | <math><msqrt><mi>x</mi></msqrt></math> | ⠜⠭⠻ | ⠨⠍⠰⠭⠱
+✗ | <math><mrow><mo stretchy="false">(</mo><mi>f</mi><mo>−</mo><mi>g</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mo>−</mo><mn>4</mn><mo stretchy="false">)</mo><mo>=</mo></mrow></math> | ⠷⠋⠤⠛⠾⠷⠤⠲⠾⠀⠨⠅ | ⠼⠲⠘⠤⠹⠒⠌⠆⠼
+✗ | <math><mrow><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>b</mi><mo>.</mo></mrow></math> | ⠽⠀⠨⠅⠀⠍⠭⠬⠃⠸⠲ | ⠼⠒⠂⠨⠒
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>α</mi></math> | ⠨⠁ | ⠨⠎⠰⠭⠱
+✗ | <math><mrow><msub><mi>a</mi><mn>4</mn></msub><mo>=</mo><mn>14</mn></mrow></math> | ⠁⠲⠀⠨⠅⠀⠼⠂⠲ | ⠉⠕⠎⠀⠷⠨⠹⠾⠀⠨⠅⠀⠹⠤⠒⠌⠦⠼⠠⠀⠨⠏⠀⠐⠅⠀⠨⠹⠀⠐⠅⠀⠹⠒⠨⠏⠌⠆⠼⠠
+✗ | <math><mrow><mn>36</mn><mo>/</mo><mn>216</mn><mo>=</mo><mn>0.167</mn></mrow></math> | ⠼⠒⠖⠸⠌⠆⠂⠖⠀⠨⠅⠀⠼⠴⠨⠂⠖⠶ | ⠹⠂⠢⠌⠦⠼⠀⠨⠅⠀⠼⠂⠨⠦⠶⠢⠠
+✗ | <math><mrow><msub><mi>a</mi><mn>5</mn></msub><mo>=</mo><mn>17</mn></mrow></math> | ⠁⠢⠀⠨⠅⠀⠼⠂⠶ | ⠹⠆⠲⠌⠂⠆⠂⠼
+✗ | <math><mrow><mo>−</mo><mn>8</mn></mrow></math> | ⠤⠼⠦ | ⠼⠒⠴
+✗ | <math><msub><mi>A</mi><mn>0</mn></msub></math> | ⠠⠁⠴ | ⠰⠠⠑
+✗ | <math><msup><mn>3</mn><mn>4</mn></msup></math> | ⠼⠒⠘⠲ | ⠼⠂⠬⠒⠀⠨⠅⠀⠼⠲
+✗ | <math><mn>3.</mn></math> | ⠼⠒⠨ | ⠼⠆⠴⠈⠴
+✗ | <math><mrow><mi>b</mi><mo>×</mo><mi>x</mi></mrow></math> | ⠃⠈⠡⠭ | ⠷⠤⠂⠠⠀⠤⠖⠾
+✗ | <math><mrow><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow></math> | ⠽⠀⠨⠅⠀⠼⠒⠭⠤⠲ | ⠭⠘⠆⠐⠬⠂⠴⠭⠬⠆⠢
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi></math> | ⠰⠁ | ⠛⠷⠆⠨⠒⠾
+✗ | <math><mtext>65%</mtext></math> | ⠼⠖⠢⠈⠴ | ⠹⠂⠔⠨⠆⠴⠌⠦⠼⠀⠨⠅⠀⠼⠆⠨⠲⠴
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi><mtext>,</mtext></math> | ⠰⠅⠠ | ⠨⠃⠸⠲
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>g</mi><mtext>,</mtext></math> | ⠰⠛⠠ | ⠋⠷⠭⠾⠀⠨⠅⠀⠼⠲⠘⠭⠸⠲
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><msup><mi>e</mi><mrow data-mjx-texclass="ORD"><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></msup><mtext>,</mtext></math> | ⠋⠷⠭⠾⠀⠨⠅⠀⠑⠘⠤⠭⠘⠘⠆⠠ | ⠍⠀⠨⠅⠀⠤⠼⠂⠠
+✗ | <math><mrow><mi>f</mi><mo>+</mo><mi>g</mi></mrow></math> | ⠋⠬⠛ | ⠗⠀⠨⠅⠀⠼⠴⠨⠔
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mo stretchy="false">(</mo><mn>7</mn><msup><mi>b</mi><mn>3</mn></msup><mo>−</mo><mn>6</mn><msup><mo stretchy="false">)</mo><mn>2</mn></msup></math> | ⠷⠶⠃⠘⠒⠐⠤⠖⠾⠘⠆ | ⠠⠏⠷⠠⠑⠾⠀⠨⠅⠀⠹⠝⠷⠠⠑⠾⠌⠝⠷⠠⠎⠾⠼
+✗ | <math><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>2</mn><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>.</mo></mrow></math> | ⠛⠷⠭⠾⠀⠨⠅⠀⠼⠆⠘⠭⠤⠂⠸⠲ | ⠼⠂⠦
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>m</mi></math> | ⠰⠍ | ⠰⠏
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext> </mtext><mo stretchy="false">(</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>9</mn><mi>w</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mn>2</mn><mi>y</mi><mo>−</mo><mn>9</mn><mi>w</mi><mo stretchy="false">)</mo><mtext> </mtext></math> | ⠷⠆⠽⠬⠔⠺⠾⠷⠆⠽⠤⠔⠺⠾ | ⠼⠴⠨⠢⠘⠭⠀⠨⠅⠀⠼⠴⠨⠆⠴
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>m</mi><mrow data-mjx-texclass="ORD"><mo>/</mo></mrow><mi>n</mi></mrow></msup></math> | ⠁⠘⠍⠸⠌⠝ | ⠎⠷⠭⠾⠀⠨⠅⠀⠼⠢⠭
+✗ | <math><mrow><mi>b</mi><mo>=</mo><mn>5</mn></mrow></math> | ⠃⠀⠨⠅⠀⠼⠢ | ⠼⠖⠖⠘⠨⠡
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>g</mi><mo stretchy="false">(</mo><mi>u</mi><mo stretchy="false">)</mo><mo>=</mo><msqrt><mi>u</mi><mo>+</mo><mn>2</mn></msqrt><mo>−</mo><mn>3</mn></math> | ⠛⠷⠥⠾⠀⠨⠅⠀⠜⠥⠬⠆⠻⠤⠒ | ⠠⠏⠷⠠⠁⠾⠀⠨⠅⠀⠹⠠⠝⠥⠍⠃⠑⠗⠀⠕⠋⠀⠞⠊⠍⠑⠎⠀⠑⠧⠑⠝⠞⠀⠠⠁⠀⠕⠉⠉⠥⠗⠎⠲⠌⠠⠞⠕⠞⠁⠇⠀⠝⠥⠍⠃⠑⠗⠀⠕⠋⠀⠞⠗⠊⠁⠇⠎⠼
+✗ | <math><mrow><mi>i</mi><mo>=</mo><mrow><mo>(</mo><mfrac><mi>k</mi><mn>100</mn></mfrac><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></math> | ⠊⠀⠨⠅⠀⠷⠹⠅⠌⠂⠴⠴⠼⠾⠷⠝⠬⠂⠾ | ⠨⠎⠰⠭⠘⠆
+✗ | <math><mrow><mspace width="0.25em"></mspace><mo>=</mo><mspace width="0.25em"></mspace><mfrac><mfrac><mn>3</mn><mn>19</mn></mfrac><mfrac><mn>6</mn><mn>19</mn></mfrac></mfrac></mrow></math> | ⠨⠅⠀⠠⠹⠹⠒⠌⠂⠔⠼⠠⠌⠹⠖⠌⠂⠔⠼⠠⠼ | ⠹⠒⠨⠢⠌⠶⠼
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2</mn><mi>π</mi><mtext>,</mtext></math> | ⠼⠆⠨⠏⠠ | ⠰⠠⠺
+✗ | <math><mfrac><mn>6</mn><mn>20</mn></mfrac></math> | ⠹⠖⠌⠆⠴⠼ | ⠷⠲⠨⠢⠔⠠⠀⠹⠜⠂⠖⠻⠌⠴⠨⠂⠴⠼⠾
+✗ | <math><mrow><mn>256</mn><mo>=</mo><msup><mn>4</mn><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow></msup><mo>.</mo></mrow></math> | ⠼⠆⠢⠖⠀⠨⠅⠀⠼⠲⠘⠭⠤⠢⠸⠲ | ⠭⠀⠫⠕⠀⠁⠘⠤
+✗ | <math><mrow><mi>σ</mi><mo> </mo><mo>=</mo><mo> </mo><msqrt><mfrac><mrow><mi>Σ</mi><mi>f</mi><msup><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>–</mo><mi>μ</mi><mo stretchy="false">)</mo></mrow><mn>2</mn></msup></mrow><mi>N</mi></mfrac></msqrt></mrow></math> | ⠨⠎⠀⠨⠅⠀⠜⠹⠨⠠⠎⠋⠷⠭⠤⠤⠨⠍⠾⠘⠆⠐⠌⠠⠝⠼⠻ | ⠰⠅
+✗ | <math><mrow><mn>18</mn><mo>+</mo><mn>19</mn></mrow></math> | ⠼⠂⠦⠬⠂⠔ | ⠷⠼⠂⠨⠴⠶⠘⠲⠐⠾⠘⠏
+✗ | <math><mrow><mi>g</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn><mtext>,</mtext></mrow></math> | ⠛⠷⠭⠾⠀⠨⠅⠀⠼⠆⠭⠤⠂⠠ | ⠋⠷⠖⠴⠾⠀⠨⠅⠀⠼⠴⠨⠴⠲
+✗ | <math><mn>6</mn></math> | ⠼⠖ | ⠼⠆⠨⠴
+✗ | <math><mrow><mtext>$44,055</mtext><mo>.</mo></mrow></math> | ⠈⠎⠲⠲⠠⠴⠢⠢⠸⠲ | ⠛⠷⠭⠾⠀⠨⠅⠀⠼⠆⠭⠘⠆
+✗ | <math><mrow><mi>a</mi><mo>=</mo><mo>{</mo><mn>2</mn><mtext>, </mtext><mn>6</mn><mtext>, </mtext><mn>10</mn><mtext>, </mtext><mn>...</mn><mo>}</mo><mo>;</mo></mrow></math> | ⠁⠀⠨⠅⠀⠨⠷⠆⠠⠀⠼⠖⠠⠀⠼⠂⠴⠠⠀⠼⠨⠨⠨⠐⠨⠾⠸⠆ | ⠎⠊⠝⠘⠤⠂⠀⠷⠎⠊⠝⠀⠷⠭⠾⠾⠀⠍⠁⠽⠀⠝⠕⠞⠀⠃⠑⠀⠑⠟⠥⠁⠇⠀⠞⠕⠀⠰⠭
+✗ | <math><mrow><mn>36</mn><mo>×</mo><mn>5</mn><mo>=</mo><msup><mn>6</mn><mn>2</mn></msup><mo>×</mo><mn>5</mn></mrow></math> | ⠼⠒⠖⠈⠡⠢⠀⠨⠅⠀⠼⠖⠘⠆⠐⠈⠡⠢ | ⠋⠷⠭⠾⠀⠨⠅⠀⠭⠘⠆⠐⠬⠢⠭⠬⠖
+✗ | <math><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn></mrow><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>14</mn><mi>x</mi></mrow></mfrac></mrow></math> | ⠋⠷⠭⠾⠀⠨⠅⠀⠹⠭⠘⠆⠐⠤⠂⠌⠭⠘⠒⠐⠬⠔⠭⠘⠆⠐⠬⠂⠲⠭⠼ | ⠜⠷⠢⠆⠨⠒⠾⠻
+✗ | <math><msub><mi>µ</mi><mover><mi>x</mi><mo>−</mo></mover></msub></math> | ⠨⠍⠰⠭⠱ | ⠭⠀⠨⠅⠀⠭⠂⠠⠀⠭⠆⠠⠀⠄⠄⠄⠠⠀⠭⠰⠝⠠
+✗ | <math><msup><mn>4</mn><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></math> | ⠼⠲⠘⠤⠹⠒⠌⠆⠼ | ⠋⠷⠭⠾⠀⠨⠅⠀⠭⠘⠹⠂⠌⠆⠼
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>31.3</mn></math> | ⠼⠒⠂⠨⠒ | ⠽⠀⠨⠅⠀⠼⠴⠨⠲⠭⠘⠆⠐⠤⠆⠨⠒⠠
+✗ | <math><msub><mi>σ</mi><mover accent="true"><mi>x</mi><mo>¯</mo></mover></msub></math> | ⠨⠎⠰⠭⠱ | ⠼⠲⠒⠆
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mtext> </mtext><mi>cos</mi><mo data-mjx-texclass="NONE">⁡</mo><mo stretchy="false">(</mo><mi>θ</mi><mo stretchy="false">)</mo><mo>=</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mrow><mo>−</mo><mn>3</mn></mrow><mn>8</mn></mfrac></mstyle><mo>,</mo><mtext> </mtext><mi>π</mi><mo>&lt;</mo><mi>θ</mi><mo>&lt;</mo><mstyle displaystyle="true" scriptlevel="0"><mfrac><mrow><mn>3</mn><mi>π</mi></mrow><mn>2</mn></mfrac></mstyle><mo>,</mo></math> | ⠉⠕⠎⠀⠷⠨⠹⠾⠀⠨⠅⠀⠹⠤⠒⠌⠦⠼⠠⠀⠨⠏⠀⠐⠅⠀⠨⠹⠀⠐⠅⠀⠹⠒⠨⠏⠌⠆⠼⠠ | ⠠⠽⠍⠊⠝⠀⠨⠅⠀⠤⠼⠆⠴⠠
+✗ | <math><mrow><mfrac><mn>15</mn><mn>8</mn></mfrac><mo>=</mo><mn>1.875</mn><mo>,</mo></mrow></math> | ⠹⠂⠢⠌⠦⠼⠀⠨⠅⠀⠼⠂⠨⠦⠶⠢⠠ | ⠇⠕⠛⠰⠃⠀⠷⠠⠎⠾⠀⠨⠅⠀⠉⠀⠊⠋⠀⠁⠝⠙⠀⠕⠝⠇⠽⠀⠊⠋⠀⠃⠘⠉⠀⠨⠅⠀⠠⠎
+✗ | <math><mfrac><mn>24</mn><mn>121</mn></mfrac></math> | ⠹⠆⠲⠌⠂⠆⠂⠼ | ⠫⠒⠒⠕
+✗ | <math><mn>30</mn></math> | ⠼⠒⠴ | ⠼⠂⠖⠁⠘⠆⠐⠤⠲⠴⠁⠃⠬⠆⠢⠃⠘⠆
+✗ | <math><mi>E</mi></math> | ⠰⠠⠑ | ⠰⠓
+✗ | <math><mrow><mn>1</mn><mo>+</mo><mn>3</mn><mo>=</mo><mn>4</mn></mrow></math> | ⠼⠂⠬⠒⠀⠨⠅⠀⠼⠲ | ⠓⠷⠧⠾⠀⠨⠅⠀⠧⠡⠋⠷⠧⠾⠸⠲
+✗ | <math><mrow><mn>20</mn><mi mathvariant="normal">%</mi></mrow></math> | ⠼⠆⠴⠈⠴ | ⠷⠓⠠⠀⠅⠾
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">(</mo><mo>−</mo><mn>1</mn><mo>,</mo><mo>−</mo><mn>6</mn><mo stretchy="false">)</mo></mstyle></math> | ⠷⠤⠂⠠⠀⠤⠖⠾ | ⠜⠒⠷⠲⠾⠻⠀⠈⠱⠈⠱⠀⠼⠒⠨⠲⠖
+✗ | <math><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>10</mn><mi>x</mi><mo>+</mo><mn>25</mn></mrow></math> | ⠭⠘⠆⠐⠬⠂⠴⠭⠬⠆⠢ | ⠁⠰⠝
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true" scriptlevel="0"><mi>g</mi><mo stretchy="false">(</mo><mn>2.3</mn><mo stretchy="false">)</mo></mstyle></math> | ⠛⠷⠆⠨⠒⠾ | ⠹⠒⠌⠲⠼⠀⠨⠅⠀⠼⠦⠤⠹⠆⠭⠬⠂⠂⠌⠭⠤⠢⠼
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true" scriptlevel="0"><mfrac><mn>19.20</mn><mn>8</mn></mfrac></mstyle><mo>=</mo><mn>2.40</mn></math> | ⠹⠂⠔⠨⠆⠴⠌⠦⠼⠀⠨⠅⠀⠼⠆⠨⠲⠴ | ⠼⠲⠨⠒
+✗ | <math><mrow><mi>β</mi><mtext>.</mtext></mrow></math> | ⠨⠃⠸⠲ | ⠋⠷⠭⠾⠀⠨⠅⠀⠞⠁⠝⠀⠷⠭⠾⠈⠷⠉⠕⠎⠀⠷⠭⠾⠤⠉⠕⠞⠀⠷⠭⠾⠈⠾
+✗ | <math><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>4</mn><mi>x</mi></msup><mo>.</mo></mrow></math> | ⠋⠷⠭⠾⠀⠨⠅⠀⠼⠲⠘⠭⠸⠲ | ⠭⠘⠆
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>m</mi><mo>=</mo><mo>−</mo><mn>1</mn><mtext>,</mtext></math> | ⠍⠀⠨⠅⠀⠤⠼⠂⠠ | ⠷⠤⠼⠢⠉⠤⠖⠾⠬⠷⠤⠼⠂⠂⠉⠬⠂⠢⠾
+✗ | <math><mrow><mi>r</mi><mo>=</mo><mn>0.9</mn></mrow></math> | ⠗⠀⠨⠅⠀⠼⠴⠨⠔ | ⠉⠕⠎⠘⠆⠀⠷⠨⠁⠾⠤⠎⠊⠝⠘⠆⠀⠷⠨⠁⠾⠀⠨⠅⠀⠤⠼⠂
+✗ | <math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>E</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mi>n</mi><mo stretchy="false">(</mo><mi>E</mi><mo stretchy="false">)</mo></mrow><mrow><mi>n</mi><mo stretchy="false">(</mo><mi>S</mi><mo stretchy="false">)</mo></mrow></mfrac></mrow></math> | ⠠⠏⠷⠠⠑⠾⠀⠨⠅⠀⠹⠝⠷⠠⠑⠾⠌⠝⠷⠠⠎⠾⠼ | ⠋⠷⠭⠾⠀⠨⠅⠀⠼⠆⠭⠘⠆⠐⠬⠭⠤⠂
+✗ | <math><mn>18</mn></math> | ⠼⠂⠦ | ⠰⠠⠭
+✗ | <math><mi>p</mi></math> | ⠰⠏ | ⠠⠏⠰⠍
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mstyle displaystyle="true" scriptlevel="0"><msup><mn>0.5</mn><mi>x</mi></msup><mo>=</mo><mn>0.20</mn></mstyle></math> | ⠼⠴⠨⠢⠘⠭⠀⠨⠅⠀⠼⠴⠨⠆⠴ | ⠍⠀⠨⠅⠀⠹⠆⠠⠑⠌⠧⠘⠆⠐⠼
+✗ | <math><mrow><mi>s</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mn>5</mn><mi>x</mi></mrow></math> | ⠎⠷⠭⠾⠀⠨⠅⠀⠼⠢⠭ | ⠼⠂⠂⠆
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mn>66</mn><mrow data-mjx-texclass="ORD"><mo>∘</mo></mrow></msup></math> | ⠼⠖⠖⠘⠨⠡ | ⠋⠷⠭⠾⠀⠈⠱⠈⠱⠀⠹⠒⠭⠘⠆⠐⠌⠭⠘⠆⠐⠼⠀⠨⠅⠀⠼⠒⠸⠲
+✗ | <math><mrow><mi>P</mi><mo stretchy="false">(</mo><mi>A</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mtext>Number of times event A occurs.</mtext><mtext>Total number of trials</mtext></mfrac></mrow></math> | ⠠⠏⠷⠠⠁⠾⠀⠨⠅⠀⠹⠠⠝⠥⠍⠃⠑⠗⠀⠕⠋⠀⠞⠊⠍⠑⠎⠀⠑⠧⠑⠝⠞⠀⠰⠠⠁⠀⠕⠉⠉⠥⠗⠎⠲⠌⠠⠞⠕⠞⠁⠇⠀⠝⠥⠍⠃⠑⠗⠀⠕⠋⠀⠞⠗⠊⠁⠇⠎⠼ | ⠣⠢⠜⠤⠆⠲⠒⠻
+✗ | <math><msubsup><mi>σ</mi><mi>x</mi><mn>2</mn></msubsup></math> | ⠨⠎⠰⠭⠘⠆ | ⠠⠏⠷⠠⠍⠄⠾⠀⠨⠅⠀⠹⠝⠥⠍⠃⠑⠗⠀⠕⠋⠀⠎⠥⠃⠚⠑⠉⠞⠎⠀⠺⠓⠕⠀⠁⠗⠑⠀⠝⠕⠞⠀⠍⠁⠇⠑⠌⠞⠕⠞⠁⠇⠀⠝⠥⠍⠃⠑⠗⠀⠕⠋⠀⠎⠥⠃⠚⠑⠉⠞⠎⠼⠀⠨⠅⠀⠹⠲⠲⠬⠲⠌⠲⠒⠬⠔⠬⠲⠲⠬⠲⠼⠀⠨⠅⠀⠹⠲⠦⠌⠂⠴⠴⠼⠀⠨⠅⠀⠼⠨⠲⠦
+✗ | <math><mfrac><mn>3.5</mn><mn>7</mn></mfrac></math> | ⠹⠒⠨⠢⠌⠶⠼ | ⠇⠝⠀⠷⠒⠾⠬⠇⠝⠀⠷⠲⠨⠲⠭⠬⠖⠨⠦⠾⠀⠨⠅⠀⠼⠆
+✗ | <math><mi>W</mi></math> | ⠰⠠⠺ | ⠰⠞⠸⠲
+✗ | <math><mrow><mo>(</mo><mrow><mtext>4</mtext><mtext>.59, </mtext><mfrac><msqrt><mn>16</mn></msqrt><mn>0.10</mn></mfrac></mrow><mo>)</mo></mrow></math> | ⠷⠲⠨⠢⠔⠠⠀⠹⠜⠂⠖⠻⠌⠴⠨⠂⠴⠼⠾ | ⠼⠦⠜⠂⠴⠻⠈⠡⠒⠜⠆⠻
+✗ | <math><mrow><mi>x</mi><mo stretchy="false">→</mo><msup><mi>a</mi><mo>−</mo></msup></mrow></math> | ⠭⠀⠫⠕⠀⠁⠘⠤ | ⠹⠲⠽⠘⠆⠐⠤⠂⠌⠲⠤⠽⠘⠆⠐⠼⠡⠹⠽⠘⠆⠐⠤⠆⠽⠌⠲⠽⠬⠆⠼
+✗ | <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>k</mi></math> | ⠰⠅ | ⠼⠲⠨⠶⠈⠴⠨⠌⠆⠀⠨⠅⠀⠼⠆⠨⠒⠢⠈⠴
+✗ | <math><mrow><mn>144</mn><mo>=</mo><msup><mn>2</mn><mn>4</mn></msup><mo>×</mo><msup><mn>3</mn><mn>2</mn></msup></mrow></math> | ⠼⠂⠲⠲⠀⠨⠅⠀⠼⠆⠘⠲⠐⠈⠡⠒⠘⠆ | ⠇⠕⠛⠀⠷⠹⠂⠌⠂⠴⠴⠼⠾⠀⠨⠅⠀⠤⠼⠆
+# Matches: 0 out of 122: 0%.
