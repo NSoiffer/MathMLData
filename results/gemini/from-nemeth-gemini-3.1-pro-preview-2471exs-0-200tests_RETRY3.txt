@@ -383,3 +383,5 @@ Match | Test Input | Expected | Computed
 ✓ | ⠼⠲⠨⠶⠈⠴⠨⠌⠆⠀⠨⠅⠀⠼⠆⠨⠒⠢⠈⠴ | <math> <mrow> <mrow> <mn>4.7</mn> <mo>%</mo> <mrow> <mo>÷</mo> <mn>2</mn> </mrow> </mrow> <mo>=</mo> <mrow> <mn>2.35</mn> <mo>%</mo> </mrow> </mrow> </math> | <math> <mrow> <mrow> <mn>4.7</mn> <mo>%</mo> <mrow> <mo>÷</mo> <mn>2</mn> </mrow> </mrow> <mo>=</mo> <mrow> <mn>2.35</mn> <mo>%</mo> </mrow> </mrow> </math>
 ✓ | ⠇⠕⠛⠀⠷⠹⠂⠌⠂⠴⠴⠼⠾⠀⠨⠅⠀⠤⠼⠆ | <math> <mrow> <mrow> <mi>log</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mfrac> <mn>1</mn> <mn>100</mn> </mfrac> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </mrow> </math> | <math> <mrow> <mrow> <mi>log</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mfrac> <mn>1</mn> <mn>100</mn> </mfrac> <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow> <mo>-</mo> <mn>2</mn> </mrow> </mrow> </math>
 # Matches: 94 out of 181: 52%.
+94/100
+72/80
